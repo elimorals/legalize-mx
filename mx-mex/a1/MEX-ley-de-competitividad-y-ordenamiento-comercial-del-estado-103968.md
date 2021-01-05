@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-competitividad-y-ordenamiento-comercial-del-estado-10396
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-18"
-last_updated: "2020-09-29"
+last_updated: "2021-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2014.
 
@@ -75,9 +75,9 @@ VII. Código Financiero: Al Código Financiero del Estado de México y Municipio
 
 VIII. Comercializadora: A la unidad económica donde se ejerce la compra y/o venta de oro y/o plata.
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-VIII Bis. Comisión: A la Comisión de Factibilidad del Estado de México;
+VIII Bis. Comité: Al Comité Municipal de Dictámenes de Giro;
 
 IX. (DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2018)
 
@@ -85,15 +85,15 @@ X. COPRISEM: A la Comisión para la Protección contra Riesgos Sanitarios del Es
 
 XI. Dependiente: A toda persona que desempeñe, constantemente, las gestiones propias del funcionamiento de la unidad económica en ausencia, a nombre y cuenta del titular.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XII. Dictamen Único de Factibilidad: Al Dictamen Único de Factibilidad, que es el documento de carácter permanente emitido por la Comisión de Factibilidad del Estado de México, sustentado en las evaluaciones técnicas de factibilidad en materias de salubridad local, desarrollo urbano y vivienda, protección civil, medio ambiente, desarrollo económico, comunicaciones, movilidad y agua, drenaje, alcantarillado y tratamiento de aguas residuales, previo análisis normativo multidisciplinario, cuya finalidad es determinar la factibilidad de la construcción, apertura, instalación, operación, ampliación o funcionamiento de obras, unidades económicas, inversiones o proyectos, que por su uso o aprovechamiento del suelo generen efectos en el equipamiento urbano, infraestructura, servicios públicos, en el entorno ambiental o salud, en términos de las disposiciones jurídicas aplicables;
+XII. Dictamen de Giro: Al documento de carácter permanente emitido por el Comité Municipal de Dictámenes de Giro, sustentado en las evaluaciones que realicen las autoridades municipales en el ámbito de su competencia, en materias de salubridad local tratándose de venta de bebidas alcohólicas para consumo inmediato y rastros, previo análisis normativo multidisciplinario, para el funcionamiento de las unidades económicas que regula la presente Ley en los casos que expresamente así lo prevé y en términos de las disposiciones jurídicas aplicables de acuerdo con los principios de transparencia y publicidad;
 
 XIII. Enseres en vía pública: A aquellos objetos como sombrillas, mesas, sillas o cualquier instalación desmontable, colocados en la vía pública para la prestación del servicio que otorga la unidad económica.
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XIII Bis. Evaluación Técnica de Factibilidad: Al análisis efectuado por las dependencias y organismos auxiliares de la administración pública estatal según corresponda en materias de salubridad local, desarrollo urbano y vivienda, protección civil, medio ambiente, desarrollo económico, comunicaciones, movilidad y agua, drenaje, alcantarillado y tratamiento de aguas residuales, respecto de la construcción, apertura, instalación, operación, ampliación o funcionamiento de obras, unidades económicas, inversiones o proyectos, cuya resolución de procedencia o improcedencia podrá ser emitida, inclusive mediante el uso de plataformas tecnológicas, por las autoridades correspondientes;
+XIII Bis. Evaluación Técnica de Factibilidad: Al análisis efectuado por las autoridades municipales competentes en materias de salubridad local, que sustentan el Dictamen de Giro, para el funcionamiento de unidades económicas, cuya resolución de procedencia o improcedencia podrá ser emitida, inclusive mediante el uso de plataformas tecnológicas;
 
 > <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -137,9 +137,9 @@ XXXI. Traspaso: A la transmisión que realiza el titular de un permiso o una lic
 
 XXXII. Unidad económica: A la productora de bienes y servicios.
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XXXIII. Unidad económica de alto impacto: A la que tiene como actividad principal la venta de bebidas alcohólicas para su consumo inmediato, y las demás que requieran de dictamen único de factibilidad.
+XXXIII. Unidad económica de alto impacto: A la que tiene como actividad principal la venta de bebidas alcohólicas para su consumo inmediato y todas aquellas que requieran de Dictamen de Giro en los términos previstos por las disposiciones jurídicas correspondientes;
 
 XXXIV. Unidad económica de bajo impacto: A las que se les autoriza la venta de bebidas alcohólicas en envase cerrado y no sean para el consumo inmediato, y las demás que no se encuentren comprendidas en mediano y alto impacto.
 
@@ -151,19 +151,17 @@ XXXVII. Ventanilla de gestión: Al órgano administrativo de la Secretaría de D
 
 XXXVIII. Ventanilla única: Al órgano administrativo del Municipio.
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
-
-XXXIX. Verificación: Al acto administrativo por el que el Instituto de Verificación Administrativa del Estado de México, en coordinación con las dependencias y organismo auxiliares competentes, a través del personal autorizado y previa orden emitida por la autoridad competente, verifican, mediante revisión ocular y examen de documentos el cumplimiento de las condiciones, requerimientos u obligaciones para una obra, unidad económica, inversiones o proyectos, contempladas en las evaluaciones técnicas de factibilidad y/o en el Dictamen Único de Factibilidad y demás normatividad de la materia aplicable;
+XXXIX. (DEROGADA, G.G. 5 DE ENERO DE 2021)
 
 XL. Verificadores: A los servidores públicos autorizados que inspeccionan las actividades que se realizan en las unidades económicas y comprueban el cumplimiento de las disposiciones jurídicas aplicables.
 
 XLI. (DEROGADA, G.G. 8 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 3.
 
-Para efectos de esta Ley, se aplicarán, de forma supletoria, la Ley de Fomento Económico para el Estado de México, la Ley que crea la Comisión de Factibilidad del Estado de México, la Ley que crea el Instituto de Verificación Administrativa del Estado de México, la Ley para la Mejora Regulatoria del Estado de México y Municipios; los Códigos Financiero del Estado de México y Municipios, para la Biodiversidad del Estado de México, Administrativo del Estado de México, de Procedimientos Administrativos del Estado de México, Civil del Estado de México y de Procedimientos Civiles del Estado de México.
+Para efectos de esta Ley, se aplicarán, de forma supletoria, la Ley de Fomento Económico para el Estado de México, la Ley que crea el Instituto de Verificación Administrativa del Estado de México, la Ley de Cambio Climático del Estado de México, la Ley para la Mejora Regulatoria del Estado de México y Municipios; los Códigos Financiero del Estado de México y Municipios, para la Biodiversidad del Estado de México, Administrativo del Estado de México, de Procedimientos Administrativos del Estado de México, Civil del Estado de México y de Procedimientos Civiles del Estado de México.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES
 
@@ -195,9 +193,9 @@ VIII. Ayuntamientos.
 
 IX. COPRISEM.
 
-> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-X. Comisión.
+X. Comité, en el ámbito de su competencia.
 
 > <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -233,9 +231,7 @@ IX. Instruir o solicitar, según corresponda, la ejecución y el trámite de vis
 
 X. Dar respuesta, en un término de tres días hábiles, a las solicitudes que le realice la ventanilla única.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
-
-Por cuanto hace a la ventanilla de gestión, la Comisión dará respuesta en los términos contemplados en el Reglamento Interior de la Comisión;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -293,11 +289,11 @@ X. Las demás que le confieran esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO III. DEL SISTEMA DE UNIDADES ECONÓMICAS
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 8.
 
-El Sistema se integrará por los registros de las unidades económicas y las ventanillas que operarán de manera permanente, en coordinación con las autoridades estatales, municipales y la Comisión, conteniendo la información básica de las unidades económicas.
+El Sistema se integrará por los registros de las unidades económicas y las ventanillas que operarán de manera permanente, en coordinación con las autoridades estatales y municipales conteniendo la información básica de las unidades económicas.
 
 ###### Artículo 9.
 
@@ -379,9 +375,9 @@ I. Permisos.
 
 II. Licencias.
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-III. Evaluaciones técnicas de factibilidad y Dictamen Único de Factibilidad, en su caso;
+III. Evaluaciones técnicas de factibilidad y Dictamen de Giro, en su caso;
 
 IV. Cédula informativa de zonificación.
 
@@ -391,9 +387,13 @@ V. Las demás que sean necesarias para la apertura de las unidades económicas.
 
 La ventanilla única entregará al solicitante o representante legal la respuesta de su trámite en un término no mayor a cinco días hábiles, a partir de la fecha del acuse de recibo.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2021)</small>
 
-La ventanilla de gestión deberá entregar al solicitante o representante legal la respuesta de su trámite en los términos contemplados en el Reglamento Interior de la Comisión y demás disposiciones jurídicas aplicables.
+Tratándose de solicitudes de dictámenes de giro, la ventanilla única entregará la respuesta de su trámite al solicitante o representante legal en los términos contemplados en la presente ley para esos efectos.
+
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
+
+La ventanilla de gestión deberá entregar al solicitante o representante legal la respuesta de su trámite en los términos contemplados en las disposiciones jurídicas aplicables.
 
 La autoridad podrá prorrogar hasta por 5 días hábiles el término anterior, siempre y cuando justifique la necesidad para ello.
 
@@ -411,9 +411,71 @@ El responsable de la ventanilla tendrá la obligación de denunciar, ante el ór
 
 La operación y debido funcionamiento de la ventanilla de gestión estará a cargo del servidor público que designe la Secretaría de Desarrollo Económico, y la ventanilla única será responsabilidad del Presidente Municipal, las infracciones que se den en el funcionamiento de las ventanillas serán sancionadas en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
-#### SECCIÓN I. DE LAS UNIDADES ECONÓMICAS DE MEDIANO IMPACTO
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 5 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+#### SECCIÓN III. DEL DICTAMEN DE GIRO
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2021)</small>
+
+###### Artículo 20 Bis.
+
+El Dictamen de Giro es el documento de carácter permanente emitido por el Comité Municipal de Dictámenes de Giro, sustentado en las evaluaciones técnicas de factibilidad en materias de salubridad local tratándose de venta de bebidas alcohólicas y rastros, cuya finalidad es determinar el funcionamiento de unidades económicas, en términos de esta Ley y las disposiciones jurídicas aplicables de acuerdo con los principios de transparencia y publicidad.
+
+El Comité a que se refiere el párrafo anterior, estará integrado por las personas titulares de las Direcciones municipales de Desarrollo Económico, Desarrollo Urbano, Ecología, Protección Civil, Salud o sus equivalentes, un representante de las Cámaras Empresariales, así como un representante del Comité Coordinador del Sistema Municipal Anticorrupción y un representante de la Contraloría Municipal. Será presidido por la o el Presidente Municipal o quien éste determine, y tendrá la finalidad de establecer la factibilidad para la operación de las actividades previstas en la presente Ley en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2021)</small>
+
+###### Artículo 20 Ter.
+
+Para obtener el Dictamen de Giro, se deberá presentar solicitud conforme a los formatos, requisitos, documentos y anexos técnicos establecidos en el Registro Municipal de Trámites y Servicios.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2021)</small>
+
+###### Artículo 20 Quáter.
+
+Si del análisis respectivo, se determina que la documentación no cumple con requisitos de forma, se notificará al solicitante dentro del plazo de diez días hábiles y se le otorgará un plazo de tres días hábiles para que la subsane. Si transcurrido el plazo no se ha dado cumplimiento, se tendrá por concluida la solicitud, informando de manera transparente y fundamentada las motivaciones de la determinación en sentido negativo.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2021)</small>
+
+###### Artículo 20 Quinquies.
+
+Una vez cumplida la integración de la totalidad de los formatos, requisitos, documentos y anexos técnicos establecidos en el Registro Municipal de Trámites y servicios que acompañan a la solicitud del Dictamen de Giro, el Comité Municipal de Dictámenes de Giro, emitirá el oficio de procedencia jurídica con el cual, la o el solicitante, puede iniciar la gestión de autorizaciones, licencias y permisos ante las autoridades municipales correspondientes, mismo que no es vinculante para la determinación de procedencia del Dictamen de Giro.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2021)</small>
+
+Artículo 20 Sexties. Recibidos los documentos que acrediten los requisitos, en un plazo no mayor a tres días hábiles, el Comité Municipal de Dictámenes de Giro, determinará si existe la necesidad de practicar visita o supervisión técnica y física a la unidad económica, precisando el objeto y alcance de la misma, así como, las autoridades que sean competentes para realizar dicha visita y el plazo para ejecutarla, el cual no será mayor a diez días hábiles.
+
+De ser así, en un plazo máximo de tres días hábiles, el Comité Municipal de Dictámenes de Giro notificará a las autoridades municipales correspondientes, para que realicen la supervisión técnica y física del inmueble de la unidad económica, con el objeto de allegarse de los elementos indispensables y estar en aptitud de emitir la evaluación técnica de factibilidad respectiva, que en su caso integre la determinación del Dictamen de Giro o la resolución correspondiente.
+
+Una vez realizada la visita, se deberá elaborar el acta de la misma y entregar al Comité Municipal de Dictámenes de Giro, dentro del término de tres días hábiles.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2021)</small>
+
+###### Artículo 20 Septies.
+
+Concluidas las visitas o supervisiones del artículo anterior, las instancias correspondientes contarán con un plazo improrrogable de veinte días hábiles para emitir las evaluaciones técnicas de factibilidad o la determinación correspondiente y remitirlas al Comité Municipal de Dictámenes de Giro.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2021)</small>
+
+###### Artículo 20 Octies.
+
+Si del análisis técnico de la documentación de la unidad económica y de la visita o supervisión, se concluye, de manera fundada y motivada, la necesidad de otros estudios específicos, contemplados en las disposiciones jurídicas aplicables, dentro del plazo máximo de cinco días hábiles, se notificará a la o el solicitante, a fin de que dé cumplimiento en el término fijado al efecto, que en ningún caso podrá exceder quince días hábiles.
+
+Si por caso fortuito o fuerza mayor el solicitante no pudiera dar cumplimiento o presentar los estudios específicos requeridos, podrá solicitar una prórroga al Comité Municipal de Dictámenes de Giro, el que notificará sobre la procedencia y la ampliación del plazo, hasta por diez días hábiles más. La solicitud de prórroga deberá ser presentada antes de que concluya el plazo fijado para la presentación de los estudios específicos.
+
+Si los estudios no son presentados dentro del plazo fijado para dicho efecto, se dará por concluida la solicitud correspondiente.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2021)</small>
+
+###### Artículo 20 Nonies.
+
+Emitidas las evaluaciones técnicas favorables, se procederá a elaborar el Dictamen de Giro, en un plazo no mayor a diez días hábiles, debiendo notificar al solicitante.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2021)</small>
+
+###### Artículo 20 Decies.
+
+Ningún trámite para la emisión del Dictamen de Giro, podrá exceder el tiempo previsto para su resolución, salvo los casos que debidamente fundado y motivado así se determinen.
 
 ## TÍTULO SEGUNDO. DE LAS UNIDADES ECONÓMICAS
 
@@ -423,15 +485,15 @@ La operación y debido funcionamiento de la ventanilla de gestión estará a car
 
 Los titulares de las unidades económicas tienen las obligaciones siguientes:
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-I. Destinar el local exclusivamente para la actividad autorizada en el Dictamen Único de Factibilidad, permiso o licencia de funcionamiento, según sea el caso.
+I. Destinar el local exclusivamente para la actividad autorizada en el Dictamen de Giro, permiso o licencia de funcionamiento, según sea el caso.
 
 II. Adoptar todas las medidas que sean necesarias para evitar la comisión de conductas ilícitas o lesivas a la persona humana o se incite a estas.
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-III. Tener en la unidad económica el original o copia certificada (sic) Dictamen Único de Factibilidad, permiso o licencia de funcionamiento, según sea el caso.
+III. Tener en la unidad económica el original o copia certificada del Dictamen de Giro, permiso o licencia de funcionamiento, según sea el caso.
 
 IV. Refrendar el permiso o licencia de funcionamiento.
 
@@ -811,13 +873,17 @@ Los titulares de aquellas unidades económicas en donde se preste al público el
 
 ### CAPÍTULO V. DE LAS UNIDADES ECONÓMICAS DE MEDIANO Y ALTO IMPACTO
 
-#### SECCIÓN II. DE LAS UNIDADES ECONÓMICAS DE ALTO IMPACTO
+#### SECCIÓN I. DE LAS UNIDADES ECONÓMICAS DE MEDIANO IMPACTO
+
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 46.
 
 Los salones de fiesta tendrán como actividad, la renta de espacio a particulares para la celebración de eventos y fiestas privadas y podrán llevar a cabo la venta de alimentos o bebidas, incluidas las alcohólicas, sin que en ningún caso se pueda llevar a cabo el cobro de una cantidad por admisión individual. Esta disposición aplica a los jardines que sean utilizados para los mismos fines.
 
-Los salones, jardines y/o análogos que lleven a cabo la venta de bebidas alcohólicas deberán contar con el Dictamen Único de Factibilidad, en términos de lo dispuesto en esta Ley.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
+
+Los salones, jardines y/o análogos que lleven a cabo la venta de bebidas alcohólicas deberán contar con el Dictamen de Giro, en términos de lo dispuesto en esta Ley.
 
 Los salones de fiesta, jardines y/o análogos que no lleven a cabo la venta de bebidas alcohólicas sino únicamente presten el servicio de renta para la celebración de eventos y fiestas privadas no requerirán de dicho Dictamen, sin embargo, deberán dar cumplimiento a las disposiciones de la materia aplicables.
 
@@ -897,13 +963,13 @@ En la solicitud de permiso correspondiente se manifestará que el objeto social 
 
 Las unidades económicas de alto impacto no podrán tener la modalidad de club privado.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 52 Bis.
 
-Para unidades económicas de mediano impacto, la Comisión, en términos de lo dispuesto en su Reglamento Interior, en caso de estimarlo indispensable, podrá simplificar los requisitos para la apertura, construcción, instalación, operación, ampliación o funcionamiento de éstas, con la finalidad de evitar que el costo que generan los requisitos aplicables, sea mayor a la inversión del proyecto económico y no se cause un perjuicio a la o al titular del proyecto.
+Para unidades económicas de alto y mediano impacto, el Comité, en caso de estimarlo indispensable, podrá simplificar los requisitos con la finalidad de evitar que el costo que generan los requisitos aplicables sea mayor a la inversión del proyecto económico y no se cause un perjuicio a la o al titular del proyecto, siempre y cuando no se contraponga con disposición legal alguna.
 
-#### SECCIÓN III. DE LOS REQUISITOS PARA OBTENER PERMISO O LICENCIA DE FUNCIONAMIENTO PARA LAS UNIDADES ECONÓMICAS DE MEDIANO Y ALTO IMPACTO
+#### SECCIÓN II. DE LAS UNIDADES ECONÓMICAS DE ALTO IMPACTO
 
 ###### Artículo 53.
 
@@ -977,7 +1043,7 @@ Queda estrictamente prohibido el uso de aislantes de sonido que pongan en riesgo
 
 Los procedimientos de medición se realizarán conforme a lo que se establezca la normatividad aplicable, con base en la Norma Oficial Mexicana.
 
-#### SECCIÓN I. DISPOSICIONES PARTICULARES
+#### SECCIÓN III. DE LOS REQUISITOS PARA OBTENER PERMISO O LICENCIA DE FUNCIONAMIENTO PARA LAS UNIDADES ECONÓMICAS DE MEDIANO Y ALTO IMPACTO
 
 ###### Artículo 66.
 
@@ -997,9 +1063,9 @@ V. La capacidad de aforo respectiva.
 
 VI. Dar cuenta del programa interno de protección civil.
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-VII. Dictamen Único de Factibilidad o permiso, en su caso, emitido por la autoridad Estatal.
+VII. Dictamen de Giro o permiso, en su caso, emitido por la autoridad municipal.
 
 VIII. Para el caso de las unidades económicas de alto impacto deberá manifestar que cuenta con el sistema de seguridad a que hace referencia esta Ley.
 
@@ -1013,9 +1079,9 @@ I. Que las condiciones originales para el funcionamiento de las unidades económ
 
 II. Monto del pago de derechos efectuado y datos de la tesorería.
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-III. En su caso contar con Dictamen Único de Factibilidad.
+III. En su caso contar con Dictamen de Giro.
 
 ###### Artículo 68.
 
@@ -1033,29 +1099,27 @@ Una vez cubiertos los requisitos señalados en el presente artículo, la autorid
 
 ### CAPÍTULO VI. DE LAS UNIDADES ECONÓMICAS DEDICADAS A LA VENTA Y/O DISTRIBUCIÓN DE BEBIDAS ALCOHÓLICAS
 
-#### SECCIÓN II. DE LOS REQUISITOS PARA LA OPERACIÓN DE LAS UNIDADES ECONÓMICAS DEDICADAS A LA VENTA Y/O DISTRIBUCIÓN DE BEBIDAS ALCOHÓLICAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+#### SECCIÓN I. DISPOSICIONES PARTICULARES
 
 ###### Artículo 69.
 
 Las disposiciones de este Título establecen los mecanismos de participación de las autoridades en la regulación del funcionamiento de las unidades económicas cuya actividad económica permita la venta y/o distribución de bebidas alcohólicas en la Entidad, con el objeto de implementar medidas y acciones que tiendan a prevenir, concientizar, reducir y medir el consumo de bebidas alcohólicas que dañen, deterioren o pongan en riesgo la salud, la calidad y las expectativas de vida de la persona.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 70.
 
-Para los efectos de este Capítulo, la Comisión creará y actualizará el registro de las unidades económicas que cuenten con el Dictamen Único de Factibilidad, para la solicitud o refrendo de licencias de funcionamiento.
+Para los efectos de este Capítulo, la Dirección de Desarrollo Económico o unidad administrativa equivalente en el municipio creará y actualizará el registro de las unidades económicas que cuenten con el Dictamen de Giro, para la solicitud o refrendo de licencias de funcionamiento.
 
 Independiente de lo anterior, la Secretaría de Salud alimentará el Sistema dentro de los cinco días siguientes a la actualización de su registro.
 
-#### SECCIÓN III. DE LA EVALUACIÓN TÉCNICA DE FACTIBILIDAD DE IMPACTO SANITARIO
+#### SECCIÓN II. DE LOS REQUISITOS PARA LA OPERACIÓN DE LAS UNIDADES ECONÓMICAS DEDICADAS A LA VENTA Y/O DISTRIBUCIÓN DE BEBIDAS ALCOHÓLICAS
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 71.
 
-Los ayuntamientos solo permitirán el funcionamiento de unidades económicas cuya actividad principal contemple la venta y/o distribución de bebidas alcohólicas en envase abierto y/o al copeo para su consumo en el interior, a las personas físicas y jurídicas colectivas que cuenten previamente con el Dictamen Único de Factibilidad.
+Los ayuntamientos solo permitirán el funcionamiento de unidades económicas cuya actividad principal contemple la venta y/o distribución de bebidas alcohólicas en envase abierto y/o al copeo para su consumo en el interior, a las personas físicas y jurídicas colectivas que cuenten previamente con el Dictamen de Giro.
 
 Las autorizaciones se ajustarán a los horarios establecidos en esta Ley.
 
@@ -1093,39 +1157,43 @@ VII. Cuando el titular o dependiente observe notoriamente alcoholizados a los cl
 
 VIII. Contar con publicidad escrita visible que indique: "El abuso en el consumo de bebidas alcohólicas es dañino para la salud". "El consumo de bebidas alcohólicas está prohibido a menores de edad". "Facilitar el acceso de bebidas alcohólicas a los menores constituye un delito". "Por tu seguridad propón un conductor designado". "Está prohibida la venta, suministro y consumo de bebidas alcohólicas fuera de esta unidad económica". Asimismo, deberá contar con una placa en la entrada del establecimiento con la leyenda:
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
-“Esta unidad económica cuenta con Dictamen Único de Factibilidad y la licencia de funcionamiento que autorizan la venta de bebidas alcohólicas”.
+“Esta unidad económica cuenta con Dictamen de Giro y la licencia de funcionamiento que autorizan la venta de bebidas alcohólicas”
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
-Esta placa será autorizada por la Comisión y a la misma le será asignado un folio, el cual se encontrará publicado en la página electrónica oficial.
+Esta placa será autorizada por la Dirección de Desarrollo Económico o unidad administrativa equivalente en el municipio y a la misma le será asignado un folio, el cual se encontrará publicado en la página electrónica oficial.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-#### SECCIÓN IV. DEL CONSEJO RECTOR DE IMPACTO SANITARIO
+#### SECCIÓN III. DE LA EVALUACIÓN TÉCNICA DE FACTIBILIDAD DE IMPACTO SANITARIO
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 75.
 
-La unidad económica donde se vendan o suministren bebidas alcohólicas deberá contar con la evaluación técnica de factibilidad de impacto sanitario para obtener el Dictamen Único de Factibilidad, previo a la licencia de funcionamiento vigente que le autorice la venta de bebidas alcohólicas, la cual, se deberá colocar en un lugar visible dentro de la propia unidad económica.
+La unidad económica donde se vendan o suministren bebidas alcohólicas deberá contar con la evaluación técnica de factibilidad de impacto sanitario para obtener el Dictamen de Giro, previo a la licencia de funcionamiento vigente que le autorice la venta de bebidas alcohólicas, la cual, se deberá colocar en un lugar visible dentro de la propia unidad económica.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 76.
 
-Para la solicitud de la licencia de funcionamiento de una unidad económica con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo, se requiere del Dictamen Único de Factibilidad.
+Para la solicitud de la licencia de funcionamiento de una unidad económica con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo, se requiere del Dictamen de Giro.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 77.
 
-El Dictamen Único de Factibilidad, es un requisito obligatorio para que las autoridades municipales expidan o refrenden las licencias de funcionamiento de las unidades económicas con venta y suministro de bebidas alcohólicas para el consumo inmediato o al copeo.
+El Dictamen de Giro, es un requisito obligatorio para que las autoridades municipales expidan o refrenden las licencias de funcionamiento de las unidades económicas con venta y suministro de bebidas alcohólicas para el consumo inmediato o al copeo.
+
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 Dicho Dictamen será vigente siempre y cuando no varíen las condiciones ni los términos en que fue otorgado originalmente, siendo de carácter personal e intransferible.
 
-Tratándose de trámites de nuevo ingreso para la obtención del Dictamen Único de Factibilidad ante la Comisión, que hayan cumplido con las disposiciones de la materia, podrán solicitar la autorización de elaboración de placa a que hace referencia el artículo 74 de esta Ley.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
+
+Tratándose de trámites de nuevo ingreso para la obtención del Dictamen de Giro ante el Comité, que hayan cumplido con las disposiciones de la materia, podrán solicitar la autorización de elaboración de placa a que hace referencia el artículo 74 de esta Ley.
 
 ###### Artículo 78.
 
@@ -1135,11 +1203,11 @@ Tratándose de trámites de nuevo ingreso para la obtención del Dictamen Único
 
 (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 79 Bis.
 
-El Dictamen Único de Factibilidad, pueden (sic) ser revocado a juicio de la Comisión, por las causas siguientes:
+El Dictamen de Giro, pueden ser revocado a juicio del Comité, por las causas siguientes:
 
 > <small>(ADICIONADA, G.G. 10 DE JULIO DE 2015)</small>
 
@@ -1163,25 +1231,45 @@ En las unidades económicas donde se vendan o suministren bebidas alcohólicas, 
 
 > <small>(DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-#### SECCIÓN I. DISPOSICIONES PARTICULARES
+#### SECCIÓN IV. DEL CONSEJO RECTOR DE IMPACTO SANITARIO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 81.
 
-La Comisión para la Protección contra Riesgos Sanitarios del Estado de México es la autoridad encargada de emitir la evaluación técnica de factibilidad de impacto sanitario, necesaria para la obtención el (sic) Dictamen Único de Factibilidad, para la solicitud y refrendo que el particular realice ante el ayuntamiento, de la licencia de funcionamiento que deben obtener las unidades económicas con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo.
+Corresponde a la autoridad municipal emitir la evaluación técnica de factibilidad de impacto sanitario, necesaria para la obtención del Dictamen de Giro, para la solicitud y refrendo que el particular realice ante el ayuntamiento, de la licencia de funcionamiento que deben obtener las unidades económicas con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ENERO DE 2021)</small>
+
+Para la obtención de la evaluación a que se refiere el presente artículo se deberá acreditar que se cumple con:
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2021)</small>
+
+I. Las emisiones de audio o ruido, de conformidad con lo dispuesto en la presente Ley;
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2021)</small>
+
+II. Las disposiciones en materia de control y humo de tabaco, en términos de lo previsto en el Capítulo III del Título Tercero de la Ley General para el Control del Tabaco y la Ley de Prevención del Tabaquismo y Protección ante la Exposición al Humo de Tabaco en el Estado de México;
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2021)</small>
+
+III. Las condiciones de higiene y seguridad que establece el Reglamento de Control Sanitario de Productos y Servicios, y la NORMA OFICIAL MEXICANA NOM-251-SSA1-2009, prácticas de higiene para el proceso de alimentos, bebidas o suplementos alimenticios, y
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2021)</small>
+
+IV. El certificado de control de fauna nociva vigente, emitido por empresa con licencia sanitaria, que establece el Reglamento de Control Sanitario de Productos y Servicios, y la NORMA OFICIAL MEXICANA NOM-251-SSA1-2009, prácticas de higiene para el proceso de alimentos, bebidas o suplementos alimenticios.
 
 ###### Artículo 82.
 
 (DEROGADO, G.G. 17 DE SEPTIEMBRE DE 2018)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 83.
 
-Para el cumplimiento de sus fines, la Comisión para la Protección contra Riesgos Sanitarios del Estado de México tendrá las funciones siguientes:
+Corresponden a la Comisión para la Protección contra Riesgos Sanitarios del Estado de México las funciones siguientes:
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
-
-I. Emitir la evaluación técnica de factibilidad de impacto sanitario al seno de la Comisión, para que en su caso, se emita el Dictamen Único de Factibilidad, necesario para que los ayuntamientos de la Entidad expidan y refrenden, dentro de sus atribuciones y competencias, las licencias que deben obtener las unidades económicas con venta o suministro de bebidas alcohólicas, para el consumo inmediato o al copeo.
+I. (DEROGADA, G.G. 5 DE ENERO DE 2021)
 
 II. Elaborar el diagnóstico de la situación que prevalece en materia del funcionamiento de las unidades económicas con venta o suministro de bebidas alcohólicas en la Entidad y su impacto sanitario en la comunidad, debiéndose allegar para ello de la información correspondiente.
 
@@ -1199,9 +1287,9 @@ VII. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2016)
 
 VIII. Tomar los acuerdos que se consideren necesarios para orientar las acciones que den cumplimiento a sus fines;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-IX. Solicitar la colaboración de las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal o municipal, para comprobar el cumplimiento de los requisitos para la expedición de la evaluación técnica de factibilidad de impacto sanitario al seno de la Comisión, en los términos., condiciones y requisitos establecidos en la autorización.
+IX. Solicitar la colaboración de las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal o municipal, para comprobar el cumplimiento de los requisitos establecidos en las autorizaciones.
 
 > <small>(ADICIONADA, G.G. 10 DE JULIO DE 2015)</small>
 
@@ -1209,9 +1297,7 @@ X. Adoptar las demás acciones necesarias para el cumplimiento de su objeto.
 
 ### CAPÍTULO VII. DE LAS UNIDADES ECONÓMICAS DESTINADAS PARA LA ENAJENACIÓN, REPARACIÓN O MANTENIMIENTO DE VEHÍCULOS AUTOMOTORES USADOS Y AUTOPARTES NUEVAS Y USADAS
 
-#### SECCIÓN II
-
-DE LOS REQUISITOS PARA LA OPERACIÓN DE LAS UNIDADES ECONÓMICAS PARA LA ENAJENACIÓN, REPARACIÓN O MANTENIMIENTO DE VEHÍCULOS AUTOMOTORES USADOS Y AUTOPARTES NUEVAS Y USADAS
+#### SECCIÓN I. DISPOSICIONES PARTICULARES
 
 ###### Artículo 84.
 
@@ -1235,15 +1321,17 @@ VIII. De cambio, venta, servicio y reparación de llantas.
 
 Por su propia naturaleza las agencias en venta de autos nuevos estarán exentas del dictamen que en este Capítulo se requiere, las cuales para efectos de esta Ley se consideran de unidades económicas de bajo impacto.
 
-#### SECCIÓN III. DEL CONSEJO RECTOR DE FACTIBILIDAD COMERCIAL AUTOMOTRIZ
+#### SECCIÓN II
+
+DE LOS REQUISITOS PARA LA OPERACIÓN DE LAS UNIDADES ECONÓMICAS PARA LA ENAJENACIÓN, REPARACIÓN O MANTENIMIENTO DE VEHÍCULOS AUTOMOTORES USADOS Y AUTOPARTES NUEVAS Y USADAS
 
 ###### Artículo 85.
 
 Las unidades económicas para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas deberán:
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-I. Contar y operar con licencia de funcionamiento aprobada por el ayuntamiento, previo a lo cual, obtendrán el Dictamen Único de Factibilidad, aun tratándose de unidades económicas constituidas en bienes inmuebles de régimen social.
+I. Contar y operar con licencia de funcionamiento aprobada por el ayuntamiento, previo a lo cual, obtendrán el Dictamen de Giro, aun tratándose de unidades económicas constituidas en bienes inmuebles de régimen social.
 
 II. Contar y operar con los formatos de contratos de adhesión registrados ante la Procuraduría Federal de Protección al Consumidor. Este requisito solo aplicará para los lotes de autos.
 
@@ -1273,11 +1361,9 @@ b) Elaborar un registro interno de las personas y de los vehículos objeto de en
 
 c) Contratar, en la Fiscalía General de Justicia del Estado, módulos para la expedición gratuita de la constancia o certificación electrónica de que el vehículo no aparece en las bases de datos de autos robados.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
-
 ###### Artículo 86.
 
-Para el refrendo anual de la licencia de funcionamiento, no es necesario que los titulares de las unidades económicas destinadas a la enajenación, reparación o mantenimiento de vehículos automotores usados y de autopartes nuevas y usadas, actualicen el Dictamen Único de Factibilidad, siempre y cuando no hayan variado las condiciones o términos en que fue otorgado originalmente, conforme a lo dispuesto por esta Ley y demás disposiciones jurídicas aplicables.
+(DEROGADO, G.G. 5 DE ENERO DE 2021)
 
 ###### Artículo 87.
 
@@ -1289,9 +1375,7 @@ Queda estrictamente prohibido ocupar las vías públicas para realizar actos rel
 
 > <small>(DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-#### SECCIÓN IV. DE LA EVALUACIÓN TÉCNICA DE FACTIBILIDAD COMERCIAL AUTOMOTRIZ
-
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+#### SECCIÓN III. DEL CONSEJO RECTOR DE FACTIBILIDAD COMERCIAL AUTOMOTRIZ
 
 ###### Artículo 89.
 
@@ -1307,47 +1391,25 @@ Queda estrictamente prohibido ocupar las vías públicas para realizar actos rel
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-#### SECCIÓN V. DEL APROVECHAMIENTO DE VEHÍCULOS USADOS
+#### SECCIÓN IV. DE LA EVALUACIÓN TÉCNICA DE FACTIBILIDAD COMERCIAL AUTOMOTRIZ
 
 ###### Artículo 92.
 
-La evaluación técnica de factibilidad comercial automotriz es la resolución que emite la Secretaría de Desarrollo Económico, a través de la Dirección General de Comercio, que consiste en la valoración de la procedencia comercial de una unidad económica destinada a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas, la cual constituye un requisito obligatorio para la emisión del Dictamen Único de Factibilidad, necesario para la licencia de funcionamiento y su refrendo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, G.G. 5 DE ENERO DE 2021)
 
 ###### Artículo 93.
 
-La Secretaría de Desarrollo Económico, a través de la Dirección General de Comercio, atenderá las solicitudes de los particulares presentadas ante la Comisión o la Ventanilla de Gestión referentes a las unidades económicas destinadas a la enajenación, reparación o mantenimiento de vehículos automotores usados, así como de autopartes nuevas y usadas, para la emisión, en su caso, de la evaluación técnica de factibilidad comercial automotriz.
+(DEROGADO, G.G. 5 DE ENERO DE 2021)
 
 ###### Artículo 94.
 
 (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2016)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
-
 ###### Artículo 95.
 
-La evaluación técnica de factibilidad comercial automotriz, contendrá lo siguiente:
+(DEROGADO, G.G. 5 DE ENERO DE 2021)
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
-
-I. Número de la evaluación técnica de factibilidad;
-
-II. Ubicación del inmueble.
-
-III. Nombre del titular solicitante.
-
-IV. Vigencia.
-
-V. Lugar y fecha de expedición.
-
-VI. Determinación fundada y motivada de la procedencia de la actividad económica pretendido.
-
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
-
-VII. Nombre, cargo y firma de la autoridad que emita la evaluación técnica de factibilidad.
-
-#### SECCIÓN VI. DE LAS ZONAS ESPECIALES PARA TIANGUIS DE AUTOS Y DE APROVECHAMIENTO DE AUTOPARTES
+#### SECCIÓN V. DEL APROVECHAMIENTO DE VEHÍCULOS USADOS
 
 ###### Artículo 96.
 
@@ -1385,9 +1447,11 @@ El titular y/o dependiente de la unidad económica al finalizar el desmantelamie
 
 El titular y/o dependiente de la unidad económica al enajenar una autoparte, deberá alimentar su registro interno con el número y descripción de la misma.
 
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
+
 ###### Artículo 101.
 
-Los titulares y/o dependientes deberán proporcionar la información de su registro interno a la Secretaría de Desarrollo Económico dentro de los cinco días hábiles siguientes al de su actualización o cuando ésta se lo requiera, para que a su vez esta dependencia alimente el Sistema.
+Los titulares y/o dependientes deberán proporcionar la información de su registro interno a la Dirección de Desarrollo Económico Municipal o autoridad equivalente dentro de los cinco días hábiles siguientes al de su actualización o cuando ésta se lo requiera.
 
 ###### Artículo 102.
 
@@ -1455,7 +1519,7 @@ El proceso de desmantelamiento, así como el registro interno también se sujeta
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
 
-#### SECCIÓN I. DE LA FINALIDAD Y AUTORIDADES
+#### SECCIÓN VI. DE LAS ZONAS ESPECIALES PARA TIANGUIS DE AUTOS Y DE APROVECHAMIENTO DE AUTOPARTES
 
 ###### Artículo 112.
 
@@ -1467,97 +1531,59 @@ El proceso de desmantelamiento, así como el registro interno también se sujeta
 
 ### CAPÍTULO VIII. DE LOS ASERRADEROS
 
-#### SECCIÓN II. DE LA EVALUACIÓN TÉCNICA DE FACTIBILIDAD DE TRANSFORMACIÓN FORESTAL
-
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+#### SECCIÓN I. DE LA FINALIDAD Y AUTORIDADES
 
 ###### Artículo 114.
 
-El presente Capítulo tiene como finalidad regular la apertura de las unidades económicas que se dediquen a la trasformación de materia prima forestal, con el objeto de evitar daños al medio ambiente como resultado de la deforestación.
+(DEROGADO, G.G. 5 DE ENERO DE 2021)
 
 ###### Artículo 115.
 
-Son autoridades para la aplicación del presente Capítulo la Secretaría del Medio Ambiente, la Protectora de Bosques del Estado de México y los municipios, en el ámbito de su competencia.
-
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, G.G. 5 DE ENERO DE 2021)
 
 ###### Artículo 116.
 
-Corresponde a los municipios otorgar, en su caso, por acuerdo de cabildo del ayuntamiento, la licencia de funcionamiento de los centros de almacenamiento y de transformación de materias primas forestales, previo Dictamen Único de Factibilidad, para el cual se requerirá la evaluación técnica de factibilidad de transformación forestal, emitida por la Protectora de Bosques del Estado de México.
+(DEROGADO, G.G. 5 DE ENERO DE 2021)
 
 ###### Artículo 117.
 
-La Protectora de Bosques del Estado de México aplicará, dentro del ámbito de sus atribuciones, las medidas de seguridad e impondrá las infracciones que correspondan por su inobservancia.
+(DEROGADO, G.G. 5 DE ENERO DE 2021)
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(DEROGADA, G.G. 5 DE ENERO DE 2021)</small>
 
-#### SECCIÓN III. DEL CONSEJO RECTOR DE TRANSFORMACIÓN FORESTAL
-
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+#### SECCIÓN II. DE LA EVALUACIÓN TÉCNICA DE FACTIBILIDAD DE TRANSFORMACIÓN FORESTAL
 
 ###### Artículo 118.
 
-La evaluación técnica de factibilidad de transformación forestal es el documento de carácter personal e intransferible, necesario para tramitar el Dictamen Único de Factibilidad, requerido para obtener la licencia de funcionamiento de los centros de almacenamiento y transformación de materias primas forestales; y tiene como objeto valorar la capacidad productiva de los bosques maderables de la región, el tiempo de reposición de los individuos arbóreos, el pago de servicios ambientales, la seguridad pública, el combate a la tala clandestina y el fomento económico, en términos de las disposiciones respectivas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, G.G. 5 DE ENERO DE 2021)
 
 ###### Artículo 119.
 
-Para la obtención de la evaluación técnica de factibilidad de transformación forestal, el interesado deberá presentar el formato impreso o digital que al efecto expida la Protectora de Bosques del Estado de México, que contendrá lo siguiente:
-
-I. Nombre del titular solicitante.
-
-II. Copia certificada del acta constitutiva de la persona jurídica colectiva, de ser el caso.
-
-III. Denominación o razón social del centro de almacenamiento o transformación de materias primas forestales.
-
-IV. Dirección y croquis de localización de la unidad económica.
-
-> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
-
-V. Licencia de uso del suelo, de acuerdo con el Plan Municipal de Desarrollo Urbano que corresponda a la unidad económica.
-
-VI. Especies forestales que se pretendan almacenar o transformar.
-
-VII. En su caso, los productos que serán elaborados.
-
-VIII. Volumen anual a transformar.
-
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, G.G. 5 DE ENERO DE 2021)
 
 ###### Artículo 120.
 
-La Protectora de Bosques del Estado de México, derivado del análisis que realice a la documentación presentada y de los comprobantes con los que el interesado acredite la legal procedencia de los productos forestales emitirá la evaluación técnica de factibilidad de transformación forestal, para la obtención del Dictamen Único de Factibilidad.
-
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, G.G. 5 DE ENERO DE 2021)
 
 ###### Artículo 121.
 
-Son causas para negar la evaluación técnica de factibilidad de transformación forestal, cuando se ponga en riesgo el medio ambiente, la seguridad pública y el fomento al desarrollo económico o por la probable comisión de un delito, o además que no se cumplan con los requisitos establecidos para la obtención del Dictamen Único de Factibilidad.
+(DEROGADO, G.G. 5 DE ENERO DE 2021)
 
 ###### Artículo 122.
 
-Si de la visita de verificación se advierte el incumplimiento a las disposiciones de este Capítulo, la Protectora de Bosques del Estado de México iniciará ante las instancias correspondientes el procedimiento administrativo que resuelva la imposición de las medidas de seguridad y sanciones que procedan, incluso la cancelación o revocación del dictamen.
-
-Si de las visitas se hallaran elementos constitutivos de delito se hará la denuncia ante el Ministerio Público.
-
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
-
-La Protectora de Bosques del Estado de México, de acuerdo con la gravedad de la infracción, podrá suspender, revocar, cancelar o negar la evaluación técnica de factibilidad de transformación forestal, notificándole a la Comisión, al Ayuntamiento y a la Secretaría del Medio Ambiente y Recursos Naturales, para los efectos legales conducentes.
-
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, G.G. 5 DE ENERO DE 2021)
 
 ###### Artículo 123.
 
-La evaluación técnica de factibilidad de transformación forestal tendrá una vigencia de tres años, la cual podrá renovarse con el cumplimiento de los requisitos del mismo.
+(DEROGADO, G.G. 5 DE ENERO DE 2021)
 
 > <small>(DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
-#### SECCIÓN I. DISPOSICIONES PARTICULARES
+#### SECCIÓN III. DEL CONSEJO RECTOR DE TRANSFORMACIÓN FORESTAL
 
 ###### Artículo 124.
 
-La evaluación técnica de factibilidad de transformación forestal será emitida por la Protectora de Bosques del Estado de México, para la expedición del Dictamen Único de Factibilidad requerido para el funcionamiento de los centros de almacenamiento y de transformación de materias primas.
+(DEROGADO, G.G. 5 DE ENERO DE 2021)
 
 ###### Artículo 125.
 
@@ -1565,7 +1591,7 @@ La evaluación técnica de factibilidad de transformación forestal será emitid
 
 ### CAPÍTULO IX. DE LAS CASAS DE EMPEÑO Y COMERCIALIZADORAS
 
-#### SECCIÓN II. DEL PERMISO
+#### SECCIÓN I. DISPOSICIONES PARTICULARES
 
 ###### Artículo 126.
 
@@ -1621,7 +1647,7 @@ c) Copia de la identificación oficial, contra la cual se cotejo la firma del co
 
 d) Tipo de bien o bienes adquiridos o empeñados y el importe de los mismos.
 
-#### SECCIÓN III. DEL REGISTRO DE LAS CASAS DE EMPEÑO Y COMERCIALIZADORAS
+#### SECCIÓN II. DEL PERMISO
 
 ###### Artículo 132.
 
@@ -1811,9 +1837,7 @@ III. Exhibir copia simple de la carpeta de investigación por robo o extravío e
 
 IV. Cubrir el costo que se establezca en el Código Financiero.
 
-#### SECCIÓN IV. DE LAS OBLIGACIONES DE LOS PERMISIONARIOS Y DE LOS TITULARES DE LAS COMERCIALIZADORAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE ABRIL DE 2016)</small>
+#### SECCIÓN III. DEL REGISTRO DE LAS CASAS DE EMPEÑO Y COMERCIALIZADORAS
 
 ###### Artículo 154.
 
@@ -1833,7 +1857,9 @@ La Secretaría de Finanzas deberá enriquecer el Sistema a más tardar dentro de
 
 En dicho registro la Secretaría de Finanzas asentará las anotaciones respectivas cuando se realicen modificaciones, revalidaciones, reposiciones y/o cancelaciones de los permisos que se otorgaron a las casas de empeño y comercializadoras para su funcionamiento, así como de la negación definitiva de los permisos, en su caso.
 
-#### SECCIÓN V. DE LA SECRETARÍA DE FINANZAS
+#### SECCIÓN IV. DE LAS OBLIGACIONES DE LOS PERMISIONARIOS Y DE LOS TITULARES DE LAS COMERCIALIZADORAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE ABRIL DE 2016)</small>
 
 ###### Artículo 156.
 
@@ -1913,7 +1939,7 @@ IV. En caso de incumplimiento de la indemnización se aplicará un interés idé
 
 La infracción a esta disposición se sancionará conforme a lo dispuesto en el artículo 191 de la presente Ley.
 
-#### SECCIÓN VI. DE LOS VALUADORES
+#### SECCIÓN V. DE LA SECRETARÍA DE FINANZAS
 
 ###### Artículo 164.
 
@@ -1956,6 +1982,8 @@ El permisionario, el titular y/o dependiente de las casas de empeño y comercial
 ###### Artículo 169.
 
 El permisionario, el titular y/o dependiente tienen la obligación de llevar contabilidad, la cual deberán de conservar en el domicilio que se señale para efectos fiscales. Dicha contabilidad estará a disposición de las autoridades fiscales respectivas.
+
+#### SECCIÓN VI. DE LOS VALUADORES
 
 ###### Artículo 170.
 
@@ -2091,11 +2119,11 @@ IV. Destitución del empleo, cargo o comisión.
 
 V. Inhabilitación de uno a diez años en el servicio público estatal y municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 183.
 
-A los titulares o permisionarios que para la obtención del Dictamen Único de Factibilidad, permiso o licencia de funcionamiento, según corresponda, hubieren proporcionado información falsa, se sancionarán con multa (sic) clausura permanente de la manera siguiente:
+A los titulares o permisionarios que, para la obtención del Dictamen de Giro, permiso o licencia de funcionamiento, según corresponda, hubieren proporcionado información falsa, se sancionarán con multa de la manera siguiente:
 
 > <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -2111,11 +2139,11 @@ III. Para las unidades económicas de alto impacto multa de quinientas a mil vec
 
 Además de las sanciones a que se refiere este artículo, se dará vista al Ministerio Público, respecto de los delitos que se pudieran haber cometido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 184.
 
-Cuando se trate de unidades destinadas para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas, corresponde a la Secretaría de Desarrollo Económico, y por conducto de la Dirección General de Comercio, en el ámbito de sus atribuciones, la imposición de las sanciones siguientes:
+Cuando se trate de unidades destinadas para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas, corresponde a la Dirección de Desarrollo Económico Municipal o a la autoridad equivalente, la imposición de las sanciones siguientes:
 
 > <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -2127,9 +2155,9 @@ II. Multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Me
 
 Además se impondrá clausura temporal cuando se infrinja lo dispuesto en los artículos 107 y 108.
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-III. Clausura temporal o permanente, por incumplir las disposiciones señaladas en los artículos 97 y 98, así como no contar (sic) Dictamen Único de Factibilidad.
+III. Clausura temporal o permanente, por incumplir las disposiciones señaladas en los artículos 97 y 98.
 
 IV. Clausura permanente cuando una unidad económica donde se realicen actos relacionados con la enajenación y comercialización de vehículos automotores usados en tianguis de autos y que tengan como actividad principal el aprovechamiento de autopartes de vehículos usados que han concluido su vida útil.
 
@@ -2143,19 +2171,19 @@ I. Multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actu
 
 II. Clausura temporal o definitiva de la unidad económica que se dedique a la enajenación, reparación o mantenimiento de vehículos usados y autopartes nuevas y usadas, por no contar con la licencia de funcionamiento o por reincidir en el incumplimiento de lo dispuesto por la fracción V del artículo 85 y en el artículo 88.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 186.
 
-Además de lo señalado en los artículos 184 y 185 la Secretaría de Desarrollo Económico, por conducto de la Dirección General de Comercio y los ayuntamientos, a través de la autoridad competente, estarán facultados para suspender temporalmente, hasta por noventa días, el funcionamiento de estas unidades económicas como medida de seguridad. Durante la suspensión se llevará a cabo el procedimiento administrativo correspondiente. En caso de que se mantenga el incumplimiento se sancionará con clausura temporal o permanente, según corresponda.
+Además de lo señalado en los artículos 184 y 185 la Dirección de Desarrollo Económico Municipal o la autoridad equivalente, estará facultada para suspender temporalmente, hasta por noventa días, el funcionamiento de estas unidades económicas como medida de seguridad. Durante la suspensión se llevará a cabo el procedimiento administrativo correspondiente. En caso de que se mantenga el incumplimiento se sancionará con clausura temporal o permanente, según corresponda.
 
 ###### Artículo 187.
 
 Cuando se trate de unidades económicas que se dediquen a la venta o suministro de bebidas alcohólicas, corresponderá a los municipios en el ámbito de sus atribuciones, la imposición de las sanciones siguientes:
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-I. Con multa equivalente de doscientos cincuenta a quinientas veces la unidad de medida y actualización al momento de cometer la infracción a quien contando con autorización vigente incumpla con el horario autorizado, con independencia de esta multa, cuando se detecten en la verificación modificaciones a las condiciones originalmente autorizadas en el Dictamen Único de Factibilidad, o licencia de funcionamiento se clausurará temporalmente.
+I. Con multa equivalente de doscientos cincuenta a quinientas veces la unidad de medida y actualización al momento de cometer la infracción, a quien contando con autorización vigente incumpla con el horario autorizado. Con independencia de esta multa, cuando se detecten en la verificación modificaciones a las condiciones originalmente autorizadas en el Dictamen de Giro, o licencia de funcionamiento se clausurará temporalmente.
 
 > <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -2203,9 +2231,9 @@ IV. Clausura temporal o permanente, cuando se compruebe que las actividades que 
 
 V. Clausura temporal o permanente, cuando reincida por tercera ocasión.
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-VI. Clausura temporal o permanente, cuando las unidades económicas carezcan, del Dictamen Único de Factibilidad.
+VI. Clausura temporal o permanente, cuando las unidades económicas carezcan del Dictamen de Giro.
 
 VII. Clausura permanente cuando del resultado de la visita de verificación se presuma que en esa unidad económica se comete algún delito contra las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, lenocinio, trata de personas, tráfico de menores, o actos libidinosos u otro que vaya en contra de la libertad sexual o dignidad de las personas, en este caso, la autoridad deberá dar vista al Ministerio Público.
 
@@ -2754,3 +2782,59 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 5 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 230.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO, DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y DE LA LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; Y SE EXPIDE LA LEY DE LA COMISIÓN DE IMPACTO ESTATAL".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que crea la Comisión de Factibilidad del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 17 de septiembre del 2018, a través del Decreto número 331 .
+
+CUARTO. Los procedimientos y demás actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto serán atendidos, en el ámbito de sus respectivas competencias, por las autoridades estatales o municipales competentes, en términos del mismo.
+
+Con independencia de lo anterior, se concluyen los procedimientos, trámites y demás actos relacionados con las evaluaciones técnicas de factibilidad comercial automotriz que se derogan por la entrada en vigor del presente Decreto.
+
+QUINTO. Los Ayuntamientos del Estado de México conformarán el Comité Municipal de Dictámenes de Giro y expedirán las disposiciones jurídicas reglamentarias correspondientes de conformidad con lo establecido en el presente Decreto, en un plazo no mayor a sesenta días hábiles contados a partir de su entrada en vigor. Hasta en tanto no se conforme dicho Comité Municipal y no se emitan los reglamentos correspondientes, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no contravenga al presente Decreto.
+
+SEXTO. Los derechos de los trabajadores serán respetados conforme a la ley.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto, sin perjuicio de lo previsto en el presente régimen transitorio.
+
+OCTAVO. Las dependencias del Ejecutivo del Estado y de los Municipios, dispondrán lo necesario para el cumplimiento del presente Decreto, en el ámbito de su competencia.
+
+NOVENO. Las solicitudes de Dictamen Único de Factibilidad que prevé la Ley de Competitividad y Ordenamiento Comercial, que fueron ingresadas ante la Comisión de Factibilidad del Estado de México con antelación a la entrada en vigor del presente Decreto, podrán ser concluidas en dicha Comisión, o bien, ser remitidas por ésta a las autoridades municipales para continuar su trámite, a elección del peticionario, quien deberá manifestarlo expresamente por escrito ante la propia Comisión.
+
+Pasados 30 días hábiles a partir de la entrada en vigor del presente Decreto sin que el peticionario se pronuncie en términos del párrafo anterior, la Comisión remitirá los expedientes respectivos a las autoridades municipales.
+
+DÉCIMO. Los Dictámenes Únicos de Factibilidad emitidos con anterioridad a la entrada en vigor del presente decreto, tendrán vigencia permanente y se sujetarán a las disposiciones previstas en el presente Decreto.
+
+DÉCIMO PRIMERO. Los peticionarios que cuenten con trámites en proceso para la obtención del Dictamen Único de Factibilidad, ingresados con antelación a la entrada en vigor del presente Decreto, contarán con 30 días hábiles para, en su caso, continuar con su trámite ante la Comisión, presentando para ello los requisitos faltantes, atendiendo las prevenciones o manifestando por escrito su intención de continuar con el trámite.
+
+En caso de no actualizarse ninguno de los supuestos anteriores, los trámites se entenderán concluidos por ministerio de ley, haciéndolos del conocimiento de las autoridades responsables de emitir las evaluaciones técnicas correspondientes.
+
+DÉCIMO SEGUNDO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Comisión de Factibilidad del Estado de México se entenderán hechas a la Comisión de Impacto Estatal.
+
+Los recursos humanos, materiales y financieros de la Comisión de Factibilidad del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Comisión de Impacto Estatal.
+
+Los asuntos, actos, procedimientos, programas o proyectos de competencia estatal que se encuentren en trámite o curso en la Comisión de Factibilidad del Estado de México serán atendidos en los términos del presente régimen transitorio por la Comisión de Impacto Estatal.
+
+Lo anterior con excepción de lo previsto en el presente régimen transitorio.
+
+DÉCIMO TERCERO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas y documentación se haga referencia a:
+
+a) Evaluación Técnica de Factibilidad de Impacto Urbano se entenderá por Evaluación Técnica de Impacto en materia Urbana;
+
+b) Evaluación Técnica de Factibilidad de Protección Civil se entenderá por Evaluación Técnica de Impacto en materia de Protección Civil;
+
+c) Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial se entenderá por Evaluación Técnica de Impacto en materia Vial;
+
+d) Evaluación Técnica de Factibilidad de Impacto Ambiental se entenderá por Evaluación Técnica de Impacto en materia Ambiental;
+
+e) Evaluación Técnica de Factibilidad de Transformación Forestal se entenderá por Evaluación Técnica de Impacto en materia de Transformación Forestal;
+
+f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
+
+g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
