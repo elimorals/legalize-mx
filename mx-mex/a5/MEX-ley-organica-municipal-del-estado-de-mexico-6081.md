@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2020-11-11"
+last_updated: "2021-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -663,9 +663,9 @@ Son atribuciones de los ayuntamientos:
 
 I. Expedir y reformar el Bando Municipal, así como los reglamentos, circulares y disposiciones administrativas de observancia general dentro del territorio del municipio, que sean necesarios para su organización, prestación de los servicios públicos y, en general, para el cumplimiento de sus atribuciones;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-I Bis. Aprobar e implementar programas y acciones que promuevan un proceso constante de mejora regulatoria de acuerdo con la Ley para la Mejora Regulatoria del Estado de México y Municipios, la Ley de Competitividad y Ordenamiento Comercial del Estado de México, la Ley de Fomento Económico del Estado de México, la Ley que crea la Comisión de Factibilidad del Estado de México, sus respectivos reglamentos y demás disposiciones jurídicas aplicables;
+I Bis. Aprobar e implementar programas y acciones que promuevan un proceso constante de mejora regulatoria de acuerdo con la Ley para la Mejora Regulatoria del Estado de México y Municipios, la Ley de Competitividad y Ordenamiento Comercial del Estado de México, la Ley de Fomento Económico del Estado de México, sus respectivos reglamentos y demás disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -805,17 +805,33 @@ XXIV Bis. Promover las acciones y ejecutar los programas sociales necesarios par
 
 XXIV Ter. Los ayuntamientos informarán a la autoridad federal competente sobre las autorizaciones que otorguen para el funcionamiento de gasolineras o estaciones de servicio.
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ENERO DE 2021)</small>
 
-XXIV Quáter. Otorgar licencias y permisos para construcciones privadas, para el funcionamiento de unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas, parques y desarrollos industriales, urbanos y de servicios.
+XXIV Quáter. Otorgar licencias de construcción y permisos de funcionamiento de unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas, así como de parques y desarrollos industriales, urbanos y de servicios de conformidad con la Evaluación de Impacto Estatal.
 
-Tratándose de obras, unidades económicas, inversiones o proyectos que requieran Dictamen Único de Factibilidad, la licencia o permiso correspondiente deberá otorgarse, en un plazo no mayor a veinte días hábiles, contados a partir de que le sea presentado el Dictamen Único de Factibilidad correspondiente, siempre y cuando el solicitante haya presentado el oficio de procedencia jurídica a más tardar diez días hábiles posteriores a la fecha de su recepción;
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+Para los efectos de la presente fracción, la licencia o permiso correspondiente se expedirá en un plazo no mayor a diez días hábiles contados a partir de la presentación del Dictamen de Giro aprobado.
 
-XXIV Quinques. Otorgar licencia de funcionamiento, previa presentación del Dictamen Único de Factibilidad, a las unidades económicas que tengan como actividad complementaria o principal la venta de bebidas alcohólicas. Esta licencia tendrá una vigencia de cinco años y deberá ser refrendada de manera anual, con independencia de que puedan ser sujetos de visitas de verificación para constatar el cumplimiento de las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
-Para el refrendo anual no es necesario obtener un nuevo Dictamen Único de Factibilidad, siempre y cuando, no se modifiquen la superficie de la unidad económica, su aforo o su actividad económica;
+Tratándose de obras, unidades económicas, inversiones o proyectos que requieran Evaluación de Impacto Estatal la licencia o permiso correspondiente deberá otorgarse, en un plazo no mayor a veinte días hábiles, contados a partir de que le sea presentada la Evaluación de Impacto Estatal correspondiente, y cuando el solicitante presente el acuerdo de aceptación a la solicitud de Evaluación de Impacto Estatal.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ENERO DE 2021)</small>
+
+XXIV Quinques. Otorgar licencia de funcionamiento, previa presentación del Dictamen de Giro, a las unidades económicas que tengan como actividad complementaria o principal la venta de bebidas alcohólicas. Esta licencia tendrá una vigencia de cinco años y deberá ser refrendada de manera anual, con independencia de que puedan ser sujetos de visitas de verificación para constatar el cumplimiento de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2021)</small>
+
+Una vez presentado el Dictamen de Giro aprobado, se expedirá la licencia de funcionamiento en un plazo no mayor a diez días hábiles.
+
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
+
+Para el refrendo anual no es necesario obtener un nuevo Dictamen de Giro siempre y cuando, no se modifiquen la superficie de la unidad económica, su aforo o su actividad económica;
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2021)</small>
+
+XXIV Sexties. Aprobar y publicar el programa especial para otorgar la licencia o permiso provisional de funcionamiento para negocios de bajo riesgo sanitario, ambiental o de protección civil, que para el efecto proponga la o el presidente municipal en términos de lo dispuesto por la fracción XIII Ter del artículo 48 de la presente Ley.
 
 > <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -1177,25 +1193,25 @@ XII bis. Vigilar y ejecutar los programas y subprogramas de protección civil y 
 
 XIII. Vigilar que se integren y funcionen en forma legal las dependencias, unidades administrativas y organismos desconcentrados o descentralizados y fideicomisos que formen parte de la estructura administrativa;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XIII Bis. Desarrollar y ejecutar las políticas, programas y acciones en materia de mejora regulatoria, en coordinación con sus dependencias, órganos auxiliares y demás autoridades de conformidad con la Ley para la Mejora Regulatoria del Estado de México y Municipios, la Ley de Competitividad y Ordenamiento Comercial del Estado de México, la Ley de Fomento Económico del Estado de México, la Ley que crea la Comisión de Factibilidad del Estado de México, sus respectivos reglamentos y demás disposiciones jurídicas aplicables, previa aprobación en Cabildo;
+XIII Bis. Desarrollar las políticas, programas y acciones en materia de mejora regulatoria, en coordinación con sus dependencias, órganos auxiliares y demás autoridades de conformidad con la Ley para la Mejora Regulatoria del Estado de México y Municipios, la Ley de Competitividad y Ordenamiento Comercial del Estado de México, la Ley de Fomento Económico del Estado de México, sus respectivos reglamentos y demás disposiciones jurídicas aplicables, en el ámbito de su competencia, previa aprobación en Cabildo;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XIII Ter. Proponer al ayuntamiento y ejecutar un programa especial para otorgar la licencia o permiso provisional de funcionamiento para negocios de bajo riesgo sanitario, ambiental o de protección civil, que autorice el cabildo conforme a la clasificación contenida en el Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo.
+XIII Ter. Proponer al ayuntamiento y ejecutar un programa especial para otorgar la licencia o permiso provisional de funcionamiento para negocios de bajo riesgo sanitario, ambiental o de protección civil, conforme a la clasificación contenida en el Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo.
 
-Para tal efecto, deberá garantizar que el otorgamiento de la licencia o permiso no esté sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades Administrativas del Estado y Municipios;
+Para tal efecto, deberá garantizar que el otorgamiento de la licencia o permiso no esté sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades Administrativas del Estado y Municipios.
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XIII Quáter. Expedir o negar licencias o permisos de funcionamiento, previo acuerdo del ayuntamiento, para las unidades económicas, empresas, parques y desarrollos industriales, urbanos y de servicios dando respuesta en un plazo que no exceda de tres días hábiles posteriores a la fecha de la resolución del ayuntamiento y previa presentación del Dictamen Único de Factibilidad, en su caso.
+XIII Quáter. Expedir o negar licencias o permisos de funcionamiento para unidades económicas, de conformidad con lo previsto en las fracciones XXIV Quater y XXIV Quinques del artículo 31 de la presente Ley. Dicha expedición o negación queda supeditada al resultado del Dictamen de Giro o Evaluación de Impacto Estatal según corresponda, dando respuesta en un plazo que no exceda de cinco días hábiles posteriores a la presentación de dicho dictamen o evaluación, en su caso, la cual deberá ser fundamentada y acorde al principio de transparencia.
 
-Al efecto, deberá someter a la consideración del Ayuntamiento la autorización de licencias o permisos de funcionamiento en un plazo no mayor a diez días hábiles, contados a partir de que la persona física o jurídica colectiva interesada presente el Dictamen Único de Factibilidad que, de conformidad con la legislación y normatividad aplicables, se requiera.
+Las actividades que cuenten con Evaluación de Impacto Estatal no requerirán la emisión de Dictamen de Giro.
 
-La autoridad municipal deberá iniciar los trámites relativos con las autorizaciones, licencias o permisos, a partir de que el solicitante presente el oficio de procedencia jurídica emitido por la Comisión de Factibilidad del Estado de México.
+La autoridad municipal deberá iniciar los trámites relativos con las autorizaciones, licencias o permisos, a partir de que el solicitante presente el acuerdo de aceptación de la solicitud de Evaluación de Impacto Estatal.
 
-Una vez que el solicitante entregue el Dictamen Único de Factibilidad, de ser procedente, podrá obtener la autorización, licencia o permiso correspondiente.
+Una vez que el solicitante entregue la Evaluación de Impacto Estatal, de ser procedente, podrá obtener la autorización, licencia o permiso correspondiente.
 
 > <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -1211,9 +1227,9 @@ Dicho informe se publicará en la página oficial, en la Gaceta Municipal y en l
 
 XVI. Cumplir y hacer cumplir dentro de su competencia, las disposiciones contenidas en las leyes y reglamentos federales, estatales y municipales, así como aplicar, a los infractores las sanciones correspondientes o remitirlos, en su caso, a las autoridades correspondientes;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XVI Bis. Coadyuvar con el Instituto de Verificación Administrativa del Estado de México respecto a la vigilancia a los establecimientos mercantiles con venta o suministro de bebidas alcohólicas en botella cerrada, consumo inmediato y al copeo, a fin de verificar que cuenten con la correspondiente licencia de funcionamiento y el Dictamen Único de Factibilidad y cumplan con las disposiciones legales y reglamentarias correspondientes. Asimismo, para instaurar, los procedimientos sancionadores correspondientes y, en su caso, dar vista al Ministerio Público por la posible comisión de algún delito;
+XVI Bis. Coadyuvar con el Instituto de Verificación Administrativa del Estado de México respecto a la vigilancia a los establecimientos mercantiles con venta o suministro de bebidas alcohólicas en botella cerrada, consumo inmediato y al copeo, a fin de verificar que cuenten con la correspondiente licencia de funcionamiento y el Dictamen de Giro y cumplan con las disposiciones legales y reglamentarias correspondientes. Asimismo, para instaurar, los procedimientos sancionadores correspondientes y, en su caso, dar vista al Ministerio Público por la posible comisión de algún delito;
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1243,13 +1259,17 @@ XXI. Satisfacer los requerimientos que le sean solicitados por la Secretaría de
 
 XXII. Vigilar la integración, funcionamiento y cumplimiento de los acuerdos tomados por el Consejo Municipal de Seguridad Pública, en los términos de esta Ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-XXIII. Rendir un informe anual sobre el cumplimiento de su Programa Municipal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, y
+XXIII. Rendir un informe anual sobre el cumplimiento de su Programa Municipal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 5 DE ENERO DE 2021)</small>
 
-XXIV. Las demás que le confieran esta Ley y otros ordenamientos.
+XXIV. Presidir el Comité Municipal de Dictámenes de Giro a que se refiere la Ley de Competitividad y Ordenamiento Comercial del Estado de México, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 5 DE ENERO DE 2021)</small>
+
+XXV. Las demás que le confieran esta Ley y otros ordenamientos.
 
 ###### Artículo 49.
 
@@ -2143,23 +2163,31 @@ El Director de Obras Públicas o Titular de la Unidad Administrativa equivalente
 
 Además, deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México o por alguna otra institución con reconocimiento de validez oficial, que asegure los conocimientos y habilidades para desempeñar el cargo, de conformidad con los aspectos técnicos y operativos aplicables al Estado de México.
 
-> <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
-###### Artículo 96. Quáter.
+###### Artículo 96 Quáter.
 
-El Director de Desarrollo Económico o el Titular de la Unidad Administrativa equivalente, tiene las siguientes atribuciones:
+El Titular de la Dirección de Desarrollo Económico Municipal o el Titular de la Unidad Administrativa equivalente, tiene las siguientes atribuciones:
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 I. Diseñar y promover políticas que generen inversiones productivas y empleos remunerados;
 
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
 II. Promover programas de simplificación, desregulación y transparencia administrativa para facilitar la actividad económica;
 
-> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-II Bis. Impulsar la simplificación de trámites y reducción de plazos para el otorgamiento de permisos, licencias y autorizaciones del orden municipal, de conformidad con la Ley para la Mejora Regulatoria del Estado de México y Municipios, la Ley de Competitividad y Ordenamiento Comercial del Estado de México, la Ley de Fomento Económico del Estado de México, la Ley que crea la Comisión de Factibilidad del Estado de México, sus respectivos reglamentos y demás disposiciones jurídicas aplicables;
+II Bis. Impulsar y difundir la simplificación de trámites y reducción de plazos para el otorgamiento de permisos, licencias y autorizaciones del orden municipal, de conformidad con la Ley para la Mejora Regulatoria del Estado de México y Municipios, la Ley de Competitividad y Ordenamiento Comercial del Estado de México, la Ley de Fomento Económico del Estado de México, sus respectivos reglamentos y demás disposiciones jurídicas aplicables;
 
 III. (DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2018)
 
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
 IV. Desarrollar e implementar las acciones de coordinación que permitan la adecuada operación del Sistema Único de Gestión Empresarial, de conformidad con la Ley de la materia;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 V. Establecer y operar el Sistema de Apertura Rápida de Empresas del Estado de México en coordinación con los distintos órdenes de Gobierno en los términos que establece la Ley de la materia;
 
@@ -2167,31 +2195,55 @@ V. Establecer y operar el Sistema de Apertura Rápida de Empresas del Estado de 
 
 En los casos en que no se haya celebrado convenio de coordinación para la unidad económica del Sistema de Apertura Rápida de Empresas del Estado de México en el municipio, se deberá establecer y operar una ventanilla única que brinde orientación, asesoría y gestión a los particulares respecto de los trámites requeridos para la instalación, apertura, operación y ampliación de nuevos negocios que no generen impacto urbano;
 
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
 VI. Desarrollar y difundir un sistema de información y promoción del sector productivo del Municipio;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 VII. Promover y difundir, dentro y fuera del Municipio las ventajas competitivas que se ofrecen en la localidad a la inversión productiva, en foros estatales, nacionales e internacionales;
 
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
 VIII. Promover en el sector privado la investigación y desarrollo de proyectos productivos, para atraer capitales de inversión;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 IX. Impulsar la participación del sector privado en el desarrollo de infraestructura comercial e industrial;
 
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
 X. Promover la capacitación, tanto del sector empresarial como del sector laboral, en coordinación con instituciones y organismos públicos y privados, para alcanzar mejores niveles de productividad y calidad de la base empresarial instalada en el Municipio, así como difundir los resultados y efectos de dicha capacitación;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 XI. Fomentar la creación de cadenas productivas entre micro, pequeños y medianos empresarios, con los grandes empresarios;
 
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
 XII. Fomentar y promover la actividad comercial, incentivando su desarrollo ordenado y equilibrado, para la obtención de una cultura de negocios corresponsables de la seguridad, limpia y abasto cualitativo en el Municipio;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 XIII. Impulsar el desarrollo rural sustentable a través de la capacitación para el empleo de nuevas tecnologías, la vinculación del sector con las fuentes de financiamiento, la constitución de cooperativas para el desarrollo, y el establecimiento de mecanismos de información sobre los programas municipales, estatales y federales, públicos o privados;
 
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
 XIV. Difundir la actividad artesanal a través de la organización del sector, capacitación de sus integrantes y su participación en ferias y foros, que incentive la comercialización de los productos;
 
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
 XV. Promover el consumo en establecimientos comerciales y de servicios del Municipio;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 XVI. Fomentar la comercialización de productos hechos en el Municipio en mercados nacionales e internacionales;
 
 > <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 XVII. Auxiliar al Presidente Municipal en la coordinación con las dependencias del Ejecutivo Estatal que son responsables del fomento económico en los términos que señale la Ley de la materia;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 XVIII. Conducir la coordinación interinstitucional de las dependencias municipales a las que corresponda conocer sobre el otorgamiento de permisos y licencias para la apertura y funcionamiento de unidades económicas;
 
@@ -2203,9 +2255,17 @@ Para tal efecto, deberá garantizar que el otorgamiento de la licencia no esté 
 
 XIX. Operar y actualizar el Registro Municipal de Unidades Económicas de los permisos o licencias de funcionamiento otorgadas a las unidades económicas respectivas, así como remitir dentro de los cinco días hábiles siguientes los datos generados al Sistema que al efecto integre la Secretaría de Desarrollo Económico, a la Secretaría de Seguridad y a la Fiscalía General de Justicia del Estado de México, la información respectiva;
 
-> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 5 DE ENERO DE 2021)</small>
 
-XX. Las demás que señalen las disposiciones legales aplicables.
+XX. Crear y actualizar el Registro de las Unidades Económicas que cuenten con el Dictamen de Giro, para la solicitud o refrendo de las licencias de funcionamiento;
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2021)</small>
+
+XXI. Autorizar la placa a que se refiere la fracción VIII del artículo 74 de la Ley de Competitividad y Ordenamiento Comercial del Estado de México, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 5 DE ENERO DE 2021)</small>
+
+XXII. Las demás que señalen las disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE JUNIO DE 2019)</small>
 
@@ -5256,3 +5316,59 @@ G.G. 11 DE NOVIEMBRE DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 5 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 230.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO, DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y DE LA LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; Y SE EXPIDE LA LEY DE LA COMISIÓN DE IMPACTO ESTATAL”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley que crea la Comisión de Factibilidad del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 17 de septiembre del 2018, a través del Decreto número 331.
+
+CUARTO. Los procedimientos y demás actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto serán atendidos, en el ámbito de sus respectivas competencias, por las autoridades estatales o municipales competentes, en términos del mismo.
+
+Con independencia de lo anterior, se concluyen los procedimientos, trámites y demás actos relacionados con las evaluaciones técnicas de factibilidad comercial automotriz que se derogan por la entrada en vigor del presente Decreto.
+
+QUINTO. Los Ayuntamientos del Estado de México conformarán el Comité Municipal de Dictámenes de Giro y expedirán las disposiciones jurídicas reglamentarias correspondientes de conformidad con lo establecido en el presente Decreto, en un plazo no mayor a sesenta días hábiles contados a partir de su entrada en vigor. Hasta en tanto no se conforme dicho Comité Municipal y no se emitan los reglamentos correspondientes, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no contravenga al presente Decreto.
+
+SEXTO. Los derechos de los trabajadores serán respetados conforme a la ley.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto, sin perjuicio de lo previsto en el presente régimen transitorio.
+
+OCTAVO. Las dependencias del Ejecutivo del Estado y de los Municipios, dispondrán lo necesario para el cumplimiento del presente Decreto, en el ámbito de su competencia.
+
+NOVENO. Las solicitudes de Dictamen Único de Factibilidad que prevé la Ley de Competitividad y Ordenamiento Comercial, que fueron ingresadas ante la Comisión de Factibilidad del Estado de México con antelación a la entrada en vigor del presente Decreto, podrán ser concluidas en dicha Comisión, o bien, ser remitidas por ésta a las autoridades municipales para continuar su trámite, a elección del peticionario, quien deberá manifestarlo expresamente por escrito ante la propia Comisión.
+
+Pasados 30 días hábiles a partir de la entrada en vigor del presente Decreto sin que el peticionario se pronuncie en términos del párrafo anterior, la Comisión remitirá los expedientes respectivos a las autoridades municipales.
+
+DÉCIMO. Los Dictámenes Únicos de Factibilidad emitidos con anterioridad a la entrada en vigor del presente decreto, tendrán vigencia permanente y se sujetarán a las disposiciones previstas en el presente Decreto.
+
+DÉCIMO PRIMERO. Los peticionarios que cuenten con trámites en proceso para la obtención del Dictamen Único de Factibilidad, ingresados con antelación a la entrada en vigor del presente Decreto, contarán con 30 días hábiles para, en su caso, continuar con su trámite ante la Comisión, presentando para ello los requisitos faltantes, atendiendo las prevenciones o manifestando por escrito su intención de continuar con el trámite.
+
+En caso de no actualizarse ninguno de los supuestos anteriores, los trámites se entenderán concluidos por ministerio de ley, haciéndolos del conocimiento de las autoridades responsables de emitir las evaluaciones técnicas correspondientes.
+
+DÉCIMO SEGUNDO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Comisión de Factibilidad del Estado de México se entenderán hechas a la Comisión de Impacto Estatal.
+
+Los recursos humanos, materiales y financieros de la Comisión de Factibilidad del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Comisión de Impacto Estatal.
+
+Los asuntos, actos, procedimientos, programas o proyectos de competencia estatal que se encuentren en trámite o curso en la Comisión de Factibilidad del Estado de México serán atendidos en los términos del presente régimen transitorio por la Comisión de Impacto Estatal.
+
+Lo anterior con excepción de lo previsto en el presente régimen transitorio.
+
+DÉCIMO TERCERO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas y documentación se haga referencia a:
+
+a) Evaluación Técnica de Factibilidad de Impacto Urbano se entenderá por Evaluación Técnica de Impacto en materia Urbana;
+
+b) Evaluación Técnica de Factibilidad de Protección Civil se entenderá por Evaluación Técnica de Impacto en materia de Protección Civil;
+
+c) Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial se entenderá por Evaluación Técnica de Impacto en materia Vial;
+
+d) Evaluación Técnica de Factibilidad de Impacto Ambiental se entenderá por Evaluación Técnica de Impacto en materia Ambiental;
+
+e) Evaluación Técnica de Factibilidad de Transformación Forestal se entenderá por Evaluación Técnica de Impacto en materia de Transformación Forestal;
+
+f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
+
+g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
