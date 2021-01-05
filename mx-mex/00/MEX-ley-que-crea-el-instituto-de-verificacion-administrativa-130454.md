@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-instituto-de-verificacion-administrativa-130454
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-17"
-last_updated: "2018-09-17"
+last_updated: "2021-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
 
 Ley publicada en la Sección Quinta al Número 52 de la Gaceta del Gobierno del Estado de México, el lunes 17 de septiembre de 2018.
 
@@ -45,6 +45,8 @@ Ley que crea el Instituto de Verificación Administrativa del Estado de México
 
 ### Capítulo I. Naturaleza jurídica y objeto
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.G. 5 DE ENERO DE 2021)</small>
+
 ###### Artículo 1.
 
 La presente Ley es de orden público e interés general y tiene por objeto crear el Instituto de Verificación Administrativa del Estado de México, como órgano desconcentrado de la Secretaría de Justicia y Derechos Humanos, con autonomía técnica y operativa en el ejercicio de sus atribuciones, responsable de la función de verificación en el Estado de México.
@@ -57,7 +59,13 @@ Son sujetos obligados a la observancia y cumplimiento de esta Ley las y los serv
 
 En la aplicación de esta Ley, se entenderá por:
 
-I. Comisión: A la Comisión de Factibilidad del Estado de México;
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
+
+I. Comisión: A la Comisión de Impacto Estatal;
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2021)</small>
+
+I Bis. Evaluación de Impacto Estatal: al documento de carácter permanente emitido por la Comisión de Impacto Estatal en términos de las disposiciones jurídicas aplicables;
 
 II. Dirección: A la Dirección General del Instituto de Verificación Administrativa del Estado de México;
 
@@ -67,15 +75,21 @@ IV. Ley: A la Ley que crea el Instituto de Verificación Administrativa del Esta
 
 V. Reglamento Interior: Al Reglamento Interior del Instituto de Verificación Administrativa del Estado de México;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 5 DE ENERO DE 2021)</small>
+
 VI. Secretaría: a la Secretaría de Justicia y Derechos Humanos;
 
 VII. Sistema: Al Sistema de Verificaciones y Estadísticas del Instituto de Verificación Administrativa del Estado de México;
 
-VIII. Verificación: al acto administrativo por el que el Instituto de Verificación Administrativa del Estado de México, en coordinación con las dependencias y organismos auxiliares competentes, a través del personal autorizado y previa orden emitida por la autoridad competente, verifican, mediante revisión ocular y examen de documentos el cumplimiento de las condiciones, requerimientos u obligaciones para una obra, unidad económica, inversiones o proyectos, contempladas en las evaluaciones técnicas de factibilidad y/o en el Dictamen Único de Factibilidad y demás normatividad de la materia aplicable;
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
+
+VIII. Verificación: al acto administrativo por el que el Instituto de Verificación Administrativa del Estado de México, en coordinación con las dependencias y organismos auxiliares competentes, a través del personal autorizado y previa orden emitida por la autoridad competente, verifican, mediante revisión ocular y examen de documentos el cumplimiento de las condiciones, requerimientos u obligaciones para proyectos nuevos, ampliaciones o actualizaciones contempladas en las evaluaciones técnicas de impacto y/o la Evaluación de Impacto Estatal y demás normatividad de la materia aplicable;
 
 IX. Verificador: A la o al servidor público acreditado y credencializado ante el Instituto de Verificación Administrativa del Estado de México para llevar a cabo visitas de verificación con el objeto de constatar el cumplimiento de las condiciones, requerimientos y obligaciones contempladas en la normativa aplicable; y
 
-X. Visita colegiada: Al acto en el que las dependencias y organismos auxiliares, bajo la coordinación del Instituto de Verificación Administrativa del Estado de México y con conocimiento de la Comisión de Factibilidad del Estado de México, realizan la supervisión técnica y física del inmueble donde se pretende la construcción, apertura, instalación, operación, ampliación o funcionamiento de obras, unidades económicas, inversiones o proyectos, con el objeto de allegarse de los elementos indispensables y estar en aptitud de emitir la evaluación técnica de factibilidad que en su caso sustente la determinación del Dictamen o la resolución correspondiente.
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
+
+X. Visita colegiada: Al acto en el que las dependencias y organismos auxiliares estatales, bajo la coordinación del Instituto de Verificación Administrativa del Estado de México y con conocimiento de la Comisión de Impacto Estatal, realizan la supervisión técnica y física del inmueble donde se pretende la construcción, apertura, instalación, operación, ampliación o funcionamiento de obras, unidades económicas, inversiones o proyectos, con el objeto de allegarse de los elementos indispensables y estar en aptitud de emitir la evaluación técnica de impacto que en su caso sustente la determinación de la Evaluación de Impacto Estatal o la resolución correspondiente.
 
 ###### Artículo 3.
 
@@ -113,21 +127,25 @@ III. Velar en la esfera de su competencia, por el cumplimiento de las leyes, reg
 
 IV. Registrar en el Sistema los datos de las visitas de verificación que sean coordinadas por el Instituto y solicitar a las dependencias que integren en dicho Sistema las constancias que sustenten su ejecución a fin de dar cumplimiento al objeto del mismo;
 
-V. Solicitar a la Comisión o a las autoridades competentes la información que estime indispensable, a efecto de dar la debida atención a las solicitudes de visitas de verificación que le presenten la ciudadanía y las autoridades, cuando así lo estime necesario.
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-Dicha información deberá ser remitida en los plazos y términos establecidos por el Instituto;
+V. Solicitar a la Comisión o a las autoridades competentes la información que estime indispensable, a efecto de dar la debida atención a las solicitudes de visitas de verificación que le presenten la ciudadanía y las autoridades, cuando así lo estime necesario. Dicha información deberá ser remitida en los plazos y términos establecidos por el Instituto;
 
 VI. Valorar y atender en el ámbito de sus atribuciones las solicitudes de verificación que presenten autoridades y particulares;
 
 VII. Coordinar y ejecutar la práctica de visitas colegiadas que le sean solicitadas por las dependencias y organismos auxiliares, en materia de su competencia;
 
-VIII. Realizar las visitas de verificación, ya sea de oficio, por solicitud ciudadana, de la Comisión u otras autoridades, para constatar el cumplimiento de las condicionantes en los plazos y términos establecidos en el Dictamen, comprobar que se cuente con dicho Dictamen, o bien, se constate la permanencia de las características bajo las cuales fue emitido dicho documento;
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
+
+VIII. Realizar las visitas de verificación, ya sea de oficio, por solicitud ciudadana, de la Comisión u otras autoridades, para constatar el cumplimiento de las condicionantes en los plazos y términos establecidos en la Evaluación de Impacto Estatal, comprobar que se cuente con dicha Evaluación, o bien, se constate la permanencia de las características bajo las cuales fue emitido dicho documento;
 
 IX. Autorizar, coordinar y ejecutar a las instancias competentes, la práctica de visitas de verificación, solicitadas por las autoridades competentes y particulares, para constatar el cumplimiento de las condicionantes en los plazos y términos establecidos en la resolución del Dictamen;
 
 X. Orientar y asesorar a las y los titulares de obras, unidades económicas, inversiones o proyectos sobre los derechos y obligaciones correspondientes;
 
-XI. Planear, emplear y ejecutar los mecanismos de supervisión y visitas aleatorias que para tal efecto se encuentren contemplados en el Reglamento, con la finalidad de comprobar que las obras, unidades económicas, inversiones o proyectos cuenten con el Dictamen Único de Factibilidad, y en su caso, cumplan con las condicionantes de su expedición; y
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
+
+XI. Planear, emplear y ejecutar los mecanismos de supervisión y visitas aleatorias que para tal efecto se encuentren contemplados en el Reglamento, con la finalidad de comprobar que las obras, unidades económicas, inversiones o proyectos cuenten con la Evaluación de Impacto Estatal, y en su caso, cumplan con las condicionantes de su expedición; y
 
 XII. Las demás que establezcan el Reglamento Interior y los ordenamientos jurídicos aplicables.
 
@@ -171,7 +189,9 @@ II. Planear, ordenar, coordinar, supervisar y evaluar las acciones necesarias pa
 
 III. Implementar, coordinar y operar el Sistema y mantenerlo actualizado;
 
-IV. Autorizar, coordinar y ejecutar la práctica de las visitas de verificación en las materias competencia del Instituto, para corroborar la permanencia de las condiciones bajo las cuales fue emitido el Dictamen Único de Factibilidad y las evaluaciones técnicas de factibilidad emitidas por las dependencias y organismo auxiliares competentes;
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
+
+IV. Autorizar, coordinar y ejecutar la práctica de las visitas de verificación en las materias competencia del Instituto, para corroborar la permanencia de las condiciones bajo las cuales fue emitida la Evaluación de Impacto Estatal y las evaluaciones técnicas de impacto emitidas por las dependencias y organismo auxiliares estatales competentes;
 
 V. Atender los reportes o inconformidades que por escrito presenten las y los ciudadanos respecto de la ejecución de visitas de verificación, así como de cualquier otro asunto competencia del Instituto, dando vista en su caso, al órgano de control interno correspondiente;
 
@@ -199,7 +219,11 @@ XVI. Proponer a la o el titular de la Secretaría los programas y proyectos del 
 
 XVII. Dar seguimiento a las acciones que se implementen en las diversas áreas del Instituto para la mejora en sus procesos;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 5 DE ENERO DE 2021)</small>
+
 XVIII. Coordinar y ejecutar la práctica de visitas colegiadas solicitadas por la Comisión;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 5 DE ENERO DE 2021)</small>
 
 XIX. Remitir a la Comisión las constancias o informes derivados de las visitas colegiadas y de las visitas de verificación realizadas, en las materias competencia del Instituto;
 
@@ -410,3 +434,61 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. SERGIO ALEJANDRO OZUNA RIVERO
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 5 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 230.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO, DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y DE LA LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; Y SE EXPIDE LA LEY DE LA COMISIÓN DE IMPACTO ESTATAL”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que crea la Comisión de Factibilidad del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 17 de septiembre del 2018, a través del Decreto número 331 .
+
+CUARTO. Los procedimientos y demás actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto serán atendidos, en el ámbito de sus respectivas competencias, por las autoridades estatales o municipales competentes, en términos del mismo.
+
+Con independencia de lo anterior, se concluyen los procedimientos, trámites y demás actos relacionados con las evaluaciones técnicas de factibilidad comercial automotriz que se derogan por la entrada en vigor del presente Decreto.
+
+QUINTO. Los Ayuntamientos del Estado de México conformarán el Comité Municipal de Dictámenes de Giro y expedirán las disposiciones jurídicas reglamentarias correspondientes de conformidad con lo establecido en el presente Decreto, en un plazo no mayor a sesenta días hábiles contados a partir de su entrada en vigor. Hasta en tanto no se conforme dicho Comité Municipal y no se emitan los reglamentos correspondientes, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no contravenga al presente Decreto.
+
+SEXTO. Los derechos de los trabajadores serán respetados conforme a la ley.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto, sin perjuicio de lo previsto en el presente régimen transitorio.
+
+OCTAVO. Las dependencias del Ejecutivo del Estado y de los Municipios, dispondrán lo necesario para el cumplimiento del presente Decreto, en el ámbito de su competencia.
+
+NOVENO. Las solicitudes de Dictamen Único de Factibilidad que prevé la Ley de Competitividad y Ordenamiento Comercial, que fueron ingresadas ante la Comisión de Factibilidad del Estado de México con antelación a la entrada en vigor del presente Decreto, podrán ser concluidas en dicha Comisión, o bien, ser remitidas por ésta a las autoridades municipales para continuar su trámite, a elección del peticionario, quien deberá manifestarlo expresamente por escrito ante la propia Comisión.
+
+Pasados 30 días hábiles a partir de la entrada en vigor del presente Decreto sin que el peticionario se pronuncie en términos del párrafo anterior, la Comisión remitirá los expedientes respectivos a las autoridades municipales.
+
+DÉCIMO. Los Dictámenes Únicos de Factibilidad emitidos con anterioridad a la entrada en vigor del presente decreto, tendrán vigencia permanente y se sujetarán a las disposiciones previstas en el presente Decreto.
+
+DÉCIMO PRIMERO. Los peticionarios que cuenten con trámites en proceso para la obtención del Dictamen Único de Factibilidad, ingresados con antelación a la entrada en vigor del presente Decreto, contarán con 30 días hábiles para, en su caso, continuar con su trámite ante la Comisión, presentando para ello los requisitos faltantes, atendiendo las prevenciones o manifestando por escrito su intención de continuar con el trámite.
+
+En caso de no actualizarse ninguno de los supuestos anteriores, los trámites se entenderán concluidos por ministerio de ley, haciéndolos del conocimiento de las autoridades responsables de emitir las evaluaciones técnicas correspondientes.
+
+DÉCIMO SEGUNDO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Comisión de Factibilidad del Estado de México se entenderán hechas a la Comisión de Impacto Estatal.
+
+Los recursos humanos, materiales y financieros de la Comisión de Factibilidad del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Comisión de Impacto Estatal.
+
+Los asuntos, actos, procedimientos, programas o proyectos de competencia estatal que se encuentren en trámite o curso en la Comisión de Factibilidad del Estado de México serán atendidos en los términos del presente régimen transitorio por la Comisión de Impacto Estatal.
+
+Lo anterior con excepción de lo previsto en el presente régimen transitorio.
+
+DÉCIMO TERCERO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas y documentación se haga referencia a:
+
+a) Evaluación Técnica de Factibilidad de Impacto Urbano se entenderá por Evaluación Técnica de Impacto en materia Urbana;
+
+b) Evaluación Técnica de Factibilidad de Protección Civil se entenderá por Evaluación Técnica de Impacto en materia de Protección Civil;
+
+c) Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial se entenderá por Evaluación Técnica de Impacto en materia Vial;
+
+d) Evaluación Técnica de Factibilidad de Impacto Ambiental se entenderá por Evaluación Técnica de Impacto en materia Ambiental;
+
+e) Evaluación Técnica de Factibilidad de Transformación Forestal se entenderá por Evaluación Técnica de Impacto en materia de Transformación Forestal;
+
+f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
+
+g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
