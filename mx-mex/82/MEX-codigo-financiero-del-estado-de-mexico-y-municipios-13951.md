@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2020-09-29"
+last_updated: "2021-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,13 @@ state: "MEX"
 
 [NOTA 2: PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019 Y CONTIENE LA REFERENCIA A LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 14 DE ENERO DE 2020.]
 
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019.]
+
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -4709,7 +4713,9 @@ I. Por la supervisión de las obras de urbanización, infraestructura y equipami
 
 En el caso de que se conceda prórroga para concluir las obras de urbanización del conjunto urbano y subdivisión o lotificación en condominio, que no se hayan ejecutado dentro del plazo fijado en la autorización correspondiente, se pagará el 2% sobre el importe del presupuesto aprobado a costo directo y actualizado de las obras por ejecutar en el período de vigencia de la prórroga concedida.
 
-(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)Tratándose de conjuntos urbanos y lotificaciones en condominio habitacionales de interés social, popular y social progresivo, los derechos a que se refiere esta fracción se causarán a una tasa del 1%.
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+
+Tratándose de conjuntos urbanos y lotificaciones en condominio habitacionales de interés social, popular y social progresivo, los derechos a que se refiere esta fracción se causarán a una tasa del 1%.
 
 > <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -4759,17 +4765,25 @@ X. Por las constancias de aprovechamiento inmobiliario, se pagarán $ 3,857
 
 > <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 26 DE DICIEMBRE DE 2019, PÁGINA 206.]</small>
 
-> <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 81 Bis.
 
-Por los estudios y evaluaciones necesarios para la emisión del Dictamen Único de Factibilidad, las y los solicitantes deberán cubrir los conceptos siguientes, tomando en consideración la unidad económica y el tipo de proyecto solicitado:
+Por los estudios y evaluaciones necesarios para la emisión de la Evaluación de Impacto Estatal, las y los solicitantes deberán cubrir los conceptos siguientes, tomando en consideración la unidad económica y el tipo de proyecto solicitado:
+
+> <small>(ADICIONADA, G.G. 15 DE DICIEMBRE DE 2017)</small>
 
 I. Por la evaluación de las condiciones de seguridad para usos del suelo que generen impacto regional o urbano. $ 4,629
 
+> <small>(ADICIONADA, G.G. 15 DE DICIEMBRE DE 2017)</small>
+
 II. Por las evaluaciones para usos de impacto regional, urbano o de factibilidad para conjuntos urbanos. $ 3,857
 
-III. Por la evaluación del impacto ambiental, que efectúe la autoridad competente en los términos de los ordenamientos jurídicos aplicables:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ENERO DE 2021)</small>
+
+III. Por la evaluación técnica de impacto en materia ambiental, que efectúe la autoridad competente en los términos de los ordenamientos jurídicos aplicables:
+
+> <small>(ADICIONADA, G.G. 15 DE DICIEMBRE DE 2017)</small>
 
 INDUSTRIAL OTROS
 
@@ -4791,9 +4805,11 @@ prórroga de la vigencia de la
 
 Resolución.
 
-> <small>(ADICIONADA, G.G. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
 
-IV. Por la emisión de la evaluación técnica de factibilidad de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, los desarrolladores, constructores o propietarios de nuevos fraccionamientos, habitacionales, comerciales, industriales, mixtos, o de otro uso pagarán. $27,127.43
+IV. Por la emisión de la evaluación técnica de impacto en materia de distribución de agua, así como la de agua, drenaje, alcantarillado y tratamiento de aguas residuales, los desarrolladores, constructores o propietarios de nuevos fraccionamientos, habitacionales, comerciales, industriales, mixtos, o de otro uso pagarán. $27,127.43.
+
+> <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
 
 No pagarán los derechos previstos en este artículo los fraccionadores de conjuntos urbanos habitacionales donde se prevé la construcción de vivienda social progresiva, de interés social y popular, así como las microindustrias que estén registradas en el Padrón Nacional de Microindustria.
 
@@ -12359,11 +12375,11 @@ Las aportaciones notificadas a cargo de los beneficiarios, tendrán el carácter
 
 ### CAPITULO SEGUNDO. DE LAS APORTACIONES ESTATALES PARA OBRAS DE IMPACTO VIAL
 
-> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
 
 ###### Artículo 216-A.
 
-Están obligadas al pago de Aportaciones para Obras de Impacto Vial, las personas físicas o jurídicas colectivas, que en términos del Código Administrativo del Estado de México requieran de la evaluación técnica de impacto urbano y/o dictamen único de factibilidad, que en territorio del Estado construyan, amplíen y/o modifiquen el uso o aprovechamiento de bienes inmuebles, con un uso de suelo industrial, comercial, servicios, educación y cultura, servicios para recreación, comunicaciones, conjuntos urbanos y parques industriales, debidamente autorizados y que regionalmente se vean beneficiados con las obras a que se refiere el artículo 216-H.
+Están obligadas al pago de Aportaciones para Obras de Impacto Vial, las personas físicas o jurídicas colectivas, que en términos del Código Administrativo del Estado de México requieran de la evaluación técnica de impacto en materia urbana y/o Evaluación de Impacto Estatal, que en territorio del Estado construyan, amplíen y/o modifiquen el uso o aprovechamiento de bienes inmuebles, con un uso de suelo industrial, comercial, servicios, educación y cultura, servicios para recreación, comunicaciones, conjuntos urbanos y parques industriales, debidamente autorizados y que regionalmente se vean beneficiados con las obras a que se refiere el artículo 216-H.
 
 > <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -18562,3 +18578,59 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 5 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 230.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO, DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y DE LA LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; Y SE EXPIDE LA LEY DE LA COMISIÓN DE IMPACTO ESTATAL".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que crea la Comisión de Factibilidad del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, en fecha 17 de septiembre del 2018, a través del Decreto número 331.
+
+CUARTO. Los procedimientos y demás actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto serán atendidos, en el ámbito de sus respectivas competencias, por las autoridades estatales o municipales competentes, en términos del mismo.
+
+Con independencia de lo anterior, se concluyen los procedimientos, trámites y demás actos relacionados con las evaluaciones técnicas de factibilidad comercial automotriz que se derogan por la entrada en vigor del presente Decreto.
+
+QUINTO. Los Ayuntamientos del Estado de México conformarán el Comité Municipal de Dictámenes de Giro y expedirán las disposiciones jurídicas reglamentarias correspondientes de conformidad con lo establecido en el presente Decreto, en un plazo no mayor a sesenta días hábiles contados a partir de su entrada en vigor. Hasta en tanto no se conforme dicho Comité Municipal y no se emitan los reglamentos correspondientes, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no contravenga al presente Decreto.
+
+SEXTO. Los derechos de los trabajadores serán respetados conforme a la ley.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto, sin perjuicio de lo previsto en el presente régimen transitorio.
+
+OCTAVO. Las dependencias del Ejecutivo del Estado y de los Municipios, dispondrán lo necesario para el cumplimiento del presente Decreto, en el ámbito de su competencia.
+
+NOVENO. Las solicitudes de Dictamen Único de Factibilidad que prevé la Ley de Competitividad y Ordenamiento Comercial, que fueron ingresadas ante la Comisión de Factibilidad del Estado de México con antelación a la entrada en vigor del presente Decreto, podrán ser concluidas en dicha Comisión, o bien, ser remitidas por ésta a las autoridades municipales para continuar su trámite, a elección del peticionario, quien deberá manifestarlo expresamente por escrito ante la propia Comisión.
+
+Pasados 30 días hábiles a partir de la entrada en vigor del presente Decreto sin que el peticionario se pronuncie en términos del párrafo anterior, la Comisión remitirá los expedientes respectivos a las autoridades municipales.
+
+DÉCIMO. Los Dictámenes Únicos de Factibilidad emitidos con anterioridad a la entrada en vigor del presente decreto, tendrán vigencia permanente y se sujetarán a las disposiciones previstas en el presente Decreto.
+
+DÉCIMO PRIMERO. Los peticionarios que cuenten con trámites en proceso para la obtención del Dictamen Único de Factibilidad, ingresados con antelación a la entrada en vigor del presente Decreto, contarán con 30 días hábiles para, en su caso, continuar con su trámite ante la Comisión, presentando para ello los requisitos faltantes, atendiendo las prevenciones o manifestando por escrito su intención de continuar con el trámite.
+
+En caso de no actualizarse ninguno de los supuestos anteriores, los trámites se entenderán concluidos por ministerio de ley, haciéndolos del conocimiento de las autoridades responsables de emitir las evaluaciones técnicas correspondientes.
+
+DÉCIMO SEGUNDO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Comisión de Factibilidad del Estado de México se entenderán hechas a la Comisión de Impacto Estatal.
+
+Los recursos humanos, materiales y financieros de la Comisión de Factibilidad del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Comisión de Impacto Estatal.
+
+Los asuntos, actos, procedimientos, programas o proyectos de competencia estatal que se encuentren en trámite o curso en la Comisión de Factibilidad del Estado de México serán atendidos en los términos del presente régimen transitorio por la Comisión de Impacto Estatal.
+
+Lo anterior con excepción de lo previsto en el presente régimen transitorio.
+
+DÉCIMO TERCERO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas y documentación se haga referencia a:
+
+a) Evaluación Técnica de Factibilidad de Impacto Urbano se entenderá por Evaluación Técnica de Impacto en materia Urbana;
+
+b) Evaluación Técnica de Factibilidad de Protección Civil se entenderá por Evaluación Técnica de Impacto en materia de Protección Civil;
+
+c) Evaluación Técnica de Factibilidad de Incorporación e Impacto Vial se entenderá por Evaluación Técnica de Impacto en materia Vial;
+
+d) Evaluación Técnica de Factibilidad de Impacto Ambiental se entenderá por Evaluación Técnica de Impacto en materia Ambiental;
+
+e) Evaluación Técnica de Factibilidad de Transformación Forestal se entenderá por Evaluación Técnica de Impacto en materia de Transformación Forestal;
+
+f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
+
+g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
