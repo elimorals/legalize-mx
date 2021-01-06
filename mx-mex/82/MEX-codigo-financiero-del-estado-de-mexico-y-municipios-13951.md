@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2021-01-05"
+last_updated: "2021-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -31,7 +31,7 @@ state: "MEX"
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2021.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -3705,35 +3705,45 @@ III. Presentar declaraciones de manera mensual agregada hasta en tanto no presen
 
 La Secretaría de Finanzas emitirá reglas de carácter general donde reglamente la forma de inscripción, suspensión de registro y cancelación de registro ante el Registro Estatal de Contribuyentes de persona física o jurídica colectiva en su carácter de intermediario, promotor o facilitador, así como la forma de pago y entero del impuesto.
 
-> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2021)</small>
 
-Artículo 69 F.- Será depositada en el Fideicomiso para la Promoción Turística que al efecto se constituya, una cantidad equivalente al porcentaje que se defina en la normatividad que regule los recursos recaudados por este impuesto.
+Artículo 69 F.- Será depositada en el Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal que al efecto se constituya, una cantidad equivalente al porcentaje que se defina en la normatividad que regule los recursos recaudados por este impuesto.
 
-> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2021)</small>
 
-Artículo 69 G.- El Fideicomiso para la Promoción Turística tendrá por objeto:
+Artículo 69 G.- El Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal tendrá por objeto:
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 I. La promoción nacional e internacional del Estado de México como destino turístico.
 
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+
 II. La promoción nacional e internacional del Estado de México para atraer congresos, convenciones, reuniones corporativas, ferias, exposiciones, programas de incentivos o cualquier tipo de reunión, evento o festival que genere la presencia de turistas y derrama económica al Estado de México.
+
+> <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 III. El desarrollo de proyectos, construcción y equipamiento de infraestructura turística.
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 6 DE ENERO DE 2021)</small>
 
-Artículo 69 H.- Los ingresos del Fideicomiso para la Promoción Turística serán destinados para los objetos señalados en el artículo 69 G.
+IV. Implementar las acciones necesarias para apoyar a los prestadores de servicios turísticos, a las y los artesanos en caso de presentarse fenómenos naturales o acontecimientos sociales extraordinarios que los afecten directamente;
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2021)</small>
 
-Artículo 69 I.- El Fideicomiso para la Promoción Turística operará a través de reglas específicas y contará con un Comité Técnico que será el máximo órgano de decisión.
+Artículo 69 H.- Los ingresos del Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal serán destinados para los objetos señalados en el artículo 69 G.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2021)</small>
 
-Artículo 69 J.- El Comité Técnico del Fideicomiso para la Promoción Turística, será presidido por la Secretaría de Cultura y Turismo y estará integrado por servidores públicos con injerencia en la materia turística, pudiendo participar representantes del sector privado, previa invitación expresa del Comité Técnico.
+Artículo 69 I.- El Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal operará a través de reglas específicas, y contará con un Comité Técnico que será el máximo órgano de decisión.
 
-> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2021)</small>
 
-Artículo 69 K.- El Comité Técnico tendrá además de las previstas por la normatividad aplicable, la obligación de brindar información a la Legislatura respecto al ejercicio de los recursos del Fideicomiso para la Promoción Turística.
+Artículo 69 J.- El Comité Técnico del Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal será presidido por la Secretaría de Cultura y Turismo y estará integrado por personas servidoras públicas con injerencia en la materia turística, pudiendo participar representantes del sector privado, previa invitación expresa del Comité Técnico.
+
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2021)</small>
+
+Artículo 69 K.- El Comité Técnico tendrá además de las previstas por la normatividad aplicable, la obligación de brindar información a la Legislatura respecto al ejercicio de los recursos del Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal.
 
 > <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
@@ -4713,9 +4723,7 @@ I. Por la supervisión de las obras de urbanización, infraestructura y equipami
 
 En el caso de que se conceda prórroga para concluir las obras de urbanización del conjunto urbano y subdivisión o lotificación en condominio, que no se hayan ejecutado dentro del plazo fijado en la autorización correspondiente, se pagará el 2% sobre el importe del presupuesto aprobado a costo directo y actualizado de las obras por ejecutar en el período de vigencia de la prórroga concedida.
 
-> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
-
-Tratándose de conjuntos urbanos y lotificaciones en condominio habitacionales de interés social, popular y social progresivo, los derechos a que se refiere esta fracción se causarán a una tasa del 1%.
+(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)Tratándose de conjuntos urbanos y lotificaciones en condominio habitacionales de interés social, popular y social progresivo, los derechos a que se refiere esta fracción se causarán a una tasa del 1%.
 
 > <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -18505,7 +18513,7 @@ OCTAVO.- Las Reglas Generales y Lineamientos Generales a que se refiere el prese
 
 G.G. 26 DE DICIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN ANUAL DE DERECHOS Y LAS CUOTAS Y TARIFAS PREVISTAS EN EL ARTÍCULO 60 G DEL CAPÍTULO PRIMERO, “DE LOS IMPUESTOS”, ASÍ COMO LAS ESTABLECIDAS EN LOS ARTÍCULOS 73 AL 104 DEL CAPÍTULO SEGUNDO, “DE LOS DERECHOS” PARA EL EJERCICIO FISCAL DE 2020, AMBOS DEL TÍTULO TERCERO “DE LOS INGRESOS DEL ESTADO” DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN ANUAL DE DERECHOS Y LAS CUOTAS Y TARIFAS PREVISTAS EN EL ARTÍCULO 60 G DEL CAPÍTULO PRIMERO, "DE LOS IMPUESTOS", ASÍ COMO LAS ESTABLECIDAS EN LOS ARTÍCULOS 73 AL 104 DEL CAPÍTULO SEGUNDO, "DE LOS DERECHOS" PARA EL EJERCICIO FISCAL DE 2020, AMBOS DEL TÍTULO TERCERO "DE LOS INGRESOS DEL ESTADO" DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
 
 Primero.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -18634,3 +18642,25 @@ e) Evaluación Técnica de Factibilidad de Transformación Forestal se entender�
 f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
 
 g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
+
+G.G. 6 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 232.- POR EL QUE SE EXPIDE LA LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. A partir de la entrada en vigor de la presente Ley, se derogan todas las disposiciones de competencia local que le contravengan .
+
+TERCERO. El Reglamento de la presente Ley deberá emitirse en un plazo no mayor a 180 días hábiles a partir de su entrada en vigor.
+
+CUARTO. El Consejo Estatal y los Consejos Municipales deberán instalarse en un plazo no mayor a 30 días hábiles a partir de la vigencia de la presente Ley.
+
+QUINTO. Se otorga un plazo de 60 días hábiles, a partir de la vigencia de la presente Ley, para crear el Programa Municipal de Turismo Sostenible y Desarrollo Artesanal, así como el Registro Municipal de Turismo Sostenible, el Registro Municipal de Artesanas y Artesanos y el Catálogo Municipal.
+
+Una vez creados los Registros y Catálogos Municipales, la información será enviada a la Secretaría y al IIFAEM para la creación del Registro Estatal de Turismo Sostenible, el Registro Estatal de Artesanas y Artesanos y el Catálogo Mexiquense.
+
+SEXTO. Se otorga un plazo de 120 días hábiles, a partir de la vigencia de la presente Ley, para la creación del Observatorio, conforme a lo dispuesto en el Capítulo III del Título Tercero.
+
+SÉPTIMO. Cuando en otros ordenamientos legales, administrativos, documentación o papelería se hagan referencias al Fideicomiso para la Promoción Turística se entenderán hechas al Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal, el cual cambia de denominación y se constituirá con los recursos del Fideicomiso vigente.
+
+Los convenios, contratos y acuerdos suscritos con antelación con cargo u obligación por parte del Fideicomiso para la Promoción Turística seguirán teniendo vigencia y constituirán parte de los derechos y obligaciones del Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal.
