@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2021-01-05"
+last_updated: "2021-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2021.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2313,9 +2313,9 @@ X. La suspensión temporal hasta que cese la causa por la cual fue decretada a e
 
 Una vez aplicada esta medida de seguridad, se podrá iniciar con el procedimiento administrativo establecido en el Código de Procedimientos Administrativos del Estado de México, a fin de que en caso de que se mantenga el incumplimiento, se sancione con la clausura temporal o definitiva, parcial o total, según corresponda. Además se procederá penalmente conforme a la ley de la materia.
 
-> <small>(REFORMADA, G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
 
-XI. La colocación de sello de aviso para requerir que se acredite el cumplimiento de disposiciones sanitarias consistentes en el Dictamen de Giro, aviso de funcionamiento, de la Ley General de Salud, la Ley General para el Control del Tabaco y su reglamento, y
+XI. La colocación de sello de aviso para requerir que se acredite el cumplimiento de disposiciones sanitarias consistentes en el Dictamen de Giro, aviso de funcionamiento, de la Ley General de Salud, la Ley General para el Control del Tabaco y su Reglamento, así como la Ley de Prevención del Tabaquismo y de Protección ante la Exposición al Humo de Tabaco en el Estado de México y su Reglamento; y
 
 > <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -2365,9 +2365,9 @@ d) Deberá contener el escudo del Gobierno del Estado de México y de la COPRISE
 
 e) Nombre y firma de los verificadores sanitarios, así como fecha de la verificación y el folio correspondiente;
 
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2021)</small>
 
-f) Deberá contener el modo, lugar y plazo para acreditar el cumplimiento de las disposiciones sanitarias consistentes en el Dictamen de Giro emitido por el Comité Municipal de Dictámenes de Giro correspondiente, aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General para el Control del Tabaco y su Reglamento.
+f) Deberá contener el modo, lugar y plazo para acreditar el cumplimiento de las disposiciones sanitarias consistentes en el Dictamen de Giro emitido por el Comité Municipal de Dictámenes de Giro correspondiente, aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General para el Control del Tabaco y su Reglamento, así como la Ley de Prevención del Tabaquismo y de Protección ante la Exposición al Humo de Tabaco en el Estado de México y su Reglamento;
 
 > <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -3273,8 +3273,6 @@ El derecho al uso de la presea a que se refiere este Capítulo, se extingue por 
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
-
 ###### Artículo 3.
 
 68.- Los ayuntamientos, las organizaciones culturales, científicas, cívicas y políticas de la entidad podrán solicitar al Gobernador del Estado, la inhumación de los restos de mexiquenses en la Rotonda de las Personas Ilustres del Estado de México.
@@ -3343,535 +3341,195 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 76.- Las asociaciones de profesionistas que se ostenten con el carácter de colegios, sin contar con registro de la Secretaría de Educación, serán sancionadas con multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
 # LIBRO CUARTO. Del Turismo
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
 ## TITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
 ### CAPITULO SEGUNDO. De las Definiciones
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+###### Artículo 4.
+
+1.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
 ###### Artículo 4.
 
-1.- El presente Libro tiene como objeto fijar las bases para planear, programar, ordenar, clasificar, normar, promover, fomentar y regular la actividad turística sustentable en el Estado.
+2.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
-Para efectos de ese Libro, se entiende por turismo sustentable el desarrollo de la actividad turística mediante un proceso de cambio cualitativo basado en un equilibrio entre el aprovechamiento y la preservación del patrimonio natural y cultural, su viabilidad económica y la equidad social para las comunidades con dicha vocación.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
-
-###### Artículo 4.
-
-2.- Las disposiciones de este Libro tienen como finalidades:
-
-I. Posicionar al turismo como actividad prioritaria en las agendas estatal y municipal;
-
-II. Fortalecer el desarrollo turístico de la entidad a través de una estrategia de turismo sustentable;
-
-> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-III. Fomentar la inversión pública y privada (nacional y extranjera) en esta materia, como detonante del desarrollo turístico en la entidad, que permita generar productos turísticos sustentables;
-
-IV. Impulsar una cultura de "turismo de calidad", como medio para elevar la competitividad y productividad de la oferta turística en el Estado;
-
-V. Desarrollar propuestas de turismo alternativo en la entidad que garanticen su diversificación;
-
-> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-VI. Ofrecer condiciones de satisfacción y seguridad a los turistas;
-
-> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-VII. Promover una cultura turística entre los mexicanos; y
-
-> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-VIII. Fomentar acciones que garanticen un turismo para todos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE ENERO DE 2021)</small>
 
 ### CAPITULO TERCERO. De las Autoridades y sus Atribuciones
 
-> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
 ###### Artículo 4.
 
-3.- Para los efectos del presente libro se entenderá por:
+3.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
-I. Estado.- El Estado Libre y Soberano de México;
-
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
-
-II. Secretaría.- La Secretaría de Cultura y Turismo;
-
-III. Sector.- Todas aquellas entidades públicas, sociales y privadas que intervengan en la prestación de servicios turísticos en el Estado;
-
-> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-IV. Turista.- La persona que viaja, trasladándose temporalmente fuera de su residencia habitual, así mismo contrata y/o utiliza cualquiera de los servicios a que se refiere este Libro u otros ordenamientos legales aplicables.
-
-Lo anterior sin perjuicio de lo establecido para efectos migratorios por la Ley General de Población;
-
-V. Oferta Turística.- El conjunto de bienes y servicios turísticos, así como los atractivos culturales, históricos, naturales y recreativos que se ofrecen al turista dentro del Estado que generan diversos tipos de turismo, cuyas definiciones quedaran establecidas en las disposiciones reglamentarias;
-
-VI. Demanda Turística.- El conjunto de personas que al desplazarse fuera de su lugar de residencia habitual hacen uso de los bienes y servicios turísticos, así como de los atractivos culturales, históricos, naturales y recreativos dentro del Estado;
-
-> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-VII. Actividades Turísticas.- Las acciones provenientes de personas, cuya intención sea invertir, desarrollar o comercializar en destinos y atractivos turísticos, producir, industrializar, comercializar bienes u ofrecer servicios vinculados y relacionados con los fines mismos del turismo;
-
-> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-VIII. Servicios Turísticos.- Aquellos que van dirigidos a atender las necesidades de los turistas, generándose de éstos beneficios económicos y sociales que contribuyen al desarrollo del Estado;
-
-> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-IX. Prestadores de Servicios Turísticos.- Las personas que ofrezcan, proporcionen, o contraten con el turista algún servicio relacionado con las actividades turísticas de éste;
-
-> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-X. Turismo Sustentable.- El desarrollo de la actividad turística basado en un equilibrio entre el aprovechamiento y la preservación del patrimonio natural y cultural, su viabilidad económica y la equidad social para las comunidades con vocación turística; y
-
-> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-XI. Turismo para todos.- El desarrollo de la actividad turística que tiene como objetivo el desarrollo de la persona, así como el desarrollo regional equitativo, incluyente, accesible, formativo, sustentable y que sea rentable.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
 ### CAPITULO CUARTO. Del Consejo Consultivo Estatal de Turismo Sustentable
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+###### Artículo 4.
+
+4.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
 ###### Artículo 4.
 
-4.- Son autoridades responsables para la aplicación del presente libro:
-
-I. El Titular del Ejecutivo del Estado de México;
-
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
-
-II. La Secretaría de Cultura y Turismo; y
-
-III. Los Municipios a través de los Ayuntamientos.
-
-> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+5.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
 ###### Artículo 4.
 
-5.- Son atribuciones del Titular del Ejecutivo Estatal:
-
-I. Aprobar el Programa Estatal de Turismo Sustentable;
-
-II. Aprobar las zonas de interés turístico sustentable;
-
-III. Presidir el Consejo Consultivo Estatal; y
-
-IV. Las demás que le confieran las disposiciones legales aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+5 Bis.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
 ###### Artículo 4.
 
-5 Bis.- Son atribuciones de la Secretaría de Cultura y Turismo:
+6.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
-> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-I. Planear, programar, ordenar, clasificar, promover, fomentar y regular la actividad turística sustentable y el desarrollo artesanal en el Estado;
-
-> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-II. Elaborar y proponer al Titular del Ejecutivo Estatal para su aprobación el Programa Estatal de Turismo Sustentable, en congruencia con el Plan Estatal de Desarrollo; y conforme a lo que se establezca en las disposiciones legales aplicables;
-
-> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-III. Establecer los lineamientos generales para la elaboración de los Programas Municipales de Turismo;
-
-> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-IV. Proponer al Titular del Ejecutivo Estatal las zonas de interés turístico sustentable para su aprobación;
-
-> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-V. Instrumentar las medidas conducentes y los medios necesarios para la correcta vinculación y colaboración entre los diferentes órdenes de gobierno en apoyo a los programas de desarrollo turístico;
-
-> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-VI. Suscribir convenios para fomentar y desarrollar el turismo sustentable en el Estado;
-
-> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-VII. Fomentar, en coordinación con los Ayuntamientos de los municipios, acciones y/o programas para el desarrollo de un turismo para todos; y
-
-> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-VIII. Las demás que en materia de turismo señalen otros ordenamientos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-###### Artículo 4.
-
-6.- Los Municipios, a través de los Ayuntamientos, tendrán las siguientes atribuciones:
-
-> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-I. Elaborar conforme a los lineamientos establecidos, el Programa Municipal de Turismo y hacerlo del conocimiento de la Secretaría;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 6 DE AGOSTO DE 2009)</small>
-
-II. Promover un turismo de calidad, acorde con las expectivas (sic) y demandas de los turistas;
-
-> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-III. Otorgar incentivos para quienes desarrollen proyectos turísticos con enfoque del desarrollo sustentable;
-
-> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-IV. Orientar a los prestadores de servicios e inversionistas en materia turística en la gestión de licencias y permisos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 6 DE AGOSTO DE 2009)</small>
-
-V. Proteger los derechos de los turistas y establecer medidas adicionales de seguridad y auxilio;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 6 DE AGOSTO DE 2009)</small>
-
-VI. Promover la capacitación de los trabajadores e impulsar el empleo de mano de obra local en las instalaciones turísticas existentes;
-
-> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-VII. Elaborar los Reglamentos de Imagen Urbana y observar las disposiciones de los Decretos de Patrimonio Histórico Inmobiliario correspondientes, conservando y preservando el entorno urbano del municipio;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 6 DE AGOSTO DE 2009)</small>
-
-VIII. Coadyuvar con las autoridades estatales en la observancia y cumplimiento de las normas oficiales turísticas aplicables, así como en el cumplimiento de las obligaciones fiscales por parte de los prestadores de servicios turísticos;
-
-> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-IX. Integrar el Consejo Consultivo de Turismo Municipal, que tendrá por objeto, proponer y formular estrategias y acciones a la Administración Pública Municipal, con el fin de lograr un desarrollo integral de la actividad turística en el Municipio;
-
-Será integrado por el Presidente Municipal, y los funcionarios que éste determine, conforme a lo que establezcan las disposiciones reglamentarias;
-
-> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-X. Mantener actualizado un registro municipal de prestadores de servicios turísticos, e informar a la Secretaría a más tardar en los meses de marzo y octubre, para la actualización del Registro Estatal de Prestadores de Servicios Turísticos;
-
-> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-XI. Informar a la Secretaría las inversiones que en materia turística se generen en sus municipios; y
-
-> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-XII. Las demás que este Libro y otros ordenamientos jurídicos señalen.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE ENERO DE 2021)</small>
 
 ### CAPITULO UNICO. De las Zonas de Interes Turístico
 
-> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
 ###### Artículo 4.
 
-7.- El Consejo Consultivo Estatal de Turismo Sustentable es el órgano colegiado, interinstitucional y plural de consulta, asesoría y opinión técnica de la Secretaría y cuyas atribuciones quedarán establecidas en el Reglamento respectivo el cual será realizado por la Secretaria.
+7.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
 ## TITULO SEGUNDO. Planeación del Turismo Sustentable
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
 ### CAPITULO PRIMERO. Objeto del Fomento del Turismo
 
-> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+###### Artículo 4.
+
+8.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
 ###### Artículo 4.
 
-8.- Podrán ser consideradas como Zonas de Interés Turístico, aquellas que a juicio de la Secretaría constituyan un importante destino turístico por sus características histórico-culturales o naturales.
+9.- (DEROGADO, G.G. 10 DE NOVIEMBRE DE 2010) (REPUBLICADA SU DEROGACIÓN, G.G. 6 DE ENERO DE 2021)
 
-En todos los casos, la selección de las Zonas de Interés Turístico deberán considerar los criterios de sustentabilidad que se establecen en el Artículo 4.3 fracción X del presente Libro.
-
-###### Artículo 4.
-
-9.- (DEROGADO, G.G. 10 DE NOVIEMBRE DE 2010)
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
 ## TITULO TERCERO. Del Fomento del Turismo
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
 ### CAPITULO SEGUNDO. Del Desarrollo Turístico
 
-> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+###### Artículo 4.
+
+10.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
 ###### Artículo 4.
 
-10.- El fomento del turismo tiene por objeto la realización de obras, acciones y programas encaminados a promover e incentivar inversiones, o cualquier otro tipo de apoyos destinados a estimular la demanda turística, favoreciendo el turismo de la entidad.
+11.- (DEROGADO, G.G. 10 DE NOVIEMBRE DE 2010) (REPUBLICADA SU DEROGACIÓN, G.G. 6 DE ENERO DE 2021)
 
-###### Artículo 4.
-
-11.- (DEROGADO, G.G. 10 DE NOVIEMBRE DE 2010)
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
 ### CAPITULO TERCERO. De la Inversión Turística
 
-> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+###### Artículo 4.
+
+12.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
 ###### Artículo 4.
 
-12.- El desarrollo turístico tiene por objeto la ejecución de planes, programas y proyectos para la creación de nuevos destinos y productos turísticos, y la consolidación de los ya existentes, mediante la ejecución de obras, acciones, profesionalización y capacitación de prestadores de servicios turísticos, bajo un estricto cumplimiento de la normatividad aplicable.
+12 Bis.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
-> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-###### Artículo 4.
-
-12 Bis.- Se consideran actividades de desarrollo turístico, entre otras, las siguientes:
-
-I. Coordinar la ejecución de obras y acciones que favorezcan la consolidación de destinos turísticos;
-
-II. Brindar asesoría y promover el desarrollo de nuevos productos turísticos;
-
-III. Fomentar la profesionalización de los prestadores de servicios turísticos;
-
-IV. Impulsar la formación de recursos humanos en la prestación de servicios turísticos;
-
-V. Brindar asesoría en la operación de la actividad turística para que ésta se desarrolle en un marco de legalidad; y
-
-VI. Coordinar acciones de verificación de cumplimiento de la norma a los prestadores de servicios turísticos.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
 ### CAPITULO CUARTO. De la Promoción Turística
 
-> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+###### Artículo 4.
+
+13.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
 ###### Artículo 4.
 
-13.- La inversión turística tiene por objeto la aplicación de recursos financieros en la creación, renovación, ampliación y mejora de los proyectos turísticos privados.
+13 Bis.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
-La Secretaría, en ejercicio de sus atribuciones, diseñará el o los mecanismos y organismos técnicos necesarios para incentivar la inversión turística pública y privada del Estado.
-
-> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-###### Artículo 4.
-
-13 Bis.- Se consideran actividades de inversión turística, entre otras las siguientes:
-
-I. Proporcionar asesoría técnica en materia de inversión turística para el desarrollo de proyectos;
-
-II. Coordinar y supervisar la elaboración de planes de negocios dirigidos a la inversión turística;
-
-III. Gestionar ante diferentes entidades del sistema financiero recursos para desarrollar proyectos turísticos;
-
-IV. Colaborar conjuntamente con los Ayuntamientos para atraer proyectos de inversión, así como generar la información en materia de inversión turística;
-
-V. Promover la colaboración entre entidades públicas y privadas, en materia de inversión turística; y
-
-VI. Brindar asistencia técnica a inversionistas para generar proyectos turísticos impulsando la coinversión.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
 ### CAPITULO PRIMERO. Del Ordenamiento y Clasificación de los Servicios Turísticos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+###### Artículo 4.
+
+13 Ter.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
 ###### Artículo 4.
 
-13 Ter.- La promoción turística tiene por objeto la difusión de los destinos, atendiendo a sus fortalezas y de acuerdo a las oportunidades del mercado, en coordinación con los Ayuntamientos y empresarios del sector, con el propósito de incrementar el número de turistas, la frecuencia de sus viajes y su permanencia.
-
-> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+13 Quáter.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
 ###### Artículo 4.
 
-13 Quáter.- Se consideran actividades de promoción turística, entre otras, las siguientes:
+13 Quintus.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
-I. Establecer los lineamientos y estrategias de promoción de los destinos turísticos;
-
-II. Difundir permanentemente los destinos turísticos de la entidad en los principales medios publicitarios;
-
-III. Integrar y actualizar una base de datos y un banco de imágenes confiable, que reúna la información técnica de los destinos turísticos;
-
-IV. Desarrollar estudios y proyectos de investigación en materia de promoción turística;
-
-V. Elaborar materiales de promoción y difusión, impresos, multimedia y de cualquier otra naturaleza;
-
-VI. Definir y coordinar la participación en ferias y exposiciones especializadas, nacionales y extranjeras;
-
-VII. Fomentar la participación de los Ayuntamientos y empresarios del sector para llevar a cabo campañas cooperativas de promoción; y
-
-VIII. Proporcionar asesoría en materia de promoción a los Ayuntamientos y empresarios que así lo requieran.
-
-> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-###### Artículo 4.
-
-13 Quintus.- La Secretaría y los Ayuntamientos, en el ejercicio de sus atribuciones en la materia, llevarán a cabo la promoción turística de sus destinos, debiéndola realizar de manera veraz y propositiva.
-
-La Secretaría y los Municipios, en el ejercicio de sus atribuciones, podrán suscribir convenios con entidades públicas y con organismos mixtos para instrumentar campañas de promoción turística; también podrán hacerlo con prestadores de servicios turísticos para incrementar la afluencia turística al Estado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
 ## TITULO CUARTO. Clasificación, Ordenamiento y Registro de los Servicios Turísticos
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE ENERO DE 2021)</small>
 
 ### CAPITULO SEGUNDO. Del Registro Estatal de Prestadores de Servicios Turísticos
 
-> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
 ###### Artículo 4.
 
-14.- La Secretaría, en atención a estándares nacionales e internacionales, promoverá la clasificación de los servicios turísticos que se ofrecen en el Estado, para lo cual podrá investigar y desarrollar los sistemas propios o celebrar convenios con otras entidades gubernamentales así como con profesionales independientes especializados en la materia. En todos los casos, el sistema de clasificación que sea elegido deberá considerar los criterios de sustentabilidad enunciados en el Artículo 4.3 del presente Libro.
+14.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
-> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-Los objetivos de la clasificación de los servicios turísticos son:
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-I. Proveer a los turistas de información veraz sobre los servicios turísticos ofrecidos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 6 DE AGOSTO DE 2009)</small>
-
-II. Contar con una herramienta de protección al consumidor en términos de los alcances de las facilidades y servicios turísticos ofertados;
-
-> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-III. Buscar compatibilidad con los estándares de clasificación internacional; y
-
-> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-IV. Fomentar la constante mejora de la calidad de la prestación de los servicios turísticos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE ENERO DE 2021)</small>
 
 ### CAPITULO PRIMERO. De las Normas de Turismo
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
-
 ###### Artículo 4.
 
-15.- El objeto del Registro Estatal de Prestadores de Servicios Turísticos es el de contar con una base de datos clasificada sobre el tipo, ubicación, especialidad, giro y demás características de los mismos en la entidad.
+15.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
-El sistema de clasificación de los servicios turísticos que establezca la Secretaría será de carácter indicativo para el Registro, independientemente de cualquier otra clasificación a la que puedan recurrir los prestadores de servicios turísticos.
-
-Para tal efecto, la Secretaría determinará los servicios turísticos que estarán sujetos a esta normatividad, así como los requisitos, condiciones y documentación necesarios.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
 ## TITULO QUINTO. Normatividad y Certificación de la Actividad Turística
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE ENERO DE 2021)</small>
 
 ### CAPITULO SEGUNDO. De la Certificación de la Actividad Turística
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
-
 ###### Artículo 4.
 
-16.- La Secretaría podrá expedir las normas estatales relacionadas con los destinos turísticos y la prestación de los servicios turísticos en el Estado, siempre que el contenido de las mismas no se contraponga a las Normas Oficiales Mexicanas vigentes o sean competencia de otra dependencia de la administración pública.
+16.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
-La Secretaría podrá participar también en los comités consultivos nacionales de normalización en los que se elaboren normas que puedan afectar la materia turística.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE ENERO DE 2021)</small>
 
 ### CAPITULO PRIMERO. De los Derechos y Obligaciones de los Prestadores de Servicios Turísticos
 
-> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
 ###### Artículo 4.
 
-17.- La Secretaría, en el ámbito de su competencia, promoverá los procedimientos de certificación de los prestadores de servicios y destinos turísticos del Estado.
+17.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
-Los beneficios de una política de certificación son:
-
-I. Promover una cultura de calidad turística al examinar, evaluar y reconocer el esfuerzo de los prestadores de servicios y administradores de destinos turísticos;
-
-II. Estimular a las empresas turísticas para ofertar servicios con un elemento diferenciador y altamente competitivo en el mercado turístico;
-
-III. Beneficiar a las empresas y prestadores de servicios turísticos con apoyos, créditos, promociones, participación en eventos específicos, información privilegiada.
-
-La Secretaría será la responsable de desarrollar y reglamentar el procedimiento de certificación turística, pudiendo celebrar convenios de colaboración y asesoría con organizaciones, instituciones, entidades de la administración pública.
-
-En cualquier caso, la Secretaría tomará siempre en consideración todos los parámetros establecidos en el Artículo 4.1 de turismo sustentable.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
 ## TITULO SEXTO. De los Derechos y Obligaciones de los Prestadores de Servicios Turísticos y de los Turistas
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
 ### CAPITULO SEGUNDO. De los Derechos y Obligaciones de los Turistas
 
-> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+###### Artículo 4.
+
+18.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
 ###### Artículo 4.
 
-18.- Los prestadores de servicios turísticos legalmente registrados, tendrán los siguientes derechos:
-
-I. Participar en el Consejo Consultivo Local, previa convocatoria de la Secretaría;
-
-II. Aparecer en el Registro Estatal de Turismo;
-
-III. Participar en los programas del sector turístico, que promueva o lleve a cabo la Secretaría, de acuerdo a las reglas de operación de los mismos;
-
-IV. Solicitar al personal encargado de las visitas de inspección y demás procedimientos de verificación, se identifiquen y presenten la documentación que autoriza su actuación; y
-
-V. Los demás que establezca el reglamento.
-
-> <small>(REFORMADO Y REUBICADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+19.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
 ###### Artículo 4.
 
-19.- Son obligaciones de los prestadores de servicios turísticos:
+20.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
-I. Anunciar visiblemente en los lugares de acceso al establecimiento la dirección, teléfono o correo electrónico, tanto del responsable del establecimiento, como de la autoridad competente, para la presentación de quejas, en su caso;
-
-II. Mantener de manera permanente en un lugar visible, los derechos y obligaciones de los turistas, así como lo establecido en las fracciones X y XI del presente artículo;
-
-III. Informar oportunamente al turista los precios, tarifas, condiciones, características y costo total de los servicios y productos que éste requiera, y en su caso expedir el comprobante respectivo;
-
-IV. Participar en el manejo responsable de los recursos naturales, arqueológicos, históricos y culturales, en términos de las disposiciones jurídicas aplicables;
-
-V. Inscribirse, a través de los Ayuntamientos, en el Registro Estatal de Turismo y actualizar los datos oportunamente;
-
-VI. Cumplir con los servicios, precios, tarifas y promociones, en los términos anunciados, ofrecidos o pactados;
-
-VII. Profesionalizar a sus trabajadores y empleados, en los términos de las leyes respectivas, en coordinación con la Secretaría;
-
-VIII. Disponer de lo necesario para que los inmuebles, edificaciones y servicios turísticos incluyan las especificaciones que permitan la accesibilidad a toda persona de cualquier condición;
-
-IX. Prestar sus servicios en español como primera lengua, lo que no impide que se puedan prestar los servicios en otros idiomas o lenguas;
-
-X. En la prestación y uso de los servicios turísticos no habrá discriminación de ninguna naturaleza en contra de persona alguna, en los términos de las disposiciones jurídicas aplicables;
-
-XI. En caso de que el prestador del servicio turístico incumpla con uno de los servicios ofrecidos o pactados, o con la totalidad de los mismos, tendrá la obligación de rembolsar, bonificar o compensar la suma correspondiente por el pago del servicio incumplido, o bien podrá prestar otro servicio de las mismas características o equivalencia al que hubiere incumplido, a elección del turista;
-
-XII. Brindar en lo posible asistencia al turista en caso de necesidad; y
-
-XIII. Las demás que establezca la legislación aplicable en la materia.
-
-> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
-
-###### Artículo 4.
-
-20.- Los objetivos de la política de certificación son, entre otros:
-
-I. Promover una cultura de calidad turística al examinar, evaluar y reconocer el esfuerzo de los prestadores de servicios y administradores de destinos turísticos;
-
-II. Estimular al sector para ofertar los servicios turísticos con un elemento diferenciador y altamente competitivo en el mercado turístico; y
-
-III. Beneficiar a las empresas y prestadores de servicios turísticos con apoyos, promociones y/o participación en eventos específicos.
-
-La Secretaría será la responsable de desarrollar y reglamentar el procedimiento de certificación turística, pudiendo celebrar convenios de colaboración y asesoría con organizaciones, instituciones y/o entidades de la administración pública.
-
-En cualquier caso, la Secretaría tomará siempre en consideración todos los parámetros establecidos en el artículo 4.3, relacionados con el turismo sustentable, quedando los procedimientos de certificación antes mencionados, sujetos a las disposiciones reglamentarias aplicables en la materia.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2021)</small>
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
@@ -3879,37 +3537,11 @@ En cualquier caso, la Secretaría tomará siempre en consideración todos los pa
 
 ###### Artículo 4.
 
-21.- Los turistas tienen los siguientes derechos:
-
-I. Recibir información útil, precisa, veraz y detallada, con carácter previo, sobre todas y cada una de las condiciones de prestación de los servicios turísticos;
-
-II. Obtener los bienes y servicios turísticos en las condiciones contratadas;
-
-III. Obtener los documentos que acrediten los términos de su contratación, y en cualquier caso las correspondientes facturas o comprobantes fiscales legalmente emitidos;
-
-IV. Recibir los servicios sin ser discriminado;
-
-V. No se considerarán discriminatorias, las tarifas y precios para el uso, consumo o disfrute de los bienes o servicios ofertados, ni los requisitos de edad o las restricciones para el uso de instalaciones turísticas, cuando sean de carácter general y guarden relación directa con la especialización que el prestador de servicios turísticos decida otorgar, y siempre que las mismas no sean violatorias de otras leyes. (DR)IJ
-
-VI. Contar con las condiciones de higiene y seguridad de su persona y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente; y
-
-VII. Los demás que contemplen otros ordenamientos.
-
-> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+21.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
 ###### Artículo 4.
 
-22.- Son obligaciones del turista:
-
-I. Observar las normas usuales de convivencia en los establecimientos turísticos;
-
-II. Respetar las instalaciones, el entorno natural y patrimonio cultural de los sitios en los que realice una actividad turística;
-
-III. Acatar las prescripciones particulares de establecimientos y empresas cuyos servicios turísticos disfruten o contraten, y particularmente las normas y reglamentos mercantiles de uso o de régimen interior;
-
-IV. Pagar el precio de los servicios utilizados en el momento de la presentación de la factura o del documento que ampare el pago en el plazo pactado; y
-
-V. Las demás que ordenen los otros ordenamientos.
+22.- (DEROGADO, G.G. 6 DE ENERO DE 2021)
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -18554,3 +18186,35 @@ e) Evaluación Técnica de Factibilidad de Transformación Forestal se entender�
 f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
 
 g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
+
+G.G. 6 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 231.- POR EL QUE SE REFORMAN LA FRACCIÓN XI DEL ARTÍCULO 2.68, Y EL INCISO F) DE LA FRACCIÓN VII DEL ARTÍCULO 2.69 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; SE REFORMAN EL ARTÍCULO 1; EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II, III, Y IV DEL ARTÍCULO 2; LAS FRACCIONES I, II Y IV DEL ARTÍCULO 3; LAS FRACCIONES V, VI, VII, VIII, XIII Y XIV DEL ARTÍCULO 5; EL PRIMER PÁRRAFO DEL ARTÍCULO 9; EL PRIMER PÁRRAFO DEL ARTÍCULO 12; LA FRACCIÓN I DEL ARTÍCULO 13; Y LOS ARTÍCULO (SIC) 28, 9 Y 30; SE ADICIONAN EL ARTÍCULO 4 BIS; LAS FRACCIONES XXI, XXII Y XXIII AL ARTÍCULO 5; Y SE DEROGAN EL ARTÍCULO 14, Y LA FRACCIÓN XX DEL ARTÍCULO 5, DE LA LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Ejecutivo del Estado y los Ayuntamientos deberán realizar las modificaciones reglamentarias correspondientes en un plazo que no deberá exceder de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+G.G. 6 DE ENERO DE 2021.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NÚMERO 232 POR EL QUE SE EXPIDE LA LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. A partir de la entrada en vigor de la presente Ley, se derogan todas las disposiciones de competencia local que le contravengan.
+
+TERCERO. El Reglamento de la presente Ley deberá emitirse en un plazo no mayor a 180 días hábiles a partir de su entrada en vigor.
+
+CUARTO. El Consejo Estatal y los Consejos Municipales deberán instalarse en un plazo no mayor a 30 días hábiles a partir de la vigencia de la presente Ley.
+
+QUINTO. Se otorga un plazo de 60 días hábiles, a partir de la vigencia de la presente Ley, para crear el Programa Municipal de Turismo Sostenible y Desarrollo Artesanal, así como el Registro Municipal de Turismo Sostenible, el Registro Municipal de Artesanas y Artesanos y el Catálogo Municipal.
+
+Una vez creados los Registros y Catálogos Municipales, la información será enviada a la Secretaría y al IIFAEM para la creación del Registro Estatal de Turismo Sostenible, el Registro Estatal de Artesanas y Artesanos y el Catálogo Mexiquense.
+
+SEXTO. Se otorga un plazo de 120 días hábiles, a partir de la vigencia de la presente Ley, para la creación del Observatorio, conforme a lo dispuesto en el Capítulo III del Título Tercero.
+
+SÉPTIMO. Cuando en otros ordenamientos legales, administrativos, documentación o papelería se hagan referencias al Fideicomiso para la Promoción Turística se entenderán hechas al Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal, el cual cambia de denominación y se constituirá con los recursos del Fideicomiso vigente.
+
+Los convenios, contratos y acuerdos suscritos con antelación con cargo u obligación por parte del Fideicomiso para la Promoción Turística seguirán teniendo vigencia y constituirán parte de los derechos y obligaciones del Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal.
