@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2021-01-05"
+last_updated: "2021-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2021.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -809,11 +809,13 @@ Para efectos del artículo anterior, la Secretaría impulsará la creación de i
 
 #### Sección Segunda. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 35.
 
-El IIFAEM es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Cultura y Turismo, que tiene por objeto el rescate, preservación, comercialización, fortalecimiento y fomento de la actividad artesanal y las artes populares en la Entidad.
+El IIFAEM es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Cultura y Turismo, que tiene por objeto la investigación, el rescate, preservación, comercialización, fortalecimiento y fomento de la actividad artesanal y las artes populares en la Entidad.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.G. 6 DE ENERO DE 2021)</small>
 
 El IIFAEM, para el cumplimiento de su objeto, tiene las siguientes atribuciones:
 
@@ -827,7 +829,9 @@ IV. Fomentar la organización de los artesanos;
 
 V. Brindar capacitación y asesoría a los artesanos;
 
-VI. Promover y comercializar por cuenta propia y de terceros, los productos artesanales elaborados en la entidad, en los mercados regionales, nacional e internacional;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
+
+VI. Promover la comercialización directa de las artesanías de la Entidad, en los mercados regionales, nacional e internacional, evitando la intervención de intermediarios;
 
 VII. Gestionar financiamientos con tasas preferenciales para la actividad artesanal;
 
@@ -841,15 +845,15 @@ X. Determinar la regionalización del territorio del Estado para fines de desarr
 
 XI. Crear las bases necesarias para la implementación de una marca registrada propiedad del Estado de México, que cumpla con requisitos específicos de identidad mexiquense, integralidad, calidad, rentabilidad, respeto al ambiente, rescate y renovación de la tradición y raíces;
 
-> <small>(REFORMADA, G.G. 17 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
 
-XII. Brindar asesoría sobre el proceso de registro de marcas colectivas de las regiones del Estado y/o grupos de artesanos mexiquenses ante las instancias competentes, con el objeto de proteger sus artesanías como símbolo de su identidad y tradición;
+XII. Brindar asesoría sobre el proceso de registro de marcas colectivas de las regiones del Estado y/o grupos de artesanos mexiquenses y de propiedad intelectual ante las instancias competentes, con el objeto de proteger sus artesanías como símbolo de su identidad y tradición;
 
 XIII. (DEROGADA, G.G. 17 DE FEBRERO DE 2016)
 
-> <small>(REFORMADA, G.G. 17 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
 
-XIV. Integrar y administrar el Registro Mexiquense de Artesanos, que incluya artesanos individuales y talleres.
+XIV. Integrar y administrar el Registro Estatal de Artesanas y Artesanos, que contendrá los Registro Municipales de Artesanas y Artesanos de los 125 municipios.
 
 XV. Crear los programas específicos de formación técnica y profesional de recursos humanos especializados en las diferentes técnicas artesanales; estudios de mercado; administración y operación de unidades artesanales; mercadotecnia; historia; y en general, para la conservación, promoción e innovación en técnicas, diseños y productos artesanales; y
 
@@ -1910,3 +1914,25 @@ e) Evaluación Técnica de Factibilidad de Transformación Forestal se entender�
 f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
 
 g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
+
+G.G. 6 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 232.- POR EL QUE SE EXPIDE LA LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. A partir de la entrada en vigor de la presente Ley, se derogan todas las disposiciones de competencia local que le contravengan.
+
+TERCERO. El Reglamento de la presente Ley deberá emitirse en un plazo no mayor a 180 días hábiles a partir de su entrada en vigor.
+
+CUARTO. El Consejo Estatal y los Consejos Municipales deberán instalarse en un plazo no mayor a 30 días hábiles a partir de la vigencia de la presente Ley.
+
+QUINTO. Se otorga un plazo de 60 días hábiles, a partir de la vigencia de la presente Ley, para crear el Programa Municipal de Turismo Sostenible y Desarrollo Artesanal, así como el Registro Municipal de Turismo Sostenible, el Registro Municipal de Artesanas y Artesanos y el Catálogo Municipal.
+
+Una vez creados los Registros y Catálogos Municipales, la información será enviada a la Secretaría y al IIFAEM para la creación del Registro Estatal de Turismo Sostenible, el Registro Estatal de Artesanas y Artesanos y el Catálogo Mexiquense.
+
+SEXTO. Se otorga un plazo de 120 días hábiles, a partir de la vigencia de la presente Ley, para la creación del Observatorio, conforme a lo dispuesto en el Capítulo III del Título Tercero.
+
+SÉPTIMO. Cuando en otros ordenamientos legales, administrativos, documentación o papelería se hagan referencias al Fideicomiso para la Promoción Turística se entenderán hechas al Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal, el cual cambia de denominación y se constituirá con los recursos del Fideicomiso vigente.
+
+Los convenios, contratos y acuerdos suscritos con antelación con cargo u obligación por parte del Fideicomiso para la Promoción Turística seguirán teniendo vigencia y constituirán parte de los derechos y obligaciones del Fideicomiso para la Promoción del Turismo Sostenible y Desarrollo Artesanal.
