@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-prevencion-del-tabaquismo-y-de-proteccion-ante-la-89342"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2020-09-29"
+last_updated: "2021-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2021.
 
 Ley publicada en la Sección Quinta de la Gaceta de Gobierno del Estado de México, el viernes 31 de agosto de 2012.
 
@@ -41,21 +41,33 @@ LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO D
 
 ### CAPÍTULO PRIMERO. NATURALEZA Y OBJETO
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de utilidad pública, orden público, interés social y observancia general en el Estado de México y tiene por objeto proteger la salud de la población contra la exposición al humo del tabaco, realizar acciones tendientes a la prevención y tratamiento del tabaquismo y de los padecimientos originados por el mismo.
+Las disposiciones de esta Ley son de utilidad pública, orden público, interés social y observancia general en el Estado de México y tiene por objeto proteger la salud de la población contra la exposición al humo de tabaco, y emisiones de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, así como realizar acciones tendientes a la prevención y tratamiento del tabaquismo y de los padecimientos originados por los mismos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 2.
 
-La protección contra la exposición al humo de tabaco, tiene las finalidades siguientes:
+La protección contra la exposición al humo de tabaco, y emisiones de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, tiene las finalidades siguientes:
 
-l. Proteger a la población en general contra la exposición al humo de tabaco en cualquier área física cerrada con acceso al público, lugares interiores de trabajo, y vehículos de transporte público y en otros lugares públicos;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
 
-II. Proteger a las personas que en razón del desempeño de su actividad laboral estén expuestas al humo de tabaco;
+I. Proteger a la población en general contra la exposición al humo de tabaco, y las emisiones de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina en cualquier área física cerrada con acceso al público, lugares interiores de trabajo, vehículos de transporte público y en otros lugares públicos;
 
-III. Reducir la probabilidad de que la población en general se inicie en el tabaquismo;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
 
-IV. Promover el desarrollo de acciones tendientes a reducir el consumo de tabaco y la exposición al humo del mismo en la población; así como la morbilidad y mortalidad ocasionadas; y
+II. Proteger a las personas que en razón del desempeño de su actividad laboral estén expuestas al humo de tabaco y las emisiones delos (sic) Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina;
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
+
+III. Reducir la probabilidad de que la población en general se inicie en el tabaquismo, poniendo especial énfasis en las niñas, niños y adolescentes;
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
+
+IV. Promover el desarrollo de acciones tendientes a reducir el consumo de tabaco, y los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina y la exposición al humo de los mismo en la población; así como la morbilidad y mortalidad ocasionadas; y
 
 V. Establecer mecanismos de coordinación para la participación y denuncia ciudadana.
 
@@ -63,19 +75,37 @@ V. Establecer mecanismos de coordinación para la participación y denuncia ciud
 
 Son sujetos de esta Ley:
 
-I. Las personas que consumen productos del tabaco;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
 
-II. Las personas expuestas al humo de tabaco;
+I. Las personas que consumen productos del tabaco, los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina;
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
+
+II. Las personas expuestas al humo de tabaco, y emisiones de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina;
 
 III. Los propietarios, administradores o encargados de los espacios 100% libres de humo de tabaco; y
 
-IV. Las personas que consuman cualquier producto del tabaco en los espacios 100% libres de humo de tabaco.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
+
+IV. Las personas que consuman cualquier producto del tabaco, los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, en los espacios 100% libres de humo de tabaco.
 
 ###### Artículo 4.
 
 La aplicación de esta Ley, corresponde al Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Salud; al Instituto de Salud del Estado de México; al Instituto Mexiquense contra las Adicciones y a los Ayuntamientos, en sus respectivos ámbitos de competencia; y a las demás autoridades competentes.
 
 Las instituciones policiales aplicarán también en el ámbito de su competencia las disposiciones de esta Ley.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2021)</small>
+
+Artículo 4 bis.- En la vigilancia para el cumplimiento de esta Ley, coadyuvarán:
+
+I. Los usuarios, propietarios, poseedores, responsables y empleados de lugares públicos cerrados, los lugares de trabajo interiores, medios de transporte público y otros lugares públicos exteriores, estos últimos de conformidad con el artículo 17 de la presente Ley;
+
+II. Las autoridades educativas en las escuelas e instituciones escolares públicas o privadas;
+
+III. Las organizaciones de la sociedad civil que estén interesadas en la protección de los espacios 100% libres de humo de tabaco;
+
+IV. Los titulares de las unidades administrativas de las dependencias y organismos auxiliares del Gobierno del Estado de México, los Poderes Legislativo y Judicial, y los organismos constitucionales autónomos, en coordinación con el área administrativa correspondiente, y (sic)
 
 ###### Artículo 5.
 
@@ -89,13 +119,21 @@ III. Cigarro o Puro: Rollo de hojas de tabaco, que enciende por un extremo y se 
 
 IV. Denuncia Ciudadana: A la notificación hecha a la autoridad competente por cualquier persona, respecto de los hechos de incumplimiento de las disposiciones contenidas en la Ley, el Reglamento y demás disposiciones aplicables; podrá ser directa, telefónica, electrónica o fotográfica;
 
-V. Emisión: Sustancia producida y liberada cuando un producto del tabaco esté encendido o calentado, comprende nicotina, alquitrán, monóxido de carbono, así como la composición química que forman parte del humo de tabaco;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
 
-VI. Espacio al aire libre: Es aquel que no tiene techo ni está limitado entre más de una pared o muro, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal. Para efectos de esta definición el concepto de techo no incluye sombrillas, palapas, tejabanes, techos abatibles o desmontables y lonas; las que deberán observar las características descritas en las disposiciones reglamentarias derivadas de la presente Ley;
+V. Emisión: Sustancia producida y liberada cuando un producto de tabaco esté encendido o calentado, comprende nicotina, alquitrán, monóxido de carbono, así como la composición química que forman parte del humo de tabaco. En el caso de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, se considera como emisión a todo vapor que se produce cuando se usan;
 
-VII. Espacio 100% libre de humo de tabaco: Área física cerrada con acceso al público o todo lugar de trabajo interior o de transporte público u otros lugares públicos, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
 
-VIII. Fumar: Al acto de inhalar y exhalar humo de un producto de tabaco e incluye el hecho de estar en posesión o control de un producto de tabaco en combustión que genere humo de tabaco;
+VI. Espacio al aire libre: Es aquel que no tiene techo ni está limitado entre más de una pared o muro, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal. Para efectos de esta definición el concepto de techo no incluye sombrillas, las que deberán observar las características descritas en las disposiciones reglamentarias derivadas de la presente Ley;
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
+
+VII. Espacio 100% libre de humo de tabaco: Área física cerrada con acceso al público o todo lugar de trabajo o de transporte público u otros lugares públicos, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco o de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina;
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
+
+VIII. Fumar: Al acto de inhalar humo de un producto de tabaco e incluye el hecho de estar en posesión o control de un producto de tabaco encendido o de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina;
 
 IX. Humo de Tabaco: Mezcla de gases producida por la combustión de un producto del tabaco;
 
@@ -105,9 +143,13 @@ XI. Instituto: Instituto de Salud del Estado de México;
 
 XII. Ley: Ley de Prevención del Tabaquismo y de Protección ante la Exposición al Humo de Tabaco en el Estado de México;
 
-XIII. Lugar de trabajo interior: Toda zona fija o móvil, que cuente por lo menos con un techo y dos paredes, utilizado por las personas durante su empleo o trabajo permanente o eventual, remunerado o voluntario. Incluye no sólo el sitio donde se realiza el trabajo, sino también todos los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de sus funciones, incluyendo aquellos contratados para la realización de eventos;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
 
-XIV. Personal laboralmente expuesto: Aquel que en el ejercicio y con motivo de su ocupación está expuesto al humo de tabaco;
+XIII. Lugar de trabajo interior: Todo aquel espacio utilizado por las personas durante su empleo o trabajo, ya sea remunerado o voluntario, temporal o permanente. Incluye no sólo el sitio donde se realiza el trabajo, sino también todos los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de su empleo, entre ellos, con carácter enunciativo pero no limitativo, pasillos, ascensores, cubos de escalera, vestíbulos, estacionamientos, instalaciones conjuntas, baños, lavabos, salones, comedores, cafeterías y edificaciones anexas tales como cobertizos, así como los vehículos que se utilizan para la transportación;
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
+
+XIV. Personal laboralmente expuesto: Aquella o aquel que en el ejercicio y con motivo de su ocupación está expuesto al humo de tabaco, y de las emisiones de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina;
 
 XV. Promoción de la Salud: Acciones tendientes a desarrollar actitudes y conductas que favorezcan estilos de vida más saludables en la familia, el trabajo y la comunidad;
 
@@ -119,7 +161,19 @@ XVIII. Transporte público: Vehículo individual o colectivo utilizado para tran
 
 XIX. Verificador: Servidor Público facultado por la autoridad competente para realizar funciones de vigilancia y actos tendientes a lograr el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables; y
 
-XX. Zonas confinadas exclusivas para fumadores: Área aislada que dispone de mecanismos que evitan el traslado de partículas hacia los espacios 100% libre de humo de tabaco y que no es paso obligado para los no fumadores.
+XX. (DEROGADA, G.G. 6 DE ENERO DE 2021)
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2021)</small>
+
+XXI. Sistemas Electrónicos de Administración de Nicotina (SEAN): Son Dispositivos que mediante calentamiento del líquido liberan un vapor o aerosol que contiene nicotina, en cualquier cantidad, incluso mezclando con otras sustancias;
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2021)</small>
+
+XXII. Sistemas Similares Sin Nicotina (SSSN): Son dispositivos con función similar a los dispositivos SEAN, sin embargo, los vapores o aerosoles generados no contienen nicotina, y
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2021)</small>
+
+XXIII. Sistemas Alternativos de Consumo de Nicotina (SACN): Son dispositivos que mediante calentamiento de cartuchos o unidades desmontables con tabaco (laminado, granulado, picado y otras presentaciones) generan un vapor o aerosol que contiene nicotina.
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES
 
@@ -167,11 +221,13 @@ III. Las demás que establezcan otros ordenamientos jurídicos.
 
 ### CAPÍTULO TERCERO. DE LAS MEDIDAS PREVENTIVAS DEL CONSUMO DE TABACO Y DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 9.
 
-La Secretaría, se coordinará con las autoridades estatales y municipales para adoptar medidas preventivas del consumo de tabaco y para el establecimiento de espacios 100% libres de humo de tabaco, para lo cual se adoptarán las siguientes medidas:
+La Secretaría, se coordinará con las autoridades estatales y municipales para adoptar medidas preventivas del consumo de tabaco, la utilización de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, y para el establecimiento de espacios 100% libres de humo de tabaco, para lo cual se adoptarán las siguientes medidas:
 
-l. Promover con las instituciones y autoridades educativas, campañas de información sobre los efectos del consumo de tabaco y el tabaquismo;
+I. Promover con las instituciones y autoridades educativas, campañas de información sobre los efectos del consumo de tabaco y el tabaquismo;
 
 II. Ejecutar programas de educación para la salud, primordialmente para el conocimiento integral de los efectos del tabaquismo;
 
@@ -213,9 +269,11 @@ III. El apoyo a los fumadores, cuando lo soliciten, para abandonar el consumo de
 
 ### CAPÍTULO CUARTO. DE LAS RESTRICCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 12.
 
-Queda prohibido a cualquier persona fumar o tener encendido cualquier producto del tabaco en los espacios 100% libres de humo de tabaco, de acuerdo a lo establecido en la fracción VII del artículo 5 de esta Ley.
+Queda prohibido a cualquier persona fumar o tener encendido cualquier producto del tabaco y de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, en los espacios 100% libres de humo de tabaco, de acuerdo a lo establecido en la fracción VII del artículo 5 de esta Ley.
 
 Los propietarios, administradores, poseedores, encargados o responsables, deberán colocar en un lugar visible, letreros que indiquen la leyenda "espacio 100% libre de humo de tabaco", debiéndose incluir un número telefónico y dirección electrónica para denunciar el incumplimiento de lo establecido en la presente Ley, de conformidad con lo que establezcan las disposiciones generales aplicables.
 
@@ -223,7 +281,9 @@ Los propietarios, administradores, poseedores, encargados o responsables, deber�
 
 Se considerarán como espacios 100 % libres de humo de tabaco los siguientes:
 
-l. Todo lugar de trabajo interior;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
+
+I. Todo lugar de trabajo;
 
 II. Todo espacio cerrado de acceso al público, ya sean de carácter público o privado;
 
@@ -247,9 +307,7 @@ X. Vehículos de transporte escolar o transporte de personal.
 
 ###### Artículo 14.
 
-Los espacios donde se podrá fumar serán únicamente los ubicados al área libre y en zonas exteriores de los inmuebles o las zonas confinadas exclusivas para fumadores, siempre y cuando no sean los descritos en el artículo anterior.
-
-Es obligación de los propietarios, encargados o responsables de los establecimientos mercantiles en los que se expendan al público alimentos para su consumo en el lugar, que no cuenten con zonas exclusivamente para fumadores, respetar la prohibición de no fumar en los mismos.
+(DEROGADO, G.G. 6 DE ENERO DE 2021)
 
 ###### Artículo 15.
 
@@ -377,23 +435,23 @@ IV. Reincidencia; y
 
 V. Demás circunstancias para la individualización de la sanción.
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 28.
 
-Se sancionará con una multa de hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente, al que consuma cualquier producto del tabaco en los espacios 100% libre de humo de tabaco, a los que hace referencia esta Ley.
+Se sancionará con una multa de hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente, al que consuma cualquier producto del tabaco incluso por los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, en los espacios 100% libre de humo de tabaco, a los que hace referencia esta Ley.
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 29.
 
-Se sancionará con una multa de mil a cuatro mil veces el valor diario de la Unidad de Medida y Actualización vigente, al propietario, administrador, poseedor o responsable de un espacio 100% libre de humo de tabaco a los que hace referencia esta Ley, que permita fumar tabaco en los mismos.
+Se sancionará con una multa de mil a cuatro mil veces el valor diario de la Unidad de Medida y Actualización vigente, al propietario, administrador, poseedor o responsable de un espacio 100% libre de humo de tabaco a los que hace referencia esta Ley, que permita fumar tabaco o el uso de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina en los mismos.
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 30.
 
-Se sancionará con una multa de mil hasta cuatro mil veces el valor diario de la Unidad de Medida y Actualización vigente al titular de la concesión o permiso, cuando se trate de vehículos de transporte público de pasajeros, cuando no fijen las señalizaciones respectivas o permitan tabaco dentro del vehículo de transporte público.
+Se sancionará con una multa de mil hasta cuatro mil veces el valor diario de la Unidad de Medida y Actualización vigente al titular de la concesión o permiso, cuando se trate de vehículos de transporte público de pasajeros, cuando no fijen las señalizaciones respectivas o permitan tabaco o el uso de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina y Sistemas Alternativos de Consumo de Nicotina, dentro del vehículo de transporte público.
 
 ###### Artículo 31.
 
@@ -565,15 +623,15 @@ DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA Y DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+G.G. 6 DE ENERO DE 2021.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 231.- POR EL QUE SE REFORMAN LA FRACCIÓN XI DEL ARTÍCULO 2.68, Y EL INCISO F) DE LA FRACCIÓN VII DEL ARTÍCULO 2.69 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; SE REFORMAN EL ARTÍCULO 1; EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II, III, Y IV DEL ARTÍCULO 2; LAS FRACCIONES I, II Y IV DEL ARTÍCULO 3; LAS FRACCIONES V, VI, VII, VIII, XIII Y XIV DEL ARTÍCULO 5; EL PRIMER PÁRRAFO DEL ARTÍCULO 9; EL PRIMER PÁRRAFO DEL ARTÍCULO 12; LA FRACCIÓN I DEL ARTÍCULO 13; Y LOS ARTÍCULO 28, 9 Y 30; SE ADICIONAN EL ARTÍCULO 4 BIS; LAS FRACCIONES XXI, XXII Y XXIII AL ARTÍCULO 5; Y SE DEROGAN EL ARTÍCULO 14, Y LA FRACCIÓN XX DEL ARTÍCULO 5, DE LA LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO”.]
 
-SEGUNDO. Las solicitudes de acceso que se encuentren en trámite o en proceso en la Unidad de Acceso a la Información del Congreso del Estado Libre y Soberano de Puebla, a la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión en la Unidad de Transparencia del Congreso del Estado Libre y Soberano de Puebla.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-P.O. 29 DE JULIO DE 2016.
+TERCERO. El Ejecutivo del Estado y los Ayuntamientos deberán realizar las modificaciones reglamentarias correspondientes en un plazo que no deberá exceder de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL INCISO E) DE LA FRACCIÓN XXXIII DEL ARTÍCULO 48 Y EL 165, Y ADICIONA EL INCISO F) A LA FRACCIÓN XXXIII DEL ARTÍCULO 48, EL 165 BIS Y EL 165 TER, TODOS DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
