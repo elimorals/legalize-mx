@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-integracion-funcionamiento-y-sesiones-de-los-1229
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-17"
-last_updated: "2017-09-14"
+last_updated: "2021-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122904&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2017-08-04"
 
 REGLAMENTO DE INTEGRACIÓN, FUNCIONAMIENTO Y SESIONES DE LOS CONSEJOS DISTRITALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 14 DE SEPTIEMBRE DE 2017.]
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE ENERO DE 2021.
 
 Reglamento publicado en el Número 135 de la Gaceta Oficial de la Ciudad de México, el jueves 17 de agosto de 2017.
 
@@ -132,9 +130,11 @@ DISPOSICIONES GENERALES.
 
 GENERALIDADES.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 1.
 
-El presente reglamento es de observancia obligatoria en el Instituto Electoral de la Ciudad de México y tiene por objeto regular la integración de los Consejos Distritales, los derechos y obligaciones de sus Consejeras y Consejeros, Representantes distritales de los partidos políticos y de candidatas y candidatos sin partido, la operación y funcionamiento de éstos, sus sesiones y Comisiones, y el procedimiento para la imposición de sanciones de sus Consejeras y Consejeros Distritales.
+El presente reglamento es de observancia obligatoria en el Instituto Electoral de la Ciudad de México y tiene por objeto regular la integración de los Consejos Distritales, los derechos y obligaciones de las personas Consejeras Distritales, Representantes Distritales de los partidos políticos y de las candidaturas sin partido, la operación y funcionamiento de éstos, sus sesiones y Comisiones, y el procedimiento para la imposición de sanciones de sus personas Consejeras Distritales.
 
 ###### Artículo 2.
 
@@ -152,7 +152,9 @@ III. Constitución Local: Constitución Política de la Ciudad de México
 
 IV. Ley Procesal: Ley Procesal Electoral de la Ciudad de México;
 
-V. Procedimiento: Procedimiento para la imposición de sanciones a las/los Consejeras y Consejeros Distritales del Instituto Electoral;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+V. Procedimiento: Procedimiento para la imposición de sanciones a las personas Consejeras Distritales del Instituto Electoral;
 
 VI. Reglamento Interior: Reglamento Interior del Instituto Electoral de la Ciudad de México; y
 
@@ -162,15 +164,23 @@ B) En cuanto a sus órganos y autoridades:
 
 I. Autoridades electorales: El Instituto Nacional Electoral, el Instituto Electoral de la Ciudad de México y el Tribunal Electoral de la Ciudad de México;
 
-II. Comisión: Comisión Provisional del Consejo General para vigilar la oportuna integración de los Consejos Distritales;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+II. Comisión: Comisión Provisional encargada de vigilar la oportuna conformación de los Consejos Distritales, aprobada por el Consejo General del Instituto Electoral;
 
 III. Comisiones Distritales: Comisión de los Consejos Distritales de Capacitación Electoral, de Organización Electoral, y las que se integren para la preparación y el seguimiento de la jornada electoral
 
-IV. Comisión Instructora: Comisión Provisional del Consejo General para instruir los procedimientos por presuntas irregularidades de las y los Consejeros Electorales Distritales;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-V. Consejeras y Consejeros Distritales: Las personas que integran los Consejos Distritales del Instituto Electoral designadas por el Consejo General del Instituto Electoral de la Ciudad de México;
+IV. Comisión Instructora: Comisión Provisional para instruir los procedimientos por presuntas irregularidades (sic) las personas Consejeras Electorales Distritales aprobada por el Consejo General del Instituto Electoral;
 
-VI. Consejera o Consejero Presidente: Consejera o Consejero Presidente del Instituto Electoral, del Consejo General y de la Junta Administrativa;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+V. Personas Consejeras Distritales: Las que integran los Consejos Distritales del Instituto Electoral designadas por el Consejo General del Instituto Electoral de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+VI. Presidencia: Persona Consejera Titular de la Presidencia del Consejo General del Instituto Electoral y de la Junta Administrativa;
 
 VII. Consejos Distritales: Órganos colegiados de carácter temporal, que funcionan durante los procesos electorales con facultades de decisión en el ámbito territorial que les corresponda;
 
@@ -184,25 +194,43 @@ XI. Instituto Nacional: Instituto Nacional Electoral;
 
 XII. Personal de apoyo: todo el personal del Instituto Electoral, tanto el adscrito al Servicio Profesional Electoral Nacional, como el de la Rama Administrativa y de carácter Eventual;
 
-XIII. Presidencia de la Comisión: La Consejera Presidenta o el Consejero Presidente de la Comisión Distrital;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-XIV. Presidencia del Consejo: La Consejera Presidenta o el Consejero Presidente del Consejo Distrital;
+XIII. Presidencia de la Comisión: La persona Consejera designada de la Comisión Distrital;
 
-XV. Representantes distritales de candidatura sin partido: Representantes de candidaturas sin partido con acreditación ante los Consejos Distritales del Instituto Electoral;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-XVI. Representantes distritales de partido: Representantes de los partidos políticos con acreditación ante los Consejos Distritales del Instituto Electoral;
+XIV. Presidencia del Consejo Distrital: La persona Consejera Presidente del Consejo Distrital que corresponda;
 
-XVII. Secretaría: la Secretaria o el Secretario del Consejo Distrital respectivo;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-XVIII. Secretaria/o Ejecutiva/o: Titular de la Secretaría Ejecutiva del Instituto Electoral;
+XV. Representantes de candidatura sin partido: personas Representantes de candidaturas sin partido con acreditación ante los Consejos Distritales del Instituto Electoral;
 
-XIX. Secretario/a Técnico/a: Secretario o Secretaria Técnica de la Comisión Distrital respectiva;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+XVI. Representantes de partido político: personas Representantes de los partidos políticos con acreditación ante los Consejos Distritales del Instituto Electoral;
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+XVII. Secretaría: la persona Titular de la Secretaría del Consejo Distrital respectivo;
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+XVIII. Secretaría Ejecutiva: Persona titular de la Secretaría Ejecutiva del Instituto Electoral;
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+XIX. Secretaría Técnica: Persona Titular de la Secretaría Técnica de la Comisión Distrital respectiva;
 
 XX. Tribunal: Tribunal Electoral de la Ciudad de México;
 
-XXI. Unidad de Apoyo logístico: Unidad Técnica de Archivo, logística y Apoyo a Órganos Desconcentrados del Instituto Electoral; y
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-XXII. Unidad Jurídica: Unidad Técnica de Asuntos Jurídicos del Instituto Electoral.
+XXI. UTALAOD: Unidad Técnica de Archivo, Logística y Apoyo a Órganos Desconcentrados del Instituto Electoral; y
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+XXII. UTAJ: Unidad Técnica de Asuntos Jurídicos del Instituto Electoral.
 
 ###### Artículo 3.
 
@@ -218,6 +246,8 @@ DE SU INTEGRACIÓN Y FUNCIONES.
 
 Los Consejos Distritales funcionarán durante los procesos electorales y se integrarán de conformidad con lo señalado por el Código, el presente ordenamiento y demás normativa que rige al Instituto Electoral.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO PUBLICADO EN LA G.O. DE 6 DE ENERO DE 2021, PÁGINA 31. SE ADVIERTE QUE CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO.]</small>
+
 ###### Artículo 5.
 
 En concordancia con las atribuciones conferidas en el Código, los Consejos Distritales, tendrán las funciones siguientes:
@@ -226,19 +256,29 @@ I. Conducir sus actividades con estricto apego a los principios rectores de la f
 
 II. Cumplir con las políticas, programas y acuerdos aprobados por el Consejo General, y
 
-III. Para cumplir con sus atribuciones los Consejos Distritales contarán con el apoyo del personal de la Dirección Distrital correspondiente.
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-IV. En su caso, recibir de la Dirección de Organización la Lista Nominal de Electores con fotografía a más tardar 30 días antes de la jornada electoral; y
+III. En su caso, recibir de la Dirección de Organización la Lista Nominal de Electores a más tardar 30 días antes de la jornada electoral; y
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN, ES IGUAL AL DE LA FRACCIÓN V.]</small>
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+IV. Las demás que les asignen los Consejos General y Distrital, así como las que disponga el Código y demás normativa aplicable
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN, ES IGUAL AL DE LA FRACCIÓN IV, G.O. 6 DE ENERO DE 2021.]</small>
 
 V. Las demás que les asignen los Consejos General y Distrital, así como las que disponga el Código y demás normativa aplicable.
 
-### CAPÍTULO II
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE ENERO DE 2021)</small>
 
-DE LOS DERECHOS Y OBLIGACIONES DE LOS INTEGRANTES DE LOS CONSEJOS DISTRITALES.
+### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES DE LAS PERSONAS INTEGRANTES DE LOS CONSEJOS DISTRITALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 6.
 
-Las Consejeras y los Consejeros Distritales tendrán los derechos siguientes:
+Las personas Consejeras Distritales tendrán los derechos siguientes:
 
 I. Participar en las discusiones y manifestarse libremente sobre los temas que se traten en las sesiones de Consejo o Comisiones, reuniones de trabajo, recorridos y reuniones previas;
 
@@ -248,13 +288,27 @@ III. Formar parte de las Comisiones Distritales en materia de capacitación y or
 
 IV. Recibir la dieta mensual que corresponda por la asistencia a las sesiones, reuniones de trabajo y recorridos que realicen sus Consejos Distritales durante el mismo periodo, de conformidad con lo que acuerde el Consejo General para cada proceso electoral;
 
-V. Solicitar por mayoría a la Consejera Presidenta o Consejero Presidente del Consejo Distrital convoque a sesión extraordinaria; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 6 DE ENERO DE 2021)</small>
 
-VI. Las demás que les señalen el Consejo General, el Código, el Reglamento y la normativa que rige el Instituto Electoral.
+V. Contar con un correo electrónico;
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+VI. Solicitar por mayoría a la Presidencia del Consejo Distrital convoque a sesión extraordinaria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 6 DE ENERO DE 2021)</small>
+
+VII. Para cumplir con sus atribuciones los Consejos Distritales contarán con el apoyo del personal de la Dirección Distrital correspondiente; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 6 DE ENERO DE 2021)</small>
+
+VIII. Las demás que les señalen el Consejo General, el Código, el Reglamento y la normativa que rige el Instituto Electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 7.
 
-Las y los Consejeros Distritales tendrán las obligaciones siguientes:
+Las personas Consejeras Distritales tendrán las obligaciones siguientes:
 
 I. Cumplir con las disposiciones de la Constitución Federal, la Constitución Local, el Código, la Ley Procesal, el Reglamento Interior, el Reglamento y demás normativa;
 
@@ -266,7 +320,9 @@ IV. Contribuir al correcto desarrollo de las sesiones y de cada una de las etapa
 
 V. Asistir a las sesiones del Consejo Distrital y permanecer hasta su conclusión, a reuniones previas a las sesiones, recorridos y reuniones de trabajo a las que hayan sido convocados por la Presidencia del Consejo Distrital;
 
-VI. Suplir a la Presidenta o al Presidente del Consejo Distrital, ante su petición, en sus ausencias momentáneas durante el desarrollo de las sesiones;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+VI. Suplir a la Presidencia del Consejo Distrital, ante su petición, en sus ausencias momentáneas durante el desarrollo de las sesiones;
 
 VII. Abstenerse de presentarse en estado de ebriedad o bajo la influencia de enervantes o psicotrópicos al cumplimiento de sus funciones;
 
@@ -278,7 +334,9 @@ X. Participar en la realización de los cómputos y en la entrega de constancias
 
 XI. En el supuesto de que se encuentren imposibilitadas/os para asistir a las sesiones, reuniones de trabajo y recorridos del Consejo Distrital a las que se les convoque, deberán notificar por escrito tal circunstancia a la Presidencia del Consejo Distrital, con una antelación de ocho horas a la celebración del evento, salvo cuando se trate de circunstancias de fuerza mayor o caso fortuito, que no permitan dar aviso correspondiente dentro del término señalado;
 
-XII. Asistir, en su caso, al procedimiento de insaculación y capacitación de ciudadanas/os que habrán de integrar las Mesas Directivas de Casilla, al recorrido de lugares para determinar la ubicación de casillas electorales; así como al procedimiento de recepción, conteo, sellado y agrupado de boletas electorales en los términos de las disposiciones legales y de los instrumentos jurídicos que se celebren con el Instituto Nacional o éste delegue la función;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+XII. Asistir, en su caso, al procedimiento de insaculación y capacitación de la ciudadanía que habrá de integrar las Mesas Directivas de Casilla, al recorrido de lugares para determinar la ubicación de casillas electorales; así como al procedimiento de recepción, conteo, sellado y agrupado de boletas electorales en los términos de las disposiciones legales y de los instrumentos jurídicos que se celebren con el Instituto Nacional o éste delegue la función;
 
 XIII. Participar en el programa de capacitación que imparta la Unidad Técnica del Centro de Formación y Desarrollo;
 
@@ -286,9 +344,11 @@ XIV. Participar en los Grupos de Trabajo para el Recuento de Votos que determine
 
 XV. Las demás que les señalen el Consejo General, el Código, el Reglamento y la normativa que rige el Instituto Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 8.
 
-Las y los Representantes distritales de partido y candidaturas sin partido tendrán los derechos siguientes:
+Las personas representantes de los partidos políticos y candidaturas sin partido tendrán los derechos siguientes:
 
 I. Participar en la discusión y manifestarse libremente sobre los temas que se traten en las sesiones, recorridos y reuniones de trabajo;
 
@@ -300,25 +360,43 @@ IV. Alternarse durante el desarrollo de las sesiones, entre propietaria/o y supl
 
 V. Acreditar por escrito, en su caso, con la autorización previa del partido político o candidatura sin partido a quien representa, a un/a representante suplente adicional para que esté presente en la recepción de los paquetes electorales el día de la jornada electoral, quien no tendrá asiento en la mesa de debates del Consejo Distrital;
 
-VI. Acreditar por escrito, en su caso, con la autorización previa del partido político o candidatura sin partido a quien representa, a un representante para la integración de los grupos de trabajo, para el desarrollo de la sesiones de los cómputos distritales.
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-VII. Asistir, en su caso, por invitación del Instituto Nacional al recorrido de lugares para determinar la ubicación de casillas electorales, al procedimiento de insaculación de ciudadanas/os que habrán de integrar las Mesas Directivas de Casilla y presenciar el procedimiento de recepción, conteo, sellado y agrupado de boletas electorales en términos de las disposiciones legales y de los instrumentos jurídicos que se celebren con el Instituto Nacional;
+VI. Acreditar por escrito, en su caso, con la autorización previa del partido político o candidatura sin partido a quien representa, a un/a representante para la integración de los grupos de trabajo, para el desarrollo de las sesiones de los cómputos distritales
 
-VIII. Presentar los medios de impugnación establecidos en la Ley Procesal; y
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-IX. Las demás que les confiera el Código, el Reglamento y la normativa que rige el Instituto Electoral.
+VII. Asistir, en su caso, por invitación del Instituto Nacional, al recorrido de lugares para determinar la ubicación de casillas electorales, al procedimiento de insaculación de la ciudadanía que habrá de integrar las Mesas Directivas de Casilla y presenciar el procedimiento de recepción, conteo, sellado y agrupado de boletas electorales en términos de las disposiciones legales y de los instrumentos jurídicos que se celebren con el Instituto Nacional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 6 DE ENERO DE 2021)</small>
+
+VIII. Contar con un correo electrónico;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 6 DE ENERO DE 2021)</small>
+
+IX. Presentar los medios de impugnación establecidos en la Ley Procesal; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 6 DE ENERO DE 2021)</small>
+
+X. Las demás que les confiera el Código, el Reglamento y la normativa que rige el Instituto Electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 9.
 
-Las y los representantes distritales de partido o de candidatura sin partido, dentro del ámbito de su competencia, tendrán las obligaciones siguientes:
+Las personas representantes de partidos políticos o de candidatura sin partido, dentro del ámbito de su competencia, tendrán las obligaciones siguientes:
 
-I. Asistir y permanecer hasta su conclusión, a las sesiones del Consejo Distrital, recorridos y reuniones de trabajo, a las que hayan sido convocadas/os por la Presidencia del Consejo Distrital;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+I. Asistir y permanecer hasta su conclusión, a las sesiones del Consejo Distrital, recorridos y reuniones de trabajo, a las que le convoque la Presidencia del Consejo Distrital.
 
 II. Contribuir al correcto desarrollo de las sesiones;
 
 III. Abstenerse de presentarse en estado de ebriedad o bajo la influencia de enervantes o psicotrópicos al cumplimiento de sus atribuciones;
 
-IV. En tratándose de la expresión de ideas propias y/o en la difusión de toda índole de información, abstenerse de proferir frases y expresiones vejatorias, ofensivas u oprobiosas, o bien que, según el contexto y su relación con lo manifestado, resulten impertinentes;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+IV. En tratándose de la expresión de ideas propias y/o en la difusión de toda índole de información, abstenerse de proferir frases y expresiones vejatorias, ofensivas u oprobiosas que pudieran considerarse violencia de género o discriminatorias, así como aquellas que, según el contexto y su relación con lo manifestado, resulten impertinentes;
 
 V. Cumplir los acuerdos, procedimientos y programas del Instituto Electoral que les sean aplicables; y
 
@@ -328,9 +406,11 @@ VI. Las demás que les confiera el Código, el Reglamento y la normativa que rig
 
 DE LA PRESIDENCIA Y SECRETARÍA DE LOS CONSEJOS DISTRITALES. FUNCIONES Y ATRIBUCIONES.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 10.
 
-En concordancia con lo establecido en el Código, las Presidentas y los Presidentes de los Consejos Distritales, tendrán las funciones siguientes:
+En concordancia con lo establecido en el Código, las Presidencias de los Consejos Distritales, tendrán las funciones siguientes:
 
 I. Asistir a las sesiones del Consejo Distrital y participar en las mismas con derecho a voz y voto;
 
@@ -338,9 +418,13 @@ II. Declarar el inicio y final de la sesión;
 
 III. Solicitar a la Secretaría del Consejo pasar lista de asistencia y verificar la existencia del quórum requerido para sesionar;
 
-IV. Solicitar a la Secretaria del Consejo poner a consideración de los integrantes del Consejo Distrital, el proyecto de orden del día;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-V. Tomar protesta a las y los integrantes del Consejo Distrital; y a quienes integren las Mesas Directivas de Casillas;
+IV. Solicitar a la Secretaría del Consejo poner a consideración de las personas integrantes del Consejo Distrital, el proyecto de orden del día;
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+V. Tomar protesta a las personas integrantes del Consejo Distrital y a quienes integren las Mesas Directivas de Casillas;
 
 VI. Declarar los recesos que considere necesarios durante el desarrollo de una sesión;
 
@@ -362,7 +446,9 @@ XIV. Realizar las acciones necesarias para mantener la unidad y cohesión de qui
 
 XV. Cumplir las instrucciones de la Secretaría Ejecutiva;
 
-XVI. Informar a la Secretaría Ejecutiva, por conducto de la Dirección de Organización, de las vacantes de las y los Consejeros Electorales de su Consejo Distrital, así como de los motivos que las generen, para sus correspondientes sustituciones;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+XVI. Informar a la Secretaría Ejecutiva, por conducto de la Dirección de Organización, de las vacantes de las personas Consejeras Electorales de su Consejo Distrital, así como de los motivos que las generen, para sus correspondientes sustituciones;
 
 XVII. Firmar, junto con la Secretaría del Consejo, los acuerdos y resoluciones que emita el Consejo Distrital;
 
@@ -370,31 +456,53 @@ XVIII. Turnar a las Comisiones del Consejo Distrital los asuntos que sean compet
 
 XIX. Atender las solicitudes de información o apoyo técnico, que las presidencias de las Comisiones de su Consejo Distrital le formulen en el ejercicio de sus atribuciones;
 
-XX. Recibir de las presidencias de las Comisiones Distritales, las convocatorias y los documentos que, en su caso, se anexen para las sesiones de las mismas, así como los informes elaborados por las Comisiones Distritales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 6 DE ENERO DE 2021)</small>
 
-XXI. Recibir las acreditaciones de las y los representantes distritales de partido o de candidaturas sin partido que habrán de integrar su Consejo Distrital;
+XX. Realizar las gestiones necesarias para proveer al Consejo Distrital de las herramientas tecnológicas necesarias para el desarrollo de las sesiones virtuales;
 
-XXII. Atender y dar seguimiento, en el ámbito de su competencia, a las peticiones de las y los ciudadanos que formulen a su Consejo Distrital;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 6 DE ENERO DE 2021)</small>
 
-XXIII. Coordinar la entrega de la documentación e información necesarias para el desempeño de las atribuciones de los integrantes de su Consejo Distrital;
+XXI. Recibir de las presidencias de las Comisiones Distritales, las convocatorias y los documentos que, en su caso, se anexen para las sesiones de las mismas, así como los informes elaborados por las Comisiones Distritales;
 
-XXIV. Informar inmediatamente al titular de la Secretaría Ejecutiva, sobre los medios de impugnación interpuestos contra actos o resoluciones del Consejo Distrital; y
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-XXV. Las demás que les confiera el Código, el Reglamento, el Consejo General y la normativa que rige al Instituto Electoral.
+XXII. Recibir las acreditaciones de las personas representantes de partidos políticos o de candidaturas sin partido que habrán de integrar su Consejo Distrital;
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+XXIII. Atender y dar seguimiento, en el ámbito de su competencia, a las peticiones que la ciudadanía formule a su Consejo Distrital;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 6 DE ENERO DE 2021)</small>
+
+XXIV. Coordinar la entrega de la documentación e información necesarias para el desempeño de las atribuciones de los integrantes de su Consejo Distrital;
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+XXV. Informar inmediatamente a la persona titular de la Secretaría Ejecutiva, sobre los medios de impugnación interpuestos contra actos o resoluciones del Consejo Distrital; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 6 DE ENERO DE 2021)</small>
+
+XXVI. Las demás que les confiera el Código, el Reglamento, el Consejo General y la normativa que rige al Instituto Electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 11.
 
-En concordancia con lo establecido en el Código, las Secretarias y los Secretarios de los Consejos Distritales, tendrán las funciones y atribuciones siguientes:
+En concordancia con lo establecido en el Código, las Secretarías de los Consejos Distritales, tendrán las funciones y atribuciones siguientes:
 
 I. Participar en las sesiones con derecho a voz;
 
-II. Enviar a las y los integrantes del Consejo Distrital los documentos y anexos de los asuntos incluidos en el proyecto de orden del día junto con la convocatoria;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+II. Enviar a las personas integrantes del Consejo Distrital los documentos y anexos de los asuntos incluidos en el proyecto de orden del día junto con la convocatoria;
 
 III. Declarar la existencia del quórum;
 
 IV. Solicitar la dispensa de la lectura de los documentos previamente distribuidos y que forman parte del proyecto de orden del día;
 
-V. Elaborar el proyecto de acta de la sesión, someterla a la consideración del Consejo Distrital y, en su caso, incorporar las observaciones realizadas por los integrantes del mismo;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+V. Elaborar el proyecto de acta de la sesión, someterla a la consideración del Consejo Distrital y, en su caso, incorporar las observaciones realizadas por las personas integrantes de este;
 
 VI. Dar cuenta de los escritos que se presenten al Consejo Distrital, cuando a juicio de la Presidencia del Consejo Distrital, sean relevantes o necesarios para el desahogo de un tema;
 
@@ -402,13 +510,19 @@ VII. Apoyar a la Presidencia del Consejo Distrital en el cómputo del tiempo de 
 
 VIII. Informar sobre el cumplimiento de las resoluciones del Consejo Distrital cuando lo solicite la Presidencia del Consejo Distrital;
 
-IX. Firmar con la o el Presidente del Consejo Distrital los acuerdos y, en su caso, resoluciones que emita o apruebe el Consejo Distrital, así como las actas de las sesiones que se aprueben;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+IX. Firmar con la Presidencia del Consejo Distrital los acuerdos y, en su caso, resoluciones que emita o apruebe el Consejo Distrital, así como las actas de las sesiones que se aprueben;
 
 X. Llevar el registro de las actas, acuerdos y, en su caso, resoluciones aprobadas por el Consejo Distrital y un archivo de dichos documentos de conformidad con la normatividad aplicable;
 
-XI. Conocer e informar a las y los integrantes del Consejo Distrital sobre los acuerdos tomados por el Consejo General y entregarles una fotocopia de los mismos cuando así lo soliciten;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-XII. Expedir las constancias y los gafetes de identificación que acrediten a las y los Consejeros Distritales y Representantes distritales de partido y de candidaturas sin partido como integrantes del Consejo Distrital, de conformidad con el formato que para tal efecto les proporcione la Dirección de Organización;
+XI. Conocer e informar a las personas integrantes del Consejo Distrital sobre los acuerdos tomados por el Consejo General y entregarles copia digital de los mismos cuando así lo soliciten;
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+XII. Expedir las constancias y los gafetes de identificación que acrediten a las personas Consejeras Distritales y personas representantes de los partidos políticos y de candidaturas sin partido como integrantes del Consejo Distrital, de conformidad con el formato que para tal efecto les proporcione la Dirección de Organización;
 
 XIII. Expedir copia certificada de los documentos que obren en los archivos del Consejo Distrital, siempre y cuando le sean solicitadas por escrito, y no exista impedimento legal para otorgarlas. En caso de impedimento legal, deberá darse respuesta por escrito, fundando la razón de la negativa;
 
@@ -448,6 +562,26 @@ XXVI. Las demás que les confieran el Código, el Reglamento, el Consejo General
 
 Las sesiones de los Consejos Distritales podrán ser ordinarias o extraordinarias y se sujetarán a las reglas previstas en el Código y en este Reglamento. El tipo de sesión se precisará en la convocatoria que emita la Presidencia y se hará constar en las minutas correspondientes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 6 DE ENERO DE 2021)</small>
+
+Dichas sesiones podrán realizarse de manera presencial, virtual o mixta, observando en todo momento las reglas generales previstas en el presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 6 DE ENERO DE 2021)</small>
+
+Serán sesiones virtuales aquellas que se celebren en modalidad a distancia mediante el uso de herramientas tecnológicas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 6 DE ENERO DE 2021)</small>
+
+Las sesiones virtuales serán difundidas en tiempo real a través de las plataformas digitales con las que cuenta el Instituto Electoral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 6 DE ENERO DE 2021)</small>
+
+Las sesiones mixtas podrán desarrollarse con algunas personas integrantes de los Consejos Distritales presentes de forma virtual y otras de forma presencial, para lo cual deberán notificar a la Presidencia del Consejo Distrital la forma en que opten para asistir a la sesión, en caso de que se determine que la misma se lleve a cabo en esta modalidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 6 DE ENERO DE 2021)</small>
+
+En caso de que la Presidencia del Consejo Distrital opte por llevar a cabo la sesión de forma mixta, tendrá que mencionar esta circunstancia en la convocatoria correspondiente.
+
 ###### Artículo 13.
 
 Las sesiones de los Consejos Distritales deberán sujetarse a lo siguiente:
@@ -456,7 +590,9 @@ A) Sesiones ordinarias:
 
 I. Deberán celebrarse por lo menos una vez al mes, a partir de su instalación durante la primera semana de febrero del año de la elección y hasta la conclusión del proceso electoral;
 
-II. La Presidencia convocará a los integrantes del Consejo Distrital por lo menos con 72 horas de anticipación a la fecha y hora señalada para la su celebración;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+II. La Presidencia convocará a las personas integrantes del Consejo Distrital por lo menos con 72 horas de anticipación a la fecha y hora señalada para su celebración;
 
 III. Solamente serán votados los asuntos que fueron incluidos en el proyecto de orden del día, que haya sido previamente distribuido por la Presidencia del Consejo Distrital junto con la convocatoria; y
 
@@ -468,7 +604,9 @@ En asuntos generales no se tomarán acuerdos o resoluciones.
 
 B) Sesiones extraordinarias:
 
-I. Serán convocadas por las Presidencias de los Consejos Distritales cuando lo estimen necesario o a petición que le formulen la mayoría de las y los Consejeros Distritales, la mayoría de Representantes distritales de partido o de candidaturas sin partido de manera conjunta o separada;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+I. Serán convocadas por las Presidencias de los Consejos Distritales cuando lo estimen necesario o a petición que le formulen la mayoría de las personas Consejeras Distritales, la mayoría de las personas representantes de los partidos políticos o de candidaturas sin partido de manera conjunta o separada;
 
 II. La Presidencia convocará con 24 horas de anticipación a la fecha y hora señalada para su celebración;
 
@@ -476,41 +614,57 @@ III. Tendrán por objeto tratar asuntos que por su naturaleza no puedan ser desa
 
 IV. Solamente podrán tratarse aquellos asuntos para las que fueron convocadas.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 14.
 
-Las Presidencias de los Consejos Distritales deberán convocar a las y los Consejeros Distritales y Representantes distritales de partido, y candidatura sin partido que integren su Consejo Distrital, de conformidad con los plazos establecidos en el Código para las sesiones ordinarias y extraordinarias según corresponda. Se formulará por escrito y deberá contener el lugar, el día y la hora en que se deban celebrar, la mención de su carácter de ordinaria o extraordinaria y el proyecto de orden del día con los documentos y anexos necesarios para su discusión.
+Las Presidencias de los Consejos Distritales deberán convocar a las personas Consejeras Distritales y a las personas representantes de los partidos políticos o de candidaturas sin partido que integren su Consejo Distrital, de conformidad con los plazos establecidos en el Código para las sesiones ordinarias y extraordinarias según corresponda. Se realizará por escrito o digital y deberá contener el lugar, el día y la hora en que se deban celebrar, señalando si se trata de sesión presencial, virtual o mixta, en cuyo caso mencionar la plataforma virtual correspondiente, la mención de su carácter de ordinaria o extraordinaria y el proyecto de orden del día con los documentos y anexos necesarios para su discusión.
+
+Tratándose de sesiones virtuales o mixtas, la documentación respectiva deberá ser proporcionada a través del correo electrónico que al efecto se proporcione, o bien, mediante las herramientas tecnológicas con las que disponga el Instituto Electoral.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 15.
 
-En aquellos casos en los que, debido a los grandes volúmenes de documentación no sea posible acompañar a la convocatoria para la sesión los anexos, información y documentación necesaria para la discusión de los asuntos incluidos en el proyecto de orden del día; a solicitud expresa de los destinatarios, éstos se podrán distribuir en medio magnético u óptico o correo electrónico a quienes integren el Consejo Distrital y se pondrán a su disposición, en forma impresa, a partir de la fecha de emisión de la convocatoria, en la oficina de la Secretaría del Consejo con el objeto de que puedan ser consultados.
+En aquellos casos en los que, debido a los grandes volúmenes de documentación, no sea posible acompañar a la convocatoria para la sesión los anexos, información y documentación necesaria para la discusión de los asuntos incluidos en el proyecto de orden del día, estos se podrán distribuir, preferentemente, en medio digital; no obstante, podrá hacerse en medio electrónico o a través de correo electrónico a la cuenta que le asigne el Instituto Electoral a quienes integren el Consejo Distrital y se pondrán a su disposición, en forma impresa, a partir de la fecha de emisión de la convocatoria, en la oficina de la Secretaría del Consejo, con el objeto de que puedan ser consultados.
 
 #### SECCIÓN SEGUNDA
 
 DE LAS REGLAS PARA EL INICIO DE LAS SESIONES Y SU DURACIÓN.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 16.
 
-Las sesiones de los Consejos Distritales se llevarán a cabo en su domicilio oficial. Sólo por causas de fuerza mayor o caso fortuito que, a juicio de la Presidencia del Consejo Distrital, no garanticen el buen desarrollo y la libre participación de sus integrantes, podrá sesionarse en otro lugar dentro del territorio del distrito electoral correspondiente o en las instalaciones de las oficinas centrales del Instituto Electoral.
+Las sesiones presenciales de los Consejos Distritales se llevarán a cabo en su domicilio oficial. Cuando a juicio de la Presidencia del Consejo Distrital, no se garantice el buen desarrollo y la libre participación de sus integrantes, previa solicitud y autorización de la Secretaría Ejecutiva, a través de la Dirección de Organización, podrá sesionarse en otro lugar dentro del territorio del distrito electoral correspondiente, en las instalaciones de las oficinas centrales del Instituto Electoral, sesionar de manera virtual o, en su caso, de manera mixta.
+
+Si durante la sesión se presenta un caso fortuito o de fuerza mayor que impida el correcto desarrollo de la misma, el Consejo Distrital definirá si continúan la misma en una sede alterna, de manera virtual o mixta.
 
 De actualizarse el supuesto anterior, la Presidencia del Consejo Distrital lo informará de inmediato a la Secretaría Ejecutiva, a través de la Dirección de Organización.
 
-Si durante la sesión se presenta un caso fortuito o de fuerza mayor que impida el correcto desarrollo de la misma, el Consejo Distrital definirá si continúan la misma en una sede alterna.
+Las personas integrantes de los Consejos Distritales deberán señalar a la Presidencia del Consejo Distrital, un domicilio para recibir notificaciones dentro del distrito electoral y proporcionar los números de teléfono en los que se pueda localizar y, necesariamente, un correo electrónico, en el supuesto de contar con dichos medios. La notificación se realizará en el domicilio señalado y, adicionalmente, se publicará en los estrados electrónicos y en los estrados de la sede Distrital. Si no se encuentra en el domicilio señalado por la persona Consejera Distrital después de su búsqueda en dos ocasiones o se niegan a recibir la notificación, se procederá a notificar mediante cédula, la cual se fijará en el exterior del domicilio y se enviará correo electrónico, el cual corresponderá al proporcionado a la Dirección Distrital, el oficio de convocatoria y los anexos correspondientes.
 
-Las y los integrantes de los Consejos Distritales deberán señalar a la Presidencia del Consejo Distrital, un domicilio para recibir notificaciones dentro del distrito electoral y proporcionar sus números de teléfono del trabajo, casa, celular, fax y necesariamente un correo electrónico, en el supuesto de contar con dichos medios. La notificación se realizará en el domicilio señalado y, adicionalmente, se publicará en los estrados de la sede Distrital. Si no se encuentra en el domicilio señalado por la o el Consejero Distrital después de su búsqueda en dos ocasiones o se niegan a recibir la notificación, se procederá a notificar mediante cédula la cual se fijará en el exterior del domicilio y se enviará correo electrónico, el cual corresponderá al proporcionado a la dirección distrital, el oficio de convocatoria y los anexos correspondientes.
+Para las sesiones virtuales y mixtas, las convocatorias y notificaciones se realizarán a través de los correos electrónicos proporcionados.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 17.
 
-El día y hora fijado para la sesión, se reunirán las y los integrantes del Consejo Distrital, en el domicilio precisado en la convocatoria respectiva. La Presidencia del Consejo Distrital declarará el inicio de la sesión del Consejo Distrital, una vez que la Secretaría del Consejo haya pasado lista de asistencia y verificado la existencia del quórum requerido para sesionar, de conformidad con lo señalado en el Código.
+El día y hora fijado para la sesión, se reunirán las personas integrantes del Consejo Distrital, en el domicilio y/o plataforma digital precisados en la convocatoria respectiva. La Presidencia del Consejo Distrital declarará el inicio de la sesión del Consejo Distrital, una vez que la Secretaría del Consejo haya pasado lista de asistencia y verificado la existencia del quórum requerido para sesionar, de conformidad con lo señalado en el Código.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 18.
 
-Si llegada la hora prevista para la sesión no se reúne el quórum requerido para sesionar, se dará un término de espera máximo de treinta minutos. Si transcurrido dicho tiempo aún no se integra el quórum, se hará constar tal situación en un acta circunstanciada y se citará por escrito en segunda convocatoria a las y los Consejeros Distritales y Representantes distritales de partido y de candidaturas sin partido ausentes, quedando notificados en ese mismo momento quienes estuvieran presentes.
+Si llegada la hora prevista para la sesión no se reúne el quórum requerido para sesionar, se dará un término de espera máximo de treinta minutos. Si transcurrido dicho tiempo aún no se integra el quórum, se hará constar tal situación en un acta circunstanciada y se citará por escrito en segunda convocatoria a las personas Consejeras Distritales y a las personas representantes de los partidos políticos o de candidaturas sin partido ausentes, quedando notificados en ese mismo momento quienes asistieron en la modalidad convocada.
 
-Las sesiones en segunda convocatoria se efectuarán dentro de las veinticuatro horas siguientes, contadas de momento a momento, tomando como referencia la hora de cierre del acta circunstanciada referida en este artículo, con las y los Consejeros Distritales y Representantes distritales de partido y de candidatura sin partido que concurran a ella. El acta circunstanciada formará parte del acta de la sesión.
+Las sesiones en segunda convocatoria se efectuarán dentro de las veinticuatro horas siguientes, contadas de momento a momento, tomando como referencia la hora de cierre del acta circunstanciada referida en este artículo, con las personas Consejeras Distritales y las personas representantes de los partidos políticos o de candidaturas sin partido que concurran a ella. El acta circunstanciada formará parte del acta de la sesión.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 19.
 
-Si en el transcurso de la sesión se ausentara alguna persona integrante y con ello se interrumpe el quórum, la Presidencia del Consejo Distrital ordenará a la Secretaría del Consejo verificar tal situación y dar fe de la misma; acto seguido, declarará un receso de diez minutos. Transcurrido este tiempo se reanudará la sesión y se verificará el quórum, si éste no se integra, la Presidencia del Consejo Distrital suspenderá la sesión y citará para su continuación en los términos previstos en el artículo anterior. A Las y los integrantes que se encuentren presentes en dicho acto y se les tendrá por convocados, por tanto, sólo se convocará por escrito a quienes estén ausentes.
+Si en el transcurso de la sesión se ausentara alguna persona integrante y con ello se interrumpiere el quórum, la Presidencia del Consejo Distrital ordenará a la Secretaría del Consejo verificar tal situación y dar fe de la misma; acto seguido, declarará un receso de diez minutos. Transcurrido este tiempo se reanudará la sesión y se verificará el quórum, si éste no se integra, la Presidencia del Consejo Distrital suspenderá la sesión y citará para su continuación, en los términos previstos en el artículo anterior, a las personas integrantes que se encuentren presentes en dicho acto y se les tendrá por convocados; por tanto, sólo se convocará por escrito a quienes estén ausentes. Tratándose de sesiones virtuales o mixtas, la convocatoria correspondiente se realizará mediante correo electrónico.
 
 ###### Artículo 20.
 
@@ -520,69 +674,101 @@ Agotado el límite señalado con anterioridad, los Consejos Distritales podrán 
 
 Finalizadas las tres horas de prolongada la sesión, los Consejos Distritales podrán decidir su continuación o no, siguiendo el procedimiento establecido en el párrafo anterior.
 
-Las sesiones que sean suspendidas se reanudarán dentro de las veinticuatro horas siguientes a su suspensión, salvo que el Código o la Presidencia del Consejo Distrital establezcan un plazo distinto. Las y los integrantes de los Consejos Distritales que se encuentren presentes se tendrán por convocadas y convocados en dicho acto y sólo se convocará por escrito a quienes estén ausentes.
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
+Las sesiones que sean suspendidas se reanudarán dentro de las veinticuatro horas siguientes a su suspensión, salvo que el Código o la Presidencia del Consejo Distrital establezcan un plazo distinto. Las personas Consejeras Distritales que se encuentren presentes se tendrán por convocadas en dicho acto y sólo se convocará por escrito a quienes estén ausentes. Tratándose de sesiones virtuales y mixtas, la convocatoria correspondiente se realizará mediante correo electrónico, o bien, mediante las herramientas tecnológicas con las que disponga el Instituto Electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 21.
 
-Los Consejos Distritales podrán declararse en sesión permanente cuando así lo estimen necesario, por mayoría de votos de las y los Consejeros Distritales presentes. En el supuesto anterior, no operará el límite de tiempo establecido en el artículo que antecede.
+Los Consejos Distritales podrán declararse en sesión permanente cuando así lo estimen necesario, por mayoría de votos de las personas Consejeras Distritales presentes. En el supuesto anterior, no operará el límite de tiempo establecido en el artículo que antecede.
 
 Las sesiones permanentes concluirán una vez que se hayan agotado o resuelto los asuntos que la motivaron.
 
 #### SECCIÓN TERCERA. DEL DESARROLLO DE LAS SESIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 22.
+
+Durante el desarrollo de las sesiones presenciales, las personas Consejeras Electorales votarán de manera económica, es decir, levantando la mano. Tratándose de sesiones virtuales o mixtas, se realizará mediante votación nominal o a través de la herramienta tecnológica que tengan a su alcance para expresar el sentido de su decisión.
+
+(REUBICADO [N. DE E. ANTES PRIMER PÁRRAFO], G.O. 6 DE ENERO DE 2021)
 
 Iniciada la sesión, la Presidencia del Consejo Distrital solicitará a la Secretaría del Consejo poner a consideración del Consejo Distrital el contenido del proyecto de orden del día.
 
-El Consejo Distrital mediante votación y a solicitud de alguna o alguno de sus integrantes y mediante votación podrá modificar el orden del día.
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
+El Consejo Distrital a solicitud de alguna persona integrante y mediante votación, podrá modificar el orden del día.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 23.
 
-Al aprobarse el orden del día, la Presidencia del Consejo Distrital solicitará a la Secretaría del Consejo consultar, en votación económica, si se dispensa la lectura de los documentos que hayan sido distribuidos previamente.
+Al aprobarse el orden del día, la Presidencia del Consejo Distrital solicitará a la Secretaría del Consejo consultar, en votación económica o nominal, según sea el caso, si se dispensa la lectura de los documentos que hayan sido distribuidos previamente.
 
 Durante la sesión serán discutidos y, en su caso, sometidos a votación los asuntos contenidos en el orden del día, salvo cuando con base en consideraciones fundadas, el propio Consejo Distrital acuerde, mediante votación, posponer la discusión o votación de algún asunto en particular.
 
-En el caso de que un punto del orden del día aprobado esté integrado con varios apartados, cuando se aborde el mismo, cualquiera de las/os integrantes del Consejo Distrital podrá solicitar se separe para su discusión y votación en lo particular, uno o más apartados.
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
+En el caso de que un punto del orden del día aprobado esté integrado con varios apartados, cuando se aborde el mismo, cualquiera de las personas integrantes del Consejo Distrital podrá solicitar se separe para su discusión y votación en lo particular, uno o más apartados.
 
 A petición de alguna persona integrante del Consejo Distrital, la Secretaría del Consejo, previa instrucción de la Presidencia del Consejo Distrital, dará lectura a los documentos que se soliciten para ilustrar la discusión, en esos casos se detendrá el cronómetro de participación del orador y dicha lectura no podrá exceder de cinco minutos.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 24.
 
-Las y los integrantes del Consejo Distrital sólo podrán hacer uso de la palabra con la autorización de la Presidencia del Consejo Distrital y no podrán ser interrumpidas/os salvo por la misma, para señalarle que su tiempo, en los términos establecidos en este ordenamiento ha concluido o para exhortarle a que se conduzca dentro de los supuestos previstos por el Reglamento.
+Las personas integrantes del Consejo Distrital sólo podrán hacer uso de la palabra con la autorización de la Presidencia del Consejo Distrital y no podrán ser interrumpidas salvo por la misma, para señalarle que su tiempo, en los términos establecidos en este ordenamiento, ha concluido o para exhortarle a que se conduzca dentro de los supuestos previstos por el Reglamento.
 
-Si la persona que haga uso de la voz se aparta del asunto en debate o hace referencias o alusiones que ofendan a cualquiera de las y los integrantes del Consejo Distrital, la Presidencia del Consejo Distrital lo hará notar. Si el o la oradora reitera su conducta, la Presidencia del Consejo Distrital le retirará el uso de la palabra y no podrá otorgársela, sino hasta el punto siguiente del orden del día.
+Si la persona que haga uso de la voz se aparta del asunto en debate o hace referencias o alusiones que ofendan a cualquiera de las personas integrantes del Consejo Distrital, la Presidencia del Consejo Distrital lo hará notar. Si la persona oradora reitera su conducta, la Presidencia del Consejo Distrital le retirará el uso de la palabra y no podrá otorgársela, sino hasta el punto siguiente del orden del día.
 
 ###### Artículo 25.
 
 Para la discusión de los asuntos incluidos en el orden del día, la Presidencia del Consejo Distrital elaborará una lista de personas oradoras conforme al orden en que soliciten el uso de la palabra, de acuerdo a lo siguiente:
 
-I. Intervendrán una sola vez en primera ronda, por seis minutos como máximo. Concluida dicha ronda, la Presidencia del Consejo Distrital preguntará si el asunto está suficientemente discutido y en caso de no ser así, habrá una segunda ronda de intervenciones. Para dar inicio a la segunda ronda bastará que lo solicite cualquiera de las y los integrantes del Consejo Distrital;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+I. Intervendrán una sola vez en primera ronda, por seis minutos como máximo. Concluida dicha ronda, la Presidencia del Consejo Distrital preguntará si el asunto está suficientemente discutido y en caso de no ser así, habrá una segunda ronda de intervenciones. Para dar inicio a la segunda ronda bastará que lo solicite cualquiera de las personas integrantes del Consejo Distrital;
 
 II. La participación en la segunda ronda será en los términos establecidos en el primer párrafo de este artículo, pero las intervenciones no excederán de cinco minutos;
 
-III. Al término de la segunda ronda, la Presidencia del Consejo Distrital preguntará si el asunto está suficientemente discutido y en caso de no ser así, habrá una tercera ronda. Para dar inicio a la tercera ronda de intervenciones bastará que lo solicite cualquiera de las y los integrantes del Consejo Distrital;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+III. Al término de la segunda ronda, la Presidencia del Consejo Distrital preguntará si el asunto está suficientemente discutido y en caso de no ser así, habrá una tercera ronda. Para dar inicio a la tercera ronda de intervenciones bastará que lo solicite cualquiera de las personas integrantes del Consejo Distrital;
 
 IV. La tercera ronda se llevará a cabo con el mismo procedimiento de las dos anteriores, pero cada una de las intervenciones no excederá de tres minutos;
 
-V. Si ningún/a integrante del Consejo Distrital solicita intervenir en las rondas o una vez que se hayan agotado las mismas, se procederá a la votación del asunto o se dará por enterado el Consejo Distrital, según corresponda;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+V. Si ninguna persona integrante del Consejo Distrital solicita intervenir en las rondas o una vez que se hayan agotado las mismas, se procederá a la votación del asunto o se dará por enterado el Consejo Distrital, según corresponda;
 
 VI. La Presidencia del Consejo Distrital y la Secretaria del Consejo podrán intervenir, en cada una de las rondas, en más de una ocasión y sin límite de tiempo, para responder preguntas, aclarar dudas o hacer precisiones sobre el asunto que se esté tratando; y
 
-VII. La Presidencia del Consejo Distrital, las y los Consejeros Distritales podrán intervenir para razonar el sentido de su voto, sin exceder de tres minutos cada una/o.
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-Se entenderá por razonamiento de sentido del voto, el conjunto de argumentos expresados de manera verbal por la Presidencia del Consejo Distrital o las y los Consejeros Distritales, mediante los cuales den a conocer los motivos y razones del sentido de su decisión, respecto de un punto del orden del día.
+VII. La Presidencia del Consejo Distrital, las personas Consejeras Distritales podrán intervenir para razonar el sentido de su voto, sin exceder de tres minutos cada una/o.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, G.O. 6 DE ENERO DE 2021]</small>
+
+Se entenderá por razonamiento de sentido del voto, el conjunto de argumentos expresados de manera verbal por la Presidencia del Consejo Distrital o las personas Consejeras Distritales, mediante los cuales den a conocer los motivos y razones del sentido de su decisión, respecto de un punto del orden del día.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 26.
 
-Durante la segunda y tercera rondas, quienes integran el Consejo Distrital podrán solicitar el uso de la palabra a la Presidencia del Consejo Distrital para responder a alusiones personales por una sola vez en cada ronda. De ser el caso, la Presidencia del Consejo Distrital, al final de la intervención de cada orador/a, otorgará la palabra hasta por un minuto para tales efectos.
+Durante la segunda y tercera rondas, quienes integran el Consejo Distrital podrán solicitar el uso de la palabra a la Presidencia del Consejo Distrital para responder a alusiones personales por una sola vez en cada ronda. De ser el caso, la Presidencia del Consejo Distrital, al final de la intervención de cada persona oradora, otorgará la palabra hasta por un minuto para tales efectos.
 
-Para los efectos de este Reglamento, se entenderá por alusión personal, cualquier referencia directa a un/a integrante del Consejo Distrital o a su partido político o candidatura sin partido, respecto de sus opiniones expresadas durante el desarrollo de la discusión. No estará permitida la alusión sobre alusión.
+Para los efectos de este Reglamento, se entenderá por alusión personal, cualquier referencia directa a una persona integrante del Consejo Distrital o a su partido político o candidatura sin partido, respecto de sus opiniones expresadas durante el desarrollo de la discusión. No estará permitida la alusión sobre alusión.
 
-Sin perjuicio de lo establecido en el párrafo anterior, en el curso de las deliberaciones, las y los integrantes del Consejo Distrital se abstendrán de entablar polémicas o debates en forma de diálogo con otra persona integrante del Consejo Distrital, así como de realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos agendados en el orden del día que, en su caso, se discutan. En dicho supuesto, la Presidencia del Consejo Distrital podrá interrumpir las manifestaciones de quien cometa las referidas conductas, con el objeto de conminarlo a que se conduzca en los términos previstos en el Reglamento.
+Sin perjuicio de lo establecido en el párrafo anterior, en el curso de las deliberaciones, las personas integrantes del Consejo Distrital se abstendrán de entablar polémicas o debates en forma de diálogo con otra persona integrante del Consejo Distrital, así como de realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos agendados en el orden del día que, en su caso, se discutan. En dicho supuesto, la Presidencia del Consejo Distrital podrá interrumpir las manifestaciones de quien cometa las referidas conductas, con el objeto de conminarlo a que se conduzca en los términos previstos en el Reglamento.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 27.
 
-Todas las sesiones de los Consejos Distritales serán públicas. Las y los asistentes deberán guardar orden en el recinto donde se celebren, permanecer en silencio y abstenerse de realizar cualquier manifestación.
+Todas las sesiones de los Consejos Distritales serán públicas. Las personas asistentes deberán guardar orden durante el desarrollo de la sesión, permanecer en silencio y abstenerse de realizar cualquier manifestación.
 
 ###### Artículo 28.
 
@@ -590,7 +776,9 @@ Para garantizar el correcto desarrollo de las sesiones, de ser necesario, la Pre
 
 I. Exhortar a guardar el orden;
 
-II. Invitar a abandonar la sala a quienes no formen parte del Consejo Distrital; y
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+II. Invitar a abandonar la sesión a quienes no formen parte del Consejo Distrital; y
 
 III. Solicitar el auxilio de la fuerza pública para expulsar del local donde sesione el Consejo Distrital a quien haya alterado el orden o solicitar sea remitido a las autoridades competentes.
 
@@ -600,35 +788,51 @@ III. Solicitar el auxilio de la fuerza pública para expulsar del local donde se
 
 Los acuerdos y, en su caso, resoluciones de los Consejos Distritales se aprobarán por mayoría de votos de sus integrantes presentes con derecho a ello.
 
-Las y los Consejeros Distritales votarán levantando la mano para expresar el sentido de su decisión. En caso de empate, la Presidencia del Consejo Distrital tendrá voto de calidad.
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
-La votación se tomará en el orden siguiente: se contarán los votos a favor, en seguida los votos en contra. Cuando no haya unanimidad se asentará en el acta de la sesión el sentido del voto de las y los Consejeros Distritales.
+Las personas Consejeras Distritales votarán, en sesión presencial, levantando la mano para expresar el sentido de su decisión. Cuando se celebren sesiones virtuales o mixtas, la votación se realizará de manera nominal. En caso de empate, la Presidencia del Consejo Distrital tendrá voto de calidad.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
+La votación se tomará en el orden siguiente: se contarán los votos a favor, en seguida los votos en contra. Cuando no haya unanimidad se asentará en el acta de la sesión el sentido del voto de las personas Consejeras Distritales.
 
 Una vez iniciado el proceso de votación, la Presidencia del Consejo Distrital no podrá conceder el uso de la palabra para continuar con la discusión del asunto, salvo que se solicite alguna moción de orden exclusivamente para aclaración del procedimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 30.
 
-En ningún caso las y los Consejeros Distritales se abstendrán de votar, salvo que exista algún impedimento que justifique la excusa de alguno de los integrantes del Consejo Distrital para intervenir, en cualquier forma, en la atención, tramitación o resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar beneficio para sí, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, parientes civiles, para terceros con los que tengan relaciones profesionales, laborales o de negocios, para socios o sociedades de las que la persona servidora pública o las personas antes referidas formen o hayan formado parte.
+En ningún caso las personas Consejeras Distritales se abstendrán de votar, salvo que exista algún impedimento que justifique la excusa de alguno de los integrantes del Consejo Distrital para intervenir, en cualquier forma, en la atención, tramitación o resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar beneficio para sí, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, parientes civiles, para terceros con los que tengan relaciones profesionales, laborales o de negocios, para socios o sociedades de las que la persona servidora pública o las personas antes referidas formen o hayan formado parte.
 
-Cuando la Consejera o el Consejero Presidente Distrital o cualquiera de las Consejeras o los Consejeros Distritales se encuentren en algunos de los supuestos enunciados en el párrafo anterior deberá excusarse.
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
+Cuando la Presidencia del Consejo Distrital o cualquiera de las personas Consejeras Distritales se encuentren en algunos de los supuestos enunciados en el párrafo anterior deberá excusarse.
 
 Para el conocimiento y la calificación de la excusa, se observarán las reglas particulares siguientes:
 
-a) La Consejera o Consejero Distrital que estime tener algún impedimento deberá presentar a la Consejera Presidenta o al Consejero Presidente Distrital, de manera previa al inicio de la discusión del punto correspondiente, un escrito en el cual exponga las consideraciones fácticas o legales por las que no puede conocer el asunto, y
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
-b) En caso de tratarse de la Consejera o Consejero Presidente Distrital, deberá manifestarlo en la sesión del Consejo Distrital, previamente al momento de iniciar la discusión del punto particular.
+a) La persona Consejera Distrital que estime tener algún impedimento deberá presentar un escrito físico o en formato digital, en este último caso al correo electrónico de la Presidencia del Consejo Distrital, de manera previa al inicio de la discusión del punto correspondiente, en el cual exponga las consideraciones fácticas o legales por las que no puede conocer el asunto, y
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
+b) En caso de tratarse de la Presidencia del Consejo Distrital, deberá manifestarlo en la sesión del Consejo Distrital, previamente al momento de iniciar la discusión del punto particular.
 
 El Consejo Distrital deberá resolver de inmediato respecto de la procedencia de la excusa que se haga valer, de forma previa al inicio de la discusión del punto correspondiente.
 
 #### SECCIÓN QUINTA. DE LA SUSPENSIÓN DE LAS SESIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 31.
 
-La Consejera o Consejero Presidente Distrital podrá declarar la suspensión de la sesión, si se actualiza alguna o algunas de las causas siguientes:
+La Presidencia del Consejo Distrital podrá declarar la suspensión de la sesión, si se actualiza alguna o algunas de las causas siguientes:
 
 I. Cuando por la ausencia de alguna persona integrante del Consejo Distrital se interrumpa el quórum;
 
-II. Cuando no existan las condiciones que garanticen el buen desarrollo de la sesión, la libre expresión de las ideas o la seguridad de las y los integrantes del Consejo Distrital;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+II. Cuando no existan las condiciones que garanticen el buen desarrollo de la sesión, la libre expresión de las ideas o la seguridad de las personas integrantes del Consejo Distrital;
 
 III. Cuando exista alteración del orden;
 
@@ -646,51 +850,83 @@ La suspensión podrá tener los efectos de dar por concluida la sesión de que s
 
 #### SECCIÓN PRIMERA. DE LAS ACTAS DE LAS SESIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 33.
 
-De cada sesión de Consejo Distrital se levantará un acta que contendrá, cuando menos, los datos de identificación de la sesión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones, el sentido del voto de las y los Consejeros Distritales y los acuerdos aprobados. Los proyectos de acta se elaborarán con base en las grabaciones de audio que al efecto se recaben.
+De cada sesión de Consejo Distrital se levantará un acta que contendrá, cuando menos, los datos de identificación de la sesión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones, el sentido del voto de las personas Consejeras Distritales y los acuerdos aprobados. Los proyectos de acta se elaborarán con base en las grabaciones de audio que al efecto se recaben.
 
-La Secretaría del Consejo elaborará el proyecto de acta de cada sesión, mismo que irá sin firmas al calce, y únicamente deberá contener antefirma de validación del titular de la Secretaría, colocada en el margen izquierdo de cada hoja, y lo integrará a la documentación que será enviada junto con la convocatoria a las y los integrantes del Consejo Distrital.
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
+La Secretaría del Consejo elaborará el proyecto de acta de cada sesión, mismo que irá sin firmas al calce, y únicamente deberá contener antefirma de validación del titular de la Secretaría, colocada en el margen izquierdo de cada hoja, y lo integrará a la documentación que será enviada junto con la convocatoria a las personas integrantes del Consejo Distrital.
 
 Los formatos y guías para la elaboración de las actas serán preparados por la Secretaría Ejecutiva con el apoyo de la Dirección de Organización.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 34.
 
-El proyecto de acta deberá someterse para su aprobación en la siguiente sesión ordinaria que corresponda, salvo cuando la misma se realice en días consecutivos o se refiera a la realización de los cómputos, casos en los que será enviada junto con la convocatoria a las y los integrantes del Consejo Distrital para la siguiente sesión.
+El proyecto de acta deberá someterse para su aprobación en la siguiente sesión ordinaria que corresponda, salvo cuando la misma se realice en días consecutivos o se refiera a la realización de los cómputos, casos en los que será enviada junto con la convocatoria a las personas integrantes del Consejo Distrital para la siguiente sesión.
 
-El acta aprobada deberá incluir, en su caso, las modificaciones que el Consejo Distrital haya aprobado y será firmada al calce y al margen derecho, exclusivamente, por la Consejera Presidenta o el Consejero Presidente Distrital y por la Secretaria o Secretario del Consejo, presentes al momento de su aprobación.
+El acta aprobada deberá incluir, en su caso, las modificaciones que el Consejo Distrital haya aprobado y será firmada al calce y al margen derecho, exclusivamente, por la Presidencia del Consejo Distrital y por la Secretaría del Consejo Distrital, presentes al momento de su aprobación.
 
-Las y los integrantes del Consejo Distrital podrán solicitar por escrito, dirigido a la Presidencia del Consejo Distrital, copias simples o certificadas de las actas aprobadas.
+Respecto a la firma de las actas derivadas de sesiones virtuales, se realizarán a través de las herramientas tecnológicas autorizadas por el Instituto Electoral, o, en su caso, cuando la circunstancias que dieron origen a que la sesión se desarrollará bajo esta modalidad permitan que la firma se haga de forma física.
+
+Asimismo, las actas de las sesiones mixtas serán firmadas de manera autógrafa por los asistentes al recinto y a través del mecanismo indicado en (sic) párrafo que antecede, por quienes asistieron de manera virtual.
+
+Las personas integrantes del Consejo Distrital podrán solicitar por escrito, dirigido a la Presidencia del Consejo Distrital, copias simples o certificadas de las actas aprobadas.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 35.
 
-Dentro de las cuarenta y ocho horas siguientes a la sesión en la que se haya aprobado el acta, contadas de momento a momento, tomando como referencia la hora de cierre, la Secretaría del Consejo deberá remitir, sin anexos, copia certificada de la misma a la Secretaria Ejecutiva, a través de la Dirección de Organización, conservando el original, con sus anexos originales, en el archivo Distrital. En el supuesto de que con posterioridad la Secretaria Ejecutiva requiera los acuerdos aprobados, deberán remitirse de manera inmediata.
+Dentro de las cuarenta y ocho horas siguientes a la sesión en la que se haya aprobado el acta, contadas de momento a momento, tomando como referencia la hora de cierre, la Secretaría del Consejo deberá remitir, sin anexos, copia certificada de la misma a la Secretaria Ejecutiva, a través de la Dirección de Organización, conservando el original, con sus anexos originales, en el archivo Distrital. En el supuesto de que con posterioridad la Secretaria Ejecutiva requiera los acuerdos aprobados, deberán remitirse de manera inmediata. Cuando sesione de manera virtual o mixta, dicha documentación será remitida a la Secretaría Ejecutiva a través de correo electrónico institucional o mediante las herramientas tecnológicas con las que disponga el Instituto Electoral.
 
 #### SECCIÓN SEGUNDA. DE LA PUBLICACIÓN DE LOS ACUERDOS Y RESOLUCIONES
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 36.
 
-Todos los acuerdos y, en su caso, resoluciones que emitan los Consejos Distritales entrarán en vigor al momento de su aprobación y publicación, excepto cuando el Consejo Distrital respectivo determine otro plazo con base en las circunstancias que concurran en el caso concreto. Asimismo, serán publicados en los estrados de la respectiva sede Distrital una vez finalizada la sesión, y deberán permanecer en los mismos durante el término dentro del cual puedan ser impugnados, salvo disposición en contrario.
+Todos los acuerdos y, en su caso, resoluciones que emitan los Consejos Distritales entrarán en vigor al momento de su aprobación y publicación, excepto cuando el Consejo Distrital respectivo determine otro plazo con base en las circunstancias que concurran en el caso concreto. Asimismo, serán publicados en los estrados de la respectiva sede Distrital y en los estrados electrónicos del sitio institucional de internet, una vez finalizada la sesión, y deberán permanecer en los mismos durante el término dentro del cual puedan ser impugnados, salvo disposición en contrario.
 
 ### CAPÍTULO VI. DE LAS REUNIONES Y RECORRIDOS DE TRABAJO
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 37.
 
-Las y los integrantes de los Consejos Distritales realizarán las reuniones y recorridos de trabajo derivados de las actividades relacionadas con el proceso electoral que así lo requieran. Para los efectos anteriores, la Presidencia convocará por escrito a las y los integrantes del Consejo Distrital.
+Las personas integrantes de los Consejos Distritales realizarán las reuniones y recorridos de trabajo derivados de las actividades relacionadas con el proceso electoral que así lo requieran. Para los efectos anteriores, la Presidencia convocará por escrito o de manera digital a las personas integrantes del Consejo Distrital.
 
-Las convocatorias a las reuniones y recorridos de trabajo deberán contener el día, la hora y el lugar en el que se deban celebrar, así como el asunto que las motiva.
+Las convocatorias a las reuniones y recorridos de trabajo deberán contener el día, la hora y el lugar en el que se deban celebrar, así como el asunto que las motiva. Únicamente por lo que respecta a las reuniones de trabajo, adicionalmente se deberá precisar si se realizará de manera presencial, virtual o, en su caso mixta, señalando la plataforma virtual correspondiente.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 38.
 
-Las y los integrantes del Servicio Profesional Electoral Nacional, con adscripción a la Dirección Distrital, podrán estar presentes y hacer uso de la palabra durante las Reuniones de trabajo y recorridos, para rendir los informes o aclarar los asuntos que así lo requieran.
+Las personas integrantes del Servicio Profesional Electoral Nacional, con adscripción a la Dirección Distrital, podrán estar presentes y hacer uso de la palabra durante las Reuniones de trabajo y recorridos, para rendir los informes o aclarar los asuntos que así lo requieran.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 39.
 
-Las y los integrantes del Consejo Distrital y demás participantes deberán conducirse en todo momento con respeto durante el desarrollo de las reuniones de trabajo y recorridos.
+Las personas integrantes del Consejo Distrital y demás participantes deberán conducirse en todo momento con respeto durante el desarrollo de las reuniones de trabajo y recorridos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 40.
 
-De las reuniones y recorridos de trabajo se elaborará una minuta que contendrá los datos de la reunión, la lista de asistencia y los asuntos tratados. Las minutas serán firmadas por la Consejera o el Consejero Presidente Distrital, por la Secretaria o Secretario del Consejo y por las demás personas asistentes que así lo decidan.
+De las reuniones y recorridos de trabajo se elaborará una minuta que contendrá los datos de la reunión, la lista de asistencia y los asuntos tratados. Las minutas serán firmadas por la Presidencia del Consejo Distrital, por la Secretaría del Consejo Distrital y por las demás personas asistentes que así lo decidan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 6 DE ENERO DE 2021)</small>
+
+Respecto a la firma de las minutas derivadas de las reuniones de trabajo virtuales, se realizarán a través de las herramientas tecnológicas autorizadas por el Instituto Electoral, o cuando las circunstancias que dieron origen a las mismas lo permitan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 6 DE ENERO DE 2021)</small>
+
+Asimismo, las minutas de las reuniones de trabajo mixtas serán firmadas de manera autógrafa por los asistentes al recinto y a través del mecanismo indicado en párrafo que antecede, por quienes asistieron de manera virtual.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 6 DE ENERO DE 2021)</small>
 
 Los formatos y guías para la elaboración de las minutas serán elaborados por la Secretaría Ejecutiva con el apoyo de la Dirección de Organización.
 
@@ -706,19 +942,27 @@ DE SU INTEGRACIÓN Y FUNCIONAMIENTO.
 
 Cuando un Consejo Distrital decida integrar Comisiones Distritales, las mismas serán creadas de conformidad con lo dispuesto en el Código y demás normativa que rige al Instituto Electoral, y tendrán las atribuciones establecidas en dichos ordenamientos y en este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 42.
 
-Las Comisiones Distritales son instancias colegiadas, conformadas por tres Consejeras y/o Consejeros Distritales con derecho a voz y voto, de los cuales uno de ellos será quien la presida, de conformidad con el acuerdo que apruebe el Consejo Distrital correspondiente.
+Las Comisiones Distritales son instancias colegiadas, conformadas por tres personas Consejeras Distritales con derecho a voz y voto, de los cuales uno de ellos será quien la presida, de conformidad con el acuerdo que apruebe el Consejo Distrital correspondiente.
 
-Cuando los trabajos de las Comisiones Distritales así lo ameriten, éstas podrán designar a la persona que desempeñe la Secretaría Técnica de la Comisión, persona que será elegida de entre las Consejeras y los Consejeros Distritales que la integren.
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
+Cuando los trabajos de las Comisiones Distritales así lo ameriten, éstas podrán designar a la persona que desempeñe la Secretaría Técnica de la Comisión, persona que será elegida de entre las personas Consejeras Distritales que la integren.
 
 En todos los asuntos que se les encomienden, las Comisiones Distritales deberán rendir un informe acerca de los trabajos que realicen. Para la creación de estas Comisiones, será necesario que el Consejo Distrital lo apruebe mediante acuerdo.
 
 Los acuerdos y, en su caso, resoluciones de las Comisiones Distritales se aprobarán por mayoría de votos de sus integrantes presentes con derecho a ello.
 
-Las y los Consejeros Distritales votarán levantando la mano para expresar el sentido de su decisión. En caso de empate, la Presidencia de la Comisión Distrital tendrá voto de calidad.
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
-Las y los Consejeras y Consejeros Presidentes Distritales, las Consejeras y Consejeros Distritales, la persona que desempeñe la Secretaría Técnica de los Consejos, las y los Representantes distritales de partido y de candidaturas sin partido, así como el personal del Servicio Profesional Electoral Nacional podrán acudir a las sesiones de las Comisiones Distritales de su respectivo Consejo Distrital, con derecho a voz.
+Las personas Consejeras Distritales votarán levantando la mano para expresar el sentido de su decisión. En caso de empate, la Presidencia de la Comisión Distrital tendrá voto de calidad. Tratándose de sesiones virtuales o mixtas, se realizará mediante votación nominal o a través de la herramienta tecnológica que tengan a su alcance para expresar el sentido de su decisión.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
+Las Presidencias de los Consejos Distritales, las personas Consejeras Distritales, la Secretaría Técnica de los Consejos, las personas representantes de los partidos políticos y de candidaturas sin partido, así como el personal del Servicio Profesional Electoral Nacional podrán acudir a las sesiones de las Comisiones Distritales de su respectivo Consejo Distrital, con derecho a voz.
 
 ###### Artículo 43.
 
@@ -732,9 +976,13 @@ II. De Organización Electoral, y
 
 III. Las que se integren para la preparación y el seguimiento de la jornada electoral durante la sesión del Consejo Distrital correspondiente, las cuales dejarán de existir en el plazo señalado en el respectivo Acuerdo de creación.
 
-Las Comisiones Distritales, con excepción de las previstas en la fracción III del presente artículo, podrán conformarse con menos de tres Consejeras y/o Consejeros Distritales, cuando se requieran atender, de manera simultánea, los incidentes relevantes que se presenten en las casillas. Estas Comisiones cesarán una vez concluido el proceso electoral en el respectivo Distrito o cuando así lo acuerde el Consejo Distrital.
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
-Por acuerdo del Consejo Distrital podrán integrarse a las citadas Comisiones de preparación y seguimiento, las y los representantes distritales de partido o de candidatura sin partido, y personal del Servicio Profesional Electoral Nacional, adscrito a la respectiva Dirección Distrital.
+Las Comisiones Distritales, con excepción de las previstas en la fracción III del presente artículo, podrán conformarse con menos de tres personas Consejeras Distritales, cuando se requieran atender, de manera simultánea, los incidentes relevantes que se presenten en las casillas. Estas Comisiones cesarán una vez concluido el proceso electoral en el respectivo Distrito o cuando así lo acuerde el Consejo Distrital.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
+Por acuerdo del Consejo Distrital podrán integrarse a las citadas Comisiones de preparación y seguimiento, las personas representantes de los partidos políticos y de candidaturas sin partido, y personal del Servicio Profesional Electoral Nacional, adscrito a la respectiva Dirección Distrital.
 
 En la creación de las Comisiones Distritales para la preparación y el seguimiento de la jornada electoral, será necesario contar con un acuerdo por escrito, en el que se señale, entre otras cosas, la vigencia, el objeto y la integración de dichas comisiones.
 
@@ -796,25 +1044,35 @@ La Presidencia de la Comisión Distrital convocará por escrito a sus integrante
 
 La Presidencia de la Comisión Distrital deberá informar por escrito a la Presidencia del Consejo Distrital, dentro de los mismos plazos, para que tome las medidas necesarias que garanticen el adecuado desarrollo de las sesiones.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 50.
 
-El orden del día de las sesiones ordinarias incluirá asuntos generales; en este punto, las y los asistentes a la sesión podrán plantear y exponer los temas que sean competencia de la misma. En asuntos generales no se tomarán acuerdos.
+El orden del día de las sesiones ordinarias incluirá asuntos generales; en este punto, las personas asistentes a la sesión podrán plantear y exponer los temas que sean competencia de la misma. En asuntos generales no se tomarán acuerdos.
 
 ###### Artículo 51.
 
 Las sesiones extraordinarias tendrán por objeto tratar asuntos específicos y en el orden del día de dichas sesiones, no incluirá el punto de asuntos generales.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 52.
 
-La convocatoria deberá contener el lugar, el día y la hora en que deba celebrarse la sesión, la mención de su carácter ordinario o extraordinario y el proyecto del orden del día para ser desahogado. Además de lo anterior, se acompañarán los documentos y anexos necesarios para la discusión de los asuntos incluidos en el orden del día. Los documentos y anexos se distribuirán preferentemente en medios digitales, no obstante podrán distribuirse, en medio electrónico o a través de la dirección de correo electrónico proporcionada de manera previa y por escrito a la Secretaría del Consejo Distrital.
+La convocatoria deberá contener el lugar, el día y la hora en que deba celebrarse la sesión, señalando si se trata de sesión presencial, virtual o mixta, en cuyo caso se deberá mencionar la plataforma virtual correspondiente, la mención de su carácter ordinario o extraordinario y el proyecto del orden del día para ser desahogado. Además de lo anterior, se acompañarán los documentos y anexos necesarios para la discusión de los asuntos incluidos en el orden del día. Los documentos y anexos se distribuirán preferentemente en medios digitales, no obstante, podrán distribuirse en medio electrónico o a través de la dirección de correo electrónico proporcionada de manera previa y por escrito a la Secretaría del Consejo Distrital.
 
 ###### Artículo 53.
 
 La Presidencia de la Comisión Distrital deberá remitir a la Presidencia del Consejo Distrital, con veinticuatro horas de anticipación al inicio de cada sesión, copia de la convocatoria y de los documentos que, en su caso, se anexen; quien a su vez deberá enviar una nota informativa a la Secretaría Ejecutiva a través de la Dirección de Organización.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 54.
 
-Las Comisiones Distritales sesionarán dentro del domicilio oficial del Consejo Distrital, en el espacio físico que determine la Presidencia del Consejo Distrital. Sólo por causas de fuerza mayor o caso fortuito que, a juicio de la Presidencia del Consejo Distrital, no garanticen el buen desarrollo y la libre participación de sus integrantes, podrá sesionarse en otro lugar dentro del territorio del distrito electoral correspondiente.
+Las Comisiones Distritales sesionarán dentro del domicilio oficial del Consejo Distrital. Cuando a juicio de la Presidencia de la Comisión Distrital, no se garantice el buen desarrollo y la libre participación de sus integrantes, previa solicitud y autorización de la Secretaría Ejecutiva, a través de la Dirección de Organización, podrá sesionarse en otro lugar dentro del territorio del distrito electoral correspondiente, en las instalaciones de las oficinas centrales del Instituto Electoral, o sesionar de manera virtual o mixta.
+
+Si durante la sesión se presenta un caso fortuito o de fuerza mayor que impida el correcto desarrollo de la misma, la Comisión Distrital definirá si continúan la misma en una sede alterna, de manera virtual o mixta.
+
+De actualizarse el supuesto anterior, la Presidencia de la Comisión Distrital lo informará a la Presidencia del Consejo Distrital, quien a su vez informará de inmediato a la Secretaría Ejecutiva, a través de la Dirección de Organización.
 
 ###### Artículo 55.
 
@@ -828,11 +1086,15 @@ Las Comisiones Distritales sesionarán válidamente con la presencia de dos de s
 
 De no reunirse el quórum establecido en el artículo anterior, la Presidencia de la Comisión Distrital convocará a otra sesión que deberá celebrarse dentro de las cuarenta y ocho horas siguientes.
 
-La Presidencia de la Comisión Distrital informará por escrito a la Presidencia del Consejo Distrital, dentro de las siguientes veinticuatro horas, la cancelación del desahogo de la sesión convocada, quien deberá comunicarlo de, manera inmediata a la Secretaría Ejecutiva a través de la Dirección de Organización.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 6 DE ENERO DE 2021)</small>
+
+La Presidencia de la Comisión Distrital informará por escrito o, de manera digital, a través de los correos electrónicos proporcionados, a la Presidencia del Consejo Distrital, dentro de las siguientes veinticuatro horas, la cancelación del desahogo de la sesión convocada, quien deberá comunicarlo de manera inmediata a la Secretaría Ejecutiva a través de la Dirección de Organización.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 58.
 
-En el supuesto de que la Presidencia de la Comisión Distrital se ausente temporal o definitivamente de la sesión, ésta será presidida por la o el Consejero Distrital que ésta misma designe para esa única ocasión, siempre y cuando exista quórum para sesionar.
+En el supuesto de que la Presidencia de la Comisión Distrital se ausente temporal o definitivamente de la sesión, esta será presidida por la persona Consejera Distrital que aquella designe para esa única ocasión, siempre y cuando exista quórum para sesionar.
 
 ###### Artículo 59.
 
@@ -842,41 +1104,55 @@ Si una vez iniciada la sesión sobreviniera falta de quórum, la sesión deberá
 
 Durante el desarrollo de las sesiones de las Comisiones Distritales, los asuntos a tratar se desahogarán de conformidad con el orden del día y se sujetarán, en lo conducente, a lo previsto en el Capítulo IV del Título Segundo de este Reglamento
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 61.
 
-Los informes serán elaborados por la Presidencia de la Comisión Distrital, quien los someterá a la aprobación de los integrantes presentes durante la sesión respectiva.
+Los informes serán elaborados por la Presidencia de la Comisión Distrital, quien los someterá a la aprobación de las personas integrantes presentes durante la sesión respectiva.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 62.
 
-Dentro de las veinticuatro horas siguientes al término de la sesión, la Presidencia de la Comisión Distrital deberá notificar por escrito a la Presidencia del Consejo Distrital los asuntos tratados y, en su caso, deberá entregarle copia del informe o informes aprobados.
+Dentro de las veinticuatro horas siguientes al término de la sesión, la Presidencia de la Comisión Distrital deberá notificar a la Presidencia del Consejo Distrital por escrito o de manera digital, a través de los correos electrónicos proporcionados, los asuntos tratados y, en su caso, deberá entregarle copia del informe o informes aprobados.
 
-La Presidencia del Consejo Distrital enviará a la Secretaría Ejecutiva, de manera inmediata. Una nota informativa a través de la Dirección de Organización, cuyo contenido, temas o puntos a informar serán determinados por la o el titular de esta última.
+La Presidencia del Consejo Distrital enviará a la Secretaría Ejecutiva, de manera inmediata, una nota informativa a través de la Dirección de Organización, cuyo contenido, temas o puntos a informar serán determinados por la persona titular de esta última.
 
 ###### Artículo 63.
 
 La Presidencia de la Comisión Distrital elaborará un proyecto de minuta por cada sesión celebrada, la cual será presentada a sus integrantes para recibir sus observaciones en la sesión ordinaria siguiente.
 
-Las minutas contendrán los datos de la sesión, la lista de asistencia y los asuntos tratados y una vez aprobadas, serán firmadas al calce y al margen por las y los integrantes de la respectiva Comisión Distrital.
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
+Las minutas contendrán los datos de la sesión, la lista de asistencia y los asuntos tratados y, una vez aprobadas, serán firmadas al calce y al margen por las personas integrantes de la respectiva Comisión Distrital.
 
 Los formatos y guías para la elaboración de las minutas serán elaborados por la Secretaría Ejecutiva con el apoyo de la Dirección (sic) Organización.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 64.
 
-La minuta a que se refiere el artículo anterior deberá ser entregada a la Presidencia del Consejo Distrital dentro de un plazo de cuarenta y ocho horas, contadas (sic) partir de la conclusión de la sesión correspondiente, quien dentro de las veinticuatro horas siguientes a que la reciba, deberá remitir una nota informativa a la Secretaría Ejecutiva a través de la Dirección de Organización, cuyos temas o puntos a informar, serán determinados por la persona titular de esta última.
+La minuta a que se refiere el artículo anterior deberá ser entregada a la Presidencia del Consejo Distrital dentro de un plazo de cuarenta y ocho horas, contadas partir de la conclusión de la sesión correspondiente, quien dentro de las veinticuatro horas siguientes a que la reciba, deberá remitir de manera física, o bien, de manera digital, a través de los correos electrónicos proporcionados, una nota informativa a la Secretaría Ejecutiva a través de la Dirección de Organización, cuyos temas o puntos a informar, serán determinados por la persona titular de esta última.
 
-## TÍTULO QUINTO (SIC)
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
-FALTAS Y SANCIONES DE LOS CONSEJEROS DISTRITALES Y DEL PROCEDIMIENTO PARA LA IMPOSICIÓN DE SANCIONES.
+## TÍTULO CUARTO. FALTAS Y SANCIONES DE LAS PERSONAS CONSEJERAS DISTRITALES Y DEL PROCEDIMIENTO PARA LA IMPOSICIÓN DE SANCIONES
 
-### CAPÍTULO I. FALTAS Y SANCIONES DE LOS CONSEJEROS DISTRITALES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE ENERO DE 2021)</small>
+
+### CAPÍTULO I. FALTAS Y SANCIONES DE LAS PERSONAS CONSEJERAS DISTRITALES
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 65.
 
-Son sancionables las acciones u omisiones establecidas en los artículos 70 y 71 de este Reglamento llevadas a cabo por cualquiera de las Consejeras y Consejeros Distritales.
+Son sancionables las acciones u omisiones establecidas en los artículos 70 y 71 de este Reglamento llevadas a cabo por cualquiera de las personas Consejeras Distritales.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 66.
 
-Las Consejeras y los Consejeros Distritales que incurran en responsabilidad en los términos establecidos por este Reglamento se harán acreedoras o acreedores a las sanciones previstas en el mismo, sin menoscabo de lo que establezcan otros ordenamientos aplicables.
+Las personas Consejeras Distritales que incurran en responsabilidad en los términos establecidos por este Reglamento se harán acreedoras a las sanciones previstas en el mismo, sin menoscabo de lo que establezcan otros ordenamientos aplicables.
 
 ###### Artículo 67.
 
@@ -896,9 +1172,11 @@ II. Las circunstancias de tiempo, modo y lugar del hecho realizado; y
 
 III. La forma y el grado de intervención de la persona infractora en la comisión de la falta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 70.
 
-Se considerarán faltas leves de las Consejeras y los Consejeras Distritales, en los términos del presente Reglamento, las siguientes:
+Se considerarán faltas leves de las personas Consejeras Distritales, en los términos del presente Reglamento, las siguientes:
 
 I. Negarse a suplir a la Presidencia del Consejo Distrital en sus ausencias momentáneas, después de haber sido designada o designado por esta;
 
@@ -910,17 +1188,23 @@ IV. Ausentarse, sin causa justificada, del recorrido de lugares para ubicar las 
 
 V. Las demás que señale el Código, el Reglamento Interior, el Reglamento y otros ordenamientos que rigen la función del Instituto Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 71.
 
-Se considerarán faltas graves de las y los Consejeros Distritales, en los términos del presente Reglamento, las siguientes:
+Se considerarán faltas graves de las personas Consejeras Distritales, en los términos del presente Reglamento, las siguientes:
 
 I. Incumplir con las disposiciones u obligaciones que les sean aplicables en el ámbito de sus atribuciones, establecidas en la Constitución Federal, la Constitución Local, el Código, el Reglamento Interior, el Reglamento y demás normativa que rige al Instituto Electoral;
 
 II. Incumplir los lineamientos, acuerdos, procedimientos, programas y demás normativa o disposiciones emitidas por el Consejo General o por la Secretaría Ejecutiva, que les sean aplicables en el ámbito de sus atribuciones;
 
-III. Realizar funciones electorales y trabajos partidistas, al mismo tiempo que desempeñe su encargo como Consejera o Consejero Distrital;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-IV. Hacer proselitismo político a favor de algún partido político o candidatura sin partido o fórmula de candidaturas durante el periodo que desempeñe su encargo como Consejera o Consejero Distrital;
+III. Realizar funciones electorales y trabajos partidistas, al mismo tiempo que desempeñe su encargo como persona Consejera Distrital;
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+IV. Hacer proselitismo político a favor de algún partido político o candidatura sin partido o fórmula de candidaturas durante el periodo que desempeñe su encargo como persona Consejera Distrital;
 
 V. Negarse a participar en el procedimiento de recepción, conteo, sellado y agrupado de boletas electorales o dejar de asistir al mismo, sin causa justificada, a juicio de la Presidencia del Consejo Distrital;
 
@@ -934,19 +1218,29 @@ IX. Negarse a colaborar en la recepción de los paquetes electorales en la sede 
 
 X. Impedir u obstaculizar la realización del cómputo o la entrega de constancias de mayoría o declaración de validez en los procesos electorales;
 
-XI. Dejar de participar en el Programa de Capacitación de Consejeras y Consejeros Distritales;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+XI. Dejar de participar en el Programa de Capacitación de las personas Consejeras Distritales;
 
 XII. Negarse a participar o dejar de asistir por más de una vez a los eventos del Consejo Distrital, como son: reuniones de trabajo, recorridos, estrategias de supervisión, y demás actividades inherentes a su cargo, sin causa justificada ante la Presidencia del Consejo Distrital;
 
 XIII. Contravenir u obstaculizar el desarrollo de las actividades del Consejo Distrital;
 
-XIV. Dejar de cumplir con los requisitos para ser Consejera o Consejero Distrital, establecidos en el Código;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-XV. Obstaculizar el desempeño de las actividades de las y los representantes de los partidos políticos y de las candidatas y candidatos sin partido ante las Mesas Directivas de Casilla;
+XIV. Dejar de cumplir con los requisitos para ser persona Consejera Distrital, establecidos en el Código;
 
-XVI. Obstaculizar el desempeño de las actividades de las observadoras y los observadores electorales;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-XVII. Obstaculizar o intervenir en el desempeño de las actividades de las funcionarias y los funcionarios de Mesas Directivas de Casilla;
+XV. Obstaculizar el desempeño de las actividades de las personas representantes de los partidos políticos y de candidaturas sin partido ante las Mesas Directivas de Casilla;
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+XVI. Obstaculizar el desempeño de las actividades de las personas observadoras electorales;
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+XVII Obstaculizar o intervenir en el desempeño de las actividades de las personas funcionarias de Mesas Directivas de Casilla;
 
 XVIII. Obstaculizar o intervenir en el desempeño de las actividades de capacitación u organización electoral que realicen las Direcciones Distritales, el Instituto Nacional o, en su caso, el Instituto Electoral;
 
@@ -962,29 +1256,45 @@ XXII. Las demás que señale el Consejo General, el Reglamento y otros ordenamie
 
 Para efectos del presente Reglamento son sanciones: la amonestación pública y la remoción.
 
-I. La amonestación pública es la llamada de atención enérgica por haber incurrido en una conducta indebida que impone por escrito el Consejo General a las Consejeras y los Consejeros Distritales; y
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-II. La remoción es la separación del cargo de las Consejeras y Consejeros Distritales, que impone el Consejo General.
+I. La amonestación pública es la llamada de atención enérgica por haber incurrido en una conducta indebida que impone por escrito el Consejo General a las personas Consejeras Distritales; y
 
-Para los efectos de su publicidad, las amonestaciones públicas deberán fijarse, durante el tiempo que determine la resolución respectiva, en los estrados de las oficinas centrales del Instituto Electoral y en los del Consejo Distrital de que se trate.
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+II. La remoción es la separación del cargo de las personas Consejeras Distritales, que impone el Consejo General.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
+Para los efectos de su publicidad, las amonestaciones públicas deberán fijarse, durante el tiempo que determine la resolución respectiva, en los estrados electrónicos y en los estrados de las oficinas centrales del Instituto Electoral y en los del Consejo Distrital de que se trate, una vez que la resolución sea firma (sic) o haya causado ejecutoria.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 73.
 
-Se sancionará con amonestación pública a la Consejera o Consejero Distrital que incurra en una falta leve.
+Se sancionará con amonestación pública a la persona Consejera Distrital que incurra en una falta leve.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 74.
 
-Se sancionará con la remoción de su encargo la Consejera o Consejero Distrital que incurra en una falta grave o sea reincidente de faltas leves.
+Se sancionará con la remoción de su encargo a la persona Consejera Distrital que incurra en una falta grave o sea reincidente de faltas leves.
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO PARA LA IMPOSICIÓN DE SANCIONES
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 75.
 
-El procedimiento para la imposición de sanciones consiste en la serie de actuaciones o diligencias sustanciadas que, relacionadas y ligadas entre sí, tienen como finalidad determinar la procedencia de sancionar a algún Consejero o Consejera Distrital.
+El procedimiento para la imposición de sanciones consiste en la serie de actuaciones o diligencias sustanciadas que, relacionadas y ligadas entre sí, tienen como finalidad determinar la procedencia de sancionar a alguna persona Consejera Distrital.
 
 ###### Artículo 76.
 
 Las actuaciones y diligencias del procedimiento se practicarán en términos de la Ley Procesal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 6 DE ENERO DE 2021)</small>
+
+Cuando por situaciones de caso fortuito o fuerza mayor, deban suspenderse las actividades presenciales dentro de las instalaciones del Instituto Electoral, previa declaración de la persona titular de la Secretaría Ejecutiva, se deberá ajustar temporalmente el procedimiento previsto en este Reglamento, haciendo uso de herramientas tecnológicas, a efecto de garantizar las formalidades esenciales del procedimiento, el derecho de audiencia y de una adecuada defensa de la persona probable responsable, salvaguardando siempre el debido proceso.
 
 ###### Artículo 77.
 
@@ -1002,41 +1312,63 @@ Por regla general, la legitimación para presentar las denuncias respectivas cor
 
 I. Las Presidencias de los Consejos Distritales;
 
-II. Las y los Consejeros Distritales;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-III. Los representantes distritales de partido con acreditación ante los Consejos Distritales; y
+II. Las personas Consejeras Distritales;
 
-IV. Los representantes de las candidaturas sin partido con acreditación ante los Consejos Distritales;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-Sin embargo, cuando sea así sea (sic) ordenado o solicitado por las autoridades jurisdiccionales, el Consejo General podrá ordenar a la Secretaría Ejecutiva presentar una denuncia en contra de una Consejera o un Consejero Distrital.
+III. Las personas representantes de los partidos políticos con acreditación ante los Consejos Distritales; y
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+IV. Las personas representantes de las candidaturas sin partido con acreditación ante los Consejos Distritales;
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
+Sin embargo, cuando sea ordenado o solicitado por las autoridades jurisdiccionales, el Consejo General podrá instruir a la Secretaría Ejecutiva presentar una denuncia en contra de una persona Consejera Distrital.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 80.
 
-El escrito de denuncia mediante el cual se hagan del conocimiento del Consejo General las presuntas irregularidades cometidas por alguna Consejera o algún Consejero Distrital y, en consecuencia, se solicite el inicio del procedimiento para la imposición de sanciones, deberá presentarse ante la oficina de la Presidencia o directamente en la Oficialía Electoral y de Partes del Instituto Electoral, dentro de los cuatro días hábiles siguientes, contados a partir de aquél en que se tenga conocimiento del hecho o hechos que constituyan la supuesta irregularidad; el escrito de denuncia deberá cumplir con lo siguiente:
+El escrito de denuncia mediante el cual se hagan del conocimiento del Consejo General las presuntas irregularidades cometidas por alguna persona Consejera Distrital y, en consecuencia, se solicite el inicio del procedimiento para la imposición de sanciones, deberá presentarse ante la oficina de la Presidencia o directamente en la Oficialía Electoral y de Partes del Instituto Electoral, dentro de los cuatro días hábiles siguientes, contados a partir de aquél en que se tenga conocimiento del hecho o hechos que constituyan la supuesta irregularidad; el escrito de denuncia deberá cumplir con lo siguiente:
 
 I. Estar dirigido al Instituto Electoral, al Consejo General o a la Presidencia del Consejo General con copia para la persona titular de la Secretaría Ejecutiva;
 
 II. Contener el nombre y apellidos del denunciante. En caso de que se trate de un partido político o candidatura sin partido se deberá indicar el nombre del mismo o, en su caso, la denominación de la misma;
 
-III. Señalar domicilio en la Ciudad de México para oír y recibir notificaciones y documentos y, en su caso, los nombres de las personas autorizadas para tales efectos. De no señalarse domicilio en la Ciudad de México, o de resultar erróneo o inexistente las notificaciones se realizarán por estrados;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
-IV. Señalar el nombre completo de la Consejera o Consejero Distrital probable responsable y el Consejo Distrital del que forma parte;
+III. Señalar domicilio en la Ciudad de México para oír y recibir notificaciones y documentos y, en su caso, los nombres de las personas autorizadas para tales efectos. De no señalarse domicilio en la Ciudad de México, o de resultar erróneo o inexistente, las notificaciones se realizarán por estrados electrónicos, estrados de Oficinas Centrales y del Órgano Desconcentrado correspondiente;
 
-V. Contener la narración de los supuestos hechos cometidos por la o el probable responsable que le consten a la parte denunciante, en los que funda su denuncia, así como la fecha en que tuvo conocimiento de los mismos, enumerándolos y exponiéndolos con claridad y precisión, sin omitir ninguna circunstancia de tiempo, modo y lugar;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+IV. Señalar el nombre completo de la persona Consejera Distrital probable responsable y el Consejo Distrital del que forma parte;
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+V. Contener la narración de los supuestos hechos cometidos por la persona probable responsable que le consten a la parte denunciante, en los que funda su denuncia, así como la fecha en que tuvo conocimiento de los mismos, enumerándolos y exponiéndolos con claridad y precisión, sin omitir ninguna circunstancia de tiempo, modo y lugar;
 
 VI. Señalar los preceptos legales que se estimen violados;
 
 VII. Señalar las pruebas que junto con la denuncia ofrezca y aporte, mismas que deberán tener relación inmediata y directa con los hechos o actos denunciados; en su caso, la mención de las pruebas que habrán de aportarse hasta antes de cerrada la instrucción y, en su caso, la petición para que se requieran aquellas que el oferente no haya podido exhibir, cuando justifique haberlas solicitado por escrito y oportunamente al órgano competente y no le fueron entregadas; todos los medios probatorios deberán relacionarse con los hechos o faltas que se imputen y expresar y razonar claramente qué es lo que pretende probar con cada una de ellas; y
 
-VIII. Contener la firma autógrafa del denunciante o de su legítimo representante, quien deberá acompañar las documentales que acrediten su personería.
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+VIII. Contener la firma autógrafa de la persona denunciante o de su legítimo representante, quien deberá acompañar las documentales que acrediten su personería.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 81.
 
-Al día siguiente de que haya recibido el escrito de denuncia, la Consejera o Consejero Presidente lo turnarán, junto con sus anexos, a la Presidencia de la Comisión Instructora para que, dentro de los cinco días hábiles siguientes a su recepción, emita un acuerdo en el que determine su admisión o desechamiento de plano. La Comisión Instructora deberá analizar de oficio las causales de improcedencia.
+Al día siguiente de que haya recibido el escrito de denuncia, la Presidencia lo turnará, junto con sus anexos, a la Presidencia de la Comisión Instructora para que, dentro de los cinco días hábiles siguientes a su recepción, emita un acuerdo en el que determine su admisión o desechamiento de plano. La Comisión Instructora deberá analizar de oficio las causales de improcedencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 82.
 
-La Comisión Instructora dictará acuerdo de desechamiento de plano del escrito mediante el cual se denuncien las supuestas faltas cometidas por una Consejera o un Consejero Distrital, cuando se actualice alguna o algunas de las causales de improcedencia siguientes:
+La Comisión Instructora dictará acuerdo de desechamiento de plano del escrito mediante el cual se denuncien las supuestas faltas cometidas por una persona Consejera Distrital, cuando se actualice alguna o algunas de las causales de improcedencia siguientes:
 
 I. Que el escrito de denuncia sea presentado en forma anónima;
 
@@ -1048,23 +1380,31 @@ IV. Que el escrito de denuncia no reúna los requisitos previstos en el artícul
 
 V. Que los hechos que constituyan la supuesta falta no se encuentren sustentados con elementos objetivos de prueba;
 
-VI. Que el escrito de denuncia sea presentado en contra de opiniones que las y los Consejeros Distritales manifiesten en el desempeño de sus funciones, y
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+VI. Que el escrito de denuncia sea presentado en contra de opiniones que las personas Consejeras Distritales manifiesten en el desempeño de sus funciones, y
 
 VII. Que el escrito de denuncia sea presentado fuera del plazo previsto en el artículo 80 del presente Reglamento;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 83.
 
-La Comisión Instructora dictará acuerdo de sobreseimiento del escrito mediante el cual se denuncien las supuestas faltas cometidas por una Consejera o un Consejero Distrital, al actualizarse alguna o algunas de las causales siguientes:
+La Comisión Instructora dictará acuerdo de sobreseimiento del escrito mediante el cual se denuncien las supuestas faltas cometidas por una persona Consejera Distrital, al actualizarse alguna o algunas de las causales siguientes:
 
 I. Que una vez admitido el escrito de denuncia aparezca o sobrevenga alguna causa de improcedencia de las previstas en el artículo anterior;
 
-II. Que la persona probable infractora renuncie, fallezca o por cualquier causa deje de ser Consejera o Consejero Distrital, y
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+II. Que la persona probable infractora renuncie, fallezca o por cualquier causa deje de ser una persona Consejera Distrital, y
 
 III. Que la persona denunciante presente escrito de desistimiento.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 84.
 
-El acuerdo de desechamiento o sobreseimiento dictado por la Comisión Instructora deberá ser notificado a las partes de manera personal y por estrados tanto de Oficinas Centrales como en el Órgano Desconcentrado correspondiente, dentro de los cinco días hábiles siguientes a su emisión. En contra del citado acuerdo procederá el Juicio Electoral ante el Tribunal, con las reglas que para el mismo establece la Ley Procesal.
+El acuerdo de desechamiento o sobreseimiento dictado por la Comisión Instructora deberá ser notificado a las partes de manera personal y por estrados electrónicos, estrados de Oficinas Centrales y del Órgano Desconcentrado correspondiente, dentro de los cinco días hábiles siguientes a su emisión. En contra del citado acuerdo procederá el Juicio Electoral ante el Tribunal, con las reglas que para el mismo establece la Ley Procesal
 
 ###### Artículo 85.
 
@@ -1074,9 +1414,13 @@ Cuando exista identidad o similitud en los hechos que sustenten dos o más escri
 
 Se notificarán de manera personal el emplazamiento y la resolución y surtirán efectos el día en que se practiquen o se tengan por hechas por disposición legal.
 
-Las demás notificaciones del procedimiento se podrán practicar por estrados o por oficio, según se requiera para la eficacia del acto o resolución a notificar. Las notificaciones por estrados surtirán sus efectos a partir del día siguiente a aquél en que hubieran quedado legalmente hechas; las notificaciones por oficio, surtirán efectos el día que se practiquen o se tengan por hechas por disposición legal.
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
-Las notificaciones serán realizadas por la Comisión Instructora con el apoyo de la Unidad Jurídica.
+Las demás notificaciones del procedimiento se podrán practicar en estrados electrónicos, estrados de Oficinas Centrales y del Órgano Desconcentrado correspondiente o por oficio, según se requiera para la eficacia del acto o resolución a notificar. Las notificaciones por estrados surtirán sus efectos a partir del día siguiente a aquél en que hubieran quedado legalmente hechas; las notificaciones por oficio surtirán efectos el día que se practiquen o se tengan por hechas por disposición legal
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
+Las notificaciones serán realizadas por la Comisión Instructora con el apoyo de la UTAJ.
 
 ###### Artículo 87.
 
@@ -1094,7 +1438,11 @@ La contestación al escrito de denuncia deberá reunir los requisitos siguientes
 
 I. Estar dirigido a la Presidencia de la Comisión Instructora;
 
-II. Contener el nombre, y apellidos de la Consejera o Consejero Distrital probable responsable y el Consejo Distrital del que forma parte;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+
+II. Contener el nombre, y apellidos de la persona Consejera Distrital probable responsable y el Consejo Distrital del que forma parte;
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN, ES SIMILAR AL DE LA FRACCIÓN III (SIC), G.O. 6 DE ENERO DE 2021.]</small>
 
 III. Señalar domicilio en la Ciudad de México para oír y recibir notificaciones y documentos y, en su caso, los nombres de las personas autorizadas para tales efectos. De no señalarse domicilio en la Ciudad de México, o resultar erróneo o inexistente, las notificaciones se realizarán por estrados;
 
@@ -1103,6 +1451,12 @@ IV. Contestar de manera expresa, clara y precisa, todos y cada uno de los hechos
 V. Señalar las pruebas que junto con el escrito se ofrezcan, aporten y, en su caso, se anuncien, relacionándolas con los hechos o faltas que se le imputen y expresar y razonar claramente qué es lo que pretende probar con cada una de ellas; y
 
 VI. Contener firma autógrafa.
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN, ES SIMILAR AL DE LA FRACCIÓN III.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 6 DE ENERO DE 2021)</small>
+
+III (SIC). Señalar domicilio en la Ciudad de México para oír y recibir notificaciones y documentos y, en su caso, los nombres de las personas autorizadas para tales efectos. De no señalarse domicilio en la Ciudad de México, o resultar erróneo o inexistente, las notificaciones se realizarán por estrados electrónicos, estrados de Oficinas Centrales y del (sic) Dirección Distrital que corresponda.
 
 ###### Artículo 89.
 
@@ -1194,13 +1548,17 @@ Corresponderá a la Comisión Instructora desechar de plano aquellas pruebas que
 
 Desahogada la fase probatoria, se otorgará el término de diez días hábiles a las partes para que formulen por escrito sus alegatos.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 102.
 
-Una vez integrado el expediente con los elementos necesarios para resolver el procedimiento de aplicación de sanciones, esto es, una vez desahogadas todas las pruebas admitidas, formulados los alegatos y no habiendo diligencia pendiente, la Comisión Instructora emitirá un acuerdo declarando el cierre de la instrucción y dentro de los treinta días contados a partir del siguiente a aquél en que fuere publicado en los estrados del Instituto Electoral el acuerdo de referencia, procederá a elaborar el proyecto de resolución que una vez aprobado por la Comisión Instructora se remitirá a la Consejera o al Consejero Presidente, quien a su vez lo someterá a la consideración del Consejo General.
+Una vez integrado el expediente con los elementos necesarios para resolver el procedimiento de aplicación de sanciones, esto es, una vez desahogadas todas las pruebas admitidas, formulados los alegatos y no habiendo diligencia pendiente, la Comisión Instructora emitirá un acuerdo declarando el cierre de la instrucción y dentro de los treinta días contados a partir del siguiente a aquél en que fuere publicado el acuerdo de referencia en los estrados electrónicos, estrados de Oficinas Centrales y del Órgano Desconcentrado correspondiente, procederá a elaborar el proyecto de resolución que una vez aprobado por la Comisión Instructora se remitirá a la Presidencia, quien a su vez lo someterá a la consideración del Consejo General.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 103.
 
-La resolución que emita el Consejo General tendrá como efecto el determinar si ha lugar o no a la imposición de una amonestación pública o a la remoción de alguna Consejera o algún Consejero Distrital.
+La resolución que emita el Consejo General tendrá como efecto el determinar si ha lugar o no a la imposición de una amonestación pública o a la remoción de alguna persona Consejera Distrital.
 
 ###### Artículo 104.
 
@@ -1222,9 +1580,11 @@ V. Los puntos resolutivos; y
 
 VI. En su caso, el plazo para su cumplimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 106.
 
-En el supuesto de que el proyecto de resolución no fuese aprobado en el sentido propuesto por la Comisión Instructora, el Consejo General ordenará a la Secretaría Ejecutiva que, con el apoyo de la Unidad Jurídica, elabore el proyecto de engrose respectivo, tomando en cuenta las opiniones de la mayoría de sus integrantes.
+En el supuesto de que el proyecto de resolución no fuese aprobado en el sentido propuesto por la Comisión Instructora, el Consejo General ordenará a la Secretaría Ejecutiva que, con el apoyo de la UTAJ, elabore el proyecto de engrose respectivo, tomando en cuenta las opiniones de la mayoría de sus integrantes.
 
 Dicho proyecto de engrose deberá ser presentado al órgano superior de dirección del Instituto Electoral, para su aprobación, en la siguiente sesión que celebre, si esto fuera posible o, a más tardar, en la siguiente, sin que lo anterior signifique volver a discutir el sentido de la resolución.
 
@@ -1251,3 +1611,11 @@ G.O. DE 14 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO POR EL QUE SE APRUEBA EL REGLAMENTO DE INTEGRACIÓN, FUNCIONAMIENTO Y SESIONES DE LOS CONSEJOS DISTRITALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, APROBADOS EN SESIÓN PÚBLICA EL CUATRO DE AGOSTO DE DOS MIL DIECISIETE. (ACLARACIÓN)".]
 
 ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 6 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBAN LAS REFORMAS AL REGLAMENTO DE INTEGRACIÓN, FUNCIONAMIENTO Y SESIONES DE LOS CONSEJOS DISTRITALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PARA LA INCORPORACIÓN DEL USO DE HERRAMIENTAS TECNOLÓGICAS, LA CELEBRACIÓN DE SESIONES VIRTUALES Y MIXTAS Y EL USO INCLUYENTE DEL LENGUAJE".]
+
+ÚNICO. La presente reforma entrará en vigor al momento de su publicación en los estrados de las Oficinas Centrales del Instituto Electoral de la Ciudad de México.
