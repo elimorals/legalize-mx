@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-hidrocarburos-137
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-06-27"
-last_updated: "2019-10-25"
+last_updated: "2021-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137053&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2019-05-31"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2021.
 
-Reglamento publicado en la Primera Sección al Número 21 del Diario Oficial de la Federación, el jueves 27 de junio de 2019.
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de junio de 2019.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Comisión Nacional de Hidrocarburos.
 
@@ -141,19 +141,19 @@ III. Secretaría Ejecutiva;
 
 a. Dirección General de Estrategia Institucional;
 
-i. Dirección General Adjunta de Coordinación de Seguimiento del Desempeño Institucional,
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Administración del Conocimiento.
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b. Dirección General de Vinculación Institucional;
 
-i. Dirección General Adjunta de Relaciones Institucionales;
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Asuntos Internacionales,
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-iii. Dirección General Adjunta de Imagen Institucional.
+iii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-c. Dirección General Adjunta del Secretariado Técnico;
+c. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 IV. (DEROGADA, D.O.F. 25 DE OCTUBRE DE 2019)
 
@@ -163,173 +163,161 @@ V. Unidad Jurídica;
 
 a. Dirección General de Contratación para la Exploración y Extracción;
 
-> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
-
-i. Dirección General Adjunta de Contratación para la Exploración y Extracción;
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 > <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
 b. Dirección General Jurídica de Asignaciones y Contratos;
 
-> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-i. Dirección General Adjunta de Contratos de Licencia y de Servicios;
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+iii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Contratos de Producción y de Utilidad Compartida;
-
-> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
-
-iii. Dirección General Adjunta de Ejecución de Contratos,
-
-> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
-
-iv. Dirección General Adjunta de Asignaciones.
+iv. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
 c. Dirección General de Regulación;
 
-i. Dirección General Adjunta de Análisis y Regulación;
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Mejora Regulatoria;
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 d. Dirección General de lo Contencioso;
 
-i. Dirección General Adjunta de Asuntos Contenciosos,
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Servicios Legales.
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
 e. Dirección General de Consulta;
 
-i. Dirección General Adjunta de Consultas Jurídicas;
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Procedimientos Administrativos;
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 VI. Unidad Técnica de Exploración y su Supervisión;
 
 a. Dirección General de Autorizaciones de Exploración;
 
-i. Dirección General Adjunta de Autorizaciones de Reconocimiento y Exploración Superficial,
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Autorizaciones de Perforación de Pozos.
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b. Dirección General de Dictámenes de Exploración;
 
-i. Dirección General Adjunta de Dictámenes de Planes de Exploración de Asignaciones,
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Dictámenes de Planes de Exploración de Contratos.
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 c. Dirección General de Evaluación del Potencial Petrolero;
 
-i. Dirección General Adjunta de Análisis del Potencial,
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Análisis de Recursos Prospectivos.
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 VII. Unidad Técnica de Extracción y su Supervisión;
 
 a. Dirección General de Dictámenes de Extracción;
 
-i. Dirección General Adjunta de Productividad de Pozos e Infraestructura;
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Subsuelo;
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-iii. Dirección General Adjunta de Yacimientos,
+iii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-iv. Dirección General Adjunta de Recuperación Secundaria y Mejorada.
+iv. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b. Dirección General de Reservas;
 
-i. Dirección General Adjunta de Reservas y Yacimientos,
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Reservas y Evaluación Económica.
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 c. Dirección General de Medición y Comercialización de la Producción;
 
-i. Dirección General Adjunta de Evaluación Técnica de la Medición de Hidrocarburos;
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Producción y Balances;
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-iii. Dirección General Adjunta de Coordinación Operativa y Comercial;
+iii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-iv. Dirección General Adjunta de Contratos de Comercialización;
+iv. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 VIII. Unidad de Administración Técnica de Asignaciones y Contratos;
 
 a. Dirección General de Seguimiento de Contratos;
 
-i. Dirección General Adjunta de Contratos Marinos,
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Contratos Terrestres.
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b. Dirección General de Seguimiento de Asignaciones;
 
-i. Dirección General Adjunta de Asignaciones de Extracción,
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Asignaciones de Exploración.
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 c. Dirección General de Inspección y Verificación;
 
-i. Dirección General Adjunta de Visitas de Inspección y Verificación de Asignaciones y Contratos,
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Logística y Tecnologías de la Inspección y Vigilancia.
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 IX. Centro Nacional de Información de Hidrocarburos;
 
 a. Dirección General de Administración del Centro Nacional de Información de Hidrocarburos;
 
-i. Dirección General Adjunta de Administración de Bases de Datos;
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Litotecas;
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-iii. Dirección General Adjunta de Gestión de Información Geográfica;
+iii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 iv. (DEROGADA, D.O.F. 25 DE OCTUBRE DE 2019)
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
-
-v. Dirección General Adjunta de Servicios a Usuarios.
+v. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b. Dirección General de Prospectiva y Evaluación Económica;
 
-i. Dirección General Adjunta de Prospectiva y Análisis;
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Evaluación de Contratos y Asignaciones,
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-iii. Dirección General Adjunta de Supervisión de Gastos e Inversiones.
+iii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 c. Dirección General de Información, Metodologías y Estadística;
 
-i. Dirección General Adjunta de Información Estadística,
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Difusión de Información Estadística.
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 X. Unidad de Administración y Finanzas;
 
 a. Dirección General de Finanzas, Adquisiciones y Servicios;
 
-i. Dirección General Adjunta de Finanzas;
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Adquisiciones;
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-iii. Dirección General Adjunta de Servicios Generales,
+iii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-iv. Dirección General Adjunta de Recursos Materiales.
+iv. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 b. Dirección General de Recursos Humanos;
 
-i. Dirección General Adjunta de Recursos Humanos,
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Coordinación del Servicio Profesional de Carrera.
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 c. Dirección General de Tecnologías de la Información.
 
-i. Dirección General Adjunta de Infraestructura y Operaciones,
+i. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-ii. Dirección General Adjunta de Procesos e Integración de Soluciones Tecnológicas.
+ii. (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 La Comisión contará con un Órgano Interno de Control que se regirá conforme a lo dispuesto en el Capítulo VII del presente Reglamento Interno.
 
@@ -337,9 +325,11 @@ La Comisión contará con un Órgano Interno de Control que se regirá conforme 
 
 Atribuciones y facultades. El Órgano de Gobierno y las Unidades Administrativas de la Comisión contarán, en su ámbito de competencia, con las atribuciones y facultades que le correspondan conforme a lo señalado en el presente Reglamento Interno y demás Normativa Aplicable.
 
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 12.
 
-Servidores públicos. El Órgano de Gobierno y cada una de las Unidades Administrativas referidas en el artículo 10 del presente Reglamento Interno se auxiliarán de los directores generales, directores generales adjuntos, directores de área, subdirectores, jefes de departamento, enlaces y demás servidores públicos que se requieran y que se autoricen, de conformidad con el presupuesto de la Comisión y su organigrama, así como en términos de la Normativa Aplicable.
+Servidores públicos. El Órgano de Gobierno y cada una de las Unidades Administrativas referidas en el artículo 10 del presente Reglamento Interno se auxiliarán de los directores generales, directores de área, subdirectores, jefes de departamento, enlaces y demás servidores públicos que se requieran y que se autoricen, de conformidad con el presupuesto de la Comisión y su organigrama, así como en términos de la Normativa Aplicable.
 
 ## TÍTULO III. De las facultades
 
@@ -557,9 +547,11 @@ IX. Las demás atribuciones que acuerde el Órgano de Gobierno y las que sean ne
 
 De los recursos de los Comisionados. Los Comisionados podrán contar con el personal auxiliar necesario para el desarrollo de sus funciones, así como con los recursos materiales y financieros correspondientes. Lo anterior, sujeto a la disponibilidad presupuestaria de la Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 18.
 
-De la coordinación de las oficinas de los Comisionados. Cada Comisionado contará en su estructura administrativa con al menos un Director General Adjunto de Coordinación, el cual tendrá las facultades siguientes:
+De la coordinación de las oficinas de los Comisionados. Cada Comisionado contará en su estructura administrativa con al menos un Director de Coordinación, el cual tendrá las facultades siguientes:
 
 I. Coordinar y asegurar con los grupos de trabajo, la elaboración de los dictámenes, resoluciones, opiniones y demás documentos en las diferentes áreas y actividades de la Comisión, a fin de atender los temas asignados como ponencias y Asuntos turnados a los Comisionados;
 
@@ -655,7 +647,9 @@ a) La Dirección General de Vinculación Institucional;
 
 b) La Dirección General de Estrategia Institucional, y
 
-c) La Dirección General Adjunta del Secretariado Técnico, a quien le corresponderá acordar con su Titular el ejercicio de las facultades establecidas en las fracciones I, II, III, IV y IX del presente artículo.
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2021)</small>
+
+c) La Dirección del Secretariado Técnico, a quien le corresponderá acordar con su Titular el ejercicio de las facultades establecidas en las fracciones I, II, III, IV y IX del presente artículo.
 
 ### Capítulo V. Titulares de Unidad
 
@@ -833,11 +827,11 @@ VII. Dirigir las actividades relacionadas con la Administración del Conocimient
 
 VIII. Las demás funciones, encargos y asuntos que le encomienden el Órgano de Gobierno, el Comisionado Presidente, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Estrategia Institucional, en el ejercicio de las facultades señaladas en el presente artículo, será asistida, al menos, por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Coordinación de Seguimiento del Desempeño Institucional, a quien le corresponderá, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; II; III; IV; V; VI y VIII del presente artículo.
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Administración del Conocimiento, a quien le corresponderá, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones VII y VIII del presente artículo.
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 26.
 
@@ -865,13 +859,13 @@ X. Coordinar el diseño de las páginas de Internet de la Comisión, así como d
 
 XI. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Vinculación Institucional, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Relaciones Institucionales, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones establecidas en las fracciones (sic) I; II; III; IV; V y XI del presente artículo;
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Asuntos Internacionales, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones II; VI; VII y XI del presente artículo, y
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-c) La Dirección General Adjunta de Imagen Institucional, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones VIII; IX; X y XI del presente artículo.
+c) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
@@ -909,15 +903,11 @@ X. Revisar, opinar y en su caso validar las garantías de los Contratos de Explo
 
 XI. Las demás funciones, encargos y asuntos que le encomienden el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de sus atribuciones.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE OCTUBRE DE 2019)</small>
-
-La Dirección General de Contratación para la Exploración y Extracción, en el ejercicio de las facultades señaladas en el presente artículo, ser (sic) asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
 a) (DEROGADO, D.O.F. 25 DE OCTUBRE DE 2019)
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
-
-b) La Dirección General Adjunta de Contratación para la Exploración y Extracción, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones II; III; V; VI; VII; VIII; IX y X del presente artículo.
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
@@ -961,25 +951,15 @@ XI. Dar seguimiento jurídico a las actividades relacionadas con la operación d
 
 XII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE OCTUBRE DE 2019)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-La Dirección General Jurídica de Asignaciones y de Contratos, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-a) La Dirección General Adjunta de Contratos de Licencia y de Servicios, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; II; III; IV; VI, VII; VIII y XII del presente artículo para el caso de los Contratos de Licencia y Servicios;
+c) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
-
-b) La Dirección General Adjunta de Contratos de Producción y de Utilidad Compartida, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; II; III; IV; VI, VII; VIII y XII del presente artículo para el caso de los Contratos de Producción y Utilidad Compartida;
-
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
-
-c) La Dirección General Adjunta de Ejecución de Contratos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones V; VIII; IX, XI y XII del presente artículo, y
-
-> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
-
-d) La Dirección General Adjunta de Asignaciones, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; VIII; IX; X; XI y XII del presente artículo.
+d) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
@@ -1019,13 +999,11 @@ IV. Desahogar las consultas jurídicas respecto de la regulación emitida por la
 
 V. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE OCTUBRE DE 2019)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-La Dirección General de Regulación, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-a) La Dirección General Adjunta de Regulación, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; IV y V del presente artículo, y
-
-b) La Dirección General Adjunta de Mejora Regulatoria, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones II; III y V del presente artículo.
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 30.
 
@@ -1065,13 +1043,13 @@ XVI. Coadyuvar con la Dirección General de Inspección y Verificación para el 
 
 XVII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de sus atribuciones.
 
-La Dirección General de lo Contencioso estará a cargo de un Director General quien, en el ejercicio de las facultades señaladas en el presente artículo, será asistido por:
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Asuntos Contenciosos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; II; III; IV; V; VI; VII; VIII; IX; X; XI y XVII del presente artículo, y
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Servicios Legales, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones VII; VIII; XII; XIII; XIV; XV, XVI y XVII del presente artículo.
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-Asimismo, la Dirección General de lo Contencioso, será auxiliada en el ejercicio de sus facultades, por el Director de lo Contencioso; el Director de Prevención, el Subdirector de Prevención, el Subdirector de lo Contencioso, el Jefe de Departamento de Procesos Judiciales y demás personal necesario para cumplir sus funciones.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
@@ -1107,9 +1085,7 @@ d) Coadyuvar con la Secretaría Ejecutiva en la publicación de los criterios de
 
 e) Validar y proponer al Órgano de Gobierno los términos y condiciones de los contratos de servicios de comercialización de Hidrocarburos y los contratos para llevar a cabo actividades de Reconocimiento y Exploración Superficial.
 
-> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
-
-f) Revisar, opinar y en su caso validar los proyectos de contratos, convenios e instrumentos jurídicos que, en el ámbito de su competencia, pretenda celebrar la Comisión de conformidad con la Normativa Aplicable.
+f) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 III. Coordinar la atención de las obligaciones de transparencia de la Comisión, en términos de la Normativa Aplicable;
 
@@ -1123,15 +1099,11 @@ VII. Coadyuvar con la Dirección General de lo Contencioso en el desarrollo de l
 
 VIII. Las demás funciones, encargos y asuntos que le encomienden el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de sus atribuciones.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE OCTUBRE DE 2019)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-La Dirección General de Consulta, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-a) La Dirección General Adjunta de Consultas Jurídicas, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones II; III; VI y VIII del presente artículo, y
-
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
-
-b) La Dirección General Adjunta de Procedimientos Administrativos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; V; VII y VIII del presente artículo.
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 32.
 
@@ -1161,11 +1133,11 @@ VI. Proporcionar a la Dirección General de Consulta los términos y condiciones
 
 VII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Autorizaciones de Exploración, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Autorizaciones de Reconocimiento y Exploración Superficial, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I, incisos b), c), d); II; III; IV; V; VI y VII del presente artículo en materia de actividades de Reconocimiento y Exploración Superficial, y
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Autorizaciones de Perforación de Pozos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I, incisos a), c), d); II; III; IV; V y VII del presente artículo en materia de perforación de pozos.
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 33.
 
@@ -1195,11 +1167,11 @@ XI. Resolver respecto del informe de evaluación que presenten los Asignatarios 
 
 XII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Dictámenes de Exploración, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Dictámenes de Planes de Exploración de Asignaciones, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; II; III; IV; V; VI; VII; VIII; IX; XI y XII del presente artículo, y
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Dictámenes de Planes de Exploración de Contratos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones IV; V; VI; VII; VIII; IX; X; XI y XII del presente artículo.
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 34.
 
@@ -1223,11 +1195,11 @@ VIII. Realizar los estudios para la cuantificación del potencial de Hidrocarbur
 
 IX. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Evaluación del Potencial Petrolero, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Análisis del Potencial, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; IV; V; VII y IX del presente artículo, y
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Análisis de Recursos Prospectivos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones II; III; VI; VIII y IX del presente artículo.
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 35.
 
@@ -1261,15 +1233,15 @@ XIII. Supervisar que las disposiciones y lineamientos emitidas por la Comisión 
 
 XIV. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Dictámenes de Extracción, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Productividad de Pozos e Infraestructura, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I, II, III y XIV del presente artículo;
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Subsuelo, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones IV, V, VI, VII y XIV del presente artículo;
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-c) La Dirección General Adjunta de Yacimientos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones VIII, IX, XI, XIII, y XIV del presente artículo, y
+c) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-d) La Dirección General Adjunta de Recuperación Secundaria y Mejorada, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones X, XII, y XIV del presente artículo.
+d) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 36.
 
@@ -1307,11 +1279,11 @@ XV. Realizar análisis de cuantificación de volúmenes de Hidrocarburos asociad
 
 XVI. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Reservas, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Reservas y Yacimientos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; V; VIII; IX y XVI del presente artículo, y
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Reservas y Evaluación Económica, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones III; IV; VI; VII; X; XII; XIII; XIV; XV y XVI del presente artículo.
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 37.
 
@@ -1355,15 +1327,15 @@ XVII. Difundir y remitir a las Unidades Administrativas y a las autoridades comp
 
 XVIII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Medición y Comercialización de la Producción, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Evaluación Técnica de la Medición de Hidrocarburos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; III; IV; V, VIII; IX; XIV, XVI y XVIII del presente artículo;
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Producción y Balances, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; II; III; VI; VII; VIII, IX; XIV, XV; XVI y XVIII del presente artículo;
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-c) La Dirección General Adjunta de Coordinación Operativa y Comercial, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones VI, VII, VIII, XII; XIII; XIV, XV, XVI, XVII y XVIII, del presente artículo, y
+c) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-d) La Dirección General Adjunta de Contratos de Comercialización, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones VIII; X, XI, XII, XIII; XIV; XV; XVI, XVII y XVIII del presente artículo.
+d) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 38.
 
@@ -1393,11 +1365,11 @@ X. Integrar la documentación e información correspondiente para la sustanciaci
 
 XI. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Seguimiento de Contratos, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Contratos Marinos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I, II, III, IV; V, VI, VII; VIII; IX y XI del presente artículo, en materia de Contratos Marinos, y
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Contratos Terrestres, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I, II, III, IV; V, VI, VII; VIII; IX y XI del presente artículo, en materia de Contratos Terrestres.
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 39.
 
@@ -1425,11 +1397,11 @@ IX. Integrar la documentación e información correspondiente para la sustanciac
 
 X. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Seguimiento de Asignaciones, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Asignaciones de Extracción, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; II; III; IV; V; VI; VII; VIII; IX y X del presente artículo y
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Asignaciones de Exploración, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; II; III; IV; V; VI; VII; VIII; IX y X del presente artículo.
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 40.
 
@@ -1455,11 +1427,11 @@ IX. Recomendar y realizar programas de capacitación y profesionalización del p
 
 X. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Inspección y Verificación, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Visitas de Inspección y Verificación de Asignaciones y Contratos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; II; III; IV; VI; VII y X en el presente artículo, y
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Logística y Tecnologías de la Inspección y Vigilancia, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; V; VI; VII; VIII; IX y X en el presente artículo.
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 41.
 
@@ -1479,19 +1451,17 @@ VI. Atender, gestionar y resolver las solicitudes de acceso a la información, p
 
 VII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Administración del Centro Nacional de Información de Hidrocarburos, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Administración de Bases de Datos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I, II, III, IV, V y VII del presente artículo;
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Litotecas, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I, III, IV, y VII del presente artículo;
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-c) La Dirección General Adjunta de Gestión de Información Geográfica, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I, III, IV; V y VII del presente artículo;
+c) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 d) (DEROGADO, D.O.F. 25 DE OCTUBRE DE 2019)
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
-
-e) La Dirección General Adjunta de Servicios a Usuarios, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I, III, IV, V, VI, y VII del presente artículo.
+e) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 42.
 
@@ -1513,13 +1483,13 @@ VII. Proponer y aplicar metodologías, en coordinación con la Dirección Genera
 
 VIII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Prospectiva y Evaluación Económica, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Prospectiva y Análisis, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I, V, VI, VII y VIII del presente artículo;
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Evaluación de Contratos y Asignaciones, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones II, III, VII y VIII del presente artículo, y
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-c) La Dirección General Adjunta de Supervisión de Gastos e Inversiones, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones IV y VIII del presente artículo.
+c) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 43.
 
@@ -1537,11 +1507,11 @@ V. Coordinar los informes institucionales, así como la elaboración, actualizac
 
 VI. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Información, Metodologías y Estadística, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Información Estadística, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I, II, III y VI del presente artículo, y
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Difusión de Información Estadística, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones IV, V, y VI del presente artículo.
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 44.
 
@@ -1627,19 +1597,15 @@ VI. Autorizar a los servidores públicos de la propia Dirección General para re
 
 VII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o el Titular de Unidad, así como las demás que sean necesarias para el ejercicio.
 
-La Dirección General de Finanzas, Adquisiciones y Servicios, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Finanzas, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones II; IV y VII del presente artículo;
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Adquisiciones, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I y VII del presente artículo;
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+c) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-c) La Dirección General Adjunta de Servicios Generales, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en los incisos a) y f) de la fracción III, así como la fracción VII del presente artículo, y
-
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
-
-d) La Dirección General Adjunta de Recursos Materiales, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en los incisos a), b), c) d) y e) de la fracción III, así como la fracción VII del presente artículo.
+d) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 45.
 
@@ -1679,11 +1645,11 @@ XVI. Tramitar los asuntos de carácter administrativo de la Comisión y apoyar a
 
 XVII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente, el Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Recursos Humanos, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Recursos Humanos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; III; IV; VI; VII; VIII; IX; X; XII; XIII; XIV; XV; XVI y XVI del presente artículo, y
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Coordinación del Servicio Profesional de Carrera, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones II; V; XI; XV, XVI y XVI del presente artículo.
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ###### Artículo 46.
 
@@ -1731,21 +1697,23 @@ XX. Desarrollar políticas y normas, así como verificar su implementación en m
 
 XXI. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Tecnologías de la Información, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
 
-a) La Dirección General Adjunta de Infraestructura y Operaciones, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones II; VII; VIII; IX; X; XI; XII; XIII; XIV; XV; XVI; XIX y XXI del presente artículo, y
+a) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
-b) La Dirección General Adjunta de Procesos e Integración de Soluciones Tecnológicas, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; III; IV; VI; IX; XX y XXI del presente artículo;
+b) (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 ### Capítulo VII. Órgano Interno de Control
 
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 47.
 
-Órgano Interno de Control. El Órgano Interno de Control en la Comisión estará a cargo de un titular designado conforme a las disposiciones jurídicas aplicables y que se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades y mejora de la gestión designados en los mismos términos.
+Órgano Interno de Control. El Órgano Interno de Control en la Comisión estará a cargo de una persona titular designada conforme a las disposiciones jurídicas aplicables y que se auxiliará por los titulares de las áreas de Auditoría Interna, de Desarrollo y Mejora de la Gestión Pública, de Quejas, Denuncias e Investigaciones y de Responsabilidades designados en los mismos términos.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley General de Responsabilidades Administrativas y en los demás ordenamientos legales y administrativos aplicables.
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, en la Ley General de Responsabilidades Administrativas y en los demás ordenamientos legales y administrativos aplicables.
 
-Las ausencias del titular del Órgano Interno de Control, así como las de los titulares de las áreas de auditoría, quejas y responsabilidades y mejora de la gestión, serán suplidas conforme a lo previsto en la legislación aplicable en vigor.
+Las ausencias de titular del Órgano Interno de Control, así como de titulares de las áreas de Auditoría Interna, de Desarrollo y Mejora de la Gestión Pública, de Quejas, Denuncias e Investigaciones y de Responsabilidades serán suplidas conforme a lo previsto en la legislación aplicable en vigor.
 
 ### Capítulo VIII. Consejo Consultivo
 
@@ -1785,9 +1753,11 @@ Ausencias previstas del Comisionado Presidente. Se consideran como ausencias pre
 
 Ausencias imprevistas del Comisionado Presidente. En caso de ausencia por renuncia, causas imprevistas, enfermedades u otras causas inhabilitantes no anunciadas con antelación a los demás Comisionados, el Comisionado Presidente de la Comisión deberá ser suplido temporalmente, en todas sus funciones y atribuciones, por el Comisionado con mayor antigüedad dentro del Órgano de Gobierno de la Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE ENERO DE 2021)</small>
+
 ###### Artículo 54.
 
-Ausencias de los demás servidores públicos de la Comisión. Con excepción del personal de apoyo de los Comisionados, los Titulares de Unidad, la Secretaría Ejecutiva, los Directores Generales, los Directores Generales Adjuntos y los Directores de Área de la Comisión serán suplidos, en sus ausencias, por el servidor público inmediato inferior, en los asuntos de su respectiva competencia, o por quien designe el Comisionado Presidente.
+Ausencias de los demás servidores públicos de la Comisión. Con excepción del personal de apoyo de los Comisionados, los Titulares de Unidad, la Secretaría Ejecutiva, los Directores Generales y los Directores de Área de la Comisión serán suplidos, en sus ausencias, por el servidor público inmediato inferior, en los asuntos de su respectiva competencia, o por quien designe el Comisionado Presidente.
 
 En el caso específico del Titular de la Secretaría Ejecutiva, cuando su ausencia sea por más de diez días, será suplido durante un periodo determinado por el servidor público de la Comisión que para tal efecto designe el Órgano de Gobierno, a propuesta del Comisionado Presidente, determinando los alcances y plazo de la designación.
 
@@ -1797,7 +1767,7 @@ PRIMERO.- El presente ACUERDO entrará en vigor al día hábil siguiente de su p
 
 SEGUNDO.- Se abroga el Reglamento Interno de la Comisión Nacional de Hidrocarburos, publicado en el Diario Oficial de la Federación el 22 de diciembre de 2014.
 
-TERCERO.- Hasta en tanto se autorice la estructura requerida por las autoridades competentes, las funciones asignadas a las Direcciones Generales Adjuntas que no cuenten con una plaza autorizada en términos de la Normativa Aplicable, serán ejercidas por la Dirección General Adjunta adscríta a la Dirección General que corresponda que sí cuente con una plaza autorizada, o bien, por la Unidad Administrativa correspondiente.
+TERCERO.- (DEROGADO, D.O.F. 6 DE ENERO DE 2021)
 
 CUARTO.- Inscríbase el presente Acuerdo CNH.E.29.009/19 en el Registro Público de la Comisión Nacional de Hidrocarburos.
 
@@ -1810,3 +1780,9 @@ D.O.F. 25 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO CNH.E.59.007/19 POR EL QUE SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS”.]
 
 PRIMERO.- El presente ACUERDO entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO CNH.E.71.007/2020 POR EL QUE SE MODIFICAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS”.]
+
+ÚNICO. La presente modificación entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
