@@ -4,7 +4,7 @@ identifier: "LDRS"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-07"
-last_updated: "2019-04-12"
+last_updated: "2021-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDRS"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ENERO DE 2021.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2001.
 
@@ -56,7 +56,9 @@ Son sujetos de esta Ley los ejidos, comunidades y las organizaciones o asociacio
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Actividades Agropecuarias. Los procesos productivos primarios basados en recursos naturales renovables: agricultura, ganadería (incluye caza), silvicultura y acuacultura (incluye pesca);
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2021)</small>
+
+I. Actividades Agropecuarias. Los procesos productivos primarios basados en recursos naturales renovables: agricultura (incluye cultivos inocuos en tierra y sustratos inertes sin tierra), ganadería (incluye caza), silvicultura y acuacultura (incluye pesca);
 
 II. Actividades Económicas de la Sociedad Rural. Las actividades agropecuarias y otras actividades productivas, industriales, comerciales y de servicios;
 
@@ -2065,3 +2067,9 @@ D.O.F. 12 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 116 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE".]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 3o. DE LA LEY DE DESARROLLO RURAL SUSTENTABLE”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
