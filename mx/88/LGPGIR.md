@@ -4,7 +4,7 @@ identifier: "LGPGIR"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-10-08"
-last_updated: "2018-01-19"
+last_updated: "2021-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGPGIR"
 
 LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ENERO DE 2021.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de octubre de 2003.
 
@@ -242,7 +242,9 @@ II. Expedir reglamentos, normas oficiales mexicanas y demás disposiciones jurí
 
 III. Expedir reglamentos, normas oficiales mexicanas y demás disposiciones jurídicas para regular el manejo integral de los residuos de la industria minero-metalúrgica que corresponden a su competencia de conformidad con esta Ley y la Ley Minera;
 
-IV. Expedir las normas oficiales mexicanas relativas al desempeño ambiental que deberá prevalecer en el manejo integral de residuos sólidos urbanos y de manejo especial;
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2021)</small>
+
+IV. Expedir las normas oficiales mexicanas relativas al desempeño ambiental que deberá prevalecer en el manejo integral de residuos sólidos urbanos y de manejo especial, así como para establecer las especificaciones que deban cumplir los sitios de disposición final de residuos sólidos urbanos para el aprovechamiento de la materia orgánica en procesos de generación de energía;
 
 V. Expedir las normas oficiales mexicanas que establezcan los criterios para determinar qué residuos estarán sujetos a planes de manejo, que incluyan los listados de éstos, y que especifiquen los procedimientos a seguir en el establecimiento de dichos planes;
 
@@ -366,9 +368,15 @@ XVIII. Someter a consideración de la Secretaría, los programas para el estable
 
 XIX. Coadyuvar en la promoción de la prevención de la contaminación de sitios con materiales y residuos peligrosos y su remediación;
 
-XX. Determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales, y
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2021)</small>
 
-XXI. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
+XX. Determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE ENERO DE 2021)</small>
+
+XXI. Fomentar el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía, en coordinación con los municipios, y
+
+XXII. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
 > <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
@@ -384,7 +392,9 @@ I. Formular, por sí o en coordinación con las entidades federativas, y con la 
 
 II. Emitir los reglamentos y demás disposiciones jurídico-administrativas de observancia general dentro de sus jurisdicciones respectivas, a fin de dar cumplimiento a lo establecido en la presente Ley y en las disposiciones legales que emitan las entidades federativas correspondientes;
 
-III. Controlar los residuos sólidos urbanos;
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2021)</small>
+
+III. Controlar los residuos sólidos urbanos y, en coordinación con las entidades federativas, aprovechar la materia orgánica en procesos de generación de energía;
 
 IV. Prestar, por sí o a través de gestores, el servicio público de manejo integral de residuos sólidos urbanos, observando lo dispuesto por esta Ley y la legislación estatal en la materia;
 
@@ -1603,3 +1613,13 @@ D.O.F. 19 DE ENERO DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a las que este Decreto hace referencia a las Legislaturas de las Entidades Federativas se entenderán conferidas a la Asamblea Legislativa del Distrito Federal para el caso de la Ciudad de México.
+
+D.O.F. 7 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, EN MATERIA DE TRANSFORMACIÓN DE BASURA EN ENERGÍA”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. En un plazo máximo de 365 días naturales, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo Federal deberá publicar las normas oficiales mexicanas que establezcan las especificaciones que deban cumplir los sitios de disposición final de residuos sólidos urbanos para el aprovechamiento de la materia orgánica en procesos de generación de energía.
+
+Tercero. En un plazo máximo de 365 días naturales, contados a partir de la entrada en vigor del presente Decreto, los Congresos de las Entidades Federativas armonizarán las legislaciones de su competencia en materia de residuos con su contenido.
