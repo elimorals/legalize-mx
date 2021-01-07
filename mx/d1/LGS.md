@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2020-12-22"
+last_updated: "2021-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ENERO DE 2021.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -3303,6 +3303,10 @@ III. Información respecto al tratamiento que se ha aplicado al paciente y el se
 IV. La fuente de información utilizada para cada modalidad de diagnóstico y de tratamiento.
 
 V. Toda aquella información adicional que determine la Secretaría.
+
+> <small>(ADICIONADA, D.O.F. 7 DE ENERO DE 2021)</small>
+
+VI. El Registro contará adicionalmente, con un rubro específico para la información a que se refiere el Capítulo II del Título Tercero de la Ley General para la Detención Oportuna del Cáncer en la Infancia y la Adolescencia.
 
 La Secretaría integrará la información demográfica del Registro Nacional de Cáncer de todo el territorio nacional dividido en regiones norte, centro y sur.
 
@@ -9351,3 +9355,9 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- La Secretaría de Salud contará con un plazo no mayor a 180 días para emitir las disposiciones jurídicas que se deriven del presente Decreto.
 
 Tercero.- Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal, para dar cumplimiento a lo dispuesto por el presente Decreto, se cubrirán con cargo al presupuesto autorizado para el presente ejercicio fiscal y los subsecuentes.
+
+D.O.F. 7 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL PARA LA DETECCIÓN OPORTUNA DEL CÁNCER EN LA INFANCIA Y LA ADOLESCENCIA Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 161 BIS DE LA LEY GENERAL DE SALUD”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
