@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2018-06-05"
+last_updated: "2021-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ENERO DE 2021.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -2050,6 +2050,18 @@ Asimismo, en el ámbito de sus respectivas competencias, establecerán la prohib
 
 Corresponde al Gobierno Federal expedir las normas oficiales mexicanas que determinen los principios básicos de trato digno y respetuoso previsto por esta Ley, que incluyen condiciones de captura, cautiverio, comercialización, cuarentena, entrenamiento, exhibición, explotación, manutención, transporte, y sacrificio de los animales, así como vigilar su cumplimiento.
 
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 2021)</small>
+
+Corresponde a las entidades federativas fomentar la cultura del trato digno y respetuoso, mediante el establecimiento de campañas de esterilización y de difusión de información respecto a la importancia de la adopción, vacunación, desparasitación y las consecuencias ambientales, sociales y de salud pública del abandono de animales de compañía.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 2021)</small>
+
+Las entidades federativas en coordinación con los Municipios o, en su caso, las Alcaldías de la Ciudad de México, garantizarán en la medida de lo posible la esterilización gratuita de animales, y su trato digno y respetuoso en los centros de control animal, estableciendo las sanciones correspondientes para todo aquel que maltrate a los animales.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 2021)</small>
+
+En el caso de perros y gatos sólo se permitirá la crianza, comercialización o reproducción de ejemplares en lugares autorizados de conformidad con las normas oficiales mexicanas en la materia. Las entidades federativas, en coordinación con los Municipios o, en su caso, las Alcaldías de la Ciudad de México, establecerán las sanciones correspondientes a quienes realicen acciones de crianza, comercialización o reproducción clandestina.
+
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ## TITULO TERCERO. Aprovechamiento Sustentable de los Elementos Naturales
@@ -4021,3 +4033,11 @@ Primero. La presente Ley entrará en vigor al siguiente día de su publicación 
 Segundo. Los programas sujetos a reglas de operación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y de la Comisión Nacional Forestal para el ejercicio fiscal 2018 y subsecuentes, deberán observar lo dispuesto en el presente Decreto.
 
 Tercero. Las erogaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto para la Secretaría de Medio Ambiente y Recursos Naturales, y para la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, se cubrirán con los recursos que apruebe la H. Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
+
+D.O.F. 7 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN TRES PÁRRAFOS AL ARTÍCULO 87 BIS 2 DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán adecuar las leyes correspondientes a efecto de que se ajusten a lo dispuesto por el presente Decreto, en un plazo no mayor a 180 días contados a partir de su entrada en vigor.
