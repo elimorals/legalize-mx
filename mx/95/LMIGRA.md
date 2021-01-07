@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2020-11-11"
+last_updated: "2021-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LMIGRA"
 
 LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ENERO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -618,11 +618,15 @@ La Secretaría podrá autorizar el ingreso de extranjeros que soliciten el recon
 
 Sin perjuicio de lo dispuesto en el artículo 42 de este ordenamiento, las autoridades migratorias podrán negar la expedición de la visa, la internación regular a territorio nacional o su permanencia a los extranjeros que se ubiquen en alguno de los siguientes supuestos:
 
-I. Estar sujeto a proceso penal o haber sido condenado por delito grave conforme a las leyes nacionales en materia penal o las disposiciones contenidas en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano, o que por sus antecedentes en México o en el extranjero pudieran comprometer la seguridad nacional o la seguridad pública;
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2021)</small>
+
+I. Cuando derivado de sus antecedentes en México o en el extranjero se comprometa la seguridad nacional o la seguridad pública;
 
 II. Cuando no cumplan con los requisitos establecidos en esta Ley, su Reglamento y otras disposiciones jurídicas aplicables;
 
-III. Cuando se dude de la autenticidad de los documentos o de la veracidad de los elementos aportados;
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2021)</small>
+
+III. Cuando se verifique que los documentos o los elementos aportados no son auténticos;
 
 IV. Estar sujeto a prohibiciones expresas de autoridad competente, o
 
@@ -632,7 +636,9 @@ Las autoridades migratorias, en el ámbito de sus atribuciones, contarán con lo
 
 El hecho de que el extranjero haya incumplido con lo dispuesto en la fracción II de este artículo, no impedirá a la autoridad migratoria analizar de nueva cuenta su solicitud de visa, siempre que cumpla con lo dispuesto en esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
-En los casos en que el extranjero haya sido condenado por delito grave conforme a las leyes nacionales, el Instituto valorará su condición migratoria atendiendo los principios de la readaptación social, así como los relativos a la reunificación familiar.
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 2021)</small>
+
+En los casos en que la autoridad judicial imponga a la persona extranjera sentencia firme condenatoria, el Instituto valorará su condición migratoria atendiendo los principios de la reinserción social, así como los relativos a la reunificación familiar.
 
 ###### Artículo 44.
 
@@ -892,7 +898,9 @@ IV. Perder el extranjero su condición de estancia por las demás causas estable
 
 V. Perder el extranjero el reconocimiento de su condición de refugiado o protección complementaria, de conformidad con las disposiciones jurídicas que resulten aplicables, y
 
-VI. Estar sujeto a proceso penal o haber sido condenado por delito grave conforme a las leyes nacionales en materia penal o las disposiciones contenidas en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano o que por sus antecedentes en el país o en el extranjero pudieran comprometer la seguridad nacional o la seguridad pública.
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2021)</small>
+
+VI. Cuando derivado de sus antecedentes en México o en el extranjero se comprometa la seguridad nacional o la seguridad pública.
 
 ###### Artículo 65.
 
@@ -1630,7 +1638,9 @@ II. Habiendo sido deportado, se interne nuevamente al territorio nacional sin ha
 
 III. Se ostente como mexicano ante el Instituto sin serlo;
 
-IV. Estar sujeto a proceso penal o haber sido condenado por delito grave conforme a las leyes nacionales en materia penal o las disposiciones contenidas en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano, o que por sus antecedentes en México o en el extranjero pudiera comprometer la seguridad nacional o la seguridad pública;
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2021)</small>
+
+IV. Cuando derivado de sus antecedentes en México o en el extranjero se comprometa la seguridad nacional o la seguridad pública;
 
 V. Proporcione información falsa o exhiba ante el Instituto documentación apócrifa, alterada o legítima, pero que haya sido obtenida de manera fraudulenta, y
 
@@ -1867,3 +1877,11 @@ Primero. El presente Decreto entrará en vigor a los 60 días de su publicación
 Segundo. El Ejecutivo Federal, a más tardar dentro de seis meses a partir de la publicación de este Decreto, expedirá las reformas reglamentarias correspondientes.
 
 Tercero. El Congreso de la Unión deberá destinar los recursos necesarios para la operación de los Centros de Asistencia Social, así como para el funcionamiento de las Procuradurías de Protección, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento. Las partidas presupuéstales deberán señalarse en el presupuesto inmediato siguiente a la entrada en vigor del presente Decreto y en los presupuestos sucesivos.
+
+D.O.F. 7 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 43, 64 Y 144 DE LA LEY DE MIGRACIÓN”]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias contrarias a las disposiciones del presente Decreto.
