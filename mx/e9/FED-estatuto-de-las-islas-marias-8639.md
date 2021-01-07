@@ -4,7 +4,7 @@ identifier: "FED-estatuto-de-las-islas-marias-8639"
 country: "mx"
 rank: "estatuto"
 publication_date: "1939-12-30"
-last_updated: "2010-04-01"
+last_updated: "2021-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8639&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1939-12-29"
 ---
 # ESTATUTO DE LAS ISLAS MARIAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON ARTÍCULO ÚNICO DEL DECRETO POR EL QUE SE ABROGA EL ESTATUTO DE LAS ISLAS MARÍAS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 30 DE DICIEMBRE DE 1939, PUBLICADO EN EL D.O.F. DE 7 DE ENERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO DE LAS ISLAS MARIAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ENERO DE 2021 (ABROGADO).
 
 Ley publicada en la Sección Cuarta del Diario Oficial de la Federación, el sábado 30 de diciembre de 1939.
 
@@ -174,3 +176,27 @@ Cuarto. En un plazo de noventa días, el Consejo de la Judicatura, el Instituto 
 Las autoridades responsables del estado civil de las personas continuarán atendiendo los asuntos de su competencia hasta que se formalicen los convenios de colaboración respectivos.
 
 Quinto. Las referencias realizadas en el presente Estatuto a la reinserción social, quedarán entendidas al término vigente readaptación social, hasta en tanto se expida la legislación secundaria correspondiente.
+
+D.O.F. 7 DE ENERO DE 2021.
+
+> <small>[N. DE E. SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO POR EL QUE SE ABROGA EL ESTATUTO DE LAS ISLAS MARÍAS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 30 DE DICIEMBRE DE 1939, QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+Artículo Único. Se abroga el Estatuto de las Islas Marías, publicado en el Diario Oficial de la Federación el 30 de diciembre de 1939.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA EL ESTATUTO DE LAS ISLAS MARÍAS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 30 DE DICIEMBRE DE 1939”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal, en el ámbito de su competencia, deberá emitir las disposiciones jurídicas necesarias para que, en un plazo de treinta días naturales siguientes a la entrada en vigor del presente Decreto, concluya la operación y cierre del Complejo Penitenciario ubicado en el archipiélago Islas Marías.
+
+Tercero. El Secretario de Seguridad y Protección Ciudadana podrá suscribir y emitir los acuerdos necesarios, así como realizar e instruir las acciones que, en el ámbito de su competencia, permitan el cierre del Complejo Penitenciario Islas Marías en el plazo previsto en el artículo anterior.
+
+Cuarto. El Secretario de Seguridad y Protección Ciudadana, a través del Comisionado del Órgano Administrativo Desconcentrado Prevención y Readaptación Social, deberá realizar las acciones necesarias para llevar a cabo el traslado de las personas privadas de su libertad a otros centros penitenciarios federales o del fuero común, según corresponda, con plena observancia a sus derechos humanos.
+
+Quinto. El personal adscrito al Complejo Penitenciario Islas Marías será incorporado a los distintos centros federales de readaptación social o áreas de la Secretaría de Seguridad y Protección Ciudadana, conservando los derechos laborales y prestaciones que haya adquirido en virtud de su relación laboral, conforme a la normatividad aplicable.
+
+Sexto. El archipiélago Islas Marías continuará bajo jurisdicción federal y dependerá directamente del Gobierno Federal, en términos del artículo 48 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Séptimo. Los recursos financieros y presupuestales destinados al Complejo Penitenciario Islas Marías, se destinarán a la Secretaría de Seguridad y Protección Ciudadana, a través del Órgano Administrativo Desconcentrado Prevención y Readaptación Social, quien los reasignará, en los términos de las disposiciones jurídicas aplicables.
+
+Octavo. Se derogan todas las disposiciones que se opongan al presente Decreto.
