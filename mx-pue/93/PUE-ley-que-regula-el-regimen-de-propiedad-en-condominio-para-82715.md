@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-regula-el-regimen-de-propiedad-en-condominio-para-82715
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-10"
-last_updated: "2020-12-08"
+last_updated: "2021-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82715&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2021.
 
 Ley publicada en la segunda sección del Periódico Oficial del Estado de Puebla, el miércoles 10 de agosto de 2011.
 
@@ -145,13 +145,17 @@ VI.- Los bienes de propiedad común, su destino con la especificación y detalle
 
 VII.- Los casos y condiciones en que puede ser modificada la escritura constitutiva;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE ENERO DE 2021)</small>
 
-VIII.- Constancia de las autoridades competentes en materia de construcciones urbanas, de que el edificio construido o el terreno materia del régimen, reúne los requisitos que deben tener este tipo de construcciones; y
+VIII.- El establecimiento de zonas, instalaciones o adecuaciones en el inmueble, con el fin de cumplir las normas para facilitar la accesibilidad a las personas con discapacidad o personas adultas mayores;
 
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2021)</small>
 
-IX.- El reglamento interno del condominio certificado por el Notario Público, su elaboración será propuesta por quienes otorguen la escritura constitutiva, por el desarrollador, el constructor o por la asamblea constituida legalmente.
+IX.- Constancia de las autoridades competentes en materia de construcciones urbanas, de que el edificio construido o el terreno materia del régimen, reúne los requisitos que deben tener este tipo de construcciones; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE ENERO DE 2021)</small>
+
+X.- El reglamento interno del condominio certificado por el Notario Público, su elaboración será propuesta por quienes otorguen la escritura constitutiva, por el desarrollador, el constructor o por la asamblea constituida legalmente.
 
 ###### Artículo 9.
 
@@ -740,6 +744,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 20, LA VII DEL 36, LA III DEL 37, EL ACÁPITE Y LA FRACCIÓN VI DEL 49, DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VIII Y IX, Y ADICIONA LA FRACCIÓN X AL ARTÍCULO 8 DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
