@@ -4,7 +4,7 @@ identifier: "COA-codigo-financiero-para-los-municipios-del-estado-de-96562"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-07"
-last_updated: "2020-08-07"
+last_updated: "2021-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2021.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el jueves 7 de noviembre del 2013.
 
@@ -606,6 +606,14 @@ II. A la adjudicación de los bienes de la sucesión, o a los tres años de la m
 III. Al causar ejecutoria la resolución judicial que declare la prescripción adquisitiva o usucapión.
 
 IV. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público, para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 8 DE ENERO DE 2021)</small>
+
+Tratándose de traslado de dominio de un bien inmueble elevado en escritura pública, los quince días para la presentación de las declaraciones y el pago del impuesto a que se refiere este artículo correrán de la siguiente manera:
+
+a) La declaración para la determinación del pago del impuesto deberá de presentarse, ante la autoridad catastral, dentro de los 10 días hábiles siguientes a la autorización preventiva del acto.
+
+b) Entregada por la autoridad catastral la determinación y liquidación del monto total del impuesto causado, se tendrán 5 días hábiles para su pago en la oficina recaudadora correspondiente.
 
 DE LAS OBLIGACIONES
 
@@ -4522,3 +4530,13 @@ P.O. 7 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 659.- SE MODIFICA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 383 DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICA EL SEGUNDO PÁRRAFO DEL NUMERAL 1 DE LA FRACCIÓN VI DEL ARTÍCULO 102 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 907.- SE ADICIONA UN ÚLTIMO PÁRRAFO CON DOS INCISOS AL ARTÍCULO 58 DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
