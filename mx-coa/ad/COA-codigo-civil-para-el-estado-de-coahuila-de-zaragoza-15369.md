@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2020-10-20"
+last_updated: "2021-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "COA"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-(NOTA: EL 7 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 295/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 748, POR EL QUE SE REFORMAN LOS ARTÍCULOS 782, 783 Y 784 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTE DE OCTUBRE DE DOS MIL VEINTE, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COAHUILA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -6051,9 +6049,11 @@ La disposición testamentaria que contenga condición de suceso pasado o present
 
 El testamento, en cuanto a su forma, es público o privado.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 973.
 
-El testamento público se otorga ante notario y testigos, o únicamente ante notario en el caso previsto en el artículo 1025.
+Testamento público es el que se otorga ante Notario de conformidad con las disposiciones de este Título.
 
 ###### ARTÍCULO 974.
 
@@ -6135,9 +6135,11 @@ Lo dispuesto en el artículo anterior, se observará también por cualquiera que
 
 ### CAPÍTULO II. DEL TESTAMENTO PÚBLICO ABIERTO
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 987.
 
-El testamento público abierto se dictará de manera clara y terminante por el testador, en presencia de tres testigos y el notario.
+El testamento público abierto se dictará de manera clara y terminante por el testador ante el notario; y solo en los casos previstos en los artículos 991, 993, 994 y 995, así como cuando el testador o el notario lo soliciten, será exigible la presencia de tres testigos idóneos, así como en los supuestos establecidos para el testamento público cerrado y el testamento privado.
 
 ###### ARTÍCULO 988.
 
@@ -21294,3 +21296,11 @@ P.O. 20 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 748.- SE REFORMAN LOS ARTÍCULOS 782, 783 Y 784 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 903.- SE MODIFICA EL CONTENIDO DE LOS ARTÍCULOS 973 Y 987 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
