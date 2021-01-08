@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-primer-empleo-del-estado-de-puebla-119013"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-13"
-last_updated: "2017-01-13"
+last_updated: "2021-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de enero de 2017.
 
@@ -87,7 +87,9 @@ XI. Registro empresarial.- Base de datos generada por la Secretaría a través d
 
 XII. Salario base.- El que en los términos de la Ley del Seguro Social se integra con el monto de las cuotas obrero patronales a cargo del patrón y la base para el cálculo de las prestaciones en dinero a que tiene derecho el trabajador de primer empleo o sus beneficiarios legales;
 
-XIII. Secretaría.- Secretaría de Competitividad, Trabajo y Desarrollo Económico;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2021)</small>
+
+XIII. Secretaría.- Secretaría de Trabajo;
 
 XIV. Servicio social.- Se refiere al programa de carácter obligatorio requerido por instituciones académicas para poner en práctica los conocimientos que el estudiante ha adquirido en su preparación profesional;
 
@@ -114,6 +116,10 @@ Aquellas personas que acrediten su servicio social o sus prácticas profesionale
 ###### ARTÍCULO 8.
 
 Los patrones que contraten a trabajadores de primer empleo para ocupar puestos de nueva creación, tendrán derecho a un estímulo relacionado con el Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal. La determinación del estímulo respecto de dicho impuesto se efectuará de manera individual por cada trabajador de primer empleo, y será aplicado por las Autoridades Fiscales que para tal efecto señale la legislación de la materia.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2021)</small>
+
+ARTÍCULO 8 BIS.- Las contrataciones deberán tener relación, entre la profesión, carrera técnica u oficio, acreditado por las personas, el cual no podrán otorgar a éste un salario menor al que perciben los demás empleados que desempeñen las mismas funciones.
 
 ###### ARTÍCULO 9.
 
@@ -208,3 +214,13 @@ TERCERO. Las erogaciones que se deriven de la aplicación de esta Ley, estarán 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los seis días del mes de enero de dos mil diecisiete. Diputada Presidenta. SILVIA GUILLERMINA TANÚS OSORIO. Rúbrica. Diputado Vicepresidente. CARLOS DANIEL HERNÁNDEZ OLIVARES. Rúbrica. Diputado Secretario. CIRILO SALAS HERNÁNDEZ. Rúbrica. Diputada Secretaria. LIZETH SÁNCHEZ GARCÍA. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los nueve días del mes de enero de dos mil diecisiete. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Secretario de Competitividad, Trabajo y Desarrollo Económico. C. JOSÉ CABALÁN MACARI ÁLVARO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 4 Y ADICIONA EL ARTÍCULO 8 BIS DE LA LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
