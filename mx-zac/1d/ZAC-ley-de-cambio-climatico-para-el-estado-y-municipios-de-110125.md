@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-cambio-climatico-para-el-estado-y-municipios-de-110125"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-23"
-last_updated: "2018-02-21"
+last_updated: "2021-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 23 de septiembre de 2015.
 
@@ -69,9 +69,13 @@ IV. Formular, conducir y evaluar las políticas estatales y municipales en mater
 
 V. La investigación, integración, actualización y publicación de información fidedigna que sustente las decisiones tomadas por la autoridad competente en materia de mitigación y adaptación al cambio climático;
 
-VI. La participación corresponsable de la sociedad en las acciones de mitigación y adaptación al cambio climático;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2021)</small>
 
-VII. Reducir la vulnerabilidad de la población y de los ecosistemas, frente a los efectos adversos del cambio climático, así como crear y fortalecer la capacidad del estado y municipios de respuesta al fenómeno;
+VI. La participación corresponsable de la sociedad en las acciones de mitigación y adaptación al cambio climático, considerando sus impactos diferenciados sobre hombres y mujeres para reconocer las necesidades que tienen ambos géneros;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2021)</small>
+
+VII. Reducir la vulnerabilidad de la población y de los ecosistemas, frente a los efectos adversos del cambio climático, así como crear y fortalecer la capacidad del estado y municipios de respuesta al fenómeno; promoviendo la transversalización del enfoque de género en las políticas públicas de mitigación y adaptación;
 
 VIII. Prevenir y controlar las emisiones de gases y compuestos de efecto invernadero de origen antropogénico que no sean de competencia federal;
 
@@ -2062,3 +2066,11 @@ P.O. 21 DE FEBRERO DE 2018.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 9 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 420.- REFORMAS Y ADICIONES A LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE ZACATECAS Y A LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS.”]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
