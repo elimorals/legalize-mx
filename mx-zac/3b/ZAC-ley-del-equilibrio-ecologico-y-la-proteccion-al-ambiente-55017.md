@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-55017"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2018-01-10"
+last_updated: "2021-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de marzo de 2007.
 
@@ -85,11 +85,21 @@ IV. La participación social orientada al desarrollo sustentable del Estado;
 
 V. La planeación y ejecución de acciones que fomenten la educación ambiental y el fortalecimiento de una cultura ecológica, así como el desarrollo de tecnologías apegadas a criterios ambientales, y
 
-VI. Las demás acciones que tiendan a cumplir los fines de la presente Ley, en congruencia y sin perjuicio de la competencia y atribuciones de la federación.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
+VI. Las demás acciones que tiendan a cumplir los fines de la presente Ley, en congruencia y sin perjuicio de la competencia y atribuciones de la federación;
 
-VII. La planificación y ejecución de acciones en materia de protección, conservación y restauración del suelo.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2021)</small>
+
+VII. La planificación y ejecución de acciones en materia de protección, conservación y restauración del suelo;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2021)</small>
+
+VIII. El proceso de institucionalización de la perspectiva de género en todos los ámbitos de las políticas ambientales en la Entidad; y
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2021)</small>
+
+IX. La participación de las mujeres en el diseño de estrategias, políticas y acciones públicas, así como en la creación de normas e instituciones dirigidas a contrarrestar la vulnerabilidad de la sociedad, frente al deterioro ambiental y los efectos del cambio climático.
 
 ###### Artículo 3.
 
@@ -155,77 +165,145 @@ XXVII. Emergencia ecológica: La situación derivada de actividades humanas o fe
 
 XXVIII. Emisión: La descarga directa o indirecta a la atmósfera de toda sustancia, en cualquiera de sus estados físicos, o de energía;
 
-XXIX. Estudio de riesgo: El documento mediante el cual se da a conocer, a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representen para el equilibrio ecológico o el ambiente, así como las medidas técnicas de seguridad, preventiva y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución y operación normal de la obra o actividad de que se trate;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ENERO DE 2021)</small>
 
-XXX. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y que por ello sean susceptibles de captura y apropiación;
+XXIX. Estrategia: Estrategia Nacional de Cambio Climático.
 
-XXXI. Flora silvestre: Las especies vegetales, así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en el territorio estatal;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
 
-XXXII. Fuente Fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
+XXX. Estudio de riesgo: El documento mediante el cual se da a conocer, a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que estas representen para el equilibrio ecológico o el ambiente, así como las medidas técnicas de seguridad, preventiva y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución y operación normal de la obra o actividad de que se trate;
 
-XXXIII. Fuente Móvil: Todo vehículo ya sea tractocamiones, autobuses, camiones, microbuses, automóviles, motocicletas, equipos y maquinarias no fijos con motores de combustión y similares, que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera y que sea de competencia de esta Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
 
-XXXIV. Impacto ambiental: La modificación al ambiente ocasionada por la acción del hombre o de la naturaleza;
+XXXI. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y que por ello sean susceptibles de captura y apropiación;
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
 
-XXXV. Incineración: Todo tratamiento térmico con o sin la recuperación de calor producido por la combustión, incluyendo pirolisis, gasificación, plasma y cualquier otro proceso que genere dioxinas y furanos como subproductos;
+XXXII. Flora silvestre: Las especies vegetales, así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en el territorio estatal;
 
-XXXVI. (DEROGADA, P.O. 23 DE MARZO DE 2013)
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
+
+XXXIII. Fuente Fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmosfera;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2021)</small>
+
+XXXIV. Fuente Móvil: Todo vehículo ya sea tracto camiones, autobuses, camiones, microbuses, automóviles, motocicletas, equipos y maquinarias no fijos con motores de combustión y similares, que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmosfera y que sea de competencia de esta Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
+
+XXXV. Impacto ambiental: La modificación al ambiente ocasionada por la acción del hombre o de la naturaleza;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
+
+XXXVI. Incineración: Todo tratamiento térmico con o sin la recuperación de calor producido por la combustión, incluyendo pirolisis, gasificación, plasma y cualquier otro proceso que genere dioxinas y furanos como subproductos;
 
 XXXVII. Ley: La Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas;
 
 XXXVIII. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XXXIX. Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial; especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente, así como la forma de evitarlo o atenuarlo en caso de impacto negativo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ENERO DE 2021)</small>
 
-XL. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
+XXXIX. Manejo Integrado de los Ecosistemas: Enfoque de gestión ambiental, de carácter multidisciplinario y basado en el uso de diferentes estrategias, medidas y acciones orientadas a lograr un manejo sustentable del territorio perspectivas: económica e institucional, reconociendo la interdependencia existente entre ellas. Se estructura en función de la estrecha correlación entre el bienestar humano y el equilibrio ecológico, de tal manera que la sustentabilidad solamente es posible si se presenta en los dos ámbitos simultáneamente. Operativamente, permite a las autoridades encargadas de la gestión ambiental contar con una visión integral sobre el estado que guarda cada territorio y sus ecosistemas en relación con las actividades humanas, a la vez de generar diagnósticos precisos para planificar estrategias y políticas de reducción de la vulnerabilidad en cada territorio;
 
-XLI. Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2021)</small>
 
-XLII. Medidas de prevención y mitigación: El conjunto de disposiciones y acciones anticipadas que tienen por objeto evitar o reducir los impactos ambientales que pudieran ocurrir en cualquier etapa de desarrollo de una obra o actividad;
+XL. Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo especificaciones, procedimientos, límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente, así como la forma de evitarlo o atenuarlo en caso de impacto negativo;
 
-XLIII. Normas estatales ambientales: El conjunto de reglas científicas o tecnológicas donde se establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades, uso, destino de bienes, causen o puedan causar desequilibrio ecológico o daño al ambiente y además uniforman principios, criterios, políticas y estrategias en la materia;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
 
-XLIV. Normas oficiales mexicanas: El conjunto de reglas científicas o tecnológicas emitidas por el procedimiento señalado en el Diario Oficial de la Federación, que establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente y demás que uniforman principios, criterios, políticas y estrategias en la materia;
+XLI. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
 
-XLV. Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como para conservar a las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2011)</small>
+XLII. Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
 
-XLVI. Programa de Verificación Vehicular: Procedimiento por el cual todo vehículo automotor en circulación matriculado en el Estado de Zacatecas, deberá someterse a la verificación de emisiones contaminantes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
 
-XLVII. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+XLIII. Medidas de prevención y mitigación: El conjunto de disposiciones y acciones anticipadas que tienen por objeto evitar o reducir los impactos ambientales que pudieran ocurrir en cualquier etapa de desarrollo de una obra o actividad;
 
-XLVIII. Protección: El conjunto de políticas y medidas para mejorar el ambiente y evitar su deterioro;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
 
-XLIX. Reciclaje: El proceso de utilización de los residuos que hayan sido tratados y que se aplicarán a un nuevo proceso de transformación;
+XLIV. Normas estatales ambientales: El conjunto de reglas científicas o tecnológicas donde se establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades, uso, destino de bienes, causen o puedan causar desequilibrio ecológico o daño al ambiente y además uniforman principios, criterios, políticas y estrategias en la materia;
 
-L. Recolección: La acción de transferir los residuos al equipo destinado a conducirlos a las instalaciones de almacenamiento, tratamiento o reciclaje, o a los sitios para su disposición final;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ENERO DE 2021)</small>
 
-LI. Recursos biológicos: Los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
+XLV. Perspectiva de género: la categoría científica, analítica y política que revisa las relaciones, construcciones, imaginarios y simbolismos sociales entre mujeres y hombres, a partir de las diferencias biológicas, que pretende eliminar los prejuicios, estereotipos y prácticas discriminatorias que perpetúan la opresión de género basada en la desigualdad, la jerarquización y el sometimiento de las mujeres, dentro del sistema social de carácter patriarcal. Esta perspectiva está dirigida a construir una sociedad donde las mujeres y los hombres tengan el mismo valor, igualdad de derechos y oportunidades para acceder a los recursos económicos, así como a la representación política y social equitativa en los espacios de toma de decisiones;
 
-LII. Recursos genéticos: El material genético de valor real o potencial;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ENERO DE 2021)</small>
 
-LIII. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
+XLVI. Población potencialmente expuesta: Grupo de personas, situado en el mismo tiempo y espacio en un lugar determinado con el riesgo de ser afectados por los efectos de una eventualidad climática o una catástrofe natural que dañe su integridad física. También se refiere a las poblaciones en proximidad o dentro de un sitio contaminado, donde puedan entrar en contacto con sustancias o compuestos de origen antropogénico presentes en el ambiente, susceptibles de ocasionar perjuicios a la salud;
 
-LIV. Región ecológica: La unidad de territorio que comparte características ecológicas comunes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
 
-LV. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+XLVII. Programa de Verificación Vehicular: Procedimiento por el cual todo vehículo automotor en circulación matriculado en el Estado de Zacatecas, deberá someterse a la verificación de emisiones contaminantes;
 
-LVI. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológicoinfecciosas, representen un peligro para la salud humana, el equilibrio ecológico o el ambiente;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
 
-LVII. Restauración: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+XLVIII. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
 
-LVIII. Secretaría: La Secretaría del Agua y Medio Ambiente;
+XLIX. Protección: El conjunto de políticas y medidas para mejorar el ambiente y evitar su deterioro;
 
-LIX. Tratamiento de Agua Residual: El proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
 
-LX. Verificación: La medición de las emisiones de gases o partículas sólidas o líquidas a la atmósfera, provenientes de vehículos automotores o de la industria, y
+L. Reciclaje: El proceso de utilización de los residuos que hayan sido tratados y que se aplicarán a un nuevo proceso de transformación;
 
-LXI. Vocación Natural: Las características que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
+
+LI. Recolección: La acción de transferir los residuos al equipo destinado a conducirlos a las instalaciones de almacenamiento, tratamiento o reciclaje, o a los sitios para su disposición final;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
+
+LII. Recursos biológicos: Los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
+
+LIII. Recursos genéticos: El material genético de valor real o potencial;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
+
+LIV. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
+
+LV. Región ecológica: La unidad de territorio que comparte características ecológicas comunes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
+
+LVI. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
+
+LVII. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológicoinfecciosas, representen un peligro para la salud humana, el equilibrio ecológico o el ambiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
+
+LVIII. Restauración: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
+
+LIX. Secretaría: La Secretaría del Agua y Medio Ambiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ENERO DE 2021)</small>
+
+LX. Transversalidad de la perspectiva de género: El proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para mujeres y hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2021)</small>
+
+LXI. Tratamiento de Agua Residual: El proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE ENERO DE 2021)</small>
+
+LXII. Verificación: La medición de las emisiones de gases o partículas sólidas o líquidas a la atmósfera, provenientes de vehículos automotores o de la industria;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE ENERO DE 2021)</small>
+
+LXIII. Vocación Natural: Las características que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos; y
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2021)</small>
+
+LXIV. Vulnerabilidad frente al cambio climático: El grado de susceptibilidad o de incapacidad de un sistema natural y sus habitantes para afrontar los efectos adversos del cambio climático y, en particular, las amenazas producidas por la variabilidad del clima y los fenómenos extremos. La vulnerabilidad dependerá del carácter, magnitud y rapidez del cambio climático a que esté expuesto un ecosistema, así como de la sensibilidad y capacidad de adaptación de su población. En este sentido, la propensión o predisposición a verse afectado negativamente por el clima también depende de factores políticos y del nivel de desarrollo, así como por diversas causas sociales: el género, la pobreza, la inseguridad nutricional, carencia de tecnologías e infraestructura sanitaria, el acceso a información, entre otros factores.
 
 ## TÍTULO SEGUNDO. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y SU COORDINACIÓN
 
@@ -269,7 +347,15 @@ VI. Las demás que le confiera la presente Ley, sus reglamentos y otras disposic
 
 Corresponde a la Secretaría:
 
-I. Formular, conducir y evaluar la política ambiental para el desarrollo sustentable en el Estado;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2021)</small>
+
+I. Formular, conducir y evaluar la política ambiental para el desarrollo sustentable en el Estado, a la cual se le incorporará la perspectiva de género, al igual que al Programa ambiental y a todas las estrategias, planes, políticas, subprogramas y acciones que conforman su marco de competencia.
+
+La política ambiental deberá formularse bajo una concepción integral y aplicarse de manera transversal; como una condición fundamental para alcanzar un manejo integrado de los ecosistemas, la equidad social y el desarrollo sustentable. Lo anterior tomando en consideración los siguientes factores:
+
+a) Que las problemáticas y los efectos de la degradación ecológica son distintos para hombres y mujeres, en perjuicio de estas últimas, por sus roles diferenciados en el manejo de los recursos naturales en todas sus dimensiones: biofísica, social, económica y cultural, así como en su relación cotidiana con el entorno.
+
+b) Que la necesidad de identificar con precisión los obstáculos que limitan la participación plena de las mujeres en la sociedad y específicamente en la gestión ambiental, es indispensable para establecer estrategias dirigidas a erradicar las desigualdades y revertir el rezago existente en la aplicación de un enfoque institucional con perspectiva de género.
 
 II. Promover y coordinar proyectos, programas y acciones en materias relacionadas con el medio ambiente;
 
@@ -479,7 +565,9 @@ XI. La educación ambiental es el medio para valorar la vida a través de la pre
 
 XII. La coordinación entre las dependencias y entidades de la administración pública estatal y municipal para la concertación de acciones con la sociedad, son indispensables para la eficacia de las actividades ambientales, misma que tendrá como propósito reorientar la relación entre la sociedad y la naturaleza, y
 
-XIII. Es prioritaria la participación de las mujeres en la protección, preservación y aprovechamiento de los recursos naturales, con la finalidad de lograr un verdadero desarrollo sustentable en la entidad.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2021)</small>
+
+XIII. Es prioritaria la participación de las mujeres en la protección, preservación y aprovechamiento de los recursos naturales, por lo que todos los integrantes del sector público, privado y social, desde su marco de competencia, deberán promover su inclusión en la elaboración de estrategias en materia ambiental, dirigidas a reducir las condiciones de vulnerabilidad frente al cambio climático y lograr un verdadero desarrollo sustentable en la entidad.
 
 ###### Artículo 15.
 
@@ -492,6 +580,16 @@ Los Ayuntamientos aprobarán los principios de su política ambiental municipal,
 ###### Artículo 16.
 
 En el sistema de planeación democrática del desarrollo, se deberá incorporar el contenido de la Agenda 21 y la política ambiental emitida a nivel nacional y estatal. La planeación ambiental será concurrente entre el Gobierno del Estado y los Ayuntamientos. Se implementará el ordenamiento ecológico y los demás instrumentos de la política ambiental que se establezcan de conformidad con la presente Ley, sus reglamentos, la Ley de Planeación para el Desarrollo del Estado y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2021)</small>
+
+###### Artículo 16 Bis.
+
+El Ejecutivo del Estado y los Ayuntamientos, formularán sus respectivos programas de medio ambiente, conforme a lo establecido por la Estrategia Nacional de Cambio Climático, las disposiciones de esta Ley, la Ley de Planeación del Estado de Zacatecas y sus Municipios y en las demás disposiciones sobre la materia, incorporando en ellos la perspectiva de género y la representación de los sectores de la población más vulnerables al cambio climático.
+
+En la formulación de planes, programas y acciones en materia ambiental deberán considerarse los impactos diferenciados del cambio climático para hombres y mujeres, reconociendo las necesidades específicas de cada uno y promoviendo la transversalización del enfoque de género en las políticas públicas dirigidas a combatir el calentamiento global y la vulnerabilidad social que provoca, principalmente en las mujeres.
+
+En la planeación y realización de acciones que promuevan el desarrollo sustentable del Estado y los municipios, a cargo de las dependencias y entidades estatales y municipales, conforme a sus respectivas competencias, se observarán los principios de la política ambiental estatal y los criterios de sustentabilidad para un cambio de paradigma energético, tecnológico de producción y consumo.
 
 ###### Artículo 17.
 
@@ -2748,3 +2846,11 @@ P.O. 10 DE ENERO DE 2018.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
 
 Artículo Segundo. La Secretaría del Campo del Gobierno del Estado aprobará el Programa Estatal de Suelos, dentro del plazo de 320 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 9 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 420.- REFORMAS Y ADICIONES A LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE ZACATECAS Y A LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
