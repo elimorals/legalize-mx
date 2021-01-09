@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108944"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2018-10-31"
+last_updated: "2021-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 1 de julio de 2015.
 
@@ -136,6 +136,10 @@ XIX. Sistema Municipal de Protección Integral: Sistema Municipal de Protección
 XX. Sistemas Municipales DIF: Sistemas Municipales para el Desarrollo Integral de la Familia, y
 
 XXI. Visitaduría: la Visitaduría de los Derechos de Niñas, Niños y Adolescentes.
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2021)</small>
+
+XXII. Valores cívicos: son el conjunto de construcciones psicológicas y conductas que permiten vivir en colectividad armónica y pacíficamente, porque se basan en el respeto hacia la dignidad de las personas y del patrimonio público, la legalidad y las instituciones democráticas, así como en la buena educación, la urbanidad y la solidaridad. Son reconocidos por los diversos grupos sociales y se transmiten a través de las generaciones, formando parte del legado cultural y de la permanente construcción de ciudadanía.
 
 ### CAPÍTULO II. AUTORIDADES Y SUJETOS OBLIGADOS
 
@@ -275,7 +279,9 @@ VI. Los derechos a la educación, cultura, diversidad cultural, deporte, descans
 
 a) Educación;
 
-b) A tener una cultura y a acceder a la cultura;
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2021)</small>
+
+b) A tener una cultura y a acceder a la cultura y las artes;
 
 c) Diversidad cultural;
 
@@ -437,11 +443,19 @@ No serán considerados como supuestos de exposición o estado de abandono los ca
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a instaurar políticas de fortalecimiento familiar con la finalidad de evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad y en su caso, la tutela.
 
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2021)</small>
+
+###### Artículo 17 Bis.
+
+Las niñas, niños y adolescentes tienen derecho a vivir en familia ya sea Familia de Origen, Familia Extensa o Ampliada, de Acogida o de Acogimiento Pre-Adoptivo o a las que se haya asignado un menor en adopción, las cuales por igual tendrán la misma responsabilidad al cuidado de los menores quienes deberán crecer en un ambiente de afecto, seguridad física, moral, intelectual y material siempre bajo el principio del interés superior del niño.
+
 ###### Artículo 18.
 
 Niñas, niños y adolescentes no podrán ser separados de sus padres o de quienes ejerzan la patria potestad sobre ellos o de sus tutores, y en términos de las disposiciones aplicables de sus custodios, sino mediante orden de autoridad competente que así lo declare, habiendo escuchado la opinión de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez y atendiendo a la preservación del interés superior de la niñez.
 
-No deberá separarse a niñas y niños menores de seis años de su madre, salvo se compruebe la incapacidad de ésta para hacerse cargo de ellos.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2021)</small>
+
+No deberá separarse a niñas y niños menores de seis años de su madre, salvo se compruebe la incapacidad de ésta para hacerse cargo de ellos o exista grave riesgo que atente la integridad y seguridad física, moral, intelectual y material, derivado del cuidado de la misma.
 
 Niñas, niños y adolescentes cuyos padres o familiares que estén a su cargo, se encuentren separados, tendrán derecho a convivir o a mantener contacto directo de modo regular con ellos, salvo en los casos en que el órgano jurisdiccional competente determine que ello es contrario al interés superior de la niñez.
 
@@ -471,13 +485,15 @@ III. Brindar la mayor información posible a hijos sobre el destino de sus padre
 
 Las mismas obligaciones las tendrán los tutores y personas responsables de su cuidado y atención, conforme a las facultades que para sus encargos prevean las leyes correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2021)</small>
+
 ###### Artículo 22.
 
-Niñas, niños y adolescentes privados de su familia, tendrán derecho a la protección y adopción, en el pleno respeto de sus derechos, conforme al principio del interés superior de la niñez.
+Niñas, niños y adolescentes privados de su Familia de Origen, tendrán derecho a la protección del Estado, quien procurará que reingrese a una Familia Extensa o Ampliada o de acogida o sea dado en adopción, en el pleno respeto de sus derechos, conforme al principio del interés superior de la niñez.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ENERO DE 2021)</small>
 
-El Sistema Estatal DIF, a través de la Procuraduría de Protección a Niñas, Niños, Adolescentes y Familia, deberá otorgar medidas especiales de protección a niñas, niños y adolescentes que hayan sido separados de sus padres o familiares por resolución judicial, atendiendo a la legislación civil, se asegurará que a niñas, niños y adolescentes se les restituya su derecho a vivir en familia, para lo cual determinará la opción más adecuada, de acuerdo a su interés superior, entre las siguientes:
+El Sistema Estatal DIF, deberá otorgar medidas especiales de protección a niñas, niños y adolescentes que hayan sido separados de sus padres o familiares por resolución judicial, atendiendo a la legislación civil, se asegurará que a niñas, niños y adolescentes se les restituya su derecho a vivir en familia, para lo cual determinará la opción más adecuada, será además responsable de mantener evaluaciones al respecto de forma periódica, de acuerdo a su interés superior, entre las siguientes:
 
 I. Sean ubicados preferentemente con los demás miembros de su familia extensa o ampliada para su cuidado, siempre y cuando no sea contrario a su interés superior;
 
@@ -488,6 +504,10 @@ III. Sean recibidos por una familia de acogimiento pre-adoptivo, o
 IV. Sean recibidos, en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible. Esta medida especial de protección tendrá carácter subsidiario dando prioridad a las opciones de cuidado en un entorno familiar.
 
 El Sistema Estatal DIF a través de la Procuraduría de Protección, deberá registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, tomando en cuenta los requisitos señalados para el acogimiento pre-adoptivo y será la responsable de dar seguimiento a la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluida la medida de restitución del derecho a vivir en familia.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2021)</small>
+
+La Procuraduría de Protección, en el ámbito de su competencia, realizará la valoración psicológica, médica, económica, de trabajo social y todas aquéllas que sean necesarias para determinar la idoneidad de quienes soliciten la adopción, en los términos de lo dispuesto por las leyes y reglamentos aplicables. Los centros de salud del sector público que formen parte del sistema estatal de salud quedan obligados a auxiliar a la Procuraduría de Protección con la práctica de las pruebas médicas que establezca el reglamento respectivo.
 
 ###### Artículo 23.
 
@@ -507,21 +527,35 @@ III. Se tomará en consideración el grado de parentesco; la relación de afinid
 
 IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
 
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2021)</small>
+
+Una vez hecha la asignación de niñas, niños o adolescentes, se deberán realizar verificaciones posteriores y permanentes, con el objetivo que la Procuraduría de Protección tenga la seguridad que se siguen cumplimiento con los parámetros de evaluación, y asegurar que se mantienen a salvo los derechos de las niñas, niños y adolescentes y no existe riesgo para ellos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2021)</small>
+
 ###### Artículo 24.
 
-Una vez autorizada la asignación de niñas, niños o adolescentes a una familia de acogimiento pre-adoptivo, la Procuraduría de Protección, deberá dar seguimiento a la convivencia entre ellos y al proceso de adaptación conforme a su nueva situación, con la finalidad de prevenir o superar las dificultades que se puedan presentar.
+Una vez autorizada la asignación de niñas, niños o adolescentes a una Familia de Origen, Familia Extensa o Ampliada, de Acogida o acogimiento pre-adoptivo, la Procuraduría de Protección, deberá dar seguimiento a la convivencia entre ellos y al proceso de adaptación conforme a su nueva situación, con la finalidad de prevenir o superar las dificultades que se puedan presentar, procurando en todo momento el principio del interés superior de la niñez.
 
 Si no se lograran consolidar las condiciones de adaptación de niñas, niños y adolescentes con la familia de acogimiento pre-adoptivo, la Procuraduría de Protección iniciará el procedimiento correspondiente para reincorporarlos al sistema que corresponda y de ser necesario, realizar una nueva asignación.
 
-Corresponde a la Procuraduría de Protección revocar la asignación y ejercer las facultades que le otorgan la presente ley y demás disposiciones aplicables, cuando se violenten los derechos de niñas, niños y adolescentes que hayan sido asignados.
+> <small>[N. DE E. SE ADVIERTE DEL DECRETO 411 QUE EL CONTENIDO DE LA REFORMA CORRESPONDE AL PÁRRAFO TERCERO. VÉASE PÁGINA DEL CONGRESO DEL ESTADO https://www.congresozac.gob.mx/f/todojuridico&cat=LEY]</small>
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2021)</small>
+
+Corresponde a la Procuraduría de Protección revocar la asignación y ejercer las facultades que le otorgan la presente ley y demás disposiciones aplicables, cuando se violenten los derechos de niñas, niños y adolescentes que hayan sido asignados o que se encuentren en grave riesgo a consideración de la misma.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2021)</small>
 
 ###### Artículo 25.
 
-El Sistema Estatal DIF deberá contar con un sistema de información que permita registrar a niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, adopciones concluidas e informar de manera trimestral a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes.
+El Sistema Estatal DIF deberá contar con un sistema de información que permita registrar a niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, adopciones concluidas y las niñas, niños y adolescentes que hayan sido asignados con el objetivo de dar seguimiento y vigilancia e informar de manera trimestral a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, y en su caso, a la Fiscalía General de Justicia del Estado de Zacatecas.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2021)</small>
 
 ###### Artículo 26.
 
-Los sistemas municipales DIF en el ámbito de su competencia deberán contar con un sistema de información que permita registrar niñas, niños y adolescentes que sean susceptibles de adopción entre particulares, así como el listado de las personas solicitantes de adopción.
+Los sistemas municipales DIF en el ámbito de su competencia deberán contar con un sistema de información que permita registrar niñas, niños y adolescentes que sean susceptibles de adopción entre particulares, así como el listado de las personas solicitantes de adopción, haciéndolo del conocimiento al Sistema Estatal DIF y de la Procuraduría de Protección.
 
 ###### Artículo 27.
 
@@ -535,7 +569,9 @@ III. Garantizar que se asesore jurídicamente, tanto a quienes consientan la ado
 
 IV. Disponer las acciones necesarias para verificar que la adopción no sea motivada por beneficios económicos para quienes participen en ella, y
 
-V. Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, velarán porque en los procesos de adopción se respeten las normas aplicables.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2021)</small>
+
+V. Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, velarán porque en los procesos de adopción y durante las adopciones se respeten las normas aplicables.
 
 ###### Artículo 28.
 
@@ -563,7 +599,9 @@ De conformidad con este derecho, ni la crianza, educación o corrección puede s
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a:
 
-I. Adoptar las medidas legislativas, administrativas, sociales y educativas apropiadas para proteger a niñas, niños y adolescentes contra toda forma de violencia física, psicológica o sexual, descuido o trato negligente, malos tratos o explotación, en todos los entornos incluyendo el seno familiar o cualquier institución pública, privada, social, o en su caso, las de reintegración social u otros centros alternativos;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2021)</small>
+
+I. Adoptar las medidas legislativas, administrativas, sociales y educativas apropiadas para proteger a niñas, niños y adolescentes contra toda forma de violencia física, psicológica o sexual, descuido o trato negligente, malos tratos o explotación, en todos los entornos incluyendo el seno familiar ya sea Familia de Origen, Familia Extensa o Ampliada, de Acogida o de Acogimiento Pre-Adoptivo o a las que se haya asignado un menor en adopción o cualquier institución pública, privada, social, o en su caso, las de reintegración social u otros centros alternativos;
 
 II. Adoptar las medidas apropiadas para promover la recuperación física, psicológica y la restitución de derechos de niñas, niños y adolescentes para lograr el pleno ejercicio de sus derechos y garantizar su reincorporación a la vida cotidiana, y
 
@@ -775,17 +813,45 @@ III. Establecer mecanismos gratuitos de atención, asesoría, orientación y pro
 
 IV. Establecer y aplicar las sanciones que correspondan a las personas, responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2021)</small>
+
+###### Artículo 46 Bis.
+
+Las autoridades educativas del Estado deberán garantizar la formación de los alumnos en el marco de su ejercicio de los derechos culturales y artísticos, a fin de fortalecer los procesos de innovación, creatividad, construcción de ciudadanía y convivencia democrática en la sociedad, respetando en todo momento su identidad cultural y lengua de origen, la libertad de creación y el desarrollo máximo de sus competencias individuales.
+
+También deberán establecer los mecanismos de coordinación de acciones con los diferentes entes públicos de la administración pública estatal y municipal, de acuerdo con la fracción V del artículo 3 de la presente ley, así como con el Instituto Electoral del Estado de Zacatecas y con los organismos del sector social y privado correspondientes, con objeto de fomentar la participación política de niñas, niños y adolescentes, al mismo tiempo de difundir la cultura democrática en la Entidad.
+
 ###### Artículo 47.
 
 Niñas, niños y adolescentes tienen derecho a participar libremente en actividades culturales y artísticas, para lo cual deben poseer y practicar las tradiciones de su cultura, así como acceder a otras manifestaciones culturales, con la única limitante de la protección y respeto de sus propios derechos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE ENERO DE 2021)</small>
+
+Las autoridades estatales y municipales deberán aprovechar su infraestructura y recursos; el uso y desarrollo de los medios de comunicación oficiales y de las nuevas tecnologías a su alcance; lo mismo que su vinculación con las empresas de la industria cultural, a fin de promover y difundir todas sus expresiones para que las niñas, niños y adolescentes de la Entidad cuenten con elementos de aprendizaje y acercamiento a la cultura y las artes.
+
 Es obligación de los padres brindar orientación y educación a sus hijos conforme a sus tradiciones y creencias, en apego a los derechos de niñas, niños y adolescentes.
 
-El Instituto Zacatecano de Cultura, en coordinación con dependencias, organismos y otras entidades competentes, garantizarán la promoción de este derecho.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2021)</small>
+
+El Instituto Zacatecano de Cultura y la Secretaría de Educación de Zacatecas, en coordinación con dependencias, organismos y otras entidades competentes, garantizarán la promoción de este derecho, principalmente en lo relativo a los procesos de enseñanza en materia cultural y educación artística, tanto formal como no formal, según corresponda.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2021)</small>
+
+Para cumplir lo anterior, ambas dependencias deberán coordinarse para diseñar estrategias que garanticen la calidad en la cobertura y servicios que brindan las instituciones de Educación Básica y Media Superior, con la participación de los integrantes del Sistema de Desarrollo Cultural del Estado de Zacatecas.
 
 ###### Artículo 48.
 
 Niñas, niños y adolescentes tienen derecho a la diversidad cultural, por lo cual, en las regiones del Estado en que existan minorías étnicas, religiosas o lingüísticas, quienes pertenecen a una comunidad, etnia o grupo indígena tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, profesar y practicar su propia religión, recursos y formas específicas de organización social, con la única limitación del respeto de los derechos que la Constitución y los tratados internacionales reconocen a favor de la niñez y adolescencia.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2021)</small>
+
+###### Artículo 48 Bis.
+
+Todas las autoridades de los Poderes Públicos de Zacatecas, en su respectivo marco competencial, tienen la obligación de proteger y promover los derechos culturales de niñas, niños y adolescentes. Para lo cual, deberán:
+
+a) Ejecutar acciones afirmativas para garantizar el derecho a la cultura de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo en la Entidad o que viven en condición de vulnerabilidad o marginación social por cualquier causa, y
+
+b) Proporcionar bienes y servicios públicos con suficiencia de recursos humanos, materiales y presupuestarios, a fin de propiciar su acceso al goce de los bienes culturales y generar las condiciones socio-económicas y logísticas que les permitan a niños y jóvenes de cualquier estrato social, contribuir al enriquecimiento de la diversidad y el patrimonio cultural en la Entidad.
 
 ###### Artículo 49.
 
@@ -849,7 +915,17 @@ Quienes ejerzan la patria potestad, tutela o guarda y custodia representarán a 
 
 Las autoridades estatales y municipales para garantizar el ejercicio de los derechos de asociación y reunión deben:
 
-I. Facilitar el uso legítimo de los espacios públicos en condiciones de igualdad;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 9 DE ENERO DE 2021)</small>
+
+I. Facilitar el uso legítimo de los espacios públicos en condiciones de igualdad donde realicen actividades extraescolares recreativas, culturales y artísticas dirigidas a niñas, niños y adolescentes, a efecto de que puedan:
+
+a) Hacer un uso adecuado de su tiempo libre al desarrollar sus capacidades y potencial;
+
+b) Forjar un proyecto de vida fundado en valores cívicos en un ambiente sano alejado de la violencia y adicciones;
+
+c) Tener acceso al conocimiento y a la información del patrimonio cultural material e inmaterial de las diferentes comunidades y entornos zacatecanos, y
+
+d) Familiarizarse con prácticas incluyentes y esenciales para la vida democrática, haciendo uso de espacios colectivos de expresión donde opinen en temas de su interés; como una herramienta para ampliar la cultura política de participación y construir ciudadanía.
 
 II. Establecer programas de educación para la democracia, tolerancia y participación, dirigidos tanto a niñas, niños y adolescentes, como a adultos, para promover el respeto de sus derechos;
 
@@ -1941,6 +2017,10 @@ III. Propiciar, tolerar o abstenerse de impedir, cualquier tipo de abuso, acoso,
 
 IV. Toda actuación que no cuente con el permiso o autorización respectiva de la autoridad correspondiente; especialmente, en los procedimientos de adopción de acuerdo a lo prescrito por la Ley General y la presente Ley.
 
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2021)</small>
+
+V. Actuar con negligencia o desempeñarse de manera irresponsable en los procedimientos de adopción de niñas, niños o adolescentes.
+
 ###### Artículo 120.
 
 Corresponde a la Procuraduría de Protección, en el ámbito de su competencia, imponer o solicitar las sanciones por infracciones a lo dispuesto en esta Ley, independientemente de la acción civil o penal a que hubiere lugar.
@@ -2110,3 +2190,19 @@ P.O. 31 DE OCTUBRE DE 2018.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 9 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 411.- REFORMAS Y ADICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 9 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 413.- SE MODIFICA LA LEY DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que contravengan al presente Decreto.
