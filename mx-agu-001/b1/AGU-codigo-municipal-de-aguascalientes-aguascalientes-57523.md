@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2020-10-19"
+last_updated: "2021-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -421,9 +421,13 @@ XXX. Comité de Actividades Musicales.
 
 XXXI. Consejo para la Igualdad Sustantiva en Materia Laboral;
 
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ENERO DE 2021)</small>
 
-XXXII. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer en las áreas que considere convenientes.
+XXXII. Consejo Consultivo del Agua Potable, Alcantarillado y Saneamiento; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE ENERO DE 2021)</small>
+
+XXXIII. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer en las áreas que considere convenientes.
 
 ### CAPÍTULO II. De las Funciones de las Autoridades Municipales
 
@@ -24824,5 +24828,11 @@ PRIMERO: La presente reforma entrara en vigor al día siguiente de su publicaci�
 P.O. 19 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DE LA "REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+ÚNICO.- La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DE “REFORMA Y ADICIÓN AL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 ÚNICO.- La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
