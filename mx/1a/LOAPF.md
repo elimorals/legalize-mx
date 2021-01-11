@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2020-12-07"
+last_updated: "2021-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2021.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -588,9 +588,15 @@ XVII.- Intervenir en la importación y exportación de toda clase de armas de fu
 
 XVIII.- Intervenir en el otorgamiento de permisos para expediciones o exploraciones científicas extranjeras o internacionales en el territorio nacional;
 
-XIX.- Prestar los servicios auxiliares que requieran el Ejército y la Fuerza Aérea, así como los servicios civiles que a dichas fuerzas señale el Ejecutivo Federal, y
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2021)</small>
 
-XX.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+XIX.- Prestar los servicios auxiliares que requieran el Ejército y la Fuerza Aérea, así como los servicios civiles que a dichas fuerzas señale el Ejecutivo Federal;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2021)</small>
+
+XX.- Establecer acuerdos de colaboración con las instituciones ambientales a efecto de capacitar a los integrantes del servicio militar para la ejecución de actividades tendientes a proteger el medio ambiente, y
+
+XXI.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### ARTICULO 30.
 
@@ -3633,3 +3639,9 @@ Quinto. Los derechos laborales del personal que, en virtud de lo dispuesto en el
 Sexto. Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionen con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última, conforme a las disposiciones jurídicas aplicables.
 
 Séptimo. A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de la Secretaría de Comunicaciones y Transportes cuyas atribuciones se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
+
+D.O.F. 11 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XX AL ARTÍCULO 29 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
