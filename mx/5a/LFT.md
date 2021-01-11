@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2019-07-02"
+last_updated: "2021-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2021.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -3536,6 +3536,8 @@ II. La pérdida de facultades.
 
 ### CAPITULO XII. Trabajo a domicilio
 
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
 ###### Artículo 304.
 
 Las disposiciones de este capítulo se aplican a los trabajadores actores y a los músicos que actúen en teatros, cines, centros nocturnos o de variedades, circos, radio y televisión, salas de doblaje y grabación, o en cualquier otro local donde se transmita o fotografíe la imagen del actor o del músico o se transmita o quede grabada la voz o la música, cualquiera que sea el procedimiento que se use.
@@ -3570,19 +3572,13 @@ La prestación de servicios dentro de la República, en lugar diverso de la resi
 
 Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a proporcionar a los trabajadores actores y músicos camerinos cómodos, higiénicos y seguros, en el local donde se preste el servicio.
 
-### CAPITULO XIII. Personas Trabajadoras del Hogar
+### CAPITULO XII BIS. Teletrabajo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JULIO DE 2019)</small>
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
 
 ###### Artículo 311.
 
 Trabajo a domicilio es el que se ejecuta habitualmente para un patrón, en el domicilio del trabajador o en un local libremente elegido por él, sin vigilancia ni dirección inmediata de quien proporciona el trabajo.
-
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-Será considerado como trabajo a domicilio el que se realiza a distancia utilizando tecnologías de la información y la comunicación.
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 Si el trabajo se ejecuta en condiciones distintas de las señaladas en este artículo se regirá por las disposiciones generales de esta Ley.
 
@@ -3738,13 +3734,141 @@ VI. Practicar visitas en los locales donde se ejecute el trabajo, para vigilar q
 
 VII. Informar a la Comisión Nacional de los Salarios Mínimos las diferencias de salarios que adviertan, en relación con los que se paguen a trabajadores que ejecuten trabajos similares.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 11 DE ENERO DE 2021)</small>
+
+### CAPITULO XIII. Personas Trabajadoras del Hogar
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JULIO DE 2019)</small>
+
+###### Artículo 330-A.
+
+El teletrabajo es una forma de organización laboral subordinada que consiste en el desempeño de actividades remuneradas, en lugares distintos al establecimiento o establecimientos del patrón, por lo que no se requiere la presencia física de la persona trabajadora bajo la modalidad de teletrabajo, en el centro de trabajo, utilizando primordialmente las tecnologías de la información y comunicación, para el contacto y mando entre la persona trabajadora bajo la modalidad de teletrabajo y el patrón.
+
+La persona trabajadora bajo la modalidad de teletrabajo será quien preste sus servicios personal, remunerado y subordinado en lugar distinto a las instalaciones de la empresa o fuente de trabajo del patrón y utilice las tecnologías de la información y la comunicación.
+
+Para efectos de la modalidad de teletrabajo, se entenderá por tecnologías de la información y la comunicación, al conjunto de servicios, infraestructura, redes, software, aplicaciones informáticas y dispositivos que tienen como propósito facilitar las tareas y funciones en los centros de trabajo, así como las que se necesitan para la gestión y transformación de la información, en particular los componentes tecnológicos que permiten crear, modificar, almacenar, proteger y recuperar esa información.
+
+Se regirán por las disposiciones del presente Capítulo las relaciones laborales que se desarrollen más del cuarenta por ciento del tiempo en el domicilio de la persona trabajadora bajo la modalidad de teletrabajo, o en el domicilio elegido por ésta.
+
+No será considerado teletrabajo aquel que se realice de forma ocasional o esporádica.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+###### Artículo 330-B.
+
+Las condiciones de trabajo se harán constar por escrito mediante un contrato y cada una de las partes conservará un ejemplar. Además de lo establecido en el artículo 25 de esta Ley, el contrato contendrá:
+
+I. Nombre, nacionalidad, edad, sexo y domicilio de las partes;
+
+II. Naturaleza y características del trabajo;
+
+III. Monto del salario, fecha y lugar o forma de pago;
+
+IV. El equipo e insumos de trabajo, incluyendo el relacionado con las obligaciones de seguridad y salud que se entregan a la persona trabajadora bajo la modalidad de teletrabajo;
+
+V. La descripción y monto que el patrón pagará a la persona trabajadora bajo la modalidad de teletrabajo por concepto de pago de servicios en el domicilio relacionados con el teletrabajo;
+
+VI. Los mecanismos de contacto y supervisión entre las partes, así como la duración y distribución de horarios, siempre que no excedan los máximos legales, y
+
+VII. Las demás estipulaciones que convengan las partes.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+###### Artículo 330-C.
+
+La modalidad de teletrabajo formará parte del contrato colectivo de trabajo, que en su caso exista entre sindicatos y empresas, y deberá entregarse gratuitamente una copia de estos contratos a cada una de las personas trabajadoras que desempeñen sus labores bajo esta modalidad.
+
+Asimismo, deberán de facilitar los mecanismos de comunicación y difusión a distancia con los que cuente el centro de trabajo, incluyendo el correo electrónico u otros, con el fin de garantizar que las personas trabajadoras bajo la modalidad de teletrabajo tengan conocimiento de los procedimientos de libertad sindical y negociación colectiva, como lo establecen las obligaciones previstas en las fracciones XXXII y XXXIII del artículo 132 de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+###### Artículo 330-D.
+
+Los patrones que no cuenten con un contrato colectivo de trabajo deberán incluir el teletrabajo en su reglamento interior de trabajo, y establecer mecanismos que garanticen la vinculación y contacto entre las personas trabajadoras que desempeñen sus labores bajo esta modalidad.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+###### Artículo 330-E.
+
+En modalidad de teletrabajo, los patrones tendrán las obligaciones especiales siguientes:
+
+I. Proporcionar, instalar y encargarse del mantenimiento de los equipos necesarios para el teletrabajo como equipo de cómputo, sillas ergonómicas, impresoras, entre otros;
+
+II. Recibir oportunamente el trabajo y pagar los salarios en la forma y fechas estipuladas;
+
+III. Asumir los costos derivados del trabajo a través de la modalidad de teletrabajo, incluyendo, en su caso, el pago de servicios de telecomunicación y la parte proporcional de electricidad;
+
+IV. Llevar registro de los insumos entregados a las personas trabajadoras bajo la modalidad de teletrabajo, en cumplimiento a las disposiciones en materia de seguridad y salud en el trabajo establecidas por la Secretaría del Trabajo y Previsión Social;
+
+V. Implementar mecanismos que preserven la seguridad de la información y datos utilizados por las personas trabajadoras en la modalidad de teletrabajo;
+
+VI. Respetar el derecho a la desconexión de las personas trabajadoras en la modalidad de teletrabajo al término de la jornada laboral;
+
+VII. Inscribir a las personas trabajadoras en la modalidad de teletrabajo al régimen obligatorio de la seguridad social, y
+
+VIII. Establecer los mecanismos de capacitación y asesoría necesarios para garantizar la adaptación, aprendizaje y el uso adecuado de las tecnologías de la información de las personas trabajadoras en la modalidad de teletrabajo, con especial énfasis en aquellas que cambien de modalidad presencial a teletrabajo.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+###### Artículo 330-F.
+
+Las personas trabajadoras en la modalidad de teletrabajo tienen las obligaciones especiales siguientes:
+
+I. Tener el mayor cuidado en la guarda y conservación de los equipos, materiales y útiles que reciban del patrón;
+
+II. Informar con oportunidad sobre los costos pactados para el uso de los servicios de telecomunicaciones y del consumo de electricidad, derivados del teletrabajo;
+
+III. Obedecer y conducirse con apego a las disposiciones en materia de seguridad y salud en el trabajo establecidas por el patrón;
+
+IV. Atender y utilizar los mecanismos y sistemas operativos para la supervisión de sus actividades, y
+
+V. Atender las políticas y mecanismos de protección de datos utilizados en el desempeño de sus actividades, así como las restricciones sobre su uso y almacenamiento.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+###### Artículo 330-G.
+
+El cambio en la modalidad de presencial a teletrabajo, deberá ser voluntario y establecido por escrito conforme al presente Capítulo, salvo casos de fuerza mayor debidamente acreditada.
+
+En todo caso, cuando se dé un cambio a la modalidad de teletrabajo las partes tendrán el derecho de reversibilidad a la modalidad presencial, para lo cual podrán pactar los mecanismos, procesos y tiempos necesarios para hacer válida su voluntad de retorno a dicha modalidad.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+###### Artículo 330-H.
+
+El patrón debe promover el equilibrio de la relación laboral de las personas trabajadoras en la modalidad de teletrabajo, a fin de que gocen de un trabajo digno o decente y de igualdad de trato en cuanto a remuneración, capacitación, formación, seguridad social, acceso a mejores oportunidades laborales y demás condiciones que ampara el artículo 2o. de la presente Ley a los trabajadores presenciales que prestan sus servicios en la sede de la empresa. Asimismo, deberá observar una perspectiva de género que permita conciliar la vida personal y la disponibilidad de las personas trabajadoras bajo la modalidad de teletrabajo en la jornada laboral.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+###### Artículo 330-I.
+
+Los mecanismos, sistemas operativos y cualquier tecnología utilizada para supervisar el teletrabajo deberán ser proporcionales a su objetivo, garantizando el derecho a la intimidad de las personas trabajadoras bajo la modalidad de teletrabajo, y respetando el marco jurídico aplicable en materia de protección de datos personales.
+
+Solamente podrán utilizarse cámaras de video y micrófonos para supervisar el teletrabajo de manera extraordinaria, o cuando la naturaleza de las funciones desempeñadas por la persona trabajadora bajo la modalidad de teletrabajo lo requiera.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+###### Artículo 330-J.
+
+Las condiciones especiales de seguridad y salud para los trabajos desarrollados al amparo del presente Capítulo serán establecidas por la Secretaría del Trabajo y Previsión Social en una Norma Oficial Mexicana, misma que deberá considerar a los factores ergonómicos, psicosociales, y otros riesgos que pudieran causar efectos adversos para la vida, integridad física o salud de las personas trabajadoras que se desempeñen en la modalidad de teletrabajo.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+###### Artículo 330-K.
+
+Los Inspectores del Trabajo tienen las atribuciones y deberes especiales siguientes:
+
+I. Comprobar que los patrones lleven registro de los insumos entregados a las personas trabajadoras en la modalidad de teletrabajo, en cumplimiento a las obligaciones de seguridad y salud en el trabajo;
+
+II. Vigilar que los salarios no sean inferiores a los que se paguen en la empresa al trabajador presencial con funciones iguales o similares;
+
+III. Constatar el debido cumplimiento de las obligaciones especiales establecidas en el presente Capítulo.
+
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE JULIO DE 2019)</small>
 
 ### CAPITULO XIII Bis. De Los Trabajadores en Minas
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
-
-### CAPITULO XIV. Trabajo en Hoteles, Restaurantes, Bares y otros Establecimientos Análogos
 
 ###### Artículo 331.
 
@@ -3972,7 +4096,7 @@ La persona empleadora podrá dar por terminada dentro de los treinta días sigui
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO XV. Industria Familiar
+### CAPITULO XIV. Trabajo en Hoteles, Restaurantes, Bares y otros Establecimientos Análogos
 
 ###### Artículo 343-A.
 
@@ -4050,9 +4174,7 @@ III. Multa de hasta 5,000 veces la Unidad de Medida y Actualización, cuando por
 
 Lo anterior, sin perjuicio de que la Oficina de Inspección de Trabajo o el Tribunal que conozca del caso, dé vista de los hechos al Ministerio Público.
 
-### CAPITULO XVI. Trabajos de Médicos Residentes en Período de Adiestramiento en una Especialidad
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+### CAPITULO XV. Industria Familiar
 
 ###### Artículo 344.
 
@@ -4092,9 +4214,9 @@ II. Verificar que las propinas correspondan en su totalidad a los trabajadores; 
 
 III. Vigilar que se respeten las normas sobre jornada de trabajo.
 
-### CAPITULO XVII. Trabajo en las Universidades e Instituciones de Educación Superior Autónomas por Ley
+### CAPITULO XVI. Trabajos de Médicos Residentes en Período de Adiestramiento en una Especialidad
 
-> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
 ###### Artículo 351.
 
@@ -4110,7 +4232,9 @@ La Inspección del Trabajo vigilará el cumplimiento de las normas a que se refi
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
-### CAPITULO I. Coaliciones
+### CAPITULO XVII. Trabajo en las Universidades e Instituciones de Educación Superior Autónomas por Ley
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
 
 ###### Artículo 353-A.
 
@@ -4202,7 +4326,7 @@ Las disposiciones de este Capítulo no serán aplicables a aquellas personas que
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 20 DE OCTUBRE DE 1980)</small>
 
-### CAPITULO II. Sindicatos, Federaciones y Confederaciones
+### CAPITULO I. Coaliciones
 
 ###### Artículo 353-J.
 
@@ -4292,7 +4416,7 @@ Los trabajadores de las universidades e instituciones a las que se refiere este 
 
 ## TITULO SEPTIMO. Relaciones Colectivas de Trabajo
 
-### CAPITULO III. Contrato Colectivo de Trabajo
+### CAPITULO II. Sindicatos, Federaciones y Confederaciones
 
 ###### Artículo 354.
 
@@ -4302,7 +4426,7 @@ La Ley reconoce la libertad de coalición de trabajadores y patrones.
 
 Coalición es el acuerdo temporal de un grupo de trabajadores o de patrones para la defensa de sus intereses comunes.
 
-### CAPITULO IV. Contrato-Ley
+### CAPITULO III. Contrato Colectivo de Trabajo
 
 ###### Artículo 356.
 
@@ -4856,7 +4980,7 @@ IV. Copia autorizada del acta de la asamblea en que se haya elegido la directiva
 
 La documentación se autorizará de conformidad con lo dispuesto en el párrafo final del artículo 365.
 
-### CAPITULO V. Reglamento Interior de Trabajo
+### CAPITULO IV. Contrato-Ley
 
 ###### Artículo 386.
 
@@ -5192,9 +5316,7 @@ Si firmado un contrato colectivo, un patrón se separa del sindicato que lo cele
 
 En los casos de disolución del sindicato de trabajadores titular del contrato colectivo o de terminación de éste, las condiciones de trabajo continuarán vigentes en la empresa o establecimiento.
 
-### CAPITULO VI. Modificación Colectiva de las Condiciones de Trabajo
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+### CAPITULO V. Reglamento Interior de Trabajo
 
 ###### Artículo 404.
 
@@ -5366,7 +5488,9 @@ I. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
 II. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
-### CAPITULO VII. Suspensión Colectiva de las Relaciones de Trabajo
+### CAPITULO VI. Modificación Colectiva de las Condiciones de Trabajo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 422.
 
@@ -5430,7 +5554,7 @@ El texto íntegro de los reglamentos interiores de trabajo deberá estar disponi
 
 El reglamento surtirá efectos a partir de la fecha de su depósito. Deberá imprimirse y repartirse entre los trabajadores y se fijará en los lugares más visibles del establecimiento.
 
-### CAPITULO VIII. Terminación Colectiva de las Relaciones de Trabajo
+### CAPITULO VII. Suspensión Colectiva de las Relaciones de Trabajo
 
 ###### Artículo 426.
 
@@ -5442,9 +5566,7 @@ II. Cuando el aumento del costo de la vida origine un desequilibrio entre el cap
 
 La solicitud se ajustará a lo dispuesto en los artículos 398 y 419, fracción I, y se tramitará de conformidad con las disposiciones para conflictos colectivos de naturaleza económica.
 
-### CAPITULO I
-
-Disposiciones Generales.
+### CAPITULO VIII. Terminación Colectiva de las Relaciones de Trabajo
 
 ###### Artículo 427.
 
@@ -5516,7 +5638,9 @@ Si el patrón no cumple las obligaciones consignadas en el párrafo anterior, lo
 
 Lo establecido en el presente artículo no será aplicable en el caso a que se refiere la fracción VII del artículo 427. En este supuesto, los trabajadores estarán obligados a reanudar sus labores tan pronto concluya la contingencia.
 
-### CAPITULO II. Objetivos y Procedimientos de Huelga
+### CAPITULO I
+
+Disposiciones Generales.
 
 ###### Artículo 433.
 
@@ -5574,7 +5698,7 @@ Cuando se trate de la implantación de maquinaria o de procedimientos de trabajo
 
 ## TITULO OCTAVO. Huelgas
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. Objetivos y Procedimientos de Huelga
 
 ###### Artículo 440.
 
@@ -5626,9 +5750,7 @@ No es aplicable lo dispuesto en el párrafo anterior cuando la huelga tenga por 
 
 El Tribunal y las autoridades civiles correspondientes deberán hacer respetar el derecho de huelga, dando a los trabajadores las garantías necesarias y prestándoles el auxilio que soliciten para suspender el trabajo.
 
-### CAPITULO II. Competencia Constitucional de las Autoridades del Trabajo
-
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 450.
 
@@ -6304,7 +6426,9 @@ TITULO ONCE
 
 Autoridades del Trabajo y Servicios Sociales
 
-### CAPITULO III. Procuraduría de la Defensa del Trabajo
+### CAPITULO II. Competencia Constitucional de las Autoridades del Trabajo
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 523.
 
@@ -6370,9 +6494,7 @@ El Poder Judicial de la Federación y los poderes judiciales locales establecer�
 
 Compete a la Secretaría de Hacienda y Crédito Público, la intervención que le señala el Título Tercero, Capítulo VIII, y a la Secretaría de Educación Pública, la vigilancia del cumplimiento de las obligaciones que esta Ley impone a los patrones en materia educativa e intervenir coordinadamente con la Secretaría del Trabajo y Previsión Social, en la capacitación y adiestramiento de los trabajadores, de acuerdo con lo dispuesto en el Capítulo IV de este Título.
 
-### CAPITULO IV. Del Servicio Nacional de Empleo
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+### CAPITULO III. Procuraduría de la Defensa del Trabajo
 
 ###### Artículo 527.
 
@@ -6490,7 +6612,9 @@ VI.- Auxiliar en la realización de los trámites relativos a constancias de hab
 
 VII.- Previa determinación general o solicitud específica de las autoridades federales, adoptar aquellas otras medidas que resulten necesarias para auxiliarlas en los aspectos concernientes a tal determinación o solicitud.
 
-### CAPITULO V. Inspección del Trabajo
+### CAPITULO IV. Del Servicio Nacional de Empleo
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 530.
 
@@ -6560,7 +6684,7 @@ Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los d
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO VI. Comisión Nacional de los Salarios Mínimos
+### CAPITULO V. Inspección del Trabajo
 
 ###### Artículo 537.
 
@@ -6766,9 +6890,7 @@ Las autorizaciones para el funcionamiento de agencias de colocaciones, con fines
 
 Dichas autorizaciones se otorgarán previa solicitud del interesado, cuando a juicio de la Secretaría del Trabajo y Previsión Social se justifique la prestación del servicio por particulares y una vez que se satisfagan los requisitos que al efecto se señalen. En estos casos, de acuerdo con lo establecido en el artículo 539-D, el servicio deberá ser gratuito para los trabajadores y las tarifas conforme a las cuales se presten, deberán ser previamente fijadas por la Secretaría del Trabajo y Previsión Social.
 
-### CAPITULO VII. Comisiones Consultivas de la Comisión Nacional de los Salarios Mínimos
-
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+### CAPITULO VI. Comisión Nacional de los Salarios Mínimos
 
 ###### Artículo 540.
 
@@ -6924,7 +7046,7 @@ III. Cuando a juicio del Director General la sanción aplicable sea la destituci
 
 Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los deberes de la Inspección del Trabajo.
 
-### CAPITULO VIII. Procedimiento ante la Comisión Nacional de los Salarios Mínimos
+### CAPITULO VII. Comisiones Consultivas de la Comisión Nacional de los Salarios Mínimos
 
 > <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
@@ -7140,7 +7262,9 @@ V. Los demás que le confieran las leyes.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1988)</small>
 
-### CAPITULO IX. Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
+### CAPITULO VIII. Procedimiento ante la Comisión Nacional de los Salarios Mínimos
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 564.
 
@@ -7228,9 +7352,7 @@ VII. Los demás que le confieran las leyes.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1988)</small>
 
-### CAPITULO IX BIS. Del Centro Federal de Conciliación y Registro Laboral
-
-> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+### CAPITULO IX. Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
 
 ###### Artículo 570.
 
@@ -7300,7 +7422,7 @@ III. Las decisiones se tomarán por mayoría de votos de los miembros presentes.
 
 IV. De cada sesión se levantará un acta, que suscribirán el Presidente y el Secretario.
 
-### CAPITULO IX TER. De los Centros de Conciliación de las Entidades Federativas y de la Ciudad de México
+### CAPITULO IX BIS. Del Centro Federal de Conciliación y Registro Laboral
 
 > <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
@@ -7460,7 +7582,9 @@ En los procedimientos a que se refiere este capítulo se observarán las normas 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO X
+### CAPITULO IX TER. De los Centros de Conciliación de las Entidades Federativas y de la Ciudad de México
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 590-A.
 
@@ -7562,7 +7686,7 @@ IX. Las demás facultades expresamente establecidas en la presente Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO XI
+### CAPITULO X
 
 ###### Artículo 590-E.
 
@@ -7594,9 +7718,7 @@ La conciliación que imparta deberá ajustarse al procedimiento contemplado en l
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO XII. De la Competencia de los Tribunales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+### CAPITULO XI
 
 ###### Artículo 591.
 
@@ -7640,7 +7762,9 @@ La conciliación que imparta deberá ajustarse al procedimiento contemplado en l
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO XIII. Juntas Locales de Conciliación y Arbitraje
+### CAPITULO XII. De la Competencia de los Tribunales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 601.
 
@@ -7656,9 +7780,7 @@ La conciliación que imparta deberá ajustarse al procedimiento contemplado en l
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO I. De los procedimientos de designación de representantes de los trabajadores y de los patrones
-
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+### CAPITULO XIII. Juntas Locales de Conciliación y Arbitraje
 
 ###### Artículo 604.
 
@@ -7758,9 +7880,9 @@ VI. (DEROGADA, D.O.F. 1 DE MAYO DE 2019)
 
 (DEROGADO, D.O.F. 1 DE MAYO DE 2019)
 
-### CAPITULO II. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional de los Salarios Mínimos y en las Comisiones Consultivas
+### CAPITULO I. De los procedimientos de designación de representantes de los trabajadores y de los patrones
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 621.
 
@@ -7912,7 +8034,9 @@ Representantes de los Trabajadores y de los Patrones
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO III. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
+### CAPITULO II. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional de los Salarios Mínimos y en las Comisiones Consultivas
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 648.
 
@@ -8124,9 +8248,7 @@ Las faltas temporales o definitivas de los representantes serán cubiertas por l
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1988)</small>
 
-### CAPITULO I. Del Procedimiento de Conciliación Prejudicial
-
-> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
+### CAPITULO III. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
 
 ###### Artículo 676.
 
@@ -8192,7 +8314,7 @@ IV. El término para la designación de representantes, los requisitos que deber
 
 V. El lugar y fecha en el que se iniciarán formalmente los trabajos de la Comisión Consultiva.
 
-### CAPITULO II. De los Conciliadores
+### CAPITULO I. Del Procedimiento de Conciliación Prejudicial
 
 > <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
@@ -8216,7 +8338,7 @@ TITULO TRECE BIS
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO III. Del Procedimiento para la Selección de Conciliadores
+### CAPITULO II. De los Conciliadores
 
 > <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
@@ -8308,9 +8430,9 @@ En caso de que las partes establezcan pagos diferidos, en una o más parcialidad
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO I. Principios Procesales
+### CAPITULO III. Del Procedimiento para la Selección de Conciliadores
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 684-F.
 
@@ -8398,9 +8520,9 @@ Los conciliadores y el personal de las Autoridades Conciliadoras no podrán ser 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO II. De la Capacidad, Personalidad y Legitimación
+### CAPITULO I. Principios Procesales
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 684-K.
 
@@ -8526,9 +8648,9 @@ Derecho Procesal del Trabajo
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO III. De las Competencias
+### CAPITULO II. De la Capacidad, Personalidad y Legitimación
 
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 685.
 
@@ -8598,7 +8720,9 @@ Las autoridades administrativas están obligadas, en la esfera de sus respectiva
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO IV. De los Impedimentos y Excusas
+### CAPITULO III. De las Competencias
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 689.
 
@@ -8692,9 +8816,7 @@ El representante común tendrá los derechos, obligaciones y responsabilidad inh
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO V. De la Actuación de los Tribunales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+### CAPITULO IV. De los Impedimentos y Excusas
 
 ###### Artículo 698.
 
@@ -8818,9 +8940,9 @@ Con el propósito de facilitar el acceso a la justicia, los poderes judiciales l
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO VI. De los Términos Procesales
+### CAPITULO V. De la Actuación de los Tribunales
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 707.
 
@@ -8980,9 +9102,9 @@ El procedimiento no se suspenderá mientras se tramite la denuncia de impediment
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO VII. De las Notificaciones
+### CAPITULO VI. De los Términos Procesales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 712.
 
@@ -9240,7 +9362,7 @@ Las correcciones disciplinarias y medios de apremio se impondrán de plano, sin 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO VIII. De los Exhortos y Despachos
+### CAPITULO VII. De las Notificaciones
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
@@ -9280,9 +9402,9 @@ Transcurridos los términos fijados a las partes, se tendrá por perdido su dere
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO IX. De los Incidentes
+### CAPITULO VIII. De los Exhortos y Despachos
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 739.
 
@@ -9594,9 +9716,9 @@ Son nulas las notificaciones que no se practiquen de conformidad a lo dispuesto 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO X. De la Acumulación
+### CAPITULO IX. De los Incidentes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 753.
 
@@ -9660,7 +9782,7 @@ El oferente devolverá el exhorto diligenciado bajo su más estricta responsabil
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XI. De la Continuación del Proceso y de la Caducidad
+### CAPITULO X. De la Acumulación
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
@@ -9722,9 +9844,9 @@ Si en autos consta que una persona se manifiesta sabedora de una resolución, la
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XII. De las Pruebas
+### CAPITULO XI. De la Continuación del Proceso y de la Caducidad
 
-> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 766.
 
@@ -9782,9 +9904,9 @@ Será competente para conocer de la acumulación el Tribunal que hubiere preveni
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XIII. De las Resoluciones Laborales
+### CAPITULO XII. De las Pruebas
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 771.
 
@@ -9830,7 +9952,9 @@ Reunidos los requisitos a que se refieren los artículos que anteceden, cesará 
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XIV. De la Revisión de los Actos de Ejecución
+### CAPITULO XIII. De las Resoluciones Laborales
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 #### Sección Primera. Reglas Generales
 
@@ -10716,9 +10840,7 @@ Para el desahogo de la prueba a que se refiere este artículo, el Tribunal en to
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XV. De las Providencias Cautelares
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+### CAPITULO XIV. De la Revisión de los Actos de Ejecución
 
 ###### Artículo 837.
 
@@ -10828,7 +10950,9 @@ Las partes pueden exigir la responsabilidad en que incurran los miembros de los 
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XVI
+### CAPITULO XV. De las Providencias Cautelares
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 849.
 
@@ -10864,9 +10988,7 @@ Las partes pueden exigir la responsabilidad en que incurran los miembros de los 
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XVII. Del procedimiento ordinario
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+### CAPITULO XVI
 
 ###### Artículo 857.
 
@@ -10966,9 +11088,9 @@ Tratándose de inmuebles, a petición del interesado, el Tribunal solicitará la
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPITULO XVIII. Del Procedimiento Especial
+### CAPITULO XVII. Del procedimiento ordinario
 
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 865.
 
@@ -10992,9 +11114,9 @@ Tratándose de inmuebles, a petición del interesado, el Tribunal solicitará la
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO XIX. Procedimientos de los Conflictos Colectivos de Naturaleza Económica
+### CAPITULO XVIII. Del Procedimiento Especial
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 870.
 
@@ -11326,7 +11448,7 @@ Las partes que comparecieren a la audiencia, quedarán notificadas de la nueva f
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
 
-### CAPITULO XX. Procedimiento de Huelga
+### CAPITULO XIX. Procedimientos de los Conflictos Colectivos de Naturaleza Económica
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -11676,9 +11798,9 @@ El Consejo de la Judicatura Federal integrará un cuerpo de peritos médicos ofi
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO I
+### CAPITULO XX. Procedimiento de Huelga
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 900.
 
@@ -11930,7 +12052,7 @@ El Tribunal, a fin de conseguir el equilibrio y la justicia social en las relaci
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO II. Procedimiento de las tercerías y preferencias de crédito
+### CAPITULO I
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -12244,9 +12366,9 @@ Procedimientos de Ejecución
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO III. Procedimientos paraprocesales o voluntarios
+### CAPITULO II. Procedimiento de las tercerías y preferencias de crédito
 
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
 #### Sección Primera. Disposiciones Generales
 
@@ -12735,6 +12857,10 @@ c) La escritura deberá firmarla el anterior propietario, dentro de los cinco d�
 III. Firmada la escritura, se pondrá al adquirente en posesión del inmueble.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
+
+### CAPITULO III. Procedimientos paraprocesales o voluntarios
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 #### Sección Primera. De las tercerías
 
@@ -13657,3 +13783,11 @@ Segundo.- En cumplimiento con la resolución del Amparo Directo 9/2018 (relacion
 Tercero.- En consecuencia de lo referido en el Transitorio que precede, las disposiciones relativas a la incorporación formal de las personas trabajadoras del hogar al régimen obligatorio de seguridad social iniciarán su vigencia una vez que se realicen las adecuaciones y reservas legales necesarias para dar completa operatividad al reconocimiento del derecho a que se refiere este Decreto, debiendo quedar totalmente concluida en un plazo no mayor a 6 meses contados a partir de la culminación del Programa Piloto y entrega al Legislativo del informe aludido en el citado dispositivo que antecede.
 
 Cuarto.- Hasta en tanto entren en vigor las disposiciones contenidas en el presente Decreto referentes a la Ley del Seguro Social para comprender el trabajo del hogar en el régimen obligatorio, el patrón garantizará la atención médica y los gastos por concepto de sepelio.
+
+D.O.F. 11 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 311 Y SE ADICIONA EL CAPÍTULO XII BIS DE LA LEY FEDERAL DEL TRABAJO, EN MATERIA DE TELETRABAJO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Poder Ejecutivo Federal dispondrá de un plazo de dieciocho meses contados a partir de la entrada en vigor del presente Decreto, para publicar una Norma Oficial Mexicana que rija las obligaciones en materia de seguridad y salud en el trabajo para el teletrabajo, de conformidad con lo establecido en el artículo 330-J.
