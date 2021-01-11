@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-telecomunicaciones-y-radiodifusion-101766"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2014-07-14"
-last_updated: "2020-01-24"
+last_updated: "2021-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-07-14"
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2021.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 14 de julio de 2014.
 
@@ -3971,6 +3971,10 @@ II. Contravenir las disposiciones sobre homologación de equipos y cableados, o
 
 III. Incumplir con las obligaciones de registro establecidas en esta Ley.
 
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2021)</small>
+
+IV. Otras violaciones a esta Ley, a los Reglamentos, a las disposiciones administrativas, planes técnicos fundamentales y demás disposiciones emitidas por el Instituto; así como a las concesiones o autorizaciones que no estén expresamente contempladas en el presente Capítulo.
+
 En el supuesto de que haya cumplimiento espontáneo del concesionario y no hubiere mediado requerimiento o visita de inspección o verificación del Instituto, no se aplicará la sanción referida en el presente inciso.
 
 En caso de que se trate de la primera infracción, el Instituto amonestará al infractor por única ocasión.
@@ -3985,9 +3989,7 @@ II. Contratar en exclusiva, propiedades para la instalación de infraestructura 
 
 III. No cumplir con las obligaciones o condiciones establecidas en la concesión o autorización cuyo incumplimiento no esté sancionado con revocación, o
 
-(NOTA: EL 14 DE FEBRERO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 6/2017, DECLARÓ LA INCONSTITUCIONALIDAD DEL ARTÍCULO 298, INCISO B), FRACCIÓN IV, DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, EN LA PORCIÓN NORMATIVA ‘DE 1%’, CON LOS ALCANCES ESTABLECIDOS EN EL CONSIDERANDO SEXTO DE ESA RESOLUCIÓN, LA CUAL SURTIÓ EFECTOS GENERALES EL 14 DE FEBRERO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-IV. Otras violaciones a esta Ley, a los Reglamentos, a las disposiciones administrativas, planes técnicos fundamentales y demás disposiciones emitidas por el Instituto; así como a las concesiones o autorizaciones que no estén expresamente contempladas en el presente capítulo.
+IV. (DEROGADA, D.O.F. 11 DE ENERO DE 2021)
 
 C) Con multa por el equivalente de 1.1% hasta 4% de los ingresos del concesionario o autorizado por:
 
@@ -4560,3 +4562,9 @@ Tercero. La Secretaría de Seguridad y Protección Ciudadana, coordinará y supe
 Cuarto. Las autoridades correspondientes contarán con un término no mayor a 180 días naturales, para realizar las modificaciones a la Norma Oficial Mexicana 220-SCFI-2017, a fin de armonizarla a los contenidos del presente Decreto.
 
 Quinto. La Secretaría de Seguridad y Protección Ciudadana, informará anualmente del cumplimiento de las disposiciones expresas en este Decreto, a las Comisiones de Seguridad Pública del Senado de la República y de la Cámara de Diputados federales.
+
+D.O.F. 11 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN IV AL INCISO A) Y SE DEROGA LA FRACCIÓN IV DEL INCISO B) DEL ARTÍCULO 298 DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
