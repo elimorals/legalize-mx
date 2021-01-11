@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2020-11-18"
+last_updated: "2021-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ENERO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1053,7 +1053,9 @@ XI. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
 
 Son atribuciones de la Comisión de Comunicaciones y Obras Públicas:
 
-I. Proponer la nomenclatura de las calles, plazas, jardines y paseos públicos, procurando que no se empleen nombres de personas que aún vivan, mandar fijar las placas correspondientes, exigir a los propietarios de fincas urbanas la numeración progresiva de éstas e informar a la autoridad catastral, al Registro Público de la Propiedad y a las oficinas recaudadoras de contribuciones de los cambios acordados en las numeraciones de las casas y denominaciones de las calles;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2021)</small>
+
+I. Proponer la nomenclatura de las calles, plazas, jardines y paseos públicos, incorporando, cuando sea posible, una traducción del español a la lengua originaria que se hable en el municipio, procurando que no se empleen nombres de personas que aún vivan, mandar fijar las placas correspondientes, exigir a los propietarios de fincas urbanas la numeración progresiva de éstas e informar a la autoridad catastral, al Registro Público de la Propiedad y a las oficinas recaudadoras de contribuciones de los cambios acordados en las numeraciones de las casas y denominaciones de las calles;
 
 > <small>(ADICIONADA, G.O. 10 DE MAYO DE 2010)</small>
 
@@ -4470,3 +4472,11 @@ La obligación de contar con Planes Municipales de Desarrollo alineados con los 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 610 QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 50 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan el presente Decreto.
