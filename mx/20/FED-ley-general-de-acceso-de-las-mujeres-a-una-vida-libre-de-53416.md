@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2020-04-13"
+last_updated: "2021-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -45,19 +45,19 @@ LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 1.
 
-La presente ley tiene por objeto establecer la coordinación entre la Federación, las entidades federativas, el Distrito Federal y los municipios para prevenir, sancionar y erradicar la violencia contra las mujeres, así como los principios y modalidades para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, así como para garantizar la democracia, el desarrollo integral y sustentable que fortalezca la soberanía y el régimen democrático establecidos en la Constitución Política de los Estados Unidos Mexicanos.
+La presente ley tiene por objeto establecer la coordinación entre la Federación, las entidades federativas, la Ciudad de México y los municipios para prevenir, sancionar y erradicar la violencia contra las mujeres, así como los principios y modalidades para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, así como para garantizar la democracia, el desarrollo integral y sustentable que fortalezca la soberanía y el régimen democrático establecidos en la Constitución Política de los Estados Unidos Mexicanos.
 
 Las disposiciones de esta ley son de orden público, interés social y de observancia general en la República Mexicana.
 
-> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 2.
 
-La Federación, las entidades federativas, el Distrito Federal y los municipios, en el ámbito de sus respectivas competencias expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
+La Federación, las entidades federativas, la Ciudad de México y los municipios, en el ámbito de sus respectivas competencias expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
 
 ###### ARTÍCULO 3.
 
@@ -127,11 +127,11 @@ VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañ
 
 Violencia familiar: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo Agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 8.
 
-Los modelos de atención, prevención y sanción que establezcan la Federación, las entidades federativas, el Distrito Federal y los municipios, son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar, como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos. Para ello, deberán tomar en consideración:
+Los modelos de atención, prevención y sanción que establezcan la Federación, las entidades federativas, la Ciudad de México y los municipios son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar, como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos. Para ello, deberán tomar en consideración:
 
 I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializados y gratuitos a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia;
 
@@ -181,11 +181,11 @@ El hostigamiento sexual es el ejercicio del poder, en una relación de subordina
 
 El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 14.
 
-Las entidades federativas y el Distrito Federal, en función de sus atribuciones, tomarán en consideración:
+Las entidades federativas y la Ciudad de México, en función de sus atribuciones, tomarán en consideración:
 
 I. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales y/o de docencia;
 
@@ -373,7 +373,7 @@ d) La verificación de los hechos y la publicidad de la verdad.
 
 ### CAPÍTULO I. DEL SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 27.
 
@@ -433,9 +433,11 @@ VI. Auxilio policíaco de reacción inmediata a favor de la víctima, con autori
 
 VII. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 31.
 
-Corresponderá a las autoridades federales, estatales y del Distrito Federal, en el ámbito de sus competencias, otorgar las órdenes emergentes y preventivas de la presente ley, quienes tomarán en consideración:
+Corresponderá a las autoridades federales, estatales y de la Ciudad de México, en el ámbito de sus competencias, otorgar las órdenes emergentes y preventivas de la presente ley, quienes tomarán en consideración:
 
 I. El riesgo o peligro existente;
 
@@ -487,7 +489,7 @@ Una vez recibida la denuncia, la instancia que la recibió, dará parte de inmed
 
 ### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2021)</small>
 
 ###### Artículo 64.
 
@@ -503,7 +505,7 @@ Las autoridades de protección civil competentes en los términos de esta ley, a
 
 ###### ARTÍCULO 35.
 
-La Federación, las entidades federativas, el Distrito Federal y los municipios, se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+La Federación, las entidades federativas, la Ciudad de México y los municipios, se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
 Todas las medidas que lleve a cabo el Estado deberán ser realizadas sin discriminación alguna. Por ello, considerará el idioma, edad, condición social, preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas públicas en la materia.
 
@@ -601,7 +603,7 @@ El Ejecutivo Federal propondrá en el Proyecto de Presupuesto de Egresos de la F
 
 ###### ARTÍCULO 40.
 
-La Federación, las entidades federativas, el Distrito Federal y los municipios, coadyuvarán para el cumplimiento de los objetivos de esta ley de conformidad con las competencias previstas en el presente ordenamiento y demás instrumentos legales aplicables.
+La Federación, las entidades federativas, la Ciudad de México y los municipios, coadyuvarán para el cumplimiento de los objetivos de esta ley de conformidad con las competencias previstas en el presente ordenamiento y demás instrumentos legales aplicables.
 
 #### Sección Primera.. De la Federación
 
@@ -625,9 +627,9 @@ VII. Vigilar que los usos y costumbres de toda la sociedad no atenten contra los
 
 VIII. Coordinar la creación de Programas de reeducación y reinserción social con perspectiva de género para agresores de mujeres;
 
-> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2021)</small>
 
-IX. Garantizar una adecuada coordinación entre la Federación, las entidades federativas, el Distrito Federal y los municipios, con la finalidad de erradicar la violencia contra las mujeres;
+IX. Garantizar una adecuada coordinación entre la Federación, las entidades federativas, la Ciudad de México y los municipios, con la finalidad de erradicar la violencia contra las mujeres;
 
 X. Realizar a través del Instituto Nacional de las Mujeres y con el apoyo de las instancias locales, campañas de información, con énfasis en la doctrina de la protección integral de los derechos humanos de las mujeres, en el conocimiento de las leyes y las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
 
@@ -663,9 +665,9 @@ II. Diseñar la política integral con perspectiva de género para promover la c
 
 III. Elaborar el Programa en coordinación con las demás autoridades integrantes del Sistema;
 
-> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2021)</small>
 
-IV. Formular las bases para la coordinación entre las autoridades federales, locales, del Distrito Federal y municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+IV. Formular las bases para la coordinación entre las autoridades federales, locales, de la Ciudad de México y municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 V. Coordinar y dar seguimiento a las acciones de los tres órdenes de gobierno en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres;
 
@@ -955,9 +957,9 @@ Corresponde al Instituto Nacional de las Mujeres:
 
 I. Fungir como Secretaría Ejecutiva del Sistema, a través de su titular;
 
-> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2021)</small>
 
-II. Integrar las investigaciones promovidas por las dependencias de la Administración Pública Federal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención y erradicación, y la información derivada a cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en las entidades federativas, el Distrito Federal o municipios. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia;
+II. Integrar las investigaciones promovidas por las dependencias de la Administración Pública Federal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención y erradicación, y la información derivada a cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en las entidades federativas, y a la Ciudad de México o municipios. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia;
 
 III. Proponer a las autoridades encargadas de la aplicación de la presente ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar la violencia contra las mujeres;
 
@@ -979,7 +981,7 @@ X. Las demás previstas para el cumplimiento de la ley.
 
 #### Sección Décima Primera.. De las Entidades Federativas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 48 Bis.
 
@@ -995,9 +997,9 @@ III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que cons
 
 #### Sección Décima Segunda.. De los Municipios
 
-###### Artículo 49.
+###### ARTÍCULO 49.
 
-Corresponde a las entidades federativas y al Distrito Federal, de conformidad con lo dispuesto por esta ley y los ordenamientos locales aplicables en la materia:
+Corresponde a las entidades federativas y a la Ciudad de México, de conformidad con lo dispuesto por esta ley y los ordenamientos locales aplicables en la materia:
 
 I. Instrumentar y articular sus políticas públicas en concordancia con la política nacional integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
 
@@ -1386,3 +1388,13 @@ D.O.F. 13 DE ABRIL DE 2020.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como a la disponibilidad presupuestaria de cada una de ellas para el ejercicio fiscal que corresponda, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
+
+D.O.F. 11 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+## Transitorios
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Quedarán derogadas todas las disposiciones normativas que contravengan a este Decreto.
