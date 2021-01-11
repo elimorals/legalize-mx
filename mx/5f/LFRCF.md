@@ -4,7 +4,7 @@ identifier: "LFRCF"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-18"
-last_updated: "2016-07-18"
+last_updated: "2021-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115699&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRCF"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2021.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 18 de julio de 2016.
 
@@ -84,7 +84,9 @@ I. Auditoría Superior de la Federación: el órgano técnico de fiscalización 
 
 II. Auditorías: proceso sistemático en el que de manera objetiva se obtiene y se evalúa evidencia para determinar si las acciones llevadas a cabo por los entes sujetos a revisión se realizaron de conformidad con la normatividad establecida o con base en principios que aseguren una gestión pública adecuada;
 
-III. Autonomía de gestión: la facultad de la Auditoría Superior de la Federación para decidir sobre su organización interna, estructura y funcionamiento, así como la administración de sus recursos humanos, materiales y financieros que utilice para la ejecución de sus atribuciones, en los términos contenidos en la Constitución y esta Ley;
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2021)</small>
+
+III. Autonomía de gestión: la facultad de la Auditoría Superior de la Federación para decidir sobre su organización interna, estructura, funcionamiento y resoluciones, así como la administración de sus recursos humanos, materiales y financieros que utilice para la ejecución de sus atribuciones, en los términos contenidos en la Constitución y esta Ley;
 
 IV. Autonomía técnica: la facultad de la Auditoría Superior de la Federación para decidir sobre la planeación, programación, ejecución, informe y seguimiento en el proceso de la fiscalización superior;
 
@@ -292,7 +294,9 @@ IX. Requerir a los auditores externos copia de todos los informes y dictámenes 
 
 X. Requerir a terceros que hubieran contratado con las entidades fiscalizadas obra pública, bienes o servicios mediante cualquier título legal y a cualquier entidad o persona física o moral, pública o privada, o aquellas que hayan sido subcontratados por terceros, la información relacionada con la documentación justificativa y comprobatoria del ejercicio de recursos públicos a efecto de realizar las compulsas correspondientes;
 
-XI. Solicitar, obtener y tener acceso a toda la información y documentación, que a juicio de la Auditoría Superior de la Federación sea necesaria para llevar a cabo la auditoría correspondiente, sin importar el carácter de confidencial o reservado de la misma, que obren en poder de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ENERO DE 2021)</small>
+
+XI. Solicitar, obtener y tener acceso a toda la información y documentación, a través de medios físicos o electrónicos mediante herramientas tecnológicas, que a juicio de la Auditoría Superior de la Federación sea necesaria para llevar a cabo la auditoría correspondiente, sin importar el carácter de confidencial o reservado de la misma, que obren en poder de:
 
 a) Las entidades fiscalizadas;
 
@@ -347,6 +351,40 @@ XXVI. Fiscalizar el financiamiento público en los términos establecidos en est
 XXVII. Solicitar la información financiera, incluyendo los registros contables, presupuestarios, programáticos y económicos, así como los reportes institucionales y de los sistemas de contabilidad gubernamental que los entes públicos están obligados a operar con el propósito de consultar la información contenida en los mismos, y
 
 XXVIII. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento para la fiscalización de la Cuenta Pública.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+###### Artículo 17 Bis.
+
+Los procesos de fiscalización a que hace referencia esta Ley, podrán ser realizados por la Auditoría Superior de la Federación de manera presencial o por medios electrónicos a través de las herramientas tecnológicas y de conformidad con sus Reglas de carácter general.
+
+La Auditoría Superior de la Federación contará con un Buzón Digital, a través del cual, de manera enunciativa más no limitativa realizará la notificación de solicitudes de información preliminar, órdenes de auditoría, e informes individuales que contengan acciones, previsiones o recomendaciones, así como, en su caso, cualquier acto que se emita, los cuales constarán en documentos digitales.
+
+Por su parte, las entidades fiscalizadas presentarán solicitudes o darán atención a requerimientos de información de la Auditoría Superior de la Federación a través de documentos o archivos digitales certificados enviados a través del Buzón Digital o celebrarán los actos que se requieran dentro del proceso de fiscalización superior.
+
+Los procesos de fiscalización que se realicen a través de medios electrónicos mediante las herramientas tecnológicas constarán en expedientes electrónicos o digitales.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+###### Artículo 17 Ter.
+
+Las disposiciones relativas a la auditoría presencial le serán aplicables en lo conducente a la auditoría realizada a través de medios digitales o electrónicos, sin perjuicio de que de manera particular se esté a lo siguiente:
+
+I. Previo al inicio de la auditoría por medios digitales la Auditoría Superior de la Federación requerirá por escrito a la entidad fiscalizada, el nombre, cargo, registro federal de contribuyentes y correo o dirección electrónica del servidor público que fungirá como enlace o coordinador para la atención de la auditoría;
+
+II. Una vez recibida la información a que hace referencia la fracción anterior, la Auditoría Superior de la Federación enviará por única ocasión, al correo o dirección electrónica designada, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste;
+
+III. Los servidores públicos de la entidad fiscalizada que se encuentren autorizados para tal efecto harán uso del Buzón Digital para el desahogo de la auditoría por medios electrónicos o digitales, y deberán consultarlo a más tardar dentro de los dos días hábiles siguientes a aquél en que reciban un aviso electrónico enviado por la Auditoría Superior de la Federación;
+
+IV. Las notificaciones digitales, se tendrán por realizadas cuando se genere el acuse de recibo digital de notificación del acto de autoridad de que se trate, en el que se hará constar el sello digital de tiempo emitido de conformidad con las disposiciones jurídicas aplicables, que refleja la fecha y hora en que el servidor público de la entidad fiscalizada se autenticó para abrir el documento a notificar o bien, se tuvo por notificado;
+
+V. Ante la falta de consulta de la notificación digital, ésta se tendrá por realizada al tercer día hábil siguiente, contado a partir del día en que fue enviado el referido aviso. Será responsabilidad de las entidades fiscalizadas mantener vigente la cuenta de correo electrónico señalada para efectos de notificación de los actos derivados de la auditoría por medios electrónicos o digitales;
+
+VI. En los documentos electrónicos o digitales, la firma electrónica avanzada amparada por un certificado vigente sustituirá a la firma autógrafa del firmante, garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio, y
+
+VII. Cuando la Auditoría Superior de la Federación por caso fortuito o fuerza mayor, se vea impedida para continuar con la auditoría por medios digitales o electrónicos, ésta se suspenderá hasta que la causa desaparezca, lo cual se deberá publicar en la página de Internet de la Auditoría Superior de la Federación acompañada de la fundamentación y motivación correspondiente.
+
+En caso de que la auditoría pueda ser continuada por la vía presencial, ésta se cambiará de modalidad para cumplir con el mandato constitucional en tiempo y forma. En el mismo sentido, el cambio de una auditoría presencial a una digital podrá realizarse en cualquier tiempo fundando y motivando debidamente la determinación.
 
 ###### Artículo 18.
 
@@ -690,7 +728,9 @@ Las denuncias podrán presentarse a la Cámara, a la Comisión o directamente a 
 
 Las denuncias que se presenten deberán estar fundadas con documentos y evidencias mediante los cuales se presuma el manejo, aplicación o custodia irregular de recursos públicos o de su desvío, en los supuestos establecidos en esta Ley.
 
-El escrito de denuncia deberá contar, como mínimo, con los siguientes elementos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ENERO DE 2021)</small>
+
+El escrito de denuncia podrá presentarse de forma presencial o a través de medios electrónicos y deberá contar, como mínimo, con los siguientes elementos:
 
 I. El ejercicio en que se presentan los presuntos hechos irregulares, y
 
@@ -713,6 +753,10 @@ IV. La comisión recurrente de irregularidades en el ejercicio de los recursos p
 V. Inconsistencia en la información financiera o programática de cualquier entidad fiscalizada que oculte o pueda originar daños o perjuicios a su patrimonio.
 
 La Auditoría Superior de la Federación informará al denunciante la resolución que tome sobre la procedencia de iniciar la revisión correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+En el caso de las denuncias a través de medios electrónicos, la respuesta se realizará por el mismo medio de conformidad con las disposiciones aplicables.
 
 ###### Artículo 62.
 
@@ -976,7 +1020,13 @@ Asimismo, expedir las normas para el ejercicio, manejo y aplicación del presupu
 
 VII. Nombrar al personal de mando superior de la Auditoría Superior de la Federación, quienes no deberán haber sido sancionados con la inhabilitación para el ejercicio de un puesto o cargo público;
 
-VIII. Expedir aquellas normas y disposiciones que esta Ley le confiere a la Auditoría Superior de la Federación; así como establecer los elementos que posibiliten la adecuada rendición de cuentas y la práctica idónea de las auditorías, tomando en consideración las propuestas que formulen las entidades fiscalizadas y las características propias de su operación;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE ENERO DE 2021)</small>
+
+VIII. Expedir aquellas normas y disposiciones que esta Ley le confiere a la Auditoría Superior de la Federación; así como establecer los elementos que posibiliten la adecuada rendición de cuentas y la práctica idónea de las auditorías, tomando en consideración las propuestas que formulen las entidades fiscalizadas y las características propias de su operación.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+Asimismo, expedir las Reglas de carácter general aplicables a los procesos de fiscalización superior por medios electrónicos, así como la normatividad relativa a los protocolos de seguridad que para tal efecto se implementen. La información y documentación así obtenida, tendrá para todos los efectos legales, pleno valor probatorio.
 
 IX. Presidir de forma dual con el Secretario de la Función Pública el Comité Rector del Sistema Nacional de Fiscalización;
 
@@ -1237,3 +1287,17 @@ OCTAVO.- La Auditoría Superior de la Federación deberá actualizar y, en su ca
 Ciudad de México, a 17 de junio de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciocho de julio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DE LA FEDERACIÓN”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Auditoría Superior de la Federación realizará y adecuará las disposiciones reglamentarias correspondientes, a fin de poner en funcionamiento la herramienta electrónica a que hace referencia el artículo 17 Bis de la presente Ley, dentro del plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Tercero. Las auditorías presenciales iniciadas antes de la entrada en vigor de la presente reforma se concluirán bajo la misma modalidad.
+
+Cuarto. El Congreso de la Unión homologará y armonizará la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y la Cámara de Diputados hará lo conducente respecto al Reglamento de la Cámara de Diputados, a fin de permitir la recepción, por medios electrónicos de las denuncias a que se refiere la presente Ley, dentro del plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
