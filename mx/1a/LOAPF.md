@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2020-12-07"
+last_updated: "2021-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,261 +22,27 @@ abbreviation: "LOAPF"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE PUEBLA
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2021.
 
-Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
+Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
-Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado.- Puebla.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-MANUEL BARTLETT DIAZ, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a sus habitantes sabed:
+JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
-Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
-
-EL HONORABLE QUINCUAGESIMO TERCER CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
-
-CONSIDERANDO
-
-> <small>(F. DE E., P.O. 13 DE ABRIL DE 1998)</small>
-
-Que en Sesión Pública Ordinaria de esta fecha, Vuestra Soberanía tuvo a bien aprobar el Dictamen con Minuta de Ley del Transporte para el Estado de Puebla emitido por las Comisiones Unidas de Gobernación, Justicia y Puntos Constitucionales y de Hacienda Pública y Patrimonio Estatal y Municipal y de Ecología, Prevención, Mejoramiento, Rehabilitación y Protección del Ambiente del H. Congreso del Estado, enviada por el Ejecutivo del Estado.
-
-Que la Ley de Vialidad y del Transporte Estatal, fue aprobada mediante Decreto de fecha veintiséis de julio de mil novecientos noventa y publicada en el Periódico Oficial del Estado el día tres de agosto de mil novecientos noventa, estableció las bases y la organización de la Dirección de Tránsito constituyendo, en su momento, un adecuado marco jurídico para la actuación de esa Dependencia.
-
-Que a raíz del acelerado crecimiento urbano que se dio en la Ciudad de Puebla a partir de mil novecientos ochenta, se han originado nuevas unidades habitacionales generando necesidades en materia de transporte, mismas que han sido parcialmente resueltas, con un sistema que ha generado una gran complejidad en los servicios, no sólo en la Capital del Estado sino en toda la Entidad.
-
-Que a fin de atender esas necesidades de manera apropiada, se creó una nueva dependencia estatal con el propósito de que regule todo lo relacionado con el transporte y otras materias, naciendo la Secretaría de Comunicaciones y Transportes del Estado de Puebla, mediante Decreto de fecha veinte de marzo de mil novecientos noventa y seis y publicado en el Periódico Oficial del Estado con fecha cuatro de junio de mil novecientos noventa y seis.
-
-Para que la actuación de la Secretaría de Comunicaciones y Transportes del Estado sea acorde con el Plan Estatal de Desarrollo 1993-1999, se acogieron los objetivos del mismo, en materia de transportes, tendientes a modernizar integralmente la infraestructura vial y el transporte público de la Ciudad de Puebla y ciudades medias, mejorando la capacidad, seguridad, calidad y eficacia de los sistemas.
-
-Que la Secretaría de Comunicaciones y Transportes del Estado de Puebla ha destacado que el transporte público del Estado opera con un equipo obsoleto e inapropiado, con un creciente número de unidades de baja capacidad, que tienen una antigüedad que rebasa la edad media de los vehículos destinados al transporte público, que circulan en rutas inadecuadas ya que la dispersión espacial de esas rutas es el resultado de un proceso de creación sin base en una planeación, que no existe una infraestructura específica para el transporte público en el que hayan terminales de pasajeros, estaciones de transferencia, señalamientos de puntos de paradas, lo que se refleja en grandes problemas para la circulación del parque vehicular de la Ciudad.
-
-Que la iniciativa de proponer una ruta y solicitar una concesión ha sido, hasta ahora, del interesado en ofrecer el servicio, constituyendo éste, un procedimiento incompatible con el requisito económico de proveer el servicio de conformidad con un plan del transporte.
-
-Que el sistema del transporte actual basado en el concepto hombre-camión, impide adoptar políticas de desarrollo que motiven la formación de empresas, no permitiendo la modernización y adecuación de las flotas, el control operacional de la oferta, la reducción de impactos ambientales, ni la disminución de accidentes.
-
-Que no existe un verdadero control de los vehículos que se dedican, dentro de la Entidad, a prestar el Servicio del Transporte Mercantil a pesar de la importancia del mismo como factor influyente en el desarrollo económico y social de la Entidad.
-
-Que todas esas características que se dan en la Capital del Estado se repiten en el interior del mismo, manifestándose mayores problemas en las ciudades más importantes y agudizándose por la raquítica estructura vial.
-
-Que para buscar la modernidad del sistema y alcanzar los objetivos de la Secretaría de Comunicaciones y Transportes del Estado de Puebla, se requiere realizar una modificación integral de las condiciones del transporte, que resuelva la problemática actual para retomar la verdadera esencia del transporte, como inductor del desarrollo y del servicio público, misma que debe contar con un marco jurídico adecuado y actualizado, congruente con el Plan Estatal de Desarrollo y los programas de modernización elaborados por el Gobierno del Estado, tendiente a corregir las deficiencias del sistema, a efecto de buscar opciones más viables que impacten directamente en la problemática del transporte. Este cuerpo normativo deberá satisfacer las necesidades y reclamos actuales de la sociedad poblana, previendo el desarrollo y la transformación inminente que trae aparejado el cercano inicio de otro siglo.
-
-Que en consideración a lo anterior y después de una revisión a la actual Ley de Vialidad y del Transporte Estatal, se concluye que ese ordenamiento legal contiene diversas lagunas con respecto al Servicio Público de Transporte, impidiendo el desarrollo y la actualización de este rubro, obstaculizando con esto los objetivos de modernización necesarios para el Estado, siendo además omiso en cuanto a la regulación del Transporte Mercantil.
-
-De lo anterior se desprende que la actual legislación en materia de Transportes ha dejado de ser un instrumento eficaz en sus aspectos políticos, económicos y sociales, por lo que es indispensable la creación de una nueva Ley en la materia, que constituya el marco jurídico de actuación de la Secretaría de Comunicaciones y Transportes del Estado de Puebla, en el área del Servicio del Transporte Público y Mercantil.
-
-La presente Ley del Transporte para el Estado de Puebla, contiene ciento cuarenta y dos artículos, distribuidos en ocho Títulos y diecinueve Capítulos, así como siete artículos transitorios.
-
-En el TITULO PRIMERO: Se establecen las GENERALIDADES, que comprenden lo relativo a los objetivos de la Ley, las autoridades en materia de transporte y las atribuciones que corresponden a las mismas.
-
-Que en relación con este Título, se establece que en materia de Transporte corresponderá al Gobernador del Estado y a la Secretaría de Comunicaciones y Transportes del Estado de Puebla, dentro de su jurisdicción, controlar, regular, vigilar, sancionar a los vehículos del Servicio Público de Transporte y Mercantil, contando con un cuerpo de Supervisores que tendrán a su cargo, ejecutar las medidas tendientes a lograr el buen funcionamiento del Servicio Público de Transporte y del Servicio Mercantil y sus servicios auxiliares.
-
-En el TITULO SEGUNDO: DE LA REGULACION GENERAL DEL SERVICIO PUBLICO DE TRANSPORTE Y DEL SERVICIO MERCANTIL, se propone que los vehículos se clasifiquen en función del servicio a que se encuentran destinados haciéndose dos grandes divisiones. En la primera de ellas se incluye el Servicio Público del Transporte, entendiéndose como tal, el que tiene el Estado la obligación de prestarlo, por ser una necesidad para la comunidad y que, al no poder hacerlo por sí mismo, permite que lo realicen terceros por virtud de una concesión. Se incluye dentro de este servicio, el Transporte de Personas subclasificado en Urbano, Suburbano, Foráneo y Transporte Mixto de Pasajeros y Bienes.
-
-En la segunda de las dos grandes clasificaciones a las que se refiere esta Ley, se considera como elemento innovador de la misma, el Servicio del Transporte Mercantil que es el que prestan los particulares directamente a otros particulares, constituyendo una actividad comercial o que llevan a cabo los propietarios de vehículos como extensión de los actos de comercio que realizan. Este servicio se subclasifica en Transporte de Personas y Transporte de Carga.
-
-Dentro del Transporte de Personas se incluye el de Automóviles de Alquiler, el Escolar, el de Personal, el de Turismo y el de Servicio Extraordinario; dentro del Transporte de Carga se contempla el de Materiales para Construcción, el de Carga Ligera, el de Mudanzas, el de Mensajería y Paquetería, el Especial, el de Giros Restringidos, entre otros; servicios que no tiene el Estado la obligación de prestarlos pero que es necesario que la Secretaría de Comunicaciones y Transportes del Estado de Puebla tenga un control eficaz en la forma y el modo en que se realizan.
-
-En el TITULO TERCERO: DE LAS LICENCIAS PARA CONDUCIR, se crea una nueva clasificación de las licencias que se requieren para conducir los vehículos acorde con el tipo de servicio que se realice.
-
-Se aumenta el número de requisitos a cumplir por parte de aquéllos que quieran obtener una Licencia de Chofer en relación con los requisitos que se establecen para obtener una Licencia de Automovilista que es de uso particular. Se obliga a los choferes del Servicio Público y Mercantil a obtener primero una Licencia de Entrenamiento de Chofer con una vigencia de seis meses, que se deberá renovar por cuatro veces consecutivas, con lo que se le permite a la autoridad llevar un control del comportamiento del chofer, brindándole la oportunidad a éste e imponiéndole la obligación para que se capacite y adiestre, durante esos dos años en que dure su entrenamiento antes de ofrecerle una licencia de chofer del Servicio Público y Mercantil.
-
-Por los mismos motivos, se incluye la Licencia Provisional para el Automovilista y Motociclista en la minoría de edad del conductor y para las personas que teniendo diferentes edades estén aprendiendo a conducir.
-
-Reflejándose lo anterior no sólo en un mayor control por parte de la autoridad sino en una mayor capacitación de los conductores que redunda en una más alta seguridad para los usuarios y para los peatones en general.
-
-El TITULO CUARTO: DE LAS CONCESIONES Y LOS PERMISOS PARA EL SERVICIO PUBLICO DE TRANSPORTE Y EL SERVICIO MERCANTIL, ratifica el irrenunciable derecho que tiene el Estado para prestar en forma directa el Servicio Público de Transporte, o bien, a través de los medios que estime convenientes, tales como el otorgamiento de concesiones para el Servicio Público de Transporte o permisos para el Servicio de Transporte Mercantil, a los particulares que reúnan las condiciones necesarias para llevar a cabo esos servicios.
-
-Que para distinguir de manera precisa las concesiones de los permisos, se parte de la definición que establecen los tratadistas entre Servicios Públicos Propios y Servicios Públicos Impropios. Los primeros, dentro de la Ley, son objeto de concesión en tanto que los segundos de permisos. Los Servicios Públicos Propios por resultar esenciales para el interés general, deben ser prestados por el propio Estado, quien tiene la facultad para concesionarlo a personas físicas o morales, vigilando el cumplimiento de las obligaciones por parte del concesionario; en tanto que los Servicios Públicos Impropios, que en estricto sentido el Estado no se encuentra obligado a prestar, sólo son reglamentados por éste para asegurar su continuidad, orden y correcta operación.
-
-Por ser facultad de los órganos de la Administración Pública, el otorgamiento de concesiones, de manera discrecional y unilateral, a personas físicas o morales, para el establecimiento y explotación del Servicio Público de Transporte, este Título establece que éstas deben estar debidamente reguladas, teniendo en todo tiempo la Secretaría de Comunicaciones y Transportes del Estado de Puebla la facultad para revocar unilateral y anticipadamente las concesiones otorgadas.
-
-Que la Ley del Transporte para el Estado de Puebla, en su Capítulo de Concesiones, define la vigencia de la concesión como indefinida, lo cual no significa que ésta sea vitalicia.
-
-Que los concesionarios, en tanto que participan con el poder público en la realización del servicio por medio de la concesión respectiva, se encuentran obligados a cumplir rigurosamente con todas y cada una de las condiciones especificadas en este Título, por lo cual su incumplimiento podrá dar motivo a su revocación, sin perjuicio de la garantía de audiencia a que tiene derecho el concesionario, con apego al procedimiento que señale el propio Reglamento.
-
-Con el propósito de reactivar la actividad transportista como una forma de crear fuentes de trabajo y modernizar a la vez estos servicios, en este Título se sientan las bases para que exista una mayor participación de los particulares, favoreciendo la creación de empresas transportistas debidamente constituidas, que puedan adoptar la forma de cualquiera de las sociedades mercantiles reconocidas por las leyes mexicanas, que sean totalmente autosuficientes y que garanticen plenamente las inversiones realizadas, obligando a éstos, a proporcionar, en correspondencia, mejores servicios en beneficio de la colectividad.
-
-Que por lo que concierne al otorgamiento de los permisos para el Servicio de Transporte Mercantil y para algunos Servicios Auxiliares al transporte, se considera conveniente encontrar los caminos justos y adecuados para su regulación, buscando que la autoridad del transporte disponga de instrumentos idóneos para ello, desterrando por principio de cuentas algunas prácticas viciadas en los procedimientos administrativos e introduciendo términos más adecuados con la realidad operativa. Por lo que en este Título se procede a reglamentar todo lo concerniente a los permisos para prestar el Servicio de Transporte Mercantil y algunos Servicios Auxiliares.
-
-Que en este Título, la Secretaría de Comunicaciones y Transportes del Estado de Puebla, para llevar un control de los concesionarios y permisionarios, establece un Registro de Concesiones y Permisos, para obtener un padrón actualizado, confiable y veraz de éstos.
-
-Que el TITULO QUINTO, se refiere a los SERVICIOS AUXILIARES DEL TRANSPORTE ESTATAL, disponiendo que la Secretaría de Comunicaciones y Transportes del Estado de Puebla está facultada para prestarlos por sí o a través de terceros mediante el otorgamiento de concesiones o permisos. Entre estos servicios se encuentran las terminales de pasajeros, las terminales interiores de carga, las de transferencia y las de ruta fija, los sitios, las bases, arrastre, traslado y depósito de vehículos del Servicio Público y Mercantil y los centros de capacitación y adiestramiento.
-
-El otorgamiento de una concesión o de un permiso, se hará de acuerdo con las necesidades del servicio y las características propias de cada uno de éstos, cumpliendo además con los requisitos que se establezcan en el Título de Concesiones de esta Ley y sus Reglamentos.
-
-Que las concesiones y los permisos serán susceptibles de revocación o cancelación, respectivamente, observándose los lineamientos que la propia Ley y los Reglamentos señalen para tal efecto.
-
-Que el TITULO SEXTO, regula lo concerniente al REGIMEN DE LAS TARIFAS, ITINERARIOS, RECORRIDOS, HORARIOS Y FRECUENCIAS DE PASO EN EL SERVICIO PUBLICO DE TRANSPORTE Y EL SERVICIO MERCANTIL, señalando que los itinerarios, las tarifas, frecuencias de paso y los horarios serán fijados por la Secretaría de Comunicaciones y Transportes del Estado de Puebla, con base en los estudios que se lleven a cabo tomando en cuenta los intereses del público usuario y considerando los factores técnicamente necesarios para que los transportistas cubran íntegramente los gastos que se deriven de la prestación del servicio y obtengan una utilidad razonable, lo que representa un cambio radical de los conceptos y políticas que, anacrónicamente, se han manejado en materia de transporte.
-
-Que el TITULO SEPTIMO, trata lo relativo a la EDUCACION Y SEGURIDAD VIAL, que tiene por objeto establecer que la Secretaría de Comunicaciones y Transportes del Estado de Puebla desarrolle campañas, programas y cursos de seguridad vial, para elevar en la sociedad el nivel educativo en este campo, con lo cual se obtendrán beneficios directos como la reducción de accidentes viales, fluidez en la circulación vehicular, concientización de los operadores de las unidades del Servicio Público y Mercantil, así como de los usuarios y de la comunidad en general, sobre la importancia que tiene el respeto a los ordenamientos en materia vial.
-
-También en este Título se ordenan medidas tendientes a la preservación del medio ambiente así como a dar una mayor facilidad a los discapacitados que hacen uso del Servicio Público de Transporte, para que puedan abordar y descender de las unidades, con comodidad y seguridad.
-
-Que el TITULO OCTAVO, al tratar DEL PROCEDIMIENTO, establece lo relativo a recursos, sanciones, notificaciones y el procedimiento para tramitar los mismos, con el fin de salvaguardar las garantías individuales, llamadas derecho de petición y de audiencia, que establecen los artículos 8, 14 y 16 del pacto federal, consistentes en el derecho que tiene todo gobernado de dirigirse a las autoridades con la certeza que recibirá una respuesta a la solicitud que formula, estando además, en aptitud de ejercer su derecho de audiencia en caso que considere que la respuesta obtenida le causa agravios.
-
-Respecto de los recursos, se señala que los mismos podrán interponerse en contra del proceder de esta Secretaría, o en contra de las resoluciones administrativas que se dicten con motivo de la aplicación de la presente Ley y sus Reglamentos, estableciéndose el Recurso de Inconformidad, mismo que se interpondrá ante el Secretario de Comunicaciones y Transportes del Estado de Puebla, quien lo resolverá de acuerdo con el procedimiento establecido en el instrumento reglamentario aplicado.
-
-El artículo 21 de la Constitución General de la República, establece que compete a la autoridad administrativa, la aplicación de sanciones por infracciones de los Reglamentos Gubernativos y de Policía. En ese contexto y tomando en cuenta que toda norma jurídica es susceptible de violación por parte de los sujetos que deben observarla, que esta violación responde en cada caso a condiciones muy diversas y a que los intereses afectados varían también considerablemente, en consecuencia, la sanción que ha de establecerse tiene que ser distinta en cada caso, para que responda adecuadamente al fin general que se persigue, o sea la observancia del derecho y la conservación del orden jurídico.
-
-Por las citadas consideraciones y con el fin de asegurar el cabal cumplimiento a las normas previstas en esta Ley y sus Reglamentos, corresponde a la Secretaría de Comunicaciones y Transportes del Estado de Puebla la aplicación de las mismas, al encontrarse dotada de una potestad sancionadora que ejerce dentro de un marco jurídico plenamente definido. Por tales razones, en los Reglamentos de la Ley en comento, se han establecido las infracciones susceptibles de cometerse, así como la respectiva sanción que deba imponerse sujetándose al tabulador autorizado.
-
-Este Título comprende también, lo relativo a las Notificaciones, en donde se establece el procedimiento a seguir por esta autoridad, para hacer del conocimiento del interesado, las resoluciones o acuerdos que recayeron a sus peticiones, o con motivo de la prestación del Servicio Público de Transporte o Mercantil.
-
-Resulta importante hacer mención que las Comisiones Unidas Dictaminadoras, acordaron con fecha diecisiete de diciembre de mil novecientos noventa y siete, llevar a cabo Foros de Consulta Popular en el Estado, siendo más precisos en las Ciudades de Zacatlán, Teziutlán, Acatlán de Osorio, Puebla y Tehuacán, a efecto de analizar la Iniciativa de Ley de Transporte para el Estado de Puebla.
-
-El primer Foro de Consulta Popular se llevó a cabo el viernes nueve de enero del año en curso, en el Salón de los Candiles del Palacio Municipal del Honorable Ayuntamiento de Zacatlán, Puebla, con un registro de once participantes; los cuales se expresaron con diversas ponencias y propuestas que se resumen en los siguientes rubros:
-
-* "De las concesiones del servicio público del transporte".
-
-* "La problemática de los servicios auxiliares de transporte en terminales, sitios y bases".
-
-* "Los problemas e irregularidades de los servicios auxiliares del transporte estatal".
-
-* "La problemática y soluciones en el transporte del Municipio de Zacatlán".
-
-* "Problemática de la Ley".
-
-* "Asuntos relativos con la creación de empresas".
-
-* "De las concesiones y permisos".
-
-* Además de intervenciones que a título personal desarrollaron diversos ciudadanos, agrupaciones y sectores en el cual expresaron sus puntos de vista con relación a la Iniciativa en comento.
-
-Con fecha diecinueve de enero del presente año, en el Salón de Cabildos del Honorable Ayuntamiento del Municipio de Teziutlán, Puebla, se llevó a cabo el segundo Foro de Consulta Popular, al que previa convocatoria las Comisiones Unidas de Trámite habían convocado, en el cual se registraron once participaciones, de las que se desprenden los temas y rubros siguientes:
-
-* "De la regularización general del servicio público del transporte".
-
-* "De los servicios auxiliares del transporte estatal".
-
-* "El régimen de las tarifas".
-
-* "Transporte escolar".
-
-* Además de algunas participaciones, que a título personal expresaron en relación con la Iniciativa que estaba poniéndose a consideración de la ciudadanía, las cuales se estudiaron y analizaron en su momento.
-
-El tercer Foro de Consulta Popular se realizó en la Ciudad de Acatlán de Osorio, Puebla, el día nueve de febrero del año en curso, teniendo un total de nueve intervenciones, las cuales de modo general manifestaron se establecieran modificaciones a diversos artículos de la Ley, como en lo concerniente a las concesiones y de los permisionarios, sobre los permisos, sobre las tarifas, itinerarios, frecuencia de paso y horarios, así como de las campañas, programas, cursos de educación y protección ecológica, de las sanciones, entre otros.
-
-El día dieciocho de febrero del año en curso, en el Salón "Miguel Hidalgo" del Honorable Congreso del Estado Libre y Soberano de Puebla, tuvo verificativo el cuarto Foro de Consulta Popular, en el cual hubo una participación de doce intervenciones, las cuales se resumen en los rubros siguientes:
-
-Sobre la necesariedad de establecer cursos de capacitación sobre vialidad, transporte y reglamento de tránsito para operadores y usuarios; mayor vigilancia en áreas como hospitales, escuelas, avenidas y cruceros de gran movimiento y tránsito vehicular; sobre los permisos y las concesiones, regulación de las tarifas del cobro de pasaje; fijación de horarios e itinerarios de las rutas de transporte y modernización del transporte público de pasajeros.
-
-Por último el día viernes veintisiete de febrero del presente año, se llevó a cabo en el Municipio de Tehuacán, Puebla, el quinto y último Foro de Consulta Popular, teniendo una participación de diez intervenciones, que se manifestaron en los rubros siguientes:
-
-Establecer en forma clara el objeto de la Ley, de las concesiones del transporte público, de las autoridades del transporte y de los sujetos de las concesiones, de las licencias para conducir, sobre las campañas y programas, cursos de educación y protección ecológica, con relación al interés público y las empresas del transporte.
-
-Resulta importante destacar que los Ciudadanos Diputados que integran las Comisiones Unidas Dictaminadoras, auxiliados por las Direcciones de Estudios y Proyectos Legislativos y de Apoyo Parlamentario del H. Congreso del Estado, valoraron, estudiaron y analizaron cada una de las propuestas e intervenciones que se dieron en todos y cada uno de los Foros de Consulta Popular a efecto de que de ser procedente jurídica y legislativamente, se incluyeran en el cuerpo de la Ley del Transporte para el Estado.
-
-De lo anterior y una vez que fueron analizadas las propuestas, se consideró viable hacer algunas modificaciones a la Iniciativa presentada al Congreso del Estado, como resultado de los Foros de Consulta Popular.
-
-Las mismas consisten en lo específico en el artículo 17 fracción III, en el cual no se comprende como Servicio Mercantil en la Ley de Ingresos del Estado vigente el transporte de carga general, por tanto, se elimina el inciso a) a dicha fracción, a fin de evitar situaciones problemáticas a los transportistas.
-
-Siendo congruentes con lo que se establece en los considerandos anteriores, se elimina el artículo 29 de la Iniciativa, toda vez que ya se encuentra comprendido dentro de los Giros Restringidos, además de guardar congruencia nuevamente con la Ley de Ingresos del Estado para el ejercicio fiscal de mil novecientos noventa y ocho.
-
-Al eliminar diversos artículos se recorre la numeración en forma consecutiva, por tanto al referirnos en estos considerandos a otros artículos, se hará en virtud de los ya recorridos.
-
-Con relación al artículo 34, se elimina el rubro de "materiales especiales para construcción", toda vez que éste ya se contempla en el artículo 18 fracción III, además de que lo define el artículo 29.
-
-Siguiendo con las propuestas que se hicieron en los Foros de Consulta Popular, se cambia el texto del artículo 39, en virtud de que a la Secretaría de Finanzas le corresponde de origen la facultad de diseñar y emitir los formatos para el control vehicular, en términos de la cláusula novena fracción I inciso d) del Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado por la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado de Puebla, publicado en el Diario Oficial de la Federación con fecha dieciocho de diciembre de mil novecientos noventa y seis y actualmente en vigor.
-
-Lo anterior se corrobora con lo dispuesto en la Ley Orgánica de la Administración Pública del Estado, en el Capítulo III que se refiere a la Secretaría de Finanzas y que le confiere en la fracción XIII del artículo 30 la facultad de: "Elaborar, integrar, controlar, verificar y mantener actualizados, los registros y padrones que conforme a las disposiciones legales, convenios y sus anexos, le correspondan, asignando placas de circulación de los vehículos inscritos en el registro estatal vehicular; así como emitir y entregar tarjetas de circulación, engomado, alfanumérica y fiscal y demás documentos relativos a vehículos del servicio particular. Confiriéndose por otro lado a la Secretaría de Comunicaciones y Transportes, únicamente la facultad de "Suscribir mancomunadamente con la Secretaría de Finanzas, tarjetas de circulación de transporte público, mercantil y particular". En los casos de los servicios del transporte público, revisar, y en su caso autorizar, la documentación del solicitante y de ser procedente entregar los documentos previstos en la Ley de la materia,..." según lo previene la Ley en comento en su Capítulo IX artículo 36 fracción XXI.
-
-Asimismo se elimina al artículo 40 el concepto de expedir, toda vez de que como se ha venido estableciendo, la Secretaría de Comunicaciones y Transportes sólo está facultada para revisar o, en su caso, autorizar la documentación del solicitante y de ser procedente, entregar los documentos previstos en la Ley que se presenta.
-
-A fin de ser congruentes con el estudio y análisis que se hizo a la Iniciativa de Ley de Transporte para el Estado de Puebla, se elimina la fracción VI al artículo 75 que se refiere al Transporte de Carga en General, recorriéndose por técnica legislativa las fracciones subsecuentes siguiendo un orden alfanumérico.
-
-De la misma manera se cambia la redacción al artículo 76, como resultado de las propuestas que hizo la sociedad con relación a los requisitos que deben de reunir los interesados para obtener permisos, ya que no operan todos los requisitos señalados en los artículos 61 y 62 para la obtención de los permisos, eliminando además lo relativo a la cancelación del permiso, toda vez que en el Capítulo II del Título Cuarto, no se establecen las causales que den lugar a la cancelación, previéndose esto en el artículo 80 de la presente Ley.
-
-Cabe advertirse que se cambia la denominación del Capítulo IV del Título Cuarto, "De los Registros Estatal Vehicular y de Concesiones y Permisos", en atención a que el padrón vehicular es un todo que integra el Servicio Público, el Servicio Mercantil y el Servicio Particular.
-
-Siguiendo en este orden de ideas, se cambia la redacción al artículo 82, lo anterior a fin de aclarar el texto del mismo y hacerlo congruente con los ordenamientos fiscales.
-
-También se modifica la redacción del artículo 116, a fin de que sea más claro y preciso, además de que guarde congruencia con el texto del artículo 117 de la Ley en comento.
-
-> <small>(F. DE E., P.O. 13 DE ABRIL DE 1998)</small>
-
-Resulta de la misma manera importante hacer mención que las Comisiones Unidas de Estudio consideraron necesario modificar diversos dispositivos de la Iniciativa de Ley del Transporte para el Estado de Puebla en las cuales se aportaron valiosas modificaciones, mismas que fueron tomadas con relación a la técnica jurídica y legislativa.
-
-Es necesario dejar establecido que las Comisiones Unidas de Trámite Legislativo, al hacer las modificaciones a los dispositivos antes mencionados, fue en virtud de las manifestaciones que se dejaron ver en los diversos Foros de Consulta Popular a que convocaron las mismas Comisiones, por ello, es importante destacar que todas las propuestas se valoraron y estudiaron, y que dieron como resultado estos cambios significativos a la Ley de Transporte para el Estado de Puebla.
-
-Como puede advertirse, esta nueva Ley del Transporte para el Estado de Puebla no sólo tiene como objetivo subsanar toda la problemática ya existente en el Estado en materia de transportes, sino también darle solución adecuada a la realidad actual, reglamentando las concesiones y los permisos del Servicio Público de Transporte y Mercantil, creando diferentes tipos de licencias, con requisitos más rigurosos, acordes con el tipo de servicio que el conductor pretenda prestar y abriendo la posibilidad de concesionar los servicios auxiliares entre otros, proyectándose así al futuro, al prever con una reglamentación más detallada, el desarrollo del transporte en los años venideros.
-
-El Estado, a través de la Secretaría de Comunicaciones y Transportes de la Entidad, tiene la obligación de prestar el Servicio del Transporte de manera eficiente y sólo podrá cumplir con el marco jurídico de: "LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA", en la que se establecen las bases necesarias para consolidar las acciones de planeación integral y desarrollo en materia del transporte.
-
-Esta nueva Ley del Transporte para el Estado de Puebla propiciará la adecuación de Leyes, Decretos, Reglamentos y demás ordenamientos legales que regulen la actuación de la Secretaría de Comunicaciones y Transportes del Estado de Puebla.
-
-Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción I, 64, 67, 79 fracción VI de la Constitución Política del Estado Libre y Soberano de Puebla; 39 fracciones I, II y IX, 41, 42, 74 y 75 de la Ley Orgánica del Poder Legislativo; 39, 42 fracciones I, II y IX del Reglamento Interior del H. Congreso del Estado,
+Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
 
 DECRETO
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE FEBRERO DE 2021)</small>
+"El Congreso de los Estados Unidos Mexicanos, decreta:
 
-LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE PUEBLA
+LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-## TITULO PRIMERO. GENERALIDADES
+## TITULO PRIMERO. De la Administración Pública Federal
 
-### CAPITULO I. DEL OBJETO DE LA LEY
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-###### ARTICULO 1.
-
-La presente Ley es de interés social y de orden público, de observancia general en el Estado de Puebla y tiene por objeto establecer las bases y directrices para planificar, regular y gestionar la movilidad de las personas, bienes y mercancías por medios terrestres, así como regular todo lo relacionado con el Servicio Público de Transporte, el Servicio Mercantil, los Servicios Auxiliares y el Servicio Ejecutivo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE FEBRERO DE 2021)</small>
-
-###### ARTICULO 2.
-
-Las autoridades competentes para la interpretación y observación de la presente Ley, sus Reglamentos, y demás disposiciones en la materia, lo son la Secretaría de Movilidad y Transporte del Estado de Puebla y el Organismo Público Descentralizado denominado Carreteras de Cuota Puebla, quienes en todo caso y en el ámbito de sus respectivas competencias, deberán aplicar como criterio fundamental, lo que sea más conveniente para el servicio público y sus usuarios, promoviendo la participación social en la planeación, operación y revisión administrativa del transporte.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-La Secretaría, será competente para interpretar, ejercer, observar y aplicar las atribuciones y obligaciones previstas en el artículo 10 y demás disposiciones de la presente Ley y sus Reglamentos, relativas en materia de supervisión, vigilancia y revisión.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-Cuando la presente Ley se refiera a la Secretaría, se entenderá a la Secretaría de Movilidad y Transporte del Estado de Puebla y cuando se haga referencia en esta Ley a Carreteras de Cuota-Puebla, se entenderá al Organismo Público Descentralizado denominado Carreteras de Cuota-Puebla, en términos de su Decreto de creación.
-
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-No producirá ningún efecto la declaración hecha por el concesionario, permisionario o por las Empresas de Redes de Transportes y demás sujetos regulados en esta Ley, en las condiciones de uso del servicio respectivo o acto análogo, que limite su responsabilidad civil, penal o administrativa, con motivo de la realización de las actividades reguladas en esta Ley.
-
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-La disposición anterior se observará, no obstante la aceptación expresa o tácita que realicen los usuarios respecto de la prestación del servicio.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-###### ARTICULO 3.
-
-La Secretaría y Carreteras de Cuota-Puebla, en términos de esta Ley, tienen competencia sobre todo el territorio del Estado, ejerciendo las atribuciones que a cada una les confiere la presente Ley, sus Reglamentos y demás disposiciones legales, respecto de los actos de supervisión, vigilancia y demás que incidan en el Servicio Público de Transporte y en el Servicio Mercantil, así como en materia de movilidad.
-
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-###### ARTICULO 3 Bis.
-
-La planeación, diseño e implementación de las políticas públicas, programas y acciones en materia de movilidad, se apegará a los principios rectores siguientes:
-
-I. Accesibilidad. Procurar una movilidad al alcance de todos, sin discriminación de género, edad, capacidad o condición, a costos factibles;
-
-II. Aprovechamiento tecnológico. Empleo de innovaciones tecnológicas que permitan almacenar, procesar y distribuir información, para la planificación, operación, control y mantenimiento de los sistemas de movilidad y transporte;
-
-III. Calidad. Propiciar que los componentes de la movilidad cuenten con las características y propiedades necesarias para proporcionar una adecuada experiencia de viaje;
-
-IV. Corresponsabilidad social. Esquemas de movilidad y transporte basados en soluciones colectivas, que resuelvan los desplazamientos de toda la población y que promuevan nuevos hábitos de movilidad, a través de la participación de todos los actores sociales;
-
-V. Eficiencia. Optimizar los desplazamientos ágiles y asequibles maximizando los recursos disponibles, sin que su diseño y operación produzcan efectos negativos desproporcionadas a sus beneficios;
-
-VI. Equidad. Equiparar las oportunidades de la población para alcanzar un efectivo ejercicio de su derecho a la movilidad, poniendo especial énfasis en grupos en desventaja física, social y económica;
-
-VII. Multimodalidad. Ofrecer a los diferentes grupos de usuarios opciones de movilidad y modos de transporte integrados, que proporcionen disponibilidad, rapidez, accesibilidad, seguridad e interconexión;
-
-VIII. Resiliencia. Movilidad y transporte con capacidad para soportar situaciones fortuitas o de fuerza mayor, y una recuperación de bajo costo para la sociedad y al (sic) medio ambiente;
-
-IX. Seguridad. Privilegiar las acciones de prevención accidentes de tránsito durante los desplazamientos de la población, con el fin de proteger la integridad física de las personas y evitar la afectación a los bienes públicos y privados, y
-
-X. Sustentabilidad. Desplazamientos de personas y bienes con los mínimos efectos negativos sobre la calidad de vida y el medio ambiente, impulsando el uso de transporte público y no motorizado, así como el uso de tecnologías sustentables en los modos de transporte.
+### CAPITULO UNICO. De la Administración Pública Federal
 
 ###### ARTICULO 1o.
 
@@ -374,737 +140,2301 @@ III. Difundir y proyectar el derecho a la memoria de la Nación, en coordinació
 
 Las dependencias y entidades de la Administración Pública Centralizada y Paraestatal conducirán sus actividades en forma programada, con base en las políticas que para el logro de los objetivos y prioridades de la planeación nacional del desarrollo, establezca el Ejecutivo Federal.
 
-## TÍTULO SEGUNDO. DE LA REGULACIÓN GENERAL DEL SERVICIO PÚBLICO DE TRANSPORTE, DEL SERVICIO MERCANTIL Y DEL SERVICIO EJECUTIVO
+## TITULO SEGUNDO. De la Administración Pública Centralizada
 
-### CAPITULO II. AUTORIDADES DEL TRANSPORTE
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+### CAPITULO I. De las Secretarías de Estado
 
-###### ARTICULO 4.
-
-Son autoridades en materia del transporte, en el ámbito de su respectiva competencia:
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2021)</small>
-
-I.- La persona titular del Gobierno del Estado;
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 26 DE FEBRERO DE 2021)</small>
-
-II. De la Secretaría de Movilidad y Transporte del Estado:
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-a) La persona titular de la Secretaría de Movilidad y Transportes;
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-b) La persona titular de la Sub Secretaría de Movilidad y Transportes;
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-c) La persona titular de la Coordinación General Jurídica;
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-d) La persona titular de la Coordinación General Técnica de Movilidad y Transporte;
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-e) La persona titular de la Dirección de Operación al Transporte;
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-f) La persona titular de la Dirección de Administración de Concesiones y Permisos;
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-g) La persona titular de la Dirección de Ingeniería y Planeación del Transporte;
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-h) La persona titular de la Dirección de Licencias y Capacitación, y
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-i) La persona titular de la Dirección de Movilidad.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 26 DE FEBRERO DE 2021)</small>
-
-III. El Organismo Público Descentralizado Carreteras de Cuota-Puebla, que será competente respecto del Sistema de Transporte Público Masivo:
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-a) La persona titular de la Dirección General, y
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-b) La persona titular de la Dirección de Transporte Masivo.
-
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-###### ARTICULO 4 Bis.
-
-Para el cumplimiento de esta Ley se consideran autoridades auxiliares en materia de movilidad en el ámbito de su competencia, la Secretaría de Planeación y Finanzas, Secretaría de Infraestructura, Secretaría de Seguridad Pública, Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial, según lo disponga la normatividad aplicable.
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 10.
 
-Los supervisores tendrán las siguientes atribuciones y obligaciones:
+Las Secretarías de Estado tendrán igual rango y entre ellas no habrá, por lo tanto, preeminencia alguna. Sin perjuicio de lo anterior, por acuerdo del Presidente de la República, la Secretaría de Gobernación coordinará las acciones de la Administración Pública Federal para cumplir sus acuerdos y órdenes.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-I.- La supervisión, vigilancia y revisión de los vehículos destinados al Servicio Público de Transporte, al Servicio Mercantil y al Servicio Ejecutivo que circulen en la infraestructura vial; así como de los Servicios Auxiliares;
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-II.- Revisar la documentación necesaria que deban portar los operadores de las unidades, para la prestación del Servicio Público de Transporte, del Servicio Mercantil y del Servicio Ejecutivo;
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-III.- Practicar inspecciones a los vehículos del Servicio Público de Transporte, del Servicio Mercantil y del Servicio Ejecutivo;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-IV.- Ejecutar las disposiciones que emitan las autoridades del transporte del Estado, que incidan en el ámbito de su competencia;
-
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2001)</small>
-
-V.- Retirar de la circulación a los vehículos que no cumplan con los requisitos establecidos en la presente Ley y sus Reglamentos, y
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-VI.- Elaborar las boletas de infracción a los conductores de los vehículos del Servicio Público de Transporte, del Servicio Mercantil y del Servicio Ejecutivo, cuando infrinjan la presente Ley y su Reglamento;
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-VII.- Hacer del conocimiento de la autoridad competente hechos o conductas, que se presuman constitutivos de delito;
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
-
-VIII.- Vigilar y supervisar el cumplimiento de las disposiciones relativas a los itinerarios, bases y sitios autorizados;
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
-
-IX.- Someterse a las pruebas, estudios o exámenes de control de confianza que establezca la Secretaría; y
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-X.- Las demás que les confieran la presente Ley, sus Reglamentos y demás disposiciones legales aplicables.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-ARTICULO 10 BIS.- La Secretaría y Carreteras de Cuota-Puebla, de conformidad con la legislación aplicable en la materia y en coordinación con las autoridades que sean competentes, procurarán la plena inclusión e integración de las personas con discapacidad con relación a la prestación del servicio de transporte en cualquiera de las modalidades.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 11.
 
-La Secretaría y Carreteras de Cuota-Puebla, para el ejercicio de sus atribuciones, podrán auxiliarse de las dependencias, órganos y organismos que estimen pertinentes.
+Los titulares de las Secretarías de Estado ejercerán las funciones de su competencia por acuerdo del Presidente de la República.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 12.
 
-El Servicio de Transporte en el Estado se clasifica en:
+Cada Secretaría de Estado formulará, respecto de los asuntos de su competencia; los proyectos de leyes, reglamentos, decretos, acuerdos, y órdenes del Presidente de la República.
 
-I. Servicio Público de Transporte;
-
-II. Servicio Mercantil de Personas;
-
-III. Servicio Mercantil de Carga;
-
-IV. Servicio Complementario;
-
-V. Servicio Ejecutivo;
-
-Los que se definen como:
-
-Apartados
-
-A. Servicio Público de Transporte, es el que presta el Estado a través de la Secretaría o Carreteras de Cuota por sí o por terceros mediante el otorgamiento de una concesión;
-
-B. Servicio Mercantil, es el que prestan los particulares directamente a otros particulares constituyendo una actividad comercial, o que llevan a cabo los propietarios de vehículos y que para su prestación necesitan del permiso o autorización de la Secretaría;
-
-C. Servicio Complementario, es aquel servicio impulsado por el Gobierno del Estado, que tiene por objeto, principalmente, el traslado terrestre de pasajeros con fines turísticos, culturales o de esparcimiento y que por sus características propias no recae en ninguna de las figuras o conceptos previstos en las fracciones I, II, III y V del artículo 17 de esta Ley.
-
-D. Servicio Ejecutivo, es aquél que se presta basándose en el desarrollo de tecnologías de teléfonos inteligentes, sistemas de posicionamiento global y plataformas tecnológicas independientes, que permiten conectar a usuarios que demandan servicio de transporte punto a punto, con conductores privados que ofrecen dicho servicio mediante el uso de la misma aplicación tecnológica.
-
-El Servicio a que se refiere el párrafo anterior se prestará:
-
-1. Por conductores particulares que se encuentren registrados y certificados ante una Empresa de Redes de Transporte registrada en la Secretaría o cualquier (sic) de las filiales o subsidiarias de la misma.
-
-2. A usuarios previamente registrados en la plataforma propiedad de la Empresa de Redes de Transporte o cualquiera de las filiales o subsidiarias de la misma.
-
-Este servicio no estará sujeto a itinerarios, rutas, frecuencias de paso ni a horarios fijos.
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-ARTICULO 12 BIS.- Para efectos de esta Ley, se entenderá como Empresa de Redes de Transporte a las Sociedades Mercantiles Nacionales cuyo objeto sea la prestación del Servicio Ejecutivo, mediante la administración y operación de aplicaciones y plataformas informáticas, basadas en el desarrollo de las tecnologías de los dispositivos inteligentes y los sistemas de posicionamiento global y de pagos electrónicos, cuyos esquemas tarifarios serán determinados por la misma.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 13.
 
-Para efectos de esta Ley y sus Reglamentos, se entiende por vehículo para prestar el Servicio Público de Transporte, Servicio Mercantil y el Servicio Ejecutivo, todo medio impulsado por un motor destinado a la transportación de personas o bienes, utilizando la infraestructura vial en el Estado, y que cumpla con las condiciones de seguridad que señala la normatividad aplicable y demás características necesarias para la prestación del servicio que determine la autoridad competente.
+Los reglamentos, decretos y acuerdos expedidos por el Presidente de la República deberán, para su validez y observancia constitucionales, ir firmados por el Secretario de Estado respectivo y, cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por todos los titulares de las mismas.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2015)</small>
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1985)</small>
 
-Se considera como infraestructura vial, la vía de comunicación para la conducción del tránsito vehicular, la que está integrada por calles, avenidas, pasos a desnivel o entronques, caminos, carreteras, autopistas, puentes y sus servicios auxiliares dentro del Estado de Puebla.
+Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso de la Unión, sólo se requerirá el refrendo del titular de la Secretaría de Gobernación.
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
-
-Se entenderá por corredor de transporte público de pasajeros aquél que forma parte integral del Sistema de Transporte Público Masivo, el cual funciona mediante operación regulada y controlada, sistema de pago centralizado, que opera de manera exclusiva en una vialidad con carriles reservados para el transporte público, total o parcialmente confinados, que cuenta con paradas predeterminadas, con infraestructura para el ascenso y descenso de pasajeros, estaciones ubicadas a lo largo del recorrido con terminales en su origen y destino.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 14.
 
-Para los efectos de esta Ley, los vehículos se clasifican en función del servicio a que se encuentren destinados, en vehículos del Servicio Público de Transporte o del Servicio de Transporte Mercantil.
+Al frente de cada Secretaría habrá un Secretario de Estado, quien, para el despacho de los asuntos de su competencia, se auxiliará por los Subsecretarios, Titular de la Unidad de Administración y Finanzas, Jefes de Unidad, Directores, Subdirectores, Jefes de Departamento, y los demás funcionarios, en los términos que establezca el reglamento interior respectivo y otras disposiciones legales. Las Secretarías de la Defensa Nacional, de Marina y de Hacienda y Crédito Público contarán cada una con una Oficialía Mayor, las cuales tendrán las funciones que establezca el artículo 20 de esta ley y las que determinen los reglamentos interiores.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1996)</small>
+
+En los juicios de amparo, el Presidente de la República podrá ser representado por el titular de la dependencia a que corresponde el asunto, según la distribución de competencias. Los recursos administrativos promovidos contra actos de los Secretarios de Estado serán resueltos dentro del ámbito de su Secretaría en los términos de los ordenamientos legales aplicables.
 
 ###### ARTICULO 15.
 
-Se consideran vehículos del Servicio Público de Transporte, aquellos con los que se lleva a cabo de manera continua, uniforme, regular y permanente, el traslado de pasajeros en la infraestructura vial, para satisfacer necesidades de la comunidad y en el cual los usuarios, cubrirán como contraprestación la tarifa previamente autorizada por la Secretaría o por Carreteras de Cuota-Puebla.
+(DEROGADO, D.O.F. 9 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 16.
 
-Son vehículos del Servicio de Transporte Mercantil, de conformidad con lo señalado en la presente ley, aquellos que a diferencia de los del Servicio Público, por el tipo de actividad comercial que desarrollan sus propietarios, prestan un servicio a terceros o el que llevan a cabo los propietarios de los vehículos, como parte de sus actividades comerciales y que la Secretaría tiene facultad de regular y controlar, mediante el otorgamiento de un permiso una autorización.
+Corresponde originalmente a los titulares de las Secretarías de Estado el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar en los funcionarios a que se refiere el artículo 14 de esta Ley, cualesquiera de sus facultades, excepto aquéllas que por disposición de ley o del reglamento interior respectivo, deban ser ejercidas precisamente por dichos titulares.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-ARTICULO 16 BIS.- Son vehículos del Servicio Ejecutivo, aquellas unidades particulares que sin estar sujetos al otorgamiento de una concesión, permiso o autorización por parte de la Secretaría, son utilizados por particulares en el traslado de personas y registrados en una Empresa de Redes de Transporte.
+Los propios titulares de las Secretarías de Estado también podrán adscribir orgánicamente las unidades administrativas establecidas en el reglamento interior respectivo, a las Subsecretarías y a las otras unidades de nivel administrativo equivalente que se precisen en el mismo reglamento interior.
 
-Los vehículos a que se refiere este artículo, deberán estar inscritos en el Registro Estatal Vehicular; la Secretaría ejercerá sus facultades de verificación y supervisión en el citado registro, con base en la información que le proporcione la empresa de redes de transporte.
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Los acuerdos por los cuales se deleguen facultades o se adscriban unidades administrativas se publicarán en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 17.
 
-Para los efectos de la presente Ley y sus Reglamentos, el Servicio de Transporte se divide en:
+Para la más eficaz atención y eficiente despacho de los asuntos de su competencia, las Secretarías de Estado podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
 
-I.- Servicio Público de Transporte:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-a).- Urbano;
+ARTICULO 17 BIS.- Las dependencias y entidades de la Administración Pública Federal, conforme a lo previsto en los reglamentos interiores o sus ordenamientos legales de creación, respectivamente, podrán contar con oficinas de representación en las entidades federativas o, en su caso, en regiones geográficas que abarquen más de una entidad federativa, siempre y cuando sea indispensable para prestar servicios o realizar trámites en cumplimiento de los programas a su cargo y cuenten con recursos aprobados para dichos fines en sus respectivos presupuestos, dichas oficinas se coordinarán con las Delegaciones de Programas para el Desarrollo, debiéndose observar lo siguiente:
 
-b).- Suburbano;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+I. Los funcionarios públicos adscritos a las oficinas de representación, serán designados de conformidad con lo establecido por el reglamento interior o los ordenamientos legales de las dependencias y entidades;
 
-c).- Foráneo;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+II. Los servidores públicos adscritos a las oficinas de representación se sujetarán a las disposiciones establecidas en la Ley del Servicio Profesional de Carrera en la Administración Pública Federal para efectos de su ingreso, desarrollo profesional, capacitación y certificación de capacidades; evaluación del desempeño; separación, y a las demás disposiciones previstas en dicha ley, y
 
-d).- Transporte Mixto de Pasajeros y Bienes, y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+III. Las dependencias o entidades responsables de la ejecución de programas para entregar un beneficio social directo a la población, deberán sujetarse a lo siguiente:
 
-e).- Sistema de Transporte Público Masivo.
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-II.- Servicio de Transporte Mercantil de Personas:
+a) Ejecutar el programa con estricto apego a las reglas de operación;
 
-a).- Automóviles de Alquiler o Taxis;
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-b).- Transporte Escolar;
+b) Informar, respecto de los programas atinentes a la respectiva Delegación de Programas para el Desarrollo;
 
-c).- Transporte de Personal;
+> <small>(REFORMADO [N. DE E. CON SUS SUBINCISOS], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+c) Dar a conocer, en términos de la legislación aplicable, lo siguiente:
 
-d).- Transporte de Turismo;
+i) Las altas y bajas en sus padrones de beneficiarios, así como los resultados de su evaluación;
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+ii) La relación de municipios y localidades en las que opera el programa;
 
-e).- Transporte de Servicio Extraordinario; y
+iii) El padrón de beneficiarios de la entidad federativa correspondiente, por municipio y localidad;
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+iv) El calendario de entrega de apoyos, por entidad federativa, municipio y localidad, con anterioridad de al menos 60 días a la entrega de los mismos;
 
-f).- Taxis locales.
+v) Los ajustes presupuestarios que, en su caso, le sean autorizados;
 
-III.- Servicio de Transporte Mercantil de Carga:
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-a).- De Materiales o Diversos;
+d) Incluir, en todo caso, en la difusión de cada programa la leyenda siguiente: "Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos a los establecidos en el programa";
 
-b).- Ligera;
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-c).- Mudanzas;
+e) Realizar acciones de orientación y difusión con los beneficiarios para garantizar su transparencia y evitar cualquier uso ilegal del programa, y
 
-d).- Mensajería y Paquetería;
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+f) Realizar las designaciones referidas en la fracción I de este artículo a propuesta del Delegado Estatal de Programas para el Desarrollo de la entidad respectiva.
 
-e).- Carga especializada de materiales y desechos peligrosos;
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+ARTICULO 17 TER.- El Poder Ejecutivo Federal contará en las entidades federativas con las Delegaciones de Programas para el Desarrollo que tendrán a su cargo la coordinación e implementación de planes, programas y acciones para el desarrollo integral, funciones de atención ciudadana, la supervisión de los servicios y los programas a cargo de las dependencias y entidades, así como la supervisión de los programas que ejercen algún beneficio directo a la población, de conformidad con los lineamientos que emitan la Secretaría de Bienestar y la Coordinación General de Programas para el Desarrollo.
 
-f).- Todo tipo de mercancías que excedan de 500 kilogramos de carga útil; y
+Para la coordinación de las Delegaciones de Programas para el Desarrollo en la implementación de las funciones descritas en este artículo, el titular del Poder Ejecutivo Federal contará con la Coordinación General de Programas para el Desarrollo, bajo el mando directo del Presidente de la República.
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+Las Delegaciones de Programas para el Desarrollo estarán adscritas, jerárquica y orgánicamente a la Secretaría de Bienestar y sus titulares serán designados por el titular de la Secretaría a propuesta de la Coordinación General de Programas para el Desarrollo.
 
-g).- Grúas de arrastre y salvamento.
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-IV.- Servicio de Transporte Complementario.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2015)</small>
-
-V.- Servicio Ejecutivo.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 18.
 
-El Servicio Público de Transporte Urbano, es el traslado de pasajeros que se lleva a cabo, con vehículos cerrados que deben tener una capacidad de usuarios acorde con lo que establezca la autoridad competente, asientos en condiciones aceptables de comodidad, seguridad e higiene para realizar este tipo de servicio, dentro del perímetro urbanizado de los centros de población del Estado. Este servicio se llevará a cabo con apego a los itinerarios, recorridos, rutas, líneas, horarios, frecuencia de paso, tarifas y demás especificaciones que señale la concesión respectiva, con base en las disposiciones de la presente Ley y sus Reglamentos.
+En el reglamento interior de cada una de las Secretarías de Estado que será expedido por el Presidente de la República, se determinarán las atribuciones de sus unidades administrativas, así como la forma en que los titulares podrán ser suplidos en sus ausencias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 19.
 
-El Servicio Público descrito en el artículo anterior, se considerará masivo si es prestado utilizando autobuses, o colectivo si se realiza con minibuses o microbuses, o cualquier otro tipo de unidades de capacidad menor que, a juicio de la autoridad competente, reúna las condiciones y características vehiculares necesarias para los fines del servicio.
+El titular de cada Secretaría de Estado expedirá los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados. Los manuales de organización general deberán publicarse en el Diario Oficial de la Federación, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, a través del registro electrónico que opera la Secretaría de la Función Pública. En cada una de las dependencias y entidades de la Administración Pública Federal, se mantendrán al corriente los escalafones de los trabajadores, y se establecerán los sistemas de estímulos y recompensas que determinen la ley y las condiciones generales de trabajo respectivas.
 
-Este servicio es el que prestan los vehículos del Servicio Público de Transporte dentro de un mismo Municipio o entre dos o más municipios conurbados.
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 20.
 
-El Servicio Público de Transporte Suburbano, es aquél que con las mismas características y condiciones del Urbano, se presta partiendo de un centro de población a sus lugares aledaños, pero siempre en el espacio territorial de un Municipio o de un Municipio y sus zonas conurbadas.
+Las dependencias contarán con una Unidad de Administración y Finanzas encargada de ejecutar, en los términos de las disposiciones aplicables, los servicios de apoyo administrativo en materia de planeación, programación, presupuesto, tecnologías de la información, recursos humanos, recursos materiales, contabilidad, archivos, y los demás que sean necesarios, en los términos que fije el Ejecutivo Federal. En los casos de las Secretarías de Hacienda y Crédito Público, de la Defensa Nacional y de Marina dichos servicios se llevarán a cabo por sus respectivas oficialías mayores.
 
-###### ARTICULO 21.
+Para tal efecto, el Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, establecerá, mediante disposiciones de carácter general, el modelo organizacional y de operación de las unidades de administración y finanzas del sector centralizado; esa Secretaría, por conducto de su Oficialía Mayor, coordinará la operación de dichas unidades en los términos de las disposiciones legales y reglamentarias aplicables.
 
-El Servicio Público de Transporte Foráneo, es aquél que se presta para comunicar poblaciones distantes situadas en dos o más municipios de la Entidad.
+La Secretaría de Hacienda y Crédito Público deberá establecer lineamientos y directrices aplicables a las unidades administrativas que realicen las funciones referidas en este artículo en las entidades paraestatales, tales disposiciones serán igualmente aplicables a las delegaciones u oficinas de representación, en los Estados y la Ciudad de México, de las entidades paraestatales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 21.
+
+El Presidente de la República, para el mejor despacho de los asuntos a su cargo, podrá constituir comisiones intersecretariales, consultivas y presidenciales a través de decretos.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Las comisiones intersecretariales serán aquellas creadas por el Presidente de la República para el despacho de asuntos en que deban intervenir varias Secretarías de Estado. Estarán integradas por los Secretarios de Estado o aquellos funcionarios de la Administración Pública Federal. Las entidades de la Administración Pública Paraestatal podrán integrarse a las comisiones intersecretariales, cuando se trate de asuntos relacionados con su objeto.
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Serán comisiones consultivas aquellas conformadas por profesionales, especialistas o representantes de la sociedad civil, de reconocida capacidad o experiencia, designados por el Presidente de la República con la finalidad de resolver una consulta determinada o emitir una opinión sobre algún tema especificado en el objeto de su Decreto de creación. Estas comisiones podrán ser ubicadas dentro de la estructura de una dependencia del Ejecutivo. Sus conclusiones no serán vinculantes.
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Las comisiones presidenciales podrán ser conformadas por integrantes descritos en cualquiera de los párrafos anteriores así como ex servidores públicos y servidores públicos de otros poderes u órdenes de gobierno. Estas comisiones se constituyen como grupos de trabajo especial para cumplir con las funciones de investigación, seguimiento, fiscalización, propuesta o emisión de informes que deberán servir como base para la toma de decisiones o el objeto que determine su Decreto de creación, en los términos previstos por el presente artículo.
+
+Las comisiones podrán ser transitorias o permanentes y serán presididas por quien determine el Presidente de la República.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+El Decreto de creación de las comisiones descritas en este artículo deberá contener al menos las siguientes disposiciones:
+
+I. Su denominación;
+
+II. El nombre de sus integrantes y sus respectivos cargos, así como la definición de quien la presidirá;
+
+III. Su objeto y las funciones que se les asignan;
+
+IV. Su ubicación dentro de la estructura de la Administración Pública Federal, precisando si dependen directamente del Presidente de la República o de alguna Secretaría de Estado;
+
+V. El período de su existencia, mismo que podrá ser prolongado por acuerdo del Presidente de la República, y
+
+VI. Cuando sea necesario, la dotación de recursos para su funcionamiento, los cuales provendrán de la entidad pública de la cual dependen.
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+El cargo de miembro de cualquiera de las comisiones será honorífico y de confianza, por lo que no inhabilitará la posibilidad de desempeñar ninguna otra función pública o actividad privada.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 22.
 
-El Servicio Público de Transporte Mixto de Pasajeros y de Bienes, es aquél que se autoriza para el traslado de personas y bienes en el mismo vehículo, cuyo interior se encuentra dividido en compartimientos para personas, sus equipajes y la carga.
+El Presidente de los Estados Unidos Mexicanos podrá celebrar convenios de coordinación de acciones con los Gobiernos Estatales, y con su participación, en los casos necesarios, con los Municipios, satisfaciendo las formalidades legales que en cada caso procedan, a fin de favorecer el desarrollo integral de las propias entidades federativas.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-ARTICULO 22 BIS.- El Sistema de Transporte Público Masivo, es aquel que se presta a través de corredores de transporte público de pasajeros, el cual opera de manera exclusiva en una vialidad con carriles reservados para el transporte público, total o parcialmente confinados. Carreteras de Cuota-Puebla autorizará el uso de los carriles confinados de los corredores del Sistema de Transporte Público Masivo, así como diseñará y regulará los mecanismos y elementos de confinamiento.
-
-El Sistema comprenderá la troncal correspondiente y las rutas alimentadoras al mismo.
-
-El Sistema de Transporte Público Masivo constituye un servicio público cuya prestación corresponde al Gobierno del Estado a través de Carreteras de Cuota-Puebla, quien puede prestarlo directamente o a través de concesiones, que se otorguen en términos de la presente Ley.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-ARTICULO 22 TER.- El recaudo y despacho comprenden unos de los componentes de la administración del Sistema de Transporte Público Masivo, por lo que su implementación y regulación quedará sujeta a las normas técnicas que fije Carreteras de Cuota-Puebla y demás disposiciones que resulten aplicables.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
-
-ARTICULO 22 QUÁTER.- Las concesiones que se otorguen para el Sistema de Transporte Público Masivo se otorgarán preferentemente de manera integral, pero cuando así resulte conveniente o necesario, podrán otorgarse o implementarse por separado o por etapas. Dichas concesiones podrán otorgarse en su caso, mediante un procedimiento de adjudicación conforme a la normatividad que resulte aplicable.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 23.
 
-El Servicio de Automóviles de Alquiler, es aquel que se presta en unidades con capacidad no mayor de cinco plazas, el cual no está sujeto a itinerarios, rutas, frecuencias de paso ni a horarios fijos; pero sí a tarifas determinadas por la Secretaría. Los vehículos que presten este tipo de servicio, podrán formar parte de un “sitio” o de “bahías ecológicas”; y en ningún caso podrán realizar el servicio colectivo.
+Los Secretarios de Estado, una vez abierto el período de sesiones ordinarias, darán cuenta al Congreso de la Unión del estado que guarden sus respectivos ramos y deberán informar, además, cuando cualquiera de las Cámaras los cite en los casos en que se discuta una ley o se estudie un negocio concerniente a sus actividades. Esta última obligación será extensiva a los directores de los organismos descentralizados y de las empresas de participación estatal mayoritaria.
 
-El servicio a que se refiere el párrafo anterior podrá prestarse mediante el uso de plataformas complementarias, entendiéndose a éstas como aquellas que comunican a pasajeros con conductores de vehículos que cuenten con el Permiso otorgado por la Secretaría, de conformidad con esta Ley y su Reglamento.
-
-Las empresas que utilicen plataformas complementarias, deberán registrarse ante la Secretaría de acuerdo con las Reglas Generales que al efecto se publiquen en el Periódico Oficial del Estado.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 24.
 
-El Servicio de Transporte Escolar, es aquél que se presta en unidades destinadas para el traslado de educandos, en actividades inherentes a su desarrollo educativo; con horarios e itinerarios justificados y que satisfagan las condiciones de seguridad, comodidad y demás requisitos que señale la Secretaría.
+En casos extraordinarios o cuando exista duda sobre la competencia de alguna Secretaría de Estado para conocer de un asunto determinado, el presidente de la República resolverá, por conducto de la Secretaría de Gobernación, a qué dependencia corresponde el despacho del mismo.
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 25.
 
-El Servicio de Transporte de Personal es aquél que se presta a los trabajadores que viajan a sus centros de trabajo, o cuando su transportación se relaciona con fines laborales. Este transporte se prestará en vehículos cerrados, que satisfagan las condiciones de seguridad, comodidad y demás requisitos que señalen las leyes aplicables.
+Cuando alguna Secretaría de Estado o la Oficina de la Presidencia de la República necesite informes, datos o la cooperación técnica de cualquier otra dependencia para el cumplimiento de sus atribuciones, ésta tendrá la obligación de proporcionarlos, atendiendo en lo correspondiente a lo que determine la Secretaría de Gobernación.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-### CAPITULO III. LAS ATRIBUCIONES DE LAS AUTORIDADES DEL TRANSPORTE
+### CAPÍTULO II. De la Competencia de las Secretarías de Estado y Consejería Jurídica del Ejecutivo Federal
 
-###### ARTICULO 5.
-
-Son atribuciones del Gobernador del Estado:
-
-I.- Expedir los Reglamentos de la presente Ley;
-
-II.- Dictar y aplicar las medidas necesarias para el cumplimiento de esta Ley y sus Reglamentos;
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
-
-III.- La Secretaría y Carreteras de Cuota-Puebla, para el cumplimiento de esta Ley y sus Reglamentos, podrán celebrar, de manera conjunta o separadamente, convenios de coordinación y colaboración, documentos previos a los contratos y demás instrumentos jurídicos con Dependencias y Entidades de las Administraciones Públicas Federal, Estatales y Municipales, así como con entes del sector público, privado y social.
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2021)</small>
-
-IV.- Intervenir el Servicio Público de Transporte, con apego a las disposiciones legales aplicables;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE FEBRERO DE 2021)</small>
-
-V.- Establecer políticas en materia de movilidad en concordancia con los principios, ejes y objetivos contenidos en el Plan Estatal de Desarrollo, y conforme a las políticas en materia de planificación, desarrollo, y ordenamiento territorial, que se emitan en el ámbito estatal;
-
-> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2021)</small>
-
-VI.- Expedir los Programas Estatales de Movilidad, Transporte y Seguridad Vial; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE FEBRERO DE 2021)</small>
-
-VII.- Las demás que le conceda la presente Ley y sus Reglamentos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2021)</small>
-
-###### ARTICULO 6.
-
-Las personas Titulares de la Secretaría de Movilidad y Transporte y de la Dirección General de Carreteras de Cuota-Puebla, en el ámbito de sus respectivas competencias, tendrán las siguientes atribuciones:
-
-I.- Cumplir y hacer cumplir la presente Ley y sus Reglamentos;
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
-
-II.- Establecer las bases para el mejoramiento, ampliación y ejecución de los programas del Servicio de Transporte, creando y regulando nuevos servicios e incrementando los ya establecidos, previa emisión de los estudios técnicos y los demás que sean necesarios;
-
-III.- Expedir, previo cumplimiento de los requisitos señalados en la presente Ley y sus Reglamentos, las concesiones y permisos para la prestación del Servicio Público de Transporte y del Servicio Mercantil;
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
-
-IV.- Previo estudio, fijar las tarifas máximas para la prestación del Servicio Público de Transporte y del Servicio Mercantil;
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
-
-V.- Autorizar previo estudio o consultas con los Ayuntamientos los itinerarios, recorridos, horarios y frecuencias de paso del Servicio Público del Transporte;
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2014)</small>
-
-VI.- Ordenar que se realicen periódicamente revistas a los vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil, a efecto de que aquellos que estén en mal estado o no hayan cumplido con las especificaciones que al efecto se emitan para la revista, sean retirados de la circulación para su reparación o cambio correspondiente;
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2014)</small>
-
-VII.- Dictar y ejecutar, cuando lo estimen conveniente, las políticas y programas para llevar a cabo la revisión, depuración y actualización de los registros y demás sistemas establecidos;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-VIII.- Suscribir instrumentos jurídicos que tengan por objeto impulsar la planeación, programación, presupuestación, ejecución, administración, implementación y operación de los programas del Servicio de Transporte, así como de sus Servicios Auxiliares a que se refiere esta Ley;
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
-
-IX.- Instrumentar y autorizar la utilización de elementos aportados por la ciencia y tecnología, para la implementación y uso de nuevos sistemas que permitan:
-
-a).- Mejorar el manejo operativo, incluyendo sistemas de cobro;
-
-b).- La determinación de infracciones y aplicación de sanciones; y
-
-c).- Mejorar las condiciones de accesibilidad para las personas con discapacidad y adultos mayores.
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
-
-X.- Realizar las acciones necesarias que se requieran para el cumplimiento de la presente Ley, y en su caso imponer la (sic) sanciones que correspondan;
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
-
-XI.- Intervenir el Servicio de Transporte con apego a las disposiciones legales aplicables;
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
-
-XII.- Celebrar para el cumplimiento de esta Ley y sus Reglamentos y de manera conjunta o separadamente, convenios de coordinación y colaboración, documentos previos a los contratos y demás instrumentos jurídicos con Dependencias y Entidades de las Administraciones Públicas Federal, Estatales y Municipales, así como con instituciones del sector público, privado y social.
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE AGOSTO DE 2015)</small>
-
-XIII.- Dictar las medidas necesarias para poner a disposición de las autoridades competentes, a los conductores o a los vehículos del Servicio Público de Transporte y del Servicio Mercantil cuando de los hechos inspeccionados se deduzca una probable responsabilidad;
-
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2015)</small>
-
-XIV.- Emitir Reglas de Carácter General, las que deberán ser publicadas en el Periódico Oficial del Estado, para regular tanto a los permisionarios a que se refiere esta Ley, como a las Empresas de Redes de Transporte y las que basan en plataformas complementarias con la finalidad de generar la equidad entre los prestadores de servicio y que este se preste de manera eficiente, garantizando la seguridad, protección, comodidad, certidumbre y conveniencia para el usuario, y contribuya a generar mayor inversión en el Estado;
-
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2021)</small>
-
-XV.- Vigilar, supervisar y dar seguimiento a los registros proporcionados por las Empresas de Redes de Transporte contenidos en los informes a que se refiere la fracción IV del artículo 92 Quater de esta ley;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE FEBRERO DE 2021)</small>
-
-XVI.- Formular y proponer al Gobernador, las políticas en materia de movilidad, así como implementarlas y vigilar su aplicación;
-
-> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2021)</small>
-
-XVII.- Brindar opinión respecto a la congruencia de los programas municipales de movilidad con relación a los Programas Estatales de Movilidad, Transporte y Seguridad Vial, cuando así lo solicite el Ayuntamiento de un Municipio;
-
-> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2021)</small>
-
-XVIII.- Coordinar las comisiones de trabajo con los diferentes sectores, con el objeto de que propongan acciones, programas o proyectos en la materia de competencia de la Secretaría;
-
-> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2021)</small>
-
-XIX.- Fomentar el uso del transporte no motorizado, y los desplazamientos a pie, así como la accesibilidad para la movilidad de las personas con discapacidad o movilidad reducida; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE FEBRERO DE 2021)</small>
-
-XX.- Las demás que les otorguen la presente Ley, sus Reglamentos y demás disposiciones administrativas.
-
-ARTICULO 6 BIS.- (DEROGADO, P.O. 28 DE AGOSTO DE 2015)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2017)</small>
-
-###### ARTICULO 7.
-
-Carreteras de Cuota-Puebla y el Subsecretario (sic) Movilidad y de Transportes, en el ámbito de su respectiva competencia, tendrán las siguientes atribuciones:
-
-I.- Cumplir y hacer cumplir la presente Ley y sus Reglamentos;
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
-
-II.- Vigilar que se cumplan las bases para el mejoramiento, ampliación y modernización del Servicio Público de Transporte en el Estado, del Servicio Mercantil del Estado y del Servicio Ejecutivo;
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
-
-III.- Vigilar el cumplimiento de las tarifas, itinerarios, recorridos, horarios y frecuencias de paso estipuladas para la prestación del Servicio Público de Transporte y del Servicio Mercantil, según corresponda;
-
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
-
-IV.- Emitir las normas técnicas, operativas y administrativas para regular la prestación del Servicio de Transporte y sus Servicios Auxiliares en el Estado; en el caso de las que correspondan a la Secretaría de Movilidad y Transporte, se emitirán previo acuerdo con el Secretario, y
-
-V.- Las demás que le otorgue la presente Ley y sus Reglamentos.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-###### ARTICULO 8.
-
-La Secretaría, contará con Supervisores para vigilar, controlar y ejecutar las disposiciones de la presente Ley y sus Reglamentos; asimismo, podrá convenir con otras Dependencias y Entidades de la Administración Pública Federal, Estatal o Municipal, la coparticipación en dichas funciones.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-###### ARTICULO 9.
-
-Para los efectos de esta Ley y sus Reglamentos, se entiende por Supervisores, a los servidores públicos adscritos a la Secretaría y a los designados en los términos de los convenios a que hace referencia el artículo anterior y que tengan a su cargo las atribuciones señaladas en el artículo 10 de esta Ley.
-
-Los servidores públicos a que se refiere este artículo, deberán ser rotados con la frecuencia y necesidades que la Secretaría requiera, y deberán aprobar cualquier prueba, estudio o examen de control de confianza que sea necesario para el adecuado ejercicio de sus atribuciones, debiendo además presentar declaración patrimonial a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 26.
 
-El Servicio de Transporte de Turismo, es aquel que tiene por objeto el traslado de personas, hacia aquellos lugares situados en el Estado, que no recorran de manera preponderante o crucen tramos federales, y que son considerados turísticos por revestir un interés histórico, arqueológico, cultural o recreativo; conforme a los ordenamientos relativos y que requiere de vehículos que reúnan las características de seguridad, comodidad e higiene.
+Para el despacho de los asuntos del orden administrativo, el Poder Ejecutivo de la Unión contará con las siguientes dependencias:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de Gobernación;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de Relaciones Exteriores;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de la Defensa Nacional;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de Marina;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de Seguridad y Protección Ciudadana;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de Hacienda y Crédito Público;
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de Bienestar;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de Medio Ambiente y Recursos Naturales;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de Energía;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de Economía;
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de Agricultura y Desarrollo Rural;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de Comunicaciones y Transportes;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de la Función Pública;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de Educación Pública;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de Salud;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría del Trabajo y Previsión Social;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de Desarrollo Agrario, Territorial y Urbano;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de Cultura;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Secretaría de Turismo, y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+Consejería Jurídica del Ejecutivo Federal.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 27.
 
-Transporte de Servicio Extraordinario, es aquél que se presta con los vehículos destinados al Servicio Público de Transporte y que requieren de un permiso para prestar un servicio diferente al concesionado, en las condiciones que para el efecto establezca la Secretaría.
+A la Secretaría de Gobernación corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 20 DE ENERO DE 2021)</small>
+I. Formular y conducir la política interior que competa al Ejecutivo Federal y no se atribuya expresamente a otra dependencia; fomentar el desarrollo político; contribuir al fortalecimiento de las instituciones democráticas; promover la formación cívica y la participación ciudadana, salvo en materia electoral; facilitar acuerdos políticos y consensos sociales para que, en los términos de la Constitución y las leyes, se mantengan las condiciones de unidad nacional, cohesión social, fortalecimiento de las instituciones de gobierno y gobernabilidad democrática;
 
-ARTICULO 27 BIS.- El servicio de transporte mercantil denominado Taxi Local, es aquel que autoriza la Secretaría como un servicio complementario al sistema de transporte convencional, el cual únicamente se presta en la zona y hasta los límites de la localidad autorizada. Dicho servicio estará sujeto a las disposiciones administrativas de la presente Ley y las demás que emita la Secretaría.
+II. Coordinar a los Secretarios de Estado y demás funcionarios de la Administración Pública Federal para garantizar el cumplimiento de las órdenes y acuerdos del titular del Ejecutivo Federal y por acuerdo de éste, convocar a las reuniones de gabinete; acordar con los titulares de las Secretarías de Estado, órganos desconcentrados y entidades paraestatales las acciones necesarias para dicho cumplimiento, y requerir a los mismos los informes correspondientes;
+
+III. Conducir, siempre que no esté conferida esta facultad a otra Secretaría, las relaciones del Poder Ejecutivo con los demás Poderes de la Unión, con los órganos constitucionales autónomos, con los gobiernos de las entidades federativas y de los municipios y con las demás autoridades federales y locales, así como rendir las informaciones oficiales del Ejecutivo Federal. Asimismo, conducir, en el ámbito de su competencia, las relaciones del Poder Ejecutivo con los partidos políticos, organizaciones sociales y demás instituciones de la sociedad civil. Los titulares de las unidades de enlace legislativo de las demás dependencias y entidades de la Administración Pública Federal serán designados por el Secretario de Gobernación y estarán adscritos administrativa y presupuestalmente a la Secretaría o dependencia respectiva;
+
+IV. Garantizar el carácter laico del Estado mexicano; conducir las relaciones entre el Estado y las iglesias o agrupaciones religiosas, así como vigilar y hacer cumplir las disposiciones constitucionales y legales en esta materia;
+
+V. Formular y conducir la política migratoria y de movilidad humana, así como vigilar las fronteras del país y los puntos de entrada al mismo por tierra, mar o aire, garantizando, en términos de ley, la libertad de tránsito, en coordinación con las demás autoridades competentes;
+
+VI. Formular y conducir la política de población e interculturalidad y operar el servicio nacional de identificación personal, en términos de las leyes aplicables;
+
+VII. Vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades del país; coordinar, en vinculación con las organizaciones de la sociedad civil, la promoción y defensa de los derechos humanos y dar seguimiento a la atención de las recomendaciones que emitan los organismos competentes en dicha materia, así como dictar las medidas administrativas necesarias para tal efecto;
+
+VII Bis. Formular y coordinar la política de prevención social del delito, cultura de paz y de legalidad, mediante programas que refuercen la inclusión social y la igualdad, estrategias y acciones que contribuyan a prevenir y eliminar la discriminación o vulnerabilidad de grupos sociales, así como diseñar e instrumentar programas para la atención integral a víctimas y coadyuvar en la celebración de acuerdos de colaboración con otras instituciones del sector público y privado;
+
+VII Ter. Crear e implementar en forma permanente una página electrónica de consulta pública en la cual se registren los datos de las personas reportadas como desaparecidas en todo el país, así como establecer otra para los casos de mujeres y niñas; ambas plataformas tendrán como fin que la población en general contribuya con información sobre la localización de las personas desaparecidas;
+
+VII Quáter. Elaborar y ejecutar los programas de reinserción social y apoyo a las personas que hayan cumplido con su sentencia y sean puestas en libertad;
+
+VIII. En el ámbito de su competencia, elaborar e instrumentar la normatividad aplicable, conforme a la Constitución y las leyes, en materia de comunicación social del Gobierno Federal y las relaciones con los medios masivos de información; administrar, salvo lo establecido en las leyes electorales, el tiempo de que dispone el Estado en radio y televisión; así como autorizar, supervisar y evaluar los programas de comunicación social y publicidad de las dependencias y entidades de la Administración Pública Federal;
+
+IX. Vigilar que las publicaciones impresas y las transmisiones de radio y televisión, así como las películas cinematográficas y los videojuegos, se mantengan dentro de los límites del respeto a la vida privada, a la paz y moral pública y a la dignidad personal, y no ataquen los derechos de terceros, ni provoquen la comisión de algún delito, perturben el orden público o sean contrarios al interés superior de la niñez;
+
+X. Tramitar lo relativo a la aplicación del artículo 33 de la Constitución;
+
+XI. Administrar las islas de jurisdicción federal, salvo aquellas cuya administración corresponda, por disposición de ley, a otra dependencia o entidad de la Administración Pública Federal. En las islas a que se refiere esta fracción regirán las leyes federales y los tratados, y serán competentes para conocer de las controversias que en ellas se susciten los tribunales federales con mayor cercanía geográfica;
+
+XII. Diseñar e instrumentar programas anuales, previo diagnóstico a los ayuntamientos, para la asesoría, capacitación y formación de sus integrantes, así como de los funcionarios municipales, con el fin de contribuir a su profesionalización y al desarrollo institucional de los municipios;
+
+XIII. Auxiliar al Poder Judicial de la Federación, a la Fiscalía General de la República y a las correspondientes de las entidades federativas, cuando así lo requieran, para el debido ejercicio de sus funciones, así como a otras dependencias, entes públicos, entidades federativas, municipios y órganos constitucionales autónomos;
+
+XIV. Regular, autorizar y vigilar el juego, las apuestas, las loterías y rifas, en los términos de las leyes relativas;
+
+XV. Presentar ante el Congreso de la Unión las iniciativas de ley o decreto del Ejecutivo y, en su caso, comunicar el señalamiento formal del Presidente de la República del carácter preferente de hasta dos de las iniciativas, conforme a lo dispuesto por el artículo 71 de la Constitución;
+
+XVI. Administrar el Diario Oficial de la Federación y publicar las leyes y decretos del Congreso de la Unión, de alguna de las dos Cámaras o de la Comisión Permanente y los reglamentos que expida el Presidente de la República, en términos de lo dispuesto en la fracción I del artículo 89 constitucional y el artículo 72 constitucional, así como las resoluciones y disposiciones que por ley deban publicarse en dicho medio de difusión oficial;
+
+XVII. Coordinar a los Talleres Gráficos de México para que proporcionen los servicios editoriales y de impresión que requieran las dependencias de la Administración Pública Federal y otros entes, públicos o privados, que lo soliciten, recibiendo las contraprestaciones respectivas por tales servicios;
+
+XVIII. Compilar y sistematizar las leyes, tratados internacionales, reglamentos, decretos, acuerdos y disposiciones federales, estatales y municipales, así como establecer el banco de datos correspondiente, con objeto de proporcionar información a través de los sistemas electrónicos de datos;
+
+XIX. Conducir las relaciones del Gobierno Federal con el Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado;
+
+XX. Intervenir en los nombramientos, aprobaciones, designaciones, destituciones, renuncias y jubilaciones de servidores públicos que no se atribuyan expresamente por la ley a otras dependencias del Ejecutivo;
+
+XXI. Tramitar lo relativo al ejercicio de las facultades que otorgan al Ejecutivo Federal los artículos 96, 98 y 100 de la Constitución, sobre nombramientos, renuncias y licencias de los Ministros de la Suprema Corte de Justicia y de los Consejeros de la Judicatura Federal;
+
+XXII. Llevar el registro de autógrafos de los funcionarios federales, de los Gobernadores de los Estados y del jefe de gobierno de la Ciudad de México y legalizar las firmas de los mismos;
+
+XXIII. Fijar el calendario oficial, y
+
+XXIV. Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### ARTICULO 28.
 
-Las personas físicas o morales a las que se les otorgó, por otras entidades federativas concesión o permiso para el servicio de carga, sólo podrán prestar ese servicio en el Estado de Puebla, siempre y cuando exista acuerdo de coordinación para tal efecto.
+A la Secretaría de Relaciones Exteriores corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+I.- Promover, propiciar y asegurar la coordinación de acciones en el exterior de las dependencias y entidades de la Administración Pública Federal; y sin afectar el ejercicio de las atribuciones que a cada una de ellas corresponda, conducir la política exterior, para lo cual intervendrá en toda clase de tratados, acuerdos y convenciones en los que el país sea parte;
+
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+
+II.- Dirigir el servicio exterior en sus aspectos diplomático y consular en los términos de la Ley del Servicio Exterior Mexicano y, por conducto de los agentes del mismo servicio, velar en el extranjero por el buen nombre de México; impartir protección a los mexicanos; cobrar derechos consulares y otros impuestos; ejercer funciones notariales, de Registro Civil, de auxilio judicial y las demás funciones federales que señalan las Leyes, y adquirir, administrar y conservar las propiedades de la Nación en el extranjero;
+
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 1995)</small>
+
+II A.- Coadyuvar a la promoción comercial y turística del país a través de sus embajadas y consulados;
+
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 1995)</small>
+
+II B.- Capacitar a los miembros del Servicio Exterior Mexicano en las áreas comercial y turística, para que puedan cumplir con las responsabilidades derivadas de lo dispuesto en la fracción anterior;
+
+III.- Intervenir en lo relativo a comisiones, congresos, conferencias y exposiciones internacionales, y participar en los organismos e institutos internacionales de que el Gobierno mexicano forme parte;
+
+IV.- Intervenir en las cuestiones relacionadas con los límites territoriales del país y aguas internacionales;
+
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+V.- Conceder a los extranjeros las licencias y autorizaciones que requieran conforme a las Leyes para adquirir el dominio de las Tierras, aguas y sus accesiones en la República Mexicana; obtener concesiones y celebrar contratos, intervenir en la explotación de Recursos Naturales o los permisos para adquirir bienes inmuebles o derechos sobre ellos;
+
+VI.- Llevar el registro de las operaciones realizadas conforme a la fracción anterior;
+
+VII.- Intervenir en todas las cuestiones relacionadas con nacionalidad y naturalización;
+
+VIII.- Guardar y usar el Gran Sello de la Nación;
+
+IX.- Coleccionar los autógrafos de toda clase de documentos diplomáticos;
+
+X.- Legalizar las firmas de los documentos que deban producir efectos en el extranjero, y de los documentos extranjeros que deban producirlos en la República;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XI.- Colaborar con el Fiscal General de la República, en la extradición conforme a la ley o tratados y en los exhortos internacionales o comisiones rogatorias para hacerlos llegar a su destino, previo examen de que llenen los requisitos de forma para su diligenciación y de su procedencia o improcedencia, para hacerlo del conocimiento de las autoridades judiciales competentes, y
+
+XII.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### ARTICULO 29.
 
-El servicio de Carga de Materiales o Diversos, es el que se presta en vehículos adecuados destinados al transporte de materiales para construcción, así como los destinados a trasladar bienes, productos agropecuarios, materiales de construcción industrializados, animales en pie, objetos y cualquier otro bien material, dentro de los límites correspondientes al territorio del Estado. Este servicio no estará sujeto a itinerario, horario, ni tarifa.
+A la Secretaría de la Defensa Nacional, corresponde el despacho de los siguientes asuntos:
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+I.- Organizar, administrar y preparar al Ejército y la Fuerza Aérea;
 
-Quedan exentos de esta clasificación los vehículos utilizados por campesinos, pequeños productores integrantes de pueblos y comunidades indígenas, que transporten insumos y/o productos agropecuarios, agrícolas y ganaderos para su autoconsumo, dentro de los límites de la comunidad agrícola a que correspondan.
+II.- Organizar y preparar el servicio militar nacional;
+
+III.- Organizar las reservas del Ejército y de la Fuerza Aérea, e impartirles la instrucción técnica militar correspondiente;
+
+IV.- Manejar el activo del Ejército y la Fuerza Aérea, de la Guardia Nacional al servicio de la Federación y los contingentes armados que no constituyan la guardia nacional de los Estados;
+
+V.- Conceder licencias y retiros, e intervenir en las pensiones de los miembros del Ejército y de la Fuerza Aérea;
+
+VI.- Planear, dirigir y manejar la movilización del país en caso de guerra; formular y ejecutar, en su caso, los planes y órdenes necesarios para la defensa del país y dirigir y asesorar la defensa civil;
+
+VII.- Construir y preparar las fortificaciones, fortalezas y toda clase de recintos militares para uso del Ejército y de la Fuerza Aérea, así como la administración y conservación de cuarteles y hospitales y demás establecimientos militares;
+
+VIII.- Asesorar militarmente la construcción de toda clase de vías de comunicación terrestres y aéreas;
+
+IX.- Manejar los almacenes del Ejército y de la Fuerza Aérea;
+
+X.- Administrar la Justicia Militar;
+
+XI.- Intervenir en los indultos de delitos del orden militar;
+
+XII.- Organizar y prestar los servicios de sanidad militar;
+
+XIII.- Dirigir la educación profesional de los miembros del Ejército y de la Fuerza Aérea, y coordinar, en su caso, la instrucción militar de la población civil;
+
+XIV.- Adquirir y fabricar armamento, municiones, vestuario y toda clase de materiales y elementos destinados al Ejército y a la Fuerza Aérea;
+
+XV.- Inspeccionar los servicios del Ejército y de la Fuerza Aérea;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XVI.- Intervenir en la expedición de licencias para la portación de armas de fuego, con objeto de que no incluya las armas prohibidas expresamente por la ley y aquellas que la Nación reserve para el uso exclusivo del Ejército, Armada y Guardia Nacional, así como vigilar y expedir permisos para el comercio, transporte y almacenamiento de armas de fuego, municiones, explosivos, agresivos químicos, artificios y material estratégico;
+
+XVII.- Intervenir en la importación y exportación de toda clase de armas de fuego, municiones, explosivos, agresivos químicos, artificios y material estratégico;
+
+XVIII.- Intervenir en el otorgamiento de permisos para expediciones o exploraciones científicas extranjeras o internacionales en el territorio nacional;
+
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2021)</small>
+
+XIX.- Prestar los servicios auxiliares que requieran el Ejército y la Fuerza Aérea, así como los servicios civiles que a dichas fuerzas señale el Ejecutivo Federal;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2021)</small>
+
+XX.- Establecer acuerdos de colaboración con las instituciones ambientales a efecto de capacitar a los integrantes del servicio militar para la ejecución de actividades tendientes a proteger el medio ambiente, y
+
+XXI.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### ARTICULO 30.
 
-El Servicio de Carga Ligera, es aquél que se presta en vehículos adecuados, destinados a transportar mercancías, enseres y objetos que no excedan de su capacidad y dimensiones que señale la Secretaría.
+A la Secretaría de Marina corresponde el despacho de los siguientes asuntos:
+
+I.- Organizar, administrar y preparar la Armada;
+
+II.- Manejar el activo y las reservas de la Armada en todos sus aspectos;
+
+III.- Conceder licencias y retiros, e intervenir en las pensiones de los miembros de la Armada;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+IV.- Ejercer:
+
+a. La soberanía en el mar territorial, su espacio aéreo y costas del territorio;
+
+> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2017)</small>
+
+b. Vigilancia, visita, inspección u otras acciones previstas en las disposiciones jurídicas aplicables en las zonas marinas mexicanas, costas y recintos portuarios, sin perjuicio de las atribuciones que correspondan a otras dependencias.
+
+> <small>(ADICIONADO, D.O.F. 19 DE MAYO DE 2017)</small>
+
+Cuando en ejercicio de estas funciones, se presente la posible comisión de un hecho que la ley señale como delito, se pondrá a disposición ante la autoridad competente a las personas, objetos, instrumentos y productos relacionados al mismo, y
+
+c. Las medidas y competencias que le otorguen los ordenamientos legales y los instrumentos internacionales de los que México sea parte, en la Zona Contigua y en la Zona Económica Exclusiva;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+V.- Ejercer la Autoridad Marítima Nacional en las zonas marinas mexicanas, costas, puertos, recintos portuarios, terminales, marinas e instalaciones portuarias nacionales; así como, en su caso, aguas nacionales donde se realicen actividades de su competencia, en las materias siguientes:
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+a) Cumplimiento del orden jurídico nacional en las materias de su competencia;
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+b) Seguridad marítima, salvamento en caso de accidentes o incidentes de embarcaciones y búsqueda y rescate para salvaguardar la vida humana en la mar y el control de tráfico marítimo;
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+c) Prevención de la contaminación marina originada por embarcaciones o artefactos navales, así como el vertimiento de desechos y otras materias al mar distintas al de aguas residuales, y
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+d) Protección marítima y portuaria, en los términos que fijan los tratados internacionales de los que el Estado mexicano es parte y la normatividad nacional en la materia, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+V Bis.- Regular las comunicaciones y transportes por agua, así como formular y conducir las políticas y programas para su desarrollo, de acuerdo a las necesidades del país;
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+VI.- Dirigir la educación naval militar y la educación náutica mercante;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+VI Bis.- Regular, promover y organizar a la marina mercante, así como establecer los requisitos que deba satisfacer el personal técnico de la marina mercante y conceder las licencias y autorizaciones respectivas;
+
+> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2017)</small>
+
+VII.- Mantener el estado de derecho en las zonas marinas mexicanas, costas y recintos portuarios, ejerciendo funciones de guardia costera a través de la Armada;
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+
+VII Bis.- Establecer y dirigir el Servicio de Búsqueda y Rescate para la salvaguarda de la vida humana en la mar;
+
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+VII Ter.- Regular, vigilar la seguridad de la navegación y la vida humana en el mar y supervisar a la marina mercante;
+
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+VII Quáter.- Administrar y operar el señalamiento marítimo, así como proporcionar los servicios de información y seguridad para la navegación marítima;
+
+VIII.- Inspeccionar los servicios de la Armada;
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+IX.- Construir, reconstruir y conservar las obras portuarias que requiera la Armada y la Secretaría de Marina, así como las obras marítimas, portuarias y de dragado que requiera el país y, en su caso, autorizarlas cuando sobrepasen sus capacidades técnicas y operativas;
+
+X.- Establecer y administrar los almacenes y estaciones de combustibles y lubricantes de la Armada;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XI.- Ejecutar los trabajos hidrográficos de las costas, islas, puertos y vías navegables, así como organizar el archivo de cartas marítimas y las estadísticas relativas;
+
+XII.- Intervenir en el otorgamiento de permisos para expediciones o exploraciones científicas extranjeras o internacionales en aguas nacionales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XII Bis. Adjudicar y otorgar contratos, concesiones y permisos para el establecimiento y explotación de servicios relacionados con las comunicaciones y transportes por agua con embarcaciones o artefactos navales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XII Ter. Coordinar la implementación de las acciones necesarias con las demás dependencias de la Administración Pública Federal, para el cumplimiento de las disposiciones nacionales e internacionales en materia marítima, en el ámbito de su competencia;
+
+XIII.- Intervenir en la administración de la justicia militar;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XIV.- Construir, mantener y operar astilleros, diques, varaderos, dragas, unidades y establecimientos navales y aeronavales, para el cumplimiento de la misión de la Armada de México, así como prestar servicios en el ámbito de su competencia que coadyuven al desarrollo marítimo nacional, de conformidad con las disposiciones aplicables y en concordancia con las políticas y programas que para dicho desarrollo determine la Secretaría de Comunicaciones y Transportes y las demás dependencias que tengan relación con el mismo;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XIV Bis.- Coordinar en los puertos marítimos y fluviales las actividades y servicios marítimos y portuarios, los medios de transporte que operen en ellos y los servicios principales, auxiliares y conexos de las vías generales de comunicación para su eficiente operación y funcionamiento;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XIV Ter.- Administrar los puertos centralizados y coordinar los de la administración paraestatal, y otorgar concesiones y permisos para la ocupación de las zonas federales dentro de los recintos portuarios;
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
+
+XIV Quáter.- Fijar las normas técnicas del funcionamiento y operación de los servicios públicos de comunicaciones y transportes por agua y las tarifas para el cobro de los mismos; otorgar concesiones y permisos, y fijar las tarifas y reglas de aplicación de todas las maniobras y servicios marítimos, portuarios, auxiliares y conexos relacionados con las comunicaciones y transportes por agua; así como participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de las tarifas de los servicios que presta la Administración Pública Federal de comunicaciones y transportes por agua;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XV.- Emitir opinión con fines de seguridad nacional en los proyectos de construcción de toda clase de vías generales de comunicación por agua y sus partes, relacionados con la ingeniería portuaria marítima y señalamiento marino;
+
+XVI.- Organizar y prestar los servicios de sanidad naval;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XVII.- Programar, fomentar, desarrollar y ejecutar, sin perjuicio de las atribuciones que correspondan a otras dependencias, los trabajos de investigación científica y tecnológica en las ciencias marítimas, creando los institutos de investigación necesarios;
+
+XVIII.- Integrar el archivo de información oceanográfica nacional, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XIX.- Celebrar acuerdos en el ámbito de su competencia con otras dependencias e instituciones nacionales o extranjeras, en los términos de los tratados internacionales y conforme a la legislación vigente;
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+XX.- Ejercer acciones para llevar a cabo la defensa y seguridad nacionales en el ámbito de su responsabilidad, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XXI.- Participar y llevar a cabo las acciones que le corresponden dentro del marco del sistema nacional de protección civil para la prevención, auxilio, recuperación y apoyo a la población en situaciones de desastre;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XXII.- Adquirir, diseñar y fabricar armamento, municiones, vestuario, y toda clase de medios navales e ingenios materiales, así como intervenir en la importación y exportación de éstos, cuando, sean de uso exclusivo de la Secretaría de Marina-Armada de México;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XXIII.- Prestar los servicios auxiliares que requiera la Armada, así como los servicios de apoyo a otras dependencias federales, de las entidades federativas y de los municipios que lo soliciten o cuando así lo señale el titular del Ejecutivo Federal;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XXIV.- Intervenir, en el ámbito de su responsabilidad, en la protección y conservación del medio ambiente marino sin perjuicio de las atribuciones que correspondan a otras dependencias;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XXV.- Inspeccionar, patrullar y llevar a cabo labores de reconocimiento y vigilancia para preservar, las Áreas Naturales Protegidas, en coordinación con las autoridades competentes y de conformidad con las disposiciones aplicables, y
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XXVI.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 30 BIS.- A la Secretaría de Seguridad y Protección Ciudadana corresponde el despacho de los asuntos siguientes:
+
+I. Formular y ejecutar las políticas, programas y acciones tendientes a garantizar la seguridad pública de la Nación y de sus habitantes; proponer al Ejecutivo Federal la política criminal y las medidas que garanticen la congruencia de ésta entre las dependencias de la Administración Pública Federal; coadyuvar a la prevención del delito; ejercer el mando sobre la fuerza pública para proteger a la población ante todo tipo de amenazas y riesgos, con plena sujeción a los derechos humanos y libertades fundamentales; salvaguardar la integridad y los derechos de las personas; así como preservar las libertades, el orden y la paz públicos;
+
+II. Proponer acciones tendientes a asegurar la coordinación entre la Federación, la Ciudad de México, los Estados y los municipios en el ámbito del Sistema Nacional de Seguridad Pública; proponer al Consejo Nacional de Seguridad Pública las políticas y lineamientos en materia de carrera policial, el Programa Rector para la Profesionalización Policial, los criterios para establecer academias e institutos para ello, el desarrollo de programas de coordinación académica y los lineamientos para la aplicación de los procedimientos en materia del régimen disciplinario policial; participar, de acuerdo con la ley de la materia, de planes y programas de profesionalización para las instituciones policiales; coordinar las acciones para la vigilancia y protección de las instalaciones estratégicas, en términos de ley;
+
+III. Organizar, dirigir y supervisar bajo su adscripción a la Policía Federal, garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario, con el objeto de salvaguardar la integridad y el patrimonio de las personas y prevenir la comisión de delitos del orden federal;
+
+IV. Proponer, en el seno del Consejo Nacional de Seguridad Pública, políticas, acciones y estrategias de coordinación en materia de prevención del delito y política criminal para todo el territorio nacional; efectuar, en coordinación con la Fiscalía General de la República, estudios sobre los actos delictivos no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
+
+V. Auxiliar a las autoridades federales, estatales, municipales y de la Ciudad de México que soliciten apoyo, en el marco del Sistema Nacional de Seguridad Pública, para la protección de la integridad física de las personas y la preservación de sus bienes; reforzar, cuando así lo soliciten, la tarea policial y de seguridad de los municipios y localidades rurales y urbanas que lo requieran, intervenir ante situaciones de peligro cuando se vean amenazados por aquellas que impliquen violencia o riesgo inminente; promover la celebración de convenios entre las autoridades federales, y de éstas, con las estatales, municipales y de la Ciudad de México para la coordinación y funcionamiento del Sistema Nacional de Seguridad Pública y el combate a la delincuencia, así como establecer acuerdos de colaboración con instituciones similares, en los términos de los tratados internacionales, conforme a la legislación;
+
+VI. Auxiliar al Poder Judicial de la Federación y a la Fiscalía General de la República, cuando así lo requieran, para el debido ejercicio de sus funciones, así como a otras dependencias, órganos de gobierno, entidades federativas y municipios, y cuando así lo requiera, a la Fiscalía General de la República en la investigación y persecución de los delitos, en cuyo caso los cuerpos de policía que actúen en su auxilio estarán bajo el mando y conducción del Ministerio Público, y disponer de la fuerza pública en términos de las disposiciones legales aplicables;
+
+VII. Proponer al Consejo Nacional de Seguridad Pública el desarrollo de políticas orientadas a prevenir los delitos federales y, por conducto del Sistema Nacional de Seguridad Pública, en los delitos del fuero común; promover y facilitar la participación social para el desarrollo de actividades de vigilancia sobre el ejercicio de sus atribuciones en materia de seguridad pública, y atender de manera expedita las denuncias y quejas ciudadanas con relación al ejercicio de estas atribuciones;
+
+VIII. Proporcionar a la Secretaría de Gobernación la información para que ésta publique y actualice una página electrónica específica en la cual se registren los datos generales de las personas reportadas como desaparecidas en todo el país. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mismas;
+
+IX. Ejecutar las penas por delitos del orden federal y administrar el sistema penitenciario federal y de justicia para adolescentes, en términos de la política especial correspondiente y con estricto apego a los derechos humanos;
+
+X. Organizar y dirigir actividades de reinserción social y supervisión de la libertad condicional, así como las relativas a la supervisión de medidas cautelares y suspensión condicional al proceso de conformidad con la normatividad aplicable en la materia y en coordinación con las autoridades competentes;
+
+XI. Participar, conforme a los tratados respectivos, en el traslado de las personas privadas de su libertad a que se refiere el párrafo séptimo del artículo 18 constitucional;
+
+XII. Coordinar, operar e impulsar la mejora continua del sistema de información, reportes y registro de datos en materia criminal; desarrollar las políticas, normas y sistemas para el debido suministro permanente e intercambio de información en materia de seguridad pública entre las autoridades competentes; establecer un sistema destinado a obtener, analizar, estudiar y procesar información para la prevención de delitos, mediante métodos que garanticen el estricto respeto a los derechos humanos;
+
+XIII. Establecer mecanismos e instancias para la coordinación integral de las tareas y cuerpos de seguridad pública y policial, así como para el análisis y sistematización integral de la investigación e información de seguridad pública en el marco del Sistema Nacional de Seguridad Pública;
+
+XIV. Establecer mecanismos e instancias para la coordinación integral de las tareas, así como para el análisis y sistematización integral de la investigación e información de seguridad nacional;
+
+XV. Otorgar las autorizaciones a empresas que presten servicios privados de seguridad en dos o más entidades federativas, supervisar su funcionamiento e informar periódicamente al Sistema Nacional de Seguridad Pública sobre el ejercicio de esta atribución;
+
+XVI. Coordinar y establecer mecanismos para contar oportunamente con la información de seguridad pública y nacional, así como del ámbito criminal y preventivo que esta Secretaría requiera de dependencias y organismos competentes en dichas materias, para el adecuado cumplimiento de las atribuciones que las leyes le establecen;
+
+XVII. Organizar, dirigir y supervisar bajo su adscripción al Centro Nacional de Inteligencia, el cual fungirá como un sistema de investigación e información, que contribuya a preservar la integridad, estabilidad y permanencia del Estado mexicano, así como contribuir, en lo que corresponda al Ejecutivo de la Unión, a dar sustento a la unidad nacional, a preservar la cohesión social y a fortalecer las instituciones de gobierno;
+
+XVIII. Impulsar a través de su titular, en calidad de Secretario Ejecutivo del Consejo de Seguridad Nacional, la efectiva coordinación de éste, así como la celebración de convenios y bases de colaboración que dicho Consejo acuerde;
+
+XIX. Informar al Poder Legislativo Federal sobre los asuntos de su competencia en materia de seguridad nacional;
+
+XX. Conducir y poner en ejecución, en coordinación con las autoridades de los Gobiernos de los Estados y la Ciudad de México, con los gobiernos municipales y con las dependencias y entidades de la Administración Pública Federal, las políticas y programas de protección civil del Ejecutivo, en el marco del Sistema Nacional de Protección Civil, para la prevención, auxilio, recuperación y apoyo a la población en situaciones de desastre y concertar con instituciones y organismos de los sectores privado y social las acciones conducentes al mismo objetivo;
+
+XXI. Presidir el Consejo Nacional de Seguridad Pública y el de Seguridad Nacional en ausencia del Presidente de la República;
+
+XXII. Presidir la Conferencia Nacional de Secretarios de Seguridad Pública, nombrar y remover a su secretario técnico y designar tanto a quien presidirá, como a quien fungirá como secretario técnico de la Conferencia Nacional del Sistema Penitenciario, en el marco del Sistema Nacional de Seguridad Pública;
+
+XXIII. Proponer al Presidente de la República el nombramiento del Comisionado General de la Policía Federal y del Secretario Ejecutivo del Sistema Nacional de Seguridad Pública;
+
+XXIV. Coordinar y supervisar la operación del Registro Público Vehicular, a través del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, y
+
+XXV. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2018, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO PASANDO DE XXXIV FRACCIONES A XXXII.]</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 31.
 
-El Servicio de Mudanzas, es aquél que se presta en vehículos cerrados o abiertos para el traslado de bienes muebles, este servicio no estará sujeto a itinerario, horario y tarifa.
+A la Secretaría de Hacienda y Crédito Público corresponde el despacho de los siguientes asuntos:
+
+I.- Proyectar y coordinar la planeación nacional del desarrollo y elaborar, con la participación de los grupos sociales interesados, el Plan Nacional correspondiente;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+II.- Proyectar y calcular los ingresos de la Federación y de las entidades paraestatales, considerando las necesidades del gasto público federal, la utilización razonable del crédito público y la sanidad financiera de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+III.- Estudiar y formular los proyectos de leyes y disposiciones fiscales y de las leyes de ingresos de la Federación;
+
+IV.- (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1993)
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+V.- Manejar la deuda pública de la Federación;
+
+VI.- Realizar o autorizar todas las operaciones en que se haga uso del crédito público;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+VII.- Planear, coordinar, evaluar y vigilar el sistema bancario del país, que comprende a la Banca Nacional de Desarrollo y las demás instituciones encargadas de prestar el servicio de banca y crédito;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
+
+VIII.- Ejercer las atribuciones que le señalen las leyes en materia de seguros, fianzas, valores y de organizaciones y actividades auxiliares del crédito;
+
+IX.- Determinar los criterios y montos globales de los estímulos fiscales, escuchando para ello a las dependencias responsables de los sectores correspondientes y administrar su aplicación en los casos en que no competa a otra Secretaría;
+
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
+
+X.- Establecer y revisar los precios y tarifas de los bienes y servicios de la administración pública federal, o bien, las bases para fijarlos, escuchando a la Secretaría de Economía y con la participación de las dependencias que correspondan;
+
+XI.- Cobrar los impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos federales en los términos de las leyes aplicables y vigilar y asegurar el cumplimiento de las disposiciones fiscales;
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
+
+XII.- Organizar y dirigir los servicios aduanales y de inspección;
+
+XIII.- Representar el interés de la Federación en controversias fiscales;
+
+XIV.- Proyectar y calcular los egresos del Gobierno Federal y de la administración pública paraestatal, haciéndolos compatibles con la disponibilidad de recursos y en atención a las necesidades y políticas del desarrollo nacional;
+
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+XV.- Formular el programa del gasto público federal y el proyecto de Presupuesto de Egresos de la Federación y presentarlos a la consideración del Presidente de la República;
+
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+XVI.- Normar, autorizar y evaluar los programas de inversión pública de la administración pública federal;
+
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+XVII.- Llevar a cabo las tramitaciones y registros que requiera el control y la evaluación del ejercicio del gasto público federal y de los programas y presupuestos de egresos, así como presidir las instancias de coordinación que establezca el Ejecutivo Federal para dar seguimiento al gasto público y sus resultados;
+
+XVIII.- Formular la Cuenta Anual de la Hacienda Pública Federal;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL Y DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA QUE MODIFICA LA LEY,[ D.O.F. 30 DE DICIEMBRE DE 2015.]</small>
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XIX.- Coordinar la evaluación que permita conocer los resultados de la aplicación de los recursos públicos federales, así como concertar con las dependencias y entidades de la Administración Pública Federal la validación de los indicadores estratégicos, en los términos de las disposiciones aplicables;
+
+XX.- Fijar los lineamientos que se deben seguir en la elaboración de la documentación necesaria para la formulación del Informe Presidencial e integrar dicha documentación;
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
+
+XXI.- Establecer normas, políticas y lineamientos en materia de desincorporación de activos de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXII.- Designar y remover a los titulares de las unidades de administración y finanzas a que se refiere el primer párrafo del artículo 20 de esta ley, quienes serán considerados servidores públicos de la respectiva dependencia. Se exceptúa de lo anterior a la Secretaría de la Defensa Nacional y a la Secretaría de Marina, que contarán con sus respectivas oficialías mayores;
+
+XXIII.- Vigilar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación nacional, así como de programación, presupuestación, contabilidad y evaluación;
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
+
+XXIV.- Ejercer el control presupuestario de los servicios personales y establecer normas y lineamientos en materia de control del gasto en ese rubro;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXV.- Planear, establecer y conducir la política general en materia de contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir e interpretar las normas, lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en dichas materias; así como promover la homologación de políticas, normas y criterios en materia de contrataciones públicas;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXVI.- Fungir como área consolidadora de los procedimientos de compra de bienes y contratación de servicios que la propia Secretaría determine;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXVII.- Establecer normas y lineamientos en materia de control presupuestario; así como ejercer el control presupuestario de las contrataciones públicas consolidadas a través de la Oficialía Mayor;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXVIII.- Participar en las negociaciones comerciales internacionales relacionadas con los capítulos de compras del sector público y coordinar compras estratégicas del mismo que generen beneficios al país; elaborar disposiciones que promuevan la participación de la proveeduría nacional en las compras de dicho sector, así como asesorar a las dependencias y entidades de la Administración Pública Federal sobre el cumplimiento de la normativa en esa materia;
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
+
+XXIX.- Conducir la política inmobiliaria de la Administración Pública Federal, salvo por lo que se refiere a las playas, zona federal marítimo terrestre, terrenos ganados al mar o cualquier depósito de aguas marítimas y demás zonas federales; administrar los inmuebles de propiedad federal cuando no estén asignados a alguna dependencia o entidad, así como llevar el registro público de la propiedad inmobiliaria federal y el inventario general correspondiente;
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
+
+XXX.- Regular la adquisición, arrendamiento, enajenación, destino o afectación de los bienes inmuebles de la Administración Pública Federal y, en su caso, representar el interés de la Federación; expedir las normas y procedimientos para la formulación de inventarios, para la realización y actualización de los avalúos sobre dichos bienes, así como expedir normas técnicas, autorizar y, en su caso, proyectar, construir, rehabilitar, conservar o administrar, directamente o a través de terceros, los edificios públicos y, en general, los bienes inmuebles de la Federación;
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
+
+XXXI.- Reivindicar los bienes propiedad de la Nación, en los términos de las disposiciones aplicables, y
+
+> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
+
+XXXII.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2018, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO PASANDO DE XXXIII FRACCIONES A XXII.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 32.
 
-El Servicio de Mensajería y Paquetería, es aquél que tiene por objeto trasladar dentro de la zona autorizada, toda clase de sobres, paquetes, bultos, cajas y cualquier otro tipo de contenedor con entrega a domicilio.
+A la Secretaría de Bienestar corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+I.- Fortalecer el bienestar, el desarrollo, la inclusión y la cohesión social en el país mediante la instrumentación, coordinación, supervisión y seguimiento, en términos de ley y con los organismos respectivos, de las políticas siguientes:
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 25 DE MAYO DE 1992)</small>
+
+a) Combate efectivo a la pobreza;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 25 DE MAYO DE 1992)</small>
+
+b) Atención específica a las necesidades de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas áridas de las áreas rurales, así como de los colonos y marginados de las áreas urbanas; y
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+c) Atención preponderante a los derechos de la niñez, de la juventud, de los adultos mayores, de los pueblos indígenas y de las personas con discapacidad;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+II.- Formular, conducir y evaluar la política general de desarrollo social para el combate efectivo a la pobreza;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+III.- Coordinar las acciones que incidan en el bienestar de la población, el combate a la pobreza y el desarrollo humano, fomentando un mejor nivel de vida;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Fomentar las actividades de las organizaciones de la sociedad civil en materia de bienestar, combate a la pobreza y desarrollo humano;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+V.- Evaluar la aplicación de las transferencias de fondos a entidades federativas y municipios, y de los sectores social y privado, que se deriven de las acciones e inversiones convenidas en los términos de este artículo;
+
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2003)</small>
+
+VI.- Coordinar, concretar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas áridas de las áreas rurales, así como de los colonos de las áreas urbanas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de los gobiernos estatales y municipales y, con la participación de los sectores social y privado;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+VII.- Impulsar políticas y dar seguimiento a los programas de inclusión social y protección de los derechos de niñas, niños y adolescentes, en coordinación con las dependencias y entidades de la Administración Pública Federal, así como de los diferentes niveles de gobierno;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+VIII.- Elaborar políticas públicas y dar seguimiento a los programas de apoyo e inclusión de los jóvenes a la vida social participativa y productiva;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+IX.- Impulsar las políticas públicas y dar seguimiento a los programas de inclusión y atención de los adultos mayores y sus derechos;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+X.- Fomentar las políticas públicas y dar seguimiento a los programas que garanticen la plenitud de los derechos de las personas con discapacidad;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XI.- Impulsar a través del Sistema Nacional de Asistencia Social Pública y Privada políticas públicas en materia de asistencia social e integración familiar, en coordinación con el Sistema Nacional para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XII.- Promover la construcción de obras de infraestructura y equipamiento para fortalecer el desarrollo e inclusión social, en coordinación con los gobiernos de las entidades federativas y municipales y con la participación de los sectores social y privado;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XIII.- Coadyuvar en las políticas públicas que garanticen el pleno ejercicio de los derechos y el desarrollo de los pueblos indígenas;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+XIV.- Formular, conducir y evaluar la política de fomento y desarrollo del sector social de la economía;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+XV.- Fomentar la organización y constitución de toda clase de sociedades cooperativas, cuyo objeto sea la producción industrial, la distribución o el consumo, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XVI.- Fomentar y apoyar a las unidades de producción familiar rural de subsistencia;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XVII.- Participar en la coordinación e instrumentación de las políticas de desarrollo rural para elevar el nivel de bienestar de las familias, comunidades y ejidos;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XVIII.- Coadyuvar en el diseño e implementación de políticas públicas orientadas a fomentar la agroforestería, la productividad, la economía social y el empleo en el ámbito rural y a evitar la migración de las áreas rurales;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XIX.- Impulsar programas para promover la corresponsabilidad de manera equitativa entre las familias, el Estado y las instituciones de asistencia social y privada, para el cuidado de la niñez y de los grupos vulnerables;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XX.- Coordinar, en conjunto con la Coordinación General de Programas para el Desarrollo, las Delegaciones Estatales de Programas para el Desarrollo de las Entidades Federativas, así como la planeación, ejecución y evaluación de los planes, programas y acciones que desarrollen;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+XXI.- Integrar, mantener y actualizar un sistema de información con los padrones de beneficiarios de programas sociales de la Administración Pública Federal, así como depurar sus duplicidades;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+XXII.- Encabezar la Secretaría Ejecutiva del Gabinete Social de la Presidencia de la República en los términos de la Ley Nacional de Extinción de Dominio;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+XXIII.- Ejecutar y dar seguimiento a los acuerdos tomados por el Gabinete Social de la Presidencia de la República, así como convocar a las personas titulares de las entidades que lo conforman a reuniones ordinarias;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+XXIV.- Coordinarse con la persona Titular de la Secretaría Técnica para elaborar y entregar un informe anual al Congreso de la Unión sobre la transferencia, asignación y destino de los Bienes a los que se refiere la Ley Nacional de Extinción de Dominio, así como de las actividades y reuniones del Gabinete Social de la Presidencia de la República, y
+
+(REUBICADA, D.O.F. 9 DE AGOSTO DE 2019)
+
+XXV.- Las demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE FEBRERO DE 2003)</small>
+
+ARTICULO 32 BIS.- A la Secretaría de Medio Ambiente y Recursos Naturales corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+I.- Fomentar la protección, restauración, conservación, preservación y aprovechamiento sustentable de los ecosistemas, recursos naturales, bienes y servicios ambientales, con el fin de garantizar el derecho a un medio ambiente sano;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+II.- Formular, conducir y evaluar la política en materia de recursos naturales, siempre que no estén encomendados expresamente a otra dependencia; así como en materia de ecología, saneamiento ambiental, agua, regulación ambiental del desarrollo urbano y de la actividad pesquera, con la participación que corresponda a otras dependencias y entidades;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+III.- Administrar y regular el uso y promover el aprovechamiento sustentable de los recursos naturales que correspondan a la Federación, con excepción de los hidrocarburos y los minerales radioactivos;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+IV.- Establecer, con la participación que corresponda a otras dependencias y a las autoridades estatales y municipales, normas oficiales mexicanas sobre la preservación y restauración de la calidad del medio ambiente; sobre los ecosistemas naturales; sobre el aprovechamiento sustentable de los recursos naturales y de la flora y fauna silvestre, terrestre y acuática; sobre descargas de aguas residuales, y en materia minera; y sobre materiales peligrosos y residuos sólidos y peligrosos; así como establecer otras disposiciones administrativas de carácter general en estas materias y otras de su competencia, para la interpretación y aplicación de las normas oficiales mexicanas;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+V.- Vigilar, promover y estimular, en coordinación con las autoridades federales, estatales y municipales, el cumplimiento de las leyes, normas oficiales mexicanas, programas relacionados con recursos naturales, medio ambiente, aguas, bosques y demás materias competencia de la Secretaría, así como, en su caso, iniciar los procedimientos de inspección respectivos, imponer las sanciones y ordenar las medidas de seguridad que resulten procedentes;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+VI.- Proponer al Ejecutivo Federal el establecimiento de áreas naturales protegidas, y promover para su administración y vigilancia, la participación de autoridades federales o locales, y de universidades, centros de investigación y particulares;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+VII.- Organizar y administrar áreas naturales protegidas y coadyuvar en labores de conservación, protección y vigilancia de dichas áreas, cuando su administración recaiga en gobiernos estatales, municipales o en personas físicas o morales;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+VIII.- Ejercer la posesión y propiedad de la nación en las playas, zona federal marítimo terrestre y terrenos ganados al mar;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+IX.- Intervenir en foros internacionales respecto de las materias competencia de la Secretaría, con la participación que corresponda a la Secretaría de Relaciones Exteriores, y proponer a ésta la celebración de tratados y acuerdos internacionales en tales materias;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+X.- Promover el ordenamiento ecológico del territorio nacional, en coordinación con las autoridades federales, estatales y municipales, y con la participación de los particulares;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XI.- Evaluar y dictaminar las manifestaciones de impacto ambiental de proyectos de desarrollo que le presenten los sectores público, social y privado; resolver sobre los estudios de riesgo ambiental, así como sobre los programas para la prevención de accidentes con incidencia ecológica;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XII.- Elaborar, promover y difundir las tecnologías y formas de uso requeridas para el aprovechamiento sustentable de los ecosistemas y sobre la calidad ambiental de los procesos productivos, de los servicios y del transporte;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XIII.- Fomentar y realizar programas de restauración ecológica, con la cooperación de las autoridades federales, estatales y municipales, en coordinación, en su caso, con las demás dependencias y entidades de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2003)</small>
+
+XIV.- Evaluar la calidad del ambiente y establecer y promover el sistema de información ambiental, que incluirá los sistemas de monitoreo atmosférico, de suelos y de cuerpos de agua de jurisdicción federal, y los inventarios de recursos naturales y de población de fauna silvestre, con la cooperación de las autoridades federales, estatales y municipales, las instituciones de investigación y educación superior, y las dependencias y entidades que correspondan;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XV.- Desarrollar y promover metodologías y procedimientos de valuación económica del capital natural y de los bienes y servicios ambientales que éste presta, y cooperar con dependencias y entidades para desarrollar un sistema integrado de contabilidad ambiental y económica;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XVI.- Formular y conducir la política nacional sobre cambio climático y la capa de ozono;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XVII.- Promover la participación social y de la comunidad científica en la formulación, aplicación y vigilancia de la política ambiental, y concertar acciones e inversiones con los sectores social y privado para la protección y restauración del ambiente;
+
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2003)</small>
+
+XVIII.- Llevar el registro y cuidar la conservación de los árboles históricos y notables del país;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XIX.- Proponer, y en su caso resolver sobre el establecimiento y levantamiento de vedas forestales, de caza y pesca, de conformidad con la legislación aplicable, y establecer el calendario cinegético y el de aves canoras y de ornato;
+
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2003)</small>
+
+XX.- Imponer, con la participación que corresponda a otras dependencias y entidades, las restricciones que establezcan las disposiciones aplicables sobre la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del o destinadas al extranjero, y promover ante la Secretaría de Economía el establecimiento de medidas de regulación o restricción a su importación o exportación, cuando se requiera para su conservación y aprovechamiento;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XXI.- Dirigir los estudios, trabajos y servicios meteorológicos, climatológicos, hidrológicos y geohidrológicos, así como el sistema meteorológico nacional, y participar en los convenios internacionales sobre la materia;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XXII.- Coordinar, concertar y ejecutar proyectos de formación, capacitación y actualización para mejorar la capacidad de gestión ambiental y el uso sustentable de recursos naturales; estimular que las instituciones de educación superior y los centros de investigación realicen programas de formación de especialistas, proporcionen conocimientos ambientales e impulsen la investigación científica y tecnológica en la materia; promover que los organismos de promoción de la cultura y los medios de comunicación social contribuyan a la formación de actitudes y valores de protección ambiental y de conservación de nuestro patrimonio natural; y en coordinación con la Secretaría de Educación Pública, fortalecer los contenidos ambientales de planes y programas de estudios y los materiales de enseñanza de los diversos niveles y modalidades de educación;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XXIII.- Organizar, dirigir y reglamentar los trabajos de hidrología en cuencas, cauces y álveos de aguas nacionales, tanto superficiales como subterráneos, conforme a la ley de la materia;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XXIV.- Administrar, controlar y reglamentar el aprovechamiento de cuencas hidráulicas, vasos, manantiales y aguas de propiedad nacional, y de las zonas federales correspondientes, con exclusión de los que se atribuya expresamente a otra dependencia; establecer y vigilar el cumplimiento de las condiciones particulares que deban satisfacer las descargas de aguas residuales, cuando sean de jurisdicción federal; autorizar, en su caso, el vertimiento de aguas residuales en el mar, en coordinación con la Secretaría de Marina, cuando provenga de fuentes móviles o plataformas fijas; en cuencas, cauces y demás depósitos de aguas de propiedad nacional; y promover y, en su caso, ejecutar y operar la infraestructura y los servicios necesarios para el mejoramiento de la calidad del agua en las cuencas;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXV.- Estudiar, proyectar, construir y conservar, con la participación que corresponda a la Secretaría de Agricultura y Desarrollo Rural, las obras de riego, desecación, drenaje, defensa y mejoramiento de terrenos y las de pequeña irrigación, de acuerdo con los programas formulados y que competa realizar al Gobierno Federal, por sí o en cooperación con las autoridades estatales y municipales o de particulares;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXVI.- Formular, dar seguimiento y evaluar la política hídrica nacional, así como regular y vigilar la conservación de las corrientes, lagos, esteros, lagunas y humedales de jurisdicción federal, en la protección de cuencas alimentadoras y las obras de corrección torrencial;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XXVII.- Manejar el sistema hidrológico del Valle de México;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XXVIII.- Controlar los ríos y demás corrientes y ejecutar las obras de defensa contra inundaciones;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXIX.- Organizar y manejar la explotación de los sistemas nacionales de riego, con la intervención de los usuarios, en los términos que lo determinen las leyes, en coordinación, en su caso, con la Secretaría de Agricultura y Desarrollo Rural;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XXX.- Ejecutar las obras hidráulicas que deriven de tratados internacionales;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXXI.- Impulsar acciones para garantizar el acceso, disposición y saneamiento de agua para consumo personal y doméstico; intervenir en el acceso al agua para el sector productivo y energético a través de instrumentos establecidos por ley siguiendo los principios y criterios de equidad y sustentabilidad; fomentar y apoyar los servicios de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales que realicen las autoridades locales y las organizaciones comunitarias, así como programar, proyectar, construir, administrar, operar y conservar por sí, o mediante el otorgamiento de la asignación o concesión que en su caso se requiera, o en los términos del convenio que se celebre, las obras y servicios de captación, potabilización, tratamiento de aguas residuales, conducción y suministro de aguas de jurisdicción federal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXXII.- Establecer los mecanismos necesarios para implementar la coordinación y colaboración con la Agencia Nacional de Seguridad Industrial y de Protección al Ambiente del Sector Hidrocarburos y solicitar a dicha Agencia el apoyo técnico que requiera;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXXIII.- Participar con la Secretaría de Hacienda y Crédito Público en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXXIV.- Elaborar y aplicar, en coordinación con las Secretarías de Agricultura y Desarrollo Rural; de Salud; de Comunicaciones y Transportes; de Economía; de Turismo; de Bienestar; de Gobernación; de Marina; de Energía; de Educación Pública; de Hacienda y Crédito Público; de Desarrollo Agrario, Territorial y Urbano, y de Relaciones Exteriores, las políticas públicas encaminadas al cumplimiento de las acciones de mitigación y adaptación que señala la Ley General de Cambio Climático;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XXXV.- Participar con la Secretaría de Hacienda y Crédito Público, en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXXVI.- Establecer y operar un sistema de administración para autorizar, evaluar y monitorear a las personas morales que coadyuven en el cumplimiento de obligaciones y en los procesos de inspección y verificación en la materia;
+
+XXXVII.- (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2000)
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXXVIII.- Formular y conducir la política nacional en materia de residuos, así como elaborar los programas nacionales en la materia;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
+XXXIX.- Otorgar contratos, concesiones, licencias, permisos, autorizaciones, asignaciones, y reconocer derechos, según corresponda, en materia de aguas, forestal, ecológica, explotación de la flora y fauna silvestres, y sobre playas, zona federal marítimo terrestre y terrenos ganados al mar;
+
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2013)</small>
+
+XL.- Diseñar y operar, con la participación que corresponda a otras dependencias y entidades, la adopción de instrumentos económicos para la protección, restauración y conservación del medio ambiente;
+
+XLI.- (DEROGADA, D.O.F. 11 DE AGOSTO DE 2014)
+
+> <small>N. DE E. EL CONTENDIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL 28 DE DICIEMBRE DE 1994, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 5 DE DICIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XLII.</small>
+
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2013)</small>
+
+XLII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 33.
 
-El Servicio de Carga Especial, es aquel que requiere de vehículos con características especiales para el transporte de materiales para construcción, basura, desechos en general, agua, bebidas, alimentos y/o productos perecederos, arrastre de vehículos, remolques, entre otros, para lo cual, la Secretaría determinará las características de los vehículos referidos, los cuales deberán cumplir con las disposiciones legales aplicables.
+A la Secretaría de Energía corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+I. Establecer, conducir y coordinar la política energética del país, así como supervisar su cumplimiento con prioridad en la seguridad y diversificación energéticas, el ahorro de energía y la protección del medio ambiente, para lo cual podrá, entre otras acciones y en términos de las disposiciones aplicables, coordinar, realizar y promover programas, proyectos, estudios e investigaciones sobre las materias de su competencia;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+II. Ejercer los derechos de la Nación en materia de petróleo y todos los carburos de hidrógeno sólidos, líquidos y gaseosos; de minerales radioactivos; así como respecto del aprovechamiento de los bienes y recursos naturales que se requieran para generar, transmitir, distribuir, comercializar y abastecer energía eléctrica;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+III. Conducir y supervisar la generación de energía nuclear;
+
+IV. Promover que la participación de los particulares en las actividades del sector sea en los términos de la legislación y de las disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+V. Llevar a cabo la planeación energética a mediano y largo plazos, así como fijar las directrices económicas y sociales para el sector energético nacional, conforme a las disposiciones aplicables.
+
+La planeación energética deberá atender los siguientes criterios: la soberanía y la seguridad energéticas, el mejoramiento de la productividad energética, la restitución de reservas de hidrocarburos, la diversificación de las fuentes de combustibles, la reducción progresiva de impactos ambientales de la producción y consumo de energía, la mayor participación de las energías renovables en el balance energético nacional, la satisfacción de las necesidades energéticas básicas de la población, el ahorro de energía y la mayor eficiencia de su producción y uso, el fortalecimiento de las empresas productivas del Estado del sector energético, y el apoyo a la investigación y el desarrollo tecnológico nacionales en materia energética;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+VI. Elaborar y publicar anualmente un informe pormenorizado que permita conocer el desempeño y las tendencias del sector eléctrico nacional;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+VII. En materia de la industria de hidrocarburos: otorgar y revocar asignaciones a que se refiere el artículo 27 Constitucional; establecer los lineamientos técnicos que deberán observarse en el proceso de licitación; el diseño técnico de los contratos; establecer las áreas que podrán ser objeto de asignaciones y contratos; así como adjudicar asignaciones y otorgar permisos para el tratamiento y refinación del petróleo, y procesamiento de gas natural;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+VIII. Establecer mecanismos de coordinación con el Centro Nacional de Control de Energía y el Centro Nacional de Control del Gas Natural, que propicie que las acciones de estos organismos sean compatibles con los programas sectoriales;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+IX. Otorgar, negar, modificar y revocar asignaciones y contratos para exploración y extracción de minerales radiactivos;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+X. Promover el ahorro de energía, regular y, en su caso, expedir normas oficiales mexicanas sobre eficiencia energética, así como realizar y apoyar estudios e investigaciones en materia energética y demás aspectos relacionados;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XI. Regular y promover el desarrollo y uso de fuentes de energía alternas a los hidrocarburos, así como energías renovables y proponer, en su caso, los estímulos correspondientes;
+
+XII. Regular y en su caso, expedir normas oficiales mexicanas sobre producción, comercialización, compraventa, condiciones de calidad, suministro de energía y demás aspectos que promuevan la modernización, eficiencia y desarrollo del sector, así como controlar y vigilar su debido cumplimiento;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XIII. Regular y, en su caso, expedir normas oficiales mexicanas en materia de seguridad nuclear y salvaguardias, incluyendo lo relativo al uso, producción, explotación, aprovechamiento, transportación, enajenación, importación y exportación de materiales radioactivos, así como controlar y vigilar su debido cumplimiento;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XIV. Llevar el registro geotérmico;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XV. Establecer la regulación en materia de registros de reconocimiento, permisos de exploración, o concesiones, según sea el caso para la explotación de áreas con potencial geotérmico, y supervisar su debido cumplimiento;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XVI. Proponer al Titular del Ejecutivo Federal el establecimiento de zonas de salvaguarda de hidrocarburos;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XVII. Proponer al titular del Ejecutivo Federal la plataforma anual de producción de petróleo y de gas, con base en las reservas probadas y los recursos disponibles, que garantice el abasto y la seguridad energética del país;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XVIII. Establecer la política de restitución de reservas de hidrocarburos y geotermia, así como para el estímulo y promoción al uso de energías renovables;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XIX. Regular y, en su caso, expedir normas oficiales mexicanas a través de la Comisión Nacional de Seguridad Nuclear y Salvaguardias, en lo correspondiente a sus facultades, así como supervisar su debido cumplimiento;
+
+XX. Registrar y dar a conocer, con base en la información proporcionada por la Comisión Nacional de Hidrocarburos, las reservas de hidrocarburos, conforme a los estudios de evaluación y de cuantificación, así como a las certificaciones correspondientes;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXI. Requerir la información necesaria para el desarrollo de sus funciones a órganos desconcentrados, órganos reguladores coordinados, entidades paraestatales y empresas productivas del Estado y en general, a toda persona física o moral que realice cualquiera de las actividades a que se refieren la Ley de Hidrocarburos, la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear y la Ley de la Industria Eléctrica.
+
+La Secretaría de Energía coordinará con la Comisión Reguladora de Energía, la determinación de las tarifas reguladas de los servicios establecidos en la Ley de la Industria Eléctrica;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXII. Realizar visitas de inspección y verificación a las instalaciones de las entidades paraestatales con actividades en el sector y, en general, a toda persona física o moral que realice cualquiera de las actividades principales, auxiliares o conexas, a que se refieren las leyes señaladas en la fracción anterior;
+
+XXIII. Participar en foros internacionales respecto de las materias competencia de la Secretaría, con la intervención que corresponda a la Secretaría de Relaciones Exteriores y proponer a ésta la celebración de convenios y tratados internacionales en tales materias; y, asimismo, participar en la concertación y el seguimiento de la ejecución de los acuerdos internacionales en materia de explotación de yacimientos transfronterizos de hidrocarburos de los que el Estado mexicano sea parte;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXIV. Iniciar, tramitar y resolver procedimientos administrativos e imponer las sanciones que correspondan, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXV. Asegurar, fomentar y vigilar el adecuado suministro de los combustibles en el territorio nacional;
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXVI. Revisar y, en su caso, autorizar las reglas de operación del Mercado Eléctrico Mayorista y emitir disposiciones administrativas de carácter general que permitan su vigilancia;
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXVII. Establecer los términos de estricta separación legal que se requieren para fomentar el acceso abierto y la operación eficiente del sector eléctrico y vigilar su cumplimiento;
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXVIII. Verificar el cumplimiento de la regulación que emita para la industria eléctrica y demás disposiciones administrativas aplicables, realizar visitas de verificación y requerir a las personas físicas y morales con actividades en el sector, la información que permita conocer el desempeño de la industria eléctrica y dictar las medidas que resulten aplicables, conforme a la Ley de la Industria Eléctrica;
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXIX. Fijar la política de eficiencia energética de la industria eléctrica y la política para establecer nuevas centrales eléctricas tendientes a satisfacer las necesidades del país y a dicha política de eficiencia energética de la industria eléctrica, así como establecer los requerimientos obligatorios en materia de energías limpias para la generación eléctrica;
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXX. Establecer los términos y condiciones obligatorios de cobertura para el suministro eléctrico en las comunidades rurales y zonas urbanas marginadas, y proponer los mecanismos para dirigir recursos económicos a este fin, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXXI. Los demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 34.
 
-Carga especializada de materiales y desechos peligrosos, es aquel servicio que se presta en vehículos que requieren tener condiciones y equipos adecuados para aislar, conservar y proteger los bienes objeto del traslado, así como para evitar cualquier riesgo a terceros.
+A la Secretaría de Economía corresponde el despacho de los siguientes asuntos:
 
-Los bienes objeto del traslado a que se refiere esta clase de servicio, por su propia naturaleza no podrán llevarse en vehículos convencionales, motivo por el que este servicio deberá prestarse en unidades dotadas de equipo de refrigeración, calderas, dispositivos herméticos y otros similares, para el traslado de animales en canal, vísceras, de sustancias químicas, corrosivas, gaseosas, radioactivas, líquidos flamables e inflamables, sustancias o desechos peligrosos o infectocontagiosos y en general de aquellas que necesitan condiciones especiales por ser potencialmente peligrosas.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
-Dependiendo de las clases de bienes que deban transportarse, pueden requerirse adicionalmente las autorizaciones o requisitos que expidan o requieran en la materia, cualquier autoridad federal, estatal o municipal.
+I.- Formular y conducir las políticas generales de industria, comercio exterior, interior, abasto y precios del país; con excepción de los precios de bienes y servicios de la Administración Pública Federal;
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
-ARTICULO 34 BIS.- El servicio de transporte mercantil de arrastre y salvamento tipo grúa, es aquel que requiere de características o adecuaciones especiales como plataformas o grúas de arrastre destinados a realizar maniobras para trasladar vehículos accidentados o detenidos por la autoridad correspondiente, los cuales deberán contar con el número de autorización correspondiente, placas y colores autorizados por la Secretaría.
+II.- Regular, promover y vigilar la comercialización, distribución y consumo de los bienes y servicios;
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1991)</small>
 
-ARTICULO 34 TER.- La Secretaría a través de la autoridad competente, determinará las características, colores y especificaciones que deberán portar los vehículos que prestan el Servicio Público de Transporte y el Servicio de Transporte Mercantil de Personas.
+III.- Establecer la Política de industrialización, distribución y consumo de los productos agrícolas, ganaderos, forestales, minerales y pesqueros, en coordinación con las dependencias competentes;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-ARTICULO 34 QUATER.- La Secretaría determinará, mediante acuerdo que para tal efecto se publique en el Periódico Oficial del Estado, las características, condiciones, especificaciones, obligaciones y demás que considere pertinentes, que deberán cumplir los sujetos que pretendan prestar este Servicio de Transporte Complementario.
+IV.- Fomentar, en coordinación con la Secretaría de Relaciones Exteriores en el ámbito de su competencia, la política de comercio exterior y atracción de inversión extranjera;
 
-> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE ES IDÉNTICO AL TERCER PÁRRAFO.]</small>
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+V.- Estudiar, proyectar y determinar los aranceles escuchando la opinión de la Secretaría de Hacienda y Crédito Público; estudiar y determinar las restricciones para los artículos de importación y exportación, y participar con la mencionada Secretaría en la fijación de los criterios generales para el establecimiento de los estímulos al comercio exterior;
 
-La prestación de este servicio estará sujeta a la autorización que para tal efecto emita la Secretaría, de conformidad con la normatividad aplicable.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE ES IDÉNTICO AL SEGUNDO PÁRRAFO.]</small>
+VI.- Estudiar y determinar mediante reglas generales, conforme a los montos globales establecidos por la Secretaría de Hacienda y Crédito Público, los estímulos fiscales necesarios para el fomento industrial, el comercio interior y exterior y el abasto, incluyendo los subsidios sobre impuestos de importación, y administrar su aplicación, así como vigilar y evaluar sus resultados;
 
-La prestación de este servicio estará sujeta a la autorización que para tal efecto emita la Secretaría, de conformidad con la normatividad aplicable.
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+VII.- Establecer las tarifas para la prestación de aquellos servicios de interés público que considere necesarios, con la exclusión de los precios y tarifas de los bienes y servicios de la Administración Pública Federal; y definir el uso preferente que deba darse a determinadas mercancías;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+VIII.- Regular, orientar y estimular las medidas de protección al consumidor;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+IX.- Participar con las Secretarías de Bienestar, de Agricultura y Desarrollo Rural y de Medio Ambiente y Recursos Naturales, en la distribución y comercialización de productos y el abastecimiento de los consumos básicos de la población; así como el fomento a la cadena de valor productiva agroalimentaria;
+
+X.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2015)
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
+X bis.- Coordinar y ejecutar la política nacional para crear y apoyar empresas que asocien a grupos de escasos recursos en áreas urbanas a través de las acciones de planeación, programación, concertación, coordinación, evaluación; de aplicación, recuperación y revolvencia de recursos para ser destinados a los mismos fines; así como de asistencia técnica y de otros medios que se requieran para ese propósito, previa calificación, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de los gobiernos estatales y municipales, y con la participación de los sectores social y privado;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XI.- Coordinar y dirigir con la colaboración de la Secretaría de Agricultura y Desarrollo Rural, el Sistema Nacional para el Abasto, con el fin de asegurar la adecuada distribución y comercialización de productos y el abastecimiento de los consumos básicos de la población;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+XII.- Normar y registrar la propiedad industrial y mercantil; así como regular y orientar la inversión extranjera y la transferencia de tecnología;
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+XII bis.- Autorizar el uso o modificación de denominación o razón social de sociedades mercantiles o civiles;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+XIII.- Establecer y vigilar las normas de calidad, pesas y medidas necesarias para la actividad comercial; así como las normas y especificaciones industriales;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XIV.- Regular y vigilar, de conformidad con las disposiciones aplicables, la prestación del servicio registral mercantil a nivel federal, así como promover y apoyar el adecuado funcionamiento de los registros públicos locales;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XV.- Fomentar el desarrollo del pequeño comercio rural y urbano, así como promover el desarrollo de lonjas, centros y sistemas comerciales de carácter regional o nacional en coordinación con la Secretaría de Agricultura y Desarrollo Rural;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XVI.- Impulsar, en coordinación con las dependencias o entidades de la Administración Pública Federal que tengan relación con las actividades específicas de que se trate, la producción de aquellos bienes y servicios que se consideren necesarios para garantizar el abasto y el funcionamiento eficiente de los mercados;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+XVII.- Organizar y patrocinar exposiciones, ferias y congresos de carácter industrial y comercial;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+XVIII.- Organizar la distribución y consumo a fin de evitar el acaparamiento y que las intermediaciones innecesarias o excesivas provoquen el encarecimiento de los productos y servicios;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+XIX.- Regular la producción industrial con exclusión de la que esté asignada a otras dependencias;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+XX.- Asesorar a la iniciativa privada en el establecimiento de nuevas industrias en el de (sic) las empresas que se dediquen a la exportación de manufacturas nacionales;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXI.- Fomentar, regular y promover el desarrollo de la industria de transformación y definir las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en la industria eléctrica;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+XXII.- Fomentar, estimular y organizar la producción económica del artesanado, de las artes populares y de las industrias familiares;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+XXIII.- Promover, orientar, fomentar y estimular la industria nacional;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXIV.- Promover, orientar, fomentar y estimular el desarrollo de la micro, pequeña y mediana empresa y la microindustria y actividad artesanal, así como regular la organización de productores industriales;
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+XXIV bis.- Organizar, unificar e implementar el sistema informático que establecerá expedientes electrónicos empresariales con la finalidad de simplificar los trámites que los interesados realizan ante la administración pública federal centralizada y paraestatal;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+XXV.- Promover y, en su caso, organizar la investigación técnico-industrial, y
+
+XXVI.- (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2018)
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXVII.- Formular y conducir la política nacional en materia minera, así como promover en zonas de producción minera la construcción de obras de infraestructura social, en coordinación con los gobiernos estatales, municipales y con la participación de los pueblos y comunidades indígenas, así como de los sectores social y privado, de acuerdo con el artículo 32, fracción XIII de esta ley;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XXVIII.- Fomentar el aprovechamiento de los recursos minerales y llevar el catastro minero, y regular la explotación de salinas ubicadas en terrenos de propiedad nacional y en las formadas directamente por las aguas del mar;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XXIX.- Otorgar contratos, concesiones, asignaciones, permisos, autorizaciones y asignaciones en materia minera, en los términos de la legislación correspondiente, y
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXX.- Impulsar la reubicación de la industria de zonas urbanas con graves problemas demográficos y ambientales en coordinación con las autoridades competentes, así como con las entidades federativas, para que se facilite su traslado con infraestructura industrial;
+
+> <small>(ADICIONADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+
+XXXI.- Determinar y operar el sistema electrónico en el que deberán realizarse las publicaciones que establezcan las leyes mercantiles;
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXXII.- Establecer, junto con la Secretaría de Energía, la política nacional de fomento a las compras de proveedores nacionales en los sectores de hidrocarburos y electricidad,
+
+XXXIII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 35.
 
-Los propietarios de los vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio Mercantil, además de cumplir con lo establecido en la presente Ley, cuando así lo requiera la autoridad competente, deberán demostrar la vigencia de la concesión o del permiso con la presentación de los documentos relativos a la propia concesión o permiso.
+A la Secretaría de Agricultura y Desarrollo Rural corresponde el despacho de los siguientes asuntos:
 
-Asimismo, deberán acreditar haber cumplido con los programas de actualización de documentos del servicio de transporte público o mercantil, implementados por la Secretaría.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+I.- Formular, conducir y evaluar la política general de desarrollo rural, a fin de elevar el nivel de vida de las familias que habitan en el campo, en coordinación con las dependencias competentes;
 
-ARTICULO 35 BIS.- Los vehículos del servicio público de transporte que cuenten con un permiso o concesión otorgados por la autoridad federal competente, deberán solicitar a la Secretaría, la autorización para transitar en la infraestructura vial de caminos de jurisdicción estatal, misma que limitará y regulará los ascensos y descensos de pasajeros. Para el caso del establecimiento de las bases y terminales, éstas deberán ser autorizadas por la citada autoridad, previo estudio técnico correspondiente.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+II.- Promover el empleo en el medio rural, así como establecer programas y acciones que tiendan a fomentar la productividad y la rentabilidad de las actividades económicas rurales;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+III.- Integrar e impulsar proyectos de inversión que permitan canalizar, productivamente, recursos públicos y privados al gasto social en el sector rural; coordinar y ejecutar la política nacional para crear y apoyar empresas que asocien a grupos de productores rurales a través de las acciones de planeación, programación, concertación, coordinación; de aplicación, recuperación y revolvencia de recursos, para ser destinados a los mismos fines; así como de asistencia técnica y de otros medios que se requieran para ese propósito, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de los gobiernos estatales y municipales, y con la participación de los sectores social y privado;
+
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
+
+IV.- Vigilar el cumplimiento y aplicar la normatividad en materia de sanidad animal y vegetal; fomentar los programas y elaborar normas oficiales de sanidad animal y vegetal; atender, coordinar, supervisar y evaluar las campañas de sanidad, así como otorgar las certificaciones relativas al ámbito de su competencia;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+V.- Procesar y difundir la información estadística y geográfica referente a la oferta y la demanda de productos relacionados con actividades del sector rural;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+VI.- Apoyar, en coordinación con la Secretaría de Educación Pública, las actividades de los centros de educación agrícola media superior y superior; y establecer y dirigir escuelas técnicas de agricultura, ganadería, apicultura, avicultura y silvicultura, en los lugares que proceda;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+VII.- Organizar y fomentar las investigaciones agrícolas, ganaderas, avícolas, apícolas y silvícolas, estableciendo institutos experimentales, laboratorios, estaciones de cría, semilleros y viveros, vinculándose a las instituciones de educación superior de las localidades que correspondan, en coordinación, en su caso, con la Secretaría de Medio Ambiente, Recursos Naturales y Pesca;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+VIII.- Formular, dirigir y supervisar los programas y actividades relacionados con la asistencia técnica y la capacitación de los productores rurales;
+
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
+
+IX.- Promover el desarrollo de la infraestructura industrial y comercial de la producción agropecuaria, en coordinación con la Secretaría de Economía;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+X.- Promover la integración de asociaciones rurales;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XI.- Elaborar, actualizar y difundir un banco de proyectos y oportunidades de inversión en el sector rural;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
+XII.- Participar junto con la Secretaría de Medio Ambiente y Recursos Naturales en la conservación de los suelos agrícolas, pastizales y bosques, y aplicar las técnicas y procedimientos conducentes;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XIII.- Fomentar y organizar la producción económica del artesanado, de las artes populares y de las industrias familiares del sector rural, con la participación que corresponda a otras dependencias o entidades;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XIV.- Coordinar las acciones que el Ejecutivo Federal convenga con los gobiernos locales para el desarrollo rural de las diversas regiones del país;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XV.- Proponer el establecimiento de políticas en materia de asuntos internacionales y comercio exterior agropecuarios;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XVI.- Organizar y mantener al corriente los estudios económicos sobre la vida rural, con objeto de establecer los medios y procedimientos para mejorarla;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XVII.- Organizar y patrocinar congresos, ferias, exposiciones y concursos agrícolas y pecuarios, así como de otras actividades que se desarrollen principalmente en el medio rural;
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XVIII.- Participar con la Secretaría de Hacienda y Crédito Público en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el fomento de la producción rural, así como evaluar sus resultados;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
+XIX.- Programar y proponer, con la participación que corresponde a la Secretaría de Medio Ambiente y Recursos Naturales, la construcción de pequeñas obras de irrigación; y proyectar, ejecutar y conservar bordos, canales, tajos, abrevaderos y jagüeyes que competa realizar al Gobierno Federal por sí o en cooperación con los gobiernos de los estados, los municipios o los particulares;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
+XX.- Participar, junto con la Secretaría de Medio Ambiente y Recursos Naturales, en la promoción de plantaciones forestales, de acuerdo con los programas formulados y que competa realizar al Gobierno Federal, por sí o en cooperación con los gobiernos de los estados, municipios o de particulares;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
+XXI.- Fomentar la actividad pesquera a través de una entidad pública que tendrá a su cargo las siguientes atribuciones:
+
+a) Realizar directamente y autorizar conforme a la ley, lo referente a acuacultura; así como establecer viveros, criaderos y reservas de especies acuáticas;
+
+b) Promover, fomentar y asesorar técnicamente la producción, industrialización y comercialización de los productos pesqueros en todos sus aspectos, en coordinación con las dependencias competentes;
+
+c) Estudiar, proyectar, construir y conservar las obras de infraestructura pesquera y de acuacultura que requiere el desarrollo del sector pesquero, con la participación de las autoridades estatales, municipales o de particulares;
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+d) Proponer a la Secretaría de Agricultura y Desarrollo Rural la expedición de las normas oficiales mexicanas que correspondan al sector pesquero;
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+e) Regular la formación y organización de la flota pesquera, así como las artes de pesca, proponiendo al efecto, a la Secretaría de Agricultura y Desarrollo Rural, las normas oficiales mexicanas que correspondan;
+
+f) Promover la creación de las zonas portuarias, así como su conservación y mantenimiento;
+
+g) Promover, en coordinación con la Secretaría de Economía, el consumo humano de productos pesqueros, asegurar el abasto y la distribución de dichos productos y de materia prima a la industria nacional; y
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXII.- Asegurar la adecuada distribución, comercialización y abastecimiento de los productos de consumo básico de la población de escasos recursos, con la intervención que corresponda a las Secretarías de Economía y de Bienestar bajo principios que eviten su uso o aprovechamiento indebido o ajeno a los objetivos institucionales;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXIII.- Contribuir a la seguridad alimentaria, garantizando el abasto de productos básicos, y
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXIV.- Los demás que expresamente le atribuyan las leyes y reglamentos.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 36.
 
-Para que un vehículo del Servicio Público del Transporte y del Servicio de Transporte Mercantil, pueda circular por la infraestructura vial del Estado, deben llevar en todo momento durante la prestación del servicio los documentos vigentes siguientes:
+A la Secretaría de Comunicaciones y Transportes corresponde el despacho de los siguientes asuntos:
 
-I.- Placas de circulación;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-II.- Tarjetón de concesión o permiso;
+I.- Formular y conducir las políticas y programas para el desarrollo de las comunicaciones y transporte terrestre y aéreo, de acuerdo a las necesidades del país;
 
-III.- Tarjeta de circulación y calcomanías; y
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2014)</small>
 
-IV.- Póliza del seguro.
+I Bis.- Elaborar y conducir las políticas de telecomunicaciones y radiodifusión del Gobierno Federal;
 
-Por su parte, el conductor de un vehículo del Servicio Público del Transporte y del Servicio de Transporte Mercantil, además deberá portar:
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+II.- Regular, inspeccionar y vigilar los servicios públicos de correos y telégrafos y sus servicios diversos;
 
-a) Licencia de conducir acorde al tipo de servicio de transporte; y
+III.- (DEROGADA, D.O.F. 14 DE JULIO DE 2014)
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+IV.- Otorgar concesiones y permisos para establecer y operar servicios aéreos en el territorio nacional, fomentar, regular y vigilar su funcionamiento y operación, así como negociar convenios para la prestación de servicios aéreos internacionales;
 
-b) En su caso, el gafete de identificación, el cual debe ser colocado en el interior de la unidad en un lugar visible para el usuario.
+V.- Regular y vigilar la administración de los aeropuertos nacionales, conceder permisos para la construcción de aeropuertos particulares y vigilar su operación;
 
-Los documentos a que se refiere este artículo, podrán ser en original y/o copia certificada a excepción de la Licencia de Conducir, el Gafete de Identificación, calcomanías respectivas, tarjeta de circulación y las placas de circulación que deberán ser las originales.
+VI.- Administrar la operación de los servicios de control de tránsito, así como de información y seguridad de la navegación aérea;
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
+VII.- Construir las vías férreas, patios y terminales de carácter federal para el establecimiento y explotación de ferrocarriles, y la vigilancia técnica de su funcionamiento y operación;
 
-En caso de pérdida o robo de los documentos mencionados, el titular de la concesión o permiso o el conductor, para su reposición, deberán suscribir ante la autoridad competente, el formato de responsiva por extravío o sustracción de documento, conforme a los lineamientos que para tal efecto determine la misma.
+VIII.- Regular y vigilar la administración del sistema ferroviario;
 
-Además, estará obligado a reunir los requisitos de funcionalidad, seguridad y comodidad que señala esta Ley y su Reglamento. Tratándose de las unidades del Servicio Público del Transporte y del Servicio de Transporte Mercantil, portarán los colores reglamentarios además de cumplir con las especificaciones relativas a su identificación.
+IX.- Otorgar concesiones y permisos para la explotación de servicios de autotransportes en las carreteras federales y vigilar técnicamente su funcionamiento y operación, así como el cumplimiento de las disposiciones legales respectivas;
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
+X.- (DEROGADA, D.O.F. 4 DE ENERO DE 1999)
 
-ARTICULO 36 BIS.- Los vehículos del Servicio Ejecutivo, que se registren ante las Empresas de Redes de Transporte, deberán portar en todo momento los documentos siguientes:
+XI.- Participar en los convenios para la construcción y explotación de los puentes internacionales;
 
-I. Placas de circulación del Estado de Puebla y calcomanías Alfanuméricas;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+XII.- Fijar las normas técnicas del funcionamiento y operación de los servicios públicos de comunicaciones y transportes aéreos y terrestres, y las tarifas para el cobro de los mismos, así como participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de las tarifas de los servicios que presta la Administración Pública Federal de comunicaciones y transportes aéreos y terrestres;
 
-II.- Tarjeta de circulación;
+XIII.- Fomentar la organización de sociedades cooperativas cuyo objeto sea la prestación de servicios de comunicaciones y transportes;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+XIV.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2020)
 
-III.- Copia de la Póliza de Seguro con cobertura amplia, y
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+XV.- Establecer los requisitos que deban satisfacer el personal técnico de la aviación civil, servicios públicos de transporte terrestre, así como conceder las licencias y autorizaciones respectivas;
 
-IV.- Cédula de identificación del Servicio Ejecutivo.
+XVI.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2020)
 
-Los vehículos a que se refiere este artículo, deberán tener una antigüedad máxima de cinco años para su registro. Asimismo, estar al corriente en el pago de sus obligaciones fiscales y cumplir con las demás disposiciones de carácter legal y administrativo a que estén obligados sus propietarios.
+XVII.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2020)
+
+XVIII.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2020)
+
+XIX.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2020)
+
+XX.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2020)
+
+XXI.- Construir y conservar los caminos y puentes federales, incluso los internacionales; así como las estaciones y centrales de autotransporte federal;
+
+XXII.- Construir y conservar caminos y puentes, en cooperación con los gobiernos de las entidades federativas, con los municipios y los particulares;
+
+XXIII.- Construir aeropuertos federales y cooperar con los gobiernos de los Estados y las autoridades municipales, en la construcción y conservación de obras de ese género;
+
+XXIV.- Otorgar concesiones o permisos para construir las obras que le corresponda ejecutar;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
+
+XXV.- Cuidar de los aspectos ecológicos y los relativos a la planeación del desarrollo urbano, en los derechos de vía de las vías federales de comunicación;
+
+XXVI.- Promover y, en su caso, organizar la capacitación, investigación y el desarrollo tecnológico en materia de comunicaciones y transportes, y
+
+XXVII.- Los demás que expresamente le fijen las leyes y reglamentos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 37.
 
-Todo vehículo que circule en la infraestructura vial del Estado, deberá contar con los equipos, sistemas, dispositivos y accesorios de seguridad que, con base en la Legislación Federal de la materia, esta Ley y sus Reglamentos, se requieran al efecto.
+A la Secretaría de la Función Pública corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-Tratándose de los vehículos de servicio público de transporte urbano, sub urbano y masivo deberán estar provistos además con un sistema de posicionamiento global GPS, cámara de video vigilancia, botón de pánico que estarán vinculados a los sistemas de seguridad pública, un contador de pasajeros y un regulador de velocidad cuyas características y funcionamiento será conforme lo establezcan las autoridades competentes.
+I. Organizar y coordinar el sistema de control interno y la evaluación de la gestión gubernamental y de sus resultados; inspeccionar el ejercicio del gasto público federal y su congruencia con los Presupuestos de Egresos, así como concertar con las dependencias y entidades de la Administración Pública Federal para validar los indicadores para la evaluación de la gestión gubernamental, en los términos de las disposiciones aplicables;
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+II. Expedir las normas que regulen los instrumentos y procedimientos de control interno de la Administración Pública Federal, conforme a las bases y principios que al respecto emita el Comité Coordinador del Sistema Nacional Anticorrupción, para lo cual podrá requerir de las dependencias competentes la expedición de normas complementarias para el ejercicio del control administrativo;
+
+III. Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Nacional Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+IV. Coordinar y supervisar el sistema de control interno; establecer las bases generales para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Federal, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+V. Vigilar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Federal, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda y patrimonio;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+V Bis.- Coadyuvar en la revisión del cumplimiento de las disposiciones en materia de archivos que emitan las instancias correspondientes;
+
+VI. Organizar y coordinar el desarrollo administrativo integral en las dependencias y entidades de la Administración Pública Federal y emitir las normas para que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados, respectivamente, con criterios de eficacia, legalidad, eficiencia y simplificación administrativa; así como, realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias;
+
+VII. Conducir las políticas, establecer las normas y emitir las autorizaciones y criterios correspondientes en materia de planeación y administración de recursos humanos, contratación del personal, Servicio Profesional de Carrera en la Administración Pública Federal, estructuras orgánicas y ocupacionales, de conformidad con las respectivas normas de control de gasto en materia de servicios personales;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+VIII.- Realizar, por sí o a solicitud de la Secretaría de Hacienda y Crédito Público o la coordinadora de sector correspondiente, auditorías y revisiones a las dependencias y entidades de la Administración Pública Federal, con el objeto de examinar, fiscalizar y promover la eficacia, eficiencia, economía y legalidad en su gestión y encargo;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+IX.- Fiscalizar directamente o a través de los órganos internos de control, que las dependencias y entidades de la Administración Pública Federal cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Federal;
+
+X. Designar y remover a los auditores externos de las entidades, así como normar y controlar su desempeño;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XI. Designar y remover, para el mejor desarrollo del sistema de control y evaluación de la gestión gubernamentales, delegados de la propia Secretaría ante las dependencias y órganos desconcentrados de la Administración Pública Federal centralizada, y comisarios públicos de los órganos de vigilancia de las entidades de la Administración Pública Paraestatal, así como normar y controlar su desempeño;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XII. Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Federal, así como de las unidades administrativas equivalentes en las empresas productivas del Estado, quienes dependerán jerárquica, funcional y presupuestalmente de la Secretaría de la Función Pública, asimismo, designar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control, quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales, representando al titular de dicha Secretaría;
+
+XIII. Colaborar en el marco del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+XIV. Implementar las acciones que acuerde el Sistema Nacional Anticorrupción, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XV. Informar periódicamente al Comité Coordinador del Sistema Nacional Anticorrupción, así como al Ejecutivo Federal, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública Federal, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos federales, y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
+
+XVI. Llevar y normar el registro de servidores públicos de la Administración Pública Federal, recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XVII. Atender las quejas que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Federal, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+
+XVIII. Conocer e investigar las conductas de los servidores públicos de la Administración Pública Federal que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas, por sí, o por conducto de los órganos internos de control que correspondan a cada área de la Administración Pública Federal; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal Federal de Justicia Administrativa y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+XIX. Establecer mecanismos internos para la Administración Pública Federal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XX. Aprobar y registrar las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Federal y sus modificaciones; previo dictamen presupuestal favorable de la Secretaría de Hacienda y Crédito Público;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXI. Conducir y aplicar la política de control interno, prevención, vigilancia, inspección y revisión de contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas; emitir e interpretar las normas, lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de control interno, prevención, vigilancia, inspección y revisión de dichas contrataciones; proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes, con excepción de las empresas productivas del Estado;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXII. Vigilar la aplicación de las políticas de gobierno digital, y definir las de gobierno abierto y datos abiertos de la Administración Pública Federal, en términos de las disposiciones aplicables;
+
+XXIII. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Nacional Anticorrupción, la política general de la Administración Pública Federal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXIV. Ejercer las facultades que la Constitución le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos federales;
+
+XXV. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Nacional Anticorrupción, en materia de combate a la corrupción en la Administración Pública Federal;
+
+XXVI. Emitir normas, lineamientos específicos y manuales que, dentro del ámbito de su competencia, integren disposiciones y criterios que impulsen la simplificación administrativa, para lo cual deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Nacional Anticorrupción;
+
+XXVII. Seleccionar a los integrantes de los órganos internos de control, garantizando la igualdad de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
+
+XXVIII. Emitir el Código de Ética de los servidores públicos del gobierno federal y las Reglas de Integridad para el ejercicio de la función pública, y
+
+XXIX. Las demás que le encomienden expresamente las leyes y reglamentos.
+
+El nombramiento del Secretario de la Función Pública que somete el Presidente de la República a ratificación del Senado de la República, deberá estar acompañado de la declaración de interés de la persona propuesta, en los términos previstos en la Ley General de Responsabilidades Administrativas.
 
 ###### ARTICULO 38.
 
-Los vehículos del Servicio Público de Transporte y del Servicio Mercantil emplacados en el Estado, deberán de estar protegidos por un seguro con vigencia anual que cubra daños a terceros y responsabilidad civil del pasajero. Los importes de las coberturas que cubran los citados seguros, serán los que señale el Reglamento de esta Ley.
+A la Secretaría de Educación Pública corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+I.- Organizar, vigilar y desarrollar en las escuelas oficiales, incorporadas o reconocidas;
+
+a) La enseñanza preescolar, primaria, secundaria y normal, urbana, semiurbana y rural.
+
+b) La enseñanza que se imparta en las escuelas, a que se refiere la fracción XII del Artículo 123 Constitucional.
+
+c) La enseñanza técnica, industrial, comercial y de artes y oficios, incluida la educación que se imparta a los adultos.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
+d) La enseñanza agrícola, con la cooperación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+
+e) La enseñanza superior y profesional.
+
+f) La enseñanza deportiva y militar, y la cultura física en general;
+
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+II.- Organizar y desarrollar la educación artística, en coordinación con la Secretaría de Cultura, que se imparta en las escuelas e institutos oficiales, incorporados o reconocidos para la enseñanza y difusión de las bellas artes y de las artes populares;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+III.- Establecer, en colaboración con el Instituto Nacional para la Evaluación de la Educación, un sistema destinado a obtener, sistematizar, procesar, automatizar, analizar, estudiar, difundir y poner al alcance de la sociedad, información sobre la operación, cobertura, equidad, calidad y demás atributos y condiciones estructurales del sistema educativo nacional;
+
+IV.- Crear y mantener, en su caso, escuelas de todas clases que funcionen en la República, dependientes de la Federación, exceptuadas las que por la Ley estén adscritas a otras dependencias del Gobierno Federal;
+
+V.- Vigilar que se observen y cumplan las disposiciones relacionadas con la educación preescolar, primaria, secundaria, técnica y normal, establecidas en la Constitución y prescribir las normas a que debe ajustarse la incorporación de las escuelas particulares al sistema educativo nacional;
+
+VI.- Ejercer la supervisión y vigilancia que proceda en los planteles que impartan educación en la República, conforme a lo prescrito por el Artículo 3o. Constitucional;
+
+VII.- Organizar, administrar y enriquecer sistemáticamente las bibliotecas generales o especializadas que sostenga la propia Secretaría o que formen parte de sus dependencias;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+VIII.- Con la participación del organismo descentralizado en materia de ciencia y tecnología, promover la creación de institutos de investigación científica y técnica y el establecimiento de laboratorios, observatorios, planetarios y demás centros tecnológicos que requiera el desarrollo de la educación primaria, secundaria, normal, técnica y superior; así como apoyar la investigación científica y tecnológica;
+
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+IX.- Patrocinar la realización de congresos, asambleas y reuniones, eventos, competencias y concursos de carácter científico, técnico y educativo;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+X.- Fomentar la lectura en todo el país, especialmente entre la niñez y la juventud, así como crear repositorios en bibliotecas, tanto físicas como digitales, dirigidos a fortalecer la identidad colectiva y acrecentar la memoria histórica y cultural nacional, regional, local y comunitaria;
+
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 1992)</small>
+
+XI.- Mantener al corriente el escalafón del magisterio y el seguro del maestro, y crear un sistema de compensaciones y estímulos para el profesorado; atendiendo a las directrices que emita la Secretaría de Hacienda y Crédito Público sobre el sistema general de administración y desarrollo de personal;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XII.- Garantizar la capacitación y formación continuas del magisterio del país, así como del personal directivo y de supervisión escolar, con el fin de contribuir a su profesionalización y al desarrollo de competencias docentes, incluidas las referidas al aprovechamiento de tecnologías de la información y comunicación;
+
+XIII.- Otorgar becas para que los estudiantes de nacionalidad mexicana puedan realizar investigaciones o completar ciclos de estudios en el extranjero;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XIV.- Regir el sistema educativo nacional; formular, regular, coordinar y conducir la política educativa que competa al Ejecutivo y contribuir al fortalecimiento de las instituciones educativas públicas;
+
+XV.- Revalidar estudios y títulos, y conceder autorización para el ejercicio de las capacidades que acrediten;
+
+XVI.- Vigilar, con auxilio de las asociaciones de profesionistas, el correcto ejercicio de las profesiones;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XVII.- Participar en la coordinación de los programas en que la educación sea uno de sus componentes, particularmente los de desarrollo en la primera infancia;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XVIII.- Intervenir, en los términos que defina la ley, en programas institucionales, regionales y sectoriales de inclusión social que tengan un componente educativo, dirigidos a la población que vive en situación de pobreza extrema;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XIX.- Coordinar con los organismos sectorizados la elaboración de los programas nacionales de educación, deporte y juventud;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XX.- En coordinación con las autoridades educativas de las entidades federativas, diseñar y aplicar las políticas y programas tendientes a hacer efectivo el derecho a la educación;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXI.- Establecer los acuerdos para cumplir lo dispuesto por el artículo 3o. constitucional y promover la participación social en la materia;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXII.- Ejercer las facultades conferidas a la Federación en el artículo 3o. constitucional, salvo las que se atribuyan expresamente a otro organismo, con la participación de las autoridades de las entidades federativas, municipios y otros actores educativos;
+
+XXIII.- Determinar y organizar la participación oficial del país en competencias deportivas internacionales, organizar desfiles atléticos y todo género de eventos deportivos, cuando no corresponda hacerlo expresamente a otra dependencia del Gobierno Federal;
+
+XXIV.- Cooperar en las tareas que desempeñe la Confederación Deportiva y mantener la Escuela de Educación Física;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XXV.- Formular normas y programas, y ejecutar acciones para promover la educación física, el deporte para todos, el deporte estudiantil y el deporte selectivo; promover y en su caso, organizar la formación y capacitación de instructores, entrenadores, profesores y licenciados en especialidades de cultura física y deporte; fomentar los estudios de posgrado y la investigación de las ciencias del deporte; así como la creación de esquemas de financiamiento al deporte con la participación que corresponda a otras dependencias y entidades de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXVI.- Impulsar la formación permanente del magisterio;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2015)</small>
+
+XXVII.- Organizar, promover y supervisar programas de capacitación y adiestramiento en coordinación con las dependencias del Gobierno Federal, los Gobiernos de los Estados, del Distrito Federal y de los Municipios, las entidades públicas y privadas, así como los fideicomisos creados con tal propósito. A este fin organizará, igualmente, servicios de educación básica para adultos y sistemas de orientación vocacional de enseñanza abierta y de acreditación de estudios;
+
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+XXVIII.- Orientar las actividades recreativas y deportivas que realice el sector público federal;
+
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+XXIX.- Establecer los criterios educativos en la producción cinematográfica, de radio y televisión y en la industria editorial;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXX.- Organizar y promover acciones tendientes al pleno desarrollo de la juventud y a su incorporación a las tareas nacionales, estableciendo para ello sistemas de servicio social, centros de estudio, programas de recreación y de atención a los problemas de los jóvenes, así como crear y organizar a este fin sistemas de enseñanza especial para niños, adolescentes y jóvenes que lo requieran;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXX Bis.- Promover la producción cinematográfica, de radio y televisión y de la industria editorial, con apego a lo dispuesto por el artículo 3o. constitucional, cuando se trate de cuestiones educativas, y dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras públicas que tengan preponderantemente fines educativos, con exclusión de las que dependan de otras Secretarías de Estado. Aquellas estaciones de radio que incorporen en su programación contenido cultural deberán tomar en consideración las directrices que en esta materia proponga la Secretaría de Cultura;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXXI.-Conducir, en el ámbito de su competencia, las relaciones del Poder Ejecutivo con las autoridades educativas de las entidades federativas y de los municipios, con el magisterio nacional, con instituciones especializadas en educación, con agrupaciones ciudadanas, organizaciones sociales y demás actores sociales en la materia;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXXII.- Establecer mecanismos para conocer las mejores prácticas educativas a nivel internacional;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXXIII.- Fortalecer, con el apoyo de la Secretaría de Comunicaciones y Transportes, el acceso a la información digital en los espacios escolares, así como la conectividad en éstos a redes de telecomunicaciones, y
+
+XXXIV.- Los demás que le fijen expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 39.
 
-La emisión de las formas oficiales valoradas y los formatos relacionados con el Servicio Público del Transporte, el Servicio Mercantil y demás servicios regulados en esta Ley, corresponderá a la autoridad competente, en coordinación con la Secretaría de Finanzas y Administración.
+A la Secretaría de Salud, corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+I.- Elaborar y conducir la política nacional en materia de asistencia social, servicios médicos, servicios médicos gratuitos universales y salubridad general, con excepción de lo relativo al saneamiento del ambiente; y coordinar los programas de servicios a la salud de la Administración Pública Federal, así como los agrupamientos por funciones y programas afines que, en su caso, se determinen;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+II.- Crear y administrar establecimientos de salud, de asistencia pública, de medicina tradicional complementaria y de formación de recursos humanos en salud, priorizando la movilidad y accesibilidad;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1985)</small>
+
+III.- Aplicar a la Asistencia Pública los fondos que le proporcionen la Lotería Nacional y los Pronósticos para la Asistencia Pública; y administrar el patrimonio de la Beneficencia Pública en el Distrito Federal, en los términos de las disposiciones legales aplicables, a fin de apoyar los programas de servicios de salud;
+
+IV.- Organizar y vigilar las instituciones de beneficencia privada, en los términos de las leyes relativas, e integrar sus patronatos, respetando la voluntad de los fundadores;
+
+V.- Administrar los bienes y fondos que el Gobierno Federal destine para la atención de los servicios de asistencia pública;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+VI.- Planear, normar, coordinar y evaluar el Sistema Nacional de Salud y proveer la adecuada participación de las dependencias y entidades públicas que presten servicios de salud, a fin de asegurar el cumplimiento del derecho a la protección de la salud. Asimismo, propiciará y coordinará la participación de los sectores social y privado en dicho sistema y determinará las políticas y acciones de concertación entre los diferentes subsistemas del sector público;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1985)</small>
+
+VII.- Planear, normar y controlar los servicios de atención médica, salud pública, asistencia social y regulación sanitaria que correspondan al Sistema Nacional de Salud;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1985)</small>
+
+VIII.- Dictar las normas técnicas a que quedará sujeta la prestación de servicios de salud en las materias de Salubridad General, incluyendo las de Asistencia Social, por parte de los Sectores Público, Social y Privado, y verificar su cumplimiento;
+
+IX.- Organizar y administrar servicios sanitarios generales en toda la República;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+X.- Dirigir acciones de inspección médico sanitaria, con excepción de la agropecuaria, salvo cuando se trate de preservar la salud humana;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XI.- Dirigir acciones de inspección médico sanitaria especial en los puertos, costas y fronteras, con excepción de la agropecuaria, salvo cuando afecte o pueda afectar a la salud humana;
+
+XII.- Realizar el control higiénico e inspección sobre preparación, posesión, uso, suministro, importación, exportación y circulación de comestibles y bebidas;
+
+XIII.- Realizar el control de la preparación, aplicación, importación y exportación de productos biológicos, excepción hecha de los de uso veterinario;
+
+XIV.- Regular la higiene veterinaria exclusivamente en lo que se relaciona con los alimentos que puedan afectar a la salud humana;
+
+XV.- Ejecutar el control sobre preparación, posesión, uso, suministro, importación, exportación y distribución de drogas y productos medicinales, a excepción de los de uso veterinario que no estén comprendidos en la Convención de Ginebra;
+
+XVI.- Estudiar, adaptar y poner en vigor las medidas necesarias para luchar contra las enfermedades transmisibles, contra las plagas sociales que afecten la salud, contra el alcoholismo y las toxicomanías y otros vicios sociales, y contra la mendicidad;
+
+XVII.- Poner en práctica las medidas tendientes a conservar la salud y la vida de los trabajadores del campo y de la ciudad y la higiene industrial, con excepción de lo que se relaciona con la previsión social en el trabajo;
+
+XVIII.- Administrar y controlar las escuelas, institutos y servicios de higiene establecidos por la Federación en toda la República, exceptuando aquellos que se relacionan exclusivamente con la sanidad animal;
+
+XIX.- Organizar congresos sanitarios y asistenciales;
+
+XX.- Prestar los servicios de su competencia, directamente o en coordinación con los Gobiernos de los Estados y del Distrito Federal;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1985)</small>
+
+XXI.- Actuar como autoridad sanitaria, ejercer las facultades en materia de salubridad general que las leyes le confieren al Ejecutivo Federal, vigilar el cumplimiento de la Ley General de Salud, sus reglamentos y demás disposiciones aplicables y ejercer la acción extraordinaria en materia de Salubridad General;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+XXII.- Establecer las normas que deben orientar los servicios de asistencia social que presten las dependencias y entidades federales y proveer a su cumplimiento, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XXIII.- Establecer y ejecutar con la participación que corresponda a otras dependencias asistenciales, públicas y privadas, planes y programas para la asistencia, prevención, atención y tratamiento a los discapacitados;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXIV.- Elaborar y conducir políticas tendientes a garantizar acceso a los servicios de salud para las personas que no sean beneficiarios o derechohabientes de alguna institución del sector salud;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXV.- Elaborar y conducir la política para la producción nacional de medicamentos u otros insumos para la salud;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXVI.- Promover acciones de coordinación con otras dependencias y entidades de la Administración Pública Federal para abordar conjuntamente los determinantes sociales de la salud;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXVII.- Los demás que le fijen expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 40.
 
-Las placas, tarjeta de circulación, calcomanía de identificación vehicular, tarjetón de concesión o permiso y demás documentos que requieran los vehículos del Servicio Público de Transporte y del Servicio de Transporte Mercantil, registrados en el Estado, serán expedidos por la autoridad competente y la Secretaría de Finanzas y Administración.
+A la Secretaría del Trabajo y Previsión Social corresponde el despacho de los siguientes asuntos:
+
+I.- Vigilar la observancia y aplicación de las disposiciones relativas contenidas en el artículo 123 y demás de la Constitución Federal, en la Ley Federal del Trabajo y en sus reglamentos;
+
+II.- Procurar el equilibrio entre los factores de la producción, de conformidad con las disposiciones legales relativas;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
+III.- Intervenir en los contratos de trabajo de los nacionales que vayan a prestar sus servicios en el extranjero, en cooperación con las Secretarías de Gobernación, de Economía y de Relaciones Exteriores;
+
+IV.- Coordinar la formulación y promulgación de los contratos-ley de trabajo;
+
+V.- Promover el incremento de la productividad del trabajo;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+VI.- Promover el desarrollo de la capacitación y el adiestramiento en y para el trabajo, así como realizar investigaciones, prestar servicios de asesoría e impartir cursos de capacitación que para incrementar la productividad en el trabajo requieran los sectores productivos del país, en coordinación con la Secretaría de Educación Pública;
+
+VII.- Establecer y dirigir el servicio nacional de empleo y vigilar su funcionamiento;
+
+VIII.- Coordinar la integración y establecimiento de las Juntas Federales de Conciliación, de la Federal de Conciliación y Arbitraje y de las comisiones que se formen para regular las relaciones obrero patronales que sean de jurisdicción federal, así como vigilar su funcionamiento;
+
+IX.- Llevar el registro de las asociaciones obreras, patronales y profesionales de jurisdicción federal que se ajusten a las leyes;
+
+X.- Promover la organización de toda clase de sociedades cooperativas y demás formas de organización social para el trabajo, en coordinación con las dependencias competentes, así como resolver, tramitar y registrar su constitución, disolución y liquidación;
+
+XI.- Estudiar y ordenar las medidas de seguridad e higiene industriales, para la protección de los trabajadores, y vigilar su cumplimiento;
+
+XII.- Dirigir y coordinar la Procuraduría Federal de la Defensa del Trabajo;
+
+XIII.- Organizar y patrocinar exposiciones y museos de trabajo y previsión social;
+
+XIV.- Participar en los congresos y reuniones internacionales de trabajo, de acuerdo con la Secretaría de Relaciones Exteriores;
+
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 1992)</small>
+
+XV.- Llevar las estadísticas generales correspondientes a la materia del trabajo, de acuerdo con las disposiciones que establezca la Secretaría de Hacienda y Crédito Público;
+
+XVI.- Establecer la política y coordinar los servicios de seguridad social de la Administración Pública Federal, así como intervenir en los asuntos relacionados con el seguro social en los términos de la Ley;
+
+XVII.- Estudiar y proyectar planes para impulsar la ocupación en el país;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XVIII.- Promover la cultura y recreación entre los trabajadores y sus familias;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XIX.- Promover la democracia sindical y el acceso a la contratación colectiva;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XX.- Dar cumplimiento a los convenios internacionales en materia de derechos laborales;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXI.- Promover la organización de los jornaleros agrícolas y garantizar la protección laboral y de seguridad social que establece la legislación aplicable, y
+
+XXII.- Los demás que le fijen expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO. D.O.F. 14 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 41.
 
-Toda persona que conduzca un vehículo en la infraestructura vial del Estado, deberá obtener y llevar consigo la licencia de conducir que corresponda al tipo de vehículo y servicio de que se trate y que haya expedido la autoridad legalmente facultada para ello.
+A la Secretaría de Desarrollo Agrario, Territorial y Urbano, corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+I.- Elaborar y conducir las políticas de vivienda, ordenamiento territorial, desarrollo agrario y urbano, así como promover y coordinar con las entidades federativas, municipios y en su caso las alcaldías de la Ciudad de México, la elaboración de lineamientos para regular:
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
+
+a) El crecimiento o surgimiento de asentamientos humanos y centros de población;
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
+
+b) La regularización de la propiedad agraria y sus diversas figuras que la ley respectiva reconoce en los ejidos, las parcelas, las tierras ejidales y comunales, la pequeña propiedad agrícola, ganadera y forestal, los terrenos baldíos y nacionales, y los terrenos que sean propiedad de asociaciones de usuarios y de otras figuras asociativas con fines productivos;
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+c) La elaboración y aplicación territorial de criterios respecto al desarrollo urbano, la planeación, control y crecimiento de las ciudades y zonas metropolitanas del país, además de los centros de población en general, así como su respectiva infraestructura de comunicaciones, movilidad y de servicios, para incidir en la calidad de vida de las personas;
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+d) Los procesos de planeación de los asentamientos humanos y el desarrollo urbano, los relacionados a la conservación y aprovechamiento sustentable de los ecosistemas, recursos naturales y sus elementos;
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+e) La planeación habitacional y del desarrollo de vivienda, y
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
+
+f) El aprovechamiento de las ventajas productivas de las diversas regiones del país;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+II. Aplicar los preceptos agrarios del artículo 27 constitucional, así como las leyes agrarias y sus reglamentos, en lo que no corresponda a otras dependencias, entidades u otras autoridades en la materia;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+III. Administrar el Registro Agrario Nacional;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+IV. Conducir los mecanismos de concertación con las organizaciones campesinas;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+V. Conocer de las cuestiones relativas a límites y deslinde de tierras ejidales y comunales;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+VI. Resolver las cuestiones relacionadas con los problemas de los núcleos de población ejidal y de bienes comunales, en lo que no corresponda a otras dependencias o entidades, con la participación de las autoridades estatales y municipales;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+VII. Cooperar con las autoridades competentes a la eficaz realización de los programas de conservación de tierras y aguas en los ejidos y comunidades;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+VIII. Ejecutar las resoluciones y acuerdos que dicte el Presidente de la República en materia agraria, en términos de la legislación aplicable;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+IX. Administrar los terrenos baldíos y nacionales y las demasías, así como establecer los planes y programas para su óptimo aprovechamiento;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+X. Planear y proyectar la adecuada distribución de la población y la ordenación territorial de los centros de población, ciudades y zonas metropolitanas, bajo criterios de desarrollo sustentable, conjuntamente con las dependencias y entidades de la Administración Pública Federal competentes, y coordinar las acciones que el Ejecutivo Federal convenga con los gobiernos de las entidades federativas y municipales para la realización de acciones en esta materia, con la participación de los sectores social y privado;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XI. Prever a nivel nacional las necesidades de tierra para desarrollo urbano y vivienda, considerando la disponibilidad de agua determinada por la Secretaría de Medio Ambiente y Recursos Naturales y regular, en coordinación con los gobiernos de las entidades federativas y municipales, los mecanismos para satisfacer dichas necesidades;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XII. Elaborar, apoyar y ejecutar programas para satisfacer las necesidades de suelo urbano y el establecimiento de provisiones y reservas territoriales para el adecuado desarrollo de los centros de población, en coordinación con las dependencias y entidades de la Administración Pública Federal correspondientes y los gobiernos de las entidades federativas y municipales, y con la participación de los diversos grupos sociales;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XII Bis.- Establecer mecanismos para el ejercicio del derecho de preferencia a que se refiere el artículo 84 de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XIII. Promover y concertar programas de vivienda y de desarrollo urbano y metropolitano, y apoyar su ejecución, con la participación de los gobiernos de las entidades federativas y municipales, así como de los sectores social y privado, a efecto de que el desarrollo nacional en la materia se oriente hacia una planeación sustentable y de integración;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XIV. Fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción, en coordinación con las Secretarías del Trabajo y Previsión Social y de Economía;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XV. Planear, diseñar, promover, apoyar y evaluar mecanismos de financiamiento para el desarrollo regional y urbano, así como para la vivienda, con la participación de las dependencias y entidades de la Administración Pública Federal correspondientes, de los gobiernos de las entidades federativas y municipales, de las instituciones de crédito y de los diversos grupos sociales;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XVI. Apoyar los programas de modernización de los registros públicos de propiedad;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XVII. Facilitar las acciones de coordinación de los entes públicos responsables de la planeación urbana y metropolitana en las entidades federativas y municipios cuando así lo convengan;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XVIII. Proyectar y coordinar, con la participación que corresponda a los gobiernos de las entidades federativas y municipales, la planeación regional del desarrollo;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XIX. Elaborar los programas regionales y especiales que le señale el Ejecutivo Federal, tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública Federal y los gobiernos de las entidades federativas y municipales, así como autorizar las acciones e inversiones convenidas en el marco de lo dispuesto en la fracción que antecede, en coordinación con la Secretaría de Hacienda y Crédito Público;
+
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XX. Promover y ejecutar la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, en coordinación con los gobiernos estatales y municipales y con la participación de los sectores social y privado;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XXI. Aportar diagnósticos y estudios al Consejo Nacional de Población en materia de crecimiento demográfico y su impacto en el ámbito territorial;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXII.- Participar en la definición de la política inmobiliaria de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXIII.- Promover y propiciar el adecuado cumplimiento de la normatividad en materia de ordenamiento del territorio, desarrollo urbano y vivienda;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXIV.- Ejercitar el derecho de expropiación por causa de utilidad pública en aquellos casos no encomendados a otra dependencia;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXV.- Participar en la elaboración de los métodos e instrumentos para identificar zonas de alto riesgo ante fenómenos naturales, para su prevención y mitigación;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXVI.- Emitir opinión ante la Secretaría de Hacienda y Crédito Público en los proyectos de inversión pública con impacto territorial, regional y urbano;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXVII.- Diseñar los programas de modernización de los registros públicos inmobiliarios así como los catastros, a través de la administración de la plataforma nacional de información a que se refiere la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, y
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
+XXVIII.- Los demás que le fijen expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 41 BIS.- A la Secretaría de Cultura corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+I. Elaborar y conducir la política nacional en materia de cultura con la participación que corresponda a otras dependencias y entidades de la Administración Pública Federal, así como a las entidades federativas, los municipios y la comunidad cultural;
+
+II. Conservar, proteger y mantener los monumentos arqueológicos, históricos y artísticos que conforman el patrimonio cultural de la Nación;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+III. Formular e instrumentar el Programa Nacional de Cultura, de conformidad con las disposiciones jurídicas aplicables;
+
+IV. Coordinar, conforme a las disposiciones jurídicas aplicables, las acciones que realizan las unidades administrativas e instituciones públicas pertenecientes a la Administración Pública Federal centralizada y paraestatal en materias de:
+
+a) Investigación científica sobre Antropología e Historia relacionada principalmente con la población del país y con la conservación y restauración del patrimonio cultural, arqueológico e histórico, así como el paleontológico; la protección, conservación, restauración y recuperación de ese patrimonio y la promoción y difusión de dichas materias, y
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+b) Cultivo, fomento, estímulo, creación, educación profesional, artística y literaria, investigación y difusión de las artes en las ramas de la música, las artes plásticas, las artes dramáticas, la danza, las letras en todos sus géneros, y la arquitectura;
+
+V. Organizar y administrar bibliotecas públicas y museos, exposiciones artísticas, congresos y otros eventos de interés cultural;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+VI. Diseñar, en colaboración con la Secretaría de Educación Pública, los programas de educación artística y estudios culturales que se impartan a todos los niveles en las escuelas e institutos públicos, incorporados o reconocidos, para la enseñanza y difusión de todas las bellas artes y las artes tradicionales o populares;
+
+VII. Diseñar estrategias, mecanismos e instrumentos, así como fomentar la elaboración de programas, proyectos y acciones para promover y difundir la cultura, la historia y las artes, así como impulsar la formación de nuevos públicos, en un marco de participación corresponsable de los sectores público, social y privado;
+
+VIII. Promover los medios para la difusión y desarrollo de la cultura, atendiendo la diversidad cultural en todas sus manifestaciones y expresiones;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+IX. Promover, difundir y conservar las lenguas indígenas, las manifestaciones culturales, las creaciones en lenguas indígenas, así como los derechos culturales y de propiedad que de forma comunitaria detentan sobre sus creaciones artísticas los pueblos indígenas;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+X. Promover e impulsar la investigación, conservación y promoción de la historia, las tradiciones y las artes populares;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XI. Fomentar las relaciones de orden cultural con otros países; facilitar y participar en la celebración de convenios de intercambio en materia cultural y proyectar la cultura mexicana en el ámbito internacional, en coordinación con la Secretaría de Relaciones Exteriores;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XII. Promover la producción cinematográfica, audiovisual, de radio y televisión y en la industria editorial, alentando en ellas la inclusión de temas de interés cultural y artístico y de aquellas tendientes al mejoramiento cultural y la propiedad de las lenguas nacionales, así como diseñar, promover y proponer directrices culturales y artísticas en dichas producciones;
+
+XIII. Dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras pertenecientes al Ejecutivo Federal, que transmitan programación con contenido preponderantemente cultural, con exclusión de las que dependan de otras dependencias;
+
+XIV. Estimular el desarrollo y mejoramiento del teatro en el país, así como organizar concursos para autores, actores y escenógrafos;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XV. Otorgar becas para los estudiantes que pretendan realizar investigaciones o completar ciclos de estudios relacionados con las artes y los estudios culturales, tanto en México como en el extranjero, así como promover acuerdos de colaboración para el intercambio cultural y artístico;
+
+XVI. Promover e impulsar, en coordinación con otras dependencias, el uso de las tecnologías de la información y comunicación para la difusión y desarrollo de la cultura, así como de los bienes y servicios culturales que presta el Estado, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa, conforme a las disposiciones aplicables;
+
+XVII. Ejercer todas las atribuciones que la Ley General de Bienes Nacionales y la Ley Federal sobre Monumentos Arqueológicos, Artísticos e Históricos establecen respecto de monumentos arqueológicos, artísticos e históricos, así como respecto de las zonas de monumentos arqueológicos, artísticos e históricos;
+
+XVIII. Organizar, controlar y mantener actualizado el registro de la propiedad literaria y artística, así como ejercer las facultades en materia de derechos de autor y conexos de conformidad con lo dispuesto en la Ley Federal del Derecho de Autor;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XIX. Formular el catálogo del patrimonio histórico-cultural nacional en todos sus ámbitos;
+
+XX. Formular y manejar el catálogo de los monumentos nacionales;
+
+XXI. Organizar, sostener y administrar museos históricos, arqueológicos y artísticos, pinacotecas y galerías, a efecto de cuidar la integridad, mantenimiento y conservación de tesoros históricos y artísticos del patrimonio cultural del país;
+
+XXII. Establecer Consejos Asesores, de carácter interinstitucional, en los que también podrán participar especialistas en las materias competencia de la Secretaría;
+
+XXIII. Elaborar y suscribir convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con órganos públicos o privados, nacionales e internacionales, en asuntos de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXIV. Coordinar con otras dependencias y entidades de la Administración Pública Federal programas y acciones culturales de carácter comunitario en aquellos municipios donde se identifiquen problemáticas sociales específicas;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXV.- Coordinar, en colaboración con las autoridades correspondientes en las entidades federativas, los municipios y comunidades, acciones de fomento, vinculación, desarrollo y difusión de la producción artística, dentro del territorio nacional y en el extranjero;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+XXVI.- Promover la creación artística y el acceso a la cultura, así como el ejercicio de los derechos culturales, y
+
+XXVII.- Los demás que le fijen expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 42.
 
-(DEROGADO, P.O. 28 DE AGOSTO DE 2015)
+A la Secretaría de Turismo corresponde el despacho de los siguientes asuntos:
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+I.- Formular y conducir la política de desarrollo de la actividad turística nacional;
 
-ARTICULO 42 BIS.- La Secretaría en beneficio de los usuarios del servicio podrá instrumentar la utilización de tecnologías de vanguardia para la expedición de licencias de conducir, con el fin de agilizar y hacer eficaz el proceso administrativo conducente.
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
+II.- Promover, en coordinación con las entidades federativas, las zonas de desarrollo turístico nacional y formular en forma conjunta con la Secretaría de Medio Ambiente y Recursos Naturales la declaratoria respectiva;
+
+III.- Participar con voz y voto en las comisiones Consultiva de Tarifas y la Técnica Consultiva de Vías Generales de Comunicación;
+
+IV.- Registrar a los prestadores de servicios turísticos, en los términos señalados por las leyes;
+
+V.- Promover y opinar el otorgamiento de facilidades y franquicias a los prestadores de servicios turísticos y participar con la Secretaría de Hacienda y Crédito Público, en la determinación de los criterios generales para el establecimiento de los estímulos fiscales necesarios para el fomento a la actividad turística, y administrar su aplicación, así como vigilar y evaluar sus resultados;
+
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2009)</small>
+
+VI.- Participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de los precios y tarifas de los bienes y servicios turísticos a cargo de la Administración Pública Federal, tomando en cuenta las leyes, reglamentos y demás disposiciones que regulan las facultades de las dependencias y entidades;
+
+VII.- (DEROGADA, D.O.F. 17 DE JUNIO DE 2009)
+
+VIII.- Estimular la formación de asociaciones, comités y patronatos de carácter público, privado o mixto, de naturaleza turística;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
+IX.- Emitir opinión ante la Secretaría de Economía, en aquellos casos en que la inversión extranjera concurra en proyectos de desarrollo turísticos o en el establecimiento de servicios turísticos;
+
+X.- Regular, orientar y estimular las medidas de protección al turismo, y vigilar su cumplimiento, en coordinación con las dependencias y entidades de la Administración Pública Federal y con las autoridades estatales y municipales;
+
+XI.- Promover y facilitar el intercambio y desarrollo turístico en el exterior, en coordinación con la Secretaría de Relaciones Exteriores;
+
+XII.- Promover, y en su caso, organizar en coordinación con la Secretaría de Educación Pública, la capacitación, investigación y el desarrollo tecnológico en materia turística;
+
+XIII.- Formular y difundir la información oficial en materia de turismo; coordinar la publicidad que en esta materia efectúen las entidades del gobierno federal, las autoridades estatales y municipales y promover la que efectúan los sectores social y privado;
+
+XIV.- Promover, coordinar, y en su caso, organizar los espectáculos, congresos, excursiones, audiciones, representaciones y otros eventos tradicionales y folklóricos de carácter oficial, para atracción turística;
+
+XV.- Fijar y en su caso, modificar las categorías de los prestadores de servicios turísticos por ramas;
+
+XVI.- Autorizar los reglamentos interiores de los establecimientos de servicios al turismo;
+
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 1992)</small>
+
+XVII.- Llevar la estadística en materia de turismo, de acuerdo con las disposiciones que establezca la Secretaría de Hacienda y Crédito Público;
+
+XVIII.- Promover y apoyar la coordinación de los prestadores de servicios turísticos;
+
+XIX.- Proyectar, promover y apoyar el desarrollo de la infraestructura turística y estimular la participación de los sectores social y privado;
+
+XX.- Fijar e imponer, de acuerdo a las leyes y reglamentos, el tipo y monto de las sanciones por el incumplimiento y violación de las disposiciones en materia turística, y
+
+XXI.- Los demás que le fijen expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 43.
 
-Es facultad de la Secretaría la expedición de licencias para conducir vehículos automotores, previo el pago de los derechos correspondientes, con apego a lo que establece esta Ley y sus Reglamentos.
+A la Consejería Jurídica del Ejecutivo Federal corresponde el despacho de los asuntos siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2014)</small>
+I.- Dar apoyo técnico jurídico al Presidente de la República en todos aquellos asuntos que éste le encomiende;
+
+II.- Someter a consideración y, en su caso, firma del Presidente de la República todos los proyectos de iniciativas de leyes y decretos que se presenten al Congreso de la Unión o a una de sus Cámaras, así como a la Asamblea de Representantes del Distrito Federal, y darle opinión sobre dichos proyectos;
+
+III.- Dar opinión al Presidente de la República sobre los proyectos de tratados a celebrar con otros países y organismos internacionales;
+
+IV.- Revisar los proyectos de reglamentos, decretos, acuerdos, nombramientos, resoluciones presidenciales y demás instrumentos de carácter jurídico, a efecto de someterlos a consideración y, en su caso, firma del Presidente de la República;
+
+V.- Prestar asesoría jurídica cuando el Presidente de la República así lo acuerde, en asuntos en que intervengan varias dependencias de la Administración Pública Federal, así como en los previstos en el artículo 29 constitucional;
+
+VI.- Coordinar los programas de normatividad jurídica de la Administración Pública Federal que apruebe el Presidente de la República y procurar la congruencia de los criterios jurídicos de las dependencias y entidades;
+
+VII.- Presidir la Comisión de Estudios Jurídicos del Gobierno Federal, integrada por los responsables de las unidades de asuntos jurídicos de cada dependencia de la Administración Pública Federal, la que tendrá por objeto la coordinación en materia jurídica de las dependencias y entidades de la Administración Pública Federal.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+El Consejero Jurídico nombrará y, en su caso, removerá a los titulares de las unidades encargadas del apoyo jurídico de las dependencias y entidades de la Administración Pública Federal, quienes estarán adscritos administrativa y presupuestalmente a las dependencias y entidades respectivas;
+
+VIII.- Participar, junto con las demás dependencias competentes, en la actualización y simplificación del orden normativo jurídico;
+
+IX.- Prestar apoyo y asesoría en materia técnico jurídica a las entidades federativas que lo soliciten, sin perjuicio de la competencia de otras dependencias;
+
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2019)</small>
+
+X.- Representar al Presidente de la República, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios y procedimientos en que el titular del Ejecutivo Federal intervenga con cualquier carácter. En el caso de los juicios y procedimientos, la Consejería Jurídica del Ejecutivo Federal podrá determinar la dependencia en la que recaerá la representación para la defensa de la Federación. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XI.- Ejercer, cuando así se lo haya solicitado algún Secretario de Estado, y atendiendo a las leyes reglamentarias y a los acuerdos generales que al efecto emita el Presidente de la República, la facultad a que se refiere el noveno párrafo del artículo 94 de la Constitución Política de los Estados Unidos Mexicanos, solicitando al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, y
+
+XII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 43 BIS.- Las dependencias de la Administración Pública Federal enviarán a la Consejería Jurídica del Ejecutivo Federal los proyectos de iniciativas de leyes o decretos a ser sometidos al Congreso de la Unión o a una de sus cámaras, por lo menos con un mes de anticipación a la fecha en que se pretendan presentar, salvo en los casos de las iniciativas de Ley de Ingresos y proyecto de Presupuesto de Egresos de la Federación, y en aquellos otros de notoria urgencia a juicio del Presidente de la República; en su caso, estos últimos serán sometidos al titular del Poder Ejecutivo Federal por conducto de la Consejería Jurídica.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1996)</small>
+
+Las demás dependencias y entidades de la Administración Pública Federal proporcionarán oportunamente a la Consejería Jurídica del Ejecutivo Federal la información y apoyo que requiera para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+ARTICULO 43 TER.- La Administración Pública Centralizada contará con Órganos Reguladores Coordinados en Materia Energética, con personalidad jurídica propia y autonomía técnica y de gestión. Serán creados por ley, misma que establecerá su competencia así como los mecanismos de coordinación con la Secretaría de Energía.
+
+Los Órganos Reguladores Coordinados en Materia Energética se regirán por las disposiciones aplicables a la Administración Pública Centralizada y el régimen especial que, en su caso, prevea la ley que los regula.
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 44.
 
-Las licencias de conducir se clasifican en:
+Los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Federal y de sus áreas de auditoría, quejas y responsabilidades, serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos. Los órganos internos de control de las sociedades nacionales de crédito, así como aquéllos de otras entidades que cuenten con un régimen específico de control interno, se sujetarán a las funciones y organización establecidas en las disposiciones mediante las que se crea la respectiva entidad.
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+Los órganos internos de control, en ejercicio de su función de auditoría, prevista en la fracción XXIV del artículo 37 de esta Ley, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia y por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Nacional Anticorrupción y la Secretaría de la Función Pública respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública Federal y presentación de informes por parte de dichos órganos.
 
-I.- LICENCIA PROVISIONAL.- la cual será:
+Las unidades encargadas de la función de auditoría de la Secretaría de la Función Pública y los órganos internos de control de la Administración Pública Federal formarán parte del Sistema Nacional de Fiscalización e incorporarán en su ejercicio las normas técnicas y códigos de ética, de conformidad con la Ley General del Sistema Nacional Anticorrupción y las mejores prácticas que considere el referido sistema.
 
-a) Para automovilista. Se otorga a personas de los dieciséis a los dieciocho años, previa presentación de la carta responsiva del padre o tutor legalmente ratificada. Así como a quienes, siendo mayores de dieciocho años, esten aprendiendo a conducir, esta licencia tendrá vigencia de seis meses; y
+Las unidades a que se refiere el párrafo anterior y los órganos internos de control formularán en el mes de noviembre su plan anual de trabajo y de evaluación.
 
-b) Para motociclista. Se otorga a personas de los dieciséis a los dieciocho años, previa presentación de la carta responsiva del padre o tutor legalmente ratificada. Así como a quienes, siendo mayores de dieciocho años, estén aprendiendo a conducir, esta licencia tendrá vigencia de seis meses;
+Los titulares de las unidades encargadas de la función de auditoría de la Secretaría de la Función Pública y de los órganos internos de control, en los meses de mayo y noviembre entregarán informes al titular de dicha Secretaría, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal Federal de Justicia Administrativa y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Combate a la Corrupción; así como un informe detallado del porcentaje de los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Nacional Anticorrupción, tanto las dependencias y entidades, así como la Secretaría de la Función Pública, implementarán las acciones pertinentes para mejora de la gestión.
 
-II. LICENCIA DE AUTOMOVILISTA.- Se otorga a los conductores de automóviles o vehículos, propios o ajenos, que hayan cumplido dieciocho años de edad. Tendrá una vigencia de tres años, cinco años o permanente;
+Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Nacional Anticorrupción, los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-III. LICENCIA DE MOTOCICLISTA.- Se otorga a los conductores de vehículos de dos, tres o cuatro ruedas o, derivados de los mismos y que hayan cumplido dieciocho años de edad. Tendrán una vigencia de tres años, cinco años o permanente;
+### CAPÍTULO III. Del Gabinete Social de la Presidencia de la República
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
-
-IV. LICENCIA PARA CHOFER PARTICULAR.- La requieren los conductores de toda clase de vehículos particulares; excepto motociclistas. Tendrá una vigencia de tres años, cinco años o permanente;
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
-
-V.- LICENCIA DE CHOFER DEL SERVICIO DE TRANSPORTE PÚBLICO Y MERCANTIL.- Se expedirá a los conductores de vehículos destinados al Servicio Público de Transporte y Servicio de Transporte Mercantil, sin menoscabo de conducir vehículos de uso particular y demás autorizados, excepto motocicleta; y tendrá una vigencia de cinco años;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2012)</small>
-
-VI.- LICENCIA DE CHOFER PARA EL SERVICIO DE TRANSPORTE MERCANTIL.- Se expedirá a los conductores de vehículos destinados al Servicio de Transporte Mercantil, sin menoscabo de conducir toda clase de vehículos, excepto los del Servicio Público de Transporte y del Servicio Mercantil de Taxi, así como motocicletas; y tendrá una vigencia de tres años; y
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
-
-VII.- LICENCIA TRANSITORIA DE CHOFER PARA EL SERVICIO DE TRANSPORTE PÚBLICO Y MERCANTIL DE TAXI.- Se expedirá a los conductores de vehículos destinados al Servicio de Transporte Público y Mercantil de Taxi, sin menoscabo de conducir toda clase de vehículos, excepto motocicletas y vehículos destinados al servicio de Transporte Mercantil: Escolar, de Personal, Turismo, Servicio Extraordinario, de Carga y Transporte Complementario; y tendrá una vigencia de seis meses.
-
-VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2007)
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2001)</small>
-
-Las licencias a que hace referencia este artículo, son de uso personal e intransferible.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
-
-Tratándose de las licencias permanentes a que se refieren las fracciones II, III y IV de este artículo serán expedidas a través de los programas que mediante acuerdo determine la persona Titular de la Secretaría de Movilidad y Transporte.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-ARTICULO 44 BIS.- Los conductores del Servicio de Transporte Público y Mercantil de Taxi, portarán el Gafete de Identificación del Chofer del Servicio de Transporte Público y Mercantil de Taxi, como documento de identificación, que expedirá la autoridad competente y deberá estar a la vista del usuario, durante la prestación del mismo; y su vigencia será de acuerdo al tipo de licencia que tengan los conductores de los vehículos.
-
-El Gafete al que se hace referencia, en ningún momento podrá sustituir a la licencia de conducir.
-
-### CAPITULO UNICO. VEHICULOS
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 44 Bis.
 
@@ -1174,1443 +2504,175 @@ I. Las reuniones ordinarias deberán celebrarse por lo menos una vez cada tres m
 
 II. Las reuniones extraordinarias se convocarán en cualquier momento por el Titular del Ejecutivo Federal.
 
-## TITULO TERCERO. DE LAS LICENCIAS PARA CONDUCIR
+## TITULO TERCERO. De la Administración Pública Paraestatal
 
-### CAPITULO UNICO. EXPEDICION DE LAS LICENCIAS
+### CAPITULO UNICO. De la Administración Pública Paraestatal
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 45.
 
-Las licencias para conducir vehículos se expedirán a solicitud del interesado; previo cumplimiento de los requisitos establecidos en los Reglamentos de esta Ley.
+Son organismos descentralizados las entidades creadas por ley o decreto del Congreso de la Unión o por decreto del Ejecutivo Federal, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-ARTICULO 45 BIS.- Los exámenes médicos y toxicológicos, para la expedición, canje o reposición de Licencias para conducir vehículos del Servicio Público de Transporte y del Servicio de Transporte Mercantil, podrán ser practicados a los interesados por la Secretaría o por Instituciones de Salud Públicas o Privadas o terceros, que cuenten con la infraestructura necesaria y sean autorizadas oficialmente por la Secretaría.
-
-La Secretaría, mediante Reglas de Carácter General publicadas en el Periódico Oficial del Estado, dará a conocer las Instituciones Públicas o Privadas que realizarán dichos exámenes y expedirán los documentos para este efecto.
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-ARTICULO 45 TER.- Las Empresas de Redes de Transporte, deberán acreditar ante la Secretaría, que los conductores que registren para la prestación del servicio cuentan con lo siguiente:
-
-I.- Licencia de automovilista, la que deberán portar invariablemente durante la prestación del servicio;
-
-II.- Clave Única del Registro Nacional de Población;
-
-III.- Constancia de No Antecedentes Penales, la cual deberán actualizar de forma semestral;
-
-IV.- Constancia que acredite que fueron aprobados en al menos, los siguientes exámenes: Valoración Toxicológica, Pruebas Psicológicas y Psicométricas e Investigación Socioeconómica.
-
-La aplicación de los exámenes a que se refiere el párrafo anterior, deberá ser realizada por una institución pública o privada debidamente acreditada para dicha actividad.
-
-En adición a lo anterior, las Empresas de Redes de Transporte deberán asegurarse que, respecto de cada conductor particular que desee prestar el Servicio Ejecutivo, se realice, mediante un tercero contratado por éstas, una búsqueda de antecedentes en bases de datos multijurisdiccionales públicas disponibles, y
-
-V.- Constancia que acredite que se encuentran capacitados en materia de igualdad de género, no discriminación y derechos humanos, por alguna institución oficial en el Estado.
-
-La vigilancia y comprobación del cumplimiento de los requisitos antes señalados corresponde a las Empresas de Redes de Transporte. En el caso de que los conductores no cumplan con la totalidad de los mismos, las empresas no podrán registrarlos como prestadores del servicio.
-
-## TITULO CUARTO. DE LAS CONCESIONES Y LOS PERMISOS PARA EL SERVICIO PUBLICO DE TRANSPORTE Y EL SERVICIO MERCANTIL
-
-### CAPITULO I. REGLAMENTACION DE LAS CONCESIONES Y DE LOS PERMISOS
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 46.
 
-Corresponde al Gobierno del Estado a través de la Secretaría y de Carreteras de Cuota-Puebla, la prestación del Servicio Público de Transporte, creando los medios que estime convenientes o mediante el otorgamiento de CONCESIONES, en los términos de esta Ley y sus Reglamentos.
+Son empresas de participación estatal mayoritaria las siguientes:
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+I.- Las sociedades nacionales de crédito constituidas en los términos de su legislación específica;
+
+II.- Las Sociedades de cualquier otra naturaleza incluyendo las organizaciones auxiliares nacionales de crédito; así como las instituciones nacionales de seguros y fianzas, en que se satisfagan alguno o varios de los siguientes requisitos:
+
+A) Que el Gobierno Federal o una o más entidades paraestatales, conjunta o separadamente, aporten o sean propietarios de más del 50% del capital social;
+
+B) Que en la constitución de su capital se hagan figurar títulos representativos de capital social de serie especial que sólo puedan ser suscritas por el Gobierno Federal; o
+
+C) Que al Gobierno Federal corresponda la facultad de nombrar a la mayoría de los miembros del órgano de gobierno o su equivalente, o bien designar al presidente o director general, o cuando tenga facultades para vetar los acuerdos del propio órgano de gobierno.
+
+Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles así como las asociaciones civiles en las que la mayoría de los asociados sean dependencias o entidades de la Administración Pública Federal o servidores Públicos Federales que participen en razón de sus cargos o alguna o varias de ellas se obliguen a realizar o realicen las aportaciones económicas preponderantes.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 47.
 
-Corresponde al Gobierno del Estado a través de la Secretaría, otorgar los permisos o autorizaciones para la prestación de los servicios a que se refiere esta Ley.
+Los fideicomisos públicos a que se refiere el artículo 3o., fracción III, de esta Ley, son aquellos que el gobierno federal o alguna de las demás entidades paraestatales constituyen, con el propósito de auxiliar al Ejecutivo Federal en las atribuciones del Estado para impulsar las áreas prioritarias del desarrollo, que cuenten con una estructura orgánica análoga a las otras entidades y que tengan comités técnicos.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1992)</small>
+
+En los fideicomisos constituidos por el gobierno federal, la Secretaría de Hacienda y Crédito Público fungirá como fideicomitente único de la Administración Pública Centralizada.
+
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 48.
 
-Concesión del Servicio Público de Transporte, es el acto jurídico por el cual la persona Titular de la Secretaría de Movilidad y Transporte del Estado o Carreteras de Cuota-Puebla, en el ámbito de su competencia, otorga a alguna persona física o moral la autorización para la prestación del Servicio Público de Transporte, sus componentes, así como sus Servicios Auxiliares; estableciendo las condiciones y obligaciones a que deberán sujetarse, y condicionando su otorgamiento al cumplimiento de todos los requisitos establecidos en la presente Ley y sus Reglamentos, tomando en cuenta las características del servicio.
+A fin de que se pueda llevar a efecto la intervención que, conforme a las leyes, corresponde al Ejecutivo Federal en la operación de las entidades de la Administración Pública Paraestatal, el Presidente de la República las agrupará por sectores definidos, considerando el objeto de cada una de dichas entidades en relación con la esfera de competencia que ésta y otras leyes atribuyen a las Secretarías de Estado.
 
-> <small>(REFORMADO, P. O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 49.
 
-Concesionario del Servicio Público de Transporte, es la persona física o moral a la que se le otorga concesión por parte de la Secretaría o Carreteras de Cuota-Puebla, para prestar el Servicio Público de Transporte y sus Servicios Auxiliares.
+La intervención a que se refiere el artículo anterior se realizará a través de la dependencia que corresponda según el agrupamiento que por sectores haya realizado el propio Ejecutivo, la cual fungirá como coordinadora del sector respectivo.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+Corresponde a los coordinadores de sector coordinar la programación y presupuestación, conocer la operación, evaluar los resultados y participar en los órganos de gobierno de las entidades agrupadas en el sector a su cargo, conforme a lo dispuesto en las leyes.
+
+Atendiendo a la naturaleza de las actividades de dichas entidades, el titular de la dependencia coordinadora podrá agruparlas en subsectores, cuando así convenga para facilitar su coordinación y dar congruencia al funcionamiento de las citadas entidades.
+
+ARTICULO 49 BIS.- (DEROGADO, D.O.F. 14 DE MAYO DE 1986)
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2016)</small>
 
 ###### ARTICULO 50.
 
-Permiso es el acto administrativo por el cual la persona Titular de la Secretaría de Movilidad y Transporte del Estado de Puebla, faculta a una persona física o moral, a efectuar un Servicio de Transporte Mercantil y aquellos servicios auxiliares susceptibles de permiso. En todo caso se deberán cumplir todas las condiciones señaladas en esta Ley y sus Reglamentos.
+Las relaciones entre el Ejecutivo Federal y las entidades paraestatales, para fines de congruencia global de la Administración Pública Paraestatal con el sistema nacional de planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de las Secretarías de Hacienda y Crédito Público y de la Función Pública, en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que competan a la coordinadora del sector correspondiente.
 
-> <small>(REFORMADO, P. O. 6 DE MARZO DE 2015)</small>
+Las Secretarías de Hacienda y Crédito Público y de la Función Pública emitirán los criterios para la clasificación de las entidades paraestatales conforme a sus objetivos y actividades, en aquellas que cumplan una función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación. Dichos mecanismos contemplarán un análisis sobre los beneficios y costos de instrumentar prácticas de gobierno corporativo en las entidades con fines comerciales, a efecto de considerar la conveniencia de su adopción.
 
 ###### ARTICULO 51.
 
-Permisionario es la persona física o moral, facultada o autorizada, a la que se le otorguen los documentos inherentes por parte de la Secretaría, para prestar un Servicio de Transporte Mercantil, o algún servicio auxiliar susceptible de permiso conforme a lo que marca la presente Ley y sus Reglamentos.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+(DEROGADO, D.O.F. 14 DE MAYO DE 1986)
 
 ###### ARTICULO 52.
 
-Para que las personas físicas o morales puedan llevar a cabo la prestación de cualquier Servicio Público de Transporte o del Servicio Mercantil especificados en el Capítulo correspondiente, se requiere de una concesión, un permiso o autorización.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-La Secretaría y Carreteras de Cuota-Puebla, están facultadas, en el ámbito de sus respectivas competencias, para establecer nuevas modalidades o bien modificar las existentes en la prestación del Servicio de Transporte Público y Mercantil y sus Servicios Auxiliares, cuando se justifique su necesidad e interés colectivo, de conformidad con esta Ley y sus Reglamentos.
-
-Las nuevas modalidades y las modificaciones a las ya establecidas, deberán orientarse a modernizar y mejorar las condiciones en la prestación del servicio correspondiente.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+(DEROGADO, D.O.F. 14 DE MAYO DE 1986)
 
 ###### ARTICULO 53.
 
-Para que las personas físicas o morales obtengan la Concesión del Servicio Público, permiso o autorización del Servicio Mercantil o algún servicio auxiliar que otorga la autoridad competente, deberán sujetarse a los estudios técnicos, y al procedimiento que ésta realice; así como cubrir los requisitos establecidos en esta Ley, sus Reglamentos y los demás que determine la autoridad competente, en función de las necesidades del Servicio Público de Transporte y el Servicio Mercantil.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
+(DEROGADO, D.O.F. 14 DE MAYO DE 1986)
 
 ###### ARTICULO 54.
 
-Las concesiones, permisos o autorizaciones, así como los derechos en ellos conferidos a que hace referencia esta Ley y su Reglamento, se consideran bienes fuera de comercio, no obstante lo cual, podrán ser otorgados en garantía para la obtención de financiamiento que sea destinado a la renovación del propio parque vehicular de los Servicios Público y Mercantil de Transporte, previa autorización de la autoridad competente.
-
-Cualquier transmisión onerosa o gratuita entre vivos o por causa de muerte, será nula sin la autorización previa de la autoridad competente.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+(DEROGADO, D.O.F. 14 DE MAYO DE 1986)
 
 ###### ARTICULO 55.
 
-Las concesiones y permisos del Transporte Mercantil en su modalidad de Taxi y Taxi Local, a que se refiere este Capítulo, se otorgarán a mexicanos y/o a sociedades constituidas conforme a las leyes aplicables. Los vehículos con los que se pretenda realizar el servicio de transporte público en zonas urbanas, deberán tener una antigüedad máxima de tres años a la fecha de otorgamiento de la concesión y en los demás casos hasta de cinco años.
-
-Los vehículos del transporte mercantil en su modalidad de Taxi y Taxi Local, cualquiera que sea la zona o ubicación de la prestación del servicio, deberán contar con una antigüedad de tres años a la fecha de su otorgamiento.
-
-La autoridad competente vigilará que las asignaciones y reasignaciones de las concesiones y permisos, no generen prácticas monopólicas.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-ARTICULO 55 BIS.- Las concesiones y permisos concluyen por:
-
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
-
-I.- No cumplir con las obligaciones previstas en esta Ley y su Reglamento, o con el pago de las contribuciones que se vinculen con la propiedad, tenencia o uso o prestación de servicios relacionados con el vehículo materia de la concesión o permiso que se trate, establecidos en las disposiciones fiscales del Estado.
-
-La autoridad verificará en el primer trimestre de cada año el cumplimiento de las obligaciones a que se refiere el párrafo anterior, debiendo hacerlo constar conforme a sus atribuciones.
-
-II.- Renuncia expresa del titular;
-
-III.- Revocación o cancelación, según sea el caso;
-
-IV.- Porque se modifique, altere o desaparezca el objeto de la misma;
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2014)</small>
-
-V.- Rescate;
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2014)</small>
-
-VI.- Liquidación de la sociedad; y
-
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2014)</small>
-
-VII.- Tratándose de personas físicas, por haber sido declaradas por autoridad judicial en estado de interdicción o ausentes e ignoradas.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-La terminación de la concesión o permiso no exime a su titular de la responsabilidad contraída durante su vigencia.
-
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-ARTICULO 55 TER.- El registro de las Empresas de Redes de Transporte concluye por:
-
-I. Terminación de su vigencia, sin perjuicio de que la misma sea prorrogada por un plazo igual al de su duración, siempre y cuando la Empresa de Redes de Transporte haya cumplido con todos los requisitos establecidos por esta Ley, sus Reglamentos y las demás disposiciones aplicables;
-
-II. Renuncia expresa de la Empresa;
-
-III. Incumplimiento notificado por la Secretaría a la Empresa y no subsanado el mismo por ésta última, durante los veinte días naturales siguientes a la fecha de recepción de dicha notificación;
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-IV.- Liquidación de la empresa;
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-V.- Cancelación del registro por parte de la autoridad competente, y
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-VI.- El incumplimiento del pago en tiempo y forma, de las contribuciones y aportaciones a que esté obligada la empresa, en términos de la normatividad aplicable.
-
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-Para efectos del párrafo anterior, la Secretaría podrá, en todo momento, verificar el número de viajes realizados, así como el importe correspondiente.
-
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-Por razones de interés público podrá decretarse la cancelación del registro a que se refiere la fracción V de este artículo, con prescindencia de que el titular de los derechos derivados, incumpla o no obligaciones legales, reglamentarias o generales.
-
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2018)</small>
-
-ARTICULO 55 QUÁTER.- En los casos en que los concesionarios o permisionarios omitan el pago anual de refrendo y/o programa de actualización de documentos y/o el pago de derechos por los servicios de control vehicular del servicio de transporte en cualquiera de las modalidades comprendidas en el artículo 17 de la presente Ley, por un periodo de un año, contado a partir del día siguiente de la fecha en que debió realizarlos, se actualizará el abandono de la concesión o permiso.
-
-En el caso de abandono a los que se refiere el párrafo anterior, el Estado recuperará los derechos de la concesión o permiso y podrá sustituir al sujeto a través de la reasignación del título correspondiente.
-
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2018)</small>
-
-ARTICULO 55 QUÍNQUIES.- Para los casos terminación de la vigencia, renuncia, rescate, revocación, cancelación y/o abandono de concesiones y permisos, la autoridad competente podrá realizar su reordenamiento y la reasignación según corresponda, previo análisis u opinión técnica que así lo determine; debiendo verificar que las personas físicas o jurídicas a las que se les asignen estas concesiones o permisos, cumplan con los requisitos establecidos en esta Ley, su Reglamento y demás disposiciones legales aplicables.
+(DEROGADO, D.O.F. 14 DE MAYO DE 1986)
 
 ###### ARTICULO 56.
 
-Las personas morales cuyo objeto social sea la prestación del Servicio Público de Transporte y del Servicio Mercantil, podrán adoptar la forma de cualquiera de las sociedades reconocidas por las leyes mexicanas.
+(DEROGADO, D.O.F. 14 DE MAYO DE 1986)
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
+## TRANSITORIOS
 
-###### ARTICULO 57.
+PRIMERO.- Se abroga la Ley de Secretarías y Departamentos de Estado del 23 de diciembre de 1958, y se derogan las demás disposiciones legales que se opongan a lo establecido en la presente Ley.
 
-Para prestar en mejores condiciones el Servicio Público de Transporte o el Servicio Mercantil, las personas físicas titulares de concesiones o permisos para prestar los servicios a los que se refiere esta Ley, podrán, en términos de la Legislación Civil y Mercantil vigente, constituir personas morales y ceder a éstas los derechos que les confieren esos títulos o permisos, siempre y cuando figuren como socios o accionistas mayoritarios de las mismas, previa autorización de las autoridades competentes.
+SEGUNDO.- El personal de las dependencias que, en aplicación de esta Ley pase a otra dependencia, en ninguna forma resultará afectado en los derechos que haya adquirido, en virtud de su relación laboral con la administración pública federal. Si por cualquier circunstancia algún grupo de trabajadores resultare afectado con la aplicación de esta Ley, se dará intervención, previamente, a la Comisión de Recursos Humanos del Gobierno Federal, a la Federación de Sindicatos de Trabajadores al Servicio del Estado y al Sindicato correspondiente.
 
-Para la realización de cualquier trámite, el representante legal de la persona moral deberá estar debidamente acreditado, de conformidad con lo establecido en esta Ley y sus Reglamentos, presentando en su caso, y cuando así lo considere pertinente la autoridad competente, el acta de asamblea o documento en el que conste el acuerdo tomado por el órgano que administre y dirija a la persona moral de que se trate.
+TERCERO.- Cuando alguna dependencia de las Secretarías establecidas conforme a la Ley de Secretarías y Departamentos de Estado que se abroga pase a otra Secretaría, el traspaso se hará incluyendo al personal a su servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la dependencia haya utilizado para la atención de los asuntos a su cargo.
 
-### CAPITULO II. LAS CONCESIONES PARA EL SERVICIO PUBLICO DE TRANSPORTE
+CUARTO.- Los asuntos que con motivo de esta Ley deban pasar de una Secretaría a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
 
-###### ARTICULO 58.
+QUINTO.- Cuando en esta Ley se dé una denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas por ley anterior, dichas atribuciones se entenderán concedidas a la dependencia que determine esta Ley y demás disposiciones relativas.
 
-Requieren del otorgamiento de una CONCESION los siguientes Servicios Públicos de Transporte:
+SEXTO.- La presente Ley entrará en vigor el 1o. de enero de 1977.
 
-I.- El Transporte Urbano;
+México, D. F., a 22 de diciembre de 1976.- Hilda Anderson Nevarez de Rojas, S. P.- Enrique Ramírez y Ramírez, D. P.- Arnulfo Villaseñor Saavedra, S. S.- Crescencio Herrera Herrera, D. S.- Rúbricas".
 
-II.- El Transporte Suburbano;
+En Cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veinticuatro días del mes de diciembre de mil novecientos setenta y seis.- José López Portillo.- Rúbrica.- El Secretario de Gobernación, Jesús Reyes Heroles.- Rúbrica.
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-III.- El Transporte Foráneo;
+D.O.F. 8 DE DICIEMBRE DE 1978.
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+PRIMERO.- Se derogan las Fracciones VII del Artículo 31 y XV del Artículo 32 de la Ley Orgánica de la Administración Pública Federal.
 
-IV.- El Transporte Mixto de Personas y Bienes; y
+SEGUNDO.- El personal de la Dirección General de Bienes Muebles de la Secretaría de Hacienda y Crédito Público y de la Dirección General de Normas sobre Adquisiciones, Almacenes y Obras Públicas de la Secretaría de Programación y Presupuesto, encargado de la función relativa a normas sobre adquisiciones y almacenes, pasará a la Secretaría de Comercio, cumpliéndose al efecto con lo dispuesto en el acuerdo de reasignación del personal al servicio de la Administración Pública Centralizada. Si por cualquier circunstancia algún trabajador resultare afectado, se dará la intervención que corresponda a la Comisión de Recursos Humanos del Gobierno Federal.
 
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+TERCERO.- Los recursos materiales y financieros de las direcciones a que se refiere el artículo precedente, pasarán a la Secretaría de Comercio, así como los archivos, y en general, el equipo que dichas unidades administrativas hayan utilizado para la atención de los asuntos a su cargo. La Secretaría de Programación y Presupuesto tramitará las transferencias presupuestales procedentes.
 
-V.- Sistema de Transporte Público Masivo.
+CUARTO.- Los asuntos en trámite al entrar en vigor este decreto serán despachados por la Secretaría de Comercio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2014)</small>
+QUINTO.- Este decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
 
-###### ARTICULO 59.
+D.O.F. 31 DE DICIEMBRE DE 1980.
 
-Previo al otorgamiento de una concesión, para la prestación del Servicio Público de Transporte, la Secretaría o Carreteras de Cuota-Puebla, deberá:
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
-I.- Llevar a cabo los estudios técnicos necesarios, para determinar las necesidades del servicio de que se trate;
+D.O.F. 4 DE ENERO DE 1982.
 
-II.- Verificar que los solicitantes disponen de la capacidad jurídica, técnica, financiera y operativa suficientes, para satisfacer las exigencias del servicio correspondiente, en beneficio del público usuario, y
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-III.- Instrumentar las medidas tendientes a fomentar la constitución de personas morales, con la participación de las personas físicas que cuenten con concesiones, en términos de lo que establezcan para el caso, los Reglamentos de la presente Ley.
+SEGUNDO.- Las atribuciones conferidas por otras disposiciones jurídicas al Departamento de Pesca o a su titular, se entenderán concedidas a la Secretaría de Pesca, o a su titular, respectivamente.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-Para los efectos de esta Ley y su Reglamento, se entenderá que el trámite correspondiente caduca, cuando el solicitante deje de promover en el expediente respectivo durante sesenta días naturales posteriores a la última promoción, en cuyo caso, la autoridad competente declarará desierto el trámite, determinando la improcedencia del mismo.
+CUARTO.- Las Secretarías de Hacienda y Crédito Público y de Programación y Presupuesto, en la esfera de sus atribuciones, realizarán los actos que sean necesarios a efecto de que esta última represente, como fideicomitente, a la administración pública centralizada en los fideicomisos constituidos con anterioridad a la entrada en vigor del presente Decreto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
+Los recursos humanos, materiales y financieros, así como los archivos y, en general, el equipo que la Secretaría de Hacienda y Crédito Público haya venido utilizando en el desempeño de las funciones de fideicomitente único de la administración pública centralizada, pasarán a la Secretaría de Programación y Presupuesto, dentro del plazo de 60 días contados a partir de la fecha de entrada en vigor del presente Decreto. La propia Secretaría de Programación y Presupuesto tramitará las transferencias presupuestales procedentes, y proveerá lo necesario a fin de que el personal que sea transferido mantenga sus derechos adquiridos.
 
-###### ARTICULO 60.
+D.O.F. 29 DE DICIEMBRE DE 1982.
 
-Para la creación de nuevos Servicios Públicos de Transporte, se emitirán los estudios técnicos y demás que sean necesarios.
+PRIMERO.- El presente Decreto entrará en vigor el día 1o. de enero de 1983.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
 
-Tratándose de la modificación e incremento de los ya establecidos, se emitirá la opinión técnica correspondiente, con la que se deberá dar vista a los concesionarios de las rutas que coincidan en el origen o destino de la ruta beneficiada, o coincidan al menos en un cuarenta por ciento o más del total del recorrido o itinerario que tienen autorizado, que represente un traslapamiento entre una y otra u otras rutas.
+TERCERO.- En los casos de las atribuciones de las Secretarías, que conforme a este Decreto pasen a otra dependencia, el traspaso deberá efectuarse incluyendo al personal a su servicio, presupuesto, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que las dependencias hayan utilizado para la atención de las atribuciones de que se trate.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+CUARTO.- El personal de las dependencias que en virtud de lo dispuesto por el presente Decreto pase a otra dependencia, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral con la Administración Pública Federal. Si por cualquier circunstancia algún grupo de trabajadores resultare afectado por la aplicación de este Decreto, se dará intervención, previamente, a la Comisión de Recursos Humanos del Gobierno Federal, a la Federación de Sindicatos de Trabajadores al Servicio del Estado y el Sindicato correspondiente.
 
-Los interesados, dentro del plazo de tres días hábiles contados a partir del día siguiente de la notificación del estudio técnico, podrán exponer por escrito lo que a su derecho convenga, quienes deberán acreditar su interés jurídico.
+QUINTO.- Los asuntos que con motivo de este Decreto deban pasar de una Secretaría a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
+SEXTO.- Cuando en los términos del presente Decreto se dé una denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas con anterioridad, dichas atribuciones se entenderán concedidas a la dependencia que determine este Decreto y demás disposiciones relativas.
 
-Una vez vencido el plazo que establece el párrafo que antecede, se dejará constancia en el expediente respectivo, se procederá conforme a la legislación aplicable.
+SEPTIMO.- El Ejecutivo Federal continuará los fincamientos de responsabilidades en proceso y los que se inicien por hechos consumados con anterioridad a la publicación de estas modificaciones, por conducto de la Secretaría de la Contraloría General de la Federación y que resulten de la revisión que le compete independientemente de la fecha en que se descubran o comprueben.
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+D.O.F. 30 DE DICIEMBRE DE 1983.
 
-Para efectos del presente artículo, en las opiniones técnicas correspondientes relativas a las modificaciones e incrementos de los servicios de transporte ya establecidos, deberán tomarse en cuenta los recorridos de los corredores del Sistema de Transporte Público Masivo a fin de no verse afectados, y en su caso, se dará preferencia a las modificaciones e incrementos de los corredores de transporte público de pasajeros.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2014)</small>
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto por el presente Decreto.
 
-###### ARTICULO 61.
+TERCERO.- Las entidades paraestatales que no estén inscritas en el Registro a que se refiere el artículo 49 Bis que se adiciona por el presente Decreto, deberán hacerlo en un plazo de tres meses contados a partir de la fecha en que el mismo entre en vigor.
 
-Para ser concesionario de alguno de los servicios a que se refiere esta Ley, es necesario formular una solicitud por escrito, la cual se presentará por duplicado ante la autoridad competente; dicha solicitud deberá contener lo siguiente:
+D.O.F. 21 DE ENERO DE 1985.
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-I.- Nombre completo, edad, nacionalidad y domicilio, si se trata de una persona física o, en su caso, denominación legal y domicilio social, si es una persona jurídica.
+SEGUNDO.- Cuando en esta y otras Leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas, se haga referencia a la Secretaría de Salubridad y Asistencia, se entenderá hecha a la Secretaría de Salud, dentro de la esfera de su competencia, en los términos del presente decreto.
 
-Cuando la solicitud sea realizada por dos o más personas, deberán designar un representante común que elegirán de entre ellas mismas.
+TERCERO.- La Secretaría de Salud procederá gradualmente a sustituir el registro e identificación de los equipos y bienes sujetos actualmente a la custodia y uso de la anterior Secretaría de Salubridad y Asistencia.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-En caso de no realizar la designación, la autoridad competente mandará prevenirlas para que dentro del término de tres días, señalen tal representante; de persistir la omisión, la autoridad competente designará con tal carácter a cualquiera de los interesados.
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
-
-II.- Señalar domicilio para recibir notificaciones preferentemente en la Ciudad de Puebla, o bien a través de los medios de comunicación electrónicos o cualquier otro medio cuando así lo haya aceptado el promovente y siempre que pueda comprobarse fehacientemente la recepción de las notificaciones, en caso de no señalar domicilio, las notificaciones que le correspondan, se harán por estrados;
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
-
-III.- La clase de servicio que se pretenda prestar y las características de los vehículos que destinará a la prestación del servicio;
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
-
-IV.- Declaración bajo protesta de decir verdad, manifestando si es titular de una o más concesiones;
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
-
-V.- Precisar los puntos correspondientes a la ruta, el Municipio o los municipios que comprenda. Tratándose del Servicio Público de Transporte Urbano, señalar las calles del recorrido, así como los lugares donde se pretenda ubicar la base, terminal o sitio;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-VI.- Garantía que se otorga a favor de la Secretaría de Finanzas y Administración del Estado, en los términos que señale la Ley de Ingresos del Estado vigente, para asegurar la continuidad de los trámites correspondientes;
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
-
-VII.- El seguro de viajero que se obliga a contratar, a fin de proteger a los usuarios y terceros sobre cualquier riesgo que puedan sufrir con motivo de la prestación del servicio; y
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
-
-VIII.- Lugar y fecha en que se formula la solicitud, firmando el documento el peticionario o, en su caso, el representante legal de la persona moral solicitante.
-
-###### ARTICULO 62.
-
-Además de los requisitos señalados en el artículo anterior, deberá anexarse la documentación siguiente:
-
-I.- Copia certificada del acta de nacimiento, expedida por el Registro del Estado Civil de las Personas, para acreditar la mayoría de edad y la calidad de mexicano, en el caso de personas físicas;
-
-II.- Testimonio de la escritura pública constitutiva y sus modificaciones si se trata de personas morales;
-
-III.- Poder Notarial que especifique, las facultades otorgadas a los representantes de las personas morales, para actuar a nombre de su representada;
-
-IV.- Plano de la ruta o zona de que se trate y croquis de las calles comprendidas en el itinerario así como el recorrido, con el señalamiento del lugar elegido para establecer la base, terminal o sitio, que se indican en la solicitud, según sea el caso;
-
-V.- Proyecto de horarios, frecuencias de paso, itinerarios y demás características propias del servicio de que se trate;
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
-
-VI.- Constancia de no antecedentes penales, expedida por la Fiscalía General del Estado, o no encontrarse sujeto a proceso penal por delito doloso;
-
-VII.- Comprobante del depósito de garantía del trámite correspondiente, y
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2014)</small>
-
-VIII.- Los demás requisitos que señalen esta Ley y sus Reglamentos y las normas que emita la autoridad competente.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 63.
-
-Admitida la solicitud, satisfechos los requisitos establecidos en esta Ley, sus Reglamentos y normas aplicables, previo dictamen emitido por la autoridad competente y una vez realizado el pago de los derechos correspondientes, se expedirá el "TITULO DE CONCESIÓN".
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 64.
-
-El "TITULO DE CONCESIÓN" es el documento que se otorga al concesionario, para hacer constar el acto jurídico-administrativo por el cual la autoridad competente, autoriza a una persona física o moral, a prestar un Servicio Público de Transporte, cumpliendo determinadas condiciones.
-
-###### ARTICULO 65.
-
-El "TITULO DE CONCESION" a que se refiere el artículo anterior, contendrá lo siguiente:
-
-I.- Los fundamentos legales aplicables;
-
-II.- Nombre y datos del concesionario, se trate de una persona física o moral;
-
-III.- Número de concesión.
-
-IV.- Tipo del servicio;
-
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
-
-V.- Tipo de vehículo;
-
-VI.- En caso de personas morales, los vehículos que amparan la concesión;
-
-VII.- Obligaciones y derechos de los concesionarios con relación al servicio;
-
-VIII.- Causas de revocación de la concesión;
-
-IX.- Prohibiciones expresas;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-X.- Facultades de las autoridades con relación a la vigilancia y control del servicio concesionado;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-XI.- Nombre del beneficiario y/o beneficiarios substitutos;
-
-XII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2018)
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-XIII.- Itinerarios en la prestación del servicio; y
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-XIV.- Lugar y fecha de expedición y firma de la autoridad concedente.
-
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2014)</small>
-
-XV.- La prevención de que la autoridad competente podrá rescatar e intervenir la concesión por causas de utilidad pública.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-En caso del permiso que se otorga al Servicio de Transporte Mercantil de personas en su modalidad de alquiler o taxi, será aplicable lo previsto por este artículo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2014)</small>
-
-ARTICULO 65 BIS.- Los títulos de concesión que se otorguen para prestar el servicio del Sistema de Transporte Público Masivo, además de los requisitos establecidos en el artículo 65 de esta Ley, deberán considerar:
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2014)</small>
-
-I.- La prevención de que Carreteras de Cuota-Puebla no otorgará concesiones a terceras personas o derechos a otros concesionarios para prestar el Servicio de Transporte Público Masivo en la ruta concesionada, cuando con ello se impacten significativamente los ingresos de la misma;
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2014)</small>
-
-II.- Que la actualización anual de la tarifa genérica que se aplicará al Servicio de Transporte Público Masivo y que será pagada por el usuario, se determinará y ajustará con base en el resultado del estudio técnico que al efecto realice Carreteras de Cuota-Puebla, propiciando la autosuficiencia financiera del servicio y procurando satisfacer especialmente las necesidades del usuario; y
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2014)</small>
-
-III.- Los términos y condiciones en los que proceda el reembolso al concesionario del monto de las inversiones que demuestre haber realizado, cuando por causas no justificadas imputables a la autoridad, se vea afectada la operación del Sistema de Transporte Público Masivo.
-
-IV.- (DEROGADA, P.O. 10 DE JUNIO DE 2014)
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
-
-###### ARTICULO 66.
-
-En igualdad de circunstancias respecto de otros solicitantes, se procurará dar preferencia a las personas físicas y/o morales que cuenten con las mejores condiciones técnicas, financieras y de operación necesarias para la prestación del mismo.
-
-REFORMADO, P.O. 10 DE AGOSTO DE 2012)
-
-###### ARTICULO 67.
-
-Los trámites para obtener una concesión de cualquiera de los tipos del Servicio de Transporte Público; así como los trámites administrativos relacionados a las concesiones, deberán llevarse a cabo personalmente por el interesado, tratándose de persona física, o por el representante legal debidamente autorizado de las sociedades u organismos transportistas.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-La entrega de la concesión y demás documentos, será un trámite personalísimo; lo anterior de conformidad con la normatividad que para estos efectos emita la autoridad competente, observando en su caso lo dispuesto por las disposiciones legales relativas al uso de medios electrónicos, a fin de agilizar, simplificar y hacer más accesibles los actos y trámites realizados ante la Dependencia.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-En caso de que la autoridad competente determine que es procedente el otorgamiento de una concesión y lo notifique al interesado, éste deberá presentar el vehículo o vehículos con los que pretenda prestar el servicio, así como la documentación correspondiente, de conformidad con lo señalado en el Reglamento respectivo, en un término que no exceda de sesenta días naturales; si aquél no cumple, la autoridad competente declarará el abandono del trámite, sin responsabilidad para ésta. El importe de la garantía otorgada se perderá a favor del Gobierno del Estado.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-Lo señalado en el párrafo anterior aplicará para cualquier trámite administrativo relacionado a las concesiones y al que el interesado no dé continuidad o no realice promoción alguna ante la autoridad competente en el término citado.
-
-###### ARTICULO 68.
-
-Las personas físicas que aspiren a prestar el Servicio Público de Transporte, deberán ser mayores de edad. A cada concesión corresponderá un sólo vehículo, en caso de que el concesionario desee constituirse en una persona moral deberá cumplir con los requisitos establecidos por la presente Ley y sus Reglamentos.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 69.
-
-Las personas morales debidamente constituidas, que aspiren a prestar el Servicio Público de Transporte, se les otorgarán el número de concesiones para satisfacer el servicio de que se trate, previo estudio técnico que al efecto realice la autoridad competente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2018)</small>
-
-###### ARTICULO 70.
-
-Las concesiones que se otorguen a las personas físicas o jurídicas para prestar el Servicio Público de Transporte, tendrán una vigencia indeterminada, siempre y cuando se encuentren al corriente en sus obligaciones previstas en esta Ley y su Reglamento, o con el pago de las contribuciones que se vinculen con la propiedad, tenencia o uso o prestación de servicios relacionados con el vehículo materia de la concesión de que se trate, establecidos en las disposiciones fiscales del Estado.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-Lo previsto en el párrafo anterior, no libera al concesionario de la obligación de prestar el servicio con vehículos que no excedan de diez años de antigüedad en las rutas urbanas y transporte público masivo y doce años de antigüedad en las rutas suburbanas y foráneas, ni de realizar el trámite anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, en términos de la Ley de Ingresos del Estado vigente.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
-
-Las concesiones que se otorguen para prestar el Sistema de Transporte Público Masivo, tendrán una vigencia de hasta treinta años; quedarán sujetas a lo establecido en esta Ley y su Reglamento, así como a lo señalado en el Título de Concesión respectivo.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 71.
-
-La revocación de las concesiones sólo podrá ser declarada por la autoridad competente, una vez que se haya cumplido con el procedimiento establecido en esta Ley y sus Reglamentos.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 72.
-
-La autoridad competente podrá, en los casos en que prevalezca el interés público o cuando existan violaciones al título de concesión, la Ley o sus Reglamentos, cometidas por el concesionario, advertir al concesionario de tales violaciones, para que ajuste sus servicios a lo que señala el título de concesión, la presente Ley o sus Reglamentos aplicables. Lo anterior sin perjuicio de que cuando sea procedente, asumir en forma directa el servicio concesionado.
-
-Si el concesionario no cumple con las disposiciones legales, la autoridad competente podrá revocar la concesión, en términos de las disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-ARTICULO 72 BIS.- La Secretaría y Carreteras de Cuota-Puebla, podrán rescatar las concesiones por causa de utilidad pública o interés general. En la declaratoria de rescate se establecerán las bases generales que servirán para fijar el monto de la indemnización que haya de cubrirse al concesionario, en los términos fijados en el Reglamento.
-
-La declaratoria de rescate deberá ser notificada por escrito al afectado y publicada en el Periódico Oficial del Estado.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-ARTICULO 72 TER.- En cualquier momento, la Secretaría o Carreteras de Cuota Puebla, podrán intervenir el Servicio Público de Transporte, en el ámbito de su competencia, cuando se interrumpa o afecte la prestación eficiente y continua del mismo.
-
-En estos casos, se emitirá de manera fundada y motivada el acuerdo correspondiente, señalando con precisión la parte del Servicio Público de Transporte que se afecta; el tiempo que habrá de durar o si es indefinido; la forma en que la Secretaría o Carreteras de Cuota-Puebla participarán en el servicio y, en su caso, las correcciones que se pretenden alcanzar.
-
-Cuando la afectación del servicio se motive en alguna causa imputable al concesionario, el costo que se origine con motivo de la intervención, será a cuenta de los ingresos que le correspondan por la explotación de la concesión.
-
-El acuerdo de intervención deberá ser notificado por escrito al afectado y publicado en el Periódico Oficial del Estado.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 73.
-
-Para el caso de que se revoque, rescate o intervenga una concesión, su titular estará impedido para gestionar otra, según lo determine la autoridad competente en relación a la falta cometida, de acuerdo a las disposiciones legales aplicable (sic).
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-ARTICULO 73 BIS.- La autoridad competente podrá autorizar la entrada de rutas ya establecidas o de nueva creación, previo acuerdo de procedencia, cuando exista oposición a prestar el servicio por parte de las rutas ya establecidas, independientemente de las sanciones que establezca esta Ley y su Reglamento.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 74.
-
-Con el fin de hacer eficiente la prestación del Servicio Público de Transporte, la autoridad competente, al crear, modificar, reasignar, reubicar, fusionar o incrementarlo, podrá promover la creación de sociedades conforme a las leyes mexicanas, con el fin de garantizar un transporte moderno, eficaz, funcional y seguro.
-
-### CAPITULO III. LOS PERMISOS PARA EL SERVICIO DE TRANSPORTE MERCANTIL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
-
-###### ARTICULO 75.
-
-Requieren del otorgamiento de un permiso o autorización los siguientes Servicios de Transporte Mercantil:
-
-I.- Los automóviles de Alquiler o Taxis;
-
-II.- El transporte Escolar;
-
-III.- El transporte de Personal;
-
-IV.- El transporte de Turismo;
-
-V.- El transporte de Servicio Extraordinario;
-
-(REPUBLICADA, P.O. 28 DE AGOSTO DE 2015)
-
-VI.- Los Taxis Locales;
-
-VII.- El transporte de Carga Ligera;
-
-VIII.- El transporte de Mudanzas;
-
-IX.- Mensajería y Paquetería;
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
-
-X.- Los de carga especializada de materiales y desechos peligrosos;
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
-
-XI.- Los que transporten todo tipo de mercancías que excedan de 500 kilogramos de carga útil; y
-
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
-
-XII.- Grúas de arrastre y salvamento.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-###### ARTICULO 76.
-
-Los requisitos que deberán reunir los interesados para obtener los permisos o autorizaciones relativas al servicio a que se refieren las fracciones VII, VIII, IX y XII del artículo anterior, serán los que se establezcan en las disposiciones administrativas que emita y publique para tal efecto la Secretaría.
-
-###### ARTICULO 77.
-
-Los permisos para el Servicio de Transporte en Automóviles de Alquiler o Taxis concedidos a personas físicas, serán personales y amparan un solo vehículo.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
-
-###### ARTICULO 78.
-
-A las personas morales debidamente constituidas que aspiren a prestar el Servicio de Transporte con Automóviles de Alquiler o Taxi y los denominados Taxis Locales, se les otorgará los permisos para satisfacer el servicio de que se trate, previo estudio que determine la Secretaría.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
-
-ARTICULO 78 BIS.- Los trámites para obtener un permiso o autorización de cualquiera de los tipos del Servicio de Transporte Mercantil; así como los trámites administrativos relacionados a los permisos o autorizaciones, deberán llevarse a cabo personalmente por el interesado, tratándose de persona física, o por el representante legal debidamente autorizado de las sociedades u organismos transportistas.
-
-La entrega del permiso o autorización y demás documentos, será un trámite personalísimo; lo anterior de conformidad con la normatividad que para estos efectos emita la Secretaría, observando en su caso lo dispuesto por las disposiciones legales relativas al uso de medios electrónicos, a fin de agilizar, simplificar y hacer más accesibles los actos y trámites realizados ante la Dependencia.
-
-En caso de que la Secretaría determine que es procedente el otorgamiento de un permiso y lo notifique al interesado, éste deberá presentar el vehículo o vehículos con los que pretenda prestar el servicio, así como la documentación correspondiente de conformidad con lo señalado en el Reglamento respectivo, en un término que no exceda de sesenta días naturales; si aquél no cumple, la Secretaría declarará el abandono del trámite, sin responsabilidad para ésta. El importe de la garantía otorgada se perderá a favor del Gobierno del Estado.
-
-Lo señalado en el párrafo anterior aplicará para cualquier trámite administrativo relacionado a los permisos y que el interesado no promueva ante la Secretaría en el término citado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2018)</small>
-
-###### ARTICULO 79.
-
-Los permisos o autorizaciones a que hace referencia la presente Ley, tendrán una vigencia hasta de un año con excepción de los permisos del Servicio del Transporte Mercantil de personas en su modalidad de alquiler o taxi y de los Taxis Locales, tendrán una vigencia indeterminada, siempre y cuando se encuentren al corriente en sus obligaciones establecidas en esta de (sic) Ley y su Reglamento y con el pago de las contribuciones que se vinculen con la propiedad, tenencia o uso o prestación de servicios relacionados con el vehículo materia del permiso o autorización de que se trate, establecidos en las disposiciones fiscales del Estado.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-El registro para Empresas de Redes de Transporte a que se refiere el artículo 92 Quater de la presente Ley, tendrá una vigencia de diez años.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-Para el caso de los permisos del Servicio de Transporte Mercantil de Personas en su modalidad de alquiler o Taxi y Taxis locales, deberán prestar el servicio con vehículos que no excedan de siete años de antigüedad.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-Los demás vehículos que prestan los servicios de transporte mercantil a que se refiere esta Ley, contarán con la antigüedad y condiciones que señale la normatividad aplicable.
-
-###### ARTICULO 80.
-
-El Secretario podrá, en los casos en que prevalezca el interés público o cuando existan reiteradas violaciones al permiso, la Ley o sus Reglamentos, cometidas por el permisionario, advertir al mismo de tales violaciones, para que ajuste sus servicios a lo que señala el permiso, la presente Ley o sus Reglamentos aplicables.
-
-Si el permisionario no cumple con las disposiciones legales, el Secretario podrá cancelar el permiso en términos de las leyes aplicables, notificando al titular de los mismos, o en su caso, al representante legal debidamente acreditado; conforme al procedimiento establecido en los Reglamentos de esta Ley.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2015)</small>
-
-### CAPÍTULO IV. DE LOS REGISTROS ESTATAL VEHICULAR, DE CONCESIONES, PERMISOS Y EMPRESAS DE REDES DE TRANSPORTE
-
-> <small>[N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA AL PRESENTE ARTÍCULO PUBLICADA EN EL P.O. 10 DE JUNIO DE 2014, SE ADVIERTE QUE ESTE ARTÍCULO HA QUEDADO EN DOS PÁRRAFOS, VÉASE LA PÚBLICAIÓN OFICIAL, PÁGINA 9.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 81.
-
-La autoridad competente integrará y operará un registro de datos computarizados, respecto de las concesiones y permisos otorgados; el cual contendrá toda la información respectiva.
-
-Igualmente, registrará en el mismo banco de datos, los cambios que se lleven a cabo.
-
-###### ARTICULO 82.
-
-Satisfechos los requisitos exigidos a que se refiere esta Ley y las leyes fiscales aplicables, se inscribirá el vehículo en el Registro de Concesiones y Permisos del Servicio de Transporte Público y del Servicio Mercantil de la Secretaría, y se procederá a la entrega del juego de placas, de la tarjeta de circulación, de las calcomanías, del tarjetón de concesión o del tarjetón de permiso según sea el caso, y de los demás documentos correspondientes.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-Carreteras de Cuota-Puebla llevará un registro, que contendrá la información relativa al Sistema de Transporte Público Masivo.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-###### ARTICULO 83.
-
-La Secretaría y Carreteras de Cuota-Puebla llevarán además, un registro de las sociedades que presten algún Servicio Público de Transporte o Servicio Mercantil, o en su caso, de los servicios auxiliares, así como de las Empresas de Redes de Transporte y las que se basan en el uso de las plataformas complementarias a que se refiere esta Ley y sus Reglamentos, según corresponda a su respectiva competencia.
-
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2018)</small>
-
-###### ARTICULO 84.
-
-Cuando con posterioridad al registro del vehículo del Servicio Público de Transporte o del Servicio del Transporte Mercantil, se pretenda realizar el cambio de unidad, o en su caso, modificar las características o los datos de la misma, deberá contarse previamente con la autorización de la autoridad competente, así como realizar el pago correspondiente ante la Secretaría de Finanzas y Administración. En seguida, se incluirán los cambios procedentes en el registro computarizado a que se refiere esta Ley. Se podrá sustituir el vehículo correspondiente de una capacidad mayor a una menor, en concordancia con lo que establece el artículo 52 de la presente Ley y previo estudio técnico correspondientes.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2015)</small>
-
-### CAPÍTULO V. LAS OBLIGACIONES DE LOS CONCESIONARIOS, PERMISIONARIOS Y DE LAS EMPRESAS DE REDES DE TRANSPORTE
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-###### ARTICULO 85.
-
-Los concesionarios, los permisionarios y las Empresas de Redes de Transporte tendrán en todo tiempo, la obligación de capacitarse, así como la de proporcionar a sus conductores la capacitación, adiestramiento, o profesionalización necesarios para lograr que la prestación de los servicios a su cargo sea eficiente, segura y con apego a las políticas de igualdad de género, no discriminación y respeto a los derechos humanos, con sujeción a las disposiciones de la presente Ley, su Reglamento y las demás disposiciones legales aplicables.
-
-También deberán realizar campañas informativas para prevenir la violencia de género, la discriminación o violación de derechos humanos.
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-ARTICULO 85 BIS.- Los concesionarios, los permisionarios y las Empresas de Redes de Transporte, tendrán en todo momento, la obligación de informar a la autoridad competente, a través de los medios que disponga la Secretaría, el nombre y datos personales de los conductores o choferes con quienes tengan relación para la explotación o prestación del Servicio Público de Transporte, del Servicio Mercantil y del Servicio Ejecutivo.
-
-Los conductores o choferes a que se refiere el párrafo anterior, no podrán conducir los vehículos destinados al Servicio Público de transporte, al Servicio Público Mercantil o al Servicio Ejecutivo, hasta que se informe a la autoridad competente. La información respectiva deberá actualizarse por lo menos una vez al mes ante la autoridad correspondiente y en cada caso concreto, cuando las circunstancias lo requieran. La inobservancia de esta disposición tendrá como consecuencia la revocación de la concesión, la cancelación del permiso o la conclusión del registro.
-
-Las autoridades del transporte podrán, en todo momento, supervisar y vigilar el cumplimiento de la obligación a que hace referencia el párrafo anterior de conformidad con lo previsto en la presente Ley, su Reglamento y las reglas que para tales efectos se publiquen en el Periódico Oficial del Estado.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
-
-###### ARTICULO 86.
-
-Los concesionarios y los permisionarios, se obligan a que los conductores de sus unidades, tengan vigente la Licencia de Conducir que corresponda a la clase de servicio que se preste, y el gafete de identificación, así como los certificados de capacitación procedentes; la inobservancia de esta disposición, tendrá como resultado la aplicación de la sanción a que haya lugar.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-###### ARTICULO 87.
-
-Los concesionarios y los permisionarios del Servicio Público de Transporte y del Servicio de Transporte Mercantil, deberán cumplir cuando lo determine la autoridad competente, con la revista vehicular a fin de evaluar el cumplimiento de las condiciones y características físico-mecánicas de los vehículos, señaladas en el Reglamento de esta Ley y de conformidad con las disposiciones administrativas emitidas por la autoridad competente.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
-
-La cuota que deberá cubrir el titular de la concesión o permiso por el análisis físico-mecánico de los vehículos, será la que señale la Ley de Ingresos del Estado para el ejercicio fiscal vigente.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 88.
-
-Los concesionarios y los permisionarios del Servicio Público de Transporte y del Servicio Mercantil y sus Servicios Auxiliares, están obligados a proporcionar, en todo tiempo a la autoridad competente, los datos, informes y documentos relativos a la prestación del servicio que les sean requeridos; así como, a permitir el acceso a las instalaciones de los Servicios Auxiliares, en términos de la orden escrita que emita la autoridad competente.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-ARTICULO 88 BIS.- Los concesionarios y los permisionarios del Servicio Público de Transporte y del Servicio Mercantil y sus Servicios Auxiliares, están obligados a proporcionar, en todo tiempo, a los Supervisores, los datos, informes y documentos relativos a la prestación del servicio que les sean requeridos; así como, a permitir el acceso a las instalaciones de los Servicios Auxiliares; en este último caso, en términos de la orden escrita de supervisión emitida por la Secretaría.
-
-###### ARTICULO 89.
-
-Los concesionarios y los permisionarios serán responsables solidarios respecto de los daños y perjuicios que causen sus conductores con motivo de la prestación del Servicio Público de Transporte y del Servicio Mercantil.
-
-###### ARTICULO 90.
-
-Los concesionarios y los permisionarios serán responsables solidarios de sus conductores respecto de las infracciones en que incurran durante la prestación del Servicio Público de Transporte y del Servicio Mercantil.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 91.
-
-Los concesionarios y permisionarios deberán pagar anualmente los derechos que en su caso se causen por los servicios que preste la autoridad competente, derivados de esta Ley.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 92.
-
-Los concesionarios y los permisionarios se obligan a contratar, a satisfacción de la autoridad competente, un seguro de viajero que proteja a sus ocupantes y daños a terceros, con una institución registrada en la Comisión Nacional de Seguros y Fianzas, con motivo de la prestación del Servicio Público de Transporte y Servicio Mercantil; igualmente se obligan, a través de sus conductores, a la utilización del boleto de pasaje del usuario.
-
-Además deberán contar con el espacio físico suficiente para la guarda de los vehículos, que se encuentren fuera de servicio, de acuerdo con las condiciones que establezca la autoridad competente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2014)</small>
-
-ARTICULO 92 BIS.- Los derechos y obligaciones derivados de una concesión para la prestación del Servicio Público de Transporte o del Servicio de Transporte Mercantil, no podrán enajenarse. Para cualquier tipo de transmisión a título gratuito u oneroso que se realice por acto entre vivos o por causa de muerte, se requerirá la autorización previa de la autoridad competente; su incumplimiento originará la nulidad respectiva.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-La persona que haya cedido los derechos de la concesión de la cual fue titular, no podrá adquirir nuevas concesiones o permisos.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-ARTICULO 92 TER.- Queda prohibido que se coloque publicidad o propaganda impresa y electrónica en los costados o frente de cualquier vehículo destinado al Servicio Público de Transporte, únicamente se podrá colocar publicidad en el interior del vehículo, así como en el medallón del mismo, previa autorización que otorgue la autoridad competente, de conformidad con las disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
-
-La publicidad o propaganda impresa y electrónica autorizada a cualquier vehículo destinado al Servicio Público de Transporte, por ningún motivo podrá incluir contenido sexista, degradante o peyorativo sobre la mujer, entendiéndose a este tipo de contenido como aquel que presenta hechos, acciones, símbolos y expresiones basadas en estereotipos de los roles de género que atribuyan o asocien características denigrantes, de exclusión, de sumisión, de racismo, de burla, de animadversión o cualquier otra forma de discriminación hacia el género femenino.
-
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-ARTICULO 92 QUATER.- Las Empresas de Redes de Transportes a que se refiere el artículo 12 Bis de la presente Ley, están obligadas a:
-
-I.- Registrarse ante la Secretaría, proporcionando la documentación siguiente:
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-a) Acta constitutiva de la empresa legalmente constituida para operar en los Estados Unidos Mexicanos con cláusula de admisión de extranjeros, cuyo objeto social incluya entre otros, desarrollo de programas de cómputo o prestación de servicios tecnológicos de su propiedad o sus subsidiarias o filiales, mediante el cual se preste el servicio a que se refiere el artículo 12 fracción V Apartado D de la presente Ley;
-
-b) Documento que acredite la designación del representante legal;
-
-c) Comprobante domiciliario en el Estado de Puebla; y
-
-d) Registro Federal de Contribuyentes.
-
-II.- Entregar a la Secretaría, copia de la declaración fiscal del ejercicio inmediato anterior,
-
-III.- Demostrar ante la Secretaría con documento idóneo, ser propietaria, subsidiaria o licenciataria de aplicaciones que le permita operar como Empresa de Redes de Transporte,
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-IV.- Proporcionar a la Secretaría, de manera mensual, el registro de sus conductores debidamente certificados a que se refiere el artículo 45 Ter de esta Ley; de los vehículos con los que se presta el Servicio Ejecutivo y la cantidad de servicios que se presten en dicha modalidad;
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-V.- Cubrir las contribuciones y aportaciones que se establezcan en las disposiciones legales fiscales del Estado;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-VI.- Atender todos los requerimientos de la autoridad competente, en razón de seguridad o investigación, permitiendo el acceso a las tecnologías de teléfonos inteligentes, sistemas de posicionamiento global y plataformas tecnológicas que utilicen para la prestación del servicio, en el caso a que se refieren esos requerimientos, para obtener la información necesaria para desarrollar sus funciones.
-
-Será causa de cancelación del registro, alterar de cualquier forma la información contenida en las plataformas tecnológicas de las Empresas de Redes de Trasporte (sic);
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-VII.- Vigilar que los usuarios concluyan los viajes para los cuales solicitaron el servicio y en caso de que no se pueda verificar la conclusión oportuna, deberán informar de inmediato a la Secretaría;
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-VIII.- Establecer una política clara de no discriminación, que deberán mantener accesible a usuarios y prestadores del Servicio Ejecutivo. La Empresa de Redes de Transporte implementará medidas de cero tolerancia en el quebranto de dicha política;
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-IX.- Suministrar a usuarios y conductores información que ayude a evitar la violencia de género y la discriminación y fomente la conservación de los derechos humanos, a efecto de crear conciencia sobre dichos temas en la totalidad de personas que utilicen la plataforma tecnológica mediante la cual se preste el Servicio Ejecutivo;
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-X.- Para proteger la seguridad de los usuarios del Servicio Ejecutivo, las Empresas de Redes de Transporte, deberán, en todos y cada uno de los viajes realizados, suministrar la siguiente información al usuario:
-
-A.- Con anterioridad al inicio del viaje y tan pronto el servicio sea solicitado, la Empresa de Redes de Transporte deberá asegurarse que el usuario reciba la información correspondiente siguiente:
-
-1.- El nombre del conductor que prestará el Servicio Ejecutivo de transporte;
-
-2.- Fotografía del conductor que está prestando el Servicio Ejecutivo de transporte;
-
-3.- El número de placa del vehículo a través del cual se prestará el Servicio Ejecutivo;
-
-4.- La marca y el modelo del vehículo a través del cual se prestará el Servicio Ejecutivo;
-
-5.- La tarifa estimada del viaje;
-
-6.- Calificación acumulada, otorgada por otros usuarios al prestador del Servicio Ejecutivo en cuestión, y
-
-7.- El tiempo estimado en que el prestador del Servicio Ejecutivo tardará en llegar al punto de partida.
-
-La información señalada en los numerales 1 al 5, será puesta a disposición del usuario durante la totalidad de la prestación del Servicio Ejecutivo de transporte en cuestión.
-
-Para efectos de lo establecido en el numeral 6, las Empresas de Redes de Transporte facilitarán y promoverán sistemas de evaluación y retroalimentación entre usuarios y conductores de la aplicación tecnológica mediante la cual se preste el Servicio Ejecutivo.
-
-B.- Una vez iniciado el Servicio Ejecutivo y durante la prestación del mismo hasta su fin, la Empresa de Redes de Transporte deberá informar al usuario:
-
-1.- La duración estimada por el viaje, y
-
-2.- El recorrido del viaje, en tiempo real, mediante sistemas de localización satelital que arroje el dispositivo móvil del prestador del Servicio Ejecutivo.
-
-C.- Sin perjuicio de lo anterior, las Empresas de Redes de Transporte deberán asegurarse que se habiliten mecanismos tanto de alertamiento en caso de amenaza o riesgo para el usuario y/o el conductor, el cual avise de manera inmediata a la empresa y a un contacto previamente establecido, así como de seguimiento para que, en cualquier momento durante el trayecto, el usuario pueda compartir, si lo desea, información de su viaje, en tiempo real, con quien éste decida, a través de su dispositivo móvil. Dicha información deberá ser, por lo menos, la siguiente:
-
-1.- Aviso de inicio y de finalización del viaje en cuestión;
-
-2.- El nombre del conductor que está prestando el Servicio Ejecutivo de Transporte;
-
-3.- Fotografía del conductor que está prestando el Servicio Ejecutivo de Transporte;
-
-4.- El número de placa del vehículo a través del cual se está prestando el Servicio Ejecutivo;
-
-5.- La marca y el modelo del vehículo a través del cual se prestará el Servicio Ejecutivo, y
-
-6.- El recorrido del viaje, en tiempo real, mediante sistemas de localización satelital que arroje el dispositivo móvil del prestador del Servicio Ejecutivo.
-
-D.- Una vez concluido el Servicio Ejecutivo de Transporte, la Empresa de Redes de Transporte se asegurará que el usuario reciba, mediante el correo electrónico registrado por dicho usuario, un extracto del viaje completado, mismo que deberá incluir, por lo menos, la siguiente información:
-
-1.- Fecha en que se realizó el viaje;
-
-2.- Precio total cobrado al usuario;
-
-3.- Tiempo total del traslado y número de kilómetros recorridos;
-
-4.- Punto de inicio de recorrido y punto de destino;
-
-5.- Hora de inicio y hora de finalización del viaje, y
-
-6.- Nombre y fotografía del prestador del Servicio Ejecutivo correspondiente.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XI.- Las Empresas de Redes de Transporte deberán asegurar la existencia de un registro, en los sistemas tecnológicos de la compañía, que resguarde la totalidad de viajes realizados por los prestadores del Servicio Ejecutivo relacionados a la aplicación tecnológica que aquéllas promuevan, así como la totalidad de la información mencionada en la fracción X anterior, por un mínimo de dos años a partir de la finalización de cada viaje.
-
-De igual forma, las Empresas de Redes de Transporte deberán garantizar que cada usuario de la aplicación tecnológica en cuestión y cada prestador del Servicio Ejecutivo relacionado con la misma, tendrán acceso a su propio historial de viajes o servicios;
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XII.- Poner a disposición de los usuarios un sistema de comunicación seguro y anónimo de llamadas y mensajes de texto dentro de la aplicación mediante la cual se preste el Servicio Ejecutivo, con el objetivo de establecer comunicación entre prestador del Servicio Ejecutivo y usuario, para, entre otras cosas, acordar puntos de inicio de recorrido en lugares seguros;
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XIII.- Verificar que se encuentren vigentes y actualizados los requisitos a que hace referencia el artículo 45 Ter de la presente Ley, y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-XIV.- Las demás que señalen las disposiciones legales aplicables y las Reglas de Carácter General.
-
-## TITULO QUINTO. DE LOS SERVICIOS AUXILIARES DEL TRANSPORTE ESTATAL
-
-### CAPITULO I. CLASIFICACION DE LOS SERVICIOS AUXILIARES
-
-###### ARTICULO 93.
-
-Son Servicios Auxiliares los bienes muebles e inmuebles inherentes a la prestación del Servicio Público de Transporte y del Servicio Mercantil, previstos por esta Ley y sus Reglamentos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 94.
-
-La Secretaría o Carreteras de Cuota-Puebla, en el ámbito de sus competencias, regularán los servicios auxiliares siguientes:
-
-I.- Las terminales de pasajeros;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-II.- Los paraderos que conforman el Sistema de Transporte Público Masivo;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-III.- Los Centros y/o Terminales de Transferencia del Sistema de Transporte Público Masivo;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-IV.- Los Centros y/o Terminales de Transferencia Multimodal del Sistema de Transporte Público Masivo;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-V.- Los talleres de mantenimiento del Sistema de Transporte Público Masivo;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-VI.- Los patios de encierro del Sistema de Transporte Público Masivo;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-VII.- Las terminales interiores de carga;
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-VIII.- Las terminales de transferencia;
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-IX.- Los sitios;
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-X.- La base de servicio público;
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-XI.- El arrastre, traslado y depósito de vehículos del Servicio Público de Transporte y el Servicio Mercantil; y
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-XII.- Los Centros de Capacitación, Adiestramiento o Profesionalización.
-
-###### ARTICULO 95.
-
-Terminales de pasajeros son las instalaciones auxiliares del Servicio Público de Transporte y del Servicio Mercantil, en donde se efectúa la salida y llegada de vehículos para el ascenso y descenso de viajeros, así como los lugares predeterminados en los cuales los vehículos destinados al transporte de pasajeros tengan su concentración para la prestación del servicio.
-
-Tratándose del transporte de carga son terminales aquellos lugares en los que se efectúa la recepción, almacenamiento y despacho de mercancías, en las cuales se realiza el acceso, estacionamiento y salida de los vehículos destinados a este servicio.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-###### ARTICULO 95 Bis.
-
-Los paraderos que conforman el Sistema de Transporte Público Masivo son aquellos espacios en los Corredores delimitados y señalizados, que fungen como zona de transferencia donde se permite efectuar el ascenso y descenso de pasajeros.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-###### ARTICULO 95 Ter.
-
-Los Centros y/o Terminales de Transferencia del Sistema de Transporte Público Masivo son aquellas instalaciones que permiten transferencias entre los servicios de alimentación, auxiliares, otros corredores y el corredor troncal, confinado y/o preferencial.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-###### ARTICULO 95 Quater.
-
-Los Centros y/o Terminales de Transferencia Multimodal del Sistema de Transporte Público Masivo son aquellas instalaciones que permiten transferencias entre los servicios de alimentación, auxiliares, otros corredores con el corredor troncal, confinado y/o preferencial con otros modos de transporte.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-###### ARTICULO 95 Quinquies.
-
-Los talleres de mantenimiento del Sistema de Transporte Público Masivo son aquellas instalaciones en donde el concesionario de Transporte Público Masivo, por sí o a través de terceros, realizará el equipamiento necesario a fin de dar mantenimiento preventivo y correctivo a los autobuses objeto de su concesión.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-###### ARTICULO 95 Sexies.
-
-Los patios de encierro del Sistema de Transporte Público Masivo son aquellas instalaciones que cumplen múltiples tareas del sistema, incluyendo el estacionamiento de la flota, retanqueo de los vehículos, lavado, servicio y reparación menor, servicios para los empleados y apoyo administrativo para los operadores.
-
-###### ARTICULO 96.
-
-Las terminales interiores de carga son instalaciones auxiliares al Servicio del Transporte Mercantil en las que se brindan a terceros servicios de carga y descarga de mercancías, y otros complementarios tales como acarreo, consolidación y desconsolidación de cargas, vigilancia y custodia de mercancía, debiendo emitir la Secretaría su opinión a las autoridades federales cuando así corresponda.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 97.
-
-Terminal de transferencia es la instalación con características especiales, autorizada por la autoridad competente, en donde convergen dos o más líneas del Servicio Público de Transporte y en la cual el usuario puede transbordar de una a otra.
-
-###### ARTICULO 98.
-
-Sitio es la superficie autorizada de la infraestructura vial o de propiedad particular, para que los vehículos del servicio de alquiler o taxis puedan estacionarse, durante su horario de servicio.
-
-###### ARTICULO 99.
-
-Base de servicio público es la ubicada en el punto de origen y destino de la ruta establecida, estipulándose el número de unidades que deberán estar estacionadas. En algunos casos sólo es de paso, de acuerdo con las condiciones de operación vehicular de su ubicación.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 100.
-
-Arrastre, traslado y depósitos de vehículos del Servicio Público de Transporte y del Servicio Mercantil, es el servicio auxiliar que presta la autoridad competente, a fin de movilizar y resguardar los vehículos del Servicio Público de Transporte y del Servicio Mercantil.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 101.
-
-Centros de Capacitación, Adiestramiento o Profesionalización, son las Instituciones u Organismos Públicos o Privados, que cuenten con la autorización oficial que la autoridad competente en materia del transporte otorgue, destinadas a enseñar todo lo relacionado con la conducción, operación y prestación del servicio de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, a fin de facultar a los prestadores de éstos para que lo realicen de manera eficiente y segura.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 102.
-
-Para el establecimiento de terminales de pasajeros de competencia federal en jurisdicción del Estado, la autoridad federal deberá previamente obtener la autorización correspondiente por parte de la autoridad competente, cumpliendo con los requisitos que ésta última determine en función de las características que requiera dicha terminal, así como cumplir con los requisitos que establezcan las autoridades competentes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 103.
-
-La autoridad competente, podrá concesionar los Servicios Auxiliares señalados en las fracciones I, II, III, IV, V, VI, VII, VIII, XI y XII del artículo 94, de conformidad con la presente Ley.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-Las concesiones que se otorguen para los Servicios Auxiliares deberán sujetarse a los procedimientos establecidos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público Estatal y Municipal o demás disposiciones legales aplicables.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-Respecto a la regulación de los sitios, la autoridad competente otorgará las autorizaciones correspondientes a través de permisos y con relación a las bases del servicio público, éstas se establecerán en el itinerario correspondiente a las concesiones.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-En lo relativo a los Centros de Capacitación, Adiestramiento o Profesionalización, la autoridad competente expedirá la autorización correspondiente, tanto a las instituciones públicas o privadas, para el reconocimiento como Centro de Capacitación, Adiestramiento o Profesionalización, lo anterior sin menoscabo de cumplir con los requisitos que se establezcan en otras disposiciones normativas aplicables.
-
-###### ARTICULO 104.
-
-Para los efectos del artículo anterior, los servicios auxiliares susceptibles de concesión, se regirán por lo establecido en el Título de Concesiones de esta Ley y sus Reglamentos.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 105.
-
-Sólo se otorgará una concesión o permiso a los solicitantes para cada servicio auxiliar de que se trate, previo cumplimiento de los requisitos que determine la autoridad competente.
-
-###### ARTICULO 106.
-
-El procedimiento para la suspensión, revocación y terminación de las concesiones y permisos de los servicios auxiliares, se efectuará atendiendo a lo dispuesto por los Reglamentos de esta Ley.
-
-### CAPITULO II. TERMINALES, SITIOS Y BASES
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 107.
-
-Para la prestación del Servicio Público de Transporte, la autoridad competente establecerá la ubicación y condiciones de los diferentes tipos de terminales, en términos de lo dispuesto por los Reglamentos de esta Ley.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 108.
-
-La autoridad competente, podrá autorizar a los concesionarios estatales, a fin de que puedan utilizar las terminales federales de pasajeros.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 109.
-
-Las terminales concesionadas conforme a la presente Ley y sus Reglamentos, sólo podrán ocupar los espacios que al efecto les asigne Carreteras de Cuota-Puebla, de conformidad con lo establecido en la legislación aplicable.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 110.
-
-La Secretaría y Carreteras de Cuota-Puebla, podrán cambiar en coordinación con las autoridades competentes, la ubicación de cualquier sitio, base, terminal, así como cancelar el permiso, intervenir, revocar o rescatar la concesión otorgada, cuando se afecte el interés público.
-
-Igualmente se revocará la concesión o cancelará el permiso, cuando se alteren las tarifas; se preste el servicio en forma irregular y por todas las demás causales previstas en el Reglamento y demás disposiciones aplicables.
-
-### CAPITULO III. ARRASTRE, TRASLADO Y DEPOSITO PARA VEHICULOS DEL SERVICIO PUBLICO DE TRANSPORTE Y DEL SERVICIO MERCANTIL
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 111.
-
-Las personas físicas o morales que cuenten con la autorización correspondiente y que dispongan de vehículos con grúa para el arrastre y traslado de vehículos hacia los depósitos que opere directamente la autoridad que corresponda o los concesionados a particulares, podrán realizar este servicio siempre que cumplan con los requisitos previamente establecidos por la misma.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
-
-ARTICULO 111 BIS.- El servicio de arrastre consiste en llevar a cabo las maniobras necesarias e indispensables para enganchar a la grúa o colocar en plataformas, vehículos que, estando sobre sus propias ruedas, deban ser trasladados por caminos y puentes de jurisdicción Estatal.
-
-El permiso o autorización que la Secretaría otorgue para este servicio, será válido para todos los caminos y puentes de jurisdicción Estatal y en ningún caso autorizará a su titular a cubrir el servicio de salvamento.
-
-En el servicio de arrastre en que sea indispensable utilizar caminos y puentes de cuota para la ejecución del servicio, los pagos serán a cargo del permisionario o autorizado; en lo que respecta a los demás costos o pagos de cualquier naturaleza relacionados con el vehículo o la grúa, serán a cargo del propietario del mismo. Los vehículos objeto del servicio, deberán circular sin personas a bordo.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
-
-ARTICULO 111 TER.- El servicio de arrastre y salvamento, consiste en llevar a cabo aquellas maniobras mecánicas y/o manuales necesarias para rescatar y colocar sobre la carpeta asfáltica del camino, en condiciones de poder realizar las maniobras propias de su arrastre, a los vehículos accidentados, sus partes o su carga.
-
-Para la operación del servicio de arrastre y salvamento se deberá contar con el tipo de vehículo que, para cada caso se señale en la normatividad aplicable, por lo que únicamente se otorgará la autorización correspondiente a las personas físicas o morales que acrediten contar con el equipo necesario que requiere este servicio.
-
-El usuario podrá elegir al prestador del servicio de arrastre y salvamento a fin de ejecutar las maniobras correspondientes. En caso de que el usuario no esté presente o se encuentre imposibilitado para elegir a un prestador del servicio, la autoridad competente, deberá llamar al servicio de arrastre y salvamento y depósito de vehículos más próximo al lugar del percance.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 112.
-
-El servicio de depósito de vehículos consiste en la guarda y custodia en lugares autorizados por la Secretaría o Carreteras de Cuota-Puebla, de vehículos del Servicio Público de Transporte y del Servicio Mercantil, infraccionados, abandonados, retenidos, accidentados o descompuestos en caminos de jurisdicción Estatal y/o en su caso, remitidos por la autoridad competente.
-
-La Secretaría, Carreteras de Cuota-Puebla o el concesionario, deberán llevar un registro y control que contenga los datos de los vehículos que ingresan al depósito, se elaborará un inventario de las condiciones en que ingresa un vehículo, el lugar de su detención, causa o motivo, la fecha y hora de entrada y salida de los mismos, así como la autoridad que los liberó en su caso.
-
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-ARTICULO 112 BIS.- Causarán abandono los vehículos que se encuentren en los corralones administrados por la Secretaría y que teniendo resolución definitiva por parte de Autoridad administrativa o judicial no sean retiradas por sus propietarios o legítimos poseedores dentro del plazo de seis meses contados a partir de la fecha de la notificación de la misma.
-
-La Secretaría publicará en el Periódico Oficial del Estado el Acuerdo en el que establezcan los términos, plazos y condiciones a que deberán sujetarse los propietarios y poseedores de vehículos a que se refiere este artículo para el retiro de los mismos.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 113.
-
-La Secretaría o Carreteras de Cuota-Puebla, determinará los requisitos y condiciones para concesionar los depósitos de vehículos, conforme a lo establecido en la presente Ley y sus Reglamentos.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 2012)</small>
-
-### CAPITULO IV. DE LOS CENTROS DE CAPACITACION, ADIESTRAMIENTO O PROFESIONALIZACION
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 114.
-
-Las autoridades competentes, promoverán la realización de cursos de capacitación, adiestramiento o profesionalización en Instituciones u Organismos Públicos que se encuentren autorizados por Carreteras de Cuota-Puebla o la Secretaría, según corresponda, para todos aquellos conductores de vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio de Transporte Mercantil, respectivamente.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
-
-Los cursos de capacitación, adiestramiento o profesionalización a que se refiere el presente artículo, deberán incluir temas encaminados al trato de personas con discapacidad o de adultos mayores.
-
-> <small>(REFORMADO, P. O. 6 DE MARZO DE 2015)</small>
-
-###### ARTICULO 115.
-
-Los interesados en operar un Centro de Capacitación, Adiestramiento o Profesionalización, para los conductores de los vehículos del Servicio Público del Transporte y del Servicio de Transporte Mercantil, deberán contar con la autorización otorgada por la autoridad competente; en la cual se establecerán los requisitos inherentes; así como los planes y programas correspondientes de la Secretaría o de Carreteras de Cuota-Puebla, según corresponda, y demás disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-ARTICULO 115 BIS.- La autoridad competente, otorgará la autorización, vigilará, aprobará y supervisará el funcionamiento y la impartición de los cursos de capacitación, adiestramiento o profesionalización, reservándose la facultad de retirar dicha autorización, cuando se incumpla con las disposiciones aplicables, de conformidad con los lineamientos o disposiciones administrativas que se emitan al respecto.
-
-## TITULO SEXTO. DEL REGIMEN DE LAS TARIFAS, ITINERARIOS, FRECUENCIAS DE PASO Y HORARIOS EN EL SERVICIO PUBLICO DE TRANSPORTE Y EL SERVICIO MERCANTIL
-
-### CAPITULO UNICO. TARIFAS, ITINERARIOS, FRECUENCIAS DE PASO Y HORARIOS
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 116.
-
-Tarifa es la retribución económica autorizada, que el usuario del Servicio Público del Transporte o del Servicio Mercantil en su modalidad de automóviles de alquiler, paga al concesionario o permisionario, como contraprestación por el servicio recibido. El establecimiento de las tarifas y sus elementos de aplicación, corresponderá a la autoridad competente, una vez que haya sido realizado el estudio correspondiente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 117.
-
-Las tarifas máximas para la prestación del Servicio Público de Transporte y Automóviles de Alquiler serán fijados (sic) por la autoridad competente, con base en los estudios técnicos integrales necesarios y en la clase de servicio que se preste, en los términos y condiciones que señale la presente Ley, su Reglamento y demás disposiciones administrativas que se emitan para tal efecto. La Secretaría y Carreteras de Cuota-Puebla podrán establecer de acuerdo a sus atribuciones y a la normatividad aplicable en la materia, tarifas preferenciales, entre las cuales quedarán comprendidas las que se establezcan en beneficio de personas con discapacidad y adultos mayores.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
-
-Las tarifas preferenciales a que se refiere el presente artículo, serán autorizadas con base en la modernidad, mejoramiento y comodidad de los vehículos con los que se preste el servicio.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 118.
-
-La Secretaría y Carreteras de Cuota-Puebla, vigilarán en todo tiempo que el público usuario no resulte afectado en sus intereses, si se alteraren las tarifas autorizadas; en cuyo caso, aplicarán las sanciones previstas por esta Ley y sus Reglamentos.
-
-###### ARTICULO 119.
-
-Se considera como itinerario a la completa relación de las calles o lugares por los que pasa un vehículo del Servicio Público de Transporte o del Transporte Escolar, al realizar el traslado de pasajeros de terminal a terminal y puntos intermedios.
-
-###### ARTICULO 120.
-
-Línea es la denominación que se da a un conjunto de vehículos, que perteneciendo a persona física o moral, realizan el Servicio de Transporte de Pasajeros, con un nombre específico, generalmente formado por los lugares más característicos que toca durante su recorrido.
-
-###### ARTICULO 121.
-
-Se establece como recorrido, al itinerario que realizan los vehículos en el Servicio de Transporte de Pasajeros, de terminal a terminal y puntos intermedios.
-
-###### ARTICULO 122.
-
-Como ruta se define a la asignación numérica que se le da a las unidades del Servicio Público de Transporte en relación al recorrido que realizan.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-ARTICULO 122 BIS.- Para efectos de esta Ley y sus Reglamentos, se entiende por Fusión de Rutas, la unión de dos o más recorridos para conformar una sola, este itinerario puede ser radial, sobrepuesto o perimetral; el resultado de la fusión en algunos casos podrá ser diametral.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 123.
-
-La frecuencia de paso, es el lapso que deben respetar en su itinerario los vehículos de Servicio Público de Transporte previamente analizado por la autoridad competente.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 124.
-
-El horario, es el tiempo de inicio y término para la prestación del Servicio Público de Transporte y del Servicio Mercantil, previamente determinado por la autoridad competente.
-
-> <small>[N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA AL PRESENTE ARTÍCULO PUBLICADA EN EL P.O. 10 DE JUNIO DE 2014, SE ADVIERTE QUE CONFORME A LO COMPILADO, EL ARTÍCULO NO CONTABA CON FRACCIONES DESDE SU TEXTO ORIGINAL.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 125.
-
-La autoridad competente reglamentará todo lo relativo a los itinerarios y a su ampliación, así como respecto al incremento en las frecuencias de paso, los horarios de servicio de cada ruta y el aumento de las unidades asignadas a cada ruta mediante ampliación de parque vehicular a través de la incorporación de concesiones de rutas consideradas como no rentables. Para ello, considerará:
-
-I a IV.-... (SIC)
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2014)</small>
-
-V.- Las demás que emita y dé a conocer con oportunidad la autoridad competente y que se requieran para la debida prestación del servicio.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
-
-ARTICULO 125 BIS.- Para efectos del artículo anterior, cuando se trate de incorporación de concesiones de rutas no rentables a rutas que requieran incrementar su parque vehicular, se regirá por las siguientes disposiciones:
-
-I.- Que la ruta que desincorpora mantenga registradas un número no mayor de diez concesiones vigentes o bien que la ruta que incorpora, proporcione el servicio con un número de unidades menor de diez concesiones;
-
-II.- Que la concesión se encuentre vigente y al corriente en el pago de sus contribuciones, en términos de las disposiciones fiscales;
-
-III.- Que las concesiones a incorporar pertenezcan al mismo Municipio de servicio que el de la ruta que lo requiera;
-
-IV.- Que se cuente con el consentimiento de todos los concesionarios de la ruta a incorporarse; y
-
-V.- Las demás que emita y dé a conocer con oportunidad la Secretaría y que se requieran para la debida prestación del servicio.
-
-## TITULO SEPTIMO. DE LA EDUCACION Y SEGURIDAD VIAL
-
-### CAPITULO UNICO. LAS CAMPAÑAS, PROGRAMAS, CURSOS DE EDUCACION Y PROTECCION ECOLOGICA
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 126.
-
-La Secretaría y Carreteras de Cuota-Puebla, en coordinación con las autoridades competentes, desarrollarán campañas, programas y cursos de seguridad, educación vial, sensibilización y atención a personas con discapacidad, destinados a difundir en los diferentes sectores de la población los conocimientos básicos necesarios en la materia, con el objeto de reducir el índice de accidentes, de tránsito, facilitar la circulación de los vehículos en los centros de población y en la infraestructura vial de la Entidad, racionalizar el comportamiento de los peatones, desarrollar y estimular el sentido de responsabilidad y profesionalismo de los conductores de los vehículos del servicio público de transporte y en general, crear las condiciones necesarias a fin de lograr el mayor bienestar de la población.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 127.
-
-A fin de preservar el medio ambiente y evitar el desequilibrio ecológico que pueda derivarse de la emisión de humos, ruidos y gases de los vehículos del Servicio Público del Transporte y del Servicio Mercantil, la Secretaría y Carreteras de Cuota-Puebla, según corresponda, podrán convenir con las autoridades competentes, para tomar las medidas necesarias para dicho fin, asimismo promoverán la modernización y eficacia del parque vehicular.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 128.
-
-La Secretaría y Carreteras de Cuota-Puebla, impulsarán acciones de apoyo a personas con discapacidad dentro del ámbito de su competencia.
-
-###### ARTICULO 129.
-
-Los conductores de vehículos del Servicio Público de Transporte y del Servicio Mercantil, que circulen en la infraestructura vial, se obligan a acatar estrictamente todas las disposiciones establecidas por la presente Ley y sus Reglamentos, así como a acatar las medidas que en materia de conservación del medio ambiente, de la protección ecológica y de la incorporación de los discapacitados a la vida activa, sean procedentes.
-
-## TITULO OCTAVO. DEL PROCEDIMIENTO
-
-### CAPITULO I. RECURSOS
-
-> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2015)</small>
-
-#### SECCIÓN PRIMERA. RECURSO DE RECONSIDERACIÓN
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 130.
-
-Contra la declaración o acuerdo de rescate o intervención que emita la autoridad competente respecto del servicio público de transporte, procede el Recurso de Reconsideración.
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 131.
-
-El Recurso de Reconsideración, se interpondrá por escrito ante la autoridad que haya emitido el acto que se recurra, dentro de los quince días hábiles siguientes a la notificación del acto recurrible y contendrá:
-
-I. Nombre del titular de la concesión, así como domicilio en la Ciudad de Puebla para recibir notificaciones, si este no se señala, se practicarán por lista;
-
-II. Documentos que acrediten la personalidad con que se ostenta;
-
-III. Nombre y domicilio de la persona física o jurídica que tenga interés jurídico en que subsista o prevalezca el acto reclamado, si existiere;
-
-IV. Los datos de la concesión afectada y la documentación que acredite la titularidad de la concesión afectada;
-
-V. Autoridad o autoridades responsables, así como el acto que de cada una de ellas se reclame;
-
-VI. La expresión de los agravios que a juicio del recurrente se causen;
-
-VII. Las pruebas que estime convenientes, mismas que deberán guardar estrecha relación con los hechos y agravios aducidos, así como la expresión concreta en cada caso de que es lo que se pretende probar;
-
-VIII. En su caso, la solicitud de la suspensión del acto reclamado, y
-
-IX. La firma autógrafa del recurrente, o su huella digital en caso de no saber firmar.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-###### ARTICULO 131 Bis.
-
-A quien infrinja las disposiciones contenidas en esta Ley y sus Reglamentos, tratándose de acciones de supervisión y vigilancia, la Contraloría le impondrá cualquiera de las siguientes sanciones:
-
-I.- Multa, de conformidad con el tabulador autorizado;
-
-II.- Retiro y aseguramiento de vehículo; y
-
-III.- Retención de licencia.
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 132.
-
-Recibido el Recurso de Reconsideración, la autoridad notificará al recurrente la admisión de aquél señalándole, de ser necesario, un plazo de quince días para el desahogo de pruebas, quedando cinco días para presentar alegatos por escrito; la substanciación se llevará a cabo de la siguiente forma:
-
-I. Serán admisibles todos los medios de prueba que se establecen en el Código de Procedimientos Civiles para el Estado de Puebla, con excepción de la declaración de partes sobre hechos propios o ajenos y la testimonial, conforme a las reglas que para su desahogo se determinan en el mismo;
-
-II. Las pruebas que no tengan relación con los hechos y actos impugnados se desecharán de plano. Las pruebas supervenientes se deberán aportar antes de dictar la resolución definitiva;
-
-III. La autoridad competente podrá pedir o hacerse allegar de los informes que estime pertinentes, por parte de quienes hayan intervenido en la emisión del acto recurrido, y
-
-IV. La autoridad dictará la resolución definitiva dentro del plazo de treinta días hábiles siguientes al término de alegatos.
-
-Los plazos o términos señalados en este artículo se computarán en días y horas hábiles.
-
-> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2015)</small>
-
-#### SECCIÓN SEGUNDA. RECURSO DE REVOCACIÓN
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 133.
-
-Contra cualquier acto de la autoridad de transporte que ponga fin a un procedimiento de los establecidos en esta Ley, diverso a los previstos en el artículo 130, procede el Recurso de Revocación.
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 134.
-
-El Recurso de Revocación, se interpondrá por escrito ante la autoridad que haya emitido el acto que se recurra, dentro de los cinco días hábiles siguientes a la notificación del acto recurrible y contendrá:
-
-I. Nombre del recurrente debiendo señalar domicilio en la ciudad de Puebla para recibir notificaciones personales, en caso contrario, se practicarán por estrados;
-
-II. Nombre y domicilio de la persona física o jurídica que tenga interés jurídico en que subsista o prevalezca el acto reclamado, si existiere;
-
-III. Acto recurrido;
-
-IV. Expresión de agravios que causa el acto que se impugna, y
-
-V. En su caso, la solicitud de la suspensión del acto reclamado.
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 135.
-
-La autoridad dictará la resolución definitiva dentro del plazo de treinta días hábiles siguientes.
-
-> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2015)</small>
-
-#### SECCIÓN TERCERA. DISPOSICIONES COMUNES A LOS RECURSOS
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 136.
-
-La interposición del recurso suspenderá la ejecución del acto impugnado, siempre que concurran los requisitos siguientes:
-
-I. Que lo solicite el recurrente, y
-
-II. Que no se siga perjuicio al interés social ni se contravengan disposiciones de orden público.
-
-Promovida la suspensión del acto impugnado, la autoridad deberá realizar un análisis ponderado de la apariencia del buen derecho y la no afectación del interés social.
-
-El otorgamiento o denegación de la suspensión se acordará en el auto que admita el recurso, mismo que se emitirá en un plazo no mayor a veinticuatro horas.
-
-La suspensión surtirá sus efectos desde el momento en que se pronuncie el acuerdo respectivo.
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 137.
-
-En los casos en que la suspensión sea procedente, la autoridad fijará la situación en que habrán de quedar las cosas y tomará las medidas pertinentes para conservar la materia del recurso, pudiendo establecer condiciones de cuyo cumplimiento dependa el que la medida suspensional siga surtiendo efectos.
-
-Atendiendo a la naturaleza del acto reclamado, ordenará que las cosas se mantengan en el estado que guarden, y de ser jurídica y materialmente posible, restablecerá provisionalmente al recurrente en el goce del derecho violado mientras se dicta la resolución definitiva.
-
-En ningún caso, el otorgamiento de la medida cautelar podrá tener por efecto modificar o restringir derechos ni constituir aquéllos que no haya tenido el recurrente antes de la presentación del recurso.
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 138.
-
-Si al examinarse el escrito de interposición se advierte que éste carece de algún requisito formal previsto en esta Ley o que no se adjuntan los documentos respectivos, la autoridad administrativa requerirá al recurrente para que en el término de tres días hábiles aclare y complemente el escrito o exhiba los documentos ofrecidos, apercibiéndolo de que, de no hacerlo, se desechará de plano el escrito o se tendrán por no ofrecidas las pruebas, según sea el caso.
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 139.
-
-La resolución que pone fin al recurso, se notificará al interesado en el domicilio señalado para tal efecto y no procederá recurso administrativo alguno en su contra.
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 140.
-
-En relación a los recursos y en todo aquello que no hubiera disposición expresa, será aplicado supletoriamente el Código de Procedimientos Civiles vigente para el Estado de Puebla.
-
-### CAPITULO II. SANCIONES
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-###### ARTICULO 141.
-
-A quien infrinja o incumpla las disposiciones contenidas en esta Ley y sus Reglamentos, la autoridad competente le impondrá cualquiera de las sanciones siguientes:
-
-I.- Multa, de conformidad con el tabulador autorizado;
-
-II.- Suspensión, retención o cancelación de licencia;
-
-III.- Revocación o suspensión de concesión;
-
-IV.- Cancelación o suspensión del permiso;
-
-V.- Retiro y aseguramiento de vehículo; y
-
-VI.- Cancelación del Registro.
-
-###### ARTICULO 142.
-
-(DEROGADO, P.O. 28 DE AGOSTO DE 2015)
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-###### ARTICULO 143.
-
-La Secretaría y Carreteras de Cuota-Puebla, en el ámbito de sus respectivas competencias, por violaciones a la presente Ley y sus Reglamentos, impondrán las sanciones de conformidad con el tabulador autorizado que para tal efecto emitan de manera conjunta.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-###### ARTICULO 144.
-
-La Secretaría y Carreteras de Cuota-Puebla, en el ámbito de su competencia, podrán impedir en todo momento la circulación de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, que no reúnan los requisitos previstos por esta Ley y sus Reglamentos o que representen un riesgo para la seguridad de los usuarios, de los peatones y de los vehículos en general.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 145.
-
-Los concesionarios y los permisionarios están obligados a cumplir todas y cada una de las disposiciones que previene esta Ley y sus Reglamentos, o que con el debido fundamento determinen las autoridades competentes para cada tipo de servicio, en la inteligencia de que su incumplimiento podrá dar motivo a la revocación de dichas concesiones o cancelación de los permisos.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-###### ARTICULO 146.
-
-Los vehículos autorizados para la prestación de los servicios de Transporte Público y del Servicio de Transporte Mercantil de Personas a que se refiere esta Ley, no podrán utilizarse en la prestación de otro diferente, bajo pena de sufrir las sanciones respectivas, salvo los casos de excepción a que se refiere la presente Ley y sus Reglamentos.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 147.
-
-Para el caso de que un vehículo no autorizado, utilice colores, número económico o cualquier otro elemento de identificación del Servicio Público de Transporte y del Servicio Mercantil será retirado de la circulación; se obligará al propietario a despintarlo, y en su caso, a emplacarlo como vehículo particular, sin perjuicio de las demás sanciones que le correspondan.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-###### ARTICULO 148.
-
-Cuando un conductor del Servicio Público del Transporte y del Servicio Mercantil, acumule seis infracciones de cualquier naturaleza, en el período de un año, contado a partir de la primera, será considerado reincidente, y podrá ser privado temporal o definitivamente de la licencia de conducir y del gafete de identificación del conductor, en términos de lo dispuesto por la presente Ley y sus Reglamentos.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 149.
-
-El pago de las multas impuestas por concepto de infracciones a los ordenamientos relativos al transporte público, se efectuará ante las oficinas recaudadoras o las que autorice para tal efecto la Secretaría de Finanzas y Administración.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 150.
-
-Para la expedición o reposición de las licencias para conducir, los solicitantes deberán justificar no tener adeudos por infracciones a la presente Ley y sus Reglamentos. Así como otros ordenamientos legales aplicables.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 151.
-
-Las violaciones a la Ley y a sus Reglamentos se sancionarán de acuerdo con el tabulador de infracciones, de conformidad con la legislación aplicable.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 152.
-
-Para garantizar el pago de las multas impuestas a los infractores, se estará a lo establecido por los Reglamentos de esta Ley.
-
-### CAPITULO III. NOTIFICACIONES
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
-
-###### ARTICULO 153.
-
-Las notificaciones, citatorios, requerimientos, solicitudes de informes o documentos; así como los acuerdos y resoluciones, dictados en aplicación de esta Ley y sus Reglamentos, se harán y se darán a conocer aplicando el Código de Procedimiento Civiles para el Estado de Puebla.
-
-## ARTICULOS TRANSITORIOS
+D.O.F. 26 DE DICIEMBRE DE 1985.
 
 ###### ARTICULO UNICO.
 
@@ -2778,277 +2840,33 @@ D.O.F. 30 DE NOVIEMBRE DE 2000.
 
 SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
-###### ARTICULO PRIMERO.
-
-La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-La presente Ley deroga las disposiciones contenidas en otros ordenamientos legales que la contravengan.
-
-###### ARTICULO TERCERO.
-
-Los concesionarios del Servicio Público de Transporte de ruta fija, urbano, suburbano y foráneo y automóviles de alquiler o taxis que no hayan tramitado durante el período correspondiente, tendrán un plazo de ciento veinte días naturales contados a partir de la fecha en que entre en vigor la presente Ley, para realizar los trámites a que haya lugar con relación a sus concesiones. Si no lo hicieren se harán acreedores a la revocación de la concesión correspondiente.
-
-###### ARTICULO CUARTO.
-
-Las cesiones, sucesiones testamentarias o intestamentarias, para la transmisión de concesiones, cuyo procedimiento se hubiere iniciado antes de la publicación de la presente Ley, se reconocerán y tramitarán conforme a las disposiciones derogadas.
-
-###### ARTICULO QUINTO.
-
-Las licencias para conducir de cualquier modalidad otorgadas por la Secretaría con apego a la Ley anterior, conservarán su vigencia en todos sus términos.
-
-###### ARTICULO SEXTO.
-
-Los Reglamentos de la presente Ley, serán publicados en un plazo que no excederá de ciento veinte días naturales, contados a partir de la fecha en que entre en vigor ésta.
-
-###### ARTICULO SEPTIMO.
-
-En tanto no se expidan los Reglamentos de esta Ley, estarán vigentes las disposiciones contenidas en el Reglamento de Tránsito del Estado, en cuanto no se opongan a la presente Ley.
-
-EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los trece días del mes de marzo de mil novecientos noventa y ocho.- Diputado Presidente.- WENCESLAO HERRERA COYAC.- Rúbrica.- Diputado Secretario.- ROBERTO ARTURO SARMIENTO BELTRAN.- Rúbrica.- Diputado Secretario.- BERNABE FELIX FORTUNATO MARMOLEJO OREA.- Rúbrica.
-
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los trece días del mes de marzo de mil novecientos noventa y ocho.- El Gobernador Constitucional del Estado.- LICENCIADO MANUEL BARTLETT DIAZ.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS MANUEL MEZA VIVEROS.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 26 DE ENERO DE 2001.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Las licencias de automovilistas y motociclistas que hubieren sido expedidas con anterioridad por un plazo de diez años y que actualmente tengan vigencia, continuarán hasta su extinción.
-
-###### ARTICULO TERCERO.
-
-Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
-
-P.O. 14 DE SEPTIEMBRE DE 2001.
-
-###### ARTICULO PRIMERO.
-
-Para efectos del artículo 70, a partir del primero de enero del año dos mil tres, la Secretaría retirará de la circulación a todos aquellos vehículos que no cumplan con la antigüedad exigida
-
-###### ARTICULO SEGUNDO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO TERCERO.
-
-Se derogan todas las disposiciones que se opongan al presente ordenamiento.
-
-P.O. 16 DE DICIEMBRE DE 2002.
-
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor el día primero de enero de dos mil tres.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTÍCULO SEGUNDO.
 
-Para efectos de lo dispuesto en el artículo 70 de la Ley del Transporte para el Estado de Puebla, a partir del día primero de enero de dos mil tres no deberán circular aquellos vehículos que incumplan con la antigüedad exigida, estando facultada la autoridad correspondiente para instrumentar programas y celebrar convenios que, en un plazo que no exceda de doce meses, contados a partir de la entrada en vigor del presente Decreto, tiendan al mejor cumplimiento de esta disposición.
-
-P.O. 12 DE ENERO DE 2005.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación ene l Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan las disposiciones contrarias al presente Decreto.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+Los traspasos que por motivo de este Decreto deban realizarse de una dependencia a otra, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como los traspasos de recursos humanos y de los activos patrimoniales tales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la dependencia haya utilizado para los asuntos a su cargo. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
 
 ###### ARTÍCULO TERCERO.
 
-Los concesionarios que actualmente presten el Servicio Público de Transporte urbano, tendrá un plazo de tres meses a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a que se refiere el artículo 37.
+Los asuntos que con motivo de este Decreto, deban pasar de una Secretaría a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los despachen se incorporen a la dependencia que señale el mismo, a excepción de aquellos urgentes o sujetos a término los cuales se atenderán por las dependencias que las venían despachando.
 
 ###### ARTÍCULO CUARTO.
 
-Los permisionarios del servicio de transporte mercantil de personas con automóviles de alquiler o taxi, tendrán el plazo de un año a partir de la entrada en vigor del presente Decreto para dar cumplimiento a lo prescrito por el artículo 79.
+El Presidente de la República, por conducto de las Secretarías de Hacienda y Crédito Público y Contraloría y Desarrollo Administrativo, con la participación de las Secretarías correspondientes, deberán concluir aquellas adecuaciones presupuestarias y traspasos de personas, recursos materiales y financieros, así como de activos patrimoniales, en un plazo no mayor de un año, a partir de la entrada en vigor del presente Decreto.
 
 ###### ARTÍCULO QUINTO.
 
-Los concesionarios y permisionarios que a la entrada en vigor del presente ordenamiento cuenten con su concesión permiso otorgada por la autoridad competente, conservarán en todos sus términos, los derechos que se deriven de los mismos.
+Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarías cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a las dependencias que, respectivamente, asuman tales funciones.
 
-P.O. 30 DE DICIEMBRE DE 2005.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-###### ARTÍCULO TERCERO.
-
-En tanto no se adecue el Reglamento de esta Ley, se observarán las disposiciones contenidas en el mismo, en cuanto no se opongan al presente Decreto.
-
-###### ARTÍCULO CUARTO.
-
-Para los casos de cesión de derechos a que hace referencia el presente Decreto, que se realicen con posterioridad a la publicación del mismo, las partes se deberán sujetar a los términos que señala el artículo 70 de la presente Ley.
-
-###### ARTÍCULO QUINTO.
-
-Las causas de terminación de las concesiones y permisos, se entenderá que surten efectos para las que se otorguen, a partir de la entrada en vigor del presente Decreto.
-
-P.O. 31 DE DICIEMBRE DE 2007.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Las Licencias de Chofer para el Servicio Público de Transporte, Licencias de Chofer para el Servicio de Transporte Mercantil, Licencia Temporal de Entrenamiento de Chofer del Servicio Público de Transporte y la Licencia Temporal de Entrenamiento de Chofer del Servicio de Transporte Mercantil que hubieren sido expedidas con anterioridad al presente Decreto, tendrán validez hasta la terminación de su vigencia.
-
-###### ARTÍCULO TERCERO.
-
-Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 10 DE AGOSTO DE 2012.
-
-PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- La Secretaría podrá emitir la Licencia Transitoria de Chofer para el Servicio de Transporte Público y Mercantil de Taxi, a partir del inicio de operación de los centros de capacitación, adiestramiento o profesionalización y, posterior a la entrada en vigor de los estándares de competencia laboral en la materia, permitiendo con ello que los conductores del servicio de transporte público y mercantil lleven a cabo su proceso de certificación.
-
-TERCERO.- La Secretaría tendrá la facultad de implementar los mecanismos, documentos y procedimientos, que asegure que el total de los conductores del Servicio de Transporte Público y Mercantil, concluyan su proceso de certificación.
-
-CUARTO.- Los títulos, documentos y demás actos jurídicos relacionados con la implementación del Sistema de Transporte Público Masivo que se hubieren formalizado o emitido, tendrán plena validez y reconocimiento legal, de conformidad con el presente Decreto.
-
-QUINTO.- Los permisos que en materia de publicidad, se hubieren otorgado de conformidad con el artículo 92 Ter antes de la entrada en vigor del presente Decreto, estarán vigentes hasta su conclusión.
-
-SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 20 DE DICIEMBRE DE 2013.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor a los 30 días naturales de su publicación en el Periódico Oficial del Estado, a excepción de lo previsto en el artículo siguiente,
-
-###### ARTÍCULO SEGUNDO.
-
-Las modificaciones a los artículos 4, a las fracciones VII, VIII y IX del 6, a la fracción IV del 17, el 22 Ter, el 34 Quater, el 39, el 40, el 48, a la fracción VI del 61, el 70, el 79, el 84, el 85, el 94, el 95 Bis, el 95 Ter, el 95 Quater, el 95 Quinquies, el 95 Sexies, el 103 y el 138 de la Ley del Transporte para el Estado de Puebla; así como la fracción X del 42 de la Ley Orgánica de la Administración Pública del Estado de Puebla, entrarán en vigor al día siguiente de la publicación del presente Decreto.
-
-###### ARTÍCULO TERCERO.
-
-La Secretaría de Transportes, transferirá los expedientes, recursos humanos, materiales y financieros que correspondan a las funciones que se otorgan a la Secretaría de la Contraloría, a la entrada de la vigencia del presente Decreto y a que se refiere el artículo Primero Transitorio.
-
-###### ARTÍCULO CUARTO.
-
-Las Secretarías de Finanzas y Administración, y de la Contraloría, supervisarán la transmisión de los recursos a que se refiere el artículo anterior.
-
-###### ARTÍCULO QUINTO.
-
-Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto a que se refiere el artículo Primero Transitorio, y que se relacionan con las facultades dadas a la Secretaría de la Contraloría, se substanciarán por la Secretaría de Transportes en el ámbito de su competencia, hasta su total solución.
-
-###### ARTÍCULO SEXTO.
-
-Los Reglamentos que norman las actividades otorgadas a la Secretaría de la Contraloría e interiores de las Dependencias referidas en el presente Decreto, deberán modificarse en un término de noventa días contados a partir de la entrada en vigor del presente Decreto, mientras tanto se aplicarán en lo conducente los vigentes.
+...
 
 ###### ARTÍCULO SÉPTIMO.
 
-Se derogan todas las disposiciones que se opongan al presente Decreto.
+En un plazo no mayor de seis meses, a partir de la entrada en vigor del presente Decreto, se deberá crear la Entidad Pública señalada en la fracción XXI del artículo 35 de la Ley Orgánica de la Administración Pública.
 
-P.O. 10 DE JUNIO DE 2014.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Carreteras de Cuota-Puebla continuará prestando el servicio del Sistema de Transporte Público Masivo, así como los auxiliares que a la entrada en vigor del presente Decreto se encuentran a cargo de la Secretaría de Transportes.
-
-TERCERO.- Los títulos de concesión otorgados por la Secretaría de Transportes, se mantendrán vigentes en los términos de su emisión.
-
-Los convenios, contratos, acuerdos y demás asuntos en trámite, relativos a la prestación del Sistema de Transporte Público Masivo, en los que sea parte la Secretaría de Transportes, continuarán tramitándose hasta su total conclusión por Carreteras de Cuota-Puebla.
-
-CUARTO.- Los recursos financieros destinados a la Secretaría de Transportes y aquellos que tenga derecho a percibir la misma, que se apliquen en todo lo relativo a la prestación del Sistema de Transporte Público Masivo, se transferirán a Carreteras de Cuota-Puebla, en términos de la legislación aplicable y conforme a los requerimientos del servicio.
-
-QUINTO.- Los bienes inmuebles y muebles que a la entrada en vigor del presente Decreto estén destinados a la Secretaría de Transportes para la prestación del Sistema de Transporte Público Masivo, se transmitirán a Carreteras de Cuota-Puebla, para su administración, a través de las instancias competentes, en términos de la legislación aplicable y conforme a los requerimientos del servicio.
-
-SEXTO.- Los juicios, recursos y procedimientos en los que a la entrada en vigor del presente Decreto sea parte la Secretaría de Transportes, relativos a la prestación del Sistema de Transporte Público Masivo, continuarán tramitándose hasta su total conclusión por Carreteras de Cuota-Puebla.
-
-SÉPTIMO.- El archivo relativo al Sistema de Transporte Público Masivo, de la Secretaría de Transportes, será transferido a Carreteras de Cuota-Puebla para su custodia, conservación y administración.
-
-OCTAVO.- Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a la Secretaría de Transportes, en lo relativo a la prestación del Sistema de Transporte Público Masivo, se entenderá asignado a Carreteras de Cuota-Puebla.
-
-Con motivo de la entrada en vigor del presente Decreto y en cumplimiento de las medidas de racionalidad, eficiencia y honestidad para el ejercicio del gasto, las formas oficiales, formatos y demás papelería existentes en los que conste la denominación de la Secretaría de Transportes, que como consecuencia de esta reforma se cambia su denominación, se seguirán utilizando hasta que se agoten.
-
-NOVENO.- La Secretaría de Finanzas y Administración y la Secretaría de la Contraloría, coordinarán la transferencia de los recursos humanos, materiales y financieros necesarios, así como del acervo documental existente de la Secretaría de Transportes, relacionados con la prestación del Sistema de Transporte Público Masivo, hacia Carreteras de Cuota-Puebla.
-
-DÉCIMO.- La substanciación de los expedientes que se encuentren pendientes, se sujetará a las disposiciones de este Decreto, en el estado en que se encontraren cuando comience su vigencia; pero si los términos que se señalen para algún acto procesal fueren menores que los señalados por las disposiciones reformadas, se observarán éstas, si esos términos estuvieren ya corriendo.
-
-DÉCIMO PRIMERO.- El Ejecutivo del Estado realizará las modificaciones a los Reglamentos Interiores de las Dependencias correspondientes.
-
-DÉCIMO SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-
-P.O. 23 DE FEBRERO DE 2015.
-
-PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente.
-
-P.O. 6 DE MARZO DE 2015.
-
-PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Para el cumplimiento de este Decreto, las instancias competentes, podrán reorganizar la estructura de la Secretaría de Infraestructura y Transportes, así como crear, fusionar, escindir o disolver las unidades administrativas necesarias, realizando las adecuaciones presupuestales de conformidad con lo previsto en la Ley de Egresos del Estado de Puebla.
-
-TERCERO. Las Secretarías de la Contraloría y de Finanzas y Administración, coordinarán la transferencia de los recursos humanos, materiales y financieros, así como del acervo documental existentes relativos a la Secretaría de Transportes que se extingue, hacia la Secretaría de Infraestructura y Transportes, en un plazo que no exceda de sesenta días naturales.
-
-CUARTO. Las unidades administrativas encargadas de los asuntos que por virtud de este Decreto pasen a formar parte de la Secretaría de Infraestructura y Transportes, se transferirán incluyendo los recursos humanos que sean necesarios, así como los financieros y materiales asignados a aquellas.
-
-QUINTO. Los asuntos en trámite, así como los juicios, recursos y procedimientos que con motivo de la entrada en vigor de este Decreto deban pasar a la Secretaría de Infraestructura y Transportes, continuarán tramitándose por dicha Dependencia a través de las unidades administrativas competentes.
-
-SEXTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a la Secretaría de Transportes, se entenderá asignado a la Secretaría de Infraestructura y Transportes.
-
-Con motivo de la entrada en vigor del presente Decreto y en cumplimiento de las medidas de racionalidad y eficiencia para el ejercicio del gasto, las formas oficiales, formatos y demás papelería existentes en los que conste la denominación de la Dependencia que como consecuencia de esta reforma se suprime, se seguirán utilizando hasta que se agoten.
-
-SÉPTIMO. Los derechos y obligaciones contractuales contraídos por la Secretaría de Transportes, se entenderán asignados a la Secretaría de Infraestructura y Transportes.
-
-OCTAVO. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto pasen de una Dependencia a otra, se respetarán en términos de las disposiciones legales aplicables.
-
-NOVENO. El Ejecutivo del Estado realizará las modificaciones normativas que correspondan.
-
-En tanto no se realicen las reformas a que se refiere el párrafo anterior, la Secretaría de Infraestructura y Transportes, seguirán aplicando los Reglamentos vigentes en todo aquello que no contravengan el sentido del presente Decreto.
-
-DÉCIMO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
-
-P.O. 28 DE AGOSTO DE 2015.
-
-PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Las unidades administrativas encargadas de los asuntos que por virtud de este Decreto pasen a formar parte de la Secretaría de Infraestructura y Transportes, se transferirán, dentro del término de 60 días posteriores a la entrada en vigor del presente decreto, incluyendo los recursos humanos que sean necesarios, así como lo (sic) financieros y materiales asignados a aquellas.
-
-Los asuntos en trámite, así como los juicios, recursos y procedimientos que sean materia del traslado a la Secretaría de Infraestructura y Transportes, serán atendidos por las unidades que los tengan a su cargo en tanto se formalice la transferencia de los mismos.
-
-Las Secretarías de Finanzas y Administración y de la Contraloría, supervisarán la transmisión de los recursos a que se refiere el punto anterior.
-
-TERCERO. Los derechos y obligaciones contraídos por la Secretaría de la Contraloría se entenderán asignados a la Secretaría de Infraestructura y Transportes.
-
-CUARTO. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto pasen de una Dependencia a otra, se respetarán en términos de las disposiciones legales aplicables.
-
-QUINTO. Los trámites de cesión (sic) derechos y cambios de vehículos del servicio mercantil “taxi” y “taxi local” que a la entrada en vigor del presente decreto, se encuentren en proceso de análisis y autorización en la Secretaría de Infraestructura y Transportes, se continuarán y concluirán conforme a las disposiciones vigentes al momento en que se hayan (sic) presentado la solicitud correspondiente.
-
-SEXTO. Los vehículos del servicio mercantil de transporte de personas en su modalidad de taxi y taxi local que a la entrada en vigor del presente Decreto se encuentren operando, podrán continuar prestando el servicio, hasta que se cumpla la antigüedad de los mismos, preestablecida en los permisos otorgados.
-
-SÉPTIMO. El Ejecutivo del Estado expedirá las modificaciones al Reglamento de esta Ley.
-
-OCTAVO. En tanto no se realicen las reformas a que se refiere el artículo anterior, la Secretaría de Infraestructura y Transportes, seguirá aplicando los Reglamentos vigentes en todo aquello que no contravengan el sentido del presente Decreto.
-
-NOVENO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
-
-P.O. 29 DE OCTUBRE DE 2015.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- La Ley de Ingresos del Ejercicio Fiscal que corresponda o el Acuerdo que emita la autoridad fiscal del Estado, determinará las cantidades que se cubrirán por concepto del pago de derechos por la expedición de licencias de carácter permanente a que se refieren las fracciones II, III y IV del artículo 44 de esta Ley.
-
-TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 13 DE ENERO DE 2017.
+...
 
 ###### ARTÍCULO NOVENO.
 
@@ -3246,77 +3064,433 @@ Tercero. Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley 
 
 D.O.F. 14 DE JULIO DE 2014.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
-PRIMERO. El presente Decreto entrará en vigor el día primero de febrero de dos mil diecisiete.
+PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+SEGUNDO. Se abrogan la Ley Federal de Telecomunicaciones y la Ley Federal de Radio y Televisión. Se dejan sin efectos aquellas disposiciones de la Ley de Vías Generales de Comunicación en lo que se opongan a lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
 
-TERCERO. El Ejecutivo del Estado dentro del plazo de los treinta días hábiles a partir de la entrada en vigor de este Decreto, realizará las adecuaciones correspondientes al reglamento interior de la Dependencia.
+TERCERO. Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en vigor, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan, salvo en lo que se opongan a la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
 
-En tanto no se realicen las adecuaciones a que se refiere el párrafo anterior, la Secretaría seguirá aplicando el reglamento vigente en todo aquello que no lo contravenga.
+CUARTO. El Instituto Federal de Telecomunicaciones deberá adecuar a la Ley Federal de Telecomunicaciones y Radiodifusión su estatuto orgánico, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
 
-P.O. 3 DE AGOSTO DE 2017.
+QUINTO. El Ejecutivo Federal deberá emitir, dentro de los ciento ochenta días naturales siguientes a la expedición del presente Decreto, las disposiciones reglamentarias y lineamientos en materia de contenidos establecidos en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 37 DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA".]
+Los concesionarios de radiodifusión y de televisión o audio restringidos no podrán promocionar video-juegos que no hayan sido clasificados de acuerdo a la normatividad aplicable, misma que deberá expedir el Ejecutivo Federal dentro del plazo referido en el párrafo anterior.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+SEXTO. La atención, trámite y resolución de los asuntos y procedimientos que hayan iniciado previo a la entrada en vigor del presente Decreto, se realizará en los términos establecidos en el artículo Séptimo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. Lo anterior sin perjuicio de lo previsto en el Vigésimo Transitorio del presente Decreto.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+SÉPTIMO. Sin perjuicio de lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del Decreto, en la ley y en la normatividad que al efecto emita el Instituto Federal de Telecomunicaciones, las concesiones y permisos otorgados con anterioridad a la entrada en vigor del presente Decreto, se mantendrán en los términos y condiciones consignados en los respectivos títulos o permisos hasta su terminación, a menos que se obtenga la autorización para prestar servicios adicionales a los que son objeto de su concesión o hubiere transitado a la concesión única prevista en la Ley Federal de Telecomunicaciones y Radiodifusión, en cuyo caso, se estará a los términos y condiciones que el Instituto Federal de Telecomunicaciones establezca.
 
-P.O. 6 DE NOVIEMBRE DE 2017.
+Tratándose de concesiones de espectro radioeléctrico, no podrán modificarse en cuanto al plazo de la concesión, la cobertura autorizada y la cantidad de Megahertz concesionados, ni modificar las condiciones de hacer o no hacer previstas en el título de concesión de origen y que hubieren sido determinantes para el otorgamiento de la concesión.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA".]
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2018)</small>
 
-PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+Las solicitudes de prórroga de concesiones de radiodifusión sonora presentadas con anterioridad a la fecha de terminación de la vigencia original establecida en los títulos correspondientes se resolverán en términos de lo dispuesto en el artículo 114 de la Ley Federal de Telecomunicaciones y Radiodifusión, sin que resulte aplicable el plazo previsto para la solicitud de prórroga de que se trate.
 
-SEGUNDO. Se derogan todas disposiciones que se opongan al presente Decreto.
+OCTAVO. Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con concesiones de espectro radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 
-P.O. 15 DE MARZO DE 2018.
+Los concesionarios que cuenten con varios títulos de concesión, además de poder transitar a la concesión única podrán consolidar sus títulos en una sola concesión.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA".]
+NOVENO. En tanto exista un agente económico preponderante en los sectores de telecomunicaciones y radiodifusión, con el fin de promover la competencia y desarrollar competidores viables en el largo plazo, no requerirán de autorización del Instituto Federal de Telecomunicaciones las concentraciones que se realicen entre agentes económicos titulares de concesiones, ni las cesiones de concesión y los cambios de control que deriven de éstas, que reúnan los siguientes requisitos:
 
-PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+a. Generen una reducción sectorial del Índice de Dominancia "ID", siempre que el índice Hirschman-Herfindahl "IHH" no se incremente en más de doscientos puntos;
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+b. Tengan como resultado que el agente económico cuente con un porcentaje de participación sectorial menor al veinte por ciento;
 
-TERCERO. Los concesionarios o permisionarios que a la entrada en vigor del presente Decreto, se encuentren en la hipótesis de abandono, por haber ya transcurrido el término para que ésta se actualice, tendrán 30 días hábiles contados a partir del día siguiente de su publicación, para acudir ante la autoridad competente y hacer efectivos sus derechos, de lo contrario se tendrá por confirmado el abandono correspondiente.
+c. Que en dicha concentración no participe el agente económico preponderante en el sector en el que se lleve a cabo la concentración, y
 
-P.O. 31 DE AGOSTO DE 2018.
+d. No tengan como efecto disminuir, dañar o impedir la libre competencia y concurrencia, en el sector que corresponda.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA".]
+> <small>[N. DE E. VÉASE PÁRRAFO SEGUNDO Y TERCERO EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 14 DE JULIO DE 2014, PÁGINAS 104 Y 105.]</small>
 
-PRIMERO.- El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+Los agentes económicos deberán presentar al Instituto Federal de Telecomunicaciones, dentro de los 10 días siguientes a la concentración, un aviso por escrito que contendrá la información a que se refiere el artículo 89 de la Ley Federal de Competencia Económica referida al sector correspondiente así como los elementos de convicción que demuestren que la concentración cumple con los incisos anteriores.
 
-SEGUNDO.- Se derogan todas disposiciones que se opongan al presente Decreto.
+El Instituto investigará dichas concentraciones en un plazo no mayor a noventa días naturales y en caso de encontrar que existe poder sustancial en el mercado de redes de telecomunicaciones que presten servicios de voz, datos o video o en el de radio y televisión según el sector que corresponda, podrá imponer las medidas necesarias para proteger y fomentar en dicho mercado la libre competencia y concurrencia, de conformidad con lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión y la Ley Federal de Competencia Económica sin perjuicio de las concentraciones a que refiere el presente artículo.
 
-TERCERO.- Las concesiones y permisos del Servicio del Transporte Mercantil que hayan sido otorgadas con anterioridad a la entrada en vigor del presente Decreto, tendrán una vigencia indeterminada, exceptuando las concesiones de Transporte Masivo, cuya vigencia continuará conforme a lo dispuesto por la Ley del Transporte para el Estado de Puebla.
+Las medidas que imponga el Instituto se extinguirán una vez que se autorice a los agentes económicos preponderantes la prestación de servicios adicionales.
 
-P.O. 22 DE NOVIEMBRE DE 2019.
+DÉCIMO. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio del trámite para obtener la autorización para prestar servicios adicionales, acreditarán ante el Instituto Federal de Telecomunicaciones y éste supervisará el cumplimiento efectivo de las obligaciones previstas en el Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de la Ley de Telecomunicaciones y Radiodifusión, así como de la Ley Federal de Competencia Económica, sus títulos de concesión y disposiciones administrativas aplicables, conforme a lo siguiente:
 
-[N. DE. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 92 TER DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA”.]
+I. Los agentes económicos preponderantes deberán acreditar ante el Instituto Federal de Telecomunicaciones que se encuentran en cumplimiento efectivo de lo anterior y de las medidas expedidas por el propio Instituto Federal de Telecomunicaciones a que se refieren las fracciones III y IV del artículo Octavo Transitorio del Decreto antes referido. Para tal efecto, el Instituto Federal de Telecomunicaciones establecerá la forma y términos para presentar la información y documentación respectiva;
 
-PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+II. El agente económico preponderante deberá estar en cumplimiento efectivo de las medidas a las que se refiere la fracción I anterior cuando menos durante dieciocho meses en forma continua;
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+III. Transcurrido el plazo a que se refiere la fracción anterior y siempre que continúe en cumplimiento de lo dispuesto en la fracción I que antecede, el Instituto Federal de Telecomunicaciones resolverá y emitirá un dictamen en el que certifique que se dio cumplimiento efectivo de las obligaciones referidas, y
 
-P.O. 20 DE ENERO DE 2021.
+IV. Una vez que el concesionario haya obtenido la certificación de cumplimiento, podrá solicitar ante el Instituto Federal de Telecomunicaciones la autorización del servicio adicional.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 2, EL 4, EL PRIMER PÁRRAFO DEL 6, LA FRACCIÓN IV DEL 7, EL 27 BIS, EL ÚLTIMO PÁRRAFO DEL 44, EL 48 Y EL 50, TODOS DE LA LEY DE TRANSPORTE PARA EL ESTADO DE PUEBLA”.]
+Lo dispuesto en este artículo también será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+No será aplicable lo dispuesto en el presente artículo después de transcurridos cinco años contados a partir de la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, siempre que el agente económico preponderante en el sector de las telecomunicaciones esté en cumplimiento del artículo Octavo Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+DÉCIMO PRIMERO. El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo siguiente:
 
-P.O. 26 DE FEBRERO DE 2021.
+I. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, deberán cumplir con lo previsto en los lineamientos del Instituto Federal de Telecomunicaciones en términos del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013;
 
-## [N. DE E. TRANSITORIOS DEL ”DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA, LOS ARTÍCULOS 1, LOS PÁRRAFOS PRIMERO Y TERCERO DEL 2, EL 3, EL 4, LAS FRACCIONES IV Y V DEL 5, EL PRIMER PÁRRAFO Y LAS FRACCIONES XV Y XVI DEL 6, Y ADICIONA LOS ARTÍCULOS 3 BIS, 4 BIS, LAS FRACCIONES VI Y VII AL 5 Y LAS FRACCIONES XVII A XX AL 6, TODOS DE LA LEY DE TRANSPORTE PARA EL ESTADO DE PUEBLA".]
+II. Al presentar la solicitud, dichos agentes y concesionarios deberán acompañar el dictamen de cumplimiento a que se refiere la fracción III del artículo anterior, presentar la información que determine el Instituto Federal de Telecomunicaciones respecto de los servicios que pretende prestar;
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+III. El Instituto Federal de Telecomunicaciones resolverá sobre la procedencia de la solicitud dentro de los sesenta días naturales siguientes a su presentación, con base en los lineamientos de carácter general que al efecto emita y determinará las contraprestaciones que procedan.
 
-SEGUNDO. Todo instrumento jurídico ya sea legal o administrativo y/o norma en sentido formal o material, que a la entrada en vigor del presente Decreto, se refiera a la Ley de Transporte para el Estado de Puebla, se entenderá realizada a la Ley de Movilidad y Transporte del Estado de Puebla; en igual sentido, respecto a la Dependencia que se modifica su denominación, se entenderá atribuido a la Secretaría de Movilidad y Transporte del Estado a que se refiere el presente ordenamiento.
+Transcurrido el plazo señalado en el párrafo que antecede sin que el Instituto haya resuelto la solicitud correspondiente, la misma se entenderá en sentido negativo, y
 
-TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+IV. En el trámite de la solicitud, el Instituto Federal de Telecomunicaciones deberá asegurarse que el otorgamiento de la autorización no genera efectos adversos a la competencia y libre concurrencia.
+
+Se entenderá que se generan efectos adversos a la competencia y libre concurrencia, entre otros factores que considere el Instituto Federal de Telecomunicaciones, cuando:
+
+a. Dicha autorización pueda tener como efecto incrementar la participación en el sector que corresponda del agente económico preponderante o del grupo de interés económico al cual pertenecen los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados, respecto de la participación determinada por el Instituto Federal de Telecomunicaciones en la resolución mediante la cual se le declaró agente económico preponderante en el sector que corresponda.
+
+b. La autorización de servicios adicionales tenga como efecto conferir poder sustancial en el mercado relevante a alguno de los concesionarios o integrantes del agente económico preponderante o de los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados en el sector que corresponda.
+
+Lo dispuesto en este artículo será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única, y será independiente de las sanciones económicas que procedan conforme a la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+DÉCIMO SEGUNDO. El agente económico preponderante en el sector de las telecomunicaciones podrá optar en cualquier momento por el esquema previsto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión o ejercer el derecho que establece este artículo.
+
+El agente económico preponderante en el sector de las telecomunicaciones podrá presentar al Instituto Federal de Telecomunicaciones un plan basado en una situación real, concreta y respecto de personas determinadas, que incluya en lo aplicable, la separación estructural, la desincorporación total o parcial de activos, derechos, partes sociales o acciones o cualquier combinación de las opciones anteriores a efecto de reducir su participación nacional por debajo del cincuenta por ciento del sector de telecomunicaciones a que se refiere la fracción III del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de conformidad con las variables y parámetros de medición utilizados por el Instituto Federal de Telecomunicaciones en la declaratoria de preponderancia correspondiente, y siempre que con la ejecución de dicho plan se generen condiciones de competencia efectiva en los mercados que integran dicho sector de conformidad con la Ley Federal de Competencia Económica. En caso de que el agente económico preponderante ejerza esta opción, se estará a lo siguiente:
+
+I. Al presentar el plan a que se refiere el párrafo que antecede, el agente económico preponderante deberá manifestar por escrito que se adhiere a lo previsto en este artículo y que acepta sus términos y condiciones; asimismo deberá acompañar la información y documentación necesaria que permita al Instituto Federal de Telecomunicaciones conocer y analizar el plan que se propone;
+
+II. En caso que el Instituto Federal de Telecomunicaciones considere que la información presentada es insuficiente, dentro del plazo de 20 días hábiles siguientes a la presentación del plan, prevendrá al agente económico preponderante para que presente la información faltante en un plazo de 20 días hábiles. En caso de que el agente económico preponderante no desahogue la prevención dentro del plazo señalado o que a juicio del Instituto la documentación o información presentada no sea suficiente o idónea para analizar el plan que se propone, se le podrá hacer una segunda prevención en los términos señalados con antelación y en caso de que no cumpla esta última prevención se tendrá por no presentado el plan, sin perjuicio de que el agente económico pueda presentar una nueva propuesta de plan en términos del presente artículo;
+
+III. Atendida la prevención en los términos formulados, el Instituto Federal de Telecomunicaciones analizará, evaluará y, en su caso, aprobará el plan propuesto dentro de los ciento veinte días naturales siguientes. En caso de que el Instituto lo considere necesario podrá prorrogar dicho plazo hasta en dos ocasiones y hasta por noventa días naturales cada una.
+
+Para aprobar dicho plan el Instituto Federal de Telecomunicaciones deberá determinar que el mismo reduce efectivamente la participación nacional del agente económico preponderante por debajo del cincuenta por ciento en el sector de las telecomunicaciones a que se refiere la fracción III del artículo Octavo Transitorio del Decreto antes referido, que genere condiciones de competencia efectiva en los mercados que integran dicho sector en los términos de la Ley Federal de Competencia Económica y que no tenga por objeto o efecto afectar o reducir la cobertura social existente.
+
+El plan deberá tener como resultado que la participación en el sector que el agente preponderante disminuye, sea transferida a otro u otros agentes económicos distintos e independientes del agente económico preponderante. Al aprobar el plan, el Instituto Federal de Telecomunicaciones deberá asegurar la separación efectiva e independencia de esos agentes y deberá establecer los términos y condiciones necesarios para que esa situación quede debidamente salvaguardada;
+
+IV. En el supuesto de que el Instituto Federal de Telecomunicaciones apruebe el plan, el agente económico preponderante en el sector de las telecomunicaciones contará con un plazo de hasta diez días hábiles para manifestar que acepta el plan y consiente expresamente las tarifas que derivan de la aplicación de los incisos a) y b) del segundo párrafo del artículo 131 de la Ley Federal de Telecomunicaciones y de Radiodifusión, y las fracciones VI a VIII de este artículo.
+
+Aceptado el plan por el agente económico preponderante, no podrá ser modificado y deberá ejecutarse en sus términos, sin que dicho agente pueda volver a ejercer el beneficio que otorga este artículo y sin perjuicio de que pueda optar por lo dispuesto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión;
+
+V. El plan deberá ejecutarse durante los 365 días naturales posteriores a que haya sido aceptado en términos de la fracción IV. Los agentes económicos involucrados en el plan deberán informar con la periodicidad que establezca el Instituto Federal de Telecomunicaciones sobre el proceso de ejecución del plan. En caso de que el agente económico preponderante acredite que la falta de cumplimiento del plan dentro del plazo referido se debe a causas que no le son imputables, podrá solicitar al Instituto Federal de Telecomunicaciones una prórroga, la cual se podrá otorgar por un plazo de hasta 120 días naturales, por única ocasión y siempre y cuando dichas causas se encuentren debidamente justificadas;
+
+VI. A partir de la fecha en que el agente económico preponderante en el sector de las telecomunicaciones haya aceptado el plan y durante el plazo referido en la fracción anterior, se aplicarán provisionalmente entre el agente económico preponderante en el sector de las telecomunicaciones y los demás concesionarios, los acuerdos de compensación recíproca de tráfico referidos en el primer párrafo del artículo 131 de la Ley Federal de Telecomunicaciones y de Radiodifusión, y se suspenderán entre ellos las tarifas que deriven de la aplicación de los incisos a) y b) del párrafo segundo de dicho artículo;
+
+VII. El Instituto Federal de Telecomunicaciones certificará que el plan ha sido ejecutado efectivamente en el plazo señalado en la fracción V de este artículo. Para tal efecto, dentro de los 5 días hábiles siguientes al término del plazo de ejecución o, en su caso, al término de la prórroga correspondiente, el Instituto Federal de Telecomunicaciones deberá iniciar los estudios que demuestren que su ejecución generó condiciones de competencia efectiva en los mercados que integran el sector de telecomunicaciones, de conformidad con la Ley Federal de Competencia Económica.
+
+Otorgada la certificación referida en el párrafo anterior, se aplicarán de manera general para todos los concesionarios los acuerdos de compensación de tráfico a que se refiere el párrafo primero del artículo 131 de la citada Ley;
+
+VIII. En caso de que el plan no se ejecute en el plazo a que se refiere la fracción V o, en su caso, al término de la prórroga correspondiente, o el Instituto Federal de Telecomunicaciones niegue la certificación referida en la fracción anterior o determine que no se dio cumplimiento total a dicho plan en los términos aprobados, se dejarán sin efectos los acuerdos de compensación recíproca de tráfico y la suspensión de las tarifas a que se refieren los incisos a) y b) del artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión, entre el agente económico preponderante en el sector de las telecomunicaciones y los demás concesionarios, y su aplicación se retrotraerá a la fecha en que inició la suspensión, debiendo dicho agente restituir a los demás concesionarios las cantidades que correspondan a la aplicación de las citadas tarifas. En este supuesto, los concesionarios citados podrán compensar las cantidades a ser restituidas contra otras cantidades que le adeuden al agente económico preponderante;
+
+IX. El Instituto Federal de Telecomunicaciones autorizará al agente económico que propuso el plan y a los agentes económicos resultantes o que formen parte de dicho plan, la prestación de servicios adicionales a los que son objeto de su concesión o su tránsito al modelo de concesión única, a partir de que certifique que el plan se ha ejecutado efectivamente y siempre que con la ejecución de dicho plan se generen condiciones de competencia efectiva en los mercados que integran el sector de telecomunicaciones de conformidad con la Ley Federal de Competencia Económica;
+
+X. Una vez que el Instituto Federal de Telecomunicaciones certifique que el plan aprobado ha sido ejecutado efectivamente, procederá a extinguir:
+
+a. Las resoluciones mediante las cuales haya determinado al agente económico como preponderante en el sector de las telecomunicaciones así como las medidas asimétricas que le haya impuesto en los términos de lo dispuesto en la fracción III y IV del artículo Octavo del Decreto antes referido, y
+
+b. Las resoluciones mediante las cuales haya determinado al agente económico con poder sustancial en algún mercado, así como las medidas específicas que le haya impuesto.
+
+DÉCIMO TERCERO. El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, realizará las acciones tendientes a instalar la red pública compartida de telecomunicaciones a que se refiere el artículo Décimo Sexto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+
+En caso de que el Ejecutivo Federal requiera de bandas de frecuencias del espectro liberado por la transición a la Televisión Digital Terrestre (banda 700 MHz) para crecer y fortalecer la red compartida señalada en el párrafo que antecede, el Instituto Federal de Telecomunicaciones las otorgará directamente, siempre y cuando dicha red se mantenga bajo el control de una entidad o dependencia pública o bajo un esquema de asociación público-privada.
+
+DÉCIMO CUARTO. El Instituto Federal de Telecomunicaciones deberá implementar un sistema de servicio profesional dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, el cual deberá contener, entre otros aspectos, el reconocimiento de los derechos de los trabajadores de la Comisión Federal de Telecomunicaciones que se encuentren certificados como trabajadores del servicio profesional.
+
+DÉCIMO QUINTO. El Instituto Federal de Telecomunicaciones deberá instalar su Consejo Consultivo dentro de los ciento ochentas días naturales siguientes a la entrada en vigor del presente Decreto.
+
+DÉCIMO SEXTO. La Secretaría de Comunicaciones y Transportes deberá establecer los mecanismos para llevar a cabo la coordinación prevista en el artículo 9, fracción V de la Ley Federal de Telecomunicaciones y Radiodifusión, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+DÉCIMO SÉPTIMO. Los permisos de radiodifusión que se encuentren vigentes o en proceso de refrendo a la entrada en vigor del presente Decreto, deberán transitar al régimen de concesión correspondiente dentro del año siguiente a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, en los términos que establezca el Instituto. Los permisos que hayan sido otorgados a los poderes de la Unión, de los estados, los órganos de Gobierno del Distrito Federal, los municipios, los órganos constitucionales autónomos e instituciones de educación superior de carácter público deberán transitar al régimen de concesión de uso público, mientras que el resto de los permisos otorgados deberán hacerlo al régimen de concesión de uso social.
+
+Para transitar al régimen de concesión correspondiente, los permisionarios deberán presentar solicitud al Instituto Federal de Telecomunicaciones, quien resolverá lo conducente, en un plazo de noventa días hábiles.
+
+En tanto se realiza la transición, dichos permisos se regirán por lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión para las concesiones de uso público o social, según sea el caso.
+
+En caso de no cumplir con el presente artículo, los permisos concluirán su vigencia.
+
+DÉCIMO OCTAVO. El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento ochenta días siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, el programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión a que se refiere el inciso b) de la fracción V del artículo Décimo Séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. En la determinación del programa de trabajo, el Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de competencia y la continuidad en la prestación de los servicios.
+
+DÉCIMO NOVENO. La transición digital terrestre culminará el 31 de diciembre de 2015.
+
+El Ejecutivo Federal, a través de la Secretaría de Comunicaciones y Transportes, implementará los programas y acciones vinculados con la política de transición a la televisión digital terrestre, para la entrega o distribución de equipos receptores o decodificadores a que se refiere el tercer párrafo del artículo Quinto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+
+El Instituto Federal de Telecomunicaciones deberá concluir la transmisión de señales analógicas de televisión radiodifundida en todo el país, a más tardar el 31 de diciembre de 2015, una vez que se alcance un nivel de penetración del noventa por ciento de hogares de escasos recursos definidos por la Secretaría de Desarrollo Social, con receptores o decodificadores aptos para recibir señales digitales de televisión radiodifundida.
+
+Para lo anterior, el Instituto Federal de Telecomunicaciones deberá concluir las señales analógicas de televisión radiodifundida anticipadamente al 31 de diciembre de 2015, por área de cobertura de dichas señales, una vez que se alcance, en el área que corresponda, el nivel de penetración referido en el párrafo que antecede.
+
+La Secretaría de Comunicaciones y Transportes y el Instituto Federal de Telecomunicaciones realizarán campañas de difusión para la entrega o distribución de equipos y para la conclusión de la transmisión de señales analógicas de televisión, respectivamente.
+
+Los concesionarios y permisionarios de televisión radiodifundida estarán obligados a realizar todas las inversiones e instalaciones necesarias para transitar a la televisión digital terrestre a más tardar el 31 de diciembre de 2015. El Instituto Federal de Telecomunicaciones vigilará el debido cumplimiento de la obligación citada.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+
+Aquellos permisionarios o concesionarios de uso público o social, incluyendo las comunitarias e indígenas, que presten el servicio de radiodifusión que no estén en condiciones de iniciar transmisiones digitales al 31 de diciembre de 2015, deberán, con antelación a esa fecha, dar aviso al Instituto Federal de Telecomunicaciones, en los términos previstos en el artículo 157 de la Ley Federal de Telecomunicaciones y Radiodifusión a efecto de que se les autorice la suspensión temporal de sus transmisiones o, en su caso, reduzcan su potencia radiada aparente para que les sea aplicable el programa de continuidad al que se refiere el párrafo siguiente de este artículo. Los plazos que autorice el Instituto en ningún caso excederán del 31 de diciembre de 2016.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+
+En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, las actuales estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales UHF, no se encuentren transmitiendo señales de televisión digital terrestre y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones derivadas de este programa excederán al 31 de diciembre de 2016.
+
+Se derogan las disposiciones legales, administrativas o reglamentarias en lo que se opongan al presente transitorio.
+
+VIGÉSIMO. El Instituto Federal de Telecomunicaciones aplicará el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión y demás que resulten aplicables en materia de interconexión en términos de la misma, y garantizará el debido cumplimiento de las obligaciones establecidas en dichos preceptos, mismos que serán exigibles sin perjuicio e independiente de que a la entrada en vigor de la Ley, ya hubiera determinado la existencia de un agente económico preponderante e impuesto medidas necesarias para evitar que se afecte la competencia y la libre concurrencia de acuerdo a la fracción III del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+
+Para efectos de lo dispuesto en el inciso b) del artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión, y hasta en tanto los concesionarios a que se refiere ese inciso no acuerden las tarifas de interconexión correspondientes o, en su caso, el Instituto no resuelva cualquier disputa respecto de dichas tarifas, seguirán en vigor las que actualmente aplican, salvo tratándose del agente económico al que se refiere le (sic) párrafo segundo del artículo 131 de la Ley en cita, al que le será aplicable el inciso a) del mismo artículo.
+
+VIGÉSIMO PRIMERO. Para la atención, promoción y supervisión de los derechos de los usuarios previstos en la Ley Federal de Telecomunicaciones y Radiodifusión, y en la Ley Federal de Protección al Consumidor, la PROFECO deberá crear un área especializada con nivel no inferior a Subprocuraduría, así como la estructura necesaria para ello, conforme al presupuesto que le apruebe la Cámara de Diputados para tal efecto.
+
+VIGÉSIMO SEGUNDO. El Instituto Federal de Telecomunicaciones deberá emitir las disposiciones administrativas de carácter general a que se refiere el Título Octavo de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+VIGÉSIMO TERCERO. El impacto presupuestario que se genere con motivo de la entrada en vigor del presente Decreto en materia de servicios personales, así como el establecimiento de nuevas atribuciones y actividades a cargo del Instituto Federal de Telecomunicaciones, se cubrirá con cargo al presupuesto aprobado anualmente por la Cámara de Diputados a dicho organismo.
+
+VIGÉSIMO CUARTO. De conformidad con lo dispuesto en los artículos Décimo Quinto, Décimo Sexto y Décimo Séptimo transitorios del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, se deroga el último párrafo del artículo 14 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014.
+
+VIGÉSIMO QUINTO. Lo dispuesto en la fracción V del artículo 118 de la Ley Federal de Telecomunicaciones y Radiodifusión, entrará en vigor el 1 de enero de 2015, por lo que a partir de dicha fecha los concesionarios de redes públicas de telecomunicaciones que presten servicios fijos, móviles o ambos, no podrán realizar cargos de larga distancia nacional a sus usuarios por las llamadas que realicen a cualquier destino nacional.
+
+Sin perjuicio de lo anterior, los concesionarios deberán realizar la consolidación de todas las áreas de servicio local existentes en el país de conformidad con los lineamientos que para tal efecto emita el Instituto Federal de Telecomunicaciones. Cada concesionario deberá asumir los costos que se originen con motivo de dicha consolidación.
+
+Asimismo, el Instituto Federal de Telecomunicaciones, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, deberá definir los puntos de interconexión a la red pública de telecomunicaciones del agente económico preponderante o con poder sustancial.
+
+Las resoluciones administrativas que se hubieren emitido quedarán sin efectos en lo que se opongan a lo previsto en el presente transitorio.
+
+Los concesionarios mantendrán la numeración que les haya sido asignada a fin de utilizarla para servicios de red inteligente en sus modalidades de cobro revertido y otros servicios especiales, tales como números 900.
+
+VIGÉSIMO SEXTO. El Ejecutivo Federal deberá remitir al Senado de la República o, en su caso, a la Comisión Permanente, la propuesta de designación del Presidente del Sistema Público de Radiodifusión del Estado Mexicano, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+El Senado o, en su caso, la Comisión Permanente, deberá designar al Presidente del Sistema dentro de los treinta días naturales siguientes a aquél en que reciba la propuesta del Ejecutivo Federal.
+
+VIGÉSIMO SÉPTIMO. Los representantes de las Secretarías de Estado que integren la Junta de Gobierno del Sistema Público del Estado Mexicano deberán ser designados dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+VIGÉSIMO OCTAVO. La designación de los miembros del Consejo Ciudadano del Sistema Público de Radiodifusión del Estado Mexicano deberá realizarse dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+VIGÉSIMO NOVENO. El Presidente del Sistema Público de Radiodifusión del Estado Mexicano someterá a la Junta de Gobierno, para su aprobación, el proyecto de Estatuto Orgánico, dentro de los noventa días naturales siguientes a su nombramiento.
+
+TRIGÉSIMO. A partir de la entrada en vigor de este Decreto el organismo descentralizado denominado Organismo Promotor de Medios Audiovisuales, se transforma en el Sistema Público de Radiodifusión del Estado Mexicano, el cual contará con los recursos humanos, presupuestales, financieros y materiales del organismo citado.
+
+En tanto se emite el Estatuto Orgánico del Sistema Público de Radiodifusión del Estado Mexicano, continuará aplicándose, en lo que no se oponga a la Ley del Sistema Público de Radiodifusión del Estado Mexicano, el Estatuto Orgánico del Organismo Promotor de Medios Audiovisuales.
+
+Los derechos laborales del personal del Organismo Promotor de Medios Audiovisuales se respetarán conforme a la ley.
+
+TRIGÉSIMO PRIMERO. Los recursos humanos, presupuestales, financieros y materiales del Organismo Promotor de Medios Audiovisuales, pasarán a formar parte del Sistema Público de Radiodifusión del Estado Mexicano una vez que se nombre a su Presidente, sin menoscabo de los derechos laborales de sus trabajadores.
+
+TRIGÉSIMO SEGUNDO. La Secretaría de Gobernación deberá coordinarse con las autoridades que correspondan para el ejercicio de las atribuciones que en materia de monitoreo establece la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+La Cámara de Diputados deberá destinar los recursos necesarios para garantizar el adecuado ejercicio de las atribuciones referidas en el presente transitorio.
+
+TRIGÉSIMO TERCERO. El Instituto Federal de Telecomunicaciones expedirá los lineamientos a que se refiere la fracción III del artículo 158 de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo no mayor a 180 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+TRIGÉSIMO CUARTO. La Cámara de Diputados deberá destinar al Sistema Público de Radiodifusión del Estado Mexicano recursos económicos acordes con sus objetivos y funciones, para lo que deberá considerar:
+
+I. Sus planes de crecimiento;
+
+II. Sus gastos de operación, y
+
+III. Su equilibrio financiero.
+
+TRIGÉSIMO QUINTO. Con excepción de lo dispuesto en el artículo Vigésimo Transitorio, por el cual se encuentra obligado el Instituto Federal de Telecomunicaciones a aplicar el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud de este Decreto y demás que resulten aplicables en materia de interconexión en términos de la misma, las resoluciones administrativas que el Instituto Federal de Telecomunicaciones hubiere emitido previo a la entrada en vigor del presente Decreto en materia de preponderancia continuarán surtiendo todos sus efectos.
+
+TRIGÉSIMO SEXTO. El Instituto Federal de Telecomunicaciones dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, deberá realizar los estudios correspondientes para analizar si resulta necesario establecer mecanismos que promuevan e incentiven a los concesionarios a incluir una barra programática dirigida al público infantil en la que se promueva la cultura, el deporte, la conservación del medio ambiente, el respeto a los derechos humanos, el interés superior de la niñez, la igualdad de género y la no discriminación.
+
+TRIGÉSIMO SÉPTIMO. Para efectos de las autoridades de procuración de justicia referidas en la fracción I del artículo 190 de la Ley Federal de Telecomunicaciones y Radiodifusión, continuarán vigentes las disposiciones de la Ley Federal de Telecomunicaciones en materia de localización geográfica en tiempo real hasta en tanto entre en vigor el Código Nacional de Procedimientos Penales.
+
+TRIGÉSIMO OCTAVO. El Instituto Federal de Telecomunicaciones deberá emitir dentro de los sesenta días hábiles siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, las reglas administrativas necesarias que eliminen requisitos que puedan retrasar o impedir la portabilidad numérica y, en su caso, promover que se haga a través de medios electrónicos.
+
+Las reglas a que se refiere el párrafo anterior, deberán garantizar una portabilidad efectiva y que la misma se realice en un plazo no mayor a 24 horas contadas a partir de la solicitud realizada por el titular del número respectivo.
+
+Para realizar dicha portación solo será necesaria la identificación del titular y la manifestación de voluntad del usuario. En el caso de personas morales el trámite deberá realizarse por el representante o apoderado legal que acredite su personalidad en términos de la normatividad aplicable.
+
+TRIGÉSIMO NOVENO. Para efectos de lo dispuesto en el artículo 264 de la Ley Federal de Telecomunicaciones y Radiodifusión, el Instituto Federal de Telecomunicaciones iniciará, sin perjuicio de lo dispuesto en el artículo Noveno Transitorio del presente Decreto, dentro de los treinta días naturales posteriores a su entrada en vigor, los procedimientos de investigación que correspondan en términos de la Ley Federal de Competencia Económica, a fin de determinar la existencia de agentes económicos con poder sustancial en cualquiera de los mercados relevantes de los sectores de telecomunicaciones y radiodifusión, entre los que deberá incluirse el mercado nacional de audio y video asociado a través de redes públicas de telecomunicaciones y, en su caso, imponer las medidas correspondientes.
+
+CUADRAGÉSIMO. El agente económico preponderante en el sector de las telecomunicaciones o el agente con poder sustancial en el mercado relevante que corresponda, estarán obligados a cumplir con lo dispuesto en los artículos 138, fracción VIII, 208 y en las fracciones V y VI del artículo 267 de la Ley Federal de Telecomunicaciones y Radiodifusión, a partir de su entrada en vigor.
+
+CUADRAGÉSIMO PRIMERO. Las instituciones de educación superior de carácter público, que a la fecha de entrada en vigor del presente Decreto, cuenten con medios de radiodifusión a que se refieren los artículos 67 fracción II y 76 fracción II de la Ley Federal de Telecomunicaciones y Radiodifusión, no recibirán presupuesto adicional para ese objeto.
+
+CUADRAGÉSIMO SEGUNDO. A la concesión para instalar, operar y explotar una red pública de telecomunicaciones que, en los términos del artículo Décimo Quinto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o, 7o, 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, debe ser cedida por la Comisión Federal de Electricidad a Telecomunicaciones de México, no le resultará aplicable lo establecido en los artículos 140 y 144 de la Ley Federal de Telecomunicaciones y Radiodifusión, exclusivamente respecto a aquellos contratos vigentes a la fecha de publicación del presente Decreto que hayan sido celebrados entre la Comisión Federal de Electricidad y aquellas personas físicas o morales que, conforme a la misma Ley, han de ser considerados como usuarios finales.
+
+Dichos contratos serán cedidos por la Comisión Federal de Electricidad a Telecomunicaciones de México, junto con el título de concesión correspondiente. Telecomunicaciones de México cederá los referidos contratos a favor de otros concesionarios autorizados a prestar servicios a usuarios finales, dentro de los seis meses siguientes a la fecha en que le hubieren sido cedidos.
+
+En caso de que exista impedimento técnico, legal o económico para que Telecomunicaciones de México pueda ceder los referidos contratos, estos se mantendrán vigentes como máximo hasta la fecha en ellos señalada para su terminación, sin que puedan ser renovados o extendidos para nuevos períodos.
+
+CUADRAGÉSIMO TERCERO. Dentro de un plazo que no excederá de 36 meses a partir de la entrada en vigor del presente Decreto, las señales de los concesionarios de uso comercial que transmitan televisión radiodifundida y que cubran más del cincuenta por ciento del territorio nacional deberán contar con lenguaje de señas mexicana o subtitulaje oculto en idioma nacional, en la programación que transmitan de las 06:00 a las 24:00 horas, excluyendo la publicidad y otros casos que establezca el Instituto Federal de Telecomunicaciones, atendiendo a las mejores prácticas internacionales. Los entes públicos federales que sean concesionarios de uso público de televisión radiodifundida estarán sujetos a la misma obligación.
+
+CUADRAGÉSIMO CUARTO. En relación a las obligaciones establecidas en materia de accesibilidad para personas con discapacidad referidas en la Ley Federal de Telecomunicaciones y Radiodifusión para los defensores de las audiencias, los concesionarios contarán con un plazo de hasta noventa días naturales a partir de la entrada en vigor del presente Decreto para iniciar las adecuaciones y mecanismos que correspondan.
+
+CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del agente económico preponderante en radiodifusión, prevista en la fracción VII del artículo 266 de la Ley Federal de Telecomunicaciones y Radiodifusión, no será aplicable al o los concesionarios que resulten de la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
+
+D.O.F. 24 DE DICIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE ENERO DE 2015.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría de Educación Pública, así como las demás autoridades con quienes se coordinarán para llevar a cabo los servicios de educación básica para adultos en los términos del presente Decreto, deberán llevar a cabo un diagnóstico inicial para la identificación de la población objetivo de estos servicios, en un plazo de ciento ochenta días contados a partir de la publicación del presente Decreto, mismo que deberá actualizarse cada año.
+
+Tercero.- Para los programas de educación básica para adultos, en los términos del presente Decreto, la Secretaría de Educación Pública conjuntamente con las dependencias del Gobierno Federal, los Gobiernos de los Estados, del Distrito Federal y los Municipios, así como las entidades públicas o privadas deberán establecer los plazos y las metas para lograr los objetivos que se fijen, de acuerdo a los diagnósticos señalados en el artículo transitorio anterior, tomando en consideración las asignaciones presupuestales previstas para ello.
+
+Cuarto.- La Secretaría de Educación Pública, las dependencias del Gobierno Federal, los Gobiernos de los Estados, del Distrito Federal y los Municipios, así como las entidades públicas o privadas deberán definir los esquemas de incentivos y otorgar las facilidades necesarias para que los servidores públicos que se encuentran en rezago educativo puedan concluir su educación básica.
+
+D.O.F. 13 DE MAYO DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO DÉCIMO NOVENO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EL 14 DE JULIO DE 2014".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+
+Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+
+D.O.F. 30 DE DICIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES XIV Y XV AL ARTÍCULO 32 Y SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 34 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL.
+
+Primero. El presente Decreto entrará en vigor el primero de enero del año dos mil dieciséis, sin perjuicio de lo señalado en las siguientes disposiciones transitorias.
+
+Segundo. El Ejecutivo Federal, a más tardar a los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizar las modificaciones a las disposiciones reglamentarias correspondientes.
+
+Tercero. El Acuerdo de organización y funcionamiento del Instituto Nacional de la Economía Social publicado el 22 de julio de 2013 en el Diario Oficial de la Federación, continuará aplicándose en lo que no se oponga a este Decreto, hasta que la Secretaría de Desarrollo Social emita el nuevo Acuerdo. En tanto ello sucede, dicha Secretaría resolverá respecto de aquello que no se encuentre previsto.
+
+Cuarto. Los oficiales mayores de la secretarías de Desarrollo Social y de Economía, con la participación que corresponda al Instituto Nacional de la Economía Social y el apoyo de la Secretaría de Hacienda y Crédito Público, realizarán todas las acciones administrativas para dar cumplimiento a lo establecido en el presente Decreto, mismas que deberán estar concluidas a más tardar en el plazo a que se refiere el transitorio Segundo de este Decreto.
+
+Quinto. Los derechos laborales de los trabajadores del Instituto Nacional de la Economía Social no se verán afectados con motivo de la entrada en vigor de este Decreto.
+
+En caso de que la Secretaría de Desarrollo Social determine, con base en las prioridades de gasto público del ejercicio fiscal de que se trate, así como en las necesidades y funciones del Instituto Nacional de la Economía Social, que se deben realizar modificaciones a la estructura orgánica de éste, los derechos laborales de los trabajadores deberán ser respetados conforme a la Ley.
+
+Sexto. En el plazo referido en el transitorio segundo de este Decreto, la Secretaría de Desarrollo Social emitirá las reglas de operación, que contendrán al menos lo siguiente:
+
+a) Para la consolidación empresarial y el desarrollo de organismos del sector social de la economía que cumplan con los requisitos establecidos en las propias reglas de operación recibirán los apoyos del Instituto.
+
+b) Los beneficiarios de los programas que actualmente opera la Secretaría correspondientes y que se incorporen a los programas operados por el Instituto, serán sujetos de las reglas de operación del programa de fomento a la economía social y deberán cumplir con los criterios vigentes de elegibilidad y requisitos para ser beneficiarios de los programas operados por el Instituto.
+
+c) Los mecanismos de evaluación y transparencia sobre los resultados de los programas a cargo del Instituto y el padrón de beneficiarios a través de las disposiciones aplicables.
+
+Con la finalidad de verificar el cumplimiento de las políticas públicas de fomento y apoyo, el Consejo Nacional de Evaluación de la Política de Desarrollo Social realizará la evaluación de los programas a cargo de la Secretaría de Desarrollo Social, y los remitirá a la Cámara de Diputados, en los términos que establece la Ley de la Economía Social y Solidaria Reglamentaria del párrafo octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía.
+
+D.O.F. 30 DE DICIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL Y DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Consejo Nacional de Armonización Contable, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, emitirá las reglas de operación que deberán cumplir las entidades federativas para la integración y funcionamiento de sus consejos de armonización contable.
+
+Tercero. Las entidades federativas deberán instalar sus consejos de armonización contable a más tardar a los treinta días naturales siguientes a la emisión de las reglas a que se refiere el artículo transitorio anterior.
+
+Cuarto. En la fecha a que se refiere el transitorio Primero del presente Decreto, entrará en vigor la modificación prevista a la fracción XIX del artículo 31 de la Ley Orgánica de la Administración Pública Federal, establecida en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013.
+
+Quinto. El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables, de conformidad con lo previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+Sexto. Derivado de lo previsto en el presente Decreto, los trámites que se hayan iniciado ante la Secretaría de la Función Pública serán concluidos por la Secretaría de Hacienda y Crédito Público.
+
+Las secretarías de Hacienda y Crédito Público y de la Función Pública realizarán las acciones que correspondan en el ámbito administrativo para que, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Hacienda y Crédito Público reciba los asuntos en trámite, a fin de dar cumplimiento a lo previsto en el párrafo anterior.
+
+Las erogaciones que, en su caso, realicen las dependencias a que se refiere el párrafo anterior en cumplimiento a este Decreto, se cubrirán con cargo a sus respectivos presupuestos aprobados para el ejercicio fiscal correspondiente.
+
+Séptimo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 18 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL EN MATERIA DE CONTROL INTERNO DEL EJECUTIVO FEDERAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en el Decreto por el que se expide la Ley General de Responsabilidades Administrativas.
+
+SEGUNDO. Se deroga el Segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013.
+
+TERCERO. Por lo que respecta a las atribuciones de la Secretaría de Hacienda y Crédito Público a que se refieren las fracciones XXIX, XXX y XXXIII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, éstas entrarán en vigor cuando el Titular del Poder Ejecutivo Federal expida las reformas a los reglamentos interiores de las Secretarías de Estado afectadas por el presente Decreto, las cuales deberán realizarse en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, y que deberán prever las modificaciones necesarias para la readscripción de los órganos desconcentrados que corresponda.
+
+Las facultades con que cuentan las unidades administrativas y órganos desconcentrados que, por virtud del presente Decreto, pasen a formar parte de otras dependencias, continuarán vigentes en términos de los reglamentos interiores que las rigen, hasta en tanto sean emitidos los nuevos reglamentos interiores, conforme a lo dispuesto en el párrafo anterior.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+Los recursos humanos, financieros y materiales con que cuenten las unidades administrativas de las dependencias cuyas funciones cambian por este Decreto a otras Secretarías de Estado, se transferirán a éstas, a fin de apoyar el cumplimiento de los programas y metas que les corresponden.
+
+Los oficiales mayores de las dependencias a que se refiere el presente Decreto serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimiento al presente Decreto, así como de la elaboración de la información necesaria para la integración de la Cuenta Pública en el ámbito de su competencia.
+
+La Secretaría de Hacienda y Crédito Público podrá dictar los lineamientos y disposiciones de carácter general que estime necesarios para la transferencia de los recursos humanos, financieros y materiales y la debida ejecución de lo dispuesto en este artículo.
+
+Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarías cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a las dependencias que, respectivamente, adquieren tales funciones, de manera enunciativa, las contenidas en la Ley General de Bienes Nacionales.
+
+Los programas aprobados en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2016 continuarán siendo ejecutados hasta el final de dicho ejercicio por las dependencias que hayan mantenido o a las que les hayan sido transferidas las atribuciones y unidades administrativas u organismos desconcentrados relacionadas con dichos programas.
+
+D.O.F. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, DE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS Y DE LA LEY DE PUERTOS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- En tanto el Ejecutivo Federal expida las modificaciones a las disposiciones reglamentarias y administrativas que sean necesarias para ejecutar el presente Decreto, se seguirán aplicando, en lo que no se opongan, las disposiciones emitidas con anterioridad a la entrada en vigor de este ordenamiento.
+
+Artículo Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina y a la Secretaría de Comunicaciones y Transportes, según corresponda.
+
+Artículo Cuarto.- Los recursos humanos, financieros y materiales con que cuenta la Secretaría de Comunicaciones y Transportes para la ejecución de las funciones que por virtud de este Decreto cambian a la Secretaría de Marina, se transferirán a ésta a más tardar en la fecha de entrada en vigor del mismo.
+
+Las secretarías de Marina y de Comunicaciones y Transportes determinarán la distribución de los recursos humanos que se encuentren adscritos a las capitanías de puerto, atendiendo a las atribuciones que se les confieren conforme al presente Decreto.
+
+Los oficiales mayores de las secretarías de Comunicaciones y Transportes y de Marina serán responsables del proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerán y acordarán lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la Administración Pública Federal.
+
+Artículo Quinto.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la Ley.
+
+Artículo Sexto.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionan con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última dependencia.
+
+Artículo Séptimo.- Dentro del plazo de noventa días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Comunicaciones y Transportes, a través de las Administraciones Portuarias Integrales, dispondrá de instalaciones y recursos materiales, para habilitar las oficinas de servicios a la Marina Mercante, en donde determine la propia Secretaría.
+
+Artículo Octavo.- Las menciones a la Secretaría de Comunicaciones y Transportes en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de las atribuciones que se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
+
+D.O.F. 19 DE MAYO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 30 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y 2 DE LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor de este Decreto.
+
+D.O.F. 9 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
+
+Tercero. La Secretaría de Gobernación, en un plazo de ciento ochenta días a partir de la entrada en vigor de las modificaciones reglamentarias que refiere el artículo transitorio anterior, deberá expedir los lineamientos previstos en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+Cuarto. Durante los periodos referidos en los artículos segundo y tercero transitorios del presente Decreto, los distribuidores, comercializadores y arrendadores de videojuegos deberán tomar las medidas necesarias para que los videojuegos clasificados como exclusivos para adultos, de conformidad con los criterios de clasificación internacionales, no sean vendidos o arrendados a personas que no acrediten su mayoría de edad en términos de lo dispuesto en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+D.O.F. 24 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 41 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE JUNIO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO SÉPTIMO TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN”, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014”.]
 
@@ -3439,3 +3613,35 @@ D.O.F. 22 DE ENERO DE 2020.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Todas las referencias que hagan mención al Instituto de Administración de Bienes y Activos en las leyes y demás normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado.
+
+D.O.F. 7 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, DE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS Y DE LA LEY DE PUERTOS”.]
+
+Primero. El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal y la Secretaría de Marina, en el ámbito de sus respectivas competencias, expedirán las modificaciones del Reglamento de la Ley de Navegación y Comercio Marítimos, del Reglamento de la Ley de Puertos, del Reglamento del Centro Unificado para la Protección Marítima y Portuaria y de las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+En tanto el Ejecutivo Federal o la Secretaría de Marina expidan las modificaciones a las disposiciones reglamentarias y administrativas que sean necesarias para ejecutar el presente Decreto, se seguirán aplicando, en lo que no se opongan, las disposiciones emitidas con anterioridad a la entrada en vigor del presente Decreto.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina y a la Secretaría de Comunicaciones y Transportes, según corresponda.
+
+Cuarto. Los recursos humanos, financieros y materiales con que cuenta la Secretaría de Comunicaciones y Transportes, respecto a la Coordinación General de Puertos y Marina Mercante, incluidas las Administraciones Portuarias Integrales y en general, todos aquellos recursos necesarios para la ejecución de las atribuciones que por virtud de este Decreto serán trasladadas a la Secretaría de Marina, tales como dragado, puertos, y educación náutica, se transferirán a esta última dependencia a más tardar en la fecha de entrada en vigor del mismo.
+
+La transferencia señalada en el párrafo anterior incluirá la administración y los recursos humanos, materiales y financieros pertenecientes al Fideicomiso de Formación y Capacitación para el Personal de la Marina Mercante, así como lo concerniente al Fideicomiso del Fondo para el Fortalecimiento a la Infraestructura Portuaria y en general todos aquellos Fideicomisos y Entidades del Sector relacionados con la transferencia de atribuciones señaladas en el presente Decreto.
+
+Las Secretarías de Comunicaciones y Transportes y de Marina serán responsables del proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerán y acordarán lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la administración pública federal.
+
+Las Secretarías de Hacienda y Crédito Público y de la Función Pública establecerán los lineamientos y disposiciones de carácter general que sean necesarios para la transferencia de los recursos humanos, financieros y materiales y la debida ejecución de lo dispuesto en este artículo.
+
+Quinto. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán conforme a la legislación aplicable.
+
+Sexto. Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionen con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última, conforme a las disposiciones jurídicas aplicables.
+
+Séptimo. A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de la Secretaría de Comunicaciones y Transportes cuyas atribuciones se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
+
+D.O.F. 11 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XX AL ARTÍCULO 29 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
