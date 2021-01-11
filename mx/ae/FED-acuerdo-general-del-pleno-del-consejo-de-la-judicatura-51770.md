@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2020-12-21"
+last_updated: "2021-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,6 +24,8 @@ issue_date: "2006-08-09"
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 11 DE ENERO DE 2021.]</small>
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -1035,7 +1037,9 @@ Cuando dos o más titulares seleccionen a un mismo integrante de la lista, deber
 
 La o el titular sólo podrán seleccionar integrantes de listas de otros circuitos, cuando en la de ese circuito no hubieren personas acreditadas para desempeñarse en la categoría requerida.
 
-El o la titular del órgano jurisdiccional deberá nombrar a la persona que cubrirá la vacante dentro de un plazo de treinta días naturales a partir de que esta se genere, notificando de ello al Instituto en un periodo no mayor a tres días hábiles, a partir de que se genere la vacante. En caso de no hacerlo, el Instituto comunicará a las Secretarías Técnicas de las Comisiones de Administración; Carrera Judicial; y Adscripción, para que éstas tomen nota sobre la organización y administración de los recursos a cargo del titular, para los efectos a que haya lugar.
+> <small>(F. DE E., D.O.F. 11 DE ENERO DE 2021)</small>
+
+El o la titular del órgano jurisdiccional deberá nombrar a la persona que cubrirá la vacante dentro de un plazo de treinta días naturales a partir de que esta se genere. Una vez otorgado el nombramiento, se deberá notificar al Instituto dentro de los tres días hábiles siguientes, con la finalidad de que éste haga el ajuste correspondiente en las listas. En caso de no realizarse el nombramiento, la Dirección General de Recursos Humanos comunicará a las Secretarías Técnicas de las Comisiones de Administración; Carrera Judicial; y Adscripción, para que éstas tomen nota sobre la organización y administración de los recursos a cargo del o la titular, para los efectos a que haya lugar.
 
 > <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
@@ -1127,15 +1131,19 @@ Los magistrados distribuirán equitativamente las plazas asignadas a la Secretar
 
 La Comisión queda facultada para, en los casos no previstos en este Acuerdo, resolver las consultas relativas a nombramientos de oficiales judiciales, actuarios y de secretarios de tribunales de circuito y juzgados de distrito, a propuesta del magistrado de Circuito o juez de Distrito respectivo, previa acreditación del curso o examen de aptitud correspondiente siempre y cuando se cumplan con los requisitos previstos en la Ley y en este Acuerdo General.
 
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020) (F. DE E., D.O.F. 11 DE ENERO DE 2021)
 
 ###### Artículo 77.
 
-Las y los titulares de órganos jurisdiccionales tendrán la obligación de informar los vínculos familiares y de pareja del personal que hubieran contratado, en razón de que es responsabilidad de cada persona informar sus relaciones.
+Las y los servidores públicos tendrán la obligación de informar sus vínculos familiares y de pareja, en razón de que es responsabilidad de cada persona declarar sus relaciones.
 
-En el caso de los tribunales colegiados, el presidente será el encargado de informar los vínculos familiares del personal que no esté asignado a una ponencia.
+> <small>(F. DE E., D.O.F. 11 DE ENERO DE 2021)</small>
 
-Para efectos de lo previsto en los dos párrafos precedentes, cada persona deberá registrar sus propias relaciones en el padrón respectivo, así como informarlas a las y los titulares respectivos. Asimismo, cada persona tendrá la obligación de refrendar y actualizar electrónicamente sus relaciones familiares cada seis meses.
+Para tal efecto, deberán hacer el registro en el padrón respectivo e informarlas a sus titulares, para el único efecto de que éstos tengan claridad sobre posibles parentescos que puedan actualizar una prohibición de contratación en el futuro. En el caso de los tribunales colegiados, los vínculos familiares y de pareja del personal que no esté asignado a una ponencia, serán informados a la presidencia.
+
+> <small>(F. DE E., D.O.F. 11 DE ENERO DE 2021)</small>
+
+Asimismo, cada persona tendrá la obligación de refrendar y actualizar electrónicamente sus relaciones familiares cada seis meses.
 
 Los periodos para informar y refrendar serán los primeros quince días de los meses de mayo y noviembre de cada anualidad, en términos de la plantilla autorizada hasta el día inmediato anterior. La actualización deberá hacerse dentro de los primeros quince días a partir de la notificación electrónica que se haga en el correo institucional o cuando se tenga conocimiento del vínculo familiar, con excepción del trámite que para titulares y relaciones familiares en el propio órgano prevé el artículo 73 de este Acuerdo.
 
