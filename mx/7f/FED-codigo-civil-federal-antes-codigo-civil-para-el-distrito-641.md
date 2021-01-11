@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2020-03-27"
+last_updated: "2021-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2025-11-14"
 
 CÓDIGO CIVIL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2021.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2138,15 +2138,21 @@ El cónyuge que se haya separado del otro, sigue obligado a cumplir con los gast
 
 ### CAPITULO III. De la Violencia Familiar
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2021)</small>
 
-ARTICULO 323 bis.- Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
+ARTICULO 323 bis.- Los integrantes de la familia, en particular niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ARTICULO 323 ter.- Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
 
-Por violencia familiar se considera el uso de la fuerza física o moral, así como las omisiones graves, que de manera reiterada ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica o ambas independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+Queda prohibido que la madre, padre o cualquier persona en la familia, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños o adolescentes. Se define el castigo corporal y humillante según lo dispuesto por la fracción VIII del artículo 47 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+Por violencia familiar se considera el uso intencional de la fuerza física, moral o de cualquier acto que tenga como objetivo provocar dolor, molestia o humillación, incluyendo el castigo corporal y humillante contra niñas, niños y adolescentes, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica y emocional independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.
 
 ## TITULO SEPTIMO. De la paternidad y filiación
 
@@ -2778,7 +2784,13 @@ Cuando llegue a conocimiento de los Consejos Locales de Tutela o de cualquier au
 
 Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
 
-La facultad de corregir no implica infligir al menor actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 323 ter de este Código.
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 2021)</small>
+
+Queda prohibido que la madre, padre o cualquier persona que ejerza la patria potestad, tutela o guarda, custodia y crianza de niñas, niños y adolescentes, utilice el castigo corporal o humillante como forma de corrección o disciplina de niñas, niños o adolescentes.
 
 ###### ARTICULO 424.
 
@@ -13001,3 +13013,9 @@ Cuarto. Para efectos de las cuentas a que se refiere el tercer párrafo del art�
 Quinto. En todo caso, las instituciones de crédito que aperturen las cuentas a que se refiere el tercer párrafo del artículo 59 de la Ley de Instituciones de Crédito que se reforma, se asegurarán que en los contratos que al efecto se celebren se establezca la obligación a cargo de la institución de dar conocimiento a los padres o tutores sobre la apertura de la cuenta y que puedan solicitar y consultar estados de cuenta y movimientos de las cuentas de depósito. La Secretaría de Hacienda y Crédito Público establecerá en las disposiciones de carácter general lo señalado en este artículo.
 
 Sexto. Las instituciones públicas que tengan a su cargo la ejecución de programas gubernamentales, cuyos recursos sean susceptibles de ser entregados en cuentas de depósito bancario de dinero, y entre sus beneficiarios se encuentren adolescentes a partir de los quince años cumplidos, deberán enviar a la Comisión Nacional Bancaria y de Valores en forma trimestral a partir de la entrada en vigor de este Decreto, un informe que contenga el listado de los beneficiarios en dicho rango de edad.
+
+D.O.F. 11 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, Y DEL CÓDIGO CIVIL FEDERAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
