@@ -4,7 +4,7 @@ identifier: "LIH"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-08-11"
-last_updated: "2020-01-17"
+last_updated: "2021-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101925&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -794,7 +794,7 @@ Para la determinación de las tasas para el cálculo del derecho a que se refier
 
 ### CAPÍTULO III. DEL DERECHO DE EXPLORACIÓN DE HIDROCARBUROS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020", PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE ENERO DE 2020.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021", PUBLICADO EN EL D.O.F. DE 11 DE ENERO DE 2021.]</small>
 
 ###### Artículo 45.
 
@@ -938,7 +938,7 @@ Para los efectos del presente Título, el Asignatario, para evaluar proyectos de
 
 Están obligados al pago del impuesto por la actividad de exploración y extracción de hidrocarburos, los Contratistas y Asignatarios por el Área Contractual y Área de Asignación, respectivamente, definida en el Contrato o Asignación que corresponda.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020", PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE ENERO DE 2020.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021", PUBLICADO EN EL D.O.F. DE 11 DE ENERO DE 2021.]</small>
 
 ###### Artículo 55.
 
@@ -1193,3 +1193,7 @@ Segundo. Para los efectos de lo previsto en los artículos 39 y 42 de la Ley de 
 RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 17 DE ENERO DE 2020.
 
 > <small>[N. DE E. VÉASE ANEXO 27 PUBLICADO EN EL D.O.F. DE 17 DE ENERO DE 2020, SEGUNDA SECCIÓN, PÁGINA 201, EN “ANEXOS 23, 25, 25-BIS Y 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020, PUBLICADA EL 28 DE DICIEMBRE DE 2019”.]</small>
+
+RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 11 DE ENERO DE 2021.
+
+> <small>[N. DE E. VÉASE ANEXO 27 PUBLICADO EN EL D.O.F. DE 11 DE ENERO DE 2021, PÁGINA 257, EN "ANEXO 3 DE LA RESOLUCIÓN MISCELANEA FISCAL PARA 2021".]</small>
