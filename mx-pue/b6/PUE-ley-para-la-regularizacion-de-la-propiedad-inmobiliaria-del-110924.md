@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-regularizacion-de-la-propiedad-inmobiliaria-del-110
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-23"
-last_updated: "2016-03-16"
+last_updated: "2021-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY PARA LA REGULARIZACION DE LA PROPIEDAD INMOBILIARIA DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA LA REGULARIZACIÓN DE PREDIOS RÚSTICOS, URBANOS Y SUBURBANOS EN EL RÉGIMEN DE PROPIEDAD PRIVADA DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 12 DE ENERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA REGULARIZACIÓN DE LA PROPIEDAD INMOBILIARIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2021 (ABROGADA).
 
 Ley publicada en la Trigésima Primera Sección del Periódico Oficial del Estado de Puebla, el miércoles 23 de diciembre de 2015.
 
@@ -204,3 +206,15 @@ P.O. 16 DE MARZO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 12 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY PARA LA REGULARIZACIÓN DE PREDIOS RÚSTICOS (SIC) URBANOS Y SUBURBANOS EN EL RÉGIMEN DE PROPIEDAD PRIVADA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se abroga la Ley para la Regularización de la Propiedad Inmobiliaria del Estado de Puebla, publicada en el Periódico Oficial del Estado de Puebla el veintitrés de diciembre de dos mil quince; y se dejan sin efecto las disposiciones que se opongan a la presente Ley.
+
+TERCERO. Los procedimientos y demás actos jurídicos que se hayan iniciado en vigencia de la Ley que se abroga y se encuentren en trámite, se continuarán tramitando con la misma, hasta su total conclusión.
+
+CUARTO. La Dirección General deberá formular y expedir las Reglas de Operación del Programa Estatal, necesarias para la aplicación de esta Ley.
