@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-para-el-ejercicio-fiscal-2021-del-municipio-146
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-30"
-last_updated: "2020-12-30"
+last_updated: "2021-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE INGRESOS DEL MUNICIPIO DE BACHÍNIVA PARA EL EJERCICIO FISCAL DE 2021 DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2021.
 
 Ley publicada en el Número 105 del Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 2020.
 
