@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-para-el-ejercicio-fiscal-2021-del-municipio-147
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-30"
-last_updated: "2020-12-30"
+last_updated: "2021-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE INGRESOS DEL MUNICIPIO DE MORELOS PARA EL EJERCICIO FISCAL DE 2021 DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2021.
 
 Ley publicada en el Número 105 del Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 2020.
 
@@ -47,13 +47,17 @@ Becerradas, novilladas y jaripeos 12%
 
 Box y Lucha 15%
 
-Carreras: de caballos, perros, automóviles, motocicletas y otras. 15%
+Carreras: de caballos, perros, automóviles,
+
+motocicletas y otras. 15%
 
 Circos 8%
 
 Corridas de toros y peleas de gallos 15%
 
-Espectáculos teatrales, revistas, variedades, conciertos y conferencias 8%
+Espectáculos teatrales, revistas, variedades,
+
+conciertos y conferencias 8%
 
 Exhibiciones y concursos 11%
 
@@ -137,7 +141,9 @@ Fondo de Fomento Municipal 70% (FFM) 0.437970
 
 Fondo de Fomento Municipal 30% (FFM) 0.437970
 
-Impuestos Sobre Producción y Servicios en materia de cervezas, bebidas alcohólicas y
+Impuestos Sobre Producción y Servicios
+
+en materia de cervezas, bebidas alcohólicas y
 
 tabacos labrados (I EPS) 0.437970
 
@@ -171,9 +177,7 @@ Coeficiente de Distribución
 
 0.219228
 
-3.- Fondo para el Desarrollo Socioeconómico Municipal (FODESEM). Coeficiente de
-
-Distribución
+3.- Fondo para el Desarrollo Socioeconómico Municipal (FODESEM). Coeficiente de Distribución
 
 0.699817
 
