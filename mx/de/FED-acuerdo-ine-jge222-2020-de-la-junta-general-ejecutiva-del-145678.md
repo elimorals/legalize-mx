@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-jge222-2020-de-la-junta-general-ejecutiva-del-14567
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-01-05"
-last_updated: "2021-01-05"
+last_updated: "2021-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145678&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2020-12-18"
 
 ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN PARA EL EJERCICIO FISCAL 2021, EL MANUAL DE REMUNERACIONES PARA LOS SERVIDORES PÚBLICOS DE MANDO; LA PUBLICACIÓN DE LA ESTRUCTURA OCUPACIONAL EN EL DIARIO OFICIAL DE LA FEDERACIÓN Y LA ACTUALIZACIÓN DE LOS TABULADORES DE SUELDOS PARA EL PERSONAL DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL, PARA EL PERSONAL DE LA RAMA ADMINISTRATIVA Y EL DE REMUNERACIONES PARA LAS CONTRATACIONES BAJO EL RÉGIMEN DE HONORARIOS PERMANENTES
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 13 DE ENERO DE 2021, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2021.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 5 de enero de 2021.
 
@@ -315,10 +317,30 @@ La Dirección Ejecutiva de Administración, será la autoridad competente para l
 
 Corresponderá a la Dirección Ejecutiva de Administración, las acciones de vigilancia y seguimiento para el cumplimiento del presente Manual, en el ámbito de sus competencias.
 
-TRANSITORIOS (SIC)
+## TRANSITORIOS
 
 Primero.- Las disposiciones del presente Manual entrarán en vigor al día siguiente de su aprobación y serán aplicables durante el ejercicio fiscal 2021.
 
 ANEXOS
 
 > <small>[N. DE E. VÉASE ANEXOS EN EL D.O.F. DE 5 DE ENERO DE 2021, PAGINAS DE LA 163 A 172.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE ENERO DE 2021.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL “ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE DA CUMPLIMIENTO A LA RESOLUCIÓN EMITIDA POR LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EN EL INCIDENTE DE SUSPENSIÓN DE LA CONTROVERSIA CONSTITUCIONAL 211/2020”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDOS
+
+PRIMERO. Se modifica el Acuerdo INE/JGE222/2020, única y exclusivamente en su Acuerdo Primero, en cuanto a la actualización de los Tabuladores de Sueldos para el Personal del Servicio Profesional Electoral Nacional inciso c) y del Personal de la Rama Administrativa inciso d); así como las Remuneraciones para las contrataciones de prestadores de servicios bajo el régimen de honorarios permanentes, del nivel Tabular TB2 al VC2, conforme a los efectos señalados en la resolución a la que se da cumplimiento.
+
+SEGUNDO. Se aprueba la actualización de los referidos tabuladores y remuneraciones, de conformidad con el Presupuesto de Egresos de la Federación para el ejercicio dos mil dieciocho, en términos de lo dispuesto en el anexo único que forma parte integrante del presente Acuerdo, con efectos a partir del 1° de enero de 2021.
+
+TERCERO. Se instruye a la Secretaría Ejecutiva del Instituto Nacional Electoral para que por conducto de la Dirección del Secretariado se realicen las gestiones a fin de publicar en el Diario Oficial de la Federación, lo aprobado en los puntos primero y segundo del presente Acuerdo.
+
+CUARTO. Se instruye a la Secretaría Ejecutiva del Instituto Nacional Electoral para que por conducto de la Dirección Jurídica se haga del conocimiento de la Suprema Corte de Justicia de la Nación, el cumplimiento dado al Acuerdo dictado en el incidente de suspensión de la controversia constitucional 211/2020.
+
+QUINTO. El presente Acuerdo deberá publicarse en el portal del Instituto Nacional Electoral, en cumplimiento a lo dispuesto en el artículo 5, fracción I, letra A, párrafo 1, del Reglamento del Instituto Nacional Electoral en Materia de Transparencia y Acceso a la Información Pública.
+
+> <small>[N. DE E. VÉASE TABULADOR PARA PUESTOS DE LA RAMA ADMINISTRATIVA EN EL D.O.F. DE 13 DE ENERO DE 2021, PÁGINA 211.]</small>
