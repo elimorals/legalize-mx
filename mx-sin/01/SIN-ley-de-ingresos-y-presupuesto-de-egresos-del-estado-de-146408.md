@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ingresos-y-presupuesto-de-egresos-del-estado-de-146408"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-23"
-last_updated: "2020-12-23"
+last_updated: "2021-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SIN"
 ---
 # LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA, EL EJERCICIO FISCAL DEL AÑO 2021
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA EL EJERCICIO FISCAL DEL AÑO 2021 Y ANEXOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE ENERO DE 2021.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 23 de diciembre de 2020.
 
@@ -687,13 +687,11 @@ Los ahorros o economías que generen las Dependencias y Entidades por concepto d
 
 De conformidad con lo establecido en la Fracción VI del Articulo 26 de la Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles para el Estado de Sinaloa, el Comité Intersecretarial de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado de Sinaloa deberá fijar y publicar en el Periódico Oficial "El Estado de Sinaloa", los montos máximos que aplicarán durante el Ejercicio Fiscal 2021 para la contratación mediante licitación pública, por invitación a cuando menos tres proveedores, o en forma directa a un solo proveedor, de las adquisiciones, arrendamientos de bienes muebles y servicios relacionados con los mismos.
 
+> <small>(F. DE E., P.O. 13 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 71.
 
-Los montos máximos para la contratación mediante el procedimiento de invitación a cuando menos tres personas o por adjudicación directa, en materia de obras públicas o servicios relacionados con las mismas, serán los dispuestos en el Articulo 62 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Sinaloa.
-
-I. Tratándose del procedimiento de adjudicación directa hasta diez mil veces el valor diario de la Unidad de Medida y Actualización; y
-
-II. Tratándose de invitación a tres personas, si el importe supera el monto máximo a que se refiere la fracción anterior, pero no excede de treinta mil veces el valor diario de la Unidad de Medida y Actualización.
+Para llevar a cabo el proceso de contratación de obras públicas o servicios relacionados con las mismas, deberá observarse lo dispuesto por la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Sinaloa.
 
 ###### ARTÍCULO 72.
 
