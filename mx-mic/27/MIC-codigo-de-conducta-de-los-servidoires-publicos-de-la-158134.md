@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-conducta-de-los-servidoires-publicos-de-la-158134"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-12-22"
-last_updated: "2020-12-22"
+last_updated: "2021-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDOIRES PUBLICOS DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION, MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE MICHOACÁN DE OCAMPO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE ENERO DE 2021.]</small>
 
 Código publicado en la Séptima Sección del Número 69 del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 22 de diciembre de 2020.
 
@@ -227,7 +227,11 @@ XIII. Custodiar de manera diligente y responsable la información reservada o co
 
 ### CAPÍTULO III. TRÁMITES Y SERVICIOS
 
-Artículo 7 (SIC). Las y los servidores públicos deben tratar a las personas con las que interactúen con motivo de su empleo cargo o comisión, de manera digna, respetuosa, imparcial, profesional, libre de discriminación, con calidad y calidez, de acuerdo con lo siguiente:
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2021)</small>
+
+###### Artículo 6.
+
+Las y los servidores públicos deben tratar a las personas con las que interactúen con motivo de su empleo cargo o comisión, de manera digna, respetuosa, imparcial, profesional, libre de discriminación, con calidad y calidez, de acuerdo con lo siguiente:
 
 I. Actuar con respeto y cordialidad en el trato, respetando los principios y valores que rigen el ejercicio de la función pública;
 
@@ -245,9 +249,9 @@ VII. Brindar un trato digno y respetuoso a toda persona que solicite algún serv
 
 ### CAPÍTULO IV. RECURSOS HUMANOS
 
-### CAPÍTULO V. ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2021)</small>
 
-###### Artículo 8.
+###### Artículo 7.
 
 La contratación del personal de la Secretaría Ejecutiva será de acuerdo con lo siguiente:
 
@@ -263,9 +267,11 @@ V. Abstenerse de disponer del personal a su cargo en forma indebida, para que re
 
 VI. Excusarse de conocer asuntos que puedan implicar cualquier conflicto de interés.
 
-### CAPÍTULO VI. PROCESOS DE EVALUACIÓN
+### CAPÍTULO V. ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES
 
-###### Artículo 9.
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2021)</small>
+
+###### Artículo 8.
 
 Las y los servidores públicos que, con motivo de su empleo, cargo o comisión, administren bienes o participen en procedimientos de baja, enajenación, transferencia o destrucción de bienes muebles o de administración de bienes inmuebles, deben desempeñar sus funciones con eficacia e integridad, de acuerdo con lo siguiente:
 
@@ -289,9 +295,11 @@ IX. Hacer un uso racional de los bienes y recursos de la Secretaría, contribuye
 
 X. Abstenerse de retirar de las instalaciones de la Secretaría sin causa justificada, los bienes, equipos y materiales para el desempeño de las atribuciones correspondientes.
 
-### CAPÍTULO VII. CONTROL INTERNO
+### CAPÍTULO VI. PROCESOS DE EVALUACIÓN
 
-###### Artículo 10.
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2021)</small>
+
+###### Artículo 9.
 
 Las y los servidores públicos que participen en los procesos de evaluación, deberán garantizar que en los mismos se observen en todo momento los principios de legalidad, imparcialidad y rendición de cuentas, de acuerdo con lo siguiente:
 
@@ -305,17 +313,21 @@ IV. Continuar capacitándome para incrementar mis habilidades, conocimientos y c
 
 V. Entregar y compartir con mis compañeros de trabajo la información que conozco por virtud de mi desempeño para que el Instituto, pueda utilizarla y hacer eficientemente su operación.
 
-### CAPÍTULO VIII. PROCEDIMIENTO ADMINISTRATIVO
+### CAPÍTULO VII. CONTROL INTERNO
 
-###### Artículo 11.
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2021)</small>
+
+###### Artículo 10.
 
 Las y los servidores públicos en el ejercicio de sus funciones deberán contribuir a desarrollar y fortalecer el control interno institucional y evitar la materialización de riesgos, mediante la supervisión y observancia de las reglas y controles internos.
 
 Debiendo rendir en tiempo, forma y con apego a la verdad, las declaraciones de situación patrimonial y de intereses, así como la fiscal, en los términos que señalen las disposiciones aplicables.
 
-### CAPÍTULO IX. DESEMPEÑO PERMANENTE CON INTEGRIDAD
+### CAPÍTULO VIII. PROCEDIMIENTO ADMINISTRATIVO
 
-###### Artículo 12.
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2021)</small>
+
+###### Artículo 11.
 
 Las y Los servidores públicos que, en el ejercicio de su empleo, cargo o comisión, participen en procedimientos administrativos, deben fomentar una cultura de denuncia, respetando las formalidades esenciales del procedimiento y la garantía de audiencia conforme al principio de legalidad, de acuerdo con lo siguiente:
 
@@ -335,9 +347,11 @@ VII. Brindar la documentación o información que las autoridades competentes re
 
 VIII. Proporcionar a las autoridades competentes el auxilio que éstas requieran en términos de las disposiciones aplicables para el ejercicio de sus atribuciones.
 
-### CAPÍTULO X. COMPORTAMIENTO DIGNO
+### CAPÍTULO IX. DESEMPEÑO PERMANENTE CON INTEGRIDAD
 
-###### Artículo 13.
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2021)</small>
+
+###### Artículo 12.
 
 Las y los servidores públicos en el ejercicio de su empleo, cargo o comisión, deben conducir su actuación con integridad, por lo que deberán abstenerse de atender, tramitar o resolver cualquier asunto cuando tengan conflicto de interés, un impedimento legal, o bien cuando pueda verse comprometida su imparcialidad u objetividad, conforme a lo siguiente:
 
@@ -367,9 +381,11 @@ XII. Comunicar o difundir información falsa que pudiera dañar la imagen o pres
 
 XIII. Realizar mi trabajo con responsabilidad, con la más alta calidad y esmero, anteponiendo el interés público Constitucional e Institucional a los intereses particulares.
 
-## TÍTULO III. MECANISMOS DE DENUNCIA POR ACTOS U OMISIONES CONTRARIAS A LO PREVISTO EN EL CÓDIGO DE ÉTICA Y EN ESTE CÓDIGO
+### CAPÍTULO X. COMPORTAMIENTO DIGNO
 
-###### Artículo 14.
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2021)</small>
+
+###### Artículo 13.
 
 Las y los servidores públicos promoverán un ambiente de trabajo positivo y respetuoso sin proferir expresiones, adoptar comportamientos, usar lenguajes o realizar acciones de hostigamiento o acoso sexual, hacia las personas con las que guarda una relación laboral y la ciudadanía en general, de acuerdo con lo siguiente:
 
@@ -391,21 +407,37 @@ VIII. Impedir que se condicione la prestación de un trámite o servicio públic
 
 IX. Evitar cualquier forma de discriminación que se base en las condiciones o características de las personas.
 
-###### Artículo 15.
+## TÍTULO III. MECANISMOS DE DENUNCIA POR ACTOS U OMISIONES CONTRARIAS A LO PREVISTO EN EL CÓDIGO DE ÉTICA Y EN ESTE CÓDIGO
+
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2021)</small>
+
+###### Artículo 14.
 
 Cualquier persona puede hacer del conocimiento de posibles incumplimientos al Código de Ética y al presente Código de Conducta, incluso aquellos casos relativos a probable discriminación o transgresión al comportamiento digno.
 
-###### Artículo 16.
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2021)</small>
+
+###### Artículo 15.
 
 El personal de la Secretaría Ejecutiva hará uso de manera responsable de los mecanismos para la presentación de denuncias de posible incumplimiento de lo previsto en este Código y en el Código de Ética.
 
-###### Artículo 17.
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2021)</small>
+
+###### Artículo 16.
 
 La atención de denuncias sobre posible incumplimiento por parte de las personas servidoras públicas en este Organismo estará a cargo del Comité de Ética e Integridad.
 
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2021)</small>
+
+###### Artículo 17.
+
+La presentación de las denuncias por posible transgresión a la ética pública, así como las sugerencias relacionadas con el servicio público que presta la Comisión, se llevará a cabo a través del (correo electrónico, buzón u otro medio), las cuales serán turnadas al Comité de Ética e Integridad para su atención procedente.
+
 ## TÍTULO IV. DE LA INTERPRETACIÓN DEL CÓDIGO
 
-###### Artículo 19.
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2021)</small>
+
+###### Artículo 18.
 
 Corresponde al Comité de Ética e Integridad interpretar en lo conducente el presente Código
 
@@ -422,7 +454,3 @@ M.A. Y C.P. MARÍA DEL CARMEN PONCE DE LEÓN Y PONCE DE LEÓN
 TITULAR DEL ÓRGANO INTERNO DE CONTROL DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN
 
 (Firmado)
-
-###### Artículo 18.
-
-La presentación de las denuncias por posible transgresión a la ética pública, así como las sugerencias relacionadas con el servicio público que presta la Comisión, se llevará a cabo a través del (correo electrónico, buzón u otro medio), las cuales serán turnadas al Comité de Ética e Integridad para su atención procedente.
