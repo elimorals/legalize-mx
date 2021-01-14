@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-integracion-al-desarrollo-de-las-personas-con-76524
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-10"
-last_updated: "2020-07-28"
+last_updated: "2021-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76524&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-09-09"
 
 LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE ENERO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 10 de septiembre de 2010.
 
@@ -822,7 +822,13 @@ VI. Establecer las condiciones mínimas para lograr de manera equitativa la prod
 
 VII. Impulsar el reconocimiento y el apoyo de su identidad cultural y lingüística específica, incluidas la Lengua de Señas Mexicana y la cultura de los sordos; y
 
-VIII. Promover la capacitación de recursos humanos, el uso de materiales y tecnología, con la finalidad de lograr su integración en las actividades culturales.
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2021)</small>
+
+VIII. Promover la capacitación de recursos humanos, el uso de materiales y tecnología, con la finalidad de lograr su integración en las actividades culturales, y
+
+> <small>(ADICIONADA, G.O. 14 DE ENERO DE 2021)</small>
+
+IX. Elaborar y ejecutar un programa accesible, para promover el pleno goce y disfrute de las artes escénicas y proyecciones cinematográficas para todas las personas con discapacidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MARZO DE 2019)</small>
 
@@ -1503,3 +1509,11 @@ G.O. 28 DE JULIO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 14 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 36 DE LA LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente decreto en la Gaceta Oficial de la Ciudad de México
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
