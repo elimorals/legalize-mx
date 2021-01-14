@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-procuraduria-ambiental-y-del-21026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-24"
-last_updated: "2017-07-20"
+last_updated: "2021-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21026&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2001-04-09"
 
 LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 20 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 14 DE ENERO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 24 de abril de 2001.
 
@@ -54,11 +54,11 @@ DECRETO RELATIVO A LA LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMI
 
 La presente Ley es de orden público e interés social y tiene por objeto establecer la estructura, atribuciones y procedimientos de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2021)</small>
 
 ###### Artículo 2°.
 
-La Procuraduría, como autoridad ambiental y del ordenamiento territorial, es un organismo público descentralizado, de la Administración Pública con personalidad jurídica, patrimonio propio, y autonomía operativa y financiera para el buen desempeño de sus funciones, que tiene por objeto la defensa de los derechos de toda persona a disfrutar de un ambiente adecuado para su desarrollo, salud y bienestar, mediante la promoción y vigilancia de la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial; así como la protección, preservación y restauración del ambiente y el equilibrio ecológico en la Ciudad de México, conforme a las atribuciones que se le otorgan en el presente ordenamiento.
+La Procuraduría, como autoridad ambiental y del ordenamiento territorial, es un organismo público descentralizado, de la Administración Pública con personalidad jurídica, patrimonio propio, y autonomía operativa y financiera para el buen desempeño de sus funciones, que tiene por objeto la defensa de los derechos de toda persona a disfrutar de un ambiente adecuado, y la utilización racional del territorio y los recursos naturales, para su desarrollo, salud y bienestar, mediante la promoción y vigilancia de la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial; así como la protección, preservación y restauración del ambiente y el equilibrio ecológico en la Ciudad de México, conforme a las atribuciones que se le otorgan en el presente ordenamiento.
 
 > <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -74,13 +74,15 @@ I. Acción precautoria: Imposición o ejecución fundada y motivada de medidas o
 
 II. Administración Pública: El conjunto de órganos que componen la Administración Centralizada, Desconcentrada y Paraestatal del Gobierno de la Ciudad de México;
 
-III. Asamblea Legislativa: La Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2021)</small>
+
+III. Congreso: Congreso de la Ciudad de México.
 
 IV. Consejo: El Consejo de Gobierno de la Procuraduría;
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2021)</small>
 
-V. Disposiciones jurídicas en materia ambiental y del ordenamiento territorial: La legislación en materias ambiental, de protección y bienestar animal, desarrollo urbano, patrimonio urbanístico arquitectónico, así como movilidad respecto a uso de vialidades, impacto de movilidad y garantías de los peatones, que sea expedida por la Asamblea Legislativa y las disposiciones jurídicas que de ella deriven, incluyendo los programas correspondientes;
+V. Disposiciones jurídicas en materia ambiental y del ordenamiento territorial: La legislación en materias ambiental, de protección y bienestar animal, desarrollo urbano, patrimonio urbanístico arquitectónico, así como movilidad respecto a uso de vialidades, impacto de movilidad y garantías de los peatones, que sea expedida por el Congreso y las disposiciones jurídicas que de ella deriven, incluyendo los programas correspondientes;
 
 > <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
@@ -128,17 +130,19 @@ XIV. Secretaría: La Secretaría del Medio Ambiente de la Ciudad de México;
 
 XIV BIS. SIG-PAOT: Sistema de Información Geográfica del Patrimonio Ambiental y Urbano de la Ciudad de México, siendo éste el conjunto de herramientas diseñadas para obtener, almacenar, editar, publicar, desplegar y descargar datos espaciales para la visualización de mapas, los cuales permitan generar consultas y reportes sobre el acervo cartográfico a partir del sistema de administración de la información;
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2021)</small>
 
-XV. Sugerencia: Resolución emitida por la Procuraduría y dirigida a la Asamblea Legislativa o a los órganos jurisdiccionales para su consideración en los procedimientos, procesos, recursos, iniciativas de ley, proposiciones legislativas o de cualquier otro asunto de su competencia, que tiene por objeto promover y mejorar la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial; y
+XV. Sugerencia: Resolución emitida por la Procuraduría y dirigida al Congreso o a los órganos jurisdiccionales para su consideración en los procedimientos, procesos, recursos, iniciativas de ley, proposiciones legislativas o de cualquier otro asunto de su competencia, que tiene por objeto promover y mejorar la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 XVI. Tierra: Sistema viviente dinámico conformado por la comunidad indivisible de todos los sistemas de vida y los seres vivos, interrelacionados, interdependientes y complementarios, que comparten un destino común.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE ENERO DE 2021)</small>
+
 ###### Artículo 4°.
 
-El patrimonio de la Procuraduría se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto, por las partidas que se prevean en el Presupuesto de Egresos del Distrito Federal y los bienes y recursos numerarios que por cualquier título adquiera.
+El patrimonio de la Procuraduría se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto, por las partidas que se prevean en el Presupuesto de Egresos de la Ciudad de México y los bienes y recursos numerarios que por cualquier título adquiera.
 
 La Procuraduría administrará su patrimonio conforme a las disposiciones legales aplicables y a los presupuestos y programas aprobados.
 
@@ -154,9 +158,9 @@ Corresponde a la Procuraduría el ejercicio de las siguientes atribuciones:
 
 I. Recibir y atender las denuncias referentes a la violación, incumplimiento o falta de aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial;
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2021)</small>
 
-II. Denunciar ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones o incumplimiento a la legislación administrativa y penal, en materia ambiental y del ordenamiento territorial, protección y bienestar animal o que atenten directamente contra el patrimonio o seguridad de la Procuraduría y su personal en ejercicio de sus funciones;
+II. Denunciar ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones o incumplimiento a la legislación administrativa y penal, en materia ambiental y del ordenamiento territorial, protección y bienestar animal o que atenten directamente contra el patrimonio o seguridad de la Procuraduría y su personal en ejercicio de sus funciones, así como dar seguimiento a los procedimientos hasta la conclusión de los mismos;
 
 > <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
@@ -214,17 +218,17 @@ XI. Dar respuesta, debidamente fundada y motivada a la denuncia presentada y, en
 
 XII. Llevar a cabo conforme a lo dispuesto en esta Ley, investigaciones de oficio respecto del cumplimiento y aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, así como de hechos que generen o puedan producir desequilibrios ecológicos, daños o deterioro grave a los ecosistemas de la Ciudad de México o sus elementos;
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2021)</small>
 
-XIII. Emitir recomendaciones a las dependencias, órganos desconcentrados y entidades de la administración pública federal, estatal, municipal y de la Ciudad de México, con el propósito de promover la aplicación y el cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial; así como para la ejecución de las acciones procedentes derivadas de la falta de aplicación o incumplimiento de dichas disposiciones; cuando incurran en actos u omisiones que generen o puedan generar desequilibrio ecológico, daños o deterioro grave de los ecosistemas o sus elementos;
+XIII. Emitir recomendaciones públicas, autónomas, a las dependencias, órganos desconcentrados y entidades de la administración pública federal, estatal, municipal y de la Ciudad de México, con el propósito de promover la aplicación y el cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial; así como para la ejecución de las acciones procedentes derivadas de la falta de aplicación o incumplimiento de dichas disposiciones; cuando incurran en actos u omisiones que generen o puedan generar desequilibrio ecológico, daños o deterioro grave de los ecosistemas o sus elementos;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2021)</small>
 
-XIV. Emitir sugerencias a la Asamblea Legislativa y a las autoridades jurisdiccionales para su consideración en los procedimientos, procesos, recursos, iniciativas de ley; proposiciones legislativas o de cualquier otro asunto de su competencia relacionados con la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial;
+XIV. Emitir sugerencias al Congreso, al Instituto de Planeación Democrática y Prospectiva, y a las autoridades jurisdiccionales para su consideración en los procedimientos, procesos, recursos, iniciativas de ley; proposiciones legislativas o de cualquier otro asunto de su competencia relacionados con la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial;
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2021)</small>
 
-XV. Formular y validar dictámenes técnicos y periciales de daños ambientales y; en su caso, de la restauración o compensación ambiental de los mismos, o de los efectos adversos en el ambiente y los recursos naturales generados por violaciones, incumplimiento o falta de aplicación de las disposiciones jurídicas, en materia ambiental y del ordenamiento territorial;
+XV. Formular y validar dictámenes técnicos y periciales de daños ambientales y; en su caso, de la restauración o compensación ambiental de los mismos, o de los efectos adversos en el ambiente y los recursos naturales generados por violaciones, incumplimiento o falta de aplicación de las disposiciones jurídicas, en materia ambiental y del ordenamiento territorial, los cuales serán vinculantes;
 
 > <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
 
@@ -242,9 +246,9 @@ XVIII. Promover y procurar la conciliación de intereses entre particulares y en
 
 XIX. Promover el cumplimiento voluntario de las disposiciones jurídicas, relacionadas con las materias de su competencia, así como acciones o mecanismos para que los responsables de obras o actividades que generen o puedan generar efectos adversos al ambiente y los recursos naturales, adopten voluntariamente prácticas adecuadas, para prevenir, evitar, minimizar o compensar esos efectos;
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2021)</small>
 
-XX. Ejercer ante el Tribunal de lo Contencioso Administrativo de la Ciudad de México y otros órganos jurisdiccionales, las acciones necesarias para representar los intereses de la Procuraduría, el interés legítimo de las personas que resulten o puedan resultar afectadas por actos, hechos u omisiones que impliquen o puedan implicar violaciones, incumplimientos o falta de aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, de conformidad con las normas que en cada caso resulten aplicables; así como por riesgos o daños al ambiente, los recursos naturales y al patrimonio urbanístico arquitectónico de la Ciudad de México;
+XX. Ejercer ante el Tribunal de Justicia Administrativa de la Ciudad de México y otros órganos jurisdiccionales, las acciones necesarias para representar los intereses de la Procuraduría, el interés legítimo de las personas que resulten o puedan resultar afectadas por actos, hechos u omisiones que impliquen o puedan implicar violaciones, incumplimientos o falta de aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, de conformidad con las normas que en cada caso resulten aplicables; así como por riesgos o daños al ambiente, los recursos naturales y al patrimonio urbanístico arquitectónico de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -286,9 +290,9 @@ XXVIII. Celebrar toda clase de actos jurídicos que se requieran para el ejercic
 
 XXIX. Formular y difundir estudios, sustanciar y resolver denuncias, así como celebrar toda clase de actos que abonen en cuanto a la prevención, protección, vigilancia de la Tierra y sus recursos naturales;
 
-> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 14 DE ENERO DE 2021)</small>
 
-XXIX BIS. Implementar el Sistema de Información Geográfica del Patrimonio Ambiental y Urbano de la Ciudad de México en todo el territorio correspondiente a la Ciudad de México, el cual tenga como objetivo obtener, almacenar, recuperar y desplegar datos espaciales actualizados de los usos del suelo y medio ambiente de la entidad, a partir de la recopilación de información proporcionada por aquellos entes públicos a los cuales se refiere el artículo 13 BIS de la Ley Orgánica de la Administración Pública del Distrito Federal.
+XXIX BIS. Implementar el Sistema de Información Geográfica del Patrimonio Ambiental y Urbano de la Ciudad de México en todo el territorio correspondiente a la Ciudad de México, el cual tenga como objetivo obtener, almacenar, recuperar y desplegar datos espaciales actualizados de los usos del suelo y medio ambiente de la entidad, a partir de la recopilación de información proporcionada por aquellos entes públicos obligados en razón de la materia.
 
 Estos datos serán utilizados para el monitoreo y actualización constante de este recurso natural así como datos relacionados con el cuidado y preservación del medio ambiente.
 
@@ -360,23 +364,27 @@ X. Las Direcciones, subdirecciones y jefaturas de unidad departamental, así com
 
 Las unidades administrativas señaladas en este artículo tendrán las facultades que expresamente les confiere esta Ley, así como aquellas que se establezcan en el Reglamento.
 
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE ENERO DE 2021)</small>
 
 ###### Artículo 7°.
 
-La Procuraduría estará a cargo de una o un Procurador, nombrado(a) conforme al procedimiento siguiente:
+La Procuraduría estará a cargo de una o un Procurador, nombrado(a) conforme al siguiente procedimiento:
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2021)</small>
 
-I. La o el Jefe de Gobierno de la Ciudad de México hará llegar a la Asamblea Legislativa, la propuesta de una terna que contenga los nombres de las y los candidatos a ocupar el cargo de Procuradora o Procurador;
+I. La persona titular de la Jefatura de Gobierno de la Ciudad de México hará llegar al Congreso, la propuesta de una terna que contenga los nombres de las personas candidatos a ocupar el cargo de Procuradora o Procurador;
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2021)</small>
 
-II. La Comisión de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático de la Asamblea Legislativa citará en un lapso de 10 días naturales después de haber recibido la propuesta, a las y los ciudadanos propuestos para efecto de que comparezcan dentro de los tres días siguientes y respondan a los cuestionamientos que se les formulen;
+II. La Comisión de Preservación del Medio Ambiente, Cambio Climático, Protección Ecológica y Animal del Congreso, citará en un lapso de 10 días naturales después de haber recibido la propuesta, a las y los ciudadanos propuestos para efecto de que comparezcan dentro de los tres días siguientes y respondan a los cuestionamientos que se les formulen;
 
-III. La Asamblea Legislativa por mayoría calificada de votos designará a la persona que habrá de fungir como titular de la Procuraduría para el período de que se trate.
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2021)</small>
 
-IV. (DEROGADA, G.O. 9 DE ENERO DE 2006)
+III. El Congreso por mayoría calificada de votos designará a la persona que habrá de fungir como titular de la Procuraduría para el período de que se trate.
+
+> <small>(ADICIONADA, G.O. 14 DE ENERO DE 2021)</small>
+
+IV. La persona titular de la Jefatura de Gobierno procederá a su nombramiento en cuanto reciba la notificación por el Congreso.
 
 ###### Artículo 8°.
 
@@ -406,11 +414,11 @@ La o el Procurador sólo podrá ser removido en términos del Título Cuarto de 
 
 En ese supuesto o en el de renuncia, la o el Procurador será sustituido interinamente por alguno(a) de los Subprocuradores que designe el Consejo, en tanto se procede al nombramiento por la o el Jefe de Gobierno, bajo el procedimiento de ratificación establecido en la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE ENERO DE 2021)</small>
 
-###### Artículo 10°.
+###### Artículo 10.
 
-El Procurador(a), además de las facultades previstas en la Ley Orgánica de la Administración Pública del Distrito Federal, tendrá las siguientes:
+La persona titular de la Procuraduría tendrá las siguientes atribuciones:
 
 I. Representar a la Procuraduría legalmente y ejercer las funciones que a ésta le correspondan;
 
@@ -453,6 +461,10 @@ X. Nombrar, promover y remover libremente a las y los servidores públicos de la
 XI. Presentar el proyecto de Reglamento al Consejo para su aprobación, así como de las reformas que se consideren necesarias;
 
 XII. Presentar al Consejo el informe anual de sus actividades y del ejercicio de su presupuesto; y
+
+> <small>(ADICIONADA, G.O. 14 DE ENERO DE 2021)</small>
+
+XII BIS. Emitir recomendaciones públicas, autónomas, ante las dependencias y entidades de la administración pública federal, estatal, municipal y de la Ciudad de México.
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -520,11 +532,11 @@ XXVIII. Otorgar reconocimientos a las personas que ajusten sus actividades al es
 
 XXIX. Las demás que se le asignen en los ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2021)</small>
 
 ###### Artículo 11.
 
-La o el Procurador enviará a la o el Jefe de Gobierno y a la Asamblea Legislativa, un informe anual sobre las actividades que la Procuraduría haya realizado en dicho período. Este informe deberá ser publicado en la Gaceta Oficial de la Ciudad de México, y contendrá una descripción sobre las denuncias que se hayan recibido, las investigaciones y conciliaciones realizadas, así como las resoluciones que haya tomado, las recomendaciones y sugerencias emitidas que hayan sido rechazadas, aceptadas cumplidas y las pendientes por cumplimentarse; y los datos estadísticos e información que se consideren de interés.
+La persona titular de la Procuraduría, enviará a la persona titular de la Jefatura de Gobierno y al Congreso, un informe anual sobre las actividades que la Procuraduría haya realizado en dicho período. Este informe deberá ser publicado en la Gaceta Oficial de la Ciudad de México, y contendrá una descripción sobre las denuncias que se hayan recibido, las investigaciones y conciliaciones realizadas, así como las resoluciones que haya tomado, las recomendaciones y sugerencias emitidas que hayan sido rechazadas, cumplidas y las pendientes por cumplimentarse; y los datos estadísticos e información que se consideren de interés.
 
 ###### Artículo 12.
 
@@ -534,9 +546,9 @@ El Consejo de Gobierno será el órgano rector de la Procuraduría y se integrar
 
 I. La o el Jefe de Gobierno de la Ciudad de México o la persona que designe, quien lo(a) presidirá;
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2021)</small>
 
-II. Una o un representante de los(as) titulares de cada una de las Secretarías de Medio Ambiente; Desarrollo Urbano y Vivienda; Obras y Servicios y Movilidad; y
+II. Una persona representante de las personas titulares de cada una de las Secretarías de Medio Ambiente; Desarrollo Urbano y Vivienda; Obras y Servicios; Movilidad; y el Instituto de Planeación Democrática y Prospectiva; y
 
 > <small>(REFORMADA, G.O. 9 DE ENERO DE 2006)</small>
 
@@ -548,9 +560,9 @@ Los Consejeros Ciudadanos, no serán considerados como servidores públicos, por
 
 Cada uno(a) de los(as) titulares referidos en la fracción II del presente artículo nombrará al funcionario(a) inmediato como su suplente, quien acudirá en su ausencia a las sesiones del Consejo.
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2021)</small>
 
-En la integración de las y los miembros del Consejo, el porcentaje mínimo en función del género de la persona no podrá exceder del 60 por ciento de uno de los géneros, al menos que existan razones especiales que resulte en lo contrario.
+En la integración de las y los miembros del Consejo, se deberá garantizar la equidad de género, por lo que, el porcentaje mínimo en función del género de la persona no podrá exceder del 60 por ciento de uno de los géneros, al menos que existan razones especiales que resulten en lo contrario.
 
 > <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -648,7 +660,9 @@ A las sesiones del Comité Técnico Asesor podrán asistir especialistas y repre
 
 Los Consejeros Ciudadanos deberán gozar de buena reputación, con reconocidos méritos profesionales, científicos, técnicos, académicos o sociales en las materias relacionadas con las atribuciones de la Procuraduría.
 
-Los Consejeros Ciudadanos serán designados por el voto de las dos terceras partes de los miembros de la Asamblea Legislativa del Distrito Federal.
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2021)</small>
+
+Los Consejeros Ciudadanos serán designados por el voto de las dos terceras partes de los miembros del Congreso.
 
 Las Comisiones relacionadas con las atribuciones de la Procuraduría, conjuntamente, previa auscultación a los sectores sociales, propondrán a los candidatos para ocupar el cargo o, en su caso, para ratificar a los Consejeros Ciudadanos, así como para designar a aquellos que formarán parte del Consejo de Gobierno de la Procuraduría.
 
@@ -888,7 +902,9 @@ En el despacho y resolución de los asuntos de su competencia, la o el Procurado
 
 Durante el desempeño de su cargo, la o el Procurador y las o los Subprocuradores(as) y demás titulares las unidades administrativas de la Procuraduría, estarán impedidos para desempeñar cualquier otro puesto público o privado, salvo los de carácter docente, honorífico y los de causa propia, que no interfieran con el desarrollo de sus funciones.
 
-Los cargos que se designen en la Procuraduría observarán una proporción equitativa entre mujeres y hombres, sin que ninguno de los géneros exceda de 60 por ciento en dichos cargos.
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2021)</small>
+
+Los cargos que se designen en la Procuraduría deberán atender el principio de paridad de género, de conformidad con lo previsto en el artículo 7, apartado F, numeral 4 de la Constitución Política de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
 
@@ -906,11 +922,11 @@ La Procuraduría deberá promover la más amplia difusión de sus funciones y se
 
 La Procuraduría, dentro del ámbito de su competencia, iniciará sus actuaciones a partir de las denuncias que reciba en los términos de esta Ley, o de oficio, en aquellos casos en que así lo acuerde el Procurador (a), conforme a lo dispuesto en este ordenamiento.
 
-> <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2021)</small>
 
 ###### Artículo 19.
 
-Los procedimientos que se sigan ante la Procuraduría deberán ser breves y sencillos, y estarán sujetos sólo a las formalidades esenciales que requiera la documentación de los expedientes respectivos. Se regirán además, por los principios de simplificación, agilidad, economía, acceso a la información, precisión, legalidad, transparencia e imparcialidad, y se procurará, en la medida de lo posible, el contacto directo con los denunciantes, denunciados y autoridades involucradas, para evitar la dilación de las comunicaciones escritas, salvaguardando en todo momento el legítimo interés de toda persona para solicitar la defensa y protección de su derecho a gozar de un ambiente adecuado para su desarrollo, salud y bienestar.
+Los procedimientos que se sigan ante la Procuraduría deberán ser breves y sencillos, y estarán sujetos sólo a las formalidades esenciales que requiera la documentación de los expedientes respectivos. Se regirán además, por los principios de innovación, atención ciudadana, gobierno abierto, plena accesibilidad con base en diseño universal, simplificación, agilidad, economía, información, precisión, legalidad, proporcionalidad, buena fe, integridad, honradez, lealtad, eficiencia, eficacia, profesionalización, transparencia e imparcialidad, y se procurará, en la medida de lo posible, el contacto directo con los denunciantes, denunciados y autoridades involucradas, para evitar la dilación de las comunicaciones escritas, salvaguardando en todo momento el legítimo interés de toda persona para solicitar la defensa y protección de su derecho a gozar de un ambiente adecuado para su desarrollo, salud y bienestar.
 
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2006)</small>
 
@@ -924,7 +940,9 @@ El acceso a los documentos y las solicitudes de información, deberá estar debi
 
 Cuando no sea posible proporcionar los informes o copias certificadas que solicite la Procuraduría, el hecho deberá señalarse por escrito haciendo constar las razones que tuviesen para ello las autoridades respectivas, anexando en su caso, las probanzas que acrediten tales aseveraciones.
 
-Los servidores públicos que incumplan con lo previsto en el presente artículo, incurrirán en responsabilidad administrativa y se harán acreedores a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos aplicable.
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2021)</small>
+
+Las personas servidoras públicas que incumplan con lo previsto en el presente artículo, incurrirán en responsabilidad administrativa y se harán acreedores a las sanciones previstas en la Ley de Responsabilidades Administrativas de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2006)</small>
 
@@ -1070,9 +1088,9 @@ IV. Requerir a las autoridades competentes la realización de las visitas de ver
 
 IV Bis. Solicitar a los denunciados o interesados, la presentación de información y documentación relacionada con los actos, hechos u omisiones objeto de la investigación realizada en coadyuvancia con otras autoridades;
 
-> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2021)</small>
 
-IV Bis 1. Solicitar en su caso, de conformidad con las disposiciones legales aplicables, la custodia de los folios reales ante el Registro Público de la Propiedad y de Comercio del Distrito Federal, la revocación y cancelación de las licencias, autorizaciones, permisos, certificados y registros, cuando se trasgredan las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, vigentes en la Ciudad de México;
+IV Bis 1. Solicitar en su caso, de conformidad con las disposiciones legales aplicables, la custodia de los folios reales ante el Registro Público de la Propiedad y de Comercio de la Ciudad de México, la revocación y cancelación de las licencias, autorizaciones, permisos, certificados y registros, cuando se trasgredan las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, vigentes en la Ciudad de México;
 
 > <small>(ADICIONADA, G.O. 20 DE JULIO DE 2017)</small>
 
@@ -1258,11 +1276,11 @@ Concluida la investigación respectiva, se deberán analizar los actos, hechos u
 
 La Procuraduría emitirá la Recomendación que corresponda a las dependencias, órganos desconcentrados y entidades de la administración pública federal, estatal, municipal y de la Ciudad de México, cuando acredite actos, hechos u omisiones que constituyan violaciones, incumplimientos o falta de aplicación de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial, o cuando las acciones u omisiones de las autoridades correspondientes generen o puedan generar daños o deterioro grave del ambiente y los recursos naturales de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2021)</small>
 
 ###### Artículo 32.
 
-La Procuraduría emitirá Sugerencias a la Asamblea Legislativa o a los órganos jurisdiccionales para su consideración en los procedimientos, procesos, recursos, iniciativas de ley, proposiciones legislativas o de cualquier otro asunto de su competencia, cuando acredite, a través del desarrollo de sus actividades, que es necesaria la intervención de dichas autoridades para promover y mejorar la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial.
+La Procuraduría emitirá sugerencias al Congreso o a los órganos jurisdiccionales para su consideración en los procedimientos, procesos, recursos, iniciativas de ley, proposiciones legislativas o de cualquier otro asunto de su competencia, cuando acredite, a través del desarrollo de sus actividades, que es necesaria la intervención de dichas autoridades para promover y mejorar la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial.
 
 > <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -1338,11 +1356,11 @@ En los casos en que por la naturaleza de la Recomendación se requiera de un pla
 
 La autoridad o servidor público que haya aceptado la Recomendación tendrá la responsabilidad de su total cumplimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE ENERO DE 2021)</small>
 
 ###### Artículo 34 Bis.
 
-Una vez emitida la Sugerencia, se presentará de inmediato a la Asamblea Legislativa o a la autoridad jurisdiccional que corresponda, a fin de que tomen las medidas necesarias para su cumplimiento.
+Una vez emitida la sugerencia, se presentará de inmediato al Congreso o a la autoridad jurisdiccional que corresponda, a fin de que tomen las medidas necesarias para su cumplimiento.
 
 > <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
 
@@ -1360,11 +1378,11 @@ La Procuraduría podrá elaborar y difundir públicamente informes especiales cu
 
 Lo anterior sin perjuicio de la responsabilidad penal o administrativa que pudiera acreditarse en el caso específico por la conducta de los servidores públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE ENERO DE 2021)</small>
 
 ###### Artículo 34 Bis 2.
 
-La Asamblea Legislativa a petición de la Procuraduría o de las Comisiones de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático, y de Desarrollo e Infraestructura Urbana, podrá solicitar a las autoridades y servidores públicos de la Administración Pública de la Ciudad de México, información o su comparecencia para justificar las razones de sus acciones u omisiones, cuando:
+El Congreso a petición de la Procuraduría o de las Comisiones de Preservación del Medio Ambiente, Cambio Climático y Protección Ecológica y Animal, y de Desarrollo e Infraestructura Urbana y Vivienda, podrá solicitar a las autoridades y personas servidoras públicas de la Administración Pública de la Ciudad de México, información o su comparecencia para justificar las razones de sus acciones u omisiones, cuando:
 
 > <small>(ADICIONADA, G.O. 9 DE ENERO DE 2006)</small>
 
@@ -1414,11 +1432,11 @@ El procedimiento arbitral se substanciará conforme a lo establecido en el Regla
 
 #### Sección IV. De los recursos
 
-> <small>(REFORMADO, G.O. 26 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2021)</small>
 
 ###### Artículo 35.
 
-En contra de las resoluciones que dicte la Procuraduría, con motivo de la imposición de las acciones precautorias a que se refiere esta Ley, será procedente el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo del Distrito Federal y su desahogo se dará conforme a lo dispuesto en este ordenamiento.
+En contra de las resoluciones que dicte la Procuraduría, con motivo de la imposición de las acciones precautorias a que se refiere esta Ley, será procedente el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo de la Ciudad de México, y su desahogo se dará conforme a lo dispuesto en este ordenamiento
 
 > <small>(REFORMADO, G.O. 20 DE JULIO DE 2017)</small>
 
@@ -1545,3 +1563,13 @@ PRIMERO. El presente Decreto entrará en vigor a los treinta días hábiles sigu
 SEGUNDO. La sustanciación y resolución de los asuntos que se encuentren en trámite en la Procuraduría al momento de esta Ley, se concluirán de conformidad con las disposiciones vigentes al momento de iniciarse los procedimientos respectivos.
 
 TERCERO. El Ejecutivo publicará en un término de treinta días posteriores a la entrada en vigor del Presente Decreto las modificaciones necesarias al Reglamento de la Ley Orgánica de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México.
+
+G.O. 14 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Dentro de los 180 días naturales siguientes a la entrada en vigor del presente decreto, la persona Titular de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México presentará al Consejo de Gobierno de dicha institución el proyecto de reformas al Reglamento de la Ley Orgánica de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México, a efecto e (sic) armonizar su contenido al presente Decreto.
