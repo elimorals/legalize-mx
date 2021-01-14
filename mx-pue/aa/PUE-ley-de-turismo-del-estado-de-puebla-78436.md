@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2020-10-12"
+last_updated: "2021-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2021.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -1049,7 +1049,9 @@ I.- Coadyuvar en la ejecución de la política estatal y nacional del sector tur
 
 II.- Proporcionar los bienes y servicios que ofrezcan en los términos de esta Ley y demás disposiciones aplicables;
 
-III.- Informar al turista los precios, tarifas, condiciones, características y costo total, de los servicios y productos que éste requiera;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2021)</small>
+
+III.- Informar a través de los medios digitales, los precios, tarifas, condiciones, características, costo total de los servicios, restricciones, productos y demás aspectos que sean de interés para el turista.
 
 IV.- Anunciar visiblemente en los lugares de acceso al establecimiento la dirección, teléfono o correo electrónico, tanto del responsable del establecimiento, como de la autoridad competente, ante la que puede presentar sus quejas;
 
@@ -1310,5 +1312,13 @@ P.O. 12 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 81 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 82 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
