@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-adultas-mayores-de-la-15819
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2020-11-27"
+last_updated: "2021-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15819&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,13 @@ issue_date: "2000-01-10"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DE LA CIUDAD DE MEXICO -- ANTES LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL --
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO POR EL QUE SE ABROGA LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DE LA CIUDAD DE MÉXICO Y SE CREA LA LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 15 DE ENERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY DE LOS DERECHOS DE LAS PERSONAS MAYORES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE ENERO DE 2021 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 7 de marzo de 2000.
 
@@ -995,3 +997,31 @@ PRIMERO. El presente Decreto entrará en vigor el (sic) día siguiente de su pub
 SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento.
 
 TERCERO. Se derogan todas aquellas disposiciones que contravengan al presente Decreto.
+
+G.O. 15 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DE LA CIUDAD DE MÉXICO Y SE CREA LA LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Las acciones que las Dependencias y Entidades de la Administración Pública Local, deban realizar para dar cumplimiento a lo establecido en la presente ley, se sujetarán a la disponibilidad presupuestaria con la que cuenten.
+
+CUARTO. La persona titular de la Jefatura de Gobierno deberá realizar las reformas necesarias a efecto de modificar el Reglamento del Registro Civil para los efectos señalados en el artículo 12 en su parte final, en un plazo de ciento ochenta días contados a partir del día siguiente de la publicación del presente decreto.
+
+QUINTO. Las acciones establecidas en el artículo 28, fracción IV, para la Fiscalía General deberán implementarse en un término de noventa días posteriores a la entrada en vigor del presente decreto.
+
+SEXTO. La asistencia vía remota a que se refiere este decreto en el artículo 107 deberá implementarse dentro de los ciento ochenta días posteriores a la entrada en vigor del presente decreto.
+
+SÉPTIMO. El sistema de localización a que se refiere el artículo 73 deberá implementarse dentro del plazo de noventa días a partir de la fecha que entre en vigor el presente decreto.
+
+OCTAVO. Las acciones enumeradas en el artículo 81 a cargo de las autoridades encargadas de la administración y procuración de justicia deberán implementarse en un término de ciento veinte días naturales contados a partir de la entrada en vigor del presente decreto.
+
+NOVENO. Hasta en tanto no se creé y entre en funciones el Instituto de la Defensoría Pública de la Ciudad de México, las atribuciones contenidas en el artículo 82 del presente decreto se entenderán otorgadas para la unidad administrativa de apoyo técnico operativo adscrita a la Dirección General de Servicios Legales de la Consejería Jurídica y de Servicios Legales de la Administración Pública de la Ciudad.
+
+DÉCIMO. El Registro Único de Establecimientos Públicos y Privados que presten servicios de cuidado y atención institucional a que se refiere el presente decreto, deberá quedar conformado dentro de los ciento veinte días posteriores a la entrada en vigor del presente decreto.
+
+DÉCIMO PRIMERO. La elaboración del Manual Específico de Procedimientos para la Atención de las Personas Mayores a que se refiere el artículo 118, fracción VII del presente decreto deberá emitirse dentro de los ciento ochenta días de que entre en vigor el presente decreto.
+
+DÉCIMO SEGUNDO. Se abroga la Ley de los Derechos de las Personas Mayores de la Ciudad de México.
