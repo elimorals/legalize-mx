@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-judicial-para-el-estado-de-nayarit-74403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-03-20"
-last_updated: "2017-04-29"
+last_updated: "2021-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2021.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 20 de marzo de 2010.
 
@@ -53,7 +53,9 @@ La presente Ley es de orden público y tiene por objeto regular la organización
 
 Los principios rectores que rigen el servicio público son los siguientes: legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía, integridad y competencia por mérito.
 
-El Poder Judicial está obligado a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada servidor público.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+El Poder Judicial está obligado a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable del personal.
 
 Artículo 2
 
@@ -63,9 +65,9 @@ Corresponde al Poder Judicial:
 
 1. Garantizar la supremacía de la Constitución, en los términos que ésta misma establece, así como la tutela de los derechos en ella contenidos, interpretarla, anular los actos, leyes y normas que la contravengan;
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-2. Dirimir las controversias del fuero común en el orden civil, familiar, penal, de adolescentes, mercantil en jurisdicción concurrente, extinción de dominio;
+2. Dirimir las controversias del fuero común en el orden civil, familiar, penal, de adolescentes, mercantil en jurisdicción concurrente, extinción de dominio y laboral;
 
 3. (DEROGADO, P.O. 29 DE ABRIL DE 2017)
 
@@ -105,53 +107,85 @@ En los términos que dispongan las leyes, son auxiliares de la administración d
 
 1. El ministerio público en su calidad de representante legítimo de los intereses sociales.
 
-2. Presidentes y síndicos municipales, así como los delegados, comisarios municipales y jueces auxiliares.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+2. Los titulares de las presidencias y sindicaturas municipales, así como los titulares de las delegaciones, comisariados municipales y juezas y jueces auxiliares.
 
-3. Los servidores públicos e integrantes de las corporaciones e instituciones de seguridad pública estatales o municipales.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+3. Las servidoras y servidores públicos e integrantes de las corporaciones e instituciones de seguridad pública estatales o municipales.
 
-4. El titular del área de prevención y reinserción social en el estado así como los servidores públicos adscritos.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-5. Directores o encargados del Registro Público de la Propiedad y del Comercio.
+4. La persona titular del área de Prevención y reinserción social en el estado.
 
-6. Directores y oficiales del Registro Civil.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-7. Notarios y corredores públicos.
+5. La persona titular del Registro Público de la Propiedad y del Comercio.
 
-8. Defensores de oficio.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-9. Intérpretes y peritos en los ramos que les sean autorizados.
+6. Directoras y directores y oficiales del Registro Civil.
 
-10. Síndicos e interventores de concursos.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-11. Tutores, curadores, depositarios, albaceas, partidores, liquidadores y los interventores judiciales en las funciones encomendadas por la ley.
+7. Las personas titulares de las notarías y corredurías públicas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2011)</small>
+8. Defensoras y defensores de oficio.
 
-12. Los especialistas certificados por el Centro Estatal de Justicia Alternativa.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-13. Los demás a quienes las leyes les confieran ese carácter.
+9. Las personas que ejerzan como intérpretes y peritos en los ramos que les sean autorizados.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+10. Las personas que ejerzan como síndicos e interventores de concursos.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+11. Las personas que ejerzan como tutores, curadores, depositarios, albaceas, partidores, liquidadores y los interventores judiciales en las funciones encomendadas por la ley.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+12. Las personas que ejerzan el nombramiento de especialistas certificados por el Centro Estatal de Justicia Alternativa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ENERO DE 2021)</small>
+
+13. Las servidoras y servidores públicos de carácter técnico de las dependencias y entidades del Poder Ejecutivo y el personal académico o de investigación científica o tecnológica de las instituciones de educación superior del Estado, que designen estas, que puedan desempeñar el cargo de perito.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2021)</small>
+
+14. Las autoridades laborales y de seguridad social, estatales y federales.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 15 DE ENERO DE 2021)</small>
+
+15. Los demás a quienes las leyes les confieran ese carácter.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
 Artículo 6
 
-En su función de juzgar, los jueces y magistrados deben actuar con independencia de todos los miembros de los otros Poderes del Estado, de toda injerencia que pudiere provenir de los demás integrantes del Poder Judicial y de la ciudadanía en general.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
 
-Esta ley, la Constitución federal y local, garantizan la independencia judicial para asegurar la imparcialidad de los jueces, motivo por el cual:
+En su función de juzgar, las juezas o jueces y magistradas o magistrados deben actuar con independencia de todos los miembros de los otros Poderes del Estado, de toda injerencia que pudiere provenir de los demás integrantes del Poder Judicial y de la ciudadanía en general.
 
-1. Los jueces sólo están sometidos a la Constitución Política de los Estados Unidos Mexicanos, los Tratados que estén de acuerdo con la misma, la Constitución del Estado, y a la presente ley.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE ENERO DE 2021)</small>
+
+Esta ley, la Constitución federal y local, garantizan la independencia judicial para asegurar la imparcialidad de las juezas y jueces, motivo por el cual:
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Las juezas y jueces solo están sometidos a la Constitución Política de los Estados Unidos Mexicanos, los Tratados que estén de acuerdo con la misma, la Constitución del Estado, y a la presente ley.
 
 2. Por ningún motivo, los otros Poderes del Estado podrán arrogarse el juzgamiento de las causas, ni la reapertura de las terminadas por decisión firme. En ningún caso podrán interferir en el desarrollo del proceso.
 
 3. Todas las autoridades están obligadas a prestar la colaboración que los jueces requieran en el ejercicio de sus funciones y deberán cumplir y hacer cumplir lo dispuesto por estos.
 
-4. En caso de interferencia en el ejercicio de su función, proveniente de otro Poder del Estado, del propio Poder Judicial o de la ciudadanía, el juez deberá informar sobre los hechos que afecten su independencia al Pleno del Tribunal Superior de Justicia del Estado, en cualquier caso éste deberá adoptar las medidas necesarias para que cese la interferencia, independientemente de las sanciones administrativas, civiles, penales y aquéllas previstas en la Constitución Política del Estado, a que la interferencia pudiera dar lugar.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+4. En caso de interferencia en el ejercicio de su función, proveniente de otro Poder del Estado, del propio Poder Judicial o de la ciudadanía, la jueza o juez deberá informar sobre los hechos que afecten su independencia al Pleno del Tribunal Superior de Justicia del Estado, en cualquier caso este deberá adoptar las medidas necesarias para que cese la interferencia, independientemente de las sanciones administrativas, civiles, penales y aquellas previstas en la Constitución Política del Estado, a que la interferencia pudiera dar lugar.
 
 Artículo 7
 
@@ -173,17 +207,21 @@ Los órganos que integran el Poder Judicial tienen las siguientes obligaciones:
 
 8. Las demás que las leyes impongan.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 8
 
-Se consideran trabajadores de confianza quienes se ubiquen en las categorías comprendidas en la carrera judicial, los titulares tanto de los órganos internos del Consejo de la Judicatura como de su estructura administrativa interna y todos aquellos que tengan a su cargo funciones de vigilancia, supervisión, control, asesoría y manejo de recursos, adquisición o inventarios.
+Se considera personal de confianza quienes se ubiquen en las categorías comprendidas en la carrera judicial, los titulares tanto de los órganos internos del Consejo de la Judicatura como de su estructura administrativa interna y todos aquellos que tengan a su cargo funciones de vigilancia, supervisión, control, asesoría y manejo de recursos, adquisición o inventarios.
 
 ## TÍTULO SEGUNDO. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
 ### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 9
 
-El Tribunal Superior de Justicia estará integrado por diecisiete magistrados numerarios y hasta tres supernumerarios, quienes serán electos en la forma prevista por el artículo 83 de la Constitución Política del Estado y funcionará en Pleno o en Salas Colegiadas y Unitarias.
+El Tribunal Superior de Justicia estará integrado de manera paritaria por trece magistradas y magistrados numerarios y hasta tres supernumerarios, quienes serán electos en la forma prevista por el artículo 83 de la Constitución Política del Estado y funcionará en Pleno o en Salas Colegiadas y Unitarias.
 
 ### CAPÍTULO II. DEL PLENO
 
@@ -191,17 +229,21 @@ Artículo 10
 
 El Pleno del Tribunal Superior de Justicia es el órgano autónomo, de jerarquía superior del Poder Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 11
 
-El Pleno del Tribunal Superior de Justicia, podrá sesionar con la asistencia de las dos terceras partes de sus integrantes. Los magistrados que sin causa justificada no asistan a la sesión correspondiente se harán acreedores a un día de descuento de su percepción mensual.
+El Pleno del Tribunal Superior de Justicia, podrá sesionar con la asistencia de las dos terceras partes de sus integrantes. Las magistradas o magistrados que sin causa justificada no asistan a la sesión correspondiente se harán acreedores a un día de descuento de su percepción mensual.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 12
 
-1. Las sesiones del Pleno se celebrarán en días y horas hábiles; el presidente las convocará por escrito cuando menos con setenta y dos horas de anticipación, precisándose el proyecto de asuntos a tratar.
+1. Las sesiones del Pleno se celebrarán en días y horas hábiles; la persona titular de la presidencia las convocará por escrito cuando menos con setenta y dos horas de anticipación, precisándose el proyecto de asuntos a tratar.
 
-2. En cualquier tiempo y en casos urgentes se convocará por medios idóneos, cuando menos con veinticuatro horas de anticipación y sólo se tratarán los asuntos que dieron lugar a la convocatoria. No obstante, si asistieran la totalidad de los magistrados y por unanimidad lo acordaran, podrán incorporarse otros asuntos.
+2. En cualquier tiempo y en casos urgentes se convocará por medios idóneos, cuando menos con veinticuatro horas de anticipación y solo se tratarán los asuntos que dieron lugar a la convocatoria. No obstante, si asistieran la totalidad de las magistradas o magistrados y por unanimidad lo acordaran, podrán incorporarse otros asuntos.
 
-3. Ante la imposibilidad o negativa del presidente para convocar al Pleno, la sesión se llevará a cabo previa convocatoria emitida a propuesta de la mayoría absoluta de magistrados.
+3. Ante la imposibilidad o negativa de la persona titular de la presidencia para convocar al Pleno, la sesión se llevará a cabo previa convocatoria emitida a propuesta de la mayoría absoluta de magistradas o magistrados.
 
 Artículo 13
 
@@ -211,9 +253,11 @@ Artículo 14
 
 El Tribunal, salas y juzgados funcionarán todos los días del año, a excepción de los sábados, domingos y días de descanso obligatorio. En aquellos casos en que la ley de la materia refiera plazos y términos diferentes se atenderá a éstos.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 15
 
-Las resoluciones del Pleno del Tribunal Superior de Justicia se tomarán por unanimidad o mayoría de votos; los magistrados solo podrán abstenerse de votar, cuando tengan impedimento legal o no hayan estado presentes en la discusión del asunto de que se trate. En caso de empate, el presidente tendrá voto de calidad.
+Las resoluciones del Pleno del Tribunal Superior de Justicia se tomarán por unanimidad o mayoría de votos; las magistradas o magistrados solo podrán abstenerse de votar, cuando tengan impedimento legal o no hayan estado presentes en la discusión del asunto de que se trate. En caso de empate, la persona titular de la presidencia tendrá voto de calidad.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DEL PLENO
 
@@ -221,7 +265,9 @@ Artículo 16
 
 Son atribuciones del Pleno del Tribunal Superior de Justicia:
 
-1. Elegir a su presidente, conocer y aceptar en su caso su renuncia al cargo, en los términos de la presente ley.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Elegir a la persona titular de la presidencia, conocer y aceptar en su caso su renuncia al cargo, en los términos de la presente ley.
 
 2. Tomar protesta a los servidores judiciales que le corresponda conforme a esta ley y su reglamento.
 
@@ -233,17 +279,23 @@ Son atribuciones del Pleno del Tribunal Superior de Justicia:
 
 6. Conocer y resolver las controversias que surjan entre las salas del Tribunal Superior de Justicia y las que se susciten dentro del Poder Judicial del Estado.
 
-7. Establecer la adscripción de los magistrados a las salas, elegir a sus respectivos Presidentes y realizar los cambios necesarios entre sus integrantes.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-8. Integrar las comisiones necesarias para la atención de los asuntos de su competencia.
+7. Establecer la adscripción de las magistradas y los magistrados a las salas, elegir a sus respectivos Presidentes y realizar los cambios necesarios entre sus integrantes.
 
-9. Designar a los jueces integrantes del Consejo de la Judicatura en los términos de esta ley y su reglamento.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+8. Integrar las comisiones, comités o coordinaciones que sean necesarias para la atención de los asuntos que dentro de sus atribuciones determine el pleno y expedir la normatividad para su funcionamiento.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+9. Designar, con el voto de la mayoría absoluta de los miembros del tribunal, a la magistrada o al magistrado que formará parte del Consejo de la Judicatura en los términos constitucionales.
 
 10. Requerir la participación del Consejo de la Judicatura, siempre que sea necesario para la adecuada coordinación y funcionamiento entre los órganos del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-11. Apercibir, amonestar e imponer multas en favor del fondo auxiliar del Poder Judicial, hasta por noventa veces la UMA, al día de la comisión de la falta, a los abogados, agentes de negocios, procuradores o litigantes, auxiliares de la administración de justicia o cualquier otra persona, cuando faltaren al respeto de algún órgano o miembro del Tribunal Superior de Justicia, en sus promociones por escrito o por cualquier otro medio.
+11. Apercibir, amonestar e imponer multas en favor del fondo auxiliar del Poder Judicial, hasta por noventa veces la UMA, al día de la comisión de la falta, a las personas que ejerzan como abogados, agentes de negocios, procuradores o litigantes, auxiliares de la administración de justicia o cualquier otra persona, cuando faltaren al respeto de algún órgano o miembro del Tribunal Superior de Justicia, en sus promociones por escrito o por cualquier otro medio.
 
 12. Conocer sobre la interpretación y las controversias que se deriven de contratos o incumplimiento de obligaciones contraídas con particulares o dependencias públicas con el Tribunal Superior de Justicia.
 
@@ -255,33 +307,61 @@ Son atribuciones del Pleno del Tribunal Superior de Justicia:
 
 16. Decretar la aplicación normativa de jurisprudencia y su interrupción, en los términos previstos en esta ley.
 
-17. Conocer y resolver sobre las quejas por faltas en la función judicial, distintas a los supuestos previstos para el juicio político, que se presenten en contra de los magistrados, así como las que se formulen contra el personal de apoyo adscrito a éstos.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+17. Conocer y resolver sobre las quejas por faltas en la función judicial, distintas a los supuestos previstos para el juicio político, que se presenten en contra de las magistradas y los magistrados, así como las que se formulen contra el personal de apoyo adscrito a estos.
 
 18. Ordenar visitas de inspección a los juzgados y establecimientos carcelarios, para recabar la opinión de los justiciables o atender las quejas en la función judicial.
 
-19. Solicitar al Consejo de la Judicatura, se investigue la conducta de servidores judiciales, cuando se tenga conocimiento de una posible irregularidad administrativa o jurisdiccional prevista en la presente ley o en la Ley de Responsabilidades de los Servidores Públicos.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-20. Conceder licencia a los magistrados, siempre que no excedan de noventa días, las que excedan de ese tiempo, el pleno las someterá para su resolución al Congreso del Estado o en sus recesos a la Diputación Permanente.
+19. Solicitar al Consejo de la Judicatura, se investigue la conducta del personal judicial, cuando se tenga conocimiento de una posible irregularidad administrativa o jurisdiccional prevista en la presente ley o en la Ley General de Responsabilidades Administrativas.
 
-21. Expedir los reglamentos y acuerdos generales para el adecuado ejercicio de sus atribuciones.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-22. Designar a los consejeros integrantes del Consejo Consultivo.
+20. Conceder licencia a las magistradas y magistrados, siempre que no excedan de noventa días, las que excedan de ese tiempo, el pleno las someterá para su resolución al Congreso del Estado o en sus recesos a la Diputación Permanente.
 
-23. Las demás que determinen las leyes.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-### CAPÍTULO IV. DEL PRESIDENTE DEL TRIBUNAL
+21. Expedir los reglamentos del régimen interno del tribunal y los acuerdos generales para el adecuado ejercicio de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+22. Designar a las consejeras o consejeros integrantes del Consejo Consultivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ENERO DE 2021)</small>
+
+23. Conocer y resolver el recurso previsto en el artículo 84 constitucional.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2021)</small>
+
+24. Determinar mediante acuerdo general, los casos en que los órganos jurisdiccionales y administrativos podrán utilizar la firma electrónica, así como el uso de las tecnologías de la información para el adecuado ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE ENERO DE 2021)</small>
+
+25. Las demás que determinen las Leyes.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
+
+### CAPÍTULO IV. DE LA PRESIDENCIA DEL TRIBUNAL
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 17
 
-El Presidente del Tribunal Superior de Justicia será uno de los magistrados numerarios y lo elegirá el Tribunal en Pleno cuando menos por mayoría absoluta de votos, durante la sesión que celebre el último día hábil del mes de septiembre de cada cuatro años. En la misma sesión el Pleno designará a los presidentes de salas.
+La persona titular de la presidencia del Tribunal Superior de Justicia será una de las magistradas o magistrados numerarios y lo elegirá el Tribunal en Pleno cuando menos por mayoría absoluta de votos, durante la sesión que celebre el último día hábil del mes de septiembre de cada tres años, sin que pueda ser reelecto. En la misma sesión el Pleno designará a los presidentes de salas.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 18
 
-La falta del presidente se cubrirá por el magistrado designado por el Tribunal Superior de Justicia solo para cubrir el término de la gestión respectiva.
+La falta de la persona titular de la presidencia se cubrirá por la magistrada o el magistrado designado por el Tribunal Superior de Justicia solo para cubrir el término de la gestión respectiva.
 
 Artículo 19
 
-Son atribuciones del Presidente del Tribunal Superior de Justicia:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
+
+Son atribuciones de la persona titular de la presidencia del Tribunal Superior de Justicia:
 
 1. Representar legal o protocolariamente al Poder Judicial y al Tribunal Superior de Justicia o designar en su caso, representante para esos efectos.
 
@@ -291,63 +371,113 @@ Son atribuciones del Presidente del Tribunal Superior de Justicia:
 
 3. Presidir el Consejo de la Judicatura, coordinar sus acciones y ejecutar los acuerdos dictados por éste.
 
-4. Tramitar los asuntos de la competencia del Pleno y designar al magistrado que deberá elaborar el proyecto de resolución respectiva cuando el tema no sea competencia de las Salas.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-5. Convocar a los magistrados a las sesiones del Pleno del Tribunal, dirigir los debates y preservar el orden.
+4. Tramitar los asuntos de la competencia del Pleno y designar a la magistrada o magistrado que deberá elaborar el proyecto de resolución respectiva cuando el tema no sea competencia de las Salas.
 
-6. Firmar las resoluciones del Pleno del Tribunal Superior de Justicia conjuntamente con los integrantes del mismo, independientemente de su voto, y con el Secretario General de Acuerdos que dará fe.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-7. Despachar la correspondencia del Tribunal Superior de Justicia, salvo la que sea propia de las salas, en cuyo caso, corresponderá a su respectivo presidente.
+5. Convocar a las magistradas y los magistrados a las sesiones del Pleno del Tribunal, dirigir los debates y preservar el orden.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+6. Firmar las resoluciones del Pleno del Tribunal Superior de Justicia conjuntamente con los integrantes del mismo, independientemente de su voto, y con la persona titular de la Secretaría General de Acuerdos que dará fe.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+7. Despachar la correspondencia del Tribunal Superior de Justicia, salvo la que sea propia de las salas, en cuyo caso, corresponderá a su respectivo titular.
 
 8. Coadyuvar con medidas preventivas al buen servicio y disciplina del personal del Poder Judicial del Estado.
 
-9. Legalizar conjuntamente con el Secretario General de Acuerdos la firma de los servidores públicos del Poder Judicial del Estado, en los casos que la ley lo exija.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-10. Comunicar al titular del Poder Ejecutivo las ausencias definitivas o temporales mayores de noventa días de los magistrados del Tribunal Superior de Justicia, para los efectos del Artículo 88 de la Constitución Política del Estado.
+9. Legalizar conjuntamente con la persona titular de la Secretaría General de Acuerdos la firma del personal al servicio del Poder Judicial del Estado, en los casos que la ley lo exija.
 
-11. Designar y en su caso proponer los nombramientos de aquellos servidores públicos que conforme a esta ley o el reglamento deba hacer el Pleno del Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-12. Vigilar que la función judicial se realice conforme a los principios constitucionales y los previstos en esta ley.
+10. Comunicar al titular del Poder Ejecutivo las ausencias definitivas o temporales mayores de noventa días de las magistradas y los magistrados del Tribunal Superior de Justicia, para los efectos del Articulo 88 de la Constitución Política del Estado.
 
-13. Designar al magistrado supernumerario que deba sustituir al numerario en los casos de excusa, impedimento o recusación.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-14. Cuidar que los presidentes de las salas y los jueces proporcionen con la periodicidad requerida los datos estadísticos de los asuntos de su competencia.
+11. Designar al personal de la oficina de la presidencia.
 
-15. Proponer al Consejo de la Judicatura las medidas necesarias para mejorar la administración de justicia.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ENERO DE 2021)</small>
 
-16. Acordar a solicitud del interesado, el registro de los títulos de Licenciado en Derecho o Abogado en la Secretaría General de Acuerdos del Tribunal.
+12. Proponer el nombramiento o remoción del personal que conforme a esta ley o el reglamento corresponda a la competencia del Pleno del Tribunal Superior de Justicia.
 
-17. Solicitar al Pleno del Tribunal, cuando mediare causa justificada grave, la remoción de los presidentes de las salas y en su caso, la designación de quien los deba sustituir por el término que reste para la conclusión de su periodo.
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 15 DE ENERO DE 2021)</small>
 
-18. Comunicar al titular del Poder Ejecutivo y al Congreso la conclusión del cargo de los magistrados con cuatro meses de anticipación, para que se proceda en los términos de la Constitución Política del Estado.
+13. Vigilar que la función judicial se realice conforme a los principios constitucionales y los previstos en esta ley.
 
-19. Ordenar la publicación de la jurisprudencia que dicte el Pleno y las salas del Tribunal Superior de Justicia, en los términos que disponga la presente ley.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-20. Las demás que le confieran esta y otras disposiciones legales.
+14. Designar a la magistrada o magistrado supernumerario que deba sustituir al numerario en los casos de excusa, impedimento o recusación.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+15. Cuidar que las presidencias de las salas y las personas titulares de los juzgados proporcionen con la periodicidad requerida los datos estadísticos de los asuntos de su competencia.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 15 DE ENERO DE 2021)</small>
+
+16. Proponer al Consejo de la Judicatura las medidas necesarias para mejorar la administración de justicia.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+17. Acordar a solicitud del interesado, el registro de los títulos de la licenciatura en Derecho o Abogado en la Secretaría General de Acuerdos del Tribunal.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+18. Solicitar al Pleno del Tribunal, cuando mediare causa justificada grave, la remoción de las personas titulares de las presidencias de las salas y en su caso, la designación de quien los deba sustituir por el término que reste para la conclusión de su periodo.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+19. Comunicar al titular del Poder Ejecutivo y al Congreso la conclusión del cargo de las magistradas y magistrados con cuatro meses de anticipación, para que se proceda en los términos de la Constitución Política del Estado.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 15 DE ENERO DE 2021)</small>
+
+20. Ordenar la publicación de la jurisprudencia que dicte el Pleno y las salas del Tribunal Superior de Justicia, en los términos que disponga la presente ley.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2021)</small>
+
+21. Informar de los convenios cuando comprometan al Poder Judicial por un plazo mayor al periodo de su ejercicio.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 15 DE ENERO DE 2021)</small>
+
+22. Las demás que le confieran esta y otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 20
 
-El Presidente del Tribunal se auxiliará para el despacho de los asuntos de su competencia con las unidades administrativas necesarias que se autoricen en el Presupuesto de Egresos del Estado.
+Para el despacho de los asuntos de su competencia, la oficina de la presidencia del tribunal contará, además del cuerpo secretarial, con una secretaría técnica, una dirección de asuntos jurídicos y laborales, una dirección de las tecnologías de la información y las unidades de transparencia y acceso a la información, comunicación social y el demás personal conforme a la disponibilidad presupuestal.
 
 ### CAPÍTULO V. DEL INFORME DEL PODER JUDICIAL
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 21
 
-El Presidente del Tribunal Superior de Justicia, dentro de los últimos quince días del mes de noviembre rendirá ante el Congreso, un informe por escrito respecto del ejercicio de facultades y atribuciones que la Constitución Política del Estado y las leyes confiere al Poder Judicial. Tratándose del último año en el ejercicio del presidente en turno, el informe deberá remitirse dentro de los primeros quince días del mes de septiembre.
+La persona titular de la presidencia del Tribunal Superior de Justicia, dentro de los últimos quince días del mes de noviembre rendirá ante el Congreso, un informe por escrito respecto del ejercicio de facultades y atribuciones que la Constitución Política del Estado y las leyes confiere al Poder Judicial. Tratándose del último año en el ejercicio del titular en turno, el informe deberá remitirse dentro de los primeros quince días del mes de septiembre.
 
 Artículo 22
 
 El informe deberá ser presentado previamente ante los plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura, para su aprobación en los términos que disponga el reglamento o acuerdo respectivo.
 
-### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LOS MAGISTRADOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
+
+### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LAS MAGISTRADAS Y MAGISTRADOS
 
 Artículo 23
 
-Son atribuciones de los magistrados:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
+
+Son atribuciones de las magistradas y magistrados:
 
 1. Emitir las medidas necesarias para el despacho pronto y expedito de los asuntos que les sean turnados.
 
-2. Dar trámite a los asuntos que le sean encomendados por el Presidente del Tribunal Superior de Justicia, el Pleno del Tribunal o el Consejo de la Judicatura.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+2. Dar trámite a los asuntos que le sean encomendados por la persona titular de la presidencia del Tribunal Superior de Justicia, el Pleno del Tribunal o el Consejo de la Judicatura.
 
 3. Integrarse a la sala para la que fue designado y proveer lo conducente para resolver los asuntos de su competencia.
 
@@ -357,7 +487,9 @@ Son atribuciones de los magistrados:
 
 6. Formular el engrose de las resoluciones aprobadas, cuando sean encomendados para tal efecto.
 
-7. Informar al presidente de la sala, según corresponda, respecto al ejercicio de sus atribuciones.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+7. Informar a la persona titular de la presidencia de la sala, según corresponda respecto al ejercicio de sus atribuciones.
 
 8. Excusarse del conocimiento de los asuntos, cuando exista impedimento legal.
 
@@ -379,13 +511,21 @@ Son atribuciones del titular de la Secretaría General de Acuerdos del Tribunal:
 
 2. Redactar las actas de las sesiones del Tribunal en Pleno.
 
-3. Ejecutar los acuerdos del Pleno y del Presidente del Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-4. Dar cuenta al presidente de los asuntos de su competencia; del Pleno y de los que deban turnarse a las salas.
+3. Ejecutar los acuerdos del Pleno y de la persona titular de la presidencia del Tribunal Superior de Justicia.
 
-5. Recabar e integrar los datos para el informe anual del Presidente del Tribunal en el área judicial y recibir el relativo a la competencia del Consejo de la Judicatura.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-6. Suscribir con el presidente la correspondencia del Pleno.
+4. Dar cuenta a la persona titular de la presidencia de los asuntos de su competencia; del Pleno y de los que deban turnarse a las salas.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+5. Recabar e integrar los datos para el informe anual de la presidencia del Tribunal en el área judicial y recibir el relativo a la competencia del Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+6. Suscribir con la persona titular de la presidencia la correspondencia del Pleno.
 
 7. Dar fe de los actos del Pleno.
 
@@ -393,17 +533,27 @@ Son atribuciones del titular de la Secretaría General de Acuerdos del Tribunal:
 
 9. Expedir las certificaciones que el propio Tribunal y la ley le encomienden.
 
-10. Dar fe de los acuerdos del presidente en los asuntos de trámite.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-11. Turnar por acuerdo del presidente a los secretarios de acuerdos de las salas los asuntos de carácter judicial.
+10. Dar fe de los acuerdos de la persona titular de la presidencia en los asuntos de trámite.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+11. Turnar por acuerdo de la persona titular de la presidencia a las secretarías de acuerdos de las salas los asuntos de carácter judicial.
 
 12. Custodiar los documentos relativos a certificados de depósito, de valores, o constitutivos de fianzas que se otorguen ante el Tribunal y aquéllos que por su naturaleza, valor o contenido requieran el resguardo en el secreto del mismo.
 
-13. Coordinar el sistema de oficialía de partes.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-14. Preparar las sesiones del Pleno.
+13. Coordinar a las unidades de apoyo jurisdiccional, el sistema de oficialía de partes y los módulos del Poder Judicial.
 
-15. Coordinar la edición del boletín judicial y las publicaciones que correspondan.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+14. Preparar las sesiones, proveer lo que fuere necesario para el desarrollo de las mismas y la debida cumplimentación de los acuerdos dictados por el pleno.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+15. Coordinar la edición del Boletín Judicial Electrónico y las publicaciones oficiales que correspondan.
 
 16. Las demás que determinen las leyes, el reglamento interno del Tribunal y el presidente del mismo.
 
@@ -417,9 +567,11 @@ Articulo 25
 
 Para los asuntos de su competencia, el Tribunal Superior de Justicia ejercerá sus funciones en la Sala Constitucional y en Salas Colegiadas y Unitarias que determine el Pleno.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 26
 
-Las salas se integrarán en la sesión en que se elija al Presidente del Tribunal Superior de Justicia.
+Las salas se integrarán en la sesión en que se elija al titular de la presidencia del Tribunal Superior de Justicia.
 
 Artículo 27
 
@@ -429,23 +581,27 @@ Artículo 28
 
 1. Las resoluciones de las salas colegiadas se tomarán por unanimidad o mayoría de votos de los magistrados, quienes no podrán abstenerse de votar, salvo que tengan impedimento legal.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-2. El magistrado que disienta de la mayoría podrá formular voto particular en un plazo no mayor de tres días, que se insertará en la ejecutoria respectiva, salvo en el caso de la Sala Constitucional, que se regirá por la ley de la materia
+2. La magistrada o magistrado que disienta de la mayoría podrá formular voto particular en un plazo no mayor de tres días, que se insertará en la ejecutoria respectiva, salvo en el caso de la Sala Constitucional, que se regirá por la ley de la materia.
 
 3. (DEROGADO, P.O. 29 DE ABRIL DE 2017)
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 29
 
-1. La sala colegiada correspondiente calificará las excusas e impedimentos de sus integrantes. Si con motivo de la excusa o del impedimento, el asunto no pudiere ser resuelto, se hará del conocimiento del Presidente del Tribunal para que designe al magistrado supernumerario que deba sustituirlo.
+1. La sala colegiada correspondiente calificará las excusas e impedimentos de sus integrantes. Si con motivo de la excusa o del impedimento, el asunto no pudiere ser resuelto, se hará del conocimiento de la persona titular de la presidencia del Tribunal para que designe a la magistrada o magistrado supernumerario que deba sustituirlo.
 
-2. Tratándose de las excusas de los Magistrados adscritos a las salas unitarias, serán calificadas por el Presidente del Tribunal Superior de Justicia, quien procederá en los términos previstos en el párrafo anterior
+2. Tratándose de las excusas de las Magistradas y Magistrados adscritos a las salas unitarias, serán calificadas por la persona titular de la presidencia del Tribunal Superior de Justicia, quien procederá en los términos previstos en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 30
 
-1. Los magistrados adscritos a cada sala colegiada desempeñarán por turno el cargo semanero, quien proveerá lo conducente a las promociones de las partes y al desahogo del procedimiento.
+1. Las magistradas y magistrados adscritos a cada sala colegiada desempeñarán por turno el cargo semanero, quien proveerá lo conducente a las promociones de las partes y al desahogo del procedimiento.
 
-2. Cada una de las salas contará por lo menos con un notificador o actuario quien hará las notificaciones de la sala y las del Tribunal según la materia que corresponda.
+2. Cada una de las salas contará por lo menos con una notificadora o notificador o actuaria o actuario quien hará las notificaciones de la sala y las del Tribunal según la materia que corresponda.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ABRIL DE 2017)</small>
 
@@ -457,17 +613,17 @@ Artículo 31
 
 La Sala Constitucional, tendrá competencia para conocer y resolver los asuntos que le confiere la Constitución Política del Estado y las leyes aplicables.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
-
-Asimismo, en jurisdicción concurrente conforme a lo previsto en el artículo 107 fracción XII, de la Constitución Política de los Estados Unidos Mexicanos, tendrá competencia para conocer con carácter de superior jerárquico del juzgador que emita el acto, de los amparos que se promuevan por violaciones a los derechos y garantías previstas en los artículos 16, en materia penal, 19 y 20 de la propia Constitución Federal.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 31 Bis (DEROGADO, P.O. 29 DE ABRIL DE 2017)
 
 ### CAPÍTULO III. DE LAS SALAS COLEGIADAS
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 32
 
-Las salas colegiadas se integrarán cuando menos con tres magistrados y tendrán competencia para conocer y resolver los asuntos relativos a las apelaciones contra sentencias definitivas dictadas por los juzgados de primera instancia del estado.
+Las salas colegiadas se integrarán cuando menos con tres magistradas o magistrados y tendrán competencia para conocer y resolver los asuntos relativos a las apelaciones contra sentencias definitivas dictadas por los juzgados de primera instancia del estado.
 
 Artículo 33
 
@@ -489,17 +645,19 @@ Corresponde conocer y resolver a las salas de los asuntos siguientes:
 
 2. De los recursos de revocación e incidentes planteados en segunda instancia.
 
-3. De las recusaciones y excusas de sus miembros y de los jueces, solicitando en el primer caso, la designación del sustituto al Presidente del Tribunal Superior de Justicia; y en el segundo designando al competente.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+3. De las recusaciones y excusas de sus miembros y de las personas titulares de los juzgados, solicitando en el primer caso, la designación del sustituto a la persona titular de la presidencia del Tribunal Superior de Justicia; y en el segundo designando al competente.
 
-4. Apercibir, amonestar e imponer multas en favor del Fondo del Poder Judicial, hasta por noventa veces la UMA, al día de la comisión de la falta, a los abogados, agentes de negocios, procuradores o litigantes, auxiliares de la administración de justicia o cualquier otra persona, cuando faltaren al respeto al Pleno de las Salas o a alguno de sus miembros, en sus promociones por escrito o por cualquier otro medio.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+4. Apercibir, amonestar e imponer multas en favor del Fondo del Poder Judicial, hasta por noventa veces la UMA, al día de la comisión de la falta, a las personas que ejerzan como abogados, agentes de negocios, procuradores o litigantes, auxiliares de la administración de justicia o cualquier otra persona, cuando faltaren al respeto al Pleno de las Salas o a alguno de sus miembros, en sus promociones por escrito o por cualquier otro medio.
 
 5. Emitir las medidas necesarias para el cumplimiento de los principios de la función judicial en las materias de su competencia.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-En materia penal, cuando un juez resuelva un asunto, la Sala correspondiente tendrá que conocer de los recursos que deriven de aquél.
+En materia penal, cuando la persona titular de un juzgado resuelva un asunto, la Sala correspondiente tendrá que conocer de los recursos que deriven de aquel.
 
 6. (DEROGADO, P.O. 29 DE ABRIL DE 2017)
 
@@ -507,23 +665,33 @@ En materia penal, cuando un juez resuelva un asunto, la Sala correspondiente ten
 
 7. Los demás que expresamente les encomiende la ley.
 
-### CAPÍTULO VI. DE LOS PRESIDENTES DE LAS SALAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
+
+### CAPÍTULO VI. DE LAS PRESIDENCIAS DE LAS SALAS
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 36
 
-Los presidentes de las salas serán electos cada dos años por el Pleno del Tribunal Superior de Justicia, podrán ser reelectos para el periodo inmediato siguiente.
+Los titulares de las presidencias de las salas serán electos cada tres años por el Pleno del Tribunal Superior de Justicia, podrán ser reelectos para el periodo inmediato siguiente.
 
 Artículo 37
 
-Son atribuciones de los presidentes de sala:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
+
+Son atribuciones de las presidencias de sala:
 
 1. Dictar en términos de ley, los acuerdos de trámite que procedan en los asuntos competencia de las salas.
 
-2. Por sorteo realizar el turno de los asuntos entre los magistrados que integren las salas y autorizar las listas de los que deban resolverse en las sesiones.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+2. Por sorteo realizar el turno de los asuntos entre las magistradas y magistrados que integren las salas y autorizar las listas de los que deban resolverse en las sesiones.
 
 3. Dirigir los debates y preservar el orden durante las sesiones.
 
-4. Firmar las resoluciones de manera conjunta con los demás integrantes de las salas, ante la fe del secretario de acuerdos.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+4. Firmar las resoluciones de manera conjunta con los demás integrantes de las salas, ante la fe de la secretaria o secretario de acuerdos.
 
 5. Representar a las salas, despachar la correspondencia oficial de éstas.
 
@@ -537,15 +705,21 @@ Son atribuciones de los presidentes de sala:
 
 10. Ejercer las demás atribuciones que le asigne esta ley, los reglamentos interiores y los acuerdos generales del Tribunal Superior de Justicia.
 
-### CAPÍTULO VII. DE LOS MAGISTRADOS DE LAS SALAS UNITARIAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
+
+### CAPÍTULO VII. DE LAS MAGISTRADAS Y MAGISTRADOS DE LAS SALAS UNITARIAS
 
 Artículo 38
 
-Son atribuciones de los magistrados de las salas unitarias:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
+
+Son atribuciones de las magistradas y magistrados de las salas unitarias:
 
 1. Dictar en términos de ley, los trámites que procedan en los asuntos competencia de la sala.
 
-2. Firmar las resoluciones ante la fe del secretario de acuerdos.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+2. Firmar las resoluciones ante la fe de la secretaría de acuerdos.
 
 3. Representar a las salas, despachar la correspondencia oficial de éstas.
 
@@ -557,19 +731,27 @@ Son atribuciones de los magistrados de las salas unitarias:
 
 7. Ejercer las demás atribuciones que le asigne esta ley, los reglamentos interiores y los acuerdos generales del Tribunal Superior de Justicia.
 
-### CAPÍTULO VIII. DE LOS SECRETARIOS DE ACUERDOS DE LAS SALAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
+
+### CAPÍTULO VIII. DE LAS SECRETARÍAS DE ACUERDOS DE LAS SALAS
 
 Artículo 39
 
-Son atribuciones de los secretarios de acuerdos de las salas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
+
+Son atribuciones de las secretarías de acuerdos de las salas:
 
 1. Asistir a las sesiones de la sala con voz informativa.
 
 2. Levantar acta circunstanciada de las sesiones de la sala.
 
-3. Recibir y dar cuenta al Magistrado Presidente de la sala o al magistrado unitario de la correspondencia judicial que se turne a ésta.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-4. Recabar el acuerdo de trámite y redactarlo de conformidad con las instrucciones del magistrado respectivo.
+3. Recibir y dar cuenta a la persona titular de la presidencia de la sala o a la magistrada o magistrado unitario de la correspondencia judicial que se turne a esta.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+4. Recabar el acuerdo de trámite y redactarlo de conformidad con las instrucciones de la magistrada o magistrado respectivo.
 
 5. Elaborar y autorizar la lista de acuerdos y resoluciones de la sala, la que se fijará en los estrados, conservando una copia en el archivo y otra se remitirá a la Secretaría General de Acuerdos del Tribunal.
 
@@ -585,9 +767,13 @@ Son atribuciones de los secretarios de acuerdos de las salas:
 
 11. Tener a su cargo y responsabilidad el archivo de la sala.
 
-12. Vigilar que los servidores judiciales adscritos a la sala, asistan con puntualidad al despacho y cumplan con sus deberes, comunicando al magistrado presidente de la sala o al magistrado unitario de las faltas en que incurrieren.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-13. Las demás que determinen las leyes, los reglamentos y el presidente de la sala.
+12. Vigilar que el personal judicial adscrito a la sala, asistan con puntualidad al despacho y cumplan con sus deberes, comunicando a la persona titular de la presidencia de la sala o a la magistrada o magistrado unitario de las faltas en que incurrieren.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+13. Las demás que determinen las leyes, los reglamentos y la persona titular de la presidencia de la sala.
 
 ## TÍTULO CUARTO. DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
@@ -597,15 +783,19 @@ Artículo 40
 
 El Consejo de la Judicatura mediante acuerdos determinará el número, límites territoriales y en su caso especialización por materia de los juzgados de primera instancia.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 41
 
-Los juzgados de primera instancia funcionarán con un juez y el número de secretarios, actuarios, notificadores y demás servidores judiciales que sean necesarios y que la disponibilidad presupuestal lo permita.
-
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+Los juzgados de primera instancia funcionarán con una jueza o juez y el número de secretarias o secretarios, actuarias o actuarios, notificadoras o notificadores y demás personal judicial que sean necesarios y que la disponibilidad presupuestal lo permita.
 
 Artículo 41 Bis
 
-En materia penal, el Poder Judicial contará con Jueces de Control, de Oralidad, de Justicia para adolescentes y de Ejecución.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
+
+En materia penal, el Poder Judicial contará con Juezas o Jueces de Control, de Oralidad, de Justicia para adolescentes y de Ejecución.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
 
 Asimismo, el Consejo de la Judicatura mediante los instructivos, acuerdos, manuales y demás disposiciones que al efecto emita, regulará lo relativo a los requisitos de ingreso, permanencia, atribuciones y todo lo inherente a la administración de justicia.
 
@@ -613,23 +803,33 @@ Asimismo, el Consejo de la Judicatura mediante los instructivos, acuerdos, manua
 
 Artículo 42
 
-Los jueces de primera instancia tendrán competencia para:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
 
-1. Conocer y resolver los asuntos del fuero común en el orden civil, familiar, penal, de adolescentes y mercantil en jurisdicción concurrente, que determinen las leyes respectivas.
+Los juzgados de primera instancia tendrán competencia para:
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Conocer y resolver los asuntos del fuero común en el orden civil, familiar, penal, laboral, extinción de dominio, de adolescentes y mercantil en jurisdicción concurrente, que determinen las leyes respectivas.
 
 2. Para ejercer la competencia a que se refiere (sic) párrafo anterior, el Consejo de la Judicatura tendrá facultades para determinar la especialización de los juzgados atendiendo a las necesidades del servicio judicial.
 
-### CAPÍTULO III. DE LOS JUECES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
+
+### CAPÍTULO III. DE LAS JUEZAS Y JUECES
 
 Artículo 43
 
-1. Los jueces de primera instancia serán nombrados por el Consejo de la Judicatura, previo examen de oposición, rendirán la protesta de ley, durarán en su encargo seis años. Podrán ser ratificados mediante el voto de las dos terceras partes de los integrantes del Consejo de la Judicatura y si lo fueren, sólo serán removidos en los términos del Título Octavo de la Constitución Política del Estado y sus normas reglamentarias.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Las juezas y jueces de primera instancia serán nombrados por el Consejo de la Judicatura, previo examen de oposición, rendirán la protesta de ley, durarán en su encargo seis años. Podrán ser ratificados mediante el voto de las dos terceras partes de los integrantes del Consejo de la Judicatura y si lo fueren, solo serán removidos en los términos del Título Octavo de la Constitución Política del Estado y sus normas reglamentarias.
 
 2. El nombramiento de todo integrante de un juzgado de primera instancia se hará, preferentemente, a favor de aquellas personas que hayan prestado sus servicios al Poder Judicial del Estado con eficiencia y probidad, o que por su honorabilidad, competencia y antecedentes profesionales así lo ameriten.
 
 Artículo 44
 
-Son causas de terminación del cargo de juez, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
+
+Son causas de terminación del cargo de jueza o juez, las siguientes:
 
 1. La muerte.
 
@@ -651,19 +851,29 @@ Son causas de terminación del cargo de juez, las siguientes:
 
 Artículo 45
 
-1. Los jueces de primera instancia del estado, gozarán de independencia en el ejercicio de sus atribuciones y percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante el ejercicio de su encargo.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-2. Los jueces que no hubiesen sido ratificados tendrán derecho a recibir un haber único equivalente a seis meses del total de la remuneración que tenga asignada al momento de su conclusión.
+1. Las juezas o jueces de primera instancia del estado, gozarán de independencia en el ejercicio de sus atribuciones y percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante el ejercicio de su encargo.
 
-3. Los jueces que concluyan su encargo en los términos de los párrafos cuatro y cinco del artículo anterior tendrán derecho a recibir un haber único al equivalente a un año de la remuneración total que tenga asignada al momento de su conclusión.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-4. Los jueces que se retiren antes de cumplir el periodo de seis años tendrán derecho de manera proporcional al haber por retiro descrito en el segundo párrafo del presente artículo.
+2. Las juezas o jueces que no hubiesen sido ratificados tendrán derecho a recibir un haber único equivalente a seis meses del total de la remuneración que tenga asignada al momento de su conclusión.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+3. Las juezas o jueces que concluyan su encargo en los términos de los párrafos cuatro y cinco del artículo anterior tendrán derecho a recibir un haber único al equivalente a un año de la remuneración total que tenga asignada al momento de su conclusión.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+4. Las juezas o jueces que se retiren antes de cumplir el periodo de seis años tendrán derecho de manera proporcional al haber por retiro descrito en el segundo párrafo del presente artículo.
 
 5. Lo anterior sin perjuicio de lo dispuesto en la Ley de Pensiones de los trabajadores al servicio del Estado de Nayarit.
 
 Artículo 46
 
-Son atribuciones de los jueces de primera instancia:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
+
+Son atribuciones de las juezas y jueces de primera instancia:
 
 1. Conocer y resolver los asuntos de su competencia, conforme a la organización jurisdiccional que determine el Consejo de la Judicatura.
 
@@ -685,7 +895,9 @@ Son atribuciones de los jueces de primera instancia:
 
 10. Acudir a las reuniones que para el efecto convoque el Tribunal Superior de Justicia o el Consejo de la Judicatura.
 
-11. Vigilar el cumplimiento de las obligaciones de los servidores públicos adscritos al juzgado.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+11. Vigilar el cumplimiento de las obligaciones del personal adscritos al juzgado.
 
 12. Dar cuenta al Consejo de la Judicatura de los procedimientos administrativos de responsabilidad que deba conocer éste.
 
@@ -699,27 +911,37 @@ Artículo 47
 
 Los juzgados de primera instancia deberán conservar y mantener actualizado el registro de entradas, salidas y estado de los asuntos de cada ramo; entrega y recibo de expedientes y comunicaciones; envío y recepción de expedientes al Archivo General del Poder Judicial; control de promociones diarias y los demás que sean necesarios con el formato autorizado por el Tribunal Superior de Justicia o el Consejo de la Judicatura.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 47 Bis
 
-Los juzgados del Estado estarán expeditos para administrar justicia pronta y gratuita dentro de los plazos y los términos que establezcan las leyes, en consecuencia, queda prohibido a los funcionarios y empleados judiciales recibir cualquier ministración en dinero, aunque sea en concepto de gastos, así como gratificaciones, obsequios o contraprestación alguna por las diligencias que practiquen con motivo del ejercicio de su encargo, dentro o fuera de las horas de despacho.
+Los juzgados del Estado estarán expeditos para administrar justicia pronta y gratuita dentro de los plazos y los términos que establezcan las leyes, en consecuencia, queda prohibido a las funcionarias o funcionarios y empleadas y empleados judiciales recibir cualquier ministración en dinero, aunque sea en concepto de gastos, así como gratificaciones, obsequios o contraprestación alguna por las diligencias que practiquen con motivo del ejercicio de su encargo, dentro o fuera de las horas de despacho.
 
-### CAPÍTULO IV. DE LOS SECRETARIOS DE ACUERDOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
+
+### CAPÍTULO IV. DE LAS SECRETARÍAS DE ACUERDOS
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 48
 
-Los secretarios o quiénes los sustituyan legalmente tendrán fe judicial en todo lo relativo a su encargo.
+Las secretarias o secretarios o quienes los sustituyan legalmente tendrán fe judicial en todo lo relativo a su encargo.
 
 Artículo 49
 
-Son atribuciones de los secretarios:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
+
+Son atribuciones de las secretarías de acuerdos:
 
 1. Asistir a sus oficinas en horas hábiles y en los casos en que a juicio del superior fuera necesario, vigilando que los subalternos también lo hagan.
 
-2. Supervisar que en la recepción de los escritos se asiente al calce la razón, el día y hora de su presentación, el nombre de quien lo presente y su identificación, expresando el número de hojas que contengan los documentos que se acompañan; en la copia que en su caso se exhiba, deberán poner razón idéntica y el sello del juzgado; podrá delegar con autorización del juez, en el empleado del juzgado que considere apto, la recepción de escritos y documentos solamente en horas hábiles.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-3. Dar cuenta diariamente al juez de quien dependa, bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a la presentación, con todos los escritos y promociones de los interesados, así como de los oficios y demás documentos que se reciban asentando razón en autos.
+2. Supervisar que en la recepción de los escritos se asiente al calce la razón, el día y hora de su presentación, el nombre de quien lo presente y su identificación, expresando el número de hojas que contengan los documentos que se acompañan; en la copia que en su caso se exhiba, deberán poner razón idéntica y el sello del juzgado; podrá delegar con autorización de la persona titular del juzgado, en la persona empleada del juzgado que considere apto, la recepción de escritos y documentos solamente en horas hábiles.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+3. Dar cuenta diariamente a la persona titular del juzgado de quien dependa, bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a la presentación, con todos los escritos y promociones de los interesados, así como de los oficios y demás documentos que se reciban asentando razón en autos.
 
 4. Autorizar exhortos, oficios comisorios y despachos que se giren, actas que se formulen y diligencias que se practiquen.
 
@@ -749,63 +971,91 @@ Son atribuciones de los secretarios:
 
 17. Ejecutar los autos, sentencias y determinaciones ordenadas por el juzgador en términos de las leyes procesales.
 
-18. Actuar como juez por ministerio de ley, en las faltas temporales del titular, en términos del artículo 73 de esta Ley.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+18. Actuar como la persona titular del juzgado por ministerio de ley, en las faltas temporales del titular, en términos del artículo 73 de esta Ley.
 
 19. Las demás que la ley y su reglamento le confiera.
 
-### CAPÍTULO V. DE LOS ACTUARIOS O NOTIFICADORES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
+
+### CAPÍTULO V. DE LAS ACTUARÍAS O NOTIFICADORAS O NOTIFICADORES
 
 Artículo 50
 
-Son atribuciones de los actuarios o notificadores:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
+
+Son atribuciones de las actuarías o notificadoras o notificadores:
 
 1. Notificar los acuerdos, autos o resoluciones en los términos prevenidos por la ley.
 
-2. Glosar los acuerdos que les encomiende el secretario del juzgado.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+2. Glosar los acuerdos que les encomiende la secretaría del juzgado.
 
 3. Integrar promociones y actuaciones a la pieza de autos.
 
-4. Auxiliar al secretario, para llevar el control y mantener al corriente los libros del juzgado.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-5. Auxiliar y sustituir en los términos de esta ley al secretario de quien dependan en las labores de su encargo.
+4. Auxiliar a la secretaría de acuerdos, para llevar el control y mantener al corriente los libros del juzgado.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+5. Auxiliar y sustituir en los términos de esta ley a la secretaría del juzgado de quien dependan en las labores de su encargo.
 
 6. Las demás que esta ley y otros ordenamientos legales les encomienden.
 
-7. Tratándose de actuarios o notificadores adscritos al Tribunal Superior de Justicia se aplicarán en lo conducente las previsiones de los párrafos anteriores.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+7. Tratándose de actuarias o actuarios o notificadoras o notificadores adscritos al Tribunal Superior de Justicia se aplicarán en lo conducente las previsiones de los párrafos anteriores.
 
 ## TÍTULO QUINTO. DEL ESTATUTO JUDICIAL
 
 ### CAPÍTULO I. DE LOS NOMBRAMIENTOS
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 51
 
-La elección de magistrados del Tribunal Superior de Justicia se hará conforme al procedimiento establecido en la Constitución Política del Estado.
+La elección de magistradas o magistrados del Tribunal Superior de Justicia se hará conforme al procedimiento establecido en la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 52
 
-La inamovilidad de magistrados y jueces de primera instancia, constituye una garantía para fortalecer la independencia judicial, por lo que no podrán ser removidos del cargo sino conforme a las causas y procedimientos que establecen la Constitución General de la República, la particular del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+La inamovilidad de magistradas o magistrados y juezas o jueces de primera instancia, constituye una garantía para fortalecer la independencia judicial, por lo que no podrán ser removidos del cargo sino conforme a las causas y procedimientos que establecen la Constitución General de la República y la particular del Estado.
 
 Artículo 53
 
-1. Los magistrados que integren el Tribunal Superior de Justicia durarán en su encargo 10 años y serán sustituidos en los términos que disponga la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Las magistradas o magistrados que integren el Tribunal Superior de Justicia durarán en su encargo 10 años y serán sustituidos en los términos que disponga la Constitución Política del Estado.
 
 2. Solo podrán ser removidos en los términos del Título Octavo de la Constitución Política del Estado y al vencimiento de su período tendrán derecho a un haber por retiro, que consistirá en el pago mensual íntegro de las percepciones que correspondan a los magistrados en activo durante un año
 
-3. Cuando los magistrados se retiren sin haber cumplido diez años en el ejercicio de su cargo, tendrán derecho a la remuneración a que se refiere el párrafo anterior de manera proporcional al tiempo de su desempeño.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-4. En caso de fallecimiento de los magistrados durante el ejercicio del cargo, o en el año en que perciba el haber por retiro, su cónyuge o concubina y sus hijos menores o incapaces tendrán derecho de manera proporcional a una pensión equivalente a la remuneración mensual que en los términos de los dos párrafos anteriores debía corresponder al propio magistrado.
+3. Cuando las magistradas o magistrados se retiren sin haber cumplido diez años en el ejercicio de su cargo, tendrán derecho a la remuneración a que se refiere el párrafo anterior de manera proporcional al tiempo de su desempeño.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+4. En caso de fallecimiento de las magistradas o magistrados durante el ejercicio del cargo, o en el año en que perciba el haber por retiro, su cónyuge o concubina y sus hijas o hijos menores o incapaces tendrán derecho de manera proporcional a una pensión equivalente a la remuneración mensual que en los términos de los dos párrafos anteriores debía corresponder a la propia magistrada o magistrado.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 54
 
-1. Rendida la protesta de ley, el magistrado electo, tomará inmediatamente posesión de su cargo; el Presidente del Tribunal Superior de Justicia, dispondrá lo conducente para su desempeño.
+1. Rendida la protesta de ley, la magistrada o magistrado electo, tomará inmediatamente posesión de su cargo; la persona titular de la presidencia del Tribunal Superior de Justicia, dispondrá lo conducente para su desempeño.
 
-2. Entre los magistrados no habrá preeminencia alguna que los diferencie de su condición, funciones y prerrogativas constitucionales.
+2. Entre las magistradas o magistrados no habrá preeminencia alguna que los diferencie de su condición, funciones y prerrogativas constitucionales.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 55
 
-1. La protesta que rindan jueces y demás funcionarios judiciales constará por escrito.
+1. La protesta que rindan juezas o jueces y demás personal judicial constará por escrito.
 
-2. Sus nombramientos contendrán los datos esenciales para ejercer la función encomendada y se publicarán en el Boletín Judicial y Periódico Oficial, Órgano del Gobierno del Estado.
+2. Sus nombramientos contendrán los datos esenciales para ejercer la función encomendada y se publicarán en el Boletín Judicial Electrónico y Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo 56
 
@@ -815,43 +1065,63 @@ Toda persona que habiendo sido nombrada para desempeñar algún cargo o empleo j
 
 Artículo 57
 
-Para ser juez de primera instancia, se requiere:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
 
-1. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos.
+Para ser jueza o juez de primera instancia, se requiere:
 
-2. Poseer, al día del nombramiento, título de Licenciado en Derecho o de Abogado con antigüedad mínima de cinco años, y contar preferentemente, con estudios de posgrado en derecho, experiencia profesional en la judicatura o ejercicio de la profesión no menor de ese lapso.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+2. Poseer, al día del nombramiento, título en licenciatura en Derecho o de Abogado con antigüedad mínima de cinco años, y contar preferentemente, con estudios de posgrado en derecho, experiencia profesional en la judicatura o ejercicio de la profesión no menor de ese lapso.
 
 3. Gozar de buena reputación.
 
 4. Cumplir los requisitos de ingreso previstos en la presente ley.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 58
 
-El Secretario General de Acuerdos del Tribunal Superior de Justicia deberá reunir los requisitos para ser Juez.
+La persona titular de la Secretaría General de Acuerdos del Tribunal Superior de Justicia deberá reunir los requisitos para ser Jueza o Juez.
 
 Artículo 59
 
-Para ser Secretario de Acuerdos de Sala o de Estudio y Cuenta, se requiere:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
 
-1. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos.
+Para ser secretaria o secretario de Acuerdos de Sala o de Estudio y Cuenta, se requiere:
 
-2. Poseer, al día del nombramiento, título de Licenciado en Derecho o de Abogado con antigüedad mínima de dos años de práctica profesional cuando menos.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+2. Poseer, al día del nombramiento, título en licenciatura en Derecho o de Abogado con antigüedad mínima de dos años de práctica profesional cuando menos.
 
 3. Gozar de buena reputación.
 
 4. Cumplir los requisitos de ingreso previstos en la presente ley.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 60
 
-Para ser secretario de acuerdos de juzgado, actuario o notificador, se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos, tener título de Licenciado en Derecho o de Abogado y gozar de buena reputación.
+Para ser secretaria o secretario de acuerdos de juzgado, actuaria o actuario o notificadora o notificador, se requiere la ciudadanía mexicana en pleno ejercicio de sus derechos civiles y políticos, tener título en licenciatura en Derecho o de Abogado y gozar de buena reputación.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 61
 
-Los servidores judiciales de los juzgados, radicarán preferentemente en el lugar de su adscripción; percibirán una remuneración adecuada e irrenunciable y no podrá ser disminuida durante su encargo.
+El personal judicial de los juzgados, radicarán preferentemente en el lugar de su adscripción; percibirán una remuneración adecuada e irrenunciable y no podrá ser disminuida durante su encargo.
 
 Artículo 62
 
-Son impedimentos para ser designado servidor judicial:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
+
+Son impedimentos para ser designado personal adscrito a la judicatura:
 
 1. Haber sido condenado por delito que amerite pena privativa de libertad de más de un año de prisión. Si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena.
 
@@ -861,9 +1131,13 @@ Son impedimentos para ser designado servidor judicial:
 
 Artículo 63
 
-Los servidores públicos judiciales están impedidos para:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
 
-1. Ejercer la profesión de licenciado en derecho, por sí o por interpósita persona, a excepción de la defensa de causas propias, de su cónyuge, concubina o concubinario, ascendientes, descendientes y colaterales hasta el cuarto grado.
+Las personas con carácter de servidor público judicial están impedidas para:
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Ejercer la profesión en licenciatura en derecho, por si o por interpósita persona, a excepción de la defensa de causas propias, de su cónyuge, concubina o concubinario, ascendientes, descendientes y colaterales hasta el cuarto grado.
 
 2. Desempeñar el cargo de tutores, curadores, albaceas, depositarios, administradores, o cualesquier otra actividad incompatible con la función judicial, salvo en asuntos de carácter personal.
 
@@ -875,41 +1149,61 @@ Los servidores públicos judiciales están impedidos para:
 
 Artículo 64
 
-1. Los magistrados del Tribunal Superior de Justicia, los jueces y secretarios, así como los integrantes del Consejo de la Judicatura, en ejercicio, no podrán en ningún caso aceptar ni desempeñar empleo o encargo de la federación, del estado, municipio o de particulares, salvo los cargos en asociaciones científicas, docentes, literarias o de beneficencia.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-2. Las personas que hayan ocupado el cargo de magistrado o juez, no podrán, dentro del periodo de que disfrutan del haber por retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado, a excepción de la defensa de causas propias, de su cónyuge, concubina o concubinario, ascendientes, descendientes y colaterales hasta el cuarto grado.
+1. Las magistradas o magistrados del Tribunal Superior de Justicia, las juezas o jueces y secretarias o secretarios, así como los integrantes del Consejo de la Judicatura, en ejercicio, no podrán en ningún caso aceptar ni desempeñar empleo o encargo de la federación, del estado, municipio o de particulares, salvo los cargos en asociaciones científicas, docentes, literarias o de beneficencia.
 
-3. Los impedimentos de este artículo serán aplicables a los funcionarios judiciales de referencia que gocen de licencia.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+2. Las personas que hayan ocupado el cargo de magistrada o magistrado o jueza o juez, no podrán, dentro del periodo de que disfrutan del haber por retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado, a excepción de la defensa de causas propias, de su cónyuge, concubina o concubinario, ascendientes, descendientes y colaterales hasta el cuarto grado.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+3. Los impedimentos de este artículo serán aplicables a las personas con carácter de servidor público judicial de referencia que gocen de licencia.
 
 4. La infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
 
 Artículo 65
 
-1. Ningún nombramiento para servidor público de la administración de justicia o auxiliar de ésta podrá recaer en ascendientes, descendientes, cónyuges, concubina o concubinario, colaterales dentro del cuarto grado por consanguinidad, segundo por afinidad o con parentesco civil, con los servidores que hagan la designación.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Ningún nombramiento para una persona del servicio público de la administración de justicia o auxiliar de esta podrá recaer en ascendientes, descendientes, cónyuges, concubina o concubinario, colaterales dentro del cuarto grado por consanguinidad, segundo por afinidad o con parentesco civil, con las servidoras o servidores que hagan la designación.
 
 2. Tampoco podrán prestar sus servicios en la misma sala o juzgado, dos o más personas con el parentesco a que se refiere este artículo.
 
 ### CAPÍTULO IV. DE LOS ESTÍMULOS
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 66
 
-La Distinción al Mérito Judicial será conferida a los jueces de primera instancia, en reconocimiento a su desempeño se otorgará en los términos que disponga el acuerdo que emita el Consejo de la judicatura.
+La Distinción al Mérito Judicial será conferida a las juezas y jueces de primera instancia, en reconocimiento a su desempeño se otorgará en los términos que disponga el acuerdo que emita el Consejo de la judicatura.
 
 Artículo 67
 
 El Consejo de la Judicatura impulsará programas:
 
-1. De estímulos para los servidores judiciales, que fomenten la profesionalización, especialización e investigación jurídica, de conformidad con la disponibilidad presupuestal.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-2. Para que los servidores judiciales asistan a eventos académicos nacionales o extranjeros, en cuyo caso podrá otorgar licencias con goce de sueldo, atendiendo preferentemente las necesidades del servicio judicial y demás requisitos que indique el acuerdo respectivo.
+1. De estímulos para las servidoras y servidores judiciales, que fomenten la profesionalización, especialización e investigación jurídica, de conformidad con la disponibilidad presupuestal.
 
-3. De estímulos y recompensas para los servidores judiciales que reconozca el desempeño integral en la carrera judicial.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-### CAPÍTULO V. DE LA CONCLUSIÓN DEL CARGO DE MAGISTRADO
+2. Para que las personas con carácter de servidor judicial asistan a eventos académicos nacionales o extranjeros, en cuyo caso podrá otorgar licencias con goce de sueldo, atendiendo preferentemente las necesidades del servicio judicial y demás requisitos que indique el acuerdo respectivo.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+3. De estímulos y recompensas para las personas con carácter de servidor judicial que reconozca el desempeño integral en la carrera judicial.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
+
+### CAPÍTULO V. DE LA CONCLUSIÓN DEL CARGO DE MAGISTRADA O MAGISTRADO
 
 Artículo 68
 
-Son causas de terminación del cargo de magistrado, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
+
+Son causas de terminación del cargo de magistrada o magistrado, las siguientes:
 
 1. La muerte.
 
@@ -929,53 +1223,73 @@ Son causas de terminación del cargo de magistrado, las siguientes:
 
 9. Por responsabilidad en los términos del Título Octavo de la Constitución Política del estado.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 69
 
-Cuando ocurriere una vacante definitiva de un magistrado, por cualquiera de las causas previstas en el artículo anterior, el Presidente del Tribunal Superior de Justicia dará aviso al titular del Ejecutivo del Estado, para que se proceda en los términos de la Constitución Política local.
+Cuando ocurriere una vacante definitiva de una magistrada o magistrado, por cualquiera de las causas previstas en el artículo anterior, la persona titular de la presidencia del Tribunal Superior de Justicia dará aviso al titular del Ejecutivo del Estado, para que se proceda en los términos de la Constitución Política Local.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 70
 
-Si por cualquier motivo superveniente el nombramiento de un magistrado quedare sin efecto, se informará al titular del Poder Ejecutivo para los efectos legales conducentes.
+Si por cualquier motivo superveniente el nombramiento de una magistrada o magistrado quedare sin efecto, se informará al titular del Poder Ejecutivo para los efectos legales conducentes.
 
 ### CAPÍTULO VI. DE LA SEPARACIÓN DEL CARGO JUDICIAL
 
 Artículo 71
 
-Las ausencias de los servidores públicos judiciales serán temporales o definitivas y se cubrirán conforme a la Constitución y esta ley:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
+
+Las ausencias de las servidoras o servidores públicos judiciales serán temporales o definitivas y se cubrirán conforme a la Constitución y esta ley:
 
 1. Son temporales, por enfermedad, por suspensión de empleo o cargo, por licencia, comisión o permiso con o sin goce de sueldo.
 
 2. Son definitivas en los casos de renuncia, destitución, incapacidad física o mental, o muerte.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 72
 
-No se considerará separación del cargo la designación de un servidor judicial para desempeñar funciones administrativas dentro del Poder Judicial.
+No se considerará separación del cargo la designación de una o un servidor judicial para desempeñar funciones administrativas dentro del Poder Judicial.
 
 Artículo 73
 
 Las ausencias temporales serán suplidas de la siguiente manera:
 
-1. El juez por el secretario de acuerdos de mayor antigüedad dentro del Poder Judicial del Estado que se encuentre adscrito al juzgado correspondiente.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-2. El Secretario General de Acuerdos del Tribunal Superior de Justicia y de los secretarios de acuerdos de sala, por el servidor público judicial que designe provisionalmente el Presidente del Tribunal Superior de Justicia.
+1. La jueza o juez por la secretaria o secretario de acuerdos de mayor antigüedad dentro del Poder Judicial del Estado que se encuentre adscrito al juzgado correspondiente.
 
-3. El Secretario de Acuerdos, por el notificador o actuario de mayor antigüedad dentro del Poder Judicial del Estado que se encuentre adscrito al juzgado correspondiente y a falta de este por testigos de asistencia.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+2. La persona titular de la Secretaría General de Acuerdos del Tribunal Superior de Justicia y de las personas titulares de las secretarías de acuerdos de las salas, por la o el servidor público judicial que designe provisionalmente la persona titular de la Presidencia del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+3. La persona titular de la Secretaría de Acuerdos, por la notificadora o notificador o actuaria o actuario de mayor antigüedad dentro del Poder Judicial del Estado que se encuentre adscrito al juzgado correspondiente y a falta de este por testigos de asistencia.
 
 Artículo 74
 
-1. Los magistrados numerarios serán suplidos en sus faltas temporales por el magistrado supernumerario que designe el Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Las magistradas o magistrados numerarios serán suplidos en sus faltas temporales por la magistrada o magistrado supernumerario que designe el Tribunal Superior de Justicia.
 
 2. Las faltas definitivas se cubrirán en los términos que dispone la Constitución del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 75
 
-De la renuncia de los servidores judiciales conocerá el Consejo de la Judicatura con excepción de los adscritos al Tribunal, de los cuales serán resueltas por éste.
+De la renuncia de las servidoras o servidores judiciales conocerá el Consejo de la Judicatura con excepción de los adscritos al Tribunal, de los cuales serán resueltas por este.
 
 Artículo 76
 
 Para el otorgamiento de las licencias y permisos se estará a las siguientes bases:
 
-1. Las licencias de los servidores públicos del Poder Judicial serán las que no excedan de seis meses, a excepción de los magistrados en cuyo caso se estará a lo dispuesto por la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Las licencias del personal al servicio público del Poder Judicial serán las que no excedan de seis meses, a excepción de las magistradas o magistrados en cuyo caso se estará a lo dispuesto por la Constitución Política del Estado.
 
 2. Los permisos no podrán exceder de nueve días al año, se concederán de forma discontinua hasta por tres días y se autorizarán por el superior jerárquico.
 
@@ -995,43 +1309,59 @@ Artículo 78
 
 El Consejo de la Judicatura ejercerá las atribuciones que le confiere la Constitución Política del Estado y esta Ley; para tal efecto funcionará en Pleno o en Comisiones.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 79
 
 El Consejo de la Judicatura se integra por:
 
-1. El Pleno del Tribunal Superior de Justicia.
+1. La persona titular de la presidencia del Tribunal Superior de Justicia.
 
-2. Dos Jueces designados mediante insaculación por el Pleno del Tribunal Superior de Justicia y que deberán cumplir con los requisitos previstos en el artículo 83 de la Constitución Política del Estado.
+2. Una magistrada o magistrado electo por el pleno del Tribunal.
 
-3. El Presidente del Pleno del Tribunal Superior de Justicia lo será también del Consejo.
+3. Una jueza o juez electo mediante el procedimiento de insaculación por el pleno del Consejo de la Judicatura.
+
+4. Una consejera o consejero nombrado por el titular del Poder Ejecutivo.
+
+5. Una consejera o consejero nombrado por el Congreso.
+
+Se integrará al pleno del Consejo, nombrado por éste, un Secretario Ejecutivo y la persona que sea designada deberá provenir del sistema de carrera judicial.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 80
 
-Para nombrar a los jueces a que hace referencia al párrafo 2 del artículo anterior, se deberá observar el siguiente procedimiento:
+Para nombrar a la jueza o juez a que hace referencia el artículo anterior, se deberá observar el siguiente procedimiento:
 
-1. El Pleno del Tribunal emitirá convocatoria en la que se invite a los jueces interesados en participar como consejeros de la judicatura. La convocatoria se publicará en el Boletín Judicial, órgano de difusión del Poder Judicial del Estado.
+1. El Pleno del Tribunal emitirá convocatoria en la que se invite a las juezas y jueces interesados en participar como consejeras o consejeros de la judicatura. La convocatoria se publicará en el Boletín Judicial Electrónico y en el portal de Internet de la institución.
 
-2. En la citada convocatoria se establecerá un plazo de cinco días naturales para que mediante carta intención los jueces manifiesten su interés de formar parte del Consejo y acrediten los requisitos que señala el artículo 83 de la Constitución Política del Estado, además de los previstos en la Convocatoria.
+2. En la citada convocatoria se establecerá un plazo de cinco días hábiles para que mediante carta intención los participantes manifiesten su interés de formar parte del Consejo y acrediten los requisitos que señala el artículo 83 de la Constitución Política del Estado, además de los previstos en la convocatoria.
 
-3. El Pleno del Tribunal Superior de Justicia, dentro de los cinco días naturales siguientes a la conclusión de la etapa prevista en el párrafo anterior, procederá a analizar la documentación de los aspirantes a consejeros.
+3. El Pleno del Tribunal, dentro de los cinco días hábiles siguientes a la conclusión de la etapa prevista en el párrafo anterior, procederá a analizar la documentación de los aspirantes a consejeros.
 
-4. Una vez agotado lo anterior, procederá en sesión pública a efectuar, de entre aquellos que hubiesen reunido los requisitos, a la insaculación correspondiente.
+4. Una vez agotado lo anterior, en sesión pública se llevará a cabo el procedimiento de insaculación, de entre quienes se hayan registrado en la convocatoria.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 81
 
-1. El Presidente del Consejo y los jueces consejeros durarán en sus cargos cuatro años y no podrán ser nombrados para el período inmediato siguiente.
+1. Los integrantes del Consejo durarán en sus cargos en los términos que señala la Constitución.
 
-2. El cargo de consejero se desempeñará en tanto el titular ejerza funciones jurisdiccionales.
+2. La condición de ser titular de la magistratura, determina la representación en el Consejo.
 
-3. Los jueces consejeros percibirán una compensación adicional por su desempeño que al efecto determine el Consejo de la Judicatura.
+3. La jueza o juez consejero no podrá ser reelecto.
+
+4. La jueza o juez consejero percibirán una compensación adicional con motivo de su desempeño en este órgano.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 82
 
-1. El Consejo de la Judicatura, sesionará con la presencia de las dos terceras partes de sus integrantes.
+1. El Consejo de la Judicatura, podrá sesionar válidamente con la presencia de cuando menos tres de sus integrantes.
 
-2. Las sesiones se celebrarán en días y horas hábiles; el presidente las convocará por escrito cuando menos con setenta y dos horas de anticipación, precisando el proyecto de asuntos a tratar.
+2. Las sesiones se celebrarán en días y hora hábiles; la persona titular de la presidencia las convocará cuando menos con cuarenta y ocho horas de anticipación, precisando los asuntos a tratar.
 
-3. En cualquier tiempo y en casos urgentes se convocará por medios idóneos, cuando menos con veinticuatro horas de anticipación y sólo se tratarán los asuntos que dieron lugar a la convocatoria. No obstante, si asistieran la totalidad de los magistrados y por unanimidad lo acordaran, podrán incorporarse otros temas.
+3. En cualquier tiempo y en casos urgentes se convocará por los medios idóneos, cuando menos con veinticuatro horas de anticipación y solo se tratarán los asuntos que dieron lugar a la convocatoria. No obstante, si asistiera la totalidad de consejeras y consejeros y siempre que sea por unanimidad, podrá acordarse la incorporación de otros asuntos en el orden del día.
 
 Artículo 83
 
@@ -1039,17 +1369,23 @@ Las sesiones del Consejo de la Judicatura solo por excepción dejarán de ser p�
 
 Artículo 84
 
-1. Las resoluciones del Consejo de la Judicatura se tomarán por unanimidad o mayoría de votos; los consejeros solo podrán abstenerse de votar, cuando tengan impedimento legal o no hayan estado presentes en la discusión del asunto de que se trate. En caso de empate, el presidente tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Las resoluciones del Consejo de la Judicatura se tomarán por unanimidad o mayoría de votos; las personas integrantes del Consejo de la Judicatura solo podrán abstenerse de votar, cuando tengan impedimento legal o no hayan estado presentes en la discusión del asunto de que se trate. En caso de empate, el presidente tendrá voto de calidad.
 
 2. Las decisiones del Consejo serán definitivas e inatacables, salvo las previstas en esta ley.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 85
 
-Las resoluciones del Consejo de la Judicatura constarán en acta autorizada por su secretario y deberán firmarse por los que en ella intervinieron.
+Las resoluciones del Consejo de la Judicatura constarán en acta autorizada por la persona titular de la secretaría ejecutiva y deberán firmarse por los que en ella intervinieron.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 86
 
-Las resoluciones del Consejo se notificarán personalmente a la parte interesada. La notificación y en su caso la ejecución de las resoluciones, deberán realizarse por conducto de los órganos que el Consejo determine. Cuando éste estime que sus acuerdos son de interés general, ordenará su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, en el Boletín Judicial o en ambos medios.
+Las resoluciones del Consejo se notificarán personalmente a la parte interesada. La notificación y en su caso la ejecución de las resoluciones, deberán realizarse por conducto de los órganos que el Consejo determine. Cuando éste estime que sus acuerdos son de interés general, ordenará su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, en el Boletín Judicial Electrónico o en ambos medios.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DEL CONSEJO
 
@@ -1059,9 +1395,13 @@ Son atribuciones del Consejo de la Judicatura:
 
 1. Velar por la autonomía de los miembros del Poder Judicial, garantizando en todo momento su independencia, inviolabilidad e imparcialidad.
 
-2. Llevar el registro y seguimiento de la situación patrimonial de los servidores públicos del Poder Judicial en los términos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-3. Coordinar y supervisar el funcionamiento de sus órganos internos, así como nombrar a los servidores públicos que sean necesarios para el mejor funcionamiento de éstos y resolver lo relativo a sus ascensos, licencias, remociones y renuncias.
+2. Llevar el registro y seguimiento de la situación patrimonial de las servidoras y servidores públicos del Poder Judicial en los términos previstos por la Ley General de Responsabilidades Administrativas.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+3. Coordinar y supervisar el funcionamiento de sus órganos internos, así como nombrar al personal judicial que sean necesarios para el mejor funcionamiento de éstos y resolver lo relativo a sus ascensos, licencias, remociones y renuncias.
 
 4. A través de sus órganos competentes, realizar visitas ordinarias y extraordinarias a los juzgados, integrar comisiones de investigación cuando estime que se ha cometido una falta grave, sin perjuicio de las facultades que correspondan a la de sus órganos auxiliares.
 
@@ -1089,13 +1429,17 @@ Son atribuciones del Consejo de la Judicatura:
 
 16. Conocer y evaluar en su oportunidad el informe anual que deberá ser presentado ante el Congreso, en los términos que disponga el reglamento o acuerdo respectivo.
 
-17. Otorgar estímulos, reconocimientos y recompensas a los servidores públicos judiciales en los términos que señale esta ley y los acuerdos correspondientes.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+17. Otorgar estímulos, reconocimientos y recompensas a las servidoras o servidores públicos judiciales en los términos que señale esta ley y los acuerdos correspondientes.
 
 18. Asignar a sus comisiones la atención de los asuntos de su competencia.
 
 19. Dictar los acuerdos necesarios para regular la distribución de los asuntos que deban conocer los juzgados de primera instancia.
 
-20. Conocer de los conflictos de trabajo suscitados entre el Poder Judicial y sus servidores públicos.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+20. Conocer de los conflictos de trabajo suscitados entre el Poder Judicial y su personal.
 
 21. Reconsiderar a petición de parte interesada las decisiones del Consejo de la Judicatura respecto a la designación, adscripción, destitución o no ratificación de Jueces; para el efecto de verificar que se ajustaron a las reglas previstas en esta ley.
 
@@ -1105,43 +1449,67 @@ Son atribuciones del Consejo de la Judicatura:
 
 24. Establecer los periodos vacacionales del personal del Poder Judicial.
 
-25. Dentro del ámbito de su competencia imponer a los servidores públicos judiciales, previa garantía de audiencia y defensa, las sanciones que procedan conforme a la ley cundo (sic) incurran en actos u omisiones que la transgredan y cuando de ello se desprenda la probable comisión de delitos intencionales denunciar los hechos al ministerio público.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+25. Dentro del ámbito de su competencia imponer a las personas con carácter de servidor público judicial, previa garantía de audiencia y defensa, las sanciones que procedan conforme a la ley cuando incurran en actos u omisiones que la transgredan y cuando de ello se desprenda la probable comisión de delitos intencionales denunciar los hechos al ministerio público.
 
-26. Apercibir, amonestar e imponer multas en favor del Fondo del Poder Judicial, hasta por noventa veces la UMA, al día de la comisión de la falta, a los abogados, agentes de negocios, procuradores o litigantes, auxiliares de la administración de justicia o cualquier otra persona, cuando faltaren al respeto a algún órgano o miembro del Consejo, en sus promociones por escrito o por cualquier otro medio.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+26. Apercibir, amonestar e imponer multas en favor del Fondo del Poder Judicial, hasta por noventa veces la UMA, al día de la comisión de la falta, a las personas que ejerzan como abogados, agentes de negocios, procuradores o litigantes, auxiliares de la administración de justicia o cualquier otra persona, cuando faltaren al respeto de algún órgano o miembro del Consejo, en sus promociones por escrito o por cualquier otro medio.
 
 27. Tomar las medidas que exijan el buen servicio y disciplina en los juzgados, así como en sus órganos internos.
 
 28. Aumentar o disminuir el número de juzgados, determinar su organización y funcionamiento y asignar plazas a los servidores públicos de la administración de justicia.
 
-29. Determinar la adscripción de jueces, secretarios de acuerdos, secretarios de estudio y cuenta, secretarios ejecutores, notificadores o actuarios y demás personal de los juzgados; dar curso a las renuncias o licencias que presenten y determinar la separación temporal o definitiva de éstos en los casos previstos por la ley.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+29. Determinar la adscripción de juezas o jueces, secretarias o secretarios de acuerdos, secretarias o secretarios de estudio y cuenta, secretarias o secretarios ejecutores, notificadoras o notificadores o actuarias o actuarios y demás personal de los juzgados; dar curso a las renuncias o licencias que presenten y determinar la separación temporal o definitiva de éstos en los casos previstos por la ley.
 
 30. Cambiar la residencia de los juzgados de primera instancia.
 
-31. Nombrar a los jueces, secretarios de acuerdos, secretarios ejecutores, actuarios notificadores que deban adscribirse a los juzgados.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-32. Tomar protesta a los servidores judiciales que le corresponda.
+31. Nombrar a las juezas o jueces, secretarias o secretarios de acuerdos, secretarias o secretarios ejecutores, actuarias o actuarios, notificadoras o notificadores que deban adscribirse a los juzgados.
 
-33. Recibir y resolver las solicitudes de renuncias de los jueces consejeros.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-34. Conceder licencias a los funcionarios judiciales que designe y a los demás servidores públicos de confianza hasta por seis meses con o sin goce de sueldo, así como al personal sindicalizado de acuerdo a lo previsto en las disposiciones laborales aplicables.
+32. Tomar protesta al personal judicial que le corresponda.
 
-35. Designar a propuesta del presidente a los titulares de los órganos internos y demás personal al servicio del Consejo de la Judicatura, resolver sobre sus renuncias y licencias, removerlos libremente o suspenderlos en los términos que determinen las leyes o los acuerdos correspondientes.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-36. En los términos de la presente ley previa la correspondiente evaluación, emitir opinión al Congreso del Estado en relación a la ratificación de magistrados.
+33. Recibir y resolver las solicitudes de renuncias de la jueza o juez consejero.
 
-37. Resolver con base en la evaluación respectiva sobre la ratificación de los jueces.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-38. Emitir el dictamen de retiro forzoso o voluntario de magistrados y jueces y en el caso de los primeros hacerlo del conocimiento de los poderes Legislativo y Ejecutivo para los efectos legales conducentes.
+34. Conceder licencias a las funcionarias y funcionarios judiciales que designe y a los demás servidores públicos de confianza hasta por seis meses con o sin goce de sueldo, así como al personal sindicalizado de acuerdo a lo previsto en las disposiciones laborales aplicables.
 
-39. Promover permanentemente la capacitación y actualización de los servidores públicos del Poder Judicial.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+35. Designar a propuesta de la persona titular de la Presidencia a los titulares de los órganos internos y demás personal al servicio del Consejo de la Judicatura, resolver sobre sus renuncias y licencias, removerlos libremente o suspenderlos en los términos que determinen las leyes o los acuerdos correspondientes.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+36. En los términos de la presente ley previa la correspondiente evaluación, emitir opinión al Congreso del Estado en relación a la ratificación de magistradas o magistrados.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+37. Resolver con base en la evaluación respectiva sobre la ratificación de las juezas y jueces.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+38. Emitir el dictamen de retiro forzoso o voluntario de magistradas o magistrados y juezas o jueces y en el caso de los primeros hacerlo del conocimiento de los poderes Legislativo y Ejecutivo para los efectos legales conducentes.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+39. Promover permanentemente la capacitación y actualización de todo el personal del Poder Judicial.
 
 40. Vigilar el funcionamiento y efectivo cumplimiento de la carrera judicial.
 
 41. Dictar las disposiciones para el ingreso, estímulos, capacitación, ascensos y promociones por escalafón y remoción del personal administrativo del Poder Judicial.
 
-42. Convocar periódicamente a reuniones estatales o regionales de jueces, secretarios de acuerdos, secretarios ejecutores, notificadores o actuarios y demás personal al servicio del Poder Judicial, para fines de capacitación o evaluación sobre el funcionamiento de éste y proponer las medidas pertinentes para mejorar.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+42. Convocar periódicamente a reuniones estatales o regionales de juezas o jueces, secretarias o secretarios de acuerdos, secretarias o secretarios ejecutores, notificadoras o notificadores o actuarias o actuarios y demás personal al servicio del Poder Judicial, para fines de capacitación o evaluación sobre el funcionamiento de éste y proponer las medidas pertinentes para mejorar.
 
 43. Fijar las bases de la política informática y de información estadística del Poder Judicial.
 
@@ -1157,19 +1525,23 @@ Son atribuciones del Consejo de la Judicatura:
 
 47. Nombrar a un representante, para formar parte del Comité Coordinador en materia del Sistema Local Anticorrupción.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-48. Las demás que la ley le encomiende.
+48. Las demás que esta ley, los reglamentos y acuerdos generales le encomienden.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
 El Consejo de la Judicatura incorporará la perspectiva de género, de forma transversal y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones y velará por que los órganos a su cargo así lo hagan.
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DEL PRESIDENTE DEL CONSEJO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
+
+### CAPÍTULO III. DE LAS ATRIBUCIONES DE LA PRESIDENCIA DEL CONSEJO
 
 Artículo 88
 
-Son atribuciones del Presidente del Consejo de la Judicatura, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
+
+Son atribuciones de la persona titular de la presidencia del Consejo de la Judicatura, las siguientes:
 
 1. Representar al Consejo de la Judicatura.
 
@@ -1187,17 +1559,27 @@ Son atribuciones del Presidente del Consejo de la Judicatura, las siguientes:
 
 8. Despachar la correspondencia oficial del Consejo.
 
-9. Proponer al Consejo y en su caso designar a los servidores públicos de su competencia.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+9. Proponer al Consejo y en su caso designar a las servidoras o servidores públicos de su competencia.
 
 10. Vigilar el funcionamiento de los órganos internos del Consejo.
 
-11. Recibir las quejas administrativas que por escrito formulen los servidores públicos del Poder Judicial y darle el trámite correspondiente, así como las que presenten los litigantes por demora o faltas cometidas en la administración de justicia.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-12. En casos urgentes nombrar de manera provisional a los servidores públicos, debiendo someter dicho nombramiento a la ratificación del Consejo.
+11. Recibir las quejas administrativas que por escrito formulen el personal al servicio público del Poder Judicial y darle el trámite correspondiente, así como las que presenten los litigantes por demora o faltas cometidas en la administración de justicia.
 
-13. Hacer del conocimiento del Consejo las faltas absolutas de los jueces y demás servidores públicos del Poder Judicial con excepción de los magistrados de las cuales deberá informar al titular del Poder Ejecutivo para los efectos conducentes.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-14. Vigilar que los jueces rindan oportunamente el informe de actividades.
+12. En casos urgentes nombrar de manera provisional a las servidoras o servidores públicos, debiendo someter dicho nombramiento a la ratificación del Consejo.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+13. Hacer del conocimiento del Consejo las faltas absolutas de las juezas o jueces y demás personal al servicio público del Poder Judicial con excepción de las magistradas y magistrados de las cuales deberá informar al titular del Poder Ejecutivo para los efectos conducentes.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+14. Vigilar que las juezas y jueces rindan oportunamente el informe de actividades.
 
 15. Programar reuniones trimestrales de seguimiento y evaluación de los planes y programas de desarrollo del Poder Judicial.
 
@@ -1235,11 +1617,17 @@ g. De transparencia y acceso a la información.
 
 5. El reglamento de la presente ley establecerá los supuestos en que serán definitivas las determinaciones de las comisiones ordinarias.
 
-6. Las comisiones se integrarán con al menos tres consejeros.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-7. Con excepción del magistrado presidente cada miembro del Consejo podrá formar parte de hasta tres comisiones ordinarias.
+6. Las comisiones se integrarán con al menos tres integrantes del Consejo.
 
-Cada Comisión contará con un secretario ejecutivo, pudiendo ser el titular del órgano interno que corresponda a su competencia.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+7. Con excepción de la persona titular de la presidencia cada miembro del Consejo podrá formar parte de hasta tres comisiones ordinarias.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+Cada Comisión contará con una secretaría ejecutiva, pudiendo ser el titular del órgano interno que corresponda a su competencia.
 
 Artículo 90
 
@@ -1255,7 +1643,9 @@ Artículo 92
 
 Son órganos internos del Consejo de la Judicatura, los siguientes:
 
-1. Secretaría de Acuerdos.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Secretaría Ejecutiva.
 
 2. Secretaría de Administración.
 
@@ -1271,9 +1661,13 @@ Artículo 93
 
 1. Para desempeñar la titularidad de los órganos internos del Consejo se deberán cumplir con los siguientes requisitos:
 
-a. Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-b. Tener título de Licenciado en Derecho o Abogado.
+a. Tener ciudadanía mexicana, en ejercicio de sus derechos civiles y políticos.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+b. Tener título en licenciatura en Derecho o Abogado.
 
 c. Gozar de buena reputación.
 
@@ -1281,11 +1675,15 @@ d. No haber sido condenado por delito intencional, con sanción privativa de lib
 
 e. En su caso contar con experiencia profesional mínima de dos años, preferentemente en el Poder Judicial.
 
-2. El Secretario de Administración y el de la Contraloría Interna, quedan exceptuados de cubrir el requisito del inciso b del párrafo anterior, pero deberán tener título profesional en alguna carrera relacionada con las ciencias sociales y administrativas.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+2. La persona titular de la Secretaría de Administración y el de la Contraloría Interna, quedan exceptuados de cubrir el requisito del inciso b del párrafo anterior, pero deberán tener título profesional en alguna carrera relacionada con las ciencias sociales y administrativas.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 94
 
-Los titulares de los órganos internos del Consejo de la Judicatura, serán designados y removidos por el presidente con la ratificación del Consejo.
+Los titulares de los órganos internos del Consejo de la Judicatura, serán designados y removidos por la persona titular de la presidencia con la ratificación del Consejo.
 
 Artículo 95
 
@@ -1297,17 +1695,25 @@ Para su funcionamiento los órganos internos del Consejo de la Judicatura, se au
 
 Artículo 97
 
-Son atribuciones del Secretario de Acuerdos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
+
+Son atribuciones de la Secretaría Ejecutiva:
 
 1. Asistir a las sesiones del Consejo con voz informativa.
 
 2. Levantar acta de las sesiones del Consejo.
 
-3. Cumplir y hacer cumplir los acuerdos e instrucciones que reciba del Presidente del Consejo.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-4. Dar cuenta al presidente de los asuntos que deban turnarse a los órganos internos.
+3. Cumplir y hacer cumplir los acuerdos e instrucciones que reciba de la persona titular de la presidencia del Consejo.
 
-5. Recabar el informe de los órganos internos del Consejo, para integrar el informe anual del Presidente del Tribunal.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+4. Dar cuenta a la persona titular de la presidencia de los asuntos que deban turnarse a los órganos internos.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+5. Recabar el informe de los órganos internos del Consejo, para integrar el informe anual de la persona titular de la presidencia del Tribunal.
 
 6. Autorizar los actos del Consejo.
 
@@ -1315,9 +1721,13 @@ Son atribuciones del Secretario de Acuerdos:
 
 8. Coordinar el funcionamiento del Archivo General del Poder Judicial.
 
-9. Preparar las sesiones del Consejo y acordar con el presidente la propuesta de orden del día.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-10. Las demás que le asigne esta ley, su reglamento y el Presidente del Consejo.
+9. Preparar las sesiones del Consejo y acordar con la persona titular de la presidencia la propuesta de orden del día.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+10. Las demás que le asigne esta ley, su reglamento y la persona titular de la presidencia del Consejo.
 
 Artículo 98
 
@@ -1327,23 +1737,31 @@ Son atribuciones de la Secretaría de Administración:
 
 1. Controlar los recursos presupuestales asignados, mismos que serán administrados con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE ENERO DE 2021)</small>
 
-2. Elaborar anualmente el anteproyecto de presupuesto de egresos del Poder Judicial, remitiéndolo al Presidente del Consejo de la Judicatura, conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el plan estatal de desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit.
+2. Elaborar anualmente el anteproyecto de presupuesto de egresos del Poder Judicial, remitiéndolo la persona titular de la presidencia del Consejo de la Judicatura, conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con la planeación del Estado y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit.
 
 El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
 
 3. Administrar e informar al Consejo, de manera trimestral y por escrito, sobre el estado patrimonial y financiero que guarde el Fondo del Poder Judicial.
 
-4. Organizar y controlar los expedientes administrativos de cada uno de los servidores públicos del Poder Judicial.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-5. Tramitar las incidencias de carácter laboral de los servidores judiciales.
+4. Organizar y controlar los expedientes administrativos de cada una de las personas al servicio público del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+5. Tramitar las incidencias de carácter laboral de las servidoras o servidores judiciales.
 
 6. Control de asistencia del personal administrativo del Poder Judicial y proponer al Consejo estímulos y reconocimientos.
 
-7. Ejecutar las medidas disciplinarias dictadas por el Consejo de la Judicatura respecto de los servidores del Poder Judicial.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-8. Organizar y controlar el inventario de bienes muebles e inmuebles patrimonio del Poder Judicial, informando periódicamente al Presidente del Consejo sobre el estado que guardan dichos bienes.
+7. Ejecutar las medidas disciplinarias dictadas por el Consejo de la Judicatura respecto de las servidoras y servidores del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+8. Organizar y controlar el inventario de bienes muebles e inmuebles patrimonio del Poder Judicial, informando periódicamente a la persona titular de la presidencia del Consejo sobre el estado que guardan dichos bienes.
 
 9. Dotar a las diversas dependencias del Poder Judicial de los recursos que requieran para el desempeño de sus funciones dentro de las posibilidades presupuestarias.
 
@@ -1353,11 +1771,17 @@ El anteproyecto propuesto deberá de contribuir a un balance presupuestario sost
 
 12. Las demás que le asigne esta ley o su reglamento.
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2021)</small>
+
+La Secretaría de Administración contará con una Dirección General de Recursos Humanos y Nómina y un Departamento de Planeación Institucional y demás órganos necesarios, en términos del artículo 96 de esta Ley.
+
 Artículo 99
 
 Son atribuciones de la Secretaría de la Carrera Judicial:
 
-1. Establecer los programas, perfiles y condiciones profesionales de admisión, promoción y permanencia de los servidores públicos del Poder Judicial.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Establecer los programas, perfiles y condiciones profesionales de admisión, promoción y permanencia de las personas con carácter de servidor público judicial del Poder Judicial.
 
 2. Coordinar los procesos de capacitación y actualización en materia judicial, así como los de selección de personal para el servicio judicial, conforme a las necesidades de la administración de justicia.
 
@@ -1367,11 +1791,15 @@ Son atribuciones de la Secretaría de la Carrera Judicial:
 
 5. Proponer en términos de su reglamento medidas que garanticen la eficiencia y eficacia de la carrera judicial.
 
-6. Proponer al Consejo un sistema de estímulos, recompensas y reconocimientos a los servidores públicos judiciales que se hayan destacado en el desempeño de sus cargos.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+6. Proponer al Consejo un sistema de estímulos, recompensas y reconocimiento a las personas con carácter de servidor público judicial que se hayan destacado en el desempeño de sus cargos.
 
 7. Coordinar y vigilar el funcionamiento de las bibliotecas del Poder Judicial.
 
-8. Las demás que le asigne esta ley, su reglamento y el Presidente del Consejo.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+8. Las demás que le asigne esta ley, su reglamento y la persona titular de la presidencia del Consejo.
 
 Artículo 100
 
@@ -1393,7 +1821,9 @@ Son atribuciones de la Secretaría de Vinculación y Control Jurisdiccional:
 
 8. Proveer de información al Consejo que coadyuve a optimizar los procesos de la función judicial.
 
-9. Las demás que le asigne esta ley, su reglamento y el Presidente del Consejo.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+9. Las demás que le asigne esta ley, su reglamento y la persona titular de la presidencia del Consejo.
 
 Artículo 101
 
@@ -1423,7 +1853,9 @@ Son atribuciones de la Contraloría Interna:
 
 12. Elaborar el instructivo para la creación y manejo de fondos revolventes.
 
-13. Llevar el registro y seguimiento de la situación patrimonial de los servidores públicos del Poder Judicial en los términos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+13. Llevar el registro y seguimiento de la situación patrimonial de las servidoras y los servidores públicos del Poder Judicial en los términos previstos por la Ley General de Responsabilidades Administrativas.
 
 14. Autorizar las bajas del inventario de los bienes muebles patrimonio del Poder Judicial.
 
@@ -1431,51 +1863,77 @@ Son atribuciones de la Contraloría Interna:
 
 ### CAPÍTULO VI. DEL CONSEJO CONSULTIVO
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 102
 
-1. El Consejo Consultivo se integrará con cinco abogados de reconocido prestigio en el Estado, designados por el Pleno del Tribunal Superior de Justicia, los cuales durarán en su encargo tres años y podrán ser ratificados por un periodo más.
+1. El Consejo Consultivo se integrará con cinco abogadas o abogados de reconocido prestigio en el Estado, designados por el Pleno del Tribunal Superior de Justicia, los cuales durarán en su encargo tres años y no podrán ser ratificados.
 
-2. Para tales efectos las agrupaciones de abogados presentarán las propuestas de candidatos a consejeros que reúnan el perfil previsto en el artículo 85 de la Constitución política del Estado.
+2. Para tales efectos, el Pleno del Tribunal Superior de Justicia, emitirá la convocatoria correspondiente en la cual se establecerán las reglas aplicables a la designación y requisitos que deben reunir los integrantes del consejo consultivo, así como los impedimentos y conflictos de intereses que se opongan al perfil previsto en el artículo 85 de la Constitución Política del Estado.
 
-3. De entre las candidaturas propuestas, el Pleno del Tribunal Superior de Justicia, designará a los integrantes del Consejo Consultivo quienes tendrán carácter honorifico.
+3. De entre las y los abogados a considerar, el Pleno del Tribunal Superior de Justicia, con el voto afirmativo de las dos terceras partes de las magistradas y magistrados designará a los integrantes del Consejo Consultivo, quienes tendrán carácter honorífico.
 
 Artículo 103
 
 1. El Consejo Consultivo, funciona como foro de opinión y consulta; coadyuvante en el mejoramiento de la función judicial conforme lo señala esta ley.
 
-2. Sesionará cuando menos trimestralmente a convocatoria del Presidente del Tribunal con la presencia de éste o del magistrado que al efecto designe.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-3. El Consejo Consultivo aprobará su programa anual de trabajo y las reglas para su funcionamiento interno. Ambos documentos deberán publicarse en el Boletín Judicial.
+2. Sesionará cuando menos trimestralmente a convocatoria de la persona titular de la Presidencia de este o de la magistrada o magistrado que al efecto designe.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+3. El Consejo Consultivo aprobará su programa anual de trabajo y el Pleno del Tribunal Superior de Justicia emitirá las reglas para su funcionamiento interno. Ambos documentos deberán publicarse en el Boletín Judicial Electrónico.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 104
 
-Los miembros del Consejo Consultivo podrán asistir a las sesiones del Pleno del Tribunal o del Consejo de la Judicatura cuando medie convocatoria del Presidente de dichos órganos.
+Los miembros del Consejo Consultivo podrán asistir a las sesiones del Pleno del Tribunal o del Consejo de la Judicatura cuando medie convocatoria de la persona titular de la presidencia de dichos órganos.
 
 ## TÍTULO SÉPTIMO. DE LA EVALUACIÓN Y CARRERA JUDICIAL
 
-### CAPÍTULO I. DE LA OPINIÓN DEL CONSEJO PARA LA RATIFICACIÓN DE MAGISTRADOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
+
+### CAPÍTULO I. DE LA OPINIÓN DEL CONSEJO PARA LA RATIFICACIÓN DE MAGISTRADAS O MAGISTRADOS
 
 Artículo 105
 
-Para emitir opinión al Congreso del Estado, respecto a la ratificación de magistrados, el Consejo de la Judicatura dispondrá lo necesario para proporcionar la información que requiera el (sic) aquél y observará, cuando menos, el siguiente procedimiento:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
 
-1. Cuatro meses antes de que concluya el encargo del magistrado de que se trate, el Presidente del Consejo de la Judicatura dictará un acuerdo con el que iniciará el procedimiento.
+Para emitir opinión al Congreso del Estado, respecto a la ratificación de magistradas o magistrados, el Consejo de la Judicatura dispondrá lo necesario para proporcionar la información que le requiera y observará, cuando menos, el siguiente procedimiento:
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Cuatro meses antes de que concluya el encargo de la magistrada o magistrado de que se trate, la persona titular de la presidencia del Consejo de la Judicatura dictará un acuerdo con el que iniciará el procedimiento.
 
 2. La Comisión competente del Consejo de la Judicatura, al efecto deberá:
 
-a. Notificar personalmente al magistrado del inicio del procedimiento, a efecto de que manifieste en su caso, el interés de ser ratificado.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-b. Ordenará la publicación del acuerdo en el Periódico Oficial del Estado y los instrumentos de difusión con que cuente el Poder Judicial, a efecto de hacer saber al público en general, el nombre del servidor público sujeto a opinión.
+a. Notificar personalmente a la magistrada o magistrado del inicio del procedimiento, a efecto de que manifieste en su caso, el interés de ser ratificado.
 
-c. Dentro del improrrogable plazo de cinco días hábiles, contados a partir del siguiente de la publicación en el Periódico Oficial del Estado, cualquier interesado podrá formular por escrito, de manera respetuosa, las observaciones en relación a dicho funcionario.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+b. Ordenará la publicación del acuerdo en el Periódico Oficial del Estado y los instrumentos de difusión con que cuente el Poder Judicial, a efecto de hacer saber al público en general, el nombre de la servidora o servidor público sujeto a opinión.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+c. Dentro del improrrogable plazo de cinco días hábiles, contados a partir del día siguiente de la publicación en el Periódico Oficial del Estado, cualquier interesado podrá formular por escrito, de manera respetuosa, las observaciones en relación a dicha funcionaria o funcionario.
 
 d. Dispondrá que se forme y registre el expediente bajo el número que le corresponda.
 
-e. Requerirá al magistrado para que en su caso, ofrezca copia certificada de las constancias relativas a los cursos de posgrado concluidos y demás datos que estime pertinentes que acrediten su actualización profesional o académica.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-f. Solicitará al Contralor del Poder Judicial del Estado informe si los hubiere, de los procedimientos administrativos formados en contra del servidor público, así como un informe de la evolución de su situación patrimonial.
+e. Requerirá a la magistrada o magistrado para que, en su caso, ofrezca copia certificada de las constancias relativas a los cursos de posgrado concluidos y demás datos que estime pertinentes que acrediten su actualización profesional o académica.
 
-g. Ordenará recabar la información estadística sobre la actividad del funcionario sujeto a evaluación.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+f. Solicitará a la persona titular de la Contraloría del Poder Judicial del Estado informe si los hubiere, de los procedimientos administrativos formados en contra de la servidora o del servidor público, así como un informe de la evolución de su situación patrimonial.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+g. Ordenará recabar la información estadística sobre la actividad de la funcionaria o funcionario sujeto a evaluación.
 
 h. Integrará los resultados de las visitas de inspección ordenadas por el Pleno, de los informes circunstanciados y en su caso, de los procedimientos administrativos disciplinarios formulados en contra del evaluado.
 
@@ -1483,17 +1941,29 @@ i. Establecerá el día y la hora en que tendrá verificativo la audiencia en la
 
 3. El expediente a que se refiere el presente artículo deberá contener, cuando menos:
 
-a. Fecha y materia de los asuntos turnados y resueltos en la Sala a la que pertenece el magistrado.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-b. Fecha y materia de los asuntos turnados y proyectados por el magistrado, tanto en la Sala de su adscripción, como en el Pleno.
+a. Fecha y materia de los asuntos turnados y resueltos en la Sala a la que pertenece la magistrada o magistrado.
 
-c. Número de juicios de amparo promovidos en contra de resoluciones dictadas por la Sala, particularmente los que se hayan proyectado por el magistrado, detallando los que se hayan concedido, negado o sobreseído.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-d. En su caso, las quejas presentadas en contra del magistrado y el sentido de su resolución.
+b. Fecha y materia de los asuntos turnados y proyectados por la magistrada o magistrado, tanto en la Sala de su adscripción, como en el Pleno.
 
-e. Una muestra aleatoria de cuando menos cinco expedientes integrados por año, de los asuntos cuya resolución haya sido proyectada por el magistrado de que se trate.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-f. Las actividades realizadas por el magistrado en caso de que hubiese ocupado la Presidencia del Tribunal Superior de Justicia, o cualquier otra comisión que le hubiese sido encomendada.
+c. Número de juicios de amparo promovidos en contra de resoluciones dictadas por la Sala, particularmente los que se hayan proyectado por la magistrada o magistrado, detallando los que se hayan concedido, negado o sobreseído.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+d. En su caso, las quejas presentadas en contra de la magistrada o magistrado y el sentido de su resolución.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+e. Una muestra aleatoria de cuando menos cinco expedientes integrados por año, de los asuntos cuya resolución haya sido proyectada por la magistrada o magistrado de que se trate.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+f. Las actividades realizadas por la magistrada o magistrado en caso de que hubiese ocupado la presidencia del Tribunal Superior de Justicia, o cualquier otra comisión que le hubiese sido encomendada.
 
 4. La Comisión competente una vez integrado y analizado el expediente someterá al Pleno el proyecto de opinión respectivo a efecto de que éste, mediante el voto de la mayoría de los asistentes a la sesión resuelva en definitiva.
 
@@ -1503,29 +1973,47 @@ Artículo 106
 
 La opinión que se envíe al Congreso, así como los datos e información que la sustentan, no condicionan la atribución constitucional conferida a las autoridades que intervienen en su nombramiento.
 
-### CAPÍTULO II. DEL PROCEDIMIENTO PARA LA EVALUACIÓN DE JUECES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
+
+### CAPÍTULO II. DEL PROCEDIMIENTO PARA LA EVALUACIÓN DE JUEZAS Y JUECES
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 107
 
-La evaluación de jueces tendrá como objetivo verificar el cumplimiento que éstos hubiesen tenido a los principios que rigen la función judicial.
+La evaluación de juezas o jueces tendrá como objetivo verificar el cumplimiento que éstos hubiesen tenido a los principios que rigen la función judicial en su desempeño en el área jurisdiccional, o en su caso, en las comisiones de naturaleza administrativa.
 
 Artículo 108
 
-En la evaluación de jueces se observará el procedimiento siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2021)</small>
 
-1. Dentro de los noventa días anteriores a la conclusión del periodo del juez de que se trate, el Presidente del Consejo emitirá acuerdo en donde se decrete el inicio del proceso de evaluación, mismo que se notificará personalmente al servidor público respectivo y a las comisiones competentes para los efectos correspondientes.
+En la evaluación de juezas o jueces se observará el procedimiento siguiente:
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Dentro de los noventa días anteriores a la conclusión del periodo de la persona titular del juzgado de que se trate, la persona titular de la presidencia del Consejo emitirá acuerdo en donde se decrete el inicio del proceso de evaluación, mismo que se notificará personalmente a la servidora o al servidor público respectivo y a las comisiones competentes para los efectos correspondientes.
 
 2. Recibida la notificación, la Comisión que se cita dispondrá la integración del expediente respectivo observando el siguiente mecanismo:
 
-a. Ordenará se publique el inicio del procedimiento en el Boletín Judicial, así como en los estrados, su sitio oficial de la red informática y lugares más visibles del órgano jurisdiccional de su adscripción, a efecto de hacer saber al público en general, el nombre del servidor público sujeto a evaluación.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-b. Dentro del improrrogable plazo de cinco días hábiles, contados a partir del siguiente de la publicación en el Boletín Judicial, cualquier interesado podrá formular por escrito, de manera respetuosa, las observaciones en relación a dicho funcionario.
+a. Ordenará se publique el inicio del procedimiento en el Boletín Judicial Electrónico, así como en los estrados, su sitio oficial de la red informática y lugares más visibles del órgano jurisdiccional de su adscripción, a efecto de hacer saber al público en general, el nombre del servidor público sujeto a evaluación.
 
-c. El juez sujeto a evaluación podrá ofrecer copia certificada de las constancias documentales que acrediten su actualización profesional o académica.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-d. Requerirá al Contralor del Poder Judicial del Estado para que informe si las hubiere, de los procedimientos administrativos formados en contra del servidor público, así como un informe de la evolución de su situación patrimonial.
+b. Dentro del improrrogable plazo de cinco días hábiles, contados a partir del día siguiente de su publicación en el Boletín Judicial Electrónico, cualquier interesado podrá formular por escrito, de manera respetuosa, las observaciones en relación a dicho funcionario.
 
-e. Ordenará recabar la información estadística sobre la actividad del funcionario sujeto a evaluación.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+c. La jueza o juez sujeto a evaluación podrá ofrecer copia certificada de las constancias documentales que acrediten su actualización profesional o académica.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+d. Requerirá a la persona titular de la Contraloría del Poder Judicial del Estado para que informe si las hubiere, de los procedimientos administrativos formados en contra de la servidora o servidor público, así como un informe de la evolución de su situación patrimonial.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+e. Ordenará recabar la información estadística sobre la actividad de la funcionaria o funcionario sujeto a evaluación.
 
 f. Integrará los resultados de las visitas de inspección, informes circunstanciados y en su caso, de los procedimientos administrativos disciplinarios a los que hubiese estado sujeto.
 
@@ -1533,105 +2021,157 @@ g. Establecerá día y hora en que tendrá verificativo la audiencia en la que s
 
 3. El expediente a que se refiere el párrafo anterior deberá contener, cuando menos:
 
-a. Fecha y materia de los asuntos turnados y resueltos por el juez.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+a. Fecha y materia de los asuntos turnados y resueltos por la jueza o juez.
 
 b. Número de resoluciones confirmadas, modificadas o revocadas por la Sala correspondiente del Tribunal Superior de Justicia.
 
 c. En su caso, las quejas presentadas en contra del juzgador y el sentido de su resolución.
 
-4. Cuando menos un mes antes de que concluya el período del juez de que se trate, la Comisión de evaluación deberá presentar el dictamen correspondiente al Pleno del Consejo de la Judicatura para que éste resuelva lo conducente.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+4. Cuando menos un mes antes de que concluya el periodo de la jueza o juez de que se trate, la Comisión de evaluación deberá presentar el dictamen correspondiente al Pleno del Consejo de la Judicatura para que este resuelva lo conducente.
 
 5. Los demás que estime pertinentes, siempre que consten en acuerdos publicados con seis meses de anticipación a la fecha de la ratificación.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 109
 
-Para ratificar a un juez de primera instancia se requerirá el voto afirmativo de las dos terceras partes del total de los integrantes del Consejo de la Judicatura.
+Para ratificar a una jueza o juez de primera instancia se requerirá el voto afirmativo de cuando menos tres consejeros integrantes del Consejo de la Judicatura.
 
 ### CAPÍTULO III. DE LA CARRERA JUDICIAL
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 110
 
-El ingreso y promoción de los servidores públicos de carácter jurisdiccional del Poder Judicial del Estado se hará mediante el sistema de carrera judicial a que se refiere el presente Título, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+El ingreso y promoción del personal de carácter jurisdiccional del Poder Judicial del Estado se hará mediante el sistema de carrera judicial a que se refiere el presente Título, la cual se regirá por los principios de excelencia, objetividad imparcialidad, profesionalismo, independencia y paridad de género.
 
 Artículo 111
 
 Para obtener un ascenso, se dará preferencia a quienes además de reunir los requisitos legales para ocuparlo, demuestren tener méritos para ello en los cargos siguientes:
 
-1. Actuario o notificador de juzgado.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ENERO DE 2021)</small>
 
-2. Actuario o notificador del Tribunal Superior de Justicia.
+1. Auxiliar de sala de juzgado.
 
-3. Secretario de juzgado.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ENERO DE 2021)</small>
 
-4. Secretario de estudio y cuenta del Tribunal Superior de Justicia.
+2. Oficial Judicial del Tribunal Superior de Justicia.
 
-5. Secretario de acuerdos de las salas del Tribunal Superior de Justicia.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ENERO DE 2021)</small>
 
-6. Secretario General de Acuerdos del Tribunal Superior de Justicia.
+3. Especialista Público del Centro Estatal de Justicia Alternativa.
 
-7. Juez.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+4. Actuaria o Actuario o notificadora o notificador de juzgado.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+5. Actuaria o Actuario o notificadora o notificador del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+6. Secretaria o secretario de juzgado.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+7. Secretaria o secretario de estudio y cuenta del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE ENERO DE 2021)</small>
+
+8. Secretaria o secretario de acuerdos de las salas del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE ENERO DE 2021)</small>
+
+9. Secretaria o Secretario General de Acuerdos del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE ENERO DE 2021)</small>
+
+10. Jueza o Juez.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 112
 
-El ingreso y promoción para la categoría de juez, se realizará a través de concurso interno de oposición y oposición libre, según lo determine el Consejo de la Judicatura. Para acceder a las categorías de los párrafos 1 al 6 del artículo anterior se requerirá el acreditar un examen de aptitud.
+El ingreso y promoción para la categoría de jueza o juez, se realizará a través de concurso interno de oposición y oposición libre, según lo determine el Consejo de la Judicatura. Para acceder a las categorías de los párrafos 1 al 6 del artículo anterior se requerirá el acreditar un examen de aptitud.
 
 ### CAPÍTULO IV. DE LA EVALUACIÓN DEL DESEMPEÑO
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 113
 
-El Consejo de la Judicatura realizará la evaluación objetiva y sistemática del desempeño cualitativo y cuantitativo de los servidores judiciales, observando al efecto que éste se haya realizado conforme a los principios constitucionales de eficiencia, eficacia, economía, transparencia y honradez.
+El Consejo de la Judicatura realizará la evaluación objetiva y sistemática del desempeño cualitativo y cuantitativo de las personas con carácter de servidor público judicial, observando al efecto que este se haya realizado conforme a los principios constitucionales de eficiencia, eficacia, economía, transparencia y honradez.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 114
 
-El Consejo de la Judicatura mediante acuerdos establecerá los procedimientos, mecanismos e instrumentos de evaluación para los sistemas de promoción vertical y horizontal de los servidores judiciales con apego a los principios previstos en el artículo anterior.
+El Consejo de la Judicatura mediante acuerdos establecerá los procedimientos, mecanismos e instrumentos de evaluación para los sistemas de promoción vertical y horizontal de las servidoras y servidores judiciales con apego a los principios previstos en el artículo anterior.
 
-### CAPÍTULO V. DE LOS SISTEMAS DE PROMOCIÓN DE LOS SERVIDORES DE CARRERA JUDICIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
+
+### CAPÍTULO V. DE LOS SISTEMAS DE PROMOCIÓN DEL PERSONAL DE CARRERA JUDICIAL
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 115
 
-Los servidores de carrera judicial podrán participar en la promoción horizontal o vertical en función de su desempeño jurisdiccional y profesional.
+El personal de carrera judicial podrá participar en la promoción horizontal o vertical en función de su desempeño jurisdiccional y profesional.
 
 Artículo 116
 
 El sistema de promoción horizontal estará sustentado en un conjunto de estímulos y recompensas que determine el reglamento respectivo; evaluará los factores de calidad en el desempeño jurisdiccional, preparación académica, antigüedad, puntualidad y asistencia, además de los conocimientos teóricos y prácticos. El reglamento establecerá los aspectos de cada factor de evaluación.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 117
 
-El sistema de promoción vertical consiste en el ascenso de los servidores públicos judiciales establecidos para la carrera judicial; se otorgará con base en los factores señalados en el artículo anterior, lo establecido en esta ley y su reglamento.
+El sistema de promoción vertical consiste en el ascenso de las servidoras o servidores públicos judiciales establecidos para la carrera judicial; se otorgará con base en los factores señalados en el artículo anterior, lo establecido en esta ley y su reglamento.
 
-## TÍTULO OCTAVO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL PODER
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
 
-JUDICIAL
+## TÍTULO OCTAVO. DE LA RESPONSABILIDAD DE LAS SERVIDORAS Y SERVIDORES PÚBLICOS DEL PODER JUDICIAL
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 118
 
-Para los efectos de las responsabilidades a que alude este título, se reputará como servidores públicos del Poder Judicial del Estado a los Magistrados, Jueces y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza dentro del Poder Judicial del Estado.
+Para los efectos de las responsabilidades a que alude este título, se reputará como servidores públicos del Poder Judicial del Estado a las Magistradas o Magistrados, Juezas o Jueces y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza dentro del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 119
 
-La responsabilidad de los magistrados del Tribunal Superior de Justicia por delitos, faltas u omisiones graves, en que incurran durante el ejercicio de sus funciones, se sustanciará en los términos del Título Octavo de la Constitución Política del Estado.
+La responsabilidad de las magistradas o magistrados del Tribunal Superior de Justicia por delitos, faltas u omisiones graves, en que incurran durante el ejercicio de sus funciones, se sustanciará en los términos del Título Octavo de la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 120
 
-Los magistrados del Tribunal Superior de Justicia, jueces y servidores del Poder Judicial, serán responsables administrativamente de las faltas que cometan en el ejercicio de sus cargos y quedarán sujetos al procedimiento y sanciones que determina la presente ley o las aplicables.
+Las magistradas o magistrados del Tribunal Superior de Justicia, juezas o jueces y servidoras o servidores del Poder Judicial, serán responsables administrativamente de las faltas que cometan en el ejercicio de sus cargos y quedarán sujetos al procedimiento y sanciones que determina la presente ley o las aplicables.
 
 Artículo 121
 
 La acción disciplinaria y la sanción que corresponda, procede aún en los casos de renuncia o abandono del cargo.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 122
 
-La Comisión de Disciplina será competente para conocer de las responsabilidades de los servidores públicos del Poder Judicial, así como para aplicar las sanciones a que se refiere esta ley y las demás normas y reglamentos aplicables. Sus decisiones son definitivas e inatacables, salvo los supuestos de procedencia del recurso de revisión administrativa.
+La Comisión de Disciplina será competente para conocer de las responsabilidades de las servidoras y servidores públicos del Poder Judicial, así como para aplicar las sanciones a que se refiere esta ley y las demás normas y reglamentos aplicables. Sus decisiones son definitivas e inatacables, salvo los supuestos de procedencia del recurso de revisión administrativa.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 123
 
-La acción disciplinaria y los antecedentes de sanción prescriben en tres años si se tratare de faltas graves y en un año en los demás casos. En ambos supuestos se computará desde el día siguiente a aquél en que se hubiere cometido la falta, a partir del momento en que hubiese cesado, si fuere de carácter continuo o en su caso a partir del momento en que se impuso la sanción. La iniciación del procedimiento interrumpe la prescripción.
+La acción disciplinaria y los antecedentes de sanción prescriben en siete años si se tratare de faltas graves y en tres en los demás casos. En ambos supuestos se computará desde el día siguiente a aquel en que se hubiere cometido la falta, a partir del momento en que hubiese cesado, si fuere de carácter continuo o en su caso a partir del momento en que se impuso la sanción. La iniciación del procedimiento interrumpe la prescripción.
 
 ### CAPÍTULO II. DE LA RESPONSABILIDAD Y FALTAS ADMINISTRATIVAS
 
@@ -1661,7 +2201,9 @@ Serán causas de responsabilidad administrativa que atentan contra la función j
 
 9. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento.
 
-10. Incumplir las obligaciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+10. Incumplir las obligaciones previstas en la Ley General de Responsabilidades Administrativas, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional.
 
 11. Incumplir las obligaciones inherentes al cargo que las leyes les impongan.
 
@@ -1691,9 +2233,9 @@ Las sanciones aplicables a las faltas administrativas consistirán en:
 
 2. Amonestación privada o pública.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-3. Multa será el equivalente al valor de la Unidad de Medida y Actualización en los términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+3. Sanción económica.
 
 4. Suspensión del empleo, cargo o comisión por un periodo no menor de tres días ni mayor a un año.
 
@@ -1701,29 +2243,31 @@ Las sanciones aplicables a las faltas administrativas consistirán en:
 
 6. Inhabilitación temporal para desempeñar empleo, cargo o comisión en el servicio público.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-Se podrá suspender provisionalmente a un servidor público para el desahogo de la investigación o de la naturaleza propia de la infracción que haya motivado la iniciación del procedimiento disciplinario, sin que esta medida implique una sanción.
+Se podrá suspender provisionalmente a una servidora o servidor público para el desahogo de la investigación o de la naturaleza propia de la infracción que haya motivado la iniciación del procedimiento disciplinario, sin que esta medida implique una sanción.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-La multa procederá cuando la conducta implique la obtención de un beneficio o daño cuantificable económicamente y este sea ocasionado al justiciable o al Poder Judicial del Estado de Nayarit.
+La sanción económica procederá cuando la conducta implique la obtención de un beneficio o daño cuantificable económicamente y este sea ocasionado al justiciable o al Poder Judicial del Estado de Nayarit.
 
 ###### Artículo 126.
 
 (DEROGADO, P.O. 28 DE MAYO DE 2014)
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 127
 
-1. Para la imposición de las sanciones a que se refiere este apartado, se tomarán en cuenta los criterios previstos en la Ley de Responsabilidades Administrativas vigente en el Estado.
+1. Para la imposición de las sanciones a que se refiere este apartado, se tomarán en cuenta los criterios previstos en la Ley General de Responsabilidades Administrativas.
 
-2. Se considerarán como faltas graves las previstas en los párrafos 1 al 6 y 13 al 16 del artículo 124 de esta ley; así como las previstas en la Ley de Responsabilidades Administrativas vigente en el Estado.
+2. Se considerarán como faltas graves las previstas en los párrafos 1 al 6 y 13 al 16 del artículo 124 de esta ley; así como las previstas en la Ley General de Responsabilidades Administrativas.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 128
 
-Las sanciones impuestas se anotarán en la hoja de servicios del servidor público a cuyo efecto deberá enviarse copia autorizada de la resolución al Consejo de la Judicatura del Estado.
+Las sanciones impuestas se anotarán en la hoja de servicios de la servidora o servidor público a cuyo efecto deberá enviarse copia autorizada de la resolución al Consejo de la Judicatura del Estado.
 
 ### CAPÍTULO IV. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
 
@@ -1731,19 +2275,27 @@ Las sanciones impuestas se anotarán en la hoja de servicios del servidor públi
 
 Artículo 129
 
-1. El procedimiento para determinar las responsabilidades de los servidores públicos del Poder Judicial del Estado de Nayarit se sujetará a lo que enuncia esta ley. En aquellos supuestos no previstos específicamente se aplicará de manera supletoria el Código de Procedimientos Civiles de la entidad.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-2. Su inicio será de oficio, por queja presentada por cualquier persona o por denuncia presentada por el servidor público que tenga conocimiento de los hechos o el ministerio público, en la que se narrarán de manera clara los hechos que la motivaron.
+1. El procedimiento para determinar las responsabilidades de las servidoras y servidores públicos del Poder Judicial del Estado de Nayarit se sujetará a lo que enuncia esta ley. En aquellos supuestos no previstos específicamente se aplicará de manera supletoria el Código de Procedimientos Civiles de la entidad.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+2. Su inicio será de oficio, por queja presentada por cualquier persona o por denuncia presentada por la servidora o servidor público que tenga conocimiento de los hechos o el ministerio público, en la que se narrarán de manera clara los hechos que la motivaron.
 
 3. Las denuncias anónimas sólo serán tramitadas cuando estén acompañadas de pruebas documentales fehacientes.
 
-4. Las denuncias o quejas que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado, además de guardar debida relación con los hechos denunciados. En caso de no satisfacerse este requisito se desechará de plano.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+4. Las denuncias o quejas que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad de la servidora o servidor público denunciado, además de guardar debida relación con los hechos denunciados. En caso de no satisfacerse este requisito se desechará de plano.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 130
 
-1. Todos los servidores públicos tienen la obligación de respetar y hacer respetar el derecho a la formulación de quejas, y de evitar que, con motivo de éstas, se originen molestias indebidas al quejoso.
+1. Todas las servidoras y servidores públicos tienen la obligación de respetar y hacer respetar el derecho a la formulación de quejas, y de evitar que, con motivo de estas, se originen molestias indebidas al quejoso.
 
-2. Incurre en responsabilidad el servidor público que por sí, o por interpósita persona, empleando cualquier medio, impida la presentación de alguna queja, o que con motivo de ésta, realice cualquier acto u omisión que lesione injustamente los intereses de quien la formule.
+2. Incurre en responsabilidad la servidora o servidor público que, por sí, o por interpósita persona, empleando cualquier medio, impida la presentación de alguna queja, o que, con motivo de esta, realice cualquier acto u omisión que lesione injustamente los intereses de quien la formule.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
@@ -1751,7 +2303,9 @@ Artículo 131
 
 Una vez recibida una queja o denuncia, se turnará a uno de los integrantes de la Comisión de Disciplina a fin de que en ejercicio de sus facultades siga el siguiente procedimiento:
 
-I. Se enviará una copia del escrito de denuncia y sus anexos al servidor público para que, en un término de cinco días hábiles, formule un informe sobre los hechos y rinda las pruebas correspondientes.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE ENERO DE 2021)</small>
+
+I. Se enviará una copia del escrito de denuncia y sus anexos a la servidora o servidor público para que, en un término de cinco días hábiles, formule un informe sobre los hechos y rinda las pruebas correspondientes.
 
 El informe deberá referirse a todos y cada uno de los hechos comprendidos en el escrito de denuncia. Se presumirán confesados los hechos de la denuncia sobre los cuales el denunciado no suscitare explícitamente controversia, sin admitirse prueba en contrario. La confesión de los hechos no entraña la aceptación del derecho del denunciante.
 
@@ -1763,7 +2317,9 @@ IV. La Comisión de Disciplina resolverá de manera definitiva e inatacable, sal
 
 Artículo 132
 
-1. Para los efectos del procedimiento de responsabilidad administrativa, únicamente se admitirán las pruebas documentales, testimoniales y de inspección ocular que ofrezcan las partes.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+1. Para los efectos del procedimiento de responsabilidad administrativa, se admitirán toda clase de pruebas, excepto la confesional por posiciones, las que deberán ser idóneas y atinentes para acreditar la imputación o la defensa.
 
 2. Tratándose de documentales que la parte interesada manifieste la imposibilidad para obtenerlas o no las tuviere a su disposición, señalará el archivo o lugar en que se encuentren los originales, salvo que se trate de aquellas que existan en un archivo público del que puedan pedir y obtener copias autorizadas de ellos.
 
@@ -1803,7 +2359,9 @@ Artículo 135 Bis
 
 2. El recurso de revisión administrativa se deberá interponer dentro de los cinco días hábiles siguientes a la fecha en que se le notifique la resolución.
 
-3. El escrito deberá presentarse ante el Presidente del Consejo de la Judicatura y deberá contener por lo menos los siguientes requisitos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE ENERO DE 2021)</small>
+
+3. El escrito deberá presentarse ante la persona titular de la presidencia del Consejo de la Judicatura y deberá contener por lo menos los siguientes requisitos:
 
 a) Nombre del Recurrente;
 
@@ -1813,13 +2371,17 @@ c) Expresar los agravios que le causa la resolución, y
 
 d) Hacer constar su firma autógrafa.
 
-4. Una vez que el Presidente del Consejo de la Judicatura reciba el escrito por el que se interpone el recurso de revisión administrativa, verificará si reúne los requisitos formales y de procedencia. En caso de no satisfacer los requisitos desechará de plano.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+4. Una vez que la persona titular de la presidencia del Consejo de la Judicatura reciba el escrito por el que se interpone el recurso de revisión administrativa, verificará si reúne los requisitos formales y de procedencia. En caso de no satisfacer los requisitos desechará de plano.
 
 5. Si el escrito cumple con los requisitos se turnará de inmediato a un integrante del Consejo de la Judicatura distinto a los que conforman la Comisión de Disciplina, el cual en un término legal de diez días hábiles presentará al Consejo de la Judicatura un proyecto de resolución confirmando o revocando la determinación objeto del recurso.
 
 6. El proyecto se votará por mayoría entre los integrantes del Consejo de la Judicatura, con excepción de los miembros de la Comisión de Disciplina, quienes no tendrán derecho a votar. Si el proyecto se aprueba en sus términos, se elevará al grado de sentencia y se notificará al interesado.
 
-7. En caso de no aprobarse, de entre los Consejeros disidentes se designará uno, quien dentro de los diez días hábiles siguientes se encargará de elaborar una sentencia con el carácter de definitiva que se notificará al interesado.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+7. En caso de no aprobarse, de entre las personas integrantes del Consejo disidentes se designará uno, quien dentro de los diez días hábiles siguientes se encargará de elaborar una sentencia con el carácter de definitiva que se notificará al interesado.
 
 ## TÍTULO NOVENO. DE LA JURISPRUDENCIA
 
@@ -1835,15 +2397,17 @@ Artículo 137
 
 2. Igualmente habrá jurisprudencia del Tribunal, cuando tratándose de asuntos de la competencia del Pleno, se sustente en cinco sentencias consecutivas, ininterrumpidas en un mismo sentido y se decrete su aplicación normativa por el Pleno en los términos del párrafo anterior.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 138
 
-El Pleno del Tribunal Superior de Justicia, por unanimidad o mayoría de los magistrados, hará declaratoria de que existe jurisprudencia y ordenará su publicación en el boletín judicial para que surta efectos.
+El Pleno del Tribunal Superior de Justicia, por unanimidad o mayoría de las magistradas y magistrados, hará declaratoria de que existe jurisprudencia y ordenará su publicación en el Boletín Judicial Electrónico para que surta efectos.
 
 Artículo 139
 
-1. La jurisprudencia del Tribunal, en los asuntos de la competencia del Pleno se interrumpirá y dejará de ser obligatoria, siempre que se pronuncie ejecutoria en contrario acordada por unanimidad o mayoría de los magistrados.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
-En los asuntos de la competencia de las salas, se interrumpirá y dejará de ser obligatoria al dictarse por unanimidad dos sentencias en contrario
+1. La jurisprudencia del Tribunal, en los asuntos de la competencia del Pleno se interrumpirá y dejará de ser obligatoria, siempre que se pronuncie ejecutoria en contrario acordada por unanimidad o mayoría de las magistradas y magistrados. En los asuntos de la competencia de las salas, se interrumpirá y dejará de ser obligatoria al dictarse por unanimidad dos sentencias en contrario.
 
 2. En todo caso en la ejecutoria respectiva, deberán expresarse las razones en que se apoye la interpretación, haciendo referencia a las que se tuvieron en consideración para establecer la jurisprudencia del Tribunal que se interrumpe.
 
@@ -1855,15 +2419,19 @@ Artículo 140
 
 Las tesis y criterios que al efecto fije la Sala Constitucional, se regirán por las leyes aplicables.
 
-## TÍTULO DECIMO. DEL ARCHIVO, BOLETIN JUDICIAL, BIBLIOTECAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
+
+## TÍTULO DÉCIMO. DEL ARCHIVO, BOLETÍN JUDICIAL ELECTRÓNICO, BIBLIOTECAS
 
 ### CAPÍTULO I. DEL ARCHIVO
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 141
 
-1. El Consejo de la Judicatura a través de su secretario de acuerdos tendrá bajo su dependencia el archivo judicial y tomará las medidas que estime convenientes para el desempeño eficiente de su servicio.
+1. El Consejo de la Judicatura a través de la persona titular de la Secretaría Ejecutiva tendrá bajo su dependencia el archivo judicial y tomará las medidas que estime convenientes para el desempeño eficiente de su servicio.
 
-2. La oficina estará a cargo de un jefe, quien deberá tener conocimientos en archivonomía y será auxiliado por el personal necesario a juicio del Consejo de la Judicatura.
+2. La oficina estará a cargo de una jefa o jefe, quien deberá tener conocimientos en archivonomía y será auxiliado por el personal necesario a juicio del Consejo de la Judicatura.
 
 Artículo 142
 
@@ -1875,19 +2443,25 @@ Se depositarán en el archivo judicial:
 
 3. Los demás documentos que las leyes determinen.
 
-### CAPÍTULO II. DEL BOLETÍN JUDICIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2021)</small>
+
+### CAPÍTULO II. DEL BOLETÍN JUDICIAL ELECTRÓNICO
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
 
 Artículo 143
 
-1. El boletín judicial es el órgano oficial de publicación de las listas de los acuerdos, resoluciones de las salas y de los juzgados; la jurisprudencia del Tribunal y demás disposiciones de interés general.
+1. El Boletín Judicial Electrónico es el órgano oficial de publicación de las listas de los acuerdos, resoluciones de las salas y de los juzgados; la jurisprudencia del Tribunal y demás disposiciones de interés general.
 
-2. El coordinador del boletín judicial será el responsable de su edición, publicación y distribución oportuna; para tal efecto, contará con el personal que disponga el presupuesto y dependerá de la Secretaría General de Acuerdos del Tribunal Superior de Justicia.
+2. La coordinadora o coordinador del Boletín Judicial Electrónico será el responsable de su edición, publicación en la página oficial del Poder Judicial del Estado; para tal efecto, contará con el personal que disponga el presupuesto y dependerá de la Secretaría General de Acuerdos del Tribunal Superior de Justicia.
 
 ### CAPÍTULO III. DE LAS BIBLIOTECAS
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 144
 
-Las bibliotecas del Poder Judicial dependerán del Secretario de la Carrera Judicial del Consejo de la Judicatura.
+Las bibliotecas del Poder Judicial dependerán de la persona titular de la Secretaría de la Carrera Judicial del Consejo de la Judicatura.
 
 Artículo 145
 
@@ -1915,7 +2489,9 @@ a. Los ingresos provenientes de la enajenación de bienes propiedad del Poder Ju
 
 b. Las donaciones o aportaciones hechas a su favor por terceros.
 
-c. Las demás que por disposición legal puedan corresponderle.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+c. Las demás que por disposición legal, su reglamento o acuerdo general le corresponde.
 
 2. Fondo ajeno, constituido por depósitos en efectivo o en valores que por cualquier causa se realicen ante los órganos del poder judicial.
 
@@ -1931,11 +2507,15 @@ Artículo 151
 
 El Consejo de la Judicatura tendrá la administración y manejo del fondo, conforme a las siguientes atribuciones:
 
-1. Recibir mensualmente del secretario de administración, la información financiera sobre:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE ENERO DE 2021)</small>
+
+1. Recibir mensualmente de la persona titular de la secretaría de administración, la información financiera sobre:
 
 a. La integración individual del fondo propio y del fondo ajeno.
 
-b. La identificación de los movimientos contables correspondientes, apoyados con la documentación que los justifique para el informe anual que deba rendir el Presidente del Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+b. La identificación de los movimientos contables correspondientes, apoyados con la documentación que los justifique para el informe anual que deba rendir la persona titular de la presidencia del Tribunal Superior de Justicia.
 
 2. Celebrar los fideicomisos que sean convenientes con las instituciones de crédito autorizadas para garantizar la conservación e incremento de los fondos propio y ajeno.
 
@@ -1945,9 +2525,11 @@ b. La identificación de los movimientos contables correspondientes, apoyados co
 
 5. Solicitar la práctica de auditorías tanto del registro original como de los movimientos trimestrales de los dos fondos; ordenar la apertura de la contabilidad correspondiente y el nombramiento y registro profesional de los responsables, independiente de la contabilidad y de los ingresos percibidos de acuerdo con el presupuesto de egresos.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 152
 
-El Presidente del Consejo de la Judicatura firmará las operaciones activas y pasivas para el registro y vigencia del fondo. El presidente del Tribunal Superior de Justicia en su informe anual dará a conocer el resultado del rendimiento de los fondos propio y ajeno, así como de las erogaciones efectuadas, validadas por el Consejo de la Judicatura.
+La persona titular de la presidencia del Consejo de la Judicatura firmará las operaciones activas y pasivas para el registro y vigencia del fondo. La persona titular de la presidencia del Tribunal Superior de Justicia en su informe anual dará a conocer el resultado del rendimiento de los fondos propio y ajeno, así como de las erogaciones efectuadas, validadas por el Consejo de la Judicatura.
 
 ### CAPÍTULO II. DE LAS BASES PARA LA APLICACION DEL FONDO DEL PODER JUDICIAL
 
@@ -1957,7 +2539,9 @@ El Consejo de la Judicatura a través de la Secretaría de Administración tendr
 
 1. Podrá invertir las cantidades que integran el fondo en la adquisición de títulos de renta fija o a plazo fijo, en representación del Poder Judicial, quién será el titular de los certificados y documentos que expidan las instituciones de crédito con motivo de las inversiones, constituyendo con las instituciones fiduciarias, los fideicomisos de administración de estos recursos.
 
-2. En el informe anual que rendirá el Presidente del Tribunal Superior de Justicia, comunicará el resultado de los ingresos y rendimientos de las inversiones, así como de las erogaciones efectuadas.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+2. En el informe anual que rendirá la persona titular de la presidencia del Tribunal Superior de Justicia, comunicará el resultado de los ingresos y rendimientos de las inversiones, así como de las erogaciones efectuadas.
 
 3. El Consejo de la Judicatura ordenará la práctica de las auditorías internas o externas que considere necesarias para verificar que el manejo del fondo se haga en forma conveniente, honesta y transparente.
 
@@ -1975,15 +2559,47 @@ Los productos y rendimientos del fondo, se aplicarán a los siguientes conceptos
 
 5. Pago de sueldos y gasto corriente de salas, juzgados y oficinas no contemplados en el presupuesto de egresos, así como para el otorgamiento de estímulos y recompensas económicas a los servidores del Poder Judicial autorizados por el Consejo de la Judicatura.
 
-6. Viáticos para los magistrados y jueces que participen en congresos, cursos, conferencias y demás actividades propias de su encargo.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
+6. Viáticos para las magistradas y magistrados y juezas y jueces que participen en congresos, cursos, conferencias y demás actividades propias de su encargo.
 
 7. Contratación transitoria y temporal de personal cuando a criterio del pleno del Consejo de la Judicatura se requiera por necesidades del servicio judicial.
 
 8. Los demás que a juicio del Consejo de la Judicatura se requieran para la mejor administración de justicia.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2021)</small>
+
 Artículo 155
 
-El Presidente del Consejo de la Judicatura en cualquier tiempo podrá ordenar auditorías especiales respecto del manejo de valores y depósitos.
+La persona titular de la presidencia del Consejo de la Judicatura en cualquier tiempo podrá ordenar auditorias especiales respecto del manejo de valores y depósitos.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2021)</small>
+
+## TÍTULO DÉCIMO SEGUNDO. DE LA COMISIÓN DE ÉTICA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2021)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2021)</small>
+
+Artículo 156
+
+La Comisión de Ética será la instancia de interpretación y aplicación del Código de Ética y demás normativa en la materia, y se integrará de la forma siguiente:
+
+I. Una Magistrada o Magistrado nombrado por el pleno del Tribunal Superior de Justicia, quien deberá ser diverso del Consejo de la Judicatura y durará en el cargo tres años.
+
+II. Las Consejeras o Consejeros designados por los Poderes Legislativo y Ejecutivo, quienes durarán en su encargo el tiempo que se encuentre en funciones la Legislatura y el Poder Ejecutivo que los designó.
+
+III. Una persona del servicio público de carrera judicial electo por el pleno del Consejo de la Judicatura para un periodo de cuatro años.
+
+IV. Una persona con Licenciatura en Derecho que destaque por su honorabilidad, quien será nombrado por el Consejo para un periodo de tres años, de entre las propuestas que presenten las instituciones de Educación Superior del Estado y los Colegios de Abogados, de conformidad con la convocatoria que para tal efecto se emita.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2021)</small>
+
+Artículo 157
+
+El funcionamiento colegiado de la Comisión de Ética se regirá conforme al reglamento que expida el Consejo de la Judicatura y tendrá la atribución de emitir recomendaciones acerca de los problemas éticos entorno a la impartición de justicia, donde se vean involucrados tanto personal adscrito al servicio público judicial, así como los usuarios que acuden.
 
 ## TRANSITORIOS
 
@@ -2148,3 +2764,17 @@ P.O. 29 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- En un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, los plenos del Tribunal Superior de Justicia y del Consejo de la judicatura, deberán hacer las adecuaciones necesarias a los reglamentos y acuerdos, con la finalidad de armonizar la observancia del principio de paridad de género en los términos constitucionales, al interior del Poder Judicial.
+
+TERCERO.- Para los efectos del artículo sexto transitorio del Decreto de reforma constitucional publicado el 28 de julio de 2020, la convocatoria que emita el Consejo de la Judicatura para integrar y proponer al Congreso la terna para designar a quien deba cubrir la siguiente vacante, será dirigida exclusivamente a las juezas del Poder Judicial que cumplan con los requisitos. En dicha convocatoria se explicitará el procedimiento correspondiente del concurso de oposición.
+
+CUARTO.- El Consejo de la Judicatura contará con un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para expedir el reglamento de la Comisión de Ética del Poder Judicial.
+
+QUINTO.- En un plazo no mayor de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán expedir los reglamentos de la oficina de la presidencia del Tribunal, así como realizar las adecuaciones normativas correspondientes en los reglamentos y acuerdos internos, en tanto se dictan los reglamentos, la persona titular de la presidencia dictará las medidas administrativas que legalmente sean necesarias.
