@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2020-10-24"
+last_updated: "2021-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -101,9 +101,13 @@ VII. Encierro: Al lugar autorizado, propiedad del Gobierno del Estado o de un pa
 
 VIII. Grúa: Al servicio motorizado para el traslado de vehículos;
 
-IX. Ley: A la Ley de Tránsito, Movilidad y Vialidad del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
 
-X. Licencia: Al Documento expedido por la autoridad competente, que autoriza a personas a conducir un vehículo;
+IX. Ley: A la Ley de Tránsito y Vialidad del Estado de Oaxaca;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
+
+X. Licencia: Al Documento expedido por la Secretaria de Movilidad, que autoriza a personas a conducir un vehículo;
 
 XI. Pasajero: A la persona distinta al conductor que viaja a bordo de un vehículo;
 
@@ -163,13 +167,17 @@ VII (SIC). Los Policías Viales Estatales, y
 
 VIII. Los (sic) demás que con ese carácter determinen otras disposiciones normativas aplicables.
 
-Son autoridades municipales en materia de tránsito:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ENERO DE 2021)</small>
+
+Son autoridades municipales para los efectos de esta Ley:
 
 I. Los Ayuntamientos;
 
 II. Los Presidentes Municipales;
 
-III. Titulares de Seguridad Pública y Tránsito Municipal, y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
+
+III. Titulares de Seguridad Pública y Vialidad Municipal, y
 
 IV. Policías Viales Municipales.
 
@@ -241,11 +249,15 @@ XI. Coordinar sus acciones con autoridades Federales, Estatales y Municipales, c
 
 XII. Establecer las normas y lineamientos de organización y funcionamiento de los servicios de tránsito y vialidad en el Estado;
 
-XIII. Desarrollar y organizar la capacitación, educación, investigación y desarrollo tecnológico en materia de tránsito y vialidad en la entidad;
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2021)</small>
 
-XIV. Vigilar el cumplimiento de esta Ley, su Reglamento y demás disposiciones aplicables, y
+XIII. Establecer las normas y lineamientos respecto a la colocación, forma y dimensiones de los reductores de velocidad, debiendo observar la Norma Oficial Mexicana NOM-034-SCT2-2011, Señalamiento horizontal y vertical de carreteras y vialidades urbanas.
 
-XV. Las que le confiera el Titular del Poder Ejecutivo, y le señalen esta Ley, el Reglamento y demás disposiciones normativas aplicables.
+XIV. Desarrollar y organizar la capacitación, educación, investigación y desarrollo tecnológico en materia de tránsito y vialidad en la entidad;
+
+XV. Vigilar el cumplimiento de esta Ley, su Reglamento y demás disposiciones aplicables, y
+
+XVI. Las que le confiera el Titular del Poder Ejecutivo, y le señalen esta Ley, el Reglamento y demás disposiciones normativas aplicables.
 
 ###### Artículo 15.
 
@@ -297,13 +309,17 @@ El Director General de la Policía Vial Estatal, para el mejor despacho de las a
 
 Los Delegados Regionales tendrán las siguientes atribuciones:
 
-I. Cumplir y hacer cumplir las disposiciones de esta Ley y su Reglamento, así como, las que en materia de tránsito, movilidad y vialidad emanen del Titular del Poder Ejecutivo, del Secretario y del Director;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
 
-II. Revisar y dar el visto bueno a los proyectos de planificación del tránsito, movilidad y vialidad en sus jurisdicciones, dando cuenta de ellos al Director para su propuesta al Secretario;
+I. Cumplir y hacer cumplir las disposiciones de esta Ley y su Reglamento, así como, las que en materia de tránsito y vialidad emanen del Titular del Poder Ejecutivo, del Secretario y del Director;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
+
+II. Revisar y dar el visto bueno a los proyectos de planificación del tránsito y vialidad en sus jurisdicciones, dando cuenta de ellos al Director para su propuesta al Secretario;
 
 III. Cumplir las comisiones que le encomiende el Gobernador del Estado, el Secretario y el Director, en el desempeño de su cargo;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+(REPUBLICADA, P.O. 16 DE ENERO DE 2021)
 
 IV. Dar cuenta al Director, proporcionándole los elementos de prueba que hubiere obtenido, de los casos que ameriten sanción para la prestación del servicio público de transporte de pasajeros o de carga, para los efectos que en el ámbito de su competencia determine la Secretaría de Movilidad, de acuerdo a la normatividad aplicable a la materia;
 
@@ -319,9 +335,13 @@ Los Delegados tendrán las siguientes atribuciones:
 
 I. Cumplir y hacer cumplir las disposiciones de esta Ley y su Reglamento, así como, las que en materia de tránsito, seguridad y vialidad emanen del Titular del Poder Ejecutivo, del Secretario, del Director y de los Delegados Regionales;
 
-II. Ejercer en sus jurisdicciones, el mando, control y vigilancia inmediatos de los Policías Viales Estatales y demás personal adscrito a su jurisdicción en materia de seguridad pública, tránsito, movilidad y vialidad, para ajustar su conducta a los mandatos de esta Ley y su Reglamento, dando cuenta a sus superiores jerárquicos;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
 
-III. Formular proyectos de planificación del tránsito, movilidad y vialidad en sus jurisdicciones, dando cuenta de ellos a los Delegados Regionales para su propuesta al Director;
+II. Ejercer en sus jurisdicciones, el mando, control y vigilancia inmediatos de los Policías Viales Estatales y demás personal adscrito a su jurisdicción en materia de seguridad pública, tránsito y vialidad, para ajustar su conducta a los mandatos de esta Ley y su Reglamento, dando cuenta a sus superiores jerárquicos;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
+
+III. Formular proyectos de planificación del tránsito y vialidad en sus jurisdicciones, dando cuenta de ellos a los Delegados Regionales para su propuesta al Director;
 
 IV. Realizar infracciones a que se refiere esta Ley y su Reglamento, e imponer la sanción correspondiente, de conformidad con la normatividad aplicable;
 
@@ -337,9 +357,13 @@ VII. Las que les confieran el Director y los Delegados Regionales, y le señalen
 
 Son atribuciones y obligaciones de los elementos de la Policía Vial Estatal:
 
-I. Cumplir y hacer cumplir las disposiciones de esta Ley, su Reglamento y demás disposiciones aplicables, así como, las que dicte en materia de seguridad pública, tránsito, movilidad y vialidad, el Titular del Poder Ejecutivo, el Secretario y el Director;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
 
-II. Vigilar la seguridad pública, el tránsito, movilidad y vialidad, así como, el respeto al peatón en la Vía Pública, dando siempre preferencia a éste sobre los vehículos;
+I. Cumplir y hacer cumplir las disposiciones de esta Ley, su Reglamento y demás disposiciones aplicables, así como, las que dicte en materia de seguridad pública, tránsito y vialidad, el Titular del Poder Ejecutivo, el Secretario y el Director;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
+
+II. Vigilar la seguridad pública, el tránsito y vialidad, así como, el respeto al peatón en la Vía Pública, dando siempre preferencia a este sobre los vehículos;
 
 III. Orientar, participar y colaborar con la población en general, a la prevención de delitos y accidentes e infracciones a las normas de tránsito y vialidad;
 
@@ -369,21 +393,27 @@ I. Celebrar convenios conforme lo dispuesto en la presente Ley;
 
 II. Disponer lo necesario para la debida observancia y aplicación de la presente Ley;
 
-III. Establecer mecanismos y acciones que involucren a los particulares en la creación de una cultura que facilite a las personas con discapacidad el acceso a todo tipo de negocios comerciales, y transporte y zonas peatonales, evitando los obstáculos y todo tipo de barreras arquitectónicas de conformidad a la Norma Oficial Mexicana respectiva.
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2021)</small>
+
+III. Aprobar y expedir sus reglamentos municipales de tránsito y vialidad, sin contravenir lo que dispone la presente Ley y su Reglamento, y aplicar supletoriamente la Ley y su Reglamento, de no existir disposiciones municipales vigentes;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
+
+IV. Establecer mecanismos y acciones que involucren a los particulares en la creación de una cultura que facilite a las personas con discapacidad el acceso a todo tipo de negocios comerciales, y transporte y zonas peatonales, evitando los obstáculos y todo tipo de barreras arquitectónicas de conformidad a la Norma Oficial Mexicana respectiva;
 
 > <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
 
-IV. Mantener la vialidad libre de obstáculos u objetos que impidan, dificulten u obstaculicen el tránsito vehicular y peatonal, excepto en aquellos casos debidamente autorizados;
+V. Mantener la vialidad libre de obstáculos u objetos que impidan, dificulten u obstaculicen el tránsito vehicular y peatonal, excepto en aquellos casos debidamente autorizados;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
 
-V. Colocar, mantener y preservar en estado óptimo de utilización, la nomenclatura de la vialidad de sus demarcaciones territoriales;
+VI. Colocar, mantener y preservar en estado óptimo de utilización, la nomenclatura de la vialidad, de sus demarcaciones territoriales;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
 
-VI. Instrumentar los programas y acciones necesarias con especial referencia a la población infantil escolar, personas con discapacidad, de la tercera edad, y mujeres en periodo de gestación, que les faciliten el transporte y libre desplazamiento en las vialidades, coordinando la instalación de la infraestructura y señalamientos que se requieran para cumplir con dicho fin; y
+VII. Instrumentar los programas y acciones necesarias con especial referencia a la población infantil escolar, personas con discapacidad, de la tercera edad, y mujeres en período de gestación, que les faciliten el transporte y libre desplazamiento en las vialidades coordinando la instalación de la infraestructura y señalamientos que se requieran para cumplir con dicho fin; y
 
-VII. Las demás que le otorguen la presente Ley y el Reglamento respectivo que al efecto expida.
+VIII. Las demás que le otorguen la presente Ley y el Reglamento respectivo que al efecto expida.
 
 ###### Artículo 20.
 
@@ -405,47 +435,57 @@ VII. Promover la realización de estudios técnicos requeridos para satisfacer l
 
 VIII. Las demás que le otorguen las disposiciones jurídicas y administrativas aplicables, la presente Ley y el Reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2021)</small>
+
 ###### Artículo 21.
 
-Le (sic) corresponde, dentro de su jurisdicción territorial, a los titulares de Seguridad Pública y Tránsito Municipal:
+Le (sic) corresponde, dentro de su jurisdicción territorial, a los titulares de Seguridad Pública y Vialidad Municipal:
 
-I. Establecer las medidas tendientes a evitar infracciones y accidentes de tránsito en las vías públicas;
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2021)</small>
 
-II. Auxiliar cuando así lo soliciten las autoridades competentes, en la prevención de la comisión de delitos;
+I. Hacer que se cumplan y observen las disposiciones legales relativas al tránsito y vialidad;
 
-III. Auxiliar al Ministerio Público y a las autoridades judiciales y administrativas cuando sea requerido para ello;
+II. Establecer las medidas tendientes a evitar infracciones y accidentes de tránsito en las vías públicas;
 
-IV. Elaborar y mantener permanentemente actualizadas las estadísticas para la eficaz prestación del servicio público de tránsito;
+III. Auxiliar cuando así lo soliciten las autoridades competentes, en la prevención de la comisión de delitos;
 
-V. Ejercer el mando directo de la policía vial, coordinando sus actuaciones de manera que desarrolle sus funciones bajo los principios de legalidad, eficiencia, profesionalismo y honradez;
+VI. Auxiliar al Ministerio Público y a las autoridades judiciales y administrativas cuando sea requerido para ello;
 
-VI. Imponer correcciones disciplinarias a los elementos que integren la policía vial a su cargo;
+V. Elaborar y mantener permanentemente actualizadas las estadísticas para la eficaz prestación del servicio público de tránsito;
 
-VII. Impartir los cursos de educación vial y aplicar los exámenes correspondientes;
+VI. Ejercer el mando directo de la policía vial, coordinando sus actuaciones de manera que desarrolle sus funciones bajo los principios de legalidad, eficiencia, profesionalismo y honradez;
 
-VIII. Observar que se realicen verificaciones periódicas, de las condiciones físicas y electromecánica de los vehículos;
+VII. Imponer correcciones disciplinarias a los elementos que integren la policía vial a su cargo;
 
-IX. Ordenar y regular el tránsito de vehículos y peatones, dictando las providencias necesarias para hacer fluida, ordenada y segura la circulación, y
+VIII. Impartir los cursos de educación vial y aplicar los exámenes correspondientes;
 
-X. Las que esta Ley y las demás disposiciones legales le señalen.
+IX. Observar que se realicen verificaciones periódicas, de las condiciones físicas y electromecánica de los vehículos;
+
+X. Ordenar y regular el tránsito de vehículos y peatones, dictando las providencias necesarias para hacer fluida, ordenada y segura la circulación, y
+
+XI. Las que esta Ley y las demás disposiciones legales le señalen.
 
 ###### Artículo 22.
 
 A los Policías Viales Municipal (sic) les corresponde:
 
-I. Vigilar el cumplimiento de la presente Ley y sus reglamentos, interviniendo en la prevención y conocimiento de las infracciones a los mismos;
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2021)</small>
 
-II. Hacer constar las infracciones a la presente Ley y sus reglamentos, levantando las boletas correspondientes;
+I. Cumplir y hacer cumplir las disposiciones legales relativas al tránsito y vialidad;
 
-III. Dirigir el tránsito en las vías públicas;
+II. Vigilar el cumplimiento de la presente Ley y sus reglamentos, interviniendo en la prevención y conocimiento de las infracciones a los mismos;
 
-IV. Dar oportuna asistencia a las personas que resulten lesionadas en accidentes de tránsito;
+III. Hacer constar las infracciones a la presente Ley y sus reglamentos, levantando las boletas correspondientes;
 
-V. Proporcionar a las personas que lo soliciten toda clase de facilidades e informes inherentes al tránsito en las vías públicas;
+IV. Dirigir el tránsito en las vías públicas;
 
-VI. Observar estricta disciplina y buen trato en el desempeño de sus funciones, y
+V. Dar oportuna asistencia a las personas que resulten lesionadas en accidentes de tránsito;
 
-VII. Las demás que le otorguen las autoridades estatales y municipales en el cumplimiento de las disposiciones jurídicas y administrativas aplicables.
+VI. Proporcionar a las personas que lo soliciten toda clase de facilidades e informes inherentes al tránsito en las vías públicas;
+
+VII. Observar estricta disciplina y buen trato en el desempeño de sus funciones, y
+
+VIII. Las demás que le otorguen las autoridades estatales y municipales en el cumplimiento de las disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 23.
 
@@ -1095,21 +1135,29 @@ Las violaciones a las disposiciones de esta Ley y su Reglamento, se sancionarán
 
 I. Amonestación;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
 
-II. Multa de 3 a 150 UMA (sic).
+II. Actividades de apoyo a la comunidad;
 
-III. Suspensión temporal de la licencia de manejo;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
 
-IV. Cancelación de la licencia de manejo;
+III. Multa de 3 a 150 UMA.;
 
-V. Retención del vehículo, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE ENERO DE 2021)</small>
 
-VI. Arresto.
+IV. Suspensión temporal de la licencia de manejo;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE ENERO DE 2021)</small>
 
-VII. Actividades de apoyo a la comunidad.
+V. Cancelación de la licencia de manejo;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
+
+VI. Retención del vehículo, y;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE ENERO DE 2021)</small>
+
+VII. Arresto.
 
 El Reglamento establecerá los supuestos para la imposición de las sanciones establecidas en la presente Ley.
 
@@ -1326,3 +1374,23 @@ P.O. 24 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1676.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 32; Y SE ADICIONAN EL ARTÍCULO 31 BIS Y LAS FRACCIONES VIII, IX, X, XI, XII Y XIII, RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 32 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
 
 PRIMERO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1780.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IX Y X DEL ARTÍCULO 3, LA FRACCIÓN III DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 6, LAS FRACCIONES I, II Y IV DEL ARTÍCULO 16, LAS FRACCIONES II Y III DEL ARTÍCULO 17, LAS FRACCIONES I Y II DEL ARTÍCULO 18, EL PRIMER PÁRRAFO DEL ARTÍCULO 21 Y LAS FRACCIONES II, III, IV V, VI Y VII DEL ARTÍCULO 93, TODOS DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1781.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XIII, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, AL ARTÍCULO 14 A LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. La Secretaría de Seguridad Pública del Gobierno del Estado de Oaxaca, en el término de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, emitirá las normas y lineamientos respecto a la colocación, forma y dimensiones de los reductores de velocidad.
+
+P.O. 16 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1782.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 6; Y SE ADICIONAN, LA FRACCIÓN III AL ARTÍCULO 19, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, LA FRACCIÓN I AL ARTÍCULO 21, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, Y LA FRACCIÓN I AL ARTÍCULO 22, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
