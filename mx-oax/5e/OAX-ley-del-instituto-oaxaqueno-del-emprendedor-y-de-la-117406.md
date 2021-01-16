@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-instituto-oaxaqueno-del-emprendedor-y-de-la-117406"
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-15"
-last_updated: "2016-10-15"
+last_updated: "2021-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL INSTITUTO OAXAQUEÑO DEL EMPRENDEDOR Y DE LA COMPETITIVIDAD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de octubre de 2016.
 
@@ -79,7 +79,13 @@ V. EMPRENDEDORES: Las mujeres y los hombres con inquietudes empresariales, en pr
 
 VI. MIPYMES: Las micro, pequeñas y medianas empresas legalmente constituidas, con base en la estratificación establecida en la fracción III del artículo 3 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa y en el Acuerdo por el que se establece la estratificación de las micro, pequeñas y medianas empresas, publicado en el Diario Oficial de la Federación el 30 de junio de 2009.
 
-VII. MIPYMES SINIESTRADAS: Las micro, pequeñas y medianas empresas legalmente constituidas, afectadas en sus instalaciones, maquinaria, equipo o arreos de trabajo o sus insumos, a consecuencia de un fenómeno natural, una emergencia, o a consecuencia de manifestaciones sociales ocurrido en las zonas geográficas con declaratoria de emergencia y/o declaratoria de desastre natural emitida por la Secretaría de Gobernación y publicada en el Diario Oficial de la Federación.
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2021)</small>
+
+Se incluye el sector de la economía social referido por el párrafo octavo del artículo 20 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
+
+VII. MIPYMES SINIESTRADAS: Las micro, pequeñas y medianas empresas legalmente constituidas, afectadas en sus instalaciones, maquinaria, equipo o arreos de trabajo o sus insumos, a consecuencia de un fenómeno natural, una emergencia, o a consecuencia de manifestaciones sociales ocurrido (sic) en las zonas geográficas con declaratoria de emergencia y/o declaratoria de desastre natural emitida por la autoridad federal competente y publicada en el Diario Oficial de la Federación.
 
 VIII. CLUSTER ECONÓMICO: Concentración de empresas e instituciones que se agrupan alrededor de una actividad común y en una determinada localidad geográfica para alcanzar un alto índice de beneficio y eficiencia
 
@@ -448,3 +454,13 @@ Tlalixtac de Cabrera, Centro Oaxaca., 06 de octubre de 2016.
 SECRETARIO GENERAL DE GOBIERNO.
 
 ING. CARLOS SANTIAGO CARRASCO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 1785.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII Y SE ADICIONA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN VI DEL ARTÍCULO 3°, DE LA LEY DEL INSTITUTO OAXAQUEÑO DEL EMPRENDEDOR Y DE LA COMPETITIVIDAD”.]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca. Publíquese en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango, que se contrapongan al presente Decreto.
