@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2020-10-28"
+last_updated: "2021-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2021.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -13305,6 +13305,10 @@ El presente Decreto entrará en vigor al día siguiente a su publicación en el 
 
 Para los efectos del presente Decreto, la autoridad judicial que conozca aquellos asuntos en que se pretenda la desocupación de inmuebles por falta de pago de rentas de dos o más mensualidades en los términos de las disposiciones aplicables, se considerará previamente, la equidad y buena fe en beneficio de las partes involucradas, según los principios derivados del mismo.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2021)</small>
+
+El presente Decreto, se entenderá aplicable a relaciones contractuales en tratándose de pequeñas y medianas empresas, negocios o micro establecimientos, dedicados en todo caso a la prestación de bienes y servicios, conforme a la definición que de dichos conceptos se deriven de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, y demás disposiciones que resulten aplicables.
+
 ###### ARTÍCULO TERCERO.
 
 Las personas físicas y/o morales que cuenten con instrumentos contractuales de arrendamiento vigentes durante el presente año 2020, deberán acordar las modificaciones de las formas y modalidades de la ejecución de los mismos, con efectos retroactivos a partir del día 23 de marzo del mismo año, para con ello restablecer las condiciones de equidad bajo las condiciones socioeconómicas actuales, mientras y hasta en tanto no se restablezca la normalidad o se decrete por las vías legalmente competentes, el fin de la emergencia señalada en el Acuerdo publicado ese mismo día en el Diario Oficial de la Federación, mediante el cual se reconoce la epidemia de enfermedad por el virus SARS-CoV2 (COVID-19) en México, como una enfermedad grave de atención prioritaria, así como se establecen las actividades de preparación y respuesta ante dicha epidemia. El reconocimiento de restablecimiento a la referida normalidad, será válido igualmente si lo emite la autoridad estatal competente.
@@ -13316,3 +13320,11 @@ Para lo previsto en el artículo que antecede, en todo momento, los sujetos obli
 ###### ARTÍCULO QUINTO.
 
 Además de la publicación prevista en el Artículo Primero Transitorio del presente Decreto, se dará la difusión adicional debida al contenido y efectos derivados del presente Decreto, por los medios de comunicación tanto públicos como privados disponibles, vías informáticas, plataformas digitales y demás posibles, en particular a la industria restaurantera, micro y pequeña empresa, y de servicios en general, para los efectos de su mejor incidencia y así contribuir a la recuperación económica de la Entidad.
+
+P.O. 16 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFDEC/0938/2020 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO LXVI/RFCOD/0780/2020 I P.O., UN SEGUNDO PÁRRAFO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor con efectos retroactivos el día veintinueve de octubre del año dos mil veinte, independientemente de su fecha de publicación en el Periódico Oficial del Estado.
