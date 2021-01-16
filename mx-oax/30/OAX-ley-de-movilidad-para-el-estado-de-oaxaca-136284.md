@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2020-12-19"
+last_updated: "2021-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2021.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -713,19 +713,29 @@ XXXVIII. Calificar las infracciones e imponer las sanciones a los infractores de
 
 XXXIX. Implementar avances tecnológicos y soluciones informáticas, para mejorar el servicio público de transporte en todas sus modalidades, el cobro de tarifas, la contratación y pago del servicio a través de aplicaciones móviles, los trámites ante la Secretaría y el Registro Estatal de Transporte de Oaxaca; así como el control vehicular mediante dispositivos; por si o a través de terceros, previo procedimiento de contratación conforme a la normatividad vigente, y
 
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2021)</small>
+
+XL. Constituir el Comité Operativo de Evaluación, Seguimiento y Validación de la Secretaría, que será el encargado de revisar, analizar y emitir el acta sobre la factibilidad de las solicitudes de otorgamiento de concesión o de los permisos del servicio especial de transporte.
+
+Emitir las actas sobre la viabilidad de los programas de actualización y revisión de concesiones que se le propongan, en caso de aprobarse, serán publicados en el Periódico Oficial del Gobierno del Estado.
+
+El Comité Operativo de Evaluación, Seguimiento y Validación de la Secretaría, se integrará por el Titular de la Secretaría quien lo presidirá, y por los titulares de las Sub Secretarías de Planeación y Normatividad, y de Regulación y Control del Transportes (sic), y de las Direcciones Jurídicas y de Concesiones.
+
+El Reglamento de la Ley, regulará la operación, facultades y obligaciones del Comité Operativo de Evaluación, Seguimiento y Validación de la Secretaría, que no se contrapongan o sean contrarias a las ya establecidas para otras autoridades en materia de movilidad de la Ley, y
+
 > <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-XL. Emitir, sin perjuicio de las competencias de los Municipios, los estudios que contribuyan a determinar el diseño, la ubicación, construcción, tarifas y el funcionamiento de los estacionamientos públicos; así como la política integral de estacionamientos públicos en el Estado de Oaxaca, de conformidad a la presente Ley y demás disposiciones jurídicas aplicables;
+XLI. Emitir, sin perjuicio de las competencias de los Municipios, los estudios que contribuyan a determinar el diseño, la ubicación, construcción, tarifas y el funcionamiento de los estacionamientos públicos; así como la política integral de estacionamientos públicos en el Estado de Oaxaca, de conformidad a la presente Ley y demás disposiciones jurídicas aplicables;
 
 > <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-XLI. Proponer al Gobernador para su aprobación, con base en los estudios correspondientes, las tarifas para el cobro del servicio en los estacionamientos públicos para buscar cumplir los objetivos de reducción del uso del automóvil particular e incentivar el uso del transporte público y no motorizado, en el ámbito de sus competencias;
+XLII. Proponer al Gobernador para su aprobación, con base en los estudios correspondientes, las tarifas para el cobro del servicio en los estacionamientos públicos para buscar cumplir los objetivos de reducción del uso del automóvil particular e incentivar el uso del transporte público y no motorizado, en el ámbito de sus competencias;
 
 > <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
-XLII. Establecer en el Programa Integral de Movilidad, la política de estacionamiento; así como emitir la normatividad, los manuales y lineamientos técnicos para su regulación;
+XLIII. Establecer en el Programa Integral de Movilidad, la política de estacionamiento; así como emitir la normatividad, los manuales y lineamientos técnicos para su regulación;
 
-XLIII. Las demás que establezca la presente Ley, su reglamento, y la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, y demás disposiciones legales aplicables en la materia.
+XLIV. Las demás que establezca la presente Ley, su reglamento, y la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, y demás disposiciones legales aplicables en la materia.
 
 ###### Artículo 38.
 
@@ -1259,7 +1269,9 @@ II. Hacer las inscripciones correspondientes dentro de los quince días hábiles
 
 III. Resolver las dudas que los interesados le formulen;
 
-IV. Autorizar con su firma y sello las inscripciones que se efectúen y asentar las notas que correspondan al calce de los títulos presentados;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
+
+IV. Autorizar con su firma y sello las inscripciones que se efectúen y asentar las notas que correspondan al calce de los títulos presentados; así como proceder al registro de los permisos del servicio especial de transporte, previo dictamen que emita el Comité Operativo de Evaluación, Seguimiento y Validación de la Secretaría.
 
 V. Rendir bimestralmente un informe de sus actividades a la Secretaría, en el cual detallara el número de actos registrados en cada sección;
 
@@ -1473,7 +1485,9 @@ I. La Secretaría, a petición o con anuencia del Ayuntamiento o Ayuntamientos, 
 
 II. Con sustento en los estudios técnicos la Secretaría emitirá la declaratoria de necesidad de servicio público de transporte, así como la convocatoria pública correspondiente, las cuales se publicarán de manera obligatoria, en el Periódico Oficial del Gobierno del Estado, y en un diario comercial de mayor circulación en la localidad donde se realizó el estudio de factibilidad;
 
-III. Recibidas las propuestas y cubiertos los requisitos, la Secretaría dictaminará sobre la capacidad legal, administrativa, técnica y financiera de los solicitantes para la prestación del servicio y emitirá la resolución correspondiente, misma que será publicada en los mismos términos que la convocatoria pública;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
+
+III. Recibidas las propuestas se sujetarán al análisis del Comité Operativo de Evaluación, Seguimiento y Validación de la Secretaria, para que se revise y emita el acta de la capacidad e idoneidad de los solicitantes, el cumplimiento de los requisitos que se hubieren señalado, la actualización de los criterios de selección previstos en la convocatoria y verificar que los participantes no se encuentren dentro de los impedimentos previstos en esta Ley o en cualquier otro ordenamiento legal y cubiertos los requisitos, la Secretaría a través del Comité Operativo de Evaluación, Seguimiento y Validación, emitirá el acta sobre la capacidad legal, administrativa, técnica y financiera de las y los solicitantes para la prestación del servicio y emitirá la resolución correspondiente, misma que será publicada en los mismos términos que establezca la convocatoria;
 
 IV. La Secretaría remitirá al Gobernador del Estado la determinación final sobre la capacidad e idoneidad de los solicitantes;
 
@@ -1568,6 +1582,14 @@ El interesado en obtener una concesión deberá acreditar su capacidad financier
 ###### Artículo 123.
 
 Para la obtención y conservación de las concesiones y permisos especiales los solicitantes y en su caso, concesionarios y permisionarios deberán cumplir con las cauciones y garantías exigidas por la Secretaría para la concesión o permiso del que se trate.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2021)</small>
+
+Para el caso de que las o los titulares de las concesiones o permisos especiales, manifiesten la imposibilidad de presentar el original o renovación del título de concesión, alta o cambio de vehículo y/o transferencia de la concesión, expedido por la Secretaría, por robo, extravío o cualquier otro acontecimiento fortuito, y esto le impida realizar los trámites posteriores, la Secretaria a través del área administrativa correspondiente, realizará la búsqueda en sus archivos y en su caso, expedirá las copias certificadas de las documentales que obren en los archivos de la misma, previo cumplimiento de los requisitos que establece el Reglamento de la Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2021)</small>
+
+La Secretaría, podrá reimprimir el título de concesión o permiso especial, las veces que sea solicitado, haciendo constar el número de reimpresión de que se trate y el motivo, previo cumplimiento de los requisitos que establece el Reglamento de la Ley.
 
 ###### Artículo 124.
 
@@ -1801,7 +1823,9 @@ I. El interesado deberá presentar solicitud por escrito en la que manifieste el
 
 II. Presentar junto con la solicitud la documentación con que acredite su capacidad legal, administrativa, técnica y financiera;
 
-III. La Secretaría evaluará la solicitud presentada y emitirá un dictamen sobre la factibilidad de la solicitud, y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2021)</small>
+
+III. La Secretaría a través del Comité Operativo de Evaluación, Seguimiento y Validación, analizará la solicitud presentada y emitirá un acta sobre la factibilidad de la solicitud, y
 
 IV. El (sic) Secretaría emitirá la resolución correspondiente y expedirá el permiso respectivo.
 
@@ -3066,3 +3090,17 @@ Los Ayuntamientos de aquellos Municipios que cuenten con zonas urbanas aptas par
 ###### ARTICULO SEXTO.
 
 Se derogan todas las disposiciones legales vigentes de igual o menor jerarquía, que se opongan al presente Decreto, así también se abroga la Ley de Fomento y Promoción del Uso de la Bicicleta en las Zonas Metropolitanas del Estado de Oaxaca, aprobada el 31 de octubre de 2013 y publicada en el Extra del Periódico Oficial del 27 de noviembre de 2013.
+
+P.O. 16 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1779.- MEDIANTE EL CUAL SE ADICIONAN LOS PARRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 123 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1792.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IV DEL ARTÍCULO 83, III DEL ARTÍCULO 114, III DEL ARTÍCULO 150; Y SE ADICIONA LA FRACCIÓN XL AL ARTÍCULO 37, RECORRIENDO ASÍ EL CONTENIDO Y ORDEN DE LAS SUBSECUENTES, DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Gobierno del Estado. Publíquese en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO.- La Secretaría contará con un plazo de 30 días naturales posteriores a la entrada en vigor del presente Decreto, para instalar el Comité Operativo de Evaluación, Seguimiento y Validación.
