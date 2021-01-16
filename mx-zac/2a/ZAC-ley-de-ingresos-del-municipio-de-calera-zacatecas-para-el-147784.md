@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-municipio-de-calera-zacatecas-para-el-14778
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-30"
-last_updated: "2020-12-30"
+last_updated: "2021-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,11 @@ LEY DE INGRESOS DEL MUNICIPIO DE CALERA, ZACATECAS PARA EL EJERCICIO FISCAL 2021
 
 TEXTO ORIGINAL.
 
+> <small>[N. DE E. VÉASE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE ENERO DE 2021.]</small>
+
 Ley publicada en el Suplemento 8 del número 105 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de diciembre de 2020.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO Y SU FE DE ERRATAS SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
 ###### Artículo 83.
 
@@ -45,9 +47,9 @@ a) Permiso para bailes ................... 28.0614
 
 b) EVENTOS PARTICULARES O PRIVADOS .................. 11.8018
 
-c) Celebración de eventos particulares que afecten la vía pública, cuando exista el común acuerdo entre vecinos en la cabecera municipal ......................... 16.4200
+c) Celebración de eventos particulares que afecten la vía pública, cuando exista el común acuerdo entre vecinos en la cabecera municipal ................................. 16.4200
 
-d) Permisos para coleaderos ................... 39.4911
+d) Permisos para coleaderos ............ 39.4911
 
 e) Permisos para jaripeos ......................... 38.1640
 
@@ -69,7 +71,9 @@ b) EVENTOS PARTICULARES O PRIVADOS ...................... 6.7648
 
 c) Celebración de eventos particulares que afecten la vía pública, cuando exista el común acuerdo entre vecinos, en las comunidades ....................... 10.1743
 
-III. Anuencias para llevar acabo (sic) juegos permitidos, como peleas de gallos, carreras de Caballos y casinos autorizados por la Secretaria de Gobernación cubrirán al Municipio
+III. Anuencias para llevar acabo (sic) juegos permitidos, como peleas de gallos, carreras de
+
+Caballos y casinos autorizados por la Secretaria de Gobernación cubrirán al Municipio
 
 a) Peleas de gallos por evento............................ 152.1949
 
