@@ -4,7 +4,7 @@ identifier: "LGPGIR"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-10-08"
-last_updated: "2021-01-07"
+last_updated: "2021-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGPGIR"
 
 LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2021.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de octubre de 2003.
 
@@ -216,11 +216,15 @@ XLI. Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, m
 
 XLII. Termólisis: Proceso térmico a que se sujetan los residuos en ausencia de, o en presencia de cantidades mínimas de oxígeno, que incluye la pirólisis en la que se produce una fracción orgánica combustible formada por hidrocarburos gaseosos y líquidos, así como carbón y una fase inorgánica formada por sólidos reducidos metálicos y no metálicos, y la gasificación que demanda mayores temperaturas y produce gases susceptibles de combustión;
 
-XLIII. Tratamientos por Esterilización: Procedimientos que permiten, mediante radiación térmica, la muerte o inactivación de los agentes infecciosos contenidos en los residuos peligrosos;
+> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2021)</small>
 
-XLIV. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica, y
+XLIII. Termovalorización: Aprovechamiento de residuos orgánicos para la generación de energía eléctrica;
 
-XLV. Vulnerabilidad: Conjunto de condiciones que limitan la capacidad de defensa o de amortiguamiento ante una situación de amenaza y confieren a las poblaciones humanas, ecosistemas y bienes, un alto grado de susceptibilidad a los efectos adversos que puede ocasionar el manejo de los materiales o residuos, que por sus volúmenes y características intrínsecas, sean capaces de provocar daños al ambiente.
+XLIV. Tratamientos por Esterilización: Procedimientos que permiten, mediante radiación térmica, la muerte o inactivación de los agentes infecciosos contenidos en los residuos peligrosos;
+
+XLV. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica, y
+
+XLVI. Vulnerabilidad: Conjunto de condiciones que limitan la capacidad de defensa o de amortiguamiento ante una situación de amenaza y confieren a las poblaciones humanas, ecosistemas y bienes, un alto grado de susceptibilidad a los efectos adversos que puede ocasionar el manejo de los materiales o residuos, que por sus volúmenes y características intrínsecas, sean capaces de provocar daños al ambiente.
 
 ## TÍTULO SEGUNDO. DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN
 
@@ -904,15 +908,27 @@ Los representantes de los distintos sectores sociales participarán en la formul
 
 Tratándose de procesos de tratamiento por incineración y tratamiento térmico por termólisis, la solicitud de autorización especificará las medidas para dar cumplimiento a las normas oficiales mexicanas que se expidan de conformidad con los convenios internacionales de los que México sea parte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE ENERO DE 2021)</small>
+
 ###### Artículo 62.
 
-La incineración de residuos, deberá restringirse a las condiciones que se establezcan en el Reglamento y en las normas oficiales mexicanas correspondientes, en las cuales se estipularán los grados de eficiencia y eficacia que deberán alcanzar los procesos, y los parámetros ambientales que deberán determinarse a fin de verificar la prevención o reducción de la liberación al ambiente de sustancias contaminantes, particularmente de aquellas que son tóxicas. En los citados ordenamientos se incluirán especificaciones respecto a la caracterización analítica de los residuos susceptibles de incineración, así como de las cenizas resultantes de la misma, y al monitoreo periódico de todas las emisiones sujetas a normas oficiales mexicanas, cuyos costos asumirán los responsables de las plantas de incineración.
+El co-procesamiento y la incineración de residuos, se restringirán a las condiciones que se establezcan en el Reglamento y en las normas oficiales mexicanas correspondientes, en las cuales se estipularán los grados de eficiencia y eficacia que deberán alcanzar los procesos, y los parámetros ambientales que deberán cumplirse a fin de verificar la prevención o reducción de la liberación al ambiente de sustancias contaminantes, particularmente de aquellas que son tóxicas. En los citados ordenamientos se incluirán especificaciones respecto a la caracterización analítica de los residuos susceptibles de co-procesamiento, así como de incineración y de las cenizas resultantes de la misma, y al monitoreo periódico de todas las emisiones sujetas a normas oficiales mexicanas, cuyos costos asumirán los responsables de las plantas de co-procesamiento o de incineración.
 
 La Secretaría, al establecer la normatividad correspondiente, tomará en consideración los criterios de salud que al respecto establezca la Secretaría de Salud.
 
+> <small>(ADICIONADO, D.O.F. 18 DE ENERO DE 2021)</small>
+
+###### Artículo 62 Bis.
+
+Para el co-procesamiento de los residuos deberá seguirse la jerarquía de manejo de los residuos que determine la Secretaría, y considerar las mejores técnicas disponibles por razones de viabilidad técnica, económica o de protección ambiental.
+
+En el caso de que los residuos no sean susceptibles de ser reutilizados o reciclados, pero sean aptos para el co-procesamiento en procesos de producción industrial según lo dispuesto en el Reglamento de la presente Ley y las normas oficiales mexicanas aplicables, dicho co-procesamiento podrá ser considerado parte del propio proceso industrial de producción, sin perjuicio de las disposiciones aplicables de la Ley de Infraestructura de la Calidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE ENERO DE 2021)</small>
+
 ###### Artículo 63.
 
-La Secretaría, al reglamentar y normar la operación de los procesos de incineración y co-procesamiento de residuos permitidos para tal efecto, distinguirá aquellos en los cuales los residuos estén sujetos a un co-procesamiento con el objeto de valorizarlos mediante su empleo como combustible alterno para la generación de energía, que puede ser aprovechada en la producción de bienes y servicios.
+La Secretaría, al reglamentar y normar la operación de los procesos de incineración y termovalorización de residuos permitidos, diferenciará estos procesos en su regulación del co-procesamiento.
 
 Deberán distinguirse los residuos que por sus características, volúmenes de generación y acumulación, problemas ambientales e impactos económicos y sociales que ocasiona su manejo inadecuado, pudieran ser objeto de co-procesamiento. A su vez, deberán establecerse restricciones a la incineración, o al co-procesamiento mediante combustión de residuos susceptibles de ser valorizados mediante otros procesos, cuando éstos estén disponibles, sean ambientalmente eficaces, tecnológica y económicamente factibles. En tales casos, deberán promoverse acciones que tiendan a fortalecer la infraestructura de valorización o de tratamiento de estos residuos, por otros medios.
 
@@ -1623,3 +1639,19 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. En un plazo máximo de 365 días naturales, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo Federal deberá publicar las normas oficiales mexicanas que establezcan las especificaciones que deban cumplir los sitios de disposición final de residuos sólidos urbanos para el aprovechamiento de la materia orgánica en procesos de generación de energía.
 
 Tercero. En un plazo máximo de 365 días naturales, contados a partir de la entrada en vigor del presente Decreto, los Congresos de las Entidades Federativas armonizarán las legislaciones de su competencia en materia de residuos con su contenido.
+
+D.O.F. 18 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, EN MATERIA DE CO-PROCESAMIENTO DE RESIDUOS”.]
+
+Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las Legislaturas de los Estados y de la Ciudad de México adecuarán las leyes correspondientes a efecto de que se ajusten a lo dispuesto por el presente Decreto, en un plazo no mayor a 180 días contados a partir de su entrada en vigor.
+
+Tercero.- La Secretaría de Medio Ambiente y Recursos Naturales expedirá en un plazo no mayor a 365 días naturales, contados a partir de la publicación del presente Decreto, las disposiciones reglamentarias y normativas correspondientes.
+
+Cuarto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Quinto.- La Secretaría considerará las obligaciones de las empresas que realicen actividades de co-procesamiento, así como de incineración en las materias de registro de emisiones y transferencia de contaminantes y de registro de compuestos y gases de efecto invernadero, establecidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y sus reglamentos, y en la Ley General de Cambio Climático y su Reglamento en Materia de Registro Nacional de Emisiones, para publicar en los primeros diez días de los meses de diciembre, en su página web y demás medios de comunicación que considere pertinentes para conocimiento de la sociedad en general, las emisiones normadas que producen las empresas que realicen de forma autorizada, conforme a lo dispuesto en esta Ley y el presente Decreto, el co-procesamiento, así como la incineración de residuos peligrosos.
+
+En el cumplimiento de lo dispuesto en el párrafo anterior, la Secretaría de Medio Ambiente y Recursos Naturales se sujetará a los principios pro-persona, de máxima publicidad y demás postulados garantes de los derechos humanos, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y tratados internacionales de los que el Estado Mexicano sea Parte, observando lo dispuesto en la regulación en materia de transparencia y acceso a la información pública.
