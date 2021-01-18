@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2021-01-07"
+last_updated: "2021-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2021.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -114,9 +114,13 @@ V. Biotecnología: Toda aplicación tecnológica que utilice recursos biológico
 
 > <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-V Bis. Cambio climático: Cambio de clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante periodos de tiempos comparables;
+V BIS. Cambio climático: Cambio de clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante periodos de tiempos comparables;
 
 VI. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
+
+> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2021)</small>
+
+VI BIS. Contaminación lumínica: El resplandor luminoso en ambientes nocturnos o brillo producido por la difusión y reflexión de la luz en los gases, aerosoles y partículas en suspensión en la atmósfera, que altera las condiciones naturales de luminosidad en horas nocturnas y dificultan las observaciones astronómicas de los objetos celestes, debido a la luz intrusa, debiendo distinguirse el brillo natural, atribuible a la radiación de fuentes u objetos celestes y a la luminiscencia de las capas altas de la atmósfera;
 
 VII. Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
 
@@ -153,6 +157,20 @@ XVIII. Fauna silvestre: Las especies animales que subsisten sujetas a los proces
 XIX. Flora silvestre: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre;
 
 XX. Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 18 DE ENERO DE 2021)</small>
+
+XX BIS. Luz intrusa: Parte de la luz de una instalación con fuente de iluminación que no cumple la función para la que fue diseñada y no previene la contaminación lumínica; incluye:
+
+a) La luz que cae indebidamente fuera de la zona que se requiere iluminar;
+
+b) La luz difusa en las proximidades de la instalación de iluminación;
+
+c) La luminiscencia del cielo, es decir, la iluminación del cielo nocturno que resulta del reflejo directo e indirecto de la radiación visible e invisible, dispersada por los constituyentes de la atmosfera, moléculas de gas, aerosoles y partículas en la dirección de la observación;
+
+d) La luz difusa que se esparce en las proximidades de la fuente artificial de iluminación, y
+
+e) La luz que se proyecta en varias direcciones fuera de la zona terrestre a iluminar;
 
 XXI. Manifestación del impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
@@ -256,7 +274,9 @@ XIII. El fomento de la aplicación de tecnologías, equipos y procesos que reduz
 
 XIV. La regulación de las actividades relacionadas con la exploración, explotación y beneficio de los minerales, substancias y demás recursos del subsuelo que corresponden a la nación, en lo relativo a los efectos que dichas actividades puedan generar sobre el equilibrio ecológico y el ambiente;
 
-XV. La regulación de la prevención de la contaminación ambiental originada por ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente;
+> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2021)</small>
+
+XV. La regulación de la prevención de la contaminación ambiental originada por ruido, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente;
 
 XVI. La promoción de la participación de la sociedad en materia ambiental, de conformidad con lo dispuesto en esta Ley;
 
@@ -308,7 +328,9 @@ V. El establecimiento, regulación, administración y vigilancia de las áreas n
 
 VI. La regulación de los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos de conformidad con lo dispuesto por el artículo 137 de la presente Ley;
 
-VII. La prevención y el control de la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, proveniente de fuentes fijas que funcionen como establecimientos industriales, así como, en su caso, de fuentes móviles que conforme a lo establecido en esta Ley no sean de competencia Federal;
+> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2021)</small>
+
+VII. La prevención y el control de la contaminación generada por la emisión de ruido, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, proveniente de fuentes fijas que funcionen como establecimientos industriales, así como, en su caso, de fuentes móviles que conforme a lo establecido en esta Ley no sean de competencia federal;
 
 VIII. La regulación del aprovechamiento sustentable y la prevención y control de la contaminación de las aguas de jurisdicción estatal; así como de las aguas nacionales que tengan asignadas;
 
@@ -360,7 +382,9 @@ IV. La aplicación de las disposiciones jurídicas relativas a la prevención y 
 
 V. La creación y administración de zonas de preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas por la legislación local;
 
-VI. La aplicación de las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínica y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles excepto las que conforme a esta Ley sean consideradas de jurisdicción federal;
+> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2021)</small>
+
+VI. La aplicación de las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles excepto las que conforme a esta Ley sean consideradas de jurisdicción federal;
 
 VII. La aplicación de las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas, con la participación que conforme a la legislación local en la materia corresponda a los gobiernos de los estados;
 
@@ -448,7 +472,9 @@ V. El control de acciones para la protección, preservación y restauración del
 
 VI. La prevención y control de la contaminación de la atmósfera, proveniente de fuentes fijas y móviles de jurisdicción federal y, en su caso, la expedición de las autorizaciones correspondientes;
 
-VII. La prevención y control de la contaminación ambiental originada por ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas y móviles de competencia federal y, en su caso, la expedición de las autorizaciones correspondientes;
+> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2021)</small>
+
+VII. La prevención y control de la contaminación ambiental originada por ruido, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas y móviles de competencia federal y, en su caso, la expedición de las autorizaciones correspondientes;
 
 VIII. La realización de acciones operativas tendientes a cumplir con los fines previstos en este ordenamiento, o
 
@@ -2384,6 +2410,18 @@ I. La calidad del aire debe ser satisfactoria en todos los asentamientos humanos
 
 II. Las emisiones de contaminantes de la atmósfera, sean de fuentes artificiales o naturales, fijas o móviles, deben ser reducidas y controladas, para asegurar una calidad del aire satisfactoria para el bienestar de la población y el equilibrio ecológico.
 
+> <small>(ADICIONADO, D.O.F. 18 DE ENERO DE 2021)</small>
+
+ARTICULO 110 BIS.- Para lograr la prevención, reducción y control de la contaminación lumínica en la atmósfera, se deberán considerar los siguientes objetivos:
+
+a) Promover la eficiencia energética a través de un uso eficiente del alumbrado exterior, sin menoscabo de la seguridad que debe proporcionar a los peatones, los vehículos y las propiedades;
+
+b) Preservar al máximo posible las condiciones naturales de las horas nocturnas en beneficio de la fauna, la flora y los ecosistemas en general;
+
+c) Prevenir, minimizar y corregir los efectos de la contaminación lumínica en el cielo nocturno y, en particular en el entorno de los observatorios astronómicos que trabajan dentro del espectro visible, y
+
+d) Reducir la intrusión lumínica en zonas distintas a las que se pretende iluminar, principalmente en entornos naturales e interior de edificios.
+
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)
 
 ### CAPITULO III. Prevención y Control de la Contaminación del Agua y de los Ecosistemas Acuáticos
@@ -2418,9 +2456,21 @@ XI. Promover en coordinación con las autoridades competentes, de conformidad co
 
 XII. Aprobar los programas de gestión de calidad del aire elaborados por los gobiernos locales para el cumplimiento de las normas oficiales mexicanas respectivas;
 
-XIII. Promover ante los responsables de la operación de fuentes contaminantes, la aplicación de nuevas tecnologías, con el propósito de reducir sus emisiones a la atmósfera, y
+> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2021)</small>
 
-XIV. Expedir las normas oficiales mexicanas que establezcan las previsiones a que deberá sujetarse la operación de fuentes fijas que emitan contaminantes a la atmósfera, en casos de contingencias y emergencias ambientales.
+XIII. Promover ante los responsables de la operación de fuentes contaminantes, la aplicación de nuevas tecnologías, con el propósito de reducir sus emisiones a la atmósfera;
+
+> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2021)</small>
+
+XIV. Expedir las normas oficiales mexicanas que establezcan las previsiones a que deberá sujetarse la operación de fuentes fijas que emitan contaminantes a la atmósfera, en casos de contingencias y emergencias ambientales;
+
+> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2021)</small>
+
+XV. Expedir, en coordinación con la Secretaría de Energía, las normas oficiales mexicanas que establezcan y certifiquen los niveles máximos permisibles de la luz artificial en el medio ambiente, incluido el impacto de la luz intrusa, que causen contaminación lumínica, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2021)</small>
+
+XVI. Promover en coordinación con la Secretaría de Energía, a los gobiernos locales en la formulación y aplicación de programas para prevenir, reducir y controlar la contaminación lumínica, que tengan por objeto el cumplimiento de la normatividad aplicable.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2942,15 +2992,15 @@ d) Cuando se determine que la autorización fue transferida a una persona distin
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-### CAPITULO VIII. Ruido, Vibraciones, Energía Térmica y Lumínica, Olores y Contaminación Visual
+### CAPITULO VIII. Ruido, Vibraciones, Energía Térmica, Luz Intrusa, Olores y Contaminación Visual
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 154.
 
 La Secretaría de Energía y la Comisión Nacional de Seguridad Nuclear y Salvaguardias, con la participación que, en su caso, corresponda a la Secretaría de Salud, cuidarán que la exploración, explotación y beneficio de minerales radioactivos, el aprovechamiento de los combustibles nucleares, los usos de la energía nuclear y en general, las actividades relacionadas con la misma, se lleven a cabo con apego a las normas oficiales mexicanas sobre seguridad nuclear, radiológica y física de las instalaciones nucleares o radioactivas, de manera que se eviten riesgos a la salud humana y se asegure la preservación del equilibrio ecológico y la protección al ambiente, correspondiendo a la Secretaría realizar la evaluación de impacto ambiental.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE ENERO DE 2021)</small>
 
 ### CAPITULO I. Participación Social
 
@@ -2958,15 +3008,15 @@ La Secretaría de Energía y la Comisión Nacional de Seguridad Nuclear y Salvag
 
 ###### ARTICULO 155.
 
-Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica y lumínica y la generación de contaminación visual, en cuanto rebasen los límites máximos establecidos en las normas oficiales mexicanas que para ese efecto expida la Secretaría, considerando los valores de concentración máxima permisibles para el ser humano de contaminantes en el ambiente que determine la Secretaría de Salud. Las autoridades federales o locales, según su esfera de competencia, adoptarán las medidas para impedir que se transgredan dichos límites y en su caso, aplicarán las sanciones correspondientes.
+Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica, luz intrusa y la generación de contaminación visual, en cuanto rebasen los límites máximos establecidos en las normas oficiales mexicanas que para ese efecto expida la Secretaría, considerando los valores de concentración máxima permisibles para el ser humano de contaminantes en el ambiente que determine la Secretaría de Salud. Las autoridades federales o locales, según su esfera de competencia, adoptarán las medidas para impedir que se transgredan dichos límites y en su caso, aplicarán las sanciones correspondientes.
 
-En la construcción de obras o instalaciones que generen energía térmica o lumínica, ruido o vibraciones, así como en la operación o funcionamiento de las existentes deberán llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes en el equilibrio ecológico y el ambiente.
+En la construcción de obras o instalaciones que generen energía térmica, luz intrusa, ruido o vibraciones, así como en la operación o funcionamiento de las existentes deberán llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes en el equilibrio ecológico y el ambiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 156.
 
-Las normas oficiales mexicanas en materias objeto del presente Capítulo, establecerán los procedimientos a fin de prevenir y controlar la contaminación por ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores, y fijarán los límites de emisión respectivos.
+Las normas oficiales mexicanas en materias objeto del presente Capítulo, establecerán los procedimientos a fin de prevenir y controlar la contaminación por ruido, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas y olores, y fijarán los límites de emisión respectivos.
 
 La Secretaría de Salud realizará los análisis, estudios, investigaciones y vigilancia necesarias con el objeto de localizar el origen o procedencia, naturaleza, grado, magnitud y frecuencia de las emisiones para determinar cuándo se producen daños a la salud.
 
@@ -4041,3 +4091,15 @@ D.O.F. 7 DE ENERO DE 2021.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán adecuar las leyes correspondientes a efecto de que se ajusten a lo dispuesto por el presente Decreto, en un plazo no mayor a 180 días contados a partir de su entrada en vigor.
+
+D.O.F. 18 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría de Medio Ambiente y Recursos Naturales dentro de los doce meses siguientes a la entrada en vigor de este Decreto, deberá expedir la norma oficial mexicana necesaria para dar cumplimiento a las disposiciones reformadas.
+
+Tercero. Las erogaciones con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado de las dependencias y entidades de la Administración Pública Federal involucradas para el presente ejercicio fiscal y los subsecuentes.
+
+Asimismo, las Entidades Federativas, los municipios y las demarcaciones territoriales de la Ciudad de México darán cumplimiento al presente Decreto con cargo a sus respectivos presupuestos.
