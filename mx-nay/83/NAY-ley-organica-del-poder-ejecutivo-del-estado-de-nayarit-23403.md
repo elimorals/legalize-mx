@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2019-07-01"
+last_updated: "2021-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 1 DE JULIO DE 2019 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 29 DE MAYO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -135,11 +133,11 @@ Al Gobernador del Estado corresponderá el mando de las corporaciones de segurid
 
 ### CAPITULO I. De las dependencias
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### Artículo 12.
 
-Las Secretarías del Despacho tendrán igual jerarquía y entre ellas no habrá, por lo tanto, preeminencia alguna. Cuando deba decidirse sobre la competencia de alguna de las dependencias, el Gobernador del Estado decidirá a cuál de ellas le corresponde atenderlo.
+Las Secretarías del Despacho tendrán igual jerarquía y entre ellas no habrá preeminencia alguna.
 
 Cuando deba decidirse sobre la competencia de alguna de las dependencias, el Gobernador del Estado decidirá a cuál de ellas le corresponde atenderlo.
 
@@ -171,19 +169,21 @@ La función de Consejero Jurídico, estará a cargo del titular de la Consejerí
 
 En el reglamento interior de la Consejería se determinarán las atribuciones de las unidades administrativas, así como la forma de cubrir las ausencias y delegar facultades.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### Artículo 16 Bis.
 
-Las dependencias y entidades de la Administración Pública del Estado, previo cumplimiento de lo dispuesto en el primer párrafo del artículo 17 de esta Ley, enviarán a la Consejería Jurídica del Gobernador los proyectos de iniciativas de leyes o decretos que deban ser sometidos al Congreso del Estado, así como aquellos decretos, acuerdos, convenios y demás instrumentos normativos que requieran la firma del titular del Poder Ejecutivo, los cuales deberán ser remitidos cuando menos con un mes de anticipación a la fecha en que se pretendan suscribir, salvo la Ley de Ingresos y el Presupuesto de Egresos, y aquellos otros que por su notoria urgencia y a juicio del Gobernador, deban realizarse con manifiesta premura.
+Las dependencias y entidades de la Administración Pública del Estado, enviarán a la Consejería Jurídica del Gobernador, los proyectos de iniciativas de leyes o decretos que deban ser sometidos al Congreso del Estado, así como aquellos decretos, acuerdos, reglamentos, convenios y demás instrumentos normativos o administrativos que requieran la firma del titular del Poder Ejecutivo, conforme a los plazos y procedimientos establecidos en el reglamento interior de la Consejería.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
 
 Las dependencias y entidades de la Administración Pública del Estado proporcionarán oportunamente a la Consejería Jurídica del Gobernador la información y apoyo que requiera para el cumplimiento de sus funciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### Artículo 17.
 
-Cada titular de las dependencias y entidades de la Administración Pública del Estado formularán, respecto de los asuntos de su competencia, los anteproyectos de leyes, reglamentos, decretos, convenios, acuerdos y demás disposiciones legales y, previo a su remisión al Ejecutivo, recabará la opinión del Secretario General de Gobierno, para su respectiva revisión.
+Las dependencias y entidades de la Administración Pública del Estado formularán, respecto de los asuntos de su competencia, los anteproyectos de leyes, reglamentos, decretos, convenios, acuerdos y demás disposiciones legales, mismos que deberán ser revisados y en su caso, validados por su respectiva área jurídica y previo a su remisión al Ejecutivo, recabarán y anexarán también , el escrito que contenga la opinión, informe o validación de la Secretaría General de Gobierno, y en su caso, de la Secretaría de Administración y Finanzas, cuando se adviertan implicaciones de índole financiera o presupuestal, y de la Secretaría de la Contraloría General cuando en el ámbito de su competencia deban ser analizados por esta dependencia.
 
 Corresponderá al Gobernador del Estado autorizar con su firma el ordenamiento de que se trate y, con el respectivo refrendo, ordenar su publicación.
 
@@ -283,7 +283,9 @@ X. Suscribir los documentos relativos al ejercicio de sus atribuciones, así com
 
 El Gobernador podrá ampliar o limitar el ejercicio de las facultades a que se refiere esta fracción.
 
-XI. Elaborar y proponer al titular del Poder Ejecutivo, los anteproyectos de leyes, reglamentos, acuerdos, convenios y demás disposiciones de carácter general que se requieran para el manejo de los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+XI. Expedir los acuerdos, avisos, circulares y demás disposiciones administrativas relativas a su ámbito competencial, así como formular los anteproyectos de leyes, decretos, reglamentos, acuerdos, convenios y demás disposiciones de carácter general que se requieran para el despacho de sus asuntos y que deban ser propuestos al titular del Poder Ejecutivo;
 
 XII. Certificar y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan, en el ejercicio de sus funciones los servidores públicos;
 
@@ -515,9 +517,11 @@ LXV. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le 
 
 A la Secretaría de Administración y Finanzas corresponde, además de las atribuciones constitucionales las siguientes:
 
-I.- Coordinar la planeación y aplicación de la política hacendaría, crediticia y del gasto público del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
-II.- Ejecutar la política financiera, fiscal, laboral y administrativa de la Administración Pública Estatal;
+I.- Coordinar la planeación y aplicación de la política administrativa, financiera, crediticia, fiscal, hacendaria, sindical y del gasto público de la Administración Pública Estatal;
+
+II.- (DEROGADA, P.O. 18 DE ENERO DE 2021)
 
 III.- Implementar el sistema de contabilidad gubernamental de la Administración Pública estatal;
 
@@ -609,37 +613,57 @@ XLI.- Ser el fideicomitente único del Gobierno del Estado, en todos los fideico
 
 XLII.- Previo acuerdo del ejecutivo, contratar créditos a cargo del Gobierno del Estado, con duración que no exceda del período constitucional del Ejecutivo;
 
-XLIII.- Celebrar contratos respecto de los bienes propiedad del Gobierno del Estado, previa autorización del Congreso;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+XLIII.- Celebrar contratos respecto de los bienes propiedad del Gobierno del Estado, previa autorización del Congreso, en los casos en que ésta sea necesaria;
 
 XLIV.- Validar los convenios, contratos, concesiones y todo tipo de obligaciones que comprometan recursos de ejercicios presupuestales futuros del erario estatal, sin cuyo requisito se considerarán nulos;
 
-XLV.- Ejercer las facultades de control, administración, cobro y demás establecidas en los ordenamientos aplicables, con relación a los seguros que contrate respecto a los bienes muebles e inmuebles del Gobierno del Estado y los que conforme a la ley deba otorgar el mismo;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
-XLVI.- Vigilar que las personas físicas o morales que celebren contratos con el Gobierno del Estado, garanticen debidamente el cumplimento de las obligaciones a su cargo;
+XLV.- Ejercer las facultades de control, administración, cobro y demás establecidas en los ordenamientos aplicables, con relación a los seguros que contrate respecto de los bienes muebles e inmuebles del Poder Ejecutivo del Estado y los que conforme a la ley deba otorgar el mismo;
 
-XLVII.- Representar legalmente al Gobierno del Estado, en lo relativo a las relaciones laborales;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+XLVI.- Vigilar que las personas físicas o morales que celebren contratos con el Poder Ejecutivo del Estado, garanticen debidamente el cumplimento de las obligaciones a su cargo;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+XLVII.- Representar legalmente al Poder Ejecutivo del Estado, en lo relativo a los asuntos laborales concernientes a la Secretaría;
 
 XLVIII.- Vigilar el cumplimiento de las disposiciones legales que rigen las relaciones entre la Administración Pública Centralizada y sus servidores públicos;
 
-XLIX.- En los términos de la ley respectiva expedir las licencias a los negocios en donde se expendan, distribuyan o consuman bebidas alcohólicas, y vigilar la aplicación de la normatividad correspondiente;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
-L.- Emitir y aplicar la normatividad referente a la selección, contratación, capacitación y control de los servidores públicos que laboren en la Administración Pública, así como suscribir contratos para la prestación de servicios profesionales;
+XLIX.- Autorizar los permisos a los negocios en donde se consuman, distribuyan o expendan bebidas alcohólicas, así como los permisos para la operación de casas de empeño, apertura de sucursales y agencias de las mismas y aquellos requeridos por la explotación de las diversiones y espectáculos públicos que habitual o eventualmente se realicen en el Estado con fines lucrativos, en los términos de la ley respectiva, y vigilar su correcta aplicación;
 
-LI.- Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los servidores públicos de la Administración Pública de conformidad con la Ley;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
-LII.- Atender las relaciones sindicales de la Administración Pública Centralizada;
+L.- Emitir y aplicar la normatividad referente a la selección, contratación, capacitación y control de los servidores públicos que laboren en la Administración Pública, así como validar contratos para la prestación de servicios profesionales;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+LI.- Tramitar en los sistemas los nombramientos, remociones, renuncias y bajas de los servidores públicos de la Administración Pública del Estado de conformidad con la Ley;
+
+LII.- (DEROGADA, P.O. 18 DE ENERO DE 2021)
 
 LIII.- Elaborar y mantener actualizado el escalafón de los servidores públicos de base de las dependencias, así como su expediente;
 
 LIV.- Recibir, conservar y en su caso hacer efectivas las garantías que las personas físicas o morales, otorguen bajo cualquier título al Gobierno del Estado;
 
-LV.- Suscribir en términos de la ley, las garantías que deba otorgar el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+LV.- Suscribir en términos de la ley, las garantías que deba otorgar el Poder Ejecutivo del Estado;
 
 LVI.- Llevar el registro, control y actualización de los inventarios de bienes muebles e inmuebles propiedad o al resguardo del Gobierno del Estado;
 
-LVII.- Supervisar la administración de los almacenes del Estado;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
-LVIII.- Coordinar el funcionamiento del Comité de Adquisiciones de la Administración Pública Estatal, en los términos de la ley;
+LVII.- Supervisar la administración de los almacenes del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+LVIII.- Integrar y Coordinar el funcionamiento del Comité de Adquisiciones del Poder Ejecutivo del Estado, conforme a lo establecido en la legislación aplicable;
 
 LIX.- Implementar y controlar el padrón de proveedores de todas las dependencias y entidades del Ejecutivo del Estado;
 
@@ -653,7 +677,9 @@ LXIII.- Firmar como aval con la autorización del Gobernador y, en su caso previ
 
 LXIV.- Tramitar y vigilar las concesiones, franquicias y subsidios fiscales que sean aprobados, de acuerdo con la legislación aplicable;
 
-LXV.- Supervisar que los subsidios que concede el Gobierno del Estado a los municipios, instituciones o particulares, se apliquen de acuerdo a los términos establecidos;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+LXV.- Supervisar que los subsidios que concede el Poder Ejecutivo del Estado a los municipios, instituciones o particulares, se apliquen de acuerdo a los términos establecidos;
 
 LXVI.- Fijar las políticas, normas y lineamientos generales en materia de catastro, de acuerdo con las leyes respectivas;
 
@@ -675,7 +701,9 @@ LXXIV.- Organizar y atender todo asunto correspondiente a la prestación de serv
 
 LXXV.- Autorizar la realización de impresos en coordinación con las dependencias;
 
-LXXVI.- Llevar el registro y control de vehículos, así como ejercer las funciones operativas de la administración del impuesto federal sobre tenencia o uso de vehículos, consistentes en recaudación, comprobación, determinación y cobro del mismo, en los términos de los convenios celebrados con el Gobierno Federal;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+LXXVI.- Administrar los bienes asegurados, decomisados o abandonados en los términos previstos en la Ley para la Administración de Bienes Asegurados, Decomisados o Abandonados para el Estado de Nayarit, y demás disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -1887,9 +1915,7 @@ VIII. Fomentar las actividades de las organizaciones de la sociedad civil en mat
 
 IX. Coordinar, concretar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, a fin de elevar el nivel de vida de la población, con la intervención del gobierno federal y municipal, y con la participación de los sectores social y privado;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-X. Coadyuvar en las políticas públicas que garanticen el pleno ejercicio de los derechos y el desarrollo de los pueblos indígenas;
+X. (DEROGADA, P.O. 18 DE ENERO DE 2021)
 
 > <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
 
@@ -1919,17 +1945,11 @@ XVI. Generar políticas y programas para la atención de personas con índices d
 
 XVII. Instrumentar y dar seguimiento a los programas de inclusión social y protección de los derechos de niñas, niños y adolescentes;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+XVIII. (DEROGADA, P.O. 18 DE ENERO DE 2021)
 
-XVIII. Elaborar políticas públicas y dar seguimiento a los programas de apoyo e inclusión de los jóvenes a la vida social, participativa y productiva;
+XIX. (DEROGADA, P.O. 18 DE ENERO DE 2021)
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-XIX. Promover acuerdos y convenios de colaboración y coordinación con la Secretaría de Desarrollo Sustentable, el Instituto Mexicano de la Juventud, autoridades federales, estatales y municipales para el desarrollo social y de la juventud;
-
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-XX. Diseñar, promover y ejecutar la política estatal de atención a la juventud, promoviendo la adopción de políticas en materia de educación sexual, prevención de enfermedades, oportunidades de empleo, expresión cultural y artística, así como combate a las adicciones y prevención de la delincuencia;
+XX. (DEROGADA, P.O. 18 DE ENERO DE 2021)
 
 > <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
 
@@ -1943,13 +1963,9 @@ XXII. Formular y conducir la política de fomento y desarrollo del sector social
 
 XXIII. Impulsar la igualdad de oportunidades de los grupos sociales vulnerables, para el acceso a los servicios de salud, educación, trabajo, vivienda digna y a los servicios públicos básicos;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+XXIV. (DEROGADA, P.O. 18 DE ENERO DE 2021)
 
-XXIV. Impulsar políticas públicas y programas para la atención y protección de los migrantes;
-
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-XXV. Coadyuvar en la promoción de los derechos de los migrantes;
+XXV. (DEROGADA, P.O. 18 DE ENERO DE 2021)
 
 > <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
 
@@ -2756,3 +2772,11 @@ P.O. 3 DE JUNIO DE 2019.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO.- El presente Decreto entrará en vigor el 19 de septiembre de 2021.
+
+P.O. 18 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- En un plazo que no exceda de sesenta días contados a partir de la entrada en vigor del presente Decreto habrán de realizarse las adecuaciones necesarias para la atención de lo dispuesto en el presente instrumento.
