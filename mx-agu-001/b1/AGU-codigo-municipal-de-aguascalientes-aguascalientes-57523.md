@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2021-01-11"
+last_updated: "2021-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -19933,6 +19933,8 @@ IV. Tianguis.- lugar o espacio determinado en la vía pública ó terreno espec�
 
 V. Credencial o Gafete.- Es el documento que acredita el registro dentro del padrón de comerciantes de la Dirección de Mercados, Estacionamientos y Áreas Comerciales del Municipio de Aguascalientes, el cual, por sí solo no representa o acredita el permiso vigente para ejercer la actividad comercial en la vía pública, mismo documento que no genera ni ampara ningún derecho o antigüedad superior a los señalados dentro del presente título.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2021)</small>
+
 VI. Comité Dictaminador.- Será el órgano encargado de analizar, discutir y en su caso aprobar permisos para ejercer el comercio en la vía pública, exclusivamente de proyectos que por su importancia y trascendencia para el municipio se consideren especiales o extraordinarios y ameriten la valoración del mismo. Así mismo tendrá la facultad de ordenar la disposición final de bienes no perecederos que por su condición o estado no puedan ser objeto de donación, conforme a lo dispuesto por el artículo 1596 del presente Código.
 
 Estará integrado por:
@@ -19961,11 +19963,13 @@ f) Un representante de los Locatarios de Mercados Municipales.
 
 g) Un representante de los Tianguistas y Comercio Informal.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
-h) Un representante de la Contraloría Municipal, que tendrá participación con voz más no con voto.
+h) Un representante de los Comercios Formales.
 
-i) (DEROGADO, P.O. 13 DE ENERO DE 2014)
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2021)</small>
+
+i) Un representante de la Contraloría Municipal, que tendrá participación con voz más no con voto.
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 19 DE AGOSTO DE 2019)</small>
 
@@ -24836,3 +24840,9 @@ P.O. 11 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DE “REFORMA Y ADICIÓN AL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 ÚNICO.- La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DE “REFORMA AL ARTÍCULO 1358, FRACCIÓN VI, INCISO H), Y ADICIÓN DEL INCISO I) DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO: La presente reforma al artículo 1358 fracción VII inciso h) y adición del inciso i) del Código Municipal de Aguascalientes; iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
