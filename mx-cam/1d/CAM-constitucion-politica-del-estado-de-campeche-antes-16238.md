@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2020-12-01"
+last_updated: "2021-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -149,7 +149,9 @@ I. Decidir sus formas internas de convivencia y organización social, económica
 
 II. Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de esta Constitución, respetando los derechos humanos y sus garantías y, de manera relevante, la dignidad e integridad de las mujeres. La Ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes.
 
-III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de las mujeres en condiciones de igualdad frente a los varones, en un marco que respete el pacto federal y la soberanía del Estado.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de las mujeres en condiciones de igualdad frente a los hombres, en un marco que respete el pacto federal y la soberanía del Estado. En la elección de sus representantes se observará el principio de paridad de género.
 
 IV. Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad.
 
@@ -163,7 +165,9 @@ V. En los términos que establece la Constitución federal y las demás leyes de
 
 VI. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan los pueblos y comunidades indígenas, salvo aquellos que corresponden a las áreas estratégicas, respetando los regímenes de propiedad de tenencia de la tierra establecidos en el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos. Para estos efectos las comunidades podrán asociarse en términos de Ley.
 
-VII. Elegir, en los municipios con población indígena, representantes ante los ayuntamientos.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+VII. Elegir, en los municipios con población indígena, representantes ante los ayuntamientos, observando el principio de paridad de género conforme a las normas aplicables.
 
 La Ley establecerá las funciones que tendrá dicha representación, con el propósito de fortalecer la participación y representación política de conformidad con sus tradiciones y normas internas.
 
@@ -445,7 +449,9 @@ La soberanía del Estado reside esencial y originariamente en el pueblo campecha
 
 La renovación de los Poderes Legislativo y Ejecutivo, así como de los integrantes de Ayuntamientos y Juntas Municipales, es un derecho de los partidos políticos y de los ciudadanos, quienes podrán participar como candidatos de manera independiente; se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-I.- Los partidos políticos son entidades de interés público y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible, así como con las reglas para garantizar la paridad entre los géneros en las respectivas candidaturas. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+I.- Los partidos políticos son entidades de interés público y tienen como fin promover la participación del pueblo en la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de los órganos de representación política y como organizaciones ciudadanas, hacer posible su acceso al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible, así como con las reglas para garantizar la paridad entre los géneros en las respectivas candidaturas. Sólo los ciudadanos y ciudadanas podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
 Las normas y requisitos para el registro legal de los partidos políticos locales, las formas específicas de su intervención en el proceso electoral y los derechos, obligaciones y prerrogativas que les corresponden, serán los que determinen las leyes, general y local, en la materia.
 
@@ -467,17 +473,23 @@ IV.- En la propaganda política o electoral que difundan los partidos y candidat
 
 DESDE EL INICIO DE LAS CAMPAÑAS ELECTORALES LOCALES, Y HASTA LA CONCLUSIÓN DE LA RESPECTIVA JORNADA ELECTORAL, DEBERÁ SUSPENDERSE LA DIFUSIÓN EN LOS MEDIOS DE COMUNICACIÓN SOCIAL DE TODA PROPAGANDA GUBERNAMENTAL, DE CARÁCTER ESTATAL O MUNICIPAL, INCLUYENDO A SUS ENTES PÚBLICOS. ÚNICAMENTE QUEDAN EXENTAS DE ESTA PROHIBICIÓN LAS CAMPAÑAS DE INFORMACIÓN DE LAS AUTORIDADES ELECTORALES, LAS RELATIVAS A SERVICIOS EDUCATIVOS, DE SALUD Y DE SEGURIDAD PÚBLICA, O LAS NECESARIAS PARA LA PROTECCIÓN CIVIL EN CASO DE EMERGENCIA;
 
-V.- Los requisitos y las formas de realización de los procesos de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales serán las que determine la ley correspondiente.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
-En todo caso, la duración de las campañas será de sesenta a noventa días para la elección de Gobernador y de treinta a sesenta días cuando sólo se elijan Diputados locales o Ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+V.- Los requisitos y las formas de realización de los procesos de selección y postulación de candidaturas a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales serán las que determine la ley correspondiente. En la postulación de sus candidaturas, se observará el principio de paridad de género.
 
-VI.- Las reglas para la postulación, registro, derechos y obligaciones de los candidatos independientes se fijará en la ley correspondiente, la cual garantizará su derecho al financiamiento público de las campañas y al acceso a la radio y televisión en los términos establecidos en la Constitución Federal, esta Constitución y demás legislación aplicable.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+VI.- Las reglas para la postulación, registro, derechos y obligaciones de las candidaturas independientes se fijará en la ley correspondiente, la cual garantizará su derecho al financiamiento público de las campañas y al acceso a la radio y televisión en los términos establecidos en la Constitución Federal, esta Constitución y demás legislación aplicable.
 
 VII.- La organización de las elecciones es una función estatal que se realiza a través del Instituto Nacional Electoral y del Organismo Público Local denominado "Instituto Electoral del Estado de Campeche", en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes generales y las leyes locales en la materia.
 
-El Instituto Electoral del Estado de Campeche es la autoridad en materia electoral, conforme a lo establecido en la Constitución de los Estados Unidos Mexicanos, esta Constitución, la Ley General de Instituciones y Procedimientos Electorales y las leyes locales correspondientes. Está dotado de personalidad jurídica y patrimonio propios, gozará de autonomía en su funcionamiento e independencia en sus decisiones. Será profesional en su desempeño. En el ejercicio de sus funciones se regirá por los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
-Contará con un órgano de dirección superior integrado por un Consejero Presidente y seis consejeros electorales con derecho a voz y voto. El Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano.
+El Instituto Electoral del Estado de Campeche es la autoridad en materia electoral, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, la Ley General de Instituciones y Procedimientos Electorales y las leyes locales correspondientes. Está dotado de personalidad jurídica y patrimonio propios, gozará de autonomía en su funcionamiento e independencia en sus decisiones. Será profesional en su desempeño. En el ejercicio de sus funciones se regirá por los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y paridad de género.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+
+Contará con un órgano de dirección superior integrado por una Consejera o Consejero Presidente y seis consejeras y consejeros electorales con derecho a voz y voto. La Secretaria o Secretario Ejecutivo y las personas representantes de los partidos políticos concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con una persona representante en dicho órgano. En la integración del Consejo se deberá garantizar el principio de paridad de género.
 
 El Instituto Electoral del Estado de Campeche contará en su estructura con órganos de dirección, ejecutivos y técnicos los cuales dispondrán del personal necesario para el ejercicio de las atribuciones. Se contará con un Servicio Profesional Electoral que funcionará en los términos que determine la Ley General de Instituciones y Procedimientos Electorales y la legislación local correspondiente.
 
@@ -579,11 +591,11 @@ Se deposita el ejercicio del Poder Legislativo del Estado en una asamblea que se
 
 El H. Congreso del Estado se compondrá de representantes electos directamente en su totalidad el primer domingo de junio de cada tres años, mediante sufragio universal, libre, secreto, directo, personal e intransferible, en los términos que determine la ley.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 31.
 
-El Congreso estará integrado por veintiún diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y por catorce diputados que serán asignados según el principio de representación proporcional, mediante el sistema de listas propuestas en una circunscripción plurinominal. Por cada diputado propietario de mayoría relativa se elegirá un suplente. Los diputados de representación proporcional no tendrán suplentes; sus vacantes serán cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista respectiva.
+El Congreso estará integrado por veintiún diputadas y diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y por catorce diputadas y diputados que serán asignados según el principio de representación proporcional, mediante el sistema de listas propuestas en una circunscripción plurinominal conformadas de acuerdo con el principio de paridad de género y encabezadas alternadamente entre mujeres y hombres cada periodo electivo. La ley establecerá las reglas y fórmulas para estos efectos. Por cada diputada y diputado propietario de mayoría relativa se elegirá un suplente del mismo género. Las diputadas y diputados de representación proporcional no tendrán suplentes; sus vacantes serán cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista respectiva.
 
 (NOTA: EL 29 DE SEPTIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 51/2014 Y SUS ACUMULADAS 77/2014 Y 79/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -591,7 +603,11 @@ El Congreso estará integrado por veintiún diputados electos según el principi
 
 LA DEMARCACIÓN TERRITORIAL DE LOS VEINTIÚN DISTRITOS ELECTORALES UNINOMINALES SERÁ LA QUE RESULTE DE DIVIDIR LA POBLACIÓN TOTAL DEL ESTADO CONFORME AL ÚLTIMO CENSO GENERAL DE POBLACIÓN Y VIVIENDA ENTRE LOS DISTRITOS SEÑALADOS, TENIENDO EN CUENTA PARA SU DISTRIBUCIÓN, ADEMÁS DEL FACTOR POBLACIONAL, EL FACTOR GEOGRÁFICO Y LOS DEMÁS QUE EL ORGANISMO PÚBLICO ELECTORAL DEL ESTADO DETERMINE EN EL ACUERDO POR EL QUE ESTABLEZCA EL PROCEDIMIENTO Y LAS VARIABLES TÉCNICAS QUE PARA TALES CASOS DEBERÁN DE OBSERVARSE. Para el efecto de la asignación de Diputados según el principio de representación proporcional, el territorio del Estado se constituirá en una sola circunscripción electoral plurinominal.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
 La asignación de los diputados, según el principio de representación proporcional, se sujetará a las bases generales siguientes y a lo que sobre el particular disponga la ley:
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 a).- Para obtener el registro de sus listas de candidatos a diputados de representación proporcional, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en cuando menos catorce de los distritos electorales uninominales;
 
@@ -599,13 +615,19 @@ a).- Para obtener el registro de sus listas de candidatos a diputados de represe
 
 b).- Todo aquel partido que obtenga por lo menos el 3% del total de la votación válida emitida, tendrá derecho a que se le asigne un diputado por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido, y de los que pudieran corresponderle según el procedimiento de asignación de representación proporcional que establezca la ley.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+
 c).- Al partido político que cumpla con lo dispuesto por las dos bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su votación estatal emitida, el número de diputados de su lista que le corresponda en la circunscripción plurinominal. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 d).- Ningún partido político podrá contar con más de 21 diputados por ambos principios;
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
 e).- En ningún caso, un partido político podrá contar con un número de Diputados por ambos principios que representen un porcentaje del total del H. Congreso que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del H. Congreso superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento. Asimismo, en la integración del H. Congreso, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales; y
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 f).- En los términos de lo establecido en los incisos c), d) y e) anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de los incisos d) o e), se adjudicarán a los demás partidos políticos con derecho a ello, en proporción directa con las respectivas votaciones estatales efectivas de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
 
@@ -1143,11 +1165,11 @@ XII.- Las demás que le confiera esta Constitución.
 
 ### CAPITULO XV. Del Poder Ejecutivo
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 59.
 
-Se deposita el ejercicio del Poder Ejecutivo en un solo individuo que se denominará Gobernador del Estado de Campeche.
+Se deposita el ejercicio del Poder Ejecutivo en una sola persona que se denominará Gobernadora o Gobernador del Estado de Campeche.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
@@ -1253,9 +1275,9 @@ Son atribuciones del Gobernador:
 
 I.- Cuidar de la seguridad del Estado y de la de sus habitantes, protegiéndolos en el ejercicio de sus derechos;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
-II.- Designar a los magistrados del Tribunal Superior de Justicia del Estado y someter estos nombramientos a la aprobación del Congreso o de la Diputación Permanente, según el caso, procurando mantener un equilibrio entre mujeres y hombres en la composición de ese alto Tribunal;
+II.- Designar a las magistradas y magistrados del Tribunal Superior de Justicia del Estado y someter estos nombramientos a la aprobación del Congreso o de la Diputación Permanente, según el caso, observando el principio de paridad de género en la composición de ese alto Tribunal;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
 
@@ -1269,9 +1291,9 @@ IV.- Pedir la destitución, de acuerdo con lo dispuesto por el artículo 86, ant
 
 V.- Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
-VI.- Nombrar y remover libremente a los funcionarios y al personal que formen parte del Poder Ejecutivo, procurando mantener un equilibrio entre mujeres y hombres;
+VI.- Nombrar y remover libremente a los funcionarios y al personal que formen parte del Poder Ejecutivo, observando el principio de paridad de género.
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1393,11 +1415,11 @@ XXXVI. Informar anualmente al H. Congreso del Estado sobre el ejercicio de las p
 
 XXXVII. Todas las demás atribuciones y obligaciones que se le confieren por la Constitución Federal, por esta Constitución y por las leyes que de ellas emanen.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 72.
 
-Para el despacho de los asuntos que correspondan al Ejecutivo del Estado, habrán las Secretarías de los Ramos de Administración Pública y el número de Dependencias que establezca la Ley Orgánica relativa, que distribuirá las funciones que a cada una deba corresponder y señalará los requisitos que el Gobernador observará para nombrar a los Titulares de las mismas.
+Para el despacho de los asuntos que correspondan al Ejecutivo del Estado, habrán las Secretarías de los Ramos de Administración Pública y el número de Dependencias que establezca la Ley Orgánica relativa, que distribuirá las funciones que a cada una deba corresponder y señalará los requisitos que el titular del Ejecutivo observará para nombrar a los titulares de las mismas, tomando en consideración el principio de paridad de género.
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2009)</small>
 
@@ -1473,11 +1495,11 @@ El nombramiento deberá recaer en una persona que tenga capacidad y experiencia 
 
 ### CAPITULO XVI. Del Poder Judicial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 77.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un H. Tribunal Superior de Justicia y en Juzgados de Primera Instancia, Menores y de Conciliación. El establecimiento, funcionamiento y competencia de los mencionados órganos del Poder Judicial se regirán por lo que dispongan la Ley Orgánica del Poder Judicial del Estado de Campeche y demás leyes que resulten aplicables, de conformidad con las bases que esta Constitución señala.
+Se deposita el ejercicio del Poder Judicial del Estado en un H. Tribunal Superior de Justicia y en Juzgados de Primera Instancia, Menores y de Conciliación. El establecimiento, funcionamiento y competencia de los mencionados órganos del Poder Judicial se regirán por lo que dispongan la Ley Orgánica del Poder Judicial del Estado de Campeche y demás leyes que resulten aplicables, de conformidad con las bases que esta Constitución señala. En la designación de las juezas y jueces deberá observarse el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
@@ -1487,11 +1509,11 @@ Los Magistrados del H. Tribunal Superior, los jueces de primera instancia, menor
 
 Los nombramientos de los magistrados y jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia; que los merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 78.
 
-El Tribunal Superior de Justicia del Estado funcionará en acuerdo Pleno o en salas, y estará integrado con el número de magistrados numerarios y supernumerarios que determine la Ley Orgánica del Poder Judicial del Estado.
+El Tribunal Superior de Justicia del Estado funcionará en acuerdo Pleno o en salas, y estará integrado con el número de magistradas y magistrados numerarios y supernumerarios que determine la Ley Orgánica del Poder Judicial del Estado. En su conformación se observará el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -1509,7 +1531,9 @@ Al vencimiento de su periodo tendrán derecho a un haber por retiro, de conformi
 
 ARTICULO 78 BIS.- El Consejo de la Judicatura será el órgano del Poder Judicial del Estado con independencia técnica, de gestión y capacidad para emitir resoluciones y acuerdos generales. Es el encargado de conducir la administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, en los términos que señala esta Constitución y las Leyes.
 
-El Consejo se integrará por cinco miembros de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo; dos Consejeros designados por el Pleno del Tribunal Superior de Justicia elegidos de entre los integrantes del Poder Judicial del Estado; un Consejero designado por el Congreso del Estado, y uno designado por el Gobernador del Estado. El Consejero designado por el Congreso del Estado será elegido de la siguiente forma: cada partido político con representación en el Congreso propondrá un candidato; la lista de los candidatos resultante se turnará a la comisión o comisiones que se designen para analizar la satisfacción de los requisitos para ocupar el cargo. La comisión o comisiones presentará al Pleno el informe correspondiente, para que éste elija a un Consejero mediante mayoría de votos de los miembros presentes en la sesión correspondiente. El Consejero designado por el Gobernador del Estado, así como el designado por el Congreso del Estado deberán contar, además de los requisitos establecidos en el párrafo siguiente, con experiencia en el ámbito de la administración de justicia. Asimismo, se deberá equilibrar la integración del Consejo en base al principio de igualdad de género.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+
+El Consejo se integrará por cinco miembros de los cuales, uno será la Presidenta o el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo; dos Consejeras y Consejeros designados por el Pleno del Tribunal Superior de Justicia elegidos de entre los integrantes del Poder Judicial del Estado; una Consejera o Consejero designado por el Congreso del Estado, y uno designado por la Gobernadora o el Gobernador del Estado. La Consejera o el Consejero designado por el Congreso del Estado será elegido de la siguiente forma: cada partido político con representación en el Congreso propondrá una candidata o candidato; la lista de las candidaturas resultante se turnará a la comisión o comisiones que se designen para analizar la satisfacción de los requisitos para ocupar el cargo. La comisión o comisiones presentarán al Pleno el informe correspondiente, para que éste elija a una Consejera o Consejero mediante mayoría de votos de los miembros presentes en la sesión correspondiente. La Consejera o el Consejero designado por la Gobernadora o el Gobernador del Estado, así como el designado por el Congreso del Estado deberán contar, además de los requisitos establecidos en el párrafo siguiente, con experiencia en el ámbito de la administración de justicia. En la integración del Consejo se observará el principio de paridad de género.
 
 Todos los Consejeros deberán reunir los requisitos señalados en el artículo 79 de esta Constitución y ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades.
 
@@ -1707,11 +1731,13 @@ IV. Las demás que establezcan esta Constitución y demás Leyes generales y loc
 
 En el ejercicio de su función jurisdiccional deberán actuar bajo los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 88.
 
-2.- La Autoridad Electoral Jurisdiccional del Estado de Campeche estará conformada por tres Magistrados, los cuales actuarán en forma colegiada y permanecerán en su encargo siete años. Uno de ellos será el Presidente del órgano, el cual será designado bajo las reglas dispuestas por las leyes, general y local, en la materia.
+2.- La Autoridad Electoral Jurisdiccional del Estado de Campeche estará conformada por tres Magistradas y Magistrados, los cuales actuarán en forma colegiada y permanecerán en su encargo siete años. Uno de ellos será la Presidenta o el Presidente del órgano, el cual será designado bajo las reglas dispuestas por las leyes, general y local, en la materia. En la integración de dicho órgano se observará el principio de paridad de género.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2014)</small>
 
 Los Magistrados electorales serán electos por la Cámara de Senadores conforme a los requisitos y reglas de elección establecidas en la Constitución Política de los Estados Unidos Mexicanos así como en la ley general correspondiente.
 
@@ -1891,7 +1917,9 @@ ARTICULO 101 TER.- El Tribunal de Justicia Administrativa del Estado de Campeche
 
 El Tribunal de Justicia Administrativa del Estado de Campeche tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares. Asimismo, será el órgano competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la Ley de la materia determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos estatales o municipales.
 
-El Tribunal de Justicia Administrativa funcionará de conformidad con su Ley Orgánica en la que deberá existir, entre otros, la Sala Especializada en materia de anticorrupción y responsabilidades administrativas. Dicha Ley Orgánica establecerá su organización y funcionamiento y estará conformado por tres Magistrados que serán designados por el Gobernador del Estado y ratificados por el voto de las dos terceras partes de los miembros presentes del H. Congreso del Estado o, en sus recesos, por la Diputación Permanente.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+
+El Tribunal de Justicia Administrativa funcionará de conformidad con su Ley Orgánica en la que deberá existir, entre otros, la Sala Especializada en materia de anticorrupción y responsabilidades administrativas. Dicha Ley Orgánica establecerá su organización y funcionamiento y estará conformado por tres Magistradas y Magistrados que serán designados por la Gobernadora o el Gobernador del Estado y ratificados por el voto de las dos terceras partes de los miembros presentes del H. Congreso del Estado o, en sus recesos, por la Diputación Permanente. En su conformación se observará el principio de paridad de género.
 
 Los Magistrados durarán en su encargo quince años improrrogables y sólo podrán ser removidos de sus cargos por las causas graves que señale la Ley.
 
@@ -1975,15 +2003,17 @@ c) En ningún caso los Ayuntamientos, como cuerpos colegiados, podrán desempeñ
 
 II. Los Municipios del Estado, su denominación y la de sus cabeceras, serán los que señale la Ley de la materia.
 
-Los Ayuntamientos se integrarán con un presidente municipal y con varios miembros más llamados síndicos y regidores. Salvo los Ayuntamientos de los Municipios de Campeche y de Carmen que se integrarán con un Presidente, siete Regidores y dos Síndicos electos por el principio de mayoría relativa, y cuatro Regidores y un Síndico asignados por el principio de representación proporcional, los demás Ayuntamientos se integrarán con un Presidente, cinco Regidores y un Síndico de mayoría relativa y tres Regidores y un Síndico de representación proporcional. Para la asignación de Regidores y Síndicos de representación proporcional se observarán las disposiciones de la Ley Electoral, siempre que el respectivo partido político haya obtenido por lo menos el cuatro por ciento de la votación total emitida en el Municipio correspondiente;
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+
+Los Ayuntamientos se integrarán con una presidenta o presidente municipal y con varios miembros más llamados síndicos y regidores. Salvo los Ayuntamientos de los Municipios de Campeche y de Carmen que se integrarán con una Presidenta o Presidente, siete Regidurías y dos Sindicaturas electos por el principio de mayoría relativa, y cuatro Regidurías y una Sindicatura asignados por el principio de representación proporcional, los demás Ayuntamientos se integrarán con una Presidenta o Presidente, cinco Regidurías y una Sindicatura de mayoría relativa y tres Regidurías y una Sindicatura de representación proporcional, observándose el principio de paridad de género. Para la asignación de Regidurías y Sindicaturas de representación proporcional se observarán las disposiciones de la Ley Electoral, siempre que el respectivo partido político haya obtenido por lo menos el cuatro por ciento de la votación total emitida en el Municipio correspondiente:
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 III.- Los Municipios podrán subdividirse territorialmente en Secciones y Comisarías Municipales. La facultad para crear Secciones y Comisarías corresponderá a la Legislatura del Estado y a los Ayuntamientos, respectivamente;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
-IV.- Cada Sección Municipal será administrada por un cuerpo colegiado, auxiliar del Ayuntamiento denominada Junta Municipal, cuya elección se efectuará el primer domingo de junio de cada tres años, mediante sufragio universal, libre, secreto, directo, personal e intransferible en los términos que disponga la legislación local de la materia, integrado por Presidente, tres Regidores y un Síndico electos por el principio de mayoría relativa y un Regidor asignado por el sistema de representación proporcional, conforme a las disposiciones de la legislación local de la materia, siempre que el respectivo partido político haya obtenido por lo menos el cuatro por ciento de la votación emitida en la Sección Municipal correspondiente; y
+IV.- Cada Sección Municipal será administrada por un cuerpo colegiado, auxiliar del Ayuntamiento denominada Junta Municipal, cuya elección se efectuará el primer domingo de junio de cada tres años, mediante sufragio universal, libre, secreto, directo, personal e intransferible en los términos que disponga la legislación de la materia, integrado por una Presidenta o Presidente, tres Regidurías y una Sindicatura electos por el principio de mayoría relativa y una Regiduría asignada por el sistema de representación proporcional, observándose el principio de paridad de género y conforme a las disposiciones de la legislación local de la materia, siempre que el respectivo partido haya obtenido por lo menos el cuatro por ciento de la votación emitida en la Sección Municipal correspondiente; y
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
@@ -2345,7 +2375,9 @@ El Estado y los municipios, en ejercicio de la función de seguridad pública en
 
 En el Estado de Campeche se contará con un organismo autónomo, especializado, imparcial y colegiado, responsable de garantizar el derecho de acceso a la información y de protección de datos personales en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en los ámbitos estatal y municipal.
 
-El organismo garante del derecho de acceso a la información y de protección de datos personales estará integrado por tres miembros, denominados Comisionados, mismos que serán nombrados por el Congreso del Estado por un período de seis años, sin posibilidad de reelegirse. En la designación de los Comisionados se procurará la igualdad de género.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+
+El organismo garante del derecho de acceso a la información y de protección de datos personales estará integrado por tres miembros, denominados Comisionadas y Comisionados, mismos que serán nombrados por el Congreso del Estado por un período de seis años, sin posibilidad de reelegirse. En la designación de las Comisionadas y Comisionados se observará el principio de paridad de género.
 
 En su funcionamiento, el organismo garante del derecho de acceso a la información y de protección de datos personales se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
 
@@ -3192,3 +3224,15 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- En un plazo máximo de 180 días contados a partir de la entrada en vigor del presente decreto se expedirá la Ley de las Asociaciones Público-Privadas del Estado de Campeche.
 
 TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas de igual o menor jerarquía del marco jurídico estatal en lo que se opongan al presente decreto.
+
+P.O. 18 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 167 POR EL QUE "SE REFORMAN LAS FRACCIONES III Y VII DEL PÁRRAFO DÉCIMO DEL ARTÍCULO 7°; LAS FRACCIONES I, V, VI Y LOS PÁRRAFOS SEGUNDO Y TERCERO DE LA FRACCIÓN VII DEL ARTÍCULO 24; EL PÁRRAFO PRIMERO DEL ARTÍCULO 31; EL ARTÍCULO 59; LAS FRACCIONES II Y VI DEL ARTÍCULO 71; EL ARTÍCULO 72; EL PÁRRAFO PRIMERO DEL ARTÍCULO 77; EL PÁRRAFO PRIMERO DEL ARTÍCULO 78; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 78 BIS; EL PÁRRAFO PRIMERO DEL ARTÍCULO 88.2; EL PÁRRAFO TERCERO DEL ARTÍCULO 101 TER; EL PÁRRAFO SEGUNDO DE LA FRACCIÓN II Y LA FRACCIÓN IV DEL ARTÍCULO 102; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 125 BIS, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Congreso del Estado de Campeche, deberá adecuar la legislación secundaria correspondiente en un plazo de 180 días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- La observancia del principio de paridad de género a que se refiere este decreto, será aplicable a quienes tomen posesión de su encargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
