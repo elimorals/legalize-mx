@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-2000
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-09"
-last_updated: "2020-01-22"
+last_updated: "2021-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 9 de febrero de 2001.
 
@@ -105,11 +105,11 @@ IX. Las inconformidades y las quejas, que se ejerzan en contra de los actos deri
 
 X. La automatización y simplificación de los procesos administrativos e informáticos y sus operaciones, para hacer más ágil y eficaz el actuar de la Administración Pública Estatal y la Municipal, en los rubros contenidos en las fracciones anteriores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 3.
 
-La aplicación de esta Ley corresponde, en sus respectivas competencias y jurisdicciones, al Gobernador del Estado, a través de la Secretaría de Finanzas y Administración y la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, y a los Ayuntamientos, a través de los Presidentes Municipales, las Contralorías Municipales y las áreas encargadas de los servicios administrativos de cada Gobierno Municipal; lo anterior sin perjuicio de las atribuciones que esta Ley confiera de manera específica a otras dependencias y entidades.
+La aplicación de esta Ley corresponde, en sus respectivas competencias y jurisdicciones, al Gobernador del Estado, a través de la Secretaría de Administración y la Secretaría de la Función Pública, y a los Ayuntamientos, a través de los Presidentes Municipales, las Contralorías Municipales y las áreas encargadas de los servicios administrativos de cada Gobierno Municipal; lo anterior sin perjuicio de las atribuciones que esta Ley confiera de manera específica a otras dependencias y entidades.
 
 Las instancias mencionadas expresamente en el párrafo anterior emitirán, bajo su responsabilidad y de conformidad con este mismo ordenamiento, las políticas, bases y lineamientos para las materias a que se refiere el artículo anterior.
 
@@ -173,13 +173,13 @@ XX. Proyecto para prestación de servicios a largo plazo: aquél en que un Prove
 
 Para efectos de esta fracción, se entenderá como largo plazo, un periodo no menor a tres años ni mayor a treinta años;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
-XXI. Secretaría: la Secretaría de Finanzas y Administración;
+XXI. Secretaría: la Secretaría de Administración;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
-XXII. SEDECAP: la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública; y
+XXII. Secretarías: la Secretaría de Administración y la Secretaría de la Función Pública;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -229,13 +229,15 @@ En aquellos casos en que los convenios no señalen a la instancia encargada de l
 
 Las autoridades y órganos previstos en la fracción I del artículo 2 de la presente Ley, se abstendrán de crear fideicomisos, otorgar mandatos o celebrar actos o cualquier tipo de convenios, contratos o pedidos, para evadir lo previsto en este ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 10.
 
-La ejecución de esta Ley será sin perjuicio de lo dispuesto en los tratados, mientras que las controversias que se susciten con motivo de la interpretación o aplicación de sus disposiciones o de los convenios, contratos y pedidos celebrados con base en ella, serán resueltas por los tribunales estatales, independientemente de que la SEDECAP y las Contralorías Municipales podrán conocer en el ámbito administrativo de las inconformidades que presenten los particulares en relación con los procedimientos de contratación, o bien, de las quejas sobre el incumplimiento de lo pactado en los instrumentos respectivos, dentro del procedimiento de conciliación que la presente Ley prevé.
+La ejecución de esta Ley será sin perjuicio de lo dispuesto en los tratados, mientras que las controversias que se susciten con motivo de la interpretación o aplicación de sus disposiciones o de los convenios, contratos y pedidos celebrados con base en ella, serán resueltas por los tribunales estatales, independientemente de que la Secretaría de la Función Pública y las Contralorías Municipales podrán conocer en el ámbito administrativo de las inconformidades que presenten los particulares en relación con los procedimientos de contratación, o bien, de las quejas sobre el incumplimiento de lo pactado en los instrumentos respectivos, dentro del procedimiento de conciliación que la presente Ley prevé.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
-Sólo podrá convenirse compromiso arbitral respecto de aquellas controversias que determinen la SEDECAP o las Contralorías Municipales mediante reglas de carácter general, previa opinión de la Secretaría o de los Comités Municipales según corresponda; situación que en su caso deberá regularse en cláusula compromisoria incluida en el contrato o mediante convenio independiente.
+Sólo podrá convenirse compromiso arbitral respecto de aquéllas controversias que determinen la Secretaría de la Función Pública o las Contralorías Municipales mediante reglas de carácter general, previa opinión de la Secretaría o de los Comités Municipales según corresponda; situación que en su caso deberá regularse en cláusula compromisoria incluida en el contrato o mediante convenio independiente.
 
 Lo dispuesto por este artículo se aplicará a las entidades paraestatales y paramunicipales, excepto si sus ordenamientos de creación regulan de manera expresa la forma en que podrán resolver sus controversias.
 
@@ -249,11 +251,11 @@ Los contratos, convenios y pedidos que se celebren en el extranjero respecto de 
 
 Cuando los bienes o servicios hubieren de ser utilizados, arrendados o prestados en la extensión territorial del Estado o en alguna otra parte de la República, su procedimiento y los contratos que deriven de ellos deberán realizarse dentro del territorio estatal y regirse por lo que esta Ley dispone, sin importar su procedencia ni la del proveedor.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 13.
 
-La Secretaría, la SEDECAP, los Ayuntamientos, los Comités Municipales y las Contralorías Municipales, en el ámbito de sus respectivas competencias, quedan facultados para interpretar las disposiciones contenidas en esta Ley para efectos administrativos y dictar las políticas, bases, lineamientos y demás disposiciones administrativas para su adecuada aplicación.
+Las Secretarías, los Ayuntamientos, los Comités Municipales y las Contralorías Municipales, en el ámbito de sus respectivas competencias, quedan facultados para interpretar las disposiciones contenidas en esta Ley para efectos administrativos y dictar las políticas, bases, lineamientos y demás disposiciones administrativas para su adecuada aplicación.
 
 ###### ARTÍCULO 14.
 
@@ -317,7 +319,9 @@ h) Presentar manifestación escrita bajo protesta de decir verdad que se abstend
 
 IV. Los testigos sociales tendrán las funciones siguientes:
 
-a) Proponer a las dependencias, entidades, a la Secretaría de la Contraloría o en su caso a la Contraloría Municipal mejoras para fortalecer la transparencia, imparcialidad y las disposiciones legales en materia de adquisiciones, arrendamientos y servicios;
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+
+a) Proponer a las dependencias, entidades, a la Secretaría de la Función Pública o en su caso a la Contraloría Municipal mejoras para fortalecer la transparencia, imparcialidad y las disposiciones legales en materia de adquisiciones, arrendamientos y servicios;
 
 b) Dar seguimiento al establecimiento de las acciones que se recomendaron derivadas de su participación en las contrataciones, y
 
@@ -335,11 +339,11 @@ SECCIÓN DOS: EXCEPCIONES AL PROCEDIMIENTO DE LICITACIÓN PÚBLICA
 
 En los supuestos que de manera excepcional prevé esta Sección, las dependencias y las entidades, bajo la responsabilidad de sus titulares y con sujeción a las formalidades que los mismos preceptos establecen, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos mediante los procedimientos de excepción que establecen las fracciones II, III y IV del artículo 15 de la presente Ley.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 18.
 
-La Secretaría, los Comités Municipales, la SEDECAP, los Ayuntamientos y las Contralorías Municipales, en el ámbito de su competencia, podrán contratar asesoría técnica para la realización de investigaciones de mercado, el mejoramiento del sistema de adquisiciones, arrendamientos y servicios, la verificación de precios, la ejecución de pruebas de calidad y otras actividades vinculadas con el objeto de esta Ley. Dicha contratación podrá realizarse mediante alguno de los procedimientos de excepción a la licitación pública, bajo la responsabilidad del contratante.
+Las Secretarías, los Comités Municipales, los Ayuntamientos y las Contralorías Municipales, en el ámbito de su competencia, podrán contratar asesoría técnica para la realización de investigaciones de mercado, el mejoramiento del sistema de adquisiciones, arrendamientos y servicios, la verificación de precios, la ejecución de pruebas de calidad y otras actividades vinculadas con el objeto de esta Ley. Dicha contratación podrá realizarse mediante alguno de los procedimientos de excepción a la licitación pública, bajo la responsabilidad del contratante.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2013)</small>
 
@@ -347,7 +351,9 @@ La Secretaría, los Comités Municipales, la SEDECAP, los Ayuntamientos y las Co
 
 Cuando por la urgencia, en caso de desastres naturales o por la especialización de bienes o servicios distintos de los previstos en el artículo anterior, sea necesaria su pronta contratación, bajo su responsabilidad, el Presidente Municipal o el Titular de la Dependencia o Entidad de que se trate, podrán adjudicar y contratar directamente, atendiendo conforme a la presente Ley, y la relativa a responsabilidades de los servidores públicos, las disposiciones de austeridad, racionalidad, disciplina presupuestal, eficiencia y eficacia que se establezcan en los respectivos presupuestos. La facultad a que se refiere este artículo no podrá ser delegada a ningún funcionario de la Dependencia, Entidad o Ayuntamiento de que se trate, salvo al Titular del área administrativa o sus equivalentes.
 
-Para los casos de excepción a que se refiere este artículo, el funcionario de la Dependencia o Entidad de la Administración Pública Estatal de que se trate y que haya adjudicado y contratado directamente, deberá enviar notificación debidamente justificada a la SEDECAP o la Contraloría Municipal según sea el caso.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+
+Para los casos de excepción a que se refiere este artículo, el funcionario de la Dependencia o Entidad de la Administración Pública Estatal de que se trate y que haya adjudicado y contratado directamente, deberá enviar notificación debidamente justificada a la Secretaría de la Función Pública o la Contraloría Municipal según sea el caso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -429,17 +435,17 @@ No estarán dentro del ámbito de aplicación de esta Ley, los convenios, contra
 
 ### CAPÍTULO III. PADRÓN DE PROVEEDORES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 24.
 
-La SEDECAP, a través del área competente de acuerdo con su Reglamento Interior, será responsable de establecer y mantener actualizado el Padrón y de clasificar a las personas inscritas en él, de acuerdo con su actividad, capacidad técnica y su ubicación.
+La Secretaría de la Función Pública, a través del área competente de acuerdo con su Reglamento Interior, será responsable de establecer y mantener actualizado el Padrón y de clasificar a las personas inscritas en él, de acuerdo con su actividad, capacidad técnica y su ubicación.
 
 Este Padrón tiene por objeto facilitar a la Administración Pública Estatal la información completa, confiable y oportuna, sobre las personas con capacidad de proporcionar bienes o prestar servicios, en la cantidad, calidad y oportunidad que se requiera, así como las condiciones de oferta, para obtener las mejores condiciones de contratación.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
-Para efectos del párrafo anterior, las personas inscritas en el Padrón deberán comunicar a la SEDECAP las modificaciones relativas a datos generales, capacidad técnica o económica, o en su actividad, cuando tales circunstancias puedan implicar cambios que afecten su clasificación o localización.
+Para efectos del párrafo anterior, las personas inscritas en el Padrón deberán comunicar a La Secretaría de la Función Pública las modificaciones relativas a datos generales, capacidad técnica o económica, o en su actividad, cuando tales circunstancias puedan implicar cambios que afecten su clasificación o localización.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -461,13 +467,13 @@ II. Exhibir copia del Registro Federal de Contribuyentes, la Clave Única del Re
 
 III. Proporcionar la información y documentación necesaria, para acreditar su especialidad, experiencia y capacidad técnica y financiera.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 27.
 
-La SEDECAP, dentro de un término que no excederá de quince días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción en el Padrón, actualización de datos o la modificación o ampliación de la clasificación. Transcurrido este plazo sin que haya respuesta, se tendrá por inscrito al solicitante o por hecha la actualización, modificación, ampliación, renovación o refrendo respectivo. En caso de negativa, ésta será debidamente fundada y motivada.
+La Secretaría de la Función Pública, dentro de un término que no excederá de quince días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción en el Padrón, actualización de datos o la modificación o ampliación de la clasificación. Transcurrido este plazo sin que haya respuesta, se tendrá por inscrito al solicitante o por hecha la actualización, modificación, ampliación, renovación o refrendo respectivo. En caso de negativa, ésta será debidamente fundada y motivada.
 
-Si la solicitud fuese confusa o incompleta, la SEDECAP podrá solicitar, dentro del término de cinco días hábiles siguientes a su recepción, que se aclare o se complemente y si el proveedor no presentare la información requerida dentro del plazo que se le conceda, que podrá ser hasta de diez días hábiles, se tendrá por no presentada la solicitud.
+Si la solicitud fuese confusa o incompleta, la Secretaría de la Función Pública podrá solicitar, dentro del término de cinco días hábiles siguientes a su recepción, que se aclare o se complemente y si el proveedor no presentare la información requerida dentro del plazo que se le conceda, que podrá ser hasta de diez días hábiles, se tendrá por no presentada la solicitud.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -475,11 +481,11 @@ Si la solicitud fuese confusa o incompleta, la SEDECAP podrá solicitar, dentro 
 
 El registro y su revalidación en el Padrón de Proveedores, tendrá el costo que señale la Ley de Ingresos del Estado del Ejercicio Fiscal correspondiente, cuya vigencia será de un año a partir de la inscripción. Los proveedores, para revalidar su registro, deberán de presentar su solicitud dentro de los veinte días hábiles anteriores al vencimiento; si omiten presentar la solicitud en el plazo indicado, se cancelará el registro a su vencimiento, sin perjuicio de que puedan formular nueva solicitud para obtener otro.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 29.
 
-La SEDECAP estará facultada para suspender el registro a algún proveedor, hasta por el término de veinticuatro meses, cuando:
+La Secretaría de la Función Pública estará facultada para suspender el registro a algún proveedor, hasta por el término de veinticuatro meses, cuando:
 
 I. No se entreguen los bienes, ni preste los servicios en las condiciones pactadas;
 
@@ -491,29 +497,29 @@ II. Se nieguen a sustituir las mercancías o servicios que no reúnan los requis
 
 III. Se retrase en forma reiterada en la entrega de los bienes y servicios por causas imputables a él;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
-IV. Se negare a dar facilidades necesarias para que la SEDECAP o los organismos e instituciones facultadas para ello conforme a la presente Ley, ejerzan sus funciones de verificación, inspección y vigilancia; y
+IV. Se negare a dar facilidades necesarias para que la Secretaría de la Función Pública o los organismos e instituciones facultadas para ello conforme a la presente Ley, ejerzan sus funciones de verificación, inspección y vigilancia; y
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
-V.- A juicio de la SEDECAP y con base en circunstancias debidamente fundadas y motivadas, así se recomiende.
+V. A juicio de la Secretaría de la Función Pública y con base en circunstancias debidamente fundadas y motivadas, así se recomiende.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
-Cuando desaparezcan las causas que hubieren motivado la suspensión del registro, el proveedor lo acreditará ante la SEDECAP, el que dispondrá lo conducente a efecto de que el registro del interesado vuelva a surtir todos sus efectos legales.
+Cuando desaparezcan las causas que hubieren motivado la suspensión del registro, el proveedor lo acreditará ante la Secretaría de la Función Pública, el que dispondrá lo conducente a efecto de que el registro del interesado vuelva a surtir todos sus efectos legales
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 30.
 
-La SEDECAP podrá eximir de la obligación de inscribirse en el Padrón a las personas físicas o morales que provean artículos perecederos, granos, productos alimenticios básicos o semiprocesados, o cuando se trate de campesinos, comuneros o grupos urbanos vulnerables y en los casos de adquisiciones extraordinarias en los supuestos que esta misma Ley establece.
+La Secretaría de la Función Pública podrá eximir de la obligación de inscribirse en el Padrón a las personas físicas o morales que provean artículos perecederos, granos, productos alimenticios básicos o semiprocesados, o cuando se trate de campesinos, comuneros o grupos urbanos vulnerables y en los casos de adquisiciones extraordinarias en los supuestos que esta misma Ley establece.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 31.
 
-La SEDECAP, cancelará el registro del proveedor cuando:
+La Secretaría de la Función Pública, cancelará el registro del proveedor cuando:
 
 I. La información que hubiere proporcionado para la inscripción resultare falsa, o haya actuado con dolo o mala fe en algún procedimiento de adjudicación o contratación, incluido el cumplimiento del contrato o pedido;
 
@@ -533,7 +539,9 @@ VIII. No se presente a formalizar el pedido o contrato o incumpla con éste, des
 
 IX. Deje de reunir los requisitos necesarios para estar inscrito en el Padrón; y
 
-X. A juicio de la SEDECAP y en base a circunstancias debidamente fundadas y motivadas, ésta así lo proponga y comunique;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+X. A juicio de la Secretaría de la Función Pública y en base a circunstancias debidamente fundadas y motivadas, ésta así lo proponga y comunique;
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2002)</small>
 
@@ -675,11 +683,13 @@ XII. Comunicar a la Secretaría o al Comité Municipal, la recepción de bienes 
 
 XIII. Comunicar oportunamente a la Secretaría de los cambios en la planeación a la que se refiere el artículo 56.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 46.
 
-De acuerdo con el artículo 13 de esta Ley, la Secretaría, la SEDECAP, los Ayuntamientos, los Comités Municipales y las Contralorías Municipales, en el ámbito de sus respectivas competencias, podrán dictar, de oficio o con base en las consultas o asuntos planteados y con el carácter de criterios, las disposiciones administrativas que se requieran para el adecuado cumplimiento de esta Ley.
+De acuerdo con el artículo 13 de esta Ley, las Secretarías, los Ayuntamientos, los Comités Municipales y las Contralorías Municipales, en el ámbito de sus respectivas competencias, podrán dictar, de oficio o con base en las consultas o asuntos planteados y con el carácter de criterios, las disposiciones administrativas que se requieran para el adecuado cumplimiento de esta Ley.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
 En relación con los programas que tengan por objeto promover la participación de las empresas locales, especialmente de las micro, pequeñas y medianas, la Secretaría y los Comités Municipales dictarán las reglas que se deban observar en los procedimientos materia de esta Ley y determinarán, en su caso, los bienes y servicios de uso generalizado que, en forma consolidada, podrá adquirir, arrendar o contratar el sector público, con objeto de ejercer el poder de compra gubernamental, obtener las mejores condiciones en cuanto a calidad, precio y oportunidad, y apoyar en condiciones de competencia a las áreas prioritarias del desarrollo estatal y municipal.
 
@@ -725,9 +735,11 @@ Las dependencias y entidades o los Ayuntamientos, en su caso, previamente al arr
 
 ARTÍCULO 49 BIS.- Para determinar la conveniencia de la adquisición de bienes muebles usados o reconstruidos, la Secretaría o el Comité Municipal respectivo deberán realizar un estudio de costo beneficio, con el que se demuestre la conveniencia de su adquisición comparativamente con bienes nuevos; el citado estudio deberá efectuarse mediante avalúo conforme a las disposiciones aplicables, expedido dentro de los seis meses previos, cuando el bien tenga un valor superior del equivalente a la cantidad de cien mil veces el valor diario de la Unidad de Medida y Actualización, el cual deberá integrarse al expediente de la contratación respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 50.
 
-Las dependencias, entidades o los Ayuntamientos, en su caso, no podrán financiar a proveedores la adquisición o arrendamiento de bienes o la prestación de servicios, cuando éstos vayan a ser objeto de contratación por parte de las propias dependencias o entidades, salvo que, de manera excepcional y por tratarse de proyectos de infraestructura, se obtenga la autorización previa y específica de la Secretaría y de la SEDECAP, en el ámbito estatal, o de la Tesorería y la Contraloría Municipal, en este ámbito. No se considerará como operación de financiamiento, el otorgamiento de anticipos, los cuales, en todo caso, no podrán exceder el cincuenta por ciento del monto total y deberán garantizarse en los términos del artículo 126 de esta Ley.
+Las dependencias o entidades o los Ayuntamientos, en su caso, no podrán financiar a proveedores la adquisición o arrendamiento de bienes o la prestación de servicios, cuando éstos vayan a ser objeto de contratación por parte de las propias dependencias o entidades, salvo que, de manera excepcional y por tratarse de proyectos de infraestructura, se obtenga la autorización previa y específica de las Secretarías, en el ámbito estatal, o de la Tesorería y la Contraloría Municipal, en este ámbito. No se considerará como operación de financiamiento, el otorgamiento de anticipos, los cuales, en todo caso, no podrán exceder el cincuenta por ciento del monto total y deberán garantizarse en los términos del artículo 126 de esta Ley.
 
 Tratándose de bienes cuyo proceso de fabricación sea superior a 90 días, la contratante deberá otorgar por lo menos el veinte por ciento de anticipo, salvo la existencia de causas que impidan a la adquiriente hacerlo.
 
@@ -741,7 +753,9 @@ En los contratos para la instrumentación de proyectos para prestación de servi
 
 Los Comités Municipales, las dependencias y las entidades, en los supuestos que ordenen las leyes, informarán a la Secretaría o la instancia competente, según sea el caso, de los bienes muebles que adquieran o con que cuenten, para que sean dados de alta en el padrón respectivo y se contraten los servicios correspondientes para mantener adecuada y satisfactoriamente asegurados dichos bienes, y para efectos de contabilidad patrimonial remitirán la documentación que determine la Secretaría.
 
-No será necesario asegurar los bienes muebles, cuando por razón de su naturaleza o el tipo de riesgos a los que están expuestos, el costo de aseguramiento represente una erogación que no guarde relación directa con el beneficio que pudiera obtenerse. La SEDECAP o las Contralorías Municipales autorizarán previamente la aplicación de esta excepción.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+
+No será necesario asegurar los bienes muebles, cuando por razón de su naturaleza o el tipo de riesgos a los que están expuestos, el costo de aseguramiento represente una erogación que no guarde relación directa con el beneficio que pudiera obtenerse. La Secretaría de la Función Pública o las Contralorías Municipales autorizarán previamente la aplicación de esta excepción.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
 
@@ -783,7 +797,9 @@ IV. Los programas sustantivos, de apoyo administrativo y de inversiones, así co
 
 V. La existencia en cantidad y calidad suficiente de los bienes, los plazos estimados de suministro, los avances tecnológicos incorporados en los bienes y, en su caso, los planos, proyectos y especificaciones;
 
-VI. Las normas aplicables conforme a la Ley Federal sobre Metrología y Normalización o, a falta de éstas, las normas internacionales;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+VI. Las normas aplicables conforme a la Ley de Infraestructura de la Calidad o, a falta de éstas, las normas internacionales;
 
 VII. Preferentemente, la utilización de bienes o servicios de procedencia nacional, así como aquéllos propios de la región, y la inclusión de insumos, material, equipo, sistemas y servicios que tengan incorporada tecnología nacional, tomando en cuenta los requerimientos técnicos y económicos de las adquisiciones o pedidos a realizarse en el Estado, en el país o en el extranjero;
 
@@ -825,11 +841,11 @@ La presupuestación y el gasto para las adquisiciones, arrendamientos y servicio
 
 ### CAPÍTULO III. DE LOS ALMACENES
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 61.
 
-La clasificación de los bienes muebles adquiridos por el sector público, la organización de los sistemas de inventarios y el manejo de almacenes, así como las bajas, desincorporación o destino final de bienes muebles a que se refiere esta Ley, se regirán por la Ley General de Bienes del Estado y las disposiciones administrativas que de acuerdo con esta Ley formulen la SEDECAP y la Secretaría, en el ámbito estatal, o los Presidentes Municipales, las Contralorías Municipales y los Comités Municipales, en este ámbito; sin perjuicio de las facultades de verificación que este ordenamiento y las demás disposiciones vigentes les confieren.
+La clasificación de los bienes muebles adquiridos por el sector público, la organización de los sistemas de inventarios y el manejo de almacenes, así como las bajas, desincorporación o destino final de bienes muebles a que se refiere esta Ley, se regirán por la Ley General de Bienes del Estado y las disposiciones administrativas que de acuerdo con esta Ley formulen las Secretarías, en el ámbito estatal, o los Presidentes Municipales, las Contralorías Municipales y los Comités Municipales, en este ámbito; sin perjuicio de las facultades de verificación que este ordenamiento y las demás disposiciones vigentes les confieren.
 
 ###### ARTÍCULO 62.
 
@@ -861,11 +877,11 @@ c) Cuando habiéndose realizado una licitación de carácter nacional, no se pre
 
 d) Cuando así se estipule para las contrataciones financiadas con créditos otorgados conforme a las disposiciones vigentes.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 64.
 
-Respecto de los procedimientos de adjudicación de carácter nacional, la Secretaría y los Comités Municipales, en su ámbito de competencia y mediante reglas de carácter general, establecerán los casos de excepción correspondientes a los requisitos que establece la fracción I del artículo anterior, así como un procedimiento expedito para determinar el grado de contenido nacional de los bienes que se oferten, para lo cual tomará en cuenta la opinión de la Secretaría de Desarrollo Económico, la SEDECAP y la Contraloría Municipal, en su caso. La Secretaría y los Comités Municipales, de oficio o a solicitud de la SEDECAP o la Contraloría Municipal, podrán realizar visitas para verificar que los bienes cumplen con los requisitos señalados.
+Respecto de los procedimientos de adjudicación de carácter nacional, la Secretaría y los Comités Municipales, en su ámbito de competencia y mediante reglas de carácter general, establecerán los casos de excepción correspondientes a los requisitos que establece la fracción I del artículo anterior, así como un procedimiento expedito para determinar el grado de contenido nacional de los bienes que se oferten, para lo cual tomará en cuenta la opinión de la Secretaría de Economía, la Secretaría de la Función Pública y la Contraloría Municipal, en su caso. La Secretaría y los Comités Municipales, de oficio o a solicitud de la Secretaría de la Función Pública o la Contraloría Municipal, podrán realizar visitas para verificar que los bienes cumplen con los requisitos señalados.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -875,11 +891,11 @@ En relación con los procedimientos de adjudicación de carácter internacional,
 
 Podrá negarse la participación a extranjeros en procedimientos de adjudicación internacionales, cuando con el país del cual sean nacionales no se tenga celebrado un tratado y ese país no conceda un trato recíproco a los licitantes, proveedores, bienes o servicios mexicanos.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 66.
 
-La Secretaría y los Comités Municipales, tomando en cuenta la opinión de la Secretaría de Desarrollo Económico, de la SEDECAP y de la Contraloría Municipal respectiva, determinará de acuerdo con lo establecido en el artículo 63 de esta Ley, el carácter nacional o internacional de los procedimientos de adjudicación y contratación, así como los criterios para determinar el contenido nacional de los bienes a ofertar, en razón de las reservas, medidas de transición u otros supuestos establecidos en los tratados.
+La Secretaría y los Comités Municipales, tomando en cuenta la opinión de la Secretaría de Economía, la Secretaría de la Función Pública y de la Contraloría Municipal respectiva, determinará de acuerdo con lo establecido en el artículo 63 de esta Ley, el carácter nacional o internacional de los procedimientos de adjudicación y contratación, así como los criterios para determinar el contenido nacional de los bienes a ofertar, en razón de las reservas, medidas de transición u otros supuestos establecidos en los tratados.
 
 SECCIÓN DOS: DE LOS MONTOS MÁXIMOS Y MÍNIMOS PARA ADJUDICAR
 
@@ -987,9 +1003,11 @@ En el caso de las proposiciones presentadas por medios remotos de comunicación 
 
 Las proposiciones presentadas deberán ser firmadas autógrafamente por los licitantes o sus apoderados; pero en el caso de que éstas sean enviadas a través de medios remotos de comunicación electrónica, se emplearán medios de identificación electrónica, los cuales producirán los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio para efectos de esta Ley.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 76.
 
-La SEDECAP y las Contralorías Municipales, en su caso, establecerán el sistema de certificación de los medios de identificación electrónica que utilicen los licitantes, y serán responsables de ejercer el control de estos medios, salvaguardando en todo momento la confidencialidad de la información que se remita por esta vía.
+La Secretaría de la Función Pública y las Contralorías Municipales, en su caso, establecerán el sistema de certificación de los medios de identificación electrónica que utilicen los licitantes, y serán responsables de ejercer el control de estos medios, salvaguardando en todo momento la confidencialidad de la información que se remita por esta vía.
 
 SECCIÓN CINCO: DE LOS IMPEDIMENTOS
 
@@ -1005,9 +1023,9 @@ II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o 
 
 III. Aquellos proveedores que, por causas imputables a ellos mismos, la contratante les hubiere rescindido administrativamente más de un contrato, dentro de un lapso de dos años calendario contados a partir de la notificación de la primera rescisión, impedimento que prevalecerá ante todas las dependencias o entidades estatales y municipales durante dos años calendario contados a partir de la notificación de la rescisión del segundo contrato;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
-IV.- Las que se encuentren inhabilitadas por resolución de la SEDECAP, los Comités Municipales o la Contraloría Municipal, en los términos de este ordenamiento o de la Ley de Obra Pública y Servicios Relacionados con la Misma para el Estado de Puebla; o su inscripción en el Padrón de Proveedores se encuentre suspendido o cancelado;
+IV. Las que se encuentren inhabilitadas por resolución de la Secretaría de la Función Pública, los Comités Municipales o la Contraloría Municipal, en los términos de este ordenamiento o de la Ley de Obra Pública y Servicios Relacionados con la Misma para el Estado de Puebla; o su inscripción en el Padrón de Proveedores se encuentre suspendido o cancelado;
 
 V. Los proveedores que se encuentren en situación de atraso en las entregas de los bienes o en la prestación de los servicios, por causas imputables a ellos mismos, respecto de otro u otros contratos celebrados con la misma Administración Pública Estatal o Municipal, siempre y cuando éstas hayan resultado gravemente perjudicadas;
 
@@ -1355,9 +1373,9 @@ SECCIÓN DOS: CONCURSO POR INVITACIÓN
 
 El concurso por Invitación, sólo podrá ser realizado por la Secretaría, por el Comité Municipal o, a falta de éste, por la instancia competente a nivel municipal, debiendo sujetarse a lo siguiente:
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
-I.- El acto de presentación y apertura de proposiciones se llevará a cabo en dos etapas, para lo cual la apertura de los sobres podrá hacerse sin la presencia de los correspondientes licitantes, pero invariablemente se invitará a un representante de la dependencia o entidad interesada y al Delegado de la SEDECAP en la Secretaría o al Comisario del Comité Municipal o al Contralor Municipal, en su caso;
+I. El acto de presentación y apertura de proposiciones se llevará a cabo en dos etapas, para lo cual la apertura de los sobres podrá hacerse sin la presencia de los correspondientes licitantes, pero invariablemente se invitará a un representante de la dependencia o entidad interesada y un delegado de la Secretaría de la Función Pública o el Comisario del Comité Municipal en su caso;
 
 II. Para llevar a cabo la adjudicación correspondiente, se deberá contar con un mínimo de tres propuestas susceptibles de analizarse técnicamente;
 
@@ -1615,7 +1633,9 @@ III. Transcurrido el término a que se refiere la fracción anterior, haya o no 
 
 IV. La determinación de dar o no por rescindido el contrato deberá ser comunicada en forma personal al proveedor, en el domicilio que haya señalado o, a falta de éste, en el que hubiere señalado en el contrato, dentro de los cinco días hábiles siguientes a la fecha en que se hubiere emitido la resolución; y
 
-V. Cumplida la notificación, se deberá remitir copia de la resolución a la SEDECAP o a la Contraloría Municipal, según el caso, mediante un informe en el que se establezca los motivos que se tuvieron para resolver en la forma en que se hubiere hecho.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+V. Cumplida la notificación, se deberá remitir copia de la resolución a la Secretaría de la Función Pública o a la Contraloría Municipal, según el caso, mediante un informe en el que se establezca los motivos que se tuvieron para resolver en la forma en que se hubiere hecho.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -1997,13 +2017,13 @@ La Secretaría y los Comités Municipales, adjudicarán los contratos para la in
 
 ### CAPÍTULO I. INFORMACIÓN Y VERIFICACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 131.
 
-La Secretaría, el Comité Municipal, la SEDECAP, el Ayuntamiento o la Contraloría Municipal, según corresponda, establecerán la forma y términos en que las dependencias y entidades deberán remitirles la información relativa a los actos y contratos materia de esta Ley, en el ámbito de sus respectivas atribuciones.
+Las Secretarías, el Comité Municipal, el Ayuntamiento o la Contraloría Municipal, según corresponda, establecerán la forma y términos en que las dependencias y entidades deberán remitirles la información relativa a los actos y contratos materia de esta Ley, en el ámbito de sus respectivas atribuciones.
 
-La información a que se refiere este artículo deberá remitirse por las dependencias, entidades o Ayuntamientos, a la SEDECAP o Contraloría Municipal, según corresponda, preferentemente a través de medios magnéticos o remotos de comunicación electrónica, dependiendo de la naturaleza de los datos y conforme a las disposiciones administrativas que para tal efecto establezcan la propia SEDECAP o Contraloría Municipal.
+La información a que se refiere este artículo deberá remitirse por las dependencias, entidades o Ayuntamientos, a la Secretaría de la Función Pública o Contraloría Municipal, según corresponda, preferentemente a través de medios magnéticos o remotos de comunicación electrónica, dependiendo de la naturaleza de los datos y conforme a las disposiciones administrativas que para tal efecto establezcan la propia Secretaría de la Función Pública o Contraloría Municipal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -2015,41 +2035,43 @@ Las dependencias, entidades o Ayuntamientos conservarán en forma ordenada y sis
 
 Tratándose de los archivos de la Secretaría, de los Comités Municipales y del área general de servicios administrativos o unidad encargada de llevar a cabo los procedimientos de adquisiciones en el ámbito municipal, los expedientes y documentación arriba señalados deberán conservarse por un lapso no menor de cinco años, contados a partir de la fecha de su recepción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 133.
 
-La SEDECAP, la Secretaría, las Contralorías Municipales y los Comités Municipales, en el ejercicio de sus facultades, podrán verificar, en cualquier tiempo, que las adquisiciones, arrendamientos y servicios se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables. Si dichas autoridades determinan la nulidad total del procedimiento de contratación por causas imputables a la adjudicante, la dependencia o entidad respectiva reembolsará a los licitantes los gastos en que hubieran incurrido relativos a la compra de bases, siempre que estén debidamente comprobados, debiendo ajustarse a las directrices que para solventar este tipo de asuntos establezcan la SEDECAP o las Contralorías Municipales.
+Las Secretarías, las Contralorías Municipales y los Comités Municipales, en el ejercicio de sus facultades, podrán verificar, en cualquier tiempo, que las adquisiciones, arrendamientos y servicios se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables. Si dichas autoridades determinan la nulidad total del procedimiento de contratación por causas imputables a la adjudicante, la dependencia o entidad respectiva rembolsará a los licitantes los gastos en que hubieran incurrido relativos a la compra de bases, siempre que estén debidamente comprobados, debiendo ajustarse a las directrices que para solventar este tipo de asuntos establezcan la Secretaría de la Función Pública o las Contralorías Municipales.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
-La SEDECAP, la Secretaría, las Contralorías Municipales y los Comités Municipales, en el ámbito de sus respectivas competencias, podrán realizar las visitas e inspecciones que estimen pertinentes a las adjudicantes e igualmente podrán solicitar a los servidores públicos de las mismas, los licitantes y los proveedores, todos los datos e informes relacionados con los actos de que se trate.
+Las Secretarías, las Contralorías Municipales y los Comités Municipales, en el ámbito de sus respectivas competencias, podrán realizar las visitas e inspecciones que estimen pertinentes a las adjudicantes e igualmente podrán solicitar a los servidores públicos de las mismas, los licitantes y los proveedores, todos los datos e informes relacionados con los actos de que se trate.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2002)</small>
 
 Para los efectos de la revisión a que se refiere este artículo, las Dependencias y Entidades estarán obligadas a permitir el acceso a los almacenes, bodegas o lugares en los que se presten los servicios o se hallen los bienes, así como a firmar los dictámenes que al efecto se levanten.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 134.
 
-La SEDECAP, la Secretaría, las Contralorías Municipales y los Comités Municipales podrán verificar la calidad de las especificaciones de los bienes muebles, a través de los laboratorios, instituciones educativas y de investigación, empresas o personas que ellos mismos determinen y que podrán ser aquéllos con los que cuente el Estado o el Municipio de que se trate, o cualquier tercero con la capacidad necesaria para practicar dicha comprobación, en los términos que establece la Ley Federal sobre Metrología y Normalización.
+Las Secretarías, las Contralorías Municipales y los Comités Municipales podrán verificar la calidad de las especificaciones de los bienes muebles, a través de los laboratorios, instituciones educativas y de investigación, empresas o personas que ellos mismos determinen y que podrán ser aquéllos con los que cuente el Estado o el Municipio de que se trate, o cualquier tercero con la capacidad necesaria para practicar dicha comprobación, en los términos que establece la Ley de Infraestructura de la Calidad.
 
 El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hecho la comprobación, así como por el proveedor y el representante de la adjudicante o el de la contratante, si hubieren intervenido. La falta de firma del proveedor no invalidará dicho dictamen.
 
 ### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 135.
 
-Los licitantes o proveedores que infrinjan los preceptos de esta Ley, las disposiciones que se deriven de ella o las contenidas en los contratos y pedidos, serán sancionados por la SEDECAP, o la Contraloría Municipal respectivos, con multa del equivalente a la cantidad de diez hasta trescientas veces el valor diario de la Unidad de Medida y Actualización, elevado al mes.
+Los licitantes o proveedores que infrinjan los preceptos de esta Ley, las disposiciones que se deriven de ella o las contenidas en los contratos y pedidos, serán sancionados por la Secretaría de la Función Pública, o la Contraloría Municipal respectivos, con multa del equivalente a la cantidad de diez hasta trescientas veces el valor diario de la Unidad de Medida y Actualización, elevado al mes.
 
-Para la determinación de la sanción señalada en este artículo, cuando pueda precisarse el momento en que cometió la infracción, se aplicará el equivalente al valor diario de la Unidad de Medida y Actualización en el momento en que se realizó; en caso contrario, será aplicable el equivalente al valor diario de la Unidad de Medida y Actualización general vigente en el momento en que se imponga la sanción. Para tal efecto, la Secretaría, los Comités Municipales, las dependencias y las entidades están obligados a informar inmediatamente a la SEDECAP o la Contraloría Municipal, según corresponda, de las probables infracciones, y éstas podrán sancionar o hacer las recomendaciones que estimen convenientes.
+Para la determinación de la sanción señalada en este artículo, cuando pueda precisarse el momento en que cometió la infracción, se aplicará el equivalente al valor diario de la Unidad de Medida y Actualización en el momento en que se realizó; en caso contrario, será aplicable el equivalente al valor diario de la Unidad de Medida y Actualización general vigente en el momento en que se imponga la sanción. Para tal efecto, la Secretaría, los Comités Municipales, las dependencias y las entidades están obligados a informar inmediatamente a la Secretaría de la Función Pública o la Contraloría Municipal, según corresponda, de las probables infracciones, y éstas podrán sancionar o hacer las recomendaciones que estimen convenientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 136.
 
-La SEDECAP o la Contraloría Municipal en su caso, además de la sanción a que se refiere el artículo anterior, podrá suspender o cancelar el registro del licitante o proveedor en el Padrón respectivo e inhabilitarlo temporalmente para participar en procedimientos de adjudicación o celebrar contratos regulados por esta Ley, siempre que aquél se ubique en alguno de los supuestos siguientes:
+La Secretaría de la Función Pública o la Contraloría Municipal en su caso, además de la sanción a que se refiere el artículo anterior, podrá suspender o cancelar el registro del licitante o proveedor en el Padrón respectivo e inhabilitarlo temporalmente para participar en procedimientos de adjudicación o celebrar contratos regulados por esta Ley, siempre que aquél se ubique en alguno de los supuestos siguientes:
 
 I. Los licitantes que injustificadamente y por causas imputables a los mismos no formalicen el contrato adjudicado;
 
@@ -2059,9 +2081,9 @@ III. Los proveedores que no cumplan con sus obligaciones contractuales por causa
 
 IV. Los licitantes o proveedores que proporcionen información falsa o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración de contratos o durante su vigencia, o bien, en la presentación o desahogo de una queja, de una audiencia de conciliación o de una inconformidad.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
-Para estos efectos la SEDECAP o la Contraloría Municipal en su caso, darán aviso oportuno a la Secretaría o al Comité Municipal que corresponda, haciéndole del conocimiento la resolución que ordene la suspensión o cancelación respectiva.
+Para estos efectos la Secretaría de la Función Pública o la Contraloría Municipal en su caso, darán aviso oportuno a la Secretaría o al Comité Municipal que corresponda, haciéndole del conocimiento la resolución que ordene la suspensión o cancelación respectiva.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -2071,9 +2093,11 @@ La inhabilitación que se imponga no será menor de tres meses ni mayor de tres 
 
 Las dependencias y entidades, dentro de los quince días naturales siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta Ley, remitirán la Secretaría o al Comité Municipal, según corresponda, la documentación relativa a los hechos presumiblemente constitutivos de la infracción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 137.
 
-La SEDECAP y las Contralorías Municipales impondrán las sanciones administrativas de que trata este Título, con base en las demás disposiciones legales y reglamentarias que resulten aplicables, debiendo considerar en todo caso:
+La Secretaría de la Función Pública y las Contralorías Municipales impondrán las sanciones administrativas de que trata este Título, con base en las demás disposiciones legales y reglamentarias que resulten aplicables, debiendo considerar en todo caso:
 
 I. Los daños o perjuicios que se hubieren producido o puedan producirse;
 
@@ -2103,7 +2127,9 @@ En el procedimiento para la aplicación de las sanciones a que se refiere este C
 
 I. Se comunicarán por escrito al presunto infractor los hechos constitutivos de la probable infracción, para que dentro de un término no menor de ocho días hábiles ni mayor de quince días hábiles, exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes;
 
-II. Transcurrido el término a que se refiere la fracción anterior, la SEDECAP o la Contraloría Municipal resolverá considerando los argumentos y pruebas que se hubieren hecho valer;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+II. Transcurrido el término a que se refiere la fracción anterior, la Secretaría de la Función Pública o la Contraloría Municipal resolverá considerando los argumentos y pruebas que se hubieren hecho valer;
 
 III. La resolución deberá dictarse, debidamente fundada y motivada, dentro de los sesenta días naturales contados a partir del día en que haya iniciado el procedimiento, y se notificará por escrito al infractor dentro de los cinco días hábiles siguientes;
 
@@ -2123,13 +2149,19 @@ Las responsabilidades a que se refiere la presente Ley serán independientes de 
 
 ### CAPÍTULO III. DE LAS INCONFORMIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 143.
 
-Las personas interesadas podrán inconformarse ante la SEDECAP o las Contralorías Municipales por cualquier acto dentro del procedimiento de adjudicación o contratación que contravenga las disposiciones que rigen las materias objeto de esta Ley, siendo aplicables a este trámite las siguientes disposiciones:
+Las personas interesadas podrán inconformarse ante la Secretaría de la Función Pública o las Contralorías Municipales por cualquier acto dentro del procedimiento de adjudicación o contratación que contravenga las disposiciones que rigen las materias objeto de esta Ley, siendo aplicables a este trámite las siguientes disposiciones:
 
-I. La inconformidad será presentada, a elección del promovente, por escrito o a través de los medios remotos de comunicación electrónica que al efecto establezca la SEDECAP o la Contraloría Municipal respectiva, dentro de los tres días hábiles siguientes a aquél en que ocurra el acto o el inconforme tenga conocimiento de éste;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
-II. Transcurrido el plazo establecido en este artículo, precluye para los interesados el derecho a inconformarse, sin perjuicio de que la SEDECAP o la Contraloría Municipal pueda actuar en cualquier tiempo en términos de ley, ya sea de oficio o en virtud de que las personas interesadas manifiesten previamente las irregularidades que a su juicio se hayan cometido en el procedimiento de adjudicación o contratación, a fin de que las mismas se corrijan;
+I. La inconformidad será presentada, a elección del promovente, por escrito o a través de los medios remotos de comunicación electrónica que al efecto establezca la Secretaría de la Función Pública o la Contraloría Municipal respectiva, dentro de los tres días hábiles siguientes a aquél en que ocurra el acto o el inconforme tenga conocimiento de éste;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+II. Transcurrido el plazo establecido en este artículo, precluye para los interesados el derecho a inconformarse, sin perjuicio de que la Secretaría de la Función Pública o la Contraloría Municipal pueda actuar en cualquier tiempo en términos de ley, ya sea de oficio o en virtud de que las personas interesadas manifiesten previamente las irregularidades que a su juicio se hayan cometido en el procedimiento de adjudicación o contratación, a fin de que las mismas se corrijan;
 
 III. La falta de acreditamiento de la personalidad del promovente será causa de desechamiento;
 
@@ -2139,7 +2171,9 @@ V. La falta de la protesta indicada en la fracción anterior será causa de dese
 
 VI. La manifestación de hechos falsos por parte del inconforme se sancionará conforme a las disposiciones de esta Ley y a las demás que resulten aplicables;
 
-VII. En las inconformidades que se presenten a través de medios remotos de comunicación electrónica, deberán utilizarse medios de identificación electrónica en sustitución de la firma autógrafa, en tanto que la documentación que las acompañe y la manera de acreditar la personalidad del promovente, se sujetarán a las disposiciones técnicas que para efectos de la transmisión expidan la SEDECAP y las Contralorías Municipales, en cuyo caso producirán los mismos efectos que las leyes otorgan a los medios de identificación y documentos correspondientes;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+VII. En las inconformidades que se presenten a través de medios remotos de comunicación electrónica, deberán utilizarse medios de identificación electrónica en sustitución de la firma autógrafa, en tanto que la documentación que las acompañe y la manera de acreditar la personalidad del promovente, se sujetarán a las disposiciones técnicas que para efectos de la transmisión expidan la Secretaría de la Función Pública y las Contralorías Municipales, en cuyo caso producirán los mismos efectos que las leyes otorgan a los medios de identificación y documentos correspondientes;
 
 VIII. La autoridad ante la que se interponga la inconformidad, acordará dentro de los cinco días hábiles siguientes lo que proceda sobre la admisión de ésta y de las pruebas que el inconforme hubiese ofrecido, las cuales deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas;
 
@@ -2155,7 +2189,9 @@ XIII. La autoridad ante la que se interponga la inconformidad, podrá requerir a
 
 XIV. Una vez que se cuente con lo solicitado en las fracciones XII y XIII de este artículo, y si procede, se ordenará el desahogo de las pruebas ofrecidas, el que se llevará a cabo en un término improrrogable y no superior a quince días hábiles contados a partir del día en que se haya interpuesto la inconformidad;
 
-XV. Vencido el plazo para el desahogo de las pruebas, la SEDECAP o la Contraloría Municipal respectiva, dictará la resolución en un término que no exceda de veinte días hábiles y procederá a notificarla a los interesados dentro de los cinco días hábiles siguientes;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
+
+XV. Vencido el plazo para el desahogo de las pruebas, la Secretaría de la Función Pública o la Contraloría Municipal respectiva, dictará la resolución en un término que no exceda de veinte días hábiles y procederá a notificarla a los interesados dentro de los cinco días hábiles siguientes;
 
 XVI. Las resoluciones que recaigan a las inconformidades, tendrán por consecuencia la nulidad del acto o actos irregulares y el establecimiento, cuando proceda, de las directrices necesarias para que el mismo se reponga conforme a esta Ley; la nulidad total del procedimiento; la declaración relativa a lo improcedente o infundado de la inconformidad, o la declaración de validez del acto impugnado; y
 
@@ -2165,29 +2201,35 @@ XVII. En contra de la resolución de la inconformidad que dicte la autoridad com
 
 Cuando una inconformidad se resuelva como no favorable al promovente por resultar notoriamente improcedente y se advierta que se hizo con el único propósito de retrasar y entorpecer la continuación del procedimiento de adjudicación o contratación, se sancionará al inconforme mediante la imposición de una multa en términos del Capítulo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 145.
 
-La SEDECAP y las Contralorías Municipales, de oficio o en atención a las inconformidades que se presenten, podrán realizar las investigaciones que resulten pertinentes con el fin de verificar que los actos de cualquier procedimiento de adjudicación o contratación se ajustan a las disposiciones de esta Ley; durante estas investigaciones se podrá suspender el procedimiento de adjudicación o contratación, ya sea de oficio o a solicitud del inconforme, sólo si se cumple lo siguiente:
+La Secretaría de la Función Pública y las Contralorías Municipales, de oficio o en atención a las inconformidades que se presenten, podrán realizar las investigaciones que resulten pertinentes con el fin de verificar que los actos de cualquier procedimiento de adjudicación o contratación se ajustan a las disposiciones de esta Ley; durante estas investigaciones se podrá suspender el procedimiento de adjudicación o contratación, ya sea de oficio o a solicitud del inconforme, sólo si se cumple lo siguiente:
 
 I. Que se advierta que existen o pudieran existir actos contrarios a las disposiciones de esta Ley o a las que de ella deriven, o bien, que de continuarse con el procedimiento de adjudicación o contratación pudieran producirse daños o perjuicios a la dependencia o entidad de que se trate; y
 
 II. Que con la suspensión no se cause perjuicio a la seguridad pública, el interés social o los servicios públicos, y que no se contravengan disposiciones de orden público.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
-Por lo que se refiere a la fracción anterior, la Secretaría, el Comité Municipal, la dependencia o la entidad adjudicante deberá informar, dentro de los tres días hábiles siguientes a la notificación de la suspensión y aportando la justificación del caso, si con la misma se causa perjuicio a la seguridad pública, el interés social o los servicios públicos, o bien, se contravienen disposiciones de orden público, para que la SEDECAP o la Contraloría Municipal resuelva lo que proceda.
+Por lo que se refiere a la fracción anterior, la Secretaría, el Comité Municipal, la dependencia o la entidad adjudicante deberá informar, dentro de los tres días hábiles siguientes a la notificación de la suspensión y aportando la justificación del caso, si con la misma se causa perjuicio a la seguridad pública, el interés social o los servicios públicos, o bien, se contravienen disposiciones de orden público, para que la Secretaría de la Función Pública o la Contraloría Municipal resuelva lo que proceda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 146.
 
-Cuando sea el inconforme quien solicite la suspensión prevista en el artículo anterior, éste deberá garantizar los daños y perjuicios que le pudiera ocasionar al patrimonio público o a terceros, mediante fianza a favor de la Secretaría o la Tesorería Municipal por el monto que fije la SEDECAP o la Contraloría Municipal, según corresponda, el cual no podrá ser inferior al 20% ni superior al 50% del valor del objeto del acto impugnado. Sin embargo, el tercero perjudicado podrá dar contrafianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efecto la suspensión.
+Cuando sea el inconforme quien solicite la suspensión prevista en el artículo anterior, éste deberá garantizar los daños y perjuicios que le pudiera ocasionar al patrimonio público o a terceros, mediante fianza a favor de la Secretaría o la Tesorería Municipal por el monto que fije la Secretaría de la Función Pública o la Contraloría Municipal, según corresponda, el cual no podrá ser inferior al 20% ni superior al 50% del valor del objeto del acto impugnado. Sin embargo, el tercero perjudicado podrá dar contrafianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efecto la suspensión.
 
 Si el acto que se impugna consiste en la imposición de multas por disposición de la presente Ley, la suspensión se otorgará siempre y cuando se garantice el interés fiscal del Estado o del Municipio de que se trate, en cualesquiera de las formas previstas en la legislación fiscal aplicable.
 
 ### CAPÍTULO IV. PROCEDIMIENTO DE CONCILIACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 147.
 
-Los licitantes o proveedores podrán presentar quejas ante la SEDECAP o las Contralorías Municipales, según proceda, con motivo del incumplimiento de los términos y condiciones pactados en los contratos o pedidos que tengan celebrados con las dependencias y entidades, siendo aplicables al procedimiento las siguientes reglas:
+Los licitantes o proveedores podrán presentar quejas ante la Secretaría de la Función Pública o las Contralorías Municipales, según proceda, con motivo del incumplimiento de los términos y condiciones pactados en los contratos o pedidos que tengan celebrados con las dependencias y entidades, siendo aplicables al procedimiento las siguientes reglas:
 
 I. Las quejas podrán presentarse por comparecencia del presunto afectado, en forma escrita o por cualquier otro medio idóneo, debiendo contener lo siguiente:
 
@@ -2221,7 +2263,9 @@ VIII. De toda diligencia deberá levantarse acta circunstanciada en la que const
 
 En el supuesto de que las partes lleguen a un acuerdo durante la conciliación, el convenio respectivo obligará a las mismas, y su cumplimiento podrá ser demandado por la vía judicial correspondiente.
 
-La Secretaría de la Contraloría dará seguimiento a los acuerdos de voluntades, para lo cual las Dependencias y Entidades deberán remitir un informe sobre el avance de cumplimiento de los mismos.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+
+La Secretaría de la Función Pública dará seguimiento a los acuerdos de voluntades, para lo cual las Dependencias y Entidades deberán remitir un informe sobre el avance de cumplimiento de los mismos.
 
 En caso contrario, quedarán a salvo sus derechos, para que los hagan valer ante los Tribunales del Estado.
 
@@ -2390,3 +2434,11 @@ PRIMERO. El presente Decreto entrará en vigor a los seis meses siguientes de su
 SEGUNDO. Todo instrumento jurídico, que a la entrada en vigor del presente Decreto, se refiera a la Secretaría de la Contraloría se entenderá a la Secretaría de la Función Pública conforme al presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
