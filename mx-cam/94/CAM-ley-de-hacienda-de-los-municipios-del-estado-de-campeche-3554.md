@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2019-12-26"
+last_updated: "2021-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -163,11 +163,11 @@ El servidor público encargado del área de ingresos, en los municipios donde ex
 
 Dicho servidor público deberá aceptar en todo momento las órdenes y determinaciones del Tesorero Municipal.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 6.
 
-Los ingresos que se establecen en este ordenamiento, se regularán por lo establecido en la presente Ley, en las leyes de ingresos municipales y en el Código Fiscal del Estado de Campeche, aplicado supletoriamente.
+Los ingresos que se establecen en este ordenamiento, se regularán por lo establecido en la presente Ley, en las leyes de ingresos municipales y en el Código Fiscal Municipal del Estado de Campeche
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -179,17 +179,21 @@ I. Tratándose de pagos mensuales y bimestrales se efectuarán en los primeros q
 
 II. Fuera de los casos anteriores y a falta de disposición expresa, los demás ingresos se causarán y enterarán al efectuarse el acto que causa el tributo o al solicitarse o recibirse el servicio respectivo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ENERO DE 2021)</small>
+
+Los ingresos derivados de las contribuciones previstas en la presente ley, previa autorización del Congreso del Estado, podrán ser afectados a fideicomisos de medio de pago o garantía y/o a fideicomisos que contraten financiamientos conforme a la Ley de Obligaciones, Financiamientos y Deuda Pública del Estado de Campeche y sus Municipios.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 8.
 
-Cuando los contribuyentes no cumplan con el pago de sus contribuciones dentro de los plazos establecidos por esta Ley, se aplicará el procedimiento económico coactivo establecido por el Código Fiscal del Estado.
+Cuando los contribuyentes no cumplan con el pago de sus contribuciones dentro de los plazos establecidos por esta Ley, se aplicará el procedimiento administrativo de ejecución establecido por el Código Fiscal Municipal del Estado de Campeche.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 9.
 
-Las infracciones a la presente Ley, serán sancionadas de conformidad con lo previsto por el Código Fiscal del Estado.
+Las infracciones a la presente Ley, serán sancionadas de conformidad con lo previsto por el Código Fiscal Municipal del Estado de Campeche.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -245,11 +249,11 @@ La representación y defensa de los derechos de la Hacienda Pública Municipal c
 
 Así mismo, la interpretación de las leyes fiscales relativas a la Hacienda Municipal, corresponde al Ayuntamiento, sin que ello implique variaciones en cuanto al sujeto, objeto, base, cuota, tasa o tarifa de los gravámenes, infracciones y sanciones.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 14.
 
-Contra las resoluciones dictadas en materia fiscal por las autoridades municipales, procede la interposición de los medios de defensa que establece el Código Fiscal del Estado aplicado supletoriamente.
+Contra las resoluciones dictadas en materia fiscal por las autoridades municipales, procede la interposición de los medios de defensa que establece el Código Fiscal Municipal del Estado de Campeche
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -265,17 +269,17 @@ Ningún gravamen podrá recaudarse si no está previsto por las correspondientes
 
 Los H. Ayuntamientos presentarán sus iniciativas de Leyes de Ingresos al H. Congreso del Estado, para su debida aprobación, en los plazos establecidos en el artículo 54 bis de la Constitución Política del Estado de Campeche, este mismo artículo regirá cuando se den situaciones que impidan al final del ejercicio fiscal, la expedición de la que deba regir para el subsecuente ejercicio fiscal.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 17.
 
-Para los efectos de esta ley, en aquellos casos en que la tarifa aparezca clasificada en grupos, los Municipios que constituyen dichos grupos serán los siguientes:
+Para los efectos de esta Ley, en aquellos casos en que la tarifa aparezca clasificada en grupos, los Municipios que constituyen dichos grupos serán los siguientes:
 
 1. Campeche;
 
 2. Carmen; y
 
-3. Calakmul, Calkiní, Candelaria, Champotón, Escárcega, Hecelchakán, Hopelchén, Palizada y Tenabo.
+3. Calakmul, Calkiní, Candelaria, Champotón, Dzitbalché, Escárcega, Hecelchakán, Hopelchén, Seybaplaya, Palizada y Tenabo.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -373,7 +377,7 @@ Dicho valor deberá estar equiparado a valores de mercado.
 
 #### SECCION CUARTA. DE LA TASA
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 26.
 
@@ -382,6 +386,8 @@ El impuesto predial se pagará aplicando a la base del impuesto las tasas señal
 T A R I F A S
 
 MUNICIPIO USOS DE SUELO TASA %
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2021)</small>
 
 CALAKMUL
 
@@ -399,6 +405,8 @@ RÚSTICOS: Terrenos Explotados 0.25%
 
 Terrenos inexplotados 0.50%
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2021)</small>
+
 CALKINÍ
 
 URBANOS: Habitacional 0.07%
@@ -415,9 +423,9 @@ RÚSTICOS: Terrenos Explotados 0.30%
 
 Terrenos inexplotados 0.60%
 
-CAMPECHE
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+CAMPECHE
 
 URBANOS: Habitacional 0.16%
 
@@ -432,6 +440,8 @@ Preservación Ecológica 0.06%
 RÚSTICOS: Terrenos Explotados 0.58%
 
 Terrenos inexplotados 1.15%
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2021)</small>
 
 CANDELARIA
 
@@ -449,9 +459,9 @@ RÚSTICOS: Terrenos Explotados 0.40%
 
 Terrenos inexplotados 1.50%
 
-CARMEN
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+CARMEN
 
 URBANOS: Habitacional 0.17%
 
@@ -469,6 +479,8 @@ RÚSTICOS: Terrenos Explotados 1.00%
 
 Terrenos inexplotados 2.00%
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2021)</small>
+
 CHAMPOTÓN
 
 URBANOS: Habitacional 0.12%
@@ -484,6 +496,26 @@ Preservación Ecológica 0.03%
 RÚSTICOS: Terrenos Explotados 0.40%
 
 Terrenos inexplotados 0.60%
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ENERO DE 2021)</small>
+
+DZITBALCHÉ
+
+URBANOS: Habitacional 0.7%
+
+Comercial y de Servicios 0.8%
+
+Industrial 0.8%
+
+Baldíos 0.30%
+
+Preservación Ecológica 0.03%
+
+RÚSTICOS: Terrenos Explotados 0.30%
+
+Terrenos inexplotados 0.60%
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2021)</small>
 
 ESCÁRCEGA
 
@@ -501,6 +533,8 @@ RÚSTICOS: Terrenos Explotados 0.38%
 
 Terrenos inexplotados 0.80%
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2021)</small>
+
 HECELCHAKÁN
 
 URBANOS: Habitacional 0.07%
@@ -516,6 +550,8 @@ Preservación Ecológica 0.03%
 RÚSTICOS: Terrenos Explotados 0.30%
 
 Terrenos inexplotados 0.60%
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2021)</small>
 
 HOPELCHÉN
 
@@ -533,6 +569,8 @@ RÚSTICOS: Terrenos Explotados 0.40%
 
 Terrenos inexplotados 0.75%
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2021)</small>
+
 PALIZADA
 
 URBANOS: Habitacional 0.08%
@@ -548,6 +586,26 @@ Preservación Ecológica
 RÚSTICOS: Terrenos Explotados 0.19%
 
 Terrenos inexplotados 0.19%
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ENERO DE 2021)</small>
+
+SEYBAPLAYA
+
+URBANOS: Habitacional 0.12%
+
+Comercial y de Servicios 0.20%
+
+Industrial 0.20%
+
+Baldíos 0.20%
+
+Preservación Ecológica 0.03%
+
+RÚSTICOS: Terrenos Explotados 0.40%
+
+Terrenos inexplotados 0.60%
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE ENERO DE 2021)</small>
 
 TENABO
 
@@ -573,9 +631,15 @@ Previo a la aplicación de la tarifa señalada en este artículo para la determi
 
 a. Es la única propiedad raíz de un jubilado, pensionado, discapacitado o adulto mayor;
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 b. Éste lo destina para habitarlo por sí; y
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 c. Su valor no exceda de 8,500 veces el salario mínimo general diario vigente en la entidad.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 Este beneficio se aplicará sin menoscabo de lo previsto en el artículo 28 y en caso de fallecer el propietario se hará extensivo a quien herede el inmueble, siempre y cuando lo sea su cónyuge, concubino o concubina y/o sus hijos menores de edad.
 
@@ -2673,11 +2737,11 @@ Los aprovechamientos no especificados en este Título se recaudarán conforme a 
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 146.
 
-Se consideran accesorios de las contribuciones y de los aprovechamientos, los expresamente señalados en el artículo 22 del Código Fiscal del Estado de Campeche, y se recaudarán en las formas y plazos establecidos en esta Ley y en el referido Código.
+Se consideran accesorios de las contribuciones y de los aprovechamientos, los expresamente señalados en los artículos 27 y 28 del Código Fiscal Municipal del Estado de Campeche, y se recaudarán en las formas y plazos establecidos en esta Ley y en el referido Código.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -2703,21 +2767,21 @@ II. Cooperación para Obras Públicas.
 
 ## TITULO OCTAVO. DE LAS PARTICIPACIONES
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 149.
 
-Constituyen este ingreso las cantidades que perciban los Municipios del Estado de Campeche, de acuerdo a lo dispuesto en la Ley Federal de la materia, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y al Convenio de Colaboración Administrativa en materia Fiscal Federal y sus anexos; los cuales ingresarán íntegramente a la Tesorería Municipal, salvo aquellos que hayan sido afectados en fideicomiso como fuente de pago o garantía de las obligaciones a cargo del Municipio, de conformidad con la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
+Constituyen este ingreso, las cantidades que perciban los Municipios del Estado de Campeche, de acuerdo a lo dispuesto en la Ley Federal de la materia, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y al Convenio de Colaboración Administrativa en materia Fiscal Federal y sus anexos; los cuales ingresarán íntegramente a la Tesorería Municipal, salvo aquellos que hayan sido afectados en fideicomiso como fuente de pago o garantía de las obligaciones a cargo del Municipio, de conformidad con la Ley de Obligaciones, Financiamientos y Deuda Pública del Estado de Campeche y sus Municipios.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ## TITULO NOVENO. DE LOS FONDOS DE APORTACIONES FEDERALES
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 150.
 
-Los Fondos de Aportaciones Federales, se percibirán en los plazos y por los conceptos y montos que estén establecidos en la Ley de Coordinación Fiscal, el Decreto de Presupuesto de Egresos de la Federación, la Ley de Coordinación Hacendaria y la Ley de Presupuesto de Egresos del Estado de Campeche, los cuales ingresarán íntegramente a la Hacienda Municipal, salvo aquellos que hayan sido afectados en fideicomiso como fuente de pago o garantía de las obligaciones a cargo del Municipio, de conformidad con la Ley de Deuda Pública del Estado de Campeche y sus Municipios. Estos recursos serán destinados y ejercidos de conformidad con lo establecido en la Ley de Coordinación Fiscal.
+Los Fondos de Aportaciones Federales, se percibirán en los plazos y por los conceptos y montos que estén establecidos en la Ley de Coordinación Fiscal, el Decreto de Presupuesto de Egresos de la Federación, la Ley del Sistema de Coordinación Fiscal del Estado de Campeche y la Ley de Presupuesto de Egresos del Estado de Campeche, los cuales ingresarán íntegramente a la Hacienda Municipal, salvo aquellos que hayan sido afectados en fideicomiso como fuente de pago o garantía de las obligaciones a cargo del Municipio, de conformidad con la Ley de Obligaciones, Financiamientos y Deuda Pública del Estado de Campeche y sus Municipios. Estos recursos serán destinados y ejercidos de conformidad con lo establecido en la Ley de Coordinación Fiscal.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -2759,11 +2823,11 @@ En las cuentas públicas municipales deberá incluirse la administración y ejer
 
 ## TITULO DUODECIMO. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTOS
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 154.
 
-Son los ingresos obtenidos por la celebración de empréstitos o créditos a favor del Municipio, los cuales se contratarán, regularán, ejercerán y aplicarán de conformidad con la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
+Son los ingresos obtenidos por la celebración de empréstitos o créditos a favor del Municipio, los cuales se contratarán, regularán, ejercerán y aplicarán de conformidad con la Ley de Obligaciones, Financiamiento y Deuda Pública del Estado de Campeche y sus Municipios.
 
 ## TRANSITORIOS
 
@@ -2988,3 +3052,11 @@ P.O. 26 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente decreto entrara en vigor el día 1° de enero del año 2020, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 18 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 165 POR EL QUE “SE REFORMA EL ARTÍCULO 6, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 7 Y LOS ARTÍCULOS 8, 9, 14, 17, 26, 146, 149, 150 Y 154 DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
