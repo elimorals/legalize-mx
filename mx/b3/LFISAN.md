@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2020-01-14"
+last_updated: "2021-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ abbreviation: "LFISAN"
 ---
 # LEY FEDERAL DEL IMPUESTO SOBRE AUTOMOVILES NUEVOS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020", PUBLICADA EN LA SEGUNDA SECCIÓN, DEL D.O.F. 14 DE ENERO DE 2020.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021", PUBLICADA EN EL D.O.F. 19 DE ENERO DE 2021.]</small>
 
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
@@ -176,13 +176,13 @@ No se pagará el impuesto establecido en esta Ley, en los siguientes casos:
 
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020", PUBLICADA EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 14 DE ENERO DE 2020.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021", PUBLICADA EN EL D.O.F. DE 19 DE ENERO DE 2021.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $150,000.00. En el precio mencionado no se considerará el impuesto al valor agregado.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2020", PUBLICADA EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 14 DE ENERO DE 2020.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021", PUBLICADA EN EL D.O.F. DE 19 DE ENERO DE 2021.]</small>
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -3035,3 +3035,61 @@ fracción II segundo párrafo: $263,690.55 y hasta $334,008.02
 C. Código de claves vehiculares
 
 > <small>[N. DE E. VÉASE CÓDIGO DE CLAVES VEHICULARES DESDE LA PÁGINA 1 A LA 401 DE LA SEGUNDA SECCIÓN, DEL D.O.F. 14 DE ENERO DE 2020.]</small>
+
+D.O.F. 19 DE ENERO DE 2021.
+
+> <small>[N. DE E. LA MODIFICACIÓN DEL “ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021, PUBLICADA EL 19 DE ENERO DE 2021”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2021.]</small>
+
+Anexo 15 de la Resolución Miscelánea Fiscal para 2021
+
+Contenido
+
+Impuesto sobre Automóviles Nuevos
+
+A. Tarifa para determinar el Impuesto sobre Automóviles Nuevos para el año 2021.
+
+B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2021.
+
+C. Código de Claves Vehiculares:
+
+1. Registradas.
+
+A. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2021.
+
+TARIFA
+
+Límite inferior Límite superior Cuota fija Tasa para aplicarse
+
+$ $ $ sobre el excedente
+
+del límite inferior
+
+%
+
+0.01 294,797.44 0.00 2.0
+
+294,797.45 353,756.87 5,895.85 5.0
+
+353,756.88 412,716.52 8,843.96 10.0
+
+412,716.53 530,635.16 14,739.89 15.0
+
+530,635.17 En adelante 32,427.66 17.0
+
+Si el precio del automóvil es superior a $814,036.01 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $814,036.01
+
+B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2021.
+
+###### Artículo 8o.
+
+fracción II primer párrafo: $272,471.43
+
+###### Artículo 8o.
+
+fracción II segundo párrafo: $272,471.44 y hasta $345,130.49
+
+C. Código de claves vehiculares
+
+> <small>[N. DE E. VÉASE CÓDIGO DE CLAVES VEHICULARES DESDE LA PÁGINA 2 A LA 442 DEL D.O.F. 19 DE ENERO DE 2021.]</small>
