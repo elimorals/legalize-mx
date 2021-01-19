@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-137467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-31"
-last_updated: "2019-12-12"
+last_updated: "2021-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de julio de 2019.
 
@@ -837,7 +837,9 @@ III. Promover la formación y el desarrollo integral del trabajador como element
 
 IV. Trabajar de manera coordinada con las secretarías de Educación y Economía para la capacitación, el impulso del empleo, así como el incremento a la productividad laboral entre los distintos sectores de la producción;
 
-V. Promover, en coordinación con la Secretaría de Seguridad Pública, programas de capacitación e integración laboral para las personas recluidas en los centros de reinserción social en el estado;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2021)</small>
+
+V. Promover, en coordinación con la Secretaría de Seguridad Pública, programas de capacitación e integración laboral para las personas privadas de su libertad en los centros penitenciarios en el Estado;
 
 VI. Coordinar la integración y establecimiento del Centro de Conciliación Laboral del Estado de Puebla, de la Junta Local de Conciliación y Arbitraje y del Tribunal de Arbitraje del Estado de Puebla, así como vigilar el funcionamiento de éstos y llevar, a través de dicha Junta Local, el registro de las asociaciones obreras, patronales y profesionales que funcionen en el estado, de conformidad con las disposiciones aplicables;
 
@@ -1141,7 +1143,9 @@ V. Realizar la planeación, dirección, control, aplicación, ejecución y evalu
 
 VI. Otorgar, revocar, cancelar, suspender, modificar y dar por terminadas las concesiones, permisos y autorizaciones en materia de administración y explotación de la infraestructura de comunicaciones y movilidad, vigilando e inspeccionando su cumplimiento y operación en los términos de las leyes respectivas;
 
-VII. Realizar las acciones de planeación, programación y presupuestación y llevar a cabo, directamente o a través de terceros, la regulación, ejecución y supervisión de la construcción, reconstrucción, ampliación, modificación, mejoramiento, conservación, mantenimiento y modernización de la infraestructura vial, de comunicaciones y de movilidad, caminos y puentes en el estado, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2021)</small>
+
+VII. Realizar las acciones de planeación, programación y presupuestación y llevar a cabo, directamente o a través de terceros, la regulación, ejecución y supervisión de la construcción, reconstrucción, ampliación, modificación, mejoramiento, conservación, mantenimiento y modernización de la infraestructura vial, de comunicaciones y de movilidad, caminos y puentes en el Estado, atendiendo los principios de asequibilidad, seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión, igualdad, equidad, modernidad e innovación tecnológica de conformidad con la normatividad aplicable;
 
 VIII. Aplicar y vigilar el cumplimiento de las disposiciones correspondientes en materia de obra pública a que deben sujetarse los sectores público y privado;
 
@@ -1193,7 +1197,9 @@ XXIX. Los demás que le atribuyan las leyes, reglamentos, decretos, convenios, a
 
 A la Secretaría de Movilidad y Transporte le corresponde el despacho de los siguientes asuntos:
 
-I. Formular y conducir las políticas generales, normas y lineamientos, de seguridad vial, movilidad y transporte del estado, atendiendo las necesidades de los municipios y siguiendo los lineamientos que dicte en la materia el Gobierno Federal;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2021)</small>
+
+I. Formular y conducir las políticas generales, normas y lineamientos de transporte, movilidad y seguridad vial del Estado, atendiendo las necesidades de los municipios, así como los principios de asequibilidad, seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión, igualdad, equidad, modernidad e innovación tecnológica de conformidad con la legislación aplicable y los lineamientos que dicte en la materia el Gobierno Federal;
 
 II. Promover y fomentar la participación de los diversos sectores de la sociedad en materia de seguridad vial, movilidad y transportes, siguiendo los objetivos y directivas del presupuesto, en el ámbito de su competencia;
 
@@ -1237,7 +1243,9 @@ XVI. Intervenir en la planeación, estudio, conservación, administración, oper
 
 XVII. Participar en coordinación con las instancias competentes, en la adquisición, administración y explotación, por sí o a través de terceros, de las instalaciones complementarias y los bienes muebles e inmuebles que le sean necesarios para cumplir con sus atribuciones;
 
-XVIII. Coadyuvar con las autoridades federales, estatales y municipales en la planeación, elaboración y desarrollo de proyectos de desarrollo urbano, movilidad y transporte en la entidad, y participar en el análisis de proyectos de infraestructura en materia de movilidad y sus servicios auxiliares, que se efectúen en el estado, a efecto de que se garantice la perspectiva de movilidad;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2021)</small>
+
+XVIII. Coadyuvar con las autoridades federales, estatales y municipales en la planeación, elaboración y desarrollo de proyectos de desarrollo urbano, movilidad y transporte en la entidad, y participar en el análisis de proyectos de infraestructura en materia de movilidad y sus servicios auxiliares, que se efectúen en el Estado, a efecto de que se garantice la perspectiva de movilidad bajo los principios de asequibilidad, seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión, igualdad, equidad, modernidad e innovación tecnológica priorizando para el efecto el desplazamiento de las y los peatones, conductores de vehículos no motorizados y personas con discapacidad;
 
 XIX. Promover y fomentar la seguridad y protección de los conductores y usuarios de los servicios de transporte que transiten por las vialidades del estado, directamente o a través de terceros mediante autorización, y
 
@@ -1479,11 +1487,17 @@ XV. Instrumentar la formación de servicios especializados del cuerpo de segurid
 
 XVI. Prestar el auxilio de la fuerza pública cuando lo requieran los diversos órganos, dependencias y entidades de los Poderes del estado, de la Federación y municipios, para el debido ejercicio de sus funciones de conformidad con la legislación y normatividad aplicables;
 
-XVII. Organizar, dirigir y administrar los centros de reinserción social y los de internamiento especializados para adolescentes del estado, promoviendo en coordinación con la Secretaría del Trabajo, la integración social de las personas recluidas que hayan mostrado capacitación en el trabajo;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2021)</small>
 
-XVIII. Proveer lo conducente para la vigilancia, control, tratamiento y lugar donde se ha de compurgar la sentencia de los adolescentes internos en los centros previstos en la fracción previa, así como organizar, consolidar y ejecutar las políticas y programas para su rehabilitación y reinserción social, incluyendo a los que hayan cometido conductas tipificadas como delitos por la legislación del estado;
+XVII. Organizar, dirigir y administrar los centros penitenciarios y los de internamiento para adolescentes del Estado, promoviendo en coordinación con la Secretaría del Trabajo, la integración social de las personas sentenciadas que hayan mostrado capacitación en el trabajo;
 
-XIX. Dar el trámite correspondiente a las solicitudes de traslado de reos y las tendentes a la reinserción social de los internos en los centros de reinserción social;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2021)</small>
+
+XVIII. Proveer lo conducente para la vigilancia, control, tratamiento y lugar donde se ha de compurgar la sentencia de adolescentes internos en los centros previstos en la fracción previa, así como organizar, consolidar y ejecutar las políticas y programas para su rehabilitación, reintegración y reinserción social, incluyendo a los que hayan cometido conductas tipificadas como delitos por la legislación del Estado;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2021)</small>
+
+XIX. Dar el trámite correspondiente a las solicitudes de traslado de las personas privadas de su libertad y las tendentes a la reintegración y reinserción social de las personas sentenciadas que se encuentren en los centros penitenciarios;
 
 XX. Promover y vigilar el establecimiento de instituciones y medidas preventivas para adolescentes que cometan conductas tipificadas como delitos por la legislación del estado y prestarles el auxilio necesario;
 
@@ -1507,7 +1521,9 @@ XXIX. Organizar, dirigir, capacitar y administrar al Heroico Cuerpo de Bomberos 
 
 XXX. Intervenir en auxilio o colaboración con las autoridades federales y estatales, en los términos de las leyes relativas y los convenios que se celebren, en materia de armas de fuego, detonantes y pirotecnia, de migración, de transporte de reos y de prevención, combate y extinción de catástrofes o calamidades públicas;
 
-XXXI. Participar en la coordinación y desarrollo de operativos y acciones conjuntas de colaboración en materia de seguridad pública, prevención, rehabilitación y reinserción social, tratamiento de personas adolescentes que hayan cometido conductas tipificadas como delitos por la legislación del estado, vigilancia ecológica y forestal, protección civil y transportes, en el marco de los ordenamientos, sistemas y convenios vigentes con los diversos órdenes de gobierno y con otras instituciones similares;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2021)</small>
+
+XXXI. Participar en la coordinación y desarrollo de operativos y acciones conjuntas de colaboración en materia de seguridad pública, prevención, rehabilitación, reintegración y reinserción social, tratamiento de adolescentes que hayan cometido conductas tipificadas como delitos por la legislación del Estado, vigilancia ecológica y forestal, protección civil y transportes, en el marco de los ordenamientos, sistemas y convenios vigentes con los diversos órdenes de gobierno y con otras instituciones similares;
 
 XXXII. Organizar, dirigir y administrar el servicio de carrera policial del cuerpo de seguridad pública del estado, proveyendo lo necesario para su capacitación, profesionalización y especialización, para fomentar el desarrollo de su carrera policial, con arreglo a lo establecido por el Sistema Nacional de Seguridad Pública, la Ley de Seguridad Pública del Estado y demás ordenamientos legales aplicables; así como atender las solicitudes que al respecto le hagan los ayuntamientos para los cuerpos de seguridad pública municipales;
 
@@ -2008,5 +2024,21 @@ P.O. 12 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 42 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 36 Y LAS FRACCIONES XVII, XVIII, XIX Y XXXI DEL ARTÍCULO 46, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 41 Y LAS FRACCIONES I Y XVIII DEL ARTÍCULO 42 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
