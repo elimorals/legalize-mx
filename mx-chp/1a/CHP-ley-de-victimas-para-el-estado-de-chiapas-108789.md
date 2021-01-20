@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-victimas-para-el-estado-de-chiapas-108789"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-20"
-last_updated: "2018-12-31"
+last_updated: "2021-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 20 de mayo de 2015.
 
@@ -33,7 +33,9 @@ Decreto Número 236
 
 La Sexagésima Quinta Legislatura Constitucional del Honorable Congreso del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política local; y,
 
-C o n s i d e r a n d o…
+C o n s i d e r a n d o
+
+[...]
 
 Por las consideraciones antes expuestas, el Honorable Congreso del Estado de Chiapas, ha tenido a bien emitir el siguiente decreto de:
 
@@ -65,7 +67,9 @@ I. Asesor Jurídico: Al Asesor Jurídico o Asesora Jurídica Estatal de Atenció
 
 II. Asesoría Jurídica: A la Asesoría Jurídica Estatal de Atención a Víctimas.
 
-III. Comisión Ejecutiva Estatal: A la Comisión Ejecutiva Estatal de Atención a Víctimas.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+III. Comisión Ejecutiva Estatal: A la Comisión Ejecutiva Estatal de Atención a Víctimas para el Estado de Chiapas.
 
 IV. Comisión Ejecutiva Federal: A la Comisión Ejecutiva del Sistema Nacional de Atención a Víctimas.
 
@@ -317,7 +321,9 @@ V. Promover la uniformidad de criterios jurídicos al interior de las institucio
 
 VI. Las demás que le otorga esta Ley y otras disposiciones aplicables.
 
-### Capítulo II. De la Comisión Ejecutiva Estatal de Atención a Víctimas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ENERO DE 2021)</small>
+
+### Capítulo II. De la Comisión Ejecutiva Estatal de Atención a Víctimas para el Estado de Chiapas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -988,3 +994,13 @@ Artículo Octavo.- Se abroga el Decreto por el que se autoriza al Ejecutivo del 
 Los procedimientos que se encuentran en trámite derivados del Decreto que se abroga, deberán ser atendidos sin excepción (sic) la normativa aplicable, ni exención ni otorgamiento de subsidios sobre el pago de derechos y demás contribuciones estatales que hubiese autorizado el extinto Instituto de la Consejería Jurídica y de Asistencia Legal, a partir de la entrada en vigor del presente Decreto.
 
 Se derogan las disposiciones que se opongan al presente Decreto, así como aquellas emitidas con base en el decreto que se abroga en el presente transitorio.
+
+P.O. 20 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 179 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE CHIAPAS Y DEL DECRETO POR EL QUE SE CREA LA COMISIÓN EJECUTIVA ESTATAL DE ATENCIÓN A VÍCTIMAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Todas las referencias establecidas en las diversas disposiciones normativas del Estado a favor de la Comisión Ejecutiva Estatal de Atención a Víctimas, se entenderán realizadas a la Comisión Ejecutiva Estatal de Atención a Víctimas para el Estado de Chiapas.
+
+Artículo Tercero.- Todos los compromisos adquiridos por la Comisión Ejecutiva Estatal de Atención a Víctimas, se entenderán asumidos por virtud del presente Decreto por la Comisión Ejecutiva Estatal de Atención a Víctimas para el Estado de Chiapas.
