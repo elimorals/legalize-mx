@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prevencion-y-gestion-integral-de-residuos-del-estado-789
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-24"
-last_updated: "2019-04-15"
+last_updated: "2021-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2021.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 24 de enero de 2011.
 
@@ -45,7 +45,9 @@ SEGUNDO.- El asunto de mérito, se registró en el Libro de Gobierno de la Prime
 
 Por lo que, en mérito de lo expuesto; y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -57,13 +59,17 @@ QUE CREA LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HID
 
 ### CAPÍTULO I. DE LAS NORMAS PRELIMINARES
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de observancia general en el Estado de Hidalgo, sus disposiciones son de orden público e interés social, y tiene por objeto regular la prevención de la generación, el aprovechamiento del valor y la gestión integral de los residuos sólidos urbanos y de manejo especial que no estén expresamente atribuidos a la Federación; la prevención de la contaminación y la remediación de suelos contaminados con residuos, de conformidad con lo que establece la Ley General para la Prevención y Gestión Integral de los Residuos.
+La presente Ley es de observancia general en el Estado de Hidalgo, sus disposiciones son de orden público e interés social, y tiene por objeto garantizar el derecho de toda persona al medio ambiente sano y propiciar el desarrollo sustentable a través de la prevención de la generación, la valorización y la gestión integral de los residuos sólidos urbanos y de manejo especial que no estén expresamente atribuidos a la Federación; la prevención de la contaminación y la remediación de suelos contaminados con residuos, de conformidad con lo que establece la Ley General para la Prevención y Gestión Integral de los Residuos.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 2.
 
-En la formulación y conducción de las políticas en las materias a que se refiere esta Ley, así como, para la expedición de las disposiciones jurídicas y la emisión de actos que de ella deriven, los Gobiernos Estatal y de los Municipios, según corresponda, observarán los principios que establece la Ley General para la Prevención y Gestión Integral de los Residuos.
+En la formulación y conducción de las políticas en las materias a que se refiere esta Ley, así como, para la expedición de las disposiciones jurídicas y la emisión de actos que de ella deriven, los Gobiernos Estatal y de los Municipios, según corresponda, observarán los principios de la economía circular, así como, los principios que establece la Ley General para la Prevención y Gestión Integral de los Residuos.
 
 ###### Artículo 3.
 
@@ -73,15 +79,37 @@ En todo lo no previsto en la presente Ley, se aplicarán las disposiciones conte
 
 Para los efectos de la presente Ley, son aplicables las definiciones contenidas en la Ley General para la Prevención y Gestión Integral de los Residuos, Ley General del Equilibrio Ecológico y Protección al Ambiente, la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente de Hidalgo y las normas oficiales mexicanas, así como las siguientes:
 
-I.- Composteo: Tratamiento mediante biodegradación que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos o fertilizantes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2021)</small>
+
+I.- Aprovechamiento de los Residuos: Conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos mediante su reutilización, remanufactura, rediseño, reciclado y recuperación de materiales secundados o de energía;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ENERO DE 2021)</small>
+
+I Bis.- Composteo: Tratamiento mediante biodegradación que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos o fertilizantes;
 
 II.- Contenedor: Receptáculo destinado al depósito, generalmente de forma temporal, de residuos sólidos urbanos;
 
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+II Bis.- Economía Circular: Modelo de producción y consumo que se interrelaciona con la sostenibilidad, y cuyo objetivo es que el valor de los productos, los materiales y los recursos se mantengan en la economía durante el mayor tiempo posible, y que se reduzca al mínimo posible la generación de residuos;
+
 III.- Eliminación: Acción tendiente a deshacerse de un bien o de un residuo, mediante una forma de tratamiento de cualquier índole, que lo transforme en un material inerte o de su disposición final en celdas de confinamiento;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+III Bis.- Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+III Ter.- Jerarquía de residuos: prelación de opciones de gestión acorde al grado de impacto que ocasionan al ambiente;
 
 IV.- Ley General: La Ley General para la Prevención y Gestión Integral de los Residuos;
 
 V.- Ley Ambiental: La Ley para la Protección al Ambiente del Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+V Bis.- Manejo Integral de Residuos: Actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
 VI.- Minimización: Conjunto de políticas, programas y medidas adoptadas por las personas físicas o jurídicas, tendientes a evitar la generación de residuos y aprovechar, tanto como sea posible, el valor agregado de aquellos;
 
@@ -91,13 +119,25 @@ VI Bis.- Plásticos de un solo uso descartables: aquellos elaborados con materia
 
 VII.- Recolección: Toda operación consistente en recoger, clasificar, agrupar o preparar residuos para su transporte;
 
-VIII.- Recolección selectiva: El sistema de recolección diferenciada de materiales orgánicos fermentables y de materiales reciclables, así como, cualquier otro sistema de recolección diferenciada que permita la separación de los materiales valorizables contenidos en los residuos;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+VIII.- Recolección selectiva: Captación diferenciada, desde su origen, de los residuos orgánicos e inorgánicos, permitiendo la separación de los materiales valorizables;
 
 IX.- Relleno sanitario: Instalación en la cual se depositan, de manera temporal o permanente, los residuos sólidos urbanos, en sitios y en condiciones apropiados, para prevenir o reducir la liberación de contaminantes al ambiente, prevenir la formación de lixiviados en suelos, evitar procesos de combustión no controlada, la generación de malos olores, la proliferación de fauna nociva y demás problemas ambientales y sanitarios;
 
-X.- Secretaría: La Secretaría de Medio Ambiente y Ordenamiento Territorial; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+X.- Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales del Estado de Hidalgo;
 
 XI.- Sistemas de Manejo Ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de una organización, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta, con sus políticas de adquisiciones, la prevención de la generación de residuos, su aprovechamiento y su manejo integral.
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XII.- Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos para su aprovechamiento y/o valorización y se reduzca su volumen o peligrosidad; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XIII.- Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
 
 ### CAPÍTULO II. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y DE LA COORDINACIÓN
 
@@ -153,7 +193,9 @@ IX. Vigilar que los establecimientos pongan a disposición de los clientes bolsa
 
 Corresponde a las Autoridades Municipales el ejercicio de las facultades, respecto al objeto de esta Ley previstas en la Ley Ambiental y en la Ley General, así como las siguientes:
 
-I.- Promover el establecimiento de programas de minimización y gestión integral de los residuos producidos por los grandes generadores de su municipio;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ENERO DE 2021)</small>
+
+I.- Fomentar la separación de residuos producidos en los domicilios de sus habitantes, así como promover el establecimiento de programas de minimización y gestión integral de los residuos producidos por los grandes generadores de su municipio;
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
 
@@ -166,6 +208,18 @@ b) Vigilar el cumplimiento de las disposiciones de regulación del uso de plást
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2019)</small>
 
 c) Implementar políticas públicas encaminadas a la reducción y posterior eliminación de materiales plásticos de un solo uso descartables, buscando alternativas que impulsen su sustitución definitiva por productos elaborados con materiales que sean biodegradables y reduzcan o eliminen el impacto ambiental por el uso de esos productos.
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+I Bis.- Crear e implementar programas de separación de residuos sólidos urbanos generados en los domicilios de sus habitantes;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+I Ter.- Establecer, implementar y fomentar, programas de minimización y gestión integral de los residuos sólidos urbanos generados en el sector público y privado de su municipio;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+I Quater.- Llevar a cabo las acciones de saneamiento y cierre de los sitios de disposición final al término de su vida útil, conforme a la legislación ambiental aplicable y conforme al plan de clausura y saneamiento que haya sido aprobado por la Secretaría.
 
 II.- Fomentar el desarrollo de mercados para el reciclaje de residuos sólidos urbanos y de manejo especial que no estén expresamente atribuidos a la Federación o al Estado;
 
@@ -195,15 +249,25 @@ XIV.- Realizar las actividades de inspección para verificar el cumplimiento de 
 
 XV.- Atender los demás asuntos que, en materia de residuos sólidos urbanos y de manejo especial, de servicios de limpia, así como, de prevención de la contaminación por residuos y la remediación de sitios contaminados con ellos, les conceda esta Ley y otros ordenamientos jurídicos aplicables.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2021)</small>
+
+###### Artículo 6 Bis.
+
+Los Municipios de la Entidad se coordinarán por regiones que para el efecto se establezcan con asistencia técnica, bajo criterios de ubicación geográfica, movilidad vial y composición de residuos, con el propósito de contar con nuevos mecanismos de intervención en la prestación de los servicios de limpia, recolección selectiva, traslado, tratamiento y disposición final de residuos sólidos urbanos en centros integrales que cuenten con la infraestructura adecuada para su aprovechamiento y valorización con un enfoque de economía circular, mejorando la prestación de los servicios a través de organismos operadores que para el efecto se creen.
+
+Para todo ello deberán contar la asistencia técnica, validación y autorización de la Secretaría de Medio Ambiente y Recursos Naturales del Estado de Hidalgo.
+
 ###### Artículo 7.
 
 Corresponde al Ejecutivo expedir el reglamento de la presente Ley.
 
 ### CAPÍTULO III. DE LA POLÍTICA DE RESIDUOS SÓLIDOS Y SUS INSTRUMENTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 8.
 
-Para la formulación y conducción de la política de residuos sólidos urbanos y de manejo especial, así como, relativa a la prevención de la contaminación por estos residuos, y a la remediación de sitios contaminados con ellos, y en la expedición de los ordenamientos jurídicos derivados de esta Ley, se observarán los siguientes criterios:
+Para la formulación y conducción de la política de residuos sólidos urbanos y de manejo especial, así como, relativa a la prevención de la contaminación por estos residuos, y a la remediación de sitios contaminados con ellos, y en la expedición de los ordenamientos jurídicos derivados de esta Ley, se observará el principio de la jerarquía de residuos que establece el siguiente orden de prioridad: prevención, minimización, aprovechamiento, incineración, y relleno sanitario, bajo los siguientes criterios:
 
 I.- Los sistemas de gestión de los residuos deben responder a las necesidades y circunstancias particulares de cada una de las municipalidades que conforman la Entidad, además de ser ambientalmente eficientes, económicamente viables y socialmente aceptables;
 
@@ -240,6 +304,42 @@ XVI.- El establecimiento de acciones orientadas a recuperar las áreas degradada
 XVII.- La participación pública en la formulación de planes, programas y ordenamientos jurídicos relacionados con la gestión integral de los residuos, así como el acceso público a la información sobre todos los aspectos relacionados con ésta; y
 
 XVIII.- Los planes de manejo realizados por los particulares, seguirán, en todo momento, ligados al manejo de residuos sólidos urbanos y de manejo especial, debiendo las autoridades competentes respetarlos aún y cuando los cambios políticos demanden lo contrario.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2021)</small>
+
+###### Artículo 8 Bis.
+
+Los Ayuntamientos deberán elaborar y expedir el Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos Urbanos, dentro de los primeros seis meses de iniciado el gobierno municipal, el cual deberá estar alineado al Programa Estatal de Prevención y Gestión Integral de Residuos, atendiendo lo establecido en la fracción I del artículo 8.
+
+La vigencia del Programa Municipal, estará al tiempo que dure el mandato del Ayuntamiento, pero la autoridad entrante, estará obligada a acatarlo mientras no entre en vigor el Programa correspondiente para su mandato constitucional.
+
+El Programa municipal a que hace referencia el presente artículo, deberá contener como mínimo lo establecido en la legislación y normatividad en materia de prevención y gestión Integral de Residuos
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2021)</small>
+
+###### Artículo 8 Ter.
+
+El Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos Urbanos, deberá contener una programación y calendarización para el cierre y saneamiento de tiraderos a cielo abierto de residuos, lo cual hará del conocimiento de la Secretaría.
+
+La Secretaría acompañará con asesoramiento técnico a los municipios que lo requieran con el cierre de tiraderos y el establecimiento de sistemas integrales de manejo de acuerdo a sus características.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2021)</small>
+
+###### Artículo 8 Quáter.
+
+Para la elaboración del Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos Urbanos, deberá considerarse al menos los requisitos mínimos que establece el artículo 26 de la Ley General de Prevención y Gestión Integral de los Residuos, señalando de manera enunciativa, más no limitativa:
+
+a. El diagnóstico básico para la gestión integral de residuos de su competencia, en el que se precise la capacidad y efectividad de la infraestructura disponible para satisfacer la demanda de servicios;
+
+b. La política local en materia de residuos sólidos urbanos y de manejo especial;
+
+c. La definición de objetivos y metas locales para la prevención de la generación y el mejoramiento de la gestión de los residuos sólidos urbanos y de manejo especial, así como las estrategias y plazos para su cumplimiento;
+
+d. Los medios de financiamiento de las acciones consideradas en los programas;
+
+e. Los mecanismos para fomentar la vinculación entre los programas municipales correspondientes, a fin de crear sinergias; y
+
+f. La asistencia técnica que en su caso brinde la Secretaría.
 
 #### SECCIÓN I. DE LA PLANEACIÓN Y PROGRAMACIÓN
 
@@ -445,9 +545,11 @@ En el caso de que los planes de manejo no sean presentados en el lapso que se fi
 
 Las autoridades gubernamentales de los dos órdenes de gobierno, podrán apoyarse en grupos intersectoriales y consejos asesores, para la evaluación de los planes de manejo sujetos a consideración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 32.
 
-La Secretaría elaborará, desarrollará de manera gradual y actualizará cada seis años, el Programa para la Prevención y Gestión Integral de Residuos Sólidos Urbanos y de Manejo Especial del Estado de Hidalgo, el cual cubrirá los siguientes aspectos, entre otros:
+La Secretaría elaborará, desarrollará de manera gradual y actualizará cada seis años, el Programa para la Prevención y Gestión Integral de Residuos Sólidos Urbanos y de Manejo Especial del Estado de Hidalgo, tomando en consideración los programas de prevención y gestión integral de residuos sólidos urbanos que presenten los municipios de conformidad con lo señalado en el artículo 8 Bis, el cual cubrirá los siguientes aspectos, entre otros:
 
 I.- Consideraciones Generales.
 
@@ -791,9 +893,11 @@ Todo otorgamiento de concesión deberá estipular clara y específicamente las c
 
 El Organismo Municipal operador o el concesionario de la prestación del servicio de limpia correspondiente, tiene la responsabilidad de cumplir con las disposiciones de esta Ley, su reglamento y demás disposiciones jurídicas aplicables, haciéndolas del conocimiento de su personal de servicio y a quienes se lo presten. Asimismo, tienen la obligación de establecer medidas de emergencia en caso de riesgos o contingencias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 59.
 
-En la formulación de los programas para la prestación del servicio de limpia, los municipios deberán, además de observar los lineamientos establecidos en el Programa para la Prevención y Gestión Integral de Residuos Sólidos Urbanos y Residuos de Manejo Especial del Estado de Hidalgo y las normas ambientales que al efecto expida la Secretaría, definir los criterios y obligaciones para aquellas personas o autoridades que presten el servicio, entre los que se encuentran los siguientes:
+En la formulación de los programas para la prestación del servicio de limpia, los municipios deberán, además de observar los lineamientos establecidos en el Programa para la Prevención y Gestión Integral de Residuos Sólidos Urbanos y Residuos de Manejo Especial del Estado de Hidalgo, las normas ambientales que al efecto expida la Secretaría y su Programa Municipal para la Prevención y Gestión Integral de Residuos Sólidos Urbanos, definir los criterios y obligaciones para aquellas personas o autoridades que presten el servicio, entre los que se encuentran los siguientes:
 
 I.- Obtener registro y autorización de parte de las autoridades competentes, proporcionando para ello la información y demás requisitos que exija la normatividad aplicable;
 
@@ -1055,9 +1159,11 @@ Los residuos sólidos que hayan sido seleccionados para su aprovechamiento media
 
 #### SECCIÓN III. DEL TRATAMIENTO TÉRMICO
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 89.
 
-La determinación de la conveniencia de someter a tratamiento térmico residuos sólidos urbanos o de manejo especial, deberá sustentarse en el diagnóstico básico de los residuos que se generan en la entidad y de la disponibilidad y factibilidad técnica y económica de otras alternativas para su valorización o tratamiento por otros medios. En todo caso, los residuos antes señalados, solo podrán ser sujetos a tratamientos térmicos autorizados por la Federación y cuyo desempeño ambiental sea acorde a lo dispuesto en la Ley General, las Normas Oficiales Mexicanas y demás ordenamientos aplicables.
+La determinación de la conveniencia de someter a tratamiento térmico residuos sólidos urbanos o de manejo especial, deberá sustentarse en el diagnóstico básico de los residuos que se generan en la entidad y de la disponibilidad y factibilidad técnica y económica de otras alternativas para su valorización y aprovechamiento. En todo caso, los residuos antes señalados, solo podrán ser sujetos a tratamientos térmicos autorizados por la Federación y cuyo desempeño ambiental sea acorde a lo dispuesto en la Ley General, las Normas Oficiales Mexicanas y demás ordenamientos aplicables.
 
 #### SECCIÓN IV. DE LOS RELLENOS SANITARIOS
 
@@ -1360,3 +1466,11 @@ P.O. 15 DE ABRIL DE 2019.
 Primero. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 Segundo. Los establecimientos y comercios señalados en la fracción XVI del artículo 44 de esta Ley, contarán con un plazo máximo de 180 días naturales para la eliminación definitiva de los productos de plástico de un solo uso descartable, conforme a lo establecido en el presente Decreto.
+
+P.O. 20 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 573 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
