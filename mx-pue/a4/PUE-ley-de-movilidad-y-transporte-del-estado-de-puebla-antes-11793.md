@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2019-11-22"
+last_updated: "2021-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -223,19 +223,19 @@ LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
 La presente Ley es de interés social y de orden público, de observancia general en el Estado de Puebla y tiene por objeto regular todo lo relacionado con el Servicio Público de Transporte, el Servicio Mercantil, los Servicios Auxiliares y el Servicio Ejecutivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 2.
 
-Las autoridades competentes para la interpretación y observación de la presente Ley, sus Reglamentos, y demás disposiciones en la materia, lo son la Secretaría de Infraestructura, Movilidad y Transportes del Estado de Puebla y el Organismo Público Descentralizado denominado Carreteras de Cuota Puebla, quienes en todo caso y en el ámbito de sus respectivas competencias, deberán aplicar como criterio fundamental, lo que sea más conveniente para el servicio público y sus usuarios, promoviendo la participación social en la planeación, operación y revisión administrativa del transporte.
+Las autoridades competentes para la interpretación y observación de la presente Ley, sus Reglamentos, y demás disposiciones en la materia, lo son la Secretaría de Movilidad y Transporte del Estado de Puebla y el Organismo Público Descentralizado denominado Carreteras de Cuota Puebla, quienes en todo caso y en el ámbito de sus respectivas competencias, deberán aplicar como criterio fundamental, lo que sea más conveniente para el servicio público y sus usuarios, promoviendo la participación social en la planeación, operación y revisión administrativa del transporte.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 La Secretaría, será competente para interpretar, ejercer, observar y aplicar las atribuciones y obligaciones previstas en el artículo 10 y demás disposiciones de la presente Ley y sus Reglamentos, relativas en materia de supervisión, vigilancia y revisión.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
-Cuando la presente Ley se refiera a la Secretaría, se entenderá a la Secretaría de Infraestructura, Movilidad y Transportes del Estado de Puebla y cuando se haga referencia en esta Ley a Carreteras de Cuota-Puebla, se entenderá al Organismo Público Descentralizado denominado Carreteras de Cuota-Puebla, en términos de su Decreto de creación.
+Cuando la presente Ley se refiera a la Secretaría, se entenderá a la Secretaría de Movilidad y Transporte y cuando se haga referencia en esta Ley a Carreteras de Cuota-Puebla, se entenderá al Organismo Público Descentralizado denominado Carreteras de Cuota-Puebla, en términos de su Decreto de creación.
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
@@ -253,67 +253,39 @@ La Secretaría y Carreteras de Cuota-Puebla, en términos de esta Ley, tienen co
 
 ### CAPITULO II. AUTORIDADES DEL TRANSPORTE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 4.
 
-Son autoridades en materia del transporte, en el ámbito de competencia que corresponda:
+Son autoridades en materia del transporte, en el ámbito de su respectiva competencia:
 
-I.- El Gobernador del Estado;
+I. La persona Titular del Poder Ejecutivo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2017)</small>
+II. De la Secretaría de Movilidad y Transporte del Estado:
 
-II.- De la Secretaría de Infraestructura, Movilidad y Transportes del Estado:
+a) La persona Titular de la Secretaría de Movilidad y Transporte;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
+b) La persona Titular de la Subsecretario (sic) de Movilidad y Transporte;
 
-a) El Secretario de Infraestructura, Movilidad y Transportes;
+c) La persona Titular de la Coordinación General Jurídica;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
+d) La persona Titular de la Coordinación General Técnico (sic) de Movilidad y Transporte;
 
-b) El Subsecretario de Movilidad y Transportes;
+e) La persona Titular de la Dirección de Operación al Transporte;
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+f) La persona Titular de la Dirección de Administración de Concesiones y Permisos;
 
-c) El Coordinador General Jurídico;
+g) La persona Titular de la Dirección de Ingeniería y Planeación del Transporte;
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+h) La persona Titular de la Dirección de Licencias y Capacitación, y
 
-d) El Coordinador General Técnico de Movilidad y Transporte;
+i) La persona Titular de la Dirección de Movilidad.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+III. El Organismo Público Descentralizado Carreteras de Cuota-Puebla, que será competente respecto del Sistema de Transporte Público Masivo:
 
-e) El Director de Operación al Transporte;
+a) La persona Titular de la Dirección General; y
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-f) El Director de Administración de Concesiones y Permisos;
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-g) El Director de Ingeniería y Planeación del Transporte;
-
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-h) El Director de Licencias y Capacitación, y
-
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
-
-i) El Director de Movilidad.
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
-
-III.- El Organismo Público Descentralizado Carreteras de Cuota-Puebla, que será competente respecto del Sistema de Transporte Público Masivo.
-
-a) El Director General; y
-
-b) El Director de Transporte Masivo.
-
-IV.- (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-V.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
-
-VI.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
+b) La persona Titular de la Dirección de Transporte Masivo.
 
 ### CAPITULO III. LAS ATRIBUCIONES DE LAS AUTORIDADES DEL TRANSPORTE
 
@@ -335,11 +307,11 @@ IV.- Intervenir el Servicio Público de Transporte, con apego a las disposicione
 
 V.- Las demás que le conceda la presente Ley y sus Reglamentos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 6.
 
-El Secretario de Infraestructura, Movilidad y Transportes y el Director General de Carreteras de Cuota-Puebla, en el ámbito de sus respectivas competencias, tendrán las siguientes atribuciones:
+La persona Titular de la Secretaría de Movilidad y Transporte y la persona Titular de la Dirección General de Carreteras de Cuota-Puebla, en el ámbito de sus respectivas competencias, tendrán las siguientes atribuciones:
 
 I.- Cumplir y hacer cumplir la presente Ley y sus Reglamentos;
 
@@ -425,9 +397,9 @@ II.- Vigilar que se cumplan las bases para el mejoramiento, ampliación y modern
 
 III.- Vigilar el cumplimiento de las tarifas, itinerarios, recorridos, horarios y frecuencias de paso estipuladas para la prestación del Servicio Público de Transporte y del Servicio Mercantil, según corresponda;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-IV.- Emitir las normas técnicas, operativas y administrativas para regular la prestación del Servicio de Transporte y sus Servicios Auxiliares en el Estado; en el caso de las que correspondan a la Secretaría de Infraestructura y Transportes, se emitirán previo acuerdo con el Secretario, y
+IV.- Emitir las normas técnicas, operativas y administrativas para regular la prestación del Servicio de Transporte y sus Servicios Auxiliares en el Estado; en el caso de las que correspondan a la Secretaría de Movilidad y Transporte, se emitirán previo acuerdo con el Secretario, y
 
 V.- Las demás que le otorgue la presente Ley y sus Reglamentos.
 
@@ -725,7 +697,7 @@ El Servicio de Transporte de Turismo, es aquel que tiene por objeto el traslado 
 
 Transporte de Servicio Extraordinario, es aquél que se presta con los vehículos destinados al Servicio Público de Transporte y que requieren de un permiso para prestar un servicio diferente al concesionado, en las condiciones que para el efecto establezca la Secretaría.
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 20 DE ENERO DE 2021)</small>
 
 ARTICULO 27 BIS.- El servicio de transporte mercantil denominado Taxi Local, es aquel que autoriza la Secretaría como un servicio complementario al sistema de transporte convencional, el cual únicamente se presta en la zona y hasta los límites de la localidad autorizada. Dicho servicio estará sujeto a las disposiciones administrativas de la presente Ley y las demás que emita la Secretaría.
 
@@ -945,9 +917,9 @@ VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2007)
 
 Las licencias a que hace referencia este artículo, son de uso personal e intransferible.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
-Tratándose de las licencias permanentes a que se refieren las fracciones II, III y IV de este artículo serán expedidas a través de los programas que mediante acuerdo determine el Secretario de Infraestructura y Transportes.
+Tratándose de las licencias permanentes a que se refieren las fracciones II, III y IV de este artículo serán expedidas a través de los programas que mediante acuerdo determine la persona Titular de la Secretaría de Movilidad y Transporte.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
 
@@ -1001,11 +973,11 @@ Corresponde al Gobierno del Estado a través de la Secretaría y de Carreteras d
 
 Corresponde al Gobierno del Estado a través de la Secretaría, otorgar los permisos o autorizaciones para la prestación de los servicios a que se refiere esta Ley.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 48.
 
-Concesión del Servicio Público de Transporte, es el acto jurídico por el cual el Secretario de Infraestructura Movilidad y Transportes del Estado o Carreteras de Cuota-Puebla, en el ámbito de su competencia, otorga a alguna persona física o moral la autorización para la prestación del Servicio Público de Transporte, sus componentes, así como sus Servicios Auxiliares; estableciendo las condiciones y obligaciones a que deberán sujetarse, y condicionando su otorgamiento al cumplimiento de todos los requisitos establecidos en la presente Ley y sus Reglamentos, tomando en cuenta las características del servicio.
+Concesión del Servicio Público de Transporte, es el acto jurídico por el cual la persona Titular de la Secretaría de Movilidad y Transporte del Estado o Carreteras de Cuota-Puebla, en el ámbito de su competencia, otorga a alguna persona física o moral la autorización para la prestación del Servicio Público de Transporte, sus componentes, así como sus Servicios Auxiliares; estableciendo las condiciones y obligaciones a que deberán sujetarse, y condicionando su otorgamiento al cumplimiento de todos los requisitos establecidos en la presente Ley y sus Reglamentos, tomando en cuenta las características del servicio.
 
 > <small>(REFORMADO, P. O. 6 DE MARZO DE 2015)</small>
 
@@ -1013,11 +985,11 @@ Concesión del Servicio Público de Transporte, es el acto jurídico por el cual
 
 Concesionario del Servicio Público de Transporte, es la persona física o moral a la que se le otorga concesión por parte de la Secretaría o Carreteras de Cuota-Puebla, para prestar el Servicio Público de Transporte y sus Servicios Auxiliares.
 
-> <small>(REFORMADO, P. O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 50.
 
-Permiso es el acto administrativo por el cual el Secretario de Infraestructura y Transportes del Estado de Puebla, faculta a una persona física o moral, a efectuar un Servicio de Transporte Mercantil y aquellos servicios auxiliares susceptibles de permiso. En todo caso se deberán cumplir todas las condiciones señaladas en esta Ley y sus Reglamentos.
+Permiso es el acto administrativo por el cual la persona Titular de la Secretaría de Movilidad y Transporte del Estado de Puebla, faculta a una persona física o moral, a efectuar un Servicio de Transporte Mercantil y aquellos servicios auxiliares susceptibles de permiso. En todo caso se deberán cumplir todas las condiciones señaladas en esta Ley y sus Reglamentos.
 
 > <small>(REFORMADO, P. O. 6 DE MARZO DE 2015)</small>
 
@@ -2712,5 +2684,13 @@ P.O. 22 DE NOVIEMBRE DE 2019.
 [N. DE. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 92 TER DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 2, EL 4, EL PRIMER PÁRRAFO DEL 6, LA FRACCIÓN IV DEL 7, EL 27 BIS, EL ÚLTIMO PÁRRAFO DEL 44, EL 48 Y EL 50, TODOS DE LA LEY DE TRANSPORTE PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
