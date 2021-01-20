@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2019-04-01"
+last_updated: "2021-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2021.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -87,9 +87,11 @@ XI. Coordinar a las dependencias y Entidades de la Administración Pública Fede
 
 En todo lo no previsto en la presente Ley y a falta de disposición expresa, se aplicarán en forma supletoria la Ley General del Equilibrio Ecológico y Protección al Ambiente, así como las disposiciones contenidas en otras Leyes, relacionadas con la materia que regula este ordenamiento y la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 3.
 
-Para los efectos de ésta Ley, se estará a las definiciones siguientes:
+Para los efectos de esta Ley, se atenderán a las definiciones siguientes:
 
 I. ACTIVIDAD RIESGOSA: Aquella de la que puede derivarse daño a la salud o al ambiente en virtud de la naturaleza, características o volumen de los materiales o residuos que se manejen, y que al no ser consideradas altamente riesgosas por la legislación federal son competencia estatal;
 
@@ -115,7 +117,9 @@ XI. BIODIVERSIDAD: La variabilidad de organismos vivos de cualquier fuente, incl
 
 XII. CENTRO DE VERIFICACIÓN VEHICULAR: La instalación fija, móvil o local, establecida o autorizada por la Secretaría, en el que se lleva a cabo la medición con equipo autorizado de las emisiones contaminantes provenientes de vehículos automotores en circulación;
 
-XIII. CONSEJO: El Consejo Estatal de Participación Ciudadana del Sector Ambiental;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XIII. CONSEJO: El Consejo Consultivo Estatal de Participación Ciudadana del Sector Ambiental;
 
 XIV. CONSERVACIÓN AMBIENTAL: Mantener los ecosistemas en forma tal que se resguarde su equilibrio ecológico, llevando a cabo acciones de preservación o bien de aprovechamiento sustentable;
 
@@ -419,9 +423,17 @@ XIII. Registrar, controlar y actualizar los inventarios derivados de los decomis
 
 XIV. Acordar la admisión de los recursos de revisión que se interpongan en contra de los actos que emita, así como otorgar o denegar la suspensión del acto recurrido, proveyendo sobre la admisibilidad de los medios probatorios ofrecidos conforme a la Ley aplicable, turnándolos a la Secretaria para la formulación de la resolución que corresponde emitir al superior jerárquico;
 
-XV. Elaborar los informes previos y justificados que en materia de amparo deban rendir los servidores públicos adscritos a la procuraduría, cuando sean señalados como autoridades responsables; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-XVI. Las demás que le confieran las disposiciones jurídicas aplicables, así como las encomendadas expresamente por el Secretario para el cumplimiento de sus fines.
+XV. Elaborar los informes previos y justificados que en materia de amparo deban rendir los servidores públicos adscritos a la procuraduría, cuando sean señalados como autoridades responsables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2021)</small>
+
+XVI. Vigilar y observar el cumplimiento de las Normas Oficiales Mexicanas en materia de contaminación generada por la emisión de ruido, cuando se rebasen los límites máximos establecidos tanto de fuentes fijas como de móviles; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ENERO DE 2021)</small>
+
+XVII. Las demás que le confieran las disposiciones jurídicas aplicables, así como las encomendadas expresamente por el Secretario para el cumplimiento de sus fines.
 
 ###### ARTÍCULO 8.
 
@@ -1195,7 +1207,11 @@ a) Autorización en materia de impacto y riesgo ambiental, en su caso.
 
 b) Registro de emisiones y transferencia de contaminantes.
 
-c) Descarga de aguas residuales.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
+c) Programa de Control de descarga de aguas residuales, el cual debe cumplir con las Normas Oficiales Mexicanas, normas técnicas ecológicas, lineamientos y demás disposiciones relativas.
+
+Asimismo, acreditar que el personal que opera las plantas de tratamiento de aguas residuales cuenta con los conocimientos y habilidades necesarias para llevar a cabo estos procesos.
 
 d) Generación y disposición de residuos de manejo especial, sólidos urbanos y los peligrosos generados por micro-generadores.
 
@@ -1429,11 +1445,11 @@ En el caso de la fracción IV, el procedimiento administrativo para obtener la c
 
 #### SECCIÓN DÉCIMA CUARTA. PARTICIPACIÓN CIUDADANA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 77.
 
-El Consejo Estatal de Participación Ciudadana Ambiental es un órgano permanente de opinión, consulta, concertación social y, en su caso, emisor de recomendaciones a los Poderes del Estado y los ayuntamientos, en el diseño, ejecución y evaluación de las políticas, programas y acciones públicas en materia de protección al ambiente, desarrollo sustentable y ordenamiento territorial del Estado. En la integración de este prevalecerá el principio de paridad de género.
+El Consejo Consultivo Estatal de Participación Ciudadana del Sector Ambiental, es un órgano permanente de opinión, consulta pública, concertación social, coordinación y, en su caso, emisor de recomendaciones a los Poderes del Estado y a los ayuntamientos, en el diseño, ejecución y evaluación de las políticas, programas, proyectos y acciones públicas en materia de protección al ambiente, desarrollo sustentable y ordenamiento territorial del Estado. En la integración de este prevalecerá el principio de paridad de género y el principio de máxima publicidad.
 
 Su funcionamiento se regulará por el Reglamento Interior que para tal efecto se expida.
 
@@ -1477,7 +1493,9 @@ m) El Coordinador de Protección Civil y Gestión de Riesgos de la Secretaría d
 
 n) El Procurador Estatal de Protección al Ambiente.
 
-Podrán participar con voz pero sin voto representantes de otras dependencias y entidades, las instituciones públicas o privadas y organizaciones sociales involucradas en el sector de medio ambiente y desarrollo sustentable, a través de invitación que les dirija el Secretario Técnico por acuerdo del Consejo. Se celebrarán como mínimo dos sesiones al año o cada vez que el Presidente o la mayoría de los miembros del Consejo lo soliciten por escrito.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
+Podrán participar con voz, pero sin voto, representantes de otras dependencias y entidades, las instituciones públicas o privadas y organizaciones sociales involucradas en el sector de medio ambiente y desarrollo sustentable, a través de solicitud de los interesados o por invitación que les dirija el Secretario Técnico por acuerdo del Consejo. Se celebrarán como mínimo dos sesiones al año o cada vez que el Presidente o la mayoría de los miembros del Consejo lo soliciten por escrito.
 
 ###### Artículo 79.
 
@@ -1491,13 +1509,23 @@ III. Elaborar propuestas en materia de políticas públicas, programas, estudios
 
 IV. Con base en la evaluación del cumplimiento de las metas previstas para el sector ambiental y desarrollo urbano realizado por la Secretaría, emitir las recomendaciones a las dependencias de la administración pública estatal y municipal que permitan ajustar sus planeación, programas y políticas a fin de alcanzar las metas establecidas;
 
-V. Promover la concienciación y participación ciudadana en temas relacionados con el ambiente y ordenamiento ecológico del territorio en el Estado;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+V. Promover la concienciación y participación ciudadana en temas relacionados con el ambiente y ordenamiento ecológico del territorio en el Estado; así como atender y canalizar con la autoridad competente las peticiones de organizaciones y personas relacionadas con el cuidado y protección del medio ambiente;
 
 VI. Promover, en coordinación con las dependencias de la administración pública estatal, el diseño y uso de instrumentos económicos que permitan alcanzar las metas del sector ambiental y desarrollo urbano en el Estado;
 
-VII. Promover, en coordinación con las dependencias de la administración pública estatal y municipal correspondientes, la educación, investigación y difusión de los avances científicos y tecnológicos que existan sobre temas ambientales, de ordenamiento territorial y desarrollo sustentable; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-VIII. Las previstas en la normatividad aplicable.
+VII. Promover, en coordinación con las dependencias de la administración pública estatal y municipal correspondientes, la educación, investigación y difusión de los avances científicos y tecnológicos que existan sobre temas ambientales, de ordenamiento territorial y desarrollo sustentable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2021)</small>
+
+VIII. Convocar a consultas públicas, foros y otros mecanismos de participación ciudadana en materia de protección ambiental; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ENERO DE 2021)</small>
+
+IX. Las previstas en la normatividad aplicable.
 
 #### SECCIÓN DÉCIMA QUINTA. ENERGÍAS RENOVABLES
 
@@ -1909,9 +1937,11 @@ La Secretaría, la Procuraduría y los Ayuntamientos, son competentes para aplic
 
 #### SECCIÓN PRIMERA. EMISIÓN DE CONTAMINANTES GENERADOS POR FUENTES FIJAS
 
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 132.
 
-Para la operación y funcionamiento de fuentes fijas de jurisdicción estatal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá la Licencia Ambiental Estatal, que expedirá la Secretaría a los interesados que cumplan con los requisitos y límites de las normas correspondientes y cumplir además con las siguientes obligaciones:
+Para la operación y funcionamiento de fuentes fijas de jurisdicción estatal que emitan o puedan emitir ruidos que rebasen los límites máximos permisibles, olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá la Licencia Ambiental Estatal, que expedirá la Secretaría a los interesados que cumplan con los requisitos y límites de las normas correspondientes y cumplir además con las siguientes obligaciones:
 
 I. Canalizar las emisiones a través de conductos que permitan su control y medición;
 
@@ -2137,6 +2167,10 @@ La prevención y control de la contaminación del agua, corresponde a los organi
 
 La verificación, inspección y vigilancia en materia de aguas de competencia Estatal y a petición de los ayuntamientos previo convenio, de aguas de jurisdicción municipal, así como la determinación de medidas precautorias, correctivas o compensatorias y sanciones, corresponde a los organismos públicos que administren el agua del Estado, así como a la Procuraduría en el ámbito de sus respectivas competencias.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2021)</small>
+
+Tratándose de plantas de tratamiento de aguas residuales, las inspecciones a las que se refiere este artículo, deberán enfocarse, además, al diagnóstico de las condiciones estructurales y de funcionamiento para identificar, oportunamente, posibles fallas o daños y proceder a su inmediata reparación.
+
 Las disposiciones contenidas en el presente artículo son aplicables a las descargas de aguas residuales que se viertan a los cuerpos de agua y a los sistemas de drenaje y alcantarillado de los municipios, observando las disposiciones contenidas en esta Ley y demás disposiciones aplicables.
 
 Los responsables de las descargas de las aguas residuales a las que se refiere este artículo, deberán tramitar la Licencia Ambiental Estatal ante la Secretaría y presentar los estudios correspondientes.
@@ -2191,9 +2225,11 @@ Quedan prohibidas las emisiones de ruido, vibraciones, olores, energía térmica
 
 En la construcción de obras o instalaciones que generen energía térmica o lumínica, olores, ruido o vibraciones, así como en la operación o funcionamiento de las existentes, deberán llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes en el equilibrio ecológico y el ambiente.
 
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 173.
 
-Cualquier actividad no industrial que se realice en los centros de población, cuyas emisiones de ruido, vibraciones, energía térmica y lumínica, rebasen o puedan rebasar los límites máximos establecidos por la Normas Oficiales Mexicanas, requieren permiso de la Autoridad Municipal competente.
+Cualquier actividad no industrial que se realice en los centros de población, cuyas emisiones de ruido, vibraciones, energía térmica y lumínica, rebasen o puedan rebasar los límites máximos establecidos por la Normas Oficiales Mexicanas y Normas Técnicas Ecológicas Estatales, requieren permiso de la Autoridad Municipal competente.
 
 ###### Artículo 174.
 
@@ -2557,9 +2593,17 @@ XI. La remediación de sitios contaminados;
 
 XII. Hacer efectivas las fianzas o seguros que se hubieren otorgado;
 
-XIII. Ordenar el retiro de la circulación de los vehículos que generen contaminación; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-XIV. La remisión de vehículos a los depósitos correspondientes.
+XIII. Ordenar el retiro de la circulación de los vehículos que generen contaminación;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XIV. La remisión de vehículos a los depósitos correspondientes; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XV.- La compensación que determine la autoridad correspondiente cuando ocurra daño a la salud de las personas por la contaminación generada por la emisión de ruido.
 
 Si una vez vencido el plazo concedido por la Autoridad para subsanar las infracciones que se hubiesen cometido, resultare que dichas infracciones subsisten, se podrán imponer multas por cada día que transcurra, sin obedecer el mandato, sin que el total de las multas exceda del monto máximo permitido.
 
@@ -2651,11 +2695,29 @@ VII. Los establecimientos sujetos a reporte que no cuenten con Cedula de Operaci
 
 VIII. Los Centros de Verificación Vehicular que no cuenten con Autorización Vigente al Momento de la Visita de Verificación, serán sancionados con multa de 1000 días de salario mínimo vigente en el Estado de Hidalgo;
 
-IX. Los Centros de Verificación Vehicular que no cumplan con los lineamientos normativos para el funcionamiento de la Red Estatal de Centros de Verificación Vehicular, del año que corresponda, excepto la Autorización para su funcionamiento, serán sancionados con multa de 500 días de salario mínimo vigente en el Estado de Hidalgo; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+IX. Los Centros de Verificación Vehicular que no cumplan con los lineamientos normativos para el funcionamiento de la Red Estatal de Centros de Verificación Vehicular, del año que corresponda, excepto la Autorización para su funcionamiento, serán sancionados con multa de 500 días de salario mínimo vigente en el Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
 X. Los Centros de Verificación Vehicular que expidan Certificados de Verificación Vehicular en contravención a la presente Ley, serán sancionados con multa de 1000 días de salario mínimo vigente en el Estado de Hidalgo.
 
-Quien realice la quema de cualquier tipo de material o residuo sólido o líquido, residuos sólidos urbanos o de manejo especial a cielo abierto, sin contar con autorización correspondiente, será sancionado con una multa de 500 días de salario mínimo vigente en el Estado de Hidalgo.
+Quien realice la quema de cualquier tipo de material o residuo sólido o líquido, residuos sólidos urbanos o de manejo especial a cielo abierto, sin contar con autorización correspondiente, será sancionado con una multa de 500 días de salario mínimo vigente en el Estado de Hidalgo; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XI. Las personas físicas y morales responsables de fuentes fijas que generen contaminación por la emisión de ruido, serán multadas cuando rebasen los límites máximos permisibles establecidos en la Norma Oficial en la materia y en la presente Ley y serán acreedoras a las siguientes multas:
+
+a) En zonas habitacionales (exteriores) dentro de un horario de 6:00 h a 22:00 h el nivel máximo es de 55 decibel (dB) y de 22:00 h a 6:00 h el máximo es de 50 decibel (dB). Al que incumpla los límites señalados la multa corresponderá a lo previsto en la fracción II del Artículo 215 de la presente Ley.
+
+b) En zonas industriales y/o comerciales (exteriores) dentro de un horario de 6:00 h a 22:00 h el máximo permitido será de 68 decibel (dB) y de 22:00 h a 6:00 h el límite será de 65 decibel (dB). Al que incumpla los límites señalados la multa corresponderá a lo previsto en la fracción II y XV del Artículo 215 de la presente Ley.
+
+c) En zonas escolares aplicando dentro de aulas de clases y en espacios de juego y recreo escolar, el límite permitido será de 55 decibel (dB) en un horario de 7:00 h a 21:00 h. Al que incumpla los límites señalados la multa corresponderá a lo previsto en la fracción II del Artículo 215 de la presente Ley.
+
+d) En zonas donde celebran ceremonias, festivales y eventos de entretenimiento bajo la limitación de cuatro horas como límite máximo es de 100 decibel (dB), bajo permiso previo de la autoridad competente. Al que incumpla los límites señalados la multa corresponderá a lo previsto en la fracción II y XV del Artículo 215 de la presente Ley.
+
+Las autoridades estatales y municipales contarán con sonómetros disponibles para la medición de las emisiones acústicas y darán trámite a las denuncias ciudadanas, en los términos dispuestos en esta ley y sus respectivos reglamentos.
 
 ###### Artículo 217.
 
@@ -3304,3 +3366,11 @@ P.O. 1 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 176 QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 20 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 574 DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los Ayuntamientos contarán con sesenta días para la adecuación de sus reglamentos acorde al presente Decreto.
