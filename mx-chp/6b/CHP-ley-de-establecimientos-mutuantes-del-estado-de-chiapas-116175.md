@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-establecimientos-mutuantes-del-estado-de-chiapas-116175"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2016-05-04"
+last_updated: "2021-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116175&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE ESTABLECIMIENTOS MUTUANTES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2021.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Chiapas, el 4 de mayo de 2016.
 
@@ -111,7 +111,9 @@ Para realizar el trámite de obtención del permiso que refiere la presente Ley,
 
 I. Nombre, razón social y/o denominación del permisionario.
 
-II. Registro Federal y Estatal de Contribuyentes.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+II. Cédula de Identificación Fiscal o Constancia de Situación Fiscal Actualizada.
 
 III. Clave Única de Registro de Población CURP del permisionario o representante legal.
 
@@ -181,7 +183,13 @@ Para la modificación del permiso, el permisionario deberá presentar ante la Se
 
 I. Solicitud por escrito expresando la causa que motiva la petición.
 
-II. Los documentos que acrediten la causa invocada.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE ENERO DE 2021)</small>
+
+II. Los documentos que acrediten la causa que motive la petición, conforme a lo siguiente:
+
+a) Acuse de movimientos de Situación Fiscal emitido por el Servicio de Administración Tributaria.
+
+b) Copia Certificada del Acta protocolizada ante Fedatario Público donde conste el cambio de denominación o Razón Social.
 
 III. Permiso original.
 
@@ -340,3 +348,13 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los 03 días del mes de mayo de 2016, con el refrendo de los CC. Secretario General de Gobierno y Secretario de Hacienda del Estado.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Humberto Pedrero Moreno, Secretario de Hacienda.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 181 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ESTABLECIMIENTOS MUTUANTES DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
