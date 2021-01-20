@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2018-07-31"
+last_updated: "2021-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -65,15 +65,21 @@ LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
 ### CAPÍTULO I. Del Objeto de la ley
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto:
+Las disposiciones de esta Ley son de orden público e interés general, de observancia y aplicación en el Estado de Hidalgo y tienen por objeto:
 
-I.- Establecer las bases del Sistema Estatal de Asistencia Social Pública y Privada del Estado de Hidalgo, el cual deberá ordenar y conducir las políticas públicas de asistencia social para la atención de la población en situación de vulnerabilidad de la Entidad, en correspondencia con lo que indique el presente ordenamiento, así como las demás disposiciones aplicables a la materia;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+I. Sentar las bases para la promoción de un Sistema Estatal de Asistencia Social que fomente y coordine la prestación de servicios de asistencia social pública y privada e impulse la participación de la sociedad en la materia;
 
 II.- Ser el ordenamiento rector en materia de Asistencia Social Pública y Privada, incluyendo Asociaciones Civiles que realicen acciones en materia de asistencia social en el Estado de Hidalgo;
 
-III.- Garantizar la concurrencia y colaboración de los tres órdenes de Gobierno, así como la participación del sector privado y social, en la prestación de los servicios de asistencia social;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+III. Garantizar la concurrencia y colaboración de los tres órdenes de Gobierno, así como la participación del sector privado y la sociedad, en la prestación de los servicios de asistencia social;
 
 IV.- Promover la corresponsabilidad de la sociedad civil organizada en las acciones materia de asistencia social;
 
@@ -83,147 +89,149 @@ VI.- Dirigir la prestación .de servicios y acciones en materia de asistencia so
 
 ### CAPÍTULO II. De las Definiciones
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 2.
 
 Para los efectos de esta Ley, se entiende por:
 
-I.- Acoso Escolar.- Cualquier forma de maltrato psicológico, verbal o físico producido entre iguales, es decir de un alumno o alumnos a un alumno o alumnos de forma reiterada;
+I. Adolescente.- Las personas que tiene (sic) entre 12 años cumplidos y menos de 18 años de edad;
 
-II.- (DEROGADA, P.O. 31 DE JULIO DE 2018)
+II. Asistencia Social.- El conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física o mental, hasta lograr su incorporación a una vida plena y productiva. La asistencia social comprende acciones de promoción, previsión, prevención, protección y rehabilitación;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
+III. Asistencia Social Privada.- Los servicios o actos asistenciales que presten las personas jurídicas constituidas legalmente como: Instituciones de Asistencia Privada, Asociaciones Civiles, Fundaciones y Organizaciones Civiles;
 
-III.- Asistencia Social.- El conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+IV. Asistencia Social Pública.- Los servicios y actos que promueven o prestan las dependencias e instituciones públicas en materia de asistencia social;
 
-IV.- Asistencia Social Privada.-Los servicios o actos asistenciales que presten las personas jurídicas constituidas legalmente como: Instituciones de Asistencia Privada, Asociaciones Civiles, Fundaciones y Organizaciones Civiles;
+V. Beneficiario.- Es la persona que recibe un servicio o apoyo asistencial a través de los programas, acciones y servicios de asistencia social que promueven y prestan las dependencias e instituciones de asistencia social públicas y privadas;
 
-V.- Asistencia Social pública.- Los servicios y actos que promueven o prestan las dependencias e instituciones públicas en materia de asistencia social;
+VI. Centros Asistenciales Públicos y Privados.- Todos aquellos centros que prestan un servicio asistencial a la población vulnerable;
 
-VI.- Beneficiario.- Es la persona que recibe un servicio o apoyo asistencial a través de los programas, acciones y servicios de asistencia social que promueven y prestan las dependencias e instituciones de asistencia social públicas y privadas;
+VII. Consejo.- Consejo Estatal de Asistencia Social, Órgano auxiliar del Sistema Estatal de Asistencia Social;
 
-VII.- Capacidad Mental.- Estado de bienestar emocional y psicológico, en el cual el individuo es capaz de hacer uso de sus habilidades emocionales y cognitivas, funciones sociales y de responder a las demandas ordinarias de la vida cotidiana;
+VIII. Corresponsabilidad Familiar.- Equilibrio en el cumplimiento de los derechos, deberes y obligaciones que asumen entre sí, los integrantes de una familia con perspectiva de desarrollo humano;
 
-VIII.- Centros Asistenciales Públicos y Privados.- Todos aquellos centros que prestan una atención personalizada y regular a la población vulnerable;
+IX. Corresponsabilidad Social.- Compromiso del Gobierno, así como de la sociedad en la participación responsable y consciente que tiene de colaborar en la solución de problemáticas sociales para alcanzar su desarrollo humano y el desarrollo del Estado;
 
-IX.- Consejo.- Consejo Estatal de Asistencia Social, como órgano auxiliar del Sistema Estatal de Asistencia Social Pública y Privada;
+X. Desarrollo Integral.- Las actividades que por su naturaleza atienden al pleno desarrollo del potencial de las personas, respetando sus derechos humanos;
 
-X.- Corresponsabilidad Social.- Compromiso del Gobierno, así como de la sociedad en la participación responsable y consciente que tiene de colaborar en la solución de problemáticas sociales para alcanzar su desarrollo humano y el desarrollo del Estado;
+XI. Desnutrición.- Estado patológico ocasionado por la falta de ingestión o absorción de nutrientes. De acuerdo a la gravedad del cuadro, dicha enfermedad puede ser dividida en primer, segundo y hasta tercer grado;
 
-XI.- Corresponsabilidad Familiar.- Equilibrio en el cumplimiento de los derechos, deberes y obligaciones que asumen entre sí, los integrantes de una familia con perspectiva de desarrollo humano;
+XII. Directorio Estatal.- Directorio Estatal de Instituciones de Asistencia Social;
 
-XII.- Desarrollo Integral.- Las actividades que por su naturaleza atienden al pleno desarrollo del potencial de las personas, respetando sus derechos humanos;
+XIII. Explotación.- Conducta humana que puede traducirse en:
 
-XIII.- Desnutrición: Estado patológico ocasionado por la falta de ingestión o absorción de nutrientes. De acuerdo a la gravedad del cuadro, dicha enfermedad puede ser dividida en primer, segundo y hasta tercer grado;
+a) Someter a una persona a una conducta de esclavitud;
 
-XIV.- Enfermedad Mental.- Alteración de los procesos cognitivos y afectivos del desarrollo, considerado como anormal con respecto al grupo social de referencia del cual proviene el individuo. Se encuentra alterado el razonamiento, el comportamiento, la facultad de reconocer la realidad o de adaptarse a las condiciones de la vida;
+b) Someter a una persona a prácticas análogas a la esclavitud, las cuales comprenden: la servidumbre por deuda, matrimonio forzado o servil, la explotación de la mendicidad ajena;
 
-XV.- Explotación.- Conducta humana que puede traducirse en:
+c) Obligar a una persona mediante la fuerza, amenaza, coacción o cualquier tipo de restricción física o moral, a proporcionar trabajos forzosos o servicios;
 
-a. Someter a una persona a una condición de esclavitud;
+d) Mantener a una persona en condición de servidumbre, incluida la servidumbre de carácter sexual;
 
-b. Prácticas análogas a la esclavitud, las cuales comprenden: La servidumbre por deuda, matrimonio forzado o servil, la explotación de la mendicidad ajena;
+e) La explotación de la prostitución de otra persona; y
 
-c. Obligar a una persona mediante la fuerza, amenaza, coacción o cualquier tipo de restricción física o moral, a proporcionar trabajos forzosos o servicios;
+f) La extracción ilícita de un órgano, tejidos, sus componentes o derivados del organismo humano.
 
-d. Mantener a una persona en condición de servidumbre, incluida la servidumbre de carácter sexual;
+XIV. Familia.- Institución social, permanente, compuesta por un conjunto de personas unidas por el vínculo jurídico del matrimonio o por concubinato; por el parentesco de consanguinidad, adopción o afinidad y se reconoce a la familia como el fundamento primordial de la sociedad y del Estado;
 
-e. La explotación de la prostitución de otra persona; y
+XV. Igualdad de Género.- Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
 
-f. La extracción ilícita de un órgano, tejidos, sus componentes o derivados del organismo humano.
+XVI. Igualdad Sustantiva.- Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
-XVI.- Explotación Sexual Comercial de Niños.- Abuso sexual de niños que involucra ventajas financieras para una o varias de las partes que intervienen en la actividad sexual y que puede ser de dos tipos:
+XVII. Indígena.- La persona que se auto adscriba y reconozca a sí misma, como miembro de pueblos o comunidades indígenas, lo cual implica asumir como propios los rasgos sociales, históricos y las pautas culturales que lo caracterizan;
 
-a. Involucra la transferencia de dinero de un adulto a un niño en intercambio por sexo; y
+XVIII. Integración social.- Proceso de desarrollo de capacidades para que los individuos, familias o grupos sujetos de asistencia social puedan reincorporarse a la vida comunitaria con pleno respeto a su dignidad, identidad y derechos sobre la base de la igualdad y equidad de oportunidades;
 
-b. Involucra la provisión en especie o servicios que un adulto intercambia por sexo con un niño.
+XIX. Instituciones de Asistencia Social Privada.- Entidades jurídicas debidamente constituidas conforme a Ley, que con bienes de propiedad particular se dedican a ejecutar actos cuyos fines son humanitarios, de asistencia, sin propósito de lucro y sin designar individualmente a los beneficiarios;
 
-XVII.- Familia.- Institución social, permanente, compuesta por un conjunto de personas unidas por el vínculo jurídico del matrimonio o por concubinato; por el parentesco de consanguinidad, adopción o afinidad; es decir, integración de personas que se identifican pertenecientes a ese conjunto, que comparten sentimientos, necesidades y aspiraciones humanas .universales tales como: fisiológicas, la seguridad, la afiliación y el reconocimiento, que contribuyen a su autorrealización;
+XX. Instituciones de Asistencia Social Pública.- Dependencias, Entidades y Organismos de la Administración Pública, que lleven a cabo acciones de promoción, prevención, atención o investigación de servicios asistenciales;
 
-XVIII.- Indigente.- Persona que por factores multicausales, que pueden ser derivados por situaciones de abuso o maltrato o frustración en alguna etapa de su vida, padecen un mayor número de desórdenes mentales (depresión, niveles altos de angustia, ideas paranoides y psicosis, entre otros) y/o problemas adictivos (drogas y alcohol) que les ocasiona se olviden de cuidar de sí mismos y deambulen por las calles, lo que implica que no puedan garantizarse por ellos mismos su salud ni bienestar;
+XXI. Gobernador del Estado.- La persona titular del Poder Ejecutivo del Estado de Hidalgo;
 
-XIX.- Integración Social.- Proceso de desarrollo de capacidades para que los individuos, familias o grupos sujetos de asistencia social puedan reincorporarse a la vida comunitaria con pleno respeto a su dignidad, identidad y derechos sobre la base de la igualdad y equidad de oportunidades;
+XXII. Gobierno del Estado.- Gobierno del Estado de Hidalgo;
 
-XX.- Instituciones de Asistencia Social Privada.- Personas jurídicas debidamente constituidas conforme a la Ley, que lleven a cabo acciones de promoción, atención, investigación o financiamiento de servicios asistenciales sin fines de lucro;
+XXIII. Ley.- La Ley de Asistencia Social para el Estado de Hidalgo;
 
-XXI.- Instituciones de Asistencia Social Públicas.- Dependencias, Entidades y Organismos de la Administración Pública debidamente constituidas conforme a la Ley, que lleven a cabo acciones de promoción, prevención, atención o investigación de servicios asistenciales;
+XXIV. LGBTTTI.- Lésbico, gay, bisexual, transexual, transgénero, travesti e intersexual;
 
-XXII.- Gobierno del Estado.- Gobierno del Estado de Hidalgo;
+XXV. Maltrato.- Todo acto de acción u omisión que cause daño físico, psicológico o sexual, ejercido hacia cualquier persona, en el contexto de una relación de responsabilidad, confianza o poder, en forma ocasional o habitual, afectando su desarrollo armónico, íntegro y adecuado, comprometiendo su entorno y consecuentemente se (sic) desenvolvimiento social;
 
-XXIII.- Ley.- La Ley de Asistencia Social para el Estado de Hidalgo;
+XXVI. Niña o Niño: Son niñas y niños los menores de 12 años.
 
-XXIV.- Maltrato: Todo acto de acción u omisión que cause daño físico, psicológico y/o sexual, ejercido hacia cualquier persona, en el contexto de una relación de responsabilidad, confianza o poder, en forma ocasional o habitual, afectando su desarrollo armónico, íntegro y adecuado comprometiendo su entorno y consecuentemente su desenvolvimiento social;
+XXVII. Organismo.- El Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo;
 
-XXV.- Maltrato Infantil.- Todo acto de acción u omisión que atenten contra los derechos de las niñas, niños y adolescentes; ocasionando daño físico, psicológico y/o sexual, mientras se encuentren bajo la custodia de los padres, tutor o de cualquier otra persona que lo tenga a su cargo; o en el contexto de una relación de responsabilidad, confianza o poder realizado en forma ocasional o habitual; afectando su desarrollo armónico, íntegro y adecuado;
+XXVIII. Organismo Municipal.- Unidad Administrativa u Órgano desconcentrado u Organismo Público Descentralizado de la Administración Pública Municipal, denominado Sistema para el Desarrollo Integral de la Familia Municipal o Junta Municipal para el Desarrollo Integral de la Familia;
 
-XXVI.- Organismo.- Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo;
+XXIX. Padrón.- Relación oficial de las personas beneficiarias atendidas por los programas asistenciales que opera o coordina el Organismo, ya sea de manera directa o a través de los Organismos Municipales;
 
-XXVII.- Organismo Municipal.- Unidad Administrativa dependiente de la Presidencia Municipal u Órgano desconcentrado u Organismo Público Descentralizado de la Administración Pública Municipal, denominado Sistema para el Desarrollo Integral de la Familia Municipal y/o Junta Municipal para el Desarrollo Integral de la Familia;
+XXX. Patronato.- Consejo formado para apoyar a que el Organismo cumpla debidamente con su objeto otorgado por esta Ley;
 
-XXVIII.- Padrón.- Relación oficial de beneficiarios que incluye a las personas atendidas por los programas asistenciales que opera o coordina el Organismo ya sea de manera directa o a través de los Organismos Municipales;
+XXXI. Persona con discapacidad.- Toda persona que por razón congénita o adquirida, presenta una o más deficiencias de carácter físico, mental, psicológico, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, puede impedir su inclusión plena y efectiva en igualdad de condiciones con los demás;
 
-XXIX.- Patronato. Autoridad del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo;
+XXXII. Persona en Situación de Calle.- Persona que por factores multicausales, que pueden ser derivados por situaciones de abuso o maltrato o frustración en alguna etapa de su vida, padecen un mayor número de desórdenes mentales (depresión, niveles altos de angustia, ideas paranoides y psicosis, entre otros) o problemas adictivos (drogas y alcohol) que les ocasiona se olviden de cuidar de sí mismos y deambulen por las calles, lo que implica que no puedan garantizarse por ellos mismos su salud ni bienestar;
 
-XXX.- Persona con Discapacidad.- Toda persona que por razón congénita o adquirida, presenta una o más deficiencias de carácter físico, mental, psicológico, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, puede impedir su inclusión plena y efectiva en igualdad de condiciones con los demás;
+XXXIII. Prevención.- Acción orientada a detectar factores de riesgo de vulnerabilidad a efecto de evitar su potencialización, en la medida de lo posible, estableciendo programas y proyectos encaminados a disminuirlos;
 
-XXXI.- Pornografía Infantil: La representación material por vía de película, impresión, foto, audio o video grabación y representaciones digitales de niñas, niños o adolescentes realizando actos sexuales explícitos, reales o simulados o toda representación de las partes genitales con fines primordialmente sexuales para la gratificación sexual de los usuarios, incluyendo la producción, distribución y el uso de dichos materiales;
+XXXIV. Procuraduría.- La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo;
 
-XXXII.- Prevención: Acción orientada a detectar factores de riesgo de vulnerabilidad a efecto de evitar su potencialización, en la medida de lo posible; estableciendo programas y proyectos, encaminados a disminuirlos;
+XXXV. Programas.- Programas Operativos de Asistencia Social contenidos en el Capítulo Único del Título Séptimo de la presente Ley;
 
-XXXIII.- Procuraduría.- La Procuraduría de la Defensa del Menor y la Familia;
+XXXVI. Reglas de operación.- Las disposiciones a las cuales se sujetan determinados programas con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos, emitidas por la autoridad institucional correspondiente y de acuerdo a los estatutos vigentes;
 
-XXXIV.- Programas.- Programas Operativos de Asistencia Social contenidos en el Capítulo I del Título Séptimo;
+XXXVII. Sistema.- El Sistema Estatal de Asistencia Social del Estado de Hidalgo;
 
-XXXV.- Reglas de operación.- Las disposiciones a las cuales se sujetan determinados programas con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos; emitidas por la autoridad institucional correspondiente y de acuerdo a los estatutos vigentes;
+XXXVIII. Sobrepeso y obesidad.- Se refiere a una acumulación anormal o excesiva de grasa corporal que puede ser perjudicial para la salud con relación a la estatura y edad;
 
-XXXVI.- Secretarías.- La Secretaría de Desarrollo Social del Estado de Hidalgo y la Secretaría de Salud del Estado de Hidalgo;
+XXXIX. Situación de riesgo.- Estado en el que se encuentran las personas, familias o grupos de población que por diferentes factores (personales, sociales, culturales y tecnológicos, entre otros) están propensos a vivir una problemática social y que requieren de protección o asesoría para tomar decisiones que, en medida de lo posible, les eviten padecer situaciones de vulnerabilidad;
 
-XXXVII.- Sistema.- El Sistema Estatal de Asistencia Social Pública y Privada del Estado de Hidalgo;
+XL. Situación de vulnerabilidad.- Estado en el que se encuentran las personas, familias o grupos de población que por diferentes factores (personales, sociales, culturales y tecnológicos, entre otros) enfrentan una problemática social y que no cuentan con las condiciones necesarias para solucionarla por sí mismos, lo que les impide alcanzar mejores niveles de vida y lograr su bienestar;
 
-XXXVIII.- Sobrepeso y obesidad.- Se refiere a una acumulación anormal o excesiva de grasa corporal que puede ser perjudicial para la salud con relación a la estatura y edad;
+XLI. Titular del Organismo.- Persona titular del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo;
 
-XXXIX.- Situación de riesgo.- Estado en el que se encuentran los individuos, familias o grupos de población que por diferentes factores (personales, sociales, culturales y tecnológicos entre otros) están propensos a vivir una problemática social y que requieren de protección o asesoría para tomar decisiones que, en la medida de lo posible, les eviten padecer situaciones de vulnerabilidad;
+XLII. Trastorno de la conducta alimentaria.- Los trastornos de conducta alimentaria y de ingesta de alimentos se caracterizan por una alteración persistente en la alimentación o en el comportamiento relacionado con la alimentación que lleva a una alteración en el consumo o en la absorción de los alimentos y causa deterioro significativo de la salud física o del funcionamiento;
 
-XL.- Situación de vulnerabilidad.- Estado en el que se encuentran individuos, familias o grupos de población que por diferentes factores (personales, sociales, culturales y tecnológicos entre otros) enfrentan una problemática social y que no cuentan con las condiciones necesarias para solucionarla por sí mismos, lo que les impide alcanzar mejores niveles de vida y lograr su bienestar;
+XLIII. Trata de personas.- La captación, transporte, traslado, acogida o la recepción de personas, recurriendo a la amenaza o al uso de la fuerza u otras formas de coacción, al rapto, fraude, engaño, abuso de poder o de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra, con fines de explotación.
 
-XLI.- Trastorno de la conducta alimentaria.- Se define como un síndrome psiquiátrico multifactorial, que se manifiesta por la pérdida de peso voluntaria que condiciona una serie de alteraciones orgánicas la causa inmediata es el intenso miedo a ganar peso a pesar de encontrarse en un peso normal, lo cual es el resultado de una alteración de su imagen corporal;
+Dicha explotación incluirá como mínimo, la explotación de la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o las prácticas análogas a la esclavitud, la servidumbre o la extracción de órganos;
 
-XLII.- Trata de personas.- La captación, transporte, traslado, acogida o la recepción de personas, recurriendo a la amenaza o al uso de la fuerza u otras formas de coacción, al rapto, fraude, engaño, abuso de poder o de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra, con fines de explotación;
+XLIV. Víctima.- Persona que ha sufrido una pérdida, daño o lesión, sea en su persona propiamente dicha, su propiedad o sus derechos humanos;
 
-Esa explotación incluirá como mínimo, la explotación de la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o las prácticas análogas a la esclavitud, la servidumbre o la extracción de órganos;
+XLV. Violencia Escolar.- Conducta agresiva e intencionada con el objeto de intimidar y/o someter de manera verbal, psicológica, física, sexual y/o por exclusión social, que se presenta entre uno o más miembros de la misma comunidad educativa, dentro y/o fuera de las instalaciones de la institución, que ponga en riesgo la convivencia escolar;
 
-XLIII.- Víctima: Persona que ha sufrido una pérdida, daño o lesión, sea en su persona propiamente dicha, su propiedad o sus derechos humanos;
+XLVI. Violencia Familiar.- Todo acto de poder u omisión que cause daño, producido dentro o fuera del domicilio familiar, encaminado a dominar, someter, controlar o agredir física, psícoemocional, sexual, verbal, patrimonial o económicamente a cualquier miembro de la familia, con quien se tenga o se haya tenido parentesco, se esté unido por matrimonio, concubinato o se tenga una relación de hecho; El establecimiento de límites a los menores de edad, realizados por los padres para su formación y educación de los mismos, en ningún caso justifica el ejercicio de ningún tipo de violencia;
 
-XLIV.- Violencia Familiar: Uso de la fuerza física o moral, así como la omisión que se ejerza en contra de un miembro de la familia por otro integrante de la misma, contra sus integridades físicas, psíquicas o ambas.
+XLVII. Vulnerabilidad Social.- Es el producto de la interrelación entre diversos elementos, tanto factores inherentes a la persona como elementos externos, que se conjugan para dar como resultado diversos estados en los que las personas, familias o los grupos poblacionales se encuentran inmersos en diversas problemáticas sociales; y
 
-Comete violencia familiar, el cónyuge, concubina o concubino, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral, consanguíneo o afín hasta el cuarto grado, adoptante o adoptado que habite en la misma casa de la víctima;
-
-También se considera que comete violencia, la persona con la que se encuentra unida fuera del matrimonio, los parientes por consanguineidad o afinidad hasta el cuarto grado de esa persona o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona, siempre y cuando el agresor o el agredido habiten en la misma casa;
-
-XLV.- Vulnerabilidad Social: Es el producto de la interrelación entre diversos elementos, tanto factores inherentes a la persona como elementos externos, que se conjugan para dar como resultado diversos estados en los que las personas, familias o los grupos poblacionales se encuentran inmersos en diversas problemáticas sociales; y
-
-XLVI.- Vulnerabilidad Familiar: Es la acumulación de desventajas sociales que vive una familia y su interrelación, con al menos un miembro de la misma en condición de vulnerabilidad, que da por resultado encontrarse en una situación no superable por ellos mismos, es decir, no superable por la misma familia.
+XLVIII. Vulnerabilidad Familiar.- Es la acumulación de desventajas que vive una familia y su interrelación, con al menos un miembro de la misma en condición de vulnerabilidad, que da por resultado encontrarse en una situación no superable por ellos mismos, es decir, no superable por la misma familia.
 
 ## TÍTULO SEGUNDO. DE LA APLICACIÓN DE LA LEY
 
 ### CAPITULO ÚNICO. De los Órganos Competentes
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 3.
 
-Para la aplicación de la presente ley son autoridades competentes:
+Para la aplicación de la presente Ley son autoridades competentes:
 
-I.- El Gobernador del Estado, por conducto de las Secretarías y del Organismo, en el ejercicio de las atribuciones y facultades conferidas por la ley Orgánica de la Administración Pública del Estado de Hidalgo;
+I. El Gobernador del Estado, por conducto del Organismo, la Secretaría de Desarrollo Social y la Secretaría de Salud en el ejercicio de las atribuciones y facultades conferidas por la Ley Orgánica de la Administración Pública para el Estado de Hidalgo;
 
-II.- Las dependencias y entidades Estatales, en el ámbito de sus respectivas competencias; y
+II. Las dependencias y entidades estatales, en el ámbito de sus respectivas competencias; y
 
-III.- Los municipios a través de sus entidades paramunicipales y unidades administrativas en el ámbito de sus respectivas competencias.
+III. Los municipios a través de sus dependencias, entidades paramunicipales, organismos y unidades administrativas en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 4.
 
-El Organismo en coordinación con otras dependencias, ejecutará las acciones previstas en este instrumento con el propósito de mejorar las condiciones de la población en situación de riesgo o de vulnerabilidad.
+El Organismo en coordinación con otras dependencias, ejecutará las acciones previstas en esta Ley con el propósito de mejorar las condiciones de la población en situación de riesgo o de vulnerabilidad.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 5.
 
-Las acciones de asistencia social que realicen los municipios en el ámbito de su competencia, serán congruentes con lo previsto en la presente Ley y en demás ordenamientos legales aplicables en la materia.
+Las acciones de asistencia social que realicen los municipios en el ámbito de su competencia serán congruentes con las agendas internacionales para el desarrollo y con la planeación estatal, así como lo previsto en la presente Ley y los demás ordenamientos legales aplicables en la materia.
 
 ###### Artículo 6.
 
@@ -233,13 +241,13 @@ La rectoría de la asistencia social pública y privada corresponde al Gobernado
 
 ### CAPÍTULO I. De los Sujetos de Asistencia Social
 
+> <small>[N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA MEDIANTE DECRETO 572 EN EL P.O. DE 20 DE ENERO DE 2021, SE ADVIERTE QUE SE ELIMINÓ EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO, VÉASE PÁGINA 24.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 7.
 
-Tienen derecho a la asistencia social los individuos, familias o grupos en situación de vulnerabilidad o en riesgo que por sus condiciones físicas, mentales, jurídicas o sociales, requieran de servicios especializados de forma temporal para su protección y bienestar.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2018)</small>
-
-Con base en lo anterior, son sujetos de asistencia social prioritaria los que se encuentran en situación de vulnerabilidad, preferentemente:
+Tienen derecho a la asistencia social las personas y familias que por sus condiciones físicas, mentales, jurídicas o sociales requieran de servicios especializados para su protección y su plena integración al bienestar. Con base en lo anterior, son sujetos de la asistencia social, preferentemente:
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2018)</small>
 
@@ -323,13 +331,17 @@ d.- Tener algún tipo de trastorno de la conducta alimentaria; y
 
 e.- Padres en situación de vulnerabilidad.
 
-IV.- Indígenas;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+IV.- Indígenas, indígenas migrantes, desplazados o en situación vulnerable;
 
 V.- Migrantes;
 
 VI.- Adultos mayores que se encuentren en abandono, maltrato, abuso o en situación de vulnerabilidad;
 
-VII.- Personas con discapacidad;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+VII.- Personas con algún tipo de discapacidad o necesidades especiales;
 
 > <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
 
@@ -341,23 +353,45 @@ IX.- Personas con problemas de adicción; y
 
 X.- Personas afectadas por desastres naturales.
 
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XI.- Personas en situación de calle;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XII.- Personas de la población LGBTTTI en situación vulnerable;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XIII.- Dependientes de personas privadas de su libertad, de desaparecidos, de enfermos terminales, de alcohólicos o de fármaco dependientes; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XIV.- Los demás sujetos considerados en otras disposiciones jurídicas aplicables.
+
 ### CAPÍTULO II. De los Derechos y Obligaciones de los Sujetos de Asistencia Social
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 8.
 
-Los sujetos que reciban atención a través de la asistencia social tendrán derecho a:
+Los sujetos de atención de la asistencia social tendrán derecho a:
 
-I.- Recibir un trato oportuno con calidad en el marco del desarrollo humano;
+I. Recibir oportunamente servicios de calidad y con calidez, por parte de personal profesional y calificado;
 
-II.- Acceder a los servicios y programas que otorga la asistencia social, tomando en cuenta el principio de igualdad de género;
+II. Acceder a los servicios y programas que otorga la asistencia social, tomando en cuenta el principio de igualdad de género y la igualdad sustantiva;
 
-III.- Que se respeten todos y cada uno de sus derechos humanos y sus garantías individuales como lo establece la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, leyes federales, la Constitución Política del Estado de Hidalgo y otras leyes locales en la materia;
+III. La confidencialidad respecto a sus condiciones personales y de los servicios que reciban;
 
-IV.- Tener acceso a la información de los programas, proyectos y servicios en materia de asistencia social, en los términos que marca la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo;
+IV. Recibir los servicios sin discriminación;
 
-V.- Recibir servicio y apoyo en materia de asistencia social, conforme a la normatividad y lineamientos de los programas asistenciales; y
+V. Que se respeten todos y cada uno de sus derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales en los que el Estado Mexicano sea parte, Leyes Federales, la Constitución Política del Estado de Hidalgo y otras leyes locales en la materia, así como de las garantías para su protección; y
 
-VI.- Presentar quejas y denuncias por escrito ante el Órgano Interno de Control estatal o su similar a nivel municipal según se trate por el incumplimiento de esta Ley.
+VI. Tener acceso a la información de los programas, proyectos y servicios en materia de asistencia social, en los términos de la legislación en materia de transparencia y acceso a la información.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2021)</small>
+
+Las personas y las familias, en la medida de sus posibilidades, participarán en los distintos procesos de la asistencia social, como la capacitación, rehabilitación e integración. Los familiares de los sujetos de la asistencia social serán corresponsables de esa participación y aprovechamiento.
 
 ###### Artículo 9.
 
@@ -375,19 +409,27 @@ V.- Acreditar fehacientemente el buen uso y destino correcto de los recursos apo
 
 ### CAPÍTULO III. De los Servicios y Acciones de Asistencia Social
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 10.
 
-Los servicios y acciones que se diseñen, implementen y ejecuten en los términos de esta Ley, se vincularán en lo conducente al Sistema, de conformidad con las disposiciones aplicables.
+Los servicios y acciones que se diseñen, implementen y ejecuten por parte del Organismo, serán con base a indicadores y a la metodología de marco lógico, mismos que deberán revisarse de manera anual y estar vinculados con el proceso presupuestario, dando respuesta a la prevención, atención de problemas o necesidades asistenciales identificadas en los grupos vulnerables, de conformidad con la legislación aplicable.
+
+> <small>[N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA MEDIANTE DECRETO 572 EN EL P.O. DE 20 DE ENERO DE 2021, SE ADVIERTE QUE SE ELIMINÓ EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO, VÉASE PÁGINA 25.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 11.
 
-Se consideran servicios de asistencia social, el conjunto de acciones y programas del gobierno y la sociedad, tendientes a la atención de los sujetos que se señalan en esta ley para prevenir y atender la problemática social.
+Se consideran servicios de asistencia social, al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y/o mental, hasta lograr su incorporación a una vida plena y productiva, como son los siguientes:
 
-Se consideran servicios y acciones de asistencia social los siguientes:
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-I.- La asesoría, el patrocinio y protección jurídica;
+I. La prestación de servicios de asistencia jurídica;
 
-II.- El fortalecimiento de espacios de atención especializada para quienes son sujetos de esta Ley;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+II. La atención en espacios especializados para quienes son sujetos de esta Ley;
 
 III.- El otorgamiento de atención de carácter integral en donde se impulse el desarrollo y bienestar de individuos, la familia y grupos de manera corresponsable;
 
@@ -415,17 +457,45 @@ XIV.- Las análogas y conexas a las anteriores que tienden a incrementar o modif
 
 XV.- La realización de investigaciones sobre las causas y efectos de la problemática social vigente y sus tendencias en materia de asistencia social;
 
-XVI.- La prestación de servicios funerarios; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-XVII.- Las que se deriven de otros ordenamientos legales aplicables en materia de asistencia social.
+XVI.- La prestación de servicios funerarios;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE ENERO DE 2021)</small>
+
+XVII.- El apoyo a mujeres en períodos de gestación o lactancia, con especial atención a las adolescentes en situación de vulnerabilidad;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XVIII.- La atención a niñas, niños y adolescentes en riesgo de fármaco dependencia, fármaco dependientes o susceptibles de incurrir en hábitos y conductas antisociales y delictivas;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XIX.- La orientación nutricional y la alimentación complementaria a población de escasos recursos y a población de zonas marginadas;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XX.- Coadyuvar con las autoridades educativas en la prestación de servicios de educación especial, con base en lo estipulado en la legislación en materia educativa;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XXI.- La atención a personas que, por sus condiciones de discapacidad y/o vulnerabilidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo; y
+
+> <small>(ADICIONADA, [N. DE E. REUBICADA ANTES FRACCIÓN XVII], P.O. 20 DE ENERO DE 2021)</small>
+
+XXII.- Las que se deriven de otros ordenamientos legales aplicables en materia de asistencia social.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 12.
 
-Los servicios y acciones enumerados en el artículo anterior, podrán ser prestados o realizados por cualquier institución de asistencia social privada, previa autorización que por escrito deberá otorgar las autoridades competentes.
+Los servicios enumerados en el artículo anterior podrán ser prestados por cualquier institución pública o privada, las instituciones privadas no podrán participar en los servicios que por disposición legal correspondan de manera exclusiva a instituciones públicas federales, estatales o municipales.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 13.
 
-Los servicios y acciones en materia de asistencia social, que realice una persona o grupo de personas de manera altruista con fondos propios y que no estén constituidos legalmente, no estarán sujetos a la presente Ley, dichas acciones se harán a título personal.
+Los servicios y acciones en materia de asistencia social, que realice una persona o grupo de personas de manera altruista con recursos propios y que no estén constituidos legalmente, no estarán sujetos a la presente Ley; dichas acciones se harán a título personal.
 
 ###### Artículo 14.
 
@@ -435,45 +505,61 @@ En materia de salubridad general, corresponde al Gobierno del Estado, supervisar
 
 ### CAPÍTULO ÚNICO. De los Instrumentos de Coordinación Interinstitucional
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 15.
 
-Se crea el Sistema Estatal de Asistencia Social Pública y Privada del Estado de Hidalgo, con el objeto de regular, coordinar y concertar, de manera corresponsable, los servicios y acciones en materia de asistencia social pública y privada.
+Se crea el Sistema Estatal de Asistencia Social del Estado de Hidalgo, el cual tiene por objeto promover y apoyar las acciones en favor de las personas y familias a que se refiere esta Ley, con la participación de los sectores público, privado y la sociedad.
 
-El Sistema, es una institución de concurrencia, cooperación, colaboración, coordinación y concertación entre las dependencias y entidades de la Administración Pública Estatal, en su caso, municipal y del orden federal con atribuciones de asistencia social; asimismo con los sectores social y privado que tengan actividades en dicha materia.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 16.
 
 Son integrantes del Sistema:
 
-I.- El Gobernador del Estado;
+I. El Gobernador del Estado;
 
-II.- Las Secretarías;
+II. El Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo;
 
-III.- La Secretaría de Educación Pública;
+III. La Secretaría de Desarrollo Social;
 
-IV.- La Secretaría de Gobierno;
+IV. La Secretaría de Salud;
 
-V.- La Secretaría de Agricultura y Desarrollo Rural;
+V. La Secretaría de Educación Pública;
 
-VI.- Procuraduría General de Justicia;
+VI. La Secretaría de Gobierno;
 
-VII.- El Organismo;
+VII. La Secretaría Ejecutiva de la Política Pública Estatal;
 
-VIII.- Instituto Hidalguense de las Mujeres;
+VIII. La Unidad de Planeación y Prospectiva;
 
-IX.- Instituto para la Atención de los Adultos Mayores;
+IX. La Secretaría de Desarrollo Agropecuario;
 
-X.- Instituto Hidalguense de la Juventud;
+X. La Procuraduría General de Justicia;
 
-XI.- Los Organismos Municipales;
+XI. La Comisión de Derechos Humanos del Estado de Hidalgo;
 
-XII.- Instituciones de asistencia social privada que cuenten con registro vigente expedido por el Organismo; y
+XII. El Instituto Hidalguense de las Mujeres;
 
-XIII.- Instituciones de Educación Superior Públicas o Privadas e Instituciones Educativas que realicen acciones e investigaciones en materia de asistencia social.
+XIII. El Instituto para la Atención de las y los Adultos Mayores;
+
+XIV. El Instituto Hidalguense de la Juventud;
+
+XV. Los Sistemas Municipales o Juntas Municipales para el Desarrollo Integral de la Familia;
+
+XVI. El Centro Estatal de Atención Integral de las Adicciones;
+
+XVII. Las Instituciones de Asistencia Social Privada que cuenten con registro vigente expedido por el Organismo;
+
+XVIII. Las Instituciones de Educación Superior Públicas o Privadas e Instituciones Educativas que realicen acciones e investigaciones en materia de asistencia social; y
+
+XIX. Las demás entidades y dependencias federales, estatales y municipales, así como los órganos desconcentrados que realicen actividades vinculadas a la asistencia social.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 17.
 
-El Gobernador del Estado expedirá las bases sobre las cuales se sustente la regulación, coordinación y concertación de acciones del Sistema.
+El Gobernador del Estado, a través del Organismo fijará las bases sobre las cuales se sustente la regulación, coordinación y concertación de acciones del Sistema.
 
 ###### Artículo 18.
 
@@ -543,9 +629,11 @@ VII.- Coadyuvar con el Sistema Estatal de Salud en la supervisión de las Instit
 
 VIII.- Las demás que le otorguen las disposiciones legales en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 21.
 
-El Sistema contará para su funcionamiento con un órgano auxiliar de concertación, consulta, asesoría, apoyo y vinculación entre el Ejecutivo Estatal y la sociedad, denominado Consejo el cual tiene por objeto: Apoyar, analizar, proponer e impulsar políticas, programas y acciones interinstitucionales, para el desarrollo de la asistencia social pública y privada en el Estado y estará integrado por:
+El Sistema contará para su funcionamiento con un órgano auxiliar de concertación, consulta, asesoría, apoyo y vinculación entre el Poder Ejecutivo estatal y la sociedad, denominado Consejo, el cual tiene por objeto: apoyar, analizar, proponer e impulsar políticas, programas y acciones interinstitucionales, para el desarrollo de la asistencia social pública y privada en el estado y estará integrado por:
 
 I.- El Gobernador del Estado, quien lo presidirá:
 
@@ -559,13 +647,13 @@ En caso de ausencia o cuando lo solicite el Presidente lo sustituirá el Preside
 
 III.- Tres vocalías a cargo de la Secretaría de Desarrollo Social, Secretaría de Salud y Secretaría de Educación;
 
-> <small>(F. DE E., P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-IV.- Los representantes designados por el Ciudadano Gobernador del Estado, de las Dependencias, Entidades, Instituciones Educativas, Municipales y demás relacionadas en las fracciones IV a la XIII del artículo 16 de esta Ley; y
+IV. Los representantes designados por el Gobernador del Estado, de las Dependencias, Entidades, Instituciones Educativas, Municipales y demás relacionadas en las fracciones VI a la XIX del artículo 16 de esta Ley; y
 
-> <small>(F. DE E., P.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-V.- Una Coordinación General que será ocupada por el Titular de la Dirección General del Organismo.
+V. Una Coordinación General que será ocupada por la persona Titular del Organismo.
 
 > <small>(F. DE E., P.O. 6 DE AGOSTO DE 2012)</small>
 
@@ -591,17 +679,21 @@ El funcionamiento del Consejo se establecerá en el reglamento de esta ley.
 
 ### CAPÍTULO I. De su Naturaleza, Objeto, Función y Administración
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 24.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, se crea como un Organismo Descentralizado de la Administración Pública, con personalidad Jurídica y patrimonio propio, que estará sectorizado a la Secretaría de Desarrollo Social, tiene como objeto promover y realizar servicios y acciones en materia de asistencia social en corresponsabilidad con las Instituciones Públicas, Privadas y de la Sociedad en general.
+El Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, se crea como un Organismo Descentralizado no sectorizado de la Administración Pública, con personalidad jurídica y patrimonio propios, tiene como objeto promover y realizar servicios y acciones en materia de asistencia social en corresponsabilidad con las Instituciones Públicas, Privadas y de la Sociedad en general.
 
 ###### Artículo 25.
 
 El Organismo será el rector de la Asistencia Social Pública y Privada en el Estado de Hidalgo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 26.
 
-El Organismo, para el logro de sus objetivos, tendrá las siguientes atribuciones:
+El Organismo, para el logro de sus objetivos, tendrá las siguientes funciones:
 
 I.- Vigilar el estricto cumplimiento de la presente ley, asimismo participar en la actualización del marco legal en materia de asistencia social;
 
@@ -609,19 +701,29 @@ II.- Coordinar al Sistema;
 
 III.- Elaborar un Programa Estatal de Asistencia Social conforme a las disposiciones de la Ley de Planeación, los lineamientos del Plan Estatal de Desarrollo, y demás instrumentos de Planeación de la Administración Pública Estatal;
 
-IV.- Prestar servicios de representación y asistencia jurídica y de orientación social a todos los sujeto de asistencia social pública y privada previstos en la presente ley;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-V.- Poner a disposición del Ministerio Público Estatal, los elementos a su alcance para la protección de los derechos familiares, así como de sujetos capaces, incapaces y menores de edad en situación de vulnerabilidad;
+IV.- Prestar servicios de representación, de asistencia jurídica y orientación social a niñas, niños, adolescentes, adultos mayores, personas con alguna discapacidad, madres adolescentes y solteras, personas en situación de calle, indígenas, migrantes o desplazados y todas aquellas personas que por distintas circunstancias no puedan ejercer plenamente sus derechos, en términos de los dispuesto por esta Ley;
 
-VI.- Preparar las propuestas sobre la formulación de las normas oficiales mexicanas en la materia y apoyarla en la vigilancia de la aplicación de las mismas, poniéndoles a vista de las Secretarías para que por su conducto sean aprobadas por el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-VII.- Dirigir la supervisión y evaluación de la actividad y los servicios de asistencia social que presten las Instituciones de Asistencia Social Pública y Privada, conforme a lo que establece el marco jurídico correlativo vigente y aplicable;
+V.- Poner a disposición del Ministerio Público competente, los elementos a su alcance para la protección de los derechos familiares, así como de sujetos capaces, incapaces y menores de edad en situación de vulnerabilidad;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+VI.- Colaborar en las propuestas sobre la formulación de las Normas Oficiales Mexicanas en la materia y apoyar en la vigilancia de la aplicación de estas;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+VII.- Supervisar y evaluar las actividades y servicios de asistencia social que presten las instituciones de asistencia social pública y privada, conforme a lo que establece el presente ordenamiento;
 
 VIII.- Operar la instrumentación, concentración, actualización conservación y evaluación del Sistema Estatal de Información de Asistencia Social;
 
 IX.- Organizar, promover y operar el centro de información y documentación sobre asistencia social pública y privada del Estado de Hidalgo;
 
-X.- Dirigir la realización y apoyo de estudios e investigaciones en materia de asistencia social;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+X. Coordinar los estudios e investigaciones en materia de asistencia social;
 
 XI.- Conducir la formación, capacitación y profesionalización del personal encargado de la prestación de los servicios de asistencia social;
 
@@ -665,13 +767,27 @@ XXIX.- Participar de manera corresponsable con las instancias competentes en la 
 
 XXX.- Fomentar la Igualdad entre mujeres y hombres, y la no discriminación, en los diferentes ámbitos de la vida;
 
-XXXI.- Signar convenios de colaboración y coordinación Interinstitucional con las tres órdenes de Gobierno: Federal Estatal y Municipal, así como con las Instituciones de Asistencia Social Pública y Privada en la implementación de programas y proyectos en materia de asistencia social;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XXXI. Suscribir convenios de colaboración y coordinación interinstitucional con los tres órdenes de gobierno: Federal, Estatal y Municipal, así como las instituciones de asistencia social pública y privada en la implementación de programas y proyectos en materia de asistencia social;
 
 XXXII.- Verificar los servicios y acciones que otorgan en materia de asistencia social en los Centros Asistenciales Públicos o Privados;
 
 XXXIII.- Promover la participación y corresponsabilidad de la sociedad en actividades de prevención en el auto cuidado de su salud física y mental;
 
-XXXIV.- Las demás que establezcan los ordenamientos legales aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2021)</small>
+
+XXXIV. Atender al interés superior de las niñas, niños y adolescentes de conformidad con la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo y demás disposiciones legales aplicables, siempre buscando su buen desarrollo físico, mental, moral y social; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXIV], P.O. 20 DE ENERO DE 2021)</small>
+
+XXXV. Las demás que establezcan los ordenamientos legales aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2021)</small>
+
+Artículo 26 BIS.- En el diseño de las políticas públicas, operación de programas, prestación de servicios, y la realización de acciones, el Organismo actuará en coordinación con dependencias y entidades federales, estatales o municipales, de acuerdo con la competencia y atribuciones legales que éstas tengan.
+
+Además, promoverá coordinadamente con el Gobierno del Estado y sus municipios, en sus respectivos ámbitos de competencia, el establecimiento de centros y servicios de rehabilitación física, psicológica, social y ocupacional, para las personas con algún tipo de discapacidad o necesidad especial, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis, ayudas funcionales y fomentará la vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste.
 
 ### CAPÍTULO II. De la Administración y Gobierno del Organismo
 
@@ -683,7 +799,9 @@ I.- El Patronato;
 
 II.- La Junta de Gobierno; y
 
-III.- La Dirección General;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+III.- La persona Titular del Organismo.
 
 La vigilancia de la operación del Organismo quedará a cargo de un Comisario.
 
@@ -691,7 +809,9 @@ La vigilancia de la operación del Organismo quedará a cargo de un Comisario.
 
 El Patronato del Organismo se integrará por un Presidente, un Secretario, un Tesorero y ocho vocales que serán tres del sector público, tres del sector social y dos del sector privado, quienes serán designados y removidos libremente por el Gobernador del Estado.
 
-El titular de la Secretaría de Desarrollo Social y el titular de la Dirección General del Organismo representarán a la Junta de Gobierno ante el Patronato.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
+El Gobernador del Estado a través del vínculo institucional y la persona Titular del Organismo, representarán a la Junta de Gobierno ante el Patronato.
 
 Los integrantes del Patronato tendrán nombramientos honorarios, y sus suplentes serán nombrados por los propietarios correspondientes.
 
@@ -711,21 +831,55 @@ Si el Secretario y Prosecretario son funcionarios del Organismo solo tendrán de
 
 V.- Las demás que le confieran las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 30.
 
-El Patronato celebrará dos sesiones ordinarias al año y sesionará de manera extraordinaria cuando sea convocado para ello por su Presidente a iniciativa de alguno de sus integrantes o a solicitud de la Junta de Gobierno o del Titular de la Dirección General del Organismo.
+El Patronato celebrará dos sesiones ordinarias al año y, sesionará de manera extraordinaria, cuando sea convocado para ello por su Presidente a iniciativa de alguno de sus integrantes, a solicitud de la Junta de Gobierno o por la persona Titular del Organismo.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 31.
 
-La Junta de Gobierno como autoridad del Organismo, se integrará por el titular de la Secretaría de Desarrollo Social, quien la presidirá, y por cinco servidores públicos del nivel de Secretarios o Subsecretarios con la calidad de propietarios, designados y removidos por el Gobernador del Estado y cinco suplentes nombrados por los propietarios correspondientes, con un nivel mínimo de Director General.
+La Junta de Gobierno como autoridad del Organismo, se integrará por:
+
+I. El Gobernador del Estado;
+
+II. La persona Titular de la Secretaría Ejecutiva de la Política Pública Estatal;
+
+III. La persona Titular de la Unidad de Planeación y Prospectiva;
+
+IV. La persona Titular de la Secretaría de Finanzas Públicas;
+
+V. La persona Titular de la Secretaría de Desarrollo Social;
+
+VI. La persona Titular de la Secretaría de Salud;
+
+VII. La persona Titular de la Secretaría de Desarrollo Económico; y
+
+VIII. La persona Titular de la Secretaría de Educación Pública.
+
+La Junta de Gobierno será presidida por el vínculo institucional designado por el Gobernador del Estado, en su ausencia, por el miembro que dicho titular designe, mediante documento oficial que así lo demuestre.
+
+Por cada miembro propietario de la Junta de Gobierno habrá un suplente, quien tendrá como mínimo el nivel jerárquico de encargado de departamento o similar. En estos casos, la suplencia deberá acreditarse conforme a la regla establecida para el Vínculo Institucional.
+
+En la celebración de las sesiones de la Junta de Gobierno, participará la persona Titular del Organismo, con voz, pero sin voto.
+
+Los integrantes o quienes suplan gozarán de voz y voto, pero un mismo integrante o el suplente de éste no podrá sustituir, representar o realizar alguna función de otro integrante, dentro de la Junta de Gobierno.
+
+El presidente de la Junta de Gobierno podrá invitar a sesiones, con derecho a voz pero sin voto, a servidores públicos federales, estatales y municipales vinculados con el objeto de Organismo; a representantes de la sociedad civil e instituciones públicas y privadas, universidades públicas o privadas, barras, cámaras empresariales, colegios y en general a toda aquella persona, institución u organismo que se considere necesario para enriquecer la deliberación en dicha Junta de Gobierno.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 32.
 
-El Secretario de la Junta de Gobierno, será el Titular de la Dirección General del Organismo.
+La Junta de Gobierno nombrará al Secretario Técnico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 33.
 
-La Junta de Gobierno, tendrá las siguientes facultades y obligaciones indelegables:
+La Junta de Gobierno, tendrá las siguientes facultades y obligaciones:
 
 I.- Establecer en congruencia con el Plan Estatal de Desarrollo, las políticas y lineamientos generales de asistencia social y definir las prioridades a las que deberá sujetarse el Organismo;
 
@@ -733,31 +887,47 @@ II.- Aprobar el Programa institucional de Desarrollo y los presupuestos de ingre
 
 III.- Revisar y aprobar programas y planes de trabajo a mediano y largo plazo, programas operativos anuales, el programa financiero correspondiente, informes de actividades y estados financieros dictaminados, así como el presupuesto del Organismo en los términos de la Legislación aplicable;
 
-IV.- Determinar, fijar y ajustar los precios de los bienes y servicios que produzca o preste el Organismo, a través de la determinación de cuotas y tarifas atendiendo la opinión y los lineamientos que establezca la Secretaría de Finanzas y Administración, con excepción de aquellos que se determinen por el Congreso del Estado y el Gobernador del Estado, a fin de incorporarlos a su presupuesto de ingresos;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-V.- Aprobar la concertación de los préstamos para el financiamiento del Organismo con créditos, previa autorización de la Secretaría de Finanzas y Administración, así como observar los lineamientos establecidos en materia económica;
+IV.- Autorizar la propuesta de los precios de los bienes y servicios que produzca o preste el Organismo, a través de la determinación de cuotas y tarifas atendiendo la opinión y los lineamientos que establezca la Secretaría de Finanzas Públicas, con excepción de aquellos que se determinen por el Congreso del Estado de Hidalgo y el Gobernador del Estado, a fin de incorporarlos a su presupuesto de ingresos;
 
-VI.- Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, la Dirección General pueda disponer de los activos fijos del Organismo y formular la declaratoria de desincorporación correspondiente conforme a las leyes vigentes;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-VII.- Aprobar, previo informe del Comisario y dictamen de los auditores externos, los estados financieros del Organismo, y autorizar la publicación de los mismos;
+V.- Aprobar la concertación de los préstamos para el financiamiento del Organismo con créditos, previa autorización de la Secretaría de Finanzas Publicas, así como observar los lineamientos establecidos en la Ley de Deuda Pública del Estado de Hidalgo y demás disposiciones en la materia;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+VI.- Autorizar los lineamientos o bases generales con arreglo a las cuales cuando fuere necesario, la persona Titular del Organismo pueda disponer de los activos fijos del Organismo y formular la declaratoria de desincorporación correspondiente conforme a las leyes vigentes;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+VII.- Aprobar, previo informe del Comisario Público, dictamen de los auditores externos, los estados financieros y la información programática presupuestal del Organismo;
 
 VIII.- Aprobar de acuerdo con las leyes y reglamentos aplicables en la materia, las políticas, bases y programas generales que regulen los convenios, contratos o pedidos que deba celebrar el Organismo con terceros en obras públicas, arrendamiento, adquisiciones y prestaciones de servicios;
 
-IX.- Aprobar la estructura orgánica, reglamentos y manuales necesarios para el óptimo funcionamiento del Organismo;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+IX.- Aprobar la estructura orgánica, lineamientos, reglamentos, reglas de operación, cartas descriptivas de programas y proyectos y manuales necesarios para el óptimo funcionamiento del Organismo, previa validación de las instancias correspondientes;
 
 X.- Aprobar y expedir el Estatuto Orgánico del Organismo;
 
 XI.- Autorizar, a propuesta del Presidente de la Junta de Gobierno o cuando menos de la tercera parte de sus miembros, la creación de comités especializados para apoyar la programación estratégica y la supervisión de la operatividad del Organismo, mismos que estarán formados por los representantes que al efecto designen;
 
-XII.- Atender los problemas de administración y organización, así como para la selección y aplicación de adelantos tecnológicos que permitan elevar la productividad y eficiencia de los servicios que se presten dentro del quehacer asistencial;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-XIII.- Aprobar los nombramientos y remoción de los dos niveles inferiores a Director General, a propuesta de éste; y aprobar la fijación de sueldos y prestaciones;
+XII.- Vigilar la administración y organización del Organismo, así como para la selección y aplicación de adelantos tecnológicos que permitan elevar la productividad y eficiencia de los servicios que se presten dentro del quehacer asistencial;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XIII.- Aprobar los nombramientos y remoción de los dos niveles inferiores a la persona titular del Organismo, a propuesta de éste;
 
 XIV.- Aprobar en caso de existir excedentes económicos, la constitución de reservas y su aplicación, cuando así lo permita la normatividad aplicable;
 
 XV.- Establecer, con sujeción a las disposiciones relativas sin intervención de cualquiera otra dependencia, las normas y bases para la adquisición, arrendamiento y enajenación de los bienes inmuebles que el Organismo requiera para la prestación de sus servicios con excepción de aquellos inmuebles que la ley de bienes del Estado considere como del dominio público;
 
-XVI.- Recibir, analizar y en su caso aprobar, los informes periódicos que rinda el Director General con la intervención que corresponda al Comisario;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XVI. Recibir, analizar y en su caso aprobar, los informes periódicos que rinda la persona Titular del Organismo con la intervención que corresponda al Comisario;
 
 XVII.- Vigilar, con sujeción a las disposiciones legales, que los donativos o pagos extraordinarios recibidos se apliquen a la consecución del objeto del Organismo;
 
@@ -767,7 +937,9 @@ XIX.- Dar seguimiento y control a las estrategias básicas para alcanzar los obj
 
 XX.- Analizar y aprobar los proyectos de inversión;
 
-XXI.- Conocer de los convenios de coordinación que se hayan celebrado con Dependencias, Entidades Públicas y Privadas; así como de colaboración con Organismos Internacionales;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XXI.- Conocer los acuerdos o convenios de coordinación que se celebren con Dependencias, Entidades Públicas y Privadas; o de colaboración con Organismos Internacionales;
 
 XXII.- Aprobar, cuando sea procedente, los proyectos de iniciativa de reformas de ley, para actualizar el marco jurídico del Organismo, a efecto de que se propongan ante el Gobernador del Estado;
 
@@ -779,15 +951,21 @@ XXIV.- Las demás que le confieran las disposiciones legales aplicables.
 
 La Junta de Gobierno sesionará por lo menos cuatro veces al año.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 35.
 
-El titular de la Dirección General será designado y removido libremente por el Gobernador del Estado, en términos de ley.
+La persona Titular del Organismo será designada y removida libremente por el Gobernador del Estado, en términos de ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 36.
 
-El titular de la Dirección General del Organismo tendrá las siguientes facultades y obligaciones:
+La persona Titular del Organismo tendrá las siguientes facultades y obligaciones:
 
-I.- Administrar y representar legalmente al Organismo;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+I.- Administrar y representar legalmente en cualquier asunto en que intervenga el Organismo y ante cualquier instancia y en cualquier materia;
 
 II.- Formular los Programas de corto, mediano y largo plazo: Institucionales, de acción, financiero y operativo anual, así como los presupuestos de ingresos y egresos y presentarlos para su aprobación a la Junta de Gobierno;
 
@@ -823,17 +1001,45 @@ XVII.- Representar al Organismo en asuntos laborales;
 
 XVIII.- Recabar información y elementos estadísticos que reflejen el estado de las funciones del Organismo para realizar planeación prospectiva a mediano y largo plazo a efecto de mejorar su gestión; y
 
-XIX.- Las demás que le confieran las disposiciones legales aplicables.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE ENERO DE 2021)</small>
+
+XIX.- Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XX.- Presentar a la Junta de Gobierno los informes y estados financieros trimestrales, acompañados de los comentarios que al efecto formulen el Comisario y el Auditor Externo;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XXI.- Autorizar y expedir los nombramientos de personal y manejar las relaciones laborales de acuerdo con las disposiciones legales;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XXII.- Suscribir en representación del Organismo convenios, contratos y acuerdos, así como ejecutar los actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XXIII.- Designar un servidor público que fungirá como enlace para las gestiones del registro público de conformidad con lo establecido en la Ley de Entidades Paraestatales para el Estado de Hidalgo y su Reglamento; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XXIV.- Las demás que sean necesarias para el ejercicio de las facultades establecidas en éste u otros ordenamientos jurídicos.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 37.
 
-El Director General realizará las acciones correspondientes para corregir las deficiencias que se determinen y presentará a la Junta de Gobierno informes periódicos sobre su implantación y del programa de mejora continua de la gestión del Organismo.
+La persona Titular del Organismo realizará las acciones correspondientes para corregir las deficiencias que se determinen y presentará a la Junta de Gobierno informes periódicos sobre su implantación y del programa de mejora continua de la gestión del Organismo.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 38.
 
-El Comisario será designado por la Secretaría de Contraloría y Transparencia Gubernamental, quien vigilará y evaluará el desempeño general y por funciones del Organismo con base en el ámbito de su competencia.
+El Comisario Público será designado por la Secretaría de Contraloría, quien vigilará y evaluará el desempeño general y por funciones del Organismo con base en el ámbito de su competencia.
 
-La vigilancia de la Junta de Gobierno estará a cargo de un Comisario Propietario y un suplente, designados por la Secretaría de la Contraloría y Transparencia Gubernamental lo anterior sin perjuicio de que la Junta de Gobierno integre en su estructura su propia Contraloría Interna.
+La vigilancia de la Junta de Gobierno estará a cargo de un Comisario Público propietario y un suplente designados por la Secretaría de la Contraloría, lo anterior sin perjuicio de que la Junta de Gobierno integre en su estructura su propia Contraloría Interna.
+
+… (SIC)
 
 ### CAPÍTULO III. Del Patrimonio
 
@@ -851,7 +1057,7 @@ IV.- Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le
 
 V.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la ley;
 
-VI.- Las utilidades obtenidas del patrimonio del Organismo a través de la Junta General de Asistencia; y (sic)
+VI.- Las utilidades obtenidas del patrimonio del Organismo a través de la Junta General de Asistencia; y
 
 VII.- Las cuotas de recuperación obtenidas a través de los servicios que otorga el Hospital del Niño DIF, que serán aplicadas en los programas en materia de asistencia social que opera el Organismo;
 
@@ -875,19 +1081,49 @@ IV.- Promoverá que el sector privado destine recursos financieros o en especie 
 
 V.- Las demás que coadyuven a cumplir con su objetivo de asistencia social.
 
-### CAPÍTULO V. De la Procuraduría de la Defensa del Menor y la Familia
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2021)</small>
+
+###### Artículo 40 Bis.
+
+Se crea el Directorio Estatal de Instituciones de Asistencia Social con objeto de dar publicidad a los servicios y apoyos asistenciales que presten las instituciones públicas y privadas, así como su localización en el territorio estatal. Este Directorio estará a cargo del Organismo.
+
+El Directorio Estatal se conformará con las inscripciones de las instituciones de asistencia social que se tramiten:
+
+I. A través del Organismo y de los Organismos Municipales;
+
+II. A través de la Junta General de Asistencia; y
+
+III. Las que directamente presenten las propias instituciones ante este Directorio.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ENERO DE 2021)</small>
+
+### CAPÍTULO V. De la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 41.
 
-Para el mejor cumplimiento del objeto del Organismo contará con un Órgano Administrativo Desconcentrado denominado Procuraduría de la Defensa del Menor y la Familia, el cual tendrá autonomía técnica.
+Para el mejor cumplimiento del objeto del Organismo y para una efectiva protección y restitución de los derechos de niñas, niños y adolescentes, contará con un Órgano Administrativo Desconcentrado con autonomía técnica, denominado Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2021)</small>
+
+En el ejercicio de sus funciones la Procuraduría, podrá solicitar el auxilio de las autoridades federales, estatales y municipales, que estarán obligadas a proporcionarlo de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2021)</small>
+
+Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, la Procuraduría deberá establecer contacto y trabajar conjuntamente con todas las autoridades, instituciones y corporaciones con las que sea necesario para garantizar los derechos de niñas, niños y adolescentes, en términos de lo dispuesto en el artículo 1 de la Constitución Política de los Estados Unidos Mexicanos, el artículo 4 de la Constitución Política del Estado y en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo y su Reglamento.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 42.
 
-El objeto social de la Procuraduría de la Defensa del Menor y la Familia será: Proporcionar asesoría jurídica y patrocinar los juicios en materia de derecho familiar y velar por los intereses de los sujetos de asistencia social dando prioridad al interés superior de las niñas, niños y adolescentes.
+La Procuraduría tendrá entre otras funciones: proporcionar asesoría jurídica, patrocinar los juicios en materia de derecho familiar, proteger y velar por los intereses de los sujetos de asistencia social referidos en la presente Ley, dando prioridad al interés superior de las niñas, niños y adolescentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 43.
 
-La Procuraduría para la Defensa del Menor y la Familia, ejercerá las siguientes atribuciones:
+La Procuraduría ejercerá las siguientes atribuciones:
 
 I.- Prestar servicios de asesoría, representación, prevención, conciliación, mediación y orientación jurídica en materia familiar en beneficio de a (sic) las personas sujetas de asistencia social;
 
@@ -925,7 +1161,9 @@ XVII.- Intervenir en los asuntos de maltrato relacionados con los sujetos de asi
 
 XVIII.- Emitir los dictámenes que en materia familiar le solicite la autoridad competente;
 
-XIX.- Hacer del conocimiento del Ministerio Público los asuntos que sean de su competencia y actuar como coadyuvante;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XIX.- Hacer del conocimiento del Ministerio Público los asuntos que sean de su jurisdicción y actuar como coadyuvante;
 
 XX.- Expedir reglas y disposiciones de carácter general con relación a los procedimientos administrativos para los trámites de adopción;
 
@@ -933,33 +1171,47 @@ XXI.- Gestionar ante el Registro del Estado Familiar la elaboración de las acta
 
 XXII.- Atender de oficio y dar seguimiento a los casos de maltrato que le hagan de su conocimiento; y
 
-XXIII.- Ejercer las funciones y atribuciones que le confieran los Tratados Internacionales, los ordenamientos federales y locales, la presente ley, el Estatuto Orgánico del Organismo y las demás disposiciones legales aplicables a la materia.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XXIII.- Ejercer las funciones y atribuciones que le confieran los Tratados Internacionales, los ordenamientos federales y locales, la presente Ley, el Estatuto Orgánico del Organismo y las demás disposiciones legales aplicables a la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 44.
 
-El Procurador de la Defensa del Menor y la Familia del Organismo será nombrado y removido libremente por el Gobernador del Estado.
+La persona titular de la Procuraduría será nombrada y removida libremente por el Gobernador del Estado.
 
 La organización, atribuciones, integración y funcionamiento de la Procuraduría se asentarán en el instrumento reglamentario pertinente.
 
 ### CAPÍTULO VI. De la Junta General de Asistencia
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 45.
 
-Para el mejor cumplimiento del objeto del Organismo se crea la Junta General de Asistencia, como un Órgano Administrativo Desconcentrado del Organismo, dotado de autonomía técnica y demás particularidades necesarias que crea conveniente el Gobernador del Estado, quien emitirá el instrumento correspondiente.
+Para el mejor cumplimiento del objeto del Organismo, contará con la Junta General de Asistencia, como un Órgano Administrativo Desconcentrado, dotado de autonomía técnica, administrativa, de gestión y demás particularidades necesarias que crea conveniente el Gobernador del Estado, quien emitirá el instrumento correspondiente.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 46.
 
-El objeto social de la Junta General de Asistencia es ejercer las acciones abocadas a la captación de ingresos proveniente de las aportaciones de particulares, sucesiones, montepíos, casas de empeño y demás unidades generadoras ·de recursos monetarios.
+El objeto social de la Junta General de Asistencia es ejercer las acciones abocadas a la captación y generación de recursos e ingresos provenientes de las aportaciones de particulares, sucesiones, montepíos, casas de empeño y demás unidades generadoras de recursos monetarios a la asistencia social pública; así como brindar asesoría para el fortalecimiento de las Organizaciones de la Sociedad Civil de Asistencia Social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
 
 ###### Artículo 47.
 
-La Junta General de Asistencia, ejercerá las siguientes atribuciones previo acuerdo con la Dirección General del Organismo:
+La Junta General de Asistencia, ejercerá las siguientes atribuciones:
 
-I.- Captar ingresos para fortalecer las acciones y servicios que en materia de asistencia social realice el Organismo;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+I.- Captar y generar ingresos para fortalecer las acciones y servicios que en materia de asistencia social realice el Organismo;
 
 II.- Recibir y proveer donativos en especie o en efectivo con la autorización del Organismo:
 
-III.- Aplicar las acciones referentes a la regulación de las actividades de las Instituciones de Asistencia Social Privada cuyo objeto esté enfocado a prestar servicios de asistencia social, pudiendo efectuar las acciones para su verificación;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+III.- Aplicar las acciones referentes a la regulación de las actividades de las Organizaciones de la Sociedad Civil de Asistencia Social cuyo objeto esté enfocado a prestar servicios de asistencia social, pudiendo efectuar las acciones para su verificación;
 
 IV.- Administrar el recurso asignado por el Organismo para la operación y funcionamiento de la Junta General de Asistencia;
 
@@ -967,17 +1219,43 @@ V.- Administrar y operar el Montepío Pachuca y sus diferentes sucursales, así 
 
 VI.- Proponer los precios y tarifas de los productos y servicios brindados por la Junta;
 
-VII.- Intervenir en coordinación con la Dirección de asuntos jurídicos del Organismo en los asuntos de carácter legal y trámites judiciales;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+VII.- Realizar las acciones para salvaguardar los intereses jurídicos, formular y presentar denuncias, querellas y en general todos aquellos recursos y acciones necesarias, ante las autoridades competentes, así como otorgar el perdón cuando sea procedente, en coordinación con la Dirección de Asuntos Jurídicos del Organismo, previa aprobación de la Junta de Gobierno;
 
 VIII.- Recibir los legados y herencias que por ley le sean adjudicados, mismos que formaran parte del patrimonio del Organismo;
 
-IX.- Participar, dando opinión correspondiente sobre acuerdos y convenios con organismos no gubernamentales para vigilar y supervisar las acciones y servicios que presten en materia de asistencia social;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-X.- Substanciar el expediente para el otorgamiento de la vigencia del registro a Organizaciones de la Sociedad Civil dedicados a la Asistencia Social mismo que será presentado a la autoridad competente del Organismo para la emisión de dicho registro;
+IX.- Opinar sobre la celebración de acuerdos y convenios que se lleven a cabo con Organismos No Gubernamentales que presten servicios en materia de asistencia social;
 
-XI.- Emitir el instrumento documental correspondiente a la acreditación de actividades de las Instituciones de Asistencia Social Privada, y que tenga validez oficial ante la autoridad fiscal; y,
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
 
-XII.- Las demás disposiciones aplicables a la materia.
+X.- Substanciar el expediente para el otorgamiento del registro a Organizaciones de la Sociedad Civil dedicadas a la Asistencia Social;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XI.- Emitir el instrumento documental correspondiente a la acreditación de actividades de las Organizaciones de la Sociedad Civil de Asistencia Social, cuando así lo soliciten;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE ENERO DE 2021)</small>
+
+XII.- Hacer visitas de reconocimiento y verificación de las operaciones de las Organizaciones de la Sociedad Civil de Asistencia Social debidamente constituidas y que cuenten con su registro ante la Junta General de Asistencia;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XIII.- Asesorar en la creación, modificación, fusión o extinción de las Organizaciones de la Sociedad Civil de Asistencia Social;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XIV. Recibir legados y herencias que por ley le sean adjudicados, mismos que formarán parte del patrimonio del Organismo;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2021)</small>
+
+XV.- Llevar el registro de las Organizaciones de la Sociedad Civil de Asistencia Social debidamente constituidas de conformidad con la legislación aplicable; y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XII], P.O. 20 DE ENERO DE 2021)
+
+XVI. Las demás disposiciones aplicables a la materia.
 
 ###### Artículo 48.
 
@@ -1004,6 +1282,10 @@ La promoción y prestación de los servicios de asistencia social pública a car
 ###### Artículo 53.
 
 El Organismo Municipal promoverá la obtención y asignación de recursos públicos y privados, para el soporte financiero de los programas en materia de asistencia social, dentro de su municipio.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2021)</small>
+
+Para ampliar la cobertura y la calidad de los servicios de asistencia social en los municipios, el Organismo, promoverá la celebración de convenios entre los distintos niveles de gobierno.
 
 ###### Artículo 54.
 
@@ -1055,7 +1337,13 @@ Para los efectos de este ordenamiento, se consideran Instituciones de Asistencia
 
 Con la finalidad de verificar la vigencia física y legal de las Instituciones de la Asistencia Social Privada, con domicilio fiscal o legal en el Estado de Hidalgo, estas deberán contar con el registro vigente expedido por el Organismo.
 
-Así mismo estar inscritas en el Directorio Nacional de Instituciones de Asistencia Social.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
+Asimismo, deberán estar inscritas en los Directorios Nacional y Estatal de Instituciones de Asistencia Social.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2021)</small>
+
+Las Instituciones de Asistencia Social Privada, deberán ajustar su funcionamiento a lo dispuesto por las Normas Oficiales Mexicanas, que al efecto se expidan por la Secretaría de Salud, y el Consejo Nacional de Normalización y Certificación, para normar los servicios de salud y asistenciales.
 
 ###### Artículo 57.
 
@@ -1069,13 +1357,19 @@ Todas las Instituciones de Asistencia Social Privada, deben proporcionar la info
 
 El Gobernador del Estado, a través del Organismo, con la participación de las dependencias y entidades que corresponda, propiciará que la concertación de acciones en materia de asistencia social con los sectores social y privado a que se refiere el artículo anterior, se lleve a cabo mediante la celebración de convenios.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 60.
 
-La vigilancia en la aplicación de los servicios que otorguen en materia de asistencia social las Instituciones de Asistencia Social Privada, estará a cargo del Organismo.
+La vigilancia en la aplicación de los servicios que otorguen en materia de asistencia social las Instituciones de Asistencia Social Privada estará a cargo del Organismo a través de la Junta General de Asistencia.
 
 ###### Artículo 61.
 
 En caso de disolución de alguna Institución de Asistencia Social Privada, esta podrá solicitar al Organismo le sugiera a (sic) que otra Institución de Asistencia Social Privada puede transferir su patrimonio.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2021)</small>
+
+El incumplimiento de las disposiciones de esta Ley y demás disposiciones derivadas de ella, serán sancionadas administrativamente por la autoridad competente según lo previsto en las leyes estatales vigentes.
 
 ### CAPÍTULO II. De sus Derechos y Obligaciones
 
@@ -1137,17 +1431,23 @@ El Organismo aprobará las Reglas de Operación de Programas nuevos, así como l
 
 El proceso de incorporación de los sujetos de asistencia social a los programas materia de esa Ley se apegará a los criterios de selección establecidos en las Reglas de Operación de los Programas.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 68.
 
-Los programas deberán sujetarse a metodologías de evaluación, con la finalidad de realizar una valoración objetiva de su desempeño, dando cumplimiento a metas y objetivos con base en indicadores estratégicos, de gestión y de impacto.
+Todos los programas deberán sujetarse a metodologías de supervisión, seguimiento y evaluación, con la finalidad de realizar una valoración objetiva de su desempeño, dando cumplimiento a metas y objetivos con base en indicadores estratégicos, de gestión y de impacto.
 
 ## TÍTULO OCTAVO. DE LA INFORMACIÓN, ARCHIVOS Y SANCIONES DE LA ASISTENCIA SOCIAL
 
 ### CAPÍTULO I. Del Sistema Estatal de Información de Asistencia Social
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 69.
 
-Se crea el Sistema Estatal de Información de Asistencia Social, mismo que será operado por el Organismo, con el objetivo de integrar una base de datos sobre la asistencia social con referencias bibliográficas que permita realizar investigaciones sociales y demográficas que faciliten la generación de políticas públicas estatales acordes a las problemática social en el Estado.
+Se establecen las bases y procedimientos de lo que es el Sistema Estatal de Información de Asistencia Social, mismo que será operado por el Organismo, con el objetivo de integrar una base de datos sobre la asistencia social con referencias bibliográficas que permita realizar investigaciones sociales y demográficas que faciliten la generación de políticas públicas estatales acordes a la problemática social en el Estado.
+
+… (SIC)
 
 ###### Artículo 70.
 
@@ -1185,15 +1485,19 @@ Las Notarías y Corredurías Públicas, así como el Registro Público de la Pro
 
 ### CAPÍTULO II. De los Archivos, la Información Pública y la Transparencia
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+
 ###### Artículo 74.
 
-El Organismo y las Secretarías respecto a los archivos y la información pública están obligados a observar lo publicado en las disposiciones legales aplicables en la materia.
+El Organismo, respecto a los archivos y la información pública está obligado a observar lo publicado en las disposiciones legales aplicables en la materia.
 
 ### CAPÍTULO III. De las Sanciones
 
-###### Articulo 75.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
 
-Cuando algún servidor público o Institución de Asistencia Social Privada trasgreda lo establecido en el presente ordenamiento o haga mal uso de los recursos obtenidos deberá ser denunciado ante el agente del Ministerio Público a fin de que se determine si se han cometido o no hechos constitutivos de delito, y en su caso dar vista a la Secretaría de la Contraloría y Transparencia Gubernamental del Estado de Hidalgo.
+###### Artículo 75.
+
+Cuando algún servidor público o Institución de Asistencia Social Privada transgreda lo establecido en el presente ordenamiento o haga mal uso de los recursos obtenidos, deberá ser denunciado ante el agente del Ministerio Público por los hechos posiblemente constitutivos de delito, y en su caso dar vista a la Secretaría de Contraloría del Estado.
 
 ## TRANSITORIOS
 
@@ -1240,3 +1544,11 @@ P.O. 31 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 474 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 20 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 572 POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
