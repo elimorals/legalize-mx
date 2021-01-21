@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-integral-escolar-para-el-estado-libre-y-79854"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-04"
-last_updated: "2011-12-12"
+last_updated: "2021-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2021.
 
 Ley publicada en el Periodico Oficial del Estado de Puebla, el viernes 4 de febrero de 2011.
 
@@ -275,15 +275,31 @@ d) Prevención de violencia intrafamiliar, social y/o escolar;
 
 e) Educación vial;
 
-f) Primeros auxilios y de protección civil; y
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2021)</small>
 
-g) Seguridad en casa y en la escuela.
+f) Primeros auxilios y de protección civil;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ENERO DE 2021)</small>
+
+g) Igualdad de género y lenguaje incluyente y no sexista, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 21 DE ENERO DE 2021)</small>
+
+h) Seguridad en casa y en la escuela.
 
 IV.- Promover el consumo de alimentos nutritivos que ayuden a un buen desempeño escolar dentro y fuera de la Escuela;
 
-V.- Contar con un botiquín de primeros auxilios; y
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
 
-VI.- Las demás acciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
+V.- Contar con un botiquín de primeros auxilios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2021)</small>
+
+VI.- Fomentar y promover la cultura de la paz, así como el ambiente de convivencia armónica, pacífica, inclusiva, segura y libre de cualquier tipo de discriminación en el plantel escolar; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE ENERO DE 2021)</small>
+
+VII.- Las demás acciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
 
 ###### ARTÍCULO 15.
 
@@ -826,3 +842,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Educación Pública del Estado, deberá elaborar el Manual de Convivencia Escolar, debiendo estar disponible para su entrega en el periodo escolar 2012-2013.
+
+P.O. 21 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS INCISOS F) Y G) DE LA FRACCIÓN III DEL ARTÍCULO 14, LAS FRACCIONES V Y VI DEL ARTÍCULO 14, Y ADICIONA EL INCISO H) A LA FRACCIÓN III AL ARTÍCULO 14, Y LA FRACCIÓN VII AL ARTÍCULO 14 DE LA LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
