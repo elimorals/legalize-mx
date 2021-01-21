@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-bienestar-animal-del-estado-de-puebla-127134"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2020-04-03"
+last_updated: "2021-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2021.
 
 Ley publicada en la Tercera Sección del Número 17 al Periódico Oficial del Estado de Puebla, el lunes 26 de febrero de 2018.
 
@@ -95,11 +95,35 @@ XIII. Asociaciones de Protección Animal: personas morales legalmente constituid
 
 XIV. Autoridades competentes: Las señaladas en el artículo 7 de la presente Ley;
 
-XV. Bienestar animal: Estado de un animal sano en el que su cuidado, manejo y alimentación son tales que sus funciones corporales, su comportamiento innato y capacidad de adaptación no son afectados por tanto se encuentra libre de dolor, miedo o distres;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
+
+XV. Bienestar animal: Estado físico y mental de un animal sano en el que su cuidado, alojamiento, manejo y alimentación son tales que sus funciones corporales, su comportamiento innato y capacidad de adaptación no son afectados por tanto se encuentra libre de dolor, miedo, distres, sufrimiento, lesión o enfermedad;
 
 XVI. Campañas: acción pública realizada de manera periódica para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para evitar la reproducción irracional de animales; o para difundir la concientización entre la población para el bienestar animal;
 
-XVII. Centros de Atención Canina: los establecimientos de servicio público que lleven a cabo cualquiera de las actividades orientadas a la prevención y control de la rabia en perros y gatos, así como atender quejas de la comunidad y que comprende: captura de animales en la calle o abandonados, que pueden ser una molestia y un riesgo, entrega voluntaria para su eliminación; observación clínica; vacunación antirrábica permanente; recolección en vía pública de animales enfermos y atropellados para su eutanasia; disposición de cadáveres; toma de muestras de animales sospechosos para remisión o diagnóstico de laboratorio; sacrificio humanitario de aquellos perros y gatos retirados de la vía pública, esterilización quirúrgica de perros y gatos; primer contacto con las personas agredidas para su remisión y atención a unidades de salud; así como ofrecer consulta veterinaria a perros y gatos;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
+
+XVII. Centros de Atención Canina: los establecimientos de servicio público, a cargo de los Ayuntamientos, o en su caso sus proveedores o concesionarios, que lleven a cabo de manera enunciativa más no limitativa, las siguientes actividades:
+
+a) Programas de prevención y control de la rabia en perros y gatos;
+
+b) Atención de reportes ciudadanos referentes a animales que representen un riesgo para la salud pública, el bienestar de las personas o de otros animales;
+
+c) Captura humanitaria de perros y gatos en la calle o abandonados;
+
+d) Sacrificio humanitario de animales únicamente por el sufrimiento que padezca en términos de la presente Ley, y conforme a lo dispuesto en las normas oficiales mexicanas aplicables;
+
+e) Jornadas permanentes de vacunación antirrábica;
+
+f) Recolección en vía pública de animales enfermos o lastimados para su atención y observación clínica, o en caso de que la calidad de vida del animal se vea comprometida, proporcionarle una muerte humanitaria, así como la disposición de cadáveres;
+
+g) Toma de muestras de animales sospechosos de enfermedad rábica para remisión o diagnóstico de laboratorio;
+
+h) Esterilización quirúrgica de perros y gatos;
+
+i) Proporcionar primeros auxilios a personas agredidas por animales para su inmediata remisión a las unidades de salud correspondientes, y
+
+j) Consultas médica veterinaria a perros y gatos.
 
 XVIII. Clínica Veterinaria: establecimiento encargada del cuidado de la salud y bienestar animal, donde se realizan tratamientos médicos veterinarios ambulatorios;
 
@@ -107,7 +131,9 @@ XIX. Comportamiento Innato: patrón de conducta típico de las diversas especies
 
 XX. Criadero animal: establecimiento donde se realizan todo tipo de actividades encaminadas a favorecer la reproducción de los animales de compañía, mediante métodos que no impliquen maltrato o crueldad;
 
-XXI. Crueldad: acto intencional de violencia que produzca, daño, mutilación, sufrimiento, tortura o la muerte de un animal, así como el abandono de animales y actos de zoofilia;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
+
+XXI. Crueldad animal: todo acto intencional de violencia que produzca daño, sufrimiento, lesiones o la muerte de un animal, entre los que se encuentran, de forma enunciativa más no limitativa, los actos de zoofilia, abandono, tortura, mutilación, incendio, asfixia, ataques con ácido, con objetos punzocortantes, con armas de fuego, uso de pirotecnia o explosivos, suministro de alcohol o drogas sin fines veterinarios, vivisección, experimentación ilícita, azuzar a otros animales para atacar y la sobre explotación de su trabajo;
 
 XXII. Escuela de adiestramiento: establecimiento en el que se modifican los patrones de comportamiento de los animales mediante programas que no impliquen maltrato o crueldad;
 
@@ -125,7 +151,9 @@ XXVIII. Instituto: Instituto de Bienestar Animal del Estado de Puebla;
 
 XXIX. Ley: la Ley de Bienestar Animal del Estado de Puebla;
 
-XXX. Maltrato animal: todo hecho, acto u omisión negligente que pueda ocasionar dolor, estrés o sufrimiento, que ponga en peligro la vida del animal o que afecten gravemente su salud, así como la sobre explotación de su trabajo;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
+
+XXX. Maltrato animal: todo hecho, acto u omisión negligente que pueda ocasionar dolor, estrés o sufrimiento, que ponga en peligro el bienestar, la vida o que afecte la salud del animal;
 
 XXXI. Médico Veterinario: Persona física con licenciatura y cédula profesional en medicina veterinaria, que se ocupa de la prevención, diagnóstico y tratamiento de las enfermedades de los animales;
 
@@ -141,13 +169,23 @@ XXXV. Sacrificio humanitario: acto que provoca la muerte sin sufrimiento de los 
 
 XXXVI. Secretaría: Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
 
-XXXVII. Tienda de mascotas: establecimiento comercial, en el que se realiza la exhibición y venta de animales de compañía, de productos o aditamentos para su cuidado, así como su aseo y cuidado estético, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2021)</small>
 
-XXXVIII. Trato humanitario: las medidas que esta Ley, su reglamento y demás disposiciones legales aplicables establecen para evitar el dolor o angustia de los animales durante el ejercicio de la propiedad o posesión de los mismos, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio humanitario.
+XXXVII. Tenencia responsable: obligación del propietario o el poseedor de un animal de proporcionarle un trato digno, una adecuada alimentación, alojamiento, atención de su salud e higiene; de realizar la correcta disposición de sus heces; de asegurar su contención y cuidado para evitar conductas agresivas y la transmisión de enfermedades, así como de llevar a cabo los trámites administrativos de registro e identificación correspondientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ENERO DE 2021)</small>
+
+XXXVIII. Tienda de mascotas: establecimiento comercial, en el que se realiza la exhibición y venta de animales de compañía, de productos o aditamentos para su cuidado, así como su aseo y cuidado estético, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE ENERO DE 2021)</small>
+
+XXXIX. Trato humanitario: las medidas que esta Ley, su reglamento y demás disposiciones legales aplicables establecen para evitar el dolor o angustia de los animales durante el ejercicio de la propiedad o posesión de los mismos, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio humanitario.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 4.
 
-En todo lo no previsto en la presente Ley, se aplicarán supletoriamente las disposiciones contenidas en la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla.
+En todo lo no previsto en la presente Ley, se aplicarán supletoriamente las disposiciones contenidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, la Ley Orgánica de la Administración Pública del Estado, el Código Civil para el Estado Libre y Soberano de Puebla y el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
 
 ###### ARTÍCULO 5.
 
@@ -171,9 +209,17 @@ II. La Secretaría de Seguridad Pública;
 
 III. La Secretaría de Salud;
 
-IV. La Secretaría de Educación Pública, y
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
 
-V. Los Ayuntamientos.
+IV. La Secretaría de Educación;
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
+
+V. Los Ayuntamientos, y
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2021)</small>
+
+VI. El Instituto de Bienestar Animal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2020)</small>
 
@@ -185,15 +231,25 @@ I. Formular la política estatal en materia de bienestar animal, conservación y
 
 II. Elaborar y proponer al Ejecutivo del Estado los ordenamientos y demás disposiciones necesarias para el cumplimiento de la presente Ley;
 
-III. Celebrar convenios de coordinación con las autoridades federales o municipales, así como con las organizaciones legalmente establecidas, para el cumplimiento de los objetivos de la presente Ley;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
+
+III. Celebrar convenios de coordinación con las autoridades federales o municipales, organismos internacionales, así como con personas físicas o morales del sector privado, social o académico, para el cumplimiento de los objetivos de la presente Ley;
 
 IV. Promover por sí o en coordinación con el Gobierno Federal y los Ayuntamientos, el establecimiento de mecanismos para la protección y trato digno de los animales en el Estado de Puebla;
 
 V. Vigilar el cumplimiento de las disposiciones de la presente Ley y demás disposiciones legales que de la misma emanen;
 
-VI. La aplicación de sanciones y medidas de seguridad en los términos previstos en esta Ley, y
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
 
-VII. Las demás que le confiera esta Ley y demás ordenamientos jurídicos aplicables.
+VI. Aplicar sanciones, medidas de seguridad y medidas correctivas en casos de crueldad animal, en los términos previstos en esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2021)</small>
+
+VIL Sustanciar los procedimientos administrativos correspondientes en materia de crueldad animal, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE ENERO DE 2021)</small>
+
+VIII. Las demás que le confiera esta Ley y demás ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 9.
 
@@ -225,9 +281,11 @@ III. Implementar al interior de los centros educativos del Estado, campañas per
 
 IV. Las demás que le confiera esta Ley y demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 12.
 
-Corresponde a los Ayuntamientos, sujeto a la disponibilidad presupuestal, el ejercicio de las siguientes atribuciones:
+Corresponde a los Ayuntamientos, el ejercicio de las siguientes atribuciones:
 
 I. Formular y conducir la política municipal de bienestar animal, conservación y aprovechamiento de la fauna silvestre, mismas que deberán ser acordes con las políticas estatal y federal;
 
@@ -237,19 +295,25 @@ III. Celebrar convenios con otros órdenes de gobierno, así como con los sector
 
 IV. Controlar y atender los problemas asociados con animales que representen un riesgo o daño para la salud, seguridad y bienestar de las personas o sus bienes;
 
-V. Establecer y regular los Centros de Atención Canina;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2020)</small>
+V. Destinar el presupuesto suficiente para establecer y garantizar el correcto funcionamiento del o los Centros de Atención Canina que determinen; los cuales deberán contar con espacios dignos y de uso exclusivo para desarrollar sus actividades, contar con la supervisión de un médico veterinario para asegurar el bienestar de los animales que, por las causas previstas en la presente ley se encuentren dentro de los mismos; además de cumplir con las medidas de seguridad, higiene y normas oficiales que correspondan;
 
-VI. Intervenir en los casos de infracciones a la presente Ley, aplicando las medidas de seguridad o sanciones que correspondan, siempre que las disposiciones legales emitidas para tal efecto se los permita;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2020)</small>
+VI. Aplicar sanciones y medidas de seguridad en casos de maltrato animal e infracciones relacionadas con tenencia responsable, cría, venta de animales, atención médica, albergues, adiestramiento, deportes y espectáculos públicos en los términos previstos en esta Ley;
 
-VII. Verificar, en coordinación con las autoridades competentes, que las actividades relacionadas con la cría, venta de animales, atención médica, albergues o adiestramiento cumplan con las disposiciones aplicables en la materia, y
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE ABRIL DE 2020)</small>
+VII. Verificar, en coordinación con las autoridades competentes, que las actividades relacionadas con la cría, venta de animales, atención médica, albergues o adiestramiento cumplan con las disposiciones aplicables en la materia;
 
-VIII. Las demás que le correspondan en términos de los ordenamientos legales de la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2021)</small>
+
+VIII. Prevenir y controlar los casos relacionados con maltrato animal e infracciones relacionadas con tenencia responsable, cría, venta de animales, atención médica, albergues, adiestramiento, deportes y espectáculos públicos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE ENERO DE 2021)</small>
+
+IX. Las demás que le correspondan en términos de los ordenamientos legales de la materia.
 
 ###### ARTÍCULO 13.
 
@@ -323,13 +387,21 @@ XIII. Procurar la recaudación de donaciones en dinero o en especie, a través d
 
 XIV. Emitir el dictamen de cumplimiento a la normatividad aplicable en materia de bienestar animal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
 
-XV. Brindar atención psicológica, que permita sensibilizar a las personas que lo requieran, con el objeto de mejorar y modificar su trato hacia los animales, y
+XV. Brindar atención psicológica, que permita sensibilizar a las personas que lo requieran, con el objeto de mejorar y modificar su trato hacia los animales;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2021)</small>
 
-XVI. Las demás que por disposición legal le correspondan.
+XVI. Prevenir y controlar los casos de crueldad animal, dando parte a la Secretaría de los asuntos en los que sea procedente;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2021)</small>
+
+XVII. Brindar atención veterinaria, así como albergue temporal a los animales involucrados en casos de crueldad animal, procediendo a dar en adopción en los términos de la presente Ley, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE ENERO DE 2021)</small>
+
+XVIII. Las demás que por disposición legal le correspondan.
 
 ### CAPÍTULO IV. DE LAS OBLIGACIONES E INFRACCIONES EN MATERIA DE BIENESTAR ANIMAL
 
@@ -339,7 +411,9 @@ Cualquier persona que sea propietaria, poseedora o que se encuentre a cargo de u
 
 I. Proveer al animal con alimento y agua en la cantidad y calidad adecuadas para su especie, edad y patrones de comportamiento innato, con el objeto de satisfacer sus necesidades;
 
-II. Proveer al animal con un espacio adecuado para su alojamiento, de acuerdo con las características propias de su especie y sus patrones de comportamiento innato;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
+
+II. Proveer al animal un espacio adecuado para su alojamiento y resguardo de las condiciones climáticas adversas o de cualquier otro factor externo que le pudiese ocasionar algún daño, de acuerdo con las características propias de su especie y sus patrones de comportamiento innato;
 
 III. Suministrarle oportunamente al animal los tratamientos veterinarios preventivos que le permitan conservar su salud, y los tratamientos veterinarios curativos y paliativos necesarios y adecuados, de acuerdo a su padecimiento;
 
@@ -1056,3 +1130,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los Ayuntamientos dentro los ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley, deberán expedir o reformar, en el ámbito de su competencia, los reglamentos correspondientes para el cumplimiento de la presente Ley.
+
+P.O. 21 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XV, XVII, XXI, XXX, XXXVII Y XXXVIII DEL ARTÍCULO 3, EL ARTÍCULO 4, LAS FRACCIONES IV Y V DEL ARTÍCULO 7, LAS FRACCIONES III, VI Y VII DEL ARTÍCULO 8, EL PRIMER PÁRRAFO Y LAS FRACCIONES V, VI, VII Y VIII DEL ARTÍCULO 12, LAS FRACCIONES XV Y XVI DEL ARTÍCULO 16, LA FRACCIÓN II DEL ARTÍCULO 17, Y ADICIONA LA FRACCIÓN XXXIX AL ARTÍCULO 3, LA FRACCIÓN VI AL ARTÍCULO 7, LA FRACCIÓN VIII AL ARTÍCULO 8, LA FRACCIÓN IX AL ARTÍCULO 12, LAS FRACCIONES XVII Y XVIII AL ARTÍCULO 16, TODAS DE LA LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
