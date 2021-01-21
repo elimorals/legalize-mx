@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-tribunal-estatal-electoral-de-145705"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-12-22"
-last_updated: "2020-12-22"
+last_updated: "2021-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ENERO DE 2021 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE ENERO DE 2021.]</small>
 
 Reglamento publicado en la Sección Tercera del Número 115 en el Periódico Oficial del Estado de Nayarit, el martes 22 de diciembre de 2020.
 
@@ -191,6 +191,10 @@ I.- Pleno
 
 3.3 Oficialía de partes
 
+> <small>(F. DE E., P.O. 21 DE ENERO DE 2021)</small>
+
+3.4 Encargado de Archivo
+
 4. Dirección de Administración
 
 4.1 Titular de la Dirección de Administración
@@ -201,15 +205,19 @@ I.- Pleno
 
 4.5 Auxiliar de Administración.
 
-5. Órgano Interno de Control
+> <small>(F. DE E., P.O. 21 DE ENERO DE 2021)</small>
+
+5. Órgano interno de Control
 
 5.1 Titular del OIC
 
-5.1 (SIC) Departamento de auditoría e Investigador
+> <small>(F. DE E., P.O. 21 DE ENERO DE 2021)</small>
 
-5.2 Departamento Substanciador
+5.2 Departamento de auditoría e Investigador
 
-5.3 Departamento Resolutor
+> <small>(F. DE E., P.O. 21 DE ENERO DE 2021)</small>
+
+5.3 Departamento Substanciador
 
 6. Comités y Comisión
 
@@ -873,7 +881,9 @@ XXI. Elaborar el Programa Operativo Anual que competa a su área.
 
 XXII. Las demás que en el ámbito de su competencia le confiera la Ley General de Responsabilidades Administrativas y demás disposiciones jurídicas aplicables.
 
-Para el cumplimiento de sus atribuciones, al Órgano Interno de Control estarán adscritos los departamentos de investigación y auditoría, sustanciador y resolutor, así como el personal que el servicio requiera y que autorice el Pleno.
+> <small>(F. DE E., P.O. 21 DE ENERO DE 2021)</small>
+
+Para el cumplimiento de sus atribuciones, al órgano Interno de Control estarán Adscritos los departamentos de investigación y auditoría y substanciador, así como el personal que el servicio requiera y que autorice al (sic) Pleno.
 
 AUTORIDAD INVESTIGADORA
 
@@ -1589,7 +1599,9 @@ La Secretaría General será la encargada de difundir entre los órganos del Tri
 
 DISPOSICIONES TRANSITORIAS
 
-Primero. El presente Reglamento será aplicable, obligatorio para las y los integrantes del Tribunal Estatal Electoral desde el día de su aprobación y surtirá efectos para terceros a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+> <small>(F. DE E., P.O. 21 DE ENERO DE 2021)</small>
+
+Primero. El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo. Se abroga el Reglamento Interior del Tribunal Estatal Electoral aprobado por el Pleno en la Segunda Sesión Ordinaria del Tribunal Estatal Electoral celebrada el treinta de enero de dos mil diecisiete y publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit el veinticuatro de marzo e (sic) dos mil diecisiete.
 
