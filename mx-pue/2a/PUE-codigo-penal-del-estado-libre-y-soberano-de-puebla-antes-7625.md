@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2020-12-10"
+last_updated: "2021-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1581,13 +1581,11 @@ III.- Se aumentarán en dos tercios si el acusado o sentenciado permanece fuera 
 
 La prescripción de la acción penal y de la sanción no influyen en la responsabilidad civil proveniente de delito, la cual se rige por las leyes civiles correspondientes.
 
-(NOTA: EL 18 DE ENERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 138/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO IMPUGNADO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2021)</small>
 
 ###### Artículo 128 Bis.
 
-La prescripción para cualquiera de sus efectos será improcedente para los delitos de violación, feminicidio, homicidio doloso, DESAPARICIÓN FORZADA DE PERSONAS, Y DE DESAPARICIÓN COMETIDA POR PARTICULARES.
+La prescripción para cualquiera de sus efectos será improcedente para los delitos de corrupción de menores e incapaces o de personas que no puedan resistir contempladas en la fracción I del artículo 217, pornografía de menores e incapaces, abuso sexual, estupro, hostigamiento, acoso sexual, violación, feminicidio y homicidio doloso.
 
 2.- PRESCRIPCION DE LA ACCION PERSECUTORIA
 
@@ -3363,7 +3361,7 @@ En los casos previstos en las fracciones I y II, se impondrá al autor del delit
 
 #### SECCIÓN SÉPTIMA. DISPOSICIONES COMUNES A DELITOS SEXUALES
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2021)</small>
 
 ###### Artículo 278.
 
@@ -3425,7 +3423,7 @@ En los supuestos a que se refiere el artículo anterior, los delitos se persegui
 
 ###### Artículo 278 Octies.
 
-Cualquier persona que tenga conocimiento de la comisión del delito de violación, acoso sexual, o abuso sexual a niños menores de catorce años y no acuda a la autoridad competente para denunciar el hecho y evitar la continuación de la conducta será castigada de dos a siete años de prisión.
+Cualquier persona que tenga conocimiento de la comisión de alguno de los delitos sexuales siguientes: Corrupción de menores e incapaces o de personas que no puedan resistir contempladas en la fracción I del artículo 217, pornografía de menores e incapaces, ciberacoso, violación a la intimidad sexual, abuso sexual, estupro, hostigamiento y acoso sexual; cometido contra niñas, niños y adolescentes, así como el delito de violación, y no acuda a la autoridad competente para denunciar el hecho y evitar la continuación de la conducta será castigada de dos a siete años de prisión.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE ABRIL DE 2019)</small>
 
@@ -7044,6 +7042,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LAS FRACCIONES XIX, XX Y ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 419, DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 128 BIS Y 278 OCTIES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
