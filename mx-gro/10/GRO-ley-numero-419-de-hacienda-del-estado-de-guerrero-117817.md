@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-419-de-hacienda-del-estado-de-guerrero-117817"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2020-11-10"
+last_updated: "2021-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "GRO"
 ---
 # LEY NUMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2020, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL ALCANCE VIII DEL P.O. DE 20 DE DICIEMBRE DE 2019.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2021, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2021.]</small>
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2021.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2016.
 
@@ -735,13 +735,15 @@ IV.- Las autoridades competentes que expidan los certificados de aeronavegabilid
 
 En el caso de vehículos nuevos hasta de 15 pasajeros, así como motocicletas, aeronaves y vehículos eléctricos, el impuesto se calculará tomando en consideración su valor total.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2020, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL ALCANCE VIII DEL P.O. DE 20 DE DICIEMBRE DE 2019.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2021, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2021.]</small>
 
 ###### ARTÍCULO 70.
 
 El impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. 27 DE DICIEMBRE DE 2016, PÁGINA 36.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 22 DE ENERO DE 2021, PÁGINA 6.]</small>
 
 I.- Para automóviles nuevos destinados al transporte de más de 15 pasajeros o de carga cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
 
@@ -759,7 +761,7 @@ Las cantidades establecidas en la tarifa se actualizarán en el mes de enero de 
 
 El Índice Nacional de precios al Consumidor que aplicará para los efectos del párrafo anterior es el publicado por el Instituto Nacional de Estadística y Geografía (INEGI) en los términos de los articulos 20 segundo párrafo y 20 Bis del Código Fiscal de la Federación.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2020, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL ALCANCE VIII DEL P.O. DE 20 DE DICIEMBRE DE 2019.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2021, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2021.]</small>
 
 ###### ARTÍCULO 71.
 
@@ -797,7 +799,7 @@ II.- La cantidad obtenida, se multiplicará por el 0.245%.
 
 Las cantidades que resulten de la aplicación de los factores de la presente tabla, se actualizarán en el mes de enero de cada año, aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquel por el que se van aplicar los factores entre el mes de noviembre de dos años inmediatos anteriores a dicha aplicación, el cual se publicará en el periódico oficial del Gobierno del Estado a más tardar el día 10 de enero de cada año.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2020, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL ALCANCE VIII DEL P.O. DE 20 DE DICIEMBRE DE 2019.]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2021, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2021.]</small>
 
 ###### ARTÍCULO 72.
 
@@ -4148,3 +4150,11 @@ El Servicio de Alerta Inmobiliaria, establecido en el Artículo 107-Bis, entrar�
 ###### ARTÍCULO TERCERO.
 
 Remítase al Titular del Poder Ejecutivo para los efectos legales conducentes y para su publicación en el Periódico Oficial del Gobierno del Estado para su observancia y conocimiento general.
+
+P.O. 22 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE SE DETERMINAN LOS FACTORES DE ACTUALIZACIÓN PARA LOS EFECTOS DE LOS ARTÍCULOS 70, 71 Y 72 DE LA LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO”.]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. El presente Acuerdo tendrá vigencia del primero de enero al treinta y uno de diciembre del 2021.
