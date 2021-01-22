@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-de-ocampo-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-25"
-last_updated: "2020-10-26"
+last_updated: "2021-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el jueves 25 de diciembre de 2014.
 
@@ -961,9 +961,11 @@ Es objeto de este derecho el servicio de alumbrado público que prestan los Muni
 
 #### SECCIÓN TERCERA. DE LOS SUJETOS
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 100.
 
-Son sujetos de este derecho las personas físicas o morales propietarias, poseedoras, usufructuarias o usuarias de predios ubicados en el territorio del Municipio, que reciban el servicio de alumbrado público que presta éste.
+Son sujetos de este derecho las personas físicas o morales propietarias, poseedoras, usufructuarias o usuarias de predios ubicados en el territorio del Municipio, que reciban el servicio de alumbrado público que presta éste, para dar viabilidad de uso a los predios.
 
 #### SECCIÓN CUARTA. DE LA BASE
 
@@ -987,11 +989,13 @@ VII. En general el costo que representa al Municipio correspondiente la instalac
 
 #### SECCIÓN QUINTA. DEL PAGO DEL DERECHO
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 102.
 
-La contraprestación por el derecho de alumbrado público se causará diariamente y se pagará mensual o bimestralmente conforme a las tarifas y forma que señalen las Leyes de Ingresos de los Municipios del Estado de Michoacán de Ocampo; y servirá para que la municipalidad cubra los costos en los que incurra con motivo de la prestación del servicio de alumbrado público.
+La contraprestación por el derecho de alumbrado público se causará diariamente y se pagará mensual o bimestralmente conforme a las cuotas y en la forma que señalen las Leyes de Ingresos de los Municipios del Estado de Michoacán de Ocampo; y servirá para que la municipalidad cubra los costos en los que incurra con motivo de la prestación del servicio de alumbrado público.
 
-Los Municipios tendrán a su cargo la recaudación del derecho del servicio de alumbrado público, y podrán celebrar convenios con la Comisión Federal de Electricidad, para que ésta realice la recaudación.
+Los Municipios tendrán a su cargo la recaudación de las cuotas del derecho del servicio de alumbrado público, y podrán celebrar convenios con entidades gubernamentales o económicas, para que realicen la recaudación.
 
 #### SECCIÓN SEXTA. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1818,3 +1822,9 @@ Notifíquese el presente Decreto a todos los Ayuntamientos del Estado de Michoac
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 382 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 100 Y 102 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
