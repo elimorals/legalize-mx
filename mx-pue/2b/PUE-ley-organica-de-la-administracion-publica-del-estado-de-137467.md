@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-137467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-31"
-last_updated: "2021-01-19"
+last_updated: "2021-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de julio de 2019.
 
@@ -1349,7 +1349,9 @@ X. Organizar la distribución oportuna de los libros de texto gratuito y vigilar
 
 XI. Revalidar y otorgar equivalencia de estudios de la educación primaria, secundaria, normal y demás para la formación de maestros de Educación Básica, de acuerdo con los lineamientos que la autoridad competente expida;
 
-XII. Resolver sobre el otorgamiento, cancelación y terminación de la autorización a los particulares para ofrecer servicios de educación prescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2021)</small>
+
+XII. Resolver sobre el otorgamiento, revocación y terminación de la autorización a los particulares para ofrecer servicios de educación prescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
 
 XIII. Expedir certificados y otorgar constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios, de conformidad con los planes y programas de estudio correspondientes, así como llevar el registro de los mismos;
 
@@ -1375,7 +1377,9 @@ b) Promover y prestar servicios educativos de acuerdo a las normas y políticas 
 
 c) Revalidar y otorgar equivalencia de estudios, y
 
-d) Resolver sobre el otorgamiento y revocación del reconocimiento de validez oficial a estudios.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2021)</small>
+
+d) Resolver sobre el otorgamiento y retiro del reconocimiento de validez oficial a estudios.
 
 XXII. Organizar y desarrollar el Sistema de Otorgamiento de Becas;
 
@@ -2040,5 +2044,13 @@ P.O. 19 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 41 Y LAS FRACCIONES I Y XVIII DEL ARTÍCULO 42 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XII, Y EL INCISO D) DE LA FRACCIÓN XXI DEL ARTÍCULO 44 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente al de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
