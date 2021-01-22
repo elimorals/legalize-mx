@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2020-11-19"
+last_updated: "2021-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2021.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -1287,6 +1287,10 @@ Homicidio simple
 
 A quien prive de la vida a otra persona, se le impondrá de quince a treinta años de prisión.
 
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2021)</small>
+
+Siempre que una mujer sea víctima de homicidio se aplicaraì (sic) la perspectiva de género en la conducción de investigaciones e integración de carpetas de investigación, servicios periciales y procesos judiciales, a fin de determinar el tipo penal aplicable al caso y, en su caso, el concurso de delitos; las omisiones o acciones de los servidores públicos que resulten contrarias a lo dispuesto en el presente párrafo constituirán un delito contra la administración de justicia y se sancionarán conforme a ese tipo penal contenido en este Código. Para aplicar la perspectiva de género se estará a lo dispuesto en los tratados internacionales de los que el Estado Mexicano sea parte, en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como a las normas oficiales mexicanas en materia de violencia y protección a las mujeres.
+
 ###### Artículo 118.
 
 Homicidio en razón de parentesco o relación
@@ -1309,17 +1313,41 @@ Feminicidio
 
 El homicidio doloso de una mujer, se consideraraí (sic) feminicidio cuando se actualice alguna de las siguientes circunstancias:
 
-I. Cuando existan con antelación actos que constituya (sic) violencia familiar o institucional del sujeto activo hacia la mujer;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2021)</small>
 
-II. Cuando el sujeto activo realice actos de violencia sexual, actos crueles, degradantes, mutile el cuerpo de la mujer, previo o posterior a la privación de la vida;
+I. Cuando existan con antelación actos que constituyan violencia, cualquiera que sea su tipo, modalidad, ámbito de ocurrencia, expresión, forma o manifestación, conforme a lo establecido en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, del sujeto activo hacia la víctima;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2021)</small>
+
+II. Cuando el sujeto activo realice en el cuerpo de la víctima actos de tipo sexual, mutilaciones, actos crueles o degradantes, o cualquier acto que reduzca el cuerpo de la víctima a la condición de cosa, previo o posterior a la privación de la vida;
 
 III. Cuando la víctima presenta indicios de violencia física reiterada por parte del sujeto activo;
 
 IV. Cuando existan antecedentes de violencia psicológica o abuso sexual del sujeto activo contra la mujer; y,
 
-V. Cuando el cuerpo de la víctima sea expuesto de manera degradante en un lugar público.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2021)</small>
 
-A quien cometa el delito de feminicidio se le impondrá una pena de veinte a cincuenta años de prisión.
+V. Cuando el cuerpo o restos de la víctima sean abandonados en lugar público o en lugar despoblado o solitario, o en un terreno o baldío;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2021)</small>
+
+VI. Cuando el sujeto activo exponga frente a terceros el cuerpo o restos de la víctima, personalmente o por cualquier medio de comunicación;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2021)</small>
+
+VII. Cuando el paradero de la víctima sea desconocido o la víctima haya sido incomunicada, previo o posterior a la privación de su vida;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2021)</small>
+
+VIII. Cuando existan relaciones asimétricas de poder o situaciones de vulnerabilidad, subordinación o discriminación, desfavorables para la víctima por el hecho de ser mujer, frente al sujeto activo; y,
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2021)</small>
+
+IX. Cuando exista una o varias razones de género, sobre la base del reconocimiento de la particular situación de desventaja en la cual históricamente se han encontrado las mujeres y bajo la perspectiva de género que deben aplicar las autoridades al caso concreto durante la conducción de investigaciones e integración de carpetas de investigación, servicios periciales y procesos judiciales.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2021)</small>
+
+Al hombre o mujer que cometa el delito de feminicidio se le impondrá una pena de veinticinco a cincuenta años de prisión. Cuando se actualicen dos o más circunstancias de las contenidas en este artículo, la pena será de treinta a cincuenta años de prisión. Además, el sujeto activo será privado de manera definitiva de cualquier derecho que tenga con relación a la víctima. El ejercicio de la acción penal y la ejecución de sanciones penales que impongan judicialmente para el delito de feminicidio son imprescriptibles.
 
 ###### Artículo 121.
 
@@ -1429,7 +1457,9 @@ III. Que el conductor haya abandonado a la víctima.
 
 Homicidio o lesiones atenuadas
 
-A quien en estado de emoción violenta cometa el delito de homicidio o de lesiones, se le impondrá una tercera parte de las penas que correspondan por su comisión.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2021)</small>
+
+Salvo en el delito de feminicidio y en el delito de lesiones por condición de género, a quien en estado de emoción violenta cometa el delito de homicidio o de lesiones, se le impondrá una tercera parte de las penas que correspondan por su comisión.
 
 Existe emoción violenta, cuando en virtud de las circunstancias que desencadenaron el delito, se atenúa en forma considerable y transitoria la capacidad del sujeto activo para comprender el significado del hecho y conducirse de acuerdo con esa comprensión.
 
@@ -1468,6 +1498,10 @@ V. Por los medios empleados cuando se causen por inundación, incendio, minas, b
 VI. Existe saña cuando el sujeto activo actúa con crueldad; y,
 
 VII. Existe estado de alteración voluntaria cuando el sujeto activo comete el hecho en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares voluntariamente dados.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2021)</small>
+
+Todo homicidio calificado será considerado feminicidio cuando la víctima sea mujer y exista una o varias razones de género sobre la base del reconocimiento de la particular situación de desventaja en la cual históricamente se han encontrado las mujeres y bajo la perspectiva de género que deben aplicar las autoridades durante la conducción de investigaciones e integración de carpetas de investigación, servicios periciales y procesos judiciales.
 
 ###### Artículo 136.
 
@@ -4270,3 +4304,11 @@ P.O. 19 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 365.- SE REFORMA EL ARTÍCULO 110 Y LAS FRACCIONES II Y III DEL ARTÍCULO 165; SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 165 Y EL ARTÍCULO 167 BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 378 POR EL QUE “SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 117; SE REFORMAN LAS FRACCIONES I, II, V Y EL SEGUNDO PÁRRAFO Y SE ADICIONAN LAS FRACCIONES VI, VII, VIII Y IX, TODOS DEL ARTÍCULO 120; SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 133; Y, SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 135; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
