@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transito-y-vialidad-del-estado-de-michoacan-de-ocampo-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-24"
-last_updated: "2020-07-28"
+last_updated: "2021-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2021.
 
 Ley Publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el martes 24 de septiembre de 2002.
 
@@ -775,23 +775,47 @@ Para efecto de la imposición de las sanciones por infracciones a esta Ley y su 
 
 Cuando un conductor incurra en la comisión de la misma falta más de tres veces, será considerado como reincidente, en cuyo caso, y tomando en cuenta la gravedad de la infracción cometida, podrá suspenderse o cancelarse la licencia o permiso provisional para conducir. Las condiciones y los elementos de calificación que se requieren al respecto, se determinarán en el reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2021)</small>
+
 ###### Artículo 61.
 
-Los vehículos retirados de la vía pública o asegurados, se depositarán en los lugares que dispongan las autoridades para ese fin, en la inteligencia de que los gastos derivados de estas acciones, serán cubiertos íntegramente por los propietarios, de acuerdo con las tarifas autorizadas.
+Los vehículos retirados de la vía pública o asegurados, por grúas particulares concesionadas u oficiales, se depositarán en los lugares que dispongan las autoridades de tránsito estatal ó municipal para ese fin; los gastos derivados de estas acciones serán cubiertos íntegramente por los propietarios de los vehículos remitidos, de acuerdo con las tarifas establecidas en la Ley de Hacienda del Estado de Michoacán vigente en materia de Tránsito y Movilidad y enteradas en la Secretaria de Finanzas y Administración del Estado de Michoacán, o la Tesorería Municipal, o al particular concesionado, en su caso.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+Sólo los particulares que cuenten con concesión, podrán prestar los servicios de grúa y depósito vehicular, y deberán de cumplir con todos los requisitos que mediante el reglamento correspondiente emita la autoridad para tal efecto.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2021)</small>
 
 ###### Artículo 62.
 
-Para los efectos y aplicación de la multa, se estará a lo establecido por el reglamento, el cual las fijará dentro de un margen de tres a cincuenta veces el valor diario de la Unidad de Medida y Actualización, atendiendo al tipo de falta y su gravedad, las circunstancias de su comisión y las personales del infractor.
+Para los efectos y aplicación de la multa, se sujetará al procedimiento establecido por el reglamento de Tránsito Estatal ó Municipal que corresponda al caso específico, el cual las fijará dentro de un margen de tres a veinte veces el valor diario de la Unidad de Medida y Actualización, atendiendo al tipo de falta y su gravedad y las circunstancias de su comisión.
+
+Únicamente se cobrará por arrastre y guarda del vehículo y no por concepto del tiempo de espera, tipo de maniobra u otros conceptos.
 
 ###### Artículo 63.
 
 Las causales de suspensión o cancelación de los derechos otorgados por esta Ley, se determinarán en su reglamento.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2021)</small>
+
 ###### Artículo 64.
 
-Son causas de remisión de vehículos al depósito, las determinadas en el reglamento de esta Ley.
+Son causas de remisión de vehículos al depósito, las siguientes:
+
+I. Que sea visiblemente notoria la emisión de humo;
+
+II. Los datos del registro vehicular no correspondan a los asentados en la tarjeta de circulación y en la base de datos de la Secretaría de Finanzas y Administración del Estado;
+
+III. Carecer de ambas placas y tarjeta de circulación vigentes, o en su caso, el permiso respectivo;
+
+IV. Se encuentren abandonados en las vías públicas del Estado o del municipio;
+
+V. Aquellos que se encuentren estacionados en los lugares determinados como prohibidos por la autoridad competente en la materia; y,
+
+VI. Aquellos que se encuentren estacionados frente a talleres mecánicos o sus inmediaciones y que en éstos se hagan las reparaciones o composturas que deban hacerse en el interior del establecimiento.
+
+Si a bordo del vehículo, se encontraren, infantes o personas con discapacidad, el vehículo no será remitido al depósito y el agente procederá a emitir la infracción correspondiente, asentando en la misma, la situación especial del caso.
+
+En los casos en que proceda la remisión del vehículo al depósito, y previamente a que se haya iniciado el proceso de arrastre del vehículo, los agentes de tránsito estatal y/o municipal a que corresponda, deberán sellarlo para garantizar la guarda y custodia de los objetos que en él se encuentren, así como elaborar el correspondiente inventario del vehículo, de lo contrario, la Dirección de Tránsito correspondiente conjuntamente con el propietario del depósito o corralón vehicular, se harán responsables de la reparación, reposición o pago de los daños patrimoniales o pérdida de objetos inventariados.
 
 > <small>(REFORMADO, P.O. 2 DE MAYO DE 2018)</small>
 
@@ -827,13 +851,17 @@ La Tesorería y la Dirección en su caso, no darán curso a ningún trámite rel
 
 El conductor o propietario del vehículo que tenga alguna inconformidad con el proceder de la autoridad, podrá impugnarla en los términos que señala esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2021)</small>
+
 ###### Artículo 72.
 
-La Dirección retirará de la circulación los vehículos que no reúnan los requisitos legales, o que representen un grave peligro para la seguridad de sus ocupantes y de los demás vehículos y peatones, así como el de aquellos que por sus condiciones particulares, puedan ocasionar algún daño a las vías públicas del Estado.
+Los elementos de la Dirección de Tránsito Estatal o Municipal deberán retirar de la circulación, aquellos vehículos que por su conducción evidentemente peligrosa representen un grave riesgo para los viandantes, la seguridad de sus ocupantes y de los demás vehículos.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2021)</small>
 
 ###### Artículo 73.
 
-Los municipios aplicarán las sanciones de tránsito y vialidad de conformidad al reglamento que expidan en la materia.
+Los municipios aplicarán las sanciones de tránsito y vialidad de conformidad a esta ley y su reglamento.
 
 ### CAPÍTULO SEGUNDO. DE LOS RECURSOS
 
@@ -1032,3 +1060,17 @@ P.O. 28 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 340 POR EL QUE “SE REFORMAN LAS FRACCIONES VI Y XII DEL ARTÍCULO 15; Y EL ARTÍCULO 53 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 374 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 61, 62, 64, 72 Y 73 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de que venza el término concedido al Titular del Poder Ejecutivo y los Ayuntamientos del Estado de Michoacán de Ocampo que cuenten con Reglamento de Tránsito, para que armonicen sus reglamentos en la materia y se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Por el ejercicio fiscal 2020, el monto de la concesión para prestar el servicio de grúa y depósito de vehículos será de $20,000.00 (veinte mil pesos M.N.), hasta en tanto se prevea otro costo en la Ley de Hacienda.
+
+A partir de la vigencia del presente Decreto y durante el Ejercicio Fiscal 2020, solo se pagará la parte proporcional del monto de la concesión por el periodo que se pida durante el año.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado y los Ayuntamientos en los que se cuente con Reglamento de Tránsito, tendrán noventa días para armonizar los mismos, conforme a lo dispuesto por esta Ley.
+
+En los Ayuntamientos que no cuenten con Reglamento de Tránsito o que contando con el mismo, no lo armonicen dentro del término fijado en este artículo, será aplicado lo dispuesto por esta Ley.
