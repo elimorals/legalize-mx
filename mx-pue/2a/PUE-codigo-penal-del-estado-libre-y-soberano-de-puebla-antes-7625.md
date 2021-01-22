@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2021-01-21"
+last_updated: "2021-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -4299,6 +4299,8 @@ IV.- Cuando el aborto se deba a causas eugenésicas graves, según dictamen que 
 
 #### SECCION SEGUNDA.- ABANDONO DE PERSONAS
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2021)</small>
+
 ###### Artículo 343 Bis.
 
 A quien sin consentimiento previamente informado, realice extracción de óvulos, inseminación artificial o transferencia de embriones, en una mujer mayor de dieciocho años, se le impondrá de cuatro a siete años de prisión.
@@ -4375,7 +4377,13 @@ Si a consecuencia de los actos a que se refiere el artículo anterior se causare
 
 ###### Artículo 346.
 
-Al que abandone a un niño incapaz de cuidarse a sí mismo o a una persona enferma, teniendo obligación de cuidarlos, se le impondrá de un mes a cuatro años de prisión y se le privará de la patria potestad o de la tutela, si ejerciere uno de esos cargos.
+Al que abandone a una niña, niño o adolescente incapaz de cuidarse a sí mismo, a una persona adulta mayor, a una persona enferma o a una persona con discapacidad, teniendo obligación de cuidarlos se le impondrá de tres meses a cinco años de prisión y se le privará de la patria potestad o de la tutela, si ejerciere uno de esos cargos.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2021)</small>
+
+###### Artículo 346 Bis.
+
+A quien abandone a una mujer embarazada, y sin causa justificada incumpla las obligaciones de prestar asistencia económica y alimentos durante el embarazo y una vez nacido el o la menor; se le impondrán (sic) de nueve meses a seis años de prisión, además de la reparación del daño y el pago de alimentos para el recién nacido y la madre en los casos que procedan.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -7050,6 +7058,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 21 DE ENERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 128 BIS Y 278 OCTIES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 346 Y ADICIONA EL ARTÍCULO 346 BIS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
