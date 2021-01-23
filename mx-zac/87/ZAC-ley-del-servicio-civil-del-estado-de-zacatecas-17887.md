@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2020-12-12"
+last_updated: "2021-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -95,11 +95,11 @@ LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 1.
 
-La presente ley tiene por objeto: normar la relación de trabajo entre los Poderes del Estado, dependencias del Poder Ejecutivo, municipios, entidades paramunicipales, y las de la administración pública paraestatal a que se refiere la Ley Orgánica de la Administración Pública del Estado, con sus respectivos trabajadores.
+La presente Ley tiene por objeto normar la relación de trabajo entre los Poderes del Estado, dependencias del Poder Ejecutivo, municipios, entidades paramunicipales, las de la administración pública paraestatal a que se refiere la Ley Orgánica de la Administración Pública del Estado, así como los Organismos Constitucionalmente Autónomos, con sus respectivos trabajadores.
 
 ###### Artículo 2.
 
@@ -109,11 +109,17 @@ Para los efectos de esta ley, se entiende por:
 
 I.- Relación de trabajo: La establecida entre las entidades públicas, a través de sus titulares así como las y los trabajadores a su servicio.
 
-II.- Tribunal: El Tribunal Local de Conciliación y Arbitraje.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2006)</small>
+II.- Tribunal: El Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas;
 
-III.- Entidades públicas: los poderes del Estado, dependencias del Poder Ejecutivo, municipios, entidades paramunicipales, y las de la administración pública paraestatal.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
+
+III.- Entidades públicas: los poderes del Estado, dependencias del Poder Ejecutivo, municipios, entidades paramunicipales, las de la administración pública paraestatal, así como los organismos constitucionales autónomos, a excepción de los electorales, y
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2021)</small>
+
+IV.- Autoridad Conciliadora: El Centro de Conciliación Laboral del Estado de Zacatecas.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -667,19 +673,19 @@ En el acta de investigación administrativa, la titular o el titular de la entid
 
 De no querer firmar el acta las o los intervenientes (sic) se asentará tal circunstancia, lo que no invalidará el contenido de la misma, debiéndose entregar una copia a la o a el trabajador y otra al representante sindical.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 33.
 
-La o el trabajador que haya sido separado del empleo injustificadamente, a su elección, podrá solicitar ante el Tribunal, que se le reinstale en el trabajo que desempeñaba o que se le indemnice con el importe de tres meses de salario.
+La o el trabajador que haya sido separado del empleo injustificadamente, a su elección, podrá solicitar ante la Autoridad Conciliatoria, o ante el Tribunal si no hay arreglo conciliatorio, que se le reinstale en el trabajo que desempeñaba o que se le indemnice con el importe de tres meses de salario.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 Si en el juicio no comprueba la entidad pública alguna causa de rescisión, así como el procedimiento administrativo seguido, la o el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos desde la fecha del despido hasta por un período máximo de doce meses, en términos de lo preceptuado en la última parte del párrafo anterior.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
-Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento a la sentencia, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1051,9 +1057,9 @@ XII.- Poner en conocimiento del sindicato correspondiente los puestos de nueva c
 
 XIII.- Proporcionar la capacitación y adiestramiento a sus trabajadoras y trabajadores;
 
-> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
 
-XIV.- Prevenir cualquier manifestación de Violencia Política en contra de las mujeres por razones de género, y
+XIV.- Acatar en sus términos las sentencias que emita el Tribunal.
 
 XV.- Acatar en sus términos los laudos que emita el Tribunal.
 
@@ -1439,9 +1445,11 @@ Para que se constituya un sindicato, se requiere que lo formen como mínimo cien
 
 Las secciones sindicales podrán tener el número de miembros que internamente los estatutos fijen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2021)</small>
+
 ###### Artículo 106.
 
-Los sindicatos y sus secciones serán registrados por el Tribunal, a cuyo efecto remitirán a éste, por duplicado, los siguientes documentos:
+Los sindicatos y sus secciones serán registrados por la Autoridad Conciliadora, a cuyo efecto remitirán a ésta, por duplicado, los siguientes documentos:
 
 I.- Acta de la asamblea constitutiva, o copia de ella, autorizada por la directiva de la agrupación;
 
@@ -1451,13 +1459,13 @@ III.- Acta de la asamblea, o copia autorizada de la misma, en la que se haya des
 
 IV.- Lista de los miembros de que se componga el sindicato, con la expresión del nombre de cada uno, edad, estado civil, empleo que desempeña y salario que percibe.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 107.
 
-El Tribunal, al recibir la solicitud de registro, comprobará con los medios que estime más prácticos y eficaces, la veracidad de la información proporcionada, de la libre voluntad de las y los trabajadores para constituirse en sindicato o sección y de que no existe otro sindicato o sección dentro de la entidad pública de que se trate.
+La Autoridad Conciliadora, al recibir la solicitud de registro, comprobará con los medios que estime más prácticos y eficaces, la veracidad de la información proporcionada, de la libre voluntad de las y los trabajadores para constituirse en sindicato o sección y de que no existe otro sindicato o sección dentro de la entidad pública de que se trate.
 
-El Tribunal certificará, en forma previa al registro, si el sindicato o su sección solicitante cuenta con la mayoría de las y los trabajadores.
+La Autoridad Conciliadora certificará, en forma previa al registro, si el sindicato o su sección solicitante cuenta con la mayoría de las y los trabajadores.
 
 ###### Artículo 108.
 
@@ -1561,11 +1569,17 @@ La representación legal del sindicato se ejercerá por su secretario general o 
 
 Son obligaciones de los sindicatos:
 
-I.- Proporcionar los informes que, en cumplimiento de esta ley, le solicite el Tribunal;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
 
-II.- Comunicar al Tribunal, dentro de los treinta días hábiles siguientes a cada elección, los cambios que ocurran dentro de su directiva sindical o seccional; las altas y bajas de sus miembros y las modificaciones que sufran los estatutos; y de la disolución o constitución de alguna sección sindical; y
+I.- Proporcionar los informes que, en cumplimiento de esta Ley, le soliciten la Autoridad Conciliadora o el Tribunal;
 
-III.- Facilitar la labor del Tribunal en los conflictos que se ventilen ante el mismo, proporcionándole la cooperación que les solicite.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
+
+II.- Comunicar a la Autoridad Conciliadora, dentro de los treinta días hábiles siguientes a cada elección, los cambios que ocurran dentro de su directiva sindical o seccional; las altas y bajas de sus miembros y las modificaciones que sufran los estatutos; y de la disolución o constitución de alguna sección sindical, y
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
+
+III.- Facilitar la labor de la Autoridad Conciliadora o del Tribunal en los conflictos que se ventilen ante ellos, proporcionándoles la cooperación que les soliciten.
 
 ###### Artículo 116.
 
@@ -1607,9 +1621,11 @@ Las remuneraciones que se paguen a los directivos del sindicato y, en general, l
 
 Los sindicatos podrán constituir una federación, la que se regirá por las disposiciones de este capítulo, en lo que sean aplicables; o bien, adherirse a una ya creada, con la limitación de que sea similar a la de las y los trabajadores al servicio del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2021)</small>
+
 ###### Artículo 122.
 
-La federación que se constituya, se registrará ante el Tribunal, remitiendo por duplicado:
+La federación que se constituya, se registrará ante la Autoridad Conciliadora, remitiendo por duplicado:
 
 I.- Original o copia autorizada del acta de la asamblea constitutiva;
 
@@ -1669,9 +1685,11 @@ XI.- Las demás reglas que fueren convenientes para obtener mayor seguridad y ef
 
 Las condiciones generales de trabajo de cada entidad pública que signifiquen erogaciones con cargo al Gobierno del Estado o de los ayuntamientos y que deban cubrirse a través del presupuesto de egresos, deberán ser consultadas, respectivamente, a la Secretaría de Finanzas o a las tesorerías municipales correspondientes.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
 ###### Artículo 127.
 
-Las condiciones generales de trabajo surtirán efectos a partir de la fecha de su depósito ante el Tribunal, en donde se conservará un ejemplar, salvo que las partes acuerden otra.
+Las condiciones generales de trabajo surtirán efectos a partir de la fecha de su depósito ante la Autoridad Conciliadora, en donde se conservará un ejemplar, salvo que las partes acuerden otra.
 
 ###### Artículo 128.
 
@@ -1745,7 +1763,9 @@ II.- Por resolución de la asamblea de trabajadoras y trabajadores tomada por ac
 
 III.- Por haberse declarado ilícita o inexistente; y
 
-IV.- Por laudo del Tribunal.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
+
+IV.- Por sentencia del Tribunal.
 
 ## TITULO SEXTO. DE LOS RIESGOS DE TRABAJO
 
@@ -1797,7 +1817,13 @@ II.- Las acciones de las y los trabajadores que sean separados del trabajo.
 
 La prescripción corre, en los casos de la fracción I, desde el momento en que se dé la causa de rescisión o de la falta, cuando se comprueben los errores cometidos, las pérdidas o averías imputables a la o el trabajador, o desde la fecha en que la deuda sea exigible.
 
-En el caso de la fracción II, la prescripción corre a partir del día siguiente a la fecha de la separación.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+En el caso de la fracción II, la prescripción corre a partir del día siguiente a la fecha de la separación. Este término se suspenderá a partir de la fecha de presentación de la solicitud de conciliación a que se refiere el artículo 145 ter de esta Ley, y se reanudará al día siguiente en que se actualice cualquiera de las hipótesis previstas en el artículo 144, fracción III de esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+Por cuanto hace al ejercicio de las acciones jurisdiccionales a que se refiere la fracción II de este artículo, se estará a lo previsto en la propia fracción III del artículo 144 del presente ordenamiento.
 
 ###### Artículo 143.
 
@@ -1811,285 +1837,467 @@ I.- Las acciones de las y los trabajadores para reclamar el pago de indemnizacio
 
 II.- Las acciones de quienes sean dependientes económicos de las y los trabajadores fallecidos con motivo de un riesgo de trabajo, para reclamar las indemnizaciones correspondientes; y
 
-III.- Las acciones para solicitar la ejecución de los laudos ante el Tribunal y de los convenios celebrados ante él.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+III.- Las acciones para solicitar la ejecución de las sentencias ante el Tribunal y de los convenios celebrados ante él.
 
-La prescripción corre, respectivamente, desde el momento en que se determine el grado de incapacidad para el trabajo; desde la fecha de la muerte de la o el trabajador y desde el día siguiente a aquél en que hubiese quedado notificado el laudo del Tribunal o aprobado el convenio.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+La prescripción corre, respectivamente, desde el momento en que se determine el grado de incapacidad para el trabajo; desde la fecha de la muerte de la o el trabajador y desde el día siguiente a aquél en que hubiese quedado notificada la sentencia del Tribunal o aprobado el convenio.
 
-Cuando el laudo imponga la obligación de reinstalar, la o el titular de la entidad pública podrá solicitar del Tribunal que fije a la o el trabajador un término no mayor de un mes para que regrese al trabajo, apercibiéndola o apercibiéndolo que de no hacerlo, podrá dar por terminada la relación de trabajo.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+Cuando la sentencia imponga la obligación de reinstalar, la o el titular de la entidad pública podrá solicitar del Tribunal que fije a la o el trabajador un término no mayor de un mes para que regrese al trabajo, apercibiéndola o apercibiéndolo que de no hacerlo, podrá dar por terminada la relación de trabajo.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 144.
 
-La prescripción se interrumpe por la sola presentación de la demanda o de cualquier promoción ante el Tribunal, independientemente de la fecha de la notificación.
+La prescripción se interrumpe:
+
+I.- Por la sola presentación de la demanda o de cualquier promoción ante el Tribunal, independientemente de la fecha de la notificación. Si quien promueve omitió agotar el procedimiento de conciliación no estando eximido de hacerlo, el Tribunal, sin fijar competencia sobre el asunto, lo remitirá a la Autoridad Conciliadora competente para que inicie el procedimiento de conciliación establecido en esta Ley. No es obstáculo para la interrupción que el Tribunal sea incompetente;
+
+II.- Si la persona a cuyo favor corre la prescripción reconoce el derecho de aquella contra quien prescribe, de palabra, por escrito o por hechos indudables, y
+
+III.- Por la presentación de la solicitud de conciliación a que se refiere el artículo 145 ter de esta Ley. La interrupción de la prescripción cesará a partir del día siguiente en que la Autoridad Conciliadora expida la constancia de no conciliación o, en su caso, se determine el archivo del expediente por falta de interés de parte. No es obstáculo para la interrupción que la Autoridad Conciliadora ante la que se promovió sea incompetente.
 
 ###### Artículo 145.
 
 Para los efectos de la prescripción, los meses se regularán por el número de días que les corresponda. El primer día se contará completo, aun cuando no lo sea, pero el último debe ser completo y cuando sea feriado, no se tendrá por completa la prescripción sino cumplido el primer hábil siguiente.
 
-## TITULO OCTAVO. DEL TRIBUNAL LOCAL DE CONCILIACION Y ARBITRAJE
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE ENERO DE 2021)</small>
+
+## TITULO SEPTIMO BIS. PROCEDIMIENTO DE CONCILIACIÓN PREJUDICIAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE ENERO DE 2021)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 145 Bis.
+
+Las disposiciones de este Título rigen la tramitación de la instancia conciliatoria previa a la de los conflictos ante el Tribunal, salvo que tengan una tramitación especial en esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 145 Ter.
+
+Antes de acudir al Tribunal, los trabajadores y las entidades públicas deberán asistir al Centro de Conciliación correspondiente para solicitar el inicio del procedimiento de conciliación, con excepción de aquellos supuestos que están eximidos de agotarla, conforme a lo previsto en esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 145 Quáter.
+
+La solicitud de conciliación deberá contener los siguientes datos:
+
+I.- Nombre, CURP, identificación oficial del solicitante y domicilio dentro del lugar de residencia del Centro de Conciliación al que acuda, para recibir notificaciones en el procedimiento de conciliación prejudicial; el Centro facilitará los elementos y el personal capacitado a fin de asignarle un buzón electrónico al solicitante. En caso de que el solicitante no cuente con identificación oficial, podrá ser identificado por otros medios de que disponga el Centro;
+
+II.- Nombre de la persona, sindicato o entidad pública a quien se citará para la conciliación prejudicial;
+
+III.- Domicilio para notificar a la persona, sindicato o entidad pública que se citará, y
+
+IV.- Objeto de la cita a la contraparte.
+
+Si el solicitante es el trabajador e ignora la entidad pública respecto de la cual se solicita la conciliación, bastará con señalar el domicilio donde prestó sus servicios.
+
+Los elementos aportados por las partes no podrán constituir prueba o indicio en ningún procedimiento administrativo o jurisdiccional. La información aportada por las partes en el procedimiento de conciliación, no podrá comunicarse a persona o autoridad alguna, a excepción de la constancia de no conciliación y, en su caso, el convenio de conciliación que se celebre, en cuyo supuesto el Centro de Conciliación deberá remitir en forma electrónica al Tribunal los documentos referidos, mismos que deberán contener los nombres y domicilios aportados por las partes, acompañando las constancias relativas a la notificación de la parte citada que haya realizado la Autoridad Conciliadora y los buzones electrónicos asignados, en su caso.
+
+El tratamiento de los datos proporcionados por los interesados estará sujeto a la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados y a la Ley de Transparencia y Acceso a la Información Pública, ambas del Estado de Zacatecas.
+
+El solicitante será notificado de la fecha y hora para la celebración de la audiencia de conciliación o del acuerdo de incompetencia, al momento de presentar su solicitud. Para agilizar el procedimiento de conciliación, el solicitante podrá auxiliar al Centro de Conciliación para llevar a cabo la notificación de la audiencia de conciliación a la persona, sindicato o entidad pública que se citará.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 145 Quinquies.
+
+El procedimiento de conciliación a que se refiere el presente Título no deberá exceder de treinta días naturales. La Autoridad Conciliadora tomará las medidas conducentes para que sus actuaciones se ajusten a dicho plazo.
+
+A efecto de que el personal encargado de realizar las notificaciones, actúe con eficiencia, eficacia e imparcialidad en el desempeño de sus funciones, la Autoridad Conciliadora definirá rutas de notificación con base en la ubicación y proximidad geográfica de los domicilios a los que deberán acudir, así como acorde con la urgencia de las notificaciones a efectuar; la asignación de las rutas se hará diariamente y de forma aleatoria.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 145 Sexies.
+
+El procedimiento de conciliación se tramitará conforme a las reglas siguientes:
+
+I.- Se iniciará con la presentación de la solicitud de conciliación ante el Centro de Conciliación que corresponda, firmada por el solicitante, a la que se le agregará copia de la identificación oficial a que hace referencia en la fracción I del artículo 145 quáter; tratándose de entidades públicas o sindicatos será suscrito por su representante legal;
+
+II.- El Centro de Conciliación podrá recibir las solicitudes de conciliación por comparecencia personal de los interesados, por escrito debidamente firmado o, en su caso, por vía electrónica mediante el sistema informático que para tal efecto se implemente;
+
+III.- El Centro de Conciliación auxiliará a los interesados que así lo soliciten para elaborar su petición. Deberán proporcionar asesoría jurídica de manera gratuita sobre sus derechos y los plazos de prescripción de los mismos, así como respecto de los procedimientos de conciliación y jurisdiccionales para solucionar los conflictos laborales;
+
+IV.- Al momento en que reciba la solicitud, el Centro de Conciliación, como Autoridad Conciliatoria señalará día y hora para la celebración de una Audiencia de Conciliación que deberá efectuarse dentro de los quince días siguientes. El citatorio se notificará personalmente a la entidad pública cuando menos con cinco días de anticipación a la audiencia, apercibiéndole que de no comparecer por sí o por conducto de su representante legal, o bien, por medio de apoderado con facultades suficientes, se le impondrá una multa entre 50 y 100 veces la Unidad de Medida y Actualización, y se le tendrá por inconforme con todo arreglo conciliatorio;
+
+V.- Al recibir la solicitud de conciliación, la Autoridad Conciliadora le asignará un número de identificación único y, en su caso, un buzón electrónico al interesado, que será creado para comunicaciones en lo que hace al procedimiento de conciliación prejudicial. Finalmente, designará por turno un conciliador responsable.
+
+En caso de no ser competente, la Autoridad Conciliadora deberá remitir la solicitud al Centro de Conciliación competente vía electrónica, dentro de las veinticuatro horas siguientes de recibida la solicitud, lo cual deberá notificar al solicitante para que acuda ante ella a continuar el procedimiento. La Autoridad Conciliadora se pronunciará respecto de la personalidad cuando se trate de solicitudes de entidades públicas;
+
+VI.- Si la solicitud de conciliación se presenta personalmente por ambas partes, la Autoridad Conciliadora les notificará de inmediato, fecha y hora de la audiencia de conciliación, misma que deberá celebrarse dentro del plazo máximo de cinco días a partir de la fecha de presentación de la solicitud, sin menoscabo de que ésta pueda celebrarse en ese momento;
+
+VII.- El trabajador solicitante de la instancia conciliatoria deberá acudir personalmente a la audiencia. Podrá asistir acompañado por una persona de su confianza, pero no se reconocerá a ésta como apoderado, por tratarse de un procedimiento de conciliación y no de un juicio; no obstante, el trabajador también podrá ser asistido por un licenciado en derecho, abogado o un Procurador de la Defensa del Trabajo. La entidad pública deberá designar un representante con facultades suficientes para obligarse en su nombre;
+
+VIII.- Si las partes acuden a la audiencia, la Autoridad Conciliadora deberá requerirles para que se identifiquen con cualquier documento oficial y, en su caso, verificar que la persona que comparezca en representación de la entidad pública acredite su personalidad.
+
+También se le asignará a la parte citada, en su caso, un buzón electrónico para recibir notificaciones en el procedimiento de conciliación prejudicial; hecho lo anterior formulará una propuesta de contenido y alcances de un arreglo conciliatorio, planteando opciones de solución justas y equitativas que a su juicio sean adecuadas para dar por terminada la controversia; de estar de acuerdo las partes, celebrarán convenio por escrito, que deberá ratificarse en ese acto, entregándose copia autorizada de éste.
+
+De no llegar a un acuerdo, la Autoridad Conciliadora emitirá la constancia de haber agotado la etapa de conciliación prejudicial obligatoria. No obstante, las partes de común acuerdo, podrán solicitar se fije nueva audiencia de conciliación, que deberá celebrarse dentro de los cinco días siguientes;
+
+IX.- Cuando alguna de las partes o ambas no comparezcan a la audiencia de conciliación por causa justificada, no obstante estar debidamente notificados, se señalará nueva fecha y hora para la celebración de la audiencia, misma que deberá realizarse dentro de los cinco días siguientes. La parte que acuda será notificada en ese acto, la contraparte que no acuda lo será por el boletín del Centro de Conciliación y, en su caso, por buzón electrónico;
+
+X.- Si a la audiencia de conciliación solo comparece el solicitante, la Autoridad Conciliadora emitirá la constancia de haber agotado la etapa de conciliación prejudicial obligatoria. Si solo comparece el citado, se archivará el expediente por falta de interés del solicitante. En ambos casos se reanudarán los plazos de prescripción a partir del día siguiente a la fecha de la audiencia, dejando a salvo los derechos del trabajador para solicitar nuevamente la conciliación;
+
+XI.- En el caso de que el notificador no haya logrado notificar a la persona, entidad pública o sindicato a citar, no obstante haberlo intentado, la Autoridad Conciliadora dará por terminada la instancia y emitirá constancia dejando a salvo los derechos del solicitante de la conciliación para promover juicio ante el Tribunal;
+
+XII.- Cuando en la solicitud de conciliación se manifieste la existencia de acoso sexual, discriminación u otros actos de violencia contemplados por la ley, en los que exista el riesgo inminente de revictimización, la Autoridad Conciliadora tomará las medidas conducentes para que en ningún momento se reúna o encare a la persona citada a la que se le atribuyen tales actos. En estos casos el procedimiento de conciliación se llevará con el representante o apoderado del citado, evitando que la presunta víctima y la persona o personas a quienes se atribuyen los actos de violencia se reúnan o encuentren en un mismo espacio;
+
+XIII.- Una vez que se celebre el convenio ante el Centro de Conciliación, adquirirá la condición de cosa juzgada, teniendo la calidad de un título para iniciar acciones ejecutivas sin necesidad de ratificación. Cualquiera de las partes podrá promover su cumplimiento mediante el procedimiento de ejecución de sentencia que establece esta Ley, ante el Tribunal, y
+
+XIV.- Al celebrar convenio, la Autoridad Conciliadora entregará copia certificada del mismo para cada una de las partes, asimismo se les entregará copia certificada de las actas donde conste el cumplimiento del convenio.
+
+Sin perjuicio de lo anterior, cuando así lo requiera el solicitante, el Centro de Conciliación podrá fijar la Audiencia de Conciliación dentro de los cinco días hábiles siguientes a la presentación de la solicitud, para lo cual le proporcionará el citatorio a la audiencia con el fin de que el solicitante se haga cargo de entregarlo directamente a la persona o personas citadas. En este caso, de presentarse ambas partes a la audiencia de conciliación, se procederá a su celebración. Si el solicitante no se presenta a la audiencia, se archivará el asunto por falta de interés, sin emisión de la constancia de haber agotado la conciliación, salvo que justifique su inasistencia, a juicio del conciliador. Si se presenta solamente el solicitante de la conciliación, se señalará nueva fecha y hora para la audiencia de conciliación dentro de los siguientes quince días, ajustándose a las reglas del procedimiento previstas en las fracciones IV y de la VI a la XIV del presente artículo.
+
+La Autoridad Conciliadora es responsable de que el convenio que se celebre cumpla con los requisitos y prestaciones que esta Ley establece, aplicables al caso concreto. Si las partes dan cumplimiento voluntario al convenio celebrado, certificará dicha circunstancia, dando fe de que el trabajador recibe completo y personalmente el pago pactado en el convenio.
+
+En caso de que las partes establezcan pagos diferidos, en una o más parcialidades a cubrir en fecha diversa a la celebración del convenio, deberá fijarse una pena convencional para el caso de incumplimiento, ésta consistirá en una cantidad no menor al salario diario del trabajador por cada día que transcurra sin que se dé cumplimiento cabal al convenio.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 145 Septies.
+
+Quedan exceptuados de agotar la instancia conciliatoria, cuando se trate de conflictos inherentes a:
+
+I.- Discriminación en el empleo y ocupación por embarazo, así como por razones de sexo, orientación sexual, raza, religión, origen étnico, condición social o acoso u hostigamiento sexual;
+
+II.- Designación de beneficiarios por muerte;
+
+III.- Prestaciones de seguridad social por riesgos de trabajo, maternidad, enfermedades, invalidez, vida, guarderías y prestaciones en especie y accidentes de trabajo;
+
+IV.- La tutela de derechos fundamentales y libertades públicas, ambos de carácter laboral, entendidos en estos rubros los relacionados con:
+
+a) La libertad de asociación, libertad sindical y el reconocimiento efectivo de la negociación colectiva;
+
+b) Trata laboral, así como trabajo forzoso y obligatorio, y
+
+c) Trabajo infantil.
+
+Para la actualización de estas excepciones se debe acreditar la existencia de indicios que generen al Tribunal la razonable sospecha, apariencia o presunción de que se están vulnerando alguno de estos derechos;
+
+V.- La impugnación de los estatutos de los sindicatos o su modificación.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ENERO DE 2021)</small>
+
+## TITULO OCTAVO. DEL TRIBUNAL DE JUSTICIA LABORAL BUROCRÁTICA
 
 ### CAPITULO I. DE LA ESTRUCTURA Y COMPETENCIA DEL TRIBUNAL
 
-## TITULO NOVENO. DERECHO PROCESAL DEL TRABAJO
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 146.
+
+El Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas es un órgano jurisdiccional con personalidad jurídica y patrimonio propio, dotado de plena autonomía e independiente en sus decisiones, de conformidad con la Constitución Política del Estado Libre y Soberano de Zacatecas.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 147.
+
+El Tribunal tendrá a su cargo el conocimiento y resolución de los conflictos de trabajo que se susciten entre los trabajadores al servicio del Estado, de los Municipios, de los órganos a los que la Constitución les reconoce autonomía, con excepción de los electorales, de los organismos descentralizados estatales, municipales e intermunicipales, con los órganos y dependencias de ambos niveles de Gobierno, derivados de las relaciones de trabajo; de trabajadores entre sí; de éstos con los sindicatos en que se agrupen; y de conflictos entre sindicatos; de conformidad con lo que señala la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado, esta Ley y los demás ordenamientos legales en la materia.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 148.
+
+El Tribunal se integrará por tres Magistrados que deberán ser designados de conformidad con el procedimiento previsto en la Constitución del Estado; durarán en su encargo siete años, sin posibilidad de ser reelectos y deberán satisfacer los mismos requisitos que se exigen para ser Magistrado del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 149.
+
+El Tribunal funcionará en Pleno y en ponencias, contará con una Presidencia que recaerá en uno de sus integrantes, será rotatoria y tendrá una duración de dos años.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 150.
+
+El Tribunal estará integrado con la estructura siguiente:
+
+I.- El Pleno, que estará integrado por los tres Magistrados;
+
+II.. La Presidencia;
+
+III.- La Secretaría General de Acuerdos;
+
+IV.- Las Ponencias, encabezadas por un Magistrado y que se integrarán por los Secretarios de Estudio y Cuenta, Instructores y Auxiliares que se requieran para el adecuado funcionamiento del Tribunal, conforme a su Reglamento Interior;
+
+V.- Las áreas administrativas necesarias que establezca el Reglamento Interior, y
+
+VI.- El Órgano Interno de Control.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 151.
+
+Los Magistrados gozarán de las garantías judiciales previstas en el artículo 17 de la Constitución Federal.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 152.
+
+Durante el periodo de su encargo, los Magistrados no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en los que actúen en representación del Tribunal y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 153.
+
+Ninguna persona que haya ocupado una Magistratura del Tribunal, podrá ser nombrada para un nuevo periodo, salvo que hubiera ejercido el cargo con el carácter de provisional.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 154.
+
+Las remuneraciones de los titulares de las Magistraturas se efectuarán en los términos de los artículos 127 de la Constitución Política de los Estados Unidos Mexicanos y 160 de la Constitución del Estado, las cuales no podrán disminuirse durante el ejercicio de su encargo.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 155.
+
+Tratándose de una vacante definitiva o temporal que exceda de tres meses de alguna de las Magistraturas, ésta será comunicada a la Legislatura del Estado para que se provea el procedimiento de sustitución que establece la Constitución del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 156.
+
+En caso de que alguna Magistratura presente una vacante temporal que no exceda de tres meses, ésta se cubrirá, para el solo efecto de integrar quórum legal en Pleno, llamándose al Secretario General de Acuerdos. Si el Magistrado ausente tenía a su cargo determinados asuntos, éstos serán reasignados a otro Magistrado, en términos del Reglamento Interior.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 157.
+
+El Tribunal funcionará en Pleno con los tres Magistrados que lo integren.
+
+El Pleno sesionará válidamente con la presencia de, por lo menos, dos de sus miembros, sus resoluciones se tomarán por mayoría o unanimidad. En caso de empate en las votaciones, el titular de la Presidencia tendrá voto de calidad.
+
+Los Magistrados solo podrán abstenerse en los casos en que tengan impedimento en los términos de esta Ley.
+
+Cuando no exista el quórum legal para sesionar, ésta se suspenderá, enlistándose los asuntos para la siguiente sesión. Ningún proyecto o asunto podrá ser aplazado por más de dos ocasiones sin resolución o decisión del Pleno.
+
+En caso de que en un asunto de carácter jurisdiccional se haya aplazado para su resolución, en virtud de no haberse integrado el quórum legal, si en la siguiente sesión persiste esta situación, en los términos del Reglamento Interior del Tribunal, se llamará al Secretario General de Acuerdos a integrar Pleno; y, para cubrir las funciones de éste último, el Presidente designará al Secretario de Estudio y Cuenta que reúna el perfil profesional afín.
+
+Cuando sea el Presidente el que no acuda a la sesión, se llamará al Secretario General de Acuerdos y presidirá la sesión el Magistrado de mayor antigüedad o, en su caso, el de mayor edad.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 158.
+
+Las atribuciones del Pleno serán jurisdiccionales y administrativas, en los términos siguientes:
+
+A. Jurisdiccionales:
+
+I.- Conocer y resolver de los conflictos individuales o colectivos que se susciten:
+
+a) Entre titulares de una entidad pública y sus trabajadores;
+
+b) Dentro de un sindicato o entre sindicatos, y
+
+c) De trabajadores entre sí, y de éstos con el sindicato;
+
+II.- De los incidentes y recursos establecidos en la presente Ley;
+
+III.- Practicar de oficio, la investigación encaminada a identificar las personas que dependían económicamente de la trabajadora o trabajador fallecido, y
+
+IV.- Las demás funciones que se derivan de esta Ley o que se establezcan en el Reglamento interior.
+
+B. Administrativas:
+
+I.- Expedir su Reglamento Interior, para normar su organización, funcionamiento y servicio profesional de carrera, así como sus manuales operativos y de procedimientos, además de los acuerdos, lineamientos, criterios, circulares y demás instrumentos que resulten necesarios para el eficaz desempeño de sus atribuciones;
+
+II.- Fijar los días y horas en que deba sesionar el Pleno;
+
+III.- Celebrar reuniones privadas cuando se trate de la designación de personal, conocimiento de impedimentos, recusaciones y excusas de los Magistrados y en los demás casos que el Pleno lo considere pertinente;
+
+IV.- Celebrar reuniones internas de carácter ordinario y extraordinario con la periodicidad y duración que resulte pertinente;
+
+V.- Conceder licencias a los Magistrados que lo integran, siempre que no excedan de tres meses;
+
+VI.- Llamar, en caso de ausencia o excusa de algún Magistrado, al Secretario General de Acuerdos a integrar Pleno, en los términos previstos en esta Ley y los reglamentos aplicables;
+
+VII.- Apercibir, amonestar e imponer multas a quienes falten al debido respeto en las sesiones o promociones, ya sea a algún servidor público del Tribunal u órgano del mismo;
+
+VIII.- Crear, modificar o suprimir direcciones, unidades y órganos del Tribunal, con base en las cargas de trabajo y la disponibilidad presupuestal, así como contratar al personal necesario promoviendo la cultura de equidad de género e igualdad de oportunidades entre el personal;
+
+IX.- Aprobar el proyecto de presupuesto de egresos, conforme a las necesidades del Tribunal y con apego a los principios de disciplina financiera y responsabilidad hacendaria señalados por la ley de la materia;
+
+X.- Vigilar que los recursos del Tribunal se administren conforme a los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas, para satisfacer los objetivos a los que estén destinados;
+
+XI.- Aprobar y autorizar al Presidente a que celebre convenios de coordinación, colaboración y concertación, en materias relacionadas con la competencia del Tribunal;
+
+XII.- Aprobar el Catálogo de Cargos y Puestos, así como el Tabulador de Salarios de los Servidores Públicos del Tribunal;
+
+XIII.- Imponer las sanciones de carácter laboral a los servidores públicos, con fundamento en la Ley y ordenamientos aplicables;
+
+XIV.- Aprobar el informe anual de actividades que el Presidente someta a su consideración, y
+
+XV.- Las demás que señalen las leyes y otros ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 159.
+
+La Presidencia del Tribunal será rotatoria entre los Magistrados integrantes, atendiendo a la antigüedad que tengan en el mismo.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 160.
+
+La persona titular de la Presidencia durará en el encargo dos años, con imposibilidad de reelección para el ejercicio inmediato siguiente.
+
+En caso de ausencia definitiva del titular de la Presidencia en turno, ocupará el cargo el Magistrado a quien correspondiera el periodo siguiente. En este caso, se llamará a integrar el Pleno al Secretario General de Acuerdos, en tanto la Legislatura del Estado designa al Magistrado faltante.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 161.
+
+Son atribuciones de la persona titular de la Presidencia:
+
+I.- Representar legalmente al Tribunal Laboral en toda acción civil, fiscal o administrativa ante autoridades u órganos administrativos, fiscales, hacendarios, según corresponda, y ante las instituciones de crédito y de cualquier otra naturaleza, así como otorgar poderes, previa aprobación del Pleno;
+
+II.- Rendir los informes en los amparos que se interpongan en contra de las sentencias y resoluciones dictados por el Tribunal;
+
+III.- Sustanciar los asuntos turnados a su ponencia;
+
+IV.- Convocar y presidir las sesiones del Pleno;
+
+V.- Poner en práctica las medidas necesarias para la ejecución eficiente del presupuesto asignado al Tribunal y vigilar su cumplimiento;
+
+VI.- Conducir las sesiones del Pleno y conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá suspender la sesión y ordenar su desalojo;
+
+VII.- Proponer al Pleno el nombramiento, promoción y ascenso del personal;
+
+VIII.- Vigilar que se cumplan las determinaciones del Pleno;
+
+IX.- Establecer vínculos con las autoridades o instituciones relacionadas con las funciones del Tribunal;
+
+X.- Vigilar que se adopten las medidas necesarias para el debido cumplimiento de las funciones jurisdiccionales y administrativas que correspondan a los Magistrados;
+
+XI.- Turnar a los Magistrados, de conformidad con lo dispuesto por el Reglamento Interior, los expedientes para que substancien la instrucción y elaboren los proyectos de sentencia;
+
+XII.- Publicar en el Periódico Oficial, Órgano de Gobierno del Estado, los criterios relevantes adoptados por el Tribunal;
+
+XIII.- Requerir cualquier informe o documento que, obrando en poder de las autoridades federales, estatales, municipales o de particulares, pueda ser de utilidad para la substanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en las leyes;
+
+XIV.- Vigilar que se cumplan las disposiciones de los reglamentos, criterios, lineamientos, manuales y acuerdos del Tribunal;
+
+XV.- Dictar acuerdos y poner en práctica las medidas adecuadas y necesarias, para que el despacho de los asuntos de la jurisdicción del Tribunal, se realice de manera pronta, imparcial y expedita, sin menoscabo de las atribuciones de los Magistrados;
+
+XVI.- Celebrar a nombre del Tribunal, previa aprobación del Pleno, los convenios a que se refiere la presente Ley;
+
+XVII.- Remitir a la Secretaría de Finanzas del Gobierno del Estado, a más tardar el último día del mes de septiembre del año inmediato anterior al que deba ejercerse, el proyecto de presupuesto de egresos aprobado por el Pleno, para que sea integrado a la iniciativa de Decreto de Presupuesto de Egresos del Estado;
+
+XVIII.- Con base en los principios de disciplina financiera y responsabilidad hacendaria establecidos en la ley de la materia, someter a la consideración del Pleno, la creación, modificación o supresión de unidades técnicas y administrativas;
+
+XIX.- Firmar, conjuntamente con el Secretario General de Acuerdos, los acuerdos y actas que se emitan;
+
+XX.- Proponer modificaciones al Manual de Organización y al Catálogo de Cargos y Puestos del Tribunal;
+
+XXI.- Solicitar a las instituciones policiales el auxilio en caso necesario, a fin de garantizar el funcionamiento del Tribunal;
+
+XXII.- Elaborar y presentar ante el Pleno el informe anual de actividades y remitirlo para su conocimiento, previa aprobación del Pleno, a los poderes del Estado, y
+
+XXIII.- Las demás que le confiera la presente Ley, el Reglamento Interior y demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 162.
+
+Son atribuciones de los Magistrados, las siguientes:
+
+I.- Sustanciar, hasta el cierre de instrucción, los procedimientos ordinarios y especiales que sean turnados a sus ponencias;
+
+II.- Admitir, desechar y tramitar los incidentes que le competan, formular los proyectos de sentencia, de aclaraciones y someterlos a la consideración del Pleno;
+
+III.- Dictar los acuerdos o providencias de trámite necesarios para instruir el procedimiento ordinario o especial, incluyendo la imposición de medidas de apremio necesarias para hacer cumplir sus determinaciones, acordar las promociones de las partes y los informes de las autoridades y atender la correspondencia necesaria, autorizándola con su firma;
+
+IV.- Solicitar la debida integración del expediente para un mejor conocimiento de los hechos en la búsqueda de la verdad material, asimismo, los Magistrados podrán acordar la exhibición de cualquier documento que tenga relación con los mismos, ordenar la práctica de cualquier diligencia o proveer la preparación y desahogo de la prueba pericial cuando se planteen cuestiones de carácter técnico y no hubiere sido ofrecido por las partes, en el procedimiento;
+
+V.- Dirigir las audiencias con el personal de apoyo administrativo y jurisdiccional que requiera;
+
+VI.- Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y reuniones internas a las que sean convocados por el Presidente;
+
+VII.- Integrar el Pleno para resolver colegiadamente los asuntos de su competencia;
+
+VIII.- Exponer, en sesión pública, personalmente o por conducto de un Secretario Instructor, sus proyectos de sentencia, señalando las consideraciones jurídicas y los preceptos en que se funden y motiven;
+
+IX.- Discutir y votar los proyectos de sentencia que sean sometidos a su consideración en las sesiones públicas;
+
+X.- Formular voto particular o concurrente, en caso de disentir de un proyecto de sentencia aprobado por la mayoría y solicitar que se agregue al expediente;
+
+XI.- Solicitar al Pleno que sus proyectos de sentencia se agreguen a los expedientes como votos particulares cuando no sean aprobados por la mayoría;
+
+XII.- Realizar los engroses de las sentencias aprobadas por el Pleno, cuando sean designados para tales efectos;
+
+XIII.- Girar los exhortos y despachos que sean necesarios a las autoridades jurisdiccionales federales, estatales y municipales, encomendándoles la realización de alguna diligencia en el ámbito de su competencia; o efectuar por sí mismos las que deban practicarse fuera de las oficinas del Tribunal;
+
+XIV.- Participar en los programas de capacitación impulsados por el Tribunal, y
+
+XV.- Las demás que les señale esta Ley, el Reglamento Interior y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 163.
+
+Las ponencias del Tribunal son tres y se integrarán por un Magistrado, quien tendrá a su cargo, por lo menos, Secretarios de Estudio y Cuenta, Secretarios Instructores y los auxiliares que se requieran, de acuerdo con las necesidades, cargas de trabajo y presupuesto del Tribunal.
+
+El Magistrado responsable de la ponencia tendrá funciones de fedatario judicial para las actuaciones y diligencias que sean requeridos; además, tendrá las obligaciones y atribuciones de dirigir los trabajos administrativos y jurisdiccionales de la ponencia, siguientes:
+
+I.- Recibir de la Secretaría General de Acuerdos, las demandas, las promociones y cualquier otra correspondencia, verificando que las mismas tengan impreso el sello oficial, con la razón del día y la hora en que hayan sido presentadas y los anexos que se acompañan, así como llevar el registro y control de los mismos;
+
+II.- Coordinar la elaboración de los proyectos de resolución y acuerdos que deriven de la sustanciación de los asuntos jurisdiccionales turnados a la ponencia;
+
+III.- Revisar y aprobar los proyectos que formulen los Secretarios de Estudio y Cuenta de su respectiva ponencia, así como de las demás ponencias;
+
+IV.- Coordinar, asignar y supervisar las labores de los secretarios de estudio y cuenta e instructores y demás personal adscrito a la ponencia;
+
+V.- Participar en las reuniones a las que sean convocados por el Presidente, y
+
+VI.- Las demás que les confieran el Reglamento Interior y otros ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 164.
+
+Son causas de responsabilidad de los Magistrados del Tribunal:
+
+I.- Realizar conductas que atenten contra la independencia de la función jurídica, o cualquier acción que genere o implique subordinación respecto de terceros;
+
+II.- No preservar los principios de certeza, imparcialidad, independencia, legalidad y máxima publicidad;
+
+III.- Tener notoria negligencia, ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
+
+IV.- Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos;
+
+V.- Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
+
+VI.- Dejar de desempeñar sin causa justificada las funciones o las labores que tenga a su cargo;
+
+VII.- Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y de la demás legislación de la materia;
+
+VIII.- Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia, con motivo del ejercicio de sus atribuciones;
+
+IX.- Dejar de asistir a las sesiones del Pleno, sin causa justificada;
+
+X.- Desintegrar, sin motivo justificado, el quórum del Pleno, vistas o audiencias, una vez comenzados;
+
+XI.- No presentar oportunamente los proyectos de sentencia o negarse, injustificadamente, a firmar éstos dentro del término establecido en el Reglamento Interior;
+
+XII.- Conceder empleo, cargo o comisión remunerados, a su cónyuge, concubina o parientes consanguíneos en línea recta sin límite de grados; en línea colateral, hasta el cuarto grado; por afinidad, hasta el segundo grado, y parientes por adopción, y
+
+XIII.- Las demás que establezca la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Responsabilidades Administrativas y la Constitución Política del Estado Libre y Soberano de Zacatecas.
+
+Las causales de responsabilidad serán investigadas por el Órgano Interno de Control del Tribunal, conforme al procedimiento establecido en la Ley General de Responsabilidades Administrativas.
 
 ### CAPITULO II. DEL PERSONAL DE APOYO
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-###### Artículo 146.
-
-Los conflictos de trabajo de su competencia serán resueltos por el Tribunal Local de Conciliación y Arbitraje.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-###### Artículo 147.
-
-El Tribunal será colegiado, funcionará en pleno y estará integrado por tres magistradas o magistrados, que durarán en su encargo seis años, pudiendo ser reelectas o reelectos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-###### Artículo 148.
-
-Los sindicatos en una convención designarán a su magistrada o magistrado representante; el día primero de abril del año par que corresponda, quien funja como Director del Trabajo y Previsión Social publicará en el Periódico Oficial de Gobierno del Estado, la convocatoria para la elección de magistradas o magistrados representantes, propietaria o propietario y suplente.
-
-La convocatoria contendrá:
-
-a) El lugar y fecha para el registro y presentación de los padrones a que se refiere el artículo siguiente;
-
-b) El lugar y fecha para la entrega de credenciales; y
-
-c) El lugar, fecha y hora de la celebración de la convención.
-
-###### Artículo 149.
-
-Los padrones contendrán los datos siguientes:
-
-I.- Denominación y domicilio de los sindicatos;
-
-II.- Nombre de sus miembros y de la entidad pública o dependencia en la cual presten sus servicios;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-III.- La designación de las y los delegados. Se nombrará una o un delegado por cada quinientos integrantes del sindicato o una fracción superior a doscientos cincuenta. Las y los inspectores del trabajo comprobarán y certificarán la exactitud de los padrones.
-
-###### Artículo 150.
-
-La convención se celebrará dentro del término de treinta días, contado a partir del día de la publicación de la convocatoria y para su funcionamiento se observarán las normas siguientes:
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-I.- Las y los delegados se presentarán a la convención, provistos de sus credenciales;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-II.- La convención será instalada por la o el Director del Trabajo y Previsión Social o por la persona que éste designe;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-III.- Instalada la convención se procederá al registro de credenciales y a la elección de la mesa directiva, que se integrará con una presidenta o presidente, una secretaria o secretario y dos escrutadoras o escrutadores;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-IV.- Instalada la mesa directiva, se procederá a la aprobación de credenciales y posteriormente a la elección de las o los magistrados representantes, una propietaria o propietario y un suplente;
-
-V.- Concluida la elección se levantará un acta; un tanto se remitirá al Tribunal; otro se entregará a cada uno de los magistrados representantes electos.
-
-###### Artículo 151.
-
-Si ningún sindicato se registró o acudió a la convención por conducto de sus delegados, se entenderá que los interesados delegan la facultad al Poder Legislativo.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-###### Artículo 152.
-
-La Secretaría General de Gobierno, a través de la Dirección de Trabajo y Previsión Social, convocará a las y los Presidentes Municipales a una asamblea que tendrá por objeto designar una candidata o candidato a Magistrado.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-###### Artículo 153.
-
-La designación de la o el Magistrado representante de las entidades públicas, se hará como sigue:
-
-I.- Una candidata o candidato designado en los términos del artículo anterior; y
-
-II.- Dos candidatas o candidatos designados por la o el Ejecutivo del Estado en representación de la Administración Pública Centralizada y Paraestatal.
-
-La designación de candidatas y candidatos se hará ante el Poder Legislativo, quien procederá al nombramiento de una o un magistrado representante propietario y un suplente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-###### Artículo 154.
-
-La o el Magistrado Presidente del Tribunal, será nombrado por el Poder Legislativo de una terna que proponga el Tribunal Superior de Justicia del Estado, integrada por personas ajenas a toda relación entre los sindicatos y las entidades públicas.
-
-De no haberse designado candidatos dentro de los plazos señalados en los artículos 148 y 150 de esta Ley, el nombramiento de Magistrados lo hará el Poder Legislativo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-###### Artículo 155.
-
-A falta de Magistradas o Magistrados representantes, asumirán el cargo la o los respectivos suplentes.
-
-Faltando unos y otros, se harán nuevas designaciones en los términos de este capítulo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-###### Artículo 156.
-
-Para ser magistrada o magistrado del Tribunal se requiere:
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-I.- Ser ciudadana o ciudadano zacatecano en los términos del artículo 12 de la Constitución Política del Estado;
-
-II.- Ser mayor de treinta años;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-III.- Ser licenciada o licenciado en derecho, titulada o titulado y con experiencia mínima de tres años en materia laboral;
-
-IV.- No tener antecedentes penales; y
-
-V.- No pertenecer al estado eclesiástico.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-###### Artículo 157.
-
-Las y los Magistrados del Tribunal, así como su personal de apoyo, tendrán el salario que determine el presupuesto de egresos.
-
-###### Artículo 158.
-
-El Tribunal será competente para:
-
-I.- Conocer y resolver de los conflictos individuales o colectivos que se susciten:
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-a) Entre titulares de una entidad pública y sus trabajadoras y trabajadores;
-
-b) Dentro de un sindicato, o entre sindicatos;
-
-II.- Conceder el registro de los sindicatos o secciones, o en su caso, determinar la cancelación de los mismos;
-
-III.- (REFORMADA [N. DE E. DEROGADA], P.O. 21 DE MARZO DE 2015)
-
-IV.- Dictar los acuerdos de: depósito de las condiciones generales de trabajo, reglamentos de escalafón, reglamentos de las diferentes comisiones mixtas y de los estatutos de los sindicatos;
-
-V.- Expedir su propio reglamento y los manuales de organización;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-VI.- Practicar de oficio, la investigación encaminada a identificar las personas que dependían económicamente de la trabajadora o trabajador fallecido;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-VII.- Conocer del recurso de revisión interpuesto en contra de las resoluciones de la Magistrada o Magistrado Presidente del Tribunal en ejecución de laudos o convenios; y
-
-VIII.- Las demás funciones que se derivan de esta ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-###### Artículo 159.
-
-Corresponde a la o el Magistrado Presidente del Tribunal:
-
-I.- Ejercer la representación del Tribunal y dirigir la administración del mismo;
-
-II.- Presidir las Sesiones;
-
-III.- Cuidar el orden y la disciplina del Tribunal;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-IV.- Designar o remover a la o el Secretario General de Acuerdos, secretarias y secretarios proyectistas y actuarias y actuarios y demás servidoras y servidores públicos del Tribunal, previa aprobación del pleno;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-V.- Asignar los expedientes a cada una de las y los magistrados;
-
-VI.- Llevar la correspondencia oficial del Tribunal;
-
-VII.- Ejecutar los laudos dictados por el Tribunal;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-VIII.- Revisar los actos de la y los actuarios o habilitados, en la ejecución de los laudos, a solicitud de cualquiera de las partes;
-
-IX.- Cumplimentar los exhortos que les sean turnados por otras autoridades;
-
-X.- Rendir los informes en los amparos que se interpongan en contra de los laudos y resoluciones dictados por el Tribunal; y
-
-XI.- Las demás que le confieran las leyes.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-###### Artículo 160.
-
-La o el Magistrado Presidente del Tribunal será sustituida o sustituido en sus faltas temporales y en las definitivas, entre tanto se hace nueva designación, por la o el Secretario General de Acuerdos.
-
-En los casos de licencia, incapacidad, recusación, o excusa de las y los magistrados representantes, la o el Magistrado Presidente o en su caso, la o el Secretario General de Acuerdos, llamará a integrar pleno a los suplentes.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-###### Artículo 161.
-
-Para el funcionamiento del Tribunal se requiere la presencia de la o el Magistrado Presidente o en su caso de la o el secretario general de acuerdos, y de otro magistrado. En caso de empate, la o el Magistrado Presidente o quien haga sus veces, tiene voto de calidad.
-
-Las y los magistrados deberán asistir a la audiencia de discusión y votación del proyecto de laudo.
-
-Si no concurre la mayoría, la o el Magistrado Presidente señalará día y hora para que se celebre la audiencia, y si de nuevo no concurre la mayoría, integrarán pleno los magistrados suplentes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-###### Artículo 162.
-
-Son funciones de las y los Magistrados del Tribunal:
-
-I.- Conocer de los negocios que se tramiten ante el Tribunal;
-
-II.- Estar presentes en la celebración de las audiencias y emitir el voto en las resoluciones que se tomen;
-
-III.- Elaborar el proyecto de laudo en los asuntos que les sean asignados; y
-
-IV.- Las demás que señalen la presente ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-###### Artículo 163.
-
-Son causas de responsabilidad de las y los Magistrados del Tribunal:
-
-I.- Conocer de un negocio para el que se encuentren impedidos;
-
-II.- Litigar en asuntos de trabajo;
-
-III.- Faltar sin causa justificada a la celebración de las audiencias;
-
-IV.- Negarse a emitir su voto en alguna resolución;
-
-V.- Votar una resolución notoriamente ilegal o injusta;
-
-VI.- Recibir cualquier dádiva de las partes en conflicto; y
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-VII.- Dejar de reconocer, la personalidad de quien actúa en representación de las entidades públicas, o de las y los trabajadores, que en su carácter de parte actora, demandada o tercero, acrediten estar legítimamente representados conforme a la ley;
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-VIII.- Dejar de aplicar y de hacer válidas las multas y medios de apremio que contempla esta Ley, y
-
-IX.- Las demás que les señalen las leyes.
-
-###### Artículo 164.
-
-El reglamento interior del Tribunal establecerá las sanciones aplicables en caso de infracción del artículo anterior, sin perjuicio de lo que establezca la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
-
-### CAPITULO I. PRINCIPIOS PROCESALES
 
 ###### Artículo 165.
 
@@ -2097,9 +2305,13 @@ El Tribunal contará al menos, con el personal siguiente:
 
 I. La o el secretario general de acuerdos;
 
-II. Las y los secretarios proyectistas;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
 
-III. Las y los secretarios de mesas de trámite;
+II.- Las y los secretarios de estudio y cuenta;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
+
+III.- Las y los secretarios instructores;
 
 IV. La o el secretario de mesa de amparo;
 
@@ -2113,7 +2325,13 @@ VIII. La o el encargado de archivo; y
 
 IX. Demás personal de apoyo que sea necesario.
 
-El personal quedará sujeto a la presente ley, pero los conflictos que se susciten entre éstos y el Tribunal, serán resueltos por la Junta Local de Conciliación y Arbitraje.
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+El Pleno distribuirá al personal en cada una de las ponencias, con la finalidad de que puedan cumplir con las atribuciones previstas en esta Ley.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+El personal quedará sujeto a la presente Ley y al Reglamento Interior que emita el Pleno, pero los conflictos que se susciten entre éstos y el Tribunal, serán resueltos por los juzgados laborales del Tribunal Superior de Justicia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -2133,29 +2351,227 @@ III.- No pertenecer al estado eclesiástico; y
 
 IV.- No tener antecedentes penales.
 
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 166 Bis.
+
+Para ser designado Secretario General de Acuerdos del Tribunal, se deberán reunir los requisitos siguientes:
+
+(NOTA: EL 29 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 39/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I.- Ser mexicano POR NACIMIENTO y ciudadano zacatecano, en pleno ejercicio de sus derechos políticos y civiles;
+
+II.- Tener cuando menos veinticinco años cumplidos el día de la designación;
+
+III.- Poseer el día de la designación, con antigüedad mínima de cinco años, título profesional de licenciado en derecho, expedido por la autoridad o la institución legalmente facultada para ello;
+
+IV.- Contar como mínimo con dos años de experiencia en materia laboral;
+
+V.- Gozar de buena reputación, y
+
+VI.- No tener parentesco de consanguinidad hasta el tercer grado con los Magistrados del Tribunal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2021)</small>
+
 ###### Artículo 167.
 
-Son causas de responsabilidad del personal de apoyo del Tribunal:
+Son causas de responsabilidad del personal jurídico y de apoyo del Tribunal:
 
-I.- Ejercer la profesión de abogado;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
 
-II.- Retardar la tramitación de un negocio sin causa justificada;
+I.- Dejar de presentar oportunamente los proyectos de resolución que se le encomienden o no elaborarlos conforme a las instrucciones que haya formulado el Magistrado o Magistrada;
 
-III.- Hacer constar hechos falsos en las actas que levante en ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
 
-IV.- No dar cuenta oportuna de las promociones; y
+II.- Omitir el registro de control de los expedientes que se le asignen;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
 
-V.- No informar oportunamente a la o el Presidente del Tribunal de la conducta irregular o delictuosa de alguna de las partes, los litigantes o terceros, relacionados con los asuntos que se tramitan.
+III.- Externar comentarios respecto de los asuntos que le hayan sido encomendados;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
+
+IV.- Formular proyectos en asuntos en que tuviese impedimento legal;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
+
+V.- Retardar, indebida o dolosamente, las notificaciones, emplazamientos o diligencias de cualquier naturaleza que les fueren encomendadas;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2021)</small>
+
+VI.- Dar preferencia a alguno o algunos de los litigantes, o autoridades denunciantes en perjuicio de otros, por cualquier causa, en el trámite de los expedientes;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2021)</small>
+
+VII.- Dejar de observar las reglas procesales aplicables en la práctica de las diligencias que se les encomienden;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2021)</small>
+
+VIII.- Retardar o no realizar el asentamiento, en los expedientes, de los acuerdos, proveídos o certificaciones que procedan de oficio o por mandato judicial;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2021)</small>
+
+IX.- Omitir el cuidado y vigilancia de los expedientes, documentos y objetos que estén bajo su custodia;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2021)</small>
+
+X.- No realizar los registros que deban inscribirse en los libros de gobierno y control;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2021)</small>
+
+XI.- Incumplir las obligaciones de dar cuenta, dentro del término de ley, con oficios, promociones, expedientes y de entregar al secretario de acuerdos los valores afectos o que se exhiban en los expedientes a su cargo;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2021)</small>
+
+XII.- Rehusarse a recibir escritos y promociones, sin causa justificada;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2021)</small>
+
+XIII.- Tratar sin la debida corrección y oportunidad a los litigantes y público en general;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2021)</small>
+
+XIV.- Llevar a cabo las actividades propias de su encomienda sin la debida diligencia, profesionalismo, honestidad, eficiencia y eficacia, que requiera su trabajo;
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2021)</small>
+
+XV.- Desobedecer las órdenes de sus superiores; y
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2021)</small>
+
+XVI.- Las demás que establezca la Ley General de Responsabilidades Administrativas, esta Ley y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 168.
 
-El reglamento interior del Tribunal, sin perjuicio de lo que establezca la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas, fijará las sanciones aplicables en caso de infracción a las prohibiciones contenidas en el artículo anterior.
+El procedimiento para determinar las responsabilidades de los servidores públicos del Tribunal a que se refiere esta Ley se realizará en los términos de la Ley General de Responsabilidades Administrativas.
 
-### CAPITULO II. DE LA CAPACIDAD Y PERSONALIDAD
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+###### Artículo 168 Bis.
+
+El patrimonio del Tribunal se integra por:
+
+I.- Las partidas que anualmente se le asignen en el presupuesto de egresos del Estado;
+
+II.- Los derechos, bienes muebles e inmuebles que se destinen al cumplimiento de su objeto, y
+
+III.- Los demás ingresos que perciba con motivo del ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 168 Ter.
+
+El Tribunal elaborará su presupuesto de egresos y lo remitirá a la Secretaría de Finanzas de Gobierno del Estado, a más tardar el último día del mes de septiembre del año anterior al que deba ejercerse, para que se integre en la iniciativa de Decreto de Presupuesto de Egresos del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 168 Quáter.
+
+El Tribunal remitirá a la Secretaría de Finanzas del Gobierno del Estado, la información financiera necesaria a efecto de consolidar la Cuenta Pública del Estado, incluyendo los registros anuales que muestren los avances presupuestarios y contables, en términos de la legislación en materia de disciplina financiera, responsabilidad hacendaria y fiscalización.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 168 Quinquies.
+
+El proceso de entrega-recepción, con motivo de la conclusión del mandato del Presidente del Tribunal, se realizará en términos de la Ley de Entrega-Recepción del Estado de Zacatecas y demás legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 168 Sexies.
+
+El Tribunal contará con un órgano interno de control con autonomía técnica y de gestión que tendrá a su cargo las atribuciones señaladas en el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 168 Septies.
+
+El titular del órgano interno de control será designado por la Legislatura del Estado con el voto de las dos terceras partes de sus miembros presentes, durará en su cargo tres años y no podrá ser designado para otro periodo.
+
+Para su remoción se requerirá la misma votación de su designación.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 168 Octies.
+
+El Órgano Interno de Control contará con la estructura orgánica, personal y recursos que le asigne el Pleno del Tribunal, de acuerdo con los recursos que al efecto se le asignen en el presupuesto de egresos del Estado.
+
+El titular tendrá, por lo menos, nivel jerárquico equivalente al Secretario de Estudio y Cuenta.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 168 Nonies.
+
+El titular y los servidores públicos que integren el Órgano Interno de Control deberán observar los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+###### Artículo 168 Decies.
+
+En los términos de la Ley General del Sistema Nacional Anticorrupción, la Ley del Sistema Estatal Anticorrupción de Zacatecas y demás ordenamientos aplicables, el Órgano Interno de Control mantendrá una coordinación permanente con la Auditoría Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+Artículo 168 Undecies.- Para ser titular del Órgano Interno de Control se requiere:
+
+I.- Ser ciudadano mexicano, con pleno goce de sus derechos civiles y políticos;
+
+II.- Tener, cuando menos, treinta años cumplidos al día de su nombramiento;
+
+III.- Contar al día de su designación, con título profesional, por lo menos de nivel licenciatura en administración, derecho, contaduría u otra relacionada en forma directa con las actividades de fiscalización y responsabilidades administrativas, expedido por institución legalmente facultada;
+
+IV.- Contar con experiencia profesional, de cuando menos, tres años, en el control, manejo, fiscalización de recursos o responsabilidades administrativas;
+
+V.- Gozar de buena reputación, y
+
+VI.- No ser o haber sido dirigente de partido político o candidato a puesto de elección popular, ni ministro de algún culto religioso, en los cinco años anteriores a su designación.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+Artículo 168 Duodecies.- El titular del Órgano Interno de Control durante el ejercicio de su encargo no podrá:
+
+I.- Desempeñar otro empleo, cargo o comisión, excepto los relacionados con la docencia, asociaciones científicas, artísticas o de beneficencia, y
+
+II.- Formar parte de partido político alguno, participar en actos políticos partidistas y hacer cualquier tipo de propaganda o promoción partidista.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+Artículo 168 Terdecies.- En caso de falta absoluta, renuncia o remoción del titular del órgano interno de control, se procederá en los términos de este Capítulo.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+Artículo 168 Quaterdecies.- El Órgano Interno de Control será responsable del control, evaluación y desarrollo administrativo, así como de la prevención de conductas constitutivas de responsabilidades administrativa, (sic) de aquellas facultades que le confiera la Ley General del Sistema Nacional Anticorrupción, la Ley General de Responsabilidades Administrativas y la Ley del Sistema Estatal Anticorrupción de Zacatecas y tendrá las siguientes atribuciones:
+
+I.- Llevar a cabo la investigación, substanciación y calificación de faltas administrativas no graves en términos de la Ley General de Responsabilidades Administrativas;
+
+II.- Resolver sobre las responsabilidades de los servidores públicos del Tribunal, e imponer, en su caso, las sanciones administrativas correspondientes en términos de la Ley General de Responsabilidades Administrativas;
+
+III.- Elaborar y presentar a la autoridad substanciadora los informes de presunta responsabilidad administrativa que correspondan;
+
+IV.- Resolver los recursos de revocación que le sean interpuestos en términos de la Ley General de Responsabilidades Administrativas;
+
+V.- Promover los recursos establecidos en la Ley General de Responsabilidades Administrativas cuando sea procedente;
+
+VI.- Presentar las denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Combate a la Corrupción;
+
+VII.- Implementar los mecanismos internos encaminados a prevenir actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+VIII.- Comprobar el cumplimiento por parte de los órganos administrativos del Tribunal de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingreso, egreso, financiamiento, patrimonio y fondos;
+
+IX.- Realizar una verificación aleatoria sobre las declaraciones patrimoniales de los servidores públicos del Tribunal, en los términos de la Ley General de Responsabilidades Administrativas;
+
+X.- Vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro; contabilidad, contratación y pago de personal; contratación de servicios y recursos materiales del Tribunal;
+
+XI.- Supervisar la ejecución de los procedimientos de contratación pública por parte de los contratantes para garantizar que se lleven a cabo en los términos establecidos por las disposiciones de la materia;
+
+XII.- Intervenir, en el ámbito de su competencia, en el proceso de entrega-recepción de acuerdo con la ley de la materia, y
+
+XIII.- Las demás que confieran otros ordenamientos.
+
+## TITULO NOVENO. DERECHO PROCESAL DEL TRABAJO
+
+### CAPITULO I. PRINCIPIOS PROCESALES
 
 ###### Artículo 169.
 
@@ -2163,7 +2579,7 @@ El proceso laboral será público, gratuito, inmediato, predominantemente oral y
 
 ###### Artículo 170.
 
-En atención al principio procesal que reconoce el derecho a asistencia jurídica, se instituye el cargo de Procurador de la Defensa de los Trabajadores al Servicio del Estado, el que dependerá del Tribunal.
+(DEROGADO, P.O. 23 DE ENERO DE 2021)
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -2181,7 +2597,9 @@ El Tribunal ordenará que se corrija cualquier irregularidad u omisión que nota
 
 Las autoridades administrativas y judiciales están obligadas, dentro de la esfera de sus respectivas competencias, a auxiliar al Tribunal; si se negaren a ello, serán responsables en los términos de las leyes aplicables al caso.
 
-### CAPITULO III. DE LA ACTUACION EN EL TRIBUNAL
+### CAPITULO II. DE LA CAPACIDAD Y PERSONALIDAD
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 174.
 
@@ -2229,7 +2647,7 @@ Si se trata de las partes actoras, el nombramiento de representante común deber
 
 La o el representante común tendrá los derechos, obligaciones y responsabilidad inherentes a un mandatario judicial.
 
-### CAPITULO IV. DE LAS NOTIFICACIONES
+### CAPITULO III. DE LA ACTUACION EN EL TRIBUNAL
 
 ###### Artículo 180.
 
@@ -2249,37 +2667,57 @@ Son horas hábiles las comprendidas entre las siete y las diecinueve horas, salv
 
 Las audiencias serán públicas. El Tribunal podrá ordenar, de oficio o a instancia de parte, que sean a puerta cerrada, cuando lo exija el mejor despacho de los negocios, la moral o las buenas costumbres.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+Las audiencias serán presididas por el Magistrado a quien se hubiese turnado el asunto; de incumplirse esta condición las actuaciones respectivas serán nulas de pleno derecho. Al inicio de las audiencias, el Secretario Instructor hará constar oralmente en el registro la fecha, hora y lugar de realización, el nombre de los servidores públicos del Tribunal y de las demás personas que intervendrán.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+El Magistrado Ponente recibirá por sí mismo las declaraciones y presidirá todos los actos de prueba bajo su más estricta y personal responsabilidad; ordenará la práctica de las pruebas, dirigirá el debate, exigirá el cumplimiento de las formalidades que correspondan, moderará la discusión, impedirá que las alegaciones se desvíen hacia aspectos no pertinentes o inadmisibles y podrá limitar el tiempo y número de ocasiones en que intervengan los interesados con base en criterios de equidad y agilidad procesal.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+El Magistrado Ponente determinará el inicio y la conclusión de cada una de las etapas de la audiencia, por lo que se tendrán por precluídos los derechos procesales que debieron ejercerse en cada una de ellas.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+El Magistrado contará con las más amplias facultades disciplinarias para mantener el orden durante el debate y durante las audiencias, para lo cual podrá ejercer el poder de mando de la fuerza pública e imponer indistintamente las correcciones disciplinarias previstas en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 184.
 
-Las actuaciones procesales serán autorizadas única y exclusivamente por la o el Secretario General de Acuerdos, excepción hecha de las diligencias encomendadas a otros funcionarios; lo actuado en las diligencias se hará constar en actas, las que deberán ser firmadas por las personas que en ella intervinieron, quieran y sepan hacerlo. De las actas de las audiencias se entregará copia autógrafa a cada una de las partes al concluir la diligencia.
-
-Las faltas temporales del Secretario General de Acuerdos, serán suplidas por el funcionario que designe el pleno.
+Las actuaciones procesales serán autorizadas por el Magistrado Ponente, con la firma del Secretario Instructor y el Secretario General de Acuerdos, excepción hecha de las diligencias encomendadas a otros funcionarios; lo actuado en las diligencias se hará constar en actas, las que deberán ser firmadas por las personas que en ella intervinieron, quieran y sepan hacerlo. De las actas de las audiencias se entregará copia autógrafa a cada una de las partes al concluir la diligencia.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
+Las faltas temporales del Secretario General de Acuerdos, serán suplidas por el funcionario que designe el pleno.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
 ###### Artículo 185.
 
-El Tribunal sancionará las faltas de respeto que se le cometan, ya sea por escrito o en cualquiera forma. Las sanciones consistirán en amonestación, multa que no podrá exceder de quince veces el salario mínimo general vigente al momento en que se cometa la violación y expulsión del local del Tribunal; la persona que se resista a cumplir la orden, será desalojada del local con el auxilio de la fuerza pública y se impondrán por la o el Magistrado Presidente, mediante acuerdo fundado y motivado en términos de la Constitución Política de los Estados Unidos Mexicanos.
+El Tribunal sancionará las faltas de respeto que se le cometan, ya sea por escrito o en cualquiera forma. Las sanciones consistirán en amonestación, multa que no podrá exceder de quince veces la Unidad de Medida y Actualización vigente al momento en que se cometa la violación y expulsión del local del Tribunal; la persona que se resista a cumplir la orden, será desalojada del local con el auxilio de la fuerza pública y se impondrán por la o el Magistrado Presidente, o bien, por la o el Magistrado Ponente, mediante acuerdo fundado y motivado en términos de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 186.
 
-La o el Presidente del Tribunal, podrá emplear, conjunta e indistintamente, cualquiera de los medios de apremio necesarios, para hacer concurrir a las audiencias a las personas cuya presencia sea indispensable o para asegurar el cumplimiento de sus resoluciones. Tales medidas se impondrán de plano, sin substanciación alguna.
+Las y los Magistrados podrán emplear, conjunta e indistintamente, cualquiera de los medios de apremio necesarios, para hacer concurrir a las audiencias a las personas cuya presencia sea indispensable o para asegurar el cumplimiento de sus resoluciones. Tales medidas se impondrán de plano, sin substanciación alguna.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 23 DE ENERO DE 2021)</small>
 
 Los medios de apremio que pueden emplearse son:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
 
-I.- Multa hasta quince veces el salario mínimo general, vigente en el tiempo en que se cometió la infracción;
+I.- Multa hasta quince veces la Unidad de Medida y Actualización;
 
 II.- Presentación de la persona con auxilio de la fuerza pública; y
 
 III.- Arresto hasta por treinta y seis horas.
 
-### CAPITULO V. DE LOS INCIDENTES
+### CAPITULO IV. DE LAS NOTIFICACIONES
 
 ###### Artículo 187.
 
@@ -2301,7 +2739,9 @@ V.- El auto que cite a absolver posiciones;
 
 VI.- La resolución que deban conocer los terceros extraños al juicio;
 
-VII.- El laudo;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
+
+VII.- La sentencia;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -2371,7 +2811,7 @@ Las notificaciones hechas al apoderado o a las personas expresamente autorizadas
 
 Son nulas las notificaciones que no se practiquen de conformidad a lo dispuesto en este capítulo.
 
-### CAPITULO VI. DE LAS PRUEBAS
+### CAPITULO V. DE LOS INCIDENTES
 
 ###### Artículo 196.
 
@@ -2481,13 +2921,13 @@ Las excusas se calificarán de plano y en su tramitación se observarán las nor
 
 I.- Las instruirán y decidirán:
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
-a) La o el Magistrado Presidente del Tribunal, cuando se trate de las o los magistrados representantes;
+a) La o el Magistrado Presidente del Tribunal, cuando se trate de alguno de los otros Magistrados, y
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
-b) La o el Director de Trabajo y Previsión Social, tratándose de la o el Magistrado Presidente del Tribunal;
+b) Los Magistrados, tratándose del Magistrado o Magistrada Presidente;
 
 II.- La excusa se deberá promover por escrito y bajo protesta de decir verdad, ante las autoridades señaladas en la fracción anterior, dentro de las cuarenta y ocho horas siguientes a la en que se tenga conocimiento del impedimento. Al solicitarse se acompañarán las pruebas que la justifiquen;
 
@@ -2495,23 +2935,21 @@ III.- La autoridad que decida sobre la excusa, tan pronto la reciba, resolverá 
 
 IV.- Si la excusa es declarada improcedente, la autoridad competente podrá sancionar, al que se excusó, atendiendo a lo que disponga el reglamento interior del Tribunal.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
 ###### Artículo 206.
 
 Al declararse procedente la excusa, la sustitución se hará de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+I.- Si se trata de alguno de los Magistrados, por la o el Secretario General de Acuerdos, y
 
-I.- Si se trata de la o el Magistrado Presidente, por la o el Secretario General de Acuerdos y de éste por la o el actuario; o
+II.- Si se trata del Secretario General de Acuerdos, por la o el Secretario Instructor de mayor antigüedad.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-II.- Si se trata de las o los magistrados representantes, por sus respectivos suplentes.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 207.
 
-Las y los Magistrados del Tribunal cuidarán, bajo su más estricta responsabilidad, que los juicios que ante ellos se tramiten no queden inactivos, proveyendo lo que conforme a la ley corresponda hasta dictar laudo, salvo disposición en contrario.
+Las y los Magistrados del Tribunal cuidarán, bajo su más estricta responsabilidad, que los juicios que ante ellos se tramiten no queden inactivos, proveyendo lo que conforme a la ley corresponda hasta dictar sentencia, salvo disposición en contrario.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -2529,7 +2967,7 @@ Se tendrá por desistida de la demanda intentada, a toda persona que no haga pro
 
 Cuando se pida que opere la caducidad, el Tribunal citará a las partes a una audiencia, en la que después de oírlas y recibir las pruebas que ofrezcan, que deberán referirse exclusivamente a la procedencia o improcedencia de la caducidad, dictará resolución.
 
-### CAPITULO VII. DE LAS RESOLUCIONES LABORALES
+### CAPITULO VI. DE LAS PRUEBAS
 
 ###### Artículo 210.
 
@@ -2801,9 +3239,7 @@ Se tendrán presuntivamente por ciertos los hechos materia de la prueba, cuando 
 
 Si los documentos o cosas que habrán de inspeccionarse, se encuentran en poder de personas ajenas a la controversia, se aplicarán los medios de apremio que procedan.
 
-### CAPITULO VIII. DE LA REVISION DE LOS ACTOS DE EJECUCIÓN
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+### CAPITULO VII. DE LAS RESOLUCIONES LABORALES
 
 ###### Artículo 232.
 
@@ -2813,21 +3249,29 @@ I.- Acuerdos: si se refieren a simples determinaciones de trámite o cuando deci
 
 II.- Autos incidentales o resoluciones interlocutorias: cuando resuelvan dentro o fuera de un juicio, un incidente; y
 
-III.- Laudos: cuando decidan sobre el fondo del negocio.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
+
+III.- Sentencias: cuando decidan sobre el fondo del negocio.
 
 ###### Artículo 233.
 
 El Tribunal dictará sus resoluciones en el acto en que concluya la diligencia respectiva o dentro de las cuarenta y ocho horas siguientes a aquellas en la que reciba promociones por escrito, salvo disposiciones en contrario de esta ley.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 234.
 
-Las resoluciones deberán ser firmadas por las y los magistrados del Tribunal en compañía de la o el Secretario el día que se dicten.
+Los acuerdos, autos incidentales y resoluciones interlocutorias deberán ser firmados por el Magistrado Ponente, el Secretario Instructor y el Secretario General de Acuerdos, cuando concluya la diligencia respectiva.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+Por lo que se refiere a las sentencias, éstas deberán ser firmadas por los Magistrados del Tribunal en compañía del Secretario General de Acuerdos, el día que se dicten.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 235.
 
-El laudo contendrá:
+La sentencia contendrá:
 
 I.- Lugar y fecha en que se pronuncie;
 
@@ -2843,39 +3287,49 @@ VI.- Las razones legales o de equidad; la jurisprudencia y doctrina que le sirva
 
 VII.- Los puntos resolutivos.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
 ###### Artículo 236.
 
-Los laudos se dictarán a verdad sabida y buena fe guardada, apreciando los hechos en conciencia, sin necesidad de sujetarse a reglas o formulismos sobre estimación de las pruebas, pero expresarán los motivos y fundamentos legales en que se apoyen.
+Las sentencias se dictarán a verdad sabida y buena fe guardada, apreciando los hechos en conciencia, sin necesidad de sujetarse a reglas o formulismos sobre estimación de las pruebas, pero expresarán los motivos y fundamentos legales en que se apoyen.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 237.
 
-Los laudos deben ser claros, precisos y congruentes con la demanda, las aclaraciones, precisiones y ampliaciones a la misma; la contestación y demás pretensiones deducidas en el juicio oportunamente.
+Las sentencias deben ser claras, precisas y congruentes con la demanda, las aclaraciones, precisiones y ampliaciones a la misma; la contestación y demás pretensiones deducidas en el juicio oportunamente.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 238.
 
-En los laudos, cuando se trate de prestaciones económicas, se determinará el salario que sirva de base a la condena, cuantificándose el importe de las prestaciones, se ordenarán las medidas conforme a las cuales deberá cumplirse con la resolución. Sólo por excepción podrá ordenarse que se abra incidente de liquidación; en éste último caso, la parte que obtuvo laudo favorable, al momento de solicitar la apertura del incidente, deberá presentar su planilla de liquidación y pruebas necesarias, con las que se correrá traslado a la parte contraria por el término de tres días hábiles para que dé contestación por escrito, apercibido de que en caso de no hacerlo se le tendrá por conforme, aceptando la cantidad o cantidades señaladas por su contraria, hecho lo anterior, se procederá a resolver el incidente de liquidación respectivo, previo desahogo de las pruebas que así lo requieran.
+En las sentencias, cuando se trate de prestaciones económicas, se determinará el salario que sirva de base a la condena, cuantificándose el importe de las prestaciones, se ordenarán las medidas conforme a las cuales deberá cumplirse con la resolución. Sólo por excepción podrá ordenarse que se abra incidente de liquidación; en éste último caso, la parte que obtuvo sentencia favorable, al momento de solicitar la apertura del incidente, deberá presentar su planilla de liquidación y pruebas necesarias, con las que se correrá traslado a la parte contraria por el término de tres días hábiles para que dé contestación por escrito, apercibido de que en caso de no hacerlo se le tendrá por conforme, aceptando la cantidad o cantidades señaladas por su contraria, hecho lo anterior, se procederá a resolver el incidente de liquidación respectivo, previo desahogo de las pruebas que así lo requieran.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 239.
 
-Cuando la condena sea de cantidad líquida se establecerán en el laudo, sin necesidad de incidente, las bases con arreglo a las cuales deberá cumplimentarse.
+Cuando la condena sea de cantidad líquida se establecerán en la sentencia, sin necesidad de incidente, las bases con arreglo a las cuales deberá cumplimentarse.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 240.
 
-Una vez notificado el laudo cualquiera de las partes, dentro del término de tres días, podrá solicitar del Tribunal su aclaración para corregir errores o precisar algún punto. En un plazo igual el Tribunal resolverá pero por ningún motivo podrá variarse el sentido de la resolución.
+Una vez notificada la sentencia cualquiera de las partes, dentro del término de tres días, podrá solicitar del Tribunal su aclaración para corregir errores o precisar algún punto. En un plazo igual el Tribunal resolverá pero por ningún motivo podrá variarse el sentido de la resolución.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 241.
 
-Las resoluciones del Tribunal no admiten ningún recurso, salvo el de aclaración de laudo previsto en el artículo que antecede; el de revisión y el de reclamación. Las partes pueden exigir la responsabilidad en que incurran las y los Magistrados.
+Las resoluciones del Tribunal no admiten ningún recurso, salvo el de aclaración de sentencia previsto en el artículo que antecede; el de revisión y el de reclamación. Las partes pueden exigir la responsabilidad en que incurran las y los Magistrados.
 
-### CAPITULO IX. PROCEDIMIENTO ORDINARIO
+### CAPITULO VIII. DE LA REVISION DE LOS ACTOS DE EJECUCIÓN
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 242.
 
-Contra actos de la o el Magistrado Presidente, actuarias o actuarios o funcionarias o funcionarios habilitados, en ejecución de laudos, convenios, resoluciones que ponen fin a las tercerías, procede la revisión.
+Contra actos de la o el Magistrado Presidente, actuarias o actuarios o funcionarias o funcionarios habilitados, en ejecución de sentencias, convenios, resoluciones que ponen fin a las tercerías, procede la revisión.
 
 ###### Artículo 243.
 
@@ -2929,17 +3383,21 @@ IV.- El Tribunal citará a una audiencia que deberá celebrarse dentro de los di
 
 De resultar procedente la reclamación, se modificará en lo que proceda la medida de apremio y se aplicará al funcionario responsable la sanción que prevenga el reglamento interior del Tribunal.
 
-El propio Tribunal podrá imponer a la parte que promovió la reclamación, si ésta resulta notoriamente infundada e improcedente, una multa de dos a siete veces el salario mínimo que rija en el tiempo en que se presentó el recurso.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
-### CAPITULO X. PROCEDIMIENTO ESPECIAL
+El propio Tribunal podrá imponer a la parte que promovió la reclamación, si ésta resulta notoriamente infundada e improcedente, una multa de dos a siete veces la Unidad de Medida y Actualización que rija en el tiempo en que se presentó el recurso.
+
+### CAPITULO IX. PROCEDIMIENTO ORDINARIO
 
 ###### Artículo 249.
 
 Las disposiciones de este capítulo rigen la tramitación y resolución de los conflictos individuales y colectivos de naturaleza jurídica que no tengan una tramitación especial en esta ley.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
 ###### Artículo 250.
 
-El procedimiento se iniciará con la presentación del escrito de demanda, ante la oficialía de partes del Tribunal, la que lo turnará a éste el mismo día.
+El procedimiento se iniciará con la presentación del escrito de demanda, ante la oficialía de partes del Tribunal, la que lo turnará al Magistrado Ponente en esa misma fecha.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -2963,19 +3421,31 @@ VI. La fundamentación del derecho y puntos petitorios; y
 
 VII. La firma o rúbrica.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+El actor deberá anexar a la demanda, la constancia expedida por el Centro de Conciliación que acredite la conclusión del procedimiento de conciliación prejudicial sin acuerdo entre las partes, a excepción de los casos en los que no se requiera dicha constancia, según lo establecido en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 252.
 
-Dentro de las veinticuatro horas siguientes a la recepción del escrito inicial de demanda, el Tribunal dictará acuerdo en el que señalará día y hora para la celebración de la audiencia de conciliación, demanda y excepciones, ofrecimiento y admisión de pruebas, que deberá efectuarse dentro de los veinte días hábiles siguientes a la fecha de recepción de la demanda. En el acuerdo ordenará notificar personalmente a las partes, cuando menos con diez días de anticipación a la audiencia.
+Dentro de las veinticuatro horas siguientes a la recepción del escrito inicial de demanda, el Tribunal, por conducto del Magistrado Ponente, dictará acuerdo en el que señalará día y hora para la celebración de la audiencia de demanda y excepciones, ofrecimiento y admisión de pruebas, que deberá efectuarse dentro de los veinte días hábiles siguientes a la fecha de recepción de la demanda. En el acuerdo ordenará notificar personalmente a las partes, cuando menos con diez días de anticipación a la audiencia.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Se entregará a la parte demandada copia cotejada de la demanda, para que en un término de cinco días hábiles conteste por escrito la demanda, apercibiéndolo de que se le tendrá por contestada en sentido afirmativo si una vez transcurrido este plazo no presenta su escrito de contestación, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas, demuestre que la o el actor no era trabajador, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
 En el escrito de contestación opondrá, la o el demandado, sus excepciones y defensas, debiendo referirse a todos y cada uno de los hechos aducidos en la demanda, afirmándolos o negándolos y expresando los que ignore cuando no sean propios, pudiendo agregar las explicaciones que estime convenientes. El silencio y las evasivas harán que se tengan por admitidos aquéllos sobre los que no se suscite controversia y no podrá admitirse prueba en contrario. La negación pura y simple del derecho implica la confesión de los hechos. La confesión de éstos no entraña la aceptación del derecho.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 La excepción de incompetencia no exime a la o el demandado de contestar la demanda y si no lo hiciere y el Tribunal se declara competente, se tendrá por confesada la demanda.
 
-Una vez que se haya recibido el escrito de contestación de demanda, el Tribunal, dictará un acuerdo en el que ordenará dar vista con el mismo, a la parte actora en la audiencia respectiva, a fin de que éste en aptitud de hacer uso de su derecho de réplica.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
+Una vez que se haya recibido el escrito de contestación de demanda, el Magistrado Ponente dictará un acuerdo en el que ordenará dar vista con el mismo, a la parte actora en la audiencia respectiva, a fin de que esté en aptitud de hacer uso de su derecho de réplica.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -2983,37 +3453,23 @@ Una vez que se haya recibido el escrito de contestación de demanda, el Tribunal
 
 Cuando la o el actor sea la o el trabajador o sus beneficiarios, el Tribunal, en caso de que notare alguna irregularidad, vaguedad, u obscuridad en el escrito de demanda, o que estuviere ejercitando acciones contradictorias, previo a la admisión de la demanda y señalamiento del día y hora para la celebración de la audiencia de conciliación, demanda y excepciones, ofrecimiento y admisión de pruebas, en el auto de presentación de la demanda le señalará los defectos y omisiones en que haya incurrido y lo prevendrá para que los subsane dentro de un término de tres días hábiles, con el apercibimiento de que de no hacerlo se tendrá por no interpuesta o bien se le dará tramite con la irregularidad contenida, dependiendo de la naturaleza de la irregularidad.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 254.
 
-La audiencia inicial constará de tres etapas: de conciliación, de demanda y excepciones, así como de ofrecimiento y admisión de pruebas. Se iniciará con la comparecencia de las partes que concurran a la misma. Las partes ausentes podrán intervenir en el momento en que se presenten siempre y cuando no se haya cerrado la etapa con el dictado del acuerdo respectivo.
+La audiencia constará de dos etapas: de demanda y excepciones, así como de ofrecimiento y admisión de pruebas. Se iniciará con la comparecencia de las partes que concurran a la misma. Las partes ausentes podrán intervenir en el momento en que se presenten siempre y cuando no se haya cerrado la etapa con el dictado del acuerdo respectivo.
 
 ###### Artículo 255.
 
-La etapa conciliatoria se desarrollará en la siguiente forma:
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-I.- Las partes comparecerán personalmente a la audiencia o a través de sus apoderadas o apoderados legales que acrediten tener poder suficiente para comparecer en esta etapa;
-
-II.- El Tribunal procurará la conciliación de las partes exhortándolas para que lleguen a un convenio. Si así fuere, el convenio aprobado por el Tribunal producirá todos los efectos inherentes a un laudo. Una vez comprobado en autos su cumplimiento, se dará por terminado el conflicto, ordenándose el archivo del expediente como asunto concluido;
-
-III.- Las partes, de acuerdo entre sí, podrán solicitar se suspenda la audiencia con objeto de conciliarse. El Tribunal, por una sola vez suspenderá y fijará su reanudación dentro de los ocho días siguientes quedando notificadas las partes, con los apercibimientos de ley; y
-
-IV.- Si las partes no llegan a un acuerdo, se les tendrá por inconformes con todo arreglo y se pasará a la etapa de demanda y excepciones;
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-V. Al no concurrir las partes en la etapa de conciliación, se les tendrá por inconformes con todo arreglo y deberán, presentarse personalmente a la etapa de demanda y excepciones.
+(DEROGADO, P.O. 23 DE ENERO DE 2021)
 
 ###### Artículo 256.
 
 La etapa de demanda y excepciones se desarrollará conforme a las normas siguientes:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
 
-I.- El actor expondrá su demanda, ratificándola o modificándola, precisando los puntos petitorios. Si la o el actor, siempre que se trate de la o el trabajador, no hubiera cumplido con los requisitos omitidos o no subsanare las irregularidades que se hubiesen señalado en el acuerdo de presentación de demanda, el Tribunal lo prevendrá para que lo haga en ese momento; si aquél no lo hace, quedará ratificado su escrito inicial de demanda, en esta etapa, se le correrá traslado a parte actora con el escrito de contestación de la demanda presentado dentro del termino establecido, para que produzca su réplica;
+I.- El actor expondrá su demanda, ratificándola o modificándola, precisando los puntos petitorios. Si la o el actor, siempre que se trate de la o el trabajador, no hubiera cumplido con los requisitos omitidos o no subsanare las irregularidades que se hubiesen señalado en el acuerdo de presentación de demanda, el Magistrado Ponente lo prevendrá para que lo haga en ese momento; si aquél no lo hace, quedará ratificado su escrito inicial de demanda, en esta etapa, se le correrá traslado a la parte actora con el escrito de contestación de la demanda presentado dentro del término establecido, para que produzca su réplica;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -3039,11 +3495,11 @@ VII.- Si el demandado reconviene a la o el actor, éste procederá a contestar d
 
 VIII.- Al concluir el periodo de demanda y excepciones, se pasará inmediatamente al de ofrecimiento y admisión de pruebas. Si las partes están de acuerdo con los hechos y la controversia queda reducida a un punto de derecho, se declarará cerrada la instrucción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 257.
 
-La audiencia de conciliación, demanda y excepciones, ofrecimiento y admisión de pruebas, se llevará a cabo aun cuando no concurran las partes.
+La audiencia de demanda y excepciones, ofrecimiento y admisión de pruebas, se llevará a cabo aun cuando no concurran las partes.
 
 Si el actor no comparece al periodo de demanda y excepciones, se tendrá por reproducida en vía de demanda su comparecencia o escrito inicial.
 
@@ -3065,11 +3521,13 @@ III.- Las partes deberán ofrecer sus pruebas observando las disposiciones conte
 
 IV.- Concluido el ofrecimiento, el Tribunal resolverá inmediatamente sobre las pruebas que admita y las que deseche, expresando los motivos y fundamentos de ello, salvo que por su volumen exceda de quince medios probatorios, el Tribunal podrá reservarse respecto a su admisión, misma que deberá ser dictada dentro de las setenta y dos horas siguientes a la fecha de desahogo de la audiencia.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 259.
 
-El Tribunal, en el mismo acuerdo en que admita las pruebas, señalará día y hora para la celebración de las audiencias de desahogo de pruebas, mismas que deberán llevarse a cabo dentro de los diez días hábiles siguientes a su admisión, y ordenará, en su caso, que se giren los oficios necesarios para recabar los informes y copias que deba expedir alguna autoridad o exhibir persona ajena al juicio, con los apercibimientos señalados en esta ley.
+El Magistrado Ponente, en el mismo acuerdo en que admita las pruebas, señalará día y hora para la celebración de las audiencias de desahogo de pruebas, mismas que deberán llevarse a cabo dentro de los diez días hábiles siguientes a su admisión, y ordenará, en su caso, que se giren los oficios necesarios para recabar los informes y copias que deba expedir alguna autoridad o exhibir persona ajena al juicio, con los apercibimientos señalados en esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 El Tribunal procurará concentrar el desahogo de pruebas en el número menor de diligencias posibles y a ese efecto, dictará las medidas necesarias. En beneficio de la concentración podrá ordenar el desahogo de las pruebas que estén debidamente preparadas aunque no guarden el orden en que fueron ofrecidas procurando que en todo caso que se reciban primero las de la o el actor y después las de la o el demandado. El periodo de desahogo no deberá exceder de treinta días, en caso de que por alguna causa ajena al Tribunal se suspenda su desahogo dentro del término a que se refiere el párrafo anterior.
 
@@ -3089,15 +3547,17 @@ III.- Si las pruebas faltantes son únicamente copias o documentos que deban rem
 
 Al concluir el desahogo de pruebas se concederá a las partes la oportunidad de alegar por escrito en un término común de tres días hábiles.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 262.
 
-Una vez rendidos los alegatos o transcurrido el término fijado en el artículo anterior, el Tribunal dictará un acuerdo declarando cerrada la instrucción, pasando los autos a la o el Magistrado correspondiente para que dentro del término de diez días formule el proyecto de laudo.
+Una vez rendidos los alegatos o transcurrido el término fijado en el artículo anterior, el Magistrado Ponente dictará un acuerdo declarando cerrada la instrucción y deberá formular, dentro del término de diez días, el proyecto de sentencia correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 263.
 
-El proyecto de laudo deberá contener:
+El proyecto de sentencia deberá contener:
 
 I.- Un extracto de la demanda, de la contestación, réplica y contrarréplica y en su caso de la reconvención y contestación de la misma;
 
@@ -3109,13 +3569,13 @@ IV.- Las consideraciones que fundadas y motivadas se deriven, en su caso, de lo 
 
 V.- Los puntos resolutivos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 264.
 
-Del proyecto de laudo se entregará una copia a cada uno de las y los magistrados del Tribunal. Dentro de los cinco días siguientes al de haber recibido copia del proyecto, cualquiera de aquellos podrá solicitar que se practiquen las diligencias que no se hubieran llevado a cabo por causas no imputables a las partes, o cualquiera diligencia que juzgue conveniente para el esclarecimiento de la verdad.
+Del proyecto de sentencia se entregará una copia a cada uno de las y los magistrados del Tribunal. Dentro de los cinco días siguientes al de haber recibido copia del proyecto, cualquiera de aquellos podrá solicitar que se practiquen las diligencias que no se hubieran llevado a cabo por causas no imputables a las partes, o cualquiera diligencia que juzgue conveniente para el esclarecimiento de la verdad.
 
-El Tribunal, con citación de las partes, señalará, en su caso, día y hora para el desahogo, dentro de un término de ocho días, de aquéllas pruebas que no se llevaron a cabo para la práctica de las diligencias solicitadas; en este caso, desahogadas las pruebas, se formulará un nuevo proyecto de laudo que contenga la consideración de las mismas.
+El Tribunal, con citación de las partes, señalará, en su caso, día y hora para el desahogo, dentro de un término de ocho días, de aquéllas pruebas que no se llevaron a cabo para la práctica de las diligencias solicitadas; en este caso, desahogadas las pruebas, se formulará un nuevo proyecto de sentencia que contenga la consideración de las mismas.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -3123,13 +3583,15 @@ El Tribunal, con citación de las partes, señalará, en su caso, día y hora pa
 
 Transcurrido el término a que se refiere el artículo anterior, concedido a las o los magistrados del Tribunal, la o el Presidente citará a los demás para la discusión y votación, que deberá efectuarse dentro de los cinco días siguientes al en que haya concluido el término fijado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2021)</small>
+
 ###### Artículo 266.
 
-La discusión y votación del proyecto de laudo se llevará a cabo en sesión privada del Tribunal, de conformidad con las normas siguientes:
+La discusión y votación del proyecto de sentencia se llevará a cabo en sesión privada del Tribunal, de conformidad con las normas siguientes:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
 
-I.- La o el Secretario General de Acuerdos dará lectura al proyecto; en su caso, a los alegatos producidos por las partes;
+I.- El Magistrado Ponente, o un Secretario Instructor, dará lectura al proyecto y, en su caso, a los alegatos producidos por las partes;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -3139,21 +3601,25 @@ II.- La o el Presidente pondrá a discusión el proyecto; y
 
 III.- Terminada la discusión, se procederá a la votación, y la o el Presidente declarará el resultado.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+
+El Secretario General de Acuerdos levantará el acta correspondiente.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 267.
 
-Si el proyecto de resolución fue aprobado, sin adiciones ni modificaciones, se elevará a la categoría de laudo y se firmará de inmediato por las y los magistrados del Tribunal.
+Si el proyecto de resolución fue aprobado, sin adiciones ni modificaciones, se elevará a la categoría de sentencia y se firmará de inmediato por las y los magistrados del Tribunal.
 
-Si al proyecto se le hicieran modificaciones o adiciones se ordenará a la o el Secretario que de inmediato redacte el laudo, de acuerdo con lo aprobado. En este caso, el resultado se hará constar en acta.
+Si al proyecto se le hicieran modificaciones o adiciones se ordenará al Secretario Instructor que de inmediato redacte la sentencia, de acuerdo con lo aprobado. En este caso, el resultado se hará constar en acta.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 268.
 
-Engrosado el laudo, la o el Secretario recogerá, en su caso, las firmas de las y los magistrados del Tribunal que votaron el negocio y, una vez recabadas, turnará el expediente al actuario para que de inmediato notifique personalmente el laudo a las partes.
+Engrosada la sentencia, el Secretario General de Acuerdos recogerá, en su caso, las firmas de las y los magistrados del Tribunal que votaron el negocio y, una vez recabadas, turnará el expediente al actuario para que de inmediato notifique personalmente la sentencia a las partes.
 
-### CAPITULO XI. PROCEDIMIENTO DE HUELGA
+### CAPITULO X. PROCEDIMIENTO ESPECIAL
 
 ###### Artículo 269.
 
@@ -3177,11 +3643,11 @@ V.- Reajustes o implantación de maquinaria o de procedimientos de trabajo nuevo
 
 VI.- Determinación de los beneficiarios de la o el trabajador que hubiere sufrido enfermedad o accidente de trabajo.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 270.
 
-El procedimiento se iniciará con la presentación del escrito de demanda, en el cual la o el actor podrá ofrecer pruebas ante el Tribunal, el cual con diez días de anticipación, citará a una audiencia de conciliación, demanda y excepciones, pruebas y resolución, la que deberá efectuarse dentro de los quince días hábiles siguientes a la fecha en que se haya presentado la demanda o al concluir las investigaciones encaminadas a averiguar las personas que dependían económicamente de la o el trabajador fallecido.
+El procedimiento se iniciará con la presentación del escrito de demanda, en el cual la o el actor podrá ofrecer pruebas ante el Tribunal, el cual con diez días de anticipación, citará a una audiencia de demanda y excepciones, pruebas y resolución, la que deberá efectuarse dentro de los quince días hábiles siguientes a la fecha en que se haya presentado la demanda o al concluir las investigaciones encaminadas a averiguar las personas que dependían económicamente de la o el trabajador fallecido.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -3189,13 +3655,17 @@ El procedimiento se iniciará con la presentación del escrito de demanda, en el
 
 El Tribunal, al citar a la o el demandado, lo apercibirá de que de no concurrir a la audiencia a que se refiere el artículo siguiente, dará por admitidas las peticiones de la parte actora, salvo que sean contrarias a lo dispuesto por la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2021)</small>
+
 ###### Artículo 272.
 
-La audiencia de conciliación, demanda y excepciones, pruebas y resolución, se celebrará de conformidad con las normas siguientes:
+La audiencia de demanda y excepciones, pruebas y resolución, se celebrará de conformidad con las normas siguientes:
 
-I.- El Tribunal procurará avenir a las partes, de conformidad con las fracciones I y II del artículo 255 de esta ley;
+I.- (DEROGADA, P.O. 23 DE ENERO DE 2021)
 
-II.- De no existir arreglo conciliatorio, la parte actora podrá ratificar o modificar su demanda, y en seguida el demandado dará contestación a la demanda;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
+
+II.- La parte actora podrá ratificar o modificar su demanda, y en seguida el demandado dará contestación a la demanda;
 
 III.- Contestada la demanda, la parte actora ofrecerá sus pruebas y en seguida lo podrá hacer el demandado. De inmediato el Tribunal calificará las pruebas y procederá al desahogo respecto de las que admitió; y
 
@@ -3213,7 +3683,7 @@ En todo caso, el Tribunal ordenará se fije un aviso en lugar visible de la enti
 
 En el procedimiento especial se observarán las disposiciones de los capítulos VI y IX de este Título, en lo que sean aplicables.
 
-### CAPITULO XII. PROCEDIMIENTO DE EJECUCION
+### CAPITULO XI. PROCEDIMIENTO DE HUELGA
 
 ###### Artículo 275.
 
@@ -3233,9 +3703,11 @@ III.- El aviso para la suspensión de labores deberá darse, por lo menos, con q
 
 El Tribunal decidirá dentro de un término de cuarenta y ocho horas, computado desde el momento en que se reciba el pliego de peticiones con aviso de huelga, si se cumplieron o no con los requisitos a que se refieren los artículos 131, 136 y 275 de esta ley; si el emplazamiento a huelga es improcedente, se ordenará el archivo previa notificación a las partes; y si es procedente, ordenará, dentro del término de veinticuatro horas, correr traslado con copia de los escritos recibidos y sus anexos a la o el titular de la entidad pública, para que resuelva en el término de diez días a partir de la notificación.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+
 ###### Artículo 277.
 
-Transcurrido el plazo de diez días a que se refiere el artículo anterior y si no se hubiera llegado a una solución del conflicto entre las partes, el Tribunal las citará a una audiencia de conciliación, la cual podrá diferirse a petición de las partes si se encuentran sosteniendo pláticas conciliatorias y podrá ampliarse el término de prehuelga.
+Transcurrido el plazo de diez días a que se refiere el artículo anterior y si no se hubiera llegado a una solución del conflicto entre las partes, el Tribunal las citará a una audiencia de conciliación, en la que podrá intervenir el Centro de Conciliación, la cual podrá diferirse a petición de las partes si se encuentran sosteniendo pláticas conciliatorias y podrá ampliarse el término de prehuelga.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -3255,33 +3727,35 @@ Si la suspensión de labores se lleva a cabo antes del término fijado en el pli
 
 Si el Tribunal resuelve que la huelga es ilegal, se darán por terminadas las relaciones de trabajo con los huelguistas, sin responsabilidad para las o los titulares de las entidades públicas.
 
-### CAPITULO XIII. PROCEDIMIENTOS PARAPROCESALES O VOLUNTARIOS
+### CAPITULO XII. PROCEDIMIENTO DE EJECUCION
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 281.
 
-Las disposiciones de este capítulo rigen la ejecución de los laudos dictados por el Tribunal y de los convenios celebrados ante el mismo.
+Las disposiciones de este capítulo rigen la ejecución de las sentencias dictadas por el Tribunal y de los convenios celebrados ante el mismo.
 
 ###### Artículo 282.
 
 Cuando la sentencia deba ser ejecutada por una autoridad diferente del Tribunal, se le dirigirá exhorto con las inserciones necesarias. La autoridad exhortada no podrá conocer de las excepciones que opongan las partes.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 283.
 
-Los laudos deben ejecutarse una vez que transcurra el plazo para que la parte condenada pueda acudir a la demanda de amparo. La o el Secretario hará la certificación del plazo contado a partir de la notificación personal del laudo. Las partes podrán convenir en las modalidades del cumplimiento.
+Las sentencias deben ejecutarse una vez que transcurra el plazo para que la parte condenada pueda acudir a la demanda de amparo. La o el Secretario General de Acuerdos hará la certificación del plazo contado a partir de la notificación personal de la sentencia. Las partes podrán convenir en las modalidades del cumplimiento.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 284.
 
-Siempre que en ejecución de laudo deba darse una suma de dinero o hacer efectivo un derecho de la o el trabajador, la o el Presidente cuidará que se le entregue personalmente la cantidad que corresponda o que en la misma forma se cumpla la obligación a la que la parte contraria haya sido condenada. En su caso, los laudos podrán cumplirse por exhorto.
+Siempre que en ejecución de sentencia deba darse una suma de dinero o hacer efectivo un derecho de la o el trabajador, la o el Presidente cuidará que se le entregue personalmente la cantidad que corresponda o que en la misma forma se cumpla la obligación a la que la parte contraria haya sido condenada. En su caso, las sentencias podrán cumplirse por exhorto.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 285.
 
-Transcurrido el término señalado en el artículo 283, la o el Presidente, a petición de la parte que obtuvo, dictará auto de requerimiento de pago, apercibiendo a la o el deudor que de no efectuarlo, se le impondrá una multa de hasta quince veces el salario mínimo general vigente en la fecha de la diligencia; de no hacerlo en un nuevo requerimiento, se librará oficio a la Secretaría de Finanzas para que exhiba la cantidad de la condena ante la o el Presidente del Tribunal, quedando autorizada aquélla para deducir dicha cantidad del presupuesto o participación que corresponda a la entidad pública morosa.
+Transcurrido el término señalado en el artículo 283, la o el Presidente, a petición de la parte que obtuvo, dictará auto de requerimiento de pago, apercibiendo a la o el deudor que de no efectuarlo, se le impondrá una multa de hasta quince veces la Unidad de Medida y Actualización vigente; de no hacerlo en un nuevo requerimiento, se librará oficio a la Secretaría de Finanzas de Gobierno del Estado para que exhiba la cantidad de la condena ante la o el Presidente del Tribunal, quedando autorizada aquélla para deducir dicha cantidad del presupuesto o participación que corresponda a la entidad pública morosa.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -3290,6 +3764,8 @@ Transcurrido el término señalado en el artículo 283, la o el Presidente, a pe
 Si la condena consiste además en la reinstalación de la o el trabajador, en la diligencia de requerimiento de pago se procederá a reinstalar a la o el actor, cuidando de que se realice en las mismas condiciones, términos y puesto en que se desempeñaba antes de su separación.
 
 Si la condena consiste en una obligación de hacer, la o el Presidente verificará y solicitará de la parte obligada a dar cumplimiento, las constancias necesarias que acrediten el cumplimiento de la obligación, apercibiendo al obligado que de no hacerlo se informará a su superior jerárquico para que se inicie el procedimiento administrativo que corresponda por el incumplimiento.
+
+### CAPITULO XIII. PROCEDIMIENTOS PARAPROCESALES O VOLUNTARIOS
 
 ###### Artículo 287.
 
@@ -3303,11 +3779,13 @@ En los procedimientos a que se refiere este capítulo, la o el trabajador, sindi
 
 El Tribunal acordará dentro de las veinticuatro horas siguientes sobre lo solicitado y señalará día y hora para llevar a cabo la diligencia y ordenará, en su caso, la citación de las personas cuya declaración se pretende.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 289.
 
-Cuando trabajadoras y trabajadores y titulares de las entidades públicas, lleguen a un convenio o liquidación de una trabajadora o trabajador, fuera de juicio, podrán concurrir ante el Tribunal a ratificarlo, solicitando su aprobación, para cuyo efecto se identificarán a satisfacción de éste.
+Cuando trabajadoras y trabajadores y titulares de las entidades públicas lleguen a un convenio o liquidación de una trabajadora o trabajador, fuera de juicio, podrán concurrir ante el Centro de Conciliación a ratificarlo, solicitando su aprobación, para cuyo efecto se identificarán a satisfacción de la Autoridad Conciliadora.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 En los convenios en que se dé por terminada la relación de trabajo, deberán desglosarse las cantidades que se entreguen a la o el trabajador por cada concepto.
 
@@ -3482,3 +3960,19 @@ Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal 
 Artículo Tercero. Las dependencias del Poder Ejecutivo del Estado, los Ayuntamientos, los Organismos Autónomos y los demás Entes Públicos a los que este Decreto les señala alguna atribución u obligación, deberán armonizar su normatividad interna en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
 
 Artículo Cuarto. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 23 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 613.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día 27 de enero de 2021 previa publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. El Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas deberá comenzar sus funciones el 27 de enero de 2021. Hasta en tanto inicia sus operaciones, el Tribunal de Conciliación y Arbitraje del Estado de Zacatecas continuará atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo, los servidores y las Entidades Públicas y sobre el registro de contratos colectivos de trabajo, organizaciones sindicales y condiciones generales de trabajo, de conformidad con la competencia que les señalan las leyes aplicables.
+
+Artículo Tercero. De acuerdo con lo señalado en el artículo séptimo transitorio del Decreto No. 385 por el que se reforman diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Zacatecas, el Poder Ejecutivo del Estado transferirá los recursos humanos, financieros y materiales con los que cuenta actualmente el Tribunal de Conciliación y Arbitraje del Estado de Zacatecas o, en su caso, los que se aprueben en el Presupuesto de Egresos del Estado para el ejercicio fiscal 2021, al Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas.
+
+El proceso de entrega recepción se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado de Zacatecas y demás leyes aplicables. Los servidores públicos que a la entrada en vigor del presente Decreto formen parte del Tribunal de Conciliación y Arbitraje del Estado de Zacatecas, conservarán sus derechos laborales y de seguridad social.
+
+Artículo Cuarto. En un término de 60 días a partir de la publicación del presente Decreto, los Entes Públicos relacionados con su aplicación deberán expedir los reglamentos necesarios para su aplicación o, en su caso, realizar las modificaciones que sean necesarias a la normatividad vigente para dar cumplimiento al presente Decreto.
+
+Artículo Quinto. Los expedientes radicados en el Tribunal de Conciliación y Arbitraje del Estado de Zacatecas serán transferidos al Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas una vez que entre en funciones, para que éste último continúe con el desahogo de los mismos hasta su resolución final conforme a las disposiciones vigentes al momento de su inicio.
