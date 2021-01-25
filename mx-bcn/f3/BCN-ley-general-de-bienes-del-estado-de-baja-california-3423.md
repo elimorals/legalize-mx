@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-bienes-del-estado-de-baja-california-3423"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-07-31"
-last_updated: "2020-11-06"
+last_updated: "2021-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2021.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de julio de 1973.
 
@@ -95,11 +95,11 @@ Los bienes de dominio privado del Estado, estarán sometidos en todo lo no previ
 
 Los Tribunales del Estado tendrán competencia exclusiva para conocer de juicios así como de procedimientos judiciales no contenciosos que se relacionen con bienes del Estado, sean de dominio público o de dominio privado del mismo.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 8o.
 
-Compete a la Oficialía Mayor de Gobierno, la representación jurídica del Ejecutivo del Estado en toda clase de negocios judiciales o administrativos, del orden común o federal, relacionados con la aplicación de esta Ley o los bienes del Estado.
+Compete a la Secretaria General de Gobierno, la representación jurídica del Ejecutivo del Estado en toda clase de negocios judiciales o administrativos, del orden común o federal. La Secretaria General de Gobierno en los asuntos relacionados con la aplicación de esta Ley o los bienes del Estado coordinará y ejecutará las acciones jurídicas que se realicen para el cumplimiento de la presente Ley.
 
 ### CAPITULO II
 
@@ -125,9 +125,9 @@ I.- Vigilar, administrar y controlar el correcto uso y aprovechamiento de los bi
 
 II.- Dictar las reglas o normas para la vigilancia, aprovechamiento y preservación de los bienes del Estado;
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
 
-III.- Otorgar concesiones y, en su caso, permisos o autorizaciones para la explotación, uso y aprovechamiento de los bienes sujetos al régimen de dominio público;
+III.- Otorgar concesiones y, en su caso, permisos o autorizaciones para la explotación, uso y aprovechamiento de los bienes o servicios sujetos al régimen de dominio público;
 
 > <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
 
@@ -319,9 +319,13 @@ VII- Los inmuebles que constituyan el patrimonio de las entidades paraestatales 
 
 VIII.- Los inmuebles que se destinen al servicio de los organismos a los que la Constitución Política del Estado Libre y Soberano de Baja California y las leyes que de ésta emanen, otorguen autonomía.
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2021)</small>
 
-IX.- Cualesquiera otros adquiridos mediante expropiación destinados exclusivamente para un servicio público.
+IX.- Los bienes inmuebles que se construyan o se hayan construido para la prestación de un servicio que preste el Estado, bajo cualquier modalidad previsto (sic) por la ley.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE ENERO DE 2021)</small>
+
+X.- Cualesquiera otros adquiridos mediante expropiación destinados exclusivamente para un servicio público.
 
 ###### ARTICULO 22.
 
@@ -563,17 +567,39 @@ La Oficialía Mayor de Gobierno podrá otorgar bienes muebles en comodato a enti
 
 ### CAPITULO V. DE LAS CONCESIONES
 
-> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 50.
 
-Podrá otorgarse a los particulares el derecho de uso, aprovechamiento o explotación sobre bienes sujetos al régimen de dominio público del Estado, mediante concesión, de acuerdo con las reglas y condiciones que dispone la presente Ley y su Reglamento.
+Podrá otorgarse a los particulares el derecho de uso, aprovechamiento o explotación sobre bienes sujetos al régimen de dominio público del Estado o bienes destinados a un servicio público, mediante concesión que otorgue el Ejecutivo en los términos de (sic) presente Ley su Reglamento, o reglamentación especial que al efecto emita.
 
-En el otorgamiento de permisos y autorizaciones establecidos en la presente Ley, se estará a las disposiciones que prevea el Reglamento.
+Los permisos, autorizaciones o concesiones establecidos en la presente Ley podrán otorgarse mediante:
+
+I.- Licitación Pública;
+
+II.- Por invitación;
+
+III.- Excepción, y
+
+IV.- Adjudicación directa.
 
 Las concesiones solo podrán otorgarse a personas de nacionalidad mexicana.
 
-Tanto las concesiones como sus prórrogas serán otorgadas por conducto de la Oficialía Mayor de Gobierno previo dictamen de justificación que ésta emita, el cual deberá ser validado por la Dirección de Control y Evaluación Gubernamental, la Secretaría de Planeación y Finanzas y la Secretaría General de Gobierno.
+Tanto las concesiones como sus prórrogas serán otorgadas por el Ejecutivo del Estado previo dictamen de justificación que emita la Comisión Especial de Concesiones que presidirá el Secretario General de Gobierno y que estará integrada por:
+
+A. La persona titular de la Secretaría de Economía Sustentable y Turismo.
+
+B. La persona titular de la Secretaría de Infraestructura, Desarrollo Territorial y Urbano.
+
+C. La persona titular de la Secretaría cabeza de sector de la entidad solicitante, y
+
+D. La persona titular de la Secretaría, dependencia o entidad solicitante.
+
+En el otorgamiento de concesiones para la prestación de un servicio público, en la que se contemple la construcción, operación, mantenimiento o explotación de bienes destinados a un servicio público, que no requiera la erogación de recursos públicos, se podrá dispensar de la licitación pública respectiva y llevarse a cabo la adjudicación directa, previo acuerdo de excepción emitido por la Comisión Especial de Concesiones.
+
+Cuando la entidad solicitante sea uno de los integrantes permanentes de la Comisión Especial de Concesiones previstos en las fracciones I, II y III del presente artículo, para los efectos de votación se le considerara, solo como la persona titular de la Secretaría, dependencia o entidad solicitante.
+
+Las decisiones que emita la Comisión Especial de Concesiones se tomaran por mayoría de votos, en caso de empate el presidente tendrá voto de calidad.
 
 > <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
 
@@ -693,19 +719,33 @@ VIII.- Las demás previstas en esta Ley, en sus reglamentos o en el título de c
 
 En los títulos de concesión se podrán establecer las sanciones económicas a las que se harán acreedores los concesionarios, para cuya aplicación se tomará en cuenta el lucro obtenido, los daños causados o el monto de los derechos omitidos. En el caso de la fracción IV de este precepto, se atenderá a lo dispuesto por el siguiente artículo.
 
-> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 58.
 
-La Oficialía Mayor podrá autorizar a los concesionarios para:
+El Ejecutivo del Estado por conducto de la Comisión Especial de Concesiones podrá autorizar a los concesionarios para:
+
+> <small>(ADICIONADA, P.O. 7 DE ENERO DE 2011)</small>
 
 I.- Dar en arrendamiento o comodato fracciones de los inmuebles concesionados, siempre que tales fracciones se vayan a utilizar en las actividades relacionadas directamente con las que son materia de las propias concesiones, en cuyo caso el arrendatario o comodatario será responsable solidario. En este caso, el concesionario mantendrá todas las obligaciones derivadas de la concesión, y
 
+> <small>(ADICIONADA, P.O. 7 DE ENERO DE 2011)</small>
+
 II.- Ceder los derechos y obligaciones derivados de las concesiones, siempre que el cesionario reúna los mismos requisitos y condiciones que se hubieren tomado en cuenta para su otorgamiento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2021)</small>
+
+III.- Ceder, afectar en fideicomiso y/o dar en garantía a favor de terceros los derechos de cobro que deriven de los títulos de concesión otorgados.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE ENERO DE 2021)</small>
 
 La autorización a que se refiere este artículo deberá obtenerse por el concesionario, previamente a la realización de los actos jurídicos a que se refieren las fracciones anteriores.
 
-Cualquier operación que se realice en contravención de este artículo será nula y la Oficialía Mayor podrá hacer efectivas las sanciones económicas previstas en la concesión y revocar la misma.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2021)</small>
+
+Cualquier operación que se realice en contravención de este artículo será nula y el Ejecutivo del Estado podrá hacer efectivas las sanciones económicas previstas en la concesión y revocar la misma.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
 
 Para aplicar las sanciones económicas a que se hagan acreedores los concesionarios por permitir, sin la autorización respectiva, que un tercero use, aproveche o explote inmuebles sujetos al régimen de dominio público del Estado, se deberán tomar en consideración las cantidades que aquellos hayan obtenido como contraprestación, las cuales serán consideradas crédito fiscal.
 
@@ -1012,3 +1052,11 @@ P.O. 6 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 135 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 10, 16, 33, 37 Y 40 DE LA LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 198 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 8, 10, 21, 50 Y 58 DE LA LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado de Baja California.
+
+SEGUNDO. El Ejecutivo del Estado dentro del término de sesenta días naturales contados a partir de la entrada en vigor del presente decreto emitirá y en su caso armonizará la reglamentación especial sobre concesiones y demás disposiciones secundarias pertinentes.
