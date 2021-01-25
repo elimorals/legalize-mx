@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2021-01-22"
+last_updated: "2021-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2021.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -3175,7 +3175,7 @@ II. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de
 
 ### CAPÍTULO I. DELITOS COMETIDOS POR LOS SERVIDORES PÚBLICOS
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE ENERO DE 2021)</small>
 
 ###### Artículo 253.
 
@@ -3319,7 +3319,11 @@ XXV. Permitir, fuera de los casos previstos por la ley, la salida temporal de la
 
 XXVI. No ordenar la libertad de un imputado, decretando su vinculación a proceso, cuando sea acusado por delito o modalidad que tenga señalada pena no privativa de libertad o alternativa;
 
-XXVII. Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una carpeta de investigación o en un proceso penal y que por disposición de la ley o resolución de la autoridad judicial, sean reservados o confidenciales;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
+
+XXVII. Dar a conocer a quien no tenga derecho, documentos, constancias, información, fotografías, videos o audios que obren en una carpeta de investigación, en un proceso penal o sujetos a cadena de custodia y que por disposición de la ley o resolución de la autoridad judicial, sean reservados o confidenciales.
+
+Si las imágenes, audios o videos son de cuerpos humanos deformados o mutilados correspondientes a una mujer o a menores de edad, se incrementará la sanción en una tercera parte.
 
 XXVIII. Retener al imputado sin cumplir con los requisitos que establece la Constitución y las leyes respectivas;
 
@@ -4312,3 +4316,9 @@ P.O. 22 DE ENERO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 375.- ARTÍCULO PRIMERO.- SE REFORMA EL ARTÍCULO 260 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN.- ARTÍCULO SEGUNDO.- SE ADICIONA EL ARTÍCULO 57 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
