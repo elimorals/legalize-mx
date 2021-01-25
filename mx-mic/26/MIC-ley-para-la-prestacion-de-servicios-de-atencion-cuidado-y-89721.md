@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-prestacion-de-servicios-de-atencion-cuidado-y-89721
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-04"
-last_updated: "2020-12-04"
+last_updated: "2021-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:25 DE ENERO DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el jueves 4 de octubre de 2012.
 
@@ -83,6 +83,10 @@ II. Consejo: Consejo Estatal para la Prestación de servicios de Atención, Cuid
 
 III. Desarrollo Integral Infantil: Es el derecho que tienen niñas y niños a formarse física, mental, emocional y socialmente en condiciones de igualdad;
 
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+
+III Bis. Estimulación temprana: Desarrollar las funciones cognitivas, físicas y emocionales de las niñas y los niños menores a los tres años de edad, mediante actividades que estimulen y favorezcan su desarrollo integral;
+
 IV. Ley: Ley para la Prestación de servicios de Atención, Cuidado y Desarrollo Integral Infantil en el Estado de Michoacán;
 
 V. Medidas Cautelares: Aquéllas que con motivo de la prestación de los servicios de atención, cuidado y desarrollo integral infantil emitan las autoridades competentes, de conformidad con la presente Ley, para salvaguardar y proteger la vida y la integridad de niñas y niños;
@@ -125,6 +129,10 @@ III. A la atención y promoción de la salud;
 
 IV. A recibir la alimentación que les permita tener una nutrición adecuada;
 
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+
+IV Bis. A recibir estimulación temprana;
+
 V. A recibir orientación y educación apropiada a su edad, enfocadas a lograr el desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos;
 
 VI. Al descanso, al juego y al esparcimiento;
@@ -156,6 +164,10 @@ VI. Fomento a la comprensión y ejercicio de los derechos de niñas y niños;
 VII. Descanso, esparcimiento, juego y actividades recreativas propias de su edad;
 
 VIII. Apoyo al desarrollo biológico, cognoscitivo, psicomotriz, y socio-afectivo;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+
+VIII Bis. Estimulación temprana;
 
 IX. Enseñanza del lenguaje y comunicación incluyendo, en su caso, lenguas indígenas, sistema braille o señas; y,
 
@@ -202,6 +214,10 @@ II. Promover el acceso de niñas y niños con discapacidad, que se encuentren en
 III. Definir criterios estandarizados de calidad y seguridad;
 
 IV. Contribuir al mejoramiento progresivo y al fortalecimiento de los servicios para la atención, cuidado y desarrollo integral infantil;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+
+IV Bis. Garantizar el derecho a la estimulación temprana;
 
 V. Promover pautas de convivencia familiar y comunitaria fundadas en el respeto, protección y ejercicio de los derechos de niñas y niños;
 
@@ -936,3 +952,9 @@ P.O. 4 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
+
+P.O. 25 DE ENERO DE 2021.
+
+[N. DE E TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 379.- PRIMERO.- SE REFORMA LA FRACCIÓN XXIII Y SE ADICIONAN LAS FRACCIONES XXIII BIS Y XXIII TER AL ARTÍCULO 6°, ASÍ COMO, SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 23, DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO.- SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 8, LA FRACCIÓN IV BIS AL ARTÍCULO 11, LA FRACCIÓN VIII BIS AL ARTÍCULO 12 Y LA FRACCIÓN IV BIS AL ARTÍCULO 19, DE LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN.- TERCERO.- SE ADICIONAN LAS FRACCIONES IX BIS Y XVI BIS AL ARTÍCULO 5, LA FRACCIÓN XII BIS AL ARTÍCULO 7, LA FRACCIÓN XVIII BIS AL ARTÍCULO 10, UN PÁRRAFO QUINTO AL ARTÍCULO 11 Y LA FRACCIÓN XVIII BIS AL ARTÍCULO 38, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán, de Ocampo.
