@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2019-08-28"
+last_updated: "2021-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2021.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -109,6 +109,10 @@ VIII. Constitución Estatal: Constitución Política del Estado Libre y Soberano
 
 IX. Convención: Convención Sobre los Derechos del Niño;
 
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+
+IX Bis. Estimulación temprana: Desarrollar las funciones cognitivas, físicas y emocionales de las niñas y niños menores a los tres años de edad, mediante actividades que estimulen y favorezcan su desarrollo integral;
+
 X. Familia de Origen: Aquélla compuesta por titulares de la patria potestad o tutela, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
 
 XI. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
@@ -122,6 +126,10 @@ XIV. Informe de Adoptabilidad: El documento expedido por el Sistema Estatal para
 XV. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
 XVI. Órgano Jurisdiccional: Los juzgados o tribunales del Estado de Michoacán;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+
+XVI Bis. Primera Infancia: Es el periodo que va del nacimiento a los ocho años de edad, y que constituye una etapa de desarrollo crítico y excepcional por la influencia del entorno, la cultura y los procesos educativos y formativos en la niñez; en este periodo se debe favorecer el desarrollo integral de la niña y el niño con base en sus derechos y necesidades físicas, sociales, emocionales y cognitivas para formar los cimientos de su aprendizaje y bienestar;
 
 XVII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Michoacán;
 
@@ -181,6 +189,10 @@ XI. La autonomía progresiva;
 
 XII. El principio pro persona;
 
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+
+XII Bis. La Primera Infancia;
+
 XIII. El acceso a una vida libre de violencia; y,
 
 XIV. La accesibilidad.
@@ -237,6 +249,10 @@ XVII. Derecho a la intimidad;
 
 XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+
+XVIII Bis. Derecho a la estimulación temprana, así como a los cuidados emocionales, físicos y cognitivos, durante la primera infancia;
+
 XIX. Derechos de niñas, niños y adolescentes migrantes; y,
 
 XX. Derecho al acceso a las tecnologías de información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones.
@@ -254,6 +270,10 @@ Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo n
 Quienes ejerzan la patria potestad, tutela, guarda y custodia tienen la obligación de preservar y exigir el cumplimiento de estos derechos.
 
 Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo de niñas, niños y adolescentes y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2021)</small>
+
+Recibir atención durante la primera infancia, cubriendo todas sus necesidades desde su desarrollo cognitivo, físico y prenatal, asimismo garantizar un acceso a los padres en el cuidado prenatal y durante el nacimiento.
 
 ### CAPÍTULO III. DERECHO DE PRIORIDAD
 
@@ -631,6 +651,10 @@ XVII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que a
 
 XVIII. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
 
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+
+XVIII Bis. Establecer mecanismos para garantizar el derecho de la primera infancia y la estimulación temprana;
+
 XIX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación; y,
 
 XX. Establecer medidas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal.
@@ -959,9 +983,11 @@ Llegado el momento en que el menor sea incorporado a la sociedad sus datos perso
 
 ### CAPÍTULO XXI. DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN, ASÍ COMO A LOS SERVICIOS DE RADIODIFUSIÓN Y TELECOMUNICACIONES
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2021)</small>
+
 ###### Artículo 56.
 
-Niñas, Niños y Adolescentes tienen derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, para ello, las autoridades del Estado darán todas las facilidades a efecto de coordinarse con la Secretaría de Comunicaciones y Transportes, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
+Niñas, Niños y Adolescentes tienen derecho de acceso universal a las tecnologías de la información y comunicación, acorde a los fines establecidos en el artículo tercero de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet, como medio efectivo para ejercer sus derechos a la información, comunicación, libertad de expresión y asociación, educación, salud, cultura, sano esparcimiento, identidad, igualdad, no discriminación, y todos aquellos que contribuyan a su desarrollo integral, de conformidad con los principios de interdependencia, universalidad, indivisibilidad, progresividad, no regresividad e interés superior del menor, en términos de las disposiciones constitucionales y convencionales aplicables, y bajo un enfoque de derechos humanos, género, inclusión, interculturalidad, interseccionalidad y niñez. Para ello, las autoridades del Estado darán todas las facilidades a efecto de coordinarse con la Secretaría de Comunicaciones y Transportes en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión; asimismo, establecerán mecanismos compatibles con los más altos estándares tutelares del derecho internacional de los derechos humanos, para prevenir razonablemente los riesgos que su uso pudiera implicar en el desarrollo integral del menor y garantizar su uso responsable y seguro.
 
 ### CAPÍTULO XXII. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA, GUARDA O CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
@@ -1774,3 +1800,17 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO DÉCIMO QUINTO.- SE REFORMA LA FRACCIÓN II DEL APARTADO B DEL ARTÍCULO 81 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE ENERO DE 2021.
+
+> <small>[N. DE E. TRANSTTORTO DEL DECRETO LEGISLATIVO NÚMERO 379 “POR SE ADICIONAN LAS FRACCIONES IX BIS Y XVI BFA AL ARTÍCULO 5, LA FRACCIÓN XII BIS AL ARTÍCULO 7, LA FRACCIÓN XVIII BIS AL ARTÍCULO 10, UN PÁRRAFO QUINTO AL AITÍCULO 11 Y LA FRACCIÓN XVIII BIS AL ARTÍCULO 38; DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]</small>
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán, de Ocampo (sic).
+
+P.O. 25 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 380.- SE REFORMA EL ARTÍCULO 56 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
