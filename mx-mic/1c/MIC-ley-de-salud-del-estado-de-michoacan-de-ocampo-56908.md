@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2019-08-28"
+last_updated: "2021-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -61,73 +61,117 @@ Para la correcta aplicación de esta Ley se entenderá por:
 
 I. Acciones de Salud: Medidas operativas de los programas específicos de la Secretaría, tendientes a la promoción, prevención y rehabilitación tanto primaria, secundaria y terciaria en beneficio a la Salud de la población;
 
-II. Apiario: El establecimiento donde se realizan las actividades de cría, explotación o mejoramiento genético de abejas;
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
 
-III. Autoridad Sanitaria Competente: El titular de la Secretaría de Salud del Estado o Presidente Municipal en los términos de los acuerdos o convenios que en materia de salud suscriban los ayuntamientos con el Estado;
+II. Alerta epidemiológica: Comunicado de un evento epidemiológico que representa un daño inminente a la salud de la población y/o de trascendencia social, frente al cual es necesario ejecutar acciones de salud inmediata y eficaz, a fin de minimizar o contener su ocurrencia;
 
-IV. Ayuntamientos: Los Gobiernos Municipales;
+III. Apiario: El establecimiento donde se realizan las actividades de cría, explotación o mejoramiento genético de abejas;
 
-V. Casa Habitación: Casa o edificio construido de una o varias plantas, destinado para ser habitado;
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
 
-VI. Cementerio: El lugar destinado a la prestación de un servicio público y que comprende la inhumación, exhumación y reinhumación de cadáveres, restos humanos y restos humanos áridos o cremados, en fosas excavadas en el suelo o en las construidas sobre éste;
+IV. Asociación epidemiológica: Situación en que dos o más casos comparten características epidemiológicas de tiempo, lugar y persona;
 
-VII. COEPRIS: La Comisión Estatal para la Protección Contra Riesgos Sanitarios;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
 
-VIII. Control de Vectores: Planificación, organización, implementación y monitoreo de actividades para la modificación y manipulación de factores ambientales o su interacción con el hombre con miras a prevenir o minimizar la propagación de vectores y reducir el contacto entre patógenos, vectores y el ser humano;
+V. Autoridad Sanitaria Competente: El titular de la Secretaría de Salud del Estado y/o Presidente Municipal y/o la COEPRIS, en los términos de los acuerdos o convenios que en materia de salud suscriban los ayuntamientos con el Estado;
 
-IX. Crematorio: La instalación destinada a la incineración de cadáveres y partes corporales de seres humanos;
+VI. Ayuntamientos: Los Gobiernos Municipales;
 
-X. Cripta: El lugar destinado al depósito de cadáveres, cenizas de cadáveres o restos humanos áridos en gavetas o nichos;
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
 
-XI. Desastres Naturales: Estado en el que la población de uno o más municipios del Estado, sufren severos daños por el impacto de un desastre de origen natural, enfrentando la pérdida de sus miembros, infraestructura o entorno, de tal manera que la estructura social se desajusta y se impide el cumplimiento de las actividades esenciales de la sociedad, afectando el funcionamiento de los sistemas de subsistencia;
+VII. Brote: Ocurrencia de dos o más casos asociados epidemiológicamente entre sí. La existencia de un caso único bajo vigilancia en un área donde no existía el padecimiento se considera también un brote;
 
-XII. Establo: El sitio en donde se aloja cualquier clase de ganado destinado a la producción de leche o carne para consumo humano;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
 
-XIII. Etapas del Proceso: El conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, almacenamiento y expendio o suministro al público de productos en los acuerdos a que se refiere la Ley General de Salud;
+VIII. Casa Habitación: Casa o edificios construidos de una o varias plantas, destinado para ser habitado;
 
-XIV. Funeraria: El establecimiento dedicado a la prestación del servicio relativo a venta de féretros, velación, acondicionamiento y traslado de cadáveres de seres humanos a los cementerios o crematorios, pudiendo o no contar con el servicio de embalsamamiento;
+IX. Cementerio: El lugar destinado a la prestación de un servicio público y que comprende la inhumación, exhumación y reinhumación de cadáveres, restos humanos y restos humanos áridos o cremados, en fosas excavadas en el suelo o en las construidas sobre éste;
 
-XV. Granja Avícola: El sitio destinado a la explotación de aves para la producción de carnes y derivados para el consumo humano;
+X. COEPRIS: La Comisión Estatal para la Protección Contra Riesgos Sanitarios;
 
-XVI. Granja Porcícola: El sitio destinado a la cría y engorda de cerdos;
+XI. Control de Vectores: Planificación, organización, implementación y monitoreo de actividades para la modificación y manipulación de factores ambientales o su interacción con el hombre con miras a prevenir o minimizar la propagación de vectores y reducir el contacto entre patógenos, vectores y el ser humano;
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+XII. Crematorio: La instalación destinada a la incineración de cadáveres y partes corporales de seres humanos;
 
-XVII. Grupo Vulnerable: Los que por sus condiciones sociales, económicas, culturales o política, su origen étnico, nacionalidad, género, edad, discapacidad, religión, orientación sexual, o cualquier otra característica, se encuentren imposibilitados o en desventaja histórica, sistemática o estructural, frente al resto de la población, de dotarse por sí de los satisfactores mínimos que cubran sus necesidades básicas, o de acceder al goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales;
+XIII. Cripta: El lugar destinado al depósito de cadáveres, cenizas de cadáveres o restos humanos áridos en gavetas o nichos;
 
-XVIII. Guardería: Establecimiento que durante la jornada laboral de los padres o tutores proporciona atención integral a niños desde los 43 días de nacido hasta los 6 años de edad;
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
 
-XIX. Local: Espacio físico donde se pueden ofrecer bienes y/o servicios, o que puede servir de bodega;
+XIV. Fenómeno Natural: es un evento de cambio que ocurre en la naturaleza de forma dramática, que inciden de manera violenta y negativa en la vida humana, pudiendo ocasionar pérdidas humanas y materiales; y ocasionar brotes, epidemias o pandemias;
 
-XX. Manejo Integral: Las actividades de reducción de riesgos sanitarios consistentes en la separación, reutilización, reciclaje, coprocesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera adecuada para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
 
-XXI. Micropigmentación: Cualquier técnica mediante la cual se incrustan pigmentos en áreas específicas de la piel humana bajo la epidermis y en la capa capilar de la dermis;
+XV. Emergencia epidemiológica: Evento de nueva aparición o reaparición, cuya presencia pone en riesgo la salud de la población, y que por su magnitud requiere de acciones inmediatas;
 
-XXII. Normas Sanitarias: El conjunto de reglas científicas y tecnológicas, emitidas por la Secretaría que establecen los requisitos que deberán satisfacerse en el desarrollo de actividades en materia de salubridad local, con el objeto de unificar principios, criterios, políticas y estrategias;
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
 
-XXIII. Muestra: El número total de unidades de producto provenientes de un lote y que representan las características y condiciones del mismo;
+XVI. Endemia: Presencia constante o la prevalencia habitual de casos de una enfermedad o agente infeccioso en poblaciones humanas dentro de un área geográfica determinada;
 
-XXIV. Municipio: Los municipios del Estado de Michoacán de Ocampo;
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
 
-XXV. Osario Común: El área donde se depositarán los restos áridos de seres humanos cuando no sean reclamados y haya transcurrido el tiempo señalado en esta Ley;
+XVII. Enfermedad infecciosa emergente: Enfermedad provocada por un agente infeccioso recientemente identificado y anteriormente desconocido, capaz de causar problemas de salud pública a nivel local, regional o mundial;
 
-XXVI. Secretaría: La Secretaría de Salud del Estado;
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
 
-XXVII. Secretaría Federal: La Secretaría de Salud de la Administración Pública Federal;
+XVIII. Enfermedad infecciosa reemergente: Reaparición y/o aumento del número de infecciones de una patología ya conocida que, anteriormente, habían sido controladas o tratadas eficazmente;
 
-XXVIII. Sistema: El Sistema Estatal de Salud;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
 
-XXIX. Terreno: Porción de superficie terrestre en la que se puede desplantar una construcción;
+XIX. Epidemia: Aumento inusual del número de casos de una determinada enfermedad en una población específica, en un periodo de tiempo determinado;
 
-XXX. Urgencia Epidemiológica: Daño a la salud originado por la presencia de agentes microbiológicos, químicos o tóxicos, que ocasionan brotes o epidemias, incluyendo las enfermedades reemergentes o exóticas;
+XX. Establo: El sitio en donde se aloja cualquier clase de ganado destinado a la producción de leche o carne para consumo humano;
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 25 DE ENERO DE 2021)</small>
 
-XXXI. Usuario: A toda persona que requiera y obtenga servicios de salud que presten los sectores público, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones que resulten aplicables;
+XXI. Etapas del Proceso: El conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, almacenamiento y expendio o suministro al público de productos en los acuerdos a que se refiere la Ley General de Salud;
 
-XXXII. Vector: Al transportador viviente y transmisor biológico del agente causal de enfermedad, artrópodo que transmite el agente causal de una enfermedad, por picadura, mordedura, o por sus desechos; y,
+XXII. Funeraria: El establecimiento dedicado a la prestación del servicio relativo a venta de féretros, velación, acondicionamiento y traslado de cadáveres de seres humanos a los cementerios o crematorios, pudiendo o no contar con el servicio de embalsamamiento;
 
-XXXIII. Verificadores: Las personas designadas por la autoridad sanitaria competente para realizar diligencias de vigilancia sanitaria, de conformidad con lo dispuesto en la Ley General de Salud, esta Ley y demás disposiciones aplicables.
+XXIII. Granja Avícola: El sitio destinado a la explotación de aves para la producción de carnes y derivados para el consumo humano;
+
+XXIV. Granja Porcícola: El sitio destinado a la cría y engorda de cerdos;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
+
+XXV. Grupo Vulnerable: Los que por sus condiciones sociales, económicas, culturales o psicológicas se encuentren en situación de extrema dificultad para satisfacer sus necesidades básicas;
+
+XXVI. Guardería: Establecimiento que durante la jornada laboral de los padres o tutores proporciona atención integral a niños desde los 43 días de nacido hasta los 6 años de edad;
+
+XXVII. Local: Espacio físico donde se pueden ofrecer bienes y/o servicios, o que puede servir de bodega;
+
+XXVIII. Manejo Integral: Las actividades de reducción de riesgos sanitarios consistentes en la separación, reutilización, reciclaje, coprocesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera adecuada para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+
+XXIX. Micropigmentación: Cualquier técnica mediante la cual se incrustan pigmentos en áreas específicas de la piel humana bajo la epidermis y en la capa capilar de la dermis;
+
+XXX. Normas Sanitarias: El conjunto de reglas científicas y tecnológicas, emitidas por la Secretaría que establecen los requisitos que deberán satisfacerse en el desarrollo de actividades en materia de salubridad local, con el objeto de unificar principios, criterios, políticas y estrategias;
+
+XXXI. Muestra: El número total de unidades de producto provenientes de un lote y que representan las características y condiciones del mismo;
+
+XXXII. Municipio: Los municipios del Estado de Michoacán de Ocampo;
+
+XXXIII. Osario Común: El área donde se depositarán los restos áridos de seres humanos cuando no sean reclamados y haya transcurrido el tiempo señalado en esta Ley;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+
+XXXIV. Pandemia: La propagación mundial de una enfermedad;
+
+XXXV. Secretaría: La Secretaría de Salud del Estado;
+
+XXXVI. Secretaría Federal: La Secretaría de Salud de la Administración Pública Federal;
+
+XXXVII. Sistema: El Sistema Estatal de Salud;
+
+XXXVIII. Terreno: Porción de superficie terrestre en la que se puede desplantar una construcción;
+
+XXXIX. Urgencia Epidemiológica: Daño a la salud originado por la presencia de agentes microbiológicos, químicos o tóxicos, que ocasionan brotes o epidemias, incluyendo las enfermedades reemergentes o exóticas;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE ENERO DE 2021)</small>
+
+XL. Vigilancia epidemiológica: Recolección sistemática, continua, oportuna y confiable de información relevante y necesaria sobre algunas condiciones de salud de la población;
+
+XLI. Vector: Al transportador viviente y transmisor biológico del agente causal de enfermedad, artrópodo que transmite el agente causal de una enfermedad, por picadura, mordedura, o por sus desechos; y,
+
+XLII. Verificadores: Las personas designadas por la autoridad sanitaria competente para realizar diligencias de vigilancia sanitaria, de conformidad con lo dispuesto en la Ley General de Salud, esta Ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 3°.
 
@@ -203,7 +247,9 @@ XI. La prestación de los servicios de prevención y el control de los efectos n
 
 XII. La prestación de los servicios de salud ocupacional y el saneamiento básico;
 
-XIII. La prestación de los servicios de prevención y el control de las enfermedades transmisibles;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
+
+XIII. La prestación de los servicios de prevención, atención y el control de urgencias epidemiológicas, emergencias epidemiológicas, asociación epidemiológica, brote, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, epidemia y pandemia;
 
 XIV. La prestación de los servicios de prevención y control de las enfermedades no transmisibles y de accidentes;
 
@@ -223,13 +269,25 @@ XXI. Los programas y acciones que en materia de salubridad local le competa;
 
 XXII. Elaborar información estadística local y proporcionarla a la autoridad federal competente;
 
-XXIII. Vigilar en la esfera de su competencia, el cumplimiento de la Ley General de Salud y demás disposiciones aplicables; y,
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
+
+XXIII. Vigilar en la esfera de su competencia, el cumplimiento de la Ley General de Salud y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+
+XXIII Bis. La información dirigida a los padres de familia o tutores sobre los cuidados que se deben durante la primera infancia, incluyendo la estimulación temprana;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+
+XXIII Ter. La atención médica a mujeres embarazadas, incluyendo orientación nutricional, la importancia de la lactancia materna y la participación del padre desde la etapa prenatal; y,
 
 XXIV. Las demás que establezca la Ley General de Salud y otras disposiciones aplicables. El ejercicio de la salubridad general se ejercerá a través de los Acuerdos de Coordinación, los que determinarán las bases y modalidades para el ejercicio de las mismas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 7°.
 
-Corresponderá al Gobernador del Estado a través de la Secretaría en materia de salubridad local, la protección contra riesgos sanitarios de las actividades y servicios siguientes:
+Corresponderá al Gobernador del Estado a través de la Secretaría en materia de salubridad local, la protección contra riesgos sanitarios, urgencias epidemiológicas, emergencias epidemiológicas, asociación epidemiológica, brote, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, epidemia y pandemia de las actividades y servicios siguientes:
 
 I. Mercados y centros de abasto;
 
@@ -269,13 +327,17 @@ XVI. Gasolinera;
 
 XVII. Prevención y control de la rabia en animales y seres humanos;
 
-XVIII. De expedición y venta semifija y ambulante de alimentos y bebidas;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
+
+XVIII. De expedición y venta fija, semifija y ambulante de alimentos y bebidas;
 
 XIX. Instalaciones y cooperativas escolares;
 
 XX. Estacionamientos;
 
-XXI. Compra y venta de ropa usada;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
+
+XXI. Compra y venta de ropa;
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
@@ -286,6 +348,10 @@ XXIII. Las demás que determine esta Ley y las disposiciones aplicables.
 ###### ARTÍCULO 8°.
 
 Las atribuciones, organización y competencia de la Secretaría estarán determinadas por esta Ley, la Ley Orgánica de la Administración Pública del Estado, los reglamentos que de ambas dimanen y demás normas de la materia.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2021)</small>
+
+En cuanto a la jurisdicción concurrente entre la Federación y el Estado, las atribuciones, organización de la Secretaría, estarán determinadas por la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Salud y sus Reglamentos, la presente Ley y su Reglamento, y las Normas Oficiales Mexicanas en materia de salud.
 
 ###### ARTÍCULO 9º.
 
@@ -301,9 +367,9 @@ III. Acreditar el nivel de licenciatura y contar con experiencia en Salud Públi
 
 El Secretario de Salud administrará su presupuesto con sujeción en las disposiciones normativas correspondientes y lo destinará al cumplimiento de su objetivo.
 
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2021)</small>
 
-Deberá prever y reservar un fondo de insumos, medicamentos, material de curación y recursos administrativos necesarios, para garantizar la suficiencia para la prevención y atención en desastres naturales y urgencias epidemiológicas, además capacitará a todas las áreas de la Secretaría, sobre la atención y respuesta en situaciones de desastre.
+Deberá prever y reservar un fondo de insumos, medicamentos, material de curación, equipo de protección médica, equipo de atención a pacientes, así como los recursos administrativos necesarios, para garantizar la suficiencia para la prevención, atención y control de asociación epidemiológica, brote, emergencia epidemiológica, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, epidemia y pandemia, ocasionadas por fenómenos naturales; así como la capacitación a las áreas de la Secretaría, sobre la atención y respuesta en situaciones de desastre.
 
 ###### ARTÍCULO 11.
 
@@ -359,7 +425,9 @@ VIII. Formular recomendaciones a las dependencias competentes sobre la asignaci�
 
 IX. Impulsar actividades científicas y tecnológicas en el campo de la salud;
 
-X. Coadyuvar con las dependencias federales competentes a la Protección Contra Riesgos Sanitarios en el área de salud, mediante mecanismos de regulación y control, en los términos de los acuerdos específicos de coordinación que se celebren con la federación al amparo de lo establecido en la Ley General de Salud;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
+
+X. Coadyuvar con las dependencias federales de salud a la prevención y erradicación de Riesgos Sanitarios, alerta epidemiológica, asociación epidemiológica, brote, emergencia y urgencia epidemiológica, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, epidemia y pandemia, mediante mecanismos de regulación y control, en los términos de los acuerdos específicos de coordinación que se celebren con la federación al amparo de lo establecido en la Ley General de Salud;
 
 XI. Promover el establecimiento de un Sistema Estatal de Información Básica en materia de salud;
 
@@ -481,7 +549,9 @@ IX. Las demás atribuciones que sean necesarias para hacer efectivas las faculta
 
 B) EN MATERIA DE SALUBRIDAD LOCAL:
 
-I. Ejercer el control sanitario de los establecimientos y servicios a que se refiere el artículo 7º de esta Ley y verificar su cumplimiento;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
+
+I. Ejercer el control sanitario en vías de comunicación estatales, así como en los establecimientos y servicios a que se refiere el artículo 7º de esta Ley y verificar su cumplimiento;
 
 II. Expedir todo tipo de disposiciones normativas sanitarias que se desprendan de esta Ley;
 
@@ -509,9 +579,17 @@ II. Invertir en infraestructura de salud, de acuerdo con lo dispuesto por el Reg
 
 III. Expedir reglamentos, circulares y disposiciones administrativas relacionados con los servicios de salud que estén a su cargo;
 
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+
+III Bis. Capacitar a través de los sistemas DIF, a los padres de familia o tutores, en materia de los cuidados durante la primera infancia, incluyendo la estimulación temprana;
+
 IV. Formular y desarrollar programas municipales en materia de prevención, de promoción y de atención a la salud, en el marco de los Sistemas Nacional y Estatal de Salud; y,
 
-V. Vigilar y hacer cumplir en la esfera de su competencia, los ordenamientos legales sanitarios correspondientes.
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+
+V. En caso de un fenómeno natural, alerta epidemiológica, asociación epidemiológica, brote, emergencia epidemiológica, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, epidemia y pandemia, observar y coadyuvar en el cumplimiento de las medidas de seguridad sanitarias emitidas por el Gobierno Estatal y/o Federal, o bien las de mayor protección para la población; y,
+
+VI. Vigilar y hacer cumplir en la esfera de su competencia, los ordenamientos legales sanitarios correspondientes.
 
 ###### ARTÍCULO 24.
 
@@ -713,6 +791,8 @@ Ninguna persona que se dedique a la práctica de la medicina tradicional y herbo
 
 ### CAPÍTULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2021)</small>
+
 ### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
 ## TÍTULO TERCERO. SALUBRIDAD LOCAL
@@ -721,15 +801,19 @@ Ninguna persona que se dedique a la práctica de la medicina tradicional y herbo
 
 ###### ARTÍCULO 43.
 
-Corresponde al Gobernador del Estado por conducto de la Secretaría y a los ayuntamientos en el ámbito de su respectiva competencia, la protección contra riesgos sanitarios de la población en materia de salubridad local.
+Corresponde al Gobernador del Estado por conducto de la Secretaría y a los ayuntamientos en el ámbito de su respectiva competencia, la protección contra riesgos sanitarios, brote, emergencia epidemiológica, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, epidemia y pandemia, en materia de salubridad local.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 44.
 
-La Secretaría ejercerá el control sanitario, el cual esta compuesto por el conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones previstas en esta Ley.
+La Secretaría ejercerá el control sanitario, el cual está compuesto por el conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones previstas en esta Ley, cuando exista urgencia y/o emergencia sanitaria, riesgo sanitario, brote, emergencia epidemiológica, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, endemia, epidemia o pandemia.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 45.
 
-El control sanitario será aplicable a los establecimientos, productos, actividades y servicios a que se refiere esta Ley.
+El control será aplicable en las vías de comunicación, a los establecimientos, productos, actividades y servicios a que se refiere esta Ley.
 
 ###### ARTÍCULO 46.
 
@@ -760,6 +844,10 @@ Los mercados y centros de abasto desde el punto de vista de higiene y sanidad, e
 ###### ARTÍCULO 50.
 
 Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones de higiene, sanidad y seguridad indispensable para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetará a lo que establezca esta Ley y demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2021)</small>
+
+En caso de urgencias epidemiológicas, urgencia y/o emergencia sanitaria, riesgo sanitario, brote, emergencia epidemiológica, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, endemia, epidemia o pandemia, vendedores y locatarios deberán acatar obligatoriamente las medidas sanitarias emitidas por las autoridades correspondientes.
 
 ###### ARTÍCULO 51.
 
@@ -838,6 +926,10 @@ VI. El saneamiento básico, control de fauna nociva y fumigación en todos los c
 La Secretaría ejercerá el control sanitario de los cementerios en el Estado, de conformidad con lo establecido en esta Ley.
 
 Tratándose del servicio de criptas deberán reunir las especificaciones técnicas que señale la Secretaría.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2021)</small>
+
+En caso de muertes que deriven de urgencia y/o emergencia sanitaria, riesgo sanitario, brote, emergencia epidemiológica, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, endemia, epidemia, pandemia o enfermedades transmisibles, cuyo riesgo de propagación sea considerado de alto riesgo, por parte de la Secretaría y/o la COEPRIS, en el ámbito de sus competencias, quienes deberán emitir, medidas sanitarias excepcionales de control.
 
 ###### ARTÍCULO 65.
 
@@ -997,13 +1089,19 @@ Para el cumplimiento de su objetivo, la Secretaría a través de la COEPRIS, ten
 
 I. Ejercer la regulación, control, vigilancia y fomento sanitario en todos los lugares donde se manipule o aplique, plaguicidas, sustancias peligrosas o tóxicas;
 
-II. Ejercer las acciones de control, regulación y fomento sanitario correspondientes, para prevenir y reducir los riesgos sanitarios derivados de la exposición de la población a factores químicos, físicos y biológicos incluyendo las sustancias tóxicas o peligrosas;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
+
+II. Ejercer las acciones de control, regulación y fomento sanitario correspondientes, para prevenir y reducir los riesgos sanitarios, asociación epidemiológica, brote, emergencia epidemiológica, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, epidemia y pandemia, derivados de la exposición de la población a factores químicos, físicos y biológicos incluyendo las sustancias tóxicas o peligrosas;
 
 III. Participar en coordinación con las unidades administrativas correspondientes de la Secretaría, en la instrumentación de acciones y prevenciones de control y vigilancia epidemiológica, de las intoxicaciones por plaguicidas, sustancias peligrosas o tóxicas, cuando estos se relacionen con los riesgos sanitarios derivados de los procesos de manipulación, preparación, mezcla y aplicación;
 
-IV. Determinar las medidas de seguridad, preventivas y correctivas en el ámbito de su respectiva competencia;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
 
-V. Aplicar estrategias tendientes a la prevención, evaluación y seguimiento de riesgos sanitarios, en coadyuvancia con otras autoridades competentes; y,
+IV. Determinar las medidas de seguridad, preventivas y correctivas en el ámbito de su respectiva competencia, a través de la vigilancia epidemiológica y de alerta epidemiológica;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
+
+V. Aplicar estrategias tendientes a la prevención, evaluación y seguimiento de riesgos sanitarios, asociación epidemiológica, brote, emergencia epidemiológica, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, epidemia y pandemia en coadyuvancia con otras autoridades competentes; a través de vigilancia epidemiológica y de alerta epidemiológica, de conformidad con la NORMA Oficial Mexicana NOM-017-SSA2-2012; y;
 
 VI. Emitir, prorrogar y revocar las autorizaciones sanitarias en la materia de su respectiva competencia, así como ejercer aquellos actos de autoridad que para la regulación, prevención, control y fomentos sanitarios, se esté establecido o derive de la presente Ley y sus respectivos reglamentos, las Normas Oficiales Mexicanas de la materia y demás disposiciones aplicables.
 
@@ -2075,9 +2173,9 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen de las autoridades competentes, cuando a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2021)</small>
 
-ARTÍCULO 223 BIS. Se entiende por ingreso de la autoridad sanitaria competente al interior de cualquier casa habitación, local o terreno, cuando el personal de las instituciones sanitarias y el verificador, acceden a estos lugares por necesidades técnicas de los programas específicos de salud, prevención y control de enfermedades como el dengue, por desastres naturales y urgencias epidemiológicas, previa declaración pública y emisión de mandato escrito por la autoridad competente, debidamente fundado y motivado, para el cumplimiento de actividades de salud encomendadas a su responsabilidad, para este fin deberán estar debidamente acreditadas por las autoridades competentes en los términos de las respectivas disposiciones legales aplicables, donde se declare la región o regiones amenazadas que queden sujetas durante el tiempo necesario, para los efectos previstos en este artículo.
+ARTÍCULO 223 BIS. Se entiende por ingreso de la autoridad sanitaria competente al interior de cualquier casa habitación, local o terreno, cuando el personal de las instituciones sanitarias y el verificador, acceden a estos lugares por necesidades técnicas de los programas específicos de salud, prevención, atención y control de emergencias epidemiológicas, previa declaración pública y emisión de mandato escrito por la autoridad competente, debidamente fundado y motivado, para el cumplimiento de actividades de salud encomendadas a su responsabilidad, para este fin deberán estar debidamente acreditadas por las autoridades competentes en los términos de las respectivas disposiciones legales aplicables, donde se declare la región o regiones amenazadas que queden sujetas durante el tiempo necesario, para los efectos previstos en este artículo.
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2574,3 +2672,19 @@ P.O. 28 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 25 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 364 POR EL QUE “SE ADICIONAN LAS FRACCIONES II, IV, VII, XIV, XV, XVI, XVII, XVIII, XXI, XXXIV Y XL, RECORRIENDO LAS SUBSECUENTES EN SU ORDEN AL ARTÍCULO 2°, SE REFORMAN LA FRACCIÓN V DEL ARTÍCULO 2°, LA FRACCIÓN XIII DEL ARTÍCULO 6°, ASÍ COMO EL PRIMER PÁRRAFO Y LAS FRACCIONES XVIII Y XXI DEL ARTÍCULO 7°, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 8°, SE REFORMAN, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 10, LA FRACCIÓN X DEL ARTÍCULO 14, LA FRACCIÓN I DEL INCISO B) DEL ARTÍCULO 21, LOS ARTÍCULOS 43, 44 Y 45; SE ADICIONAN LA FRACCIÓN V AL ARTÍCULO 23 RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE, UN SEGUNDO PÁRRAFO AL ARTÍCULO 50, UN TERCER PÁRRAFO AL ARTÍCULO 64, SE REFORMAN LAS FRACCIONES II, IV Y V DEL ARTÍCULO 89 TER, Y EL ARTÍCULO 223 BIS, DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría de Salud tendrá un plazo no mayor de diez días naturales posteriores a la publicación de este Decreto, para expedir el Reglamento de la Comisión Estatal para la Protección de Riesgos Sanitarios y la debida vigilancia epidemiológica y en su caso la emisión de alertas epidemiológicas. Lo anterior de conformidad con el artículo sexto transitorio de la Ley de la Comisión Estatal para la Protección de Riesgos Sanitarios.
+
+TERCERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
+
+P.O. 25 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 379 POR EL QUE “SE REFORMA LA FRACCIÓN XXIII Y SE ADICIONAN LAS FRACCIONES XXIII BIS Y XXIII TER AL ARTÍCULO 6°, ASÍ COMO, SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 23, DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán, de Ocampo.
