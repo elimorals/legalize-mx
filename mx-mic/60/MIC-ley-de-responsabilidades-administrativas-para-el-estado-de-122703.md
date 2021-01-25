@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-administrativas-para-el-estado-de-1227
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2020-07-28"
+last_updated: "2021-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2021.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 18 de julio de 2017.
 
@@ -513,11 +513,23 @@ VI. Supervisar que los Servidores Públicos sujetos a su dirección, cumplan con
 
 VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las normas aplicables;
 
-VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte; y,
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
+
+VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;
 
 IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad.
 
-Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2021)</small>
+
+Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales; y,
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+
+X. No entregue uno de los informes trimestrales relativos a la Cuenta Pública; para efectos de la presente ley, se tendrá por no entregado el informe que carezca de la totalidad de los estados financieros y demás información presupuestaria, programática y contable señalada por la normatividad de fiscalización, rendición de cuentas y contabilidad gubernamental vigente y la información complementaria que determine la Auditoría Superior de Michoacán; de igual forma se tendrá por no entregado el informe que se entregue fuera de los plazos legales.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, P.O. 25 DE ENERO DE 2021.]</small>
+
+La falta de entrega de los informes trimestrales se producirá por no rendirse al Congreso del Estado o en su caso, por la falta de entrega del servidor público responsable a la Secretaría de Finanzas y Administración del Gobierno del Estado o a las tesorerías municipales para su formulación, en los términos del artículo 92 de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán.
 
 ###### Artículo 50.
 
@@ -561,6 +573,10 @@ La restricción prevista en el artículo anterior será aplicable inclusive cuan
 
 Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere la presente Ley o para causar perjuicio a alguna persona o al servicio público; así como cuando realiza por sí o a través de un tercero, alguna de las conductas descritas en el artículo 9 Bis de la Ley por una Vida Libre de Violencia para las Mujeres en el Estado de Michoacán de Ocampo.
 
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2021)</small>
+
+Artículo 57 bis. Al servidor público que incurra en filtrar, revelar o trasmitir audios, videos, fotografías o imágenes a cualquier persona que no tenga derecho a conocer o participar en la investigación administrativa, será responsable de los daños que ello ocasione al Estado o a particulares, con independencia del delito que con ello comete.
+
 ###### Artículo 58.
 
 Incurre en actuación bajo Conflicto de Interés el Servidor Público que intervenga por motivo de su empleo, cargo o comisión en cualquier forma, en la atención, tramitación o resolución de asuntos en los que tenga interés personal o impedimento legal.
@@ -588,6 +604,10 @@ Será responsable de encubrimiento el servidor público que cuando en el ejercic
 ###### Artículo 63.
 
 Cometerá desacato el servidor público que, tratándose de requerimientos o resoluciones de autoridades fiscalizadoras, de control interno, judiciales, electorales o en materia de defensa de los derechos humanos o cualquier otra competente, proporcione información falsa, así como no dé respuesta alguna, retrase deliberadamente y sin justificación la entrega de la información, a pesar de que le hayan sido impuestas medidas de apremio conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2021)</small>
+
+Además, se tendrá por desacato cuando el servidor público responsable no haga entrega de dos o más informes trimestrales o la Cuenta Pública al Congreso, o a los responsables de su formulación, los rinda sin la totalidad de las características señaladas por la ley y la información complementaria que determine la Auditoría Superior de Michoacán o lo haga fuera de los plazos legales.
 
 ###### Artículo 64.
 
@@ -1818,3 +1838,17 @@ P.O. 28 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 375.- ARTÍCULO PRIMERO.- SE REFORMA EL ARTÍCULO 260 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN.- ARTÍCULO SEGUNDO.- SE ADICIONA EL ARTÍCULO 57 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 386.- SE REFORMA LA FRACCIÓN VIII, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IX Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 49; Y, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 63 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
