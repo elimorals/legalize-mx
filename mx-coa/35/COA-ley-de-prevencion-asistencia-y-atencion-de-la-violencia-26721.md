@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prevencion-asistencia-y-atencion-de-la-violencia-26721"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2020-10-20"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de octubre de 2002.
 
@@ -563,7 +563,9 @@ IX. Y las demás que le confieran las leyes.
 
 Corresponde al Instituto Coahuilense de las Mujeres:
 
-I. Coadyuvar en la erradicación de la violencia de género en las personas de las niñas y las mujeres.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+I. Coadyuvar en la prevención y erradicación de la violencia de género en las personas de las niñas y mujeres.
 
 II. Diseñar campañas para la promoción de imágenes plurales, no estereotipadas de género, que garanticen el respeto entre los hombres y mujeres y permitan erradicar la violencia.
 
@@ -1402,3 +1404,9 @@ P.O. 20 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 752.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 22 DE LA LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 830.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 25 DE LA LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
