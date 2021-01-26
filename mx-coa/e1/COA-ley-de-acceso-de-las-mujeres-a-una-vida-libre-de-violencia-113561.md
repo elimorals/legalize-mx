@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2020-11-27"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de marzo de 2016.
 
@@ -67,9 +67,15 @@ V. Proponer medidas para concientizar y sensibilizar a la comunidad, con el prop
 
 VI. Garantizar y vigilar que las autoridades competentes, conforme a los ordenamientos legales aplicables, proporcionen trato digno y atención integral y especializada a las mujeres víctimas de violencia, respetando su intimidad;
 
-VII. Promover el acceso oportuno y eficaz de las mujeres a las medidas de protección y procedimientos legales que salvaguarden los derechos protegidos por esta Ley; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-VIII. Establecer bases de coordinación y cooperación entre las autoridades estatales y municipales, para cumplir con el objeto de esta Ley.
+VII. Brindar servicios reeducativos, especializados y gratuitos dirigidos a las personas agresoras para erradicar las conductas violentas a través de educación que elimine las causas que las generaron;
+
+VIII. Promover el acceso oportuno y eficaz de las mujeres a las medidas de protección y procedimientos legales que salvaguarden los derechos protegidos por esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+IX. Establecer bases de coordinación y cooperación entre las autoridades estatales y municipales, para cumplir con el objeto de esta Ley.
 
 ###### Artículo 3.
 
@@ -361,7 +367,7 @@ h). Realizar o distribuir propaganda política o electoral que calumnie, degrade
 
 i). Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
 
-j). Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+j). Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la pública, con base en estereotipos de género;
 
 k). Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
 
@@ -597,13 +603,23 @@ VI. Efectuar acciones de asistencia social que contribuyan a su pleno desarrollo
 
 VII. Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijos;
 
-VIII. Brindar asesoría y educación sobre la prevención y erradicación de la violencia contra las mujeres, dirigidos a las personas agresoras;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+VIII. Brindar servicios de asesoría y educación a las personas agresoras sobre la prevención y erradicación de la violencia contra las mujeres;
 
 IX. Evitar que la atención que reciba la víctima y el agresor sea proporcionada por la misma persona y en el mismo lugar;
 
-X. Favorecer la separación provisional de la persona agresora con respecto a la víctima, protegiendo primordialmente a las víctimas y sus hijos e hijas; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-XI. Las demás que establezca esta Ley y demás disposiciones aplicables.
+X. Favorecer la separación provisional de la persona agresora con respecto a la víctima, protegiendo primordialmente a las víctimas y sus hijos e hijas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XI. Realizar acciones dirigidas a la prevención y erradicación de la violencia que ejerzan las personas agresoras con la finalidad que elimine las causas que las generaron; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XII. Las demás que establezca (sic) esta Ley y demás disposiciones aplicables.
 
 Podrán beneficiarse de las medidas establecidas en la presente Ley, además de las víctimas, los niños, niñas y adolescentes que se encuentren bajo su patria potestad, guarda o tutela y, en su caso, cualquier otra persona en situación de dependencia de la mujer.
 
@@ -899,7 +915,9 @@ XI. Impulsar la creación de refugios para las víctimas conforme al modelo de a
 
 XII. Promover programas de información a la población en la materia;
 
-XIII. Impulsar programas reeducativos integrales para personas agresoras;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+XIII. Impulsar programas reeducativos integrales y de rehabilitación para personas agresoras;
 
 XIV. Difundir por todos los medios de comunicación el contenido de esta Ley;
 
@@ -1081,9 +1099,21 @@ VII. Proponer anualmente al Ejecutivo Estatal, asigne en el Presupuesto de Egres
 
 VIII. Contribuir a la difusión de la legislación en materia de violencia contra las mujeres;
 
-IX. Convocar a los representantes de organizaciones de la sociedad civil para que se integren al Consejo; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-X. Las demás que le señalen esta Ley y otros ordenamientos aplicables.
+IX. Rendir un informe anual por parte de sus integrantes al Presidente del Consejo acerca del cumplimiento de los objetivos del sistema estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+X. Realizar el seguimiento de las acciones y medidas implementadas para atender los casos de violencia feminicida que se registran durante el año en la entidad;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XI. Convocar a los representantes de organizaciones de la sociedad civil en asuntos de su competencia de conformidad con el artículo 42 de esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XII. Las demás que le señalen esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 45.
 
@@ -1141,7 +1171,9 @@ VI. Promover la educación y asegurar la difusión y promoción de los derechos 
 
 VII. Vigilar que los usos y costumbres de la sociedad no atenten contra los derechos humanos de las mujeres;
 
-VIII. Elaborar y coordinar los programas de educación y reinserción social con perspectiva de género para las personas agresoras de mujeres;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+VIII. Elaborar y coordinar los programas de educación y reinserción social con perspectiva de género y de rehabilitación para las personas agresoras de mujeres;
 
 IX. Realizar campañas de información sobre los instrumentos, mecanismos y acciones afirmativas en el Estado, que tengan como objeto la promoción y respeto a los derechos humanos de las mujeres;
 
@@ -1309,9 +1341,17 @@ e) Recursos erogados en la atención de las víctimas de violencia;
 
 V. Canalizar a las víctimas de violencia a las instituciones que les presten asistencia y protección, con apego a lo establecido en sus reglamentos internos;
 
-VI. Hacer del conocimiento del Ministerio Público, aquellos casos que se presuma que una mujer ha sido víctima de violencia, de acuerdo con las Normas Oficiales Mexicanas aplicables; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-VII. Las demás previstas para el cumplimiento de esta Ley.
+VI. Hacer del conocimiento del Ministerio Público, aquellos casos que se presuma que una mujer ha sido víctima de violencia, de acuerdo con las Normas Oficiales Mexicanas aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+VII. Implementar, con las autoridades competentes, programas para las personas agresoras, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+VIII. Las demás previstas para el cumplimiento de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -1453,7 +1493,9 @@ III. Promover cursos de capacitación a las personas que atienden a víctimas;
 
 IV. Ejecutar las acciones necesarias para el cumplimiento del Programa Estatal;
 
-V. Apoyar la creación de programas de reeducación integral para personas agresoras;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+V. Crear programas de reeducación integral y rehabilitación para personas agresoras;
 
 VI. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres;
 
@@ -1777,9 +1819,17 @@ Las entidades públicas, con la participación que corresponda de los sectores s
 
 El Estado, podrá establecer, en coordinación con los municipios y los sectores social y privado, centros de rehabilitación para personas agresoras, los cuales proporcionarán atención gratuita y especializada.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
 ###### Artículo 85.
 
-Las personas agresores deberán recibir rehabilitación en estos centros, sin perjuicio de las medidas y acciones que deban cumplir, derivadas de mandato de la autoridad competente.
+Las personas agresoras recibirán rehabilitación en estos centros en los términos del mandato de la autoridad competente, sin perjuicio de las medidas y acciones que deban cumplir.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+###### Artículo 85 Bis.
+
+Cuando en términos de la normatividad aplicable la autoridad judicial imponga a la persona agresora un tratamiento psicológico especializado como medida de seguridad, la educación proporcionada estará dirigida a eliminar las causas generadoras de la violencia.
 
 ###### Artículo 86.
 
@@ -1787,7 +1837,9 @@ Los centros de rehabilitación para personas agresoras llevarán a cabo las sigu
 
 I. Aplicar y participar, en lo conducente, el Programa Estatal;
 
-II. Proporcionar a las personas agresoras la atención médica, rehabilitación, asesoría y educación que coadyuve a su reinserción en la vida social;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+II. Proporcionar a las personas agresoras la atención médica, rehabilitación, asesoría y educación que coadyuve a su reinserción en la vida social y la eliminación de las causas generadoras de la violencia;
 
 III. Proporcionar talleres que tengan por objeto motivar y modificar la conducta de las personas agresoras, respecto a los patrones socioculturales que generan en ellos conductas violentas; y
 
@@ -1797,13 +1849,21 @@ IV. Contar con el personal debidamente capacitado y especializado en las materia
 
 Los centros de rehabilitación para personas agresoras podrán brindar los siguientes servicios:
 
-I. Tratamiento psicológico;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+I. Tratamiento psicológico especializado y servicios reeducativos dirigido a eliminar las causas generadoras de violencia;
 
 II. Hospedaje, alimentación y servicio médico cuando así se requiera;
 
 III. Información jurídica sobre las consecuencias legales de sus conductas; y
 
 IV. Servicios de capacitación que les permitan obtener habilidades para desempeñar una actividad de carácter económico.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+###### Artículo 87 Bis.
+
+Las personas agresoras que hayan sido condenadas por tipos y modalidades de violencia distintos a los señalados en el artículo 85 Bis de esta Ley podrán acceder a los servicios señalados en el artículo 87 de esta Ley en los términos de la normatividad aplicable.
 
 ### CAPÍTULO IX. DE LAS OBLIGACIONES DE LAS AUTORIDADES POLICIALES, MINISTERIALES, JUDICIALES Y MUNICIPALES PARA ACTUAR CON LA DEBIDA DILIGENCIA
 
@@ -2420,3 +2480,9 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 829.- SE REFORMA: LA FRACCIÓN VII, RECORRIENDO EL ACTUAL A LA VIII Y SE CREA LA FRACCIÓN IX DEL ARTÍCULO 2; LAS FRACCIONES VIII, X Y XI, RECORRIENDO EL DE ESTA ÚLTIMA A LA FRACCIÓN XII QUE SE CREA, DEL ARTÍCULO 15; LA FRACCIÓN XIII DEL ARTÍCULO 36; LAS FRACCIONES IX Y X, RECORRIENDO SUS RESPECTIVOS CONTENIDOS A LAS FRACCIONES XI Y XII QUE SE CREAN; SE REFORMA EL ARTÍCULO 44; LA FRACCIÓN VIII DEL ARTÍCULO 48; SE REFORMA LA FRACCIÓN VI Y VII Y SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 53; SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 57; EL ARTÍCULO 85; SE ADICIONA EL ARTÍCULO 85 BIS; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 86; LA FRACCIÓN I DEL ARTÍCULO 87 Y SE ADICIONA EL ARTÍCULO 87 BIS, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
