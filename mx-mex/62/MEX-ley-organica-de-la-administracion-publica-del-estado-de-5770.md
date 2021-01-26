@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2021-01-05"
+last_updated: "2021-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2021.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -563,9 +563,9 @@ a). Intervenir como parte en los juicios contra resoluciones o actos emitidos po
 
 b). Ejercer las acciones, oponer las excepciones y defensas que correspondan a los actos emitidos por la Entidad en los juicios.
 
-> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2021)</small>
 
-c). Intervenir en los juicios interpuestos contra requerimientos de pago a cargo de instituciones de fianzas con base en pólizas que se hayan expedido para asegurar el interés fiscal.
+c). Intervenir en su carácter de autoridad ejecutora, en los juicios interpuestos contra requerimientos de pago a cargo de instituciones de fianzas con base en pólizas que se hayan expedido para asegurar el interés fiscal.
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -748,6 +748,10 @@ En los convenios antes mencionados que celebre el Estado se podrán estipular la
 > <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 LV. Hacer efectivas las garantías otorgadas bajo cualquier modalidad a favor del Gobierno del Estado de México, mediante los procedimientos previstos en las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, G.G. 26 DE ENERO DE 2021)</small>
+
+Para el ejercicio de la atribución contenida en esta fracción, el Secretario se auxiliará del Procurador Fiscal, en su carácter de autoridad ejecutora, a fin de hacer efectivas las pólizas de fianza otorgadas a favor del Gobierno del Estado.
 
 (REFORMADA, G.G. 18 DE DICIEMBRE DE 2014) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
@@ -1355,9 +1359,9 @@ XXX.- Aplicar las medidas de seguridad en términos de la legislación vigente;
 
 XXXI.- Expedir las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación de los vehículos automotores destinados al transporte público y para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales, que no sean competencia de otras autoridades;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2021)</small>
 
-XXXII.- Otorgar las licencias, permisos y autorizaciones que le correspondan para conducir vehículos automotores destinados al transporte público en sus diversas clases y modalidades;
+XXXII.- Otorgar las licencias, permisos y autorizaciones que le correspondan para conducir vehículos automotores destinados al transporte en sus diversas clases y modalidades;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -4006,3 +4010,13 @@ e) Evaluación Técnica de Factibilidad de Transformación Forestal se entender�
 f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
 
 g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
+
+G.G. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 235.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; ASÍ COMO LAS AUTORIZACIONES DE REFINANCIAMIENTO Y/O REESTRUCTURA DE LOS CRÉDITOS FONREC Y PROFISE, DE REESTRUCTURA Y/O REFINANCIAMIENTO DE CERTIFICADOS BURSÁTILES DEL IFREM, DE OBTENCIÓN DE FINANCIAMIENTO GARANTIZADO POR RECURSOS FAFEF Y PARA LA SUSCRIPCIÓN DE CONVENIOS DE REESTRUCTURA POR CONCEPTO DE ADEUDOS CON EL ISSEMYM”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
