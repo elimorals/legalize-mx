@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2020-12-18"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -3405,7 +3405,9 @@ Si como consecuencia del abandono se producen lesiones a la víctima que tarden 
 
 Mas si como consecuencia del abandono, se pone a la víctima en peligro concreto de morir, al sujeto activo solo se le impondrán las penas previstas para la tentativa punible de homicidio.
 
-Además, en cualquiera de los supuestos de este artículo, si el sujeto activo es ascendiente o descendiente consanguíneo en línea recta de la víctima, tutor o tutora de la misma, se le privará de la patria potestad o de la tutela y de los derechos de acreedor alimentario, según sea el caso, además, se le suspenderá de los demás derechos de familia de uno a dos años según se regula la suspensión de derechos en la Parte General de este código.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
+Además, en cualquiera de los supuestos de este artículo, si el sujeto activo es ascendiente o descendiente consanguíneo en línea recta de la víctima, cónyuge o compañero civil, tutor o tutora de la misma, se le privará de la patria potestad o de la tutela, de los derechos de acreedor alimentario y de los derechos a adquirir por testamento o intestado que tuviese con relación a la víctima, según sea el caso, además, se le suspenderá de los demás derechos de familia de uno a dos años según se regula la suspensión de derechos en la Parte General de este Código.
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
@@ -3417,7 +3419,9 @@ Artículo 212 (Abandono en institución o ante otra persona)
 
 Se impondrá de tres a seis meses de prisión, a quien abandone en una institución o ante cualquier otra persona, que no hayan aceptado el cuidado, a una persona incapaz de valerse por sí misma, incluyendo a las personas adultas mayores y/o con discapacidad, respecto de la cual tenga la obligación de cuidar o se encuentre legalmente a su cargo.
 
-El ascendiente o tutor que entregue en una casa de expósitos, de menores o de asilo, a una persona que tenga menos de doce años que esté bajo su potestad o custodia, sin que haya autorización legal o judicial para aquel efecto, perderán por ese solo hecho los derechos que tengan sobre la persona y bienes del expósito.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
+El ascendiente o tutor que entregue en una casa de expósitos, de menores o de asilo, a una persona que tenga menos de doce años que esté bajo su potestad o custodia, sin que haya autorización legal o judicial para aquel efecto, perderán por ese solo hecho los derechos que tengan sobre la persona y bienes del expósito, incluyendo los derechos a adquirir por testamento o intestado que tuviese en relación a la víctima. Mismas penas se impondrán cuando el sujeto activo sea descendiente en línea recta sin limitación de grado de la víctima, cónyuge o compañero civil.
 
 No se impondrá pena alguna a la madre que entregue a su hijo por ignorancia, pobreza extrema, o cuando sea producto de una violación, o de una inseminación artificial, o de la implantación de un óvulo en cualquiera de los casos previstos en los artículos 240 y 241 de este código.
 
@@ -3731,6 +3735,12 @@ V. (Inmueble público o centro de naturaleza social)
 
 Se cometa dentro de un inmueble público, centro educativo, cultural, deportivo, religioso o de trabajo, o dentro de cualquier otro centro de naturaleza social.
 
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2021)</small>
+
+VI. (Se administren sustancias tóxicas)
+
+Se hubiera administrado a la víctima alcohol, fármacos, narcóticos o cualquier otra sustancia natural o química que afecte su comportamiento.
+
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
 
 Artículo 232 (Procuración sexual a menores de quince años).
@@ -3841,9 +3851,9 @@ Habrá corrupción de menores o de incapaces, cuando se realice cualquiera de la
 
 I. (Exhibicionismo sexual, ingestión de bebidas alcohólicas o narcóticos, o comisión de un hecho delictuoso)
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-Se impondrá de siete a doce años de prisión y de mil a dos mil quinientos días multa, a quien sin que actúe con los fines a que se refiere el artículo 16 de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, determine a una persona menor de dieciocho años de edad, o a quien no tenga la capacidad de comprender el significado del hecho, a realizar con sus órganos genitales desnudos, y/o en su caso, con sus mamas desnudas si es mujer, actos de exhibicionismo de clara índole sexual, simulados o no, ante el mismo determinador o terceras personas; o en tres o más ocasiones distintas haga que el menor o incapaz ingiera bebidas alcohólicas hasta alcanzar un estado de ebriedad que lo haga trastabillar; o ilegalmente haga que consuma narcóticos, o lo determine a cometer o participar en un hecho delictuoso determinado, aunque éste no se lleve a cabo.
+Se impondrá de dos a cuatro años de prisión y de mil a dos mil quinientos días multa, a quien sin que actúe con los fines a que se refiere el artículo 16 de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, determine a una persona menor de dieciocho años de edad, o a quien no tenga la capacidad de comprender el significado del hecho, a realizar con sus órganos genitales desnudos, y/o en su caso, con sus mamas desnudas si es mujer, actos de exhibicionismo de clara índole sexual, simulados o no, ante el mismo determinador o terceras personas; o a quien obligue, induzca, facilite o procure que un menor o incapaz ingiera bebidas alcohólicas; o ilegalmente haga que consuma narcóticos, o lo determine a cometer o participar en un hecho delictuoso determinado, aunque éste no se lleve a cabo.
 
 II. (Observación de actos sexuales)
 
@@ -8150,3 +8160,21 @@ P.O. 18 DE DICIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 809.- SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 211 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 212 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 810.- SE REFORMA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 237 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 811.- SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 231 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
