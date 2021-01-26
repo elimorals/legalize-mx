@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-10236
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-02"
-last_updated: "2017-12-01"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 2 de septiembre de 2014.
 
@@ -63,7 +63,9 @@ II. Comité: Comité para la Prestación de Servicios para la Atención, Cuidado
 
 III. Consejo: Consejo para la Garantía de los Derechos Humanos de Niños y Niñas;
 
-IV. Desarrollo Integral Infantil: Es el derecho que tienen niñas y niños a formarse física, mental, emocional y socialmente en condiciones de igualdad;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+IV. Desarrollo Integral Infantil: Es el derecho que tienen niñas y niños a formarse física, mental, emocional y socialmente en condiciones de igualdad, con calidad, calidez, a través de seguridad, protección y respeto a sus derechos, su identidad e individualidad.
 
 V. DIF.- Sistema para el Desarrollo Integral de la Familia y Protección de Derechos;
 
@@ -91,9 +93,11 @@ XIV. Servicios para atención, cuidado y desarrollo integral infantil: Medidas d
 
 La prestación de los servicios para la atención, cuidado y desarrollo integral infantil cuando esté a cargo de las dependencias y entidades estatales o de los Ayuntamientos, podrán otorgarla por sí mismos o a través de las personas del sector social o privado que cuenten con los requisitos y la autorización correspondientes. Se deberá garantizar el efectivo cumplimiento de los derechos laborales y de las prestaciones de seguridad social que deriven de éstos, en materia de atención, cuidado y desarrollo integral infantil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
+
 ###### Artículo 6.
 
-Niñas y niños, son sujetos de los servicios para la atención, cuidado y desarrollo integral infantil. El Poder Ejecutivo Estatal y los Ayuntamientos garantizarán, en el ámbito de sus competencias, que la prestación de estos servicios se oriente a lograr la observancia y ejercicio de los siguientes derechos:
+Niñas y niños, tienen derecho a recibir los servicios para la atención, cuidado y desarrollo integral infantil, sin discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos y los instrumentos internacionales en la materia, en condiciones de calidad, calidez, seguridad, protección y respeto a sus derechos, identidad e individualidad con el fin de garantizar el interés superior de la niñez. El Poder Ejecutivo Estatal y los Ayuntamientos garantizarán, en el ámbito de sus competencias, que la prestación de estos servicios se oriente a lograr la observancia y ejercicio de los siguientes derechos:
 
 I. A un entorno seguro, afectivo y libre de violencia;
 
@@ -139,9 +143,11 @@ X. Información y apoyo a los padres, tutores o quienes tengan la responsabilida
 
 ### Capítulo III. De la Política Estatal y el Comité en materia de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
 ###### Artículo 8.
 
-La política que se establezca en materia de prestación de los servicios a que se refiere la presente Ley, permitirá la conjunción de esfuerzos de los distintos órdenes de gobierno y de los sectores público, social y privado.
+La política que se establezca en materia de prestación de los servicios de atención, cuidado y desarrollo integral infantil a que se refiere la presente Ley, permitirá la conjunción de esfuerzos de los distintos órdenes de gobierno y de los sectores público, social y privado, con el objeto de coordinar instrumentos, políticas, planes, programas y acciones interinstitucionales.
 
 ###### Artículo 9.
 
@@ -207,9 +213,17 @@ IX. Promover la generación, actualización y aplicación de normas oficiales me
 
 X. Promover la participación de las familias, la sociedad civil y niñas y niños en la observación y acompañamiento de la política estatal y de los servicios;
 
-XI. Llevar a cabo sesiones ordinarias cada seis meses y las extraordinarias que sean necesarias, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-XII. Las demás que sean necesarias para cumplir con el objeto de la presente Ley.
+XI. Observar los principios de interés superior de la niñez, mediante seguridad, respeto, igualdad y No Discriminación, fortaleciendo su participación, a través de un desarrollo integral con calidad.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XII. Llevar a cabo sesiones ordinarias cada seis meses y las extraordinarias que sean necesarias, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XIII. Las demás que sean necesarias para cumplir con el objeto de la presente Ley.
 
 ### Capítulo IV. De las atribuciones de las dependencias y entidades de la Administración Pública Estatal y de los Ayuntamientos
 
@@ -764,3 +778,9 @@ P.O. 1 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 872.- SE REFORMA: LA FRACCIÓN IV DEL ARTÍCULO 4; EL ARTÍCULO 6; EL ARTÍCULO 8; SE REFORMAN LAS FRACCIONES XI, XII Y SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 15 DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE COAHUILA”.]
+
+ÚNICO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
