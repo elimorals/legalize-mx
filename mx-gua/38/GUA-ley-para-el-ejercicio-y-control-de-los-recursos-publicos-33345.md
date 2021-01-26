@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-ejercicio-y-control-de-los-recursos-publicos-33345"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-12"
-last_updated: "2020-12-24"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "GUA"
 ---
 # LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PUBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 115 PUBLICADO EN LA CUARTA PARTE DEL P.O. 28 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO EN EL ÁMBITO ESTATAL, ENTRARÁ EN VIGENCIA PARA EFECTOS DEL EJERCICIO FISCAL 2017 Y PARA LOS MUNICIPIOS ENTRARÁ EN VIGENCIA PARA EFECTOS DEL EJERCICIO FISCAL 2018, CON LAS SALVEDADES PREVISTAS EN SUS ARTÍCULOS TRANSITORIOS PRIMERO, SEGUNDO, TERCERO, CUARTO, QUINTO Y SEXTO.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 115 PUBLICADO EN LA CUARTA PARTE DEL P.O. 28 DE OCTUBRE DE 2016, EL PRESENTE ORDENAMIENTO EN EL ÁMBITO ESTATAL, ENTRARÁ EN VIGENCIA PARA EFECTOS DEL EJERCICIO FISCAL 2017 Y PARA LOS MUNICIPIOS ENTRARÁ EN VIGENCIA PARA EFECTOS DEL EJERCICIO FISCAL 2018, CON LAS SALVEDADES PREVISTAS EN SUS ARTÍCULOS TRANSITORIOS PRIMERO, SEGUNDO, TERCERO, CUARTO, QUINTO Y SEXTO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de agosto del 2003.
 
@@ -49,15 +51,17 @@ LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS M
 
 La presente Ley tiene por objeto establecer las bases generales para:
 
-I.- El ejercicio y control del gasto público;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+I.- La programación, presupuestación, ejercicio, control, seguimiento y evaluación del gasto público;
 
 II.- La formulación de las leyes de ingresos para el Estado y para los Municipios;
 
 III.- La formulación de los presupuestos de egresos del Estado y de los Municipios; y
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-IV.- Regular la contabilidad gubernamental y la emisión de información financiera de los sujetos de la Ley.
+IV.- Regular la aplicación de la contabilidad gubernamental y la emisión de información financiera de los sujetos de la Ley.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -71,89 +75,269 @@ Son sujetos de la presente Ley los Poderes Ejecutivo, Legislativo y Judicial, lo
 
 Para los efectos de la presente ley se entiende por:
 
-I. Asignaciones presupuestales: La ministración que de los recursos públicos aprobados por el Congreso del Estado mediante el Presupuesto General de Egresos del Estado previstos en los ramos a ejercer, realiza el Ejecutivo del Estado, a través de la Secretaría a los poderes Legislativo y Judicial, Organismos Autónomos, dependencias y entidades;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-II. Asociaciones público-privadas: Las previstas en la Ley de Asociaciones Público Privadas o en la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato;
+I. Adecuaciones presupuestarias: Las modificaciones a las estructuras funcional programática, administrativa y económica, a los calendarios de presupuesto y las ampliaciones y reducciones al presupuesto de egresos o a los flujos de efectivo correspondientes;
 
-III. Balance presupuestario: La diferencia entre los ingresos totales incluidos en la Ley de Ingresos correspondiente, y los gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-IV. Balance presupuestario de recursos disponibles: La diferencia entre los ingresos de libre disposición, incluidos en la Ley de Ingresos correspondiente, más el financiamiento neto y los gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
+II. Ahorros presupuestarios: Los remanentes de recursos del presupuesto modificado una vez que se hayan cumplido las metas establecidas;
 
-V. Congreso: El Congreso del Estado de Guanajuato;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-VI. Criterios generales de política económica: El documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo 42, fracción III, inciso a), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el cual sirve de base para la elaboración de la Ley de Ingresos y el Presupuesto de Egresos de la Federación;
+III. Anexos transversales: Los anexos del presupuesto de egresos en donde concurren programas presupuestarios, componentes de estos o unidades responsables, cuyos recursos son destinados a obras, acciones y servicios vinculados, directa o indirectamente, a políticas públicas transversales;
 
-VII. Dependencias: Los órganos subordinados en forma directa al titular del Poder Ejecutivo del Estado o al Ayuntamiento para el despacho de los negocios del orden administrativo que tienen encomendados;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-VIII. Entidades: Los órganos que forman parte de la administración pública paraestatal o paramunicipal;
+IV. Asignaciones presupuestales: Los recursos públicos aprobados por el Congreso del Estado mediante la Ley del Presupuesto General de Egresos del Estado previstos en los ramos a ejercer, que realiza el Ejecutivo del Estado, a través de la Secretaría, a los poderes Legislativo y Judicial, organismos autónomos, dependencias y entidades;
 
-IX. Entidades no apoyadas presupuestalmente: Aquéllas que no reciben asignaciones, transferencias y subsidios con cargo al presupuesto de egresos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-X. Financiamiento neto: La diferencia entre las disposiciones realizadas de un financiamiento y las amortizaciones efectuadas de la deuda pública, entendiéndose por financiamiento para tales efectos, toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los sujetos de Ley, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
+V. Asociaciones público-privadas: Los proyectos que se realicen con cualquier esquema para establecer una relación contractual de largo plazo, entre instancias del sector público y del sector privado, para la prestación de servicios al sector público, mayoristas, intermediarios o al usuario final y en los que se utilice infraestructura proporcionada total o parcialmente por el sector privado con objetivos que aumenten el bienestar social y los niveles de inversión en el país;
 
-XI. Gasto comprometido: El momento contable del gasto que refleja la aprobación por autoridad competente, de un acto administrativo u otro instrumento jurídico que formaliza una relación jurídica con terceros para la adquisición de bienes, prestación de servicios o ejecución de obras;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-XII. Gasto corriente: Las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto en servicios personales, materiales y suministros, y los servicios generales, así como las transferencias, asignaciones, subsidios, donativos y apoyos;
+VI. Balance presupuestario: La diferencia entre los ingresos totales incluidos en la Ley de Ingresos correspondiente, y los gastos totales considerados en los presupuestos de egresos, con excepción de la amortización de la deuda;
 
-XIII. Gasto de operación ordinario: Las erogaciones indispensables para que puedan ejercer sus funciones los sujetos de la Ley;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-XIV. Gasto devengado: El momento contable del gasto que refleja el reconocimiento de una obligación de pago a favor de terceros por la recepción de conformidad de bienes, servicios y obras oportunamente contratados; así como de las obligaciones que derivan de leyes, decretos, resoluciones y sentencias definitivas;
+VII. Balance presupuestario de recursos disponibles: La diferencia entre los ingresos de libre disposición, incluidos en la Ley de Ingresos correspondiente, más el financiamiento neto y los gastos no etiquetados considerados en los presupuestos de egresos, con excepción de la amortización de la deuda;
 
-XV. Gasto público: El conjunto de erogaciones que realizan los sujetos de la Ley en sus respectivos niveles, en el ejercicio de sus funciones;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-XVI. Gasto total: La totalidad de las erogaciones aprobadas en el Presupuesto de Egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto;
+VIII. Banco Integrado de Proyectos (BIP): La herramienta dispuesta para recibir, analizar y valorar la preparación técnica, impacto social y atingencia estratégica de las iniciativas de proyectos de inversión promovidas por las dependencias y entidades, organismos autónomos y poderes Legislativo y Judicial;
 
-XVII. Indicadores: La expresión cuantitativa o, en su caso, cualitativa que proporciona un medio sencillo y fiable para medir logros, reflejar los cambios vinculados con las acciones del programa, monitorear y evaluar resultados;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-XVIII. Ingresos de libre disposición: Los ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
+IX. Cartera de programas y proyectos de inversión: Los programas y proyectos de inversión que cuenten con el análisis correspondiente, conforme a los distintos niveles de evaluación y que se encuentran registrados en el Banco Integrado de Proyectos o en el sistema que para tal efecto determine la Secretaría de Finanzas, Inversión y Administración;
 
-XIX. Ingresos excedentes: Los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-XX. Ingresos locales: Aquéllos percibidos por el Estado y los municipios por impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios y los demás previstos en términos de las disposiciones aplicables;
+X. Ciclo presupuestario: Conjunto de etapas por las que transita el presupuesto, consta de: planeación, programación, presupuestación, ejercicio y control, monitoreo, evaluación, y rendición de cuentas;
 
-XXI. Ingresos totales: La totalidad de los ingresos de libre disposición, las transferencias federales etiquetadas y el financiamiento neto;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-XXII. Inversión pública: Toda erogación por la cual se genere, directa o indirectamente, un beneficio social;
+XI. Clasificador por objeto del gasto: El instrumento que permite registrar de manera ordenada, sistemática y homogénea las compras, los pagos y las erogaciones autorizados en capítulos, conceptos y partidas con base en la clasificación económica del gasto;
 
-XXIII. Inversión pública productiva: Toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (i) la construcción, mejoramiento, rehabilitación o reposición de bienes de dominio público; (ii) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, o (iii) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
 
-XXIV. Ley de Ingresos: La Ley de Ingresos para el Estado de Guanajuato o de los municipios, aprobada por el Congreso del Estado;
+XII. Congreso: El Congreso del Estado de Guanajuato;
 
-XXV. Organismos Autónomos: Aquellos que por disposición constitucional o legal han sido dotados de tal carácter;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-XXVI. Órgano de Administración: El área encargada de la administración de los recursos en los poderes Legislativo y Judicial y en los Organismos Autónomos;
+XIII. Criterios generales de política económica: El documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo 42, fracción III, inciso a de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
 
-XXVII. Órganos de control: La Secretaría de la Transparencia y Rendición de Cuentas, las contralorías municipales y las contralorías internas u órganos de vigilancia de los poderes Legislativo y Judicial y de los Organismos Autónomos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-XXVIII. Percepciones extraordinarias: Los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones aplicables. Las percepciones extraordinarias no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social;
+XIV. Cuenta pública: La compilación de información anualizada de carácter contable, presupuestario y programático de los poderes, organismos autónomos y municipios;
 
-XXIX. Percepciones ordinarias: Los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas en los sujetos de la ley, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-XXX. Presupuestación: Proceso de consolidación de las acciones encaminadas a cuantificar monetariamente los recursos humanos, materiales y financieros necesarios para cumplir con los programas establecidos en un determinado periodo; comprende las tareas de formulación, discusión, aprobación, ejecución, control y evaluación del presupuesto;
+XV. Dependencias: Los órganos de la administración pública centralizada, subordinados en forma directa al titular del Poder Ejecutivo del Estado o al Ayuntamiento para el despacho de los negocios del orden administrativo que tienen encomendados;
 
-XXXI. Presupuestos de egresos: Ley del Presupuesto General de Egresos del Estado de Guanajuato y los presupuestos de egresos municipales para el ejercicio fiscal correspondiente;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-XXXII. Programación: Proceso a través del cual se definen estructuras programáticas, metas, tiempos, responsables, instrumentos de acción y recursos necesarios para el logro de los objetivos de largo y mediano plazo fijados en los planes estatales o municipales, según corresponda;
+XVI. Eficacia en la aplicación del gasto público: Cumplimiento de los objetivos y las metas programadas dentro del ejercicio fiscal, en los términos de esta Ley;
 
-XXXIII. Programa presupuestario: Categoría programática que permite organizar, en forma representativa y homogénea, las asignaciones de recursos para programas y proyectos, que establece los objetivos, metas e indicadores, para los ejecutores del gasto, y que contribuye al cumplimiento de los instrumentos de planeación;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-XXXIV. Remuneración integrada: La percepción total que reciben los servidores públicos de manera ordinaria por la prestación de sus servicios, con independencia de la denominación que se dé a los rubros que la integran;
+XVII. Eficiencia en el ejercicio del gasto público: El ejercicio del presupuesto de egresos en tiempo y forma, en los términos de esta Ley;
 
-XXXV. Secretaría: La Secretaría de Finanzas, Inversión y Administración;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-XXXVI. Sistema de evaluación del desempeño: El conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores que permitan conocer el impacto social de los programas y de los proyectos;
+XVIII. Ejecutores de gasto: Los poderes Legislativo y Judicial, los organismos autónomos del Estado, los ayuntamientos y las dependencias y entidades de la administración pública estatal y municipal;
 
-XXXVII. Subsidios: Los recursos estatales que se asignan para apoyar el desarrollo de actividades prioritarias de interés general con el propósito de: Apoyar sus operaciones; mantener los niveles de los precios; apoyar el consumo, la distribución y comercialización de los bienes; cubrir impactos financieros; así como para el fomento de las actividades agropecuarias, industriales o de servicios;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
 
-XXXVIII. Tesorería: Las tesorerías municipales;
+XIX. Entidades: Los órganos que forman parte de la administración pública paraestatal o paramunicipal;
 
-XXXIX. Transferencias: Las ministraciones de recursos y apoyos extraordinarios que se asignan para el desempeño de las atribuciones que realizan los municipios y entidades, con base en los presupuestos de egresos;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-XL. Transferencias federales etiquetadas: Los recursos que reciben de la Federación el Estado y los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación;
+XX. Entidades no apoyadas presupuestalmente: Las que no reciben asignaciones, transferencias y subsidios con cargo a los presupuestos de egresos;
 
-XLI. Traspaso: Los movimientos que consisten en trasladar el importe total o parcial de la asignación de una clave presupuestaria a otra, previa autorización de la autoridad facultada de conformidad con las leyes y reglamentos aplicables; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-XLII. Viáticos: La subvención a servidores públicos en dinero, especie o cualquier otro análogo, otorgados de manera extraordinaria por la comisión de eventos fuera de su lugar de prestación de funciones y que no forman parte de la remuneración integrada.
+XXI. Estructura programática: El conjunto de categorías y elementos que estén alineados al programa presupuestario, ordenados en forma coherente, el cual define las acciones que efectúan los ejecutores de gasto para alcanzar sus objetivos y metas, en concordancia con el Plan de Desarrollo Estatal; ordena y clasifica las acciones de los ejecutores de gasto para delimitar la aplicación del gasto;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+XXII. Financiamiento: Toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los sujetos de la Ley, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XXIII. Financiamiento neto: La suma de las disposiciones realizadas de un financiamiento y las disponibilidades, menos las amortizaciones efectuadas de la deuda pública;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XXIV. Gasto comprometido: El momento contable del gasto que refleja la aprobación por autoridad competente, de un acto administrativo u otro instrumento jurídico que formaliza una relación jurídica con terceros para la adquisición de bienes, prestación de servicios o ejecución de obras;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XXV. Gasto corriente: Las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto en servicios personales, materiales y suministros, y los servicios generales, así como las transferencias, asignaciones, subsidios, donativos y apoyos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XXVI. Gasto de operación ordinario: Las erogaciones indispensables para que puedan ejercer sus funciones los sujetos de la Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XXVII. Gasto devengado: El momento contable del gasto que refleja el reconocimiento de una obligación de pago a favor de terceros por la recepción de conformidad de bienes, servicios y obras oportunamente contratados; así como de las obligaciones que derivan de leyes, decretos, resoluciones y sentencias definitivas;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+XXVIII. Gasto público: El conjunto de erogaciones que realizan los sujetos de la Ley, en el ejercicio de sus funciones;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+XXIX. Gasto total: La totalidad de las erogaciones aprobadas en los presupuestos de egresos, con cargo a los ingresos previstos en la Ley de Ingresos, y adicionalmente, las amortizaciones de la deuda pública y las operaciones que darían lugar a la duplicidad en el registro del gasto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XXX. Gestión por Resultados: La estrategia que orienta la acción de las instituciones públicas a la generación del mayor valor público posible, a través de instrumentos como la planificación, el presupuesto, la gestión de programas y proyectos, la gestión de riesgos, el monitoreo del progreso y la evaluación, atendiendo a los principios de eficacia, eficiencia y efectividad del desempeño;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XXXI. Indicadores: La expresión cuantitativa o, en su caso, cualitativa que proporciona un medio sencillo y fiable para medir logros, reflejar los cambios vinculados con las acciones del programa, monitorear y evaluar resultados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XXXII. Informes trimestrales: Aquellos sobre las finanzas públicas, los anexos transversales y la deuda pública que los poderes del Estado, organismos autónomos y municipios presentan al Congreso;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XXXIII. Ingresos de libre disposición: Los ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XXXIV. Ingresos excedentes: Los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+XXXV. Ingresos locales: Los percibidos por el Estado y los municipios por impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios y los demás previstos en términos de las disposiciones legales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XXXVI. Ingresos propios: Los recursos que generan las entidades de la administración pública paraestatal y paramunicipal, organismos autónomos y los poderes Legislativo y Judicial, en términos de las disposiciones legales en la materia;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+XXXVII. Ingresos totales: Los integrados por los recursos de libre disposición, las transferencias federales etiquetadas y el financiamiento neto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XXXVIII. Inversión pública: Toda erogación destinada a obra pública en infraestructura y a bienes muebles, inmuebles e intangibles, y aquellas que tengan como propósito incrementar la cobertura o calidad de un bien o servicio público, o bien, generar directa o indirectamente un beneficio social a la población;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XXXIX. Inversión pública: Toda erogación por la cual se genere, directa o indirectamente, un beneficio social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XL. Ley: La Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XLI. Ley de Ingresos: La Ley de Ingresos para el Estado de Guanajuato o de los municipios, aprobada por el Congreso del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XLII. Metodología de Marco Lógico: La herramienta de planeación estratégica que facilita el proceso de conceptualización y diseño de programas presupuestarios; permite organizar, de manera sistemática y lógica, sus objetivos, fortalecer la vinculación de la planeación con la programación, y evaluar su desempeño durante el ciclo presupuestario;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XLIII. Organismos Autónomos: Aquellos que por disposición constitucional o legal han sido dotados de tal carácter;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XLIV. Órgano de Administración: El área encargada de la administración de los recursos en los poderes Legislativo y Judicial y en los Organismos Autónomos;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+XLV. Órganos internos de control: La Secretaría de la Transparencia y Rendición de Cuentas, las contralorías de los poderes Legislativo y Judicial y de los organismos autónomos; así como las contralorías municipales y los órganos de vigilancia de las entidades municipales;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+XLVI. Percepciones extraordinarias: Los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones normativas en la materia. Las percepciones extraordinarias no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XLVII. Percepciones ordinarias: Los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas en los sujetos de la ley, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XLVIII. Planeación de desarrollo del Estado: Los instrumentos rectores del desarrollo estatal y municipal, descritos en la Ley de Planeación para el Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+XLIX. Presupuestación: El proceso de consolidación de las acciones encaminadas a cuantificar monetariamente los recursos humanos, materiales y financieros para cumplir con los programas establecidos en un determinado periodo; comprende las tareas de formulación, discusión y aprobación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+L. Presupuesto basado en Resultados (PbR): El Componente de la Gestión por Resultados, que permite generar información del ejercicio de los recursos públicos en forma sistemática, apoyando las decisiones de asignación presupuestaria, prioritariamente a los programas que generen mayor valor público;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+LI. Presupuestos de egresos: Ley del Presupuesto General de Egresos del Estado de Guanajuato y los presupuestos de egresos municipales para el ejercicio fiscal correspondiente;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+LII. Programación: El Proceso a través del cual se definen estructuras programáticas, metas, tiempos, responsables, instrumentos de acción y recursos para el logro de los objetivos de largo y mediano plazo fijados en la planeación de desarrollo del Estado, según corresponda;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+LIII. Programa presupuestario: La categoría programática que permite organizar, en forma representativa y homogénea, las asignaciones de recursos para programas y proyectos, que establece los objetivos, metas e indicadores, para los ejecutores del gasto, y que contribuye al cumplimiento de la planeación de desarrollo del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+LIV. Proyectos de inversión: El conjunto de esfuerzos y actividades que se llevan a cabo para crear un producto, servicio o resultado único dirigido al cumplimiento de un objetivo específico, dentro de los límites de un presupuesto y tiempo determinados, que surgen para resolver un problema, satisfacer una necesidad o aprovechar una oportunidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+LV. Reglas de operación: Las disposiciones a las cuales se sujetan determinados programas y fondos con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+LVI. Remuneración integrada: La percepción total que reciben los servidores públicos de manera ordinaria por la prestación de sus servicios, con independencia de la denominación que se dé a los rubros que la integran;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+LVII. Secretaría: La Secretaría de Finanzas, Inversión y Administración;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+LVIII. Sistema de evaluación del desempeño: El conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores que permitan conocer el impacto social de los programas presupuestarios;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+LIX. Subsidios: Los recursos estatales que se asignan para apoyar el desarrollo de actividades prioritarias de interés general con el propósito de: Apoyar sus operaciones; mantener los niveles de los precios; apoyar el consumo, la distribución y comercialización de los bienes; cubrir impactos financieros; así como para el fomento de las actividades agropecuarias, industriales o de servicios;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+LX. Tesorería: Las tesorerías municipales;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+LXI. Transferencias: Las ministraciones de recursos que se autorizan para el ejercicio de las atribuciones de los poderes Legislativo y Judicial, organismos autónomos, los ayuntamientos y entidades, con base en el presupuesto de egresos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+LXII. Transferencias federales etiquetadas: Los recursos que reciben de la Federación el Estado y los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+LXIII. Traspaso: Los movimientos que consisten en trasladar el importe total o parcial de la asignación de una clave presupuestaria a otra, previa autorización de la autoridad facultada de conformidad con las leyes y reglamentos en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+LXIV. Unidad responsable: El área administrativa de los poderes Legislativo y Judicial, los organismos autónomos, los ayuntamientos, las dependencias y, en su caso, las entidades que está obligada a la rendición de cuentas sobre los recursos humanos, materiales y financieros que administra para contribuir al cumplimiento de los programas comprendidos en la estructura programática autorizada al ramo o entidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+LXV. Valor público: El que se crea cuando se realizan actividades capaces de aportar respuestas efectivas y útiles a demandas sociales que sean deseables, de carácter público y que incidan de manera positiva en la sociedad; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+LXVI. Viáticos: La subvención a servidores públicos en dinero, especie o cualquier otro análogo, otorgados de manera extraordinaria por la comisión de eventos fuera de su lugar de prestación de funciones y que no forman parte de la remuneración integrada.
 
 ###### Artículo 4º.
 
@@ -191,15 +375,49 @@ Tales pronósticos de ingresos, proyectos de presupuestos de egresos y las respe
 
 Los sujetos de la Ley coordinarán las actividades de programación-presupuestación, ejercicio, control, seguimiento y evaluación de los recursos públicos; conforme lo establezca este ordenamiento, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental, así como las decisiones y acuerdos establecidos por el Consejo Nacional de Armonización Contable.
 
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+###### Artículo 6° Bis.
+
+El Comité de Gestión para Resultados es un organismo técnico del Poder Ejecutivo del Estado, cuyo objetivo es coordinar el ciclo presupuestario mediante el uso de la Metodología de Marco Lógico, la aplicación del Presupuesto basado en Resultados y la operación del Sistema de Evaluación del Desempeño.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+###### Artículo 6° Ter.
+
+Los integrantes del Comité de Gestión para Resultados, en el ámbito de sus atribuciones y conforme a las disposiciones normativas, son:
+
+I. Un representante de la Secretaría de Finanzas, Inversión y Administración;
+
+II. Un representante del Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato;
+
+III. Un representante de la Secretaría de la Transparencia y Rendición de Cuentas; y
+
+IV. Un representante de la Jefatura de Gabinete del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+###### Artículo 6° Quáter.
+
+Para efectos de la operación del Comité de Gestión para Resultados, la Secretaría emitirá los Lineamientos de Gestión para Resultados, considerando todas las etapas del ciclo presupuestario, sin perjuicio de lo que establecen otras disposiciones legales en la materia.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+###### Artículo 6° Quinquies.
+
+Las dependencias coordinadoras de sector orientarán y coordinarán la planeación, programación, presupuestación, control y evaluación del gasto público de las entidades ubicadas bajo su coordinación, con base en lo estipulado por la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
+
+En el caso de las entidades no coordinadas, corresponderá a la Secretaría orientar y coordinar las actividades a que se refiere este artículo.
+
 ###### Artículo 7º.
 
 Los sujetos de la Ley, para optimizar sus recursos, deberán planear, programar y presupuestar sus actividades con honestidad, claridad y transparencia con sujeción a los planes, programas y bases que elaboren para tal efecto, de conformidad con las leyes de la materia.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### Artículo 8°.
 
-Los Órganos de Control, dentro del ámbito de su competencia, vigilarán, verificarán y evaluarán el correcto ejercicio del gasto público, sin detrimento de las facultades constitucionales que le correspondan al Congreso del Estado.
+Los órganos internos de control, dentro del ámbito de su competencia, vigilarán, verificarán y evaluarán el correcto ejercicio del gasto público, sin detrimento de las facultades constitucionales que le correspondan al Congreso del Estado.
 
 ###### Artículo 9º.
 
@@ -237,15 +455,13 @@ II.- Los ingresos públicos derivados de los impuestos, derechos, contribuciones
 
 III.- Las participaciones y aportaciones que de ingresos federales o estatales les correspondan, de conformidad con las leyes respectivas y por los Convenios de Coordinación que se hayan suscrito o se suscriban para tales efectos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### Artículo 13.
 
-La Secretaría y la Tesorería en los términos que señalen las disposiciones legales aplicables, serán las encargadas de recaudar y concentrar los ingresos que se obtengan por cualquier concepto para hacer frente al ejercicio del gasto establecido en los presupuestos de egresos, debiéndose llevar a cabo la citada concentración en un término que no exceda de tres días hábiles a partir de su obtención, salvo aquéllos percibidos por los organismos autónomos y por las entidades no apoyadas presupuestalmente y en los casos que expresamente determinen las leyes, decretos o reglamentos.
+La Secretaría y la Tesorería en los términos que señalen las disposiciones legales, serán las encargadas de recaudar y concentrar los ingresos que se obtengan por cualquier concepto, para hacer frente al ejercicio del gasto establecido en los presupuestos de egresos, debiéndose llevar a cabo la citada concentración en un término que no exceda de tres días hábiles a partir de su obtención.
 
-La Secretaría deberá concentrar las asignaciones presupuestales de las dependencias y entidades que no se hayan comprometido al término de las fechas de pre-cierre establecidas en los lineamientos correspondientes que emita en el ámbito de su competencia.
+No será aplicable lo dispuesto en el párrafo que antecede para aquellos ingresos que perciban los organismos autónomos, las entidades no apoyadas presupuestalmente y, en los casos que expresamente señalen las leyes, decretos o reglamentos.
 
 ###### Artículo 14.
 
@@ -303,15 +519,15 @@ En el caso de la Ley de Ingresos para el Estado, no aplicará la disposición an
 
 ### CAPÍTULO PRIMERO. DEL PRESUPUESTO DE EGRESOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### Artículo 22.
 
-Todo gasto que los sujetos de la Ley pretendan erogar deberá estar debidamente contemplado en los presupuestos de egresos del ejercicio fiscal correspondiente, determinado por ley posterior o con cargo a ingresos excedentes.
+Todo gasto que los sujetos de la Ley pretendan erogar deberá estar debidamente contemplado en los presupuestos de egresos del ejercicio fiscal correspondiente, determinado por ley posterior, con cargo a ingresos excedentes o disponibilidades de ejercicios anteriores.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-Los sujetos de la Ley deberán revelar en la cuenta pública y en los informes financieros trimestrales que entreguen al Congreso, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el gasto etiquetado y no etiquetado.
+Los sujetos de la Ley deberán revelar en la cuenta pública y en los informes financieros trimestrales que entreguen al Congreso, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el gasto etiquetado y no etiquetado. De igual manera, en la cuenta pública deberán analizar la ejecución del gasto establecido en los Anexos Transversales.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -321,9 +537,11 @@ Para los efectos de esta Ley, el gasto etiquetado son las erogaciones que realiz
 
 Asimismo, el gasto no etiquetado son las erogaciones que realiza el Estado y los municipios con cargo a sus ingresos de libre disposición y financiamientos contratados en términos de la Ley de Deuda Pública para el Estado y los Municipios de Guanajuato. En el caso de los municipios, se excluye el gasto que realicen con recursos del Estado con un destino específico.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
 ###### Artículo 23.
 
-Los presupuestos de egresos atenderán los objetivos y prioridades de los planes y programas, debiendo observar los principios de racionalidad, austeridad y disciplina del gasto público.
+Los presupuestos de egresos atenderán los objetivos y prioridades de la planeación de desarrollo del Estado, debiendo observar los principios de racionalidad, austeridad y disciplina del gasto público.
 
 ###### Artículo 24.
 
@@ -331,11 +549,43 @@ El presupuesto de egresos del Estado, será el que contenga el Decreto de la Ley
 
 Los presupuestos de egresos de los Municipios serán los que aprueben los ayuntamientos para el ejercicio fiscal que corresponda a iniciativa de los presidentes municipales.
 
-(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013) (F. DE E., P.O. 24 DE ENERO DE 2014)
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### Artículo 25.
 
-El presupuesto de egresos tendrá una estructura de integración programática, con la desagregación señalada en las disposiciones normativas aplicables en la materia, así como una sustentación lo suficientemente amplia, que abarque los planes y programas y todas las demás responsabilidades del Gobierno del Estado o de los municipios, según se trate.
+El presupuesto de egresos tendrá una estructura de integración programática, con la desagregación señalada en las disposiciones normativas en la materia, así como una sustentación lo suficientemente amplia, que abarque la planeación de desarrollo del Estado y todas las demás responsabilidades del Gobierno del Estado o de los municipios, según se trate.
+
+La estructura programática referida en el párrafo anterior contendrá como mínimo:
+
+I. Las categorías, que comprenderán la función, la subfunción, el programa y el proyecto del Estado o del Municipio, según se trate;
+
+II. Los elementos, que comprenderán los objetivos, las metas con base en indicadores de desempeño y la unidad responsable, en congruencia con la planeación de desarrollo del Estado; y
+
+III. Las acciones que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género, cualquier forma de discriminación de género, así como la protección de niñas, niños y adolescentes.
+
+La estructura programática facilitará la vinculación de la programación de los ejecutores de gasto con la planeación de desarrollo del Estado, y deberá incluir indicadores de desempeño con sus correspondientes metas anuales.
+
+Dichos indicadores de desempeño corresponderán a un índice, medida, cociente o fórmula que permita establecer un parámetro de medición de lo que se pretende lograr en un ejercicio fiscal expresado en términos de cobertura, eficiencia, impacto económico y social, calidad y equidad. Estos indicadores serán la base para el funcionamiento del Sistema de Evaluación del Desempeño.
+
+Los organismos autónomos y los poderes Legislativo y Judicial deberán incluir los indicadores de desempeño y metas que faciliten el examen de sus proyectos de presupuesto de egresos.
+
+La estructura programática deberá facilitar el examen del presupuesto y sólo sufrirá modificaciones cuando estas tengan el objetivo de eficientar el gasto público, en los términos de las disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+###### Artículo 25 Bis.
+
+Los anteproyectos de presupuesto de egresos deberán contener:
+
+I. La previsión del gasto corriente, la inversión física y financiera y otras erogaciones de capital;
+
+II. Los enteros a la Tesorería de la Federación a través de la Secretaría; y
+
+III. La aplicación del gasto corriente, la inversión física y financiera de sus ingresos propios, incluyendo el saldo de disponibilidades.
+
+Las entidades procurarán generar ingresos suficientes para cubrir su costo de operación, sus obligaciones legales y fiscales y, dependiendo de su naturaleza y objeto, un aprovechamiento para el Estado por el patrimonio invertido.
+
+La Secretaría y la Tesorería determinarán el cálculo del aprovechamiento con base en las disposiciones legales.
 
 ###### Artículo 26.
 
@@ -345,11 +595,13 @@ Los Poderes Legislativo y Judicial, así como los Organismos Autónomos, formula
 
 Para el caso de los Municipios, las Dependencias y Entidades enviarán sus anteproyectos de presupuesto a la Tesorería a más tardar el seis de septiembre.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
+###### Artículo 26 Bis.
 
-Artículo 26 bis.- Para la programación de los recursos destinados a proyectos de inversión pública estatal que requieran autorización plurianual de gasto en los términos del artículo 63, fracción XIII de la Constitución Política para el Estado de Guanajuato, o de compromisos de gasto plurianual en los términos del artículo 76 de esta ley, las dependencias y entidades deberán observar el siguiente procedimiento:
+Para la programación de los recursos destinados a proyectos de inversión pública estatal, o de compromisos de gasto plurianual en los términos del artículo 63, fracción XIII de la Constitución Política para el Estado de Guanajuato, así como del artículo 76 de esta Ley, las dependencias y entidades deberán observar el siguiente procedimiento:
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 11 DE JUNIO DE 2010)</small>
 
 I. Contar con un mecanismo de planeación, en el cual:
 
@@ -357,19 +609,35 @@ a) Se identifiquen los proyectos en proceso de realización, así como aquéllos
 
 b) Se establezcan las necesidades de gasto a corto, mediano y largo plazo, mediante criterios de evaluación que permitan establecer prioridades entre los proyectos y que serán emitidos por la Secretaría;
 
-II. Presentar a la Secretaría el Análisis Costo-Beneficio de los proyectos que tengan a su cargo, en donde se muestre que son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. La Secretaría podrá solicitar a las dependencias y entidades que dicha evaluación esté dictaminada por un experto independiente. La evaluación no se requerirá cuando el gasto se destine a la atención prioritaria e inmediata de desastres naturales;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-III. Registrar cada proyecto en la cartera que integre la Secretaría, para lo cual se deberá presentar el Análisis Costo-Beneficio correspondiente. Las dependencias y entidades deberán mantener actualizada la información contenida en la cartera. Sólo los proyectos registrados en la cartera se podrán incluir en la Ley de Presupuesto General de Egresos del Estado para el ejercicio fiscal correspondiente; y
+II. Presentar a la Secretaría la evaluación correspondiente de los programas y proyectos que tengan a su cargo, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. La Secretaría podrá solicitar a las dependencias y entidades que dicha evaluación esté dictaminada por un experto independiente. La evaluación no se requerirá cuando el gasto de inversión se destine a la atención prioritaria e inmediata de desastres naturales;
 
-IV. Los proyectos registrados en la cartera serán analizados por la Secretaría, la cual determinará la prelación para su inclusión en la Ley de Presupuesto General de Egresos del Estado para el ejercicio fiscal correspondiente, así como el orden de su ejecución, para establecer un orden de los proyectos en su conjunto y maximizar el impacto que puedan tener para incrementar el beneficio social, observando principalmente los criterios siguientes:
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+III. Registrar cada programa y proyecto de inversión en la cartera de programas y proyectos que integra la Secretaría, para lo cual se deberá presentar la evaluación correspondiente. Las dependencias y entidades deberán mantener actualizada la información contenida en la citada cartera. Sólo los programas y proyectos registrados en la señalada cartera se podrán incluir en la Ley de Presupuesto General de Egresos del Estado para el ejercicio fiscal correspondiente. La Secretaría podrá negar o cancelar el registro de un programa o proyecto si el mismo no cumple con las disposiciones normativas; y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE ENERO DE 2021)</small>
+
+IV. Los programas y proyectos registrados en la cartera de programas y proyectos de inversión serán analizados por la Secretaría, la cual determinará la prelación para su inclusión en la Ley de Presupuesto General de Egresos del Estado para el ejercicio fiscal correspondiente, para establecer un orden de los programas y proyectos en su conjunto y maximizar el impacto que puedan tener para incrementar el beneficio social, observando principalmente los criterios siguientes:
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
 
 a) Rentabilidad socioeconómica;
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
+
 b) Reducción de la pobreza extrema;
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
 
 c) Desarrollo regional; y
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
+
 d) Concurrencia con otros programas y proyectos del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
 
 Lo previsto en el presente artículo, también se aplicará en lo conducente para la programación de recursos destinados a proyectos de inversión pública municipal, con participación de recursos federales o estatales, que requieran la autorización de erogaciones plurianuales, en los términos del artículo 117, fracción VII de la Constitución Política para el Estado de Guanajuato.
 
@@ -391,15 +659,19 @@ El proyecto de presupuesto de egresos municipal y la iniciativa de Ley del Presu
 
 I.- Exposición de motivos, en la que se describan:
 
-a) Las condiciones económicas, financieras y hacendarias del Estado o del Municipio, según se trate;
+a) (DEROGADO, P.O. 26 DE ENERO DE 2021)
 
 b) La situación de la deuda pública al fin del último ejercicio fiscal y la estimación de la que se tendrá al concluir el ejercicio fiscal en curso, así como el inmediato siguiente;
 
-c) Los ingresos y gastos estimados del ejercicio fiscal en curso;
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
+c) Los gastos estimados del ejercicio fiscal en curso;
 
 d) Las estrategias a implementar y los propósitos a lograr con el presupuesto solicitado;
 
-e) La estimación de ingresos y la proposición de egresos del ejercicio fiscal para el que se hace la proyección; y
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
+e) La estimación de egresos del ejercicio fiscal para el que se hace la proyección; y
 
 f) La explicación y comentarios de los programas y en especial de aquellos que abarquen dos o más ejercicios fiscales.
 
@@ -423,9 +695,17 @@ V. Las previsiones salariales y económicas para cubrir los incrementos salarial
 
 VI. Los viáticos o percepciones de naturaleza análoga que serán ejercidas por la Unidad Responsable;
 
-(REUBICADA [N. DE E. REFORMADA], P.O. 28 DE OCTUBRE DE 2016)
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2021)</small>
 
-VII. La demás información financiera prevista en la Ley General de Contabilidad Gubernamental y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+VII. Las previsiones de gasto que correspondan a la cartera de proyectos de inversión.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2021)</small>
+
+VIII. Las previsiones de gasto que correspondan a los compromisos plurianuales que deriven de contratos de obra pública, adquisiciones, arrendamientos y servicios. En estos casos los compromisos excedentes no cubiertos tendrán preferencia respecto de otras previsiones de gasto, quedando sujetos a la disponibilidad presupuestaria anual; y
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+IX. La demás información financiera prevista en la Ley General de Contabilidad Gubernamental y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como todos aquellos anexos que determine la Secretaría y la Tesorería.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
@@ -472,6 +752,18 @@ Se exceptúa del cumplimiento del presente artículo, el monto erogado por sente
 Los gastos en servicios personales que sean estrictamente indispensables para la implementación de nuevas leyes federales o reformas a las mismas, podrán autorizarse sin sujetarse al límite establecido en el presente artículo, hasta por el monto que específicamente se requiera para dar cumplimiento a la ley respectiva.
 
 Lo anterior, de conformidad con lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+###### Artículo 28 Quinquies.
+
+El proyecto de Presupuesto de Egresos se presentará y aprobará, cuando menos, conforme a las siguientes clasificaciones:
+
+I. La administrativa, la cual agrupa a las previsiones de gasto conforme a los ejecutores de gasto; mostrará el gasto sin incluir las amortizaciones de la deuda en términos de ramos y entidades con sus correspondientes unidades responsables;
+
+II. La funcional y programática, la cual agrupa a las previsiones de gasto con base en las actividades que por disposición legal le corresponden a los ejecutores de gasto y de acuerdo con los resultados que se proponen alcanzar, en términos de funciones, programas, proyectos, actividades, indicadores, objetivos y metas. Permitirá conocer y evaluar la productividad y los resultados del gasto público en cada una de las etapas del proceso presupuestario; y
+
+III. La económica, la cual agrupa a las previsiones de gasto en función de su naturaleza económica y objeto, gasto corriente, gasto de capital, amortización de la deuda y disminución de pasivos, pensiones y jubilaciones, y participaciones.
 
 ###### Artículo 29.
 
@@ -665,33 +957,69 @@ Los recursos de la partida de gastos de transición no podrán destinarse a cubr
 
 El ejercicio de los recursos de la partida de gastos de transición se sujetará a lo estipulado en esta Ley y a las disposiciones administrativas que para asegurar su cumplimiento emitan los Poderes Ejecutivo y Legislativo, así como los Ayuntamientos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ENERO DE 2021)</small>
 
-## TÍTULO CUARTO. DE LA PROGRAMACIÓN, EJERCICIO Y EVALUACIÓN DEL GASTO PÚBLICO
+## TÍTULO CUARTO. PROGRAMACIÓN, PRESUPUESTACIÓN, EJERCICIO Y EVALUACIÓN DEL GASTO PÚBLICO
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
 ###### Artículo 54.
 
-La programación del gasto público, se basará en los ingresos disponibles y se orientará al cumplimiento de los planes estatales o municipales que se formulen por conducto del ente público facultado para ello.
+La programación y presupuestación del gasto público se realizará a través de la Secretaría o Tesorería, según corresponda, considerando los ingresos disponibles y se orientará al cumplimiento de la planeación de desarrollo del Estado que se formule por conducto del ente público facultado para ello.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+###### Artículo 54 Bis.
+
+La programación y presupuestación del gasto público comprende:
+
+I. Las actividades que deberán realizar las dependencias y entidades para dar cumplimiento a los objetivos, políticas, estrategias, prioridades y metas con base en indicadores de desempeño, contenidos en los programas que se derivan de la planeación de desarrollo del Estado, en su caso, de las directrices que el Ejecutivo, a través del Comité de Gestión para Resultados, expida en los términos de la Ley de Planeación para el Estado de Guanajuato; así como, las previsiones de gasto público para cubrir los recursos humanos, materiales, financieros y de otra índole, para el desarrollo de dichas actividades;
+
+II. Las actividades y sus respectivas previsiones de gasto público correspondientes a los poderes Legislativo y Judicial y a los organismos autónomos;
+
+III. Las previsiones de recursos destinados a los municipios, conforme a las leyes de coordinación fiscal estatal y federal, así como los derivados de la colaboración administrativa; y
+
+IV. Las previsiones de recursos destinados a la amortización de la deuda pública.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+###### Artículo 54 Ter.
+
+La programación y presupuestación anual del gasto público se realizará con apoyo en los anteproyectos que elaboren las dependencias y entidades para cada ejercicio fiscal, con base en:
+
+I. Las políticas de la planeación de desarrollo del Estado;
+
+II. El marco macroeconómico de mediano plazo de acuerdo a lo señalado en el artículo 5 de esta Ley;
+
+III. Las políticas de gasto público que determine el Ejecutivo a través de la Secretaría o los ayuntamientos a través de la Tesorería;
+
+IV. La evaluación de los avances logrados en el cumplimiento de los objetivos y metas de la planeación de desarrollo del Estado con base en el Sistema de Evaluación del Desempeño; y
+
+V. Las demás consideraciones que determine la Secretaría o la Tesorería.
+
+El anteproyecto se elaborará con base a las unidades responsables de las dependencias y entidades, estimando los costos para alcanzar los resultados cuantitativos y cualitativos previstos en las metas, así como los indicadores para medir su cumplimiento.
+
+En las previsiones de gasto que resulten deberán definirse el tipo y la fuente de recursos que se utilizarán.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### Artículo 55.
 
-Los sujetos de la Ley serán responsables de la estricta observancia de los criterios de racionalidad, austeridad y disciplina presupuestal, para optimizar la aplicación de recursos en conceptos de gasto corriente.
+Los sujetos de la Ley serán responsables de la observancia de los criterios de racionalidad, austeridad y disciplina presupuestal, para optimizar la aplicación de recursos en conceptos de gasto corriente.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DEL 2020)</small>
 
 Para efectos de lo dispuesto en el párrafo anterior, los sujetos de la Ley por conducto de la Secretaría, la Tesorería o el Órgano de Administración según corresponda, deberán emitir los lineamientos generales de racionalidad, austeridad y disciplina presupuestal, a más tardar el treinta y uno de diciembre del ejercicio inmediato anterior al que aplicarán dichos lineamientos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 Asimismo, deberán establecer en las disposiciones administrativas respectivas, medidas permanentes para la reducción y racionalización del gasto corriente, previendo un uso eficaz y transparente de los recursos públicos.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-Los ahorros y economías generados como resultado de la aplicación de los lineamientos y medidas a que se refiere este artículo, deberán destinarse conforme a lo previsto en el artículo 59, segundo párrafo de esta Ley.
+Los ahorros presupuestarios generados como resultado de la aplicación de los lineamientos y medidas a que se refiere este artículo deberán destinarse conforme a lo previsto en el artículo 59, segundo párrafo de esta Ley.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -701,9 +1029,13 @@ En la ejecución del gasto público, los sujetos de la Ley deberán realizar sus
 
 I. Sólo podrán comprometer recursos con cargo al presupuesto autorizado, contando previamente con la suficiencia presupuestaria, identificando la fuente de ingresos;
 
-II. Podrán realizar erogaciones adicionales a las aprobadas en los presupuestos de egresos con cargo a ingresos excedentes y con la autorización previa de la Secretaría o Tesorería, según corresponda;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-III. Con anterioridad al ejercicio o contratación de cualquier programa o proyecto de inversión cuyo monto rebase el equivalente a 10 millones de Unidades de Inversión, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil.
+II. Podrán realizar erogaciones adicionales a las aprobadas en los presupuestos de egresos con cargo a disponibilidades de ejercicios anteriores e ingresos excedentes, con la autorización previa de la Secretaría o Tesorería, según corresponda;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE ENERO DE 2021)</small>
+
+III. Con anterioridad al ejercicio o contratación de cualquier programa o proyecto de inversión cuyo monto rebase el equivalente a 10 millones de Unidades de Inversión, los ejecutores deberán realizar un análisis costo beneficio, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil.
 
 La Secretaría y la Tesorería, en el ámbito de su competencia y conforme a los requisitos que determinen, serán las encargadas de realizar la evaluación del análisis socioeconómico a que se refiere el párrafo anterior; así como de integrar y administrar el registro de proyectos de inversión pública productiva. En el ámbito municipal, lo dispuesto en este párrafo sólo será aplicable para los municipios de más de 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
 
@@ -711,7 +1043,9 @@ Tratándose de proyectos de Inversión pública productiva que se pretendan cont
 
 Las evaluaciones referidas en esta fracción deberán publicarse en la página oficial de Internet de la Secretaría o Tesorería, según sea el caso; y
 
-IV. Sólo procederá hacer pagos con base en el Presupuesto de Egresos autorizado, y por los conceptos efectivamente devengados, siempre que se hubieren registrado y contabilizado debida y oportunamente las operaciones consideradas en éste.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+IV. El ejecutor del gasto será responsable de solicitar los trámites de pagos con base en el presupuesto de egresos autorizado, y por los conceptos efectivamente devengados, siempre que se hubieren registrado y contabilizado debida y oportunamente las operaciones consideradas en este.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -723,11 +1057,15 @@ Ningún gasto podrá efectuarse sin que exista partida expresa del presupuesto d
 
 La Secretaría o la Tesorería según corresponda, autorizará previamente los pagos o erogaciones de fondos que deban hacerse, con cargo a los presupuestos de egresos, con las excepciones que la propia Secretaría o Tesorería establezca y determinará la forma de justificar y comprobar los pagos a su cargo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+###### Artículo 58 Bis.
 
-Artículo 58 bis.- Los poderes, organismos autónomos, dependencias y entidades deberán cubrir las contribuciones federales, estatales y municipales correspondientes, así como las obligaciones de cualquier índole que se deriven de actos jurídicos emitidos por la autoridad competente, con cargo a sus presupuestos y de conformidad con la legislación aplicable.
+Los sujetos de la Ley deberán cubrir las contribuciones federales, estatales y municipales correspondientes, así como las obligaciones de cualquier índole que se deriven de actos jurídicos emitidos por la autoridad competente, con cargo a sus presupuestos y de conformidad con la legislación en la materia.
+
+Las dependencias y entidades que no puedan cubrir la totalidad de las obligaciones que deriven de actos jurídicos conforme a lo previsto en el párrafo anterior, presentarán ante la autoridad competente un programa de cumplimiento de pago que deberá ser considerado para todos los efectos legales en vía de ejecución respecto de la resolución que se hubiese emitido, con la finalidad de cubrir las obligaciones hasta por un monto que no afecte los objetivos y metas de los programas prioritarios, sin perjuicio de que el resto de la obligación deberá pagarse en los ejercicios fiscales subsecuentes conforme a dicho programa.
+
+Los poderes Legislativo y Judicial y los organismos autónomos en caso de ser necesario establecerán una propuesta de cumplimiento de obligaciones, observando en lo conducente lo dispuesto en este artículo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -735,15 +1073,15 @@ Artículo 58 bis.- Los poderes, organismos autónomos, dependencias y entidades 
 
 Artículo 58 ter.- Para el ejercicio de los recursos correspondientes a los gastos de difusión, las dependencias y entidades de la administración pública estatal requerirán sin excepción, de la validación del área u órgano competente en materia de comunicación social del Poder Ejecutivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### Artículo 59.
 
-En función de la productividad y eficiencia de la Administración Pública del Estado, el Ejecutivo, por conducto de la Secretaría, podrá determinar reducciones, diferimientos o cancelaciones de programas y conceptos de gasto de las dependencias y entidades, cuando ello represente la posibilidad de obtener ahorros y economías. En el caso de la Administración Pública Municipal, esta atribución la tendrá el Ayuntamiento.
+En función de la productividad y eficiencia de la administración pública estatal, el Ejecutivo, por conducto de la Secretaría, podrá determinar reducciones, diferimientos o cancelaciones de programas y conceptos de gasto de las dependencias y entidades, cuando ello represente la posibilidad de obtener ahorros presupuestarios. En el caso de la administración pública municipal, esta atribución la tendrá el Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-Los remanentes por concepto de ahorros y economías que se generan en los términos del párrafo anterior, así como los que resulten por concepto de un costo financiero de la deuda pública menor al presupuestado, se destinarán en primer lugar a corregir desviaciones del balance presupuestario de recursos disponibles negativo, y en segundo lugar a programas prioritarios o a gastos de inversión de conformidad con las reglas de procedimiento que para el efecto se expidan.
+Los remanentes por concepto de ahorros presupuestarios que se generan en los términos del párrafo anterior, así como los que resulten por concepto de un costo financiero de la deuda pública menor al presupuestado, se destinarán en primer término a corregir desviaciones del balance presupuestario de recursos disponibles negativo, y en segundo lugar a programas prioritarios o a gastos de inversión de conformidad con las reglas de procedimiento que para el efecto se expidan.
 
 Los Poderes Legislativo y Judicial y los Organismos Autónomos, por conducto de su Órgano de Administración, tendrán las atribuciones antes señaladas.
 
@@ -753,21 +1091,31 @@ El Ejecutivo del Estado por conducto de las Dependencias y Entidades encargadas 
 
 Los convenios mencionados en el párrafo anterior, se celebrarán por conducto de las Dependencias y Entidades que correspondan y señalarán las funciones específicas que competa realizar a los Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
 ###### Artículo 61.
 
-El Ejecutivo del Estado, por conducto de las Dependencias y Entidades, deberá observar que los convenios que celebre con la Federación y con los Ayuntamientos, se realicen de conformidad con las prioridades y estrategias de los planes y programas estatales.
+El Ejecutivo del Estado, por conducto de las dependencias y entidades, deberá observar que los convenios que celebre con la Federación y con los ayuntamientos se realicen de conformidad con las prioridades y estrategias de la planeación de desarrollo del Estado.
 
-El Ayuntamiento por conducto de sus Dependencias y Entidades, deberá observar que los convenios que celebre con la Federación y el Estado, se realicen de conformidad con las prioridades y estrategias previstas en los planes y programas municipales.
+El Ayuntamiento por conducto de sus dependencias y entidades, deberá observar que los convenios que celebre con la Federación y el Estado se realicen de conformidad con las prioridades y estrategias de la planeación de desarrollo del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
+
+###### Artículo 61 Bis.
+
+Cuando se suscriban convenios u otros instrumentos jurídicos por parte de las dependencias, entidades u organismos autónomos con la Federación, que impliquen concurrencia o aportación de recursos por parte del Estado, los mismos estarán sujetos al monto convenido considerando la disponibilidad presupuestal que al efecto determine la Secretaría.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-Artículo 61 bis.- Cuando se suscriban convenios u otros instrumentos jurídicos por parte de las dependencias, entidades u organismos autónomos con la Federación, que impliquen concurrencia o aportación de recursos por parte del Estado, los mismos estarán sujetos a la disponibilidad presupuestal que al efecto determine la Secretaría.
-
 En la gestión, suscripción, ejecución, control y seguimiento de los convenios u otros instrumentos jurídicos que impliquen la transferencia o aportación de recursos federales, las dependencias, entidades y organismos autónomos se sujetarán a las disposiciones normativas aplicables.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+
 En la suscripción de convenios o instrumentos jurídicos que el Estado de Guanajuato celebre con los órdenes de gobierno federal, municipal o de otras entidades federativas, que tengan como propósito transferir al Estado recursos con destinos de gasto específicos, deberá comparecer la Secretaría, así como las dependencias o entidades que tengan a su cargo la ejecución de los recursos correspondientes o asuman alguna obligación.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+Los ejecutores de gasto de los recursos referidos en el presente artículo serán responsables en la ejecución, control y seguimiento de los convenios e instrumentos jurídicos, así como la aplicación de los recursos que tienen a su cargo y de los cuales asumen obligaciones, bajo la supervisión de su coordinadora de sector.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -776,6 +1124,30 @@ Artículo 61 ter.- El Ejecutivo del Estado y los ayuntamientos, por conducto de 
 En el ámbito estatal, cuando los ingresos excedentes especificados en el párrafo anterior superen el 6.5% de los ingresos proyectados, se requerirá la autorización del Congreso para que el Ejecutivo pueda ejercerlos.
 
 Las ampliaciones líquidas por ingresos excedentes derivados de ingresos de libre disposición, con exclusión de aquéllos que tengan un destino específico, deberán destinarse exclusivamente a los rubros señalados en el artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, aplicarse conforme a lo dispuesto en dicho artículo y demás aplicables de la mencionada Ley, y reflejarse en los respectivos informes financieros trimestrales, así como en la cuenta pública que se rinda al Congreso.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+###### Artículo 61 Ter 1.
+
+Las dependencias y entidades deben procurar que las adecuaciones presupuestarias y de metas que impliquen recursos de origen estatal sean mínimas, privilegiando la eficacia y la eficiencia en el ejercicio del gasto público.
+
+Tratándose de recursos de origen federal, se estará a lo previsto en la normatividad federal.
+
+En casos debidamente justificados, la Secretaría podrá autorizar adecuaciones presupuestarias al Presupuesto de Egresos aprobado, siempre y cuando, se garantice el cumplimiento de los objetivos de los programas a cargo de los sujetos de la ley, y las cuales podrán tratarse de:
+
+I. Modificaciones a las estructuras:
+
+a) Administrativa;
+
+b) Funcional y programática; y
+
+c) Económica.
+
+II. Modificaciones a los calendarios de presupuesto; y
+
+III. Ampliaciones y reducciones líquidas al Presupuesto de Egresos.
+
+Previa solicitud y justificación de las dependencias y entidades, la Secretaría o la Tesorería podrá autorizar adecuaciones presupuestales a sus proyectos de inversión, siempre y cuando se garantice el cumplimiento de los alcances en el ejercicio, así como el gasto de los recursos presupuestales conforme al calendario, en términos de lo dispuesto en los Lineamientos que emita la Secretaría o la Tesorería.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -793,17 +1165,29 @@ El Órgano de Gobierno de los Poderes Legislativo y Judicial y de los Organismos
 
 Los traspasos presupuestales realizados con base en la disposición anterior, deberán informarse al Congreso del Estado a través de la cuenta pública; asimismo, el Órgano de Gobierno del Poder Legislativo lo hará al rendir al Pleno el informe financiero correspondiente.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
 ###### Artículo 64.
 
-En el ejercicio de sus presupuestos de egresos, los sujetos de la Ley, deberán presentar a la Secretaría o a la Tesorería, según corresponda, su propuesta de calendario de gastos.
+En el ejercicio de sus presupuestos de egresos, los sujetos de la Ley deberán apegarse a su calendario de gastos, tomando en consideración las necesidades institucionales y la oportunidad en la ejecución de los recursos para el mejor cumplimiento de los objetivos de los programas, dando prioridad a los programas sociales y de infraestructura, en apego a las disposiciones administrativas emitidas por la Secretaría o la Tesorería.
 
-La Secretaría o la Tesorería según corresponda, con base en las propuestas señaladas en el párrafo anterior y en los ingresos disponibles, elaborará el calendario definitivo de gastos, dentro de los diez días hábiles siguientes al de la recepción de las propuestas; lo anterior, sin perjuicio de que las erogaciones por servicios personales y algún otro gasto urgente se efectúe fuera de los calendarios referidos.
+Lo anterior, sin perjuicio de que las erogaciones por servicios personales y algún otro gasto urgente se efectúen fuera de los calendarios referidos.
+
+Los calendarios a que se refiere el primer párrafo de este artículo deberán ser en términos mensuales y compatibilizar las estimaciones de avance de metas con los requerimientos periódicos de recursos para alcanzarlas.
 
 ###### Artículo 65.
 
 No se podrán realizar adecuaciones a los calendarios de gasto que tengan por objeto anticipar la disponibilidad de los recursos, salvo que se trate de operaciones que cuenten con la previa autorización de la Secretaría o de la Tesorería según corresponda.
 
 Las Dependencias y Entidades, los Poderes Legislativo y Judicial y los Organismos Autónomos deberán observar un cuidadoso registro y control de su ejercicio presupuestal, sujetándose a los compromisos reales de pago.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+###### Artículo 65 Bis.
+
+La ministración de recursos correspondientes será autorizada en todos los casos por la Secretaría o la Tesorería, de conformidad con el Presupuesto de Egresos, y atenderá a los calendarios de gasto que se elaborarán con base en las prioridades y requerimientos de los sujetos de la Ley, con el objeto de lograr una mayor eficacia en el uso de los recursos públicos.
+
+Para la recepción de los recursos aludidos en el párrafo anterior, los sujetos de la Ley deberán abrir cuentas bancarias productivas.
 
 ###### Artículo 66.
 
@@ -879,9 +1263,11 @@ Del ejercicio de esta facultad, el Ejecutivo y los ayuntamientos notificarán al
 
 Tratándose de los Poderes Legislativo y Judicial y de los Organismos Autónomos, en el ámbito de sus respectivas competencias, las reducciones, diferimientos, cancelaciones o ajustes a los montos de sus presupuestos, serán determinados por el Órgano de Gobierno respectivo aplicándose, en lo conducente, lo dispuesto en este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
+
 ###### Artículo 68.
 
-Los montos presupuestales no ejercidos conforme a la calendarización de gastos se aplicarán preferentemente a programas prioritarios o gastos de inversión de la Administración Pública del Estado o de los Municipios, sujetándose a las disposiciones administrativas que al efecto expida la Secretaría o el Ayuntamiento según sea el caso, sin que puedan ser destinados al pago de salarios u otros conceptos análogos de los servidores públicos.
+Los montos presupuestales no ejercidos mensualmente conforme al calendario de gasto se aplicarán por la Secretaría o la Tesorería preferentemente a programas prioritarios o gastos de inversión de la administración pública estatal o de los municipios, sin que puedan ser destinados al pago de salarios u otros conceptos análogos de los servidores públicos, sujetándose a las disposiciones administrativas que al efecto expida la Secretaría o el Ayuntamiento.
 
 El Ejecutivo del Estado por conducto de la Secretaría o los Ayuntamientos por conducto de la Tesorería en el ámbito de su competencia, podrán autorizar la recalendarización del gasto de las Dependencias y Entidades, a petición de las mismas, en los casos que así lo justifiquen.
 
@@ -889,29 +1275,29 @@ Tratándose de los Poderes Legislativo y Judicial, los montos presupuestales no 
 
 Las Entidades y los Organismos Autónomos, deberán reintegrar a la Secretaría o Tesorería los montos presupuestales estatales o municipales no ejercidos, según sea el caso.
 
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+La Secretaría o la Tesorería estará facultada para establecer criterios dirigidos a evitar acumulación de saldos o subejercicios presupuestarios.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+La Secretaría o la Tesorería deberá concentrar las asignaciones presupuestales de las dependencias y entidades que no se hayan comprometido al término de las fechas de pre-cierre establecidas en los lineamientos correspondientes que emita en el ámbito de su competencia.
+
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 69.
 
 Todas las propuestas de creación o modificación de partidas o clasificadores a sus respectivos presupuestos de egresos, deberán ser autorizadas por el Ejecutivo del Estado, a través de la Secretaría, o por el Órgano de Gobierno de los poderes Legislativo o Judicial y de los organismos autónomos o por el Ayuntamiento, en el ámbito de sus competencias, sujetándose a las disposiciones normativas aplicables en la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### Artículo 70.
 
-Los ejecutores del gasto serán responsables de la gestión por resultados de los recursos aprobados en sus presupuestos; para ello, deberán cumplir los objetivos y metas contenidos en sus programas presupuestarios, conforme a lo dispuesto en los presupuestos de egresos, programas de Gobierno y en la demás normativa aplicable. Los titulares de las dependencias o entidades informarán periódicamente de los resultados obtenidos a la Secretaría o al Ayuntamiento, según corresponda.
+Los ejecutores del gasto serán responsables de la gestión por resultados; para ello deberán cumplir con oportunidad y eficiencia las metas y objetivos previstos en sus programas presupuestarios, conforme a lo dispuesto en los presupuestos de egresos, en la planeación de desarrollo del Estado, en esta Ley y en la demás normativa. Las dependencias o entidades informarán periódicamente de los resultados obtenidos a la Secretaría o al Ayuntamiento, según corresponda.
 
 En el caso de los Poderes Legislativo y Judicial y de los Organismos Autónomos, en el cumplimiento de sus programas presupuestarios observarán los indicadores referidos en el párrafo anterior; asimismo, la información correspondiente al avance de sus programas, la concentrará el Órgano de Administración, informando del estado que guardan al Órgano de Gobierno.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
-
-No deberán acordarse erogaciones que impidan el cumplimiento de las metas aprobadas en los programas presupuestarios, excepto cuando las leyes aplicables así lo permitan.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
@@ -927,23 +1313,37 @@ Asimismo, serán las instancias competentes para emitir los instrumentos jurídi
 
 Los poderes Legislativo y Judicial, así como los organismos autónomos, en el ámbito de sus respectivas competencias, observarán en lo conducente, lo dispuesto en el presente Capítulo.
 
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+###### Artículo 70 Ter.
+
+El control presupuestario en las dependencias y entidades se sujetará a las políticas y disposiciones generales que determine la Secretaría. Las dependencias y entidades, con base en dichas políticas y disposiciones, realizarán las siguientes acciones:
+
+I. Los titulares de las dependencias y entidades vigilarán la forma en que las estrategias básicas y los objetivos de control presupuestario sean conducidas y alcanzados. Asimismo, deberán atender los informes que en materia de control y auditoría que les sean turnados; de igual forma vigilarán y se responsabilizarán de la implementación de las medidas preventivas y correctivas;
+
+II. Los subsecretarios o equivalentes de las dependencias, así como los directores generales o equivalentes de las entidades, encargados de la administración interna, definirán las medidas de implementación de control presupuestario; tomarán las acciones para corregir las deficiencias detectadas; y
+
+III. Los servidores públicos que realicen registros dentro del sistema que controle las operaciones presupuestarias, serán responsables dentro del ámbito de su competencia.
+
+Los poderes Legislativo y Judicial, los ayuntamientos, así como los organismos autónomos establecerán sistemas de control presupuestario, observando en lo conducente lo dispuesto en las fracciones anteriores.
+
 ###### Artículo 71.
 
 La Secretaría y la Tesorería según corresponda, podrán solicitar y obtener de las Dependencias y Entidades, la información programática-presupuestal que se requiera para el seguimiento del ejercicio del presupuesto de egresos, de conformidad con las prioridades y estrategias establecidas en los planes y programas contemplados en las leyes de la materia.
 
 La misma atribución tendrá el Órgano de Administración de los Poderes Legislativo y Judicial y de los Organismos Autónomos, respecto de los planes y programas de éstos.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### Artículo 72.
 
-La Secretaría, la Tesorería y los Órganos de Control establecerán, dentro de sus respectivas competencias, los lineamientos necesarios para integrar la información que requieran en materia de gasto público. Las Dependencias y Entidades deberán remitir la información que se les requiera, a más tardar dentro de los diez días hábiles siguientes a aquél en que se formule la solicitud.
+La Secretaría, la Tesorería y los órganos internos de control establecerán, dentro de sus respectivas competencias, los lineamientos para integrar la información que requieran en materia de gasto público. Las dependencias y entidades deberán remitir la información que se les requiera, a más tardar dentro de los diez días hábiles siguientes a aquel en que se formule la solicitud.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### Artículo 73.
 
-La Secretaría y la Tesorería realizarán periódicamente la evaluación financiera del ejercicio del presupuesto de egresos modificado en función de su calendarización y con base en los resultados de los indicadores. Los objetivos y metas de los programas presupuestarios aprobados y sus modificaciones, serán analizados y evaluados por los Órganos de Control.
+La Secretaría y la Tesorería realizarán periódicamente la evaluación financiera del ejercicio del presupuesto de egresos modificado en función de su calendarización y con base en los resultados de los indicadores. Los objetivos y metas de los programas presupuestarios aprobados y sus modificaciones serán analizados y evaluados por los órganos internos de control.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -959,45 +1359,45 @@ El Presidente Municipal informará trimestralmente al Ayuntamiento sobre la pres
 
 Artículo 74 bis.- Los Poderes Ejecutivo, Legislativo, Judicial, Organismos Autónomos y Municipios, en el ámbito de sus competencias, diseñarán, administrarán y operarán su Sistema de Evaluación del Desempeño.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### Artículo 75.
 
-Una vez concluida la vigencia del presupuesto de egresos modificado, sólo procederá hacer pagos con base en él, por el gasto efectivamente devengado en el año que corresponda. En estos casos deberán contabilizarse debida y oportunamente las operaciones y haberse registrado en el informe de cuentas por pagar que integran el pasivo circulante al cierre del ejercicio, conforme a las disposiciones normativas aplicables en la materia.
+Posterior al cierre del ejercicio fiscal correspondiente, sólo procederán pagos con cargo al presupuesto de egresos respectivo por los conceptos efectivamente devengados en el año que corresponda, siempre que se hubieran contabilizado debida y oportunamente las operaciones respectivas y haberse registrado en el informe de cuentas por pagar que integran el pasivo circulante, conforme a las disposiciones normativas en la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
-
-Los poderes, organismos autónomos, así como las dependencias y entidades de la administración pública estatal que al 31 de diciembre del ejercicio fiscal que corresponda no hayan ejercido sus asignaciones presupuestales y sus adecuaciones, deberán reintegrarlas a la Secretaría durante los primeros diez días hábiles del mes de enero inmediato siguiente, con excepción de aquellos recursos que se encuentren formalmente comprometidos, devengados y no pagados a esa fecha.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Los poderes, organismos autónomos, así como las dependencias y entidades de la administración pública estatal, deberán entregar a la Secretaría, en los plazos que esta determine, los recursos estatales que, al 31 de diciembre del ejercicio fiscal inmediato anterior, no hayan sido comprometidos.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 Tratándose de las dependencias y entidades de la administración pública municipal, el reintegro a que se refiere el párrafo anterior se realizará ante la Tesorería.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+De igual manera, se deberá reintegrar el monto de los rendimientos que resulten a la fecha en que se realice el depósito correspondiente
 
-En caso de que dichos recursos se encuentren en cuentas bancarias productivas, también se reintegrará el monto de los rendimientos que resulten durante el tiempo del depósito.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Tratándose de los gastos comprometidos al 31 de diciembre del ejercicio fiscal respectivo, quedará a consideración de la Secretaría o la Tesorería, la autorización correspondiente, para que los mismos puedan ser ejercidos en el año inmediato posterior. En los poderes Legislativo y Judicial, así como en los organismos autónomos, estas atribuciones las ejercerán los órganos de administración en el ámbito de sus respectivas competencias.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO , P.O. 26 DE ENERO DE 2021)</small>
 
-Tratándose de los gastos comprometidos al 31 de diciembre del ejercicio fiscal respectivo, quedará a consideración de la Secretaría o la Tesorería, la autorización correspondiente, para que los mismos puedan ser cubiertos en el ejercicio inmediato posterior. En los poderes Legislativo y Judicial, así como en los organismos autónomos, estas atribuciones las ejercerán los órganos de administración en el ámbito de sus respectivas competencias.
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Los pasivos referidos en el primer párrafo de este artículo deberán pagarse a más tardar el último día hábil de enero del año inmediato siguiente.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-Los pagos de los gastos devengados a los que se alude en el párrafo segundo de este artículo, deberán realizarse a más tardar el último día hábil de enero del año inmediato siguiente. Tratándose de gastos de inversión, operación o programas cuya normativa de aplicación demande un plazo mayor, la Secretaría y la Tesorería podrán autorizar excepcionalmente la prórroga que corresponda en el ámbito de su respectiva competencia y las unidades administrativas competentes en los poderes Legislativo y Judicial, así como en los organismos autónomos, previa solicitud debidamente justificada.
+Tratándose de gastos de inversión, operación o programas cuya normativa de aplicación demande un plazo mayor, la Secretaría y la Tesorería podrán autorizar la prórroga que corresponda en el ámbito de su respectiva competencia y las unidades administrativas competentes en los poderes Legislativo y Judicial, así como en los organismos autónomos, previa solicitud debidamente justificada.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-En el caso de reintegro de las transferencias federales etiquetadas se estará a lo dispuesto en el artículo 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+En el caso de reintegro de las transferencias federales etiquetadas se estará a lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+Los poderes Legislativo y Judicial, organismos autónomos, y entidades que cuenten con recursos estatales correspondientes a ejercicios fiscales anteriores y que no estén comprometidos en el ejercicio fiscal vigente, deberán reintegrarlos a la Secretaría, dentro de los primeros diez días hábiles del ejercicio fiscal en curso, incluyendo los rendimientos financieros generados a la fecha del reintegro.
 
 ###### Artículo 76.
 
@@ -1063,43 +1463,47 @@ Artículo 78 quáter.- El Ejecutivo del Estado, por conducto de las dependencias
 
 ### CAPÍTULO SEGUNDO. DEL GASTO DE INVERSIÓN Y OPERACIÓN DE PROGRAMAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+###### Artículo 78 Quinquies.
 
-Artículo 78 quinquies.- El ejercicio del gasto de inversión pública estatal deberá sujetarse a lo siguiente:
+Los titulares de las dependencias y entidades autorizadas para ejercer gasto de inversión serán responsables de:
 
-I.- Se otorgará prioridad a la terminación de los proyectos y obras en proceso;
+I. Identificar los proyectos de inversión que contribuyan al cumplimiento de las metas asignadas en la planeación para el desarrollo del Estado, considerando la totalidad del recurso previsto para su ejecución;
 
-II.- Las dependencias y entidades sólo podrán iniciar proyectos nuevos cuando cuenten y acrediten lo siguiente:
+II. Otorgar prioridad a la realización de los proyectos de inversión que generen mayores beneficios netos para la sociedad, privilegiando la terminación de aquellos que están en proceso;
 
-a) La factibilidad respectiva por la Dependencia o la Entidad normativa que corresponda;
+III. Las dependencias y entidades sólo podrán iniciar proyectos nuevos cuando cuenten y acrediten lo siguiente:
+
+a) La factibilidad respectiva por la dependencia o la entidad normativa que corresponda;
 
 b) La autorización de inversión correspondiente;
 
 c) La garantía sobre la disponibilidad de recursos financieros para la ejecución de la etapa prevista a realizarse en el ejercicio fiscal correspondiente; y
 
-d) El cumplimiento de las prevenciones contenidas en la legislación y demás normativa aplicable a la inversión correspondiente.
+d) El cumplimiento de las prevenciones contenidas en la legislación y demás normativa que regula a la inversión correspondiente.
 
 En ningún caso podrán iniciar dichos proyectos cuando existan otros similares que puedan ser concluidos con los recursos disponibles;
 
-III.- Se otorgará prioridad a las obras y proyectos productivos, así como a los vinculados a los servicios de beneficio social y económico, tales como: agua potable, alcantarillado, comunicaciones, salud, vivienda y equipamiento rural, procuración de justicia, educación, sistemas de abasto y comercialización y medio ambiente;
+IV. Estimular y promover la concurrencia de recursos de los sectores social y privado y de los distintos órdenes de gobierno en los proyectos de inversión, así como las asociaciones público-privadas y otros esquemas de financiamiento para la ejecución de proyectos y obras de beneficio social;
 
-IV.- Se deberá aprovechar al máximo la mano de obra, los insumos locales y la capacidad instalada;
+V. Abstenerse de convocar, formalizar o modificar contratos de obras públicas y servicios relacionados con las mismas, cuando no cuenten la autorización respectiva emitida por la Secretaría;
 
-V.- Se deberán estimular los proyectos de coinversión con los sectores social, privado y con los gobiernos municipales, así como las asociaciones público-privadas y otros esquemas de financiamiento para la ejecución de proyectos y obras de beneficio social. Se concertará, con arreglo a la legislación aplicable, la participación activa de las comunidades beneficiarias; y
+VI. Reportar a la Secretaría la información sobre el seguimiento y desarrollo de los proyectos de inversión en los términos de las disposiciones generales que esta emita;
 
-VI.- Las dependencias y entidades se abstendrán de convocar, formalizar o modificar contratos de obras públicas y servicios relacionados con las mismas, cuando no cuenten con el oficio de autorización de inversión correspondiente emitido por la Secretaría.
+VII. Promover una mayor capacitación de los servidores públicos que intervengan en la planeación, desarrollo y ejecución de proyectos de inversión en materia de evaluación de los beneficios y costos para la sociedad; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII. Aprovechar al máximo la mano de obra, los insumos locales y la capacidad instalada.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-Artículo 78 sexies.- Los titulares de las dependencias y de las entidades de la administración pública estatal serán responsables de emitir las reglas de operación de los programas de inversión que se señalen en el Presupuesto de Egresos del Estado para el ejercicio fiscal que corresponda, conforme a los términos de este Capítulo.
+###### Artículo 78 Sexies.
 
-Las reglas de operación a que se refiere el presente artículo, deberán emitirse y publicarse en el Periódico Oficial del Gobierno del Estado.
+Los titulares de las dependencias y entidades serán responsables de emitir las reglas de operación de los programas y proyectos de inversión que se señalen en el Presupuesto de Egresos del ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Las reglas de operación a que se refiere el presente artículo deberán publicarse en el Periódico Oficial del Gobierno del Estado.
+
+Los programas y proyectos de inversión federal, que ejecuten las dependencias y entidades estatales, serán aquellos señalados en el Presupuesto de Egresos de la Federación del ejercicio fiscal que corresponda, los cuales se destinarán exclusivamente a los rubros que se estipulen en las reglas de operación, lineamientos, convenios, calendarios y demás normativa federal.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
@@ -1107,7 +1511,9 @@ Artículo 78 septies.- Las reglas de operación de los programas de inversión t
 
 I.- El objetivo y contexto del programa;
 
-II.- La identificación precisa de la población, objetivo y beneficiarios directos, tanto por grupo específico como por región del Estado;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+II.- La identificación precisa de la población objetivo y beneficiarios directos, tanto por grupo específico como por región del Estado;
 
 III.- La Dependencia o Entidad responsable del programa;
 
@@ -1129,7 +1535,9 @@ XI.- Las formas de participación y de corresponsabilidad social;
 
 XII.- Los métodos de comprobación del gasto. Cuando los recursos del programa se transfieran y apliquen por conducto de los municipios, dichos métodos deberán ser incorporados en los convenios respectivos;
 
-XIII.- En su caso, los procesos administrativos que deberán observarse para que los municipios reintegren los recursos derivados de economías, saldos de contratos, sanciones, productos financieros o cualquier otro concepto que amerite su devolución; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+XIII.- En su caso, los procesos administrativos que deberán observarse para que los municipios reintegren los recursos derivados de ahorros presupuestarios, saldos de contratos, sanciones, productos financieros o cualquier otro concepto que amerite su devolución; y
 
 XIV.- Los responsables de resguardar la documentación original comprobatoria que justifique las erogaciones con cargo a recursos estatales.
 
@@ -1168,6 +1576,18 @@ De igual manera, los municipios podrán celebrar convenios entre sí, con el pro
 (sic) 78 decies.- La Secretaría suspenderá las ministraciones de los recursos que integran los programas mencionados en este Capítulo, cuando así lo solicite la Secretaría de la Transparencia y Rendición de Cuentas, como consecuencia de las irregularidades que ésta detecte en las revisiones que realice sobre la aplicación de los recursos, o por falta de información sobre el ejercicio de los mismos.
 
 Dicha suspensión surtirá efectos hasta que se notifique la debida solventación de las irregularidades.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+Artículo 78 Undecies.- Con la finalidad de incluir en el proyecto de Presupuesto de Egresos los programas y proyectos de inversión, en los cuales las dependencias y entidades prevean erogar recursos en el siguiente ejercicio fiscal, deberán documentar a más tardar el último día hábil del mes de julio, su registro en el Banco Integrado de Proyectos o en el sistema que determine la Secretaría, así como la actualización de aquellos ya registrados.
+
+En casos excepcionales y debidamente justificados, la Secretaría podrá ampliar el plazo mencionado en el párrafo anterior haciéndolo del conocimiento de las dependencias y entidades.
+
+Sólo se podrá incorporar en el Presupuesto de Egresos los proyectos contemplados en la cartera de programas y proyectos de inversión. Los nuevos proyectos de inversión que como resultado de su aprobación en el Presupuesto de Egresos no se hubieran registrado previamente, así como los derivados de adecuaciones presupuestarias autorizadas y aquellos cuyo alcance se modifique, deberán contar con el registro en el Banco Integrado de Proyectos, con base en los lineamientos que para tal efecto emita la Secretaría.
+
+Las dependencias y entidades deberán informar a la Secretaría, con base en los lineamientos que esta emita, sobre el desarrollo de los programas y proyectos de inversión, así como sus avances físicos y financieros.
+
+La Secretaría podrá requerir mayor información respecto de las especificaciones económicas, técnicas y sociales, a fin de garantizar la adecuada ejecución de los programas y proyectos de inversión.
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO SEGUNDO], P. O. 16 DE DICIEMBRE DE 2014)
 
@@ -1319,9 +1739,11 @@ En los casos conducentes, la Secretaría, Tesorería u Órgano de Administració
 
 Las conversiones de plazas, renivelaciones de puestos y creación de categorías, podrán llevarse a cabo siempre y cuando se realicen mediante movimientos compensados. Para tal efecto deberán contar con la autorización correspondiente y apegarse a los lineamientos generales que expida la Secretaría, Tesorería u Órgano de Administración, así como a los criterios de homologación de sueldos que se establezcan.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
 ###### Artículo 91.
 
-Las economías que se presenten en los presupuestos de egresos por concepto de servicios personales, deberán aplicarse de conformidad con los criterios establecidos en el segundo párrafo del artículo 59.
+Los ahorros que se presenten en los presupuestos de egresos por concepto de servicios personales deberán aplicarse de conformidad con los criterios establecidos en el segundo párrafo del artículo 59 de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -1355,29 +1777,41 @@ Los ayuntamientos y los Organismos Autónomos establecerán sus sistemas de eval
 
 ### CAPÍTULO QUINTO. DE LOS SUBSIDIOS, INCENTIVOS, TRANSFERENCIAS Y DONACIONES
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
 ###### Artículo 93.
 
-El Ejecutivo del Estado o el Ayuntamiento respectivamente, autorizarán el otorgamiento de subsidios y transferencias que deberán orientarse hacia actividades estratégicas y prioritarias, así como sujetarse a los criterios de selectividad, transparencia y temporalidad, según corresponda en los términos de los presupuestos de egresos, con base en las siguientes disposiciones:
+El Ejecutivo del Estado o el Ayuntamiento respectivamente, autorizarán el otorgamiento de subsidios y transferencias que deberán orientarse hacia actividades estratégicas y prioritarias, así como sujetarse a los criterios de objetividad, equidad, transparencia, publicidad, selectividad y temporalidad.
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+Las dependencias y entidades que otorguen subsidios y transferencias que se encuentren vinculados a programas de inversión deberán observar lo siguiente:
 
-I.- Identificar con precisión a la población a la que se destina, tanto por grupo específico como por región a que se canalicen, así como el propósito o destino principal y la temporalidad de su otorgamiento;
+I. Identificar con precisión a la población a la que se destina, tanto por grupo específico como por región a que se canalicen, así como el propósito o destino principal y la temporalidad de su otorgamiento;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+II. Definir los montos máximos por beneficiario y por porcentaje del costo total del programa;
 
-II.- Asegurar que el mecanismo de distribución, operación y administración garantice que los recursos se entreguen a la población objetivo y se reduzcan los gastos administrativos del programa correspondiente, así como facilitar la evaluación de los beneficios económicos y sociales de su asignación y aplicación;
+III. En los programas de beneficio directo a individuos o grupos sociales, los montos y porcentajes se establecerán con base en criterios redistributivos que deberán privilegiar a la población de menos ingresos y procurar la equidad entre la población a la que se destina, sin demérito de la eficiencia en el logro de los objetivos;
 
-III.- Incorporar mecanismos periódicos de evaluación y seguimiento que permitan ajustar las modalidades de su operación o decidir sobre su terminación;
+IV. Asegurar que el mecanismo de distribución, operación y administración garantice que los recursos se entreguen a la población objetivo y se reduzcan los gastos administrativos del programa correspondiente, así como facilitar la evaluación de los beneficios económicos y sociales de su asignación y aplicación;
 
-IV.- Asegurar la coordinación de acciones para evitar duplicidades en el ejercicio de los recursos y reducir gastos administrativos;
+V. Incorporar mecanismos periódicos de seguimiento, supervisión y evaluación que permitan ajustar las modalidades de su operación o decidir sobre su cancelación;
 
-V.- Procurar que sea el medio más eficaz y eficiente para alcanzar los objetivos y metas que se pretenden en los programas prioritarios y estratégicos; y
+VI. Asegurar la coordinación de acciones entre dependencias y entidades, para evitar duplicidad en el ejercicio de los recursos y reducir gastos administrativos;
 
-VI.- Las demás que establezca la legislación aplicable en la materia.
+VII. Procurar que sea el medio más eficaz y eficiente para alcanzar los objetivos y metas que se pretenden en los programas prioritarios y estratégicos;
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+VIII. Procurar que el mecanismo de distribución, operación y administración otorgue acceso equitativo a todos los grupos sociales y géneros;
 
-La información señalada en las fracciones II y III deberá hacerse pública a través de la página oficial de Internet de la Secretaría o del Municipio, cuando en este último supuesto se trate de subsidios y trasferencias otorgados por el Ayuntamiento.
+IX. Asegurar que el mecanismo de distribución, operación y administración facilite la obtención de información y la evaluación de los beneficios económicos y sociales de su asignación y aplicación;
+
+X. Buscar fuentes alternativas de ingresos para lograr una mayor autosuficiencia y una disminución o cancelación de los apoyos con cargo a recursos presupuestarios;
+
+XI. Prever la temporalidad en su otorgamiento;
+
+XII. Reportar su ejercicio en los informes trimestrales, detallando los elementos a que se refieren las fracciones I a X de este artículo, incluyendo el importe de los recursos; y
+
+XIII. Las demás que establezca la legislación en la materia.
+
+La información señalada en las fracciones I, II, IV, V y XI deberá hacerse pública a través de la página oficial de internet de la Secretaría o del Municipio, cuando en este último supuesto se trate de subsidios y trasferencias otorgados por el Ayuntamiento.
 
 ###### Artículo 94.
 
@@ -1429,11 +1863,11 @@ La falta de alguno de los requisitos señalados en las fracciones anteriores, oc
 
 La Secretaría o la Tesorería, según corresponda, podrá diferir y determinar el orden a que se sujetará la ministración de transferencias que se otorguen, a fin de asegurar la disposición oportuna de recursos para el desarrollo de programas prioritarios.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### Artículo 100.
 
-El Ejecutivo del Estado o los Ayuntamientos, por conducto de la Dependencia que corresponda, verificarán que los subsidios y transferencias otorgados se apliquen efectivamente a los objetivos, programas y metas autorizados, informando a los Órganos de Control para los efectos conducentes.
+El Ejecutivo del Estado o los ayuntamientos, por conducto de la dependencia que corresponda, verificarán que los subsidios y transferencias otorgados se apliquen efectivamente a los objetivos, programas y metas autorizados, informando a los órganos internos de control para los efectos conducentes.
 
 ###### Artículo 101.
 
@@ -1447,9 +1881,9 @@ Para efectos de control presupuestal deberán considerarse como donativos las ay
 
 Para que las Dependencias o Entidades que reciban donativos, puedan aplicarlos, deberán enterar los recursos y solicitar la autorización correspondiente a la Secretaria o Tesorería para su ejercicio.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-Tratándose de la recepción de donativos, las Dependencias o Entidades observarán los lineamientos generales que al efecto emitan la Secretaría o la Tesorería y los Órganos de Control en el ámbito de sus respectivas competencias.
+Tratándose de la recepción de donativos, las dependencias o entidades observarán los lineamientos generales que al efecto emitan la Secretaría o la Tesorería y los órganos internos de control en el ámbito de sus respectivas competencias.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1497,29 +1931,39 @@ Artículo 102 quinquies.- Cualquier adquisición, arrendamiento o contratación 
 
 ### CAPÍTULO SÉPTIMO. DE LA EVALUACIÓN Y RESULTADOS DEL EJERCICIO DEL GASTO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+###### Artículo 102 Sexies.
 
-Artículo 102 sexies.- La Secretaría diseñará, administrará y operará el Sistema de Evaluación del Desempeño, el cual se desarrollará con el fin de que la instancia técnica pueda medir a través de indicadores, la eficacia, eficiencia y economía en la obtención de resultados en la Administración Pública Estatal y proponer, en su caso, las medidas conducentes con base en los programas presupuestarios aprobados y en los instrumentos jurídico-administrativos que emita la Secretaría, que permitan el adecuado ejercicio del gasto público.
+La Secretaría diseñará, administrará y operará el Sistema de Evaluación del Desempeño del Poder Ejecutivo, el cual se desarrollará con el fin de que la instancia técnica pueda medir a través de indicadores, la eficacia, eficiencia y economía en la obtención de resultados en la administración pública estatal y proponer, en su caso, las medidas con base en los programas presupuestarios aprobados y en los instrumentos jurídico-administrativos que emita la Secretaría, que permitan el adecuado ejercicio del gasto público, el cual podrá ser utilizado por los sujetos de la ley a través de los convenios respectivos.
 
-La Tesorería y los órganos de administración, de los poderes Legislativo, Judicial y los organismos autónomos, en el ámbito de su competencia, emitirán y aplicarán su Sistema de Evaluación del Desempeño.
+Los poderes Legislativo, Judicial, organismos autónomos y municipios, en el ámbito de sus competencias, deberán diseñar, administrar y operar su sistema de evaluación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La información de los sistemas de evaluación deberá ser considerada para efectos de la programación, presupuestación y ejercicio de los recursos.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+Los sujetos de la ley deberán considerar los indicadores de los sistemas de evaluación, e incorporarán sus resultados en los informes trimestrales y en la cuenta pública, explicando las causas de las variaciones y su correspondiente efecto económico.
 
-Artículo 102 septies.- Los órganos de control, como instancias técnicas en el ámbito de su competencia, evaluarán el logro de metas y resultados establecidos en los programas, en vinculación con los instrumentos de planeación previstos en la legislación estatal de la materia, de conformidad con las disposiciones jurídicas aplicables y los lineamientos que para tal efecto emitan, coordinándose con las instancias correspondientes.
+La Secretaría y la Tesorería, según corresponda, darán seguimiento periódicamente a los resultados de ejecución de los programas y presupuestos de las dependencias y entidades, con base en el sistema de evaluación. Igual obligación y para los mismos fines, tendrán las dependencias, respecto de sus entidades coordinadas.
 
-Los ejecutores del gasto presentarán informes trimestrales a los órganos de control, para que los mismos procedan a la revisión y evaluación de los resultados obtenidos.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 102 Septies.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+Los órganos internos de control, como instancias técnicas en el ámbito de su competencia, evaluarán el logro de metas y resultados establecidos en los programas, en vinculación con los instrumentos de planeación previstos en la legislación estatal de la materia, de conformidad con las disposiciones jurídicas y los lineamientos que para tal efecto emitan, coordinándose con las instancias correspondientes.
 
-Artículo 102 octies.- La Secretaría, la Tesorería y los órganos de administración, de los poderes Legislativo, Judicial y los organismos autónomos, en el ámbito de su respectiva competencia, publicarán en internet a más tardar el último día hábil del mes de abril del ejercicio fiscal correspondiente, las metodologías e indicadores para las evaluaciones del desempeño, a fin de darlos a conocer a los ejecutores del gasto.
+Los ejecutores del gasto presentarán informes trimestrales a los órganos internos de control, para que los mismos procedan a la revisión y evaluación de los resultados obtenidos.
 
-Los órganos de control, en dicha fecha y por la misma vía, deberán publicar sus respectivos programas anuales de evaluación del desempeño. Asimismo deberán publicar a más tardar a los treinta días posteriores a la conclusión de las evaluaciones, los resultados de las mismas.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
+###### Artículo 102 Octies.
+
+Las evaluaciones podrán efectuarse respecto de las políticas públicas, los programas presupuestarios, procesos y proyectos, y el desempeño de las instituciones encargadas de llevarlos a cabo. Para tal efecto, se establecerán los tipos y métodos de evaluación, los cuales podrán utilizarse de acuerdo a las características de las evaluaciones respectivas.
+
+Las instancias técnicas del poder Ejecutivo, de los poderes Legislativo y Judicial, de los organismos autónomos y de los municipios, en el ámbito de su respectiva competencia, publicarán en internet a más tardar el último día hábil del mes de abril del ejercicio fiscal correspondiente, las metodologías de las evaluaciones, a fin de darlos a conocer a los ejecutores del gasto.
+
+Los órganos internos de control, en dicha fecha y por la misma vía, deberán publicar sus respectivos programas anuales de evaluación.
+
+Los sujetos de la Ley publicarán en su página de internet los indicadores para la evaluación, tratándose del Poder ejecutivo la Secretaría los publicará en su página oficial.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1567,13 +2011,17 @@ El sistema de contabilidad deberá diseñarse y operarse en forma tal que regist
 
 La contabilidad gubernamental de los sujetos de la Ley se sujetará a lo previsto en la Ley General de Contabilidad Gubernamental y demás disposiciones normativas aplicables en la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
+
+###### Artículo 105 Bis.
+
+La Secretaría y la Tesorería, en el ámbito de sus respectivas competencias, vigilarán la exacta observancia de los presupuestos de egresos. Para tales efectos, dictarán las medidas pertinentes de acuerdo con las disposiciones en la materia, señalando los plazos y términos a que deberán ajustarse las dependencias y las entidades en el cumplimiento de las disposiciones de racionalidad, austeridad y disciplina presupuestal y podrán requerir de las propias dependencias y entidades la información que resulte necesaria, comunicando a sus órganos internos de control de las irregularidades y desviaciones de las que tengan conocimiento con motivo del ejercicio de sus funciones.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-Artículo 105 bis.- La Secretaría y la Tesorería, en el ámbito de sus respectivas competencias, vigilarán la exacta observancia de los presupuestos de egresos. Para tales efectos, dictarán las medidas pertinentes de acuerdo con las disposiciones que resulten aplicables, señalando los plazos y términos a que deberán ajustarse las dependencias y las entidades en el cumplimiento de las disposiciones de racionalidad, austeridad y disciplina presupuestal y podrán requerir de las propias dependencias y entidades la información que resulte necesaria, comunicando a sus órganos de control de las irregularidades y desviaciones de las que tengan conocimiento con motivo del ejercicio de sus funciones.
-
 En los poderes Legislativo y Judicial, así como en los organismos autónomos, la ejecución de las acciones relativas al cumplimiento de las disposiciones a que hace referencia el párrafo anterior, estará a cargo de sus órganos de administración.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 Del cumplimiento a lo dispuesto en este artículo se informará al Congreso del Estado en las cuentas públicas respectivas.
 
@@ -1587,7 +2035,9 @@ Artículo 105 ter.- La Secretaría de la Transparencia y Rendición de Cuentas, 
 
 Para tal fin dispondrá lo conducente para que se lleven a cabo las inspecciones y auditorías que se requieran, así como para que se finquen las responsabilidades y se apliquen las sanciones que procedan conforme a la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, sin perjuicio de las sanciones penales y demás efectos legales que deriven. La Secretaría de la Transparencia y Rendición de Cuentas pondrá en conocimiento de tales hechos a la Auditoría Superior del Estado.
 
-Los órganos de control de los poderes Legislativo y Judicial, de los organismos autónomos y de los municipios, en el ejercicio de las atribuciones que en materia de inspección, control y vigilancia les confieren las disposiciones aplicables, comprobarán el cumplimiento de las obligaciones derivadas de esta Ley.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
+Los órganos internos de control, en el ejercicio de las atribuciones que en materia de inspección, control y vigilancia les confieren las disposiciones jurídicas, comprobarán el cumplimiento de las obligaciones derivadas de esta Ley.
 
 ## TÍTULO SEXTO. LAS RESPONSABILIDADES
 
@@ -1720,3 +2170,11 @@ P.O. 24 DE DICIEMBRE DEL 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 302 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 55 DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 305 POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
+
+Artículo Primero. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. La Secretaría emitirá los Lineamientos de Gestión para Resultados en un plazo de sesenta días, contados a partir de la entrada en vigencia del presente Decreto.
