@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-catastro-del-estado-de-michoacan-de-ocampo-105160"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2017-02-01"
+last_updated: "2021-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE CATASTRO DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE LA FUNCIÓN REGISTRAL Y CATASTRAL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 26 DE ENERO DE 2021, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO, UNA VEZ QUE ENTRE EN VIGOR LA LEY DE LA FUNCIÓN REGISTRAL Y CATASTRAL DEL ESTADO DE MICHOACÁN DE OCAMPO]</small>
+
 LEY DE CATASTRO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el martes 30 de diciembre de 2014.
 
@@ -704,3 +706,35 @@ P.O. 1 DE FEBRERO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Remítase el presente Decreto al Gobernador del Estado para su conocimiento y seguimiento.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 500 POR EL QUE “SE EXPIDE LA LEY DE LA FUNCIÓN REGISTRAL Y CATASTRAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, dentro de los 180 días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Seguirán vigentes las Disposiciones previstas en la Ley de Catastro del Estado de Michoacán de Ocampo y la Ley del Registro Público de la Propiedad del Estado de Michoacán, en tanto entra en vigor la Ley de la Función Registral y Catastral del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+Una vez que entre en vigor la Ley de la Función Registral y Catastral del Estado de Michoacán de Ocampo, se abroga la Ley de Catastro del Estado de Michoacán de Ocampo, publicada el 30 de diciembre de 2014, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y la Ley del Registro Público de la Propiedad del Estado de Michoacán, publicada el 3 de febrero de 2012, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y sólo se seguirán aplicando en aquellos asuntos iniciados conforme a las mismas.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos tecnológicos, financieros y materiales con los que cuenta la Dirección de Catastro adscrita a la Secretaría de Finanzas y Administración, y la Dirección de Registro Público de la Propiedad, adscrita a la Secretaría de Gobierno, se transferirán al Instituto, quien a partir del ejercicio fiscal 2021, contará con su propio presupuesto.
+
+###### ARTÍCULO QUINTO.
+
+Los trabajadores de la Dirección de Catastro adscrita a la Secretaría de Finanzas y Administración, así como los trabajadores de la Dirección del Registro Público de la Propiedad adscrita a la Secretaría de Gobierno, serán transferidos al Instituto, en estricta observación de la normativa en la materia y conservando sus respectivos derechos laborales de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Finanzas y Administración del Gobierno del Estado deberá hacer las previsiones presupuestales necesarias para la operación del presente Decreto y establecerá una unidad programática presupuestal específica en el Presupuesto de Egresos del Estado, para el Ejercicio Fiscal 2021.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo del Estado contará con un término de 180 días naturales para la emisión del Reglamento previsto en la presente Ley.
