@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2020-12-04"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -159,7 +159,13 @@ I.- Por ausencia en virtud de comisión de servicio público del municipio, del 
 
 II. Por ausencia en virtud del desempeño de cargos de elección popular.
 
-III. Por ausencia debida a la realización de estudios científicos, profesionales o artísticos.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+III. Por ausencia debida a la realización de estudios o actividades académicas, científicas, profesionales, artísticas y/o por participar en eventos culturales.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2021)</small>
+
+IV. Por ausencia en razón de someterse a estudios clínicos prolongados, a terapias de larga duración o por hospitalización a causa de accidentes, enfermedades comunes, crónicas o epidémicas.
 
 ###### ARTÍCULO 19.
 
@@ -401,11 +407,13 @@ En virtud de su investidura de servidores públicos, los integrantes del ayuntam
 
 Las peticiones que realicen los integrantes del Ayuntamiento deberán hacerse con respeto y atendiendo al interés público.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 50.
 
-Los servidores públicos municipales serán responsables de los delitos o faltas administrativas que cometan en el ejercicio de sus funciones o con motivo de ellas, en atención a lo dispuesto en la Ley General de Responsabilidades Administrativas y demás leyes aplicables. El municipio será responsable solidario por los daños causados por sus servidores con motivo del ejercicio de sus atribuciones, en los términos del Código Penal y del Código Civil para el Estado de Coahuila.
+Los servidores públicos municipales serán responsables de los delitos o faltas administrativas que cometan en el ejercicio de sus funciones o con motivo de ellas, de conformidad con lo previsto en la Ley General de Responsabilidades Administrativas de los Servidores Públicos y demás leyes aplicables.
+
+El municipio será responsable solidario por los daños causados por sus servidores con motivo del ejercicio de sus atribuciones, en los términos de las disposiciones aplicables.
 
 ### CAPÍTULO III. DE LA INSTALACION DEL AYUNTAMIENTO
 
@@ -1343,11 +1351,15 @@ VII. Las demás que determinen las leyes y reglamentos aplicables en materia de 
 
 ### CAPÍTULO IX. DE LAS COMISIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 107.
 
-El Ayuntamiento, dentro de las dos primeras sesiones posteriores a la instalación, a propuesta del presidente municipal o de sus regidores, aprobará la integración de las comisiones que estime necesarias para su eficaz organización administrativa interna y para el mejor desempeño de las facultades y competencias que tiene atribuidas. Las comisiones deberán estudiar los asuntos del ramo administrativo correspondiente, o los asuntos que se les encomiende y, para tal efecto, los analizarán y emitirán un dictamen que someterán a la consideración y aprobación, en su caso, del Ayuntamiento. A cada comisión se le asignará en el presupuesto de egresos una cantidad mensual por concepto de gastos, cuyo monto autorizará el propio Ayuntamiento.
+El Ayuntamiento, a propuesta del Presidente Municipal o de sus Regidores, aprobará la integración de las comisiones que estime necesarias para su eficaz organización administrativa interna y para el mejor desempeño de las facultades y competencias que tiene atribuidas. Las comisiones deberán estudiar los asuntos del ramo administrativo correspondiente, o los asuntos que se les encomiende y para tal efecto, los analizarán y emitirán un dictamen o acuerdo según corresponda a la naturaleza de cada caso y lo someterán a la consideración y aprobación, en su caso, del Ayuntamiento. A cada comisión se le asignará en el presupuesto de egresos una cantidad mensual por concepto de gastos, cuyo monto autorizará el propio Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+Los dictámenes y acuerdos establecidos en el párrafo anterior deberán contener una parte expositiva donde se expresen los argumentos, razones y fundamentos que sustenten el resolutivo.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
 
@@ -1741,9 +1753,9 @@ Son facultades y obligaciones del Contralor Municipal:
 
 I. Planear, programar, organizar y coordinar el sistema de control y evaluación del ejercicio del gasto público municipal, fiscalizando el ingreso y su congruencia con el presupuesto de egresos.
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-II. Vigilar el cumplimiento de la Ley General de Responsabilidades Administrativas y aplicarla en los casos que proceda.
+II. Vigilar el cumplimiento de la Ley General de Responsabilidades Administrativas y demás leyes que integran el Sistema Estatal Anticorrupción, y aplicar el sistema de sanciones cuando proceda.
 
 III. Aplicar las normas y criterios de control y evaluación, vigilando su cumplimiento.
 
@@ -1757,9 +1769,9 @@ VII. Dictaminar los estados financieros de la tesorería municipal y verificar s
 
 VIII. Vigilar que los recursos federales y estatales asignados a los ayuntamientos se apliquen en los términos estipulados en las leyes, reglamentos, convenios, programas y manuales respectivos.
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-IX. Coordinarse con el Auditor Superior del Estado y con el órgano de control del Ejecutivo del Estado, para el cumplimiento de sus funciones.
+IX. Coordinarse con los organismos que integran el Sistema Estatal Anticorrupción. Así como con el Auditor Superior del Estado y con la Secretaría de Fiscalización y Rendición de Cuentas del Poder Ejecutivo, para el cumplimiento de sus funciones.
 
 X. Intervenir, para efectos de verificación y control, en los contratos que emanen de la celebración de convocatorias y licitaciones, y vigilar el cumplimiento de dichos contratos.
 
@@ -1781,7 +1793,11 @@ XV. Verificar que los Servidores Públicos Municipales cumplan con su obligació
 
 Vigilando también que los servidores públicos municipales con cargos directivos, así como los integrantes del Cabildo no intervengan o participen indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tengan interés personal, familiar o de negocios.
 
-XVI. Conocer e investigar los actos, omisiones y conductas de los servidores públicos para fincar responsabilidades administrativas, aplicando las sanciones correspondientes en los términos que las leyes señalen y, en su caso, turnar al Síndico los asuntos cuyos hechos se consideren constitutivos de delito a fin de que éste presente la denuncia y/o querella correspondiente ante el Ministerio Público, presentándole para tal efecto la colaboración que se le requiera.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+XVI. Conocer, investigar y substanciar los actos, omisiones y conductas de los servidores públicos para fincar responsabilidades administrativas, aplicando las sanciones correspondientes en los términos que las leyes señalen o, en su caso, presentar a la Auditoría Superior del Estado, a los Órganos Internos de Control o al Tribunal de Justicia Administrativa, aquellos asuntos relativos a faltas administrativas graves.
+
+Turnar al Síndico los asuntos cuyos hechos se consideren constitutivos de delito a fin de que éste presente la denuncia y/o querella correspondiente ante la Fiscalía Especializada en Delitos por Hechos de Corrupción, prestándole para tal efecto la colaboración que se le requiera.
 
 XVII. Evaluar y coordinar los programas de modernización y mejoramiento de la Administración Pública Municipal.
 
@@ -5218,3 +5234,21 @@ P.O. 4 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 773.- SE ADICIONA EL ARTÍCULO 101 BIS AL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 2021.
+
+[N. DE E TRANSITORIO DEL “DECRETO 827.- SE MODIFICA EL CONTENIDO DEL PRIMER PÁRRAFO Y SE ADICIONA UN SEGUNDO PÁRRAFO, RECORRIENDO EL QUE ACTUALMENTE OCUPA ESA POSICIÓN AL TERCER LUGAR, DEL ARTÍCULO 107 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 828.- SE REFORMA LA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 18 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 834.- SE REFORMA EL ARTÍCULO 50 Y LAS FRACCIONES II, IX Y XVI DEL ARTÍCULO 133, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
