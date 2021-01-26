@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-483-de-la-comision-estatal-de-derechos-humanos-27314
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-27"
-last_updated: "2020-07-03"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 483 DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ENERO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el viernes 27 de diciembre de 2002.
 
@@ -83,9 +83,9 @@ II. Intervenir en los juicios de protección de los derechos humanos conforme a 
 
 III. Formular recomendaciones públicas autónomas, no vinculatorias, así como denuncias y quejas ante las autoridades respectivas, en los términos previstos en la Constitución Política Local; igualmente, formular recomendaciones y observaciones o sugerencias generales a las autoridades del Estado para que dentro del ámbito de su competencia promuevan los cambios y modificaciones de disposiciones legales y reglamentarias, así como de prácticas administrativas, de manera que se generen las condiciones necesarias para que las personas gocen de una mejor protección de los derechos humanos que establecen la Constitución Política de los Estados Unidos Mexicanos, los tratados e instrumentos internacionales en materia de derechos humanos, que el Estado Mexicano haya firmado y ratificado y la Constitución Política del Estado de Veracruz de Ignacio de la Llave, de acuerdo al marco normativo aplicable;
 
-> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2021)</small>
 
-IV. Hacer del conocimiento del Congreso del Estado, por conducto de la Comisión Permanente de Derechos Humanos y Atención a Grupos Vulnerables, y de las autoridades que estime pertinente, el incumplimiento reiterado de las recomendaciones, con la finalidad de que su intervención asegure la efectividad y cumplimiento de las mismas;
+IV. Solicitar al Congreso del Estado o, en los recesos de éste, a la Diputación Permanente, que llame a comparecer a las autoridades o servidores públicos que se nieguen a aceptar o cumplir sus recomendaciones, a efecto de que expliquen el motivo de su negativa. En su caso, las comparecencias se realizarán, con el formato que acuerde el Congreso o la Diputación Permanente, ante la Comisión Permanente de Derechos Humanos y Atención a Grupos Vulnerables del Congreso del Estado, y a las mismas deberá asistir, con derecho de intervenir, quien presida la Comisión Estatal de Derechos Humanos;
 
 V. Turnar a las Comisiones Estatales de Derechos Humanos, los asuntos de su competencia conforme a la legislación aplicable;
 
@@ -547,17 +547,9 @@ Las autoridades y servidores públicos estatales y municipales involucrados en a
 
 Serán responsables penal y administrativamente por los actos u omisiones en que incurran durante o con motivo de la tramitación de quejas, conforme a las disposiciones aplicables.
 
-> <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2021)</small>
 
-ARTÍCULO 28 BIS. El procedimiento a seguir en el caso de que la conducta de omisión se mantenga o se entorpezcan las investigaciones, por parte de autoridades o de los servidores públicos a quienes la Comisión solicite intervenir o colaborar en las mismas, será:
-
-I. La Comisión rendirá un informe al Congreso del Estado, por conducto de la Comisión Permanente de Derechos Humanos y Atención a Grupos Vulnerables, así como a las autoridades competentes, sobre los probables delitos o faltas que hubieren cometido las autoridades o servidores públicos, con el propósito de la aplicación de los procedimientos y, en su caso, de las sanciones que procedan;
-
-II. La Comisión tendrá la facultad de solicitar amonestaciones por escrito, públicas o privadas, según sea el caso, al superior jerárquico de los servidores públicos que incumplan el deber legal a que se refiere el artículo 28 de esta Ley;
-
-III. El Congreso del Estado podrá citar a comparecer a cualquier funcionario de la administración pública estatal y municipal, ante la Comisión Permanente de Derechos Humanos y Atención a Grupos Vulnerables, para que informe las razones de su conducta, cuando la autoridad responsable no acepte o no cumpla total o parcialmente una recomendación;
-
-IV. La Comisión, por conducto del representante legal, estará presente en la comparecencia del servidor público y podrá intervenir en ella en una sola ocasión y sin derecho de réplica.
+ARTÍCULO 28 BIS. En los casos en que las autoridades o los servidores públicos a que se refiere el artículo anterior incumplan las peticiones de la Comisión o entorpezcan las investigaciones, la presidencia de ésta rendirá un informe al Congreso del Estado, por conducto de la Comisión Permanente de Derechos Humanos y Atención a Grupos Vulnerables, así como a las autoridades competentes, sobre los probables delitos o faltas que hubieren cometido las autoridades o servidores públicos, con el propósito de que se les apliquen, en su caso, en términos de las leyes respectivas, los procedimientos y las sanciones correspondientes.
 
 ### CAPÍTULO OCTAVO. DEL RÉGIMEN LABORAL
 
@@ -676,3 +668,11 @@ G.O. 3 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 573 QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 5 DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS PARA EL ESTADO DE VERACRUZ”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+G.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 829 POR EL QUE SE REFORMAN LOS ARTÍCULOS 4 FRACCIÓN IV Y 28 BIS DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
