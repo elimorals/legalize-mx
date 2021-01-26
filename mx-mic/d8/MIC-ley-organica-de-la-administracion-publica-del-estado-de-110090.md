@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-110090"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-29"
-last_updated: "2020-01-20"
+last_updated: "2021-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MIC"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 8 DE OCTUBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Michoacán, el martes 29 de septiembre de 2015.
 
@@ -299,7 +301,7 @@ XXX. Intervenir en auxilio o coordinación con las autoridades federales, en los
 
 XXXI. Organizar, dirigir y vigilar las funciones y archivos del Registro Civil en el Estado;
 
-XXXII. Organizar, dirigir y vigilar las funciones del Registro Público de la Propiedad;
+XXXII. (DEROGADA, P.O. 26 DE ENERO DE 2021)
 
 XXXIII. Auxiliar a las autoridades municipales cuando lo soliciten, en la realización de trámites y gestiones ante las autoridades federales y estatales;
 
@@ -421,7 +423,9 @@ XXVII. Aplicar y, en su caso, condonar las multas por infracciones y recargos a 
 
 XXVIII. Ejercer la facultad económico coactiva, conforme a las leyes;
 
-XXIX. Ejercer la función catastral del Estado, de conformidad con las leyes de la materia;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+XXIX. Ejercer la función catastral del Estado, así como organizar, dirigir y vigilar las funciones del Registro Público de la Propiedad de conformidad con la Ley de la Materia;
 
 XXX. Proporcionar asesoría en materia de interpretación y aplicación de las leyes fiscales estatales, que le sea solicitada por las dependencias, entidades paraestatales del Estado y contribuyentes, así como realizar una labor permanente de difusión, orientación y asistencia fiscal;
 
@@ -1751,13 +1755,37 @@ CUARTO. La observancia del principio de paridad de género a que se refiere el p
 
 Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva y escalonada a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
-###### ARTICULO PRIMERO.
+P.O. 26 DE ENERO DE 2021.
 
-EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA OCHO DE DICIEMBRE DEL AÑO DOS MIL.
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 500 POR EL QUE SE “DEROGA LA FRACCIÓN XXXII DEL ARTÍCULO 18 Y SE REFORMA LA FRACCIÓN XXIX DEL ARTÍCULO 19 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO PRIMERO.
 
-LA MODIFICACION A QUE SE REFIERE EL PRESENTE DECRETO SERA APLICABLE AL TEXTO DE LOS DECRETOS DE CREACION DE LOS ORGANISMOS DESCENTRALIZADOS OBJETO DEL MISMO, Y DEBERA SER ADECUADA LA LEGISLACION ESTATAL, CUANDO ESTA SE REFIERA A SU DENOMINACION ANTERIOR.
+El presente Decreto entrará en vigor, dentro de los 180 días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Seguirán vigentes las Disposiciones previstas en la Ley de Catastro del Estado de Michoacán de Ocampo y la Ley del Registro Público de la Propiedad del Estado de Michoacán, en tanto entra en vigor la Ley de la Función Registral y Catastral del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+Una vez que entre en vigor la Ley de la Función Registral y Catastral del Estado de Michoacán de Ocampo, se abroga la Ley de Catastro del Estado de Michoacán de Ocampo, publicada el 30 de diciembre de 2014, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y la Ley del Registro Público de la Propiedad del Estado de Michoacán, publicada el 3 de febrero de 2012, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y sólo se seguirán aplicando en aquellos asuntos iniciados conforme a las mismas.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos tecnológicos, financieros y materiales con los que cuenta la Dirección de Catastro adscrita a la Secretaría de Finanzas y Administración, y la Dirección de Registro Público de la Propiedad, adscrita a la Secretaría de Gobierno, se transferirán al Instituto, quien a partir del ejercicio fiscal 2021, contará con su propio presupuesto.
+
+###### ARTÍCULO QUINTO.
+
+Los trabajadores de la Dirección de Catastro adscrita a la Secretaría de Finanzas y Administración, así como los trabajadores de la Dirección del Registro Público de la Propiedad adscrita a la Secretaría de Gobierno, serán transferidos al Instituto, en estricta observación de la normativa en la materia y conservando sus respectivos derechos laborales de conformidad con las disposiciones aplicables.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Finanzas y Administración del Gobierno del Estado deberá hacer las previsiones presupuestales necesarias para la operación del presente Decreto y establecerá una unidad programática presupuestal específica en el Presupuesto de Egresos del Estado, para el Ejercicio Fiscal 2021.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo del Estado contará con un término de 180 días naturales para la emisión del Reglamento previsto en la presente Ley.
 
 ###### ARTICULO PRIMERO.
 
