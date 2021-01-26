@@ -4,7 +4,7 @@ identifier: "COA-ley-de-igualdad-entre-mujeres-y-hombres-en-el-estado-de-94480"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2020-07-10"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -93,7 +93,9 @@ La aplicación y debida observancia de esta ley será en los ámbitos público y
 
 Principios rectores.
 
-Son principios rectores de la presente ley, la igualdad de trato y oportunidades, la no discriminación, la igualdad de género, la perspectiva de género, la paridad de género, contenidos en los tratados internacionales, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza y demás disposiciones aplicables en la materia.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+Son principios rectores de la presente ley, la igualdad de oportunidades, la igualdad sustantiva, la no discriminación, la equidad de género, la perspectiva de género y todos aquellos contenidos en los instrumentos internacionales aplicables en la materia, en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Coahuila de Zaragoza, en la Ley General para la Igualdad entre Mujeres y Hombres y demás leyes en la materia.
 
 ###### Artículo 5.
 
@@ -377,29 +379,33 @@ I. Implementar la política municipal en materia de igualdad entre mujeres y hom
 
 II. Coadyuvar con el Gobierno Federal y con el Gobierno Estatal, en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE ENERO DE 2021)</small>
 
 III. Diseñar, formular y aplicar campañas de concientización, así como programas de desarrollo que promuevan los contenidos de la presente ley;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2021)</small>
 
-IV. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales;
+IV. Elaborar el presupuesto de egresos del Municipio con perspectiva de género, para el cumplimiento en el ámbito de su competencia de las políticas, programas y acciones para la igualdad;
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+(REPUBLICADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)
 
-V. Fortalecer la prestación de los servicios públicos de la administración municipal, a través de la formación, capacitación y certificación de las y los servidores públicos en materia de igualdad de género;
+V. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales;
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+(REPUBLICADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)
 
-VI. Fomentar actividades reglamentarias con perspectiva de género;
+VI. Fortalecer la prestación de los servicios públicos de la administración municipal, a través de la formación, capacitación y certificación de las y los servidores públicos en materia de igualdad de género;
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+(REPUBLICADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)
 
-VII. Fomentar la participación equitativa de mujeres y hombres en cargos públicos; y
+VII. Fomentar actividades reglamentarias con perspectiva de género;
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+(REPUBLICADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)
 
-VIII. Diseñar, formular y aplicar campañas permanentes de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta ley le confiere.
+VIII. Fomentar la participación equitativa de mujeres y hombres en cargos públicos; y
+
+(REPUBLICADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)
+
+IX. Diseñar, formular y aplicar campañas permanentes de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta ley le confiere.
 
 ### Capítulo sexto. De la Comisión de Derechos Humanos del Estado de Coahuila
 
@@ -433,15 +439,17 @@ II. Adoptar las medidas necesarias para la erradicación de la violencia contra 
 
 III. Garantizar que la planeación presupuestal incorpore la perspectiva de género, a la transversalidad y prevea el cumplimiento de programas, proyectos, convenios y acciones para la igualdad entre mujeres y hombres;
 
-IV. Fomentar la participación y representación políticas de manera equilibrada entre hombres y mujeres;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+IV. Promover la participación y representación política en igualdad de condiciones para mujeres y hombres bajo el principio de paridad de género vertical y horizontal dentro de las estructuras de los partidos políticos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2016)</small>
 
 V. Establecer medidas para erradicar la violencia de género y la violencia familiar; así como, la protección de los derechos sexuales y reproductivos y sus efectos en los ámbitos público y privado;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-VI. Garantizar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral y social, con el fin de evitar la segregación laboral y eliminar las diferencias remuneratorias, así como potenciar el crecimiento del empresariado femenino y el valor del trabajo de las mujeres, incluido el doméstico, por medio del impulso de políticas y prácticas equitativas de salarios entre ambos sexos a trabajo de igual valor, de acuerdo con lo establecido en el artículo 41 fracción XIV de la presente Ley referente a incentivar a las empresas a que apliquen políticas en la materia;
+VI. Garantizar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral y social, con el fin de evitar la segregación laboral y eliminar las diferencias remuneratorias, así como potenciar el crecimiento del empresariado femenino y el valor del trabajo de las mujeres, incluido el doméstico, por medio del impulso de políticas y prácticas equitativas de salarios, prestaciones, ascensos y crecimiento profesional entre ambos sexos a trabajo de igual valor, de acuerdo con lo establecido en el artículo 41 fracción XIV de la presente Ley referente a incentivar a las empresas a que apliquen políticas en la materia;
 
 VII. Implementar acciones para garantizar la igualdad de acceso y disfrute de los derechos sociales para las mujeres y los hombres promoviendo la eliminación de estereotipos en función del sexo;
 
@@ -1558,3 +1566,9 @@ P.O. 10 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 831.- SE REFORMA EL CONTENIDO DEL ARTÍCULO 4, ASÍ COMO EL CONTENIDO DE LA FRACCIÓN III DEL ARTÍCULO 18, ADICIONANDO UN NUEVO CONTENIDO A LA FRACCIÓN IV Y RECORRIENDO EL ACTUAL A LA FRACCIÓN V, QUE SE CREA; Y SE MODIFICA EL CONTENIDO DE LAS FRACCIONES IV Y VI DEL ARTÍCULO 20 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
