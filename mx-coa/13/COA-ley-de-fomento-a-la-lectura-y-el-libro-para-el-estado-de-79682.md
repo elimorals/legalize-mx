@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fomento-a-la-lectura-y-el-libro-para-el-estado-de-79682"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-15"
-last_updated: "2019-07-12"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79682&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el martes 15 de febrero de 2011.
 
@@ -263,43 +263,49 @@ Son facultades del Consejo Estatal para el Fomento a la Lectura y el Libro Coahu
 
 I. Opinar y, en su caso, emitir recomendaciones y realizar propuestas sobre el proyecto de Programa Estatal para el Fomento a la Lectura y el Libro;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
 
-II. Opinar y emitir recomendaciones sobre la celebración de festivales de lectura y del libro en los Municipios del Estado;
-
-III. Proponer al Gobierno Estatal un listado de publicaciones deseables de libros inéditos o agotados, en especial, los escritos por autores coahuilenses o dedicados a temas relacionados con la entidad;
-
-IV. Asesorar en el diseño de colecciones de libros editados por el Gobierno (sic) Estado;
-
-V. Conocer los programas y fondos establecidos en la materia por las autoridades federales a fin de proponer acciones derivadas de ellos;
+II. Opinar y clasificar los libros de lectura, para que, en coordinación con la Secretaria de Educación, se desarrollen planes que tengan una mayor eficacia de acuerdo a la edad y la comprensión lectora de niñas, niños, jóvenes y adultos,
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2015)</small>
 
-VI. Proponer estrategias que motiven la atención de la población hacia la lectura, apoyando las actividades y eventos que las promuevan;
+III. Opinar y emitir recomendaciones sobre la celebración de festivales de lectura y del libro en los Municipios del Estado;
 
-VII. Promover la participación del sector privado en los esfuerzos de fomento al libro y la lectura;
+IV. Proponer al Gobierno Estatal un listado de publicaciones deseables de libros inéditos o agotados, en especial, los escritos por autores coahuilenses o dedicados a temas relacionados con la entidad;
 
-VIII. Recomendar la creación de nuevas bibliotecas y promover las gestiones necesarias para ello en coordinación con las autoridades competentes;
+V. Asesorar en el diseño de colecciones de libros editados por el Gobierno (sic) Estado;
+
+VI. Conocer los programas y fondos establecidos en la materia por las autoridades federales a fin de proponer acciones derivadas de ellos;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2015)</small>
+
+VII. Proponer estrategias que motiven la atención de la población hacia la lectura, apoyando las actividades y eventos que las promuevan;
+
+VIII. Promover la participación del sector privado en los esfuerzos de fomento al libro y la lectura;
+
+IX. Recomendar la creación de nuevas bibliotecas y promover las gestiones necesarias para ello en coordinación con las autoridades competentes;
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-IX. Opinar sobre si es adecuado el funcionamiento de las bibliotecas existentes en el Estado y hacer propuestas de mejoras; así como proponer la instalación de salas de lectura en reclusorios, albergues para personas con discapacidad, orfanatos y hospitales o centros de salud en general;
+X. Opinar sobre si es adecuado el funcionamiento de las bibliotecas existentes en el Estado y hacer propuestas de mejoras; así como proponer la instalación de salas de lectura en reclusorios, albergues para personas con discapacidad, orfanatos y hospitales o centros de salud en general;
 
-X. Crear una base pública de datos de los libros publicados en el Estado, los escritos por coahuilenses o que traten de historia, geografía, biografías, biodiversidad y otros aspectos relevantes en el Estado;
+XI. Crear una base pública de datos de los libros publicados en el Estado, los escritos por coahuilenses o que traten de historia, geografía, biografías, biodiversidad y otros aspectos relevantes en el Estado;
 
-XI. Recomendar estímulos a los creadores literarios locales y regionales;
+XII. Recomendar estímulos a los creadores literarios locales y regionales;
 
-XII. Proponer acciones para estimular la existencia de promotores de lectura y coordinadores de salas de lectura;
+XIII. Proponer acciones para estimular la existencia de promotores de lectura y coordinadores de salas de lectura;
 
-XIII. Promover la participación del Estado en ferias o festivales nacionales e internacionales del libro;
+XIV. Promover la participación del Estado en ferias o festivales nacionales e internacionales del libro;
 
-XIV. Opinar sobre el diseño de paquetes de apoyo, por parte de la Secretaría de Educación y Cultura para estimular a las librerías establecidas o por establecerse en la entidad; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+XV. Opinar sobre el diseño de paquetes de apoyo, por parte de la Secretaria de Educación y Cultura para estimular a las librerías establecidas o por establecerse en la entidad;
 
-XV. Realizar las gestiones necesarias ante el Gobierno Estatal, cuando un ciudadano solicite que su biblioteca personal se convierta en patrimonio cultural de la entidad, en los términos de la Ley de Desarrollo Cultural para el Estado de Coahuila de Zaragoza.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-XVI. Las demás que determine el Reglamento respectivo.
+XVI. Realizar las gestiones necesarias ante el Gobierno Estatal, cuando un ciudadano solicite que su biblioteca personal se convierta en patrimonio cultural de la entidad, en los términos de la Ley de Desarrollo Cultural para el Estado de Coahuila de Zaragoza; y
+
+XVII. Las demás que determine el Reglamento respectivo.
 
 ###### Artículo 19.
 
@@ -514,6 +520,14 @@ SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 P.O. 12 DE JULIO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 315.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 1° Y SE LE ADICIONAN LAS FRACCIONES VII Y VIII, ASIMISMO SE ADICIONAN LOS ARTÍCULOS 2 BIS, 6 BIS Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 26, RECORRIÉNDOSE LOS ULTERIORES, DE LA LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 826.- SE REFORMA EL CONTENIDO DE LA FRACCIÓN II Y SE RECORRE EL CONTENIDO DE LAS FRACCIONES SUBSECUENTES, DEL ARTÍCULO 18 DE LA LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO ÚNICO.
 
