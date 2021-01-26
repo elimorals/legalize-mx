@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-competitividad-y-ordenamiento-comercial-del-estado-10396
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-18"
-last_updated: "2021-01-05"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2021.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2014.
 
@@ -1613,6 +1613,20 @@ Las comercializadoras, además de los libros auxiliares que deban llevar, deber�
 
 Estos libros auxiliares podrán llevarse en forma digital, siempre y cuando los programas de cómputo respectivos hayan sido previamente autorizados por la Secretaría de Finanzas, a solicitud expresa de parte interesada y previo pago del derecho correspondiente.
 
+> <small>(ADICIONADO, G.G. 26 DE ENERO DE 2021)</small>
+
+La autorización que se expida, será personal e intransferible y tendrá vigencia de doce meses, contados a partir de su fecha de expedición, por lo que al concluir su vigencia deberá refrendarse, previo pago de los derechos correspondientes.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], G.G. 26 DE ENERO DE 2021)</small>
+
+La modificación de la autorización que se expida, procederá en los casos de:
+
+A) Cambio de domicilio.
+
+B) Cambio en la razón o denominación social.
+
+C) Actualización o modificación del programa de cómputo autorizado.
+
 Asimismo, los permisionarios informarán a la Secretaría de Finanzas dentro de los cinco días hábiles siguientes, de la sustitución o adición de peritos valuadores en todas sus unidades económicas.
 
 > <small>(ADICIONADO, G.G. 18 DE ABRIL DE 2016)</small>
@@ -2041,6 +2055,18 @@ La constancia de inscripción de valuadores es un documento personal e intransfe
 
 Los valuadores pagarán en las instituciones bancarias autorizadas el costo aprobado y publicado en el periódico oficial “Gaceta del Gobierno”, de la constancia de inscripción o renovación de valuadores.
 
+> <small>(ADICIONADO, G.G. 26 DE ENERO DE 2021)</small>
+
+Para los casos de extravío, robo o deterioro grave de la constancia de inscripción o renovación de valuadores, el interesado deberá solicitar su reposición ante la misma autoridad que la expidió, dentro de los cinco días hábiles contados a partir del suceso que origine su reposición, previo pago del derecho correspondiente.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], G.G. 26 DE ENERO DE 2021)</small>
+
+Respecto a la modificación de la constancia de inscripción o renovación de valuador, esta procederá en los casos de:
+
+A) Cambio de domicilio de la unidad económica.
+
+B) Cambio en la razón o denominación social de la unidad económica.
+
 ###### Artículo 178.
 
 Los permisionarios informarán a la Secretaría de Finanzas dentro de los cinco días hábiles siguientes de la sustitución o adición de valuadores en todas sus sucursales.
@@ -2261,25 +2287,29 @@ IV. El permisionario, titular o dependiente se oponga, sin causa justificada, a 
 
 V. El permisionario o titular solicite extemporáneamente la revalidación del permiso.
 
-> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2021)</small>
 
-VI. El permisionario o titular, realice avalúos y operaciones sin contar con valuador.
-
-VII. El permisionario, tratándose de casas de empeño, realice operaciones de pignoración o empeño sin el avalúo.
-
-VIII. El permisionario o titular omita presentar el informe mensual, así como el registro que establece esta Ley.
-
-IX. El permisionario o titular se abstenga de presentar las denuncias correspondientes ante el Ministerio Público.
-
-X. El permisionario, tratándose de casas de empeño, acepte empeños sin que el pignorante acredite su identidad.
-
-XI. El titular, tratándose de comercializadora, acepte comprar bienes sin que el proveedor acredite su identidad.
+VI. El permisionario o titular, no realice el refrendo de la autorización para el uso de los programas de cómputo para llevar la información en forma digital del libro auxiliar o bien, la efectúe extemporáneamente.
 
 > <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
 
-XII. El permisionario o titular omita anexar la copia de la factura al registro cuando el monto de la operación exceda de ochenta Unidades de Medida y Actualización.
+VII. El permisionario o titular, realice avalúos y operaciones sin contar con valuador.
 
-XIII. Incumplir con las disposiciones establecidas en esta Ley.
+VIII. El permisionario, tratándose de casas de empeño, realice operaciones de pignoración o empeño sin el avalúo.
+
+IX. El permisionario o titular omita presentar el informe mensual, así como el registro que establece esta Ley.
+
+X. El permisionario o titular se abstenga de presentar las denuncias correspondientes ante el Ministerio Público.
+
+XI. El permisionario, tratándose de casas de empeño, acepte empeños sin que el pignorante acredite su identidad.
+
+XII. El titular, tratándose de comercializadora, acepte comprar bienes sin que el proveedor acredite su identidad.
+
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+XIII. El permisionario o titular omita anexar la copia de la factura al registro cuando el monto de la operación exceda de ochenta Unidades de Medida y Actualización.
+
+XIV. Incumplir con las disposiciones establecidas en esta Ley.
 
 ###### Artículo 192.
 
@@ -2838,3 +2868,13 @@ e) Evaluación Técnica de Factibilidad de Transformación Forestal se entender�
 f) Evaluación Técnica de Factibilidad de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Factibilidad de Distribución de Agua, se entenderá por Evaluación Técnica de Impacto en materia de Agua, Drenaje, Alcantarillado y Tratamiento de Aguas Residuales, así como la Evaluación Técnica de Impacto en materia de Distribución de Agua según corresponda; y
 
 g) Evaluación Técnica de Factibilidad de Impacto de Movilidad se entenderá por Evaluación Técnica de Impacto en materia de Movilidad.
+
+G.G. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 235.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; ASÍ COMO LAS AUTORIZACIONES DE REFINANCIAMIENTO Y/O REESTRUCTURA DE LOS CRÉDITOS FONREC Y PROFISE, DE REESTRUCTURA Y/O REFINANCIAMIENTO DE CERTIFICADOS BURSÁTILES DEL IFREM, DE OBTENCIÓN DE FINANCIAMIENTO GARANTIZADO POR RECURSOS FAFEF Y PARA LA SUSCRIPCIÓN DE CONVENIOS DE REESTRUCTURA POR CONCEPTO DE ADEUDOS CON EL ISSEMYM".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
