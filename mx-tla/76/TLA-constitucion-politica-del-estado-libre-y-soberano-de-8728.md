@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2019-06-20"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -483,17 +483,25 @@ Nadie será sometido a tortura ni a penas o tratos inhumanos o degradantes;
 
 XI. Las libertades de trabajo, comercio e industria tendrán pleno respeto siempre que éstos sean lícitos. El ejercicio profesional se sujetará a la ley de la materia;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-XII. Los menores de edad tienen derecho a la protección física y psicológica, y a que su opinión sea tomada en cuenta en los asuntos que les afecten, en función de su edad y madurez.
+XII. Las niñas, niños y adolescentes, tienen derecho a la protección a su integridad personal y al más alto nivel de salud posible; gozarán de protección reforzada por parte del Estado, asegurándose de cumplir con los principios de universalidad, interdependencia, indivisibilidad, progresividad e interés superior de la niñez.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+En todos los asuntos legislativos, administrativos y judiciales en los que se involucren, de manera directa o indirecta, los derechos de las niñas, niños y adolescentes, las autoridades competentes deberán tomar las acciones tendientes para garantizar su derecho de opinión y participación, la cual será valorada con base a su edad, madurez y desarrollo cognitivo.
 
-En los procedimientos judiciales o administrativos en los que se resuelvan derechos de los menores, se observarán los principios y las garantías del debido proceso legal, atendiendo a las particularidades que se deriven de la situación específica en la que se encuentran los menores, adoptar en el desarrollo de estos procedimientos la intervención personal de los menores, así como las medidas de protección que sean indispensables; y
+Las autoridades implementarán los mecanismos necesarios para salvaguardar la identidad, la integridad y la dignidad humana de las niñas, niños y adolescentes al momento de participar en los asuntos en los que se vean involucrados.
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+El interés superior de la niñez será una consideración primordial para todas las autoridades, debiendo aplicarse como principio, derecho y norma de procedimiento. Las autoridades deberán aplicar de manera transversal el interés superior de la niñez, debiendo fundar y motivar de esta manera cada uno de sus actos y determinaciones. Las niñas, niños y adolescentes tienen derecho a que sus asuntos se resuelvan de manera prioritaria.
 
-XIII. Decidir libremente, bajo las prescripciones y excepciones que marque la ley de la materia; sobre sus órganos, tejidos y células para destinarlos a la donación o para recibirlos en transplante (sic), sin fines de lucro y con el propósito de reducir la morbi-mortalidad por padecimientos susceptibles de ser corregidos mediante este procedimiento. Para tal efecto, el Estado promoverá la cultura de la donación de órganos, tejidos y células y proveerá los procedimientos necesarios para su acceso y aplicación.
+En los casos en que exista vulneración o restricción de derechos de niñas, niños o adolescentes, deberá darse intervención a la autoridad especializada, con la finalidad de instrumentar las acciones necesarias para restituir sus derechos, así como para lograr una reparación integral;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+XIII. Decidir libremente, bajo las prescripciones y excepciones que marque la ley de la materia; sobre sus órganos, tejidos y células para destinarlos a la donación o para recibirlos en trasplante, sin fines de lucro y con el propósito de reducir la morbi-mortalidad por padecimientos susceptibles de ser corregidos mediante este procedimiento. Para tal efecto, el Estado promoverá la cultura de la donación de órganos, tejidos y células y proveerá los procedimientos necesarios para su acceso y aplicación; y
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2021)</small>
+
+XIV. Nadie podrá ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en este párrafo.
 
 > <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2019)</small>
 
@@ -511,27 +519,37 @@ Los ascendientes, tutores y custodios tienen la obligación de preservar y exigi
 
 En el Estado todo proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad, inmediación y por lo previsto en la Constitución Política de los Estados Unidos Mexicanos.
 
-Se establecerá un sistema integral de justicia para los adolescentes que tengan entre doce años cumplidos y menos de dieciocho, a quienes se les atribuya la realización de una conducta tipificada como delito por las leyes penales del Estado; que garanticen los derechos fundamentales previstos por la Constitución Política de los Estados Unidos Mexicanos y la presente Constitución para todo individuo, así como aquellos derechos específicos que por su condición de persona en desarrollo le han sido reconocidos.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+Las personas mayores de doce años y menores de dieciocho años a las que se les atribuya un hecho que la ley señale como delito, tendrán derecho a ser juzgadas por un sistema integral de justicia para adolescentes, tal y como lo prevé la Constitución Política de los Estados Unidos Mexicanos, garantizando y respetando en todo momento los derechos humanos reconocidos en las leyes nacionales y locales, así como por los tratados internacionales de los que el Estado Mexicano sea parte, favoreciendo en todo tiempo a las personas adolescentes la protección más amplia.
 
-La operación del sistema integral de justicia, estará a cargo de mesas investigadoras del ministerio público, juzgados penales, sala especializada y defensores de oficio especializados en la procuración e impartición de justicia para adolescentes.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-El internamiento se utilizará solo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
+El sistema integral de justicia para adolescentes estará a cargo de ministerios públicos, policías, defensores públicos, facilitadores y juzgadores, todos especializados en justicia para adolescentes. Dichas autoridades deberán guiarse, en todo momento, por el interés superior de la niñez, el cual será entendido como derecho, principio y norma de procedimiento dirigido a asegurar el más alto, efectivo y pleno ejercicio de los derechos de las personas adolescentes.
 
-Cuando los adolescentes mayores de doce y menores de catorce años cometan conductas previstas como delito en la ley, se aplicarán medidas de orientación, protección y tratamiento que amerite cada caso, con el fin de lograr su reinserción social y familiar.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-El Ejecutivo del Estado creará el organismo encargado de aplicar las medidas previstas en este párrafo.
+Las medidas de privación de la libertad serán utilizadas únicamente cuando no sea posible la aplicación de otra medida y serán decretadas por el menor tiempo posible. Solo se podrán imponer medidas privativas de la libertad a las personas adolescentes mayores de catorce años, debiendo considerar el grupo etario al que pertenezca la persona adolescente para fijar el plazo máximo de duración. En el caso de la medida cautelar consistente en el internamiento preventivo, solo podrá ser impuesta por los delitos contemplados en el artículo 164 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, debiendo durar como máximo cinco meses, siempre y cuando exista la necesidad de cautela y solo por los delitos que ameriten medida de sanción de internamiento. La prisión preventiva oficiosa no se aplicará a personas adolescentes en ningún caso. El internamiento preventivo solo podrá decretarse cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia de la persona adolescente en el juicio o en el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad.
 
-Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, sólo serán sujetas a rehabilitación y asistencia social a cargo del Ejecutivo.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2015)</small>
+Cuando una persona adolescente cometa un hecho que la ley señala como delito teniendo entre doce y catorce años, no le serán impuestas medidas de sanción privativas de la libertad. La autoridad jurisdiccional, de ser el caso, únicamente podrá imponer una medida de sanción, la cual deberá durar como máximo un año y deberá ser tendiente a lograr la reinserción social y la reintegración familiar de la persona adolescente.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
+Las personas menores de doce años a las que se les atribuya un hecho que la ley señala como delito, únicamente serán sujetas de asistencia social a cargo del Estado y en coordinación con la familia y la sociedad. En los casos en los que una persona menor de doce años sea detenida, deberá ser puesta en inmediata libertad y deberá darse aviso inmediato a quienes ejerzan sobre ella la patria potestad o tutela, así como a la Procuraduría para la Protección de Niñas, Niños y Adolescentes.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
 Las funciones de procuración de justicia en el Estado se realizarán con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-En el Estado de Tlaxcala, toda persona tiene derecho, en la forma y términos establecidos por esta Constitución y las leyes aplicables, a resolver sus conflictos a través de la mediación, la conciliación o el arbitraje. Las leyes preverán tales mecanismos alternativos de solución de controversias.
+En todos los casos sometidos a las autoridades, estas deberán privilegiar la solución del conflicto por encima de los formalismos procedimentales, siempre y cuando no se afecten los derechos de las personas involucradas.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
+Las leyes preverán mecanismos alternativos de solución de controversias. En materia penal regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -1076,6 +1094,10 @@ XIV. Determinar las participaciones que correspondan a los municipios de los imp
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 XV. Expedir leyes que regulen las relaciones de trabajo entre los poderes del Estado, los municipios, organismos autónomos y los organismos paraestatales con sus trabajadores, con base en lo dispuesto por los artículos 115 y 123 de la Constitución Política de los Estados Unidos Mexicanos, así como las relativas al sistema de seguridad social de que deban gozar éstos. Para tal efecto se creará un Tribunal de Conciliación y Arbitraje, con autonomía técnica para emitir sus resoluciones y patrimonio propio, dotado de plena jurisdicción para conocer de los conflictos individuales y colectivos de carácter laboral y de seguridad social, integrado con tres representantes, designados en los términos previstos en la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios;
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2021)</small>
+
+XV Bis. Expedir la ley que regule el funcionamiento del Centro de Conciliación Laboral del Estado, así como nombrar y remover al titular del mismo;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -1685,37 +1707,37 @@ El ministerio público y las instituciones de seguridad pública deberán coordi
 
 ARTICULO 78 BIS.- (DEROGADO, P.O. 1 DE AGOSTO DE 2008)
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE ENERO DE 2021)</small>
+
+### CAPITULO III. DEL CENTRO DE CONCILIACION LABORAL DEL ESTADO DE TLAXCALA
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+ARTICULO 78 TER.- La función conciliatoria en materia laboral, que establece la Constitución Política de los Estados Unidos Mexicanos, estará a cargo del Centro de Conciliación Laboral del Estado de Tlaxcala, el cual será un organismo público descentralizado que tendrá personalidad jurídica y patrimonio propio, especializado e imparcial, contará con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinara en la ley correspondiente.
+
+Para la designación del titular del organismo descentralizado a que se refiere el párrafo anterior, el Gobernador del Estado someterá una terna a consideración del Congreso, el cual previa comparecencia de las personas propuestas, realizará la designación correspondiente dentro del improrrogable plazo de treinta días, contados a partir de la fecha de la recepción de la propuesta. La designación se hará por el voto de las dos terceras partes de los integrantes del Congreso. Si este, no resolviere dentro del plazo mencionado, ocupará el cargo aquél que, designe el Ejecutivo Local de los integrantes de la terna. En caso de que el Congreso rechace la totalidad de la terna propuesta, el Gobernador someterá una nueva. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador.
+
+El nombramiento deberá recaer en una persona que demuestre tener capacidad y experiencia en las materias de la competencia del Centro de Conciliación Laboral; que no haya ocupado un cargo en algún partido político, ni haya ejercido un cargo público de elección popular o sido candidato a alguno en los tres años anteriores a la designación; y no haya sido condenado por delito doloso. Desempeñará su encargo por un periodo de seis años y podrá ser reelecto por una sola ocasión. Sólo podrá ser removido por causa grave en los términos del Título XI de esta Constitución, así como por responsabilidad administrativa grave de conformidad con la Ley General de Responsabilidades Administrativas.
+
+Antes de acudir al Juzgado Laboral, los trabajadores y patrones deberán asistir a la instancia conciliatoria.
+
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
-
-### CAPITULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
 
 ## TITULO VI. DEL PODER JUDICIAL
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO II. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
+### CAPITULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
-
-ARTICULO 84 BIS.- El Tribunal de Justicia Administrativa del Estado de Tlaxcala es un organismo público especializado, que forma parte del Poder Judicial del Estado, dotado de autonomía técnica y de gestión en el ejercicio de sus atribuciones, para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y los recursos para impugnar sus resoluciones. Tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal, municipal y los particulares; imponer en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal, municipal o al patrimonio de los entes públicos locales o municipales, en los términos que establezca la legislación correspondiente.
-
-El Tribunal de Justicia Administrativa del Estado de Tlaxcala estará integrado por tres magistrados, propuestos por el Gobernador del Estado y ratificados por el voto de las dos terceras partes del total de los integrantes de la Legislatura del Congreso del Estado; la propuesta y ratificación se sujetarán al procedimiento establecido para el nombramiento de los Magistrados del Tribunal Superior de Justicia del Estado. Durarán en su cargo seis años y sólo podrán ser removidos de su cargo por las causas graves que señale la ley.
-
-Para ser Magistrado del Tribunal de Justicia Administrativa del Estado se deberán cumplir los mismos requisitos que para ser nombrado Magistrado del Tribunal Superior de Justicia del Estado.
-
-El Tribunal propondrá su presupuesto al Presidente del Tribunal Superior de Justicia para su inclusión en el proyecto de Presupuesto del Poder Judicial del Estado. Asimismo, el Tribunal deberá expedir su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
-
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 79.
 
-El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, que es el órgano supremo, en un Tribunal de Justicia Administrativa, en Juzgados de Primera Instancia, y contará además con un Consejo de la Judicatura y un Centro Estatal de Justicia Alternativa, con las atribuciones que le señalen esta Constitución, la Ley Orgánica del Poder Judicial y las demás leyes que expida el Congreso del Estado.
+El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, que es el órgano supremo, en un Tribunal de Justicia Administrativa, en Juzgados del orden civil, familiar, penal, ejecución de sanción, administración de justicia para adolescentes, mercantil y laboral. Contará además con un Consejo de la Judicatura y un Centro Estatal de Justicia Alternativa, con las atribuciones que le señalen esta Constitución, la Ley Orgánica del Poder Judicial y las demás leyes que expida el Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-El Poder Judicial residirá en la Capital del Estado, sin perjuicio de que para el mejor desempeño de sus funciones y eficiencia en la prestación de servicios a la ciudadanía, en términos de lo que disponga la Ley Orgánica del Poder Judicial del Estado de Tlaxcala y por acuerdo del Pleno del Tribunal Superior de Justicia, se autorice el establecimiento de órganos jurisdiccionales, dependencias u oficinas del Poder Judicial en el recinto denominado "Ciudad Judicial" ubicado en la comunidad de Santa Ánita Huiloac del Municipio de Apizaco, así como en otros municipios del Estado. Tratándose de órganos jurisdiccionales de primera o segunda instancia, deberá señalarse su competencia en la Ley Orgánica del Poder Judicial del Estado de Tlaxcala.
+El Poder Judicial residirá en la Capital del Estado, sin perjuicio de que para el mejor desempeño de sus funciones y eficiencia en la prestación de servicios a la ciudadanía, en términos de lo que disponga la Ley Orgánica del Poder Judicial del Estado de Tlaxcala y por acuerdo del Pleno del Tribunal Superior de Justicia, se autorice el establecimiento de órganos jurisdiccionales, dependencias u oficinas del Poder Judicial en el recinto denominado "Ciudad Judicial" ubicado en la comunidad de Santa Ánita Huiloac del Municipio de Apizaco, así como en otros municipios del Estado. Tratándose de órganos jurisdiccionales del orden civil, familiar, penal, ejecución de sanción, administración de justicia para adolescentes, mercantil y laboral o segunda instancia, deberá señalarse su competencia en la Ley Orgánica del Poder Judicial del Estado de Tlaxcala.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -1935,9 +1957,9 @@ En caso de que el Congreso rechace la totalidad de la terna propuesta, el Gobern
 
 Los nombramientos serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-Los Jueces de Primera Instancia deberán reunir los mismos requisitos que se establecen para los Magistrados, a excepción de la edad, que será de cuando menos treinta años y del título profesional que deberá tener fecha de expedición de al menos cinco años anterior al día de su nombramiento.
+Los Jueces del orden civil, familiar, penal, ejecución de sanción, administración de justicia para adolescentes, mercantil y laboral deberán reunir los mismos requisitos que se establecen para los Magistrados, a excepción de la edad, que será de cuando menos treinta años y del título profesional que deberá tener fecha de expedición de al menos cinco años anterior al día de su nombramiento.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -1945,27 +1967,37 @@ Los Jueces de Primera Instancia deberán reunir los mismos requisitos que se est
 
 Los magistrados serán nombrados por el Congreso, con la votación de las dos terceras partes del total de los diputados que integren la Legislatura, tomando como base el cumplimiento de los requisitos a que se refiere el artículo anterior y lo dispuesto en la fracción XXVII del artículo 54 de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-Los Jueces de Primera Instancia podrán ser ratificados y declarados inamovibles. El Consejo de la Judicatura resolverá sobre la confirmación o remoción, con anticipación de sesenta días naturales a la fecha en que expire el plazo de ejercicio del Juez que corresponda, considerando los informes que se tengan respecto al desempeño de su labor y la opinión del Tribunal Superior de Justicia.
+Los Jueces del orden civil, familiar, penal, ejecución de sanción, administración de justicia para adolescentes, mercantil y laboral podrán ser ratificados y declarados inamovibles. El Consejo de la Judicatura resolverá sobre la confirmación o remoción, con anticipación de sesenta días naturales a la fecha en que expire el plazo de ejercicio del Juez que corresponda, considerando los informes que se tengan respecto al desempeño de su labor y la opinión del Tribunal Superior de Justicia.
 
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-Los Jueces de Primera Instancia ratificados serán inamovibles durante el periodo de su encargo, el cual se perderá solamente cuando incurran en faltas de probidad u honradez, mala conducta, negligencia en el desempeño de sus labores, sean condenados por sentencia ejecutoriada en juicio de responsabilidad, en los casos que este proceda, sean jubilados en los términos legales o renuncien a su puesto, acepten desempeñar otro empleo o encargo de la Federación, estados, municipios o particulares, salvo los cargos en las instituciones educativas o en asociaciones científicas, literarias o de beneficencia.
+Los Jueces del orden civil, familiar, penal, ejecución de sanción, administración de justicia para adolescentes, mercantil y laboral ratificados serán inamovibles durante el periodo de su encargo, el cual se perderá solamente cuando incurran en faltas de probidad u honradez, mala conducta, negligencia en el desempeño de sus labores, sean condenados por sentencia ejecutoriada en juicio de responsabilidad, en los casos que este proceda, sean jubilados en los términos legales o renuncien a su puesto, acepten desempeñar otro empleo o encargo de la Federación, estados, municipios o particulares, salvo los cargos en las instituciones educativas o en asociaciones científicas, literarias o de beneficencia.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-Los Jueces de Primera Instancia podrán ser removidos de su cargo por el Consejo de la Judicatura, considerando la opinión del Pleno del Tribunal Superior de Justicia, de conformidad con el procedimiento para la aplicación de sanciones contemplado en la ley que determine las responsabilidades y sanciones de los servidores públicos; por incapacidad física o mental o por haber cumplido sesenta y cinco años.
+Los Jueces del orden civil, familiar, penal, ejecución de sanción, administración de justicia para adolescentes, mercantil y laboral podrán ser removidos de su cargo por el Consejo de la Judicatura, considerando la opinión del Pleno del Tribunal Superior de Justicia, de conformidad con el procedimiento para la aplicación de sanciones contemplado en la ley que determine las responsabilidades y sanciones de los servidores públicos; por incapacidad física o mental o por haber cumplido sesenta y cinco años.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2017)</small>
+
+### CAPITULO II. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
+
+ARTICULO 84 BIS.- El Tribunal de Justicia Administrativa del Estado de Tlaxcala es un organismo público especializado, que forma parte del Poder Judicial del Estado, dotado de autonomía técnica y de gestión en el ejercicio de sus atribuciones, para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y los recursos para impugnar sus resoluciones. Tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal, municipal y los particulares; imponer en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal, municipal o al patrimonio de los entes públicos locales o municipales, en los términos que establezca la legislación correspondiente.
+
+El Tribunal de Justicia Administrativa del Estado de Tlaxcala estará integrado por tres magistrados, propuestos por el Gobernador del Estado y ratificados por el voto de las dos terceras partes del total de los integrantes de la Legislatura del Congreso del Estado; la propuesta y ratificación se sujetarán al procedimiento establecido para el nombramiento de los Magistrados del Tribunal Superior de Justicia del Estado. Durarán en su cargo seis años y sólo podrán ser removidos de su cargo por las causas graves que señale la ley.
+
+Para ser Magistrado del Tribunal de Justicia Administrativa del Estado se deberán cumplir los mismos requisitos que para ser nombrado Magistrado del Tribunal Superior de Justicia del Estado.
+
+El Tribunal propondrá su presupuesto al Presidente del Tribunal Superior de Justicia para su inclusión en el proyecto de Presupuesto del Poder Judicial del Estado. Asimismo, el Tribunal deberá expedir su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO III. DEL CONSEJO DE LA JUDICATURA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 85.
 
@@ -2017,21 +2049,21 @@ Las decisiones o resoluciones del Consejo serán impugnadas por la vía administ
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
 ### CAPITULO I. DEL INSTITUTO TLAXCALTECA DE ELECCIONES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
-
-### CAPITULO II. DE LA COMISION ESTATAL DE DERECHOS HUMANOS
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ## TITULO VII. DE LOS MUNICIPIOS
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO III. DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE TLAXCALA
+### CAPITULO II. DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 86.
 
@@ -2271,9 +2303,9 @@ La Ley Municipal determinará las demás facultades y obligaciones de los Ayunta
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2015)</small>
 
-### CAPITULO I. DESARROLLO Y PLANEACION
+### CAPITULO III. DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE TLAXCALA
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 95.
 
@@ -2421,9 +2453,9 @@ El órgano jurisdiccional local en materia electoral se compondrá de tres magis
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO II. DE LAS FINANZAS PUBLICAS
+### CAPITULO I. DESARROLLO Y PLANEACION
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 96.
 
@@ -2449,9 +2481,9 @@ El titular de la Comisión y los integrantes del Consejo Consultivo durarán en 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ABRIL DE 2016)</small>
 
-### CAPITULO UNICO. DEL ORGANO DE FISCALIZACION SUPERIOR
+### CAPITULO II. DE LAS FINANZAS PUBLICAS
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 97.
 
@@ -2479,9 +2511,17 @@ Los comisionados durarán en su encargo siete años y serán electos de manera e
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
+### CAPITULO UNICO. DEL ORGANO DE FISCALIZACION SUPERIOR
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
 ### CAPITULO I. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+
+## TITULO IX. DE LA ECONOMIA Y LAS FINANZAS DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO II. DEL SISTEMA ESTATAL ANTICORRUPCION
 
@@ -2511,17 +2551,21 @@ Derivado de este informe, podrá emitir recomendaciones no vinculantes a las aut
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
-## TITULO IX. DE LA ECONOMIA Y LAS FINANZAS DEL ESTADO
-
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
-
-### CAPITULO I. DE LA REFORMA
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
-
 ###### ARTICULO 98.
 
 En el Estado de Tlaxcala, con base en lo establecido por la Constitución Política de los Estados Unidos Mexicanos, se promoverá el desarrollo económico abierto a la competencia nacional e internacional. Se privilegiarán la simplificación administrativa, la desregulación, el desarrollo de la infraestructura necesaria para el crecimiento económico del Estado y los derechos de los trabajadores. Se estimulará la productividad, la creatividad y la eficiencia.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+A fin de contribuir al cumplimiento de los objetivos señalados en el párrafo anterior el Estado implementará políticas públicas de mejora regulatoria, las cuales serán obligatorias para todas las autoridades públicas estatales y municipales en sus respectivos ámbitos de competencia.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+El Congreso del Estado mediante una ley, creará el Sistema Estatal de Mejora Regulatoria, así como los instrumentos necesarios para que las leyes emitidas por dicho Congreso y las normas de carácter general que emita cualquier autoridad, entidad, órgano u organismo gubernamental, así como los órganos autónomos del ámbito estatal y municipal garanticen beneficios superiores a sus costos y el máximo bienestar para la sociedad.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+La ley establecerá la creación de un catálogo estatal que incluya todos los trámites y servicios estatales y municipales con el objetivo de generar seguridad jurídica y facilitar su cumplimiento mediante el uso de las tecnologías de la información. La inscripción en el catálogo y su actualización serán obligatorias en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -2545,9 +2589,9 @@ Los planes de desarrollo estatal como los municipales, se orientarán para logra
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO II. DE LA INVIOLABILIDAD DE LA CONSTITUCION
+### CAPITULO I. DE LA REFORMA
 
-> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 101.
 
@@ -2600,6 +2644,10 @@ La Hacienda Pública ejercerá la facultad económico-coactiva para hacer efecti
 ## TITULO X. DE LA FISCALIZACION DE LOS RECURSOS PUBLICOS DEL ESTADO
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
+### CAPITULO II. DE LA INVIOLABILIDAD DE LA CONSTITUCION
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ###### ARTICULO 104.
 
@@ -3850,3 +3898,21 @@ El presente Decreto iniciará su vigencia el día siguiente al de su publicació
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 276.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+PRIMERO. En términos de lo previsto por el artículo 120 de la Constitución Política Del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado de Tlaxcala, para el debido cumplimiento de este precepto.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+TERCERO. Se deberán prever los recursos necesarios para el desarrollo del Sistema de Justicia Integral para Adolescentes. Las partidas para tales propósitos deberán señalarse en los presupuestos de egresos correspondientes.
+
+CUARTO. El Congreso local deberá expedir las leyes o en su caso las modificaciones correspondientes a la legislación secundaria, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto.
+
+QUINTO. La legislación actual en materia de mecanismos alternativos de solución de controversias continuará vigente hasta en tanto entre en vigor la legislación mencionada en el transitorio anterior, por lo que los procedimientos iniciados y las sentencias emitidas con fundamento en las mismas, deberán concluirse y ejecutarse, conforme a lo previsto en aquellas.
+
+SEXTO. En tanto se instituya e inicie operaciones el Centro de Conciliación Laboral del Estado, las autoridades locales laborales continuarán atendiendo las diferencias o conflictos que se presenten entre patrones y trabajadores. Los asuntos que estuvieran en trámite al momento de iniciar sus funciones dicho Centro de Conciliación serán resueltos de conformidad con las disposiciones aplicables al momento de su inicio.
+
+SÉPTIMO. Se derogan todas las disposiciones que contravengan al presente decreto.
