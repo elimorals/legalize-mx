@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-economico-del-estado-de-coahuila-de-104823"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2020-08-14"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -39,11 +39,11 @@ LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
-> <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en el territorio del Estado de Coahuila de Zaragoza y tiene por objeto establecer las bases para fomentar el desarrollo económico del Estado por medio de la competitividad, la planeación, generación de las condiciones económicas propicias, la instalación de la infraestructura necesaria para incentivar la inversión nacional y extranjera; y la generación de empleos permanentes y remunerativos, para lograr un entorno favorable para el desarrollo económico local, regional, nacional e internacional.
+Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en el territorio del Estado de Coahuila de Zaragoza y tiene por objeto establecer las bases para fomentar el desarrollo económico del Estado por medio de la competitividad, la planeación, generación de las condiciones económicas propicias y que permitan la creación, innovación, desarrollo y crecimiento de micro, pequeñas y medianas empresas, dentro del Estado; la instalación de la infraestructura necesaria para incentivar la inversión nacional y extranjera; y la generación de empleos permanentes y remunerativos, para lograr un entorno favorable para el desarrollo económico local, regional, nacional e internacional.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -800,3 +800,9 @@ P.O. 14 DE AGOSTO DE 2020.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 870.- SE REFORMA EL ARTÍCULO 1 DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
