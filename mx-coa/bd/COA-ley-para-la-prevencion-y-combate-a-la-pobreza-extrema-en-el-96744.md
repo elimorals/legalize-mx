@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-y-combate-a-la-pobreza-extrema-en-el-967
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2017-03-17"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PREVENCIÓN Y COMBATE A LA POBREZA EXTREMA EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 29 de noviembre de 2013.
 
@@ -49,9 +49,11 @@ Artículo 2
 
 El objeto de la presente ley es reducir la pobreza extrema en el estado, procurar la igualdad de oportunidades y la ampliación de capacidades, para que todos los coahuilenses que viven en esta condición, mejoren su calidad de vida y tengan garantizado el derecho a la alimentación, acceso a los servicios de salud y seguridad social, educación, calidad y espacios de la vivienda, el acceso a servicios básicos y un medio ambiente adecuado para su desarrollo, que favorezca el grado de cohesión social en el estado.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
 Artículo 3
 
-Serán sujetos de esta ley las personas o familias en situación de pobreza extrema en el estado, quienes gozan de los derechos y garantías sociales, en los términos de la Constitución Política del Estado de Coahuila de Zaragoza, de la Ley de Desarrollo Social para el Estado de Coahuila de Zaragoza, los planes, estatales y municipales de desarrollo.
+Serán sujetos de esta ley las personas o familias en situación de pobreza extrema en el estado, quienes gozan de los derechos y garantías sociales, en los términos de la Constitución Política del Estado de Coahuila de Zaragoza, de la Ley para el Desarrollo Social para el Estado de Coahuila de Zaragoza, los planes, estatales y municipales de desarrollo.
 
 Artículo 4
 
@@ -65,9 +67,11 @@ Los ayuntamientos, en la formulación de los planes de desarrollo municipal, deb
 
 Los planes de desarrollo municipal, deberán publicarse conforme a la normativa aplicable y hacerse del conocimiento del Congreso del Estado, a fin de que la Auditoría Superior, evalúe su cumplimiento de conformidad a los indicadores señalados en el párrafo anterior y emita las observaciones y recomendaciones procedentes.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
 Artículo 6
 
-Son de aplicación supletoria en lo conducente a la presente ley, las disposiciones de la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza, Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, Ley de Desarrollo Social para el Estado de Coahuila de Zaragoza, y la Ley de Asistencia Social y Protección de Derechos del Estado de Coahuila de Zaragoza, así como las disposiciones legales aplicables.
+Son de aplicación supletoria en lo conducente a la presente ley, las disposiciones de la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza, Ley General de Responsabilidades Administrativas, Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, Ley de Desarrollo Social para el Estado de Coahuila de Zaragoza, y la Ley de Asistencia Social y Protección de Derechos del Estado de Coahuila de Zaragoza, así como las disposiciones legales aplicables.
 
 Artículo 7
 
@@ -135,7 +139,9 @@ III. Los organismos públicos cuyo objeto tenga relación con la aplicación de 
 
 Artículo 9
 
-Además de los principios mencionados en el artículo 6 de la Ley de Desarrollo Social para el Estado de Coahuila de Zaragoza, se deberán observar los siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
+
+Además de los principios mencionados en el artículo 6 de la Ley para el Desarrollo Social para el Estado de Coahuila de Zaragoza, se deberán observar los siguientes:
 
 I. La equidad;
 
@@ -187,6 +193,10 @@ VIII. Garantizar que las personas en situación de pobreza extrema conozcan y ac
 
 IX. Potenciar los efectos de los programas mediante la entrega de otros apoyos económicos que establezca el estado.
 
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2021)</small>
+
+X. Promover capacitaciones, talleres y cursos, para motivar la generación de ingresos de forma autónoma, mediante la creación e implementación del autoempleo o el establecimiento de microempresas, con el apoyo de las unidades administrativas competentes del Estado y de los municipios.
+
 Artículo 13
 
 Para dar cumplimiento a los objetivos del programa, este podrá operar con la participación comunitaria organizada, de forma que la estructura social facilite que las acciones del programa alcancen a la población objetivo de manera oportuna, transparente, participativa y eficiente. Corresponderá a la dependencia rectora de la política social en el estado, la definición y puesta en marcha de los mecanismos para concretar la participación comunitaria.
@@ -199,7 +209,9 @@ I. Se encuentran en pobreza extrema y no cuentan con ingresos suficientes para i
 
 II. Manifiesten expresamente su voluntad de cumplir con los requisitos y condiciones de los programas a través de la suscripción de un documento de compromiso;
 
-III. Proporcionen información sobre sus características socioeconómicas y demográficas a través de los mecanismos que determine la Secretaría de Desarrollo Social; y
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+III. Proporcionen información sobre sus características socioeconómicas y demográficas a través de los mecanismos que determine la Secretaría de Inclusión y Desarrollo Social; y
 
 IV. Encuadren en los demás lineamientos que se establezcan en los programas, sus reglas de operación y en las disposiciones aplicables.
 
@@ -211,9 +223,11 @@ a) Localizar zonas de atención prioritaria;
 
 b) Identificar y ubicar las familias o personas en situación de pobreza extrema.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
 Artículo 16
 
-La Secretaría de Desarrollo Social, establecerá un registro o padrón de personas o familias en pobreza extrema en el que se documente la información relativa a los datos personales y apoyos que se brindarán, el cual deberá ser actualizado de manera constante.
+La Secretaría de Inclusión y Desarrollo Social, establecerá un registro o padrón de personas o familias en pobreza extrema en el que se documente la información relativa a los datos personales y apoyos que se brindarán, el cual deberá ser actualizado de manera constante.
 
 Artículo 17
 
@@ -249,7 +263,9 @@ Se otorgará en forma periódica en zonas de atención prioritaria, atención ju
 
 Artículo 23
 
-Se emprenderán acciones orientadas a apoyar la inscripción, permanencia y asistencia regular a la escuela primaria, secundaria y media superior de los hijos de las familias en situación de pobreza extrema. Las Secretarías de Desarrollo Social y de Educación, garantizarán que la inscripción a las escuelas de educación media sean condonadas a los integrantes de las familias en pobreza extrema de acuerdo a los programas y sus reglas de operación; además se otorgarán becas educativas, apoyos para la adquisición de útiles escolares y uniformes escolares a cada uno de los niños, niñas y jóvenes favorecidos con los programas. Adicionalmente, en el caso de los becarios de educación media superior se otorgará un incentivo económico para que concluyan este nivel de estudios.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
+Se emprenderán acciones orientadas a apoyar la inscripción, permanencia y asistencia regular a la escuela primaria, secundaria y media superior de los hijos de las familias en situación de pobreza extrema. Las Secretarías de Inclusión y Desarrollo Social y de Educación, garantizarán que la inscripción a las escuelas de educación media, sean condonadas a los integrantes de las familias en pobreza extrema de acuerdo a los programas y sus reglas de operación; además se otorgarán becas educativas, apoyos para la adquisición de útiles escolares y uniformes escolares a cada uno de los niños, niñas y jóvenes favorecidos con los programas. Adicionalmente, en el caso de los becarios de educación media superior se otorgará un incentivo económico para que concluyan este nivel de estudios.
 
 Estos apoyos se otorgarán de acuerdo a los requisitos y condiciones que se establezcan en los programas y sus lineamientos.
 
@@ -291,9 +307,11 @@ Se emprenderán acciones dirigidas a las personas que formen parte de las famili
 
 El estado y los municipios a través de sus unidades administrativas competentes, promoverán que el empleo que se ofrece a través de programas que se encuentran vigentes, proporcione acceso a (sic) sistema de pensiones y sea otorgado de acuerdo a las habilidades de la persona.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
 Artículo 29
 
-Para generar ingresos en forma autónoma, se fomentará el establecimiento de micro empresas y el autoempleo, e incorporación a la economía formal de aquellos que operen en forma irregular, procurando tengan acceso a sistemas de pensiones.
+Para generar ingresos en forma autónoma, se fomentará a través de capacitaciones, talleres y cursos el establecimiento de microempresas y el autoempleo, e incorporación a la economía formal de aquellos que operen en forma irregular, procurando tengan acceso a sistemas de pensiones.
 
 #### Sección VII. Calidad y espacios de la vivienda
 
@@ -353,7 +371,9 @@ Los beneficiarios de los programas terminarán su participación en ellos por cu
 
 I. Por haber transcurrido 36 meses desde el inicio de su participación en el programa, sin perjuicio de que pueda renovar su incorporación al mismo, según se establezca en sus lineamientos;
 
-II. Por renuncia voluntaria del beneficiario, con el consentimiento de los integrantes mayores de edad de la familia correspondiente, presentada por escrito ante la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+II. Por renuncia voluntaria del beneficiario, con el consentimiento de los integrantes mayores de edad de la familia correspondiente, presentada por escrito ante la Secretaría de Inclusión y Desarrollo Social;
 
 III. Por incumplimiento de sus corresponsabilidades u obligaciones; y
 
@@ -379,13 +399,15 @@ La Comisión estará integrada por:
 
 I. El Ejecutivo del Estado;
 
-II. La Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+II. La Secretaría de Inclusión y Desarrollo Social;
 
 III. La Secretaría de Gobierno;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-IV. La Secretaría de Desarrollo Económico, Competitividad y Turismo;
+IV. La Secretaría de Economía;
 
 V. La Secretaría de Desarrollo Rural;
 
@@ -393,25 +415,29 @@ VI. La Secretaría de Cultura;
 
 VII. La Secretaría de Educación;
 
-VIII. La Secretaría de la Juventud;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+VIII. Instituto Coahuilense de la Juventud;
 
 IX. La Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
 
-X. La Secretaría de Infraestructura y Transporte;
+X. La Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
 
 XI. La Secretaría de Salud;
 
-XII. La Secretaría de las Mujeres;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+XII. Instituto Coahuilenses de las Mujeres;
 
 XIII. La Secretaría del Trabajo;
 
 XIV. La Secretaría de Medio Ambiente;
 
-XV. La Comisión Estatal de Vivienda;
+XV. (DEROGADA, P.O. 26 DE ENERO DE 2021)
 
-XVI. La Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana y Rústica en Coahuila;
+XVI. (DEROGADA, P.O. 26 DE ENERO DE 2021)
 
 XVII. El Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza;
 
@@ -419,11 +445,19 @@ XVIII. (DEROGADA, P.O. 17 DE MARZO DE 2017)
 
 XIX. La Secretaría Técnica y de Planeación del Ejecutivo; y
 
-XX. Los Ayuntamientos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XX. La Secretaría de Vivienda y Ordenamiento Territorial, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)</small>
+
+XXI. Los Ayuntamientos.
 
 La Comisión será presidida por el titular del Ejecutivo del Estado y en su ausencia por el coordinador de la misma.
 
-Quien sea titular de la Secretaría de Desarrollo Social, fungirá como coordinador de la Comisión.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
+Quien sea titular de la Secretaría de Inclusión y Desarrollo Social, fungirá como coordinador de la Comisión.
 
 Podrán ser invitados con voz pero sin voto, representantes de instituciones educativas, asociaciones civiles y organismos privados integrantes de la sociedad civil que en razón de su profesión u ocupación, estén en posibilidad de hacer aportaciones o propuestas importantes relacionadas con la materia.
 
@@ -479,17 +513,21 @@ IV. Las aportaciones que al respecto aporten los ayuntamientos.
 
 El estado y los ayuntamientos deberán asignar la partida dentro de su presupuesto anual para que sea destinada al Fondo para la Prevención y el Combate a la Pobreza Extrema.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
 Artículo 44
 
-Los recursos del fondo serán administrados por la Comisión Interinstitucional a través de la Secretaría de Desarrollo Social. Trimestralmente la Secretaría de Fiscalización y Rendición de cuentas, revisará el correcto ejercicio del Fondo.
+Los recursos del fondo serán administrados por la Comisión Interinstitucional a través de la Secretaría de Inclusión y Desarrollo Social. Trimestralmente la Secretaría de Fiscalización y Rendición de cuentas, revisará el correcto ejercicio del Fondo.
 
 ## Título IV. De las responsabilidades de los servidores públicos
 
 ### Capítulo único. De las Quejas y denuncias
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
 Artículo 45
 
-Los servidores públicos que con motivo de la materia que regula esta ley, realicen acciones y a través de ellas, utilicen indebidamente su posición, para beneficiarse o favorecer a terceros que no se encuentran en situación de extrema pobreza, serán sancionados conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, sin perjuicio de las acciones civiles o penales que procedan.
+Los servidores públicos que con motivo de la materia que regula esta ley, realicen acciones y a través de ellas, utilicen indebidamente su posición, para beneficiarse o favorecer a terceros que no se encuentran en situación de extrema pobreza, serán sancionados conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, sin perjuicio de las acciones civiles o penales que procedan.
 
 Artículo 46
 
@@ -660,3 +698,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 869.- SE REFORMAN LOS ARTÍCULOS 3, 6, 9, 16, 23, 44 Y 45 Y LAS FRACCIONES III DEL ARTÍCULO 14 Y II DEL ARTÍCULO 36; Y SE MODIFICAN LAS FRACCIONES II, IV, VIII, X, XII, XX, PASANDO AL NÚMERO SUBSECUENTE SU CONTENIDO, SE ADICIONA LA FRACCIÓN XXI, SE DEROGAN LAS FRACCIONES XV Y XVI Y SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 39, DE LA DE LA LEY PARA LA PREVENCIÓN Y COMBATE A LA POBREZA EXTREMA EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 871.- SE ADICIONA LA FRACCIÓN X, AL ARTÍCULO 12, Y SE REFORMA EL ARTÍCULO 29, DE LA LEY PARA LA PREVENCIÓN Y COMBATE A LA POBREZA EXTREMA EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
