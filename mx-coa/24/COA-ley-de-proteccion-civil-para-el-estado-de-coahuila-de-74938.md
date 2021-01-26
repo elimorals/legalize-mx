@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-74938"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-14"
-last_updated: "2020-10-20"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de mayo de 2010.
 
@@ -793,7 +793,21 @@ En caso de riesgo inminente, sin perjuicio de la emisión de una declaratoria de
 
 En el Programa Especial de Protección Civil, la Subsecretaría establecerá de manera transversal, estrategias y acciones que incluyan a las personas con discapacidad, personas adultas mayores, niñas, niños y adolescentes, personas migrantes, mujeres embarazadas y demás grupos de población en situación de vulnerabilidad y que por este hecho se puedan encontrar en mayor riesgo ante las situaciones de emergencia, desastre y/o disturbios que se presenten en el Estado.
 
-En estos programas, en forma especial y preponderante, se deberá redimensionar la acción pública para que en toda política, donde se vean involucrados los derechos de las niñas, niños y adolescentes, se atienda su interés superior, el cual exige medidas de protección reforzada.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
+En estos programas, en forma especial y preponderante, se deberá redimensionar la acción pública para que en toda política, donde se vean involucrados los derechos de las niñas, niños y adolescentes, se atienda su interés superior, el cual exige medidas de protección reforzada, por lo que en el marco de su competencia y en coordinación con las autoridades competentes, se deberá considerar lo siguiente:
+
+I. La defensa, preservación y respeto a sus derechos;
+
+II. Asegurar la salud, nutrición, el saneamiento e higiene, y la educación;
+
+III. Prever las mejores formas de comunicar de una manera veraz, adecuada y comprensible la información dirigida a las niñas, niños y adolescentes, para el seguimiento de las acciones de las autoridades;
+
+IV. Contemplar acciones para prevenir y evitar la separación de las niñas, niños y adolescentes de sus familias;
+
+V. Planear la habilitación de espacios amigables para las niñas, niños y adolescentes, en los albergues temporales; y
+
+VI. Crear estrategias seguras y adecuadas a las necesidades de las niñas, niños y adolescentes, para la etapa de recuperación.
 
 La normatividad referente a la seguridad de las niñas, niños y adolescentes en los centros a los que eventualmente acceden, tales como hospitales, centros educativos, escuelas, centros de recreación y, muy especialmente, guarderías y estancias infantiles, entre otros, deberá atender a las más altas exigencias que demanda la protección de la integridad física de los menores.
 
@@ -2014,3 +2028,9 @@ P.O. 20 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 751.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 812.- SE REFORMA EL SEGUNDO PÁRRAFO AL ARTÍCULO 17 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
