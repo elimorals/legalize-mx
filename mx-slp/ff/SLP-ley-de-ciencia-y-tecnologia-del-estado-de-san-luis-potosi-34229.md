@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ciencia-y-tecnologia-del-estado-de-san-luis-potosi-34229
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-30"
-last_updated: "2020-04-16"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -195,7 +195,9 @@ III. La promoción y divulgación de las actividades científicas, tecnológicas
 
 IV. La integración, actualización y ejecución de los programas para la investigación científica, tecnológica y de innovación que ejecuten las dependencias y entidades de la administración pública del Estado y los municipios, en sus respectivos programas sectoriales;
 
-V. La vinculación de la investigación científica, tecnológica y de innovación con la educación;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2021)</small>
+
+V. La vinculación de la investigación científica, tecnológica y de innovación con la educación, así como con los sectores productivos y de servicios;
 
 VI. La formación, promoción y capacitación de recursos humanos de alto nivel académico, orientados hacia la investigación científica, el desarrollo tecnológico y la innovación;
 
@@ -581,9 +583,11 @@ El Ejecutivo del Estado, a través del COPOCYT, promoverá ante los sectores soc
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
+
 ###### ARTICULO 49.
 
-Las instituciones públicas y los centros de investigación científica y tecnológica, en sus respectivos ámbitos de competencia, promoverán la innovación y el desarrollo tecnológico, y establecerán mecanismos eficientes para vincularse al sector productivo.
+Las instituciones públicas y los centros de investigación científica y tecnológica, en sus respectivos ámbitos de competencia, promoverán la innovación y el desarrollo tecnológico, y establecerán mecanismos eficientes para vincularse al sector productivo y de servicios.
 
 ###### ARTICULO 50.
 
@@ -728,5 +732,13 @@ P.O. 16 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0664.- SE REFORMA EL ARTÍCULO 2° EN SU FRACCIÓN II, DE (SIC) LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1111.- SE REFORMA LOS ARTÍCULOS 8° EN SU FRACCIÓN V Y 49, DE LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
