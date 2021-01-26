@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2020-11-27"
+last_updated: "2021-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -47,9 +47,7 @@ La presente Ley es de orden público e interés general, y tiene por objeto regu
 
 Esta Ley, sus reformas y adiciones, no podrán ser objeto de veto o plebiscito, ni requerirán para su vigencia de la promulgación por parte del Poder Ejecutivo. Es facultad exclusiva del Congreso del Estado, su aprobación, reforma o adición, así como ordenar su publicación en el Periódico Oficial del Gobierno del Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-Para reformar, adicionar o abrogar la presente ley, así como para expedir una nueva ley, se requerirá la aprobación de las dos terceras partes de los integrantes de la Legislatura.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 3°.
 
@@ -517,9 +515,9 @@ VIII. Agenda Política.
 
 Para estos efectos se entenderá por Agenda Política los pronunciamientos que presenten al Pleno o la Diputación Permanente las Diputadas y Diputados, Grupos Parlamentarios, Fracciones Parlamentarias o la Junta de Gobierno.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2021)</small>
 
-A petición de la Presidencia de la Mesa Directiva del Pleno o de la Diputación Permanente, así como de alguna Diputada o Diputado, podrá dispensarse la lectura del orden del día, la minuta de la sesión anterior, el informe del trámite relacionado con los acuerdos aprobados y los resultandos y considerandos de los dictámenes y acuerdos listados. Para ello se requerirá el voto de más de la mitad de las Diputadas y Diputados presentes y que los documentos motivo de la dispensa hubieren sido difundidos, vía electrónica, a más tardar el día anterior a la sesión.
+A petición de la Presidencia de la Mesa Directiva del Pleno o de la Diputación Permanente, así como de alguna Diputada o Diputado, podrá dispensarse la lectura del orden del día, la minuta de la sesión anterior, el informe del trámite relacionado con los acuerdos aprobados y los resultandos y considerandos de los dictámenes y acuerdos listados, así como del articulado de las iniciativas contempladas en los mismos, debiendo de leerse solamente un resumen de su contenido, que comprenda el sumario, número de los artículos, la denominación de sus títulos, capítulos, secciones, y apartados, de contenerlos, describiéndose de una forma ejecutiva lo más relevante de lo que ahí se contiene, para el efecto de su debida comprensión, a excepción de los artículos transitorios de los cuales sí se deberá de hacer su lectura integra. Para ello se requerirá el voto de más de la mitad de las Diputadas y Diputados presentes y que los documentos motivo de la dispensa hubieren sido difundidos, vía electrónica, a más tardar el día anterior a la sesión.
 
 ### CAPÍTULO III. De la Mesa Directiva
 
@@ -1657,11 +1655,17 @@ Cuando algún integrante de cualquiera de las comisiones tuviere interés en alg
 
 Las comisiones tomarán sus decisiones por mayoría de votos de las y los integrantes presentes. En caso de empate, el coordinador tendrá voto de calidad.
 
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2021)</small>
+
+Las votaciones podrán ser a favor, en contra o en abstención. Las abstenciones no se toman en cuenta para la suma total y definición del asunto tratado, solo se tomarán en cuenta los votos emitidos a favor o en contra y los acuerdos y resoluciones serán válidos con estos votos, siempre que se cumpla con la mayoría que se requiere, de conformidad con los dispuesto por esta ley.
+
 Cuando alguna o alguno de los integrantes de una comisión disienta de la resolución adoptada por la mayoría de los presentes, deberá asentarse en el dictamen correspondiente. Quien disienta podrá, asimismo, presentar por escrito su voto particular, el que se anexará al dictamen correspondiente, para que junto con éste, sea leído y puesto a consideración para efectos de votación del dictamen por el Pleno o la Diputación Permanente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 120.
 
-Las reuniones de las comisiones serán públicas. Podrán sesionar de manera privada, pero para ello se requerirá acuerdo debidamente fundado y motivado de la mayoría de sus integrantes. Las reuniones en que se traten asuntos relativos a la instrucción de juicio político y declaración de procedencia en materia de responsabilidad penal, así como las reuniones de la Comisión de Hacienda y Auditoría Gubernamental, en las que se discutan los asuntos presupuestales y financieros, siempre serán privadas. Las y los diputados podrán asistir a las reuniones de las comisiones, aun cuando no formen parte de las mismas, con voz pero sin voto.
+Las reuniones de las comisiones serán públicas. Podrán sesionar de manera privada, pero para ello se requerirá acuerdo debidamente fundado y motivado de la mayoría de sus integrantes. Las reuniones en que se traten asuntos relativos a la instrucción de juicio político y declaración de procedencia en materia de responsabilidad penal, así como las reuniones de la Comisión de Hacienda y Auditoría Gubernamental, en las que se discutan los asuntos presupuestales y financieros, siempre serán privadas, excepto que por determinadas circunstancias y cuando el asunto sea de relevancia pública o de interés general, pueda haber una excepción a esos supuestos, y las mismas sean públicas, siempre y cuando así lo acuerden en sesión privada la mayoría de los integrantes de las comisiones correspondientes. Las y los diputados podrán asistir a las reuniones de las comisiones aun cuando no formen parte de las mismas, con voz pero sin voto.
 
 Cuando la materia de un asunto así lo requiera, éste podrá turnarse hasta a dos comisiones, para que unidas lo estudien y resuelvan, salvo que, por excepción, el Pleno del Congreso o la Diputación Permanente, en su caso, acuerde que se turne a más de dos comisiones.
 
@@ -3648,3 +3652,37 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 788.- SE REFORMAN: LA FRACCIÓN VIII DEL ARTÍCULO 48, EL ARTÍCULO 168, LOS PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, CUARTO Y SEXTO DEL ARTÍCULO 182, EL ARTÍCULO 190, LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO, Y LAS FRACCIONES I Y II DEL ARTÍCULO 204; SE ADICIONA UN SÉPTIMO PÁRRAFO AL ARTÍCULO 182 Y UN TERCER PÁRRAFO AL ARTÍCULO 190, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 133; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 133, DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 865.- SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 2º, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su aprobación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 866.- SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 39 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 867.- SE ADICIONA UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE EL QUE ACTUALMENTE OCUPA ESA POSICIÓN AL TERCER LUGAR, DEL ARTÍCULO 119 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 868.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 120 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
