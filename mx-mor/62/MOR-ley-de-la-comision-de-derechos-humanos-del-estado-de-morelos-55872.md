@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-comision-de-derechos-humanos-del-estado-de-morelos-55
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-06"
-last_updated: "2014-07-23"
+last_updated: "2021-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de junio de 2007.
 
@@ -69,29 +69,45 @@ VII.- Principio de Celeridad: Este principio se refiere a la brevedad y sencille
 
 VIII.- Principio de Confidencialidad: Este principio consiste en la salvaguarda y secrecía del estado que presentan los diversos trámites y expedientes, así como del procedimiento que se siga de conformidad con el acceso a la información o documentación relativa a los asuntos de la competencia de la Comisión, la cual se sujetará a la Ley de Acceso a Información Pública y Protección de Datos Personales del Estado de Morelos.
 
-IX.- Principio de Presunción: Por medio de este principio se permite dispensar al quejoso de la carga de la prueba y además permite que los procedimientos que se ventilan en la Comisión deban ser lo menos gravosos para el antes mencionado.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-X.- Recomendación: Es el instrumento por medio del cual la Comisión expresa su convicción de que se ha producido una violación a los Derechos Humanos, que contiene las medidas necesarias para subsanarla, y solicita a la autoridad responsable, inicie los procedimientos necesarios a efecto de aplicar las sanciones correspondientes a los servidores públicos que han incurrido en las conductas violatorias de Derechos Humanos. La recomendación tiene como naturaleza jurídica la no vinculación y su carácter público.
+IX.- Principio de Presunción: Por medio de este principio se permite dispensar al quejoso o quejosa de la carga de la prueba y además permite que los procedimientos que se ventilan en la Comisión deban ser lo menos gravosos para los antes mencionados.
 
-XI.- Acuerdo de no responsabilidad: Es el pronunciamiento que realiza la Comisión, respecto de la no acreditación de los actos u omisiones presuntamente violatorios a los Derechos Humanos, atribuidos a autoridades y/o servidores públicos.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-XII.- Solicitud: Es el acto formal por virtud del cual la Comisión propone las medidas necesarias para la protección y aseguramiento de los Derechos Humanos, con la finalidad de evitar la reiteración de aquellos actos u omisiones de las autoridades y servidores públicos que corresponda.
+X.- Recomendación: Es el instrumento por medio del cual la Comisión expresa su convicción de que se ha producido una violación a los Derechos Humanos, que contiene las medidas necesarias para subsanarla, y solicita a la autoridad responsable, inicie los procedimientos necesarios a efecto de aplicar las sanciones correspondientes a las y los servidores públicos que han incurrido en las conductas violatorias de Derechos Humanos. La recomendación tiene como naturaleza jurídica la no vinculación y su carácter público.
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+XI.- Acuerdo de no responsabilidad: Es el pronunciamiento que realiza la Comisión, respecto de la no acreditación de los actos u omisiones presuntamente violatorios a los Derechos Humanos, atribuidos a autoridades y/o servidoras o servidores públicos.
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+XII.- Solicitud: Es el acto formal por virtud del cual la Comisión propone las medidas necesarias para la protección y aseguramiento de los Derechos Humanos, con la finalidad de evitar la reiteración de aquellos actos u omisiones de las autoridades y servidoras o servidores públicos que corresponda.
 
 XIII.- Actuaciones: Son el conjunto de promociones, acuerdos, diligencias, instrumentos y demás constancias que integran el expediente de queja.
 
 XIV.- Autoridad Responsable: Es autoridad responsable la que dicta, promulga, publica, ordena, ejecuta o trata de ejecutar la ley o el acto reclamado.
 
-XV.- Servidor Público: Toda persona que desempeña un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública centralizada o descentralizada de los poderes Ejecutivo, Legislativo y Judicial del Estado, sus respectivas empresas de participación estatal mayoritaria órganos desconcentrados, organizaciones y sociedades asimiladas a aquéllas, así como fideicomisos públicos.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-XVI.- Queja: Es el medio por el cual a petición de parte o por denuncia pública se hacen del conocimiento de la Comisión, hechos u omisiones que constituyen una presunta violación a los Derechos Humanos, por parte de alguna autoridad o servidor público.
+XV.- Servidora o Servidor Público: Toda persona que desempeña un empleo, cargo o comisión de cualquier naturaleza en la Administración pública centralizada o descentralizada de los poderes Ejecutivo, Legislativo y Judicial del Estado, sus respectivas empresas de participación estatal mayoritaria órganos desconcentrados, organizaciones y sociedades asimiladas a aquéllas, así como fideicomisos públicos.
 
-XVII.- Quejoso: Toda persona que por sí o a través de representante, inicia procedimiento ante la Comisión, por considerar vulnerados sus Derechos Humanos, por actos u omisiones producidas en su agravio por parte de alguna autoridad o servidor público.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-XVIII.- Cumplimiento: Es el conjunto de actos mediante los cuales la autoridad responsable hace efectiva la recomendación, solicitud o el resultado de la conciliación a favor del quejoso y ordena el empleo de los elementos y mecanismos a su alcance para ejecutarla.
+XVI.- Queja: Es el medio por el cual a petición de parte o por denuncia pública se hacen del conocimiento de la Comisión, hechos u omisiones que constituyen una presunta violación a los Derechos Humanos, por parte de alguna autoridad, servidora o servidor público.
 
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-XIX.- Conciliación: Es el instrumento por medio del cual la Comisión aplica los principios de inmediación y celeridad, procede en casos no graves y parte del consentimiento del quejoso, así como del reconocimiento de la autoridad de que cometió una violación a los derechos humanos; el convenio de conciliación debe incluir medidas para reparar el daño, la petición de sanciones a los responsables de la violación y las medidas que garanticen la no repetición de ese tipo de hechos.
+XVII.- Quejosa o Quejoso: Toda persona que por sí o a través de representante, inicia procedimiento ante la Comisión, por considerar vulnerados sus Derechos Humanos, por actos u omisiones producidas en su agravio por parte de alguna autoridad, servidora o servidor público.
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+XVIII.- Cumplimiento: Es el conjunto de actos mediante los cuales la autoridad responsable hace efectiva la recomendación, solicitud o el resultado de la conciliación a favor del quejoso o quejosa y ordena el empleo de los elementos y mecanismos a su alcance para ejecutarla.
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+XIX.- Conciliación: Es el instrumento por medio del cual la Comisión aplica los principios de inmediación y celeridad, procede en casos no graves y parte del consentimiento del quejoso o quejosa, así como del reconocimiento de la autoridad de que cometió una violación a los derechos humanos; el convenio de conciliación debe incluir medidas para reparar el daño, la petición de sanciones a los responsables de la violación y las medidas que garanticen la no repetición de ese tipo de hechos.
 
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
 
@@ -99,23 +115,29 @@ XIX.- Conciliación: Es el instrumento por medio del cual la Comisión aplica lo
 
 De conformidad con lo establecido por el artículo 23-B de la Constitución Política del Estado Libre y Soberano de Morelos, la Comisión de Derechos Humanos del Estado de Morelos es un Organismo Público, con autonomía de gestión y de presupuesto, dotada de personalidad jurídica y patrimonio propio y cuyo objeto y razón de ser lo constituye la observancia, promoción, estudio, divulgación y protección de los Derechos Humanos, así como la consolidación de una cultura de reconocimiento y respeto a los derechos humanos y fundamentales contenidos en el orden jurídico mexicano; en las garantías individuales y sociales establecidas en la Constitución Política de los Estados Unidos Mexicanos, así como de aquellos contenidos en instrumentos jurídicos internacionales que habiendo sido suscritos y ratificados por el Estado Mexicano son reconocidos y asegurados en los términos del artículo 2 de la Constitución Política del Estado Libre y Soberano de Morelos, así como la recepción de quejas y emisión de recomendaciones derivadas de las violaciones a los mencionados derechos.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 4.
 
-La Comisión protegerá dentro de su territorio los Derechos Humanos de toda persona mexicana o extranjera que se encuentre en el interior de la entidad Federativa y conocerá de aquellas quejas relacionadas con presuntas violaciones a los Derechos esenciales, cuando éstas fueren imputadas a autoridades y servidores públicos estatales y/o municipales, salvo lo dispuesto en el artículo 60 de la Ley de la Comisión Nacional de los Derechos Humanos.
+La Comisión protegerá dentro de su territorio los Derechos Humanos de toda persona mexicana o extranjera que se encuentre en el interior de la entidad federativa y conocerá de aquellas quejas relacionadas con presuntas violaciones a los derechos esenciales, cuando éstas fueren imputadas a autoridades y servidoras o servidores públicos estatales y/o municipales, salvo lo dispuesto en el artículo 60 de la Ley de la Comisión Nacional de los Derechos Humanos.
 
-Cuando en un mismo hecho, estuvieren involucrados tanto autoridades o servidores públicos del Estado o Municipios de Morelos, así como de la Federación, la competencia se surtirá a favor de la Comisión Nacional de los Derechos Humanos.
+Cuando en un mismo hecho, estuvieren involucrados tanto autoridades y servidoras o servidores públicos del estado o municipios de Morelos, así como de la Federación, la competencia se surtirá a favor de la Comisión Nacional de los Derechos Humanos.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 5.
 
-Los procedimientos que se sigan ante la Comisión deberán ser breves y sencillos; estarán sujetos sólo a las formalidades esenciales que requiera la documentación de los expedientes respectivos. Se seguirán además de acuerdo a los principios de inmediación, concentración, celeridad, confidencialidad y presunción, privilegiando en la medida de lo posible, el contacto directo con el quejoso y autoridades señaladas como responsables, para evitar la dilación de las comunicaciones escritas, procurando una solución inmediata a los problemas planteados y los servicios que se presten serán totalmente gratuitos.
+Los procedimientos que se sigan ante la Comisión deberán ser breves y sencillos; estarán sujetos sólo a las formalidades esenciales que requiera la documentación de los expedientes respectivos. Se seguirán además de acuerdo a los principios de inmediación, concentración, celeridad, confidencialidad y presunción, privilegiando en la medida de lo posible, el contacto directo con el quejoso o quejosa y autoridades señaladas como responsables, para evitar la dilación de las comunicaciones escritas, procurando una solución inmediata a los problemas planteados y los servicios que se presten serán totalmente gratuitos.
 
 ## TÍTULO SEGUNDO
 
 ### CAPÍTULO PRIMERO. DE LA INTEGRACIÓN Y FACULTADES DE LA COMISIÓN
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 6.
 
-La Comisión se integrará con un Presidente y un Consejo Consultivo, integrado por seis consejeros con carácter honorífico quienes no podrán desempeñar ningún cargo como servidor publico. Serán electos conforme a lo dispuesto por el artículo 14 de este ordenamiento.
+La Comisión se integrará con un presidente o presidenta y un Consejo Consultivo, integrado por seis consejeros o consejeras con carácter honorífico quienes no podrán desempeñar ningún cargo como servidora o servidor publico. Serán electos conforme a lo dispuesto por el artículo 14 de este ordenamiento.
 
 La Comisión para el ejercicio de sus funciones contará con una Secretaría Ejecutiva y 5 Visitadores, así como del personal profesional, técnico y administrativo aprobado en su presupuesto, para la realización de sus actividades.
 
@@ -133,7 +155,9 @@ d) Especializada en asuntos penitenciarios; e
 
 e) Itinerante.
 
-La Visitaduría itinerante conocerá entre otros asuntos, los relacionados con presuntas violaciones a los Derechos Humanos de pueblos y comunidades indígenas, campesinos y problemas del campo, agropecuarios, ambientales y de los migrantes, siempre y cuando el problema planteado sea de competencia local.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
+La Visitaduría itinerante conocerá entre otros asuntos, los relacionados con presuntas violaciones a los Derechos Humanos de pueblos y comunidades indígenas, campesinas o campesinos y problemas del campo, agropecuarios, ambientales y de los migrantes, siempre y cuando el problema planteado sea de competencia local.
 
 De igual forma será competente para conocer de todas las presuntas violaciones a los Derechos Humanos de las personas físicas con motivo de su actividad relacionada con los medios de comunicación.
 
@@ -143,13 +167,17 @@ La Comisión tendrá las siguientes atribuciones y obligaciones:
 
 I. Recibir todas aquellas quejas que se formulen sobre presuntas violaciones a los Derechos Humanos públicas, así como denuncias y quejas ante las autoridades correspondiente (sic);
 
-II. Conocer e investigar a petición de parte o por denuncia pública, sobre actos u omisiones de servidores públicos estatales o municipales, que hayan violado los Derechos Humanos, o bien cuando los particulares cometan ilícitos con la anuencia o tolerancia de algún servidor público o autoridad, o cuando éstos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con dichos ilícitos;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+II. Conocer e investigar a petición de parte o por denuncia pública, sobre actos u omisiones de servidoras o servidores públicos estatales o municipales, que hayan violado los Derechos Humanos, o bien cuando las y los particulares cometan ilícitos con la anuencia o tolerancia de algún servidor público o autoridad, o cuando éstos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con dichos ilícitos;
 
 III. Formular recomendaciones públicas, autónomas no vínculatorias y solicitudes ante las autoridades respectivas, denuncias y quejas. Cuando el hecho materia de la queja presuntamente configure un ilícito, la Comisión deberá canalizar al quejoso ante las autoridades correspondientes, si así se solicita;
 
 IV. Solicitar a las autoridades señaladas como presuntamente responsables de las oficinas o dependencias de la administración estatal y/o municipal la información necesaria para la investigación y esclarecimiento de las quejas que le son formuladas;
 
-V. Procurar la conciliación entre los quejosos y las autoridades señaladas como responsables, así como la inmediata solución del conflicto planteado, cuando la naturaleza del caso lo permita, salvo aquellos asuntos que atenten contra la vida y la integridad física del quejoso;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+V. Procurar la conciliación entre los quejosos o quejosas y las autoridades señaladas como responsables, así como la inmediata solución del conflicto planteado, cuando la naturaleza del caso lo permita, salvo aquellos asuntos que atenten contra la vida y la integridad física del quejoso o quejosa;
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 2009)</small>
 
@@ -169,7 +197,7 @@ X. Verificar de oficio el respeto a los Derechos Humanos en el sistema penitenci
 
 XI. Subsanar durante el procedimiento las omisiones que se observen en la substanciación de la queja para el efecto de regularizar el procedimiento, así como en las recomendaciones o acuerdos que ordenen el archivo de la queja;
 
-XII. Dictar los acuerdos que sean necesarios para la tramitación y perfeccionamiento legal de los expedientes que se encuentren en trámite o que hayan sido resueltos. Todas estas acciones deberán tender a la conformación de una cultura del respeto a la dignidad del ser humano; y (sic)
+XII. Dictar los acuerdos que sean necesarios para la tramitación y perfeccionamiento legal de los expedientes que se encuentren en trámite o que hayan sido resueltos. Todas estas acciones deberán tender a la conformación de una cultura del respeto a la dignidad del ser humano; y
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 2009)</small>
 
@@ -197,11 +225,15 @@ La Comisión por ningún motivo podrá examinar cuestiones jurisdiccionales de f
 
 ### CAPÍTULO SEGUNDO. DEL CONSEJO CONSULTIVO DE LA COMISIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 10.
 
-La Comisión contará con un Consejo Consultivo, integrado por seis consejeros y el Presidente de la Comisión, quien lo será también del Consejo.
+La Comisión contará con un Consejo Consultivo, integrado por seis consejeros o consejeras y el presidente o presidenta de la Comisión, quien lo será también del Consejo.
 
-Los cargos de los miembros del Consejo Consultivo serán honoríficos y no podrán desempeñar ningún cargo como servidores públicos. El presidente devengará el salario que de acuerdo al presupuesto anual se permita y autorice el Consejo.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
+Los cargos de los miembros del Consejo Consultivo serán honoríficos y no podrán desempeñar ningún cargo como servidoras o servidores públicos. El presidente o presidenta devengará el salario que de acuerdo al Presupuesto Anual se permita y autorice el Consejo.
 
 El Consejo Consultivo apoyará a la Comisión en el ejercicio de sus atribuciones y obligaciones y será un órgano permanente de consulta, opinión y análisis, procurando la equidad de género en la integración del mismo.
 
@@ -213,9 +245,13 @@ I. Establecer los lineamientos generales de actuación de la Comisión;
 
 II. Aprobar el reglamento interno de la Comisión;
 
-III. Opinar sobre el proyecto del informe anual que el Presidente de la Comisión presente al Congreso del Estado y al Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-IV. Previo estudio, análisis, documentación y demás elementos que lo integren, aprobar el proyecto de presupuesto anual y el informe del ejercicio presupuestal de la Comisión, que les presente el Presidente;
+III. Opinar sobre el proyecto del informe anual que el presidente o la presidenta de la Comisión presente al Congreso del Estado y al Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+IV. Previo estudio, análisis, documentación y demás elementos que lo integren, aprobar el proyecto de presupuesto anual y el informe del ejercicio presupuestal de la Comisión, que les presente el Presidente o Presidenta;
 
 V. Opinar sobre la eficiencia y diligencia del trabajo de la Comisión y proponer las acciones para mejorar su desempeño;
 
@@ -233,7 +269,9 @@ El Consejo funcionará en sesiones ordinarias y extraordinarias y tomará sus de
 
 Las sesiones ordinarias se verificarán cuando menos una vez al mes.
 
-Las sesiones extraordinarias podrán convocarse por el Presidente de la Comisión o bien a solicitud de por lo menos tres miembros del Consejo.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
+Las sesiones extraordinarias podrán convocarse por el presidente o presidenta de la Comisión o bien a solicitud de por lo menos tres miembros del Consejo.
 
 Constituyen quórum legal la asistencia de mayoría de sus miembros a las sesiones del Consejo Consultivo.
 
@@ -241,39 +279,55 @@ Constituyen quórum legal la asistencia de mayoría de sus miembros a las sesion
 
 Para ser miembro del Consejo Consultivo se requiere:
 
-I. Ser ciudadano mexicano, con residencia en el Estado, no menor a cinco años anteriores a la fecha de su nombramiento;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+I. Ser ciudadano mexicano o ciudadana mexicana, con residencia en el estado, no menor a cinco años anteriores a la fecha de su nombramiento;
 
 II. Ser mayor de veinticinco años al día de su designación;
 
-III. No haber sido condenado por delito doloso;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+III. No haber sido condenado o condenada por delito doloso;
 
 IV. Tener conocimiento y experiencia en la protección de los Derechos Humanos; y
 
 V. Gozar de buena reputación.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 14.
 
-El nombramiento de los miembros del Consejo Consultivo será hecho por el Congreso del Estado de Morelos, a propuesta de la Junta Política y de Gobierno, quien emitirá el dictamen con la terna correspondiente de los candidatos propuestos, previa convocatoria pública.
+El nombramiento de los miembros del Consejo Consultivo será hecho por el Congreso del Estado de Morelos, a propuesta de la Junta Política y de Gobierno, quien emitirá el dictamen con la terna correspondiente de las y los candidatos propuestos, previa convocatoria pública.
 
 ###### ARTÍCULO 15.
 
 Los miembros del Consejo Consultivo durarán en su cargo tres años y podrán ser reelectos por un período más.
 
-El Congreso del Estado en la misma sesión en que designa a los consejeros titulares, elegirá tres consejeros suplentes de entre los registrados, en orden de prelación.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
-Los suplentes asumirán la función de consejero solamente en caso de ausencia definitiva de un miembro del Consejo, tomando en consideración el orden en que hayan sido designados, de acuerdo a la lista numerada emitida por el Congreso, quien los mandará llamar a efecto de entregarles el nombramiento respectivo y proceder a la toma de protesta de Ley.
+El Congreso del Estado en la misma sesión en que designa a las y los consejeros titulares, elegirá tres consejeros o consejeras suplentes de entre los registrados, en orden de prelación.
 
-### CAPÍTULO TERCERO. DEL PRESIDENTE
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
+Los y las suplentes asumirán la función de consejero solamente en caso de ausencia definitiva de un miembro del Consejo, tomando en consideración el orden en que hayan sido designados, de acuerdo a la lista numerada emitida por el Congreso, quien los mandará llamar a efecto de entregarles el nombramiento respectivo y proceder a la toma de protesta de Ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2021)</small>
+
+### CAPÍTULO TERCERO. DEL PRESIDENTE O PRESIDENTA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 16.
 
-El Presidente de la Comisión será electo por el Congreso del Estado, por el voto de las dos terceras partes de sus miembros y protestará el cargo ante ellos, en la sesión que se señale para el efecto y tendrá las siguientes atribuciones y obligaciones:
+El presidente o presidenta de la Comisión será electo o electa por el Congreso del Estado, por el voto de las dos terceras partes de sus miembros y protestará el cargo ante ellos, en la sesión que se señale para el efecto y tendrá las siguientes atribuciones y obligaciones:
 
 I. Ejercer la representación legal de la Comisión;
 
 II. Formular los lineamientos generales a los que se sujetarán las actividades administrativas de la Comisión;
 
-III. Nombrar y remover a los funcionarios y al personal de la Comisión, de acuerdo a las necesidades del servicio. Cuando algún servidor público de la Comisión incurra en las causales de responsabilidad previstas en los ordenamientos legales de la materia, se estará a lo dispuesto por la Ley de Servicio Civil del Estado de Morelos, en lo relativo a las relaciones laborales, así como a la Ley de Responsabilidad de los Servidores Públicos del Estado de Morelos, si fuese necesario.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+III. Nombrar y remover a las y los funcionarios y al personal de la Comisión, de acuerdo a las necesidades del servicio. Cuando algún servidor público o servidora pública de la Comisión incurra en las causales de responsabilidad previstas en los ordenamientos legales de la materia, se estará a lo dispuesto por la Ley de Servicio Civil del Estado de Morelos, en lo relativo a las relaciones laborales, así como a la Ley de Responsabilidad de los Servidores Públicos del Estado de Morelos, si fuese necesario.
 
 IV. Distribuir y delegar funciones al personal del organismo;
 
@@ -299,21 +353,31 @@ XII. Proporcionar a la Auditoría Superior de Fiscalización del Congreso, la do
 
 XIII. Promover y crear los mecanismos necesarios para la capacitación y adiestramiento del personal;
 
-XIV. Intervenir por sí o por medio de los visitadores en los procedimientos sobre protección de los Derechos Humanos conforme a la legislación aplicable;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-XV. Rendir los informes que le sean solicitados por los Consejeros Consultivos, que tengan por objeto conocer la situación que guarda la Comisión para el mejor desempeño de sus atribuciones; y
+XIV. Intervenir por sí o por medio de los visitadores o visitadoras en los procedimientos sobre protección de los Derechos Humanos conforme a la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+XV. Rendir los informes que le sean solicitados por las y los consejeros consultivos, que tengan por objeto conocer la situación que guarda la Comisión para el mejor desempeño de sus atribuciones; y
 
 XVI. Las demás que le señale la presente Ley y su Reglamento Interno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 17.
 
-El Presidente de la Comisión deberá reunir para su nombramiento los siguientes requisitos:
+El presidente o presidenta de la Comisión deberá reunir para su nombramiento los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles y con residencia en el Estado no menor a cinco años a la fecha de su nombramiento;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+I. Ser ciudadana o ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles y con residencia en el estado no menor a cinco años a la fecha de su nombramiento;
 
 II. Ser mayor de treinta años al día de su nombramiento;
 
-III. No haber sido condenado por delito doloso;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+III. No haber sido condenada o condenado por delito doloso;
 
 IV. Contar con título y Cédula Profesional, legalmente expedidos, a nivel Licenciatura;
 
@@ -327,19 +391,25 @@ VII. No desempeñar, ni haber desempeñado cargo de Dirección Nacional, Estatal
 
 VIII. No desempeñar ni haber desempeñado cargo de Secretario o Subsecretario de Despacho o Fiscal General del Estado, en el año anterior a su designación.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 18.
 
-El Presidente podrá ausentarse hasta por un mes con causa justificada, previa autorización del Consejo Consultivo. En caso de ausencias mayores, previo aviso que formule al Consejo Consultivo, solicitará autorización al Congreso del Estado, quien en su caso lo aprobará por mayoría simple.
+El presidente o presidenta podrá ausentarse hasta por un mes con causa justificada, previa autorización del Consejo Consultivo. En caso de ausencias mayores, previo aviso que formule al Consejo Consultivo, solicitará autorización al Congreso del Estado, quien en su caso lo aprobará por mayoría simple.
 
-Las ausencias del Presidente serán cubiertas por el Secretario Ejecutivo.
+Las ausencias del presidente o la presidenta serán cubiertas por la o el Secretario Ejecutivo.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 19.
 
-El Presidente durará en el cargo tres años y podrá ser reelecto por única vez para el período inmediato, previa calificación que del desempeño en dicho cargo realice el Congreso del Estado.
+El Presidente o presidenta durará en el cargo tres años y podrá ser reelecto por única vez para el período inmediato, previa calificación que del desempeño en dicho cargo realice el Congreso del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 20.
 
-La gestión del Presidente concluirá por las siguientes causas:
+La gestión del Presidente o Presidenta concluirá por las siguientes causas:
 
 I. Por haberse cumplido el plazo del encargo;
 
@@ -351,29 +421,41 @@ IV. Por incapacidad física o mental definitiva; y
 
 V. Por muerte.
 
-En los casos anteriores, el Presidente de la Comisión deberá ser sustituido interinamente por el Secretario Ejecutivo, hasta en tanto el Congreso del Estado designe al Presidente, cuyo plazo no será mayor a noventa días naturales.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
+En los casos anteriores, el presidente o presidenta de la Comisión deberá ser sustituido interinamente por la o el Secretario Ejecutivo, hasta en tanto el Congreso del Estado designe al presidente o presidenta, cuyo plazo no será mayor a noventa días naturales.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 21.
 
-El Presidente de la Comisión, el Secretario Ejecutivo, los Visitadores, las áreas administrativas que determine su propio reglamento, tendrán fe pública para certificar la veracidad de los hechos en relación con las quejas derivadas de actos u omisiones presuntamente violatorios de Derechos Humanos presentadas ante la Comisión.
+El presidente o presidenta de la Comisión, la o el secretario ejecutivo, las y los visitadores, las áreas administrativas que determine su propio reglamento, tendrán fe pública para certificar la veracidad de los hechos en relación con las quejas derivadas de actos u omisiones presuntamente violatorios de Derechos Humanos presentadas ante la Comisión.
 
-### CAPÍTULO CUARTO. DE LOS ÓRGANOS ADMINISTRATIVOS SECRETARIO EJECUTIVO Y VISITADORES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2021)</small>
+
+### CAPÍTULO CUARTO. DE LOS ÓRGANOS ADMINISTRATIVOS SECRETARIA O SECRETARIO EJECUTIVO Y VISITADORAS Y VISITADORES
 
 ###### ARTÍCULO 22.
 
 El titular de la Secretaría Ejecutiva deberá reunir para su designación los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+I. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II. Ser mayor de veinticinco años de edad el día de su nombramiento;
 
-III. Tener título y cédula profesional legalmente expedidos, que lo acredite como Licenciado en Derecho y tener cuando menos tres años de experiencia profesional;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-IV. No haber sido condenado por delito doloso; y (sic)
+III. Tener título y cédula profesional legalmente expedidos, que la o lo acredite como licenciado en Derecho y tener cuando menos tres años de experiencia profesional;
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-V. Contar con experiencia y conocimientos en materia de Derechos Humanos;
+IV. No haber sido condenado o condenada por delito doloso;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+V. Contar con experiencia y conocimientos en materia de Derechos Humanos; y
 
 > <small>(ADICIONADA, P.O. 20 DE MAYO DE 2009)</small>
 
@@ -383,55 +465,73 @@ VI. Gozar de buena reputación.
 
 La Secretaría Ejecutiva tendrá las siguientes facultades y obligaciones:
 
-I. Proponer al Consejo Consultivo y al Presidente de la Comisión, las políticas generales que en materia de Derechos Humanos habrá de seguir la Comisión ante los organismos gubernamentales y no gubernamentales;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+I. Proponer al Consejo Consultivo y al presidente o presidenta de la Comisión, las políticas generales que en materia de Derechos Humanos habrá de seguir la Comisión ante los organismos gubernamentales y no gubernamentales;
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 2009)</small>
 
 II. Coordinar las acciones de las y los funcionarios de la Comisión, para cumplir con los programas internos de control, evaluación, transparencia y acceso a la información pública, así como de capacitación y evaluación permanentes, a fin de consolidar políticas generales de actuación y atención ciudadana;
 
-III. Colaborar con el Presidente de la Comisión en la elaboración de los informes mensuales, anuales, así como de los especiales;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-IV. Apoyar al Presidente en la elaboración del anteproyecto de presupuesto de la Comisión y supervisar su debida aplicación;
+III. Colaborar con el presidente o presidenta de la Comisión en la elaboración de los informes mensuales, anuales, así como de los especiales;
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-V. Coordinar las actividades de los visitadores y auxiliares jurídicos, en el desempeño de sus funciones, con el propósito de establecer y unificar criterios de actuación, así como los lineamientos generales que en materia de Derechos Humanos habrá de seguir la Comisión;
+IV. Apoyar al presidente o presidenta en la elaboración del anteproyecto de presupuesto de la Comisión y supervisar su debida aplicación;
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-VI. Elaborar las actas de las sesiones del Consejo Consultivo de la Comisión, llevando el registro debido de los acuerdos y actas correspondientes, teniendo el carácter de secretario Técnico en todas las sesiones que se celebren por el Consejo de la Comisión; y
+V. Coordinar las actividades de las y los visitadores y auxiliares jurídicos, en el desempeño de sus funciones, con el propósito de establecer y unificar criterios de actuación, así como los lineamientos generales que en materia de Derechos Humanos habrá de seguir la Comisión;
 
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-VII. Las demás que le encomiende el Presidente en términos de lo dispuesto por la Ley.
+VI. Elaborar las actas de las sesiones del Consejo Consultivo de la Comisión, llevando el registro debido de los Acuerdos y actas correspondientes, teniendo el carácter de Secretaria o Secretario Técnico en todas las sesiones que se celebren por el Consejo de la Comisión; y
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+VII. Las demás que le encomiende el presidente o presidenta, en términos de Ley.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 24.
 
-Los Visitadores deberán reunir para su designación los mismos requisitos que se exigen para ser Secretario Ejecutivo.
+Las y los visitadores deberán reunir para su designación los mismos requisitos que se exigen para ser Secretaria o Secretario Ejecutivo.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 25.
 
-La Visitaduría es el órgano de la Comisión que tendrá bajo su responsabilidad la recepción e investigación de las quejas presentadas por los ciudadanos por alguna presunta lesión o menoscabo en sus Derechos Humanos por actos u omisiones de las autoridades, proveyendo el trámite de las mismas hasta la formulación del proyecto correspondiente.
+La Visitaduría es el órgano de la Comisión que tendrá bajo su responsabilidad la recepción e investigación de las quejas presentadas por las y los ciudadanos por alguna presunta lesión o menoscabo en sus Derechos Humanos por actos u omisiones de las autoridades, proveyendo el trámite de las mismas hasta la formulación del proyecto correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 26.
 
-Los Visitadores de la Comisión tendrán las siguientes atribuciones y obligaciones:
+Las y los visitadores de la Comisión tendrán las siguientes atribuciones y obligaciones:
 
-I. Recibir, prevenir, admitir o desechar las quejas presentadas por los afectados, sus representantes o los denunciantes ante la Comisión, previa fundamentación y motivación;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-II. Iniciar a petición de parte la investigación de las quejas que le sean presentadas, por el quejoso, por grupos o asociaciones sociales por sí o por representantes legales, sobre denuncias de posibles violaciones a Derechos Humanos en el Estado de Morelos, que afecten el interés social, y que resulten de la investigación de los actos u omisiones de servidores públicos o funcionarios, o pongan en riesgo la protección de los derechos fundamentales en el Estado de Morelos;
+I. Recibir, prevenir, admitir o desechar las quejas presentadas por las y los afectados, sus representantes o las y los denunciantes ante la Comisión, previa fundamentación y motivación;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+II. Iniciar a petición de parte la investigación de las quejas que le sean presentadas, por la o el quejoso, por grupos o asociaciones sociales por sí o por representantes legales, sobre denuncias de posibles violaciones a Derechos Humanos en el Estado de Morelos, que afecten el interés social, y que resulten de la investigación de los actos u omisiones de servidoras y servidores públicos o funcionarias o funcionarios, o pongan en riesgo la protección de los derechos fundamentales en el estado de Morelos;
 
 III. Realizar las actividades necesarias para lograr, por medio de la conciliación para la solución inmediata de las violaciones de Derechos Humanos que por sus características lo permitan, bien a través de la restitución de sus derechos, y/o la reparación del daño, según proceda;
 
 IV. Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación o acuerdo;
 
-V. Coordinar entre visitadores los trabajos relacionados con las diligencias, procedimientos y demás actividades tendientes a la integración de los expedientes que se encuentren fuera de su jurisdicción;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-VI. Observar el estricto cumplimiento de los principios que rigen a ésta institución; y (sic)
+V. Coordinar entre visitadoras y visitadores los trabajos relacionados con las diligencias, procedimientos y demás actividades tendientes a la integración de los expedientes que se encuentren fuera de su jurisdicción;
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2009)</small>
+VI. Observar el estricto cumplimiento de los principios que rigen a ésta institución; y
 
-VII. Certificar copias a solicitud de parte, por requerimiento de la autoridad o previa autorización del Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
+
+VII. Certificar copias a solicitud de parte, por requerimiento de la autoridad o previa autorización de la o el secretario ejecutivo;
 
 > <small>(ADICIONADA, P.O. 20 DE MAYO DE 2009)</small>
 
@@ -445,11 +545,13 @@ VIII. Las demás que le señale la presente ley, el Reglamento Interior y el Pre
 
 Cualquier persona podrá presentar queja por presuntas violaciones a los Derechos Humanos por su propio derecho o en representación de terceros.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
-En caso de menores de edad, discapacitados, indígenas, mayores de edad disminuidos o perturbados en su inteligencia que no puedan gobernarse por si mismos o manifestar su voluntad por algún medio, privados de su libertad por alguna autoridad competente, o en casos urgentes, podrá presentarse por sí o por otros, ya sea por comparecencia, por escrito o por cualquier medio electrónico, queja y en todo caso se iniciará el procedimiento correspondiente, en el que una vez que el personal de la Comisión califique la procedibilidad de la reclamación y quede acreditada la presunción de la inexistencia de una violación a los derechos humanos; predominará la palabra hablada no escrita, complementada con la utilización mínima de documentación, debiéndose levantar acta debidamente circunstanciada, misma que deberá contener los datos de identificación del quejoso, así como de ser posible de la identidad del servidor público, además de establecer de manera inmediata comunicación directa con el promovente y los señalados como responsables, dando cumplimiento al principio de inmediación, convocando a una audiencia en la que se desahogara el procedimiento de queja.
+En caso de menores de edad, discapacitados, indígenas, mayores de edad disminuidos o perturbados en su inteligencia que no puedan gobernarse por si mismos o manifestar su voluntad por algún medio, privados de su libertad por alguna autoridad competente, o en casos urgentes, podrá presentarse por sí o por otros, ya sea por comparecencia, por escrito o por cualquier medio electrónico, queja y en todo caso se iniciará el procedimiento correspondiente, en el que una vez que el personal de la Comisión califique la procedibilidad de la reclamación y quede acreditada la presunción de la inexistencia de una violación a los derechos humanos; predominará la palabra hablada no escrita, complementada con la utilización mínima de documentación, debiéndose levantar acta debidamente circunstanciada, misma que deberá contener los datos de identificación del quejoso, así como de ser posible de la identidad de la o del servidor público, además de establecer de manera inmediata comunicación directa con la o el promovente y las o los señalados como responsables, dando cumplimiento al principio de inmediación, convocando a una audiencia en la que se desahogara el procedimiento de queja.
 
-En el supuesto de que los quejosos no puedan identificar a las autoridades o servidores públicos cuyos actos u omisiones consideren haber afectado sus derechos fundamentales, la instancia será admitida, debiendo proporcionar posteriormente datos que permitan su identificación.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
+En el supuesto de que las y los quejosos no puedan identificar a las autoridades o servidoras y servidores públicos cuyos actos u omisiones consideren haber afectado sus derechos fundamentales, la instancia será admitida, debiendo proporcionar posteriormente datos que permitan su identificación.
 
 ###### ARTÍCULO 28.
 
@@ -457,53 +559,63 @@ La queja deberá presentarse en un plazo no mayor de un año contado a partir de
 
 No contará plazo alguno cuando se trate de hechos que por su gravedad puedan ser considerados violaciones de lesa humanidad o constituyan actos u omisiones de tracto sucesivo.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 29.
 
-No se admitirán comunicaciones anónimas, por lo que toda queja deberá ratificarse dentro de los diez días naturales siguientes a su presentación, si el quejoso no se identifica y la suscribe en un primer momento se dejaran a salvo sus derechos previo acuerdo correspondiente.
+No se admitirán comunicaciones anónimas, por lo que toda queja deberá ratificarse dentro de los diez días naturales siguientes a su presentación, si el quejoso o quejosa no se identifica y la suscribe en un primer momento se dejaran a salvo sus derechos previo Acuerdo correspondiente.
 
-Cuando los quejosos o agraviados se encuentren recluidos en un centro de detención o reclusión, sus quejas deberán ser transmitidas sin demora alguna a la Comisión a través de los visitadores.
+Cuando las y los quejosos o las y los agraviados se encuentren recluidos en un centro de detención o reclusión, sus quejas deberán ser transmitidas sin demora alguna a la Comisión a través de las y los visitadores.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 30.
 
-La Comisión deberá poner a disposición de los reclamantes, formularios que faciliten el trámite, y en todo caso, orientará a los comparecientes sobre el contenido de su queja o reclamación. Las quejas también podrán presentarse oralmente, cuando los comparecientes no puedan leer o escribir o por discapacidad, estén privados de su libertad o sean menores de edad, debiendo ratificarse de ser posible ante los Visitadores en el mismo acto por sí o por sus representantes. Tratándose de personas que no hablen o entiendan el idioma español, se les proporcionará gratuitamente un traductor.
+La Comisión deberá poner a disposición de las y los reclamantes, formularios que faciliten el trámite, y en todo caso, orientará a los comparecientes sobre el contenido de su queja o reclamación. Las quejas también podrán presentarse oralmente, cuando las y los comparecientes no puedan leer o escribir o por discapacidad, estén privadas o privados de su libertad o sean menores de edad, debiendo ratificarse de ser posible ante las y los visitadores en el mismo acto por sí o por sus representantes. Tratándose de personas que no hablen o entiendan el idioma español, se les proporcionará gratuitamente un traductor.
 
-Cuando un quejoso habiendo designado persona de su confianza y en caso de posterior revocación de su designación, éste deberá hacerlo saber a la Comisión, dentro de un término de cinco días naturales posteriores al acaecimiento de dicha circunstancia; en caso contrario las notificaciones y actuaciones posteriores se le notificarán por Estrados.
+Cuando un (sic) una quejosa o quejoso habiendo designado persona de su confianza y en caso de posterior revocación de su designación, éste deberá hacerlo saber a la Comisión, dentro de un término de cinco días naturales posteriores al acaecimiento de dicha circunstancia; en caso contrario las notificaciones y actuaciones posteriores se le notificarán por estrados.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 31.
 
-La formulación de acuerdos y recomendaciones que emita este Organismo serán emitidos con plena certeza jurídica al desahogarse el procedimiento de queja de forma oral y con la presencia de las partes y servidores públicos de esta Comisión, así como las quejas y denuncias que presenten los particulares. Actuaciones que no afectarán el ejercicio de otros derechos y medios de defensa que puedan corresponder a los afectados conforme a las leyes, ni suspenderán o interrumpirán plazos preclusivos, de prescripción o caducidad. Estas circunstancias deberán señalarse a los interesados en el acuerdo de admisión de la instancia.
+La formulación de acuerdos y recomendaciones que emita este Organismo serán emitidos con plena certeza jurídica al desahogarse el procedimiento de queja de forma oral y con la presencia de las partes y servidoras y servidores públicos de esta Comisión, así como las quejas y denuncias que presenten los particulares. Actuaciones que no afectarán el ejercicio de otros derechos y medios de defensa que puedan corresponder a las y los afectados conforme a las leyes, ni suspenderán o interrumpirán plazos preclusivos, de prescripción o caducidad. Estas circunstancias deberán señalarse a las y los interesados en el acuerdo de admisión de la instancia.
 
 ###### ARTÍCULO 32.
 
 Cuando la queja sea inadmisible por estimarse improcedente o por no ser de la competencia de la Comisión, deberá proporcionarse orientación al interesado para que acuda a la autoridad o servidor público que le corresponda conocer del asunto. Se dejará constancia de ello mediante el acuerdo respectivo.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 33.
 
-Una vez admitida la queja deberá hacerse del conocimiento a las autoridades señaladas como responsables, así como al superior jerárquico, utilizando en casos de urgencia cualquier medio de comunicación, incluidos los electrónicos y solicitará a dichas autoridades o servidores públicos rindan un informe sobre los actos u omisiones que se les atribuyan en la queja, el cual deberán presentar dos días antes de la audiencia señalada para conciliar el asunto planteado, misma que se fijará dentro de los diez días naturales posteriores a la admisión de su queja.
+Una vez admitida la queja deberá hacerse del conocimiento a las autoridades señaladas como responsables, así como al superior jerárquico, utilizando en casos de urgencia cualquier medio de comunicación, incluidos los electrónicos y solicitará a dichas autoridades, servidoras o servidores públicos rindan un informe sobre los actos u omisiones que se les atribuyan en la queja, el cual deberán presentar dos días antes de la audiencia señalada para conciliar el asunto planteado, misma que se fijará dentro de los diez días naturales posteriores a la admisión de su queja.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 34.
 
-Registrada cualquier queja, el Presidente o el Visitador se pondrá en contacto con la autoridad señalada como responsable de la violación de Derechos Humanos, buscando una conciliación entre los intereses de las partes involucradas, la que se desahogará oralmente, dejando asentado por escrito de manera sucinta el acuerdo que hayan llegado las partes o su negativa, siempre y cuando la naturaleza del caso lo permita de acuerdo a esta Ley, lo anterior dentro del marco del respeto a la dignidad humana de los quejosos, a fin de lograr una solución inmediata del conflicto.
-
-La conciliación procederá sólo cuando exista la aceptación del sujeto agraviado y el reconocimiento de la autoridad de que ha cometido una violación a los Derechos Humanos.
-
-El acuerdo de la conciliación deberá contener el compromiso de la autoridad a reparar el daño, la garantía de no repetir los actos y la atención a las víctimas, presentando las pruebas del cumplimiento en el momento oportuno.
+Registrada cualquier queja, el presidente o presidenta o la visitadora o el visitador se pondrá en contacto con la autoridad señalada como responsable de la violación de Derechos Humanos, buscando una conciliación entre los intereses de las partes involucradas, la que se desahogará oralmente, dejando asentado por escrito de manera sucinta el acuerdo que hayan llegado las partes o su negativa, siempre y cuando la naturaleza del caso lo permita de acuerdo a esta Ley, lo anterior dentro del marco del respeto a la dignidad humana de los quejosos, a fin de lograr una solución inmediata del conflicto.
 
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
 
+La conciliación procederá sólo cuando exista la aceptación del sujeto agraviado y el reconocimiento de la autoridad de que ha cometido una violación a los Derechos Humanos.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
+
+El acuerdo de la conciliación deberá contener el compromiso de la autoridad a reparar el daño, la garantía de no repetir los actos y la atención a las víctimas, presentando las pruebas del cumplimiento en el momento oportuno.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 35.
 
-La Comisión ordenará el archivo definitivo de algún expediente, cuando se haya logrado completamente una solución satisfactoria o el allanamiento de los responsables o en su caso se haya resuelto conforme lo establece su Reglamento Interno, con su respectivo seguimiento.
+La Comisión ordenará el archivo definitivo de algún expediente, cuando se haya logrado completamente una solución satisfactoria o el allanamiento de las o los responsables o en su caso se haya resuelto conforme lo establece su Reglamento Interno, con su respectivo seguimiento.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 36.
 
-Si presentada la queja, no se deducen los elementos mínimos que permitan la intervención de la Comisión, ésta requerirá por escrito al quejoso para que la aclare. Si después de haber requerido al quejoso, este omite hacerlo, se dejaran a salvo sus derechos a efecto de salvaguardar sus prerrogativas, debiéndosele notificar por estrados el respectivo acuerdo.
+Si presentada la queja, no se deducen los elementos mínimos que permitan la intervención de la Comisión, ésta requerirá por escrito al quejoso o quejosa para que la aclare. Si después de haber requerido al quejoso o quejosa, este omite hacerlo, se dejarán a salvo sus derechos a efecto de salvaguardar sus prerrogativas, debiéndosele notificar por estrados el respectivo acuerdo.
 
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
 
@@ -513,33 +625,41 @@ Las autoridades deberán rendir informe dentro de los dos días hábiles a aquel
 
 La falta de rendición de informe o pruebas en que apoye sus resolución o actos o bien el retraso injustificado en su presentación, tendrá por efecto ciertos los hechos materia de la misma, salvo prueba en contrario. De lo anterior, la Comisión dará cuenta inmediata ala autoridad sancionadora, con efectos de denuncia, para los efectos que haya lugar.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 38.
 
-Rendido el informe correspondiente, su contenido se hará del conocimiento del quejoso, explicándole y orientándole sobre el mismo para que en caso de no llegar a un acuerdo en la audiencia de conciliación o de no llegar a consumarse, en un término no mayor de diez días naturales, manifieste lo que a su derecho convenga y aporte los elementos de prueba para sustentar la queja.
+Rendido el informe correspondiente, su contenido se hará del conocimiento del quejoso o quejosa, explicándole y orientándole sobre el mismo para que en caso de no llegar a un acuerdo en la audiencia de conciliación o de no llegar a consumarse, en un término no mayor de diez días naturales, manifieste lo que a su derecho convenga y aporte los elementos de prueba para sustentar la queja.
 
 ### CAPÍTULO SEGUNDO. DE LAS EVIDENCIAS
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 39.
 
-Para conocer la verdad sobre los hechos motivo de la queja, la Comisión puede valerse de cualquier evidencia, sin más limitación de aquellas que no estén prohibidas por la Ley, ni sean contrarias a la moral, pudiendo decretar en todo tiempo, hasta antes de emitir resolución la práctica o ampliación de cualquier diligencia probatoria, siempre que sea conducente para el conocimiento de la verdad sobre los hechos de la queja, sin lesionar los derechos del quejoso.
+Para conocer la verdad sobre los hechos motivo de la queja, la Comisión puede valerse de cualquier evidencia, sin más limitación de aquellas que no estén prohibidas por la Ley, ni sean contrarias a la moral, pudiendo decretar en todo tiempo, hasta antes de emitir resolución la práctica o ampliación de cualquier diligencia probatoria, siempre que sea conducente para el conocimiento de la verdad sobre los hechos de la queja, sin lesionar los derechos del quejoso o quejosa.
 
 ###### ARTÍCULO 40.
 
 Para la integración del expediente de queja, las autoridades señaladas como presuntamente responsables están obligadas a prestar ayuda y facilitar las evidencias que decrete la Comisión, y en consecuencia deberán sin demora exhibir los documentos, elementos o cosas que tengan en su poder o permitir la inspección cuando ello fuere necesario, siempre y cuando estén relacionados íntimamente con los hechos materia del procedimiento respectivo.
 
-La Comisión podrá solicitar a los particulares o servidores públicos que deban comparecer como peritos o testigos, en términos del Reglamento Interno de ésta Comisión, así como practicar visitas e inspecciones y efectuar todas las acciones que conforme a derecho juzgue convenientes para el mejor conocimiento en la integración de la Investigación.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
-Bajo ninguna circunstancia se negará al personal de la Comisión el acceso a las personas, servidores públicos, dependencias o documentos que se relacionen con las investigaciones que realicen en el cumplimiento de sus funciones, de la observancia a los principios señalados en esta Ley y su Reglamento Interno.
+La Comisión podrá solicitar a las y los particulares, servidoras o servidores públicos que deban comparecer como peritos o testigos, en términos del Reglamento Interno de ésta Comisión, así como practicar visitas e inspecciones y efectuar todas las acciones que conforme a derecho juzgue convenientes para el mejor conocimiento en la integración de la Investigación.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
+Bajo ninguna circunstancia se negará al personal de la Comisión el acceso a las personas, servidoras y servidores públicos, Dependencias o documentos que se relacionen con las investigaciones que realicen en el cumplimiento de sus funciones, de la observancia a los principios señalados en esta Ley y su Reglamento Interno.
 
 ###### ARTÍCULO 41.
 
 Siempre que la autoridad señalada como presunta responsable, ante la negación al momento de la solicitud del informe, argumente desconocimiento o no aceptación de los hechos que integran la queja, deberá acreditar el sentido de dicha contestación.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 42.
 
-El visitador responsable de la integración del expediente aceptará de la autoridad señalada como presunta responsable, todos aquellos medios de convicción aprobados por el orden jurídico mexicano, a excepción de la confesional, declaración de parte, y careos, así como interrogatorios a los quejosos, en términos de esta Ley y el Reglamento Interno de la Comisión.
+El visitador o visitadora responsable de la integración del expediente aceptará de la autoridad señalada como presunta responsable, todos aquellos medios de convicción aprobados por el orden jurídico mexicano, a excepción de la confesional, declaración de parte, y careos, así como interrogatorios a los quejosos o quejosas, en términos de esta Ley y el Reglamento Interno de la Comisión.
 
 ###### ARTÍCULO 43.
 
@@ -549,49 +669,63 @@ Las actuaciones, recomendaciones, solicitudes y acuerdos de la Comisión se har�
 
 ### CAPÍTULO TERCERO. DE LAS MEDIDAS PRECAUTORIAS
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 44.
 
-El Presidente, los Visitadores y los encargados en turno de la Comisión, tendrán la facultad de solicitar en cualquier momento a las autoridades señaladas como responsables, que conforme a lo establecido por el Reglamento Interior de la Comisión, se tomen las medidas precautorias necesarias y suficientes para evitar la consumación irreparable de las presuntas violaciones denunciadas o reclamadas o la realización de daños de difícil reparación a los afectados, debiendo informar a esta Comisión sobre las medidas tomadas.
+El presidente o presidenta, los visitadores, visitadoras y las y los encargados en turno de la Comisión, tendrán la facultad de solicitar en cualquier momento a las autoridades señaladas como responsables, que conforme a lo establecido por el Reglamento Interior de la Comisión, se tomen las medidas precautorias necesarias y suficientes para evitar la consumación irreparable de las presuntas violaciones denunciadas o reclamadas o la realización de daños de difícil reparación a los afectados, debiendo informar a esta Comisión sobre las medidas tomadas.
 
 ## TÍTULO CUARTO
 
 ### CAPÍTULO I. DE LAS RECOMENDACIONES, ACUERDOS DE NO RESPONSABILIDAD Y SOLICITUDES
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 45.
 
-La Comisión podrá emitir para su mejor funcionamiento en cumplimiento a los principios que la rigen, todos los acuerdos simples o de trámite y todas las medidas precautorias, que para las autoridades o servidores públicos serán obligatorias en términos de esta Ley y su Reglamento Interno, con el objeto de que comparezcan o aporten informes, documentación o información, relacionada con la materia del citado acuerdo, en la inteligencia que su incumplimiento, parcialidad, o evasiva, se harán acreedores a los supuestos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
+La Comisión podrá emitir para su mejor funcionamiento en cumplimiento a los principios que la rigen, todos los acuerdos simples o de trámite y todas las medidas precautorias, que para las autoridades o servidoras y servidores públicos serán obligatorias en términos de esta Ley y su Reglamento Interno, con el objeto de que comparezcan o aporten informes, documentación o información, relacionada con la materia del citado acuerdo, en la inteligencia que su incumplimiento, parcialidad, o evasiva, se harán acreedores o acreedoras a los supuestos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 46.
 
-Concluida la investigación, los Visitadores formularán, en su caso, el proyecto de Recomendación o Acuerdo de no Responsabilidad, según corresponda, en el cual se analizarán los hechos reclamados, los argumentos y aquellos medios probatorios existentes en el expediente, así como los elementos de convicción y las diligencias practicadas de oficio, a fin de determinar si las autoridades y servidores públicos contra los cuales se han presentado las quejas han violado o no los Derechos Humanos de los afectados, al haber incurrido en actos u omisiones ilegales.
+Concluida la investigación, los visitadores o visitadoras formularán, en su caso, el proyecto de Recomendación o Acuerdo de no Responsabilidad, según corresponda, en el cual se analizarán los hechos reclamados, los argumentos y aquellos medios probatorios existentes en el expediente, así como los elementos de convicción y las diligencias practicadas de oficio, a fin de determinar si las autoridades y servidoras o servidores públicos contra los cuales se han presentado las quejas han violado o no los Derechos Humanos de las y los afectados, al haber incurrido en actos u omisiones ilegales.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 47.
 
-Los proyectos de Recomendaciones y Acuerdos de No Responsabilidad, serán presentados por los Visitadores al Presidente de la Comisión para su aprobación y autorización.
+Los proyectos de Recomendaciones y Acuerdos de No Responsabilidad, serán presentados por las y los Visitadores al Presidente o Presidenta de la Comisión para su aprobación y autorización.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 48.
 
-Las recomendaciones que emita la Comisión deberán reunir las evidencias, el planteamiento, el análisis y las observaciones que permitan llevar a cabo el resarcimiento de los derechos del quejoso, la conciliación, o la posible solución del caso en lo particular, dirigido a la autoridad responsable que corresponda.
+Las recomendaciones que emita la Comisión deberán reunir las evidencias, el planteamiento, el análisis y las observaciones que permitan llevar a cabo el resarcimiento de los derechos del quejoso o quejosa, la conciliación, o la posible solución del caso en lo particular, dirigido a la autoridad responsable que corresponda.
 
 ###### ARTÍCULO 49.
 
 Las Recomendaciones y los Acuerdos de No Responsabilidad, se referirán a casos concretos.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 50.
 
-Las solicitudes que realice la Comisión deberán contener las medidas necesarias para la protección y aseguramiento de los Derechos Humanos con la finalidad de evitar la repetición de aquellos actos y omisiones de las autoridades y servidores públicos, mediante el razonamiento legal, la motivación y fundamentación correspondiente; sin perjuicio de que comprendan sugerencias de reformas en el orden legal y administrativo, ante las instancias facultadas para ello, para evitar la repetición de los actos violatorios de los Derechos Humanos y favorecer con ello su protección.
+Las solicitudes que realice la Comisión deberán contener las medidas necesarias para la protección y aseguramiento de los Derechos Humanos con la finalidad de evitar la repetición de aquellos actos y omisiones de las autoridades y servidoras y servidores públicos, mediante el razonamiento legal, la motivación y fundamentación correspondiente; sin perjuicio de que comprendan sugerencias de reformas en el orden legal y administrativo, ante las instancias facultadas para ello, para evitar la repetición de los actos violatorios de los Derechos Humanos y favorecer con ello su protección.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 51.
 
-La recomendación señalará las medidas que procedan para la efectiva restitución de los derechos vulnerados de los afectados y si procede, en su caso, la reparación de los daños y perjuicios que se hubiesen ocasionado; para tal efecto la recomendación que se emita podrá servir al quejoso como medio preparatorio a juicio para exigir la responsabilidad civil que resulte, de conformidad con las reglas y competencia señaladas por la Legislación Civil vigente en el Estado de Morelos.
+La recomendación señalará las medidas que procedan para la efectiva restitución de los derechos vulnerados de las y los afectados y si procede, en su caso, la reparación de los daños y perjuicios que se hubiesen ocasionado; para tal efecto la recomendación que se emita podrá servir al quejoso o quejosa como medio preparatorio a juicio para exigir la responsabilidad civil que resulte, de conformidad con las reglas y competencia señaladas por la legislación civil vigente en el estado de Morelos.
 
 De igual forma se resolverá definitivamente lo relativo a las medidas provisionales decretadas dentro del procedimiento, en los términos antes señalados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 52.
 
-Las recomendaciones serán públicas, no tendrán carácter imperativo ni vinculatorio para la autoridad o servidor público a quienes se dirijan y en consecuencia, no podrán por sí mismas anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiese presentado la queja.
+Las recomendaciones serán públicas, no tendrán carácter imperativo ni vinculatorio para la autoridad o servidora y servidor público a quienes se dirijan y en consecuencia, no podrán por sí mismas anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiese presentado la queja.
 
 De lo anterior se exceptúan aquellas responsabilidades que se deriven y se hagan efectivas en contra del servidor público directamente responsable, en términos de artículo 51 de la presente Ley.
 
@@ -599,19 +733,21 @@ De lo anterior se exceptúan aquellas responsabilidades que se deriven y se haga
 
 Dentro de los diez días naturales siguientes a su notificación, la autoridad responsable, informarán a la Comisión si aceptan o no la citada recomendación; de ser aceptada remitirán dentro de los diez días naturales siguientes, las pruebas que acrediten el cumplimiento de la misma.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 54.
 
-La Comisión notificará tanto al quejoso como a la autoridad responsable dentro de los diez días naturales siguientes, los resultados de la investigación, la recomendación y/o solicitudes que haya dirigido a las autoridades responsables de las violaciones respectivas, la aceptación o rechazo, así como el cumplimiento que se haya dado a la misma, o en su caso, el Acuerdo de No Responsabilidad.
+La Comisión notificará tanto al quejoso o quejosa como a la autoridad responsable dentro de los diez días naturales siguientes, los resultados de la investigación, la recomendación y/o solicitudes que haya dirigido a las autoridades responsables de las violaciones respectivas, la aceptación o rechazo, así como el cumplimiento que se haya dado a la misma, o en su caso, el Acuerdo de No Responsabilidad.
 
 ###### ARTÍCULO 55.
 
 La Comisión deberá ordenar la publicación mediante estrados de las recomendaciones, acuerdos de no responsabilidad, solicitudes, cumplimientos e incumplimientos de recomendaciones.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 56.
 
-Ninguna autoridad o servidor público dará instrucciones a la Comisión respecto de las actuaciones que se practiquen con motivo de la integración de un expediente, una gestión o cualquier actividad encaminada a la protección, divulgación, estudio, enseñanza y defensa de los derechos fundamentales, así como de los resultados de la investigación regulados por esta ley.
+Ninguna autoridad, servidora y servidor público dará instrucciones a la Comisión respecto de las actuaciones que se practiquen con motivo de la integración de un expediente, una gestión o cualquier actividad encaminada a la protección, divulgación, estudio, enseñanza y defensa de los derechos fundamentales, así como de los resultados de la investigación regulados por esta Ley.
 
 ## TÍTULO QUINTO
 
@@ -621,13 +757,17 @@ Ninguna autoridad o servidor público dará instrucciones a la Comisión respect
 
 Las inconformidades se substanciaran mediante los recursos de queja e impugnación, con base en lo dispuesto por el artículo 102, apartado B, de la Constitución Federal y de acuerdo con las disposiciones de la Ley de la Comisión Nacional de los Derechos Humanos.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 58.
 
-El recurso de queja solo podrá ser promovido por los quejosos o denunciantes, por escrito, en casos de urgencia por comparecencia o por cualquier medio de comunicación, cuando sufran un perjuicio grave, por las omisiones o por la inactividad de la Comisión con motivo de los procedimientos que hubiesen substanciado ante los mismos, y siempre que no exista recomendación alguna sobre el asunto de que se trate y hayan transcurrido seis meses desde que se presento la queja o denuncia ante el propio organismo local.
+El recurso de queja solo podrá ser promovido por los quejosos, quejosas o denunciantes, por escrito, en casos de urgencia por comparecencia o por cualquier medio de comunicación, cuando sufran un perjuicio grave, por las omisiones o por la inactividad de la Comisión con motivo de los procedimientos que hubiesen substanciado ante los mismos, y siempre que no exista recomendación alguna sobre el asunto de que se trate y hayan transcurrido seis meses desde que se presentó la queja o denuncia ante el propio organismo local.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2021)</small>
 
 ###### ARTÍCULO 59.
 
-El recurso de impugnación procederá exclusivamente ante la Comisión Nacional de los Derechos Humanos y contra las resoluciones definitivas emitidas por la Comisión o respecto de las informaciones también definitivas de las autoridades locales sobre el cumplimiento de las recomendaciones emitidas por los citados organismos. Excepcionalmente podrán impugnarse los acuerdos de los propios organismos estatales cuando a juicio de la Comisión Nacional de Derechos Humanos se violen ostensiblemente los derechos de los quejosos o denunciantes en los procedimientos seguidos ante los citados organismos y los derechos que deban protegerse de inmediato.
+El recurso de impugnación procederá exclusivamente ante la Comisión Nacional de los Derechos Humanos y contra las resoluciones definitivas emitidas por la Comisión o respecto de las informaciones también definitivas de las autoridades locales sobre el cumplimiento de las recomendaciones emitidas por los citados organismos. Excepcionalmente podrán impugnarse los acuerdos de los propios organismos estatales cuando a juicio de la Comisión Nacional de Derechos Humanos se violen ostensiblemente los derechos de los quejosos, quejosas o denunciantes en los procedimientos seguidos ante los citados organismos y los derechos que deban protegerse de inmediato.
 
 Para la substanciación del presente recurso, deberá interponerse ante ésta Comisión, por escrito dentro de los treinta días naturales posteriores a la notificación del acto impugnado.
 
@@ -641,15 +781,19 @@ La Comisión deberá remitir el recurso correspondiente a la Comisión Nacional 
 
 La Comisión para el cumplimiento de sus atribuciones y obligaciones contará con patrimonio propio. El Gobierno del Estado de Morelos con aprobación del Congreso del Estado, proporcionará los recursos materiales y financieros necesarios para su debido funcionamiento, quedando facultada para allegarse de recursos físicos, materiales y financieros a través de cualquier instrumento legal, ya sea por medio de personas físicas o morales, nacionales o internacionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 61.
 
-El informe que anualmente presente el Presidente al Congreso del Estado y al Titular del Poder Ejecutivo, deberá contener los datos que permitan apreciar el estado que guarden las quejas que se hayan presentado ante la Comisión y el seguimiento de las Recomendaciones, Acuerdos de No Responsabilidad y Solicitudes emitidas. Dando cuenta del desarrollo y resultados de los programas del Organismo, las medidas implementadas para prevenir la transgresión a los derechos fundamentales, la promoción, estudio, capacitación y divulgación de estos, así como su participación en diversos eventos de carácter social y jurídico.
+El informe que anualmente presente el presidente o presidenta al Congreso del Estado y al titular del Poder Ejecutivo, deberá contener los datos que permitan apreciar el estado que guarden las quejas que se hayan presentado ante la Comisión y el seguimiento de las recomendaciones, acuerdos de no responsabilidad y solicitudes emitidas. Dando cuenta del desarrollo y resultados de los programas del Organismo, las medidas implementadas para prevenir la transgresión a los derechos fundamentales, la promoción, estudio, capacitación y divulgación de estos, así como su participación en diversos eventos de carácter social y jurídico.
 
 En dicho informe se hará una evaluación integral del estado que guarda la Comisión defensora de los Derechos Humanos, así como el análisis de los obstáculos que impidieron el cumplimiento puntual de sus fines y objetivos expresando las propuestas que tiendan a establecer compromisos de trabajo conjunto a través de políticas públicas o propuestas de reformas legales que se requieran.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
 ###### ARTÍCULO 62.
 
-El Presidente de la Comisión, en casos de particular importancia o gravedad, deberá presentar al Congreso del Estado, al Titular del Poder Ejecutivo y a la opinión pública los informes especiales que sean necesarios.
+El presidente o presidenta de la Comisión, en casos de particular importancia o gravedad, deberá presentar al Congreso del Estado, al titular del Poder Ejecutivo y a la opinión pública los informes especiales que sean necesarios.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -746,3 +890,11 @@ P.O. 23 DE JULIO DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 27 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO NOVECIENTOS SESENTA POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MORELOS, EN MATERIA DE LENGUAJE INCLUYENTE".]
+
+PRIMERA. Remítase el presente decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
