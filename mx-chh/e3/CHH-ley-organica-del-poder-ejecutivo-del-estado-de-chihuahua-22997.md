@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2020-03-21"
+last_updated: "2021-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2021.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -505,13 +505,17 @@ XXIV. Intervenir, en auxilio y coordinación con las autoridades federales, en l
 
 XXV. Fomentar y apoyar la realización de programas de colaboración intermunicipales, para coadyuvar e incidir en la prevención o solución de problemas comunes a más de un municipio o que faciliten la convivencia de sus habitantes;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-XXVI. Participar en los planes, programas y acciones de población en los términos que establezcan las leyes, así como coordinar y vigilar el funcionamiento del Consejo Estatal de Población, y
+XXVI.- Participar en los planes, programas y acciones de población en los términos que establezcan las leyes, así como coordinar y vigilar el funcionamiento del Consejo Estatal de Población.
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ENERO DE 2021)</small>
 
-XXVII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXVII.- Coordinar el esfuerzo conjunto de las Dependencias y Entidades de la Administración Pública Estatal que integran los Centros de Justicia para las Mujeres en el Estado, ejerciendo funciones de control, vigilancia, supervisión y seguimiento de las responsabilidades que les competen, así como presidir el Consejo Consultivo de los Centros de Justicia para las Mujeres conforme a los objetivos establecidos en el Acuerdo que les da origen.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2021)</small>
+
+XXVIII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -675,13 +679,17 @@ XII.- Definir las zonas de atención prioritaria de conformidad con los índices
 
 XIII.- Fomentar las actividades de las organizaciones de la sociedad civil que incidan en el campo del desarrollo social y humano, y
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-XIV. Llevar a cabo programas de desarrollo que deberán incluir acciones de asistencia, ayudas alimenticias, campañas de salud, educación, vivienda y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en aumentar el riesgo de victimización de los delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, y
+XIV.- Llevar a cabo programas de desarrollo que deberán incluir acciones de asistencia, ayudas alimenticias, campañas de salud, educación, vivienda y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en aumentar el riesgo de victimización de los delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ENERO DE 2021)</small>
 
-XV. Las demás que le atribuyan expresamente las leyes, los reglamentos y otras disposiciones normativas.
+XV.- Colaborar en el trabajo conjunto de las Dependencias y Entidades de la Administración Pública Estatal que integran los Centros de Justicia para las Mujeres en el Estado, para desde el ámbito competencial correspondiente contribuir a los objetivos establecidos en el Acuerdo que les da origen.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2021)</small>
+
+XVI.- Las demás que le atribuyan expresamente las leyes, los reglamentos y otras disposiciones normativas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -735,9 +743,17 @@ XX.- Imponer y aplicar sanciones en los términos de las leyes, reglamentos y de
 
 XXI.- Participar, en el ámbito de su competencia, en la substanciación de los recursos administrativos previstos por las leyes;
 
-XXII.- Administrar el patrimonio de la Beneficencia Pública en materia de salud, en los términos de las disposiciones legales aplicables, a fin de apoyar a los programas de servicios de salud, y
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-XXIII.- Las demás que le fijen expresamente las leyes, los reglamentos y otras disposiciones normativas.
+XXII.- Administrar el patrimonio de la Beneficencia Pública en materia de salud, en los términos de las disposiciones legales aplicables, a fin de apoyar a los programas de servicios de salud.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ENERO DE 2021)</small>
+
+XXIII.- Colaborar en el trabajo conjunto de las Dependencias y Entidades de la Administración Pública Estatal que integran los Centros de Justicia para las Mujeres en el Estado, para desde el ámbito competencial correspondiente contribuir a los objetivos establecidos en el Acuerdo que les da origen.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2021)</small>
+
+XXIV.- Las demás que le fijen expresamente las leyes, los reglamentos y otras disposiciones normativas.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -957,17 +973,17 @@ XV.- Ser autoridad en materia de infraestructura física educativa, en los térm
 
 XVI.- Organizar, coordinar y fomentar la enseñanza y práctica de los deportes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+XVII.- Participar en cualquier acto, convenio o contrato que obligue al Gobierno del Estado en las materias establecidas en este artículo.
 
-XVII.- Participar en cualquier acto, convenio o contrato que obligue al Gobierno del Estado en las materias establecidas en este artículo, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ENERO DE 2021)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+XVIII.- Colaborar en el trabajo conjunto de las Dependencias y Entidades de la Administración Pública Estatal que integran los Centros de Justicia para las Mujeres en el Estado, para desde el ámbito competencial correspondiente contribuir a los objetivos establecidos en el Acuerdo que les da origen.
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2021)</small>
 
-XVIII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+XIX.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -3150,3 +3166,9 @@ ARTÍCULO DECIMOTERCERO.- El Ejecutivo del Estado deberá realizar las adecuacio
 ARTÍCULO DECIMOCUARTO.- El Ejecutivo del Estado, en el ejercicio de las atribuciones previstas en el presente Decreto, brindará asesoría y seguimiento con las personas mayores de sesenta años, para la constitución de personas morales dedicadas al transporte público.
 
 ARTÍCULO DECIMOQUINTO.- En tanto no se expida la Ley de Procedimiento Administrativo del Estado, se aplicarán en lo conducente el Código Administrativo y el Código de Procedimientos Civiles, ambos ordenamientos del Estado de Chihuahua.
+
+P.O. 27 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0771/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
