@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2020-12-05"
+last_updated: "2021-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2021.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2335,7 +2335,7 @@ Este delito se perseguirá previa querella.
 
 La cópula entre ascendientes y descendientes consanguíneos en línea recta o entre hermanos, se sancionará con prisión o tratamiento en libertad de uno a seis años.
 
-### CAPÍTULO VII. SEXTING
+### CAPÍTULO VII. CONTRA LA INTIMIDAD SEXUAL
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2017)</small>
 
@@ -2353,7 +2353,7 @@ II. Prohibición de ir a una circunscripción territorial determinada o residir 
 
 Lo anterior se podrá imponer en el resto de los delitos previstos en el presente Título.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2021)</small>
 
 ### CAPÍTULO I
 
@@ -2364,6 +2364,10 @@ DELITOS CONTRA LA FORMACIÓN DE LAS PERSONAS MENORES DE EDAD Y PROTECCIÓN INTEG
 A quien reciba u obtenga de una persona, imágenes, textos o grabaciones de voz o audiovisuales de contenido erótico o sexual y las revele o difunda sin su consentimiento y en perjuicio de su intimidad, se le impondrá de seis meses a cuatro años de prisión y de cien a doscientos días de multa.
 
 Las penas a que se refiere el presente artículo, se aumentarán en una mitad cuando el delito se cometa en contra de una persona menor de catorce años o que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, aun y cuando mediare su consentimiento.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2021)</small>
+
+A quien sin haber recibido u obtenido de la víctima imágenes, textos o grabaciones de voz o audiovisuales de contenido erótico o sexual, y a sabiendas de que la información fue revelada y difundida sin el consentimiento de la víctima y aun así la difunde, se le impondrá de noventa a ciento ochenta días de trabajo a favor de la comunidad. Si la víctima es de las contempladas en el párrafo anterior, además de trabajo a favor de la comunidad, se le impondrá de seis meses a dos años de prisión.
 
 ## TÍTULO SEXTO. DELITOS CONTRA LA EVOLUCIÓN O DESARROLLO DE LA PERSONALIDAD
 
@@ -2402,6 +2406,14 @@ No se actualizará el delito tratándose de programas preventivos, educativos o 
 ###### Artículo 184.
 
 A quien pague o prometa pagarle con dinero u otra ventaja de cualquier naturaleza a una persona menor de dieciocho años o a un tercero para que aquélla sostenga relaciones o actos sexuales o eróticos, se le impondrá prisión de uno a tres años y de cincuenta a doscientos días de multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2021)</small>
+
+###### Artículo 184 Bis.
+
+A quien, con fines lascivos, mediante el uso de las tecnologías de la información y la comunicación o cualquier otro medio, contacte a persona menor de dieciocho años para concertar un encuentro físico u obtener imágenes, textos, grabaciones de audio o video de contenido erótico o sexual, se le impondrá de uno a tres años de prisión, de cien a trescientos días multa y el sometimiento a tratamiento integral especializado enfocado a la erradicación de la violencia sexual.
+
+No se aplicará sanción alguna cuando la víctima sea mayor de catorce años, pero menor de dieciocho años de edad y, por su desarrollo y madurez se establezca de manera objetiva y razonable, que hubo consentimiento válido por no existir una relación asimétrica de poder o cualquier otra condición desfavorable de desigualdad respecto del sujeto activo, que viciara ese consentimiento.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MAYO DE 2014)</small>
 
@@ -5522,3 +5534,9 @@ P.O. 5 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFCOD/0791/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
