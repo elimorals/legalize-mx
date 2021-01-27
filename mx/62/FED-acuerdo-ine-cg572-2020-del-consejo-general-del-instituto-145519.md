@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg572-2020-del-consejo-general-del-instituto-145519
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-12-07"
-last_updated: "2020-12-07"
+last_updated: "2021-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145519&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-11-18"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS CRITERIOS APLICABLES PARA EL REGISTRO DE CANDIDATURAS A DIPUTACIONES POR AMBOS PRINCIPIOS QUE PRESENTEN LOS PARTIDOS POLÍTICOS NACIONALES Y, EN SU CASO, LAS COALICIONES ANTE LOS CONSEJOS DEL INSTITUTO, PARA EL PROCESO ELECTORAL FEDERAL 2020-2021
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2021.
 
 Acuerdo publicado en el Número 8 del Diario Oficial de la Federación, el lunes 7 de diciembre de 2020.
 
@@ -91,7 +91,9 @@ q) En caso de reelección, y en el supuesto de ser postulado por un partido o co
 
 r) Certificado de nacionalidad mexicana expedido por la Secretaría de Relaciones Exteriores, en su caso.
 
-s) Escrito de autoadscripción y constancias que acrediten la adscripción indígena conforme a lo establecido en el Punto Décimo octavo del presente Acuerdo, en su caso.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2021)</small>
+
+s) Constancias que acrediten la adscripción indígena conforme a lo establecido en el Punto Décimo octavo del presente Acuerdo, en su caso.
 
 t) Carta firmada, de buena fe y bajo protesta de decir verdad, donde se establezca lo siguiente:
 
@@ -102,6 +104,14 @@ II. No haber sido persona condenada, o sancionada mediante Resolución firme por
 III. No haber sido persona condenada o sancionada mediante Resolución firme como deudor alimentario o moroso que atenten contra las obligaciones alimentarias, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimentarios.
 
 u) Escrito bajo protesta de decir verdad de no haber sido condenado o condenada por delito de violencia política contra las mujeres en razón de género y de no tener por desvirtuada la presunción de tener un modo honesto de vivir.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2021)</small>
+
+v) Carta bajo protesta de decir verdad, en la que se precise que la persona acredita su adscripción como afromexicana, de la diversidad sexual y/o es una persona con discapacidad, en su caso, de acuerdo con el formato señalado como Anexo Único del presente Acuerdo.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2021)</small>
+
+w) Certificación médica expedida por una Institución de salud, pública o privada, que dé cuenta fehaciente de la existencia de la discapacidad, que deberá contener el nombre, firma y número de cédula profesional de la persona médica que la expide, así como el sello de la institución y precisar el tipo de discapacidad y que ésta es permanente; o copia legible del anverso y reverso de la Credencial Nacional para Personas con Discapacidad vigente, emitida por el Sistema Nacional DIF (SNDIF), en su caso.
 
 Lo anterior, en estricto apego al orden enunciado. De no presentar la documentación completa, no se procederá al registro de la candidatura correspondiente hasta que la omisión de que se trate sea subsanada por el PPN o coalición en el plazo concedido para tal efecto, conforme a lo establecido en el párrafo 2 del artículo 239 de la LGIPE.
 
@@ -135,13 +145,17 @@ c) La manifestación de que las candidaturas fueron seleccionadas de conformidad
 
 d) La constancia de residencia;
 
-e) La documentación que acredite la adscripción indígena;
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2021)</small>
+
+e) La documentación que acredite la adscripción indígena o afromexicana;
 
 f) El certificado de nacionalidad mexicana expedido por la Secretaría de Relaciones Exteriores; y
 
 g) La carta de las personas que buscan reelegirse.
 
-h) Cartas referidas en los incisos q), t) y u) del Punto Tercero del presente Acuerdo.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2021)</small>
+
+h) Cartas y certificación referidas en los incisos q), t), u), v) y w) del Punto Tercero del presente Acuerdo.
 
 OCTAVO. Para el registro de candidaturas por el principio de representación proporcional, se tendrá por cumplido el requisito a que se refieren los párrafos 4 y 5 del artículo 238 de la LGIPE, siempre y cuando los PPN hayan presentado para su registro al menos 200 fórmulas de candidaturas a diputaciones de mayoría relativa, y que dicho registro haya resultado procedente. Para tales efectos se considerarán también las candidaturas de coalición en la que el PPN participe.
 
@@ -175,9 +189,11 @@ En las referidas listas los partidos políticos deberán estar a lo siguiente:
 
 a) Los partidos políticos deberán encabezar con mujeres 3 de las 5 listas por circunscripción electoral.
 
-DÉCIMO SÉPTIMO. Para el caso de diputaciones por el principio de mayoría relativa, los PPN o coaliciones deberán postular, como acción afirmativa, fórmulas integradas por personas que se autoadscriban como indígenas en, por lo menos, 21 de los 28 Distritos Electorales federales con población indígena que se indican a continuación, de las cuales 11 deberán ser mujeres:
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS NUMERALES], D.O.F. 27 DE ENERO DE 2021)</small>
 
-No. Nombre de entidad Distrito
+DÉCIMO SÉPTIMO. Para el caso de diputaciones por el principio de mayoría relativa, los PPN o coaliciones deberán postular, como acción afirmativa, fórmulas integradas por personas que acrediten su adscripción como indígenas en los 21 Distritos Electorales federales con población indígena que se indican a continuación, de las cuales 11 deberán ser mujeres:
+
+No. Nombre de entidad Distrito.
 
 1 CHIAPAS 01
 
@@ -195,45 +211,35 @@ No. Nombre de entidad Distrito
 
 8 HIDALGO 01
 
-9 HIDALGO 02
+9 OAXACA 02
 
-10 OAXACA 01
+10 OAXACA 04
 
-11 OAXACA 02
+11 OAXACA 06
 
-12 OAXACA 04
+12 OAXACA 07
 
-13 OAXACA 05
+13 OAXACA 09
 
-14 OAXACA 06
+14 PUEBLA 02
 
-15 OAXACA 07
+15 PUEBLA 04
 
-16 OAXACA 09
+16 SAN LUIS POTOSÍ 07
 
-17 PUEBLA 01
+17 VERACRUZ 02
 
-18 PUEBLA 02
+18 VERACRUZ 18
 
-19 PUEBLA 03
+19 YUCATÁN 01
 
-20 PUEBLA 04
+20 YUCATÁN 02
 
-21 QUINTANA ROO 02
+21 YUCATÁN 05
 
-22 SAN LUIS POTOSÍ 07
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2021)</small>
 
-23 VERACRUZ 02
-
-24 VERACRUZ 06
-
-25 VERACRUZ 18
-
-26 YUCATÁN 01
-
-27 YUCATÁN 02
-
-28 YUCATÁN 05
+Las personas que fueron electas como diputadas en alguno de los 8 Distritos indígenas en que en el PEF 2017-2018 no fue obligatorio postular personas de esa adscripción, podrán reelegirse por ese mismo Distrito aun cuando en ese momento no se hubiesen acreditado como personas indígenas.
 
 A más tardar el 15 de enero de 2021, la DEPPP entregará a los PPN y coaliciones la lista de dichos Distritos indígenas ordenada de menor a mayor votación conforme a los resultados obtenidos en el PEF 2017-2018, a efecto de que en cada bloque se observe el principio de paridad, conforme a lo siguiente:
 
@@ -242,6 +248,10 @@ a) En el bloque de los menores deberán postularse únicamente 3 mujeres;
 b) En el bloque de los intermedios y mayores, deberán postularse al menos 4 mujeres.
 
 c) En los dos Distritos con menor votación deberán postularse a un hombre y a una mujer.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2021)</small>
+
+Lo anterior no resultará aplicable para los partidos políticos que hayan obtenido su registro en el año 2020 y, por consiguiente, no hayan participado en el anterior Proceso Electoral Federal.
 
 Asimismo, para el caso de diputaciones por el principio de representación proporcional, los PPN deberán postular, fórmulas integradas por personas que se autoadscriban como indígenas en las circunscripciones electorales conforme se indica a continuación:
 
@@ -273,6 +283,20 @@ En el caso de las circunscripciones tercera y cuarta, al haberse determinado un 
 
 Finalmente, en el supuesto de que las mismas personas se postulen tanto por el principio de mayoría relativa como por el principio de representación proporcional, de resultar electas por el primero de los principios, la diputación por el principio de representación proporcional se asignará a su suplente, de haberse cancelado el registro de alguna persona integrante de la misma fórmula, se asignará a la persona propietaria o suplente de la fórmula de adscripción indígena que siga en el orden de la lista respectiva. De agotarse la lista, el partido deberá postular a una persona de adscripción indígena para el cargo respectivo de entre las fórmulas de mayoría relativa postuladas en los Distritos indígenas de la misma circunscripción que no hubieren obtenido el triunfo.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2021)</small>
+
+DÉCIMO SÉPTIMO BIS. Los PPN y coaliciones deberán postular 3 fórmulas de candidaturas integradas por personas afromexicanas en cualquiera de los 300 Distritos Electorales y 1 por el principio de representación proporcional en cualquiera de las cinco circunscripciones, debiendo ubicarla en los primeros diez lugares de la lista. Las cuatro postulaciones deben realizarse de manera paritaria.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2021)</small>
+
+DÉCIMO SÉPTIMO TER. Los PPN y coaliciones deberán postular fórmulas de candidaturas integradas por personas con discapacidad en 6 de los 300 Distritos que conforman el país. Asimismo, en las listas de candidaturas a diputaciones por el principio de representación proporcional, los PPN deberán postular 2 fórmulas integradas por personas con discapacidad. Dichas fórmulas podrán postularse en cualquiera de las cinco circunscripciones electorales y deberán ubicarse en los primeros diez lugares de la lista respectiva. Las postulaciones deben realizarse de manera paritaria.
+
+Dentro de las candidaturas a diputaciones federales por el principio de mayoría relativa, los PPN y, en su caso, coaliciones, deberán postular cuando menos 2 fórmulas de personas de la diversidad sexual en cualquiera de los 300 Distritos Electorales federales y para el caso del principio de representación proporcional, deberán postular 1 fórmula dentro de los primeros diez lugares de la lista de cualquiera de las cinco circunscripciones electorales. Las 3 postulaciones deben realizarse de manera paritaria (2/1) con la mínima diferencia por tratarse de un número non.
+
+En caso de que se postulen personas trans, la candidatura corresponderá al género al que se identifiquen y dicha candidatura será tomada en cuenta para el cumplimiento del principio de paridad de género, y en la solicitud de registro de candidatura el partido político, deberá informar que la postulación se realiza dentro de la acción afirmativa de persona de la diversidad sexual, a fin de constatar el cumplimiento de la nominación de las 3 candidaturas y de las cuestiones relativas a la paridad de género.
+
+En el caso de que se postulen personas no binarias, en reconocimiento de los derechos humanos, políticos y electorales de la comunidad LGBTTTIQ+, las mismas no serán consideradas en alguno de los géneros; sin embargo, los PPN y coaliciones no podrán postular más de 3 personas que se identifiquen como no binarias.
+
 DÉCIMO OCTAVO. Respecto de las personas que postulen para cumplir con la acción afirmativa referida en el punto anterior, junto con la solicitud de registro, los PPN o coaliciones deberán presentar las constancias que acrediten la existencia del vínculo efectivo de la persona que se pretende postular con las instituciones sociales, económicas, culturales y políticas distintivas de la comunidad a la que pertenece.
 
 Dicho vínculo efectivo, de manera ejemplificativa y enunciativa, mas no limitativa, deberá acreditarse con las constancias que permitan verificar lo siguiente:
@@ -291,7 +315,9 @@ Aunado a lo anterior, la o el Vocal Ejecutivo de la Junta Distrital respectiva, 
 
 Este requisito deberá corroborarse previo a la expedición de la constancia de mayoría o de asignación por la Vocalía Ejecutiva de la Junta Distrital correspondiente o por la DEPPP, respectivamente.
 
-DÉCIMO NOVENO. Para los efectos del cumplimiento de la acción afirmativa indígena, en el caso de coaliciones parciales o flexibles, las personas de autoadscripción indígena postuladas por éstas se sumarán a las que postulen en lo individual cada uno de los PPN que las integren, independientemente del partido de origen de la persona.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2021)</small>
+
+DÉCIMO NOVENO. Para los efectos del cumplimiento de la acción afirmativa indígena, personas con discapacidad y personas de la diversidad sexual, en el caso de coaliciones parciales o flexibles, las personas que correspondan a las mismas postuladas por éstas se sumarán a las que postulen en lo individual cada uno de los PPN que las integren, independientemente del partido político de origen de la persona.
 
 VIGÉSIMO. Para determinar las entidades o Distritos con porcentaje de votación más bajo de cada PPN se estará a lo establecido en el artículo 282, párrafo 4, fracción II del Reglamento de Elecciones.
 
@@ -311,7 +337,9 @@ b) En caso de que los partidos políticos que participen en forma individual lo 
 
 c) De igual manera, en caso de que alguno de los partidos políticos que integren la coalición hubiera participado en forma individual en el Proceso Electoral Federal anterior, o que la coalición se integrara por partidos distintos o que se conformara en Distritos diferentes a la coalición actual, se considerará la suma de la votación obtenida por cada partido político en lo individual.
 
-VIGÉSIMO SEGUNDO. En caso de que algún PPN o coalición no cumpla con lo previsto en los artículos 14, párrafo 4, 233 y 234 de la LGIPE; 3, párrafo 5 de la LGPP y puntos décimo cuarto, décimo quinto, décimo sexto y décimo séptimo, del presente Acuerdo, el Consejo General iniciará el procedimiento especial al que se refiere el artículo 235 de dicho ordenamiento legal, por lo que lo requerirá para que en un plazo de 48 horas, contadas a partir de ese momento, rectifique la solicitud de registro de candidaturas, además de apercibirlo de que, en caso de no hacerlo, le hará una amonestación pública.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2021)</small>
+
+VIGÉSIMO SEGUNDO. En caso de que algún PPN o coalición no cumpla con lo previsto en los artículos 14, párrafo 4, 233 y 234 de la LGIPE; 3, párrafo 5 de la LGPP y puntos décimo cuarto, décimo quinto, décimo sexto, décimo séptimo, décimo séptimo bis y décimo séptimo ter del presente Acuerdo, el Consejo General iniciará el procedimiento especial al que se refiere el artículo 235 de la LGIPE, por lo que lo requerirá para que en un plazo de 48 horas, contadas a partir de ese momento, rectifique la solicitud de registro de candidaturas, además de apercibirlo de que, en caso de no hacerlo, le hará una amonestación pública.
 
 Vencidas las 48 horas arriba mencionadas, el Consejo General sesionará para otorgar el registro de candidaturas a los partidos o coaliciones que hayan cumplido con el requerimiento o, en su caso, para sancionar con una amonestación pública al PPN o coalición que haya sido requerido conforme a lo previsto en el párrafo anterior, y que no haya realizado la sustitución correspondiente. En ese mismo acto le requerirá de nueva cuenta para que en un plazo de 24 horas, contadas a partir de la notificación, haga la corrección que corresponda.
 
@@ -353,7 +381,9 @@ Solamente procederá la solicitud de sustitución de alguna candidatura, si se r
 
 Si en un determinado Distrito se postuló una fórmula integrada por mujeres y se pretende sustituir por una fórmula compuesta por hombres, procederá la sustitución siempre y cuando en otro Distrito, que pertenezca al mismo bloque de competitividad o de mayor votación, se sustituya una fórmula de hombres por una fórmula de mujeres. No procederá la sustitución si con la suplencia se provoca que disminuya el número de candidaturas mujeres de los bloques de mayor y media competitividad, y aumenta su presencia en el bloque de competitividad más baja.
 
-VIGÉSIMO OCTAVO. En caso de que algún PPN o coalición solicite la sustitución o cancelación de registro de candidaturas, o que éstas deriven de algún acatamiento de sentencia emitida por el TEPJF, el Consejo General verificará el cumplimiento de las reglas de género y la acción afirmativa indígena y, en su caso, aplicará el procedimiento previsto en los puntos vigésimo segundo, vigésimo tercero y vigésimo cuarto del presente Acuerdo.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2021)</small>
+
+VIGÉSIMO OCTAVO. En caso de que algún PPN o coalición solicite la sustitución o cancelación de registro de candidaturas, o que éstas deriven de algún acatamiento de sentencia emitida por el TEPJF, el Consejo General verificará el cumplimiento de las reglas en materia de paridad de género y las acciones afirmativas y, en su caso, aplicará el procedimiento previsto en los puntos vigésimo segundo, vigésimo tercero y vigésimo cuarto del presente Acuerdo.
 
 Asimismo, para la sustitución de candidaturas deberán mantenerse los bloques como hayan sido aprobados en la sesión especial de registro, salvo que las sustituciones que se soliciten impacten los bloques de tal suerte que beneficien al género femenino, conforme a la tabla siguiente:
 
@@ -400,3 +430,23 @@ Se aprobó en lo particular por lo que hace a que tres de las cinco fórmulas se
 Se aprobó en lo particular por lo que hace a que el registro quede en el sistema “Conoce a tus Candidatos”, por nueve votos a favor de los Consejeros Electorales, Maestra Norma Irene De La Cruz Magaña, Doctor Uuc-kib Espadas Ancona, Doctora Adriana Margarita Favela Herrera, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordán, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña y Maestra Beatriz Claudia Zavala Pérez, y dos votos en contra del Consejero Electoral, Doctor Ciro Murayama Rendón y el Consejero Presidente, Doctor Lorenzo Córdova Vianello.
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE ENERO DE 2021.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO […]
+
+SEGUNDO. Se aprueba la respuesta a las solicitudes de acciones afirmativas para personas migrantes y juventudes en los términos establecidos en los considerandos 17 y 18, respectivamente, del presente Acuerdo.
+
+TERCERO. Comuníquese el presente Acuerdo a los Consejos Locales y Distritales, para los efectos legales a que haya lugar.
+
+CUARTO. Notifíquese el presente Acuerdo a las organizaciones Fuerza Migrante, Frente Nacional de Inmigrantes e Iniciativa Ciudadana para la Promoción de la Cultura del Diálogo, A.C., Fuerza Ciudadana, A.C., Red de Mujeres Jóvenes por la Democracia Paritaria, Espacio Progresista A.C. y al Instituto de Investigación sobre Democracia y Participación Ciudadana, A.C.
+
+QUINTO. El presente Acuerdo entrará en vigor el día de su aprobación por este Consejo General.
+
+SEXTO. Se instruye al Secretario Ejecutivo para que realice las gestiones necesarias a efecto de difundir el presente Acuerdo a través de su publicación en el Diario Oficial de la Federación.
+
+SÉPTIMO. Infórmese a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación sobre el cumplimiento dado a la sentencia dictada en el expediente SUP-RAP-121/2020 y acumulados.
