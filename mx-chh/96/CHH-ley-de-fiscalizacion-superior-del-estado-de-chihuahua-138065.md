@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-fiscalizacion-superior-del-estado-de-chihuahua-138065"
 country: "mx"
 rank: "ley"
 publication_date: "2019-09-07"
-last_updated: "2020-12-17"
+last_updated: "2021-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2021.
 
 Ley publicada en el Anexo al Número 72 del Periódico Oficial del Estado de Chihuahua, el sábado 7 de septiembre de 2019.
 
@@ -215,7 +215,9 @@ Cuando las y los servidores públicos, así como las personas físicas y morales
 
 La Cuenta Pública de Gobierno del Estado del ejercicio fiscal correspondiente deberá ser presentada ante el Congreso, a través de la Auditoría Superior, a más tardar el último día del mes de febrero del año siguiente.
 
-La Cuenta Pública de los municipios será presentada a la Auditoría Superior por quien ocupe la titularidad de la Presidencia Municipal o por la persona titular de la dependencia encargada de las finanzas públicas, a más tardar el último día del mes enero del año siguiente.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2021)</small>
+
+La Cuenta Pública de los municipios será presentada a la Auditoría Superior por quien ocupe la titularidad de la Presidencia Municipal o por la persona titular de la dependencia encargada de las finanzas públicas, a más tardar el último día del mes de enero del año siguiente. En el caso de los Municipios de Chihuahua y Juárez, será a más tardar el último día del mes de febrero.
 
 La Cuenta Pública deberá contener como mínimo lo señalado en la Ley General de Contabilidad Gubernamental, la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua; los acuerdos emitidos por el Consejo Nacional o por su equivalente en el Estado; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en las demás disposiciones aplicables, en los términos que determine la Auditoría Superior.
 
@@ -976,6 +978,14 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL
 P.O. 17 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFLEY/0942/2020 I P.O., POR EL QUE SE ADICIONA EL ARTÍCULO NOVENO TRANSITORIO A LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0943/2020 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 13, PÁRRAFO SEGUNDO, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
