@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-185-del-sistema-estatal-anticorrupcion-del-121396"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-11"
-last_updated: "2017-07-18"
+last_updated: "2021-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE ENERO DE 2021.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 11 de mayo de 2017.
 
@@ -105,9 +105,17 @@ XI.- Secretario Técnico: El servidor público a cargo de las funciones de direc
 
 XII.- Servidores públicos: Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en los entes públicos;
 
-XIII.- Sistema Estatal: El Sistema Estatal Anticorrupción; y
+> <small>(REFORMADA, B.O. 28 DE ENERO DE 2021)</small>
 
-XIV.- Plataforma Digital Nacional: establecida en la Ley General.
+XIII.- Sistema Estatal: El Sistema Estatal Anticorrupción;
+
+> <small>(REFORMADA, B.O. 28 DE ENERO DE 2021)</small>
+
+XIV.- Plataforma Digital Nacional: establecida en la Ley General;
+
+> <small>(ADICIONADA, B.O. 28 DE ENERO DE 2021)</small>
+
+XV.- Reglamentos Municipales: Reglamento Municipal Anticorrupción.
 
 ###### Artículo 4°.
 
@@ -743,6 +751,36 @@ Toda la información relacionada con la emisión, aceptación, rechazo, cumplimi
 
 En caso de que el Comité Coordinador considere que las medidas de atención a la recomendación no están justificadas con suficiencia, que la autoridad destinataria no realizó las acciones necesarias para su debida implementación o cuando ésta sea omisa en los informes a que se refieren los artículos anteriores, podrá solicitar a dicha autoridad la información que considere relevante.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRAN, B.O. 28 DE ENERO DE 2021)</small>
+
+###### Artículo 61.
+
+Con la finalidad de fortalecer el Sistema Estatal Anticorrupción, de conformidad con lo que señala el artículo 113 último párrafo de la Constitución Política de los Estados Unidos Mexicanos y con el objeto de esta Ley, los municipios que conforman el estado Libre y Soberano de Sonora deberán contar con un Reglamento Municipal Anticorrupción, los cuales incluirán como mínimo lo siguiente:
+
+I.- Mecanismos de coordinación con los sistemas estatal y nacional;
+
+II.- Los principios rectores que rigen el servicio público: legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía, integridad y competencia por mérito.
+
+III.- Bases para la prevención de hechos de corrupción y faltas administrativas;
+
+IV.- Medidas encaminadas para la detección, combate y disuasión a la corrupción;
+
+V.- Lineamientos para la emisión de políticas públicas municipales en materia de combate a la corrupción;
+
+VI.- Acciones permanentes que aseguren el comportamiento ético de los servidores públicos municipales;
+
+VII.- Programas de capacitación para los servidores públicos en prevención y combate a la corrupción;
+
+VIII.- Políticas para la promoción, fomento y difusión de la cultura de integridad, ética y responsabilidad en el servicio público, así como de la rendición de cuentas, de la transparencia, de la fiscalización y del control de los recursos públicos.
+
+### CAPÍTULO ÚNICO. DEL OBJETO DE LOS REGLAMENTOS MUNICIPALES
+
+> <small>(ADICIONADO, B.O. 28 DE ENERO DE 2021)</small>
+
+## TÍTULO SEXTO. DE LOS REGLAMENTOS MUNICIPALES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 28 DE ENERO DE 2021)</small>
+
 ## TRANSITORIOS
 
 Artículo Primero.- La presente Ley entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
@@ -804,3 +842,19 @@ B.O. 18 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 28 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 163, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos del estado, contarán con un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente decreto para expedir el Reglamento Municipal Anticorrupción.
