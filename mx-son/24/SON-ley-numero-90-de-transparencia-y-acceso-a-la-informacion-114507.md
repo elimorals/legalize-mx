@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-90-de-transparencia-y-acceso-a-la-informacion-114507
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-28"
-last_updated: "2020-01-30"
+last_updated: "2021-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 30 DE ENERO DE 2020.]
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE ENERO DE 2021.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 28 de abril de 2016.
 
@@ -1165,7 +1163,9 @@ d).- Acuerdos y Resoluciones del Pleno;
 
 e).- Estadística Judicial;
 
-f).- Versión pública de las sentencias relevantes, así como ejecutorias sobresalientes pronunciadas por el Pleno y las Salas, con los respectivos votos particulares si los hubiere;
+> <small>(REFORMADO, B.O. 28 DE ENERO DE 2021)</small>
+
+f).- Las versiones públicas de todas las sentencias emitidas;
 
 g).- Carrera judicial, convocatorias, registro de aspirantes y resultados de las evaluaciones;
 
@@ -2330,3 +2330,11 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año. Asimismo, la Secretaría de Hacienda deberá (sic) los lineamientos necesarios para implementar las disposiciones señaladas en el presente artículo.
+
+B.O. 28 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 164, QUE REFORMA EL INCISO F) DE LA FRACCIÓN I DEL ARTÍCULO 84 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor el 10 de febrero de 2021, previa publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
