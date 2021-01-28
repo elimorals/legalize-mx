@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-agua-para-el-estado-de-puebla-90974"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2020-03-12"
+last_updated: "2021-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL AGUA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2021.
 
 Ley publicada en la Vigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -397,23 +397,37 @@ II. Un Director General.
 
 El Órgano de Gobierno estará integrado por:
 
-I. El Gobernador, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2021)</small>
 
-II. El Secretario de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial;
+I. La o el Gobernador, quien fungirá como Presidente;
 
-III. El Secretario de Infraestructura;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2021)</small>
 
-IV. El Secretario de Finanzas y Administración;
+II. La o el Titular de la Secretaría de Desarrollo Rural;
 
-V. El Secretario de Desarrollo Social;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2021)</small>
 
-VI. El Secretario de Salud;
+III. La o el Titular de la Secretaría de Infraestructura;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2021)</small>
+
+IV. La o el Titular de la Secretaría de Planeación y Finanzas;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2021)</small>
+
+V. La o el Titular de la Secretaría de Bienestar;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2021)</small>
+
+VI. La o el Titular de la Secretaría de Salud;
 
 VII. Cuatro representantes de los Prestadores de Servicios Públicos en los municipios, designados por el Gobernador; y
 
 VIII. Tres representantes de los sectores social, productivo y académico del Estado designados por el Gobernador.
 
-De las personas señaladas en las fracciones II, III, IV y V, el Gobernador designará a la que fungirá como Secretario Ejecutivo del Órgano de Gobierno, desempeñando el resto de los integrantes el cargo de vocales.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2021)</small>
+
+De las personas señaladas en las fracciones II, III, IV y V, la o el Gobernador designará a la persona que fungirá como Secretario Ejecutivo del Órgano de Gobierno, desempeñando el resto de los integrantes el cargo de vocales.
 
 ###### Artículo 18.
 
@@ -2254,6 +2268,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 12 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES X Y XI DEL ARTÍCULO 5, LA FRACCIÓN I DEL ARTÍCULO 99, Y SE ADICIONA LA FRACCIÓN XII DEL ARTÍCULO 5 DE LA LEY DEL AGUA PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I, II, III, IV, V, VI Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 17 DE LA LEY DEL AGUA PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
