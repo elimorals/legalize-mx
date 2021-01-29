@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-y-proteccion-de-derechos-del-87792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-27"
-last_updated: "2020-11-27"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de abril de 2012.
 
@@ -383,29 +383,41 @@ Los servicios de salud para la asistencia social que se presten a personas en si
 
 ### CAPÍTULO QUINTO. DE LOS DERECHOS Y OBLIGACIONES DE LOS USUARIOS DE SERVICIOS DE ASISTENCIA SOCIAL
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
+
 ###### Artículo 13.
 
-Se entiende como usuarios de los programas y servicios de asistencia social, a toda persona que acceda a los programas y servicios de asistencia social que prestan los sectores públicos, privado y social en los términos de la presente ley.
+Se entiende como usuarios y usuarias de los programas y servicios de asistencia social, a toda persona que acceda a los programas y servicios de asistencia social que prestan los sectores públicos, privado y social en los términos de la presente ley.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
 
 ###### Artículo 14.
 
-Los usuarios tienen derecho a los servicios y programas de asistencia social y protección de derechos, a través de una atención individualizada, de calidad y proporcionada por personal profesional, en circunstancias de igualdad y equidad, independientemente de su origen étnico, género, edad, religión, capacidad física y mental, condición cultural, condición social, condiciones de salud, religión u orientación sexual.
+Las y los usuarios tienen derecho a los servicios y programas de asistencia social y protección de derechos, a través de una atención individualizada, de calidad y proporcionada por personal profesional, en circunstancias de igualdad y equidad, independientemente de su origen étnico, género, edad, religión, capacidad física y mental, condición cultural, condición social, condiciones de salud, religión u orientación sexual.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
 
 ###### Artículo 15.
 
-A los usuarios en todo momento se les garantizará el respeto a sus derechos humanos, integridad física y mental, dignidad, cultura y valores, durante su estancia en cualquier centro de asistencia social pública o privada.
+A las y los usuarios en todo momento se les garantizará el respeto a sus derechos humanos, integridad física y mental, dignidad, cultura y valores, durante su estancia en cualquier centro de asistencia social pública o privada.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
 
 ###### Artículo 16.
 
-Los usuarios tendrán derecho a que se guarde reserva y confidencialidad de sus datos de acuerdo a lo establecido en la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza.
+Las y los usuarios tendrán derecho a que se guarde reserva y confidencialidad de sus datos de acuerdo a lo establecido en la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
 
 ###### Artículo 17.
 
-El usuario recibirá información apropiada a su edad, condición socioeducativa, cultural y etnia sobre los programas y acciones de asistencia social y protección de derechos.
+El usuario o la usuaria recibirá información apropiada a su edad, condición socioeducativa, cultural y etnia sobre los programas y acciones de asistencia social y protección de derechos.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
 
 ###### Artículo 18.
 
-Los usuarios de los servicios de asistencia social y protección de derechos tienen la obligación de:
+Las y los usuarios de los servicios de asistencia social y protección de derechos tienen la obligación de:
 
 I. Participar corresponsablemente en los programas y servicios de asistencia social;
 
@@ -502,6 +514,10 @@ De igual manera podrá diseñar, aplicar o difundir las normas técnicas que se 
 ###### Artículo 27.
 
 El gobierno del estado, a propuesta del organismo, dictaminará el otorgamiento de estímulos fiscales para fomentar las acciones de los sectores social y privado, en la prestación de servicios de asistencia social, de conformidad con lo dispuesto en la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2021)</small>
+
+Artículo 27 bis. El gobierno del Estado fomentará, de acuerdo con sus capacidades presupuestales, el apoyo directo a proyectos de atención a grupos específicos en el reconocimiento y ejercicio de sus derechos, la atención de sus necesidades básicas, la promoción de la equidad, el respeto a los derechos humanos, la construcción de una cultura de la igualdad y la diversidad, el logro de la equidad de género, así como el apoyo concreto a proyectos de producción, construcción, comercialización, financiamiento, abasto, dotación de servicios básicos y capacitación que tiendan a innovar las concepciones, acciones y estrategias de asistencia social realizadas por asociaciones y organizaciones de la sociedad civil.
 
 ###### Artículo 28.
 
@@ -859,11 +875,11 @@ Quien ocupe el cargo de Comisario, para el debido cumplimiento de sus atribucion
 
 El Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza, contará con un órgano desconcentrado, con autonomía técnica y de gestión, denominado Centro de Investigación y Atención del Autismo, con domicilio en la ciudad de Saltillo, Coahuila de Zaragoza, sin perjuicio de que pueda establecer en otros municipios del estado los centros que estime necesarias para la realización de sus actividades.
 
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
 
 ###### Artículo 46-B.
 
-El Centro de Investigación y Atención del Autismo, tendrá por objeto brindar atención y seguimiento a las personas diagnosticadas con trastornos del espectro autista, así como la investigación de los mecanismos biológicos y los factores predisponentes a la enfermedad, para brindar una atención profesional y altamente especializada a dichas personas y a sus familias.
+El Centro de Investigación y Atención del Autismo, tendrá por objeto brindar atención y seguimiento a las personas diagnosticadas con trastornos del espectro autista, así como la investigación de los mecanismos biológicos y de los factores predisponentes de la condición, para brindar una atención profesional y altamente especializada a dichas personas y a sus familias.
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2017)</small>
 
@@ -1498,3 +1514,25 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 890.- SE REFORMA EL ARTÍCULO 46-B DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 892.- SE ADICIONA EL ARTÍCULO 27 BIS A LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 893.- SE REFORMAN LOS ARTÍCULOS 13, 14, 15, 16, 17 Y 18 (SIC) LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
