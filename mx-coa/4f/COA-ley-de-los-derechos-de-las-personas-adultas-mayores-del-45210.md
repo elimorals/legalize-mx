@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2020-12-18"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -264,6 +264,26 @@ VIII (SIC). Dignidad Humana. Es un valor supremo que reconoce la calidad única 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2020)</small>
 
 IX. La progresividad. Es la obligación positiva del Estado de promover los derechos de las personas de la tercera edad de manera progresiva y gradual, de forma tal que se garantice el incremento en el grado de tutela, respeto y protección de los derechos.
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
+
+X. Heterogeneidad: Visión que considera las características particulares de las personas adultas mayores como un grupo etario plural, determinada por diferencias socioeconómicas, culturales, de edad, sexo, origen étnico, condición migratoria o de desplazamiento;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
+
+XI. Calidad en el trato: Es el trato adecuado, justo y proporcional en el acceso y disfrute de los satisfactores necesarios para una vida digna de las personas adultas mayores, sin ningún tipo de discriminación;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
+
+XII. Solidaridad intergeneracional: Construcción o fortalecimiento de las relaciones entre las personas adultas mayores y el resto de los grupos que forman la sociedad, en un marco de respeto, de estímulo e intercambio de experiencias y conocimientos;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
+
+XIII. Atención diferenciada: Obliga a las autoridades a formular e implementar programas, considerando las diversas necesidades, características y circunstancias de las personas adultas mayores; y
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
+
+XIV. Protagonismo: El proceso para la participación efectiva y el empoderamiento social de las personas adultas mayores, que se expresa en la toma de decisiones e iniciativa en las acciones.
 
 #### SECCIÓN SEGUNDA. LOS DERECHOS Y OBLIGACIONES DE LAS PERSONAS ADULTAS MAYORES
 
@@ -543,7 +563,13 @@ II. De inclusión en programas oficiales o comunitarios de auxilio a la familia 
 
 III. De canalización a las entidades públicas o privadas respectivas de aquellas personas adultas mayores que requieran abrigo temporal
 
-IV. Las demás medidas que resulten necesarias e idóneas para asegurar la atención eficiente y eficaz a las personas adultas mayores.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
+
+IV. Separarla preventivamente de su hogar cuando existan motivos fundados que hagan presumir un peligro inminente o inmediato a su salud, seguridad o integridad personal; y,
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
+
+V. Las demás medidas que resulten necesarias e idóneas para asegurar la atención eficiente y eficaz a las personas adultas mayores.
 
 ###### Artículo 20.
 
@@ -670,6 +696,12 @@ Las personas adultas mayores tendrán derecho a ser cuidados por su familia, seg
 ###### Artículo 31.
 
 Las personas adultas mayores tendrán derecho a permanecer en el seno de una familia, y se les asegurará la convivencia familiar y comunitaria. Cuando el cumplimiento de este derecho peligre por razones socioeconómicas, ambientales y de salud, las instituciones públicas competentes procurarán las oportunidades que se requieran para superar la problemática familiar, así como la capacitación y orientación a los descendientes para hacer frente a dichas circunstancias.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2021)</small>
+
+###### Artículo 31 Bis.
+
+La persona adulta mayor podrá solicitar, por decisión personal, su ingreso en alguna institución de asistencia social, dedicada al cuidado de personas adultas mayores.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -1712,5 +1744,17 @@ P.O. 20 DE OCTUBRE DE 2020.
 P.O. 18 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 796.- SE ADICIONA LA FRACCIÓN VI DEL ARTÍCULO 5° BIS RECORRIÉNDOSE LA FRACCIÓN ULTERIOR Y SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 26, AMBOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 888.- SE ADICIONA EL ARTÍCULO 31 BIS A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 22 DE LA LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 891.- SE REFORMA LA FRACCIÓN IV Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 19; SE ADICIONAN LAS FRACCIONES X, XI, XII, XIII Y XIV AL ARTÍCULO 9, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
