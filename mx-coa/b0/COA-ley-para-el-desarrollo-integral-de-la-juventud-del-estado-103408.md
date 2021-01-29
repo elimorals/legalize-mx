@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-integral-de-la-juventud-del-estado-10340
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-28"
-last_updated: "2020-09-29"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 28 de octubre de 2014.
 
@@ -167,6 +167,10 @@ Vocal: Titular de la Fiscalía General del Estado.
 
 Vocal: Titular del Instituto Estatal del Deporte.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2021)</small>
+
+Vocal: Con voz pero sin voto, quien funja como coordinador de la Comisión de Deporte y Juventud del Congreso del Estado.
+
 Un mínimo de tres directores de instancias municipales de la juventud, que actuarán como vocales; y,
 
 Un mínimo de un rector de las universidades públicas o privadas que actuará como vocal.
@@ -215,7 +219,11 @@ V.- Informarse debidamente acerca de los efectos y daños irreversibles a la sal
 
 VI.- A cumplir con las disposiciones normativas y reglamentarias de los programas de desarrollo social, cuando sean beneficiarios de éstos, y
 
-VII.- Los demás que le impongan otras leyes, reglamentos o disposiciones normativas.
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
+
+VII.- Informarse sobre el ámbito político de la entidad y participar activamente en todo aquello que sea de interés en su entorno social; y
+
+VIII.- Los demás que le impongan otras leyes, reglamentos o disposiciones normativas.
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 2020)</small>
 
@@ -680,3 +688,9 @@ P.O. 29 DE SEPTIEMBRE DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 883.- SE ADICIONA UN PÁRRAFO 16 AL ARTÍCULO 9, RECORRIENDO LOS ULTERIORES; Y LA FRACCIÓN VII, RECORRIENDO LA ACTUAL, AL ARTÍCULO 12 BIS, DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
