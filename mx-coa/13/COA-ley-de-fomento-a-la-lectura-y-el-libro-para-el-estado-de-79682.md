@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fomento-a-la-lectura-y-el-libro-para-el-estado-de-79682"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-15"
-last_updated: "2021-01-26"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79682&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el martes 15 de febrero de 2011.
 
@@ -62,6 +62,10 @@ VI. Registrar, enriquecer y preservar el acervo bibliográfico del Estado median
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2019)</small>
 
 VII. Fomentar la escritura creativa como medio de expresión, recreación y/o esparcimiento y liberación personal, en especial entre niñas, niños y jóvenes;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
+
+VII (SIC). Impulsar acciones tendientes a hacer accesible la lectura de libros, por medios auditivos, visuales o táctiles a personas con discapacidad, particularmente a quienes presentan debilidad visual o ceguera.
 
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2019)</small>
 
@@ -181,11 +185,13 @@ V. Las administraciones municipales.
 
 ### CAPÍTULO IV. DEL CONSEJO ESTATAL DE FOMENTO A LA LECTURA Y EL LIBRO
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2021)</small>
 
 ###### Artículo 8.
 
-Se crea el Consejo Estatal de Fomento a la Lectura y el Libro como órgano de carácter consultivo de la Secretaria de Educación del Estado de Coahuila, con el objeto de opinar y emitir recomendaciones y propuestas respecto de las políticas, programas y acciones realizadas en el Estado, dirigidas a lograr una cultura de fomento a la lectura y al libro, así como facilitar el acceso al libro para todos los lectores.
+Se crea el Consejo Estatal de Fomento a la Lectura y el Libro como órgano de carácter consultivo de la Secretaria de Educación del Estado de Coahuila, con el objeto de opinar y emitir recomendaciones y propuestas respecto de las políticas, programas y acciones realizadas en el Estado, dirigidas a lograr una cultura de fomento a la lectura y al libro, así como facilitar el acceso al libro para todos los lectores, de manera especial a las personas con alguna discapacidad.
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2015)</small>
 
 Las decisiones del Consejo que tengan carácter de recomendación o propuesta serán vinculantes y obligatorias para las autoridades destinatarias de las mismas.
 
@@ -532,3 +538,9 @@ P.O. 26 DE ENERO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 887.- SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 1 Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 8 DE LA LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
