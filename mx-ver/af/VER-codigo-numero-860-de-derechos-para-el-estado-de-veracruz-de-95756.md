@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-860-de-derechos-para-el-estado-de-veracruz-de-957
 country: "mx"
 rank: "codigo"
 publication_date: "2013-07-31"
-last_updated: "2020-09-17"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2021.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 
@@ -1493,6 +1493,28 @@ VIII. Por la realización de estudios socioeconómicos a
 
 solicitante de lote: 0.1696 UMA
 
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2021)</small>
+
+E. Por servicios prestados en materia de expedición de certificados holográficos, con motivo de verificación vehicular obligatoria:
+
+I. Por pago de servicios de verificación vehicular estática en Centro de Verificación y Verificentro con expedición de certificado holográfico:
+
+a) Verificación de vehículos con motor a gasolina, gas licuado de petróleo o gas natural, o expedición de constancia técnica de verificación (rechazo): 4.2035 UMA
+
+b) Por verificación a vehículos con motor a diésel; o expedición de constancia técnica de verificación (rechazo): 4.2035 UMA
+
+II. Por pago de servicios de verificación vehicular dinámica en el Verificentro autorizado:
+
+a) Constancia de Verificación con expedición de holograma tipo dinámico estatal "DE": 4.2035 UMA
+
+b) Constancia de verificación con expedición de holograma tipo "O": 4.2035 UMA
+
+c) Expedición de constancia de verificación vehicular por extravío de certificado (expedida por la Secretaría): 1.0603 UMA
+
+En los supuestos establecidos en el apartado E, no se causará el Impuesto Adicional para el Fomento de la Educación.
+
+Cuando se entregue el documento donde se establezca que el vehículo fue rechazado por los altos niveles de contaminación, el contribuyente podrá realizar las reparaciones mecánicas necesarias y los cambios en el coche para poder verificar nuevamente, la cual será gratuita si se realiza en el mismo Centro de Verificación o Verificentro y dentro del periodo determinado de acuerdo al engomado del vehículo.
+
 > <small>(REFORMADA SU DENOMINACIÓN; G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
 ### Capítulo Cuarto. De los Derechos por Servicios Prestados por la Secretaría de Infraestructura y Obras Públicas
@@ -2043,37 +2065,9 @@ residuales, independientemente del uso o rango: 63.6164 UMA
 
 IV. En materia de verificación vehicular obligatoria, en los términos establecidos en la Ley número 62 Estatal de Protección Ambiental y en el Programa Estatal de Verificación Vehicular Obligatoria y sus modificaciones:
 
-a) Por pago de servicios de verificación vehicular estática en centro de verificación autorizado con expedición de certificado holográfico:
+a) (DEROGADO, G.O. 29 DE ENERO DE 2021)
 
-1. Verificación de vehículos con motor a gasolina,
-
-gas licuado de petróleo o gas natural; o
-
-expedición de constancia técnica de verificación
-
-(rechazo): 5.3014 UMA
-
-2. Por verificación a vehículos con motor a diésel; o
-
-expedición de constancia técnica de verificación
-
-(rechazo): 5.3014 UMA
-
-b) Por pago de servicios de verificación vehicular dinámica en el verificentro autorizado:
-
-1. Verificación con expedición de holograma tipo
-
-dinámico estatal: 5.3014 UMA
-
-2. Verificación con expedición de holograma tipo "0": 5.3014 UMA
-
-3. Verificación con expedición de holograma tipo
-
-"00": 10.6027 UMA
-
-4. Expedición de constancia de verificación vehicular
-
-por extravío de certificado: 1.0603 UMA
+b) (DEROGADO, G.O. 29 DE ENERO DE 2021)
 
 c) Por el otorgamiento de concesión para prestar los servicios de verificación vehicular:
 
@@ -7958,3 +7952,15 @@ G.O. 17 DE SEPTIEMBRE DE 2020.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se deroga cualquier otra disposición que se oponga al presente Decreto.
+
+G.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 830 QUE DEROGA LA FRACCIÓN I, APARTADO B, DEL ARTÍCULO 153 DEL CÓDIGO FINANCIERO Y ADICIONA UN APARTADO E, AL ARTÍCULO 16 Y DEROGA LOS INCISOS A) Y B) DE LA FRACCIÓN IV, DEL ARTÍCULO 19 DEL CÓDIGO DE DERECHOS AMBOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se faculta a la Secretaría de Finanzas y Planeación para emitir las reglas, criterios y lineamientos para la operación, transferencia, administración y entrega de los Hologramas a los Centros de Verificación Vehicular y Verificentros.
+
+TERCERO. Se derogan todas las disposiciones legales y administrativas del marco jurídico estatal que se opongan al presente Decreto.
+
+CUARTO. Se instruye a los titulares de la Secretaría de Finanzas y Planeación y Secretaría de Medio Ambiente para que, en el ámbito de sus respectivas competencias, den cumplimiento al presente Decreto. La Secretaría de Medio Ambiente deberá incluir las presentes modificaciones en el Programa de Verificación Vehicular Obligatorio.
