@@ -4,7 +4,7 @@ identifier: "COA-ley-de-turismo-del-estado-de-coahuila-de-zaragoza-139863"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-27"
-last_updated: "2020-10-20"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TURISMO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Coahuila, el día viernes 27 de diciembre de 2019.
 
@@ -177,7 +177,9 @@ XVIII. Celebrar convenios con las autoridades y responsables de las áreas natur
 
 XIX. Coordinar con las Secretarías de Medio Ambiente y la de Vivienda y Ordenamiento Territorial, así como con la Procuraduría de Protección al Ambiente del Estado, en el ámbito de sus respectivas atribuciones, la instrumentación de los programas y medidas para la preservación de los recursos naturales, prevención de la contaminación, para la ordenación y limpieza de las áreas naturales, para promover el turismo de naturaleza y el de bajo impacto, así como para el mejoramiento ambiental de las actividades e instalaciones turísticas;
 
-XX. Participar en la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable en los municipios del estado, conforme a los convenios que al efecto se suscriban;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
+
+XX. Participar en la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable y de los Pueblos Mágicos en los municipios del estado, conforme a los convenios que al efecto se suscriban;
 
 XXI. Diseñar e implementar un sistema de informática que permita dar atención a las necesidades que demanda la actividad turística en el estado;
 
@@ -189,9 +191,21 @@ XXIV. Emitir opinión para la realización de proyectos de desarrollo turístico
 
 XXV. Diseñar e implementar planes y programas de capacitación en coordinación con las instancias correspondientes y la cadena de valor turística para el desarrollo de infraestructura que permita promover la inclusión de personas con discapacidad en la actividad turística;
 
-XXVI. Promover el desarrollo del turismo accesible o incluyente para personas con discapacidad en la actividad turística; y
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
 
-XXVII. Las demás previstas en esta ley y demás disposiciones aplicables.
+XXVI. Promover el desarrollo del turismo accesible o incluyente para personas con discapacidad en la actividad turística;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2021)</small>
+
+XXVII. Impulsar planes y programas para el turismo sustentable de los Pueblos Mágicos, así como de las demás regiones, municipios y comunidades que, por sus tradiciones, historia, cultura o su entorno ecológico, representen posibilidades distintas para los visitantes nacionales y extranjeros;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
+
+XXVIII. Implementar políticas públicas que fomenten el desarrollo de la actividad turística y la permanencia de los pueblos mágicos del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ENERO DE 2021)</small>
+
+XXIX. Las demás previstas en esta ley y demás disposiciones aplicables.
 
 ###### Artículo 7.
 
@@ -228,6 +242,24 @@ XII. Las demás que le atribuya esta ley, y demás disposiciones aplicables.
 ###### Artículo 9.
 
 Los municipios que hayan adquirido la denominación de Pueblo Mágico, deberán cumplir con los lineamientos de permanencia que dispone la Secretaría de Turismo Federal.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2021)</small>
+
+###### Artículo 9 Bis.
+
+La Secretaría promoverá el establecimiento de los mecanismos jurídicos, sociales, económicos y administrativos para impulsar el desarrollo turístico de las localidades con la denominación de Pueblo Mágico en el Estado, para lo cual deberá:
+
+I. Promover acciones para la incorporación y permanencia de las localidades para que puedan obtener o mantener el nombramiento de Pueblo Mágico, según sea el caso;
+
+II. Brindar asesoría y apoyo técnico a los pueblos mágicos para que conserven dicha denominación, así como a los municipios que aspiren a incorporarse al programa Pueblos Mágicos;
+
+III. Capacitar en cultura turística al mayor número de habitantes de los pueblos mágicos;
+
+IV. Elaborar y mantener, en coordinación con los municipios, un inventario de recursos y atractivos turísticos de la localidad;
+
+V. Impulsar acciones, en coordinación con las autoridades municipales y demás dependencias del Estado según corresponda, para fortalecer la infraestructura, la mejora en la calidad de los servicios, la diversificación de sus productos turísticos, así como la creación y modernización de herramientas comerciales; y
+
+VI. Las demás previstas en esta ley y demás disposiciones aplicables.
 
 ### CAPÍTULO TERCERO. DE LA PLANEACIÓN DE LA ACTIVIDAD TURÍSTICA
 
@@ -481,29 +513,33 @@ III. Cuidar y conservar el buen estado de los establecimientos e instalaciones t
 
 IV. Informar previamente, con objetividad y veracidad, a los turistas sobre los servicios que ofrecen, los precios y condiciones de prestación de los mismos;
 
-V. Proporcionar a la Secretaría y demás autoridades en materia de turismo, la información y datos que se les requiera, con motivo del desempeño de sus funciones. Así mismo, deberá proporcionar a las autoridades estatales en materia de seguridad pública y procuración de justicia la información descrita en el artículo 40 de esta ley;
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
 
-VI. Tener a disposición de los turistas y del público en general, hojas para sugerencias y reclamaciones en cuanto a los servicios turísticos que proveen;
+V. Mantener actualizadas sus páginas electrónicas, en caso de disponer de una, con la finalidad de que contengan de manera detallada su ubicación, los servicios, costos, restricciones y demás aspectos que sean de interés para el turista;
 
-VII. Expedir la factura o comprobantes conforme a las disposiciones aplicables que ampare los cobros realizados por la prestación de servicios turísticos proporcionada;
+VI. Proporcionar a la Secretaría y demás autoridades en materia de turismo, la información y datos que se les requiera, con motivo del desempeño de sus funciones. Así mismo, deberá proporcionar a las autoridades estatales en materia de seguridad pública y procuración de justicia la información descrita en el artículo 40 de esta ley;
 
-VIII. Colaborar y coordinarse con la Secretaría y demás autoridades en materia de turismo, en las acciones, planes, programas y proyectos que tengan por objeto promover e impulsar la actividad turística en la entidad;
+VII. Tener a disposición de los turistas y del público en general, hojas para sugerencias y reclamaciones en cuanto a los servicios turísticos que proveen;
 
-IX. Facilitar, en los términos previstos por las disposiciones aplicables, la accesibilidad de las personas con discapacidad a sus establecimientos;
+VIII. Expedir la factura o comprobantes conforme a las disposiciones aplicables que ampare los cobros realizados por la prestación de servicios turísticos proporcionada;
 
-X. Colaborar con las entidades correspondientes en la protección de los recursos naturales involucrados en las actividades y servicios turísticos que proporcionen, mediante la difusión de acciones de protección y conservación del medio ambiente a los turistas;
+IX. Colaborar y coordinarse con la Secretaría y demás autoridades en materia de turismo, en las acciones, planes, programas y proyectos que tengan por objeto promover e impulsar la actividad turística en la entidad;
 
-XI. Capacitar en materia turística y de prestación de servicios al personal con que cuente;
+X. Facilitar, en los términos previstos por las disposiciones aplicables, la accesibilidad de las personas con discapacidad a sus establecimientos;
 
-XII. Suscribir los seguros obligatorios con las coberturas exigidas por las disposiciones aplicables y estar al corriente del pago de las primas correspondientes;
+XI. Colaborar con las entidades correspondientes en la protección de los recursos naturales involucrados en las actividades y servicios turísticos que proporcionen, mediante la difusión de acciones de protección y conservación del medio ambiente a los turistas;
 
-XIII. Incluir en los precios o tarifas de los servicios que ofrecen, el pago de una prima de seguro para la protección del turista, según el servicio ofertado;
+XII. Capacitar en materia turística y de prestación de servicios al personal con que cuente;
 
-XIV. Cumplir con las obligaciones fiscales que establece la ley en la materia;
+XIII. Suscribir los seguros obligatorios con las coberturas exigidas por las disposiciones aplicables y estar al corriente del pago de las primas correspondientes;
 
-XV. Realizar lo establecido por ordenamientos en materia de salud correspondientes a calidad e higiene y demás que correspondan; y
+XIV. Incluir en los precios o tarifas de los servicios que ofrecen, el pago de una prima de seguro para la protección del turista, según el servicio ofertado;
 
-XVI. Observar y cumplir con las demás disposiciones administrativas y legales aplicables en la materia.
+XV. Cumplir con las obligaciones fiscales que establece la ley en la materia;
+
+XVI. Realizar lo establecido por ordenamientos en materia de salud correspondientes a calidad e higiene y demás que correspondan; y
+
+XVII. Observar y cumplir con las demás disposiciones administrativas y legales aplicables en la materia.
 
 ###### Artículo 40.
 
@@ -870,5 +906,17 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente 
 P.O. 20 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 727.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 5, LA FRACCIÓN VII DEL ARTÍCULO 6, EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II, III Y IV DEL ARTÍCULO 41; SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 41, Y EL ARTÍCULO 41 BIS, DE LA LEY DE TURISMO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 884.- SE ADICIONA LA FRACCIÓN V, RECORRIÉNDOSE LAS ULTERIORES, DEL ARTÍCULO 39 DE LA LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 885.- SE REFORMAN LAS FRACCIONES XX, XXVI Y XXVII, Y SE ADICIONAN LAS FRACCIONES XXVIII Y XXIX, DEL ARTÍCULO 6; Y SE ADICIONA EL ARTÍCULO 9 BIS, DE LA LEY DE TURISMO PARA EL ESTADO DE COAHUILA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
