@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-impulso-emprendedor-del-estado-de-coahuila-de-10481
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2020-09-29"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, al martes 30 de diciembre de 2014.
 
@@ -141,9 +141,9 @@ IX. Se promoverá a través de incentivos y mecanismos de fomento que el sector 
 
 Para el debido cumplimiento del Programa Estratégico, en concordancia con el objeto y objetivos de la presente Ley y en el ámbito de sus respectivas competencias, corresponderá:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE ENERO DE 2021)</small>
 
-I. A la Secretaría de Economía y Turismo: la promoción de manera prioritaria de programas de impulso y apoyo a emprendedores para:
+I. A la Secretaría de Economía: la promoción de manera prioritaria de programas de impulso y apoyo a emprendedores para:
 
 a) Incentivar y facilitar el aprovechamiento de productos tecnológicos e innovaciones para el sector productivo, especialmente para empresas de reciente creación; y
 
@@ -179,7 +179,9 @@ La participación y coordinación de los sectores público y privado de carácte
 
 I. El Consejo General Ciudadano para Fomentar la Cultura Emprendedora e Impulsar a los Emprendedores; y
 
-II. La Dirección General para las la Micro, Pequeña y Mediana Empresa de la Secretaría de Desarrollo Económico y Competitividad.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
+
+II. La Dirección General para las (sic) Micro, Pequeña y Mediana Empresa de la Secretaría de Economía.
 
 ###### Artículo 8.
 
@@ -191,9 +193,9 @@ I. Un Presidente que será designado por el propio Consejo General Ciudadano a p
 
 II. Un Vicepresidente, que será designado por el propio Consejo General Ciudadano de entre los integrantes del sector no gubernamental, por un período de tres años;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
 
-III. El o la titular de la Dirección General para la Micro, Pequeña y Mediana Empresa de la Secretaría de Economía y Turismo, quien fungirá como Secretario Ejecutivo del Consejo;
+III. El o la titular de la Dirección General para la Micro, Pequeña y Mediana Empresa de la Secretaría de Economía, quien fungirá como Secretario Ejecutivo del Consejo;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2020)</small>
 
@@ -201,19 +203,29 @@ IV. Por la Administración Pública Estatal, los titulares de las siguientes Sec
 
 a) Secretaría de Finanzas;
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
 
-b) Secretaría de Economía y Turismo;
+b) Secretaría de Economía;
 
 c) Secretaría del Trabajo;
 
 d) Secretaría de Educación; y
 
-e) Consejo Estatal de Ciencia y Tecnología.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ENERO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+e) Secretaría de Desarrollo Rural;
 
-f) Instituto Coahuilense de las Mujeres
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ENERO DE 2021)</small>
+
+f) Secretaría de Medio Ambiente;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE ENERO DE 2021)</small>
+
+g) Consejo Estatal de Ciencia y Tecnología; e
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE ENERO DE 2021)</small>
+
+h) Instituto Coahuilense de las Mujeres.
 
 V. Por el sector no gubernamental, 5 representantes de organizaciones empresariales, académicas y/o sociales, invitados por el Titular del Ejecutivo del Estado, buscando mantener representatividad de las diferentes regiones del Estado.
 
@@ -307,11 +319,11 @@ Las resoluciones del Consejo General Ciudadano se tomarán por mayoría de los m
 
 El Consejo General Ciudadano podrá crear comités especiales que considere necesarios para atender los asuntos que el mismo Consejo determine relacionados con el ejercicio de sus atribuciones. Estos comités serán coordinados por el Secretario Ejecutivo y en ellos podrán participar miembros de la comunidad científica, tecnológica y de los sectores social y privado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2021)</small>
 
 ###### Artículo 13.
 
-Se crea un Comité Financiero integrado por los representantes de la Secretaría de Finanzas, quien fungirá como coordinador, de Desarrollo Económico y Competitividad, del Instituto Coahuilense de las Mujeres y de la Secretaría de Educación, con la finalidad de:
+Se crea un Comité Financiero integrado por los representantes de la Secretaría de Finanzas, quien fungirá como coordinador, de Economía y de la Secretaría de Educación, con la finalidad de:
 
 I. Analizar el gasto público para la realización del Programa Estratégico;
 
@@ -485,15 +497,19 @@ En todos los casos, los informes anuales a que se refiere este Artículo serán 
 
 El Programa Estratégico, así como sus actualizaciones, aprobadas por el Consejo General Ciudadano, deberán ser remitidas al Titular del Ejecutivo del Estado, para que en los términos de la Ley aplicable proceda a su publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ENERO DE 2021)</small>
+
 ### CAPÍTULO IV
 
-DE LA DIRECCIÓN GENERAL PARA LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD.
+DE LA DIRECCIÓN GENERAL PARA LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DE LA SECRETARÍA DE ECONOMÍA.
 
 #### SECCIÓN PRIMERA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2021)</small>
+
 ###### Artículo 21.
 
-La Dirección General para las Micros, Pequeñas y Medianas Empresas, además de las facultades y obligaciones que se señalan en el artículo 34 del Reglamento Interior de la Secretaría de Desarrollo Económico y Competitividad, tendrá a su cargo las siguientes facultades:
+La Dirección General para la Micro, Pequeña y Mediana Empresa, además de las facultades y obligaciones que se señalan en el artículo 24 del Reglamento Interior de la Secretaría de Economía, tendrá a su cargo las siguientes facultades:
 
 I. Realizar las acciones necesarias para cumplir los objetivos de esta Ley;
 
@@ -518,6 +534,14 @@ X. Realizar las acciones necesarias para promover y posicionar a las empresas de
 XI. Promover y apoyar la cultura emprendedora basada en la creatividad y la innovación en la sociedad y en los diversos sectores productivos del Estado, realizando actividades de difusión y divulgación; y
 
 XII. Las demás que deriven de esta Ley, el Programa Estratégico, así como las que se establezcan en otras leyes y su Reglamento Interior.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2021)</small>
+
+XIII. Promocionar los productos y servicios de las micro, pequeñas y medianas empresas coahuilenses, a través de plataformas digitales, a fin de ampliar sus alternativas de oferta y entrega.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2021)</small>
+
+XIV. Fomentar la implementación (sic) programas de capacitación y formación empresarial, así como de asesoría y consultoría para micro, pequeñas y medianas empresas, con énfasis en el uso de mecanismos de tecnologías de la información y comunicación para introducir y fortalecer sus capacidades digitales para la oferta de sus productos y servicios.
 
 ###### Artículo 22.
 
@@ -671,9 +695,11 @@ Los recursos de estos fondos se ejercerán conforme a las reglas de operación e
 
 Los fondos de participación extranjera a que se refiere este artículo serán constituidos en términos de la Ley de Inversión Extranjera.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
+
 ###### Artículo 30.
 
-En los comités técnicos y de administración de los fondos que surjan en base a lo establecido en esta Ley, o sus equivalentes, participarán representantes de las Secretarías de Finanzas, de Desarrollo Económico y Competitividad, de Educación y de la Dirección General para las Micro, Pequeñas y Medianas Empresas.
+En los comités técnicos y de administración de los fondos que surjan en base a lo establecido en esta Ley, o sus equivalentes, participarán representantes de las Secretarías de Finanzas, de Economía, de Educación y de la Dirección General para las Micro, Pequeñas y Medianas Empresas.
 
 T R A N S I T O R I O S
 
@@ -790,5 +816,11 @@ P.O. 26 DE JUNIO DE 2020.
 P.O. 29 DE SEPTIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 726.- SE ADICIONAN EL INCISO C) A LA FRACCIÓN I DEL ARTÍCULO 5°, ASÍ COMO LOS ARTÍCULOS 28 BIS Y 28 BIS 1, DE LA LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 882.- SE REFORMA: LA FRACCIÓN I DEL ARTÍCULO 5°, LA FRACCIÓN II DEL ARTÍCULO 7°, LA FRACCIÓN III Y EL INCISO B) DE LA FRACCIÓN IV Y LOS INCISOS E) Y F) DEL ARTÍCULO 8, EL PRIMER PÁRRAFO DEL ARTÍCULO 13, LA DENOMINACIÓN DEL CAPÍTULO IV, EL PRIMER PÁRRAFO DEL ARTÍCULO 21 Y LAS FRACCIONES XIII Y XIV AL ARTÍCULO 21; EL ARTÍCULO 30; SE ADICIONA: LOS INCISOS G) Y H) DE LA FRACCIÓN IV DEL ARTÍCULO 8, DE LA LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
