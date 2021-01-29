@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2020-09-17"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2021.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -3035,27 +3035,7 @@ XI. Aprovechamientos diversos.
 
 B. Aprovechamientos en materia ambiental:
 
-I. Venta de certificado holográfico para verificación vehicular o verificentro:
-
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
-
-a) Certificado holográfico para verificación estática de vehículos con motor a gasolina, gas licuado de petróleo o gas natural, con expedición de holograma tipo "E". 1.5904 UMA;
-
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
-
-b) Certificado holográfico para verificación a vehículos con motor a diésel. 2.1205 UMA;
-
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
-
-c) Certificado holográfico para verificación dinámica con expedición de holograma tipo "0" 2.1205 UMA;
-
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
-
-d) Certificado holográfico para verificación dinámica con expedición de holograma tipo "00" 5.3013 UMA;
-
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
-
-e) Certificado holográfico para verificación dinámica estatal con expedición de holograma tipo "DE". 1.0602 UMA;
+I. (DEROGADA, G.O. 29 DE ENERO DE 2021)
 
 II. Pagos por responsabilidad resarcitoria, reparación de daños ocasionados al ambiente o de compensación derivada de menoscabo, alteración, afectaciones, daños, uso indebido o perjuicios que causen a los ecosistemas veracruzanos y que se cuantifiquen en términos de la Ley Estatal de Protección Ambiental, así como las leyes, reglamentos, disposiciones administrativas, licencias, autorizaciones, dictámenes y resolutivos que se emitan en la materia ambiental;
 
@@ -5906,3 +5886,15 @@ G.O. 17 DE SEPTIEMBRE DE 2020.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 830 QUE DEROGA LA FRACCIÓN I, APARTADO B, DEL ARTÍCULO 153 DEL CÓDIGO FINANCIERO Y ADICIONA UN APARTADO E, AL ARTÍCULO 16 Y DEROGA LOS INCISOS A) Y B) DE LA FRACCIÓN IV, DEL ARTÍCULO 19 DEL CÓDIGO DE DERECHOS AMBOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se faculta a la Secretaría de Finanzas y Planeación para emitir las reglas, criterios y lineamientos para la operación, transferencia, administración y entrega de los Hologramas a los Centros de Verificación Vehicular y Verificentros.
+
+TERCERO. Se derogan todas las disposiciones legales y administrativas del marco jurídico estatal que se opongan al presente Decreto.
+
+CUARTO. Se instruye a los titulares de la Secretaría de Finanzas y Planeación y Secretaría de Medio Ambiente para que, en el ámbito de sus respectivas competencias, den cumplimiento al presente Decreto. La Secretaría de Medio Ambiente deberá incluir las presentes modificaciones en el Programa de Verificación Vehicular Obligatorio.
