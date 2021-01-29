@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-ii-2008-del-comite-de-87155"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-03"
-last_updated: "2008-04-03"
+last_updated: "2021-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87155&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-04-03"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION II/2008 DEL COMITE DE PUBLICACIONES Y PROMOCION EDUCATIVA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [REGLAS PARA LA ELABORACION REPRODUCCION DISTRIBUCION DONACION Y VENTA DE LAS PUBLICACIONES OFICIALES Y DE LOS DISCOS COMPACTOS QUE EDITA ESTE ALTO TRIBUNAL]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2021, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTICINCO DE ENERO DE DOS MIL VEINTIUNO, POR EL QUE SE ESTABLECEN LAS REGLAS PARA LA ELABORACIÓN, REPRODUCCIÓN, DISTRIBUCIÓN, DONACIÓN Y VENTA DE LAS PUBLICACIONES IMPRESAS Y DIGITALES DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL S.J.F. DE 29 DE ENERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN II/2008, DEL TRES DE ABRIL DE DOS MIL OCHO, DEL COMITÉ DE PUBLICACIONES Y PROMOCIÓN EDUCATIVA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LAS REGLAS PARA LA ELABORACIÓN, REPRODUCCIÓN, DISTRIBUCIÓN, DONACIÓN Y VENTA DE LAS PUBLICACIONES OFICIALES Y DE LOS DISCOS COMPACTOS QUE EDITA ESTE ALTO TRIBUNAL.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 29 DE ENERO DE 2021 (ABROGADO).
 
 Acuerdo publicado en la Novena Época del Semanario Judicial de la Federación y su Gaceta, Tomo XXVII, Abril de 2008, páginas de la 2459 a la 2472.
 
@@ -368,3 +370,15 @@ LICENCIADO DAVID ESPEJEL RAMÍREZ, SECRETARIO EJECUTIVO DE ASUNTOS JURÍDICOS IN
 CERTIFICA:
 
 Que esta copia del Acuerdo General de Administración II/2008, del tres de abril de dos mil ocho, del Comité de Publicaciones y Promoción Educativa de la Suprema Corte de Justicia de la Nación, relativo a las reglas para la elaboración, reproducción, distribución, donación y venta de las publicaciones oficiales y de los discos compactos que edita este Alto Tribunal, constante de catorce fojas útiles, concuerda fiel y exactamente con su original que obra en esta Secretaría Ejecutiva y se certifica para la difusión correspondiente.- México, Distrito Federal a ocho de abril de dos mil ocho.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+S.J.F. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2021, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTICINCO DE ENERO DE DOS MIL VEINTIUNO, POR EL QUE SE ESTABLECEN LAS REGLAS PARA LA ELABORACIÓN, REPRODUCCIÓN, DISTRIBUCIÓN, DONACIÓN Y VENTA DE LAS PUBLICACIONES IMPRESAS Y DIGITALES DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se abroga el Acuerdo General de Administración II/2008 del tres de abril del dos mil ocho, del Comité de Publicaciones y Promoción Educativa de la Suprema Corte de Justicia de la Nación, relativo a las reglas para la elaboración, reproducción, distribución, donación y venta de las publicaciones oficiales y de los discos compactos que edita este Alto Tribunal, y se derogan las disposiciones que se opongan a lo previsto en este Acuerdo General de Administración.
+
+TERCERO. Publíquese este Acuerdo General de Administración en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
