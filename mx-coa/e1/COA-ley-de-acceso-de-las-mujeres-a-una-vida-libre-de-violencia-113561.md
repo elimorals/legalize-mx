@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2021-01-26"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de marzo de 2016.
 
@@ -367,7 +367,7 @@ h). Realizar o distribuir propaganda política o electoral que calumnie, degrade
 
 i). Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
 
-j). Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la pública, con base en estereotipos de género;
+j). Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
 
 k). Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
 
@@ -1007,17 +1007,19 @@ VII. Secretaría de Inclusión y Desarrollo Social;
 
 VIII. Secretaría del Trabajo;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE ENERO DE 2021)</small>
 
 IX. Secretaría de Economía;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
 
-X. Secretaría de Infraestructura y Transporte;
+X. Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
 
-XI. Secretaría de Medio Ambiente y Desarrollo Urbano;
+XI. Secretaría de Medio Ambiente;
+
+> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XII ES IDÉNTICA A LA FRACCIÓN XIX.]</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2020)</small>
 
@@ -1041,13 +1043,19 @@ XVII. Sistema para el Desarrollo Integral de la Familia y Protección de Derecho
 
 XVIII. Procuraduría para Niños, Niñas y la Familia;
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XIX ES IDÉNTICA A LA FRACCIÓN XII.]</small>
 
-XIX. Dirección de Prevención Social de la Violencia y la Delincuencia;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ENERO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+XIX. Secretaría de Turismo y Desarrollo de Pueblos Mágicos;
 
-XX. Dirección para Promover la Igualdad y Prevenir la Discriminación; y
+> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XX ES SIMILAR A LA FRACCIÓN XXI.]</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ENERO DE 2021)</small>
+
+XX. Centro de Justicia y Empoderamiento para las Mujeres en Coahuila.
+
+> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XXI ES SIMILAR A LA FRACCIÓN XX.]</small>
 
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
@@ -1061,7 +1069,9 @@ Cuando se trate de asuntos de su competencia, puede convocarse a las sesiones de
 
 I. Las entidades federales, estatales y/o municipales, así como los organismos públicos autónomos encargados de aplicar programas en favor de las mujeres en los municipios del Estado;
 
-II. A legisladores o legisladoras del Congreso del Estado;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
+
+II. A legisladoras o legisladores del Congreso del Estado que conforman la Comisión de Igualdad y No Discriminación; o en su caso, cuando así se requiera al resto de las Comisiones.
 
 III. A quien ejerza la Presidencia del Tribunal Superior de Justicia del Estado, o a una persona en su representación, designada por el Consejo de la Judicatura; y
 
@@ -1135,7 +1145,9 @@ II. Transformar los modelos socioculturales de conducta de hombres y mujeres, in
 
 III. Impulsar la educación y capacitación con perspectiva de género a todas las instituciones que integran el Sistema Estatal;
 
-IV. Impulsar la educación y capacitación del personal del Poder Judicial, a fin de dotarles de instrumentos que les permitan realizar su labor con perspectiva de género;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
+
+IV. Impulsar la educación y capacitación con perspectiva de género a todas las instituciones que integran el Sistema Estatal; así como promover y garantizar la capacitación accesible y permanente a la ciudadanía en materia de erradicación de la violencia contra las mujeres y masculinidades responsables y no violentas, a través de todos los medios disponibles.
 
 V. Proporcionar, a través de las autoridades e instituciones públicas o privadas, la atención gratuita y especializada a las víctimas de violencia que garantice un servicio de carácter sensible, con apego a lo establecido en sus respectivos reglamentos internos;
 
@@ -1497,7 +1509,9 @@ IV. Ejecutar las acciones necesarias para el cumplimiento del Programa Estatal;
 
 V. Crear programas de reeducación integral y rehabilitación para personas agresoras;
 
-VI. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
+
+VI. Promover programas educativos sobre la igualdad, no discriminación, la equidad entre los géneros y masculinidades responsables y no violentas, para eliminar la violencia contra las mujeres;
 
 VII. Apoyar la creación de refugios seguros para las víctimas;
 
@@ -2486,3 +2500,19 @@ P.O. 26 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 829.- SE REFORMA: LA FRACCIÓN VII, RECORRIENDO EL ACTUAL A LA VIII Y SE CREA LA FRACCIÓN IX DEL ARTÍCULO 2; LAS FRACCIONES VIII, X Y XI, RECORRIENDO EL DE ESTA ÚLTIMA A LA FRACCIÓN XII QUE SE CREA, DEL ARTÍCULO 15; LA FRACCIÓN XIII DEL ARTÍCULO 36; LAS FRACCIONES IX Y X, RECORRIENDO SUS RESPECTIVOS CONTENIDOS A LAS FRACCIONES XI Y XII QUE SE CREAN; SE REFORMA EL ARTÍCULO 44; LA FRACCIÓN VIII DEL ARTÍCULO 48; SE REFORMA LA FRACCIÓN VI Y VII Y SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 53; SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 57; EL ARTÍCULO 85; SE ADICIONA EL ARTÍCULO 85 BIS; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 86; LA FRACCIÓN I DEL ARTÍCULO 87 Y SE ADICIONA EL ARTÍCULO 87 BIS, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 880.- SE REFORMAN LAS FRACCIONES IX, X Y XI DEL ARTÍCULO 41 Y LA FRACCIÓN II DEL ARTÍCULO 42 Y SE ADICIONAN LAS FRACCIONES XIX Y XX AL ARTÍCULO 41 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente a (sic) su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 895.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 47, ASÍ COMO LA FRACCIÓN VI DEL ARTÍCULO 57, AMBOS DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
