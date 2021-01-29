@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-cultural-para-el-estado-de-coahuila-de-44956"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-29"
-last_updated: "2017-09-26"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 29 de abril del 2005.
 
@@ -144,6 +144,10 @@ El Estado reconoce e impulsa la cultura Mexicana, compuesta por las experiencias
 La cultura es un recurso para el desarrollo económico y social de la comunidad. El Estado señalará las normas que garanticen el derecho de acceso a la cultura, así como para proteger los derechos del artista, del creador cultural, del trabajador de la cultura, y para preservar los bienes y el patrimonio cultural.
 
 En su tarea de fortalecer, impulsar y preservar la cultura, el Estado reconoce la diversidad de identidades que concurren a la integración de la cultura nacional.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2021)</small>
+
+El Estado promoverá el uso de la Lengua de Señas Mexicana.
 
 ###### ARTÍCULO 9º.
 
@@ -1594,3 +1598,9 @@ QUINTO.- Salvo que exista impedimento legal para ello, la conclusión de los pro
 SEXTO.- La Secretaría de Finanzas emitirá los lineamientos sobre el destino y aplicación que se dará a los bienes remanentes del proceso de liquidación del Instituto Coahuilense de Cultura, si los hubiere.
 
 SÉPTIMO.- Corresponderá a la Secretaría de Fiscalización y Rendición de Cuentas, conforme a sus atribuciones, vigilar y hacer el seguimiento de los procesos de liquidación y extinción que este decreto autoriza.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 889.- SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 8° DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
