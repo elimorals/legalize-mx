@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2020-11-27"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
@@ -157,7 +157,9 @@ l.- Discriminación por discapacidad: se manifiesta cuando una persona es menosp
 
 m.- Discriminación por Sobre peso y Obesidad: se presenta cuando el sujeto ya sea niña-niño, población joven, persona adulta o persona adulta mayor, hombre o mujer atraviesa una condición de sobre peso u obesidad, y dicha condición, lo expone a burlas, a trato desigual, al desempleo, a la exclusión de alguna actividad deportiva o recreativa, o algún tipo de agresión o de aislamiento social; víctima de igual manera de cualquier otra práctica discriminatoria bajo los entendidos de que no está en condiciones de salud apropiada para realizar algún tipo de tarea.
 
-n.- Discriminación por Embarazo: se presenta cuando por condición de embarazo en el caso específico de la mujer se le niega la contratación dentro de un trabajo, o es expuesta a burlas o comentarios despectivos debido a los prejuicios de compañeros o clientes de trabajo. Es el tipo de discriminación que se ejerce en contra de las mujeres embarazadas en el trabajo, la escuela o en la sociedad en general.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
+
+n.- Discriminación por Embarazo o Maternidad: se presenta cuando por condición de embarazo o por encontrarse en etapa de maternidad, en el caso específico de la mujer, se le niega la contratación dentro de un centro laboral, se le priva o restringe el uso de espacios públicos o es expuesta a burlas y comentarios despectivos debido a los prejuicios de compañeros, clientes de trabajo, de autoridades educativas, funcionarios públicos y de la sociedad en general. Es el tipo de discriminación que se ejerce en contra de las mujeres embarazadas o en etapa de maternidad que interactúan en el trabajo, en la escuela, en instancias públicas y privadas o en todo ámbito social.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -255,7 +257,9 @@ Las entidades públicas encargadas de observar lo dispuesto en la presente ley, 
 
 I. Antiformalidad: Tiene por objeto impedir que los actos o formalidades no esenciales obstaculicen el derecho fundamental a la no discriminación. Los requisitos para acceder a los procedimientos protectores de la igualdad de las personas, deberán ser subsanables, razonables y proporcionales en función de la finalidad del derecho a no ser discriminado, y a que se respete la igualdad de oportunidades y de trato, y
 
-II. Inmediatez: Tiene por objeto que mediante procedimientos breves, sencillos y oportunos, las personas legitimadas obtengan la protección de sus derechos, para prevenir cualquier práctica de discriminación, procurándose el contacto directo con los quejosos, denunciantes, servidores públicos y autoridades, para evitar la dilación de las comunicaciones escritas y de las actuaciones no indispensables.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
+
+II. Inmediatez: Tiene por objeto que, mediante procedimientos breves, sencillos y oportunos, las personas legitimadas obtengan la protección de sus derechos, para prevenir, atender y erradicar cualquier práctica de discriminación, procurándose el contacto directo con los quejosos, denunciantes, servidores públicos y autoridades, para evitar la dilación de las comunicaciones escritas y de las actuaciones no indispensables;
 
 ### CAPÍTULO TERCERO. DE LAS MEDIDAS PARA PREVENIR LA DISCRIMINACIÓN
 
@@ -389,9 +393,7 @@ XXIX. Criminalizar a cualquier persona, grupo o comunidad.
 
 XXX. Impedir el acceso a los inmuebles que brinden servicio o atención al público o establecimientos mercantiles derivada de falta de accesibilidad de los mismos motivos que se relacionan en el artículo 3° fracción VI de la presente ley.
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
-
-XXXI. En general cualquier conducta discriminatoria, en los términos de la fracción VI del artículo 3° de esta ley.
+XXXI. (DEROGADA, P.O. 29 DE ENERO DE 2021)
 
 > <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
@@ -401,9 +403,9 @@ XXXII. Restringir la participación en actividades deportivas, recreativas o cul
 
 XXXIII. Menospreciar, o tratar de manera despreciativa a persona que vive bajo algún tipo de discapacidad, bien será física, mental o intelectual;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
 
-XXXIV. Negar la contratación de un trabajo, limitar el acceso a un servicio, o ser expuesta a burlas, comentarios despectivos o discriminatorios por el hecho de encontrarse en situación de embarazo; Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser persona adulta mayor;
+XXXIV. Negar la contratación de un trabajo, limitar el acceso a un servicio o espacio público, o ser expuesta a burlas, comentarios misóginos, despectivos o discriminatorios por el hecho de encontrarse en situación de embarazo o en etapa de maternidad; Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser persona adulta mayor;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -413,9 +415,9 @@ XXXV. Tratar de manera discriminante, de abandono, abuso o maltrato, ser sujeto 
 
 XXXVI. Menospreciar bajo los entendidos de que no está en condiciones de salud apropiada para realizar algún tipo de tarea por el hecho de atravesar una condición de sobre peso u obesidad, o cualquier otro desorden alimenticio;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
 
-XXXVII. Negar o limitar información relacionada con sus derechos reproductivos, o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos;
+XXXVII. Negar o limitar la información relacionada con el embarazo, el parto y posparto, la etapa de maternidad y en general sobre los derechos reproductivos, impidiendo el libre ejercicio sobre la determinación de cuantos y como desean tener a los hijos;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -433,9 +435,7 @@ XL. Ser víctima de prácticas violentas o de trato desigual, o algún tipo de o
 
 XLI. Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser mujer;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
-
-XLII. Trato desigual, o ser víctima de perjuicios (sic), estigmas, o algún tipo de opresión, transgresiones, descalificaciones por el hecho de ser joven o adolescente;
+XLII. (DEROGADA, P.O. 29 DE ENERO DE 2021)
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -453,9 +453,7 @@ XLV. Negar o atentar contra algún tipo de derecho emanado de los acuerdos inter
 
 XLVI. Explotar a cualquier persona, o dar un trato abusivo o degradante;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
-
-XLVII. Violación de los derechos, a los tratados internacionales, explotación económica, inseguridad social, menosprecio, racismo, secuestro, así como el riesgo de muerte por el hecho de ser migrante o refugiado;
+XLVII. (DEROGADA, P.O. 29 DE ENERO DE 2021)
 
 > <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
@@ -512,6 +510,14 @@ LX. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones pa
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
 LXI. Limitar, obstaculizar o negar cualquier empleo de oficio o profesional por discriminación, basada en género, raza, etnia, orientación sexual o por tener cualquier modificación corporal, ya sean tatuajes, perforaciones, implantes, u otra condición.
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
+
+LXII. Prohibir, negar, limitar o recriminar el acto de amamantar en espacios públicos, cuando este sea una obvia necesidad derivada de la etapa de lactancia materna.
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
+
+LXIII. En general cualquier conducta discriminatoria, en los términos de la fracción VI del artículo 3° de esta ley.
 
 ### CAPÍTULO CUARTO. DE LAS MEDIDAS POSITIVAS Y COMPENSATORIAS
 
@@ -1402,3 +1408,11 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 881.- SE REFORMA LA FRACCIÓN N DEL ARTÍCULO 3 BIS, LA FRACCIÓN II DEL ARTÍCULO 12, LAS FRACCIONES XXXIV Y XXXVII DEL ARTÍCULO 13; SE DEROGAN LAS FRACCIONES XXXI, XLII Y LA XLVII DEL ARTÍCULO 13 Y SE ADICIONAN LAS FRACCIONES LXII Y LXIII AL ARTÍCULO 13, TODOS ESTOS DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
