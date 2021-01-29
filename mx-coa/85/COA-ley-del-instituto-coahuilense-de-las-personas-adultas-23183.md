@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-las-personas-adultas-23183"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-11"
-last_updated: "2020-08-07"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 2001.
 
@@ -549,6 +549,10 @@ IX. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
 El Programa Estatal de las Personas Adultas Mayores es el conjunto de políticas, estrategias y acciones que deberán ejecutar, en la esfera de su competencia, las dependencias de la administración pública estatal y municipal, las instituciones académicas y las organizaciones del sector social y/o privado, de manera coordinada y concertada a fin de garantizar la atención integral de las personas adultas mayores en la entidad.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2021)</small>
+
+Además de realizar planes y acciones encaminadas al bienestar social de las personas adultas mayores, a través de las instituciones y/o asociaciones necesarias para su diagnóstico, tratamiento y seguimiento, en beneficio de una vida plena y digna.
+
 ###### ARTÍCULO 23.
 
 El Programa Estatal de las Personas Adultas Mayores deberá establecer por lo menos:
@@ -710,3 +714,9 @@ P.O. 7 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 691.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 41 Y SE ADICIONA EL ARTÍCULO 41 BIS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN XLIII DEL ARTÍCULO 3 DE LA LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 888.- SE ADICIONA EL ARTÍCULO 31 BIS A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 22 DE LA LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
