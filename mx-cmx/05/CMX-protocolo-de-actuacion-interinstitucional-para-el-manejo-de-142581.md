@@ -4,7 +4,7 @@ identifier: "CMX-protocolo-de-actuacion-interinstitucional-para-el-manejo-de-142
 country: "mx"
 rank: "otro"
 publication_date: "2020-04-17"
-last_updated: "2020-04-17"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142581&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-04-17"
 
 ACUERDO POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN INTERINSTITUCIONAL PARA EL MANEJO DE PERSONAS FALLECIDAS POR SOSPECHA O CONFIRMACIÓN DE COVID-19 EN LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2021.
 
 Acuerdo publicado en el No. 325 Bis de la Gaceta Oficial de la Ciudad México, el viernes 17 de abril de 2020.
 
@@ -242,7 +242,15 @@ Por lo anterior y con el propósito de reducir los riesgos de contagio y propaga
 
 12. Tratándose de personas fallecidas identificadas como extranjeras, la Embajada del país de origen será la facultada para reclamar la entrega del cuerpo o cenizas a la autoridad correspondiente.
 
-13. Se evitará el traslado de personas fallecidas al interior de la República Mexicana o al extranjero, exceptuando la zona conurbada de la Ciudad de México, cuyo traslado será efectuado exclusivamente por las agencias funerarias y extremando todas las medidas sanitarias. Cualquier traslado fuera de las disposiciones legales establecidas será sancionada (sic) por las leyes civiles y penales.
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2021)</small>
+
+13. Para la autorización de los trámites de traslado, inhumación o cremación en decesos de más de 48 horas no será necesario presentar carta de estancia, carta de refrigeración, tesis de embalsamamiento o carta responsiva.
+
+Se autoriza el traslado de personas fallecidas al interior de la República Mexicana o al extranjero, extremando todas las medidas de seguridad sanitaria.
+
+Para la autorización de traslados de personas fallecidas que implican tiempos prolongados se autoriza su embalsamamiento o la aplicación de cualquier otro procedimiento de conservación, conforme al Reglamento de la Ley General de Salud en materia de Control Sanitario de la disposición de Órganos, Tejidos y Cadáveres de Seres Humanos, utilizando el equipo de protección personal en términos de lo establecido en los Lineamientos de Manejo General y Masivo de Cadáveres por COVID-19 (SARS-CoV-2) en México.
+
+El traslado será efectuado por las agencias funerarias extremando todas las medidas sanitarias. Cualquier traslado fuera de las disposiciones legales establecidas será sancionado por las leyes civiles y penales aplicables.
 
 14. Tratándose de personas fallecidas no identificadas, el INCIFO y la Fiscalía General darán vista a la Comisión de Búsqueda Local, quien iniciará los procedimientos o protocolos que correspondan, así como la búsqueda de los familiares. La Fiscalía General ingresará la información al Registro de personas fallecidas no identificadas y no reclamadas. Realizado lo anterior se autorizará la inhumación de la persona fallecida por parte de la Agencia, de conformidad con lo que establece la normativa correspondiente.
 
@@ -384,7 +392,9 @@ De conformidad con la normativa aplicable, las dependencias e instituciones invo
 
 A. Agencia de Protección Sanitaria
 
-a) Otorgar la autorización del trámite funerario de inhumación o cremación de personas fallecidas.
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2021)</small>
+
+a) Otorgar la autorización de los trámites funerarios de traslado, inhumación o cremación de personas fallecidas en términos de la normativa aplicable; previa solicitud y cumplimiento de los requisitos correspondientes.
 
 b) Atender, organizar, registrar y operar la prestación de servicios en materia de trámites funerarios para efectos de integrar el padrón estatal de trámites funerarios otorgados.
 
@@ -695,3 +705,15 @@ La aplicación de los procedimientos establecidos en el presente Protocolo de Ac
 A. DIAGRAMAS DE FLUJO
 
 > <small>[N. DE E. VÉASE DIAGRAMAS DE FLUJO EN LA G.O. DE 17 DE ABRIL DE 2020, PAGINAS DE LA 20 A LA 22.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE MODIFICA EL PROTOCOLO DE ACTUACIÓN INTERINSTITUCIONAL PARA EL MANEJO DE PERSONAS FALLECIDAS POR SOSPECHA O CONFIRMACIÓN DE COVID-19 EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Aviso entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Las medidas contenidas en el presente permanecerán vigentes durante la Declaratoria de Emergencia Sanitaria por causa de fuerza mayor del Consejo de Salud de la Ciudad de México, en concordancia con la Emergencia Sanitaria declarada por el Consejo de Salubridad General, para controlar, mitigar y evitar la propagación del COVID-19.
