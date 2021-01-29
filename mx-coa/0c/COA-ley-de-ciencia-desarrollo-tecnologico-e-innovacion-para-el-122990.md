@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ciencia-desarrollo-tecnologico-e-innovacion-para-el-1229
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-08"
-last_updated: "2018-05-25"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE MAYO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de agosto de 2017.
 
@@ -274,6 +272,10 @@ El Gobierno del Estado a través de la Secretaría de Educación y por conducto 
 a) Divulgación de programas, becas, premios, reconocimientos y demás mecanismos idóneos; y
 
 b) Estimular a la juventud y a la sociedad sobre las alternativas de formación en las disciplinas derivadas de la ciencia que tienden a promover el desarrollo científico y tecnológico de la Entidad.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2021)</small>
+
+c) Promover en la educación básica y media superior el establecimiento de un programa de iniciación a la vocación científica, la innovación y el desarrollo tecnológico.
 
 #### SECCIÓN II. De la Vinculación con los Sectores Público y Privado
 
@@ -813,7 +815,13 @@ f) Las áreas del sector privado y social representadas por empresarios, investi
 
 IV. Una Comisaria, a cargo de quien ocupe la titularidad de la Secretaria de Fiscalización y Rendición de Cuentas;
 
-Todos los miembros de la Junta de Gobierno tendrán derecho a voz y voto, con excepción del Secretario Técnico y del Comisario quienes solo tendrán derecho a voz. Así mismo, cada uno de los miembros de la Junta de Gobierno designará en caso de ausencia a un suplente, que pertenezca al área o sector que represente.
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
+
+V. Un representante del Poder Legislativo del Estado, quien será el Coordinador de la Comisión de Ciencia y Tecnología;
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
+
+Todos los miembros de la Junta de Gobierno tendrán derecho a voz y voto, con excepción del representante del Poder Legislativo del Estado, del Secretario Técnico y del Comisario quienes solo tendrán derecho a voz. Así mismo, cada uno de los miembros de la Junta de Gobierno designará en caso de ausencia a un suplente, que pertenezca al área o sector que represente, en el caso del representante suplente del Poder Legislativo deberá ser algún otro de los integrantes de la Comisión de Ciencia y Tecnología.
 
 Los cargos de la Junta de Gobierno serán de carácter honoríficos, por lo que quienes lo desempeñan no percibirán remuneración alguna; y la permanencia en el cargo será de dos años, y podrán ser removidos previa solicitud de quien ocupe la Secretaria Técnica.
 
@@ -1094,3 +1102,11 @@ P.O. 23 DE ENERO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 886.- SE ADICIONA EL INCISO C AL ARTÍCULO 16, SE ADICIONA LA FRACCIÓN V Y SE MODIFICA EL PÁRRAFO SEGUNDO AL ARTÍCULO 69, AMBOS DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
