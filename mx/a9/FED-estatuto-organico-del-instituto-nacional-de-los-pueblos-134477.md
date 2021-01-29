@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-los-pueblos-134477"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-03-20"
-last_updated: "2019-03-20"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-03-04"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE ENERO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 20 de marzo de 2019.
 
@@ -259,13 +259,17 @@ A. Coordinaciones Generales:
 
 I. De Derechos Indígenas;
 
-II. De Patrimonio Cultural, Investigación y Educación Indígena;
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2021)</small>
+
+II. De Patrimonio Cultural y Educación Indígena;
 
 III. De Fomento a la Economía Indígena;
 
 IV. De Infraestructura Indígena;
 
-V. De Planeación y Evaluación;
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2021)</small>
+
+V. De Planeación, Investigación y Evaluación;
 
 VI. De Transversalidad y Operación Regional;
 
@@ -357,9 +361,11 @@ XXVIII. Expedir copias certificadas de los documentos que integran los expedient
 
 XXIX. Las que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende el Director General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2021)</small>
+
 ###### Artículo 14.
 
-Compete a la Coordinación General de Patrimonio Cultural, Investigación y Educación Indígena:
+Compete a la Coordinación General de Patrimonio Cultural y Educación Indígena:
 
 I. Coordinar el diseño, implementación y seguimiento de políticas y acciones para la revitalización, desarrollo, fortalecimiento, documentación y difusión del patrimonio cultural, material e inmaterial, de los pueblos indígenas y afromexicano, sus conocimientos y sus expresiones culturales, así como todos los elementos que constituyan la cultura e identidad de dichos pueblos, para su mantenimiento y preservación;
 
@@ -375,7 +381,9 @@ VI. Atender las propuestas de los integrantes de los pueblos indígenas y afrome
 
 VII. Realizar las acciones necesarias para la asignación de recursos a los pueblos, comunidades y municipios indígenas, a través de sus autoridades o instituciones representativas, para la debida instrumentación de los programas y acciones de su competencia, en coadyuvancia con la Coordinación General de Administración y Finanzas;
 
-VIII. Coordinar la realización, publicación, difusión y promoción de las investigaciones y estudios relativos a los pueblos indígenas y afromexicano, así como conservar los acervos del patrimonio cultural e intelectual de dichos pueblos, en coordinación con las instancias competentes;
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2021)</small>
+
+VIII. Conservar los acervos del patrimonio cultural e intelectual de los pueblos indígenas y afromexicano, en coordinación con las instancias competentes;
 
 IX. Salvaguardar, preservar, conservar y restaurar los bienes de los acervos del Instituto, que custodian el patrimonio cultural de los pueblos indígenas y afromexicano;
 
@@ -473,9 +481,11 @@ IX. Expedir copias certificadas de los documentos que integran los expedientes r
 
 X. Las que le confieran otras disposiciones jurídicas, y aquellas que le encomiende el Director General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2021)</small>
+
 ###### Artículo 17.
 
-Compete a la Coordinación General de Planeación y Evaluación:
+Compete a la Coordinación General de Planeación, Investigación y Evaluación:
 
 I. Definir y coordinar los procesos y la participación de las Unidades Administrativas del Instituto en la planeación institucional, a fin de promover el reconocimiento e implementación de los derechos y el desarrollo integral, intercultural y sostenible de los pueblos indígenas y afromexicano;
 
@@ -501,19 +511,23 @@ XI. Determinar los criterios y mecanismos para la integración, elaboración y p
 
 XII. Definir los mecanismos institucionales respecto de contenidos, difusión de proyectos, estudios, investigaciones, evaluaciones y diagnósticos que se elaboren en las Unidades Administrativas del Instituto;
 
-XIII. Establecer criterios en forma conjunta con la Coordinación General de Administración y Finanzas, para orientar los procesos de definición del presupuesto y las metas anuales de los programas presupuestarios a cargo del Instituto;
+> <small>(ADICIONADA, D.O.F. 29 DE ENERO DE 2021)</small>
 
-XIV. Proponer a la Dirección General las políticas para coordinar la contratación, operación y supervisión de la evaluación y monitoreo de las acciones derivadas de la aplicación de los recursos de los programas presupuestales del Instituto, de conformidad con las disposiciones emitidas por las instancias competentes y demás disposiciones jurídicas aplicables;
+XIII. Coordinar la realización, publicación, difusión y promoción de las investigaciones y estudios aplicados relativos a los pueblos indígenas y afromexicano, a partir de su perspectiva cultural y con su participación;
 
-XV. Establecer, conforme a las disposiciones jurídicas aplicables, los lineamientos, criterios y procedimientos de carácter técnico que deban regir a las Unidades Administrativas para la operación del Comité de Mejora Regulatoria Interna, y presidir dicha instancia;
+XIV. Establecer criterios en forma conjunta con la Coordinación General de Administración y Finanzas, para orientar los procesos de definición del presupuesto y las metas anuales de los programas presupuestarios a cargo del Instituto;
 
-XVI. Proponer esquemas para atender peticiones específicas que se planteen directamente a la Dirección General del Instituto, para ordenar y determinar su nivel de prioridad, analizando la pertinencia, oportunidad, focalización y disponibilidad de recursos presupuestales, regido previamente por criterios de factibilidad social y aportación al reconocimiento, protección e implementación de los derechos, así como al desarrollo integral, intercultural y sostenible de los pueblos indígenas y afromexicano;
+XV. Proponer a la Dirección General las políticas para coordinar la contratación, operación y supervisión de la evaluación y monitoreo de las acciones derivadas de la aplicación de los recursos de los programas presupuestales del Instituto, de conformidad con las disposiciones emitidas por las instancias competentes y demás disposiciones jurídicas aplicables;
 
-XVII. Celebrar instrumentos jurídicos y administrativos necesarios para el cumplimiento de sus atribuciones, así como emitir los acuerdos y las autorizaciones que le correspondan;
+XVI. Establecer, conforme a las disposiciones jurídicas aplicables, los lineamientos, criterios y procedimientos de carácter técnico que deban regir a las Unidades Administrativas para la operación del Comité de Mejora Regulatoria Interna, y presidir dicha instancia;
 
-XVIII. Expedir copias certificadas de los documentos que integran los expedientes relativos a los asuntos de su competencia, y
+XVII. Proponer esquemas para atender peticiones específicas que se planteen directamente a la Dirección General del Instituto, para ordenar y determinar su nivel de prioridad, analizando la pertinencia, oportunidad, focalización y disponibilidad de recursos presupuestales, regido previamente por criterios de factibilidad social y aportación al reconocimiento, protección e implementación de los derechos, así como al desarrollo integral, intercultural y sostenible de los pueblos indígenas y afromexicano;
 
-XIX. Las que le confieran otras disposiciones jurídicas, y aquellas funciones que le encomiende el Director General.
+XVIII. Celebrar instrumentos jurídicos y administrativos necesarios para el cumplimiento de sus atribuciones, así como emitir los acuerdos y las autorizaciones que le correspondan;
+
+XIX. Expedir copias certificadas de los documentos que integran los expedientes relativos a los asuntos de su competencia, y
+
+XX. Las que le confieran otras disposiciones jurídicas, y aquellas funciones que le encomiende el Director General.
 
 ###### Artículo 18.
 
@@ -818,3 +832,19 @@ Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, d
 Quinto. En tanto entra en vigor el Manual General de Organización del Instituto Nacional de los Pueblos Indígenas, el Director General podrá emitir las normas y lineamientos para la operación de éste.
 
 Dado en la Ciudad de México, a los cuatro días del mes de marzo de dos mil diecinueve.- Este Estatuto fue expedido por la Junta de Gobierno del Instituto Nacional de los Pueblos Indígenas, mediante Acuerdo 4.1ª ex. 19 adoptado en su Primera Sesión Extraordinaria celebrada el día cuatro de marzo de dos mil diecinueve.- El Director General y Presidente Suplente de la Junta de Gobierno, Adelfo Regino Montes.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS PUBLICADO EL 20 DE MARZO DE 2019”.]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Director General del Instituto Nacional de los Pueblos Indígenas proveerá lo necesario para que el Manual General de Organización de dicho Instituto corresponda a las disposiciones del Estatuto del Instituto Nacional de los pueblos Indígenas.
+
+Tercero. En virtud de la reasignación de competencias, los asuntos que se encuentran en trámite a la fecha de publicación de este Acuerdo serán atendidos y resueltos por las unidades administrativas del Instituto Nacional de los Pueblos Indígenas a las que se les da la competencia en el mismo.
+
+Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el presente Acuerdo.
+
+Cuarto. En tanto entra en vigor el Manual General de Organización del Instituto Nacional de los Pueblos Indígenas, el Director General podrá emitir las normas y lineamientos para la operación de este Acuerdo.
