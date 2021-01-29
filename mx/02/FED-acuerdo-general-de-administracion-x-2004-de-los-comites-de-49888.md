@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-x-2004-de-los-comites-de-4988
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-11-08"
-last_updated: "2004-11-08"
+last_updated: "2021-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49888&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2004-11-08"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION X/2004, DE LOS COMITES DE GOBIERNO Y ADMINISTRACION Y DE PUBLICACIONES Y PROMOCION EDUCATIVA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [RELATIVO AL SERVICIO SOCIAL]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO II/2021, PUBLICADO EN LA G.S.J.F. DE 29 DE ENERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACION X/2004, DEL OCHO DE NOVIEMBRE DE DOS MIL CUATRO, DE LOS COMITES DE GOBIERNO Y ADMINISTRACION Y DE PUBLICACIONES Y PROMOCION EDUCATIVA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE REGULAN LOS GASTOS RELATIVOS AL SERVICIO SOCIAL QUE SE PRESTE EN ESTE ALTO TRIBUNAL, ASI COMO LAS CONDICIONES PARA SU EROGACION
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 29 DE ENERO DE 2021 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XX, Diciembre de 2004, página 1487.
 
@@ -214,3 +216,19 @@ SEGUNDO. Los estudiantes que actualmente prestan el servicio social en este Alto
 TERCERO. Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
 
 Así lo acordaron y firman los señores Ministros Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, Juan Díaz Romero y Guillermo I. Ortiz Mayagoitia, integrantes de los Comités de Gobierno y Administración y de Publicaciones y Promoción Educativa de la Suprema Corte de Justicia de la Nación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.S.J.F. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO II/2021, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTICINCO DE ENERO DE DOS MIL VEINTIUNO, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS DEL PROGRAMA GENERAL DE SERVICIO SOCIAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN".]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se abroga el Acuerdo General de Administración X/2004, del ocho de noviembre de dos mil cuatro, de los Comités de Gobierno y Administración y de Publicaciones y Promoción Educativa de la Suprema Corte de Justicia de la Nación, por el que se regulan los gastos relativos al servicio social que se preste en este Alto Tribunal, así como las condiciones para su erogación.
+
+TERCERO. Las personas que se encuentren prestando servicio social a la entrada en vigor del presente Acuerdo General de Administración, continuarán realizando las actividades correspondientes con base en los programas vigentes a dicha fecha, hasta su conclusión.
+
+CUARTO. Los órganos y áreas que no hayan considerado con oportunidad recursos presupuestarios para ejecutar el Programa General de Servicio Social para el 2021, podrán solicitarlos a la Dirección General de Presupuesto y Contabilidad, quien podrá autorizarlos en caso de que existan ahorros de otros órganos o áreas, así como suficiencia presupuestaria.
+
+QUINTO. Publíquese este Acuerdo General de Administración en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
