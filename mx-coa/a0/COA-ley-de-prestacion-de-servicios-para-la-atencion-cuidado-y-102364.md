@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-10236
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-02"
-last_updated: "2021-01-26"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 2 de septiembre de 2014.
 
@@ -149,9 +149,13 @@ X. Información y apoyo a los padres, tutores o quienes tengan la responsabilida
 
 La política que se establezca en materia de prestación de los servicios de atención, cuidado y desarrollo integral infantil a que se refiere la presente Ley, permitirá la conjunción de esfuerzos de los distintos órdenes de gobierno y de los sectores público, social y privado, con el objeto de coordinar instrumentos, políticas, planes, programas y acciones interinstitucionales.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
+
 ###### Artículo 9.
 
 En el diseño de la Política Estatal a la que se refiere el presente Capítulo se deberán contemplar los objetivos que se establecen en el artículo 19 de la Ley General.
+
+En el diseño, implementación, monitoreo y evaluación de la política estatal, se deberá atender a los principios establecidos en el artículo 20 de la Ley General.
 
 ###### Artículo 10.
 
@@ -169,7 +173,9 @@ V. Titular de la Secretaría del Trabajo;
 
 VI. Titular de la Procuraduría para Niños, Niñas y la Familia;
 
-VII. Titular de la Agencia Estatal de Protección Civil;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
+
+VII. Titular de la Subsecretaría de Protección Civil;
 
 VIII. Un integrante del Consejo de los que representan a las organizaciones de la sociedad civil, nombrado por el titular del Poder Ejecutivo.
 
@@ -309,9 +315,11 @@ VI. Hacer del conocimiento de la autoridad competente toda aquella información 
 
 VII. Las demás que se desprendan de esta ley y otras disposiciones jurídicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2021)</small>
+
 ###### Artículo 21.
 
-Corresponde a la Agencia Estatal de Protección Civil:
+Corresponde a la Subsecretaría de Protección Civil:
 
 I. Emitir los lineamientos necesarios para que la prestación de los servicios cumpla con los estándares de seguridad que exige el principio de interés superior de la niñez;
 
@@ -425,19 +433,23 @@ Tipo 4: Con capacidad instalada para dar servicio a más de 100 sujetos de atenc
 
 ### Capítulo VII. De las Medidas de Seguridad y Protección Civil
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
+
 ###### Artículo 28.
 
-Los Centros de Atención deberán contar con un Programa Interno de Protección Civil, el cual deberá contener, por lo menos, el ámbito de competencia y responsabilidad de los prestadores de servicio en cada una de las modalidades, el estado en el que se encuentra el inmueble, las instalaciones, el equipo y el mobiliario utilizado para la prestación del servicio. El Programa Interno deberá ser aprobado por la Agencia Estatal de Protección Civil o las autoridades de protección civil de los Municipios, según sea el caso, y será sujeto a evaluación de manera periódica.
+Los Centros de Atención deberán contar con un Programa Interno de Protección Civil, el cual deberá contener, por lo menos, el ámbito de competencia y responsabilidad de los prestadores de servicio en cada una de las modalidades, el estado en el que se encuentra el inmueble, las instalaciones, el equipo y el mobiliario utilizado para la prestación del servicio. El Programa Interno deberá ser aprobado por la Subsecretaría de Protección Civil o las autoridades de protección civil de los Municipios, según sea el caso, y será sujeto a evaluación de manera periódica.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
 
-###### Articulo 29.
+###### Artículo 29.
 
-Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, equipos portátiles y fijos contra incendios, de gas, intercomunicación y especiales, de acuerdo con las reglas o lineamientos que emita la Agencia Estatal de Protección Civil o el Comité, observando en todo momento la clasificación de riesgos establecidos en las Normas Oficiales Mexicanas y demás disposiciones jurídicas. Ningún establecimiento podrá estar ubicado a una distancia menor a cincuenta metros de cualquier elemento natural o artificial que por su naturaleza ponga en riesgo la integridad física y emocional de niñas y niños y demás personas que concurran a los Centros de Atención.
+Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, equipos portátiles y fijos contra incendios, de gas, intercomunicación y especiales, de acuerdo con las reglas o lineamientos que emita la Subsecretaría de Protección Civil o el Comité, observando en todo momento la clasificación de riesgos establecidos en las Normas Oficiales Mexicanas y demás disposiciones jurídicas. Ningún establecimiento podrá estar ubicado a una distancia menor a cincuenta metros de cualquier elemento natural o artificial que por su naturaleza ponga en riesgo la integridad física y emocional de niñas y niños y demás personas que concurran a los Centros de Atención.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
 
 ###### Artículo 30.
 
-Para el funcionamiento de los Centros de Atención, se deberán definir las rutas de evacuación, así como la señalización y avisos de protección civil, de acuerdo con las reglas o lineamientos que emita la Agencia Estatal de Protección Civil o el Comité y otras disposiciones jurídicas. Al diseñar estas rutas, se deberá tomar en cuenta, además de la seguridad y rapidez, el sitio de refugio al que se les conducirá a niñas, niños y personal que preste sus servicios, el cual tiene que estar lejos del paso de cables que conduzcan energía eléctrica y de ductos que conduzcan gas o sustancias químicas.
+Para el funcionamiento de los Centros de Atención, se deberán definir las rutas de evacuación, así como la señalización y avisos de protección civil, de acuerdo con las reglas o lineamientos que emita la Subsecretaría de Protección Civil o el Comité y otras disposiciones jurídicas. Al diseñar estas rutas, se deberá tomar en cuenta, además de la seguridad y rapidez, el sitio de refugio al que se les conducirá a niñas, niños y personal que preste sus servicios, el cual tiene que estar lejos del paso de cables que conduzcan energía eléctrica y de ductos que conduzcan gas o sustancias químicas.
 
 ###### Artículo 31.
 
@@ -465,7 +477,9 @@ Para prevenir y proteger de cualquier situación de riesgo a niñas, niños y de
 
 I. Contar con salidas de emergencia, rutas de evacuación, alarmas, pasillos de circulación, equipo contra incendios, mecanismos de alerta, señalizaciones y sistema de iluminación de emergencia;
 
-II. Tener suficientes extintores y detectores de humo, estos deberán establecerse en lugares despejados de obstáculos que impidan o dificulten su uso y ser correctamente señalizados para permitir su rápida localización, la Agencia Estatal de Protección Civil definirá la cantidad y calidad atendiendo a su modalidad y tipo correspondiente;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
+
+II. Tener suficientes extintores y detectores de humo, estos deberán establecerse en lugares despejados de obstáculos que impidan o dificulten su uso y ser correctamente señalizados para permitir su rápida localización, la Subsecretaría de Protección Civil definirá la cantidad y calidad atendiendo a su modalidad y tipo correspondiente;
 
 III. Habilitar espacios en el Centro de Atención específicos y adecuados, alejados del alcance de niñas y niños para el almacenamiento de elementos combustibles o inflamables, los cuales no podrán situarse en sótanos, semisótanos, por debajo de escaleras y en lugares próximos a radiadores de calor;
 
@@ -551,9 +565,11 @@ La información y los documentos a que se refiere el artículo 37, estarán siem
 
 ### Capítulo IX. De la Capacitación y Certificación
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
+
 ###### Artículo 41.
 
-El personal que labore en los Centros de Atención que presten servicios, estará obligado a participar en los programas de formación, actualización, capacitación y certificación de competencias, así como de protección civil que establezcan la Secretaría de Educación y la Agencia Estatal de Protección Civil.
+El personal que labore en los Centros de Atención que presten servicios, estará obligado a participar en los programas de formación, actualización, capacitación y certificación de competencias, así como de protección civil que establezcan la Secretaría de Educación y la Subsecretaría de Protección Civil.
 
 ###### Artículo 42.
 
@@ -609,9 +625,11 @@ III. Evitar la discrecionalidad y la corrupción en la asignación de autorizaci
 
 IV. Garantizar la detección y corrección oportuna de cualquier riesgo para la integridad física o psicológica de niñas y niños.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2021)</small>
+
 ###### Artículo 51.
 
-La madre, el padre, tutor o la persona que tenga la responsabilidad de cuidado y crianza, podrá solicitar la intervención del Comité, la PRONNIF, la Agencia Estatal de Protección Civil, la Secretaría de Salud, la Secretaría de Educación, el DIF, el Ayuntamiento o la autoridad que resulte competente, para reportar cualquier irregularidad o incumplimiento a la normatividad o factor que pueda constituir un riesgo en los Centros de Atención.
+La madre, el padre, tutor o la persona que tenga la responsabilidad de cuidado y crianza, podrá solicitar la intervención del Comité, la PRONNIF, la Subsecretaría de Protección Civil, la Secretaría de Salud, la Secretaría de Educación, el DIF, el Ayuntamiento o la autoridad que resulte competente, para reportar cualquier irregularidad o incumplimiento a la normatividad o factor que pueda constituir un riesgo en los Centros de Atención.
 
 ### Capítulo XII. De la Evaluación
 
@@ -784,3 +802,9 @@ P.O. 26 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 872.- SE REFORMA: LA FRACCIÓN IV DEL ARTÍCULO 4; EL ARTÍCULO 6; EL ARTÍCULO 8; SE REFORMAN LAS FRACCIONES XI, XII Y SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 15 DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE COAHUILA”.]
 
 ÚNICO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 873.- SE REFORMA EL ARTÍCULO 9, LA FRACCIÓN VII DEL ARTÍCULO 10, EL PRIMER PÁRRAFO DEL ARTÍCULO 21, LOS ARTÍCULOS 28, 29, 30, LA FRACCIÓN II DEL ARTÍCULO 36, LOS ARTÍCULOS 41 Y 51 DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
