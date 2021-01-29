@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2020-10-20"
+last_updated: "2021-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
@@ -71,7 +71,9 @@ I. Respeto a los derechos humanos;
 
 II. Derecho a la vida, a la paz, a la supervivencia y al desarrollo: El Estado debe ayudar a dar efectividad a estos derechos brindando asistencia material particularmente en lo que se refiere a la nutrición, la vestimenta, la educación y a la vivienda;
 
-III. Interés superior del niño o de la niña: Consiste en que el desarrollo y el ejercicio pleno de sus derechos deben ser considerados como criterios rectores para la elaboración de normas, políticas públicas y la aplicación de éstas en todos los órdenes relativos de su vida;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
+
+III. Interés superior del niño o de la niña: Consiste en que el desarrollo y el ejercicio pleno de sus derechos deben ser considerados de manera primordial en la toma de decisiones, medidas, actuaciones y procedimientos sobre una cuestión debatida que involucre niñas, niños y adolescentes, así como criterios rectores para la elaboración de normas, políticas públicas y la aplicación de éstas en todos los órdenes relativos de su vida. Cuando se presentan diferentes interpretaciones, se atenderá a lo establecido en la Constitución y en los tratados internacionales de la materia de los que México forma parte, eligiendo la opción que satisfaga de manera más efectiva este principio rector;
 
 IV. No discriminación: Consiste en tomar medidas apropiadas para garantizar la igualdad efectiva de oportunidades en el goce y ejercicio de sus derechos;
 
@@ -205,9 +207,9 @@ Niños, niñas y adolescentes son sujetos titulares de los derechos humanos reco
 
 I. A la vida, a la paz, a la supervivencia y al desarrollo integral;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE ENERO DE 2021)</small>
 
-II. Al disfrute del más alto nivel de salud y en ese sentido a ser sujetos de programas de asistencia social cuando se encuentren o vivan circunstancias de desventaja social, que garanticen la protección integral en tanto puedan valerse por sí mismos y que le auxilien a recuperar su salud y equilibrio personal, en caso de daño físico o mental.
+II. Al disfrute del más alto nivel de salud y en ese sentido a ser sujetos de programas de asistencia social cuando se encuentren o vivan circunstancias de desventaja social, que garanticen la protección integral en tanto puedan valerse por sí mismos y que le auxilien a recuperar su salud y equilibrio personal, en caso de daño físico o mental; así como al acceso a mecanismos de apoyo psicosocial para las niñas, niños y adolescentes.
 
 > <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
 
@@ -264,6 +266,10 @@ XX. A la protección contra la tortura u otros tratos o penas crueles, inhumanas
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
 XXI. De acceso a la justicia, a la seguridad jurídica y al debido proceso.
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
+
+XXII. El derecho al registro de identidad, en los plazos y términos previstos en la Ley para la Familia de Coahuila de Zaragoza, y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
 
@@ -495,9 +501,13 @@ XIV. Promover la formación de Consejos Municipales para la garantía de los der
 
 XV. Fomentar la cultura de la denuncia de violaciones a los derechos de niños, niñas y adolescentes;
 
-XVI. Las demás que se deriven de leyes, reglamentos y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
 
-XVII. Las demás que se deriven de leyes o reglamentos.
+XVI. Fomentar el bienestar de la salud mental de las niñas, niños y adolescentes, a través de la implementación de programas, orientación y capacitación;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
+
+XVII. Las demás que se deriven de leyes, reglamentos y otras disposiciones aplicables.
 
 ###### Artículo 13.
 
@@ -859,7 +869,9 @@ IV. Impulsar la creación de Procuradurías en cada Municipio del Estado, con es
 
 V. Establecer y mantener una coordinación adecuada con las Agencias del Ministerio Público; así como con las autoridades de seguridad pública del Estado y los municipios, para lograr, cuando sea necesario, su intervención oportuna y brindar atención a niños, niñas y adolescentes que resulten víctimas de violencia familiar;
 
-VI. Recibir, atender e investigar todo reporte respecto a niños, niñas y adolescentes en riesgo, amenaza, afectación o situación extraordinaria;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
+
+VI. Recibir, atender e investigar todo reporte respecto a niños, niñas y adolescentes en riesgo, amenaza, afectación o situación extraordinaria; garantizando en coordinación con las autoridades competentes la optimización de reportes al 911 para evitar que se desestimen las llamadas que hagan niñas, niños y adolescentes;
 
 VII. Recibir y atender todo reporte de las autoridades educativas acerca de situaciones que se presuman afectan el desarrollo educativo de niños, niñas y adolescentes que cursan la educación obligatoria;
 
@@ -905,13 +917,21 @@ XXVII. Aplicar medidas de apremio y sanciones administrativas cuando procedan; y
 
 XXVIII. Emitir recomendaciones a los servidores públicos o autoridades responsables de la restricción o vulneración de derechos de niños, niñas y adolescentes, mismas que tendrán como finalidad exhortarlos a respetarlos y, en su caso, restituirles en el goce de sus derechos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2021)</small>
 
-XXIX. Establecer y operar las Casas del Adolescente en la entidad; y
+XXIX. Establecer y operar las Casas del Adolescente en la entidad;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2021)</small>
 
-XXX. Las demás que se deriven de los ordenamientos aplicables.
+XXX. Difundir información que permita identificar y atender casos de violencia y abuso sexual contra niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2021)</small>
+
+XXXI. Aplicar medidas de apremio y sanciones administrativas cuando procedan; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ENERO DE 2021)</small>
+
+XXXII. Las demás que se deriven de los ordenamientos aplicables.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -2078,3 +2098,29 @@ Cuando se haga alusión en un ordenamiento jurídico al Reglamento del Proceso A
 ###### ARTÍCULO SEXTO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 874.- SE ADICIONA LA FRACCIÓN XXII DEL ARTÍCULO 4 DE LA LEY (SIC) SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 875.- SE REFORMAN LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 12 DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 876.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 2 DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 877.- SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN II DEL ARTÍCULO 4°, Y LAS FRACCIONES VI, XXIX Y XXX DEL ARTÍCULO 27; ASIMISMO SE ADICIONAN LAS FRACCIONES XXXI Y XXXII DEL MISMO ARTÍCULO, DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
