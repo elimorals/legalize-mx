@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-139590"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-28"
-last_updated: "2020-03-04"
+last_updated: "2021-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0665/2020 III P.E., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA EL CUATRO DE MARZO DE DOS MIL VEINTE, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2021.
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 28 de diciembre de 2019.
 
@@ -889,7 +887,13 @@ XXI. Llevar los libros que prevengan esta Ley, su Reglamento o determine el Plen
 
 XXII. Hacer las notificaciones que le encomienden el Pleno del Tribunal, su Presidencia o la ley, por conducto de su titular o de la o el actuario respectivo.
 
-XXIII. Las demás que le confieran las leyes, así como los reglamentos y acuerdos generales que expida el Consejo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2021)</small>
+
+XXIII. Integrar el Registro Estatal de Deudores Alimentarios del Poder Judicial del Estado y remitir la información que le sea solicitada por la autoridad correspondiente.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXIII], P.O. 30 DE ENERO DE 2021)</small>
+
+XXIV. Las demás que le confieran las leyes, así como los reglamentos y acuerdos generales que expida el Consejo.
 
 ###### Artículo 75.
 
@@ -945,7 +949,13 @@ VI. Vigilar y mantener el orden, entre las o los funcionarios y las o los emplea
 
 VII. Autorizar a sus secretarios o secretarias para que realicen las diligencias que a ellos les correspondan, cuando el despacho de los asuntos del Tribunal así lo requiera.
 
-VIII. Ejercer todas las demás facultades que les señalen las leyes, así como los reglamentos y acuerdos generales que para tal efecto expida el Consejo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2021)</small>
+
+VIII. Remitir a la Secretaría General, las resoluciones ejecutoriadas en materia de alimentos que hayan sido incumplidas y sean de su conocimiento, de acuerdo con la ley respectiva.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN VIII], P.O. 30 DE ENERO DE 2021)</small>
+
+IX. Ejercer todas las demás facultades que les señalen las leyes, así como los reglamentos y acuerdos generales que para tal efecto expida el Consejo.
 
 ###### Artículo 82.
 
@@ -2379,6 +2389,10 @@ La Dirección estará a cargo de la persona que designe el Consejo, a propuesta 
 
 Los mecanismos alternos de solución de controversias en la materia mercantil, se llevarán a cabo en la Coordinación de Atención Temprana.
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2021)</small>
+
+Artículo 200 BIS. El Instituto de Justicia Alternativa deberá remitir a la Secretaría General del Tribunal Superior de Justicia los acuerdos en materia de alimentos que hayan sido incumplidos y sean de su conocimiento.
+
 ### CAPITULO QUINTO. DEL INSTITUTO DE SERVICIOS PREVIOS AL JUICIO
 
 ###### Artículo 201.
@@ -3433,7 +3447,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL
 
 P.O. 4 DE MARZO DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVI/RFLEY/0513/2019 I P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, LEY ORGÁNICA DEL PODER JUDICIAL, LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS Y LA LEY ELECTORAL, TODAS DEL ESTADO DE CHIHUAHUA”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/0513/2019 I P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, LEY ORGÁNICA DEL PODER JUDICIAL, LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS Y LA LEY ELECTORAL, TODAS DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3447,7 +3461,7 @@ En cumplimiento del Principio de Progresividad que impera en materia de Derechos
 
 P.O. 4 DE MARZO DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/0665/2020 III P.E., POR MEDIO DEL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/0665/2020 III P.E., POR MEDIO DEL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3460,3 +3474,11 @@ En cumplimiento del Principio de Progresividad que impera en materia de Derechos
 ###### ARTÍCULO TERCERO.
 
 Se deroga el Artículo Segundo del Decreto No. LXVI/RFLEY /0513/2019 I P.O., aprobado por el Congreso del Estado en fecha diez de diciembre del año dos mil diecinueve.
+
+P.O. 30 DE ENERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/0948/2020 I P.O. POR EL QUE “SE REFORMAN LOS ARTÍCULOS 74, FRACCIÓN XXIII; Y 81, FRACCIÓN VIII. SE ADICIONAN A LOS ARTÍCULOS 74, LA FRACCIÓN XXIV; 81, LA FRACCIÓN IX; Y EL ARTÍCULO 200 BIS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez que el presente Decreto entre en vigor, en un plazo máximo de ciento ochenta días, el Congreso del Estado emitirá la ley correspondiente para regular la operatividad del Registro Estatal de Deudores Alimentarios del Poder Judicial del Estado.
