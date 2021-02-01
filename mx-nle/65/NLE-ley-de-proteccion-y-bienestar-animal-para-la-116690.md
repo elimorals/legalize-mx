@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-bienestar-animal-para-la-116690"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-28"
-last_updated: "2020-12-30"
+last_updated: "2021-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 28 de septiembre de 2016.
 
@@ -291,7 +291,11 @@ e) Establecimientos fijos o móviles que proporcionen un servicio de limpieza, c
 
 II. Reglamentar la comercialización, procesos de adopción y el traslado de animales de compañía; y
 
-III. Las demás atribuciones que le otorgue esta Ley, su Reglamento u otra norma jurídica aplicable.
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+III. Previa solicitud de persona interesada, emitir una constancia de no existencia de sanción administrativa por ejercer algún tipo de maltrato o crueldad animal.
+
+IV. Las demás atribuciones que le otorgue esta Ley, su Reglamento u otra norma jurídica aplicable.
 
 ###### Artículo 12.
 
@@ -1191,17 +1195,21 @@ IV. Contar con un Médico Veterinario Zootecnista responsable, personal debidame
 
 V. Contar con instalaciones adecuadas y suficientes, ya sea propias o de terceros.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 83.
 
-Los responsables de los Centros de Control Canino y Felino deberán ser Médicos Veterinarios Zootecnistas con cédula profesional vigente.
+Los responsables de los Centros de Control Canino y Felino deberán ser Médicos Veterinarios Zootecnistas con cédula profesional vigente y no haber sido sancionados por ejercer algún tipo de maltrato o crueldad animal, lo cual acreditarán a través de la constancia emitida por la Secretaría en los términos de la fracción III del artículo 11 de esta Ley.
 
 ###### Artículo 84.
 
 El personal encargado de llevar a cabo los diversos procedimientos y actividades en el Centro de Control Canino y Felino deberá capacitarse en las áreas de bienestar animal, técnicas de captura, traslado y sacrificio para proporcionar un trato digno, respetuoso, y un manejo responsable de los perros y gatos.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 85.
 
-El Centro de Control Canino y Felino deberá contar con los expedientes actualizados de todo su personal, los cuales deberán contar con al menos copias simples de su título y cédula profesional, diplomados, especialidades u otros que lo avalen. Dichos expedientes contendrán los resultados de las evaluaciones psicológicas periódicas practicadas a su personal.
+El Centro de Control Canino y Felino deberá contar con los expedientes actualizados de todo su personal, los cuales deberán contar con al menos copias simples de su título y cédula profesional, diplomados, especialidades u otros que lo avalen. Dichos expedientes contendrán los resultados de las evaluaciones psicológicas periódicas practicadas a su personal y la constancia de no existencia de sanción por ejercer algún tipo de maltrato o crueldad animal emitida por la Secretaría en los términos de la fracción III del artículo 11 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -2008,3 +2016,11 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 421. SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 437. SE ADICIONA LA FRACCIÓN ILL (SIC), RECORRIÉNDOSE LA ACTUAL FRACCIÓN III PARA SER LA NUEVA FRACCIÓN LV (SIC) DEL ARTÍCULO 11 Y SE REFORMAN LOS ARTÍCULOS 83 Y 85, TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- En un plazo no mayor a 90- noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Desarrollo Sustentable del Estado de Nuevo León procederá a realizar los ajustes o adecuaciones necesarias para la expedición de la constancia de no existencia de sanción por ejercer algún tipo de maltrato o crueldad animal.
