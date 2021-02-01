@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1154
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-01"
-last_updated: "2020-12-09"
+last_updated: "2021-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 1 de julio de 2016.
 
@@ -1491,7 +1491,9 @@ Además de lo señalado en el artículo 95 de la presente Ley, los sujetos oblig
 
 I. Los criterios judiciales;
 
-II. Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+II. Las versiones públicas de todas las sentencias emitidas;
 
 III. Las versiones estenográficas de las sesiones públicas;
 
@@ -2836,3 +2838,13 @@ P.O. 9 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 381. SE REFORMA LA FRACCIÓN LII Y SE ADICIONA LA FRACCIÓN LIII RECORRIÉNDOSE LA ACTUAL LIII PARA SER LA NUEVA FRACCIÓN LIV DEL PÁRRAFO PRIMERO DEL ARTÍCULO 95 DE (SIC) LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 434. SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 99 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Poder Judicial del Estado deberá dar cumplimiento a la obligación de hacer públicas todas las sentencias definitivas dentro del plazo que determina para tal efecto la Ley General de Transparencia y Acceso a la Información Pública.
+
+TERCERO. Las plataformas donde se publiquen y difundan las sentencias en sus versiones publicas deberán optimizarse para garantizar su manejo y consulta.
