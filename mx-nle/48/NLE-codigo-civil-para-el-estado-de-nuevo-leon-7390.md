@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2020-10-26"
+last_updated: "2021-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -5767,9 +5767,11 @@ V.- Que carece de bienes. Si el que tenga interés legítimo demuestra que quien
 
 La Constitución del Patrimonio de familia, en los casos previstos en el Artículo 734 de este Código, quedará consumado cuando se otorgue el título de propiedad correspondiente, mismo que deberá estar expedido a nombre de los cónyuges o concubinos. En el caso de la Fracción III del mencionado artículo, el título también será signado por el Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2021)</small>
+
 ###### Art. 738.
 
-Constituído el Patrimonio de la Familia, ésta tiene obligación de habitar la casa y de cultivar la parcela. La primera autoridad municipal del lugar en que esté constituído el Patrimonio, puede por justa causa, autorizar para que se dé en arrendamiento o aparcería, hasta por un año.
+Constituido el Patrimonio de la Familia, ésta tiene obligación de habitar la casa y de cultivar la parcela cuando fuere el caso.
 
 ###### Art. 739.
 
@@ -13869,9 +13871,11 @@ La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses
 
 ### CAPITULO V. DEL ARRENDAMIENTO DE FINCAS RUSTICAS
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2021)</small>
+
 ###### Art. 2347.
 
-El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería, de acuerdo con lo dispuesto en la Ley de Tierras Ociosas.
+El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad.
 
 > <small>(DEROGADA LA SUSPENSIÓN DEL ARTÍCULO SÉPTIMO DEL DECRETO NÚMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 40, P.O. 5 DE ENERO DE 1983)</small>
 
@@ -17764,6 +17768,16 @@ P.O. 26 DE OCTUBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
+
+P.O. 1 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 432. SE EXPIDE LA LEY DE APARCERÍA AGRÍCOLA DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Aparcería del Estado de Nuevo León, publicada en el Periódico Oficial del Estado el día 4 de diciembre de 1940.
+
+TERCERO.- Los contratos de Aparcería existentes a la entrada en vigor del presente Decreto deberán regirse por las disposiciones vigentes al momento de su suscripción.
 
 ###### ARTICULO TERCERO.
 
