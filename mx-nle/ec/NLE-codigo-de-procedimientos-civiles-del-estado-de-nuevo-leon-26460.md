@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2020-10-26"
+last_updated: "2021-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -7497,6 +7497,10 @@ VII.- Las controversias que se susciten con motivo de las obligaciones que nacen
 
 VIII.- La homologación de los convenios obtenidos fuera de juicio como resultado de la aplicación de los mecanismos alternativos para la solución de controversias que versen sobre custodia, convivencia o alimentos.
 
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+IX. Las controversias que se susciten en materia de Aparcería que se establecen en la Ley de Aparcería Agrícola del Estado de Nuevo León y en el Código Civil para el Estado de Nuevo León.
+
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 990.
@@ -9954,3 +9958,13 @@ P.O. 26 DE OCTUBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
+
+P.O. 1 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 432. SE EXPIDE LA LEY DE APARCERÍA AGRÍCOLA DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Aparcería del Estado de Nuevo León, publicada en el Periódico Oficial del Estado el día 4 de diciembre de 1940.
+
+TERCERO.- Los contratos de Aparcería existentes a la entrada en vigor del presente Decreto deberán regirse por las disposiciones vigentes al momento de su suscripción.
