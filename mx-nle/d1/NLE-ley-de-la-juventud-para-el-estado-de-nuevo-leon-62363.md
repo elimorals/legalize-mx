@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2020-12-30"
+last_updated: "2021-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
@@ -91,7 +91,9 @@ IX. Desarrollo Integral: El proceso sistemático económico, social, cultural y 
 
 Para garantizar el cumplimiento de los derechos reconocidos a los jóvenes en esta Ley (sic) observarán los siguientes principios:
 
-I. Corresponsabilidad: deberá involucrar a los miembros de la familia, a los jóvenes, al gobierno y a los demás sectores de la sociedad en la resolución de los problemas que aquejan a la juventud;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+I. Corresponsabilidad: deberá involucrar a los miembros de la familia, tutores o quienes ejerzan la patria potestad, según el caso, a los jóvenes, al gobierno y a los demás sectores de la sociedad en la resolución de los problemas que aquejan a la juventud;
 
 II. Equidad: en el acceso y disfrute de los derechos para el desarrollo integral de los jóvenes;
 
@@ -153,7 +155,9 @@ II. El derecho a la no discriminación;
 
 III. El derecho a vivir en condiciones de bienestar y a un desarrollo psicofísico;
 
-IV. El derecho a ser protegido en su integridad y libertad, contra el maltrato físico, psicológico o abuso sexual;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+IV. El derecho a ser protegido en su integridad y libertad, contra el maltrato físico, psicológico, abuso o violencia sexual;
 
 V. El derecho a la salud y a la asistencia social;
 
@@ -167,9 +171,13 @@ VIII. El derecho al descanso y tiempo de esparcimiento;
 
 IX. El derecho a la libertad de pensamiento, opinión, creencias y a una cultura propia;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
 
-X. El derecho a participar y ser escuchado;
+X. El derecho a la participación política y social en la toma de decisiones;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+X Bis. Derecho a ser escuchado y tomado en cuenta en la toma de decisiones;
 
 XI. El derecho al bienestar social;
 
@@ -235,19 +243,17 @@ V. Garantizar la no discriminación en el empleo a las jóvenes embarazadas o en
 
 VI. Promover convenios de colaboración con instituciones públicas y privadas para fomentar las pasantías remuneradas, vinculadas a la formación profesional de los jóvenes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 8.
 
-El Ejecutivo promoverá a través de las instancias correspondientes en coordinación con el Instituto, programas que contribuyan a la capacitación laboral de los jóvenes, y el apoyo económico y logístico para el desarrollo de proyectos productivos juveniles.
+El Ejecutivo promoverá a través de las instancias correspondientes en coordinación con el Instituto, programas que contribuyan a la capacitación laboral de los jóvenes, brindará el apoyo económico, logístico y formativo en los aspectos técnicos y profesionales para la formación de empresas productivas, así como liderazgos y organizaciones sociales de la juventud.
 
-> <small>(REFORMADO, 14 DE DICIEMBRE DE 2015)</small>
+Así como la creación de una bolsa de trabajo en la que se incluyan a los jóvenes no importando su escolaridad, e impulsará la generación de micro, pequeñas y medianas empresas, así como la creación de incubadoras y aceleradoras de negocios con apoyo de organismos públicos y privados.
 
-Así como la creación de una bolsa de trabajo en la que se incluyan a los jóvenes no importando su escolaridad, e impulsará la generación de micro, pequeña empresa y la creación de incubadoras y aceleradoras de negocios con apoyo de organismos públicos y privados.
+Promoverá en las instituciones educativas talleres de capacitación destinados al establecimiento de empresas sociales y productivas.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2010)</small>
-
-Asimismo, establecer estímulos e incentivos para la contratación de jóvenes de primer empleo, conforme a esta Ley y demás disposiciones aplicables.
+Asimismo, establecerá estímulos e incentivos para la contratación de jóvenes de primer empleo, conforme a esta Ley y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -267,29 +273,37 @@ El Estado impulsará y apoyará la creación de infraestructura y niveles educat
 
 En los programas educativos se debe dar especial énfasis a la información y prevención con relación a las diferentes temáticas y problemáticas de la juventud del Estado, en particular en temas como el cuidado del medio ambiente, la participación ciudadana, los valores, las adicciones, la sexualidad responsable, VIH/SIDA, problemas psico-sociales, el sedentarismo, y los trastornos alimenticios entre otros.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 12.
 
-La educación tenderá a desarrollar armónicamente todas las facultades del ser humano, el fomento al aprendizaje e impulso a la investigación de conocimientos científicos y tecnológicos, motivando a la juventud a generar proyectos para un mejor desarrollo del Estado.
+La educación tenderá a desarrollar armónicamente todas las facultades del ser humano, el fomento al aprendizaje e impulso a la investigación de conocimientos científicos y tecnológicos, motivando a la juventud para lageneración (sic) de proyectos que aporten un mejor desarrollo del Estado.
 
 ###### Artículo 13.
 
 Las políticas y programas educativos dirigidos a jóvenes deberán atender los siguientes aspectos:
 
-I. La capacitación para lograr un trabajo remunerado;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
 
-II. Promover una educación que favorezca el talento y creatividad de los jóvenes;
+I. La capacitación técnica y profesional para lograr un trabajo remunerado;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+II. Promover una educación que desarrolle y favorezca el talento y creatividad de los jóvenes;
 
 III. Fomentar los valores nacionales y cívicos;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
 
-IV. Promover y asignar un presupuesto para la creación de centros que fomenten la capacitación en diversas áreas de la ciencia, las artes, oficios y la cultura;
+IV. Promover y asignar un presupuesto para la creación de centros que fomenten la formación profesional de los jóvenes, así como la capacitación en diversas áreas de la ciencia, las artes, oficios y la cultura;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
 V. Promover y crear programas para instrumentar una educación basada en los valores que fomenten el respeto hacia las personas, así como construir una cultura de paz y no violencia;
 
-VI. Fomentar el conocimiento y respeto a la diversidad étnica y cultural;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+VI. Fomentar el conocimiento y respeto de la diversidad étnica y al patrimonio cultural;
 
 VII. Promover en las instituciones educativas pláticas informativas respecto a temas de interés de los jóvenes;
 
@@ -309,19 +323,41 @@ XII. Promover las prácticas profesionales en los sectores públicos y privados 
 
 XIII. Promover en los medios de comunicación mensajes educativos y de reconocimiento de los derechos y obligaciones de los jóvenes;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
 
-XIV. Facilitar la inserción de los jóvenes en los proyectos de desarrollo cultural y social; y
+XIV. Facilitar la inserción de los jóvenes en los proyectos de desarrollo cultural y social;
 
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE FEBRERO DE 2021)</small>
 
-XV. Premiar al alumno que haya obtenido el mejor promedio de la generación del nivel superior de cada una de las Instituciones Públicas del sistema educativo estatal.
+XV. Premiar al alumno que haya obtenido el mejor promedio de la generación del nivel superior de cada una de las Instituciones Públicas del sistema educativo estatal;
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
 
 Al titular del mejor promedio de cada una de las instituciones educativas se le otorgará una beca para cursar el nivel de posgrado en universidad pública del Estado.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+
 El titular del Ejecutivo Estatal garantizara su cumplimiento dentro de los primeros quince días del siguiente año escolar.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+
 En caso de empate se determinará al ganador mediante procedimiento público de insaculación que realice el Instituto.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+XVI. Promover la capacitación técnica y profesional para la formación de empresas productivas, así como liderazgos y organizaciones sociales;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+XVII. Fomentar el emprendimiento productivo y social mediante la implementación de foros donde los jóvenes puedan elaborar y poner a prueba sus proyectos empresariales o sociales;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+XVIII. Promover en las instituciones educativas talleres de capacitación destinados al establecimiento de empresas sociales y productivas; y
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+XIX. Promover la formación de liderazgos sociales que brinden oportunidades de capacitación, pasantías y programas voluntarios.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -335,7 +371,9 @@ Las políticas y programas de fomento a la salud, tendrán por objeto:
 
 I. Garantizar la atención médica para todos los jóvenes a través de los organismos correspondientes, creando programas especiales para aquellos que no sean derechohabientes, y se encuentren en condiciones de vulnerabilidad, con problemas de alcoholismo, fármacodependencia, problemas psicológicos e infecciones de transmisión sexual;
 
-II. Promover campañas de prevención de adicciones, de orientación de salud sexual y reproductiva y detección oportuna de enfermedades;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+II. Promover campañas de prevención de adicciones, de orientación de salud sexual y reproductiva, detección oportuna de enfermedades y la eliminación del abuso o violencia sexual;
 
 III. Fomentar prácticas de autocuidado enfocadas a la prevención de enfermedades;
 
@@ -347,11 +385,11 @@ VI. Promover en general la atención integral de la salud; y
 
 VII. Promover que los responsables de los Centros de Salud, hospitales, Centros Quirúrgicos públicos o privados, brinden asistencia inmediata a los jóvenes lesionados o enfermos en caso de urgencia.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 16.
 
-El Ejecutivo promoverá a través del Instituto y las instancias correspondientes políticas y establecerá mecanismos que permitan el acceso expedito de los jóvenes a los servicios de información, orientación y atención relacionados con el ejercicio de sus derechos sexuales reproductivos, y desarrollará acciones que divulguen información referente a temáticas de salud prioritarias para los jóvenes, como adicciones, enfermedades de transmisión sexual, nutrición, salud pública, entre otras.
+El Ejecutivo promoverá y establecerá a través del Instituto y las instancias correspondientes, políticas y mecanismos que garanticen el acceso expedito de los jóvenes a los servicios de información, orientación y atención relacionados con el ejercicio de sus derechos sexuales reproductivos, y desarrollará acciones que divulguen información referente a temáticas de salud prioritarias para los jóvenes, como adicciones, enfermedades de transmisión sexual, nutrición, salud pública, entre otras; con la finalidad de formar una juventud más responsable.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -427,11 +465,11 @@ El Ejecutivo promoverá a través de las instancias correspondientes en coordina
 
 Los jóvenes tienen derecho a vivir esta etapa de su vida con calidad, creatividad, vitalidad e impregnada de valores que contribuyan a su pleno desarrollo y expresión de su potencialidad y capacidad humana.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 29.
 
-Los jóvenes en situaciones de desventaja social, como pobreza, indigencia, situación de calle, analfabetismo, discapacidad, privación de la libertad, exclusión social y étnica, entre otras, tiene derecho a reinsertarse e integrarse plenamente a la sociedad y a ser sujetos de derechos y oportunidades que les permitan acceder a servicios y beneficios sociales que mejoren su calidad de vida.
+Los jóvenes en situaciones de desventaja social, como pobreza, indigencia, situación de calle, analfabetismo, discapacidad, privación de la libertad, exclusión social y étnica, entre otras, tienen derecho a reinsertarse e integrarse plenamente a la sociedad y a ser sujetos de derechos y oportunidades; ser beneficiarios de los programas que el Estado a través del Instituto de la Juventud y las instancias correspondientes desarrollen y fomenten, los cuales les permitan acceder a servicios y beneficios sociales que mejoren su calidad de vida.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -489,9 +527,11 @@ VII. Recibir apoyo y orientación para la realización de trámites administrati
 
 VIII. Los demás que contribuyan a su desarrollo armónico e integral.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 32.
 
-Los jóvenes víctimas de pornografía, y prostitución, deberán ser canalizados a las instancias especializadas para su atención medica, jurídica y su rehabilitación física y psicológica.
+Los jóvenes víctimas de pornografía, prostitución, abuso o violencia sexual deberán ser canalizados a las instancias especializadas para su atención médica, jurídica y su rehabilitación física y psicológica.
 
 ###### Artículo 33.
 
@@ -503,9 +543,11 @@ El Estado a través de la Secretaría de Salud estará obligado a brindar apoyo,
 
 En ningún caso los jóvenes rehabilitados, podrán ser privados del acceso a las instituciones educativas en donde realizan sus estudios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 34.
 
-Las jóvenes en estado de gravidez tendrán derecho a asistir a la escuela y no será impedimento para continuar o reanudar sus estudios. El Instituto, implementará programas de apoyo y sensibilización que permitan a las jóvenes embarazadas alcanzar la aceptación consciente de su maternidad y relacionarse adecuadamente con su hijo.
+Las jóvenes en estado de embarazo tendrán derecho a asistir a la escuela y no será impedimento para continuar o reanudar sus estudios. El Instituto, implementará programas de apoyo y sensibilización que permitan a las jóvenes embarazadas alcanzar la aceptación consciente de su maternidad y relacionarse adecuadamente con su hijo.
 
 Asimismo, se les otorgará la información necesaria para evitar subsecuentes embarazos no deseados, mediante las medidas preventivas que le resulten más convenientes facilitándoles el acceso a ellas.
 
@@ -706,3 +748,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Las Dependencias del Poder Ejecutivo sujetas al presente Decreto contarán con un plazo no mayor a 90 días naturales contados a partir del día de la vigencia del presente Decreto para la modificación de sus respectivos Reglamentos.
 
 TERCERO.- Los Municipios en un plazo no mayor a 90 días naturales contados a partir del día de la vigencia del presente Decreto, adecuarán sus reglamentos respectivos para el cumplimiento de las disposiciones correspondientes al presente Decreto.
+
+P.O. 1 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 394. SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3; LAS FRACCIONES IV Y X DEL ARTÍCULO 6; EL ARTÍCULO 8; EL ARTÍCULO 12; LAS FRACCIONES I, II, IV, VI, XIV Y XV DEL ARTÍCULO 13; LA FRACCIÓN II DEL ARTÍCULO 15; EL ARTÍCULO 16; EL PÁRRAFO PRIMERO DEL ARTÍCULO 29, EL ARTÍCULO 32 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 34; SE ADICIONA LA FRACCIÓN X BIS AL ARTÍCULO 6; LAS FRACCIONES XVI, XVII, XVIII Y XIX AL ARTÍCULO 13; DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
