@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-desarrollo-132621"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-12-28"
-last_updated: "2019-12-31"
+last_updated: "2021-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, DEL ESTADO DE AGUSCALIENTES
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2021.
 
 Reglamento publicado en el Núm. 33 del Periódico Oficial del Estado de Aguascalientes, el viernes 28 de diciembre de 2018.
 
@@ -77,15 +77,17 @@ Para el despacho, atención, resolución y todo lo relacionado con los asuntos q
 
 I. La Subsecretaría para la Micro, Pequeña y Mediana Empresa:
 
-a) Dirección General de Comercio; y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+a) Dirección General de Comercio;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 b) Dirección General de Fortalecimiento de MIPyMES; y
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
 
-c) Dirección General de Competitividad e Innovación;
+c) Dirección General de Competitividad e Innovación y de la Oficina del Servicio Nacional de Empleo;
 
 II. La Subsecretaría de Inversión y Desarrollo:
 
@@ -171,13 +173,21 @@ XVI. Tramitar y resolver los recursos que se le presenten, cuando legalmente pro
 
 XVII. Desempeñar las funciones de coordinación y supervisión en materia de mejora regulatoria, gestión empresarial y competitividad en el Estado;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
 
-XVIII. Supervisar y coordinar las políticas y acciones en el campo de la competitividad e innovación empresarial, que incentive el incremento en la inversión, la productividad y el empleo en el Estado de Aguascalientes; y
+XVIII. Supervisar y coordinar las políticas y acciones en el campo de la competitividad e innovación empresarial, que incentive el incremento en la inversión, la productividad y el empleo en el Estado de Aguascalientes;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2021)</small>
 
-XIX. Ejercer las demás atribuciones que le otorgue el Gobernador del Estado, el Secretario General de Gobierno y las que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como también las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
+XIX. Fomentar y apoyar la organización para el trabajo y autoempleo;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+XX. Organizar la Oficina del Servicio Nacional de Empleo, a efecto de promover los servicios de vinculación, promoción del autoempleo, asistencia técnica y capacitación orientados al incremento de la calidad, la productividad y la competitividad de las empresas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE FEBRERO DE 2021)</small>
+
+XXI. Ejercer las demás atribuciones que le otorgue el Gobernador del Estado, el Secretario General de Gobierno y las que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como también las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
 
 ###### ARTÍCULO 8º.
 
@@ -357,9 +367,25 @@ XVI. Contar con un sistema de información estadística, que contenga variables 
 
 XVII. Generar información actualizada, oportuna y confiable sobre las actividades económicas, coordinándose con la Coordinación General de Planeación y Proyectos para su difusión;
 
-XVIII. Apoyar, en coordinación con la Secretaría de Desarrollo Rural y Agroempresarial, las gestiones de los productores y trabajadores organizados para la obtención de servicios, insumos, créditos, financiamiento, maquinaria y demás elementos necesarios para el desarrollo de las actividades agroindustriales; y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
 
-XIX. Las demás que le sean asignadas por el Secretario y las que les correspondan a las áreas a su cargo.
+XVIII. Apoyar, en coordinación con la Secretaría de Desarrollo Rural y Agroempresarial, las gestiones de los productores y trabajadores organizados para la obtención de servicios, insumos, créditos, financiamiento, maquinaria y demás elementos necesarios para el desarrollo de las actividades agroindustriales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2021)</small>
+
+XIX. Fomentar y apoyar la organización para el trabajo y el autoempleo;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+XX. Organizar y coordinar la Oficina del Servicio Nacional de Empleo, a efecto de promover los servicios de vinculación, promoción del autoempleo, asistencia técnica y capacitación orientados al incremento de la calidad, la productividad y la competitividad de las empresas y en el sector público;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+XXI. Gestionar recursos ante el Servicio Nacional de Empleo y Gobierno del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE FEBRERO DE 2021)</small>
+
+XXII. Las demás que le sean asignadas por el Secretario y las que les correspondan a las áreas a su cargo.
 
 #### Sección Primera. Dirección General de Fortalecimiento de MIPyMES
 
@@ -413,39 +439,77 @@ XII. Coordinar un sistema de información de precios de los productos de la cana
 
 XIII. Fomentar la comercialización de artesanías en el Estado.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2021)</small>
 
-#### Sección Tercera. Dirección General de Competitividad e Innovación
+#### Sección Tercera. Dirección General de Competitividad e Innovación y de la Oficina del Servicio Nacional de Empleo
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2021)</small>
 
-ARTÍCULO 15 BIS.- A la Dirección General de Competitividad e Innovación le corresponde, a través de su Titular y/o por conducto de los Jefes de Departamento, el ejercicio de las facultades que a continuación se señalan:
+ARTÍCULO 15 BIS.- A la Dirección General de Competitividad e Innovación y de la Oficina del Servicio Nacional de Empleo le corresponde, a través de su Titular y/o por conducto de los Coordinadores o Jefes de Departamento, el ejercicio de las facultades que a continuación se señalan:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 I. Promover prácticas de calidad, competitividad e innovación para las empresas mediante la capacitación, obtención de certificaciones y formación empresarial;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 II. Promover y operar como intermediario, promotor, ante instituciones y organismos de carácter público y privado, para la gestión de apoyos a las empresas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 III. Realizar estrategias para estimular el aprendizaje y el desarrollo de habilidades y competencias en el campo de la cultura de la innovación;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 IV. Apoyar en la elaboración y ejecución de proyectos de competitividad e innovación a las empresas e instituciones públicas y privadas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 V. Propiciar e informar a los empresarios de los mecanismos de integración a las redes de innovación y cadenas productivas a nivel local, nacional e internacional;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 VI. Orientar a las empresas a la generación de valor y al aumento en la eficiencia de sus procesos, productos y servicios;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 VII. Promover la vinculación de las empresas con instituciones académicas y centros de investigación y desarrollo tecnológico;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 VIII. Fomentar el uso de las tecnologías de la información como medio para fortalecer las condiciones competitivas de las empresas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 IX. Promover e impulsar la realización de acciones que favorezcan la competitividad e innovación de las empresas e instituciones públicas y privadas;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 X. Vincular esfuerzos e impulsar la comunicación entre los sectores público, privado y social en los campos de la competitividad y mejora tecnológica de las empresas en el Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 XI. Concertar planes y programas de trabajo con instituciones de educación superior públicas y privadas para el fomento y desarrollo de las tecnologías de la información;
 
-XII. Dar seguimiento a los distintos indicadores de competitividad y promover acciones para avanzar en esta materia en el Estado; y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
 
-XIII. Las demás que le sean asignadas por el Secretario, el Subsecretario de la Micro, Pequeña y Mediana Empresa y por otras disposiciones normativas aplicables al área a su cargo.
+XII. Dar seguimiento a los distintos indicadores de competitividad y promover acciones para avanzar en esta materia en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2021)</small>
+
+XIII. Fomentar y apoyar la organización para el trabajo y el autoempleo;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+XIV. Coordinar y supervisar los trabajos operativos de la Oficina del Servicio Nacional de Empleo en Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+XV. Coordinar la generación de estrategias o planes de impacto regional, a través de la Oficina del Servicio Nacional de Empleo en Aguascalientes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE FEBRERO DE 2021)</small>
+
+XVI. Las demás que le sean asignadas por el Secretario, el Subsecretario de la Micro, Pequeña y Mediana Empresa y por otras disposiciones normativas aplicables al área a su cargo.
 
 #### Sección Primera. Dirección General de Atracción de Inversiones
 
@@ -816,3 +880,15 @@ El presente Reglamento entrará en vigor el día 1° de enero de 2020.
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y administrativas que se opongan al presente Reglamento.
+
+P.O. 1 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas y adiciones al Reglamento Interior de la Secretaría de Desarrollo Económico, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor de las presentes reformas y adiciones al Reglamento Interior de la Secretaría de Desarrollo Económico, se derogan las disposiciones de menor jerarquía que se opongan a las mismas.
