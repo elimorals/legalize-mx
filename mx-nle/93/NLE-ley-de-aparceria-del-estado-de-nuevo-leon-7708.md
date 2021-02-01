@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-aparceria-del-estado-de-nuevo-leon-7708"
 country: "mx"
 rank: "ley"
 publication_date: "1940-12-04"
-last_updated: "1940-12-04"
+last_updated: "2021-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE APARCERIA DEL ESTADO DE NUEVO LEON
 
-LEY DE APARCERIA DEL ESTADO DE NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LEY DE APARCERÍA AGRÍCOLA DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 1 DE FEBRERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 4 de diciembre de 1940.
 
@@ -322,3 +324,15 @@ Dado en el Despacho del Poder Ejecutivo, en la Ciudad de Monterrey, Nuevo León,
 Gral. de Bgda. BONIFACIO SALINAS LEAL
 
 El Secretario Gral. de Gobierno.- LIC. ARTURO B. DE LA GARZA Y GARZA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 432 SE EXPIDE LA LEY DE APARCERÍA AGRÍCOLA DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Aparcería del Estado de Nuevo León, publicada en el Periódico Oficial del Estado el día 4 de diciembre de 1940.
+
+TERCERO.- Los contratos de Aparcería existentes a la entrada en vigor del presente Decreto deberán regirse por las disposiciones vigentes al momento de su suscripción.
