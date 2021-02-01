@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-desarrollo-132621"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-12-28"
-last_updated: "2019-12-31"
+last_updated: "2021-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,115 +21,33 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO DEL ESTADO DE AGUASCALIENTES
 
-ACUERDO GENERAL CONJUNTO NUMERO 2/1999 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LINEAMIENTOS PARA LA TRANSFERENCIA DE RECURSOS ENTRE AMBOS ORGANOS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ABRIL DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2021.
 
-Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo X, Noviembre de 1999, página1043.
+Reglamento publicado en el Núm. 33 del Periódico Oficial del Estado de Aguascalientes, el viernes 28 de diciembre de 2018.
 
-ACUERDO GENERAL CONJUNTO NÚMERO 2/1999 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LINEAMIENTOS PARA LA TRANSFERENCIA DE RECURSOS ENTRE AMBOS ÓRGANOS.
+SECRETARIA DE DESARROLLO ECONÓMICO
 
-MARCO JURÍDICO:
+C.P. MARTIN OROZCO SANDOVAL, Gobernador Constitucional del Estado de Aguascalientes, en ejercicio de las facultades que me conceden los artículos 36, 46 fracción I y 49 de la Constitución Política del Estado de Aguascalientes; 2º, 3º, 4º párrafo primero, 10 fracción IV, II, 14, 15 párrafo primero, 16, 18 fracción VIII, 27 fracción VIII, 28, 29, 32 fracción V y 39 de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el pasado 27 de Octubre de 2017; así como los artículos 3° y 5º de la Ley del Procedimiento Administrativo del Estado de Aguascalientes, tengo a bien expedir el "REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONÓMICO", al tenor de la siguiente:
 
-I. El primer párrafo del artículo 49 de la Constitución Política de los Estados Unidos Mexicanos, establece que el Supremo Poder de la Federación se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial.
+E X P O S I C I Ó N D E M O T I V O S
 
-II. El artículo 17 constitucional prevé que toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial.
+[…]
 
-III. El texto del artículo 94 de la Carta Magna, dispone que se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia de la Nación, en un Tribunal Electoral, en Tribunales Colegiados y Unitarios de Circuito y en Juzgados de Distrito. Asimismo, señala que la administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación, estará a cargo del Consejo de la Judicatura Federal.
+Por lo anteriormente fundado y motivado, me permito expedir el siguiente:
 
-IV. El octavo párrafo del artículo 100 de la Constitución Federal, faculta a la Suprema Corte de Justicia de la Nación para solicitar al Consejo de la Judicatura Federal la expedición de aquellos acuerdos que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional federal; y faculta al Consejo de la Judicatura Federal para expedir acuerdos generales para el adecuado ejercicio de sus funciones.
-
-V. La Ley Orgánica del Poder Judicial de la Federación establece, en el artículo 11, fracción XV, que el Pleno de la Suprema Corte de Justicia, puede solicitar la intervención del Consejo de la Judicatura Federal, siempre que sea necesaria para la adecuada coordinación y funcionamiento entre los órganos del Poder Judicial de la Federación.
-
-VI. El artículo 11, fracción XXI, de la Ley Orgánica del Poder Judicial de la Federación faculta al Pleno de la Suprema Corte de Justicia de la Nación para emitir acuerdos generales en las materias de su competencia, y en el 81, fracción II, otorga al Consejo de la Judicatura Federal la atribución de dictar todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus funciones.
-
-VII. De acuerdo con lo dispuesto en el décimo párrafo del artículo 100 de la Constitución Federal, compete a la Suprema Corte de Justicia de la Nación elaborar su propio presupuesto y al Consejo de la Judicatura Federal hacerlo para el resto del Poder Judicial de la Federación, con excepción del Tribunal Electoral quien, de acuerdo con el artículo 99, párrafo séptimo, del mismo ordenamiento, propone su propio presupuesto al presidente de la Suprema Corte de Justicia de la Nación.
-
-VIII. El artículo décimo segundo transitorio de la reforma constitucional publicada en el Diario Oficial de la Federación el treinta y uno de diciembre de mil novecientos noventa y cuatro, dispone que los derechos laborales de los servidores públicos del Poder Judicial de la Federación, serán respetados íntegramente.
-
-CONSIDERANDO:
-
-PRIMERO. Que la Constitución General de la República divide, para su ejercicio, el Supremo Poder de la Federación en Ejecutivo, Legislativo y Judicial; y que el Poder Judicial de la Federación se ejerce por la Suprema Corte de Justicia de la Nación, un Tribunal Electoral, Tribunales Colegiados y Unitarios de Circuito y Juzgados de Distrito. Asimismo, ordena que la administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia, estará a cargo del Consejo de la Judicatura Federal. Aun cuando el Poder Judicial de la Federación es ejercido por varios órganos tiene como finalidad esencial el cumplimiento de las garantías que establece el artículo 17 de la Constitución General de la República, al ser este poder el instrumento que la misma organiza, para que se administre justicia en el ámbito federal;
-
-SEGUNDO. Que las reformas constitucionales en materia de administración de justicia, han tenido como finalidad que cada uno de los órganos que integran el Poder Judicial de la Federación tengan una mejor y mayor posibilidad de cumplir sus funciones, tanto orgánicas como competenciales;
-
-TERCERO. Que el artículo 100, octavo párrafo, de la Carta Magna, faculta a la Suprema Corte de Justicia de la Nación para solicitar al consejo la expedición de los acuerdos que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional federal y que la Ley Orgánica del Poder Judicial de la Federación, en su artículo 11, fracción XV, faculta al Pleno de la Suprema Corte de Justicia para solicitar la intervención del Consejo de la Judicatura Federal, siempre que sea necesaria para la adecuada coordinación y funcionamiento entre los órganos del Poder Judicial de la Federación; el numeral constitucional citado, también posibilita al Consejo de la Judicatura Federal para expedir acuerdos generales destinados al adecuado ejercicio de sus funciones y el artículo 11, fracción XXI, de la Ley Orgánica, dispone que el Pleno de la Corte puede emitir acuerdos generales en materia de su competencia;
-
-CUARTO. Que el Pleno de la Suprema Corte de Justicia de la Nación y el Pleno del Consejo de la Judicatura Federal tienen el imperativo constitucional de actuar de manera coordinada para fortalecer la unidad del Poder Judicial de la Federación y lograr con ello que el pueblo de México reciba los beneficios de una administración de justicia federal pronta y expedita;
-
-QUINTO. Que compete a la Suprema Corte de Justicia de la Nación, al Consejo de la Judicatura Federal y al Tribunal Electoral, formular sus proyectos de presupuesto que, aprobados, en forma conjunta integran el presupuesto del Poder Judicial de la Federación, correspondiendo a cada uno de ellos ejercer su presupuesto. Aun cuando el presupuesto del Poder Judicial, es jurídicamente unitario para efectos de la Ley de Presupuesto, Contabilidad y Gasto Público, pues en su artículo 2o. sólo se refiere a este poder como una unidad, sin hacer referencia a sus distintos órganos, administrativamente el ejercicio de ese presupuesto está dividido entre los mismos.
-
-Sin embargo, la ley citada no regula expresamente las transferencias de recursos entre los órganos del Poder Judicial de la Federación. El artículo 38 de la ley referida establece que para la ejecución del gasto público federal las entidades deberán sujetarse a las previsiones de dicha ley y, con exclusión del Poder Legislativo y del Poder Judicial, observar las disposiciones que al efecto expida la Secretaría de Programación y Presupuesto (facultades que actualmente ejerce la Secretaría de Hacienda y Crédito Público). Esa excepción a la observancia de las disposiciones que emita la secretaría, tiene como consecuencia que, aun cuando el artículo 24 del Reglamento de la Ley de Presupuesto sí regula las transferencias, ello resulta inaplicable para el Poder Judicial de la Federación, pues esas transferencias se sujetan a criterios que fija el Ejecutivo Federal.
-
-Asimismo, en el Decreto del Presupuesto de Egresos de la Federación para el año de mil novecientos noventa y nueve, se regulan los subsidios y transferencias a cargo de las dependencias y entidades, dentro de las cuales no se encuentra el Poder Judicial de la Federación, en las fracciones I y II del artículo 2o. del referido decreto. En esta tesitura, los órganos del Poder Judicial de la Federación, pueden acordar entre sí la transferencia de sus recursos para el cumplimiento de sus obligaciones constitucionales. Lo anterior, bajo el espíritu de lo dispuesto por el legislador en el artículo 35 del referido decreto de presupuesto.
-
-Aunado a lo que precede, cabe destacar que en los distintos decretos de presupuesto de egresos de los años de 1995 al actual, no se hizo una separación en las erogaciones autorizadas que distinguiera las previstas para la Suprema Corte de Justicia de la Nación y para el Consejo de la Judicatura Federal, y sólo se han escindido las autorizadas para el Tribunal Electoral.
-
-Por esta razón, con el propósito de dar cabal cumplimiento a la función esencial de administración de justicia, que la Constitución Federal atribuye a este poder, es necesario que los órganos que lo integran determinen las bases para llevar a cabo las transferencias de recursos cuando así sea necesario, con el fin de optimizar la función del Poder Judicial Federal, atento lo cual, es indispensable la creación de las normas que regulen los traspasos de recursos presupuestarios;
-
-SEXTO. Que es inaplazable la creación de órganos jurisdiccionales, en virtud del rezago que hoy enfrentan los tribunales, que entre otras causas, tiene su origen en el incremento de las demandas de justicia a los tribunales en el ámbito federal; en el reducido incremento del número de órganos jurisdiccionales; y además, de la confianza que los tribunales federales generan en la sociedad, tanto por el juicio de amparo, como una institución protectora de las garantías individuales, como por los demás instrumentos jurídicos que garantizan el orden constitucional;
-
-SÉPTIMO. Que tanto la Suprema Corte de Justicia de la Nación como el Consejo de la Judicatura Federal conservaron remanentes de los ejercicios de sus presupuestos, correspondientes a los años de mil novecientos noventa y ocho y anteriores con el propósito de atender programas prioritarios y programas emergentes. Asimismo, respecto de estos remanentes la legislación entonces vigente no contenía disposición alguna que estableciera la obligación, para dichos órganos de concentrarlos en la Tesorería de la Federación, al término de los ejercicios respectivos; y, por el contrario, el Presupuesto de Egresos de la Federación para el año de mil novecientos noventa y nueve fue adicionado, en el proceso legislativo, con el propósito de regular expresamente el reintegro de las erogaciones previstas en ese presupuesto, no ejercidas, en relación con los Poderes Legislativo y Judicial y con el Instituto Federal Electoral;
-
-OCTAVO. Que la Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal refrendan su compromiso institucional y ratifican la unidad de propósitos y finalidades en una relación de colaboración entre ambos órganos, para lograr el mejoramiento del Poder Judicial Federal y con el propósito de alcanzar una mayor eficiencia, eficacia, congruencia, racionalidad y optimización de los recursos públicos autorizados al Poder Judicial de la Federación por la H. Cámara de Diputados del Congreso de la Unión, el Pleno de la Suprema Corte de Justicia de la Nación y el del Consejo de la Judicatura Federal, coinciden en la necesidad de aprovechar al máximo los recursos financieros, materiales y humanos con que cuentan, a fin de lograr el cumplimiento de las garantías que tutela el artículo 17 constitucional y la finalidad del propio poder: la administración de justicia pronta, completa, imparcial y gratuita.
-
-En consecuencia, con fundamento en el artículo 100, párrafo octavo, de la Constitución Política de los Estados Unidos Mexicanos; 11, fracción XXI, y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, el Pleno de la Suprema Corte de Justicia de la Nación y el Pleno del Consejo de la Judicatura Federal, conjuntamente, expiden el siguiente
-
-ACUERDO GENERAL:
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL CONJUNTO NUMERO 2/2006, DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2006)</small>
-
-PRIMERO. RECURSOS FINANCIEROS: La Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación podrán autorizar la transferencia entre sí de aquellos recursos financieros que formen parte de su presupuesto, así como de otros recursos.
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL CONJUNTO NUMERO 2/2006, DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2006)</small>
-
-SEGUNDO. RECURSOS MATERIALES: La Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación podrán transferir entre sí aquellos recursos materiales, tales como: mobiliario y equipo de oficina, equipo de informática, programas y, en su caso, licencias, obras bibliográficas propias o las que adquieran de terceros, discos compactos, cintas o cualquier otro material, impreso o grabado o susceptible de ser apreciado a través de los sentidos, a fin de que la función jurisdiccional se desarrolle de manera óptima.
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL CONJUNTO NUMERO 2/2006, DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2006)</small>
-
-TERCERO. PLAZAS: Las suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación podrán transferir entre sí las plazas relativas al personal que resulten necesarias para fortalecer la función jurisdiccional.
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL CONJUNTO NUMERO 2/2006, DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2006)</small>
-
-CUARTO. DERECHOS LABORALES DEL PERSONAL TRANSFERIDO: Las plazas del personal que la Suprema Corte de Justicia de la Nación, Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación se transfieran entre sí pasarán a formar parte de sus respectivas plantillas, sin afectar los derechos laborales del personal transferido.
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL CONJUNTO NUMERO 2/2006, DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2006)</small>
-
-QUINTO. DESTINO DE LOS RECURSOS FINANCIEROS. Los recursos financieros que de la Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación se transfieran entre sí, se destinarán a la adquisición de activos fijos, tales como: inmuebles y equipos, así como a la remodelación, reparación y mantenimiento de dichos activos, con el propósito de que las funciones jurisdiccionales a su cargo se lleve a cabo en las mejores condiciones posibles. Asimismo, los recursos podrán aplicarse para satisfacer las necesidades urgentes o imprevistas que se presenten en el Poder Judicial de la Federación.
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL CONJUNTO NUMERO 2/2006, DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2006)</small>
-
-SEXTO. EJECUCION: La ejecución de este acuerdo corresponderá al Presidente de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal y a la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, en la esfera de sus respectivas competencias; las transferencias de recursos deberán ser previamente aprobadas, en su caso, por el Pleno de la Suprema Corte de Justicia de la Nación, por el Pleno del Consejo de la Judicatura Federal o por la mencionada Comisión.
-
-SÉPTIMO. La ejecución del presente acuerdo corresponde al presidente de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, en la esfera de su competencia; las transferencias de recursos deberán ser previamente aprobadas, en su caso, por el Pleno de la Suprema Corte de Justicia de la Nación o por el Pleno del Consejo de la Judicatura Federal.
-
-TRANSITORIOS:
-
-PRIMERO.-Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.-Se derogan todos aquellos acuerdos que se opongan al presente.
-
-TERCERO.-Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación.
-
-Así lo acordaron, los señores Ministros presidente Genaro David Góngora Pimentel, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juventino V. Castro y Castro, Juan Díaz Romero, José Vicente Aguinaco Alemán, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga María Sánchez Cordero y Juan N. Silva Meza, así como los señores consejeros Adolfo O. Aragón Mendía, Manuel Barquín Álvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales, Sergio Armando Valls Hernández, ante el secretario general de Acuerdos de la Suprema Corte de Justicia de la Nación y el secretario ejecutivo de Pleno y Carrera Judicial del Consejo de la Judicatura Federal, quienes dan fe.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
-
-D.O.F. 14 DE ABRIL DE 2006.
-
-PRIMERO. Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Se derogan todos aquellos acuerdos que se opongan al presente.
-
-TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
 ## TÍTULO I. DISPOSICIONES GENERALES
 
 ### CAPITULO I. Organización de la Secretaría
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 1º.
 
-La Secretaría de Desarrollo Económico, como dependencia del Poder Ejecutivo del Estado de Aguascalientes, ejercerá las atribuciones, funciones y obligaciones que le confieren la Constitución Política del Estado de Aguascalientes, Ley Orgánica de la Administración Pública del Estado de Aguascalientes, Ley para el Fomento a la Economía, la Inversión y el Empleo para el Estado de Aguascalientes, así como las demás leyes, reglamentos, decretos, convenios de coordinación y de colaboración administrativa celebrados con el Gobierno Federal, convenios celebrados con otras Entidades Federativas, convenios de diversa índole celebrados con los Municipios y las entidades paraestatales y convenios celebrados con personas físicas y morales de derecho privado.
+La Secretaría de Desarrollo Económico, como dependencia del Poder Ejecutivo del Estado de Aguascalientes, ejercerá las atribuciones, funciones y obligaciones que le confieren la Constitución Política del Estado de Aguascalientes, Ley Orgánica de la Administración Pública del Estado de Aguascalientes, Ley para el Fomento a la Economía, la Inversión y el Empleo para el Estado de Aguascalientes, Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes, así como las demás leyes, reglamentos, decretos, convenios de coordinación y de colaboración administrativa celebrados con el Gobierno Federal, convenios celebrados con otras Entidades Federativas, convenios de diversa índole celebrados con los Municipios y las entidades paraestatales y convenios celebrados con personas físicas y morales de derecho privado.
 
 En todo momento, la Secretaría deberá conducir sus actividades bajo la observancia obligatoria de los principios rectores establecidos en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, así como del Código de Ética de la Administración Pública.
 
@@ -159,9 +77,17 @@ Para el despacho, atención, resolución y todo lo relacionado con los asuntos q
 
 I. La Subsecretaría para la Micro, Pequeña y Mediana Empresa:
 
-a) Dirección General de Comercio; y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
 
-b) Dirección General de Fortalecimiento de MIPyMES;
+a) Dirección General de Comercio;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+b) Dirección General de Fortalecimiento de MIPyMES; y
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+c) Dirección General de Competitividad e Innovación y de la Oficina del Servicio Nacional de Empleo;
 
 II. La Subsecretaría de Inversión y Desarrollo:
 
@@ -175,7 +101,13 @@ a) Dirección General Jurídica;
 
 b) Dirección General de Administración y Finanzas; y
 
-c) Secretaría Particular.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+c) Secretaría Particular; y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+d) Dirección General de Gestión Empresarial y Mejora Regulatoria.
 
 Asimismo, la Secretaría contará con las Unidades Administrativas que sean necesarias para el despacho de los asuntos que le competan, en términos de la Ley y de las demás normas relativas y aplicables, atendiendo a su capacidad presupuestal.
 
@@ -233,9 +165,29 @@ XIV. Planear, elaborar e implementar todos aquellos programas, encaminados al in
 
 XV. Desempeñar las actividades correspondientes al cargo de vicepresidente del Consejo Consultivo para el Desarrollo Económico de Aguascalientes de acuerdo a la Ley de Fomento a la Economía, la Inversión y el Empleo para el Estado de Aguascalientes;
 
-XVI. Tramitar y resolver los recursos que se le presenten, cuando legalmente proceda, de conformidad con la Ley; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-XVII. Ejercer las demás atribuciones que le otorgue el Gobernador del Estado y el Secretario General de Gobierno y las que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como también las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
+XVI. Tramitar y resolver los recursos que se le presenten, cuando legalmente proceda, de conformidad con la Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XVII. Desempeñar las funciones de coordinación y supervisión en materia de mejora regulatoria, gestión empresarial y competitividad en el Estado;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+XVIII. Supervisar y coordinar las políticas y acciones en el campo de la competitividad e innovación empresarial, que incentive el incremento en la inversión, la productividad y el empleo en el Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2021)</small>
+
+XIX. Fomentar y apoyar la organización para el trabajo y autoempleo;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+XX. Organizar la Oficina del Servicio Nacional de Empleo, a efecto de promover los servicios de vinculación, promoción del autoempleo, asistencia técnica y capacitación orientados al incremento de la calidad, la productividad y la competitividad de las empresas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE FEBRERO DE 2021)</small>
+
+XXI. Ejercer las demás atribuciones que le otorgue el Gobernador del Estado, el Secretario General de Gobierno y las que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como también las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
 
 ###### ARTÍCULO 8º.
 
@@ -415,9 +367,25 @@ XVI. Contar con un sistema de información estadística, que contenga variables 
 
 XVII. Generar información actualizada, oportuna y confiable sobre las actividades económicas, coordinándose con la Coordinación General de Planeación y Proyectos para su difusión;
 
-XVIII. Apoyar, en coordinación con la Secretaría de Desarrollo Rural y Agroempresarial, las gestiones de los productores y trabajadores organizados para la obtención de servicios, insumos, créditos, financiamiento, maquinaria y demás elementos necesarios para el desarrollo de las actividades agroindustriales; y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
 
-XIX. Las demás que le sean asignadas por el Secretario y las que les correspondan a las áreas a su cargo.
+XVIII. Apoyar, en coordinación con la Secretaría de Desarrollo Rural y Agroempresarial, las gestiones de los productores y trabajadores organizados para la obtención de servicios, insumos, créditos, financiamiento, maquinaria y demás elementos necesarios para el desarrollo de las actividades agroindustriales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2021)</small>
+
+XIX. Fomentar y apoyar la organización para el trabajo y el autoempleo;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+XX. Organizar y coordinar la Oficina del Servicio Nacional de Empleo, a efecto de promover los servicios de vinculación, promoción del autoempleo, asistencia técnica y capacitación orientados al incremento de la calidad, la productividad y la competitividad de las empresas y en el sector público;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+XXI. Gestionar recursos ante el Servicio Nacional de Empleo y Gobierno del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE FEBRERO DE 2021)</small>
+
+XXII. Las demás que le sean asignadas por el Secretario y las que les correspondan a las áreas a su cargo.
 
 #### Sección Primera. Dirección General de Fortalecimiento de MIPyMES
 
@@ -471,9 +439,79 @@ XII. Coordinar un sistema de información de precios de los productos de la cana
 
 XIII. Fomentar la comercialización de artesanías en el Estado.
 
-#### Sección Primera. Dirección General de Atracción de Inversiones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2021)</small>
 
-#### Sección Segunda. Dirección General de Desarrollo Industrial
+#### Sección Tercera. Dirección General de Competitividad e Innovación y de la Oficina del Servicio Nacional de Empleo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2021)</small>
+
+ARTÍCULO 15 BIS.- A la Dirección General de Competitividad e Innovación y de la Oficina del Servicio Nacional de Empleo le corresponde, a través de su Titular y/o por conducto de los Coordinadores o Jefes de Departamento, el ejercicio de las facultades que a continuación se señalan:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+I. Promover prácticas de calidad, competitividad e innovación para las empresas mediante la capacitación, obtención de certificaciones y formación empresarial;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+II. Promover y operar como intermediario, promotor, ante instituciones y organismos de carácter público y privado, para la gestión de apoyos a las empresas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+III. Realizar estrategias para estimular el aprendizaje y el desarrollo de habilidades y competencias en el campo de la cultura de la innovación;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IV. Apoyar en la elaboración y ejecución de proyectos de competitividad e innovación a las empresas e instituciones públicas y privadas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+V. Propiciar e informar a los empresarios de los mecanismos de integración a las redes de innovación y cadenas productivas a nivel local, nacional e internacional;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VI. Orientar a las empresas a la generación de valor y al aumento en la eficiencia de sus procesos, productos y servicios;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VII. Promover la vinculación de las empresas con instituciones académicas y centros de investigación y desarrollo tecnológico;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+VIII. Fomentar el uso de las tecnologías de la información como medio para fortalecer las condiciones competitivas de las empresas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+IX. Promover e impulsar la realización de acciones que favorezcan la competitividad e innovación de las empresas e instituciones públicas y privadas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+X. Vincular esfuerzos e impulsar la comunicación entre los sectores público, privado y social en los campos de la competitividad y mejora tecnológica de las empresas en el Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+XI. Concertar planes y programas de trabajo con instituciones de educación superior públicas y privadas para el fomento y desarrollo de las tecnologías de la información;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+XII. Dar seguimiento a los distintos indicadores de competitividad y promover acciones para avanzar en esta materia en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2021)</small>
+
+XIII. Fomentar y apoyar la organización para el trabajo y el autoempleo;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+XIV. Coordinar y supervisar los trabajos operativos de la Oficina del Servicio Nacional de Empleo en Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+
+XV. Coordinar la generación de estrategias o planes de impacto regional, a través de la Oficina del Servicio Nacional de Empleo en Aguascalientes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE FEBRERO DE 2021)</small>
+
+XVI. Las demás que le sean asignadas por el Secretario, el Subsecretario de la Micro, Pequeña y Mediana Empresa y por otras disposiciones normativas aplicables al área a su cargo.
+
+#### Sección Primera. Dirección General de Atracción de Inversiones
 
 ### CAPÍTULO II. Subsecretaría de Inversión y Desarrollo
 
@@ -537,7 +575,7 @@ XXVII. Promover la colaboración y el intercambio de conocimientos y experiencia
 
 XXVIII. Las demás que le sean asignadas por el Secretario y las que les correspondan a las áreas a su cargo.
 
-#### Sección Primera. Dirección General Jurídica
+#### Sección Segunda. Dirección General de Desarrollo Industrial
 
 ###### ARTÍCULO 17.
 
@@ -571,7 +609,7 @@ XIII. Promover los programas de incentivos y estímulos a la inversión nacional
 
 XIV. Fomentar el desarrollo de proyectos de la inversión extranjera en los municipios del interior.
 
-#### Sección Segunda. Dirección General de Administración y Finanzas
+#### Sección Primera. Dirección General Jurídica
 
 ###### ARTÍCULO 18.
 
@@ -597,7 +635,7 @@ VIII. Identificar las oportunidades de mejora en la cadena productiva y promover
 
 Unidades de Apoyo del Secretario.
 
-#### Sección Tercera. Secretaria Particular
+#### Sección Segunda. Dirección General de Administración y Finanzas
 
 ###### ARTÍCULO 19.
 
@@ -626,6 +664,8 @@ X. Revisar y analizar los anteproyectos de ley y reglamentos que las dependencia
 XI. Admitir, tramitar y resolver las solicitudes de información formuladas por los ciudadanos a la Secretaria con fundamento en la ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios; y
 
 XII. En materia de transparencia y acceso a la información pública, designar a la persona que fungirá como responsable de la Unidad de Transparencia de la Secretaría; razón por la cual, dicha persona ejercerá las facultades que expresamente señala la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios, siendo la única Unidad Administrativa de la Secretaría en cita con atribuciones concurrentes para la recepción, estudio y en su caso proporcionar información solicitada por parte de los interesados además de lo conducente de conformidad con la Ley de mérito.
+
+#### Sección Tercera. Secretaria Particular
 
 ###### ARTÍCULO 20.
 
@@ -733,6 +773,24 @@ L. Elaborar la estadística de la Secretaría para la integración de la estadí
 
 LI. Apoyar a todas las áreas de la Secretaría en el desarrollo de sus funciones de carácter administrativo.
 
+#### Sección Cuarta. Dirección General de Gestión Empresarial y Mejora Regulatoria
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 21 BIS.- A la Dirección General de Gestión Empresarial y Mejora Regulatoria le corresponde, a través de su Titular y/o por conducto de los Jefes de Departamento, además de las facultades señaladas en la Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes, el ejercicio de las que a continuación se señalan:
+
+I.- Promover la mejora de las regulaciones y la simplificación de trámites y servicios, así como la transparencia en la elaboración y aplicación de los mismos, procurando que generen beneficios superiores a sus costos y el máximo beneficio para la sociedad;
+
+II.- Fortalecer y ampliar los medios de participación de los sectores social y privado que estimulen la competitividad, la inversión y el crecimiento económico en el Estado;
+
+III.- Proponer a los sujetos obligados de conformidad con la Ley (sic) Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes, acciones, medidas o programas que permitan impactar favorablemente en el mejoramiento del marco regulatorio estatal y que incidan en el desarrollo y crecimiento económico del Estado, y coadyuvar en su promoción e implementación;
+
+IV.- Impulsar acuerdos y convenios de colaboración, concertación y coordinación que contribuyan al fortalecimiento de la política de mejora regulatoria y gestión empresarial, en el ámbito de su competencia;
+
+V.- Fungir como Secretario Ejecutivo del Consejo Estatal de Mejora Regulatoria; y
+
+VI.- Las demás que le sean asignadas por el Secretario y otras disposiciones normativas aplicables al área a su cargo.
+
 ###### ARTÍCULO 21.
 
 Al titular de la Secretaría Particular le corresponde el ejercicio de las siguientes facultades:
@@ -752,6 +810,8 @@ VI. Preparar y/o revisar los documentos y oficios para firma del Secretario de D
 VII. Auxiliar al Secretario en la atención, gestión, seguimiento y solución de los asuntos turnados a su despacho; y
 
 VIII. Las demás que le sean asignadas por el Secretario y las que le correspondan a las áreas a su cargo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ## TÍTULO III. RÉGIMEN DE SUPLENCIAS
 
@@ -806,3 +866,29 @@ SECRETARIO GENERAL DE GOBIERNO
 C.P. LUIS RICARDO MARTÍNEZ CASTAÑEDA
 
 SECRETARIO DE DESARROLLO ECONÓMICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS Y ADICIONES AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día 1° de enero de 2020.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y administrativas que se opongan al presente Reglamento.
+
+P.O. 1 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas y adiciones al Reglamento Interior de la Secretaría de Desarrollo Económico, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor de las presentes reformas y adiciones al Reglamento Interior de la Secretaría de Desarrollo Económico, se derogan las disposiciones de menor jerarquía que se opongan a las mismas.
