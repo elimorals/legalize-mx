@@ -4,7 +4,7 @@ identifier: "SON-ley-del-registro-civil-para-el-estado-de-sonora-98309"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-09"
-last_updated: "2020-03-05"
+last_updated: "2021-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE FEBRERO DE 2021.
 
 Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el jueves 9 de enero de 2014.
 
@@ -861,15 +861,19 @@ VII. Los demás datos que deberá contener cada extracto en lo particular, conte
 
 La rectificación de un acta del estado de (sic) civil puede hacerse mediante sentencia que dicte la Autoridad Judicial, en los casos previstos en el Código de Procedimientos Civiles o, mediante resolución administrativa emitida por la Dirección General, en los supuestos y conforme a las reglas establecidas en esta Ley, salvo el reconocimiento que voluntariamente haga un padre de su hijo.
 
+> <small>(REFORMADO, B.O. 2 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 113.
 
-Se podrá llevar a cabo la rectificación de un acta en los siguientes casos:
+Se podrá llevar a cabo la rectificación o modificación de un acta en los siguientes casos:
 
 I. Por falsedad;
 
-II. Por enmienda, cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental; y
+II. Por enmienda, cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental;
 
-III.- Por resolución judicial, cuando el registrado, decida cambiar el nombre propio o eliminar uno o más de ellos, según sea el caso, sin que se afecte su filiación. En este supuesto, el solicitante podrá cambiar o eliminar alguno de los nombres propios solo en una ocasión, siempre y cuando no se genere perjuicio alguno a terceros o pretenda eludir el cumplimiento de obligaciones.
+III.- Por resolución judicial, cuando el registrado, decida cambiar el nombre propio o eliminar uno o más de ellos, según sea el caso, sin que se afecte su filiación. En este supuesto, el solicitante podrá cambiar o eliminar alguno de los nombres propios solo en una ocasión, siempre y cuando no se genere perjuicio alguno a terceros o pretenda eludir el cumplimiento de obligaciones; y
+
+IV.- Para variar el sexo y la identidad de la persona, en ejercicio al libre desarrollo de la personalidad.
 
 ###### Artículo 114.
 
@@ -881,9 +885,11 @@ II. Las que se mencionan en el acta como relacionadas con el estado civil de alg
 
 III. Los herederos de las personas comprendidas en las dos fracciones anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 115.
 
-El procedimiento administrativo mediante el cual, la Dirección General emitirá la resolución administrativa que ordene la rectificación de un acta del estado civil, se sustentará en solicitud que tenga como finalidad la aclaración del acta que corresponda para corregir en ella:
+El procedimiento administrativo mediante el cual, la Dirección General emitirá la resolución administrativa que ordene la rectificación o modificación de un acta del estado civil, se sustentará en solicitud que tenga como finalidad la aclaración del acta que corresponda cuando se traten de los siguientes supuestos:
 
 I. Errores mecanográficos;
 
@@ -909,13 +915,17 @@ X. La aclaración en las actas de matrimonio y de defunción, cuando el solicita
 
 XI. Cuando se trate de meras discrepancias entre el acta resguardada en el Archivo Estatal del Registro Civil y la que se encuentre en la Oficialía que corresponda, siempre y cuando no se encuentren alteraciones en éstas;
 
-> <small>(REFORMADA, B.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, B.O. 2 DE FEBRERO DE 2021)</small>
 
-XII. El uso de abreviaturas o guarismos no permitidos, la difícil legibilidad de caracteres, cuando por el contexto de la inscripción o de otras inscripciones no haya duda de su contenido; y
+XII. El uso de abreviaturas o guarismos no permitidos, la difícil legibilidad de caracteres, cuando por el contexto de la inscripción o de otras inscripciones no haya duda de su contenido;
 
-> <small>(ADICIONADA, B.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, B.O. 2 DE FEBRERO DE 2021)</small>
 
-XIII. Cuando el nombre o apellido de una persona en su acta de nacimiento no coincida con los demás documentos oficiales con que se ostente el interesado; la Dirección General del Registro Civil estará facultada para allegarse de los elementos de convicción que estime pertinentes para determinar la procedencia de la adecuación a la realidad social que solicita el interesado de su acta de nacimiento; dicho trámite administrativo deberá ser avalado o firmado además del Director General del Registro Civil por el Director jurídico de dicha institución, siempre y cuando se corrobore fehacientemente su identidad con los siguientes datos: fecha de nacimiento, lugar de nacimiento y nombre de los padres, y que dichos datos sean cotejados contra documentos oficiales.
+XIII. Cuando el nombre o apellido de una persona en su acta de nacimiento no coincida con los demás documentos oficiales con que se ostente el interesado; la Dirección General del Registro Civil estará facultada para allegarse de los elementos de convicción que estime pertinentes para determinar la procedencia de la adecuación a la realidad social que solicita el interesado de su acta de nacimiento; dicho trámite administrativo deberá ser avalado o firmado además del Director General del Registro Civil por el Director jurídico de dicha institución, siempre y cuando se corrobore fehacientemente su identidad con los siguientes datos: fecha de nacimiento, lugar de nacimiento y nombre de los padres, y que dichos datos sean cotejados contra documentos oficiales; y
+
+> <small>(ADICIONADA, B.O. 2 DE FEBRERO DE 2021)</small>
+
+XIV. Para variar el sexo y la identidad de la persona, en ejercido al libre desarrollo de la personalidad.
 
 ###### Artículo 116.
 
@@ -936,6 +946,40 @@ III. Recibida la documentación a la que se refiere la fracción anterior, el Di
 IV. La resolución que se dicte podrá ser impugnada por el interesado, mediante la interposición del recurso de inconformidad ante la Dirección General. El término para interponer el recurso de inconformidad será de quince días hábiles, contados a partir del día siguiente en que surta sus efectos la notificación respectiva.
 
 La resolución que recaiga al recurso de inconformidad, podrá ser impugnada por el interesado ante el Tribunal de lo Contencioso Administrativo del Estado de Sonora;
+
+(NOTA: EL 19 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, B.O. 2 DE FEBRERO DE 2021)</small>
+
+###### Artículo 116 Bis.
+
+Pueden pedir el levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género, previa la anotación correspondiente en su acta de nacimiento primigenia, las personas MAYORES DE EDAD que requieran el reconocimiento de su identidad de género.
+
+Se entenderá por identidad de género la convicción personal e interna, tal como cada persona se percibe así misma, la cual puede corresponder o no, al sexo asignado en el acta primigenia. En ningún caso será requisito acreditar intervención quirúrgica alguna, terapias u otro diagnóstico y/o procedimiento para el reconocimiento de la identidad de género.
+
+Los efectos de la nueva acta de nacimiento para identidad de género realizados, serán oponibles a terceros desde de su levantamiento.
+
+Los derechos y obligaciones contraídas con anterioridad al proceso administrativo para el reconocimiento de identidad de género y a la expedición de la nueva acta, no se modificarán ni se extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+
+Procederá el levantamiento de nueva acta, cuando se trate de reconocimiento voluntario de un padre de su hijo o por sentencia ejecutoriada que ordene el registro de reconocimiento de un hijo.
+
+> <small>(ADICIONADO, B.O. 2 DE FEBRERO DE 2021)</small>
+
+###### Artículo 116 Bis 1.
+
+Para realizar el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, las personas interesadas deberán presentar:
+
+I. Solicitud debidamente requisitada, en la que conste el consentimiento libre de que se reconozca su identidad de género;
+
+II. Copia certificada del acta de nacimiento primigenia; y
+
+III. Original y copia fotostática de su identificación oficial.
+
+El levantamiento se realizará en la Dirección General del Registro Civil o en el lugar en el que se llevó a cabo la declaración de nacimiento. Se procederá de inmediato a hacer la anotación y la reserva correspondiente. En el caso de que se realice en la Dirección General del Registro Civil, éste dará aviso a aquél donde se encuentre el acta de nacimiento primigenia.
+
+El acta de nacimiento primigenia quedará reservada y no se publicará ni expedirá constancia alguna, salvo mandamiento judicial o petición ministerial.
+
+Una vez cumplido el trámite correspondiente, se enviarán los oficios con la información, en calidad de reservada, a las autoridades federales y estatales a las cuales requieran tener conocimiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, así como a todas aquellas autoridades que a solicitud de la persona interesada o de la Dirección General del Registro Civil considere convenientes para los efectos legales procedentes.
 
 ###### Artículo 117.
 
@@ -1208,3 +1252,15 @@ B.O. 5 DE MARZO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 2 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 142 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE REGISTRO CIVIL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
