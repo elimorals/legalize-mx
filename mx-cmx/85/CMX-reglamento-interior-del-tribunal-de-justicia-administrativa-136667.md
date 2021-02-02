@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-de-justicia-administrativa-136
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-06-11"
-last_updated: "2019-06-11"
+last_updated: "2021-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136667&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-05-31"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE FEBRERO DE 2021.
 
 Reglamento publicado al Número 110 de la Gaceta Oficial de la Ciudad de México, el martes 11 de junio de 2019.
 
@@ -1702,17 +1702,23 @@ XIV. Mantener comunicación con las dependencias, organismos e instituciones y/o
 
 XV. Las demás que se deriven de las disposiciones aplicables y las que le encomienden, en el ámbito de sus atribuciones, el Presidente o la Directora o Director General.
 
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 117.
 
-Para el desarrollo de sus funciones, la Directora o el Director de Área de Recursos Materiales y Servicios Generales, contará con las siguientes áreas:
+Para el desarrollo de sus funciones, la persona titular de la Dirección de Área de Recursos Materiales y Servicios Generales, contará con las siguientes áreas:
 
-a) Adquisiciones; y
+a) Subdirección de Recursos Materiales y Servicios Generales;
 
-b) Servicios Generales.
+b) Jefatura de Unidad Departamental de Adquisiciones; y
+
+c) Jefatura de Unidad Departamental de Servicios Generales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 118.
 
-La Titular o el Titular de la Dirección de Área de Recursos Materiales y Servicios Generales tendrá las siguientes obligaciones:
+La persona titular de la Dirección de Área de Recursos Materiales y Servicios Generales, tendrá las siguientes obligaciones:
 
 I. Cumplir con las disposiciones del Decreto de Presupuesto de Egresos de la Ciudad de México, el Programa Anual de Adquisiciones del Tribunal, así como la normatividad interna que en materia de adquisiciones, arrendamientos y servicios emitan los Órganos de Gobierno;
 
@@ -1732,19 +1738,71 @@ VIII. Dar seguimiento a los acuerdos emitidos por el Comité de Adquisiciones, A
 
 IX. Verificar que la dotación de bienes y servicios se efectúe conforme a las condiciones pactadas en los contratos respectivos y establecer los controles necesarios para verificar su cumplimiento y, en caso contrario, aplicar las sanciones correspondientes a los proveedores de bienes y servicios;
 
-X. Supervisar el suministro de artículos de consumo para oficinas y control de inventarios y almacenes;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
-XI. Integrar las propuestas que permitan la mejora continua de los procedimientos del área y de la elaboración del Programa Anual de Adquisiciones de Bienes y Servicios Generales;
+X. Coordinar con la Subdirección de área, el suministro de artículos de consumo para oficinas y control de inventarios y almacenes.
 
-XII. Establecer una adecuada comunicación con las demás Direcciones de Área, a fin de detectar las necesidades de bienes y servicios que se requieran para programar el suministro oportuno;
+XI. (ABROGADA [N. DE E. DEROGADA], G.O. 2 DE FEBRERO DE 2021)
 
-XIII. Supervisar la operación del almacén a fin de asegurar el resguardo de los bienes adquiridos por el Tribunal;
+XII. (ABROGADA [N. DE E. DEROGADA], G.O. 2 DE FEBRERO DE 2021)
 
-XIV. Formalizar los pedidos de compra, los contratos de obra y de adquisición de bienes y servicios requeridos, previo cumplimiento de las formalidades jurídicas y normativas establecidas;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
-XV. Ejecutar el programa de aseguramiento integral de los bienes muebles, inmuebles, equipos, parque vehicular e instalaciones; y
+XIII. Coordinar con la Subdirección del área, la operación del almacén a fin de asegurar el resguardo de los bienes adquiridos por el Tribunal.
+
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XIV. Coordinar con la Subdirección del área, la formalización de los pedidos de compra, los contratos de obra y de adquisición de bienes y servicios requeridos, previo cumplimiento de las formalidades jurídicas y normativas establecidas.
+
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XV. Coordinar con la Subdirección del área la ejecución del programa de aseguramiento integral de los bienes muebles, inmuebles, equipos, parque vehicular e instalaciones.
 
 XVI. Las demás que deriven de las disposiciones aplicables y las que le confieran, en el ámbito de sus atribuciones, la Directora o el Director General, el Presidente, el Pleno General la Sala Superior o la Junta.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2021)</small>
+
+ARTÍCULO 118 BIS.- Para el desarrollo de sus funciones, la Subdirección de Recursos Materiales y Servicios Generales, contará con el apoyo de las siguientes áreas:
+
+a) Jefatura de Unidad Departamental de Adquisiciones; y
+
+b) Jefatura de Unidad Departamental de Servicios Generales.
+
+La Subdirección de Recursos Materiales y Servicios Generales, tendrá las siguientes obligaciones:
+
+I. Presentar a la Dirección de Área de Recursos Materiales y Servicios Generales, el anteproyecto del Programa Anual de Adquisiciones, Arrendamientos y Servicios, con base a la información que proporcionen las áreas.
+
+II. Presentar a la Dirección de Área de Recursos Materiales y Servicios Generales, el anteproyecto de bases de licitación, convocatorias y programación de eventos de los distintos procedimientos para la adquisición de bienes y contratación de servicios.
+
+III. Integrar las propuestas que permitan la mejora continua de los procedimientos del área y de la elaboración del Programa Anual de Adquisiciones de bienes, Arrendamientos y Servicios Generales.
+
+IV. Establecer una adecuada comunicación con las Direcciones de Área, a fin de detectar las necesidades de bienes y servicios que se requieran para programar el suministro oportuno.
+
+V. Supervisar el suministro de artículos de consumo para oficinas y control de inventarios y almacenes.
+
+VI. Verificar la formalización de los pedidos de compra, los contratos de obra y de adquisición de bienes y servicios requeridos, previo cumplimiento de las formalidades jurídicas y normativas establecidas.
+
+VII. Dar seguimiento a todos los procesos de adquisiciones y contratación de servicios.
+
+VIII. Fungir como Secretario Técnico del Comité de Adquisiciones Arrendamientos y Servicios, bajo los términos señalados en el Manual de Integración y Funcionamiento del Comité y presentar a la Secretaría Ejecutiva la carpeta integrada con los asuntos a tratar en las sesiones correspondientes.
+
+IX. Llevar a cabo la elaboración y control de los convenios modificatorios derivados de los distintos procedimientos de adquisición de bienes y contratación de servicios generales, en apego a las disposiciones normativas aplicables.
+
+X. Difundir las publicaciones de convocatorias de Licitaciones Públicas e Invitaciones a cuando menos tres personas; elaborar los oficios de invitación para los procedimientos de contratación y de notificación de adjudicaciones directas.
+
+XI. Supervisar la ejecución correcta del programa de aseguramiento integral de los bienes muebles, inmuebles, equipos, parque vehicular e instalaciones acervo del Tribunal, al igual que la operación del almacén.
+
+XII. Someter a la aprobación de la Dirección de Área de Recursos Materiales y Servicios Generales, los procedimientos de las acciones operativas de las Jefaturas de Unidad Departamental adscritas a la Dirección.
+
+XIII. Supervisar y dirigir las respectivas Jefaturas de Unidad Departamental con las que cuenta para el desarrollo de sus funciones.
+
+XIV. Supervisar el cumplimiento de los servicios generales, en el ámbito de su competencia y demás funciones inherentes al cargo que le señale su superior jerárquico.
+
+XV. Supervisar el registro al Sistema Contable Integrador; y
+
+XVI. Representar por designación a la Dirección General de Administración o a la Dirección de Recursos Materiales y Servicios Generales, presidiendo los eventos correspondientes en las diferentes fases de las licitaciones públicas o las invitaciones a cuando menos tres personas, en caso que sea necesario.
+
+XVII. Las demás que deriven de las disposiciones aplicables y las que le confieran, en el ámbito de sus atribuciones, la persona titular de la Dirección General, de la Presidencia, el Pleno General de la Sala Superior o la Junta.
 
 ###### Artículo 119.
 
@@ -2099,3 +2157,13 @@ CIUDAD DE MÉXICO, A 31 DE MAYO DE 2019
 LIC. OFELIA PAOLA HERRERA BELTRÁN
 
 SECRETARIA GENERAL DE ACUERDOS “I”
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 2 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO TOMADO POR EL PLENO GENERAL EL DÍA VEINTE DE ENERO DE DOS MIL VEINTIUNO, AL AMPARO DEL ACUERDO DEL PLENO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, POR EL QUE SE AUTORIZA EL USO DE MEDIOS REMOTOS TECNOLÓGICOS DE COMUNICACIÓN COMO MEDIOS OFICIALES PARA CONTINUAR CON LAS FUNCIONES ESENCIALES Y SE ESTABLECEN MEDIDAS PARA LA CELEBRACIÓN DE LAS SESIONES DE LOS ÓRGANOS COLEGIADOS DE ESTE ÓRGANO JURISDICCIONAL, CON MOTIVO DE LA EMERGENCIA SANITARIA POR CAUSA DE FUERZA MAYOR DERIVADA DE LA PANDEMIA GENERADA POR EL VIRUS SARS-COV2 (COVID 19)”, APROBADO EN SESIÓN EXTRAORDINARIA DE PLENO GENERAL DE FECHA TRECE DE ABRIL DE DOS MIL VEINTE; POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CUIDAD DE MÉXICO”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Hasta en tanto no se actualicen los manuales y procedimientos administrativos, continuarán vigentes los existentes, siempre y cuando no se contrapongan al contenido y alcance de la presente reforma.
