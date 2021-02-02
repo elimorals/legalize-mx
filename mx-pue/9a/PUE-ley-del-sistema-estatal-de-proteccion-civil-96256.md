@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-sistema-estatal-de-proteccion-civil-96256"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-20"
-last_updated: "2020-01-22"
+last_updated: "2021-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2021.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Puebla, el miércoles 20 de marzo de 2013.
 
@@ -249,9 +249,11 @@ El Gobernador del Estado tendrá dentro de su jurisdicción, la responsabilidad 
 
 El Estado, conforme a su disponibilidad presupuestaria y en términos de lo previsto en la Ley General de Protección Civil y demás disposiciones aplicables, contratará los seguros y demás instrumentos de administración y transferencia de riesgos para la cobertura de daños causados por un desastre natural en los bienes e infraestructura del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2021)</small>
+
 ###### ARTÍCULO 14.
 
-El Ejecutivo del Estado es la autoridad máxima del Sistema Estatal de Protección Civil, Sistema que será coordinado por el Secretario General de Gobierno.
+El Ejecutivo del Estado es la autoridad máxima del Sistema Estatal de Protección Civil, Sistema que será coordinado por la persona titular de la Secretaría de Gobernación.
 
 ###### ARTÍCULO 15.
 
@@ -351,21 +353,35 @@ XVI. Las demás que le confiere el presente Ordenamiento, su Reglamento, las dem
 
 El Consejo está integrado por:
 
-I. El Gobernador del Estado, que será el Presidente;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2021)</small>
 
-II. El Secretario General de Gobierno, que será el Coordinador General;
+I. La persona titular del Poder Ejecutivo, quien la presidirá;
 
-III. El Subsecretario de Asuntos Políticos y Protección Civil, que será el Secretario Ejecutivo y Coordinador de la Unidad Estatal;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2021)</small>
 
-IV. El Director General de Protección Civil, que será el Secretario Técnico y Director de la Unidad Estatal; y
+II. La persona titular de la Secretaría de Gobernación, que será Coordinador General;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2021)</small>
+
+III. La persona titular de la Subsecretaría de Asuntos Políticos y Protección Civil, que será Secretario Ejecutivo y Coordinador de la Unidad Estatal;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2021)</small>
+
+IV. La persona titular de la Dirección General de Protección Civil, que será Secretario Técnico y Director de la Unidad Estatal; y
 
 V. Los vocales siguientes:
 
-a) Los Titulares de las Dependencias de la Administración Pública Estatal; y
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2021)</small>
 
-b) El titular del Sistema Estatal para el Desarrollo Integral de la Familia.
+a) Las personas Titulares de las Dependencias de la Administración Pública Estatal; y
 
-El Presidente del Consejo, a través del Secretario Ejecutivo, podrá invitar a las sesiones, a representantes de los Poderes Legislativo y Judicial, de las Dependencias, Entidades y Organismos de la Administración Pública Federal, Estatal y Municipal, organizaciones privadas y de asistencia social, así como a las Universidades e Instituciones académicas y profesionales, pudiendo participar todos ellos con voz pero sin voto.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2021)</small>
+
+b) La persona Titular del Sistema Estatal para el Desarrollo Integral de la Familia.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2021)</small>
+
+La persona que presida el Consejo, a través del Secretario Ejecutivo, podrá invitar a las sesiones, a representantes de los Poderes Legislativo y Judicial, de las Dependencias, Entidades y Organismos de la Administración Pública Federal, Estatal y Municipal, organizaciones privadas y de asistencia social, así como a las Universidades e Instituciones académicas y profesionales, pudiendo participar todos ellos con voz, pero sin voto.
 
 Los integrantes del Consejo podrán nombrar a un representante para que los supla en las sesiones.
 
@@ -393,9 +409,11 @@ III. Vigilar el cumplimiento de los acuerdos del Consejo; y
 
 IV. Designar las Comisiones de Trabajo que estime necesarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2021)</small>
+
 ###### ARTÍCULO 24.
 
-El Coordinador General del Consejo, independientemente de las demás atribuciones en materia de protección civil que como Secretario General de Gobierno le corresponden, tendrá las siguientes:
+El Coordinador General del Consejo, independientemente de las demás atribuciones en materia de protección civil que como persona titular de la Secretaría de Gobernación le corresponden, tendrá las siguientes:
 
 I. Presidir las sesiones del Consejo, en ausencia del Presidente;
 
@@ -471,9 +489,11 @@ III. Un Subdirector Operativo que será el Director de Protección Civil; y
 
 IV. Los Directores o encargados de Programas Especiales, así como el personal técnico, administrativo, operativo y auxiliar que, adscrito a la Dependencia u Organismo competente en materia de protección civil, sea necesario para el cumplimiento de sus atribuciones, de conformidad con la disponibilidad presupuestal.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2021)</small>
+
 ###### ARTÍCULO 29.
 
-El Ejecutivo del Estado, para el correcto funcionamiento de la Unidad Estatal, podrá promover que la misma sea constituida con un nivel no menor a Dirección General preferentemente y de acuerdo a la legislación aplicable, como un organismo con autonomía administrativa, financiera, de operación y de gestión, dependiente de la Secretaría General de Gobierno.
+El Ejecutivo del Estado, para el correcto funcionamiento de la Unidad Estatal, podrá promover que la misma sea constituida con un nivel no menor a Dirección General preferentemente y de acuerdo a la legislación aplicable, como un organismo con autonomía administrativa, financiera, de operación y de gestión, dependiente de la Secretaría de Gobernación.
 
 ###### ARTÍCULO 30.
 
@@ -651,7 +671,9 @@ El Comité Estatal de Emergencias y Desastres es el mecanismo de carácter provi
 
 El Comité Estatal de Emergencias estará constituido por los titulares o por un representante de las Dependencias y Entidades de la Administración Pública Estatal, con rango no inferior al de Director General o su equivalente, que de acuerdo a su especialidad asume la responsabilidad de asesorar, apoyar y aportar, dentro de sus funciones, programas, planes de emergencia y sus recursos humanos y materiales, al Sistema Estatal, así como por el representante que al efecto designen los Presidentes Municipales, en su caso.
 
-El Comité Estatal de Emergencias estará presidido por el Secretario General de Gobierno, o en su ausencia por el Director de la Unidad Estatal, quienes podrán convocar para sesionar en forma extraordinaria cuando se presenten situaciones extremas de emergencia o desastre, o cuando la probabilidad de afectación por un agente perturbador sea muy alta, poniendo en inminente riesgo a grandes núcleos de población e infraestructura del Estado y los Municipios.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2021)</small>
+
+El Comité Estatal de Emergencias estará presidido por la persona titular de la Secretaría de Gobernación, o en su ausencia por el Director de la Unidad Estatal, quienes podrán convocar para sesionar en forma extraordinaria cuando se presenten situaciones extremas de emergencia o desastre, o cuando la probabilidad de afectación por un agente perturbador sea muy alta, poniendo en inminente riesgo a grandes núcleos de población e infraestructura del Estado y los Municipios.
 
 El Secretariado Técnico del Comité Estatal de Emergencias recaerá en el Director de la Unidad Estatal, o en el servidor público que éste designe para el efecto, debiendo tener un nivel jerárquico de Director o su equivalente.
 
@@ -1214,6 +1236,26 @@ Los promotores, organizadores o responsables de la realización de eventos o esp
 Las principales medidas del Programa Especial y las conductas apropiadas en caso de una contingencia deberán ser difundidas al público participante por parte del organizador antes del evento o al inicio del mismo.
 
 Los requisitos y formalidades se establecerán en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2021)</small>
+
+###### ARTÍCULO 105 Bis.
+
+Quien realice actividad o espectáculos en los que se empleen el uso o quema de fuegos pirotécnicos, estará obligado a presentar, además de los permisos de la Secretaría de la Defensa Nacional, un programa interno de seguridad, en el que se contemple croquis de ubicación de los artificios pirotécnicos, programa de quema, póliza de seguro que ampare la responsabilidad civil y daños a terceros, así como copia del contrato de prestación de servicios.
+
+Quien realice la actividad o espectáculos señalados en el párrafo anterior, no podrá abandonar el lugar mientras esté en desarrollo, ni consumir bebidas alcohólicas o cualquier sustancia tóxica. Así como presentar cada seis meses certificados de capacitación para la quema de fuegos pirotécnicos y en primeros auxilios.
+
+La Dirección General del (sic) Protección Civil Estatal, en coordinación con las Unidades Municipales de Protección Civil, deberán supervisar las medidas de seguridad de quema de artificios pirotécnicos en espectáculos públicos, en sede cerrada, a cielo abierto o vía pública, verificando que las personas que manejarán el espectáculo de fuegos pirotécnicos estén debidamente capacitadas, garantizando la integridad de terceros, previo a su realización.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2021)</small>
+
+###### ARTÍCULO 105 Ter.
+
+Quien realice la instalación temporal de Juegos Mecánicos en vía pública, atrios, parques, plazas o recintos feriales estará obligado a contar con un programa interno de seguridad, en el que se contemple croquis de ubicación, extintores, carteles que indiquen peso, edad y condición física mínima para poder acceder al juego, señalética de ruta de evacuación, póliza de seguro que ampare responsabilidad civil y daños a terceros, copia del contrato de prestación de servicios.
+
+Los operadores de los juegos no podrán abandonar en ninguna circunstancia, la instalación mientras esté en uso o en funcionamiento, ni consumir bebidas alcohólicas o cualquier sustancia tóxica. Así como presentar cada seis meses certificados de capacitación para el funcionamiento del juego mecánico y en primeros auxilios.
+
+La Dirección General del (sic) Protección Civil Estatal, en coordinación con las Unidades Municipales de Protección Civil, deberán supervisar las medidas de seguridad descritas y vigilar su cumplimiento antes de autorizar la instalación de los juegos mecánicos.
 
 ###### ARTÍCULO 106.
 
@@ -1794,6 +1836,22 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto p
 P.O. 22 DE ENERO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXVII DEL ARTÍCULO 2 DE LA LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 14, LAS FRACCIONES I, II, III, IV, LOS INCISOS A), B) Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN V DEL 20, EL ACÁPITE DEL 24, EL 29 Y EL SEGUNDO PÁRRAFO DEL 44 DE LA LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LOS ARTÍCULOS 105 BIS Y 105 TER A LA LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
