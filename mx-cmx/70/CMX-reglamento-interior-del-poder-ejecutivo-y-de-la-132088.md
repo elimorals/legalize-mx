@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2020-08-31"
+last_updated: "2021-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE FEBRERO DE 2021.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -282,13 +282,21 @@ C) Procuraduría Fiscal de la Ciudad de México, a la que quedan adscritas:
 
 2. Subprocuraduría de lo Contencioso;
 
-3. Subprocuraduría de Recursos Administrativos y Autorizaciones; y
+> <small>(REFORMADO], G.O. 2 DE FEBRERO DE 2021)</small>
 
-4. Subprocuraduría de Asuntos Civiles, Penales y Resarcitorios;
+3. Subprocuraduría de Recursos Administrativos y Autorizaciones;
+
+> <small>(REFORMADO], G.O. 2 DE FEBRERO DE 2021)</small>
+
+4. Subprocuraduría de Asuntos Civiles, Penales y Resarcitorios; y
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2021)</small>
+
+5. Unidad de Inteligencia Financiera.
 
 D) Dirección General de Administración Financiera;
 
-E) Unidad de Inteligencia Financiera;
+E) (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
@@ -356,25 +364,27 @@ K) Dirección Ejecutiva de Seguimiento y Control Institucional; y
 
 L) Las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en la Administración Pública Central.
 
-> <small>(ADICIONADO [N. DE E. CON LOS NUMERALES QUE LO INTEGRAN], G.O. 11 DE OCTUBRE DE 2019)</small>
+M). (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
-M) Coordinación General de Evaluación, Modernización y Desarrollo Administrativo, a la que le quedan adscritas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2020)</small>
+N). Dirección General de Administración de Personal y Desarrollo Administrativo, a la que le quedan adscritas:
 
-1. Dirección Ejecutiva de Desarrollo Organizacional; y
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
-2. (DEROGADO, G.O. 31 DE ENERO DE 2020)
+1. Dirección Ejecutiva de Administración de Personal;
 
-3. Dirección Ejecutiva de Evaluación y Registro Ocupacional;
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE FEBRERO DE 2021)</small>
 
-> <small>(ADICIONADO [N. DE E. CON LOS NUMERALES QUE LO INTEGRAN], G.O. 11 DE OCTUBRE DE 2019)</small>
+2. Dirección Ejecutiva de Desarrollo de Personal y Derechos Humanos;
 
-N) Dirección General de Administración de Personal, a la que le quedan adscritas:
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 2 DE FEBRERO DE 2021)</small>
 
-1. Dirección Ejecutiva de Administración de Personal y Uninómina; y
+3. Dirección Ejecutiva de Política y Relaciones Laborales;
 
-2. Dirección Ejecutiva de Política y Relaciones Laborales.
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2021)</small>
+
+4. Dirección Ejecutiva de Dictaminación y Procedimientos Organizacionales;
 
 > <small>(ADICIONADO [N. DE E. CON LOS NUMERALES QUE LO INTEGRAN], G.O. 11 DE OCTUBRE DE 2019)</small>
 
@@ -462,17 +472,19 @@ G) Dirección de Vigilancia Móvil.
 
 IV. A la Secretaría de Cultura:
 
-A) Coordinación Ejecutiva de Asuntos Especiales y Asesoría Cultural;
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
-B) Dirección General de Organización y Desempeño;
+A) Dirección Ejecutiva de Gestión Institucional y Cooperación Cultural;
+
+B) (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
 C) Dirección General de Vinculación Cultural Comunitaria;
 
 D) Dirección General de Grandes Festivales Comunitarios;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
-E) Dirección General de Educación Artística y Cultura Comunitaria;
+E) Dirección Ejecutiva de Educación Artística y Cultural Comunitaria;
 
 F) Dirección General de Patrimonio Histórico, Artístico y Cultural; y
 
@@ -484,13 +496,15 @@ V. A la Secretaría de Desarrollo Económico:
 
 A) Dirección Ejecutiva Jurídica y Normativa
 
-> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE FEBRERO DE 2021)</small>
 
-B) Dirección General de Desarrollo Económico, a la que quedan adscritas:
+B) Dirección General de Desarrollo Económico, a la que queda adscrita:
 
-1. Dirección Ejecutiva de Apertura de Negocios y Desarrollo Empresarial; y
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
-2. Dirección Ejecutiva de Planeación y Seguimiento de la Economía;
+1.- Dirección Ejecutiva de Apertura de Negocios y Desarrollo Empresarial.
+
+2.- (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
 C) Dirección General de Abasto, Comercio y Distribución;
 
@@ -506,15 +520,19 @@ E) Dirección General de Desarrollo y Sustentabilidad Energética.
 
 VI. A la Secretaría de Desarrollo Urbano y Vivienda:
 
-A) Coordinación General de Desarrollo Urbano;
+A) (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
-B) Dirección General de Control y Administración Urbana; y
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
-C) Dirección General de Asuntos Jurídicos;
+B) Dirección General de Política Urbanística;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
-D) Dirección General de Planeación de Desarrollo y Ordenamiento Territorial.
+C) Dirección General de Asuntos Jurídicos; y
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
+
+D) Dirección General del Ordenamiento Urbano.
 
 VII. A la Secretaría de Educación, Ciencia, Tecnología e Innovación:
 
@@ -568,27 +586,27 @@ D) Dirección Ejecutiva de Asuntos Jurídicos.
 
 IX. A la Secretaría de Inclusión y Bienestar Social:
 
-A) Dirección Ejecutiva de Asuntos Estratégicos;
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
+A) Dirección Ejecutiva de Monitoreo, Gestión y Enlace Institucional; y
 
-B) Dirección General de Derechos Humanos;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE FEBRERO DE 2021)</small>
+
+B) Dirección General de Diversidad Sexual y Derechos Humanos.
 
 1. (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
 2. (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE FEBRERO DE 2021)</small>
 
-C) Dirección General de Inclusión Social, a la que quedan adscritas:
+C) Dirección General de Inclusión Social, a la que queda adscrita:
 
-> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
-1. Dirección Ejecutiva del Instituto de Atención a Poblaciones Prioritarias; y
+1. Dirección Ejecutiva del Instituto de Atención a Poblaciones Prioritarias.
 
-> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2020)</small>
-
-2. Dirección Ejecutiva de Mejoramiento Barrial y Comunitario;
+2. (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
 3. (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
@@ -600,13 +618,19 @@ C) Dirección General de Inclusión Social, a la que quedan adscritas:
 
 D) Dirección General de Asuntos Jurídicos;
 
-(REFORMADO [N. DE E. REUBICADO], G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE FEBRERO DE 2021)</small>
 
-E) Dirección General de Participación Ciudadana;
+E) Coordinación General de Participación Ciudadana, a la que quedan adscritas:
 
-(REFORMADO [N. DE E. REUBICADO], G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
-F) Dirección General de Política e Innovación Social;
+1. Dirección Ejecutiva de Tequio Barrio; y
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2021)</small>
+
+2. Dirección Ejecutiva Territorial.
+
+F) (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
 G) (DEROGADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
@@ -614,13 +638,11 @@ H) (DEROGADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
 I) (DEROGADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
-> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
-J) Dirección Ejecutiva del Instituto para el Envejecimiento Digno; y
+J) Dirección Ejecutiva del Instituto para el Envejecimiento Digno.
 
-> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2020)</small>
-
-K) Dirección Ejecutiva de Operación y Desarrollo Institucional.
+K) (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MAYO DE 2019)</small>
 
@@ -1302,9 +1324,9 @@ XX. Participar en la formulación de anteproyectos de reformas y adiciones a dis
 
 XXI. Asesorar a las Unidades Responsables de Gasto cuando lo soliciten, respecto de las normas que emite la Subsecretaría;
 
-> <small>(REFORMADA, G.O. 11 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
-XXII. Dirigir, en coordinación con la Dirección General de Administración de Personal, el proceso de estimación, programación y asignación de los recursos presupuestales que destinarán al capítulo de servicios personales las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades en su correspondiente anteproyecto de presupuesto de egresos, mismos que se sujetarán a las previsiones de ingresos que comunique la Secretaría;
+XXII. Dirigir, en coordinación con la Dirección General de Administración de Personal y Desarrollo Administrativo, el proceso de estimación, programación y asignación de los recursos presupuestales que destinarán al capítulo de servicios personales las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades en su correspondiente anteproyecto de presupuesto de egresos, mismos que se sujetarán a las previsiones de ingresos que comunique la Secretaría;
 
 XXIII. Analizar y, en su caso, someter a consideración del superior la propuesta de respuesta a las solicitudes presentadas por las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades para comprometer recursos presupuestales en proyectos cuya ejecución comprenda más de un ejercicio fiscal;
 
@@ -1452,7 +1474,9 @@ XXIII. Formular y someter a consideración de la persona titular de la Secretar�
 
 XXIV. Emitir las opiniones jurídicas y desahogar las consultas de los contribuyentes y de la Administración Pública de la Ciudad de México en materia fiscal, y respecto de las reducciones fiscales competencia de la Procuraduría Fiscal de la Ciudad de México, así como recibir y tramitar las solicitudes de disminuciones de montos de créditos fiscales correspondientes;
 
-XXV. Solicitar en su carácter de autoridad fiscal, copias certificadas de las actuaciones, documentación o registros, a las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública que tengan conocimiento de hechos delictuosos que ocasionen perjuicio a la Hacienda Pública de la Ciudad de México;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XXV. Solicitar información y documentación, así como copias certificadas de las actuaciones y registros, a las Dependencias, Alcaldías, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública que tengan conocimiento de hechos delictuosos que ocasionen perjuicio a la Hacienda Pública de la Ciudad de México, o que permita debilitar las estructuras económicas y patrimoniales de la delincuencia;
 
 XXVI. Recibir, tramitar y resolver las solicitudes de autorización que presenten las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública, para admitir otra forma de garantía o eximir de ésta, respecto de actos y contratos que celebren;
 
@@ -1466,9 +1490,37 @@ XXX. Vigilar las reuniones con las organizaciones de los particulares y los cole
 
 XXXI. Recibir, tramitar y resolver las solicitudes de mediación fiscal, de acuerdo con las disposiciones jurídicas aplicables;
 
-XXXII. Vigilar el cumplimiento de las normas y procedimientos inherentes al desarrollo de sus funciones, y
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
-XXXIII. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones legales y administr ativas (sic), así como las que les sean conferidas por sus superiores jerárquicos.
+XXXII. Vigilar el cumplimiento de las normas y procedimientos inherentes al desarrollo de sus funciones;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XXXIII. Generar, obtener, analizar y consolidar información financiera, fiscal, económica y patrimonial a través de la Unidad de Inteligencia Financiera de la Ciudad de México en colaboración y coadyuvancia con las Dependencias facultadas en relación con conductas que pudieran estar vinculadas con la comisión de delitos en materia de lavado de dinero, Operación con Recursos de Procedencia Ilícita y Financiamiento al Terrorismo, dentro de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XXXIV. Coordinar y establecer enlaces permanentes, entre las diversas dependencias y entidades Federales y de la Administración Pública de la Ciudad de México, en los asuntos de su competencia, así como celebrar e implementar acuerdos con esas instancias, para el intercambio de información que sirvan como elementos para la elaboración de los reportes de inteligencia;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XXXV. Proporcionar a la autoridad competente los elementos que presuman o presupongan el beneficio o incremento económico injustificado de personas vinculadas con hechos posiblemente ilícitos;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XXXVI. Coadyuvar bajo los acuerdos que se establezcan con el Ministerio Público competente para el acopio de información en materia de prevención y combate a los delitos de Operaciones con Recursos de Procedencia Ilícita y Financiamiento de Ataques a la Paz Pública dentro del territorio de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XXXVII. Acceder a la información almacenada en las bases de datos que alberga el Sistema Nacional de Información sobre Seguridad Pública, en atención a lo establecido en el Convenio de Coordinación en el marco del Sistema Nacional de Seguridad Pública;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XXXVIII. Proponer a la persona Titular de la Secretaría de Administración y Finanzas, la celebración de convenios de colaboración con las Instituciones y Entidades Financieras, Empresas, Asociaciones, Sociedades, Corredurías públicas y demás agentes económicos en materia de información sobre operaciones en las que pudiera detectarse la intervención de la delincuencia organizada o que tengan por finalidad ocultar el origen ilícito de los bienes vinculados a actividades delictivas; y
+
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XXXIX. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones legales y administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
 
 ###### Artículo 30.
 
@@ -1951,6 +2003,8 @@ XVIII. Las demás que les atribuyan expresamente los ordenamientos jurídicos y 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES DE LAS UNIDADES ADMINISTRATIVAS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
 #### SECCIÓN V. DE LA SECRETARÍA DE CULTURA
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 42.
 
@@ -4066,6 +4120,44 @@ VII. Fincar las responsabilidades administrativas de carácter resarcitorio, por
 
 VIII. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
 
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2021)</small>
+
+###### Artículo 96 Bis.
+
+Corresponde a la Unidad de Inteligencia Financiera:
+
+I.- Generar, obtener, analizar y consolidar información financiera, fiscal, económica y patrimonial a través de la Unidad de Inteligencia Financiera de la Ciudad de México en colaboración y coadyuvancia con las Dependencias facultadas en relación con conductas que pudieran estar vinculadas con la comisión de delitos en materia de lavado de dinero, operación con Recursos de Procedencia Ilícita y financiamiento al terrorismo, dentro de la Ciudad de México;
+
+II.- Diseñar y establecer métodos, procedimientos y/o lineamientos para recolectar, analizar, clasificar, agrupar, categorizar y jerarquizar la información obtenida por niveles de riesgo;
+
+III.- Coordinar y establecer enlaces entre las Autoridades Administrativas, Órganos Desconcentrados, Autónomos y Organismos Auxiliares de la Administración Pública de la Ciudad de México, así como de la Administración Pública Federal y Estatal en los asuntos de su competencia, para el intercambio de información, así como negociar, celebrar e implementar acuerdos con esas instancias para el intercambio de información que sirvan como elementos para la elaboración de los reportes de inteligencia;
+
+IV.- Requerir a las Dependencias, Alcaldías, Órganos Desconcentrados, Unidades Administrativas, Entidades de la Administración Pública de la Ciudad de México, Administración Pública Estatal y Federal, información y documentación necesaria para el ejercicio de las atribuciones que se le confieren en este Reglamento, incluido los sistemas de consulta que contengan información que se genere con motivo del ejercicio de tales facultades en los términos y plazos establecidos por la propia Unidad, de conformidad con las disposiciones aplicables.
+
+V.- Proporcionar a la autoridad competente los elementos que presuman o presupongan el beneficio o incremento económico injustificado de personas vinculadas con hechos posiblemente ilícitos;
+
+VI.- Denunciar o querellarse ante el Ministerio Público y/o el Órgano Interno de Control competente de los hechos que tenga conocimiento y puedan constituir delitos y/o sanciones administrativas;
+
+VII.- Participar en los Consejos, Comités y/o Reuniones de trabajo creados con el propósito de afectar la economía de la delincuencia y en aquellos otros que sean de su competencia por disposición expresa o invitación
+
+VIII. Llevar a cabo todas las acciones correspondientes a esta Unidad de Inteligencia Financiera, que deriven de la Ley Nacional de Extinción de Dominio.
+
+IX.- Proponer el desarrollo de sistemas de información necesarios para el desarrollo de sus funciones;
+
+X.- Actualizar, explotar, analizar y consolidar la información contenida en las bases de datos con que cuentan los órganos centrales, desconcentrados y paraestatales que conforman la organización de la Administración Pública de la Ciudad de México, con el fin de generar datos estadísticos, mapas patrimoniales que identifiquen factores de riesgo, así como patrones inusuales en materia fiscal y patrimonial;
+
+XI.- Coadyuvar bajo los acuerdos que se establezcan con el Ministerio Público y/o el Órgano interno de Control competente para el acopio de información en materia de prevención y combate a los delitos de corrupción, encubrimiento, delitos cometidos por servidores públicos, delincuencia organizada, robo de vehículos, operaciones con Recursos de Procedencia Ilícita, financiamiento al terrorismo, delitos contra la salud, secuestro, extorsión, trata de personas y delitos en materia de hidrocarburos, petrolíferos y petroquímicos dentro del territorio de la Ciudad de México;
+
+XII.- Acceder a la información almacenada en las bases de datos que alberga el Sistema Nacional de Información sobre Seguridad Pública, en atención a lo establecido en el Convenio de Coordinación en el marco del Sistema Nacional de Seguridad Pública;
+
+XIII.- Impulsar los mecanismos normativos para que la Unidad de Inteligencia Financiera de la Ciudad de México acceda a los beneficios de los bienes asegurados, de los cuales se decrete su abandono o decomiso en coordinación con la Fiscalía General de Justicia de la Ciudad de México;
+
+XIV.- Proponer a su superior jerárquico, la celebración de convenios de colaboración con las Instituciones y Entidades Financieras, Empresas, Asociaciones, Sociedades, Corredurías públicas y demás agentes económicos en materia de información sobre operaciones en las que pudiera detectarse la intervención de la delincuencia organizada o que tengan por finalidad ocultar el origen ilícito de los bienes vinculados a actividades delictivas;
+
+XV.- Realizar solicitudes información y documentación sobre los depósitos, servicios y en general, operaciones que las instituciones del sistema financiero celebren con sus clientes, a la Comisión Nacional Bancaria y de Valores; Comisión Nacional de Seguros y Fianzas y la Comisión Nacional del Sistema de Ahorro para el Retiro, así como la información de naturaleza fiscal al Servicio de Administración Tributaria y las demás instancias que resulten competentes, en los términos que establezcan las disposiciones aplicables; y
+
+XVI.- Todas aquellas que sean necesarias para el ejercicio de sus funciones y las demás que le atribuyan expresamente los reglamentos y demás disposiciones legales y administrativas.
+
 ###### Artículo 97.
 
 Corresponde a la Dirección General de Administración Financiera:
@@ -4130,39 +4222,7 @@ XXIX. Las demás que le fijen expresamente las leyes y reglamentos, así como la
 
 ###### Artículo 98.
 
-Corresponde a la Unidad de Inteligencia Financiera:
-
-I. Generar, obtener, analizar y consolidar información fiscal y patrimonial para la investigación de hechos posiblemente ilícitos que generen en las personas un beneficio o incremento económico injustificable, con la finalidad de aportar la información a las autoridades competentes;
-
-II. Emitir lineamientos para agrupar y jerarquizar, por niveles de riesgo, la información que obtenga;
-
-III. Coordinar y establecer enlaces permanentes, así como los temporales que en su caso se requieran entre las diversas dependencias y entidades Federales y de la Administración Pública de la Ciudad de México, en los asuntos de su competencia, así como celebrar e implementar acuerdos con esas instancias, para el intercambio de información que sirvan como elementos para la elaboración de los reportes de inteligencia;
-
-IV. Requerir a las Dependencias, Alcaldías, Órganos Desconcentrados, Unidades Administrativas y Entidades de la Administración Pública de la Ciudad de México, que proporcionen la información y documentación necesaria para el ejercicio de las atribuciones que se le confieren en este Reglamento;
-
-V. Proporcionar a la autoridad competente los elementos que presuman o presupongan el beneficio o incremento económico injustificado de personas vinculadas con hechos posiblemente ilícitos;
-
-VI. Denunciar o querellarse ante el Ministerio Público competente de los hechos que tenga conocimiento y puedan constituir delitos;
-
-VII. Participar en los Comités Técnicos creados con el propósito de afectar la economía de la delincuencia y en aquellos otros que sean de su competencia por disposición expresa o invitación;
-
-VIII. Realizar, en el ámbito de su competencia el seguimiento y control de los procesos originados por las denuncias y querellas formuladas por la Unidad de Inteligencia Financiera de la Ciudad de México, así como de aquellas en que ésta tenga interés;
-
-IX. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como celebrar, otorgar y suscribir los contratos, convenios, escrituras públicas y demás actos jurídicos de carácter administrativo o de cualquier otra índole dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones y, en su caso, de las Unidades Administrativas que les estén adscritas, así como los que deriven de la Ley de Extinción de Dominio para la Ciudad de México;
-
-X. Informar a la Procuraduría Fiscal de la Ciudad de México, de los hechos que conozca con motivo del ejercicio de sus atribuciones, que puedan ser constitutivos de delitos fiscales;
-
-XI. Proponer el desarrollo de sistemas de información necesarios para el desarrollo de sus funciones;
-
-XII. Compilar, explotar, analizar y consolidar la información contenida en las bases de datos con que cuentan los órganos centrales, desconcentrados y paraestatales que conforman la organización de la Administración Pública de la Ciudad de México, con el fin de generar datos estadísticos, mapas patrimoniales que identifiquen factores de riesgo, así como patrones inusuales en materia fiscal y patrimonial;
-
-XIII. Coadyuvar bajo los acuerdos que se establezcan con el Ministerio Público competente para el acopio de información en materia de prevención y combate a los delitos de Operaciones con Recursos de Procedencia Ilícita y Financiamiento de Ataques a la Paz Pública dentro del territorio de la Ciudad de México;
-
-XIV. Acceder a la información almacenada en las bases de datos que alberga el Sistema Nacional de Información sobre Seguridad Pública, en atención a lo establecido en el Convenio de Coordinación en el marco del Sistema Nacional de Seguridad Pública;
-
-XV. Impulsar los mecanismos normativos para que la Unidad de Inteligencia Financiera de la Ciudad de México acceda a los beneficios de los bienes asegurados, de los cuales se decrete su abandono o decomiso en coordinación con la Procuraduría General de Justicia de la Ciudad de México; y
-
-XVII (SIC). Todas aquellas que sean necesarias para el ejercicio de sus funciones y las demás que le atribuyan expresamente los reglamentos y demás disposiciones legales y administrativas.
+(DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
@@ -4196,9 +4256,33 @@ XII. Definir y supervisar el Programa de Capacitación Informática para el pers
 
 XIII. Generar, promover, aplicar y supervisar las políticas de uso aceptable en materia de TIC a las cuales se deben alinear todas las Unidades Administrativas de la Secretaría de Administración y Finanzas;
 
-XIV. Proporcionar el soporte técnico en materia de TIC requerido por las diferentes Unidades Administrativas de la Secretaría de Administración y Finanzas; y
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
-XV. Establecer y dar seguimiento al plan de calidad para que la operación y los servicios proporcionados por la Dirección General de Tecnologías y Comunicaciones de la Secretaría de Administración y Finanzas se cumplan satisfactoriamente.
+XIV. Proporcionar el soporte técnico en materia de TIC requerido por las diferentes Unidades Administrativas de la Secretaría de Administración y Finanzas;
+
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XV. Establecer y dar seguimiento al plan de calidad para que la operación y los servicios proporcionados por la Dirección General de Tecnologías y Comunicaciones de la Secretaría de Administración y Finanzas se cumplan satisfactoriamente;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XVI. Garantizar el funcionamiento de los sistemas informáticos que permitan generar con oportunidad, los pagos de nómina para los trabajadores, así como brindar servicios vinculados con su trayectoria laboral;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XVII. Evaluar las medidas tendientes para mantener permanentemente actualizados los sistemas para la emisión de pagos del capital humano, tanto en su fase de equipo como en el sistema informático (hardware y software);
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XVIII. Garantizar la realización de respaldos y resguardos de las bases de datos en los medios adecuados;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XIX. Garantizar que se mantenga un estricto control del registro y control de los usuarios que tengan los permisos para acceder a los distintos niveles del sistema de nómina; y
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XX. Implementar las plataformas informáticas, sitios web y en general los medios de comunicación digital que permitan entregar a los usuarios, los reportes, informes y documentos digitales derivados del procesamiento de la nómina.
 
 ###### Artículo 100.
 
@@ -4334,103 +4418,11 @@ VI. Las demás que le sean conferidas por la Coordinación General de Comunicaci
 
 ###### Artículo 106.
 
-Corresponde a la Coordinación General de Evaluación, Modernización y Desarrollo Administrativo:
-
-I. Diseñar y coordinar los programas para la modernización y el desarrollo administrativo de la Administración Pública de la Ciudad de México; a través de estrategias de desarrollo organizacional, mejora de procesos y procedimientos administrativos con la participación que corresponda a las Unidades Administrativas competentes;
-
-II. Proponer, difundir y fomentar la aplicación de políticas y medidas administrativas para el desarrollo y la modernización de la organización y el funcionamiento de la Administración Pública de la Ciudad de México, sus estructuras orgánicas, manuales administrativos y demás instrumentos de actuación;
-
-III. Instrumentar medidas de seguimiento y constatar las acciones jurídicas y administrativas derivadas de los procesos de desconcentración, descentralización y actualización de la Administración Pública de la Ciudad de México;
-
-IV. Asesorar a las dependencias, órganos y entidades de la Administración Pública de la Ciudad de México en el diseño de sus estructuras orgánicas y procedimientos de trabajo, y en su caso, emitir opinión técnica;
-
-V. Dictaminar la estructura orgánica de las Dependencias, Órganos Desconcentrados, y Entidades que componen la Administración Pública Centralizada y la Paraestatal de la Ciudad de México, proponer adecuaciones a las estructuras orgánicas que deriven de actualizaciones o modificaciones al marco normativo general e integrar y mantener actualizado el registro de las estructuras orgánicas. En el caso de las Alcaldías, solamente se realizará el registro correspondiente, toda vez que el titular de la Alcaldía determinará y establecerá la estructura, integración y organización de las Unidades Administrativas de la misma, en función de las características y necesidades de su demarcación; ello en términos de lo dispuesto por la Ley Orgánica de Alcaldías de la Ciudad de México;
-
-VI. Previo a la aprobación que realicen las áreas competentes de los programas de contratación de los prestadores de servicios profesionales, con independencia de la partida de cargo, dictaminar la procedencia de los contratos con remuneración equivalente a la de servidores públicos de estructura para evitar afectaciones al contenido y alcances del dictamen de estructura orgánica correspondiente;
-
-VII. Revisar, proponer adecuaciones y en su caso emitir dictamen para el registro de los manuales administrativos, específicos de operación, y de integración de las dependencias, órganos y entidades de la Administración Pública de la Ciudad de México, comisiones, comités, institutos y cualquier otro órgano administrativo colegiado o unitario que constituya la Administración Pública de la Ciudad de México;
-
-VIII. Remitir a la Consejería Jurídica y de Servicios Legales, aquellos manuales administrativos y específicos de operación de cuya revisión determine, que las funciones que establecen, afectan la esfera jurídica de terceros, a fin de que esta los sancione previa y adicionalmente al dictamen y registro;
-
-IX. Formular y revisar los proyectos de leyes, reglamentos, decretos, acuerdos, circulares, lineamientos, reglas y demás disposiciones e instrumentos jurídicos y administrativos relativos al ámbito de su competencia que se pretendan someter a la aprobación de la persona titular de la Secretaría de Administración y Finanzas;
-
-X. Integrar y coordinar los trabajos de actualización de la normatividad en materia de Administración de Recursos, de observancia obligatoria para el adecuado funcionamiento de las Unidades Administrativas encargadas de la Administración y las Finanzas y de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
-
-XI. Apoyar a la persona titular de la Secretaría de Administración y Finanzas en la coordinación, organización, representación y seguimiento sectorial de las sesiones y acuerdos de los órganos colegiados de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México u otros en que participe o instruya en términos de las disposiciones jurídicas y administrativas aplicables;
-
-XII. Instrumentar las acciones, proponer medidas y participar acorde a las instrucciones de la persona titular de la Secretaría de Administración y Finanzas, en la conducción de las entidades paraestatales y en la elaboración de sus programas;
-
-XIII. Realizar estudios y propuestas jurídico-administrativas sobre medidas técnicas y políticas para el seguimiento sectorial, la organización interna, desarrollo administrativo, modernización de la actuación y funcionamiento de la Administración Pública de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-XIV. Coordinar la aplicación de las normas y procedimientos para la Evaluación Integral que les son aplicables a todas las personas aspirantes o servidoras públicas de la Administración Pública de la Ciudad de México, a un puesto de estructura orgánica previamente dictaminado, a los prestadores de servicios (folios mayores), cuya remuneración sea equivalente a la de las personas servidoras públicas de estructura, y en aquellos casos que se presenten con la debida justificación, mediante las siguientes etapas: verificación de perfiles, recepción documental, aplicación de pruebas, evaluación socioeconómica, evaluación psicológica;
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-XV. Coordinar las acciones y medidas necesarias para la Evaluación Integral, en el marco de las disposiciones legales, administrativas y acuerdos aplicables;
-
-XVI. (DEROGADA, G.O. 14 DE JUNIO DE 2019)
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-XVII. Coordinar programas de vinculación con instituciones públicas o privadas, que impartan capacitación en temas que promuevan el desarrollo profesional de las personas servidoras públicas, así como de las personas prestadoras de servicios profesionales, cuya remuneración sea equivalente a la de las personas servidoras públicas de estructura de la Administración Pública de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-XVIII. Validar el Dictamen del Resultado del Proceso de Evaluación Integral de las personas evaluadas;
-
-XIX. (DEROGADA, G.O. 14 DE JUNIO DE 2019)
-
-XX. (DEROGADA, G.O. 14 DE JUNIO DE 2019)
-
-XXI. (DEROGADA, G.O. 14 DE JUNIO DE 2019)
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-XXII. Promover la implementación y actualización de sistemas y herramientas informáticas que permitan realizar el proceso de la Evaluación Integral, que garantice y resguarde la información del proceso; y
-
-XXIII. (DEROGADA, G.O. 14 DE JUNIO DE 2019)
-
-XXIV. (DEROGADA, G.O. 14 DE JUNIO DE 2019)
-
-XXV. (DEROGADA, G.O. 14 DE JUNIO DE 2019)
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE OCTUBRE DE 2019)</small>
-
-XXVI. Suscribir los instrumentos jurídicos relativos al ejercicio de sus atribuciones o que le sean delegados; así como certificar, por sí o a través de sus Direcciones Ejecutivas; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 11 DE OCTUBRE DE 2019)</small>
-
-XXVII. Las demás que instruya la persona titular de la Secretaría de Administración y Finanzas, y las que se le confieran en otros instrumentos jurídicos o administrativos.
+(DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
 ###### Artículo 107.
 
-Corresponde a la Dirección Ejecutiva de Desarrollo Organizacional:
-
-I. Diseñar y coordinar los programas relativos a la modernización y el desarrollo administrativo de la Administración Pública de la Ciudad de México; mediante estrategias de desarrollo organizacional, mejora de procesos y procedimientos administrativos con la participación que corresponda a las Unidades Administrativas competentes;
-
-II. Proponer, difundir y fomentar la aplicación de políticas y medidas administrativas tendientes al desarrollo y la modernización de la organización y el funcionamiento de la Administración Pública de la Ciudad de México, sus estructuras orgánicas, manuales administrativos y demás instrumentos de actuación;
-
-III. Instrumentar medidas de seguimiento y constatar las acciones jurídicas y administrativas derivadas de los procesos de desconcentración, descentralización y actualización de la Administración Pública de la Ciudad de México;
-
-IV. Brindar asesoría a las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, en el diseño de sus estructuras orgánicas y procedimientos de trabajo, y en su caso, emitir opinión técnica;
-
-V. Dictaminar la estructura orgánica de las dependencias, órganos y entidades que componen la Administración Pública Centralizada y la Paraestatal de la Ciudad de México, proponiendo adecuaciones a las estructuras orgánicas que deriven de actualizaciones o modificaciones al marco normativo general e integrar y mantener actualizado el registro de las estructuras orgánicas.
-
-En el caso de las Alcaldías, sólo se realizará el registro que corresponda; puesto que el titular de la Alcaldía determinará y establecerá la estructura, integración y organización de las Unidades Administrativas de la misma, en función de las características y necesidades de su demarcación; en atención a lo dispuesto por la Ley Orgánica de Alcaldías de la Ciudad de México;
-
-VI. Previa aprobación que realicen las áreas competentes de los programas de contratación de los prestadores de servicios profesionales, con independencia de la partida de cargo, dictaminar la procedencia de los contratos con remuneración equivalente a la de servidores públicos de estructura para evitar afectaciones al contenido y alcances del dictamen de estructura orgánica correspondiente;
-
-VII. Revisar, proponer adecuaciones, y en su caso, emitir dictamen para el registro de los manuales administrativos y específicos de operación de dependencias, órganos y entidades de la Administración Pública de la Ciudad de México, y manuales de integración de las comisiones, comités, institutos y cualquier otro órgano administrativo colegiado o unitario que constituya la Administración Pública de la Ciudad de México;
-
-VIII. Remitir a la Consejería Jurídica y de Servicios Legales, aquellos manuales administrativos y específicos de operación de cuya revisión se determine, que las funciones que establecen, afectan la esfera jurídica de terceros, a fin de que ésta los sancione previa y adicionalmente al dictamen y registro;
-
-IX. Instrumentar las acciones, proponer medidas y participar acorde a las instrucciones que emita la persona titular de la Secretaría de Administración y Finanzas, en la conducción de las entidades paraestatales y en la elaboración de sus programas;
-
-X. Realizar estudios y propuestas jurídico-administrativas sobre medidas técnicas y políticas para el seguimiento sectorial, la organización interna, desarrollo administrativo, modernización de la actuación y funcionamiento de la Administración Pública de la Ciudad de México, y
-
-XI. Las demás que instruya la persona titular de la Coordinación General de Evaluación, Modernización y Desarrollo Administrativo, y las que se le confieran en otros instrumentos jurídicos o administrativos.
+(DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
 ###### Artículo 108.
 
@@ -4438,59 +4430,13 @@ XI. Las demás que instruya la persona titular de la Coordinación General de Ev
 
 ###### Artículo 109.
 
-Corresponde a la Dirección Ejecutiva de Evaluación y Registro Ocupacional:
+(DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
-I. (DEROGADA, G.O. 14 DE JUNIO DE 2019)
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-II. Ejecutar la aplicación de las normas y procedimientos para la Evaluación Integral que les son aplicables a todas las personas aspirantes o servidoras públicas de la Administración Pública de la Ciudad de México, a un puesto de estructura orgánica previamente dictaminado, a los prestadores de servicios (folios mayores), cuya remuneración sea equivalente a la de las personas servidoras públicas de estructura, y en aquellos casos que se presenten con la debida justificación, mediante las siguientes etapas: verificación de perfiles, recepción documental, aplicación de pruebas, evaluación socioeconómica, evaluación psicológica;
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-III. Instrumentar las acciones y medidas necesarias para la Evaluación Integral, en el marco de las disposiciones legales, administrativas y acuerdos aplicables.
-
-IV. (DEROGADA, G.O. 14 DE JUNIO DE 2019)
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-V. Promover programas de vinculación con instituciones públicas o privadas, que impartan capacitación en temas que promuevan el desarrollo profesional de las personas servidoras públicas, así como de las personas prestadoras de servicios profesionales, cuya remuneración sea equivalente a la de las personas servidoras públicas de estructura derivado de las recomendaciones emitidas en el resultado de la Evaluación Integral.
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-VI. Elaborar el Dictamen del Resultado del Proceso de Evaluación Integral de las personas evaluadas.
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-VII. Informar a la Unidad Administrativa competente respecto a la pertinencia de la contratación, con base en los resultados de las pruebas aplicadas.
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-VIII. Identificar factores psicológicos, familiares, sociales, educativos, laborales y económicos de las personas servidoras públicas y aspirantes a ocupar cargos en la Administración Pública de la Ciudad de México, que puedan implicar conductas no deseables y factores de riesgo en el desempeño.
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-IX. Evaluar el cumplimiento del perfil de puesto, ético, competencial y psicológico necesarios para la realización de las funciones encomendadas.
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-X. Implementar y actualizar los sistemas y herramientas informáticas que permitan realizar el proceso de la Evaluación Integral, que garantice y resguarde la información del proceso.
-
-XI. (DEROGADA, G.O. 14 DE JUNIO DE 2019)
-
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2019)</small>
-
-XII. Comunicar a las Unidades u Órganos de la Administración Pública de la Ciudad de México encargados de la capacitación, las recomendaciones para integrar programas de capacitación que coadyuven a solventar las observaciones derivadas de la Evaluación Integral, a fin de fomentar el Desarrollo Profesional de las personas servidoras públicas, así como a las personas prestadoras de servicios (folios mayores), cuya remuneración sea equivalente a la de las personas servidoras públicas de estructura bajo los principios de legalidad, transparencia, confiabilidad, responsabilidad y rendición de cuentas.
-
-XIII. (DEROGADA, G.O. 14 DE JUNIO DE 2019)
-
-XIV. Las demás que instruya la persona titular de la Coordinación General de Evaluación, Modernización y Desarrollo Administrativo, y las que se le confieran en otros instrumentos jurídicos o administrativos.
-
-> <small>(REFORMADO, G.O. 11 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 110.
 
-Corresponde a la Dirección General de Administración de Personal:
+Corresponde a la Dirección General de Administración de Personal y Desarrollo Administrativo:
 
 I. Emitir las normas y disposiciones, así como la interpretación de las leyes en la materia, que permitan a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, obtener una administración eficaz y eficiente de su capital humano;
 
@@ -4500,7 +4446,7 @@ III. Implementar la política salarial, las prestaciones sociales y económicas 
 
 IV. Implementar las acciones necesarias y suficientes que permitan que los sueldos y demás prestaciones del capital humano al servicio de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, se realice de manera oportuna a través de medios electrónicos y en apego a los calendarios establecidos, así como a las disposiciones vigentes relativas a la materia;
 
-V. Innovar mediante el uso y aprovechamiento de nuevas Tecnologías de la Información y Comunicación (TICs), los procesos de selección, ingreso y administración, inherentes al capital humano de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
+V. Procurar el uso y aprovechamiento de nuevas Tecnologías de la Información y Comunicación (TICs), los procesos de selección, ingreso y administración, inherentes al capital humano de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, en coordinación con las autoridades competentes;
 
 VI. Dirigir el proceso de estimación y seguimiento a la programación, asignación y ejercicio de recursos presupuestales destinados al capítulo de servicios personales de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
 
@@ -4512,15 +4458,9 @@ IX. Dictaminar la imposición, reducción o revocación de las sanciones que pre
 
 X. Supervisar la difusión y el cumplimiento de la normatividad laboral en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
-
 XI. Acordar las normas para la formación profesional y continua, el desarrollo laboral y personal, a través de diversas modalidades educativas, del capital humano adscrito a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
-
-XII. Supervisar el diseño e implementación del Sistema Escalafonario como un sistema de movilidad laboral ascendente de forma transparente y equitativo, en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
-
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
+XII. Supervisar el diseño e implementación del Sistema Escalafonario como un sistema de movilidad laboral ascendente de forma transparente y equitativa, en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
 
 XIII. Supervisar la operación de las prestaciones sociales y económicas en materia educativa y de estímulos y recompensas del capital humano y/o sus beneficiarios;
 
@@ -4528,9 +4468,9 @@ XIV. Coordinar la implementación de la cultura laboral a través de disposicion
 
 XV. Vigilar la operatividad de los Programas de Servicio Social y Prácticas Profesionales en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para la implementación de un sistema de empleabilidad del Gobierno de la Ciudad de México;
 
-XVI. Asumir la representación de la Secretaría de Administración y Finanzas del Gobierno de la Ciudad de México ante las autoridades fiscales federales y locales para la presentación de avisos, declaraciones, manifestaciones y en general los actos y actividades tendientes a cumplir centralmente con las obligaciones fiscales a cargo de las dependencias, alcaldías, órganos desconcentrados y entidades del Gobierno de la Ciudad de México;
+XVI. Asumir la representación de la Secretaría de Administración y Finanzas del Gobierno de la Ciudad de México ante las autoridades fiscales federales y locales para la presentación de avisos, declaraciones, manifestaciones y en general los actos y actividades tendientes a cumplir centralmente con las obligaciones fiscales a cargo de las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades del Gobierno de la Ciudad de México;
 
-XVII. Coordinar la administración, operación y control del Sistema Único de Nómina, mediante el cual se realizarán los registros y publicación de la Nómina de Pago, del Capital Humano de las Dependencias, Unidades Administrativas; Órganos Desconcentrados, Alcaldías y Entidades que usan el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, así como la administración del Sistema Integral de Comprobantes Fiscales Electrónicos (SICFE), el cual servirá para cumplir con las disposiciones fiscales federales, en materia de facturas electrónicas y recibos de nómina digital;
+XVII. Coordinar la administración, operación y control del Sistema Único de Nómina, mediante el cual se realizarán los registros y publicación de la Nómina de Pago, del Capital Humano de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades que usan el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, así como la administración del Sistema Integral de Comprobantes Fiscales Electrónicos (SICFE), el cual servirá para cumplir con las disposiciones fiscales federales, en materia de facturas electrónicas y recibos de nómina digital;
 
 XVIII. Supervisar la correcta implementación de las disposiciones fiscales federales y locales para el oportuno cumplimiento de las obligaciones patronales, así como de la tramitación y pago de cuotas sindicales;
 
@@ -4544,31 +4484,41 @@ XXII. Suscribir convenios que faciliten el acceso a bienes y servicios para el m
 
 XXIII. Suscribir los instrumentos jurídicos relativos al ejercicio de sus atribuciones o que le sean delegados; así como certificar, por sí o a través de sus Direcciones Ejecutivas;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
-
 XXIV. Establecer la política que regule el ejercicio de los servicios de traslado, viáticos y demás erogaciones relacionadas con las comisiones oficiales nacionales e internacionales de las que sean parte las Dependencias, Órganos Desconcentrados, y Entidades de la Administración Pública de la Ciudad de México;
-
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2020)</small>
 
 XXV. Participar con las instancias competentes, en la planeación de medidas tendientes a garantizar dentro de la Secretaría de Administración y Finanzas la igualdad sustantiva entre hombres y mujeres, así como la erradicación, prevención y sanción de la violencia contra las mujeres;
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2020)</small>
+XXVI. Coordinar, dirigir e instrumentar, en el ámbito de sus atribuciones, acciones para promover y garantizar al interior de la Secretaría de Administración y Finanzas la igualdad sustantiva entre mujeres y hombres, así como en la prevención, investigación y sanción de conductas relacionadas con la violencia contra las mujeres;
 
-XXVI. Coordinar, dirigir e instrumentar, en el ámbito de sus atribuciones, acciones para promover y garantizar al interior de la Secretaría de Administración y Finanzas la igualdad sustantiva entre mujeres y hombres, así como en la prevención, investigación y sanción de conductas relacionadas con la violencia contra las mujeres; y
+XXVII. Coordinar la aplicación de las normas y procedimientos para la Evaluación Integral que les son aplicables a todas las personas aspirantes o servidoras públicas de la Administración Pública de la Ciudad de México, a un puesto de estructura orgánica previamente dictaminado, a los prestadores de servicios (folios mayores), cuya remuneración sea equivalente a la de las personas servidoras públicas de estructura, y en aquellos casos que se presenten con la debida justificación, mediante las siguientes etapas: verificación de perfiles, recepción documental, aplicación de pruebas, evaluación socioeconómica, evaluación psicológica;
 
-XXVII. Las demás que le sean conferidas por la Secretaría de Administración y Finanzas, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos y/o administrativos.
+XXVIII. Coordinar las acciones y medidas necesarias para la Evaluación Integral, en el marco de las disposiciones legales, administrativas y acuerdos aplicables;
 
-> <small>(REFORMADO, G.O. 11 DE OCTUBRE DE 2019)</small>
+XXIX. Coordinar programas de vinculación con instituciones públicas o privadas, que impartan capacitación en temas que promuevan el desarrollo profesional de las personas servidoras públicas, así como de las personas prestadoras de servicios profesionales, cuya remuneración sea equivalente a la de las personas servidoras públicas de estructura de la Administración Pública de la Ciudad de México;
+
+XXX. Validar el Dictamen del Resultado del Proceso de Evaluación Integral de las personas evaluadas;
+
+XXXI. Promover la implementación y actualización de sistemas y herramientas informáticas que permitan realizar el proceso de la Evaluación Integral, que garantice y resguarde la información del proceso;
+
+XXXII. Coordinar las políticas aplicables a la aprobación de los programas de contratación de los prestadores de servicios profesionales, con independencia de la partida de cargo, así como a la dictaminación de la procedencia de los contratos con remuneración equivalente a la de servidores públicos de estructura para evitar afectaciones al contenido y alcances del dictamen de estructura orgánica correspondiente;
+
+XXXIII. Coordinar las políticas aplicables al desarrollo y la modernización de la organización y el funcionamiento de la Administración Pública de la Ciudad de México, sus estructuras orgánicas, manuales administrativos y demás instrumentos de actuación;
+
+XXXIV. Coordinar los trabajos de actualización de la normatividad en materia de Administración de Recursos, de observancia obligatoria para el adecuado funcionamiento de las Unidades Administrativas encargadas de la Administración y las Finanzas y de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México; y
+
+XXXV. Las demás que le sean conferidas por la Secretaría de Administración y Finanzas, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos y/o administrativos.
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 111.
 
-Corresponde a la Dirección Ejecutiva de Administración de Personal y Uninómina:
+Corresponde a la Dirección Ejecutiva de Administración de Personal:
 
 I. Autorizar y evaluar la organización de las plazas y puestos de trabajo de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, en función del grado de sistematización de sus procesos y naturaleza de los bienes y servicios que ofrecen a la ciudadanía;
 
-II. Promover y garantizar bajo una perspectiva de equidad, respeto a los derechos humanos y a la diversidad, la igualdad de oportunidades y condiciones, de bienestar y estabilidad laboral del capital humano de las dependencias, Unidades Administrativas, órganos desconcentrados, alcaldías y entidades;
+II. Promover y garantizar bajo una perspectiva de equidad, respeto a los derechos humanos y a la diversidad, la igualdad de oportunidades y condiciones, de bienestar y estabilidad laboral del capital humano de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
 
-III. Proponer para su autorización los niveles del sueldo tabular, la determinación del catálogo de puestos, los descriptivos de las percepciones y deducciones de las dependencias, Unidades Administrativas, órganos desconcentrados, alcaldías y entidades, que se incorporaran en el Sistema Único de Nómina;
+III. Proponer para su autorización los niveles del sueldo tabular, la determinación del catálogo de puestos, los descriptivos de las percepciones y deducciones de las Dependencias, Unidades Administrativas, órganos desconcentrados, alcaldías y entidades, que se incorporaran en el Sistema Único de Nómina;
 
 IV. Proponer para su autorización la política en materia de sueldos que deberán observar las dependencias, unidades administrativas, órganos desconcentrados, alcaldías y entidades, tomando en consideración la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
@@ -4576,9 +4526,9 @@ V. Emitir para su autorización el acuerdo de los nombramientos del capital huma
 
 VI. Asegurar y dar seguimiento al cumplimiento oportuno de las prestaciones del capital humano de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, consignadas en leyes, contratos y demás normatividad relativa, promoviendo la autogestión a través de las plataformas digitales y aplicaciones tecnológicas que se incorporen al Sistema Único de Nomina;
 
-VII. Evaluar y autorizar las solicitudes que presenten las dependencias, unidades administrativas, órganos desconcentrados y alcaldías, para formalizar contratos de prestación de servicios personales; debiendo hacer uso de las herramientas tecnológicas dispuestas para este fin, tomando en consideración la especificidad de los servicios que se proporcionaran, el origen de los recursos y los montos autorizados en el presupuesto de egresos;
+VII. Evaluar y autorizar las solicitudes que presenten las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Alcaldías, para formalizar contratos de prestación de servicios personales; debiendo hacer uso de las herramientas tecnológicas dispuestas para este fin, tomando en consideración la especificidad de los servicios que se proporcionaran, el origen de los recursos y los montos autorizados en el presupuesto de egresos;
 
-VIII. Proponer las normas, disposiciones y sistemas de información electrónicos que se observaran en la instrumentación, operación, seguimiento y evaluación de los fondos, seguros, sistemas de ahorro y demás conceptos de previsión social constituidos directamente por el Gobierno de la Ciudad de México a través de las dependencias, unidades administrativas, órganos desconcentrados y alcaldías;
+VIII. Proponer las normas, disposiciones y sistemas de información electrónicos que se observaran en la instrumentación, operación, seguimiento y evaluación de los fondos, seguros, sistemas de ahorro y demás conceptos de previsión social constituidos directamente por el Gobierno de la Ciudad de México a través de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Alcaldías;
 
 IX. Proponer las disposiciones que deberán observar las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para la integración, actualización y resguardo del sumario histórico laboral electrónico del capital humano;
 
@@ -4590,7 +4540,7 @@ XII. Acordar con su superior jerárquico el despacho de los asuntos a su cargo;
 
 XIII. Aplicar los lineamientos, políticas, reglas de operación, descriptivos de conceptos nominales y demás instrumentos normativos para la operación, administración y control de los sistemas informáticos a través del cual se registrará y procesará los pagos de sueldos y prestaciones del capital humano, adscrito a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
 
-XIV. Implementar, operar y administrar las plataformas informáticas, sitios web y en general los medios de comunicación digital que permitan entregar a los usuarios, los reportes, informes y documentos digitales derivados del procesamiento de la nómina;
+XIV. Operar y administrar las plataformas informáticas, sitios web y en general los medios de comunicación digital que permitan entregar a los usuarios, los reportes, informes y documentos digitales derivados del procesamiento de la nómina;
 
 XV. Aplicar las disposiciones fiscales para cumplir con las obligaciones de entero de Cuotas y Aportaciones de Seguridad Social, Impuesto Sobre Nóminas, retenciones del Impuesto Sobre la Renta, Impuesto al Valor Agregado y demás compromisos fiscales derivados de la relación laboral, de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades que utilizan el Registro Federal de Contribuyentes del área central;
 
@@ -4602,65 +4552,79 @@ XVIII. Implementar, operar y administrar en coordinación con la Subsecretaría 
 
 XIX. Supervisar la operación, administración y actualización del Sistema Integral de Comprobantes Fiscales Electrónicos, SICFE, mismo que deben utilizar las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para cumplir con las disposiciones fiscales federales en materia de facturas electrónicas y recibos de nómina digital;
 
-XX. Cumplir con las obligaciones derivadas de la designación de la persona titular de la Dirección General de Administración de Personal como representante legal del Gobierno de la Ciudad de México, ante los Organismos Fiscales Federales y Locales;
+XX. Cumplir con las obligaciones derivadas de la designación de la persona titular de la Dirección General de Administración de Personal y Desarrollo Administrativo como representante legal del Gobierno de la Ciudad de México, ante los Organismos Fiscales Federales y Locales; y
 
-XXI. Implementar, coordinar y dirigir la realización de estudios que permitan detectar las competencias requeridas por el Capital Humano que labora en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para realizar las actividades asignadas a su puesto de trabajo, considerando la innovación y la sustentabilidad, como ejes transversales de los procesos para los proyectos derivados de los programas estratégicos generales y sectoriales;
+XXI. Las demás que le sean conferidas por la Dirección General de Administración de Personal y Desarrollo Administrativo, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos de la legislación local o federal.
 
-XXII. Normar, implementar, dar seguimiento y evaluar el Sistema de Formación Continua, en distintas modalidades, en la Administración Pública de la Ciudad de México, considerando al capital humano técnico-operativo y de estructura, a fin de promover su crecimiento, desarrollo y promoción, en coadyuvancia con las demás Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades y coadyuvar en la colaboración de los convenios de colaboración en esta materia con instituciones educativas públicas y/o privadas para su ejecución;
-
-XXIII. Normar, autorizar y supervisar los Programas de Capacitación, Servicio Social, Prácticas Profesionales y Educación Abierta y a Distancia del capital humano de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para la construcción de un Sistema de Formación continua del Gobierno de la Ciudad de México;
-
-XXIV. Coadyuvar en la celebración (sic) convenios de vinculación con instituciones educativas nacionales y/o extranjeras, públicas y/o privadas para fomentar la captación de capital humano para la realización del servicio social y prácticas profesionales en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
-
-XXV. Impulsar la generación del conocimiento a través de la implementación de programas especiales que mejoren el desarrollo laboral, humano y profesional del capital humano del Gobierno de la Ciudad de México;
-
-XXVI. Dirigir, normar y supervisar el diseño, la implementación y la evaluación de los cursos de inducción relativos a la organización, estructuración y relación laboral, al capital humano de nuevo ingreso que vaya a ocupar plaza de base o estabilidad laboral en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
-
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
-
-XXVII. Coadyuvar en la movilidad laboral y profesional ascendente del capital humano a través del Sistema Escalafonario, mediante la emisión de dictámenes en materia de formación continua y capacitación;
-
-XXVIII. Normar e implementar la cultura laboral de las y los trabajadores de la Administración Pública de la Ciudad de México mediante acciones y herramientas que permitan realizar acciones afirmativas a favor de los grupos en situación de vulnerabilidad del capital humano, generando la eficacia y eficiencia de la Administración Pública de la Ciudad de México;
-
-XXIX. Implementar, dirigir y normar las prestaciones sociales y económicas que se le otorgan a las y los hijos de las y los trabajadores de base sindicalizados del Gobierno de la Ciudad de México, así como lo relacionado a estímulos y recompensas del capital humano a través de plataformas digitales;
-
-XXX. Regular la organización, administración y funcionamiento de los Centros de Atención y Cuidado Infantil (CACI) de la Secretaría de Administración y Finanzas, en coadyuvancia con la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
-
-XXXI. Normar y vigilar el funcionamiento, así como la operación de los Centros de Atención y Cuidado Infantil (CACI) de las Alcaldías del Gobierno de la Ciudad de México;
-
-XXXII. Proponer la suscripción de los documentos relativos al ejercicio de sus atribuciones;
-
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
-
-XXXIII. Dar seguimiento a los procedimientos en materia de Derechos Humanos, promover y realizar las acciones de coordinación para su atención, acorde al ámbito de su competencia y conforme a las directrices de la Secretaría de Administración y Finanzas;
-
-XXXIV. Participar como enlace ante las instancias competitivas en materia de derechos humanos y en su caso celebrar acuerdos o convenios para promoción y capacitación en derechos humanos;
-
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
-
-XXXV. Instrumentar las acciones necesarias para la atención de requerimientos y programas que se implementen en materia de derechos humanos, formación continua, capacitación e igualdad sustantiva, vinculadas a la operación de la Secretaría de Administración y Finanzas;
-
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2020)</small>
-
-XXXVI. Coordinar en el ámbito de sus atribuciones, las acciones que atiendan y promuevan la igualdad sustantiva entre mujeres y hombres, y la erradicación, prevención y sanción de la violencia contra las mujeres al interior de la Secretaria de Administración y Finanzas;
-
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2020)</small>
-
-XXXVII. Participar y colaborar en el ámbito de sus atribuciones con las instancias competentes, en el diseño de políticas y acciones, para promover y garantizar al interior de la Secretaría de Administración y Finanzas la igualdad sustantiva entre mujeres y hombres, así como la erradicación de conductas relacionadas con la violencia contra las mujeres al interior de dicha Secretaría;
-
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2020)</small>
-
-XXXVIII. Elaborar y aplicar en coordinación con las instancias competentes, herramientas metodológicas y procedimientos para el seguimiento y evaluación de las acciones institucionales realizadas para garantizar la igualdad sustantiva entre mujeres y hombres, así como la erradicación de conductas relacionadas con la violencia contra las mujeres al interior de la Secretaría; y
-
-(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XXXVII], G.O. 31 DE ENERO DE 2020)
-
-XXXIX. Las demás que le sean conferidas por la Dirección General de Administración de Personal, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos de la legislación local o federal.
-
-> <small>(REFORMADO, G.O. 11 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 112.
 
-Corresponde a la Dirección Ejecutiva de Política y Relaciones Laborales:
+Corresponde a la Dirección Ejecutiva de Desarrollo de Personal y Derechos Humanos:
+
+I. Implementar, coordinar y dirigir la realización de estudios que permitan detectar las competencias requeridas por el Capital Humano que labora en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para realizar las actividades asignadas a su puesto de trabajo, considerando la innovación y la sustentabilidad, como ejes transversales de los procesos para los proyectos derivados de los programas estratégicos generales y sectoriales;
+
+II. Normar, implementar, dar seguimiento y evaluar el Sistema de Formación Continua, en distintas modalidades, en la Administración Pública de la Ciudad de México, considerando al capital humano técnico-operativo y de estructura, a fin de promover su crecimiento, desarrollo y promoción, en coadyuvancia con las demás Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades y coadyuvar en la colaboración de los convenios de colaboración en esta materia con instituciones educativas públicas y/o privadas para su ejecución;
+
+III. Normar, autorizar y supervisar los Programas de Capacitación, Servicio Social, Prácticas Profesionales y Educación Abierta y a Distancia del capital humano de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para la construcción de un Sistema de Formación continua del Gobierno de la Ciudad de México;
+
+IV. Diseñar e implementar programas de capacitación genérica, en las modalidades: presencial, semipresencial, a distancia y en línea, de acuerdo con las necesidades y demandas del capital humano de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para coadyuvar en el fortalecimiento del Sistema de Formación continua del Gobierno de la Ciudad de México.
+
+V. Coadyuvar en la celebración convenios de vinculación con instituciones educativas nacionales y/o extranjeras, públicas y/o privadas para fomentar la captación de capital humano para la realización del servicio social y prácticas profesionales en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
+
+VI. Impulsar la generación del conocimiento a través de la implementación de programas especiales que mejoren el desarrollo laboral, humano y profesional del capital humano del Gobierno de la Ciudad de México;
+
+VII. Dirigir, normar y supervisar el diseño, la implementación y la evaluación de los cursos de inducción relativos a la organización, estructuración y relación laboral, al capital humano de nuevo ingreso que vaya a ocupar plaza de base o estabilidad laboral en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
+
+VIII. Coadyuvar en la movilidad laboral y profesional ascendente del capital humano a través del Sistema Escalafonario, mediante la emisión de dictámenes en materia de formación continua y capacitación;
+
+IX. Normar e implementar la cultura laboral de las y los trabajadores de la Administración Pública de la Ciudad de México mediante acciones y herramientas que permitan realizar acciones afirmativas a favor de los grupos en situación de vulnerabilidad del capital humano, generando la eficacia y eficiencia de la Administración Pública de la Ciudad de México;
+
+X. Implementar, dirigir y normar las prestaciones sociales y económicas que se le otorgan a las y los hijos de las y los trabajadores de base sindicalizados del Gobierno de la Ciudad de México, así como lo relacionado a estímulos y recompensas del capital humano a través de plataformas digitales;
+
+XI. Regular la organización, administración y funcionamiento de los Centros de Atención y Cuidado Infantil (CACI) de la Secretaría de Administración y Finanzas, en coadyuvancia con la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
+
+XII. Normar y vigilar el funcionamiento, así como la operación de los Centros de Atención y Cuidado Infantil (CACI) de las Alcaldías del Gobierno de la Ciudad de México;
+
+XIII. Proponer la suscripción de los documentos relativos al ejercicio de sus atribuciones;
+
+XIV. Dar seguimiento a los procedimientos en materia de Derechos Humanos, promover y realizar las acciones de coordinación para su atención, acorde al ámbito de su competencia y conforme a las directrices de la Secretaría de Administración y Finanzas;
+
+XV. Participar como enlace ante las instancias competitivas en materia de derechos humanos y en su caso celebrar acuerdos o convenios para promoción y capacitación en derechos humanos;
+
+XVI. Instrumentar las acciones necesarias para la atención de requerimientos y programas que se implementen en materia de derechos humanos, formación continua, capacitación e igualdad sustantiva, vinculadas a la operación de la Secretaría de Administración y Finanzas;
+
+XVII. Coordinar en el ámbito de sus atribuciones, las acciones que atiendan y promuevan la igualdad sustantiva entre mujeres y hombres, la transversalización de la perspectiva de género, y la erradicación, prevención y sanción de la violencia contra las mujeres al interior de la Secretaria de Administración y Finanzas;
+
+XVIII. Participar y colaborar en el ámbito de sus atribuciones con las instancias competentes, en el diseño de políticas y acciones, para promover y garantizar al interior de la Secretaría de Administración y Finanzas la igualdad sustantiva entre mujeres y hombres, así como la erradicación de conductas relacionadas con la violencia contra las mujeres al interior de dicha Secretaría;
+
+XIX. Elaborar y aplicar en coordinación con las instancias competentes, herramientas metodológicas y procedimientos para el seguimiento y evaluación de las acciones institucionales realizadas para garantizar la igualdad sustantiva entre mujeres y hombres, así como la erradicación de conductas relacionadas con la violencia contra las mujeres al interior de la Secretaría;
+
+XX. Ejecutar la aplicación de las normas y procedimientos para la Evaluación Integral que les son aplicables a todas las personas aspirantes o servidoras públicas de la Administración Pública de la Ciudad de México, a un puesto de estructura orgánica previamente dictaminado, a los prestadores de servicios (folios mayores), cuya remuneración sea equivalente a la de las personas servidoras públicas de estructura, y en aquellos casos que se presenten con la debida justificación, mediante las siguientes etapas: verificación de perfiles, recepción documental, aplicación de pruebas, evaluación socioeconómica, así como evaluación psicológica;
+
+XXI. Instrumentar las acciones y medidas necesarias para la Evaluación Integral, en el marco de las disposiciones legales, administrativas y acuerdos aplicables;
+
+XXII. Promover programas de vinculación con instituciones públicas o privadas, que impartan capacitación en temas que promuevan el desarrollo profesional de las personas servidoras públicas, así como de las personas prestadoras de servicios profesionales, cuya remuneración sea equivalente a la de las personas servidoras públicas de estructura derivado de las recomendaciones emitidas en el resultado de la Evaluación Integral;
+
+XXIII. Elaborar el Dictamen del Resultado del Proceso de Evaluación Integral de las personas evaluadas;
+
+XXIV. Informar a la Unidad Administrativa competente respecto a la pertinencia de la contratación, con base en los resultados de las pruebas aplicadas;
+
+XXV. Identificar factores psicológicos, familiares, sociales, educativos, laborales y económicos de las personas servidoras públicas y aspirantes a ocupar cargos en la Administración Pública de la Ciudad de México, que puedan implicar conductas no deseables y factores de riesgo en el desempeño;
+
+XXVI. Evaluar el cumplimiento del perfil de puesto, ético, competencial y psicológico necesarios para la realización de las funciones encomendadas;
+
+XXVII. Implementar y actualizar los sistemas y herramientas informáticas que permitan realizar el proceso de la Evaluación Integral, que garantice y resguarde la información del proceso;
+
+XXVIII. Comunicar a las Unidades u Órganos de la Administración Pública de la Ciudad de México encargados de la capacitación, las recomendaciones para integrar programas de capacitación que coadyuven a solventar las observaciones derivadas de la Evaluación Integral, a fin de fomentar el Desarrollo Profesional de las personas servidoras públicas, así como a las personas prestadoras de servicios (folios mayores), cuya remuneración sea equivalente a la de las personas servidoras públicas de estructura, bajo los principios de legalidad, transparencia, confiabilidad, responsabilidad y rendición de cuentas; y
+
+XXIX. Las demás que instruya la persona titular de la Dirección General de Administración de Personal y Desarrollo Administrativo, y las que se le confieran en otros instrumentos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2021)</small>
+
+###### Artículo 112 Bis.
+
+Corresponde a Dirección Ejecutiva de Política y Relaciones Laborales:
 
 I. Emitir normas, lineamientos y asesorar a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública, en materia de relaciones laborales;
 
@@ -4668,7 +4632,7 @@ II. Establecer mecanismos que aseguren, en el ámbito de sus atribuciones, la in
 
 III. Establecer mecanismos de mejora regulatoria en materia laboral, que permitan identificar necesidades de normatividad en los diferentes procesos de la administración en la materia, mejorar el acervo normativo e implementar acciones con el apoyo de tecnologías de la información de simplificación administrativa para contar con un gobierno eficaz, digital y transparente;
 
-IV. Dirigir las relaciones laborales y atender los asuntos referentes al capital humano al servicio de la Administración Pública, con base en las disposiciones constitucionales y legales aplicables, conforme lo disponga la persona titular de la Jefatura de Gobierno y de la Secretaría de Administración y Finanzas;
+IV. Coordinar las relaciones laborales y atender los asuntos referentes al capital humano al servicio de la Administración Pública, con base en las disposiciones constitucionales y legales aplicables, conforme lo disponga la persona titular de la Jefatura de Gobierno y de la Secretaría de Administración y Finanzas;
 
 V. Atender los asuntos referentes a la instrumentación, aplicación, operación y supervisión de las Condiciones Generales de Trabajo y los Contratos Colectivos de Trabajo;
 
@@ -4680,7 +4644,7 @@ VIII. Establecer los mecanismos con las instituciones públicas y privadas, para
 
 IX. Participar en el desarrollo, operación, actualización y difusión, con el apoyo de las dependencias, unidades administrativas, órganos desconcentrados y alcaldías, en la prevención de riesgos de la seguridad e integridad de los trabajadores en sus centros de trabajo;
 
-X. Implementar un Sistema de Gestión, Seguridad y Salud en el Trabajo, garantizando la integración y funcionamiento de la Comisión Central y de las demás Comisiones de Seguridad y Salud en el Trabajo del Gobierno de la Ciudad de México, así como el seguimiento de las incidencias detectadas en las verificaciones hasta su conclusión;
+X. Implementar un Sistema de Gestión, Seguridad y Salud en el Trabajo, garantizando la integración y funcionamiento de la Comisión Central y de las demás Comisiones de Seguridad y Salud en el Trabajo del Gobierno de la Ciudad de México, así como el seguimiento de las incidencias detectadas en las verificaciones efectuadas por las Unidades Administrativas hasta su atención;
 
 XI. Diseñar, promover, difundir, ejecutar y evaluar una cultura de prevención de accidentes y enfermedades, a través de programas y campañas de sensibilización, centrada en la promoción del concepto de Seguridad y Salud en el Trabajo, para garantizar el derecho de los trabajadores a un medio ambiente de trabajo seguro y saludable;
 
@@ -4690,9 +4654,39 @@ XIII. Desarrollar e implementar sistemas de validación de funciones que coadyuv
 
 XIV. Proponer la suscripción de los documentos relativos al ejercicio de sus atribuciones;
 
-XV. Dirigir normar y supervisar la movilidad laboral y profesional ascendente del capital humano a través del sistema escalafonario; y
+XV. Dirigir, normar y supervisar la movilidad laboral y profesional ascendente del capital humano a través del sistema escalafonario; y
 
-XVI. Las demás que le sean conferidas por la Dirección General de Administración de Personal, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos de la legislación local o federal.
+XVI. Las demás que le sean conferidas por la Dirección General de Administración de Personal y Desarrollo Administrativo, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos de la legislación local o federal.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2021)</small>
+
+###### Artículo 112 Ter.
+
+Corresponde a la Dirección Ejecutiva de Dictaminación y Procedimientos Organizacionales:
+
+I. Diseñar y coordinar los programas para el mejoramiento y el desarrollo administrativo de la Administración Pública de la Ciudad de México; a través de estrategias de desarrollo organizacional, mejora de procesos y procedimientos administrativos con la participación que corresponda a las Unidades Administrativas competentes;
+
+II. Proponer, difundir y fomentar la aplicación de políticas y medidas administrativas para el desarrollo y el mejoramiento de la organización y el funcionamiento de la Administración Pública de la Ciudad de México, sus estructuras orgánicas, manuales administrativos y demás instrumentos de actuación;
+
+III. Instrumentar medidas de seguimiento y constatar las acciones jurídicas y administrativas derivadas de los procesos de desconcentración, descentralización y actualización de la Administración Pública de la Ciudad de México;
+
+IV. Dirigir la asesoría a las dependencias, órganos y entidades de la Administración Pública de la Ciudad de México en el diseño de sus estructuras orgánicas y procedimientos de trabajo;
+
+V. Dictaminar la estructura orgánica de las Dependencias, Órganos Desconcentrados, y Entidades que componen la Administración Pública Centralizada y la Paraestatal de la Ciudad de México, proponer adecuaciones a las estructuras orgánicas que deriven de actualizaciones o modificaciones al marco normativo general e integrar y mantener actualizado el registro de las estructuras orgánicas. En el caso de las Alcaldías, solamente se realizará el registro correspondiente, toda vez que la persona titular de la Alcaldía determinará y establecerá la estructura, integración y organización de las Unidades Administrativas de la misma, en función de las características y necesidades de su demarcación; ello en términos de lo dispuesto por la Ley Orgánica de Alcaldías de la Ciudad de México;
+
+VI. Previo a la aprobación que realicen las áreas competentes de los programas de contratación de los prestadores de servicios profesionales, con independencia de la partida de cargo, dictaminar la procedencia de los contratos con remuneración equivalente a la de servidores públicos de estructura para evitar afectaciones al contenido y alcances del dictamen de estructura orgánica correspondiente;
+
+VII. Emitir dictamen para el registro de los manuales administrativos, específicos de operación, y de integración de las dependencias, órganos y entidades de la Administración Pública de la Ciudad de México, comisiones, comités, institutos y cualquier otro órgano administrativo colegiado o unitario que constituya la Administración Pública de la Ciudad de México;
+
+VIII. Remitir a la Consejería Jurídica y de Servicios Legales, aquellos manuales administrativos y específicos de operación de cuya revisión se determine que las funciones afectan la esfera jurídica de terceros, a fin de que esta los sancione previo al dictamen y registro;
+
+IX. Formular y revisar los proyectos de leyes, reglamentos, decretos, acuerdos, circulares, lineamientos, reglas y demás disposiciones e instrumentos jurídicos y administrativos relativos al ámbito de su competencia que se pretendan someter a la aprobación de la persona titular de la Dirección General de Administración de Personal y Desarrollo Administrativo;
+
+X. Suscribir los instrumentos jurídicos relativos al ejercicio de sus atribuciones o que le sean delegados;
+
+XI. Apoyar a la persona titular de la Secretaría de Administración y Finanzas en la coordinación, organización, representación y seguimiento sectorial de las sesiones y acuerdos de los órganos colegiados de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México u otros en que participe o instruya en términos de las disposiciones jurídicas y administrativas aplicables; y
+
+XII. Las demás que instruya la persona titular de la Dirección General de Administración de Personal y Desarrollo Administrativo, y las que se le confieran en otros instrumentos jurídicos o administrativos.
 
 ###### Artículo 113.
 
@@ -5748,73 +5742,49 @@ XXXVII. Las demás que le instruya la persona titular de la Secretaría de la Co
 
 #### SECCIÓN X. DE LA SECRETARÍA DE INCLUSIÓN Y BIENESTAR SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 137.
 
-Corresponde a la Coordinación Ejecutiva de Asuntos Especiales y Asesoría Cultural:
+Corresponde a la Dirección Ejecutiva de Gestión Institucional y Cooperación Cultural:
 
-I. Analizar y evaluar los documentos que se sometan a consideración de la persona Titular de la Secretaría de Cultura para su planeación estratégica;
+I. Coordinar las acciones en materia de planeación estratégica de la política pública que se sometan a consideración de la persona Titular de la Secretaría de Cultura;
 
-II. Impulsar y participar en la planeación y definición de la política cultural, así como su instrumentación con la finalidad de lograr la divulgación, promoción y fomento de la cultura, así como la defensa de los derechos culturales en la Ciudad de México;
+II. Impulsar procesos de diseño e instrumentación de la política cultural, con la finalidad de lograr la divulgación, promoción y fomento de la cultura;
 
-III. Convocar a las áreas de la Secretaría de Cultura y establecer relaciones de coordinación para armonizar los diferentes programas de ésta;
+III. Implementar mecanismos de comunicación y organización interna para armonizar los diferentes programas de la Secretaría de Cultura con la política pública de gobierno;
 
-IV. Analizar la viabilidad de los eventos y actividades en las que participe la persona Titular de la Secretaría de Cultura para coordinar la participación de la misma;
+IV. Sostener audiencias con las personas que solicitan apoyo a la Secretaría de Cultura sobre sus peticiones con base en la pertinencia de sus proyectos y las posibilidades financieras y logísticas de la Dependencia;
 
-V. Analizar los proyectos culturales que se reciben en la Oficina de la persona Titular de la Secretaría de Cultura con la finalidad de determinar su pertinencia y posibilidad de ejecución;
+V. Fortalecer las relaciones con las personas servidoras públicas de las diferentes Dependencias locales y federales e instancias nacionales e internacionales en el ámbito de la cultura, con el fin de atender todos los asuntos de su competencia;
 
-VI. Elaborar los informes derivados del seguimiento a los proyectos culturales que se coordinan en la Oficina de la persona Titular de la Secretaría de Cultura;
+VI. Vincular a la Secretaría de Cultura con las Alcaldías, Dependencias locales, federales e instancias internacionales, así como asociaciones civiles y empresariales, para promover y ampliar la oferta cultural en la Ciudad de México;
 
-VII. Sostener audiencias con las personas que solicitan apoyo a la Secretaría de Cultura sobre sus peticiones con base en la pertinencia de sus proyectos y las posibilidades financieras y logísticas de la Dependencia;
+VII. Promover la celebración de convenios con los tres niveles de gobierno, así como instituciones académicas locales y nacionales que tengan competencia en materia cultural;
 
-VIII. Dar el seguimiento a los acuerdos establecidos por la persona Titular de la Secretaría de Cultura, con las Unidades Administrativas y otras Dependencias a fin de que se cumpla lo estipulado en los mismos;
+VIII. Coordinar y establecer vínculos con el poder legislativo local y federal, para la implementación de programas y proyectos que permitan incrementar la oferta cultural de la Ciudad de México;
 
-IX. Coordinar las reuniones, cuentos, comisiones y/o consejos en los que participe la persona Titular de la Secretaría de Cultura, elaborando los itinerarios de actividades, así como la revisión de la documentación soporte para el desarrollo de las mismas;
+IX. Establecer vínculos con la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno;
 
-X. Establecer las directrices de administración y programación de actividades de los centros culturales adscritos a la Secretaría de Cultura; y
+X. Programar y coordinar las audiencias con representantes diplomáticos, legisladores, dirigentes políticos y sociales, que deban ser atendidos por la Secretaría de Cultura, con la finalidad de que se otorgue una atención adecuada;
 
-XI. Coadyuvar en la valoración y análisis de los informes de las organizaciones culturales que cuentan con un Permiso Administrativo Temporal Revocable.
+XI. Dar seguimiento a los compromisos adquiridos ante instancias internacionales, gobiernos locales y redes que sitúan la cultura en el centro de sus procesos de desarrollo;
+
+XII. Proponer los criterios a partir de los cuales la Secretaría de Cultura asignará recursos a las asociaciones civiles y demás organizaciones de la sociedad civil dedicados al fomento de la cultura en la Ciudad de México;
+
+XIII. Coordinar los mecanismos necesarios para dar seguimiento a los proyectos desarrollados por las organizaciones culturales que cuentan con un Permiso Administrativo Temporal Revocable;
+
+XIV. Ejecutar los proyectos y programas especiales que requieran de la concurrencia de diferentes niveles o instancias de gobierno, actores privados y sociales, así como de diversas Unidades Administrativas de la Secretaría de Cultura;
+
+XV. Coordinar la elaboración de informes y reportes derivados del seguimiento a los proyectos culturales que se coordinan en la Oficina de la persona titular de la Secretaría de Cultura;
+
+XVI. Coordinar las acciones necesarias para integrar los informes de avance sobre las metas, programas y proyectos específicos de las Unidades Administrativas y Órganos Desconcentrados adscritos, así como los que la persona titular de la Secretaría de Cultura le instruya; y
+
+XVII. Analizar y facilitar las evaluaciones de los programas de la Secretaría de Cultura, con la finalidad de verificar que cubran los lineamientos establecidos.
 
 ###### Artículo 138.
 
-Corresponde a la Dirección General de Organización y Desempeño:
-
-I. Atender los acuerdos y audiencias con funcionarios del Gobierno de la Ciudad de México, y apoyar a la persona Titular de la Secretaría de Cultura, en la preparación de la información requerida y necesaria para cada evento de manera oportuna y eficaz;
-
-II. Fortalecer las relaciones con las personas servidoras públicas de las diferentes Dependencias locales y federales e instancias nacionales e internacionales en el ámbito de la cultura, con el fin de atender todos los asuntos de su competencia;
-
-III. Programar y coordinar las audiencias con representantes diplomáticos, legisladores, dirigentes políticos y sociales, que deban ser atendidos por la Secretaría de Cultura, con la finalidad de que se otorgue una atención adecuada;
-
-IV. Realizar el seguimiento e informar a la persona Titular de la Secretaría sobre el cumplimiento de los acuerdos celebrados con la Unidades Administrativas bajo su adscripción, con el fin de lograr el objetivo de sus metas;
-
-V. Mantener el registro y control sobre la documentación que se genere en la oficina de la Secretaría, a fin de obtener la integración y elaboración de informes y reportes que deben emitirse, para la toma de decisiones;
-
-VI. Coordinar la atención de los asuntos prioritarios de la oficina de la Secretaría de Cultura, a las áreas responsables, a efecto de que le den el seguimiento correspondiente con base a la normatividad vigente;
-
-VII. Analizar y facilitar las evaluaciones de los programas de la Secretaría de Cultura, con la finalidad de verificar que cubran los lineamientos establecidos;
-
-VIII. Solicitar, recabar e integrar los informes de avance sobre las metas, programas y proyectos específicos de las Unidades Administrativas y Órganos Desconcentrados adscritos, así como los que la persona Titular de la Secretaría de Cultura le instruya.
-
-IX. Coordinarse con las Unidades Administrativas de la Secretaría de Cultura para estructurar la programación de los eventos especiales.
-
-X. Fungir como enlace entre la Secretaría de Cultura y la Jefatura de Gobierno para coordinar la logística y protocolos de los eventos culturales especiales en los que participa la persona titular de la Jefatura de Gobierno.
-
-XI. Dar seguimiento a los convenios de colaboración suscritos por la Secretaria de Cultura.
-
-XII. Vincular a la Secretaría de Cultura con las Alcaldías, Dependencias locales, federales e instancias internacionales, así como asociaciones civiles y empresariales, para promover y ampliar la oferta cultural en la Ciudad de México;
-
-XIII. Establecer vínculos con la Coordinación General de Asesores y Asuntos Internacionales de la Jefatura de Gobierno;
-
-XIV. Establecer vínculos, concertar apoyos y promover la celebración de convenios con los entes de la Administración Pública Federal, que tengan competencia en materia cultural;
-
-XV. Establecer vínculos de colaboración con instituciones académicas locales y nacionales que tengan competencia en materia de cultura;
-
-XVI. Proponer los criterios a partir de los cuales la Secretaría de Cultura asignará recursos a las asociaciones civiles y demás organizaciones de la sociedad civil dedicados al fomento de la cultura en la Ciudad de México;
-
-XVII. Ejecutar los proyectos y programas especiales que requieran de la concurrencia de diferentes niveles o instancias de gobierno, actores privados y sociales, así como de diversas Unidades Administrativas de la Secretaría de Cultura;
-
-XVIII. Coordinar y establecer vínculos con las distintas instancias del gobierno local y federal así como con el poder legislativo local y federal, para la implementación de programas y proyectos a fin de incrementar la oferta cultural de la Ciudad de México; y
-
-XIX. Coadyuvar en la valoración y análisis de los informes de las organizaciones culturales que cuentan con un Permiso Administrativo Temporal Revocable.
+(DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
 ###### Artículo 139.
 
@@ -5898,21 +5868,27 @@ XI. Otorgar el apoyo logístico para la realización de los diversos eventos cul
 
 XII. Recuperar espacios públicos a través de la programación de actividades artístico-culturales.
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 141.
 
-Corresponde a la Dirección General de Educación Artística y Cultura Comunitaria:
+Corresponde a la Dirección Ejecutiva de Educación Artística y Cultural Comunitaria:
 
-I. Diseñar e instrumentar las, estrategias, programas y proyectos que permitan fomentar y difundir la educación artística formal y cultural entre la población de la Ciudad de México;
+I. Diseñar e instrumentar las estrategias, programas y proyectos que permitan articular y consolidar el Sistema de Educación Artística y Cultural de la Ciudad de México;
 
-II. Establecer las directrices para el diseño, desarrollo y seguimiento de los planes y programas académicos que se impartan en el conjunto de escuelas adscritas a la Secretaría de Cultura con el fin de contribuir a la educación artística y cultural de la población de la Ciudad de México;
+II. Establecer las directrices para el diseño, desarrollo y seguimiento de los planes y programas de educación formal y no formal, la docencia y la investigación que se realicen en el Sistema de Educación Artística y Cultural de la Secretaría de Cultura de la Ciudad de México;
 
-III. Fomentar el desarrollo y consolidación de los coros y orquestas juveniles de la Ciudad de México a fin de acrecentar la educación artística y cultural de la misma;
+III. Fomentar el desarrollo y consolidación de los proyectos y programas comunitarios que contribuyan a la educación artística y la cultura de paz en la Ciudad de México;
 
-IV. Implementar las políticas que en materia de educación cultural y artística defina la Secretaría de Cultura; y
+IV. Establecer el programa de trabajo anual de la educación artística con la finalidad de definir las líneas de acción conforme al Plan General de Desarrollo de la Ciudad de México;
 
-V. Realización (sic) estudios socioculturales de la población, con el objeto de priorizar los servicios culturales y artísticos en la Ciudad de México;
+V. Establecer, previa consulta con la Secretaría de Cultura, las medidas administrativas y operativas necesarias para garantizar el desarrollo de los programas de educación artística del ramo;
+
+VI. Proponer la reglamentación general para el Sistema de Educación Artística y Cultural de la Ciudad de México;
+
+VII. Establecer vínculos entre los diferentes actores académicos y sociales que intervengan a nivel local y federal para enriquecer los modelos de educación artística propios de la Secretaría de Cultura de la Ciudad de México; y
+
+VIII. Implementar las políticas públicas que la Secretaría de Cultura de la Ciudad de México determine en materia de educación artística.
 
 ###### Artículo 142.
 
@@ -6116,41 +6092,9 @@ XI. Proporcionar apoyo técnico a las distintas cámaras, asociaciones, colegios
 
 XII. Coordinarse con las diferentes Unidades Administrativas de las Dependencias y Entidades de la Administración Pública de la Ciudad de México, y con el sector privado, para impulsar acciones y proyectos, tendientes a impulsar el desarrollo empresarial, así como la inversión en sus diversas manifestaciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2020)</small>
-
 ###### Artículo 146.
 
-Corresponde a la Dirección Ejecutiva de Planeación y Seguimiento de la Economía:
-
-I. Generar, coordinar y desarrollar mecanismos que permitan captar la información que generen los Ciudadanos, las Cámaras, las Alcaldías, las Dependencias y los sectores sociales, en materia socioeconómica.
-
-II. Dar seguimiento de los indicadores económicos que impacten a la Ciudad de México, así como formular un programa específico que informe y difunda los resultados obtenidos.
-
-III. Proponer acciones en materia económica que beneficien de manera directa a la Ciudadanía de la Ciudad de México.
-
-IV. Integrar información respecto a la implementación e impacto de proyectos estratégicos.
-
-V. Realizar los estudios y establecer mecanismos de información y análisis en materia de desarrollo económico.
-
-VI. Informar a las Alcaldías, cámaras y organizaciones empresariales los mecanismos de apoyo y estímulos a la actividad productiva.
-
-VII. Contribuir a la elaboración de políticas públicas de atracción de inversiones estratégicas en actividades comerciales, industriales y sectores prioritarios.
-
-VIII. Proponer los lineamientos generales de la política de desarrollo económico de la Ciudad de México.
-
-IX. Coordinar y elaborar el Programa General de Desarrollo Económico de la Ciudad de México.
-
-X. Presentar el Programa de Trabajo de la Secretaría en concordancia con el Plan General de Desarrollo de la Ciudad de México.
-
-XI. Dirigir las acciones de coordinación sectorial que se establezcan con grupos inter e intra institucionales para la consecución de los planes y programas de la Secretaría de Desarrollo Económico de la Ciudad de México.
-
-XII. Desarrollar diagnósticos sobre problemáticas específicas del sector empresarial a fin de proponer mejoras al marco normativo con base en la opinión de los distintos sectores económicos.
-
-XIII. Colaborar en el diseño de las políticas y criterios generales para los programas en materia de desarrollo económico, industrial, de abasto, de servicios agropecuarios y de comercio interior.
-
-XIV. Coordinar la integración y elaboración de la agenda legislativa en materia de regulación, fomento y desarrollo económico.
-
-XV. Realizar análisis y estudios específicos sobre la problemática de la inversión económica y proponer acciones para su solución.
+(DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
 ###### Artículo 147.
 
@@ -6356,89 +6300,23 @@ XIV. Los demás que le atribuyan las leyes y otros ordenamientos.
 
 ###### Artículo 153.
 
-Corresponde a la Coordinación General de Desarrollo Urbano:
+(DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
-I. Proponer, formular, coordinar y ejecutar la elaboración de programas y demás instrumentos de planeación del desarrollo urbano, así como de sus modificaciones, y participar con las autoridades competentes en la elaboración de los instrumentos de planeación de la Ciudad de México y someterlos a la consideración de la persona titular de la Jefatura de Gobierno;
-
-II. Coadyuvar con las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo, en la aplicación de las leyes y normatividad aplicables en la Ciudad de México, en materia de asentamientos humanos y desarrollo urbano, así como del Plan General de Desarrollo de la Ciudad de México, Programa General de Ordenamiento Territorial, programas territoriales, parciales y sectoriales;
-
-III. Vigilar a sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo, en la aplicación y el cumplimiento de las normas y criterios que regulan la tramitación de permisos, autorizaciones y licencias previstas en la Ley de Desarrollo Urbano de la Ciudad de México, y demás disposiciones en la materia;
-
-IV. Formular, coordinar y evaluar con las autoridades competentes, el Programa General de Desarrollo Urbano de la Ciudad de México, Programas Territoriales, Parciales y Sectoriales de Desarrollo Urbano;
-
-V. Implementar y ejecutar acciones para la conservación, el fomento y acrecentamiento del patrimonio cultural urbano y el espacio público en la Ciudad de México;
-
-VI. Aplicar la normatividad vigente en materia de Patrimonio Cultural Urbano y Espacio Público en la Ciudad de México;
-
-VII. Opinar y dictaminar sobre las acciones de intervención en los inmuebles afectos al Patrimonio Cultural Urbano así como los proyectos arquitectónicos y de imagen urbana en materia de Espacio Público en la Ciudad de México;
-
-VIII. Realizar estudios que permitan determinar acciones relativas a la planeación, generación, conservación, protección, consolidación, recuperación, restauración, acrecentamiento, investigación, identificación, catalogación, rehabilitación y conservación de los inmuebles relacionados con el Patrimonio Cultural Urbano, así como del Espacio Público, en coordinación con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública correspondiente;
-
-IX. Proponer lineamientos y criterios de carácter general y observancia obligatoria, así como políticas para la puesta en valor, planeación, diseño, generación, conservación, protección, consolidación, recuperación, rehabilitación, restauración, acrecentamiento del Patrimonio Cultural Urbano y del Espacio Público en la Ciudad de México;
-
-X. Consolidar el desarrollo, revisión y aprobación de los proyectos arquitectónicos en materia de espacio público, en coordinación con las autoridades competentes;
-
-XI. Presentar los proyectos de programas de desarrollo urbano y sus expedientes técnicos al superior jerárquico, para su aprobación y autorización por parte de la persona titular de la Secretaría;
-
-XII. Definir los lineamientos normativos aplicables en la Ciudad de México, a través de los trabajos interinstitucionales realizados para homologar los criterios aplicables en materia de Desarrollo Urbano en la Zona Metropolitana y Región Centro del país;
-
-XIII. Analizar las normas que regulan el ordenamiento territorial en las áreas y sectores específicos de la Ciudad de México, para su presentación ante el comité o grupo de trabajo interinstitucional encargado de la normalización territorial de desarrollo urbano;
-
-XIV. Proponer lineamientos para el ordenamiento territorial y la definición de políticas, estrategias, normas e instrumentos, que regulen las acciones del ámbito local, metropolitano y regional, en coordinación con las Dependencias de la Administración Pública, para garantizar un ordenamiento urbano que responda a las limitantes y áreas de oportunidad en territorios específicos;
-
-XV. Participar en la formulación de propuestas de actualización, estudios y lineamientos en materia de programas de ordenamiento territorial de carácter local, de la Zona Metropolitana y de la Región Centro del país;
-
-XVI. Establecer el contenido básico de los estudios en materia de desarrollo urbano, que permitan definir los lineamientos para el ordenamiento territorial y su vinculación interinstitucional;
-
-XVII. Definir las políticas de desarrollo urbano integral y sustentable que permitan orientar el crecimiento urbano, en el ámbito local, metropolitano y regional, para atender el crecimiento urbano controlado en beneficio de la población de la Ciudad de México;
-
-XVII (SIC). Solicitar la inscripción de los documentos emitidos por la Coordinación General de Desarrollo Urbano, en el Registro de los Planes y Programas de Desarrollo Urbano de la Ciudad de México;
-
-XIX (SIC). Promover la participación de los diversos sectores de la sociedad y Alcaldías en la planeación de proyectos, planes y programas de desarrollo urbano;
-
-XX. Orientar a los particulares en la presentación y seguimiento a la modificación a los programas de desarrollo urbano para predios específicos;
-
-XXI. Elaborar estudios e informes y emitir dictámenes sobre la aplicación de los instrumentos de planeación en materia de desarrollo urbano;
-
-XXII. Dictaminar las solicitudes de cambio de uso del suelo y constitución de polígonos de actuación o de resolución de aplicación del sistema de transferencia de potencialidades del desarrollo urbano (predio emisor y predio receptor) en los que se proponga la procedencia o improcedencia;
-
-XXIII. Coordinar los sistemas de actuación y proponer su procedencia o improcedencia;
-
-XXIV. Desarrollar, implementar, operar y actualizar los sistemas de información que establezca la Secretaría; para proporcionar elementos de planeación, operación, gestión y toma de decisiones;
-
-XXV. Gestionar las herramientas en tecnologías de la información y comunicaciones, que apoyen técnicamente la operación de la Secretaría y los servicios para la atención a la Ciudadanía;
-
-XXVI. Establecer las políticas, lineamientos y estándares para la integración de la cartografía digital y la georreferenciación del territorio de la Ciudad de México;
-
-XXVII. Coordinar, o en su caso, participar intra e interinstitucionalmente en la generación, acopio o intercambio de información geoestadística necesaria para la operación de las aplicaciones y sistemas en operación;
-
-XXVIII. Supervisar la compilación y normalización de la información en materia de desarrollo urbano de la Ciudad de México de fuentes oficiales, para que pueda ser operada a través de los sistemas de información;
-
-XXIX. Proponer y acordar con las Dependencias del Gobierno de la Ciudad de México, los estándares cartográficos y definir las aplicaciones tecnológicas de Geomática para lograr la interoperabilidad de los sistemas;
-
-XXX. Someter a la persona titular de la Secretaría, para su aprobación, los dictámenes de modificación de los programas para cambiar el uso del suelo urbano en predios particulares y públicos, de conformidad con la Ley de Desarrollo Urbano de la Ciudad de México;
-
-XXXI. Elaborar el proyecto de tabla de compatibilidades de los usos de suelo, y remitirlo a la persona titular de la Secretaría para su aprobación;
-
-XXXII. Coordinar la elaboración de los certificados de restauración para los inmuebles declarados o catalogados por las instancias federales competentes o por esta Secretaría, para la aplicación de reducciones fiscales previstas en el Código Fiscal de la Ciudad de México;
-
-XXXIII. Establecer los criterios que deberán observarse en los proyectos urbano-arquitectónicos en predios o inmuebles afectos al Patrimonio Cultural Urbano, colindantes a estos y/o ubicados en áreas de conservación patrimonial que incluyen las zonas de monumentos históricos, en coordinación con las instancias federales en el ámbito de su competencia, tales como el Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes, para su integración al contexto urbano; y
-
-XXXIV. Las demás que le atribuyan las leyes y otros ordenamientos.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 154.
 
-Corresponde a la Dirección General de Control y Administración Urbana:
+Corresponde a la Dirección General de Política Urbanística:
 
 I. Aplicar los programas y demás instrumentos de planeación del desarrollo urbano, las políticas y estrategias en la materia, así como coordinar y evaluar su ejecución y resultados;
 
 II. Aprobar los planos oficiales que contendrán la determinación de vía pública, el alineamiento, los números oficiales, los derechos de vía y las modificaciones de la traza urbana;
 
-III. Integrar y operar el Registro de los Planes y Programas de Desarrollo Urbano de la Ciudad de México;
+III. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
 
-IV. Inscribir en el Registro de los Planes y Programas de Desarrollo Urbano de la Ciudad de México, los instrumentos y demás actos relativos a la planeación del desarrollo urbano de la Ciudad de México;
+IV. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
 
-V. Expedir los certificados de zonificación previstos en la Ley de Desarrollo Urbano de la Ciudad de México;
+V. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
 
 VI. Coordinar la formulación de los requisitos, formatos, procedimientos y manuales necesarios para el trámite de permisos, licencias, autorizaciones, dictámenes y certificados previstos en la Ley de Desarrollo Urbano de la Ciudad de México y en sus Reglamentos;
 
@@ -6472,19 +6350,19 @@ XX. Asesorar y supervisar a las Alcaldías en la celebración de los actos admin
 
 XXI. Supervisar, y en su caso, hacer del conocimiento de las autoridades competentes presuntas irregularidades de los actos administrativos que celebren las Alcaldías en materia de desarrollo urbano, para que éstas en el ámbito de sus atribuciones realicen las acciones que conforme a derecho corresponda;
 
-XXII. Emitir dictámenes respecto de las solicitudes para instalar, modificar o retirar anuncios y sus estructuras de soporte;
+XXII. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
 
 XXIII. Analizar los proyectos que requieren Estudio de Impacto Urbano para emitir su dictamen correspondiente;
 
 XXIV. Gestionar ante las Unidades Administrativas correspondientes y las Alcaldías, las opiniones de factibilidad de servicios en materia de agua, movilidad, protección civil y las demás que se requieran;
 
-XXV. Autorizar el emplazamiento o reubicación del mobiliario urbano en el territorio de la Ciudad México, con fundamento en la normativa aplicable;
+XXV. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
 
-XXVI. Analizar y evaluar los proyectos de mobiliario urbano, para presentarlos ante la comisión que corresponda;
+XXVI. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
 
-XXVII. Integrar y mantener actualizado el inventario del mobiliario urbano;
+XXVII. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
 
-XXVIII. Hacer del conocimiento de las autoridades competente (sic) el emplazamiento irregular del mobiliario urbano, para que éstas en el ámbito de sus atribuciones realicen las acciones que conforme a derecho corresponda;
+XXVIII. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
 
 XXIX. Coordinar las actividades de las comisiones que se conformen para el establecimiento oficial de límites y nomenclaturas;
 
@@ -6496,11 +6374,15 @@ XXXI. Las demás atribuciones que le asignen otros ordenamientos aplicables.
 
 Corresponde a la Dirección General de Asuntos Jurídicos:
 
-I. Establecer, dirigir y coordinar las acciones y defensa jurídica de los intereses de la Secretaría;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+I. Establecer, dirigir y coordinar las acciones y defensa jurídica de los intereses de la Secretaría de Desarrollo Urbano y Vivienda, para lo cual, podrá promover las acciones legales procedentes, presentar demandas, denuncias y cualquier promoción, así como los recursos y demás medios de defensa procedentes, incluyendo la demanda de amparo y su desistimiento, así como incidentes y cualquier promoción procedente durante la tramitación y seguimiento de cualquier tipo de juicio o procedimiento, además de sustanciar cualquier tipo de procedimiento jurídico;
 
 II. Velar por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares, y demás ordenamientos que incidan en el ámbito de competencia de la Secretaría;
 
-III. Atender los requerimientos de información y documentos que le formulen las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades que componen la Administración Pública de la Ciudad de México, relacionados con verificaciones administrativas en materias que sean competencia de la Secretaría;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+III. Atender los requerimientos de información y documentos que le formulen las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades que componen la Administración Pública de la Ciudad de México, así como los poderes Judicial y Legislativo de la Ciudad, relacionados con aspectos jurídicos en materias que sean competencia de la Secretaría de Desarrollo Urbano y Vivienda;
 
 IV. Solicitar a las Alcaldías, Dependencias, Órganos Desconcentrados y Entidades que componen la Administración Pública de la Ciudad de México que sean competentes, la realización de verificaciones administrativas en las materias que sean competencia de la Secretaría;
 
@@ -6530,53 +6412,109 @@ XVI. Coadyuvar con las Alcaldías, Dependencias, Órganos Desconcentrados y Enti
 
 XVII. Analizar y, en su caso, formular observaciones a los proyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás ordenamientos que sean competencia de la Secretaría;
 
-XVIII. Verificar que la política de vivienda que desarrolle la Coordinación General de Desarrollo Urbano cumpla con la normatividad aplicable en el que se procure la protección del derecho humano a la vivienda;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XVIII. Verificar que la política de vivienda que se desarrolle en la Ciudad de México cumpla con la normatividad aplicable, garantizando la protección del derecho humano a la vivienda;
 
 XIX. Coadyuvar con la persona titular de la Secretaría en el ejercicio de sus atribuciones, en los asuntos que se relacionen con el Instituto de Vivienda de la Ciudad de México;
 
-XX. Establecer criterios y las estrategias de control para el mejoramiento del paisaje urbano en la Ciudad de México;
+XX. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
 
-XXI. Coordinar las facultades que de conformidad con la Ley de Publicidad Exterior le correspondan a la Secretaría de Desarrollo Urbano y Vivienda;
+XXI. (DEROGADA, G.O. 2 DE FEBRERO DE 2021)
 
 XXII. Coordinar y fungir como la Unidad responsable de las solicitudes de información pública remitidas por la Unidad de Transparencia, de la Secretaría en los plazos y términos establecidos en las disposiciones jurídicas en materia de Transparencia y Acceso a la Información Pública;
 
-XXIII. Llevar a cabo verificaciones administrativas en los casos que por su relevancia así lo considere la Secretaría; y
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
-XXIV. Las demás atribuciones que le confieran otros ordenamientos aplicables.
+XXIII. Llevar a cabo verificaciones administrativas en los casos que por su relevancia así lo considere la Secretaría de Desarrollo Urbano y Vivienda;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XXIV. Auxiliar a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de la Secretaría de Desarrollo Urbano y Vivienda, así como demás Entidades de la Administración Pública de la Ciudad de México, a través de las acciones u opiniones jurídicas que le sean requeridas en las materias competencia de la referida Secretaría; y
+
+XXV. Las demás atribuciones que le confieran otros ordenamientos aplicables.
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 156.
 
-Corresponde a la Dirección General de Planeación de Desarrollo y Ordenamiento Territorial:
+Corresponde a la Dirección General del Ordenamiento Urbano:
 
-I.- Realizar proyectos relacionados con el sistema de planeación del desarrollo y ordenamiento territorial, así como participar, en su caso, con las autoridades competentes en la elaboración del Plan General de Desarrollo de la Ciudad de México, el Programa General de Ordenamiento Territorial y los de las Alcaldías; y el Programa de Gobierno de la Ciudad de México;
+I. Participar en la realización de proyectos relacionados con el sistema de planeación del desarrollo y ordenamiento territorial, así como participar, en su caso, con las autoridades competentes en la elaboración del Plan General de Desarrollo de la Ciudad de México, el Programa General de Ordenamiento Territorial y los de las Alcaldías; así como el Programa de Gobierno de la Ciudad de México;
 
-II.- Coadyuvar con las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo, en la definición de las características y contenidos de los instrumentos en materia del Plan General de Desarrollo de la Ciudad de México, el Programa General de Ordenamiento Territorial y los programas territoriales;
+II. Coadyuvar en la definición de lineamientos normativos aplicables en la Ciudad de México, a través de los trabajos interinstitucionales realizados para homologar los criterios aplicables en materia de ordenamiento territorial de la Zona Metropolitana del Valle de México y Región Centro del país;
 
-III.- Participar en la formulación, seguimiento y evaluación de Programas Territoriales, Parciales y Sectoriales de Desarrollo Urbano;
+III. Establecer criterios y estrategias de control para el mejoramiento del paisaje urbano en la Ciudad de México;
 
-IV.- Coadyuvar en la elaboración del sistema de indicadores de la Ciudad de México, a utilizar en las diversas etapas del proceso de planeación y del ordenamiento territorial;
+IV. Coordinar las facultades que le correspondan a la Secretaría de Desarrollo Urbano y Vivienda respecto a publicidad exterior, de conformidad con la ley de la materia;
 
-V.- Realizar estudios que permitan determinar acciones relativas a la planeación, generación, de información e investigación en materia de planeación del desarrollo y ordenamiento territorial en coordinación, en su caso, con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública correspondientes;
+V. Coadyuvar a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de la Secretaría de Desarrollo Urbano y Vivienda, en la aplicación de las leyes y normatividad que corresponda en la Ciudad de México, en materia de asentamientos humanos y desarrollo urbano, así como del Plan General de Desarrollo de la Ciudad de México, Programa General de Ordenamiento Territorial, programas territoriales, parciales, sectoriales y demás instrumentos aplicables;
 
-VI.- Participar en la definición de lineamientos normativos aplicables en la Ciudad de México, a través de los trabajos interinstitucionales realizados para homologar los criterios aplicables en materia de ordenamiento territorial de la Zona Metropolitana del Valle de México y Región Centro del país;
+VI. Vigilar a sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo, en la aplicación y el cumplimiento de las normas y criterios que regulan la tramitación de permisos, autorizaciones y licencias previstas en la Ley de Desarrollo Urbano aplicable en la Ciudad de México, y demás disposiciones en la materia;
 
-VII.- Participar en el análisis de las normas que regulan el ordenamiento territorial ante el comité o grupo de trabajo interinstitucional encargado de la normalización territorial;
+VII. Implementar y ejecutar acciones para la conservación, el fomento y acrecentamiento del patrimonio cultural urbano y el espacio público en la Ciudad de México;
 
-VIII.- Coadyuvar en la definición de los proyectos de lineamientos de los instrumentos de ordenamiento territorial de las Alcaldías de la Ciudad de México;
+VIII. Aplicar la normatividad vigente en materia de Patrimonio Cultural Urbano y Espacio Público en la Ciudad de México;
 
-IX.- Promover la participación de los diversos sectores de la sociedad y Alcaldías en la planeación del desarrollo y ordenamiento territorial;
+IX. Opinar y dictaminar sobre las acciones de intervención en los inmuebles afectos al Patrimonio Cultural Urbano, así como los proyectos arquitectónicos y de imagen urbana en materia de Espacio Público en la Ciudad de México;
 
-X.- Participar en el desarrollo y actualización de los sistemas de información estadística y geográfica que establezca la Secretaría; para proporcionar elementos de planeación en materia de desarrollo y ordenamiento territorial;
+X. Realizar estudios que permitan determinar acciones relativas a la planeación, generación, conservación, protección, consolidación, recuperación, restauración, acrecentamiento, investigación, identificación, catalogación, rehabilitación y conservación de los inmuebles relacionados con el Patrimonio Cultural Urbano, así como del Espacio Público, en coordinación con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública correspondientes;
 
-XI.- Participar en la gestión de las herramientas en tecnologías de la información, que apoyen técnicamente la operación de la Secretaría en materia de planeación y ordenamiento territorial;
+XI. Proponer lineamientos y criterios de carácter general y observancia obligatoria, así como políticas para la puesta en valor, planeación, diseño, generación, conservación, protección, consolidación, recuperación, rehabilitación, restauración y acrecentamiento del Patrimonio Cultural Urbano y del Espacio Público en la Ciudad de México;
 
-XII.- Participar en la generación, acopio o intercambio de información geoestadística necesaria para la planeación del desarrollo y el ordenamiento territorial;
+XII. Consolidar el desarrollo, revisión y aprobación de los proyectos arquitectónicos en materia de espacio público, en coordinación con las autoridades competentes;
 
-XIII.- Apoyar la compilación y normalización de la información en materia de planeación de desarrollo y ordenamiento territorial de la Ciudad de México de fuentes oficiales, para su integración en los sistemas de información;
+XIII. Analizar y proponer las normas que regulen el ordenamiento territorial en las áreas y sectores específicos de la Ciudad de México, para su presentación ante las instancias gubernamentales y/o intergubernamentales correspondientes;
 
-XIV.- Las demás que le atribuyan las leyes y otros ordenamientos.
+XIV. Proponer lineamientos para el ordenamiento territorial y la definición de políticas, estrategias, normas e instrumentos, que regulen las acciones del ámbito local, metropolitano y regional, en coordinación con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, para garantizar un ordenamiento urbano que responda a las limitantes y áreas de oportunidad en territorios específicos;
+
+XV. Participar en la definición de las políticas de desarrollo urbano integral, equilibrado y sustentable orientadas al crecimiento urbano, en el ámbito local, metropolitano y regional, para atender el crecimiento urbano controlado en beneficio de la población de la Ciudad de México;
+
+XVI. Inscribir en el Registro de los Planes y Programas de Desarrollo Urbano de la Ciudad de México, los instrumentos y demás actos relativos al desarrollo urbano de la Ciudad de México;
+
+XVII. Orientar a los particulares respecto a la presentación y seguimiento de modificación a los programas de desarrollo urbano para predios específicos, en el ámbito de sus atribuciones;
+
+XVIII. Dictaminar en el ámbito de sus atribuciones las solicitudes de constitución de polígonos de actuación o de aplicación del sistema de transferencia de potencialidades del desarrollo urbano (predio emisor y predio receptor) en los que se proponga la procedencia o improcedencia;
+
+XIX. Coordinar los sistemas de actuación y proponer a la persona titular de la Secretaría de Desarrollo Urbano y Vivienda su procedencia o improcedencia;
+
+XX. Gestionar las herramientas en tecnologías de la información y comunicaciones, que apoyen técnicamente la operación de la Secretaría de Desarrollo Urbano y Vivienda, y los servicios para la atención a la Ciudadanía;
+
+XXI. Coadyuvar con las instancias competentes en el establecimiento de las políticas, lineamientos y estándares para la integración de la cartografía digital y la georreferenciación del territorio de la Ciudad de México;
+
+XXII. Participar en el ámbito de sus atribuciones, intra e interinstitucionalmente, en la generación, acopio o intercambio de información geoestadística necesaria para la operación de las aplicaciones y sistemas en operación;
+
+XXIII. Supervisar la compilación y normalización de la información en materia de desarrollo urbano de la Ciudad de México de fuentes oficiales, para que pueda ser operada a través de los sistemas de información;
+
+XXIV. Proponer con las autoridades competentes del Gobierno de la Ciudad de México, los estándares cartográficos y definir las aplicaciones tecnológicas de Geomática para lograr la interoperabilidad de los sistemas;
+
+XXV. Integrar expedientes sobre cambios de uso del suelo en predios particulares y públicos, y emitir proyectos de resolución para consideración de la persona titular de la Secretaría de Desarrollo Urbano y Vivienda, de conformidad con el procedimiento señalado en la ley de la materia;
+
+XXVI. Elaborar en el ámbito de su competencia el proyecto de tabla de compatibilidades de los usos de suelo, y remitirlo a la persona titular de la Secretaría de Desarrollo Urbano y Vivienda para su aprobación;
+
+XXVII. Elaborar los certificados de restauración para los inmuebles declarados o catalogados por las instancias federales competentes o por la Secretaría de Desarrollo Urbano y Vivienda, para la aplicación de reducciones fiscales previstas en el Código Fiscal de la Ciudad de México;
+
+XXVIII. Establecer los criterios que deberán observarse en los proyectos urbano-arquitectónicos en predios o inmuebles afectos al Patrimonio Cultural Urbano, colindantes a estos y/o ubicados en áreas de conservación patrimonial que incluyen las zonas de monumentos históricos, en coordinación con las instancias federales en el ámbito de su competencia, tales como el Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, para su integración al contexto urbano;
+
+XXIX. Integrar y operar el Registro de los Planes y Programas de Desarrollo Urbano de la Ciudad de México;
+
+XXX. Expedir los certificados de zonificación previstos en la Ley de Desarrollo Urbano aplicable en la Ciudad de México;
+
+XXXI. Emitir dictámenes respecto de las solicitudes para instalar, modificar o retirar anuncios y sus estructuras de soporte;
+
+XXXII. Autorizar el emplazamiento o reubicación del mobiliario urbano en el territorio de la Ciudad de México, con fundamento en la normativa aplicable;
+
+XXXIII. Analizar y evaluar los proyectos de mobiliario urbano, para presentarlos ante la comisión que corresponda;
+
+XXXIV. Integrar y mantener actualizado el inventario del mobiliario urbano;
+
+XXXV. Hacer del conocimiento de las autoridades competentes el emplazamiento irregular del mobiliario urbano, para que éstas en el ámbito de sus atribuciones realicen las acciones que conforme a derecho corresponda;
+
+XXXVI. Elaborar estudios e informes, así como emitir dictámenes sobre la aplicación de los instrumentos de planeación en materia de desarrollo urbano;
+
+XXXVII. Desarrollar, implementar, operar y actualizar los sistemas de información que establezca la Secretaría de Desarrollo Urbano y Vivienda, para proporcionar elementos de planeación, operación, gestión y toma de decisiones; y
+
+XXXVIII. Las demás que le atribuyan las leyes y otros ordenamientos.
 
 #### SECCIÓN XIII. DE LA SECRETARÍA DE LAS MUJERES
 
@@ -7296,7 +7234,7 @@ XV. Las demás que el presente Reglamento y otras disposiciones le asignen.
 
 ###### Artículo 171.
 
-Corresponde a la Dirección Ejecutiva de Asuntos Estratégicos:
+Corresponde a la Dirección Ejecutiva de Monitoreo, Gestión y Enlace Institucional:
 
 I. Coordinar las políticas de comunicación para los medios de difusión con que cuente la Secretaría y las Unidades Administrativas para la planeación, seguimiento, sistematización y evaluación en la materia, en coadyuvancia con las Entidades sectorizadas a la Dependencia, de conformidad con las normas que al efecto se expida;
 
@@ -7318,29 +7256,85 @@ VIII. Gestionar la información en materia de atención Ciudadana para su debida
 
 IX. Coordinar y establecer enlaces permanentes, así como los temporales que, en su caso, se requieran entre las diversas Dependencias y Entidades de la Administración Pública de la Ciudad, al igual que con los poderes Legislativo y Judicial en los asuntos de su competencia, y celebrar e implementar acuerdos con esas instancias, que sirvan para el mejoramiento de las funciones de la Secretaría;
 
-X. Actuar como instancia de coordinación con los distintos órganos de gobierno en las comparecencias y presentaciones de la persona Titular de la Secretaría; y
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
-XI. Las demás que le instruya la persona Titular de la Secretaría de Inclusión y Bienestar Social, y las que expresamente le atribuyen otros ordenamientos jurídicos o administrativos.
+X. Actuar como instancia de coordinación con los distintos órganos de gobierno en las comparecencias y presentaciones de la persona Titular de la Secretaría;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XI. Fungir como Secretaría Técnica del Comité de Planeación para el Desarrollo (COPLADE);
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XII. Coordinar la participación oportuna de las Unidades Administrativas de la Secretaría de Inclusión y Bienestar Social, en los proyectos y actividades estratégicas con el fin de conocer sus avances y proponer los ajustes pertinentes;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XIII. Establecer los criterios para la integración y unificación del Padrón Único de Beneficiarios de los programas de inclusión y bienestar social;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XIV. Publicar en la Gaceta Oficial de la Ciudad de México el Padrón Único de Beneficiarios de los programas de bienestar social de conformidad con lo establecido con la Ley de la Materia;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XV. Autorizar estrategias, lineamientos y criterios técnicos a que deberán sujetarse las Unidades Administrativas de la Secretaría, entidades especializadas y las Alcaldías, que vayan acorde a los establecidos por Evalúa, con relación a los programas sociales;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XVI. Establecer entre las Unidades Administrativas de la Secretaría, los programas, políticas y criterios técnicos en materia de calidad, innovación y modernización;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XVII. Formular de manera sistemática y permanente, en coordinación con las Unidades Administrativas de la Secretaría, las entidades especializadas competentes y Alcaldías, la evaluación de las políticas sociales implementadas en la Ciudad de México, para el cumplimiento de los objetivos, programas, proyectos, actividades, compromisos y el impacto de las mismas;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XVIII. Determinar las políticas, prioridades, programas y medidas de acción de carácter estratégico que pudieran derivarse de la evaluación de los programas sociales de la Ciudad de México, incluyendo las relativas al financiamiento, la certificación y acreditación de la calidad y la búsqueda de alternativas de financiamiento a través de una gestión eficiente;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XIX. Desarrollar y administrar las bases de datos, así como los sistemas de información y consulta, con información geográfica y estadística en materia de políticas y programas sociales;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XX. Ejecutar acciones de vinculación y colaboración con el Gobierno Federal en materia de política social, en beneficio de los habitantes de la Ciudad, incluyendo la coordinación de la planeación, programación y ejecución de los recursos federales que le sean asignados a la Secretaría; y
+
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+XXI. Las demás atribuciones que les sean conferidas por otros ordenamientos o por su superior jerárquico.
 
 ###### Artículo 172.
 
 (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 172 Bis.
 
-Corresponde a la Dirección General de Derechos Humanos:
+Corresponde a la Dirección General de Diversidad Sexual y Derechos Humanos:
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
 I. Promover e impulsar acciones enfocadas a difundir, garantizar, proteger y respetar los derechos económicos, sociales, culturales y ambientales en especial a los grupos de atención prioritaria con la Administración Pública de la Ciudad y con la población en general;
 
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
 II. Participar de forma colaborativa en la creación de condiciones de igualdad y no discriminación con las instancias correspondientes en el ámbito de su competencia a efecto de facilitar, garantizar el acceso y pleno disfrute a los derechos económicos, sociales, culturales y ambientales de los habitantes de la Ciudad;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
 III. Diseñar, promover y ejecutar acciones en materia de diversidad sexual que tengan por objetivo impulsar la inclusión y bienestar de todas las personas independientemente de su orientación sexual, expresión e identidad de género en la Administración Pública de la Ciudad;
 
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
 IV. Proporcionar a la Administración Pública de la Ciudad acompañamiento y orientación eficaz en materia de derechos económicos, sociales, culturales y ambientales;
 
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+
 V. Coordinar y promover con las diversas instituciones académicas y organizaciones de la sociedad civil el establecimiento de convenios y/o acuerdos que fomenten los derechos económicos, sociales, culturales y ambientales, de las personas LGBTTTI y de la población en general; y
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
 
 VI. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le atribuyen este Reglamento y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
@@ -7380,13 +7374,15 @@ XI. Prestar asistencia jurídica y orientación social a los sujetos beneficiari
 
 XII. Coordinar las políticas de mejoramiento barrial y comunitario del Gobierno de la Ciudad de México en el ámbito territorial, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
-XIII. Diseñar y operar estrategias y acciones para el fortalecimiento del tejido social mediante mecanismos de información, formación y capacitación ciudadana y comunitaria; y
+XIII. Diseñar y operar estrategias y acciones para el fortalecimiento del tejido social mediante mecanismos de información, formación y capacitación ciudadana y comunitaria;
 
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
-XIV. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le atribuyen este Reglamento y las que le otorguen otros ordenamientos jurídicos o administrativos.
+XIV. Proponer políticas, programas y acciones sociales en materia de hospitalidad, interculturalidad, movilidad humana y atención a migrantes y sus familiares; y
+
+XV. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le atribuyen este Reglamento y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 ###### Artículo 175.
 
@@ -7436,9 +7432,11 @@ VIII. Sistematizar y difundir las normas jurídicas aplicables en materia de las
 
 IX. Presentar, ratificar y actuar como coadyuvante del Ministerio Público en las denuncias de hechos, por la posible comisión de delitos relacionados con las materias de las Unidades Administrativas adscritas y aquellos en que resulte afectada la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 178.
 
-Corresponde a la Dirección General de Participación Ciudadana:
+Corresponde a la Coordinación General de Participación Ciudadana:
 
 I. Coordinar la planeación, diseño, promoción, ejecución, seguimiento y control de estrategias y acciones que fomenten el involucramiento Ciudadano en asuntos públicos y en la solución de problemas comunes, basado en una cultura de corresponsabilidad con el gobierno;
 
@@ -7452,9 +7450,15 @@ V. Apoyar a las comisiones de trabajo elegidas en las asambleas vecinales, para 
 
 VI. Establecer los mecanismos necesarios para la participación de la sociedad civil en la realización de acciones que permitan la prevención social de las violencias, de conformidad con la normativa aplicable;
 
-VII. Realizar recorridos y vistas (sic) periódicas a las demarcaciones territoriales para lograr una comunicación efectiva entre gobierno y sociedad; y
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
-VIII. Las demás atribuciones conferidas por la persona Titular de la Secretaría, así como las que expresamente le atribuyen este Reglamento y las que le otorguen otros ordenamientos jurídicos o administrativos.
+VII. Realizar recorridos y visitas periódicas a las demarcaciones territoriales para lograr una comunicación efectiva entre gobierno y sociedad;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+
+VIII. Establecer los mecanismos de colaboración para definir los trabajos que realizarán las personas designadas como representantes de la Jefatura de Gobierno en las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia, que sirvan de referencia para diagnósticos y toma de decisiones a la Jefatura de Gobierno de la Ciudad de México, en materia de seguridad ciudadana; y
+
+IX. Las demás atribuciones conferidas por la persona Titular de la Secretaría, así como las que expresamente le atribuyen este Reglamento y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 ###### Artículo 179.
 
@@ -7464,9 +7468,11 @@ VIII. Las demás atribuciones conferidas por la persona Titular de la Secretarí
 
 (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 181.
 
-Corresponde a la Dirección Ejecutiva de Mejoramiento Barrial y Comunitario:
+Corresponde a la Dirección Ejecutiva de Tequio Barrio:
 
 I. Promover la participación Ciudadana en el diseño, ejecución y evaluación de la política de inclusión y bienestar social de la Ciudad de México en el ámbito de desarrollo urbano, la construcción, recuperación y adecuación de los espacios públicos;
 
@@ -7476,39 +7482,63 @@ III. Mejorar las condiciones de vida y las oportunidades de desarrollo de los ha
 
 IV. Implementar y dar seguimiento a los programas y acciones de mejoramiento barrial en beneficio de los habitantes de los barrios, colonias, pueblos en coordinación con las Alcaldías y las Dependencias, Órganos Desconcentrados y Entidades, a efecto de garantizar la canalización oportuna y transparente de los recursos económicos, técnicos y materiales.
 
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2021)</small>
+
+###### Artículo 181 Bis.
+
+Corresponde a la Dirección Ejecutiva Territorial:
+
+I. Planear estrategias de operación territorial de los programas y acciones sociales de participación ciudadana para que garanticen el correcto acercamiento de los ciudadanos, en igualdad de circunstancias a los programas y acciones sociales;
+
+II. Establecer estrategias operativas, con base en la demanda comunitaria de los programas y acciones sociales;
+
+III. Instruir a las Coordinaciones de Participación Ciudadana en la aplicación de estrategias de trabajo, resultado de reuniones;
+
+IV. Coordinar y vigilar las actividades que realizan las Coordinaciones de Participación Ciudadana, en la implementación de los programas y acciones sociales del Gobierno de la Ciudad de México;
+
+V. Administrar y coordinar los beneficios que se entregan a los grupos de trabajo de las Coordinaciones de Participación Ciudadana en las Alcaldías, para su distribución a los beneficiarios de los programas sociales;
+
+VI. Establecer los vínculos necesarios con las diferentes instancias, tanto del Gobierno de la Ciudad de México como de las Alcaldías, para generar acciones de carácter comunitario en territorio;
+
+VII. Supervisar y vigilar los planes y programas de trabajo de las Coordinaciones de Participación Ciudadana bajo su responsabilidad;
+
+VIII. Realizar reuniones de trabajo con las Coordinaciones de Participación Ciudadana de las Alcaldías, a fin de conocer la problemática y buscar soluciones en la operatividad y ejecución de los programas y acciones sociales;
+
+IX. Planear capacitaciones para los beneficiarios del programa Servidores de la Ciudad de México;
+
+X. Diseñar las Reglas de Operación de los Programas Sociales correspondientes a la Coordinación General de Participación Ciudadana;
+
+XI. Diseñar el Programa Anual de Capacitación para el personal de la Coordinación General de Participación Ciudadana, así como de los participantes de las redes vecinales, con el fin de aportar elementos al programa de capacitación;
+
+XII. Coordinar y vigilar la correcta aplicación de programas federales asignados al Gobierno de la Ciudad de México;
+
+XIII. Coordinar líneas de acción con el personal de la Dirección Ejecutiva Territorial y con las Coordinaciones de Participación Ciudadana ante posibles contingencias que pongan en riesgo la integridad de los habitantes de la Ciudad de México;
+
+XIV. Establecer directrices de trabajo con las Coordinaciones de Participación Ciudadana durante las gestiones administrativas para la realización de las acciones territoriales;
+
+XV. Difundir los programas y acciones que promueven la inclusión y bienestar social participativo entre los habitantes de la Ciudad de México, a través del contacto directo y material impreso;
+
+XVI. Colaborar con otras áreas del Gobierno de la Ciudad de México en la difusión y divulgación de sus programas y acciones sociales en territorio;
+
+XVII. Promover entre las Coordinaciones de Participación Ciudadana el material de difusión impreso de los programas sociales;
+
+XVIII. Establecer los mecanismos de evaluación de las acciones y programas sociales con las Coordinaciones de Participación Ciudadana a fin de que se dé la debida aplicación y ejecución de los mismos;
+
+XIX. Instruir a las Coordinaciones de Participación Ciudadana la implementación de estrategias para evaluar el funcionamiento de las actividades programadas en los Módulos de Participación Ciudadana;
+
+XX. Establecer los medios de evaluación en la ejecución de los programas y acciones sociales con el uso de reportes e informes;
+
+XXI. Formular dictámenes, opiniones e informes sobre los avances de la participación de la ciudadanía en las políticas públicas, a fin de mejorar la aplicación de las mismas;
+
+XXII. Comunicar a las Coordinaciones de Participación Ciudadana las tareas encaminadas a evaluar el desempeño de las actividades desarrolladas por los Coordinadores Zonales y Promotor es de Participación Ciudadana en las acciones y programas sociales;
+
+XXIII. Apoyar en las actividades de las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia y en las evaluaciones de desempeño; y
+
+XXIV. Las demás atribuciones que les sean conferidas por otros ordenamientos o por su superior jerárquico.
+
 ###### Artículo 182.
 
-Corresponde a la Dirección General de Política e Innovación Social:
-
-I. Coordinar la participación oportuna de las Unidades Administrativas de la Secretaría de Inclusión y Bienestar Social, en los proyectos y actividades estratégicas con el fin de conocer sus avances y proponer los ajustes pertinentes;
-
-II. Desarrollar los sistemas de diagnóstico, interpretación y desarrollo de planes, programas y proyectos que faciliten una planeación preventiva en todas las Unidades Administrativas de la Secretaría;
-
-III. Administrar los sistemas de información y seguimiento de los proyectos estratégicos de la Secretaría;
-
-IV. Establecer los criterios para la integración y unificación del Padrón Único de Beneficiarios de los programas de bienestar social;
-
-V. Publicar en la Gaceta Oficial de la Ciudad de México el Padrón Único de Beneficiarios de los programas de bienestar social de conformidad con lo establecido con la Ley de la Materia;
-
-VI. Determinar los procedimientos de verificación y seguimiento de programas, planes y proyectos, que permitan conocer con objetividad, precisión, oportunidad y regularidad el desarrollo de las actividades estratégicas de la Secretaría;
-
-VII. Autorizar estrategias, lineamientos y criterios técnicos a que deberán sujetarse las Unidades Administrativas de la Secretaría, entidades especializadas y las Alcaldías en relación con los programas y políticas sociales;
-
-VIII. Establecer entre las Unidades Administrativas de la Secretaría, los programas, políticas y criterios técnicos en materia de calidad, innovación y modernización;
-
-IX. Dirigir las acciones para mejorar la calidad total de los procesos de regulación y ahorro en la Secretaría, de conformidad con la normatividad aplicable;
-
-X. Formular de manera sistemática y permanente, en coordinación con las Unidades Administrativas de la Secretaría, las entidades especializadas competentes y Alcaldías, la evaluación de las políticas sociales implementadas en la Ciudad de México, para el cumplimiento de los objetivos, programas, proyectos, actividades, compromisos y el impacto de las mismas;
-
-XI. Coordinar el uso de información estadística y de indicadores con las instancias que correspondan para la elaboración de las políticas, programas y estudios;
-
-XII. Determinar las políticas, prioridades, programas y medidas de acción de carácter estratégico que pudieran derivarse de la evaluación de los programas sociales de la Ciudad de México, incluyendo las relativas al financiamiento, la certificación y acreditación de la calidad y la búsqueda de alternativas de financiamiento a través de una gestión eficiente;
-
-XIII. Coordinar la difusión de los eventos y programas sociales que la Secretaría implementa en la Ciudad de México;
-
-XIV. Desarrollar y administrar la base de datos, así como los sistemas de consulta, con información geográfica y estadística en materia de políticas y programas sociales; y
-
-XV. Las demás atribuciones que les sean conferidas por otros ordenamientos o por su superior jerárquico.
+(DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
 > <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2020)</small>
 
@@ -7548,25 +7578,9 @@ XV. Orientar y canalizar a las personas mayores en la Ciudad procurando la defen
 
 XVI. Las demás que le instruya la persona Titular de la Secretaría, y las que expresamente le atribuyen otros ordenamientos jurídicos o administrativos.
 
-> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2020)</small>
-
 ###### Artículo 182 Ter.
 
-Corresponde a la Dirección Ejecutiva de Operación y Desarrollo Institucional:
-
-I. Dar seguimiento al cumplimiento de las instrucciones dirigidas a las personas servidoras públicas de la Dependencia, hasta concluir la encomienda, y elaborar los informes correspondientes;
-
-II. Dar seguimiento a los compromisos adquiridos por la Secretaría que deriven de instrumentos jurídicos y de normas, lineamientos, políticas, bases y sistemas de supervisión, control, seguimiento y evaluación, en coordinación con las Unidades Administrativas adscritas a ésta, las que actuarán en el ámbito de su competencia;
-
-III. Dar seguimiento al desarrollo y ejecución de los proyectos estratégicos que tengan encomendados las Unidades Administrativas de la Secretaría, y solicitar los informes de avance y conclusión, con el fin de mantener informada a la persona Titular de la Secretaría;
-
-IV. Expedir y validar los trámites y asuntos de su competencia;
-
-V. Ejecutar acciones de vinculación y colaboración con el Gobierno Federal en materia de política social, en beneficio de los habitantes de la Ciudad, incluyendo la coordinación de la planeación, programación y ejecución de los recursos federales que le sean asignados a la Secretaría;
-
-VI. Representar a la persona Titular de la Secretaría, en las actividades convocadas por el Gobierno Federal, tales como encuentros, foros, convenciones o cualquier otra iniciativa que requiera la participación y colaboración de la Secretaría en lo concerniente a bienestar e inclusión social; y
-
-VII. Las demás que establezca (sic) este Reglamento y los ordenamientos legales y normatividad vigentes, así como las que le confiera la persona Titular de la Secretaría.
+(DEROGADO, G.O. 2 DE FEBRERO DE 2021)
 
 #### SECCIÓN XVII. DE LA SECRETARÍA DE TRABAJO Y FOMENTO AL EMPLEO
 
@@ -14851,3 +14865,15 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debid
 SEGUNDO.- El presente Decreto surtirá efectos a partir del día de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, así como en contratos o convenios, a las Unidades Administrativas que mediante el presente Decreto cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
+
+G.O. 2 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Decreto surtirá efectos a partir del día de su publicación.
+
+TERCERO.- Los asuntos que, con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas que se derogan o modifican, serán atendidos y resueltos por aquellas que las sustituyan o asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia.
+
+CUARTO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en contratos o convenios, a las Unidades Administrativas que mediante el presente Decreto cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
