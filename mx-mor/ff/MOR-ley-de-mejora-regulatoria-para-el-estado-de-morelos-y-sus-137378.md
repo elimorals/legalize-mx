@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-mejora-regulatoria-para-el-estado-de-morelos-y-sus-13737
 country: "mx"
 rank: "ley"
 publication_date: "2019-07-17"
-last_updated: "2019-07-17"
+last_updated: "2021-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2021.
 
 Ley publicada en el Alcance al Número 5726 del Periódico Oficial del Estado de Morelos, el miércoles 17 de julio de 2019.
 
@@ -88,7 +88,9 @@ II. Agenda Regulatoria, a la propuesta de las Regulaciones que los Sujetos Oblig
 
 III. Análisis de Impacto Regulatorio, herramienta mediante la cual los sujetos obligados justifican, ante la Autoridad de Mejora Regulatoria, la creación de nuevas disposiciones de carácter general, las reformas, modificaciones o, en su caso, la derogación o abrogación de instrumentos normativos, con base en los principios de la política de mejora regulatoria; garantizando que los beneficios de las Regulaciones sean superiores a sus costos y que éstas representen la mejor alternativa para atender una problemática específica;
 
-IV. Autoridad de Mejora Regulatoria, a la CEMER, las Comisiones de Mejora Regulatoria Municipales o las unidades administrativas o áreas responsables de conducir la política de mejora regulatoria en el Municipio; en sus respectivos ámbitos de competencia;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
+
+IV. Autoridad de Mejora Regulatoria, a la CEMER, las Comisiones de Mejora Regulatoria Municipales o las Unidades Administrativas o áreas responsables de conducir la política de mejora regulatoria en el Municipio; en sus respectivos ámbitos de competencia;
 
 V. Catálogo Estatal, al Catálogo Estatal de Regulaciones, Trámites y Servicios;
 
@@ -100,7 +102,9 @@ VIII. CEMER, a la Comisión Estatal de Mejora Regulatoria;
 
 IX. Comisionado Estatal, a la persona Titular de la CEMER;
 
-X. Comisionado Municipal, a la persona que funge como Secretario Técnico de la Comisión Municipal
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
+
+X. Comisionado Municipal, a la persona que funge como Secretario Técnico de la Comisión Municipal;
 
 XI. Comisión Municipal, a la Comisión Municipal encargada de la Mejora Regulatoria;
 
@@ -148,7 +152,9 @@ XXXII. Reglamento, al Reglamento de la Ley;
 
 XXXIII. Regulación o Regulaciones, a cualquier normativa de carácter general cuya denominación puede ser Acuerdo, Circular, Código, Criterio, Decreto, Directiva, Disposición de carácter general, Disposición Técnica, Estatuto, Formato, Instructivo, Ley, Lineamiento, Manual, Metodología, Regla, Reglamento, o cualquier otra denominación de naturaleza análoga, que expida cualquier Sujeto Obligado;
 
-XXXIV. Secretaría, a la Secretaría de Desarrollo Económico y del Trabajo del Gobierno del Estado de Morelos.
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
+
+XXXIV. Secretaría, a la Secretaría de Desarrollo Económico y del Trabajo del Gobierno del Estado de Morelos;
 
 XXXV. Servicio, a cualquier beneficio o actividad que los Sujetos Obligados, en el ámbito de su competencia, brinden a particulares, previa solicitud y cumplimiento de los requisitos aplicables;
 
@@ -156,15 +162,25 @@ XXXVI. Simplificación, al procedimiento por medio del cual se propicia la trans
 
 XXXVII. Sistema Estatal, al Sistema Estatal de Mejora Regulatoria;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE FEBRERO DE 2021)</small>
+
 XXXVIII. Sistemas Municipales, a los Sistemas Municipales de Mejora Regulatoria;
 
-XXVIII (SIC). Sistema Nacional, al Sistema Nacional de Mejora Regulatoria;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
 
-XXXIX. Sujeto Obligado, a la Administración Pública Estatal, Central o Paraestatal, y sus Organismos Descentralizados; los Municipios del Estado; y en los términos señalados en el artículo 1, párrafo segundo, de esta Ley los Poderes Legislativo y Judicial, los Órganos Constitucionales Autónomos y el Tribunal de Justicia Administrativa del Estado de Morelos;
+XXXIX. Sistema Nacional, al Sistema Nacional de Mejora Regulatoria;
 
-XL. Sujeto Obligado de la Administración Pública Estatal, a los Sujetos obligados exclusivamente de la Administración Pública Estatal; y,
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
 
-XLI. Trámite, a cualquier solicitud o entrega de información que las personas físicas o morales del sector privado realicen ante la autoridad competente en el ámbito estatal o municipal, ya sea para cumplir una obligación o, en general, a fin de que se emita una resolución.
+XL. Sujeto Obligado, a la Administración Pública Estatal, Central o Paraestatal, y sus Organismos Descentralizados; los Municipios del Estado; y en los términos señalados en el artículo 1, párrafo segundo, de esta Ley los Poderes Legislativo y Judicial, los Órganos Constitucionales Autónomos y el Tribunal de Justicia Administrativa del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
+
+XLI. Sujeto Obligado de la Administración Pública Estatal, a los Sujetos obligados exclusivamente de la Administración Pública Estatal, y
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
+
+XLII. Trámite, a cualquier solicitud o entrega de información que las personas físicas o morales del sector privado realicen ante la autoridad competente en el ámbito estatal o municipal, ya sea para cumplir una obligación o, en general, a fin de que se emita una resolución.
 
 ###### Artículo 4.
 
@@ -188,27 +204,47 @@ Los Sujetos Obligados en la expedición de las Regulaciones, Trámites y Servici
 
 La política de la Ley de Mejora Regulatoria se orientará por los principios que a continuación se enuncian:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADO], P.O. 3 DE FEBRERO DE 2021)</small>
+
 I. Mayores beneficios que costos y el máximo beneficio social;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADO], P.O. 3 DE FEBRERO DE 2021)</small>
 
 II. Seguridad jurídica que propicie la certidumbre de derechos y obligaciones;
 
-I (SIC). Focalización a objetivos claros, concretos y bien definidos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE FEBRERO DE 2021)</small>
 
-II (SIC). Coherencia y armonización de las disposiciones que integran el marco regulatorio nacional;
+III. Focalización a objetivos claros, concretos y bien definidos;
 
-III. Simplificación, mejora y no duplicidad en la emisión de Regulaciones, Trámites y Servicios;
+Coherencia y armonización de las disposiciones que integran el marco regulatorio nacional;
 
-IV. Accesibilidad tecnológica;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
 
-V. Proporcionalidad, prevención razonable y gestión de riesgos;
+IV. Simplificación, mejora y no duplicidad en la emisión de Regulaciones, Trámites y Servicios;
 
-VI. Transparencia, responsabilidad y rendición de cuentas;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
 
-VII. Fomento a la competitividad y el empleo;
+V. Accesibilidad tecnológica;
 
-VIII. Promoción de la libre concurrencia y competencia económica, así como del funcionamiento eficiente de los mercados, y
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
 
-IX. Reconocimiento de asimetrías en el cumplimiento regulatorio.
+VI. Proporcionalidad, prevención razonable y gestión de riesgos;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
+
+VII. Transparencia, responsabilidad y rendición de cuentas;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
+
+VIII. Fomento a la competitividad y el empleo;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
+
+IX. Promoción de la libre concurrencia y competencia económica, así como del funcionamiento eficiente de los mercados, y
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
+
+X. Reconocimiento de asimetrías en el cumplimiento regulatorio.
 
 Los Sujetos Obligados deberán ponderar los valores jurídicos tutelados a que se refiere este precepto y explicitar los criterios de decisión que subyacen a la política de mejora regulatoria atendiendo a los objetivos establecidos en esta Ley.
 
@@ -300,7 +336,7 @@ El Consejo Estatal es el órgano responsable de coordinar la política estatal e
 
 El Consejo Estatal estará integrado por:
 
-I. La persona Titular del Poder Ejecutivo Estatal, quien lo presidirá; o la persona a quien este designe.
+I. La persona Titular del Poder Ejecutivo Estatal, quien lo presidirá; o la persona a quien este designe;
 
 II. La persona Titular Jefe de la Oficina de la Gubernatura del Poder Ejecutivo Estatal;
 
@@ -320,7 +356,9 @@ IX. La persona Titular de la Presidencia del Tribunal Superior de Justicia o la 
 
 X. La persona Titular de la Presidencia de la Comisión de Desarrollo Económico del Congreso del Estado o la persona a quien este designe;
 
-XI. Cuatro personas representantes del sector empresarial y comercial en el Estado; electos bajo Convocatoria de la Secretaria, privilegiando la representatividad y la participación
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
+
+XI. Cuatro personas representantes del sector empresarial y comercial en el Estado; electos bajo Convocatoria de la Secretaria, privilegiando la representatividad y la participación;
 
 XII. Una persona representante del Sector Social en el Estado;
 
@@ -328,7 +366,9 @@ XIII. La persona Titular de la Presidencia del Colegio de Notarios del Estado de
 
 XIV. El Presidente Municipal Titular de la Junta de Gobierno del Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos.
 
-Para la integración de las personas representantes a que refieren las fracciones XIII, XIV y XV del presente artículo, se estará a lo dispuesto en el Reglamento, dichos representantes durarán en su encargo 3 años, sin poder ser electos por un periodo más, conforme lo señale el Reglamento.
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
+
+Para la integración de las personas representantes a que refieren las fracciones XI y XII del presente artículo, se estará a lo dispuesto en el Reglamento, dichos representantes durarán en su encargo 3 años, sin poder ser electos por un periodo más, conforme lo señale el Reglamento.
 
 ###### Artículo 15.
 
@@ -576,7 +616,9 @@ I. La persona Titular del Poder Ejecutivo Estatal, quien fungirá como President
 
 II. La persona Titular de la Consejería Jurídica;
 
-III. La persona Titular de la Secretaría de Economía, como Vocal;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
+
+III. La persona Titular de la Secretaría de Desarrollo Económico y del Trabajo, como Vocal;
 
 IV. La persona Titular de la Secretaría de Gobierno, como Vocal;
 
@@ -614,7 +656,11 @@ III. Aprobar a propuesta del Comisionado Estatal, el Reglamento, así como autor
 
 IV. Aprobar a propuesta del Comisionado Estatal, los Presupuestos Anuales de Ingresos y Egresos de la CEMER y, en su caso, la modificación a los mismos, de conformidad con las disposiciones jurídicas aplicables;
 
-V. Revisar y aprobar los estados financieros mensuales, previo el análisis que de los mismos realice el Comisario y aprobar con base en el Dictamen de la Auditoría externa que al efecto se realice, los Estados Financieros de fin de Ejercicio y ordenar la publicación de los mismos;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
+
+V. Aprobar anualmente, con base en el informe y opinión del órgano interno de control, los estados financieros de la CEMER y autorizar la publicación de ellos.
+
+Trimestralmente, el órgano interno de control, realizará un análisis y emitirá su opinión sobre el estado que guardan los estados financieros, y en su caso; si existen observaciones, conforme al marco jurídico vigente, deberá iniciar los procedimientos aplicables, en el ámbito de sus atribuciones.
 
 VI. Vigilar que los recursos económicos se apliquen conforme a los planes y programas de la CEMER aprobados;
 
@@ -1068,9 +1114,11 @@ La Protesta Ciudadana será revisada por la Autoridad de Mejora Regulatoria quie
 
 El procedimiento de la Protesta Ciudadana se regulará conforme a los lineamientos que emita el Consejo Estatal, los cuales deberán ajustarse a los que emita el Consejo Nacional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 67.
 
-El término para que los sujetos obligados resuelvan lo que corresponda, ante la presentación de solicitudes o peticiones de los ciudadanos en las materias previstas por esta Ley, será de cuarenta y cinco días naturales, salvo que en otra disposición de ley se establezca otro plazo.
+El término para que los sujetos obligados resuelvan lo que corresponda, ante la presentación de solicitudes o peticiones de los ciudadanos en las materias previstas por esta Ley, será dentro del término señalado en la normatividad correspondiente al trámite o servicio, pero en ningún caso deberá exceder el plazo de treinta días naturales, salvo que en otra disposición de ley se establezca un plazo mayor.
 
 Transcurrido el plazo mencionado, se entenderán las respuestas o resoluciones en sentido positivo o favorables al promovente, operando la afirmativa ficta, a menos que otra disposición en forma específica e indubitable prevea lo contrario. El Reglamento de esta Ley establecerá las formas y los tiempos para el ejercicio de esta acción.
 
@@ -1098,7 +1146,9 @@ IV. Justificación para emitir la Propuesta Regulatoria, y
 
 V. Fecha tentativa de presentación.
 
-Los Sujetos Obligados podrán iniciar los trabajos de elaboración de sus Propuestas Regulatorias aun cuando la materia o tema no esté incluida en su Agenda Regulatoria, pero no podrán ser emitidos sin que estén incorporados a dicha Agenda, salvo por las excepciones establecidas en el artículo 69 de esta Ley.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2021)</small>
+
+Los Sujetos Obligados podrán iniciar los trabajos de elaboración de sus Propuestas Regulatorias aun cuando la materia o tema no esté incluida en su Agenda Regulatoria, pero no podrán ser emitidos sin que estén incorporados a dicha Agenda, salvo por las excepciones establecidas en el artículo 70 de esta Ley.
 
 ###### Artículo 70.
 
@@ -1156,11 +1206,11 @@ IV. El análisis de los mecanismos y capacidades de implementación, verificaci�
 
 V. La identificación y descripción de los mecanismos, metodologías e indicadores que serán utilizados para evaluar el logro de los objetivos de la Regulación; y,
 
-VI. La descripción de los esfuerzos de consulta pública previa llevados a cabo para generar la Regulación o Propuesta Regulatoria, así como las opiniones de los particulares que hayan sido recabadas en el ejercicio de Agenda Regulatoria a que se refiere el artículo 67 de esta Ley.
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2021)</small>
 
-Para efectos de lo previsto en el presente artículo las Autoridades de Mejora Regulatoria podrán requerir información diferenciada de acuerdo con la naturaleza y el impacto de las Regulaciones.
+VI. La descripción de los esfuerzos de consulta pública previa, llevados a cabo para generar la Regulación o Propuesta Regulatoria, así como las opiniones de los particulares que hayan sido recabadas en el ejercicio de Agenda Regulatoria a que se refiere el artículo 68 de esta Ley.
 
-Asimismo, las Autoridades de Mejora Regulatoria deberán establecer criterios que los Sujetos Obligados deberán observar a fin de que sus Propuestas Regulatorias mitiguen el impacto sobre las micro, pequeñas y medianas empresas.
+Para efectos de lo previsto en el presente artículo las Autoridades de Mejora Regulatoria podrán requerir información diferenciada de acuerdo con la naturaleza y el impacto de las Regulaciones. Asimismo, las Autoridades de Mejora Regulatoria deberán establecer criterios que los Sujetos Obligados deberán observar a fin de que sus Propuestas Regulatorias mitiguen el impacto sobre las micro, pequeñas y medianas empresas.
 
 ###### Artículo 74.
 
@@ -1178,9 +1228,11 @@ Los Sujetos Obligados deberán manifestar por escrito su consideración respecto
 
 El Consejo Estatal aprobará, con base en las disposiciones generales que contenga la Estrategia Nacional, los lineamientos para la implementación del Análisis de Impacto Regulatorio ex post, mismos que la Autoridad Estatal y Municipal de Mejora Regulatoria desarrollará para su implementación.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 75.
 
-Cuando los Sujetos Obligados elaboren Propuestas Regulatorias, las presentarán a la Autoridad de Mejora Regulatoria correspondiente, junto con un Análisis de Impacto Regulatorio que contenga los elementos que esta determine, atendiendo a lo dispuesto en el artículo 72 de esta Ley, cuando menos treinta días antes de la fecha en que pretendan publicarse en el Periódico Oficial o someterse a la consideración del Titular del Ejecutivo Estatal o del Ayuntamiento.
+Cuando los Sujetos Obligados elaboren Propuestas Regulatorias, las presentarán a la Autoridad de Mejora Regulatoria correspondiente, junto con un Análisis de Impacto Regulatorio que contenga los elementos que esta determine, atendiendo a lo dispuesto en el artículo 73 de esta Ley, cuando menos treinta días antes de la fecha en que pretendan publicarse en el Periódico Oficial o someterse a la consideración del Titular del Ejecutivo Estatal o del Ayuntamiento.
 
 ###### Artículo 76.
 
@@ -1224,15 +1276,19 @@ Cuando la Autoridad de Mejora Regulatoria determine que la publicidad de la Prop
 
 La responsabilidad de considerar que la publicación pudiera comprometer los efectos que se pretendan lograr con la Regulación, recae exclusivamente en el Sujeto Obligado que solicite dicho tratamiento, y su justificación será pública a partir del momento en que la Regulación se publique en el Periódico Oficial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 80.
 
-La Autoridad de Mejora Regulatoria deberá emitir y entregar al Sujeto Obligado un Dictamen del Análisis de Impacto Regulatorio y de la Propuesta Regulatoria respectiva, dentro de los treinta días siguientes a la recepción del Análisis de Impacto Regulatorio, de las ampliaciones o correcciones al mismo, o de los comentarios de los expertos a que se refiere el artículo 76 de esta Ley.
+La Autoridad de Mejora Regulatoria deberá emitir y entregar al Sujeto Obligado un Dictamen del Análisis de Impacto Regulatorio y de la Propuesta Regulatoria respectiva, dentro de los treinta días siguientes a la recepción del Análisis de Impacto Regulatorio, de las ampliaciones o correcciones al mismo, o de los comentarios de los expertos a que se refiere el artículo 77 de esta Ley.
 
 El Dictamen deberá considerar las opiniones que, en su caso, reciba la Autoridad de Mejora Regulatoria de los interesados y comprenderá, entre otros aspectos, una valoración sobre si se justifican las acciones contenidas en la Propuesta Regulatoria, así como el cumplimiento de los principios y objetivos de la política de mejora regulatoria establecidos en esta Ley.
 
 Cuando el Sujeto Obligado manifieste conformidad hacia las recomendaciones contenidas en el Dictamen, deberá ajustar la Propuesta Regulatoria en consecuencia. En caso contrario, deberá comunicar por escrito las razones respectivas a la Autoridad de Mejora Regulatoria en un plazo no mayor a cuarenta y cinco días, a fin de que esta emita un Dictamen final dentro de los cinco días siguientes.
 
-En caso de que la Autoridad de Mejora Regulatoria no reciba respuesta al Dictamen o a los comentarios de los expertos a que se refiere el artículo 76 en el plazo indicado en el párrafo anterior, se tendrá por desechado el procedimiento para la Propuesta Regulatoria.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2021)</small>
+
+En caso de que la Autoridad de Mejora Regulatoria no reciba respuesta al Dictamen o a los comentarios de los expertos a que se refiere el artículo 77 en el plazo indicado en el párrafo anterior, se tendrá por desechado el procedimiento para la Propuesta Regulatoria.
 
 El Dictamen a que se refiere el primer párrafo del presente artículo podrá ser final únicamente cuando no existan comentarios derivados de la consulta pública o de la propia Autoridad de Mejora Regulatoria o, en su caso, dichos comentarios hayan sido en los términos a que se refiere este artículo.
 
@@ -1246,11 +1302,15 @@ La autoridad encargada del Periódico Oficial únicamente publicará las Regulac
 
 La versión que publiquen los Sujetos Obligados deberá coincidir íntegramente con la contenida en la resolución antes señalada, salvo en el caso de las disposiciones que emite el Titular del Ejecutivo Estatal o el Ayuntamiento, en cuyo caso la Consejería Jurídica del Estado o la autoridad homóloga en el Municipio resolverán el contenido definitivo.
 
-La persona titular del Periódico Oficial del Estado publicará dentro de este, conforme a su Reglamento, la lista que le proporcione la Autoridad de Mejora Regulatoria de los títulos de las Regulaciones y los documentos a que se refiere el artículo 77 de esta Ley.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2021)</small>
+
+La persona titular del Periódico Oficial del Estado publicará dentro de este, conforme a su Reglamento, la lista que le proporcione la Autoridad de Mejora Regulatoria de los títulos de las Regulaciones y los documentos a que se refiere el artículo 78 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 82.
 
-Los Sujetos Obligados deberán someter las Regulaciones que generen costos de cumplimiento, identificadas en el procedimiento a la (sic) que se refiere el artículo 74 de esta Ley, a una revisión cada cinco años ante la Autoridad Estatal de Mejora Regulatoria correspondiente, utilizando para tal efecto el Análisis de Impacto Regulatorio ex post.
+Los Sujetos Obligados deberán someter las Regulaciones que generen costos de cumplimiento, identificadas en el procedimiento a la (sic) que se refiere el artículo 75 de esta Ley, a una revisión cada cinco años ante la Autoridad Estatal de Mejora Regulatoria correspondiente, utilizando para tal efecto el Análisis de Impacto Regulatorio ex post.
 
 Lo anterior, con el propósito de evaluar los efectos de su aplicación y permitir que los Sujetos Obligados determinen la pertinencia para alcanzar sus objetivos originales y atender a la problemática vigente.
 
@@ -1439,3 +1499,15 @@ SECRETARIO DE GOBIERNO
 LIC. PABLO HÉCTOR OJEDA CÁRDENAS
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO NOVECIENTOS CUARENTA Y SEIS POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS”.]
+
+PRIMERA.- Túrnese la presente Ley al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan a lo previsto en el presente Decreto.
