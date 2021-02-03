@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2020-07-27"
+last_updated: "2021-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE FEBRERO DE 2021.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 26 de agosto de 2004.
 
@@ -273,9 +273,9 @@ XVIII. Requerir, en su caso, a los terceros que hubieren contratado obras, biene
 
 XIX. Requerir a las entidades fiscalizables la información, documentos físicos y/o electrónicos necesarios para los actos de fiscalización, así como solicitar a otras autoridades el auxilio o colaboración para el cumplimiento de sus atribuciones.
 
-> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2021)</small>
 
-De no proporcionar la información, los responsables serán sancionados en los términos de la legislación aplicable.
+La negativa a entregar información al Órgano Superior, así como los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora será sancionada conforme a la Ley General de Responsabilidades Administrativas y Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 > <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -1005,6 +1005,16 @@ V. Las autoridades hacendarias.
 
 El Órgano Superior tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de recursos públicos y la deuda pública, estando obligado a mantener la misma reserva, en términos de las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, G.G. 3 DE FEBRERO DE 2021)</small>
+
+###### Artículo 42 Bis.
+
+Los servidores públicos, así como cualquier entidad, persona física o jurídico colectiva, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite el Órgano Superior para efectos de sus auditorías e investigaciones, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+
+De no proporcionar la información, los responsables serán sancionados en los términos de la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de México y Municipios, en su caso, en términos de la legislación penal aplicable.
+
+Cuando los servidores públicos y las personas físicas y jurídico colectiva, públicas o privadas aporten información falsa, serán sancionados penalmente conforme a lo previsto por las leyes penales aplicables.
+
 > <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
 ###### Artículo 43.
@@ -1207,17 +1217,15 @@ Lo anterior, sin perjuicio de la promoción de las demás responsabilidades admi
 
 El Organo Superior, para hacer cumplir sus determinaciones, podrá imponer de manera fundada y motivada, los medios de apremio siguientes:
 
-I. Amonestación por escrito;
+I. (DEROGADA, G.G. 3 DE FEBRERO DE 2021)
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 3 DE FEBRERO DE 2021)</small>
 
-II. Multa de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización vigente.
+II. Multa de 100 a 150 veces el valor diario de la unidad de medida y actualización, la cual podrá duplicarse o triplicarse en cada ocasión, hasta alcanzar 1,500 veces el valor diario de la unidad de medida y actualización;
 
 III. Auxilio de la fuerza pública; y
 
-> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
-
-IV. Apercibimiento que, en caso de no cumplir, se hará acreedor al procedimiento administrativo correspondiente, el cual procederá conforme a lo establecido por la Ley General de Responsabilidades de (sic) Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+IV. (DEROGADA, G.G. 3 DE FEBRERO DE 2021)
 
 ###### Artículo 60.
 
@@ -1796,3 +1804,13 @@ CUARTO. Todas las referencias que se hagan al informe mensual, en cualquier orde
 QUINTO. Las acciones de fiscalización, investigaciones y los procedimientos administrativos iniciados por el Órgano Superior con anterioridad a la entrada en vigor de este Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 
 SEXTO. El Reglamento Interior del Órgano Superior que se encuentre vigente a la entrada en vigor de este Decreto, se aplicará en aquello que no se oponga a éste, hasta que se expidan las modificaciones al Reglamento, mismas que deberán realizarse en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+G.G. 3 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 239.- POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN XIX DEL ARTÍCULO 8 Y LA FRACCIÓN II DEL ARTÍCULO 59; SE ADICIONA EL ARTÍCULO 42 BIS; Y SE DEROGAN LAS FRACCIONES I Y IV DEL ARTÍCULO 59 DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Los procedimientos que se encuentren en trámite, se substanciaran conforme a la normatividad aplicable en su momento.
