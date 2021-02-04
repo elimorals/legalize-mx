@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-120888
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-04-12"
-last_updated: "2019-12-20"
+last_updated: "2021-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120888&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2017-04-05"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 20 DE DICIEMBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE FEBRERO DE 2021.
 
 Estatuto publicado en la Segunda Sección al Número 8 del Diario Oficial de la Federación, el miércoles 12 de abril de 2017.
 
@@ -223,9 +221,17 @@ VI. CFE Generación VI;
 
 VII. CFE Transmisión;
 
-VIII. CFE Distribución; y
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
 
-IX. CFE Suministrador de Servicios Básicos.
+VIII. CFE Distribución;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+IX. CFE Suministrador de Servicios Básicos; y
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+X. CFE Telecomunicaciones e Internet para Todos
 
 b) Empresas Filiales, en las que participe, directa o indirectamente, en más del cincuenta por ciento de su capital social, con independencia de que se constituyan conforme a la legislación mexicana o a la extranjera; no serán entidades paraestatales y tendrán la naturaleza jurídica y se organizarán conforme al derecho privado del lugar de su constitución o creación:
 
@@ -233,11 +239,17 @@ I. CFE Calificados S.A. de C.V.;
 
 II. CFEnergía S.A. de C.V.;
 
-> <small>(F. DE E., D.O.F. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
 
-III. CFE International LLC; y
+III. CFE International LLC;
 
-IV. CFE Intermediación de Contratos Legados S.A. de C.V.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+IV. CFE Intermediación de Contratos Legados S.A. de C.V.; y
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+V. CFECapital (sic), S. de R.L. de C.V.
 
 Adicionalmente, la Comisión contará con las demás empresas productivas subsidiarias y empresas filiales que se determinen de conformidad con los Términos para la Estricta Separación Legal y las demás disposiciones jurídicas aplicables.
 
@@ -319,7 +331,19 @@ IX. Funciones del Prosecretario.- El Consejo, a propuesta del Director General, 
 
 El Prosecretario tendrá facultad para expedir copias certificadas de los acuerdos y actas del Consejo, así como de cualquier documento relacionado con los anteriores.
 
-Asimismo, representará al Consejo para todos los trámites en el juicio de amparo. Para tal efecto, podrá por medio de oficio, acreditar delegados que concurran a las audiencias para el efecto de que en ellas rindan pruebas, aleguen, hagan promociones e interpongan recursos. Lo anterior, en términos de la Ley de Amparo. Las Reglas de Funcionamiento establecerán las demás funciones del Prosecretario.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+Asimismo, fungirá como representante legal del Consejo y sus Comités Auxiliares ante toda clase de autoridades, tales como las encargadas de la tramitación y resolución de procesos jurisdiccionales, administrativos y de cualquier otra índole, incluido el juicio de amparo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+Para tal efecto, podrá acreditar delegados que concurran a las audiencias con el propósito de que en ellas rindan pruebas, aleguen, interpongan promociones y recursos, en términos de la ley que regule el acto, diligencia o procedimiento.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN IX, D.O.F. 4 DE FEBRERO DE 2021]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+Las Reglas de Operación y Funcionamiento establecerán las demás funciones del Prosecretario.
 
 ###### ARTÍCULO 11.
 
@@ -435,7 +459,9 @@ IV. Subdirección de Evaluación de Proyectos de Inversión.
 
 A la Dirección Corporativa de Administración estarán adscritas las siguientes áreas:
 
-I. Coordinación de Administración y Servicios;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+I. Subdirección de Contratación y Servicios;
 
 II. Coordinación de Proyectos Especiales y Racionalización de Activos;
 
@@ -447,11 +473,15 @@ IV. Coordinación de Recursos Humanos.
 
 A la Dirección Corporativa de Ingeniería y Proyectos de Infraestructura estarán adscritas las siguientes áreas:
 
-I. Subdirección de Estrategia y Desarrollo de Negocio;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
 
-II. Subdirección de Ingeniería y Administración de la Construcción; y
+I. Subdirección de Ingeniería y Administración de la Construcción;
 
-III. Subdirección de Estructuración de Proyectos.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+II. Coordinación de Protección Ambiental y Desarrollo de Proyectos de Infraestructura; y
+
+III. (DEROGADA, D.O.F. 4 DE FEBRERO DE 2021)
 
 ###### ARTÍCULO 20.
 
@@ -653,13 +683,21 @@ XIII. Dirigir la estrategia e implementación de los lineamientos de la administ
 
 XIV. Integrar los estados financieros bajo Normas Internacionales de Información Financiera para su publicación.
 
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+XV. Fungir como representante legal del Consejo de Administración y sus Comités Auxiliares, ante instancias y autoridades financieras, bursátiles, bancarias y en general ante todas aquellas autoridades de acuerdo a su ámbito de competencia.
+
 ###### ARTÍCULO 30.
 
 A la Dirección Corporativa de Administración le corresponden, además de las funciones genéricas señaladas en el presente Estatuto, las siguientes:
 
-I. Emitir las convocatorias, bases y pliegos de requisitos relacionados con adquisición de bienes, servicios y obras que realice la Comisión, conforme a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
 
-II. Dirigir las acciones y estrategias en materia de adquisiciones, arrendamientos, servicios, almacenes, transporte de bienes, servicios generales, servicios aduanales, transportes aéreos y terrestres, logística administrativa en inmuebles del Corporativo y protección civil, recursos materiales, racionalización de activos, servicios tecnológicos, transformación digital y comunicaciones aplicables a la Comisión;
+I. Dirigir los procedimientos de contratación en las materias de adquisiciones, arrendamientos y servicios, así como de obras y servicios relacionados que realice la Comisión, conforme a las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+II. Dirigir las acciones y estrategias en materia de adquisiciones, arrendamientos y servicios, obras y servicios relacionados, almacenes, transporte de bienes, servicios generales, servicios aduanales, transportes aéreos y terrestres, logística administrativa en inmuebles del Corporativo y protección civil, recursos materiales, racionalización de activos, servicios tecnológicos, transformación digital y comunicaciones aplicables a la Comisión;
 
 III. Dirigir los procesos y establecer las estrategias en materia de organización, servicios al personal y relaciones laborales;
 
@@ -687,7 +725,13 @@ XIII. Coordinar la estrategia de aseguramiento para la protección de los activo
 
 XIV. (DEROGADA, D.O.F. 13 JUNIO DE 2019)
 
-XV. Participar en la administración de recursos para la vivienda de los trabajadores.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+XV. Participar en la administración de recursos para la vivienda de los trabajadores; y
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+XVI. Emitir normatividad en materia de recursos humanos; adquisiciones, arrendamientos y servicios; obras y servicios relacionados; tecnologías de información; bienes inmuebles, y demás materias que se encuentren dentro de su ámbito de competencia.
 
 ###### ARTÍCULO 31.
 
@@ -699,7 +743,7 @@ II. Planear la gestión, ejecución, supervisión y desarrollo de servicios de i
 
 III. Establecer los lineamientos y elaborar los estudios técnicos referentes a proyectos, así como la evaluación del impacto ambiental y la comercialización de los productos finales; y
 
-IV. Emitir las convocatorias, bases y pliegos de requisitos relacionados con adquisición de bienes, servicios y obras que se relacionen con los proyectos de infraestructura a su cargo y dirigir la sustanciación de los procedimientos de contratación y la firma de los contratos respectivos.
+IV. (DEROGADA, D.O.F. 4 DE FEBRERO DE 2021)
 
 ###### ARTÍCULO 32.
 
@@ -937,21 +981,33 @@ VIII. Analizar los reportes trimestrales de cada proyecto o programa de inversi�
 
 ### CAPÍTULO X. Funciones Específicas de las áreas adscritas a la Dirección Corporativa de Administración
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
 ###### ARTÍCULO 44.
 
-A la Coordinación de Administración y Servicios, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden las siguientes:
+A la Subdirección de Contratación y Servicios, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden las siguientes:
 
-I. Emitir las convocatorias, bases y pliegos de requisitos relacionados con la adquisición de bienes, servicios y obras que requiera la Comisión o cualquiera de sus empresas productivas subsidiarias que se lo solicite;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
+I. Emitir las convocatorias y pliegos de requisitos relativos a contrataciones en las materias de adquisiciones, arrendamientos y servicios, así como de obras y servicios relacionados que requiera la Comisión o cualquiera de sus empresas productivas subsidiarias que se lo solicite;
 
-II. Proponer disposiciones normativas, en materia de adquisiciones, arrendamientos, servicios, inteligencia de mercado y almacenes;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
+II. Proponer disposiciones normativas, en las materias de adquisiciones, arrendamientos, servicios, obras y servicios relacionados, y almacenes;
 
-III. Implementar las acciones referidas a procesos de inteligencia de mercado, servicios generales, protección civil, transporte de bienes, transportes aéreos y terrestres, logística administrativa en inmuebles de la Comisión, aplicables a la Comisión;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+III. Implementar las acciones referidas a procesos de servicios generales, protección civil, transporte de bienes, transportes aéreos y terrestres, logística administrativa en inmuebles, aplicables a la Comisión;
 
 IV. Coordinar la operación del sistema electrónico de contrataciones de la Comisión y sus empresas productivas subsidiarias.
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+V. Dirigir los procedimientos de contratación en las materias de adquisiciones, arrendamientos y servicios, así como de obras y servicios relacionados que requiera la Comisión o cualquiera de sus empresas productivas subsidiarias que se lo solicite; y
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+VI. Tramitar los procedimientos de contratación y la firma de los contratos respectivos.
 
 ###### ARTÍCULO 45.
 
@@ -1005,37 +1061,47 @@ V. Proponer la estrategia del programa de capacitación de los recursos humanos 
 
 ### CAPÍTULO XI. Funciones Específicas de las áreas adscritas a la Dirección Corporativa de Ingeniería y Proyectos de Infraestructura
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
 ###### ARTÍCULO 48.
-
-A la Subdirección de Estrategia y Desarrollo de Negocio, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden las siguientes:
-
-I. Proponer la gestión, ejecución, supervisión y desarrollo de nuevos negocios de proyectos de infraestructura, así como la promoción y la venta de los mismos;
-
-II. Promover la inversión en nuevos proyectos de infraestructura y servicios de ingeniería para el corto, mediano y largo plazo; y
-
-III. Proponer los precios por los servicios que preste la Dirección Corporativa a la que está adscrita, así como los lineamientos de atención de clientes.
-
-###### ARTÍCULO 49.
 
 A la Subdirección de Ingeniería y Administración de la Construcción, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden las siguientes:
 
 I. Proponer la gestión, ejecución, supervisión y desarrollo de servicios de ingeniería a la Comisión, sus empresas productivas subsidiarias, empresas filiales, así como a terceros;
 
-II. Proponer los lineamientos y elaborar los estudios técnicos referentes a proyectos, así como la evaluación del impacto ambiental y la comercialización de los productos finales; y
+II. Proponer los lineamientos y elaborar los estudios técnicos referentes a proyectos, así como la evaluación del impacto ambiental y la comercialización de los productos finales, dentro de su ámbito de competencia; y
 
 III. Desarrollar la supervisión de obra y puesta en servicio de los proyectos de infraestructura que le sea encargada por la Comisión, sus empresas productivas subsidiarias o cualquier tercero.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+###### ARTÍCULO 49.
+
+A la Coordinación de Protección Ambiental y Desarrollo de Proyectos de Infraestructura, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden las siguientes:
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+I. Coordinar que las obras y actividades de la Comisión se realicen en apego al marco jurídico ambiental y de protección al patrimonio cultural;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+II. Estructurar los nuevos proyectos de infraestructura, así como prestar el servicio de acompañamiento durante la administración de los proyectos;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+III. Proponer la gestión, ejecución, supervisión y desarrollo de nuevos negocios de proyectos de infraestructura, así como la promoción y la venta de los mismos;
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+IV. Promover la inversión en nuevos proyectos de infraestructura y servicios de ingeniería para el corto, mediano y largo plazo; y
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+V. Proponer los precios por los servicios que preste la Dirección Corporativa a la que está adscrita, así como los lineamientos de atención de clientes.
+
 ###### ARTÍCULO 50.
 
-A la Subdirección de Estructuración de Proyectos, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden las siguientes:
-
-I. Emitir las convocatorias, bases y pliegos de requisitos relacionados con adquisición de bienes, servicios y obras de proyectos de infraestructura que requiera la Comisión o cualquiera de sus empresas productivas subsidiarias que se lo solicite;
-
-II. Dirigir los procesos de concurso relacionados con los proyectos de infraestructura;
-
-III. Conducir la sustanciación de los procedimientos de contratación y la firma de los contratos respectivos; y
-
-IV. Estructurar los nuevos proyectos de infraestructura, elaborar esquemas de contratación, así como prestar el servicio de acompañamiento durante la administración de los proyectos.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2021)
 
 ### CAPÍTULO XII. Funciones Específicas de las áreas adscritas a la Oficina del Abogado General
 
@@ -1221,49 +1287,61 @@ De la Instancia Colegiada en materia de recursos de reconsideración.
 
 ### CAPÍTULO ÚNICO. Integración y Funciones de la Instancia Colegiada
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
 ###### ARTÍCULO 73.
 
-En materia de adquisiciones, arrendamientos, contratación de servicios y ejecución de obras de la Comisión y sus empresas productivas subsidiarias, la instancia colegiada responsable de tramitar y resolver el recurso de reconsideración se integrará de la siguiente manera:
+La instancia colegiada responsable de tramitar y resolver el recurso de reconsideración a que hace referencia el artículo 83, fracción I, de la Ley, se integrará de la siguiente manera:
 
 I. El Abogado General, quien la presidirá y será responsable de la sustanciación del procedimiento;
 
-II. El Titular del Área de Auditoría Interna de la Comisión;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+II. El Titular de la Auditoría Interna de la Comisión;
 
 III. El Director Corporativo de Administración; y
 
-IV. El Director Corporativo de Ingeniería y Proyectos de Infraestructura.
+IV. (DEROGADA, D.O.F. 4 DE FEBRERO DE 2021)
 
-Para los casos excepcionales en donde sea imposible la participación de los integrantes señalados en las fracciones anteriores, éstos podrán designar por escrito a su respectivo suplente, el cual deberá tener el nivel jerárquico inmediato inferior al del titular.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2021)</small>
 
-La instancia colegiada contará con un área responsable de la instrucción, cuya función principal será sustanciar el procedimiento en términos de lo que disponga el Reglamento.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+ARTÍCULO 73 BIS.- El Abogado General será suplido por el titular de la Coordinación de Asuntos Contenciosos de la Oficina del Abogado General, y en caso de la ausencia de ambos, por cualquiera de los titulares de las Coordinaciones de la Oficina del Abogado General.
+
+En caso de ausencia del Abogado General y sus suplentes, las diligencias que le competen a éste podrán ser dictadas por cualquiera de los integrantes de la instancia colegiada.
+
+Por lo que hace al resto de los integrantes de la Instancia Colegiada, se seguirá el sistema de suplencias establecido en el Título Décimo de este Estatuto.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2021)</small>
 
 ###### ARTÍCULO 74.
 
-La instancia colegiada tendrá las funciones siguientes:
+La instancia colegiada dictará todas y cada una de las resoluciones y acuerdos plenarios, necesarios para tener por no interpuesto el recurso de reconsideración, declararlo improcedente, sobreseerlo, otorgar o negar la suspensión de la ejecución del fallo impugnado, y resolver el recurso en definitiva.
 
-I. Otorgar o negar la suspensión de la ejecución del fallo impugnado, dentro del término establecido en el Reglamento;
-
-II. Tener por no interpuesto el recurso de reconsideración en los casos que así lo establezca el Reglamento;
-
-III. Determinar como improcedente el recurso de reconsideración en los casos que establece el Reglamento;
-
-IV. Sobreseer el recurso de reconsideración en los casos que establece el Reglamento;
-
-V. Desahogar las pruebas que ofrezcan las partes conforme al procedimiento establecido en el Reglamento; y
-
-VI. Resolver en definitiva los recursos de reconsideración.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2021)</small>
 
 ###### ARTÍCULO 75.
 
-El Abogado General, en su carácter de presidente de la instancia colegiada, podrá dictar todas y cada una de las diligencias necesarias para la substanciación de los recursos a que se refiere este capítulo.
+El Abogado General, en su carácter de presidente de la instancia colegiada, dictará todos y cada uno de los acuerdos, diligencias y demás actos procedimentales, necesarios para la substanciación del recurso a que se refiere este capítulo.
 
-En caso de ausencia del Abogado General las diligencias podrán ser dictadas por cualquiera de los integrantes de la instancia colegiada.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2021)</small>
 
 ###### ARTÍCULO 76.
 
-El Abogado General, en su carácter de presidente de la instancia colegiada, representará a ésta para todos los trámites en el juicio de amparo, por lo que podrá, por medio de oficio, acreditar delegados que concurran a las audiencias para el efecto de que en ellas rindan pruebas, aleguen, hagan promociones e interpongan recursos; lo anterior, en términos de la Ley de Amparo.
+El Abogado General, en su carácter de presidente de la instancia colegiada, representará a ésta ante toda clase de autoridades, tales como las encargadas de la tramitación y resolución de procesos jurisdiccionales, administrativos y de cualquier otra índole, incluido el juicio de amparo.
 
-En los casos de ausencia del Abogado General la instancia colegiada será representada para los efectos del párrafo anterior por cualquiera de sus integrantes.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+Para lo anterior, podrá acreditar delegados y autorizados que concurran a las audiencias para el efecto de que en ellas rindan pruebas, aleguen, interpongan promociones y recursos, en términos de la ley que regule el acto, diligencia o procedimiento.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2021)</small>
+
+El Abogado General podrá ejercer la representación de la instancia colegiada por sí mismo o a través del titular de la Coordinación de Asuntos Contenciosos de la Oficina del Abogado General. En caso de ausencia de ambos, la representación recaerá en cualquiera de los demás integrantes de la instancia colegiada.
 
 ###### ARTÍCULO 77.
 
@@ -1374,3 +1452,11 @@ D.O.F. 20 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DE “MODIFICACIONES AL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD”.]
 
 Único.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS "MODIFICACIONES AL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD".]
+
+Primero.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En tanto se formaliza la creación de la Subdirección de Contratación y Servicios y ésta entra en operación, las actividades relacionadas con el desarrollo de procedimientos de contratación en las materias de adquisiciones, arrendamientos y servicios y de obras y servicios relacionados, se continuarán realizando por las unidades administrativas que, previo a la entrada en vigor de estas modificaciones, sean responsables de las mismas.
