@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-de-la-ciudad-de-mexico-antes-109435"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-17"
-last_updated: "2020-02-11"
+last_updated: "2021-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109435&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-17"
 
 REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2021.
 
 Reglamento publicado en el No. Bis de la Gaceta Oficial del Distrito Federal, el lunes 17 de agosto de 2015.
 
@@ -48,7 +48,9 @@ Las disposiciones de este reglamento son aplicables a peatones, ciclistas, condu
 
 Corresponde a la Secretaría de Seguridad Ciudadana aplicar sanciones por infracciones a las disposiciones de este Reglamento. Corresponde a la Consejería Jurídica y de Servicios Legales, mediante la Dirección Ejecutiva de Justicia Cívica, supervisar el cumplimiento de los trabajos a favor de la comunidad.
 
-En todo lo no previsto en el presente ordenamiento se aplicará de manera supletoria las disposiciones contenidas en la Ley de Movilidad del Distrito Federal, en la Ley de Cultura Cívica de la Ciudad de México, Reglamento de la Ley de Cultura Cívica de la Ciudad de México, en los programas ambientales y de seguridad vial.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En todo lo no previsto en el presente ordenamiento se aplicará de manera supletoria las disposiciones contenidas en la Ley de Movilidad de la Ciudad de México, en la Ley de Cultura Cívica de la Ciudad de México, Reglamento de la Ley de Cultura Cívica vigente en la Ciudad de México, en los programas ambientales y de seguridad vial.
 
 ###### Artículo 2.
 
@@ -80,21 +82,31 @@ VI. El uso del automóvil particular deberá ser de manera racional, con el obje
 
 Estos principios deben ser difundidos por autoridades y promotores voluntarios de forma permanente a través de campañas, programas y cursos.
 
-La Secretaría en coordinación con Seguridad Pública, diseñará y llevará a cabo campañas permanentes de cultura de movilidad y seguridad vial que garanticen la concientización y respeto a la seguridad de todos los usuarios de la vía, del mismo modo, se realizarán acciones para inhibir el consumo de alcohol, narcóticos, estupefacientes o psicotrópicos al conducir.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+La Secretaría en coordinación con Seguridad Ciudadana, diseñará y llevará a cabo campañas permanentes de cultura de movilidad y seguridad vial que garanticen la concientización y respeto a la seguridad de todos los usuarios de la vía, del mismo modo, se realizarán acciones para inhibir el consumo de alcohol, narcóticos, estupefacientes o psicotrópicos al conducir.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 3.
 
-En el ámbito de sus atribuciones, son autoridades competentes para la aplicación del presente reglamento la Secretaría, Seguridad Pública y los Jueces Cívicos.
+En el ámbito de sus atribuciones, son autoridades competentes para la aplicación del presente reglamento la Secretaría, Seguridad Ciudadana y las personas Titulares de los Juzgados Cívicos.
 
 ###### Artículo 4.
 
 Además de lo que señala la Ley y sus reglamentos, para los efectos de este Reglamento, se entiende por:
 
-I. Agente, elemento de la Policía del Distrito Federal con funciones para el control de tránsito;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+I. Agente. persona integrante de la Policía de Control de Tránsito;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+I Bis. Agente autorizado para infraccionar, persona integrante de la Policía de Control de Tránsito, autorizada para expedir y firmar las boletas de sanción, con motivo de infracciones a las disposiciones en materia de tránsito, captadas mediante sistemas tecnológicos y equipos electrónicos portátiles;
 
 > <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
-II.- Amonestación, acto por el cual el agente advierte a los peatones, conductores y pasajeros de un vehículo sobre el incumplimiento cometido a las disposiciones de este reglamento y tiene como propósito orientarlos a conducirse de conformidad con lo establecido en el mismo y prevenir la realización de otras conductas similares, puede realizarse de manera verbal o por escrito, mismo que será notificado en el domicilio del infractor que se encuentre registrado en los sistemas de la Secretaría;
+II. Amonestación, acto por el cual el agente advierte a los peatones, conductores y pasajeros de un vehículo sobre el incumplimiento cometido a las disposiciones de este reglamento y tiene como propósito orientarlos a conducirse de conformidad con lo establecido en el mismo y prevenir la realización de otras conductas similares, puede realizarse de manera verbal o por escrito, mismo que será notificado en el domicilio del infractor que se encuentre registrado en los sistemas de la Secretaría;
 
 III. Área de espera para bicicletas y motocicletas, zona marcada sobre el pavimento en una intersección de vías que tengan semáforos, que permite a los conductores de estos vehículos aguardar la luz verde del semáforo en una posición adelantada, de tal forma que sean visibles a los conductores del resto de los vehículos;
 
@@ -138,13 +150,15 @@ XIII. Dispositivos para el control del tránsito, conjunto de elementos que orde
 
 XIII Bis. Equipo Electrónico, Al conjunto de aparatos y dispositivos portátiles para el tratamiento de imagen e información para apoyar tareas de movilidad y seguridad vial;
 
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-XIV.- Elemento de Seguridad Ciudadana.- miembro de la policía preventiva o complementaria;
+XIV. Integrante de Seguridad Ciudadana, Las personas integrantes de los cuerpos policiales bajo la responsabilidad de la Secretaría de Seguridad Ciudadana;
 
 XV. Espacios para servicios especiales, son todos aquellos sitios en la vía pública debidamente autorizados por la Secretaría, exclusivos para realizar maniobras de ascenso y descenso de pasajeros o para como áreas reservadas para personas con discapacidad, servicio de acomodadores, bicicletas y motocicletas, sitios y lanzaderas de transporte público, áreas para carga y descarga, transporte de valores, correos, mensajería, mensajería y paquetería, recolección de residuos sólidos, vehículos de emergencia, y los que se señalen por la Secretaria;
 
-XVI. Formato de hecho de tránsito, cédula en la que se establecen las circunstancias de tiempo, lugar y modo de incidentes viales, en la cual el agente o elemento de Seguridad Pública registra: fecha, hora, lugar; datos de las personas y vehículos involucrados, en su caso, número de lesionados o fallecidos; servicios de emergencia y en su caso, del Ministerio Publico; y cualquier otro dato que sea necesario para determinar las características del incidente y responsabilidad de quienes hayan intervenido en el hecho.
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+XVI. Formato de hecho de tránsito, cédula en la que se establecen las circunstancias de tiempo, lugar y modo de incidentes viales, en la cual los agentes o el integrante de Seguridad Ciudadana registra: fecha, hora, lugar; datos de las personas y vehículos involucrados, en su caso, número de lesionados o fallecidos; servicios de emergencia y en su caso, del Ministerio Público; y cualquier otro dato que sea necesario para determinar las características del incidente y responsabilidad de quienes hayan intervenido en el hecho.
 
 XVII. Hecho de tránsito, evento producido por el tránsito vehicular, en el que interviene por lo menos un vehículo, causando daños materiales, lesiones y/o muerte de personas;
 
@@ -154,7 +168,9 @@ XIX. Intersección, nodo donde convergen dos o más vías, en la que se realizan
 
 XX. Juez Cívico, los Jueces Cívicos adscritos a la Consejería Jurídica y de Servicios Legales;
 
-XXI. Ley, la Ley de Movilidad del Distrito Federal;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+XXI. Ley, la Ley de Movilidad de la Ciudad de México;
 
 XXII. Motocicleta, vehículo motorizado que utiliza manubrio para su conducción, de una o más plazas, con dos o más ruedas, que está equipado con motor eléctrico, de combustión interna de dos o cuatro tiempos, con un cilindraje a partir de cuarenta y nueve centímetros cúbicos de desplazamiento o impulsado por cualquier otra fuerza motriz, que cumpla con las disposiciones estipuladas en la Norma Oficial Mexicana en materia de identificación vehicular;
 
@@ -164,7 +180,7 @@ XXIV. Peatón, persona que transita por la vía a pie y/o que utiliza ayudas té
 
 > <small>(ADICIONADA, G.O. 19 DE MARZO DE 2019)</small>
 
-XXIV Bis.- Penalización por puntos a matrícula, procedimiento de asignación y contabilidad de puntos por sanciones derivadas de las infracciones registradas por los sistemas tecnológicos de la Ciudad de México, impuestos a las matrículas vehiculares.
+XXIV Bis. Penalización por puntos a matrícula, procedimiento de asignación y contabilidad de puntos por sanciones derivadas de las infracciones registradas por los sistemas tecnológicos de la Ciudad de México, impuestos a las matrículas vehiculares.
 
 XXV. Personal de apoyo vial, elemento de la Secretaría responsable de brindar información vial, prestar apoyo a peatones y conductores de vehículos, así como promover la cultura vial y auxiliar en contingencias causadas por hechos de tránsito o eventos públicos masivos;
 
@@ -184,11 +200,17 @@ XXXII. Programa para Contingencias Ambientales Atmosféricas, el Programa para C
 
 XXXIII. Programa conduce sin alcohol, el Programa de Control y Prevención de Ingestión de Alcohol en conductores de vehículos en el Distrito Federal;
 
-XXXIV. Promotor voluntario, ciudadano capacitado por la Secretaría o Seguridad Pública que colabora a regular el tránsito en las inmediaciones de centros educativos para garantizar la seguridad vial de los escolares, zonas de obra o cruces conflictivos;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+XXXIV. Promotor voluntario, ciudadanía capacitada por la Secretaría o Seguridad Ciudadana que colabora a regular el tránsito en las inmediaciones de centros educativos para garantizar la seguridad vial de los escolares, zonas de obra o cruces conflictivos;
 
 > <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
 XXXV. Reglamento.- el Reglamento de Tránsito de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+XXXV Bis. Reincidencia, la comisión de dos o más infracciones establecidas en el presente Reglamento, en un periodo no mayor de 6 meses;
 
 > <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
@@ -234,7 +256,9 @@ XLVI. Vehículo, aparato diseñado para el tránsito terrestre, propulsado por u
 
 XLVI BIS. (DEROGADA, G.O. 16 DE ABRIL DE 2019)
 
-XLVII. Vehículo de emergencia, aquellos destinados a la prestación de servicios médicos, de protección civil, rescate, apoyo vial, bomberos y de policía;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+XLVII. Vehículo de emergencia, aquellos autorizados por la Secretaría de Movilidad para portar placas de matrícula, cromáticas, señales luminosas y audibles, destinados a la prestación de servicios médicos, de protección civil, rescate, apoyo vial, bomberos; con excepción de los vehículos de los cuerpos policiales, quienes se rigen por los ordenamientos específicos que le correspondan.
 
 > <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
@@ -264,6 +288,10 @@ c) Ciclovía, carril confinado exclusivo para la circulación ciclista físicame
 
 d) Calle compartida ciclista, vía destinada a la circulación prioritaria de bicicletas, que cuenta con dispositivos que permiten orientar y regular el tránsito de todos los vehículos que circulen en ella, con la finalidad de compartir el espacio vial de forma segura y en estricto apego a la prioridad de uso del espacio indicada en el presente Reglamento.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+e) Carril de transporte público compartido con vehículos no motorizados, carril destinado para la circulación compartida segura y exclusiva para transporte público y vehículos no motorizados; dichos carriles deberán contar con dispositivos para regular la velocidad, y preferentemente estar confinados.
+
 > <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
 LIV.- Vía de acceso controlado, vías primarias cuyas intersecciones generalmente son a desnivel; cuentan con carriles centrales y laterales separados por camellones; la incorporación y desincorporación al cuerpo de flujo continuo deberá realizarse a través de carriles de aceleración y desaceleración en puntos específicos; y/o que por sus características físicas y operacionales así lo determine la Secretaría y la Comisión de Clasificación de Vialidades, según el listado del anexo de este reglamento;
@@ -288,7 +316,9 @@ LVI. Vía primaria, espacio físico cuya función es facilitar el flujo del trá
 
 LVII. Vía pública, todo espacio de uso común destinado al tránsito de peatones y vehículos; así como a la prestación de servicios públicos y colocación de mobiliario urbano;
 
-LVIII. Vía reversible, espacio físico destinado exclusivamente al tránsito de vehículos, con la posibilidad de cambiar el sentido total o parcial de su circulación en horarios previamente establecidos y comunicados por Seguridad Pública;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+LVIII. Vía reversible, espacio físico destinado exclusivamente al tránsito de vehículos, con la posibilidad de cambiar el sentido total o parcial de su circulación en horarios previamente establecidos y comunicados por Seguridad Ciudadana;
 
 LIX. Vía secundaria, espacio físico cuya función es permitir el acceso a los predios y facultar el flujo del tránsito vehicular no continuo; en su mayoría conectan con vías primarias y sus intersecciones pueden estar controladas por semáforos; y
 
@@ -302,13 +332,15 @@ LX. Zona de tránsito calmado, área delimitada al interior de colonias, barrios
 
 Los peatones deben guiar su circulación bajo las siguientes reglas:
 
-I. Obedecer las indicaciones de los agentes, personal de apoyo vial, promotores voluntarios, así como la señalización vial;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+I. Obedecer las indicaciones de los agentes y/o agentes autorizados para infraccionar, personal de apoyo vial, promotores voluntarios, así como la señalización vial;
 
 II. Dar preferencia de paso y asistir a aquellos que utilicen ayudas técnicas o a personas con movilidad limitada;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 16 DE ABRIL DE 2019)</small>
 
-III.- Cuando utilicen vehículos recreativos o ayudas técnicas motorizadas en las vías peatonales:
+III. Cuando utilicen vehículos recreativos o ayudas técnicas motorizadas en las vías peatonales:
 
 a) Dar preferencia a los demás peatones;
 
@@ -324,7 +356,9 @@ VI. Cruzar por las esquinas o cruces peatonales en las vías primarías y vías 
 
 VII. Utilizar los pasos peatonales a desnivel ubicados en vías de acceso controlado. En otras vías primarias no es obligatorio su uso si el paso a desnivel se encuentra a más de 30 metros del punto donde se realiza el cruce. Lo anterior, atendiendo a lo estipulado en la fracción VI del presente artículo.
 
-Los peatones que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad a las disposiciones aplicables.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los peatones que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente por los agentes y/o agentes autorizados para infraccionar, y orientados a conducirse de conformidad a las disposiciones aplicables.
 
 Las autoridades correspondientes tomarán las medidas que procedan para garantizar la integridad física y el tránsito seguro de los peatones, en particular, de las personas con discapacidad y movilidad limitada. Asimismo, realizarán las acciones necesarias para garantizar que las vías peatonales, se encuentren libres de obstáculos que impidan el tránsito peatonal.
 
@@ -358,49 +392,57 @@ IV. Preferencia de paso cuando transiten por la acera y algún conductor deba cr
 
 V. Prioridad de uso en las calles de prioridad peatonal, dónde los peatones podrán circular en todo lo ancho de la vía y en cualquier sentido.
 
-El conductor de un vehículo no motorizado que no respete la preferencia de paso y/o la prioridad de uso de los peatones de acuerdo a lo dispuesto en este artículo será amonestado y/o apercibido verbalmente por los agentes y orientado a conducirse de conformidad a las disposiciones aplicables.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El conductor de un vehículo no motorizado que no respete la preferencia de paso y/o la prioridad de uso de los peatones de acuerdo a lo dispuesto en este artículo será amonestado y/o apercibido verbalmente por los agentes y/o agentes autorizados para infraccionar, y orientado a conducirse de conformidad a las disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 4 DE FEBRERO DE 2021)</small>
 
 El conductor de un vehículo motorizado que no respete la preferencia de paso y/o la prioridad de uso de los peatones de acuerdo a lo dispuesto en este artículo será sancionado con base en la siguiente tabla:
 
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Tipo de Sanción Sanción con Sanción con
+Tipo de Sanción Sanción Sanción Sanción Sanción
 
-Vehículo con multa puntos de puntos de
+Vehículo con multa mínima media máxima con puntos
 
-equivalente penalización penalización
+equivalente de
 
-en veces la en licencia en matrícula
+en veces penalización
 
-Unidad de para conducir vehicular
+la Unidad en licencia
 
-Medida y (por sistema
+de Medida y para
 
-Actualización tecnológico)
+Actualización conducir
 
 vigente
 
-Conductores de 10 a 20 veces 3 puntos 1 punto
+Conductores 10 a 20 10 veces 15 veces 20 veces 3 puntos
 
-vehículos de uso
+de vehículos veces
 
-particular
+de uso
 
-Conductores de 40 a 60 veces 3 puntos
+particular.
 
-vehículos de
+Conductores 40 a 60 40 veces 50 veces 60 veces 3 puntos
 
-transporte de
+de vehículos veces
 
-carga
+de transporte
 
-Conductores de 60 a 80 veces 3 puntos
+de carga.
 
-vehículos de
+Conductores 60 a 80 60 veces 70 veces 80 veces 3 puntos
 
-transporte público
+de vehículos veces
 
-de pasajeros
+de transporte
+
+público de
+
+pasajeros.
 
 ### CAPÍTULO II. DE LAS NORMAS GENERALES PARA LA CIRCULACIÓN DE VEHÍCULOS
 
@@ -410,55 +452,101 @@ En todo momento los conductores o pasajeros de vehículos deben contribuir a gen
 
 I. Insultar, denigrar o golpear al personal que desempeña labores de agilización del tránsito y aplicación de las sanciones establecidas en este Reglamento;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente.
+
 II. Proferir vejaciones mediante utilización de señales visuales, audibles o de cualquier otro accesorio adherido al vehículo; golpear o realizar maniobras con el vehículo con objeto de intimidar o maltratar físicamente a otro usuario de la vía; y
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente.
 
 III. Utilizar la bocina (claxon) para un fin diferente al de evitar un hecho de tránsito, especialmente en condiciones de congestión vehicular, así como provocar ruido excesivo con el motor.
 
-Los conductores que realicen las acciones indicadas en las fracciones anteriores, serán sancionados en la forma siguiente:
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto de penalización a la licencia para conducir.
 
-equivalente en penalización
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-veces la Unidad en licencia
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-de Cuenta de para conducir
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-la Ciudad de
-
-México vigente
-
-III 5 a 10 veces 1 punto
-
-I y II 20 a 30 veces No aplica
-
-En cuanto hace a las fracciones I y II, el agente remitirá al conductor con la autoridad competente.
+En cuanto a las fracciones I y II, el agente y/o agente autorizado para infraccionar remitirá al conductor con la autoridad competente.
 
 ###### Artículo 8.
 
 Los conductores de todo tipo de vehículos deben:
 
-I. Obedecer las indicaciones de los agentes, personal de apoyo vial, promotores voluntarios, así como respetar la señalización vial de acuerdo a lo estipulado en el anexo de los dispositivos para el control del tránsito del presente reglamento;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+I. Obedecer las indicaciones de los agentes y/o agentes autorizados para infraccionar, personal de apoyo vial, promotores voluntarios, así como respetar la señalización vial de acuerdo a lo estipulado en el anexo de los dispositivos para el control del tránsito del presente reglamento;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos de penalización a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 II. Tomar las máximas precauciones a su alcance cuando existan peatones sobre el arroyo vehicular, reducir la velocidad o parar para permitir el paso a peatones, especialmente en zonas escolares o en calles de prioridad peatonal;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos de penalización a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 III. Compartir los carriles de circulación de manera responsable con los demás vehículos, por lo que se debe cambiar de carriles de forma escalonada y tomar el carril extremo correspondiente anticipadamente cuando se pretenda dar vuelta, considerando lo especificado en la fracción VIII del (sic) este artículo;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y tres puntos de penalización a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 IV. Circular en el sentido que indique la vía; tratándose de vías reversibles, respetar los tramos y horarios que determine la autoridad competente y en caso de tratarse de vías de doble sentido, circular en el costado derecho de la vía, evitando deslumbrar a los conductores del sentido contrario;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 V. Rebasar otro vehículo sólo por el lado izquierdo; en el caso de vehículos motorizados que adelanten a ciclistas o motociclistas deben otorgar al menos la distancia de 1.50 metros de separación lateral;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y tres puntos de penalización a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 VI. Alinearse a la derecha y reducir la velocidad cuando otro vehículo intente adelantarlo;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y tres puntos de penalización a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 VII. Conservar respecto al vehículo que le preceda, una distancia razonable que garantice la detención oportuna en caso de que éste frene intempestivamente;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y tres puntos de penalización a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 VIII. Indicar la dirección de su giro o cambio de carril, mediante luces direccionales, en caso de vehículos no motorizados, podrá indicarse mediante señas;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y tres puntos de penalización a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 IX. Reducir la velocidad para conservar una distancia prudente y permitir el movimiento, cuando otro vehículo pretenda incorporarse a su carril y éste lo ha indicado con las luces direccionales;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y tres puntos de penalización a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 X. Dar prioridad a los vehículos de emergencia que circulen con las señales luminosas y audibles encendidas, debiendo disminuir la velocidad para despejar el camino y procurar alinearse hacia la derecha;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos de penalización a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 XI. Disminuir su velocidad y tomar todas las precauciones necesarias cuando encuentren un vehículo de transporte escolar realizando maniobras de ascenso y descenso de escolares;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos de penalización a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 XII. Cuando transiten en zonas escolares:
 
@@ -468,47 +556,31 @@ b) Parar y ceder el paso a los escolares; y
 
 c) Obedecer las indicaciones de los agentes o de los promotores voluntarios.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos de penalización a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 XIII. Cuando transiten por intersecciones con vías férreas:
 
 a) Disminuir la velocidad del vehículo a treinta kilómetros por hora, a una distancia de cincuenta metros antes de cruzar vías férreas; y
 
 b) Realizar alto a una distancia de cinco metros antes de las vías y mantenerse en esa forma si el ferrocarril se encuentra a una distancia menor a doscientos metros en dirección al crucero.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y tres puntos de penalización a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 > <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
 XIV.- Realizar el ascenso y descenso propio o de los ocupantes del vehículo contiguo a la acera. En caso de que algún ocupante del vehículo tenga que hacerlo del lado contiguo al carril vehicular inmediato, extremará precauciones al abrir o cerrar las portezuelas, sin sobrepasar las rayas de división de carril de manera que no haga un corte de circulación.
 
-Los conductores de vehículos no motorizados que no cumplan con las obligaciones estipuladas en el presente artículo, de acuerdo a la naturaleza de su vehículo, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-El incumplimiento de las obligaciones dispuestas en este artículo por parte de conductores de vehículos motorizados se sancionará con base en la siguiente tabla:
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y tres puntos de penalización a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción Sanción con Sanción con
-
-con multa puntos de puntos de
-
-equivalente penalización penalización
-
-en veces la en licencia en matrícula
-
-Unidad de para conducir vehicular
-
-Medida y (por sistema
-
-Actualización tecnológico)
-
-vigente
-
-III, V, VI, VII, 5 a 10 veces 3 puntos 1 punto
-
-VIII, IX, XIII,
-
-XIV
-
-I, II, IV, X, 10 a 20 veces 3 puntos 1 punto
-
-XI, XII
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 9.
 
@@ -516,73 +588,65 @@ Los conductores de vehículos deberán respetar los límites de velocidad establ
 
 I. En los carriles centrales de las vías de acceso controlado la velocidad máxima será de 80 kilómetros por hora;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con uno a cinco puntos a la matrícula vehicular.
+
 II. En vías primarias la velocidad máxima será de 50 kilómetros por hora;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con uno a cinco puntos a la matrícula vehicular.
 
 III. En vías secundarias incluyendo las laterales de vías de acceso controlado, la velocidad máxima será de 40 kilómetros por hora;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con uno a cinco puntos a la matrícula vehicular.
+
 IV. En zonas de tránsito calmado la velocidad será de 30 kilómetros por hora;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con uno a cinco puntos a la matrícula vehicular.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En el caso de vehículos de transporte público de pasajeros y carga, la multa será equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización y seis puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con uno a cinco puntos a la matrícula vehicular.
 
 V. En zonas escolares, de hospitales, de asilos, de albergues y casas hogar, la velocidad máxima será de 20 kilómetros por hora; y
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con uno a cinco puntos a la matrícula vehicular.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En el caso de vehículos de transporte público de pasajeros y carga, la multa será equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización.
+
 VI. En estacionamientos y en vías peatonales en las cuales se permita el acceso a vehículos la velocidad máxima será de 10 kilómetros por hora.
 
-Los conductores de vehículos no motorizados que no cumplan con las obligaciones estipuladas en el presente artículo, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con uno a cinco puntos a la matrícula vehicular.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En el caso de vehículos de transporte público de pasajeros y carga, la multa será equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización y seis puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con uno a cinco puntos a la matrícula vehicular.
 
 > <small>(ADICIONADO, G.O. 19 DE MARZO DE 2019)</small>
 
 El Agente autorizado podrá realizar la infracción con apoyo de sistemas tecnológicos y equipos electrónicos.
 
-> <small>(ADICIONADO [N, DE E, REFORMADO], G.O. 19 DE MARZO DE 2019)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 19 DE MARZO DE 2019)</small>
 
 El incumplimiento de las obligaciones dispuestas en este artículo por parte de conductores de vehículos motorizados se sancionará con base en la siguiente tabla, aplicando la sanción máxima con una penalización de 5 puntos en matrícula vehicular cuando se rebase el límite de velocidad por más de 40% de la velocidad máxima autorizada, de acuerdo con la información captada por sistema tecnológico.
 
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción Sanción con Sanción con
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-con multa puntos de puntos de
-
-equivalente penalización penalización
-
-en veces la en licencia en matrícula
-
-Unidad de para conducir vehicular
-
-Medida y (por sistema
-
-Actualización tecnológico)
-
-vigente
-
-I, II, III 10 a 20 veces 3 puntos
-
-IV, V, VI 10 a 20 veces 6 puntos
-
-II, III, para 10 a 20 veces 3 puntos 1 a 5 puntos
-
-conductores
-
-de vehículos
-
-de transporte
-
-público de
-
-pasajeros
-
-y de carga
-
-IV, V, VI, para 20 a 30 veces 6 puntos
-
-conductores de
-
-vehículos de
-
-transporte público
-
-de pasajeros y de
-
-carga
+Cuando la información captada por el sistema tecnológico muestre que el conductor del vehículo motorizado rebase el límite de velocidad por más de 40% de la velocidad máxima autorizada, se sancionará aplicando la sanción especial con una penalización de 5 puntos en (sic) placa de matrícula.
 
 ###### Artículo 10.
 
@@ -590,13 +654,35 @@ Para las preferencias de paso en las intersecciones, el conductor se ajustará a
 
 I. Los peatones tendrán preferencia de paso sobre los vehículos de acuerdo a lo establecido en el artículo 6;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 II. Los vehículos no motorizados tendrán preferencia sobre los vehículos motorizados de acuerdo a las reglas establecidas en el artículo 15;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 III. Los vehículos de emergencia tienen preferencia de paso sobre los demás vehículos cuando circulen con las señales luminosas o audibles en funcionamiento;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 IV. El ferrocarril, el tren ligero y vehículos de transporte público que circulen en carriles exclusivos confinados o en contraflujo tienen preferencia de paso;
 
-V. En las intersecciones reguladas por un agente, personal de apoyo vial o promotores voluntarios, los conductores deben seguir las indicaciones de éstos, independientemente de las reglas de preferencia o de lo indicado por los dispositivos para el control del tránsito;
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+V. En las intersecciones reguladas por un agente y/o agente autorizado para infraccionar, personal de apoyo vial o promotores voluntarios; los conductores deben seguir las indicaciones de éstos, independientemente de las reglas de preferencia o de lo indicado por los dispositivos para el control del tránsito;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 VI. En las intersecciones reguladas mediante semáforos se respetarán las siguientes reglas:
 
@@ -608,7 +694,15 @@ c) Cuando los semáforos se encuentren con luces intermitentes se cruzará con p
 
 d) Entre las 23:00 horas y las 5:00 horas del día siguiente, debe detener totalmente el vehículo frente a la luz roja del semáforo y, una vez que se cerciore de que ningún peatón o vehículo se dispone a cruzar la intersección, podrá continuar la marcha, aun cuando no haya cambiado la señal de alto.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 VII. En vías de acceso controlado, los vehículos que se incorporan a los carriles centrales deberán ceder el paso; los vehículos que circulan sobre la vía lateral, deberán ceder el paso a los que se desincorporan de los carriles centrales, con excepción de situaciones de congestionamiento vial con tránsito detenido, en las que se alternará el paso bajo el criterio de "uno y uno";
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 VIII. Cuando los conductores circulen por una vía que no cuente con semáforos o se encuentren apagados y no haya señalamiento restrictivo que regule la preferencia de paso, luego de dejar pasar a los peatones, se ajustarán a la siguiente jerarquía de reglas:
 
@@ -622,47 +716,41 @@ d) En vías secundarias de un sólo sentido y con el mismo número de carriles, 
 
 e) Cuando en el cruce de dos vías secundarias con un sólo carril efectivo de circulación, se aproximen de forma simultánea vehículos en las diferentes vías, ambos deben realizar alto total y cruzar con precaución, alternándose el paso bajo el criterio de "uno y uno".
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 IX. En las glorietas, el vehículo que se encuentre dentro de la misma tiene preferencia de paso sobre el que pretenda acceder a ella; en aquellas glorietas de varios carriles tienen preferencia aquellos vehículos que realicen movimiento para salir de ella;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 X. La vuelta continua, a la derecha y a la izquierda, está prohibida, excepto cuando exista un señalamiento que expresamente lo permita, en cuyo caso deberá cederse el paso a los peatones que estén cruzando y a los vehículos que transiten por la vía a la que se pretende incorporar;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 XI. En vías en las que exista reducción de carriles, tendrá preferencia el conductor del vehículo que circula sobre el carril que se conserva; en caso de congestión vial, todos los vehículos deberán guardar el orden de paso sin adelantase a otros vehículos que les precedan e intercalarse uno a uno; y
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 XII. En vías con pendientes donde no sea posible el paso simultáneo de dos vehículos, tiene preferencia de paso el conductor del vehículo que va en sentido ascendente.
 
-Los conductores de vehículos no motorizados que no cumplan con las obligaciones estipuladas en el presente artículo serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-El incumplimiento de las reglas dispuestas en este artículo por parte de conductores de vehículos motorizados se sancionará con base en la siguiente tabla:
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción Sanción Sanción
+Los conductores de vehículos no motorizados que no cumplan con las obligaciones estipuladas en el presente artículo serán amonestados verbalmente por los agentes y/o agentes autorizados para infraccionar, y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
-con multa con puntos con puntos
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-equivalente de penalización de penalización
-
-en veces la en licencia en matrícula
-
-Unidad de para conducir vehicular
-
-Medida y (por sistema
-
-Actualización tecnológico)
-
-vigente
-
-IV, V, VI, X 10 a 20 veces 3 puntos 1 punto
-
-VII, VIII, IX, XI 10 a 20 veces 3 puntos
-
-III 20 a 30 veces 3 puntos
-
-y remisión del
-
-vehículo al depósito
-
-vehicular
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 > <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2018)</small>
 
@@ -672,7 +760,15 @@ Se prohíbe a los conductores de todo tipo de vehículos:
 
 I. Detener su vehículo invadiendo los cruces peatonales marcados en el pavimento, así como dentro de la intersección de vías;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 II. Detener su vehículo sobre un área de espera para bicicletas o motocicletas, a menos que se trate del usuario para el cual está destinado;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 III. Circular o detenerse en áreas restringidas que estén delimitadas por marcas en el pavimento, incluyendo las áreas señaladas para el estacionamiento en vía pública u otros dispositivos para el control del tránsito que establezcan este impedimento, en especial:
 
@@ -684,17 +780,45 @@ a) Circular sobre aceras o cualquier otro tipo de vías peatonales a excepción 
 
 b) Circular sobre vías ciclistas a excepción que se trate de vehículos no motorizados.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 IV. Detenerse en sitios donde exista señalamiento restrictivo que así lo indique, o cuando la guarnición de la acera sea de color rojo, excepto para respetar la luz roja de un semáforo o por indicación de un Agente;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 V. Entorpecer la marcha de columnas militares, escolares, desfiles cívicos y similares;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 VI. Rebasar a otros vehículos cuando éstos se detengan para ceder el paso a los peatones;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 VII. Realizar un movimiento diferente a lo indicado por la señalización vial sobre carriles destinados para giros a la derecha o izquierda;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 VIII. Dar vuelta en "U" cerca de una curva y donde el señalamiento restrictivo expresamente lo prohíba;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 IX. Con excepción de vehículos no motorizados, circular sobre el acotamiento de la vía; éste se utilizará principalmente para el estacionamiento de vehículos que sufran alguna descompostura;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 X. En las vías con carriles exclusivos de transporte público:
 
@@ -706,7 +830,19 @@ c) Estacionarse o efectuar reparaciones a vehículos, en caso de contingencia o 
 
 d) Interferir los carriles exclusivos de transporte público al dar vuelta a la izquierda, derecha o en "U", así como cambiar de cuerpo de circulación en la misma vía cuando existan señalamientos restrictivos que prohíban estos movimientos.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan los incisos b) y c) de la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En caso de infringir lo dispuesto en los incisos a) y d) de esta fracción, serán sancionados con una multa equivalente a 40, 50 o 60 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 XI. Realizar maniobras de ascenso o descenso de personas en carriles centrales de las vías de acceso controlado;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 XII. Rebasar por el carril de sentido contrario, cuando:
 
@@ -726,59 +862,35 @@ g) Exista una raya central continua; y
 
 h) El vehículo que lo precede haya iniciado una maniobra de rebase, y no existan las condiciones de libre visión y seguridad.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 XIII. Circular en reversa más de treinta metros, salvo que no sea posible circular hacia delante;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
 XIV. Circular detrás de vehículos de emergencia que transiten con las señales luminosas y audibles encendidas, debiendo guardar una distancia mínima de cincuenta metros; y
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+
 XV. Detenerse a una distancia que entorpezca o ponga en riesgo las labores del personal de atención a emergencias.
 
-Los conductores de vehículos no motorizados que no cumplan con las obligaciones estipuladas en el presente artículo serán amonestados verbalmente por los amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Los conductores de vehículos motorizados que incumplan lo dispuesto en este artículo, serán sancionados de acuerdo a la siguiente tabla:
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción Sanción con Sanción con
+Los conductores de vehículos no motorizados que no cumplan con las obligaciones estipuladas en el presente artículo serán amonestados verbalmente por los agentes y/o agentes autorizados para infraccionar, y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
-con multa puntos de puntos de
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-equivalente penalización en penalización
-
-en veces la licencia para en matrícula
-
-Unidad de conducir vehicular
-
-Medida y (por sistema
-
-Actualización tecnológico)
-
-vigente
-
-I, VI, VII, IX, 20 a 30 veces 3 puntos 1 punto
-
-X incisos b)
-
-y c) XI, XII,
-
-XIV, XV
-
-V, XIII 5 a 10 veces 1 punto
-
-II 20 a 30 veces 3 puntos
-
-III 20 a 30 veces 3 puntos
-
-X. a) d) 40 a 60 veces 6 puntos
-
-y remisión del
-
-vehículo al
-
-depósito
-
-IV 5 a 10 veces 1 punto
-
-VIII. 20 a 30 veces 3 puntos
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 12.
 
@@ -786,27 +898,27 @@ Está prohibido remolcar o empujar otros vehículos motorizados si no es por med
 
 I. Se trate de remolques u otros vehículos expresamente diseñados para este fin;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
 II. El vehículo se encuentre obstruyendo la circulación; y
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
 III. El vehículo a remolcar o empujar represente un peligro para sí o para terceros, en éste caso sólo se permitirá hasta ponerlo en un lugar seguro.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
 Se exceptúan de lo anterior a los vehículos de transporte público en cualquiera de sus modalidades, que sólo podrán ser remolcados por una grúa.
 
-Los conductores que incumplan lo dispuesto en este artículo serán sancionados de acuerdo a la siguiente tabla:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Sanción con multa Puntos de
-
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-10 a 20 veces 3 puntos
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 13.
 
@@ -814,33 +926,45 @@ En caso de emergencia, siniestro o desastre, los vehículos de emergencia que ci
 
 I. Desatender la señalización vial;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Si se determina que los operadores de estos vehículos utilizan las luces encendidas y señales audibles cuando no se dirijan a atender una situación de emergencia y/o no cuenten con los permisos correspondientes de la Secretaría de Salud y la Secretaría de Movilidad, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente, y tres puntos a la licencia para conducir.
+
 II. Transitar en sentido contrario; y
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Si se determina que los operadores de estos vehículos utilizan las luces encendidas y señales audibles cuando no se dirijan a atender una situación de emergencia y/o no cuenten con los permisos correspondientes de la Secretaría de Salud y la Secretaría de Movilidad, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente, y tres puntos a la licencia para conducir.
 
 III. Exceder los límites de velocidad permitidos;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Si se determina que los operadores de estos vehículos utilizan las luces encendidas y señales audibles cuando no se dirijan a atender una situación de emergencia y/o no cuenten con los permisos correspondientes de la Secretaría de Salud y la Secretaría de Movilidad, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente, y tres puntos a la licencia para conducir.
+
 IV. Desatender las reglas de preferencia de paso y proseguir con la luz roja del semáforo o señal de alto, reduciendo la velocidad;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Si se determina que los operadores de estos vehículos utilizan las luces encendidas y señales audibles cuando no se dirijan a atender una situación de emergencia y/o no cuenten con los permisos correspondientes de la Secretaría de Salud y la Secretaría de Movilidad, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente, y tres puntos a la licencia para conducir.
 
 V. Circular por carriles de contraflujo, confinados y exclusivos para el transporte público de pasajeros; y
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Si se determina que los operadores de estos vehículos utilizan las luces encendidas y señales audibles cuando no se dirijan a atender una situación de emergencia y/o no cuenten con los permisos correspondientes de la Secretaría de Salud y la Secretaría de Movilidad, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente, y tres puntos a la licencia para conducir.
+
 VI. Estacionarse o detenerse en lugar prohibido.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Si se determina que los operadores de estos vehículos utilizan las luces encendidas y señales audibles cuando no se dirijan a atender una situación de emergencia y/o no cuenten con los permisos correspondientes de la Secretaría de Salud y la Secretaría de Movilidad, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente, y tres puntos a la licencia para conducir.
 
 Lo anterior no exime a los conductores de los vehículos de emergencia de su responsabilidad de conducir con la debida prudencia para salvaguardar la integridad física de las personas y los bienes.
 
-Si se determina que los operadores de estos vehículos utilizan las luces encendidas y señales audibles cuando no se dirijan a atender una situación de emergencia, serán sancionados de acuerdo a la siguiente tabla:
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Sanción con multa Puntos de
-
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-10 a 20 veces 3 puntos
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ### CAPÍTULO III. DE LA CIRCULACIÓN DE VEHÍCULOS NO MOTORIZADOS
 
@@ -862,7 +986,9 @@ En estos casos, los conductores de vehículos no motorizados tienen derecho a oc
 
 II. Indicar la dirección de su giro o cambio de carril, mediante señales con el brazo y mano;
 
-Los conductores de vehículos no motorizados que no cumplan con las obligaciones estipuladas en las normas generales de circulación y de este capítulo, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos no motorizados que no cumplan con las obligaciones estipuladas en las normas generales de circulación y de este capítulo, serán amonestados verbalmente por los agentes y/o agentes autorizados para infraccionar, y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
 ###### Artículo 15.
 
@@ -876,25 +1002,33 @@ b) Habiéndoles correspondido el paso de acuerdo con el ciclo del semáforo no a
 
 c) Sigan de frente en la vía y los vehículos motorizados vayan a realizar un giro para incorporarse a una vía transversal.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que no cedan el paso a los vehículos no motorizados de acuerdo a lo previsto en las presentes disposiciones, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
 II. En las intersecciones que no cuenten con semáforos, independientemente de las reglas establecidas en el artículo 10; cuando haya vehículos no motorizados esperando pasar, los conductores de vehículos motorizados deberán frenar y cederles el paso; y
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que no cedan el paso a los vehículos no motorizados de acuerdo a lo previsto en la presente disposición, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
 III. Cuando circulen por una vía ciclista exclusiva y los vehículos motorizados vayan a realizar un giro para entrar o salir de un predio.
 
-Los conductores de vehículos motorizados que no cedan el paso a los vehículos no motorizados de acuerdo a lo dispuesto en este artículo, serán sancionados con base en la siguiente tabla:
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Sanción con multa Puntos de
+Los conductores de vehículos motorizados que no cedan el paso a los vehículos no motorizados de acuerdo a lo previsto en la presente disposición, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
-equivalente en penalización
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-veces la Unidad en licencia
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-de Cuenta de para conducir
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-la Ciudad de
+IV. Donde lo indique el señalamiento del carril de transporte público compartido con vehículos no motorizados.
 
-México vigente
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-10 a 20 veces 3 puntos
+Los conductores de vehículos motorizados que no cedan el paso a los vehículos no motorizados de acuerdo a lo previsto en la presente disposición, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
 ###### Artículo 16.
 
@@ -904,31 +1038,31 @@ Los ciclistas que vayan a cruzar una vía secundaria en cuya intersección la lu
 
 Al circular en una vía que no cuente con infraestructura ciclista, los conductores de vehículos no motorizados tienen derecho a ocupar el carril completo. También tienen prioridad en el uso de la vía, cuando circulen:
 
-I. En calles y carriles compartidos ciclistas; y
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+I. En calles y carriles compartidos con ciclistas; y
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que no respeten la prioridad de uso de la vía de acuerdo a lo previsto en la presente disposición, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
 II. En comitivas organizadas, dependiendo del número de participantes podrán utilizar parte o la totalidad de la vía.
 
-Los conductores de vehículos motorizados que no respeten la prioridad de uso de la vía de acuerdo a lo dispuesto en este artículo, serán sancionados con base en la siguiente tabla:
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Sanción con multa Puntos de
+Los conductores de vehículos motorizados que no respeten la prioridad de uso de la vía de acuerdo a lo previsto en la presente disposición, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
-equivalente en penalización
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-10 a 20 veces 3 puntos
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 18.
 
 Los vehículos no motorizados preferentemente deben circular por el carril derecho, excepto:
 
-I. En calles compartidas ciclistas en las que pueden utilizar cualquier carril;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+I. En calles compartidas con ciclistas en las que pueden utilizar cualquier carril;
 
 II. Se vaya a realizar un giro a la izquierda, en cuyo caso deberá llegar a la esquina próxima, posarse en el área de espera ciclista, en donde permanecerá hasta que señalamientos viales permitan su incorporación a la izquierda; y
 
@@ -948,7 +1082,9 @@ IV. Circular por los carriles centrales o interiores de las vías de acceso cont
 
 V. Circular entre carriles, salvo cuando el ciclista se encuentre con tránsito detenido y busque colocarse en un área de espera ciclista o en un lugar visible para reiniciar la marcha.
 
-Los conductores de vehículos no motorizados que no cumplan con las obligaciones de este reglamento, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos no motorizados que no cumplan con las obligaciones de este reglamento, serán amonestados verbalmente por los agentes y/o agentes autorizados para infraccionar, y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
 ### CAPÍTULO IV. DE LA CIRCULACIÓN DE MOTOCICLETAS
 
@@ -958,25 +1094,25 @@ Los conductores de motocicletas deben sujetarse a lo dispuesto en el capítulo I
 
 I. Utilizar un carril completo de circulación;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El motociclista que incumpla lo dispuesto en la presente disposición, será sancionado con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
+
 II. Adelantar otro vehículo sólo por el lado izquierdo; y
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El motociclista que incumpla lo dispuesto en la presente disposición, será sancionado con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
 III. Respetar las reglas de preferencia de paso estipuladas en el artículo 10.
 
-El motociclista que incumpla lo dispuesto en este artículo, será sancionado con base en la siguiente tabla:
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
+El motociclista que incumpla lo dispuesto en la presente disposición, será sancionado con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
-equivalente en penalización
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-I, II, III 5 a 10 veces 1 punto
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 21.
 
@@ -984,37 +1120,49 @@ Se prohíbe a los conductores de motocicletas:
 
 I. Circular sobre las aceras y áreas reservadas al uso exclusivo de peatones; salvo que el conductor ingrese a su domicilio o a un estacionamiento, debe desmontar;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En caso de incumplimiento a lo previsto en esta disposición, el motociclista será sancionado con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
+
 II. Circular por vías ciclistas exclusivas;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En caso de incumplimiento a lo previsto en esta disposición, el motociclista será sancionado con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir.
 
 III. Circular por los carriles confinados para el transporte público de pasajeros;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En caso de incumplimiento a lo previsto en esta disposición, el motociclista será sancionado con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir.
+
 IV. Circular entre carriles, salvo cuando el tránsito vehicular se encuentre detenido y busque colocarse en el área de espera para motocicletas o en un lugar visible para reiniciar la marcha, sin invadir los pasos peatonales;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En caso de incumplimiento a lo previsto en esta disposición, el motociclista será sancionado con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
 V. Circular por los carriles centrales de las vías de acceso controlado cuando utilicen vehículos menores a 250 centímetros cúbicos;
 
-VI. Circular en vías en las que exista señalización vial que expresamente restrinja su circulación, carriles centrales y segundos niveles de vías de acceso controlado.
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En caso de incumplimiento a lo previsto en esta disposición, el motociclista será sancionado con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+VI. Circular en las vías en las que exista señalización vial que expresamente restrinja su circulación y segundos niveles de vías de acceso controlado.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En caso de incumplimiento a lo previsto en esta disposición, el motociclista será sancionado con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
 VII. Hacer maniobras riesgosas o temerarias, cortes de circulación o cambios abruptos de carril que pongan en riesgo su integridad y la de terceros;
 
-En caso de incumplimiento a lo dispuesto en este artículo, el vehículo podrá ser remitido el depósito vehicular y el motociclista será sancionado con base en la siguiente tabla:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
+En caso de incumplimiento a lo previsto en esta disposición, el motociclista será sancionado con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-I, IV 10 a 20 veces 1 punto
-
-V, VI, VII 10 a 20 veces 3 puntos
-
-II, III 20 a 30 veces 6 puntos
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ### CAPÍTULO V. DE LA CIRCULACIÓN DE VEHÍCULOS DE TRANSPORTE PÚBLICO Y PRIVADO DE PASAJEROS
 
@@ -1030,55 +1178,59 @@ b) Para rebasar a otros vehículos más lentos; y
 
 c) Se pretenda girar a la izquierda.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
+
 II. Compartir de manera responsable con los ciclistas el espacio de circulación en carriles de la extrema derecha y rebasarlos otorgando al menos 1.50 metros de separación lateral entre los dos vehículos, disminuir la velocidad y tomar las precauciones necesarias;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
 III. Circular por el carril exclusivo para uso de transporte público si la vía cuenta con uno; excepto cuando exista algún obstáculo en el carril;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
+
 IV. Circular con las portezuelas cerradas, permitiendo el ascenso o descenso de pasajeros sólo cuando el vehículo esté totalmente detenido;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
 V. Otorgar el tiempo suficiente a los pasajeros para abordar o descender del vehículo; en caso de personas con discapacidad o con movilidad limitada, deben dar el tiempo necesario para que éstas se instalen en el interior del vehículo o en la acera;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
 VI. Realizar maniobras de ascenso o descenso de pasajeros en el carril de la extrema derecha, en la esquina antes de cruzar la vía transversal y en el caso de transporte público colectivo sólo en lugares autorizados por la Secretaría o indicados expresamente en las concesiones;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 100, 150 o 200 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
 VII. Circular con las luces interiores encendidas en horario nocturno;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
+
 VIII. Hacer base o estacionar su vehículo en lugar autorizado o en los lugares de encierro o guarda correspondiente en horarios en que no se preste servicio; y
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 100, 150 o 200 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
 IX. Tratándose de ciclotaxis, deberán circular en zonas o vías autorizadas por la Secretaría.
 
-El incumplimiento de las obligaciones dispuestas en este artículo, se sancionará con base en la siguiente tabla, sin perjuicio de lo dispuesto por la Ley y su Reglamento:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 40, 50 o 60 veces la Unidad de Medida y Actualización vigente.
 
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-I, III, IV, VII 10 a 20 veces 1 punto
-
-II, V 10 a 20 veces 3 puntos
-
-IX 40 a 60 veces No aplica
-
-y remisión
-
-del vehículo
-
-al depósito
-
-VI, VIII 100 a 200 veces 3 puntos
-
-y remisión
-
-del vehículo
-
-al depósito
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 23.
 
@@ -1086,31 +1238,29 @@ Queda prohibido a los conductores de vehículos de transporte público colectivo
 
 I. Circular por los carriles centrales de las vías de acceso controlado a menos que esté expresamente autorizado para hacerlo;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 30 o 40 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir.
+
 II. Rebasar a otro vehículo que circule en el carril de contraflujo, salvo que el vehículo esté parado por alguna descompostura; en este caso, el conductor rebasará con precaución, con las luces delanteras encendidas y direccionales funcionando;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 30 o 40 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir.
 
 III. Realizar maniobras de ascenso o descenso de pasajeros, en el segundo o tercer carril de circulación, contados de derecha a izquierda, o sobre una vía ciclista exclusiva; y
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 100, 150 o 200 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
 IV. Utilizar equipos de audio a niveles de volumen que resulten dañinos a la salud o molestos a los pasajeros por rebasar la medición de decibeles permitidos.
 
-El incumplimiento a lo dispuesto en este artículo, se sancionará con base en la siguiente tabla, sin perjuicio de lo dispuesto por la Ley:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-IV 10 a 20 veces 1 puntos (sic)
-
-I, II, 20 a 40 veces 6 puntos
-
-III 100 a 200 veces 3 puntos
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 24.
 
@@ -1124,31 +1274,27 @@ b) Permitir el ascenso o descenso de pasajeros sólo cuando el vehículo esté t
 
 c) Poner en funcionamiento las luces intermitentes de advertencia cuando se detengan en la vía pública para efectuar maniobras de ascenso y descenso.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan los incisos a) y b) de la presente disposición serán sancionados con una multa equivalente a 100, 150 o 200 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir; sin perjuicio de lo dispuesto por la Ley y su Reglamento.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En caso de infringir lo dispuesto en el inciso c) de esta fracción, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir; sin perjuicio de lo dispuesto por la Ley y su Reglamento.
+
 II. Circular con las luces interiores encendidas en horario nocturno; y
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley y su Reglamento.
 
 III. En casos en los que el sentido de circulación implique un cruce de escolares sobre la vía, éstos deberán ser asistidos por el auxiliar que viaja en el vehículo, hasta confirmar que el escolar se encuentra en la acera.
 
-El incumplimiento de las obligaciones dispuestas en este artículo, se sancionará con base en la siguiente tabla, sin perjuicio de lo dispuesto por la Ley.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley y su Reglamento.
 
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-II 5 a 10 veces 1 punto
-
-I c) 10 a 20 veces 1 punto
-
-III 10 a 20 veces 3 puntos
-
-I a) b) 100 a 200 veces 3 puntos
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 Como parte del Programa de Reordenamiento Vial los centros educativos y laborales que cuenten con servicio de transporte, deben de contar con bahías o estacionamiento.
 
@@ -1160,37 +1306,25 @@ Además de lo dispuesto en el capítulo II de este Título, los conductores de v
 
 I. Circular en las vías y horarios establecidos mediante aviso de la Secretaría;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 40, 50 o 60 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley.
+
 II. Circular por el carril de la extrema derecha y usar el izquierdo sólo para rebasar o dar vuelta a la izquierda; y
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley.
 
 III. Realizar maniobras de carga y descarga en lugares seguros, sin afectar o interrumpir el tránsito vehicular.
 
-El incumplimiento de las obligaciones dispuestas en este artículo, se sancionará con base en la siguiente tabla, sin perjuicio de lo dispuesto por la Ley:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 100, 150 o 200 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley.
 
-equivalente en penalización
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-II 10 a 20 veces 1 punto
-
-I 40 a 60 veces 3 puntos
-
-III 100 a 200 veces 3 puntos
-
-y remisión
-
-del vehículo
-
-al depósito
-
-Los vehículos que transporten perecederos no serán remitidos al depósito, de acuerdo a lo dispuesto en el artículo 68 del presente Reglamento.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 26.
 
@@ -1198,37 +1332,17 @@ Queda prohibido a los conductores de vehículos de transporte de carga:
 
 I. Circular por carriles centrales y segundos niveles de las vías de acceso controlado cuando se trate de vehículos de peso bruto vehicular de diseño superior a 3,857 Kg o donde el señalamiento restrictivo así lo indique, y
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 100, 200 o 300 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley.
+
 II. Hacer base o estacionar su vehículo fuera de un lugar autorizado o de los sitios de encierro o guarda correspondientes.
 
-La infracción a lo dispuesto en este artículo, se sancionará con base en la siguiente tabla, sin perjuicio de lo dispuesto por la Ley:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 100, 150 o 200 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley.
 
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-I 100 a 300 veces 3 puntos
-
-y remisión
-
-del vehículo
-
-al depósito
-
-II 100 a 200 veces 6 puntos
-
-y remisión
-
-del vehículo
-
-al depósito
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 27.
 
@@ -1236,31 +1350,31 @@ Además de las obligaciones contenidas en los artículos que anteceden, los cond
 
 I. Sujetarse estrictamente a circular por las rutas, horarios y los itinerarios de carga y descarga autorizados y dados a conocer por la Secretaría y por Seguridad Pública;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 40, 50 o 60 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley.
+
 II. Abstenerse de realizar paradas que no estén señaladas en la operación del servicio;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 40, 50 o 60 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley.
 
 III. En caso de congestionamiento vehicular que interrumpa la circulación, el conductor deberá solicitar a los agentes prioridad para continuar su marcha, mostrándoles la documentación que ampare el riesgo sobre el producto que transporta, con el propósito de salvaguardar la integridad física de las personas y bienes.;
 
 IV. Deberán ir señalizados y balizados de conformidad con lo establecido en las normas oficiales mexicanas con relación a este tipo de transporte; y
 
-V.- Cumplir con los lineamientos en materia de sustancias peligrosas que para tal efecto expidan las autoridades competentes.
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-El incumplimiento de las obligaciones dispuestas en este artículo, se sancionará con base en la siguiente tabla, sin perjuicio de lo dispuesto por la Ley;
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 100, 150 o 200 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley.
 
-Fracción Sanción con multa Puntos de
+V. Cumplir con los lineamientos en materia de sustancias peligrosas que para tal efecto expidan las autoridades competentes.
 
-equivalente en penalización
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-veces la Unidad en licencia
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 100, 150 o 200 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley.
 
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-I, II 40 a 60 veces 3 puntos
-
-IV, V 100 a 200 veces 3 puntos
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 28.
 
@@ -1268,29 +1382,17 @@ Se prohíbe a los conductores de vehículos que transporten sustancias tóxicas 
 
 I. Estacionar los vehículos en la vía pública o en la proximidad de fuente de riesgo, independientemente de la observancia de las condiciones y restricciones impuestas por las autoridades federales en materia ambiental y de transporte; y
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 500, 550 o 600 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley.
+
 II. Realizar maniobras de carga y descarga en lugares no destinados para tal fin.
 
-La infracción a las prohibiciones dispuestas en este artículo, se sancionará con base en la siguiente tabla, sin perjuicio de lo dispuesto por la Ley:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 80, 100 o 130 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir, sin perjuicio de lo dispuesto por la Ley.
 
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-II 80 a 130 veces 6 puntos
-
-I 500 a 60 veces 3 puntos
-
-y remisión
-
-al depósito
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ## TÍTULO TERCERO. DEL USO DE LA VÍA PÚBLICA
 
@@ -1304,31 +1406,41 @@ Al estacionar un vehículo motorizado en la vía pública, los conductores deber
 
 I. El vehículo deberá quedar orientado en el sentido de la circulación;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
+
 II. En zonas urbanas, deberá quedar a menos de 30 centímetros del límite del arroyo vehicular;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
 III. En zonas suburbanas, el vehículo deberá quedar cuando menos un metro fuera de la superficie de rodadura;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
+
 IV. Cuando el vehículo quede estacionado en una pendiente descendente, además de aplicar el freno de estacionamiento, las ruedas delanteras deberán quedar dirigidas hacia la acera;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
 V. Cuando el vehículo quede en una pendiente ascendente, sus ruedas delanteras se colocarán en posición inversa a la acera; y
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
+
 VI. Cuando un vehículo, cuyo peso sea mayor a tres toneladas, se estacione en pendientes, deberán colocarse cuñas apropiadas en las ruedas traseras.
 
-El incumplimiento a lo dispuesto en este artículo, se sancionará con base en la siguiente tabla:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-I, II, III, IV, V, VI 10 a 20 veces 1 punto
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 > <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2018)</small>
 
@@ -1338,23 +1450,59 @@ Se prohíbe estacionar cualquier vehículo:
 
 I. Sobre vías peatonales, especialmente banquetas y cruces peatonales, así como vías ciclistas exclusivas, para ello es suficiente que cualquier parte del vehículo se encuentre sobre estos espacios;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
 II. En las vías primarias;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
 III. Sobre o debajo de cualquier puente o estructura elevada de una vía pública o en el interior de un túnel;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 15, 17 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
 IV. En el costado izquierdo de la vía cuando existan camellones centrales, laterales o islas, así como en las glorietas, salvo que las marcas en el pavimento y el señalamiento lo permita (sic);
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
 > <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
 V. En donde exista señalamiento restrictivo, o la guarnición de la acera o las marcas de pavimento sean de color amarillo, que indica el área donde está prohibido el estacionamiento.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
+
 VI. En los carriles exclusivos, confinados y/o prioritarios de transporte público;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir.
 
 VII. En áreas de circulación, accesos y salidas de estaciones y terminales del transporte público colectivo, sitios de taxi, así como en zonas de ascenso y descenso de pasaje de transporte público;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir.
+
 VIII. En espacios para servicios especiales autorizados por la Secretaría o cualquier otro sitio indicado por la señalización vial correspondiente, cuando éste no sea su fin;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 15, 17 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
 IX. En espacios de servicios especiales destinados al ascenso y descenso de pasajeros cuando la permanencia del vehículo supere el tiempo indicado en la señalización vial, excepto cuando se trate de pasajeros con discapacidad o movilidad limitada;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
 X. Frente a:
 
@@ -1378,11 +1526,27 @@ g) Rampas vehiculares para el acceso a cocheras, salvo que se trate del domicili
 
 h) En entradas y salidas peatonales de instalaciones de hospitales o centros de salud.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 15, 17 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
 XI. En lugares donde se obstruya la visibilidad de la señalización vial;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
 XII. Sobre las vías en doble o más filas;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
 XIII. En batería, con excepción de bicicletas y motocicletas o que un señalamiento así lo permita;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
 XIV. En un tramo menor a:
 
@@ -1392,9 +1556,17 @@ b) Seis metros de la entrada de una estación de bomberos y de vehículos de eme
 
 c) Diez metros de cualquier cruce de vía férrea.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
+
 > <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
 XV. En cajones de estacionamiento exclusivos para personas con discapacidad debidamente identificados por marcas en el pavimento, guarnición y señalamiento vertical informativo, salvo por aquellos vehículos que cuenten con placas de matrícula para personas con discapacidad y vehículos que realicen el ascenso o descenso de personas con discapacidad por una permanencia máxima de 20 minutos.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir.
 
 XVI. En carreteras de no más de dos carriles y con doble sentido de circulación, en un tramo menor a:
 
@@ -1402,65 +1574,73 @@ a) Cincuenta metros de un vehículo estacionado en el lado opuesto; y
 
 b) Cien metros de una curva o cima sin visibilidad;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
 XVII. En sentido contrario a la circulación;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
+
 XVIII. En los cajones exclusivos debidamente autorizados y que cuenten con marcas de color azul que así lo indique, a menos que se trate del vehículo para el cual están destinados estos espacios;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 15, 17 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
 > <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
 XIX. En vías ciclistas, como ciclovías y ciclocarriles, con excepción de los vehículos no motorizados para los cuales están destinados estos espacios;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 15, 17 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
 > <small>(ADICIONADA, G.O. 19 DE MARZO DE 2019)</small>
 
 XIX Bis. En los carriles de circulación frente a cicloestaciones de bicicleta pública y biciestacionamientos de corta estancia que se encuentren ubicados en la franja de estacionamiento, con excepción de los vehículos destinados para la operación del sistema de bicicleta pública, siempre y cuando se encuentren en servicio;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 15, 17 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
 XX. En los demás lugares que la Secretaría y Seguridad Pública determinen; y
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
 XXI. Cuando se estacionen vehículos en lugares autorizados para tal fin, y no se cubra la cuota determinada por su uso, además de lo dispuesto en la fracción II del artículo 33, se impondrá la multa señalada en este artículo.
 
-La infracción por parte de los conductores de vehículos motorizados a las prohibiciones dispuestas en este artículo, se sancionará con base en la siguiente tabla:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
-equivalente en penalización
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-IX, XVII 5 a 10 veces 1 punto
-
-XXI 5 a 10 veces No aplica
-
-I, XII, XVI 10 a 20 veces 3 puntos
-
-II, IV, V, XI, 10 a 20 veces 1 punto
-
-XIII, XIV, XX
-
-III, VIII, X, XVIII, 15 a 20 veces 3 puntos
-
-XIX
-
-VI, VII, XV 20 a 30 veces 6 puntos
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 31.
 
 Las bicicletas podrán estacionarse sobre las aceras siempre y cuando permitan el libre tránsito de los peatones.
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 32.
 
-La Secretaría y Seguridad Pública podrán sujetar a determinados horarios y días de la semana la aprobación o prohibición para estacionarse en la vía pública y el establecimiento de espacios de servicios especiales, mediante la señalización vial respectiva. Asimismo, la Secretaría está facultada para instruir a la Secretaría de Obras y/o Delegaciones para retirar los señalamientos respectivos cuando se efectúen modificaciones con objeto de garantizar un uso eficiente de la vía.
+La Secretaría y Seguridad Ciudadana podrán sujetar a determinados horarios y días de la semana la aprobación o prohibición para estacionarse en la vía pública y el establecimiento de espacios de servicios especiales, mediante la señalización vial respectiva. Asimismo, la Secretaría está facultada para solicitar apoyo a la Secretaría de Obras y Servicios y/o a las Alcaldías para retirar los señalamientos respectivos cuando se efectúen modificaciones con objeto de garantizar un uso eficiente de la vía.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 33.
 
-Aun cuando se encuentre presente el conductor o alguna otra persona, los vehículos motorizados estacionados serán inmovilizados por el agente, cuando:
+Aun cuando se encuentre presente el conductor o alguna otra persona, los vehículos motorizados estacionados serán inmovilizados por el agente autorizado para infraccionar, cuando:
 
-I. Los vehículos se encuentren estacionados en lugares prohibidos según lo establecido en el artículo 30 fracciones I, IV, V, VII, VIII, IX, XIII, XIV y XVIII de este ordenamiento, no se cuente inmediatamente con una grúa para remitirlos al depósito de vehículos y los agentes dispongan de inmovilizadores;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+I. Los vehículos se encuentren estacionados en lugares prohibidos según lo establecido en el artículo 30 fracciones I, IV, V, VII, VIII, IX, XIII, XIV y XVIII de este ordenamiento, imponiéndose la multa que señale el referido artículo;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE MARZO DE 2019)</small>
 
@@ -1480,25 +1660,39 @@ e) El vehículo estacionado no coincida, por sus dimensiones o naturaleza, con e
 
 f) El permiso renovable para residentes haya perdido vigencia, no sea visible desde el exterior del vehículo o no coincida con la placa de matrícula del vehículo, o el polígono para el cual fue autorizado;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente.
+
 Si el inmovilizador fue colocado por lo previsto en la fracción I de este artículo y hay disponibilidad de grúa dentro de los primeros 15 minutos posteriores a la hora registrada en la boleta de infracción, el vehículo se remitirá al depósito sin la aplicación de la sanción económica por retiro del inmovilizador.
 
-Transcurridas más de dos horas de haber sido inmovilizado el vehículo, si el interesado no lo retira del lugar, se procederá a la remisión del mismo al depósito correspondiente, debiéndose cubrir los derechos por el arrastre.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Cuando el usuario del servicio de estacionamiento en vía pública en zonas con sistemas de cobro impida, dificulte o se niegue a que se ejerzan las facultades de revisión, de elaboración de boletas de infracción, de inmovilización, de retiro del vehículo o insulte o denigre al personal autorizado, será presentadoante (sic) el Juez Cívico.
+Transcurridas más de dos horas de haber sido inmovilizado el vehículo por infringir lo previsto en la fracción II de este artículo, si el interesado no cubre las sanciones económicas presentadas con motivo de infracciones al presente Reglamento, registradas en el sistema de infracciones del Gobierno de la Ciudad; así como los derechos establecidos en el artículo 230 fracción III del Código Fiscal de la Ciudad de México, por retiro de inmovilizador, se procederá a la remisión del mismo al depósito correspondiente, debiéndose cubrir los derechos por el arrastre establecidos en las fracciones I o II del artículo 230 del mismo ordenamiento.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Cuando el usuario del servicio de estacionamiento en vía pública (sic) en zonas con sistemas de cobro impida, dificulte o se niegue a que se ejerzan las facultades de revisión, de elaboración de boletas de infracción, de inmovilización, insulte o denigre al personal autorizado, será presentado ante la autoridad competente.
 
 El vehículo será liberado hasta que se hayan cubierto las sanciones económicas y los derechos establecidos en el Código Fiscal, por retiro de inmovilizador correspondientes.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+O bien, en caso de que el personal dependiente del tercero autorizado por la Secretaría para la administración y operación del Sistema de control y cobro de estacionamiento en vía pública, sea quien promueva una conducta ilícita que pueda dar lugar a la tipificación de un delito, será puesto a disposición del Ministerio Público.
 
 > <small>(ADICIONADO, G.O. 19 DE MARZO DE 2019)</small>
 
 El vehículo con placa foránea será liberado cuando no cuente con adeudos motivo de infracciones registradas en el sistema de infracciones del Gobierno de la Ciudad de México y haya cubierto las sanciones económicas, así como los derechos establecidos en el Código Fiscal de la Ciudad de México, por retiro de inmovilizador correspondientes.
 
-> <small>(ADICIONADO, G.O. 19 DE MARZO DE 2019)</small>
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Se exceptúa de lo dispuesto en la fracción II del presente artículo a los vehículos motorizados con matrícula vehicular de la Ciudad de México, los cuales únicamente serán infraccionados dejando la boleta de infracción correspondiente en el parabrisas del vehículo.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 19 DE MARZO DE 2019)</small>
+Seguridad Ciudadana puede auxiliarse de terceros para la inmovilización de vehículos, previo convenio, permiso o autorización que haya celebrado para ello.
 
-Seguridad Ciudadana puede auxiliarse de terceros para la inmovilización de vehículos y remisión de vehículos al depósito, previo convenio, permiso o autorización que haya celebrado para ello.
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Aquella persona que retire inmovilizadores sin que el interesado hubiese cubierto los adeudos con motivo de infracciones registradas en el sistema de infracciones del Gobierno de la Ciudad de México, o previa autorización expresa de Seguridad Ciudadana, será sancionada con una multa de 40 veces la Unidad de Medida y Actualización vigente.
 
 ### CAPÍTULO II. DE LA UTILIZACIÓN DE LA INFRAESTRUCTURA VIAL
 
@@ -1508,135 +1702,77 @@ En la vía pública está prohibido:
 
 I. Efectuar reparaciones a vehículos, salvo en casos de emergencia;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 1, 5 o 10 veces la Unidad de Medida y Actualización vigente o (sic) seis a doce horas de arresto administrativo.
+
 II. Organizar o participar en competencias vehiculares de alta velocidad, acrobacias y demás maniobras riesgosas;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 21, 25 o 30 veces la Unidad de Medida y Actualización vigente, arresto administrativo inconmutable de 20 a 36 horas y seis puntos a la licencia para conducir.
 
 III. Colocar, instalar, arrojar o abandonar objetos o residuos que puedan entorpecer la libre circulación de peatones y vehículos;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 11, 15 o 20 veces la Unidad de Medida y Actualización vigente o arresto administrativo de 13 a 24 horas y el retiro de los elementos incorporados.
+
 IV. Utilizar inadecuadamente, obstruir, limitar, dañar, colocar, deteriorar o destruir la señalización vial;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 21, 25 o 30 veces la Unidad de Medida y Actualización vigente o arresto administrativo de 25 a 36 horas y el retiro de los elementos incorporados.
 
 V. Colocar o instalar cualquier objeto o señalización para reservar espacios de estacionamiento en la vía pública sin la autorización correspondiente;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 11, 15 o 20 veces la Unidad de Medida y Actualización vigente o arresto administrativo de 13 a 24 horas y el retiro de los elementos incorporados.
+
 VI. Cerrar u obstruir la circulación con vehículos, plumas, rejas o cualquier otro objeto, a menos que se cuente con la debida autorización para la restricción temporal de la circulación de vehículos por la realización de algún evento;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 1, 5 o 10 veces la Unidad de Medida y Actualización vigente o arresto administrativo de 6 a 12 horas.
 
 VII. Que los particulares instalen dispositivos para el control del tránsito que obstaculicen o afecten la vía, a menos que se cuente con la autorización debida o se trate de mecanismos o artefactos colocados momentáneamente para facilitar el ascenso o descenso de las personas con discapacidad o señalamientos de advertencia de hechos de tránsito o emergencias;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 1, 5 o 10 veces la Unidad de Medida y Actualización vigente o arresto administrativo de 6 a 12 horas.
+
 VIII. Que los particulares utilicen símbolos y leyendas característicos de la señalización vial para fines publicitarios;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 1, 5 o 10 veces la Unidad de Medida y Actualización vigente o arresto administrativo de 6 a 12 horas.
 
 IX. Colocar luces, dispositivos o cualquier objeto que confundan, desorienten o distraigan a peatones o conductores y
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 1, 5 o 10 veces la Unidad de Medida y Actualización vigente o arresto administrativo de 6 a 12 horas.
+
 X. Efectuar trabajos en la vía pública sin contar con los dispositivos de desvío y protección de obra, así como la señalización en materia de protección civil.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 1, 5 o 10 veces la Unidad de Medida y Actualización vigente o arresto administrativo de 6 a 12 horas.
 
 XI. Mantener un vehículo estacionado, una vez que sea requerido su retiro por la autoridad, cuando se realice obra pública o trabajos de servicios urbanos en la vía.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores que infrinjan la presente disposición serán sancionados con una multa equivalente a 1, 5 o 10 veces la Unidad de Medida y Actualización vigente.
+
 En caso de que los responsables se nieguen a retirar los elementos incorporados a la vialidad que obstaculicen, impidan la circulación o el estacionamiento de vehículos a que se refieren las fracciones III, IV, V, VI, VII, VIII, IX y XI; Seguridad Pública y las Delegaciones deberán retirarlos de la vía a la brevedad para evitar un hecho de tránsito.
 
-Cuando se cometa alguna de las infracciones contenidas en las fracciones II, III, IV, V, VI, VII, VIII, IX, X y XI el agente remitirá al probable infractor al Juez Cívico para que se inicie el procedimiento respectivo y sea sancionado conforme a la siguiente tabla:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
+Cuando se cometa alguna de las infracciones contenidas en las fracciones II, III, IV, V, VI, VII, VIII, IX y X el agente y/o agente autorizado para infraccionar remitirá al probable infractor al Juez Cívico para que se inicie el procedimiento respectivo.
 
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente.
-
-XI 1 a 10 veces No aplica
-
-y remisión
-
-del vehículo
-
-al depósito.
-
-I 1 a 10 veces o No aplica
-
-6 a 12 horas
-
-de arresto
-
-administrativo
-
-y remisión
-
-del vehículo
-
-al depósito.
-
-VI, VII, VIII, 1 a 10 veces o No aplica
-
-IX y X. 6 a 12 horas
-
-de arresto
-
-administrativo
-
-y remisión
-
-del vehículo
-
-al depósito.
-
-III 11 a 20 veces o No aplica
-
-13 a 24 horas
-
-de arresto
-
-administrativo
-
-y retiro de los
-
-elementos
-
-incorporados.
-
-V 11 a 20 horas o No aplica
-
-13 a 24 horas
-
-de arresto
-
-administrativo
-
-y retiro de los
-
-elementos
-
-incorporados.
-
-II 21 a 30 veces y 6 puntos
-
-de arresto
-
-administrativo
-
-inconmutable de
-
-20 a 36 horas
-
-y remisión
-
-del vehículo
-
-al depósito
-
-IV 21 a 30 veces o No aplica
-
-25 a 36 horas de
-
-de arresto
-
-administrativo
-
-y retiro de los
-
-elementos
-
-incorporados
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 35.
 
@@ -1646,41 +1782,27 @@ Está prohibido abandonar en la vía pública un vehículo o remolque que se enc
 
 I. Que no sean movidos por más de 15 días, o acumulen residuos que generen un foco de infección, malos olores o fauna nociva ó
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento a la presente disposición, se sancionará con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente.
+
 > <small>(REFORMADA, G.O. 16 DE ABRIL DE 2019)</small>
 
 II. No están en posibilidades de circular, o participaron en un hecho de tránsito y no cuentan con el permiso correspondiente
 
-El incumplimiento de este artículo, se sancionará con base en la siguiente tabla:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2019)</small>
+El incumplimiento a la presente disposición, se sancionará con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente.
 
-Sanción con multa Puntos de
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-equivalente en penalización
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-veces la Unidad en licencia
+Para estar en posibilidad de hacer la remisión del vehículo al depósito, previamente los agentes y/o el personal asignado por la alcaldía donde se encuentre dicho vehículo, dejará adherido al mismo, apercibimiento por escrito debidamente fundado y motivado, en el que haga de conocimiento al propietario, poseedor y/o responsable del vehículo que cuenta con un término de tres días hábiles contados a partir del día siguiente, para que lo retire con sus propios medios y ante su omisión, la autoridad lo hará con cargo a éste.
 
-de Medida y para conducir
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Actualización
-
-vigente
-
-10 a 20 veces No aplica
-
-y remisión
-
-del vehículo
-
-al depósito.
-
-> <small>(ADICIONADO, G.O. 19 DE MARZO DE 2019)</small>
-
-Para estar en posibilidad de hacer la remisión del vehículo al depósito, el agente dejara adherido al mismo, apercibimiento por escrito debidamente fundado y motivado, en el que haga de conocimiento al propietario, poseedor, responsable del vehículo cuenta con un término de tres días hábiles contados a partir del día siguiente a su entrega, lo retire con sus propios medios y ante su omisión la autoridad lo hará con cargo a éste.
-
-> <small>(ADICIONADO, G.O. 19 DE MARZO DE 2019)</small>
-
-Si el día señalado para tal efecto, continúa abandonado el vehículo y no estuviera presente el propietario, poseedor o responsable ó estándolo se negará a cumplir el acto, se procederá a la remisión inmediata del vehículo al depósito correspondiente.
+Si el día señalado para tal efecto, continúa abandonado el vehículo y no estuviera presente el propietario, poseedor o responsable o estándolo se negará a cumplir el acto, se procederá a la imposición de la respectiva infracción por parte del agente autorizado para infraccionar, y a la remisión inmediata del vehículo al depósito correspondiente.
 
 ###### Artículo 36.
 
@@ -1688,25 +1810,23 @@ Los conductores de vehículos motorizados que accedan a vías concesionadas o pe
 
 I. Exista algún anuncio por parte de la autoridad que indique el libre acceso a causa de alguna contingencia o por necesidades de interés público;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento del pago de las tarifas establecidas por parte de los conductores, se sancionará con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente.
+
 II. Se trate de vehículos de transporte público de pasajeros cuyas rutas incluyan tramos en estas vías; y
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento del pago de las tarifas establecidas por parte de los conductores, se sancionará con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente.
 
 III. Se trate de vehículos de emergencia que se dirijan a atender alguna incidencia.
 
-El incumplimiento del pago de las tarifas establecidas por parte de los conductores, se sancionará con base en la siguiente tabla:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Sanción con multa Puntos de
+El incumplimiento del pago de las tarifas establecidas por parte de los conductores, se sancionará con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente.
 
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-10 a 20 veces No aplica
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ## TÍTULO CUARTO. DE LAS NORMAS DE SEGURIDAD PARA LA CONDUCCIÓN DE VEHÍCULOS
 
@@ -1726,13 +1846,23 @@ II. Los conductores de vehículos motorizados deben:
 
 a) Sujetar firmemente con ambas manos, el control de dirección y no permitir que otro pasajero lo tome parcial o totalmente;
 
-b) Asegurarse que todos los pasajeros utilicen correctamente el cinturón de seguridad, además de colocarse el propio, excepto los ocupantes de vehículos de emergencia. Los taxistas, no están obligados a cumplir con esta disposición, respecto de los pasajeros;
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+b) Asegurarse que todos los pasajeros utilicen correctamente el cinturón de seguridad, además de colocarse el propio.
 
 c) Circular con las portezuelas cerradas y, antes de abrirlas, verificar que no se interfiera en el flujo de peatones u otros vehículos; en su caso, no la mantendrán abierta por mayor tiempo que el estrictamente necesario para su ascenso o descenso;
 
 d) Encender las luces cuando disminuya sensiblemente la visibilidad por cualquier factor ambiental o por las características de la infraestructura vial, evitando deslumbrar a quienes transitan en sentido opuesto; y
 
 e) Colocar dispositivos de advertencia cuando por caso fortuito o de fuerza mayor se detenga en vías primarias. Si la vía es de doble sentido, los dispositivos de advertencia se colocarán 20 metros atrás del vehículo y 20 metros adelante en el carril opuesto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan los incisos a), b), d) y e) de la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto de penalización a la placa de matrícula o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará (sic) un punto a la matrícula vehicular.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE FEBRERO DE 2021)</small>
+
+En caso de infringir lo dispuesto en el inciso c) de esta fracción, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con tres puntos a la matrícula vehicular.
 
 III. Adicionalmente, los motociclistas deben:
 
@@ -1746,53 +1876,33 @@ d) Utilizar casco protector diseñado específicamente para motociclistas y aseg
 
 e) Preferentemente portar visores, chamarra o peto para protección con aditamentos rígidos para cobertura de hombros, codos y torso específicos para motociclista, guantes y botas, todos de diseño específico para conducción de este tipo de vehículo.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan los incisos a), c) y e) de la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En caso de infringir lo dispuesto en el inciso b) y d) de esta fracción, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente, y tres puntos a la licencia para conducir.
+
 IV. Adicionalmente, los conductores de vehículos de transporte carga deben circular con la carga debidamente asegurada por tensadores para sujetar carga, cintas y/o lonas, que evite tirar objetos o derramar sustancias que obstruyan el tránsito o pongan en riesgo la integridad física de las personas; y
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 40, 50 o 60 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
 V. Los conductores de vehículos de transporte de sustancias tóxicas o peligrosas deben asegurarse de que la carga esté debidamente protegida y señalizada de conformidad con las normas oficiales mexicanas.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
 Cuando por alguna circunstancia de emergencia se requiera estacionar el vehículo en la vía pública, a fin de evitar que personas ajenas a la transportación manipulen el equipo o la carga. Cuando lo anterior suceda, el conductor deberá colocar triángulos de seguridad o señalamientos de advertencia tanto en la parte delantera como trasera de la unidad, a una distancia que permita a otros conductores tomar las precauciones necesarias.
 
 Los conductores de vehículos no motorizados, que no cumplan con lo dispuesto en este artículo, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad a las disposiciones aplicables.
 
-El incumplimiento a lo dispuesto en este artículo por parte de conductores de vehículos motorizados, se sancionará con base en la siguiente tabla:
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
-
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-II a), b), d), 5 a 10 veces 1 punto
-
-e); III a), c)
-
-I c); III b), d); V 10 a 20 veces 3 puntos
-
-III d) 10 a 20 veces 3 puntos
-
-y remisión
-
-del vehículo
-
-al depósito
-
-IV 40 a 60 veces 3 puntos
-
-y remisión
-
-del vehículo
-
-al depósito
-
-> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2019)</small>
-
-Adicionalmente a las sanciones previstas en la tabla anterior, se impondrá 1 punto de penalización a la matrícula vehicular de los conductores que infrinjan las disposiciones previstas en la fracción II del presente artículo.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 > <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2018)</small>
 
@@ -1811,6 +1921,10 @@ c) Sujetarse a otros vehículos en movimiento;
 d) Manipular un teléfono celular o cualquier dispositivo de comunicación o de audio mientras el vehículo esté en movimiento, cualquier manipulación deberá hacerse con el vehículo detenido; y
 
 e) Transportar a un pasajero apoyado en el cuadro de la bicicleta, en el espacio intermedio entre el sillín y el manubrio; excepto cuando se cuente con una silla para transportar niños y haya sido diseñada específicamente para tal propósito.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos no motorizados que no cumplan con lo estipulado en el presente artículo, serán amonestados verbalmente por los agentes y/o agentes autorizados para infraccionar, y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
 II. A los conductores de vehículos motorizados:
 
@@ -1834,6 +1948,22 @@ i) Instalar o utilizar televisores o pantallas de proyección de cualquier tipo 
 
 j) Utilizar luces auxiliares de niebla delanteras y/o traseras de día o cuando no existan condiciones adversas que limiten la visibilidad.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan los incisos a), b), f), g) y j) de la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto de penalización a la licencia de conducir.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En caso de infringir lo dispuesto en los incisos c), d) y h) de esta fracción, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente, tres puntos a la licencia para conducir y un punto a la matrícula vehicular.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Por infringir lo previsto en el inciso e) de esta fracción serán sancionados con una multa equivalente a 30, 32 o 35 veces la Unidad de Medida y Actualización vigente, tres puntos a la licencia para conducir y un punto a la matrícula vehicular.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento a lo previsto en el inciso i) de esta fracción será sancionado con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente, tres puntos a la licencia para conducir y un punto a la matrícula vehicular.
+
 III. Adicionalmente, a los motociclistas:
 
 a) Transportar carga que impida mantener ambas manos sobre el manubrio, y un debido control del vehículo;
@@ -1846,11 +1976,23 @@ d) Transportar a un pasajero entre el conductor y el manubrio; y
 
 e) Transportar un menor de edad, cuando este no pueda sujetarse por sí mismo a la motocicleta y, estando correctamente sentado, no pueda colocar adecuada y firmemente los pies en los estribos o posa pies, excepto que cuente con los aditamentos especialmente diseñados para su seguridad.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan los incisos a) y b) de la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En caso de infringir lo dispuesto en los incisos c), d) y e) de esta fracción, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
 IV. Adicionalmente, a los conductores de vehículos de transporte público, escolar y de personal:
 
 a. Cargar combustible llevando pasajeros a bordo; y
 
 b. Llevar vidrios polarizados, obscurecidos o con aditamentos u objetos distintos a las calcomanías reglamentarias.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan los incisos a) y b) de la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
 V. Adicionalmente, a los conductores de vehículos de carga:
 
@@ -1858,57 +2000,33 @@ a. Circular con pasajeros que viajen en el área de carga; y
 
 b. Circular con carga que exceda el peso bruto vehicular máximo permitido establecido en las normas aplicables o en el señalamiento restrictivo, obstruya la vista frontal o los espejos frontales laterales o que sobresalga de la parte delantera, posterior o de los costados, salvo cuando se obtenga el permiso correspondiente de la Secretaría, debiendo indicar con elementos reflejantes el perímetro de la carga.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los conductores de vehículos motorizados que infrinjan el inciso a) de la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En caso de infringir lo dispuesto en el inciso b) de esta fracción, serán sancionados con una multa equivalente a 40, 50 o 60 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
 VI. Adicionalmente, a los conductores de vehículos de transporte de sustancias tóxicas o peligrosas:
 
 a) Llevar a bordo personas ajenas a su operación; y
 
 b) Arrojar o descargar en la vía, así como ventear innecesariamente cualquier tipo de sustancia tóxica o peligrosa.
 
-Los conductores de vehículos no motorizados que no cumplan con lo estipulado en el presente artículo, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-El incumplimiento a lo dispuesto en este artículo por parte de conductores de vehículos motorizados, se sancionará con base en la siguiente tabla:
+Los conductores de vehículos motorizados que infrinjan el inciso a) de la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
-Fracción Sanción con multa Puntos de
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-equivalente en penalización
+En caso de infringir lo dispuesto en el inciso b) de esta fracción, serán sancionados con una multa equivalente a 400, 500 o 600 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir.
 
-veces la Unidad en licencia
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-de Cuenta de para conducir
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-la Ciudad de
-
-México vigente
-
-II a), b), f), g); 5 a 10 veces 1 punto
-
-III a) b)
-
-II c), d), h); 10 a 20 veces 3 puntos
-
-III c), d), e;
-
-V a); VI a)
-
-IV 10 a 20 veces 3 puntos
-
-II i) 20 a 30 veces 3 puntos
-
-II c) 30 a 35 veces 3 puntos
-
-V b) 40 a 60 veces 3 puntos
-
-y remisión
-
-del vehículo
-
-al deposito
-
-VI b) 400 a 600 veces 6 puntos
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 16 DE ABRIL DE 2019)</small>
-
-Adicionalmente a las sanciones previstas en la tabla anterior, se impondrá 1 punto de penalización a la matrícula vehicular de los conductores que infrinjan las disposiciones previstas en la fracción II del presente artículo.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 39.
 
@@ -1918,23 +2036,11 @@ Los menores deberán ser transportados en un sistema de retención infantil o as
 
 Únicamente si el vehículo no cuenta con asiento trasero, los niños podrán viajar en el asiento delantero, siempre y cuando cuenten con espacio suficiente para instalar un sistema de retención infantil acordes a su peso o talla y se desactive el sistema de bolsas de aire.
 
-> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Los conductores que no cumplan con lo establecido en el presente artículo serán sancionados de acuerdo a la siguiente tabla:
+Los conductores que no cumplan con lo establecido en el presente artículo serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente un punto de penalización a la placa de matrícula y un punto a la licencia para conducir.
 
-> <small>(ADICIONADA, G.O. 16 DE ABRIL DE 2019)</small>
-
-Sanción con Puntos de penalización Sanción con puntos de
-
-multa equivalente en licencia para conducir penalización en
-
-en veces la Unidad matrícula
-
-de Medida y vehicular (por sistema
-
-Actualización vigente tecnológico)
-
-5 a 10 veces 1 punto 1 punto
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ### CAPÍTULO II. DE LAS CARACTERÍSTICAS DE LOS VEHÍCULO
 
@@ -1974,6 +2080,10 @@ k) Cinturones de seguridad para cada ocupante del vehículo, y
 
 l) Extintor, dos señalamientos de advertencia reflejantes o luminosos, neumático de refacción y la herramienta adecuada para el cambio o reparación de la misma; o en su caso, neumáticos que permitan la circulación sin presión o el sistema auxiliar que permita rodar con seguridad, con un neumático ponchado.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento de las obligaciones previstas en esta fracción, se sancionarán con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente.
+
 III. En caso de vehículos para enseñanza, adicionalmente deben contar con:
 
 a) Un sistema de doble control de frenos, embragues y retrovisores, que permita al instructor controlar el vehículo cuando sea necesario con absoluta independencia del aprendiz;
@@ -1981,6 +2091,10 @@ a) Un sistema de doble control de frenos, embragues y retrovisores, que permita 
 b) La leyenda “VEHÍCULO DE ENSEÑANZA” en los costados y la parte posterior; y
 
 c) Las demás características que determine la Secretaría.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento de las obligaciones previstas en esta fracción, se sancionarán con una multa equivalente a 30, 35 o 40 veces la Unidad de Medida y Actualización vigente.
 
 IV. Vehículos de transporte público, transporte de personal y escolar:
 
@@ -1990,6 +2104,10 @@ b) Contar con un botiquín de primeros auxilios; y
 
 c) Tratándose de taxis preferentes los sistemas para la sujeción de pasajeros que viajen en silla de ruedas, deben ser de acuerdo con el anexo de este reglamento.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento de las obligaciones previstas en esta fracción, se sancionará con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente.
+
 V. Vehículos de transporte de carga:
 
 a) Bandas reflejantes de color blanco y rojo en los costados laterales y posterior y bandas reflejantes amarillas en la parte frontal;
@@ -1998,29 +2116,11 @@ b) Cuando se trate de un vehículo con doble remolque, deberá contar con leyend
 
 c) Salvaguardas laterales de acuerdo con el anexo correspondiente de este ordenamiento.
 
-El incumplimiento de las obligaciones dispuestas en este artículo, se sancionará con base en la siguiente tabla:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
+El incumplimiento de las obligaciones previstas en esta fracción, se sancionarán con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente.
 
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-II a), b), c), d), 5 a 10 veces No aplica
-
-e), f), g), h), i),
-
-j), k), l)
-
-IV, V 10 a 20 veces No aplica
-
-III 30 a 40 veces
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 Adicionalmente, las escuelas de manejo que incumplan lo dispuesto en la fracción III serán sancionadas de acuerdo a lo que establezca la autorización respectiva de funcionamiento.
 
@@ -2030,31 +2130,35 @@ Los siguientes vehículos deberán contar en la parte superior con luces destell
 
 I. Vehículos particulares que realicen trabajos de servicios en la vía en horario nocturno;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento a lo previsto en la presente disposición por parte de conductores de vehículos motorizados, se sancionará con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente.
+
 II. Vehículos de transporte público de pasajeros con un largo mayor a diez metros;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento a lo previsto en la presente disposición por parte de conductores de vehículos motorizados, se sancionará con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente.
 
 III. Vehículos de transporte de carga de doble remolque;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento a lo previsto en la presente disposición por parte de conductores de vehículos motorizados, se sancionará con una multa equivalente a 10, 30 o 40 veces la Unidad de Medida y Actualización vigente.
+
 IV. Grúas; y
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento a lo previsto en la presente disposición por parte de conductores de vehículos motorizados, se sancionará con una multa equivalente a 10, 30 o 40 veces la Unidad de Medida y Actualización vigente.
 
 V. Vehículos con dimensiones excesivas, maquinaria agrícola o de construcción y los vehículos que sean utilizados para su abanderamiento.
 
-El incumplimiento a lo dispuesto en este artículo por parte de conductores de vehículos motorizados, se sancionará con base en la siguiente tabla:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
+El incumplimiento a lo previsto en la presente disposición por parte de conductores de vehículos motorizados, se sancionará con una multa equivalente a 10, 30 o 40 veces la Unidad de Medida y Actualización vigente.
 
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-I, II 10 a 20 veces No aplica
-
-III, IV, V 10 a 40 veces No aplica
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 42.
 
@@ -2062,25 +2166,23 @@ Los vehículos motorizados que tengan adaptados dispositivos de acoplamiento par
 
 I. Un mecanismo giratorio o retráctil que no rebase la defensa del mismo; los vehículos que no cumplan con este requisito deberán ser modificados por el propietario;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento de las obligaciones señaladas en la presente disposición, se sancionará con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente.
+
 II. Los remolques deben contar con bandas reflejantes de color blanco y rojo en los costados laterales y posterior y bandas reflejantes amarillas en la parte frontal, así como de dos lámparas indicadoras de frenado; y
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento de las obligaciones señaladas en la presente disposición, se sancionará con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente.
 
 IV (SIC). Las luces de freno deben ser visibles en la parte posterior de los remolques.
 
-El incumplimiento de las obligaciones señaladas en este artículo, se sancionarán con:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
+El incumplimiento de las obligaciones señaladas en la presente disposición, se sancionará con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente.
 
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-I, II, III 5 a 10 veces No aplica
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 43.
 
@@ -2088,45 +2190,47 @@ Se prohíbe instalar o utilizar en vehículos motorizados:
 
 I. Bandas de oruga, ruedas o neumáticos metálicas u otros mecanismos de tracción que dañen la superficie de rodadura;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento de las obligaciones señaladas en la presente disposición, se sancionará con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente.
+
 II. Faros deslumbrantes que no cumplan con las Normas Oficiales Mexicanas y pongan en riesgo la seguridad de conductores o peatones;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento de las obligaciones señaladas en la presente disposición, se sancionará con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente.
 
 III. Luces de neón y/o porta placas que obstruyan la visibilidad de la información contenida en las placas de matrícula del vehículoy/o (sic) micas, láminas transparentes u obscuras sobre las mismas placas;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento de las obligaciones señaladas en la presente disposición, se sancionará con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente.
+
 IV. Sistemas antirradares o detector de radares de velocidad;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento de las obligaciones señaladas en la presente disposición, se sancionará con una multa equivalente a 40, 45 o 50 veces la Unidad de Medida y Actualización vigente.
 
 V. Modificaciones al sistema de escape de gases del vehículo con objeto de provocar ruido excesivo;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento de las obligaciones señaladas en la presente disposición, se sancionará con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente.
+
 VI. Bocinas (claxon) que produzca ruido excesivo o un sonido diverso al que producía la bocina original de fábrica; y
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento de las obligaciones señaladas en la presente disposición, se sancionará con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente.
 
 VII. Películas de control solar (polarizado) u oscurecimiento de vidrios laterales o traseros en un porcentaje mayor al 20%. Cuando así se requiera por razones médicas, debidamente acreditadas ante la Secretaría, y deberá constar en la tarjeta de circulación.
 
-El incumplimiento de las obligaciones dispuestas en este artículo, se sancionará con base en la siguiente tabla:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Fracción Sanción con multa Puntos de
+El incumplimiento de las obligaciones señaladas en la presente disposición, se sancionará con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente.
 
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-II, III 10 a 20 veces No aplica
-
-I, V, VI, VII 20 a 30 veces No aplica
-
-y remisión del vehículo
-
-al depósito
-
-III 40 a 50 veces No aplica
-
-y remisión del vehículo
-
-al depósito
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ## TÍTULO QUINTO. DE LA REGULACIÓN, INSPECCIÓN Y VIGILANCIA
 
@@ -2140,7 +2244,13 @@ I. Conductores de vehículos motorizados de uso particular, incluyendo a motocic
 
 a) Cuando sean menores de edad, portar permiso de conducir;
 
-b) Cuando sean mayores de edad, portar licencia vigente correspondiente al tipo de vehículo.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+b) Cuando sean mayores de edad, portar licencia vigente en formato físico o digital, correspondiente al tipo de vehículo;
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento de las obligaciones señaladas en los incisos a) y b) de la presente disposición, se sancionará con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente, sin menoscabo de lo estipulado por la Ley y su reglamento respectivo.
 
 II. Conductores de vehículos de transporte público de pasajeros deben:
 
@@ -2152,6 +2262,10 @@ c) Portar el engomado de la concesión; y
 
 d) Utilizar la cromática autorizada por la Secretaría.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento de las obligaciones señaladas en los incisos a), b), c) y d) de la presente disposición, se sancionará con una multa equivalente a 80, 90 o 100 veces la Unidad de Medida y Actualización vigente, sin menoscabo de lo estipulado por la Ley y su reglamento respectivo.
+
 III. Tratándose de ciclotaxis:
 
 a) Portar el permiso expedido por autoridad correspondiente;
@@ -2159,6 +2273,10 @@ a) Portar el permiso expedido por autoridad correspondiente;
 b) Utilizar la cromática autorizada por la Secretaría; y
 
 c) Portar el número económico que identifique a la unidad.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento de las obligaciones señaladas en los incisos a), b) y c) de la presente disposición, se sancionará con una multa equivalente a 40, 50 o 60 veces la Unidad de Medida y Actualización vigente, sin menoscabo de lo estipulado por la Ley y su reglamento respectivo.
 
 IV. Los conductores de vehículos de transporte escolar o de pasajeros deben:
 
@@ -2168,11 +2286,23 @@ b) Utilizar la cromática autorizada por la Secretaría; y,
 
 c) Contar con el permiso o concesión correspondiente.
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento de las obligaciones señaladas en los incisos a) y b) de la presente disposición, se sancionará con una multa equivalente a 60, 70 o (sic) 80 veces la Unidad de Medida y Actualización vigente, sin menoscabo de lo estipulado por la Ley y su reglamento respectivo.
+
 V. Los conductores de vehículos de transporte de carga deben:
 
 a) Conducir con licencia vigente correspondiente al tipo de vehículo;
 
 b) Contar con el permiso o concesión correspondiente.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+El incumplimiento de las obligaciones señaladas en el inciso a) de la presente disposición será sancionado con una multa equivalente a 60, 70 o (sic) 80 veces la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En caso de infringir lo dispuesto en el inciso b) de esta fracción, serán sancionados con una multa equivalente a 80, 90 o 100 veces la Unidad de Medida y Actualización vigente, sin menoscabo de lo estipulado por la Ley y su reglamento respectivo.
 
 VI. Los conductores de vehículos que transporten sustancias tóxicas o peligrosas, adicionalmente deben contar con:
 
@@ -2182,45 +2312,19 @@ b) El permiso correspondiente para transportar esas sustancias; y
 
 c) Contar con protocolos de actuación en casos de emergencia.
 
-Los requisitos y procedimiento para la obtención de permisos y licencias de conducir, tarjetones y demás documentos para la conducción de vehículos se establecen en la Ley y en el Reglamento respectivo.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-El incumplimiento de las obligaciones dispuestas en este artículo, se sancionará con base en la siguiente tabla, sin menoscabo de lo estipulado por la Ley y su reglamento respectivo:
+El incumplimiento de las obligaciones señaladas en los incisos a), b) y c) de la presente disposición, se sancionará con una multa equivalente a 80, 90 o 100 veces la Unidad de Medida y Actualización vigente, sin menoscabo de lo estipulado por la Ley y su reglamento respectivo.
 
-Fracción Sanción con multa Puntos de
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-equivalente en penalización
+Los requisitos y procedimiento (sic) para la obtención de permisos y licencias de conducir, tarjetones y demás documentos para la conducción de vehículos se establecen en la Ley y en el Reglamento respectivo.
 
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-I 10 a 20 veces No aplica
-
-y remisión del vehículo
-
-al depósito
-
-III 40 a 60 veces No aplica
-
-y remisión del vehículo
-
-al depósito
-
-IV, V a) 60 a 80 veces No aplica
-
-y remisión del vehículo
-
-al depósito
-
-II a), b), d); VI 80 a 100 veces No aplica
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 45.
 
-Los vehículos motorizados que circulen en el territorio del Distrito Federal deben de contar con:
+Los vehículos motorizados que circulen en el territorio de la Ciudad de México deben de contar con:
 
 I. Placas de matrícula frontal y posterior, o permiso provisional vigentes correspondiente al tipo de vehículo, o en su defecto, la copia certificada de la denuncia de la pérdida de las placas de matrícula ante el agente del Ministerio Público o la constancia de hechos ante el Juez Cívico, la cual no deberá exceder del término de 10 días hábiles a partir de la fecha de su expedición; mismos que deberán:
 
@@ -2228,7 +2332,9 @@ a) Estar colocadas en el lugar destinado por el fabricante del vehículo;
 
 b) Encontrarse libres de cualquier objeto o sustancia que dificulte u obstruya su visibilidad o su registro, así como luces de neón alrededor;
 
-c) Coincidir con la calcomanía permanente de circulación, con la tarjeta de circulación y con los registros del control vehicular;
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+c) Coincidir con la calcomanía permanente de circulación, con la tarjeta de circulación y con los registros del control vehicular, en caso de no ser así, el agente autorizado para infraccionar deberá retener las placas de circulación frontal y posterior, lo cual hará constar en la boleta de sanción. Las placas de circulación retenidas por no coincidir con el vehículo en circulación le serán devueltas a la persona que acredite su legítima propiedad en las oficinas de Seguridad Ciudadana; mientras que el vehículo será remitido al depósito vehicular.
 
 d) Tener la dimensión y características que especifique la Norma Oficial Mexicana respectiva; y
 
@@ -2236,7 +2342,9 @@ e) En el caso de motocicletas, la placa deberá estar colocada en un lugar visib
 
 II. La calcomanía de circulación permanente;
 
-III. El holograma y constancia de verificación vehicular vigente con excepción de motocicletas. Los vehículos motorizados de los Estados que conforman la Comisión Ambiental de la Megalópolis y que circulen en el territorio del Distrito Federal están obligados a portar su holograma y constancia de verificación vehicular vigente respectiva; y
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+III. El holograma y constancia de verificación vehicular vigente con excepción de motocicletas. Los vehículos motorizados de los Estados que conforman la Comisión Ambiental de la Megalópolis y que circulen en el territorio de la Ciudad de México están obligados a portar su holograma y constancia de verificación vehicular vigente respectiva.
 
 IV. Tarjeta de circulación vigente.
 
@@ -2244,67 +2352,65 @@ Tratándose de vehículos con placas de matrícula extranjera, portar los docume
 
 Los requisitos y procedimiento para la obtención de la placa de matrícula y tarjeta de circulación se establecen en la Ley y su Reglamento.
 
-El incumplimiento de las obligaciones señaladas en este artículo, se sancionarán con base en la siguiente tabla:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Sanción con multa Puntos de
+El incumplimiento de las obligaciones señaladas en el presente artículo, se sancionarán con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente.
 
-equivalente en penalización
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-20 a 30 veces No aplica
-
-y remisión del vehículo
-
-al depósito
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 46.
 
-Los vehículos motorizados deberán contar con póliza de seguro de responsabilidad civil vigente, que ampare al menos la responsabilidad civil por daños a terceros en su persona y en su patrimonio.
+Los vehículos motorizados deberán contar con póliza de seguro de responsabilidad civil vigente, expedida por una institución autorizada por la Comisión Nacional de Seguros y Fianzas; que ampare al menos la responsabilidad civil por daños a terceros en su persona y en su patrimonio.
 
 En el caso de las unidades que prestan el servicio de transporte público de pasajeros o de carga, deberá contar con póliza de seguro de responsabilidad civil vigente, que ampare la responsabilidad civil por daños y perjuicio que con motivo de la prestación del servicio pudiese ocasionar a los usuarios o terceros en su persona o patrimonio, dependiendo de la modalidad de transporte a la que corresponda y de acuerdo a lo que establezca el reglamento de la Ley. Sin perjuicio de las sanciones establecidas en este reglamento, serán sancionados de acuerdo a lo estipulado en la Ley y su reglamento.
 
-En caso de no portar la póliza vigente, el propietario del vehículo será sancionado de acuerdo a la siguiente tabla:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Tipo de Sanción con multa Puntos de
+En caso de no portar la póliza vigente, el propietario del vehículo particular será sancionado con una multa equivalente a 20, 30 o 40 veces la Unidad de Medida y Actualización vigente.
 
-conductor equivalente en penalización
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-veces la Unidad en licencia
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-de Cuenta de para conducir
+El incumplimiento de la presente disposición por parte del concesionario de (sic) unidad de transporte de carga se sancionará con una multa equivalente a 40, 50 o 60 veces la Unidad de Medida y Actualización vigente.
 
-la Ciudad de
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-México vigente
+Tratándose del incumplimiento por parte del concesionario de (sic) unidad de transporte público de pasajeros se sancionará con una multa equivalente a 60, 70 o (sic) 80 veces la Unidad de Medida y Actualización vigente.
 
-Propietario de 20 a 40 veces No aplica
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 4 DE FEBRERO DE 2021)</small>
 
-Vehículo particular
+El propietario del vehículo particular tendrá 45 días naturales contados a partir del día en que se encuentre publicada la boleta de sanción correspondiente en la dirección electrónica https://estrados.cdmx.gob.mx/, para solicitar la cancelación de la multa, al presentar ante Seguridad Ciudadana los siguientes requisitos:
 
-Concesionario de 40 a 60 veces y No aplica
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-unidad de transporte remisión del
+I. Solicitud por escrito a través del Formato autorizado para tal efecto;
 
-de carga vehículo al
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-depósito
+II. Identificación Oficial (Credencial para Votar, Pasaporte, Cédula Profesional o Cartilla del Servicio Militar);
 
-Concesionario de 60 a 80 veces y No aplica
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-unidad de transporte remisión del
+III. Tratándose de personas morales, documentos de Acreditación de Personalidad Jurídica (Acta Constitutiva, Poder Notarial, Identificación Oficial del Representante o Apoderado);
 
-público de vehículo al
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-pasajeros depósito
+IV. Tarjeta de Circulación;
 
-El propietario del vehículo particular tendrá 45 días naturales para la cancelación de la multa, al presentar ante Seguridad Pública una póliza de seguro de responsabilidad civil por daños a terceros, en los términos de la Ley, dentro del término estipulado.
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+V. Póliza de Seguro Vigente;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.O. 4 DE FEBRERO DE 2021)</small>
+
+VI. En caso de que el vehículo no se encuentre a nombre de la persona que realiza el trámite, deberá presentarse:
+
+a) Carta Poder con copia de identificación de quien otorga el poder y testigos, o Factura endosada a nombre de la persona que realiza el trámite;
+
+b) Identificación oficial del titular de la tarjeta de circulación.
 
 ###### Artículo 47.
 
@@ -2326,25 +2432,11 @@ VI. Aquellos en que sea manifiesta o que se acredite una emergencia médica; y
 
 VII. Los demás que determinen las disposiciones jurídicas y administrativas aplicables.
 
-Aquellos que incumplan con lo establecido en este artículo o emitan humo ostensiblemente contaminante sea cual fuere la entidad federativa en la que fueron matriculados, serán sancionados de acuerdo a lo establecido en la siguiente tabla:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Sanción con multa Puntos de
+Aquellos conductores de vehículos motorizados que incumplan con lo establecido en este artículo o emitan humo ostensiblemente contaminante sea cual fuere la entidad federativa en la que fueron matriculados, serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente.
 
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-20 a 30 veces No aplica
-
-y remisión del vehículo
-
-al depósito
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 48.
 
@@ -2352,137 +2444,137 @@ Se prohíbe utilizar o instalar en vehículos:
 
 I. Dispositivos luminosos o acústicos similares a los utilizados por vehículos de emergencia;
 
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+La infracción a las prohibiciones previstas en la presente disposición, se sancionará con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente.
+
 II. Anuncios publicitarios no autorizados por la Secretaría; y
 
-III. Los vehículos de uso particular no podrán contar con cromáticas iguales o similares a las del transporte público de pasajeros matriculados en el Distrito Federal, vehículos de emergencia y de los destinados a la Secretaría de Defensa Nacional o de la Secretaría de Marina.
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-La infracción a las prohibiciones dispuestas en este artículo, se sancionará con base en la siguiente tabla:
+La infracción a las prohibiciones previstas en la presente disposición, se sancionará con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente.
 
-Fracción Sanción con multa Puntos de
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-equivalente en penalización
+III. Los vehículos de uso particular no podrán contar con cromáticas iguales o similares a las del transporte público de pasajeros matriculados en la Ciudad de México, vehículos de emergencia y de los destinados a la Secretaría de la Defensa Nacional o de la Secretaría de Marina.
 
-veces la Unidad en licencia
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-de Cuenta de para conducir
+La infracción a las prohibiciones previstas en la presente disposición, se sancionará con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente.
 
-la Ciudad de
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-México vigente
-
-I 5 a 10 veces No aplica
-
-y remisión del vehículo
-
-al depósito
-
-II 10 a 20 veces No aplica
-
-y remisión del vehículo
-
-al depósito
-
-III 20 a 30 veces No aplica
-
-y remisión del vehículo
-
-al depósito
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 49.
 
-Sólo se permite la circulación de maquinaria agrícola o de construcción en la vía del Distrito Federal cuando cuenten con autorización por parte de la Secretaría. Su circulación se limitará al traslado del vehículo al lugar donde será utilizado.
+Sólo se permite la circulación de maquinaria agrícola o de construcción en la vía de la Ciudad de México cuando cuenten con autorización por parte de la Secretaría. Su circulación se limitará al traslado del vehículo al lugar donde será utilizado.
 
 Al transitar por la vía, la maquinaria agrícola o de construcción deberá contar con las medidas de seguridad necesarias, tales como señales de advertencia reflejantes o luminosas. Cuando su velocidad de circulación sea menor a 20 kilómetros por hora o cuente con dimensiones excesivas deberá contar con el apoyo de un vehículo que lo abandere para prevenir a los demás conductores de su presencia.
 
-La infracción a las prohibiciones dispuestas en este artículo, se sancionará con base en la siguiente tabla:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Sanción con multa Puntos de
+La infracción a las prohibiciones dispuestas en este artículo, se sancionará con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente.
 
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-20 a 30 veces No aplica
-
-y remisión del vehículo
-
-al depósito
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ### CAPÍTULO II. DE LA CONDUCCIÓN DE VEHÍCULOS BAJO LOS EFECTOS DEL ALCOHOL Y NARCÓTICOS, ESTUPEFACIENTES o PSICOTRÓPICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 50.
 
-Queda prohibido conducir vehículos motorizados cuando se tenga una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire espirado superior a 0.4 miligramos por litro, así como bajo el influjo de narcóticos, estupefacientes o psicotrópicos al conducir.
+Queda prohibido conducir vehículos motorizados cuando se tenga una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire espirado superior a 0.4 miligramos por litro, así como bajo el influjo de narcóticos, estupefacientes o psicotrópicos.
 
 Los conductores de vehículos destinados al servicio de transporte público de pasajeros, transporte escolar o de personal, vehículos de emergencia, de transporte de carga o de transporte de sustancias tóxicas o peligrosas, no deben presentar ninguna cantidad de alcohol en la sangre o en aire espirado, síntomas simples de aliento alcohólico o de estar bajo los efectos de narcóticos, estupefacientes o psicotrópicos al conducir.
 
-Los conductores de vehículos motorizados a quienes se les encuentre cometiendo actos que violen las disposiciones del presente reglamento o que muestren síntomas de que conducen bajo los efectos de alcohol o narcóticos, estupefacientes o psicotrópicos, están obligados a someterse a las pruebas de detección de ingestión de alcohol o de narcóticos, estupefacientes o psicotrópicos, cuando lo solicite la autoridad competente ante el médico legista o por personal autorizado para tal efecto.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-En caso de que se certifique que el conductor sobrepase el límite de alcohol permitido, se encuentre en estado de ebriedad o de intoxicación de alcohol, narcóticos, estupefacientes o psicotrópicos al conducir, se sancionará con base en la siguiente tabla, sin menoscabo de lo estipulado en la Ley y demás reglamentos aplicables:
+Los conductores de vehículos motorizados a quienes se les encuentre cometiendo actos que violen las disposiciones del presente Reglamento o que muestren síntomas de que conducen bajo los efectos de alcohol o narcóticos, estupefacientes o psicotrópicos, están obligados a someterse a las pruebas de detección de ingestión de alcohol o de narcóticos, estupefacientes o psicotrópicos, cuando lo solicite la autoridad competente.
 
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Tipo de conductor Sanción con multa Puntos de
+En caso de que se certifique que el conductor sobrepase el límite de alcohol permitido, se encuentre en estado de ebriedad o de intoxicación de alcohol, narcóticos, estupefacientes o psicotrópicos al conducir, se sancionará con arresto administrativo inconmutable de 20 a 36 horas, y seis puntos de penalización a la licencia para conducir, sin menoscabo de lo estipulado en la Ley y demás reglamentos aplicables, en tanto que el vehículo será remitido al depósito vehicular, salvo que se encuentre dentro de los supuestos previstos en el primer párrafo del artículo 68 de este Reglamento.
 
-equivalente en veces penalización en
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-la Unidad de Medida licencia para conducir
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE FEBRERO DE 2021)</small>
 
-y Actualización vigente
+Para la devolución del vehículo en los depósitos, se deberá comprobar el cumplimiento total de la sanción impuesta al infractor, además de cubrir los derechos y requisitos establecidos en los párrafos sexto y séptimo del artículo 67 del Reglamento.
 
-Conductores Arresto administrativo 6 puntos
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE FEBRERO DE 2021)</small>
 
-De vehículos inconmutable de 20 a 36
+En caso de que el infractor no sea el propietario del vehículo remitido al depósito y el conductor no hubiere dentro de los treinta días posteriores a la imposición de la infracción, cumplido la sanción impuesta en su totalidad, el propietario deberá cubrir una multa de 60 veces la Unidad de Medida y Actualización Vigente, para solicitar que le sea entregada la unidad.
 
-Motorizados horas
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 51.
 
-Para efecto de verificar si el conductor del vehículo motorizado maneja bajo los efectos del alcohol, narcóticos, estupefacientes o psicotrópicos, los elementos de Seguridad Pública pueden detener la marcha de un vehículo motorizado en:
+Para verificar si el conductor del vehículo motorizado maneja bajo los efectos del alcohol, narcóticos, estupefacientes o psicotrópicos, los integrantes de Seguridad Ciudadana pueden detener la marcha de un vehículo motorizado en:
 
-I. Puntos de revisión establecidos por Seguridad Pública en los que opere el Programa de Control y Prevención de Ingesta de Alcohol a Conductores de Vehículos en el Distrito Federal, procediéndose de la siguiente manera, sin menoscabo de lo establecido en el Protocolo de actuación policial de la Secretaría de Seguridad Pública del Distrito Federal para este programa:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 4 DE FEBRERO DE 2021)</small>
 
-a) Los elementos de Seguridad Pública comisionados a los puntos de revisión, encauzarán a los conductores para que ingresen sus vehículos al carril confinado;
+I. Puntos de revisión establecidos por Seguridad Ciudadana en los que opere el Programa de Control y Prevención de Ingesta de Alcohol a Conductores de Vehículos en la Ciudad de México, procediéndose de la siguiente manera, sin menoscabo de lo establecido en el Protocolo de actuación policial de la Secretaría de Seguridad Ciudadana de la Ciudad de México para este programa:
 
-b) El conductor será sujeto a una entrevista en la que se le pregunte si ha ingerido bebidas alcohólicas, procurando estar a una distancia adecuada que le permita percibir si emana de su respiración aliento alcohólico;
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-c) Si derivado de la entrevista el elemento de Seguridad Pública se percata que el conductor no presenta ningún signo de haber ingerido bebidas alcohólicas, le permitirá continuar su recorrido;
+a) Los integrantes de Seguridad Ciudadana comisionados a los puntos de revisión encauzarán a los conductores para que ingresen su vehículo al carril confinado;
 
-d) Si derivado de la entrevista, el elemento de Seguridad Pública se percata que el conductor muestra signos de haber ingerido bebidas alcohólicas, el personal técnico comisionado por Seguridad Pública lo someterá al examen respectivo a través de los aparatos autorizados para este efecto, los cuales realizan la medición del porcentaje de alcohol. En caso de que el conductor no sobrepase la cantidad de alcohol permitida conforme al artículo 50 de este ordenamiento, se le permitirá continuar su recorrido;
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-e) Cuando el conductor sobrepase la cantidad de alcohol permitida conforme al artículo 50 de este ordenamiento, el vehículo será remitido al depósito vehicular, salvo que algún acompañante del conductor con plena autorización del mismo, pueda conducir el vehículo en los términos del presente Reglamento. Si el acompañante presenta aliento alcohólico, éste será valorado por el médico del punto de revisión y dependiendo del resultado, se determinará si procede o no la entrega del vehículo.
+b) El conductor será sujeto a una entrevista por parte de los integrantes de Seguridad Ciudadana en la que se le pregunte si ha ingerido bebidas alcohólicas, procurando estar a una distancia adecuada que le permita percibir algún indicio de que ha consumido bebidas alcohólicas; asimismo solicitará al conductor la licencia para conducir vigente en formato físico o digital y/o el permiso correspondiente, así como la tarjeta de circulación del vehículo y la póliza de seguro de responsabilidad civil por daños a terceros vigente, en caso de no contar con alguno de estos, se procederá a levantar la infracción correspondiente por el agente autorizado para tal efecto;
 
-Cuando el vehículo sea remitido a un depósito vehicular, el conductor deberá cubrir los respectivos derechos por concepto del servicio de arrastre y almacenaje del vehículo, conforme lo determine el Código Fiscal para el Distrito Federal.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-f) Se le solicitará al conductor la licencia de conducir y/o la licencia permiso, así como la tarjeta de circulación del vehículo y la póliza de seguro de responsabilidad civil por daños a terceros vigente; el personal técnico de la Secretaría de Seguridad Pública llenará y firmará conjuntamente con el conductor el documento oficial denominado: “Formato de control y cadena de custodia para prueba de detección de alcohol en aire espirado”, mismo que deberá estar foliado y contener los datos de identificación necesarios que sirvan de base a la autoridad competente para la aplicación de las sanciones que procedan, y se le entregará una copia de la tirilla de resultados técnicos al conductor, en caso de que este se niegue o no sepa firmar, hará prueba plena la constatación de dos testigos de asistencia; y
+c) Si derivado de la entrevista, el integrante de Seguridad Ciudadana se percata que el conductor no presenta ningún signo de haber ingerido bebidas alcohólicas, le permitirá continuar su recorrido;
 
-g) Hecho lo anterior, será presentado ante el Juez Cívico para que inicie su procedimiento administrativo conforme a la Ley de Cultura Cívica del Distrito Federal.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+d) Si derivado de la entrevista, el integrante de Seguridad Ciudadana se percata que el conductor muestra signos de haber ingerido bebidas alcohólicas, el personal técnico comisionado por Seguridad Ciudadana practicará el examen respectivo con el apoyo de los aparatos autorizados para tales efectos; mientras tanto el agente solicitará al conductor la licencia para conducir vigente en formato físico o digital y/o el permiso correspondiente, así como la tarjeta de circulación del vehículo y la póliza de seguro de responsabilidad civil vigente, prevista en el artículo 46 del presente ordenamiento. En caso de que el conductor no presente los documentos solicitados se procederá a levantar la infracción correspondiente por el agente autorizado para tal efecto; si éste no sobrepasará los límites establecidos en el artículo 50 de este ordenamiento y el vehículo cuenta con matrícula vehicular expedida por la Ciudad de México, se le permitirá continuar su recorrido;
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+e) Cuando el conductor sobrepase los límites de ingesta de alcohol establecidos en el artículo 50 de este Reglamento, el personal técnico de Seguridad Ciudadana llenará y firmará conjuntamente con el conductor el documento oficial denominado: “Formato de control y cadena de custodia para prueba de detección de alcohol en aire espirado”, mismo que deberá estar foliado y contener los datos de identificación necesarios que sirvan de base a la autoridad competente para la aplicación de las sanciones que procedan, entregando una copia de la Tirilla de resultados técnicos al conductor. En caso de que éste se niegue o no sepa firmar, hará prueba plena la constatación de dos testigos de asistencia.
+
+Cuando el vehículo sea remitido a un depósito vehicular el conductor deberá cubrir los respectivos derechos por concepto del servicio de arrastre y almacenaje del vehículo, conforme lo determine las fracciones I o II del artículo 230 del Código Fiscal de la Ciudad de México.
+
+f) (DEROGADO, G.O. 4 DE FEBRERO DE 2021)
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+g) El integrante de Seguridad Ciudadana presentará al conductor ante el Juez Cívico para que se inicie el procedimiento respectivo y se sancionará con arresto administrativo inconmutable de 20 a 36 horas, y seis puntos de penalización a la licencia para conducir, mientras que el vehículo será remitido al depósito salvo que se encuentre dentro de los supuestos previstos en el primer párrafo del artículo 68 de este Reglamento.
 
 II. Cualquier vía, ante la conducción errática del vehículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 52.
 
-Cuando en cualquier vía y debido a la conducción errática de vehículos motorizados, un agente se percate que el conductor muestre signos de haber ingerido bebidas alcohólicas, narcóticos, estupefacientes o psicotrópicos; se procederá como sigue:
+Cuando en cualquier vía y debido a la conducción errática de vehículos motorizados, un agente o agente autorizado para infraccionar, se percate que el conductor muestre signos de haber ingerido o consumido bebidas alcohólicas, narcóticos, estupefacientes o psicotrópicos, procederá como sigue:
 
 a) Indicará al conductor detener la marcha de su vehículo;
 
 b) Se identificará con su nombre y número de placa;
 
-c) Someterá al conductor a una entrevista en la que le preguntará si ha ingerido bebidas alcohólicas, narcóticos, estupefacientes o psicotrópicos, procurando estar a una distancia considerable que le permita percibir si emana de su respiración aliento alcohólico o muestra signos de haber ingerido, consumido, inhalado o aspirado narcóticos, estupefacientes o psicotrópicos;
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-d) Si percibe que el conductor no muestra ningún signo de haber ingerido bebidas alcohólicas o haber ingerido, consumido, inhalado o aspirado narcóticos, estupefacientes o psicotrópicos, se le permitirá continuar su recorrido;
+c) Realizará una entrevista al conductor en la que le preguntará si ha ingerido bebidas alcohólicas, narcóticos, estupefacientes o psicotrópicos, procurando estar a una distancia adecuada que le permita percibir algún indicio de que ha ingerido o, consumido alcohol, narcóticos, estupefacientes o psicotrópicos; asimismo se le solicitará licencia para conducir vigente en formato físico o digital y/o el permiso correspondiente, la tarjeta de circulación y la póliza de seguro de responsabilidad civil por daños a terceros vigente. En caso de no contar con alguno de estos, se procederá a levantar la infracción correspondiente por el agente autorizado para tal efecto.
 
-e) En caso de que el conductor muestre signos de haber ingerido bebidas alcohólicas o haber ingerido, consumido, inhalado o aspirado narcóticos, estupefacientes o psicotrópicos; se le solicitará la licencia de conducir y/o licencia permiso, la tarjeta de circulación y la póliza de seguro de responsabilidad civil por daños a terceros vigente; y será remitido al Juzgado Cívico para que se inicie el procedimiento administrativo respectivo; y
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-f) Si el médico del Juzgado Cívico certifica que el conductor se encuentra en estado de ebriedad o de intoxicación por consumo de bebidas alcohólicas, narcóticos, estupefacientes o psicotrópicos, será sancionado con arresto de 20 a 36 horas inconmutable.
+d) Si el conductor no muestra ningún signo de haber ingerido bebidas alcohólicas o consumido, inhalado o aspirado narcóticos, estupefacientes o psicotrópicos, se le permitirá continuar su recorrido;
 
-Independientemente de lo anterior, si el conductor es detenido por haber cometido alguna infracción al presente reglamento y se percibe que éste conduce bajo los efectos del alcohol, o muestra signos de haber ingerido, consumido, inhalado o aspirado narcóticos, estupefacientes o psicotrópicos; se estará a lo dispuesto al contenido de los incisos e) y f), sin perjuicio de la sanción impuesta por la infracción por la que fue detenido.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+e) En caso de que el conductor muestre signos de haber ingerido bebidas alcohólicas o consumido, inhalado o aspirado narcóticos, estupefacientes o psicotrópicos, será remitido al Juzgado Cívico para que se inicie el procedimiento administrativo respectivo, y
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+f) Si el médico del Juzgado Cívico certifica que el conductor se encuentra en estado de ebriedad o de intoxicación por consumo de bebidas alcohólicas, narcóticos, estupefacientes o psicotrópicos, será sancionado conforme a las sanciones previstas en el artículo 50 de este Reglamento, es decir, con arresto administrativo inconmutable de 20 a 36 horas, y seis puntos de penalización a la licencia para conducir.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Independientemente de lo anterior, si el conductor es detenido por haber cometido alguna infracción al presente Reglamento y se percibe que éste conduce bajo los efectos del alcohol, o muestra signos de haber ingerido, consumido, inhalado o aspirado narcóticos, estupefacientes o psicotrópicos, se estará a lo dispuesto por los incisos e) y f) de este artículo, sin perjuicio de la sanción que corresponda por la infracción por la que fue detenido.
 
 ### CAPÍTULO III. DE LOS HECHOS DE TRÁNSITO Y DE LA RESPONSABILIDAD CIVIL RESULTANTE
 
@@ -2500,7 +2592,9 @@ Los peatones y conductores que pasen por el sitio de un hecho de tránsito sin e
 
 Si como resultado de un hecho de tránsito únicamente se ocasionan daños a bienes, se procederá de la siguiente forma:
 
-I. Los involucrados deberán detenerse inmediatamente en el lugar del incidente o tan cerca de él como sea posible, y permanecer en el sitio hasta que algún agente o Elemento de Seguridad Publica tome el conocimiento que corresponda;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+I. Los involucrados deberán detenerse inmediatamente en el lugar del incidente o tan cerca de él como sea posible, y permanecer en el sitio hasta que algún agente o Integrante de Seguridad Ciudadana tome el conocimiento que corresponda;
 
 II. Encender de inmediato las luces intermitentes y colocar los señalamientos que se requieran a efecto de que se disminuya la velocidad de otros vehículos y se haga la desviación de la circulación para evitar otro posible hecho de tránsito;
 
@@ -2514,7 +2608,9 @@ a) Si todos los vehículos están en condiciones de circular, ninguno de los con
 
 b) Si las partes no estuvieran de acuerdo con la forma de reparación de los daños, el agente procederá a remitir a los involucrados y sus vehículos ante la autoridad correspondiente.
 
-V. Cuando los daños sean en bienes públicos, los implicados serán responsables del pago de los mismos, independientemente de lo que establezcan otras disposiciones jurídicas. Las autoridades del Distrito Federal, en el caso de que se ocasionen daños a bienes de la Federación, darán aviso a las autoridades competentes, a efecto de que procedan de conformidad con las disposiciones legales aplicables; y
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+V. Cuando los daños sean en bienes públicos, los implicados serán responsables del pago de los mismos, independientemente de lo que establezcan otras disposiciones jurídicas. Las autoridades de la Ciudad de México, en el caso de que se ocasionen daños a bienes de la Federación, darán aviso a las autoridades competentes, a efecto de que procedan de conformidad con las disposiciones legales aplicables; y
 
 VI. En todos los casos, el agente de tránsito llenará un reporte en el que se detallen las causas y las características de hecho de tránsito.
 
@@ -2540,47 +2636,41 @@ V. En caso de fallecimiento, los cuerpos y vehículos no deberán ser removidos 
 
 VI. Retirar los vehículos accidentados para despejar la vía, una vez que las autoridades competentes así lo determinen.
 
-En caso de lesiones o fallecimiento, el agente o Elemento de Seguridad Publica remitirá a los conductores de vehículos involucrados ante el Agente del Ministerio Público para que éste deslinde responsabilidades.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En caso de lesiones o fallecimiento, el agente o Integrante de Seguridad Ciudadana remitirá a los conductores de vehículos involucrados ante el Agente del Ministerio Público para que éste deslinde responsabilidades.
 
 ###### Artículo 56.
 
 Al conductor de un vehículo motorizado que embista con el vehículo al conductor de un vehículo no motorizado o a un peatón, sin ocasionar lesiones; o al conductor de un vehículo no motorizado que embista con su vehículo a un peatón sin ocasionar lesiones, se le remitirá ante el Juez Cívico a petición de la parte agraviada.
 
-La infracción a lo establecido en este artículo, se sancionará con base en la siguiente tabla:
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Sanción con multa Puntos de
+La infracción a lo establecido en este artículo, se sancionará con una multa equivalente a 11, 15 o 20 veces la Unidad de Medida y Actualización vigente, o arresto administrativo de 13 a 24 horas, y tres puntos de penalización a la licencia de conducir.
 
-equivalente en penalización
-
-veces la Unidad en licencia
-
-de Cuenta de para conducir
-
-la Ciudad de
-
-México vigente
-
-11 a 20 veces 3 puntos
-
-o arresto administrativo
-
-de 13 a 24 horas
+> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 El Juez Cívico informará sobre la sanción a la Secretaría para que ésta aplique la penalización de puntos en la licencia del conductor.
 
-Asimismo, cuando cualquier usuario de la vía maltrate física o verbalmente a cualquier otra persona, se le remitirá ante el Juez Cívico a petición de la parte agraviada y se estará a lo dispuesto en la Ley de Cultura Cívica del Distrito Federal.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Asimismo, cuando cualquier usuario de la vía maltrate física o verbalmente a cualquier otra persona, se le remitirá ante el Juez Cívico a petición de la parte agraviada y se estará a lo dispuesto en la Ley de Cultura Cívica de la Ciudad de México
 
 ###### Artículo 57.
 
 Cuando la causa del hecho de tránsito sea la falta de mantenimiento de la vía, señalización vial inadecuada o alguna otra causa imputable a las autoridades de la Administración Pública del Distrito Federal, los implicados no serán responsables de los daños causados y pueden efectuar reclamación ante la autoridad que corresponda para que ésta, a través de las dependencias u organismos y procedimientos legales correspondientes, repare los daños causados a las persona y/o a su patrimonio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 58.
 
-Ante la ocurrencia de algún hecho de tránsito, los agentes o Elemento de Seguridad procederán de la siguiente manera:
+Ante la ocurrencia de algún hecho de tránsito, los agentes o Integrante (sic) de Seguridad Ciudadana procederán de la siguiente manera:
 
 I. Cuando el hecho de tránsito implique lesiones, muerte o daños materiales en bienes públicos:
 
-a) El agente procederá a solicitar los servicios de emergencia a su base para la atención de los lesionados, la evaluación de la zona siniestrada cuando se trate de materiales sumamente peligrosos que pongan en riesgo la integridad física de las personas o incendios o en caso de muerte, la presencia del Agente del Ministerio Público;
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+a) El agente y/o agente autorizado para infraccionar, procederá a solicitar los servicios de emergencia a su base para la atención de los lesionados, la evaluación de la zona siniestrada cuando se trate de materiales sumamente peligrosos que pongan en riesgo la integridad física de las personas o incendios o en caso de muerte, la presencia del Agente del Ministerio Público;
 
 b) Establecerá un perímetro de seguridad, mediante la colocación de señales o el estacionamiento de su vehículo de manera estratégica a efecto de que se disminuya la velocidad de otros vehículos y se desvíe la circulación para evitar otro posible percance;
 
@@ -2588,13 +2678,21 @@ c) Asistir en lo posible a los lesionados en tanto se presentan en el sitio los 
 
 d) Les requerirá a los involucrados la licencia, tarjeta de circulación y póliza de seguros (sic),
 
-e) En caso de que haya lesionados el Agente o Elemento de Seguridad asegurará a los conductores involucrados siempre y cuando no estén lesionados y los remitirá con sus vehículos ante la autoridad competente; en caso de que se haya producido la muerte de alguna persona, procederá de la misma manera solo que no podrá mover los vehículos involucrados hasta que se presente el Ministerio Publico y así lo determine;
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-f) De ser necesario, el Agente o Elemento de Seguridad Publica debe asistir en sus tareas al Agente del Ministerio Público; y
+e) En caso de que haya lesionados los Agentes o Integrante (sic) de Seguridad Ciudadana asegurará (sic) a los conductores involucrados siempre y cuando no estén lesionados y los remitirá con sus vehículos ante la autoridad competente; en caso de que se haya producido la muerte de alguna persona, procederá de la misma manera solo que no podrá mover los vehículos involucrados hasta que se presente el Ministerio Público y así lo determine;
 
-g) El Agente o Elemento de Seguridad Publica tomará los datos de los servicios de emergencia que acudan al lugar, de los vehículos involucrados, personas lesionadas y del Ministerio Público en caso de muerte, así como la demás información que determine la Secretaria y Seguridad Pública que se harán de conocimiento a su base de radio y se registrarán en el formato de hechos de tránsito.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-II. Cuando el hecho de transito únicamente provoque daños materiales en bienes públicos, el Agente o Elemento de Seguridad Publica asegurará a los conductores involucrados y los remitirá con sus vehículos ante la Autoridad competente.
+f) De ser necesario, los Agentes o Integrante (sic) de Seguridad Ciudadana debe (sic) asistir en sus tareas al Agente del Ministerio Público; y
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+g) Los Agentes o Integrante (sic) de Seguridad Ciudadana tomarán los datos de los servicios de emergencia que acudan al lugar, de los vehículos involucrados, personas lesionadas y del Ministerio Público en caso de muerte, así como la demás información que determine la Secretaría y Seguridad Ciudadana que se harán de conocimiento a su base de radio y se registrarán en el formato de hechos de tránsito.
+
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+II. Cuando el hecho de tránsito únicamente provoque daños materiales en bienes públicos, los Agentes o Integrante (sic) de Seguridad Ciudadana asegurarán a los conductores involucrados y los remitirán con sus vehículos ante la Autoridad competente.
 
 III. Cuando el hecho de transito únicamente provoque daños materiales en bienes privados:
 
@@ -2608,21 +2706,33 @@ d) Indicará a los involucrados que deberán dar aviso a sus aseguradoras para s
 
 e) Con el fin de establecer las circunstancias de tiempo, modo y lugar llenará el formato de hechos de tránsito y registrará los indicios localizados en el lugar y cualquier otro dato que sea necesarios (sic) para determinar la responsabilidad de los que intervienen en el hecho de tránsito;
 
-f) El Agente o Elemento de Seguridad Publica esperará a verificar que las aseguradoras acuerden la reparación de los daños;
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-g) En caso de existir un acuerdo entre las aseguradoras, el Agente llenará la boleta de hechos de tránsito en el que se señale la falta que causó el hecho de tránsito;
+f) Los Agentes o Integrante (sic) de Seguridad Ciudadana esperarán a verificar que las aseguradoras acuerden la reparación de los daños;
 
-h) En caso de no existir un convenio entre las aseguradoras, el Agente o Elemento de Seguridad Publica mediará entre las partes a efecto de que lleguen a un acuerdo que garantice la reparación de los daños; y
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-i) Si las partes involucradas no lograrán llegar a un convenio, el Agente o Elemento de Seguridad Pública procederá a remitir a los involucrados y sus vehículos ante el Juez Cívico, a quien entregara copia del Formato de hecho de tránsito y todos los medios de pruebaexistentes (sic) a fin de facilitar el deslinde de responsabilidades.
+g) En caso de existir un acuerdo entre las aseguradoras, el agente o agente autorizado para infraccionar, llenará la boleta de hechos de tránsito en el que se señale la falta que causó el hecho de tránsito;
 
-En todos los casos, el Agente guiará su actuación dentro de los principios de respeto a los derechos humanos, a la igualdad y no discriminación, transparencia y legalidad.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+h) En caso de no existir un acuerdo entre las aseguradoras, los Agentes o Integrante (sic) de Seguridad Ciudadana mediarán entre las partes a efecto de que lleguen a un acuerdo que garantice la reparación de los daños; y
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+i) Si las partes involucradas no lograrán llegar a un acuerdo, los Agentes o Integrante (sic) de Seguridad Ciudadana procederán a remitir a los involucrados y sus vehículos ante el Juez Cívico, a quien entregará copia del Formato de hecho de tránsito y todos los medios de prueba existentes a fin de facilitar el deslinde de responsabilidades.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+En todos los casos, los Agentes o Integrante (sic) de Seguridad Ciudadana guiará (sic) su actuación dentro de los principios de respeto a los derechos humanos, a la igualdad y no discriminación, transparencia y legalidad.
 
 ### CAPÍTULO IV. DE LAS FUNCIONES DE LOS AGENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 59.
 
-Cuando algún usuario de la vía cometa una infracción a lo dispuesto en este Reglamento y demás disposiciones aplicables, el agente procederá de la manera siguiente:
+Cuando algún usuario de la vía cometa una infracción a lo dispuesto en este Reglamento y demás disposiciones aplicables, los agentes procederán de la manera siguiente:
 
 I. Cuando se trate de peatones y ciclistas:
 
@@ -2634,35 +2744,47 @@ c) Le indicará al infractor la falta cometida y le mostrará el artículo del R
 
 d) Amonestará verbalmente al infractor por la conducta riesgosa y lo conminará a transitar de acuerdo a lo estipulado en este Reglamento; y
 
-e) En caso de que el infractor insulte o denigre al agente, se procederá a su remisión ante el Juez Cívico.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+e) En caso de que el infractor insulte o denigre a los agentes, procederá su remisión ante el Juez Cívico.
 
 II. Cuando se trate de conductores de vehículos motorizados:
 
-a) El agente indicará al conductor que detenga la marcha de su vehículo, en un lugar adecuado y preferentemente cercano a cámaras de video vigilancia, de ser posible;
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-b) Reportará inmediatamente, vía radio el motivo por el cual detiene al conductor, así como la matrícula y/o las placas del vehículo, en busca de reporte de robo del mismo;
+a) El agente y/o agente autorizado para infraccionar, indicará al conductor que detenga la marcha de su vehículo, en un lugar adecuado y preferentemente cercano a cámaras de video vigilancia, de ser posible;
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+b) Reportará inmediatamente, vía radio el motivo por el cual detiene al conductor, así como la matrícula y/o las placas del vehículo, en busca de reporte de robo del mismo; en caso de que éste no se encuentre autorizado para infraccionar solicitará el apoyo por esta misma vía, de un agente autorizado para infraccionar;
 
 c) Se identificará con su nombre y número de placa;
 
-d) Señalará al conductor la infracción que cometió y le mostrará el artículo del Reglamento que lo fundamenta, así como la sanción que proceda por la infracción;
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+d) Señalará al conductor la infracción que cometió y le mostrará el artículo del Reglamento que lo fundamenta, así como la sanción que proceda por la infracción; de la misma manera informará al conductor la sanción mínima, media y máxima para dicha conducta y que el monto será determinado por el sistema con base en el criterio de reincidencia establecido en el artículo 64 de este ordenamiento.
 
 e) Solicitará al conductor del vehículo motorizado la licencia para conducir, la tarjeta de circulación y en su caso la póliza de seguro de responsabilidad civil por daños a terceros vigente, documentos que serán entregados para su revisión. En caso de que el conductor no presente para su revisión alguno de los documentos, el agente procederá a imponer a (sic) la sanción correspondiente;
 
 f) En caso de no proceder la aplicación de sanción económica, amonestará al infractor por la falta cometida y lo conminará a transitar de acuerdo a lo estipulado en este Reglamento;
 
-g) El agente procederá a llenar la boleta de sanción, de la que extenderá una copia al interesado.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+g) El agente autorizado para infraccionar procederá a llenar la boleta de sanción, la cual podrá ser consultada a través de los medios electrónicos disponibles para tal efecto. En caso de no contar con medios electrónicos para el acceso a las boletas lo podrá hacer a través de los Módulos de Atención Ciudadana (sic) de Seguridad Ciudadana.
 
 h) Le devolverá la documentación entregada para revisión, si esta se encuentra vigente y corresponde al vehículo y al conductor, de lo contrario se aplicará la sanción prevista en este ordenamiento.
 
 i) (DEROGADO, G.O. 6 DE DICIEMBRE DE 2018)
 
-j) En caso de que el infractor insulte o denigre al agente, se sancionará conforme a las disposiciones de este Reglamento y de continuar con una conducta inadecuada se procederá a su remisión ante el Juez Cívico.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2019)</small>
+j) En caso de que el infractor insulte o denigre a los agentes, se impondrá la multa señalada en la fracción I del artículo 7 de este Reglamento y de continuar con una conducta inadecuada se procederá su remisión ante el Juez Cívico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 60.
 
-Las sanciones en materia de tránsito, señaladas en este Reglamento y demás disposiciones jurídicas, serán impuestas por el agente que tenga conocimiento de su comisión y se harán constar a través de boletas seriadas autorizadas por la Secretaría y por Seguridad Ciudadana o recibos emitidos por el equipo electrónico, que para su validez contendrán:
+Las sanciones en materia de tránsito, señaladas en este Reglamento y demás disposiciones jurídicas, serán impuestas por el agente autorizado para infraccionar que tenga conocimiento de su comisión y se harán constar a través de boletas seriadas autorizadas por la Secretaría y por Seguridad Ciudadana o recibos emitidos por el equipo electrónico, que para su validez contendrán:
 
 a) Artículos de la Ley o del presente Reglamento que prevén la infracción cometida y artículos que establecen la sanción impuesta;
 
@@ -2672,7 +2794,9 @@ c) Placas de matrícula del vehículo o, en su caso, número del permiso de circ
 
 d) Cuando esté presente el conductor: nombre y domicilio, número y tipo de licencia o permiso de conducir; y
 
-e) Nombre, número de placa, adscripción y firma del agente que tenga conocimiento de la infracción, la cual debe ser en forma autógrafa o electrónica, en cuyo caso se estará a lo previsto en la Ley de la materia.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+e) Nombre, número de placa, adscripción y firma del agente autorizado para infraccionar que tenga conocimiento de la infracción, la cual debe ser en forma autógrafa o electrónica, en cuyo caso se estará a lo previsto en la Ley de la materia.
 
 > <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
 
@@ -2702,53 +2826,45 @@ La información obtenida con equipos y sistemas tecnológicos, con base en la cu
 
 El pago de la multa se puede realizar en:
 
-I. Oficinas de la Administración Tributaria de la Tesorería del Distrito Federal de la Secretaría de Finanzas;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+I. Oficinas de la Administración Tributaria de la Tesorería de la Ciudad de México de la Secretaría de Administración y Finanzas;
 
 II. Centros autorizados para este fin, incluyendo medios electrónicos de pago; o
 
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+III. (DEROGADA, G.O. 4 DE FEBRERO DE 2021)
 
-III. Con el agente que impuso la infracción en caso de que cuente con el equipo electrónico portátil
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-El infractor tendrá un plazo de treinta días naturales contados a partir de la fecha de emisión de la boleta de sanción para realizar el pago, teniendo derecho a que se le descuente un 50% del monto de la misma, con excepción de la sanción que establece el artículo 33, fracción II de este Reglamento; vencido el plazo señalado sin que se realice el pago, deberá cubrir los demás créditos fiscales que establece el Código Fiscal del Distrito Federal.
+El infractor tendrá un plazo de treinta días naturales contados a partir de la fecha de emisión de la boleta de sanción para realizar el pago, teniendo derecho a que se le descuente un 50% del monto de la misma, con excepción de la sanción que establece el artículo 33, fracción II de este Reglamento; vencido el plazo señalado sin que se realice el pago, deberá cubrir los demás créditos fiscales que establece el Código Fiscal de la Ciudad de México.
 
-Para el caso de las infracciones que son notificadas vía correo certificado o con acuse de recibo, el ciudadano podrá promover la aplicación del derecho mencionado si la línea de captura que acompaña al documento expira antes del plazo mencionado, siempre y cuando se acredite, en las Oficinas de Atención Ciudadana para la Aclaración de Infracciones, que la fecha de notificación domiciliaria fue extemporánea.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Cuando la infracción sea cometida por conductores que manejan un vehículo con placas de matrícula de otra entidad federativa o país, el agente deberá retirar la placa delantera o retener la licencia de conducir o la tarjeta de circulación, cuando el cobro de la sanción no pueda ser realizado en el sitio e indicar en la boleta de infracción que se procedió de esa forma. La placa de matrícula o documentación retenida le será devuelta al conductor en las oficinas de Seguridad Ciudadana, una vez realizado el pago de los adeudos registrados en el sistema de infracciones de la Secretaría de Administración y Finanzas.
+Cuando la infracción sea cometida por conductores que manejan un vehículo con placas de matrícula de otra entidad federativa o país, el agente autorizado para infraccionar deberá retirar la placa delantera o retener la licencia de conducir o la tarjeta de circulación, e indicar en la boleta de infracción que se procedió de esa forma. La placa de circulación o documentación retenida le será devuelta al conductor en las oficinas de Seguridad Ciudadana, una vez realizado el pago de la infracción y los adeudos registrados en el sistema de la Secretaría de Administración y Finanzas de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Al aplicar una infracción con fundamento en los artículos 50 o 51 de este ordenamiento, el agente deberá retener la licencia de conducir e indicar en la boleta de infracción que se procedió de esa forma; tratándose de Licencias de Conducir expedidas por la Secretaría, Seguridad Ciudadana informará a la Secretaría para que proceda conforme a los artículos 67 y 68 de la Ley.
 
 ###### Artículo 63.
 
 La Secretaría del Medio Ambiente del Distrito Federal podrá expedir las disposiciones necesarias para que los Centros de Verificación Vehicular del Distrito Federal constaten que no existen adeudos por multas derivadas de infracciones al presente Reglamento, previamente a que se inicien las pruebas correspondientes al procedimiento de verificación vehicular.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 64.
 
-Las sanciones establecidas por infringir el presente reglamento serán de carácter monetario, o bien, cuando así lo establezca la sanción correspondiente, de amonestaciones, cursos en línea, sensibilización presencial, actividades a favor de la comunidad, remisión de vehículos a depósito y puntos de penalización a la licencia.
+Las sanciones impuestas a los infractores por agentes autorizados para infraccionar con apoyo de equipos electrónicos portátiles serán siempre de carácter monetario, en tanto que las infracciones captadas a través de sistemas tecnológicos de la Ciudad consistirán en amonestaciones, cursos en línea, taller de sensibilización presencial y trabajo en favor de la comunidad, según corresponda a la penalización por puntos a la matrícula. Cada matrícula cuenta con diez puntos iniciales, mismos que se verán reflejados en los sistemas de la Secretaría de Movilidad, Secretaría de Seguridad Ciudadana y la Secretaría del Medio Ambiente, los cuales se restarán según las infracciones registradas.
 
-> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2019)</small>
+Las sanciones que se impongan por invasión de carriles confinados e impuestas a matrículas vehiculares de personas morales, matrículas vehiculares de transporte público, matrículas vehiculares de transporte de carga, matrículas vehiculares de taxis y matrículas vehiculares de otra entidad federativa o país que circulen en el territorio de la Ciudad de México, y que sean captadas por sistema tecnológico, serán siempre de carácter monetario.
 
-Las sanciones impuestas a los infractores por agentes con apoyo de equipos electrónicos portátiles serán siempre de carácter monetario, en tanto que las infracciones captadas a través de sistemas tecnológicos de la Ciudad consistirán en amonestaciones, cursos en línea, sensibilización presencial y actividades a favor de la comunidad, según corresponda a la penalización por puntos a la matrícula. Cada matricula cuenta con diez puntos iniciales, mismos que se verán reflejados en los sistemas de la Secretaría de Movilidad, Secretaría de Seguridad Ciudadana y la Secretaría del Medio Ambiente, los cuales se restarán según las infracciones registradas.
-
-> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
-
-Las sanciones que se impongan por invasión de carriles confinados e impuestas a matrículas vehiculares de personas morales, matrículas vehiculares de transporte público, matrículas vehiculares de transporte de carga, matrículas vehiculares de taxis y matrículas vehiculares de otra entidad federativa o país en territorio de la Ciudad de México, por sistema tecnológico, serán siempre de carácter monetario.
-
-> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2019)</small>
-
-Cada infracción registrada por sistemas tecnológicos equivale a un punto menos en el esquema de penalización por puntos a la matrícula, con excepción de las infracciones contempladas en el artículo 9, penúltimo párrafo, de este Reglamento, que tendrán una penalización de 5 puntos cuando se rebase el límite de velocidad por más de 40% de la velocidad máxima autorizada, de acuerdo con la información captada por el sistema tecnológico.
-
-> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+Cada infracción registrada por sistemas tecnológicos equivale a un punto menos en el esquema de penalización por puntos a la matrícula, con excepción de las infracciones contempladas en el último párrafo del artículo 9 del presente Reglamento, que tendrá una penalización de cinco puntos cuando se rebase el límite de velocidad por más de (sic) 40% de la velocidad máxima autorizada, de acuerdo con la información captada por el sistema tecnológico.
 
 Para infracciones con penalización de 5 puntos, las matrículas vehiculares también tendrán amonestación en las dos primeras infracciones que registren en cada ciclo de verificación vehicular, conforme a las dos primeras sanciones contempladas en la tabla del esquema de contabilidad de puntos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE MARZO DE 2019)</small>
-
 El esquema de contabilidad de puntos se rige por la siguiente tabla:
-
-> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2019)</small>
 
 Puntos restantes Sanción
 
@@ -2760,93 +2876,67 @@ Puntos restantes Sanción
 
 6 Curso en línea intermedio
 
-5 Sensibilización presencial
+5 Taller de sensibilización presencial
 
-4 2 horas de actividades a favor
+4 2 horas de trabajo en favor de la comunidad
 
-de la comunidad
+3 2 horas de trabajo en favor de la comunidad
 
-3 2 horas de actividades a favor
+2 2 horas de trabajo en favor de la comunidad
 
-de la comunidad
+1 2 horas de trabajo en favor de la comunidad
 
-2 2 horas de actividades a favor
+El cumplimiento de las sanciones referidas en la tabla anterior sigue una lógica acumulativa (sic) cada ciclo de verificación vehicular.
 
-de la comunidad
-
-1 2 horas de actividades a favor
-
-de la comunidad
-
-> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
-
-El cumplimiento de las sanciones referidas en la tabla anterior sigue una lógica acumulativa cada ciclo de verificación vehicular.
-
-> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2019)</small>
-
-En los casos en que se exceda el demérito de los 10 puntos, las sanciones seguirán contabilizando horas de actividades a favor de la comunidad, las cuales no podrán exceder de 36 horas y cuyo cumplimiento será en términos de la Ley de Cultura Cívica de la Ciudad de México.
-
-> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+En los casos en que se exceda el demérito de los 10 puntos, las sanciones seguirán contabilizando horas de trabajo en favor de la comunidad, las cuales no podrán exceder de 36 horas y cuyo cumplimiento será en términos de la Ley de Cultura Cívica de la Ciudad de México.
 
 El infractor ingresará a la dirección electrónica http://www.tramites.cdmx.gob.mx/infracciones/ para consultar el esquema de contabilidad de puntos y la forma en que deberá dar cumplimiento a las sanciones correspondientes.
 
-> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
-
 Para el caso de los vehículos que se encuentren exentos del programa de verificación obligatoria, los puntos acumulados por infracción serán registrados por la Secretaría de Seguridad Ciudadana, y el cumplimiento de las sanciones estará a cargo de la Consejería Jurídica y de Servicios Legales de manera semestral en cada ejercicio anual.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 16 DE ABRIL DE 2019)</small>
-
-Las actividades a favor de la comunidad serán supervisadas por la Dirección Ejecutiva de Justicia Cívica de la Consejería Jurídica y de Servicios Legales, y consistirán de manera enunciativa más no limitativa en las siguientes:
-
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+El trabajo en favor de la comunidad será supervisado por la Dirección Ejecutiva de Justicia Cívica de la Consejería Jurídica y de Servicios Legales, y consistirá de manera enunciativa más no limitativa en las siguientes actividades:
 
 I. Limpieza, pintura o restauración de centros públicos educativos, de salud o de servicios;
 
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
-
 II. Limpieza, pintura o restauración de los bienes dañados por el infractor o semejantes a los mismos;
-
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
 III. Realización de obras de ornato en lugares de uso común;
 
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
-
 IV. Realización de obras de balizamiento, limpia o reforestación en lugares de uso común,
-
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
 V. Impartición de pláticas a vecinos o educandos de la comunidad en que hubiera cometido la infracción, relacionadas con la convivencia ciudadana o realización de actividades relacionadas con la profesión, oficio u ocupación del infractor;
 
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
-
-VI. Participación en talleres, exposiciones, muestras culturales, artísticas y/o deportivas en espacios públicos que organice la Alcaldía en donde se haya cometido la infracción; y;
-
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+VI. Participación en talleres, exposiciones, muestras culturales, artísticas y/o deportivas en espacios públicos que organicé la Alcaldía en donde se haya cometido la infracción; y;
 
 VII. Las demás que determine la persona titular de la Jefatura de Gobierno en coordinación con la Secretaría.
 
-> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2019)</small>
+Para el cumplimiento del trabajo en favor de la comunidad, los infractores se presentarán ante la unidad administrativa competente de la Consejería Jurídica y de Servicios Legales, para que inicie su procedimiento administrativo conforme a la Ley de Cultura Cívica de la Ciudad de México. Para ello, consultarán actividades, horarios, espacios disponibles y agendarán cita en la dirección electrónica http://www.tramites.cdmx.gob.mx/infracciones/
 
-Para el cumplimiento de las actividades a favor de la comunidad, los infractores se presentarán ante la unidad administrativa competente de la Consejería Jurídica y de Servicios Legales, para que inicie su procedimiento administrativo conforme a la Ley de Cultura Cívica de la Ciudad de México. Para ello, consultarán actividades, horarios, espacios disponibles y agendaran cita en la dirección electrónica http://www.tramites.cdmx.gob.mx/infracciones/.
+Cumplidas las sanciones correspondientes, se restituirán los puntos mediante el sistema que para tal efecto se implemente.
 
-> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+La imposición de sanciones de carácter monetario por infringir las disposiciones del presente Reglamento estará basada en el criterio de Reincidencia, el cual tiene por objeto establecer sanciones incrementales al acumular infracciones pendientes de cumplimiento.
 
-Cumplidas las sanciones correspondientes, se restituirán los puntos mediante el sistema que para tal efecto implemente la Secretaría.
+A partir de la quinta infracción, siempre se impondrá la sanción máxima contemplada en el supuesto normativo prohibitivo que se infrinja.
 
-> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+La aplicación del criterio anteriormente descrito no podrá llevarse a cabo directamente por los Agentes, sino que se realizará de forma automatizada a través del Sistema Integral de Administración de Infracciones, dicho sistema determinará la imposición de la sanción mínima, media o máxima establecida para cada hipótesis normativa prohibitiva establecida en este Reglamento, de acuerdo a las siguientes reglas:
 
-Cuando se trate de sanciones por infracciones a este Reglamento impuestas por el Agente facultado y expedidas mediante equipos electrónicos portátiles, la boleta de infracción será entregada en forma personal por conducto del agente que la expida, de lo cual dejará constancia. Si el infractor se negara a recibirla se hará constar esa situación para los efectos correspondientes.
+1. Se impondrá la sanción mínima, cuando el infractor transgreda alguna de las disposiciones previstas en el presente Reglamento, y tenga cero o una sanción pendiente de cumplimiento;
 
-> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+2. Se impondrá la sanción media, cuando el infractor transgreda alguna de las disposiciones previstas en el presente Reglamento, y tenga de dos a tres sanciones pendientes de cumplimiento;
 
-Las sanciones impuestas por sistemas tecnológicos serán notificadas por correo certificado, por medios electrónicos cuando sea procedente, o con acuse de recibo en el domicilio registrado de la persona física o moral que sea propietaria del vehículo, quien será responsable de su sanción.
+3. Se impondrá la sanción máxima, en los siguientes casos:
 
-Cuadro anexo.
+a) Cuando el infractor transgreda alguna de las disposiciones previstas en el presente Reglamento y tenga cuatro sanciones pendientes de cumplimiento;
 
-Fracción (sic) VII. Vías Primarias que por sus características físicas y operacionales se asemejan a Vías de Acceso Controlado.
+b) Cuando la infracción sea cometida por conductores que manejan un vehículo con placas de matrícula de otra entidad federativa o país.
 
-[N. DE E. VÉASE CUADROS ANEXOS EN LA G.O. DE 19 DE MARZO DE 2019, PÁGINAS DE LA 14 A LA 15.
+Los ciudadanos podrán simular el monto de una potencial infracción a través de la aplicación móvil que para ello implemente la Secretaría de Seguridad Ciudadana, así como la página electrónica de la misma.
+
+Dichos incrementos a las sanciones con base en este principio se describen en cada artículo del presente ordenamiento.
+
+Cuando se trate de sanciones por infracciones a este Reglamento impuestas por el Agente autorizado para infraccionar y emitidas mediante equipos electrónicos portátiles, la boleta de infracción se dará a conocer a los interesados, a través del número de teléfono celular o el correo electrónico que el ciudadano haya designado para tales efectos, de conformidad con lo dispuesto en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México. En caso de negativa se hará constar dicha situación y, se tendrá como no recibida la boleta de infracción.
+
+Las sanciones impuestas por sistemas tecnológicos serán notificadas vía estrados electrónicos a través de la página http://www.tramites.cdmx.gob.mx/infracciones/
 
 ###### Artículo 65.
 
@@ -2858,7 +2948,9 @@ Las licencia (sic) para conducir se cancelarán al acumular doce puntos de penal
 
 La Secretaría realizará el cómputo de los puntos de penalización con base en las boletas de sanción expedidas por Seguridad Pública, que hubieran sido impuestas con información de la licencia del conductor presente en el momento de la conducta infractora.
 
-Los puntos de penalización se acumularán de acuerdo a lo indicado en la tabla de sanciones de cada artículo.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Los puntos de penalización se acumularán de acuerdo a lo indicado en las sanciones de cada artículo del presente Reglamento.
 
 Cuando una boleta de sanción sea anulada, los puntos se descontarán por la Secretaría con base en copia de la resolución judicial o administrativa respectiva.
 
@@ -2870,37 +2962,77 @@ La reexpedición de una licencia que se haya extinguido por penalización proced
 
 Las personas cuya licencia haya sido cancelada y conduzcan algún vehículo en el lapso a que se refiere el párrafo anterior, serán sancionadas con la remisión del vehículo al depósito y una multa de ciento ochenta veces la Unidad de Cuenta de la Ciudad de México vigente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], G.O. 4 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 67.
 
-En los casos en que proceda la remisión del vehículo al depósito y previamente a que se haya iniciado el proceso de arrastre, los agentes deben sellarlo para garantizar la guarda y custodia de los objetos que en él se encuentren.
+Sólo procederá la remisión de vehículos al depósito en los siguientes casos:
 
-Procederá la remisión del vehículo al depósito aun cuando esté el conductor a bordo. Si se encontrasen personas menores de 16 años, mayores de 65 años, con discapacidad o mascotas, el agente levantará la infracción que corresponda y esperará hasta que llegue el conductor o persona responsable para proceder en forma inmediata a la remisión del vehículo al depósito, salvo que se encuentre dentro de los supuestos previstos en el artículo 68 de este Reglamento.
+I. El vehículo sea detenido por la comisión de alguna de las infracciones previstas en este Reglamento, y (sic) de la consulta efectuada en el sistema integral de administración de infracciones del Gobierno de la Ciudad de México, se detecte que cuenta con sanciones económicas no cubiertas, motivo de infracciones registradas con más de 30 días de anterioridad;
+
+II. Vehículos de conductores que transgredan lo dispuesto en fracción III del artículo 25; fracción II del artículo 26; todas las fracciones del artículo 30; y fracciones I, II, VI, VII, VIII, IX, X y XI del artículo 34 de este Reglamento; siempre y cuando no se encuentre el conductor a bordo del vehículo o éste se negase a retirarlo, inmediatamente después de haberse impuesto la infracción;
+
+III. Vehículos en estado de abandono conforme a lo previsto en las fracciones I y II del artículo 35 de este Reglamento;
+
+IV. Vehículos de conductores que transgredan lo previsto en los artículos 44 y 45 de este ordenamiento;
+
+V. Vehículos de conductores que contravengan lo dispuesto en la fracción III del artículo 48 de este Reglamento;
+
+VI. Vehículos de conductores que contravengan lo dispuesto en los artículos 50, 51 y 52 de este ordenamiento;
+
+VII. Vehículos con placas foráneas que sean detenidos por la comisión de alguna de las infracciones previstas en este Reglamento, y;
+
+VIII. Vehículos que circulen dentro del territorio de la Ciudad de México, y (sic) de la consulta efectuada en el sistema integral de administración de infracciones del Gobierno de la Ciudad de México, se detecte que presentan 5 o más infracciones a las disposiciones de este ordenamiento, pendientes de su cumplimiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE FEBRERO DE 2021)</small>
+
+En los casos antes referidos, previo a iniciar el arrastre, los Agentes deben sellar el vehículo para garantizar la guarda y custodia de los objetos contenidos en el mismo.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Se procederá a la remisión del vehículo al depósito aun cuando el conductor se encuentre a bordo. Si en aquél se encontrasen personas menores de 16 años, mayores de 65 años, con discapacidad o mascotas, el Agente autorizado para infraccionar impondrá la sanción que corresponda y esperará a que llegue otro conductor o persona responsable para proceder de inmediato a la remisión del vehículo, salvo que se encuentre dentro de los supuestos previstos en el artículo 68 primer párrafo de este Reglamento.
 
 Si el conductor o la persona responsable se oponen a la remisión del vehículo y/o se niega a salir de él, será presentado ante el Juez Cívico, para la determinación y aplicación de la sanción correspondiente.
 
 El agente que lleve a cabo la remisión al depósito, informará de inmediato al centro de control correspondiente los datos del depósito al cual se remitió, tipo de vehículo y matrícula, así como el lugar del que fue retirado.
 
-Seguridad Pública puede auxiliarse de terceros para la remisión de vehículos a depósitos propios o de los terceros.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
-Cuando el vehículo sea remitido a un depósito vehicular, el conductor deberá cubrir los respectivos derechos por concepto del servicio de arrastre y almacenaje del vehículo, conforme lo determine el Código Fiscal para el Distrito Federal.
+Seguridad Ciudadana puede auxiliarse de terceros para la remisión de vehículos a depósitos propios o de los terceros.
 
-Para la devolución del vehículo en los depósitos, será indispensable la comprobación de su propiedad o legal posesión, el pago previo de las multas adeudadas y derechos que procedan, exhibición de la licencia para conducir, una copia de la misma y portar las llaves del vehículo. Asimismo, se deberá comprobar la no existencia de créditos por concepto del Impuesto sobre Tenencia o Uso de Vehículos, federal o local, según corresponda y derechos por servicios de control vehicular, del ejercicio fiscal anterior al de la devolución del vehículo y acreditar contar con una póliza de seguro de responsabilidad civil vigente, en los términos de la Ley y este reglamento.
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Cuando el vehículo sea remitido a un depósito vehicular, el conductor deberá cubrir los respectivos derechos por concepto del servicio de arrastre y almacenaje del vehículo, conforme lo determine el Código Fiscal para la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
+Para la devolución del vehículo en los depósitos, será indispensable la comprobación de su propiedad o legal posesión, el cumplimiento de las sanciones de este reglamento y derechos que procedan, exhibición de la licencia para conducir vigente en formato físico o digital, una copia de la misma y portar las llaves del vehículo. Asimismo, se deberá comprobar la no existencia de créditos por concepto del Impuesto sobre Tenencia o Uso de Vehículos, federal o local, según corresponda y derechos por servicios de control vehicular, del ejercicio fiscal anterior al de la devolución del vehículo y acreditar contar con una póliza de seguro de responsabilidad civil vigente, en los términos de la Ley y este reglamento
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 68.
 
-Los vehículos que transporten perecederos, sustancias tóxicas o peligrosas o que cuenten con la autorización, calcomanía o distintivo expedido por la autoridad competente para el traslado o conducción de personas con discapacidad, no podrán ser remitidos al depósito por violación a lo establecido en el presente Reglamento. En todo caso el agente llenará la boleta de sanción correspondiente permitiendo que el vehículo continúe su marcha, excepto cuando el conductor muestre síntomas de estar bajo los efectos del alcohol, narcóticos, estupefacientes o psicotrópicos.
+Los vehículos que transporten sustancias tóxicas o peligrosas o que cuenten con la autorización, calcomanía o distintivo expedido por la autoridad competente para el traslado o conducción de personas con discapacidad, no podrán ser remitidos al depósito por violación a lo establecido en el presente Reglamento. Cuando el conductor muestre síntomas de estar bajo los efectos del alcohol, narcóticos, estupefacientes o psicotrópicos, el agente autorizado para infraccionar llenará la boleta de sanción correspondiente, deberá remitir al conductor al Juez Cívico, debiendo esperar a que llegue otro conductor o persona responsable para permitir que el vehículo continúe su marcha.
+
+Excepto tratándose de vehículos que transporten perecederos, el Agente autorizado para infraccionar impondrá la sanción que corresponda, esperará a que llegue otro conductor o persona responsable para realizar el retiro de los productos, con la finalidad de proceder de inmediato a la remisión del vehículo al depósito.
 
 ### CAPÍTULO II. DE LOS MEDIOS DE IMPUGNACIÓN Y DEFENSA DE LOS PARTICULARES FRENTE A LOS ACTOS DE AUTORIDAD
 
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 69.
 
-Los particulares afectados por los actos y resoluciones de las autoridades, podrán en los términos establecidos por la Ley de Procedimiento Administrativo del Distrito Federal, interponer el recurso de inconformidad, ante la autoridad competente o impugnar la imposición de las sanciones ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, en los términos y formas señalados por la ley que lo rige.
+Los particulares afectados por los actos y resoluciones de las autoridades, podrán en los términos establecidos por la Ley de Procedimiento Administrativo de la Ciudad de México, interponer el recurso de inconformidad, ante la autoridad competente o impugnar la imposición de las sanciones ante el Tribunal de Justicia Administrativa de la Ciudad de México, en los términos y formas señalados por la ley que lo rige, sin perjuicio de lo establecido en la Ley de Amparo Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Cuando se trate de multas, la interposición del recurso de inconformidad suspenderá el plazo referido.
+Tratándose de infracciones en materia de tránsito que atenten contra la seguridad vial de las personas, que sean captadas por los sistemas tecnológicos de la Ciudad de México, el infractor podrá interponer el recurso de revisión vía electrónica a la Consejería Jurídica y de Servicios Legales de la Ciudad de México, a través de la dirección electrónica, en los términos y formas establecidos en la Ley de Cultura Cívica de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 70.
 
-A los agentes que violen lo establecido en este Reglamento o que en aplicación del mismo remitan a un conductor ante un Juzgado Cívico, sin que medie infracción de tránsito alguna o remitan un vehículo a un depósito sin causa justificada, se les aplicarán las sanciones correspondientes. Los particulares pueden acudir ante el Ministerio Público, la Contraloría General del Distrito Federal, la Contraloría Interna o los Órganos internos de Disciplina de Seguridad Pública a denunciar presuntos actos ilícitos de un agente.
+Los Agentes e Integrantes de Seguridad Ciudadana que en el ejercicio de sus funciones infrinjan las disposiciones del presente Reglamento serán sujetos a las responsabilidades y sanciones que correspondan.
+
+Los particulares pueden acudir ante el Ministerio Público, la Secretaría de la Contraloría General de la Ciudad de México, al Órgano Interno de Control o a la Dirección General de Asuntos Internos de la Secretaría de Seguridad Ciudadana a denunciar presuntos actos ilícitos de los agentes e Integrantes de Seguridad Ciudadana.
 
 ## TRANSITORIOS
 
@@ -2987,3 +3119,11 @@ G.O.11 DE FEBRERO DE 2020.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación.
+
+G.O. 4 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación; con excepción de la aplicación del criterio de Reincidencia previsto en el décimo segundo párrafo del artículo 64 de este ordenamiento, el cual entrará en vigor a partir del 15 de marzo de 2021.
