@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-centro-de-justicia-para-mujeres-del-11071
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-11-23"
-last_updated: "2015-11-23"
+last_updated: "2021-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DEL CENTRO DE JUSTICIA PARA MUJERES DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL CENTRO DE JUSTICIA PARA MUJERES DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 4 DE FEBRERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL CENTRO DE JUSTICIA PARA MUJERES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2021 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 23 de noviembre de 2015.
 
@@ -624,3 +626,19 @@ Dado en la ciudad de Pachuca de Soto, Hidalgo a los 03 días del mes de junio de
 Firmas de las Personas Integrantes de la Junta de Gobierno
 
 Lic. Salvador Elguero Molina, Secretario de Gobierno del Estado de Hidalgo y Presidente de la Junta de Gobierno.- Rúbrica; Lic. Aunard Agustín de la Rocha Waite, Secretario de Finanzas y Administración del Estado de Hidalgo.- Rúbrica; Lic. Alberto Meléndez Apodaca, Secretario de Planeación, Desarrollo Regional y Metropolitano del Estado de Hidalgo.- Rúbrica; Prof. Miguel Ángel Cuatepotzo Costeira, Secretario de Educación Pública del Estado de Hidalgo.- Rúbrica; Lic. Edna Geraldina García Gordillo, Secretaria de Salud del Estado de Hidalgo.- Rúbrica; Lic. Alejandro Straffon Ortiz, Procurador General de Justicia del Estado de Hidalgo.- Rúbrica; Capitán Alfredo Ahedo Mayorga, Secretario de Seguridad Pública del Estado de Hidalgo.- Rúbrica; Lic. Mayka Ortega Eguiluz, Secretaria de Desarrollo Social del Estado de Hidalgo.- Rúbrica; Mtro. Mario Souverbille González, Coordinador General Jurídico de Gobierno del Estado de Hidalgo.- Rúbrica; Lic. Luz Elena Sánchez Tello, Directora General del Sistema DIF Hidalgo.- Rúbrica; Lic. María Concepción Hernández Aragón, Directora General de Instituto Hidalguense de las Mujeres.- Rúbrica; Ing. Eleazar García Sánchez, Presidente Municipal Constitucional de Pachuca.- Rúbrica; L.C. Jerónimo Quijano Montoya, Comisario Público.- Rúbrica; Mtra. Ma. Del Carmen Rincón Cruz, Presidenta del Grupo de Mujeres de Pachuca CIHUATL.- Rúbrica; Lic. Margarita Cabrera Román, Coordinadora General del Centro de Justicia para Mujeres del Estado de Hidalgo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL CENTRO DE JUSTICIA PARA MUJERES DEL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y se abroga el publicado en el mismo medio el 23 de noviembre de 2015.
+
+SEGUNDO.- A partir de la entrada en vigor de este Estatuto, cada una de las unidades que integran el Centro de Justicia para Mujeres deberá emitir sus manuales de organización y procedimientos en un plazo de 90 días hábiles.
+
+TERCERO.- En tanto no se expidan los instrumentos jurídicos que regulen internamente las actividades de las unidades del Centro de Justicia para Mujeres, se continuarán aplicando los vigentes al momento de entrar en vigor el presente Estatuto.
+
+CUARTO.- El presente Estatuto deberá inscribirse en el Registro Público de Organismos Descentralizados en términos de los que establece la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento.
+
+QUINTO.- Los aspectos no previstos en este Estatuto Orgánico, serán resueltos por la Junta de Gobierno.
