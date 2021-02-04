@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-8-2009-del-pleno-del-consejo-de-la-67191"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-03-06"
-last_updated: "2009-12-24"
+last_updated: "2021-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67191&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-03-04"
 ---
 # ACUERDO GENERAL 8/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS DE OPOSICION LIBRE PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE MAGISTRADO DE CIRCUITO, MEDIANTE CONCURSOS DE OPOSICIÓN LIBRES, PUBLICADO EN EL D.O.F. DE 4 DE FEBRERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 8/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS DE OPOSICION LIBRE PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE FEBRERO DE 2021 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 6 de marzo de 2009.
 
@@ -628,3 +630,17 @@ SEGUNDO. No será aplicable a los concursos cuya convocatoria se haya publicado 
 TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo de la Judicatura Federal, de la Corte y del Tribunal Electoral.
 
 CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 8/2009, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos de Oposición Libre para la Designación de Magistrados de Circuito.
+
+D.O.F. 4 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE MAGISTRADO DE CIRCUITO, MEDIANTE CONCURSOS DE OPOSICIÓN LIBRES”.]
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se instruye a las Direcciones Generales Recursos Humanos, de Tecnologías de la Información y de Comunicación Social y Vocería, así como a la Secretaría Ejecutiva de Administración y al Instituto para que, en el ámbito de sus atribuciones, den cumplimiento a lo establecido en el presente acuerdo.
+
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en uno de los diarios de mayor circulación nacional y en la página web del Instituto.
+
+CUARTO. Se abroga el Acuerdo General 8/2009 del Pleno del Consejo de la Judicatura Federal, que reglamenta el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se establecen los Lineamientos Generales para la Celebración de Concursos de Oposición Libre para la Designación de Magistrados de Circuito, publicado en el Diario Oficial de la Federación el seis de marzo de 2009.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
