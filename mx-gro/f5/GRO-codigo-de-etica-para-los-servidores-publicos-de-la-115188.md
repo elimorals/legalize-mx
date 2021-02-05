@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-etica-para-los-servidores-publicos-de-la-115188"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-04-01"
-last_updated: "2016-11-15"
+last_updated: "2021-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # CODIGO DE ETICA, PARA LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO -- ANTES CODIGO DE ETICA, AL QUE DEBERAN SUJETARSE LOS SERVIDORES DE LA ADMINISTRACION PUBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO --
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL GOBIERNO DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 5 DE FEBRERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA, PARA LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2021 (ABROGADO).
 
 Código publicado en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 1 de abril de 2016.
 
@@ -290,3 +292,13 @@ P.O. 15 DE NOVIEMBRE DE 2016.
 Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo. Se abroga el Acuerdo por el que se establece el Código de Ética, al que deberán sujetarse los Servidores Públicos de la Administración Pública Centralizada y Paraestatal del Estado de Guerrero, publicado en el Periódico Oficial del Gobierno del Estado número 8 Alcance I, de fecha 27 de enero de 2012.
+
+P.O. 5 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL GOBIERNO DEL ESTADO DE GUERRERO”.]
+
+Primero. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+Segundo. Se abroga el Acuerdo por el que se establece el Código de Ética, al que deberán sujetarse los Servidores de la Administración Pública Centralizada y Paraestatal del Estado de Guerrero, publicado en el Periódico Oficial del Gobierno del Estado de Guerrero, No. 27 Alcance I de fecha 01 de abril de 2016 y el Acuerdo por el que se reforman y adicionan diversas disposiciones del similar que establece el Código de Ética, al que deberán sujetarse los Servidores de la Administración Pública Centralizada y Paraestatal del Estado de Guerrero publicado en el Periódico Oficial del Gobierno del Estado de Guerrero, No. 92 Alcance I de fecha 15 de noviembre de 2016.
+
+Tercero. Para el cumplimiento de los fines del presente Código de Ética, la Secretaría de Contraloría y Transparencia Gubernamental promoverá la emisión de las Reglas de Integridad para el Ejercicio de la Función Pública y los Lineamientos Generales para la Integración, Organización y Funcionamiento de los Comités de Ética y de Prevención de Conflictos de Interés.
