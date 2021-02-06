@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-127081"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2020-11-18"
+last_updated: "2021-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -37,7 +37,7 @@ LA HONORABLE SEXAGÉSIMA SEGUNDA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACA
 
 RESULTANDOS
 
-[…]
+[...]
 
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -157,7 +157,11 @@ XXI. Ejercer el control sanitario de los establecimientos, productos y servicios
 
 XXII. El control y vigilancia sanitaria de la publicidad, y
 
-XXIII. Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2021)</small>
+
+XXIII. Promover, impulsar e implementar el uso de las tecnologías de la información y comunicación para la salud;
+
+XXIV. Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 6.
 
@@ -563,9 +567,15 @@ V. La participación en el establecimiento de mecanismos idóneos para la determ
 
 VI. La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2021)</small>
+
 ###### ARTÍCULO 39.
 
-Los comités locales de salud a que se refiere esta Ley promoverán que en las poblaciones y comunidades se impartan pláticas de orientación en materia de planificación familiar y educación sexual. Las instituciones de salud y educativas brindarán al efecto el apoyo necesario.
+Los comités locales de salud a que se refiere esta Ley promoverán que en las poblaciones y comunidades se impartan pláticas de orientación en materia de planificación familiar y educación sexual, asimismo, garantizarán el suministro de preservativos en los centros de salud de la entidad, y en coordinación con la Secretaría de Educación y los Gobiernos Municipales efectuar acciones tendientes a facilitar la venta o entrega de dichos métodos anticonceptivos en lugares visibles al interior de las instalaciones de hoteles y moteles, establecimientos que vendan bebidas alcohólicas e instituciones educativas.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+Las instituciones de salud y educativas impulsarán campañas informativas en los distintos niveles educativos en materia de salud sexual, que permitan a la comunidad de estudiantes de todos los niveles, tomar decisiones responsables respecto de su vida sexual.
 
 ### CAPÍTULO VI. Salud Mental
 
@@ -721,11 +731,11 @@ V. El estudio de las técnicas y métodos que se recomienden o empleen para la p
 
 VI. La producción de insumos para la salud.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
 
 ###### ARTÍCULO 58.
 
-La Secretaría de Salud apoyará la constitución y funcionamiento de centros destinados a la investigación científica en general y particularmente en epidemiología, así como la integración y actualización permanente, de grupos interdisciplinarios para tal fin.
+La Secretaría de Salud apoyará la constitución y funcionamiento de centros de investigación, la capacitación de grupos interdisciplinarios y procederá a la conformación de un comité de ciencia para la salud, de carácter consultivo y honorífico, que estimulará las tareas multidisciplinarias en este ámbito.
 
 ###### ARTÍCULO 59.
 
@@ -855,7 +865,7 @@ III. Instituir planes de alimentación de acuerdo con las necesidades y caracter
 
 ### CAPÍTULO VII. Enfermedades Transmisibles
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2021)</small>
 
 ###### ARTÍCULO 73.
 
@@ -885,11 +895,11 @@ La Secretaría de Salud, en coordinación con los Servicios de Salud y otras aut
 
 ###### ARTÍCULO 77.
 
-Las autoridades sanitarias estatales se coordinarán con sus similares de los ámbitos federal y municipal, para elaborar programas y desarrollar campañas temporales o permanentes, incluyendo restricciones a la movilidad urbana y el establecimiento obligatorio de protectores visuales, bucales y faciales, para el control o erradicación de enfermedades transmisibles que constituyan un problema real o potencial para la salubridad general de la población.
+Las autoridades sanitarias estatales se coordinarán con sus similares del ámbito federal y municipal, para elaborar programas y desarrollar campañas temporales o permanentes, para el control o erradicación de enfermedades transmisibles.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE FEBRERO DE 2021)</small>
 
-Asimismo, realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles, entre ellas, la familia de los coronavirus:
+Asimismo, se creará un sistema de vigilancia epidemiológica de prevención y control de enfermedades transmisibles, entre otras.
 
 I. Cólera, fiebre tifoidea, paratifoidea y otras salmonelosis, shigelosis, infección intestinal por otros organismos y las mal definidas, intoxicación alimentaria bacteriana, amibiasis intestinal, absceso hepático amibiano, giardiasis, otras infecciones intestinales debidas a protozoarios, infecciones intestinales debidas a protozoarios, teniasis, ascariasis, oxiuriasis y otras helmintiasis;
 
@@ -2492,3 +2502,19 @@ P.O. 18 DE NOVIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 421.- SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 5, 58 Y 77 DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 422.- SE REFORMA Y ADICIONA EL ARTÍCULO 39 DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
