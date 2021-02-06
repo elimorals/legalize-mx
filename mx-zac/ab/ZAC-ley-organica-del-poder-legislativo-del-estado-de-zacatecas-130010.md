@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2021-01-02"
+last_updated: "2021-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -441,7 +441,9 @@ IX. Rendir un informe sobre el ejercicio del presupuesto y el cumplimiento de su
 
 X. Designar y tomar la protesta a los Consejeros representantes del Poder Legislativo que integrarán el Consejo General del Instituto Electoral del Estado, de conformidad con lo establecido en la Constitución estatal y la Ley Electoral del Estado;
 
-XI. Incorporar la perspectiva de género en las políticas, procesos, estrategias y demás acciones del Poder Legislativo, y
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
+
+XI. Incorporar la perspectiva de género en las políticas, procesos, estrategias y demás acciones del Poder Legislativo, además de establecer protocolos de actuación en los diferentes rubros de su actividad interna; y
 
 XII. Las demás que le confiera la Constitución estatal y las leyes del estado.
 
@@ -803,7 +805,13 @@ Tratándose de una iniciativa de ley, decreto o acuerdo, para su análisis, las 
 
 I. Identificar la procedencia con la Constitución federal y la propia del Estado;
 
-II. Analizar el impacto en otras leyes del Estado, al que se denominará análisis colateral;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE FEBRERO DE 2021)</small>
+
+II. Analizar el impacto en otras leyes del Estado, al que se denominará análisis colateral.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+Cuando la naturaleza de la iniciativa lo requiera, se deberá estudiar su posible impacto ambiental, de conformidad con las leyes en la materia y precisarlo así en el dictamen correspondiente;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -2263,11 +2271,19 @@ II. La Subdirección de Recursos Humanos, y
 
 III. La Subdirección de Recursos Materiales y Servicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 172.
 
-La integración, actividad y funcionamiento de las unidades administrativas y de apoyo, estarán sujetos a lo dispuesto en el Reglamento General, los manuales de organización y de procedimientos, de servicios y demás disposiciones normativas aplicables.
+La integración, actividad y funcionamiento de las unidades administrativas y de apoyo, estarán sujetos a lo dispuesto en el Reglamento General, los manuales de organización y de procedimientos, de servicios, así como los protocolos de actuación y demás disposiciones normativas aplicables.
 
-Las unidades administrativas y de apoyo deberán emitir los manuales de procedimientos para cumplir cabalmente con sus atribuciones y mejorar el funcionamiento y eficiencia de su área, de conformidad con lo establecido en esta Ley y el Reglamento General.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+Las unidades administrativas y de apoyo deberán emitir los manuales de procedimientos y protocolos de actuación para cumplir cabalmente con sus atribuciones y mejorar el funcionamiento y eficiencia de su área, de conformidad con lo establecido en esta Ley y el Reglamento General.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+La información que se obtenga, genere o resguarde por la Legislatura con motivo de la aplicación de los manuales de organización y procedimientos, así como de los protocolos de actuación, estará sujeta a lo establecido en las disposiciones en las materias de transparencia, acceso a la información pública, protección de datos personales, archivos y demás normativa aplicable.
 
 ### Capítulo Segundo. Auditoría Superior del Estado
 
@@ -2548,3 +2564,19 @@ P.O. 2 DE ENERO DE 2021.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 572.- SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN II, DEL ARTÍCULO 58 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 573.- SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 26, Y SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 172, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS Y SE REFORMAN LOS ARTÍCULOS 245, FRACCIONES III Y V; 246, FRACCIÓN XXXVI, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 259, DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
