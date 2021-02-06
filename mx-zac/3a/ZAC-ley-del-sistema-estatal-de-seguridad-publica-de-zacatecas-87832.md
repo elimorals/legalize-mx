@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-estatal-de-seguridad-publica-de-zacatecas-87832
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-05"
-last_updated: "2020-01-04"
+last_updated: "2021-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de mayo de 2012.
 
@@ -96,6 +96,10 @@ Para efectos de esta Ley, se entenderá por:
 I. Bases de Datos Criminalísticos y de Personal: A las bases de datos y la información contenida en ellas, en materia de detenciones, información criminal, personal de seguridad pública, servicio de seguridad privada, armamento y equipo, vehículos, huellas dactilares, sentenciados y las demás necesarias para la operación del Sistema Estatal de Seguridad Pública;
 
 II. Carrera Policial: Al Servicio Profesional de Carrera Policial;
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2021)</small>
+
+II Bis. Centro: Al Centro de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia, C5I;
 
 III. Consejo Estatal: Al Consejo Estatal de Seguridad Pública;
 
@@ -333,9 +337,17 @@ IX. Ejercer el mando de la Policía Estatal Preventiva; de la Dirección General
 
 X. Organizar las instituciones policiales bajo sus órdenes, en unidades que cumplan las funciones de investigación, prevención y reacción, en términos de esta Ley;
 
-XI. Presidir el Consejo de Honor y Justicia, y
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
 
-XII. Las demás que le señalen las leyes, reglamentos y otras disposiciones aplicables.
+XI. Presidir el Consejo de Honor y Justicia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE FEBRERO DE 2021)</small>
+
+XII. Organizar, coordinar y operar el Centro; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE FEBRERO DE 2021)</small>
+
+XIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones aplicables.
 
 Atribuciones de los Ayuntamientos
 
@@ -375,7 +387,9 @@ IV. Proponer el establecimiento de políticas y objetivos que sirvan de apoyo a 
 
 V. Hacer del conocimiento del Gobernador, con oportunidad, las alteraciones graves del orden público y la tranquilidad social en su municipio;
 
-VI. Compartir la información sobre seguridad pública que obre en las bases de datos del Municipio, con los centros Estatal y Nacional de Información, en los términos de las disposiciones normativas aplicables, y
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
+
+VI. Compartir la información sobre seguridad pública que obre en las bases de datos del Municipio, con la Secretaría u el Centro Nacional de Información, en los términos de las disposiciones normativas aplicables, y
 
 VII. Las demás que le señalen las leyes, reglamentos y otras disposiciones aplicables.
 
@@ -643,7 +657,9 @@ III. (DEROGADA, P.O. 4 DE ENERO DE 2020)
 
 IV. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal y de su Presidente;
 
-V. Impulsar el mejoramiento de los instrumentos de información del Sistema;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
+
+V. Impulsar, en coordinación con la Secretaría, el mejoramiento de los instrumentos de información del Sistema;
 
 VI. Fungir como representante permanente ante el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
 
@@ -653,7 +669,9 @@ VIII. Coordinar la realización de estudios transversales especializados sobre l
 
 IX. Compilar los acuerdos que se tomen en el Consejo Estatal, llevar el archivo de éstos y de los instrumentos jurídicos que se deriven, así como expedir constancias de los mismos, con respeto a los principios de confidencialidad y reserva;
 
-X. Expedir certificaciones de los datos contenidos en los Registros Estatales de Información, así como copias certificadas de los documentos que obren en los archivos del Secretariado Ejecutivo, con excepción de los reservados de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
+
+X. Expedir certificaciones de los datos contenidos en los Registros Estatales, así como copias certificadas de los documentos que obren en los archivos del Secretariado Ejecutivo, con excepción de los reservados de conformidad con la Ley General de Transparencia y Acceso a la Información Pública y la Ley de Transparencia y Acceso a la Información Pública del Estado;
 
 XI. Celebrar convenios de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines del Sistema, previo acuerdo del Secretario General de Gobierno;
 
@@ -705,7 +723,9 @@ Para efectos del párrafo anterior se entiende como control de confianza, el pro
 
 La organización y funciones del Centro Estatal de Evaluación y Confianza, se establecerán en su Reglamento.
 
-### CAPÍTULO VIII. DEL SISTEMA ESTATAL DE INFORMACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE FEBRERO DE 2021)</small>
+
+### CAPÍTULO VIII. DEL SISTEMA ESTATAL DE INFORMACIÓN Y DEL CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES, CÓMPUTO E INTELIGENCIA
 
 Centro Estatal de Información
 
@@ -729,27 +749,37 @@ VII. Registro de Prestadores de Servicios de Seguridad Privada.
 
 Cada uno de los Registros, se sujetará a los lineamientos establecidos en la Ley General y en su Reglamento.
 
-La información a que se refiere este artículo tiene el carácter de reservada y confidencial en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+La información a que se refiere este artículo tiene el carácter de reservada y confidencial en términos de la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Datos Personales en Posesión de Sujetos Obligados, la Ley de Transparencia y Acceso a la Información Pública del Estado y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Zacatecas.
 
 De la información de las Instituciones de Seguridad Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 40.
 
-Las Instituciones de Seguridad Pública, suministrarán, intercambiarán, sistematizarán, consultarán, analizarán y actualizarán, la información que diariamente se genere sobre seguridad pública, mediante los sistemas e instrumentos tecnológicos respectivos, a través del Secretariado Ejecutivo que será el enlace para proporcionarla al Sistema Nacional de Seguridad Pública, para facilitar y apoyar su actividad objetiva, mediante el acceso a los usuarios autorizados.
+Las Instituciones de Seguridad Pública, suministrarán, intercambiarán, sistematizarán, consultarán, analizarán y actualizarán, la información que diariamente se genere sobre seguridad pública, mediante los sistemas e instrumentos tecnológicos respectivos, a través de la Secretaría y del Secretariado Ejecutivo que será el enlace para proporcionarla al Sistema Nacional de Seguridad Pública, para facilitar y apoyar su actividad objetiva, mediante el acceso a los usuarios autorizados.
 
 Con independencia de lo anterior, las Instituciones de Seguridad Pública, deberán conservar un respaldo de la información que generen.
 
-Los municipios que aún no cuenten con acceso al Sistema, proporcionarán la información por escrito por conducto del Secretariado Ejecutivo, en los formatos que para el efecto les sean facilitados, obligación que deberán cumplir dentro de los primeros cinco días de cada mes.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
 
-Los responsables de los servicios de seguridad privada, deberán integrar y actualizar la información relativa a personal y armamento y equipo, por conducto del Secretariado Ejecutivo.
+Los municipios que aún no cuenten con acceso al Sistema, proporcionarán la información por escrito por conducto de la Secretaría y del Secretariado Ejecutivo, en los formatos que para el efecto les sean facilitados, obligación que deberán cumplir dentro de los primeros cinco días de cada mes.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+Los responsables de los servicios de seguridad privada, deberán integrar y actualizar la información relativa a personal y armamento y equipo, por conducto de la Secretaría y del Secretariado Ejecutivo.
 
 La información sobre administración, impartición de justicia, podrá ser integrada a las bases de datos criminalísticas y de personal, a través de convenios con el Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
 
 Certificación de las Bases de Datos de Información
 
 ###### Artículo 41.
 
-La información contenida en las bases de datos de información sobre seguridad pública, podrá ser certificada por el Secretario Ejecutivo o por la Dirección del Centro de Información y, tendrá el valor probatorio que las disposiciones legales determinen.
+La información contenida en las bases de datos de información sobre seguridad pública, podrá ser certificada por la Secretaría o el Secretario Ejecutivo, en el ámbito de sus competencias y, tendrá el valor probatorio que las disposiciones legales determinen.
 
 De la Coordinación y Compatibilidad de los Servicios de Telecomunicaciones
 
@@ -759,9 +789,11 @@ El Estado y los municipios, en coordinación con la Federación, deberán realiz
 
 Coordinación del Servicio de Llamadas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 43.
 
-El Secretariado Ejecutivo coordinará el servicio de comunicación que reciba los reportes de la comunidad sobre emergencias, faltas y delitos que permita atenderlos mediante la comunicación directa con las demás instituciones sean o no de seguridad pública.
+La Secretaría coordinará el servicio de comunicación que reciba los reportes de la comunidad sobre emergencias, faltas y delitos que permita atenderlos mediante la comunicación directa con las demás instituciones sean o no de seguridad pública.
 
 El servicio de llamadas de emergencia y el servicio de denuncia anónima, operarán con un número único de atención a la ciudadanía.
 
@@ -1920,3 +1952,19 @@ Asimismo, transferirá los recursos humanos, financieros y materiales con los qu
 El proceso de entrega-recepción se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado y Municipios de Zacatecas, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios y demás disposiciones aplicables.
 
 Artículo Quinto. Dentro de los ciento veinte días siguientes a la vigencia del presente Decreto, el titular del Poder Ejecutivo del Estado y los Presidentes Municipales, emitirán las convocatorias respectivas, respecto del proceso de designación de los consejeros de consulta, para dar cumplimiento a lo previsto en el artículo 39 bis de la Ley para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana para el Estado de Zacatecas.
+
+P.O. 6 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 627.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS Y LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. El proceso de entrega recepción sobre los recursos humanos, financieros y materiales, se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado de Zacatecas y demás leyes y reglamentos aplicables.
+
+Artículo tercero. La Secretaría de Finanzas, en coordinación con las Secretarías, General de Gobierno y de Seguridad Pública, deberán realizar las adecuaciones presupuestales que resulten necesarias de conformidad con la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios y otros ordenamientos aplicables.
+
+Artículo cuarto. Dentro de los noventa días siguientes a la entrada en vigor de este Decreto, reformarán sus reglamentos internos para armonizarlos a esta reforma.
+
+Artículo quinto. Para los efectos de las consideraciones vertidas en el apartado de Valoración de la iniciativa, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizarse la reforma a la Ley Orgánica de la Administración Pública del Estado, la Ley del Sistema Estatal de Seguridad Pública de Zacatecas y otras disposiciones legales, para que el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, forme parte de la Secretaría de Seguridad Pública.
+
+Artículo sexto. Se derogan las disposiciones que se opongan a este Decreto.
