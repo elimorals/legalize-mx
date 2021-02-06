@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-118697"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-11-30"
-last_updated: "2020-11-14"
+last_updated: "2021-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento 3 al Número 96 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de noviembre de 2016.
 
@@ -483,9 +483,15 @@ XVII. Elaborar y ejecutar los programas de reinserción social de infractores de
 
 XVIII. Dar el trámite que corresponda, en la aplicación de la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado, así como la Ley del Sistema Penitenciario y de Ejecución de Sanciones;
 
-XIX. Coordinar y vigilar el funcionamiento del Centro de Internamiento y Atención Integral Juvenil y ejecutar los programas de reinserción a la familia y la comunidad; y
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
 
-XX. Las demás que señalen las leyes y reglamentos vigentes o le encomiende el Gobernador.
+XIX. Coordinar y vigilar el funcionamiento del Centro de Internamiento y Atención Integral Juvenil y ejecutar los programas de reinserción a la familia y la comunidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE FEBRERO DE 2021)</small>
+
+XX. Organizar, coordinar y operar el Centro de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia; y
+
+XXI. Las demás que señalen las leyes y reglamentos vigentes o le encomiende el Gobernador.
 
 ###### Artículo 29.
 
@@ -1782,3 +1788,19 @@ P.O. 14 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 440.- SE DEROGA LA FRACCIÓN III Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 22; Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 27 DE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE ZACATECAS”.]
 
 Articulo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 627.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS Y LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. El proceso de entrega recepción sobre los recursos humanos, financieros y materiales, se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado de Zacatecas y demás leyes y reglamentos aplicables.
+
+Artículo tercero. La Secretaría de Finanzas, en coordinación con las Secretarías, General de Gobierno y de Seguridad Pública, deberán realizar las adecuaciones presupuestales que resulten necesarias de conformidad con la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios y otros ordenamientos aplicables.
+
+Artículo cuarto. Dentro de los noventa días siguientes a la entrada en vigor de este Decreto, reformarán sus reglamentos internos para armonizarlos a esta reforma.
+
+Artículo quinto. Para los efectos de las consideraciones vertidas en el apartado de Valoración de la iniciativa, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizarse la reforma a la Ley Orgánica de la Administración Pública del Estado, la Ley del Sistema Estatal de Seguridad Pública de Zacatecas y otras disposiciones legales, para que el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, forme parte de la Secretaría de Seguridad Pública.
+
+Artículo sexto. Se derogan las disposiciones que se opongan a este Decreto.
