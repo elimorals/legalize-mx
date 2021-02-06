@@ -4,7 +4,7 @@ identifier: "ZAC-ley-estatal-para-la-atencion-y-proteccion-a-personas-con-la-116
 country: "mx"
 rank: "ley"
 publication_date: "2016-08-24"
-last_updated: "2019-11-23"
+last_updated: "2021-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY ESTATAL PARA LA ATENCION Y PROTECCION A PERSONAS CON LA CONDICION DEL ESPECTRO AUTISTA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO Y MUNICIPIOS DE ZACATECAS, PUBLICADA EN EL P.O. DE 6 DE FEBRERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 24 de agosto de 2016.
 
@@ -342,3 +344,37 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 187.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 5 DE LA LEY ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 6 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “LEY PARA LA ATENCIÓN Y PROTECCIÓN A LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
+
+Entrada en vigor
+
+Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Abrogación
+
+Artículo segundo. Se abroga la Ley Estatal para la Atención y Protección a Personas con la Condición del Espectro Autista, publicada en Suplemento 2 al número 68 del Periódico Oficial, Órgano del Gobierno del Estado correspondiente al día 24 de agosto de 2016.
+
+Armonización Reglamento y Estatuto Orgánico
+
+Artículo tercero. Dentro de los noventa días naturales siguientes a la entrada en vigor de la presente Ley, se publicará en el Periódico Oficial, Órgano del Gobierno del Estado, el Reglamento de la presente Ley.
+
+En ese mismo plazo, se reformará el Estatuto Orgánico del Instituto para la Atención e Inclusión de las Personas con Discapacidad, para integrar lo relativo a la unidad administrativa para la atención y orientación de las familias y las personas con la condición del espectro autista.
+
+Armonización de leyes
+
+Artículo cuarto. En un plazo que no exceda de ciento ochenta días naturales contados a partir de la entrada en vigor de esta Ley, la Legislatura del Estado aprobará las reformas a la Ley Orgánica de la Administración Pública del Estado, la Ley de Salud del Estado, la Ley para la Atención e Inclusión de las Personas con Discapacidad del Estado de Zacatecas y otras disposiciones legales, para armonizarlos a este cuerpo normativo.
+
+Comisión Interinstitucional
+
+Artículo quinto. Dentro de los sesenta días siguientes a la entrada en vigor de la presente Ley, deberá conformarse la Comisión Interinstitucional para la Atención y Protección a Personas con la Condición del Espectro Autista.
+
+Disponibilidad presupuestal
+
+Artículo sexto. Las acciones que las dependencias y entidades de la administración pública estatal realicen para dar cumplimiento a lo establecido en la presente Ley, se sujetarán a la disponibilidad presupuestal, de acuerdo con el presupuesto de egresos del Estado para el Ejercicio Fiscal que corresponda.
+
+Derogación
+
+Artículo séptimo. Se derogan las disposiciones que se opongan a la presente Ley.
