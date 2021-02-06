@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "2018-02-24"
+last_updated: "2021-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -3674,6 +3674,106 @@ IV.- Los créditos por indemnización cuando la víctima fuere un asalariado son
 V.- Respecto de los porteadores responden del daño causado a las personas por defecto de los conductores y medios de transporte que empleen, en los términos que se señalan en este Código en su Capítulo respectivo.
 
 1201.- Independientemente de los daños y perjuicios, el Juez puede acordar, en favor de la víctima de un hecho ilícito, o de su familia, si aquélla muere, una indemnización equitativa, a título de reparación moral, que pagará el responsable del hecho. Esa indemnización no podrá exceder de la tercera parte de lo que importa la responsabilidad civil. Lo dispuesto en este artículo no se aplicará al Estado ya que éste está obligado a responder de los daños causados por sus funcionarios con motivo de sus funciones, si éstos no tuvieren bienes para responder del daño.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+1201 Bis.- La violación de cualquiera de los derechos de personalidad produce el daño moral, que es independiente del daño material. El responsable del mismo tendrá la obligación de repararlo mediante una indemnización pecuniaria.
+
+Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físico o sexual, o bien, en la consideración que de sí misma tienen los demás. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
+
+Se considerará que los derechos de personalidad, tutelan y protegen el disfrute que tiene el ser humano, como integrante de un contexto social, en sus distintos atributos, esencia y cualidades, con motivo de sus interrelaciones con otras personas y frente al Estado.
+
+Los derechos de personalidad, por su origen, naturaleza y fin, no tienen más limitación que los derechos de terceros, la moral y las buenas costumbres. Como consecuencia, deben ser respetados por las autoridades y particulares.
+
+Los derechos de personalidad se consideran:
+
+I. Esenciales, en cuanto que garantizan el desarrollo individual y social, así como la existencia digna y reconocida del ser humano;
+
+II. Personalísimos, en cuanto que por ellos alcanza su plena individualidad la persona humana;
+
+III. Originarios, ya que se dan por el sólo nacimiento de la persona, sin importar el estatuto jurídico que después pueda corresponder a la misma;
+
+IV. Innatos, ya que su existencia no requiere de reconocimiento jurídico alguno;
+
+V. Sin contenido patrimonial, ya que originalmente no son sujetos de valoración pecuniaria;
+
+VI. Absolutos, porque no es admisible bajo ningún concepto su disminución ni su confrontación y valen frente a todas las personas;
+
+VII. Inalienables, porque no pueden ser objetos de enajenación;
+
+VIII. Intransmisibles, porque son exclusivos de su titular y se extinguen con la muerte, salvo las excepciones previstas en este Código;
+
+IX. Imprescriptibles, porque no se pierden por el transcurso del tiempo; y
+
+X. Irrenunciables, porque la voluntad de su titular no basta para privar su eficacia.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+1201 Ter.- No se considerará daño moral el causado por el ejercicio de los derechos de opinión, crítica, expresión e información, cuando se realice en los términos y con las limitaciones que establece la Constitución Política de los Estados Unidos Mexicanos.
+
+La reproducción fiel de información no da lugar al daño moral, puesto que no constituye una responsabilidad para el que difunde dicha información, siempre y cuando se cite formalmente la fuente de donde se obtuvo.
+
+En ningún caso se considerarán ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional, ni las que versen sobre acontecimientos privados divulgados públicamente por el propio afectado.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+1201 Quáter.- Cuando un acto, hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+1201 Quinquies.- El monto de la indemnización será determinado por el juez tomando en cuenta las siguientes circunstancias:
+
+I. La naturaleza del hecho que produjo el daño;
+
+II. Los derechos lesionados;
+
+III. El grado de responsabilidad;
+
+IV. La situación pecuniaria o el nivel de vida del responsable y de la víctima;
+
+V. El grado y repercusión de los daños causados;
+
+VI. Los usos y costumbres del lugar donde se causó el daño; y
+
+VII. En su caso, la pertenencia a un grupo vulnerable.
+
+La indemnización deberá ser apropiada y proporcional a la gravedad del hecho que causó el daño, ponderada bajo criterios de razonabilidad.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+1201 Sexies.- Cuando el daño moral haya afectado a la víctima en su decoro, honor, prestigio personal o profesional, reputación o consideración, el juez independientemente de lo dispuesto en el artículo anterior ordenará, y en ejecución de sentencia a petición expresa del afectado y con cargo al responsable, la publicación de un extracto de la sentencia, de la que se desprenda con toda claridad las circunstancias y el alcance de la misma, a través de los medios informativos que considere convenientes; pero en los casos en que el daño se produzca por medio de un acto que haya sido difundido por los medios informativos o de difusión masiva, el juez ordenará que los mismos den publicidad al extracto de la sentencia con la misma importancia, relevancia y consideración que hubiere tenido la difusión original.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+1201 Septies.- Se presumirá que existe daño moral y se considerarán como hechos ilícitos, quedando sujetas a la reparación establecida en el artículo anterior, cuando se presenten las siguientes conductas:
+
+I. El que comunique a una o más personas la imputación que se hace a otra persona individual o colectiva, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio o exponerlo al desprecio de alguien;
+
+II. El que impute a otro un hecho determinado y calificado como delito por la ley, si el hecho es falso o inocente la persona a quien se le imputa. Lo anterior no será aplicable en el ejercicio de las atribuciones que la Constitución y la Ley le otorgan al Ministerio Público;
+
+III. El que presente denuncias o querellas calumniosas, entendiéndose por tales aquellas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquél no se ha cometido;
+
+IV. Al que ofenda el honor, ataque la vida privada o la imagen propia de una persona;
+
+V. Cuando una persona sea víctima de discriminación, humillación, acoso sexual;
+
+VI. Cuando una persona sea víctima del abuso de un derecho, o
+
+VII. A quien por cualquier red social impute a otra persona física o moral de un hecho cierto o falso, determinado o indeterminado, lesionándole o a través de una acción o una expresión, que afecte el honor, la dignidad, reputación o atentando contra su propia estima.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+1201 Octies.- En el caso del contenido publicado en redes sociales, si no fuese posible la localización de responsable del daño moral, la autoridad competente ordenará a la empresa encargada de dicha red social retirar inmediatamente el contenido causante del daño.
+
+En el caso de que la empresa responsable de la red social no retire de su plataforma digital el contenido causante del daño moral una vez que le haya sido ordenado, será responsable directa y la víctima del daño tendrá derecho de proceder en su contra ante la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+1201 Nonies.- En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiera causado tal conducta.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+1201 Decies.- La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
 
 1202.- Las personas que han causado en común un daño, son responsables solidariamente hacia la víctima por la reparación a que están obligadas de acuerdo con las disposiciones de este Capítulo.
 
@@ -8204,3 +8304,9 @@ P.O. 24 DE FEBRERO DE 2018.
 Artículo primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.COMUNÍQUESE (SIC) AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
+
+P.O. 6 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 578.- SE ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE ZACATECAS".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
