@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-videovigilancia-para-el-estado-de-zacatecas-130412"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-22"
-last_updated: "2018-08-22"
+last_updated: "2021-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 22 de agosto de 2018.
 
@@ -55,9 +55,11 @@ La presente Ley es de orden público, interés social y observancia general en e
 
 Los particulares y Prestadores del Servicio de Seguridad Privada se sujetarán a lo previsto en la presente Ley en lo referente a la instalación y utilización de los sistemas tecnológicos de videovigilancia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 2.
 
-La videovigilancia en materia de Seguridad Pública estará a cargo del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el cual llevará el control de la red estatal de videovigilancia por conducto del Centro de Control, Comando, Comunicaciones y Cómputo del Estado de Zacatecas.
+La videovigilancia en materia de Seguridad Pública estará a cargo de la Secretaría de Seguridad Pública, la cual llevará el control de la red estatal de videovigilancia por conducto del Centro de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia.
 
 Asimismo, son sujetos de esta regulación los particulares que dispongan de sistemas de videovigilancia en los espacios privados de acceso público.
 
@@ -67,7 +69,9 @@ Para efectos de esta Ley se entenderá por:
 
 I. Captar. Recibir imágenes con o sin sonido por medio de videocámaras;
 
-II. C4. Centro de Control, Comando, Comunicaciones y Cómputo del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
+
+II. Centro. Centro de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia;
 
 III. Grabar. Almacenar imágenes con o sin sonido en cualquier medio de soporte, de manera que se puedan reproducir;
 
@@ -78,6 +82,10 @@ V. Prestador de Servicios de Seguridad Privada. Persona física o jurídica que 
 VI. Secretariado Ejecutivo. El Secretariado Ejecutivo del Sistema de Seguridad Pública, Órgano Desconcentrado de la Secretaría General de Gobierno;
 
 VII. Secretario Ejecutivo. Al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2021)</small>
+
+VII. Bis. Secretaría. Secretaría de Seguridad Pública del Gobierno del Estado;
 
 VIII. Sistema de Videovigilancia. Conjunto organizado de dispositivos electrónicos o tecnológicos que cuenten con cámaras fijas o móviles que registren imágenes con o sin sonido y almacenen en cualquier medio tecnológico, análogo, digital, óptico o electrónico; en general a cualquier sistema de carácter similar que permita la grabación de imagen y sonido utilizadas para la videovigilancia;
 
@@ -109,11 +117,15 @@ No se podrá utilizar el sistema de videovigilancia para tomar imágenes y sonid
 
 La instalación de equipos y sistemas de videovigilancia se hará en lugares en los que contribuyan a prevenir, inhibir y combatir conductas ilícitas, así como a garantizar el orden y la tranquilidad de los habitantes.
 
-Los particulares y Prestadores del Servicio de Seguridad Privada que instalen en sus propiedades cámaras de videovigilancia deberán registrar el uso de ellas ante el C4 y este, a su vez, le otorgará un folio de inscripción, en los términos del Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+Los particulares y Prestadores del Servicio de Seguridad Privada que instalen en sus propiedades cámaras de videovigilancia deberán registrar el uso de ellas ante la Secretaría y esta, a su vez, le otorgará un folio de inscripción, en los términos del Reglamento de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 8.
 
-Los equipos de videovigilancia instalados por el C4 no podrán ser retirados por ninguna circunstancia, con excepción de aquellos casos en los que la autoridad determine que los equipos por su ubicación y características:
+Los equipos de videovigilancia instalados por la Secretaría no podrán ser retirados por ninguna circunstancia, con excepción de aquellos casos en los que la autoridad determine que los equipos por su ubicación y características:
 
 I. Han dejado de cumplir con los objetivos establecidos en el artículo 1 de esta Ley;
 
@@ -127,9 +139,11 @@ Los equipos y sistemas tecnológicos solo podrán ser instalados en bienes del d
 
 Para su instalación en cualquier otro lugar de naturaleza privada, se requerirá autorización por escrito del propietario o poseedor del lugar donde se pretendan ubicar los equipos y sistemas tecnológicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 10.
 
-Podrán solicitar ante el Secretario Ejecutivo, bajo su operación, resguardo y presupuesto, la instalación de equipos y sistemas tecnológicos, en lugares de uso común y con el fin de resguardar la seguridad pública:
+Podrán solicitar ante la Secretaría, bajo su operación, resguardo y presupuesto, la instalación de equipos y sistemas tecnológicos, en lugares de uso común y con el fin de resguardar la seguridad pública:
 
 I. El Titular de la Fiscalía General de Justicia;
 
@@ -151,11 +165,13 @@ IV. Intersecciones o cruceros viales más conflictivos o de alta comisión de de
 
 V. Zonas escolares, recreativas, comercios, instituciones bancarias, y lugares de alta afluencia de personas.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 12.
 
-La solicitud se hará por escrito, a la cual se le adjuntará la debida justificación, dirigida al Secretario Ejecutivo, quien determinará lo procedente, con base en los criterios a que hace referencia el artículo anterior.
+La solicitud se hará por escrito, a la cual se le adjuntará la debida justificación, dirigida a la Secretaría, quien determinará lo procedente, con base en los criterios a que hace referencia el artículo anterior.
 
-Una vez cumplidos los requisitos previstos en esta Ley, el Secretario Ejecutivo dará prioridad a la instalación en las zonas escolares, recreativas y lugares de mayor afluencia de público.
+Una vez cumplidos los requisitos previstos en esta Ley, la Secretaría dará prioridad a la instalación en las zonas escolares, recreativas y lugares de mayor afluencia de público.
 
 ###### Artículo 13.
 
@@ -193,7 +209,9 @@ I. Prevención de delitos, a través de la generación de inteligencia y de las 
 
 II. Investigación y persecución de delitos, sobre la información que las autoridades en materia de seguridad pública deben poner a disposición de la autoridad ministerial, para sustentar una detención, puesta a disposición o por requerimiento de ésta; al constar que en la información existe la comisión de un acto delictivo;
 
-III. La prevención de conductas ilícitas por parte del C4 y, en su caso, para la sanción de faltas administrativas, así como para la toma de decisiones en la materia, y
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
+
+III. La prevención de conductas ilícitas por parte de la Secretaría y, en su caso, para la sanción de faltas administrativas, así como para la toma de decisiones en la materia, y
 
 IV. Reacción inmediata, a través de los procedimientos que establezcan las autoridades correspondientes, para actuar de forma pronta y eficaz en los casos en los que, a través de la información obtenida por los equipos y sistemas de videovigilancia, se observe la comisión de un delito o falta administrativa y se esté en posibilidad jurídica y material de asegurar al presunto responsable.
 
@@ -201,7 +219,9 @@ IV. Reacción inmediata, a través de los procedimientos que establezcan las aut
 
 La información a que se refiere esta Ley no podrá obtenerse, clasificarse, custodiarse, o utilizarse como medio de prueba, en los siguientes casos:
 
-I. Cuando se clasifique, analice, custodie o utilice en contravención de la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
+
+I. Cuando se clasifique, analice, custodie o utilice en contravención de la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Datos Personales en Posesión de Sujetos Obligados, la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Zacatecas;
 
 II. Cuando se obtenga del interior de un domicilio sin consentimiento del titular o se violente el derecho a la vida privada de las personas, con la excepción de la comisión de un delito o por mandato judicial, y
 
@@ -215,15 +235,19 @@ En la utilización de equipos o sistemas de videovigilancia, así como en la obt
 
 En caso de que los particulares detecten por su propio sistema de videovigilancia la comisión de un delito o falta administrativa relacionada con la seguridad pública, estará obligado a dar parte a las autoridades de forma inmediata, poniendo a su disposición copia de las grabaciones.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 21.
 
-Las grabaciones captadas mediante el sistema de videovigilancia de las instituciones públicas, así como de los Prestadores del Servicio de Seguridad Privada y los particulares, serán almacenadas por el C4 hasta en tanto se considere viable su destrucción y serán guardadas en forma permanente cuando se encuentren relacionadas con conductas delictivas, investigaciones en materia de seguridad pública e infracciones administrativas graves.
+Las grabaciones captadas mediante el sistema de videovigilancia de las instituciones públicas, así como de los Prestadores del Servicio de Seguridad Privada y los particulares, serán almacenadas por la Secretaría hasta en tanto se considere viable su destrucción y serán guardadas en forma permanente cuando se encuentren relacionadas con conductas delictivas, investigaciones en materia de seguridad pública e infracciones administrativas graves.
 
 ### CAPÍTULO VI. ADMINISTRACIÓN Y DESTINO DE LA INFORMACIÓN
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 22.
 
-La información obtenida por los sistemas de videovigilancia, conforme a los lineamientos de la presente Ley, debe registrarse, clasificarse y tratarse de conformidad con lo establecido en la Ley de Transparencia y Acceso a la Información Pública y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados, ambas del Estado de Zacatecas.
+La información obtenida por los sistemas de videovigilancia, conforme a los lineamientos de la presente Ley, debe registrarse, clasificarse y tratarse de conformidad con lo establecido en la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Datos Personales en Posesión de Sujetos Obligados, la Ley de Transparencia y Acceso a la Información Pública y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados, ambas del Estado de Zacatecas.
 
 ###### Artículo 23.
 
@@ -253,9 +277,11 @@ Los servidores públicos que participen en la obtención, clasificación, análi
 
 Dichos servidores públicos deberán otorgar por escrito una promesa de confidencialidad que observarán en todo tiempo, aún después de que hayan cesado en el cargo en razón del cual se les otorgó el acceso.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 27.
 
-La autoridad que ventile un procedimiento administrativo seguido en forma de juicio, establecido en la normatividad correspondiente, deberá acatar las disposiciones de este capítulo cuando por razón de su encargo conozca o maneje información reservada a que hace referencia esta Ley y la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas.
+La autoridad que ventile un procedimiento administrativo seguido en forma de juicio, establecido en la normatividad correspondiente, deberá acatar las disposiciones de este capítulo cuando por razón de su encargo conozca o maneje información reservada a que hace referencia esta Ley, la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Datos Personales en Posesión de Sujetos Obligados, la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Zacatecas.
 
 ###### Artículo 28.
 
@@ -327,9 +353,13 @@ VII. Multa de 200 a 800 veces el valor diario de la unidad de medida y actualiza
 
 La aplicación e imposición de las sanciones previstas en la presente Ley se realizará en los siguientes términos:
 
-I. El Secretario Ejecutivo, recibida la queja o conocidos los hechos, actos y responsables, ordenará integrar el expediente correspondiente;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
 
-II. El Secretario Ejecutivo podrá realizar las diligencias y actividades que estime necesarias y oportunas para la debida integración del expediente respectivo;
+I. La Secretaría, recibida la queja o conocidos los hechos, actos y responsables, ordenará integrar el expediente correspondiente;
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
+
+II. La Secretaría podrá realizar las diligencias y actividades que estime necesarias y oportunas para la debida integración del expediente respectivo;
 
 III. Integrado el expediente se presentará en sesión del Consejo Estatal de Seguridad Pública, el cual acordará remitir el mismo acompañado de la solicitud de sanción al superior jerárquico u órgano facultado para imponer sanciones al responsable, y
 
@@ -337,7 +367,9 @@ IV. La imposición de las sanciones, tratándose de servidores públicos, se rea
 
 V. Las sanciones previstas en este ordenamiento serán aplicadas con independencia de las que resulten por la comisión de ilícitos en términos del Código Penal para el Estado de Zacatecas.
 
-El Reglamento de esta Ley determinará el procedimiento para la aplicación e imposición de sanciones previstas en esta Ley, así como los servidores públicos que habrán de auxiliar al Secretario Ejecutivo en el ejercicio de sus funciones de investigación, sustanciación e imposición de sanciones.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+El Reglamento de esta Ley determinará el procedimiento para la aplicación e imposición de sanciones previstas en esta Ley, así como los servidores públicos que habrán de auxiliar a la Secretaría y el Centro en el ejercicio de sus funciones de investigación, sustanciación e imposición de sanciones.
 
 ### CAPÍTULO X. MEDIOS DE DEFENSA
 
@@ -364,3 +396,21 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Segunda Legislatura del 
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el despacho del Poder Ejecutivo del Estado, a los doce días del mes de julio del año dos mil dieciocho. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 627.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS Y LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. El proceso de entrega recepción sobre los recursos humanos, financieros y materiales, se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado de Zacatecas y demás leyes y reglamentos aplicables.
+
+Artículo tercero. La Secretaría de Finanzas, en coordinación con las Secretarías, General de Gobierno y de Seguridad Pública, deberán realizar las adecuaciones presupuestales que resulten necesarias de conformidad con la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios y otros ordenamientos aplicables.
+
+Artículo cuarto. Dentro de los noventa días siguientes a la entrada en vigor de este Decreto, reformarán sus reglamentos internos para armonizarlos a esta reforma.
+
+Artículo quinto. Para los efectos de las consideraciones vertidas en el apartado de Valoración de la iniciativa, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizarse la reforma a la Ley Orgánica de la Administración Pública del Estado, la Ley del Sistema Estatal de Seguridad Pública de Zacatecas y otras disposiciones legales, para que el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, forme parte de la Secretaría de Seguridad Pública.
+
+Artículo sexto. Se derogan las disposiciones que se opongan a este Decreto.
