@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-inclusion-de-las-personas-con-discapacidad-del-1213
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-03"
-last_updated: "2019-06-26"
+last_updated: "2021-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento al Número 35 del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de mayo de 2017.
 
@@ -425,7 +425,9 @@ Acceso a la justicia
 
 Las personas con discapacidad tienen derecho a acceder a la justicia en igualdad de condiciones que las demás. En los procedimientos judiciales y administrativos en los que participen de forma directa o indirecta, tendrán derecho a recibir un trato digno, apropiado y en condiciones de igualdad.
 
-Tienen derecho a recibir asesoría y representación jurídica de forma gratuita en los términos que establezcan las leyes en la materia. Si fuese sometido a procedimiento penal, civil, familiar o de cualquier otra índole, las autoridades deberán orientarlo jurídicamente, respetando el derecho a solicitar ajustes razonables durante todo el proceso y garantizar la accesibilidad a la información en los formatos que elijan.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+Tienen derecho a recibir asesoría y representación jurídica de forma gratuita en los términos que establezcan las leyes en la materia. Si fuese sometido a procedimiento penal, civil, familiar o de cualquier otra índole, las autoridades deberán orientarlo jurídicamente, respetando el derecho a solicitar ajustes razonables durante todo el proceso; además, se les deberá proporcionar la sentencia en formato de lectura fácil, para que, mediante el uso de un léxico cotidiano, la persona con discapacidad comprenda lo resuelto, evitando tecnicismos y conceptos abstractos, garantizándoles la accesibilidad a la información.
 
 En los casos en que se involucren niñas, niños y adolescentes, las instituciones de administración, procuración e impartición de justicia observarán el principio del interés superior del niño.
 
@@ -1448,3 +1450,9 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Para el cumplimiento del presente Decreto, los Poderes Ejecutivo, Legislativo y Judicial, de acuerdo con su disponibilidad presupuestal, deberán determinar la contratación de intérpretes del Lenguaje de Señas Mexicana, o bien, la capacitación de servidores públicos en activo que pudieran desempeñar tales funciones.
+
+P.O. 6 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 447.- SE REFORMA LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
