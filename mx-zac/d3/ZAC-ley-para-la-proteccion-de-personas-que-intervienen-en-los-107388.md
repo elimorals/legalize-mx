@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-proteccion-de-personas-que-intervienen-en-los-10738
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-11"
-last_updated: "2015-04-11"
+last_updated: "2021-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY PARA LA PROTECCION DE PERSONAS QUE INTERVIENEN EN LOS PROCEDIMIENTOS PENALES EN EL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN LOS PROCEDIMIENTOS PENALES EN EL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 6 DE FEBRERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN LOS PROCEDIMIENTOS PENALES EN EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021 (ABROGADO).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de abril de 2015.
 
@@ -436,3 +438,17 @@ LIC. JAIME SANTOYO CASTRO.
 LA PROCURADORA GENERAL DE JUSTICIA
 
 DRA. LETICIA CATALINA SOTO ACOSTA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 577.- LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN LOS PROCEDIMIENTOS PENALES EN EL ESTADO DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. El Tribunal Superior de Justicia del Estado y la Fiscalía General de Justicia del Estado, en el ámbito de su respectiva competencia, promoverán la capacitación de los profesionistas que atenderán los preceptos de esta Ley.
+
+Tercero. Se abroga la Ley para la Protección de Personas que intervienen en los Procedimientos Penales en el Estado de Zacatecas, aprobada mediante Decreto #334, publicada en el Suplemento 2 al 29 del Periódico Oficial del Estado de Zacatecas, el sábado 11 de abril de 2015.
+
+Cuarto. Se derogan las disposiciones que se opongan a la presente Ley.
