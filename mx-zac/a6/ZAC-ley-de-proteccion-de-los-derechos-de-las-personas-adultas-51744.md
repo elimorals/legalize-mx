@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-de-los-derechos-de-las-personas-adultas-51744
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-24"
-last_updated: "2020-03-07"
+last_updated: "2021-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de junio de 2006.
 
@@ -245,7 +245,9 @@ g) Recibir orientación y capacitación en materia de salud, nutrición e higien
 
 h) A recibir de los centros públicos y privados de prevención y atención de la salud, de forma inmediata, el servicio que necesiten sin discriminación alguna; y,
 
-i) Contar con una cartilla médica y de autocuidado para el control de su salud, y como parte del paquete preventivo integral. Esta deberá ser expedida por los Servicios de Salud de manera gratuita.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+i) La realización de una evaluación geriátrica y contar con una cartilla médica y de autocuidado que dé seguimiento y testifique el estado general de salud de la persona adulta mayor, con el fin de conocer los cuidados que deberán efectuársele como parte del paquete preventivo integral para el control de su salud. La cartilla deberá ser expedida por la Secretaría de Salud del Estado de Zacatecas de manera gratuita;
 
 IV. A la educación, por tanto, se reconoce que tienen derecho a:
 
@@ -441,9 +443,11 @@ III. Diseñar a través de la Dirección de Registro Civil, campañas de regular
 
 IV. Las demás que le confiera esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 18.
 
-Corresponderá a los Servicios de Salud del Estado:
+Corresponderá a la Secretaría de Salud del Estado:
 
 I. La prestación de servicios públicos de salud integrales y de calidad, en todas las actividades de atención médica, de acuerdo con el grado de vulnerabilidad de la persona y de conformidad con las disposiciones jurídicas aplicables;
 
@@ -465,7 +469,9 @@ VIII. La atención especial en los programas de detección oportuna y tratamient
 
 IX. La suscripción de convenios con universidades públicas y privadas para recibir prestadores de servicio social en las áreas geriátricas y de gereontología;
 
-X. La práctica de exámenes de chequeo y monitoreo preventivo de la salud, cuando menos una vez al año, para recibir los tratamientos que requieran en caso de enfermedad;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
+
+X. La realización de una evaluación geriátrica por lo menos una vez al año, y en caso necesario, con mayor frecuencia, según requiera el estado de salud de la persona adulta mayor, así como la expedición gratuita de una cartilla médica de salud, misma que será utilizada indistintamente en las instituciones públicas y privadas; en la cual se especificará el estado general de salud, enfermedades crónicas, tipo de sangre, medicamentos y dosis administradas, reacciones e implementos para ingerirlos, alimentación o tipo de dieta suministrada, consultas médicas y asistencias a grupos de autocuidado, de las personas adultas mayores;
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
@@ -805,7 +811,9 @@ Se crea el Consejo de Coordinación Interinstitucional como órgano de coordinac
 
 I. La o el Titular del Poder Ejecutivo, quien fungirá como Presidenta o Presidente;
 
-II. La o el Director de los Servicios de Salud en el Estado, quien asumirá la Vicepresidencia;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
+
+II. La o el titular de la Secretaría de Salud en el Estado, quien asumirá la Vicepresidencia;
 
 III. La o el Director General del Sistema DIF Estatal, quien tendrá el carácter de Secretario Técnico;
 
@@ -1434,5 +1442,11 @@ P.O. 24 DE FEBRERO DE 2018.
 P.O. 7 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 301.- SE ADICIONA LA LEY DE PROTECCIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 6 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 446.- SE REFORMA LA LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS".]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
