@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107615"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-18"
-last_updated: "2019-08-24"
+last_updated: "2021-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 18 de abril de 2015.
 
@@ -783,9 +783,13 @@ Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda form
 
 Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, están obligados a tomar las medidas necesarias para prevenir, atender, proteger y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
 
-I. El descuido, negligencia, abandono y abuso físico, especialmente en la modalidad de castigo corporal, así como el abuso psicológico o sexual;
+I. El descuido, negligencia, abandono y abuso físico, especialmente en la modalidad de castigo corporal y humillante, así como el abuso psicológico o sexual;
+
+Castigo corporal o físico es todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligarlos a ponerse en posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve.
+
+Castigo humillante es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, así como cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
 
 II. La corrupción de personas menores de 18 años de edad;
 
@@ -1401,7 +1405,9 @@ III. Registrarlos dentro de los primeros sesenta días de vida;
 
 IV. Protegerlos contra toda forma de maltrato, violencia, adicciones, prejuicio, daño, agresión, discriminación, abuso sexual, explotación sexual y comercial, y lenocinio.
 
-Lo anterior implica que la facultad que tienen quienes ejercen la patria potestad, la tutoría o la custodia de las niñas, los niños y los adolescentes, no podrán al ejercerla atentar contra su integridad física o mental, ni actuar en menoscabo de su desarrollo.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
+
+Lo anterior implica que la facultad que tienen quienes ejercen la patria potestad, la tutoría o la custodia de las niñas, los niños y los adolescentes, o en su caso los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social y de cualquier otra índole que brinde asistencia no podrán al ejercerla para (sic) atentar contra su integridad física o mental, ni actuar en menoscabo de su desarrollo, ni mucho menos el castigo corporal y humillante.
 
 En los casos de esta fracción, será obligación de toda autoridad, participar en la protección de las niñas, los niños y los adolescentes y obligación de las autoridades judiciales, de procuración de justicia y de protección de éstos participar en todo momento oyendo los motivos por los cuales no desean vivir con él o la agresora, debiendo intervenir de oficio el Procurador, quien podrá aplicar las medidas provisionales que estime convenientes conforme a derecho;
 
@@ -1475,7 +1481,9 @@ II. Que las autoridades migratorias verifiquen la existencia de la autorización
 
 III. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstengan de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas; y
 
-IV. Que quienes tengan trato con niñas, niños y adolescentes se abstengan de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal.
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
+
+IV. Queda prohibido que quienes tengan trato con niñas, niños y adolescentes ejerza cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante.
 
 ###### Artículo 109.
 
@@ -3048,3 +3056,9 @@ P.O. 24 DE AGOSTO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, deberán elaborar o adecuar, según consideren conveniente, sus reglamentos, mecanismos y protocolos de actuación a que se refiere el presente Decreto, dentro de los 180 días naturales siguientes a la entrada en vigor del mismo.
+
+P.O. 6 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 411.- POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 49, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 102, ASÍ COMO, LA FRACCIÓN IV DEL ARTÍCULO 108 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA Y LOS ARTÍCULOS 300 BIS Y 423 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
