@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2020-04-11"
+last_updated: "2021-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -2437,11 +2437,11 @@ ART. 299.- En la línea recta los grados se cuentan por el número de generacion
 
 ART. 300.- En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideran, excluyendo la del progenitor o tronco común.
 
-> <small>(ADICIONADO, P.O. 25 DE MARZO DEL 2000)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
 
-ART. 300 BIS.- Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para una plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes vigentes.
+ART. 300 BIS.- Los integrantes de la familia en particular, niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con objeto de contribuir a su sano desarrollo para una plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes vigentes.
 
-Los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar.
+Los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar. Entendiendo como violencia intrafamiliar y como miembros de la familia, lo establecido en el artículo 25 de la Ley para la Prevención y Atención a la Violencia Intrafamiliar para el Estado de Colima.
 
 ### CAPITULO II. De los alimentos
 
@@ -3353,11 +3353,11 @@ ART. 422.- A las personas que tienen al menor bajo su patria potestad, incumbe l
 
 Cuando llegue a conocimiento de los consejos locales de tutela o de cualquier autoridad administrativa que dichas personas no cumplen con esa obligación, lo pondrán en conocimiento del Ministerio Público, para que promueva lo que corresponda.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
 
-ART. 423.- Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su cuidado, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+ART. 423.- Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guardia y custodia, así como los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, cuidado o de cualquier otra índole.
 
-La facultad de corregir, no implica infligir al menor actos de fuerza que atenten contra su integridad física o psíquica, en los términos señalados por la Ley para la Prevención y Atención a la Violencia Intrafamiliar.
+Queda prohibido que la madre, padre o cualquier persona que ejerzan la patria potestad, tutela o guardia, custodia y crianza de niñas, niños y adolescentes, utilice el castigo corporal o humillante como forma de corrección o disciplina.
 
 ART. 424.- El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el juez.
 
@@ -11810,3 +11810,9 @@ P.O. 11 DE ABRIL DE 2020.
 PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se concede un plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, para que la creación del Registro de Deudores Alimentarios Morosos del Estado de Colima, así como para que se realicen las adecuaciones necesarias a los Reglamentos del Registro Civil respectivos.
+
+P.O. 6 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 411.- POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 49, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 102, ASÍ COMO, LA FRACCIÓN IV DEL ARTÍCULO 108 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA Y LOS ARTÍCULOS 300 BIS Y 423 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
