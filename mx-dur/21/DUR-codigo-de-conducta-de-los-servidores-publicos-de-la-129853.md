@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-de-los-servidores-publicos-de-la-129853"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-06-28"
-last_updated: "2018-06-28"
+last_updated: "2021-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DE LA BENEMERITA Y CENTENARIA ESCUELA NORMAL DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA BENEMÉRITA Y CENTENARIA ESCUELA NORMAL DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 7 DE FEBRERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA BENEMÉRITA Y CENTENARIA ESCUELA NORMAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2021 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 28 de junio de 2018.
 
@@ -274,3 +276,17 @@ PRESIDENTE
 MTRA. JUANA GARCÍA
 
 DIRECTORA GENERAL DE LA INSTITUCIÓN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO.- DE CONDUCTA DE LA BENEMÉRITA Y CENTENARIA ESCUELA NORMAL DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente Código de Conducta fue aprobado por unanimidad de votos en la segunda reunión ordinaria del 2020 y 26 consecutiva de los integrantes de la H. Junta Directiva de la Benemérita y Centenaria Escuela Normal del Estado de Durango, mediante el acuerdo número 26.124.010920, celebrada el día 01 de septiembre de 2020.
+
+SEGUNDO.-EI presente acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+TERCERO.- Se abroga el Código de Conducta de Servidores Públicos de la Benemérita y Centenaria Escuela Normal del Estado de Durango, publicado en el Periódico Oficial del Gobierno del Estado de Durango el 28 de junio de 2018.
+
+CUARTO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Durango y en la página de internet de la Benemérita y Centenaria Escuela Normal del Estado de Durango.
