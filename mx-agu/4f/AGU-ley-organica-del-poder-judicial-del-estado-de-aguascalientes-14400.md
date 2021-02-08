@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2018-12-24"
+last_updated: "2021-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -45,39 +45,71 @@ LEY ORGANICA DEL PODER JUDICIAL
 
 ### CAPITULO I. De los Tribunales del Estado
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2021)</small>
 
 ###### ARTÍCULO 1o.
 
-El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, la Sala Administrativa, los Juzgados de Primera Instancia Civiles, Mercantiles, de Primera Instancia Penales que estará a cargo de Juzgados de Control, de Juicio Oral y de Ejecución, de Justicia para Adolescentes, Mixtos de Primera Instancia, Familiares y Mixtos Menores, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
+La presente Ley tiene por objeto establecer las bases para la organización y funcionamiento del Poder Judicial del Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+El Poder Judicial del Estado estará conformado por:
 
-###### ARTICULO 2o.
+I.- El Supremo Tribunal de Justicia.
 
-El Supremo Tribunal de Justicia, la Sala Administrativa y los Jueces, ejercerán su jurisdicción respectiva en el lugar, grado y términos que les asigna esta Ley, los Códigos Procesales, Ley del Procedimiento Contencioso Administrativo, la normatividad aplicable en materia de Justicia para Adolescentes y demás leyes vigentes.
+II.- La Sala Administrativa.
 
-###### ARTICULO 3o.
+III.- Los Juzgados:
 
-Son auxiliares de la administración de justicia y están obligados a cumplir las órdenes de las autoridades y servidores de este Ramo:
+a) Civiles;
 
-I.- Los Presidentes, Comisarios y Delegados Municipales;
+b) Mercantiles;
 
-II.- El Director General de Seguridad Pública y Vialidad;
+c) Familiares;
 
-III.- Los jefes y agentes de los cuerpos de la policía;
+d) Mixtos;
 
-IV.- Los intérpretes y peritos, síndicos, tutores, interventores, curadores, albaceas, depositarios, en las funciones que les sean encomendadas por la Ley;
+e) Laborales; y
 
-V.- El Director del Registro Civil;
+f) Penales, que serán:
 
-VI.- El Director del Registro Público de la Propiedad y del Comercio;
+1. De Control;
 
-VII.- Los Notarios Públicos en las funciones que les encomiende el Código de Procedimientos Civiles y demás disposiciones legales;
+2. De Juicio Oral;
 
-VIII.- Los árbitros; y
+3. De Ejecución;
 
-IX.- Los demás que designe la Ley.
+4. De Justicia para Adolescentes; y
+
+5. Del Sistema Tradicional.
+
+IV. El Consejo de la Judicatura Estatal.
+
+El Poder Judicial contará con la Contraloría Interna, así como con las unidades administrativas y órganos auxiliares necesarios para su funcionamiento, atendiendo a su condición presupuestal.
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2021)</small>
+
+###### ARTÍCULO 2o.
+
+El Supremo Tribunal de Justicia, la Sala Administrativa y los Jueces, ejercerán su función jurisdiccional respectiva en el lugar, grado y términos conforme a la legislación Federal, Nacional, General y Local, los tratados internacionales de los que el Estado Mexicano sea parte y demás normatividad aplicable.
+
+El lenguaje empleado en la presente Ley no busca generar ninguna distinción ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones en la redacción representan a ambos sexos, sin discriminación alguna.
+
+> <small>(REFORMADO P.O. 8 DE FEBRERO DE 2021)</small>
+
+###### ARTÍCULO 3o.
+
+Son auxiliares de la administración de justicia y están obligados a cumplir las órdenes de las autoridades jurisdiccionales, en el ámbito de sus competencias, los siguientes:
+
+I.- Dependencias y Entidades de la Administración Pública Estatal;
+
+II.- Ayuntamientos, Comisarios, Delegados, Dependencias y Entidades Municipales en el Estado;
+
+III.- Órganos Constitucionales Autónomos en el Estado;
+
+IV.- Intérpretes, peritos, tutores, interventores, curadores, albaceas, árbitros, depositarios, en las funciones que les sean encomendadas por Ley;
+
+V.- Notarios Públicos; y
+
+VI.- Los demás que determine la legislación y normatividad aplicable.
 
 ### CAPITULO II. Del Supremo Tribunal de Justicia
 
@@ -137,9 +169,9 @@ I.- Presentar Iniciativas de Ley ante la Legislatura del Estado, en asuntos que 
 
 II.- Expedir su Reglamento Interior, así como los acuerdos, lineamientos y reglamentos que rijan la organización y funcionamiento de sus dependencias y órganos auxiliares;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2021)</small>
 
-III.- Conocer de las competencias que se susciten en materia civil, mercantil, familiar o penal entre los Jueces del Estado y entre éstos y las autoridades administrativas del Estado;
+III.- Conocer de las competencias que se susciten en materia civil, mercantil, familiar, laboral o penal entre los Jueces del Estado y entre éstos y las autoridades administrativas del Estado;
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -285,17 +317,17 @@ IX.- Autorizar las erogaciones del presupuesto anual del Poder Judicial y llevar
 
 X.- Remitir al Juez competente los exhortos y despachos de acuerdo con el turno que al efecto se lleven;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2021)</small>
 
-XI.- Informar al Pleno del Supremo Tribunal de Justicia del Estado el nombramiento de los jueces y servidores públicos que nombre el Consejo de la Judicatura Estatal;
+XI.- Informar al Pleno del Supremo Tribunal de Justicia del Estado el nombramiento definitivo e interino de los Jueces y demás servidores públicos que nombre el Consejo de la Judicatura Estatal;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2021)</small>
 
-XII.- Nombrar al Oficial Mayor y a los directores de los órganos auxiliares, así como determinar la adscripción de los jueces civiles, mercantiles, familiares, penales, mixtos de primera instancia, mixtos menores, de ejecución y especializados en la impartición de justicia para adolescentes, secretarios y notificadores a las jurisdicciones que les correspondan;
+XII.- Determinar la adscripción de los Jueces, Secretarios, Notificadores, Ejecutores y Actuarios a las jurisdicciones que les correspondan;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2021)</small>
 
-XIII.- Informar al Pleno del Supremo Tribunal de Justicia del Estado el nombramiento interino de jueces, secretarios de acuerdos, proyectistas y actuarios, hasta que se hagan los nombramientos definitivos por el Consejo de la Judicatura Estatal;
+XIII.- Nombrar a los titulares de los órganos auxiliares;
 
 XIV.- Ejercer las atribuciones que le asigne el Reglamento Interior del Supremo Tribunal de Justicia;
 
@@ -555,15 +587,27 @@ III.- La Dirección de Notificadores Civiles y Mensajería;
 
 IV.- La Dirección de Notificadores Penales y Mensajería;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2021)</small>
 
-V.- La Dirección de Ejecutores; y
+V.- La Dirección de Ejecutores;
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
 VI.- La Dirección del Archivo Judicial;
 
 VII.- (DEROGADA, P.O. 25 DE MARZO DE 2013)
+
+> <small>(ADICIONADA P.O. 8 DE FEBRERO DE 2021)</small>
+
+VIII.- La Dirección del Instituto de Capacitación y el Centro de Mediación del Poder Judicial;
+
+> <small>(ADICIONADA P.O. 8 DE FEBRERO DE 2021)</small>
+
+IX.- La Dirección de Actuaría Laboral; y
+
+> <small>(ADICIONADA P.O. 8 DE FEBRERO DE 2021)</small>
+
+X.- Las demás necesarias para su funcionamiento, de acuerdo con su capacidad presupuestal y cumplimiento de la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
 
@@ -911,13 +955,17 @@ II. Las demás que establece la Ley del Sistema de Justicia para Adolescentes.
 
 ## TITULO SEGUNDO
 
-### CAPITULO I. De los Juzgados de Primera Instancia
+> <small>(REFORMADA SU DENOMINACIÓN P.O. 8 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2013)</small>
+### CAPITULO I. De los Juzgados
 
-###### ARTICULO 34.
+> <small>(REFORMADO, P.O. 08 DE FEBRRO DE 2021)</small>
 
-Habrá en el Estado los Juzgados de Primera Instancia Civiles, Mercantiles, Familiares, Mixtos, de Primera Instancia Penales que estará a cargo de Juzgados de Control, de Juicio Oral, de Ejecución y de Justicia para Adolescentes, que se distinguirán por los números ordinales que les correspondan, que sean necesarios para la pronta administración de justicia. El Consejo de la Judicatura acordará la creación de nuevos juzgados.
+###### ARTÍCULO 34.
+
+Habrá en el Estado los Juzgados descritos en el Artículo 1° de la presente Ley, los cuales se distinguirán por la materia de su especialización, así como por los números ordinales que les correspondan y que sean necesarios para la pronta administración de justicia.
+
+Para la creación de Juzgados se estará a lo que determine y acuerde el Consejo de la Judicatura Estatal.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
 
@@ -933,31 +981,41 @@ Para establecer los Partidos Judiciales, el Consejo de la Judicatura deberá tom
 
 Tratándose de diligencias que deban de practicarse en partido judicial distinto al del Juez competente, se estará a lo que dispone el Artículo 98 del Código de Procedimientos Civiles del Estado de Aguascalientes, en asuntos de materia civil, mercantil y familiar.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRRO DE 2021)</small>
 
-###### ARTICULO 36.
+###### ARTÍCULO 36.
 
-Los jueces de primera instancia civiles, mercantiles, familiares, mixtos de primera instancia, mixtos menores y de primera instancia penales que estarán a cargo de Juzgados de Control, de Juicio Oral, de Ejecución y de Justicia para Adolescentes, serán nombrados por el Consejo de la Judicatura Estatal, previo concurso de oposición que aprueben y obtendrán un nombramiento definitivo por diez años, durante los cuales serán inamovibles; sólo podrán ser removidos de sus cargos cuando observen mala conducta o previo juicio de responsabilidad respectivo o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud comprobada para el desempeño del mismo cargo que calificará el Consejo de la Judicatura Estatal.
+Los Jueces serán nombrados por el Consejo de la Judicatura Estatal, previo concurso de oposición que aprueben y obtendrán un nombramiento definitivo por diez años, durante los cuales serán inamovibles; sólo podrán ser removidos de sus cargos cuando observen mala conducta o previo juicio de responsabilidad respectivo o por falta de alguna de las cualidades que para tales cargos requiere la Ley así como por ineptitud comprobada para el desempeño del mismo cargo que calificará el Consejo de la Judicatura Estatal.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2021)</small>
 
-###### ARTICULO 37.
+###### ARTÍCULO 37.
 
-Para ser Juez de Primera Instancia, se requiere:
+Para ser Juez, se requiere, además de lo establecido en la Constitución Política del Estado de Aguascalientes, lo siguiente:
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
 
 I.- Ser mexicano por nacimiento y en pleno ejercicio de sus derechos civiles, con residencia mínima en el Estado de tres años anteriores a su nombramiento;
 
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
+
 II.- Ser Licenciado en Derecho, con experiencia profesional mínima de tres años anteriores a su nombramiento;
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
 
 III.- Ser de notoria moralidad y buenas costumbres; y
 
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
+
 IV.- No haber sido sentenciado por delito doloso con pena privativa de libertad.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2021)</small>
 
-###### ARTICULO 38.
+###### ARTÍCULO 38.
 
-Tanto los Juzgados Familiares como los Civiles y Mercantiles, recibirán demandas por turno, cuando y en la forma que lo disponga el Supremo Tribunal de Justicia del Estado. Los Juzgados Mixtos de Primera Instancia conocerán en sus respectivas jurisdicciones de todas las materias, a excepción de las reservadas para los Juzgados de Control, de Juicio Oral, de Ejecución y de Justicia para Adolescentes.
+Tanto los Juzgados Familiares como los Laborales, Civiles y Mercantiles, recibirán demandas por turno, cuando y en la forma que lo disponga el Supremo Tribunal de Justicia del Estado.
+
+Los Juzgados Mixtos conocerán en sus respectivas jurisdicciones de todas las materias, a excepción de las reservadas para los Juzgados Laborales, de Control, de Juicio Oral, de Ejecución y de Justicia para Adolescentes.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -1026,6 +1084,16 @@ XVII.- Los negocios de jurisdicción mixta;
 XVIII.- Depósito de personas; y
 
 XIX.- En los casos de interdicto a que se refiere el Artículo 377 del Código Civil.
+
+> <small>(ADICIONADO P.O. 8 DE FEBRERO DE 2021)</small>
+
+ARTÍCULO 40 A.- Los Juzgados Laborales son competentes, en términos del Artículo 123 Apartado A de la Constitución Política de los Estados Unidos Mexicanos, para conocer y resolver de:
+
+I.- Los asuntos y conflictos de trabajo que se susciten entre trabajadores y patrones, solo entre aquellos o solo entre estos, derivado de las relaciones de trabajo o de hechos relacionados con ellas, que no sean de competencia federal;
+
+II.- Los asuntos y conflictos colectivos de trabajo que no sean de competencia federal; y
+
+III.- Los demás asuntos que les sean conferidos por otras disposiciones aplicables en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2016)</small>
 
@@ -1151,6 +1219,14 @@ El Primer Secretario será el jefe inmediato de la oficina en el orden administr
 
 La adscripción de los Notificadores y Ejecutores quedará al arbitrio de lo que disponga el Supremo Tribunal de Justicia del Estado. Para la debida ejecución de las diligencias que les sean encomendadas, los Notificadores y Ejecutores ejercerán sus atribuciones en todo el territorio del Estado, independientemente de la Dirección o Juzgado al que hayan sido adscritos.
 
+> <small>(ADICIONADO P.O. 8 DE FEBRERO DE 2021)</small>
+
+En cada uno de los Juzgados Laborales habrá los Secretarios Instructores, Actuarios y demás personal necesario que disponga el Supremo Tribunal de Justicia con base en el Presupuesto de Egresos.
+
+> <small>(ADICIONADO P.O. 8 DE FEBRERO DE 2021)</small>
+
+Los Actuarios ejercerán sus atribuciones en todo el territorio del Estado, independientemente del Juzgado Laboral al que hayan sido adscritos.
+
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 43.
@@ -1175,27 +1251,41 @@ Las autoridades judiciales de la materia podrán utilizar los medios referidos p
 
 El Pleno del Supremo Tribunal de Justicia dictará los reglamentos o los acuerdos necesarios para normar el envío, recepción, trámite y almacenamiento de los citados medios para garantizar su seguridad y conservación, así como para determinar el acceso del público a la información contenida en las bases de datos, conforme a la Ley.
 
-###### ARTICULO 44.
+> <small>(REFORMADO P.O. 8 DE FEBRERO DE 2021)</small>
 
-Son atribuciones de los Jueces de Primera Instancia, corregir fundada y disciplinariamente las faltas de sus subalternos en los términos que prevengan las Leyes, dando cuenta al Supremo Tribunal de Justicia.
+###### ARTÍCULO 44.
 
-> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2018)</small>
+Son atribuciones de los Jueces, corregir fundada y disciplinariamente las faltas de sus subalternos en los términos que prevengan las Leyes, dando cuenta al Supremo Tribunal de Justicia.
 
-ARTICULO 44 A.- Los Juzgados de Primera Instancia Civiles, Mercantiles, de Primera Instancia Penales que estarán a cargo de Juzgados de Control, de Juicio Oral y de Ejecución, de Justicia para Adolescentes, Mixtos de Primera Instancia, Familiares y Mixtos Menores, están obligados a informar de manera expedita a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes, acerca de las situaciones en que exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, en caso de que dichas situaciones no estén en su ámbito de competencia.
+> <small>(REFORMADO P.O. 8 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 1995)</small>
+ARTÍCULO 44 A.- Los Juzgados están obligados a informar de manera expedita a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes y demás autoridades competentes, acerca de las situaciones en que exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, en caso de que dichas situaciones no estén en su ámbito de competencia.
 
-###### ARTICULO 45.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2021)</small>
 
-Para ser Secretario de Acuerdos o Secretario de Estudio y Proyectos de un Juzgado de Primera Instancia se requiere:
+###### ARTÍCULO 45.
+
+Para ser Secretario de Acuerdos, Secretario de Estudio y Proyectos o Secretario Instructor de un Juzgado, se requiere:
 
 I.- Ser ciudadano mexicano en ejercicio de sus derechos;
 
 II.- No haber sido condenado por la comisión de delito intencional con pena privativa de libertad;
 
-III.- Ser Licenciado en Derecho; y
+> <small>(REFORMADA P.O. 8 DE FEBRERO DE 2021)</small>
 
-IV.- Tener dos años de práctica forense.
+III.- Ser Licenciado en Derecho;
+
+> <small>(REFORMADA P.O. 8 DE FEBRERO DE 2021)</small>
+
+IV.- Tener dos años de práctica forense;
+
+> <small>(ADICIONADA P.O. 8 DE FEBRERO DE 2021)</small>
+
+V.- Tener conocimientos en la materia respectiva; y
+
+> <small>(ADICIONADA P.O. 8 DE FEBRERO DE 2021)</small>
+
+VI.- Cumplir con los demás requisitos que la legislación de la materia exija.
 
 ###### ARTICULO 46.
 
@@ -1239,6 +1329,14 @@ ARTICULO 46 BIS.- Son obligaciones de los Secretarios de Estudio y Proyectos:
 
 Auxiliar al Juez en la elaboración de proyectos de sentencias interlocutorias y definitivas y desempeñar las demás funciones que le encomiende el Juez.
 
+> <small>(ADICIONADO P.O. 8 DE FEBRERO DE 2021)</small>
+
+ARTÍCULO 46 TER.- Son obligaciones de los Secretarios Instructores, además de las establecidas en el artículo 46 de la presente Ley, las siguientes:
+
+I.- Las funciones que le encomiende el Juez; y
+
+II.- Las establecidas por la Ley Federal del Trabajo y demás legislación aplicable.
+
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 47.
@@ -1249,55 +1347,45 @@ Los Secretarios de Acuerdos tendrán fe pública en todo lo relativo al ejercici
 
 Los Ejecutores tendrán fe pública y será de su exclusiva atribución el practicar todas las diligencias de ejecución que le sean encomendadas.
 
-###### ARTICULO 49.
+> <small>(REFORMADO P.O. 8 DE FEBRERO DE 2021)</small>
 
-Los Notificadores tendrán fe pública en el desempeño de sus funciones.
+###### ARTÍCULO 49.
 
-###### ARTICULO 50.
+Los Notificadores y los Actuarios tendrán fe pública en el desempeño de sus funciones.
 
-Los servidores públicos tienen obligación de asistir a las horas de despacho y también a las extraordinarias que el Juez determine, dedicándose con eficiencia a sus labores, conforme a las órdenes que reciban del Juez y de los Secretarios de Acuerdos.
+> <small>(REFORMADO P.O. 8 DE FEBRERO DE 2021)</small>
+
+###### ARTÍCULO 50.
+
+Los servidores públicos tienen obligación de asistir a las horas de despacho y también a las extraordinarias que el Juez determine, dedicándose con eficiencia a sus labores, conforme a las órdenes que reciban del Juez, de los Secretarios de Acuerdos y/o de Estudio y Proyectos, así como de los Secretarios Instructores.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE FEBRERO DE 2021)</small>
 
 ### CAPITULO II. De los Juzgados Menores
 
-###### ARTICULO 51.
+###### ARTÍCULO 51.
 
-Habrá en los Municipios de Calvillo, Jesús María, San Francisco de los Romo, San José de Gracia, Pabellón de Arteaga, Rincón de Romos, Asientos, Tepezalá, Cosío y El Llano, Juzgados Menores Mixtos con jurisdicción dentro de los límites territoriales de los mismos.
+(DEROGADO, P.O. 8 DE FEBRERO DE 2021)
 
-###### ARTICULO 52.
+###### ARTÍCULO 52.
 
-Para ser Juez Menor Mixto, se requiere:
+(DEROGADO, P.O. 8 DE FEBRERO DE 2021)
 
-I.- Ser ciudadano mexicano;
+###### ARTÍCULO 53.
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
+(DEROGADO, P.O. 8 DE FEBRERO DE 2021)
 
-II.- Ser licenciado en Derecho;
+###### ARTÍCULO 54.
 
-III.- Tener buenos antecedentes de moralidad; y
-
-IV.- No haber sido condenado por delito intencional con pena privativa de libertad.
-
-###### ARTICULO 53.
-
-Los Jueces Menores Mixtos serán competentes:
-
-I.- Para conocer en materia civil de los negocios cuya cuantía no exceda de dos meses de salario mínimo general;
-
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
-
-II.- Para conocer en materia penal de los delitos cuya penalidad máxima señalada en el Código Penal para el Estado de Aguascalientes o alguna otra norma, no exceda de seis meses de prisión;
-
-III.- Para diligenciar exhortos o despachos que reciban y que sean de su competencia, cuando las diligencias deban realizarse dentro de su jurisdicción.
-
-###### ARTICULO 54.
-
-En los Juzgados Menores Mixtos actuará con el Juez un Secretario y tendrá la planta de empleados que fije el Presupuesto.
+(DEROGADO, P.O. 8 DE FEBRERO DE 2021)
 
 ### CAPITULO III. De los Peritos
 
-###### ARTICULO 55.
+> <small>(REFORMADO P.O. 8 DE FEBRERO DE 2021)</small>
 
-El Supremo Tribunal de Justicia formulará anualmente una lista de connotados profesionales de la localidad que desempeñarán el cargo de peritos y dentro de ellos se designarán los que sean terceros en discordia y los que deben nombrarse en rebeldía de las partes. La lista mencionada se dará a conocer oportunamente a todos los jueces.
+###### ARTÍCULO 55.
+
+El Supremo Tribunal de Justicia formulará anualmente una lista de connotados profesionales de la localidad que desempeñarán el cargo de peritos y dentro de ellos se designarán los que sean terceros en discordia y los que deben nombrarse en rebeldía de las partes, así como los que deberán emitir dictamen en materia laboral en los términos en los que establece la Ley Federal del Trabajo. La lista mencionada se dará a conocer oportunamente a todos los jueces.
 
 ###### ARTICULO 56.
 
@@ -1375,29 +1463,33 @@ Al concederse una licencia o aceptarse alguna renuncia, se dictarán las medidas
 
 (DEROGADO, P.O. 27 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO P.O. 8 DE FEBRERO DE 2021)</small>
 
-###### ARTICULO 68.
+###### ARTÍCULO 68.
 
-Las faltas absolutas de los jueces civiles, mercantiles, familiares, mixtos, de Control, de Juicio Oral, de Ejecución, de justicia para adolescentes y mixtos, se cubrirán con nuevos nombramientos de jueces interinos que durarán en su cargo un año, previa aprobación del concurso de oposición quienes podrán ser ratificados, pero para adquirir la titularidad se requiere el nombramiento definitivo del Consejo de la Judicatura Estatal en los términos del Artículo 36 de esta Ley.
+Las faltas absolutas de los Jueces, se cubrirán con nuevos nombramientos de Jueces Interinos que durarán en su cargo un año, previa aprobación del concurso de oposición quienes podrán ser ratificados, pero para adquirir la titularidad se requiere el nombramiento definitivo del Consejo de la Judicatura Estatal en los términos del Artículo 36 de esta Ley.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 Las faltas temporales que no excedan de quince días en materias distintas a la penal, se suplirán por el primer secretario de estudio y proyectos, con la sola limitación de que no podrá dictar sentencias definitivas e interlocutorias en materia civil y familiar.
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2021)</small>
 
-En los casos de impedimentos, recusación o excusa, conocerá del negocio de que se trate el juez que le siga en número y el último por el primero y en caso necesario, por los jueces de distinto ramo en el orden indicado, a excepción de los casos en materia penal, que se resolverán conforme a las reglas establecidas en el Código Nacional de Procedimientos Penales.
+En materia laboral, las ausencias temporales de los jueces que no excedan de quince días deberán suplirse por la persona que nombre la Presidencia del Supremo Tribunal de Justicia de entre quienes se encuentren habilitadas para desempeñar dicho puesto o de entre los secretarios instructores adscritos a otro juzgado, pero de ninguna manera podrá designarse para cubrir dichas ausencias a quien se haya desempeñado como secretario instructor en el mismo juzgado.
+
+> <small>(ADICIONADO P.O. 8 DE FEBRERO DE 2021)</small>
+
+En los casos de impedimentos, excusa o recusación, conocerá del negocio de que se trate el Juez que le siga en número y el último por el primero y en caso necesario, por los Jueces de distinto ramo en el orden indicado, a excepción de los casos en materia penal, que se resolverán conforme a las reglas establecidas en el Código Nacional de Procedimientos Penales. En materia laboral, se estará a lo dispuesto por la Ley Federal del Trabajo y demás disposiciones aplicables.
 
 ###### ARTICULO 69.
 
 Las faltas absolutas y temporales de los Jueces Menores Mixtos se suplirán: las primeras por nuevo nombramiento y las segundas por los Secretarios, que actuarán con testigos de asistencia, dictándose únicamente acuerdos de trámite. En los casos de impedimento o excusa, conocerá del negocio el Juez Menor más cercano.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2021)</small>
 
-###### ARTICULO 70.
+###### ARTÍCULO 70.
 
-Las faltas absolutas de los secretarios de estudio y proyectos se suplirán por nuevos nombramientos y las temporales o accidentales por los secretarios de acuerdos que designe el juez; las faltas absolutas de los secretarios de acuerdos se suplirán por nuevos nombramientos, las temporales o accidentales con testigos de asistencia designados por el juez respectivo; las funciones de dichos testigos se limitarán a la autorización de las resoluciones, trámites y demás diligencias judiciales, quedando a cargo del juez las demás funciones que la ley señale a los secretarios.
+Las faltas absolutas de los Secretarios de Estudio y Proyectos, así como de los Secretarios Instructores se suplirán por nuevos nombramientos y las temporales o accidentales por los Secretarios de Acuerdos o Instructores que designe el Juez; las faltas absolutas de los Secretarios de Acuerdos se suplirán por nuevos nombramientos, las temporales o accidentales con testigos de asistencia designados por el Juez respectivo; las funciones de dichos testigos se limitarán a la autorización de las resoluciones, trámites y demás diligencias judiciales, quedando a cargo del Juez las demás funciones que la ley señale a los Secretarios.
 
 ###### ARTICULO 71.
 
@@ -1419,9 +1511,9 @@ Las faltas de los demás servidores públicos de la administración de justicia,
 
 La Dirección del Archivo Judicial tendrá a su cargo la guarda y custodia de los expedientes, documentos y medios magnéticos o digitales provenientes de los archivos de trámite, una vez cumplido el plazo previsto para su conservación en los mismos.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2021)</small>
 
-El Secretario General de Acuerdos del Supremo Tribunal de Justicia, de la Sala Administrativa, así como los Secretarios de los Juzgados de Primera Instancia y Mixtos Menores, tendrán a su cargo y cuidado los expedientes, libros y demás muebles que se encuentren en su oficina.
+Los Secretarios Generales de Acuerdos del Supremo Tribunal de Justicia y de la Sala Administrativa; así como los Secretarios de los Juzgados, tendrán a su cargo y cuidado los expedientes, libros y demás muebles que se encuentren en su oficina.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -1441,15 +1533,15 @@ III.- Los expedientes concluidos que se hubieren iniciado ante el Supremo Tribun
 
 IV.- Los duplicados de los libros de entradas, archivos y demás que los jueces deben remitir; y
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2021)</small>
 
-V.- Los oficios, comunicaciones y documentos de cualquier clase que el Supremo Tribunal, la Sala Administrativa, los juzgados de primera instancia, mixtos menores, y las áreas administrativas remitan.
+V.- Los oficios, comunicaciones y documentos de cualquier clase que el Supremo Tribunal, la Sala Administrativa, los Juzgados y las áreas administrativas remitan.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2021)</small>
 
-###### ARTICULO 75.
+###### ARTÍCULO 75.
 
-En los archivos de los juzgados de primera instancia, de justicia para adolescentes, de ejecución y mixtos menores, se depositarán únicamente las actuaciones relativas a los negocios en trámite; los libros principales que deben llevarse; los oficios, circulares, leyes, decretos, comunicaciones y documentos que no deben agregarse a los expedientes en actual tramitación y sean de archivarse.
+En los archivos de los Juzgados, se depositarán únicamente las actuaciones relativas a los negocios en trámite; los libros principales que deben llevarse; los oficios, circulares, leyes, decretos, comunicaciones y documentos que no deben agregarse a los expedientes en actual tramitación y sean de archivarse.
 
 ###### ARTICULO 76.
 
@@ -1469,11 +1561,11 @@ Las copias certificadas y testimonios de documentos archivados sólo podrán exp
 
 Los documentos que obren en expedientes o actuaciones archivadas sólo podrán desglosarse para su entrega a quien tenga derecho a recibirlo.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2021)</small>
 
 ###### ARTÍCULO 80.
 
-Los reglamentos del Supremo Tribunal de Justicia, de la Sala Administrativa y de los Juzgados de Primera Instancia, de Justicia para Adolescentes, de Ejecución y Mixtos Menores, respectivamente, determinarán la forma en que deba establecerse la oficina del archivo judicial y detallarán los deberes del personal que tenga a su cargo dicha oficina.
+Los reglamentos del Supremo Tribunal de Justicia, de la Sala Administrativa y de los Juzgados, determinarán la forma en que deba establecerse la oficina del archivo judicial y detallarán los deberes del personal que tenga a su cargo dicha oficina.
 
 ### CAPITULO II. De las Excitativas de Justicia
 
@@ -1619,7 +1711,9 @@ I.- Nombrar a los Jueces y servidores públicos de carrera judicial, con excepci
 
 II.- Informar al Supremo Tribunal de Justicia de las renuncias y licencias que hayan tramitado los Jueces para separarse de su cargo;
 
-III.- Solicitar a los Jueces de Primera Instancia la substitución de uno o más de los Consejeros por ellos designados, cuando exista causa justificada;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2021)</small>
+
+III.- Solicitar a los Jueces la substitución de uno o más de los Consejeros por ellos designados, cuando exista causa justificada;
 
 IV.- Aceptar la renuncia de sus miembros, con excepción del Presidente y solicitar se cubran las vacantes por quien los designó;
 
@@ -2476,3 +2570,45 @@ P.O. 24 DE DICIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 446.- REFORMAS, DEROGACIONES Y ADICIONES A LA CONSUTUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO) Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESLADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Poderes Públicos en el Estado, deberán considerar las asignaciones presupuestales necesarias para la implementación de la reforma del sistema de justicia laboral.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del primer semestre del año 2021, se deberá expedir la Ley del Centro de Conciliación Laboral del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Los Juzgados Laborales y el Centro de Conciliación Laboral del Estado de Aguascalientes entrarán en funciones una vez que el H. Congreso del Estado emita la declaratoria correspondiente, en términos del Artículo Vigésimo Cuarto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación de fecha 01 mayo de 2019. El Centro de Conciliación Laboral del Estado de Aguascalientes deberá entrar en operación, en la misma fecha en que lo hagan los Juzgados Laborales, conforme a las disposiciones previstas en el presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Comisión Ejecutiva para la Implementación de la Reforma en materia de Justicia Laboral en el Estado de Aguascalientes, quien funge como el grupo interinstitucional que tiene por objeto ejecutar y coordinar las políticas, programas y acciones tendientes a la implementación de la reforma en materia de Justicia Laboral, en términos de la Estrategia Nacional para la Implementación del Sistema de Justicia Laboral, deberá establecer las acciones necesarias para dar cumplimiento en tiempo y forma a cada una de las estrategias que deban implementarse en el Estado, con pleno respeto a las atribuciones de los Poderes en la Entidad, así como de las instituciones y autoridades que intervengan.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos que se encuentren en trámite ante la Junta Local de Conciliación y Arbitraje, serán concluidos por ésta de conformidad con las disposiciones vigentes al momento de su inicio.
+
+La Junta Local de Conciliación y Arbitraje, continuará conociendo de los procedimientos individuales, colectivos y registrales que se inicien con posterioridad a la entrada en vigor del presente Decreto y la Procuraduría de la Defensa del Trabajo así como la Dirección General del Trabajo continuarán desahogando los trámites de conciliación de comienzo posterior al inicio de vigencia del mismo, lo anterior hasta en tanto entren en funciones los Juzgados Laborales y el Centro de Conciliación Laboral del Estado de Aguascalientes, respectivamente, conforme a los plazos previstos en las disposiciones transitorias del presente Decreto; la competencia de la Junta Local en materia registral quedará sujeta, además, a las disposiciones que emita el Consejo de Coordinación para la Implementación de la Reforma al Sistema de Justicia Laboral.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las convocatorias a concurso para la selección de personal de los Juzgados Laborales serán de carácter abierto y garantizarán el derecho de participar en igualdad de oportunidades al personal de la Junta Local de Conciliación y Arbitraje.
+
+###### ARTÍCULO OCTAVO.
+
+Los derechos laborales de las y los trabajadores de las instituciones que se vean involucradas en esta transición deberán ser respetados en su totalidad. Las autoridades llevarán a cabo todas las acciones de carácter administrativo para garantizar que se protejan y conserven los derechos de seguridad social, de acuerdo con las leyes aplicables.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
