@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2020-05-18"
+last_updated: "2021-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -1155,13 +1155,13 @@ De la Inviolabilidad de esta Constitución.
 
 El Poder Judicial es el encargado de impartir justicia, aplicando las Leyes con plena independencia en el ejercicio de sus atribuciones jurisdiccionales y para la administración de su presupuesto.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2021)</small>
 
-El Poder Judicial del Estado está conformado por el Supremo Tribunal de Justicia del Estado, la Sala Administrativa, los Juzgados de Primera Instancia, los Jueces de Ejecución, Mixtos Menores, Jueces de Preparación y Especializados en Adolescentes y el Consejo de la Judicatura Estatal, que tiene a su cargo la carrera judicial.
+El Poder Judicial del Estado está conformado por el Supremo Tribunal de Justicia del Estado, la Sala Administrativa, los Juzgados y el Consejo de la Judicatura Estatal, que tiene a su cargo la carrera judicial.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2021)</small>
 
-Las condiciones para el ingreso, formación y permanencia, en los diversos órganos jurisdiccionales que conforman al Poder Judicial, así como las facultades y obligaciones de éstos y de los servidores públicos que los integran, se regirán por lo dispuesto en esta Constitución, en la Ley Orgánica del Poder Judicial y en sus Reglamentos.
+Las condiciones para el ingreso, formación y permanencia, en los diversos órganos jurisdiccionales que conforman al Poder Judicial, así como las facultades y obligaciones de éstos y de los servidores públicos que los integran, se regirán por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, la Ley Orgánica del Poder Judicial y demás legislación aplicable.
 
 La representación del Poder Judicial de Aguascalientes corresponde al Supremo Tribunal de Justicia del Estado, por conducto de su Presidente.
 
@@ -1233,33 +1233,71 @@ Si dentro del término de siete días hábiles de haber sometido la terna para M
 
 Si dentro del término referido el Congreso del Estado rechaza la terna propuesta por el Ejecutivo del Estado, éste propondrá una nueva terna de entre la cual el Congreso del Estado deberá elegir al Magistrado en un término de cinco días hábiles.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 55.
 
-Los juzgados estarán a cargo de los jueces que nombrará el Consejo de la Judicatura Estatal, en número, categoría y especialidad que éste y la Ley Orgánica del Poder Judicial determinen; los aspirantes a ocupar los cargos referidos, deberán cumplir con los requisitos establecidos en el Artículo 53 de esta Constitución, a excepción de la edad y experiencia profesional que se fijarán en la Ley Orgánica del Poder Judicial.
+Los Juzgados estarán a cargo de los jueces que nombrará el Consejo de la Judicatura Estatal, en número, categoría y especialidad que éste y la Ley Orgánica del Poder Judicial determinen; los aspirantes a ocupar los cargos referidos, deberán cumplir con los requisitos establecidos en el Artículo 53 de esta Constitución, a excepción de la edad y experiencia profesional que se fijarán en la Ley Orgánica del Poder Judicial, debiendo acreditar, además, conocimientos en la materia y cumplir con aquellos que la legislación aplicable exija.
 
-El Consejo de la Judicatura Estatal se integrará por siete miembros, de los cuales uno será el Presidente del Supremo Tribunal de Justicia del Estado que fungirá también como Presidente del Consejo; uno nombrado por los jueces de primera instancia en Materia Penal y otro nombrado por los jueces en las Materias Civil, Mixta y Familiar, ambos electos de entre ellos mismos; dos serán nombrados por el Congreso del Estado, los cuales no podrán ser Diputados Propietarios o Suplentes y dos nombrados por el Ejecutivo Estatal.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE FEBRERO DE 2021)</small>
+
+El Consejo de la Judicatura Estatal se integrará por siete miembros, y estará conformado de la siguiente manera:
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2021)</small>
+
+I.- El Presidente del Supremo Tribunal de Justicia del Estado que fungirá también como Presidente del Consejo;
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2021)</small>
+
+II.- Un juez nombrado por los jueces en materia Penal y Laboral, electo entre ellos mismos;
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2021)</small>
+
+III.- Un juez nombrado por los jueces en materia Civil, Mercantil, Mixta y Familiar, electo de entre ellos mismos;
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2021)</small>
+
+IV.- Dos representantes nombrados por el Congreso del Estado, los cuales no podrán ser Diputados Propietarios o Suplentes; y
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2021)</small>
+
+V.- Dos representantes nombrados por el Ejecutivo Estatal.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 Los Consejeros deberán reunir los requisitos que la Ley determine y durarán en su encargo tres años, y serán sustituidos en forma escalonada por sextas partes; el Presidente durará el mismo tiempo que dure en su encargo como Presidente del Supremo Tribunal de Justicia.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+
 El Consejo estará facultado para expedir acuerdos para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la Ley, así como para coadyuvar en la elaboración del presupuesto de egresos del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 56.
 
-Los Jueces de Primera Instancia deberán ser nombrados mediante un concurso de oposición, aplicado por el Consejo de la Judicatura Estatal, como se disponga en la Ley respectiva.
+Los Jueces deberán ser nombrados mediante un concurso de oposición, aplicado por el Consejo de la Judicatura Estatal, como se disponga en la Ley Orgánica del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 Los Magistrados que integren el Pleno del Supremo Tribunal de Justicia del Estado y la Sala Administrativa, durarán en su encargo quince años; sólo podrán ser sustituidos cuando sobrevenga defunción, incapacidad física o mental permanente, o removidos por mala conducta debidamente comprobada, calificada por el Consejo de la Judicatura Estatal o previo juicio de responsabilidad ante el Congreso del Estado, en cuyo caso serán destituidos. Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa percibirán la remuneración y prestaciones que establezca el Presupuesto de Egresos del ejercicio fiscal correspondiente, las cuales deberán ser iguales para todos los Magistrados.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+
 Durante los dos años siguientes a la fecha de su retiro, las personas que hayan ocupado el cargo de Magistrados que integren el Pleno del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa quedarán impedidos para actuar como patronos, abogados o representantes, en todo tipo de procedimientos tramitados ante los órganos del Poder Judicial del Estado.
 
-Los Jueces de Primera Instancia, salvo que sean removidos por causa de mala conducta debidamente comprobada, conforme a los lineamientos conducentes del segundo párrafo de este Artículo, durarán diez años en el ejercicio de su encargo al término de los cuales, atendiendo a los procedimientos de evaluación establecidos en la Ley Orgánica del Poder Judicial, podrán ser ratificados o ascendidos en la carrera judicial.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2021)</small>
 
-Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa podrán ser reelectos en los términos que establezca la Ley Orgánica del Poder Judicial del Estado de Aguascalientes; los Jueces de Primera Instancia no podrán ser ratificados o ascendidos en caso de mala conducta debidamente comprobada o hayan sido removidos del cargo.
+Los Jueces, salvo que sean removidos por causa de mala conducta debidamente comprobada, conforme a los lineamientos conducentes del segundo párrafo de este Artículo, durarán diez años en el ejercicio de su encargo al término de los cuales, atendiendo a los procedimientos de evaluación establecidos en la Ley Orgánica del Poder Judicial, podrán ser ratificados o ascendidos en la carrera judicial.
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2021)</small>
+
+Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa podrán ser ratificados en los términos que establezca la Ley Orgánica del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 Los Magistrados que integren el Pleno del Supremo Tribunal de Justicia percibirán un haber por retiro al concluir el período para el que fueron designados; los de la Sala Administrativa tendrán el mismo derecho siempre y cuando no continúen con la carrera judicial, lo anterior conforme a lo dispuesto en la Ley Orgánica del Poder Judicial del Estado de Aguascalientes y el Presupuesto de Egresos respectivo.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 Las renuncias de los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa, serán sometidas al Consejo de la Judicatura Estatal, y si éste las acepta, las enviará para su aprobación al Congreso del Estado.
 
@@ -3340,3 +3378,45 @@ Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía,
 ###### ARTÍCULO TERCERO.
 
 Dentro de los siguientes 90 días naturales, contados a partir del inicio de vigencia del presente decreto, se realizarán las adecuaciones a la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes y su Reglamento.
+
+P.O. 8 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 446.- REFORMAS, DEROGACIONES Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO) Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Poderes Públicos en el Estado, deberán considerar las asignaciones presupuestales necesarias para la implementación de la reforma del sistema de justicia laboral.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del primer semestre del año 2021, se deberá expedir la Ley del Centro de Conciliación Laboral del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Los Juzgados Laborales y el Centro de Conciliación Laboral del Estado de Aguascalientes entrarán en funciones una vez que el H. Congreso del Estado emita la declaratoria correspondiente, en términos del Artículo Vigésimo Cuarto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación de fecha 01 mayo de 2019. El Centro de Conciliación Laboral del Estado de Aguascalientes deberá entrar en operación, en la misma fecha en que lo hagan los Juzgados Laborales, conforme a las disposiciones previstas en el presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Comisión Ejecutiva para la Implementación de la Reforma en materia de Justicia Laboral en el Estado de Aguascalientes, quien funge como el grupo interinstitucional que tiene por objeto ejecutar y coordinar las políticas, programas y acciones tendientes a la implementación de la reforma en materia de Justicia Laboral, en términos de la Estrategia Nacional para la Implementación del Sistema de Justicia Laboral, deberá establecer las acciones necesarias para dar cumplimiento en tiempo y forma a cada una de las estrategias que deban implementarse en el Estado, con pleno respeto a las atribuciones de los Poderes en la Entidad, así como de las instituciones y autoridades que intervengan.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos que se encuentren en trámite ante la Junta Local de Conciliación y Arbitraje, serán concluidos por ésta de conformidad con las disposiciones vigentes al momento de su inicio.
+
+La Junta Local de Conciliación y Arbitraje, continuará conociendo de los procedimientos individuales, colectivos y registrales que se inicien con posterioridad a la entrada en vigor del presente Decreto y la Procuraduría de la Defensa del Trabajo así como la Dirección General del Trabajo continuarán desahogando los trámites de conciliación de comienzo posterior al inicio de vigencia del mismo, lo anterior hasta en tanto entren en funciones los Juzgados Laborales y el Centro de Conciliación Laboral del Estado de Aguascalientes, respectivamente, conforme a los plazos previstos en las disposiciones transitorias del presente Decreto; la competencia de la Junta Local en materia registral quedará sujeta, además, a las disposiciones que emita el Consejo de Coordinación para la Implementación de la Reforma al Sistema de Justicia Laboral.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las convocatorias a concurso para la selección de personal de los Juzgados Laborales serán de carácter abierto y garantizarán el derecho de participar en igualdad de oportunidades al personal de la Junta Local de Conciliación y Arbitraje.
+
+###### ARTÍCULO OCTAVO.
+
+Los derechos laborales de las y los trabajadores de las instituciones que se vean involucradas en esta transición deberán ser respetados en su totalidad. Las autoridades llevarán a cabo todas las acciones de carácter administrativo para garantizar que se protejan y conserven los derechos de seguridad social, de acuerdo con las leyes aplicables.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
