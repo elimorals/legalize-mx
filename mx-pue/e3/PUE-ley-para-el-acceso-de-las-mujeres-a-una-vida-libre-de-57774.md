@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2020-12-31"
+last_updated: "2021-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2021.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -467,9 +467,11 @@ XXII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de d
 
 La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en esta Ley y en el Código antes referido.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2021)</small>
+
 SECIÓN (SIC) QUINTA
 
-DE LA VIOLENCIA FEMINICIDA
+DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -481,11 +483,19 @@ Violencia feminicida es la manifestación extrema de violencia contra las mujere
 
 En los casos de feminicidio se aplicarán las sanciones previstas en el Código Penal del Estado Libre y Soberano de Puebla y demás Leyes aplicables.
 
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2021)</small>
+
+ARTÍCULO 22 BIS.- Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
+
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 23.
 
 En el caso de que se declare una alerta de violencia de género contra las mujeres en el territorio del Estado, la persona Titular del Poder Ejecutivo, deberá tomar todas las medidas indicadas en sus resolutivos estableciendo un programa de trabajo que dé cumplimiento a las medidas de prevención, seguridad y justicia, así como cualquier otra indicada en la declaratoria para hacer frente a la contingencia en la entidad y abatir la violencia feminicida, asignándose los recursos presupuestales, humanos y materiales necesarios para hacerle frente. Así mismo, deberá emitir un mensaje a la ciudadanía de cero tolerancia, ante la comisión de conductas violentas en contra de las mujeres y niñas, el cual se deberá difundir, además de en español, en las principales lenguas indígenas que se hablen en la entidad, en todos los medios masivos de comunicación y radios comunitarias, así como a través de medios que sean accesibles para personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2021)</small>
+
+La persona Titular del Poder Ejecutivo Estatal, en coordinación con la o las personas titulares de los ayuntamientos son responsables de las acciones y del cumplimiento de todas las medidas indicadas en los resolutivos de la Declaratoria de Alerta de Violencia de Género contra las Mujeres. Así mismo, los municipios declarados en alerta de violencia de género contra las mujeres deberán instalar una comisión especial para dar seguimiento y evaluación de las acciones y medidas que este realice en cumplimiento de todas las medidas indicadas en los resolutivos de la Declaratoria, así como de las acciones vinculadas a la prevención, combate y erradicación de los tipos y modalidades de violencias en contra de las mujeres.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE MARZO DE 2020)</small>
 
@@ -1900,6 +1910,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 31 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II Y III DEL ARTÍCULO 53, EL 54, EL 56; Y ADICIONA LA SECCIÓN SÉPTIMA DENOMINADA "DE LA VIOLENCIA EN EL NOVIAZGO", AL TÍTULO SEGUNDO, CAPÍTULO II, LOS ARTÍCULOS 23 TER, 23 QUATER Y 23 QUINQUIES, TODOS DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA."
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DE LA SECCIÓN QUINTA DEL TÍTULO SEGUNDO DEL CAPÍTULO II PARA QUEDAR COMO “DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES” Y SE ADICIONA EL ARTÍCULO 22 BIS Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 23 TODOS DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA."
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
