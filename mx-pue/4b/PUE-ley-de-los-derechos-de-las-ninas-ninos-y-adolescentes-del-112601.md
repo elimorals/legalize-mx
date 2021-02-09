@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2020-12-31"
+last_updated: "2021-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -153,7 +153,11 @@ VII. Consejo Técnico de Adopciones: Es un cuerpo colegiado coadyuvante de la as
 
 VIII. Diseño Universal de Accesibilidad: El diseño de productos, programas y servicios que puedan utilizar niñas, niños y adolescentes, así como las ayudas técnicas que permitan su optimización, para los casos de discapacidad;
 
-IX. Discriminación: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que por diversas condiciones, ven anulados o menoscabados sus derechos;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2021)</small>
+
+IX. Discriminación: La negación, exclusión, distinción, menoscabo, impedimento, restricción, anulación o preferencia, de alguno o algunos de los derechos humanos o libertades de las personas, grupos y comunidades en situación de discriminación, imputables a personas físicas o jurídicas o entes públicos con intención o sin ella, dolosa o culpable, por acción u omisión, que no sea objetiva, racional ni proporcional, por razón de su origen étnico o nacional, color de piel, cultura, lengua, sexo, género, identidad indígena, de género, expresión de rol de género, edad, discapacidad, condición jurídica, social o económica, apariencia física, condiciones de salud, características genéticas, situación migratoria, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, orientación o preferencia sexual, estado civil, situación familiar, responsabilidades familiares, idioma, antecedentes penales, por su forma de pensar, vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos humanos, así como la igualdad de las personas.
+
+También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
 
 X. Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta el segundo grado;
 
@@ -236,6 +240,16 @@ A falta de disposición expresa en la Constitución Política de los Estados Uni
 Es obligación de toda persona o autoridad, especialmente quienes por su profesión o función detecten o tengan conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, la violación de sus derechos, o que perciba alguna situación de abuso, desatención, maltrato o violencia física, psicológica o sexual o de cualquier otro tipo generada en contra de niñas, niños y adolescentes, prestarle el auxilio inmediato correspondiente, hacerlo del conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente, y en su caso, instrumentar las medidas cautelares, de protección y de restitución integrales procedentes, en términos de las disposiciones aplicables.
 
 Es deber de la familia, la comunidad a la que pertenecen, del Estado y Municipios, y en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de los derechos de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2021)</small>
+
+###### ARTÍCULO 11 Bis.
+
+En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
+
+Se respetarán los usos, costumbres y prácticas culturales, siempre y cuando no vulneren o restrinjan los derechos de las niñas, niños y adolescentes.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómicos, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, por determinación judicial que ordene la privación de la libertad de madres, padres, tutores o personas que ejerzan su guarda y custodia, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
@@ -1189,13 +1203,17 @@ X. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violenc
 
 XI. Considerar la opinión y fomentar la participación de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2021)</small>
 
-XII. Procurar evitar el uso de juguetes, videojuegos o la visualización de programas u cualquier otro medio de entretenimiento o diversión, que induzca a la violencia o afecte su sano desarrollo, y
+XII. Procurar evitar el uso de juguetes, videojuegos o la visualización de programas u cualquier otro medio de entretenimiento o diversión, que induzca a la violencia o afecte su sano desarrollo;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2021)</small>
 
-XIII. Fomentar la educación y uso responsable de las tecnologías de la información y la comunicación.
+XIII. Procurar que las niñas, niños y adolescentes reciban oportunamente las vacunas contenidas en el Programa de Vacunación Universal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE FEBRERO DE 2021)</small>
+
+XIV. Fomentar la educación y uso responsable de las tecnologías de la información y la comunicación.
 
 En casos de controversia, el órgano jurisdiccional competente determinará el grado de responsabilidad de quien tenga a su cargo y cuidado a niñas, niños o adolescentes, en términos de las leyes aplicables.
 
@@ -1929,7 +1947,7 @@ SÉPTIMO. A la entrada en vigor del presente Decreto, se abroga la Ley de Protec
 
 OCTAVO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-EL GOBERNADOR, hará publicar y cumplir la presente Disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de junio de dos mil quince. Diputada Presidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputado Vicepresidente. CARLOS IGNACIO MIER BAÑUELOS. Rúbrica. Diputado Secretario. PABLO MONTIEL SOLANA. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica.
+EL GOBERNADOR, hará publicar y cumplir la presente Disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de junio de dos mil quince. Diputada Presidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputado Vicepresidente. CARLOS IGNACIO MIER BAÑUELOS. Rúbrica. Diputado Secretario. PABLO MONTIEL SOLANA. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en la sede del Poder Ejecutivo del Estado, en la Cuatro Veces Heroica Puebla de Zaragoza a los tres días del mes de junio de dos mil quince. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Encargado de Despacho de la Secretaría General de Gobierno. C. JORGE BENITO CRUZ BERMÚDEZ. Rúbrica.
 
@@ -2071,11 +2089,27 @@ P.O. 31 DE DICIEMBRE DE 2020.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO. Se derogan todas las disposiciones que opongan al presente Decreto.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 31 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VI Y VII Y ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 103 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 5 Y ADICIONA EL ARTÍCULO 11 BIS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XII Y XIII DEL ARTÍCULO 98 Y ADICIONA LA FRACCIÓN XIV AL 98 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
