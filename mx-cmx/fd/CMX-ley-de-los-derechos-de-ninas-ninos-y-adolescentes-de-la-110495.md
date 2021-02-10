@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2020-12-01"
+last_updated: "2021-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE FEBRERO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -120,87 +120,197 @@ I. Accesibilidad: Medidas que debe cumplir el entorno físico, el transporte, la
 
 II. Acciones Afirmativas: Acciones de carácter temporal, de políticas y prácticas de índole legislativa, administrativa y jurisdiccional que son correctivas, compensatorias y de promoción, encaminadas a acelerar la igualdad sustantiva entre niñas, niños y adolescentes;
 
-III. Abandono: La situación de desamparo que vive una niña, niñooadolescente (sic) cuando los progenitores, tutores o responsables de su cuidado dejan de proporcionales los medios básicos de subsistencia y los cuidados necesarios para su desarrollo integral sin perjuicio de lo que prevengan otras leyes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-IV. Acciones y mecanismos de Participación: Aquéllas que deben realizarse por las autoridades o servidores públicos de la Ciudad de México, familia y sociedad a fin de que las niñas, niños y adolescentes estén informados, se formen una opinión propia, que la expresen y puedan participar y organizarse en torno a sus intereses;
+III. Abandonado: Se considera abandonado a la niña, niño o adolescente que se encuentre en situación de desamparo por quienes conforme a la Ley estén obligados a su custodia, protección y cuidado y cuyo origen se conoce;
 
-> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
 
-V. Acciones de Prevención: Aquéllas que deben realizarse por las autoridades o servidores públicos de la Ciudad de México, familia y sociedad a fin de evitar el deterioro de las condiciones de vida de las niñas, niños y adolescentes, así como las situaciones que pongan en riesgo su supervivencia y desarrollo, siendo importante la prevención de cualquier tipo de victimización de carácter sexual que pudiese presentarse por personas sentenciadas por tales conductas delictivas;
+IV. Abandono: La situación de desamparo que vive una niña, niño o adolescente cuando los progenitores, tutores o responsables de su cuidado dejan de proporcionales los medios básicos de subsistencia y los cuidados necesarios para su desarrollo integral sin perjuicio de lo que prevengan otras leyes;
 
-VI. Acciones de Protección: Aquéllas que deben realizarse por las autoridades o servidores públicos de la Ciudad de México, familia y sociedad a fin de proporcionar bienes o servicios a las niñas, niños y adolescentes que se encuentran en condiciones de desventaja social, o cuyas condiciones de vida estén deterioradas, a efecto de restituirlas y protegerlas;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-VII. Acciones de Provisión: Aquéllas que deben realizarse por las autoridades o servidores públicos de la Ciudad de México, familia y sociedad a fin de garantizar la sobrevivencia, bienestar y desarrollo pleno de las niñas, niños y adolescentes para dar satisfacción a sus derechos;
+V. Acciones y mecanismos de Participación: Aquéllas que deben realizarse por las autoridades o servidores públicos de la Ciudad de México, familia y sociedad a fin de que las niñas, niños y adolescentes estén informados, se formen una opinión propia, que la expresen y puedan participar y organizarse en torno a sus intereses;
 
-VIII. Acogimiento o cuidados alternativos: es la institución o figura jurídica mediante la cual una persona asume, de manera temporal, el cuidado y atención integral de un niño, niña o adolescente en situación de desamparo, en estricto respeto a sus derechos;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-IX. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás personas, de todos los derechos humanos y libertades fundamentales;
+VI. Acciones de Prevención: Aquéllas que deben realizarse por las autoridades o servidores públicos de la Ciudad de México, familia y sociedad a fin de evitar el deterioro de las condiciones de vida de las niñas, niños y adolescentes, así como las situaciones que pongan en riesgo su supervivencia y desarrollo, siendo importante la prevención de cualquier tipo de victimización de carácter sexual que pudiese presentarse por personas sentenciadas por tales conductas delictivas;
 
-X. Atención integral: Conjunto de acciones que deben realizar autoridades o servidores públicos de la Ciudad de México, familia y sociedad a favor de las niñas, niños y adolescentes, tendentes a satisfacer sus necesidades básicas, propiciar su pleno desarrollo y garantizar sus derechos;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-XI. Autoridades: Las autoridades y servidores públicos de los órganos ejecutivo, legislativo y judicial de la Ciudad de México, así como de los órganos autónomos;
+VII. Acciones de Protección: Aquéllas que deben realizarse por las autoridades o servidores públicos de la Ciudad de México, familia y sociedad a fin de proporcionar bienes o servicios a las niñas, niños y adolescentes que se encuentran en condiciones de desventaja social, o cuyas condiciones de vida estén deterioradas, a efecto de restituirlas y protegerlas;
 
-XII. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-XIII. Órganos político administrativos: Son las 16 Delegaciones del Distrito Federal;
+VIII. Acciones de Provisión: Aquéllas que deben realizarse por las autoridades o servidores públicos de la Ciudad de México, familia y sociedad a fin de garantizar la sobrevivencia, bienestar y desarrollo pleno de las niñas, niños y adolescentes para dar satisfacción a sus derechos;
 
-> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-XIV. DIF-CDMX: Sistema para el Desarrollo Integral de la Familia de la Ciudad de México;
+IX. Acogimiento o cuidados alternativos: es la institución o figura jurídica mediante la cual una persona asume, de manera temporal, el cuidado y atención integral de un niño, niña o adolescente en situación de desamparo, en estricto respeto a sus derechos;
 
-XV. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-XVI. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
+X. Acogimiento Residencial: Aquél brindado por Centros de Asistencia Social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
 
-> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-XVII. EVALUA CDMX: Consejo de Evaluación del Desarrollo Social de la Ciudad de México;
+XI. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás personas, de todos los derechos humanos y libertades fundamentales;
 
-XVIII. Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-XIX. Igualdad Sustantiva: El acceso al mismo trato y a las mismas oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos;
+XII. Atención integral: Conjunto de acciones que deben realizar autoridades o servidores públicos de la Ciudad de México, familia y sociedad a favor de las niñas, niños y adolescentes, tendentes a satisfacer sus necesidades básicas, propiciar su pleno desarrollo y garantizar sus derechos;
 
-XX. Interés superior: Interés superior de la niña, el niño, la o el adolescente.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-XXI. Ley: Ley de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México.
+XIII. Autoridades: Las autoridades y servidores públicos de los órganos ejecutivo, legislativo y judicial de la Ciudad de México, así como de los órganos autónomos;
 
-XXII. Ley de Cuidados Alternativos: Ley de Cuidados Alternativos de Niñas, Niños y Adolescentes en el Distrito Federal
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-XXIII. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
+XIV. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
 
-XXIV. Medidas de protección especial: Conjunto de acciones, programas y actividades institucionales orientadas a reconocer, proteger, garantizar y resguardar los derechos humanos de las niñas, niños y adolescentes conforme a su Interés superior, dirigidas a la prevención, atención, asistencia, restitución y reparación, con la finalidad de salvaguardar el goce y ejercicio de sus derechos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-XXV. Órgano Jurisdiccional: Los juzgados o tribunales de la Ciudad de México.
+XV. Certificado de Idoneidad: Documento expedido por la Procuraduría de Protección, previa opinión positiva del Comité Técnico de Adopción en el que consta que la persona solicitante es apta para adoptar;
 
-XXVI. Procuraduría de Protección: La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes de la Ciudad de México;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-XXVII. Procuraduría de Protección Federal: Procuraduría Federal de Protección de Niñas, Niños y Adolescentes
+XVI. Código Civil: Código Civil para el Distrito Federal;
 
-XXVIII. Programa: El Programa de Protección Integral de Niñas, Niños y Adolescentes de la Ciudad de México;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-XXIX. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
+XVII. Código de Procedimientos: Código de Procedimientos Civiles para el Distrito Federal;
 
-XXX. Protección Integral: Conjunto de mecanismos y acciones compensatorias y restitutivas que se ejecuten en la Ciudad de México por los tres órdenes de gobierno, así como lafamilia (sic) y sociedad, con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Ley General, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-XXXI. Representación Coadyuvante: El acompañamiento y defensa de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XVIII. Comité Técnico de Adopción: Órgano Colegiado de la Procuraduría de Protección encargado de evaluar a los solicitantes de adopción y, en su caso opinar favorablemente a la Procuraduría de Protección para que ésta emita el Certificado de Idoneidad correspondiente, así como intervenir en los procedimientos de adopción de niñas, niños y adolescentes de conformidad con lo establecido en esta Ley y su Reglamento;
 
-XXXII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
 
-XXXIII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XIX. Órganos político administrativos: Las 16 Alcaldías de la Ciudad de México;
 
-XXXIV. Sistema de Protección: Sistema de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes de la Ciudad de México;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-XXXV. Sistema de Protección Delegacional: Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes en cada una de las (sic) 16 órganos políticos administrativos.
+XX. DIF-CDMX: Sistema para el Desarrollo Integral de la Familia de la Ciudad de México;
 
-XXXVI. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 10 DE MAYO DE 2017)</small>
+XXI. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
 
-XXXVII. Sistema Nacional de Protección: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-XXXVIII. Violencia Física: Todo acto de agresión que cause daño a la integridad física de las niñas, niños y adolescentes.
+XXII. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que, al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
 
-XXXIX. Violencia Psicoemocional: Los actos u omisiones cuya formas (sic) de expresión pueden ser silencios, prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, insultos, actitudes de descuido, devaluatorias o de abandono que provoquen en la niña, niño o adolescente daño en cualquiera de sus esferas cognoscitiva, conductual, afectiva y social;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXIII. EVALUA CDMX: Consejo de Evaluación del Desarrollo Social de la Ciudad de México;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXIV. Expósito: Aquella niña, niño o adolescente que es colocado en una situación de desamparo por quienes conforme a la Ley estén obligados a su custodia, protección y cuidado y no pueda determinarse su origen;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXV. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXVI. Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXVII. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXVIII. Igualdad Sustantiva: El acceso al mismo trato y a las mismas oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXIX. Informe de adoptabilidad: Documento de carácter técnico emitido por el DIF CDMX a través de la Procuraduría de Protección, que contiene la información sobre la identidad, medio social, evolución personal y familiar en el que consta la adoptabilidad de niñas, niños y adolescentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXX. Interés superior: Interés superior de la niña, el niño, la o el adolescente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXXI. Ley: Ley de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXXII. Ley de Cuidados Alternativos: Ley de Cuidados Alternativos de Niñas, Niños y Adolescentes en el Distrito Federal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXXIII. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXXIV. Medidas de protección especial: Conjunto de acciones, programas y actividades institucionales orientadas a reconocer, proteger, garantizar y resguardar los derechos humanos de las niñas, niños y adolescentes conforme a su Interés superior, dirigidas a la prevención, atención, asistencia, restitución y reparación, con la finalidad de salvaguardar el goce y ejercicio de sus derechos;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXXV. Órgano Jurisdiccional: Los juzgados o tribunales de la Ciudad de México;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXXVI. Procuraduría de Protección: La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXXVII. Procuraduría de Protección Federal: Procuraduría Federal de Protección de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXXVIII. Programa: El Programa de Protección Integral de Niñas, Niños y Adolescentes de la Ciudad de México;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XXXIX. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XL. Protección Integral: Conjunto de mecanismos y acciones compensatorias y restitutivas que se ejecuten en la Ciudad de México por los tres órdenes de gobierno, así como la familia y sociedad, con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Ley General, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2021)</small>
+
+XLI. Reglamento: Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XLII. Representación Coadyuvante: El acompañamiento y defensa de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos que, de manera oficiosa, quedará a cargo de la Procuraduría de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XLIII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XLIV. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XLV. Sistema de Protección: Sistema de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes de la Ciudad de México;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XLVI. Sistema de Protección Delegacional: Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes en cada una (sic) de los 16 órganos políticos administrativos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XLVII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XLVIII. Sistema Nacional de Protección: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XLIX. Violencia Física: Todo acto de agresión que cause daño a la integridad física de las niñas, niños y adolescentes; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+L. Violencia Psicoemocional: Los actos u omisiones cuyas formas de expresión pueden ser silencios, prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, insultos, actitudes de descuido, devaluatorias o de abandono que provoquen en la niña, niño o adolescente daño en cualquiera de sus esferas cognoscitiva, conductual, afectiva y social.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
 
@@ -482,85 +592,429 @@ El DIF-CDMX a través de la Procuraduría de Protección deberá otorgar las med
 
 A fin de garantizar y restituir los derechos de niñas, niños y adolescentes en desamparo en la Ciudad de México, se actuará conforme lo dispone la Ley de Cuidados Alternativos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 10 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 29.
 
 Las personas interesadas en adoptar niñas, niños y adolescentes que se encuentren bajo la tutela del DIF-CDMX podrán presentar ante la Procuraduría de Protección la solicitud correspondiente.
 
-Los procedimientos de adopción se desahogarán de conformidad con la legislación civil aplicable.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
+Los procedimientos de adopción se desahogarán de conformidad con lo dispuesto por la Ley General, el Código Civil, el Código de Procedimientos, la presente Ley y su Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 30.
 
-Corresponde al DIF-CDMX a través de la Procuraduría de Protección, en el ámbito de sus respectivas competencias:
+En materia de adopción, corresponde a la Procuraduría de Protección, en el ámbito de sus respectivas competencias:
 
 I. Prestar servicios de asesoría, asistencia jurídica y capacitación obligatoria a las personas que deseen asumir el carácter de familia adoptiva.
 
-II. Realizar evaluaciones y valoraciones psicológicas, económicas, de trabajo social y todas aquellas que sean necesarias para determinar la viabilidad de quienes pretenden adoptar y, en su caso, formular las recomendaciones pertinentes al órgano jurisdiccional.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
 
-III. Contar con un sistema de información confidencial que permita registrar a las niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, las adopciones concluidas exitosamente y las que no se concluyeron, así como las causas de ello e informar de manera trimestral a la Procuraduría de Protección Federal.
+II. Expedir los certificados de idoneidad como resultado de las evaluaciones y valoraciones psicológicas, económicas, de trabajo social y todas aquellas que sean necesarias, mismas que serán válidas para iniciar el procedimiento de adopción ante autoridad jurisdiccional en la Ciudad de México y, en su caso, formular las recomendaciones pertinentes al órgano jurisdiccional.
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
+
+III. Contar con un sistema de información y registro detallado de carácter confidencial y de acceso exclusivo por orden de autoridad judicial o administrativa competente, permanentemente actualizado, que incluya:
+
+a) En el caso de niñas, niños y adolescentes cuya situación jurídica o familiar permita sean susceptibles de adopción: nombre completo, fecha de nacimiento, edad, sexo, escolaridad, domicilio en el que se encuentra, situación jurídica, diagnóstico médico y psicológico, condición pedagógica, información social, perfil de necesidades de atención familiar, información biométrica y de ser el caso, número de hermanos, tipo y severidad de la discapacidad con la que vive y requerimientos de atención a necesidades especiales de los menores de edad;
+
+b) Tratándose de personas interesadas en adoptar: nombre completo, edad, nacionalidad, país de residencia habitual, estado civil, ocupación, escolaridad, domicilio, perfil y número de menores de edad que tienen la capacidad de adoptar y si cuentan con Certificado de Idoneidad;
+
+c) Adopciones concluidas: divididas en nacionales e internacionales especificando el número de menores de edad adoptados;
+
+d) Adopciones en trámite: especificará los menores de edad que ya se encuentren en proceso de adopción y la etapa en la que se ubican; y,
+
+e) Adopciones no concluidas: se detallarán las causas y motivos por los cuales no pudieron concretarse.
+
+El registro de adopción, deberá ser resguardado de forma permanente, conservando toda la información y cada uno de los datos de niñas, niños y adolescentes que ingresen al mismo a fin de garantizar el derecho que tienen los mismos a conocer su origen, cada actualización deberá enterarse a la Procuraduría de Protección Federal, de conformidad con lo establecido en la Ley General.
+
+Lo anterior sin perjuicio de lo dispuesto en materia de conservación de archivos por la ley de la materia en la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2021)</small>
+
+IV. Contar con un registro de familias de acogida y de las niñas, niños y adolescentes acogidos por éstas.
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2021)</small>
+
+V. Registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento temporal y preadoptivo, de conformidad con lo establecido en esta Ley y su reglamento, a fin de garantizar su idoneidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 31.
 
-En materia de adopciones, se deberán observar las disposiciones mínimas que abarquen lo siguiente:
+En materia de adopción todas las autoridades, en el ámbito de su competencia, velarán porque en los procesos de adopción se respeten las normas que los rijan y deberán observar las disposiciones mínimas que comprenda lo siguiente:
 
-I. Establecimiento y ejecución de procesos adecuados, precisos y eficaces en plazos acordes a la situación jurídica de cadaniña (sic), niño y adolescente permitiendo su pronta liberación para la adopción en pleno respeto de sus derechos, previa determinación del interés superior y conforme al Código Civil vigente para el Distrito Federal;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
-II. Garantizar el derecho a la participación de niñas, niños y adolescentes dentro de sus procedimientos de adopción, asegurando que su opinión sea recabada y tomada en cuenta a través de los mecanismos y procedimientos adecuados de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, en términos de la presente Ley;
+I. Garantizar que niñas, niños y adolescentes sean adoptados con pleno respeto de sus derechos humanos, y de conformidad con el principio de interés superior de la niñez, sin que medien intereses de particulares o colectivos que se contrapongan a los mismos;
 
-III. Asegurar la atención y cuidados de forma integralde (sic) la niña, niño o adolescente en proceso de adopción;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 10 DE FEBRERO DE 2021)</small>
 
-IV. Que se privilegie la adopción nacional antes que la adopción internacional y que la familia adoptante sea compatible con los rasgos de identidad cultural de la niña, niño o adolescente sujeto a adopción;
+II. Garantizar el derecho a la participación de niñas, niños y adolescentes dentro de sus procedimientos de adopción, asegurando que su opinión sea recabada y tomada en cuenta a través de los mecanismos y procedimientos adecuados de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, en términos de la presente Ley.
 
-V. Que se priorice la unidad familiar entre hermanos, promoviendo que puedan ser adoptados dentro del mismo núcleo familiar, en caso de no ser posible, procurar el mantenimiento de la convivencia entre ellos, siempre que no sea contrario a su interés superior;
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
 
-VI. Que establezcan un procedimiento de seguimiento y evaluación trimestral a niñas, niños y adolescentes que hayan sido dados en adopción, que supervise su estado en la familia adoptante, por lo menos con un año de posterioridad a la conclusión del proceso de adopción;
+Asimismo, que en los procesos de adopción se respeten las normas que los rijan de conformidad con lo dispuesto en la Convención de La Haya sobre la Protección de Menores y la Cooperación en materia de Adopción Internacional, Ley General, el Código Civil, el Código de Procedimientos y la presente Ley, según corresponda;
 
-VII. Establecer un procedimiento de revocación de adopción en caso de que se acredite frente autoridad judicial que la misma ha sido contraria al interés superior delaniñez (sic);
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
 
-VIII. Garantizar que se informe y asesore jurídicamente de forma gratuita y profesional, tanto a quienes consientan la adopción, como a quienes la acepten, a fin de que conozcan los alcances jurídicos, familiares y sociales de la misma;
+III. Tomar las medidas necesarias a fin de evitar presiones indebidas o coacción a las familias de origen para para (sic) renunciar a la patria potestad y entregar a la niña, niño o adolescente en adopción. Lo anterior sin perjuicio de las acciones penales que pudieran derivarse de dichas conductas;
 
-IX. Disponer las acciones necesarias para verificar que la adopción no sea motivada por beneficios económicos para quienes participen en ella, y
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
 
-X. Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, velarán porque en los procesos de adopción se respeten las normas que los rijan.
+IV. El Poder Judicial de la Ciudad de México garantizará que el proceso de adopción se realice de conformidad con lo establecido en Ley General, el Código Civil, el Código de Procedimientos, la Convención de La Haya sobre la Protección de Menores y la Cooperación en materia de Adopción Internacional y la presente Ley;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
+
+V. Establecimiento y ejecución de procesos adecuados, precisos y eficaces de acuerdo a la situación jurídica de cada niña, niño y adolescente en los plazos y términos establecidos en la presente Ley en cada fase del procedimiento de adopción permitiendo su pronta liberación para la adopción en pleno respeto de sus derechos, previa determinación de su interés superior;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
+
+VI. Asegurar en todo momento la atención y cuidados de forma integral de la niña, niño o adolescente durante el proceso de adopción;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
+
+VII. En igualdad de circunstancias se dará preferencia en la adopción a los solicitantes mexicanos sobre extranjeros. Asimismo, se dará preferencia a la adopción nacional sobre la adopción internacional;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
+
+VIII. Garantizar en todo momento la observancia y pleno respeto de los derechos humanos de las personas solicitantes de adopción, procurando, si fuere posible que la familia adoptante establezca continuidad con los rasgos de identidad cultural de la niña, niño o adolescente sujeto a adopción, sin que ello implique distinción discriminatoria de ninguna clase, con pleno apego a lo dispuesto por esta Ley y en estricta observancia del interés superior;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
+
+IX. Priorizar en todo momento la unidad familiar entre hermanos, promoviendo que puedan ser adoptados dentro del mismo núcleo familiar, en caso de no ser posible, procurar el mantenimiento de la convivencia entre ellos, siempre que no sea contrario a su interés superior;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
+
+X. Garantizar que se informe y asesore jurídicamente de forma gratuita y profesional, tanto a quienes consientan la adopción, como a quienes la acepten, a fin de que conozcan los alcances jurídicos, familiares y sociales de la misma; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 10 DE FEBRERO DE 2021)</small>
+
+XI. Disponer las acciones necesarias para verificar que la adopción no sea motivada por beneficios económicos o diversos al interés superior de la niñez, para quienes participen en ella.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis.
+
+La persona que encontrare una niña, niño o adolescente en estado de indefensión o que hubiere sido puesto en situación de desamparo familiar, deberá dar aviso o presentarlo ante la Procuraduría de Protección y al DIF-CDMX, con las prendas valores o cualesquiera otros objetos encontrados en su persona, señalando las circunstancias de tiempo, modo y lugar en que lo hubiere hallado. La Procuraduría de Protección y el DIF–CDMX, darán parte de la presentación al Ministerio Público para que en el marco de sus atribuciones realice la investigación correspondiente.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 1.
+
+El DIF-CDMX y la Procuraduría de Protección, establecerán políticas de fortalecimiento familiar a fin de prevenir y evitar la separación de niñas, niños y adolescentes de su entorno familiar.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 2.
+
+En los casos en que niñas, niños o adolescentes se encuentren en situación de desamparo familiar, el DIF-CDMX a través de la Procuraduría de Protección implementará las medidas especiales de protección siguientes:
+
+I. Cuando se desconozca el origen de niñas, niños y adolescentes y se presuma su procedencia de una entidad federativa distinta a la Ciudad de México, la Procuraduría de Protección deberá, realizar una ficha única de aviso a las autoridades del Sistema de Protección DIF de las entidades Federativas y al DIF Nacional; a fin de que se dé publicidad a dichos casos y permita conocer el origen de las o los menores. La ficha única de aviso deberá remitirse, en un lapso que no excederá de sesenta días desde el ingreso de la niña, niño o adolescente al Acogimiento Residencial o su ubicación con Familia de Acogida;
+
+II. Cuando la autoridad investigadora haya iniciado procedimiento alguno en el ámbito de su competencia por la presunción de la comisión de un delito y se configure o se pudiera configurar el abandono, la Procuraduría de Protección, garantizará las medidas de protección especiales determinadas en este artículo, asimismo, tomará las acciones necesarias para lograr la reintegración o acogimiento, según sea el caso.
+
+Si de la valoración que realice la Procuraduría de Protección se desprende que no es posible la reintegración, la Procuraduría de Protección promoverá la pérdida de la patria potestad apegándose estrictamente a lo establecido en el artículo 31 Bis 3 de esta Ley.
+
+Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar;
+
+III. Se asegurará de que las niñas, niños y adolescentes sean ubicados con su familia de origen, extensa o ampliada para su cuidado, siempre que ello sea posible, que las mismas sean evaluadas e idóneas a consideración de la Procuraduría de Protección y no sea contrario a su interés superior;
+
+IV. En caso de que la reinserción con la familia de origen, extensa o ampliada no fuera posible, se asegurará que las niñas, niños y adolescentes sean recibidos por una familia de acogida de forma temporal;
+
+V. En caso de que no sea posible ubicar a la niña, niño o adolescente con una familia de acogida se asegurará que sean recibidos, dadas las características específicas de cada caso, en acogimiento residencial brindado por Centros de Asistencia Social o instituciones que brinden cuidados alternativos, en y por el menor tiempo posible;
+
+VI. Procurará resolver con prontitud la situación jurídica de niñas, niños y adolescentes para acceder a un proceso de adopción expedito, ágil, simple y guiado por el interés superior de la niñez;
+
+VII. Procurará siempre que sea posible que las, niñas, niños y adolescentes sean sujetos de acogimiento temporal pre – adoptivo como una fase dentro del procedimiento de adopción, que supone la vinculación de niñas, niños y adolescentes, con su nuevo entorno y con su nueva familia, misma a la que se le haya determinado como idónea para adoptar, y que deberá ser registrada, capacitada y certificada por la procuraduría de Protección; y,
+
+VIII. Acompañar la adaptación de niñas, niños y adolescentes que hayan sido adoptados a su nueva familia y entorno; para conocer la evolución de su desarrollo, el DIF-CDMX en coordinación con la Procuraduría de Protección, realizarán su seguimiento cada seis meses durante los tres años posteriores a la adopción contados a partir de que la sentencia judicial de adopción quede firme.
+
+Los reportes de seguimiento deberán ser realizados por las personas profesionales de trabajo social autorizados y registrados por el DIF CDMX, donde se aprecie la convivencia familiar y el desarrollo cotidiano de niñas, niños y adolescentes, en su entorno.
+
+La intervención que represente el seguimiento será lo menos invasiva posible a efecto de no alterar negativamente el entorno familiar.
+
+Con el propósito de procurar la menor afectación y garantizar el bienestar y el desarrollo de niñas, niños y adolescentes, las medidas especiales previamente señaladas en las fracciones anteriores, serán de carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar definitivo.
+
+La Procuraduría de Protección establecerá un sistema de cooperación y coordinación en el que se mantenga de forma permanente comunicación e intercambio de información a efecto de que en todos sus procesos y actuaciones se observe en todo momento el interés superior de la niñez, se procure la protección de niñas, niños y adolescentes a fin de garantizar el desarrollo evolutivo y formación de su personalidad, así como materializar su derecho a vivir en familia.
+
+Las autoridades administrativas y jurisdiccionales locales, en el ámbito de sus respectivas competencias, dispondrán lo conducente a efecto de que niñas, niños y adolescentes vean restituido su derecho a vivir en familia y su derecho a recibir formación y protección de quien ejerce la patria potestad, la tutela, guarda o custodia, interpretando de manera sistemática y funcional la normatividad correspondiente y observando en todo momento el principio de interés superior de la niñez.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 3.
+
+Los Centros de Asistencia Social y todas las instituciones que brinden cuidados alternativos que reciban niñas, niños y adolescentes en situación de indefensión, desamparo familiar, víctimas de violencia o por cualquier otra circunstancia, deberán dar aviso inmediato tanto del ingreso, egreso y de la situación jurídica de los menores a la Procuraduría de Protección, asimismo, podrán recibirlos por disposición y orden girada por escrito de esta última o de autoridad competente.
+
+En los procedimientos de adopción se observará lo siguiente:
+
+I. Las niñas, niños, y adolescentes ubicados con familias de acogida o ingresados en Centros de Asistencia o instituciones que brinden cuidados alternativos, serán considerados expósitos una vez que hayan transcurrido sesenta días naturales sin que se reclamen derechos sobre ellos y no se tenga información que permita conocer su origen, dejando constancia de que ninguna persona compareció para solicitar convivencia o su reintegración, dicho plazo correrá a partir del día en que la niña, niño o adolescente haya sido acogido con una familia de acogida o ingresado en un Centro de Asistencia Social o en una Institución que brinde cuidados alternativos.
+
+II. Cuando la Procuraduría de Protección no cuente con los elementos suficientes que den certeza sobre la situación de expósito de las niñas, niños o adolescentes; se podrá extender el plazo hasta por setenta días naturales más a fin de que se determine fehacientemente su condición jurídica.
+
+III. La Procuraduría de Protección realizará las acciones conducentes para la reintegración al núcleo familiar de las niñas, niños, o adolescentes cuyo origen se conozca y que se encuentren ubicados con familias de acogida o ingresados en Centros de Asistencia o instituciones que brinden cuidados alternativos, en un plazo de sesenta días naturales contados desde su ingreso.
+
+IV. Cuando la reintegración al seno familiar no fuera posible por representar un riesgo a su bienestar o por ser contrario al interés superior de la niñez, la Procuraduría de Protección, o en su caso los Centros de Asistencia Social o instituciones que brinden cuidados alternativos enterando previamente a la Procuraduría de Protección y previo pronunciamiento de esta última, iniciarán el procedimiento de pérdida de patria potestad; en este supuesto se otorgarán setenta días naturales adicionales al plazo referido en la fracción anterior para su acogimiento a fin de que se resuelva la situación jurídica de la niña, niño o adolescente.
+
+V. En los casos en los que exista la presunción de la comisión de un delito en el que la autoridad investigadora haya iniciado un procedimiento en el ámbito de su competencia y se configure o se pudiera configurar el abandono, se otorgarán noventa días naturales adicionales a los plazos referidos en las fracciones anteriores a fin de desahogar los procedimientos a que haya lugar.
+
+Durante los plazos establecidos en el presente artículo se investigará el origen de niñas, niños y adolescentes, se realizarán las acciones conducentes que les permitan reintegrarse al núcleo familiar, siempre que dicha reintegración no represente un riesgo a su bienestar o por ser contrario al interés superior de la niñez; lo anterior en coordinación con los Centros de Asistencia Social y con el auxilio de cualquier autoridad que se considere necesaria, sin exponer, exhibir o poner en riesgo alguno a la niña, niño o adolescente.
+
+Una vez concluidos los plazos establecidos, sin obtener información respecto del origen de niñas, niños, o adolescentes, o no habiendo logrado su reintegración al seno familiar, y en el caso de los abandonados, previa sentencia de perdida de patria potestad, la Procuraduría de Protección, levantará un acta circunstanciada en la que conste la certificación de expósito o abandonado correspondiente. A partir de ese momento niñas, niños o adolescentes serán susceptibles de adopción.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 4.
+
+Para los fines de esta Ley queda prohibido:
+
+I. La promesa de adopción durante el proceso de gestación;
+
+II. La adopción privada, entendiéndose ésta como el acto mediante el cual quienes ejercen la patria potestad, tutela o guarda y custodia o sus representantes legales, pacten dar en adopción de manera directa a niñas, niños o adolescentes sin que intervengan las autoridades competentes de conformidad con Ley General, el Código Civil, el Código de Procedimientos y la presente Ley;
+
+III. Realizar adopción para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, trabajo infantil o cualquier otro ilícito. Si se presentare cualquiera de los supuestos referidos una vez concluida judicialmente la adopción, la Procuraduría de Protección, presentará denuncia ante el Ministerio Público, y tomará las medidas necesarias para asegurar el bienestar integral de niñas niños y adolescentes;
+
+IV. El contacto de las madres o padres biológicos que entregaron en adopción a una niña, un niño o un adolescente con la persona adoptante, con excepción de los casos en que los adoptantes sean familiares biológicos de la familia extensa o cuando el adoptado desee conocer sus antecedentes familiares y sea mayor de edad. Las niñas, niños y adolescentes menores de edad que deseen conocer sus antecedentes familiares deberán contar con el consentimiento de los adoptantes, y siempre que ello atienda al interés superior de la niñez;
+
+V. La inducción a través de cualquier forma de compensación o pago para influenciar o favorecer la decisión de otorgar a la niña, el niño o el adolescente en adopción;
+
+VI. La obtención directa o indirecta de beneficios indebidos, materiales o de cualquier otra índole, por la familia de origen o extensa de la o el adoptado, o por cualquier persona; así como por personas funcionarias o trabajadoras de instituciones públicas o privadas y autoridades involucradas en el proceso de adopción;
+
+VII. La obtención de lucro o beneficio personal ilícito como resultado de la adopción;
+
+VIII. El matrimonio entre la persona adoptante y la o el adoptado o sus descendientes, así como el matrimonio entre la o el adoptado con los familiares del adoptante o sus descendientes;
+
+IX. La adopción por más de dos personas, en cuyo caso se requiere el consentimiento de ambos;
+
+X. La adopción por discriminación, entendida como aquella donde se considera a la niña, niño o adolescente como un valor supletorio o reivindicatorio de la persona adoptante;
+
+XI. La alienación o asimilación cultural forzada, en caso de que la niña, niño o adolescente provenga de un pueblo originario o una comunidad indígena en términos de las Leyes aplicables;
+
+XII. Que la autoridad omita garantizar el derecho de niñas niños y adolescentes a emitir su opinión y ser escuchados, de acuerdo con su edad, evolución y desarrollo cognoscitivo en cualquier procedimiento donde participen;
+
+XIII. Que la autoridad se abstenga en dar atención, asistencia o información previa identificación y registro a las madres, padres, tutores o familiares que detenten o pudieran detentar la patria potestad de una niña, niño o adolescente que se encuentre bajo el resguardo y protección del DIF CDMX a través de la Procuraduría de Protección.
+
+XIV. Toda adopción contraria a las disposiciones Constitucionales, a los Tratados Internacionales ratificados por el Estado Mexicano, a la Constitución de la Ciudad de México a la Ley General, el Código Civil, el Código de Procedimientos, la presente Ley, el reglamento correspondiente y al interés superior de la niñez y a su adecuado desarrollo evolutivo.
+
+La autoridad jurisdiccional deberá dar intervención a la Procuraduría de Protección en los procesos de adopción para los efectos legales a que haya lugar.
+
+A la actualización de los supuestos contenidos en las fracciones de este artículo corresponderán las sanciones previstas en la esta Ley sin perjuicio de las determinadas en la Ley General, la Ley de Responsabilidades Administrativas de la Ciudad de México, y el Código Penal para el Distrito Federal según sea el caso.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 5.
+
+Pueden ser adoptadas niñas, niños y adolescentes que:
+
+I. No tengan quien ejerza sobre ellas o ellos la patria potestad;
+
+II. Cuenten con certificación de expósitos o abandonados;
+
+III. Se encuentren en alguno de los supuestos anteriores y estén acogidos en los Centros de Asistencia Social, alguna institución que brinde cuidados alternativos, con familias de acogida o bajo la tutela del DIF CDMX a través de la Procuraduría de Protección;
+
+IV. Cuyos padres o quienes ejerzan patria potestad, manifiesten por escrito de forma libre y clara su consentimiento para iniciar el procedimiento de adopción ante la Procuraduría de Protección mismos que deberán ratificar su consentimiento ante el juez de lo familiar correspondiente; y,
+
+V. Las niñas, niños o adolescentes entregados voluntariamente para su adopción a Centros de Asistencia Social legalmente acreditados según las disposiciones de la presente Ley y demás ordenamientos aplicables.
+
+En cualquiera de los supuestos anteriores, se deberá contar con el informe de adoptabilidad correspondiente.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 6.
+
+El Informe de adoptabilidad que emita la Procuraduría de Protección deberá de elaborarse de conformidad con el Reglamento y deberá contener, por lo menos los siguientes elementos:
+
+a) Nombre completo de la niña, niño o adolescente;
+
+b) Lugar y fecha de nacimiento;
+
+c) Fecha de ingreso al Acogimiento Residencial o con Familia de Acogida;
+
+d) Edad;
+
+e) Sexo;
+
+f) Media Filiación;
+
+g) Antecedentes familiares;
+
+h) Situación jurídica;
+
+i) Condición e historia médica;
+
+j) Condición psicológica;
+
+k) Evolución pedagógica; y,
+
+l) Requerimiento de atención especial de ser el caso.
+
+La Procuraduría de Protección podrá solicitar a los Centros de Asistencia Social o a la Familia de Acogida que tengan bajo su cuidado al niño, niña o adolescente cualquier información adicional a la prevista en ese artículo que considere necesaria para salvaguardar el interés superior de la niñez, misma que se incluirá en el Informe de Adoptabilidad.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 7.
+
+Las personas solicitantes deberán acudir de forma personal a la Procuraduría de Protección para realizar el trámite de adopción.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 8.
+
+El Comité Técnico de Adopción es el Órgano Colegiado de consulta, análisis, evaluación y autorización de las modalidades de acogimiento previstas en la Ley, y en su caso, de opinión para la designación de la familia idónea en el trámite administrativo de adopción.
+
+El Comité Técnico de Adopción se integrará y funcionará de conformidad con lo dispuesto en el Reglamento y con los lineamientos que emita la Procuraduría de Protección.
+
+En las Sesiones del Comité Técnico de Adopción deberán participar de forma permanente cuando menos una persona especialista en medicina pediátrica, una en psicología y una en trabajo social.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 9.
+
+La expedición del certificado de idoneidad deberá realizarse previa valoración del expediente y del análisis de la evaluación psicológica y socioeconómica de los solicitantes, a reserva de lo establecido por el Reglamento correspondiente contendrá al menos los siguientes elementos:
+
+I. Nombre de la institución;
+
+II. Nombre, sexo y edad de la persona o personas solicitantes;
+
+III. Tipo de adopción nacional o internacional, según sea el caso;
+
+IV. Nacionalidad de las personas (sic) o personas solicitantes;
+
+V. Temporalidad del matrimonio o concubinato, según el caso;
+
+VI. Temporalidad de convivencia según el caso;
+
+VII. Lugar de residencia;
+
+VIII. Diagnostico psicológico, médico y social correspondiente;
+
+IX. Carta de ingresos o comprobante de ingresos, y constancia de antigüedad en el trabajo;
+
+X. El número de hijas o hijos que tengan las personas solicitantes; y,
+
+XI. Constancia de no estar en el registro de Personas Agresoras Sexuales.
+
+Una vez cumplidos los requisitos establecidos en la Ley y el Reglamento, la Procuraduría de Protección contará con un término que no excederá de cuarenta y cinco días naturales para que previa opinión del Comité Técnico de Adopción, se pronuncie con relación a la solicitud, misma que en todo caso deberá fundar y motivar.
+
+En caso de estimarse procedente, la Procuraduría de Protección expedirá los certificados de idoneidad en un término que no excederá de diez días naturales.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 10.
+
+La jueza o juez de lo familiar, contará con un plazo de 90 días hábiles improrrogables para emitir la sentencia en el juicio de pérdida de patria potestad de la niña, niño o adolescente. Dicho término será contado a partir del día siguiente de la presentación del escrito inicial.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 11.
+
+La jueza o juez de lo familiar, contará con un plazo de 15 días hábiles improrrogables, contados a partir del día siguiente de la entrega, por parte de la autoridad administrativa, del expediente de adopción completo para emitir sentencia. Dicha autoridad administrativa contará con cinco días hábiles improrrogables para la entrega del expediente al juzgado familiar que conociere de la causa una vez cumplimentando lo dispuesto en el artículo 31 Bis 9 de la presente Ley.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 12.
+
+Para que la adopción pueda tener lugar deberán consentirla, por escrito y ante la Jueza o Juez de lo familiar que conozca del procedimiento, la Procuraduría de Protección, la persona solicitante, en su caso la madre, padre, tutores o quien posea la patria potestad y la niña, niño o adolescente sujeto de adopción según su edad, evolución o desarrollo cognoscitivo.
+
+Para el caso de que las personas solicitantes sean cónyuges o concubinos, ambos deberán consentir la adopción de forma escrita ante la jueza o juez que conozca del procedimiento.
+
+En el caso de niñas, niños y adolescentes con discapacidad, será necesario su consentimiento, siempre y cuando fuese posible la expresión indubitable de su voluntad.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 13.
+
+Los Centros de Asistencia Social y todas las instituciones que brinden cuidados alternativos a niñas, niños y adolescentes que cumplan la mayoría de edad deberán garantizarles los servicios de atención que les permitan una óptima inclusión al entorno social.
+
+Para el efecto, se implementará el plan de restitución de derechos con dos años de anticipación previos al egreso de las y los adolescentes, con el fin de que desarrollen habilidades, conocimientos y capacidades que fortalezcan su autonomía progresiva y el ejercicio pleno de sus derechos.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 14.
+
+La Procuraduría de Protección, en Coordinación con el Sistema Nacional DIF, dispondrán las medidas necesarias a fin de establecer e implementar el procedimiento único de adopción al que se refiere la Ley General, que permita a los solicitantes que el trámite de adopción sea rápido, eficaz y transparente.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 15.
+
+En ningún caso se solicitará certificado médico de infertilidad como requisito para adoptar.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 16.
+
+En caso de que la persona adoptante sea extranjera con residencia permanente en el territorio nacional, la Procuraduría de Protección, garantizará que el certificado de idoneidad contenga la comprobación de la situación migratoria regular en el territorio nacional de la o el solicitante.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 17.
+
+La adopción será plena e irrevocable.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 18.
+
+El DIF CDMX a través la Procuraduría de Protección celebrarán con el Sistema Nacional DIF y la Procuraduría de Protección Federal, así como con sus pares locales y con los Centros de Asistencia Social y todas las instituciones que brinden cuidados alternativos debidamente registrados y autorizados por el DIF-CDMX, los convenios de colaboración que se consideren necesarios para garantizar el derecho a vivir en familia, el bienestar integral de las niñas, niños y adolescentes y prevaleciendo siempre el interés superior de la niñez.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 31 Bis 19.
+
+Tratándose de adopción internacional, se estará a lo establecido en (sic) Ley General, el Código Civil, el Código de Procedimientos, la presente Ley y el Reglamento correspondiente, a efecto de que se asegure que los derechos de niñas, niños y adolescentes que sean adoptados se garanticen en todo momento y se ajuste al interés superior de la niñez. Siempre y cuando no contravenga la Convención de La Haya sobre la Protección de Menores y la Cooperación en materia de Adopción Internacional.
+
+Las autoridades involucradas en el proceso de adopción internacional, tomarán las medidas necesarias a efecto de que se garantice que la misma no sea realizada con fines de venta, sustracción, retención u ocultación ilícita, asimilación cultural forzada, desplazamiento forzado tráfico o trata de personas, explotación, trabajo infantil o cualquier otra índole diversa al bienestar integral de las niñas, niños y adolescentes y al interés superior de la niñez.
+
+Las autoridades competentes deberán establecer medidas de prevención y protección para evitar adopciones ilegales. Para tal efecto, podrán requerir en colaboración con el Sistema de Protección Nacional y la Procuraduría de Protección Federal, así como la colaboración de las autoridades centrales del país de que se trate, a fin de obtener información o supervisar las medidas preventivas que se hayan dictado, en términos del tratado internacional de la materia, Ley General, el Código Civil, el Código de Procedimientos, la presente Ley y el Reglamento.
+
+En los procedimientos judiciales de adopción internacional deberá requerirse el informe de adoptabilidad correspondiente a la Procuraduría de Protección, y una vez que la jueza o el juez de lo familiar que conozca del procedimiento otorgue la adopción, previa solicitud de las personas adoptantes la Secretaría de Relaciones Exteriores de conformidad con lo dispuesto en la Ley General y los tratados internacionales en la materia, expedirá la certificación correspondiente.
+
+Las personas que ejerzan profesiones de trabajo social y psicología en las instituciones públicas y privadas que intervengan en los procedimientos de adopción internacional, en términos de lo dispuesto en los tratados internacionales, y la legislación de la materia, deberá contar con la autorización y registro del DIF-CDMX.
+
+La adopción internacional de una niña, niño o adolescente de nacionalidad mexicana procederá cuando se haya constatado por las autoridades correspondientes que ésta responde al interés superior, y su bienestar integral habiendo previamente examinado y agotado la posibilidad de asignación de la niña, niño o adolescente para adopción nacional.
+
+El DIF-CDMX a través la Procuraduría de Protección tiene la obligación de conservar cualquier información que dispongan relativa a niñas, niños, y adolescentes que hayan sido adoptados internacionalmente, así como de sus orígenes.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 32.
 
-Los Centros de Asistencia Social y todas las instituciones que brinden cuidados alternativos estarán sujetos a los mecanismos de autorización, supervisión y vigilancia previstos en la Ley de Cuidados Alternativos.
+Los Centros de Asistencia Social y todas las instituciones que brinden cuidados alternativos deberán ser registrados y autorizados por DIF-CDMX y estarán sujetos a los mecanismos de autorización, supervisión y vigilancia previstos en la Ley de Cuidados Alternativos.
 
-> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2017)</small>
+Las personas titulares o representantes legales de los Centros de Asistencia Social y todas las instituciones que brinden cuidados alternativos, además deberán:
 
-Los Centros de Asistencia Social y todas las instituciones que brinden cuidados alternativos, además deberán:
+I. Inscribirse en el Registro Nacional de Centros de Asistencia Social del Sistema Nacional DIF y del DIF CDMX;
 
-> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+II. Tomar las medidas necesarias que permitan a niñas, niños y adolescentes, a quienes les brindan alojamiento, contar con un plan de restitución de sus derechos, en coordinación con la Procuraduría de Protección, a fin de garantizar el pleno respeto y ejercicio de los mismos;
 
-I. Tomar las medidas necesarias que permitan a niñas, niños y adolescentes, a quienes les brindan alojamiento, contar con un plan de restitución de sus derechos, en coordinación con la Procuraduría de Protección;
+III. Contar con un registro de niñas, niños y adolescentes a quienes brindan alojamiento que contendrá la información de su situación jurídica que será actualizada permanentemente, la cual será informada a la Procuraduría de Protección;
 
-> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+IV. Brindar la información que le requiera la Procuraduría de Protección respecto de la atención integral que otorga a niñas, niños y adolescentes canalizados por cualquier autoridad del orden local, federal o municipal, o por su familia de origen o extensa;
 
-II. Contar con un registro de niñas, niños y adolescentes a quienes brindan alojamiento que contendrá la información jurídica en la que se encuentran;
+V. Ingresar información y mantenerla actualizada en el Sistema que prevé la Ley de Cuidados Alternativos conforme a las disposiciones emitidas por la Procuraduría de Protección;
 
-> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+VI. Proporcionar los datos que le requiera la Procuraduría de Protección, que permitan comprobar la integración y sistematización del Registro de Centros de Asistencia Social, Nacional y de la Ciudad de México;
 
-III. Brindar la información que le requiera la Procuraduría de Protección respecto de la atención integral que otorga a niñas, niños y adolescentes canalizados por cualquier autoridad del orden local, federal o municipal, o por su familia de origen o extensa;
+VII. Asegurar que las instalaciones tengan en lugar visible, la constancia de registro de incorporación al Registro Nacional de Centros de Asistencia Social y de la Ciudad de México;
 
-> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+VIII. Contar con un Reglamento Interno, aprobado por el DIF-CDMX;
 
-IV. Alimentar conforme a las disposiciones emitidas por la Procuraduría de Protección, el Sistema de Información que prevé la Ley de Cuidados Alternativos;
+IX. Contar con un programa interno de protección civil en términos de la legislación de la materia;
 
-> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+X. Brindar las facilidades a la Procuraduría de Protección para que en el ámbito de su competencia realice la verificación periódica de la situación jurídica y social, así como la atención médica y psicológica de la niña, niño o adolescente y el proceso de reincorporación familiar o social, así como el cumplimiento de la legislación en la materia; y, en su caso atender las recomendaciones realizadas;
 
-V. Proporcionar los datos que le requiera la Procuraduría de Protección, que permitan contribuir a la integración y sistematización del Registro de Centros de Asistencia Social, Nacional y de la Ciudad de México; y
+XI. Informar de manera oportuna a la jueza o el juez de lo familiar, al DIF CDMX y a la Procuraduría de Protección cuando el ingreso de una niña, niño o adolescente al Centro de Asistencia Social, corresponda a una situación distinta a las establecidas en esta Ley o se tenga conocimiento de que peligra su integridad física estando bajo su custodia, a fin de iniciar los procedimientos de protección especial de forma oportuna;
 
-> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2017)</small>
+XII. Proporcionar atención médica a las niñas, niños y adolescentes bajo su custodia a través del personal capacitado para ello;
 
-VI. Brindar las facilidades a la Procuraduría de Protección a fin de dar seguimiento al cumplimiento del plan de restitución de derechos a favor de niñas, niños y adolescentes y atender las recomendaciones que, en su caso, emita para tales efectos.
+XIII. Dar cumplimiento a los requerimientos y recomendaciones que realicen las autoridades en el ámbito de su competencia;
 
-> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2017)</small>
+XIV. Realizar las acciones necesarias para la profesionalización del personal de los Centros de Asistencia Social; y,
+
+XV. Brindar las facilidades a la Procuraduría de Protección a fin de dar seguimiento al cumplimiento del plan de restitución de derechos a favor de niñas, niños y adolescentes y atender las recomendaciones que, en su caso, emita para tales efectos.
 
 En caso de incumplimiento, se solicitarán las medidas de apremio y sanciones administrativas que correspondan.
 
@@ -642,11 +1096,11 @@ Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda form
 
 Garantizando su seguridad sexual, para los efectos de que no sean víctimas o potenciales víctimas de cualquier delito vinculado con diversas conductas de violencia sexual.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 44.
 
-Las autoridades y los órganos políticos administrativos, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
+Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender investigar, perseguir y sancionar conforme a derecho corresponda, los casos en que niñas, niños o adolescentes se vean afectados por:
 
 I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
 
@@ -1756,7 +2210,9 @@ IX. Asesorar a las autoridades competentes y a los sectores público, social y p
 
 X. Elaborar los lineamentos y procedimientos a los que se sujetarán para la restitución de los derechos de niñas, niños y adolescentes;
 
-XI. Coadyuvar con el DIF-DF en la elaboración de los lineamientos y procedimientos para registrar, capacitar y evaluar a las familias que pretenden adoptar de acuerdo con lo previsto con el Artículo 30 fracción II de esta Ley;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2021)</small>
+
+XI. Coadyuvar con el DIF-CDMX en la elaboración de los lineamientos y procedimientos para registrar, capacitar y evaluar a las familias que pretenden adoptar de acuerdo con lo previsto en el Artículo 30 de esta Ley;
 
 XII. Proporcionar información para integrar y sistematizar el Registro de Centros de Asistencia Social del Distrito Federal;
 
@@ -1878,7 +2334,9 @@ El Programa deberá incluir líneas estratégicas específicas sobre las medidas
 
 El Programa de Protección Integral incluirá mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana y será publicado en la Gaceta Oficial del Gobierno del Distrito Federal.
 
-### Capítulo Único. De las Infracciones y Sanciones Administrativas
+### Capítulo Primero. De las Sanciones Administrativas
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 127.
 
@@ -1898,9 +2356,101 @@ El Sistema de Protección de la Ciudad de México y los Sistemas de Protección 
 
 ## Título Quinto. De las Infracciones Administrativas
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE FEBRERO DE 2021)</small>
+
+### Capítulo Segundo. Del Fideicomiso de Restitución de Derechos de Niñas, Niños y Adolescentes
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 130.
 
-Los servidores públicos de la Ciudad de México serán responsables por todo acto u omisión que viole, infrinja, incumpla o contraríe las disposiciones de esta Ley, en los términos de la Ley General de Derechos de las Niñas, Niños y Adolescentes, y la Ley Federal de Responsabilidades de los Servidores Públicos.
+Sin perjuicio de lo establecido por otros ordenamientos jurídicos, serán sujetas de sanción en los términos del presente capítulo y de la Ley de Responsabilidades Administrativas de la Ciudad de México, las personas servidoras públicas de la Administración Pública, Alcaldías y órganos autónomos de la Ciudad de México, así como las personas trabajadoras o empleadas de Centros de Asistencia Social, instituciones y establecimientos sujetos a control, administración o coordinación con las dependencias, órganos y entidades del Gobierno de la Ciudad de México que en el ejercicio de sus funciones o actividades, o con motivo de ellas:
+
+I. Impidan el ejercicio de algún derecho o nieguen la prestación del servicio al que están obligados a niñas, niños y adolescentes;
+
+II. Conozcan de la violación de algún derecho a niñas, niños o adolescentes y se abstengan de hacerlo del conocimiento de la autoridad competente;
+
+III. Propicien, toleren o se abstengan de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato, discriminación o perjuicio en contra de niñas, niños y adolescentes del que tengan conocimiento;
+
+IV. Quien, estando obligado por mandato de esta Ley, no cuente con las autorizaciones correspondientes para participar en los procedimientos de adopción; y
+
+V. La realización de alguna de las conductas prohibidas en materia de adopción establecidas en esta Ley.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 131.
+
+A quienes incurran en las infracciones previstas en las fracciones I, II y III del artículo anterior, se les impondrá una multa hasta por la cantidad equivalente de cien a ciento cincuenta veces el valor diario de la Unidad de Cuenta vigente en la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 132.
+
+A quienes incurran en las infracciones previstas en las fracciones IV y V del artículo 130, se les impondrá una multa hasta por la cantidad equivalente de ciento cincuenta a trescientas veces el valor diario de la Unidad de Cuenta vigente en la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 133.
+
+En casos de reincidencia, la multa podrá aplicarse hasta por el doble de lo previsto en los artículos 131 y 132 de esta Ley según sea el caso.
+
+Para efectos del presente artículo se considerará reincidencia cuando habiendo incurrido en una infracción que haya sido sancionada, el sujeto activo realice otra violación del mismo precepto de esta Ley, sin importar el lapso de tiempo que transcurra entre ambas conductas u omisiones.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 134.
+
+Para la determinación de la sanción se deberá considerar lo siguiente:
+
+I. La gravedad de la infracción;
+
+II. Si la conducta sancionable fue realizada con carácter intencional, omisión o negligencia;
+
+III. Los daños producidos o que puedan producirse;
+
+IV. La condición socio económica de la persona infractora; y,
+
+V. La reincidencia infractora.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 135.
+
+Las sanciones previstas en este capítulo, serán substanciadas de acuerdo a la normatividad aplicable e impuestas de la siguiente forma:
+
+I. Cuando alguna de las conductas previstas en las fracciones I, II y III del artículo 130 sea cometida por una persona servidora pública, la sanción será impuesta por el órgano interno de control de la dependencia, entidad, del Poder Judicial de la Ciudad de México, el Congreso de la Ciudad de México u órganos con autonomía constitucional, a la cual se encuentre adscrita.
+
+II. Las infracciones previstas en las fracciones IV, y V del artículo 130 las aplicará la Procuraduría de Protección.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 136.
+
+Contra las sanciones impuestas con motivo de esta Ley, se podrá interponer recurso de inconformidad previsto en la Ley de Procedimiento Administrativo de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 137.
+
+Para los efectos de este capítulo, a falta de disposición expresa y en lo que no contravenga esta Ley, se aplicará supletoriamente la Ley de Procedimiento Administrativo de la Ciudad de México.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 138.
+
+Los recursos generados de la aplicación de las sanciones establecidas en este Título serán dirigidos al Fideicomiso de Restitución de Derechos de Niñas, Niños y Adolescentes, cuyo objeto será la implementación de las acciones y políticas establecidas en el Plan de Restitución de derechos a favor de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+###### Artículo 139.
+
+El Plan de Restitución de derechos a favor de niñas, niños y adolescentes será elaborado y supervisado por la Procuraduría de Protección de conformidad con lo dispuesto por esta Ley y tendrá las siguientes obligaciones:
+
+I. Publicar trimestralmente en su página de internet y en la Gaceta Oficial, los ingresos, rendimientos financieros, egresos, destino y saldo del Fideicomiso de Restitución derechos de niñas, niños adolescentes.
+
+II. Enviar de manera trimestral al Congreso de la Ciudad de México por conducto de la Secretaría de Administración y Finanzas de la Ciudad de México los informes del estado que guarda el Fideicomiso de Restitución de Derechos de Niñas, Niños y Adolescentes, así como una relación del uso de sus recursos por destino y tipo de gasto.
+
+El Fideicomiso de Restitución de Derechos de Niñas, Niños y Adolescentes se constituirá, operará y se registrará de conformidad con lo dispuesto en la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México y su Reglamento.
 
 ## Artículos Transitorios
 
@@ -2043,3 +2593,23 @@ G.O. 1 DE DICIEMBRE DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, contará con un término de 180 días naturales a partir de la entrada en vigor del presente decreto, para el cumplimiento de las obligaciones previstas en virtud del mismo.
+
+G.O. 10 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El DIF CDMX y la Procuraduría de Protección, dispondrán las medidas necesarias a fin de implementar el procedimiento único de adopción.
+
+Tercero. Los procedimientos administrativos y los procesos jurisdiccionales de adopción que se encuentren en trámite a la fecha de la entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este decreto en todo aquello que beneficie al interés superior de la niñez.
+
+Cuarto. El Protocolo Interinstitucional para la Atención de Niñas, Niños y Adolescentes en Situación de Desamparo en la Ciudad de México conserva su vigencia en todo lo que no se oponga al presente decreto. El poder Ejecutivo Local realizará la actualización al Protocolo Interinstitucional para la Atención de Niñas, Niños y Adolescentes en Situación de Desamparo en la Ciudad de México, así como las adecuaciones correspondientes al Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México y expedirá Los lineamientos de integración y funcionamiento del Comité Técnico de Adopción de la Ciudad de México en un plazo que no excederá de 120 días naturales posteriores a la entrada en vigor del presente decreto.
+
+Quinto. El DIF CDMX atenderá las convocatorias del Sistema Nacional DIF con la finalidad de actualizar el registro de niñas, niños y adolescentes que actualmente sean susceptibles de adopción, las personas solicitantes de adopción en proceso, así como los que hayan obtenido certificado de idoneidad.
+
+Sexto. El DIF CDMX realizará lo conducente para favorecer el interés superior de la niñez y se reduzca al máximo la estancia de las niñas, niños o adolescentes en Centros de Asistencia Social o instituciones que brinden cuidados alternativos, o con familias de acogida.
+
+Séptimo. Respecto del Registro del registro de adopción establecido en el artículo 40 de la Ley de Derechos de Niñas, Niños y Adolescentes de la Ciudad de México el DIF CDMX, tomará las medidas necesarias para coordinar los trabajos con el DIF Nacional a fin de que los parámetros y campos de registro local mantengan homogeneidad y compatibilidad de formato con los del registro nacional y que puedan ser incorporados de forma eficaz.
+
+Octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
