@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-igualdad-sustantiva-entre-mujeres-y-hombres-en-la-55504"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-15"
-last_updated: "2020-10-29"
+last_updated: "2021-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55504&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-05-02"
 
 LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE FEBRERO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 15 de mayo de 2007.
 
@@ -426,11 +426,11 @@ Los informes anuales de la Jefatura de Gobierno de la Ciudad de México, deberá
 
 Los objetivos y acciones de esta ley estarán encaminados a garantizar el derecho a la igualdad sustantiva entre mujeres y hombres.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 21.
 
-Los entes públicos están obligados a garantizar el derecho a la igualdad entre mujeres y hombres, de acuerdo a lo establecido en los artículos 1° y 4° de la Constitución Política de los Estados Unidos Mexicanos, a las disposiciones relativas de la Constitución Política de la Ciudad de México, de los tratados e instrumentos internacionales de los que el Estado mexicano sea parte, de la jurisprudencia internacional, y de las leyes en materia de derechos humanos a nivel federal y local. Para lo cual deberán garantizar:
+Los entes públicos están obligados a garantizar el derecho a la igualdad entre mujeres y hombres, de acuerdo con lo establecido en los artículos 1° y 4° de la Constitución Política de los Estados Unidos Mexicanos, a las disposiciones relativas de la Constitución Política de la Ciudad de México, de los tratados e instrumentos internacionales de los que el Estado mexicano sea parte, de la jurisprudencia internacional, y de las leyes en materia de derechos humanos a nivel federal y local. Para lo cual deberán garantizar:
 
 I. El derecho a una vida libre de discriminación por razón de sexo.
 
@@ -438,13 +438,25 @@ También se considerará discriminación por razón de sexo, cualquier represali
 
 II. La convivencia armónica y equilibrada de los ámbitos de la vida personal, laboral y familiar, lo que se considerará como el derecho de conciliación, encaminado a lograr el pleno desarrollo de los individuos:
 
-> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, G.O. 10 DE FEBRERO DE 2021)</small>
 
-a) Para contribuir al reparto equitativo de las responsabilidades familiares y en cumplimiento a la igualdad sustantiva de la Ciudad de México se reconocerá el derecho de:
+a) Para contribuir al reparto equitativo de las responsabilidades en el hogar; a la protección de la maternidad y paternidad corresponsables; y de las familias, así como en cumplimiento de la igualdad sustantiva en la Ciudad de México, se reconoce el derecho de:
 
-1. Las madres, por adopción, a un permiso por maternidad de quince días naturales y;
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2021)</small>
 
-2. Los padres, por consanguinidad o adopción, a un permiso por paternidad de quince días naturales.
+1. Las madres por adopción, a un permiso por maternidad que comprenda el mismo período establecido por maternidad posterior al parto, que contará a partir de que reciba a la niña o niño adoptado; y
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+2. Los padres por consanguinidad o adopción, a gozar de un permiso por paternidad que comprenda el mismo período establecido por maternidad posterior al parto, que contará a partir del nacimiento o recepción de la niña o niño, según sea el caso.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+Lo anterior, de conformidad con lo previsto por la legislación federal laboral y de seguridad social que regule el régimen de las actividades al que las madres y padres se hayan registrado.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2021)</small>
+
+Los entes públicos realizarán acciones para promover y garantizar, la incorporación del permiso por paternidad antes mencionado, en los sectores público y privado.
 
 III. El derecho a la información necesaria para hacer efectiva la igualdad sustantiva, para lo cual los entes públicos pondrán a disposición de los individuos la información sobre políticas, instrumentos y normas relativas a la igualdad sustantiva entre mujeres y hombres.
 
@@ -767,3 +779,11 @@ PRIMERO.- Publiquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- A efecto de dar cumplimiento a lo dispuesto en el presente decreto, la persona Titular de la Jefatura de Gobierno de la Ciudad de México, contará con un plazo que no excederá de 30 días hábiles para, de ser el caso, armonizar el contenido reglamentario de la presente Ley.
+
+G.O. 10 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO, EL INCISO A) Y LOS NUMERALES 1 Y 2 DE LA FRACCIÓN II DEL ARTÍCULO 21 DE LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MÉXICO".]
+
+PRIMERO. - Remítase a la persona Titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
