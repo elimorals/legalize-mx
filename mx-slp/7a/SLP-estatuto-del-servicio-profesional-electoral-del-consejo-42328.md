@@ -4,7 +4,7 @@ identifier: "SLP-estatuto-del-servicio-profesional-electoral-del-consejo-42328"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-12-25"
-last_updated: "2004-12-25"
+last_updated: "2021-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42328&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL DEL CONSEJO ESTATAL ELECTORAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO DEL PERSONAL DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 10 DE FEBRERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL DEL CONSEJO ESTATAL ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2021 (ABROGADO).
 
 Estatuto publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 25 de diciembre de 2004.
 
@@ -600,3 +602,25 @@ EL SECRETARIO DE ACTAS
 LIC. RAFAEL RENTERÍA ARMENDÁRIZ
 
 (Rúbrica)
+
+P.O. 10 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO DEL PERSONAL DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE SAN LUIS POTOSÍ|”.]
+
+PRIMERO. Este Consejo Estatal Electoral y de Participación Ciudadana en (sic) competente para emitir el presente Estatuto de conformidad en lo dispuesto por los artículos 44, fracción I, inciso j), 483, 484 y 485 de la Ley Electoral del Estado.
+
+SEGUNDO. Las disposiciones del presente estatuto entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. A partir de la entrada en vigor del presente Estatuto, se abroga el Estatuto del Servicio Profesional del Consejo Estatal Electoral de San Luis Potosí, publicado en el Periódico Oficial del Estado el 25 de diciembre de 2004, y se derogan todas las disposiciones que contravengan este ordenamiento.
+
+CUARTO. Para la emisión de la normativa que derive de las diversas disposiciones contenidas en el presente Estatuto, los órganos ejecutivos y técnicos correspondientes del Consejo, contarán con 90 días siguientes a la entrada en vigor del presente estatuto, para elaborar y poner a consideración de los órganos que correspondan, los proyectos respectivos.
+
+QUINTO. Las disposiciones correspondientes a la evaluación del desempeño del personal de la Rama Administrativa del Consejo, iniciarán su aplicación, a partir de que sean aprobados los lineamientos y demás normativa que las desarrolle.
+
+SEXTO. Para el caso de que el Consejo deba emitir acuerdos de actualización de estructura sin que para ese momento se encuentren emitidas las disposiciones normativas conducentes a que se refiere el artículo transitorio noveno del presente Estatuto, éstos procederán sin necesidad de seguir el procedimiento previsto en el presente reglamento, siempre que se respeten para ello los criterios técnicos contenidos en el artículo 21 de este Estatuto.
+
+La estructura orgánica así aprobada y registrada será la base sobre la cual la se deberá llevar el seguimiento y control de las modificaciones posteriores que podrán solicitar las áreas responsables a sus estructuras.
+
+SEPTIMO. Publíquese en el Periódico Oficial del estado para los efectos legales conducentes, en la página electrónica oficial del Organismo www.ceepacslp.org.mx y en los Estrados del Consejo Estatal Electoral y de Participación Ciudadana.
+
+El presente Estatuto fue aprobado por unanimidad de votos del Pleno del Consejo Estatal Electoral y de Participación Ciudadana, en Sesión Ordinaria de fecha 08 de febrero de 2021.
