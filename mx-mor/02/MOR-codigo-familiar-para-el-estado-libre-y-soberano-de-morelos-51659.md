@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2020-11-25"
+last_updated: "2021-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1975,15 +1975,23 @@ Su ejercicio tiene como contenido la protección integral del incapaz en sus asp
 
 CONTROVERSIA ENTRE LOS OBLIGADOS. En el caso de controversia entre los obligados, se deberán poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los que ejercen la patria potestad, debiendo ser uno de estos y pudiéndose compartir la custodia. En defecto de ese acuerdo; el juez de lo familiar resolverá lo conducente, debiendo tomar siempre en cuenta la opinión del menor.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2021)</small>
+
 ###### ARTÍCULO 222.
 
-CUIDADO DE LOS MENORES DE SIETE AÑOS. Salvo peligro grave para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos.
+CUIDADO DE LOS MENORES. Salvo peligro grave para el normal desarrollo de los hijos, los mayores de doce años decidirán cuál de sus progenitores ejercerá su custodia.
+
+Para el caso de los menores de doce años, el juez de lo familiar, una vez que preferentemente los haya escuchado y, procurando en todo momento salvaguardar el interés superior del niño, determinará cuál de los progenitores ejercerá la custodia.
+
+No será obstáculo para la preferencia en la custodia, el hecho de que la madre o el padre carezcan de recursos económicos.
 
 ###### ARTÍCULO 223.
 
 CONTENIDO DE LA SENTENCIA DEFINITIVA. La sentencia que se pronuncie en definitiva, fijará la situación de los hijos, para lo cual el juez de lo familiar deberá resolver todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión, limitación o recuperación, según sea el caso.
 
-Deberá procurarse en lo posible el régimen de custodia compartida del padre y la madre, pudiendo los hijos e hijas permanecer de manera plena e ilimitada con ambos padres, en caso de que algún ascendiente tuviese la custodia, el otro que no la posee, a partir de que los menores cumplan siete años podrá demandar en lo posible custodia para ambos padres, lo anterior en función de las posibilidades de éstos y aquellos, así como que no exista con alguno de los progenitores peligro alguno para su normal desarrollo.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2021)</small>
+
+Deberá procurarse en lo posible el régimen de custodia compartida del padre y la madre, pudiendo los hijos e hijas permanecer de manera plena e ilimitada con ambos padres, en caso de que algún ascendiente tuviese la custodia, el otro que no la posee, podrá demandar en lo posible custodia para ambos padres, lo anterior en función de las posibilidades de éstos y aquellos, así como que no exista con alguno de los progenitores peligro alguno para su normal desarrollo.
 
 La recuperación de la patria potestad procederá únicamente en aquellos casos que por cuestiones alimentarias de (sic) haya perdido, siempre y cuando acredite que se ha cumplido con dicha obligación.
 
@@ -6750,3 +6758,13 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 10 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS TREINTA Y UNO.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 222 Y 223 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
