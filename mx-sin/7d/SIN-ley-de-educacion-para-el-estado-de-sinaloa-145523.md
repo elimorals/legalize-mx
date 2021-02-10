@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-145523"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-04"
-last_updated: "2020-12-04"
+last_updated: "2021-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2021.
 
 Ley publicada en la Sección Segunda al Número 146 del Periódico Oficial del Estado de Sinaloa, el viernes 4 de diciembre de 2020.
 
@@ -1487,7 +1487,13 @@ XXXI. Realizar acciones en el nivel de educación básica y media superior para 
 
 XXXII. Respetar íntegramente los derechos adquiridos de los trabajadores de la educación, así como reconocer aquellos adquiridos mediante acuerdos alcanzados a través de convenios, minutas y acuerdos celebrados por el Gobierno del Estado, a través de las instancias respectivas y su organización sindical, que estipulan beneficios laborales, profesionales, salariales y sociales, que no contravengan esta Ley y las Leyes Generales de la materia.
 
-En atención a lo previsto en el párrafo anterior, al Acuerdo Nacional para la Modernización de la Educación Básica y al Decreto de creación del organismo Servicios de Educación Pública Descentralizada del Estado, los trabajadores de la educación jubilados y pensionados federalizados, afiliados al Sindicato Nacional de Trabajadores de la Educación, Sección 27, así como, los trabajadores jubilados y pensionados homologados de educación media superior y superior en la entidad, tienen derecho a percibir un aguinaldo de 65 días de salario de la respectiva cuota diaria de pensión. En virtud de que los trabajadores reciben una parte del aguinaldo a través del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Gobierno del Estado por conducto de los Servicios de Educación Pública Descentralizada del Estado, cubrirá la diferencia que resulte. Quedan excluidos de esta disposición los trabajadores que estén bajo el régimen de cuentas individuales;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2021)</small>
+
+En atención a lo previsto en el párrafo anterior, al Acuerdo Nacional para la Modernización de la Educación Básica y al Decreto de creación del organismo Servicios de Educación Pública Descentralizada del Estado, los trabajadores de la educación jubilados y pensionados federalizados, afiliados al Sindicato Nacional de Trabajadores de la Educación, Sección 27, así como, los trabajadores jubilados y pensionados homologados de educación media superior y superior en la entidad, tienen derecho a percibir un aguinaldo de 65 días de salario de la respectiva cuota diaria de pensión. En virtud de que los trabajadores reciben una parte del aguinaldo a través del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Gobierno del Estado por conducto de los Servicios de Educación Pública Descentralizada del Estado, cubrirá la diferencia que resulte.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2021)</small>
+
+También los trabajadores de la educación federalizados pertenecientes a la Sección 27 del Sindicato Nacional de los Trabajadores de la Educación jubilados y pensionados que se encuentran dentro del régimen de cuentas individuales, recibirán 25 días de aguinaldo por parte del Gobierno del Estado.
 
 XXXIII. Emitir la Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación que prestan en términos de esta Ley;
 
@@ -2236,3 +2242,11 @@ LUIS ALBERTO DE LA VEGA ARMENTA
 Secretario de Educación Pública y Cultura
 
 JUAN ALFONSO MEJÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 567 DEL H. CONGRESO DEL ESTADO.- SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA UN PÁRRAFO TERCERO, A LA FRACCIÓN XXXII, DEL ARTÍCULO 145 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
