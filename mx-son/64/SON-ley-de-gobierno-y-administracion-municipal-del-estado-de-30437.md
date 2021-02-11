@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2020-10-01"
+last_updated: "2021-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "SON"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE FEBRERO DE 2021 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL ESTADO DE SONORA EL 11 DE FEBRERO DE 2021.]</small>
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -3571,9 +3571,11 @@ II.- La regulación de la administración y funcionamiento de los separos preven
 
 III.- Establecer de manera precisa las facultades y restricciones de los servidores públicos adscritos a los separos preventivos.
 
-> <small>(ADICIONADO, B.O. 1 DE OCTUBRE DE 2020)</small>
+(ADICIONADO, B.O. 1 DE OCTUBRE DE 2020) (F. DE E., B.O. 11 DE FEBRERO DE 2021)
 
-Artículo 344 Bis 2 (sic).- En relación con las disposiciones contenidas en el artículo anterior, así como en lo establecido en el artículo 210 de la Ley de Seguridad Pública para el Estado de Sonora, los integrantes del Ayuntamiento deberán analizar trimestralmente el seguimiento y avance de las medidas implementadas, para lo cual, se anotará en el orden del día de la sesión que corresponda.
+###### Artículo 347 Bis 2.
+
+En relación con las disposiciones contenidas en el artículo anterior, así como en lo establecido en el artículo 210 de la Ley de Seguridad Pública para el Estado de Sonora, los integrantes del Ayuntamiento deberán analizar trimestralmente el seguimiento y avance de las medidas implementadas, para lo cual, se anotará en el orden del día de la sesión que corresponda.
 
 ###### Artículo 348.
 
