@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-de-datos-personales-en-posesion-de-127761"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-10"
-last_updated: "2020-11-18"
+last_updated: "2021-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127761&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-02-22"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 2021.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el martes 10 de abril de 2018.
 
@@ -362,23 +362,37 @@ II. Previo al uso o aprovechamiento, cuando los datos personales se obtienen de 
 
 Las reglas anteriores, no eximen al responsable de proporcionar al titular el aviso de privacidad integral en momento posterior, conforme a las disposiciones aplicables de la presente Ley.
 
-> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 21 Ter.
 
-El aviso de privacidad integral, además de lo dispuesto en las fracciones del artículo anterior y al que refiere la fracción V del artículo 21 deberá contener, al menos, la siguiente información:
+El aviso de privacidad integral además de lo dispuesto en las fracciones del artículo 21, al que refiere la fracción V de dicho precepto, deberá contener, al menos, la siguiente información:
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
 
 I. El domicilio del responsable;
 
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 II. Los datos personales que serán sometidos a tratamiento, identificando aquéllos que son sensibles;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
 
 III. El fundamento legal que faculta al responsable para llevar a cabo el tratamiento;
 
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 IV. Las finalidades del tratamiento para las cuales se obtienen los datos personales, distinguiendo aquéllas que requieren el consentimiento del titular;
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
 
 V. Los mecanismos, medios y procedimientos disponibles para ejercer los derechos ARCO;
 
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
+
 VI. El domicilio de la Unidad de Transparencia, y
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2019)</small>
 
 VII. Los medios a través de los cuales el responsable comunicará a los titulares los cambios al aviso de privacidad.
 
@@ -1020,13 +1034,11 @@ Los responsables que en el ejercicio de sus funciones sustantivas lleven a cabo 
 
 Los sujetos obligados promoverán acuerdos con instituciones públicas especializadas que pudieran auxiliarles a la recepción, trámite y entrega de las respuestas a solicitudes de información, en la lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente.
 
-(NOTA: EL 11 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 47/2018 Y SU ACUMULADA 48/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 11 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 77.
 
-El responsable procurará que los grupos vulnerables, puedan ejercer, en igualdad de circunstancias, su derecho a la protección de datos personales.
+El responsable garantizará que las personas con algún tipo de discapacidad o grupos vulnerables, puedan ejercer, en igualdad de circunstancias su derecho a la protección de datos personales.
 
 ## TÍTULO OCTAVO
 
@@ -1274,13 +1286,17 @@ De llegar a un acuerdo, éste se hará constar por escrito y tendrá efectos vin
 
 Admitido el recurso de revisión, el Instituto promoverá la conciliación entre las partes, de conformidad con el siguiente procedimiento:
 
-I. El Instituto y los Organismos garantes, según corresponda, requerirán a las partes que manifiesten, por cualquier medio, su voluntad de conciliar, en un plazo no mayor a siete días, contados a partir de la notificación de dicho acuerdo, mismo que contendrá un resumen del recurso de revisión y de la respuesta del responsable si la hubiere, señalando los elementos comunes y los puntos de controversia.
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 2021)</small>
 
-La conciliación podrá celebrarse presencialmente, por medios remotos o locales de comunicación electrónica o por cualquier otro medio que determine el Instituto o los Organismos garantes, según corresponda. En cualquier caso, la conciliación habrá de hacerse constar por el medio que permita acreditar su existencia.
+I. El Instituto requerirá a las partes que manifiesten, por cualquier medio, su voluntad de conciliar, en un plazo no mayor a siete días, contados a partir de la notificación de dicho acuerdo, mismo que contendrá un resumen del recurso de revisión y de la respuesta del responsable si la hubiere, señalando los elementos comunes y los puntos de controversia.
+
+La conciliación podrá celebrarse presencialmente, por medios remotos o locales de comunicación electrónica o por cualquier otro medio que determine el organismo garante. En cualquier caso, la conciliación habrá que hacerse por el medio que permita acreditar su existencia.
 
 Queda exceptuado de la etapa de conciliación, cuando el titular sea menor de edad y se haya vulnerado alguno de los derechos contemplados en la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes, vinculados con la Ley y el Reglamento, salvo que cuente con representación legal debidamente acreditada;
 
-II. Aceptada la posibilidad de conciliar por ambas partes, el Instituto y los Organismos garantes, según correspondan, señalarán el lugar o medio, día y hora para la celebración de una audiencia de conciliación, la cual deberá realizarse dentro de los diez días siguientes en que el Instituto o los Organismos garantes, según corresponda, hayan recibido la manifestación de la voluntad de conciliar de ambas partes, en la que se procurará avenir los intereses entre el titular y el responsable.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE FEBRERO DE 2021)</small>
+
+II. Aceptada la posibilidad de conciliar por ambas partes, el organismo garante, señalará el lugar o medio, día y hora para la celebración de una audiencia de conciliación, la cual deberá realizarse dentro de los diez días siguientes en que el organismo garante, haya recibido la manifestación de la voluntad de conciliar de ambas partes, en la que se procurará avenir los intereses entre el titular y el responsable.
 
 El conciliador podrá, en todo momento en la etapa de conciliación, requerir a las partes que presenten en un plazo máximo de cinco días, los elementos de convicción que estime necesarios para la conciliación.
 
@@ -1292,11 +1308,17 @@ III. Si alguna de las partes no acude a la audiencia de conciliación y justific
 
 IV. De no existir acuerdo en la audiencia de conciliación, se continuará con el recurso de revisión;
 
-V. De llegar a un acuerdo, éste se hará constar por escrito y tendrá efectos vinculantes. El recurso de revisión quedará sin materia y el Instituto, o en su caso, los Organismos garantes, deberán verificar el cumplimiento del acuerdo respectivo, y
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 2021)</small>
 
-VI. El cumplimiento del acuerdo dará por concluido la sustanciación del recurso de revisión, en caso contrario, el Instituto reanudará el procedimiento.
+V. De llegar a un acuerdo, éste se hará constar por escrito y tendrá efectos vinculantes. El recurso de revisión quedará sin materia y el instituto verificará el cumplimiento del acuerdo respectivo, y
 
-El plazo será suspendido durante el periodo de cumplimiento del acuerdo de conciliación.
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 2021)</small>
+
+VI. El cumplimiento del acuerdo dará por concluido la sustanciación del recurso de revisión, en caso contrario, el organismo garante reanudará el procedimiento.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, G.O. 11 DE FEBRERO DE 2021]</small>
+
+El plazo para resolver el recurso de revisión será suspendido durante el periodo de cumplimiento del acuerdo de conciliación.
 
 ###### Artículo 96.
 
@@ -1669,3 +1691,11 @@ PRIMERO.- Remítase a la Jefatura de Gobierno para efectos de su publicación en
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México
 
 TERCERO.- El Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, contará con un plazo de 30 días hábiles para la armonización de los lineamientos en materia de protección de datos personales con las disposiciones del presente Decreto.
+
+G.O. 11 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL SE QUE APRUEBAN EN SU TOTALIDAD LAS OBSERVACIONES REALIZADAS POR LA JEFATURA DE GOBIERNO DE LA CIUDAD DE MÉXICO AL PROYECTO DE DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 21 TER, 77 Y 95 EN SUS FRACCIONES I, II, V, VI Y ÚLTIMO PÁRRAFO, TODOS DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
