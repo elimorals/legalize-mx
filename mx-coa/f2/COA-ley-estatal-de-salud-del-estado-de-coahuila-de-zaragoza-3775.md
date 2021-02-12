@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2020-11-27"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -327,13 +327,17 @@ XVI. Impulsar la mejora de los procesos de atención a la salud mediante la impl
 
 XVII. En coordinación con las autoridades competentes, implementar y difundir los planes de contingencia de disturbios previstos en la Ley de Protección Civil para el Estado de Coahuila y demás disposiciones que de ella se deriven.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
 
-XVIII. Establecer, promover y coordinar el Registro Estatal de Cáncer, y
+XVIII. Establecer, promover y coordinar el Registro Estatal de Cáncer;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2021)</small>
+
+XIX. Diseñar, implementar y evaluar programas permanentes para la prevención de embarazos en menores de edad; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XVIII], P.O. 20 DE MARZO DE 2020)</small>
 
-XIX. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XX. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 ###### Artículo 8o.
 
@@ -4142,3 +4146,11 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 797.- SE REFORMA EL ARTÍCULO 53 DE LA LEY ESTATAL DE SALUD”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 918.- SE REFORMA LA FRACCIÓN XVIII Y ADICIONA UNA FRACCIÓN XIX, RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 7o. DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
