@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2021-01-29"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de marzo de 2016.
 
@@ -447,7 +447,9 @@ El Gobierno del Estado, a través de la Secretaría de Salud, deberá desarrolla
 
 Las modalidades de la violencia contra las mujeres son:
 
-I. Violencia en el ámbito familiar: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres en cualquier etapa de su vida, mediante la realización de uno o varios tipos de violencia, dentro o fuera del domicilio familiar, cuando la persona agresora tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación afectiva o de hecho;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
+
+I. Violencia en el ámbito familiar: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres en cualquier etapa de su vida, mediante la realización de uno o varios tipos de violencia, dentro o fuera del domicilio familiar, cuando la persona agresora tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación afectiva o de hecho, reconociendo como parte de esta todas las formas de maltrato contempladas en la fracción III del artículo 10 de la Ley de Prevención, Asistencia y Atención de la Violencia Familiar del Estado de Coahuila.
 
 II. Violencia en el noviazgo: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres de cualquier edad, mediante la realización de uno o varios tipos de violencia, durante o después de una relación de noviazgo, una relación afectiva o de hecho o una relación sexual;
 
@@ -2516,3 +2518,9 @@ P.O. 29 DE ENERO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 914.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 9 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
