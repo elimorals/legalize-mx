@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-tramite-y-sustanciacion-de-quejas-y-122885"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2017-08-16"
+last_updated: "2021-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122885&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-08-04"
 ---
 # REGLAMENTO PARA EL TRAMITE Y SUSTANCIACION DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACION DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 12 DE FEBRERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 12 DE FEBRERO DE 2021 (ABROGADO).
 
 Acuerdo publicado en el Número 134 de la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -969,3 +971,17 @@ PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su public
 SEGUNDO. Se abroga el Reglamento para el Trámite y Sustanciación de Quejas y Procedimientos de Investigación del Instituto Electoral del Distrito Federal, aprobado mediante acuerdo del Consejo General ACU-75-16 del 10 de octubre de 2016.
 
 TERCERO. Se abroga el Reglamento que regula el uso de recursos públicos, propaganda institucional y gubernamental, así como los actos anticipados de precampaña y de campaña, para los procesos electorales ordinarios del Distrito Federal, aprobado mediante acuerdo del Consejo General ACU-54-11 del 21 de septiembre de 2011.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBAN LAS REFORMAS AL REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga el Reglamento para el Trámite y Sustanciación de Quejas y Procedimientos de Investigación del Instituto Electoral de la Ciudad de México, aprobado mediante acuerdo IECM-ACU-CG-026-17 del Consejo General emitido el 4 de agosto de 2017.
+
+TERCERO. El registro que realice este Instituto respecto a las personas sancionadas por violencia política contras (sic) las mujeres en razón de género señalado en el TÍTULO SEXTO del Reglamento comenzará a partir de la entrada en vigor y en términos de lo señalado en los “Lineamientos para la integración, funcionamiento, actualización y conservación del Registro Nacional de Personas Sancionadas en Materia de Violencia Política Contra las Mujeres en Razón de Género”.
+
+CUARTO. Para el cumplimiento de lo señalado en el artículo 11, párrafo segundo del Reglamento, relativo a la digitalización completa de los expedientes de procedimientos especiales 6 (sic) por parte de la Dirección Ejecutiva o la Unidad Técnica, se realizará una vez que se cuente con la suficiencia presupuestaria para la contratación de personal y adquisición de equipo tecnológico para su debido cumplimiento.
