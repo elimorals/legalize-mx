@@ -4,7 +4,7 @@ identifier: "COA-ley-de-urgencias-medicas-para-el-estado-de-coahuila-de-104799"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-19"
-last_updated: "2020-12-18"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE URGENCIAS MÉDICAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de diciembre de 2014.
 
@@ -69,11 +69,17 @@ V. Hospitalización: Ingreso a u (sic) hospital de una persona enferma o herida 
 
 VI. Institución: Se refiere a todos aquellos lugares públicos o privados, en los que se brindan servicios de atención médica, los cuales pueden ser llamados hospitales, unidades médicas, centro de salud, nosocomio, etc.
 
-VII. Paciente declarado con una emergencia o urgencia médica: Aquella persona con un status especial, debido a que su patología evoluciona rápidamente hacia estados de gravedad.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
+
+VII. Paciente declarado con una emergencia, urgencia médica o urgencia vital: Aquella persona con un status especial, debido a que su patología evoluciona rápidamente hacia estados de gravedad que podrían provocar la pérdida de la vida.
 
 VIII. Triage: Proceso dinámico mediante el cual se determina el orden de prioridad en que se debe de dar la atención médica a las personas.
 
 IX. Urgencia Médica: Es la alteración de la integridad física y/o mental de una persona, causada por un trauma o enfermedad de cualquier género, que demanda de atención médica inmediata y efectiva.
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2021)</small>
+
+X. Urgencia Vital: Es toda condición clínica que implique el riesgo de muerte o secuela funcional grave. La atención médica debe ser inmediata, irrestricta e impostergable.
 
 ###### Artículo 5.
 
@@ -155,7 +161,9 @@ Gestionar ante la Secretaría de Salud y la Secretaría de Inclusión y Desarrol
 
 Los requisitos para poder ser atendidos por medio de los beneficios que se otorgan en esta Ley son:
 
-A. La causa de Salud debe ser de "urgencia y/o emergencia médica"
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+A. La causa de Salud debe ser de "emergencia, urgencia médica y/o urgencia vital".
 
 B. El Paramédico o Médico de la sala de urgencias de la institución lo catalogue como tal.
 
@@ -282,5 +290,11 @@ DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere
 P.O. 18 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 798.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 5 DE LA LEY DE URGENCIAS MÉDICAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 917.- SE MODIFICA LA FRACCIÓN VII Y SE AGREGA LA FRACCIÓN X AL ARTÍCULO 4, SE MODIFICA EL INCISO A DEL ARTÍCULO 19 DE LA LEY DE URGENCIAS MÉDICAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
