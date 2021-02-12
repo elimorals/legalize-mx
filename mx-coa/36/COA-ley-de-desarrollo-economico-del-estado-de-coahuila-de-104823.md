@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-economico-del-estado-de-coahuila-de-104823"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2021-01-26"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -537,7 +537,11 @@ IV. Coordinar con la Secretaría, en el ámbito de su competencia, las acciones 
 
 V. Proponer, en el ámbito de su competencia, estrategias en materia de mejora regulatoria y simplificación administrativa, para la homologación de trámites y reducción de requisitos y plazos que faciliten y agilicen el establecimiento y operación de industrias, comercios y empresas de servicios; y
 
-VI. Las demás que se establezcan en esta u otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2021)</small>
+
+VI. Impulsar el desarrollo de Agrupamientos Empresariales Estratégicos (CLUSTERS) en cada una de las regiones; y
+
+VII. Las demás que se establezcan en esta u otras disposiciones aplicables.
 
 ### CAPÍTULO VIII. FONDOS DE INVERSIÓN
 
@@ -659,53 +663,51 @@ Si se recurre la imposición de una multa, se suspenderá el cobro de ésta hast
 
 Los recursos que sean interpuestos en los términos previstos por esta Ley, deberán ser resueltos por la autoridad que de ellos conozca en un plazo no mayor a treinta días hábiles, contados a partir de la fecha de su interposición.
 
-T R A N S I T O R I O S
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2021)</small>
 
-### CAPITULO SEXTO.- RESPONSABILIDAD CIVIL PROVENIENTE DE DELITO
+### CAPÍTULO XI. DE LOS AGRUPAMIENTOS EMPRESARIALES ESTRATÉGICOS (CLUSTERS)
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 50.
 
-El procedimiento en materia de defensa social comprende cuatro períodos:
+Se entiende por Agrupamientos Empresariales Estratégicos al grupo de empresas de un mismo sector de actividad económica o de actividades económicas estrechamente relacionadas, en una zona geográfica definida, organizadas con el propósito de elevar sus niveles de productividad, competitividad y rentabilidad.
 
-I.- El de averiguación previa que, a su vez se divide en dos fases:
-
-a).- Diligencias preparatorias de la acción persecutoria del delito, que son aquéllas legalmente necesarias para que el Ministerio Público pueda resolver si ejercita o no la acción de defensa social; y,
-
-b).- Diligencias que practica la autoridad judicial para determinar, si radica o no el proceso, si dicta o no la orden de aprehensión y si decreta dentro del término constitucional, la formal prisión o la libertad por falta de méritos o la declaración de sujeción a proceso del acusado;
-
-II.- El de instrucción, que comprende todas las diligencias practicadas por los tribunales con el fin de averiguar la existencia legal de los delitos, las circunstancias en que hubiesen sido cometidos y la responsabilidad o irresponsabilidad de los acusados;
-
-III.- El de juicio, durante el cual el Ministerio Público precisa su acusación y el acusado su defensa, a fin de que el Juez estime el valor de las pruebas y pronuncie sentencia definitiva; y
-
-IV.- El de ejecución, que abarca desde el momento en que causa ejecutoria la sentencia dictada, hasta la extinción completa de las sanciones impuestas.
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 51.
 
-El Ministerio Público durante la averiguación previa, deberá:
+El Gobernador del Estado, a través de la Secretaría, promoverá la creación y fortalecimiento de agrupamientos empresariales estratégicos (CLUSTERS).
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2000)</small>
-
-I.- Recibir las audiencias o querellas de los particulares o de las autoridades sobre hechos que puedan constituir delitos; así como recabar con toda oportunidad y eficacia las pruebas necesarias para acreditar el cuerpo del delito y la probable responsabilidad de los indiciados.
-
-II.- (DEROGADA, P.O. 24 DE MARZO DE 2000)
-
-III.- Ejercitar ante los órganos jurisdiccionales la acción persecutoria o de defensa social.
-
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 1994)</small>
-
-IV.- Al servidor público que indebidamente quebrante la reserva de las actuaciones o proporcione copia de ellas o de los documentos que obren en la averiguación, sin que proceda, se le sujetará a procedimiento de responsabilidad administrativa, penal o civil, según corresponda.
-
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2000)</small>
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 52.
 
-Durante la averiguación previa, la autoridad judicial practicará las diligencias que la Ley señala para comprobar el cuerpo del delito y la probable responsabilidad del o los inculpados, así como las que solicitaren las partes y fueren conducentes, para determinar si debe dictarse auto de formal prisión, de libertad por falta de méritos, de sujeción a proceso o no sujeción a proceso.
+Los Consejos Regionales de Desarrollo funcionarán como órganos auxiliares consultivos, asesores y promotores para el impulso, fortalecimiento y creación de agrupamientos empresariales estratégicos (CLUSTERS) que el Estado requiere para la atracción de mayor inversión.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 53.
 
-Los períodos de instrucción y de juicio constituyen el proceso de defensa social dentro del cual corresponde exclusivamente a los Tribunales, resolver si un hecho es o no delito; determinar la responsabilidad o irresponsabilidad de las personas acusadas ante ellos e imponer las sanciones que procedan con arreglo a la ley.
+Son objetivos de los Agrupamientos Empresariales Estratégicos (CLUSTERS), los siguientes:
+
+I. Fungir como plataforma de diálogo entre el sector público y el privado para diseñar e implementar estrategias que favorezcan el desarrollo de la industria o sector;
+
+II. Proponer políticas, estrategias, acciones y programas para fomentar la investigación, innovación y el desarrollo tecnológico en su industria o sector;
+
+III. Realizar estudios sobre planeación estratégica y de necesidades de recursos humanos dentro de su industria o sector;
+
+IV. Promover la formación de capital humano especializado para el fortalecimiento de la industria o sector;
+
+V. Fomentar y diseñar programas de apoyo y fortalecimiento a la red de proveedores de bienes y servicios, especialmente apoyando la integración de las micro, pequeñas y medianas empresas con las grandes empresas;
+
+VI. Difundir los casos de éxito de la industria o sector para aprovecharlos en la competencia con otras regiones económicas; y
+
+VII. Promover en coordinación con la Secretaría, la difusión de sus proyectos, programas, iniciativas y resultados.
+
+VIII. (SIC)
+
+T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
 
@@ -850,5 +852,11 @@ Segundo.- Se derogan todas las disposiciones legales que se opongan al presente 
 P.O. 26 DE ENERO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 870.- SE REFORMA EL ARTÍCULO 1 DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 912.- SE ADICIONA UNA FRACCIÓN IV, RECORRIENDO LA ACTUAL, AL ARTÍCULO 36, Y EL CAPÍTULO XI CON LOS ARTÍCULOS 50, 51, 52 Y 53 A LA LEY DE DESAROOLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
