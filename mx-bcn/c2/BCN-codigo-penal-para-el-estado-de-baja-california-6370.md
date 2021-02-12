@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2020-11-27"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2077,7 +2077,7 @@ Agravación de pena.- Si los asaltantes atacaren una población, se aplicarán d
 
 ### CAPITULO I. VIOLACION
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 174.
 
@@ -2097,7 +2097,7 @@ Cuando el activo del delito tenga parentesco por consanguineidad o afinidad con 
 
 ### CAPITULO II. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 175.
 
@@ -2151,7 +2151,7 @@ ARTÍCULO 184 QUINQUIES.- Agravación de la punibilidad.- La pena prevista en el
 
 ###### Artículo 176.
 
-Tipo y punibilidad de la violación.- Se impondrá prisión de diez a quince años y hasta trescientos días multa, al que por medio de la violencia física ó moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo; si la persona ofendida fuere menor de catorce años la pena de prisión será de quince a veintidós años y hasta quinientos días multa.
+Tipo y punibilidad de la violación.- Se impondrá prisión de diez a veinte años y hasta trescientos días multa, al que por medio de la violencia física ó moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo; si la persona ofendida fuere menor de catorce años la pena de prisión será de quince a treinta años y hasta quinientos días multa.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -2203,15 +2203,15 @@ Las penas señaladas en los artículos 176, 177 y 178, se incrementarán hasta e
 
 ###### Artículo 180.
 
-Tipo y punibilidad.- Al que sin consentimiento de una persona ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de dos a ocho años de prisión y hasta doscientos días multa.
+Tipo y punibilidad.- Al que sin consentimiento de una persona ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de dos a diez años de prisión y hasta doscientos días multa.
 
-Si se hiciere uso de la violencia física o moral, la pena se aumentará de uno a tres años.
+Si se hiciere uso de la violencia física o moral, la pena se aumentará de dos a cuatro años
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 180 Bis.
 
-Sub tipo y puniblidad (sic).- Al que con o sin el consentimiento de una persona menor de catorce años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo, ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de ocho a doce años de prisión y hasta trescientos días multa.
+Sub tipo y punibilidad.- Al que con o sin el consentimiento de una persona menor de catorce años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo, ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de ocho a trece años de prisión y una multa de hasta quinientas veces la unidad de medida y actualización.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2007)</small>
 
@@ -2461,7 +2461,9 @@ El delito de robo de uso se perseguirá por querella de parte ofendida.
 
 Robo Calificado.- Se aplicará al delincuente la misma pena del robo con violencia, adicionando a su vez las penas previstas en este artículo, en los casos siguientes:
 
-I.- Se impondrá de dos a siete años:
+(NOTA: EL 10 DE MAYO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 47/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE FEBRERO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 173, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I.- SE IMPONDRÁ DE DOS A SIETE AÑOS:
 
 a) Cuando el delito se cometa en edificio, vivienda, aposento o cuartos que estén habitados o destinados para habitación comprendiéndose en esta denominación no solo los que estés (sic) fijados sino también los movibles, sea cual fuere la materia de que están construidos;
 
@@ -2487,7 +2489,13 @@ k) Cuando se cometa aprovechando las condiciones que se produzcan por catástrof
 
 l) Cuando una vez retirado dinero en efectivo de una institución financiera o de sus equipos o centros cambiarios de divisas, el robo se cometa en contra de la persona que lo porta, custodie o transporte dentro del lugar de retiro o en el camino de este último a su destino inmediato.
 
-m) Cuando se cometa en un establecimiento, negociación o comercio con servicio al público.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2021)</small>
+
+m) Cuando el que, siendo propietario, socio o empleado de una institución financiera o centro cambiario de divisas, o que desempeñe funciones dentro de las mismas independientemente de su naturaleza laboral, facilite información a terceros o de cualquier manera coopere o participe en la comisión de la conducta descrita en el inciso anterior.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE FEBRERO DE 2021)</small>
+
+n) Cuando se cometa en un establecimiento, negociación o comercio con servicio al público.
 
 II.- Se impondrá prisión de uno a cinco años:
 
@@ -6117,21 +6125,17 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 589 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO”.]
+P.O. 12 DE FEBRERO DE 2021.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 173 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 208 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
-P.O. 17 DE ENERO DE 2024.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 591 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+P.O. 12 DE FEBRERO DE 2021.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 176 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 176, 180 Y 180 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-TERCERO. Los Ayuntamientos de los municipios del Estado contarán con un plazo de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normativa reglamentaria aplicable.
-
-P.O. 19 DE ENERO DE 2024.
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 607 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
