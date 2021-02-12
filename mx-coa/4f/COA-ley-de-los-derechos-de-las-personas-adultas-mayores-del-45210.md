@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2021-01-29"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -361,9 +361,13 @@ Los centros o servicios públicos de prevención y atención de la salud prestar
 
 8. Recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a toda aquella instrucción que favorezca su autocuidado o cuidado personal, también participar en las decisiones sobre tratamiento de sus enfermedades, excepto en casos en que, judicialmente, sea declarado incapaz.
 
-9. Contar con una cartilla médica y autocuidado para el control de su salud. Esta cartilla deberá ser entregada por las autoridades sanitarias competentes.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
-Dichas autoridades promoverán y proporcionarán la atención cuando ésta sea requerida, fundamentalmente en beneficio de aquella población que no sea derechohabiente de ninguna institución de seguridad social y de quien se encuentre en extrema pobreza.
+9. Contar con una cartilla médica y autocuidado para el control de su salud. Esta cartilla deberá ser entregada por las autoridades sanitarias competentes y será expedida una vez que acuda a usar los servicios de salud para cualquier situación de atención.
+
+Dichas autoridades promoverán y proporcionarán una atención pronta y de calidad cuando ésta sea requerida con urgencia, y fundamentalmente será en beneficio de aquella población que no es derechohabiente de ninguna institución de seguridad social y de quien se encuentre en extrema pobreza.
+
+Las evaluaciones geriátricas deberán realizarse de manera periódica con el fin de conocer los cuidados que requieren las personas adultas mayores y así, detectar, prevenir y combatir los riesgos de cualquier enfermedad.
 
 10. Expresar su opinión libremente, conocer sus derechos y participar en el ámbito familiar y comunitario, así como en todo procedimiento administrativo o judicial, que afecte sus esferas personal, familiar y social.
 
@@ -512,6 +516,10 @@ Los centros de salud, públicos y privados, llevarán a cabo las siguientes acci
 I. Tener registros actualizados del ingreso y el egreso de personas adultas mayores, donde conste el tratamiento y la atención médica que se les brindó.
 
 II. Gestionar, en forma inmediata una cartilla médica para el control de salud y autocuidado para la persona adulta mayor, por medio del centro de salud de su adscripción. La cartilla médica de control de salud y autocuidado contendrá un resumen del historial de salud de las personas adultas mayores y servirá para identificarla en instituciones de salud, tanto públicas como privadas.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+Realizarán periódicamente evaluaciones geriátricas a aquellas personas adultas mayores que lo requieran y que sean o no derechohabiente de alguna institución de seguridad social.
 
 > <small>(ADICIONADA, P.O. 29 DE JULIO DE 2014)</small>
 
@@ -1033,17 +1041,29 @@ III. Las demás que le confiera esta Ley u otras disposiciones aplicables.
 
 Corresponderá a la Secretaría de Salud del Estado en el ámbito de su competencia:
 
-XVIII. (sic) Garantizar el acceso a la atención médica en las clínicas y hospitales con una orientación especializada para las personas adultas mayores, así como proporcionarles una cartilla médica y de autocuidado que será utilizada indistintamente en las instituciones públicas y privadas y en la cual se especificará el Estado general de salud, enfermedades crónicas, tipo de sangre, medicamentos administrados, reacciones secundarias e implementos para aplicarlos, tipo de dieta suministrada, consultas médicas y asistencias a grupos de autocuidado.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
 
-I. Promover la formación de recursos humanos en servicios de geriatría y tanatología y de atención médica para personas adultas mayores.
+I. Garantizar el acceso a la atención médica en las clínicas y hospitales con una orientación especializada para las personas adultas mayores, así como realizarles periódicamente una evaluación geriátrica y proporcionarles una cartilla médica y de autocuidado que será utilizada indistintamente en las instituciones públicas y privadas y en la cual se especificará el estado general de salud, enfermedades crónicas, tipo de sangre, medicamentos administrados, reacciones secundarias e implementos para aplicarlos, tipo de dieta suministrada, consultas médicas evaluaciones geriátricas recibidas y asistencias a grupos de autocuidado
 
-II. Implementar, en coordinación con las demás instituciones de gobierno competentes, programas con el objeto de proporcionar los medicamentos que necesiten para mantener un buen Estado de salud y fomentar la creación de redes de atención en materia de asistencia médica, cuidados y rehabilitación, a través de la capacitación y sensibilización sobre la problemática específica de las personas adultas mayores.
+> <small>(REFORMADA [N. DE E. SU NUMERACIÓN], P. , P.O. 12 DE FEBRERO DE 2021)</small>
 
-III. Fomentar la actividad y la capacitación de auxiliares de las personas adultas mayores, en materia de primeros auxilios, terapias de rehabilitación, técnicas para de alimentación y de medicamentos, movilización y atención personalizada en caso de encontrarse postrados.
+II. Promover la formación de recursos humanos en servicios de geriatría y tanatología y de atención médica para personas adultas mayores.
 
-IV. Brindar información gerontológica a todo aquél que lo solicite. Así como implementar campañas publicitarias sobre los aspectos más importantes de esta rama de la medicina.
+> <small>(REFORMADA [N. DE E. SU NUMERACIÓN], P.O. 12 DE FEBRERO DE 2021)</small>
 
-V. Las demás que le confiera esta Ley u otras disposiciones aplicables.
+III. Implementar, en coordinación con las demás instituciones de gobierno competentes, programas con el objeto de proporcionar los medicamentos que necesiten para mantener un buen Estado de salud y fomentar la creación de redes de atención en materia de asistencia médica, cuidados y rehabilitación, a través de la capacitación y sensibilización sobre la problemática específica de las personas adultas mayores.
+
+> <small>(REFORMADA [N. DE E. SU NUMERACIÓN], P.O. 12 DE FEBRERO DE 2021)</small>
+
+IV. Fomentar la actividad y la capacitación de auxiliares de las personas adultas mayores, en materia de primeros auxilios, terapias de rehabilitación, técnicas para de alimentación y de medicamentos, movilización y atención personalizada en caso de encontrarse postrados.
+
+> <small>(REFORMADA [N. DE E. SU NUMERACIÓN], P.O. 12 DE FEBRERO DE 2021)</small>
+
+V. Brindar información gerontológica a todo aquél que lo solicite. Así como implementar campañas publicitarias sobre los aspectos más importantes de esta rama de la medicina.
+
+> <small>(REFORMADA [N. DE E. SU NUMERACIÓN], P.O. 12 DE FEBRERO DE 2021)</small>
+
+VI. Las demás que le confiera esta Ley u otras disposiciones aplicables.
 
 ###### Artículo 57.
 
@@ -1129,7 +1149,9 @@ III. El acceso a la atención médica en clínicas y hospitales, con el establec
 
 IV. El acceso a una cartilla médica de salud y autocuidado, que será utilizada indistintamente en las instituciones públicas y privadas.
 
-En dicha cartilla se especificará, cuando menos, el Estado general de salud de la persona adulta mayor; sus enfermedades crónicas, tipo de sangre, medicamentos y dosis administradas, reacciones secundarias e implementos para ingerirlos, alimentación o tipo de dieta suministrada, consultas médicas y asistencias a grupos de autocuidado.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+En dicha cartilla se especificará, cuando menos, el Estado general de salud de la persona adulta mayor; sus enfermedades crónicas, tipo de sangre, medicamentos y dosis administradas, reacciones secundarias e implementos para ingerirlos, alimentación o tipo de dieta suministrada, consultas médicas, evaluaciones geriátricas recibidas y asistencias a grupos de autocuidado.
 
 V. La implementación de mecanismos de coordinación interinstitucional para proporcionar medicamentos, previo estudio socioeconómico para su distribución.
 
@@ -1758,3 +1780,11 @@ P.O. 29 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 891.- SE REFORMA LA FRACCIÓN IV Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 19; SE ADICIONAN LAS FRACCIONES X, XI, XII, XIII Y XIV AL ARTÍCULO 9, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 911.- SE REFORMA EL NUMERAL 9, DE LA FRACCIÓN III, DEL ARTÍCULO 10, LA FRACCIÓN I DEL ARTÍCULO 56, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 67 Y SE ADICIONA UN PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 14, TODOS ESTOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan, las disposiciones que se opongan al presente decreto.
