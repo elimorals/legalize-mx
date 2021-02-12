@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-v-2019-del-137026"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-06-25"
-last_updated: "2019-06-25"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137026&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-06-18"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO V/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE CATORCE DE JUNIO DE DOS MIL DIECINUEVE, POR EL QUE SE ESTABLECE EL CONSEJO CONSULTIVO DE LA UNIDAD GENERAL DE IGUALDAD DE GÉNERO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 12 DE FEBRERO DE 2021.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 25 de junio de 2019.
 
@@ -87,13 +87,17 @@ X. Aprobar el calendario de sesiones ordinarias, y
 
 XI. Las demás que establezcan las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, S.J.F. 12 DE FEBRERO DE 2021)</small>
+
 ###### ARTÍCULO TERCERO.
 
-El Consejo Consultivo estará integrado por diez personas que cuenten con reconocido prestigio profesional o académico, nacional o internacional, en materias relacionadas con la igualdad de género, así como por el Presidente del Comité Interinstitucional de Igualdad de Género del Poder Judicial de la Federación, quien, a su vez, presidirá el Consejo Consultivo.
+El Consejo Consultivo estará integrado por diez personas que cuenten con reconocido prestigio profesional o académico, nacional o internacional, en materias relacionadas con la igualdad de género, así como por la o el Presidente de la Suprema Corte de Justicia de la Nación, quien, a su vez, presidirá el Consejo Consultivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, S.J.F. 12 DE FEBRERO DE 2021)</small>
 
 ###### ARTÍCULO CUARTO.
 
-Los integrantes del Consejo Consultivo serán designados en forma escalonada por el Presidente de la Suprema Corte de Justicia de la Nación, a propuesta del Presidente del Comité Interinstitucional de Igualdad de Género del Poder Judicial de la Federación.
+Las y los integrantes del Consejo Consultivo serán designados en forma escalonada por la o el Presidente de la Suprema Corte de Justicia de la Nación.
 
 El cargo de consejero tendrá una duración de cinco años, y será de carácter honorario.
 
@@ -164,3 +168,15 @@ CUARTO. Publíquese el presente Acuerdo General de Administración en el Semanar
 Así lo acordó y firma el señor Ministro Arturo Zaldívar Lelo de Larrea, Presidente de la Suprema Corte de Justicia de la Nación, el catorce de junio de dos mil diecinueve, ante el Director General de Asuntos Jurídicos que da fe.- Rúbricas.
 
 EL LICENCIADO JUAN SEBASTIÁN FRANCISCO DE ASÍS MIJARES ORTEGA, DIRECTOR GENERAL DE ASUNTOS JURÍDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CON FUNDAMENTO EN EL ARTÍCULO 9, FRACCIÓN X, DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia del “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO V/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE CATORCE DE JUNIO DE DOS MIL DIECINUEVE, POR EL QUE SE ESTABLECE EL CONSEJO CONSULTIVO DE LA UNIDAD GENERAL DE IGUALDAD DE GÉNERO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”, constante de trece fojas útiles, concuerda fiel y exactamente con su original que obra en esta Dirección General. Ciudad de México, dieciocho de junio de dos mil diecinueve.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+S.J.F. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2021, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE CUATRO DE FEBRERO DE DOS MIL VEINTIUNO, QUE REFORMA EL DIVERSO ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO V/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE CATORCE DE JUNIO DE DOS MIL DIECINUEVE, POR EL QUE SE ESTABLECE EL CONSEJO CONSULTIVO DE LA UNIDAD GENERAL DE IGUALDAD DE GÉNERO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se derogan las demás disposiciones jurídicas que se opongan al presente Acuerdo General de Administración.
+
+TERCERO. Publíquese este Acuerdo General de Administración en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
