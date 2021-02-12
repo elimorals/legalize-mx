@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2020-12-10"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -211,13 +211,17 @@ La Ley fijará el régimen de responsabilidades a que estarán sujetos los servi
 
 APARTADO C. Participación Ciudadana.
 
-Los instrumentos y mecanismos de participación ciudadana serán la Consulta Popular, el Plebiscito, el Referéndum y la Iniciativa Ciudadana.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+Los instrumentos y mecanismos de participación ciudadana serán la Consulta Popular, el Plebiscito, el Referéndum, la Iniciativa Ciudadana y el Presupuesto Participativo.
 
 La Ley fomentará, impulsará, promoverá y consolidará los instrumentos y mecanismos de participación ciudadana; igualmente establecerá las reglas que permitan regular el proceso democrático de participación ciudadana en el ámbito de competencia del Estado y de los Ayuntamientos, sujetándose a las bases que establece esta Constitución.
 
 Los principios rectores de la participación ciudadana serán la libertad, la democracia, la justicia, la corresponsabilidad, la solidaridad, la subsidiariedad, la legalidad, la sustentabilidad, la tolerancia y la equidad.
 
-Tratándose de Plebiscito, Referéndum y Consulta Popular, la participación ciudadana podrá realizarse a través de medios electrónicos, en los términos que determine la Ley.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+Tratándose de Plebiscito, Referéndum, Consulta Popular y Presupuesto Participativo, la participación ciudadana podrá realizarse a través de medios electrónicos, en los términos que determine la Ley.
 
 La Consulta Popular se realizará sobre temas de amplio interés estatal, siempre que así lo acuerde el Congreso, a solicitud de cuando menos las dos terceras partes de sus integrantes, del Gobernador, o de por lo menos el dos por ciento de los ciudadanos inscritos en la lista nominal de electores.
 
@@ -455,11 +459,25 @@ El Instituto contará con un Órgano Interno de Control, cuyo titular será desi
 
 La ley establecerá las medidas de apremio que podrá imponer el organismo garante para asegurar el cumplimiento de sus decisiones.
 
-APARTADO D. De los Juicios Orales y Medios Alternativos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2021)</small>
+
+APARTADO D. De los Juicios Orales, Medios Alternativos y Justicia Laboral.
 
 Las leyes señalarán aquellos casos en que los juicios serán predominantemente orales, así como su procedimiento.
 
 Las personas tendrán derecho a acceder a los medios alternativos de justicia para resolver sus controversias, en la forma y términos establecidos por las leyes respectivas.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+En el Estado de Baja California, la resolución de las diferencias o conflictos entre trabajadores y patrones de competencia local, estará a cargo de los tribunales laborales del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+Los trabajadores y patrones deberán asistir a la instancia conciliatoria para la resolución de sus diferencias o conflictos, como requisito previo a someterlo al conocimiento de los órganos jurisdiccionales competentes.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+La función conciliatoria estará a cargo de un organismo especializado descentralizado de la administración pública con personalidad jurídica y patrimonio propio, dotado de autonomía técnica, operativa, presupuestaria, de decisión y gestión, cuya actuación se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento, así como los requisitos y procedimiento para la designación de su titular, se regirán par (sic) lo dispuesto en esta Constitución, y las leyes de la materia.
 
 > <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
 
@@ -509,9 +527,9 @@ IV.- Si además de ser mexicanos, son ciudadanos tendrán los siguientes:
 
 a).- Votar en las elecciones para integrar los órganos de elección popular de la entidad;
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
-b).- Participar en los términos de esta Constitución y de la Ley, en los procesos de Consulta Popular, Referéndum, Iniciativa Ciudadana, Plebiscito y Revocación de Mandato;
+b) Participar en los términos de esta Constitución y de la ley, en los procesos de Consulta Popular, Referéndum, Iniciativa Ciudadana, Plebiscito, Revocación de Mandato y Presupuesto Participativo;
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
@@ -1168,6 +1186,10 @@ XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Con
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
 
 XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+Asimismo, legislar respecto a los conflictos entre trabajadores y patrones, a efecto de lograr su conciliación o resolución por la vía jurisdiccional, con base en lo dispuesto en el Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2019)</small>
 
@@ -1917,11 +1939,11 @@ Las audiencias serán públicas, excepto aquellas que la moral o el interés col
 
 Las Corporaciones Policíacas, están obligadas a garantizar la plena ejecución de las resoluciones judiciales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 57.
 
-El Poder Judicial del Estado se ejercerá por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Juzgados de Paz y Jurados.
+El Poder Judicial del Estado se ejercerá por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Juzgados en Materia Laboral, Juzgados de Paz y Jurados.
 
 (NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -2105,17 +2127,13 @@ Si el Congreso resuelve la no ratificación, el Magistrado cesará en sus funcio
 
 Los Tribunales del Poder Judicial resolverán las controversias que en el ámbito de su competencia se les presenten.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
+La competencia del Tribunal Superior de Justicia, su funcionamiento en pleno y en salas colegiadas unitarias y metropolitanas, de los Juzgados y Jueces de Primera Instancia, Juzgados en Materia Laboral, Juzgados de Paz, Jurados, se regirán por lo que dispongan la Ley Orgánica del Poder Judicial y, de conformidad con las bases que esta Constitución establece.
 
-LA COMPETENCIA DEL TRIBUNAL SUPERIOR DE JUSTICIA, SU FUNCIONAMIENTO EN PLENO Y EN SALAS COLEGIADAS, UNITARIAS Y METROPOLITANAS; DE LOS JUZGADOS Y JUECES DE PRIMERA INSTANCIA, JUZGADOS DE PAZ Y JURADOS, SE REGIRÁ POR LO QUE DISPONGAN LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO Y, DE CONFORMIDAD CON LAS BASES QUE ESTA CONSTITUCIÓN ESTABLECE.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2020)</small>
-
-LAS SALAS UNITARIAS DEBERÁN UBICARSE EN TODO EL TERRITORIO DEL ESTADO, Y LAS METROPOLITANAS EN DONDE ACUERDE EL PLENO, SU COMPETENCIA SE PREVERÁ EN SU LEY ORGÁNICA.
+Las salas unitarias, deberán ubicarse en todo territorio del Estado, y las metropolitanas donde acuerde el pleno, su competencia se preverá en la ley orgánica.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -3363,9 +3381,9 @@ II.- (DEROGADA, P.O. 19 DE OCTUBRE DE 2020)
 
 III.- Jueces del Poder Judicial del Estado.
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
 
-IV.- Titulares de la Comisión Estatal de los Derechos Humanos; del Instituto de Transparencia y Acceso a la Información Pública y Protección de Datos Personales del Estado; del Tribunal Estatal de Justicia Administrativa y de la Auditoría Superior del Estado.
+IV.- Titulares de la Comisión Estatal de los Derechos Humanos; del Instituto de Transparencia y Acceso a la Información Pública y Protección de Datos Personales del Estado; del Tribunal Estatal de Justicia Administrativa y de la Auditoría Superior del Estado y del Centro de Conciliación Laboral del Estado de Baja California.
 
 (NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -5378,3 +5396,35 @@ P.O. 10 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 182 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LAS FRACCIONES VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI Y XXII AL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 167 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 7, 27, 57, 59 Y 107 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Una vez aprobada la presente reforma, túrnese a los ayuntamientos del Estado de Baja California para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional respectiva.
+
+TERCERO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+CUARTO.- El Congreso del Estado, deberá expedir la Ley del Centro de Conciliación Laboral del Estado de Baja California; las reformas a la Ley Orgánica del Poder Judicial y las demás reformas que sean necesarias para la correcta implementación del Sistema de Justicia Laboral establecido por las reformas a la Constitución Política de los Estados Unidos Mexicanos, publicadas en el Diario Oficial de la Federación en fecha 24 de febrero de 2017 y las reformas a la Ley Federal del Trabajo publicadas en el Diario Oficial de la federación de fecha 1 de mayo del año 2019, dentro del término de los 240 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO.- El Centro de Conciliación Laboral entrará en funciones gradualmente por territorio, en las mismas fechas en que lo hagan los tribunales laborales; para tal efecto, corresponderá al Congreso del Estado, emitir las declaratorias correspondientes de entrada en funciones de dichos órganos, a propuesta de la Comisión Interinstitucional que se señala en el artículo octavo transitorio de este Decreto.
+
+En todos los casos, entre la Declaratoria a que se hace referencia en el párrafo anterior y la entrada en funciones de los citados órganos, deberán mediar sesenta días naturales.
+
+SEXTO.- Una vez que sea nombrado el titular del Centro de Conciliación Laboral del Estado de Baja California, corresponderá a este planificar, programar, proyectar, vigilar, evaluar y dar seguimiento a todas aquellas actividades que sean necesarias para una correcta implementación del nuevo sistema de justicia laboral, así como coordinar las tareas entre las distintas instituciones involucradas con esa implementación.
+
+SÉPTIMO.- El Poder Judicial del Estado, la Secretaría del Trabajo y Previsión Social, y toda dependencia o entidad a la que impacte la entrada en vigor de este Decreto, dentro del marco de sus respectivas competencias deberán realizar todas las acciones necesarias para la correcta implementación del nuevo sistema de justicia laboral.
+
+OCTAVO.- El presente Decreto no afectará los derechos laborales adquiridos y demás prestaciones reconocidas a los trabajadores de base de las Juntas de Conciliación y Arbitraje de la Secretaría del Trabajo y Previsión.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 168 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 5 Y 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Envíese el proyecto a los Ayuntamientos para dar cumplimiento al procedimiento establecido en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- El Congreso del Estado tendrá un plazo de 60 días posterior a la promulgación de este decreto para legislar las leyes reglamentarias.
