@@ -4,7 +4,7 @@ identifier: "COA-ley-de-adquisiciones-arrendamientos-y-contratacion-de-66143"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-06"
-last_updated: "2019-07-12"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66143&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 6 de enero de 2009.
 
@@ -303,11 +303,11 @@ Tratándose de bienes cuyo proceso de fabricación sea superior a 90 días, la C
 
 La Secretaría podrá autorizar el pago de suscripciones, seguros o de otros servicios, en los que no sea posible pactar que su costo sea cubierto después de que la prestación del servicio se realice.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 17.
 
-En los procedimientos de contratación de carácter internacional, las Dependencias y Entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la adquisición y arrendamiento de bienes producidos en el país, con un margen hasta del quince por ciento de preferencia en el precio respecto de los bienes de importaciones, (sic) el caso de concurso para la adquisición de bienes o servicios, en igualdad de condiciones, se dará preferencia a personas con discapacidad o a la empresa que cuente con personal con discapacidad en una proporción del cinco por ciento cuando menos de la totalidad de su planta de empleados, cuya antigüedad no sea inferior a seis meses; antigüedad que se comprobará con el aviso de alta al régimen obligatorio del Instituto Mexicano del Seguro Social.
+En los procedimientos de contratación de carácter internacional, las Dependencias y Entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la adquisición y arrendamiento de bienes producidos en el país, con un margen hasta del quince por ciento de preferencia en el precio respecto de los bienes de importaciones, (sic) el caso de concurso para la adquisición de bienes o servicios, en igualdad de condiciones, se dará preferencia a personas con discapacidad o a la empresa que cuente con personal con discapacidad en una proporción del cinco por ciento cuando menos de la totalidad de su planta de empleados, cuya antigüedad no sea inferior a seis meses; antigüedad que se comprobará con el aviso de alta al régimen obligatorio del Instituto Mexicano del Seguro Social; de igual forma, se dará preferencia a las empresas que hayan aplicado políticas y prácticas de igualdad de género, conforme a la certificación correspondiente emitida por las autoridades y organismos facultados para tal efecto.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
@@ -621,7 +621,13 @@ IV. A las demás disposiciones legales y reglamentarias que rijan las operacione
 
 Las Dependencias o Entidades que requieran contratar servicios de consultorías, asesorías, estudios e investigaciones, previamente verificarán si en sus archivos existen trabajos sobre la materia de que se trate. En el supuesto de que se advierta su existencia y se compruebe que los mismos satisfacen los requerimientos de la Entidad o Dependencia, no procederá la contratación, con excepción de aquellos trabajos que sean necesarios para su adecuación, actualización o complemento.
 
-La erogación para la contratación de servicios de consultorías, asesorías, estudios e investigaciones, requerirá de la autorización escrita del titular de la Dependencia o Entidad, así como del dictamen del área respectiva, de que no se cuenta con personal capacitado o disponible para su realización.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+La erogación para la contratación de servicios de consultorías, asesorías, estudios e investigaciones, requerirá de la autorización escrita del titular de la Dependencia o Entidad, así como del dictamen del área respectiva, que deberá contener la aclaración de que no se cuenta con personal capacitado o disponible para su realización; así como las justificaciones técnicas, económicas, científicas o de cualquier otra naturaleza para acreditar la necesidad de contratar el servicio en cuestión.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+En la contratación de los servicios mencionados en el párrafo anterior, se dará preferencia a particulares y empresas del estado de Coahuila, atendiendo además a la mejor oferta de costo-beneficio y observando los criterios establecidos en la fracción IV del artículo 63 de este ordenamiento.
 
 ###### Artículo 34.
 
@@ -2354,3 +2360,27 @@ P.O. 12 DE JULIO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 909.- SE MODIFICA EL CONTENIDO DEL PÁRRAFO SEGUNDO Y SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 33 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 910.- SE MODIFICA EL CONTENIDO DEL ARTÍCULO 17 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
