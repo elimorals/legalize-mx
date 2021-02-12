@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2021-01-26"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -3425,9 +3425,11 @@ El ascendiente o tutor que entregue en una casa de expósitos, de menores o de a
 
 No se impondrá pena alguna a la madre que entregue a su hijo por ignorancia, pobreza extrema, o cuando sea producto de una violación, o de una inseminación artificial, o de la implantación de un óvulo en cualquiera de los casos previstos en los artículos 240 y 241 de este código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2021)</small>
+
 Artículo 213 (Abandono de lesionado)
 
-Se impondrá de tres meses a un año de prisión o de cien a doscientos días de multa, independientemente de las penas que procedan por las lesiones inferidas, a quien después de lesionar culposa o fortuitamente a una persona, no le preste auxilio o no solicite su asistencia, pudiendo hacerlo.
+Se impondrá de seis meses a dos años de prisión o de cien a quinientos días de multa, independientemente de las penas que procedan por las lesiones inferidas, a quien después de lesionar culposa o fortuitamente a una persona, no le preste auxilio o no solicite su asistencia, pudiendo hacerlo.
 
 En caso de que el sujeto activo fuese respecto de la víctima, pariente consanguíneo en línea recta ascendente o descendente, o colateral hasta el cuarto grado, cónyuge, concubina o concubinario, compañero o compañera civil, adoptante, adoptada o adoptado, se le privará de los derechos que pueda tener como acreedor alimentario.
 
@@ -4139,13 +4141,13 @@ No será punible la mutilación de un animal que se realice para marcarlo o cast
 
 IV. (Lesiones con fines perversos)
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 12 DE FEBRERO DE 2021)</small>
 
 Cause lesiones a un animal por medio de cualquier arma, instrumento, objeto, medio o método, por venganza, odio o diversión.
 
 V. (Modalidad agravante para los delitos de crueldad a animales)
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 12 DE FEBRERO DE 2021)</small>
 
 Se aumentará en una mitad los mínimos y máximos de las penas señaladas en las fracciones del apartado B de este artículo, cuando a causa de las conductas señaladas en las fracciones precedentes, se hubiera causado al animal la pérdida o la inutilidad de un sentido, órgano o miembro principal, o muera como consecuencia de los actos de crueldad de que fue objeto
 
@@ -4157,7 +4159,7 @@ Se impondrá de dos a seis años de prisión y de mil a dos mil días multa, as�
 
 Los animales que hayan sido objeto de decomiso a que se refiere este artículo, podrán ser puestos bajo los cuidados de la asociaciones protectoras de animales debidamente registradas que lo soliciten, hasta en tanto se determine su destino legal.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE FEBRERO DE 2021)</small>
 
 En caso de que la conducta prevista en el presente artículo sea provocada por médico veterinario o persona relacionada con el cuidado, resguardo o comercio de animales, además de las penas anteriores se aplicará la suspensión o inhabilitación, según sea el caso, por un lapso de uno a cinco años del empleo, cargo, profesión, oficio, autorización, licencia, comercio o cualquier circunstancia bajo la cual hubiese cometido el delito.
 
@@ -4273,13 +4275,23 @@ Los delitos previstos en este capítulo se perseguirán por querella, salvo cuan
 
 ### Capítulo Tercero. Usurpación de identidad
 
-Artículo 268 (Usurpación de identidad)
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
-Se impondrá una pena de dos a cuatro años de prisión y de cuatrocientos a seiscientos días multa, a quien, para perjudicar a alguien, por cualquier medio usurpe la identidad de otra persona, o con el mismo fin ésta última otorgue su consentimiento para que se usurpe su identidad por otra persona.
+Artículo 268 (Suplantación de identidad)
 
-En el primer supuesto del párrafo precedente, el fin de perjudicar puede referirse a la persona cuya identidad se usurpa, o bien a otra persona.
+(NOTA: EL 19 DE MAYO DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 46/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE FEBRERO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 899, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Se aumentará en una mitad el mínimo y el máximo de las penas señaladas en este artículo, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito previsto en el primer supuesto del párrafo primero de este artículo.
+Se impondrá una pena DE TRES A OCHO AÑOS Y de 600 a 900 días multa, a quien se atribuya la identidad de otra persona por cualquier medio, u otorgue su consentimiento para llevar la suplantación de su identidad, produciendo con ello un daño moral o patrimonial, u obteniendo un lucro o un provecho indebido para sí o para otra persona.
+
+Serán equiparables al delito de suplantación de identidad y se impondrán las penas establecidas en este artículo:
+
+I. Al que por algún uso de medio electrónico, telemático o electrónico obtenga algún lucro indebido para sí o para otro o genere un daño patrimonial a otro, valiéndose de alguna manipulación informática o intercepción de datos de envío, cuyo objeto sea el empleo no autorizado de datos personales o el acceso no autorizado a base de datos automatizados para suplantar identidades;
+
+II. Al que transfiera, posea o utilice datos identificativos de otra persona con la intención de cometer, favorecer o intentar cualquier actividad ilícita; o
+
+III. Al que asuma, suplante, se apropie o utilice, a través de internet, cualquier sistema informático o medio de comunicación, la identidad de una persona física o jurídica que no le pertenezca, produciendo con ello un daño moral o patrimonial, u obteniendo un lucro o un provecho indebido para sí o para otra persona.
+
+Se aumentará hasta en una mitad las penas previstas en el presente artículo, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito; así como en el supuesto en que el sujeto activo del delito tenga licenciatura, ingeniería o cualquier otro grado académico en el rubro de informática, computación o telemática.
 
 ### Capítulo Primero. Revelación de secretos
 
@@ -5031,9 +5043,11 @@ Cuando el delito se cometa culposamente en los supuestos previstos en el artícu
 
 Asimismo, para determinar la violación del deber de cuidado y la imputación del daño a la conducta culposa, se estará a lo dispuesto en los artículos 42, 43, 44, 45, 46, 48 y 53 de este código, según sea el caso.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
 Artículo 307 (Abandono del lugar del daño por culpa con motivo del tránsito de vehículos)
 
-Se impondrá de uno a dos años de prisión y de cien a quinientos días multa, al conductor de un vehículo automotor que se retire del lugar en el que culposamente causó daño a propiedad ajena con motivo del tránsito de vehículos, con el propósito de eludir la reparación del daño.
+Se impondrá de seis meses a dos años de prisión y de cien a quinientos días multa, al conductor de un vehículo automotor que se retire del lugar en el que culposamente causó daño a propiedad ajena con motivo del tránsito de vehículos, con el propósito de eludir la reparación del daño.
 
 ### Capítulo Octavo. Disposiciones comunes
 
@@ -5808,6 +5822,16 @@ Más si algún delito, con inclusión de sus modalidades, a que se refiera la in
 Artículo 360 (Ocultamiento, mutilación o destrucción de cadáver o de sus restos)
 
 Se impondrá de tres a seis años de prisión y de cien a trescientos días multa, a quien, para afectar la investigación o persecución de un delito, o para encubrir un delito, oculte o destruya el cadáver de una persona, sus restos o un feto humano, o mutile al cadáver o al feto.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBERO DE 2021)</small>
+
+Artículo 360 bis. (Difusión del material relacionado con la investigación de un delito)
+
+Se le impondrá prisión de dos a ocho años y multa de quinientas a mil unidades de medida y actualización al que por cualquier medio y, ajeno a un acto de investigación de autoridad competente, difunda, entregue, revele, publique, transmita, exponga, remita, distribuya, videograbe, audiograbe, fotografié, filme, reproduzca, comercialice, oferta, intercambie o comparta imágenes, audios, videos o documentos del lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos relacionados con el procedimiento penal o productos relacionados con un hecho que la Ley señala como delito.
+
+Si se trata de imágenes, audios o videos de cuerpos sin vida, restos humanos o parte de ellos, de las circunstancias de su muerte, de las lesiones o estado de salud, las penas previstas en el párrafo anterior, se incrementarán hasta en una tercera parte.
+
+Tratándose de imágenes, audios o videos de cuerpos sin vida o restos humanos de mujeres, niñas o adolescentes, de las circunstancias de su muerte, de las lesiones o estado de salud, las penas previstas en este artículo se incrementarán hasta en una mitad.
 
 Artículo 361 (Omisión de informes médicos)
 
@@ -6671,7 +6695,9 @@ Se aumentará en una mitad el mínimo y el máximo de las penas señaladas en el
 
 Artículo 399 (Usurpación de la calidad de notario público)
 
-Se impondrá de dos a siete años de prisión, de doscientos a cuatrocientos días multa, suspensión de tres a siete años del derecho de obtener patente de notario público, e inhabilitación de cuatro a ocho años para desempeñar cualquier cargo, empleo o comisión en una entidad oficial del Estado o de sus municipios, a quien se ostente o se haga pasar como notario público y realice un acto propio de esa calidad, sin tenerla, perjudicando a una o más personas en uno o más de sus bienes jurídicos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+Se impondrá de dos a siete años de prisión, de doscientos a cuatrocientos días multa, suspensión de tres a siete años del derecho de obtener patente de notario público, e inhabilitación de cuatro a ocho años para desempeñar cualquier cargo, empleo o comisión en una entidad oficial del Estado o de sus municipios, a quien se ostente o se haga pasar como notario público y realice un acto propio de esa calidad, sin tenerla o cuando la misma le hubiese sido revocada o suspendida temporalmente, perjudicando a una o más personas físicas o morales en uno o más de sus bienes jurídicos.
 
 Si en razón de los actos referidos en el párrafo precedente, el sujeto activo obtiene para sí o para otro, algún beneficio económico perjudicando a una o más terceras personas, físicas o morales, o a alguna entidad oficial del Estado o de sus municipios, se le impondrán las penas del delito de fraude, previstas en el artículo 291 de este código, según la cuantía del beneficio obtenido, pero aumentando en un tercio el mínimo y el máximo de las referidas penas del artículo 291, y asimismo, se le suspenderá de diez a quince años, del derecho de obtener patente de notario público, y se le inhabilitará de diez a quince años para desempeñar cualquier cargo, empleo o comisión en una entidad oficial del Estado o de sus municipios y para brindar cualquier servicio profesional a los mismos.
 
@@ -7601,9 +7627,11 @@ Se impondrá de dos a cuatro años de prisión y de trescientos a quinientos dí
 
 ### Capítulo Décimo. Enriquecimiento ilícito
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
 Artículo 455 (Enriquecimiento ilícito)
 
-Comete el delito de enriquecimiento ilícito, cuando el servidor público durante el tiempo de su encargo o con motivo del mismo; aumente en desproporción sustancial su patrimonio con relación a los bienes que declaró al iniciar su desempeño y sin que acredite la legítima procedencia de los que adquirió por sí o por interpósita persona.
+Comete el delito de enriquecimiento ilícito, cuando el servidor público durante el tiempo de su encargo o en el año posterior al término del mismo; aumente en desproporción sustancial su patrimonio con relación a los bienes que declaró al iniciar su desempeño y sin que acredite la legítima procedencia de los que adquirió por sí o por interpósita persona.
 
 Artículo 456 (Punibilidades para el enriquecimiento ilícito)
 
@@ -7617,9 +7645,11 @@ II. (Enriquecimiento de cuantía mayor)
 
 De cinco a nueve años de prisión y de una cuarta parte a dos tantos del incremento patrimonial no justificado, cuando el monto a que ascienda el enriquecimiento ilícito exceda de veinte mil veces el importe del valor diario de la unidad de medida y actualización, al momento del último incremento patrimonial del servidor público durante su cargo, empleo o comisión.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
 Artículo 457 (Penas adicionales para el delito de enriquecimiento ilícito)
 
-Además de las penas señaladas en el artículo precedente, se impondrá al servidor público, el decomiso del dinero, bienes y valores que obtuvo ilícitamente.
+Además de las penas señaladas en el artículo precedente, se impondrá al servidor público, el decomiso del dinero, bienes y valores que obtuvo ilícitamente, además de la reparación del daño a que haya lugar.
 
 Artículo 458 (Encubrimiento de delitos cometidos por servidores públicos)
 
@@ -8178,3 +8208,47 @@ P.O. 26 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 811.- SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 231 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 897.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTICULO 213 Y EL ARTÍCULO 307 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 898.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 399 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 899.- SE MODIFICA EL CONTENIDO DEL ARTÍCULO 268 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 900.- SE ADICIONA EL ARTÍCULO 360 BIS AL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 901.- SE REFORMA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN V DEL APARTADO B Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 261 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 902.- SE REFORMAN LOS ARTÍCULOS 455 Y 457 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
