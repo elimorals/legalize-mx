@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-consejeria-juridica-del-poder-124558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-10-23"
-last_updated: "2019-01-14"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
+REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL GOBERNADOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Reglamento publicado en la Sección Primera del Número 079 del Periódico Oficial del Estado de Nayarit, el lunes 23 de octubre de 2017.
 
@@ -33,33 +33,49 @@ L.C. ANTONIO ECHEVARRÍA GARCÍA, Gobernador Constitucional del Estado Libre y S
 
 CONSIDERANDOS
 
-[…]
+[...]
 
 En mérito de lo anterior, he tenido a bien expedir el siguiente:
 
-REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE FEBRERO DE 2021)</small>
+
+REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL GOBERNADOR
 
 ### Capítulo I. Competencia y Organización
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 1.
 
-Se crea la Consejería Jurídica del Poder Ejecutivo del Estado de Nayarit, como Unidad Administrativa dependiente directamente del titular del Poder Ejecutivo del Estado y tiene a su cargo la función consistente en brindar asesoría y apoyo técnico jurídico al Gobernador del Estado, así como las demás atribuciones que le confieren los ordenamientos jurídicos aplicables.
+Se crea la Consejería Jurídica del Gobernador, como Unidad Administrativa dependiente directamente del titular del Poder Ejecutivo del Estado y tiene a su cargo la función consistente en brindar asesoría y apoyo técnico jurídico al Gobernador del Estado, así como las demás atribuciones que le confieren los ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE ENERO DE 2019)</small>
 
 Para efectos del presente Reglamento se entenderá por:
 
-I. Consejería.- Consejería Jurídica del Poder Ejecutivo del Estado de Nayarit;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
+
+I. Consejería.- Consejería Jurídica del Gobernador;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2019)</small>
 
 II. Consejerías Adjuntas.- Las Consejerías Adjuntas de Estudios Jurídicos, Estudios Normativos y de Transparencia y Protección de Datos Personales;
 
-III. Consejero.- Titular de la Consejería Jurídica del Poder Ejecutivo del Estado de Nayarit;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
+
+III. Consejero.- Titular de la Consejería Jurídica del Gobernador;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2019)</small>
 
 IV. Consejeros Adjuntos.- Los titulares de las Consejerías Adjuntas de Estudios Jurídicos, Estudios Normativos y de Transparencia y Protección de Datos Personales;
 
-V. Reglamento.- Reglamento Interior de la Consejería Jurídica del Poder Ejecutivo del Estado de Nayarit, y
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
 
-VI. Subconsejero.- Subconsejero Jurídico de la Consejería Jurídica del Poder Ejecutivo del Estado de Nayarit;
+V. Reglamento.- Reglamento Interior de la Consejería Jurídica del Gobernador, y
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
+
+VI. Subconsejero.- Subconsejero Jurídico de la Consejería Jurídica del Gobernador.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2019)</small>
 
@@ -69,9 +85,11 @@ Al frente de la Consejería estará el Consejero.
 
 El Consejero dependerá en forma directa y será nombrado y removido libremente por el Gobernador del Estado, quien determinará las comisiones intersecretariales y grupos de trabajo a los que aquél deba ser incorporado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 3.
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, se crean las siguientes unidades administrativas:
+Para el estudio, planeación y despacho de los asuntos de su competencia, la Consejería contará con las siguientes unidades administrativas:
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2019)</small>
 
@@ -95,11 +113,23 @@ V. Dirección Administrativa.
 
 Sus titulares serán designados y removidos libremente por el Consejero, previo acuerdo con el Gobernador.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+Asimismo, contará con el número de asesores jurídicos y personal de confianza que determine el Consejero, quien podrá nombrarlos y removerlos libremente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 4.
 
-La Consejería, para el despacho de los asuntos de su competencia, contará además de las áreas señaladas en el artículo anterior, con el número de asesores jurídicos y personal de confianza que determine el Consejero, quien podrá nombrarlos y removerlos libremente.
+La Consejería recibirá de las dependencias y entidades de la Administración Pública del Estado, los proyectos de iniciativas de leyes o decretos que deban ser sometidos al Congreso del Estado, así como aquellos decretos, acuerdos, reglamentos, convenios y demás instrumentos normativos y administrativos que requieran la firma del Titular del Poder Ejecutivo, los cuales deberán ser remitidos cuando menos con quince días de anticipación a la fecha en que se pretendan suscribir, salvo la Ley de Ingresos y el Presupuesto de Egresos, y aquellos otros que por su notoria urgencia y a juicio del Gobernador, deban realizarse con manifiesta premura. La Consejería verificará que los instrumentos referidos en el presente artículo estén validados por su respectiva área jurídica y que contengan anexo el escrito con la opinión, informe o validación de las dependencias y entidades correspondientes, de conformidad con la Ley Orgánica del Poder Ejecutivo del Estado.
 
-La Consejería podrá auxiliarse de las unidades jurídicas de las demás dependencias y entidades de la Administración Pública Estatal, cuando para el cumplimiento de sus funciones así lo considere conveniente el Consejero.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+Tratándose de solicitudes de apoyo para el desahogo de consultas y opiniones jurídicas, así como para el análisis y validación en su caso, de cualquier otro instrumento jurídico en general que no esté contemplado en los supuestos del párrafo anterior, la Consejería verificará que estén acompañadas del escrito en que conste la revisión y opinión previa de su respectiva área jurídica.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+En cualquiera de los supuestos a que se refiere este artículo, la Consejería podrá solicitar a las dependencias y entidades de la Administración Pública del Estado, la información, documentación complementaria y el apoyo que requiera, la cual deberá ser proporcionada en un plazo no mayor a tres días, contados a partir de la solicitud correspondiente.
 
 ###### Artículo 5.
 
@@ -297,67 +327,23 @@ La Consejería Adjunta de Estudios Normativos, para el eficaz despacho de los as
 
 #### Sección III. De la Consejería Adjunta de Transparencia y Protección de Datos Personales
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 13.
 
 Compete a la Consejería Adjunta de Transparencia y Protección de Datos Personales:
 
-A. En materia de transparencia y acceso a la información:
+I. Auxiliar al Coordinador General de Transparencia en el desempeño de sus funciones y atribuciones;
 
-I. Encabezar la Unidad de Transparencia del Despacho del Ejecutivo;
+II. Orientar y asesorar en los asuntos de su competencia a las dependencias y entidades de la Administración Pública Estatal, cuando así lo soliciten, considerando sus capacidades en materia de recursos humanos y presupuestales;
 
-II. Formar parte del Comité de Transparencia del Despacho del Ejecutivo;
+III. Emitir opiniones técnicas de oficio en materia de transparencia y protección de datos personales;
 
-III. Coordinar la difusión de la información correspondiente a las obligaciones en materia de transparencia del Despacho del Ejecutivo, propiciando que las unidades administrativas la actualicen periódicamente, conforme a la normatividad aplicable;
+IV. Revisar, en coordinación con la Consejería Adjunta de Estudios Jurídicos, los instrumentos jurídicos en materia de transparencia y protección de datos personales que sean sometidos a firma del Gobernador del Estado y demás documentos que disponga el Consejero;
 
-IV. Recibir y dar trámite a las solicitudes de acceso a la información;
+V. Estudiar los asuntos en materia de transparencia y protección de datos personales que requiera el Consejero, y
 
-V. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
-
-VI. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
-
-VII. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
-
-VIII. Efectuar las notificaciones a los solicitantes;
-
-IX. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío, a efecto de emitir bimestralmente por escrito ante el órgano garante en la materia, dentro de los primeros diez días posteriores al vencimiento, informe estadístico, de conformidad con lo establecido en la normatividad aplicable;
-
-X. Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes (sic) acceso a la información, conforme a la normatividad aplicable;
-
-XI. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
-
-XII. Fomentar la transparencia y accesibilidad al interior del Despacho del Ejecutivo;
-
-XIII. Dar aviso al superior jerárquico de aquellas unidades administrativas del Despacho del Ejecutivo, que se nieguen a colaborar con la unidad de transparencia, a fin de que por su conducto realice las acciones conducentes;
-
-XIV. En caso de subsistir la conducta señalada en el párrafo anterior, hacer del conocimiento de la autoridad competente, la probable responsabilidad por el incumplimiento de las obligaciones en materia de transparencia;
-
-XV. Auxiliar al Coordinador General de Transparencia en el desempeño de sus funciones y atribuciones, y
-
-XVI. Las demás que se desprendan de la normatividad aplicable.
-
-B. En materia de protección de datos personales:
-
-I. Auxiliar y orientar al titular de datos personales que lo requiera con relación al ejercicio del derecho a la protección de datos personales;
-
-II. Recibir y dar trámite a las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
-
-III. Realizar los trámites internos necesarios para la atención de las solicitudes de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
-
-IV. Efectuar las notificaciones al titular de los datos personales o a su representante;
-
-V. Establecer mecanismos para asegurar que los datos personales solo se entreguen a su titular o su representante debidamente acreditados;
-
-VI. Informar al titular o su representante el monto de los costos a cubrir por la reproducción y envío de los datos personales, con base en lo establecido en las disposiciones normativas aplicables;
-
-VII. Proponer al Comité de Transparencia los procedimientos internos que aseguren y fortalezcan mayor eficiencia en la gestión de las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
-
-VIII. Aplicar instrumentos de evaluación de calidad sobre la gestión de las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
-
-IX. Asesorar a unidades administrativas del Despacho del Ejecutivo en materia de protección de datos personales, y
-
-X. Las demás que se desprendan de la normatividad aplicable.
+VI. Las demás que se desprendan de la normatividad aplicable.
 
 La Consejería Adjunta de Transparencia y Protección de Datos Personales, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus facultades, podrá auxiliarse por asesores adscritos a dicha Consejería. El número de asesores se determinará por el Consejero y de conformidad con el presupuesto autorizado.
 
@@ -420,3 +406,9 @@ SEGUNDO.- El Manual de Organización General de la Consejería y demás instrume
 TERCERO.- En tanto se expidan los instrumentos de organización, normativos y administrativos señalados en el numeral anterior, el Consejero tomará las decisiones que procedan, y en su caso resolverá lo conducente.
 
 CUARTO.- Para efectos administrativos y presupuestarios toda referencia que se haga a la Subconsejería General Adjunta, Consejería Adjunta de Consulta y Estudios Constitucionales, Consejería Adjunta de Legislación y Estudios Normtativos (sic), Consejería Adjunta de Control Constitucional y de lo Contencioso y Coordinación Administrativa, se entenderán por realizadas a la Subconsejería Jurídica, Consejería Adjunta de Estudios Jurídicos, Consejería Adjunta de Estudios Normativos, Consejería Adjunta de Transparencia y Protección de Datos Personales y Dirección Administrativa, respectivamente.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+[N. DE. E. TRANSITORIO DEL “DECRETO ADMINISTRATIVO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
