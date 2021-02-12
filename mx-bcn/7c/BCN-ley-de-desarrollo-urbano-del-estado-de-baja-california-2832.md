@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2019-12-31"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -2595,9 +2595,17 @@ Las acciones que se proyecten realizar mediante esta modalidad, deberán cumplir
 
 Las acciones de urbanización por objetivo social se refieren al fraccionamiento y urbanización de terrenos que se desarrollarán en forma progresiva mediante la gestión pública a través de los Ayuntamientos, del Gobierno del Estado o de ambas autoridades, a fin de responder a la demanda de suelo urbano para la vivienda popular y evitar, con ello, el asentamiento espontáneo o irregular.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2021)</small>
+
+A efecto de ampliar las posibilidades de acceso a la vivienda a las familias de bajos ingresos o sectores de la población más desprotegidos, el Gobernador del Estado, por sí o a través de sus organismos descentralizados, bajo acuerdo del Ayuntamiento respectivo, en atención a la urgencia inmediata de resolver problemas de vivienda, podrá impulsar el desarrollo de fraccionamientos de tipo Habitacional Social Progresivo, con los requisitos mínimos de urbanización previstos en la presente Ley.
+
 ###### ARTICULO 224.
 
 La gestión de toda acción de urbanización por objetivo social, se realizará por iniciativa de las autoridades estatales y municipales, quienes tratándose de predios de propiedad privada, pueden asociarse con sus propietarios para el desarrollo de este tipo de urbanizaciones. Asimismo, las autoridades estatales y municipales podrán atender las peticiones de ciudadanos, que agrupados en cooperativas y asociaciones de colonos soliciten este tipo de acción de urbanización y aporten los terrenos para desarrollarlo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2021)</small>
+
+En el caso de los fraccionamientos de tipo Habitacional Social Progresivo, el Ejecutivo del Estado o sus organismos descentralizados podrán convenir con el sector social o con organismos públicos federales, cuya finalidad sea la construcción, subsidio o financiamiento de vivienda de interés social, para la adquisición de terrenos o en cualquier otra operación necesaria para llevar a cabo el fraccionamiento, quedando a cargo del Ejecutivo del Estado o el organismo descentralizado correspondiente su supervisión.
 
 ###### ARTICULO 225.
 
@@ -2613,21 +2621,39 @@ I. Realizar los estudios que la fundamenten, tanto en lo económico y social, co
 
 II. En base a estos estudios el Ayuntamiento y/o el Gobierno del Estado, según corresponda, decidirán si realizan la urbanización bajo esta modalidad;
 
-III. Aprobado el estudio, el Ayuntamiento y/o el Gobierno del Estado, según corresponda, elaborarán el proyecto definitivo, donde se definirán las obras mínimas que se ejecutarán y las obras complementarias que integran una urbanización popular completa;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
 
-IV. Las obras mínimas que se exigirán son las siguientes:
+III. Aprobado el estudio, el Ayuntamiento y/o el Gobierno del Estado, según corresponda, elaborarán el proyecto definitivo, en el caso del Fraccionamiento Habitacional Social Progresivo, se definirán las obras mínimas que se ejecutarán y las obras complementarias que integran una urbanización popular completa;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2021)</small>
+
+IV. Las obras mínimas a que se refiere la fracción anterior, que se exigirán son las siguientes:
 
 a) Aprovisionamiento de agua potable mediante hidrantes localizados en una de las esquinas; y,
 
 b) Conformación del terreno para señalar las vías públicas;
 
-V. Realizadas las obras mínimas conforme a su proyecto definitivo, el Ayuntamiento procederá a su recepción levantando el acta respectiva; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2021)</small>
 
-VI. Una vez que el Ayuntamiento haya recibido de conformidad las obras mínimas, se procederá a ocupar los lotes.
+c) La construcción de guarniciones de banqueta, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2021)</small>
+
+d) La introducción de redes de infraestructura de servicios de electrificación y alumbrado público.
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
+
+V. Realizadas las obras en los términos previstos en la presente Ley y los Reglamentos correspondientes, el Ayuntamiento procederá a su recepción levantando el acta respectiva; y
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
+
+VI. En el caso del Fraccionamiento Habitacional Social Progresivo, una vez que el Ayuntamiento haya recibido de conformidad las obras, se procederá a ocupar los lotes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 227.
 
-El complemento de las obras de urbanización en una acción de urbanización por objetivo social, se garantizará mediante el convenio que celebren el Ejecutivo Estatal o el Ayuntamiento respectivo y los adquirientes de los lotes.
+El complemento de las obras de urbanización en una acción de urbanización por objetivo social, deberán concluirse dentro del plazo de 5 años contados a partir de la fecha en que el Ayuntamiento haya recibido las obras mínimas respectivas, y se garantizará mediante el convenio que celebren el Ejecutivo Estatal o el Ayuntamiento respectivo y los adquirientes de los lotes.
 
 Los adquirentes de los lotes deberán formar parte de la junta de vecinos para hacer posibles las gestiones que se establezcan en dicho convenio.
 
@@ -2639,9 +2665,11 @@ La junta de vecinos, previa autorización del Ayuntamiento y/o del Ejecutivo del
 
 Mientras las obras de urbanización no estén concluidas conforme las disposiciones reglamentarias en la materia, el Ayuntamiento no levantará el acta final de recepción de obras.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
 ###### ARTICULO 230.
 
-Los propietarios de lotes en una acción de urbanización por objetivo social o quienes adquieran sus derechos, están obligados solidariamente en las responsabilidades derivadas de la realización de las obras de urbanización progresiva. Este hecho deberá consignarse en las escrituras de propiedad que se expidan y en las inscripciones que se hagan en el Registro Público de la Propiedad y del Comercio.
+Los propietarios de lotes en una acción de urbanización por objetivo social o quienes adquieran sus derechos, están obligados solidariamente en las responsabilidades derivadas de la realización de las obras de urbanización progresiva. Este hecho deberá consignarse en los documentos de propiedad que se expidan y en las inscripciones que se hagan en el Registro Público de la Propiedad y del Comercio.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
@@ -2944,3 +2972,9 @@ La presente reforma entrará en vigor el día después de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Los Ayuntamientos del Estado contarán con un plazo de treinta días para dejar sin efecto cualquier normatividad que se haya aprobado para reglamentar la prohibición aquí suprimida.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 180 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 223, 224, 226, 227 Y 230 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
