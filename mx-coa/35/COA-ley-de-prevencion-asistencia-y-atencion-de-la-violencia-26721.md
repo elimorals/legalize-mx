@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prevencion-asistencia-y-atencion-de-la-violencia-26721"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2021-01-26"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de octubre de 2002.
 
@@ -108,6 +108,10 @@ g) El Sistema para el Desarrollo Integral de la Familia.
 h) La Procuraduría para Niños, Niñas y la Familia.
 
 i) El Instituto Coahuilense de las Mujeres.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+j) El instituto Coahuilense de las Personas Adultas Mayores.
 
 II. Al Congreso del Estado a través de la Comisión de Equidad y Género.
 
@@ -275,7 +279,9 @@ I. Una Presidencia colegiada, conformada por los representantes de los Poderes E
 
 II. Una Vicepresidencia, con cargo a la persona que se desempeñe en la Presidencia de los Patronatos del Sistema para el Desarrollo Integral de la Familia y Voluntariado de Coahuila.
 
-III. Seis vocalías a cargo de las y los titulares de las siguientes dependencias del Ejecutivo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2021)</small>
+
+III. Siete vocalías a cargo de las y los titulares de las siguientes dependencias del Ejecutivo:
 
 a) Secretaría de Gobierno.
 
@@ -294,6 +300,10 @@ e) Secretaria de Seguridad Pública.
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
 
 f) Instituto Coahuilense de las Mujeres.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+g) Instituto Coahuilense de las Personas Adultos (sic) Mayores.
 
 IV. Dos vocalías del Poder Legislativo cubiertas por integrantes de la Comisión de Equidad y Género.
 
@@ -1408,5 +1418,11 @@ P.O. 20 DE OCTUBRE DE 2020.
 P.O. 26 DE ENERO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 830.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 25 DE LA LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O.12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 913.- SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 12, SE ADICIONA EL INCISO J) A LA FRACCIÓN I DEL ARTÍCULO 6; Y SE ADICIONA EL INCISO G) A LA FRACCIÓN III DEL ARTÍCULO 12 DE LA LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE COAHUILA DE ZARAGOZA.”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
