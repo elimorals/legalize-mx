@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2020-12-02"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE FEBRERO DE 2021.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -1521,27 +1521,45 @@ II. Para informar del estado que guarden las Dependencias y Entidades de la Admi
 
 III. Cuando se delibere o discuta una ley o se estudie un asunto relativo a sus respectivos ramos.
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 154.
 
-Las comparecencias se realizarán ante el Pleno o las Comisiones correspondientes, en el lugar que determine la Junta de Coordinación Política, y se sujetarán a las reglas generales siguientes:
+Las comparecencias se realizarán ante el Pleno o las Comisiones correspondientes, en el lugar que determine la Junta de Coordinación Política, en las cuales podrán participar los diputados de manera remota, tal como se encuentra previsto para las sesiones a distancia establecidas en los artículos 81 y 83 de este Reglamento, y se sujetarán a las reglas generales siguientes:
+
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 I. Los titulares de las Dependencias y Entidades de la Administración Pública y de los Organismos Autónomos del Estado que comparezcan ante el Congreso podrán hacerse acompañar, para auxiliarse en el desarrollo de sus comparecencias, de hasta veinte colaboradores, quienes al igual que el compareciente evitarán, al interior del Palacio Legislativo y en los alrededores de éste, todo acto multitudinario o de promoción personal con tal motivo y por cualquier medio, y se conducirán en todo momento con apego a los principios que establecen (sic) la relación respetuosa entre los Poderes del Estado;
 
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2017)</small>
+
 II. El presidente del Congreso o de la Permanente solicitará a los comparecientes la relación de funcionarios, invitados y personal de apoyo técnico que los acompañarán en su comparecencia; así como el envío, con cuarenta y ocho horas de anticipación por lo menos, del texto inicial de su comparecencia al presidente de la Comisión que corresponda, el cual lo distribuirá a todos los diputados, a más tardar treinta y seis horas antes de la comparecencia;
+
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 III. Las comparecencias serán públicas y, durante su desarrollo, la seguridad del recinto y de las personas estará a cargo exclusivamente del personal de vigilancia del Congreso, el que, en ningún caso, podrá ser sustituido o desplazado por el de otro Poder o Dependencia. Por razones de seguridad o cuando se exceda el aforo del recinto, la Comisión respectiva podrá disponer que se limite el acceso al mismo;
 
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2017)</small>
+
 IV. Las comparecencias serán coordinadas y conducidas por la Comisión o Comisiones encargadas del ramo, a excepción de las efectuadas ante el Pleno, que serán conducidas por la Mesa Directiva;
+
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 V. A su llegada al lugar designado para la comparecencia, el servidor público será recibido por la Comisión ante la cual comparece. Si fuere ante el Pleno, la Mesa Directiva dispondrá el protocolo a seguir;
 
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2017)</small>
+
 VI. El presidente de la Comisión, antes de la lectura del texto inicial, hará saber al compareciente que, en términos de los artículos 49, fracción XXI, de la Constitución y 40 de la Ley, se encuentra obligado a decir verdad en la información que rinda; y lo apercibirá de la manera siguiente: "En caso de conducirse con falsedad, podrá hacerse acreedor a las sanciones penales o administrativas a que haya lugar". Acto seguido, le interrogará de la forma siguiente: "¿Protesta usted decir verdad en cuanto a la información que proporcione y a las respuestas que emita a los cuestionamientos que le formulen los integrantes de este Congreso?, a lo que el compareciente responderá: "Sí, protesto";
+
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 VII. El compareciente hará uso de la voz en el momento en que se lo indique el presidente de la Comisión y leerá un texto introductorio, para cuya mejor comprensión podrá apoyarse con los medios pertinentes, a fin de que el mismo sea lo más completo posible, basado en datos objetivos y sin exceder de treinta minutos;
 
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2017)</small>
+
 VIII. Concluida la exposición inicial, la Comisión abrirá el registro de participantes hasta por cinco minutos. Agotado el registro, iniciarán los cuestionamientos;
+
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 IX. El orden de participación de los diputados en los cuestionamientos será el siguiente:
 
@@ -1549,13 +1567,21 @@ a) Se establecerá una ronda de preguntas, en la que participará un diputado po
 
 b) En una segunda ronda, el orden se determinará por insaculación;
 
-c) Si algún diputado registrado ante la Comisión no se encontrare presente al momento de su turno para preguntar, se concederá el uso de la voz al siguiente de la lista;
+> <small>(REFORMADO, G.O. 12 DE FEBRERO DE 2021)</small>
+
+c) Si algún diputado registrado ante la Comisión no se encontrare presente en el lugar de la comparecencia o conectado de manera remota al momento de su turno para preguntar, se concederá el uso de la voz al siguiente de la lista;
+
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 X. Cada pregunta deberá formularse en un término que no excederá de cinco minutos, y para la respuesta se concederá un lapso máximo de quince minutos;
+
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 XI. Los diputados que consideren no haber recibido respuesta a alguna de sus preguntas podrán solicitar al presidente de la Comisión, sin exceder su intervención de cinco minutos, que requiera al compareciente para que la responda en un lapso no mayor a cinco minutos. Al finalizar la última respuesta del compareciente, se concederá el uso de la voz hasta por dos minutos al diputado que lo haya cuestionado.
 
 En caso de que el servidor público se comprometa a entregar posteriormente la información requerida, deberá hacerla llegar en un plazo de cuarenta y ocho horas; en caso de no hacerlo, se estará a lo señalado en el artículo 18 Bis de la Ley; y
+
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 XII. El presidente de la Comisión agradecerá al servidor público su presencia y dará por concluida la comparecencia.
 
@@ -1926,3 +1952,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. En un plazo máximo de ciento veinte días naturales contado a partir de la entrada en vigor del presente Decreto, La Junta de Trabajos Legislativos deberá emitir los Lineamientos para dar cumplimiento a lo dispuesto en la presente reforma, en los que se especificarán las disposiciones que los servidores públicos del Congreso deberán observar para el uso correcto y adecuado del correo electrónico oficial o del sistema de transferencia de datos respectivo, así como las especificaciones técnicas y administrativas necesarias para su funcionalidad, mantenimiento y seguridad.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 840 QUE REFORMA EL PRIMER PÁRRAFO Y EL INCISO C) DE LA FRACCIÓN IX DEL ARTÍCULO 154 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
