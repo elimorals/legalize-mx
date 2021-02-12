@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2021-01-29"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
@@ -131,7 +131,9 @@ ARTÍCULO 3 BIS. Se consideran tipos de discriminación las siguientes:
 
 a.- Discriminación racial o étnica: tiene lugar cuando una persona, o grupo humano, es tratada como inferior o no se le reconocen sus derechos por razón a su pertenencia de origen a una determinada raza o etnia, o por las costumbres y tradiciones que guarde.
 
-b.- Discriminación por Provincia o localidad de origen: se da cuando existe un trato a alguien de manera menos favorable porque él o ella provienen de un lugar en particular, por su grupo étnico o acento o porque se cree que tienen antecedentes étnicos particulares. La discriminación por origen nacional también significa tratar a alguien de manera menos favorable en el trabajo debido a su matrimonio u otra relación con alguien de una nacionalidad en particular. Es el tipo de discriminación que sufren aquellos que no son originarios del país o lugar en el que residen, por aquellos que nacieron en el país o tienen mayor antigüedad en él o en un lugar específico
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+b.- Discriminación por localidad de origen: se da cuando existe un trato a alguien de manera menos favorable porque él o ella provienen de un lugar en particular, por su grupo étnico o acento o porque se cree que tienen antecedentes étnicos particulares. La discriminación por origen nacional también significa tratar a alguien de manera menos favorable en el trabajo debido a su matrimonio u otra relación con alguien de una nacionalidad en particular. Es el tipo de discriminación que sufren aquellos que no son originarios del país o lugar en el que residen, por aquellos que nacieron en el país o tienen mayor antigüedad en él o en un lugar específico.
 
 c.- Discriminación religiosa: se da cuando una persona, o grupo de personas, recibe un trato desfavorable por no practicar la creencia religiosa mayoritaria de la sociedad en la que vive o por no profesar creencia alguna.
 
@@ -1416,3 +1418,9 @@ P.O. 29 DE ENERO DE 2021.
 PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 915.- SE MODIFICA EL CONTENIDO DEL INCISO B DEL ARTÍCULO 3 BIS DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
