@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-edificaciones-del-estado-de-baja-california-2846"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2018-07-13"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 24 de junio de 1994.
 
@@ -1357,7 +1357,9 @@ Para fijar las multas que se impongan por infracciones a esta Ley y sus Reglamen
 
 A. Se sancionará al Director Responsable, al Corresponsable o al Propietario:
 
-I. Con multa de 5 a 250 veces el salario mínimo diario vigente en el Estado de Baja California cuando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2021)</small>
+
+I. Con multa de 5 a 250 Unidades de Medida y Actualización cuando:
 
 a). Obstaculice las funciones de los Inspectores;
 
@@ -1367,7 +1369,9 @@ c). Invada la vía pública sin la autorización correspondiente, y;
 
 d). No de aviso de terminación de obra en el plazo fijado para el efecto.
 
-II. Con multa de 25 a 500 veces el salario mínimo diario vigente en el Estado de Baja California cuando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2021)</small>
+
+II. Con multa de 25 a 500 Unidades de Medida y Actualización cuando:
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2016)</small>
 
@@ -1385,7 +1389,9 @@ c). En cualquier caso de reincidencia.
 
 B. A los Directores de Obra, Directores de Proyectos o Corresponsables, en su caso se les impondrá:
 
-I. Multa de 25 a 500 veces el salario mínimo diario vigente en el Estado de Baja California por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2021)</small>
+
+I. Multa de 25 a 500 Unidades de Medida y Actualización por:
 
 a). No cumplir con las obligaciones de esta Ley y sus Reglamentos.
 
@@ -1395,7 +1401,17 @@ Se suspenderá el Registro de los Responsables: Director de Obra, Director de Pr
 
 Se cancelarán los Registros, siguiendo el mismo procedimiento anterior, en casos de reincidir el responsable en aportar datos falsos en solicitudes de licencia o bien, si transcurrido el término de la suspensión del registro, no se hayan resuelto las causas que dieron origen a ésta y en cualquier caso de infracción grave a esta Ley y sus Reglamentos.
 
-La Autoridad podrá ordenar la demolición parcial o total de obras e instalaciones, cuando éstas no cumplan con los lineamientos establecidos al respecto en los Reglamentos de esta Ley.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+La Autoridad podrá ordenar la demolición parcial o total de obras e instalaciones, cuando éstas no cumplan con los lineamientos establecidos al respecto con los Reglamentos de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2021)</small>
+
+Cuando sea ordenada la demolición parcial o total de una obra o instalación, ésta deberá hacerse dentro del plazo de diez días hábiles, contados a partir del día siguiente al de la notificación correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2021)</small>
+
+A quien incumpla la orden de demolición en el plazo indicado en el párrafo inmediato anterior, se le requerirá para que, en un término de tres días hábiles, realice por su cuenta la demolición, caso contrario, se le impondrá una multa que va de 50 hasta 100 Unidades de Medida y Actualización; de persistir el incumplimiento, la autoridad dará cumplimiento a la orden de demolición con cargo al particular.
 
 ###### ARTICULO 74.
 
@@ -1540,3 +1556,9 @@ P.O. 13 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 248 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 6, 10, 12, 117, 140, 150, 200, 240 Y SE ADICIONAN LOS ARTÍCULOS 117 BIS, 150 BIS, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE REFORMAN LOS ARTÍCULO (SIC) 2, 60 Y SE ADICIONAN LOS ARTÍCULOS 66 BIS, 66 TER, 66 QUATER, 66 QUINQUIES, 66 SEXIES, 66 SEPTIES Y 66 OCTIES, DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LOS ARTÍCULOS 2, 28, 74, 80, 129 Y SE ADICIONAN LOS ARTÍCULOS 80 BIS, 80 TER, 80 QUATER Y 80 QUINQUIES, DE LA LEY DE PROTECCIÓN Y GESTIÓN INTEGRAL DE RIESGOS DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 179 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 73 DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
