@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-para-el-estado-de-122912
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-21"
-last_updated: "2020-11-27"
+last_updated: "2021-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 21 de julio de 2017.
 
@@ -647,25 +647,7 @@ VI. Por conducto del Registro Civil para el Estado de Coahuila de Zaragoza, debe
 
 4. Estadísticas de los trámites que realice.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-VII. Por conducto de la Fiscalía General del Estado:
-
-1. Las estadísticas e indicadores de la procuración de justicia;
-
-2. Las estadísticas sobre denuncias y/o querellas presentadas y averiguaciones previas desestimadas, así como de las carpetas de investigación;
-
-3. La estadística de las averiguaciones previas consignadas;
-
-4. Las estadísticas de personas desaparecidas o no localizadas;
-
-5. Publicar los lineamientos y criterios para la implementación de los planes de contingencia de disturbios dentro de centros educativos y de salud;
-
-6. Las estadísticas de las carpetas de investigación o averiguaciones previas iniciadas y su relación con aquellas en las que se ejerció acción penal y el resultado de los juicios;
-
-7. Los distintos índices delictivos divididos por región en el Estado, Municipio y delegaciones regionales; y
-
-8. Las estadísticas de delitos cometidos por razones de género.
+VII. (DEROGADA, P.O. 12 DE FEBRERO DE 2021)
 
 VIII. Por conducto de la Secretaría de Educación:
 
@@ -986,6 +968,52 @@ III. Los estudios y sus resultados que se realicen sobre la calidad del agua;
 IV. Programa o lugar de explotación y el estado que guardan los pozos o fuentes de abastecimiento; y
 
 V. Los estudios y sus resultados que, en su caso, se realicen de los mantos acuíferos.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+###### Artículo 30 Bis.
+
+Además de lo señalado en el artículo 21 del presente ordenamiento, la Fiscalía General del Estado, deberá publicar la siguiente información:
+
+I. Los indicadores en materia de procuración de justicia.
+
+II. Con relación al Sistema Penal Acusatorio Adversarial la estadística sobre carpetas de investigación iniciadas, en archivo temporal, judicializadas y concluidas, en las que se precisen las siguientes formas de conclusión:
+
+a) Abstención de investigación.
+
+b) Aplicación de criterio de oportunidad.
+
+c) No ejercicio de la acción penal.
+
+d) Mecanismos alternativos de solución de controversias.
+
+e) Desistimiento de la acción penal.
+
+f) En juicio oral por sentencia ejecutoriada.
+
+g) Sobreseimiento del proceso penal.
+
+h) Incompetencia.
+
+III. Con relación al Sistema Penal Tradicional la estadística sobre averiguaciones previas iniciadas, en archivo provisional por reserva y concluidas, en las que se precisen las siguientes formas de conclusión:
+
+a) Consignación a la autoridad jurisdiccional con sentencia ejecutoriada.
+
+b) Sobreseimiento del proceso penal.
+
+c) Justicia Restaurativa.
+
+d) No ejercicio de la acción penal.
+
+e) Incompetencia.
+
+IV. Los distintos índices delictivos divididos por Municipio y de acuerdo a las delegaciones regionales en las que desconcentre sus funciones la Fiscalía General del Estado.
+
+V. La estadística de personas desaparecidas o no localizadas, en la que se desagregue información por año, municipio y delegación regional en el que ocurrieron los hechos, así como aquella información que comunique a la sociedad los resultados de las acciones de búsqueda y de las investigaciones realizadas por la Fiscalía General del Estado. La información que se publique en cumplimiento de esta fracción deberá atender a la normatividad en materia de datos personales.
+
+VI. Las estadísticas de delitos cometidos por razones de género y aquella información tendiente a la prevención de este tipo de conductas, promuevan la cultura de la denuncia y el conocimiento de los derechos que asisten a las víctimas de los mismos.
+
+VII. Los programas de atención y protección a víctimas, testigos y demás involucrados en el proceso penal implementados por la Fiscalía General del Estado, detallando los requisitos para el acceso a los mismos.
 
 ###### Artículo 31.
 
@@ -1787,7 +1815,9 @@ La Unidad de Transparencia tendrá disponible la información solicitada durante
 
 La obligación de dar acceso a la información se tendrá por cumplida cuando la información se entregue al solicitante en medios electrónicos, ésta se ponga a su disposición para consulta en el sitio en que se encuentra, o bien mediante la expedición de copias simples o certificadas. El acceso a la información se dará solamente en la forma en que lo permita el documento de que se trate.
 
-En el caso de que la información ya esté disponible en medios electrónicos, la Unidad de Transparencia se lo indicará al solicitante, precisando la dirección electrónica completa del sitio donde se encuentra la información requerida, y en la medida de sus posibilidades, podrá proporcionarle una impresión de la misma.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+En el caso de que la información ya esté disponible en medios electrónicos, la Unidad de Transparencia se lo indicará al solicitante, precisando la dirección electrónica completa del sitio donde se encuentra, y en la medida de sus posibilidades, podrá adjuntar a la respuesta la imagen digital que compruebe que ahí se encuentran los datos o documentos solicitados y proporcionar una impresión de la misma.
 
 En el caso de que la información solicitada ya esté disponible al público en medios impresos, tales como libros, compendios, informes, trípticos o en cualquier otro medio, se le hará saber al solicitante por escrito la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información en un plazo no mayor a cinco días.
 
@@ -1829,7 +1859,13 @@ III. No se requiera acreditar interés alguno.
 
 Excepcionalmente, cuando de forma fundada y motivada, así lo determine el sujeto obligado, en aquellos casos en que la información solicitada que ya se encuentre en su posesión implique análisis, estudio o procesamiento de documentos cuya entrega o reproducción sobrepase las capacidades técnicas del sujeto obligado para cumplir con la solicitud en los plazos establecidos para dichos efectos, se podrán poner a disposición del solicitante los documentos en consulta directa, salvo la información clasificada.
 
-En todo caso se facilitará su copia simple o certificada, así como su reproducción por cualquier medio disponible en las instalaciones del sujeto obligado, que en su caso aporte el solicitante.
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+Cuando se conceda la consulta en su sitio, el Sujeto Obligado deberá fijar una fecha específica para que el solicitante acuda a revisar la información, pudiendo contar con el tiempo necesario para realizar esta actividad dentro de los horarios de oficina de cada dependencia y, en caso de ser necesario, se le concederán fechas adicionales.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+En todo caso se facilitarán copias simples o certificadas de la información de su interés, así como su reproducción por cualquier medio disponible en las instalaciones del sujeto obligado, con costo al solicitante.
 
 ### CAPÍTULO DÉCIMO. EL RECURSO DE REVISIÓN
 
@@ -2976,3 +3012,23 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 919.- SE DEROGA LA FRACCIÓN VII DEL ARTÍCULO 25 Y SE ADICIONA EL ARTÍCULO 30 BIS DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 920.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 102 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Lo establecido en el presente decreto será aplicable para las respuestas a las solicitudes de información que se presenten ante los sujetos obligados en fecha posterior a la entrada en vigor del mismo.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 921.- SE ADICIONA UN SEGUNDO PÁRRAFO, RECORRIENDO EL QUE ACTUALMENTE OCUPA ESA POSICIÓN AL TERCER LUGAR, MODIFICANDO A LA VEZ SU CONTENIDO, DEL ARTÍCULO 108 DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
