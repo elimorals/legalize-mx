@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2019-02-22"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -169,13 +169,13 @@ XIX. QUEMA: Combustión no controlada de cualquier sustancia o material;
 
 XX. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fines productivos;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
 
-XXI. SECRETARÍA: Secretaría de Protección al Ambiente del Estado de Baja California, y
+XX (SIC). SECRETARÍA: Secretaría de Economía Sustentable y Turismo, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2014)</small>
 
-XXII. VIDA SILVESTRE: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como ferales.
+XXII (SIC). VIDA SILVESTRE: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como ferales.
 
 ###### ARTÍCULO 3.
 
@@ -3218,3 +3218,9 @@ SEGUNDO.- Para la implementación de esta disposición, el Ejecutivo del Estado 
 Estos ordenamientos deberán contener disposiciones aplicables a productores, distribuidores, comerciantes, consumidores, generadores de residuos de estos materiales.
 
 TERCERO.- Los productores, distribuidores y comerciantes de bolsas de plástico, contarán con trecientos sesenta y cinco días naturales después de la publicación del Presente Decreto para dar cumplimiento a lo establecido en el artículo 141 de la Ley de Protección al Ambiente para el Estado de Baja California.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 172 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 2 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
