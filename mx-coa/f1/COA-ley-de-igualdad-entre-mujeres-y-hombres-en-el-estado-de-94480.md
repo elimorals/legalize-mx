@@ -4,7 +4,7 @@ identifier: "COA-ley-de-igualdad-entre-mujeres-y-hombres-en-el-estado-de-94480"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2021-01-26"
+last_updated: "2021-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -291,21 +291,29 @@ VI. Difundir los tratados internacionales vinculantes al estado mexicano relacio
 
 VII. Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+El Congreso del Estado, en base a la Constitución del Estado de Coahuila de Zaragoza, sus principios, políticas y objetivos preverá la armonización legislativa a que haya lugar, en materia de la igualdad sustantiva entre mujeres y hombres, sin perjuicio de las normas que regulan la violencia de género en contra de las mujeres y la no discriminación, evaluando de manera periódica la aplicación de las normas que se aprueben, en coordinación con la administración pública estatal.
+
 C.- Corresponde al Poder Judicial:
 
 I. Garantizar el acceso e impartición de justicia en igualdad de oportunidades entre mujeres y hombres, impulsando la modificación de concepciones, actitudes y valores discriminatorios de impartidores de justicia;
 
-II. Desarrollar programas de formación, capacitación y sensibilización del personal de impartición de justicia y quienes se desempeñen como funcionarios encargados de la aplicación de la ley, incorporando en dichos programas, contenidos sobre igualdad y derechos humanos de las mujeres y hombres y sus deberes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2021)</small>
 
-III. Implementar políticas que permitan el desarrollo de procedimientos justos, efectivos y oportunos en concordancia con los instrumentos internacionales firmados y ratificados por el estado mexicano, eliminando los obstáculos que existan para el acceso a la justicia, en particular de las mujeres rurales o de escasos recursos;
+II. Incorporar la perspectiva de género en las sentencias y resoluciones judiciales tomando en cuenta: Los impactos diferenciados entre mujeres y hombres en la interpretación de la norma jurídica; la interpretación y aplicación sobre una base de igualdad de los derechos de la mujer con los del hombre para garantizar la igualdad sustantiva y la eliminación de todo tipo de discriminación contra las mujeres bajo la protección más amplia de derechos humanos establecidos en las disposiciones nacionales e internacionales en las resoluciones y sentencias que emitan;
 
-IV. Vigilar que la impartición de justicia esté libre de prejuicios, parcialidad, pensamientos, actitudes y aspectos discriminatorios;
+III. Desarrollar programas de formación, capacitación y sensibilización del personal de impartición de justicia y quienes se desempeñen como funcionarios encargados de la aplicación de la ley, incorporando en dichos programas, contenidos sobre igualdad y derechos humanos de las mujeres y hombres y sus deberes;
 
-V. Institucionalizar programas al personal de impartición de justicia incorporando contenidos sobre igualdad, derechos humanos de las mujeres, aplicación, conocimiento y cumplimiento de los tratados internacionales vinculantes para el estado mexicano;
+IV. Implementar políticas que permitan el desarrollo de procedimientos justos, efectivos y oportunos en concordancia con los instrumentos internacionales firmados y ratificados por el estado mexicano, eliminando los obstáculos que existan para el acceso a la justicia, en particular de las mujeres rurales o de escasos recursos;
 
-VI. Facilitar servicios periciales gratuitos, tratándose de mujeres y hombres que no puedan acceder a estos servicios, previo estudio socioeconómico realizado por la propia institución; y
+V. Vigilar que la impartición de justicia esté libre de prejuicios, parcialidad, pensamientos, actitudes y aspectos discriminatorios;
 
-VII. Las demás que la Ley y otros ordenamientos aplicables le confieren.
+VI. Institucionalizar programas al personal de impartición de justicia incorporando contenidos sobre igualdad, derechos humanos de las mujeres, aplicación, conocimiento y cumplimiento de los tratados internacionales vinculantes para el estado mexicano;
+
+VII. Facilitar servicios periciales gratuitos, tratándose de mujeres y hombres que no puedan acceder a estos servicios, previo estudio socioeconómico realizado por la propia institución; y
+
+VIII. Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -395,17 +403,27 @@ V. Fomentar la participación social, política y ciudadana dirigida a lograr la
 
 VI. Fortalecer la prestación de los servicios públicos de la administración municipal, a través de la formación, capacitación y certificación de las y los servidores públicos en materia de igualdad de género;
 
-(REPUBLICADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR A LA FRACCIÓN VIII.]</small>
 
-VII. Fomentar actividades reglamentarias con perspectiva de género;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
+
+VII. Fomentar la participación equitativa de mujeres y hombres en cargos públicos;
 
 (REPUBLICADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)
 
 VIII. Fomentar la participación equitativa de mujeres y hombres en cargos públicos; y
 
-(REPUBLICADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2021)
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE FEBRERO DE 2021)</small>
 
-IX. Diseñar, formular y aplicar campañas permanentes de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta ley le confiere.
+IX. Establecer la coordinación a que haya lugar con los otros órdenes de gobierno para lograr la transversalidad de la perspectiva de género en la función pública municipal;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2021)</small>
+
+X. Desarrollar mecanismos especiales para la debida de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, cultural y civil; y
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2021)</small>
+
+XI. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
 ### Capítulo sexto. De la Comisión de Derechos Humanos del Estado de Coahuila
 
@@ -1572,3 +1590,11 @@ P.O. 26 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 831.- SE REFORMA EL CONTENIDO DEL ARTÍCULO 4, ASÍ COMO EL CONTENIDO DE LA FRACCIÓN III DEL ARTÍCULO 18, ADICIONANDO UN NUEVO CONTENIDO A LA FRACCIÓN IV Y RECORRIENDO EL ACTUAL A LA FRACCIÓN V, QUE SE CREA; Y SE MODIFICA EL CONTENIDO DE LAS FRACCIONES IV Y VI DEL ARTÍCULO 20 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 916.- SE ADICIONA UN PÁRRAFO A LA FRACCIÓN VII DEL APARTADO B, Y SE MODIFICA EL CONTENIDO DE LA FRACCIÓN II DEL APARTADO C, RECORRIENDO EL ACTUAL A LA SIGUIENTE, HACIENDO LO PROPIO CON EL RESTO DE LAS FRACCIONES DEL ARTÍCULO 16; SE MODIFICA EL CONTENIDO DE LA FRACCIÓN VII; Y SE ADICIONAN LAS FRACCIONES IX, X Y XI AL ARTÍCULO 18 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
