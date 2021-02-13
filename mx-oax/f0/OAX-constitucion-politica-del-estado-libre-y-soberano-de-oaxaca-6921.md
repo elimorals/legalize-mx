@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2020-10-03"
+last_updated: "2021-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2021.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -768,6 +768,20 @@ c) La formulación de políticas públicas tendientes a prevenir la comisión de
 d) Se determinará la participación de la comunidad que coadyuvará, entre otros, en los procesos de evaluación de las políticas de prevención del delito así como de las instituciones de seguridad pública.
 
 e) Los fondos de ayuda aportado por la Federación al Estado y Municipios deberá (sic) ser destinados exclusivamente a estos fines.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2021)</small>
+
+ARTICULO 21 BIS. La resolución de las diferencias o los conflictos entre trabajadores y patrones que no sea competencia del Tribunal Laboral del Poder Judicial de la Federación, estará a cargo de los Juzgados en materia laboral del Poder Judicial del Estado de Oaxaca.
+
+Antes de acudir a los Juzgados en materia laboral del Poder Judicial del Estado de Oaxaca, los trabajadores y patrones deberán asistir a la instancia conciliatoria.
+
+En el Estado de Oaxaca la función conciliatoria estará a cargo del Centro de Conciliación Laboral del Estado de Oaxaca, como organismo descentralizado, especializado e imparcial, el cual contará con personalidad jurídica y patrimonio propio, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se regirá por la Ley en la materia.
+
+Para la designación del titular del organismo descentralizado a que se refiere el párrafo anterior, el Gobernador someterá una terna a consideración del Congreso del Estado, el cual previa comparecencia de las personas propuestas, realizará la designación correspondiente. La designación se hará por el voto de las dos terceras partes de los integrantes del Congreso presentes, dentro del improrrogable plazo de treinta días. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo aquél que, dentro de dicha terna, designe el Gobernador.
+
+En caso de que el Congreso rechace la totalidad de la terna propuesta, el Gobernador someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador del Estado.
+
+El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; tener título de licenciado en derecho, registrado ante la Dirección General de Profesiones de la Secretaría de Educación Pública, que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; que goce de buena reputación y no haya sido condenado por delito doloso. Asimismo, deberá cumplir los requisitos que establezca la ley. Desempeñará su encargo por un periodo de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el periodo respectivo. Sólo podrá ser removido por causa grave y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúe en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
 
 (REUBICADO, P.O. 30 DE JUNIO DE 2015)
 
@@ -1993,9 +2007,9 @@ LXVIII. Aprobar, mediante el voto de la mayoría de los diputados presentes, el 
 
 LXIX. Expedir la Ley del Sistema Estatal de Combate a la Corrupción.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2021)</small>
 
-LXX. Elegir al titular del Centro de Conciliación Laboral del Estado de Oaxaca, conforme al artículo 114, apartado B de esta Constitución, así como a los integrantes del Instituto de Acceso a la Información Pública y Protección de Datos Personales, conforme al artículo 114, apartado C, de esta Constitución y a su Contralor.
+LXX. Elegir al titular del Centro de Conciliación Laboral del Estado de Oaxaca, conforme al artículo 21 Bis de esta Constitución, así como a los integrantes del Instituto de Acceso a la Información Pública y Protección de Datos Personales, conforme al artículo 114 apartado C, de esta Constitución y a su Contralor.
 
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -2425,9 +2439,9 @@ XXVI. En cualquier momento, optar por un gobierno de coalición con uno o varios
 
 El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por mayoría de los miembros presentes en el Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2021)</small>
 
-XXVII. Intervenir en la designación del Fiscal General del Estado de Oaxaca y removerlo en términos de lo dispuesto en el apartado D del Artículo 114, de esta Constitución y proponer la terna para la elección del titular del Centro de Conciliación Laboral, en términos de lo dispuesto en el apartado B del artículo 114, de esta Constitución.
+XXVII. Intervenir en la designación del Fiscal General del Estado de Oaxaca y removerlo en términos de lo dispuesto en el apartado D del Artículo 114, de esta Constitución y proponer la terna para la elección del titular del Centro de Conciliación Laboral, en términos de lo dispuesto en el artículo 21 Bis de esta Constitución.
 
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -2483,7 +2497,9 @@ XIV. Dictar las disposiciones conducentes para que surtan todos sus efectos las 
 
 XV. Prestar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
 
-XVI. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE FEBRERO DE 2021)</small>
+
+XVI. Remitir al Congreso la terna para la elección de la persona titular del Centro de Conciliación Laboral del Estado de Oaxaca, en términos del artículo 21 Bis de esta Constitución.
 
 XVII. Formar la estadística y organizar el catastro del Estado;
 
@@ -2769,11 +2785,11 @@ Como titular de la dependencia, estará una persona que se denominará Consejero
 
 #### SECCION PRIMERA. Del Ejercicio del Poder Judicial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 99.
 
-El Poder Judicial se ejerce por el Tribunal Superior de Justicia y por las juezas y los jueces de primera instancia.
+El Poder Judicial se ejerce por el Tribunal Superior de Justicia, por los jueces de primera instancia y por los juzgados en materia laboral.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
@@ -2869,11 +2885,11 @@ Las personas que hayan ocupado el cargo de Magistrada o Magistrado o Jueza o Jue
 
 Los impedimentos de este artículo serán aplicables a los funcionarios judiciales que gocen de licencia. La infracción a lo previsto en el presente párrafo será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial del Estado, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 102.
 
-Para nombrar a los magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Tribunal Laboral, el Gobernador del Estado emitirá una convocatoria pública para la selección de aspirantes, de conformidad con los requisitos señalados en el artículo anterior.
+Para nombrar a las personas que ocuparán las magistraturas del Tribunal Superior de Justicia la persona titular de la Gubernatura del Estado emitirá una convocatoria pública para la selección de aspirantes, de conformidad con los requisitos señalados en el artículo anterior.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
@@ -3045,25 +3061,15 @@ El cargo de Jueza o Juez de Primera Instancia es renunciable, por causa justific
 
 #### SECCION CUARTA. Del Tribunal de lo Contencioso Administrativo y de Cuentas
 
-#### SECCION QUINTA. Del Tribunal Laboral
+#### SECCION QUINTA. De los Juzgados en Materia Laboral
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2021)</small>
 
-ARTICULO 111 BIS. El Poder Judicial contará con un Tribunal Laboral de carácter permanente, autónomo en su funcionamiento e Independiente en sus decisiones, el cual contará con las siguientes características:
+ARTICULO 111 BIS. El Poder Judicial contará con juzgados en materia laboral ubicados en los principales centros de población del territorio oaxaqueños (sic); serán los encargados de impartir justicia cuando existan controversias derivadas de las diferencias o los conflictos entre trabajadores y patrones, que no sea competencia del Tribunal Laboral del Poder Judicial de la Federación conforme a la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
 
-I.- Sus resoluciones en el ámbito de su competencia serán definitivas e inatacables en el orden local;
+Para ser Juez de lo laboral, se deberán reunir los requisitos que señale la Ley Orgánica del Poder Judicial; este cargo es renunciable, por causa justificada, que calificará el Tribunal Superior de Justicia, ante quien se presentará la renuncia.
 
-II.- Será Unitario integrado por tres Magistrados y Secretarios Proyectistas de Estudio y Cuenta, y de Acuerdos. Los magistrados serán elegidos por la Legislatura, en los términos establecidos por el artículo 102 de esta Constitución y además de los requisitos correspondientes a los magistrados del Tribunal Superior de Justicia, cumplirán los criterios específicos que marque la Ley Orgánica del Poder Judicial del Estado, durarán en su encargo ocho años, con posibilidad de ser reelectos por un período adicional.
-
-III.- La administración, vigilancia y disciplina en este Tribunal corresponderá, en los términos que señalen esta Constitución y la Ley;
-
-IV.- Propondrá su presupuesto al Pleno del Tribunal Superior de Justicia del Estado, para su inclusión en el proyecto de Presupuesto del Poder Judicial;
-
-V.- Expedirán su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento; y
-
-VI.- Las normas para su organización y funcionamiento serán emitidas por el Poder Judicial; el procedimiento y los recursos contra sus sentencias y resoluciones se regirán por lo dispuesto en la Ley Federal del Trabajo, sus reglamentos y demás legislación aplicable, debiendo observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
-
-El Tribunal Laboral del Poder Judicial del Estado de Oaxaca, es la máxima autoridad jurisdiccional en materia laboral, tendrá la estructura que establece la Ley Orgánica del Poder Judicial del Estado de Oaxaca y conocerá de las diferencias o los conflictos entre trabajadores y patrones, que no sea competencia del Tribunal Laboral del Poder Judicial de la Federación conforme a la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
+Previo a las controversias judiciales de carácter laboral, los trabajadores y patrones deberán asistir al Centro de Conciliación Laboral del Estado de Oaxaca, en la etapa conciliatoria.
 
 (REUBICADO [N. DE E. ANTES CAPITULO VI], P.O. 8 DE DICIEMBRE DE 2000)
 
@@ -3071,7 +3077,7 @@ El Tribunal Laboral del Poder Judicial del Estado de Oaxaca, es la máxima autor
 
 (DEROGADO, P.O. 16 DE ENERO DE 2018)
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 2021)</small>
 
 #### Sección V. De las Concesiones para la Ocupación y Explotación de Recursos Orbitales
 
@@ -3351,21 +3357,7 @@ El titular de la Defensoría será designado por el voto de las dos terceras par
 
 Durante el ejercicio de su encargo no podrá ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en el servicio público, excepto la docencia o la investigación académica, siempre que no medie remuneración alguna. Sólo podrá ser removido de conformidad con lo dispuesto en esta Constitución y las leyes en la materia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-B.- DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE OAXACA.
-
-La función conciliatoria en materia laboral estará a cargo del Centro de Conciliación Laboral en el Estado de Oaxaca, como organismo público descentralizado, el cual contará con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
-
-Su integración y funcionamiento se determinará en su propia Ley Orgánica.
-
-Para la designación del Titular del Centro de Conciliación Laboral del Estado de Oaxaca, el Titular del Poder Ejecutivo someterá una terna a consideración del Congreso del Estado, el cual previa comparecencia de las personas propuestas realizará la designación correspondiente. La designación se hará por el voto de las dos terceras partes de los diputados presentes, dentro del improrrogable plazo de treinta días. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo aquél que, dentro de dicha terna, designe el titular del Poder Ejecutivo.
-
-En caso de que el Congreso rechace la totalidad de la terna propuesta, el Ejecutivo someterá una nueva, en los términos del párrafo anterior. Si la segunda terna fuera rechazada, ocupará la terna la persona que dentro de la misma designe el Ejecutivo.
-
-El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del órgano autónomo; deberá tener título de Licenciado en Derecho debidamente registrado, que no haya ocupado un cargo en un partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a su designación; que goce de buena reputación y que no haya sido condenado por delito doloso. Asimismo, deberá cumplir los requisitos que establezca la ley.
-
-Desempeñará su encargo por períodos de cuatro años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el período respectivo. Solo podrá ser removido por causa grave en los términos del Título Séptimo de esta Constitución y no podrá tener otro empleo, cargo o comisión, con excepción de aquellos que actúe en representación del órgano y de los no remunerados en actividades docentes, científica, culturales o de beneficencia.
+B.- (DEROGADO, P.O. 13 DE FEBRERO DE 2021)
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -5652,3 +5644,17 @@ P.O. 3 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno Estado de Oaxaca, para sus efectos legales correspondientes.
+
+P.O. 13 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1794.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXX DEL ARTÍCULO 59; LA FRACCIÓN XXVII DEL ARTÍCULO 79; LA FRACCIÓN XVI DEL ARTÍCULO 80; EL PRIMER PÁRRAFO DEL ARTÍCULO 99; EL PRIMER PÁRRAFO DEL ARTÍCULO 102; LA DENOMINACIÓN DE LA SECCIÓN QUINTA DE LOS JUZGADOS EN MATERIA LABORAL DEL CAPÍTULO IV DEL TÍTULO CUARTO; EL ARTÍCULO 111 BIS; SE ADICIONA EL ARTÍCULO 21 BIS; Y SE DEROGA EL APARTADO B DEL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA",]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+CUARTO.- El Congreso del Estado, deberá realizar las reformas a las leyes secundarias en la materia dentro de los seis meses siguientes contados a partir de la publicación del presente Decreto.
+
+QUINTO.- La Secretaría General de Gobierno, El Congreso del Estado y el Tribunal Superior de Justicia, deberán establecer los mecanismos presupuestales y administrativos en el ámbito de sus respectivas competencias a efecto de instaurar el Centro Estatal de Conciliación Laboral de Oaxaca, los juzgados laborales, dentro de los plazos establecidos en el artículo quinto transitorio del decreto de fecha 29 de abril de 2019 por el que se reforma la Ley Federal del Trabajo publicado en el diario oficial de la federación con fecha 01 de mayo de 2019.
