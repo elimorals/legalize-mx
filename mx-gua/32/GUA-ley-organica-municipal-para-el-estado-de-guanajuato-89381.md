@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2020-12-22"
+last_updated: "2021-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2021.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -2205,6 +2205,10 @@ Obligación de proporcionar información
 
 Los titulares de las dependencias señaladas en el artículo anterior, deberán proporcionar a los integrantes del Ayuntamiento, la información que les soliciten para el ejercicio de su función.
 
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2021)</small>
+
+Además, deberán presentar al Ayuntamiento proyectos de iniciativas de reglamentos a efecto de adecuar la normatividad municipal a lo que establezcan las leyes, o que se requieran para prever en su esfera administrativa la exacta observancia de estas. En caso de existir plazos o términos establecidos en artículos transitorios de las leyes, el proyecto deberá presentarse previamente al cumplimiento de éstos, de conformidad con los plazos establecidos en los reglamentos municipales respectivos.
+
 Causales de destitución
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2020)</small>
@@ -2808,6 +2812,10 @@ Informe trimestral
 ###### Artículo 153.
 
 Los organismos descentralizados deberán rendir informes trimestrales al Ayuntamiento, sobre el ejercicio de sus funciones. Sin perjuicio de lo anterior, el Ayuntamiento podrá solicitar información en cualquier tiempo.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2021)</small>
+
+Además, deberán presentar al Ayuntamiento proyectos de iniciativas de reglamentos a efecto de adecuar la normatividad municipal a lo que establezcan las leyes, o que se requieran para prever en su esfera administrativa la exacta observancia de estas. En caso de existir plazos o términos establecidos en artículos transitorios de las leyes, el proyecto deberá presentarse previamente al cumplimiento de éstos, de conformidad con los plazos establecidos en los reglamentos municipales respectivos.
 
 Tarifas
 
@@ -3967,11 +3975,17 @@ V. Los que atiendan a la asistencia y salud pública; y
 
 VI. Los que regulen las actividades de los habitantes del municipio, en un marco de respeto al derecho, la paz pública y la tranquilidad, que propicien el desarrollo de la vida comunitaria.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2021)</small>
+
 Aprobación de reglamentos y normas
 
 ###### Artículo 240.
 
-Los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, para ser válidos, deberán ser aprobados por mayoría calificada del Ayuntamiento y publicados en el Periódico Oficial del Gobierno del Estado.
+Los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, para ser válidos, deberán ser aprobados por mayoría calificada.
+
+Las disposiciones administrativas para el cobro de productos y aprovechamientos, requerirán para su aprobación mayoría absoluta.
+
+Los instrumentos señalados en el presente artículo deberán ser publicados en el Periódico Oficial del Gobierno del Estado.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE ENERO DE 2018)</small>
 
@@ -4712,3 +4726,27 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de
 Expedición de disposiciones reglamentarias de la Ley
 
 Artículo Segundo. Los Ayuntamientos contarán con un periodo de 90 días posteriores a la entrada en vigor del presente Decreto, para adecuar sus reglamentos, en congruencia con el mismo.
+
+P.O. 15 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO 306 POR EL CUAL SE REFORMA EL ARTÍCULO 240 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Expedición de disposiciones reglamentarias de la Ley
+
+Artículo Segundo. Los Ayuntamientos del Estado contarán con un término de noventa días naturales para adecuar sus reglamentos, en congruencia con el presente Decreto.
+
+P.O. 15 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO 307 POR EL CUAL SE ADICIONAN AL ARTÍCULO 125 UN PÁRRAFO SEGUNDO Y AL ARTÍCULO 153 UN PÁRRAFO SEGUNDO DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Expedición de disposiciones reglamentarias de la Ley
+
+Artículo Segundo. Los Ayuntamientos del Estado contarán con un término de noventa días naturales para adecuar sus reglamentos, en congruencia con el presente Decreto.
