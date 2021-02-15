@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-la-fiscalizacion-disolucion-y-liquidacion-12290
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-17"
-last_updated: "2020-10-09"
+last_updated: "2021-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122907&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-08-04"
 ---
 # REGLAMENTO PARA LA FISCALIZACION, DISOLUCION Y LIQUIDACION DE LAS ASOCIACIONES CIVILES CONSTITUIDAS POR LAS PERSONAS ASPIRANTES A LAS CANDIDATURAS SIN PARTIDO EN LA CIUDAD DE MEXICO -- ANTES REGLAMENTO PARA LA FISCALIZACION, DISOLUCION Y LIQUIDACION DE LAS ASOCIACIONES CIVILES CONSTITUIDAS POR LAS Y LOS ASPIRANTES A LAS CANDIDATURAS INDEPENDIENTES EN LA CIUDAD DE MEXICO --
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL ACUERDO POR EL QUE SE ABROGA (SIC) REGLAMENTO PARA LA FISCALIZACIÓN, DISOLUCIÓN Y LIQUIDACIÓN DE LAS ASOCIACIONES CIVILES CONSTITUIDAS POR LAS PERSONAS ASPIRANTES A LAS CANDIDATURAS SIN PARTIDO EN LA CIUDAD DE MÉXICO Y SE EXPIDE EL REGLAMENTO PARA LA LIQUIDACIÓN Y DISOLUCIÓN DE LAS ASOCIACIONES CIVILES CONSTITUIDAS POR LAS PERSONAS ASPIRANTES Y CANDIDATURAS SIN PARTIDO EN LA CIUDAD DE MÉXICO, (IECM/ACU-CG-014/2021), PUBLICADO EN LA G.O. DE 15 DE FEBRERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA LA FISCALIZACIÓN, DISOLUCIÓN Y LIQUIDACIÓN DE LAS ASOCIACIONES CIVILES CONSTITUIDAS POR LAS PERSONAS ASPIRANTES A LAS CANDIDATURAS SIN PARTIDO EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 9 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE FEBRERO DE 2021 (ABROGADO).
 
 Reglamento publicado al Número 135 de la Gaceta Oficial de la Ciudad de México, el jueves 17 de agosto de 2017.
 
@@ -1239,3 +1241,23 @@ Los datos recabados por medio de este formato se encuentran protegidos por la no
 G.O. 9 DE OCTUBRE DE 2020.
 
 > <small>[N. DE E. EL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBAN REFORMAS AL REGLAMENTO PARA LA FISCALIZACIÓN, DISOLUCIÓN Y LIQUIDACIÓN DE LAS ASOCIACIONES CIVILES CONSTITUIDAS POR LAS Y LOS ASPIRANTES A LAS CANDIDATURAS INDEPENDIENTES EN LA CIUDAD DE MÉXICO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.]</small>
+
+G.O. 15 DE FEBRERO DE 2021.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO POR EL QUE SE ABROGA (SIC) REGLAMENTO PARA LA FISCALIZACIÓN, DISOLUCIÓN Y LIQUIDACIÓN DE LAS ASOCIACIONES CIVILES CONSTITUIDAS POR LAS PERSONAS ASPIRANTES A LAS CANDIDATURAS SIN PARTIDO EN LA CIUDAD DE MÉXICO Y SE EXPIDE EL REGLAMENTO PARA LA LIQUIDACIÓN Y DISOLUCIÓN DE LAS ASOCIACIONES CIVILES CONSTITUIDAS POR LAS PERSONAS ASPIRANTES Y CANDIDATURAS SIN PARTIDO EN LA CIUDAD DE MÉXICO, (IECM/ACU-CG-014/2021), QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO”.]</small>
+
+PRIMERO. Se abroga el Reglamento para la Fiscalización, Disolución y Liquidación de las Asociaciones Civiles constituidas por las personas aspirantes a las candidaturas sin partido en la Ciudad de México.
+
+SEGUNDO. Se aprueba el Reglamento para la liquidación y disolución de las Asociaciones Civiles constituidas por las personas aspirantes y candidaturas sin partido en la Ciudad de México, que como Anexo forma parte integral del presente Acuerdo.
+
+TERCERO. En concordancia con las medidas adoptadas por este Consejo General en el Acuerdo IECM/ACU-CG-031/2020, publíquense este acuerdo y su anexo en los estrados de las oficinas centrales y en el portal de Internet www.iecm.mx; y háganse del conocimiento de las Direcciones Distritales del Instituto Electoral, para que se publiquen en los estrados de dichas oficinas una vez que las condiciones de la actual emergencia sanitaria lo permitan.
+
+CUARTO. El presente Acuerdo, junto con el Anexo que forma parte integral del mismo, entrarán en vigor a partir de su aprobación por parte del Consejo General del Instituto Electoral de la Ciudad de México.
+
+QUINTO. Notifíquese este Acuerdo y su Anexo a las personas aspirantes a quienes el Consejo General otorgó su constancia para participar con tal carácter durante el procedimiento para obtener el porcentaje requerido de las firmas de apoyo ciudadano en la Ciudad de México, a fin de postularse a una candidatura sin partido para el proceso electoral 2020-2021.
+
+SEXTO. Para efectos de dar cumplimiento a lo previsto en el artículo 10 del Reglamento, por esta única ocasión, las personas aspirantes deberán remitir el Formato Notificaciones Electrónicas AC8-FNE dentro de los tres días posteriores a que le sea notificado el presente Acuerdo y su Anexo al correo electrónico utef@iecm.mx.
+
+SÉPTIMO. Realícense las adecuaciones procedentes, en virtud de la determinación asumida por el Consejo General, en el apartado de Transparencia de la página de Internet www.iecm.mx y difúndase la misma en las redes sociales de este Instituto.
+
+OCTAVO. Remítase el presente Acuerdo y su Anexo a la Gaceta Oficial de la Ciudad de México para su difusión.
