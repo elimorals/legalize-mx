@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-proteccion-atencion-y-asistencia-a-las-victimas-995
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-13"
-last_updated: "2014-12-18"
+last_updated: "2021-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99554&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2014-03-10"
 ---
 # LEY PARA LA PROTECCION, ATENCION Y ASISTENCIA A LAS VICTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 16 DE FEBRERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE FEBRERO DE 2021 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de marzo de 2014.
 
@@ -659,3 +661,15 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 16 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ABROGA LA LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL DISTRITO FEDERAL, PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 13 DE MARZO DE 2014; Y SE EXPIDE LA LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México y publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO. El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga la Ley para la protección, atención y asistencia a las víctimas de los delitos en materia de trata de personas del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 13 de marzo de 2014.
+
+CUARTO. La persona titular de la Jefatura de Gobierno contará con noventa días, contados a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones jurídico-administrativas para la entrada en vigor de esta norma.
