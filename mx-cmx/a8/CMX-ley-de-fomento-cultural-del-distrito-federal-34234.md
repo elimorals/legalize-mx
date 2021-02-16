@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-del-distrito-federal-34234"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2019-06-25"
+last_updated: "2021-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2003-09-26"
 ---
 # LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DE LA LEY DE FOMENTO CULTURAL DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 16 DE FEBRERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE FEBRERO DE 2021 (ABROGADO).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 14 de octubre de 2003.
 
@@ -1181,3 +1183,19 @@ G.O. 25 DE JUNIO DE 2019.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión, en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 16 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE FOMENTO CULTURAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. La presente Ley entrará en vigor al día siguiente de su publicación.
+
+TERCERO. La Jefatura de Gobierno deberá, en un término de ciento veinte días hábiles contados a partir de la entrada en vigor del presente Decreto expedir el Reglamento de esta Ley.
+
+CUARTO. Se abroga la Ley de Fomento Cultural del Distrito Federal, expedida el 14 de octubre de 2003.
+
+QUINTO. El Consejo al que se refiere el Artículo 21 de la presente Ley será instalado en un plazo no mayor a 60 días hábiles posteriores a la publicación de la misma.
+
+SEXTO. Las personas consejeras a las que se refiere el artículo 23, fracción XVI, de la presente Ley serán nombradas en un plazo no mayor a 90 días hábiles posteriores a la publicación de la misma.
