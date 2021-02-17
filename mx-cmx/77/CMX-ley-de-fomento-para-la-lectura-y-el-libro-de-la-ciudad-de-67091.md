@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-para-la-lectura-y-el-libro-de-la-ciudad-de-67091
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2020-09-29"
+last_updated: "2021-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67091&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-02-25"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE FEBRERO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 4 de marzo de 2009.
 
@@ -288,7 +288,9 @@ Corresponde al ejecutivo de la Ciudad de México garantizar las políticas y est
 
 Corresponde a las Alcaldías:
 
-I. Fomentar, promover, incentivar y difundir material de lectura con la finalidad de desarrollar y fortalecer el hábito a la lectura.
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+I. Fomentar, promover, incentivar, vincular y difundir el material de lectura de manera constante y gradual, principalmente en zonas de alta marginalidad con la finalidad de desarrollar y fortalecer el hábito de la lectura. El material se deberá ofrecer de forma gratuita, sin fines de lucro y sin condicionamiento alguno.
 
 II. Elaborar y organizar, en coordinación con la Dirección General de Vinculación Cultural Comunitaria el programa anual de actividades culturales, el cual deberá contener como mínimo la realización de una feria del libro dentro de su demarcación territorial, así como, campañas, bibliotecas itinerantes o cualquier otra actividad que incentive la lectura.
 
@@ -515,3 +517,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Para la expedición de la normativa reglamentaria de la presente ley, el Poder Ejecutivo contará con un plazo de 90 días hábiles, a partir de la publicación del presente decreto.
 
 CUARTO. La Secretaría de Cultura de la Ciudad de México, a través de la Dirección General de Vinculación Cultural Comunitaria, promoverá entre las 16 Alcaldías, la aplicación de las facultades que les otorga la presente Ley.
+
+G.O. 17 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 11 DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
