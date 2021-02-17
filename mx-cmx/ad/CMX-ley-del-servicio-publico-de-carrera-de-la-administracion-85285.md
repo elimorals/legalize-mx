@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-servicio-publico-de-carrera-de-la-administracion-85285"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-26"
-last_updated: "2012-01-26"
+last_updated: "2021-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85285&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2012-01-13"
 ---
 # LEY DEL SERVICIO PUBLICO DE CARRERA DE LA ADMINISTRACION PUBLICA DE LA CIUDAD DE MEXICO -- ANTES LEY DEL SERVICIO PUBLICO DE CARRERA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL --
 
-LEY DEL SERVICIO PÚBLICO DE CARRERA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
+LEY DEL SERVICIO PÚBLICO DE CARRERA DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE FEBRERO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 26 de enero de 2012.
 
@@ -48,61 +48,75 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DEL SERVICIO PÚBLICO DE CARRERA DE LA ADMIN
 
 Se abroga la Ley del Servicio Público de Carrera de la Administración Pública del Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 8 de octubre de 2008 y se expide la Ley del Servicio Público de Carrera de la Administración Pública del Distrito Federal, para quedar como sigue:
 
-LEY DEL SERVICIO PÚBLICO DE CARRERA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 17 DE FEBRERO DE 2021)</small>
+
+LEY DEL SERVICIO PÚBLICO DE CARRERA DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
 ## Titulo Primero. Del Servicio Público de Carrera
 
 ### Capítulo Primero. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden e interés público y tiene por objeto establecer las bases para la organización, funcionamiento y desarrollo del Servicio Público de Carrera de la Administración Pública del Distrito Federal.
+La presente Ley es de orden e interés público y tiene por objeto establecer las bases para la organización, funcionamiento y desarrollo del Servicio Público de Carrera de la Administración Pública de la Ciudad de México.
 
-Esta ley es de aplicación obligatoria para las Dependencias y Órganos Desconcentrados de la Administración Pública Central del Distrito Federal.
+Esta ley es de aplicación obligatoria para las Dependencias y Órganos Desconcentrados de la Administración Pública Central de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 2.
 
-La organización, funcionamiento y desarrollo del Servicio Público de Carrera se regirá por los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, eficacia, transparencia, profesionalismo e igualdad de oportunidades entre hombres y mujeres.
+La organización, funcionamiento y desarrollo del Servicio Público de Carrera se regirá por los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, eficacia, transparencia, profesionalismo e igualdad de oportunidades entre todas las personas.
+
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 3.
 
-El Servicio Público de Carrera es el sistema de la Administración Pública del Distrito Federal que garantiza la formación y el desarrollo profesional de los servidores públicos, fundado en el mérito, la igualdad de oportunidades, la movilidad, el fortalecimiento de capacidades y competencias laborales, así como en la no discriminación por motivos de género, origen étnico, religión, estado civil o condición socioeconómica.
+El Servicio Público de Carrera es el sistema de la Administración Pública de la Ciudad de México que garantiza la formación y el desarrollo profesional de las personas servidoras públicas, fundado en el mérito, la igualdad de oportunidades, la movilidad, el fortalecimiento de capacidades y competencias laborales, así como en la no discriminación por motivos de género, origen étnico, religión, estado civil o condición socioeconómica.
+
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 4.
 
-Son sujetos de esta Ley los servidores públicos de confianza de la Administración Pública Central del Distrito Federal que ingresen al Servicio Público de Carrera de la Administración Pública, en términos de lo previsto en este ordenamiento, así como en las disposiciones reglamentarias y los lineamientos administrativos que deriven de su aplicación.
+Son sujetos de esta Ley las personas servidoras públicas de confianza de la Administración Pública Central de la Ciudad de México que ingresen al Servicio Público de Carrera de la Administración Pública, en términos de lo previsto en este ordenamiento, así como en las disposiciones reglamentarias y los lineamientos administrativos que deriven de su aplicación.
 
 Quedan exentos del ámbito de aplicación de esta Ley:
 
-I. Los trabajadores de base y sindicalizados de la Administración Pública del Distrito Federal;
+I. Las personas trabajadoras de base y sindicalizados de la Administración Pública de la Ciudad de México;
 
-II. Los miembros de los Servicios de Carrera de la Secretaría de Seguridad Pública, de la Procuraduría General de Justicia y del Heroico Cuerpo de Bomberos del Distrito Federal;
+II. Las personas integrantes de los Servicios de Carrera de la Secretaría de Seguridad Ciudadana y del Heroico Cuerpo de Bomberos de la Ciudad de México;
 
-III. El personal médico, paramédico y trabajadores afines que tengan un sistema escalafonario en la Administración Pública del Distrito Federal;
+III. El personal médico, paramédico y personas trabajadoras afines que tengan un sistema escalafonario en la Administración Pública de la Ciudad de México;
 
-IV. El personal de la Administración Pública del Distrito Federal comprendido en el Sistema de Carrera Magisterial;
+IV. El personal de la Administración Pública de la Ciudad de México comprendido en el Sistema de Carrera Magisterial;
 
-V. Los servidores públicos designados directamente por el Jefe de Gobierno, así como los Secretarios Particulares;
+V. Las personas servidoras públicas designadas directamente por la persona Titular de la Jefatura de Gobierno, así como los Secretarios Particulares;
 
-VI. Los servidores públicos de confianza adscritos a las unidades administrativas de comunicación social de las Dependencias y de los Órganos Desconcentrados de la Administración Pública Central;
+VI. Las personas servidoras públicas de confianza adscritos (sic) a las unidades administrativas de comunicación social de las dependencias y de los Órganos Desconcentrados de la Administración Pública Central;
 
-VII. Los servidores públicos de libre designación que se encuentren en los supuestos señalados en esta Ley.
+VII. Las personas servidoras públicas de libre designación que se encuentren en los supuestos de la Ley.
 
-Los trabajadores de base podrán incorporarse sujetándose a los procedimientos señalados por esta ley, siendo necesario contar con licencia o estar separados de plaza que ocupan, y no pueden permanecer activos en ambas situaciones.
+Las personas trabajadoras de base podrán incorporarse sujetándose a los procedimientos señalados por esta ley, siendo necesario contar con licencia o estar separados (sic) de plaza que ocupan, y no pueden permanecer activos en ambas situaciones.
+
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 5.
 
-La Secretaría de Seguridad Pública del Distrito Federal, la Procuraduría General de Justicia del Distrito Federal y las Entidades de la Administración Pública Paraestatal, podrán organizar y desarrollar su Servicio Público de Carrera, conforme a lo dispuesto en la presente Ley y el Reglamento, a través de los instrumentos jurídico-administrativos aplicables en materia de coordinación y cooperación institucional.
+La Secretaría de Seguridad Ciudadana de la Ciudad de México y las Entidades de la Administración Pública Paraestatal, podrán organizar y desarrollar su Servicio Público de Carrera, conforme a lo dispuesto en la presente Ley y el Reglamento, a través de los instrumentos jurídico-administrativos aplicables en materia de coordinación y cooperación institucional.
 
-Los instrumentos jurídico-administrativos que determinen la adhesión de un Servicio Público de Carrera de una Entidad Paraestatal al Servicio Público de Carrera de la Administración Pública del Distrito Federal, deberán prever los mecanismos de homologación de puestos y, en su caso, de transportabilidad de derechos al interior de los Cuerpos.
+Los instrumentos jurídico-administrativos que determinen la adhesión de un Servicio Público de Carrera de una Entidad Paraestatal al Servicio Público de Carrera de la Administración Pública de la Ciudad de México deberán prever los mecanismos de homologación de puestos y, en su caso, de transportabilidad de derechos al interior de los Cuerpos.
 
-Los Servicios Profesionales de Carrera de los Órganos Político-Administrativos de las demarcaciones territoriales, podrán adherirse al Servicio Público de Carrera de la Administración Pública del Distrito Federal, mediante Acuerdo o Decreto emitido por el Jefe de Gobierno, previa solicitud del titular de la Delegación.
+Los Servicios Profesionales de Carrera de los Órganos Político-Administrativos de las demarcaciones territoriales, podrán adherirse al Servicio Público de Carrera de la Administración Pública de la Ciudad de México, mediante Acuerdo o Decreto emitido por la persona Titular de la Jefatura de Gobierno, previa solicitud de la persona titular de la Alcaldía.
 
-Una vez autorizada la adhesión, la desincorporación del Servicio Público de Carrera de una Delegación al Servicio Público de Carrera de la Administración Pública del Distrito Federal, únicamente procederá ante la solicitud consecutiva de dos Jefes Delegaciones de un mismo Órgano Político Administrativo, y tendrá que ser ratificada por Jefe (sic) de Gobierno del Distrito Federal para que surta sus efectos.
+Una vez autorizada la adhesión, la desincorporación del Servicio Público de Carrera de una Alcaldía al Servicio Público de Carrera de la Administración de la Ciudad de México, únicamente procederá ante la solicitud consecutiva de dos personas titulares de las Alcaldías de un mismo Órgano Político Administrativo, y tendrá que ser ratificada por la persona Titular de la Jefatura de Gobierno de la Ciudad de México para que surta sus efectos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 6.
 
-El Servicio Público de Carrera se organizará en Cuerpos de servidores públicos constituidos con base en las funciones de la Administración Pública del Distrito Federal.
+El Servicio Público de Carrera se organizará en Cuerpos de personas servidoras públicas constituidas con base en las funciones de la Administración Pública de la Ciudad de México.
 
 De conformidad con estas funciones, los Cuerpos se clasificarán en Cuerpos Transversales y en Cuerpos Específicos de una Dependencia.
 
@@ -110,23 +124,35 @@ Los Cuerpos Transversales, son aquellos que pueden ejercen una función de la ad
 
 Los Cuerpos Específicos, son aquellos que realizan funciones técnicas especializadas desplegadas predominantemente en una Dependencia.
 
-El número total de Cuerpos Específicos no podrá exceder al número de Dependencias establecido en la Ley Orgánica de la Administración Pública del Distrito Federal.
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
+
+El número total de Cuerpos Específicos no podrá exceder al número de Dependencias establecido en la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 7.
 
-De acuerdo al orden jerárquico de la Administración Pública del Distrito Federal, los Cuerpos se agrupan en las siguientes Categorías:
+De acuerdo al orden jerárquico de la Administración Pública de la Ciudad de México, los Cuerpos se agrupan en las siguientes Categorías:
 
-I. Categoría A: Se integra con los puestos de Directores Generales, Directores de Área y sus homólogos;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-II. Categoría B: Se integra con los puestos de Subdirectores de Área, Jefes de Unidad Departamental y sus homólogos;
+I. Categoría A: Se integra con los puestos de Direcciones Generales, Direcciones de Área y homólogos;
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+II. Categoría B: Se integra con los puestos de Subdirecciones de Área, Jefaturas de Unidad Departamental y homólogos; y
 
 III. Categoría C: Se integra con los puestos de Líder Coordinador de Proyectos, Enlaces y sus homólogos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 8.
 
-Los titulares de las Dependencias, de los Órganos Desconcentrados y, en su caso, de los Órganos Político-Administrativos de cada demarcación territorial, podrán designar libremente hasta el 20% de las plazas de un Cuerpo adscritas a la Dependencia o Delegación, en el caso de los Directores Generales y homólogos el porcentaje de libre designación será de hasta el 40%.
+Las personas titulares de las Dependencias, de los Órganos Desconcentrados y, en su caso, de los Órganos Político-Administrativos de cada demarcación territorial, podrán designar libremente hasta el 20% de las plazas de un Cuerpo adscritas a la Dependencia o Alcaldía, en el caso de las personas Directoras Generales y homólogos el porcentaje de libre designación será de hasta el 40%.
 
-Los servidores públicos de libre designación no formarán parte del Servicio Público de Carrera ni gozarán de las prerrogativas otorgadas a sus miembros.
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
+
+Las personas servidoras públicas de libre designación no formarán parte del Servicio Público de Carrera ni gozarán de las prerrogativas otorgadas a sus miembros.
 
 El Consejo del Servicio Público de Carrera determinará los procedimientos y lineamientos que garanticen el cumplimiento de lo previsto en este artículo.
 
@@ -150,6 +176,10 @@ VII. Sanción.
 
 Los Sistemas del Servicio Público de Carrera deberán relacionarse adecuadamente entre sí y desarrollarse de forma interdependiente, gradual y escalonada.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE FEBRERO DE 2021, PÁGINA 6, SE ADVIERTE QUE CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE XVIII A XVII FRACCIONES.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 17 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 10.
 
 Para los efectos de esta Ley se entenderá por:
@@ -162,61 +192,101 @@ III. Comité: Al Comité de cada Cuerpo del Servicio Público de Carrera;
 
 IV. Consejo: Al Consejo del Servicio Público de Carrera;
 
-V. Contraloría: A la Contraloría General del Distrito Federal;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-VI. Cuerpo: Al Conjunto de servidores públicos de confianza responsables de cumplir con determinadas funciones de la Administración Pública del Distrito Federal, quienes por su naturaleza comparten las mismas reglas de ingreso, formación y profesionalización, movilidad, ascenso, carrera profesional y evaluación del desempeño; situación que les permite ocupar un grupo delimitado de puestos.
+V. Contraloría: A la Secretaría de la Contraloría General de la Ciudad de México;
 
-VII. Dependencia: A la Dependencia de la Administración Pública Central del Distrito Federal y Órganos Desconcentrados;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-VIII. Escuela: A la Escuela de Administración Pública del Distrito Federal;
+VI. Cuerpo: Al Conjunto de personas servidoras públicas de confianza responsables de cumplir con determinadas funciones de la Administración Pública de la Ciudad de México, quienes por su naturaleza comparten las mismas reglas de ingreso, formación y profesionalización, movilidad, ascenso, carrera profesional y evaluación del desempeño; situación que les permite ocupar un grupo delimitado de puestos.
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+VII. Dependencia: Las Secretarias y la Consejería Jurídica y Servicios Legales;
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+VIII. Escuela: A la Escuela de Administración Pública de la Ciudad de México;
 
 IX. Grado: Al nivel de profesionalización que ha logrado un miembro del Servicio en función del cumplimiento de los requisitos de ingreso, permanencia y desarrollo de carrera en su respectivo Cuerpo;
 
 X. Miembro: Al miembro del Servicio Público de Carrera;
 
-XI. Nombramiento: A la constancia expedida por la Oficialía Mayor que acredita el carácter de servidor público en la Administración Pública del Distrito Federal.
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-XII. Oficialía Mayor: A la Oficialía Mayor del Distrito Federal;
+XI. Nombramiento: A la constancia expedida por la autoridad competente que acredita el carácter de persona servidora pública en la Administración Pública de la Ciudad de México.
 
-XIII. Órgano Desconcentrado: Órgano Desconcentrado de la Administración Pública Central del Distrito Federal;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-XIV. Plaza: A la posición individual en la estructura de la Administración Pública Central del Distrito Federal, a la cual se le asigna una función y valuación acorde a un puesto y puede ser ocupada por un miembro del Servicio;
+XII. Órgano Desconcentrado: Órgano Desconcentrado de la Administración Pública Central de la Ciudad de México;
 
-XV. Puesto: A la unidad impersonal de trabajo que forma parte de la Administración Pública del Distrito Federal y que un miembro del Servicio puede ocupar en función de su Categoría y Grado;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-XVI. Reglamento: Al Reglamento de la Ley del Servicio Público de Carrera de la Administración Pública del Gobierno del Distrito Federal;
+XIII. Plaza: A la posición individual en la estructura de la Administración Pública Central de la Ciudad de México, a la cual se le asigna una función y valuación acorde a un puesto y puede ser ocupada por una persona integrante del Servicio;
 
-XVII. Servicio: Al Servicio Público de Carrera de la Administración Pública del Distrito Federal; y
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-XVIII. Sistema: Al Sistema que regula un procedimiento general del Servicio.
+XIV. Puesto: A la unidad impersonal de trabajo que forma parte de la Administración Pública de la Ciudad de México y que una persona integrante del Servicio puede ocupar en función de su Categoría y Grado;
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+XV. Reglamento: Al Reglamento de la Ley del Servicio Público de Carrera de la Administración Pública del Gobierno de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+XVI. Servicio: Al Servicio Público de Carrera de la Administración Pública de la Ciudad de México; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 17 DE FEBRERO DE 2021)</small>
+
+XVII. Sistema: Al Sistema que regula un procedimiento general del Servicio.
+
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 11.
 
-Son de aplicación supletoria a la presente Ley, la Ley Federal de Responsabilidades de los Servidores Públicos, la Ley Federal de los Trabajadores al Servicio del Estado, la Ley Orgánica de la Administración Pública del Distrito Federal y la Ley del Procedimiento Administrativo del Distrito Federal.
+Son de aplicación supletoria a la presente Ley, la Ley Federal de los Trabajadores al Servicio del Estado, la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, la Ley de Responsabilidades Administrativas de la Ciudad de México y la Ley del Procedimiento Administrativo de la Ciudad de México.
 
 ### Capítulo Segundo. De los Órganos del Servicio
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE FEBRERO DE 2021, PÁGINA 6, SE ADVIERTE QUE CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE VIII A VII FRACCIONES.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 12.
 
-El Consejo será el órgano rector del Servicio y se integrará por:
+El Consejo será el órgano rector del Servicio y se integrará por las personas titulares de:
 
-I. El Jefe de Gobierno, quien lo presidirá;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-II. El titular de la Contraloría;
+I. Jefatura de Gobierno, quien lo presidirá;
 
-III. El titular de la Oficialía Mayor;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-IV. El titular de la Secretaría de Finanzas;
+II. Contraloría;
 
-V. El Director General de la Escuela;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-VI. Dos expertos en la materia de esta Ley, designados por el Jefe de Gobierno;
+III. Secretaría de Administración y Finanzas;
 
-VII. Un servidor público de la Administración Pública del Distrito Federal, con amplia experiencia y logros destacados en el sector público, quien será designado por el Jefe de Gobierno; y
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-VIII. Un Secretario Técnico, designado por el Jefe de Gobierno.
+IV. Dirección General de la Escuela;
 
-Los integrantes del Consejo, a excepción del Secretario Técnico, tendrán derecho de voz y voto. En caso de empate, el Presidente tendrá voto de calidad.
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+V. Dos personas expertas en la materia de esta Ley, designados (sic) por la persona Titular de la Jefatura de Gobierno;
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+VI. Una persona servidora pública de la Administración Pública de la Ciudad de México, con amplia experiencia y logros destacados en el sector público, quien será designado (sic) por la persona Titular de la Jefatura de Gobierno; y
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+VII. Una persona Secretaria Técnica, designada por la persona Titular de la Jefatura de Gobierno.
+
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
+
+Las personas integrantes del Consejo, a excepción de los mencionados en las fracciones V y VII, tendrán derecho de voz y voto. En caso de empate, la Presidencia tendrá voto de calidad.
 
 El Secretario Técnico tendrá derecho de voz pero sin voto.
 
@@ -246,45 +316,77 @@ X. Aprobar sus reglas internas y de funcionamiento; y
 
 XI. Las que le confieran las demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 17 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 14.
 
 Los Comités serán órganos técnicos de coordinación y dictamen y se conformarán en función de cada Cuerpo.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 17 DE FEBRERO DE 2021)</small>
+
 En los Cuerpos Transversales, los Comités se integrarán por:
 
-I. Los titulares de las Dependencias con puestos y plazas en el Cuerpo;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-II. Un representante de la Contraloría;
+I. Las personas titulares de las Dependencias con puestos y plazas en el Cuerpo;
 
-III. Un representante de la Oficialía Mayor;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-IV. Un representante de la Escuela;
+II. Una persona representante de la Contraloría;
 
-V. Un experto en la función transversal, designado por el Consejo; y
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-VI. Un Secretario Técnico, designado por el Presidente del Comité.
+III. Una persona representante de la Secretaria de Administración y Finanzas;
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+IV. Una persona representante de la Escuela;
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+V. Una persona experta en la función transversal, designada por el Consejo; y
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+VI. Una persona Secretaria Técnica, designada por la persona Presidenta del Consejo.
 
 Los integrantes de los Comités Transversales tendrán derecho de voto y voz, con excepción del Secretario Técnico, quien únicamente tendrá derecho de voz. En caso de empate, el Presidente del Comité tendrá voto de calidad. El Secretario Técnico será el responsable de vigilar el cumplimiento de los acuerdos y resoluciones del Comité.
 
 Cuando el 50% o más de las plazas de un Cuerpo Transversal estén adscritas a una Dependencia, la Presidencia del Comité será de carácter permanente y le corresponderá al titular de dicha Dependencia. En los demás supuestos la Presidencia será rotativa, de conformidad con las reglas internas que determine el propio Comité.
 
-Los titulares de las Dependencias que integren un Comité podrán designar a un representante permanente para que intervengan en sus sesiones.
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
+
+Las personas titulares de las Dependencias que integren un Comité podrán designar a un representante permanente para que intervengan en sus sesiones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 17 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 15.
 
 En los Cuerpos Específicos de una Dependencia, los Comités se integrarán por:
 
-I. El titular de la Dependencia;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-II. Un representante de la Contraloría;
+I. La persona Titular de la Dependencia;
 
-III. Un representante de la Oficialía Mayor;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-IV. Un representante de la Escuela;
+II. Una persona representante de la Contraloría;
 
-V. Un experto en la función sustantiva, designado por el Consejo; y
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
-VI. Un Secretario Técnico, designado por el Presidente del Comité.
+III. Una persona representante de la Secretaria de Administración y Finanzas;
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+IV. Una persona representante de la Escuela;
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+V. Una persona experta en la función sustantiva designada por el Consejo; y
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+VI. Una persona secretaria técnica designada por el Presidente del Comité.
 
 Los integrantes de los Comités tendrán derecho de voz y voto, con excepción del Secretario Técnico, quién únicamente tendrá derecho de voz. En caso de empate, el Presidente del Comité tendrá voto de calidad. El Secretario Técnico será el responsable de vigilar el cumplimiento de los acuerdos y resoluciones del Comité.
 
@@ -324,13 +426,17 @@ II. Coordinar la operación de los Sistemas de Planeación y Evaluación del Ser
 
 III. Establecer y supervisar los mecanismos aplicables al otorgamiento de ascensos, compensaciones e incentivos para los miembros del Servicio;
 
-IV. Proponer al Consejo la creación de Cuerpos y Comités, con base en funciones transversales de la Administración Pública del Distrito Federal o en funciones técnicas especializadas desplegadas predominantemente en una Dependencia.
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+IV. Proponer al Consejo la creación de Cuerpos y Comités, con base en funciones transversales de la Administración Pública de la Ciudad de México o en funciones técnicas especializadas desplegadas predominantemente en una Dependencia.
 
 V. Proponer al Consejo las políticas, lineamientos y criterios institucionales en materia del Servicio, así como darles seguimiento y promover su estricta observancia;
 
 VI. Proponer al Consejo los ajustes y modificaciones al catálogo ocupacional del Servicio;
 
-VII. Proponer a la Secretaría de Finanzas el régimen de compensaciones para los miembros del Servicio;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
+
+VII. Proponer a la Secretaría de Administración y Finanzas el régimen de compensaciones para los miembros del Servicio;
 
 VIII. Presentar al Consejo el informe anual de evaluación integral y mejora del servicio;
 
@@ -380,13 +486,17 @@ Los titulares de las Dependencias y Órganos Desconcentrados deberán apoyar al 
 
 El catálogo ocupacional contendrá la valuación, perfiles, requisitos y demás información que corresponda a los puestos y plazas de cada Cuerpo, de acuerdo a sus respectivas Categorías y Grados.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 21.
 
-La Secretaría de Finanzas, en coordinación con la Oficialía Mayor y la Contraloría, aprobará y actualizará el tabulador de compensaciones de los miembros, con los salarios y demás conceptos de remuneración correspondientes a su Categoría y Grado.
+La Secretaría de Administración y Finanzas, en coordinación con la Contraloría, aprobará y actualizará el tabulador de compensaciones de los miembros, con los salarios y demás conceptos de remuneración correspondientes a su Categoría y Grado.
+
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 22.
 
-La Oficialía Mayor será la responsable de homologar el tabulador de compensaciones del Servicio con el tabulador de puestos de la Administración Pública del Distrito Federal, a efecto de que las remuneraciones percibidas por los miembros del Servicio se ajusten a lo dispuesto en los ordenamientos y disposiciones aplicables en materia presupuestal y de gasto eficiente de los recursos públicos.
+La autoridad competente de la administración pública local será responsable de homologar el tabulador de compensaciones del Servicio con el tabulador de puestos de la Administración Pública de la Ciudad de México, a efecto de que las remuneraciones percibidas por los miembros del Servicio se ajusten a lo dispuesto en los ordenamientos y disposiciones aplicables en materia presupuestal y de gasto eficiente de los recursos públicos.
 
 ###### Artículo 23.
 
@@ -394,9 +504,11 @@ El Registro de los miembros del Servicio se integrará con la información que l
 
 Las Dependencias y Órganos Desconcentrados deberán entregar la información que le requiera la Contraloría sobre los miembros del Servicio adscritos a sus unidades administrativas.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 24.
 
-La información contenida en el Registro será de carácter confidencial y sólo podrá ser proporcionada al Consejo, la Contraloría, los miembros del Servicio y a las autoridades competentes, en los términos previstos en la Ley de Transparencia y Acceso de Información Pública del Distrito Federal, Ley de Protección de Datos Personales para el Distrito Federal, Ley de Archivos del Distrito Federal, el Reglamento y demás disposiciones aplicables.
+La información contenida en el Registro será de carácter confidencial y sólo podrá ser proporcionada al Consejo, la Contraloría, los miembros del Servicio y a las autoridades competentes, en los términos previstos en la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México, Ley de Archivos de la Ciudad de México, el Reglamento y demás disposiciones aplicables.
 
 ### Capítulo Cuarto. De los derechos y obligaciones de los miembros del Servicio
 
@@ -510,13 +622,15 @@ La formación inicial es la etapa de enseñanza-aprendizaje para la preparación
 
 Durante la formación inicial, los aspirantes deberán dedicarse de tiempo completo a las actividades de esta etapa y podrán recibir una contraprestación económica, supeditada a la disponibilidad de recursos presupuestales.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 37.
 
-Al finalizar la formación inicial, la Escuela remitirá a la Contraloría los expedientes de los aspirantes reclutados que hayan aprobado de manera satisfactoria esta etapa, para que este órgano elabore y presente ante el Comité respectivo la propuesta de asignación de plazas.
+Al finalizar la formación inicial, la Escuela remitirá a la Contraloría los expedientes de las personas aspirantes reclutados que hayan aprobado de manera satisfactoria esta etapa, para que este órgano elabore y presente ante el Comité respectivo la propuesta de asignación de plazas.
 
 Una vez recibida la propuesta de la Contraloría, en su siguiente sesión ordinaria o extraordinaria el Comité aprobará el ingreso al servicio y la asignación de plazas.
 
-El Secretario Técnico del Comité notificará inmediatamente esta resolución a la Oficialía Mayor y a la Contraloría, remitirá el expediente correspondiente para que estas Dependencias, de acuerdo a su propio ámbito de competencias, expidan el nombramiento y el certificado de ingreso al Servicio Público de Carrera, dentro de los 3 días siguientes a su notificación.
+La persona Secretaria Técnica del Comité notificará inmediatamente esta resolución a la autoridad competente y a la Contraloría, remitirá el expediente correspondiente para que estas Dependencias, de acuerdo a su propio ámbito de competencias, expidan el nombramiento y el certificado de ingreso al Servicio Público de Carrera, dentro de los 3 días siguientes a su notificación.
 
 ### Capítulo Tercero. Del Sistema de Movilidad
 
@@ -536,15 +650,17 @@ V. Licencia especial; y
 
 VI. Disponibilidad.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 39.
 
 La permuta procede cuando un miembro del Servicio es nombrado en otra plaza de su mismo Cuerpo y Categoría, adscrita en la misma Dependencia u Órgano Desconcentrado.
 
 La permuta será solicitada por el Titular de la Dependencia u Órgano Desconcentrado de adscripción del miembro, previa consulta con el miembro, y será aprobada por el Comité.
 
-La permuta será notificada por el Secretario Técnico del Comité a la Oficialía Mayor y a la Contraloría, dentro de los 3 días siguientes a su aprobación.
+La permuta será notificada por el Secretario Técnico del Comité a la autoridad competente y a la Contraloría, dentro de los 3 días siguientes a su aprobación.
 
-La Oficialía Mayor deberá emitir el nuevo nombramiento, dentro de los 3 días posteriores a la notificación de la permuta.
+La autoridad competente deberá emitir el nuevo nombramiento, dentro de los 3 días posteriores a la notificación de la permuta.
 
 ###### Artículo 40.
 
@@ -626,13 +742,17 @@ En el Reglamento se establecerá (sic) los supuestos y procedimientos de revisi�
 
 ### Capítulo Quinto. Del Sistema de Evaluación del Desempeño
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 51.
 
-La evaluación del desempeño de los miembros del Servicio tiene por objeto promover y verificar el cumplimiento de sus funciones al interior de cada Cuerpo, así como evaluar el cumplimiento de las metas institucionales de gestión de la Administración Pública del Distrito Federal.
+La evaluación del desempeño de los miembros del Servicio tiene por objeto promover y verificar el cumplimiento de sus funciones al interior de cada Cuerpo, así como evaluar el cumplimiento de las metas institucionales de gestión de la Administración Pública de la Ciudad de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 52.
 
-La Contraloría, en coordinación con las Dependencias y Órganos Desconcentrados, desarrollará un modelo de planeación estratégica sustentado en metas e indicadores institucionales de gestión para cada Cuerpo, el cual estará alineado al Programa General de Desarrollo del Distrito Federal, al Programa Rector de Profesionalización y al Catálogo Ocupacional.
+La Contraloría, en coordinación con las Dependencias y Órganos Desconcentrados, desarrollará un modelo de planeación estratégica sustentado en metas e indicadores institucionales de gestión para cada Cuerpo, el cual estará alineado al Programa General de Desarrollo de la Ciudad de México, al Programa Rector de Profesionalización y al Catálogo Ocupacional.
 
 De las metas e indicadores de gestión para cada Cuerpo se derivarán metas individuales y/o grupales de desempeño de sus miembros, así como los mecanismos e indicadores para medirlas.
 
@@ -700,9 +820,11 @@ V. Contar con título profesional para los cuerpos de Categoría A, que señala 
 
 Para ascender de Categoría se deberán cumplir, al menos, los requisitos anteriores o aprobar el concurso interno de selección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 62.
 
-Cada miembro del Servicio tendrá un nivel salarial acorde a su puesto y plaza en la Administración Pública del Distrito Federal y a su Categoría y Grado en el Servicio.
+Cada miembro del Servicio tendrá un nivel salarial acorde a su puesto y plaza en la Administración Pública de la Ciudad de México y a su Categoría y Grado en el Servicio.
 
 Si un miembro es readscrito o rotado a una plaza del mismo Cuerpo cuya valuación signifique un ingreso menor al de su Categoría y Grado, deberá percibir el ingreso que le corresponda por su Categoría y Grado en el Servicio.
 
@@ -712,9 +834,11 @@ Las compensaciones serán determinadas por el Consejo en el Tabulador correspond
 
 Los incentivos y reconocimientos serán determinados por la Contraloría y otorgados por el Consejo.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 64.
 
-Las compensaciones e incentivos otorgados a los miembros del Servicio no constituirán bonos o prestaciones extraordinarias, en términos de lo dispuesto en la Ley de Presupuesto y Gasto Eficiente del Distrito Federal.
+Las compensaciones e incentivos otorgados a los miembros del Servicio no constituirán bonos o prestaciones extraordinarias, en términos de lo dispuesto en la Ley de Austeridad Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México.
 
 ### Capítulo Séptimo. Del Sistema de Sanción
 
@@ -790,15 +914,19 @@ c) Cuando un miembro reincida o viole de forma sistemática los principios y dis
 
 II. Resolución de la Contraloría que determine la destitución o inhabilitación del miembro del Servicio, conforme a lo previsto en la Ley Federal de Responsabilidades de los Servidores Públicos.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 73.
 
-La separación extraordinaria de un miembro del Servicio será notificada por la Contraloría a la Oficialía Mayor y al titular de la Dependencia u Órgano Desconcentrado de su adscripción, dentro de los dos días hábiles siguientes a la resolución correspondiente.
+La separación extraordinaria de una persona integrante del Servicio será notificada por la Contraloría a la autoridad competente y a la persona titular de la Dependencia u Órgano Desconcentrado de su adscripción, dentro de los dos días hábiles siguientes a la resolución correspondiente.
 
-Una vez realizada la notificación, la Oficialía Mayor o el servidor público responsable de haber emitido el nombramiento, tendrá cinco días hábiles para revocar dicho nombramiento.
+Una vez realizada la notificación, la autoridad competente o la persona servidora pública responsable de haber emitido el nombramiento, tendrá cinco días hábiles para revocar dicho nombramiento.
+
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 74.
 
-Contra las sanciones impuestas por la Contraloría procede el recurso de inconformidad. La Contraloría substanciará y resolverá este recurso conforme a lo establecido en el Reglamento y en la Ley del Procedimiento Administrativo del Distrito Federal, en lo que sea aplicable.
+Contra las sanciones impuestas por la Contraloría procede el recurso de inconformidad. La Contraloría substanciará y resolverá este recurso conforme a lo establecido en el Reglamento y en la Ley del Procedimiento Administrativo de la Ciudad de México, en lo que sea aplicable.
 
 ###### Artículo 75.
 
@@ -845,3 +973,13 @@ Decimo.- El Jefe de Gobierno, dentro de los 180 días contados a partir de la en
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil once.- POR LA MESA DIRECTIVA.- DIP. ALEJANDRO CARBAJAL GONZÁLEZ, PRESIDENTE.- DIP. GUILLERMO OROZCO LORETO, SECRETARIO.- DIP. GUILLERMO OCTAVIO HUERTA LING, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los trece días del mes de enero del año dos mil doce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA TERESA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JESÚS VALDÉS PEÑA.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 17 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN DE LA LEY DEL SERVICIO PÚBLICO DE CARRERA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA MISMA”.]
+
+PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
