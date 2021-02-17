@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-125677"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-29"
-last_updated: "2020-10-02"
+last_updated: "2021-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2021.
 
 Ley publicada en la Décima Quinta Sección al Número 20 del Periódico Oficial de Puebla, el viernes 29 de diciembre de 2017.
 
@@ -219,13 +219,17 @@ III. La constitución de reservas territoriales para el desarrollo urbano;
 
 IV. La regularización de la tenencia de la tierra en los centros de población;
 
-V. La ejecución de obras de infraestructura, de equipamiento, de servicios urbanos y metropolitanos, así como el impulso de aquéllas destinadas para la movilidad;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2021)</small>
+
+V. La ejecución de obras de infraestructura, de equipamiento, de servicios urbanos y metropolitanos, así como el impulso de aquéllas destinadas para la movilidad, y que prioricen la instalación de ciclo vías y ciclo estaciones;
 
 VI. La protección del patrimonio natural y cultural de los centros de población;
 
 VII. La preservación y restauración del equilibrio ecológico y la protección del ambiente en los centros de población;
 
-VIII. La creación, recuperación, mantenimiento y defensa del espacio público para uso comunitario y para la movilidad;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2021)</small>
+
+VIII. La creación, recuperación, mantenimiento y defensa del espacio público para uso comunitario y para la movilidad, priorizando el uso de bicicletas y otros vehículos no motorizados;
 
 IX. La atención de situaciones de emergencia debidas al cambio climático y fenómenos naturales, y
 
@@ -451,7 +455,9 @@ XXXVI. Informar y difundir anualmente a la ciudadanía sobre la aplicación y ej
 
 XXXVII. Promover la participación ciudadana y crear los mecanismos para su participación en la formulación, seguimiento, modificación y evaluación de los planes o programas municipales de desarrollo urbano y los que de ellos emanen, de conformidad con lo dispuesto por la Ley General y la presente Ley;
 
-XXXVIII. Promover el cumplimiento, vigencia y protección de los derechos humanos relacionados con los centros de población, el desarrollo urbano, ordenamiento territorial y la vivienda;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2021)</small>
+
+XXXVIII. Promover el cumplimiento, vigencia y protección de los derechos humanos relacionados con los centros de población, el desarrollo urbano, ordenamiento territorial, la vivienda y movilidad sustentable;
 
 XXXIX. Promover y ejecutar acciones para prevenir y mitigar el riesgo de los centros de población, y aumentar la resiliencia de los mismos ante fenómenos naturales y antropogénicos;
 
@@ -693,9 +699,17 @@ b) El desarrollo de las comunidades;
 
 c) La distribución territorial de las actividades económicas y de la población, así como el patrón de crecimiento;
 
-d) El equipamiento urbano y los servicios públicos, y
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2021)</small>
 
-e) El análisis de vivienda.
+d) El equipamiento urbano y los servicios públicos;
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2021)</small>
+
+e) El análisis de vivienda; y
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2021)</small>
+
+f) El uso de la bicicleta y de otros medios de transporte sustentable, así como la instalación de la infraestructura para su adecuado funcionamiento.
 
 III. La definición de objetivos, políticas y estrategias generales para orientar:
 
@@ -725,7 +739,9 @@ IX. La definición de los instrumentos para la ejecución de las acciones previs
 
 X. La manifestación expresa de su obligatoriedad general, así como su jerarquía en la elaboración de los planes o programas a que se refiere esta Ley;
 
-XI. La estrategia urbana y de vialidad, y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2021)</small>
+
+XI. La estrategia urbana y de vialidad que priorice la movilidad del peatón, el uso de la bicicleta, así como de otros medios de transporte sustentable; y
 
 XII. La zonificación primaria.
 
@@ -1715,7 +1731,9 @@ El Estado y los municipios, en el ámbito de sus competencias, establecerán los
 
 I. El diagnóstico, información, seguimiento y evaluación de las políticas y programas de movilidad, incorporando entre otras, la perspectiva de género;
 
-II. La gestión de instrumentos en la materia, tales como: cargos por congestión o restricciones de circulación en zonas determinadas; infraestructura peatonal, ciclista o de pacificación de tránsito; sistemas integrados de transporte; zonas de bajas o nulas emisiones; cargos y prohibiciones por estacionamientos en vía pública; estímulos a vehículos motorizados con baja o nula contaminación; restricciones de circulación para vehículos de carga y autos; tasas diferenciadas del impuesto de la tenencia que consideren la dimensión o características de los vehículos motorizados, entre otros, y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2021)</small>
+
+II. La gestión de instrumentos en la materia, tales como: cargos por congestión o restricciones de circulación en zonas determinadas; infraestructura peatonal, ciclista, como ciclo vías y ciclo estaciones, o de pacificación de tránsito; sistemas integrados de transporte; zonas de bajas o nulas emisiones; cargos y prohibiciones por estacionamientos en vía pública; estímulos a vehículos motorizados con baja o nula contaminación; restricciones de circulación para vehículos de carga y autos; tasas diferenciadas del impuesto de la tenencia que consideren la dimensión o características de los vehículos motorizados, entre otros, y
 
 III. La priorización, congruencia y eficacia en las inversiones públicas, considerando el nivel de vulnerabilidad de usuarios, las externalidades que genera cada modo de transporte y su contribución a la productividad de la colectividad.
 
@@ -1801,7 +1819,9 @@ Las licencias, permisos y autorizaciones tendrán la vigencia que determine la a
 
 La creación, recuperación, mantenimiento y defensa del espacio público para todo tipo de usos y para la movilidad, es principio de esta Ley y una alta prioridad para el Estado y los municipios, por lo que en los procesos de planeación urbana, programación de inversiones públicas, aprovechamiento y utilización de áreas, polígonos y predios públicos o privados, dentro de los centros de población, se deberá privilegiar el diseño, adecuación, mantenimiento y protección de espacios públicos, teniendo en cuenta siempre la evolución de la ciudad.
 
-Los planes o programas municipales de desarrollo urbano y ordenamiento territorial, de zonas metropolitanas o de conurbaciones, definirán la dotación de espacio público en cantidades no menores a lo establecido por las Normas Oficiales Mexicanas aplicables. Privilegiarán la dotación y preservación del espacio para el tránsito de los peatones y para las bicicletas, y criterios de conectividad entre vialidades que propicien la movilidad; igualmente, los espacios para el deporte y la cultura, los parques y las plazas de manera que cada colonia, barrio y localidad cuente con la dotación igual o mayor a la establecida en las normas mencionadas.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2021)</small>
+
+Los planes o programas municipales de desarrollo urbano y ordenamiento territorial, de zonas metropolitanas o de conurbaciones, definirán la dotación de espacio público en cantidades no menores a lo establecido por las Normas Oficiales Mexicanas aplicables. Privilegiarán la dotación y preservación del espacio para el tránsito y resguardo de los peatones y para las bicicletas, y criterios de conectividad entre vialidades que propicien la movilidad; igualmente, los espacios para el deporte y la cultura, los parques y las plazas de manera que cada colonia, barrio y localidad cuente con la dotación igual o mayor a la establecida en las normas mencionadas.
 
 Los planes o programas municipales de desarrollo urbano y ordenamiento territorial, incluirán los aspectos relacionados con el uso, aprovechamiento y custodia del espacio público, contemplando la participación social efectiva a través de la consulta, la opinión y la deliberación con las personas y sus organizaciones e instituciones, para determinar las prioridades y los proyectos sobre el espacio público y para dar seguimiento a la ejecución de obras, la evaluación de los programas y la operación y funcionamiento de dichos espacios y entre otras acciones, las siguientes:
 
@@ -2868,3 +2888,13 @@ P.O. 2 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES V Y VIII DEL ARTÍCULO 6, LA FRACCIÓN XXXVIII DEL 16, LOS INCISOS D) Y E) DE LA FRACCIÓN II Y LA FRACCIÓN XI DEL 35, LA FRACCIÓN II DEL 117 Y EL SEGUNDO PÁRRAFO DEL 127, Y ADICIONA EL INCISO F) A LA FRACCIÓN II DEL ARTÍCULO 35, TODOS DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los Ayuntamientos deberán realizar sus adecuaciones reglamentarias dentro del término de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
