@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6285
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-22"
-last_updated: "2020-11-09"
+last_updated: "2021-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 22 de agosto de 2008.
 
@@ -675,9 +675,11 @@ XIII.- Promover la participación de mujeres rurales en programas sectoriales en
 
 Las bases normativas de las relaciones de las mujeres en el trabajo están constituidas por el derecho al trabajo y la igualdad de acceso a todos los empleados a cargos, ascensos, oportunidades y a idéntica remuneración por igual trabajo.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 34.
 
-Se prohíbe despedir o presionar a la mujer trabajadora o menoscabar sus derechos con motivo de su estado de gravidez o embarazo; en este caso, la atención médica se proporcionará de forma integral.
+Se prohíbe solicitar a la mujer trabajadora la presentación de certificados médicos de no embarazo; para el ingreso, permanencia, promoción o ascenso en el empleo, así como despedirla, presionarla a renunciar, discriminarla o menoscabar sus derechos con motivo de su estado de gravidez o embarazo; en este caso, la atención médica se proporcionará de forma integral.
 
 ### CAPÍTULO TERCERO. DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES
 
@@ -902,6 +904,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 9 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIII Y XIV, Y ADICIONA LA FRACCIÓN XV AL ARTÍCULO 10 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 34 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
