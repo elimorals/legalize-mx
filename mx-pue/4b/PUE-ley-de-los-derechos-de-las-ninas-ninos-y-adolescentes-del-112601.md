@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2021-02-09"
+last_updated: "2021-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -711,9 +711,17 @@ VI. Prevenir el delito y las adicciones, mediante el diseño y ejecución de pro
 
 VII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o guarda y custodia, así como con grupos de la comunidad, la planificación, organización y desarrollo de actividades extracurriculares de interés para las niñas, niños y adolescentes;
 
-VIII. Promover la educación sexual integral conforme a su edad, el desarrollo evolutivo, cognoscitivo y madurez, de las niñas, niños y adolescentes que les permitan ejercer de manera informada y responsable sus derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en Tratados Internacionales y en las demás disposiciones aplicables, y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2021)</small>
 
-IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquiera de sus manifestaciones, así como el conocimiento y difusión del respeto a los derechos humanos.
+VIII. Promover la educación sexual integral conforme a su edad, el desarrollo evolutivo, cognoscitivo y madurez, de las niñas, niños y adolescentes que les permitan ejercer de manera informada y responsable sus derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en Tratados Internacionales y en las demás disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE FEBRERO DE 2021)</small>
+
+IX. Garantizar una adecuada educación financiera y fomentar en las y los educandos una cultura del ahorro, la inversión y el emprendimiento; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE FEBRERO DE 2021)</small>
+
+X. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquiera de sus manifestaciones, así como el conocimiento y difusión del respeto a los derechos humanos.
 
 ###### ARTÍCULO 50.
 
@@ -2110,6 +2118,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 9 DE FEBRERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XII Y XIII DEL ARTÍCULO 98 Y ADICIONA LA FRACCIÓN XIV AL 98 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VIII Y IX DEL ARTÍCULO 49 Y ADICIONA LA FRACCIÓN X AL 49 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
