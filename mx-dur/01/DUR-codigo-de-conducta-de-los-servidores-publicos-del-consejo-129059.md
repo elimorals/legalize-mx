@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-de-los-servidores-publicos-del-consejo-12905
 country: "mx"
 rank: "codigo"
 publication_date: "2018-05-17"
-last_updated: "2018-05-17"
+last_updated: "2021-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 18 DE FEBRERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2021 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 17 de mayo de 2018.
 
@@ -532,3 +534,15 @@ Dado en la Ciudad de Victoria de Durango, Dgo., a los 30 días del mes de abril 
 ACUERDO COCYTED 30/04/18/275.- Los miembros de la H Junta Directiva aprueban el Código de Conducta del Consejo de Ciencia y Tecnología del Estado de Durango, el cual se enviará a las instancias correspondientes para su registro y publicación.
 
 > <small>[N. DE E. VÉASE FIRMAS JUNTA DIRECTIVA EN EL P.O. 17 DE MAYO DE 2018, PÁGINAS 45 Y 46.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO.- DE CONDUCTA DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente Instrumento normativo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga el Código de Conducta de los Servidores Públicos del Consejo de Ciencia y Tecnología del Estado de Durango, publicado en el Periódico Oficial del Gobierno del Estado de Durango No. 39 del jueves 17 de mayo de 2018.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Durango y en la página de internet del Consejo.
