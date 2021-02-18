@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-de-nacional-financiera-sociedad-46905"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-04-02"
-last_updated: "2015-08-25"
+last_updated: "2021-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46905&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-03-26"
 
 REGLAMENTO ORGÁNICO DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE FEBRERO DE 2021.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
@@ -101,13 +101,17 @@ La Sociedad tendrá duración indefinida.
 
 ### CAPÍTULO SEGUNDO. Del Capital Social
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE FEBRERO DE 2021)</small>
 
 ###### ARTÍCULO 7o.
 
-El capital social de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $2,390'000,000.00 (DOS MIL TRESCIENTOS NOVENTA MILLONES DE PESOS 00/100 M.N.).
+El capital social de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $3,000'000,000.00 (TRES MIL MILLONES DE PESOS 00/100 M.N.).
 
-Dicho capital social estará representado por 31'548,000 (TREINTA Y UN MILLONES QUINIENTOS CUARENTA Y OCHO MIL) certificados de aportación patrimonial de la serie “A” con valor nominal de $50.00 (CINCUENTA PESOS 00/100 M.N.) cada uno y por 16'252,000 (DIECISÉIS MILLONES DOSCIENTOS CINCUENTA Y DOS MIL) certificados de aportación patrimonial de la serie “B”, con valor nominal de $50.00 (CINCUENTA PESOS 00/100 M.N.) cada uno.
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2021)</small>
+
+Dicho capital social estará representado por 39'600,000 (TREINTA Y NUEVE MILLONES SEISCIENTOS MIL) certificados de aportación patrimonial de la serie "A" con valor nominal de $50.00 (CINCUENTA PESOS 00/100 M.N.) cada uno y por 20'400,000 (VEINTE MILLONES CUATROCIENTOS MIL) certificados de aportación patrimonial de la serie "B", con valor nominal de $50.00 (CINCUENTA PESOS 00/100 M.N.) cada uno.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
 El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Sociedad, por acuerdo de la Secretaría y mediante reforma de este Reglamento.
 
@@ -239,7 +243,13 @@ Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, 
 
 Los consejeros independientes no tendrán suplentes y deberán asistir cuando menos al setenta por ciento de las sesiones que se hayan convocado en un ejercicio y en caso contrario podrán ser designados otros con las mismas características en su lugar, siempre que las ausencias no se justifiquen a juicio del Consejo Directivo.
 
-Para la celebración de las sesiones del Consejo Directivo, invariablemente se requerirá convocatoria por escrito dirigida a sus miembros, la cual podrá hacerse llegar por medios electrónicos, y deberá ser enviada por el secretario o prosecretario del Consejo Directivo, con una anticipación no menor de cinco días hábiles tratándose de sesiones ordinarias y de tres días, preferentemente, en el caso de sesiones extraordinarias.
+> <small>(ADICIONADO, D.O.F. 18 DE FEBRERO DE 2021)</small>
+
+La asistencia de los miembros podrá acreditarse con su presencia a través de conferencia telefónica o videoconferencia, siempre y cuando sea realizada en tiempo real, debiéndose asentar en el acta respectiva dicha circunstancia; asimismo, el sentido del voto de los miembros podrá ser manifestado por las mismas vías.
+
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2021)</small>
+
+Para la celebración de las sesiones del Consejo Directivo, invariablemente se requerirá convocatoria por escrito dirigida a sus miembros, la cual podrá hacerse llegar por medios electrónicos, y deberá ser enviada por el secretario o prosecretario del Consejo Directivo, con una anticipación no menor de cinco días hábiles tratándose de sesiones ordinarias y de tres días, preferentemente, en el caso de sesiones extraordinarias; en ambos casos, la documentación e información relacionada con los temas a tratar durante la sesión será entregada con la misma antelación en que se convoca a ésta.
 
 > <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
@@ -552,3 +562,23 @@ El presente Acuerdo, entrará en vigor el día siguiente al de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
+
+D.O.F. 18 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL CUAL SE MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO ORGÁNICO DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entra en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El capital social pagado de la institución a la vigencia del presente Acuerdo ascenderá a la suma de $2,626’483,250.00 (dos mil seiscientos veintiséis millones cuatrocientos ochenta y tres mil doscientos cincuenta pesos 00/100 M.N.), el cual estará representado por 52,529,665 certificados de aportación patrimonial (CAPs) a su valor nominal de $50.00 (cincuenta pesos 00/100 M.N.) cada uno.
+
+###### ARTÍCULO TERCERO.
+
+Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
+
+###### ARTÍCULO CUARTO.
+
+De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio, las modificaciones que por virtud del presente Acuerdo, se realicen a su Reglamento Orgánico.
