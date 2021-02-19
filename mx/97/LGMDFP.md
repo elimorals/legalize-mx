@@ -4,7 +4,7 @@ identifier: "LGMDFP"
 country: "mx"
 rank: "ley_general"
 publication_date: "2017-11-17"
-last_updated: "2017-11-17"
+last_updated: "2021-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124480&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGMDFP"
 
 LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 17 de noviembre de 2017.
 
@@ -217,6 +217,10 @@ En los casos de los delitos previstos en esta Ley no procederá el archivo tempo
 ###### Artículo 14.
 
 El ejercicio de la acción penal y la ejecución de sanciones penales que se impongan judicialmente para los delitos de desaparición forzada de personas y de desaparición cometida por particulares son imprescriptibles y no están sujetos a criterios de oportunidad ni a formas de solución alterna al proceso u otras de similar naturaleza.
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+El juez o la jueza ordenará la prisión preventiva de manera oficiosa a las o los imputados por los delitos previstos en los artículos 27, 28, 31, 34, 35, 37 y 41 de esta Ley.
 
 ###### Artículo 15.
 
@@ -2053,3 +2057,21 @@ Vigésimo Primero. Dentro de los ciento ochenta días siguientes a la entrada en
 Ciudad de México, a 12 de octubre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de noviembre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 167 DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, DE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, DE LA LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS, DE LA LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS, DEL CÓDIGO PENAL FEDERAL, DE LA LEY GENERAL DE SALUD, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA Y DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Tercero. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+Cuarto. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Quinto. La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
