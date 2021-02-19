@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "2018-06-15"
+last_updated: "2021-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY DE VÍAS GENERALES DE COMUNICACIÓN
 
 > <small>N. DE E. SE DEJAN SIN EFECTOS LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO EN LO QUE SE OPONGAN A LO DISPUESTO EN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDEN LA CITADA LEY, LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, Y QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2014; ORDENAMIENTO QUE ENTRA EN VIGOR A LOS TREINTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2021.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -3134,21 +3134,21 @@ Si además, se alterase el nombre de la persona a quien originariamente se hubie
 
 El empleado que sin autorización de la empresa expidiere algún pase, será castigado con prisión de un mes a un año y multa de cincuenta a quinientos pesos. Igual sanción se aplicará al que enajene un pase o lo use indebidamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 533.
 
-Los que dañen, perjudiquen o destruyan las vías generales de comunicación, o los medios de transporte, o interrumpan la construcción de dichas vías, o total o parcialmente interrumpan o deterioren los servicios que operen en las vías generales de comunicación o los medios de transporte, serán castigados con tres meses a siete años de prisión y multa de 100 a 500 veces el salario mínimo general vigente en el área geográfica del Distrito Federal.
+A quien dañe, perjudique o destruya las vías generales de comunicación, o los medios de transporte, o interrumpa la construcción de dichas vías, o total o parcialmente interrumpa o deteriore los servicios que operen en las vías generales de comunicación o los medios de transporte, se le sancionará con pena de dos a nueve años y multa de doscientas a mil veces el valor diario de la Unidad de Medida y Actualización al momento de cometerse el delito.
 
 > <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
 Si el delito fuere cometido por imprudencia con motivo del tránsito de vehículos por carretera, aquél sólo se perseguirá por querella, la cual únicamente podrá formularse cuando no se repare el daño en un plazo de treinta días naturales. En este caso, el delito se sancionará con multa hasta por el valor del daño causado más la reparación de éste.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 534.
 
-El que indebidamente y sin el propósito de interrumpir o perjudicar las vías generales de comunicación arroje en ellas cualquier obstáculo, impida sus desagües, descargue aguas, tale, pode o maltrate los árboles del derecho de vía, incurrirá en multa de veinticinco a doscientos pesos.
+Al que indebidamente y sin el propósito de interrumpir o perjudicar las vías generales de comunicación arroje en ellas cualquier obstáculo, impida sus desagües, descargue aguas, tale, pode o maltrate los árboles del derecho de vía, se le impondrá multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización al momento de incurrir en la falta.
 
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
@@ -4191,3 +4191,19 @@ D.O.F. 15 DE JUNIO DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión", publicado en el Diario Oficial de la Federación el 14 de julio de 2014, que se adiciona, será aplicable únicamente a las solicitudes de prórroga presentadas con anterioridad a la entrada en vigor del presente Decreto.
+
+D.O.F. 19 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 167 DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, DE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, DE LA LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS, DE LA LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS, DEL CÓDIGO PENAL FEDERAL, DE LA LEY GENERAL DE SALUD, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA Y DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Tercero. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+Cuarto. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Quinto. La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
