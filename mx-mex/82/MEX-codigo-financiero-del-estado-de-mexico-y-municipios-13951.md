@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2021-02-03"
+last_updated: "2021-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 [NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-[NOTA 2: PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2021, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 3 DE FEBRERO DE 2021.]
-
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE FEBRERO DE 2021 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+[NOTA 2: PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2021, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 3 DE FEBRERO DE 2021 Y CONTIENE LA REFERENCIA A LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 19 DE FEBRERO DE 2021.]
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
@@ -64,6 +62,8 @@ Para cuantificar el pago de las obligaciones y demás supuestos susceptibles de 
 ###### Artículo 2.
 
 Los actos, procedimientos y resoluciones que dicten o ejecuten las autoridades, así como las inconformidades que se susciten por la aplicación de este ordenamiento, se tramitarán y resolverán conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México, salvo que se trate de actos y procedimientos regulados expresamente en este Código.
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2020, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, Y PUBLICADA EN LA SECCIÓN PRIMERA DE LA G.G. DE 3 DE FEBRERO DE 2021 Y SU ERRATA AL ARTÍCULO 3 FRACCIÓN XL PUBLICADA EN LA G.G. DE 19 DE FEBRERO DE 2021, PÁGINAS DE LA 11 A LA 12.]</small>
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -19235,7 +19235,7 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
 
-G.G. 3 DE FEBRERO DE 2021.
+G.G. 3 DE FEBRERO DE 2021 Y F. DE E. G.G. 19 DE FEBRERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN ANUAL DE DERECHOS Y LAS CUOTAS Y TARIFAS PREVISTAS EN EL ARTÍCULO 60 G DEL CAPÍTULO PRIMERO, "DE LOS IMPUESTOS", ASÍ COMO LAS ESTABLECIDAS EN LOS ARTÍCULOS 73 AL 104 DEL CAPÍTULO SEGUNDO, "DE LOS DERECHOS" PARA EL EJERCICIO FISCAL DE 2021, AMBOS DEL TÍTULO TERCERO "DE LOS INGRESOS DEL ESTADO" DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
 
@@ -19244,3 +19244,11 @@ Primero.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 Segundo.- Se dejan sin efecto las disposiciones de igual o menor jerarquía que contravengan o se opongan al mismo.
 
 Tercero.- Hágase del conocimiento de las Dependencias de la Administración Pública del Gobierno del Estado de México y de las Unidades Administrativas de la Subsecretaría de Ingresos.
+
+> <small>(F. DE E., G.G. 19 DE FEBRERO DE 2021)</small>
+
+Cuarto.- El presente complemento al Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+> <small>(F. DE E., G.G. 19 DE FEBRERO DE 2021)</small>
+
+Quinto.- Los valores de las viviendas contenidos en el presente complemento al Acuerdo, estarán vigentes durante el ejercicio fiscal 2021.
