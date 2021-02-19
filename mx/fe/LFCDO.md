@@ -4,7 +4,7 @@ identifier: "LFCDO"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-11-07"
-last_updated: "2019-11-08"
+last_updated: "2021-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9005&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFCDO"
 
 LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 7 de noviembre de 1996.
 
@@ -60,7 +60,9 @@ Cuando tres o más personas se organicen de hecho para realizar, en forma perman
 
 I. Terrorismo, previsto en los artículos 139 al 139 Ter, financiamiento al terrorismo previsto en los artículos 139 Quáter y 139 Quinquies y terrorismo internacional previsto en los artículos 148 Bis al 148 Quáter; contra la salud, previsto en los artículos 194, 195, párrafo primero y 196 Ter; falsificación, uso de moneda falsificada a sabiendas y alteración de moneda, previstos en los artículos 234, 236 y 237; operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis; y en materia de derechos de autor previsto en el artículo 424 Bis, todos del Código Penal Federal;
 
-II. Acopio y tráfico de armas, previstos en los artículos 83 bis y 84 de la Ley Federal de Armas de Fuego y Explosivos;
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+II. Acopio y tráfico de armas, previstos en los artículos 83 Bis, 84, 84 Bis, párrafo primero, 85 y 85 Bis, de la Ley Federal de Armas de Fuego y Explosivos;
 
 > <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2016)</small>
 
@@ -94,7 +96,7 @@ VIII. CONTRABANDO Y SU EQUIPARABLE, PREVISTOS EN LOS ARTÍCULOS 102 Y 105 DEL C�
 
 VIII Bis. DEFRAUDACIÓN FISCAL, PREVISTO EN EL ARTÍCULO 108, Y LOS SUPUESTOS DE DEFRAUDACIÓN FISCAL EQUIPARADA, PREVISTOS EN LOS ARTÍCULOS 109, FRACCIONES I Y IV, AMBOS DEL CÓDIGO FISCAL DE LA FEDERACIÓN, EXCLUSIVAMENTE CUANDO EL MONTO DE LO DEFRAUDADO SUPERE 3 VECES LO DISPUESTO EN LA FRACCIÓN III DEL ARTÍCULO 108 DEL CÓDIGO FISCAL DE LA FEDERACIÓN;
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 130/2019 Y SU ACUMULADA 136/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII TER DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE ENERO DE 2020, FECHA EN LA QUE ENTRÓ DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 24 DE NOVIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 130/2019 Y SU ACUMULADA 136/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII TER DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE ENERO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(ADICIONADA, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
 
@@ -819,3 +821,19 @@ D.O.F. 8 DE NOVIEMBRE DE 2019.
 Primero. El presente Decreto entrará en vigor el día 1o. de enero de 2020.
 
 Segundo. Al momento de la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones contrarias al mismo, no obstante lo anterior, las conductas cometidas antes de la entrada en vigor del presente Decreto que actualicen cualquiera de los delitos previstos en los artículos 113, fracción III y 113 Bis del Código Fiscal de la Federación, así como el artículo 400 Bis del Código Penal Federal, continuarán siendo investigadas, juzgadas y sentenciadas, mediante la aplicación de dichos preceptos.
+
+D.O.F. 19 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 167 DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, DE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, DE LA LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS, DE LA LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS, DEL CÓDIGO PENAL FEDERAL, DE LA LEY GENERAL DE SALUD, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA Y DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Tercero. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+Cuarto. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Quinto. La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
