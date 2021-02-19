@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2021-01-07"
+last_updated: "2021-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2021.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -8198,6 +8198,10 @@ Para los efectos de este capítulo se entiende que el narcótico está destinado
 
 Los procedimientos penales y, en su caso, la ejecución de las sanciones por delitos a que se refiere este capítulo, se regirán por las disposiciones locales respectivas, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
 
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+El juez o la jueza ordenará la prisión preventiva de manera oficiosa a las y los imputados por los delitos previstos en los párrafos segundo y tercero, fracciones I, II y III del artículo 475 de esta Ley.
+
 > <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 481.
@@ -9361,3 +9365,19 @@ D.O.F. 7 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL PARA LA DETECCIÓN OPORTUNA DEL CÁNCER EN LA INFANCIA Y LA ADOLESCENCIA Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 161 BIS DE LA LEY GENERAL DE SALUD”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 167 DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, DE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, DE LA LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS, DE LA LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS, DEL CÓDIGO PENAL FEDERAL, DE LA LEY GENERAL DE SALUD, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA Y DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Tercero. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+Cuarto. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Quinto. La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
