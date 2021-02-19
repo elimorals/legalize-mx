@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-de-los-derechos-y-apoyo-a-los-102428"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2018-10-19"
+last_updated: "2021-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY PARA LA PROTECCION DE LOS DERECHOS Y APOYO A LOS MIGRANTES DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA ATENCIÓN, PROTECCIÓN DE LOS DERECHOS Y APOYO A LAS PERSONAS MIGRANTES DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE FEBRERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS Y APOYO A LOS MIGRANTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 12 de septiembre de 2014.
 
@@ -372,3 +374,15 @@ P.O. 19 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 266 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA DOS PÁRRAFOS AL ARTÍCULO 21 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS Y APOYO A LOS MIGRANTES DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY PARA LA ATENCIÓN, PROTECCIÓN DE LOS DERECHOS Y APOYO A LAS PERSONAS MIGRANTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente Ley entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley para la Protección de los Derechos y Apoyo a los Migrantes del Estado de Baja California, publicada en el Periódico oficial del Estado el 12 de septiembre de 2014.
+
+TERCERO.- El Ejecutivo Estatal y los Ayuntamientos del Estado de Baja California, en sus respectivos ámbitos de competencia, realizarán los ajustes reglamentarios correspondientes.
+
+CUARTO.- Los programas, políticas públicas, así como la Subsecretaria de Asuntos para Personas Migrantes y demás cuestiones derivadas de la presente ley que generen un impacto presupuestario, estarán sujetos para su implementación a la disponibilidad o viabilidad financiera correspondiente, debiendo preverse en el presupuesto de egresos las partidas conducentes, a más tardar en el ejercicio fiscal siguiente al del inicio de vigencia de la presente ley.
