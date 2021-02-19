@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2020-12-24"
+last_updated: "2021-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2021.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -3970,9 +3970,9 @@ DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, PARTICULARES VINCULADOS CO
 
 Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial de la Federación, los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Congreso de la Unión o en la Administración Pública Federal, así como a los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2021)</small>
 
-El Presidente de la República, durante el tiempo de su encargo, sólo podrá ser acusado por traición a la patria y delitos graves del orden común.
+Durante el tiempo de su encargo, el Presidente de la República podrá ser imputado y juzgado por traición a la patria, hechos de corrupción, delitos electorales y todos aquellos delitos por los que podría ser enjuiciado cualquier ciudadano o ciudadana.
 
 > <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
@@ -4070,9 +4070,9 @@ Si la resolución de la Cámara fuese negativa se suspenderá todo procedimiento
 
 Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la ley.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2021)</small>
 
-Por lo que toca al Presidente de la República, sólo habrá lugar a acusarlo ante la Cámara de Senadores en los términos del artículo 110. En este supuesto, la Cámara de Senadores resolverá con base en la legislación penal aplicable.
+Para proceder penalmente contra el Presidente de la República, sólo habrá lugar a acusarlo ante la Cámara de Senadores en los términos del artículo 110. En este supuesto, la Cámara de Senadores resolverá con base en la legislación penal aplicable.
 
 > <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
@@ -8693,3 +8693,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente al de su public
 Segundo. El Congreso de la Unión deberá expedir la Ley General en materia de Personas Jóvenes, en el plazo de un año, a partir de la publicación del presente Decreto.
 
 Tercero. Las Legislaturas de las entidades federativas, realizarán las adecuaciones normativas necesarias para cumplir con los fines establecidos en el presente Decreto, dentro de los 180 días siguientes a la expedición de la Ley General en materia de Personas Jóvenes.
+
+D.O.F. 19 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE DECLARA REFORMADOS LOS ARTÍCULOS 108 Y 111 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE FUERO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
