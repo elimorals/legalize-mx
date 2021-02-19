@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2020-11-14"
+last_updated: "2021-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,11 @@ state: "BCN"
 ---
 # LEY DEL REGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.</small>
-
-(NOTA 1: EL 18 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 204/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 158, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 42 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL CATORCE DE NOVIEMBRE DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 19 DE AGOSTO DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-(NOTA 2: EL 10 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 212/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 158, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 42 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL CATORCE DE NOVIEMBRE DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 11 DE OCTUBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -445,15 +439,13 @@ Los titulares de las entidades y órganos de la Administración Pública Municip
 
 ### CAPÍTULO SEGUNDO. DEL TERRITORIO Y LA POBLACIÓN DE LOS MUNICIPIOS
 
-(NOTA: EL 24 DE ENERO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 82/2016, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE BAJA CALIFORNIA RESPECTO DE LA EXPEDICIÓN DEL ESTATUTO TERRITORIAL DE LOS MUNICIPIOS DEL ESTADO; POR LO QUE SE ORDENA A ESE PODER LEGISLATIVO EXPEDIR DICHO ORDENAMIENTO DENTRO DEL SIGUIENTE PERÍODO ORDINARIO DE SESIONES, LA CUAL SURTIÓ EFECTOS A PARTIR DE LA NOTIFICACIÓN DE LA SENTENCIA AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx).
-
-[En cuanto a los efectos de esta declaración de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2021)</small>
 
 ###### ARTÍCULO 26.
 
-De la División Territorial del Estado.- El territorio del Estado de Baja California, se integra con los Municipios de Mexicali, Tecate, Tijuana, Ensenada y Playas de Rosarito, con la superficie, límites y linderos que establezca el Congreso del Estado en el Estatuto Territorial de los Municipios del Estado de Baja California.
+De la División Territorial del Estado.- El territorio del Estado de Baja California, se integra con los Municipios de Mexicali, Tecate, Tijuana, Ensenada, Playas de Rosarito y San Quintín, con la superficie, límites y linderos que establezca el Congreso del Estado en el Estatuto Territorial de los Municipios del Estado de Baja California.
 
-Las controversias que se susciten respecto de los límites territoriales, entre dos o más Municipios, serán resueltas por el Congreso del Estado, de conformidad a lo previsto en la Constitución Política del Estado de Baja California, modificando en su caso, el Estatuto Territorial de los Municipios del Estado de Baja California.
+Las controversias que se susciten respecto de los límites territoriales, entre dos o más Municipios, serán resueltas por el Congreso del Estado de Baja California, modificando en su caso, el Estatuto Territorial de los Municipios del Estado de Baja California.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2020)</small>
 
@@ -1144,3 +1136,9 @@ P.O. 14 DE NOVIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se contrapongan al presente Decreto.
+
+P.O. 19 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 206 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 26 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
