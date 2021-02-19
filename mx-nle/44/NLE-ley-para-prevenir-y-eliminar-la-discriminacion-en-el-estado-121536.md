@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-17"
-last_updated: "2017-05-17"
+last_updated: "2021-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2021.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 17 de mayo de 2017.
 
@@ -211,7 +211,9 @@ XXVIII. Difundir sin consentimiento de la persona, información sobre su condici
 
 XXIX. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de sus recursos naturales, una vez satisfechos los requisitos establecido (sic) en la legislación aplicable y que anule o menoscabe los derechos y libertades, o atente contra la dignidad;
 
-XXX. Estigmatizar y negar derechos a personas que viven con enfermedades infecciosas, crónico degenerativas y de transmisión sexual, por su condición;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2021)</small>
+
+XXX. Estigmatizar y negar derechos a personas que viven con enfermedades infecciosas, crónico degenerativas, las que deriven de una emergencia sanitaria y las de transmisión sexual, por su condición;
 
 XXXI. Restringir el acceso a cualquier lugar por la apariencia de las personas;
 
@@ -1230,3 +1232,11 @@ ENRIQUE TORRES ELIZONDO
 EL C. SECRETARIO DE DESARROLLO SUSTENTABLE
 
 ROBERTO RUSSILDI MONTELLANO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 449. SE REFORMA LA FRACCIÓN XXX, DEL ARTÍCULO 7 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN”.]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
