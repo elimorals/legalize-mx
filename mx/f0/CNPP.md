@@ -4,7 +4,7 @@ identifier: "CNPP"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-03-05"
-last_updated: "2020-01-22"
+last_updated: "2021-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99314&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CNPP"
 
 CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2021.
 
 Código publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de marzo de 2014.
 
@@ -2098,11 +2098,13 @@ El Ministerio Público sólo podrá solicitar al Juez de control la prisión pre
 
 En el supuesto de que el imputado esté siendo procesado por otro delito distinto de aquel en el que se solicite la prisión preventiva, deberá analizarse si ambos procesos son susceptibles de acumulación, en cuyo caso la existencia de proceso previo no dará lugar por si sola a la procedencia de la prisión preventiva.
 
-El Juez de control en el ámbito de su competencia, ordenará la prisión preventiva oficiosamente en los casos de delincuencia organizada, homicidio doloso, violación, secuestro, trata de personas, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley contra la seguridad de la Nación, el libre desarrollo de la personalidad y de la salud.
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2021)</small>
 
-Las leyes generales de salud, secuestro y trata de personas establecerán los supuestos que ameriten prisión preventiva oficiosa.
+El Juez de control en el ámbito de su competencia, ordenará la prisión preventiva oficiosamente en los casos de abuso o violencia sexual contra menores, delincuencia organizada, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad, y de la salud.
 
-La ley en materia de delincuencia organizada establecerá los supuestos que ameriten prisión preventiva oficiosa.
+> <small>(REFORMADO [N. DE E. ANTES PÁRRAFOS CUARTO Y QUINTO], D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+Las leyes generales de salud, secuestro, trata de personas, delitos electorales y desaparición forzada de personas y desaparición cometida por particulares, así como las leyes federales para prevenir y sancionar los delitos cometidos en materia de hidrocarburos, armas de fuego y explosivos, y contra la delincuencia organizada, establecerán los supuestos que ameriten prisión preventiva oficiosa de conformidad con lo dispuesto por el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Penal Federal de la manera siguiente:
 
@@ -2126,7 +2128,33 @@ IX. Corrupción de personas menores de dieciocho años de edad o de personas que
 
 X. Tráfico de menores, previsto en el artículo 366 Ter;
 
-XI. Contra la salud, previsto en los artículos 194, 195, 196 Bis, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero.
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+XI. Contra la salud, previsto en los artículos 194, 195, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero;
+
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+XII. Abuso o violencia sexual contra menores, previsto en los artículos 261 en relación con el 260;
+
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+XIII. Feminicidio, previsto en el artículo 325;
+
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+XIV. Robo a casa habitación, previsto en el artículo 381 Bis;
+
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+XV. Ejercicio abusivo de funciones, previsto en las fracciones I y II del primer párrafo del artículo 220, en relación con su cuarto párrafo;
+
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+XVI. Enriquecimiento ilícito previsto en el artículo 224, en relación con su séptimo párrafo, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+XVII. Robo al transporte de carga, en cualquiera de sus modalidades, previsto en los artículos 376 Ter y 381, fracción XVII.
 
 (NOTA: EL 24 DE NOVIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 130/2019 Y SU ACUMULADA 136/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -2140,7 +2168,17 @@ II. DEFRAUDACIÓN FISCAL Y SU EQUIPARABLE, DE CONFORMIDAD CON LO DISPUESTO EN LO
 
 III. LA EXPEDICIÓN, VENTA, ENAJENACIÓN, COMPRA O ADQUISICIÓN DE COMPROBANTES FISCALES QUE AMPAREN OPERACIONES INEXISTENTES, FALSAS O ACTOS JURÍDICOS SIMULADOS, DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO 113 BIS DEL CÓDIGO FISCAL DE LA FEDERACIÓN, EXCLUSIVAMENTE CUANDO LAS CIFRAS, CANTIDAD O VALOR DE LOS COMPROBANTES FISCALES, SUPEREN 3 VECES LO ESTABLECIDO EN LA FRACCIÓN III DEL ARTÍCULO 108 DEL CÓDIGO FISCAL DE LA FEDERACIÓN.
 
-El juez no impondrá la prisión preventiva oficiosa y la sustituirá por otra medida cautelar, únicamente cuando lo solicite el Ministerio Público por no resultar proporcional para garantizar la comparecencia del imputado en el proceso, el desarrollo de la investigación, la protección de la víctima y de los testigos o de la comunidad. Dicha solicitud deberá contar con la autorización del titular de la Procuraduría o el funcionario que en él delegue esa facultad.
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+El juez no impondrá la prisión preventiva oficiosa y la sustituirá por otra medida cautelar, únicamente cuando lo solicite el Ministerio Público por no resultar proporcional para garantizar la comparecencia del imputado en el proceso, el desarrollo de la investigación, la protección de la víctima y de los testigos o de la comunidad o bien, cuando exista voluntad de las partes para celebrar un acuerdo reparatorio de cumplimiento inmediato, siempre que se trate de alguno de los delitos en los que sea procedente dicha forma de solución alterna del procedimiento. La solicitud deberá contar con la autorización del titular de la Fiscalía o de la persona funcionaria en la cual delegue esa facultad.
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+Si la prisión preventiva oficiosa ya hubiere sido impuesta, pero las partes manifiestan la voluntad de celebrar un acuerdo reparatorio de cumplimiento inmediato, el Ministerio Público solicitará al juez la sustitución de la medida cautelar para que las partes concreten el acuerdo con el apoyo del Órgano especializado en la materia.
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+En los casos en los que la víctima u ofendido y la persona imputada deseen participar en un Mecanismo Alternativo de Solución de Controversias, y no sea factible modificar la medida cautelar de prisión preventiva, por existir riesgo de que el imputado se sustraiga del procedimiento o lo obstaculice, el o la Juez de Control podrá derivar el asunto al Órgano especializado en la materia, para promover la reparación del daño y concretar el acuerdo correspondiente.
 
 ###### Artículo 168.
 
@@ -6011,3 +6049,19 @@ D.O.F. 22 DE ENERO DE 2020.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Todas las referencias que hagan mención al Instituto de Administración de Bienes y Activos en las leyes y demás normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado.
+
+D.O.F. 19 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 167 DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, DE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, DE LA LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS, DE LA LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS, DEL CÓDIGO PENAL FEDERAL, DE LA LEY GENERAL DE SALUD, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA Y DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Tercero. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+Cuarto. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Quinto. La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
