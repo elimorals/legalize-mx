@@ -4,7 +4,7 @@ identifier: "LFAFE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-01-11"
-last_updated: "2015-11-12"
+last_updated: "2021-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=427&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAFE"
 
 LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2021.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 11 de enero de 1972.
 
@@ -802,11 +802,13 @@ Se suspenderá la licencia de portación de armas destinadas al deporte de tiro 
 
 Se cancelará la propia licencia cuando su tenedor infrinja alguno de los deberes que le señale esta Ley y su Reglamento, o cuando deje de pertenecer al Club o Asociación del que fuere miembro.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 81.
 
-Se sancionará con penas de dos a siete años de prisión y de cincuenta a doscientos días multa, a quien porte un arma de las comprendidas en los artículos 9 y 10 de esta Ley sin tener expedida la licencia correspondiente.
+Se sancionará con penas de tres a ocho años de prisión y de cien a cuatrocientos días multa, a quien porte un arma de las comprendidas en los artículos 9 y 10 de esta Ley sin tener expedida la licencia correspondiente.
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
 
 En caso de que se porten dos o más armas, la pena correspondiente se aumentará hasta en dos terceras partes.
 
@@ -864,9 +866,9 @@ Al que sin el permiso correspondiente posea un arma de uso exclusivo del Ejérci
 
 I. Con prisión de tres meses a un año y de uno a diez días multa, cuando se trate de las armas comprendidas en el inciso i) del artículo 11 de esta Ley;
 
-> <small>(REFORMADA D.O.F. 23 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2021)</small>
 
-II. Con prisión de uno a siete años y de veinte a cien días multa, cuando se trate de las armas comprendidas en los incisos a) y b) del artículo 11 de esta Ley, y
+II. Con prisión de cuatro a siete años y de cien a trescientos días multa, cuando se trate de las armas comprendidas en los incisos a) y b) del artículo 11 de esta Ley, y
 
 > <small>(REFORMADA D.O.F. 5 DE NOVIEMBRE DE 2003)</small>
 
@@ -878,7 +880,9 @@ ARTICULO 83 Quat (sic).- Al que posea cartuchos en cantidades mayores a las perm
 
 I. Con prisión de uno a cuatro años y de diez a cincuenta días multa, si son para las armas que están comprendidas en los artículos 9, 10 y 11, incisos a) y b), de esta Ley, y
 
-II. Con prisión de dos a seis años y de veinticinco a cien días multa, si son para las armas que están comprendidas en los restantes incisos del artículo 11 de esta Ley.
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+II. Con prisión de cuatro a siete años y de cien a trescientos días multa, si son para las armas que están comprendidas en los restantes incisos del artículo 11 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -886,7 +890,9 @@ ARTICULO 83 Quintus.- Al que de manera ilícita posea cargadores de cartuchos pa
 
 I.- Con prisión de uno a dos años y de cincuenta a cien días multa, cuando se trate de dos y hasta cinco cargadores.
 
-II.- Con prisión de dos a cinco años y de cien a doscientos días multa, cuando se trate de más de cinco cargadores.
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+II.- Con prisión de cuatro a ocho años y de doscientos a cuatrocientos días multa, cuando se trate de más de cinco cargadores.
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
 
@@ -983,6 +989,12 @@ Las demás infracciones a la presente Ley o su Reglamento, no expresamente previ
 ###### ARTICULO 91.
 
 Para la aplicación de la sanción pecuniaria en días multa, se estará a lo dispuesto en el artículo 29 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+###### ARTICULO 92.
+
+Los delitos previstos en los artículos 83, fracciones II y III; 83 Bis; 83 Ter, fracciones II y III; 83 Quat, fracción II; 84, y 85 Bis, fracción III de esta Ley, tratándose de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada o la Fuerza Aérea, ameritan prisión preventiva oficiosa.
 
 ## TRANSITORIOS
 
@@ -1101,3 +1113,19 @@ Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor de la
 D.O.F. 12 DE NOVIEMBRE DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 167 DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, DE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, DE LA LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS, DE LA LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS, DEL CÓDIGO PENAL FEDERAL, DE LA LEY GENERAL DE SALUD, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA Y DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Tercero. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+Cuarto. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Quinto. La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
