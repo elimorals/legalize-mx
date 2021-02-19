@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-estatal-anticorrupcion-para-el-estado-de-122442
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-06"
-last_updated: "2019-11-27"
+last_updated: "2021-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE NOVIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 4 DE OCTUBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 6 de julio de 2017.
 
@@ -259,11 +257,17 @@ Los integrantes del Comité de Selección serán nombrados conforme al siguiente
 
 El Pleno del Congreso del Estado emitirá una convocatoria para constituir un Comité de Selección, por un período de tres años, el cual estará integrado por nueve ciudadanos nuevoleonés, de la siguiente manera:
 
-I. Convocará a instituciones de educación superior y de investigación en el Estado, para proponer candidatos que integren el Comité de Selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la Constitución del Estado, esta Ley y la convocatoria, en un plazo no mayor a quince días, para seleccionar a cinco miembros basándose en los elementos decisorios que se hayan plasmado en la convocatoria y al procedimiento establecido en la Ley, tomándose en cuenta entre otros requisitos que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2021)</small>
 
-II. Convocará a organizaciones de la sociedad civil legalmente constituidas y agrupaciones profesionales en el Estado especializadas en materia de fiscalización, de rendición de cuentas y combate a la corrupción, para seleccionar a cuatro miembros, en los mismos términos del inciso anterior;
+I. Convocará a instituciones de educación superior y de investigación en el Estado, para proponer candidatos que integren el Comité de Selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la Constitución del Estado, esta Ley y la convocatoria, en un plazo no mayor a quince días, para seleccionar a cinco miembros basándose en los elementos decisorios que se hayan plasmado en la convocatoria y al procedimiento establecido en la Ley, tomándose en cuenta entre otros requisitos que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción. Para garantizar la paridad de género al seleccionar a los cinco miembros, no podrá seleccionarse a más de tres miembros del mismo género;
 
-III. La Comisión Anticorrupción del Congreso del Estado será la encargada de llevar a cabo el análisis de los candidatos, el desahogo de las entrevistas, y evaluación de los perfiles, con el fin de que de manera fundada y motivada elijan nueve propuestas de hasta tres candidatos cada una que cumplan con los requisitos constitucionales, legales y contenidos en la convocatoria; hecho lo anterior, remitirá la lista de las propuestas a la Oficialía Mayor del Congreso del Estado, a fin de que se publique en el portal de internet del Poder Legislativo, por lo menos dos días antes de ser remitidas al Pleno del Congreso del Estado;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2021)</small>
+
+II. Convocará a organizaciones de la sociedad civil legalmente constituidas y agrupaciones profesionales en el Estado especializadas en materia de fiscalización, de rendición de cuentas y combate a la corrupción, para seleccionar a cuatro miembros, en los mismos términos del inciso anterior, garantizando el principio de paridad de género;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE FEBRERO DE 2021)</small>
+
+III. La Comisión Anticorrupción del Congreso del Estado será la encargada de llevar a cabo el análisis de los candidatos, el desahogo de las entrevistas, y evaluación de los perfiles, con el fin de que de manera fundada y motivada elijan nueve propuestas de hasta tres candidatos cada una que cumplan con los requisitos constitucionales, legales y contenidos en la convocatoria, garantizando la paridad de género en los términos señalados en las fracciones anteriores; hecho lo anterior, remitirá la lista de las propuestas a la Oficialía Mayor del Congreso del Estado, a fin de que se publique en el portal de internet del Poder Legislativo, por lo menos dos días antes de ser remitidas al Pleno del Congreso del Estado;
 
 Para el cumplimiento de lo anterior, la convocatoria establecerá el procedimiento para que la Comisión Anticorrupción del Congreso del Estado, cuente con el apoyo técnico de un grupo ciudadano de acompañamiento.
 
@@ -273,7 +277,9 @@ Este grupo estará conformado por siete ciudadanos que deberán cumplir los mism
 
 El grupo ciudadano de acompañamiento, tendrá acceso a la información necesaria para llevar a cabo su función de apoyo de la Comisión de Anticorrupción en la designación del Comité de Selección.
 
-IV. El Pleno del Congreso del Estado, una vez que haya recibido la lista de propuestas de hasta tres candidatos referida en el inciso anterior, someterá cada una de ellas a votación de manera individual, con la finalidad de seleccionar de cada una a un integrante que conformará el Comité de Selección, el cual requerirá para su nombramiento el voto de al menos las dos terceras partes de los integrantes de la Legislatura;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2021)</small>
+
+IV. El Pleno del Congreso del Estado, una vez que haya recibido la lista de propuestas de hasta tres candidatos referida en el inciso anterior, someterá cada una de ellas a votación de manera individual, con la finalidad de seleccionar de cada una a un integrante que conformará el Comité de Selección, requerirán para su nombramiento el voto de al menos las dos terceras partes de los integrantes de la Legislatura.
 
 V. De no alcanzarse la votación a que se hace referencia en el inciso que antecede, se procederá a una segunda votación, esta vez entre aquellos candidatos que hayan obtenido más votos de cada una de las propuestas;
 
@@ -282,6 +288,16 @@ En caso de empate entre quienes no obtuvieron el mayor número de votos, habrá 
 Si en la segunda votación, no se obtiene el voto de las dos terceras partes de los integrantes de la Legislatura, se procederá a la insaculación de entre estos últimos candidatos.
 
 La insaculación a que se refiere este artículo se realizará conforme al procedimiento que se establezca en la convocatoria.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2021)</small>
+
+En la integración final de los nueve miembros del Comité de Selección, se garantizará la paridad de género en los términos de las fracciones I y II del presente artículo.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2021)</small>
+
+###### Artículo 16 Bis.
+
+En caso de que se generen vacantes en el Comité de Selección, se efectuará el proceso de selección de los nuevos integrantes quienes ocuparán el cargo por el tiempo restante de la vacante a ocupar. La convocatoria deberá de efectuarse en un plazo que no podrá exceder de treinta días naturales si el Congreso se encuentra en Período de Sesiones o en un Periodo Extraordinario o dentro de los primeros quince días del siguiente Período Ordinario, si se encontrare en Receso, lo anterior de conformidad con el procedimiento señalado en el artículo 16 de la presente Ley.
 
 ###### Artículo 17.
 
@@ -315,7 +331,9 @@ IX. No haber sido titular de los órganos constitucionalmente autónomos, estata
 
 X. No tener parentesco consanguíneo o de afinidad hasta el tercer grado con quienes sean integrantes de la Legislatura.
 
-Una vez conformado el Comité de Selección este se reunirá en Pleno y elegirá por mayoría simple a su Presidente y Secretario, sesionará al menos cada seis meses, teniendo la oportunidad de convocar de manera extraordinaria las veces que sea necesario, siempre y cuando así lo requiera y apruebe la mayoría de sus integrantes.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2021)</small>
+
+Una vez conformado el Comité de Selección este se reunirá en Pleno y elegirá por mayoría simple a su Presidente y Secretario. Al realizar cambios en la Presidencia del Comité de Selección, se garantizará la alternancia de género. El Comité de Selección sesionará al menos cada seis meses, teniendo la oportunidad de convocar de manera extraordinaria las veces que sea necesario, siempre y cuando así lo requiera y apruebe la mayoría de sus integrantes.
 
 Las sesiones del Comité de Selección serán públicas y podrán solicitar mediante acuerdo aprobado de sus integrantes, el apoyo necesario al Congreso del Estado para realizar sus funciones.
 
@@ -339,17 +357,23 @@ La renovación de los integrantes del Comité de Participación Ciudadana se lle
 
 Los integrantes del Comité de Participación Ciudadana, no tendrán relación laboral alguna por virtud de su encargo con la Secretaría Ejecutiva. El vínculo legal con la misma, así como su contraprestación, serán establecidos a través de contratos de prestación de servicios por honorarios, en los términos que determine el órgano de gobierno, por lo que no gozarán de prestaciones, garantizando así la objetividad en sus aportaciones a la Secretaría Ejecutiva.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2021)</small>
 
-Para determinar la cantidad correspondiente a la contraprestación señalada en el párrafo anterior, los integrantes del pleno del órgano de gobierno aprobarán mediante el voto favorable de al menos su mayoría, el monto de la percepción de honorarios el cual deberá ser siempre menor al salario recibido por el Titular del Poder Ejecutivo. Los tres integrantes del Comité de Participación Ciudadana que conforman el órgano de gobierno deberán abstenerse de la votación antes señalada.
+Para determinar la cantidad correspondiente a la contraprestación señalada en el párrafo anterior, los integrantes del pleno del órgano de gobierno aprobarán mediante el voto favorable de al menos su mayoría, el monto de la percepción de honorarios el cual deberá ser siempre menor, en los términos establecidos en la Ley de Remuneraciones de los Servidores Públicos del Estado de Nuevo León, al sueldo recibido por el Titular del Poder Ejecutivo. Los tres integrantes del Comité de Participación Ciudadana que conforman el órgano de gobierno deberán abstenerse de la votación antes señalada.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE FEBRERO DE 2021)</small>
 
 Los integrantes del Comité de Participación Ciudadana no podrán ocupar, durante el tiempo de su gestión, un empleo, cargo o comisión de cualquier naturaleza en los gobiernos federal, estatal o municipal, ni cualquier otro empleo que les impida el libre ejercicio de los servicios que prestarán al Comité de Participación Ciudadana y a la Comisión Ejecutiva.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE FEBRERO DE 2021)</small>
+
 Los integrantes del Comité de Participación Ciudadana estarán sujetos al régimen de responsabilidades que determine el artículo 105 de la Constitución Política del Estado Libre y Soberano de Nuevo León.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE FEBRERO DE 2021)</small>
 
 En relación con el párrafo anterior, le serán aplicables las obligaciones de confidencialidad, secrecía, resguardo de información, y demás aplicables por el acceso que llegaren a tener a las plataformas digitales de la Secretaría Ejecutiva y demás información de carácter reservado y confidencial.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 19 DE FEBRERO DE 2021)</small>
 
 Las faltas a las obligaciones mencionadas en el párrafo anterior, las señaladas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León y aquellas ausencias que por más de tres veces en un bimestre sin causa justificada realicen los integrantes del Comité de Participación Ciudadana serán causa de su remoción. Esta se efectuará mediante la aprobación de sesión extraordinaria misma que será notificada y en la cual se le hará de conocimiento el tema a tratar para que alegue lo que a derecho convenga; por consecuencia se le otorgará el derecho de audiencia en la fecha que se señale; en caso de inasistencia, se darán por ciertas las presuntas faltas y sin más preámbulo se pasará a la votación; de lo contrario se escuchará al presunto responsable y se someterá su versión a la opinión de cada integrante del Comité, quienes expondrán los motivos por los cuales emiten su voto a favor o en contra de la remoción. Una vez determinada la votación se levantará acta de lo acontecido y se notificará al interesado.
 
@@ -399,7 +423,9 @@ e) Podrán efectuarse audiencias públicas en las que se invitará a participar 
 
 f) El plazo en que se deberá hacer la designación que al efecto se determine, y que se tomará, en sesión pública, por el voto de la mayoría de sus miembros.
 
-En caso de que se generen vacantes imprevistas, el proceso de selección del nuevo integrante no podrá exceder el límite de noventa días y el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2021)</small>
+
+En la integración del Comité de Participación Ciudadana se garantizará la paridad de género, para lo cual no se podrá contar con más de tres miembros del mismo género. En caso de que se generen vacantes imprevistas, el proceso de selección del nuevo integrante no podrá exceder el límite de noventa días y el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar, garantizándose la paridad de género en el proceso de selección del nuevo integrante.
 
 Para elegir a cada integrante que conformará el Comité de Participación Ciudadana, el Comité de Selección deberá emitir un dictamen que contendrá el resultado de la evaluación efectuad (sic) y la propuesta o propuestas de candidatos, donde se incluirá el resultado de la evaluación de los demás candidatos registrados.
 
@@ -407,9 +433,11 @@ La votación del integrante o integrantes propuestos en el dictamen se llevará 
 
 Lo anterior quedará plasmado en un acta que contendrá además la propuesta de sustitución tomando en consideración a los candidatos no elegidos y a quienes se encuentren dentro de los mejores diez evaluados, y se pasarán a votación, en caso de no obtener el voto de la mayoría, se efectuará mediante insaculación la elección de el o los integrantes que faltaren para conformar el Comité de Participación Ciudadana. La insaculación será conformada por los participantes que hayan reunido los requisitos para ser candidatos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 25.
 
-Los integrantes del Comité de Participación Ciudadana que conforman el Comité Coordinador, se rotarán anualmente la presidencia atendiendo lo señalado en el artículo 11 de esta Ley y la antigüedad que tengan en el Comité de Participación Ciudadana.
+Los integrantes del Comité de Participación Ciudadana que conforman el Comité Coordinador, se rotarán anualmente la presidencia atendiendo lo señalado en el artículo 11 de esta Ley y la antigüedad que tengan en el Comité de Participación Ciudadana. En la rotación de la presidencia se garantizará la alternancia de género.
 
 De presentarse la ausencia temporal del representante, el Comité de Participación Ciudadana nombrará de entre sus miembros a quien deba sustituirlo durante el tiempo de su ausencia. Esta suplencia no podrá ser mayor a dos meses. En caso de que la ausencia sea mayor, ocupará su lugar por un periodo máximo de dos meses el miembro al cual le correspondería el periodo anual siguiente y así sucesivamente.
 
@@ -880,3 +908,17 @@ P.O. 4 DE OCTUBRE DE 2019.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Los ayuntamientos dispondrán de un plazo de hasta de noventa días naturales posteriores a la entrada en vigor del presente decreto para homologar sus respectivos Reglamentos.
+
+P.O. 19 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 447. SE REFORMAN LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO, Y SE ADICIONA UN SEXTO PÁRRAFO AL ARTÍCULO 22 DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 448. SE REFORMAN LAS FRACCIONES I, II, III, Y IV DEL ARTÍCULO 16, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 18, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 24 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 25; POR ADICIÓN DE UN ÚLTIMO PÁRRAFO AL ARTÍCULO 16 Y UN ARTÍCULO 16 BIS, TODOS DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN PARA EL ESTADO DE NUEVO LEÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
