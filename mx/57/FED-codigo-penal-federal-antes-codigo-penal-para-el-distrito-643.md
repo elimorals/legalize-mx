@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2020-07-01"
+last_updated: "2021-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -27,7 +27,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2021.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -2281,11 +2281,11 @@ El reo suspenso en su profesión u oficio, o inhabilitado para ejercerlos, que q
 
 ### CAPITULO III. Armas prohibidas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 160.
 
-A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que sólo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales o recreativas, se le impondrá prisión de tres meses a tres años o de 180 a 360 días multa y decomiso.
+A quien porte, fabrique, importe, venda o acopie sin un fin lícito o con la intención de agredir, instrumentos que puedan ser utilizados para el ataque o la defensa, se le impondrá prisión de uno a seis años y de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización, así como el decomiso.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -2305,11 +2305,11 @@ Se necesita licencia especial para portación o venta de las pistolas o revólve
 
 Se aplicará de seis meses a tres años de prisión o de 180 a 360 días multa y decomiso:
 
-I.- Al que importe, fabrique o venda las armas enumeradas en el artículo 160; o las regale o trafique con ellas;
+I.- (DEROGADA, D.O.F. 19 DE FEBRERO DE 2021)
 
 II.- Al que ponga a la venta pistolas o revólveres, careciendo del permiso necesario;
 
-III.- Al que porte una arma de las prohibidas en el artículo 160;
+III.- (DEROGADA, D.O.F. 19 DE FEBRERO DE 2021)
 
 IV.- Al que, sin un fin lícito o sin el permiso correspondiente, hiciere acopio de armas, y
 
@@ -6551,6 +6551,10 @@ V. Dañe algún ejemplar de las especies de flora o fauna silvestres, terrestres
 
 Se aplicará una pena adicional hasta de tres años más de prisión y hasta mil días multa adicionales, cuando las conductas descritas en el presente artículo se realicen en o afecten un área natural protegida, o cuando se realicen con fines comerciales.
 
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+En los casos previstos en la fracción IV del presente artículo y la fracción X del artículo 2o. de la Ley Federal contra la Delincuencia Organizada, se impondrá la pena de cinco a quince años de prisión y el equivalente de tres mil a seis mil días multa cuando se trate de algún ejemplar, partes, derivados, productos o subproductos de la especie totoaba macdonaldi.
+
 > <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ARTICULO 420 bis.- Se impondrá pena de dos a diez años de prisión y por el equivalente de trescientos a tres mil días multa, a quien ilícitamente:
@@ -8340,3 +8344,19 @@ D.O.F. 1 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL FEDERAL”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 167 DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, DE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, DE LA LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS, DE LA LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS, DEL CÓDIGO PENAL FEDERAL, DE LA LEY GENERAL DE SALUD, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA Y DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Tercero. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+Cuarto. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Quinto. La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
