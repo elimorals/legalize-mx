@@ -4,7 +4,7 @@ identifier: "LGMDE"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-05-23"
-last_updated: "2020-04-13"
+last_updated: "2021-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100931&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGMDE"
 
 LEY GENERAL EN MATERIA DE DELITOS ELECTORALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2021.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el viernes 23 de mayo de 2014.
 
@@ -116,6 +116,10 @@ Tratándose de servidores públicos que cometan cualquiera de los delitos previs
 
 Las penas previstas en los delitos de este Título se aplicarán con independencia de la sanción establecida para los tipos penales que concurran en la comisión de los delitos previstos en esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+La persona juzgadora ordenará la prisión preventiva oficiosa tratándose de los delitos previstos en los artículos 7, fracción VII, párrafo tercero; 7 Bis; 11, fracción II; 11 Bis y 20, fracción II, de esta Ley, cuando se encuentren relacionados con el uso de programas sociales con fines electorales.
+
 ### CAPÍTULO II. Delitos en Materia Electoral
 
 ###### Artículo 7.
@@ -179,6 +183,12 @@ XIX. Expida o utilice facturas o documentos comprobatorios de gasto de partido p
 XX. Usurpe el carácter de funcionario de casilla, o
 
 XXI. Provea bienes y servicios a las campañas electorales sin formar parte del padrón de proveedores autorizado por el órgano electoral administrativo.
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+###### Artículo 7 Bis.
+
+Se impondrá de trescientos a seiscientos días multa y prisión de cuatro a nueve años a quien, utilizando bienes, fondos, servicios o beneficios relacionados con programas sociales, ejerza cualquier tipo de presión sobre el electorado para votar o abstenerse de votar por una o un candidato, partido político o coalición, o bien para participar o abstenerse de participar en eventos proselitistas, o para votar o abstenerse de votar por alguna opción durante el procedimiento de consulta popular.
 
 ###### Artículo 8.
 
@@ -267,6 +277,12 @@ IV. Proporcione apoyo o preste algún servicio a un precandidato, partido polít
 V. Solicite a sus subordinados, por cualquier medio, aportaciones de dinero o en especie para apoyar a un precandidato, candidato, partido político, coalición o agrupación política, o
 
 VI. Se abstenga de entregar o niegue, sin causa justificada, la información que le sea solicitada por la autoridad electoral competente, relacionada con funciones de fiscalización.
+
+> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2021)</small>
+
+###### Artículo 11 Bis.
+
+Se impondrá de quinientos a mil días multa y prisión de cuatro a nueve años, a la servidora o servidor público que, durante el proceso electoral, use o permita el uso de los recursos públicos, bienes, fondos, servicios, o beneficios relacionados con programas sociales con la finalidad de incidir en el electorado para posicionarse o posicionar ante el electorado a distinta o distinto servidor público, precandidato, aspirante a candidato independiente, candidato, partido político o coalición.
 
 ###### Artículo 12.
 
@@ -473,3 +489,19 @@ D.O.F. 13 DE ABRIL DE 2020.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como a la disponibilidad presupuestaria de cada una de ellas para el ejercicio fiscal que corresponda, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
+
+D.O.F. 19 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 167 DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, DE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, DE LA LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS, DE LA LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS, DEL CÓDIGO PENAL FEDERAL, DE LA LEY GENERAL DE SALUD, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA Y DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Tercero. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+Cuarto. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Quinto. La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
