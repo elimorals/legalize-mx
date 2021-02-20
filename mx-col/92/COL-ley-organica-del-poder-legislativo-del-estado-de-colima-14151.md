@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2020-12-19"
+last_updated: "2021-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -691,11 +691,11 @@ El Presidente de la Directiva podrá ser removido por el Congreso cuando de mane
 
 DE LOS SECRETARIOS.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 44.
 
-La Secretaría es el órgano auxiliar de la directiva y se integrará con dos Secretarios y dos Suplentes de éstos, que al igual que el Presidente y Vicepresidente serán electos por mayoría, en votación secreta; cuando se determine que la sesión respectiva se celebre en línea, la votación para tal efecto será nominal.
+La Secretaría es el órgano auxiliar de la directiva y se integrará con dos Secretarios y dos Suplentes de éstos, que al igual que el Presidente y Vicepresidente serán electos por mayoría, en votación secreta; cuando se determine que la sesión respectiva se celebre en alguna de las modalidades previstas en el Capítulo X Bis del Reglamento, la votación para tal efecto será nominal.
 
 ###### ARTICULO 45.
 
@@ -777,11 +777,11 @@ ARTICULO 47 BIS.- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 Las resoluciones de la Comisión de Gobierno Interno serán tomadas por mayoría. Cada Coordinador tendrá los votos que correspondan al número de Diputados que formen parte de su grupo parlamentario; el voto de cada Diputada o Diputado Único se computará como un solo voto.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 49.
 
-La Comisión de Gobierno Interno deberá reunirse cuando menos cuatro veces al mes durante los períodos ordinarios y, fuera de estos, cuando sea necesario, pudiendo hacerlo en forma presencial o en línea; en el segundo de los supuestos, deberá observarse lo dispuesto en el artículo 121 Bis del Reglamento. Las reuniones ordinarias serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión; en el caso de las reuniones extraordinarias, la convocatoria deberá expedirse con al menos 06 horas de anticipación, pudiendo reunirse en cualquier tiempo, siempre que estén presentes la totalidad de sus integrantes. Sus trabajos los desarrollará de conformidad con lo establecido por esta Ley y su Reglamento en lo relativo a las comisiones legislativas.
+La Comisión de Gobierno Interno deberá reunirse cuando menos cuatro veces al mes durante los períodos ordinarios y, fuera de estos, cuando sea necesario, pudiendo hacerlo en forma presencial o en las modalidades previstas en el Capítulo X Bis del Reglamento. Las reuniones ordinarias serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión; en el caso de las reuniones extraordinarias, la convocatoria deberá expedirse con al menos 06 horas de anticipación, pudiendo reunirse en cualquier tiempo, siempre que estén presentes la totalidad de sus integrantes. Sus trabajos los desarrollará de conformidad con lo establecido por esta Ley y su Reglamento en lo relativo a las comisiones legislativas.
 
 ###### ARTICULO 50.
 
@@ -1229,9 +1229,9 @@ La sesión se considera como el tiempo de reunión, necesario y efectivo que por
 
 Las sesiones del Congreso serán: ordinarias o extraordinarias, podrán ser públicas o secretas, permanentes, solemnes, de jurado de acusación o de declaración de procedencia.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
-El Congreso y la Comisión Permanente podrán desarrollar sesiones en línea, conforme lo establecido en el Capítulo X BIS del Reglamento, denominado DE LAS SESIONES EN LÍNEA.
+El Congreso y las Comisiones Permanentes podrán desarrollar sesiones, conforme a lo establecido en el Capítulo X BIS del Reglamento.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -1657,9 +1657,9 @@ Cuando el Congreso sea convocado a sesión o período extraordinario, al inicio 
 
 La Comisión permanente sesionará por lo menos una vez por semana pudiendo diferirlas previo acuerdo de la Comisión de Gobierno y el Presidente de la Comisión Permanente. Para que puedan instalarse válidamente las sesiones de la Comisión Permanente, se requiere la asistencia de la mayoría de los integrantes.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
-Las sesiones de la Comisión Permanente podrán celebrarse en línea, en términos de lo dispuesto en el artículo 121 Bis del Reglamento.
+Las sesiones de la Comisión Permanente podrán celebrarse, conforme a lo establecido en el Capítulo X BIS del Reglamento.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1968,5 +1968,11 @@ El presente Decreto entrara en vigor al momento de su aprobación y deberá publ
 P.O. 19 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 394.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y DE SU REGLAMENTO”.]
+
+ÚNICO. El presente decreto entrará en vigor al momento de su aprobación y será publicado en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 20 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 418.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO Y SE REFORMAN, MODIFICAN Y DEROGAN DIVERSAS DISPOSICIONES DE SU REGLAMENTO”.]
 
 ÚNICO. El presente decreto entrará en vigor al momento de su aprobación y será publicado en el Periódico Oficial “El Estado de Colima”.
