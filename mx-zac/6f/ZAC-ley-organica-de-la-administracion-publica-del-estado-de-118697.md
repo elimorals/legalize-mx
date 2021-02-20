@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-118697"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-11-30"
-last_updated: "2021-02-06"
+last_updated: "2021-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento 3 al Número 96 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de noviembre de 2016.
 
@@ -155,11 +155,19 @@ VIII. Designar a los titulares de los Órganos Internos de Control de la Adminis
 
 IX. Las demás que expresamente le confieran esta Ley y las diversas leyes del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 15.
 
-En cada una de las Dependencias y Entidades habrá un Órgano Interno de Control cuya actuación se regirá bajo los principios señalados en la Constitución Local y en la Ley General de Responsabilidades Administrativas.
+Las Dependencias y Entidades contarán con Órganos Internos de Control con las facultades que determine la Constitución Federal, la Constitución local y la Ley General de Responsabilidades Administrativas para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas y sancionar aquéllas que sean de su competencia; así como revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos y presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
+Los Órganos Internos de Control de la administración pública estatal dependerán orgánica y funcionalmente de la Secretaría de la Función Pública y su actuación se sujetará a los criterios y lineamientos que ésta emita.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
+En las Dependencias y Entidades donde no exista la designación de un Órgano Interno de Control, la Secretaría de la Función Pública asumirá las atribuciones a que se refiere el párrafo primero.
 
 ### CAPÍTULO II. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
@@ -631,9 +639,13 @@ XXIV. Informar periódicamente al Gobernador y al Comité Coordinador del Sistem
 
 XXV. Emitir las normas para la entrega-recepción de las unidades administrativas de las Dependencias y Entidades; así como vigilar el cumplimiento de las formalidades de dicho acto en términos de la Ley de Entrega Recepción del Estado y Municipios de Zacatecas;
 
-XXVI. Emitir su opinión, previo a la designación que haga el Ejecutivo de los Titulares de los Órganos de Control Interno de las Dependencias y Entidades;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-XXVII. Coordinar a los Órganos Internos de Control de las Dependencias y Entidades;
+XXVI. Proponer al Ejecutivo las designaciones de los Titulares de los Órganos Internos de Control y de las áreas de auditoría, investigación y sustanciación que correspondan;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXVII. Coordinar a los Órganos Internos de Control de la administración pública estatal;
 
 XXVIII. Designar y remover libremente a los auditores externos y comisarios públicos ante las Dependencias y Entidades, previa autorización del Gobernador, así como normar y controlar su actividad y desempeño;
 
@@ -643,9 +655,11 @@ XXX. Designar y remover para el mejor desarrollo del Sistema de Control y Evalua
 
 XXXI. Coordinarse con la Auditoría Superior del Estado, los Órganos de Control Interno de las Dependencias y Entidades; la Fiscalía General de Justicia del Estado, los municipios y las demás autoridades que integren el Sistema Estatal Anticorrupción, en términos de la ley en la materia;
 
-XXXII. Asesorar y apoyar en lo que fuere requerido a los Órganos de Control Interno de las Dependencias y Entidades;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-XXXIII. Asesorar en lo que fuere requerido a los Órganos de Control Interno de las Dependencias y Entidades;
+XXXII. Asesorar y apoyar en lo que fuere requerido a los Órganos Internos de Control de la administración pública estatal; así como emitir los lineamientos generales a que sujetarán su actuación;
+
+XXXIII. (DEROGADA, P.O. 20 DE FEBRERO DE 2021)
 
 XXXIV. Apoyar a los ayuntamientos, a petición de éstos, en la implementación de sistemas, órganos de control, evaluación municipal y orientarlos sobre el manejo de los recursos que les transfieran los gobiernos federal y estatal, con el propósito de lograr el ejercicio eficiente, oportuno y honesto de dichos recursos;
 
@@ -1804,3 +1818,9 @@ Artículo cuarto. Dentro de los noventa días siguientes a la entrada en vigor d
 Artículo quinto. Para los efectos de las consideraciones vertidas en el apartado de Valoración de la iniciativa, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizarse la reforma a la Ley Orgánica de la Administración Pública del Estado, la Ley del Sistema Estatal de Seguridad Pública de Zacatecas y otras disposiciones legales, para que el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, forme parte de la Secretaría de Seguridad Pública.
 
 Artículo sexto. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 20 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 614.- REFORMAS Y ADICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS".]
+
+Artículo único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno de Zacatecas.
