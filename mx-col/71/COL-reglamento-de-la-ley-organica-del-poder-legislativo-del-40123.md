@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2020-12-19"
+last_updated: "2021-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2021.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -111,9 +111,9 @@ En el caso de que la Asamblea determine sesionar en un lugar diferente al de su 
 
 De igual manera, por causas justificadas y por votación de la mayoría calificada de sus integrantes, podrá cambiar temporalmente el lugar de residencia del Congreso. Este cambio deberá hacerse por Decreto, en el que se señalarán las causas y de ser ello posible, su término de duración.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
-La Asamblea podrá celebrar sesiones ordinarias o extraordinarias en línea, cuando así lo determine la Comisión de Gobierno Interno, conforme lo establecido en el Capítulo X BIS del Reglamento, denominado DE LAS SESIONES EN LÍNEA.
+La Asamblea podrá celebrar sesiones ordinarias o extraordinarias en línea o en modalidad mixta, cuando así lo determine la Comisión de Gobierno Interno, conforme lo establecido en el Capítulo X BIS del Reglamento.
 
 ###### Artículo 5º.
 
@@ -325,9 +325,9 @@ b).- La Comisión Instaladora por conducto de la Secretaría, informará a los D
 
 c).- Uno de los Secretarios pasará lista de asistencia de los Diputados electos e informará al Presidente, de cuántos están presentes y cuántos ausentes y si existe por parte de estos últimos, alguna justificación, informando, en su caso, si fueron debidamente citados para que asistieran a ese acto;
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
-d).- El Presidente instruirá a los Diputados electos para que en votación secreta y por mayoría simple, procedan a elegir una Directiva Provisional que estará integrada por un Presidente y dos Secretarios; cuando se determine que la sesión se celebre en línea, la votación para tal efecto será nominal;
+d).- El Presidente instruirá a las Diputadas y los Diputados electos para que en votación secreta y por mayoría simple, procedan a elegir una Directiva Provisional que estará integrada por un Presidente y dos Secretarios; cuando se determine que la sesión se celebre en línea o en modalidad mixta, la votación para tal efecto será nominal;
 
 e).- Depositados los votos en la urna que para el efecto se coloque en la mesa del Presidium, los Secretarios de la Comisión Instaladora, procederán al escrutinio de los mismos y comunicarán el resultado al Presidente para los efectos reglamentarios respectivos;
 
@@ -547,11 +547,11 @@ En caso de cambio del Coordinador del Grupo Parlamentario que presida la Comisi�
 
 Tendrán derecho a voz y voto los Coordinadores de los Grupos Parlamentarios o sus Suplentes acreditados y los Diputados Únicos; los Diputados que, sin ser parte de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, asistan a las sesiones de ésta, tendrán exclusivamente derecho a voz.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 40.
 
-La Comisión de Gobierno se reunirá por lo menos cuatro veces al mes, durante los períodos ordinarios de sesiones; y fuera de éstos las veces que sean necesarias, pudiendo ser en forma presencial o en línea. Las reuniones serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión y contendrán la propuesta de asuntos a tratar en el orden del día.
+La Comisión de Gobierno se reunirá por lo menos cuatro veces al mes, durante los períodos ordinarios de sesiones; y fuera de éstos las veces que sean necesarias, pudiendo ser en forma presencial o en los términos previstos en el Capítulo X BIS del Reglamento. Las reuniones serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión y contendrán la propuesta de asuntos a tratar en el orden del día.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -1415,11 +1415,11 @@ VI.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y dispo
 
 La Comisión de Vigilancia del Órgano Superior de Auditoria y Fiscalización Gubernamental del Estado, tendrá las facultades previstas en la Ley de la materia.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 69.
 
-Los Diputados que se interesen en participar en el estudio, análisis y dictamen de algún asunto en particular, podrán asistir a las reuniones de las Comisiones, o participar en estas cuando se desarrollen en línea, teniendo en ambos casos la posibilidad de intervenir con voz, pero sin voto en los trabajos respectivos.
+Las Diputadas y los Diputados que se interesen en participar en el estudio, análisis y dictamen de algún asunto en particular, podrán asistir a las reuniones de las Comisiones, o participar en estas cuando se desarrollen en los términos previstos en el Capítulo X BIS del Reglamento, teniendo en ambos casos la posibilidad de intervenir con voz, pero sin voto en los trabajos respectivos.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -1433,19 +1433,19 @@ Los Diputados que tengan algún interés personal o que interese de la misma man
 
 Las reuniones de las Comisiones podrán ser públicas o privadas, según lo estimen conveniente los integrantes de la Comisión o Comisiones en conjunto. Asimismo, podrán celebrarse reuniones de información y audiencia con representantes de grupos sociales interesados en el tema, peritos y personas que por sus conocimientos puedan aportar datos de interés sobre la materia en estudio, debiéndose extender invitación expresa. También podrán convocar a foros de consulta pública para tal finalidad.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
-Cuando así lo determine la Comisión de Gobierno Interno, en términos de lo dispuesto en el artículo 121 Bis de este Reglamento, las sesiones de las Comisiones podrán ser en línea.
+Las sesiones y reuniones de las Comisiones Legislativas, podrán desarrollarse en los términos previstos en el Capítulo X BIS del Reglamento, sin requerir para ello acuerdo de la Comisión de Gobierno Interno, bastará que su presidente en la convocatoria respectiva señale la modalidad en que se desahogará la misma, en los términos del capítulo referido.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
-Los asesores de los Diputados que concurran a las reuniones podrán tener voz, sólo cuando estos últimos se encuentren presentes o cuando la Comisión responsable así lo permita.
+Los asesores de las Diputadas y los Diputados que concurran a las reuniones podrán tener voz, sólo cuando estos últimos se encuentren presentes o cuando la Comisión responsable así lo permita.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 72.
 
-Las Comisiones tomarán sus decisiones por mayoría de votos de sus miembros, el cual podrán emitir mediante firma electrónica y, en caso de empate, sus Presidentes tendrán voto de calidad. Si alguno de los integrantes de la Comisión no estuviere de acuerdo con la decisión de la mayoría, podrá expresar su voto particular por escrito, debiendo anexarse al dictamen de la mayoría.
+Las Comisiones tomarán sus decisiones por mayoría de votos de sus miembros, el cual, en el caso de que la sesión se lleve a cabo en línea o en modalidad mixta, deberá de hacerse de forma nominal o mediante firma electrónica, y, en caso de empate, sus Presidentes tendrán voto de calidad. Si alguno de los integrantes de la Comisión no estuviere de acuerdo con la decisión de la mayoría, podrá expresar su voto particular por escrito, debiendo anexarse al dictamen de la mayoría.
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1775,9 +1775,11 @@ XII.- Programar y ejecutar las adquisiciones de bienes y servicios que requiera 
 
 XIII.- Encargarse de las labores de mantenimiento, limpieza, desinfección y fumigación;
 
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-XIV.- Por conducto de los órganos de apoyo técnico y sus auxiliares del Congreso, brindar el apoyo técnico y el soporte necesario para las sesiones en línea, considerando el desarrollo, en su caso, de una plataforma para su realización; y
+XIV.- Por conducto de los órganos de apoyo técnico y sus auxiliares del Congreso, brindar el apoyo técnico y el soporte necesario para las sesiones previstas en el Capítulo X BIS del Reglamento, considerando el desarrollo, en su caso, de una plataforma para su realización; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE FEBRERO DE 2021)</small>
 
 XV.- Las demás que le señalen este ordenamiento, la Asamblea, la Directiva o la Comisión de Gobierno.
 
@@ -2175,39 +2177,79 @@ Por separado, en el Diario de los Debates se asentará la trascripción literal 
 
 El Presidente del Congreso abrirá y cerrará las sesiones ordinarias con la siguiente fórmula: "SE ABRE LA SESIÓN" o "SE LEVANTA LA SESIÓN", las sesiones extraordinarias se abrirán por el Presidente con la fórmula señalada en el párrafo anterior y se clausurarán al desahogarse los puntos del orden del día. Cuando el Presidente pronuncie las fórmulas a que se refiere este artículo permanecerá sentado y sólo deberán ponerse de pie los Diputados y el público en general.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE FEBRERO DE 2021)</small>
 
-### CAPÍTULO X BIS. DE LAS SESIONES EN LÍNEA
+### CAPÍTULO X BIS. DE LAS SESIONES EN LÍNEA Y MIXTAS
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2021)</small>
 
-###### Artículo 121 Bis.
+###### Artículo 121 Bis 1.
 
-Las sesiones y reuniones del Pleno del Congreso del Estado, de la Comisión Permanente, de la Comisión de Gobierno Interno y de las Comisiones Legislativas Permanentes, en los casos que así se determine, podrán celebrarse en línea, por acuerdo de la Comisión de Gobierno Interno, en los siguientes casos:
+Las sesiones y reuniones del Pleno del Congreso del Estado, de la Comisión Permanente, y de la Comisión de Gobierno Interno, podrán celebrarse en línea o en modalidad mixta, por acuerdo de la Comisión de Gobierno Interno, en los siguientes casos:
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2020)</small>
 
 I. Por causa de una contingencia, pandemia, estado de emergencia o excepción, así declarado por una autoridad competente;
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2020)</small>
+
 II. Por causas de fuerza mayor plenamente justificadas, que serán determinadas por la Comisión de Gobierno Interno; y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2020)</small>
 
 III. Por los efectos de un fenómeno natural que, a juicio de la Comisión de Gobierno Interno, representen un peligro.
 
-Esta modalidad será extraordinaria y se llevará únicamente en los casos y bajo las condiciones señaladas en la normatividad aplicable.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+Esta modalidad será extraordinaria y se llevará únicamente en los casos y bajo las condiciones señaladas en el presente capítulo.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
+Las sesiones y reuniones de las Comisiones Legislativas, no requerirán acuerdo de la Comisión de Gobierno Interno, bastará que su presidente en la convocatoria respectiva señale la modalidad en que se desahogará la misma, en los términos del presente capítulo.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
+###### Artículo 121 Bis 2.
+
+Las Diputadas y los Diputados que, por cualquier situación relacionada con la contingencia sanitaria, no puedan concurrir de manera física a las sesiones del Pleno, podrán hacerlo de manera virtual, entendiéndose que dichas sesiones adoptarán una modalidad mixta.
+
+Son situaciones relacionadas con la contingencia sanitaria las siguientes:
+
+I. Encontrarse en cuarentena médica;
+
+II. Pertenecer a un grupo físicamente vulnerable, de conformidad a los Criterios para las poblaciones en situación de vulnerabilidad que pueden desarrollar una complicación o morir por COVID-19 en la reapertura de actividades económicas en los centros de trabajo.
+
+Veinticuatro horas antes de la celebración de las sesiones, los grupos parlamentarios informarán a la Mesa Directiva, los nombres de las Diputadas y los Diputados que participarán en éstas presencialmente y cuáles lo harán mediante las plataformas digitales.
+
+Para la conducción de las sesiones, los integrantes de la Mesa Directiva estarán presentes en el Salón de Sesiones durante toda su duración.
+
+El registro de asistencia será tomado mediante el pase de lista de las Diputadas y los Diputados para el registro de asistencia o votación.
+
+Durante la sesión, las Diputadas y los Diputados que concurran de manera remota deberán mantener siempre abierto su sistema de video mientras participan en el debate. Su micrófono solo será habilitado cuando intervengan en el debate de los asuntos a discusión. Para solicitar su intervención, la diputada o el diputado que desee hacerlo, deberá comunicarlo por medio de la función escrita de la plataforma digital.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 121 Ter.
 
-Para llevar a cabo las sesiones en línea, la Comisión de Gobierno Interno deberá realizar el acuerdo correspondiente y notificar a cada diputada y diputado la plataforma que se utilizará, la forma de acceso y uso de la misma, así como la metodología de las sesiones.
+Para llevar a cabo las sesiones en línea o en modalidad mixta, la Comisión de Gobierno Interno deberá realizar el acuerdo correspondiente y notificar a cada diputada y diputado la plataforma que se utilizará, la forma de acceso, así como la metodología de las sesiones.
 
-Todas las notificaciones y envío de documentos que soliciten las y los diputados se les harán llegar a (sic) por medio de su dirección de correo electrónico que cada integrante de la Legislatura tenga registrada en la Dirección de Proceso Legislativo de este Congreso.
+Todas las notificaciones y envío de documentos que soliciten las Diputadas y los Diputados se les harán llegar por medio de su dirección de correo electrónico que cada integrante de la Legislatura tenga registrada en la Dirección de Proceso Legislativo de este Congreso.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 121 Quater.
 
-Las determinaciones de la Asamblea o de las Comisiones se tomarán bajo las mismas condiciones que en las sesiones presenciales, salvo la votación, que deberá ser invariablemente en forma nominal, de viva voz, siguiendo el orden del apellido paterno de cada diputada o diputado y, en su caso, mediante firma electrónica.
+Los procedimientos y prácticas parlamentarias de las sesiones de la Asamblea o de las Comisiones, se desarrollarán en los mismos términos de las sesiones presenciales, salvo la votación, que deberá ser invariablemente en forma nominal, de viva voz, siguiendo el orden del apellido paterno de cada diputada o diputado y, en su caso, mediante firma electrónica.
 
-Para su envío al Ejecutivo o a la entidad que corresponda, la Oficialía Mayor deberá tomar las providencias necesarias para recabar las rúbricas del Presidente y Secretarios o, en su caso, la correspondiente firma electrónica.
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
+El registro de asuntos para configurar el Orden del Día de las sesiones se llevará a cabo en los términos reglamentarios.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
+La documentación, las actas, así como todas aquellas determinaciones que sean tomadas por la Asamblea en sesiones en línea o en esquema mixto, deberán constar en documento impreso con firma autógrafa del Presidente y Secretarios, según corresponda.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
 
 Para la presentación de iniciativas, estas se deberán enviar con la anticipación debida por correo electrónico a la Dirección de Proceso Legislativo, que las remitirá a cada diputada y diputado, quienes podrán hacer uso de la voz para la lectura del extracto correspondiente.
 
@@ -2217,25 +2259,35 @@ Para la presentación de iniciativas, estas se deberán enviar con la anticipaci
 
 El Presidente de la Mesa Directiva deberá velar por el respeto al uso de la palabra de cada diputada o diputado, a efecto de no vulnerar sus derechos, debiéndose observar las mismas reglas de deliberación de las sesiones presenciales, por lo que, previo a cada votación, preguntará si alguno de ellos tiene algo que manifestar y, una vez cerciorado de la conclusión de las participaciones, someterá el asunto a votación.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+###### Artículo 121 Sexies.
 
-###### Articulo 121 Sexies.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2021)
 
-Las sesiones en línea de las Comisiones se llevarán a cabo únicamente en los casos previstos en el artículo 121 Bis de este Reglamento, previa convocatoria en la que así lo señale su Presidente.
-
-Para su realización, el Presidente de la Comisión respectiva deberá cerciorarse de la debida notificación a cada uno de sus integrantes y del apoyo para su realización por los órganos de soporte técnico.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 121 Septies.
 
-El Presidente de la Asamblea o de cada una de las Comisiones que presida las sesiones en línea garantizará, con el respaldo de los órganos de soporte y apoyo técnico del Congreso, que la plataforma o herramienta tecnológica que se utilice funciona correctamente, y que las intervenciones de quienes participen en las mismas puedan desarrollarse adecuadamente y en forma ordenada.
+El Presidente de la Asamblea o de cada una de las Comisiones que presida las sesiones en línea o en modalidad mixta garantizará, con el respaldo de los órganos de soporte y apoyo técnico del Congreso, que la plataforma o herramienta tecnológica que se utilice funciona correctamente, y que las intervenciones de quienes participen en las mismas puedan desarrollarse adecuadamente y en forma ordenada.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 121 Octies.
 
-La Oficialía Mayor, por conducto de los órganos de soporte y apoyo técnico y sus auxiliares del Congreso, deberá asegurarse del debido funcionamiento de la plataforma que se utilice para las sesiones en línea y de su transmisión pública.
+La Oficialía Mayor, por conducto de los órganos de soporte y apoyo técnico y sus auxiliares del Congreso, deberá asegurarse del debido funcionamiento de la plataforma que se utilice para las sesiones en línea o en modalidad mixta y de su transmisión pública.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
+###### Artículo 121 Nonies.
+
+No podrán discutirse y votarse mediante sesión en su modalidad en línea o mixta los siguientes temas:
+
+I. Los asuntos que por disposición constitucional, legal o reglamentaria requieran de la aprobación de dos terceras partes de los miembros presentes de la asamblea, y
+
+II. El nombramiento o ratificación de servidores públicos de otros poderes y de organismos constitucionales autónomos que le correspondan de manera exclusiva al Congreso.
+
+Para la discusión de los temas señalados en este numeral, la Presidencia de la Mesa Directiva realizará el citatorio a la sesión presencial correspondiente.
+
+Tratándose de la discusión de los asuntos determinados en el Orden del Día, las intervenciones en tribuna se ajustarán estrictamente al tiempo que otorgue la Mesa Directiva, así como en los acuerdos emitidos por la Mesa Directiva o por la Comisión de Gobierno Interno y Acuerdos Parlamentarios.
 
 ### CAPÍTULO XI. DE LAS INICIATIVAS
 
@@ -2979,9 +3031,9 @@ V.- Los legisladores tendrán derecho a réplica por dos ocasiones cada uno y ha
 
 VI.- Una vez concluida la comparecencia el funcionario de la Administración Pública, el Presidente de la Mesa Directiva declarará un receso, para reanudar la sesión en la próxima comparecencia y así sucesivamente hasta concluir la sesión.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
-Las sesiones que se celebren para el desahogo de la comparecencia de un servidor público, con motivo de la glosa del informe del Gobernador, según lo dispuesto en el presente artículo, podrán celebrarse en línea, en los términos previstos en el artículo 121 Bis de este Reglamento.
+Las sesiones que se celebren para el desahogo de la comparecencia de un servidor público, con motivo de la glosa del informe del Gobernador, según lo dispuesto en el presente artículo, podrán celebrarse en línea o en modalidad mixta, en los términos previstos en el Capítulo X Bis de este Reglamento.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -3107,9 +3159,9 @@ En los términos de los artículos 37 de la Constitución y 104 de la Ley, duran
 
 La Comisión permanente entrará en función inmediatamente después de clausurados los trabajos del periodo ordinario y de que se haya efectuado su sesión de instalación, debiendo sesionar por lo menos una vez a la semana.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
-Las sesiones de la Comisión Permanente podrán celebrarse en línea, en los términos previstos en el artículo 121 Bis de este Reglamento.
+Las sesiones de la Comisión Permanente podrán celebrarse en línea o en modalidad mixta, en los términos previstos en el Capítulo X Bis de este Reglamento.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -3296,6 +3348,8 @@ El Diario de los Debates contendrá el lugar y fecha en que se verifiquen las se
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2013)</small>
 
 El Diputado deberá presentar por escrito y en medio electrónico a la Presidencia de la Mesa Directiva, la iniciativa que solicite se inserte en el Diario de los Debates.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO PARLAMENTARIO QUE APRUEBA EL REGLAMENTO INTERIOR DE LA CONTRALORÍA INTERNA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA, PUBLICADO EN EL P.O. DE 20 DE FEBRERO DE 2021, EL PRESENTE CAPÍTULO HA QUEDADO SIN EFECTOS.]</small>
 
 ### CAPÍTULO XXV
 
@@ -3654,3 +3708,25 @@ P.O. 19 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 394.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y DE SU REGLAMENTO”.]
 
 ÚNICO. El presente decreto entrará en vigor al momento de su aprobación y será publicado en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 20 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 418.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO Y SE REFORMAN, MODIFICAN Y DEROGAN DIVERSAS DISPOSICIONES DE SU REGLAMENTO”.]
+
+ÚNICO. El presente decreto entrará en vigor al momento de su aprobación y será publicado en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 20 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO PARLAMENTARIO QUE APRUEBA EL REGLAMENTO INTERIOR DE LA CONTRALORÍA INTERNA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La Comisión solicitará a la Oficialía Mayor del Poder Legislativo, que informe la disponibilidad presupuestaria para la contratación de las diversas unidades administrativas que deban ser adscritas a la Contraloría; en caso de que esto arroje un déficit presupuestario en el ejercicio fiscal en curso, aprobará la adscripción o habilitación correspondiente de la plantilla de servidores públicos del Poder Legislativo para su incorporación temporal y de apoyo a los trabajos de la Contraloría.
+
+TERCERO.- Queda sin efectos el Capítulo XXV del Reglamento de la Ley Orgánica del Poder Legislativo, por contener en materia de investigación, substanciación, resolución, imposición y ejecución de sanciones por responsabilidades administrativas no graves, una mecánica procedimental distinta a la contenida en la Ley General de Responsabilidades Administrativas.
+
+CUARTO.- Los procedimientos que la Contraloría del Congreso hubiese iniciado con anterioridad al inicio de vigencia de la Ley General de Responsabilidades Administrativas, continuarán substanciándose hasta su total conclusión de conformidad con las disposiciones jurídicas vigentes al momento de haber iniciado el trámite o efectuado la radicación correspondiente.
+
+Propuesta que, sometida a la consideración de los presentes, fue aprobada por unanimidad de las y los Diputados integrantes con derecho a voto de la Comisión de Gobierno Interno y Acuerdos Parlamentarios en términos de lo dispuesto por el artículo 48 de la Ley Orgánica del Poder Legislativo del Estado de Colima y las relativas a su Reglamento, durante el desarrollo de la Sesión Extraordinaria número 19, celebrada el día 26 de enero del año 2021.
+
+El presente acuerdo entrará en vigor el día de su aprobación.
