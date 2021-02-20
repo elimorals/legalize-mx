@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fomento-a-la-ganaderia-del-estado-de-zacatecas-50400"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-29"
-last_updated: "2018-01-10"
+last_updated: "2021-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FOMENTO A LA GANADERÍA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento No. 2 al Periódico Oficial del Estado de Zacatecas, el sábado 29 de abril del 2006.
 
@@ -41,7 +41,7 @@ RESULTANDO SEGUNDO.- Por acuerdo del Presidente de la Mesa Directiva, mediante e
 
 CONSIDERANDO PRIMERO.- La Iniciativa se sustentó en la siguiente:
 
-.
+[...]
 
 DECRETA
 
@@ -181,7 +181,9 @@ XXXII. PUNTO DE VERIFICACIÓN: Sitio aprobado por la Secretaría, para constatar
 
 XXXIII. RASTRO: Servicio público autorizado para el sacrificio de las especies animales para el consumo humano;
 
-XXXIV. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXXIV. SADER: Secretaría de Agricultura y Desarrollo Rural;
 
 XXXV. SANIDAD ANIMAL: La que tiene por objeto preservar la salud y prevenir las enfermedades y plagas de los animales, con excepción de los que tengan como hábitat el medio acuático;
 
@@ -213,6 +215,8 @@ III (SIC). La Secretaría del Campo; y
 
 III. Las Autoridades Municipales.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 574, PUBLICADO EN EL P.O. DE 20 DE FEBRERO DE 2021, PÁGINA 11. SE SUGIERE CONSULTAR LA CRONOLOGÍA DEL PRESENTE ARTÍCULO.]</small>
+
 ###### Artículo 8.
 
 Son órganos auxiliares de las autoridades antes señaladas:
@@ -221,13 +225,45 @@ I. El Consejo Estatal para el Desarrollo Rural Sustentable;
 
 II. El Comité Estatal para el Fomento y Protección Pecuaria de Zacatecas;
 
-III. La Unión Ganadera Regional de Zacatecas;
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
+II (SIC). La Secretaría de Finanzas;
 
-IV. Las Asociaciones Ganaderas Locales generales y/o especializadas; y
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-V. Las Asociaciones Avícolas y Porcícolas.
+III. La Secretaría de Salud;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+IV. La Secretaría de Agua y Medio Ambiente;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+V. La Secretaría de Seguridad Pública.
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+VI. La Fiscalía General del Estado de Zacatecas;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE FEBRERO DE 2021)</small>
+
+VII. La Unión Ganadera Regional de Zacatecas;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+VIII. Cualquier asociación ganadera o asociaciones avícolas, porcícolas o cualquier otro tipo de asociación legalmente constituidas que tenga asiento de producción en el Estado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE FEBRERO DE 2021)</small>
+
+IX. Los Colegios de Médicos Veterinarios en el Estado;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+X. Los Delegados Ganaderos, y
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XI. Las demás autoridades estatales y municipales que como auxiliares sean requeridas para el cumplimiento de los actos que deriven de esta ley.
 
 ### CAPÍTULO II. De las Facultades y Obligaciones del Ejecutivo
 
@@ -283,9 +319,9 @@ XI. Fomentar y garantizar la preservación tanto, de los agostaderos, como de la
 
 XII. Promover la resiembra y reforestación de agostaderos, con el fin de producir forrajes de mejor calidad y evitar la erosión del suelo;
 
-> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-XIII. Reglamentar en el uso común el aprovechamiento de los pastizales con base en los coeficientes de agostaderos emitidos por la Comisión Técnica Consultiva para la Determinación de Coeficientes de Agostaderos de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+XIII. Reglamentar en el uso común el aprovechamiento de los pastizales con base en los coeficientes de agostaderos emitidos por la Comisión Técnica Consultiva para la Determinación de Coeficientes de Agostaderos de la SADER;
 
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2018)</small>
 
@@ -351,7 +387,39 @@ XXXIII. Formular su presupuesto anual de egresos conforme a los objetivos trazad
 
 XXXIV. Elaborar y presentar para su aprobación a la o el Titular del Ejecutivo, el informe anual del desempeño de actividades, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes, midiendo los objetivos y metas alcanzadas; y
 
-XXXV. Las demás que le señale esta ley y las disposiciones legales vigentes.
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXXV. Elaborar y distribuir los formatos únicos de Guías de Tránsito de Ganado;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXXVI. Determinar y aplicar las sanciones que correspondan a los infractores de esta ley y su reglamento, a través de la Secretaría y de la Secretaría de Finanzas, para su recaudación;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXXVII. Designar y remover a los supervisores de movilización dependientes de la Secretaría, supervisar sus actividades, así como promover su profesionalización;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXXVIII. Apoyar, a través de los supervisores de movilización, el realeo de ganado, cuando así lo soliciten los productores pecuarios o una autoridad judicial con el fin de acreditar la propiedad del ganado;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXXIX. Coordinar con las autoridades federales, estatales y municipales, el retiro del ganado que paste o transite en el derecho de vía, sin vigilancia de sus propietarios;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+LX (SIC). Aplicar las medidas y acciones necesarias para mejorar el estatus sanitario del ganado, procurando incrementar de modo constante los niveles de sanidad animal;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+LXI. Llevar el registro y control de los medios de identificación que permitan acreditar la propiedad de las especies domésticas productivas, productos y subproductos;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+LXII. Establecer el control y registro estatal de productores pecuarios que estén reconocidos y regulados por la autoridad federal y estatal, así como de sus inventarios, producción a través de la expedición de una identificación oficial, con el fin de ejecutar las acciones regulatorias a que se refiere la presente ley, además de apoyarlas en el cumplimiento de sus atribuciones, y
+
+XLIII. Las demás que le señale esta ley y las disposiciones legales vigentes.
 
 ### CAPÍTULO III. De las Facultades y Obligaciones de las Autoridades Municipales
 
@@ -359,21 +427,27 @@ XXXV. Las demás que le señale esta ley y las disposiciones legales vigentes.
 
 En materia de fomento a la ganadería, las autoridades municipales tendrán las siguientes facultades y obligaciones:
 
-I. Registrar de manera conjunta con las asociaciones o uniones ganaderas, los fierros, marcas o señales del ganado;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+I. Registrar de manera conjunta y coordinada con la Secretaría y las asociaciones o uniones ganaderas, los fierros, marcas o señales del ganado;
 
 II. Informar a la Secretaría o resolver, en su caso, sobre los conflictos ganaderos que se susciten;
 
 III. Promover e implementar sistemas de vigilancia y prevención del delito de abigeato;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+IV. Proteger en los corrales de resguardo, dispuestos por la Secretaría, los animales de los que no se pueda comprobar su propiedad, así como los animales mostrencos que se encuentren causando daños en predios ajenos y vaguen por caminos y avenidas poniendo en riesgo a la población;
+
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
 
-IV. Rematar el ganado mostrenco, previo cumplimiento del procedimiento que esta Ley establece, en coordinación con las asociaciones ganaderas locales existentes;
+V. Rematar el ganado mostrenco, previo cumplimiento del procedimiento que esta Ley establece, en coordinación con las asociaciones ganaderas locales existentes;
 
-V. Emitir la orden de sacrificio de ganado considerado bravío en los términos y condiciones que establece el artículo 72 de esta Ley;
+VI. Emitir la orden de sacrificio de ganado considerado bravío en los términos y condiciones que establece el artículo 72 de esta Ley;
 
-VI. Autorizar el libro de registro del rastro o rastros que les correspondan; y
+VII. Autorizar el libro de registro del rastro o rastros que les correspondan; y
 
-VII. Las demás que establezcan la presente Ley y demás normas aplicables.
+VIII. Las demás que establezcan la presente Ley y demás normas aplicables.
 
 ## TÍTULO TERCERO. DEL FOMENTO A LA GANADERÍA
 
@@ -423,11 +497,11 @@ El Ejecutivo del Estado podrá implementar programas de fomento, repoblación, c
 
 ### CAPÍTULO II. De las Organizaciones de Ganaderos
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 16.
 
-Las organizaciones ganaderas legalmente constituidas que existan en el Estado deberán registrarse en la Secretaría, para lo cual se podrán denominar como asociaciones generales y/o especializadas, uniones o con cualquier otro tipo de figura jurídica reconocida por la ley.
+Las organizaciones ganaderas legalmente constituidas que existan en el Estado deberán registrarse en la Secretaría, para lo cual se podrán denominar como asociaciones generales o especializadas, uniones o con cualquier otro tipo de figura jurídica reconocida por la ley.
 
 ###### Artículo 17.
 
@@ -441,11 +515,11 @@ Las organizaciones ganaderas son organismos auxiliares del Ejecutivo del Estado 
 
 Las organizaciones ganaderas procurarán la inclusión entre sus miembros de personas pertenecientes a grupos prioritarios, como lo son mujeres y jóvenes, entre otros.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 20.
 
-Las asociaciones generales y/o especializadas y uniones ganaderas tendrán las siguientes funciones:
+Las asociaciones generales o especializadas y uniones ganaderas tendrán las siguientes funciones:
 
 I. Procurar que sus miembros adopten las medidas científicas, prácticas y económicas, tendientes a incrementar y mejorar la industria ganadera;
 
@@ -497,9 +571,11 @@ Si la mayoría o totalidad de los miembros de la asociación o unión fueren res
 
 ### CAPÍTULO III. De las Exposiciones Ganaderas
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 24.
 
-El Ejecutivo del Estado, a través de la Secretaría, en coordinación con la SAGARPA, las autoridades municipales y las organizaciones ganaderas regionales, fomentará la realización de exposiciones ganaderas regionales y estatales en el lugar y época que juzgue pertinente, concediendo las franquicias y premios que estimulen a los expositores.
+El Ejecutivo del Estado, a través de la Secretaría, en coordinación con la SADER, las autoridades municipales y las organizaciones ganaderas regionales, fomentará la realización de exposiciones ganaderas regionales y estatales en el lugar y época que juzgue pertinente, concediendo las franquicias y premios que estimulen a los expositores.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
 
@@ -523,15 +599,19 @@ Al término de la exposición donde concurran animales originarios del Estado, s
 
 ### CAPÍTULO I. De las Marcas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 29.
 
-La propiedad del ganado se acredita:
+Los propietarios de ganado en el Estado, tienen la obligación, según la especie, de herrar, marcar, señalar, implantar, tatuar, poner anillos o cualquier otro medio que acredite su propiedad:
 
 I. Con la marca o fierro de herrar, tratándose de ganado mayor; los animales de registro se tatuarán en la oreja o en el belfo superior; el ganado menor se marcará con la señal de sangre o tatuaje en las orejas, pudiéndose utilizar en otras especies muescas, aretes, anillos, bandas e incluso identificadores electromagnéticos, siempre y cuando tales marcas y señales estén amparadas con el título de propiedad correspondiente;
 
 II. Con el documento que conforme a derecho demuestre su traslación de dominio a favor de quien se ostente como propietario o por resolución de autoridad competente que acredite su propiedad;
 
-III. Los apicultores deberán contar con las marcas y registros establecidos por la Ley de Fomento Apícola del Estado; y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+III. Los apicultores deberán contar con las marcas y registros establecidos por la Ley de Fomento Apícola del Estado, así como con su respectivo dispositivo de identificación individual para colmenas SINIIGA, y
 
 IV. Los criadores de aves de combate, animales exóticos y especies consideradas de ganadería diversificada o especies cinegéticas, deben tener su marca de identificación de criadero, con la que señalarán sus animales, debiendo además registrarse en la Presidencia Municipal que corresponda para que ésta lo haga del conocimiento de la Secretaría.
 
@@ -567,9 +647,15 @@ III. Con la documentación exigida por las leyes del lugar de procedencia y las 
 
 IV. Con los demás medios de prueba establecidos por el derecho común.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 36.
 
-Se entiende por fierro o marca de herrar, la señal que se graba en el cuerpo del animal con hierro candente, pintura indeleble, ácido corrosivo o marcado en frío. La marca o fierro de herrar se colocará en el flanco izquierdo del animal.
+Se entiende por fierro o marca de herrar, la señal que se graba en el cuerpo del animal con hierro candente, ácido corrosivo o marcado en frío. La marca o fierro de herrar se colocará en el flanco izquierdo del animal.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
+La Secretaría, en coordinación con los municipios, integrará un registro general de los fierros de herrar y señales de sangre, con el objeto de mantener un registro vigente, correspondiente a cada jurisdicción.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
 
@@ -581,17 +667,19 @@ Queda prohibido herrar con plancha llana, con alambre, gancho, argolla y fierro 
 
 Los fierros, marcas, señales de sangre, tatuajes e identificación electrónica deben ser utilizados por sus propietarios en forma exclusiva, ya que éstos son intransferibles, por lo que no están sujetos a permutas, ni pueden ser prestados o vendidos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 39.
 
-Todos los fierros, marcas y señales a que se refiere esta Ley deberán ser registrados en la Presidencia y en la Asociación ganadera local general y/o especializada del Municipio al que pertenezca el predio en que se encuentren los animales, aún y cuando el dueño resida en otro lugar. Las personas que tengan ganado en diferentes municipios, registrarán sus fierros, marcas o señales en todos ellos.
+Todos los fierros, marcas y señales a que se refiere esta Ley deberán ser registrados en la Presidencia y en la Asociación ganadera local general o especializada del Municipio al que pertenezca el predio en que se encuentren los animales, que en coordinación con la Secretaría mantendrán un registro general, actualizado y vigente, aún y cuando el dueño resida en otro lugar. Las personas que tengan ganado en diferentes municipios, registrarán sus fierros, marcas o señales en todos ellos.
 
 Se prohíbe usar fierros, marcas, señales de sangre, tatuajes, identificaciones electrónicas y demás medios de identificación no registrados, y los animales que se marquen contraviniendo esta disposición, serán recogidos a los poseedores y consignados a la autoridad competente para que el interesado justifique su propiedad, sin perjuicio de exigir el registro correspondiente.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 40.
 
-La Secretaría podrá realizar inspecciones a los padrones de registros municipales.
+La Secretaría, deberá llevar un registro general que será actualizado con la ayuda de los Municipios y las asociaciones ganaderas al hacer cotejos e inspecciones constantes a los padrones de registros municipales.
 
 ###### Artículo 41.
 
@@ -611,9 +699,11 @@ En caso de extravío de animales, el interesado dará aviso a la Presidencia Mun
 
 Toda persona que tenga conocimiento de un animal mostrenco tiene la obligación de dar aviso a la asociación ganadera local y a la Presidencia Municipal que corresponda, indicando la especie, marca de fierros de herrar, señal de sangre, color y señas particulares del animal, para que éstas los boletinen entre los ganaderos y asociaciones ganaderas locales limítrofes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 44.
 
-La autoridad municipal del lugar, está obligada a realizar la identificación del animal mostrenco, cotejando los fierros, marcas, señales, tatuajes, identificación electrónica y demás medios de identificación del ganado, con los inscritos en el padrón municipal y en el de la asociación ganadera de la localidad. De identificarse el animal se notificará al propietario, quién deberá recogerlo en un plazo de cinco días naturales a partir de la fecha de la notificación respectiva y previa la acreditación legal de la propiedad del animal y de los pagos que establezca la Ley de Ingresos Municipal respectiva.
+La autoridad municipal del lugar está obligada a realizar la identificación del animal mostrenco, cotejando los fierros, marcas, señales, tatuajes, identificación electrónica y demás medios de identificación del ganado, con los inscritos en el padrón municipal y en el de la asociación ganadera de la localidad, y en el general de la Secretaría. De identificarse el animal se notificará al propietario, quién deberá recogerlo en un plazo de cinco días naturales a partir de la fecha de la notificación respectiva y previa la acreditación legal de la propiedad del animal y de los pagos que establezca la Ley de Ingresos Municipal respectiva.
 
 Transcurrido el plazo señalado en el párrafo anterior, si no se presenta el propietario del animal a acreditar legalmente la propiedad de éste y a recogerlo, se considerará como mostrenco, el día anterior al fijado para efectuar el remate vencerá el plazo para reclamarlo.
 
@@ -723,11 +813,11 @@ Todo propietario o poseedor de terreno colindante con carreteras federales, esta
 
 Los poseedores o propietarios de predios ganaderos colindantes entre sí, que carezcan de cercos divisorios por existir desacuerdo sobre el lindero en que deban construirse, podrán someterse al arbitraje de la Secretaría para que ésta resuelva en definitiva lo conducente.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 66.
 
-La Secretaría y los órganos auxiliares se coordinará (sic) con la Secretaría de Infraestructura, si la carretera es estatal y con la Secretaría de Comunicaciones y Trasportes, si es federal, a efecto de mantener desmontadas las superficies ubicadas entre las carreteras y caminos vecinales y los cercos de los predios ganaderos colindantes, con el fin de proteger contra incendios tanto los propios cercos como la vegetación que exista en los agostaderos.
+La Secretaría y los órganos auxiliares se coordinarán con la Secretaría de Obras Públicas, si la carretera es estatal y con la Secretaría de Comunicaciones y Trasportes (sic), si es federal, a efecto de mantener desmontadas las superficies ubicadas entre las carreteras y caminos vecinales y los cercos de los predios ganaderos colindantes, con el fin de proteger contra incendios tanto los propios cercos como la vegetación que exista en los agostaderos.
 
 ###### Artículo 67.
 
@@ -829,7 +919,9 @@ Los ganaderos están obligados a realizar corridas o recuentos de ganado dentro 
 
 Son corridas o recuentos generales, las reuniones de ganado que se verifiquen dentro de la totalidad de los predios comprendidos en una o más zonas de inspección ganadera; son parciales, las que se realicen en uno o más predios ganaderos sin comprender toda una zona. Ambas tendrán por objeto todas aquellas finalidades propias de la ganadería, además de:
 
-I. Mantener dentro de los predios ganaderos, únicamente la cantidad de ganado correspondiente al índice de agostadero que a dicho predio se le haya asignado;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+I. Mantener dentro de los predios ganaderos, únicamente la cantidad de ganado correspondiente al índice de agostadero que a dicho predio se le haya asignado, por la autoridad estatal competente, o en su defecto pueda comprobar la eficiente alimentación del ganado excedente;
 
 II. Recoger o desalojar de los predios el ganado ajeno, con el fin de entregar lo a sus propietarios;
 
@@ -901,6 +993,10 @@ IV. Los establecimientos donde se comercialicen animales domésticos; y
 
 V. Ferias, exposiciones, tianguis o cualquier otro evento en el que se realicen concentraciones de ganado o se expendan productos, subproductos, esquilmos y desechos de origen animal.
 
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+VI. En las Unidades Regionales de Seguridad.
+
 ###### Artículo 97.
 
 Son atribuciones de la Secretaría, por sí o por medio de los organismos auxiliares, en materia de inspección del ganado, las siguientes:
@@ -909,7 +1005,9 @@ I. Visitar los municipios del Estado para conocer y resolver los problemas ganad
 
 II. Inspeccionar los corrales, establos y demás locales destinados al depósito de sementales y montas respectivas, disponiendo lo conducente a efecto de que guarden las condiciones debidas de higiene, organización y técnica ganadera e inspeccionar los sementales, reportando en su informe los que no guarden condiciones de salud y vigor;
 
-III. Recorrer los principales centros ganaderos de la Entidad, para darse cuenta del estado de los ganados, la clase de agostaderos disponibles y las condiciones de los abrevaderos, procurando por medios persuasivos que los propietarios corrijan los defectos encontrados, ofreciéndoles ayuda que gestionarán en la Secretaría;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+III. Recorrer los principales centros ganaderos de la Entidad, para darse cuenta del estado de los ganados, la clase de agostaderos disponibles y las condiciones de los abrevaderos, procurando por medios persuasivos que los propietarios corrijan los defectos encontrados, ofreciéndoles ayuda que gestionarán en la Secretaría, según sea la disposición de los recursos;
 
 IV. Revisar los rastros, frigoríficos, mataderos, saladeros, curtidurías y comercios de pieles, para comprobar si se ha cumplido con las disposiciones relativas de la presente Ley;
 
@@ -939,7 +1037,7 @@ Para el ejercicio de estas atribuciones, la Secretaría, con la participación d
 
 ###### Artículo 98.
 
-Son facultades de la Secretaria, del Comité y de las Asociaciones Ganaderas Locales, a través de los supervisores de ganado locales debidamente acreditados:
+Son facultades de la Secretaría, del Comité y de las Asociaciones Ganaderas Locales, a través de los supervisores de ganado locales debidamente acreditados:
 
 I. Verificar que el sacrificio del ganado se realice en rastros o en establecimientos autorizados y que se cumpla con el mínimo de requisitos sanitarios señalados por los Servicios de Salud, previa acreditación legítima de propiedad o posesión;
 
@@ -961,19 +1059,25 @@ IX. Dirigir y vigilar las corridas y recuentos, ya sean generales o parciales;
 
 X. Estar presentes en los recuentos de ganado solicitados y autorizados a los ejidos y comunidades dentro de su ámbito de responsabilidad;
 
-IX. Practicar las investigaciones preliminares en los casos de abigeato o de otros posibles delitos relacionados con la ganadería de que tengan conocimiento, levantando el acta correspondiente y remitiéndola a las autoridades competentes; al efecto, se podrá poner en depósito el ganado de que se trate;
+XI. Practicar las investigaciones preliminares en los casos de abigeato o de otros posibles delitos relacionados con la ganadería de que tengan conocimiento, levantando el acta correspondiente y remitiéndola a las autoridades competentes; al efecto, se podrá poner en depósito el ganado de que se trate;
 
-XII. Auxiliar a las autoridades competentes en la vigilancia y protección de la fauna silvestre y denunciar ante las mismas la comisión de delitos y faltas en materia de caza; y
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-XIII. Las demás que les confiera la presente Ley, su Reglamento y las disposiciones aplicables.
+XII. Decomisar de inmediato los cadáveres de animales en tránsito, cuyo motivo de muerte se desconozca y, por tanto, representen un riesgo sanitario para la comunidad, ordenando su inmediata destrucción a cargo de los dueños, levantando el acta correspondiente y remitiéndola a las autoridades competentes;
+
+XIII. Auxiliar a las autoridades competentes en la vigilancia y protección de la fauna silvestre y denunciar ante las mismas la comisión de delitos y faltas en materia de caza; y
+
+XIV. Las demás que les confiera la presente Ley, su Reglamento y las disposiciones aplicables.
 
 ###### Artículo 99.
 
 Es facultad de las asociaciones de ganaderos expedir las guías de tránsito para ganado, productos y subproductos de origen animal, en la zona que les corresponda.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 100.
 
-Cuando a juicio del supervisor de ganado autorizado no sea posible la revisión en el interior de los vehículos de traslado, es obligación del propietario, chofer o encargado, bajar el ganado en el lugar adecuado más cercano que indique el inspector. Los gastos que se originen correrán por cuenta del propietario.
+Cuando a juicio del supervisor de ganado autorizado no sea posible la revisión en el interior de los vehículos de traslado, es obligación del propietario, chofer o encargado, bajar el ganado en el lugar adecuado más cercano o en los corrales de resguardo oficiales que indique el Supervisor. Los gastos que se originen correrán por cuenta del propietario.
 
 ###### Artículo 101.
 
@@ -1087,6 +1191,16 @@ Las empresas de transporte en general, con concesión o permiso de jurisdicción
 
 Los transportistas en general no aceptarán para su movilización ganado, productos y subproductos si el solicitante no les presenta la documentación que acredite la propiedad, así como el certificado zoosanitario y la guía de tránsito. En caso de contravención a esta disposición, los transportistas serán sancionados en los términos establecidos por la presente Ley y su reglamento, independientemente de que se le dé vista a la autoridad competente para que investigue la probable comisión de un delito.
 
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
+###### Artículo 118 Bis.
+
+La Secretaría, con el objeto de lograr una eficiente movilización de ganado en la Entidad podrá designar:
+
+I. A los Supervisores de movilización de ganado que se requieran para cumplir con los requerimientos de las diferentes regiones del Estado, y
+
+II. Coordinarse con los Supervisores auxiliares nombrados por los ayuntamientos, quienes coadyuvarán en las funciones de la movilización en su comunidad, conforme las necesidades sanitarias de su Municipio y la región.
+
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 119.
@@ -1155,21 +1269,27 @@ El funcionamiento de los rastros, frigoríficos, mataderos, saladeros y curtidur
 
 Para los efectos de inspección y vigilancia ganadera, la Secretaría llevará un registro de los rastros que funcionen en el Estado.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 131.
 
-La vigilancia e inspección ganadera se llevará a cabo en los rastros por el Comité y por el médico adscrito al rastro.
+La vigilancia e inspección ganadera se llevará a cabo en los rastros por el Comité, el supervisor nombrado por el Municipio, el médico adscrito al rastro y a solicitud expresa por el supervisor de la Secretaría.
 
 ###### Artículo 132.
 
 Si se detectare alguna irregularidad o la posible comisión de algún delito, el administrador impedirá el sacrificio del ganado, lo inmovilizará y dará aviso a la Secretaría y a las autoridades correspondientes.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 133.
 
-Los administradores de los rastros serán nombrados por los Presidentes Municipales y están obligados a vigilar el cumplimiento de las disposiciones sanitarias, fiscales y administrativas a que están sujetos dichos establecimientos.
+Los administradores de los rastros, así como los supervisores municipales, serán nombrados por los Presidentes Municipales y están obligados a vigilar el cumplimiento de las disposiciones sanitarias, fiscales y administrativas a que están sujetos dichos establecimientos.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 134.
 
-Los administradores, encargados o empleados de los rastros, en ningún momento, permitirán el sacrificio de ganado si no se ha comprobado ante el médico veterinario adscrito, la legítima propiedad del mismo y el cumplimiento de las obligaciones sanitarias o fiscales.
+Los administradores, el supervisor municipal, encargados o empleados de los rastros, en ningún momento, permitirán el sacrificio de ganado si no se ha comprobado ante el médico veterinario adscrito, la legítima propiedad del mismo y el cumplimiento de las obligaciones sanitarias o fiscales.
 
 ###### Artículo 135.
 
@@ -1183,15 +1303,15 @@ Los administradores de los rastros están obligados a llevar un libro autorizado
 
 Si por omisión, contravención o alteración de los requisitos anteriores se sacrificara ilegalmente algún animal o se dejaran de pagar los derechos correspondientes, se presumirá que el administrador o encargado del rastro es cómplice de las infracciones que se cometan.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 137.
 
-Los administradores a cuyo cargo se encuentren los rastros o áreas del sacrificio rural, tendrán la obligación de reportar mensualmente a la Secretaría, al Ayuntamiento, a la asociación ganadera local, a la SAGARPA y a la jurisdicción sanitaria correspondiente un informe de las actividades que realicen.
+Los administradores a cuyo cargo se encuentren los rastros o áreas del sacrificio rural, tendrán la obligación de reportar mensualmente a la Secretaría, al Ayuntamiento, a la asociación ganadera local, a la SADER y a la jurisdicción sanitaria correspondiente un informe de las actividades que realicen.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
 
-###### Articulo 138.
+###### Artículo 138.
 
 Los libros de registro de los rastros, rastros frigoríficos, mataderos, saladeros y curtidurías y sus instalaciones en general, podrán ser revisados en cualquier tiempo por los Inspectores de rastros, por las autoridades estatales y municipales o por la asociación ganadera local, pudiendo hacer cualesquiera de ellos las gestiones que procedan para remediar la irregularidad que detecten o denunciarla a la superioridad para su corrección y sanción.
 
@@ -1243,9 +1363,11 @@ V. La asesoría a las personas que pretendan dedicarse a la producción e indust
 
 La Secretaría fomentará el establecimiento de establos productores de leche, granjas agropecuarias, plantas pasteurizadoras y la realización de cuencas lecheras; asimismo, organizará e integrará a los productores de leche a las necesidades de la planificación agropecuaria.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 148.
 
-Los establecimientos o empresas destinados a la producción de leche deberán registrarse en la Secretaría, previa autorización de la SAGARPA. El registro será gratuito y los requisitos a que deberán sujetarse los fijará la propia Secretaría.
+Los establecimientos o empresas destinados a la producción de leche deberán registrarse en la Secretaría, previa autorización de la SADER. El registro será gratuito y los requisitos a que deberán sujetarse los fijará la propia Secretaría.
 
 ###### Artículo 149.
 
@@ -1307,7 +1429,9 @@ II. Aislamiento, vigilancia, secuestro, tratamiento, marca y recuento de animale
 
 III. Aislamiento completo o parcial de la zona cuarentenada;
 
-IV. Prohibición, en coordinación con la SAGARPA, absoluta o condicional para celebrar exposiciones, ferias y circulación de ganado;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+IV. Prohibición, en coordinación con la SADER, absoluta o condicional para celebrar exposiciones, ferias y circulación de ganado;
 
 V. Destrucción por fuego o desinfección por otro agente, según las enfermedades o plagas de que se trate en los establos, caballerizas, vehículos, corrales y cualquier otro objeto que haya estado en contacto con los animales enfermos o sospechosos, que pueda ser libre vehículo de contagio;
 
@@ -1327,9 +1451,11 @@ En la vigencia de una cuarentena, la expedición de certificados zoosanitarios y
 
 Cuando algún ganadero se negare sin causa justificada a participar en alguna medida o campaña zoosanitaria, la autoridad competente procederá a tomar las medidas correspondientes; el propietario será responsable de pagar el importe de los gastos, al efecto se observará lo dispuesto en el Capítulo II del Título Séptimo de esta Ley.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 158.
 
-Los propietarios de ganado están obligados a aplicar baño parasiticida cuando menos dos veces al año.
+Los propietarios de ganado están obligados a aplicar desparasitantes internos y externos, cuando menos dos veces al año.
 
 ###### Artículo 159.
 
@@ -1341,13 +1467,13 @@ En el caso de especies menores y aves de corral, por el riesgo de contagio que i
 
 Se considera de interés público:
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-I. El manejo racional, la utilización adecuada, la conservación, la adaptación de terrenos para agostaderos y el mejoramiento de los recursos naturales relacionados con la ganadería;
+I. El manejo racional del recurso pastizal, la utilización adecuada, la conservación, la adaptación de terrenos para agostaderos y el mejoramiento de los recursos naturales relacionados con la ganadería;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-II. El cumplimiento con la carga animal, según establezca la Comisión Técnica Consultiva para la Determinación de Coeficientes de Agostadero de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+II. El cumplimiento con la carga animal, según establezca la Comisión Técnica Consultiva para la Determinación de Coeficientes de Agostadero de la SADER;
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
 
@@ -1365,6 +1491,10 @@ V. La conservación y fomento de la fauna silvestre, nativa o introducida, con e
 
 VI. Las obras y construcciones para la conservación del suelo y el agua.
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+VII. La rehabilitación de los pastizales deteriorados mediante obras territoriales de conservación de suelos e introducción de especies forrajeras y sistemas de pastoreo.
+
 ###### Artículo 161.
 
 Para los efectos de esta Ley, se entenderá por terrenos de agostadero a aquellos cubiertos con una vegetación natural, introducida o inducida, cuyo uso principal es el pastoreo del ganado y la fauna silvestre y que técnicamente no sean considerados susceptibles de agricultura.
@@ -1377,21 +1507,23 @@ II. Introducidos, pastizales en los que se utilizan especies de otro origen ecol
 
 III. Inducidos, pastizales surgidos en forma natural después de erradicar la vegetación nativa.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 162.
 
-Los ganaderos, pequeños propietarios, ejidatarios y colonos que tengan en explotación pastizales naturales de uso común, deberán cumplir con los coeficientes de agostadero de conformidad con lo establecido en la Ley de la Reforma Agraria, así como con las disposiciones que para tal efecto emitan la SAGARPA y la Secretaría.
+Los ganaderos, pequeños propietarios, ejidatarios y colonos que tengan en explotación pastizales naturales de uso común, deberán cumplir con los coeficientes de agostadero de conformidad con lo establecido en la Ley Agraria, así como con las disposiciones que para tal efecto emitan la SADER y la Secretaría.
 
-El ganado excedente en los agostaderos sobrecargados podrá ser desalojado una vez convenido por el propietario, la SAGARPA y la Secretaría.
+El ganado excedente en los agostaderos sobrecargados deberá ser desalojado una vez convenido por el propietario, la SADER y la Secretaría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 163.
 
-Los ganaderos poseedores de terrenos de agostadero para el uso común están obligados a:
+Los ganaderos poseedores de terrenos de agostadero para uso común están obligados a:
 
-I. Aprovechar el recurso del pastizal con la carga animal determinada por la Comisión Técnica Consultiva para la Determinación de Coeficientes de Agostadero de la SAGARPA;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+I. Aprovechar el recurso del pastizal con la carga animal determinada por la Comisión Técnica Consultiva para la Determinación de Coeficientes de Agostadero de la SADER;
 
 II. Conservar y mejorar la condición y productividad de su pastizal;
 
@@ -1517,7 +1649,9 @@ XVIII. Sacrificar hembras en etapa avanzada de gestación, salvo las excepciones
 
 XIX. No mantener en buen estado sus cercas o no contribuir con los propietarios de inmuebles colindantes con el pago proporcional de sus cercas comunes;
 
-XX. Vender clandestinamente carne y demás productos o subproductos del ganado;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XX. Vender clandestinamente carne y demás productos o subproductos de animales que hayan sido tratados con sustancias o medicamentos dañinos para la salud;
 
 XXI. Propiciar el sobrepastoreo de praderas o agostaderos;
 
@@ -1527,7 +1661,61 @@ XXII. Interrumpir vías pecuarias o bloquear abrevaderos de uso común; y (sic)
 
 XXIII. Propiciar desorden entre ganaderos y observar mala conducta que afecte a la asociación ganadera local y a sus agremiados; y
 
-XXIV. Las demás previstas en la presente Ley y su Reglamento o en ordenamientos relativos a la materia.
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXIV. A quienes acopien, movilicen o comercialicen con fines de exportación ganado en pie sin observar las NOM´s y los respectivos acuerdos internacionales;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXV. Acopiar, movilizar y comercializar ganado sin identificar su origen y fierro;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXVI. Acopiar, movilizar y comercializar ganado de zonas sanitarias de un estatus inferior a otro de mayor, o hatos en cuarentena sin tener la documentación sanitaria que lo permita;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXVII. A los profesionistas o personal facultado que realice las pruebas obligatorias para cumplir con las campañas zoosanitarias en el Estado, a animales mostrencos, y trasherrados;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXVIII. Quien deje los identificadores oficiales en las unidades pecuarias sin aplicar, así como aplicar o reutilizar los aretes que no correspondan al ganado, fierro y UPP asignados originalmente;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXIX. Quien presente para la movilización de ganado documentación alterada o falsa, identificación falsa, o se haga una sustitución de ganado.
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXX. Quien movilice o lleve a cabo compraventa, ordene o realice el trasporte de animales afectados por enfermedad infectocontagiosa;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXXI. Quien asigne aretes en un número mayor de crías en relación a los vientres que existen en el hato;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXXII. A quien se le detenga con animales mostrencos sin la autorización correspondiente, y sin comprobar la legítima propiedad;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXXIII. Alterar o falsificar la papelería oficial como dictámenes, certificados, guías de ganado, o cualquier otro documento oficial;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXXIV. Expedir constancias de tratamiento garrapaticida, sin que existan pruebas fehacientes de que los semovientes estén libres del ectoparásito;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXXV. Quien ampare a una o más cabezas de ganado robado con documentación alterada, falsa o expedida a nombre de otro;
+
+(NOTA: EL 7 DE MARZO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XXXVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE FEBRERO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 574, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XXXVI. Quien extorsione o agreda, VERBAL O físicamente a una autoridad oficial en el ejercicio de sus funciones, sin detrimento de lo que establezcan otras disposiciones legales, y
+
+XXXVII. Las demás previstas en la presente Ley y su Reglamento o en ordenamientos relativos a la materia.
 
 ###### Artículo 174.
 
@@ -1535,17 +1723,17 @@ Las sanciones administrativas podrán consistir en:
 
 I. Amonestación con apercibimiento;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-II. Multa de 50 hasta 3000 veces la Unidad de Medida y Actualización diaria que emita el Instituto Nacional de Estadística y Geografía;
+II. Multa de 50 hasta 5000 veces la Unidad de Medida y Actualización diaria que emita el Instituto Nacional de Estadística y Geografía;
 
 III. Revocación del Registro;
 
 IV. Clausura del establecimiento;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-V. Aseguramiento del ganado, productos o subproductos según sea el caso, únicamente cuando exista incumplimiento a lo dispuesto en el Capítulo II del Título Quinto de la presente Ley; y
+V. Aseguramiento o decomiso del ganado, productos o subproductos según sea el caso; únicamente cuando exista incumplimiento a lo dispuesto en el Capítulo II del Título Quinto de la presente Ley; y
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
 
@@ -1591,7 +1779,13 @@ V. La calidad de reincidente del infractor.
 
 Las multas determinadas e impuestas por la Secretaría serán notificadas a la oficina fiscal correspondiente para su cobro y a la autoridad municipal para su conocimiento.
 
-La falta de pago de las multas impuestas dará lugar a la aplicación del procedimiento económico coactivo que establece el Código Fiscal del Estado de Zacatecas.
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
+Con fundamento en el artículo 7 del Código Fiscal del Estado de Zacatecas y sus Municipios, lo recaudado por concepto de multas, se debe reintegrar a la Secretaría para ser utilizado en la implementación de programas y acciones de operación en beneficio del sector ganadero de la Entidad.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
+La falta de pago de las multas impuestas dará lugar a la aplicación del procedimiento económico coactivo que establece el Código Fiscal del Estado de Zacatecas y sus Municipios.
 
 ### CAPÍTULO III. Del Recurso de Reconsideración
 
@@ -1668,3 +1862,13 @@ P.O. 10 DE ENERO DE 2018.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
 
 Artículo Segundo. La Secretaría del Campo del Gobierno del Estado aprobará el Programa Estatal de Suelos, dentro del plazo de 320 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 574.- SE REFORMA Y ADICIONA LA LEY DE FOMENTO A LA GANADERÍA DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán su curso hasta su resolución conforme a las disposiciones aplicables vigentes a su inicio.
+
+Artículo Tercero. Dentro del plazo de 180 días contados a partir de la entrada en vigor de este Decreto, el Ejecutivo del Estado deberá realizar las modificaciones que correspondan al Reglamento de la Ley.
