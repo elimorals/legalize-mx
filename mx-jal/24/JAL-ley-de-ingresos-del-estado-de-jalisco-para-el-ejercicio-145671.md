@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-145671"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-28"
-last_updated: "2020-12-28"
+last_updated: "2021-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2021
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2021.
 
 Ley publicada en la Edición Especial al Número 47 Bis del Periódico Oficial del Estado de Jalisco, el lunes 28 de diciembre de 2020.
 
@@ -971,9 +971,15 @@ Los propietarios de automóviles, camiones, camionetas, tractores automotores, i
 
 3. Los vehículos de servicio particular destinados y adaptados para personas con discapacidad: $699.00
 
-Tratándose de vehículos híbridos, previstos en los numerales 1, 2 y 3 del presente inciso, fabricados con sistema de propulsión híbrido sin considerar los modificados o hechizos, pagarán el 50%, por el servicio de dotación y canje de placas, incluyendo tarjeta de circulación y calcomanía, tratándose de vehículos eléctricos, así como los que hayan sido objeto de robo de vehículo o clonación, acorde a lo manifestado por la Fiscalía Estatal de Jalisco, estarán exentos del pago de los derechos referidos; en los casos de robo o clonación de vehículo, la exención será aplicable únicamente a solicitud del titular previamente registrado ante las oficinas de recaudación fiscal del Estado.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
+Tratándose de vehículos y motocicletas híbridos, previstos en los numerales 1, 2 y 3 del presente inciso, y fracción II del presente artículo, respectivamente, fabricados con sistema de propulsión híbrido sin considerar los modificados o hechizos, pagarán el 50%, por el servicio de dotación y canje de placas, incluyendo tarjeta de circulación y calcomanía, tratándose de vehículos o motocicletas eléctricas, así como los que hayan sido objeto de robo de vehículo o clonación, acorde a lo manifestado por la Fiscalía Estatal de Jalisco, estarán exentos del pago de los derechos referidos; en los casos de robo o clonación de vehículo, la exención será aplicable únicamente a solicitud del titular previamente registrado ante las oficinas de recaudación fiscal del Estado.
 
 4. Dotación y canje de Placas de Demostración: $4,167.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE FEBRERO DE 2021)</small>
+
+Sustitución de vehículos de servicio público incluyendo tarjeta de circulación: $151.00
 
 II. Dotación y canje de placas para motocicletas de fabricación nacional o $699.00 extranjera:
 
@@ -987,7 +993,9 @@ b) Placas de demostración: $1,668.00
 
 III Bis. Por refrendo anual y Tarjeta de Circulación en papel para motocicletas: $276.00
 
-Tratándose de vehículos fabricados con sistema de propulsión híbrido sin considerar los modificados o hechizos, pagarán el 50%, por derecho de refrendo anual y calcomanía de identificación vehicular previsto en la fracción III de este artículo, en el caso de vehículos eléctricos, estarán exentos del pago de los derechos referidos.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2021)</small>
+
+Tratándose de vehículos o motocicletas fabricados con sistema de propulsión híbrido sin considerar los modificados o hechizos, pagarán el 50%, por derecho de refrendo anual y calcomanía de identificación vehicular previsto en las fracciones III y III Bis, respectivamente, de este artículo, en el caso de vehículos y motocicletas eléctricos, estarán exentos del pago de los derechos referidos.
 
 Los pagos previstos en las fracciones III y III Bis de este artículo deberán efectuarse en el periodo comprendido del 2 de enero al último día hábil del mes de marzo de 2021 (dos mil veintiuno).
 
@@ -2352,3 +2360,13 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28300/LXII/21 QUE REFORMA EL ARTÍCULO 23 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2021”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se otorga un descuento del 70% a los adeudos de más de 180 días, por concepto de los servicios de guarda y custodia de vehículos, mercancía u objetos varios, establecidos en el artículo 25 fracción I, a partir de la entrada en vigor del presente decreto y hasta el mes de mayo del año 2021.
