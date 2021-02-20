@@ -4,7 +4,7 @@ identifier: "JAL-codigo-fiscal-del-estado-de-jalisco-12023"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-16"
-last_updated: "2019-02-01"
+last_updated: "2021-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO FISCAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2021.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 1997.
 
@@ -241,29 +241,73 @@ II. El Secretario de la Hacienda Pública;
 
 III. El Secretario de Administración;
 
-IV. El Director General de Egresos;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-V. El Director General de Ingresos;
+IV. El Subsecretario de Política Presupuestal y Egresos;
 
-VI. El Director General de Auditoría Fiscal;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-VII. El Procurador Fiscal del Estado;
+V. El Director General Egresos;
 
-VIII. El Director de Notificación y Ejecución Fiscal;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-IX. El Director de Administración Tributaria, y sus jefes de las oficinas de recaudación fiscal;
+VI. El Subsecretario de Ingresos;
 
-X. El Director de Vigilancia y Cumplimiento de Obligaciones;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-XI. El Director de Visitas Domiciliarias;
+VII. El Director General de Auditoría Fiscal;
 
-XII. El Director de Programación de Gabinete y Dictámenes;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-XIII. El Director de Comercio Exterior;
+VIII. El Director General de Administración Tributaria.
 
-XIV. El Director de Procedimientos Legales; y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-XV. El Coordinador de Delegaciones Foráneas.
+IX. El Procurador Fiscal del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+X. El Director de Notificación y Ejecución Fiscal;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XI. El Coordinador de remates;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XII. El Director de Recaudación Tributaria, y sus jefes de las oficinas de recaudación fiscal;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XIII. El Director de Servicios al Contribuyente;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XIV. El Director de Vigilancia y Cumplimiento de Obligaciones;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
+
+XV. El Director de Visitas Domiciliarias "1 ";
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2021)</small>
+
+XVI. El Director de Visitas Domiciliarias "2"
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2021)</small>
+
+XVII. El Director de Gabinete, Programación y Dictámenes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2021)</small>
+
+XVIII. El Director de Comercio Exterior;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2021)</small>
+
+XIX. El Director de Procedimientos Legales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2021)</small>
+
+XX. El Coordinador de Fiscalización Estratégica.
 
 La Secretaría de Administración será considerada autoridad fiscal para determinar y liquidar los adeudos que se generen por servicio de guarda y custodia de vehículos, mercancía u objetos varios, en los depósitos a su cargo, la implementación del procedimiento administrativo de ejecución se realizará por las autoridades fiscales de la Secretaría de la Hacienda Pública.
 
@@ -1079,9 +1123,9 @@ Las resoluciones favorables a los particulares no podrán ser revocadas o nulifi
 
 Cuando deban ser nulificadas, será necesario promover juicio ante el Tribunal de Justicia Administrativa del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2021)</small>
 
-El Secretario de la Hacienda Pública, el Director General de Ingresos y el Director General de Auditoría Fiscal, podrán revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, siempre y cuando éstos no hubieren interpuesto medios de defensa y hubieren transcurrido los plazos para presentarlos, y sin que haya prescrito el crédito fiscal.
+El Secretario de la Hacienda Pública, el Subsecretario de Ingresos, el Director General de Administración Tributaria y el Director General de Auditoría Fiscal, podrán revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, siempre y cuando éstos no hubieren interpuesto medios de defensa y hubieren transcurrido los plazos para presentarlos, y sin que haya prescrito el crédito fiscal.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -3330,6 +3374,14 @@ Organismo Público Descentralizado
 (En materia de captación de recursos) Secretaría de la Hacienda Pública
 
 DÉCIMO SEGUNDO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
+
+P.O. 20 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28297/LXII/21 QUE MODIFICA LOS ARTÍCULOS 22 Y 59 DEL CÓDIGO FISCAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan las disposiciones que se opongan a la aplicación y cumplimiento del presente decreto.
 
 ###### ARTICULO PRIMERO
 
