@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2020-09-11"
+last_updated: "2021-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2021.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1013,9 +1013,9 @@ XXVII. Facultar al Ejecutivo del Estado para que con las limitaciones que sean n
 
 XXVIII. Conceder o no los premios y recompensas que proponga el Ejecutivo del Estado a los que hayan prestado servicios eminentes al mismo.
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2021)</small>
 
-XXIX. Conceder amnistía por delitos políticos, cuyo conocimiento pertenezca a los tribunales del Estado.
+XXIX. Conceder amnistía por delitos cuyo conocimiento pertenezca a los tribunales del Estado.
 
 XXX. Rehabilitar en los derechos de ciudadano a quienes tengan perdido o suspenso su ejercicio de acuerdo con las leyes.
 
@@ -4462,3 +4462,11 @@ SEGUNDO. La iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado de
 Para lo que resta del ejercicio 2020 funcionará con el presupuesto que se le haya asignado en la Ley de Ingresos y Presupuesto de Egresos de este año.
 
 TERCERO. Los Fiscales Especializados en Combate a la Corrupción, en Desaparición Forzada de Personas, en Materia de Tortura y en Atención de Delitos Electorales que se encuentren en funciones a la entrada en vigor del presente Decreto continuarán en su encargo hasta que sean removidos por el Fiscal General.
+
+P.O. 22 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 565 QUE REFORMA LA FRACCIÓN XXIX DEL ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
