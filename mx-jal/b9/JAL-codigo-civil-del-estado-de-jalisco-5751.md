@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2020-12-03"
+last_updated: "2021-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -995,7 +995,7 @@ Cuando hayan transcurrido seis meses desde la declaración de ausencia, el juez,
 
 Cuando la desaparición sea consecuencia de incendio, explosión, inundación, terremoto o catástrofe aérea, ferroviaria o de automotores u otro siniestro semejante y exista fundada presunción de que el desaparecido se encontraba en el lugar del siniestro o catástrofe, o a bordo de las naves y vehículos accidentados, bastará el transcurso de tres meses contados a partir del acontecimiento para que el juez declare la presunción de muerte. En estos casos la autoridad judicial acordará la publicación de la solicitud de declaración de presunción de muerte en un periódico de amplia circulación en el Estado, por dos veces con un intervalo de siete días.
 
-También serán aplicables cuando la ausencia sea consecuencia de un hecho relacionado con la privación ilegal de la libertad, secuestro o desaparición forzada de personas, en esos casos el término para decretar la presunción de muerte será de tres meses a partir de que se haya denunciado ante la autoridad competente el acto ilícito correspondiente y no exista ningún indicio de que pudiera seguir con vida. El Ministerio Público informará de inmediato al juez que conozca el asunto de cualquier dato o hecho que pudiera considerarse indicio de que la persona privada ilegalmente de su libertad continua con vida, lo cual interrumpirá el plazo especial señalado.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE FEBRERO DE 2021)</small>
 
 ###### Art. 147.
 
@@ -19280,3 +19280,23 @@ P.O. 3 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28107/LXII/20 QUE REFORMAN LOS ARTÍCULOS 405 BIS Y 420 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 22 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28294/LXII/21 QUE EXPIDE LA LEY PARA LA DECLARACIÓN ESPECIAL DE AUSENCIA POR DESAPARICIÓN DE PERSONAS DEL ESTADO DE JALISCO”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. El Congreso del Estado deberá armonizar toda la legislación estatal que sea requerida para el cumplimiento de la presente Ley.
+
+Tercero. Toda autoridad del estado de Jalisco que intervenga en la sustanciación del procedimiento contemplado en la Ley, deberá capacitar a servidores públicos sobre el procedimiento de Declaración Especial de Ausencia por Desaparición de Personas en un plazo de seis meses a partir de la entrada en vigor de esta Ley, para garantizar una protección eficaz del derecho a la personalidad respectivo.
+
+Cuarto. En relación a los casos denunciados con anterioridad a la entrada en vigor de la Ley, agentes del ministerio público competentes, personal adscrito a la Comisión de Búsqueda, la Comisión Ejecutiva de Atención a Víctimas del Estado, tendrán un plazo de treinta días hábiles, contado a partir del inicio de la vigencia del presente ordenamiento, para informar a familiares u otras personas legitimadas en términos de la fracción II del artículo 7 de esta Ley sobre su derecho a tramitar la solicitud de Declaración Especial de Ausencia por Desaparición de Personas.
+
+Quinto. Las personas Titulares del Poder Ejecutivo y del Poder Judicial, así como de los Organismos Autónomos de Estado a los que se refiere esta Ley, contarán con un plazo de seis meses para adecuar, en su caso, las disposiciones reglamentarias que correspondan, a efecto de cumplir y armonizarlas con las disposiciones contenidas en la presente Ley.
+
+Sexto. En el caso de la existencia previa de una declaratoria por presunción de muerte o de una declaratoria por ausencia conforme al Código Civil, o bien, de aquellas que se encuentren en proceso, a solicitud de familiares o personas legitimadas, estas podrán ser tramitadas como Declaración Especial de Ausencia, en los términos de la presente Ley. El Juzgado de Primera Instancia competente, deberá sustanciar estos procedimientos mediante la aplicación de esta Ley, incluida la posibilidad de corregir el estatus legal de la persona desaparecida.
+
+Séptimo. Las autoridades competentes deberán otorgar suficiencia presupuestal para el cumplimiento de lo establecido por esta Ley, además el Poder Judicial conserva la obligación de prever el impacto presupuestal para la debida ejecución de la presente Ley.
+
+Octavo. Las autoridades a las que se refiere el artículo 17 numeral 1 de esta Ley, en caso de no tener sus páginas oficiales, deberán habilitarlas para realizar las publicaciones de los edictos, en un plazo de quince días hábiles a partir de la entrada en vigor de esta Ley.
