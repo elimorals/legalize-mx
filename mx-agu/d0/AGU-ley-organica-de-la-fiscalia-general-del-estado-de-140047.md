@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-fiscalia-general-del-estado-de-140047"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-01-20"
-last_updated: "2020-12-28"
+last_updated: "2021-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de enero del 2020.
 
@@ -331,6 +331,10 @@ El patrimonio de la Fiscalía General será destinado única y estrictamente al 
 
 La Institución del Ministerio Público es el conjunto de principios y elementos, materiales, inmateriales y humanos, integrados en la Fiscalía General y ordenados sistemática, estructural y metodológicamente para el ejercicio de la pretensión punitiva del Estado y la procuración de justicia.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2021)</small>
+
+Podrán ejercer las atribuciones y facultades que correspondan a los Agentes del Ministerio Público, y serán considerados como tales para los efectos facultativos de esta Ley, el Fiscal General, Vicefiscales, Fiscales Especializados, Visitador, Directores Generales, Directores de Área y titulares de Unidades Especializadas, que por la naturaleza de sus funciones corresponda la pretensión punitiva del Estado, además de aquellos servidores públicos que el Fiscal General confiera dicha calidad, quienes deberán satisfacer los requisitos de ingreso establecidos en la Ley General de Seguridad Pública, con excepción de los que correspondan al procedimiento de formación inicial, los que serán ajenos al Servicio Profesional de Carrera.
+
 ###### ARTÍCULO 7°.
 
 La procuración de justicia, como objeto inherente a la Institución del Ministerio Público, consiste en la intervención sobre los actos de autoridad, en los términos y los supuestos contemplados por las leyes, que se realiza en nombre y representación de la sociedad, con el propósito de vigilar el cumplimiento de los principios fundamentales del sistema jurídico, de la legalidad y de las formalidades esenciales del procedimiento, así como en realizar cualquier acción tendiente a la observancia estricta, la salvaguarda y la protección de los derechos humanos.
@@ -389,9 +393,15 @@ d) Archivo;
 
 e) Innovación, Planeación y Desarrollo Tecnológico;
 
-f) Instituto de Formación Profesional; y
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2021)</small>
+
+f) Instituto de Formación Profesional;
 
 g) Unidad de Transparencia; y
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2021)</small>
+
+h) Centro de Evaluación y Control de Confianza.
 
 V. Órgano Interno de Control y Vigilancia:
 
@@ -1391,7 +1401,49 @@ IX. Elaboración de un informe anual de las actividades realizadas por la Unidad
 
 X. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+#### SECCIÓN NOVENA. Centro de Evaluación y Control de Confianza
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2021)</small>
+
+ARTÍCULO 84 A. La Fiscalía General contará con un Centro de Evaluación y Control de Confianza, el cual gozará de autonomía técnica operativa, de decisión y gestión para establecer los lineamientos, programas, mecanismos y modelos de actuación para coordinar, programar, colaborar y aplicar las evaluaciones periódicas de control de confianza de conformidad con las disposiciones legales vigentes y con base en lo establecido por el Centro Nacional de Certificación y Acreditación y en consecuencia emitir el certificado correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2021)</small>
+
+ARTÍCULO 84 B. El Centro de Evaluación y Control de Confianza de conformidad con la normatividad de la materia, aplicará las evaluaciones a los aspirantes e integrantes de la Fiscalía General, así como personal de otras instituciones públicas o privadas de seguridad y procuración de justicia que lo requieran formalmente, en los procedimientos de:
+
+I.- Ingreso;
+
+II.- Permanencia;
+
+III.- Promoción;
+
+IV.- Obtención y revalidación de la Licencia Oficial Colectiva para la portación de armas de fuego;
+
+V.- Certificación para la emisión del Certificado Único Policial; y
+
+VI.- Los demás previstos por la normatividad de la materia.
+
+Para la prestación de los servicios de evaluación en materia de control de confianza, y evaluaciones para la portación de arma de fuego a otras Instituciones mediará el pago de una contraprestación, de conformidad con las tarifas que para tal efecto se establezcan en la Ley de Ingresos del Estado de Aguascalientes para el Ejercicio Fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2021)</small>
+
+ARTÍCULO 84 C. Las evaluaciones que conforman el proceso de evaluación de control de confianza que aplique el Centro de Evaluación y Control de Confianza al personal evaluado de conformidad con la normatividad de la materia, serán los siguientes:
+
+I.- Investigación del entorno socioeconómico;
+
+II.- Médica;
+
+III.- Psicométrica y psicológica;
+
+IV.- Poligráfica;
+
+V.- Toxicológica; y
+
+VI.- Los demás que establezcan las normas aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2021)</small>
+
+ARTÍCULO 84 D. Las cuestiones relativas al Centro de Evaluación y Control de Confianza así como a las evaluaciones que realice, serán determinadas en el reglamento correspondiente.
 
 ###### ARTÍCULO 76.
 
@@ -1419,11 +1471,13 @@ VI. Elaborar, generar, sistematizar y, en su caso, difundir la información esta
 
 VII. Alimentar y actualizar los bancos de datos nacionales a los que deba aportar información la Fiscalía General, en el ámbito de sus competencias, fomentando el aprovechamiento de aquellos como apoyo en la investigación de los hechos presuntamente constitutivos de delito;
 
-VIII. Aplicar técnicas científicas y analíticas especializadas a la infraestructura tecnológica de la Fiscalía General, con el propósito de identificar, preservar, analizar y presentar ante la autoridad jurisdiccional, la información digital que sirva como prueba para el esclarecimiento de los hechos presuntamente constitutivos de delito y la resolución de los procedimientos por los que éstos se sustancien; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2021)</small>
+
+VIII. Aplicar técnicas científicas y analíticas especializadas a la infraestructura tecnológica, con el propósito de identificar, preservar, analizar y presentar ante la autoridad jurisdiccional, la información digital que sirva como prueba para el esclarecimiento de los hechos presuntamente constitutivos de delito y la resolución de los procedimientos por los que éstos se sustancien; y
 
 IX. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
-#### SECCIÓN SEGUNDA. Agentes del Ministerio Público Especializados en el Sistema Integral de Justicia Penal para Adolescentes
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### ARTÍCULO 79.
 
@@ -1457,7 +1511,7 @@ IX. Proponer la celebración de convenios con instituciones académicas, públic
 
 X. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
-#### SECCIÓN TERCERA. Agentes del Ministerio Público Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia
+#### SECCIÓN SEGUNDA. Agentes del Ministerio Público Especializados en el Sistema Integral de Justicia Penal para Adolescentes
 
 ###### ARTÍCULO 82.
 
@@ -1497,7 +1551,9 @@ VI. Garantizar el acceso y el funcionamiento de los medios de difusión de la Fi
 
 VII. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
-#### SECCIÓN CUARTA. Auxiliares del Ministerio Público
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE FEBRERO DE 2021)</small>
+
+#### SECCIÓN TERCERA. Agentes del Ministerio Público Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia
 
 ## TÍTULO CUARTO. ÓRGANO INTERNO DE CONTROL Y VIGILANCIA
 
@@ -1645,7 +1701,7 @@ II. En este supuesto, la denuncia podrá presentarse directamente ante el Congre
 
 ### CAPÍTULO II. Agentes de la Policía de Investigación
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+#### SECCIÓN CUARTA. Auxiliares del Ministerio Público
 
 ###### ARTÍCULO 97.
 
@@ -1737,7 +1793,7 @@ Los Agentes del Ministerio Público serán adscritos a las diversas áreas que i
 
 En casos excepcionales y tomando en consideración las necesidades del servicio y la disponibilidad presupuestal de la Fiscalía General, el Fiscal General podrá nombrar Agentes del Ministerio Público de designación especial, quienes deberán satisfacer los requisitos de ingreso establecidos en la Ley General de Seguridad Pública, con excepción de los que correspondan al procedimiento de formación inicial, serán ajenos al Servicio Profesional de Carrera y no podrán durar más de cinco años en su encargo.
 
-#### SECCIÓN SEGUNDA. Agentes de la Policía de Investigación Especializados en el Sistema Integral de Justicia Penal para Adolescentes
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### ARTÍCULO 102.
 
@@ -1755,7 +1811,7 @@ Asimismo, el Fiscal General podrá nombrar Agentes del Ministerio Público Espec
 
 Las atribuciones, facultades, deberes y obligaciones que corresponden a los Agentes del Ministerio Público, en términos de la presente Ley y de las demás disposiciones relativas, se entenderán igualmente aplicables a los Agentes del Ministerio Público Especializados en el Sistema Integral de Justicia Penal para Adolescentes, sin perjuicio de las previsiones específicas establecidas por las disposiciones especiales de la materia y siempre que no se opongan a ellas.
 
-#### SECCIÓN TERCERA. Agentes de la Policía de Investigación Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia
+#### SECCIÓN SEGUNDA. Agentes de la Policía de Investigación Especializados en el Sistema Integral de Justicia Penal para Adolescentes
 
 ###### ARTÍCULO 105.
 
@@ -1773,7 +1829,7 @@ Asimismo, el Fiscal General podrá nombrar Agentes del Ministerio Público Espec
 
 Las atribuciones, facultades, deberes y obligaciones que corresponden a los Agentes del Ministerio Público, en términos de la presente Ley y de las demás disposiciones relativas, se entenderán igualmente aplicables a los Agentes del Ministerio Público Especializados en Acceso de las Mujeres a una Vida Libre de Violencia, sin perjuicio de las previsiones específicas establecidas por las disposiciones especiales de la materia y siempre que no se opongan a ellas.
 
-#### SECCIÓN PRIMERA. Obligaciones e Incompatibilidades
+#### SECCIÓN TERCERA. Agentes de la Policía de Investigación Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia
 
 ###### ARTÍCULO 108.
 
@@ -1813,7 +1869,7 @@ En la investigación de hechos presuntamente constitutivos de delito, la Unidad 
 
 ### CAPÍTULO III. Peritos
 
-#### SECCIÓN SEGUNDA. Impedimentos, Excusas y Recusaciones
+#### SECCIÓN PRIMERA. Obligaciones e Incompatibilidades
 
 ###### ARTÍCULO 110.
 
@@ -1893,7 +1949,7 @@ Los Agentes de la Policía de Investigación serán adscritos a los diversos ele
 
 En casos excepcionales y tomando en consideración las necesidades del servicio y la disponibilidad presupuestal de la Fiscalía General, el Fiscal General podrá nombrar Agentes de la Policía de Investigación de designación especial, quienes deberán satisfacer los requisitos de ingreso establecidos en la Ley General de Seguridad Pública, con excepción de los que correspondan al procedimiento de formación inicial, serán ajenos al Servicio Profesional de Carrera y no podrán durar más de cinco años en su encargo.
 
-#### SECCIÓN TERCERA. Responsabilidades
+#### SECCIÓN SEGUNDA. Impedimentos, Excusas y Recusaciones
 
 ###### ARTÍCULO 116.
 
@@ -1911,7 +1967,7 @@ Asimismo, el Fiscal General podrá nombrar Agentes de la Policía de Investigaci
 
 Las atribuciones, facultades, deberes y obligaciones que corresponden a los Agentes de la Policía de Investigación, en términos de la presente Ley y de las demás disposiciones relativas, se entenderán igualmente aplicables a los Agentes de la Policía de Investigación Especializados en el Sistema Integral de Justicia Penal para Adolescentes, sin perjuicio de las previsiones específicas establecidas por las disposiciones especiales de la materia y siempre que no se opongan a ellas.
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+#### SECCIÓN TERCERA. Responsabilidades
 
 ###### ARTÍCULO 119.
 
@@ -2057,7 +2113,7 @@ En el caso de que las licencias sin goce de sueldo estén motivadas por razones 
 
 ### CAPÍTULO III. Suplencia de Servidores Públicos
 
-#### SECCIÓN SEGUNDA. Disposiciones Básicas
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### ARTÍCULO 135.
 
@@ -2125,7 +2181,7 @@ VII. Ejercer ni desempeñar las funciones de apoderado judicial, síndico, admin
 
 VIII. Ejercer ni desempeñar las funciones de depositario judicial, salvo en causa propia, de su cónyuge, concubina o concubinario, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado.
 
-#### SECCIÓN TERCERA. Ingreso, Desarrollo y Permanencia
+#### SECCIÓN SEGUNDA. Disposiciones Básicas
 
 ###### ARTÍCULO 137.
 
@@ -2161,7 +2217,7 @@ VII. Si el Fiscal General encuentra infundada e improcedente la recusación, el 
 
 Desde el momento en que se interponga la recusación, el Agente del Ministerio Público o el Perito de que se trate suspenderá el asunto y se abstendrá de actuar en él, salvo en el caso de que sea necesario llevar a cabo diligencias urgentes que no admitan dilación y las de mero trámite.
 
-#### SECCIÓN CUARTA. Estímulos y Reconocimientos
+#### SECCIÓN TERCERA. Ingreso, Desarrollo y Permanencia
 
 ###### ARTÍCULO 140.
 
@@ -2269,7 +2325,7 @@ c) De la persona titular de la Fiscalía Especializada en Delitos Electorales o 
 
 El régimen de suplencias de los servidores públicos de la Fiscalía General, distintos de los aludidos en los artículos 148, 149 y 150 de la presente Ley, se sujetará a las disposiciones que se establezcan para tal efecto en el reglamento que emane de la misma.
 
-#### SECCIÓN QUINTA. Terminación del Servicio
+#### SECCIÓN CUARTA. Estímulos y Reconocimientos
 
 ###### ARTÍCULO 152.
 
@@ -2291,7 +2347,7 @@ V. Garantizar la autonomía y la imparcialidad en el ejercicio y el cumplimiento
 
 VI. Dar continuidad a las políticas, los planes, los programas y a las acciones, generales y específicas, formuladas e implementadas en materia de las atribuciones inmanentes a la Institución del Ministerio Público, con el propósito de alcanzar las metas planteadas en ellos, y proseguir con aquellas que colaboren con la función de la seguridad pública.
 
-#### SECCIÓN SEXTA. Comisión del Servicio Profesional de Carrera
+#### SECCIÓN QUINTA. Terminación del Servicio
 
 ###### ARTÍCULO 154.
 
@@ -2357,7 +2413,7 @@ La Fiscalía General contará con un programa de profesionalización, cuyas cara
 
 Se encuentren sujetos o no al régimen del Servicio Profesional de Carrera, todos los servidores públicos de la Fiscalía General estarán obligados a aprobar las evaluaciones de control y confianza, del desempeño y de competencias profesionales prescritas en la presente Ley, así como también deberán ajustarse al sistema de profesionalización establecido en la misma y en las demás disposiciones aplicables.
 
-#### SECCIÓN SÉPTIMA. Comisión de Honor y Justicia
+#### SECCIÓN SEXTA. Comisión del Servicio Profesional de Carrera
 
 ###### ARTÍCULO 159.
 
@@ -2408,6 +2464,8 @@ IV. Recibir las remuneraciones y prestaciones laborales que correspondan al empl
 V. Acceder a los programas de capacitación, actualización, especialización, certificación y profesionalización; y
 
 VI. Los demás que señalen otras disposiciones legales aplicables, así como todos aquellos que sean inherentes al ejercicio del empleo, cargo o comisión que se ejerce.
+
+#### SECCIÓN SÉPTIMA. Comisión de Honor y Justicia
 
 ###### ARTÍCULO 164.
 
@@ -2594,3 +2652,15 @@ P.O. 28 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 477.- SE REFORMAN LOS ARTÍCULOS 9° FRACCIÓN IV, INCISO F); 78, FRACCIÓN VIII; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6°; EL INCISO H) A LA FRACCIÓN IV DEL ARTÍCULO 9°; Y LA SECCIÓN NOVENA AL CAPÍTULO IV DEL TÍTULO TERCERO, MISMA QUE INCLUYE LOS ARTÍCULOS 84 A, 84 B, 84 C Y 84 D, A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALÍENTES”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+El Fiscal General deberá realizar las modificaciones administrativas y reglamentarias que se requieran para cumplir con lo ordenado por el presente Decreto, en un término no mayor a ciento ochenta días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto.
