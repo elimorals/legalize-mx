@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2020-12-30"
+last_updated: "2021-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -97,9 +97,9 @@ II.- A la preferencia, en igualdad de circunstancias, en toda clase de concesion
 
 Son obligaciones de los nuevoleoneses:
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2021)</small>
 
-I.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas para obtener la educación preescolar, primaria, secundaria, media superior y reciban la militar en los términos que establezca la Ley;
+I.- Ser responsables de que sus hijas, hijos o pupilos menores de dieciocho años concurran a las escuelas para recibir educación obligatoria y, en su caso, reciban la militar, en los términos que establezca la Ley, así como participar en su proceso educativo, a revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo;
 
 II.- Asistir en los días y horas designados por el Ayuntamiento del lugar en que residan, para recibir instrucción cívica y militar que los mantenga aptos en el ejercicio de los derechos de ciudadano, diestros en el manejo de las armas y conocedores de la disciplina militar.
 
@@ -3685,47 +3685,47 @@ Todos los habitantes tienen el derecho a disfrutar de un ambiente sano para el d
 
 La niñez tiene derecho a una vida sana, a la satisfacción de sus necesidades de salud, alimentación, educación, identidad, sano esparcimiento, a la preparación para el trabajo y a llevar una vida digna y libre de violencia, para su desarrollo integral, así como a la convivencia familiar. El Estado proveerá lo necesario y expedirá leyes y normas para garantizar el acceso y goce pleno de todos sus derechos, tomando como consideración fundamental que siempre se atenderá al interés superior de la niñez.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2021)</small>
 
-El Estado realizará todas las acciones necesarias orientadas a lograr el derecho a una vida digna de las personas adultas mayores y promoverá su bienestar mediante un sistema de servicio social con la participación de la comunidad nuevoleonesa, que atienda sus problemas específicos en materia de salud, cultura, recreación y calidad de vida, debiendo expedir los ordenamientos jurídicos necesarios para garantizar o proteger sus derechos. La Ley ordinaria establecerá quienes serán considerados como personas adultas mayores para los efectos del presente Artículo.
+Toda persona tiene derecho a la educación; el Estado y los municipios impartirán y garantizarán la educación inicial, preescolar, primaria, secundaria, media superior y superior, dicha educación será universal, inclusiva, pública, gratuita y laica, en términos del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2021)</small>
 
-La enseñanza es libre; pero será laica la que se imparta en los establecimientos oficiales de educación.
+La educación inicial, preescolar, primaria y secundaria, conforman la educación básica; ésta y la media superior serán obligatorias. La educación inicial es un derecho de la niñez y será responsabilidad del Estado y los municipios concientizar sobre su importancia. La educación superior será obligatoria en términos del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos. El Estado establecerá políticas públicas para fomentar la inclusión, permanencia y continuidad en los términos que la Ley señale.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2021)</small>
 
-Las escuelas particulares sólo podrán establecerse sujetándose a la vigilancia e inspección oficiales.
+La educación se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Contribuirá a la mejor convivencia humana, a fortalecer el aprecio y respeto a la naturaleza. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de la paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia, promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2021)</small>
 
-El Estado impartirá educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias, al efecto el Estado garantizará la calidad en la educación obligatoria de manera que los materiales y métodos educativos, la organización escolar, la infraestructura educativa y la idoneidad de los docentes y los directivos garanticen el máximo logro de aprendizaje de los educandos.
+El Estado y los municipios priorizarán el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2021)</small>
 
-La educación que imparta el Estado, será de calidad con base en el mejoramiento constante y el máximo logro académico de los educandos, gratuita y tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él a la vez el amor a la patria, el respeto a los derechos humanos, la conciencia de la solidaridad internacional en la Independencia y en la justicia. Así mismo, contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
+Toda persona tiene derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica. El Estado apoyará la investigación e innovación científica, humanística y tecnológica y garantizará el acceso abierto a la información que deriva de ella, para lo cual deberá proveer de recursos y estímulos suficientes.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2021)</small>
 
-Además de impartir la educación básica y media superior obligatoria, el Estado promoverá y atenderá la educación inicial y la educación superior, así como todos los tipos y modalidades educativas necesarias para el desarrollo del individuo, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura.
+Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la Ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares.
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2021)</small>
 
-Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las Leyes de la materia.
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
 
-(ADICIONADO, P.O. 13 DE ABRIL DE 2012) (F. DE E. P.O. 24 DE SEPTIEMBRE DE 2012)
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE FEBRERO DE 2021)</small>
 
 Toda persona tiene derecho a disponer de agua suficiente, saludable, aceptable, accesible y asequible para su uso personal y doméstico.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2021)</small>
 
-Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
+Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como al ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE FEBRERO DE 2021)</small>
 
 Toda persona tiene derecho a la movilidad, a gozar de ciudades sustentables que garanticen una adecuada calidad de vida y acceder a un transporte público de calidad, digno y eficiente. El Estado proveerá lo necesario para garantizar dicho acceso.
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE FEBRERO DE 2021)</small>
 
 Todas las personas tienen el derecho a la paz. El Estado y los Municipios desarrollarán e implementarán políticas públicas dentro del sistema educativo y en todos los ámbitos a fin de garantizar este derecho.
 
@@ -5502,3 +5502,13 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 433. SE ADICIONA UN TEXTO A LA FRACCIÓN XVII ACTUALMENTE DEROGADA DEL ARTÍCULO 85 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 444. SE REFORMA EL ARTÍCULO 3 Y LA FRACCIÓN I DEL ARTÍCULO 34; DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo Estatal propondrá en el proyecto de Presupuesto de Egresos del Estado, para el ejercicio fiscal correspondiente, las partidas presupuestarias necesarias para garantizar el cumplimento del presente decreto
+
+TERCERO.- Para atender la educación inicial, el Estado y los Municipios se sujetarán a la Estrategia Nacional de Atención a la Primera Infancia, que al efecto expida el Ejecutivo Federal, en la cual se determinará la gradualidad de su impartición y su financiamiento
