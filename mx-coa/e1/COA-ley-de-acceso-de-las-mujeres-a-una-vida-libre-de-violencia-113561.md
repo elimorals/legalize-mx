@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2021-02-12"
+last_updated: "2021-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de marzo de 2016.
 
@@ -1085,9 +1085,11 @@ IV. Las organizaciones de la sociedad civil que tengan por objeto, realizar acci
 
 Podrán asistir también otras instituciones con el carácter de invitados para el desahogo de alguno de los puntos del orden del día, que por acuerdo de la Presidencia o Secretaría Técnica del Consejo deban participar en la sesión que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 43.
 
-A las sesiones del Consejo, deberá asistir el titular de las dependencias, quien en caso de ausencia, podrá designar a un representante, el cual participará con voz y voto.
+Consejo sesionará de forma ordinaria dos veces al año, y de forma extraordinaria las veces que se considere necesario; debiendo asistir el titular de cada dependencia, quien, en caso de ausencia, podrá designar a un representante, el cual participará con voz y voto.
 
 El Consejo funcionará de conformidad con lo establecido en el Reglamento de esta Ley.
 
@@ -2524,3 +2526,11 @@ P.O. 12 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 914.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 9 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 972.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 43 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
