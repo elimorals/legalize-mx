@@ -4,7 +4,7 @@ identifier: "COA-ley-de-igualdad-entre-mujeres-y-hombres-en-el-estado-de-94480"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2021-02-12"
+last_updated: "2021-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -437,7 +437,13 @@ I. La protección, observancia, promoción, estudio y divulgación de los derech
 
 II. El seguimiento de los resultados derivados de la ejecución de los convenios y acuerdos a que se refiere esta ley; y,
 
-III. Las demás que en la materia le confieran las leyes respectivas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2021)</small>
+
+III. Coadyuvar al establecimiento de las garantías necesarias para asegurar que los Derechos Humanos de las personas que se encuentren en el territorio del Estado de Coahuila de Zaragoza, sean reales, equitativos y efectivos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE FEBRERO DE 2021)</small>
+
+IV. Las demás que en la materia le confieran las leyes respectivas.
 
 ## Título III. De la política estatal para la igualdad entre mujeres y hombres
 
@@ -499,9 +505,57 @@ XV. Propiciar la igualdad de oportunidades para las mujeres en el uso y aprovech
 
 XVI. Alcanzar la paridad de mujeres y hombres en el liderazgo y toma de decisiones.
 
-### Capítulo segundo. De los instrumentos de la política en materia de igualdad entre mujeres y hombres
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE FEBRERO DE 2021)</small>
 
-### Capítulo tercero. Del Sistema Estatal para la Igualdad entre Mujeres y Hombres
+### Capítulo primero bis. Del acompañamiento sustantivo
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2021)</small>
+
+###### Artículo 20 Bis.
+
+Acompañamiento sustantivo
+
+El acompañamiento sustantivo en materia de igualdad es el que se efectúa para:
+
+I. Cambiar prácticas discriminatorias o tratos diferenciados;
+
+II. Atender las resoluciones que recaigan a las quejas presentadas contra la administración pública estatal; y
+
+III. Atender las recomendaciones que efectúa la comisión por quejas de prácticas de desigualdad y discriminación de organizaciones privadas o de particulares.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2021)</small>
+
+###### Artículo 20 Ter.
+
+Cuando procede el acompañamiento
+
+Procede el acompañamiento sustantivo:
+
+I. Cuando exista una queja;
+
+II. Sea resultado del seguimiento, y evaluación institucional, de la administración pública estatal
+
+III. A solicitud de los municipios del Estado;
+
+IV. Sea resultado del procedimiento que determine el procedimiento de acompañamiento sustantivo; y
+
+V. Por determinación del Sistema Estatal.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2021)</small>
+
+###### Artículo 20 Quater.
+
+Acompañamiento del Instituto Coahuilense de las Mujeres.
+
+Con motivo del acompañamiento sustantivo, el Instituto Coahuilense de las Mujeres, en términos de la Ley y su reglamento deberá:
+
+I. Solicitar al infractor su plan correctivo;
+
+II. Cuando encuentre presuntas prácticas desiguales en las áreas de la Administración Pública, podrá dar vista para su conocimiento a la Comisión de Derechos Humanos del Estado. Y;
+
+III. Realizar el monitoreo para la observancia y seguimiento a favor de la parte quejosa.
+
+### Capítulo segundo. De los instrumentos de la política en materia de igualdad entre mujeres y hombres
 
 ###### Artículo 21.
 
@@ -551,7 +605,7 @@ Observancia en materia de igualdad.
 
 La observancia en materia de igualdad tiene por objeto la construcción de un sistema de información con capacidad para conocer la situación que guarda la igualdad entre hombres y mujeres, y el efecto de las políticas públicas aplicadas en esta materia.
 
-### Capítulo cuarto. Del Programa Estatal para la Igualdad entre Mujeres y Hombres
+### Capítulo tercero. Del Sistema Estatal para la Igualdad entre Mujeres y Hombres
 
 ###### Artículo 26.
 
@@ -761,9 +815,7 @@ I. Definición de las responsabilidades que asuman las y los integrantes de los 
 
 II. Determinación de las acciones de orientación, estímulo y apoyo que dichos sectores llevarán a cabo en coordinación con las instituciones correspondientes.
 
-### Capítulo primero. De las acciones de la política estatal
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+### Capítulo cuarto. Del Programa Estatal para la Igualdad entre Mujeres y Hombres
 
 ###### Artículo 35.
 
@@ -791,9 +843,9 @@ En los informes anuales del Ejecutivo del Estado, podrá contenerse el estado qu
 
 ## Título IV. De los objetivos y acciones de la política estatal de igualdad entre mujeres y hombres
 
-### Capítulo segundo
+### Capítulo primero. De las acciones de la política estatal
 
-De la igualdad entre mujeres y hombres en la vida económica.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
 
 ###### Artículo 38.
 
@@ -841,7 +893,9 @@ IV. El derecho a una vida libre de estereotipos de género.
 
 V. El derecho a una vida libre de violencia de género.
 
-### Capítulo tercero. De la participación y representación política equilibrada de las mujeres y los hombres
+### Capítulo segundo
+
+De la igualdad entre mujeres y hombres en la vida económica.
 
 ###### Artículo 39.
 
@@ -943,7 +997,7 @@ XV. Establecer medidas para asegurar la corresponsabilidad en el trabajo y en la
 
 XVI. Fomentar el acceso al trabajo de las madres jefas de familia.
 
-### Capítulo cuarto. De la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres
+### Capítulo tercero. De la participación y representación política equilibrada de las mujeres y los hombres
 
 ###### Artículo 42.
 
@@ -971,7 +1025,7 @@ IV. Promover la participación equitativa del 50% en cargos públicos de Directo
 
 V. Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes ejecutivo legislativo y judicial.
 
-### Capítulo quinto. De la igualdad entre mujeres y hombres en la vida civil
+### Capítulo cuarto. De la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres
 
 ###### Artículo 44.
 
@@ -1009,9 +1063,7 @@ VII. Promover campañas de concientización para mujeres y hombres sobre su part
 
 VIII. Integrar el principio de igualdad en la formación del personal del servicio de salud, para atender situaciones de violencia de género.
 
-### Capítulo quinto bis. De la eliminación de estereotipos establecidos en función del sexo
-
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2016)</small>
+### Capítulo quinto. De la igualdad entre mujeres y hombres en la vida civil
 
 ###### Artículo 46.
 
@@ -1073,7 +1125,9 @@ XII. Establecer los mecanismos para la atención de las víctimas en todos los t
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2016)</small>
 
-### Capítulo sexto. Del derecho a la información y la participación social en materia de igualdad entre mujeres y hombres
+### Capítulo quinto bis. De la eliminación de estereotipos establecidos en función del sexo
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2016)</small>
 
 ###### Artículo 47 Bis.
 
@@ -1094,6 +1148,30 @@ III. Vigilar la integración de una perspectiva de género en todas las polític
 IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales; y
 
 V. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje.
+
+### Capítulo sexto. Del derecho a la información y la participación social en materia de igualdad entre mujeres y hombres
+
+###### Artículo 48.
+
+Derecho a la información en materia de igualdad.
+
+Toda persona tendrá derecho a que las autoridades y organismos públicos, previo cumplimiento de los requisitos que la ley de la materia establezca, pongan a su disposición la información que les soliciten sobre políticas, instrumentos y normas sobre igualdad entre mujeres y hombres.
+
+###### Artículo 49.
+
+Participación de la sociedad en las políticas de igualdad.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+El Ejecutivo del Estado por conducto del Instituto Coahuilense de las Mujeres, promoverá la participación de la sociedad en la planeación, diseño, aplicación y evaluación de los programas e instrumentos de la política de igualdad entre mujeres y hombres a que se refiere esta ley.
+
+###### Artículo 50.
+
+Alcance de los acuerdos en materia de igualdad.
+
+Los acuerdos y convenios que en materia de igualdad celebren el Ejecutivo y sus dependencias con el sector público o privado, podrán versar sobre todos los aspectos considerados en los instrumentos de política sobre igualdad, así como coadyuvar en labores de vigilancia y demás acciones operativas previstas en esta ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 2020)</small>
 
 ### Capítulo sexto bis. De la igualdad en el acceso a la justicia y a la seguridad pública
 
@@ -1120,28 +1198,6 @@ I. Asegurar que los operadores del sistema de procuración y administración de 
 II. Garantizar el respeto de los derechos humanos de las partes; y
 
 III. Favorecer la instalación de sistemas de información con indicadores desagregados por sexo.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 2020)</small>
-
-###### Artículo 48.
-
-Derecho a la información en materia de igualdad.
-
-Toda persona tendrá derecho a que las autoridades y organismos públicos, previo cumplimiento de los requisitos que la ley de la materia establezca, pongan a su disposición la información que les soliciten sobre políticas, instrumentos y normas sobre igualdad entre mujeres y hombres.
-
-###### Artículo 49.
-
-Participación de la sociedad en las políticas de igualdad.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-El Ejecutivo del Estado por conducto del Instituto Coahuilense de las Mujeres, promoverá la participación de la sociedad en la planeación, diseño, aplicación y evaluación de los programas e instrumentos de la política de igualdad entre mujeres y hombres a que se refiere esta ley.
-
-###### Artículo 50.
-
-Alcance de los acuerdos en materia de igualdad.
-
-Los acuerdos y convenios que en materia de igualdad celebren el Ejecutivo y sus dependencias con el sector público o privado, podrán versar sobre todos los aspectos considerados en los instrumentos de política sobre igualdad, así como coadyuvar en labores de vigilancia y demás acciones operativas previstas en esta ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 2020)</small>
 
@@ -1185,11 +1241,9 @@ VIII. Desarrollar políticas, planes y programas para la prevención, atención 
 
 IX. Garantizar el principio de igualdad sustantiva entre mujeres y hombres con relación a los derechos reales de propiedad, así como de uso y disfrute de tierras y del derecho fundamental a la no discriminación en materia agraria.
 
-### Capítulo único. Autoridad competente y acciones en materia de observancia
-
 ## Título V. De la observancia en materia de igualdad entre mujeres y hombres
 
-### Capítulo primero. Procedimiento para la igualdad
+### Capítulo único. Autoridad competente y acciones en materia de observancia
 
 ###### Artículo 51.
 
@@ -1223,7 +1277,7 @@ V. Las demás que sean necesarias para cumplir los objetivos de esta ley.
 
 ## Título VI. Del procedimiento para la igualdad por violaciones a la ley
 
-### Capítulo segundo. Trámite del procedimiento
+### Capítulo primero. Procedimiento para la igualdad
 
 ###### Artículo 54.
 
@@ -1235,7 +1289,7 @@ El procedimiento para la igualdad. cuyo fin será establecer prácticas de igual
 
 Conocerá y resolverá del procedimiento para la igualdad, el Instituto Coahuilense de las Mujeres o la persona en quien ella delegue dicha atribución.
 
-### Capítulo tercero. De las infracciones y sanciones
+### Capítulo segundo. Trámite del procedimiento
 
 ###### Artículo 55.
 
@@ -1285,7 +1339,7 @@ VII. La obligación de correr traslado de copia autorizada del expediente a la S
 
 VIII. El nombre y cargo del servidor público que emita la resolución.
 
-### Capítulo cuarto. Recurso de inconformidad
+### Capítulo tercero. De las infracciones y sanciones
 
 ###### Artículo 58.
 
@@ -1332,6 +1386,8 @@ I. La gravedad de la conducta discriminatoria contra la mujer o el hombre;
 II. Las condiciones socio-económicas del infractor; y
 
 III. Si se trata de reincidencia.
+
+### Capítulo cuarto. Recurso de inconformidad
 
 ###### Artículo 61.
 
@@ -1598,3 +1654,17 @@ P.O. 12 DE FEBRERO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 971.- SE ADICIONA EL CAPÍTULO PRIMERO BIS Y LOS ARTÍCULOS DEL 20 BIS AL 20 QUATER A LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 973.- SE REFORMA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN IV DEL ARTÍCULO 19 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
