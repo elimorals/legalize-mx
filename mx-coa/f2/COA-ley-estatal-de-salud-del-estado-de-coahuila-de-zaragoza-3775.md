@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2021-02-12"
+last_updated: "2021-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -2235,6 +2235,10 @@ I. Crear un padrón de instituciones y organismos públicos y privados que reali
 
 II. Celebrar convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, con el fin de que quienes requieran de asistencia puedan, conforme a sus necesidades, características y posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2021)</small>
+
+Aquellos establecimientos que brinden atención residencial deberán contar con el aviso de funcionamiento respectivo, así como el registro como institución especializada ante el Conadic.
+
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 Artículo 154 bis 4. La Secretaría, en coordinación con la Secretaría de Salud de la Federación, realizará procesos de investigación en materia de farmacodependencia para:
@@ -4154,3 +4158,9 @@ P.O. 12 DE FEBRERO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 974.- SE ADICONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 154 BIS 3, DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
