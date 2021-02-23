@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-social-del-estado-de-coahuila-de-125289"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2020-11-17"
+last_updated: "2021-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 26 de diciembre de 2017.
 
@@ -222,6 +222,10 @@ El padrón de beneficiarios de los programas sociales se integrará con datos de
 ###### Artículo 12.
 
 Los sujetos del desarrollo social podrán beneficiarse de los programas de desarrollo social, cumpliendo con la elegibilidad y la normatividad que cada programa establezca. El Gobierno del estado y los Gobiernos municipales deberán cumplir y hacer cumplir los derechos sociales en el ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2021)</small>
+
+Los programas de desarrollo social deberán incorporar elementos de accesibilidad, disponibilidad y calidad, de tal forma que garanticen la progresividad, el ejercicio pleno y la ampliación de los derechos sociales.
 
 ###### Artículo 13.
 
@@ -994,3 +998,11 @@ P.O. 17 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 759.- SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 1° DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 966.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
