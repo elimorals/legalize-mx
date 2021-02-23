@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2021-02-12"
+last_updated: "2021-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -3079,7 +3079,9 @@ II. Se le haya infligido por el sujeto activo una o más lesiones o mutilaciones
 
 III. Existan antecedentes o datos de cualquier tipo de violencia o discriminación por género en el ámbito familiar, laboral, o escolar, del sujeto activo contra la víctima;
 
-IV. Haya existido entre el sujeto activo y la víctima una relación sentimental, afectiva o de confianza;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2021)</small>
+
+IV. Haya existido entre el sujeto activo y la víctima una relación sentimental, afectiva o de confianza; o bien, que haya existido la pretensión infructuosa del sujeto activo de establecer o restablecer una relación de pareja, sexual, o de intimidad con la víctima.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2019)</small>
 
@@ -3155,7 +3157,9 @@ Se impondrá de seis a catorce años de prisión y multa, al agente que solo pre
 
 Si en el supuesto del párrafo precedente, el agente presta la ayuda hasta el punto de causar él mismo la muerte, se le impondrá de siete a dieciséis años de prisión y multa. Más si el agente también fue determinador, se le impondrá de ocho a diecisiete años de prisión y multa.
 
-Se impondrá de dieciocho a treinta años de prisión y multa, al agente que determine o ayude a quien tenga menos de quince años, a que se prive de su vida, si el suicidio se consuma.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2021)</small>
+
+Se impondrá de dieciocho a treinta años de prisión y multa, al agente que determine o ayude a quien tenga menos de quince años, persona adulta mayor o mujer en estado de embarazo a que se prive de su vida, si el suicidio se consuma.
 
 En cualquiera de los supuestos de este artículo y del anterior, se privará al agente de los derechos sucesorios que tenga o pueda tener frente a la víctima.
 
@@ -4379,7 +4383,15 @@ II. (Afectación de datos o información contenidos en un sistema informático)
 
 Se impondrá de cuatro meses a cuatro años de prisión y de setecientos cincuenta a mil quinientos días multa, a quien sin consentimiento de quien tenga derecho de disponer de datos o información privada contenidos en un sistema informático, a propósito, altere, dañe, borre, destruya o de cualquier otra manera provoque a propósito la pérdida de datos o información contenidos en el sistema.
 
-Si en los supuestos del párrafo precedente hubiera algún resguardo o copia de los datos o información afectados, solo se impondrá al autor de cuatro meses a un año de libertad supervisada y de quinientos a mil días multa.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2021)</small>
+
+Se aplicará hasta un tercio más de las penas previstas en el párrafo anterior cuando las conductas delictivas establecidas recaigan sobre datos o información que pertenezcan a un sistema informático de periodistas o trabajadores de medios de comunicación.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN II, P.O. 23 DE FEBRERO DE 2021.]</small>
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE FEBRERO DE 2021)</small>
+
+Si en los supuestos del primer párrafo de la presente fracción hubiera algún resguardo o copia de los datos o información afectados, solo se impondrá al autor de cuatro meses a un año de libertad supervisada y de quinientos a mil días multa.
 
 ### Capítulo Único. Delitos de inhumación, exhumación y abuso de cadáveres, y de daños a féretros y sepulcros
 
@@ -4649,11 +4661,11 @@ VIII. (Participación de menor de edad)
 
 Valiéndose de un menor de doce años; o con la intervención de quien tenga doce años o más, pero menos de dieciocho años, ya sea que el mismo intervenga como autor, determinador o como cómplice.
 
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2021)</small>
 
 IX. (Robo a centros educativos)
 
-Cuando se cometa en contra de uno o más bienes de cualquier institución pública o privada que funcione como Centro Educativo.
+Cuando se cometa en contra de uno o más bienes de cualquier institución pública o privada que funcione como Centro Educativo, o bien, a quien adquiera, oculte o comercialice algún bien producto de dicho robo, conociendo la procedencia del mismo.
 
 > <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -8252,3 +8264,39 @@ P.O. 12 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 902.- SE REFORMAN LOS ARTÍCULOS 455 Y 457 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 984.- SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 194 DEL CÓDIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 985.- SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA UN PÁRRAFO TERCERO A LA FRACCIÓN II DEL ARTÍCULO 273 DEL CÓDIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 986.- SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 285 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 987.- SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 188 DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 988.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 291 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
