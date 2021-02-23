@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2021-01-26"
+last_updated: "2021-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1111,9 +1111,9 @@ IX. En materia de derechos humanos.
 
 3. Rendir los informes solicitados por los organismos defensores de derechos humanos y pronunciarse sobre la aceptación o rechazo de sus recomendaciones, observaciones o resoluciones.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE FEBRERO DE 2021)</small>
 
-4. Capacitar a todos los servidores públicos de la administración municipal en los temas relativos al respeto, protección y garantía de los derechos humanos, así como promover y difundir la cultura de respeto a los derechos humanos entre la población.
+4. Sensibilizar y capacitar a todos los servidores públicos de la administración municipal en los temas relativos al respeto, protección y garantía de los derechos humanos, así como promover y difundir la cultura de respeto a los derechos humanos entre la población y la importancia del municipio en la promoción del empoderamiento de las mujeres y la igualdad de género.
 
 Las políticas públicas tendrán como finalidad eliminar las inequidades y desigualdades y promoverán la realización de los derechos humanos de grupos de población en situación de vulnerabilidad, mediante programas integrales que potencialicen las capacidades de las personas con la finalidad de contribuir a su desarrollo y mejorar sus condiciones de vida y faciliten el acceso pleno de éstos al ejercicio integral de los derechos humanos.
 
@@ -1315,7 +1315,9 @@ VIII. Presentar al Ayuntamiento iniciativas de reglamentos, bandos de policía y
 
 IX. Solicitar autorización expresa, en cada caso que se trate, al Ayuntamiento para desistirse, transigir, comprometerse en arbitrios o hacer cesión de bienes.
 
-X. En los lugares que no hubiera representante del Ministerio Público, corresponde al síndico, fungir como agente Investigador del Ministerio Público, con las mismas atribuciones y obligaciones de éste
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2021)</small>
+
+X. En los lugares que no hubiera representante del Ministerio Público, corresponde al síndico, fungir como agente Investigador del Ministerio Público, con las mismas atribuciones y obligaciones de éste, aplicando los estándares nacionales e internacionales en materia de derechos humanos, perspectiva de género, interculturalidad y perspectiva de niñez y adolescencia, para lo cual deberán de recibir la capacitación correspondiente.
 
 XI. Asistir puntualmente a las sesiones del Ayuntamiento con voz y voto.
 
@@ -5252,3 +5254,15 @@ P.O. 26 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 834.- SE REFORMA EL ARTÍCULO 50 Y LAS FRACCIONES II, IX Y XVI DEL ARTÍCULO 133, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 977.- SE REFORMA EL NUMERAL 4 DE LA FRACCIÓN IX DEL ARTÍCULO 102 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 978.- SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 106 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
