@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-y-proteccion-de-derechos-del-87792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-27"
-last_updated: "2021-01-29"
+last_updated: "2021-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de abril de 2012.
 
@@ -895,7 +895,9 @@ III. Realizar investigaciones en todas las disciplinas médicas y sociales que c
 
 IV. Implementar campañas de conocimiento y concientización a la sociedad, sobre la atención oportuna del Trastorno del Espectro Autista, así como el trato social con las personas diagnosticadas con él;
 
-V. Promover la formación profesional de especialistas en las diversas disciplinas que concurren en el en el estudio y atención del trastorno del espectro autista.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2021)</small>
+
+V. Promover la formación profesional de especialistas en las diversas disciplinas que concurren en el estudio y atención del trastorno del espectro autista. Así mismo, la Dirección del Centro de Investigación y Atención del Autismo, deberá de realizar con las Instituciones de Educación Superior Públicas y Privadas del Estado, los convenios de colaboración interinstitucional que sean necesarios para concretar la debida formación y acreditación profesional de los especialistas para la atención integral de las personas con la condición del espectro autista.
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2017)</small>
 
@@ -1536,3 +1538,9 @@ P.O. 29 DE ENERO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1000.- SE REFORMA LA FRACCIÓN V, DEL ARTÍCULO 46-C, DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
