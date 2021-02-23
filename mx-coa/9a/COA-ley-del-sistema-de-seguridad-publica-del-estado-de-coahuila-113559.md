@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-de-seguridad-publica-del-estado-de-coahuila-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-09"
-last_updated: "2020-11-25"
+last_updated: "2021-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 9 de marzo de 2016.
 
@@ -213,7 +213,9 @@ Convenios
 
 La coordinación entre las instituciones de seguridad pública y de los municipios se hará con respeto absoluto de sus atribuciones constitucionales.
 
-Los ayuntamientos, podrán celebrar convenios con el Estado para que presten coordinadamente los servicios de seguridad pública, estableciendo la autoridad que asumirá el mando, o bien, convenir que el Estado los asuma totalmente, bajo el esquema operativo de mando único en forma temporal cuando a juicio de los ayuntamientos sea necesario, fijando los mecanismos, medios, recursos y atribuciones, homologando logísticamente sus cuerpos de seguridad a los de Fuerza Coahuila, así como los demás elementos y condiciones que se requieran de conformidad con la legislación aplicable.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2021)</small>
+
+Los ayuntamientos, podrán celebrar convenios con el Estado para que presten coordinadamente los servicios de seguridad pública, estableciendo la autoridad que asumirá el mando, o bien, convenir que el Estado los asuma totalmente, bajo el esquema operativo de mando único en forma temporal cuando a juicio de los ayuntamientos sea necesario, fijando los mecanismos, medios, recursos y atribuciones, homologando logísticamente sus cuerpos de seguridad a los de la Policía del Estado, así como los demás elementos y condiciones que se requieran de conformidad con la legislación aplicable.
 
 Asimismo, los municipios, el Estado y la Federación podrán celebrar convenios o acuerdos específicos para la realización conjunta de operaciones policiales de combate a la delincuencia, estableciendo la autoridad que ejercerá el mando.
 
@@ -1542,6 +1544,14 @@ XL. Prestar auxilio congruente, oportuno y proporcional al hecho, a las personas
 XLI. Inscribir las detenciones en el Registro Administrativo de Detenciones conforme a las disposiciones aplicables; y
 
 XLII. Las demás que establezcan el Código Nacional de Procedimientos Penales, la Ley General y otras disposiciones legales aplicables.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XLII, P.O. 23 DE FEBRERO DE 2021.]</small>
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2021)</small>
+
+Serán responsables por las violaciones a derechos humanos que cometan y deberán garantizar la indemnización correspondiente a las víctimas en los términos de las leyes aplicables y conforme a la determinación de las autoridades competentes, sin perjuicio de las sanciones que resulten aplicables para los responsables.
+
+.... (SIC)
 
 ###### Artículo 82.
 
@@ -4078,3 +4088,15 @@ CUARTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendici�
 Asimismo, los asuntos que se encuentren en trámite del Secretariado Ejecutivo, serán transferidos a la Secretaría de Seguridad Pública.
 
 QUINTO. Los derechos laborales del personal del Secretariado Ejecutivo que, en virtud de lo dispuesto en la presente Ley, sean transferidos de la Secretaría de Gobierno a la Secretaría de Seguridad Pública, serán respetados conforme a las disposiciones aplicables.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 969.- SE ADICIONA UN PÁRRAFO A LA FRACCIÓN XLII DEL ARTÍCULO 81 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 970.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 9 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
