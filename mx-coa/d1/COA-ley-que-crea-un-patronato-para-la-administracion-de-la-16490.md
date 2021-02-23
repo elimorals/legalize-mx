@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-un-patronato-para-la-administracion-de-la-16490"
 country: "mx"
 rank: "ley"
 publication_date: "1969-12-10"
-last_updated: "1969-12-10"
+last_updated: "2021-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE CREA UN PATRONATO PARA LA ADMINISTRACIÓN DE LA UNIDAD DEPORTIVA "TORREÓN" Y EL GIMNASIO MUNICIPAL "TORREÓN"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 10 de diciembre de 1969.
 
@@ -91,9 +91,11 @@ l).- Las Dependencias de la Universidad de Coahuila.
 
 m).- Cualesquiera otros organismos o instituciones que a juicio del Patronato, puedan utilizar las instalaciones con los fines anotados en la presente Ley.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2021)</small>
+
 ###### ARTICULO 4o.
 
-La solicitud de que trata la fracción III del artículo anterior, deberá presentarse ante el Presidente del Patronato y será resuelta por el Patronato en pleno. La resolución que conceda o niegue el permiso, será comunicada a los interesados en un plazo máximo de dos días.
+La solicitud de que se trata la fracción III del artículo anterior, deberá presentarse ante el presidente del Patronato y será resuelta por él mismo. La resolución que conceda o niegue el permiso, será comunicada a los interesados en un plazo máximo de cinco días.
 
 ###### ARTICULO 5o.
 
@@ -239,7 +241,9 @@ I.- La representación jurídica del Patronato estará a cargo del Presidente y 
 
 II.- Las resoluciones del Patronato se tomarán por mayoría de votos de los miembros. En caso de empate, el Presidente tendrá voto de calidad.
 
-III.- Las erogaciones que deba efectuar el Patronato para la atención de la administración, operación, conservación, mantenimiento y demás gastos generales necesarios para el funcionamiento de las instalaciones, se ajustarán al presupuesto que se formulará por el Patronato cada seis meses.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2021)</small>
+
+III.- Las erogaciones que deba efectuar el Patronato para la atención de la administración, operación, conservación, mantenimiento y demás gastos generales necesarios para el funcionamiento de las instalaciones, se ajustarán al presupuesto que se formulará por el Patronato anualmente.
 
 IV.- La personalidad y capacidad jurídica del Patronato, quedarán limitadas a no ejercer actos de dominio o comprometer los bienes muebles e inmuebles, equipos y numerario que se encuentran bajo su posesión y responsabilidad, sino mediante autorización expersa (sic) del Gobierno del Estado, concedida a través de su representante.
 
@@ -255,7 +259,9 @@ IX.- Celebrar toda clase de actos y contratos que requiera la administración, o
 
 X.- Nombrar y remover al personal necesario.
 
-XI.- Celebrar sesiones ordinarias dentro de los primeros diez días de cada mes y las extraordinarias que sean necesarias, para acordar los asuntos urgentes.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2021)</small>
+
+XI.- Celebrar sesiones ordinarias el tercer sábado de cada mes y las extraordinarias que sean necesarias, para acordar los asuntos urgentes.
 
 XII.- Informar semestralmente sobre las actividades desarrolladas y rendir cuenta pública en relación a los ingresos y egresos.
 
@@ -308,3 +314,11 @@ BRAULIO FERNANDEZ AGUIRRE.- Rúbrica.
 EL SRIO. DEL EJECUTIVO DEL ESTADO.
 
 LIC. VIRGILIO VERDUZCO G.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 989.- SE MODIFICA EL CONTENIDO DEL ARTÍCULO 4, Y SE MODIFICA TAMBIÉN EL CONTENIDO DE LAS FRACCIONES III Y XI DEL ARTÍCULO 23 DE LA LEY QUE CREA UN PATRONATO PARA LA ADMINISTRACIÓN DE LA UNIDAD DEPORTIVA “TORREÓN” Y EL GIMNASIO MUNICIPAL “TORREÓN”.]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
