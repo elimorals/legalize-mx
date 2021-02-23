@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-ordenamiento-territorial-y-125287"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2020-12-30"
+last_updated: "2021-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de diciembre de 2017.
 
@@ -63,7 +63,11 @@ VI. Prescribir las normas conforme a las cuales se dará la política del suelo 
 
 VII. Determinar las normas conforme a las cuales se sujetará la autorización de las acciones urbanísticas en la entidad;
 
-VIII. Establecer las normas generales para la construcción, ampliación, remodelación, reparación, demolición y reconstrucción de inmuebles de propiedad pública o privada, así como de obras de equipamiento, infraestructura y servicios urbanos en la entidad;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2021)</small>
+
+VIII. Establecer las normas generales para reglamentar, autorizar y vigilar la urbanización de áreas y predios, contemplando básicamente acciones de construcción, ampliación, remodelación, reparación, demolición y reconstrucción de inmuebles de propiedad pública o privada, así como de obras de equipamiento, infraestructura y servicios urbanos en la entidad;
+
+Igualmente, fijar los derechos, deberes y obligaciones de los propietarios o poseedores de inmuebles privados.
 
 IX. Fijar las normas básicas para la prevención de riesgos y contingencias en los asentamientos humanos, tendiente a garantizar la seguridad y protección civil de sus habitantes;
 
@@ -285,7 +289,9 @@ XI. La estructuración interna de los centros de población y la dotación sufic
 
 XII. La prevención, control y atención de riesgos y contingencias ambientales y urbanos, evitando la ocupación de zonas de riesgo, natural o antropogénico, así como promoviendo la reubicación de población asentada en zonas de alto riesgo;
 
-XIII. La conservación y mejoramiento del ambiente y la imagen urbana en los asentamientos humanos;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2021)</small>
+
+XIII. La conservación, aseguramiento y mejoramiento del medio ambiente, zonas naturales y la imagen urbana en los asentamientos humanos;
 
 XIV. El uso y rescate del espacio público, así como la preservación y acrecentamiento del patrimonio cultural inmueble de los centros de población;
 
@@ -517,7 +523,13 @@ XXVI. Imponer medidas de seguridad y sanciones administrativas a los infractores
 
 XXVII. Resolver sobre los recursos administrativos que conforme a su competencia le sean planteados;
 
-XXVIII. Las demás que les señale esta Leyy (sic) otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2021)</small>
+
+XXVIII. Crear estrategias de acción y atención respecto predios y áreas no edificadas, semi edificadas, no utilizadas, no ocupados o en aparente abandono que por su calidad de no funcionalidad, propician un clima negativo y de peligro en la comunidad donde se encuentre ubicado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE FEBRERO DE 2021)</small>
+
+XXIX. Las demás que les señale esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -1579,7 +1591,9 @@ V. Aprovechamiento sustentable de los recursos naturales;
 
 VI. Acceso igualitario a toda la población a los servicios, equipamiento, espacios públicos y, en general, a los diversos satisfactores que debe ofrecer la ciudad;
 
-VII. Pleno aprovechamiento del suelo urbano, y de los inmuebles públicos y privados no edificados, no utilizados, subutilizados o no ocupados, para el cumplimiento de la función social de la propiedad;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2021)</small>
+
+VII. Pleno aprovechamiento del suelo urbano y de los inmuebles públicos y privados no edificados o semi edificados, no utilizados o abandonados, subutilizados, vacantes o no ocupados, para el cumplimiento de la función social de la propiedad;
 
 VIII. Asegurar el interés público y establecer acciones para propiciar la seguridad jurídica en la tenencia de la tierra;
 
@@ -2493,7 +2507,9 @@ II. Topografía-hidráulica;
 
 III. Sistemas de agua potable y alcantarillado;
 
-IV. Vialidad;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2021)</small>
+
+IV. Vialidad, movilidad y sustentabilidad ecológica;
 
 V. Pavimentación, electrificación, alumbrado público y telefonía;
 
@@ -2881,7 +2897,9 @@ a) No se permitirán muros medianeros y las instalaciones de agua potable y dren
 
 b) Para su autorización deben presentarse tanto el proyecto de urbanización como el proyecto de edificación;
 
-c) No se permitirá la venta de lotes sin edificación;
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2021)</small>
+
+c) No se permitirá la venta de lotes sin edificación, ni tampoco edificados y que aún no cuenten con la totalidad de las características contenidas en la fracción V de este artículo, relacionadas al contenido mínimo de infraestructura urbana;
 
 d) Que las vialidades de acceso a las viviendas sean públicas;
 
@@ -2933,7 +2951,9 @@ a) No se permitirán muros medianeros y las instalaciones de agua potable y dren
 
 b) Para su autorización deben presentarse tanto el proyecto de urbanización como el proyecto de edificación;
 
-c) No se permitirá la venta de lotes sin edificación;
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2021)</small>
+
+c) No se permitirá la venta de lotes sin edificación, ni tampoco edificados y que aún no cuenten con la totalidad de las características contenidas en la fracción V de este artículo, relacionadas al contenido mínimo de infraestructura urbana;
 
 d) Que las vialidades de acceso a las viviendas sean públicas;
 
@@ -3733,6 +3753,10 @@ Las edificaciones, de acuerdo con su tipo y ubicación, deberán contar con espa
 
 Los propietarios de las edificaciones y predios deben conservarlos en buenas condiciones de estabilidad, servicio, aspecto e higiene y adoptar las medidas conducentes a fin de evitar riesgos para la integridad personal de los vecinos y su patrimonio.
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2021)</small>
+
+Para dar cumplimiento en lo dispuesto por el párrafo anterior, los propietarios y/o poseedores de edificaciones o predios deberán implementar de manera constante acciones de atención, mantenimiento, conservación o limpieza en sus inmuebles, especialmente en aquellos que se encuentren no edificados o semi edificados, no utilizados o abandonados, subutilizados, vacantes o no ocupados.
+
 #### SECCIÓN SEGUNDA. DE LAS ZONAS AEROPORTUARIAS
 
 ###### Artículo 288.
@@ -4258,3 +4282,11 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 924.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 161; SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 161, DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 967.- SE REFORMA: LA FRACCIÓN VIII DEL ARTÍCULO 1, LA FRACCIÓN XIII DEL ARTÍCULO 5, LA FRACCIÓN XXVIII DEL ARTÍCULO 12, LA FRACCIÓN VII DEL ARTÍCULO 95, LA FRACCIÓN IV DEL ARTÍCULO 169, EL INCISO C) DE LA FRACCIÓN II DEL ARTÍCULO 197 Y EL INCISO C) DE LA FRACCIÓN II DEL ARTÍCULO 198; SE ADICIONA: LA FRACCIÓN XXIX AL ARTÍCULO 12 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 287, TODOS ESTOS DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
