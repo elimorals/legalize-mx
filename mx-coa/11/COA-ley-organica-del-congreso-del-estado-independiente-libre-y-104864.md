@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2021-01-26"
+last_updated: "2021-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -821,9 +821,13 @@ Las fracciones no tendrán suplente.
 
 La Junta de Gobierno se reunirá, de preferencia un día antes de la celebración de las sesiones del Pleno o de la Diputación Permanente, sin perjuicio de que se pueda reunir cuando se considere necesario, a convocatoria de la o el Presidente, o suspender su sesión semanal a juicio de la propia Junta.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2021)</small>
+
 ###### ARTÍCULO 66.
 
-Las sesiones ordinarias de la Junta de Gobierno, se citarán con la debida anticipación y se realizarán bajo un orden del día, que será elaborado, conforme a las instrucciones de la Presidencia, y el cual estará sujeto a la aprobación de la propia Junta.
+Las sesiones ordinarias de la Junta de Gobierno, se citarán con al menos veinticuatro horas de anticipación, señalándose el lugar, fecha y hora para ello, y se realizarán bajo un orden del día, que será elaborado, conforme a las instrucciones de la Presidencia, y el cual estará sujeto a la aprobación de la propia Junta.
+
+En caso de asuntos urgentes, la Junta de Gobierno podrá celebrar sesiones extraordinarias, siempre que la convocatoria se notifique a sus integrantes con al menos ocho horas de anticipación.
 
 ###### ARTÍCULO 67.
 
@@ -3682,6 +3686,14 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 P.O. 26 DE ENERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 868.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 120 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 976.- SE REFORMA EL ARTÍCULO 66 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
 
 PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
