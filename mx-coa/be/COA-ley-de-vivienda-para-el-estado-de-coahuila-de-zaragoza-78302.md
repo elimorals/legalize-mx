@@ -4,7 +4,7 @@ identifier: "COA-ley-de-vivienda-para-el-estado-de-coahuila-de-zaragoza-78302"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-17"
-last_updated: "2020-10-20"
+last_updated: "2021-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de diciembre de 2010.
 
@@ -45,9 +45,11 @@ LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 La presente ley es de orden público e interés social y tiene por objeto establecer las políticas, bases y lineamientos generales para promover dentro del territorio del Estado de Coahuila de Zaragoza el acceso a las personas, principalmente a aquellas que se encuentren en situación de vulnerabilidad, a una vivienda digna y decorosa; así como establecer y regular la política estatal de vivienda, y los programas sectoriales que de ésta se deriven.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2021)</small>
+
 ###### ARTÍCULO 2.
 
-Se considerará vivienda digna y decorosa aquella que cuente con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión, contemple especificaciones de construcción y de calidad de materiales para la prevención de desastres y la protección de la integridad física de sus ocupantes ante los elementos naturales eventualmente agresivos, y cumpla con las disposiciones jurídicas relativas a asentamientos humanos, construcción, habitabilidad y salubridad.
+Se considerará vivienda digna y decorosa la que cuente con espacios habitables y auxiliares, así como con los servicios básicos, que brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión; que contemple especificaciones y criterios de construcción y de calidad de materiales para la prevención de desastres y la protección de la integridad física de sus ocupantes ante los elementos naturales eventualmente agresivos. Deberá cumplir con las disposiciones jurídicas aplicables en materia de asentamientos humanos, construcción, habitabilidad y salubridad.
 
 Para los efectos de este artículo se entenderá por servicios básicos los de agua potable, energía eléctrica y drenaje.
 
@@ -100,6 +102,14 @@ X. Sector vulnerable. Grupo de la población que por diversos factores de carác
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
 XI. Sistema. El Sistema Estatal de la Vivienda.
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2021)</small>
+
+XII. Espacios Habitables: Lugares de la vivienda donde se desarrollan actividades básicas y de reunión, recreación o descanso, que cuentan con las dimensiones mínimas de superficie, altura, ventilación e iluminación natural, y de los cuales serán como mínimo un baño, cocina, estancia-comedor y dos recamaras, de conformidad con las características y condiciones mínimas necesarias que establezcan las leyes supletorias en la materia y las normas oficiales mexicanas;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2021)</small>
+
+XIII. Espacios Auxiliares: Lugares de la vivienda donde se desarrollan actividades de trabajo, higiene y circulación.
 
 ### CAPÍTULO SEGUNDO. AUTORIDADES COMPETENTES
 
@@ -329,7 +339,11 @@ XV. Fomento a la asesoría y asistencia en materia de gestión financiera, legal
 
 XVI. Promoción a la ocupación de los predios baldíos y propiedades ociosas, y
 
-XVII. Los demás que determinen la presente ley, las autoridades competentes y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2021)</small>
+
+XVII. Establecimiento de los criterios mínimos correspondientes a los espacios habitables y auxiliares;
+
+XVIII. Los demás que determinen la presente ley, las autoridades competentes y otras disposiciones aplicables.
 
 #### SECCIÓN SEGUNDA. PROGRAMAS DE VIVIENDA
 
@@ -1180,3 +1194,11 @@ P.O. 20 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 755.- SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 8 Y LAS FRACCIONES I, VI Y IX DEL ARTÍCULO 10, DE LA LEY DE VIVIENDA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado; y
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 968.- SE REFORMAN: EL PRIMER PÁRRAFO DEL ARTÍCULO 2 Y LA FRACCIÓN XVII DEL ARTÍCULO 12, RECORRIENDO LA QUE OCUPABA ESE LUGAR AL NUMERAL CONSECUENTE; SE ADICIONAN: LAS FRACCIONES XII Y XIII AL ARTÍCULO 6, TODOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
