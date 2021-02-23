@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-y-trato-digno-a-los-seres-sintientes-para-967
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2020-08-07"
+last_updated: "2021-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 29 de noviembre de 2013.
 
@@ -447,7 +447,13 @@ XV.- Las corridas de toros, novillos, becerros o vaquillas y los rejoneos; el en
 
 XVI.- Las mutilaciones estéticas;
 
-XVII.- Las demás que establezca la presente ley y los ordenamientos jurídicos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2021)</small>
+
+XVII.- Utilizar de manera intencional la pirotecnia con el objeto de provocar la muerte, mutilación o cualquier daño a un animal.
+
+(REUBICADA, P.O. 23 DE FEBRERO DE 2021)
+
+XVIII.- Las demás que establezca la presente ley y los ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
@@ -1366,3 +1372,9 @@ P.O. 7 DE AGOSTO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 975.- SE REFORMA LA FRACCIÓN XVII RECORRIENDO LA ACTUAL A LA SUBSECUENTE DEL ARTÍCULO 20 DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
