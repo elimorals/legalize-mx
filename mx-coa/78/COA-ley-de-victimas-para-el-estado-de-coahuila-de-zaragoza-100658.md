@@ -4,7 +4,7 @@ identifier: "COA-ley-de-victimas-para-el-estado-de-coahuila-de-zaragoza-100658"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-02"
-last_updated: "2020-11-27"
+last_updated: "2021-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 2 de mayo de 2014.
 
@@ -49,11 +49,17 @@ La presente ley contiene disposiciones de orden público, interés social y obse
 
 El objeto de esta Ley es:
 
-I. Reconocer, regular y garantizar los derechos de las víctimas del delito y de violaciones a derechos humanos;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2021)</small>
+
+I. Reconocer, regular y garantizar los derechos de las víctimas del delito y de violaciones a derechos humanos, previstos en esta ley, en la Ley General de Víctimas, en la Constitución Política Mexicana y en los Tratados Internacionales de derechos humanos de los que el Estado Mexicano es parte;
 
 II. Garantizar el efectivo ejercicio del derecho de acceso a la justicia, en estricto cumplimiento al debido proceso legal;
 
-III. Establecer y coordinar las acciones y medidas necesarias para promover, respetar, proteger y garantizar el ejercicio efectivo de los derechos de las víctimas; así como implementar los mecanismos para que las autoridades estatales, en el ámbito de sus respectivas competencias, cumplan con sus obligaciones de prevenir, investigar, sancionar y lograr la reparación integral. Los municipios regularán y garantizarán estas obligaciones en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2021)</small>
+
+III. Establecer y coordinar las acciones y medidas necesarias para promover, respetar, proteger, garantizar y permitir el ejercicio efectivo de los derechos de las víctimas; así como implementar los mecanismos para que las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, regulen y garanticen el cumplimiento de estas acciones y medidas, y cumplan con sus obligaciones de prevenir, investigar, sancionar y lograr la reparación integral.
+
+Lo anterior, siempre con una observancia máxima de las normas jurídicas que protegen a las víctimas, aplicando siempre aquella acción, medida o disposición que más le favorezca o le cause menor perjuicio o daño.
 
 IV. Establecer los deberes y obligaciones a cargo de las autoridades y de todo aquel que intervenga en los procedimientos relacionados con las víctimas;
 
@@ -2500,3 +2506,11 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 981.- SE REFORMA: LA FRACCIÓN I Y FRACCIÓN III DEL ARTÍCULO 2, DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
