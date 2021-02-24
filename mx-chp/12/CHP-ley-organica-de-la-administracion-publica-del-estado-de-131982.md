@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-131982"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-08"
-last_updated: "2020-08-05"
+last_updated: "2021-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2021.
 
 Ley publicada en el Número 414 del Periódico Oficial del Estado de Chiapas, el sábado 8 de diciembre de 2018.
 
@@ -657,7 +657,9 @@ I. Coordinar, planear y supervisar el sistema estatal de protección civil.
 
 II. Diseñar el proyecto del Programa Estatal de Protección Civil y someterlo a consideración del Consejo Estatal de Protección Civil.
 
-III. Solicitar en representación del Titular del Poder Ejecutivo Estatal, cuando este se encuentre ausente, la corroboración del desastre ante la Comisión Nacional del Agua, así como la emisión de declaratorias de emergencias y de desastres ante la Secretaría de Gobernación para el acceso de los fondos federales.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2021)</small>
+
+III. Solicitar en representación del Titular del Poder Ejecutivo Estatal, cuando éste así lo instruya, la corroboración de desastre ante el organismo rector en la materia, así como la emisión de declaratorias de emergencia y de desastres ante la instancia federal correspondiente, para el acceso a los fondos y programas federales.
 
 IV. Verificar que el Atlas Estatal de riesgos contemple según la identificación y diagnostico realizados, los riesgos a los que se encuentra expuesta la entidad.
 
@@ -695,7 +697,17 @@ XX. Impulsar en el ámbito de su respectiva competencia, la política pública d
 
 XXI. Coordinar las acciones y funcionamiento de los servicios de transportes aéreos del Ejecutivo del Estado, procurando que su uso se priorice en la atención y protección de la ciudadanía en situación de riesgo, derivado de las emergencias y desastres naturales.
 
-XXII. Los demás asuntos que le correspondan, en los términos de las leyes aplicables y su reglamento interior, las que establezca el Consejo Estatal de Protección Civil, y los que determine el Titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2021)</small>
+
+XXII. Coordinar las acciones para el combate de incendios forestales y quema, y coadyuvar con las autoridades competentes en la prevención de los mismos.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2021)</small>
+
+XXIII. Ejecutar el programa estatal de manejo integral del fuego.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE FEBRERO DE 2021)</small>
+
+XXIV. Los demás asuntos que le correspondan, en los términos de las leyes aplicables y su reglamento interior, las que establezca el Consejo Estatal de Protección Civil, y los que determine el Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 34.
 
@@ -1446,3 +1458,17 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan o contravengan lo establecido en el presente Decreto.
 
 Artículo Tercero.- Las atribuciones que por este decreto se derogan, se entenderán conferidas, transferidas, asumidas y atendidas por el organismo público descentralizado denominado Instituto del Patrimonio del Estado, así como, las referencias y/o menciones que las demás disposiciones legales otorgan a la anterior Dirección de Patrimonio adscrita a la Secretaría General de Gobierno.
+
+P.O. 24 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 215 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo establecido en el presente Decreto.
+
+Artículo Tercero.- A la entrada en vigor del presente decreto, el Titular de la Secretaría de Protección Civil, someterá a consideración del Titular del Ejecutivo del Estado, las adecuaciones que correspondan al marco jurídico de su actuación, en un plazo que no exceda de noventa días hábiles, a efecto de hacerlos congruentes con las disposiciones del mismo.
+
+Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+Artículo Quinto.- Las atribuciones o referencias contenidas en otras leyes y demás normatividad aplicable, respecto a las funciones de manejo, control y combate de incendios forestales, se entenderán concedidas y transferidas a la Secretaría de Protección Civil, sin que ello implique la transferencia de recursos humanos, materiales y financieros, los cuales seguirán perteneciendo a la Secretaría de Medio Ambiente e Historia Natural.
