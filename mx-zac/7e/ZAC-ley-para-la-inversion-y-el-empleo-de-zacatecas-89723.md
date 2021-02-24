@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-inversion-y-el-empleo-de-zacatecas-89723"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-29"
-last_updated: "2016-10-05"
+last_updated: "2021-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 29 de septiembre de 2012.
 
@@ -426,6 +426,10 @@ r. Las demás que considere necesarias para alcanzar los objetivos que establece
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 s. Promover la inclusión laboral para grupos vulnerables.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2021)</small>
+
+t. Proponer políticas públicas encaminadas a fortalecer los derechos humanos en las empresas públicas y privadas, así como elaborar las iniciativas de ley, decreto y reglamento que correspondan.
 
 ###### Artículo 31.
 
@@ -1097,6 +1101,10 @@ g. Acciones para el desarrollo de proveedores.
 
 h. Asesoría para la inclusión laboral en las empresas de personas con discapacidad, así como para diseñar estrategias de accesibilidad, a través de ajustes razonables.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2021)</small>
+
+i. Impartir cursos sobre los derechos humanos en las empresas, así como promover estrategias tendientes a compartir las mejores prácticas entre las mismas en dicho tema.
+
 ###### Artículo 101.
 
 En casos extraordinarios, tratándose de inversiones estratégicas para el Estado, el Gobernador del Estado, previa opinión de la Junta de Participación Ciudadana del Consejo, tendrá amplias facultades para otorgar incentivos fiscales, económicos o no monetarios, incluyendo otros diversos a los que señala le presente Ley.
@@ -1149,7 +1157,11 @@ X. Ordenar y practicar visitas de verificación a los Inversionistas que disfrut
 
 XI. Procurar la simplificación, modernización, aprovechamiento de las tecnologías y transparencia en los procedimientos a que refiere la presente Ley; y
 
-XII. Las demás que establezca la presente Ley y su Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2021)</small>
+
+XII. Promover en las empresas un programa de respeto a los derechos humanos, acorde a los tratados internacionales, la legislación en la materia y las recomendaciones de la Comisión Nacional de Derechos Humanos, y
+
+XIII. Las demás que establezca la presente Ley y su Reglamento.
 
 #### SECCIÓN TERCERA. PROCEDIMIENTO DE OTORGAMIENTO DE INCENTIVOS
 
@@ -1632,3 +1644,11 @@ P.O. 5 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 608.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 24 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 569.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS Y DE LA LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. Publíquese el presente Decreto en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente decreto.
