@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1151
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-02"
-last_updated: "2018-04-11"
+last_updated: "2021-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el jueves 2 de junio de 2016.
 
@@ -693,7 +693,9 @@ Además de lo señalado en el artículo 39 de la presente Ley, los sujetos oblig
 
 I. Las tesis y ejecutorias publicadas en la gaceta respectiva;
 
-II. Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2021)</small>
+
+II. Las versiones públicas de todas las sentencias emitidas, con los respectivos votos particulares, si los hubiere;
 
 III. Las versiones estenográficas de las sesiones públicas;
 
@@ -2788,3 +2790,11 @@ P.O. 11 DE ABRIL DE 2018.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Segundo. La Legislatura del Estado, dentro de los 30 días naturales posteriores a la entrada en vigor del presente decreto, deberá designar al titular del Órgano Interno de Control del Instituto, a través del procedimiento descrito en el artículo 145 de esta Ley.
+
+P.O. 24 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 612.- SE REFORMA LA FRACCIÓN II, DEL ARTÍCULO 43 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Dentro del plazo de noventa días naturales, el Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, deberá expedir y publicar en el Periódico Oficial, Órgano de Gobierno del Estado, las modificaciones que deriven del presente decreto en su Reglamento Interior y los demás ordenamientos.
