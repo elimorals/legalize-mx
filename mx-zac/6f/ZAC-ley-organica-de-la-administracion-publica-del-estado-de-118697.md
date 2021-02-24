@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-118697"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-11-30"
-last_updated: "2021-02-20"
+last_updated: "2021-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento 3 al Número 96 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de noviembre de 2016.
 
@@ -355,9 +355,15 @@ XXVII. Instruir el procedimiento para otorgar concesiones en materia de transpor
 
 XXVIII. Proponer al Gobernador los acuerdos administrativos para la suspensión y revocación de las concesiones;
 
-XXIX. Vigilar el correcto funcionamiento de la Junta Local de Conciliación y Arbitraje; y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2021)</small>
 
-XXX. Las demás que le señalen las leyes y reglamentos vigentes o le encomiende directamente el Gobernador.
+XXIX. Vigilar el correcto funcionamiento de la Junta Local de Conciliación y Arbitraje;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2021)</small>
+
+XXX. Dar seguimiento a las recomendaciones emitidas por la Comisión Nacional de Derechos Humanos y la Comisión de Derechos Humanos del Estado, así como dictar las medidas administrativas correspondientes, y
+
+XXXI. Las demás que le señalen las leyes y reglamentos vigentes o le encomiende directamente el Gobernador.
 
 ###### Artículo 27.
 
@@ -1824,3 +1830,11 @@ P.O. 20 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 614.- REFORMAS Y ADICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS".]
 
 Artículo único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno de Zacatecas.
+
+P.O. 24 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 569.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS Y DE LA LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. Publíquese el presente Decreto en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente decreto.
