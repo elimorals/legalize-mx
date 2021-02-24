@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fomento-para-el-desarrollo-economico-del-estado-de-33813
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-16"
-last_updated: "2013-03-23"
+last_updated: "2021-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 16 de agosto de 2003.
 
@@ -117,9 +117,13 @@ IV. Generar las condiciones para la formación y desarrollo de las micro, median
 
 V. Integrar las cadenas productivas en una dinámica en la que las empresas se fortalezcan entre sí, para hacer más efectiva la función de proveer insumos y servicios en beneficio de la rentabilidad económica y competitiva a favor de los consumidores de bienes y servicios;
 
-VI. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADA, P.O. 23 DE MARZO DE 2013)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2021)</small>
 
-VII. Generar una nueva cultura laboral y empresarial que entienda el desarrollo como un proceso que reclama la participación conjunta de las instituciones públicas y de los actores económicos privados y sociales, que revaloren el concepto de calidad y excelencia en la actividad económica;
+VI. Ofrecer un marco jurídico, que bajo criterios de equidad social, productividad y respeto a los derechos humanos, garantice la certidumbre a la inversión en todo el proceso productivo;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2021)</small>
+
+VII. Generar una nueva cultura laboral y empresarial que entienda el desarrollo como un proceso que reclama el respeto a los derechos humanos, la participación conjunta de las instituciones públicas y de los actores económicos privados y sociales, que revaloren el concepto de calidad y excelencia en la actividad económica;
 
 VIII. Identificar las vocaciones económicas estratégicas de la Entidad y fomentar su integración y desarrollo a la dinámica del mercado regional, nacional e internacional;
 
@@ -257,9 +261,11 @@ IV. Celebrar convenios de coordinación en materia de desarrollo económico con 
 
 V. Remitir a la Legislatura la iniciativa de Presupuesto de Egresos que sustente el Programa Operativo Anual de la Secretaría, y
 
-VI. Aplicar las disposiciones de la presente ley, por conducto de la
+VI. Aplicar las disposiciones de la presente ley, por conducto de la Secretaría.
 
-Secretaría.
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2021)</small>
+
+VII. Promover políticas públicas encaminadas a fortalecer los derechos humanos en las empresas públicas y privadas, así como elaborar las iniciativas de ley, decreto y reglamento que correspondan.
 
 ###### ARTÍCULO 7.
 
@@ -300,6 +306,10 @@ XIV. Estructurar mecanismos adecuados para que el Gobierno del Estado defienda a
 XV. Diseñar los programas de contingencia económica cuando resulte necesario, y
 
 XVI. Ceñir su actuación a lo que disponga la ley, su reglamento interior, y demás disposiciones normativas.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2021)</small>
+
+XVII. Promover en las empresas un programa de respeto a los derechos humanos, acorde a los tratados internacionales, la legislación en la materia y las recomendaciones de la Comisión Nacional de Derechos Humanos.
 
 ###### ARTÍCULO 9.
 
@@ -794,3 +804,11 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 24 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 569.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS Y DE LA LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. Publíquese el presente Decreto en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente decreto.
