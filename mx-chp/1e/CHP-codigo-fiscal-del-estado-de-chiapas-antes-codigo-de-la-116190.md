@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2020-12-31"
+last_updated: "2021-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2021.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -4727,9 +4727,9 @@ I. Los Organismos Públicos son responsables de:
 
 a. Administrar y registrar los recursos conforme a la normatividad correspondiente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE FEBRERO DE 2021)</small>
 
-b) Informar y validar trimestralmente sobre el ejercicio, destino y resultados obtenidos, a través del Sistema de Reporte de Recursos Federales Transferidos establecido por la Secretaría de Hacienda y Crédito Público, en los quince días naturales posteriores a la terminación de cada trimestre del ejercicio fiscal.
+b) Informar y validar trimestralmente sobre el ejercicio, destino y resultados obtenidos, a través del Sistema de Reporte de Recursos Federales Transferidos establecido por la Secretaría de Hacienda y Crédito Público, en los veinticinco días naturales posteriores a la terminación de cada trimestre del ejercicio fiscal.
 
 Dicha información debe contener como mínimo los siguientes rubros:
 
@@ -6988,5 +6988,13 @@ P.O. 31 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 057 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS”.]
 
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veintiuno.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 216 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto en el presente Decreto.
