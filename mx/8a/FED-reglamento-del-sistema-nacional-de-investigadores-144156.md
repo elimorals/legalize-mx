@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadores-144156"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-09-21"
-last_updated: "2020-09-21"
+last_updated: "2021-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144156&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2020-09-07"
 ---
 # REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE FEBRERO DE 2021 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 24 DE FEBRERO DE 2021.]</small>
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 21 de septiembre de 2020.
 
@@ -749,7 +749,9 @@ I. Por la falta de notificación de los/las investigadores(as) nacionales Eméri
 
 II. Por no presentar un comprobante de adscripción actualizado en los términos de lo establecido en el Reglamento;
 
-III. Por incumplir con las fracciones I, II, III y IV del Artículo 67 del Reglamento, y
+> <small>(F. DE E., D.O.F. 24 DE FEBRERO DE 2021)</small>
+
+III. Por incumplir con las fracciones I, II, III y IV del artículo 71 del Reglamento, y
 
 IV. Cuando la persona integrante de este Sistema:
 
@@ -801,7 +803,9 @@ VI. El reconocimiento que se otorga a los miembros del SNI les impone el deber d
 
 VII. Cuando participe en las comisiones del SNI deberá observar en todo momento las normas de ética, confidencialidad, evitar todo tipo de discriminación, y en su caso, deberá excusarse de opinar o recomendar, cuando tenga algún conflicto de interés directo o indirecto en el asunto o exista amistad o enemistad manifiesta con alguna de las personas evaluadas.
 
-En el caso de los/las investigadores(as) que se encuentren en el extranjero, no serán aplicables las fracciones I, II y V cuando no gozan del (sic) apoyos económicos asociados a la distinción.
+> <small>(F. DE E., D.O.F. 24 DE FEBRERO DE 2021)</small>
+
+En el caso de los/las investigadores(as) que se encuentren en el extranjero, no les serán aplicables las fracciones I, II y V cuando no gocen de los apoyos económicos asociados a la distinción.
 
 ###### Artículo 72.
 
