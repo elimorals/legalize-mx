@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-justicia-alternativa-del-estado-de-zacatecas-65462"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2013-03-23"
+last_updated: "2021-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 31 de diciembre de 2008.
 
@@ -63,7 +63,9 @@ Objeto
 
 Esta Ley tiene por objeto:
 
-I. Hacer posible el acceso de los particulares a los procedimientos alternativos establecidos en esta Ley para la solución de conflictos;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2021)</small>
+
+I. Hacer posible el acceso de los particulares a los procedimientos alternativos establecidos en esta Ley y en la legislación nacional en materia penal, de mecanismos alternativos de solución de controversias en materia penal, de ejecución penal y sobre el sistema integral de justicia para adolescentes;
 
 II. Establecer los principios, bases, requisitos y condiciones para desarrollar un sistema de métodos alternativos para la solución de los conflictos entre particulares;
 
@@ -97,7 +99,7 @@ VI. Mediación: el procedimiento voluntario en el cual un profesional cualificad
 
 VII. Conciliación: el procedimiento voluntario en el cual un profesional cualificado, imparcial y con potestad para proponer soluciones a las partes, asiste a las personas involucradas en un conflicto con la finalidad de facilitar las vías de diálogo y la búsqueda de un acuerdo en común;
 
-VIII. Procedimiento Restaurativo: el mecanismo mediante el cual el imputado, la víctima y la comunidad implicada trabajan en la solución de cuestiones derivadas del delito, en busca de un acuerdo que atienda las necesidades y responsabilidades individuales y colectivas de las partes permitiendo la reintegración de la víctima y el infractor a la sociedad;
+VIII. (DEROGADA, P.O. 24 DE FEBRERO DE 2021)
 
 IX. Especialista: el servidor público capacitado y certificado por el Centro Estatal o profesional independiente certificado por el mismo, cualificado para la aplicación de los procedimientos alternativos;
 
@@ -155,6 +157,10 @@ El Ejecutivo del Estado, podrá establecer Instancias de Justicia Alternativa a 
 
 Los particulares, por sí o a través de instituciones privadas, podrán prestar servicios profesionales como especialistas en la solución de conflictos a través de los procedimientos alternativos previstos en esta Ley, siempre y cuando cumplan con los requisitos que la misma establece.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2021)</small>
+
+Los Centros de Justicia Alternativa del Poder Judicial del Estado podrán conocer de los procedimientos previstos en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
+
 Procedencia
 
 ###### Artículo 8.
@@ -165,15 +171,19 @@ I. En materia civil, familiar o mercantil aquéllos asuntos que sean susceptible
 
 El Centro Estatal de Justicia Alternativa podrá conocer en los supuestos que enumera el artículo 283 bis del Código Familiar vigente en el Estado sólo para efectos preventivos, sin perjuicio de que los interesados acudan ante otra instancia a denunciar un posible hecho punitivo.
 
-II. En materia penal sólo procederá respecto de hechos típicos culposos; aquéllos en los que proceda el perdón de la víctima u ofendido; los de contenido patrimonial que se hayan cometido sin violencia sobre las personas; en los que admitan presumiblemente la sustitución de sanciones o condena condicional, así como en aquéllos cuya pena media aritmética no exceda de cinco años de prisión y carezcan de trascendencia social.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE FEBRERO DE 2021)</small>
 
-Se exceptúan de esta fracción los homicidios culposos producidos en accidentes de tránsito bajo el influjo de sustancias que alteren la capacidad de conducir vehículos; los delitos en contra de la libertad y seguridad sexuales y de violencia familiar; los delitos cometidos por servidores públicos en el ejercicio de sus funciones o con motivo de ellas y los realizados por sujetos que pertenezcan a alguna asociación delictuosa de conformidad con el Código Penal en vigor, y
+II. En materia penal, las soluciones alternas previstas en el Código Nacional de Procedimientos Penales y en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, así como las medidas penitenciarias y de ejecución de medidas de sanción establecidas en la Ley Nacional de Ejecución Penal;
 
-III. En materia de justicia para adolescentes sólo procederá en aquéllos hechos típicos que no ameriten privación de la libertad, de conformidad con la Ley de Justicia para Adolescentes en el Estado de Zacatecas.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE FEBRERO DE 2021)</small>
 
-Se exceptúan de esta fracción los delitos de carácter sexual, los cometidos en perjuicio de menores y los casos de violencia familiar.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE FEBRERO DE 2021)</small>
 
-Para que proceda la aplicación de mecanismos alternativos de solución de conflictos en materia penal y de justicia para adolescentes, será necesario, de manera ineludible, cubrir en su totalidad la reparación del daño causado y el juez que apruebe el convenio o acuerdo respectivo, vigilará su exacto cumplimiento a favor de las víctimas y los ofendidos.
+III. En materia de justicia para adolescentes, las soluciones alternas previstas en la Ley Nacional del Sistema Integral de Justicia para Adolescentes y las demás leyes de la materia.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE FEBRERO DE 2021)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE FEBRERO DE 2021)</small>
 
 Oportunidad
 
@@ -181,19 +191,21 @@ Oportunidad
 
 Los procedimientos alternativos pueden ser previos o complementarios al proceso, en consecuencia, podrán aplicarse tanto en conflictos, que no han sido planteados ante las instancias jurisdiccionales, como en aquéllos que sean materia de un proceso formalmente instaurado, siempre que en éste último caso no se haya dictado sentencia ejecutoria tratándose de asuntos de naturaleza civil, familiar o mercantil.
 
-Si el conflicto de naturaleza penal es materia de un proceso formalmente instaurado bajo el Código de Procedimientos Penales para el Estado de Zacatecas, de mil novecientos sesenta y siete, procederá la aplicación de procedimientos alternativos hasta antes del desahogo de la audiencia final a que se refiere el artículos 298 y 299 bis fracción séptima de ese ordenamiento legal, cuando así lo permita la fracción II del artículo anterior de esta Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE FEBRERO DE 2021)</small>
 
-Cuando el conflicto de naturaleza penal sea materia de un proceso formalmente instaurado bajo el Código Procesal Penal para el Estado de Zacatecas, de dos mil siete, o bien, bajo la Ley de Justicia para Adolescentes en el Estado de Zacatecas, los procedimientos alternativos sólo serán procedentes hasta antes de que se dicte la resolución que declara la apertura del periodo de juicio, en los supuestos que lo permitan las fracciones II y III, respectivamente, del artículo anterior de este ordenamiento.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE FEBRERO DE 2021)</small>
 
 Suspensión del Proceso y Prescripción
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 10.
 
-El trámite de los procedimientos alternativos, de manera previa a la instauración del juicio o de la interposición de la denuncia o querella, no interrumpe los términos para la prescripción de las acciones previstas en las leyes aplicables.
+El trámite de los procedimientos alternativos en materia civil, familiar o mercantil, de manera previa a la instauración del juicio, no interrumpe los términos para la prescripción de las acciones previstas en las leyes aplicables.
 
 Si el trámite del procedimiento alternativo se deriva de un juicio civil, familiar o mercantil, se suspenderán los plazos y términos dentro del juicio a partir del día en que el Centro de Justicia Alternativa, señale fecha para la primer sesión y hasta aquél en que por cualquier causa concluya el trámite de los procedimientos alternativos, para lo cual el Centro de Justicia Alternativa informará estas circunstancias al Juez del conocimiento. La aceptación para el sometimiento a procedimientos alternativos implica la aceptación de las partes en la suspensión del proceso en los términos aquí precisados.
 
-Cuando el trámite del procedimiento alternativo derive de un proceso penal o de un proceso especial para adolescentes, la suspensión del proceso y de la prescripción de la acción penal no podrá extenderse más de treinta días hábiles, a partir del día en que el Centro de Justicia Alternativa señale fecha para la sesión inicial, lo cual deberá informarse al Juez o Ministerio Público que conozca del asunto para los efectos legales a que haya lugar. Si a juicio del Juez o del Ministerio Público existen actuaciones urgentes o inaplazables, éstas se realizaran.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE FEBRERO DE 2021)</small>
 
 Obligación de Informar
 
@@ -201,7 +213,7 @@ Obligación de Informar
 
 En los juicios del orden civil, familiar o mercantil en los que proceda el trámite de procedimientos alternativos, el Juez tendrá la obligación de hacer del conocimiento a las partes de los beneficios y bondades que les brindan los procedimientos alternativos, en consecuencia, al emitir el auto de radicación se expondrá por escrito esta información, indicando el domicilio del Centro Estatal o Centro Regional correspondiente y notificando este auto a las partes.
 
-En los conflictos del orden penal que puedan someterse a algún procedimiento alternativo, el Ministerio Público, desde el momento en que tenga conocimiento de los hechos, tendrá la obligación de hacer del conocimiento a las partes de los beneficios y bondades que les brindan los procedimientos alternativos, exhortándolas a avenirse mediante un acuerdo. Cuando el Ministerio Público incumpla esta obligación, el Juez del conocimiento otorgará esa información.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE FEBRERO DE 2021)</small>
 
 En caso de que las partes manifiesten su conformidad en someterse a algún procedimiento alternativo, se procederá en términos del artículo anterior. Si nada manifestaran al respecto, continuará el proceso, sin perjuicio de que manifiesten posteriormente, por escrito, su voluntad de someterse a un procedimiento no jurisdiccional para resolver el conflicto.
 
@@ -219,9 +231,11 @@ Los especialistas que conduzcan un procedimiento alternativo en los términos de
 
 Del Centro Estatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 13.
 
-Se crea el Centro Estatal de Justicia Alternativa, como un órgano del Poder Judicial del Estado, con autonomía técnica para conocer y solucionar, a través de los procedimientos previstos en este ordenamiento, los conflictos en materia civil, familiar, mercantil que le planteen los particulares, le remita el órgano jurisdiccional u otra institución, en los términos de esta Ley. Por lo que ve a la materia penal serán los mediadores, facilitadores, conciliadores dependientes de la Procuraduría General de Justicia del Estado.
+Se crea el Centro Estatal de Justicia Alternativa, como un órgano del Poder Judicial del Estado, con autonomía técnica para conocer y solucionar, a través de los procedimientos previstos en este ordenamiento, los conflictos en materia civil, familiar, mercantil que le planteen los particulares, le remita el órgano jurisdiccional u otra institución, en los términos de esta Ley. En materia penal, la Fiscalía General de Justicia del Estado y los Centros de Justicia Alternativa del Poder Judicial del Estado podrán conocer de los procedimientos previstos en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
 
 El Centro Estatal residirá en la Capital del Estado y tendrá competencia en todo el territorio de Zacatecas, por sí o por conducto de los Centros Regionales que determine el Pleno del Tribunal Superior de Justicia, de acuerdo con las necesidades de la población y la capacidad presupuestal.
 
@@ -261,7 +275,9 @@ Corresponde al Centro Estatal:
 
 I. Vigilar el cumplimiento de la presente Ley;
 
-II. Desarrollar y administrar un sistema de medios alternativos de solución de conflictos en los términos de esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2021)</small>
+
+II. Desarrollar y administrar un sistema de medios alternativos de solución de conflictos en los términos de esta Ley, la Ley Nacional dé Mecanismos Alternativos de Solución de Controversias en Materia Penal y sus Reglamentos;
 
 III. Prestar a las personas que lo soliciten, los servicios de información y orientación gratuita sobre los procedimientos alternativos a que se refiere este ordenamiento;
 
@@ -315,7 +331,9 @@ Dirección, Duración y Ausencias
 
 El Centro Estatal estará a cargo de un Director General, quien para el ejercicio de sus atribuciones se apoyará de un Subdirector. Los Centros Regionales estarán a cargo de un Director Regional.
 
-El Director General, el Subdirector y los Directores Regionales durarán en el ejercicio de su encargo cuatro años contados a partir de que entren en funciones y podrán ser ratificados para el período siguiente; sólo dejarán de ejercerlas por destitución, suspensión, renuncia o retiro, en los términos previstos en la Constitución Política del Estado, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas, la Ley Orgánica del Poder Judicial del Estado y esta Ley.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2021)</small>
+
+El Director General, el Subdirector y los Directores Regionales durarán en el ejercicio de su encargo cuatro años contados a partir de que entren en funciones y podrán ser ratificados para el período siguiente; sólo dejarán de ejercerlas por destitución, suspensión, renuncia o retiro, en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado; la Ley General de Responsabilidades Administrativas, la Ley Orgánica del Poder Judicial del Estado y esta Ley.
 
 Las ausencias del Director General del Centro Estatal que no excedan de tres meses serán cubiertas por el Subdirector del Centro Estatal. Si éstas excedieren de ese tiempo, el Pleno del Tribunal Superior de Justicia nombrará a un Director General interino, o realizará una nueva designación, cuando la ausencia sea definitiva. En este último caso, el funcionario designado durará en su encargo por todo el tiempo que falte para concluir el período que corresponda. Las ausencias del Subdirector y de los Directores Regionales que no excedan de tres meses, serán cubiertas por el servidor público que designe el Director General del Centro Estatal. Si excediere de este tiempo se procederá en iguales términos que para el Director General.
 
@@ -813,9 +831,9 @@ Aprobación Judicial del Convenio
 
 Las partes que, en los términos de esta Ley, hubieren solucionado una controversia de naturaleza civil, familiar o mercantil a través del proceso de mediación o de conciliación deberán solicitar al Juez del conocimiento o ante el Juez de Primera Instancia competente, que apruebe el acuerdo o convenio que celebraron, obligándolas a estar y pasar por él y lo eleve a la categoría de sentencia ejecutoria, para que surta los efectos de cosa juzgada respecto de las partes. El juez examinará si el acuerdo o convenio se apega a derecho y si está acreditado el interés jurídico de las partes. En caso de que sea procedente, lo aprobará y lo elevará a la categoría de sentencia ejecutoria. No podrá aprobar parcialmente el acuerdo o convenio, por lo que sólo será procedente su autorización total.
 
-En materia penal, el acuerdo que derive del procedimiento de mediación, de conciliación o de procedimiento restaurativo deberá ser aprobado y sancionado por el Juez del conocimiento o por el Juez de Primera Instancia en turno que sea competente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE FEBRERO DE 2021)</small>
 
-Tratándose de justicia para adolescentes, el acuerdo o convenio respectivo deberá ser aprobado y sancionado por la autoridad que señale la Ley de Justicia para Adolescentes en el Estado de Zacatecas.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE FEBRERO DE 2021)</small>
 
 Cumplimiento del Convenio
 
@@ -823,19 +841,21 @@ Cumplimiento del Convenio
 
 En materia civil, familiar o mercantil, si alguna de las partes incumple las obligaciones que contrajo en el acuerdo o convenio aprobado judicialmente, procederá la vía de apremio y serán aplicables las reglas para la ejecución de sentencia previstas en la legislación de la materia de que se trate.
 
-En materia penal, si el imputado contraviene sin justa causa las obligaciones pactadas dentro del término que fijen las partes o, en caso de no establecerlo, dentro de noventa días hábiles contados a partir del día siguiente de la ratificación del acuerdo o convenio, el proceso continuará como si no se hubiera convenido. El plazo fijado para el cumplimiento de las obligaciones pactadas suspenderá el trámite del proceso y la prescripción de la acción penal.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE FEBRERO DE 2021)</small>
 
-En materia de justicia para adolescentes, si el adolescente incumple sin justa causa las obligaciones pactadas dentro del término que fijen las partes o, en caso de no establecerlo, dentro de un año contado a partir del día siguiente de la ratificación del acuerdo, el proceso continuará como si no se hubieran convenido. El plazo fijado para el cumplimiento de las obligaciones pactadas suspenderá el trámite del proceso.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE FEBRERO DE 2021)</small>
 
-El cumplimiento de lo acordado extingue la acción penal.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 24 DE FEBRERO DE 2021)</small>
 
 Juez Competente
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 61.
 
-La ejecución de los acuerdos o convenios aprobados judicialmente, tratándose de asuntos de naturaleza civil, familiar, mercantil o penal, se realizará ante el Juez que inicialmente haya tenido conocimiento del asunto o ante el Juez de Primera Instancia en turno que sea competente.
+La ejecución de los acuerdos o convenios aprobados judicialmente, tratándose de asuntos de naturaleza civil, familiar o mercantil, se realizará ante el Juez que inicialmente haya tenido conocimiento del asunto o ante el Juez de Primera Instancia en turno que sea competente.
 
-Los procedimientos de mediación, conciliación y restaurativo ante los especialistas independientes o ante las Instancias de Justicia Alternativa que establezca el Ejecutivo del Estado, se ajustarán, en lo conducente, a lo dispuesto en la presente Ley.
+Los procedimientos de mediación, conciliación y restaurativo ante los especialistas independientes o ante las Instancias de Justicia Alternativa que establezca la Fiscalía General de Justicia del Estado y el Poder Judicial del Estado, se ajustarán, en lo conducente, a lo dispuesto en la presente Ley y la legislación nacional aplicable.
 
 Ejecución Parcial del Convenio
 
@@ -909,73 +929,43 @@ Fin Esencial
 
 ###### Artículo 69.
 
-En materia penal procederá el proceso restaurativo, el cual tiene como propósito la reparación y compensación para la víctima, el reconocimiento por parte del ofensor de la responsabilidad de sus acciones y del daño que ha causado y la manera de repararlo, así como la reincorporación de ambos a la comunidad, encaminado a obtener la rehabilitación del ofensor, previniendo su reincidencia y procura satisfacer las necesidades tanto de la víctima como del victimario.
-
-Intenta no únicamente la reparación material del daño causado a la víctima, sino que busca curar la lesión psíquica y moral que le ha sido producida.
-
-El procedimiento restaurativo debe involucrar a las víctimas, a los ofensores y, cuando proceda, a cualesquiera otra persona o miembro de la comunidad afectados por el delito.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2021)
 
 Elementos
 
 ###### Artículo 70.
 
-La reparación comprende cuatro elementos:
-
-I. La disculpa verbal o escrita que implica un reconocimiento por virtud del cual el ofensor acepta que su conducta causó un daño real; un sentimiento de remordimiento o vergüenza por lo que ha hecho y un cambio de posición de poder entre ofensor y víctima, por virtud del cual ésta última recobra el control que le fue perturbado al cometerse el hecho típico;
-
-II. Un cambio de conducta del ofensor a fin de que ya no reincida, por ende, los acuerdos deberán incluir el cambio de entorno del ofensor, capacitación laboral, programas educativos, programas fiara el tratamiento de adicción y alcoholismo, terapias para el control del enojo u otras medidas similares;
-
-III. Una actitud de generosidad por parte del imputado, la cual puede evidenciarse partir de su disponibilidad de someterse a tratamientos o programas e incluso de prestar servicios a la comunidad o a la víctima, y
-
-IV. La restitución, que puede ser económica o proporcionando servicios en especie, restituyendo o reemplazando algún bien, o de cualquier otra forma solicitada por la víctima y acordadas entre las partes en el curso de un encuentro.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2021)
 
 Remisión del Asunto
 
 ###### Artículo 71.
 
-Las partes de un juicio penal pueden solicitar la remisión del asunto a un proceso restaurativo, para lo cual el Juez o Ministerio Público deberán cerciorarse de que no se haya coaccionado la voluntad de las partes para ello e informarles de sus derechos, de la naturaleza del proceso y de las posibles consecuencias de su decisión.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2021)
 
 Procedimiento
 
 ###### Artículo 72.
 
-Recibido el asunto para ser sometido a un proceso restaurativo, el especialista o facilitador realizará una invitación al ofensor y a la víctima para que asistan al Centro de Justicia Alternativa y reciban información amplia acerca de este proceso alternativo de justicia, en términos de los artículos 47, 48 y 49 de esta Ley.
-
-Previo a la reunión restaurativa, deberán practicarse reuniones previas y por separado con la víctima y con el ofensor a fin de que el especialista o facilitador les informe, con base en las herramientas de comunicación establecidas, la importancia y ventajas de este sistema y para valorar las posibilidades y condiciones de llevar a cabo la reunión conjunta, lo cual permitirá conocer sus necesidades y su decisión de participar en el procedimiento restaurativo.
-
-Estando de acuerdo las partes en la sujeción al proceso restaurativo y en el especialista, éste deberá convocarlos a una primer reunión restaurativa, la que se desarrollará en los términos de las fracciones I, III y IV del artículo 52 de esta Ley, en la cual el especialista, luego de explicar a las partes el objeto del proceso, las reglas de comunicación, el papel que desempeña éste y los alcances del posible convenio al que lleguen las partes, facilitará la comunicación entre las partes con el fin de que lleguen a un acuerdo para la reparación del daño. Serán tantas reuniones como resulten necesarias.
-
-Esta información se proporcionará a los interesados cuando sean ellos quienes directamente soliciten someterse al procedimiento restaurativo.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2021)
 
 Desempeño del Especialista
 
 ###### Artículo 73.
 
-El especialista o facilitador que conduzca el proceso restaurativo deberá:
-
-I. Ser imparcial, honesto, flexible y guardar la confidencialidad del proceso de justicia restaurativa;
-
-II. Atender preferentemente los daños causados por los delitos más que a las normas;
-
-III. Mostrar equidad y compromiso con las victimas y con los inculpados, involucrándolos responsablemente en el proceso;
-
-IV. Propiciar las condiciones óptimas para el diálogo directo o indirecto, entre victimas y ofensor, según sea el caso, y
-
-V. Proporcionar atención a la victima u ofendidos del delito y al ofensor de manera cordial, imparcial, con calidad y calidez, respetando sus necesidades, sentimientos y decisiones.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2021)
 
 Terminación del Proceso Restaurativo
 
 ###### Artículo 74.
 
-El proceso de justicia restaurativa se dará por concluido en los mismos supuestos en que se dé por terminado el proceso de mediación y en aquéllos casos en que conforme a esta Ley deba darse por finalizado.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2021)
 
 Formalidades, Ratificación, Aprobación Judicial, Cumplimiento y Ejecución del Convenio
 
 ###### Artículo 75.
 
-El convenio o transacción que derive del proceso restaurativo se sujetará a lo que disponen los artículos 57, 58, 59, 60, 61 y 62 de esta Ley, en lo concerniente a formalidades, ratificación, aprobación, cumplimiento y ejecución.
-
-Si el imputado contraviene sin justa causa las obligaciones pactadas podrá optarse entre sujetarse a un nuevo proceso restaurativo, o bien, dejar sin efectos el convenio que se haya celebrado.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2021)
 
 ## TÍTULO CUARTO
 
@@ -1152,3 +1142,13 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 24 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 623.- SE REFORMAN, ADICIONAN Y EROGAN (SIC) DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+Artículo tercero. En los términos del artículo Quinto Transitorio de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, se emitirán las disposiciones administrativas correspondientes.
