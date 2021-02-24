@@ -4,7 +4,7 @@ identifier: "QUE-estatuto-organico-de-la-contraloria-general-del-instituto-10760
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-04-10"
-last_updated: "2015-04-10"
+last_updated: "2021-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 ESTATUTO ORGÁNICO DE LA CONTRALORÍA GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2021.
 
 Estatuto publicado en el Periódico Oficial del Estado de Querétaro, el viernes 10 de abril de 2015.
 
@@ -35,139 +35,145 @@ Por lo anterior, con fundamento en los artículos 73 y 75 de la Ley Electoral de
 
 ESTATUTO.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE FEBRERO DE 2021)</small>
+
 ### CAPITULO I.
 
-DE LA CONTRALORÍA GENERAL, OBJETIVOS Y POLÍTICAS.
+DE LA CONTRALORÍA GENERAL.
 
-PRIMERO. La Contraloría General del Instituto Electoral del Estado de Querétaro, está dotada, legalmente, de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones, tanto de fiscalización y vigilancia de los ingresos y egresos del Instituto Electoral del Estado de Querétaro, como del poder disciplinario del sistema de responsabilidades administrativas de los servidores públicos del Instituto, previsto en el artículo 38 de la Constitución Política del Estado de Querétaro; 75 de la Ley Electoral del Estado de Querétaro; Título Tercero, Cuarto y Sexto de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2021)</small>
 
-Para su ejercicio observará en todo momento, los objetivos, políticas, organización y asignación de funciones que hasta el nivel de dirección, se señalan en el presente instrumento.
+PRIMERO. La Contraloría General, es la encargada de cumplir con funciones de Órgano Interno de Control en el Instituto Electoral del Estado de Querétaro. Su objetivo es prevenir, corregir, investigar, substanciar y calificar las faltas administrativas, con facultades para promover, evaluar y fortalecer el buen funcionamiento del control interno; siendo responsable además, de la salvaguarda de los principios que rigen en la administración pública, así como el coadyuvar con el logro de los programas y funcionamiento del Instituto.
 
-SEGUNDO. Son objetivos de la Contraloría General, el cumplir a cabalidad el espíritu y mandato legal, al disponer que la Contraloría General estuviera dotada de autonomía técnica y de gestión, para la fiscalización y vigilancia de los ingreso (sic) y egresos del Instituto, así como el que su titular tuviera la facultad de fincar responsabilidades a los servidores públicos del Instituto Electoral del Estado de Querétaro, en cumplimiento con el sistema de responsabilidades administrativas, previsto en el artículo 38 de la Constitución Política del Estado de Querétaro; 75 de la Ley Electoral del Estado de Querétaro; Título Tercero, Cuarto y Sexto de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro y demás disposiciones aplicables; así como el coadyuvar con el logro de los programas y funcionamiento del Instituto, fortaleciendo el proceso de rendición de cuentas en un marco de eficacia, eficiencia, economía y transparencia de un programa de mejoramiento de la gestión de resultados y recursos, mediante el impulso del uso y aprovechamiento de tecnología de información y comunicaciones en la gestión del propio Instituto.
+Con el fin de garantizar su imparcialidad, se encuentra dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
 
-Su cumplimiento, deberá materializarse a través de acciones para prevenir irregularidades potenciales, fomentando la transparencia en la administración y aplicación de los recursos públicos, mediante la fijación de los criterios para la realización de auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de recursos, así como el establecimiento de normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto y aquellos elementos que permitan la práctica idónea de las auditorías y revisiones que realice en el cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2021)</small>
 
-Por otra parte, el verificar que lo recibido, manejado, administrado o ejercido, tratándose de recursos públicos, se haga conforme a la normativa aplicable, los programas aprobados y montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes, revisando que las operaciones presupuestales se realicen con apego a las disposiciones legales aplicables, además, de que los bienes adquiridos o arrendados y servicios contratados y demás inversiones y gastos autorizados, se hayan aplicado, legal y eficientemente, al logro de los objetivos y metas de los programas aprobados.
+SEGUNDO. La función de la Contraloría General es la fiscalización y control de recursos públicos con el objetivo de que estos se administren y ejerzan adecuadamente conforme a los planes, programas y presupuesto aprobados y demás normatividad aplicable; así como la observancia y aplicación del sistema anticorrupción con el fin de fortalecer el proceso de rendición de cuentas en un marco de eficacia, eficiencia, economía y transparencia de un programa de mejoramiento de la gestión de resultados y recursos.
+
+Su cumplimiento, deberá materializarse a través de acciones para prevenir irregularidades potenciales, fomentando la transparencia en la administración y aplicación de los recursos públicos, mediante la fijación de los criterios para la realización de auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de recursos, así como el establecimiento de normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto y aquellos elementos que permitan la práctica idónea de las auditorias y revisiones que realice en el cumplimiento de sus funciones.
 
 TERCERO. En el ejercicio de sus atribuciones, las políticas permanentes para la Contraloría General, estarán sustentadas en la especialización técnica, la profesionalización y la rendición de cuentas y sus servidores públicos estarán sujetos a los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
 
-### CAPITULO II.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE FEBRERO DE 2021)</small>
 
-DE LA COMPETENCIA Y ORGANIZACIÓN DE LA CONTRALORÍA GENERAL.
+### CAPITULO II.. DE LA ORGANIZACIÓN DE LA CONTRALORÍA GENERAL
 
-CUARTO. La competencia de la Contraloría General del Instituto Electoral del Estado de Querétaro, radica en todo lo que corresponda, como órgano legal encargado de la revisión, control, fiscalización, investigación, inspección y vigilancia de los ingresos, egresos, recursos y patrimonio del Instituto y el ejercicio del poder disciplinario para fincar responsabilidades a los servidores públicos del Instituto, en cumplimiento con el sistema de responsabilidades administrativas, previsto en el artículo 38 de la Constitución Política del Estado de Querétaro; 75 de la Ley Electoral del Estado de Querétaro; Título Tercero, Cuarto y Sexto de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro y demás disposiciones aplicables; y la aplicación de las sanciones respecto de los asuntos que sean de su competencia, en términos de los lineamientos que para tal efecto expida.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2021)</small>
 
-Para el desahogo de sus asuntos, se auxiliará de un área Contable y de una área Jurídica.
+CUARTO. Al frente de la Contraloría General habrá un titular el cual será designado en los términos establecidos por la Constitución Política del Estado de Querétaro y la Ley Electoral del Estado de Querétaro.
+
+Para el estudio y despacho de los asuntos de su competencia, la Contraloría General contará con la estructura que al efecto autorice el Consejo General del Instituto Electoral del Estado de Querétaro y contará con el personal que se requiera para el cumplimiento de las funciones a su cargo, atendiendo a su disponibilidad presupuestal aprobada. El personal adscrito a la Contraloría General tendrá las siguientes funciones:
+
+I. Auditoría;
+
+II. Investigación, y
+
+III. Responsabilidades.
+
+Para el eficaz y correcto desempeño, así como cumplimiento de sus objetivos y funciones el Consejo General del Instituto le asignará el presupuesto que estime suficiente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE FEBRERO DE 2021)</small>
 
 ### CAPITULO III.
 
-DEL TITULAR DE LA CONTRALORÍA GENERAL.
+DE LAS FACULTADES DE LA CONTRALORÍA GENERAL.
 
-QUINTO. En los términos de lo establecido por la Ley Electoral del Estado de Querétaro, el titular de la Contraloría General es designado por la Legislatura del Estado, con el voto de las dos terceras partes de sus miembros presentes, mediante los procedimientos y en los plazos que fije la Ley Orgánica del Poder Legislativo del Estado de Querétaro y solo podrá ser sancionado y, en su caso, removido por las causas graves de responsabilidad administrativa, por la propia Legislatura del Estado, de acuerdo a lo previsto por los artículos 17 y 38 de la Constitución Política del Estado de Querétaro, 75 de la Ley Electoral del Estado de Querétaro y 142 Bis de la Ley Orgánica del Poder Legislativo del Estado de Querétaro.
+QUINTO. (DEROGADO, P.O. 24 DE FEBRERO DE 2021)
 
-SEXTO. Corresponderá originalmente a su titular, la representación de la Contraloría General del Instituto Electoral del Estado de Querétaro, así como el trámite y resolución de los asuntos de su competencia legal.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2021)</small>
 
-1.- A la Contraloría General corresponde el despacho de los siguientes asuntos:
+SEXTO. Corresponderá originalmente al titular de la Contraloría General, su representación, así como el trámite y resolución de los asuntos competencia de esta.
 
-a).- Presentar al Consejo General su programa anual de trabajo;
+La Contraloría General tendrá las atribuciones establecidas en los diversos ordenamientos legales aplicables, además de las que a continuación se enlistan:
 
-b).- Ejecutar su Programa Anual de Trabajo y supervisar su cumplimiento;
+I. Verificar el ejercicio del gasto público y su congruencia con el presupuesto de egresos del Instituto Electoral del Estado de Querétaro;
 
-c).- Fijar los procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto;
+II. Vigilar la correcta aplicación de los recursos patrimoniales que el instituto administre, así como revisar el ingreso, egreso, manejo, custodia y aplicación de los recursos públicos que se ejerzan;
 
-d).- Diseñar, con base en el Programa Anual de Auditoría, los programas de trabajo de las auditorías internas que practique, estableciendo el objetivo y alcance que se determine en cada caso, así como vigilar su cumplimiento;
+III. Evaluar y comprobar el cumplimiento de las obligaciones derivadas de las disposiciones que, en materia de planeación, presupuesto, ingreso, financiamiento, inversión, deuda, patrimonio, valores y disciplina financiera, tenga el Instituto, así como la observancia y aplicación de la normatividad que le resulte aplicable;
 
-e).- Emitir opiniones consultivas sobre el proyecto de presupuesto de egresos del Instituto y establecer las normas, procedimientos, métodos y sistemas sobre el ejercicio y control del gasto, con la participación de las áreas competentes del Instituto;
+IV. Evaluar el cumplimiento y desempeño de los objetivos y metas fijadas en los programas contenidos en el presupuesto de egresos del Instituto empleando la metodología que al efecto determine;
 
-f).- Verificar que el ejercicio de gasto del Instituto se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados, así como, en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes;
+V. Presentar al Consejo General su programa anual de trabajo;
 
-g).- Requerir a terceros que hubieran contratado bienes o servicios con el Instituto la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+VI. Prestar al Consejo General los informes previo y anual de resultados de su gestión y acudir ante el mismo Consejo General cuando así lo requiera el Consejo Presidente;
 
-h).- Formular pliegos de observaciones en materia administrativa;
+VII. Presentar al Consejo General los informes respecto de los expedientes relativos a faltas administrativas, imposición de sanciones así como de las revisiones y auditorías practicadas;
 
-i).- Determinar los daños y perjuicios que afecten al Instituto en su patrimonio y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, previo procedimiento administrativo;
+VIII. Gestionar los recursos humanos, materiales y financieros necesarios para el cumplimiento de su objeto, así como proponer la modificación y/o actualización de su estructura orgánica;
 
-j).- Mantener, en su caso, la coordinación técnica necesaria con la Entidad Superior de Fiscalización del Estado;
+IX. Proponer al Consejo General la celebración de convenios y acuerdos con las distintas dependencias y entidades federales, estatales y/o municipales para el adecuado y correcto desempeño de las atribuciones encomendadas;
 
-k).- Dar seguimiento a las recomendaciones que, como resultado de las auditorías, se hayan formulado a las áreas y órganos del Instituto;
+X. Elaborar y emitir los proyectos e iniciativas de Leyes, Reglamentos, Acuerdos y dictámenes relaciones con las funciones u objeto de la propia Contraloría;
 
-l).- Presentar al Consejo General por conducto del Consejero Presidente, los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto;
+XI. Verificar que los servidores públicos adscritos al Instituto presenten sus respectivas declaraciones de situación patrimonial y de intereses, así como, en su caso, la de naturaleza fiscal, en los términos previstos por las leyes de la materia;
 
-m).- Revisar que las operaciones presupuestales que realice el Instituto, se hagan con apego a las disposiciones legales y administrativas aplicables, verificando su oportuno registro; la calidad de los controles administrativos para proteger el patrimonio, así como verificar que los bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado, legal y eficientemente, al logro de los objetivos y metas de los programas aprobados y, en su caso, determinar las desviaciones de los mismos y las causas que les dieron origen;
+XII. Integrar y mantener actualizado el Sistema de Evolución Patrimonial, de Declaración de Intereses y Constancia de Prestación de Declaración Fiscal conforme a los lineamientos que emita el Sistema Nacional y Estatal Anticorrupción;
 
-n).- Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+XIII. Solicitar información de cualquier tipo relacionada con los servidores públicos, con la finalidad de verificar la evolución del patrimonio de aquéllos;
 
-o).- Solicitar y obtener la información necesaria para el cumplimiento de sus funciones;
+XIV. Intervenir en los procesos de entrega-recepción de los servidores públicos, en los términos que dispone la Ley de Entrega Recepción del Estado de Querétaro;
 
-p).- Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
+XV. Participar en los Comités de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios, de conformidad con lo dispuesto por la Ley y Reglamentos en la materia;
 
-q).- Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine la propia Contraloría General;
+XVI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en los términos de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro y Reglamentos aplicable.
 
-r).- Evaluar el desempeño y el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto, empleando la metodología que determine;
+XVII. Sustanciar y resolver los procedimientos por Responsabilidad por Daño Patrimonial en términos de la Ley de Responsabilidad Patrimonial del Estado de Querétaro;
 
-s).- Recibir, investigar, sustanciar y resolver las quejas y denuncias que se presenten en contra de los servidores públicos del Instituto, con motivo del incumplimiento de sus obligaciones en términos de lo dispuesto por la Ley Electoral del Estado de Querétaro y la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro; así como el recurso de revocación que promuevan los servidores públicos en contra de las resoluciones emitidas por la Contraloría General en materia de responsabilidades administrativas;
+XVIII. Expedir constancias y certificaciones de aquellos documentos y actuaciones que obren en los registros y expedientes a cargo de la Contraloría General;
 
-t).- Emitir los lineamientos para instruir, desahogar y resolver los procedimientos administrativos disciplinarios por la presunta existencia de actos u omisiones de servidores públicos del Instituto por incumplimiento a las obligaciones establecidas en la Ley Electoral;
+XIX. Diseñar, con base en el Programa Anual de Auditoría, los programas de trabajo de las auditorías internas que practique, estableciendo el objetivo y alcance que se determine en cada caso, así como vigilar su cumplimiento;
 
-u).- Instruir, desahogar y resolver los procedimientos administrativos disciplinarios respecto de las quejas y denuncias que se presenten en contra de servidores públicos por la presunta existencia de actos u omisiones que impliquen una falta a las obligaciones establecidas en la Ley Electoral y la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro y, en su caso, imponer las sanciones que corresponda; con excepción de las conductas graves y sistemáticas atribuibles al Consejero Presidente y Consejeros Electorales en cuyo caso, se remitirá el expediente debidamente fundado y motivado al Secretario Ejecutivo del Consejo General del Instituto Nacional Electoral para que resuelvan sobre la responsabilidad.
+XX. Fijar los procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto;
 
-En el caso de infracciones por conductas graves y sistemáticas atribuibles al Secretario Ejecutivo y a los Directores Ejecutivos, será el Consejo General quien resuelva sobre la procedencia de la sanción propuesta por el Contralor General;
+XXI. Efectuar visitas a las sedes físicas de las áreas y órganos del Instituto para solicitar la exhibición de los libros y papeles para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
 
-v).- Dictar las providencias oportunas para la corrección de las irregularidades administrativas que se detecten en ocasión del trámite de las quejas y denuncias y, en los casos en que se compruebe la existencia de la infracción motivo de la queja o denuncia, dictar las medidas para su corrección o remedio inmediato;
+XXII. Requerir a terceros que hubieran contratado bienes o servicios con el Instituto, la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
 
-w).- Efectuar visitas a las sedes físicas de las áreas y órganos del Instituto para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
+XXIII. Realizar las auditorías administrativas y financieras analizando el contenido de los informes derivados de éstas;
 
-x).- Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en los términos del Reglamento del Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios; y del Reglamento Administrativo y de Control del Gasto del Instituto.
+XXIV. Elaborar, en su caso, los proyectos de recomendaciones que se deriven de la práctica de auditoría administrativas y financieras;
 
-y).- Integrar y mantener actualizado el registro de los servidores públicos del Instituto que hayan sido sancionados por el órgano de control;
+XXV. Dar seguimiento a las observaciones y recomendaciones que resulten de las auditorias que se hayan formulado a las distintas áreas que conforman el instituto;
 
-z).- Participar en los actos de entrega-recepción de los servidores públicos obligados del Instituto, en los términos de la normatividad aplicable;
+XXVI. Participar, en su caso, en el proceso de solventación y/o atención de las observaciones y recomendaciones señaladas en los dictámenes aprobados por la Legislatura del Estado de Querétaro, respecto de los informes individuales de auditoría del instituto;
 
-aa).- Participar conforme a las disposiciones vigentes en el Comité del que el órgano de control interno forme parte e intervenir en los actos que se deriven del mismo;
+XXVII. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
 
-bb).- Llevar el registro, seguimiento y evaluación de la situación patrimonial de los servidores públicos obligados del Instituto desde el nivel de Coordinador u homólogo hasta el de Consejero Presidente; asimismo, emitir los procedimientos, formatos, medios magnéticos y electrónicos, conforme los cuales se presentarán las declaraciones de situación patrimonial, de conformidad con la Ley Electoral del Estado de Querétaro y la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro;
+XXVIII. Implementar en el ámbito de su competencia los mecanismos necesarios para prevenir actos y omisiones que pudieran constituir responsabilidades administrativas, en los términos que establezcan los Sistemas Nacionales y Estatal Anticorrupción;
 
-cc).- Solicitar por conducto de su titular, información de cualquier tipo relacionada con los servidores públicos, con la finalidad de que el órgano de control verifique la evolución del patrimonio de aquéllos;
+XXIX. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades;
 
-dd).- Solicitar en cualquier fase del procedimiento administrativo de responsabilidad por conducto de su titular, a la Dirección de Ingresos de la Secretaria de Planeación y Finanzas de Gobierno del Estado, que proceda al embargo precautorio de los bienes cuando los presuntos responsables desaparezcan o exista el riesgo inminente de que oculten, enajenen o dilapiden sus bienes, a fin de garantizar el cobro de las sanciones económicas que llegaran a imponerse;
+XXX. Recibir, tramitar e investigar las denuncias que sean presentadas en contra de los servidores públicos y demás sujetos contemplados por la Ley General de Responsabilidades Administrativas y Ley de Responsabilidades Administrativas del Estado de Querétaro;
 
-ee).- Integrar el registro de los bienes donados a servidores públicos del Instituto en los términos del artículo 60 de la Ley Federal de Responsabilidades de los Servidores Públicos del Estado de Querétaro;
+XXXI. Investigar las faltas administrativas que deriven de observaciones determinadas por las diversas áreas de la Contraloría, así como de las señaladas por las entidades de fiscalización y despachos externos, con motivo de las auditorías que practiquen en el ámbito de su competencia;
 
-ff).-Tramitar y resolver los recursos que se promuevan en contra de las resoluciones que emita en ejercicio de sus facultades, en los términos establecidos en las leyes y ordenamientos aplicables;
+XXXII. Integrar el expediente de presunta responsabilidad administrativa que derive de denuncias en términos de la fracción VIII del presente artículo, así como de las irregularidades que se deriven de auditorías conforme a lo señalado en la fracción inmediata anterior;
 
-gg).- Llevar a cabo la defensa jurídica en los juicios que se promuevan en contra de las resoluciones que emita el órgano de control en los procedimientos y recursos administrativos que sustancie, en los términos que las leyes aplicables señalen;
+XXXIII. Llevar a cabo las notificaciones de actuaciones y documentos relativos a los expedientes administrativos de su competencia y facultar expresamente al personal a su cargo para llevarlas a cabo;
 
-hh).- Atender las solicitudes de las diferentes instancias y órganos del Instituto en los asuntos de su competencia;
+XXXIV. Emitir y firmar el Informe de Presunta Responsabilidad Administrativa en los términos de la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas del Estado de Querétaro y demás disposiciones legales y administrativas aplicables;
 
-ii).- Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas;
+XXXV. Calificar el tipo de falta administrativa en términos de la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas del Estado de Querétaro y demás normatividad aplicable;
 
-jj).- Proponer, por conducto de su titular, al Consejo General para su aprobación, los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
+XXXVI. Presentar de manera fundada y motivada las denuncias ante la Fiscalía en los casos que proceda en términos de la Ley de Responsabilidades Administrativas del Estado de Querétaro y demás normatividad legal y administrativa aplicable;
 
-kk).- Formular por conducto de su titular el anteproyecto de presupuesto de la Contraloría, de acuerdo con la normatividad y criterios señalados por las leyes aplicables, así como de conformidad con las medidas administrativas y de planeación que fije el Secretario Ejecutivo a través de la Coordinación Administrativa, en el ámbito de sus respectivas atribuciones;
+XXXVII. Emitir la declaratoria mediante la cual se deje sin efectos el nombramiento o contrato de los servidores públicos que no hubieren cumplido con su obligación de presentar declaración de situación patrimonial, en los términos de las disposiciones jurídicas aplicables;
 
-ll).- Emitir, por conducto de su titular, los acuerdos y lineamientos que requiera para hacer efectiva su autonomía técnica y de gestión, informando al Consejo General de dicha expedición;
+XXXVIII. Sustanciar y resolver procedimientos de responsabilidad administrativa y determinar la existencia o no de responsabilidad y en su caso, imponer y aplicas las sanciones que correspondan de conformidad con la Ley de la materia;
 
-mm).- Presentar al Consejo General los informes previo y anual de resultados de su gestión, y acudir ante el mismo Consejo General cuando así lo requiera el Consejero Presidente;
+XXXIX. Promover, dentro del ámbito de su competencia, los recursos de reclamación y de revisión en los términos que dispone la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Querétaro;
 
-nn).- Presentar al Consejero General los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones a los servidores públicos del Instituto;
+XL. Conocer del recurso de revocación previsto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Querétaro;
 
-oo).- Participar, a través de su titular, con voz pero sin voto en las sesiones del Consejo General cuando, con motivo del ejercicio de sus facultades, así lo considere necesario el Consejero Presidente;
+XLI. En general, llevar a cabo la defensa jurídica en los juicios y recursos que se promuevan en contra de las resoluciones que emita en los procedimientos y recursos administrativos que sustancie, en los términos que las leyes aplicables señalen;
 
-pp).- Solicitar al Secretario Ejecutivo que coadyuve en los procedimientos que el Contralor General acuerde para la vigilancia de los recursos y bienes de este organismo y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones a los servidores públicos del Instituto;
+XLII. Las demás que deriven de los diversos ordenamientos legales aplicables al ámbito de competencia de la Contraloría General.
 
-qq).- Integrar y mantener actualizado el registro de los proveedores que hayan sido sancionados por el órgano de control, en términos del artículo 44 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro;
+Los servidores públicos del Instituto Electoral del Estado de Querétaro, así como aquello sujetos obligados de conformidad con la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de Querétaro y demás ordenamientos aplicables, tendrán la obligación, en el ámbito de su competencia, de atender las instituciones, requerimientos y resoluciones que emita la Contraloría General.
 
-rr).- Las demás que le confieran otros ordenamientos.
-
-2.- Cuando las quejas o denuncias se presenten en contra del titular de la Contraloría General, a solicitud del Consejo General, la Legislatura del Estado, resolverá sobre la aplicación de las sanciones que correspondan, incluida entre éstas la remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia del afectado.
-
-3.- Las sanciones que la Contraloría imponga a los funcionarios y servidores públicos del Instituto, en términos de los incisos s) y u), del numeral 1 del presente artículo, se ejecutarán, con excepción de la sanción económica, cuya ejecución concierne a la Dirección de Ingresos de la Secretaría de Planeación y Finanzas de (sic) Gobierno del Estado, conforme a lo siguiente:
-
-a).- Apercibimiento, amonestación público o privada, suspensión o destitución por el jefe inmediato, o
-
-b).- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público, se ejecutará en los términos de la resolución dictada.
-
-4.- En caso de ausencia o impedimento legal del Contralor General, personal adscrito al propio órgano de control, será quien podrá, en su caso, ejercer las facultades previstas en el apartado 1 del presente artículo, así como en los demás ordenamientos.
+En caso de ausencia o impedimento legal de la persona titular de la contraloría general, personal adscrito al propio órgano de control será quien podrá, en su caso, ejercer las facultades previstas en el presente artículo, así como en los demás ordenamientos legales, sin necesidad de documento facultativo expreso.
 
 ### CAPITULO IV. DEL CONFLICTO DE INTERESES E IMPEDIMENTOS DEL PERSONAL DE LA CONTRALORÍA GENERAL
 
@@ -372,3 +378,15 @@ Lic. Carlos Rubén Eguiarte Mereles
 Secretario Ejecutivo
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN LOS ARTICULOS PRIMERO, SEGUNDO, CUARTO Y SEXTO Y SE DEROGA EL ARTÍCULO QUINTO DEL ESTATUTO ORGÁNICO DE LA CONTRALORÍA GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE QUERÉTARO”.]
+
+PRIMERO. Por conducto del Consejero Presidente, infórmese al Consejo General del Instituto Electoral del Estado de Querétaro, la expedición del presente Acuerdo para los efectos legales y administrativos a que hubiere lugar.
+
+SEGUNDO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Querétaro “La Sombra de Arteaga”.
+
+TERCERO. Queda sin efecto el contenido de las disposiciones normativas internas y de organización y funcionamiento que se contrapongan a lo dispuesto en el presente Acuerdo.
