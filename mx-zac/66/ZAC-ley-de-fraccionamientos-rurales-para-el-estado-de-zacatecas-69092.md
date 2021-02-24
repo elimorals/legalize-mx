@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fraccionamientos-rurales-para-el-estado-de-zacatecas-690
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-13"
-last_updated: "2018-01-27"
+last_updated: "2021-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FRACCIONAMIENTOS RURALES PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 13 de junio de 2009.
 
@@ -973,7 +973,21 @@ V. La existencia de resolución judicial ejecutoriada, por medio de la cual se a
 
 VI. Cuando se demuestre que el fraccionista enajenó el lote a una tercera persona y ésta sea quien promueva la declaración de vacancia, y
 
-VII. En los demás casos establecidos en la presente Ley.
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE FEBRERO DE 2021)</small>
+
+VII. La existencia de un asentamiento humano irregular en el lote que se pretende declarar vacante, siempre que se actualicen los siguientes supuestos:
+
+a) Que el lote que se pretende declarar vacante no esté siendo utilizado para los fines que se adjudicó;
+
+b) Que el lote que se pretende declarar vacante se encuentra en posesión de terceros;
+
+c) Que el lote que se pretende declarar vacante se encuentre libre de gravamen; y
+
+d) En su caso, que se cuente con la opinión positiva del Ayuntamiento correspondiente, en el sentido de que el lote es susceptible de regularizar.
+
+Colmados los requisitos antes citados, la Dirección ordenará la certificación del lote y si del informe se acredita que existe un asentamiento humano susceptible de regularizar, emitirá la resolución correspondiente, informando a la Secretaría con la finalidad de que proceda en los términos del artículo 4 Bis de esta Ley; y
+
+VIII. En los demás casos establecidos en la presente Ley.
 
 ###### Artículo 113.
 
@@ -987,9 +1001,11 @@ III. De la sentencia que aprueba el remate y la adjudicación.
 
 Recibida la solicitud, con los anexos anteriores, el Director, dictará la resolución de declaración de vacancia y ordenará la adjudicación del lote al promovente a quien se le haya adjudicado el lote en la diligencia de remate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 114.
 
-Cualquier interesado podrá solicitar la declaración de vacancia de un lote por las causas señaladas en las fracciones II, III, IV, V y VI del artículo 112 de esta Ley. El procedimiento deberá iniciarse de oficio, cuando por cualquier medio tenga conocimiento de que el adjudicatario incurrió en las causales señaladas.
+Con las excepciones previstas en esta Ley, cualquier interesado podrá solicitar la declaración de vacancia de un lote por las causas señaladas en las fracciones II, III, IV, V y VI del artículo 112 de esta Ley. El procedimiento deberá iniciarse de oficio, cuando por cualquier medio tenga conocimiento de que el adjudicatario incurrió en las causales señaladas.
 
 En el caso de la fracción VI del artículo mencionado, corresponde al adquirente del lote iniciar el procedimiento de declaración de vacancia a fin de que se adjudique a su favor.
 
@@ -1686,3 +1702,11 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán su curso hasta su resolución conforme a las disposiciones aplicables vigentes a su inicio.
 
 Artículo Tercero. Dentro del plazo de 180 días contados a partir de la entrada en vigor de este Decreto, el Ejecutivo del Estado deberá realizar las modificaciones que correspondan al Reglamento de la Ley.
+
+P.O. 24 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 624.- SE REFORMAN LOS ARTÍCULOS 112 Y 114 DE LA LEY DE FRACCIONAMIENTOS RURALES PARA EL ESTADO DE ZACATECAS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en (sic) Periódico Oficial. Órgano del Gobierno del Estado.
+
+Segundo. Se derogan las disposiciones que se opongan a este Decreto.
