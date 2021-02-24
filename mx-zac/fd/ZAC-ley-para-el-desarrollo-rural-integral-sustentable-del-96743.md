@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-el-desarrollo-rural-integral-sustentable-del-96743"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-30"
-last_updated: "2018-01-10"
+last_updated: "2021-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de noviembre de 2013.
 
@@ -1167,9 +1167,19 @@ X. Transporte.
 
 Apoyo a productores
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2021)</small>
+
 ###### Artículo 73.
 
-La Secretaría, en coordinación con los diferentes niveles de gobierno, atenderá con prioridad a aquellos productores y demás sujetos de la sociedad rural que, teniendo potencial productivo, carecen de condiciones para el desarrollo; mediante la implementación de acciones que fortalezcan sus capacidades productivas de manera integral y sustentable.
+La Secretaría, en coordinación con los diferentes niveles de gobierno, para el incremento de la productividad rural del estado, tendrá los siguientes objetivos prioritarios:
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2021)</small>
+
+I. Atender a aquellos productores y demás sujetos de la sociedad rural que, teniendo potencial productivo, carecen de condiciones para el desarrollo, mediante la implementación de acciones que fortalezcan sus capacidades productivas de manera integral y sustentable, y
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2021)</small>
+
+II. Apoyar a pequeños y medianos productores con servicios de extensión, innovación y capacitación para incrementar la producción de alimentos y fortalecer el desarrollo comunitario en las zonas rurales.
 
 Impulso a la productividad
 
@@ -1592,3 +1602,9 @@ P.O. 10 DE ENERO DE 2018.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
 
 Artículo Segundo. La Secretaría del Campo del Gobierno del Estado aprobará el Programa Estatal de Suelos, dentro del plazo de 320 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 575.- SE REFORMA EL ARTÍCULO 73 DE LA LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS.”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
