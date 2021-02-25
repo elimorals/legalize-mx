@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-consejo-de-la-judicatura-del-poder-6337
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-06"
-last_updated: "2020-10-08"
+last_updated: "2021-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
+REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2021.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de septiembre de 2008.
 
@@ -33,7 +33,9 @@ Supremo Tribunal de Justicia Consejo de la Judicatura
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO.
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo expuesto, el Pleno del Consejo de la Judicatura del Poder Judicial del Estado, con fundamento en las disposiciones constitucionales y legales citadas, expide el siguiente:
 
@@ -1585,7 +1587,9 @@ I. Resguardar bajo su estricta responsabilidad los expedientes que se le hayan t
 
 II. Rendir un informe mensual de los proyectos elaborados, en el formato establecido, a la Unidad de Estadística, Evaluación y Seguimiento del Consejo;
 
-III. Elaborar las versiones públicas de las sentencias definitivas;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2021)</small>
+
+III. Elaborar las versiones públicas de todas las sentencias emitidas.
 
 IV. Cotejar el proyecto autorizado con la impresión física de la resolución en el expediente y en su caso ingresar al expediente electrónico la información correspondiente a las resoluciones autorizadas; y,
 
@@ -3764,3 +3768,11 @@ PRIMERO.- La presente reforma al Reglamento Interior del Consejo de la Judicatur
 SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan a dichas reformas y que hayan sido dictadas con anterioridad a la entrada en vigor del mismo.
 
 TERCERO.- Désele la más amplia difusión al contenido del presente acuerdo en el portal de transparencia del Poder Judicial del Estado y en la Gaceta Judicial.
+
+P.O. 25 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA (SIC) DE LAS SENTENCIAS PÚBLICAS".]
+
+PRIMERO.- La presente reforma al Reglamento Interior del Consejo de la Judicatura del Poder Judicial del Estado, entrará en vigor a partir del 10 diez de febrero de 2021 dos mil veintiuno, con independencia de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Désele la más amplia difusión al contenido de la presente reforma en el portal de transparencia del Poder Judicial del Estado y en la Gaceta Judicial.
