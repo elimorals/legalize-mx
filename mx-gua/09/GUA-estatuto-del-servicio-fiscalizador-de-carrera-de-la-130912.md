@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-del-servicio-fiscalizador-de-carrera-de-la-130912"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-10-04"
-last_updated: "2020-09-14"
+last_updated: "2021-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,321 +21,295 @@ state: "GUA"
 ---
 # ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORIA SUPERIOR DEL ESTADO DE GUANAJUATO
 
-ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO
+LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS SEGUNDO Y OCTAVO DEL DECRETO NO. 367, PUBLICADO EN LA G.G. 18 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS NOVENTA DÍAS SIGUIENTES A SU PUBLICACIÓN.</small>
 
-Estatuto publicado en la Segunda Parte al Número 199 del Periódico Oficial del Estado de Guanajuato, el jueves 4 de octubre de 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014 (ABROGADA).
 
-Estatuto del Servicio Fiscalizador de Carrera de la Auditoría Superior del Estado de Guanajuato
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL G.G. EL 13 DE ENERO DE 2015, NÚMERO 6, SECCIÓN CUARTA, PÁGINAS 13 A LA 18, NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 367 PUBLICADO EN LA G.G. DE 18 DE DICIEMBRE DE 2014.</small>
 
-Mtro. Javier Pérez Salazar, Auditor Superior del Estado de Guanajuato, de conformidad con lo dispuesto por los artículos 66, primer párrafo, de la Constitución Política para el Estado de Guanajuato; 4, 87, fracción VIII, 96 y 98 de la Ley de Fiscalización Superior del Estado de Guanajuato; y 9, fracciones VI y X, del Reglamento Interior de la Auditoría Superior del Estado de Guanajuato; y
+Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 18 de julio de 2013.
 
-CONSIDERANDO
+ERUVIEL AVILA VILLEGAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-[...]
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-Por lo anteriormente expuesto y con fundamento en las disposiciones y consideraciones previamente señaladas, he tenido a bien expedir el siguiente:
+DECRETO NÚMERO 117
 
-Estatuto del Servicio Fiscalizador de Carrera de la Auditoría Superior del Estado de Guanajuato
+LA H. "LVIII" LEGISLATURA DEL ESTADO DE MÉXICO DECRETA:
 
-### Capítulo Primero. Disposiciones Preliminares
+###### ARTÍCULO ÚNICO.
+
+Se expide la Ley que Regula las Casas de Empeño en el Estado de México, para quedar de la manera siguiente:
+
+LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE MÉXICO
+
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 1.
 
-El presente Estatuto tiene por objeto establecer las normas, lineamientos, mecanismos, programas e instrumentos del Servicio Fiscalizador de Carrera en la Auditoría Superior del Estado de Guanajuato.
+Esta Ley es de orden público, de observancia general y tiene por objeto regular la apertura, instalación y funcionamiento de establecimientos cuya finalidad sea ofertar al público la celebración de contratos de mutuo con interés y garantía prendaria dentro de la circunscripción territorial del Estado de México.
 
 ###### Artículo 2.
 
-El Servicio Fiscalizador de Carrera tiene como finalidad dotar a la Auditoría Superior de Servidores Públicos calificados, profesionales y especializados, que contribuyan al cumplimiento del ejercicio de las funciones y autonomía técnica de la Auditoría Superior; asegura que el desempeño de sus integrantes se apegue a los principios de legalidad, honradez, objetividad, imparcialidad y profesionalismo, y otorga permanencia, estabilidad y certeza jurídica a sus Servidores Públicos.
+La Secretaría de Finanzas es la autoridad responsable de la aplicación, interpretación y cumplimiento de lo dispuesto en la presente Ley.
 
 ###### Artículo 3.
 
-Pertenecen al Servicio Fiscalizador de Carrera, los Servidores Públicos que prestan sus servicios de manera continua, permanente, regular y profesional a la Auditoría Superior del Estado de Guanajuato, de acuerdo con lo establecido en el presente Estatuto.
-
-Quedan exceptuados de la aplicación del presente Estatuto, los titulares de las unidades administrativas señaladas en las fracciones e incisos del artículo 3 del Reglamento Interior de la Auditoría Superior del Estado de Guanajuato, los que se consideran de libre designación.
-
-El personal de libre designación podrá gozar de los beneficios y prestaciones que establece este Estatuto.
+Son sujetos de esta Ley, las personas físicas y jurídicas colectivas que tengan como actividad ofertar al público la celebración de contratos de mutuo con interés y garantía prendaria, a través de las llamadas casas de empeño, independientemente de su denominación.
 
 ###### Artículo 4.
 
-El Servicio Fiscalizador de Carrera regulará el ingreso, permanencia, ascenso, evaluación, estímulos, prestaciones y profesionalización de los Servidores Públicos de la Auditoría Superior del Estado de Guanajuato, optimizando los recursos humanos.
+Las personas físicas y jurídicas colectivas que desempeñen las actividades descritas en el artículo anterior, con independencia de las obligaciones que otras leyes o reglamentos les impongan, deberán obtener permiso del Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, para su apertura, instalación y funcionamiento, de conformidad con esta Ley y sus disposiciones reglamentarias.
 
 ###### Artículo 5.
 
-A falta de disposición expresa en este Estatuto, se aplicarán, supletoriamente, la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y los Municipios y en su caso, la Ley Federal del Trabajo, las leyes en materia de responsabilidades administrativas, los principios generales del derecho, la costumbre y el uso.
-
-En caso de duda debe estarse a la norma más favorable al Servidor Público.
+En lo no previsto por esta Ley se aplicarán, supletoriamente, las disposiciones relativas al Código Financiero del Estado de México y Municipios, el Código Administrativo del Estado de México, Código de Procedimientos Administrativos del Estado de México, Código Civil del Estado de México y Código de Procedimientos Civiles del Estado de México.
 
 ###### Artículo 6.
 
-La operación y el desarrollo del Servicio Fiscalizador de Carrera deberán basarse en la igualdad de oportunidades, los conocimientos necesarios, el desempeño adecuado, la evaluación permanente, la transparencia de los procedimientos, el apego a los principios rectores del Servicio Fiscalizador de Carrera y la competencia de los Servidores Públicos de la Auditoría Superior del Estado de Guanajuato.
+Para los efectos de esta Ley, se entiende por:
+
+I. Casa de Empeño. Todo aquel establecimiento de persona física o jurídica colectiva que otorgue préstamos de dinero al público, mediante la celebración de contratos de mutuo con interés y garantía prendaria;
+
+II. Código Financiero. Al Código Financiero del Estado de México y Municipios;
+
+III. Ley. La Ley que Regula las Casas de Empeño en el Estado de México;
+
+IV. Permisionario. La persona física o jurídica colectiva que obtenga el permiso a que se refiere el artículo 4 de la Ley;
+
+V. Permiso. Autorización que se expide al permisionario, de conformidad con el artículo 10 de la Ley;
+
+VI. Peticionario. La persona física o jurídica colectiva que, conforme a la Ley, solicite la expedición, revalidación o modificación del permiso;
+
+VII. Pignorante o Deudor Prendario. Persona que solicita un préstamo con garantía prendaria;
+
+VIII. Pignorar. Acto de dejar en prenda un objeto como garantía de un préstamo;
+
+IX. Refrendo. Es el proceso mediante el cual el interesado o pignorante, cumpliendo lo pactado en el contrato de prenda y de acuerdo a las condiciones del billete de empeño, puede, mediante el pago de los intereses devengados y lo correspondiente al costo del almacenaje, mantener la prenda empeñada;
+
+X. Secretaría. La Secretaría de Finanzas del Estado de México;
+
+XI. Valuador. Persona física que posee los conocimientos necesarios, habilidades y experiencia, y que se encuentra inscrito en un registro que debe llevar la Secretaría, para emitir el valor de los bienes muebles para transacciones con transferencia de dominio y/o posesión.
 
 ###### Artículo 7.
 
-Para efectos del presente Estatuto, se entenderá por:
+Las casas de empeño, además de los libros auxiliares que deban llevar, deberán incluir otros en los que asentarán por orden correlativo, los números de las boletas de empeño, fecha del empeño, nombre, datos del comprobante de domicilio e identificación oficial, firma y huella dactilar del pignorante, detalle y soporte gráfico de los objetos en prenda, valor de avalúo de éstos, importe del préstamo, intereses y gastos de almacenaje, la fecha de vencimiento, cancelación o refrendo del préstamo y, en su caso, precio de la venta de los objetos.
 
-I. Auditoría Superior: La Auditoria Superior del Estado de Guanajuato;
+Estos libros auxiliares podrán llevarse en forma digital, siempre y cuando los programas de cómputo respectivos hayan sido previamente autorizados por la Secretaría, a solicitud expresa de parte interesada.
 
-II. Ascenso: El procedimiento mediante el cual un Servidor Público de carrera accede a otro puesto superior dentro del Servicio Fiscalizador de Carrera;
+Asimismo, los permisionarios informarán a la Secretaría dentro de los diez días hábiles siguientes, de la sustitución o adición de peritos valuadores en sus establecimientos.
 
-III. Catálogo: El catálogo de puestos del Servicio Fiscalizador de Carrera;
-
-IV. Estatuto: El Estatuto del Servicio Fiscalizador de Carrera de la Auditoría Superior del Estado de Guanajuato;
-
-V. Ingreso: El procedimiento mediante el cual se integra una persona como Servidor Público de la Auditoría Superior;
-
-VI. Puesto: La unidad impersonal de trabajo que describe tareas, implica deberes específicos y delimita jerarquías y autoridad dentro del Servicio Fiscalizador de Carrera;
-
-VII. Servicio: EL Servicio Fiscalizador de Carrera de la Auditoría Superior del Estado de Guanajuato; y
-
-VIII. Servidor Público: Los Servidores Públicos de la Auditoría Superior adscritos al Servicio.
-
-### Capítulo Segundo. Autoridades del Servicio
+### Capítulo II. De los Permisos
 
 ###### Artículo 8.
 
-Son autoridades en materia del Servicio, el Auditor Superior y la Dirección General de Administración, en los términos establecidos en el presente Estatuto y demás disposiciones aplicables.
+Con el propósito de que se advierta la absoluta transparencia en sus operaciones, las casas de empeño deberán colocar en su publicidad o en todos sus establecimientos abiertos al público, de manera permanente y visible, una pizarra de anuncios o medio electrónico informativo, que tendrá como propósito brindar información a los consumidores sobre los términos y condiciones de dichos contratos, en la que se incluyan costos e intereses.
+
+Además, deberán informar el costo diario totalizado, así como el costo mensual totalizado, que se deberán expresar en tasas de interés porcentual sobre el monto prestado, los cuales, para fines informativos y de comparación, incorporarán la totalidad de los costos y gastos inherentes al contrato de mutuo durante ese periodo.
+
+La información a la que se refiere el presente artículo deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable y permitir su fácil comprensión y comparación por parte de los consumidores.
 
 ###### Artículo 9.
 
-El Auditor Superior tendrá las siguientes atribuciones:
+Las casas de empeño deberán de hacer del conocimiento de la Procuraduría General de Justicia del Estado de México, mediante un reporte mensual, los siguientes actos o hechos que estén relacionados con las operaciones que realizan, de acuerdo con lo que se establece a continuación:
 
-I. Nombrar y remover libremente a los titulares de las Unidades Administrativas, sin perjuicio de los procedimientos específicos que, para su remoción, establezca la Ley de Fiscalización Superior del Estado de Guanajuato;
+I. Los casos en que un cliente haya empeñado tres o más artículos iguales o de naturaleza similar en una o más sucursales o unidades de negocio de una misma casa de empeño;
 
-II. Expedir los nombramientos de los titulares de las Auditorías Especiales y Direcciones Generales de la Auditoría Superior;
+II. Cuando racionalmente se pueda estimar que existe un comportamiento atípico del pignorante que permita suponer que los bienes prendarios son objetos provenientes de hechos ilícitos.
 
-III. Autorizar la designación del personal temporal y de libre designación;
+Para efectos de los supuestos contemplados en este artículo, las casas de empeño deberán proporcionar a la propia procuraduría los siguientes datos del cliente involucrado:
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2019)</small>
+a) Nombre.
 
-IV. Aprobar el programa anual de capacitación, en el que se deberán incluir los cursos generales que se impartirán a los Servidores Públicos;
+b) Domicilio.
 
-V. Aprobar el Estatuto y sus reformas; y
+c) Copia de la identificación oficial contra la cual se cotejo la firma del contrato respectivo.
 
-VI. Las demás que se desprendan de este Estatuto y otras disposiciones aplicables.
+d) Tipo de bien o bienes empeñados y el importe de los montos empeñados.
 
 ###### Artículo 10.
 
-La Dirección General de Administración es la instancia rectora en materia de consulta, planeación, organización, coordinación y apoyo en la aplicación de las etapas y procedimientos del Servicio.
+La expedición, revalidación, modificación y cancelación de los permisos a que se refiere el artículo 4 de esta Ley, corresponde al Ejecutivo del Estado, a través de la Secretaría, conforme a lo establecido en esta Ley y en su Reglamento.
+
+El permiso expedido autoriza la apertura, instalación y funcionamiento del establecimiento. En caso de que el interesado desee constituir sucursales u otro establecimiento similar, deberá solicitar en los términos de esta Ley un permiso adicional al otorgado.
+
+Ninguna persona física o jurídica colectiva se dedicará al negocio de casa de empeño sin haber obtenido previamente permiso expedido por la Secretaría.
+
+La Secretaría deberá publicar cada año en el periódico oficial "Gaceta del Gobierno" y de forma permanente en su sitio de internet la lista actualizada de las casas de empeño inscritas en la entidad con autorización vigente.
 
 ###### Artículo 11.
 
-La Dirección General de Administración tendrá las siguientes facultades:
+Para la expedición, revalidación, reposición o modificación de los permisos para el funcionamiento de las casas de empeño se deberán de pagar los derechos establecidos en el Código Financiero.
 
-I. Administrar y operar el Servicio;
-
-II. Planear, programar y presupuestar, en el ámbito de su competencia, los recursos de la Auditoría Superior para la operación del Servicio;
-
-III. Emitir la normativa complementaría al presente Estatuto que estime pertinente para el adecuado desarrollo del Servicio;
-
-IV. Expedir los nombramientos de los Servidores Públicos de la Auditoría Superior cuya expedición no corresponda al Auditor Superior;
-
-V. Interpretar las disposiciones de este Estatuto y su normativa complementaria;
-
-VI. Presentar los informes que solicite el Auditor Superior con la periodicidad que éste indique;
-
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2019)</small>
-
-VII. Controlar y evaluar la correcta instrumentación y operación del Servicio;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE FEBRERO DE 2019)</small>
-
-VIII. Suscribir los contratos del personal temporal, una vez autorizada su designación; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE FEBRERO DE 2019)</small>
-
-IX. Las demás que se desprendan de este Estatuto y otras disposiciones aplicables.
+Los permisos deberán revalidarse anualmente.
 
 ###### Artículo 12.
 
-Las autoridades del Servicio, para el cumplimiento de sus atribuciones, contarán con el apoyo de la Dirección de Desarrollo Institucional y de las unidades administrativas, según corresponda.
+Para obtener el permiso de apertura, instalación y funcionamiento de los establecimientos que rige la presente Ley, el interesado, con independencia de lo dispuesto en otros ordenamientos legales, debe presentar una solicitud por escrito ante la Secretaría, con los datos y documentos siguientes:
 
-### Capítulo Tercero. Principios de Estabilidad y Permanencia
+I. Nombre, razón social o denominación de la casa de empeño;
+
+II. Domicilio del establecimiento, así como de las sucursales, en su caso;
+
+III. Registro del contribuyente federal y del estatal;
+
+IV. Cédula de Identificación Fiscal;
+
+V. Clave Única de Registro Poblacional del permisionario o del representante legal, en su caso;
+
+VI. Domicilio fiscal para oír y recibir notificaciones y persona autorizada para recibirlas en su nombre y representación;
+
+VII. Mención de ser casa de empeño;
+
+VIII. Fecha y lugar de la solicitud;
+
+IX. Adjuntar copia del formato del contrato de mutuo con interés y garantía prendaria que utilizará para la celebración de los préstamos ofertados al público, registrado ante la Procuraduría Federal del Consumidor;
+
+X. Si el solicitante es persona jurídica colectiva, debe acompañar copia certificada del acta constitutiva, así como el poder notarial otorgado al representante legal;
+
+XI. Exhibir constancia de uso de suelo expedida por la autoridad municipal;
+
+XII. Adjuntar copia del recibo fiscal de pago de los derechos correspondientes, expedido por la Secretaría.
+
+Una vez cumplidos tales requisitos, adicionalmente se deberá presentar, dentro de los cinco días posteriores al de la aprobación de la solicitud, contrato de seguro ante una compañía aseguradora debidamente acreditada conforme a la legislación aplicable, suficiente para garantizar los daños y perjuicios que pudieran ocasionarse a los bienes empeñados, misma que en ningún caso podrá ser menor al valor que el perito valuador otorgue al momento del empeño. El contrato de seguro deberá ser renovado anualmente para efectos de la revalidación del permiso correspondiente.
+
+### Capítulo III. De las Obligaciones de los Permisionarios
 
 ###### Artículo 13.
 
-La permanencia de los Servidores Públicos estará condicionada al cumplimiento de sus obligaciones, al cumplimiento satisfactorio de la capacitación que para el caso se determine, a la aprobación de la evaluación al desempeño, y a la observancia de la Ley de Fiscalización Superior del Estado de Guanajuato, de este Estatuto, del Reglamento Interior de la Auditoría Superior y demás normativa aplicable.
+La Secretaría tendrá un plazo de diez días hábiles contados a partir de la recepción de la solicitud, para realizar el estudio y el análisis de la documentación correspondiente.
+
+Cuando la solicitud no cumpla con cualquiera de los requisitos señalados en la Ley, la Secretaría requerirá al peticionario que subsane las deficiencias en un plazo de diez días hábiles contados a partir de la notificación respectiva, apercibiéndolo que en caso de no hacerlo, se tendrá por rechazada su solicitud.
+
+La secretaría contará con diez días hábiles posteriores a que el solicitante remita la solicitud subsanada, para emitir el permiso.
 
 ###### Artículo 14.
 
-Son derechos de los Servidores Públicos, sin perjuicio de lo establecido por otros ordenamientos jurídicos, los siguientes:
-
-I. Obtener su nombramiento de ingreso y en su caso, los de ascenso en los puestos que corresponda, previa satisfacción de los requisitos establecidos;
-
-II. Recibir las remuneraciones correspondientes al puesto que ocupe y los incentivos que correspondan;
-
-III. Obtener la autorización correspondiente para el disfrute de permisos o licencias, de conformidad con lo establecido en el presente Estatuto y por los ordenamientos jurídicos aplicables;
-
-IV. Ser restituido en el goce y ejercicio de sus derechos y prestaciones cuando obtenga resoluciones favorables en términos del presente Estatuto;
-
-V. Recibir los cursos de capacitación y profesionalización que comprende la formación, actualización y especialización;
-
-VI. Ser evaluado en su desempeño y capacitación conforme a lo establecido en el presente Estatuto, así como conocer los resultados correspondientes:
-
-VII. Recibir un trato respetuoso de sus superiores jerárquicos, subordinados y compañeros, en el desempeño del servicio;
-
-VIII. Contar con los elementos materiales para el adecuado desarrollo de sus actividades, cuidando de los mismos, y
-
-IX. Los demás que establezcan las disposiciones legales aplicables.
+Recibida la solicitud de permiso en los términos previstos en el segundo párrafo del artículo anterior, deberá resolver sobre la petición en un plazo no mayor de diez días hábiles contados a partir del día siguiente a la fecha de la recepción integral de la documentación, la cual deberá notificarse al peticionario personalmente.
 
 ###### Artículo 15.
 
-Son obligaciones de los Servidores Públicos, sin perjuicio de lo establecido por otros ordenamientos jurídicos, las siguientes:
+La existencia de un dato falso en la solicitud de permiso será motivo suficiente para negar de forma definitiva el permiso.
 
-I. Coadyuvar en el cumplimiento de los fines del Servicio y aportar el máximo de sus capacidades y profesionalismo en los cargos que ocupen;
+### Capítulo IV. De la Secretaría de Finanzas del Estado
 
-II. Ejercer sus funciones con estricto apego a los principios de legalidad, honradez, objetividad, imparcialidad y profesionalismo que rigen el Servicio;
-
-III. Aportar los elementos informativos necesarios para la evaluación de su desempeño;
-
-IV. Participar en los programas de capacitación que comprende la formación, actualización y especialización;
-
-V. Cumplir con la evaluación anual que se establezca en materia del Servicio, concerniente al desempeño y al programa de formación y desarrollo profesional;
-
-VI. Proporcionar, en caso de que se separen de manera provisional de sus cargos, la información y documentación necesarias para el ejercicio de sus atribuciones al Servidor Público que se designe para suplirlo, y
-
-VII. Las que señalen las leyes y demás disposiciones aplicables.
-
-### Capítulo Cuarto. Selección, Promoción y Permanencia
-
-#### Sección Primera. Catálogo de Puestos
+#### Sección Primera. De la Solicitud del Permiso
 
 ###### Artículo 16.
 
-El catálogo de puestos contendrá los elementos suficientes para establecer la descripción y el perfil de éstos y los requisitos específicos para su ocupación.
+En caso de que la resolución notificada niegue el otorgamiento del permiso, el solicitante podrá inconformarse en los términos previstos por esta Ley.
 
 ###### Artículo 17.
 
-El catálogo contendrá, además, la referencia al nivel que corresponde a cada puesto dentro del tabulador general de sueldos del Poder Legislativo.
+La Secretaría al resolver favorablemente la solicitud de un permiso, requerirá al peticionario para que dentro del término de cinco días hábiles, contados a partir de la notificación de la resolución, exhiba póliza de fianza otorgada a favor de Gobierno del Estado, cuyo monto sea equivalente a veinte mil veces el salario mínimo diario vigente en esta zona geográfica, o el suficiente para garantizar los daños y perjuicios que pudieran ocasionarse a los bienes empeñados. Dicha póliza tendrá vigencia de un año y deberá ser renovada anualmente para efectos de la revalidación del permiso correspondiente, así como el recibo oficial de pago de los derechos por concepto de expedición de permiso de apertura, instalación y funcionamiento correspondiente.
 
 ###### Artículo 18.
 
-La elaboración del catálogo, así como su actualización permanente, observará los principios de racionalidad, austeridad y disciplina presupuestal, y estará bajo la responsabilidad de la Dirección General de Administración, la que tomará en consideración la opinión de los titulares de las unidades administrativas de la Auditoría Superior, a efecto de presentar el catálogo y sus propuestas de modificación al Auditor Superior para su aprobación.
+Colmados los requisitos señalados en el artículo anterior, la Secretaría deberá expedir y hacer entrega del original del permiso al peticionario o a quien para tal efecto se autorice, recabando constancia de su entrega en la copia del mismo, debiéndola anexar al expediente del permisionario.
 
-#### Sección Segunda. Selección, Ingreso y Ascenso al Servicio
+#### Sección Segunda. De la Expedición del Permiso
 
 ###### Artículo 19.
 
-El ingreso al Servicio comprende el reclutamiento y la selección de aspirantes, la ocupación de vacantes o puestos de nueva creación al Servicio y en general, la adscripción e inducción en los puestos de acuerdo a la clasificación y perfiles de estos.
+El permiso deberá contener:
 
-Excepcionalmente, se podrá ocupar una plaza vacante o puesto de nueva creación mediante la selección de personal temporal en los términos del presente Estatuto, el cual, durante el plazo que dure su nombramiento estará sujeto al Servicio, en lo conducente.
+I. Nombre de la Secretaría;
+
+II. Fundamento legal para la expedición, especificando que se ha cumplido con los requisitos exigidos por la Ley;
+
+III. Número y clave de identificación del permiso;
+
+IV. Nombre, razón social o denominación de la casa de empeño;
+
+V. Registro del contribuyente federal y estatal;
+
+VI. Cédula de identificación fiscal;
+
+VII. Clave Única del Registro de Población del permisionario o representante legal, en su caso;
+
+VIII. Domicilio legal;
+
+IX. Mención de ser casa de empeño;
+
+X. La obligación del permisionario de revalidar anualmente el permiso, en los términos que establezca la Ley;
+
+XI. Vigencia del permiso;
+
+XII. Nombre y firma del servidor público autorizado para expedir el permiso;
+
+XIII. Fecha y lugar de expedición.
 
 ###### Artículo 20.
 
-Para cubrir cualquier puesto perteneciente al Servicio se deberá atender a la clasificación y perfiles del puesto, por lo que se evaluarán aspectos de conocimientos, curriculares y demás pertinentes a fin de determinar que se cumple con los requerimientos de aptitudes y habilidades que el puesto de que se trate requiere, así como los requisitos mínimos de ingreso al Servicio por parte de los aspirantes.
+El permiso que se expida será personal e intransferible y con vigencia de un año.
+
+#### Sección Tercera. De la Modificación del Permiso
 
 ###### Artículo 21.
 
-El acceso al Servicio será el concurso de oposición, mismo que podrá ser, según determine la Dirección General de Administración, de carácter interno con la participación de quienes cuentan con la calidad de Servidor Público o de carácter mixto con la participación, además, de aspirantes externos.
+El Ejecutivo del Estado, por conducto de la Secretaría, podrá autorizar la modificación de un permiso expedido en los términos de la Ley, por las causas siguientes:
+
+I. Por cambio de domicilio del establecimiento autorizado;
+
+II. Por cambio en la razón social o denominación de la casa de empeño;
+
+III. Por cambio de propietario, para lo cual el interesado en adquirir, previamente, deberá cumplir con los requisitos establecidos para la obtención de un permiso.
 
 ###### Artículo 22.
 
-Para la selección (sic) los Servidores Públicos se integrará un Comité de Selección por cada proceso, el que será responsable del análisis curricular y entrevista de los aspirantes, de emitir la ponderación correspondiente, y demás funciones que se prevean en este Estatuto.
-
-El Comité de Selección se integrará por:
-
-I. El Auditor Especial, Director General o Secretario Técnico de la Unidad Administrativa donde se genere la plaza vacante;
-
-II. El Director de área o titular de Unidad al que se encuentre adscrita la plaza vacante; y
-
-III. La Dirección General de Administración.
-
-Cuando la plaza vacante se encuentre adscrita a la Dirección General de Administración participará en el Comité de Selección el Secretario Técnico.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2019)</small>
+El permisionario deberá solicitar la modificación del permiso en un plazo que no exceda de diez días hábiles, contados a partir de que se dé alguno de los supuestos previstos en el artículo que antecede.
 
 ###### Artículo 23.
 
-La Dirección General de Administración en todo proceso de selección mediante concurso de oposición, ya sea para ocupar un puesto de nueva creación o una vacante, garantizará en la convocatoria respectiva el derecho a participar en el proceso a quienes ya cuentan con la calidad de Servidores Públicos.
+Para la modificación de un permiso, el interesado deberá presentar ante la Secretaría los siguientes documentos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2019)</small>
+I. Solicitud por escrito expresando la causa que motiva la petición;
+
+II. El permiso original;
+
+III. Los documentos idóneos que acrediten la causa invocada;
+
+IV. Tratándose de cambio de domicilio, la constancia de uso de suelo expedida por la autoridad municipal;
+
+V. El recibo oficial del pago de derechos correspondientes.
 
 ###### Artículo 24.
 
-En todo proceso mediante concurso de oposición para ocupar vacantes o puestos de nueva creación, deberá formularse convocatoria que contendrá por lo menos:
-
-I. Puestos de nueva creación o vacantes a concursar;
-
-II. Fecha en que se desarrollara la etapa de inscripción;
-
-III. Calendario de actividades para:
-
-a) Verificación de requisitos;
-
-b) Aplicación de evaluación técnica, a la que le corresponderá al menos un 55 por ciento del total de la ponderación y la (sic) su calificación mínima aprobatoria será de 70 sobre 100:
-
-c) Análisis curricular, al que le corresponderá hasta un 15 por ciento del total de la ponderación;
-
-d) Entrevista, a la que le corresponderá hasta un 30 por ciento del total de la ponderación; y
-
-e) Notificación de resultados.
-
-IV. Mecanismos para considerar la evaluación del desempeño, en su caso;
-
-V. Mecanismos para asegurar la imparcialidad, objetividad y transparencia del concurso, y
-
-VI. Mecanismos para garantizar la confidencialidad, integridad y seguridad de los instrumentos de evaluación.
-
-La convocatoria deberá publicarse en los medios idóneos por lo menos con tres días hábiles de anticipación a la fecha en que inicie la etapa de registro o inscripción al proceso de selección.
+Recibida la solicitud de modificación de un permiso, en los términos previstos en el artículo anterior, dentro de los diez días hábiles siguientes, la Secretaría dictaminará sobre la procedencia de la solicitud; de aprobarse, se expedirá un nuevo permiso con las modificaciones solicitadas y cancelará el anterior, dejando constancia de ello en el expediente respectivo, y notificará al peticionario personalmente.
 
 ###### Artículo 25.
 
-Efectuada la evaluación técnica y obtenidos los resultados, la Dirección General de Administración convocará al Comité de Selección para el análisis curricular y posterior entrevista de los aspirantes que aprobaron la evaluación técnica.
-
-El aspirante que obtenga el mayor puntaje de las ponderaciones que se refieren en el artículo 24 será el que ocupará la plaza vacante.
-
-El Comité de Selección emitirá el fallo correspondiente.
+La entrega del permiso original se hará en los términos de los artículos 17 y 18 de esta Ley, por lo que en todo caso, deberá exhibirse la póliza de seguro, atendiendo a los ajustes que deriven de la modificación autorizada.
 
 ###### Artículo 26.
 
-En caso de empate, el resultado del concurso de oposición se decidirá por el Comité de Selección, conforme a lo siguiente:
-
-I. Entre candidatos internos, se optará por quien tenga mayor antigüedad en la Auditoría Superior.
-
-De persistir el empate, se optará por quien tenga un mayor nivel académico en áreas relacionadas con las funciones de la Auditoría Superior;
-
-II. Entre un candidato interno y uno externo, se optará por el interno; y
-
-III. Entre candidatos externos, se optará por quien tenga mayor experiencia laboral en áreas relacionadas con la actividad de la Auditoría Superior.
-
-De persistir el empate, se optará por quien tenga un mayor nivel académico en áreas relacionadas con las funciones de la Auditoría Superior.
-
-Para efectos de desempate el personal contratado mediante honorarios asimilables a salarios se considerará interno.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2019)</small>
+Es obligación del permisionario, en los casos de modificación del permiso por cambio de domicilio, informar mediante aviso en lugar visible del establecimiento que ocupaba y a los pignorantes mediante aviso en su domicilio, además de publicarlo en un diario de mayor circulación en el Estado y/o en el municipio respectivo. La Secretaría realizará la anotación respectiva en el registro que se menciona en esta Ley.
 
 ###### Artículo 27.
 
-Procederá la selección de personal temporal para ocupar una plaza vacante o de nueva creación, cuando:
+En caso de que la resolución notificada niegue la modificación del permiso, el interesado podrá inconformarse en los términos previstos por esta Ley.
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2019)</small>
-
-I. Un proceso de selección se declare desierto por dos ocasiones; o
-
-II. La Unidad Administrativa en la que se haya generado la vacante justifique la urgencia de la contratación a criterio de la Dirección General de Administración.
+#### Sección Cuarta. De la Revalidación del Permiso
 
 ###### Artículo 28.
 
-Para la designación de personal temporal, la Dirección General de Administración conformará, con el carácter de reserva estratégica, un padrón derivado de los concursos de oposición celebrados, con los aspirantes que no resultaron seleccionados en los mismos, pero que obtuvieron calificaciones aprobatorias en la evaluación técnica.
+El permisionario tiene la obligación de revalidar anualmente su permiso, debiendo presentar ante la Secretaría lo siguiente:
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2019)</small>
+I. Solicitud por escrito;
 
-Los aspirantes que integren la reserva estratégica permanecerán en ella durante un año, contado a partir de la publicación de los resultados del concurso, en cuyo caso podrán ser seleccionados para ocupar temporalmente una plaza vacante o de nueva creación.
+II. El permiso original sujeto a revalidación;
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2019)</small>
+III. El recibo de pago de los derechos correspondientes;
 
-La plaza vacante o de nueva creación sólo podrá ser ocupada con la reserva estratégica correspondiente a una plaza equivalente a la que concursó el aspirante. Si éste cuenta con los conocimientos necesarios y el perfil de otra plaza, previa autorización del Comité de Selección podrá ser considerado (sic) ocuparla.
+IV. La renovación del contrato de seguro, previsto en el artículo 12 de la Ley.
+
+En caso de que la petición de revalidación del permiso sea en forma extemporánea, se impondrá la sanción establecida en la presente Ley. Una vez cubierta la multa se dará el trámite que corresponda.
 
 ###### Artículo 29.
 
-Acreditado el supuesto que corresponda de los previstos en el artículo 27, la Dirección General de Administración convocará al Comité de Selección al que proporcionará los expedientes de al menos tres aspirantes de los que conforman la reserva estratégica, que hayan obtenido los mejores resultados en los concursos de oposición en los que no resultaron seleccionados.
-
-Los integrantes del Comité de Selección, del análisis que efectúen al expediente que se les proporcione, ponderarán en una escala de uno a diez a los aspirantes, siendo diez la ponderación más alta.
-
-Será seleccionado el aspirante que obtenga el promedio más alto en la ponderación, previa autorización del Auditor Superior.
-
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2019)</small>
+Recibida la solicitud de revalidación de un permiso en los términos previstos en el artículo anterior, deberá resolverse la petición en un plazo no mayor de diez días hábiles; de aprobarse, se expedirá la constancia de revalidación correspondiente y se hará la devolución del permiso original, conservando copia de la constancia de revalidación en el expediente respectivo y se notificará al permisionario en forma personal.
 
 ###### Artículo 29 Bis.
 
@@ -343,345 +317,439 @@ Cuando de entre la reserva estratégica no se reúnan la cantidad de aspirantes 
 
 ###### Artículo 30.
 
-La temporalidad del personal designado no podrá ser mayor de doce meses, sin posibilidad de prórroga.
+Si la resolución niega la revalidación del permiso el interesado podrá inconformarse en los términos previstos por esta Ley.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2019)</small>
+#### Sección Quinta. Reposición del Permiso
 
 ###### Artículo 31.
 
-De ser pertinente la definitividad de la plaza ocupada temporalmente de conformidad con el proceso que se determine en las Disposiciones para la Administración, Ejercicio y Control de los Recursos de la Auditoría Superior del Estado de Guanajuato, la Dirección General de Administración realizará la convocatoria y el concurso de oposición respectivo.
+El permisionario deberá solicitar la reposición del permiso ante la Secretaría, cuando éste hubiere sido extraviado, robado o sufrido deterioro grave.
 
-### Capítulo Quinto. Personal de Libre Designación
+### Capítulo V. Del procedimiento de inspección
 
 ###### Artículo 32.
 
-Son requisitos para la selección del personal de libre designación con cargo de director de área o titular de unidad:
+Para obtener la reposición del permiso, el peticionario deberá satisfacer los siguientes requisitos:
 
-I. La acreditación del nivel curricular y experiencia profesional del aspirante, así como la justificación por parte del Auditor Especial, Director General o Secretario Técnico, para la selección de aquél;
+I. Solicitud por escrito;
 
-II. La comprobación curricular que, en su caso, realice la Dirección General de Administración;
+II. Exhibir el permiso original, en los casos de deterioro grave;
 
-III. La práctica de un examen psicométrico; y
+III. Exhibir constancia de robo o extravío expedida por el ministerio público, o en su caso, por la autoridad municipal;
 
-IV. La autorización del Auditor Superior.
+IV. Cubrir el costo que se establezca en el Código Financiero.
 
-Tratándose de los Auditores Especiales, Directores Generales, del Secretario Técnico y del Secretario Particular, su designación se efectuará directamente por el Auditor Superior, previa realización, si así lo estima conveniente, del examen a que se refiere la fracción III de este artículo.
+#### Sección Sexta
 
-### Capítulo Sexto. Nombramiento
+Registro de las Casas de Empeño.
+
+### Capítulo VI. De las sanciones
 
 ###### Artículo 33.
 
-El nombramiento contendrá como mínimo los datos siguientes:
+La Secretaría deberá llevar un registro de las autorizaciones de apertura otorgadas a las casas de empeño. Cada inscripción en ese registro contendrá la siguiente información:
 
-I. Nombre y apellidos, registro federal de contribuyentes, y cédula única del registro de población;
+I. Número de la resolución;
 
-II. Fecha de inicio de los efectos del nombramiento;
+II. Fecha de su expedición;
 
-III. Plaza, puesto y área de adscripción; y
+III. Nombre, domicilio y números telefónicos de la persona física o jurídica colectiva a quien se dio la autorización y el de su representante legal, en su caso;
 
-V (SIC). El carácter provisional o permanente de ocupación de la plaza.
+IV. Capital inicial con que operará el negocio y la fecha de inicio de operaciones.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
-
-### Capítulo Séptimo. Estímulos al Desempeño
+### Capítulo VII. De las Notificaciones
 
 ###### Artículo 34.
 
-Los estímulos previstos en el presente Estatuto tienen por objeto impulsar el desempeño diario de las labores de los Servidores Púbicos, buscando en todo momento la excelencia en la prestación del servicio.
+En dicho registro la Secretaría asentará las anotaciones respectivas cuando se realicen modificaciones, revalidaciones, reposiciones y/o cancelaciones de los permisos que se otorgaron a las casas de empeño para su funcionamiento, así como de la negativa definitiva de los permisos, en su caso.
 
 ###### Artículo 35.
 
-La Dirección General de Administración es la encargada de la evaluación de los programas y metas que deban llevar a cabo los Servidores Públicos de la Auditoría Superior y la facultada para la determinación del otorgamiento de estímulos.
+Son obligaciones de los permisionarios las siguientes:
+
+I. Presentar dentro de los primeros cinco días de cada mes, un informe a la Procuraduría General de Justicia del Estado de México, sobre los actos o hechos a que se refiere el artículo 9 de esta Ley, así como informar del registro de todas las operaciones realizadas en ese periodo, el cual deberá contener como mínimo: los datos generales de los pignorantes, descripción de los bienes en prenda y montos de las mismas;
+
+Dicha dependencia tendrá bajo su más estricta responsabilidad la guarda y custodia de los datos personales, salvaguardando los principios que establecen las leyes de la materia;
+
+II. Presentar las denuncias correspondientes ante el Ministerio Público cuando tenga conocimiento o sea sabedor de actos o hechos presumiblemente constitutivos de delito;
+
+III. Permitir el acceso y facilitar las diligencias de inspección o auditoría que pretenda realizar la Secretaría, siempre y cuando medie mandato legítimo y se lleve a cabo conforme a las formalidades del procedimiento fiscal del Estado de México;
+
+IV. Llevar la contabilidad, la cual deberán de conservar en el domicilio que se señale para efectos fiscales. Dicha contabilidad estará a disposición de las autoridades fiscales respectivas de acuerdo a lo establecido en esta Ley;
+
+V. Solicitar al pignorante al momento de realizar la operación, el documento oficial que acredite su identidad; los que únicamente podrán ser credencial para votar, licencia de conducir, pasaporte, cédula profesional o cartilla del servicio militar nacional;
+
+VI. Requerir al pignorante acreditar la propiedad del bien en prenda cuando el monto del préstamo exceda la cantidad de tres mil pesos;
+
+VII. Anexar al registro copia de la factura que acredite la propiedad del bien dado en prenda cuando el monto del préstamo exceda la cantidad de tres mil pesos.
 
 ###### Artículo 36.
 
-Los estímulos por evaluación al desempeño son aplicables a los Servidores Públicos de la Auditoría Superior.
-
-Para que un Servidor Público sea acreedor a un estímulo deberá considerarse la evaluación del área a la que está adscrito y la evaluación del Servidor Público en lo individual.
-
-La evaluación comprenderá los conceptos siguientes:
-
-I. A la productividad. El cumplimiento de las metas programadas en los tiempos establecidos;
-
-II. A la eficiencia. La generación de economías en los presupuestos asignados, y
-
-III. A la calidad. La evaluación favorable de cada unidad administrativa, respecto del cumplimiento en tiempo y forma de las metas y objetivos planteados en los programas respectivos, así como la relativa del Servidor Público.
-
-No podrá otorgarse este estímulo al personal que obtenga una calificación no satisfactoria de acuerdo al formato de evaluación de desempeño y los presentes criterios, así como aquellos servidores que no cumplan con el plan anual de cursos generales.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+Las personas físicas y jurídicas colectivas a que se refiere el artículo 3 de esta Ley deberán sujetar los contratos de mutuo con interés y garantía prendaría que celebren a las formalidades que se establecen en la Ley Federal de Protección al Consumidor, la Norma Oficial Mexicana y demás leyes aplicables.
 
 ###### Artículo 37.
 
-La Dirección General de Administración, tomando en cuenta los recursos presupuestales disponibles, determinará la procedencia, naturaleza y, en su caso, monto de los estímulos a otorgarse.
+Las casas de empeño tienen la obligación de proporcionar al pignorante, al momento de formalizar la operación, copia del contrato respectivo, sin espacios en blanco y debidamente firmado por ambas partes, así como original de la boleta de empeño.
 
-### Capítulo Octavo. Evaluación al Desempeño
+### Capítulo VIII. De los Recursos
+
+###### Artículo 67.
+
+En caso de inconformidad por la aplicación de alguna de las disposiciones o resoluciones contenidas en esta Ley, los permisionarios podrán interponer cualquier medio de defensa señalado en el Código de Procedimientos Administrativos del Estado de México.
+
+T R A N S I T O R I O S
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor a los noventa días de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo Estatal deberá proveer lo necesario para garantizar el cumplimiento de la presente Ley.
+
+CUARTO.- Las casas de empeño que al entrar en vigor el presente Decreto se encuentren en funciones, tendrán un plazo de noventa días para cumplir con las disposiciones de esta Ley.
+
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
+
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los doce días del mes de julio del año dos mil trece.- Presidente.- Dip. Norberto Morales Poblete.- Secretarios.- Dip. Ana María Balderas Trejo.- Dip. Fidel Almanza Monroy.- Dip. Fernando García Enríquez.-Rúbricas.
+
+Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
+
+Toluca de Lerdo, Méx., a 18 de julio de 2013.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
+
+DR. ERUVIEL AVILA VILLEGAS
+
+(RUBRICA).
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+MTRO. EFREN ROJAS DAVILA
+
+(RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 90 días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su respectiva competencia, deberán instalar en un plazo no mayor a los ciento ochenta días naturales a partir de la fecha de la entrada en vigor de este Decreto, la ventanilla de gestión, así como la ventanilla única.
+
+CUARTO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para instalar debidamente el Sistema de Unidades Económicas, a más tardar en el inicio del ejercicio fiscal siguiente, en tanto los municipios deberán seguir alimentando los registros a que hace referencia la Ley Orgánica Municipal del Estado de México.
+
+QUINTO. Los ayuntamientos que cuenten con unidades económicas que tengan como actividad principal la venta de vehículos automotores usados en tianguis de autos y/o que tengan como actividad principal el aprovechamiento de vehículos usados que han concluido su vida útil, deberán contar con las zonas especiales que haya autorizado la Secretaría de Desarrollo Urbano, para el establecimiento de éstas, a más tardar 120 días naturales después de la entrada en vigor del presente Decreto.
+
+SEXTO. Las gestiones, procedimientos y demás actos que se encuentren en trámite a los que se refieren esta Ley, al momento de la entrada en vigor de este Decreto se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+SÉPTIMO. El Titular del Ejecutivo y los Ayuntamientos, en el ámbito de su competencia, expedirán las disposiciones reglamentarias respectivas a más tardar a los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 18 de julio de 2013.
+
+NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
+
+DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
 
 ###### Artículo 38.
 
-Para la evaluación al desempeño, las unidades administrativas deberán elaborar su programa anual de actividades, el cual contendrá las metas, objetivos y funcionarios responsables de su ejecución, así como el cronograma en el que se señalen fechas o periodos en que deban cumplirse.
+Los documentos que amparen la identidad del pignorante, así como la propiedad del bien pignorado deberán anexarse al contrato correspondiente en copia simple debidamente cotejada.
 
-La evaluación anual estará a cargo de las distintas unidades administrativas de la Auditoría Superior.
+De no contar el pignorante con la documentación que acredite la propiedad del bien pignorado deberá emitir manifiesto donde reconoce expresamente que es legítimo e indiscutible propietario del mismo, debiéndose identificar plenamente con documento oficial o acompañado de dos personas debidamente identificadas que atestigüen que la prenda es de su propiedad. De lo anterior, quedará constancia en la casa de empeño, anexándose las copias de identificación respectivas.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+El permisionario que tenga conocimiento de la comisión de hechos posiblemente delictuosos, con motivo de los servicios que presta, está obligado a denunciarlos ante el ministerio público. No podrán concertarse operaciones con menores de edad o incapaces.
 
 ###### Artículo 39.
 
-Los titulares de las direcciones de área y unidades, en coordinación con su superior jerárquico inmediato, elaborarán un análisis que contenga las consideraciones técnicas para determinar si procede o no el estímulo, atendiendo a la evaluación del área y de cada uno de los Servidores Públicos.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+Son susceptibles de empeño todo tipo de bienes muebles, con excepción de aquellos que formen parte del patrimonio público, los semovientes y los fungibles.
 
 ###### Artículo 40.
 
-La Dirección General de Administración, con base en el análisis técnico referido en el artículo anterior, determinará los Servidores Públicos con derecho al estímulo, mismo que en su caso se otorgará en el mes de diciembre del año correspondiente.
+Las casas de empeño no podrán utilizar, bajo ningún título, los objetos pignorados, en su beneficio o de un tercero, ni tomar dinero prestado con su garantía.
 
 ### Capítulo Noveno. Capacitación Permanente
 
 ###### Artículo 41.
 
-La capacitación tiene como objetivos primordiales desarrollar las aptitudes del personal de la Auditoría Superior, en relación con las actividades inherentes a los puestos, estimular su vocación, atentar su desarrollo humano y profesional, auspiciar las posibilidades de ascenso y promover la calidad y la eficiencia en el desempeño de sus funciones.
+Las casas de empeño deberán informar periódicamente a la Secretaría, del registro que realicen del contrato de adhesión de mutuo con interés y garantía prendaria ante la Procuraduría Federal del Consumidor, en cumplimiento de las normas aplicables al caso.
 
 ###### Artículo 42.
 
-La capacitación comprende:
-
-I. La inducción al Puesto;
-
-II. La participación en los cursos generales que corresponda dentro del programa que se determine para el efecto; y
-
-III. El acceso a los apoyos para estudios, en términos de las disposiciones aplicables.
+Las casas de empeño quedan obligadas a indemnizar a los pignorantes en los casos de pérdida, extravío, deterioro, incendio o cualquier otra causa que les impida hacer entrega de la cosa empeñada en la misma forma en que la recibieron, por un importe igual al valor real declarado en la póliza respectiva.
 
 ###### Artículo 43.
 
-Una vez expedido el nombramiento, la Dirección General de Administración, en colaboración con la Unidad Administrativa correspondiente, serán corresponsables de la inducción del Servidor Público al puesto que desempeñará.
-
-Dicha inducción comprenderá:
-
-I. El señalamiento de las atribuciones del puesto;
-
-II. Un esquema de capacitación inmediata sobre el contenido de la normativa interna y el plan estratégico correspondiente;
-
-III. La presentación de sus superiores jerárquicos y, en su caso, subordinados;
-
-IV. En general, toda aquella información que requiera para el inicio de sus funciones.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2019)</small>
+La Secretaría, para la atención de los asuntos que tiene encomendados por la Ley, se auxiliará de las unidades administrativas que determinen, para la recepción de las solicitudes, expedición, revalidación, modificación, reposición y cancelación del permiso para la instalación y funcionamiento de casas de empeño en el Estado.
 
 ###### Artículo 44.
 
-Los Servidores Públicos deberán cumplir con los cursos que, con carácter general, sean señalados dentro del programa de capacitación respectivo en términos de las Disposiciones para la Administración, Ejercicio y Control de los Recursos de la Auditoría Superior del Estado de Guanajuato aplicables.
+A la Secretaría corresponderá realizar las siguientes funciones:
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE FEBRERO DE 2019)</small>
+I. La recepción, análisis y calificación de las solicitudes para la expedición, revalidación, reposición y modificación del permiso para la instalación y funcionamiento de casas de empeño, así como la integración del expediente correspondiente;
+
+II. Elaboración de los proyectos de resolución correspondientes a las solicitudes de expedición, modificación, revalidación y cancelación de permiso para la instalación y funcionamiento de casas de empeño;
+
+III. Sancionar a los permisionarios por infracciones a la Ley, conforme a lo establecido en este ordenamiento;
+
+IV. Notificar las sanciones por infracciones a las disposiciones de la Ley y proveer lo conducente a su ejecución;
+
+V. Notificar las resoluciones sobre la expedición, modificación, revalidación, reposición y cancelación del permiso;
+
+VI. Elaborar formatos de documentos relativos a la solicitud de expedición, revalidación, reposición y modificación de permiso y demás papelería oficial necesaria para el cumplimiento del objeto de la Ley;
+
+VII. Llevar a cabo las visitas de inspección y verificación, con las formalidades que establece esta Ley y el Código Financiero;
+
+VIII. Tener bajo su más estricta responsabilidad la guarda y custodia de los datos personales que obtenga de las casas de empeño, salvaguardando los principios que establecen las leyes de la materia;
+
+IX. Las demás que sean necesarias para el debido cumplimiento de la Ley.
 
 ###### Artículo 45.
 
-(DEROGADO, P.O. 13 DE FEBRERO DE 2019)
+La vigilancia y supervisión de la apertura, instalación y funcionamiento corresponde a la Secretaría, en el marco de lo que dispone la presente Ley y de los instrumentos jurídicos celebrados entre el Estado y la Federación, por conducto de los servidores públicos que para tal efecto se autoricen, por mandato debidamente fundado y motivado, mediante la práctica de diligencias de inspección o auditoría.
 
 ### Capítulo Décimo. Desarrollo Institucional
 
 ###### Artículo 46.
 
-Corresponde al Dirección General de Administración, por conducto de la Dirección de Desarrollo Institucional, el establecimiento de medidas y programas de fortalecimiento interinstitucional que redunden en el mejoramiento del clima laboral y que propicien mejores condiciones laborales para los Servidores Públicos.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2019)</small>
+Si del resultado de la diligencia de inspección o auditoría, la Secretaría determina infracciones de carácter administrativo y fiscal cometidas por los permisionarios, deberá imponer la sanción que corresponda en los términos previstos en el Código Financiero.
 
 ###### Artículo 47.
 
-Para el cumplimiento de lo establecido en el artículo anterior, la Dirección de Desarrollo Institucional, en colaboración con las distintas unidades administrativas de la Auditoría Superior, podrá efectuar diagnósticos que le permitan conocer la situación laboral que prevalece y en función de ella proponer acciones de mejora continua en los términos del presente Estatuto.
+El permisionario está obligado a permitir el acceso y facilitar las diligencias de inspección o auditoría que pretenda realizar la Secretaría, siempre y cuando medie mandato legítimo y se lleve a cabo conforme a las formalidades del procedimiento fiscal y/o administrativo del Estado de México.
 
 ###### Artículo 48.
 
-La Dirección de Desarrollo Institucional propondrá al Director General de Administración, las medidas, políticas, convenios, programas y demás instrumentos que propicien efectivamente el desarrollo administrativo integral de la Auditoría Superior y la mejora continua de las condiciones laborales de sus Servidores Públicos.
+Las casas de empeño tienen la obligación de llevar contabilidad, la cual deberán de conservar en el domicilio que se señale para efectos fiscales. Dicha contabilidad estará a disposición de las autoridades fiscales respectivas.
 
 ### Capítulo Décimo Primero. Separación del Servicio
 
 ###### Artículo 49.
 
-A todo Servidor Público, en caso de separación del Servicio, se le deberán cubrir las prestaciones que conforme a derecho le corresponden, sin perjuicio de lo establecido en el presente Estatuto.
+Para los efectos de vigilar la estricta observancia de la presente Ley, la Secretaría autorizará a servidores públicos para practicar visitas de inspección, debiendo contar con orden escrita que contendrá los siguientes requisitos:
+
+I. Nombre completo del servidor público autorizado para realizar la inspección;
+
+II. Nombre de la dependencia y de la unidad administrativa que expide la orden de inspección;
+
+III. Fundamentos legales y motivación en la que se sustente la visita de inspección;
+
+IV. Lugar y fecha en que ha de efectuarse la inspección, el nombre del establecimiento, del representante legal y su número de permiso;
+
+V. Objeto de la visita y alcance de la misma;
+
+VI. Firma del funcionario autorizado que expide el documento y sello de la dependencia que ordena la visita.
 
 ###### Artículo 50.
 
-El nombramiento de los Servidores Públicos adscritos al Servicio dejará de surtir efectos, sin responsabilidad para la Auditoría Superior, por las siguientes causas:
+Las visitas de inspección se practicarán con el representante legal o, en su caso, con quien se encuentre al frente del establecimiento, exigiéndose la presentación de la documentación siguiente:
 
-I. Renuncia;
+I. Original del permiso correspondiente;
 
-II. Sentencia ejecutoria que imponga al Servidor Público una pena que implique la privación de su libertad;
+II. Identificación de la persona con quien se entiende la visita;
 
-III. Por incumplimiento grave de cualquiera de las obligaciones señaladas en el presente Estatuto;
+III. Tratándose de representantes legales, documento notarial original o certificado con el que se acredite la personalidad;
 
-IV. Incapacidad permanente que le impida el desempeño de sus funciones, dictaminara (sic) por la institución médica que corresponda;
+IV. Comprobante de la revalidación del permiso, en su caso;
 
-V. Cuando se efectúe una reestructuración o reorganización administrativa que implique la supresión o modificación de áreas de la Auditoría Superior, salvo que sea posible la reubicación al interior de las unidades administrativas;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
-
-VI. Obtener resultados no aprobatorios en la evaluación al desempeño por más de dos ocasiones consecutivas; y
-
-IV (SIC). Las demás que se establezcan en las disposiciones legales aplicables.
+V. Todos los elementos y datos necesarios que se requieran para comprobar el cumplimiento de las disposiciones de la Ley, así como los que se señalan en el permiso.
 
 ###### Artículo 51.
 
-Los Servidores Públicos tienen derecho a una prima de antigüedad que consistirá en el importe de por lo menos quince días de salario tabular por cada año de prestación de servicio, en el supuesto de no haber cumplido el año, la parte proporcional que le corresponda siempre y cuando hayan cumplido cinco años de servicio.
+De toda visita de inspección que se practique se levantará acta circunstanciada en la que se harán constar los siguientes datos y hechos:
 
-La prima de antigüedad se pagará en los siguientes supuestos:
+I. Lugar, hora y fecha en que se practique la visita;
 
-I. En los casos de retiro voluntario;
+II. Nombre y cargo de la persona con quien se entiende la diligencia;
 
-II. En los casos de disolución de la relación laboral independientemente si es o no justificada;
+III. Identificación vigente del servidor público autorizado a practicar la visita, asentando su nombre, así como de la autoridad que ordenó la inspección;
 
-III. En caso de muerte del Servidor Público, y
+IV. Requerimiento al visitado para que designe a dos testigos, en ausencia o negativa de aquél, la designación se hará por el servidor público que practique la visita;
 
-IV. En los casos de retiro definitivo o pensión en los términos de la Ley de Seguridad Social del Estado de Guanajuato.
+V. Descripción detallada de la documentación que se ponga a la vista del inspector;
 
-Tratándose de los titulares de las unidades administrativas gozarán del derecho de la prima de antigüedad por el importe de 12 días de salario tabular, por cada año de servicio; o su parte proporcional en el caso de no cumplir con el año de servicio.
+VI. Descripción circunstanciada de los hechos ocurridos durante la visita y las observaciones e infracciones descubiertas por el servidor público autorizado, otorgándole el uso de la voz al visitado o a los terceros, en su caso, para que manifiesten lo que a su derecho convenga;
+
+VII. Lectura y cierre del acta, firmándola en todas sus fojas, las personas que en ella intervinieron.
+
+La negativa a firmar el acta por parte del visitado o recibir la copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez ni la de la diligencia practicada.
+
+Del acta que se levante se dejará una copia al visitado.
+
+En caso de que al practicarse una inspección el establecimiento de que se trate se encuentre cerrado, el servidor público autorizado deberá levantar la constancia correspondiente, dando aviso de ello a la autoridad que emitió la orden de inspección para los efectos legales a que haya lugar.
 
 ###### Artículo 52.
 
-Los Servidores Públicos cuya relación de trabajo se extinga en el supuesto de retiro definitivo o pensión en los términos de ley tendrán derecho a:
+Corresponde a la Secretaría en el ámbito de sus atribuciones, mediante la práctica de diligencias de inspección o auditoría, la vigilancia y supervisión de la operación y el exacto cumplimiento de la presente Ley por parte de los permisionarios.
 
-I. Participar en eventos y festejos generales que se organicen para los Servidores Públicos;
+Cualquier infracción a las disposiciones de esta Ley será sancionada por la Secretaría, en los términos previstos por este ordenamiento.
 
-II. Participar, como instructores, en cursos generales y específicos de conformidad con el plan anual de capacitación, y
-
-III. Participar en los procesos para cubrir interinatos que se generen en la Auditoría Superior, teniendo en igualdad de circunstancias, preferencia sobre los aspirantes externos.
+Cuando las infracciones cometidas por los permisionarios sean de índole fiscal, ésta procederá a fincar sanciones en los términos del Código Financiero y, en tal caso, dará vista a las autoridades correspondientes.
 
 ### Capítulo Décimo Segundo. Otorgamiento de Licencias y Permisos
 
 ###### Artículo 53.
 
-Los Servidores Públicos, personal temporal y de libre designación podrán solicitar licencia con goce de sueldo a su Plaza, conservando los derechos con que cuenten a la fecha del otorgamiento, en los términos que señalen las disposiciones legales o administrativas aplicables.
+Para sancionar al permisionario por infracciones de esta Ley, la Secretaría le hará saber:
 
-Son licencias, las siguientes:
+I. La autoridad o persona que le imputa la responsabilidad;
 
-I. Por razones personales;
+II. La infracción que se le imputa;
 
-II. Por nacimiento de hijo;
+III. La descripción de las circunstancias de modo, tiempo, lugar, en que presuntamente se cometieron las infracciones;
 
-III. Por matrimonio; y
-
-IV. Por defunción de algún familiar.
+IV. El día, hora y lugar en que tendrá verificativo la garantía de audiencia, ofrecimiento y desahogo de pruebas en relación con los hechos constitutivos de la infracción y de alegatos.
 
 ###### Artículo 54.
 
-La licencia por nacimiento de hijo se otorgará al padre por cinco días a partir de la fecha de alumbramiento; la licencia por matrimonio será de cinco días y la licencia por defunción de familiar, por tres días. En el caso de licencias por matrimonio, deberán solicitarse con por lo menos, quince días de anticipación a la fecha en que se pretenda contraer matrimonio. Las Licencias comprendidas en las fracciones II, III y IV del artículo anterior serán con goce de sueldo.
-
-Los días referidos en el presente artículo se entienden como días laborables.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+Desahogada la audiencia a que se refiere la fracción IV del artículo anterior, la Secretaría dentro de los ocho días hábiles siguientes a su celebración, resolverá sobre la procedencia o improcedencia de la sanción y notificará al permisionario la resolución.
 
 ###### Artículo 55.
 
-La licencia por razones personales se sujetará para su otorgamiento, a las condiciones siguientes:
+Son sanciones las que a continuación se señalan:
 
-I. Se deberá solicitar, por lo menos, con diez días de anticipación, salvo casos de urgencia no previsibles y justificados, a juicio de la Dirección General de Administración;
+I. Multa;
 
-II. Será sin goce de sueldo;
+II. Suspensión hasta por noventa días;
 
-III. Solo podrá otorgarse hasta por dos ocasiones no consecutivas al año; y
-
-IV. Cada ocasión no podrá exceder de sesenta días laborables.
-
-La licencia será autorizada por la Dirección General de Administración, con la valoración previa del titular de la unidad administrativa correspondiente.
+III. Clausura y cancelación del permiso.
 
 ###### Artículo 56.
 
-Los Servidores Públicos tienen derecho a permisos en los casos siguientes:
+Se impondrá multa de cincuenta a quinientos salarios mínimos, según la zona geográfica que corresponda, cuando:
 
-I. Para el ejercicio del derecho al voto;
+I. Una persona física o jurídica colectiva instale o haga funcionar una casa de empeño sin contar con el permiso expedido por la Secretaría, o realice las actividades que regula la presente Ley, sin autorización;
 
-II. Para el cumplimiento de obligaciones de carácter electoral o censal;
+II. El permisionario cancele con anticipación a la fecha de conclusión del período de vigencia, la póliza de seguro para garantizar los daños y perjuicios que pudieran ocasionarse a los contratantes;
 
-III. Para asistir a eventos de carácter académico, vinculados con su puesto o cargo, y
+III. El permisionario omita requerir al pignorante la factura del bien en prenda, cuando el monto del préstamo exceda de tres mil pesos;
 
-IV. Para presentar examen de grado académico.
+IV. El permisionario se oponga, sin causa justificada, a la práctica de una visita de inspección, auditoría o de supervisión de la operación del establecimiento;
+
+V. El permisionario solicite extemporáneamente la revalidación del permiso;
+
+VI. El permisionario realice avalúos y operaciones de empeño sin contar con valuador;
+
+VII. El permisionario realice operaciones de pignoración o empeño sin el avalúo;
+
+VIII. El permisionario omita presentar el informe mensual así como el registro que establece el artículo 35 fracción I de esta Ley;
+
+IX. El permisionario se abstenga de presentar las denuncias correspondientes ante el Ministerio Público;
+
+X. El permisionario acepte empeños sin que el pignorante acredite su identidad;
+
+XI. El permisionario omita anexar la copia de la factura al registro cuando el monto del préstamo exceda la cantidad de tres mil pesos;
+
+XII. Incumplir con las disposiciones establecidas en la presente Ley.
 
 ###### Artículo 57.
 
-Las solicitudes de permiso deberán presentarse a la Dirección General de Administración con por lo menos diez días de anticipación a la fecha en que deban cumplir con las obligaciones electorales o censales, del inicio del evento académico o de la fecha de presentación del examen.
+Se impondrá suspensión del permiso hasta por noventa días naturales cuando:
 
-En el supuesto de las solicitudes referidas en el artículo anterior los permisos serán con goce de sueldo.
+I. El permisionario no revalide el permiso;
+
+II. El permisionario no modifique el permiso dentro del término establecido por la Ley;
+
+III. El permisionario acumule dos multas por la misma causa dentro de un ejercicio fiscal;
+
+IV. El permisionario no renueve la póliza de seguro para garantizar los daños y perjuicios a los contratantes dentro del término de tres días hábiles previos a su vencimiento;
+
+V. El permisionario de manera reiterada omita rendir el informe mensual y el registro que establece el artículo 35 fracción I de esta Ley, en dos ocasiones o más en un semestre;
+
+VI. El permisionario de manera reiterada acepte empeños sin que el pignorante acredite su identidad, entendiéndose por reiteración la repetición de la conducta, hasta en tres ocasiones en un periodo de treinta días;
+
+VII. El permisionario de manera reiterada omita anexar la copia de la factura al registro, cuando el monto del préstamo exceda la cantidad de tres mil pesos, en dos ocasiones o más en un semestre.
+
+En estos casos, el propietario de la casa de empeño será el depositario de los bienes en prenda, quedando bajo su más estricta responsabilidad la guarda y custodia de los mismos.
 
 ### Capítulo Décimo Tercero. Recurso de Inconformidad
 
 ###### Artículo 58.
 
-El participante que se considere afectado por las resoluciones derivadas del concurso de oposición, del otorgamiento de estímulos y de la evaluación del desempeño, podrá impugnarlas mediante la interposición del recurso de inconformidad ante la Dirección General de Administración.
+Será motivo de clausura y cancelación del permiso a que se refiere esta Ley en los casos siguientes:
+
+I. El permisionario cometa acciones fraudulentas realizadas con motivo de las actividades reguladas en este ordenamiento, previa resolución de la autoridad competente que así lo determine;
+
+II. El permisionario acumule dos sanciones de suspensión temporal dentro de un ejercicio fiscal;
+
+III. El permisionario, sin causa justificada, suspenda las operaciones del establecimiento autorizado al público por más de treinta días naturales;
+
+IV. El permisionario que habiendo sido suspendido persista en omitir la entrega del informe y registro, referidos en el artículo 35 fracción I de esta Ley;
+
+V. El permisionario que habiendo sido suspendido persista en aceptar empeños sin que el pignorante acredite su identidad;
+
+VI. El permisionario que habiendo sido suspendido persista en no anexar la copia de la factura al registro, cuando el monto del préstamo exceda la cantidad de tres mil pesos.
+
+Para el caso de clausura del establecimiento, con la finalidad de proteger a los pignorantes y concluir las operaciones que se encuentren vigentes, la Secretaría designará a un interventor que se encargará de la recepción de pagos y entrega de los bienes en prenda, conforme al procedimiento que se establece en el reglamento de esta Ley.
 
 ###### Artículo 59.
 
-El plazo para interponer el recurso de inconformidad es de cinco días hábiles, contados a partir del día siguiente a aquél en que se haya publicado el resultado del acto que se impugna.
+Para imponer la sanción que corresponda, la autoridad deberá tomar en cuenta lo siguiente:
+
+I. La gravedad de la infracción cometida;
+
+II. Las condiciones del infractor;
+
+III. El lucro obtenido;
+
+IV. Los perjuicios causados;
+
+V. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
+
+VI. El daño que se hubiera o no producido;
+
+VII. La reincidencia.
+
+La sanción que se imponga es independiente a la responsabilidad civil y penal que pudiera resultar.
 
 ###### Artículo 60.
 
-El recurso de inconformidad en contra del concurso de oposición versará exclusivamente sobre las formalidades y reglas de este, sin que puedan ser cuestionados ni impugnados los criterios de evaluación aplicados.
-
-La interposición del recurso de inconformidad por el participante suspenderá los efectos del resultado del Concurso de Oposición.
+Las multas a que alude esta Ley se harán efectivas por conducto de la Secretaría, conforme a las disposiciones del Código Financiero, sin demérito de las que pueda causar a las normas federales en materia de casas de empeño.
 
 ###### Artículo 61.
 
-La Dirección General de Administración podrá solicitar informes de otras Unidades Administrativas para mejor proveer la resolución del recurso de inconformidad.
+La Secretaría, para la ejecución de sus determinaciones, podrá hacer uso de las medidas necesarias, incluyendo el auxilio de la fuerza pública.
 
 ###### Artículo 62.
 
-El escrito con el que se presente el recurso de inconformidad deberá contener lo siguiente:
+Las notificaciones, citatorios, solicitud de informes o documentos y resoluciones administrativas podrán realizarse:
 
-I. Nombre completo del recurrente y domicilio para oír y recibir notificaciones en la ciudad de Guanajuato;
+I. Personalmente con quién debe entenderse la diligencia, en el domicilio del interesado;
 
-II. El acto o resolución que se impugne, así como la fecha en que fue publicado;
+II. Mediante oficio entregado por mensajero o correo certificado con acuse de recibo;
 
-III. Los agravios que le cause el acto impugnado y los argumentos de derecho que considere le asisten;
+III. Por edicto cuando se ignore el domicilio de quien deba notificarse.
 
-IV. Las pruebas documentales que estime pertinentes, siempre y cuando estén relacionadas con los agravios y argumentos de derecho que haga valer;
-
-V. Indicación de la fecha en que haya sido notificado el acto impugnado, o la fecha en que se haya tenido conocimiento de este; y
-
-VI. La firma del recurrente.
+Tratándose de actos distintos a los señalados, las notificaciones podrán realizarse por correo ordinario o por mensajería, haciendo constar los datos de la persona que confirme la recepción de la notificación por este último medio.
 
 ###### Artículo 63.
 
-El trámite del recurso de inconformidad se sujetará a lo siguiente:
+Las notificaciones personales se harán en el domicilio señalado por el interesado o, en su defecto, en el domicilio donde se encuentre el establecimiento.
 
-I. La Dirección General de Administración acordará sobre la admisión o desechamiento del recurso;
+En todo caso, el notificador debe cerciorarse del domicilio del interesado, entregar copia del acto que se notifique y señalar fecha y hora en que la notificación se efectúa, recabando el nombre y la firma de la persona con quien se entienda la diligencia.
 
-II. El recurso lo tendrá por no interpuesto y acordará su desechamiento, en los siguientes casos:
+De toda diligencia de notificación personal se levantará acta circunstanciada firmada por la persona con quien se entienda la diligencia.
 
-a) Cuando se hayan consentido expresa o tácitamente los actos o resultados que se impugnen, es decir, aquéllos contra los que no se promueva el recurso dentro del plazo establecido;
+Si la persona con quién se entiende la diligencia se niega a firmar, se hará constar en el acta de notificación, sin que ello afecte su validez.
 
-b) Cuando el recurrente no firme el escrito de presentación del recurso;
+Las notificaciones personales se entenderán con la persona que debe ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará en el lugar más visible de éste.
 
-c) Cuando no se exprese agravio alguno en el escrito de interposición del recurso.
+Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibir la notificación, o en caso de encontrarse cerrado el domicilio, se realizará por conducto del vecino más cercano a dicho domicilio.
 
-III. La Dirección General de Administración acordará sobre la admisión o desechamiento de las pruebas ofrecidas dentro del plazo de diez días hábiles, contados a partir de la fecha en que se presente el recurso de inconformidad. Se admitirán sólo las pruebas documentales que se hayan acompañado al escrito en el que se interponga el recurso, y sólo serán recabadas por la autoridad, en caso de que las documentales obren en el expediente en que se haya originado la resolución que se recurre;
-
-IV. La Dirección General de Administración deberá dictar resolución en un término que no excederá de treinta días hábiles contados a partir de aquel en que se tengan por desahogadas las pruebas;
-
-V. La resolución examinará todos y cada uno de los argumentos hechos valer por el recurrente, y la autoridad tendrá la facultad de invocar hechos notorios, pero cuando uno de los argumentos sea suficiente para desvirtuar la validez del acto impugnado bastará con el examen de éste; y
-
-VI. La resolución se notificará personalmente al recurrente dentro de los cinco días hábiles siguientes a la fecha en que se dictó ésta y contra ella no procederá recurso alguno.
+De las diligencias en que conste la notificación, el notificador tomará razón por escrito.
 
 ###### Artículo 64.
 
-La resolución que ponga fin al recurso podrá:
+Las notificaciones por edicto se realizarán haciendo publicaciones que contendrán un resumen de las resoluciones por notificar.
 
-I. Sobreseerlo:
-
-a) Cuando el promovente se desista expresamente y ratifique ante la Dirección General de Administración el escrito respectivo;
-
-b) Por muerte del recurrente durante el trámite del recurso;
-
-c) Cuando de las constancias que obran en el expediente administrativo quede demostrada la inexistencia del acto o resultado recurrido;
-
-II. Confirmar el acto impugnado; y
-
-III. Reponer el acto o concurso de oposición impugnado.
+Dichas publicaciones deben efectuarse tres veces consecutivas en el periódico oficial "Gaceta del Gobierno" y en uno de los diarios de mayor circulación en la localidad en que se encuentre el domicilio del establecimiento de que se trate.
 
 ###### Artículo 65.
 
-En todas las cuestiones relativas al desahogo del recurso de inconformidad no previstas en este Título, así como en la apreciación de las pruebas, se observarán en lo conducente las disposiciones del Código de Procedimiento y Justicia Administrativa para el Estado de Guanajuato.
+Las notificaciones personales surtirán sus efectos al día siguiente en que hubieren sido realizadas. Los plazos empezarán a correr a partir del día siguiente a aquel en que haya surtido efecto la notificación.
 
 ###### Artículo 66.
 
-Para la instrucción del recurso la Dirección General de Administración contará con apoyo de la Dirección General de Asuntos Jurídicos.
+Toda notificación debe efectuarse en el plazo máximo de diez días hábiles a partir de la emisión de la resolución o del acto que se notifique, y deberá contener el texto íntegro del acto, así como el fundamento en que se apoye.
 
 ## TRANSITORIOS
 
