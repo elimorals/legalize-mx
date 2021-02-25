@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-del-servicio-fiscalizador-de-carrera-de-la-130912"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-10-04"
-last_updated: "2020-09-14"
+last_updated: "2021-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2021.
 
 Estatuto publicado en la Segunda Parte al Número 199 del Periódico Oficial del Estado de Guanajuato, el jueves 4 de octubre de 2018.
 
@@ -53,7 +53,9 @@ El Servicio Fiscalizador de Carrera tiene como finalidad dotar a la Auditoría S
 
 Pertenecen al Servicio Fiscalizador de Carrera, los Servidores Públicos que prestan sus servicios de manera continua, permanente, regular y profesional a la Auditoría Superior del Estado de Guanajuato, de acuerdo con lo establecido en el presente Estatuto.
 
-Quedan exceptuados de la aplicación del presente Estatuto, los titulares de las unidades administrativas señaladas en las fracciones e incisos del artículo 3 del Reglamento Interior de la Auditoría Superior del Estado de Guanajuato, los que se consideran de libre designación.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2021)</small>
+
+Quedan exceptuados del Servicio Fiscalizador de Carrera, los titulares de las unidades administrativas señaladas en las fracciones e incisos del artículo 3 del Reglamento Interior de la Auditoría Superior del Estado de Guanajuato, los que se consideran de libre designación.
 
 El personal de libre designación podrá gozar de los beneficios y prestaciones que establece este Estatuto.
 
@@ -220,6 +222,10 @@ La elaboración del catálogo, así como su actualización permanente, observar�
 El ingreso al Servicio comprende el reclutamiento y la selección de aspirantes, la ocupación de vacantes o puestos de nueva creación al Servicio y en general, la adscripción e inducción en los puestos de acuerdo a la clasificación y perfiles de estos.
 
 Excepcionalmente, se podrá ocupar una plaza vacante o puesto de nueva creación mediante la selección de personal temporal en los términos del presente Estatuto, el cual, durante el plazo que dure su nombramiento estará sujeto al Servicio, en lo conducente.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2021)</small>
+
+Cuando los titulares de las unidades a que se refiere el artículo 3, segundo párrafo, de este Estatuto, deban ocupar una plaza vacante o de nueva creación sujeta al Servicio Fiscalizador de Carrera, lo harán con carácter definitivo, sin sujeción a los procedimientos relativos el ingreso al Servicio, siempre que cumplan con el perfil del puesto respectivo.
 
 ###### Artículo 20.
 
@@ -712,3 +718,11 @@ P.O. 14 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO QUE EMITE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, NÚMERO 199, SEGUNDA PARTE, DE FECHA 4 DE OCTUBRE DEL 2018”.]
 
 Artículo único. El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 25 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 3; Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 19, DEL ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Lo previsto en el artículo 19 que se reforma se aplicará retroactivamente a aquellos movimientos que se hubieren efectuado durante 2021 hasta antes de la emisión del presente Acuerdo.
