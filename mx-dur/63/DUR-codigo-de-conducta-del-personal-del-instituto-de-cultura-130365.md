@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-del-personal-del-instituto-de-cultura-130365
 country: "mx"
 rank: "codigo"
 publication_date: "2018-07-12"
-last_updated: "2018-07-12"
+last_updated: "2021-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DEL PERSONAL DEL INSTITUTO DE CULTURA DEL ESTADO DE DURANGO
 
-CÓDIGO DE CONDUCTA DEL PERSONAL DEL INSTITUTO DE CULTURA DEL ESTADO DE DURANDO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO DE CULTURA DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 25 DE FEBRERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO DE CONDUCTA DEL PERSONAL DEL INSTITUTO DE CULTURA DEL ESTADO DE DURANGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2021 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 12 de julio de 2018.
 
@@ -476,3 +478,17 @@ Primero.- El presente Código de Conducta entrará en vigor a partir del día si
 Segundo.- Se derogan todas las disposiciones legales que se opongan al contenido del presente ordenamiento.
 
 En Durango, Dgo, a los treinta y un días del mes de enero del dos mil dieciocho, se emite Código de Conducta del personal del ICED.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL INSTITUTO DE CULTURA DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Código de Conducta fue aprobado por unanimidad de votos por los integrantes de la H. Junta Directiva en la segunda sesión ordinaria del Instituto de Cultura del Estado de Durango, mediante el acuerdo número 02.09.2020/02/013 celebrada el día 2 de septiembre del 2020.
+
+SEGUNDO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+TERCERO.- Se abroga el Código de Conducta del Personal del Instituto de Cultura del Estado de Durango, publicado en el Periódico Oficial del Gobierno del Estado de Durango número 55 el jueves 12 de julio de 2018.
+
+CUARTO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Durango y en la página de internet del Instituto de Cultura del Estado de Durango.
