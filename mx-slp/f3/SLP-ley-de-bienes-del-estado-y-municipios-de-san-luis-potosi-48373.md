@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bienes-del-estado-y-municipios-de-san-luis-potosi-48373"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2019-03-22"
+last_updated: "2021-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -409,9 +409,15 @@ Los bienes del dominio privado pasarán a formar parte del dominio público cuan
 
 Los inmuebles del dominio privado son inembargables e imprescriptibles. Los bienes muebles de dominio privado son embargables y prescriptibles en los términos del Código Civil.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
 ###### ARTICULO 31.
 
-Los bienes inmuebles del dominio privado podrán ser enajenados previa autorización del Honorable Congreso del Estado, mediante los requisitos que previene la Constitución Política del Estado y las leyes aplicables.
+Los bienes inmuebles del dominio privado de los poderes del Estado, y de los organismos constitucionales autónomos, podrán ser enajenados previa autorización del Honorable Congreso del Estado, mediante los requisitos que previene la Constitución Política del Estado y las leyes aplicables. En todos los casos deberá de acreditarse que el importe de la venta, será utilizado en infraestructura pública productiva.
+
+Los bienes inmuebles del dominio privado de los municipios podrán ser enajenados, cumpliendo con los requisitos y procedimientos que previenen, la Constitución Política del Estado, la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, y las leyes aplicables.
+
+En ningún caso, los bienes del dominio privado del Estado, de los organismos constitucionales autónomos, y de los municipios, podrán ser enajenados para cubrir el pago de obligaciones de cualquier tipo, incluyendo las de carácter laboral.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -419,9 +425,9 @@ Los bienes inmuebles del dominio privado podrán ser enajenados previa autorizac
 
 Los bienes muebles del domino privado que dejen de tener utilidad para la administración pública, o hayan sufrido menoscabo, o perdido las propiedades necesarias para prestar el servicio a que estén destinados, podrán ser enajenados por las autoridades que corresponda, mediante subasta pública. Para este caso, se deberá realizar un dictamen expedido por perito registrado, y fe notarial en la que se asiente el estado que guardan los bienes muebles objetos de la subasta, con las certificaciones de que los mismos carecen de valor artístico, y de que no forman parte del patrimonio histórico, conforme a la ley de la materia.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE FEBRERO DE 2021)</small>
 
-En el caso de los municipios, y los Organismos Constitucionales Autónomos, para poder llevar a cabo la enajenación correspondiente, ésta deberá ser autorizada por cuando menos las dos terceras partes de los integrantes del Cabildo en el caso de los municipios; y por cuando menos las dos terceras partes de los integrantes de los Consejos, y el Comité, de los Organismos Constitucionales Autónomos, y cuando se haya tomado el acuerdo correspondiente, por escrito deberá solicitar al Honorable Congreso del Estado, la autorización para la enajenación de los bienes muebles del dominio privado, debiendo la Legislatura expedir el decreto correspondiente, aprobando o negando la enajenación según se estime conveniente; además, deberán integrar al expediente que se constituya para tal efecto, lo siguiente:
+En el caso de los organismos constitucionales autónomos, para poder llevar a cabo la enajenación correspondiente, ésta deberá ser autorizada por cuando menos las dos terceras partes de los integrantes del consejo o comité, de los organismos constitucionales autónomos, y cuando se haya tomado el acuerdo correspondiente, por escrito se solicitará al Honorable Congreso del Estado, la autorización para la enajenación de los bienes muebles del dominio privado, la Legislatura podrá negar o aprobar la solicitud, en el último caso, expedirá el decreto correspondiente; además, deberán integrar al expediente que se constituya para tal efecto, lo siguiente:
 
 a) Factura o certificado de propiedad de cada uno de los bienes muebles del dominio privado que se pretendan enajenar. En caso de no contar con alguno de estos documentos, se podrá presentar una testimonial notariada de que los bienes muebles que se pretenden enajenar, son de propiedad municipal.
 
@@ -435,9 +441,9 @@ e) Certificación actual de que los bienes muebles del dominio privado que se pr
 
 f) Mínimo una fotografía reciente de cada uno de los bienes muebles del dominio privado que se pretenden enajenar.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
 
-g) Copia certificada del acta de Cabildo; o acta de la reunión del Consejo o Comité, según corresponda, en donde se haya aprobado, por cuando menos las dos terceras partes de sus integrantes, la venta de los bienes muebles; así como indicar el destino que se le dará a los recursos obtenidos por la venta de los mismos.
+g) Copia certificada del acta de la reunión del Consejo o Comité, en donde se haya aprobado, por cuando menos las dos terceras partes de sus integrantes, la venta de los bienes muebles~ (sic) así como indicar el destino que se le dará a los recursos obtenidos por la venta de los mismos.
 
 h) Las demás que el Honorable Congreso del Estado solicite, para emitir el dictamen respectivo.
 
@@ -465,9 +471,11 @@ Los procesos de subasta pública se llevarán a cabo con la participación y vig
 
 En ningún caso podrán realizarse operaciones con inmuebles del dominio privado del Estado, municipios, y Organismos Constitucionales Autónomos, que impliquen la transmisión del dominio en favor de servidores públicos que hayan intervenido directamente en el procedimiento u operación respectiva, de sus cónyuges, parientes consanguíneos o por afinidad hasta el cuarto grado, o civiles, o de terceros con los que aquéllos tengan vínculos de negocios.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
 ###### ARTICULO 34.
 
-En las operaciones traslativas de dominio, el valor de los inmuebles no podrá ser inferior al avalúo catastral que determine la autoridad competente en los términos de la ley de la materia.
+En las operaciones traslativas de dominio, el valor de los inmuebles no podrá ser inferior al avalúo comercial practicado por perito registrado.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
@@ -475,13 +483,17 @@ En las operaciones traslativas de dominio, el valor de los inmuebles no podrá s
 
 En los contratos de permuta celebrados sobre inmuebles del dominio privado del Estado, municipios, y Organismos Constitucionales Autónomos, deberá acreditarse fehacientemente la necesidad de la permuta y el beneficio social que ésta reporta.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
 ###### ARTICULO 36.
 
-En los contratos de donación de bienes inmuebles del dominio privado del Estado y municipios, si el donatario no utiliza los bienes para el fin señalado dentro del plazo que determine el Congreso del Estado en el decreto respectivo, o si habiéndolo hecho diere a éste un uso distinto, o suspenda sus actividades por más de un año, la donación será revocada, y tanto el bien como sus mejoras, se revertirán de plano en favor de la autoridad donante, previo juicio tramitado ante la autoridad competente.
+En los contratos de donación de bienes inmuebles del dominio privado del Estado y municipios, si el donatario no utiliza los bienes para el fin señalado dentro del plazo que determine el Congreso del Estado en el decreto respectivo en el caso del Estado, y para los fines y el plazo autorizados por el Cabildo en el caso de los municipios; o si habiéndolo hecho, diere a éste un uso distinto, o suspenda sus actividades por más de un año, la donación será revocada, y tanto el bien como sus mejoras, se revertirán de plano en favor de la autoridad donante, previo juicio tramitado ante la autoridad competente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 37.
 
-Los bienes del dominio privado del Estado y municipios sólo podrán ser donados a instituciones o asociaciones privadas, cuando éstas persigan fines no lucrativos; asimismo, podrán ser donados en forma condicionada y previo estudio que así lo justifique, a entidades o instituciones generadoras de empleo en regiones o zonas marginadas de la Entidad. En estos casos también procederá la revocación y reversión de los mismos al patrimonio del Estado o municipios en los términos del artículo que antecede, si aquéllas cambian la naturaleza de su objeto o su carácter no lucrativo, o bien dejan de cumplir sus objetivos o se extingue su personalidad jurídica.
+Los bienes del dominio privado del Estado sólo podrán ser donados a instituciones o asociaciones privadas, cuando éstas persigan fines no lucrativos; asimismo, podrán ser donados en forma condicionada y previo estudio que así lo justifique, a entidades o instituciones generadoras de empleo en regiones o zonas marginadas de la Entidad. Los bienes del dominio privado de los municipios sólo podrán ser donados a personas morales con fines de asistencia social que cumplan con los requisitos que al efecto establece la Ley de Desarrollo Social para el Estado y Municipios de San Luis Potosí, siempre y cuando sobre los mismos se vayan a ejecutar obras que representen la satisfacción de servicios o necesidades de interés general para los habitantes del municipio. En estos casos también procederá la revocación y reversión de los mismos al patrimonio del Estado, y de los municipios, en los términos del artículo que antecede, si aquéllas cambian la naturaleza de su objeto o su carácter no lucrativo, o bien dejan de cumplir sus objetivos o se extingue su personalidad jurídica.
 
 > <small>(ADICIONADO, P.O. 22 DE JULIO DE 2010)</small>
 
@@ -511,11 +523,11 @@ Los contratos que tengan como materia bienes del dominio privado del Estado y mu
 
 Los actos jurídicos relacionados con inmuebles del dominio privado del Estado, municipios, y Organismos Constitucionales Autónomos, que en términos de esta Ley requieran la intervención de fedatario, se celebrarán ante los notarios del Estado de San Luis Potosí.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 42.
 
-Ningún notario del Estado podráì (sic) autorizar definitivamente una escritura de adquisición o enajenación de bienes inmuebles del dominio privado del Estado, municipios, y Organismos Constitucionales Autónomos, sin la aprobación previa del Honorable Congreso del Estado.
+Ningún notario del Estado podrá autorizar definitivamente una escritura de adquisición o enajenación de bienes inmuebles del dominio privado del Estado, municipios, y organismos constitucionales autónomos, sin el cumplimiento de los requisitos y procedimientos establecidos en esta Ley o, en su caso, en la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí. Además de contar con la aprobación previa del Honorable Congreso del Estado en los casos que ésta se requiera.
 
 ###### ARTICULO 43.
 
@@ -738,3 +750,13 @@ P.O. 22 DE MARZO DE 2019.
 PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1139.- SE REFORMA EL ARTÍCULO 115 EN SU PÁRRAFO PRIMERO; Y DEROGA DEL ARTÍCULO 57 LAS FRACCIONES XXXI Y XXXII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS 31 EN SU INCISO C) LA FRACCIÓN III, 108 EN SU PÁRRAFO SEGUNDO, 111, 112, 113 Y 156; SE ADICIONA AL ARTÍCULO 108 EL PÁRRAFO TERCERO; Y DEROGA DEL ARTÍCULO 32 LA FRACCIÓN I, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE DEROGA DEL ARTÍCULO 106 LAS FRACCIONES V Y VI, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS 31, 32 EN SU PÁRRAFO SEGUNDO Y EN SU INCISO G), 34, 36, 37 EN SU PÁRRAFO PRIMERO Y 42, DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las solicitudes que se encuentren en trámite ante el Congreso del Estado deberán declararse sin materia, y remitir la documentación exhibida al ayuntamiento peticionario.
