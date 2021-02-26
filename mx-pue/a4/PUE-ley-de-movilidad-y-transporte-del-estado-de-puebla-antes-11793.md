@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2021-01-20"
+last_updated: "2021-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
+LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -211,19 +211,21 @@ Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I,
 
 DECRETO
 
-LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE FEBRERO DE 2021)</small>
+
+LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE PUEBLA
 
 ## TITULO PRIMERO. GENERALIDADES
 
 ### CAPITULO I. DEL OBJETO DE LA LEY
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 1.
 
-La presente Ley es de interés social y de orden público, de observancia general en el Estado de Puebla y tiene por objeto regular todo lo relacionado con el Servicio Público de Transporte, el Servicio Mercantil, los Servicios Auxiliares y el Servicio Ejecutivo.
+La presente Ley es de interés social y de orden público, de observancia general en el Estado de Puebla y tiene por objeto establecer las bases y directrices para planificar, regular y gestionar la movilidad de las personas, bienes y mercancías por medios terrestres, así como regular todo lo relacionado con el Servicio Público de Transporte, el Servicio Mercantil, los Servicios Auxiliares y el Servicio Ejecutivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 2.
 
@@ -233,9 +235,9 @@ Las autoridades competentes para la interpretación y observación de la present
 
 La Secretaría, será competente para interpretar, ejercer, observar y aplicar las atribuciones y obligaciones previstas en el artículo 10 y demás disposiciones de la presente Ley y sus Reglamentos, relativas en materia de supervisión, vigilancia y revisión.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
 
-Cuando la presente Ley se refiera a la Secretaría, se entenderá a la Secretaría de Movilidad y Transporte y cuando se haga referencia en esta Ley a Carreteras de Cuota-Puebla, se entenderá al Organismo Público Descentralizado denominado Carreteras de Cuota-Puebla, en términos de su Decreto de creación.
+Cuando la presente Ley se refiera a la Secretaría, se entenderá a la Secretaría de Movilidad y Transporte del Estado de Puebla y cuando se haga referencia en esta Ley a Carreteras de Cuota-Puebla, se entenderá al Organismo Público Descentralizado denominado Carreteras de Cuota-Puebla, en términos de su Decreto de creación.
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
@@ -245,11 +247,37 @@ No producirá ningún efecto la declaración hecha por el concesionario, permisi
 
 La disposición anterior se observará, no obstante la aceptación expresa o tácita que realicen los usuarios respecto de la prestación del servicio.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 3.
 
-La Secretaría y Carreteras de Cuota-Puebla, en términos de esta Ley, tienen competencia sobre todo el territorio del Estado, ejerciendo las atribuciones que a cada una les confiere la presente Ley, sus Reglamentos y demás disposiciones legales, respecto de los actos de supervisión, vigilancia y demás que incidan en el Servicio Público de Transporte y en el Servicio Mercantil.
+La Secretaría y Carreteras de Cuota-Puebla, en términos de esta Ley, tienen competencia sobre todo el territorio del Estado, ejerciendo las atribuciones que a cada una les confiere la presente Ley, sus Reglamentos y demás disposiciones legales, respecto de los actos de supervisión, vigilancia y demás que incidan en el Servicio Público de Transporte y en el Servicio Mercantil, así como en materia de movilidad.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
+###### ARTICULO 3 Bis.
+
+La planeación, diseño e implementación de las políticas públicas, programas y acciones en materia de movilidad, se apegará a los principios rectores siguientes:
+
+I. Accesibilidad. Procurar una movilidad al alcance de todos, sin discriminación de género, edad, capacidad o condición, a costos factibles;
+
+II. Aprovechamiento tecnológico. Empleo de innovaciones tecnológicas que permitan almacenar, procesar y distribuir información, para la planificación, operación, control y mantenimiento de los sistemas de movilidad y transporte;
+
+III. Calidad. Propiciar que los componentes de la movilidad cuenten con las características y propiedades necesarias para proporcionar una adecuada experiencia de viaje;
+
+IV. Corresponsabilidad social. Esquemas de movilidad y transporte basados en soluciones colectivas, que resuelvan los desplazamientos de toda la población y que promuevan nuevos hábitos de movilidad, a través de la participación de todos los actores sociales;
+
+V. Eficiencia. Optimizar los desplazamientos ágiles y asequibles maximizando los recursos disponibles, sin que su diseño y operación produzcan efectos negativos desproporcionadas a sus beneficios;
+
+VI. Equidad. Equiparar las oportunidades de la población para alcanzar un efectivo ejercicio de su derecho a la movilidad, poniendo especial énfasis en grupos en desventaja física, social y económica;
+
+VII. Multimodalidad. Ofrecer a los diferentes grupos de usuarios opciones de movilidad y modos de transporte integrados, que proporcionen disponibilidad, rapidez, accesibilidad, seguridad e interconexión;
+
+VIII. Resiliencia. Movilidad y transporte con capacidad para soportar situaciones fortuitas o de fuerza mayor, y una recuperación de bajo costo para la sociedad y al (sic) medio ambiente;
+
+IX. Seguridad. Privilegiar las acciones de prevención accidentes de tránsito durante los desplazamientos de la población, con el fin de proteger la integridad física de las personas y evitar la afectación a los bienes públicos y privados, y
+
+X. Sustentabilidad. Desplazamientos de personas y bienes con los mínimos efectos negativos sobre la calidad de vida y el medio ambiente, impulsando el uso de transporte público y no motorizado, así como el uso de tecnologías sustentables en los modos de transporte.
 
 ### CAPITULO II. AUTORIDADES DEL TRANSPORTE
 
@@ -259,33 +287,67 @@ La Secretaría y Carreteras de Cuota-Puebla, en términos de esta Ley, tienen co
 
 Son autoridades en materia del transporte, en el ámbito de su respectiva competencia:
 
-I. La persona Titular del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2021)</small>
+
+I.- La persona titular del Gobierno del Estado;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 26 DE FEBRERO DE 2021)</small>
 
 II. De la Secretaría de Movilidad y Transporte del Estado:
 
-a) La persona Titular de la Secretaría de Movilidad y Transporte;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
 
-b) La persona Titular de la Subsecretario (sic) de Movilidad y Transporte;
+a) La persona titular de la Secretaría de Movilidad y Transportes;
 
-c) La persona Titular de la Coordinación General Jurídica;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
 
-d) La persona Titular de la Coordinación General Técnico (sic) de Movilidad y Transporte;
+b) La persona titular de la Sub Secretaría de Movilidad y Transportes;
 
-e) La persona Titular de la Dirección de Operación al Transporte;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
 
-f) La persona Titular de la Dirección de Administración de Concesiones y Permisos;
+c) La persona titular de la Coordinación General Jurídica;
 
-g) La persona Titular de la Dirección de Ingeniería y Planeación del Transporte;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
 
-h) La persona Titular de la Dirección de Licencias y Capacitación, y
+d) La persona titular de la Coordinación General Técnica de Movilidad y Transporte;
 
-i) La persona Titular de la Dirección de Movilidad.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
+e) La persona titular de la Dirección de Operación al Transporte;
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
+f) La persona titular de la Dirección de Administración de Concesiones y Permisos;
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
+g) La persona titular de la Dirección de Ingeniería y Planeación del Transporte;
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
+h) La persona titular de la Dirección de Licencias y Capacitación, y
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
+i) La persona titular de la Dirección de Movilidad.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 26 DE FEBRERO DE 2021)</small>
 
 III. El Organismo Público Descentralizado Carreteras de Cuota-Puebla, que será competente respecto del Sistema de Transporte Público Masivo:
 
-a) La persona Titular de la Dirección General; y
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
 
-b) La persona Titular de la Dirección de Transporte Masivo.
+a) La persona titular de la Dirección General, y
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
+b) La persona titular de la Dirección de Transporte Masivo.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
+###### ARTICULO 4 Bis.
+
+Para el cumplimiento de esta Ley se consideran autoridades auxiliares en materia de movilidad en el ámbito de su competencia, la Secretaría de Planeación y Finanzas, Secretaría de Infraestructura, Secretaría de Seguridad Pública, Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial, según lo disponga la normatividad aplicable.
 
 ### CAPITULO III. LAS ATRIBUCIONES DE LAS AUTORIDADES DEL TRANSPORTE
 
@@ -301,17 +363,27 @@ II.- Dictar y aplicar las medidas necesarias para el cumplimiento de esta Ley y 
 
 III.- La Secretaría y Carreteras de Cuota-Puebla, para el cumplimiento de esta Ley y sus Reglamentos, podrán celebrar, de manera conjunta o separadamente, convenios de coordinación y colaboración, documentos previos a los contratos y demás instrumentos jurídicos con Dependencias y Entidades de las Administraciones Públicas Federal, Estatales y Municipales, así como con entes del sector público, privado y social.
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2021)</small>
 
-IV.- Intervenir el Servicio Público de Transporte, con apego a las disposiciones legales aplicables; y
+IV.- Intervenir el Servicio Público de Transporte, con apego a las disposiciones legales aplicables;
 
-V.- Las demás que le conceda la presente Ley y sus Reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
+V.- Establecer políticas en materia de movilidad en concordancia con los principios, ejes y objetivos contenidos en el Plan Estatal de Desarrollo, y conforme a las políticas en materia de planificación, desarrollo, y ordenamiento territorial, que se emitan en el ámbito estatal;
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2021)</small>
+
+VI.- Expedir los Programas Estatales de Movilidad, Transporte y Seguridad Vial; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE FEBRERO DE 2021)</small>
+
+VII.- Las demás que le conceda la presente Ley y sus Reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 6.
 
-La persona Titular de la Secretaría de Movilidad y Transporte y la persona Titular de la Dirección General de Carreteras de Cuota-Puebla, en el ámbito de sus respectivas competencias, tendrán las siguientes atribuciones:
+Las personas Titulares de la Secretaría de Movilidad y Transporte y de la Dirección General de Carreteras de Cuota-Puebla, en el ámbito de sus respectivas competencias, tendrán las siguientes atribuciones:
 
 I.- Cumplir y hacer cumplir la presente Ley y sus Reglamentos;
 
@@ -371,13 +443,29 @@ XIII.- Dictar las medidas necesarias para poner a disposición de las autoridade
 
 XIV.- Emitir Reglas de Carácter General, las que deberán ser publicadas en el Periódico Oficial del Estado, para regular tanto a los permisionarios a que se refiere esta Ley, como a las Empresas de Redes de Transporte y las que basan en plataformas complementarias con la finalidad de generar la equidad entre los prestadores de servicio y que este se preste de manera eficiente, garantizando la seguridad, protección, comodidad, certidumbre y conveniencia para el usuario, y contribuya a generar mayor inversión en el Estado;
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2021)</small>
 
-XV.- Vigilar, supervisar y dar seguimiento a los registros proporcionados por las Empresas de Redes de Transporte contenidos en los informes a que se refiere la fracción IV del artículo 92 Quater de esta ley; y
+XV.- Vigilar, supervisar y dar seguimiento a los registros proporcionados por las Empresas de Redes de Transporte contenidos en los informes a que se refiere la fracción IV del artículo 92 Quater de esta ley;
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE FEBRERO DE 2021)</small>
 
-XVI.- Las demás que les otorguen la presente Ley, sus Reglamentos y demás disposiciones administrativas.
+XVI.- Formular y proponer al Gobernador, las políticas en materia de movilidad, así como implementarlas y vigilar su aplicación;
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2021)</small>
+
+XVII.- Brindar opinión respecto a la congruencia de los programas municipales de movilidad con relación a los Programas Estatales de Movilidad, Transporte y Seguridad Vial, cuando así lo solicite el Ayuntamiento de un Municipio;
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2021)</small>
+
+XVIII.- Coordinar las comisiones de trabajo con los diferentes sectores, con el objeto de que propongan acciones, programas o proyectos en la materia de competencia de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2021)</small>
+
+XIX.- Fomentar el uso del transporte no motorizado, y los desplazamientos a pie, así como la accesibilidad para la movilidad de las personas con discapacidad o movilidad reducida; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE FEBRERO DE 2021)</small>
+
+XX.- Las demás que les otorguen la presente Ley, sus Reglamentos y demás disposiciones administrativas.
 
 ARTICULO 6 BIS.- (DEROGADO, P.O. 28 DE AGOSTO DE 2015)
 
@@ -2694,3 +2782,13 @@ P.O. 20 DE ENERO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL ”DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA, LOS ARTÍCULOS 1, LOS PÁRRAFOS PRIMERO Y TERCERO DEL 2, EL 3, EL 4, LAS FRACCIONES IV Y V DEL 5, EL PRIMER PÁRRAFO Y LAS FRACCIONES XV Y XVI DEL 6, Y ADICIONA LOS ARTÍCULOS 3 BIS, 4 BIS, LAS FRACCIONES VI Y VII AL 5 Y LAS FRACCIONES XVII A XX AL 6, TODOS DE LA LEY DE TRANSPORTE PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todo instrumento jurídico ya sea legal o administrativo y/o norma en sentido formal o material, que a la entrada en vigor del presente Decreto, se refiera a la Ley de Transporte para el Estado de Puebla, se entenderá realizada a la Ley de Movilidad y Transporte del Estado de Puebla; en igual sentido, respecto a la Dependencia que se modifica su denominación, se entenderá atribuido a la Secretaría de Movilidad y Transporte del Estado a que se refiere el presente ordenamiento.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
