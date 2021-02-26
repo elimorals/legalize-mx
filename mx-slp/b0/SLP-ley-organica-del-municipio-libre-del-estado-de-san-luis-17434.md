@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2020-11-11"
+last_updated: "2021-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -589,7 +589,9 @@ Los integrantes del ayuntamiento, y los funcionarios que designe el mismo, deber
 
 En todo momento deberán observar el cumplimiento y salvaguarda de los derechos de los trabajadores del municipio que representan, por lo que son responsables de los procesos laborales que deriven en pago, por actos propios o de sus subalternos, generados en su administración. Esta Responsabilidad se extiende a los laudos recaídos incluso, en periodos constitucionales posteriores a su mandato, cuyo inicio del procedimiento respectivo, se haya dado durante éste;
 
-III. Acordar con la aprobación de cuando menos las dos terceras partes de sus integrantes, previamente a la autorización del Congreso del Estado, la concesión de los bienes y servicios públicos municipales. En ningún caso podrán concesionarse los de seguridad pública, policía preventiva municipal y tránsito;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2021)</small>
+
+III. Acordar, con la aprobación de cuando menos las dos terceras partes de sus integrantes, la concesión de los bienes y servicios públicos municipales. En ningún caso podrán concesionarse los de seguridad pública, policía preventiva municipal y tránsito;
 
 IV. Asignar a cada miembro del Ayuntamiento las comisiones relativas a los ramos de la administración municipal;
 
@@ -657,7 +659,7 @@ XXVII. Las demás que señalen la presente Ley y los ordenamientos.
 
 Quedan impedidos los ayuntamientos para:
 
-I. Celebrar acto o contrato alguno que tenga por objeto enajenar o gravar en cualquier forma los bienes y servicios públicos del Municipio, así como para celebrar empréstitos o contratos en general, cuya duración exceda del término de su ejercicio, sin tener la autorización del Congreso del Estado;
+I. (DEROGADA, P.O. 26 DE FEBRERO DE 2021)
 
 II. Cobrar contribuciones, y otorgar exenciones y subsidios que no estén establecidos en su Ley de Ingresos;
 
@@ -2093,7 +2095,13 @@ De igual forma, podrán crearse patronatos que tengan fines específicos, que es
 
 El patrimonio del Municipio se compone de los bienes que son de su propiedad y de los que adquiera conforme a la ley; del producto de las contribuciones y demás ingresos decretados por el Congreso del Estado; de los vacantes y mostrencos que estén en su territorio; de los créditos que tenga a su favor; así como de los subsidios, de las transferencias y de las participaciones en el rendimiento de las contribuciones federales y estatales que deba percibir de acuerdo a las leyes.
 
-Son inalienables e imprescriptibles los bienes del patrimonio municipal. Los bienes desafectados podrán ser enajenados, previa autorización del Congreso del Estado, mediante los requisitos que señalen la Constitución Política del Estado, esta Ley y los demás ordenamientos legales aplicables.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
+Son inalienables e imprescriptibles los bienes del patrimonio municipal. Los bienes desafectados podrán ser enajenados, previo cumplimiento de los requisitos, procedimientos y restricciones previstos en, la Constitución Política del Estado; esta Ley; la Ley de Bienes del Estado y Municipios de San Luis Potosí; la Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado de San Luis Potosí, y los demás ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
+En ningún caso podrán enajenarse los bienes muebles o inmuebles municipales, para destinarse al gasto corriente o al pago de obligaciones, incluyendo el pago de laudos laborales.
 
 ###### ARTICULO 109.
 
@@ -2121,53 +2129,61 @@ b) Aquellos que, de conformidad con las leyes, sean desafectados de un servicio 
 
 El Ayuntamiento por medio de la Oficialía Mayor o de la Secretaría en su caso, formulará y actualizará en el mes de enero de cada año, el inventario general de los bienes muebles e inmuebles propiedad del Municipio, estableciendo el Catálogo General de Inmuebles Municipales, mismo que deberá contener el valor y las características de identificación de cada uno de éstos.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
 ###### ARTICULO 111.
 
-Los ayuntamientos no podrán efectuar enajenaciones o permutas de sus bienes muebles o inmuebles, excepto cuando ello se haga necesario para la realización de obras de beneficio colectivo o para cualquier otro propósito de interés público, requiriéndose en todo caso la solicitud aprobada por cuando menos las dos terceras partes de los integrantes del Ayuntamiento al Congreso del Estado, y la autorización posterior de éste.
+Los ayuntamientos no podrán efectuar la venta de sus bienes muebles, excepto en el caso en que se acredite que los mismos han dejado de tener utilidad suficiente para los fines respecto de su naturaleza que corresponda, de tal forma que su uso o mantenimiento sea contrario a la administración eficiente y eficaz. El producto de la venta deberá ser destinado en todos los casos, a la adquisición de bienes muebles necesarios para las actividades competencia de las dependencias del ayuntamiento. No podrán adquirirse vehículos automotores, con excepción de que vayan a ser habilitados y destinados como patrullas para prestar servicios de seguridad pública municipal, o como ambulancia o transporte de personas con discapacidad.
 
-Para que el Congreso autorice la enajenación o permuta de los inmuebles propios del municipio, es necesario que el Ayuntamiento peticionario acredite ante la Legislatura los siguientes extremos:
+Para autorizar una desafectación o enajenación, deberá integrarse un expediente con los documentos que señala el artículo 32 de la Ley de Bienes del Estado y Municipios de San Luis Potosí, y la venta deberá llevarse a cabo por medio de subasta pública, en los términos de dicho Ordenamiento.
 
-I. Que el bien que se pretenda enajenar o permutar no sea de utilidad para la realización de una obra pública, o para la prestación de un servicio público, Y
+Los ayuntamientos no podrán permutar sus bienes inmuebles, salvo en el caso de que se acredite que el inmueble a recibir en la permuta, puede ser destinado a la prestación de un servicio público en mejores condiciones respecto del originario. En todos los casos, a la solicitud de autorización por el ayuntamiento, deberá acompañarse el proyecto ejecutivo que, en su caso, se ejecutará, así como la suficiencia de recursos para llevarlo a cabo.
 
-II. Que la enajenación o permuta tenga siempre por objeto la adquisición de diverso bien que beneficie a la hacienda municipal, y que resulte necesario para la realización de sus funciones públicas.
+Los ayuntamientos no podrán vender sus bienes inmuebles, excepto cuando el producto de la venta, sea suficiente para cubrir el costo de una obra pública de impacto general en el ayuntamiento, y previa consulta pública de dicha obra, en los términos de la ley de la materia.
 
-Se exceptúa de lo señalado en las fracciones anteriores a las solicitudes de donación.
+Los ayuntamientos podrán donar sus bienes inmuebles sólo en favor de instituciones públicas, o de personas físicas o morales con fines de asistencia social que cumplan con los requisitos que al efecto establece la Ley de Desarrollo Social para el Estado y Municipios de San Luis Potosí, siempre y cuando sobre los mismos se vayan a ejecutar obras que representen, la satisfacción de servicios o necesidades de interés general para los habitantes del municipio, o bien, sirvan para la regularización de la tenencia de la tierra en favor de personas que no tengan otra propiedad registrada a nombre de ellas o de sus parientes por afinidad o consanguinidad hasta el cuarto grado. En todos los casos, tratándose de bienes adquiridos como área de donación, deberán de observarse los porcentajes y las restricciones que, para los inmuebles obtenidos como áreas de donación, establezca la Ley Local de Ordenamiento Territorial y Desarrollo Urbano, y cualquier otra disposición legal aplicable.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 112.
 
-Para las enajenaciones, permutas o donaciones de los bienes inmuebles propiedad del Ayuntamiento, éste, previo acuerdo del Cabildo expedido en términos de lo previsto en el artículo anterior, solicitará la autorización del Congreso del Estado, formulando la respectiva solicitud a la que deberán acompañarse los siguientes requisitos:
+La autorización para la venta, permuta o donación, de bienes muebles e inmuebles, según sea el caso, y en los términos de esta Ley, la o el presidente municipal deberá convocar a sesión de Cabildo, en la que de forma exclusiva se tratará este tema. El ayuntamiento, en su caso, autorizará la enajenación de que se trate, por el voto de cuando menos las dos terceras partes del total de los integrantes del ayuntamiento.
 
-I. Copia certificada del Acta de Cabildo en que se haya acordado por el voto de cuando menos las dos terceras partes de los miembros del Ayuntamiento, realizar la solicitud de autorización al Congreso del Estado;
+Para la autorización de enajenación de bienes inmuebles, se deberá acompañar a la convocatoria respectiva lo siguiente:
 
-II. Título con el que se acredite la propiedad del inmueble;
+I. Expediente de la consulta pública en el caso de venta de bienes inmuebles;
 
-III. Certificado de gravamen de la propiedad;
+II. Título con el que se acredite la propiedad del inmueble, debidamente inscrito ante el Instituto Registral y Catastral;
+
+III. Certificado de libertad de gravamen en el caso de inmuebles;
 
 IV. Plano con medidas y colindancias de la propiedad de que se trate;
 
-V. El valor fiscal; y tratándose de permutas, los avalúos comerciales de ambos inmuebles, que practique un perito valuador inscrito en el Registro Estatal de Peritos;
+V. Constancia o certificación del valor fiscal; y tratándose de permutas, los avalúos comerciales de ambos inmuebles, que practique un perito valuador inscrito en el Registro Estatal de Peritos;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2013)</small>
+VI. Dictamen de factibilidad expedido por, la dirección o autoridad municipal competente, y por la Coordinación Estatal de Protección Civil, respectivamente, mediante el cual se establezca la posibilidad de desarrollar, edificar, construir o realizar obras de infraestructura y los asentamientos humanos en un predio determinado; señalando el uso general y específico del suelo; densidad, los coeficientes de ocupación y uso de suelo; y las restricciones federales, estatales y municipales al mismo, así como la identificación del análisis de riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción, así como identificación de riesgos, que se entenderá como reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
 
-VI. Dictamen de factibilidad expedido por, la dirección u autoridad municipal competente, y por la Coordinación Estatal de Protección Civil, respectivamente, mediante el cual se establezca la posibilidad de desarrollar, edificar, construir o realizar obras de infraestructura y los asentamientos humanos en un predio determinado; señalando el uso general y específico del suelo; densidad, los coeficientes de ocupación y uso del suelo; y las restricciones federales, estatales y municipales al mismo, así como la identificación del análisis de riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción, así como identificación de riesgos, que se entenderá como reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
+VII. Exposición de motivos en que se fundamente la solicitud; además de la mención del acto jurídico que habrá de formalizarla;
 
-VII. La exposición de motivos en que se fundamente la solicitud; además de la mención del acto jurídico que habrá de formalizarla;
-
-VIII. Que el adquiriente no sea familiar por afinidad, ni por consanguinidad hasta el cuarto grado, de alguno de los integrantes del Ayuntamiento, en cuyo caso la enajenación será nula;
+VIII. Protesto (sic) de que el adquiriente no sea familiar por afinidad, ni por consanguinidad hasta el cuarto grado, de alguno de los integrantes del ayuntamiento, en cuyo caso la enajenación será nula;
 
 IX. Certificación de que el inmueble carece de valor arqueológico, histórico o artístico;
 
 X. Señalará los beneficiarios, especificando si se trata de personas físicas o morales.
 
-Tratándose de personas físicas se expresarán sus nombres completos, edad, domicilio particular y de trabajo, estado civil; y al efecto se agregará al listado copia certificada de sus identificaciones, así como de sus actas de nacimiento, comprobantes de domicilio y en su caso de sus actas de matrimonio.
+Tratándose de personas físicas se expresarán sus nombres completos, edad, domicilio particular y de trabajo, estado civil; y al efecto se agregará al listado copia certificada de sus identificaciones, así como de sus actas de nacimiento, comprobantes de domicilio y, en su caso, de sus actas de matrimonio.
 
-Tratándose de personas morales se expresará su denominación, domicilio fiscal, su nomina de asociados y mesa directiva; y se acompañara copia certificada del Acta Constitutiva respectiva, y
+Tratándose de personas morales se expresará su denominación, domicilio fiscal, su nómina de socios o asociados y del órgano de administración; y se acompañará copia certificada del acta constitutiva respectiva, así como de las modificaciones a sus estatutos, y
 
-XI. En los casos de donación a personas físicas éstas habrán de comprobar que no son propietarias de algún predio. En estos casos la superficie donada no excederá a la necesaria para vivienda de interés social.
+XI. En los casos de donación a personas físicas éstas habrán de comprobar que no son propietarias de algún predio; la superficie donada no excederá a la necesaria para vivienda de interés social.
+
+Cualquier autorización de enajenación que no cumpla con los requisitos establecidos en esta Ley, y en otras disposiciones legales aplicables, será nula de pleno derecho: y la o el presidente municipal, será responsable de manera solidaria y subsidiaria de los daños y perjuicios que se causen a la hacienda pública municipal.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 113.
 
-La venta de los bienes inmuebles deberá efectuarse en subasta pública conforme al procedimiento señalado por el Reglamento Interior del Ayuntamiento, cumpliendo en su caso, con los requisitos que para tal efecto establezca el Congreso del Estado en el decreto correspondiente.
+La venta de los bienes inmuebles deberá efectuarse en subasta pública, conforme al procedimiento que señale el Reglamento que al efecto autorice el Ayuntamiento, debiendo cumplir en todos los casos, con los requisitos y procedimientos previos que, para cada supuesto de enajenación, establecen esta Ley y las demás disposiciones legales aplicables.
 
 ###### ARTICULO 114.
 
@@ -2563,9 +2579,11 @@ IX. Cuando exista incumplimiento de alguna de las obligaciones contenidas en est
 
 Al operar la cancelación de las concesiones, los bienes con que se preste el servicio se revertirán en favor del Municipio, exceptuando los que no sean de su propiedad; pero si el Ayuntamiento los considera necesarios para la prestación del servicio, solicitará su expropiación en los términos de la ley de la materia.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
 ###### ARTICULO 156.
 
-A petición formulada por los concesionarios antes de la expiración del plazo de la concesión, el Ayuntamiento podrá prorrogarla con la autorización del Congreso del Estado, hasta por un término igual por el que fue otorgada, siempre que subsistan las condiciones que motivaron su otorgamiento y haya cumplido el concesionario con todas las obligaciones impuestas.
+A petición formulada por los concesionarios antes de la expiración del plazo de la concesión, el ayuntamiento podrá prorrogarla hasta por un término igual por el que fue otorgada, siempre que subsistan las condiciones que motivaron su otorgamiento, y haya cumplido el concesionario con todas las obligaciones impuestas.
 
 ###### ARTICULO 157.
 
@@ -3276,3 +3294,13 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Para efectos de la administración municipal 2018- 2021, dentro de los noventa días posteriores a la entrada en vigor de este Decreto, deberán de elegir a los encargados de las unidades de: investigación; y substanciación, a que se refiere el presente Decreto
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 26 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1139.- SE REFORMA EL ARTÍCULO 115 EN SU PÁRRAFO PRIMERO; Y DEROGA DEL ARTÍCULO 57 LAS FRACCIONES XXXI Y XXXII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS 31 EN SU INCISO C) LA FRACCIÓN III, 108 EN SU PÁRRAFO SEGUNDO, 111, 112, 113 Y 156; SE ADICIONA AL ARTÍCULO 108 EL PÁRRAFO TERCERO; Y DEROGA DEL ARTÍCULO 32 LA FRACCIÓN I, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE DEROGA DEL ARTÍCULO 106 LAS FRACCIONES V Y VI, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS 31, 32 EN SU PÁRRAFO SEGUNDO Y EN SU INCISO G), 34, 36, 37 EN SU PÁRRAFO PRIMERO Y 42, DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Las solicitudes que se encuentren en trámite ante el Congreso del Estado deberán declararse sin materia, y remitir la documentación exhibida al ayuntamiento solicitante.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
