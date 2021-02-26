@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2020-11-09"
+last_updated: "2021-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE FEBRERO DE 2021.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -178,6 +178,10 @@ Es inviolable la libertad de difundir opiniones, información e ideas, a través
 > <small>(ADICIONADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 Ninguna ley ni autoridad puede establecer la previa censura, ni coartar la libertad de difusión, que no tiene más límites que los previstos en el párrafo décimo cuarto de este mismo artículo, de esta Constitución. En ningún caso podrán secuestrarse los bienes utilizados para la difusión de información, opiniones e ideas, como instrumento del delito.
+
+> <small>(ADICIONADO, G.G. 26 DE FEBRERO DE 2021)</small>
+
+Toda persona tiene derecho al acceso a las tecnologías de la información y la comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluidos los servicios de banda ancha e internet, conforme a lo dispuesto por el artículo 6, párrafo tercero, de la Constitución Política de los Estados Unidos Mexicanos.
 
 (ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015) (F. DE E., G.G. 15 DE SEPTIEMBRE DE 2015)
 
@@ -1153,11 +1157,11 @@ Las diputadas y los diputados que asistan tanto a las juntas preparatorias como 
 
 Las diputadas y los diputados que falten a tres sesiones consecutivas sin previa licencia de la Presidenta o del Presidente de la Legislatura, perderán el derecho de ejercer sus funciones durante el periodo en que ocurran las faltas y se llamará desde luego a los suplentes.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 26 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 49.
 
-La Legislatura del Estado sesionará por lo menos una vez cada año fuera de la capital del Estado.
+La Legislatura del Estado podrá sesionar por lo menos una vez cada año fuera de la capital del Estado.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -5088,3 +5092,19 @@ G.G. 9 DE NOVIEMBRE DE 2020.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta de Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 26 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 246.- POR EL QUE SE ADICIONA UN PÁRRAFO VIGÉSIMO SÉPTIMO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES, AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 26 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 247.- POR EL QUE SE REFORMA EL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
