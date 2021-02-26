@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2020-07-29"
+last_updated: "2021-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2021.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -3944,6 +3944,18 @@ IV.- El derecho a una vida libre de violencia hacia la mujer.
 
 ARTÍCULO 293 TER. Al servidor público que estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de reinserción social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos, o centros de arraigo que, sin los requisitos legales, reciba como presa, detenida, arrestada, arraigada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida, si lo estuviere; o no cumpla la orden de libertad girada por la autoridad competente se le impondrá de dos a nueve años de prisión y una multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
+> <small>(ADICIONADO, G.O. 26 DE FEBRERO DE 2021)</small>
+
+ARTÍCULO 293 QUÁTER: Se impondrán de dos a seis años de prisión, y una multa de quinientas a mil Unidades de Medida y Actualización a la persona servidora pública que, de forma indebida difunda, entregue, revele, publique, transmita, exponga, remita, distribuya, videograbe, audiograbe, fotografíe, filme, reproduzca, comercialice, oferte, intercambie o comparta imágenes, audios, videos, información reservada, documentos del lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos relacionados con el procedimiento penal o productos con uno o varios hechos, señalados por la Ley como delitos.
+
+Las sanciones previstas en el artículo anterior aumentarán en una tercera parte, sí la información que se difunda:
+
+I. Sea con el fin de menoscabar la dignidad de las víctimas o de sus familiares;
+
+II. Tratare de cadáveres de mujeres, niñas, o adolescentes, o
+
+III. Sea de las circunstancias de su muerte, de las lesiones o del estado de salud de la víctima.
+
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 6 DE JUNIO DE 2012)</small>
 
 ### CAPÍTULO VI. ENCUBRIMIENTO POR FAVORECIMIENTO
@@ -6129,3 +6141,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Remítase a la Jefa de Gobierno para sus efectos legales.
+
+G.O. 26 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 293 QUÁTER AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+Primero: El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Remítase a la persona titular de la Jefatura de Gobierno para los efectos procesales correspondientes.
