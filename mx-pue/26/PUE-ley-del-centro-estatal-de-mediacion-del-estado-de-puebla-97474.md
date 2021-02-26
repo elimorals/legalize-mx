@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-centro-estatal-de-mediacion-del-estado-de-puebla-97474"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-30"
-last_updated: "2020-10-02"
+last_updated: "2021-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL CENTRO ESTATAL DE MEDIACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2021.
 
 Ley publicada en la Trigésima Octava Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2013.
 
@@ -107,15 +107,27 @@ La mediación es un procedimiento de justicia alternativa, por el que las person
 
 La mediación busca fomentar entre los miembros de la sociedad, una cultura de paz y diálogo, a través de la participación activa de éstos en la solución de un conflicto en particular.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
 ###### ARTÍCULO 4.
 
-Podrán someterse al Procedimiento de Mediación, los derechos y obligaciones susceptibles de transacción o convenio entre particulares, que no alteren el orden público, ni contravengan alguna disposición legal expresa o afecte derechos de terceros. La autoridad jurisdiccional, hará del conocimiento de las partes, la existencia de la mediación como un medio alternativo por medio del cual pueden dirimir un conflicto de intereses, sin necesidad de agotar un proceso ante los órganos jurisdiccionales.
+Las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales.
 
-> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+Podrán someterse al Procedimiento de Mediación, los derechos y obligaciones susceptibles de transacción o convenio entre particulares, que no alteren el orden público, ni contravengan alguna disposición legal expresa o afecte derechos de terceros.
 
-No podrá ser utilizado el procedimiento de mediación en aquellos casos que impliquen la existencia de elementos que presuman violencia de género o cualquier otro que represente un desequilibrio entre los intervinientes, por estar alguno de ellos en una situación de especial vulnerabilidad.
+La autoridad jurisdiccional que reciba una demanda, antes de fijar la Litis, hará del conocimiento de las partes la existencia de la mediación y de las ventajas que esta ofrece para dirimir su conflicto sin necesidad de agotar un proceso ante los órganos jurisdiccionales y siempre que las partes otorguen su consentimiento expreso, los remitirá para que acudan personalmente o a distancia al Centro Estatal de Mediación del Honorable Tribunal Superior de Justicia o a cualquier Mediador Certificado, a una sesión informativa para que, en su caso, intenten resolver su conflicto en mediación.
 
-En las controversias que se encuentren jurisdiccionalmente radicadas, se someterá al Procedimiento de Mediación tal como se refiere el artículo 837 del Código de Procedimientos.
+De lograrse la mediación, la demanda se desechará de plano y se tendrá por no interpuesta.
+
+De no lograrse la mediación, la autoridad jurisdiccional deberá contar con la constancia de fracaso debidamente expedida por el Centro Estatal de Mediación del Honorable Tribunal Superior de Justicia o por el mediador certificado para poder continuar con el proceso y fijar la Litis.
+
+En cualquier momento del proceso, las partes de común acuerdo, podrán solicitar a la autoridad la suspensión del mismo para intentar resolver su conflicto en mediación.
+
+No podrá ser utilizado el procedimiento de mediación en aquellos casos que la ley expresamente lo prohíba o lo limite, o bien en aquellos casos que impliquen la existencia de elementos que presuman violencia de género o cualquier otro que represente un desequil4 (sic) ibrio (sic) entre los intervinientes, por estar alguno de ellos en una situación de especial vulnerabilidad.
+
+La mediación es independiente a la jurisdicción ordinaria y tiene como propósito auxiliarla.
+
+El ministerio público estará obligado a informar a los particulares sobre las peculiaridades de la mediación, antes de iniciar denuncia o querella y orientarlos en cuanto a las ventajas de acudir a la misma para alcanzar una solución económica, rápida y satisfactoria a sus controversias.
 
 ###### ARTÍCULO 5.
 
@@ -530,6 +542,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el pres
 P.O. 2 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES IV Y V Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 7, Y ADICIONA LA FRACCIÓN VI AL 7, TODOS DE LA LEY DEL CENTRO ESTATAL DE MEDIACIÓN DEL ESTADO DE PUEBLA.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 4 DE LA LEY DEL CENTRO ESTATAL DE MEDIACIÓN DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
