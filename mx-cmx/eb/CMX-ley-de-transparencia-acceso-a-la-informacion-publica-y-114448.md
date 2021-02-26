@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-acceso-a-la-informacion-publica-y-114448"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-06"
-last_updated: "2020-11-18"
+last_updated: "2021-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114448&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-05-06"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2021.
 
 Ley publicada en el No. Bis de la Gaceta Oficial de la Ciudad de México, el viernes 6 de mayo de 2016.
 
@@ -990,7 +990,9 @@ a) Vigilar que los funcionarios y empleados del Instituto actúen con apego a es
 
 b) Conocer los informes que deba rendir el titular del Órgano Interno de Control del Instituto;
 
-c) Aprobar la estructura administrativa del Instituto y su jerarquización, así como los mecanismos para la selección y contratación del personal, en los términos de su Reglamento Interior;
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2021)</small>
+
+c) Aprobar la estructura administrativa del Instituto y su jerarquización, así como los mecanismos para la selección y contratación del personal en condiciones de paridad e igualdad de género y no discriminación, procurando una participación igualitaria entre mujeres y hombres dentro de la estructura orgánica, en los términos de su Reglamento Interior;
 
 d) Resolver en definitiva cualquier tipo de conflicto competencial que surja entre las unidades del Instituto;
 
@@ -3837,6 +3839,14 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 G.O. 18 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXV BIS AL ARTÍCULO 124 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, EN MATERIA DE OBLIGACIONES DE TRANSPARENCIA DE LAS ALCALDÍAS”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor el (sic) día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 26 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 67, FRACCIÓN I, INCISO C DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO.- Remítase a la Jefatura de Gobierno para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
 
