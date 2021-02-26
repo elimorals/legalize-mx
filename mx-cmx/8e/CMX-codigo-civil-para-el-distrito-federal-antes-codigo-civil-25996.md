@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2020-01-09"
+last_updated: "2021-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2021.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -681,8 +681,6 @@ Si el reconocimiento se hiciere en oficina distinta de aquélla en que se levant
 
 ### CAPITULO VI. De las actas de emancipación
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
 ###### ARTICULO 84.
 
 Dictada la resolución judicial definitiva que autorice la adopción, el Juez, dentro del término de tres días, remitirá copia certificada de las diligencias al Juez del Registro Civil que corresponda, a fin de que, con la comparecencia del adoptante, se levante el acta correspondiente.
@@ -745,7 +743,7 @@ La omisión del registro de tutela no impide al tutor entrar en ejercicio de su 
 
 ###### ARTICULO 93.
 
-En los casos de emancipación por efecto del matrimonio, no se extenderá acta por separado; será suficiente para acreditarla, el acta de matrimonio.
+(DEROGADO, G.O. 26 DE FEBRERO DE 2021)
 
 ###### ARTICULO 94.
 
@@ -957,11 +955,11 @@ Las denuncias anónimas o hechas por cualquiera otro medio, si no se presentare 
 
 Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 110.
 
-El Juez del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será castigado como lo disponga el Código Penal.
+El Juez del Registro Civil que autorice un matrimonio teniendo conocimiento de que uno o ambos contrayentes son menores de dieciocho años, de que hay impedimento legal, o de que éste se ha denunciado, sin perjuicio de lo dispuesto por otros ordenamientos legales; será sancionado conforme lo disponga el Código Penal para el Distrito Federal y la Ley de Responsabilidades Administrativas de la Ciudad de México.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -1881,11 +1879,9 @@ Tampoco se revocarán por ingratitud, a no ser que el donante fuere un extraño,
 
 Las donaciones ante nupciales hechas entre los futuros conyugues serán revocadas cuando, durante el matrimonio, el donatario realiza conductas de violencia familiar, abandono de las obligaciones alimentarias, sostenga relaciones sexuales con persona distinta a su conyugue u otras que sean graves a juicio del juez de lo familiar, cometidas en perjuicio del donante o sus hijos.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
-
 ###### ARTICULO 229.
 
-Los menores podrán hacer las donaciones que señalan la fracción I del artículo 219, pero requerirán del consentimiento de las personas a que se refiere el artículo 148.
+(DEROGADO, G.O. 26 DE FEBRERO DE 2021)
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -1931,7 +1927,9 @@ I.- El error acerca de la persona con quien se contrae, cuando entendiendo un c�
 
 II.- Que el matrimonio se haya celebrado concurriendo algunos de los impedimentos enumerados en el artículo 156; siempre que no haya sido dispensado en los casos que así proceda; y
 
-III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 97, 98, 100, 102 y 103.
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2021)</small>
+
+III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 97, 98, 100, 102, 103 y 148.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2157,11 +2155,11 @@ Los jueces de lo familiar están obligados a suplir la deficiencia de las partes
 
 Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos.
 
-> <small>(REFORMADO, G.O. 18 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 272.
 
-Procede el divorcio administrativo cuando ambos cónyuges convengan en divorciarse, sean mayores de edad, hayan liquidado la sociedad conyugal de bienes, si están casados bajo ese régimen patrimonial, la cónyuge no esté embarazada, no tengan hijos en común o teniéndolos sean mayores de edad, y éstos no requieran alimentos o alguno de los cónyuges. El Juez del Registro Civil, previa identificación de los cónyuges, y ratificando en el mismo acto la solicitud de divorcio, levantará un acta en que los declarará divorciados y hará la anotación correspondiente en la del matrimonio anterior.
+Procede el divorcio administrativo cuando ambos cónyuges convengan en divorciarse, hayan liquidado la sociedad conyugal de bienes, si están casados bajo ese régimen patrimonial, la cónyuge no esté embarazada, no tengan hijos en común o teniéndolos sean mayores de edad, y éstos no requieran alimentos o alguno de los cónyuges. El Juez del Registro Civil, previa identificación de los cónyuges, y ratificando en el mismo acto la solicitud de divorcio, levantará un acta en que los declarará divorciados y hará la anotación correspondiente en la del matrimonio anterior.
 
 ###### ARTICULO 273.
 
@@ -3687,13 +3685,15 @@ Siempre que el juez conceda licencia a los que ejercen la patria potestad, para 
 
 Al efecto, el precio de la venta se depositará en una institución de crédito, y la persona que ejerce la patria potestad no podrá disponer de él, sin orden judicial.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 26 DE FEBRERO DE 2021)</small>
+
 ###### ARTICULO 438.
 
 El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
 
-> <small>(REFORMADA, G.O. 13 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2021)</small>
 
-I.- Por la mayor edad de los hijos;
+I.- Por la mayoría de edad de los hijos;
 
 II.- Por la pérdida de la patria potestad;
 
@@ -3729,7 +3729,7 @@ La patria potestad se acaba:
 
 I. Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II. Con la emancipación derivada del matrimonio;
+II. (DEROGADA, G.O. 26 DE FEBRERO DE 2021)
 
 III. Por la mayor edad del hijo;
 
@@ -3855,11 +3855,9 @@ I.- Los menores de edad;
 
 II.- Los mayores de edad que por causa de enfermedad reversible o irreversible, o que por su estado particular de discapacidad, ya sea de carácter físico, sensorial, intelectual, emocional, mental o varias de ellas a la vez, no puedan gobernarse, obligarse o manifestar su voluntad, por sí mismos o por algún medio que la supla.
 
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
-
 ###### ARTICULO 451.
 
-Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para los actos que se mencionen en el artículo relativo al capítulo I del título décimo de este libro.
+(DEROGADO, G.O. 26 DE FEBRERO DE 2021)
 
 ###### ARTICULO 452.
 
@@ -5055,9 +5053,7 @@ Designarán por sí mismos al curador, con aprobación judicial:
 
 I.- Los comprendidos en el artículo 496, observándose lo que allí se dispone respecto de esos nombramientos;
 
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1970)</small>
-
-II.- Los menores de edad emancipados por razón del matrimonio, en el caso previsto en la fracción II del artículo 643.
+II.- (DEROGADA, G.O. 26 DE FEBRERO DE 2021)
 
 ###### ARTICULO 625.
 
@@ -5094,8 +5090,6 @@ En los casos en que conforme a este Código tenga que intervenir el curador, cob
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
 
 ### CAPITULO I. De la emancipación
-
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
 
 ###### ARTICULO 631.
 
@@ -5179,7 +5173,7 @@ Tampoco pueden alegarla los menores, si han presentado certificados falsos del R
 
 ###### ARTICULO 641.
 
-El matrimonio del menor de dieciocho años produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+(DEROGADO, G.O. 26 DE FEBRERO DE 2021)
 
 ###### ARTICULO 642.
 
@@ -14866,3 +14860,15 @@ Las facultades conferidas en esta Ley a la Fiscalía General de Justicia de la C
 ###### ARTÍCULO DÉCIMO.
 
 Todas las referencias realizadas en otras disposiciones normativas al Identificador Digital Único se entenderán por el Autenticador Digital Único.
+
+G.O. 26 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 110, 235 FRACCIÓN III, 272, Y 438 EN SU PRIMER PÁRRAFO Y EN SU FRACCIÓN I; SE DEROGAN LOS ARTÍCULOS 93, 229, 443 FRACCIÓN II, 451, 624 FRACCIÓN II Y 641; TODOS ELLOS DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
+
+CUARTO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
