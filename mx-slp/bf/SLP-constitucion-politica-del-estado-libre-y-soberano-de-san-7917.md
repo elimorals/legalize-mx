@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2020-08-27"
+last_updated: "2021-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2021.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -1077,13 +1077,9 @@ XXIX.- Aprobar, en su caso, los convenios que celebre el Ejecutivo en relación 
 
 XXX.- Designar Concejos Municipales en los casos y bajo las condiciones que las leyes respectivas establezcan;
 
-(NOTA: EL 21 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 109/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+XXXI.- (DEROGADA, P.O. 26 DE FEBRERO DE 2021)
 
-XXXI.- AUTORIZAR LA ENAJENACIÓN DE LOS BIENES MUNICIPALES Y TAMBIÉN SU GRAVAMEN, CUANDO ÉSTE EXCEDA AL TÉRMINO DE LA ADMINISTRACIÓN DE UN AYUNTAMIENTO;
-
-(NOTA: EL 21 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 109/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXXII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-XXXII.- AUTORIZAR LAS CONCESIONES QUE OTORGUEN LOS AYUNTAMIENTOS, CUANDO SU VIGENCIA EXCEDA EL TÉRMINO DE SU ADMINISTRACIÓN;
+XXXII.- (DEROGADA, P.O. 26 DE FEBRERO DE 2021)
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
@@ -1333,19 +1329,35 @@ Al tomar posesión de su cargo, el Gobernador del Estado deberá rendir protesta
 
 En ningún caso y por ningún motivo podrá volver a ocupar el cargo de Gobernador del Estado el ciudadano que lo haya desempeñado, así hubiere sido electo por sufragio directo o con el carácter de interino, provisional o sustituto.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2021)</small>
 
 ###### ARTÍCULO 77.
 
-Para cubrir las faltas temporales del Gobernador del Estado, el Congreso o, en su caso, la Diputación Permanente nombrará de inmediato al Gobernador provisional.
+Para cubrir las faltas temporales del Gobernador del Estado mayores a treinta días, el Congreso o, en su caso, la Diputación Permanente, nombrará de inmediato, en un plazo que no exceda de cinco días naturales, al Gobernador Provisional.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral y, concurriendo cuando menos las dos terceras partes del total de sus integrantes, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
 Dentro de los diez días siguientes al de la designación del Gobernador interino, el Congreso expedirá la convocatoria para la elección del Gobernador que debe concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no mayor de seis meses.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador provisional y convocará a período extraordinario de sesiones al Congreso, para que éste, a su vez, designe al Gobernador interino y expida la convocatoria a elecciones en los términos del párrafo anterior.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
 Cuando la falta de Gobernador ocurriese en los últimos cuatro años del período respectivo, si el Congreso del Estado se encontrara en sesiones, erigido en Colegio Electoral, designará al Gobernador substituto que deberá concluir el período; si no estuviere reunido, la Diputación Permanente nombrará un Gobernador provisional y convocará al Congreso del Estado a periodo extraordinario de sesiones para que haga la elección del Gobernador substituto correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
+En los casos de la falta absoluta del Gobernador del Estado, el Congreso nombrará un Gobernador Provisional, Interino o Sustituto, según sea el caso, en un plazo que no exceda de cinco días naturales; en las ausencias temporales que no excedan de treinta días, el Secretario General de Gobierno se hará cargo del Despacho del titular del Poder Ejecutivo del Estado, tiempo en el que éste se encontrará impedido para remover o designar secretarios de despacho. Además, rendirá un informe de labores por escrito al Congreso, en un plazo no mayor a diez días, contados a partir del momento en que concluya el término en que se encargó del Despacho.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2021)</small>
+
+El Gobernador del Estado podrá ausentarse de la Entidad hasta por siete días, comunicando al Congreso o, a la Diputación Permanente, según sea el caso, el motivo de su ausencia. En ausencias que sobrepasen los siete días, requerá (sic) el permiso del Congreso o de la Diputación Permanente, el cual deberá ser aprobado por mayoría simple.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2097,13 +2109,13 @@ XII.- Los ayuntamientos de la Entidad, con base en sus respectivos presupuestos 
 
 Se faculta al ayuntamiento para celebrar convenios con instituciones públicas o privadas de seguridad social, para el manejo, y ejecución de su fondo de pensiones, siempre que lo apruebe cuando menos las dos terceras partes de los integrantes del cabildo y, la posterior autorización del Congreso del Estado.
 
-(NOTA: EL 21 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 109/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2021)</small>
 
 ###### ARTÍCULO 115.
 
-LOS AYUNTAMIENTOS NO PODRÁN CELEBRAR ACTO O CONTRATO ALGUNO QUE GRAVE O COMPROMETA LOS BIENES Y SERVICIOS PÚBLICOS DE LOS MUNICIPIOS, SIN TENER LA AUTORIZACIÓN DEL CONGRESO DEL ESTADO DADA CONFORME A LA LEY; LOS CUALES, EN SU DEFECTO, SERÁN NULOS DE PLENO DERECHO.
+Los ayuntamientos no podrán celebrar acto o contrato alguno que grave, comprometa, o tenga como fin la enajenación o comodato de los bienes y servicios públicos de los municipios, sin la votación por mayoría calificada de los miembros del Cabildo; debiendo satisfacer previamente los requisitos y atender los procedimientos establecidos en las leyes respectivas; los actos celebrados en contravención a la ley serán nulos de pleno derecho, siendo la o el presidente del municipio de que se trate, responsable solidario de los daños y perjuicios que sufra la hacienda pública municipal.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 Aprobado el presupuesto municipal de egresos por el Cabildo, se dispondrá por el Presidente Municipal su publicación en el Periódico Oficial del Estado, a más tardar el quince de enero de cada ejercicio anual.
 
@@ -3440,5 +3452,23 @@ P.O. 27 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0741.- SE DEROGA DE LOS ARTÍCULOS 73 LA FRACCIÓN III, 99 LA FRACCIÓN II, 103 LA FRACCIÓN II Y 106 LA FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1139.- SE REFORMA EL ARTÍCULO 115 EN SU PÁRRAFO PRIMERO; Y DEROGA DEL ARTÍCULO 57 LAS FRACCIONES XXXI Y XXXII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS 31 EN SU INCISO C) LA FRACCIÓN III, 108 EN SU PÁRRAFO SEGUNDO, 111, 112, 113 Y 156; SE ADICIONA AL ARTÍCULO 108 EL PÁRRAFO TERCERO; Y DEROGA DEL ARTÍCULO 32 LA FRACCIÓN I, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE DEROGA DEL ARTÍCULO 106 LAS FRACCIONES V Y VI, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS 31, 32 EN SU PÁRRAFO SEGUNDO Y EN SU INCISO G), 34, 36, 37 EN SU PÁRRAFO PRIMERO Y 42, DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las solicitudes que se encuentren en trámite ante el Congreso del Estado deberán declararse sin materia, y remitir la documentación exhibida al ayuntamiento peticionario.
+
+P.O. 26 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1140.- SE REFORMA EL ARTÍCULO 77 EN SU PÁRRAFO PRIMERO; Y ADICIONA AL MISMO ARTÍCULO 77 DOS PÁRRAFOS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
