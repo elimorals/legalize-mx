@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-de-la-ciudad-de-1225
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-07-18"
-last_updated: "2018-03-01"
+last_updated: "2021-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122599&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-07-10"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE FEBRERO DE 2021.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 18 de julio de 2017.
 
@@ -308,7 +308,9 @@ También podrán emitir voto particular para formular aclaraciones, exponer argu
 
 En caso de que un proyecto de resolución no sea aceptado por la mayoría, se observará lo siguiente:
 
-a) Si el proyecto no es aceptado por disentir del sentido y/o consideraciones expuestas en el mismo, el Pleno, a propuesta de la Magistrada o el Magistrado Presidente, designará a otro Magistrado o Magistrada para que realice el engrose respectivo con las consideraciones y razonamientos jurídicos correspondientes, dentro de los dos días hábiles siguientes.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2021)</small>
+
+a) Si el proyecto no es aceptado por disentirse del sentido y/o consideraciones expuestas en el mismo, el Pleno, a propuesta de la Magistrada o el Magistrado Presidente, elegirá a otra Magistratura de entre quienes integran la mayoría, asignándose el engrose, preferentemente en orden alfabético del primer apellido de la Magistratura de esa mayoría, buscando un equilibrio respecto a los efectuados por éstas, para que realice el proyecto respectivo con las consideraciones y razonamientos jurídicos correspondientes, dentro de los dos días hábiles siguientes.
 
 > <small>(REFORMADO, G.O. 1 DE MARZO DE 2018)</small>
 
@@ -2509,3 +2511,11 @@ PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su public
 SEGUNDO. Publíquese este Reglamento en los Estrados y en los sitios de Internet e Intranet del Tribunal.
 
 TERCERO. A partir de la entrada en vigor de la reforma al presente Reglamento, en tiempo breve, se deberá iniciar la revisión de la normativa interna para adecuarla a las Leyes en materia de anticorrupción de la Ciudad de México, siguiendo la ruta normativa institucional.
+
+G.O. 26 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE REFORMA AL “REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en los estrados del Tribunal Electoral de la Ciudad de México.
+
+SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México y en los estrados, así como en las páginas de Internet e Intranet del Tribunal Electoral de la Ciudad de México.
