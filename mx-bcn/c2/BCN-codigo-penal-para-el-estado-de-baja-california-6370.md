@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2021-02-12"
+last_updated: "2021-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -4339,7 +4339,9 @@ Al que cometa el delito de intimidación se le impondrán de dos a nueve años d
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2018)</small>
 
-### CAPITULO IV. DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
+### CAPÍTULO IV. DELITOS COMETIDOS CONTRA SERVIDORES PÚBLICOS
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 307.
 
@@ -4425,7 +4427,7 @@ Consumación de medios de apremio.- Cuando la Ley autorice el empleo de medios d
 
 Tipo y punibilidad.- Al que indebidamente destruya, retire, o de cualquier otro modo, quebrante los sellos puestos por orden legítima de la autoridad pública competente, se le impondrá prisión de tres meses a dos años y de veinte a sesenta días multa.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE FEBRERO DE 2021)</small>
 
 ### CAPITULO II. FRAUDE PROCESAL
 
@@ -4433,9 +4435,9 @@ Tipo y punibilidad.- Al que indebidamente destruya, retire, o de cualquier otro 
 
 ###### Artículo 317.
 
-Tipo y punibilidad.- Al que de palabra o de obra ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá prisión de seis meses a tres años y hasta cien días multa; además de la que le corresponda por el delito cometido.
+Tipo y punibilidad.- Al que de palabra o de obra ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá prisión de seis meses a tres años y hasta cien veces la Unidad de Medida y Actualización; además de la que le corresponda por el delito cometido.
 
-Para los efectos de esta disposición, se entiende por ultraje toda acción o expresión ejecutada con el ánimo de denigrar u ofender a algún funcionario o agente de la autoridad.
+Para los efectos de esta disposición, se entiende por ultraje toda acción o expresión ejecutada con el ánimo de denigrar u ofender a algún servidor público.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -6137,15 +6139,11 @@ P.O. 12 DE FEBRERO DE 2021.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 607 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+P.O. 26 DE FEBRERO DE 2021.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 175 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL CAPÍTULO IV, DEL TÍTULO TERCERO, CORRESPONDIENTE AL LIBRO SEGUNDO, ASÍ COMO LA REFORMA AL ARTÍCULO 317 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-TERCERO. Los Ayuntamientos de los municipios del Estado contarán con un plazo de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normativa reglamentaria aplicable.
-
-P.O. 19 DE ENERO DE 2024.
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 621 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO Y DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
 
