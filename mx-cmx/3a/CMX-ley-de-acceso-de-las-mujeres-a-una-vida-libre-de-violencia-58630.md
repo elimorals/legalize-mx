@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2020-11-23"
+last_updated: "2021-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -1046,6 +1046,10 @@ Las Casas de Emergencia son estancias especialmente acondicionadas para recibir 
 
 Podrá ingresar a las Casas de Emergencia, cualquier mujer, sin importar su condición; así como sus hijas e hijos de cualquier edad, o cualquier persona que dependa de ella. El período de estancia no será mayor de tres días, previa canalización a un albergue, de ser necesario.
 
+> <small>(ADICIONADO, G.O. 26 DE FEBRERO DE 2021)</small>
+
+En caso de que la mujer víctima de violencia, sus hijas e hijos de cualquier edad, o cualquier persona que dependa de ella, sean de origen indígena, extranjeras, de la tercera edad, con alguna discapacidad o alguna condición económica, cultural o social que les afecte de manera directa y cause un daño grave en su dignidad humana, las Casas de Emergencia podrán solicitar a través de la Secretaría de las Mujeres, la colaboración de otras dependencias e Instituciones, así como a la Fiscalía General de Justicia de la Ciudad de México y a las 16 Alcaldías, que en el ámbito de su competencia, se tomen medidas integrales y de urgencia para reparar el ejercicio de derechos y libertades, primordialmente para asegurar su integridad personal.
+
 ###### Artículo 50.
 
 Los Centros de Refugio son lugares temporales de seguridad para la víctima y víctimas indirectas que funcionarán las 24 horas del día, los 365 días del año.
@@ -1114,11 +1118,17 @@ IX. Personal capacitado que apliquen las Normas Oficiales Mexicanas relativas y 
 
 En todos los casos se garantizará que la estancia en las Casas de Emergencia, Centros de Refugio o Refugios Especializados sea voluntaria y se procurará que en la canalización a estos espacios la familia no sea separada.
 
-> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 53.
 
-La Dirección de Igualdad y la Secretaría de las Mujeres deberán celebrar convenios o proyectos de coinversión con las organizaciones de la sociedad civil, para la concertación de acciones y programas de financiamiento y apoyo a las Casas de Emergencia o Centros de Refugio.
+La Secretaría de las Mujeres y las 16 Alcaldías, deberán actuar de forma coordinada, con el fin de establecer estándares de gestión y atención que garanticen a todas las mujeres de la Ciudad de México que requieran acceder a una Casa de Emergencia o Centros de Refugio los servicios con calidad, oportunidad y pertinencia con apoyo de agentes clave de gobierno y sociedad civil.
+
+Con este propósito podrán celebrar convenios o proyectos de coinversión con las organizaciones de la sociedad civil especializadas en los temas de competencia, para el diseño, concertación de acciones y programas de financiamiento y apoyo a las Casas de Emergencia o Centros de Refugio.
+
+Las Alcaldías deberán contemplar en su Plan de Egresos de cada año lo establecido en la presente ley para la instalación progresiva, operatividad y/o el mantenimiento de la o las respectivas Casas de Emergencia.
+
+El Congreso de la Ciudad de México deberá considerar lo establecido por la presente ley para la asignación de recursos a las Alcaldías en cada ejercicio fiscal.
 
 ### CAPÍTULO VI. DEL ACCESO A LA JUSTICIA
 
@@ -1316,7 +1326,9 @@ III. Disponer elementos de la policía de proximidad para atender y proteger a l
 
 IV. Crear mecanismos de coordinación y colaboración con las dependencias encargadas de la seguridad pública que coadyuven en la ejecución de las medidas que garanticen la seguridad de las víctimas;
 
-V. Canalizar a la Dirección General de Igualdad y Diversidad Social, a las víctimas que tengan necesidad de ingresar a las Casas de Emergencia o Centros de Refugio; y
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2021)</small>
+
+V. Contar, por lo menos, con una Casa de Emergencia con el objetivo de establecerse como el primer vínculo de proximidad con las mujeres víctimas de violencia o con las víctimas indirectas, así como canalizar ante la unidad administrativa correspondiente a las víctimas que tengan necesidad de ingresar a las Casas de Emergencia o Centros de Refugio;
 
 VI. Generar en el ámbito de su competencia, las acciones para el registro, procesamiento, clasificación y seguimiento de las atenciones brindadas a las mujeres y niñas víctimas de violencia, de acuerdo a lo establecido en los Lineamientos para la operación y funcionamiento de la Red de Información de Violencia contra las Mujeres y el Sistema para la Identificación y Atención del Riesgo de Violencia Feminicida para las dependencias, entidades y órganos político-administrativos de la Ciudad de México
 
@@ -1863,3 +1875,15 @@ PRIMERO.- Remítase a la Jefatura de Gobierno para su publicación en la Gaceta 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- La Jefatura de Gobierno contará con un plazo máximo de 120 días hábiles para realizar las reformas reglamentarias necesarias para la aplicación del presente decreto.
+
+G.O. 26 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 49, SE REFORMA EL ARTÍCULO 53 Y LA FRACCIÓN V DEL ARTÍCULO 61 TER, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación.
+
+TERCERO.- El Congreso de la Ciudad de México deberá otorgar en el Presupuesto de Egresos de la Ciudad, correspondiente al ejercicio fiscal del año 2022, la suficiencia presupuestal para dar cumplimiento a lo establecido en el tercer párrafo del artículo 53 del presente decreto.
+
+CUARTO.- A efecto de dar cumplimiento a lo dispuesto en el presente decreto, las personas Titulares de las 16 Alcaldías de la Ciudad de México, contarán con un plazo que no excederá de 90 días hábiles posteriores a la aprobación del Presupuesto de Egresos de la Ciudad correspondiente al ejercicio fiscal del año 2022, para la instalación progresiva y el debido funcionamiento de sus respectivas casas de emergencia.
