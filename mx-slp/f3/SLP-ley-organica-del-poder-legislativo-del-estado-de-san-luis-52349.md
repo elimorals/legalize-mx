@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2020-11-17"
+last_updated: "2021-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1361,9 +1361,9 @@ III. Concernientes a la desafectación de bienes muebles e inmuebles, destinados
 
 IV. Referentes a la autorización al Ejecutivo para enajenar bienes inmuebles propiedad del Estado;
 
-V. Relativos a la autorización a los ayuntamientos para incorporar, desafectar, enajenar, permutar o gravar bienes del dominio público o uso común municipal;
+V. (DEROGADA, P.O. 26 DE FEBRERO DE 2021)
 
-VI. Relativos a la autorización de contratos, convenios o concesiones, que los ayuntamientos celebren por plazos mayores al de su periodo constitucional, que celebren en relación con la prestación de servicios públicos, y administración de la hacienda pública municipal, excepto los que se refieran a la asociación con otros municipios del Estado;
+VI. (DEROGADA, P.O. 26 DE FEBRERO DE 2021)
 
 VII. Referente a la celebración de convenios de los ayuntamientos con el Ejecutivo del Estado, para que éste asuma servicios públicos municipales;
 
@@ -2760,3 +2760,13 @@ P.O. 17 DE NOVIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1139.- SE REFORMA EL ARTÍCULO 115 EN SU PÁRRAFO PRIMERO; Y DEROGA DEL ARTÍCULO 57 LAS FRACCIONES XXXI Y XXXII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS 31 EN SU INCISO C) LA FRACCIÓN III, 108 EN SU PÁRRAFO SEGUNDO, 111, 112, 113 Y 156; SE ADICIONA AL ARTÍCULO 108 EL PÁRRAFO TERCERO; Y DEROGA DEL ARTÍCULO 32 LA FRACCIÓN I, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE DEROGA DEL ARTÍCULO 106 LAS FRACCIONES V Y VI, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS 31, 32 EN SU PÁRRAFO SEGUNDO Y EN SU INCISO G), 34, 36, 37 EN SU PÁRRAFO PRIMERO Y 42, DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Las solicitudes que se encuentren en trámite ante el Congreso del Estado deberán declararse sin materia, y remitir la documentación exhibida al ayuntamiento solicitante.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
