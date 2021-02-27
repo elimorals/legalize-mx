@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2021-02-26"
+last_updated: "2021-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1069,9 +1069,9 @@ Los puntos de acuerdo que presenten los diputados se resolverán preferentemente
 
 Por determinación del Pleno, en caso de que los asuntos propuestos por ciudadanos no sean resueltos en los plazos dispuestos en los párrafos anteriores, el asunto será turnado por la Directiva a una comisión creada ex profeso, la que deberá resolver en un término máximo de tres meses.
 
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2021)</small>
 
-Para el caso de las iniciativas presentadas por los diputados; el Gobernador del Estado; el Supremo Tribunal de Justicia; y los ayuntamientos, que no hayan sido resueltas en los plazos dispuestos en los párrafos anteriores, el Presidente de la Directiva, o de la Diputación Permanente, declarará su caducidad en términos de los artículos, 11 fracción XIV, y 157 fracción III, del Reglamento para el Gobierno Interior del Congreso del Estado, y sólo podrán volver a ser promovidas hasta el siguiente periodo ordinario.
+Para el caso de las iniciativas presentadas por los diputados; el Gobernador del Estado; el Supremo Tribunal de Justicia; y los ayuntamientos, que no hayan sido resueltas en los plazos dispuestos en los párrafos anteriores, el Presidente de la Directiva, o de la Diputación Permanente, declarará su caducidad en términos de los artículos, 11 fracción XIV, y 157 fracción III, del Reglamento para el Gobierno Interior del Congreso del Estado, a solicitud de la comisión o comisiones a las que fueron turnadas, y sólo podrán volver a ser promovidas hasta el siguiente periodo ordinario.
 
 > <small>(ADICIONADO, P.O. 28 DE MARZO DE 2017)</small>
 
@@ -2765,8 +2765,16 @@ P.O. 26 DE FEBRERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1139.- SE REFORMA EL ARTÍCULO 115 EN SU PÁRRAFO PRIMERO; Y DEROGA DEL ARTÍCULO 57 LAS FRACCIONES XXXI Y XXXII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS 31 EN SU INCISO C) LA FRACCIÓN III, 108 EN SU PÁRRAFO SEGUNDO, 111, 112, 113 Y 156; SE ADICIONA AL ARTÍCULO 108 EL PÁRRAFO TERCERO; Y DEROGA DEL ARTÍCULO 32 LA FRACCIÓN I, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE DEROGA DEL ARTÍCULO 106 LAS FRACCIONES V Y VI, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS 31, 32 EN SU PÁRRAFO SEGUNDO Y EN SU INCISO G), 34, 36, 37 EN SU PÁRRAFO PRIMERO Y 42, DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Las solicitudes que se encuentren en trámite ante el Congreso del Estado deberán declararse sin materia, y remitir la documentación exhibida al ayuntamiento solicitante.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1125.- SE REFORMA EL ARTÍCULO 92 EN SU PÁRRAFO SEXTO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
