@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2020-02-22"
+last_updated: "2021-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -487,9 +487,13 @@ B. La atención psicológica, médica y otras, en los casos de violencia contra 
 
 C. La canalización a víctimas u ofendidos, en los casos de los apartados anteriores, hacia las dependencias o instituciones que proporcionen los servicios de carácter tutelar, asistencial, preventivo, educacional y demás de contenido similar, así como la vigilancia de su debida atención.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2019)</small>
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2021)</small>
 
-Este órgano estará a cargo de un Fiscal Especializado, quien se auxiliará en sus funciones de cinco Coordinaciones conforme a la distribución territorial señalada en el artículo 5 de la presente Ley, las que se integrarán con un titular, los agentes del Ministerio Público y de Policía de Investigación del Delito, así como de las unidades administrativas necesarias y demás personal que se requiera. El personal adscrito a esta Fiscalía deberá contar con el perfil especializado que corresponda a la naturaleza propia de sus funciones.
+D. La coordinación con las entidades estatales y/o municipales encargadas del funcionamiento de las instancias que operen bajo el Modelo Homologado de Módulos de Atención a la Violencia Familiar y de Género.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+Este órgano estará a cargo de un Fiscal Especializado, quien se auxiliará en sus funciones de cinco Coordinaciones conforme a la distribución territorial señalada en el artículo 5 de la presente Ley, las que se integrarán con un titular, los agentes del Ministerio Público y de Policía de Investigación del Delito, así como de las unidades administrativas necesarias y demás personal que se requiera. El personal adscrito a esta Fiscalía deberá contar con el perfil especializado que corresponda a la naturaleza propia de sus funciones, privilegiando su permanencia, así como su profesionalización y especialización con perspectiva de género, atención a víctimas e interés superior de la niñez.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -1776,3 +1780,13 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 TERCERO.- Las facultades que confieren los artículos 240 y 241 de la Ley Nacional de Extinción de Dominio a la Unidad Especializada, corresponderán a la Dirección de Extinción de Dominio de la Dirección General Jurídica y, en su caso, a la Fiscalía Anticorrupción, como el ente a que alude esa Ley Nacional.
 
 CUARTO.- Para efectos del presente Decreto, la Dirección de Administración y Enajenación de Bienes, Fondos y Fideicomisos de la Fiscalía General del Estado será tanto la Autoridad Administrativa contenida en la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua, como la Autoridad Administradora a que alude la Ley Nacional de Extinción de Dominio.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLYC/0749/2020 IX P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado de Chihuahua, a través del Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, a partir de la publicación del presente Decreto, contará con un plazo de 180 días naturales para publicar el Modelo Homologado de los Módulos de Atención a la Violencia Familiar y de Género.
+
+TERCERO.- Será prioritaria la instalación de Módulos de Atención a la Violencia Familiar y de Género en los municipios que no cuenten con ellos. Los Módulos de Atención ya instalados, tendrán la obligación de adecuar su operación al Modelo Homologado.
