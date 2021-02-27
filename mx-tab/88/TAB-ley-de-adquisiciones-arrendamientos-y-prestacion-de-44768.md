@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-adquisiciones-arrendamientos-y-prestacion-de-44768"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-27"
-last_updated: "2019-04-17"
+last_updated: "2021-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 27 de abril de 2005.
 
@@ -105,11 +105,13 @@ XI. Comité de Compras: Comité de Compras del Poder Ejecutivo del Estado de Tab
 
 XII. Licitación Pública: Procedimiento por el cual se expide convocatoria pública, selecciona y adjudica a los licitantes los contratos relativos a las adquisiciones, arrendamientos o prestación de servicios;
 
-XIII. Licitación Simplificada, Mayor o Menor: Procedimiento mediante el cual se realizan adquisiciones o contratan arrendamientos y servicios, sin sujetarse al procedimiento de Licitación Pública, a través de la invitación a un número mínimo de licitantes con capacidad de respuesta inmediata y por los montos máximos establecidos en el Reglamento de la presente Ley;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2018)</small>
+XIII. Licitación Simplificada Mayor o Menor: Procedimiento mediante el cual se realizan adquisiciones o contratan arrendamientos y servicios, sin sujetarse al procedimiento de Licitación Pública, a través de la invitación a un número mínimo de licitantes con capacidad de respuesta inmediata y por los montos máximos establecidos en el Presupuesto General de Egresos del Estado o el que corresponda;
 
-XIV. Adjudicación Directa: Procedimiento por el cual se fincan pedidos o celebran contratos de manera directa, sin llevar a cabo licitaciones públicas o simplificadas, bajo la responsabilidad de las dependencias, órganos o entidades, siempre que se cumplan la condiciones que para ello establece esta Ley;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
+
+XIV. Adjudicación Directa: Procedimiento por el cual se fincan pedidos o celebran contratos de manera directa, sin llevar a cabo licitaciones públicas o simplificadas, bajo la responsabilidad de la Secretaría, dependencias, órganos o entidades, siempre que se cumplan las condiciones que para ello establece esta Ley;
 
 XV. Licitante: Persona física o jurídica colectiva que participa con una propuesta cierta y determinada en cualquier procedimiento de Licitación Pública o Simplificada, en el marco de la presente Ley;
 
@@ -125,7 +127,9 @@ XIX. Arrendamiento: Contrato oneroso por el cual se obtiene el derecho de uso y 
 
 XX. Servicio: La actividad organizada que se realiza con el fin de satisfacer determinados requerimientos del gobierno, prestada por personas físicas o jurídicas colectivas, excepto la contratación de servicios profesionales subordinados o bajo el régimen de honorarios;
 
-XXI. Contrato o pedido: El acto jurídico bilateral formalizado entre la Secretaría, dependencias, órganos o entidades, y los proveedores, respecto de las adquisiciones, arrendamientos de bienes muebles o servicios, que se deriva de licitaciones o adjudicaciones directas, según corresponda, en los términos del Reglamento;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
+
+XXI. Contrato o pedido: El acto jurídico bilateral formalizado entre la Secretaría, dependencias, órganos o entidades, y los proveedores, respecto de las adquisiciones, arrendamientos de bienes muebles o servicios, que se deriva de licitaciones o adjudicaciones directas, según corresponda, en los términos de esta Ley y su Reglamento;
 
 XXII. Tratados: Los convenios celebrados por escrito entre el Gobierno de los Estados Unidos Mexicanos y otro u otros sujetos de Derecho Internacional Público, ya sea que para su aplicación requieran o no de acuerdos en materias específicas, cualquiera que sea su denominación, mediante los cuales se asumen compromisos;
 
@@ -607,29 +611,43 @@ Las propuestas que gocen de este beneficio serán en todo caso, aquellas que se 
 
 Las dependencias órganos y entidades podrán adquirir bienes o servicios a precios unitarios, en la modalidad de abastecimiento simultáneo, cuando así lo hayan establecido en el procedimiento que corresponda, de los señalados en el artículo 22 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 36.
 
-En la modalidad de Licitación Simplificada Mayor, la Secretaría, dependencias, órganos y entidades podrán realizar adquisiciones o contratar arrendamientos y prestación de servicios, sin sujetarse al procedimiento de Licitación Pública, mediante invitación a cuando menos cinco licitantes siempre que el monto del contrato o pedido no exceda de los límites establecidos en el Reglamento de esta ley.
+En la modalidad de Licitación Simplificada Mayor, la Secretaría, dependencias, órganos y entidades podrán realizar adquisiciones o contratar arrendamientos y prestación de servicios, sin sujetarse al procedimiento de Licitación Pública, mediante invitación a cuando menos cinco licitantes siempre que el monto del contrato o pedido no exceda de los montos establecidos para tal efecto en el Presupuesto General de Egresos del Estado o el que corresponda.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-La modalidad de Licitación Simplificada Menor, se podrá ejercer por la Secretaría, dependencias, órganos y entidades para la contratación de adquisiciones, arrendamientos y prestación de servicios, sin sujetarse al procedimiento de Licitación Pública, a través de invitación a cuando menos tres licitantes, siempre que el monto del Contrato o pedido no exceda de los límites establecidos en el Reglamento de esta Ley.
+La modalidad de Licitación Simplificada Menor, se podrá ejercer por la Secretaría, dependencias, órganos y entidades para la contratación de adquisiciones, arrendamientos y prestación de servicios, sin sujetarse al procedimiento de Licitación Pública, a través de invitación a cuando menos tres licitantes, siempre que el monto del Contrato o pedido no exceda de los montos establecidos para tal efecto en el Presupuesto General de Egresos del Estado o el que corresponda.
 
 En cualquiera de las anteriores modalidades se invitará a los licitantes que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios y cuyas actividades comerciales o profesionales estén relacionadas con los bienes, arrendamientos o servicios objeto del pedido o Contrato a celebrarse.
 
-En las Licitaciones Simplificadas, Menores y Mayores se deberán entregar las cotizaciones por escrito en sobre cerrado y firmado por el licitante, en el período y horario establecido. Cumplido el término para la recepción de cotizaciones, se elaborará y firmará una relación de los sobres recibidos, la cual se presentará invariablemente en la fecha de la reunión correspondiente; en esta se procederá a la apertura de sobres y al análisis y valorización de las propuestas a fin de elaborar el cuadro comparativo de cotizaciones, bajo el cual se efectuará la designación del Proveedor ganador y la adjudicación de los pedidos y contratos.
+En las Licitaciones Simplificadas Menores y Mayores se deberán entregar las cotizaciones por escrito en sobre cerrado y firmado por el licitante, en el período y horario establecido. Cumplido el término para la recepción de cotizaciones, se elaborará y firmará una relación de los sobres recibidos, la cual se presentará invariablemente en la fecha de la reunión correspondiente; en esta se procederá a la apertura de sobres y al análisis y valorización de las propuestas a fin de elaborar el cuadro comparativo de cotizaciones, bajo el cual se efectuará la designación del Proveedor ganador y la adjudicación de los pedidos y contratos.
 
-En la aplicación de este precepto, cada operación deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos y límites que establezca el Reglamento de la Ley, en la inteligencia de que, en ningún caso, el importe total de la misma podrá ser fraccionado para que quede comprendido, en los supuestos a que se refiere este artículo. Tratándose de arrendamiento o prestación de servicio, se podrán llevar a cabo los mismos procedimientos, cuando el monto de las mensualidades corresponda a un doceavo de los límites señalados; en caso de no existir mensualidades, se tomarán como base los límites indicados para cada operación.
+En la aplicación de este precepto, cada operación deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos y límites que establezca el Presupuesto General de Egresos del Estado o el que corresponda, en la inteligencia de que, en ningún caso, el importe total de la misma podrá ser fraccionado para que quede comprendido, en los supuestos a que se refiere este artículo. Tratándose de arrendamiento o prestación de servicios, se podrán llevar a cabo los mismos procedimientos, cuando el monto de las mensualidades corresponda a un doceavo de los límites señalados; en caso de no existir mensualidades, se tomarán como base los límites indicados para cada operación.
 
-Los montos mínimos y máximos se fijarán atendiendo a la cuantía de la adquisición, arrendamiento y servicio, considerado individualmente y en función de la inversión total autorizada a las dependencias, órganos y entidades.
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+###### Artículo 36 Bis.
+
+La modalidad de Adjudicación Directa se podrá ejercer por la Secretaría, dependencias, órganos y entidades para la contratación de adquisiciones, arrendamientos y prestación de servicios, sin autorización del Comité de Compras y sin sujetarse a los procedimientos establecidos para las modalidades señaladas en las fracciones I a la III del artículo 22 de la presente Ley, siempre que el monto del Contrato o pedido no exceda de los montos máximos establecidos para tal efecto en el Presupuesto General de Egresos del Estado o el que corresponda.
+
+Los montos máximos que se establezcan para la modalidad de Adjudicación Directa a que se refiere el presente numeral, no serán aplicables en el caso de los supuestos previstos en los artículos 21 párrafo segundo y 38 de la presente Ley.
+
+La suma de las operaciones que se realicen con fundamento en este artículo no podrá exceder del treinta por ciento del presupuesto para adquisiciones, arrendamientos y prestación de servicios autorizado a la dependencia, órgano o entidad en cada ejercicio presupuestario.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+###### Artículo 36 Ter.
+
+Para contratar adquisiciones, arrendamientos y prestación de servicios mediante los procedimientos que establece el artículo 22 de la Ley, la Secretaría, dependencias, órganos y entidades, deberán observar los criterios y directrices que determine el Comité de Compras, dentro del ámbito de su competencia y de conformidad con la normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2021)</small>
 
 ###### Artículo 37.
 
-En los supuestos y con sujeción a las formalidades que prevén los artículos 38, 39 ó 40 de la presente Ley, la Secretaría podrá optar por fincar pedidos o celebrar contratos de manera directa, respecto de las adquisiciones, arrendamientos o servicios que en las propias disposiciones se señalen, sin llevar a cabo los procedimientos que establecen los artículos 21 y 22 de la misma.
+En los supuestos y con sujeción a las formalidades que prevén los artículos, 38, 39 o 40 de la presente Ley, la Secretaría podrá optar por fincar pedidos o celebrar contratos de manera directa, respecto de las adquisiciones, arrendamientos o servicios que en las propias disposiciones se señalen, sin llevar a cabo los procedimientos que establecen los artículos 21 y 22 fracciones I a la III de esta Ley.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 La opción que la Secretaría ejerza en los términos del párrafo anterior deberá justificarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado. El dictamen a que se refiere el artículo 34 de esta Ley deberá motivarse y fundarse adecuadamente para acreditar que la adquisición, el arrendamiento o el servicio de que se trate se encuadra en alguno de los supuestos previstos en los artículos 25, fracción I, 38, 39 ó 40 de la Ley, expresando de entre los supuestos en ellos establecidos, aquellos en que se justifica el ejercicio de la opción.
 
@@ -649,11 +667,7 @@ II. Cuando peligre la integridad de los habitantes del Estado;
 
 III. Cuando sea necesario salvaguardar los intereses del Estado; y
 
-(NOTA: EL 06 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 99/2018 Y SU ACUMULADA 101/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2018)</small>
-
-IV. CUANDO SE TRATE DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS QUE SEAN NECESARIOS PARA LA REALIZACIÓN DE PROYECTOS, OBRAS Y/O ACCIONES QUE DETONEN EL EMPLEO, MEJOREN LA INFRAESTRUCTURA E IMPULSEN EL DESARROLLO ECONÓMICO Y/O SOCIAL DEL ESTADO.
+IV. (DEROGADA, P.O. 27 DE FEBRERO DE 2021)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2019)</small>
 
@@ -693,27 +707,15 @@ IX.- Cuando se trate de patentes de bienes o servicios, obras de arte, derechos 
 
 X.- Cuando se trate de armamento, vehículos, equipo, bienes o servicios relacionados directamente con la seguridad pública, la procuración de justicia y la reinserción social;
 
-(NOTA: EL 06 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 99/2018 Y SU ACUMULADA 101/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+XI.- (DEROGADA, P.O. 27 DE FEBRERO DE 2021)
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2018)</small>
-
-XI.- CUANDO SE TRATE DE ADQUISICIONES ARRENDAMIENTOS Y SERVICIOS, QUE SEAN NECESARIOS PARA LA REALIZACIÓN DE PROYECTOS ESTRATÉGICOS QUE SEAN CONVENIDOS CON LA FEDERACIÓN O CON LAS EMPRESAS PRODUCTIVAS DEL ESTADO RESPECTO A LAS ACTIVIDADES EN MATERIA ENERGÉTICA PREVISTAS POR LAS LEYES RESPECTIVAS;
-
-(NOTA: EL 06 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 99/2018 Y SU ACUMULADA 101/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2018)</small>
-
-XII.- CUANDO SE TRATE DE ADQUISICIONES ARRENDAMIENTOS Y SERVICIOS, QUE SEAN NECESARIOS PARA ATENDER PROGRAMAS O PROYECTOS DESTINADOS A DETONAR EL EMPLEO, MEJORAR LA INFRAESTRUCTURA E IMPULSAR EL DESARROLLO ECONÓMICO Y SOCIAL DEL ESTADO;
+XII.- (DEROGADA, P.O. 27 DE FEBRERO DE 2021)
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2018)</small>
 
 XIII.- Cuando se trate de adquisiciones, arrendamientos o servicios que se requieran para atender los casos previstos en el artículo 39 Bis de esta Ley; y
 
-(NOTA: EL 06 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 99/2018 Y SU ACUMULADA 101/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2018)</small>
-
-XIV.- EN LOS CASOS Y POR EL MONTO QUE DETERMINE EL COMITÉ DE COMPRAS CON LA FINALIDAD DE ATENDER LA OPERATIVIDAD DE LA SECRETARÍA, DEPENDENCIAS, ÓRGANOS Y ENTIDADES.
+XIV.- (DEROGADA, P.O. 27 DE FEBRERO DE 2021)
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -1382,3 +1384,17 @@ CUARTO. El Comité de Compras realizará las modificaciones que considere necesa
 Reglamento, dentro de los ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto.
 
 QUINTO. En lo que se realizan las adecuaciones mencionadas en los artículos Transitorios Tercero y Cuarto del presente Decreto, todas las menciones que se refieren a la Secretaría Técnica, se entenderán hechas a la Coordinación General de Asuntos Jurídicos.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 285 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2 FRACCIONES XIII, XIV Y XXI, 36, Y PRIMER PÁRRAFO DEL 37; SE ADICIONAN LOS ARTÍCULOS 38 BIS Y 36 TER; Y SE DEROGAN LA FRACCIÓN IV DEL ARTÍCULO 38 Y LAS FRACCIONES XI, XII Y XIV DEL ARTÍCULO 39, TODOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El titular del Poder Ejecutivo del Estado realizará las adecuaciones conducentes al Reglamento de esta Ley en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- Para el ejercicio fiscal 2021, los montos máximos de contratación conforme a esta Ley para la Secretaría de Administración e Innovación Gubernamental serán para la modalidad de Licitación Simplificada Mayor, hasta 50,000 veces el valor de la Unidad de Medida y Actualización, sin incluir el Impuesto al Valor Agregado; para la modalidad de Licitación Simplificada Menor, hasta 19,000 veces el valor de la Unidad de Medida y Actualización, sin incluir el Impuesto al Valor Agregado; y para la modalidad de Adjudicación Directa, hasta 3,500 veces el valor de la Unidad de Medida y Actualización, sin incluir el Impuesto al Valor Agregado; de conformidad con lo establecido en el artículo 33 fracción II de la Ley Orgánica del Poder Ejecutivo del Estado.
+
+QUINTO.- Para el ejercicio fiscal 2021, los montos máximos de contratación conforme a esta Ley para las dependencias, órganos y entidades serán para la modalidad de Licitación Simplificada Mayor, hasta 30,000 veces el valor de la Unidad de Medida y Actualización, sin incluir el Impuesto al Valor Agregado; para la modalidad de Licitación Simplificada Menor, hasta 12,500 veces el valor de la Unidad de Medida y Actualización, sin incluir el Impuesto al Valor Agregado; y para la modalidad de Adjudicación Directa, hasta 1,600 veces el valor de la Unidad de Medida y Actualización, sin incluir el Impuesto al Valor Agregado.
