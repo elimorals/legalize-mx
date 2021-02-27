@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2020-11-05"
+last_updated: "2021-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -413,7 +413,7 @@ I. Proponer e instrumentar la política fiscal y de deuda pública del Estado, t
 
 II. Proyectar y calcular el ingreso público del Estado, de acuerdo con la demanda del gasto público;
 
-III. Participar en la Comisión Gasto-Financiamiento para analizar y proponer al Gobernador del Estado los niveles de gasto público, su calendario y sus fuentes de financiamiento, en concordancia con los planes y programas de mediano y largo plazo y considerando las políticas fiscal y de deuda pública;
+III. (DEROGADA, P.O. 27 DE FEBRERO DE 2021)
 
 IV. Estudiar, formular y presentar al Ejecutivo el anteproyecto de la Ley de Ingresos;
 
@@ -2096,3 +2096,11 @@ P.O. 5 DE NOVIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1123.- SE REFORMA EL ARTÍCULO 34 Y DEROGA DEL ARTÍCULO 3º LA FRACCIÓN VII, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE DEROGA DEL ARTÍCULO 33 LA FRACCIÓN III, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
