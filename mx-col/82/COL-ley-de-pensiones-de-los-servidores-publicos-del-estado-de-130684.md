@@ -4,7 +4,7 @@ identifier: "COL-ley-de-pensiones-de-los-servidores-publicos-del-estado-de-13068
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-28"
-last_updated: "2019-03-16"
+last_updated: "2021-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,9 @@ state: "COL"
 ---
 # LEY DE PENSIONES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE COLIMA
 
-> <small>[N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL TRANSITORIO ARTICULO PRIMERO DEL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL DÍA 1 DE ENERO DE 2019.]</small>
-
 LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE MARZO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el viernes 28 de septiembre de 2018.
 
@@ -1231,9 +1227,9 @@ I. El cónyuge supérstite, sólo o en concurrencia con los hijos del afiliado o
 
 II. A falta de cónyuge, la concubina o concubinario, por sí solos o en concurrencia con los hijos del afiliado o pensionado; o estos solos a falta de concubina o concubinario; o
 
-(NOTA: EL 25 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII, PARTE PRIMERA Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 91/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE JUNIO DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
 
-III. A falta de cónyuge, hijos, concubina o concubinario, la pensión se entregará a la madre o padre, conjunta o separadamente, en caso de que hubiesen dependido económicamente del afiliado o pensionado Y NO POSEAN UNA PENSIÓN PROPIA DERIVADA DE CUALQUIER RÉGIMEN DE SEGURIDAD SOCIAL.
+III. A falta de cónyuge, hijos, concubina o concubinario, la pensión se entregará a la madre o padre, conjunta o separadamente, en caso de que hubiesen dependido económicamente del afiliado o pensionado.
 
 2. Las personas divorciadas no tendrán derecho a la pensión de quien haya sido su cónyuge, a menos que a la muerte del causante, éste estuviese ministrándole alimentos por condena judicial y siempre que no existan viuda o viudo, hijos, concubina o concubinario y ascendientes con derecho a la misma. Cuando las personas divorciadas disfrutasen de la pensión en los términos de este artículo, perderán dicho derecho si contraen nuevas nupcias o si viviesen en concubinato.
 
@@ -2296,3 +2292,11 @@ SECRETARIO GENERAL DE GOBIERNO
 ARNOLDO OCHOA GONZÁLEZ
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 414.- POR EL QUE SE REFORMA EL NUMERAL 1, FRACCIÓN III DEL ARTÍCULO 92 DE LA LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
