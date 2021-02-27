@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2020-12-24"
+last_updated: "2021-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -1151,9 +1151,15 @@ XIV. Recibir la dotación de armas de fuego, municiones y equipo policiaco; así
 
 XV. Participar en el establecimiento de fondos de apoyo para beneficio propio y de su familia, con las autoridades y los elementos de seguridad pública;
 
-XVI. Permanecer en su cargo cumpliendo con las funciones inherentes al mismo, excepto en los casos previstos por la presente Ley y su Reglamento, y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
 
-XVII. Las demás que les confieran las leyes y reglamentos en la materia.
+XVI. Permanecer en su cargo cumpliendo con las funciones inherentes al mismo, excepto en los casos previstos por la presente Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2021)</small>
+
+XVII. Recibir orientación, asesoría y tratamiento psicológico, lo cual deberá de ser otorgado por la institución de seguridad pública a la que pertenezcan, y
+
+XVIII. Las demás que les confieran las leyes y reglamentos en la materia.
 
 ###### ARTICULO 58.
 
@@ -2900,3 +2906,11 @@ P.O. 24 DE DICIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1119.- SE REFORMA EL ARTÍCULO 57 EN SU FRACCIÓN XVI Y ADICIONA AL MISMO ARTÍCULO 57 UNA FRACCIÓN, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
