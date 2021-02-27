@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2020-11-21"
+last_updated: "2021-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -763,11 +763,15 @@ XIV. Promover el uso de tecnologías de información y comunicación en las MIPY
 
 XV. Promover la diferenciación y la explotación de nichos de mercado por parte de las MIPYMES;
 
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
 
-XVI. Realizar acciones como eventos, programas y asesoría específica para apoyar a las pequeñas y medianas empresas en la adquisición de conocimientos y destrezas, en lo referente al desarrollo de proveedores, y
+XVI. Realizar acciones como eventos, programas y asesoría específica para apoyar a las pequeñas y medianas empresas en la adquisición de conocimientos y destrezas, en lo referente al desarrollo de proveedores;
 
-XVII. Las demás que emanen de las atribuciones del Consejo y el reglamento.
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2021)</small>
+
+XVII. Impulsar la educación financiera entre los emprendedores de las MIPYMES, y
+
+XVIII. Las demás que emanen de las atribuciones del Consejo y el reglamento.
 
 ###### ARTÍCULO 65.
 
@@ -1012,3 +1016,11 @@ P.O. 21 DE NOVIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1120.- SE REFORMA EL ARTÍCULO 64 EN SU FRACCIÓN XVI Y ADICIONA AL MISMO ARTÍCULO 64 UNA FRACCIÓN (SIC), DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
