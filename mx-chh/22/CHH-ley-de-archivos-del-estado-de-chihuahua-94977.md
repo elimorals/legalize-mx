@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-archivos-del-estado-de-chihuahua-94977"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-26"
-last_updated: "2016-10-03"
+last_updated: "2021-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE ARCHIVOS DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNDÉCIMO TRANSITORIO DE LA LEY DE ARCHIVOS PARA EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 27 DE FEBRERO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ARCHIVOS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 26 de junio de 2013.
 
@@ -826,3 +828,51 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/EXLEY/0968/2021 X P.E. LEY DE ARCHIVO PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Hasta en tanto se expidan el Catálogo de Disposición Documental y demás normas para determinar los procedimientos para la disposición documental, no se permitirá la eliminación de ningún documento.
+
+###### ARTÍCULO TERCERO.
+
+El Presupuesto de Egresos del Estado para el año 2022 deberá establecer la previsión presupuestal correspondiente para permitir la integración, funcionamiento y aplicación de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados se cubrirán con cargo a sus respectivos presupuestos aprobados para el ejercicio fiscal y los subsecuentes.
+
+###### ARTÍCULO QUINTO.
+
+El Poder Ejecutivo del Estado, deberá emitir dentro de los 180 días hábiles posteriores a la entrada en vigor del presente Decreto, la iniciativa respectiva previendo lo relativo al Capítulo III, del Título Cuarto de la presente Ley, que establezca la creación, la naturaleza, y la estructura orgánica y ocupacional, así como el presupuesto correspondiente del Archivo General del Estado de Chihuahua.
+
+###### ARTÍCULO SEXTO.
+
+El Archivo General del Estado de Chihuahua comenzará a operar en enero del año 2022.
+
+###### ARTÍCULO SÉPTIMO.
+
+De manera transitoria, a partir de la promulgación de la presente Ley, la Secretaría de Cultura tendrá a su cargo la tarea de realizar las funciones del Archivo General del Estado de Chihuahua, a través de la Dirección General de Archivos, la cual tendrá por objeto sentar las bases para el desarrollo del Sistema Estatal de Archivos, así como representar al Gobierno del Estado ante el Consejo Nacional de Archivos.
+
+###### ARTÍCULO OCTAVO.
+
+La Dirección General de Archivos contará con presupuesto y personal suficiente para desarrollar e instrumentar los programas de apoyo a los sujetos obligados orientados a: diagnósticos de la situación de los archivos; capacitación archivística; planeación y desarrollo de los Sistemas Institucionales de Archivos; creación de los Instrumentos de Consulta y Control Archivístico; sistemas automatizados de gestión y control de documentos; organización y conservación documental y fomento a la cultura y buenas prácticas archivísticas.
+
+###### ARTÍCULO NOVENO.
+
+Una vez instituido el Archivo General del Estado contará con 180 días para la creación del Reglamento que disponga la estructura, organización y funcionamiento del Órgano.
+
+###### ARTÍCULO DÉCIMO.
+
+Para el año 2022 el personal de la Dirección General de Archivos pasará a formar parte del Archivo General del Estado de Chihuahua, con excepción del Archivo Histórico del Estado que permanecerá adscrito a la Secretaría de Cultura.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Se abroga la Ley de Archivos del Estado de Chihuahua publicada en el Periódico Oficial del Estado el 26 de junio de 2013.
