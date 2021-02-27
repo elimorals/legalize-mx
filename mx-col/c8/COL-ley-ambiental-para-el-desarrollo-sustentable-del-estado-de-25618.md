@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2018-09-29"
+last_updated: "2021-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -1703,9 +1703,13 @@ Las áreas naturales protegidas de competencia estatal se establecerán mediante
 
 I. La categoría de área natural protegida que se constituye, así como la finalidad u objetivos de su declaratoria;
 
-II. La delimitación precisa del área, ubicación, superficie, medidas y linderos, plano geográfico y, en su caso, zonificación correspondiente;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
 
-III. Las limitaciones y modalidades al uso del suelo, reservas, provisiones, destinos y actividades, así como lineamientos para el manejo de los recursos naturales del área;
+II. La delimitación precisa del área, ubicación, superficie, deslinde, plano de ubicación y, en su caso, zonificación correspondiente;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
+
+III. Las modalidades de uso del suelo y los lineamientos para el uso y aprovechamiento de los recursos naturales del área;
 
 IV. La descripción de las actividades que podrán llevarse a cabo en el área, sus limitaciones y modalidades;
 
@@ -1713,9 +1717,13 @@ V. Los responsables de su manejo;
 
 VI. Las causas de utilidad pública que sirvan de base para la expropiación del área por parte de la autoridad competente, cuando ésta se requiera en los términos de las disposiciones aplicables;
 
-VII. Los lineamientos generales para su administración y para la elaboración del programa de manejo del área;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
 
-VIII. La determinación y especificación de los elementos naturales o reservas de la biodiversidad cuya protección o conservación se pretenda lograr; y
+VII. Los lineamientos generales para su administración y para la elaboración del programa de manejo del área; el establecimiento de órganos colegiados representativos; y en caso de considerarse procedente, la creación de fideicomisos o fondos;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
+
+VIII. La determinación y especificación de los elementos naturales cuya protección, restauración y conservación se pretenda lograr; y
 
 IX. Los lineamientos para la realización de las acciones de preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de las áreas naturales protegidas, para su administración y vigilancia, así como las reglas administrativas a que se sujetarán las actividades dentro del área respectiva, conforme a lo dispuesto en ésta y otras leyes aplicables.
 
@@ -1795,7 +1803,9 @@ En tanto se expide el programa de manejo correspondiente, la Secretaría emitir�
 
 La Secretaría formulará dentro del plazo de un año contado a partir de la publicación de la declaratoria respectiva en el Periódico Oficial, el programa de manejo del área natural protegida de que se trate, dando participación a los habitantes, propietarios y poseedores de los predios en ella incluidos, a las dependencias competentes, a los gobiernos municipales, organizaciones sociales, públicas y privadas y demás personas interesadas.
 
-Una vez establecida un área natural protegida de competencia estatal, la Secretaría deberá designar un administrador del área de que se trate, quien será responsable de coordinar la formulación, ejecución y evaluación del programa de manejo correspondiente, de conformidad con lo dispuesto en esta Ley y las disposiciones que de ella deriven.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+Una vez establecida un área natural protegida de competencia estatal, la secretaría deberá designar un administrador del área de que se trate, quien será responsable de coordinar la formulación, ejecución y evaluación del programa de manejo correspondiente, de conformidad con lo dispuesto en esta Ley y las disposiciones que de ella deriven. Además, se creará un órgano colegiado representativo cuyo objeto será evaluar, planear y diseñar en forma coordinada, con la autoridad responsable, las bases para las decisiones administrativas dentro de las áreas naturales protegidas y áreas de valor ambiental estatales, en los términos que establezca el Decreto previsto por el artículo 106 de esta ley, que al efecto se emita.
 
 ###### ARTÍCULO 116.
 
@@ -3100,3 +3110,9 @@ P.O. 29 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 534 POR EL QUE SE REFORMAN Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS PARA EL ESTADO DE COLIMA Y DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA, Y SE REFORMAN LOS ARTÍCULOS 40 Y 41 DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 413.- POR EL QUE SE REFORMA EL ARTÍCULO 106, FRACCIONES II, III, VII Y VIII, ASÍ COMO, EL ARTÍCULO 115, PÁRRAFO SEGUNDO, DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
