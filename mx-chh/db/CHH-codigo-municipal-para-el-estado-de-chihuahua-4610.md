@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2020-12-12"
+last_updated: "2021-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -105,13 +105,13 @@ El Ayuntamiento es la autoridad competente para interpretar la legislación muni
 
 Esta interpretación debe preservar la perspectiva de derechos humanos, de género, e interculturalidad, así como los principios constitucionales y aquellos establecidos en el presente Código.
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 3 Bis.
 
-Los municipios, en el ámbito de sus respectivas competencias, expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en materia de derechos humanos de las mujeres, ratificados por el Estado Mexicano.
+Los municipios, en el ámbito de sus respectivas competencias, expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con las leyes y los Tratados Internacionales en materia de derechos humanos de las mujeres, ratificados por el Estado Mexicano.
 
-Los Municipios podrán coordinarse con la Federación y el Estado para garantizar el derecho a que se refiere el párrafo anterior, en los términos de la legislación aplicable.
+Los Municipios deberán coordinarse con la Federación y el Estado para garantizar el derecho a que se refiere el párrafo anterior, en los términos de la legislación aplicable.
 
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -853,6 +853,10 @@ XXXVI.- Los Ayuntamientos podrán solicitar la comparecencia de cualquier funcio
 
 XXXVII.- Implementar, en coordinación con las dependencias federales y estatales competentes, un Sistema de Profesionalización y Capacitación del Servicio Público Municipal, mediante modelos de formación continua de los servidores públicos municipales y de certificación de competencias laborales para los titulares de las diversas dependencias municipales a las que se refiere el último párrafo del artículo 60 de este Código; dicha certificación deberá ser expedida por instituciones reconocidas en el Sistema Nacional de Competencias, en los términos que establezca la Ley.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+En los municipios en los que exista la figura de Administración de la Ciudad, será la persona titular de la misma, la responsable del Sistema de Profesionalización y Capacitación del Servicio Público Municipal, así como del cumplimiento de lo dispuesto en el párrafo anterior.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2001)</small>
 
 XXXVIII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
@@ -893,7 +897,17 @@ Los establecimientos dedicados a las actividades relacionadas con productos met�
 
 XLIV.- Fomentar la lactancia materna, procurando adecuar un espacio para que las madres que laboran en los Ayuntamientos, la proporcionen a sus hijos.
 
-XLV.- (DEROGADA, P.O. 11 DE ENERO DE 2020)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2021)</small>
+
+XLV.- Designar a la persona que ocupará la titularidad de la Administración de la Ciudad de entre una terna generada por una Comisión Seleccionadora, mediante la aprobación de por lo menos las dos terceras partes de quienes integran el Ayuntamiento, de conformidad al procedimiento que para efecto de la presente fracción señalen los reglamentos particulares de los municipios.
+
+El voto para la designación a que alude esta fracción en ningún momento podrá realizarse a través de cédula.
+
+La Comisión Seleccionadora será constituida por el Ayuntamiento, se integrará por no más cinco ni menos de tres ciudadanas o ciudadanos, su cargo será honorífico, no podrán tener interés alguno con el Ayuntamiento y no podrán ser propuestos a una candidatura al cargo de titular de la Administración de la Ciudad por un periodo de seis años contados a partir de la disolución de dicha Comisión.
+
+En la conformación de la Comisión prevalecerá la paridad. El Ayuntamiento convocará, preferentemente, a las instituciones de educación media superior y superior; al sector empresarial; así como a organizaciones de la sociedad civil del municipio, para proponer candidatos a fin de integrar la Comisión.
+
+Los plazos, requisitos y procedimientos para la conformación de la Comisión se estarán a lo dispuesto en el reglamento respectivo.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -933,17 +947,17 @@ LIV.- Las demás que le confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2021)</small>
 
-###### ARTÍCULO 29.
+###### ARTICULO 29.
 
-La persona titular de la Presidencia Municipal tendrá las siguientes facultades y obligaciones:
+La o el Presidente Municipal tendrá las siguientes facultades y obligaciones:
 
 I.- Presidir las sesiones del Ayuntamiento, con voz y voto y convocar al Ayuntamiento a sesiones extraordinarias;
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
 
-II.- Nombrar y remover libremente al funcionariado y personas empleadas de la Administración Municipal, cuando no esté determinado de otro modo en las leyes. Proponer mediante terna al Ayuntamiento la aprobación de la persona titular de la Dirección de Seguridad Pública Municipal o su equivalente;
+II.- Nombrar y remover libremente al funcionariado y personas empleadas de la Administración Municipal, cuando no esté determinado de otro modo en las leyes. Proponer mediante terna al Ayuntamiento la aprobación de la persona titular de la Dirección de Seguridad Pública Municipal o su equivalente; y someter a conocimiento del Ayuntamiento la suspensión o destitución, del empleo, cargo o comisión o inhabilitación temporal para desempeñarlos en el servicio público, que haya decidido la autoridad competente, en caso de haber incurrido en alguna falta que así lo amerite, en los términos de la Ley General de Responsabilidades Administrativas.
 
 III.- Informar oportunamente al Ayuntamiento, acerca de la ejecución de los acuerdos aprobados;
 
@@ -1815,6 +1829,10 @@ X.- Dirección o Departamento de Ecología; y
 
 XI.- Dirección de Educación y Cultura.
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2021)</small>
+
+XII.- Administración de la Ciudad, tratándose de aquellos municipios que cuentan con una población igual o mayor a cien mil habitantes.
+
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
 Cuando las posibilidades económicas de un municipio no lo permitan, o sus necesidades no requieran el funcionamiento de todas las dependencias señaladas en este artículo, por acuerdo del Ayuntamiento podrán encomendarse dos o más ramos de la administración municipal a cada titular, sin que por ello tengan derecho a percibir otro sueldo que el asignado en el presupuesto, por el ejercicio de la función pública en uno solo de los ramos encomendados; asimismo, los Ayuntamientos podrán crear las dependencias que sean necesarias. Los municipios que cuenten sustancialmente con población indígena, procurarán establecer una Dirección que se encargue de la atención específica de sus asuntos.
@@ -1870,6 +1888,38 @@ II. No contar con antecedentes policíacos por hechos que pudieran ser constitut
 III. Contar con el registro y certificación emitidos por el Centro Estatal de Control de Confianza, y
 
 IV. Cursar y aprobar la capacitación de inducción en la Escuela Estatal de Policía o, en su caso, acreditarla ante esta.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+ARTICULO 61 TER. Son atribuciones de la persona titular de la Administración de la Ciudad:
+
+I. Supervisar y evaluar las acciones necesarias y relativas a la prestación de servicios públicos municipales, así como de la gestión de las dependencias y entidades de la Administración Pública Municipal que se asignen a su cargo.
+
+II. Colaborar y auxiliar a la persona titular de la Presidencia Municipal en los asuntos de la Administración Pública Municipal.
+
+III. Enviar a la o el Tesorero un programa de trabajo anual acompañado del proyecto de presupuesto de egresos para la gestión de las dependencias y entidades de la Administración Pública Municipal a su cargo.
+
+IV. Asegurar la gestión eficiente de las capacidades y recursos disponibles de las dependencias y entidades de la Administración Pública Municipal a su cargo.
+
+V. Coadyuvar con las áreas responsables, en el proceso de desarrollo y evaluación de los instrumentos del Sistema Estatal de Planeación municipal, con base en lo establecido en las disposiciones aplicables.
+
+VI. Establecer mecanismos de control y evaluación, así como de estándares de calidad respecto a las funciones y responsabilidades de la Administración Pública Municipal a su cargo, mismos que deberán formar parte del programa anual.
+
+VII. Coordinar y ejecutar las acciones necesarias respecto al Sistema de Profesionalización y Capacitación del Servicio Público Municipal.
+
+VIII. Realizar ante el Ayuntamiento, propuestas de carácter normativo, financiero, administrativo y tecnológico a fin de mejorar la gestión de la Administración Pública Municipal.
+
+IX. Rendir ante el Ayuntamiento, un informe de actividades y resultados de manera semestral, así como cuando este último le llame a comparecer, de acuerdo al plan anual y presupuesto de egresos aprobados para la gestión de las funciones y responsabilidades a su cargo.
+
+X. Atender las solicitudes de la o el Presidente Municipal para comparecer ante el Ayuntamiento, o bien, cuando sea requerida por el propio Ayuntamiento.
+
+XI. Coordinarse con la persona titular de la Secretaría del Ayuntamiento para la mejor atención de las responsabilidades que le sean atribuibles.
+
+XII. Cumplir las instrucciones que le sean encomendadas por la o el Presidente Municipal.
+
+XIII. Ejercer las atribuciones y facultades que le sean delegadas por la o el Presidente Municipal.
+
+La Administración de la Ciudad contará con autonomía técnica, presupuestal y de gestión para la ejecución de sus atribuciones, de conformidad con el presente artículo y las reglamentaciones particulares de los municipios.
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -2379,6 +2429,20 @@ XI. Promover programas de sensibilización sobre acoso y hostigamiento sexual, v
 
 XII. Las demás establecidas en el presente Código, legislación federal y local aplicable.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+ARTICULO 74 QUÁTER. Además de los requisitos señalados en el artículo 61 del presente Código, se deberá cumplir con los siguientes:
+
+I. Tener título y cédula profesional de nivel licenciatura y acreditar preferentemente estudios de posgrado en el área administrativa o equivalente.
+
+II. Experiencia mínima comprobable de dos años en puestos ejecutivos en la Administración Pública Municipal.
+
+III. No haber sido sentenciado condenatoriamente por delito doloso, ni inhabilitado por resolución firme, en procedimiento administrativo de responsabilidad, como funcionaria o funcionario público.
+
+IV. No haber sido postulado para cargos de elección popular, ni haber ocupado la dirigencia de partido político alguno, en los últimos dos años anteriores al día del nombramiento.
+
+Durará en el cargo seis años, pudiendo ser reelecto por una sola ocasión para ocupar el mismo, durante el periodo inmediato posterior.
+
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 75.
@@ -2789,85 +2853,39 @@ XII.- Realizar las demás atribuciones que le fijen las leyes y sus reglamentos.
 
 ### CAPITULO UNICO. DE LA DECLARACION PATRIMONIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>[N. DE E. QUE EL PRESENTE ARTÍCULO FUE REFORMADO MEDIANTE DECRETO Nº LXVI/RFCOD/0976/2021 II P.O., PUBLICADO EL 27 DE FEBRERO DE 2021, QUE A LA LETRA ESTABLECE “ARTÍCULO 92. ... I. a VII. … VIII. La persona titular de la Administración de la Ciudad. IX. Aquellos que en el Municipio o entidades descentralizadas manejen, recauden, vigilen o administren fondos y/o recursos, ya sea por función o comisión.” PARA CONSULTAR EL CONTENIDO COMPLETO DEL ARTÍCULO, VÉASE EL TEXTO ANTERIOR AL DECRETO LXVI/RFCOD/0969/2021 X P.E.PUBLICADO EN EL 27 DE FEBRERO DE 2021]</small>
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 92.
 
-Están obligados a presentar declaración de situación patrimonial, bajo protesta de decir verdad, las y los siguientes servidores públicos del municipio:
+La información relacionada con las declaraciones de situación patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal de las y los servidores públicos de los municipios, deberá presentarse a través de medios electrónicos, de conformidad con lo establecido en la Ley General de Responsabilidades Administrativas.
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-I. La persona titular de la Presidencia Municipal;
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-II. La persona titular de la Sindicatura;
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-III. Las personas titulares de las Regidurías;
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-IV. La persona titular de la Secretaría;
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-V. La persona titular de la Oficialía Mayor;
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-VI. La persona titular de la Tesorería Municipal;
-
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
-
-VII. Las personas titulares de las Direcciones, Jefaturas de Departamento y de Oficina o puestos equivalentes;
-
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2012)</small>
-
-VIII. Aquellos que en el municipio o entidades descentralizadas manejen, recauden, vigilen o administren fondos y/o recursos, ya sea por función o comisión.
-
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2021)</small>
 
 ###### ARTICULO 93.
 
-Las y los servidores públicos municipales están obligados a presentar su declaración patrimonial ante la persona titular de la Presidencia Municipal, de lo que se dará cuenta en sesión de cabildo; y serán remitidas al órgano que para tal efecto designe el Ayuntamiento.
-
-Tratándose de la declaración de las personas titulares de la Presidencia Municipal, Regiduría y Sindicatura, serán presentadas ante el Congreso del Estado para el efecto de su registro y control, de conformidad con las disposiciones aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+Las declaraciones de situación patrimonial y de intereses de las y los servidores públicos de los municipios, deberán presentarse en los plazos previstos en la Ley General de Responsabilidades Administrativas.
 
 ###### ARTICULO 94.
 
-Las declaraciones de las y los servidores públicos municipales, deberán hacerse en los siguientes plazos:
-
-I.- La inicial, dentro de los sesenta días naturales siguientes a la toma de posesión;
-
-II.- La anual, durante el mes de septiembre de cada año;
-
-III.- La final, dentro de los sesenta días naturales, siguientes a la conclusión de la función o encargo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+(DEROGADO, P.O. 27 DE FEBRERO DE 2021)
 
 ###### ARTICULO 95.
 
-En caso de no presentarse la declaración inicial o anual en los plazos fijados, la persona titular de la Presidencia Municipal amonestará por escrito y requerirá al omiso, para que la presente dentro de un plazo de treinta días naturales, apercibido que de no hacerlo, se le impondrá una multa hasta por el cincuenta por ciento de sus percepciones, correspondientes a treinta días. La falta de requerimiento no exime del cumplimiento de su obligación.
-
-En caso de persistir la omisión, se le hará efectiva la multa y se le conminará para que de cumplimiento a lo requerido en un plazo de treinta días naturales, apercibido que de no hacerlo, causará baja.
-
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+(DEROGADO, P.O. 27 DE FEBRERO DE 2021)
 
 ###### ARTICULO 96.
 
-Si no se presenta la declaración final, se impondrá a la persona omisa una sanción pecuniaria, hasta por cien veces la unidad de medida y actualización a que corresponda el Municipio de que se trate y se dará vista al Ministerio Público, para que practique las investigaciones necesarias en cuanto a la situación patrimonial de la persona omisa y proceda conforme a derecho.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2021)
 
 ###### ARTICULO 97.
 
-El Ayuntamiento emitirá las bases y normas bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2021)
 
 ###### ARTICULO 98.
 
-Son aplicables supletoriamente al presente titulo, las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2021)
 
 ## TITULO OCTAVO. DE LA SUPLENCIA Y RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS MUNICIPALES
 
@@ -3798,6 +3816,18 @@ Sin perjuicio de su competencia constitucional, en el desempeño de las funcione
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2020)</small>
 
 Los municipios, a fin de lograr una mejor prestación de servicios públicos, y previo acuerdo entre sus ayuntamientos, podrán dentro de los ramos de competencia municipal, coordinarse y asociarse para el mejor ejercicio de las funciones que les correspondan. Cuando se trate de municipios de otro Estado, se deberá contar con la aprobación del Congreso. Así mismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+En los municipios que se cuente con la figura de Administración de la Ciudad, la persona que ocupe su titularidad será responsable de la evaluación y supervisión de lo dispuesto por este artículo de conformidad a los reglamentos particulares de cada Municipio, con excepción de lo previsto en su fracción I.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+Para efectos de la fracción I, del presente artículo, en relación con el artículo 40 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, los municipios deberán implementar los Módulos de Atención a la Violencia Familiar y de Género en sus demarcaciones territoriales, asignando para tal fin los recursos necesarios, y deberán privilegiar su instalación en los inmuebles destinados a la seguridad pública.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+Los municipios podrán convenir con el Ejecutivo Estatal o con otros municipios para el correcto funcionamiento de los Módulos a los que se refiere el párrafo anterior. Así mismo, deberán convenir con la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, para adscribir a personal ministerial especializado en dichos Módulos.
 
 ###### ARTICULO 181.
 
@@ -5524,3 +5554,33 @@ P.O. 12 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLYC/0749/2020 IX P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado de Chihuahua, a través del Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, a partir de la publicación del presente Decreto, contará con un plazo de 180 días naturales para publicar el Modelo Homologado de los Módulos de Atención a la Violencia Familiar y de Género.
+
+TERCERO.- Será prioritaria la instalación de Módulos de Atención a la Violencia Familiar y de Género en los municipios que no cuenten con ellos. Los Módulos de Atención ya instalados, tendrán la obligación de adecuar su operación al Modelo Homologado.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFCOD/0969/2021 X P.E., MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVI/RFCOD/0976/2021 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día diez de septiembre del año dos mil veintiuno.
+
+###### ARTÍCULO SEGUNDO.
+
+En su caso, háganse las previsiones presupuestales con efectos a partir del ejercicio fiscal 2022.
