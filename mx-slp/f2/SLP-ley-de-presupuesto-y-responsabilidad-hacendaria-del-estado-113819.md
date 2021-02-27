@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2020-12-15"
+last_updated: "2021-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -78,7 +78,7 @@ V. Cabildo: el cuerpo colegiado edilicio integrado por el presidente, regidores 
 
 VI. Clasificador por objeto del gasto: el instrumento publicado por el CONAC que permite registrar de manera ordenada, sistemática y homogénea las compras, los pagos y las erogaciones autorizadas en capítulos, conceptos y partidas, con base en la clasificación económica del gasto. Este clasificador permite formular y aprobar el proyecto de Presupuesto de Egresos desde la perspectiva económica y dar seguimiento a su ejercicio;
 
-VII. Comisión Gasto-Financiamiento: el órgano colegiado cuya integración y reglas generales de operación serán determinadas por Acuerdo del Ejecutivo, para auxiliarlo en la función administrativa. La Comisión podrá formular las recomendaciones que estime necesarias para que las decisiones que se tomen en materia de gasto público y su financiamiento, se apeguen a lo establecido en esta Ley, y mantengan congruencia con el Plan Estatal de Desarrollo;
+VII. (DEROGADA, P.O. 27 DE FEBRERO DE 2021)
 
 VIII. CONAC: Consejo Nacional de Armonización Contable;
 
@@ -556,11 +556,11 @@ d) Concurrencia con otros programas y proyectos de inversión.
 
 Los ejecutores del gasto sólo podrán realizar los trámites necesarios para llevar a cabo, contrataciones de adquisiciones, arrendamientos, servicios y obra pública, cuando tengan garantizada la disponibilidad de recursos financieros.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
 ###### ARTÍCULO 34.
 
-La programación y el ejercicio de recursos destinados a comunicación social se autorizarán por la Secretaría, en los términos de las disposiciones generales que para tal efecto emita la Comisión Gasto-Financiamiento.
-
-Los gastos que en los mismos rubros efectúen los demás ejecutores del gasto, se incluirán dentro de su presupuesto y se autorizarán por sus unidades de administración.
+La programación y el ejercicio de recursos destinados a comunicación social se autorizarán por la Secretaría, en los términos de las leyes aplicables. Los gastos que en los mismos rubros efectúen los demás ejecutores del gasto, se incluirán dentro de su presupuesto y se autorizarán por sus unidades de administración.
 
 ### CAPÍTULO III. De la Aprobación, y los Mecanismos de Comunicación y Coordinación
 
@@ -1407,5 +1407,13 @@ P.O. 15 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0956.- SE REFORMA EL ARTÍCULO 2º EN SU PÁRRAFO PRIMERO, DE (SIC) LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+[N . DE E. TRANSITORIOS DEL “DECRETO 1123.- SE REFORMA EL ARTÍCULO 34 Y DEROGA DEL ARTÍCULO 3º LA FRACCIÓN VII, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE DEROGA DEL ARTÍCULO 33 LA FRACCIÓN III, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
