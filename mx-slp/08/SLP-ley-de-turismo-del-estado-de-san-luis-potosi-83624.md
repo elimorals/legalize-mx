@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2020-11-21"
+last_updated: "2021-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -121,6 +121,10 @@ XXI. Promoción turística: el conjunto de actividades, estrategias y acciones d
 
 XXII. Recursos turísticos: son todos los elementos naturales o artificiales de un lugar o región del Estado que constituyen un atractivo para la actividad turística;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2021)</small>
+
+XXII Bis. Pueblos mágicos: localidad que a través del tiempo y ante la modernidad, ha conservado, valorado y defendido su herencia histórica, cultural y natural; y la manifiesta en diversas expresiones a través de su patrimonio tangible e intangible. Que cumple con lineamientos establecidos por la Secretaria de Turismo Federal para obtener y conservar dicho nombramiento;
+
 XXIII. Registro estatal de turismo: es el catálogo público de prestadores de servicios turísticos del Estado de San Luis Potosí;
 
 XXIV. Registro nacional de turismo: es el catálogo público de prestadores de servicios turísticos en el país, el cual constituye el mecanismo por el que el Ejecutivo Federal y las entidades federativas podrán contar con información sobre los prestadores de servicios turísticos a nivel nacional, con objeto de conocer mejor el mercado turístico y establecer comunicación con las empresas cuando se requiera;
@@ -197,9 +201,9 @@ III. Determinar las bases de coordinación de las facultades concurrentes entre 
 
 IV. Celebrar convenios con la Federación, y las entidades federativas, para la mejor prestación de los servicios turísticos;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
 
-V. Establecer las estrategias y mecanismos para mejorar la oferta turística estatal, considerando las características de cada zona del Estado para potenciar el atractivo turístico de cada una de ellas;
+V. Establecer las estrategias y mecanismos para mejorar la oferta turística estatal, considerando las características de cada zona del Estado, así como, las localidades que hayan obtenido el nombramiento de Pueblo Mágico, con el propósito de potenciar el atractivo turístico y mejorar las condiciones de vida de la población que habita y trabaja en estas regiones y localidades;
 
 VI. Fomentar la modernización de la actividad turística en el Estado;
 
@@ -1316,5 +1320,13 @@ P.O. 21 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0818- SE ADICIONA AL TÍTULO SEXTO EL CAPÍTULO VIII “DEL TURISMO GASTRONÓMICO” Y LOS ARTÍCULOS 62 BIS Y 62 TER, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1121.- SE REFORMA EL ARTÍCULO 6º EN SU FRACCIÓN V Y ADICIONA AL ARTÍCULO 4º LA FRACCIÓN XXI BIS, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
