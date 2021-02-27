@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2019-10-16"
+last_updated: "2021-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -407,6 +407,10 @@ Nombre propio
 
 El nombre propio será puesto libremente por quien registre el nacimiento de un niño y los apellidos serán los paternos de los progenitores. Si no se sabe quiénes son éstos, el nombre y apellidos serán puestos por el Oficial del Registro Civil.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+El oficial del Registro Civil, exhortará a quien presente al menor para que el nombre que se proponga no sea peyorativo, discriminatorio, diminutivo, infamante, denigrante, carente de significado o constituya un signo, símbolo, clave o siglas ni que exponga al menor a ser objeto de burla.
+
 ###### ARTICULO 49.
 
 De la mujer casada
@@ -447,7 +451,9 @@ Procede la modificación y, en su caso, el cambio de nombre con que una persona 
 
 I.- Si se demuestra que una persona ha usado, invariable y constantemente, en su vida social y jurídica otro nombre distinto al de su registro;
 
-II.- Si el nombre registrado expone a la persona al ridículo; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
+
+II.- Si el nombre registrado es peyorativo, discriminatorio, infamante, denigrante, carente de significado o constituya un signo, símbolo o siglas o porque se considere que se expone a la persona a burla; y
 
 III.- En el caso de homonimia, si el solicitante demuestra que el uso del homónimo le causa perjuicio moral o económico.
 
@@ -25854,6 +25860,14 @@ P.O. 16 DE OCTUBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 286 POR EL QUE “SE REFORMA EL ARTÍCULO 54, FRACCIÓN II; Y SE ADICIONA AL ARTÍCULO 48, UN SEGUNDO PÁRRAFO; AMBOS DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ###### ARTICULO PRIMERO.
 
