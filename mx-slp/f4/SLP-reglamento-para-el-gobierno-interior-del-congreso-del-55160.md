@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2020-05-14"
+last_updated: "2021-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -587,9 +587,13 @@ III. El Presidente del Supremo Tribunal de Justicia, o su representante, ocupar�
 
 Se consideran sesiones permanentes las que se realicen por acuerdo de los legisladores, y estarán condicionadas, por su importancia, al tiempo que se requiera para tratar un asunto determinado, hasta su solución.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
 ###### ARTICULO 49.
 
-En una sesión permanente únicamente se tratará el asunto expresamente comprendido en el acuerdo que la motivó. Resuelto el negocio, el Presidente, con la aprobación de la mayoría de los diputados presentes, dará por concluida la sesión.
+En una sesión permanente únicamente se tratará el asunto expresamente comprendido en el acuerdo que la motivó, si ocurriere alguno con el carácter de urgente, la Presidenta o el Presidente, convocará a sesión ordinaria o extraordinaria, según sea el caso.
+
+Resuelto el asunto o asuntos tratados en la sesión permanente, se leerá, discutirá, y en su caso se aprobará el dictamen, acuerdo, o proyecto de decreto que contenga las resoluciones tomadas en la misma, en consecuencia, la Presidenta o el Presidente, con la aprobación de la mayoría de los diputados presentes, dará por concluida la sesión.
 
 ### CAPITULO IV. DEL DESARROLLO DE LAS SESIONES
 
@@ -2950,5 +2954,13 @@ P.O. 14 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0676.- SE REFORMA LOS ARTÍCULOS 122 EN SU PÁRRAFO PRIMERO, 123, 126 EN SU FRACCIÓN II Y 146 EN SU FRACCIÓN III, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1124.- SE REFORMA EL ARTÍCULO 49, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
