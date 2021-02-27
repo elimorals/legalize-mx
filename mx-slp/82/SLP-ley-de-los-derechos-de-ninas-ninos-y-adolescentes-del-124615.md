@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2020-10-27"
+last_updated: "2021-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -1367,6 +1367,10 @@ Los espacios de alojamiento, respetarán el principio de separación y el derech
 
 En ningún caso una situación migratoria irregular, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+ARTÍCULO 84 BIS. El Sistema Estatal DIF o los sistemas municipales correspondientes, mediante una evaluación apegada a las garantías de seguridad y privacidad, identificarán a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo. En caso de identificación positiva se notificará al Instituto Nacional de Migración, con el fin de aplicar en su beneficio las medidas de protección especial que resulten necesarias.
+
 ### CAPÍTULO XX. DEL DERECHO A LA CULTURA
 
 ###### ARTÍCULO 85.
@@ -2596,3 +2600,11 @@ P.O. 27 DE OCTUBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1126.- SE ADICIONA EL ARTÍCULO 84 BIS, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
