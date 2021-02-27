@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-97205
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2019-10-22"
+last_updated: "2021-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de diciembre de 2013.
 
@@ -189,7 +189,9 @@ V. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
 VI. Códigos, Civil y Penal del Estado;
 
-VII. Códigos, de Procedimientos Civiles y Penales para el Estado, y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
+
+VII. Coídigo (sic) de Procedimientos Civiles para el Estado; y el Código Nacional de Procedimientos Penales, y
 
 VIII. Ley Orgánica del Municipio Libre.
 
@@ -1392,3 +1394,11 @@ P.O. 22 DE OCTUBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1122.- SE REFORMA EL ARTÍCULO 7° EN SU FRACCIÓN VII, DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
