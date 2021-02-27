@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2020-06-27"
+last_updated: "2021-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -144,6 +144,10 @@ XVI. Razones de género: Razón de género. Actitud y/o conducta a través de la
 > <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2019)</small>
 
 XVII. Relación desigual de poder. Aquella que se configura por prácticas socioculturales históricas basadas en la idea de la inferioridad de las mujeres o la superioridad de los varones, o en conductas estereotipadas de hombres y mujeres, que limitan total o parcialmente el reconocimiento o goce de los derechos de éstas, en cualquier ámbito en que desarrollen sus relaciones interpersonales.
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2021)</small>
+
+XVIII. Módulos de Atención a la Violencia Familiar y de Género: Espacio físico destinado para hacer cercano el acceso a la justicia y atender de manera integral, los hechos probablemente constitutivos de delitos que impliquen violencia contra las mujeres, así como de violencia familiar.
 
 ###### Artículo 5.
 
@@ -623,9 +627,13 @@ XIII. Convocar a los sectores de la sociedad para su integración al Sistema y e
 
 XIV. Cerciorarse que los refugios para la atención a mujeres víctimas de la violencia y centros de rehabilitación para agresores, cumplan con las especificaciones que las normas nacionales e internacionales exigen para la atención especializada a mujeres víctimas de violencia y de cualquier delito, así como dar parte a las autoridades correspondientes en caso de encontrar irregularidades graves que puedan ser constitutivas de un delito; y
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2021)</small>
 
-XV. Las demás que le señalen esta, otras leyes aplicables y sus reglamentos.
+XV. Elaborar el Modelo Homologado de los Módulos de Atención a la Violencia Familiar y de Género.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE FEBRERO DE 2021)</small>
+
+XVI. Las demás que señalen esta, otras leyes y sus reglamentos.
 
 ###### Artículo 20.
 
@@ -657,9 +665,9 @@ I. Fomentar el conocimiento y el respeto al derecho de toda persona a una vida s
 
 II. Transformar los modelos socioculturales de conducta de hombres y mujeres, incluyendo la propuesta y formulación de programas de educación formales y no formales, respectivamente, en todos los niveles y modalidades, con la finalidad de erradicar estereotipos que permitan o toleren la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
 
-III. Impulsar la capacitación con perspectiva de género del personal a cargo de la Fiscalía General del Estado;
+III. Impulsar la capacitación con perspectiva de género del personal a cargo de la Fiscalía General del Estado y de la Secretaría de Seguridad Pública, con especial énfasis a los integrantes del Servicio Profesional de Carrera ministerial, pericial y policial.
 
 IV. Impulsar la capacitación de Magistradas, Magistrados, Juezas, Jueces, Defensoras y Defensores de Oficio, y personal a cargo del Poder Judicial, a fin de dotarles de instrumentos que les permitan realizar su labor con perspectiva de género;
 
@@ -825,7 +833,17 @@ XVII. Exhortar a los medios de comunicación para que realicen jornadas de cero 
 
 XVIII. Promover la cultura de denuncia de la violencia contra las mujeres; y
 
-XIX. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2021)</small>
+
+XIX. Coadyuvar en la elaboración del Modelo Homologado de Módulos de Atención a la Violencia Familiar y de Género.
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2021)</small>
+
+XX. Verificar que los Centros de Atención a la Violencia contra las Mujeres operen bajo el Modelo Homologado de Módulos de Atención a la Violencia Familiar y de Género.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE FEBRERO DE 2021)</small>
+
+XXI. Las demás previstas en el cumplimiento de esta Ley.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -871,13 +889,17 @@ XV. Promover la cultura de denuncia de la violencia contra las mujeres;
 
 XVI. Implementar, en coordinación con las autoridades federales, en el ámbito de sus respectivas competencias, los programas, mecanismos y protocolos de seguridad, como el denominado Protocolo Alba, entre otros que tengan por objeto la localización inmediata de niñas, adolescentes y mujeres sustraídas, trasladadas o retenidas ilícitamente;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2021)</small>
 
-XVII. Las demás previstas para el cumplimiento de esta Ley.
+XVII. Adscribir personal ministerial calificado y con perspectiva de género, atención a víctimas e interés superior de la niñez a las instancias que operen bajo el Modelo Homologado de Módulos de Atención a la Violencia Familiar y de Género, considerando las circunstancias y necesidades de cada lugar en donde se encuentren ubicados.
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
 
-XVIII. Promover y proteger el ejercicio de los derechos humanos de las personas víctimas y ofendidas en casos de violencia contra las mujeres en razón de género.
+XVIII. Promover, proteger, respetar y garantizar el ejercicio de los derechos humanos, de las víctimas en casos de violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2021)</small>
+
+XIX. Las demás previstas para el cumplimiento de esta Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -965,13 +987,17 @@ II. Participar con las autoridades estatales en la conformación y consolidació
 
 III. Capacitar, con perspectiva de género, al personal del ayuntamiento y en especial a las personas que asisten a las víctimas de violencia, en coordinación con el Consejo;
 
-IV. Realizar las acciones necesarias para el cumplimiento del Programa;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
+
+IV. Realizar las acciones necesarias para el cumplimiento del programa, así como implementar y coadyuvar en la operación de los Módulos de Atención a la Violencia Familiar y de Género que trabajen, dentro de la infraestructura destinada a la Seguridad Pública del municipio.
 
 V. Fomentar la creación de refugios para la atención de mujeres víctimas de violencia y centros de atención para agresores, de acuerdo con su capacidad presupuestal y financiera;
 
 VI. Elaborar programas de sensibilización y proyectos culturales que promuevan la equidad de género y contribuyan a eliminar la violencia contra las mujeres;
 
-VII. Promover la participación de organismos públicos, privados y de la sociedad civil en programas y acciones de apoyo a las víctimas de violencia; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2021)</small>
+
+VII. Promover la participación de organismos públicos, privados y de la sociedad civil en programas y acciones de apoyo a las víctimas de violencia familiar y por razones de género.
 
 VIII. Las demás previstas para el cumplimiento de esta Ley.
 
@@ -1073,9 +1099,57 @@ V. Evitar que la atención que reciban las víctimas y el agresor sea proporcion
 
 VI. Prohibir los acuerdos reparatorios, por ser inviables en una relación de sometimiento entre la víctima y el agresor.
 
-### CAPÍTULO SÉPTIMO. DE LOS REFUGIOS PARA LA ATENCIÓN A MUJERES VICTIMAS DE VIOLENCIA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2021)</small>
 
-### CAPÍTULO OCTAVO. DE LOS CENTROS DE REHABILITACIÓN PARA AGRESORES
+### CAPÍTULO SEXTO BIS. DEL MODELO HOMOLOGADO DE MÓDULOS DE ATENCIÓN A LA VIOLENCIA FAMILIAR Y DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+###### Artículo 40 Bis.
+
+Las instancias municipales o estatales que brinden atención integral a las víctimas de la violencia de género y violencia familiar, deberán operar bajo el Modelo Homologado de Módulos de Atención a la Violencia Familiar y de Género.
+
+El Consejo, deberá crear un comité para dar seguimiento, evaluación y monitoreo permanente a los Módulos de Atención a la Violencia Familiar y de Género, el cual contará con la participación de autoridades estatales y municipales, así como de organizaciones de la sociedad civil.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+###### Artículo 40 Ter.
+
+Para garantizar que las instancias que operen bajo el Modelo Homologado de Módulos de Atención a la Violencia Familiar y de Género, otorguen una atención integral a las mujeres y a las demás víctimas de la violencia de género, cuando menos deberá de ser transversal, multidisciplinaria, multicultural, enfocada a los derechos humanos y con perspectiva de género.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+###### Artículo 40 Quáter.
+
+Las y los servidores públicos que laboren y brinden atención bajo el Modelo Homologado, deberán contar con capacitación de perspectiva de género, atención a víctimas y de niñas, niños y adolescentes.
+
+Las personas adscritas a cualquier instancia que opere bajo el Modelo Homologado, generarán cualquier relación laboral únicamente con la institución de origen.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+Artículo 40 Quintus.- El Modelo Homologado, deberá de seguir cuando menos las siguientes etapas:
+
+I. Evaluación del problema.
+
+II. Determinación de prioridades.
+
+III. Asesoramiento y/o intervención.
+
+IV. Seguimiento.
+
+V. Revisión de resultados.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+Artículo 40 Sextus.- Los Módulos de Atención deberán registrar la información respectiva de las víctimas en el Sistema Único a cargo del Consejo.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)</small>
+
+Artículo 40 Septimus.- Los espacios destinados para la atención bajo el Modelo Homologado, deberán contar con la infraestructura necesaria que asegure un entorno de protección y privacidad para las víctimas.
+
+En la medida de las posibilidades, los Módulos de Atención a la Violencia Familiar y de Género se ubicarán físicamente en las instalaciones de seguridad pública en los municipios.
+
+### CAPÍTULO SÉPTIMO. DE LOS REFUGIOS PARA LA ATENCIÓN A MUJERES VICTIMAS DE VIOLENCIA
 
 ###### Artículo 41.
 
@@ -1130,6 +1204,8 @@ VII. Bolsa de trabajo, con la finalidad de que puedan acceder a una actividad re
 ###### Artículo 46.
 
 En todo momento las mujeres víctimas de violencia podrán decidir sobre su permanencia en los refugios.
+
+### CAPÍTULO OCTAVO. DE LOS CENTROS DE REHABILITACIÓN PARA AGRESORES
 
 ###### Artículo 47.
 
@@ -1442,3 +1518,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXVI/RFLYC/0749/2020 IX P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA, LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado de Chihuahua, a través del Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, a partir de la publicación del presente Decreto, contará con un plazo de 180 días naturales para publicar el Modelo Homologado de los Módulos de Atención a la Violencia Familiar y de Género.
+
+TERCERO.- Será prioritaria la instalación de Módulos de Atención a la Violencia Familiar y de Género en los municipios que no cuenten con ellos. Los Módulos de Atención ya instalados, tendrán la obligación de adecuar su operación al Modelo Homologado.
