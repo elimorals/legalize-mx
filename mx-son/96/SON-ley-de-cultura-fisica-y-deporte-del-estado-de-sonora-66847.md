@@ -4,7 +4,7 @@ identifier: "SON-ley-de-cultura-fisica-y-deporte-del-estado-de-sonora-66847"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-16"
-last_updated: "2019-12-27"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 16 de febrero de 2009.
 
@@ -241,7 +241,9 @@ XVIII.- Promover e incrementar con las previsiones presupuestales existentes, lo
 
 XIX.- Impulsar, en coordinación con las autoridades competentes en materia de seguridad pública, la práctica de actividades de cultura física-deportiva, recreativo-deportivas, de deporte en la rehabilitación y deporte entre la población en general, como medio para la prevención del delito;
 
-XX.- Formular, en coordinación con las autoridades competentes y organizaciones sociales y privadas en materia de integración social para personas con discapacidad, programas para promover la cultura física y deporte entre las personas con discapacidad;
+> <small>(REFORMADA, B.O. 1 DE MARZO DE 2021)</small>
+
+XX.- Formular, en coordinación con las autoridades competentes y organizaciones sociales y privadas en materia de integración social para personas con discapacidad, programas para promover la cultura física y deporte entre las personas con discapacidad, debiendo contar con intérpretes en la Lengua de Señas Mexicanas, y la emisión de documentos en sistema de Lectoescritura Braille para apoyar en las actividades deportivas que así lo requieran, así como la capacitación de manera permanente y gratuita de su personal, en Lengua de Señas Mexicana y el sistema de Lectoescritura Braille;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 25 DE JUNIO DE 2018)</small>
 
@@ -911,9 +913,11 @@ En el desarrollo de la investigación y conocimientos científicos, las instanci
 
 La Comisión participará en la elaboración de programas de capacitación en actividades de cultura física y deporte para el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y el deporte. En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad.
 
+> <small>(REFORMADO, B.O. 1 DE MARZO DE 2021)</small>
+
 ###### Artículo 70.
 
-La Comisión y los órganos o unidades administrativas municipales responsables de la cultura física y el deporte, en sus respectivos ámbitos, promoverán y gestionarán, conjuntamente con las Asociaciones Deportivas Estatales, la formación, capacitación, actualización y certificación de recursos humanos para la enseñanza y práctica de actividades de cultura física y deporte.
+La Comisión y los órganos o unidades administrativas municipales responsables de la cultura física y el deporte, en sus respectivos ámbitos, promoverán y gestionarán, conjuntamente con las Asociaciones Deportivas Estatales, la formación, capacitación, actualización y certificación de recursos humanos para la enseñanza y práctica de actividades de cultura física y deporte, en los que se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad, incluyendo la capacitación permanente y gratuita de intérpretes en la Lengua de Señas Mexicanas y el sistema de Lectoescritura Braille, así como la emisión de documentos en sistema de Lectoescritura Braille para apoyar en las actividades deportivas que así lo requieran, a través de convenios con instituciones públicas o privadas, o con organizaciones civiles o sindicales.
 
 ### CAPÍTULO IV. DE LAS CIENCIAS APLICADAS
 
@@ -1235,7 +1239,9 @@ Todas las personas a que se refiere este título recibirán, sin discriminación
 
 La Comisión del Deporte del Estado de Sonora, así como los institutos del deporte de los municipios, deberán alentar la práctica de nuevas disciplinas y modalidades del deporte adaptado en las instalaciones deportivas donde se cuente con la infraestructura necesaria, contando para ello con la colaboración de las diferentes organizaciones del deporte adaptado, con el objeto de apoyar su integración a la sociedad y propiciar su bienestar, en un marco de respeto e igualdad, vigilándose la salud física y mental del individuo.
 
-El DIF estatal y los sistemas DIF municipal coadyuvarán en la promoción en todo el Estado la capacitación deportiva y la práctica de deportes para las personas con discapacidad y buscarán otorgarles facilidades necesarias para el desarrollo de sus prácticas deportivas, como lo establece el artículo 54 de la Ley de Integración para Personas con Discapacidad del Estado de Sonora.
+> <small>(REFORMADO, B.O. 1 DE MARZO DE 2021)</small>
+
+El DIF estatal y los sistemas DIF municipal coadyuvarán en la promoción en todo el Estado la capacitación deportiva y la práctica de deportes para las personas con discapacidad y buscarán otorgarles facilidades necesarias para el desarrollo de sus prácticas deportivas, como lo establece el artículo 45 de la Ley para la Inclusión y Desarrollo de las Personas con discapacidad o personas en situación de discapacidad del Estado de Sonora.
 
 > <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2017)</small>
 
@@ -1404,3 +1410,11 @@ B.O. 27 DE DICIEMBRE DE 2019.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 176, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA, DE LA LEY DE DEFENSORÍA PÚBLICA, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERA (SIC) DE JUSTICIA DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE SALUD PARA EL ESTADO DE SONORA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA, DE LA LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA Y DE LA LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
