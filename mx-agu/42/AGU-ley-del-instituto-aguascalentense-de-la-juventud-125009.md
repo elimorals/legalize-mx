@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-aguascalentense-de-la-juventud-125009"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-31"
-last_updated: "2018-09-03"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en el Número 28 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el domingo 31 de diciembre de 2017.
 
@@ -277,7 +277,9 @@ X.- Instituto Cultural de Aguascalientes; y
 
 XI.- Radio y Televisión de Aguascalientes.
 
-En caso de ausencia del Presidente en alguna sesión de la Junta de Gobierno, ésta será presidida por el Secretario General de Gobierno mediante documento que así lo acredite.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2021)</small>
+
+En caso de ausencia del Presidente en alguna sesión de la Junta de Gobierno, ésta será presidida por el Titular de la Secretaría de la Familia mediante documento que así lo acredite.
 
 Por cada miembro propietario se deberá nombrar un suplente, cuyo nivel jerárquico no será mayor a dos niveles inferiores que el del titular, quien lo sustituirá en sus faltas temporales en términos del Reglamento respectivo y gozará de los mismos derechos y obligaciones que los titulares.
 
@@ -333,9 +335,17 @@ XIII.- Aprobar la constitución de reservas y aplicación de las utilidades del 
 
 XIV.- Aprobar las normas y bases para la cancelación de adeudos a favor del Instituto y con cargo a terceros, cuando fuere notoria la imposibilidad práctica de su cobro, informando lo conducente a la Contraloría del Estado y a la Secretaría de Finanzas en el Estado, por conducto del Ejecutivo;
 
-XV.- Acordar y aprobar, con sujeción a las disposiciones legales, los donativos o pagos extraordinarios que se hagan en favor del Instituto y verificar que se apliquen a los fines expresamente señalados; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
-XVI.- Las demás que le sean conferidas por otras disposiciones legales aplicables.
+XV.- Acordar y aprobar, con sujeción a las disposiciones legales, los donativos o pagos extraordinarios que se hagan en favor del Instituto y verificar que se apliquen a los fines expresamente señalados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 2021)</small>
+
+XVI.- Coadyuvar con la Secretaría de la Familia en el fomento, promoción e impulso de las políticas públicas en materia de familia destinadas a fortalecer el desarrollo de los jóvenes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE MARZO DE 2021)</small>
+
+XVII.- Las demás que le sean conferidas por otras disposiciones legales aplicables.
 
 #### SECCIÓN TERCERA. Dirección General
 
@@ -604,3 +614,19 @@ A partir de la entrada en vigor del presente Decreto, se deberán emitir y reali
 ###### ARTÍCULO QUINTO.
 
 Se Derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a la presente Ley, de igual o menor jerarquía; razón por la que a la entrada en vigor del presente Decreto, deberán haber concluido las acciones convenientes para llevar a cabo las modificaciones normativas a que haya lugar.
+
+P.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 476.- SE REFORMA EL ARTÍCULO 27, FRACCIONES XXIV Y XXV; Y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN VII DEL ARTÍCULO 10; LA FRACCIÓN XIII AL ARTÍCULO 18; LA FRACCIÓN XXVI AL ARTÍCULO 27; LA SECCIÓN DÉCIMA TERCERA PARA QUEDAR COMO "LA SECRETARÍA DE LA FAMILIA" Y EL ARTICULO 44; A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los ciento ochenta días siguientes a la publicación del presente Decreto se deberán expedir todas aquellas disposiciones normativas y reglamentarias necesarias para su cumplimiento.
