@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-integral-escolar-para-el-estado-libre-y-79854"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-04"
-last_updated: "2021-01-21"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
 
-Ley publicada en el Periodico Oficial del Estado de Puebla, el viernes 4 de febrero de 2011.
+Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 4 de febrero de 2011.
 
 Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado.- Puebla.
 
@@ -79,15 +79,29 @@ II.- Brigada: Grupo de personas seleccionadas de entre los integrantes de la com
 
 III.- Comunidad Escolar: Conjunto de personas que comparten espacios educativos, considerando a alumnos, padres de familia, docentes, personal administrativo y de apoyo en cada escuela;
 
-IV.- Consejo Estatal: Consejo Estatal de Seguridad Escolar;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
-V.- Consejo Municipal: Consejo Municipal de Seguridad Escolar;
+IV.- Consejo de Participación Social: Órgano colegiado integrado por madres y padres de familia y representantes de sus asociaciones, maestras y maestros y representantes de su organización sindical, directivos de la escuela, exalumnos, así como con los demás miembros de la comunidad interesados en el desarrollo de la propia escuela;
 
-VI.- Escuela o Institución Educativa: Establecimiento público o privado, donde se imparte educación de cualquier tipo;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
-VII.- Secretaría: Secretaría de Educación Pública del Estado de Puebla; y
+V.- Consejo Estatal: Consejo Estatal de Seguridad Escolar;
 
-VIII.- Consejo de Participación Social: Órgano colegiado integrado por padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, exalumnos, así como con los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+
+VI.- Consejo Municipal: Consejo Municipal de Seguridad Escolar;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+
+VII.- Escuela o Institución Educativa: Establecimiento público o privado, donde seimparte (sic) educación de cualquier tipo;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+
+VIII.- Secretaría: Secretaría de Educación del Estado de Puebla; y
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2021)</small>
+
+IX.- Seguridad escolar.- Condición referida al resguardo de la integridad física y psicosocial de los integrantes de la comunidad escolar, al interior de la escuela y alrededor de la misma, derivada del conjunto de acciones preventivas y de atención, coordinadas por la autoridad competente en la materia.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -105,17 +119,29 @@ ARTÍCULO 3 BIS.- Los programas y acciones de enlace escolar y de seguridad púb
 
 Son autoridades del Estado en materia de seguridad escolar:
 
-I.- El Gobernador;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
-II.- El Secretario de Gobernación;
+I.- La persona Titular del Poder Ejecutivo del Estado;
 
-III.- El Secretario de Educación Pública;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
-IV.- El Procurador General de Justicia;
+II.- La persona Titular de la Secretaría de Gobernación;
 
-V.- El Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
-VI.- El Secretario de Salud y Director General de Servicios de Salud del Estado; y
+III.- La persona Titular de la Secretaría de Educación;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+
+IV.- La persona Titular de la Fiscalía General del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+
+V.- La persona Titular de la Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+
+VI.- Las personas Titulares de la Secretaría de Salud y la Dirección General de Servicios de salud del Estado; y
 
 VII.- Los Ayuntamientos del Estado.
 
@@ -137,7 +163,9 @@ I.- Aplicar, dentro de su competencia, esta Ley y vigilar su correcta observanci
 
 II.- Realizar propuestas al Ejecutivo del Estado, en materia de seguridad escolar, así como celebrar acuerdos o convenios con los Ayuntamientos de la Entidad, con los sectores público, privado, social y la población en general que favorezcan una seguridad integral escolar;
 
-III.- Proponer al Procurador General de Justicia del Estado la aplicación de las medidas necesarias para el cumplimiento de esta Ley;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+
+III.- Proponer a la persona titular de la Fiscalía General del Estado la aplicación de las medidas necesarias para el cumplimiento de esta Ley;
 
 IV.- Establecer y mantener actualizado un Registro Estatal de las Brigadas Escolares;
 
@@ -355,9 +383,11 @@ ARTÍCULO 17 QUINQUIES.- La Brigada, en coordinación con la autoridad de Protec
 
 ### CAPÍTULO I. DEL PROGRAMA DE SEGURIDAD INTEGRAL ESCOLAR
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 18.
 
-El Programa de Seguridad Integral Escolar será elaborado e instrumentado por el Consejo Estatal de Seguridad Escolar y contendrá entre otras cosas, las medidas y acciones que ayuden a cuidar la seguridad dentro de las instituciones educativas.
+El Programa de Seguridad Integral Escolar será elaborado e instrumentado por el Consejo Estatal de Seguridad Escolar y contendrá entre otras cosas, las medidas y acciones que ayuden a cuidar la seguridad dentro de las instituciones educativas y alrededor de las mismas.
 
 ###### ARTÍCULO 19.
 
@@ -379,25 +409,43 @@ V.- Establecer las acciones con la participación de las diversas instituciones 
 
 El Consejo Estatal estará integrado por:
 
-I.- El Gobernador como Presidente Honorario;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
-II.- El Secretario de Educación Pública, como Presidente Ejecutivo;
+I.- La persona Titular del Poder Ejecutivo del Estado como Presidente Honorario;
 
-III.-El Secretario de Seguridad Pública, quien fungirá como Vicepresidente;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
-IV.- El Procurador General de Justicia, quien fungirá como Secretario Técnico;
+II.- La persona Titular de la Secretaría de Educación, como Presidente Ejecutivo;
 
-V.- El Secretado de Gobernación;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
-VI.- El Director General de Protección Civil;
+III.- La persona Titular de la Secretaría de Seguridad Pública, quien fungirá como Vicepresidente;
 
-VII.- El Titular del Sistema para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
-VIII.- El Presidente de la Comisión de Derechos Humanos del Estado;
+IV.- La persona Titular de la Fiscalía General del Estado, quien fungirá como Secretario Técnico;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+
+V.- La persona Titular de la Secretaría de Gobernación;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+
+VI.- La persona Titular del Dirección General de Protección Civil;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+
+VII.- La persona Titular del Sistema para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+
+VIII.- La persona que asuma la Presidencia de la Comisión de Derechos Humanos del Estado;
 
 IX.- Los Secretarios de los Sindicatos de Trabajadores de la Educación legalmente reconocidos; y
 
-X.- El Presidente de la Asociación Estatal de Padres de Familia.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+
+X.- La persona que asuma la Presidencia de la Asociación Estatal de Padres de Familia.
 
 Los integrantes a que hacen mención las fracciones V, VI, VII; VIII, IX y X; fungirán como vocales.
 
@@ -850,3 +898,13 @@ P.O. 21 DE ENERO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES IV A VIII DEL ARTÍCULO 2, LAS FRACCIONES I A VI DEL 4, LA FRACCIÓN III DEL 6, EL 18, LAS FRACCIONES I A VIII Y X DEL 20, Y ADICIONA LA FRACCIÓN IX AL ARTÍCULO 2, TODOS DE LA LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Consejo Estatal de Seguridad Escolar, contará con 120 días naturales para adecuar el Programa de Seguridad Integral Escolar.
