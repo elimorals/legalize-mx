@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-de-la-cultura-y-proteccion-del-patrimonio-86348"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-01"
-last_updated: "2020-12-21"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en la Sección VII del Boletín Oficial del Estado de Sonora, el jueves 1 de diciembre de 2011.
 
@@ -181,9 +181,17 @@ XVI.- Editar folletos, revistas y libros, así como producir y divulgar programa
 
 XVII.- Procurar un mayor aprovechamiento del potencial educativo y de la difusión cultural;
 
-XVIII.- Elaborar y mantener actualizado un catalogo sobre el Patrimonio Cultural en términos de la presente ley; y
+> <small>(REFORMADA, B.O. 1 DE MARZO DE 2021)</small>
 
-XIX.- Las demás que sean necesarias para el cumplimiento del objeto de su creación.
+XVIII.- Elaborar y mantener actualizado un catálogo sobre el Patrimonio Cultural en términos de la presente ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 1 DE MARZO DE 2021)</small>
+
+XIX.- Celebrar convenios con instituciones públicas o privadas, o con organizaciones civiles o sindicales para capacitar de manera permanente y gratuita en materia de Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, al personal del Instituto, así como la emisión de documentos en sistema de Lectoescritura Braille para apoyar en las actividades artísticas, culturales y recreativas que así lo requieran; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 1 DE MARZO DE 2021)</small>
+
+XX.- Las demás que sean necesarias para el cumplimiento del objeto de su creación.
 
 ###### ARTÍCULO 8º.
 
@@ -207,9 +215,17 @@ VIII.- Otorgar premios, reconocimientos o estímulos a las personas, grupos e in
 
 IX.- Ordenar y ejecutar la suspensión provisional de las obras que pongan en riesgo bienes que integren el Patrimonio Cultural en el Estado, en auxilio de la autoridad competente;
 
-X.- Constituir órganos de apoyo en la coordinación y ejecución de los programas culturales y artísticos municipales; y
+> <small>(REFORMADA, B.O. 1 DE MARZO DE 2021)</small>
 
-XI.- Las demás que le otorgue esta ley.
+X.- Constituir órganos de apoyo en la coordinación y ejecución de los programas culturales y artísticos municipales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 1 DE MARZO DE 2021)</small>
+
+XI.- Celebrar convenios con instituciones públicas o privadas, o con organizaciones civiles o sindicales para capacitar de manera permanente y gratuita en materia de Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, a su personal, así como la emisión de documentos en sistema de Lectoescritura Braille para apoyar en las actividades artísticas, culturales y recreativas que así lo requieran; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 1 DE MARZO DE 2021)</small>
+
+XII.- Las demás que le otorgue esta ley.
 
 ### CAPÍTULO III. DEL CONSEJO ESTATAL DE LA CULTURA Y LAS ARTES
 
@@ -890,3 +906,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 En aquellos Municipios en los que no haya Cronistas, los Presidentes Municipales en el Estado, deberán de emitir la convocatoria a que hace referencia el artículo 19 Bis 3, dentro del plazo de 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+B.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 176, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA, DE LA LEY DE DEFENSORÍA PÚBLICA, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERA (SIC) DE JUSTICIA DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE SALUD PARA EL ESTADO DE SONORA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA, DE LA LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA Y DE LA LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
