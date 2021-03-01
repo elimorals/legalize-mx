@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-al-turismo-para-el-estado-de-sonora-52499"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-14"
-last_updated: "2019-06-27"
+last_updated: "2021-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 27 DE JUNIO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de diciembre de 2006.
 
@@ -627,7 +625,9 @@ V.- Conservar higiénicamente y en buen estado las instalaciones en las que pres
 
 VI.- Contar invariablemente con personal que domine plenamente el idioma castellano y, en su caso, realice las traducciones correspondientes al idioma extranjero, para la mejor atención del turista;
 
-VII.- Crear las condiciones propicias para que las personas con discapacidad puedan utilizar sus servicios, de conformidad con lo dispuesto por la Ley de Integración Social para Personas con Discapacidad del Estado de Sonora;
+> <small>(REFORMADA, B.O. 1 DE MARZO DE 2021)</small>
+
+VII.- Crear las condiciones propicias para que las personas con discapacidad puedan utilizar sus servicios, de conformidad con lo dispuesto por la Ley para la Inclusión y Desarrollo de las Personas con discapacidad o personas en situación de discapacidad del Estado de Sonora;
 
 > <small>(REFORMADA, B.O. 12 DE ABRIL DE 2017)</small>
 
@@ -665,7 +665,9 @@ La Cofetur promoverá la firma de acuerdos y convenios de coordinación con cent
 
 Con la finalidad de promover un servicio de calidad turística en la entidad, la Cofetur, en coordinación con las Secretarías del Trabajo y Previsión Social estatal y federal, establecerá programas de capacitación para los trabajadores y empleados que presten servicios turísticos.
 
-En los citados programas se deberá considerar la instrucción para la adecuada atención a las personas con discapacidad.
+> <small>(REFORMADO, B.O. 1 DE MARZO DE 2021)</small>
+
+En los citados programas se deberá considerar la instrucción para la adecuada atención a las personas con discapacidad, incluyendo capacitación permanente y gratuita en materia de Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, a través de la celebración de convenios con instituciones públicas o privadas, o con organizaciones civiles o sindicales, así como la emisión de documentos en sistema de Lectoescritura Braille para apoyar en las actividades turísticas que así lo requieran.
 
 A su vez, serán incluidos en los programas de capacitación, materias referentes a la cultura de la legalidad para fomentar la protección de los niños, niñas y adolescentes frente a la explotación sexual y/o laboral en la industria turística.
 
@@ -847,9 +849,9 @@ La Cofetur promoverá ante la autoridad competente la elaboración o actualizaci
 
 ARTÍCULO 62 BIS.- Para los efectos de esta Ley, se entenderá que el Turismo de Salud es una actividad estratégica para la política de turismo, que comprende desarrollar una infraestructura sanitaria y de recuperación para turistas que demandan una alta especialización, el acceso más rápido y menores costos.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU NUMERACIÓN, B.O. 1 DE MARZO DE 2021)</small>
 
-### CAPÍTULO VII (SIC). DEL TURISMO ACCESIBLE
+### CAPÍTULO VIII. DEL TURISMO ACCESIBLE
 
 > <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
@@ -863,7 +865,9 @@ ARTÍCULO 62 Quarter.- Los prestadores de servicios turísticos deberán proveer
 
 La misma obligación tendrán las autoridades respecto de los sitios culturales con afluencia turística.
 
-La Cofetur y los Ayuntamientos supervisarán que lo dispuesto en este capítulo se cumpla.
+> <small>(REFORMADO, B.O. 1 DE MARZO DE 2021)</small>
+
+La Cofetur y los Ayuntamientos supervisarán que lo dispuesto en este capítulo se cumpla atendiendo a lo dispuesto en el articulo 47 de la Ley para la Inclusión y Desarrollo de las Personas con discapacidad o personas en situación de discapacidad del Estado de Sonora.
 
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 13 DE JUNIO DE 2019) (F. DE E., B.O. 27 DE JUNIO DE 2019)
 
@@ -1164,3 +1168,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo del Estado expedirá el Reglamento para el funcionamiento del programa “Tesoros de Sonora”.
+
+B.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 176, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA, DE LA LEY DE DEFENSORÍA PÚBLICA, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERA (SIC) DE JUSTICIA DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE SALUD PARA EL ESTADO DE SONORA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA, DE LA LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA Y DE LA LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
