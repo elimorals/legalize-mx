@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1206
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-03-27"
-last_updated: "2020-05-29"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en el Número 25 de la Sección II, del Boletín Oficial del Estado de Sonora, el lunes 27 de marzo de 2017.
 
@@ -283,9 +283,21 @@ XVIII.- Implementar un sistema de control y evaluación de la gestión instituci
 
 XIX.- Impulsar las acciones necesarias para promover la cultura de la denuncia de los delitos, y participación de la comunidad en las actividades de la procuración de justicia;
 
-XX.- Garantizar el acceso a la información de la Fiscalía General del Estado en los términos y con las limitantes establecidas en la Constitución General, la Constitución del Estado y de la Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora; y
+> <small>(REFORMADA, B.O. 1 DE MARZO DE 2021)</small>
 
-XXI.- Las demás que prevean otras disposiciones jurídicas aplicables.
+XX.- Garantizar el acceso a la información de la Fiscalía General del Estado en los términos y con las limitantes establecidas en la Constitución General, la Constitución del Estado y de la Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 1 DE MARZO DE 2021)</small>
+
+XXI.- Contar con el personal y material especializado y la asistencia de intérpretes de Lengua de Señas Mexicana para la debida mención y defensa de los derechos y libertades de las personas con discapacidad o personas en situación de discapacidad, que tengan calidad de imputados, ofendidos, víctimas, denunciantes o testigos:
+
+> <small>(ADICIONADA, B.O. 1 DE MARZO DE 2021)</small>
+
+XXII.- Llevar a cabo programas de capacitación de manera permanente y gratuita en Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, dirigido a su personal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 1 DE MARZO DE 2021)</small>
+
+XXIII.- Las demás que prevean otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 13.
 
@@ -411,7 +423,9 @@ XV.- Imponer al personal de la Fiscalía General, las sanciones que procedan por
 
 XVI.- Participar en las instancias de coordinación del Sistema Nacional de Seguridad Pública o de cualquier otro sistema u órgano colegiado donde la ley prevea su participación;
 
-XVII.- Suscribir convenios de colaboración en materia de capacitación, investigación de delitos o en cualquier otra materia, que resulten necesarios o convenientes para el cumplimiento de sus funciones;
+> <small>(REFORMADA, B.O. 1 DE MARZO DE 2021)</small>
+
+XVII.- Suscribir convenios de colaboración en materia de capacitación, investigación de delitos o en cualquier otra materia, que resulten necesarios o convenientes para el cumplimiento de sus funciones, incluyendo la celebración de convenios con instituciones públicas o privadas, o con organizaciones civiles o sindicales para capacitar de manera permanente y gratuita en materia de Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, al personal de la Fiscalía General que sea necesario para poder brindar la debida atención y defensa de los derechos y libertades de las personas con discapacidad o personas en situación de discapacidad, que tengan calidad de imputados, ofendidos, víctimas, denunciantes o testigos;
 
 XVIII.- Promover la homologación de los sistemas de compilación, clasificación, registro, análisis, evaluación y explotación de información para la investigación científica de los delitos;
 
@@ -1278,3 +1292,11 @@ Por lo que hace a las autoridades que no se renuevan mediante procesos electoral
 ###### ARTÍCULO TERCERO.
 
 La observancia del principio de alternancia en la elección de diputados locales a que se refiere este Decreto, será aplicable a quienes sean electos en el proceso electoral inmediato porterior (sic) al proceso electoral 2020-2021.
+
+B.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 176, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA, DE LA LEY DE DEFENSORÍA PÚBLICA, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERA (SIC) DE JUSTICIA DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE SALUD PARA EL ESTADO DE SONORA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA, DE LA LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA Y DE LA LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
