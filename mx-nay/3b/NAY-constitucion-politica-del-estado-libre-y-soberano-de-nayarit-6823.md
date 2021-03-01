@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2020-11-05"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -161,9 +161,31 @@ En el caso de extinción de dominio, la ley establecerá un procedimiento jurisd
 
 VII. La libertad de trabajar y disponer de los productos del trabajo, de acuerdo con las prescripciones que establecen las leyes relativas.
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2021)</small>
 
-De conformidad a lo dispuesto por el artículo 123, apartado A, fracción XX de la Constitución Política de los Estados Unidos Mexicanos, la función conciliadora de las relaciones entre los patrones y los trabajadores estará a cargo del Centro de Conciliación Laboral del Estado de Nayarit, un organismo público descentralizado, el cual contará con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Se integrará de manera tripartita, por un Titular que será designado por el Congreso del Estado, el cual deberá contar con conocimientos en materia laboral, mediante una terna propuesta por el Gobernador del Estado; un representante del sector obrero; y un representante del sector patronal. El proceso de designación de dichos cargos se hará de conformidad a lo dispuesto en la ley de la materia.
+De conformidad a lo dispuesto por el artículo 123, apartado A, fracción XX de la Constitución Política de los Estados Unidos Mexicanos, la función conciliadora de las relaciones entre los patrones y los trabajadores estará a cargo del Centro de Conciliación Laboral del Estado de Nayarit, organismo público descentralizado que contará con personalidad jurídica y patrimonio propio, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, igualdad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. La conciliación que imparta deberá ajustarse al procedimiento contemplado en la Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
+
+Contará con un Órgano de Gobierno y una estructura administrativa que salvaguarde el ejercicio pleno de la autonomía técnica, operativa, presupuestaria, de decisión y de gestión, cuya integración y funcionamiento se establecerán en su correspondiente Ley Orgánica.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
+
+Para la designación del titular del Centro de Conciliación Laboral del Estado de Nayarit, el Gobernador del Estado someterá una terna a consideración del Congreso del Estado, el cual previa comparecencia de las personas propuestas, realizará la designación correspondiente. La designación se hará por el voto de las dos terceras partes de los Diputados presentes en la sesión, dentro del improrrogable plazo de treinta días. Si el Congreso del Estado no resolviere dentro de dicho plazo, ocupará el cargo aquél que, dentro de dicha terna, designe el Gobernador.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
+
+En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Ejecutivo Estatal someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador.
+
+(NOTA: EL 30 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 57/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEXTO DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 02 DE DICIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
+
+El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del Centro de Conciliación Laboral del Estado de Nayarit; que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; y que goce de buena reputación Y NO HAYA SIDO CONDENADO POR DELITO DOLOSO.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
+
+Asimismo, deberá cumplir los requisitos que establezca la ley. Desempeñará su encargo por períodos de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el periodo respectivo. El titular del Centro de Conciliación Laboral del Estado de Nayarit sólo podrá ser removido por causa grave en los términos del Título Octavo de esta Constitución y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del Centro y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -4089,15 +4111,13 @@ P.O. 25 DE SEPTIEMBRE DE 2018.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
-SEGUNDO. En un plazo que no exceda de ciento ochenta días naturales posteriores a la publicación de las adecuaciones a las leyes secundarias del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en relación con lo establecido en el Decreto publicado en el Diario Oficial de la Federación el 24 de febrero de 2017, por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Justicia Laboral, el Congreso del Estado deberá realizar las modificaciones legales necesarias para armonizar el marco jurídico local con la presente reforma.
+SEGUNDO. (DEROGADO, P.O. 1 DE MARZO DE 2021)
 
 TERCERO. La presente reforma garantizará y respetará todos los derechos de los trabajadores conforme a la Ley.
 
-CUARTO. La función conciliatoria estará a cargo del Centro de Conciliación Laboral del Estado de Nayarit. Habrá de integrarse de manera tripartita, es decir, por un Titular que será designado por el Congreso del Estado, el cual deberá contar con conocimientos en materia laboral, mediante una terna propuesta por el Gobernador del Estado; un representante del sector obrero; y un representante del sector patronal.
+CUARTO. (DEROGADO, P.O. 1 DE MARZO DE 2021)
 
-Dichos cargos serán determinados mediante el proceso que en su momento se establezca en los ordenamientos legales correspondientes.
-
-QUINTO. La designación del Titular del Centro de Conciliación Laboral del Estado de Nayarit, deberá realizarse antes del inicio del ejercicio fiscal posterior a la publicación de la presente reforma. Los representantes patronales y de los trabajadores serán designados por el Gobernador de entre las propuestas que surjan de un proceso de consulta a las organizaciones que agrupen a los sectores antes mencionados, posteriormente serán designados de conformidad a lo que establezca la legislación secundaria aplicable.
+QUINTO. (DEROGADO, P.O. 1 DE MARZO DE 2021)
 
 SEXTO. El Centro de Conciliación tendrá su funcionamiento de manera regional, contando con oficinas en tres zonas del Estado.
 
@@ -4280,3 +4300,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado de Nayarit, para los efectos conducentes.
 
 TERCERO.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los veinte Ayuntamientos de la Entidad.
+
+P.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE JUSTICIA LABORAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. El Congreso del Estado contará con 180 días naturales, posteriores a la entrada en vigor del presente Decreto, para emitir la Ley Orgánica que regule la integración y funcionamiento del Centro de Conciliación Laboral del Estado de Nayarit.
+
+TERCERO. Dentro del Plazo de 90 días naturales, posteriores a la entrada en vigor de la Ley Orgánica que regule la integración y funcionamiento del Centro de Conciliación Laboral del Estado de Nayarit, el titular del Poder Ejecutivo someterá al Congreso del Estado la terna para la designación del titular de dicho Centro de Conciliación Laboral.
+
+CUARTO. La entrada en funciones del Centro de Conciliación Laboral del Estado de Nayarit, no deberá exceder del plazo máximo que señala el artículo Quinto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva publicado en el Diario Oficial de la Federación con fecha 01 de mayo del 2019.
+
+QUINTO. La Ley Orgánica que regule el Centro de Conciliación Laboral del Estado de Nayarit deberá observar los lineamientos previstos en el artículo 590- F de la Ley Federal del Trabajo, los establecidos en el presente Decreto y lo que señala la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit.
+
+SEXTO. Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
