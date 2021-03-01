@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-desarrollo-urbano-sostenible-del-municipio-de-962
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-05"
-last_updated: "2016-08-13"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96206&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO DE DESARROLLO URBANO SOSTENIBLE DEL MUNICIPIO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
 
 Reglamento publicado en el Folleto Anexo al Número 80 del Periódico Oficial del Estado de Chihuahua, el sábado 5 de octubre de 2013.
 
@@ -373,209 +373,449 @@ XXXIII. Contaminación visual: La alteración de las cualidades de la imagen de 
 
 XXXIV. Corredor urbano: Las áreas de influencia al lado de las vías regionales, de primer orden y primarias donde se presenta la mezcla de usos comerciales, viviendas, servicios, oficinas u otros asociando la jerarquía vial con la intensidad del uso del suelo;
 
-XXXV. Delimitación de desarrollos urbanos: La determinación oficial de límites a un asentamiento poblacional, para su ordenamiento, identificación y localización dentro del fundo legal, de conformidad con lo establecido por la normatividad vigente en la materia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 1 DE MARZO DE 2021)</small>
 
-XXXVI. Densidad habitacional máxima: La concentración máxima de viviendas permitidas en una determinada superficie de una zona o asentamiento urbano;
+XXXV. Corredores Urbanos Consolidados. Son las vialidades localizadas dentro del Polígono de Ciudad Cercana, que el Plan de Desarrollo Urbano del Centro de Población Chihuahua define como vialidades de Primer Orden, Primarias y Secundarias; en ellas se aplicará la Política Pública Ciudad Cercana siempre y cuando estas vialidades cuenten con rutas de transporte público (también conocidas como rutas de camión urbano). Las calles locales serán parte de un Corredor Urbano Consolidado cuando se localicen de forma perpendicular a estos y dentro de la Primera Manzana.
 
-XXXVII. Densidad máxima: La concentración máxima de habitantes permitida en una superficie determinada del municipio o del centro de población. En el presente Reglamento se aplica sobre hectárea bruta de terreno;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-XXXVIII. Desarrollo urbano sostenible: La provisión, aprovechamiento y conservación óptimos de la infraestructura, los servicios y el equipamiento urbano, así como del medio natural, para satisfacción de las necesidades de los asentamientos humanos. Se logra por medio de las acciones para la reducción del déficit en los índices prioritarios del desarrollo sostenible, con la participación coordinada de los tres órdenes de gobierno, en los ámbitos de sus competencias, y con la participación de las organizaciones de la sociedad civil, las redes sociales, las organizaciones políticas, los empresarios y los individuos, sin comprometer la capacidad de que las generaciones futuras puedan satisfacer sus necesidades. Mejora en la competitividad, entendida como la capacidad de la región para producir más eficientemente en relación a otras;
+XXXVI. Delimitación de desarrollos urbanos: La determinación oficial de límites a un asentamiento poblacional, para su ordenamiento, identificación y localización dentro del fundo legal, de conformidad con lo establecido por la normatividad vigente en la materia;
 
-XXXIX. Dictamen técnico: El documento expedido por la Dirección que acredita y justifica, previo estudio y análisis correspondiente, la viabilidad o no de alguna acción urbana dentro del centro de población;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-XL. Dirección: La Dirección de Desarrollo Urbano y Ecología del Municipio;
+XXXVII. Densidad habitacional máxima: La concentración máxima de viviendas permitidas en una determinada superficie de una zona o asentamiento urbano;
 
-XLI. Director: El titular de la Dirección de Desarrollo Urbano y Ecología del Municipio;
+> <small>(REFORMADA, G.M. 1 DE MARZO DE 2021)</small>
 
-XLII. Director de Obras Públicas: El Director de Obras Públicas del Municipio;
+XXXVIII. Densidad máxima: La concentración máxima de habitantes permitida en una superficie determinada del Municipio o del centro de población. En el presente Reglamento se aplica sobre hectárea bruta de terreno;
 
-XLIII. Edificación: Los elementos construidos que albergan un uso y han sido realizados por el ser humano a lo largo del tiempo;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-XLIV. Equipamiento: Los edificios y espacios acondicionados de utilización pública, general o restringida, en los que se proporcionan a la población servicios de bienestar social. Considerando su cobertura se clasifican en vecinal, barrial, distrital y regional. Cuando el equipamiento lo administra el sector público este se considera un destino y cuando lo administra el sector privado se considera un uso;
+XXXIX. Desarrollo urbano sostenible: La provisión, aprovechamiento y conservación óptimos de la infraestructura, los servicios y el equipamiento urbano, así como del medio natural, para satisfacción de las necesidades de los asentamientos humanos. Se logra por medio de las acciones para la reducción del déficit en los índices prioritarios del desarrollo sostenible, con la participación coordinada de los tres órdenes de gobierno, en los ámbitos de sus competencias, y con la participación de las organizaciones de la sociedad civil, las redes sociales, las organizaciones políticas, los empresarios y los individuos, sin comprometer la capacidad de que las generaciones futuras puedan satisfacer sus necesidades. Mejora en la competitividad, entendida como la capacidad de la región para producir más eficientemente en relación a otras;
 
-XLV. Espacio público: El conjunto de inmuebles públicos y elementos arquitectónicos y naturales destinados por su naturaleza, por su uso o afectación, a la satisfacción de necesidades urbanas colectivas que trascienden, por lo tanto, los límites de los intereses privados de los habitantes; incluye elementos tales como las calles, banquetas, plazas, parques, fuentes, monumentos, etc.;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-XLVI. Estructura vial: La infraestructura conformada por las vialidades, banquetas, el conjunto de elementos, mobiliario y equipo necesarios para el traslado de personas y de bienes en el territorio municipal;
+XL. Dictamen técnico: El documento expedido por la Dirección que acredita y justifica, previo estudio y análisis correspondiente, la viabilidad o no de alguna acción urbana dentro del centro de población;
 
-XLVII. Estudio de impacto ambiental: El análisis que debe realizarse cuando se pretenda llevar a cabo una acción urbana, con la finalidad de conocer el impacto que tendrá en sus habitantes, paisaje, medio ambiente y demás componentes. Con base en el resultado del mismo, se podrá determinar cómo minimizar o evitar dicho impacto, proponiendo las condiciones a que se sujetará su operación;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-XLVIII. Estudio de impacto urbano: El análisis que debe realizarse cuando se pretenda llevar a cabo una acción urbana, con la finalidad de conocer el impacto que tendrá en sus habitantes, comunicaciones, equipamiento, servicios públicos, actividades económicas y otros componentes urbanos. Con base en el resultado del mismo, se podrá determinar cómo minimizar o evitar dicho impacto, proponiendo las condiciones a que se sujetará su operación;
+XLI. Dirección: La Dirección de Desarrollo Urbano y Ecología del Municipio;
 
-XLIX. Fachada: El paramento vertical de un edificio visible desde el espacio público;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-L. Fraccionamiento: La división de un terreno en manzanas y lotes, que requiere el trazo de una o más calles o la ejecución de obras de urbanización, infraestructura, equipamiento y servicios urbanos;
+XLII. Director: El titular de la Dirección de Desarrollo Urbano y Ecología del Municipio;
 
-LI. Frente mínimo: Es la dimensión mínima establecida por los instrumentos de planeación a un lote o predio que define la distancia mínima de su lindero con la vía pública;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LII. Fusión: La unión de dos o más predios colindantes para formar uno solo;
+XLIII. Director de Obras Públicas: El Director de Obras Públicas del Municipio;
 
-LIII. Guarnición; La estructura de concreto que sirve de límite entre la banqueta y el arroyo de calle, además protege el que las llantas de los vehículos invadan las banquetas;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LIV. Imagen urbana: La impresión visual que producen las características físicas, arquitectónicas, urbanísticas, del medio ambiente, socio-culturales e históricas de un centro de población. Para los efectos del presente Reglamento, la imagen urbana y del paisaje se integra por los siguientes componentes naturales y construidos: el medio natural, traza urbana y vialidades; espacio público, infraestructura, mobiliario urbano, edificaciones, sitios, zonas e inmuebles patrimoniales; anuncios, publicidad, señalización, entre otros;
+XLIV. Edificación: Los elementos construidos que albergan un uso y han sido realizados por el ser humano a lo largo del tiempo;
 
-LV. IMPLAN: El Instituto Municipal de Planeación de Chihuahua; Organismo técnico del Consejo de Planeación Urbana Municipal;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LVI. INAH: El Instituto Nacional de Antropología e Historia;
+XLV. Equipamiento: Los edificios y espacios acondicionados de utilización pública, general o restringida, en los que se proporcionan a la población servicios de bienestar social. Considerando su cobertura se clasifican en vecinal, barrial, distrital y regional. Cuando el equipamiento lo administra el sector público este se considera un destino y cuando lo administra el sector privado se considera un uso;
 
-LVII. Inmueble: El suelo, predio o lote, y las construcciones adheridas a él, todo lo que este unido al mismo de manera fija, de modo que no pueda separarse sin deterioro del mismo o del objeto a él adherido;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LVIII. JMAS: Junta Municipal de Agua y Saneamiento;
+XLVI. Espacio público: El conjunto de inmuebles públicos y elementos arquitectónicos y naturales destinados por su naturaleza, por su uso o afectación, a la satisfacción de necesidades urbanas colectivas que trascienden, por lo tanto, los límites de los intereses privados de los habitantes; incluye elementos tales como las calles, banquetas, plazas, parques, fuentes, monumentos, etc.;
 
-LIX. Ley: La Ley de Desarrollo Urbano Sostenible del Estado de Chihuahua;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LX. Ley de Ingresos: La Ley de Ingresos del Municipio de Chihuahua;
+XLVII. Estructura vial: La infraestructura conformada por las vialidades, banquetas, el conjunto de elementos, mobiliario y equipo necesarios para el traslado de personas y de bienes en el territorio municipal;
 
-LXI. Ley del Equilibrio Ecológico: La Ley del Equilibrio Ecológico y Protección al Ambiente del Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LXII. Licencia de anuncios publicitarios: El documento con valor oficial que expide la Dirección previa solicitud del interesado, teniendo como base las normas técnicas establecidas en este Reglamento y demás disposiciones legales aplicables, donde se autoriza la colocación de un anuncio, siendo este un medio de comunicación que indique, señale, exprese muestre o difunda al público cualquier mensaje relacionado con la producción y venta de bienes, con la prestación de servicios y con el ejercicio lícito de las actividades profesionales , políticas, cívicas, culturales, industriales, mercantiles y técnicas, previo cumplimiento de los requisitos que se establecen en los formatos aprobados;
+XLVIII. Estudio de impacto ambiental: El análisis que debe realizarse cuando se pretenda llevar a cabo una acción urbana, con la finalidad de conocer el impacto que tendrá en sus habitantes, paisaje, medio ambiente y demás componentes. Con base en el resultado del mismo, se podrá determinar cómo minimizar o evitar dicho impacto, proponiendo las condiciones a que se sujetará su operación;
 
-LXIII. Licencia de apertura de zanjas: El documento con valor oficial que expide la Dirección previa solicitud del interesado, donde se autoriza la apertura de la zanja, previa revisión y dictamen de factibilidad de las empresas privadas y organismos públicos que proporcionan servicios de infraestructura en el área donde se pretenda realizar los trabajos, previo cumplimiento de los requisitos que se establecen en los formatos aprobados;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LXIV. Licencia de construcción: El documento expedido por la Dirección, previa solicitud, mediante el cual se autoriza a los propietarios o poseedores, según el caso, a construir, ampliar, modificar, reparar o demoler una edificación o instalación;
+XLIX. Estudio de impacto urbano: El análisis que debe realizarse cuando se pretenda llevar a cabo una acción urbana, con la finalidad de conocer el impacto que tendrá en sus habitantes, comunicaciones, equipamiento, servicios públicos, actividades económicas y otros componentes urbanos. Con base en el resultado del mismo, se podrá determinar cómo minimizar o evitar dicho impacto, proponiendo las condiciones a que se sujetará su operación;
 
-LXV. Licencia de fusión: El documento con valor oficial que expide la Dirección, previa solicitud del interesado, donde se autoriza la unión en un solo predio de dos o más terrenos colindantes, previo cumplimiento de los requisitos que se establecen en los formatos aprobados;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LXVI. Licencia de renovación de obra: El documento con valor oficial que expide la Dirección, previa solicitud del interesado, donde se autoriza la ampliación del plazo de ejecución de labores en una construcción previamente autorizada, previo cumplimiento de los requisitos que se establecen en los formatos aprobados;
+L. Fachada: El paramento vertical de un edificio visible desde el espacio público;
 
-LXVII. Licencia de subdivisión: El documento con valor oficial que expide la Dirección, previa solicitud del interesado, donde se autoriza la partición de un terreno en dos o más fracciones, todos con frente a vía pública reconocida y que no requiera el trazo de una vialidad o la introducción de servicios urbanos básicos, previo cumplimiento de los requisitos que se establecen en los formatos aprobados;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LXVIII. Licencia de Uso del Suelo: Es el documento expedido por la autoridad municipal, previa solicitud del interesado, en la que se hace constar un uso o destino para un inmueble o predio específico dentro de un Centro de Población en los casos establecidos en el Plan;
+LI. Fraccionamiento: La división de un terreno en manzanas y lotes, que requiere el trazo de una o más calles o la ejecución de obras de urbanización, infraestructura, equipamiento y servicios urbanos;
 
-LXIX. Licencia para instalación de antenas de telecomunicaciones: El documento con valor oficial que expide la Dirección previa solicitud del interesado, y cumplimiento de los requisitos que se establecen en los formatos aprobados. Teniendo como base las normas técnicas establecidas en este Reglamento y demás disposiciones legales aplicables;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LXX. Licencia temporal o trámite inmediato: El documento expedido por la Dirección, previa solicitud del interesado, en el que se autoriza la ejecución de una acción urbana en el Municipio ante la necesidad de iniciar trabajos de edificación sin contar con la totalidad de la documentación requerida para tramitar una licencia definitiva, condicionándola a complementarla en un plazo establecido en el mismo;
+LII. Frente mínimo: Es la dimensión mínima establecida por los instrumentos de planeación a un lote o predio que define la distancia mínima de su lindero con la vía pública;
 
-LXXI. Límite de zonificación: La línea virtual, generalmente sobre ejes de calles, que delimita las zonificaciones en que se encuentra dividido un territorio, comprendido dentro del límite del centro de población;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LXXII. Lote: La fracción de un predio resultado de su división, debidamente deslindado e incorporado. Puede ser producto de un fraccionamiento, conjunto urbano, fusión, subdivisión o relotificación;
+LIII. Fusión: La unión de dos o más predios colindantes para formar uno solo;
 
-LXXIII. Lote mínimo: La superficie mínima en la cual podrá ubicarse una edificación, vivienda o cualquier otra acción urbana que esté determinada por la Ley y por los planes o programas de desarrollo urbano sostenible;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LXXIV. Mantenimiento: Cualquier procedimiento de limpieza, de pintura, reparación y reposición de partes defectuosas de un inmueble, desarrollo inmobiliario, señalamiento o anuncio, sin alterar el original ni en su estructura ni en su diseño básico;
+LIV. Guarnición: La estructura de concreto que sirve de límite entre la banqueta y el arroyo de calle, además protege el que las llantas de los vehículos invadan las banquetas;
 
-LXXV. Medio natural o paisaje: El formado por montañas, cerros, colinas, ríos, arroyos, cañadas, lagos, valles, la vegetación, la flora y la fauna. El paisaje natural es considerado como recurso y patrimonio cultural de los habitantes;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LXXVI. Mobiliario urbano: El elemento o instalaciones de uso común ubicado en el espacio público, con fines de servicio u ornamental de propiedad federal, estatal o municipal o de sus concesionarios;
+LV. Imagen urbana: La impresión visual que producen las características físicas, arquitectónicas, urbanísticas, del medio ambiente, socio-culturales e históricas de un centro de población. Para los efectos del presente Reglamento, la imagen urbana y del paisaje se integra por los siguientes componentes naturales y construidos: el medio natural, traza urbana y vialidades; espacio público, infraestructura, mobiliario urbano, edificaciones, sitios, zonas e inmuebles patrimoniales; anuncios, publicidad, señalización, entre otros;
 
-LXXVII. Modificación menor: La acción urbana prevista por la Ley por medio de la cual se modifica el uso de suelo asignado a un predio, a otro que sea compatible, el cambio de la densidad e intensidad de su aprovechamiento o el cambio de altura máxima de construcción permitida en los instrumentos de planificación urbana correspondientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LXXVIII. Monumento histórico: Los bienes vinculados con la historia de la nación, regional y local, a partir del establecimiento de la cultura hispánica en el país, en los términos de la declaratoria respectiva o por determinación de ley. Pueden ser bienes muebles e inmuebles, documentos y colecciones;
+LVI. IMPLAN: El Instituto Municipal de Planeación de Chihuahua; Organismo técnico del Consejo de Planeación Urbana Municipal;
 
-LXXIX. Municipio: El Municipio de Chihuahua;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LXXX. Nomenclatura oficial: La denominación de los bienes inmuebles, de las vías públicas, así como plazas, parques o cualquier otro del dominio público sujeto a nomenclatura;
+LVII. INAH: El Instituto Nacional de Antropología e Historia;
 
-LXXXI. Nominación de desarrollo urbano: La asignación de un nombre oficial a una zona de asentamiento habitacional, comercial o industrial, con su debida delimitación física conferido por el Ayuntamiento de conformidad con las leyes y reglamentos en la materia;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LXXXII. Numeración oficial: La asignación de un número a un predio en sentido progresivo, referido al sistema de ejes rectores, para facilitar su localización e identificación, que consta de dos series de dígitos; la primera serie aumenta conforme se aleja calle a calle del origen; la segunda serie ubica el predio en la acera correspondiente dentro de la manzana. Por disposición de la autoridad administrativa y de conformidad con las leyes y reglamentos en la materia, se asignará un solo número a cada predio como registro oficial;
+LVIII. Inmueble: El suelo, predio o lote, y las construcciones adheridas a él, todo lo que este unido al mismo de manera fija, de modo que no pueda separarse sin deterioro del mismo o del objeto a él adherido;
 
-LXXXIII. Nominación oficial de vía pública: La asignación de un nombre, alfabético o numérico, a una vía pública, con el cual se le identifica y localiza a través de uno o más desarrollos urbanos;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LXXXIV. Obras de edificación: Todas aquellas acciones de adecuación espacial, públicas o privadas necesarias a realizar en un predio para permitir su uso o destino;
+LIX. JMAS: Junta Municipal de Agua y Saneamiento;
 
-LXXXV. Obras de infraestructura básica: Las redes generales que permiten suministrar en las distintas unidades territoriales y áreas que integran el centro de población, los servicios públicos de vialidad municipal, agua potable, alcantarillado, drenaje y energéticos;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LXXXVI. Organización territorial. La clasificación de áreas y zonas del territorio de un centro de población para fines de la planeación urbana;
+LX. Ley: La Ley de Desarrollo Urbano Sostenible del Estado de Chihuahua;
 
-LXXXVII. Paisaje cultural: El sitio o región geográfica que contenga escenarios naturales, monumentos arquitectónicos con acontecimientos históricos o que posea relevancia por su valor estético o tradicional. Además de la geomorfología, la flora y la fauna, este paisaje puede incluir humedales, estanques, corrientes de agua, fuentes, veredas, escalones, muros, inmuebles, muebles decorativos o utilitarios, entre otros, de acuerdo a su relevancia colectiva;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-LXXXVIII. Paramento de la edificación. El plano o planos verticales virtuales que delimitan o enmarcan los limites o el inicio de las construcciones dentro de un predio determinado;
+LXI. Ley de Ingresos: La Ley de Ingresos del Municipio de Chihuahua;
 
-LXXXIX. Patrimonio edificado: Todo inmueble arqueológico, histórico, artístico de valor cultural o de carácter vernáculo así catalogado en los documentos o instrumentos de planificación correspondientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-XC. Pavimentos: El conjunto de capas comprendidas entre el suelo natural y la superficie de rodamiento de, vehículos, la circulación de personas o equipos;
+LXII. Ley del Equilibrio Ecológico: La Ley del Equilibrio Ecológico y Protección al Ambiente del Estado;
 
-XCI. PEMEX: Petróleos Mexicanos;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-XCII. Plan de Desarrollo: El Plan de Desarrollo Urbano 2040 del Centro de Población Chihuahua, referido a la más reciente actualización o revisión;
+LXIII. Licencia de anuncios publicitarios: El documento con valor oficial que expide la Dirección previa solicitud del interesado, teniendo como base las normas técnicas establecidas en este Reglamento y demás disposiciones legales aplicables, donde se autoriza la colocación de un anuncio, siendo este un medio de comunicación que indique, señale, exprese muestre o difunda al público cualquier mensaje relacionado con la producción y venta de bienes, con la prestación de servicios y con el ejercicio lícito de las actividades profesionales, políticas, cívicas, culturales, industriales, mercantiles y técnicas, previo cumplimiento de los requisitos que se establecen en los formatos aprobados;
 
-XCIII. Plan Maestro de Desarrollo Urbano Sostenible: La propuesta de desarrollo urbano para uno o varios predios que se localizan dentro o fuera del área urbana sin exceder los límites de un centro de población, en concordancia con los programas de desarrollo y demás normatividad existente;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-XCIV. Plan Parcial de Desarrollo Urbano Sostenible: El instrumento técnico jurídico administrativo autorizado, que en mayor profundidad y detalle del contemplado por el Programa o Plan de Desarrollo Urbano Sostenible, cubre un área delimitada del territorio del centro de población y es la base para la tramitación de acciones urbanas, que tendrá por referencia los propios programas o planes de Desarrollo Urbano Sostenible y demás legislación relativa y aplicable;
+LXIV. Licencia de apertura de zanjas: El documento con valor oficial que expide la Dirección previa solicitud del interesado, donde se autoriza la apertura de la zanja, previa revisión y dictamen de factibilidad de las empresas privadas y organismos públicos que proporcionan servicios de infraestructura en el área donde se pretenda realizar los trabajos, previo cumplimiento de los requisitos que se establecen en los formatos aprobados;
 
-XCV. Planes o Programas: Los instrumentos de planeación urbana que se encuentren vigentes en el municipio, incluyendo los municipales, de zona metropolitana, de centros de población, parciales o de zona, sectoriales y maestros;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-XCVI. Predio: El área territorial amparada por una escritura pública o documento legal de propiedad, que puede o no estar físicamente delimitado;
+LXV. Licencia de construcción: El documento expedido por la Dirección, previa solicitud, mediante el cual se autoriza a los propietarios o poseedores, según el caso, a construir, ampliar, modificar, reparar o demoler una edificación o instalación;
 
-XCVII. Presidente Municipal: El Presidente Municipal de Chihuahua;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-XCVIII. Presupuesto de Egresos: El Presupuesto de Egresos del Municipio de Chihuahua;
+LXVI. Licencia de fusión: El documento con valor oficial que expide la Dirección, previa solicitud del interesado, donde se autoriza la unión en un solo predio de dos o más terrenos colindantes, previo cumplimiento de los requisitos que se establecen en los formatos aprobados;
 
-XCIX. Publicidad: Los medios de comunicación gráfica colocados hacia la vía pública, ya sea con fines comerciales o de servicio u oficiales;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-C. Reglamento: El presente Reglamento de Desarrollo Urbano Sostenible del Municipio de Chihuahua;
+LXVII. Licencia de renovación de obra: El documento con valor oficial que expide la Dirección, previa solicitud del interesado, donde se autoriza la ampliación del plazo de ejecución de labores en una construcción previamente autorizada, previo cumplimiento de los requisitos que se establecen en los formatos aprobados;
 
-CI. Reglamento de Construcciones: El Reglamento de Construcciones y Normas Técnicas para el Municipio de Chihuahua;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CII. Reglamento Interior: El documento donde se estipulan los derechos, obligaciones y forma de operación de los adquirentes de lotes o unidades construidas dentro de un conjunto urbano fraccionamiento, constituido bajo el régimen de propiedad en condominio;
+LXVIII. Licencia de subdivisión: El documento con valor oficial que expide la Dirección, previa solicitud del interesado, donde se autoriza la partición de un terreno en dos o más fracciones, todos con frente a vía pública reconocida y que no requiera el trazo de una vialidad o la introducción de servicios urbanos básicos, previo cumplimiento de los requisitos que se establecen en los formatos aprobados;
 
-CIII. Relotificación: La modificación total o parcial de la lotificación originalmente autorizada para un fraccionamiento o el cambio en la distribución o dimensiones de los lotes en un predio, cuyas características hayan sido autorizadas con anterioridad;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CIV. Renovación urbana: La transformación o mejoramiento del suelo en áreas de los centros de población, mediante la ejecución de obras materiales para el mejoramiento, saneamiento y reposición de sus elementos de dominio público tales como la vialidad, las redes de servicio o la imagen urbana, pudiendo implicar un cambio en las relaciones de propiedad y tenencia del suelo, así como la modificación de usos y destinos de predios o edificaciones;
+LXIX. Licencia de Uso del Suelo: Es el documento expedido por la autoridad municipal, previa solicitud del interesado, en la que se hace constar un uso o destino para un inmueble o predio específico dentro de un Centro de Población en los casos establecidos en el Plan;
 
-CV. Reparación: Las acciones que tienen por objeto corregir las deficiencias estructurales o funcionales de un inmueble, desarrollo inmobiliario, señalamiento o anuncio o de sus elementos, generados por el deterioro natural o inducido;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CVI. Responsable de anuncio: La persona moral o física que funge como dueño de la propiedad donde se instala el anuncio publicitario o de la estructura del mismo;
+LXX. Licencia para instalación de antenas de telecomunicaciones: El documento con valor oficial que expide la Dirección previa solicitud del interesado, y cumplimiento de los requisitos que se establecen en los formatos aprobados. Teniendo como base las normas técnicas establecidas en este Reglamento y demás disposiciones legales aplicables;
 
-CVII. Restauración: El conjunto de operaciones tendientes a conservar un bien cultural, mantener un sitio, un monumento histórico o artístico en estado de servicio, conforme a sus características originales históricas, constructivas y estéticas;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CVIII. Restricciones: Las limitaciones impuestas a un predio o a franjas del mismo para su utilización dentro de la propiedad privada, que por razones de imagen urbana, previsión de la instalación de infraestructura o ampliación de vialidades o cualquiera de sus elementos debe conservarse permanentemente libre de construcciones de cualquier tipo u obstáculos visuales;
+LXXI. Licencia temporal o trámite inmediato: El documento expedido por la Dirección, previa solicitud del interesado, en el que se autoriza la ejecución de una acción urbana en el Municipio ante la necesidad de iniciar trabajos de edificación sin contar con la totalidad de la documentación requerida para tramitar una licencia definitiva, condicionándola a complementarla en un plazo establecido en el mismo;
 
-CIX. Saturación: La condición de una zona la cual se determina como inviable para la instalación de publicidad por considerarse que se ha llegado al límite permisible de acuerdo a los estudios y dictámenes respectivos;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CX. SCT: La Secretaría de Comunicaciones y Transportes;
+LXXII. Límite de zonificación: La línea virtual, generalmente sobre ejes de calles, que delimita las zonificaciones en que se encuentra dividido un territorio, comprendido dentro del límite del centro de población;
 
-CXI. Secretaría: La Secretaría del Ayuntamiento de Chihuahua;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CXII. Señalización: Los anuncios y propaganda que aporten información o publicidad por medios visuales, colocados hacia la vía pública con fines comerciales o de servicio;
+LXXIII. Lote: La fracción de un predio resultado de su división, debidamente deslindado e incorporado. Puede ser producto de un fraccionamiento, conjunto urbano, fusión, subdivisión o relotificación;
 
-CXIII. SIG: El Sistema de Información Geográfica;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CXIV. Sistema de ejes rectores: La denominación técnica que se le da a la vialidad previamente establecida, la cual dará la secuencia para la asignación numérica de las vialidades paralelas a la misma. Asimismo, define la secuencia que deberá llevar la numeración oficial a partir del eje. Los ejes rectores para la ciudad de Chihuahua serán la Avenida Independencia y Avenida Benito Juárez. En las demás poblaciones del municipio los ejes rectores serán establecidos por la Dirección;
+LXXIV. Lote mínimo: La superficie mínima en la cual podrá ubicarse una edificación, vivienda o cualquier otra acción urbana que esté determinada por la Ley y por los planes o programas de desarrollo urbano sostenible;
 
-CXV. Sitio: El lugar o localidad que por sus características patrimoniales, naturales, culturales, arquitectónicas o urbanas, tiene significación popular y presenta interés para el cuidado de sus edificaciones, elementos e imagen urbana;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CXVI. Subcentro Urbano: El elemento de la estructura urbana dentro de un centro de población, que concentra equipamientos, comercios y servicios de carácter sectorial. Regularmente se ubican en las inmediaciones de dos o más vialidades primarias o regionales;
+LXXV. Mantenimiento: Cualquier procedimiento de limpieza, de pintura, reparación y reposición de partes defectuosas de un inmueble, desarrollo inmobiliario, señalamiento o anuncio, sin alterar el original ni en su estructura ni en su diseño básico;
 
-CXVII. Subdivisión: La partición de un predio en dos o más fracciones de terreno que no requieren del trazo de vía pública ni de obras de urbanización. El lote o lotes resultantes de la subdivisión no podrán ser de menor superficie al lote mínimo establecido en la zona en que se ubique el predio a subdividir;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CXVIII. Suelo urbanizable: La superficie de tierra urbana cuyas características la hacen susceptible de aprovechamiento para el desarrollo urbano sostenible y el crecimiento de los centros de población sin detrimento del equilibrio ecológico;
+LXXVI. Medio natural o paisaje: El formado por montañas, cerros, colinas, ríos, arroyos, cañadas, lagos, valles, la vegetación, la flora y la fauna. El paisaje natural es considerado como recurso y patrimonio cultural de los habitantes;
 
-CXIX. Suelo urbanizado: La superficie de tierra que se ubica donde se han ejecutado obras de urbanización autorizadas por la Dirección;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CXX. Suelo Urbano: Las superficies que los planes y programas califiquen como tal, debido a que cuentan con infraestructura urbana, equipamientos y servicios, o bien se encuentran ocupados con asentamientos humanos;
+LXXVII. Mobiliario urbano: El elemento o instalaciones de uso común ubicado en el espacio público, con fines de servicio u ornamental de propiedad federal, estatal o municipal o de sus concesionarios;
 
-CXXI. Tesorería: La Tesorería del Municipio de Chihuahua;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CXXII. Toldo: La lona protectora contra la luz solar, utilizada en la fachada de los edificios para evitar y controlar la entrada de luz;
+LXXVIII. Modificación menor: La acción urbana prevista por la Ley por medio de la cual se modifica el uso de suelo asignado a un predio, a otro que sea compatible, el cambio de la densidad e intensidad de su aprovechamiento o el cambio de altura máxima de construcción permitida en los instrumentos de planificación urbana correspondientes;
 
-CXXIII. Topografía: El conjunto de elementos que configuran la superficie de un predio y que es determinante de la forma y disposición del desarrollo urbano sostenible y su asentamiento;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CXXIV. Traza urbana: El patrón de organización espacial del asentamiento. Está conformada por vialidades, manzanas, lotes, paramentos, y espacios abiertos;
+LXXIX. Monumento histórico: Los bienes vinculados con la historia de la nación, regional y local, a partir del establecimiento de la cultura hispánica en el país, en los términos de la declaratoria respectiva o por determinación de ley. Pueden ser bienes muebles e inmuebles, documentos y colecciones;
 
-CXXV. Unidad Privativa: El conjunto de bienes cuyo aprovechamiento y libre disposición corresponden a un condómino dentro de un régimen de propiedad de ese tipo;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CXXVI. Uso Condicionado: El uso o los usos de suelo asignados a un predio que desarrollan funciones complementarias, pero que por su importancia y magnitud requieren presentar para su aprobación, un estudio detallado que demuestre que no se causarán impactos negativos al entorno y específicamente deberán presentar los requisitos señalados por el presente reglamento;
+LXXX. Municipio: El Municipio de Chihuahua;
 
-CXXVII. Uso de suelo: El uso específico para un predio determinado dentro de un centro de población de acuerdo con el Plan de Desarrollo Urbano de un centro de población;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CXXVIII. Uso Permitido: El uso o los usos de suelo asignados a un predio que caracterizan o complementan de una manera principal, un espacio dentro de la estructura urbana, siendo plenamente permitida su ubicación;
+LXXXI. Nomenclatura oficial: La denominación de los bienes inmuebles, de las vías públicas, así como plazas, parques o cualquier otro del dominio público sujeto a nomenclatura;
 
-CXXIX. Uso Prohibido: El uso o los usos a los que no podrán destinarse los predios según la zonificación establecida en los planes, programas y declaratorias de desarrollo urbano sostenible;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CXXX. Vano: Todo hueco o vacío que se ubica sobre el macizo;
+LXXXII. Nominación de desarrollo urbano: La asignación de un nombre oficial a una zona de asentamiento habitacional, comercial o industrial, con su debida delimitación física conferido por el Ayuntamiento de conformidad con las leyes y reglamentos en la materia;
 
-CXXXI. Vía pública: El espacio de uso común, que por disposición de la autoridad o por razón del servicio prestado se destine al libre tránsito, o bien que de hecho este destinado a uso público en forma habitual. La vía pública comprende además el subsuelo y el espacio aéreo correspondiente;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CXXXII. Vialidad: El área que se utiliza para el tránsito de personas y vehículos recibe el nombre de calle;
+LXXXIII. Numeración oficial: La asignación de un número a un predio en sentido progresivo, referido al sistema de ejes rectores, para facilitar su localización e identificación, que consta de dos series de dígitos; la primera serie aumenta conforme se aleja calle a calle del origen; la segunda serie ubica el predio en la acera correspondiente dentro de la manzana. Por disposición de la autoridad administrativa y de conformidad con las leyes y reglamentos en la materia, se asignará un solo número a cada predio como registro oficial;
 
-CXXXIII. Zona conurbada o de conurbación: El área que se determina mediante los límites establecidos en el convenio aprobado por el Congreso del Estado, en donde se reconozca el fenómeno de conurbación, para los efectos de planear y regular de manera conjunta y coordinada el desarrollo de los centros de población integrados en una unidad urbana como se dispone en la fracción VI del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CXXXIV. Zona de Amortiguamiento: La franja de terreno que debe conservarse con usos de suelo que permitan la transición entre diversos ya establecidos con el fin de mitigar cualquier impacto negativo o para prevenir riesgos;
+LXXXIV. Nominación oficial de vía pública: La asignación de un nombre, alfabético o numérico, a una vía pública, con el cual se le identifica y localiza a través de uno o más desarrollos urbanos;
 
-CXXXV. Zona de Conservación y Protección Ecológica: La zona que se encuentra fuera de los límites del área urbana y del área de reserva de crecimiento urbano, pero están contenidas dentro de los límites de un centro de población. Los propietarios de los predios comprendidos en dichas zonas, cualquiera que sea el régimen de propiedad, solo podrán aprovecharlos y disponer de ellos siempre y cuando no se alteren las condiciones ambientales de la zona, de acuerdo a lo establecido en los instrumentos de planeación urbana vigentes;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CXXXVI. Zona de Protección Paisajística: La extensión de terreno que por su grado actual de contaminación visual requiere protección especial en cuanto a su imagen.
+LXXXV. Obras de edificación: Todas aquellas acciones de adecuación espacial, públicas o privadas necesarias a realizar en un predio para permitir su uso o destino;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+LXXXVI. Obras de infraestructura básica: Las redes generales que permiten suministrar en las distintas unidades territoriales y áreas que integran el centro de población, los servicios públicos de vialidad municipal, agua potable, alcantarillado, drenaje y energéticos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+LXXXVII. Organización territorial: La clasificación de áreas y zonas del territorio de un centro de población para fines de la planeación urbana;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+LXXXVIII. Paisaje cultural: El sitio o región geográfica que contenga escenarios naturales, monumentos arquitectónicos con acontecimientos históricos o que posea relevancia por su valor estético o tradicional. Además de la geomorfología, la flora y la fauna, este paisaje puede incluir humedales, estanques, corrientes de agua, fuentes, veredas, escalones, muros, inmuebles, muebles decorativos o utilitarios, entre otros, de acuerdo a su relevancia colectiva;
+
+> <small>(REFORMADA, G.M. 1 DE MARZO DE 2021)</small>
+
+LXXXIX. Paramento de la edificación: El plano o planos verticales virtuales que delimitan o enmarcan los límites o el inicio de las construcciones dentro de un predio determinado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+XC. Patrimonio edificado: Todo inmueble arqueológico, histórico, artístico de valor cultural o de carácter vernáculo así catalogado en los documentos o instrumentos de planificación correspondientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+XCI. Pavimentos: El conjunto de capas comprendidas entre el suelo natural y la superficie de rodamiento de, vehículos, la circulación de personas o equipos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+XCII. PEMEX: Petróleos Mexicanos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+XCIII. Plan de Desarrollo: El Plan de Desarrollo Urbano 2040 del Centro de Población Chihuahua, referido a la más reciente actualización o revisión;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+XCIV. Plan Maestro de Desarrollo Urbano Sostenible: La propuesta de desarrollo urbano para uno o varios predios que se localizan dentro o fuera del área urbana sin exceder los límites de un centro de población, en concordancia con los programas de desarrollo y demás normatividad existente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+XCV. Plan Parcial de Desarrollo Urbano Sostenible: El instrumento técnico jurídico administrativo autorizado, que en mayor profundidad y detalle del contemplado por el Programa o Plan de Desarrollo Urbano Sostenible, cubre un área delimitada del territorio del centro de población y es la base para la tramitación de acciones urbanas, que tendrá por referencia los propios programas o planes de Desarrollo Urbano Sostenible y demás legislación relativa y aplicable;
+
+> <small>(REFORMADA, G.M. 1 DE MARZO DE 2021)</small>
+
+XCVI. Planes o Programas: Los instrumentos de planeación urbana que se encuentren vigentes en el Municipio, incluyendo los municipales, de zona metropolitana, de centros de población, parciales o de zona, sectoriales y maestros;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 1 DE MARZO DE 2021)</small>
+
+XCVII. Polígono Ciudad Cercana: Es la demarcación territorial aprobada por el H. Ayuntamiento, para el desarrollo o aprovechamiento prioritario o estratégico de inmuebles y suelo; en el Polígono Ciudad Cercana se establecerá tanto su demarcación territorial como los Corredores Urbanos Consolidados y las Primeras Manzanas y, en su caso, Segundas Manzanas en las que se aplicará la Política Pública Ciudad Cercana.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 1 DE MARZO DE 2021)</small>
+
+XCVIII. Polígonos de Desarrollo y Construcción Prioritarios: Son aquellas demarcaciones territoriales propuestas por el IMPLAN y aprobado (sic) por el H. Ayuntamiento para el desarrollo o aprovechamiento prioritario o estratégico de inmuebles, bajo el esquema de sistemas de actuación pública o privada, de acuerdo con los objetivos previstos en dichos instrumentos. Las acciones urbanas deberán llevarse a cabo, tanto por las autoridades como por los propietarios de los inmuebles y del suelo, conforme a tales declaratorias y siempre ajustándose a las determinaciones de los planes o programas de Desarrollo Urbano y Desarrollo Metropolitano aplicables y de las Políticas Públicas aprobadas por el H. Ayuntamiento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 1 DE MARZO DE 2021)</small>
+
+XCIX. Política Pública Ciudad Cercana: Es la demarcación territorial propuesta del IMPLAN, aprobadas (sic) por el H. Ayuntamiento, referente a los estímulos fiscales, urbanos y normativos destinados a promover una mayor inversión y mejorar la eficiencia, ocupación, uso y aprovechamiento de los inmuebles y el suelo localizados en el Polígono Ciudad Cercana sobre los Corredores Urbanos Consolidados con cobertura de equipamiento, infraestructura, servicios públicos y privados y fuentes de empleo, que los hacen susceptibles a un mayor acceso, cercanía, compacidad y conectividad entre las personas y sus actividades cotidianas. La política deberá ser monitoreada y evaluada por La Comisión de Revisión y Propuesta de Modificación del Reglamento de al menos una vez al año, previo a la formulación del proyecto de ley de ingresos del año que corresponde.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+C. Predio: El área territorial amparada por una escritura pública o documento legal de propiedad, que puede o no estar físicamente delimitado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CI. Presidente Municipal: El Presidente Municipal de Chihuahua;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CII. Presupuesto de Egresos: El Presupuesto de Egresos del Municipio de Chihuahua;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CIII. Primeras Manzanas: Son aquellas que se localizan a lo largo de los Corredores Urbanos Consolidados. Es el espacio urbano, edificado o destinado a la edificación, delimitado por calles por todos sus lados, que se encuentra dentro del Polígono de Desarrollo y Construcción Prioritario y que por uno de sus lados colinda con un corredor urbano consolidado.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CIV. Publicidad: Los medios de comunicación gráfica colocados hacia la vía pública, ya sea con fines comerciales o de servicio u oficiales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CV. Reglamento: El presente Reglamento de Desarrollo Urbano Sostenible del Municipio de Chihuahua;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CVI. Reglamento de Construcciones: El Reglamento de Construcciones y Normas Técnicas para el Municipio de Chihuahua;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CVII. Reglamento Interior: El documento donde se estipulan los derechos, obligaciones y forma de operación de los adquirentes de lotes o unidades construidas dentro de un conjunto urbano fraccionamiento, constituido bajo el régimen de propiedad en condominio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CVIII. Rehabilitación: Mejoramiento de las condiciones físicas de un espacio construido para adecuarlo a las funciones a que está destinado. Implica la consolidación de estructuras, la reorganización del espacio, la instalación de servicios y mejoramiento en la apariencia de las construcciones.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CIX. Relotificación: La modificación total o parcial de la lotificación originalmente autorizada para un fraccionamiento o el cambio en la distribución o dimensiones de los lotes en un predio, cuyas características hayan sido autorizadas con anterioridad;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CX. Renovación urbana: La transformación o mejoramiento del suelo en áreas de los centros de población, mediante la ejecución de obras materiales para el mejoramiento, saneamiento y reposición de sus elementos de dominio público tales como la vialidad, las redes de servicio o la imagen urbana, pudiendo implicar un cambio en las relaciones de propiedad y tenencia del suelo, así como la modificación de usos y destinos de predios o edificaciones;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXI. Reparación: Las acciones que tienen por objeto corregir las deficiencias estructurales o funcionales de un inmueble, desarrollo inmobiliario, señalamiento o anuncio o de sus elementos, generados por el deterioro natural o inducido;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXII. Responsable de anuncio: La persona moral o física que funge como dueño de la propiedad donde se instala el anuncio publicitario o de la estructura del mismo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXIII. Restauración: El conjunto de operaciones tendientes a conservar un bien cultural, mantener un sitio, un monumento histórico o artístico en estado de servicio, conforme a sus características originales históricas, constructivas y estéticas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXIV. Restricciones: Las limitaciones impuestas a un predio o a franjas del mismo para su utilización dentro de la propiedad privada, que por razones de imagen urbana, previsión de la instalación de infraestructura o ampliación de vialidades o cualquiera de sus elementos debe conservarse permanentemente libre de construcciones de cualquier tipo u obstáculos visuales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXV. Saturación: La condición de una zona la cual se determina como inviable para la instalación de publicidad por considerarse que se ha llegado al límite permisible de acuerdo a los estudios y dictámenes respectivos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXVI. SCT: La Secretaría de Comunicaciones y Transportes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXVII. Secretaría: La Secretaría del Ayuntamiento de Chihuahua;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXVIII. Señalización: Los anuncios y propaganda que aporten información o publicidad por medios visuales, colocados hacia la vía pública con fines comerciales o de servicio;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXIX. SIG: El Sistema de Información Geográfica;
+
+> <small>(REFORMADA, G.M. 1 DE MARZO DE 2021)</small>
+
+CXX. Sistema de ejes rectores: La denominación técnica que se le da a la vialidad previamente establecida, la cual dará la secuencia para la asignación numérica de las vialidades paralelas a la misma. Asimismo, define la secuencia que deberá llevar la numeración oficial a partir del eje. Los ejes rectores para la ciudad de Chihuahua serán la Avenida Independencia y Avenida Benito Juárez. En las demás poblaciones del Municipio los ejes rectores serán establecidos por la Dirección;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXI. Sitio: El lugar o localidad que por sus características patrimoniales, naturales, culturales, arquitectónicas o urbanas, tiene significación popular y presenta interés para el cuidado de sus edificaciones, elementos e imagen urbana;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXII. Subcentro Urbano: El elemento de la estructura urbana dentro de un centro de población, que concentra equipamientos, comercios y servicios de carácter sectorial. Regularmente se ubican en las inmediaciones de dos o más vialidades primarias o regionales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXIII. Subdivisión: La partición de un predio en dos o más fracciones de terreno que no requieren del trazo de vía pública ni de obras de urbanización. El lote o lotes resultantes de la subdivisión no podrán ser de menor superficie al lote mínimo establecido en la zona en que se ubique el predio a subdividir;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXIV. Suelo urbanizable: La superficie de tierra urbana cuyas características la hacen susceptible de aprovechamiento para el desarrollo urbano sostenible y el crecimiento de los centros de población sin detrimento del equilibrio ecológico;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXV. Suelo urbanizado: La superficie de tierra que se ubica donde se han ejecutado obras de urbanización autorizadas por la Dirección;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXVI. Suelo Urbano: Las superficies que los planes y programas califiquen como tal, debido a que cuentan con infraestructura urbana, equipamientos y servicios, o bien se encuentran ocupados con asentamientos humanos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXVII. Tesorería: La Tesorería del Municipio de Chihuahua;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXVIII. Toldo: La lona protectora contra la luz solar, utilizada en la fachada de los edificios para evitar y controlar la entrada de luz;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXIX. Topografía: El conjunto de elementos que configuran la superficie de un predio y que es determinante de la forma y disposición del desarrollo urbano sostenible y su asentamiento;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXX. Traza urbana: El patrón de organización espacial del asentamiento. Está conformada por vialidades, manzanas, lotes, paramentos, y espacios abiertos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXXI. Unidad Privativa: El conjunto de bienes cuyo aprovechamiento y libre disposición corresponden a un condómino dentro de un régimen de propiedad de ese tipo;
+
+> <small>(REFORMADA, G.M. 1 DE MARZO DE 2021)</small>
+
+CXXXII. Uso Condicionado: El uso o los usos de suelo asignados a un predio que desarrollan funciones complementarias, pero que por su importancia y magnitud requieren presentar para su aprobación, un estudio detallado que demuestre que no se causarán impactos negativos al entorno y específicamente deberán presentar los requisitos señalados por el presente Reglamento;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXXIII. Uso de suelo: El uso específico para un predio determinado dentro de un centro de población de acuerdo con el Plan de Desarrollo Urbano de un centro de población;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXXIV. Uso Permitido: El uso o los usos de suelo asignados a un predio que caracterizan o complementan de una manera principal, un espacio dentro de la estructura urbana, siendo plenamente permitida su ubicación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXXV. Uso Prohibido: El uso o los usos a los que no podrán destinarse los predios según la zonificación establecida en los planes, programas y declaratorias de desarrollo urbano sostenible;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXXVI. Vano: Todo hueco o vacío que se ubica sobre el macizo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXXVII. Vía pública: El espacio de uso común, que por disposición de la autoridad o por razón del servicio prestado se destine al libre tránsito, o bien que de hecho este destinado a uso público en forma habitual. La vía pública comprende además el subsuelo y el espacio aéreo correspondiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXXVIII. Vialidad: El área que se utiliza para el tránsito de personas y vehículos recibe el nombre de calle;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXXXIX. Vivienda: Edificación dotada de infraestructura suficiente y de calidad cuya función principal es ofrecer refugio y confort a las personas, sus enseres y propiedades, protegiéndoles de las inclemencias climáticas y de otras amenazas naturales.
+
+> <small>(ADICIONADA, G.M. 1 DE MARZO DE 2021)</small>
+
+CXL. Vivienda plurifamiliar o multifamiliar: Viviendas o unidades departamentales construidas en forma horizontal o vertical, en donde la construcción está destinada a alojar, en unidades independientes, a dos o más familias en un mismo lote.
+
+> <small>(ADICIONADA, G.M. 1 DE MARZO DE 2021)</small>
+
+CXLI. Vivienda unifamiliar: Vivienda o unidad departamental construida en forma horizontal o vertical, en donde la construcción está destinada a alojar a una sola familia por unidad.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXLII. Zona conurbada o de conurbación: El área que se determina mediante los límites establecidos en el convenio aprobado por el Congreso del Estado, en donde se reconozca el fenómeno de conurbación, para los efectos de planear y regular de manera conjunta y coordinada el desarrollo de los centros de población integrados en una unidad urbana como se dispone en la fracción VI del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXLIII. Zona de Amortiguamiento: La franja de terreno que debe conservarse con usos de suelo que permitan la transición entre diversos ya establecidos con el fin de mitigar cualquier impacto negativo o para prevenir riesgos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXLIV. Zona de Conservación y Protección Ecológica: La zona que se encuentra fuera de los límites del área urbana y del área de reserva de crecimiento urbano, pero están contenidas dentro de los límites de un centro de población. Los propietarios de los predios comprendidos en dichas zonas, cualquiera que sea el régimen de propiedad, solo podrán aprovecharlos y disponer de ellos siempre y cuando no se alteren las condiciones ambientales de la zona, de acuerdo a lo establecido en los instrumentos de planeación urbana vigentes;
+
+> <small>(ADICIONADA CON SUS INCISOS [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXLV. Zona de Protección Paisajística: La extensión de terreno que por su grado actual de contaminación visual requiere protección especial en cuanto a su imagen.
 
 a) Bulevar Antonio Ortiz Mena;
 
@@ -625,11 +865,17 @@ w) Avenida Francisco Villa, y
 
 x) Avenida Ricardo Flores Magón.
 
-CXXXVII. Zona de Valor Paisajístico: La extensión de terreno cuya cualidad del paisaje circundante tiene significación social, valor escénico, natural o presenta una imagen deteriorada y por lo anterior, requiere protección especial en cuanto a su imagen;
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
 
-CXXXVIII. Zona o área metropolitana: El conjunto de dos o más municipios donde se localiza una ciudad de 50 mil o más habitantes, cuya área urbana, funciones y actividades rebasan el límite del municipio que originalmente la contenía, incorporando como parte de sí misma o de su área de influencia directa a municipios vecinos, predominantemente urbanos, con los que mantiene un alto grado de integración socioeconómica; en esta definición se incluye además a aquellos municipios que por sus características particulares son relevantes para la planeación y políticas públicas urbanas. Adicionalmente, se definen como zonas metropolitanas todos aquellos municipios que contienen una ciudad de un millón o más habitantes, así como aquellos con ciudades de 250 mil o más habitantes que comparten procesos de conurbación con ciudades de Estados Unidos de América, y
+CXLVI. Zona de Valor Paisajístico: La extensión de terreno cuya cualidad del paisaje circundante tiene significación social, valor escénico, natural o presenta una imagen deteriorada y por lo anterior, requiere protección especial en cuanto a su imagen;
 
-CXXXIX. Zonificación: La división geográfica del territorio adscrito dentro del límite de un centro de población en zonas o áreas con el objeto de definir sus aprovechamientos predominantes, las reservas, usos y destinos; así como determinar sus políticas de conservación, mejoramiento y crecimiento de las mismas.
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXLVII. Zona o área metropolitana: El conjunto de dos o más municipios donde se localiza una ciudad de 50 mil o más habitantes, cuya área urbana, funciones y actividades rebasan el límite del municipio que originalmente la contenía, incorporando como parte de sí misma o de su área de influencia directa a municipios vecinos, predominantemente urbanos, con los que mantiene un alto grado de integración socioeconómica; en esta definición se incluye además a aquellos municipios que por sus características particulares son relevantes para la planeación y políticas públicas urbanas. Adicionalmente, se definen como zonas metropolitanas todos aquellos municipios que contienen una ciudad de un millón o más habitantes, así como aquellos con ciudades de 250 mil o más habitantes que comparten procesos de conurbación con ciudades de Estados Unidos de América, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.M. 1 DE MARZO DE 2021)</small>
+
+CXLVIII. Zonificación: La división geográfica del territorio adscrito dentro del límite de un centro de población en zonas o áreas con el objeto de definir sus aprovechamientos predominantes, las reservas, usos y destinos; así como determinar sus políticas de conservación, mejoramiento y crecimiento de las mismas.
 
 ###### Artículo 5.
 
@@ -4291,6 +4537,110 @@ Los actos realizados por las autoridades municipales en cumplimiento del present
 
 La tramitación y resolución de los referidos medios de impugnación, se sujetara a lo que establecido en el mencionado ordenamiento jurídico.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.M. 1 DE MARZO DE 2021)</small>
+
+### CAPÍTULO DÉCIMO CUARTO. DE LA POLÍTICA PÚBLICA CIUDAD CERCANA
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.M. 1 DE MARZO DE 2021)</small>
+
+#### SECCIÓN PRIMERA. DE LA DEMARCACIÓN TERRITORIAL DE LA POLÍTICA PÚBLICA CIUDAD CERCANA
+
+> <small>(ADICIONADO, G.M. 1 DE MARZO DE 2021)</small>
+
+###### Artículo 313.
+
+El Polígono Ciudad Cercana, contendrá la información georreferenciada de cada uno de los vértices del polígono, los Corredores Urbanos Consolidados y las Primeras Manzanas.
+
+> <small>(ADICIONADO, G.M. 1 DE MARZO DE 2021)</small>
+
+###### Artículo 314.
+
+Dado que dentro del Polígono Ciudad Cercana se localiza el correspondiente al Centro Urbano, (dentro del cual se localiza también el polígono del centro histórico y la llamada zona centro), éste podrá ser sujeto de estímulos adicionales a los establecidos en la Política Pública Ciudad Cercana.
+
+> <small>(ADICIONADO, G.M. 1 DE MARZO DE 2021)</small>
+
+###### Artículo 315.
+
+La demarcación territorial del Polígono Ciudad Cercana deberá publicarse en la Gaceta Municipal, en las redes sociales y páginas de Internet del Municipio y del IMPLAN, así como en el Sistema de Información Geográfica Municipal, SIGMUN.
+
+> <small>(ADICIONADO, G.M. 1 DE MARZO DE 2021)</small>
+
+###### Artículo 316.
+
+La Dirección de Desarrollo Urbano y Ecología del Municipio, así como la Tesorería Municipal, deberán reportar, a través del Sistema de Información Geográfica del Municipio, los estímulos otorgados en el ámbito de sus competencias, con el objetivo de mantener actualizado el monitoreo y la evaluación de la Política Pública Ciudad Cercana.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE MARZO DE 2021)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS USOS DE SUELO
+
+> <small>(ADICIONADO, G.M. 1 DE MARZO DE 2021)</small>
+
+###### Artículo 317.
+
+Para la aplicación de la política pública e incentivos dentro del polígono de ciudad cercana, será necesario que los interesados obtengan de la Dirección el dictamen técnico que acredite que las edificaciones nuevas, rehabilitadas o renovadas a desarrollar se encuentran ubicados (sic) dentro de la Primera Manzana a lo largo de los Corredores Urbanos, además deberán considerar dentro del mismo polígono o edificación, dos o más usos de suelo, debiendo ser uno de ellos habitacional (plurifamiliar). Lo anterior, a fin de facilitar el acceso y cercanía del equipamiento, infraestructura y servicios a los habitantes de la zona.
+
+No serán sujetos de los beneficios a que se refiere el presente artículo y sus correlativos en la Ley de Ingresos, los proyectos o desarrollos destinados a vivienda unifamiliar.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE MARZO DE 2021)</small>
+
+#### SECCIÓN TERCERA. DE LA VIVIENDA EN CIUDAD CERCANA
+
+> <small>(ADICIONADO, G.M. 1 DE MARZO DE 2021)</small>
+
+###### Artículo 318.
+
+Para el caso de edificaciones nuevas, rehabilitadas o renovadas dentro del polígono correspondiente al Centro Urbano (también llamado centro histórico o zona centro), éstas serán sujetas de excepciones de la obligatoriedad de la mezcla de usos de suelo. De esta forma, dado que el Centro Urbano es una demarcación territorial que ha visto disminuido el uso de suelo habitacional, se privilegiarán usos habitacionales en esta zona bajo lo establecido en este artículo. En cualquier caso, la vivienda unifamiliar en el Centro Urbano (también llamado centro histórico o zona centro) no será sujeta de los estímulos previstos en la Política Pública de Ciudad Cercana de este Capítulo, Sección y Artículo
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE MARZO DE 2021)</small>
+
+#### SECCIÓN CUARTA. DEL COEFICIENTE DE OCUPACIÓN DEL SUELO, COS, EN CIUDAD CERCANA
+
+> <small>(ADICIONADO, G.M. 1 DE MARZO DE 2021)</small>
+
+###### Artículo 319.
+
+Las edificaciones nuevas, rehabilitadas o renovadas susceptibles de los estímulos de la Política Pública Ciudad Cercana serán sujetas de la aplicación del Coeficiente de Ocupación del Suelo como lo establece la normatividad del Plan de Desarrollo Urbano del Centro de Población Chihuahua, favoreciendo con un porcentaje de ocupación adicional de un 10%. Para incrementar dicho porcentaje, se deberán presentar proyectos de absorción, filtración o bien administración del agua pluvial. Esto en base a sistemas de cubiertas verdes, mismas que resulten susceptibles de absorción con vegetación endémica de nuestra región. Así como también los sistemas de infiltración a los sistemas de acuíferos, esto donde el tipo de suelo lo permita. O bien, sistemas de almacenamiento y redistribución de agua pluvial. Los sistemas antes citados, deben demostrar mediante estudio hidrológico avalado por un especialista, la correcta sustitución de superficies o volúmenes de agua.
+
+Quedan exceptuadas de la aplicación de los estímulos de la Política Pública Ciudad Cercana, las edificaciones nuevas, rehabilitadas o renovadas localizadas en los corredores patrimoniales señalados en el Plan Parcial del Centro Urbano de la Ciudad de Chihuahua.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE MARZO DE 2021)</small>
+
+#### SECCIÓN QUINTA. DEL COEFICIENTE DE UTILIZACIÓN DEL SUELO, CUS, EN CIUDAD CERCANA
+
+> <small>(ADICIONADO, G.M. 1 DE MARZO DE 2021)</small>
+
+###### Artículo 320.
+
+Las edificaciones nuevas, rehabilitadas o renovadas susceptibles de los estímulos de la Política Pública Ciudad Cercana, se establece como medida de estímulo, el factorizar por 1.5, los valores de la aplicación del Coeficiente de Utilización del Suelo como lo establece el Plan de Desarrollo Urbano del Centro de Población Chihuahua.
+
+Quedan exceptuadas de la aplicación de los estímulos de la Política Publica Ciudad Cercana, las edificaciones nuevas, rehabilitadas o renovadas localizadas en los corredores patrimoniales señalados en el Plan Parcial del Centro Urbano de la Ciudad de Chihuahua.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE MARZO DE 2021)</small>
+
+#### SECCIÓN SEXTA. DE LOS CAJONES DE ESTACIONAMIENTO EN CIUDAD CERCANA
+
+> <small>(ADICIONADO, G.M. 1 DE MARZO DE 2021)</small>
+
+###### Artículo 321.
+
+Las edificaciones nuevas, rehabilitadas o renovadas susceptibles de los estímulos de la Política Pública Ciudad Cercana, con unidades privativas habitacionales de una superficie máxima de hasta 60 metros cuadrados, quedarán exentas de cumplir con los cajones mínimos de estacionamiento señalados en el Plan de Desarrollo Urbano del Centro de Población Chihuahua, este Reglamento, así como lo señalado en el Artículo 64 del Reglamento de Construcciones y Normas Técnicas del Municipio.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.M. 1 DE MARZO DE 2021)</small>
+
+#### SECCIÓN SÉPTIMA. DE LA CONSTRUCCIÓN DE EDIFICACIONES DESTINADAS A ESTACIONAMIENTOS PÚBLICOS EN DE (SIC) LOS ESTÍMULOS MUNICIPALES PARA LA CIUDAD CERCANA
+
+> <small>(ADICIONADO, G.M. 1 DE MARZO DE 2021)</small>
+
+###### Artículo 322.
+
+Los incentivos fiscales aplicables dentro del Polígono de Ciudad Cercana aprobados por el H. Ayuntamiento deberán publicarse en la Ley de Ingresos correspondiente. Dichos estímulos deberán incluir, sin ser limitativo, el pago del impuesto predial, el impuesto sobre traslación de dominio de bienes inmuebles, de derechos municipales sobre las licencias de construcción y de usos de suelo, así como en otros aspectos como remodelación de fachadas u otros que apoyen la dinámica social y económica.
+
+> <small>(ADICIONADO, G.M. 1 DE MARZO DE 2021)</small>
+
+###### Artículo 323.
+
+Los estímulos deberán aplicarse tanto a edificaciones nuevas como a aquellos inmuebles sujetos de rehabilitación o renovación; en cualquier caso, se deberá cumplir con lo establecido en la Política Pública Ciudad Cercana vigente.
+
 ## TRANSITORIOS
 
 Artículo Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
@@ -4322,3 +4672,13 @@ P.O. 13 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO 089 DEL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE CHIHUAHUA, POR EL QUE SE ORDENA LA PUBLICACIÓN DEL ACUERDO DEL H. AYUNTAMIENTO DEL MUNICIPIO DE CHIHUAHUA, CHIH., MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 89 DEL REGLAMENTO DE DESARROLLO URBANO SOSTENIBLE".]
 
 ARTICULO TRANSITORIO.- El presente Acuerdo entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+G.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XXXV A LA CXXXIX Y SE ADICIONAN LAS FRACCIONES CXL, CXLI, CXLII, CXLIII, CXLIV, CXLV, CXLVI, CXLVII Y CXLVIII AL ARTÍCULO 4; Y SE ADICIONA UN CAPÍTULO DÉCIMO CUARTO CON LAS SECCIONES PRIMERA, SEGUNDA, TERCERA, CUARTA, QUINTA, SEXTA Y SÉPTIMA, Y LOS ARTÍCULOS 313, 314, 315, 316, 317, 318, 319, 320, 321, 322 Y 323, TODOS AL REGLAMENTO DE DESARROLLO URBANO SOSTENIBLE DEL MUNICIPIO DE CHIHUAHUA".]
+
+Artículo Primero. Las presentes reformas entrarán en vigor el día siguiente de su publicación en la Gaceta Municipal y en el Periódico Oficial del Estado de Chihuahua.
+
+Artículo Segundo. Las autorizaciones en trámite o expedidas con anterioridad a la entrada en vigor del presente Reglamento, continuarán en los términos en que fueron formuladas.
+
+Artículo Tercero. En caso de que las disposiciones establecidas en este Capítulo Décimo Cuarto de la Política Pública Ciudad Cercana difieran con lo establecido en otras disposiciones y Reglamentos Municipales, prevalecerá lo dispuesto en este Capítulo.
