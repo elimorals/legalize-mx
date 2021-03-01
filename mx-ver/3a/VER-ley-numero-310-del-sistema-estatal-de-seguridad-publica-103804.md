@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-310-del-sistema-estatal-de-seguridad-publica-103804"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-28"
-last_updated: "2017-05-25"
+last_updated: "2021-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 310 DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 843 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 1 DE MARZO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NÚMERO 310 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 25 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE MARZO DE 2021 (ABROGADA).
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 28 de noviembre de 2014.
 
@@ -2904,3 +2906,25 @@ G.O. 25 DE MAYO DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. DE 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 843 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. La presente Ley, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se abrogan la Ley Número 310 y el Título Décimo, el Capítulo II del Título Tercero y los artículos 21 y 21 Bis de la Ley Número 553, ambas del Sistema Estatal de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, el veintiocho de noviembre de dos mil catorce.
+
+TERCERO. El Gobernador del Estado de Veracruz de Ignacio de la Llave, expedirá las disposiciones necesarias para el debido cumplimiento de las atribuciones contenidas en la presente Ley, en un plazo no mayor a ciento veinte días naturales, entre tanto, seguirán vigentes los ordenamientos aplicables a las Instituciones de Seguridad Pública, en lo que no se opongan a esta Ley.
+
+CUARTO. Los servicios de carrera vigentes en las Instituciones de Seguridad Pública a la fecha de entrada en vigor de este ordenamiento, deberán ajustarse a los requisitos, criterios y procedimientos que establecen la Ley General del Sistema Nacional de Seguridad Pública y esta Ley, en un plazo no mayor a un año.
+
+QUINTO. Todos los procedimientos y trámites que se encuentren vigentes ante las diversas autoridades previamente a la entrada en vigor de la presente Ley, se continuarán de conformidad con las disposiciones de la Ley Número 310 y 553 del Sistema Estatal de Seguridad Pública, ambas para el Estado de Veracruz de Ignacio de la Llave, que resulten procedentes.
+
+SEXTO. El personal adscrito a las unidades, áreas u órganos de la Secretaría que cambien de denominación, serán readscritos a las nuevas estructuras administrativas que absorban las funciones específicas que desempeñaban, acorde a lo que establezca para el caso la Unidad Administrativa, respetando su antigüedad y derechos que les correspondiere al momento de la entrada en vigor del presente instrumento.
+
+SÉPTIMO. Los recursos materiales y financieros asignados a las unidades, áreas u órganos de la Secretaría que cambien de denominación, serán readscritos a las nuevas estructuras administrativas que absorban las funciones específicas que desempeñaban, acorde a lo que establezca para cada caso específicos la Unidad Administrativa.
+
+OCTAVO. En un plazo de ciento veinte días naturales siguientes a la entrada en vigor de esta Ley, se deberán de realizarse la adecuación, actualización o expedir los manuales de organización, así como los ordenamientos que sean necesarios para el cumplimiento de esta Ley.
+
+NOVENO. Se derogan todas las disposiciones que se opongan a la presente Ley.
