@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2020-10-12"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -629,7 +629,21 @@ VI. Vigilar que en todo momento, se hagan valer y respetar los derechos de las p
 
 VII. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO X. Del Instituto de Vivienda del Estado de Aguascalientes
+### CAPÍTULO IX BIS. De la Secretaría de la Familia
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
+
+ARTÍCULO 24 A.- Corresponde a la Secretaría de la Familia, en materia de adultos mayores:
+
+I. Coadyuvar con el Sistema para el Desarrollo Integral de la Familia del Estado en la realización de programas de prevención y protección para los adultos mayores en situación de riesgo o desamparo;
+
+II. Colaborar con las dependencias y entidades de la Administración Pública Estatal competentes, para la protección y defensa de personas adultas mayores dentro del núcleo familiar;
+
+III. Promover la protección y el respeto del ejercicio de los derechos humanos de los adultos mayores;
+
+IV. Fomentar la inclusión, aceptación y participación de los adultos mayores en la sociedad; y
+
+V. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
 ###### ARTÍCULO 24.
 
@@ -647,9 +661,11 @@ V. Implementar programas ocupacionales y de promoción al autoempleo que les per
 
 VI. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO XI. Del Sistema para el Desarrollo Integral de la Familia del Estado
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE MARZO DE 2021)</small>
 
-### CAPÍTULO XII. Del Instituto del Deporte del Estado de Aguascalientes
+### CAPÍTULO X. Del Instituto de Vivienda del Estado de Aguascalientes
+
+### CAPÍTULO XI. Del Sistema para el Desarrollo Integral de la Familia del Estado
 
 ###### ARTÍCULO 25.
 
@@ -661,7 +677,7 @@ II. Garantizar el acceso a proyectos de vivienda de interés público que ofrezc
 
 III. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO XIII. De la Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes
+### CAPÍTULO XII. Del Instituto del Deporte del Estado de Aguascalientes
 
 ###### ARTÍCULO 26.
 
@@ -695,7 +711,7 @@ VIII. Proporcionar orientación psicológica para los adultos mayores que sean v
 
 IX. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO XIV. De la Secretaría de Finanzas
+### CAPÍTULO XIII. De la Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes
 
 ###### ARTÍCULO 27.
 
@@ -715,6 +731,18 @@ VI. Acondicionar las instalaciones e infraestructura deportiva, de acuerdo a las
 
 VII. Las demás qué le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
+### CAPÍTULO XIV. De la Secretaría de Finanzas
+
+###### ARTÍCULO 28.
+
+Corresponde a la Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes en materia de adultos mayores:
+
+I. Formular y aplicar programas específicos para la inclusión de los adultos mayores en actividades productivas del sector;
+
+II. Promover la participación de los adultos mayores en la formulación y revisión del Programa Estatal de Desarrollo Agropecuario; y
+
+III. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
+
 ### CAPÍTULO XV. De las Dependencias y Entidades del Gobierno del Estado de Aguascalientes
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
@@ -731,21 +759,17 @@ IV. Proponer la realización de estudios en el área de su competencia que contr
 
 V. Establecer ventanillas de atención preferente para las personas adultas mayores, en las gestiones que éstas realicen;
 
-VI. Participar en la atención, información, investigación y mejoramiento de los programas enfocados al bienestar de los adultos mayores; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
-VII. Las demás que le confiera el Ejecutivo del Estado, las leyes y reglamentos de la materia.
+VI. Participar en la atención, información, investigación y mejoramiento de los programas enfocados al bienestar de los adultos mayores;
 
-###### ARTÍCULO 28.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 2021)</small>
 
-Corresponde a la Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes en materia de adultos mayores:
+VII. Coadyuvar con la Secretaría de la Familia en el fomento, promoción e impulso de las políticas públicas en materia de familia destinadas a generar el bienestar de los adultos mayores; y
 
-I. Formular y aplicar programas específicos para la inclusión de los adultos mayores en actividades productivas del sector;
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE MARZO DE 2021)</small>
 
-II. Promover la participación de los adultos mayores en la formulación y revisión del Programa Estatal de Desarrollo Agropecuario; y
-
-III. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
-
-### CAPÍTULO ÚNICO. Del Consejo Estatal de Salud para la Atención del Adulto Mayor
+VIII. Las demás que le confiera el Ejecutivo del Estado, las leyes y reglamentos de la materia.
 
 ###### ARTÍCULO 29.
 
@@ -757,11 +781,11 @@ II. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE ABRIL DE 2018)</small>
 
-### CAPÍTULO ÚNICO. De la Asistencia Social
+### CAPÍTULO ÚNICO. Del Consejo Estatal de Salud para la Atención del Adulto Mayor
 
 ## TÍTULO QUINTO. DEL CONSEJO ESTATAL DE SALUD PARA LA ATENCIÓN DEL ADULTO MAYOR
 
-### CAPÍTULO I. De las Infracciones y Sanciones
+### CAPÍTULO ÚNICO. De la Asistencia Social
 
 ###### ARTÍCULO 30.
 
@@ -802,6 +826,10 @@ A) Los titulares de las Dependencias y Entidades del Gobierno del Estado y munic
 5. Instituto de Seguridad, Servicios Sociales de los Servidores Públicos del Estado de Aguascalientes (ISSSSPEA);
 
 6. Centenario Hospital Miguel Hidalgo;
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
+
+7. Secretaría de la Familia;
 
 B) Tres especialistas en materia de salud de las instituciones de educación superior más representativas en el Estado a propuesta del Presidente del Consejo; y
 
@@ -887,7 +915,7 @@ VI. Cumplir las encomiendas resultado de los acuerdos del Consejo.
 
 ## TÍTULO SEXTO. DE LA ASISTENCIA SOCIAL
 
-### CAPÍTULO II. De los Servidores Públicos
+### CAPÍTULO I. De las Infracciones y Sanciones
 
 ###### ARTÍCULO 37.
 
@@ -925,11 +953,11 @@ Las instituciones públicas y privadas, casas hogar, albergues, residencias de d
 
 ARTÍCULO 38 A.- La atención preferencial, es un beneficio que sólo podrá otorgarse para realizar trámites personales. Es intransferible, y las personas adultas mayores deberán presentar una identificación oficial vigente.
 
-### CAPÍTULO III. Del Procedimiento
+### CAPÍTULO II. De los Servidores Públicos
 
 ## TÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES Y SANCIONES
 
-### CAPÍTULO IV. Del Recurso de Revisión
+### CAPÍTULO III. Del Procedimiento
 
 ###### ARTÍCULO 39.
 
@@ -970,6 +998,8 @@ II. Los daños que la misma haya producido o pueda producir al adulto mayor o a 
 III. Las condiciones socioeconómicas del infractor; y
 
 IV. Si la conducta del infractor implica reincidencia.
+
+### CAPÍTULO IV. Del Recurso de Revisión
 
 ###### ARTÍCULO 43.
 
@@ -1190,3 +1220,19 @@ P.O. 12 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 476.- SE REFORMA EL ARTÍCULO 27, FRACCIONES XXIV Y XXV; Y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN VII DEL ARTÍCULO 10; LA FRACCIÓN XIII AL ARTÍCULO 18; LA FRACCIÓN XXVI AL ARTÍCULO 27; LA SECCIÓN DÉCIMA TERCERA PARA QUEDAR COMO "LA SECRETARÍA DE LA FAMILIA" Y EL ARTÍCULO 44; A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los ciento ochenta días siguientes a la publicación del presente Decreto se deberán expedir todas aquellas disposiciones normativas y reglamentarias necesarias para su cumplimiento.
