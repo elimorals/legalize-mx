@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-archivos-del-estado-de-aguascalientes-102855"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-29"
-last_updated: "2017-07-03"
+last_updated: "2021-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE ARCHIVOS DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ARCHIVOS DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 1 DE MARZO DE 2021; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS CIENTO OCHENTA DÍAS NATURALES CONTADOS A PARTIR DE SU PUBLICACIÓN.]</small>
+
 LEY DE ARCHIVOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021 (ABROGADA).
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes el lunes 29 de septiembre de 2014.
 
@@ -640,3 +642,35 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 478.- SE REFORMAN LOS ARTÍCULOS 24 PÁRRAFO SEGUNDO, 31 PÁRRAFO CUARTO, 33 PÁRRAFO SEGUNDO, 79 FRACCIÓN I INCISO B), 93, 120 Y 136; Y SE ADICIONA EL INCISO F) A LA FRACCIÓN I DEL ARTÍCULO 79 DE LA LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES Y SE EXPIDE LA LEY DE ARCHIVOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 180 días naturales contados a partir de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, se abroga la Ley de Archivos del Estado de Aguascalientes publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de septiembre de 2014, así como sus reformas y adiciones subsecuentes y demás disposiciones normativas derivadas con motivo de aquella.
+
+###### ARTÍCULO TERCERO.
+
+Los integrantes del Consejo Estatal deberán llevar a cabo su sesión de instalación, a más tardar, dentro de los sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los sujetos obligados deberán llevar a cabo las adecuaciones reglamentarias necesarias para el cumplimiento de la Ley de Archivos del Estado de Aguascalientes, dentro de un término de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los sujetos obligados deberán implementar su Sistema Institucional, dentro de un término de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones normativas que se opongan al mismo.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo Estatal, deberá llevar a cabo las adecuaciones reglamentarias necesarias para dar cumplimiento a lo dispuesto por el presente Decreto.
