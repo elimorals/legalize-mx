@@ -4,7 +4,7 @@ identifier: "SON-ley-estatal-de-mejora-regulatoria-del-estado-de-sonora-138603"
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-03"
-last_updated: "2019-10-03"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ESTATAL DE MEJORA REGULATORIA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en la Sección II al Número 28 del Boletín Oficial del Estado de Sonora, el jueves 3 de octubre de 2019.
 
@@ -96,6 +96,10 @@ III.- Autoridad de Mejora Regulatoria: La Comisión Estatal de Mejora Regulatori
 IV.- Catálogo Estatal: Catálogo que compilan (sic) las Regulaciones, Trámites y Servicios del estado;
 
 V.- Catálogo Nacional: Catálogo Nacional de Regulaciones, Trámites y Servicios;
+
+> <small>(ADICIONADA, B.O. 1 DE MARZO DE 2021)</small>
+
+V BIS.- Confianza Ciudadana: Son aquellas políticas de buena fe que están orientadas a otorgar beneficios y facilidades administrativas relacionadas con las actividades económicas que desempeñan las personas físicas y morales;
 
 VI.- Comisión Estatal: Comisión Estatal de Mejora Regulatoria del Estado de Sonora (CEMERSON);
 
@@ -461,6 +465,10 @@ VII.- Proponer a los Sujetos Obligados acciones, medidas o programas que permita
 
 VIII.- Promover la reducción de costos, requisitos, trámites y servicios al ciudadano y de la competitividad con la agilización de procesos, tiempos de respuesta y medios de transacción;
 
+> <small>(ADICIONADA, B.O. 1 DE MARZO DE 2021)</small>
+
+VIII BIS.- Promover la Apertura a la Confianza y Administrar el Registro de Apertura a la Confianza, como una medida de simplificación de trámites estatales prioritarios para la apertura de empresas de bajo riesgo, que impulsen de manera inmediata la reactivación económica local;
+
 IX.- Impulsar la articulación de los trámites y servicios que facilite a los ciudadanos concretar su gestión, cuando se involucren los tres ámbitos de gobierno: federal, estatal y municipal;
 
 X.- Instrumentar y dar seguimiento a los Sistemas de Calidad Regulatoria de los Trámites y Servicios de los Sujetos Obligados de la Administración Pública Estatal;
@@ -470,6 +478,10 @@ XI.- Fomentar la congruencia entre los factores de la producción para impulsar 
 XII.- Fortalecer las competencias técnicas y tecnológicas de las instancias responsables de impulsar la dinámica económica con estudios de casos de éxito a nivel nacional y/o internacional, que sean susceptibles de incorporarse en la gestión institucional, incluyendo las innovaciones en las herramientas informáticas;
 
 XIII.- Fomentar la coherencia y armonización del marco normativo del Estado y sus municipios con el ámbito federal y nacional, y en su caso realizar las propuestas necesarias a la CONAMER para propiciar la certidumbre jurídica y el beneficio social;
+
+> <small>(ADICIONADA, B.O. 1 DE MARZO DE 2021)</small>
+
+XIII BIS.- Fomentar y coordinar con las autoridades de mejora regulatoria municipales, acciones tendientes a promover medidas de confianza ciudadana, que ayuden a la simplificación de procesos administrativos de impacto para el inicio y realización de actividades económicas en el estado.
 
 XIV.- Desarrollar, monitorear, evaluar y dar publicidad a la Estrategia Estatal;
 
@@ -735,6 +747,10 @@ VI.- Proponer al Consejo Municipal, la emisión de directrices, instrumentos, ma
 
 VII.- Expedir el Manual del Análisis de Impacto Regulatorio, atendiendo los lineamientos generales aprobados por el Consejo Nacional de Mejora Regulatoria, para recibir y dictaminar los Análisis que le envíen los Sujetos Obligados;
 
+> <small>(ADICIONADA, B.O. 1 DE MARZO DE 2021)</small>
+
+VII BIS.- Promover la Apertura a la Confianza y Administrar el Registro de Apertura a la Confianza, como una medida de simplificación de trámites municipales prioritarios para la apertura de empresas de bajo riesgo, que impulsen de manera inmediata la reactivación económica del municipio;
+
 VIII.- Promover el uso de tecnologías de la información para la sustanciación y resolución de trámites y procedimientos administrativos, de conformidad con los principios y objetivos de esta Ley y demás disposiciones legales aplicables;
 
 IX.- Instrumentar y dar seguimiento a los Sistemas de Calidad Regulatoria de los Trámites y Servicios de los Sujetos Obligados de la Administración Pública Municipal;
@@ -752,6 +768,10 @@ XIV.- Vigilar el funcionamiento de la Protesta Ciudadana e informar al órgano d
 XV.- Proponer, coordinar, publicar, monitorear, opinar y evaluar los Programas de Mejora Regulatoria de los Sujetos Obligados;
 
 XVI.- Proponer acciones, medidas o programas que permitan impactar favorablemente en el mejoramiento del marco regulatorio municipal y que incidan en el desarrollo y crecimiento económico del Municipio, y coadyuvar en su promoción e implementación;
+
+> <small>(ADICIONADA, B.O. 1 DE MARZO DE 2021)</small>
+
+XVI BIS.- Fomentar y coordinar con la autoridad estatal de mejora regulatoria acciones tendientes a promover medidas de confianza ciudadana, que ayuden a la simplificación de procesos administrativos de impacto para el inicio y realización de actividades económicas en el municipio;
 
 XVII.- Impulsar la articulación de los trámites y servicios que facilite a los ciudadanos concretar su gestión, cuando se involucren los tres ámbitos de gobierno: federal, estatal y municipal;
 
@@ -1512,3 +1532,21 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los dieciocho días del mes de septiembre del año dos mil diecinueve.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 175, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE COMPETITIVIDAD Y DESARROLLO ECONÓMICO DEL ESTADO DE SONORA Y A LA LEY ESTATAL DE MEJORA REGULATORIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Registro de Apertura de Confianza se creará en un plazo máximo de 60 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los convenios de colaboración correspondientes se celebrarán dentro de los 30 días hábiles siguientes a la entrada en vigor del presente Decreto.
