@@ -4,7 +4,7 @@ identifier: "SON-ley-de-la-defensoria-publica-del-estado-de-sonora-110752"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-26"
-last_updated: "2015-11-26"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE SONORA
 
-LEY DE LA DEFENSORÍA PÚBLICA
+LEY DE LA DEFENSORÍA PÚBLICA, DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 26 de noviembre de 2015.
 
@@ -117,9 +117,21 @@ IV.- Establecer y coordinar las relaciones con entidades, dependencias y organis
 
 V.- Fomentar, coordinar y concertar convenios de coordinación y colaboración, respectivamente, con instituciones públicas y privadas, ya sean locales, nacionales o internacionales, para el cumplimiento de su objeto, particularmente con las dedicadas a la protección de los derechos humanos;
 
-VI.- Proponer, al titular del Poder Ejecutivo Estatal, proyectos de iniciativas de ley y decretos en materia de asesoría, patrocinio y defensa técnica; y
+> <small>(REFORMADA, B.O. 1 DE MARZO DE 2021)</small>
 
-VII.- Las demás que establezcan la presente Ley y demás disposiciones legales aplicables.
+VI.- Proponer, al titular del Poder Ejecutivo Estatal, proyectos de iniciativas de ley y decretos en materia de asesoría, patrocinio y defensa técnica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 1 DE MARZO DE 2021)</small>
+
+VII.- Contar con el personal y material especializado y la asistencia de intérpretes de Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, para la debida atención y defensa de los derechos y libertades de las personas con discapacidad o personas en situación de discapacidad cuando deban comparecer ante las autoridades judiciales o de procuración de justicia garantizando una defensa adecuada en igualdad de condiciones con las demás personas;
+
+> <small>(ADICIONADA, B.O. 1 DE MARZO DE 2021)</small>
+
+VIII.- Llevar a cabo programas de capacitación de manera permanente y gratuita en Lengua de Señas Mexicana y el sistema de Lectoescritura Braille dirigido a su personal; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA, B.O. 1 DE MARZO DE 2021)</small>
+
+IX.- Las demás que establezcan la presente Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 7.
 
@@ -213,9 +225,17 @@ XII.- Implementar sistemas de control y registro de los servicios brindados por 
 
 XIII.- Elaborar programas y estrategias de difusión sobre los servicios que presta la Defensoría, así como de sus logros y avances;
 
-XIV.- Establecer las políticas y estrategias relacionadas con los temas de investigación criminal, criminalística y ciencias forenses para el apoyo de los defensores en materia penal y justicia para adolescentes; y
+> <small>(REFORMADA, B.O. 1 DE MARZO DE 2021)</small>
 
-XV.- Las demás que le confiera la presente Ley, su Reglamento y demás ordenamientos aplicables.
+XIV.- Establecer las políticas y estrategias relacionadas con los temas de investigación criminal, criminalística y ciencias forenses para el apoyo de los defensores en materia penal y justicia para adolescentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 1 DE MARZO DE 2021)</small>
+
+XV.- Celebrar convenios con instituciones públicas o privadas, o con organizaciones civiles o sindicales para capacitar de manera permanente y gratuita en materia de Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, al personal de la Defensoría que sea necesario para poder brindar la debida atención y defensa de los derechos y libertades de las personas con discapacidad o personas en situación de discapacidad que lo requieran; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA, B.O. 1 DE MARZO DE 2021)</small>
+
+XVI.- Las demás que le confiera la presente Ley, su Reglamento y demás ordenamientos aplicables.
 
 ###### Artículo 13.
 
@@ -734,3 +754,13 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los diecisiete días del mes de noviembre del año dos mil quince.- SUFRAGIO EFECTIVO, NO REELECCIÓN. GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 176, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA, DE LA LEY DE DEFENSORÍA PÚBLICA, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERA (SIC) DE JUSTICIA DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE SALUD PARA EL ESTADO DE SONORA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA, DE LA LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA Y DE LA LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
