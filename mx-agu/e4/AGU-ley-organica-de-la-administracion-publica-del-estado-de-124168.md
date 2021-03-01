@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-124168"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-10-27"
-last_updated: "2020-12-28"
+last_updated: "2021-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE MARZO DE 2021 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de octubre de 2017.
 
@@ -130,6 +132,10 @@ b) Crear comisiones intersecretariales para la realización de programas en que 
 c) Agrupar las Entidades Paraestatales por sectores definidos, a efecto de que sus relaciones con el Ejecutivo se realicen a través de la Dependencia que en cada caso determine como Coordinadora del Sector correspondiente; y
 
 d) Acordar la coordinación de Dependencias y Entidades del Ejecutivo Estatal con las Dependencias y Entidades de la Administración Pública Federal, así como con los Ayuntamientos de la Entidad;
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
+
+La coordinación prevista en esta fracción, deberá estar orientada al fortalecimiento y desarrollo de la familia como base fundamental de la sociedad.
 
 VIII.- Promover y consolidar un sistema de modernización administrativa, de mejora regulatoria y el Servicio Civil de Carrera para los servidores públicos de la Administración Pública del Estado, en términos de lo dispuesto por la Constitución Política Estatal y demás legislación aplicable;
 
@@ -255,7 +261,9 @@ XI.- Secretaría de Desarrollo Rural y Agroempresarial.- SEDRAE;
 
 XII.- Secretaría de Turismo.- SECTUR;
 
-XIII.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2020)
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2021)</small>
+
+XIII.- Secretaría de la Familia.- SEFAM;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -367,13 +375,17 @@ XXII.- Asesorar a los Ayuntamientos del Estado, cuando así lo soliciten, en la 
 
 XXIII.- Designar al coordinador del proceso de reforma regulatoria de la dependencia de que se trate y supervisar el cumplimiento de las obligaciones establecidas por la Ley de Gestión Empresarial y Mejora Regulatoria para el Estado de Aguascalientes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
-XXIV.- Generar información actualizada, oportuna y confiable sobre las distintas actividades que se realizan por parte de la Dependencia, y en términos de la Ley de Planeación para el Desarrollo del Estado de Aguascalientes; y
+XXIV.- Generar información actualizada, oportuna y confiable sobre las distintas actividades que se realizan por parte de la Dependencia, y en términos de la Ley de Planeación para el Desarrollo del Estado de Aguascalientes;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 2021)</small>
 
-XXV.- Las demás que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos reglamentarios respectivos.
+XXV.- Desarrollar programas y acciones tendientes a fortalecer el desarrollo armónico de la familia como base fundamental de la sociedad, en coordinación con la Secretaría de la Familia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE MARZO DE 2021)</small>
+
+XXVI.- Las demás que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos reglamentarios respectivos.
 
 ###### Artículo 28.
 
@@ -1533,13 +1545,45 @@ XLI.- Atender los recursos que se interpongan contra resoluciones referentes a s
 
 XLII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE MARZO DE 2021)</small>
 
-#### SECCIÓN DÉCIMA TERCERA. La Coordinación General de Planeación y Proyectos
+#### SECCIÓN DÉCIMA TERCERA. La Secretaría de la Familia
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
 
 ###### Artículo 44.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 2020)
+A la Secretaría de la Familia corresponde el despacho de los siguientes asuntos:
+
+I.- Establecer y coordinar la política estatal en materia de familia, en los términos de las leyes aplicables y de conformidad con lo dispuesto por el Titular del Poder Ejecutivo del Estado;
+
+II.- Fomentar, promover, impulsar y coordinar las acciones destinadas a fortalecer el desarrollo y bienestar de las familias, así como la evaluación de sus efectos;
+
+III.- En coordinación con los sectores público, social y privado formular, aplicar y promover políticas adaptadas a la familia en las esferas de la vivienda, el trabajo, la salud, la seguridad social y la educación a fin de crear un entorno favorable;
+
+IV.- Colaborar con las dependencias y entidades de la Administración Pública Estatal competentes, en la promoción social, cultural y económica de las mujeres y de los jóvenes;
+
+V.- Colaborar con las dependencias y entidades de la Administración Pública Estatal competentes, para la protección y defensa de niñas, niños y adolescentes; de personas adultas mayores; y cualquier otra persona en situación de vulnerabilidad, dentro del núcleo familiar;
+
+VI.- Fomentar el diálogo intercultural entre las familias, con la colaboración de las dependencias y entidades de la Administración Pública Estatal;
+
+VII.- Desarrollar acciones en materia de prevención de adicciones y concientizar a las familias sobre esta problemática y su gravedad;
+
+VIII.- Fomentar la inclusión, aceptación y participación de los integrantes en la familia, particularmente de niñas, niños, adolescentes, personas con discapacidad, adultos mayores y cualquier otra persona en situación de vulnerabilidad;
+
+IX.- Desarrollar acciones en materia de esparcimiento y recreación familiar;
+
+X.- Llevar a cabo convenios para el desarrollo y coordinación de estudios en materia de investigación de la familia y de sus integrantes, y proporcionar dicha información, con el objeto de fortalecer a la sociedad;
+
+XI.- Diseñar, evaluar y mejorar las políticas públicas para el desarrollo y fortalecimiento de las familias con una cultura de igualdad sustantiva, aplicadas a los planes y programas que se ejecuten en las dependencias y entidades de (sic) Administración Pública Estatal;
+
+XII.- Promover y difundir campañas sobre los valores y acciones que fomenten el desarrollo y fortalecimiento familiar, así como las medidas para su sensibilización;
+
+XIII.- Impulsar y promover la creación de Centros de Atención y Orientación Familiar en el Estado y en sus Municipios, mediante acuerdos y de conformidad con su respectiva competencia;
+
+XIV.- Coadyuvar con el Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes en la instrumentación de políticas, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes, en los términos de la Ley de la materia; y
+
+XV.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN DÉCIMA CUARTA. La Coordinación General de Movilidad
 
@@ -2478,3 +2522,19 @@ La Secretaría de Desarrollo Económico, de acuerdo con las necesidades instituc
 ###### ARTÍCULO CUARTO.
 
 Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto se deberán expedir todas aquellas disposiciones normativas y reglamentarias necesarias para su cumplimiento.
+
+P.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 476.- SE REFORMA EL ARTÍCULO 27, FRACCIONES XXIV Y XXV; Y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN VII DEL ARTÍCULO 10; LA FRACCIÓN XIII AL ARTÍCULO 18; LA FRACCIÓN XXVI AL ARTÍCULO 27; LA SECCIÓN DÉCIMA TERCERA PARA QUEDAR COMO "LA SECRETARÍA DE LA FAMILIA" Y EL ARTICULO 44; A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los ciento ochenta días siguientes a la publicación del presente Decreto se deberán expedir todas aquellas disposiciones normativas y reglamentarias necesarias para su cumplimiento.
