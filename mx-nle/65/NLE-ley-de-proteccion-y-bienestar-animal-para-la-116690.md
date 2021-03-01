@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-bienestar-animal-para-la-116690"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-28"
-last_updated: "2021-02-01"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 28 de septiembre de 2016.
 
@@ -57,7 +57,9 @@ El Gobierno del Estado, la Secretaría, las Secretarías de Salud y Educación, 
 
 Es competencia de esta Ley:
 
-I. Regular la conducta de las personas que habiten en Nuevo León o transiten por el Estado, independientemente de su lugar de origen, hacia las formas de vida de los animales y sus ecosistemas, con el fin de permitir su desarrollo, protección, bienestar integral y sostenible;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+
+I. Regular la conducta de las personas que habiten en Nuevo León o transiten por el Estado, independientemente de su lugar de origen, hacia las formas de vida de los animales y sus ecosistemas, con el fin de permitir su desarrollo, protección, bienestar integral y sostenible que les garantice ser sujetos a un trato digno por su condición de seres sintientes;
 
 II. Fomentar las acciones de protección, conservación y respeto a la biodiversidad, de los animales y sus hábitats;
 
@@ -115,7 +117,9 @@ IV. Adoptante. Propietario de un animal de compañía de origen no comercial, qu
 
 Para efectos de esta Ley, los adoptantes tendrán el tratamiento y la calidad de propietarios.
 
-V. Animal. Ser vivo pluricelular, sensible, consciente, constituido por diferentes tejidos, con un sistema nervioso especializado que le permite moverse y reaccionar de manera coordinada ante estímulos.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+
+V. Animal. Ser vivo pluricelular, sintiente, consciente, constituido por diferentes tejidos, con un sistema nervioso especializado que le permite moverse y reaccionar de manera coordinada ante estímulos.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
@@ -2024,3 +2028,9 @@ P.O. 1 DE FEBRERO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- En un plazo no mayor a 90- noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Desarrollo Sustentable del Estado de Nuevo León procederá a realizar los ajustes o adecuaciones necesarias para la expedición de la constancia de no existencia de sanción por ejercer algún tipo de maltrato o crueldad animal.
+
+P.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 446. SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 2 Y LA FRACCIÓN V DEL ARTÍCULO 3 DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
