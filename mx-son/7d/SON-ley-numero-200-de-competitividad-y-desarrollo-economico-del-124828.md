@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-200-de-competitividad-y-desarrollo-economico-del-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-27"
-last_updated: "2017-11-27"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 200 DE COMPETITIVIDAD Y DESARROLLO ECONÓMICO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en la Sección X al Número 43 del Boletín Oficial del Estado de Sonora, el lunes 27 de noviembre de 2017.
 
@@ -318,6 +318,40 @@ V.- Apoyar con asistencia técnica a las empresas que cuenten con potencial expo
 VI.- Apoyos para el crecimiento y desarrollo de las MIPYMES en el Estado de Sonora; y
 
 VII.- Los demás que se señalen en otras disposiciones legales y los que se establezcan en los programas que implementen las dependencias y entidades de la Administración Pública Estatal y Municipal del Estado de Sonora.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES E INCISOS], B.O. 1 DE MARZO DE 2021)</small>
+
+C.- Incentivos extraordinarios, que serán:
+
+I.- Se privilegiará la apertura inmediata de negocios, aplicando criterios de confianza, por lo que en los casos previstos en el artículo 18 BIS de esta Ley, las personas físicas o morales, que aperturen un negocio de bajo riesgo en dicho periodo, podrán presentar la solicitud para todos los permisos, licencias, concesiones, autorizaciones, avisos y análogos hasta 60 días hábiles posteriores al inicio de sus actividades, previa inscripción en el Registro de Apertura a la Confianza, previsto en la Ley Estatal de Mejora Regulatoria, administrado por la autoridad de mejora regulatoria estatal o municipal, según corresponda, debiendo obtener la autorización municipal para la apertura, observando siempre los requisitos estatales y municipales necesarios para aquellos negocios y/o actividades empresariales consideradas de bajo riesgo.
+
+Se entenderá que un negocio está aplicando criterios de confianza cuando tenga los siguientes fines:
+
+a. Dinamizar la actividad económica dentro del estado y sus municipios, a través de esquemas regulatorios innovadores.
+
+b. Privilegiar la confianza entre el estado, municipios y ciudadanía, mediante la autorización expedita para abrir y operar negocios de bajo riesgo, así como otorgar un plazo de tiempo máximo para que los interesados den cumplimiento y observancia de la regulación vigente.
+
+c. Promover la cultura de la legalidad en situaciones de emergencia, permitiéndole a los interesados, en abrir y operar un negocio de bajo riesgo, atender sus obligaciones regulatorias a la par de iniciar sus actividades, con el compromiso de atender con la norma vigente.
+
+Las actividades de bajo riesgo serán definidas atendiendo a los Lineamientos del Sistema de Apertura Rápida de Empresas, conforme al catálogo de giros de bajo riesgo, emitidos por la Comisión Nacional de Mejora Regulatoria, el cuál será la base para elaborar en coordinación de la autoridad estatal y municipal de mejora regulatoria, el catalogo municipal de giros de bajo riesgo para el Registro de Apertura a la Confianza.
+
+Las autoridades administrativas estatales y municipales deberán establecer y coordinar procesos de gestión para la apertura de empresas, con la mayor celeridad necesaria y no podrán sancionar a las personas físicas o morales por la falta de permisos, licencias, concesiones, autorizaciones o análogas, durante los 60 días hábiles posteriores al inicio de sus actividades y durante el proceso de gestión del trámite correspondiente, hasta la notificación de su resolución, siempre que se encuentren inscritas en el Registro de Apertura a la Confianza, de acuerdo con los criterios establecidos en el primer párrafo de esta fracción.
+
+La inscripción al Registro de Apertura a la Confianza se tramitará vía electrónica a través de la plataforma que las autoridades estatales y municipales de mejora regulatoria pongan a disposición de las personas físicas y morales.
+
+II.- Reducción de plazos: todas las dependencias y entidades estatales o municipales, que reciban las solicitudes de permisos, licencias, concesiones, autorizaciones, avisos o análogas, durante alguno de los supuestos señalados en el artículo 18 BIS de la presente ley, deberán reducir los plazos de respuesta establecidos en las leyes, reglamentos o normas correspondientes en una mitad, observando siempre el garantizar los estándares convenientes de seguridad y mínimo riesgo, establecidos por las autoridades administrativas estatales y municipales.
+
+III.- Afirmativa ficta: Todas las solicitudes de permisos, licencias, concesiones, autorizaciones, avisos o análogas, que sean presentadas durante la vigencia de una declaratoria de emergencia y demás supuesto (sic) de los señalados en el artículo 18 BIS de la presente Ley, y que no sean contestadas en los tiempos señalados en el ordenamiento correspondiente o a más tardar en 45 días hábiles, se entenderán a favor del solicitante y como positivas para todos los efectos legales.
+
+[N. DE. E. PERTENECE A LA FRACCIÓN III DEL APARTADO C), B.O. 1 DE MARZO DE 2021.]
+
+Se exceptuará lo anterior en los casos que no se encuentren comprendidos en el catálogo de actividades de bajo riesgo establecido de acuerdo con los Lineamientos del Sistema de Apertura Rápida de Empresas, emitido por la Comisión Nacional de Mejora Regulatoria, así como los establecidos en el artículo 83 de la Ley del Procedimiento Administrativo del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 1 DE MARZO DE 2021)</small>
+
+ARTÍCULO 18 BIS.- Durante la vigencia de una declaratoria de emergencia, contingencia epidemiológica, desastre o cualquier otra medida urgente encaminada a la conservación y mejoramiento de la salubridad y protección de la población en general, decretada formalmente por la autoridad competente, una vez que dicha autoridad comunique por los medios adecuados la reactivación económica, todas las actividades productivas podrán iniciar operaciones conforme lo determine la autoridad competente, sujetando la obtención de la autorización, permiso, licencia o análogo a lo señalado en el artículo anterior, con base a los incentivos extraordinarios establecidos en el apartado C del artículo 18 de esta Ley.
+
+El otorgamiento de los incentivos extraordinarios señalados en el artículo anterior, crea un compromiso de responsabilidad de presentar las solicitudes a todas las personas físicas o morales que aperturen un negocio de dicho periodo, y no los exime de la obligación de contar con todos los permisos, licencias, concesiones, autorizaciones, avisos o análogas en los términos ordinarios una vez que haya dejado de surtir sus efectos totales la declaratoria de emergencia, contingencia epidemiológica, desastre o cualquier otra medida urgente de las señaladas en el párrafo anterior, por lo que el incumplimiento podrá ser sancionado en los términos que dispongan las leyes.
 
 ###### ARTÍCULO 19.
 
@@ -738,3 +772,21 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, al primer día del mes de noviembre del año dos mil diecisiete.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 175, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE COMPETITIVIDAD Y DESARROLLO ECONÓMICO DEL ESTADO DE SONORA Y A LA LEY ESTATAL DE MEJORA REGULATORIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Registro de Apertura de Confianza se creará en un plazo máximo de 60 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los convenios de colaboración correspondientes se celebrarán dentro de los 30 días hábiles siguientes a la entrada en vigor del presente Decreto.
