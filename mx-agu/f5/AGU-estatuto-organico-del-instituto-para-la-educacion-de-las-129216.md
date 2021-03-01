@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-para-la-educacion-de-las-129216
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-06-11"
-last_updated: "2018-06-11"
+last_updated: "2021-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA EDUCACIÓN DE LAS PERSONAS JÓVENES Y ADULTAS DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
 
 Estatuto publicado en la Quinta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de junio de 2018.
 
@@ -1089,11 +1089,19 @@ XI. Las demás atribuciones otorgadas por las disposiciones legales aplicables e
 
 ### CAPÍTULO VI. De la Designación, Remoción y Ausencias
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 44.
 
-Las ausencias temporales o accidentales de hasta por 30 días, de los Titulares de las Unidades Administrativas y puestos inferiores de confianza serán suplidas por la persona que designe el Director General como encargados del despacho; en las Ausencias de éste por la Persona que designe la Junta.
+En las ausencias temporales del Director General, que no excedan de 30 días, será suplido por el servidor público que éste designe. Para el caso de ausencias temporales mayores a 30 días o en casos especiales, será suplido por quien designe el Gobernador del Estado.
+
+Las ausencias temporales que no excedan 30 días o en casos especiales, de los Titulares de las Unidades Administrativas y puestos inferiores de confianza, serán suplidas por la persona que designe el Director General.
+
+En caso de ausencia definitiva del Director General o de los Titulares de las Unidades Administrativas se atenderá al procedimiento y a la competencia de quien deba realizar la nueva designación en términos de las disposiciones legales aplicables.
 
 Para el caso de los Titulares de las Unidades que conforman el Órgano Interno de Control se estará a lo dispuesto por la Ley para el Control de las Entidades Paraestatales y demás disposiciones legales aplicables.
+
+Los servidores públicos que cubran las ausencias temporales o especiales, actuarán con todas las facultades que correspondan al titular, independientemente de las de su propio cargo.
 
 T R A N S I T O R I O S
 
@@ -1172,3 +1180,21 @@ DIRECTORA GENERAL DEL INEPJA.
 M. en J.A. María Fernanda Cuéllar Loyola,
 
 JEFA DE LA UNIDAD DE ASUNTOS JURÍDICOS DEL INEPJA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA EDUCACIÓN DE LAS PERSONAS JÓVENES Y ADULTAS DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas al Estatuto Orgánico del Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor de las presentes reformas al Estatuto Orgánico del Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes, quedan sin efecto las disposiciones de menor jerarquía que se opongan a las mismas.
+
+###### ARTÍCULO TERCERO.
+
+Se ordena inscribir las presentes Reformas al Estatuto Orgánico del Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes, en el Registro Público de la Propiedad y del Comercio del Estado de Aguascalientes, en el libro correspondiente a las Entidades Paraestatales.
