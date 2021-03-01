@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2020-09-14"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -1651,6 +1651,10 @@ VIII. El Secretario de Salud;
 
 IX. El Titular del Instituto de Educación;
 
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2021)</small>
+
+X. El Titular de la Secretaría de la Familia;
+
 B. Municipios.
 
 I. El Presidente Municipal, del Municipio que los demás elijan para que los represente;
@@ -2292,3 +2296,19 @@ P.O. 14 DE SEPTIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 476.- POR EL QUE "SE ADICIONA LA FRACCIÓN X AL APARTADO A DEL ARTÍCULO 113 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los ciento ochenta días siguientes a la publicación del presente Decreto se deberán expedir todas aquellas disposiciones normativas y reglamentarias necesarias para su cumplimiento.
