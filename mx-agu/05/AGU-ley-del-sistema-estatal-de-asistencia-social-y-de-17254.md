@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2020-12-07"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -443,39 +443,53 @@ I.- Un Consejo Directivo, que es el órgano de gobierno;
 
 II.- Un Patronato, que es un órgano promotor y de apoyo al organismo;
 
-III.- Un Director General, que es el representante legal y administrador del organismo; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 2021)</small>
 
-IV.- Un Comisario Público, que será el órgano de vigilancia del organismo.
+III.- Un Órgano Ciudadano para la Familia, que es un órgano de consulta en materia de familia;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+
+IV.- Un Director General, que es el representante legal y administrador del organismo;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE MARZO DE 2021)</small>
+
+V.- Un Comisario Público, que será el órgano de vigilancia del organismo; y
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2021)</small>
+
+VI.- Un Órgano Interno de Control, que tiene a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno del Organismo, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 23.
 
-El Consejo Directivo del Organismo estará integrado por los titulares de las siguientes dependencias:
+El Consejo Directivo del Organismo estará integrado por las siguientes personas:
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+I.- Titular de la Secretaría de la Familia del Estado;
 
-I.- Secretaría de Salud del Estado;
+II.- Titular de la Secretaría General de Gobierno del Estado;
 
-II.- Instituto de Educación del Estado;
+III.- Titular de la Secretaría de Finanzas del Estado;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+IV.- Titular de la Secretaría de Salud del Estado;
 
-III.- Fiscalía General del Estado;
+V.- Titular de la Secretaría de Desarrollo Social del Estado;
 
-IV.- Secretaría de Finanzas del Estado;
+VI.- Titular de la Dirección General del Instituto de Educación de Aguascalientes;
 
-V.- Secretaría General de Gobierno del Estado;
+VII.- Titular de la Dirección General del Instituto Aguascalentense de las Mujeres;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+VIII.- Titular de la Dirección General del Instituto Aguascalentense de la Juventud;
 
-VI.- Secretaría de Bienestar y Desarrollo Social; y
+IX.- Titular de la Fiscalía General del Estado; y
 
-VII.- Ayuntamiento del Municipio de la Capital.
+X.- Presidente Municipal de Aguascalientes.
 
-El Consejo tendrá un Presidente y cinco vocales. El presidente será nombrado por el Gobernador del Estado.
+El Consejo tendrá un Presidente, quien será nombrado por el Gobernador del Estado.
 
 El Consejo contará con un Secretario Técnico, designado por el mismo a propuesta del Director General del Organismo.
 
-Los miembros del Consejo nombrarán oficialmente un representante, para los casos en que no puedan asistir a alguna reunión.
+Los integrantes del Consejo nombrarán oficialmente un suplente, para los casos en que no puedan asistir a alguna reunión.
 
 ###### ARTICULO 24.
 
@@ -509,9 +523,17 @@ XIII.- Aprobar anualmente, previo informe de los Comisarios y dictamen de los au
 
 XIV.- Aprobar la fijación de sueldos públicos del Organismo;
 
-XV.- Nombrar y remover, previa propuesta del Gobernador del Estado, al Director General; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
-XV.- Las demás que le confieran esta ley y otras disposiciones legales.
+XV.- Nombrar y remover, previa propuesta del Gobernador del Estado, al Director General;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2021)</small>
+
+XVI.- Coadyuvar con la Secretaría de la Familia en el fomento, promoción e impulso de acciones y políticas públicas en materia de familia destinadas a fortalecer su desarrollo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE MARZO DE 2021)</small>
+
+XVII.- Las demás que le confieran esta ley y otras disposiciones legales.
 
 ###### ARTICULO 25.
 
@@ -547,6 +569,14 @@ III.- Contribuir a la obtención de recursos que permitan el incremento del patr
 
 IV.- Designar a su Presidente y el Secretario de sesiones.
 
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
+
+ARTICULO 29 A.- El Órgano Ciudadano para la Familia es un órgano de consulta, investigación y opinión en materia de fortalecimiento del bienestar y desarrollo armónico de las familias en el Estado.
+
+El Órgano Ciudadano para la Familia será presidido por el Titular de la Secretaría de la Familia, se integrará y funcionará en términos del Reglamento Interior del Organismo, privilegiándose la participación ciudadana en su conformación.
+
+Los integrantes del Órgano Ciudadano para la Familia tendrán un cargo honorífico, por lo que no gozarán de alguna compensación económica o gratificación en especie por su desempeño.
+
 ###### ARTICULO 30.
 
 El Director General será nombrado y removido, por el Consejo Directivo a propuesta del titular del Poder Ejecutivo, debiendo reunir los siguientes requisitos:
@@ -556,6 +586,10 @@ I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 II.- Haber desempeñado cargos de alto nivel decisorio cuyo ejercicio requiera conocimientos y experiencia en materia administrativa y de asistencia social;
 
 III.- No tener ningún impedimento de los que establece la Ley de Control de Entidades Paraestatales.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
+
+El cargo de Director General podrá ser ocupado por el titular de la Secretaría de la Familia del Estado, en cuyo caso, el cargo de Director General deberá ser honorífico.
 
 ###### ARTICULO 31.
 
@@ -1694,3 +1728,19 @@ P.O. 7 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 476.- SE REFORMA EL ARTÍCULO 27, FRACCIONES XXIV Y XXV; Y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN VII DEL ARTÍCULO 10; LA FRACCIÓN XIII AL ARTÍCULO 18; LA FRACCIÓN XXVI AL ARTÍCULO 27; LA SECCIÓN DÉCIMA TERCERA PARA QUEDAR COMO "LA SECRETARÍA DE LA FAMILIA" Y EL ARTICULO 44; A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los ciento ochenta días siguientes a la publicación del presente Decreto se deberán expedir todas aquellas disposiciones normativas y reglamentarias necesarias para su cumplimiento.
