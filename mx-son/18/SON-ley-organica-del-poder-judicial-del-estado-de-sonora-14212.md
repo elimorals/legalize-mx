@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-judicial-del-estado-de-sonora-14212"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-12"
-last_updated: "2020-11-17"
+last_updated: "2021-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 12 de diciembre de 1996.
 
@@ -275,9 +275,21 @@ XLI.- Determinar que los recursos de apelación en el Sistema Penal Acusatorio s
 
 XLII.- Dictar acuerdo de creación del órgano auxiliar jurisdiccional para el procedimiento de segunda instancia del sistema penal acusatorio, que contenga las bases de organización y funcionamiento del mismo.
 
-XLIII.- Modificar, mediante acuerdo general que deberá publicarse en el Boletín Oficial del Estado, la jurisdicción para conocer de los recursos de apelación de las Salas del Supremo Tribunal de Justicia y de los Tribunales Regionales de Circuito, en materia penal y en el sistema penal acusatorio, ya sea por tipo de delito o su penalidad o cualquier otro criterio de competencia que sea necesario para eficientar la administración de justicia o cuando sea conveniente por necesidades del servicio; y
+> <small>(REFORMADA, B.O. 1 DE MARZO DE 2021)</small>
 
-XLIV.- Las demás que determinen las leyes.
+XLIII.- Modificar, mediante acuerdo general que deberá publicarse en el Boletín Oficial del Estado, la jurisdicción para conocer de los recursos de apelación de las Salas del Supremo Tribunal de Justicia y de los Tribunales Regionales de Circuito, en materia penal y en el sistema penal acusatorio, ya sea por tipo de delito o su penalidad o cualquier otro criterio de competencia que sea necesario para eficientar la administración de justicia o cuando sea conveniente por necesidades del servicio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 1 DE MARZO DE 2021)</small>
+
+XLIV.- Garantizar que las personas con discapacidad o personas en situación de discapacidad reciban un trato digno y apropiado en los procedimientos administrativos y judiciales en que sean parte. Para ello deberán contar con el apoyo de intérpretes en la Lengua de Señas Mexicana, así como la emisión de documentos en sistema de Lectoescritura Braille; y
+
+> <small>(ADICIONADA, B.O. 1 DE MARZO DE 2021)</small>
+
+XLV.- Llevar a cabo programas de capacitación de manera permanente y gratuita en Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, dirigido a su personal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 1 DE MARZO DE 2021)</small>
+
+XLVI.- Las demás que determinen las leyes.
 
 > <small>(ADICIONADO, B.O. 20 DE MAYO DE 2004)</small>
 
@@ -325,7 +337,9 @@ XI.- Hacer excitativas a los Magistrados del Supremo Tribunal de Justicia y a lo
 
 XII.- Someter, anualmente, a la aprobación del Pleno del Supremo Tribunal de Justicia, para los efectos correspondientes, el anteproyecto de Presupuesto Anual de Egresos del Poder Judicial del Estado y en el mes de diciembre de cada año el del Fondo para la Administración de Justicia;
 
-XIII.- (DEROGADA, B.O. 7 DE SEPTIEMBRE DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 1 DE MARZO DE 2021)</small>
+
+XIII.- Celebrar convenios con instituciones públicas o privadas, o con organizaciones civiles o sindicales para capacitar de manera permanente y gratuita en materia de Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, al personal del Poder Judicial del Estado, que sea necesario para garantizar que las personas con discapacidad o personas en situación de discapacidad reciban un trato digno y apropiado en los procedimientos administrativos y judiciales en que sean parte;
 
 XIV.- Solicitar informes a las Salas del Supremo Tribunal de Justicia, a los Tribunales Regionales de Circuito, a los Juzgados de Primera Instancia y a cualquier otro órgano del Poder Judicial;
 
@@ -2888,3 +2902,11 @@ El presente Decreto entrará en vigor el 01 de enero de 2021, previa su publicac
 ###### ARTÍCULO SEGUNDO.
 
 El Titular del Poder Ejecutivo deberá proveer una partida presupuestal suficiente al Poder Judicial del Estado, en cumplimiento del artículo Transitorio Décimo Segundo del Decreto que reformó la Ley Federal del Trabajo, publicado en el Diario Oficial de la Federación del 1 de mayo de 2019.
+
+B.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 176, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA, DE LA LEY DE DEFENSORÍA PÚBLICA, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERA (SIC) DE JUSTICIA DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE SALUD PARA EL ESTADO DE SONORA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA, DE LA LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA Y DE LA LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
