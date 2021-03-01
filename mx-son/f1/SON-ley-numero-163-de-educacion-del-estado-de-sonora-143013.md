@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-163-de-educacion-del-estado-de-sonora-143013"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2020-12-21"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 163 DE EDUCACIÓN DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 15 de mayo de 2020.
 
@@ -805,7 +805,7 @@ El desarrollo tecnológico y la innovación, asociados a la actualización, a la
 
 (NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-Objto de la educación indígena
+Objeto de la educación indígena
 
 ###### Artículo 51.
 
@@ -891,31 +891,53 @@ V.- Realizar los ajustes razonables en función de las necesidades de las person
 
 VI.- Proporcionar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad.
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 Educación especial
 
 ###### Artículo 58.
 
-En la aplicación de esta Ley, se garantizará el derecho a la educación a los educandos con condiciones especiales, aptitudes sobresalientes o que enfrenten barreras para el aprendizaje y la participación.
+EN LA APLICACIÓN DE ESTA LEY, SE GARANTIZARÁ EL DERECHO A LA EDUCACIÓN A LOS EDUCANDOS CON CONDICIONES ESPECIALES, APTITUDES SOBRESALIENTES O QUE ENFRENTEN BARRERAS PARA EL APRENDIZAJE Y LA PARTICIPACIÓN.
 
-La Secretaría, en el ámbito de su competencia y de conformidad a los criterios orientadores para la prestación de los servicios de educación especial que emita la autoridad educativa federal, para atender a los educandos con capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos, realizará lo siguiente:
+(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-I.- Prestar educación especial en condiciones necesarias, previa decisión y valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de los educandos que enfrentan barreras para el aprendizaje y la participación;
+LA SECRETARÍA, EN EL ÁMBITO DE SU COMPETENCIA Y DE CONFORMIDAD A LOS CRITERIOS ORIENTADORES PARA LA PRESTACIÓN DE LOS SERVICIOS DE EDUCACIÓN ESPECIAL QUE EMITA LA AUTORIDAD EDUCATIVA FEDERAL, PARA ATENDER A LOS EDUCANDOS CON CAPACIDADES, CIRCUNSTANCIAS, NECESIDADES, ESTILOS Y RITMO DE APRENDIZAJE DIVERSOS, REALIZARÁ LO SIGUIENTE:
 
-II.- Ofrecer formatos accesibles para prestar educación especial, procurando en la medida de lo posible su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado;
+(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-III.- Prestar educación especial para apoyar a los educandos con alguna discapacidad o aptitudes sobresalientes en los niveles de educación obligatoria;
+I.- PRESTAR EDUCACIÓN ESPECIAL EN CONDICIONES NECESARIAS, PREVIA DECISIÓN Y VALORACIÓN POR PARTE DE LOS EDUCANDOS, MADRES Y PADRES DE FAMILIA O TUTORES, PERSONAL DOCENTE Y, EN SU CASO, DERIVADOS POR UNA CONDICIÓN DE SALUD, PARA GARANTIZAR EL DERECHO A LA EDUCACIÓN DE LOS EDUCANDOS QUE ENFRENTAN BARRERAS PARA EL APRENDIZAJE Y LA PARTICIPACIÓN;
 
-IV.- Establecer un sistema de diagnóstico temprano y atención especializada para la eliminación de barreras para el aprendizaje y la participación;
+(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-V.- Promover la formación de todo el personal docente para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y preste los apoyos que los educandos requieran;
+II.- OFRECER FORMATOS ACCESIBLES PARA PRESTAR EDUCACIÓN ESPECIAL, PROCURANDO EN LA MEDIDA DE LO POSIBLE SU INCORPORACIÓN A TODOS LOS SERVICIOS EDUCATIVOS, SIN QUE ESTO CANCELE SU POSIBILIDAD DE ACCEDER AL SERVICIO ESCOLARIZADO;
 
-VI.- Garantizar la satisfacción de las necesidades básicas de aprendizaje de los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva; y
+(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-VII.- Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores sociales involucrados en educación.
+III.- PRESTAR EDUCACIÓN ESPECIAL PARA APOYAR A LOS EDUCANDOS CON ALGUNA DISCAPACIDAD O APTITUDES SOBRESALIENTES EN LOS NIVELES DE EDUCACIÓN OBLIGATORIA;
 
-El Instituto de Becas y Crédito Educativo del Estado de Sonora, de acuerdo a la suficiencia presupuestal, otorgará becas que soliciten alumnos inscritos en educación básica y media superior, que presenten alguna discapacidad en términos de la Ley para la Inclusión y Desarrollo de las Personas con Discapacidad o en Situación de Discapacidad del Estado de Sonora, atendiendo, particularmente el otorgamiento a los alumnos con sordera profunda para el pago del interprete respectivo.
+(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+IV.- ESTABLECER UN SISTEMA DE DIAGNÓSTICO TEMPRANO Y ATENCIÓN ESPECIALIZADA PARA LA ELIMINACIÓN DE BARRERAS PARA EL APRENDIZAJE Y LA PARTICIPACIÓN;
+
+(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+V.- PROMOVER LA FORMACIÓN DE TODO EL PERSONAL DOCENTE PARA QUE, EN EL ÁMBITO DE SUS COMPETENCIAS, CONTRIBUYAN A IDENTIFICAR Y ELIMINAR LAS BARRERAS PARA EL APRENDIZAJE Y LA PARTICIPACIÓN, Y PRESTE LOS APOYOS QUE LOS EDUCANDOS REQUIERAN;
+
+> <small>(REFORMADO, B.O. 1 DE MARZO DE 2021)</small>
+
+VI.- Garantizar la satisfacción de las necesidades básicas de aprendizaje de los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva;
+
+> <small>(REFORMADO, B.O. 1 DE MARZO DE 2021)</small>
+
+VII.- Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores sociales involucrados en educación; y
+
+> <small>(ADICIONADO, B.O. 1 DE MARZO DE 2021)</small>
+
+VIII.- Garantizar que las instituciones educativas públicas y privadas cuenten con el personal docente capacitado para impartir educación especial para personas con alguna discapacidad de las previstas en la Ley para la inclusión y Desarrollo de las Personas con discapacidad o personas en situación de discapacidad del Estado de Sonora, a cuyo efecto llevará a cabo programas de capacitación de manera permanente y gratuita tanto para instituciones públicas como privadas.
+
+(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+EL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA, DE ACUERDO A LA SUFICIENCIA PRESUPUESTAL, OTORGARÁ BECAS QUE SOLICITEN ALUMNOS INSCRITOS EN EDUCACIÓN BÁSICA Y MEDIA SUPERIOR, QUE PRESENTEN ALGUNA DISCAPACIDAD EN TÉRMINOS DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA, ATENDIENDO, PARTICULARMENTE EL OTORGAMIENTO A LOS ALUMNOS CON SORDERA PROFUNDA PARA EL PAGO DEL INTERPRETE RESPECTIVO.
 
 (NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 214/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SONORA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -935,11 +957,13 @@ IV.- Asegurar que se realicen ajustes razonables para las personas con discapaci
 
 V.- Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades.
 
+> <small>(REFORMADO, B.O. 1 DE MARZO DE 2021)</small>
+
 Disposiciones de accesibilidad en el Sistema Educativo Estatal
 
 ###### Artículo 60.
 
-En el Sistema Educativo Estatal se atenderán las disposiciones en materia de accesibilidad señaladas en la presente Ley, la Ley General para la Inclusión de las Personas con Discapacidad, la Ley Federal para Prevenir y Eliminar la Discriminación y en las demás normas aplicables.
+En el Sistema Educativo Estatal se atenderán las disposiciones en materia de accesibilidad señaladas en la presente Ley, la Ley General para la Inclusión de las Personas con Discapacidad, la Ley Federal para Prevenir y Eliminar la Discriminación y en las demás normas aplicables, para lo cual, al menos, se deberán establecer programas permanentes de capacitación de Lengua de Señas Mexicana y sistema de lectoescritura en sistema Braille, dirigidos a padres de familia, tutores o quienes ejerzan la patria potestad, así como también a maestros y personal de educación básica, tanto en escuelas públicas como en aquellas escuelas privadas que integren a alumnos con necesidades especiales de educación.
 
 ### Capítulo IX. De la educación para personas adultas
 
@@ -1501,7 +1525,9 @@ Criterios de las personas egresadas de las instituciones formadoras de docencia
 
 Las personas egresadas de las instituciones formadoras de docencia del Estado de Sonora contarán con el conocimiento de diversos enfoques pedagógicos y didácticos que les permita atender las necesidades de aprendizaje de niñas, niños, adolescentes y jóvenes.
 
-En los planes y programas de estudio de las instituciones de formación docente, se promoverá el desarrollo de competencias en educación inicial y con enfoque de inclusión para todos los tipos educativos; asimismo, se considerarán modelos de formación docente especializada en la educación especial que atiendan los diversos tipos de discapacidad.
+> <small>(REFORMADO, B.O. 1 DE MARZO DE 2021)</small>
+
+En los planes y programas de estudio de las instituciones de formación docente, se promoverá el desarrollo de competencias en educación inicial y con enfoque de inclusión para todos los tipos educativos; asimismo, se considerarán modelos de formación docente especializada en la educación especial que atiendan los diversos tipos de discapacidad, debiendo contemplar, al menos, capacitación en Lengua de Señas Mexicana y sistema de lectoescritura Braille.
 
 Fortalecimiento de las instituciones públicas de formación docente
 
@@ -2778,6 +2804,14 @@ La Secretaría de Educación y Cultura, deberá emitir las disposiciones e instr
 B.O. 21 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 159, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 71 DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 176, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA, DE LA LEY DE DEFENSORÍA PÚBLICA, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERA (SIC) DE JUSTICIA DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE SALUD PARA EL ESTADO DE SONORA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA, DE LA LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA Y DE LA LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
