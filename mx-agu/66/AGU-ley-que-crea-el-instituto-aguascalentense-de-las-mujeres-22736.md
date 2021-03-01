@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-22736"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-19"
-last_updated: "2018-04-16"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA EL INSTITUTO AGUASCALENTENSE DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 19 de noviembre de 2001.
 
@@ -183,9 +183,9 @@ II.- La Directora General.
 
 La Junta de Gobierno es el órgano de administración de mayor jerarquía del Instituto y se integrará con quince miembros propietarios que serán los siguientes:
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
-I.- El titular del Poder Ejecutivo, quien será el Presidente del mismo o en su caso a quien él nombre como su representante, sin que dicha representación pueda coincidir con ningún otro de los miembros de la Junta de Gobierno;
+I.- El titular del Poder Ejecutivo, quien será el Presidente del mismo y será suplido por el Titular de la Secretaría de la Familia;
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2003)</small>
 
@@ -275,9 +275,17 @@ X.- Aprobar la aceptación de legados, donaciones y demás liberalidades;
 
 XI.- Conocer y aprobar los convenios de coordinación y concertación que hayan de celebrarse con dependencias y entidades públicas, así como con organismos nacionales e internacionales, en el caso de los organismos internacionales, la aprobación será por unanimidad;
 
-XII.- Expedir la convocatoria para la integración del Consejo Consultivo; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
-XIII.- Las demás que le señale ésta y otros ordenamientos legales.
+XII.- Expedir la convocatoria para la integración del Consejo Consultivo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 2021)</small>
+
+XIII.- Coadyuvar con la Secretaría de la Familia en el fomento, promoción e impulso de las políticas públicas en materia de familia destinadas a fortalecer el desarrollo de las mujeres; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE MARZO DE 2021)</small>
+
+XIV.- Las demás que le señale ésta y otros ordenamientos legales.
 
 #### SECCION II. De la Directora General
 
@@ -890,3 +898,19 @@ P.O. 16 DE ABRIL DE 2018.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 476.- SE REFORMA EL ARTÍCULO 27, FRACCIONES XXIV Y XXV; Y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN VII DEL ARTÍCULO 10; LA FRACCIÓN XIII AL ARTÍCULO 18; LA FRACCIÓN XXVI AL ARTÍCULO 27; LA SECCIÓN DÉCIMA TERCERA PARA QUEDAR COMO “LA SECRETARÍA DE LA FAMILIA” Y EL ARTÍCULO 44; A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los ciento ochenta días siguientes a la publicación del presente Decreto se deberán expedir todas aquellas disposiciones normativas y reglamentarias necesarias para su cumplimiento.
