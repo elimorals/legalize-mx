@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2020-11-10"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el día 30 de abril de 1985.
 
@@ -4009,11 +4009,19 @@ Las personas que ejercen patria potestad deben entregar a sus hijos, al llegar �
 
 La patria potestad se acaba:
 
-I.- Por muerte del que la ejerce, si no hay otra persona en quien recaiga;
+I. Por muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II.- Por emancipación del menor;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
-III.- Por llegar a la mayoría el que estuvo sujeto a ella.
+II. Por emancipación del menor;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+
+III. Por llegar a la mayoría el que estuvo sujeten (sic) a ella, y
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2021)</small>
+
+IV. Por violencia familiar reiterada.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
@@ -4139,19 +4147,19 @@ Lo dispuesto en el artículo anterior no impide al Juez encomendar en cualquier 
 
 Los parientes a los que por cualquier circunstancia se otorgue la custodia o guarda de un menor, tendrán las obligaciones, facultades y restricciones establecidas para los tutores. La guarda a que se refiere este artículo podrá terminar por resolución judicial, en la que se resuelva nuevamente quién o quiénes deberán hacerse cargo del menor.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2021)</small>
 
 ###### Artículo 637.
 
-No podrán impedirse, sin justa causa, las relaciones personales ni la convivencia entre el menor y sus parientes, ni siquiera cuando la patria potestad o la guarda corresponda a uno de ellos, por lo que en caso de oposición a la solicitud de cualquiera de ellos o incumplimiento del convenio en que las partes hubieren fijado el tiempo, modo y lugar para que los ascendientes que no tengan la guarda del menor lo visiten y convivan con él, el Juez de lo Familiar resolverá lo conducente, en atención al interés superior del menor.
+No podrán impedirse, sin justa causa, las relaciones personales ni la convivencia entre el menor y sus parientes, ni siquiera cuando la patria potestad o la guarda corresponda a uno de ellos, por lo que en caso de oposición a la solicitud de cualquiera de ellos o incumplimiento del convenio en que las partes hubieren fijado el tiempo, modo y lugar para que los ascendientes que no tengan la guarda del menor lo visiten y convivan con él, el Juez de lo Familiar resolverá lo conducente, en atención al interés superior de la niñez.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 El Tribunal contará con los medios eficaces que considere necesarios para decretar la convivencia en el modo y forma que beneficie a los menores y en caso de incumplimiento parcial o total podrá decretar las medidas de apremio que concede la ley o dar vista al Ministerio Público si del comportamiento de quien deba permitir la convivencia se desprende algún delito.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
 
-Sólo por mandato judicial expreso y fundado en causa justa podrá impedirse, suspenderse o perderse el derecho de convivencia a que se refiere este artículo. Se deberá escuchar a la niña, niño o adolescente sujeto a patria potestad, privilegiando ante todo su Interés superior en la cuestión planteada, de acuerdo a su edad y desarrollo cognoscitivo.
+Sólo por mandato judicial expreso y fundado en causa justa, y cuando exista violencia familiar reiterada se deberá considerar la restricción e impedir, suspender o perder el derecho de convivencia a que se refiere este artículo. Se deberá escuchar a la niña, niño o adolescente sujeto a patria potestad, privilegiando ante todo el interés superior de la niñez en la cuestión planteada, de acuerdo a su edad y desarrollo cognoscitivo.
 
 ###### Artículo 638.
 
@@ -20628,5 +20636,13 @@ P.O. 10 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 61, LOS ARTÍCULOS 294 Y 297, LA FRACCIÓN I DEL 298, LOS ARTÍCULOS 300, 330, 333, 403 Y 478; Y ADICIONA LA FRACCIÓN VIII AL 321, Y UN ÚLTIMO PÁRRAFO A LA FRACCIÓN II DEL APARTADO B DEL ARTÍCULO 450, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II Y III DEL ARTÍCULO 627, EL PRIMER Y TERCER PÁRRAFOS DEL 637, Y ADICIONA LA FRACCIÓN IV AL 627, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
