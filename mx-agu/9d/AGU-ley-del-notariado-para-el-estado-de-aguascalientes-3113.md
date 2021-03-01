@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-notariado-para-el-estado-de-aguascalientes-3113"
 country: "mx"
 rank: "ley"
 publication_date: "1980-06-01"
-last_updated: "2019-04-29"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 1 de junio de 1980.
 
@@ -221,7 +223,9 @@ Los instrumentos deberán asentarse en los folios que integran el protocolo, man
 
 El Notario podrá llevar un libro o registro de control por duplicado en el que, una vez asentado un instrumento en el protocolo, el Notario deberá hacerlo constar de inmediato en el registro o libro de control correspondiente, indicando el número de instrumento y el del libro que conformará, fecha de protocolización, folios utilizados, naturaleza del acto, nombre de los otorgantes por apellidos y la fecha en que se asentaron las autorizaciones y razones a que se refieren los Artículos 42, 43, 45 y 46 de esta ley.
 
-Llegada la ocasión de entregar los libros o volúmenes del protocolo y sus apéndices al Registro Público de la Propiedad y del Comercio para su certificación o guarda definitiva, según sea el caso, se acompañarán de un ejemplar de dicho registro o libro de control y el otro lo conservará el Notario.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2021)</small>
+
+Llegada la ocasión de entregar los libros o volúmenes del protocolo y sus apéndices al Registro Público de la Propiedad y del Comercio para su certificación o, en su caso, a la Dirección General de Archivos para su guarda definitiva, según corresponda, se acompañarán de un ejemplar de dicho registro o libro de control y el otro lo conservará el Notario.
 
 > <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
@@ -279,7 +283,9 @@ Los expedientes que se protocolicen por mandato judicial se devolverán al juzga
 
 Los apéndices deberán encuadernarse ordenadamente y empastarse sólidamente en uno o más libros, con un máximo de trescientas hojas cada uno. En hojas agregadas al principio y al final de cada apéndice, se hará constar el libro del protocolo a que pertenece y el número de documentos que lo conforman.
 
-Estos apéndices, seguirán a su libro cuando éste sea entregado al Registro Público de la Propiedad y del Comercio para su certificación o, en su caso, archivo definitivo; en este último supuesto, los apéndices ya deberán estar empastados sólidamente.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2021)</small>
+
+Estos apéndices, seguirán a su libro cuando éste sea entregado al Registro Público de la Propiedad y del Comercio para su certificación o, para su archivo definitivo a la Dirección General de Archivos; en este último supuesto, los apéndices ya deberán estar empastados sólidamente.
 
 No pueden desglosarse los documentos del apéndice, de los cuales el notario sólo podrá expedir las copias certificadas que procedan.
 
@@ -347,7 +353,9 @@ Un ejemplar de dicho índice deberá integrarse a los folios correspondientes, l
 
 Los notarios guardarán en su archivo los libros en los que conste la razón de cierre en los términos del Artículo 27 de esta Ley y sus apéndices e índices, durante el período de dos años contados a partir de la fecha de la certificación relativa a la mencionada razón de cierre.
 
-A la expiración de dicho término, el notario entregará junto con los apéndices e índices, los libros de protocolo al Registro Público de la Propiedad y del Comercio, donde quedarán definitivamente guardados, y en el cual los interesados podrán obtener ulteriores testimonios, copias de los mismos y certificaciones que puedan entregarse de acuerdo a la Ley.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2021)</small>
+
+A la expiración de dicho término, el notario entregará junto con los apéndices e índices, los libros de protocolo a la Dirección General de Archivos, donde quedarán definitivamente guardados, y en el cual los interesados podrán obtener ulteriores testimonios, copias de los mismos y certificaciones que puedan entregarse de acuerdo a la Ley.
 
 > <small>(ADICIONADO, P.O. 30 DE JULIO DE 2007)</small>
 
@@ -679,13 +687,19 @@ I.- Amonestación por escrito:
 
 a).- Por tardanza injustificada en alguna actuación o trámite, solicitados y expresados por un cliente, relacionados con el ejercicio de las funciones del notario.
 
-b).- Por no dar el aviso o no entregar los libros a la Dirección del Registro Público de la Propiedad, en los términos que señala la Ley.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2021)</small>
+
+b).- Por no entregar los libros al Registro Público de la Propiedad y del Comercio para su certificación correspondiente, en los términos que señala la Ley.
 
 c).- Por separarse del ejercicio de sus funciones sin dar aviso o sin la licencia correspondiente.
 
 d).- Por cualquier otra violación menor, tal como no llevar índices, no empastar oportunamente los volúmenes del apéndice u otras semejantes.
 
 e).- Por incumplimiento de las obligaciones estipuladas en el Artículo 10 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
+
+f).- Por no entregar los libros a la Dirección General de Archivos, para su guarda definitiva en los términos que señala la Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -825,9 +839,11 @@ Si el Gobernador del Estado encuentra completo y correcto el expediente y existe
 
 En el fíat se expresará la autoridad que lo expide, lugar y fecha de la expedición, el nombre y apellidos del profesionista a quien se confiere y el número que le corresponda, si se trata de numerario. Aparecerá en él la firma y el retrato del interesado en el que se fijará el sello del Gobierno del Estado, abarcando tanto la hoja como la fotografía, será autorizado por el C. Gobernador y el Secretario General de Gobierno.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 93.
 
-El interesado hará saber al público la expedición de su fíat, por medio del Periódico Oficial del Estado, en uno de los diarios de mayor circulación y le comunicará además por oficio, al Supremo Tribunal de Justicia, al Ministerio Público, al Encargado del Registro Público de la Propiedad y al Consejo Auxiliar del Notariado, expresando la calle y el número de la casa en que establezca su notaría, cuando comience a ejercer sus funciones.
+El interesado hará saber al público la expedición de su fíat, por medio del Periódico Oficial del Estado, en uno de los diarios de mayor circulación y le comunicará además por oficio, al Supremo Tribunal de Justicia, al Ministerio Público, al Encargado del Registro Público de la Propiedad, a la Visitaduría de Notarias y al Consejo Auxiliar del Notariado, expresando la calle y el número de la casa en que establezca su notaria, cuando comience a ejercer sus funciones.
 
 ###### ARTICULO 94.
 
@@ -983,11 +999,11 @@ Cuando un notario dejare de prestar sus servicios, por cualquier causa, el Gobie
 
 La clausura de un protocolo se efectuará siempre por el representante que el Gobernador del Estado designe para tal objeto. El designado al cerrar un protocolo procederá a poner en él, razón de la causa que motiva el acto y segregará todas las circunstancias que se presenten en la diligencia, suscribiendo dicha razón con su firma. En seguida, formará inventario de todos los libros que conforme a la ley deben llevarse, anotando los que falten; los valores depositados, si hubiere éstos; los testamento cerrados que estuvieren en guarda, con expresión del estado de sus cubiertas y sellos; los títulos, expedientes y cualesquiera otros documentos de su archivo y clientela. Además formará otro inventario de los muebles, valores y documentos personales de los notarios, para que, con la intervención del Consejo de Notarios, sean entregados a quien corresponda.
 
-> <small>(F. DE E., P.O. 22 DE JUNIO DE 1980)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 120.
 
-El notario que reciba una notaría, ya sea por vacancia de ésta o suspensión de quien la servía, deberá, siempre, hacerlo por riguroso inventario, con asistencia de un representante del Gobierno del Estado. El acta de recibo, con inclusión del inventario, se levantará y firmará por triplicado, remitiéndose un ejemplar al Gobernador del Estado, otro al encargado del Registro Público de la Propiedad y el último, quedará en poder del notario que reciba.
+El notario que reciba una notaría, ya sea por vacancia de esta o suspensión de quien la servía, deberá, siempre, hacerlo por riguroso inventario, con asistencia de un representante del Gobierno del Estado. El acta de recibo, con inclusión del inventario, se levantará y firmará por cuádruple, remitiéndose un ejemplar al Gobernador del Estado; al Secretario General de Gobierno; al Registro Público de la Propiedad y del Comercio; y el último, quedará en poder del notario que reciba.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -1071,9 +1087,11 @@ Este tendrá derecho a un duplicado del acta firmada por el visitador y por él 
 
 ### CAPITULO NOVENO. DEL ARCHIVO DE NOTARIAS
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 136.
 
-El archivo de notarías dependerá del Director del Registro Público de la Propiedad, quien ejercerá sus funciones de acuerdo con esta Ley y con el Reglamento interior de la citada Dirección.
+El Archivo de Notarías dependerá de la Secretaría General de Gobierno, a través de la Dirección General de Archivos, quien ejercerá sus funciones de acuerdo con esta Ley y demás disposiciones legales aplicables.
 
 ###### ARTICULO 137.
 
@@ -1304,3 +1322,37 @@ P.O. 29 DE ABRIL DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 478.- SE REFORMAN LOS ARTÍCULOS 24 PÁRRAFO SEGUNDO, 31 PÁRRAFO CUARTO, 33 PÁRRAFO SEGUNDO, 79 FRACCIÓN I INCISO B), 93, 120 Y 136; Y SE ADICIONA EL INCISO F) A LA FRACCIÓN I DEL ARTÍCULO 79 DE LA LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES Y SE EXPIDE LA LEY DE ARCHIVOS DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 180 días naturales contados a partir de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, se abroga la Ley de Archivos del Estado de Aguascalientes publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de septiembre de 2014, así como sus reformas y adiciones subsecuentes y demás disposiciones normativas derivadas con motivo de aquella.
+
+###### ARTÍCULO TERCERO.
+
+Los integrantes del Consejo Estatal deberán llevar a cabo su sesión de instalación, a más tardar, dentro de los sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los sujetos obligados deberán llevar a cabo las adecuaciones reglamentarias necesarias para el cumplimiento de la Ley de Archivos del Estado de Aguascalientes, dentro de un término de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los sujetos obligados deberán implementar su Sistema Institucional, dentro de un término de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones normativas que se opongan al mismo.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo Estatal, deberá llevar a cabo las adecuaciones reglamentarias necesarias para dar cumplimiento a lo dispuesto por el presente Decreto.
+
+Al Ejecutivo para su promulgación y publicación.
