@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2020-10-01"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -361,9 +361,17 @@ IV. Llevar a cabo los programas y acciones que en materia de salubridad local se
 
 V. Establecer las acciones sanitarias en los límites territoriales con otras Entidades Federativas;
 
-VI. Vigilar en la esfera de su competencia el cumplimiento de esta ley y demás disposiciones aplicables; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 1 DE MARZO DE 2021)</small>
 
-VII. Las demás que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de la ley.
+VI. Celebrar convenios con instituciones públicas o privadas, o con organizaciones civiles o sindicales para capacitar de manera permanente y gratuita en materia de Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, al personal de los Servicios de Salud en el Estado, que sea necesario para garantizar que en los hospitales, clínicas y centros de salud del Estado, se cuente, por lo menos, con un intérprete de Lengua de Señas Mexicana y uno del sistema de Lectoescritura Braille, que auxilie en sus consultas o tratamientos, a las personas con discapacidad o personas en situación de discapacidad;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 1 DE MARZO DE 2021)</small>
+
+VII. Vigilar en la esfera de su competencia el cumplimiento de esta ley y demás disposiciones aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 1 DE MARZO DE 2021)</small>
+
+VIII. Las demás que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de la ley.
 
 ###### ARTICULO 17.
 
@@ -403,9 +411,11 @@ II. De salud pública; y
 
 III. De asistencia social.
 
+> <small>(REFORMADO, B.O. 1 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 21.
 
-Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud preferentemente a los grupos vulnerables.
+Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud preferentemente a los grupos vulnerables, debiendo contar en sus hospitales, clínicas y centros de salud, por lo menos, con un intérprete de Lengua de Señas Mexicana y uno del sistema de Lectoescritura Braille, que auxilie en sus consultas o tratamientos, a las personas con discapacidad o personas en situación de discapacidad.
 
 ###### ARTICULO 22.
 
@@ -3460,3 +3470,11 @@ B.O. 1 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 176, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA, DE LA LEY DE DEFENSORÍA PÚBLICA, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERA (SIC) DE JUSTICIA DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE SALUD PARA EL ESTADO DE SONORA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA, DE LA LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA Y DE LA LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
