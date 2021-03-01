@@ -4,7 +4,7 @@ identifier: "SON-ley-de-atencion-a-victimas-para-el-estado-de-sonora-110753"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-26"
-last_updated: "2020-12-24"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "SON"
 ---
 # LEY DE ATENCION A VICTIMAS PARA EL ESTADO DE SONORA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
-
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 26 de noviembre de 2015.
 
@@ -579,13 +577,21 @@ El monto de la compensación subsidiaria a la que se podrá obligar al Estado se
 
 XXXVI.- Exigir a los sentenciados, en los términos previstos por la Ley General de Víctimas, la restitución al Fondo Estatal de los recursos erogados por concepto de compensaciones subsidiarias que hubiere otorgado a las víctimas por el delito que aquellos cometieron;
 
-> <small>(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, B.O. 1 DE MARZO DE 2021)</small>
 
-XXXVII.- Garantizar, cuando proceda, el debido registro, atención y reparación, en los términos previstos por la Ley General de Víctimas, a las víctimas de desplazamiento interno cuya entidad de origen no sea el Estado de Sonora; y
+XXXVII.- Garantizar, cuando proceda el debido registro, atención y reparación en los términos previstos por la Ley General de Victimas, a las víctimas de desplazamiento interno cuya entidad de origen no sea el Estado de Sonora;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 1 DE MARZO DE 2021)</small>
 
-XXXVIII.- Las demás que se deriven de la normatividad aplicable.
+XXXVIII.- Contar con el personal y material especializado y la asistencia de interpretes de Lengua de Señas Mexicana para la debida atención y defensa de los derechos y libertades de las víctimas con discapacidad o en situación de discapacidad;
+
+> <small>(ADICIONADA, B.O. 1 DE MARZO DE 2021)</small>
+
+XXXIX.- Llevar a cabo programas de capacitación de manera permanente y gratuita en Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, dirigido a su personal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 1 DE MARZO DE 2021)</small>
+
+XL.- Las demás que se deriven de la normatividad aplicable.
 
 ###### Artículo 17.
 
@@ -645,9 +651,9 @@ VIII.- Garantizar el registro de las víctimas que acudan directamente ante la C
 
 IX.- Crear comités especializados en la materia;
 
-> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, B.O. 1 DE MARZO DE 2021)</small>
 
-X.- Suscribir los convenios de coordinación, concertación y colaboración o la contratación de expertos que se requiera para el cumplimiento de sus funciones;
+X.- Suscribir los convenios de coordinación, concertación y colaboración o la contratación de expertos que se requiera para el cumplimiento de sus funciones, incluyendo la celebración de convenios con instituciones públicas o privadas, o con organizaciones civiles o sindicales para capacitar de manera permanente y gratuita en materia de Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, al personal de la Comisión Ejecutiva Estatal que sea necesario para poder brindar la debida atención y defensa de los derechos y libertades de las víctimas con discapacidad o en situación de discapacidad, que lo requieran.
 
 XI.- Realizar los programas operativos anuales y los requerimientos presupuestales anuales que corresponda a la Comisión Ejecutiva Estatal;
 
@@ -1520,3 +1526,11 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Hacienda, a más tardar el día 20 de febrero de 2021 y previa consulta con las Comisiones de Hacienda del Congreso del Estado, deberá emitir las reglas de carácter general para la distribución de los recursos que se recuden (sic) con motivo de la contribución para el fortalecimiento y sostenimiento de los cuerpos de bomberos contenida en los artículos 292 BIS-6, 292 BIS-7 y 292 BIS-8 de la Ley de Hacienda del Estado.
+
+B.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 176, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O PERSONAS EN SITUACIONES DE DISCAPACIDAD DEL ESTADO DE SONORA, DE LA LEY DE LA DEFENSORÍA PÚBLICA, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE SALUD PARA EL ESTADO DE SONORA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA, DE LA LEY DE CULTURA FÍSIA Y DEPORTE DEL ESTADO DE SONORA, DE LA LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA Y DE LA LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
