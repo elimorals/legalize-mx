@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-197-para-la-inclusion-y-desarrollo-de-las-134093"
 country: "mx"
 rank: "ley"
 publication_date: "2019-01-14"
-last_updated: "2020-07-23"
+last_updated: "2021-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
 
 Ley publicada en el Número 4 Secc. II del Boletín Oficial del Estado de Sonora, el lunes 14 de enero de 2019.
 
@@ -337,9 +337,11 @@ La Fiscalía General de Justicia del Estado de Sonora, deberá atender de manera
 
 Las agencias del Ministerio Público que atiendan los delitos cometidos contra o por personas con discapacidad o personas en situación de discapacidad, deberán contar con las instalaciones adecuadas que garanticen la accesibilidad universal a las personas con discapacidad o personas en situación de discapacidad, así como con todo el personal y material especializado que permita la atención adecuada y el ejercicio de sus derechos que como ofendido o como probable responsable le correspondan.
 
+> <small>(REFORMADO, B.O. 1 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 18.
 
-El Gobierno del Estado, a través de la Fiscalía General de Justicia del Estado, deberá actualizar y capacitar a un cuerpo de defensores de oficio, para la debida atención y defensa de los derechos y libertades de las personas con discapacidad o personas en situación de discapacidad de escasos recursos, debiendo contar igualmente, con el personal y material especializado y la asistencia de intérpretes de lengua de señas mexicanas para las personas con discapacidad o personas en situación de discapacidad cuando deban comparecer ante las autoridades judiciales o de procuración de justicia garantizando una defensa adecuada, en igualdad de condiciones con las demás personas.
+El Gobierno del Estado, a través de la Dirección General de la Defensoría Pública del Estado de Sonora; la Comisión Ejecutiva Estatal de Atención a Víctimas y la Fiscalía General de Justicia del Estado de Sonora, deberán actualizar y capacitar de manera permanente a su respectivo personal, para la debida atención y defensa de los derechos y libertades de las personas con discapacidad o personas en situación de discapacidad de escasos recursos, debiendo contar igualmente, con el personal y material especializado y la asistencia de intérpretes de Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, para las personas con discapacidad o personas en situación de discapacidad cuando deban comparecer ante las autoridades judiciales o de procuración de justicia garantizando una defensa adecuada, en igualdad de condiciones con las demás personas.
 
 ###### ARTÍCULO 19.
 
@@ -673,7 +675,9 @@ En el caso de los seleccionados estatales para participar en competencias region
 
 VI.- Se propiciará la creación de espacios para facilitar el desarrollo de los deportes, tomando en cuenta las diferentes discapacidades mencionadas en la presente Ley; y
 
-VII.- Se deberá contar con la contratación de intérpretes en la Lengua de Señas Mexicanas, así como la emisión de documentos en sistema de escritura Braille para apoyar en las actividades deportivas que así lo requieran.
+> <small>(REFORMADA, B.O. 1 DE MARZO DE 2021)</small>
+
+VII.- Se deberá contar con el apoyo de intérpretes en la Lengua de Señas Mexicanas, así como la emisión de documentos en sistema de Lectoescritura Braille para apoyar en las actividades deportivas que así lo requieran.
 
 ###### ARTÍCULO 46.
 
@@ -695,9 +699,9 @@ VI.- Promover el uso de tecnologías en la cinematografía y el teatro, que faci
 
 VII.- Generar y difundir entre la sociedad, el respeto a la diversidad y participación de las personas con discapacidad o en situación de discapacidad en el arte, la cultura y la recreación;
 
-> <small>(REFORMADA, B.O. 13 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, B.O. 1 DE MARZO DE 2021)</small>
 
-VIII.- Se deberá contar con la contratación de intérpretes en la Lengua de Señas Mexicanas, así como la emisión de documentos en sistema de escritura Braille para apoyar en las actividades artísticas, culturales y recreativas que así lo requieran; y
+VIII.- Se deberá contar con el apoyo de intérpretes en la Lengua de Señas Mexicanas, así como la emisión de documentos en sistema de Lectoescritura Braille para apoyar en las actividades artísticas, culturales y recreativas que así lo requieran; y
 
 > <small>(ADICIONADA, B.O. 13 DE JUNIO DE 2019)</small>
 
@@ -717,7 +721,9 @@ IV.- Promover mecanismos de financiamiento, subsidio o coinversión para la ejec
 
 V.- Promover que las personas con discapacidad o en situación de la discapacidad se les brinde preferencia y accesibilidad para el fácil desplazamiento a museos, teatros, cines, bibliotecas, instalaciones turísticas y de recreación; y
 
-VI.- Se deberá contar con la contratación de intérpretes en la Lengua de Señas Mexicanas, así como la emisión de documentos en sistema de escritura Braille para apoyar en las actividades turísticas que así lo requieran.
+> <small>(REFORMADA, B.O. 1 DE MARZO DE 2021)</small>
+
+VI.- Se deberá contar con el apoyo de intérpretes en la Lengua de Señas Mexicanas, así como la emisión de documentos en sistema de Lectoescritura Braille para apoyar en las actividades turísticas que así lo requieran.
 
 ### CAPÍTULO X. DE LA PARTICIPACIÓN EN LA VIDA POLÍTICA Y PÚBLICA
 
@@ -1328,3 +1334,11 @@ El Instituto de Becas y Crédito Educativo del Estado de Sonora deberá tomar la
 ###### ARTÍCULO CUARTO.
 
 Cualquier dependencia estatal que tenga a su cargo programas de becas o estímulos educativos a la fecha de publicación del presente Decreto, deberá reportarlos de inmediato a la dirección del Instituto de Becas y Crédito Educativo del Estado de Sonora y tendrá un máximo de 30 días naturales para transferir al referido Instituto los recursos correspondientes, así como los padrones de beneficiarios, a fin de dar cumplimiento a lo dispuesto en el artículo 38 de la Ley del Instituto de Becas y Crédito Educativo del Estado de Sonora, modificado en el presente Decreto. Procurando la atención adecuada y pertinente a los grupos vulnerables e integrantes de los pueblos indígenas en cuanto a becas y estímulos educativos.
+
+B.O. 1 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 176, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA, DE LA LEY DE DEFENSORÍA PÚBLICA, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY DE SALUD PARA EL ESTADO DE SONORA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA, DE LA LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA Y DE LA LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
