@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2021-02-26"
+last_updated: "2021-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MARZO DE 2021.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -10985,6 +10985,10 @@ IV.- A garantir el uso o goce pacífico de la cosa por todo el tiempo del contra
 
 V.- A responder de los daños y perjuicios que sufra el arrendatario por los defectos o vicios ocultos de la cosa, anteriores al arrendamiento.
 
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VI. Tratándose del arrendamiento en edificios o inmuebles destinados a oficinas, a elaborar el Programa Interno de Protección Civil para espacios comunes y a proporcionar a los arrendatarios la documentación prevista en la normatividad de Gestión Integral de Riesgos y Protección Civil.
+
 ARTICULO 2,413.- La entrega de la cosa se hará en el tiempo convenido; y si no hubiere convenio, luego que el arrendador fuere requerido por el arrendatario.
 
 ARTICULO 2,414.- El arrendador no puede, durante el arrendamiento, mudar la forma de la cosa arrendada, ni intervenir en el uso legítimo de ella, salvo el caso designado en la fracción III, del artículo 2,412.
@@ -14872,3 +14876,17 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
 
 CUARTO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 2 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL Y DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO, DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL, DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL, ASÍ COMO DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El Reglamento de la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México, se actualizará dentro de un término de sesenta días, contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- Las Normas Técnicas, Términos de Referencia y Lineamientos a que se refiere la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México se actualizarán en lo que se opongan al presente Decreto, dentro de un término de noventa días, contados a partir de la entrada en vigor del presente mismo (sic).
+
+QUINTO.- La Plataforma Digital a que se refiere la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México se actualizarán (sic) en lo que se opongan al presente Decreto, dentro de un término de noventa días, contados a partir de la entrada en vigor del presente mismo (sic).
