@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-regula-los-procedimientos-de-entrega-recepcion-del-1218
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-05"
-last_updated: "2017-06-05"
+last_updated: "2021-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1086 +21,594 @@ state: "CAM"
 ---
 # LEY QUE REGULA LOS PROCEDIMIENTOS DE ENTREGA-RECEPCION DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-LEY DE TRANSPORTE Y SUS VIAS DE COMUNICACION
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 2 DE MARZO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2004.
+LEY QUE REGULA LOS PROCEDIMIENTOS DE ENTREGA-RECEPCIÓN DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de enero de 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2021 (ABROGADO).
 
-EL CIUDADANO CONTADOR PUBLICO FRANCISCO JAVIER BARRIO TERRAZAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
+Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 5 de junio de 2017.
 
-QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR EL SIGUIENTE
+DECRETO
 
-D E C R E T O :
+La LXII Legislatura del Congreso del Estado de Campeche decreta:
 
-LA QUINCUAGESIMA SEPTIMA H. LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, REUNIDA EN SU SEPTIMO PERIODO EXTRAORDINARIO DE SESIONES,
+Número 151
 
-D E C R E T A:
+ÚNICO.- Se expide la Ley que Regula los Procedimientos de Entrega-Recepción del Estado de Campeche y sus Municipios, para quedar como sigue:
 
-LEY DE TRANSPORTE Y SUS VIAS DE COMUNICACION
+LEY QUE REGULA LOS PROCEDIMIENTOS DE ENTREGA-RECEPCIÓN DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTICULO 1.
+###### ARTÍCULO 1.
 
-ESTA LEY ES DE ORDEN PUBLICO; TIENE POR OBJETO REGULAR LAS VIAS Y SERVICIOS LOCALES DE COMUNICACION DE CUALQUIER CLASE, LAS RUTAS DE TRANSPORTE URBANO Y SEMIURBANO DE PASAJEROS Y DE CARGA EN LAS POBLACIONES DEL ESTADO, ASI COMO ORGANIZAR Y CONTROLAR DICHO TRANSPORTE.
+Esta Ley tiene por objeto regular el proceso para la Entrega-Recepción en los Poderes Ejecutivo, Legislativo y Judicial; los Municipios; las dependencias y entidades del Gobierno del Estado y de los municipios; los órganos constitucionales autónomos, así como los órganos jurisdiccionales que determinen las leyes, en el Estado de Campeche.
 
-EL SERVICIO LO PRESTARA EL ESTADO DIRECTAMENTE O A TRAVES DE LOS ORGANOS O ENTIDADES QUE PARA TAL EFECTO CREE O POR CONDUCTO DE PARTICULARES, PERSONAS FISICAS O MORALES, MEDIANTE EL OTORGAMIENTO DE CONCESIONES O PERMISOS, PROCURANDO EL USO ADECUADO Y EL MEJOR APROVECHAMIENTO DE LAS VIAS DE COMUNICACION EN BENEFICIO DE LA SOCIEDAD.
+Es obligación de los servidores públicos que señala esta Ley, entregar a quienes los sustituyan, al término de su empleo, cargo o comisión, los asuntos de su competencia, así como los recursos humanos, materiales, financieros y demás que les hayan sido asignados, y en general, toda aquella documentación e información que, debidamente ordenada, clasificada, legalizada y protocolizada, haya sido generada en el ejercicio del quehacer gubernamental.
 
-###### ARTICULO 2.
+El Poder Ejecutivo a través de la Secretaría de la Contralaría, los órganos internos de control del Poder Judicial y del Poder Legislativo, las contralorías internas municipales, los órganos internos de control de los órganos constitucionales autónomos así como de los órganos jurisdiccionales que determinen las leyes, están facultados para la aplicación de esta Ley, en el ámbito de las respectivas competencias de cada poder, municipio, órgano constitucional o jurisdiccional y conforme a la normatividad que les rige. Los órganos constitucionales autónomos se sujetarán, en lo conducente, a lo que establece esta Ley y a lo que al efecto determinen sus respectivas leyes.
 
-SON VIAS DE COMUNICACION SUJETAS A ESTA LEY Y SUS REGLAMENTOS:
+En todo caso, en el marco de los procesos de Entrega-Recepción se observarán las disposiciones aplicables señaladas por la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera y Responsabilidad Hacendaría del Estado de Campeche y sus Municipios, la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche y la Ley de Archivos del Estado de Campeche.
 
-I.- CAMINOS, AVENIDAS, CALZADAS, CALLES, PASEOS Y CARRETERAS PAVIMENTADAS O REVESTIDAS CON TERRACERIA, PARA TRANSITO DE VEHICULOS DE CUALQUIER CLASE, CON LAS EXCEPCIONES SIGUIENTES:
+###### ARTÍCULO 2.
 
-A).- LOS CAMINOS CONSTRUIDOS EXCLUSIVAMENTE POR PARTICULARES DENTRO DE SUS PROPIEDADES QUE NO COMUNIQUEN ALGUN CENTRO DE POBLACION;
+Para los efectos de esta Ley se entiende por:
 
-B).- LAS CARRETERAS QUE COMUNIQUEN AL ESTADO CON OTRA U OTRAS ENTIDADES FEDERATIVAS O CON EL EXTRANJERO; Y
+I.- Acta Administrativa de Entrega-Recepción: Documento en el que se hace constar el acto de Entrega-Recepción, señalado por las personas que intervienen, así como la relación de recursos humanos, materiales y de información financiera que se entregan;
 
-C).- LAS CARRETERAS CONSTRUIDAS EN SU TOTALIDAD O EN SU MAYOR PARTE POR LA FEDERACION, SIEMPRE QUE ESTAS NO HAYAN PASADO A LA JURISDICCION DEL ESTADO;
+II.- Entidades: los órganos administrativos de carácter para estatal o para municipal, considerados así por la legislación aplicable;
 
-II.- LOS PUENTES YA CONSTRUIDOS O QUE SE CONSTRUYAN EN LOS CAMINOS A QUE SE REFIERE LA FRACCION ANTERIOR.
+III.- Entrega-Recepción: La Entrega-Recepción es el acto de interés público, de cumplimiento obligatorio y formal, mediante el cual todo servidor público que concluya su función, cargo o comisión, o que por cualquier otra causa se separe de su empleo, hace entrega formal de los asuntos de su competencia, al servidor público entrante o que lo sustituye en sus funciones, mismo que deberá hacerse constar en el acta administrativa de Entrega-Recepción que describe el estado que guarda la dependencia, entidad, municipio u oficina cuya entrega se realiza, a la cual se acompañarán los anexos correspondientes;
 
-###### ARTICULO 3.
+IV.- Los Formatos: Los documentos donde consta la relación de los conceptos sujetos a Entrega-Recepción;
 
-SON PARTE INTEGRANTE DE LAS VIAS DE COMUNICACION: LOS SERVICIOS AUXILIARES, OBRAS, CONSTRUCCIONES Y DEMAS ACCESORIOS, Y EL DERECHO DE VIA PARA EL ESTABLECIMIENTO Y MANTENIMIENTO DE LOS SERVICIOS Y OBRAS MENCIONADOS. EL EJECUTIVO FIJARA LA EXTENSION DE LOS TERRENOS NECESARIOS PARA TAL OBJETO.
+V.- La Ley: La presente Ley que Regula los Procedimientos de Entrega-Recepción del Estado de Campeche y sus Municipios;
 
-###### ARTICULO 4.
+VI.- Ley de Responsabilidades: La legislación en materia de Responsabilidades aplicable;
 
-SON AUTORIDADES EN MATERIA DE TRANSPORTE Y SUS VIAS DE COMUNICACION:
+VII.- Manual de Entrega-Recepción: Al manual que para tal efecto en uso de sus facultades y en el ámbito de sus respectivas competencias expidan los Poderes Legislativo, Ejecutivo y Judicial; los Ayuntamientos, los Órganos Constitucionales Autónomos, así como los órganos jurisdiccionales que determinen las leyes, en el Estado de Campeche a través de sus órganos autorizados, conteniendo disposiciones adicionales a esta Ley y los formatos autorizados para llevar a cabo el procedimiento de Entrega-Recepción;
 
-I.- EL GOBERNADOR DEL ESTADO;
+VIII.- Proceso: El Proceso de Entrega-Recepción, que comprende la organización, supervisión y apoyo técnico en la realización de las actividades relativas a la correcta y oportuna integración de los recursos humanos, materiales, financieros y de información, que tienen los Poderes Ejecutivo, legislativo y Judicial; los Municipios; las dependencias y entidades del gobierno del estado y de los municipios; los órganos constitucionales autónomos, así como los órganos jurisdiccionales que determinen las leyes, en el Estado de Campeche, y las unidades administrativas que tengan adscritas, para asegurar una Entrega-Recepción ordenada, completa, transparente y homogénea conforme a la normatividad vigente;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+IX.- Municipios: los Municipios del Estado de Campeche, conforme al capítulo XVII de la Constitución Política del Estado de Campeche y demás leyes aplicables, gobernados por un Ayuntamiento, incluidas las dependencias y entidades de la Administración Pública Municipal;
 
-II.- SECRETARIA GENERAL DE GOBIERNO;
+X.- Órganos Constitucionales Autónomos: los organismos públicos autónomos estatales, por disposición constitucional, para el desempeño de sus funciones sustantivas, así como los órganos jurisdiccionales que determinen las leyes;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+XI.- Órgano Interno de Control: A la Secretaría de la Contraloría del Estado y los órganos internos de control de los Poderes Legislativo y Judicial; de los municipios, de los órganos jurisdiccionales que determinen las leyes, así como de los órganos constitucionales autónomos en el ámbito de su competencia;
 
-III.- LA DIRECCION DE TRANSITO Y TRANSPORTES;
+XII.- Poderes: los Poderes Legislativo, Judicial y Ejecutivo del Estado de Campeche, comprendidas en este último las dependencias y entidades de la Administración Pública Estatal;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+XIII.- Servidores Públicos: los que se consideran como tales en el Capítulo XVII de la Constitución Política del Estado de Campeche y en la Ley de Responsabilidades aplicable;
 
-IV.- LOS JEFES DE LOS DEPARTAMENTOS DE TRANSPORTE Y SUS INSPECTORES;
+XIV.- Unidades Administrativas: Las que se encuentren adscritas a los sujetos obligados de esta Ley, de conformidad con su organigrama, reglamento interior, acuerdo; estatuto u ordenamiento legal aplicable. Se consideran como tales, aquéllas unidades de carácter unipersonal que tenga a su cargo un programa o proyecto específico.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+###### ARTÍCULO 3.
 
-V.- LOS PRESIDENTES MUNICIPALES, CON CARACTER DE AUXILIARES, EJERCERAN FUNCIONES EN LA MATERIA QUE RIGE ESTA LEY, EN LOS TERMINOS DE LA DELEGACION EXPRESA QUE LES HAGA LA SECRETARIA GENERAL DE GOBIERNO;
+Son sujetos obligados por esta Ley los servidores públicos, desde los titulares e integrantes de los Poderes Ejecutivo, Legislativo y Judicial, de los ayuntamientos, de las dependencias y entidades de la administración pública estatal y municipal, de los órganos constitucionales autónomos, así como de los órganos jurisdiccionales que determinen las leyes, en el Estado de Campeche, y las unidades administrativas que tengan adscritas, hasta el nivel jerárquico correspondiente a jefe de departamento o sus equivalentes, y los demás servidores públicos que por la naturaleza e importancia de sus funciones deban realizar el acto de Entrega-Recepción, por haber manejado recursos o haber tenido personal a su cargo.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+Corresponderá a los titulares e integrantes de los poderes, órganos constitucionales autónomos, órganos jurisdiccionales que determinen las leyes, en el Estado de Campeche, y Ayuntamientos, emitir su correspondiente Manual de Entrega-Recepción y determinar en sus respectivas áreas de competencia, adicionalmente, los servidores públicos que por la relevancia y responsabilidad de las funciones públicas a su cargo, estarán sujetos a las disposiciones de esta Ley, debiendo fundar y motivar la resolución respectiva, y hacerla del conocimiento al órgano interno de control correspondiente.
 
-VI.- AUTORIDADES DE TRANSITO DEL ESTADO Y DE LOS MUNICIPIOS, CON CARACTER DE AUXILIARES Y DENTRO DEL AMBITO Y TERMINOS DE LA DELEGACION EXPRESA QUE LES HAGA LA GENERAL DE GOBIERNO.
+Cuando la complejidad de los procesos de Entrega-Recepción lo ameriten y exista disponibilidad presupuestaria para ello, se podrán contratar los servicios especializados de personas físicas o jurídicas colectivas, que apoyen en la realización de esas tareas.
 
-###### ARTICULO 5.
+###### ARTÍCULO 4.
 
-ESTAS AUTORIDADES, DENTRO DEL AMBITO DE SUS COMPETENCIAS, EXPEDIRAN LOS REGLAMENTOS Y ESTABLECERAN LAS MEDIDAS PARA LA COORDINACION, FUNCIONAMIENTO Y CONTROL DE LOS SISTEMAS Y MEDIOS DE TRANSPORTE.
+Cuando por alguna causa justificada plenamente, los servidores públicos obligados a la Entrega-Recepción no puedan realizarla, dicha obligación correrá a cargo del servidor público que designe el jefe inmediato del obligado.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+Se considera como causa justificada el deceso, la incapacidad física o mental del servidor público obligado y la reclusión por la comisión de algún delito sustentada en una sentencia firme emitida por autoridad competente.
 
-###### ARTICULO 6.
+###### ARTÍCULO 5.
 
-LA SECRETARIA GENERAL DE GOBIERNO ES EL ORGANO COMPETENTE PARA RESOLVER, EN ULTIMA INSTANCIA, LAS CONTROVERSIAS ADMINISTRATIVAS QUE SE SUSCITEN SOBRE LA INTERPRETACION O CUMPLIMIENTO DE LA LEY, Y PARA DICTAR TODA CLASE DE ACUERDOS, CIRCULARES O INSTRUCCIONES RELACIONADOS CON LAS VIAS DE COMUNICACION, EL SERVICIO DE TRANSPORTE Y LOS CONEXOS A ESTOS.
+El proceso de Entrega-Recepción tiene como finalidad:
 
-SUS FACULTADES LAS PODRA EJERCER DIRECTAMENTE O POR DELEGACION QUE REALICE EN LA DIRECCION DE TRANSITO Y TRANSPORTE, O EN SUS DEPARTAMENTOS DE TRANSPORTE Y DEMAS PERSONAL DE DICHA DEPENDENCIA.
+I. Para los servidores públicos salientes, la entrega de los recursos y en general, los conceptos a que se refiere esta Ley, lo cual los liberará de responsabilidad administrativa respecto del acto de Entrega-Recepción, más no de las faltas en que hubiesen incurrido en el ejercicio de sus funciones.
 
-### CAPITULO II. DE LAS CONCESIONES Y PERMISOS
+II. Para los servidores públicos entrantes, la recepción de los recursos y demás conceptos a que se refiere la presente Ley, constituyendo el punto de partida de su actuación al frente de su nueva responsabilidad.
 
-###### ARTICULO 7.
+###### ARTÍCULO 6.
 
-EL SERVICIO PUBLICO DE TRANSPORTE PUEDE SER FORANEO DE PASAJEROS, DE CARGA O MIXTO; URBANO O SEMI-URBANO COLECTIVO DE PASAJEROS O EN AUTOMOVILES DE ALQUILER; Y URBANO O SEMI-URBANO DE CARGA.
+El Proceso de Entrega-Recepción de los asuntos y recursos públicos, debe realizarse:
 
-PARA LOS EFECTOS DE ESTA LEY, SE CONSIDERA SERVICIO PUBLICO DE TRANSPORTE DE PASAJEROS Y MIXTO DE PASAJEROS Y COSAS, EL QUE SE LLEVA A CABO DE MANERA CONTINUA, UNIFORME, REGULAR Y PERMANENTE EN LAS VIAS PUBLICAS DEL ESTADO, PARA SATISFACER UNA NECESIDAD COLECTIVA, MEDIANTE LA UTILIZACION DE VEHICULOS IDONEOS PARA CADA TIPO DE SERVICIO, Y EN EL CUAL LOS USUARIOS, COMO CONTRAPRESTACION, REALIZAN UN PAGO EN MONEDA DE CURSO LEGAL, DE ACUERDO CON LA TARIFA PREVIAMENTE APROBADA POR LA AUTORIDAD CORRESPONDIENTE. LA PRESTACION DE ESTE SERVICIO ES DE INTERES PUBLICO.
+I. Al término e inicio de un ejercicio constitucional o mandato legal;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+II. Por renuncia;
 
-###### ARTICULO 8.
+III. Por cese o terminación de nombramiento;
 
-PARA QUE LOS PARTICULARES, PERSONAS FISICAS O MORALES, PRESTEN EL SERVICIO PUBLICO DE TRANSPORTE EN CUALQUIERA DE LAS MODALIDADES QUE SE INDICAN EN EL ARTICULO ANTERIOR, REQUERIRAN DE CONCESION O PERMISO DEL EJECUTIVO, QUE OTORGARA POR CONDUCTO DE LA SECRETARIA GENERAL DE GOBIERNO.
+IV. Por suspensión;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+V. Por destitución;
 
-###### ARTICULO 9.
+VI. Por licencia por tiempo indefinido; o
 
-EL TRANSPORTE FORANEO DE PASAJEROS O MIXTO Y EL URBANO Y SEMI-URBANO COLECTIVO DE PASAJEROS SE PRESTARAN EN AUTOBUSES CERRADOS, SUJETOS A LOS ITINERARIOS, TARIFAS Y HORARIOS QUE DETERMINE LA SECRETARIA GENERAL DE GOBIERNO.
+VII. Por cualquier otra causa por la que concluya o se suspenda el ejercicio del servidor público de que se trate.
 
-### CAPITULO III. DE LAS OBLIGACIONES CONEXAS
+La Entrega-Recepción a que se refiere la fracción I del párrafo anterior, que se realiza a la conclusión e inicio de un ejercicio constitucional, como es el caso de la renovación de los poderes Ejecutivo y Legislativo, o de los ayuntamientos, se denomina Entrega-Recepción Final.
 
-###### ARTICULO 45.
+También estarán sujetos a Entrega-Recepción Final:
 
-LOS CONCESIONARIOS Y PERMISIONARIOS QUE PRESTEN SERVICIO PUBLICO DE TRANSPORTE TENDRAN LAS OBLIGACIONES SIGUIENTES:
+I. El Gobernador del Estado, los Presidentes Municipales, los Diputados del Congreso del Estado que presidan la Junta de Gobierno y Administración y los Magistrados del Tribunal Superior de Justicia del Estado que ejerzan la presidencia del mismo, en el caso de que soliciten y le sea concedida, licencia por tiempo indefinido para separarse de su cargo o comisión; así como los interinos o sustitutos;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+II. Cuando la Entrega-Recepción se derive de la conclusión de un mandato legal diverso a cargo de elección popular, establecido en la Constitución Política del Estado de Campeche o en la ley, para el que fuese designado un determinado servidor público en los poderes del estado, órganos constitucionales autónomos, u organismos descentralizados.
 
-I.- CUMPLIR CON LA PRESTACION DE LOS SERVICIOS PUBLICOS QUE FIJE LA CONCESION O PERMISO, LAS DISPOSICIONES QUE ESTABLEZCA SOBRE LA MATERIA LA SECRETARIA GENERAL DE GOBIERNO, ESTA LEY, SUS REGLAMENTOS Y LAS DISPOSICIONES DE TRANSITO;
+En los Órganos Constitucionales Autónomos para considerar el término del periodo se estará a las disposiciones de su creación.
 
-II.- COADYUVAR CON EL ESTADO Y MUNICIPIOS EN EL MANTENIMIENTO Y CONSERVACION DE LAS VIAS DE COMUNICACION POR LAS QUE TRANSITEN, ASI COMO EN LA CAPACITACION DE LOS OPERADORES;
+Cuando la Entrega-Recepción sea derivada de alguno de los supuestos establecidos en las fracciones II a VII del párrafo primero de este artículo, se considera intermedia y comprende solamente a la dependencia, entidad o unidad administrativa de que se trate. El servidor público saliente deberá entregar, por sí o por medio de una persona autorizada bajo su responsabilidad para tal efecto, toda la información que acredite el estado de los asuntos de su competencia, así como los recursos que tuviese asignados, a quien lo sustituya en sus funciones.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+También estarán sujetos a entrega intermedia, cuando dejen su empleo, cargo o comisión, independientemente del motivo de conclusión, los servidores públicos que tengan dentro de sus funciones la responsabilidad de administrar, aplicar o comprobar recursos públicos, o sean responsables de archivos de trámite o de concentración, aun cuando no tengan unidades administrativas a su cargo. El servidor público saliente deberá entregar, por sí o por medio de una persona autorizada bajo su responsabilidad para tal efecto, los recursos que tuviese asignados o los archivos de los que sea responsable, a quien lo sustituya en sus funciones.
 
-III.- RESPONDER ANTE LA SECRETARIA O ANTE CUALQUIER AUTORIDAD ESTATAL O MUNICIPAL COMPETENTE DE LAS FALTAS EN QUE INCURRAN POR SI MISMOS O POR CONDUCTO DE LAS PERSONAS DE QUIENES SE SIRVAN COMO OPERADORES DE LOS VEHICULOS DESTINADOS A LA PRESTACION DEL SERVICIO PUBLICO;
+Cuando la Entrega-Recepción deba realizarse y no exista nombramiento o designación inmediata de quién deba sustituir al servidor público saliente, éste hará entrega al servidor público que designe para tal efecto el superior jerárquico del mismo.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+Del mismo modo se procederá cuando la Entrega-Recepción deba hacerse sin la presencia del servidor público saliente, ya fuese por causa de muerte, incapacidad o cualquier otra que le impida justificadamente asistir a realizar dicha entrega.
 
-IV.- EN LOS CASOS QUE SEÑALE LA SECRETARIA, LOS VEHICULOS DEBERAN CONTAR CON EQUIPO DE RADIOCOMUNICACION Y LAS MEDIDAS DE SEGURIDAD QUE PARA LOS CONDUCTORES CONSIDERE CONVENIENTES;
+### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS
 
-V.- ADQUIRIR SEGURO QUE AMPARE AL PASAJERO O VIAJERO, EQUIPAJE O CARGA, A LA PROPIA UNIDAD Y LOS DAÑOS QUE SE PUDIERAN OCASIONAR A TERCEROS EN SUS PERSONAS O BIENES;
+###### ARTÍCULO 7.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+Con el propósito de dar cumplimiento a lo establecido en este ordenamiento y hacer posible la entrega oportuna y debida de los asuntos y recursos a su cargo, los servidores públicos sujetos a esta ley deberán mantener permanentemente actualizados sus registros, controles y demás documentación relativa a su gestión.
 
-VI.- MANTENER LOS VEHICULOS EN BUEN ESTADO MECANICO, ELECTRICO, DE PINTURA Y PRESENTACION QUE PARA CADA CASO FIJE LA SECRETARIA, EVITANDO CONTAMINACION POR RUIDOS O HUMOS Y APLICANDO LOS AVANCES TECNOLOGICOS QUE DETERMINE LA SECRETARIA DE GOBIERNO;
+###### ARTÍCULO 8.
 
-VII.- EL CONCESIONARIO O PERMISIONARIO SERA RESPONSABLE, ADEMAS, DE LA HIGIENICA Y CORRECTA PRESENTACION DEL OPERADOR Y DEL ASEO DEL VEHICULO EN EL CASO DE TRANSPORTE DE PASAJEROS Y MIXTO;
+Para los efectos de la presente Ley, el proceso de Entrega-Recepción debe entenderse como un traslado de responsabilidades, que deberá contener, entre otros aspectos, en su caso, las obligaciones de los servidores públicos para:
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+I. Preparar con oportunidad la información documental que será objeto de la Entrega-Recepción por parte de los servidores públicos sujetos a esta Ley, la cual se referirá a la función que desarrolló el servidor público saliente, así como al resguardo de los asuntos y recursos humanos, materiales y financieros de carácter oficial que estuvieron bajo su responsabilidad, cuando corresponda.
 
-VIII.- SUJETARSE A LAS TARIFAS AUTORIZADAS Y RESPETAR LOS HORARIOS E ITINERARIOS, ASI COMO CIRCULAR POR LAS VIALIDADES QUE SEÑALEN LOS DEPARTAMENTOS DE TRANSPORTE Y LAS AUTORIDADES DE TRANSITO;
+II. Mantener actualizados los registros, los archivos y la documentación que se produce por el manejo de la administración pública en general.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+III. Dar cuenta de los bienes patrimoniales y de los recursos humanos y financieros de la administración pública estatal, de los ayuntamientos y de las entidades.
 
-IX.- NOTIFICAR A LA SECRETARIA EN CASO DE HABER SUFRIDO ALGUN ACCIDENTE EL VEHICULO AUTORIZADO;
+IV. En caso de renuncia voluntaria al cargo, empleo o comisión, solicitar por escrito al superior jerárquico, se designe día y hora para llevar a cabo la Entrega-Recepción, según corresponda.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+En este último supuesto, el superior jerárquico deberá comunicar por escrito, al servidor público saliente, el nombre de la persona con quien se tratará la Entrega-Recepción, así como la fecha y hora para que tenga verificativo la misma. Esta comunicación deberá de hacerse de conocimiento al Órgano Interno de Control.
 
-X.- USAR EN LOS VEHICULOS AUTORIZADOS LOS COLORES, LETREROS E IDENTIFICACION QUE DETERMINE LA SECRETARIA.
+El incumplimiento de estas obligaciones será sancionado como falta administrativa de conformidad con la Ley de Responsabilidades.
 
-TRATANDOSE DE VEHICULOS PARA EL TRANSPORTE COLECTIVO DE PASAJEROS, DEBERA COLOCARSE EN LUGAR VISIBLE Y EN EL TAMAÑO APROPIADO, TANTO EN EL INTERIOR COMO EN EL EXTERIOR, LETREROS CON LOS NUMEROS TELEFONICOS DEL DEPARTAMENTO DE TRANSPORTE, DONDE EL USUARIO PUEDA EXPONER SUS QUEJAS RESPECTO AL SERVICIO; ASI MISMO, DEBERAN INCLUIRSE LOS NUMEROS TELEFONICOS DE LOS SERVICIOS DE EMERGENCIA MAS IMPORTANTES;
+###### ARTÍCULO 9.
 
-XI.- TRATAR CON RESPETO, CORTESIA Y ATENCION A LAS PERSONAS QUE UTILICEN SUS SERVICIOS Y A LA POBLACION EN GENERAL, SIENDO RESPONSABLES DEL COMPORTAMIENTO DEL PERSONAL DE OPERACION;
+Ningún servidor público que se encuentre sujeto a la presente Ley, podrá dejar el cargo sin llevar a cabo el acto de Entrega-Recepción correspondiente, para cuyo efecto el superior jerárquico deberá designar al sustituto definitivo o provisional en un plazo no mayor de diez días hábiles, contados a partir de la fecha en que se presente la renuncia, se notifique la baja o se lleve a cabo el cambio de cargo. En caso de incumplimiento a este precepto, se deslindarán las responsabilidades que procedan, imponiéndose, en su caso, las sanciones correspondientes en los términos de la Ley Reglamentaria y demás ordenamientos aplicables. En caso de urgencia para la entrega- recepción, a criterio del superior jerárquico, se habilitará horas o días para hacer la entrega correspondiente.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DE ENTREGA-RECEPCIÓN
 
-XII.- CUIDAR BAJO SU ESTRICTA RESPONSABILIDAD QUE LOS VEHICULOS AUTORIZADOS SEAN MANEJADOS SOLO POR QUIENES TENGAN LICENCIA DE CHOFER DE SERVICIO PUBLICO VIGENTE;
+###### ARTÍCULO 10.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+En el acto de Entrega-Recepción intervendrán necesariamente el servidor público saliente, el servidor público entrante o la persona designada por el superior jerárquico cuando no exista nombramiento, y un representante del Órgano Interno de Control.
 
-XIII.- DAR AVISO PREVIO A LA SECRETARIA EN CASO DE CAMBIO DE DOMICILIO Y LAS RAZONES QUE ORIGINEN ESTE;
+###### ARTÍCULO 11.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+En el procedimiento de Entrega-Recepción, los órganos internos de control tendrán las atribuciones siguientes:
 
-XIV.- PROPORCIONAR A LA SECRETARIA LA INFORMACION TECNICA QUE SE LE SOLICITE; Y
+I. Establecer la programación, coordinación, apoyo técnico y supervisión de las actividades que se deberán instrumentaren (sic) el ámbito de su competencia, para alcanzar los objetivos de esta ley;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+II. Expedir las disposiciones complementarias y establecer el calendario general de actividades que se requieran para el cumplimiento de la presente Ley;
 
-XV.- OBSERVAR ESTA LEY EN LO RELATIVO A LAS CONDICIONES Y CARACTERISTICAS DE LAS TERMINALES Y SITIOS, ASI COMO A LOS SEÑALAMIENTOS DETERMINADOS POR LA SECRETARIA;
+III. Auxiliar a los servidores públicos sujetos a esta Ley en el procedimiento de Entrega-Recepción;
 
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+IV. Coordinar y supervisar los procesos de Entrega-Recepción;
 
-XVI.- CONTAR EN LAS UNIDADES DE TRANSPORTE URBANO Y SEMI-URBANO, CON ASIENTOS PARA PERSONAS CON DISCAPACIDADY PARA MUJERES CON EMBARAZO EVIDENTE, DIFERENCIADOS DE LOS DEMAS POR SEÑALAMIENTOS O LOGOTIPOS Y SITUADOS JUNTO A LA PUERTA DE ACCESO DE LAS UNIDADES DE TRANSPORTE, PUDIENDO SER OCUPADOS POR CUALQUIER USUARIO, SIEMPRE Y CUANDO NO SEAN REQUERIDOS POR ALGUNA OTRA PERSONA CON DISCAPACIDAD O EMBARAZO EVIDENTE.
+V. Coordinar la ejecución del proceso de Entrega-Recepción, así como dar seguimiento y evaluar el cumplimiento del calendario de actividades requeridas para su instrumentación, tanto de las que se encuentren a su cargo como las que correspondan a otras dependencias y entidades;
 
-EN CASO DE QUE ESTOS ESPACIOS FUEREN OCUPADOS POR ALGUNA PERSONA QUE NO PADEZCA ALGUNA DISCAPACIDAD O NO SE ENCUENTRE NOTORIAMENTE EMBARAZADA, EL OPERADOR DE LA UNIDAD DE TRANSPORTE PUBLICO, AL MOMENTO EN QUE LA PERSONA CON DISCAPACIDAD O EMBARAZADA LO REQUIERA, ESTARA OBLIGADO A SOLICITAR SEA CEDIDO.
+VI. Capacitar técnicamente a los sujetos obligados en los poderes, dependencias y entidades, ayuntamientos y órganos constitucionales autónomos, en la preparación, revisión e integración de la documentación soporte de los anexos que formarán parte de las actas de Entrega-Recepción, así como supervisar y evaluar los avances correspondientes;
 
-###### ARTICULO 46.
+VII. Dirimir las controversias que llegaran a suscitarse en el procedimiento de Entrega-Recepción;
 
-EN CASO DE QUE LOS CONCESIONARIOS O PERMISIONARIOS NO CUMPLAN CON LAS OBLIGACIONES ESTABLECIDAS EN EL ARTICULO ANTERIOR, SE HARAN ACREEDORES A LAS SANCIONES SEÑALADAS EN LA LEY.
+VIII. Revisar y supervisar el cumplimento del procedimiento de Entrega-Recepción; y
 
-###### ARTICULO 10.
+IX. Fincar, en su caso, las responsabilidades que correspondan.
 
-SERVICIO DE TRANSPORTE DE PASAJEROS EN AUTOS DE ALQUILER ES EL QUE SE PRESTA EN AUTOMOVILES CERRADOS, CON TARIFA DETERMINADA, SIN ITINERARIO FIJO Y CON HORARIO DETERMINADO O NO.
+###### ARTÍCULO 12.
 
-###### ARTICULO 11.
+Los servidores públicos de la administración pública saliente, o en su caso, los que por cualquier otra causa distinta al cambio de administración deban separarse de su cargo, tendrán la obligación de desarrollar con toda oportunidad, las actividades previas al cambio administrativo, así como:
 
-SERVICIO DE TURISMO ES EL QUE SE PRESTA A PERSONAS QUE VIAJEN A LUGARES DE INTERES TURISTICO O DE RECREO DEL ESTADO, PUDIENDO O NO ESTAR SUJETO A ITINERARIO, TARIFA Y HORARIO DETERMINADOS.
+I. Las que definan las personas que intervendrán en el evento;
 
-###### ARTICULO 12.
+II. Las que tengan por objeto la capacitación para la preparación y desarrollo del proceso de Entrega-Recepción, cuando corresponda; y
 
-SERVICIO DE TRANSPORTE ESPECIAL PARA TRABAJADORES O ESCOLARES ES EL QUE SE PRESTA A QUIENES VIAJAN DE SUS DOMICILIOS A SUS CENTROS DE TRABAJO O ESTUDIO Y VICEVERSA, O CUANDO SU DESTINO DE TRANSPORTACION SE RELACIONE CON FINES LABORALES O EDUCATIVOS. ESTE TRANSPORTE SE PRESTARA EN VEHICULOS CERRADOS Y PODRA O NO ESTAR SUJETO A ITINERARIO, TARIFA Y HORARIO.
+III. Las que tengan por objeto la preparación y actualización de los inventarios de bienes, de los registros y archivos y de la documentación de la administración en general que será objeto de la entrega.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
+De igual forma, tendrán la obligación de notificar a los servidores públicos a que se refiere el artículo 10 de esta Ley así como a las personas que fungirán como testigos, con al menos cinco días hábiles de anticipación, la hora, fecha y lugar de celebración del acto de Entrega-Recepción.
 
-###### ARTICULO 13.
+###### ARTÍCULO 13.
 
-SERVICIO DE CARGA EN GENERAL ES EL QUE SE PRESTA EN VEHICULOS CERRADOS O ABIERTOS DESTINADOS AL TRANSPORTE DE PRODUCTOS AGROPECUARIOS, MAQUINARIA, MATERIALES PARA LA CONSTRUCCION Y TODO TIPO DE MERCANCIAS Y OBJETOS. ESTE SERVICIO NO TENDRA ITINERARIO, HORARIO, NI TARIFA, EXCEPTO EN EL CASO DEL TRANSPORTE DE MATERIALES PARA LA CONSTRUCCION, EN DONDE EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA DEPENDENCIA COMPETENTE, DEBERA EXPEDIR LAS TARIFAS CON CARACTER MERAMENTE REFERENCIAL QUE SIRVAN PARA DETERMINAR EL PRECIO DEL SERVICIO PRESTADO.
+Las personas que entrarán en funciones en la función pública, en cualquiera de sus niveles, o en su caso, quien sustituya al servidor público saliente, tendrán la obligación de desarrollar las actividades previas al cambio administrativo relacionadas con el conocimiento básico de la Entrega-Recepción y su marco normativo, según corresponda, así como:
 
-###### ARTICULO 14.
+I. Las que tengan por objeto conocer qué es, qué significa y cuál es el alcance del procedimiento de Entrega-Recepción;
 
-NO SE REQUIERE PERMISO CUANDO LA CAPACIDAD DE CARGA DEL VEHICULO NO SEA MAYOR DE TRES TONELADAS.
+II. Las relativas al conocimiento de lo que en términos de ley debe recibir al momento del cambio;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+III. Las relativas al conocimiento de las obligaciones y funciones que debe cumplir con motivo del procedimiento de Entrega-Recepción de la administración respectiva;
 
-###### ARTICULO 15.
+IV. Conocer los rasgos fundamentales de la legislación federal, estatal y municipal, que incidan en el desarrollo de la actividad pública respectiva;
 
-SERVICIO DE GRUAS O REMOLQUES ES EL QUE TIENE POR FINALIDAD TRANSPORTAR CUALQUIER CLASE DE OBJETOS U OTROS VEHICULOS, YA SEA EN PLATAFORMAS, POR ELEVACION O ARRASTRE, SIN SUJETARSE A ITINERARIO PERO SI A HORARIO Y TARIFA EN LOS CASOS QUE DETERMINE LA SECRETARIA.
+V. Conocer, en su caso, las principales características de las áreas financieras que comprende la hacienda pública respectiva; y,
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+VI. Conocer los aspectos principales que implica el manejo de la actividad del servicio público a desarrollar.
 
-###### ARTICULO 16.
+###### ARTÍCULO 14.
 
-SERVICIO DE CARGA ESPECIAL ES EL QUE REQUIERE EQUIPO ADICIONAL AL VEHICULO EN VIRTUD DE LAS PRECAUCIONES QUE SEGUN EL TIPO DE CARGA DEBAN TOMARSE A JUICIO DE LA SECRETARIA. ESTE SERVICIO NO TENDRA ITINERARIO, HORARIO, NI TARIFA.
+Los servidores públicos salientes deberán preparar la entrega de los asuntos y recursos, mediante los documentos que a continuación se enlistan, en su caso y de acuerdo a la naturaleza de la actividad desarrollada:
 
-###### ARTICULO 17.
+I. El marco jurídico de actuación que regule su estructura y funcionamiento, nombre o título del ordenamiento jurídico que complemente su ámbito de actuación, en caso de existir, los manuales de organización y procedimientos, también deberán incluirse;
 
-SERVICIO DE TRANSPORTE MIXTO SERA EL QUE SE PRESTE PARA TRANSPORTAR PERSONAS Y COSAS EN EL MISMO VEHICULO, EL CUAL DEBE ACONDICIONARSE CON COMPARTIMIENTO PARA LOS PASAJEROS, PARA EL EQUIPAJE Y LA CARGA. ESTE SERVICIO DEBERA TENER ITINERARIO Y HORARIO DETERMINADO, PERO TARIFA UNICAMENTE POR EL TRANSPORTE DE PASAJEROS.
+II. El expediente protocolario, que contendrá:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
+a) Acta en la que conste la toma de protesta, en su caso.
 
-###### ARTICULO 18.
+b) Nombramiento del servidor público saliente y del entrante.
 
-EL SERVICIO DE TRANSPORTE DE AGUA EN PIPAS PARA CONSUMO HUMANO SE PRESTARA EN VEHICULOS QUE REUNAN LAS CONDICIONES DE HIGIENE Y SALUBRIDAD QUE DETERMINEN LAS AUTORIDADES DEL RAMO Y LA SECRETARIA; NO ESTARA SUJETO A ITINERARIO NI HORARIO DETERMINADO, PERO SI A TARIFA. EL TRANSPORTE DE AGUA PARA FINES DISTINTOS, NO ESTARA SUJETO A TARIFA.
+c) Acta circunstanciada de la Entrega-Recepción.
 
-EL SERVICIO DE TRANSPORTE DE PETROLEO Y SUS DERIVADOS PARA CONSUMO DOMESTICO SE PRESTARA EN VEHICULOS QUE GARANTICEN SEGURIDAD, ESTANDO SUJETO A TARIFA PERO NO A ITINERARIO NI HORARIO.
+III. Documentación financiera, en términos de la Ley General de Contabilidad Gubernamental y lo siguiente:
 
-###### ARTICULO 19.
+a) Estados financieros contables, presupuestales y programáticos con sus respectivas notas.
 
-SE REQUIERE CONCESION PARA LA PRESTACION DEL SERVICIO DE TRANSPORTE COLECTIVO URBANO, SEMI-URBANO Y FORANEO DE PASAJEROS, AUTOMOVILES DE ALQUILER Y SERVICIO MIXTO.
+b) Manual de Contabilidad Especifico
 
-###### ARTICULO 20.
+c) Sistema de Contabilidad Gubernamental
 
-SE NECESITA PERMISO PARA EL SERVICIO DE TURISMO, EL TRANSPORTE ESPECIAL PARA TRABAJADORES O ESCOLARES, EL TRANSPORTE DE CARGA EN GENERAL, EL TRANSPORTE DE AGUA, PETROLEO Y SUS DERIVADOS, EL SERVICIO DE GRUAS PARA EL ARRASTRE O TRANSPORTE DE VEHICULOS Y EL SERVICIO DE CARGA ESPECIALIZADA.
+d) Base de datos del Sistema de Contabilidad Gubernamental
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+e) Programas y proyectos de inversión; y
 
-EN LAS POBLACIONES CON MENOS DE CINCO MIL HABITANTES, A JUICIO DE LA SECRETARIA PODRAN OTORGARSE PERMISOS PARA EL TRANSPORTE DE PASAJEROS.
+f) Calendarización y metas de los programas y proyectos de inversión;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
+IV.- Documentación relativa a los recursos financieros y en general deberá contener:
 
-###### ARTICULO 21.
+a) Situación de fondos revolventes;
 
-LAS CONCESIONES SOLO SE OTORGARAN A MEXICANOS O A PERSONAS MORALES CREADAS O CONSTITUIDAS CONFORME A LAS LEYES DEL PAIS Y QUE NO ADMITAN MIEMBROS O SOCIOS EXTRANJEROS. SU OTORGAMIENTO SE REALIZARA POR LA SECRETARIA MEDIANTE CONCURSO ENTRE LOS SOLICITANTES QUE EXISTAN CUANDO SE REQUIERA AUMENTAR EL SERVICIO.
+b) Relación de gastos pendientes de comprobar;
 
-LAS CONCESIONES PARA LA PRESTACION DEL SERVICIO DE TRANSPORTE DE PASAJEROS EN AUTOMOVILES DE ALQUILER SOLO SE OTORGARAN A PERSONAS FISICAS.
+c) Relación de cuentas bancarias, inversiones depósitos, títulos o cualquier otro contrato con instituciones de crédito, casas de bolsa o institución similar;
 
-###### ARTICULO 22.
+d) Relación de cheques expedidos sin entregar;
 
-SE OTORGARAN HASTA DIEZ CONCESIONES O PERMISOS POR PERSONA, SIN QUE EN NINGUN CASO PUEDAN EXCEDER DE ESTE NUMERO CUANDO UNA SOLA RECIBA DE AMBOS.
+e) Relación de documentos y cuentas por cobrar y de cuentas por pagar;
 
-LAS PERSONAS MORALES TENDRAN LAS CONCESIONES O PERMISOS QUE REUNAN SUS SOCIOS CONFORME A ESTE PRECEPTO.
+f) Cancelación de cuentas bancarias.
 
-EL INTEGRANTE DE UNA PERSONA MORAL NO PODRA REPRESENTAR EN ESTA UN INTERES MAYOR QUE EL QUE LE CORRESPONDA AL MAXIMO DE CONCESIONES O PERMISOS AQUI ESTABLECIDO. SI UNA PERSONA FISICA FUERE TITULAR DE CONCESIONES Y PERMISOS EN LO INDIVIDUAL Y AL MISMO TIEMPO FUERE INTEGRANTE DE UNA PERSONA MORAL, SE SUMARAN AQUELLOS CON LOS QUE PROPORCIONALMENTE LE CORRESPONDAN EN LA PERSONA MORAL.
+g) Confirmación de saldos.
 
-ESTAS LIMITACIONES SOLO SERAN APLICABLES AL TRANSPORTE PUBLICO DE PASAJEROS DE CUALQUIER CLASE.
+h) Relación de acuerdos o convenios.
 
-###### ARTICULO 23.
+i) Los Informes del estado en que se encuentran las revisiones practicadas o que se estén practicando por las entidades de fiscalización superior de la Federación y del Estado, así como de los órganos internos de control y de las auditorías externas que hubieren contratado.
 
-LAS PERSONAS A QUE SE REFIERE EL ARTICULO 21, SI FUEREN SOCIEDADES, PROCURARAN AGRUPAR A LOS CONCESIONARIOS O PERMISIONARIOS QUE PRESTEN LA MISMA CLASE DE SERVICIO EN UNA RUTA O TRAMO.
+j) La relación de los documentos e información solicitada por las entidades fiscalizadoras de las auditorías en proceso.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+k) Dispositivos de seguridad para acceso a portales bancarios en Internet; y
 
-QUEDA RESERVADA A LA SECRETARIA LA FACULTAD DE VIGILAR LA FORMA Y BASES DE CONSTITUCION DE SOCIEDADES QUE SE ORGANICEN PARA LA PRESTACION DEL SERVICIO PUBLICO DE TRANSPORTE Y LOS GRAVAMENES QUE SE PRETENDAN CONSTITUIR SOBRE LOS BIENES QUE FORMAN EL PATRIMONIO DE DICHAS SOCIEDADES, PROCURANDO QUE TENGAN SU DOMICILIO SOCIAL EN EL ESTADO O REPRESENTANTE AMPLIAMENTE AUTORIZADO Y EXPENSADO PARA RESPONDER DE CUALQUIER ASUNTO QUE SE RELACIONE CON EL CUMPLIMIENTO DE ESTA LEY.
+l) Nombres de usuario y contraseña para acceder a los sistemas de información y servicios en internet.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+V.- Toda la documentación relativa a los recursos humanos y su estructura orgánica, que deberá incluir:
 
-LOS ESTATUTOS Y REFORMAS DE TALES SOCIEDADES, DEBERAN SER AUTORIZADOS PREVIAMENTE POR LA SECRETARIA.
+a) Plantilla de personal.
 
-###### ARTICULO 24.
+b) Inventario de recursos humanos.
 
-LA SOCIEDAD CONSTITUIDA PARA EXPLOTAR EL SERVICIO DE QUE SE TRATE TENDRA LA OBLIGACION A LA VEZ QUE EL DERECHO DE AUMENTAR, PREVIO EL OTORGAMIENTO DE LA CONCESION CORRESPONDIENTE, EL NUMERO DE VEHICULOS QUE FUERE NECESARIO.
+c) Tabuladores o remuneraciones asignadas, incluyendo compensaciones u otro tipo de ingresos.
 
-LA MISMA OBLIGACION TENDRAN LAS SOCIEDADES QUE EXPLOTEN DOS O MAS SERVICIOS CUANDO LA NECESIDAD SE PRESENTE EN RELACION CON CUALQUIERA DE LOS SERVICIOS QUE PROPORCIONEN.
+d) Estructura orgánica.
 
-LAS SOCIEDADES QUE SE CONSTITUYAN CONFORME AL ARTICULO ANTERIOR SERAN SOLIDARIAMENTE RESPONSABLES CON LOS CONCESIONARIOS POR EL CUMPLIMIENTO DE SUS OBLIGACIONES Y EN NINGUN CASO PODRAN ELUDIR O LIMITAR ESTA RESPONSABILIDAD.
+e) Resumen de puestos y plazas (ocupadas y vacantes).
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
+f) Expedientes de personal.
 
-### CAPITULO IV. DE LA CANCELACION DE LAS CONCESIONES Y PERMISOS
+g) Relación de personal que goza de licencia o permiso o se encuentra comisionado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
+h) Contratos de asesoría y consultoría, asimilables a salario.
 
-###### ARTICULO 47.
+i) Sueldos no cobrados.
 
-LAS CONCESIONES Y PERMISOS SE CANCELARAN POR LA SECRETARIA CUANDO:
+j) Programa y avance de capacitación de personal
 
-A).- EL QUE LA OBTENGA NO PRESTE EL SERVICIO DIRECTAMENTE TRANSMITIENDO DE CUALQUIER FORMA SU USO, O QUE DEJE DE PRESTARLO SIN CAUSA JUSTIFICADA POR MAS DE NOVENTA DIAS EN UN AÑO. EN ESTOS NOVENTA DIAS SE ESTIMAN INCLUIDOS LOS NECESARIOS PARA EL MANTENIMIENTO DEL VEHICULO;
+k) Vacaciones de personal pendientes de disfrutar
 
-B).- EL MEDIO DE TRANSPORTE QUE UTILICE NO CUMPLA CON LAS CONDICIONES QUE EL SERVICIO REQUIERA. PREVIAMENTE A LA APLICACION DE ESTA CAUSAL, SE PREVENDRA AL TITULAR PARA QUE EN EL TERMINO IMPRORROGABLE DE TRES MESES REPONGA O REPARE SU EQUIPO;
+VI.- Toda la documentación relativa a los recursos materiales y en general:
 
-C).- SE PRESTE EL SERVICIO CON UNIDADES NO AUTORIZADAS;
+a) Relación de sistemas desarrollados internamente;
 
-D).- EN EL LAPSO DE DOS AÑOS EL TITULAR O SUS OPERADORES HAYAN INCURRIDO EN LA PRESTACION DEL SERVICIO Y POR SU RESPONSABILIDAD EN ACCIDENTES VIALES DE GRAVEDAD, O EN OTROS HECHOS QUE RESULTEN DELICTUOSOS DEL OPERADOR CUANDO EL CONCESIONARIO HAYA PERMITIDO LAS CAUSAS QUE LES DIERON ORIGEN;
+b) Relación de formas oficiales;
 
-E).- EL TITULAR, POR SI O POR INTERPOSITA PERSONA, LO SEA DE MAS DE DIEZ CONCESIONES O PERMISOS PARA CUALQUIERA DE LAS MODALIDADES DE SERVICIO;
+c) Combinaciones de cajas fuertes o de valores;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+d) Relación de bienes en almacén.
 
-F).- SE GRAVE O SE TRANSMITA LA CONCESION O PERMISO SIN AUTORIZACION DE LA DIRECCION DE TRANSITO Y TRANSPORTE;
+e) Material bibliográfico e informativo
 
-G).- LAS NECESIDADES DE SERVICIO IMPONGAN LA SUPRESION DE LA RUTA O VIA PARA LA QUE LE FUE OTORGADA LA CONCESION, EN CUYO CASO TENDRA PREFERENCIA PARA OBTENER LA QUE LA SUSTITUYA;
+f) Convenios y contratos relacionados con el patrimonio.
 
-H).- SE UTILICE EL MEDIO DE TRANSPORTE PARA REALIZAR CUALQUIER ACTIVIDAD ILICITA CON CONOCIMIENTO, AUTORIZACION O TOLERANCIA DEL TITULAR DE LA CONCESION;
+g) Inventario de programas de cómputo.
 
-I).- SE SUSPENDA O ABANDONE EL SERVICIO, SE COMETAN ACTOS VANDALICOS POR CUALQUIER MOTIVO O SE INCURRA EN LA COMISION DEL ILICITO DE ATAQUES A LAS VIAS DE COMUNICACION, UTILIZANDO EL MEDIO DE TRANSPORTE;
+h) Inventario de bienes muebles e inmuebles
 
-J).- SE EXPLOTEN RUTAS PARA LAS QUE NO FUERON AUTORIZADOS;
+i) Inmuebles recibidos en donación.
 
-K).- SE MODIFIQUEN O ALTEREN LAS TARIFAS AUTORIZADAS; Y
+j) Donación de inmuebles.
 
-L).- CUANDO SE PRESTE UN SERVICIO DIFERENTE AL AUTORIZADO.
+k) Resguardos de bienes muebles del personal
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+VII.- Toda la documentación relativa a concursos o licitación de obra pública en general, adquisiciones, arrendamientos, prestación de servicios, concesiones, permisos y autorizaciones, así como sus resultados, además la relación de obras públicas terminadas y en proceso, así como los anticipos pendientes de amortizar.
 
-###### ARTICULO 48.
+VIII.- Expediente de obra pública:
 
-ANTES DE PROCEDER A LA CANCELACION DE UNA CONCESION O PERMISO SE CITARA AL INTERESADO, HACIENDOLE SABER LA CAUSA O CAUSAS POR LAS QUE LA DIRECCION DE TRANSITO Y TRANSPORTE LA ESTIMA OPERANTE, PRECISANDOLE LOS ELEMENTOS DE PRUEBA QUE SE TENGAN PARA CONSIDERAR QUE HA INCURRIDO EN ALGUNA DE ELLAS, Y SE LE OTORGARA UN PLAZO DE QUINCE DIAS HABILES PARA QUE OFREZCA PRUEBAS Y ALEGUE EN SU DEFENSA.
+a) Expedientes técnicos de obra pública.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+b) Expedientes financieros de obra pública.
 
-###### ARTICULO 49.
+c) Permisos para uso de explosivos, tala de árboles, construcción de caminos y demás inherentes a la obra de que se trate.
 
-EN LA AUDIENCIA QUE PARA TAL EFECTO SE CELEBRE Y QUE DEBERA FIJARSE EL DIA QUE CONCLUYA EL PLAZO SEÑALADO, SE LE ADMITIRAN TODA CLASE DE PRUEBAS A EXCEPCION DE LA CONFESIONAL DE LAS AUTORIDADES DEL RAMO, Y RECIBIDAS QUE SEAN, LA SECRETARIA DICTARA LA RESOLUCION QUE PROCEDA.
+d) Expediente general de servicios municipales.
 
-###### ARTICULO 50.
+e) Expediente de mantenimiento de servicios municipales.
 
-NO SE PODRAN EXPEDIR PERMISOS NI AUTORIZACIONES PROVISIONALES PARA LA PRESTACION DEL SERVICIO PUBLICO DE TRANSPORTE, SINO EN LOS SIGUIENTES CASOS:
+f) Expediente de mantenimiento de vehículos, maquinaria y equipo.
 
-1).- EN CASO DE LA PRESTACION EVENTUAL DE UN SERVICIO ESPECIAL;
+g) Convenios y contratos de obra pública.
 
-2).- EN CASO DE SUSTITUCION TEMPORAL DE VEHICULOS EN CUALQUIER CLASE DE SERVICIOS;
+IX.- Asuntos en trámite:
 
-3).- EN CASOS DE EXTREMA URGENCIA Y HASTA POR UN PLAZO MAXIMO DE SIETE DIAS, RENOVABLE POR UNA SOLA VEZ, EN TODA CLASE DE SERVICIOS; Y
+a) Juicios o procedimientos administrativos o expedientes judiciales en proceso.
 
-4).- CON EL OBJETO DE COMPROBAR LA NECESIDAD DE AUMENTAR EL SERVICIO O CAMBIAR ALGUN ITINERARIO, EN CUALQUIER CLASE DE SERVICIO.
+b) Remates pendientes de ejecutar.
 
-LA EXPEDICION DE AUTORIZACIONES PROVISIONALES FUERA DE LOS CASOS DE EXCEPCION ESTABLECIDOS EN ESTE PRECEPTO, SERA CAUSA DE DESTITUCION DEL FUNCIONARIO O EMPLEADO SIN PERJUICIO DE HACERSE ACREEDOR A LA RESPONSABILIDAD ADMINISTRATIVA Y A LAS PENAS EN QUE INCURRA QUIEN COMETA EL DELITO DE ABUSO DE AUTORIDAD.
+c) Autorizaciones de la Legislatura en proceso.
 
-LO MISMO SE OBSERVARA CUANDO ALGUNA AUTORIDAD, SIN TENER FACULTADES PARA ELLO, EXPIDA CONCESIONES O PERMISOS, O CUANDO ESTANDO FACULTADA LOS EXPIDA SIN CUMPLIR CON LOS REQUISITOS EXIGIDOS POR ESTA LEY.
+d) Contratos y convenios en trámite.
 
-###### ARTICULO 25.
+e) Multas federales no fiscales en trámite de cobro.
 
-LA SOLICITUD PARA OBTENER CONCESION O PERMISO PARA LA PRESTACION DE SERVICIO SE PRESENTARA POR TRIPLICADO ANTE LAS OFICINAS DEL DEPARTAMENTO DE TRANSPORTE Y DEBERA CONTENER:
+f) Inventario de bienes ajenos o en proceso administrativo de ejecución.
 
-A).- NOMBRE, EDAD, LUGAR DE ORIGEN, ESTADO CIVIL, OCUPACION Y DOMICILIO DEL SOLICITANTE, Y TRATANDOSE DE PERSONAS MORALES, LOS INSTRUMENTOS QUE ACREDITEN LA LEGAL EXISTENCIA, CAPACIDAD Y REPRESENTACION DE LAS MISMAS;
+g) Relación de asuntos en trámite o en proceso, incluyendo escritos pendientes de acordar y solicitudes de acceso a la información pública.
 
-B).- DECLARACION BAJO PROTESTA RESPECTO DE SI ES O NO TITULAR DE CONCESIONES O PERMISOS VIGENTES, ESPECIFICANDO EN SU CASO LA CLASE DE SERVICIO PARA EL QUE SE LE OTORGARON;
+h) Informe de obras en proceso.
 
-C).- LA CLASE DE SERVICIO QUE DESEE PRESTAR Y LA LOCALIDAD DONDE PRETENDA HACERLO, Y TRATANDOSE DEL SERVICIO FORANEO, LA RUTA QUE QUIERA CUBRIR INDICANDO LOS PUNTOS O POBLADOS QUE LA COMPONGAN;
+i) Estudios y proyectos en proceso.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+j) Sentencias y laudos pendientes de cumplimentar.
 
-D).- COMPROBACION DE LA SOLVENCIA ECONOMICA QUE LE PERMITA PRESTAR EL SERVICIO EN LAS CONDICIONES QUE FIJE LA SECRETARIA;
+k) Procesos de adquisiciones en trámite.
 
-E).- LUGAR, FECHA Y FIRMA DEL SOLICITANTE O SU REPRESENTANTE;
+X.- La relación de archivos por unidad administrativa responsable, que contengan el archivo vigente, la relación de respaldo electrónico de archivos, en su caso, el archivo de concentración y el histórico o muerto.
 
-F).- A LA SOLICITUD SE ACOMPAÑARAN ACTA DE NACIMIENTO Y DE MATRIMONIO EN SU CASO, LOS INSTRUMENTOS DE CONSTITUCION Y SUS MODIFICACIONES TRATANDOSE DE PERSONAS MORALES, Y EN AMBOS CASOS EL REGIMEN FISCAL A QUE ESTE SUJETO EL PETICIONARIO Y SUS COMPROBANTES.
+XI.- Expedientes fiscales:
 
-###### ARTICULO 26.
+a) Padrón de contribuyentes.
 
-EN RELACION AL SERVICIO PUBLICO DE TRANSPORTE FORANEO, LOS INTERESADOS, ADEMAS DE CUMPLIR CON LO ESTABLECIDO EN EL ARTICULO ANTERIOR, DEBERAN ACOMPAÑAR A LA SOLICITUD ESTUDIOS TECNICOS SOBRE LOS SIGUIENTES PUNTOS:
+b) Padrón de proveedores y contratistas.
 
-I.- DISTANCIA ENTRE LA VIA QUE SE PROYECTA Y LAS YA ESTABLECIDAS;
+c) Inventario de formas valoradas y facturas en su caso.
 
-II.- RECURSOS AGRICOLAS, GANADEROS, INDUSTRIALES, MINEROS Y OTROS, CUYO FOMENTO PUEDA RESULTAR DE LA CONCESION SOLICITADA; Y
+d) Inventario de recibos de ingresos.
 
-III.- TERRENOS, MATERIALES O CUALESQUIERA OTROS BIENES QUE SEA NECESARIO OCUPAR, EXPROPIAR O LIMITAR EL DOMINIO.
+e) Corte de chequeras.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
+f) Relación analítica de pólizas de seguros contratados.
 
-###### ARTICULO 27.
+g) Relación analítica de depósitos en garantía.
 
-SI LA SECRETARIA ESTIMARE PROCEDENTE OTORGAR NUEVAS CONCESIONES, CONVOCARA A UN CONCURSO ENTRE LOS SOLICITANTES QUE TENGA REGISTRADOS O QUE SE INSCRIBAN DENTRO DEL PLAZO QUE AL EFECTO SEÑALE, EL CUAL SE LLEVARA A CABO CONFORME A LAS SIGUIENTES BASES:
+h) Relación analítica de pagos realizados por anticipado.
 
-A).- SE OTORGARAN A QUIENES GARANTICEN LA PRESTACION DEL SERVICIO Y SE PREFERIRA A LOS QUE CON MAYOR ANTIGÜEDAD SE HAYAN DEDICADO, EN PRIMER LUGAR A LA CONDUCCION DE VEHICULOS DE TRANSPORTE PUBLICO, EN SEGUNDO A QUIENES TENGAN MAYOR ANTIGÜEDAD COMO CONCESIONARIOS EN LA CLASE DE TRANSPORTE DE QUE SE TRATE, EN TERCERO A LOS SOLICITANTES DOMICILIADOS EN EL LUGAR EN QUE HAYA DE PRESTARSE EL SERVICIO, Y POR ULTIMO A QUIENES TENGAN MAYOR ANTIGÜEDAD COMO SOLICITANTES;
+i) Estado que guardan las participaciones federales, estatales o municipales, según su caso.
 
-B).- CUANDO SE TRATARE DE AMPLIACION DE RUTAS DE TRANSPORTE COLECTIVO, O BIEN DE SUSTITUCION O AUMENTO DE AUTOMOVILES DE ALQUILER EN LOS SITIOS EXISTENTES, TENDRAN PREFERENCIA EN PRIMER TERMINO A LAS PERSONAS QUE SE HAYAN DEDICADO A LA CONDUCCION DE VEHICULOS DE TRANSPORTE PUBLICO, Y EN SEGUNDO LUGAR LOS CONCESIONARIOS QUE PRESTEN EL SERVICIO EN LA RUTA O SITIO QUE CORRESPONDA, EN IGUALDAD DE CONDICIONES SE PREFERIRA, DE ENTRE ESTOS, EN PRIMER LUGAR A LOS QUE GARANTICEN UNA MEJOR PRESTACION DEL SERVICIO, Y EN SEGUNDO LUGAR A QUIENES TENGAN MAYOR ANTIGÜEDAD COMO CONCESIONARIOS EN LA MISMA RUTA O SITIO DE AUTOS DE ALQUILER QUE CORRESPONDA;
+j) Relación de los expedientes de los impuestos y contribuciones pagadas y adeudadas.
 
-SI NINGUN CONCESIONARIO REUNE LOS REQUISITOS EXIGIDOS, LA CONCESION SE OTORGARA A LOS TERCEROS QUE HAYAN CONCURSADO EN EL ORDEN DE PREFERENCIA A QUE SE REFIERE EL INCISO ANTERIOR;
+k) Entrega de sellos oficiales.
 
-C).- EN NINGUN CASO SE OTORGARAN A LOS QUE HABIENDO SIDO TITULARES DE CONCESION SE LES HAYAN CANCELADO POR CUALQUIERA DE LAS CAUSAS QUE SE SEÑALAN EN LA PRESENTE LEY.
+I) Legislación fiscal.
 
-###### ARTICULO 28.
+En general los aspectos relacionados con la situación administrativa, desarrollo, cumplimiento o en su caso modificación de programas y demás información y documentación relativa que señale la presente Ley, los ordenamientos aplicables y las disposiciones que con base en ella se emitan.
 
-LOS CONCURSOS SE CELEBRARAN CONFORME A LAS SIGUIENTES BASES:
+La información a que se refiere este artículo, deberá detallarse de tal manera que contenga todos los datos necesarios y suficientes para determinar, ubicar e identificar con facilidad el concepto de que se trata, así como, para localizar y determinar la situación y estado en que se encuentre, permitiendo a la entidad o dependencia que se halle en este proceso, en cuanto a la entrega de expedientes, almacenar los mismos en los medios electrónicos que estén a su alcance.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+Lo anterior con base en el Manual de Entrega-Recepción y los formatos emitidos y autorizados.
 
-A).- SE CONVOCARAN MEDIANTE UNA PUBLICACION EN EL PERIODICO OFICIAL Y EN UN DIARIO DE LOS DE MAYOR CIRCULACION EN LA LOCALIDAD DE QUE SE TRATE, O EN SU DEFECTO DE LA CAPITAL DEL ESTADO.
+###### ARTÍCULO 15.
 
-DICHA PUBLICACION SE HARA POR LO MENOS CON TREINTA DIAS DE ANTICIPACION DE LA FECHA FIJADA PARA LA CELEBRACION DEL CONCURSO;
+Los Servidores Públicos obligados a la entrega, son los directamente responsables de rendir por escrito y autorizar con su firma, la información señalada en el artículo anterior, la cual deberá poseer como fecha de corte la comprendida en un periodo no mayor a quince días antes de la fecha en que se celebre la Entrega-Recepción.
 
-B).- LA CONVOCATORIA DEBERA CONTENER:
+###### ARTÍCULO 16.
 
-1.- DATOS DEL SERVICIO A PRESTARSE;
+Los servidores públicos municipales, además de la documentación señalada en el artículo anterior deberán de atender las disposiciones que para tal efecto establece la Ley Orgánica de los Municipios del Estado de Campeche y demás ordenamientos aplicables, y en todo caso deberán entregar:
 
-2.- DEMAS PORMENORES DE LA CONCESION;
+I. Los libros de actas de Cabildo;
 
-3.- FECHA DE INICIACION DE SERVICIOS;
+II. Los acuerdos de Cabildo pendientes de cumplir;
 
-4.- PLAZO DE PRESENTACION DE LAS PROPUESTAS;
+III. La relación de convenios celebrados con otros Municipios, con el Estado o la Federación.
 
-C).- EL DIA DE LA PRESENTACION DE LAS PROPUESTAS, ESTAS SE ACOMPAÑARAN DE LA SOLICITUD Y DEMAS DOCUMENTOS A QUE SE REFIEREN LOS ARTICULOS 25 Y 26 DE ESTA LEY.
+###### ARTÍCULO 17.
 
-LAS PROPUESTAS DEBERAN SEÑALAR LA CALIDAD DEL EQUIPO QUE OFREZCAN DESTINAR AL SERVICIO, Y EN SU CASO LA INSTALACION DE SERVICIOS ACCESORIOS TALES COMO: TERMINALES, BODEGAS, ESTACIONES INTERMEDIAS, TALLERES U OTRAS CIRCUNSTANCIAS SIMILARES RELATIVAS A LA CALIDAD EN LA PRESTACION DEL SERVICIO;
+Para llevar a cabo la Entrega-Recepción de los Poderes Ejecutivo, Legislativo y Judicial; los Municipios; las dependencias y entidades del gobierno del estado y de los municipios; los órganos constitucionales autónomos, así como los órganos jurisdiccionales que determinen las leyes, en el Estado de Campeche, y las unidades administrativas que tengan adscritas en sus diferentes niveles, los titulares salientes deberán llevar a cabo un acto formal, en el que se haga entrega de la documentación a que se refieren los artículos 14 y 16 de la presente ley, según corresponda, a los titulares entrantes, elaborando para tal efecto, el acta administrativa de Entrega-Recepción y sus formatos correspondientes.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+###### ARTÍCULO 18.
 
-D).- LOS DEMAS REQUISITOS QUE SEÑALE LA SECRETARIA;
+Para que el acta administrativa de Entrega-Recepción cumpla con su finalidad y tenga la validez necesaria para los efectos legales a que dé lugar, en ella deberá hacerse constar en forma circunstanciada, como mínimo, los siguientes requisitos:
 
-E).- UNA SEMANA DESPUES SE EMITIRA EL FALLO, QUE SERA IRRECURRIBLE.
+I. La fecha, lugar y hora de su inicio;
 
-###### ARTICULO 29.
+II. El nombre, cargo u ocupación de las personas que intervienen, quienes se identificaran plenamente mediante nombramiento u oficio;
 
-LA PUBLICACION DE LA CONVOCATORIA SURTIRA EFECTOS DE NOTIFICACION A FIN DE QUE LOS TERCEROS QUE PUDIERAN RESULTAR AFECTADOS PRESENTEN SU OBJECION DENTRO DEL PLAZO QUE PARA LA PRESENTACION DE PROPUESTAS SE HUBIESE SEÑALADO EN LA PROPIA CONVOCATORIA.
+III. Elaborarse en presencia de por lo menos dos testigos;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+IV. El asunto u objeto del acto;
 
-TRANSCURRIDO EL PLAZO MENCIONADO SIN QUE SE HAYAN PRESENTADO OBJECIONES, SE PROCEDERA A LA EMISION DEL FALLO RESPECTIVO. EN CASO DE PRESENTARSE OBJECIONES, SE CITARA DENTRO DE LOS SIGUIENTES QUINCE DIAS HABILES PARA UNA AUDIENCIA AL SOLICITANTE Y A LOS OPOSITORES ANTE LA SECRETARIA, EN LA QUE SE EXPONDRAN LAS RAZONES QUE MOTIVEN LA OPOSICION Y SE PRESENTARAN LAS PRUEBAS CONDUCENTES, DEBIENDO RESOLVER LA SECRETARIA UNA SEMANA DESPUES TANTO LA OPOSICION COMO EL RESULTADO DEL CONCURSO.
+V. El conjunto de hechos que el evento de Entrega-Recepción comprende, relacionados con detalle, así como las situaciones que sucedan durante su desarrollo, lo cual deberá manifestarse bajo protesta de decir verdad; y
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+VI. El número, tipo y contenido de los documentos que se anexan y complementan el acta.
 
-EN LA TRAMITACION DE LA OPOSICION SOLO SE ADMITIRAN PRUEBAS DOCUMENTALES Y LA PERICIAL, EN CUYO CASO LA SECRETARIA FIJARA UN TERMINO PRUDENTE PARA SU DESAHOGO.
+En todo caso, para la formulación del acta administrativa de Entrega-Recepción se observará el siguiente procedimiento:
 
-LA RESOLUCION QUE SE EMITA CON MOTIVO DE LA OPOSICION TAMBIEN SERA IRRECURRIBLE.
+I. Se elaborará por lo menos un tanto del acta para cada uno de los servidores públicos que intervienen;
 
-### CAPITULO V. DE LAS FACULTADES DE LAS AUTORIDADES DE TRANSPORTE
+II. Deberán evitarse tachaduras, enmendaduras o borraduras; en todo caso, los errores deben corregirse mediante testado, antes del cierre del acta;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+III. Los espacios o renglones no utilizados deben ser cancelados con guiones;
 
-###### ARTICULO 51.
+IV. Todas y cada una de las hojas que integran el acta administrativa de Entrega-Recepción, deben ser rubricadas al margen por las personas que en ella intervinieron y al calce en el espacio de su nombre en la hoja final, haciéndose constar, en su caso, la negativa para hacerla;
 
-COMPETE A LA SECRETARIA PLANEAR, AUTORIZAR, VIGILAR, COORDINAR Y CONTROLAR LOS SERVICIOS DE TRANSPORTE, Y PARA ELLO TENDRA COMO ORGANOS AUXILIARES A LAS AUTORIDADES MUNICIPALES Y LAS MAS AMPLIAS FACULTADES PARA HACER CUMPLIR SUS DETERMINACIONES.
+V. En caso de no existir formato especial de acta, ésta se levantará en papel oficial de la dependencia, ayuntamiento o entidad de que se trate;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+VI. Las cantidades deben ser asentadas en número y letra;
 
-###### ARTICULO 52.
+VII. Las hojas que integren el Acta Administrativa de Entrega-Recepción, así como los anexos, deben foliarse en forma consecutiva, llenado por su anverso. El reverso deberá contener la leyenda "sin texto" y cruzada con una línea diagonal;
 
-LA DETERMINACION, REVISION Y MODIFICACION DE LAS TARIFAS DEL SERVICIO, DE SUS ITINERARIOS Y HORARIOS, CORRESPONDE A LA DIRECCION DE TRANSITO Y TRANSPORTE CONFORME A LAS NECESIDADES DEL MISMO, PREVIO EL ESTUDIO TECNICO QUE REALICE, Y LA CONSULTA AL CONSEJO CONSULTIVO DEL TRANSPORTE.
+VIII. Contener un apartado de observaciones;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
+IX. Indicar la fecha, lugar y hora en que concluya el acto; y
 
-###### ARTICULO 53.
+X. Deberá señalarse domicilio para oír y recibir notificaciones y requerimientos del servidor público saliente y entrante.
 
-LA SECRETARIA GENERAL DE GOBIERNO INSPECCIONARA PERIODICAMENTE LAS VIAS DE COMUNICACION Y LOS MEDIOS DE TRANSPORTE, AUXILIANDOSE DE LAS AUTORIDADES MUNICIPALES EN SUS RESPECTIVAS CIRCUNSCRIPCIONES.
+La firma de las actas y de los anexos de la Entrega-Recepción deberá realizarse el mismo día en que se concluya dicho procedimiento.
 
-LOS CONCESIONARIOS Y PERMISIONARIOS ESTAN OBLIGADOS A PROPORCIONAR CUALESQUIER DATO RELATIVO AL SERVICIO QUE LAS AUTORIDADES DEL TRANSPORTE LES REQUIERAN.
+Los servidores públicos que en este acto participan deberán suscribir en forma autógrafa el acta administrativa de Entrega-Recepción.
 
-###### ARTICULO 30.
+###### ARTÍCULO 19.
 
-EN LA CONCESION SE INDICARA EL NOMBRE DEL TITULAR, LA CLASE DE SERVICIO PARA EL QUE SE OTORGA, LA RUTA PARA LA QUE SE EXPIDE, LA DESCRIPCION DEL VEHICULO CON EL QUE HA DE DESARROLLARSE, LAS CONDICIONES EN QUE DEBE PRESTAR EL SERVICIO Y LAS CAUSAS POR LAS QUE PROCEDA SU CANCELACION.
+En el acta administrativa de Entrega-Recepción se hará constar por escrito al igual que sus respectivos anexos, los que adicionalmente y de manera preferente se presentarán también en medios magnéticos, digitales o electrónicos, los que serán integrados en originales para distribuirse a cada uno de los participantes.
 
-LAS UNIDADES DE TRANSPORTE QUE SE UTILICEN PARA EL SERVICIO COLECTIVO DE PASAJEROS SERAN DE MODELO NO ANTERIOR A DIEZ AÑOS Y LOS AUTOMOVILES DE ALQUILER A SIETE AÑOS, DE FABRICACION NACIONAL O INTERNADOS LEGALMENTE AL PAIS.
+###### ARTÍCULO 20.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
+Cuando la información que se vaya a entregar se encuentre en medios electrónicos. magnéticos, ópticos o magneto ópticos, se digitalice o se guarde en archivos electrónicos, bases de datos o demás medios electrónicos o de tecnología de la información, deberán entregarse todos los documentos relativos de uso y consulta de la información electrónica, tales como claves de acceso, manuales operativos y demás documentos relativos a la información que conste en dichos medios.
 
-LA DIRECCION PODRA MODIFICAR LA ANTIGUEDAD DE LOS MODELOS DE LOS VEHICULOS AFECTOS AL SERVICIO PUBLICO DE TRANSPORTE EN SU MODALIDAD DE AUTOS DE ALQUILER, PREVIO ESTUDIO TECNICO QUE ATIENDA LAS CONDICIONES GEOGRAFICAS Y ECONOMICAS DE LA ZONA.
+###### ARTÍCULO 21.
 
-###### ARTICULO 31.
+Los servidores públicos involucrados en la ejecución de los trabajos de la Entrega-Recepción deberán atender los principios de legalidad, transparencia, imparcialidad, eficacia, eficiencia, honestidad y oportunidad en el ejercicio de sus respectivas funciones.
 
-LAS CONCESIONES Y PERMISOS SE OTORGARAN POR EL TERMINO DE QUINCE AÑOS. EL ESTADO NO TENDRA EL DERECHO DE REVERSION EN LO QUE SE REFIERE A LOS VEHICULOS EN QUE SE PRESTE EL TRANSPORTE, PERO EN LO QUE RESPECTA A ESTACIONES Y TERMINALES DE PASAJEROS, ESTAS PASARAN AL ESTADO LIBRES DE GRAVAMENES Y SIN COSTO ALGUNO AL TERMINO DE CINCUENTA AÑOS DE EXPEDIDA LA CONCESION.
+###### ARTÍCULO 22.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
+La intervención de los representantes de los órganos internos de control, según corresponda al ámbito de su competencia, sólo tendrá por objeto verificar que se cumpla la normatividad que rige el proceso de Entrega-Recepción, sin que prejuzgue sobre la veracidad, idoneidad o completitud de la información que se entrega o libere de las responsabilidades que con posterioridad puedan surgir.
 
-###### ARTICULO 32.
+###### ARTÍCULO 23.
 
-ACORDADA LA CONCESION, SE SEÑALARA AL BENEFICIARIO UN TERMINO DE TREINTA DIAS PARA QUE OTORGUE UNA GARANTIA QUE CAUCIONE LOS DAÑOS Y PERJUICIOS QUE PUEDA OCASIONAR EN LA PRESTACION DEL SERVICIO, ASI COMO EL CUMPLIMIENTO A LOS ORDENAMIENTOS DE TRANSITO Y A LAS CONDICIONES FIJADAS EN LA CONCESION PARA LA PRESTACION DEL SERVICIO EN CUANTO A CONTINUIDAD, REGULARIDAD, PERMANENCIA, SEGURIDAD, COMODIDAD E HIGIENE DEL MEDIO DE TRANSPORTE QUE UTILIZA, GARANTIA QUE PODRA CONSISTIR EN DEPOSITO QUE ANTE LA RECAUDACION DE RENTAS QUE CORRESPONDA HAGA POR LA CANTIDAD QUE LA SECRETARIA FIJE TOMANDO EN CUENTA LA CLASE DE SERVICIO QUE SE LE AUTORICE, O MEDIANTE FIANZA DE COMPAÑIA AUTORIZADA; ADEMAS, EN DICHO PLAZO DEBERA CONTRATAR SEGURO DE VIAJERO CUANDO SE TRATE DE TRANSPORTE DE PASAJEROS.
+Durante los siguientes treinta días hábiles contados a partir de la conclusión del acto de Entrega-Recepción, conforme a la fecha del acta respectiva, el servidor público entrante, a través del órgano interno de control que corresponda, podrá requerir al servidor público saliente la información o aclaraciones adicionales que considere necesarias; tal solicitud deberá hacérsele por escrito y notificada en el domicilio que haya designado en el acta administrativa de Entrega-Recepción el servidor público saliente.
 
-LOS CONCESIONARIOS, PERSONAS FISICAS O MORALES, SERAN SOLIDARIAMENTE RESPONSABLES DE LOS DAÑOS QUE OCASIONEN SUS EMPLEADOS O SOCIOS EN LA PRESTACION DEL SERVICIO.
+###### ARTÍCULO 24.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+En caso de no comparecer o no informar por escrito dentro del término concedido, el servidor público entrante deberá notificar tal omisión a la Secretaria o al Órgano Interno de Control respectivo, para que instaure el procedimiento de determinación de responsabilidades administrativas establecido en la Ley de Responsabilidades y demás normatividad aplicable.
 
-###### ARTICULO 33.
+### CAPÍTULO CUARTO. DE LA ENTREGA-RECEPCIÓN AL CAMBIO DE ADMINISTRACIÓN
 
-OTORGADA LA ANTERIOR GARANTIA, CUYO MONTO FIJARA DISCRECIONALMENTE LA SECRETARIA DE CONFORMIDAD A LOS LIMITES QUE SEÑALE EL REGLAMENTO, ESTA DICTARA EL ACUERDO RESPECTIVO Y LO PUBLICARA A COSTA DEL INTERESADO EN EL PERIODICO OFICIAL DEL ESTADO.
+###### ARTÍCULO 25.
 
-###### ARTICULO 34.
+Al término e inicio de un ejercicio constitucional el procedimiento preparatorio para la Entrega-Recepción, podrá iniciarse a partir de que haya quedado firme la resolución por la que se haya realizado la declaración de mayoría y validez de la elección de que se trate.
 
-SERAN NULAS DE PLENO DERECHO LAS CONCESIONES OTORGADAS FUERA DEL PROCEDIMIENTO DE CONCURSO Y SIN CUMPLIR CON LOS REQUISITOS QUE SEÑALA ESTA LEY.
+El Gobernador o Presidente Municipal electo, creará comisiones de enlace que podrán tomar conocimiento de la situación que guarda la administración saliente, desarrollo y cumplimiento de los programas y proyectos, y en su caso, obras públicas en proceso, de tal manera que al momento de concretarse el relevo en la titularidad de los cargos, se continúe de manera segura y eficiente la marcha de la actividad pública correspondiente Las Comisiones de enlace a que se refiere el párrafo anterior deberán formular conjuntamente con la administración saliente un plan de trabajo, dentro de los cinco días posteriores a la fecha de su designación, que permita planear y desarrollar la Entrega-Recepción en forma ordenada y expedita. Para el adecuado seguimiento de la elaboración y ejecución del plan de trabajo se deberán levantar actas que describan en forma pormenorizada las actividades de la Comisión.
 
-EN CASO DE FALLECIMIENTO O INCAPACIDAD PERMANENTE TOTAL DE CONDUCTORES DE AUTOMOVILES DE ALQUILER CUYA MUERTE O INCAPACIDAD RESULTE EN LA PRESTACION DEL SERVICIO, SERA OTORGADA UNA CONCESION DE ESTA CLASE SIN SUJETARSE AL PROCEDIMIENTO DE CONCURSO SEÑALADO POR ESTA LEY, SIEMPRE Y CUANDO SE CUMPLA CON LOS DEMAS REQUISITOS EXIGIDOS.
+Las Comisiones de enlace podrán estar integradas por servidores públicos en funciones y por el Gobernador o Presidente Municipal electos, según el caso, quienes podrán designar el número suficiente de personas que les auxilien o representen en dichas tareas mediante la respectiva acreditación; dichos nombramientos serán honoríficos.
 
-EN CASO DE INCAPACIDAD PERMANENTE TOTAL, LA CONCESION SE OTORGARA AL PROPIO CONDUCTOR.
+En todo caso, los nombres de las personas que integrarán las comisiones correspondientes, así como las áreas en donde estarán asignados los mismos, deberán ser notificados por escrito a los interesados. En caso de que se realice algún cambio en tales designaciones, este hecho deberá ser notificado con toda oportunidad.
 
-EN CASO DE FALLECIMIENTO, SERA OTORGADA EN EL SIGUIENTE ORDEN PREFERENTE:
+La falta de designación de representantes de los servidores públicos entrantes, no releva a los salientes de la obligación de integrar oportuna y adecuadamente toda la información y elementos necesarios para el acto formal de Entrega-Recepción una vez que se haya efectuado la transmisión entre las respectivas administraciones.
 
-A).- VIUDA;
+###### ARTÍCULO 26.
 
-B).- DESCENDIENTES;
+Para los efectos del artículo anterior, el gobierno estatal o municipal, en el último año de su gestión, deberá prever en el presupuesto de egresos, los recursos suficientes para sufragar los gastos que se originen por las actividades del procedimiento de Entrega-Recepción.
 
-C).- CONCUBINA;
+###### ARTÍCULO 27.
 
-D).- ASCENDIENTES.
+El Gobernador del Estado y los presidentes municipales salientes, en el ámbito de sus competencias, deberán realizar la Entrega-Recepción de su despacho al entrante, entendiendo por ello, los recursos humanos, materiales y financieros que maneja en forma directa, independientemente de la entrega final de su administración.
 
-EL FALLECIDO O INCAPACITADO DEBERA ESTAR INSCRITO EN EL REGISTRO DE CONDUCTORES A QUE SE REFIERE EL ARTICULO 92.
+Lo previsto en este artículo aplicará en el proceso de Entrega-Recepción que realicen estos servidores públicos al término de su empleo, cargo o comisión, con independencia de la causa que lo genere.
 
-EL BENEFICIARIO O SU REPRESENTANTE DEBERA HACER USO DE ESTE DERECHO DENTRO DE LOS NOVENTA DIAS SIGUIENTES AL FALLECIMIENTO O FECHA DE EXPEDICION DEL CERTIFICADO DE INCAPACIDAD PERMANENTE TOTAL Y CUMPLIR CON LOS REQUISITOS EXIGIDOS PARA EL OTORGAMIENTO DE LA CONCESION DE QUE SE TRATE DENTRO DE LOS NOVENTA DIAS SIGUIENTES A LA PRESENTACION DE LA SOLICITUD.
+###### ARTÍCULO 28.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+En todo caso, la Entrega-Recepción Final de la administración deberá de realizarse entre servidores públicos titulares salientes y servidores públicos titulares entrantes.
 
-### CAPITULO VI. TARIFAS, HORARIOS E ITINERARIOS
+En caso que no se haya designado a un servidor público titular, el Gobernador o Presidente Municipal entrante, podrá nombrar a una persona a fin de que reciba la dependencia o entidad de que se trate.
 
-###### ARTICULO 54.
+###### ARTÍCULO 29.
 
-LA DETERMINACION DE ITINERARIOS, TARIFAS Y HORARIOS SE ESTABLECERA AL OTORGAR LA CONCESION O PERMISO CORRESPONDIENTE.
+Los titulares de las dependencias y entidades de la administración pública estatal y de los municipios, estarán obligados a brindar la información correspondiente en el ámbito de su competencia, una vez que el Gobernador del Estado o el Presidente Municipal en funciones les dé a conocer los nombres de las personas integrantes de la comisión de enlace entrante referida en el artículo anterior.
 
-LOS AUTOMOVILES DE ALQUILER SOLO PODRAN ESTACIONARSE EN EL SITIO AUTORIZADO; SIN EMBARGO, PODRAN RECOGER PASAJE EN CUALQUIER PUNTO EN QUE LOS USUARIOS LO SOLICITEN.
+### CAPÍTULO QUINTO. DE LAS NOTIFICACIONES
 
-###### ARTICULO 55.
+###### ARTÍCULO 30.
 
-LOS ITINERARIOS SE FIJARAN DE ACUERDO AL NUMERO DE KILOMETROS POR RECORRERSE, NOMBRE DE POBLACIONES, REGIMEN DE DISTANCIA ENTRE MUNICIPIO O ENTRE LOS PUNTOS EXTREMOS QUE LE FIJE LA CONCESION O PERMISO, TOMANDO EN CUENTA LA LOCALIZACION DE PARADEROS OBLIGATORIOS EN LOS PUNTOS INTERMEDIOS.
+Cuando los Órganos Internos de Control citen a los servidores públicos o sujetos obligados entrantes y a los salientes, a efecto de solicitarles las aclaraciones pertinentes sobre las probables irregularidades detectadas en la realización del acto de Entrega-Recepción, o la omisión de éste, se sujetarán a las disposiciones que los regulan ya (sic) las reglas establecidas en el presente capítulo.
 
-###### ARTICULO 56.
+###### ARTÍCULO 31.
 
-LAS TARIFAS POR LOS SERVICIOS QUE SE PROPORCIONEN COMPRENDERAN LAS CUOTAS Y CONDICIONES CONFORME A LAS CUALES DEBERAN APLICARSE, Y ESTARAN SUJETAS A LAS SIGUIENTES BASES GENERALES:
+Las notificaciones de los actos que establece la presente Ley, se harán en forma personal o mediante correo certificado o telegrama, en el domicilio que haya señalado en el acta administrativa de Entrega-Recepción el servidor público que dejó el cargo, o bien en el que se tenga registrado en su expediente.
 
-I.- SERAN CONFORME AL ESTADO DE TRANSITABILIDAD DE LOS CAMINOS O CALLES A LOS QUE ESTE SUJETO EL ITINERARIO CORRESPONDIENTE;
+###### ARTÍCULO 32.
 
-II.- SE TENDRAN EN CUENTA LAS NECESIDADES DE LA POBLACION O ZONAS EN LAS QUE SE PRESTARA EL SERVICIO PUBLICO, TOMANDO EN CONSIDERACION EL NIVEL MEDIO DE INGRESO DE LOS POSIBLES USUARIOS, EL COSTO EN LA OPERACION DE LA PRESTACION DEL SERVICIO Y EL PROMEDIO DE PASAJE QUE DEBERA SUJETARSE A TARIFAS ESPECIALES; EN TODOS LOS CASOS SE DEBERA CALCULAR QUE EL CONCESIONARIO O PERMISIONARIO OBTENGA UNA GANANCIA MODERADA;
+Cuando no se localice el domicilio del servidor público entrante y/o saliente, la misma se realizará en su nuevo lugar de trabajo o en el lugar donde se encuentre. La persona encargada de la notificación deberá cerciorarse del domicilio del interesado, identificándose en el acto con constancia o credencial expedida por autoridad competente, en las que se contenga su fotografía; y deberá entregar, junto con la copia del citatorio o documento en el que conste el acto que se notifique, una copia del acta que se levante en el momento de la diligencia y en la que se hagan constar en forma circunstanciada los hechos y señalar la fecha y hora en que la notificación se efectúe, recabando el nombre y la firma de la persona con quien se entienda la diligencia; de negarse a firmar, se hará constar en el acta de notificación, sin que ello afecte su validez. Las notificaciones personales se entenderán con quien deba ser notificado; a falta de ello, quien notifique dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato, a quien se entregará copia simple del asunto que se notifica, debiéndose fijar una copia adicional en la puerta o lugar visible del domicilio, haciéndose constar lo anterior en acta circunstanciada, la que obrará en el expediente.
 
-III.- EL AREA AFECTA A LA CIRCULACION DEL SERVICIO COLECTIVO Y DE AUTOS DE ALQUILER SE DIVIDIRA EN TANTOS SECTORES O CUADROS CUANTOS SE ESTIMEN PERTINENTES, ATENDIENDO A LAS DISTANCIAS POR RECORRER Y A LA DENSIDAD DEMOGRAFICA BENEFICIARIA DEL SERVICIO;
+Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona con capacidad de ejercicio que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla en caso de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio. De estas diligencias, el notificador asentará por escrito y debidamente circunstanciado, el acto realizado.
 
-IV.- SE FORMULARAN Y APLICARAN OBSERVANDO PERFECTA IGUALDAD DE TRATAMIENTO PARA TODOS LOS CONCESIONARIOS O PERMISIONARIOS;
+###### ARTÍCULO 33.
 
-V.- COMENZARAN A REGIR TRES DIAS DESPUES DE SU APROBACION O DE SU MODIFICACION;
+Las notificaciones personales surtirán sus efectos el día siguiente al en que hayan sido realizadas. Se tendrá como fecha de notificación por correo certificado del Servicio Postal Mexicano y telegrama, la que conste en el acuse de recibo, surtiendo efectos en esa misma fecha.
 
-VI.- SI PARA UN SERVICIO DETERMINADO FUERAN APLICABLES DIVERSAS TARIFAS, LOS CONCESIONARIOS O PERMISIONARIOS ESTARAN OBLIGADOS A COMBINARLAS SI DE ELLO RESULTA VENTAJA PARA LOS USUARIOS; Y
+###### ARTÍCULO 34.
 
-VII.- SE APLICARAN SIN VARIACION ALGUNA A TODOS LOS USUARIOS, SALVO LO DISPUESTO POR ESTA LEY.
+En caso de que el servidor público saliente no señale domicilio en el acta de Entrega-Recepción, se tendrá como señalado el que conste en su expediente personal. En caso de residir fuera de la circunscripción territorial del Estado, la notificación se le efectuará invariablemente por correo certificado.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+### CAPÍTULO SEXTO. DE LAS RESPONSABILIDADES
 
-LOS AUTOMOVILES DE ALQUILER DEBERAN USAR TAXIMETRO PARA EL COBRO DE LAS TARIFAS AUTORIZADAS EN AQUELLAS POBLACIONES EN QUE ASI LO DETERMINE LA SECRETARIA DE ACUERDO A LOS ESTUDIOS TECNICOS QUE ESTA REALICE Y QUE RESULTE CONVENIENTE PARA LA MEJOR PRESTACION DEL SERVICIO. EN TODO CASO SERA OIDA LA OPINION DEL CONSEJO CONSULTIVO DE TRANSPORTE.
+###### ARTÍCULO 35.
 
-###### ARTICULO 57.
+El servidor público saliente que no entregue los asuntos y recursos a su cargo en los términos de esta ley, será requerido de forma inmediata por el Órgano Interno de Control para que, en un lapso no mayor de quince días hábiles, contados a partir de la fecha de separación del empleo, cargo o comisión, cumpla con esta obligación.
 
-CUANDO EL SERVICIO SEA FORANEO, SE TOMARAN COMO BASE LA DISTANCIA ENTRE LOS PUNTOS DEL ITINERARIO AUTORIZADO, LAS VELOCIDADES MAXIMAS PERMITIDAS, EL ESTADO DE TRANSITABILIDAD DEL CAMINO Y LA IMPORTANCIA DE LOS CENTROS DE POBLACION COMPRENDIDOS EN EL ITINERARIO.
+En este caso, el servidor público entrante al tomar posesión, o el encargado del despacho, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos, haciéndolo del conocimiento del superior jerárquico y del Órgano Interno de Control que corresponda para efectos del requerimiento a que se refiere este artículo, y en su caso, para que se promuevan las acciones que correspondan, en aplicación de la Ley de Responsabilidades.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2003)</small>
+Una vez que el requerimiento se haya realizado, si el servidor público saliente dejare de cumplir esta disposición, incurrirá en responsabilidad administrativa por lo que se le sancionará en términos de lo dispuesto en la Ley de Responsabilidades, independientemente de las posibles responsabilidades de tipo político, penal o civil, que en su caso, hubiere incurrido con motivo del desempeño de su función.
 
-###### ARTICULO 58.
+###### ARTÍCULO 36.
 
-LOS ADULTOS MAYORES, PERSONAS CON DISCAPACIDAD, ESTUDIANTES Y LAS PERSONAS QUE FORMEN PARTE DE LOS PUEBLOS INDIGENAS DEL ESTADO GOZARAN DE UNA REDUCCION DE UN 50% DE DESCUENTO DE LAS TARIFAS PARA EL TRANSPORTE URBANO Y SEMIURBANO DE PASAJEROS, SIEMPRE Y CUANDO JUSTIFIQUEN SU CALIDAD MEDIANTE LA EXHIBICION DE LA CREDENCIAL VIGENTE CORRESPONDIENTE, LA QUE, RESPECTO DE LOS ADULTOS MAYORES, SE EXPEDIRA POR LA SECRETARIA DE FOMENTO SOCIAL DEL EJECUTIVO DEL ESTADO Y EN EL CASO DE LOS INDIGENAS DEL ESTADO POR PARTE DE LA COORDINADORA DE LA TARAHUMARA.
+Cuando por el volumen de la información y de los bienes que se entregan al servidor público entrante éste requiera de mayor plazo para realizar una recepción ordenada y transparente, deberá solicitar a los órganos internos de control una prórroga sobre el plazo de quince días hábiles, señalando el nuevo plazo y los argumentos que justifiquen la petición. En caso de que el Órgano Interno de Control que corresponda lo considere procedente, lo hará de conocimiento por escrito al servidor público saliente.
 
-LAS PERSONAS QUE FORMEN PARTE DE LOS PUEBLOS INDIGENAS DEL ESTADO, GOZARAN DEL DESCUENTO DE TREINTA Y TRES POR CIENTO DE LAS TARIFAS PARA EL TRANSPORTE FORANEO SIEMPRE Y CUANDO JUSTIFIQUEN ANTE LA COORDINADORA DE LA TARAHUMARA, SU PERTENENCIA CULTURAL A ALGUNA DE LAS ETNIAS ASENTADAS EN EL TERRITORIO DEL ESTADO, LA QUE EXPEDIRA EL DOCUMENTO DE IDENTIFICACION CORRESPONDIENTE.
+###### ARTÍCULO 37.
 
-###### ARTICULO 59.
+La vigilancia del exacto cumplimiento de las presentes disposiciones, en el ámbito de su competencia, queda a cargo de la Secretaría de la Contraloría y los Órganos Internos de Control.
 
-LOS NIÑOS MENORES DE CINCO AÑOS NO PAGARAN TARIFA ALGUNA; FUERA DE ESTE CASO, DE LAS TARIFAS ESPECIALES Y DE LO PREVISTO EN LOS ARTICULOS 60 Y 61, LAS TARIFAS SERAN APLICADAS UNIFORMEMENTE A TODAS LAS PERSONAS QUE HAGAN USO DE LOS VEHICULOS DESTINADOS AL SERVICIO PUBLICO DEL TRANSPORTE DE PERSONAS.
+###### ARTÍCULO 38.
 
-###### ARTICULO 60.
+El incumplimiento de lo dispuesto por la presente Ley, será sancionado en los términos de la Ley de Responsabilidades, sin perjuicio de cualquier otra responsabilidad civil o penal en la que pudieran incurrir.
 
-PODRAN VIAJAR EN CADA VEHICULO DESTINADO AL SERVICIO URBANO DE PASAJEROS, SIN COSTO ALGUNO, HASTA DOS PERSONAS DE LAS QUE DESEMPEÑAN LOS SIGUIENTES EMPLEOS:
+###### ARTÍCULO 39.
 
-I.- CARTEROS;
+La entrega del despacho, de recursos y de los asuntos en trámite encomendados al servidor público saliente, no lo exime de las responsabilidades en que hubiere incurrido en los términos de las leyes correspondientes.
 
-II.- AGENTES DE LA POLICIA JUDICIAL;
+###### ARTÍCULO 40.
 
-III.- MENSAJEROS DE TELEGRAFOS;
+En caso de cese o terminación del nombramiento, suspensión o destitución, el servidor público saliente no quedará relevado de las obligaciones que se contemplan en las disposiciones de esta Ley, siendo aplicable al caso, el régimen de responsabilidades de los servidores públicos.
 
-IV.- AGENTES DE LA POLICIA PREVENTIVA UNIFORMADOS;
+## TRANSITORIOS
 
-V.- AGENTES DE TRANSITO UNIFORMADOS;
+PRIMERO.- La presente ley entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
 
-VI.- MILITARES UNIFORMADOS; Y
+SEGUNDO.- Se abroga la Ley que establece las bases para la Entrega-Recepción del despacho de los titulares y otros Servidores de las dependencias y entidades de la Administración Pública Estatal y Municipal del Estado de Campeche, publicada en el Periódico Oficial del Estado de Campeche el día 12 de mayo de 1992 y se derogan todas aquellas disposiciones que se opongan al contenido de la presente ley.
 
-VII.- BOMBEROS.
+TERCERO.- Los Poderes Legislativo, Ejecutivo y Judicial; los Ayuntamientos, los Órganos Constitucionales Autónomos, así como los órganos jurisdiccionales que determinen las leyes, en el Estado de Campeche a través de sus órganos autorizados, emitirán en el ámbito de sus respectivas competencias los manuales y los formatos autorizados a que se refiere esta ley, para llevar a cabo el procedimiento de Entrega-Recepción, en un plazo de 120 días naturales a partir de la entrada en vigor del presente decreto.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, a los dos días del mes de mayo del año dos mil diecisiete.
 
-###### ARTICULO 61.
+C. Marina Sánchez Rodríguez, Diputada Presidenta.- C. Fredy Fernando Martínez Quijano, Diputado Secretario.- C. María del Carmen Pérez López, Diputada Secretaria.- Rúbricas.
 
-LOS CONCESIONARIOS ESTAN OBLIGADOS A TRANSPORTAR GRATUITAMENTE EN LOS VEHICULOS DESTINADOS AL SERVICIO PUBLICO A LOS INSPECTORES NOMBRADOS POR LA SECRETARIA, EN SERVICIO Y PREVIA IDENTIFICACION.
+PODER EJECUTIVO
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+DECRETO PROMULGATORIO
 
-###### ARTICULO 62.
+RAFAEL ALEJANDRO MORENO CÁRDENAS, Gobernador del Estado de Campeche, mediante el presente Decreto, se hace saber a los habitantes del Estado de Campeche:
 
-LA SECRETARIA PODRA EN CUALQUIER TIEMPO MODIFICAR LOS ITINERARIOS, TARIFAS Y HORARIOS POR RAZON DE INTERES PUBLICO.
+Que la LXII Legislatura del H. Congreso Constitucional del Estado Libre y Soberano de Campeche me ha dirigido el Decreto número 151, por lo que, en cumplimiento de lo dispuesto por los artículos 48, 49 y 71, fracción XVIII, de la Constitución Política del Estado de Campeche, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los tres días del mes de mayo del año dos mil diecisiete.
 
-###### ARTICULO 63.
+EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- RÚBRICAS.
 
-EN LAS CLASES DE SERVICIO NO PREVISTO POR ESTA LEY, LA SECRETARIA PODRA FIJAR LOS ITINERARIOS, HORARIOS Y TARIFAS QUE ESTIME CONVENIENTES, DE CONFORMIDAD CON LOS PRINCIPIOS GENERALES AQUI ESTABLECIDOS.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-### CAPITULO VII. INSPECCION Y VIGILANCIA
+P.O. 2 DE MARZO DE 2021.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+## [N. DE E. TRANSITORIOS DE LA “LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS”.]
 
-###### ARTICULO 64.
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-CORRESPONDE A LA SECRETARIA REALIZAR PERIODICAMENTE LA INSPECCION TECNICA DE LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE A QUE SE REFIERE ESTA LEY, DEBIENDO AUXILIARSE DE LAS AUTORIDADES MUNICIPALES EN LO QUE CORRESPONDE A SUS RESPECTIVAS CIRCUNSCRIPCIONES TERRITORIALES.
+SEGUNDO.- Se abroga la Ley que Regula los Procedimientos de Entrega-Recepción del Estado de Campeche y sus Municipios, publicada en el Periódico Oficial del Estado el día 5 de junio de 2017.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+TERCERO.- Los Poderes del Estado, los Municipios, y los órganos constitucionales autónomos, a través de sus Órganos de Control, emitirán en el ámbito de sus respectivas competencias el Manual de Entrega-Recepción a que se refiere esta Ley, en un plazo máximo de 120 días naturales, a partir de la entrada en vigor del presente Decreto.
 
-###### ARTICULO 65.
+Hasta en tanto no se emita el Manual a que se hace referencia en el párrafo anterior, se seguirá aplicando el que esté vigente en los Poderes del Estado, los Municipios y órganos constitucionales autónomos, en lo que no se oponga a la presente Ley, sin que su aplicación se exceda del plazo antes señalado.
 
-LOS CONCESIONARIOS Y PERMISIONARIOS ESTAN OBLIGADOS A PROPORCIONAR A LOS INSPECTORES DE LA SECRETARIA, PREVIO ACREDITAMIENTO DE SU FUNCION, LOS INFORMES Y DATOS QUE SEAN NECESARIOS PARA SU COMETIDO, Y CUANDO MEDIE MANDAMIENTO ESCRITO, A MOSTRARLES LOS DOCUMENTOS QUE ACREDITEN QUE SE ESTA CUMPLIENDO EN DEBIDA FORMA CON LA CONCESION O PERMISO OTORGADO.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 66.
-
-LA DIRECCION DE TRANSITO Y TRANSPORTE PODRA SOLICITAR A LAS ORGANIZACIONES DE TRANSPORTISTAS LOS DATOS TECNICOS Y ESTADISTICOS QUE CONSIDERE CONVENIENTES PARA EL MEJORAMIENTO DE LA PRESTACION DEL SERVICIO.
-
-###### ARTICULO 67.
-
-ES INCOMPATIBLE EL CARGO DE INSPECTOR CON CUALQUIER COMISION O EMPLEO OTORGADO POR LOS CONCESIONARIOS O PERMISIONARIOS. LOS INSPECTORES TAMPOCO PODRAN CELEBRAR NINGUN CONTRATO CON LOS MISMOS NI RECIBIR SUELDOS, EMOLUMENTOS, GRATIFICACIONES O PAGOS DE CUALQUIER GENERO.
-
-###### ARTICULO 68.
-
-NO SE PODRAN OTORGAR CONCESIONES O PERMISOS NI SE APROBARA SU TRANSFERENCIA A LOS FUNCIONARIOS DE TRANSPORTE DURANTE EL TERMINO DE SU ENCARGO NI DURANTE UN AÑO POSTERIOR A SU CONCLUSION.
-
-### CAPITULO VIII. DEL CONSEJO CONSULTIVO DE TRANSPORTE
-
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
-
-###### ARTICULO 69.
-
-EXISTIRA UN CONSEJO CONSULTIVO DE TRANSPORTE QUE SE INTEGRARA CON LOS FUNCIONARIOS Y REPRESENTANTES DE LOS ORGANISMOS QUE SE SEÑALAN Y EN EL NUMERO QUE A CONTINUACION SE INDICA:
-
-I.- SECRETARIO GENERAL DE GOBIERNO, O EL REPRESENTANTE QUE ESTE DESIGNE;
-
-II.- SECRETARIO DE FINANZAS Y ADMINISTRACION O EL REPRESENTANTE QUE ESTE DESIGNE;
-
-III.- DIRECTOR DE TRANSITO Y TRANSPORTE;
-
-IV.- JEFES DE LOS DEPARTAMENTOS DE TRANSPORTE EN EL ESTADO;
-
-V.- UN REPRESENTANTE DE CADA UNO DE LOS SIGUIENTES ORGANISMOS, INDUSTRIAS E INSTITUCIONES:
-
-A).- FEDERACION ESTATAL DE CAMARAS DE COMERCIO, SERVICIOS Y TURISMO;
-
-B).- CONFEDERACION PATRONAL DE LA REPUBLICA MEXICANA;
-
-C).- CAMARA NACIONAL DE LA INDUSTRIA DE TRANSFORMACION;
-
-D).- EMPRESAS MAQUILADORAS;
-
-E).- INSTITUCIONES OFICIALES DE EDUCACION MEDIA SUPERIOR Y SUPERIOR, QUE CONSIDERE LA SECRETARIA;
-
-F).- FEDERACION DE ESTUDIANTES EN EL ESTADO;
-
-G).- SECCIONES MAGISTERIALES EN EL ESTADO;
-
-H).- CONFEDERACION DE TRABAJADORES DE MEXICO EN EL ESTADO; Y CONFEDERACION NACIONAL CAMPESINA.
-
-VI.- HASTA TRES REPRESENTANTES DE LAS ORGANIZACIONES DE TRANSPORTISTAS DE MAYOR IMPORTANCIA EN EL ESTADO DE ACUERDO AL NUMERO DE SUS AGREMIADOS, QUE SERAN DESIGNADAS POR LA SECRETARIA. CADA ORGANIZACION DESIGNARA LIBREMENTE A SU REPRESENTANTE;
-
-VII.- DOS DIPUTADOS REPRESENTANTES DEL CONGRESO DEL ESTADO, QUE SERAN DESIGNADOS POR EL PLENO A PROPUESTA DE LA JUNTA DE COORDINACION PARLAMENTARIA.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 70.
-
-EL CONSEJO SERA PRESIDIDO POR EL SECRETARIO O SU REPRESENTANTE, Y EL DIRECTOR DE TRANSITO Y TRANSPORTE FUNGIRA COMO SECRETARIO.
-
-###### ARTICULO 71.
-
-PARA SER MIEMBRO DEL CONSEJO CONSULTIVO SE REQUIERE:
-
-I.- SER CIUDADANO MEXICANO EN PLENO EJERCICIO DE SUS DERECHOS;
-
-II.- TENER SU DOMICILIO EN EL ESTADO CON UNA ANTIGÜEDAD MINIMA DE UN AÑO;
-
-III.- HABER TENIDO Y TENER BUENA CONDUCTA; Y
-
-IV.- NO SER FUNCIONARIO O EMPLEADO PUBLICO, SALVO LOS QUE SEÑALA EL ARTICULO 69.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 72.
-
-EL CONSEJO SESIONARA EN FORMA ORDINARIA CADA SEIS MESES Y EXTRAORDINARIAMENTE CUANDO LO CITE EL SECRETARIO GENERAL DE GOBIERNO O CUANDO SEA CONVOCADO POR LA MAYORIA DE LOS MIEMBROS.
-
-HABRA QUORUM CON LA ASISTENCIA DE MAS DE LA MITAD DE SUS MIEMBROS Y LOS ACUERDOS SE TOMARAN POR MAYORIA DE LOS PRESENTES. EN CASO DE EMPATE, EL PRESIDENTE TENDRA VOTO DE CALIDAD.
-
-EL SECRETARIO LEVANTARA EL ACTA QUE CORRESPONDA A CADA SESION.
-
-EL CARGO DE CONSEJERO Y DE FUNCIONARIO DEL MISMO CONSEJO, SON HONORARIOS.
-
-###### ARTICULO 73.
-
-EL CONSEJO, COMO ORGANO DE CONSULTA, TENDRA LAS SIGUIENTES ATRIBUCIONES:
-
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-I.- COADYUVAR AL MEJORAMIENTO DE LA FUNCION PUBLICA EN MATERIA DE TRANSPORTE, ENCOMENDADA A LA SECRETARIA GENERAL DE GOBIERNO;
-
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-II.- OPINAR EN RELACION CON LAS MEDIDAS ADMINISTRATIVAS Y DE SERVICIO ADOPTADAS EN RELACION CON EL TRANSPORTE, POR LA SECRETARIA;
-
-III.- REALIZAR ESTUDIOS Y PROGRAMAS RELACIONADOS CON EL DESARROLLO DE LOS TRANSPORTES Y LOS SERVICIOS PUBLICOS CONEXOS A ELLOS PARA PROCURAR EL USO ADECUADO Y EL MEJOR APROVECHAMIENTO DE LAS VIAS DE COMUNICACION EN BENEFICIO DE LA SOCIEDAD;
-
-IV.- OPINAR EN RELACION A LA PRESTACION DEL SERVICIO PUBLICO DE TRANSPORTE DE PERSONAS, DE CARGA O MIXTO, AL OTORGAMIENTO DE CONCESIONES Y PERMISOS, SISTEMAS, MEDIOS, LINEAS, SITIOS, VEHICULOS, ITINERARIOS, TARIFAS Y HORARIOS, PARA COADYUVAR A UNA EXPEDITA Y ADECUADA SATISFACCION DE LAS NECESIDADES DE LOS USUARIOS;
-
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-V.- HACER DEL CONOCIMIENTO DE LA SECRETARIA LAS DEFICIENCIAS ADMINISTRATIVAS Y DE SERVICIO QUE EXISTAN EN EL TRAMITE DE LOS ASUNTOS, ASI COMO LA CONDUCTA INDEBIDA DE FUNCIONARIOS Y EMPLEADOS, PROPONIENDO LAS SOLUCIONES DE CADA CASO; Y
-
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-VI.- SUGERIR Y ELABORAR EL ESTABLECIMIENTO DE CURSOS PARA EL PERSONAL DE LA SECRETARIA EN MATERIA DE TRANSPORTES.
-
-### CAPITULO IX. DE LAS INFRACCIONES Y SANCIONES
-
-###### ARTICULO 74.
-
-SON INFRACCIONES LAS SIGUIENTES:
-
-I.- EL QUE SIN CONCESION O PERMISO OTORGADO EN LOS TERMINOS DE ESTA LEY PRESTE SERVICIO PUBLICO DE TRANSPORTE;
-
-II.- DAÑAR, PERJUDICAR, DESTRUIR U OBSTRUIR, LAS VIAS DE COMUNICACION O LOS MEDIOS DE TRANSPORTE;
-
-III.- CONTINUAR EJERCIENDO LOS DERECHOS DERIVADOS DE UN PERMISO O CONCESION HABIENDOSE CANCELADO;
-
-IV.- INVADIR Y EJECUTAR INDEBIDAMENTE OBRAS QUE PERJUDIQUEN UNA VIA DE COMUNICACION;
-
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-V.- APLICAR LOS CONCESIONARIOS O PERMISIONARIOS ITINERARIOS, HORARIOS Y TARIFAS CUANDO NO HUBIEREN SIDO APROBADAS POR LA SECRETARIA;
-
-VI.- CUALQUIERA OTRA PREVISTA EN LA LEY.
-
-###### ARTICULO 75.
-
-LAS SANCIONES QUE SE APLIQUEN CON MOTIVO DE LAS INFRACCIONES MENCIONADAS SERAN:
-
-I.- AMONESTACION;
-
-II.- MULTA;
-
-III.- SUSPENSION EN LA PRESTACION DEL SERVICIO PARA LOS CONCESIONARIOS O PERMISIONARIOS Y LAS SANCIONES PECUNIARIAS QUE ENSEGUIDA SE ESTABLEZCAN; Y
-
-IV.- CANCELACION DE LA CONCESION O PERMISO.
-
-###### ARTICULO 76.
-
-EL INFRACTOR, EN EL CASO A QUE SE REFIERE LA FRACCION I DEL ARTICULO 74, PERDERA EN BENEFICIO DEL ESTADO LAS OBRAS EJECUTADAS Y LOS BIENES AFECTOS A LA PRESTACION DEL SERVICIO, Y ADEMAS SE LE IMPONDRA UNA MULTA HASTA DE CIEN VECES EL SALARIO MINIMO VIGENTE EN LA ZONA ECONOMICA EN QUE COMETA LA INFRACCION.
-
-###### ARTICULO 77.
-
-LOS CASOS DE INFRACCION A QUE SE REFIEREN LAS FRACCIONES II Y IV DEL ARTICULO 74 SE SANCIONARAN CON MULTA HASTA DE CIEN VECES EL SALARIO SEÑALADO EN EL ARTICULO ANTERIOR MAS LOS DAÑOS Y PERJUICIOS QUE SE HUBIEREN OCASIONADO, INDEPENDIENTEMENTE DE LAS SANCIONES QUE CORRESPONDAN CONFORME AL CODIGO PENAL DEL ESTADO.
-
-###### ARTICULO 78.
-
-EN LOS CASOS DE INFRACCION DE LAS FRACCIONES III Y V DEL ARTICULO 74 SE APLICARA MULTA HASTA DE CIEN VECES EL SALARIO SEÑALADO EN EL ARTICULO 76 Y SE IMPEDIRA QUE SE CONTINUE PRESTANDO EL SERVICIO.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 79.
-
-CUALQUIER INFRACCION COMETIDA POR LOS CONCESIONARIOS O PERMISIONARIOS CUYA SANCION NO ESTE ESPECIFICAMENTE PREVISTA POR ESTA LEY, MOTIVARA LA IMPOSICION DE MULTA HASTA DE CINCUENTA VECES EL SALARIO MINIMO VIGENTE EN LA ZONA GEOGRAFICA DONDE SEA COMETIDA LA INFRACCION, SIN PERJUICIO DE CONMINAR AL INFRACTOR AL CUMPLIMIENTO DE SUS OBLIGACIONES. EN CASO DE REINCIDENCIA, SE DUPLICARA LA MULTA.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 80.
-
-LAS SANCIONES A QUE SE REFIEREN LOS ARTICULOS QUE ANTECEDEN SERAN APLICADAS POR LOS DEPARTAMENTOS DE TRANSPORTE DE ACUERDO A LA GRAVEDAD DE LA FALTA Y A LAS CIRCUNSTANCIAS QUE MEDIEN EN CADA CASO CONCRETO, SIN PERJUICIO DE LA CANCELACION SI PROCEDIERE, LA QUE EN TODO CASO DECRETARA LA SECRETARIA.
-
-EN CASO DE MULTA, DE NO CUBRIRSE VOLUNTARIAMENTE EN LA RECAUDACION DE RENTAS RESPECTIVA DENTRO DEL TERMINO DE CINCO DIAS HABILES SIGUIENTES A SU IMPOSICION, SE INICIARA EL PROCEDIMIENTO DE EJECUCION CORRESPONDIENTE.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 81.
-
-CONTRA ACTOS Y RESOLUCIONES DE LAS AUTORIDADES DE TRANSPORTES A QUE SE REFIEREN LAS FRACCIONES III, IV, V Y VI DEL ARTICULO 4 PROCEDERA EL RECURSO DE REVISION, QUE DEBERA PRESENTARSE EN LA SECRETARIA GENERAL DE GOBIERNO Y RESOLVERSE POR LA MISMA DE ACUERDO A LO DISPUESTO POR LOS ARTICULOS SIGUIENTES.
-
-CONTRA LOS ACTOS Y RESOLUCIONES DE LA PROPIA SECRETARIA PROCEDERA EL RECURSO DE REVOCACION, QUE SE TRAMITARA EN LOS MISMOS TERMINOS QUE EL RECURSO ANTERIOR.
-
-CONTRA LAS RESOLUCIONES DE LA SECRETARIA QUE RESUELVAN UN RECURSO, NO CABRA OTRO POSTERIOR.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 82.
-
-ESTOS RECURSOS SE INTERPONDRAN ANTE LA SECRETARIA EN UN PLAZO DE QUINCE DIAS HABILES CONTADOS A PARTIR DEL DIA SIGUIENTE A AQUEL EN QUE SE HUBIERE NOTIFICADO LA RESOLUCION O ACTO QUE SE IMPUGNE; PODRA HACERSE DIRECTAMENTE O POR CORREO CERTIFICADO CON ACUSE DE RECIBO. EN ESTE ULTIMO CASO SE TENDRA COMO FECHA DE PRESENTACION LA DEL DIA DE SU DEPOSITO EN LA OFICINA DE CORREOS.
-
-###### ARTICULO 83.
-
-SI EL RECURRENTE PREVIAMENTE TUVO OPORTUNIDAD DE OFRECER PRUEBAS, EN SU TRAMITACION SOLO SE ADMITIRAN PRUEBAS SUPERVINIENTES Y LAS DOCUMENTALES PUBLICAS QUE NO HAYA TENIDO A SU ALCANCE; EN NINGUN CASO SE ADMITIRA LA CONFESIONAL DE LAS AUTORIDADES.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 84.
-
-INTERPUESTO EL RECURSO ANTE LA SECRETARIA, ESTA SUSPENDERA LA EJECUCION DEL ACTO IMPUGNADO DE ENCONTRARSE EN LAS HIPOTESIS QUE ESTABLECE EL ARTICULO 86 DE ESTA LEY.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 85.
-
-CONTRA LOS ACTOS DEL GOBERNADOR DEL ESTADO PROCEDERA EL DE REVOCACION. ESTE SE INTERPONDRA ANTE LA SECRETARIA GENERAL DE GOBIERNO EN UN PLAZO DE QUINCE DIAS HABILES CONTADOS A PARTIR DEL DIA SIGUIENTE A AQUEL EN QUE SE HUBIERE NOTIFICADO LA RESOLUCION O ACTO QUE SE RECURRA. LA SECRETARIA DARA TRAMITE AL RECURSO Y LA RESOLUCION DEFINITIVA SERA DICTADA POR EL GOBERNADOR Y FIRMADA TAMBIEN POR EL SECRETARIO DE GOBIERNO.
-
-###### ARTICULO 86.
-
-LA INTERPOSICION DEL RECURSO DE REVISION SUSPENDERA LA EJECUCION DE LAS SANCIONES PECUNIARIAS SI EL INFRACTOR GARANTIZA EL INTERES FISCAL.
-
-TRATANDOSE DE OTRO TIPO DE ACTOS O RESOLUCIONES, LA INTERPOSICION DEL RECURSO SUSPENDERA SU EJECUCION SIEMPRE Y CUANDO SE SATISFAGAN LOS SIGUIENTES REQUISITOS:
-
-I.- QUE LO SOLICITE EL RECURRENTE;
-
-II.- QUE NO SE SIGA PERJUICIO AL INTERES SOCIAL; Y
-
-III.- QUE FUEREN DE DIFICIL REPARACION LOS DAÑOS Y PERJUICIOS QUE SE CAUSEN AL RECURRENTE CON LA EJECUCION DEL ACTO O RESOLUCION COMBATIDA.
-
-LA SUSPENSION CONCEDIDA UNICAMENTE PRODUCIRA EL EFECTO DE QUE LAS COSAS SE MANTENGAN EN EL ESTADO EN QUE SE ENCUENTREN AL CONCEDERLA.
-
-###### ARTICULO 87.
-
-EN LA TRAMITACION DE LOS RECURSOS QUE SE REGULAN EN ESTE CAPITULO SE APLICARA EN LO CONDUCENTE SUPLETORIAMENTE EL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO.
-
-### CAPITULO X. PRESCRIPCION
-
-###### ARTICULO 88.
-
-EL EJERCICIO DE LA FACULTAD PARA IMPONER LAS SANCIONES ADMINISTRATIVAS PREVISTAS EN ESTA LEY PRESCRIBIRA EN EL TERMINO DE UN AÑO.
-
-###### ARTICULO 89.
-
-EL TERMINO PARA LA PRESCRIPCION SERA CONTINUO Y SE CONTARA DESDE EL DIA EN QUE SE COMETIO LA FALTA O INFRACCION ADMINISTRATIVA SI FUERE CONSUMADA, O DESDE QUE CESO SI FUERE CONTINUA.
-
-###### ARTICULO 90.
-
-LA PRESCRIPCION SE INTERRUMPIRA CON LA INICIACION DEL PROCEDIMIENTO ADMINISTRATIVO PARA LA APLICACION DE LA SANCION.
-
-###### ARTICULO 91.
-
-LOS INTERESADOS PODRAN HACER VALER LA PRESCRIPCION POR VIA DE EXCEPCION. LA AUTORIDAD DEBERA DECLARARLA DE OFICIO.
-
-### CAPITULO XI. DEL REGISTRO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 92.
-
-SE CREA EL REGISTRO PUBLICO DE TRANSPORTE QUE ESTARA A CARGO DE LA DIRECCION DE TRANSITO Y TRANSPORTE, EL CUAL CONSTARA DE LAS SIGUIENTES SECCIONES:
-
-I.- DE LOS CONCESIONARIOS Y PERMISIONARIOS;
-
-II.- DE LAS CONCESIONES Y PERMISOS;
-
-III.- DE VEHICULOS Y DEMAS MEDIOS AFECTOS AL SERVICIO PUBLICO; Y
-
-IV.- DE CONDUCTORES.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-EN EL REGISTRO PUBLICO DE TRANSPORTE DEBERAN QUEDAR INSCRITOS LOS DATOS RELATIVOS A LAS SECCIONES ENUNCIADAS; SERA PUBLICO Y CUALQUIER INTERESADO PODRA CONSULTAR SUS ASIENTOS ASI COMO OBTENER CONSTANCIAS DE ESTOS ULTIMOS.
-
-EL REGLAMENTO QUE AL EFECTO SE EXPIDA DETERMINARA LOS REQUISITOS QUE DEBAN CONTENER LAS INSCRIPCIONES.
-
-EL REGISTRO CAUSARA LOS DERECHOS QUE ESTABLEZCA LA LEY.
-
-###### ARTICULO 93.
-
-LOS INTERESADOS DEBERAN SOLICITAR LOS REGISTROS CORRESPONDIENTES DENTRO DE LOS QUINCE DIAS HABILES SIGUIENTES AL OTORGAMIENTO DE LA CONCESION, PERMISO O LICENCIA DE CONDUCTOR EN LOS CASOS A QUE SE REFIEREN LOS INCISOS 1, 2 Y 4 DEL ARTICULO ANTERIOR; EN CUANTO A LOS VEHICULOS Y DEMAS MEDIOS A QUE SE REFIERE EL INCISO 3 DEL MISMO ARTICULO, DEBERA SOLICITARSE SU INSCRIPCION ANTES DE QUE SE PONGAN EN SERVICIO.
-
-LOS ACTOS Y DERECHOS QUE DEBAN REGISTRARSE Y QUE NO SE PRESENTEN PARA SU INSCRIPCION DENTRO DEL TERMINO CONCEDIDO, NO PODRAN INVOCARSE NI HACERSE VALER EN JUICIO NI PROCEDIMIENTO ALGUNO, ADMINISTRATIVO O JUDICIAL, POR LO QUE NO PODRAN EXPLOTARSE CONCESIONES NI PERMISOS NO INSCRITOS NI EXPEDIRSE PLACAS DE CIRCULACION A VEHICULOS SIN REGISTRO, SIN PERJUICIO DE LA APLICACION DE LAS SANCIONES A QUE SE REFIERE EL CAPITULO IX.
-
-LAS SOLICITUDES DE REGISTRO DE ACTOS Y DERECHOS PRESENTADAS POR LOS INTERESADOS DEBERAN RESOLVERSE DENTRO DE LOS QUINCE DIAS HABILES SIGUIENTES A LA FECHA DE SU PRESENTACION; SI DENTRO DEL TERMINO CONCEDIDO NO SE RECHAZAN POR ESCRITO FUNDADO Y MOTIVADO, SE CONSIDERARAN APROBADAS Y SE DEBERA PROCEDER A SU INSCRIPCION.
-
-###### ARTICULO 94.
-
-EL REGISTRO SE LLEVARA EN HOJAS SUELTAS QUE SE EMPASTARAN AL COMPLETARSE DOSCIENTAS, A LAS QUE SE AGREGARAN CINCUENTA FOLIOS ADICIONALES PARA ANOTACIONES DE ENLACE.
-
-###### ARTICULO 95.
-
-EL REGLAMENTO ESTABLECERA LOS DEMAS REQUISITOS Y CONDICIONES PARA EL FUNCIONAMIENTO DEL REGISTRO.
-
-T R A N S I T O R I O S
-
-PRIMERO.- ESTA LEY ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
-
-SEGUNDO.- SE ABROGA LA LEY DE COMUNICACIONES Y TRANSPORTE DEL ESTADO PUBLICADA EN EL PERIODICO OFICIAL DEL 8 DE AGOSTO DE 1987, ASI COMO TODAS LAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY.
-
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1998)</small>
-
-TERCERO.- EL NUMERO MAXIMO DE CONCESIONES O PERMISOS A QUE SE REFIERE EL ARTICULO 22 DE ESTA LEY, A PARTIR DE QUE ENTRE EN VIGOR Y DURANTE EL AÑO DE 1997 SERA DE CUATRO; SEIS EN 1998 Y 1999, Y EL TOTAL DE DIEZ A PARTIR DEL AÑO 2000.
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
-
-CUARTO.- LA ANTIGÜEDAD DE LAS UNIDADES QUE SE UTILICEN PARA EL SERVICIO COLECTIVO DE PASAJEROS A PARTIR DE QUE ESTA LEY ENTRE EN VIGOR Y HASTA EL AÑO 2001, SERA DE 12 AÑOS Y EN EL CASO DE LOS VEHICULOS EN QUE SE PRESTA EL SERVICIO PUBLICO DE TRANSPORTE DE PASAJEROS EN AUTOS DE ALQUILER, SERA DE 9 AÑOS DURANTE ESTE MISMO PERIODO.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-QUINTO.- DE LAS CONCESIONES QUE SE OTORGUEN A PARTIR DE QUE ESTA LEY ENTRE EN VIGOR Y DURANTE EL AÑO DE 1994, EL 40% LO SERAN CONFORME AL PROCEDIMIENTO SEÑALADO EN LA PRESENTE LEY Y EL 60% CORRESPONDERA POR RIGUROSO ORDEN DE ANTIGÜEDAD A LAS PERSONAS QUE LABOREN COMO CONDUCTORES DE VEHICULOS DEL SERVICIO PUBLICO DE TRANSPORTE EN EL RAMO CORRESPONDIENTE, DE ACUERDO A LOS REGISTROS DE ANTIGÜEDAD QUE SUS ORGANIZACIONES SINDICALES HAYAN ENTREGADO A LA AUTORIDAD COMPETENTE.
-
-DURANTE EL AÑO DE 1995 LOS PORCENTAJES ANTERIORES SERAN INVERTIDOS.
-
-A PARTIR DE 1996 TODAS LAS CONCESIONES SERAN OTORGADAS DE ACUERDO AL PROCEDIMIENTO SEÑALADO EN LOS ARTICULOS 27 Y SIGUIENTES DE ESTA LEY.
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
-
-SEXTO.- LAS CONCESIONES OTORGADAS CONFORME A LA LEY ANTERIOR FENECERAN AL TERMINO SEÑALADO EN SU OTORGAMIENTO, AL CONCLUIR SU VIGENCIA, EL TITULAR PODRA SOLICITAR A LA SECRETARIA GENERAL DE GOBIERNO LA REVALIDACION DE SU PERMISO O CONCESION SIN SUJETARSE AL PROCEDIMIENTO DE CONCURSO SEÑALADO POR ESTA LEY, SIEMPRE Y CUANDO CUMPLA CON LOS DEMAS REQUISITOS EXIGIDOS PARA SU EXPEDICION Y SU SOLICITUD SEA PRESENTADA DENTRO DE LOS SESENTA DIAS HABILES ANTERIORES A SU VENCIMIENTO. SI NO HACE USO DE ESTE DERECHO DENTRO DEL TERMINO CONCEDIDO, LA CONCESION SERA CANCELADA DEFINITIVAMENTE.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
-
-SEPTIMO.- LO DISPUESTO EN LOS ARTICULOS 13, 18, PRIMER PARRAFO Y 36, UNICAMENTE POR LO QUE SE REFIERE AL TRANSPORTE DE MATERIALES PARA LA CONSTRUCCION, ENTRARA EN VIGOR EL PRIMERO DE ENERO DEL AÑO 2006, MIENTRAS TANTO SOLO SE EXPEDIRAN NUEVOS PERMISOS, SI ASI SE CONVINIERE POR LA SECRETARIA GENERAL DE GOBIERNO Y TODAS LAS ORGANIZACIONES INTERESADAS EN ESTA RAMA DEL TRANSPORTE.
-
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1998)</small>
-
-OCTAVO.- LO ESTABLECIDO EN EL ARTICULO 56 ULTIMO PARRAFO ENTRARA EN VIGOR EL 1 DE DICIEMBRE DE 1999.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-NOVENO.- LOS CONCESIONARIOS, PERMISIONARIOS, CONDUCTORES Y DEMAS INTERESADOS DEBERAN PRESENTAR PARA SU REGISTRO LOS DOCUMENTOS QUE AL EFECTO SEÑALE LA DIRECCION, CON EL OBJETO DE ASENTAR LAS INSCRIPCIONES QUE DEBEN CONTENERSE EN EL REGISTRO PUBLICO DE TRANSPORTE, DENTRO DEL PLAZO QUE VENCERA EL 30 DE ABRIL DE 1994. CONCLUIDO EL MISMO, SE APLICARA LO DISPUESTO POR EL SEGUNDO PARRAFO DEL ARTICULO 93.
-
-DECIMO.- LOS CONCESIONARIOS, PERMISIONARIOS, CONDUCTORES Y DEMAS INTERESADOS DEBERAN PRESENTAR PARA SU REGISTRO LOS DOCUMENTOS QUE AL EFECTO SEÑALE EL DEPARTAMENTO, CON EL OBJETO DE ASENTAR LAS INSCRIPCIONES QUE DEBEN CONTENERSE EN EL REGISTRO PUBLICO DE TRANSPORTE, DENTRO DEL PLAZO QUE VENCERA EL 30 DE ABRIL DE 1994. CONCLUIDO EL MISMO, SE APLICARA LO DISPUESTO POR EL SEGUNDO PARRAFO DEL ARTICULO 93.
-
-LO DISPUESTO EN EL ULTIMO PARRAFO DEL ARTICULO 93 ENTRARA EN VIGOR A PARTIR DEL PRIMERO DE JULIO DE 1994.
-
-DADO EN EL SALON DE SESIONES DEL PODER LEGISLATIVO EN LA CIUDAD DE CHIHUAHUA, CHIH., AL VIGESIMO DIA DEL MES DE ENERO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
-
-DIPUTADO PRESIDENTE
-
-DR. SALVADOR BAUTISTA VARGAS.
-
-DIPUTADO SECRETARIO
-
-DR. VICTOR M. RODRIGUEZ G.
-
-DIPUTADO SECRETARIO
-
-C. JUAN SALDAÑA RODRIGUEZ.
-
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiún días del mes de enero de mil novecientos noventa y cuatro.
-
-C.P. FRANCISCO JAVIER BARRIO TERRAZAS.
-
-EL SECRETARIO DE GOBIERNO
-
-LIC. EDUARDO ROMERO RAMOS.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 23 DE NOVIEMBRE DE 1996.
-
-UNICO.- El presente Decreto entrará en vigor el día 30 de noviembre de 1996.
-
-P.O. 12 DE AGOSTO DE 1998.
-
-UNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 27 DE NOVIEMBRE DE 1999.
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 18 DE DICIEMBRE DE 1999.
-
-###### ARTÍCULO UNICO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 11 DE OCTUBRE DE 2000.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE NOVIEMBRE DE 2000.
-
-###### ARTICULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 19 DE DICIEMBRE DE 2001.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL DEL ESTADO DE CHIHUAHUA.
-
-P.O. 29 DE JUNIO DE 2002.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 28 DE SEPTIEMBRE DE 2002.
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 9 DE NOVIEMBRE DE 2002.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 30 DE NOVIEMBRE DE 2002.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 30 DE JULIO DE 2003.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 27 DE DICIEMBRE DE 2003.
-
-> <small>(F. DE E., P.O. 13 DE MARZO DE 2004)</small>
-
-###### ARTICULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE DICIEMBRE DE 2004.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO 35.
-
-PARA EL OTORGAMIENTO DE PERMISOS SE EXIGIRAN LOS REQUISITOS QUE SEÑALEN LOS ARTICULOS ANTERIORES Y SERAN OTORGADOS POR LA DIRECCION DE TRANSITO Y TRANSPORTE SIN SUJETARSE A CONCURSO.
-
-###### ARTICULO 36.
-
-PARA LA PRESTACION DEL SERVICIO DE CARGA SE REQUIERE PERMISO, EL QUE SE OTORGARA A TODO EL QUE LO SOLICITE Y ACREDITE SU PROPIEDAD SOBRE UN VEHICULO NACIONAL O INTERNADO LEGALMENTE AL PAIS QUE REUNA LAS CONDICIONES NECESARIAS PARA EL RAMO DEL TRANSPORTE QUE DESEE EXPLOTAR. LOS PARTICULARES PODRAN LIBREMENTE TRANSPORTAR MATERIALES O CARGA DE SU PROPIEDAD PARA LOS FINES PROPIOS DE SUS NEGOCIOS.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 37.
-
-LAS CONCESIONES Y PERMISOS SERAN TRANSMISIBLES POR HERENCIA. LA SECRETARIA, A TRAVES DE LA DIRECCION DE TRANSITO Y TRANSPORTE, PODRA AUTORIZAR OTRAS FORMAS DE TRANSMISION SIEMPRE Y CUANDO EL TITULAR LA HAYA EXPLOTADO ADECUADAMENTE DURANTE UN AÑO Y EL ADQUIRENTE GARANTICE IGUAL O MEJOR PRESTACION DEL SERVICIO QUE EL TITULAR ANTERIOR.
-
-TAMBIEN SE PODRA AUTORIZAR EL GRAVAMEN DE CONCESIONES Y DE LOS BIENES AFECTOS A LA MISMA CUANDO SE GARANTICEN CREDITOS DESTINADOS A LA MEJORA DEL SERVICIO, PUDIENDO TAMBIEN UTILIZARSE LA FIGURA DEL ARRENDAMIENTO FINANCIERO, SIEMPRE QUE LAS PARTES EN EL MISMO CONVENGAN EN AFECTAR Y SOMETER LOS BIENES ARRENDADOS AL REGIMEN ESPECIAL DE LAS CONCESIONES.
-
-LAS CONCESIONES Y DEMAS BIENES AFECTOS A LA PRESTACION DEL SERVICIO SOLO PODRAN SER OBJETO DE INTERVENCION, SALVO QUE EL ADEUDO PROVENGA DE CREDITOS DESTINADOS A LA ADQUISICION DE TALES BIENES.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-EL ADJUDICATARIO DE UNA CONCESION NO PODRA EXPLOTARLA SI NO CUMPLE CON LOS REQUISITOS EXIGIDOS POR ESTA LEY Y OBTIENE LA AUTORIZACION DE LA DIRECCION DE TRANSITO Y TRANSPORTE.
-
-LAS CONCESIONES NO PODRAN TRANSMITIRSE O GRAVARSE POR SEPARADO DE LOS BIENES AFECTOS A ELLAS O VICEVERSA.
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
-
-EN CASO DE FALLECIMIENTO DEL CONCESIONARIO O PERMISIONARIO, LA CONCESION O PERMISO, SEGUN SEA EL CASO, SERA TRANSMITIDO EN EL MISMO GRADO DE PRELACION AL ESTABLECIDO EN EL ARTICULO 34.
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
-
-EL BENEFICIARIO DEBERA PRESENTAR SU SOLICITUD DENTRO DE LOS NOVENTA DIAS NATURALES SIGUIENTES AL FALLECIMIENTO DEL CONCESIONARIO O PERMISIONARIO Y CUMPLIR CON LOS REQUISITOS EXIGIDOS PARA EL OTORGAMIENTO DE LA CONCESION O PERMISO DE QUE SE TRATE.
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
-
-EN EL CASO DE LA EXISTENCIA DE DOS O MAS BENEFICIARIOS, DEBERA PRESENTARSE LA RESOLUCION DEL JUICIO SUCESORIO CORRESPONDIENTE ANTE AUTORIDADES COMPETENTES.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 38.
-
-NINGUNA CONCESION O PERMISO SE OTORGARA SI EL INTERESADO EN OBTENERLA NO DISPONE DE LAS ESTACIONES O TERMINALES ADECUADAS, ENTENDIENDOSE POR ESTAS EL LUGAR O LUGARES DONDE HAYAN DE CONCENTRAR LAS UNIDADES AFECTAS AL INICIAR O CONCLUIR EL SERVICIO DICHAS ESTACIONES O TERMINALES NO SERAN AUTORIZADAS POR LA SECRETARIA SI CON ELLAS SE INVADE LA VIA PUBLICA. EL REGLAMENTO SEÑALARA LAS CONDICIONES Y REQUISITOS PARA EL FUNCIONAMIENTO DE LAS ESTACIONES O TERMINALES, ASI COMO LOS CASOS EN QUE NO SE REQUIERA HACER USO DE ELLAS, LO QUE DEPENDERA DEL LUGAR DONDE PRETENDAN ESTACIONARSE LOS VEHICULOS FUERA DEL HORARIO DE SERVICIO.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 39.
-
-LOS ESTACIONAMIENTOS AUTORIZADOS PARA AUTOS DE ALQUILER SERAN UBICADOS POR LA SECRETARIA, PREVIA OPINION DEL AYUNTAMIENTO RESPECTIVO Y VECINOS AFECTADOS, FIJANDOLOS EN LUGARES DONDE NO SE ENTORPEZCA EL TRANSITO DE VEHICULOS.
-
-###### ARTICULO 40.
-
-NO SE PODRA HACER USO DE LA CONCESION O PERMISO OTORGADO SI EL SOLICITANTE NO DEMUESTRA PREVIAMENTE HABER OBTENIDO LAS PLACAS DE CIRCULACION PREVISTAS PARA ESTA CLASE DE VEHICULOS POR LAS LEYES Y REGLAMENTOS APLICABLES.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-LAS PLACAS DE CIRCULACION SOLO SERAN EXPEDIDAS SI EL INTERESADO OBTIENE CONSTANCIA QUE EXPIDA EL DEPARTAMENTO DE TRANSPORTE DE QUE SE ENCUENTRA AL CORRIENTE EN EL CUMPLIMIENTO DE SUS OBLIGACIONES Y COMPRUEBA QUE SE ENCUENTRA INSCRITO EN EL PADRON PARA EL PAGO DEL IMPUESTO SOBRE NOMINAS DEL ESTADO Y COMO PATRON EN EL INSTITUTO MEXICANO DEL SEGURO SOCIAL, O MANIFIESTE POR ESCRITO Y BAJO PROTESTA QUE NO TIENE EMPLEADOS A SU SERVICIO.
-
-###### ARTICULO 41.
-
-NINGUNA CONCESION SE OTORGARA SI CON ELLO SE ESTABLECE UNA COMPETENCIA RUINOSA EN DETRIMENTO DE LOS CONCESIONARIOS O SE CAUSA PERJUICIO AL INTERES PUBLICO.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 42.
-
-SE CONSIDERARA QUE EXISTE COMPETENCIA RUINOSA CUANDO SOBREPASEN LINEAS O RUTAS DE ITINERARIOS CON EL MISMO SENTIDO DE CIRCULACION, SIEMPRE QUE DE ACUERDO CON LOS ESTUDIOS TECNICOS REALIZADOS SE HAYA LLEGADO A LA CONCLUSION DE QUE LA DENSIDAD DEMOGRAFICA USUARIA ENCUENTRA SATISFECHAS SUS EXIGENCIAS CON EL SERVICIO PRESTADO POR LA O LAS RUTAS ESTABLECIDAS PREVIAMENTE, EN LA INTELIGENCIA DE QUE LA SECRETARIA, TENIENDO EN CUENTA EL INTERES DE LA COMUNIDAD, PODRA MODIFICAR LOS ITINERARIOS CORRESPONDIENTES A FIN DE MEJORAR EL SERVICIO Y EL DESARROLLO DE NUEVAS RUTAS.
-
-###### ARTICULO 43.
-
-EL EJECUTIVO DEL ESTADO EXPROPIARA, OCUPARA TEMPORALMENTE O LIMITARA EL DOMINIO DE LOS BIENES DE PROPIEDAD PARTICULAR QUE SE REQUIERAN PARA EL ESTABLECIMIENTO, REPARACION Y MEJORAMIENTO DE LAS VIAS DE COMUNICACION, SUJETANDOSE A LO DISPUESTO EN LA LEY.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 44.
-
-LA SECRETARIA GENERAL DE GOBIERNO PODRA ESTABLECER MODALIDADES A LAS CONCESIONES Y PERMISOS, FIJANDO ITINERARIOS, TARIFAS, HORARIOS, SITIOS, TERMINALES, TIPO DE VEHICULOS Y CUALQUIER OTRA ESPECIFICACION DEL SERVICIO, ATENDIENDO EL INTERES PUBLICO. ASI MISMO, PODRA HACERSE CARGO, TEMPORAL O DEFINITIVAMENTE, DEL SERVICIO PUBLICO DE TRANSPORTE CUANDO ASI LO REQUIERA EL INTERES GENERAL.
-
-CUANDO LA MEDIDA SEA DEFINITIVA, PREVIAMENTE SE PEDIRA LA OPINION DEL CONSEJO CONSULTIVO DE TRANSPORTE.
+CUARTO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido de la presente Ley.
