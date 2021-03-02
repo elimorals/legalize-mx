@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-desarrollo-de-la-competitividad-de-la-micro-68070"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2017-12-07"
+last_updated: "2021-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68070&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2009-04-22"
 
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE MARZO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de abril de 2009.
 
@@ -398,6 +398,10 @@ DEL ESTUDIO DE VIABILIDAD TÉCNICA, ECONÓMICA Y FINANCIERA DE LOS PROYECTOS PAR
 
 Para la entrega de estímulos y aprobación de programas será necesario que los solicitantes entreguen un estudio de viabilidad técnica, económica y financiera de los proyectos para los cuales se solicitaron los apoyos del FONDO PYME. Dicho estudio se ejecutará de conformidad con el Artículo 47 de la Ley de Fomento para el Desarrollo Económico del Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Artículo 23 BIS. Las autoridades en la materia publicarán los lineamientos y guías necesarias para facilitar la elaboración del estudio de viabilidad técnica económica y financiera,_a las personas solicitantes. Las instituciones académicas podrán firmar convenios de colaboración con el Consejo Local para la Competitividad de la Micro, Pequeña y Mediana Empresa, a fin de realizar estudios académicos para la constitución e impulso de las Micro, Pequeñas y Medianas Empresas.
+
 > <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 24.
@@ -420,11 +424,11 @@ La Secretaría de Ciencia, Tecnología e Innovación en conjunto con la Secretar
 
 El objetivo de estas acciones es que estos comercios obtengan las condiciones necesarias de competitividad en el mercado, a través de la innovación en sus procesos y el uso de herramientas tecnológicas. Con el fin de fomentar el desarrollo económico local y la generación de empleos.
 
-> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 27.
 
-La Secretaría de Ciencia, Tecnología e Innovación de la ciudad proporcionará para estos efectos la infraestructura tecnológica necesaria para el correcto desarrollo de las acciones.
+La Secretaría de Educación, Ciencia, Tecnología e Innovación, proporcionará para estos efectos la infraestructura tecnológica y apoyo a la seguridad cibernética necesaria para el correcto desarrollo de las acciones a los comercios de barrio establecidos en la Ciudad de México, con el objetivo de impulsar su crecimiento, desarrollo y consolidación.
 
 > <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2017)</small>
 
@@ -471,3 +475,11 @@ G.O. 7 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la (sic) presente Decreto.
+
+G.O. 2 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL DISTRITO FEDERAL, CON LA ADICIÓN DE UN ARTÍCULO 23 BIS Y LA MODIFICACIÓN DE SU ARTÍCULO 27”.]
+
+PRIMERO.- Remítase a la Jefa de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
