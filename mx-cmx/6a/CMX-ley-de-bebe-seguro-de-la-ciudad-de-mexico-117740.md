@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-bebe-seguro-de-la-ciudad-de-mexico-117740"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-22"
-last_updated: "2019-12-03"
+last_updated: "2021-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117740&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-12-19"
 
 LEY DE BEBÉ SEGURO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MARZO DE 2021.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 22 de diciembre de 2016.
 
@@ -64,15 +64,19 @@ La responsabilidad de vigilancia, seguimiento y aplicación de esta ley estará 
 
 I. La Administración Pública de la Ciudad de México;
 
-II. La Asamblea Legislativa de la Ciudad de México;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. El Congreso de la Ciudad de México;
 
 III. Los padres, ascendientes, tutores, personas responsables y miembros de la familia de las niñas y los niños, y
 
 IV. Los ciudadanos y la sociedad civil organizada, cualquiera que sea su forma o denominación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 3.
 
-La aplicación de esta ley estará a cargo del Sistema para el Desarrollo Integral de la Familia de la Ciudad de México; quien definirá los mecanismos de acceso a los recién nacidos a través de su madre, padre o tutor en términos de lo establecido en la presente Ley y su Reglamento.
+La aplicación de esta ley estará a cargo del Sistema para el Desarrollo Integral de la Familia de la Ciudad de México; quien definirá los mecanismos para el acceso de los recién nacidos a través de su madre, padre o tutor en términos de lo establecido en la presente Ley y su Reglamento.
 
 Los sectores público, social y privado, en términos de lo dispuesto por este artículo, celebrarán convenios o acuerdos de colaboración entre sí y con las instancias federales correspondientes que realicen alguna o varias actividades que constituyen los objetivos de esta ley.
 
@@ -80,7 +84,9 @@ Los sectores público, social y privado, en términos de lo dispuesto por este a
 
 Las acciones institucionales que ejecute el Gobierno del Ciudad de México, deberán ser coordinadas y enfocadas a garantizar:
 
-I. La mejora de la nutrición del niño y la niña en su primer año de vida, y con ello evitar enfermedades o muertes ocasionadas por la mala nutrición.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+I. La mejora de la nutrición del niño y la niña en su primer año de vida, y con ello evitar enfermedades derivadas de la desnutrición y que repercutan en su sano crecimiento o incluso muertes ocasionadas por las mismas o por inanición.
 
 II. Transferencia monetaria a través de una tarjeta con la que podrán adquirir productos alimenticios que fomenten el sano crecimiento del menor.
 
@@ -104,7 +110,9 @@ III. Priorización de recursos: en la asignación de recursos públicos relacion
 
 IV. Corresponsabilidad: que asegure la participación y responsabilidad de la familia, órganos locales de gobierno y sociedad en la atención de las niñas y los niños de 0 a 12 meses de edad;
 
-V. Accesibilidad: los mecanismos y acciones de gobierno instrumentados con el fin de facilitar el acceso de las niñas y los niños de 0 a 12 meses de edad a los servicios, programas y acciones gubernamentales, ya sea mediante la movilidad operativa- administrativa de éstos, o mediante la generación de apoyos para facilitar el acceso de las personas a dichos servicios públicos. Lo anterior en función de los recursos financieros, humanos y de infraestructura disponibles;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+V. Accesibilidad: los mecanismos y acciones de gobierno instrumentados con el fin de facilitar que las niñas y los niños de 0 a 12 meses de edad obtengan los beneficios de los servicios, programas y acciones gubernamentales, ya sea mediante la movilidad operativa- administrativa de éstos, o mediante la generación de acciones para facilitar el acceso de las personas a dichos servicios públicos. Lo anterior en función de los recursos financieros, humanos y de infraestructura disponibles;
 
 VI. Preeminencia parental: lo que implica que el Estado respete la responsabilidad primordial de los ascendientes y familiares en el desarrollo de niñas y los niños de 0 a 12 meses de edad;
 
@@ -196,9 +204,11 @@ El DIF-CDMX determinará los mecanismos y procedimientos de acceso a la obtenci�
 
 En casos de excepción, por ejemplo, las solicitudes más apremiantes de los organismos gubernamentales encargados de proteger los derechos humanos, se someterán a consideración del Titular de la Dirección General del DIF CDMX y/o a la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, que valorará, y en su caso podrá aprobar las solicitudes de apoyo económico exentando la presentación de alguno o algunos de los requisitos necesarios.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 13.
 
-Las niñas y niños menores de 12 meses serán incorporados al Padrón de Derechohabientes, que establece la Ley de Desarrollo Social del Distrito Federal, y se deberá mantener actualizado el padrón de beneficiarios de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y Ley de Protección de Datos Personales para el Distrito Federal.
+Las niñas y niños menores de 12 meses serán incorporados al Padrón de Derechohabientes, que establece la Ley de Desarrollo Social del Distrito Federal, y se deberá mantener actualizado el padrón de beneficiarios de conformidad con la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México.
 
 ###### Artículo 14.
 
@@ -295,3 +305,9 @@ G.O. 3 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ABROGA LA FRACCIÓN III, SE REFORMA LA FRACCIÓN IV Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 9 DE LA LEY DE BEBE SEGURO DE LA CIUDAD DE MÉXICO”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 2, EL PRIMER PÁRRAFO DEL ARTÍCULO 3, LA FRACCIÓN I DEL ARTÍCULO 4, LA FRACCIÓN V DEL ARTÍCULO 5, Y, EL ARTÍCULO 13; TODOS ELLOS DE LA LEY DE BEBÉ SEGURO DE LA CIUDAD DE MÉXICO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
