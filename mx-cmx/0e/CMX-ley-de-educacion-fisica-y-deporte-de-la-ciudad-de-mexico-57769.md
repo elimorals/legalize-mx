@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-fisica-y-deporte-de-la-ciudad-de-mexico-57769"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-04"
-last_updated: "2019-12-09"
+last_updated: "2021-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57769&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-12"
 
 LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MARZO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de enero de 2008.
 
@@ -42,13 +42,9 @@ ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL IV LEGISLATURA.
 
 D E C R E T A
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
-
 DECRETO POR EL QUE SE EXPIDE LA LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL.
 
 Artículo Único.- Se expide la Ley de Educación Física y Deporte del Distrito Federal para quedar como sigue:
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL.
 
@@ -104,9 +100,11 @@ La Función Educativa del Deporte debe implicar además de la enseñanza de téc
 
 Son sujetos de la presente Ley los deportistas, educadores físicos, entrenadores deportivos, técnicos, los organismos deportivos de los sectores público, social y privado, equipos, clubes, asociaciones y ligas deportivas, jueces, árbitros y demás personas que por su naturaleza, condición o funciones sean susceptibles de integrarse al Sistema de Cultura Física y Deporte en esta Ciudad.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 6.
 
-Se reconoce el derecho de todo individuo al conocimiento, difusión y práctica del deporte sin distinción, exclusión o restricción basada en cualquier origen étnico, sexo, edad, discapacidad, condición social o económica, condiciones de salud, lengua, opiniones, preferencias sexuales, estado civil, militancia o creencia religiosa.
+Se reconoce el derecho de todas las personas al conocimiento, difusión y práctica del deporte, donde se prohíbe toda forma de discriminación, formal o de facto, que atente contra la dignidad humana o tenga por objeto o resultado la negación, exclusión, distinción, menoscabo, impedimento o restricción de los derechos de las personas, grupos y comunidades, motivada por origen étnico o nacional, apariencia física, color de piel, lengua, género, edad, discapacidades, condición social, situación migratoria, condiciones de salud, embarazo, religión, opiniones, preferencia sexual, orientación sexual, identidad de género, expresión de género, características sexuales, estado civil o cualquier otra. También se considerará discriminación la misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, islamofobia, así como la discriminación racial y otras formas conexas de intolerancia.
 
 ###### Artículo 7.
 
@@ -260,37 +258,51 @@ La constancia de inscripción se obtendrá, actualizará y revocará en los tér
 
 Los deportistas, agrupaciones, organismos deportivos y demás personas que tengan por objeto el desarrollo de actividades vinculadas con el deporte y que su fin no implique necesariamente la competencia deportiva, podrán inscribirse en el Registro del Deporte, siempre y cuando no tengan fines lucrativos.
 
-### CAPÍTULO TERCERO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE MARZO DE 2021)</small>
 
-DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL.
+### CAPÍTULO TERCERO. DEL INSTITUTO DEL DEPORTE DE LA CIUDAD DE MÉXICO
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 22.
 
-El Instituto del Deporte del Distrito Federal es un órgano descentralizado de la Administración Pública del Distrito Federal, con personalidad jurídica, patrimonio propio, autonomía técnica y de gestión para el cumplimiento de sus objetivos y atribuciones, teniendo a su cargo el cumplimiento de la presente Ley.
+El Instituto del Deporte de la Ciudad de México es un órgano descentralizado de la Administración Pública de la Ciudad de México, con personalidad jurídica, patrimonio propio, autonomía técnica y de gestión para el cumplimiento de sus objetivos y atribuciones, teniendo a su cargo el cumplimiento de la presente Ley.
 
-El Instituto del Deporte del Distrito Federal tiene su domicilio en el Distrito Federal, contando con una Junta de Gobierno y un Órgano de Control Interno.
+El Instituto del Deporte de la Ciudad de México contará con una Junta de Gobierno y un Órgano de Control Interno.
 
-> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 22 Bis.
 
-El Titular del Instituto del Deporte, será nombrado y removido libremente por el Jefe de Gobierno, debiendo cumplir con los siguientes requisitos:
+La persona titular del Instituto del Deporte, será nombrada y removida libremente por la Jefa o Jefe de Gobierno, debiendo cumplir con los siguientes requisitos:
 
-I. Ser mexicano en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-II. Ser mayor de 25 años al día de su designación;
+I. Ser ciudadana o ciudadano mexicano en pleno goce de sus derechos;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. Tener 25 años cumplidos, o más, al día de su designación;
+
+> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2013)</small>
 
 III. Tener reconocimiento y experiencia en materia deportiva; y
 
+> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2013)</small>
+
 IV. Gozar de probada honorabilidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 23.
 
-Las atribuciones del Instituto del Deporte del Distrito Federal son:
+Las atribuciones del Instituto del Deporte de la Ciudad de México son:
 
 I.- Proponer, formular y ejecutar coordinadamente políticas que fomenten y desarrollen la práctica del deporte y la recreación, enfatizando la atención en los sectores de la educación básica e instituciones de educación especial;
 
-II.- Establecer el procedimiento de coordinación en materia deportiva con los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II.- Establecer el procedimiento de coordinación en materia deportiva con los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales de la Ciudad de México;
 
 III.- En lo referente al deporte adaptado dará opinión, para que se efectúen las adecuaciones necesarias a la infraestructura deportiva, las cuales serán tomadas en cuenta en toda instalación deportiva que se construya y/o se remodele;
 
@@ -298,19 +310,29 @@ IV.- Promover la participación y conjunción de esfuerzos en materia deportiva 
 
 V.- Efectuar el Programa de Becas para los Deportistas sobresalientes, activos o retirados, así como, un Programa de Becas para los deportistas considerados como nuevos valores, otorgados por acuerdo del Consejo del Deporte del Distrito Federal;
 
-VI.- Gestionará ante las autoridades fiscales federales la deducibilidad de los donativos de las personas físicas o morales de los sectores social y privado destinados en favor del fomento del deporte en el Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-VII.- Formular y entregar el Programa del Deporte del Distrito Federal en el mes de octubre del año anterior a los Titulares de los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal, para su aplicación, debiendo llevar el seguimiento puntual del mismo;
+VI. Gestionará ante las autoridades fiscales federales la deducibilidad de los donativos de las personas físicas o morales de los sectores social y privado destinados en favor del fomento del deporte en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VII. Formular y entregar el Programa del Deporte de la Ciudad de México en el mes de octubre del año anterior a las y los Titulares de los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales de la Ciudad de México, para su aplicación, debiendo llevar el seguimiento puntual del mismo;
 
 VIII.- Propiciar la participación de los organismos deportivos y de los deportistas en la determinación y ejecución de las políticas;
 
 IX.- Formular programas tendientes a apoyar, promover y fomentar el deporte realizado por personas con necesidades especiales;
 
-X.- Coadyuvar en el fortalecimiento de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con el deporte, que redunden en el bienestar físico, intelectual y social de los habitantes del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-XI.- Determinar, conforme al Registro del Deporte del Distrito Federal, a los legítimos representantes del deporte en el Distrito Federal para las competencias nacionales e internacionales;
+X.- Coadyuvar en el fortalecimiento de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con el deporte, que redunden en el bienestar físico, intelectual y social de las y los habitantes de la Ciudad de México;
 
-XII.- Emitir opiniones en materia sanitaria y educativa, relacionada con la práctica del deporte en el Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XI.- Determinar, conforme al Registro del Deporte de la Ciudad de México, a las y los legítimos representantes del deporte en la Ciudad de México para las competencias nacionales e internacionales;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XII.- Emitir opiniones en materia sanitaria y educativa, relacionada con la práctica del deporte en la Ciudad de México;
 
 XIII.- Efectuar la difusión del deporte, a través de la Dirección de Comunicación Social del propio Instituto, en diversos medios de comunicación destacando los beneficios y valores del deporte, con la finalidad de propiciar la cultura del deporte en la sociedad;
 
@@ -320,23 +342,39 @@ XV.- Emitir recomendaciones y opiniones en materia de espectáculos deportivos;
 
 XVI.- Promover entre la sociedad, alternativas de financiamiento que permitan incrementar los recursos destinados al sector deportivo;
 
-XVII.- Otorgar reconocimientos y estímulos a deportistas, incluidos los deportistas con discapacidad, en las entidades u organismos públicos sociales y privados de los Órganos Político-Administrativos de las Demarcaciones Territoriales del Distrito Federal que se hayan distinguido en el deporte o en la difusión, promoción, fomento o investigación en materia deportiva;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XVII.- Otorgar reconocimientos y estímulos a deportistas, incluidos los deportistas con discapacidad, en las entidades u organismos públicos sociales y privados de los Órganos Político-Administrativos de las Demarcaciones Territoriales de la Ciudad de México que se hayan distinguido en el deporte o en la difusión, promoción, fomento o investigación en materia deportiva;
 
 > <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
 
 XVIII.- Efectuar verificaciones anuales a las instalaciones deportivas del Distrito Federal, a efecto de que se encuentren en óptimas condiciones de uso y mantenimiento; así como equipadas con todos y cada uno de los elementos materiales necesarios para la práctica de cada especialidad; y en su caso podrán vetar el uso de cualquier instalación que no cumpla con los requisitos de seguridad; Dicha verificación se reportará en un informe anual que detallará las condiciones de la infraestructura deportiva y que estará públicamente disponible en el portal de Internet del Instituto.
 
-XIX.- Deberá coordinar a los promotores deportivos quienes promoverán la participación activa, sistemática y planeada de los habitantes del Distrito Federal a la práctica, apoyo, estímulo y fomento del deporte, la actividad física y la recreación;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XIX.- Deberá coordinar a las y los promotores deportivos quienes promoverán la participación activa, sistemática y planeada de las y los habitantes de la Ciudad de México a la práctica, apoyo, estímulo y fomento del deporte, la actividad física y la recreación;
 
 XX.- Emitirá los certificados que acredite la condición de deportista de alto rendimiento, motivado de que dicha condición suponga para el deportista la obtención de beneficios inmediatos;
 
 XXI.- Realizar campañas para prevenir y combatir el uso de estimulantes, sustancias o métodos prohibidos y restringidos;
 
-XXII.- Contará en cada una de las demarcaciones territoriales con Unidades de Iniciación y Desarrollo del Deporte para niños desde los 5 años de edad, con especialistas para el desarrollo de habilidades deportivas, y posteriormente ingresen a Escuelas Técnicas de Desarrollo de Talentos Deportivos, para (sic) finalmente se incorporen a los Centros de Alto Rendimiento;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-XXIII. Otorgar el aval para la realización de eventos deportivos selectivos y recreativos que se lleven a cabo en el Distrito Federal, y
+XXII. Contará en cada una de las demarcaciones territoriales con Unidades de Iniciación y Desarrollo del Deporte para niñas y niños desde los 5 años de edad, con especialistas para el desarrollo de habilidades deportivas, y posteriormente ingresen a Escuelas Técnicas de Desarrollo de Talentos Deportivos, para finalmente se incorporen a los Centros de Alto Rendimiento;
 
-XXIV. Todas las demás que deriven del Sistema y Programas Nacionales del Deporte y de la operación y funcionamiento del Sistema; y en particular, las tendientes a dar seguimiento constante y puntual a los nuevos valores deportivos, estimulando su continuidad en la práctica de su deporte o actividad.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XXIII. Otorgar el aval para la realización de eventos deportivos selectivos y recreativos que se lleven a cabo en la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XXIV. Fomentar programas para dar atención y eliminar la discriminación en el deporte y la actividad física en la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XXV. Promover la participación de las mujeres en el deporte y la actividad física, así como crear e implementar protocolos para eliminar y erradicar la violencia hacia las mujeres en el deporte; y
+
+XXVI. Todas las demás que deriven del Sistema y Programas Nacionales del Deporte y de la operación y funcionamiento del Sistema; y en particular, las tendientes a dar seguimiento constante y puntual a los nuevos valores deportivos, estimulando su continuidad en la práctica de su deporte o actividad.
 
 ### CAPÍTULO CUARTO
 
@@ -488,13 +526,15 @@ El Premio al Mérito Deportivo que se entregará anualmente por el Jefe de Gobie
 
 DE LA PARTICIPACIÓN DE LAS ALCADÍAS EN EL SISTEMA DE CULTURA FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 31.
 
-Los Órganos Político-Administrativo de cada una de las Alcaldías de la Ciudad de México, tendrán las facultades siguientes:
+Los Órganos Político-Administrativos de cada una de las Alcaldías de la Ciudad de México, tendrán las facultades siguientes:
 
-I.- Promover y organizar en sus respectivas circunscripciones actividades y prácticas físico-deportivas;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+I.- Promover y organizar en sus respectivas circunscripciones actividades y prácticas físico-deportivas, como medio importante en la preservación de la salud, prevención de enfermedades, así como la prevención de las adicciones y el consumo de sustancias psicoactivas;
 
 II.- Constituir un Comité Delegacional del Deporte que estará conformado por los integrantes del Sistema de Cultura Física y Deporte, el cual contará con varias comisiones, entre ellas la de Vigilancia. El procedimiento de constitución y el número de Comisiones del Comité Delegacional quedará establecido en el Reglamento de esta Ley;
 
@@ -991,3 +1031,23 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto
+
+G.O. 2 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 31 DE LA LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL”.]
+
+PRIMERO: Remítase el presente decreto a la persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO: Todas las disposiciones legales que contravengan esta reforma, se entienden como derogadas.
+
+G.O. 2 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 6; 22; LA DENOMINACIÓN DEL CAPÍTULO TERCERO; LAS FRACCIONES I Y II DEL ARTÍCULO 22 BIS; SE ADICIONAN DOS FRACCIONES Y SE REFORMAN LAS FRACCIONES II, VI, VII, X, XI, XII, XVII, XIX, XXII, XXIII Y XXIV, QUE PASA A SER LA XXVI DEL ARTÍCULO 23, DE LA LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Remítase el presente Decreto a la persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- El Instituto del Deporte de la Ciudad tendrá 120 días hábiles para emitir los protocolos y hacer las adecuaciones correspondientes de la presente reforma.
