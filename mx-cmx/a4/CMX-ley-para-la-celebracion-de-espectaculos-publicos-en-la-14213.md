@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-celebracion-de-espectaculos-publicos-en-la-14213"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-13"
-last_updated: "2018-05-04"
+last_updated: "2021-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14213&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "1996-12-27"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL
+LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE MARZO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 13 de enero de 1997.
 
@@ -38,21 +38,25 @@ DECRETO
 
 "LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, DECRETA:
 
-LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE MARZO DE 2021)</small>
+
+LEY PARA LA CELEBRACION DE ESPECTACULOS PUBLICOS EN LA CIUDAD DE MEXICO
 
 ## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES, COMPETENCIA Y ESPECTÁCULOS PÚBLICOS EN GENERAL
 
 ### CAPÍTULO I. De las Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 1o.
 
-Las disposiciones de la presente Ley son de orden e interés públicos y tienen por objeto regular la celebración de Espectáculos públicos en el Distrito Federal.
+Las disposiciones de la presente Ley son de orden e interés públicos y tienen por objeto regular la celebración de Espectáculos públicos en la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 2o.
 
-La aplicación de este ordenamiento corresponde a la Secretaría de Gobierno, a la Secretaría de Educación, Salud, Desarrollo Social y Protección Civil, y a las Delegaciones del Distrito Federal, de conformidad con las atribuciones que el mismo les otorga.
+La aplicación de este ordenamiento corresponde a la Secretaría de Gobierno, a la Secretaría de Educación, Ciencia, Tecnología e Innovación, a la Secretaría de Salud, a la Secretaría de Inclusión y Bienestar Social, a la Secretaría de Gestión Integral de Riesgos y Protección Civil, y a las Alcaldías, de conformidad con las atribuciones que el mismo les otorga.
 
 ###### Artículo 3o.
 
@@ -62,13 +66,21 @@ El objeto de la presente Ley consiste en determinar reglas y mecanismos claros q
 
 Para efectos del presente ordenamiento y sin perjuicio de lo dispuesto por otros ordenamientos legales, se entenderá por:
 
-I. Administración: La Administración Pública del Distrito Federal, a través de las instancias responsables de la aplicación de la presente Ley, de conformidad con sus disposiciones;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-II. Autorización: El acto administrativo que emite la Delegación para que una persona física o moral pueda celebrar un Espectáculo público en la vía pública, de conformidad con los requisitos y prohibiciones que se señalan en la Ley;
+I. Administración: La Administración Pública de la Ciudad de México, a través de las instancias responsables de la aplicación de la presente Ley, de conformidad con sus disposiciones;
 
-III. Aviso: El acto por medio del cual las personas físicas o morales calificadas como titulares por la Ley para el Funcionamiento de Establecimientos Mercantiles en el Distrito Federal, notifican a la Delegación la celebración de algún evento en los establecimientos mercantiles que cuentan con licencia de funcionamiento para la presentación permanente de eventos artísticos, teatrales, culturales, musicales, deportivos, taurinos o cinematográficos, en locales con aforo para más de cien personas;
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
 
-IV. Delegaciones: A las Delegaciones del Distrito Federal;
+I Bis. Alcaldía: Los órganos político administrativo administrativos (sic) de cada una de las demarcaciones territoriales;
+
+II. (DEROGADA, G.O. 2 DE MARZO DE 2021)
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+III. Aviso: El acto por medio del cual las personas físicas o morales calificadas como titulares por la Ley de Establecimientos Mercantiles en el Distrito Federal, notifican a la Alcaldía la celebración de algún evento en los establecimientos mercantiles que cuentan con licencia de funcionamiento para la presentación permanente de eventos artísticos, teatrales, culturales, musicales, deportivos, taurinos o cinematográficos, en locales con aforo para más de 100 personas;
+
+IV. (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
 > <small>(ADICIONADA, G.O. 15 DE JULIO DE 2014)</small>
 
@@ -76,13 +88,15 @@ IV Bis. Espectáculo circense: La representación artística, con la participaci
 
 V. Espectáculo público: La representación, función, acto, evento o exhibición artística, musical, deportiva, taurina, cinematográfica, teatral o cultural, organizada por una persona física o moral, en cualquier lugar y tiempo y a la que se convoca al público con fines culturales, o de entretenimiento, diversión o recreación, en forma gratuita o mediante el pago de una contraprestación en dinero o especie;
 
-> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-V-bis. Espectáculo tradicional: Aquellas manifestaciones populares de contenido cultural que tengan connotación simbólica y/o arraigo en la sociedad y que contribuyan a preservar y difundir el patrimonio intangible que da identidad a los barrios, pueblos y colonias que conforman el Distrito Federal;
+V. Bis. Espectáculo tradicional: Aquellas manifestaciones populares de contenido cultural que tengan connotación simbólica y/o arraigo en la sociedad y que contribuyan a preservar y difundir el patrimonio intangible que da identidad a los barrios, pueblos y colonias que conforman la Ciudad de México;
 
 VI. Espectador: Los asistentes a los Espectáculos públicos;
 
-VII. Establecimientos mercantiles: El inmueble en el que una persona física o moral desarrolla actividades relativas a la intermediación, compraventa, alquiler o prestación de bienes o servicios en forma permanente, de conformidad con la Ley para el Funcionamiento de Establecimientos Mercantiles en el Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VII. Establecimientos mercantiles: El inmueble en el que una persona física o moral desarrolla actividades relativas a la intermediación, compraventa, alquiler o prestación de bienes o servicios en forma permanente, de conformidad con la Ley de Establecimientos Mercantiles vigente en la Ciudad de México;
 
 VIII. Participante: El actor, artista, músico, cantante, deportista o ejecutante taurino y, en general, todos aquellos que participen en un Espectáculo público, ante los espectadores.
 
@@ -90,9 +104,13 @@ VIII. Participante: El actor, artista, músico, cantante, deportista o ejecutant
 
 En el caso de los ejecutantes taurinos, sólo se considerará como actuante nacional o extranjero el anunciado en el cartel programado por evento, excluyendo de estos términos a cuadrillas de picadores, banderilleros, puntilleros y subalternos;
 
-IX. Ley: La presente Ley para la Celebración de Espectáculos Públicos en el Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-X. Permiso: El acto administrativo que emite la Delegación, para que una persona física o moral pueda celebrar un Espectáculo público en un lugar que no cuente con licencia de funcionamiento para esos efectos;
+IX. Ley: La presente Ley para la Celebración de Espectáculos Públicos aplicable en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+X. Permiso: El acto administrativo que emite la Alcaldía, para que una persona física o moral pueda celebrar un Espectáculo público en un lugar que no cuente con licencia de funcionamiento para esos efectos;
 
 XI. Secretaría: La Secretaría de Gobierno de la Administración;
 
@@ -100,11 +118,17 @@ XII. (DEROGADA, G.O. 26 DE ENERO DE 2009)
 
 XIII. Servicio complementario: La actividad o actividades que por ser compatibles, relacionadas o vinculadas con el Espectáculo público, se autoriza a desarrollar, con el objeto de prestar un servicio integral;
 
-XIV. Titulares: Las personas físicas o morales que obtengan permiso de las Delegaciones y las que presenten avisos de celebración de Espectáculos públicos en los términos de esta Ley, así como aquellas que con el carácter de dependiente, encargado, gerente, administrador, representante u otro similar, sean responsables de la celebración de algún Espectáculo público;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-XV. Ventanilla de gestión: Las ventanillas únicas de gestión de la Administración, instaladas en las sedes de los organismos empresariales, y
+XIV. Titulares: Las personas físicas o morales que obtengan permiso de las Alcaldías y las que presenten avisos de celebración de Espectáculos públicos en los términos de esta Ley, así como aquellas que, con el carácter de dependiente, encargado, gerente, administrador, representante u otro similar, sean responsables de la celebración de algún Espectáculo público;
 
-XVI. Ventanilla única: Las ventanillas únicas instaladas en las Delegaciones.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XV. Ventanilla de gestión: Las ventanillas únicas de gestión de la Administración, instaladas en las sedes de los organismos empresariales;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XVI. Ventanilla única: Las ventanillas únicas instaladas en las Alcaldías; y
 
 > <small>(ADICIONADA, G.O. 2 DE NOVIEMBRE DE 2017)</small>
 
@@ -114,11 +138,9 @@ XVII. Servicios médicos, es la actividad de carácter obligatoria a cargo de qu
 
 Los sujetos de la Ley son los Titulares, quienes están obligados a observar y cumplir las disposiciones de la misma, así como a vigilar que sus empleados acaten lo señalado en sus preceptos.
 
-> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-###### Artículo 5o
-
-bis.- Cuando en los procedimientos que establece esta Ley, obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal. Para lo conducente deberá observarse lo establecido en la Ley de Protección a los Datos Personales.
+Artículo 5 BIS.- Cuando en los procedimientos que establece esta Ley, obren pruebas obtenidas por la Secretaría de Seguridad Ciudadana de la Ciudad de México con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública vigente en la Ciudad de México. Para lo conducente deberá observarse lo establecido en la Ley de Protección a los (sic) Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México.
 
 ### CAPÍTULO II. De la Competencia
 
@@ -126,39 +148,51 @@ bis.- Cuando en los procedimientos que establece esta Ley, obren pruebas obtenid
 
 Corresponde a la Secretaría:
 
-I. Coordinar, supervisar y evaluar el cumplimiento de las facultades conferidas a las Delegaciones en la Ley;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-II. Instruir a las Delegaciones que lleven a cabo visitas de verificación en los términos de la Ley de Procedimiento Administrativo del Distrito Federal y su Reglamento;
+I. Coordinar, supervisar y evaluar el cumplimiento de las facultades conferidas a las Alcaldías en la Ley;
 
-III. Expedir acuerdos y circulares en los que se consignen lineamientos y criterios aplicables a la celebración de Espectáculos públicos en el Distrito Federal, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal, y
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. Instruir a las Alcaldías que lleven a cabo visitas de verificación en los términos de la Ley de Procedimiento Administrativo de la Ciudad de México y su Reglamento;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+III. Expedir acuerdos y circulares en los que se consignen lineamientos y criterios aplicables a la celebración de Espectáculos públicos en la Ciudad de México, en los términos de la Ley de Procedimiento Administrativo de la Ciudad de México; y
 
 IV. Las demás que le confiera la Ley y otras disposiciones aplicables.
 
-> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
-###### Artículo 6o
+Artículo 6 BIS.- Corresponde a la Secretaría de Gestión Integral de Riesgos y Protección Civil:
 
-bis.- Corresponde a la Secretaría de Protección Civil, siempre y cuando el espectáculo público sea mayor a quinientas personas:
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-I. Vigilar el cumplimiento de las disposiciones en materia de Protección Civil;
+I. Vigilar el cumplimiento de las disposiciones en materia de Gestión Integral de Riesgos y Protección Civil;
 
-II. Instruir a sus verificadores administrativos para que lleven a cabo visitas y verificaciones en la materia de protección civil, de conformidad con la Ley, la Ley de Procedimiento Administrativo del Distrito Federal y su Reglamento;
+II. (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
-III. Aplicar las medidas de seguridad a que se refiere esta Ley;
+III. (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
-IV. Aplicar las sanciones previstas en esta Ley y en sus disposiciones reglamentarias, y
+IV. (DEROGADA, G.O. 2 DE MARZO DE 2021)
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
 
 V. Las demás que le señale la Ley, su Reglamento y otras disposiciones aplicables.
 
-###### Artículo 7o.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
-Corresponde a la Secretaría de Educación:
+###### Artículo 7.
+
+Corresponde a la Secretaría de Educación, Ciencia, Tecnología e Innovación:
 
 I. Fomentar la realización de Espectáculos públicos de calidad, que tiendan al desarrollo de la cultura, la preservación de las tradiciones, el reconocimiento de la identidad local y nacional, así como la preservación de los valores humanos;
 
 II. Establecer bases de coordinación con instituciones públicas y privadas, orientadas a la realización de Espectáculos públicos tendentes a fomentar la cultura, el deporte y el esparcimiento entre la población;
 
-III. Poner en marcha, de acuerdo con sus destinatarios, programas tendentes a la realización de Espectáculos públicos culturales, artísticos, recreativos y deportivos, en colonias, barrios populares, unidades habitacionales y pueblos, en coordinación con las Delegaciones y con la población beneficiaria;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+III. Poner en marcha, de acuerdo con sus destinatarios, programas tendentes a la realización de Espectáculos públicos culturales, artísticos, recreativos y deportivos, en colonias, barrios populares, unidades habitacionales y pueblos, en coordinación con las Alcaldías y con la población beneficiaria;
 
 IV. Fomentar la integración de las Comisiones de Espectáculos Públicos;
 
@@ -166,21 +200,23 @@ V. Vigilar el funcionamiento de las Comisiones de Espectáculos Públicos a que 
 
 VI. Las demás que le confiere la Ley y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
-###### Artículo 8o.
+###### Artículo 8.
 
-Son atribuciones de las Delegaciones:
+Son atribuciones de las Alcaldías:
 
 I. Expedir y revocar de oficio los Permisos y Autorizaciones para la celebración de Espectáculos públicos;
 
 II. Autorizar los horarios y sus cambios, para la celebración de Espectáculos públicos;
 
-III. Registrar los Avisos a que se refiere esta Ley y la Ley para el Funcionamiento de Establecimientos Mercantiles en el Distrito Federal, en la parte conducente;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2011)</small>
+III. Registrar los Avisos a que se refiere esta Ley y la Ley de Establecimientos Mercantiles vigente en la Ciudad de México, en la parte conducente;
 
-IV. Instruir a los verificadores facultados de vigilar el cumplimiento de esta Ley, de conformidad con la Ley de Procedimiento Administrativo del Distrito Federal, la Ley del Instituto de Verificación Administrativa del Distrito Federal, y sus Reglamentos.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IV. Instruir a los verificadores facultados de vigilar el cumplimiento de esta Ley, de conformidad con la Ley de Procedimiento Administrativo, la Ley del Instituto de Verificación Administrativa y sus Reglamentos vigentes en la Ciudad de México.
 
 V. Aplicar las medidas de seguridad a que se refiere esta Ley;
 
@@ -188,9 +224,9 @@ V. Aplicar las medidas de seguridad a que se refiere esta Ley;
 
 VI. Aplicar las sanciones previstas en esta Ley y en sus disposiciones reglamentarias;
 
-> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-VII. Notificar a la Secretaría de Protección Civil sobre la realización de un espectáculo público con aforo mayor a quinientas personas, y
+VII. Notificar a la Secretaría de Gestión Integral de Riesgos y Protección Civil sobre la realización de un espectáculo público con aforo mayor a diez mil personas, y
 
 > <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -206,15 +242,19 @@ II. Registro de avisos, y
 
 III. Las demás que establezca la Ley.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 10.
 
-La Ventanilla de gestión deberá informar y remitir diariamente a la Delegación, vía la Ventanilla única, la documentación que reciba sobre los trámites materia de sus facultades.
+La Ventanilla de gestión deberá informar y remitir diariamente a la Alcaldía, vía la Ventanilla única, la documentación que reciba sobre los trámites materia de sus facultades.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 11.
 
-Las Ventanillas única y la de gestión proporcionarán gratuitamente a los interesados la solicitud de expedición de permiso y el formato de aviso.
+Las Ventanillas única y la de gestión proporcionarán gratuitamente a las personas interesadas la solicitud de expedición de permiso y el formato de aviso.
 
-La solicitud y el formato deberán ser los que determine la Administración y su contenido será lo suficientemente claro para su fácil llenado. La Delegación, a través de la Ventanilla única estará obligada a brindar la asesoría y orientación que al respecto solicite el interesado.
+La solicitud y el formato deberán ser los que determine la Administración y su contenido será lo suficientemente claro para su fácil llenado. La Alcaldía, a través de la Ventanilla única estará obligada a brindar la asesoría y orientación que al respecto solicite el interesado.
 
 ### CAPÍTULO III. De los Espectáculos Públicos en General
 
@@ -224,19 +264,31 @@ La solicitud y el formato deberán ser los que determine la Administración y su
 
 Son obligaciones de los Titulares, cualesquiera que sea el lugar en que se celebre algún espectáculo público:
 
-I. Previo a la celebración de cualquier Espectáculo público, obtener el permiso de la Delegación o presentar el aviso de su realización, según sea el caso;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+I. a I. (SIC) Previo a la celebración de cualquier Espectáculo público, obtener el permiso de la Alcaldía o presentar el aviso de su realización, según sea el caso;
 
 II. Vigilar que el Espectáculo público se desarrolle de conformidad con el aviso presentado o el permiso otorgado;
 
-III. Tener a la vista durante la celebración del Espectáculo público, el aviso presentado o el permiso que la Delegación haya expedido;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-IV. En los casos de presentación de avisos, remitir a la Delegación con cinco días hábiles de anticipación, el programa del Espectáculo público que pretendan presentar, indicando los Participantes, fechas y horarios en que se pretenda llevar a cabo;
+III. Tener a la vista durante la celebración del Espectáculo público, el aviso presentado o el permiso que la Alcaldía haya expedido;
 
-V. Notificar a la Delegación y al público con un mínimo de tres días hábiles de anticipación, los cambios al programa del Espectáculo público que presenten, por los mismos medios que hayan utilizado para su notificación y difusión;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-VI. Respetar los horarios autorizados por la Delegación para la presentación del Espectáculo público de que se trate;
+IV. En los casos de presentación de avisos, remitir a la Alcaldía con cinco días hábiles de anticipación, el programa del Espectáculo público que pretendan presentar, indicando los participantes, fechas y horarios en que se pretenda llevar a cabo;
 
-VII. Cuando se requiera, contar con la autorización de la Delegación correspondiente para expender bebidas alcohólicas en envase abierto o al copeo, en los términos de la Ley para el Funcionamiento de Establecimientos Mercantiles en el Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+V. Notificar a la Alcaldía y al público con un mínimo de tres días hábiles de anticipación, los cambios al programa del espectáculo público que presenten, por los mismos medios que hayan utilizado para su notificación y difusión;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VI. Respetar los horarios autorizados por la Alcaldía para la presentación del Espectáculo público de que se trate;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VII. Cuando se requiera, contar con la autorización de la Alcaldía correspondiente para expender bebidas alcohólicas en envase abierto o al copeo, en los términos de la Ley de Establecimientos Mercantiles vigente en la Ciudad de México;
 
 VIII. Contar con los servicios necesarios para garantizar el orden y seguridad públicos y la integridad de los Participantes y Espectadores, durante la realización del Espectáculo público a celebrar;
 
@@ -262,13 +314,15 @@ XV. Dar aviso a las autoridades competentes, cuando detecten la comisión de alg
 
 XVI. Vigilar que durante la celebración del Espectáculo público se conserve el orden y seguridad de los asistentes y de los empleados del Establecimiento mercantil o del lugar en el que se presente, así como coadyuvar a que con su realización no se altere el orden público en las zonas vecinas al mismo;
 
-XVII. Contar con el Programa Especial de Protección Civil a que alude la Ley de Protección Civil para el Distrito Federal y su Reglamento, cuando éste se requiera para la celebración del Espectáculo público de que se trate;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-> <small>(ADICIONADA, G.O. 10 DE DICIEMBRE DE 2008)</small>
+XVII. Contar con el Programa Especial de Protección Civil a que alude la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México y su Reglamento, cuando éste se requiera para la celebración del espectáculo público de que se trate;
 
-XVII Bis. Informar al espectador de manera escrita, visual y/o sonora al inicio de la celebración de cada Espectáculo Público, cualquiera que sea su giro, sobre las medidas de seguridad en materia de protección civil con las que cuenta el establecimiento mercantil o el lugar en el que se desarrolla, así como avisar sobre la señalización de salidas de emergencia, las zonas de seguridad y los procedimientos a seguir en caso de que ocurra una emergencia, siniestro o desastre.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-Se deberán tomar las medidas específicas que establece la Ley de Protección Civil para el Distrito Federal, tratándose de personas con discapacidad y de la tercera edad;
+XVII BIS. Informar al espectador de manera escrita, visual y/o sonora al inicio de la celebración de cada espectáculo público, cualquiera que sea su giro, sobre las medidas de seguridad en materia de gestión integral de riesgos y protección civil con las que cuenta el establecimiento mercantil o el lugar en el que se desarrolla, así como avisar sobre la señalización de salidas de emergencia, las zonas de menor riesgo y los procedimientos a seguir en caso de que ocurra una emergencia o desastre.
+
+Se deberán tomar las medidas específicas que establece la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad México, tratándose de personas con discapacidad y personas adultas mayores.
 
 XVIII. Cumplir con los requerimientos y obligaciones que señalen los Reglamentos correspondientes para el Espectáculo público de que se trate;
 
@@ -282,11 +336,15 @@ XXI. Contar con camerino y botiquín equipado con las medicinas y utensilios nec
 
 XXII. Respetar el aforo autorizado en los permisos o el manifestado en los avisos, de acuerdo con la capacidad física del local;
 
-XXIII. En caso de vencimiento o revocación del permiso, retirar por su propia cuenta las instalaciones, gradas, carpas o cualquier otro tipo de enseres ocupados para la presentación del Espectáculo público de que se trate. Frente a los casos de incumplimiento la Delegación retirará los que ocupen la vía pública, corriendo a cargo de los particulares los gastos de ejecución de los trabajos, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XXIII. En caso de vencimiento o revocación del permiso, retirar por su propia cuenta las instalaciones, gradas, carpas o cualquier otro tipo de enseres ocupados para la presentación del espectáculo público de que se trate. Frente a los casos de incumplimiento la Alcaldía retirará los que ocupen la vía pública, corriendo a cargo de los particulares los gastos de ejecución de los trabajos, en los términos de la Ley de Procedimiento Administrativo de la Ciudad de México;
 
 XXIV. Permitir la entrada al Espectáculo público de que se trate a toda persona que lo solicite sin discriminación alguna, salvo los casos de personas en evidente estado de ebriedad, bajo el influjo de estupefacientes o que porten armas, siempre y cuando se respete el aforo autorizado, poniendo a la disposición de los Espectadores la totalidad de las localidades, butacas, asientos y similares con que cuente el establecimiento mercantil o el lugar autorizado por el permiso respectivo;
 
-XXV. Poner a disposición de las personas de la tercera edad y personas con alguna discapacidad, localidades a precios populares, en los términos que establezca el Reglamento correspondiente, y
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XXV. Poner a disposición de las personas adultas mayores y personas con discapacidad, localidades a precios populares, en los términos que establezca el Reglamento correspondiente, y
 
 XXVI. Las demás que se establezcan en la Ley y otras disposiciones aplicables.
 
@@ -294,9 +352,11 @@ XXVI. Las demás que se establezcan en la Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 13.
 
-Para los efectos de lo dispuesto en la Ley, los Espectáculos públicos que se celebren en el Distrito Federal, se clasifican en los siguientes tipos:
+Para los efectos de lo dispuesto en la Ley, los Espectáculos públicos que se celebren en la Ciudad de México, se clasifican en los siguientes tipos:
 
 I. Espectáculos deportivos;
 
@@ -330,7 +390,9 @@ Cuando la Administración deba realizar gastos de ejecución que tengan por obje
 
 En el interior de los lugares donde se celebren Espectáculos públicos, podrán prestarse como servicios complementarios la venta de alimentos preparados, bebidas no alcohólicas, dulces y artículos de tabaquería y promocionales, siempre y cuando cuenten con el permiso respectivo.
 
-La venta de cualquier tipo de bebida alcohólica requerirá de autorización por escrito de la Delegación respectiva, dicha autorización deberá ser colocada a la vista en el interior del local.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+La venta de cualquier tipo de bebida alcohólica requerirá de autorización por escrito de la Alcaldía respectiva, dicha autorización deberá ser colocada a la vista en el interior del local.
 
 ###### Artículo 16.
 
@@ -340,17 +402,21 @@ Los cambios en los programas de los Espectáculos públicos sólo podrán efectu
 
 Cuando un Espectáculo público que cuente con permiso o haya sido notificado a la Delegación sea suspendido antes de su inicio, los Titulares deberán hacer la devolución del importe que hayan pagado los Espectadores por el acceso al mismo dentro de un plazo de 48 horas.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 18.
 
-Cuando un Espectáculo público que haya sido notificado a la Delegación o cuente con permiso para su realización sea suspendido una vez iniciado por poner en peligro la seguridad u orden públicos o la integridad y salud de los Espectadores, la Delegación resolverá dentro de las siguientes 48 horas lo conducente respecto de la devolución del importe de los boletos de acceso.
+Cuando un Espectáculo público que haya sido notificado a la Alcaldía o cuente con permiso para su realización sea suspendido una vez iniciado por poner en peligro la seguridad u orden públicos o la integridad y salud de los Espectadores, la Delegación resolverá dentro de las siguientes 48 horas lo conducente respecto de la devolución del importe de los boletos de acceso.
 
-La Delegación podrá ordenar, en los casos en que sea factible, la devolución al público que lo solicite, de los importes que hayan pagado por el acceso.
+La Alcaldía podrá ordenar, en los casos en que sea factible, la devolución al público que lo solicite, de los importes que hayan pagado por el acceso.
 
 ### CAPÍTULO II. De los Avisos
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 19.
 
-La realización de Espectáculos públicos en el Distrito Federal sólo requerirá de presentación de un aviso a la Delegación que corresponda, cuando se celebre en el interior de los establecimientos mercantiles que cuenten con licencia de funcionamiento para esos efectos, en los términos de la Ley para el Funcionamiento de Establecimientos Mercantiles en el Distrito Federal, en cuyo caso se deberá sujetar a lo previsto en el artículo siguiente.
+La realización de Espectáculos públicos en la Ciudad de México sólo requerirá de presentación de un aviso a la Alcaldía que corresponda, cuando se celebre en el interior de los establecimientos mercantiles que cuenten con licencia de funcionamiento para esos efectos, en los términos de la Ley de Establecimientos Mercantiles vigente en la Ciudad de México, en cuyo caso se deberá sujetar a lo previsto en el artículo siguiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JULIO DE 2014)</small>
 
@@ -372,7 +438,9 @@ VI. Tipo de eventos, aforo y giros principal y complementarios, autorizados en l
 
 VII. Tratándose de Espectáculos teatrales y musicales, en su caso, los datos de la autorización de la sociedad de autores o compositores que corresponda o del propio Titular, para los efectos de los derechos de autor, y
 
-VIII. La manifestación bajo protesta de decir verdad, en el sentido de que cumplen además de lo ordenado por la Ley, con lo dispuesto por la Ley de Salud para el Distrito Federal y sus disposiciones reglamentarias, la Ley de Protección Civil del Distrito Federal y su reglamento, el Reglamento de Construcciones para el Distrito Federal, la normatividad en materia de protección al ambiente y conservación ecológica y las demás disposiciones que resulten aplicables, y con las demás obligaciones y autorizaciones que les impongan o requieran las dependencias de la Administración y de la Administración Pública Federal, cuando la naturaleza y clase del Espectáculo público de que se trate así lo requiera.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VIII. La manifestación bajo protesta de decir verdad, en el sentido de que cumplen además de lo ordenado por la Ley, con lo dispuesto por la Ley de Salud para el Distrito Federal y sus disposiciones reglamentarias, la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México y su reglamento, el Reglamento de Construcciones para el Distrito Federal,, todos vigentes en la Ciudad de México, así como la normatividad en materia de protección al ambiente y conservación ecológica y las demás disposiciones que resulten aplicables, y con las demás obligaciones y autorizaciones que les impongan o requieran las dependencias de la Administración y de la Administración Pública Federal, cuando la naturaleza y clase del Espectáculo público de que se trate así lo requiera;
 
 > <small>(ADICIONADA, G.O. 15 DE JULIO DE 2014)</small>
 
@@ -392,11 +460,11 @@ IV. El precio de las localidades que se expenderán, y
 
 V. El aforo autorizado.
 
-> <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 22.
 
-La Delegación no podrá requerir que se anexe ningún documento adicional al señalado en el artículo anterior, con motivo de la presentación del aviso para la presentación de Espectáculos públicos, pero se reserva el derecho de realizar las visitas de verificaciones administrativas que crea convenientes para constatar la veracidad de lo manifestado por el interesado, sin perjuicio de la atribución que en materia de verificación se confiere a la Secretaría de Protección Civil.
+La Alcaldía no podrá requerir que se anexe algún documento adicional al señalado en el artículo anterior, con motivo de la presentación del aviso para la presentación de Espectáculos públicos, pero se reserva el derecho de realizar las visitas de verificaciones administrativas que crea convenientes para constatar la veracidad de lo manifestado por la persona interesada.
 
 ###### Artículo 23.
 
@@ -404,17 +472,23 @@ El aviso para la presentación de Espectáculos públicos se presentará por dup
 
 ### CAPÍTULO III. De los Permisos
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 24.
 
-La presentación de Espectáculos públicos en el Distrito Federal en lugares que no cuenten con licencia de funcionamiento para esos efectos, requerirá del permiso que otorgue la Delegación, de conformidad con lo previsto en la Ley.
+La presentación de Espectáculos públicos en la Ciudad de México en lugares que no cuenten con licencia de funcionamiento para esos efectos, requerirá del permiso que otorgue la Alcaldía, de conformidad con lo previsto en la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 25.
 
-Los interesados en obtener los permisos para la celebración de Espectáculos públicos en lugares que no cuenten con licencia de funcionamiento para esos efectos, deberán presentar la solicitud correspondiente ante las Ventanillas única o la de gestión, con diez días hábiles de anticipación a la presentación del evento de que se trate, excepto en los casos de Espectáculos masivos, que deberá ser con quince días hábiles de anticipación, con los siguientes datos y documentos:
+Las personas interesadas en obtener los permisos para la celebración de Espectáculos públicos en lugares que no cuenten con licencia de funcionamiento para estos efectos deberán presentar la solicitud correspondiente ante las Ventanilla única o de gestión, con quince días hábiles de anticipación a la presentación del evento de que se trate, excepto en los casos de espectáculos masivos, que deberán ser con veinte días hábiles de anticipación, con los siguientes datos y documentos:
 
 I. Nombre, domicilio para oír y recibir notificaciones, Registro Federal de Contribuyentes y nacionalidad y, en su caso, la solicitud de inscripción al padrón del impuesto sobre nóminas;
 
-II. Nombre de las personas autorizadas para oír y recibir notificaciones, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. Nombre de las personas autorizadas para oír y recibir notificaciones, en los términos de la Ley de Procedimiento Administrativo de la Ciudad de México;
 
 III. Si el solicitante es extranjero deberá presentar la autorización expedida por la Secretaría de Gobernación, por la que se le permita llevar a cabo la actividad de que se trate;
 
@@ -442,7 +516,9 @@ VIII. Constancia de zonificación de uso del suelo, o licencia de uso del suelo 
 
 IX. Visto Bueno de Seguridad y Operación expedido por un Director Responsable de Obra, en su caso;
 
-X. Responsiva de un Corresponsable en Seguridad Estructural, en los términos del Reglamento de Construcciones para el Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+X. Responsiva de un Corresponsable en Seguridad Estructural, en los términos del Reglamento de Construcciones vigente en la Ciudad de México;
 
 XI. El documento que acredite el vínculo legal entre el Titular y los Participantes, respecto de la presentación del Espectáculo público de que se trate;
 
@@ -456,35 +532,47 @@ XIV. Autorización de la asociación o sociedad de autores o compositores que co
 
 XIV BIS.- La manifestación bajo protesta de decir verdad de que durante la celebración del espectáculo circense no se presentarán animales.
 
-XV. La manifestación bajo protesta de decir verdad, en el sentido de que cumplen además de lo ordenado por el presente ordenamiento, con lo dispuesto por la Ley de Salud para el Distrito Federal, la Ley de Protección Civil del Distrito Federal, y su Reglamento, la Ley para las Personas con Discapacidad del Distrito Federal, el Reglamento de Construcciones para el Distrito Federal, la normatividad en materia de protección al ambiente y conservación ecológica, de derechos de autor y de intérprete, en su caso, y los demás ordenamientos que resulten aplicables con motivo de la celebración del Espectáculo público.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
+XV. La manifestación bajo protesta de decir verdad, en el sentido de que cumplen además de lo ordenado por el presente ordenamiento, con lo dispuesto por la Ley de Salud para el Distrito Federal, la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México y su Reglamento, la Ley de Atención Prioritaria para las Personas con Discapacidad y en situación de vulnerabilidad en la Ciudad de México, el Reglamento de Construcciones para el Distrito Federal, la normatividad en materia de protección al ambiente y conservación ecológica, de derechos de autor y de intérprete, en su caso, y los demás ordenamientos que resulten aplicables con motivo de la celebración del espectáculo público.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 26.
 
-Recibida la solicitud, acompañada de todos los datos y documentos y cumplidos los requisitos a que se refiere el artículo anterior, la Delegación en un plazo máximo de cinco días hábiles y, previo pago de los derechos que establezca el Código Fiscal del Distrito Federal, deberá expedir el permiso correspondiente, o negarlo si resulta improcedente.
+Recibida la solicitud, acompañada de todos los datos y documentos y cumplidos los requisitos a que se refiere el artículo anterior, la Alcaldía en un plazo máximo de cinco días hábiles y, previo pago de los derechos que establezca el Código Fiscal de la Ciudad de México, deberá expedir el permiso correspondiente, o negarlo si resulta improcedente.
 
-La Delegación podrá dentro del plazo señalado, realizar visitas de verificación administrativa o cotejos documentales para verificar que las manifestaciones y documentos requeridos son verídicos, de conformidad con lo que establezca la Ley de Procedimiento Administrativo del Distrito Federal y sus disposiciones reglamentarias.
+La Alcaldía podrá dentro del plazo señalado, realizar visitas de verificación administrativa o cotejos documentales para verificar que las manifestaciones y documentos requeridos son verídicos, de conformidad con lo que establezca la Ley de Procedimiento Administrativo de la Ciudad de México, así como la Ley de Gestión Integral de Riesgos y Protección Civil y sus disposiciones reglamentarias.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 27.
 
-En caso de que transcurrido el plazo a que se refiere el artículo anterior no exista respuesta de la autoridad competente, se entenderá que la solicitud ha sido aprobada en los términos de la Ley de Procedimiento Administrativo del Distrito Federal.
+En caso de que transcurrido el plazo a que se refiere el artículo anterior no exista respuesta de la autoridad competente, se entenderá que la solicitud ha sido aprobada en los términos de la Ley de Procedimiento Administrativo de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 28.
 
-Cuando a la solicitud no se acompañen todos los documentos, no se satisfagan los requisitos a que se refiere esta Ley, o en la visita que se efectúe se acredite que no se cumplen las condiciones manifestadas en la solicitud respectiva, la Delegación deberá proceder a prevenir por escrito y por una sola vez al interesado, para que subsane la irregularidad o, en su caso, a abrir un período de pruebas en el que el solicitante pueda ofrecer las que estime pertinentes para desvirtuar los hechos, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal.
+Cuando a la solicitud no se acompañen todos los documentos, no se satisfagan los requisitos a que se refiere esta Ley, así como de la Ley de Gestión Integral de Riesgos y Protección Civil, o en la visita que se efectúe se acredite que no se cumplen las condiciones manifestadas en la solicitud respectiva, la Alcaldía deberá proceder a prevenir por escrito y por una sola vez al interesado, para que subsane la irregularidad o, en su caso, a abrir un período de pruebas en el que el solicitante pueda ofrecer las que estime pertinentes para desvirtuar los hechos, en los términos de la Ley de Procedimiento Administrativo de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 29.
 
-Los permisos para la celebración de Espectáculos públicos no podrán exceder de 180 días naturales y serán improrrogables y, en consecuencia, no les aplicará lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal, para la revalidación de licencias, permisos y autorizaciones, sino que en todo caso se deberá tramitar uno nuevo.
+Los permisos para la celebración de Espectáculos públicos no podrán exceder de 180 días naturales y serán improrrogables y, en consecuencia, no les aplicará lo dispuesto por la Ley de Procedimiento Administrativo de la Ciudad de México, para la revalidación de licencias, permisos y autorizaciones, sino que en todo caso se deberá tramitar uno nuevo
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 30.
 
-Los permisos que se hayan otorgado conforme a la Ley dejarán de surtir efecto cuando el Titular no presente el Espectáculo público en la fecha autorizada por la Delegación o notificada a ésta en el programa respectivo, en cuyo caso se seguirá el procedimiento de revocación de oficio a que se refiere la Ley, para su cancelación definitiva.
+Los permisos que se hayan otorgado conforme a la Ley dejarán de surtir efecto cuando el Titular no presente el Espectáculo público en la fecha autorizada por la Alcaldía o notificada a ésta en el programa respectivo, en cuyo caso se seguirá el procedimiento de revocación de oficio a que se refiere la Ley, para su cancelación definitiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 31.
 
-Previo a la expedición de cualquier permiso, las Delegaciones deberán disponer lo necesario, a efecto de que se cumpla estrictamente con las siguientes disposiciones:
+Previo a la expedición de cualquier permiso, las Alcaldías deberán disponer lo necesario, a efecto de que se cumpla estrictamente con las siguientes disposiciones:
 
 I. Que las instalaciones y condiciones del lugar en donde se pretenda celebrar el Espectáculo público tengan acceso directo a la vía pública, espacios abiertos, salidas y escaleras de emergencia y, en general, todas las instalaciones necesarias para garantizar la seguridad y la rápida evacuación de los Espectadores en caso de emergencia;
 
@@ -496,9 +584,11 @@ IV. Que los Titulares cuenten con los elementos necesarios para garantizar que d
 
 V. Que se cuente con espacio suficiente para estacionamiento.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 32.
 
-Cuando las Delegaciones autoricen la venta de cualquier tipo de bebida alcohólica, lo deberá hacer constar en el permiso correspondiente. Asimismo, deberá quedar consignada la forma en que se garantizó el cumplimiento a lo dispuesto por el artículo anterior.
+Cuando las Alcaldías autoricen la venta de cualquier tipo de bebida alcohólica, lo deberá hacer constar en el permiso correspondiente. Asimismo, deberá quedar consignada la forma en que se garantizó el cumplimiento a lo dispuesto por el artículo anterior.
 
 ### CAPÍTULO IV. De la Venta de Boletos
 
@@ -506,15 +596,21 @@ Cuando las Delegaciones autoricen la venta de cualquier tipo de bebida alcohóli
 
 Los Titulares deberán poner a disposición de los interesados los boletos de acceso al Espectáculo público de que se trate el día de su celebración, en las taquillas del local en que se lleve a cabo. En ningún caso podrán los titulares poner a la venta boletos que excedan la capacidad física del local de que se trate.
 
-Asimismo, podrán expenderse en locales diferentes a la taquilla, los cuales podrán ser operados por personas físicas o morales diferentes al Titular del Permiso; siempre y cuando se celebre y registre ante la Delegación el convenio en el que se especifique la forma y términos en que se llevará a cabo esta actividad, y se haga constar la obligación de expedir un comprobante de la operación realizada, a cargo de la persona autorizada para la venta de boletos bajo esa modalidad.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Asimismo, podrán expenderse en locales diferentes a la taquilla, los cuales podrán ser operados por personas físicas o morales diferentes al Titular del Permiso; siempre y cuando se celebre y registre ante la Alcaldía el convenio en el que se especifique la forma y términos en que se llevará a cabo esta actividad, y se haga constar la obligación de expedir un comprobante de la operación realizada, a cargo de la persona autorizada para la venta de boletos bajo esa modalidad.
 
 Queda prohibida la venta de boletos en la vía pública y alterar el precio en el que se ofrezcan en la taquilla. De igual manera queda prohibida la reventa.
 
-Los Titulares serán responsables de vigilar el respeto a lo ordenado en el párrafo anterior, especialmente en las zonas contiguas al local en que se desarrolle el Espectáculo público de que se trate y, de notificar de inmediato a la Delegación cuando se presenten conductas contrarias a dicha disposición, a fin de que ésta proceda conforme a sus atribuciones en la materia.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Los Titulares serán responsables de vigilar el respeto a lo ordenado en el párrafo anterior, especialmente en las zonas contiguas al local en que se desarrolle el Espectáculo público de que se trate y, de notificar de inmediato a la Alcaldía cuando se presenten conductas contrarias a dicha disposición, a fin de que ésta proceda conforme a sus atribuciones en la materia.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 34.
 
-La venta anticipada de boletos para el acceso a Espectáculos públicos en el Distrito Federal podrá efectuarse siempre y cuando se haga constar esa circunstancia en el permiso que otorgue la Delegación para la celebración del Espectáculo público de que se trate.
+La venta anticipada de boletos para el acceso a Espectáculos públicos en la Ciudad de México podrá efectuarse siempre y cuando se haga constar esa circunstancia en el permiso que otorgue la Alcaldía para la celebración del Espectáculo público de que se trate.
 
 ###### Artículo 35.
 
@@ -546,11 +642,15 @@ V. Número de folio, y
 
 VI. En su caso, ubicación y detalle de la localidad que ampara.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 37.
 
-Los Titulares podrán poner a la venta derechos de apartado, abonos, series y otros similares, previa comunicación a la Delegación, para lo cual deberán ajustarse a las siguientes reglas:
+Los Titulares podrán poner a la venta derechos de apartado, abonos, series y otros similares, previa comunicación a la Alcaldía, para lo cual deberán ajustarse a las siguientes reglas:
 
-I. Otorgar fianza a satisfacción de la Secretaría de Finanzas de la Administración y a favor de la Tesorería del Distrito Federal, para garantizar los derechos que otorga a sus poseedores, y
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+I. Otorgar fianza a satisfacción de la Secretaría de Administración y Finanzas, así como a favor de la Tesorería de la Ciudad de México, para garantizar los derechos que otorga a sus poseedores; y
 
 II. El derecho de apartado es personal, pero podrá transferirse entre los particulares y dará preferencia a su poseedor para la adquisición del boleto específico de entrada, hasta 48 horas antes de la celebración del Espectáculo público.
 
@@ -562,9 +662,11 @@ II. El derecho de apartado es personal, pero podrá transferirse entre los parti
 
 Independientemente de las demás que les resulten aplicables, los Espectáculos deportivos deberán observar las disposiciones del presente Capítulo.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 39.
 
-La Delegación deberá designar a una persona que funja como inspector y que esté presente durante la celebración de cualquier Espectáculo deportivo, para vigilar el cumplimiento de las disposiciones jurídicas aplicables.
+La Alcaldía deberá designar a una persona que funja como inspector y que esté presente durante la celebración de cualquier Espectáculo deportivo, para vigilar el cumplimiento de las disposiciones jurídicas aplicables.
 
 ###### Artículo 40.
 
@@ -572,9 +674,11 @@ El inspector vigilará que los Espectadores no alteren el orden público, crucen
 
 Asimismo, cuidará que los elementos de la policía mantengan la seguridad y el orden durante el desarrollo del Espectáculo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 41.
 
-En los Espectáculos deportivos en que participen equipos profesionales de tres jugadores o más y, que intervengan permanentemente en competencias en el Distrito Federal, actuarán el número de jugadores extranjeros que señale el Reglamento de cada asociación deportiva.
+En los Espectáculos deportivos en que participen equipos profesionales de tres jugadores o más y, que intervengan permanentemente en competencias en la Ciudad de México, actuarán el número de jugadores extranjeros que señale el Reglamento de cada asociación deportiva.
 
 La Comisión del Espectáculo deportivo de que se trate nombrará a un comisionado que vigilará el cumplimiento del reglamento correspondiente.
 
@@ -584,17 +688,23 @@ La Comisión del Espectáculo deportivo de que se trate nombrará a un comisiona
 
 Para la presentación de Espectáculos taurinos se deberá observar, además de lo previsto en la Ley, las disposiciones del reglamento correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 43.
 
-Además de cumplir con lo dispuesto por el Capítulo IV del Título Segundo, en este tipo de Espectáculos públicos la venta de derechos de apartado sólo la podrá hacer el Titular registrado y autorizado por la Delegación, sujetándose a los siguientes criterios:
+Además de cumplir con lo dispuesto por el Capítulo IV del Título Segundo, en este tipo de Espectáculos públicos la venta de derechos de apartado sólo la podrá hacer el Titular registrado y autorizado por la Alcaldía, sujetándose a los siguientes criterios:
 
 > <small>(REFORMADA, G.O. 12 DE JUNIO DE 2006)</small>
 
 I. Únicamente se permitirá la venta, si el titular demuestra haber cumplido con los requisitos que lo obligan a iniciar la temporada en el mes de octubre o a más tardar el segundo domingo de noviembre con un mínimo de doce corridas ininterrumpidas. Previamente al inicio de la temporada se deberán dar por lo menos doce novilladas, pudiendo iniciarlas a partir de la primer semana de marzo;
 
-II. Se concederá preferencia para la adquisición del derecho de apartado a quienes lo hayan utilizado en la temporada anterior. Cualquier problema que surja en las taquillas, será resuelto en definitiva por la Delegación;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-III. La Delegación podrá revisar en todo momento los documentos en que conste el nombre del tenedor del derecho de apartado y ordenar la cancelación de los derechos de apartado, cuando compruebe que son o han sido origen de una transferencia ilegal, y
+II. Se concederá preferencia para la adquisición del derecho de apartado a quienes lo hayan utilizado en la temporada anterior. Cualquier problema que surja en las taquillas, será resuelto en definitiva por la Alcaldía;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+III. La Alcaldía podrá revisar en todo momento los documentos en que conste el nombre del tenedor del derecho de apartado y ordenar la cancelación de los derechos de apartado, cuando compruebe que son o han sido origen de una transferencia ilegal, y
 
 IV. Para poder vender el derecho de apartado el Titular deberá anunciar completo el elenco de matadores de toros, con especificación del número de corridas en que actuarán y las ganaderías contratadas, con detalle del número de encierros que a cada una corresponda; pero no podrá hacer el anuncio de elementos pendientes de contrato.
 
@@ -606,17 +716,25 @@ VI. El derecho de apartado es personal, pero podrá transferirse mediante el pag
 
 VII. Los tenedores de derechos de apartado podrán hacer uso de éste también en las novilladas y adquirir sus boletos con dos días de anticipación. El Titular dispondrá lo necesario para que se cumpla esta disposición, y
 
-VIII. El Titular deberá otorgar una fianza a favor de la Tesorería del Distrito Federal por cada temporada, serie de corridas, novilladas o festejos, a efecto de garantizar el cumplimiento de las obligaciones que contraiga; así como el pago de multas por violaciones a la Ley y sus disposiciones reglamentarias, cuyos términos y condiciones serán fijados por la Secretaría de Finanzas.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-En caso de fuerza mayor debidamente comprobada, la Delegación podrá autorizar alteraciones en el elenco anunciado al abrirse el derecho de apartado.
+VIII. El Titular deberá otorgar una fianza a favor de la Tesorería de la Ciudad de México por cada temporada, serie de corridas, novilladas o festejos, a efecto de garantizar el cumplimiento de las obligaciones que contraiga; así como el pago de multas por violaciones a la Ley y sus disposiciones reglamentarias, cuyos términos y condiciones serán fijados por la Secretaría de Administración y Finanzas.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+En caso de fuerza mayor debidamente comprobada, la Alcaldía podrá autorizar alteraciones en el elenco anunciado al abrirse el derecho de apartado.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 44.
 
-El Titular no podrá disponer de la recaudación de cada corrida, novillada o festival, sino hasta que la Delegación correspondiente considere que éstos han concluido y declare que el compromiso contraído por el Titular con el público se ha cumplido del todo, a menos que otorgue una fianza previa para este propósito. El Titular, para los efectos de este artículo, se considera depositario de la recaudación de cada corrida, novillada o festival.
+El Titular no podrá disponer de la recaudación de cada corrida, novillada o festival, sino hasta que la Alcaldía correspondiente considere que éstos han concluido y declare que el compromiso contraído por el Titular con el público se ha cumplido del todo, a menos que otorgue una fianza previa para este propósito. El Titular, para los efectos de este artículo, se considera depositario de la recaudación de cada corrida, novillada o festival.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 45.
 
-Cuando se trate de festejos comprendidos en una temporada para la cual se haya abierto derecho de apartado, o bien de festejos aislados, el Titular tendrá la obligación de presentar a la Delegación, con cuatro días hábiles de anticipación a la celebración del festejo de que se trate, lo siguiente:
+Cuando se trate de festejos comprendidos en una temporada para la cual se haya abierto derecho de apartado, o bien de festejos aislados, el Titular tendrá la obligación de presentar a la Alcaldía, con cuatro días hábiles de anticipación a la celebración del festejo de que se trate, lo siguiente:
 
 I. Declaración escrita bajo protesta de decir verdad del o los ganaderos, en la que se expresará pinta y edad de las reses, que éstas no han sido toreadas y que no han sido objeto de manipulaciones o alteraciones que pudieran modificar sus astas o disminuir su poder o vigor;
 
@@ -628,9 +746,11 @@ IV. Contratos respectivos celebrados con toreros, subalternos y ganaderos, y
 
 V. Precio de las localidades.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 46.
 
-En ningún caso se permitirá la venta de boletos al público, si no ha sido aprobado el programa por la Delegación.
+En ningún caso se permitirá la venta de boletos al público, si no ha sido aprobado el programa por la Alcaldía.
 
 > <small>(REFORMADA, G.O. 12 DE JUNIO DE 2006)</small>
 
@@ -650,9 +770,11 @@ d) Matadores de novillos de a caballo o rejoneadores.
 
 En los carteles de matadores en los que alternen rejoneadores, éstos últimos no harán número para efectos del porcentaje de nacionalidad. En un festejo de rejoneadores en el que actúen varios de ellos, podrán actuar matadores, pero éstos no harán número para efectos del porcentaje de nacionalidad. El porcentaje de participantes extranjeros se establecerá sin mezclar las categorías y en igualdad de circunstancias, respecto a la calidad de los toros o novillos que se asignan en el cartel, dado a conocer previamente para cada actuante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 48.
 
-Las reses destinadas a la lidia en corridas de toros habrán de tener como mínimo cuatro años cumplidos y las destinadas a la lidia en novilladas con picadores, tres años cumplidos.
+Las reses destinadas a la lidia en corridas de toros habrán de tener como mínimo cuatro años cumplidos y las destinadas a la lidia en novilladas con picadores, tres años cumplidos. La autoridad, a petición del Juez de Plaza o de la Comisión Taurina en la Ciudad de México, podrá valerse de cualquier método disponible para corroborar la edad de los toros previamente declarada.
 
 La autoridad, a petición del Juez de Plaza o de la Comisión Taurina del Distrito Federal, podrá valerse de cualquier método disponible para corroborar la edad de los toros previamente declarada.
 
@@ -674,9 +796,11 @@ IV. Evitar que los Espectadores invadan el escenario, foro, pasarela o cualquier
 
 En caso de que los Espectadores infrinjan lo dispuesto por el párrafo anterior y se resistan a cesar esa conducta, podrán ser desalojados del establecimiento mercantil o del lugar en el que se celebre el Espectáculo público, en cuyo caso se deberá dar aviso a las autoridades competentes, con objeto de que se apliquen las sanciones que correspondan.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 50.
 
-Lo dispuesto por el artículo anterior será también aplicable a la celebración de Espectáculos musicales, teatrales, artísticos, culturales y recreativos en establecimientos mercantiles en los términos de la Ley para el Funcionamiento de Establecimientos Mercantiles en el Distrito Federal, cuyos Titulares deberán además abstenerse de expender alimentos preparados y bebidas alcohólicas fuera de los lugares que para tales efectos tengan expresamente designados.
+Lo dispuesto por el artículo anterior será también aplicable a la celebración de Espectáculos musicales, teatrales, artísticos, culturales y recreativos en establecimientos mercantiles en los términos de la Ley de Establecimientos Mercantiles aplicable a la Ciudad de México, cuyos Titulares deberán además abstenerse de expender alimentos preparados y bebidas alcohólicas fuera de los lugares que para tales efectos tengan expresamente designados.
 
 ###### Artículo 51.
 
@@ -700,23 +824,31 @@ Asimismo, deberá comunicarlo al público, por los mismos medios que utilizó pa
 
 ### CAPÍTULO IV. De los Espectáculos Tradicionales
 
-> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 55.
 
-Se prohíbe la celebración de espectáculos públicos en la vía pública, parques o espacios públicos, excepto que la Delegación constate que se trata de espectáculos tradicionales.
+Se prohíbe la celebración de espectáculos públicos en la vía pública, parques o espacios públicos, excepto que la Alcaldía constate que se trata de espectáculos tradicionales.
+
+> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2006)</small>
 
 Los espectáculos a que se refiere el párrafo anterior serán gratuitos para el espectador.
 
-> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 55
 
-bis.- Los Titulares de los espectáculos tradicionales solicitarán con 20 días hábiles de anticipación a su realización, el permiso correspondiente a la Delegación, para lo cual el escrito de solicitud deberá contener la siguiente información e ir acompañada de:
+BIS. - Los Titulares de los espectáculos tradicionales solicitarán con 20 días hábiles de anticipación a su realización, el permiso correspondiente a la Alcaldía, para lo cual el escrito de solicitud deberá contener la siguiente información e ir acompañada de:
+
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2006)</small>
 
 I.- Documento que demuestre que el solicitante fue designado por la comunidad para llevar la organización del festejo, con domicilio y nombre de las personas autorizadas para oír o recibir notificaciones;
 
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2006)</small>
+
 II.- Señalamiento y croquis de localización del lugar en el que se realizará la festividad tradicional;
+
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2006)</small>
 
 III.- El Programa de la Festividad tradicional, el cual indicará:
 
@@ -726,87 +858,153 @@ b) Si habrá o no quema de juegos pirotécnicos, el horario y lugar en que se ef
 
 días en que se llevará a cabo, así como el horario del mismo; especificar si se incluirá procesión o algún otro recorrido; en el caso de realizarse el supuesto anterior, anexar croquis que especifique las vialidades que podrían ser afectadas y el horario de su afectación. (sic)
 
-Dentro de los cinco días hábiles siguientes a que se haya recibido la solicitud, la Delegación, a través de su Unidad de Protección Civil en coordinación con los titulares, instrumentarán para ese evento en particular, el Programa Especial de Protección Civil a que alude la Ley de Protección Civil para el Distrito Federal y su Reglamento.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-Una vez que se cuente con el Programa Especial de Protección Civil, la Delegación expedirá a los Titulares el permiso correspondiente.
+Dentro de los cinco días hábiles siguientes a que se haya recibido la solicitud, la Alcaldía, a través de su Unidad Administrativa de Gestión Integral de Riesgos y Protección Civil en coordinación con los titulares, instrumentarán para ese evento en particular, el Programa Especial de Protección Civil a que alude la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México y su Reglamento.
 
-Durante la celebración del festejo tradicional, tanto los titulares del mismo como la Unidad de Protección Civil, serán los responsables de la Ejecución del Programa Especial que se haya elaborado. Asimismo, se contará con el apoyo de la Secretaría de Seguridad Pública.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-La Delegación solicitara a los titulares de los festejos tradicionales, a efecto de que, si considera pertinente, éstos cuenten también con una Póliza de Responsabilidad Civil, para cubrir cualquier eventualidad, riesgo o siniestro que pudieran sufrir los espectadores y participantes de la festividad tradicional.
+Una vez que se cuente con el Programa Especial de Protección Civil, la Alcaldía expedirá a los Titulares el permiso correspondiente.
 
-En caso de que se realice la festividad tradicional sin la anuencia de la autoridad correspondiente, la Delegación impondrá las sanciones que correspondan de conformidad con las Leyes y Reglamentos aplicables, siendo los titulares de la festividad los responsables directos de cualquier siniestro o accidente que se pudiera presentar durante su realización, respondiendo civil o penalmente por los daños que se llegaran a ocasionar a terceros.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
+Durante la celebración del festejo tradicional, tanto los titulares del mismo como la Unidad de Gestión Integral de Riesgos y Protección Civil, serán los responsables de la Ejecución del Programa Especial que se haya elaborado. Asimismo, se contará con el apoyo de la Secretaría de Seguridad Ciudadana de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+La Alcaldía solicitará a los titulares de los festejos tradicionales, a efecto de que, si considera pertinente, éstos cuenten también con una Póliza de Responsabilidad Civil para cubrir cualquier eventualidad, riesgo o siniestro que pudieran sufrir los espectadores y participantes de la festividad tradicional.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+En caso de que se realice la festividad tradicional sin la anuencia de la autoridad correspondiente, la Alcaldía impondrá las sanciones que correspondan de conformidad con las leyes y reglamentos aplicables, siendo los titulares de la festividad los responsables directos de cualquier siniestro o accidente que se pudiera presentar durante su realización, respondiendo civil o penalmente por los daños que se llegaran a ocasionar a terceros.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 55
 
-ter.- Los interesados en obtener permisos para la realización de ferias en la vía pública de los pueblos, barrios y colonias del Distrito Federal, solicitarán con 20 días hábiles de anticipación a su realización, el permiso correspondiente a la Delegación, para lo cual el escrito de solicitud deberá contener los siguientes datos:
+TER.- Los interesados en obtener permisos para la realización de ferias en la vía pública de los pueblos, barrios y colonias de la Ciudad de México solicitarán con 20 días hábiles de anticipación a su realización, el permiso correspondiente a la Alcaldía, para lo cual el escrito de solicitud deberá contener los siguientes datos:
+
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
 
 a) Nombre, domicilio para oír y recibir notificaciones, Registro Federal de Contribuyentes y nacionalidad;
 
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
+
 b) Nombre de las personas autorizadas para oír y recibir notificaciones, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal;
-
-c) Si el solicitante es extranjero, deberá presentar la autorización expedida por la Secretaría de Gobernación, por la que se le permita llevar a cabo la actividad de que se trate.
-
-La realización de ferias en la vía pública de los pueblos, barrios y colonias del Distrito Federal se sujetarán a lo siguiente:
-
-I.- Para expedir los permisos de instalación de las ferias a que se refiere este artículo, la Delegación a efecto de disminuir los posibles riesgos, procurará que éstas queden debidamente seccionadas en:
-
-a) Juegos mecánicos y electromecánicos;
-
-b) Servicio de entretenimiento;
-
-c) Venta de alimentos preparados;
-
-d) Venta de artesanías;
-
-e) Juegos pirotécnicos; y
-
-f) Otros, siempre y cuando se ajusten al concepto de Espectáculos tradicionales establecido en la presente Ley.
-
-Asimismo, la Delegación tomará las acciones necesarias y suficientes para garantizar el libre acceso de los vecinos a sus domicilios y el acceso de los servicios de emergencias a los lugares en donde se realicen las ferias;
-
-II.- La Delegación, a través de la Unidad de Protección Civil, instrumentará y ejecutará, en coordinación con el o los Comités Ciudadanos involucrados y con asociaciones civiles y vecinos interesados, el Programa Especial de Protección Civil a que alude la Ley de Protección Civil para el Distrito Federal y su Reglamento. Si la feria se realizó con motivo de una festividad tradicional, los Programas Especiales de Protección Civil de la Feria y de la Festividad Tradicional deberán ser compatibles;
-
-III.- El organizador dispondrá de apoyo sanitario y médico para el adecuado desarrollo de las ferias y, en su caso de Protección Civil y de Seguridad Pública;
-
-IV.- En ferias en las que se otorguen los permisos correspondientes, el Gobierno del Distrito Federal, a través de las instancias competentes, vigilará que los alimentos que se ofrezcan al público, cuenten con higiene para proteger la salud de los consumidores, atendiendo lo establecido en la fracción XI del artículo 85 de la presente ley;
-
-V.- La autorización de los juegos pirotécnicos tomará en cuenta el horario de descanso de los vecinos de la zona que previamente hayan establecido la Delegación junto con el Comité Ciudadano;
-
-VI.- Queda estrictamente prohibida la venta de cualquier tipo de bebida alcohólica, así como de bebidas en general en envase de vidrio, o en envases similares en la ferias a las que se refiere este artículo, y
-
-VII.- Para la seguridad de los asistentes, se contará con el apoyo del sector correspondiente de la Secretaria de Seguridad Pública del Distrito Federal.
 
 > <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
 
-###### Artículo 55
+c) Si el solicitante es extranjero, deberá presentar la autorización expedida por la Secretaría de Gobernación, por la que se le permita llevar a cabo la actividad de que se trate.
 
-quater.- Los interesados en obtener los permisos para la instalación de juegos mecánicos y electromecánicos, para prestar servicios de entretenimiento y servicios de venta de alimentos preparados, de artesanías y otros en las ferias a las que se refiere este artículo, deberán presentar la solicitud correspondiente ante la Ventanilla Única de la Delegación con 20 días hábiles de anticipación a la realización de la feria, con los siguientes datos y documentos:
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+La realización de ferias en la vía pública de los pueblos, barrios y colonias de la Ciudad de México se sujetarán a lo siguiente:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE MARZO DE 2021)</small>
+
+I.- Para expedir los permisos de instalación de las ferias a que se refiere este artículo, la Alcaldía a efecto de disminuir los posibles riesgos, procurará que éstas queden debidamente seccionadas en:
+
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
+
+a) Juegos mecánicos y electromecánicos;
+
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
+
+b) Servicio de entretenimiento;
+
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
+
+c) Venta de alimentos preparados;
+
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
+
+d) Venta de artesanías;
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+e) Artificios pirotécnicos, y
+
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
+
+f) Otros, siempre y cuando se ajusten al concepto de Espectáculos tradicionales establecido en la presente Ley.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Asimismo, la Alcaldía tomará las acciones necesarias y suficientes para garantizar el libre acceso de los vecinos a sus domicilios y el acceso de los servicios de emergencias a los lugares en donde se realicen las ferias.
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II.- La Alcaldía, a través de la Unidad Administrativa de Gestión Integral de Riesgos y Protección Civil, instrumentará y ejecutará, en coordinación con el o los Comités Ciudadanos involucrados y con asociaciones civiles y vecinos interesados, el Programa Especial de Protección Civil a que alude la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México y su Reglamento. Si la feria se realizó con motivo de una festividad tradicional, los Programas de Protección Civil de la Feria y de la Festividad Tradicional deberán ser compatibles;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+III.- El organizador dispondrá de apoyo sanitario y médico para el adecuado desarrollo de las ferias y, en su caso, de Gestión Integral de Riesgos y Protección Civil y de Seguridad Ciudadana;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IV.- En ferias en las que se otorguen los permisos correspondientes, el Gobierno de la Ciudad de México, a través de las instancias competentes, vigilará que los alimentos que se ofrezcan al público, cuenten con higiene para proteger la salud de los consumidores, atendiendo lo establecido en la fracción XI del artículo 85 de la presente ley;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+V.- La autorización de los artificios pirotécnicos tomará en cuenta el horario de descanso de los vecinos de la zona que previamente hayan establecido la Alcaldía junto con el Comité Ciudadano.
+
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2006)</small>
+
+VI.- Queda estrictamente prohibida la venta de cualquier tipo de bebida alcohólica, así como de bebidas en general en envase de vidrio, o en envases similares en la ferias a las que se refiere este artículo, y
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VII.- Para la seguridad de los asistentes, se contará con el apoyo del sector correspondiente de la Secretaría de Seguridad Ciudadana de la Ciudad de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
+Artículo 55 QUATER.- Los interesados en obtener los permisos para la instalación de juegos mecánicos y electromecánicos, para prestar servicios de entretenimiento y servicios de venta de alimentos preparados, de artesanías y otros en las ferias a las que se refiere este artículo, deberán presentar la solicitud correspondiente ante la Ventanilla Única de la Alcaldía con 20 días hábiles de anticipación a la realización de la feria, con los siguientes datos y documentos:
+
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2006)</small>
 
 I.- Nombre, domicilio para oír y recibir notificaciones, Registro Federal de Contribuyentes y nacionalidad;
 
-II.- Nombre de las personas autorizadas para oír y recibir notificaciones, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II.- Nombre de las personas autorizadas para oír y recibir notificaciones, en los términos de la Ley de Procedimiento Administrativo de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2006)</small>
 
 III.- Si el solicitante es extranjero deberá presentar la autorización expedida por la Secretaría de Gobernación, por la que se le permita llevar a cabo la actividad de que se trate;
 
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2006)</small>
+
 IV.- Descripción del juego mecánico o electromecánico que se pretenda instalar o del servicio de entretenimiento que se pretenda prestar o en su caso señalar el tipo de alimentos, artesanías u objetos que se pretenden ofrecer al público; con sus respectivos precios de acceso o venta;
+
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2006)</small>
 
 V.- El número de metros de la vía pública que pretenda ser ocupado y ubicación precisa;
 
-VI.- Deberán acreditar que cumplen con lo dispuesto en las fracciones II, III, y V del artículo 55 de la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal, y demostrar que cuentan con una póliza de seguro de responsabilidad civil, para cubrir cualquier eventualidad, riesgo o siniestro que puedan sufrir tanto los usuarios de los juegos como los vecinos de la zona;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VI.- Deberán acreditar que cumplen con lo dispuesto en las fracciones II, III, y V del artículo 55 de la Ley de Establecimientos Mercantiles vigente en la Ciudad de México y demostrar que cuentan con una póliza de seguro de responsabilidad civil, para cubrir cualquier eventualidad, riesgo o siniestro que puedan sufrir tanto los usuarios de los juegos como los vecinos de la zona;
+
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2006)</small>
 
 VII.- El recibo por el cual se acredita la contratación del servicio de energía eléctrica y/o acreditar que cuentan con una planta generadora de energía eléctrica, así como el escrito por el cual responsabiliza por las averías que se provoquen en las instalaciones y equipos eléctricos tanto públicos como privados, bajo pena de revocación del permiso en caso de incumplimiento, además del respectivo pago de daños y perjuicios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE MARZO DE 2021)</small>
 
-Una vez que la Delegación reciba todas las solicitudes, y hasta 5 días hábiles antes a la realización de la feria, la Delegación notificará a los interesados por medio de listas que se colocarán en la sede delegacional, cuáles son las solicitudes aceptadas y la cantidad que se tendrá que pagar por concepto de derechos conforme al Código Fiscal del Distrito Federal. Una vez hecho lo anterior, se entregará el permiso correspondiente en el que se indicará cuales son las obligaciones que se tendrán que cumplir. En todo caso en el permiso se precisará lo siguiente:
+Una vez que la Alcaldía reciba todas las solicitudes, y hasta 5 días hábiles antes a la realización de la feria, la Alcaldía notificará a los interesados por medio de listas que se colocarán en la sede delegacional, cuáles son las solicitudes aceptadas y la cantidad que se tendrá que pagar por concepto de derechos conforme al Código Fiscal de la Ciudad de México. Una vez hecho lo anterior, se entregará el permiso correspondiente en el que se indicará cuáles son las obligaciones que se tendrán que cumplir. En todo caso en el permiso se precisará lo siguiente:
+
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
 
 a) Horario de funcionamiento de juegos mecánicos y electromecánicos, pirotecnia, servicios de entretenimiento, servicios de venta de alimentos preparados, artesanías u otros;
 
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
+
 b) Las medidas mínimas de seguridad e higiene que se tendrá que observar; y
 
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
+
 c) Número y localización de las acometidas de luz a las cuales tendrán acceso los solicitantes del permiso.
+
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2006)</small>
 
 En caso de que la autorización delegacional no se pronuncie dentro del plazo que establece el párrafo anterior respecto de una solicitud en específico que le haya sido presentada, se entenderá que ésta no fue aprobada.
 
@@ -834,21 +1032,29 @@ Los Espectáculos masivos que se celebren en establecimientos mercantiles constr
 
 Cuando la naturaleza y contenido del Espectáculo público que se pretenda celebrar sea diferente a los supuestos para los que se hubiera construido el local en el que se desarrollará, los Titulares estarán obligados adicionalmente a acreditar fehacientemente el cumplimiento de lo siguiente:
 
-I. Que cumplen con las disposiciones del Reglamento de Construcciones para el Distrito Federal y sus Normas Técnicas Complementarias, que resulten aplicables con motivo de la colocación de gradas, templetes, estructuras, mamparas y demás instalaciones cuyo montaje se requiera para el desarrollo del Espectáculo público;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-II. Que se cumple con las disposiciones específicas que ordena para los Espectáculos masivos la Ley de Protección Civil del Distrito Federal, la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal y sus respectivos Reglamentos;
+I. Que cumplen con las disposiciones del Reglamento de Construcciones vigente en la Ciudad de México y sus Normas Técnicas Complementarias, que resulten aplicables con motivo de la colocación de gradas, templetes, estructuras, mamparas y demás instalaciones cuyo montaje se requiera para el desarrollo del Espectáculo público;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. Que se cumple con las disposiciones específicas que ordena para los Espectáculos masivos la Ley de Gestión Integral de Riesgos y Protección Civil, la Ley de Establecimientos Mercantiles y sus respectivos Reglamentos vigentes en la Ciudad de México;
 
 III. Las medidas especiales de seguridad y logística que se instrumentarán para mitigar los efectos de su celebración, y
 
-IV. Haber obtenido autorización de la Delegación para el aforo que se pretenda.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IV. Haber obtenido autorización de la Alcaldía para el aforo que se pretenda.
 
 ## TÍTULO CUARTO. DE LAS COMISIONES DE ESPECTÁCULOS PÚBLICOS
 
 ### CAPÍTULO I. De las Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 61.
 
-Las Comisiones de Espectáculos Públicos que se constituyan con base en lo dispuesto por la Ley tendrán el carácter de órganos de apoyo técnico de la Administración, la cual podrá solicitar su asesoría, opinión y consulta en las materias que de acuerdo con su especialidad les competan, y tendrán como objeto coadyuvar a la mejor realización de los Espectáculos públicos en el Distrito Federal.
+Las Comisiones de Espectáculos Públicos que se constituyan con base en lo dispuesto por la Ley tendrán el carácter de órganos de apoyo técnico de la Administración, la cual podrá solicitar su asesoría, opinión y consulta en las materias que de acuerdo con su especialidad les competan, y tendrán como objeto coadyuvar a la mejor realización de los Espectáculos públicos en la Ciudad de México.
 
 De conformidad con las disposiciones de la Ley, podrán constituirse las siguientes Comisiones:
 
@@ -888,7 +1094,9 @@ III. Un Tesorero, y
 
 IV. El número de vocales que corresponda de acuerdo con el número total de sus integrantes.
 
-Los presidentes, secretarios y tesoreros de las Comisiones serán designados por el Jefe de Gobierno del Distrito Federal de entre sus miembros, de conformidad con lo dispuesto en el Reglamento del Espectáculo que corresponda.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Las personas que ocupen el cargo de presidentes, secretarios y tesoreros de las Comisiones serán designadas por la persona titular de la Jefatura de Gobierno de la Ciudad de México de entre sus miembros, de conformidad con lo dispuesto en el Reglamento del Espectáculo que corresponda.
 
 ### CAPÍTULO II. De las Comisiones de Espectáculos Deportivos
 
@@ -898,11 +1106,13 @@ La Administración podrá convocar, cuando lo estime necesario, a la constituci�
 
 Las Comisiones a que se refiere el párrafo anterior supervisarán el cumplimiento de los Reglamentos de la especialidad en lo que les competa.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 66.
 
-Las Comisiones Técnicas a que se refiere el artículo anterior se integrarán por cinco miembros propietarios y sus respectivos suplentes, designados por el Jefe de Gobierno del Distrito Federal.
+Las Comisiones Técnicas a que se refiere el artículo anterior se integrarán por cinco miembros propietarios y sus respectivos suplentes, designados por la persona titular de la Jefatura de Gobierno de la Ciudad de México.
 
-Para su integración la Administración contará con un miembro, dos de la Unión Deportiva y los restantes del Consejo del Deporte del Distrito Federal.
+Para su integración la Administración contará con un miembro, dos de la Unión Deportiva y los restantes del Consejo del Deporte de la Ciudad de México.
 
 ###### Artículo 67.
 
@@ -920,21 +1130,29 @@ V. Las demás que se señalen en los Reglamentos correspondientes.
 
 ### CAPÍTULO III. De la Comisión Taurina
 
-> <small>(REFORMADO, G.O. 21 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 68.
 
-La Comisión Taurina estará integrada por nueve miembros, conformados de la siguiente forma: cinco representantes designados por el Jefe de Gobierno del Distrito Federal; así como un representante de la Asociación Mexicana de Empresas Taurinas, A. C., de la Unión Mexicana de Picadores y Banderilleros, de la Asociación Nacional de Matadores de Toros y Novillos, Rejoneadores y Similares; y la Asociación Nacional de Criadores de Toros de Lidia, éstos cuatro últimos serán designados conforme a sus propios Estatutos de cada Asociación.
+La Comisión Taurina estará integrada por nueve miembros, conformados de la siguiente forma: cinco representantes designados por la persona titular de la Jefatura de Gobierno de la Ciudad de México; así como un representante de la Asociación Mexicana de Empresas Taurinas, A. C., de la Unión Mexicana de Picadores y Banderilleros, de la Asociación Nacional de Matadores de Toros y Novillos, Rejoneadores y Similares; y la Asociación Nacional de Criadores de Toros de Lidia, éstos cuatro últimos serán designados conforme a sus propios Estatutos de cada Asociación.
+
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 2005)</small>
 
 Los miembros de la Comisión no percibirán retribución o compensación alguna por ese motivo y durarán en su cargo tres años pudiendo ser ratificados hasta por un período más.
 
-Será facultad del Jefe de Gobierno la designación y remoción del Presidente de la Comisión Taurina.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Será facultad de la persona titular de la Jefatura de Gobierno la designación y remoción del Presidente de la Comisión Taurina.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 69.
 
-La Comisión Taurina del Distrito Federal tendrá las siguientes atribuciones:
+La Comisión Taurina de la Ciudad de México tendrá las siguientes atribuciones:
 
-I. Auxiliar al Jefe de Gobierno del Distrito Federal en la interpretación y resolución de situaciones no previstas en la Ley y demás disposiciones que resulten aplicables;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+I. Auxiliar a la persona titular de la Jefatura de Gobierno de la Ciudad de México en la interpretación y resolución de situaciones no previstas en la Ley y demás disposiciones que resulten aplicables;
 
 > <small>(REFORMADA, G.O. 21 DE ENERO DE 2005)</small>
 
@@ -942,15 +1160,21 @@ II. Promover la coordinación y cooperación de las diferentes asociaciones, agr
 
 III. Establecer un Registro Taurino, en el que deberán inscribirse las ganaderías, los matadores de toros, rejoneadores, novilleros, picadores, banderilleros y puntilleros, y en el que se contenga por lo menos, su nacionalidad y la antigüedad en sus actividades;
 
-IV. Proponer al Jefe de Gobierno del Distrito Federal a los candidatos a Jueces de Plaza y Asesores Técnicos, así como su remoción, y opinar sobre el nombramiento o remoción de los Inspectores Autoridad y auxiliares, y Médicos Veterinarios, cuya intervención sea necesaria para la celebración del Espectáculo taurino;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-V. Proponer al Jefe de Gobierno del Distrito Federal el otorgamiento de cartel a las ganaderías que hayan satisfecho los requerimientos necesarios;
+IV. Proponer a la persona titular de la Jefatura de Gobierno de la Ciudad de México a las personas candidatas a Jueces de Plaza y Asesores Técnicos, así como su remoción, y opinar sobre el nombramiento o remoción de los inspectores y auxiliares, y Médicos Veterinarios, cuya intervención sea necesaria para la celebración del Espectáculo taurino;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+V. Proponer a la persona titular de la Jefatura de Gobierno de la Ciudad de México el otorgamiento de cartel a las ganaderías que hayan satisfecho los requerimientos necesarios;
 
 VI. Llevar el Registro Obligatorio de Edades de los astados;
 
 VII. Recibir de los ganaderos el diseño de hierro o hierros y marcas o contraseñas que usen para distinguir sus reses, explicación del diseño gráfico de las señales, divisa y forma en que se anunciarán en los programas, a fin de llevar un catálogo de los mismos;
 
-VIII. Asesorar a las Delegaciones sobre el debido cumplimiento del Reglamento correspondiente, a fin de regular, mejorar e impulsar la organización, desarrollo y calidad de los Espectáculos taurinos en el Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VIII. Asesorar a las Alcaldías sobre el debido cumplimiento del Reglamento correspondiente, a fin de regular, mejorar e impulsar la organización, desarrollo y calidad de los Espectáculos taurinos en la Ciudad de México;
 
 IX. Propiciar el intercambio de conocimientos, experiencias e inquietudes entre empresarios, promotores, ganaderos, actuantes taurinos, autoridades y demás sectores que intervienen en los Espectáculos taurinos, con el objeto de coadyuvar a la conservación y mejoramiento de los mismos;
 
@@ -960,9 +1184,11 @@ XI. Las demás que se señalen en el Reglamento respectivo.
 
 ### CAPÍTULO IV. De la Comisión de Espectáculos Musicales, Teatrales, Artísticos, Culturales y Recreativos
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 70.
 
-La Comisión de Espectáculos musicales, teatrales, artísticos, culturales y recreativos se integrará por dieciséis miembros designados por el Jefe de Gobierno del Distrito Federal, siete de los cuales serán representantes de la Administración, y los restantes de las organizaciones privadas o gremiales involucradas en la materia, de conformidad con lo dispuesto en los siguientes artículos.
+La Comisión de Espectáculos musicales, teatrales, artísticos, culturales y recreativos se integrará por dieciséis miembros designados por la persona titular de la Jefatura de Gobierno de la Ciudad de México, siete de los cuales serán representantes de la Administración, y los restantes de las organizaciones privadas o gremiales involucradas en la materia, de conformidad con lo dispuesto en los siguientes artículos.
 
 ###### Artículo 71.
 
@@ -1008,15 +1234,19 @@ VIII. Por la Asociación de Exhibidores Independientes de Salas Cinematográfica
 
 IX. Por la Cámara de la Industria Cinematográfica.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 73.
 
-El Jefe de Gobierno del Distrito Federal podrá invitar a formar parte de la Comisión de Espectáculos musicales, artísticos, culturales y recreativos, a otras personas físicas o morales, considerando su experiencia y conocimientos en el área respectiva.
+La persona titular de la Jefatura de Gobierno de la Ciudad de México podrá invitar a formar parte de la Comisión de Espectáculos musicales, artísticos, culturales y recreativos, a otras personas físicas o morales, considerando su experiencia y conocimientos en el área respectiva.
 
 ###### Artículo 74.
 
 La Comisión de Espectáculos musicales, teatrales, artísticos, culturales y recreativos tendrá las siguientes atribuciones:
 
-I. Asesorar a la Administración en todo lo relacionado con la presentación, celebración, difusión y promoción de este tipo de Espectáculos públicos en el Distrito Federal; y
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+I. Asesorar a la Administración en todo lo relacionado con la presentación, celebración, difusión y promoción de este tipo de Espectáculos públicos en la Ciudad de México; y
 
 II. Las demás que se señalen en los Reglamentos correspondientes.
 
@@ -1024,11 +1254,11 @@ II. Las demás que se señalen en los Reglamentos correspondientes.
 
 ### CAPÍTULO I. De la Verificación
 
-> <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 75.
 
-Corresponde a las Delegaciones y a la Secretaría de Protección Civil, en el ámbito de sus respectivas competencias, ejercer las funciones de vigilancia y supervisión para verificar el cumplimiento de la Ley y sus disposiciones reglamentarias, a través de visitas de verificación administrativa, mismas que se deberán realizar de conformidad con lo ordenado por la Ley de Procedimiento Administrativo del Distrito Federal y el Reglamento de la materia.
+Corresponde a las Alcaldías y a la Secretaría de Gestión Integral de Riesgos y Protección Civil, en el ámbito de sus respectivas competencias, ejercer las funciones de vigilancia y supervisión para verificar el cumplimiento de la Ley y sus disposiciones reglamentarias, a través de visitas de verificación administrativa, mismas que se deberán realizar de conformidad con lo ordenado por la Ley de Procedimiento Administrativo de la Ciudad de México y el Reglamento de la materia.
 
 ###### Artículo 76.
 
@@ -1036,11 +1266,11 @@ La contravención a las disposiciones de la Ley dará lugar a la imposición de 
 
 ### CAPÍTULO II. De las Medidas de Seguridad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 77.
 
-Se consideran medidas de seguridad las disposiciones que dicte la Delegación, y en su caso, la Secretaría de Protección Civil, para proteger la integridad de los Espectadores y la salud, seguridad y orden públicos; y podrán consistir en:
+Se consideran medidas de seguridad las disposiciones que dicte la Alcaldía, y en su caso, la Secretaría de Gestión Integral de Riesgos y Protección Civil, para proteger la integridad de los Espectadores y la salud, seguridad y orden públicos; y podrán consistir en:
 
 I. El aseguramiento de materiales, sustancias, bebidas y alimentos que puedan ser tóxicos o contaminantes;
 
@@ -1054,9 +1284,11 @@ V. La desocupación temporal o definitiva del establecimiento mercantil o del lu
 
 Las medidas de seguridad tendrán la duración estrictamente necesaria para la corrección de las irregularidades que hubieran dado motivo a su imposición.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 78.
 
-La imposición de medidas de seguridad se sujetará a lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal.
+La imposición de medidas de seguridad se sujetará a lo dispuesto por la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 ### CAPÍTULO III. De las Sanciones
 
@@ -1104,11 +1336,11 @@ Las violaciones a esta Ley no previstas en los artículos que anteceden se sanci
 
 En caso de reincidir en alguna de las infracciones sancionadas económicamente por la Ley, se aplicará el doble de la multa impuesta originalmente, y en caso de que el infractor incurriera por tercera ocasión en la misma falta, procederá además la clausura de las instalaciones y revocación de oficio del permiso, según sea el caso.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 4 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 85.
 
-Sin perjuicio de la aplicación de las sanciones pecuniarias a que se refiere este Capítulo, las Demarcaciones Territoriales, o en su caso, la Secretaria de Protección Civil, suspenderá la realización de espectáculos públicos, masivos y privados, y clausurará las instalaciones en donde se lleven a cabo, en los siguientes casos:
+Sin perjuicio de la aplicación de las sanciones pecuniarias a que se refiere este Capítulo, las Alcaldías suspenderán la realización de espectáculos públicos, masivos y privados, y clausurará las instalaciones en donde se lleven a cabo, en los siguientes casos:
 
 I. Por no presentar el Aviso o por carecer del Permiso necesarios para la celebración de un Espectáculo público, según sea el caso;
 
@@ -1120,7 +1352,9 @@ IV. Cuando no se respete el aforo autorizado en el Permiso o el manifestado en e
 
 V. Por no contar con el Programa Especial de Protección Civil para Espectáculos masivos;
 
-VI. Cuando se obstaculice o se impida de alguna forma el cumplimiento de las funciones de verificación del personal autorizado por la Delegación;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VI. Cuando se obstaculice o se impida de alguna forma el cumplimiento de las funciones de verificación del personal autorizado por la Alcaldía;
 
 VII. Cuando no se cumpla con el programa y horario autorizados;
 
@@ -1136,9 +1370,15 @@ XI. Cuando con motivo de la celebración de un Espectáculo público se ponga en
 
 XII. Por incumplir lo establecido en el artículo 13 bis de la presente Ley.
 
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Lo anterior sin perjuicio a lo establecido en la Ley de del (sic) Instituto de Verificación Administrativa, la Ley de Gestión Integral de Riesgos y Protección Civil y demás normatividad vigente en la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 86.
 
-En los casos a que se refieren las fracciones I, II, III, IV, V, VII, IX y XI, del artículo anterior, el estado de clausura será permanente, y podrá ser levantado únicamente cuando haya desaparecido el motivo que hubiera dado lugar a su imposición.
+En los casos a que se refieren las fracciones I, II, III, IV, V, VII, IX y XI, del artículo anterior, el estado de clausura podrá ser levantado únicamente cuando haya desaparecido el motivo que hubiera dado lugar a su imposición. La autoridad requerirá al propietario, administrador o poseedor del bien que genere dicho riesgo, que realice las obras de mitigación que resulten necesarias, a su costa; así como el cumplimiento a las sanciones impuestas.
 
 ###### Artículo 87.
 
@@ -1148,71 +1388,105 @@ En los casos a que se refieren las fracciones VI, VIII y X del artículo 85 de l
 
 En los casos a que se refieren las fracciones I, II, III, IV, V, VI, IX y XI del artículo 85, procederá la suspensión inmediata de los Espectáculos públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 89.
 
-La Clausura o suspensión inmediata de establecimientos mercantiles y Espectáculos públicos se sujetará al siguiente procedimiento:
+La clausura o suspensión inmediata de establecimientos mercantiles y espectáculos públicos se sujetará al siguiente procedimiento:
 
-> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-I. Se iniciará cuando la Delegación, o en su caso, la Secretaría de Protección Civil, detecte que se actualiza alguno de los supuestos señalados en el artículo anterior, por medio de visitas de verificación, análisis documental o queja ciudadana, citando a los Titulares del Permiso, mediante notificación personal, con excepción de lo señalado en el artículo 98 de la Ley, en la que se le hagan saber las causas que originaron la instauración del procedimiento, requiriéndolo para que comparezca a hacer valer lo que a su derecho convenga y ofrezca las pruebas que considere pertinentes, dentro de las 24 horas siguientes a la notificación;
+I. Se iniciará cuando la Alcaldía, detecte que se actualiza alguno de los supuestos señalados en el artículo anterior, por medio de visitas de verificación, análisis documental o queja ciudadana, citando a los Titulares del Permiso, mediante notificación personal, con excepción de lo señalado en el artículo 98 de la Ley, en la que se le hagan saber las causas que originaron la instauración del procedimiento, requiriéndolo para que comparezca a hacer valer lo que a su derecho convenga y ofrezca las pruebas que considere pertinentes, dentro de las 24 horas siguientes a la notificación;
 
 II. Lo relativo a la notificación, las pruebas y el desahogo de la audiencia, se sujetará a lo dispuesto por los artículos 93 a 95 y 98 a 101 de la Ley, y
 
-> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-III. Una vez concluida la audiencia a que se refiere la fracción anterior, la Delegación, o en su caso, la Secretaría de Protección Civil, deberá proceder de inmediato, a dictar la resolución que proceda y, a notificarla al interesado al día hábil siguiente.
+III. Una vez concluida la audiencia a que se refiere la fracción anterior, la Alcaldía deberá proceder de inmediato, a dictar la resolución que proceda y, a notificarla al interesado al día hábil siguiente.
 
 En caso de que proceda la suspensión inmediata del Espectáculo público, se procederá a su ejecución en el momento mismo de la notificación, con quien se encuentre presente en el lugar en el que se pretenda celebrar el evento de que se trate.
 
-> <small>(REFORMADO, G.O. 15 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 90.
 
-Son causas de revocación de oficio de los permisos, las siguientes:
+Son causas de revocación de oficio de los Permisos, las siguientes:
+
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2014)</small>
 
 I. No contar con el uso del suelo autorizado para la celebración del espectáculo;
 
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2014)</small>
+
 II. Realizar espectáculos diferentes a los autorizados;
+
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2014)</small>
 
 III. No respetar el aforo autorizado en el permiso correspondiente;
 
-IV. Cuando se impida a la Delegación, o en su caso, a la Secretaría de Protección Civil, el cumplimiento de sus funciones de verificación;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IV. Cuando se impida a la Alcaldía el cumplimiento de sus funciones de verificación;
+
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2014)</small>
 
 V. Expender bebidas alcohólicas sin autorización;
 
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2014)</small>
+
 VI. Permitir conductas que propicien la prostitución;
+
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2014)</small>
 
 VII. Cuando por motivo de la celebración de un espectáculo se ponga en peligro la seguridad, salubridad y orden públicos, o la integridad de los participantes o espectadores;
 
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2014)</small>
+
 VIII. No celebrar el espectáculo en la fecha señalada dentro del programa;
+
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2014)</small>
 
 IX. Suspender el espectáculo sin causa justificada en la fecha indicada en el programa;
 
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2014)</small>
+
 X. Cuando se haya expedido el permiso con base en documentos falsos o emitidos con dolo o mala fe;
+
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2014)</small>
 
 XI. Cuando se haya expedido un permiso en contravención a lo dispuesto en esta Ley,
 
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2014)</small>
+
 XII. Cuando se haya expedido el permiso por autoridad no competente; y
+
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2014)</small>
 
 XIII. La utilización de animales en espectáculos circenses.
 
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Así como las establecidas en la Ley de Gestión Integral de Riesgos y Protección Civil.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 91.
 
-En los casos no previstos en el artículo anterior, la Delegación no podrá revocar de oficio el permiso y tendrá que interponer para su anulación el procedimiento de lesividad ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal.
+En los casos no previstos en el artículo anterior, la Alcaldía no podrá revocar de oficio el permiso y tendrá que interponer para su anulación el procedimiento de lesividad ante el Tribunal de Justicia Administrativa de la Ciudad de México, en los términos de la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 ### CAPÍTULO IV. De la Revocación de Oficio de los Permisos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 92.
 
-El procedimiento de revocación de oficio de los permisos para la celebración de Espectáculos públicos, se iniciará cuando la Delegación, o en su caso, la Secretaría de Protección Civil, detecte a través de visitas de verificación, análisis documental o queja ciudadana, que el Titular ha incurrido en alguna de las causas de revocación de oficio que establece esta Ley, citándolo mediante notificación personal en la que se le hagan saber las causas que originaron la instauración del procedimiento, requiriéndolo para que comparezca a hacer valer lo que a su derecho convenga y ofrezca las pruebas que estime pertinentes, dentro de los dos días hábiles siguientes a la notificación.
+El procedimiento de revocación de oficio de los permisos para la celebración de Espectáculos públicos, se iniciará cuando la Alcaldía detecte a través de visitas de verificación, análisis documental o queja ciudadana, que la persona titular ha incurrido en alguna de las causas de revocación de oficio que establece esta Ley, citándola mediante notificación personal en la que se le hagan saber las causas que originaron la instauración del procedimiento, requiriéndola para que comparezca a hacer valer lo que a su derecho convenga y ofrezca las pruebas que estime pertinentes, dentro de los dos días hábiles siguientes a la notificación.
 
 En la cédula de notificación se expresará el lugar, día y hora en que se verificará la audiencia de pruebas y alegatos.
 
-> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-En caso de que la irregularidad sea detectada por la Secretaría de Protección Civil, notificará de inmediato a la delegación a efecto de iniciar el procedimiento de revocación a que hace mención el presente capítulo.
+En caso de que la irregularidad sea detectada por la Secretaría de Gestión Integral de Riesgos y Protección Civil, notificará de inmediato a la Alcaldía a efecto de iniciar el procedimiento de revocación a que hace mención el presente capítulo.
 
 ###### Artículo 93.
 
@@ -1232,15 +1506,19 @@ La simple notificación de la resolución en la que se determine la revocación 
 
 ### CAPÍTULO V. De las Notificaciones
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 97.
 
-Las notificaciones a las que alude la Ley serán de carácter personal y se podrán realizar también por medio de correo certificado, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal, salvo lo dispuesto en el artículo siguiente.
+Las notificaciones a las que alude la Ley serán de carácter personal y se podrán realizar también por medio de correo certificado, en los términos de la Ley de Procedimiento Administrativo de la Ciudad de México, salvo lo dispuesto en el artículo siguiente.
 
 ###### Artículo 98.
 
 Procederá la notificación por edictos cuando por cualquier circunstancia se desconozca o hubiera cambiado el domicilio del Titular.
 
-La publicación deberá hacerse por una sola vez en la Gaceta Oficial del Distrito Federal, y por tres veces, con intervalos de tres días, en dos periódicos de amplia circulación en el Distrito Federal, con cargo al Titular de la celebración del Espectáculo público de que se trate.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+La publicación deberá hacerse por una sola vez en la Gaceta Oficial de la Ciudad de México, y por tres veces, con intervalos de tres días, en dos periódicos de amplia circulación en la Ciudad de México, con cargo al Titular de la celebración del Espectáculo público de que se trate.
 
 ###### Artículo 99.
 
@@ -1258,9 +1536,11 @@ En caso de que en el establecimiento mercantil o lugar en el que se presente el 
 
 ### CAPÍTULO VI. Del Recurso de Inconformidad
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 102.
 
-Los afectados por actos y resoluciones de la Delegación, podrán interponer a su elección, el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo del Distrito Federal o promover juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Distrito Federal.
+Los afectados por actos y resoluciones de la Alcaldía, podrán interponer a su elección, el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo de la Ciudad de México o promover juicio de nulidad ante el Tribunal de lo (sic) Justicia Administrativa de la Ciudad de México.
 
 ## TRANSITORIOS
 
@@ -1389,3 +1669,17 @@ Los establecimientos dedicados a la celebración de espectáculos públicos o pr
 ###### ARTÍCULO TERCERO.
 
 Todas aquellas referencias realizadas a la Unidad de Cuenta de la Ciudad de México se entenderán hechas a la Unidad de Medida y Actualización, en tanto se modifiquen los artículos que a aquella hacen mención las presentes leyes.
+
+G.O. 2 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL Y DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO, DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL, DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL, ASÍ COMO DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El Reglamento de la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México, se actualizará dentro de un término de sesenta días, contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- Las Normas Técnicas, Términos de Referencia y Lineamientos a que se refiere la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México se actualizarán en lo que se opongan al presente Decreto, dentro de un término de noventa días, contados a partir de la entrada en vigor del presente mismo (sic).
+
+QUINTO.- La Plataforma Digital a que se refiere la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México se actualizarán en lo que se opongan al presente Decreto, dentro de un término de noventa días, contados a partir de la entrada en vigor del presente mismo (sic).
