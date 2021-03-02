@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-14806
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-31"
-last_updated: "2020-12-31"
+last_updated: "2021-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2021
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2021.
 
 Ley publicada en la Décima Segunda Sección del Número 76 del Periódico Oficial del Estado de Michoacán, el jueves 31 de diciembre de 2020.
 
@@ -369,6 +369,30 @@ En el supuesto de Baja por Robo de Vehículo, la condonación a que se refiere e
 
 Los créditos generados por los automóviles que por abandono de los contribuyentes se encuentren en estado de chatarrización, sólo se les condonaran los créditos a su cargo con el Estado en materia vehicular cuando conjuntamente con la solicitud de baja proporcionen su consentimiento para chatarrizar los mismos, en las administraciones de rentas o receptorías de que se trate, lo anterior con la finalidad de que no se siga contaminando los suelos por su situación material, y atendiendo a la situación jurídica en que se encuentren los mismos, en caso de ser materia de una investigación penal entre otros.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2021)</small>
+
+Así mismo, previo el cumplimiento de los requisitos que establece la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo y su Reglamento para tal efecto, así como el pago del derecho correspondiente, se podrán otorgar licencias de vigencia permanente de automovilista y motociclista.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2021)</small>
+
+El monto del Derecho a pagar por las citadas licencias será de $2,000.00 (dos mil pesos 00/100 M.N), para las clasificaciones de automovilista y motociclista. El presente incentivo tendrá una vigencia del 1 de marzo al 15 de marzo de 2021.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2021)</small>
+
+Los beneficios de este Acuerdo serán obtenidos a través de las oficinas y módulos de Recaudación de Rentas del Estado, Instituciones Bancarias y tiendas de conveniencia participantes, las cuales difundirán adecuadamente los beneficios contenidos en el presente Decreto, asegurándose de que en todas las oficinas públicas donde se reciban declaraciones o pagos, coloquen información a efecto de que cualquier usuario pueda conocer de forma clara los beneficios a que tiene derecho, conforme este Decreto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2021)</small>
+
+Los pagos que se hayan realizado con anterioridad a la vigencia de los beneficios establecidos en el presente Decreto no darán lugar a devolución o compensación de ninguna especie, así como tampoco otorgará beneficio adicional o inequitativo, ni hará distinción alguna
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2021)</small>
+
+Los beneficios a que se refiere este Decreto no son aplicables en los casos en los que las contribuciones de referencia se encuentren en proceso de fiscalización o determinadas mediante resolución definitiva de las autoridades fiscales competentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2021)</small>
+
+Todos los contribuyentes que cuenten con licencia permanente deberán de actualizar cada cinco años de forma gratuita, sus datos biométricos, con la finalidad de que se encuentre vigente el padrón y el seguro que ampara la licencia.
+
 Artículo Sexto. Todas las personas físicas o morales de carácter privado que durante el Ejercicio Fiscal 2021 incrementen su plantilla laboral, respecto de la plantilla que hasta el 31 de diciembre de 2020, tuvieran contratada y registrada, se les otorgara un subsidio del 100 % del impuesto sobre erogaciones por remuneración al trabajo personal, prestado bajo la dirección y dependencia de un patrón, respecto del incremento de su plantilla laboral conforme a lo siguiente:
 
 PA=Plantilla Registrada hasta el 31 de diciembre de 2020, conforme a la declaración correspondiente a diciembre de 2020.
@@ -398,3 +422,17 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 31 treinta y un días del mes de diciembre del año 2020 dos mil veinte.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- C. ARMANDO HURTADO ARÉVALO.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 514 POR EL QUE “SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO, PARA EL EJERCICIO FISCAL 2021.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese a la Dirección de Recaudación de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado para que, se prevean los recursos presupuestales y materiales necesarios para dar cumplimiento al presente Decreto.
