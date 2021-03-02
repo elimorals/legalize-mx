@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-consejo-de-la-judicatura-del-poder-8135
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-18"
-last_updated: "2018-03-27"
+last_updated: "2021-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE MARZO DE 2021.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 18 de mayo de 2011.
 
@@ -135,7 +135,19 @@ IV. Los Consejeros,
 
 V. La Secretaria Ejecutiva y
 
-VI. Los demás órganos que determine la Ley y el Pleno del Consejo.
+> <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
+
+VI. Los demás órganos que determine la Ley, este reglamento y el Pleno del Consejo.
+
+> <small>(ADICIONADO, D.O. 2 DE MARZO DE 2021)</small>
+
+Archivos de trámite
+
+###### Artículo 7 Bis.
+
+Cada órgano jurisdiccional, área administrativa, organismo descentralizado y órgano desconcentrado del Consejo contará con un archivo de trámite que estará integrado por documentos de archivo de uso cotidiano y necesario para el ejercicio de las atribuciones y funciones del órgano o área.
+
+Los responsables de los archivos de trámite serán designados de entre el personal adscrito al órgano jurisdiccional, área administrativa organismo descentralizado u órgano desconcentrado y deberán contar con licenciatura en áreas afines o tener conocimientos, habilidades, competencias y experiencia acreditada en archivística acorde a su responsabilidad; de no ser así, los titulares de los órganos jurisdiccionales y áreas administrativas tendrán la obligación de establecer las condiciones que permitan la capacitación de los responsables para el buen funcionamiento de sus archivos.
 
 Atribuciones
 
@@ -487,11 +499,25 @@ X. Informar al Pleno del Consejo en las (sic) sesión ordinaria de cada mes, sob
 
 XI. Las demás que le confiera la Ley Orgánica, este Reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO, D.O. 2 DE MARZO DE 2021)</small>
+
 Resguardo
 
 ###### Artículo 39.
 
-El Secretario Ejecutivo llevará un archivo, que contendrá en su legajo las convocatorias, citatorios, acuerdos y demás documentos impresos que sean tratados por el Pleno del Consejo.
+La Secretaría Ejecutiva llevará el archivo de trámite del Pleno del Consejo, que contendrá las convocatorias, citatorios, acuerdos y demás documentos impresos que sean tratados o de uso cotidiano y necesario para el ejercicio de las atribuciones y funciones del cuerpo colegiado.
+
+> <small>(ADICIONADO, D.O. 2 DE MARZO DE 2021)</small>
+
+Oficialía de Partes Administrativa
+
+###### Artículo 39 Bis.
+
+La Secretaría Ejecutiva contará con la Oficialía de Partes Administrativa, que será el área encargada de llevar a cabo los servicios centralizados de recepción, registro, distribución, seguimiento y despacho de la documentación del Pleno, de la Presidencia del Consejo, de las Comisiones Permanentes, de la propia Secretaría Ejecutiva y de las diversas áreas administrativas.
+
+La persona responsable de la Oficialía de Partes Administrativa deberá contar con licenciatura en áreas afines y tener los conocimientos, habilidades, competencias y experiencia acreditada en archivística acorde a su responsabilidad, por lo cual el Pleno y el Secretario Ejecutivo establecerán las condiciones que permitan la capacitación del responsable para el buen funcionamiento de los archivos.
+
+Las funciones específicas de la Oficialía de Partes Administrativa serán las establecidas en los Acuerdos Generales que expida el Pleno, con base en lo dispuesto en las leyes en materia de archivos.
 
 ### CAPÍTULO V. De las Comisiones del Consejo de la Judicatura
 
@@ -699,6 +725,8 @@ Comisión de Administración
 
 La Comisión de Administración es el órgano colegiado que tendrá la función de supervisar y vigilar que el ejercicio de los recursos humanos, materiales y presupuestales, sean realizados en base a los principios de honestidad, economía, eficiencia, eficacia, y transparencia adoptados por el Pleno del Consejo.
 
+> <small>(REFORMADO, D.O. 2 DE MARZO DE 2021)</small>
+
 Competencia específica de la Comisión de Administración
 
 ###### Artículo 56.
@@ -707,9 +735,11 @@ La Comisión de Administración vigilará y supervisará el funcionamiento y ope
 
 I. Dirección de Administración y Finanzas,
 
-II. Archivo Judicial y
+II. Unidad Coordinadora de Archivos,
 
-III. Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán.
+III. Archivo de Concentración, y
+
+IV. Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán.
 
 Atribuciones de la Comisión de Administración
 
@@ -735,7 +765,9 @@ VIII. Proponer al Pleno del Consejo para su aprobación, las políticas con rela
 
 IX. Solicitar a las áreas bajo su responsabilidad informes de sus actividades, a fin de tomar las medidas necesarias para eficientar su labor y darles seguimiento;
 
-X. Proponer al Pleno del Consejo las políticas y criterios para el resguardo de los expedientes en el Archivo General del Poder Judicial;
+> <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
+
+X. Proponer al Pleno del Consejo las políticas y criterios en materia de organización y conservación de archivos, elaborados por la Unidad Coordinadora de Archivos;
 
 XI. Proponer al Pleno del Consejo los criterios para hacer efectivas las sanciones pecuniarias impuestas a los servidores públicos del Poder Judicial, por las violaciones e infracciones en que pudieran incurrir;
 
@@ -999,7 +1031,9 @@ XVII. Administrar y vigilar el mantenimiento, conservación y acondicionamiento 
 
 XVIII. Autorizar el pago de las remuneraciones que devenguen los servidores públicos del ámbito de competencia del Consejo;
 
-XIX. Administrar el Archivo General del Poder Judicial, para el resguardo de los expedientes de los procesos concluidos y demás documentación que deba preservarse;
+> <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
+
+XIX. Administrar el Archivo de Concentración, para el resguardo de los expedientes de los procesos concluidos y demás documentación que deba preservarse conforme lo establecen las leyes y la normatividad aplicable en materia de archivos;
 
 XX. Proponer al Pleno los proyectos normativos y los criterios para la modernización de las estructuras orgánicas, los sistemas y procedimientos administrativos, así como los de servicio al público;
 
@@ -1339,19 +1373,99 @@ XV. Celebrar reuniones de trabajo con el personal a su cargo, con el objeto de r
 
 XVI. Las demás que el Consejo, la Ley Orgánica, este Reglamento y otras disposiciones normativas le confieran.
 
-#### Sección Primera. De la Visitaduría
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 2 DE MARZO DE 2021)</small>
+
+#### Sección Quinta. De la Unidad Coordinadora de Archivos
+
+> <small>(ADICIONADO, D.O. 2 DE MARZO DE 2021)</small>
 
 Competencia
 
-#### Sección Segunda. De la Contraloría
+###### Artículo 89 Bis.
+
+La Unidad Coordinadora de Archivos será la encargada de promover que la Oficialía de Partes, los archivos de trámite, de concentración e histórico, en su caso, lleven a cabo las acciones de gestión documental y administración de los archivos, de manera conjunta con los órganos jurisdiccionales y áreas administrativas del Consejo de la Judicatura.
+
+> <small>(ADICIONADO, D.O. 2 DE MARZO DE 2021)</small>
+
+Atribuciones
+
+###### Artículo 89 Ter.
+
+La Unidad Coordinadora de Archivos tendrá las atribuciones siguientes:
+
+I. Elaborar, con la colaboración de los responsables de los archivos de trámite, de concentración e histórico, en su caso, los instrumentos de control archivístico previstos en la Ley de Archivos para el Estado de Yucatán, en la Ley General de Archivos y demás normativa aplicable;
+
+II. Elaborar criterios específicos y recomendaciones en materia de organización y conservación de archivos, conforme a la especialidad y competencia del Consejo;
+
+III. Elaborar y someter a consideración del Pleno el Programa Anual de Desarrollo Archivístico;
+
+IV. Coordinar los procesos de valoración y disposición documental que realicen las áreas operativas;
+
+V. Coordinar las actividades destinadas a la modernización y automatización de los procesos archivísticos y a la gestión de documentos electrónicos de las áreas operativas;
+
+VI. Brindar asesoría técnica para la operación de los archivos;
+
+VII. Elaborar programas de capacitación en gestión documental y administración de archivos;
+
+VIII. Coordinar, con los órganos jurisdiccionales y áreas administrativas, las políticas de acceso y la conservación de los archivos;
+
+IX. Coordinar la operación de los archivos de trámite, concentración e histórico, en su caso, de acuerdo con la normatividad aplicable;
+
+X. Autorizar la transferencia de los archivos cuando un órgano jurisdiccional o área administrativa del Consejo sea sometida a procesos de fusión, escisión, extinción o cambio de adscripción; o cualquier modificación de conformidad con las disposiciones legales aplicables;
+
+XI. Fomentar políticas de difusión sobre cultura archivísticas, así como de los acervos con valor histórico;
+
+XII. Promover la integración del Grupo Interdisciplinario;
+
+XIII. Inscribir y administrar la información del Consejo en el Registro Estatal de Archivos, y
+
+XIV. Las demás que le confieran este Reglamento y las disposiciones aplicables, así como las que le sean encomendadas por el Pleno o el Presidente del Consejo, en materia archivística.
+
+En el ejercicio de sus atribuciones, la Unidad Coordinadora de Archivos se vinculará con el área homóloga en el Tribunal Superior de Justicia, con la finalidad de armonizar los registros, procesos, procedimientos, criterios y herramientas de los Sistemas Institucionales de Archivos del Tribunal y del Consejo de la Judicatura.
+
+> <small>(ADICIONADO, D.O. 2 DE MARZO DE 2021)</small>
+
+Integración
+
+###### Artículo 89 Quáter.
+
+La Unidad Coordinadora de Archivos se integrará por un Titular nombrado por el Pleno y los demás auxiliares que este determine, para el mejor despacho de los asuntos.
+
+El Titular de la Unidad Coordinadora de Archivos deberá contar con licenciatura en áreas afines a la materia de archivos, con antigüedad no menor de cinco años o tener conocimientos, habilidades, competencias y experiencia acreditara (sic) en archivística con la misma antigüedad.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 2 DE MARZO DE 2021)</small>
+
+#### Sección Sexta. Del Archivo de Concentración
+
+> <small>(ADICIONADO, D.O. 2 DE MARZO DE 2021)</small>
 
 Competencia
+
+###### Artículo 89 Quinquies.
+
+El Archivo de Concentración será la unidad encargada de la administración de los documentos de consulta esporádica por parte de los órganos jurisdiccionales y las áreas administrativas, los cuales permanecerán en su resguardo en tanto se define el destino final de dichos documentos, conforme lo establecen las leyes y la normatividad aplicable en materia de archivos.
+
+> <small>(ADICIONADO, D.O. 2 DE MARZO DE 2021)</small>
+
+Atribuciones
+
+###### Artículo 89 Sexies.
+
+El Archivo de Concentración contará con las atribuciones que establece la Ley General de Archivos, la Ley de Archivos para el Estado de Yucatán y la normativa aplicable.
+
+> <small>(ADICIONADO, D.O. 2 DE MARZO DE 2021)</small>
+
+Titular del Archivo de Concentración
+
+###### Artículo 89 Septies.
+
+El Titular del Archivo de Concentración deberá contar con licenciatura en áreas afines o tener conocimientos, habilidades, competencias y experiencia acreditada en archivística acorde a su responsabilidad; de no ser así, el Director de Administración y Finanzas tendrá la obligación de establecer las condiciones que permitan su capacitación para el buen funcionamiento de los archivos.
 
 ### CAPÍTULO IV. De los Órganos Técnicos
 
-#### Sección Primera. Del Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán
+#### Sección Primera. De la Visitaduría
 
-Características
+Competencia
 
 ###### Artículo 90.
 
@@ -1401,9 +1515,9 @@ VIII. Elaborar las propuestas de sanción administrativa de los servidores públ
 
 IX. Las demás que el Consejo, la Ley Orgánica, este Reglamento y otras disposiciones normativas le confieran.
 
-#### Sección Segunda. Del Centro Estatal de Solución de Controversias
+#### Sección Segunda. De la Contraloría
 
-Características
+Competencia
 
 ###### Artículo 93.
 
@@ -1477,9 +1591,9 @@ VIII. Las demás que el Consejo, la Ley Orgánica, este Reglamento y otras dispo
 
 ### CAPÍTULO V. De los Organismos Descentralizados y Órganos Desconcentrados
 
-#### Sección Primera. De los Expedientes documentales
+#### Sección Primera. Del Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán
 
-Expediente
+Características
 
 ###### Artículo 96.
 
@@ -1531,9 +1645,19 @@ XVI. Previo el estudio correspondiente, recomendar al Pleno del Consejo sobre el
 
 XVII. Asesorar en todo lo necesario a los funcionarios judiciales que, por disposición de las leyes, tengan relación con el Fondo Auxiliar;
 
-XVIII. Proveer de inmediato las cantidades que deban ser reintegradas a los beneficiarios o depositantes, y
+> <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
 
-XIX. Las demás que el Consejo, la Ley Orgánica, este Reglamento y otras disposiciones normativas le confieran.
+XVIII. Proveer de inmediato las cantidades que deban ser reintegradas a los beneficiarios o depositantes;
+
+> <small>(ADICIONADA, D.O. 2 DE MARZO DE 2021)</small>
+
+XIX. Designar de entre el personal asignado al Fondo Auxiliar para la Administración de Justicia, a la persona responsable del área de correspondencia, que será la encargada de llevar a cabo los servicios de recepción, registro, distribución, seguimiento y despacho de la documentación del organismo descentralizado; así como establecer las condiciones que permitan su capacitación para el buen funcionamiento de los archivos;
+
+> <small>(ADICIONADA, D.O. 2 DE MARZO DE 2021)</small>
+
+XX. Designar de entre el personal asignado al Fondo Auxiliar para la Administración de Justicia, a la persona responsable del archivo de trámite del organismo descentralizado; así como establecer las condiciones que permitan su capacitación para el buen funcionamiento de los archivos, y
+
+XXI. Las demás que el Consejo, la Ley Orgánica, este Reglamento y otras disposiciones normativas le confieran.
 
 Requisitos para ser Titular
 
@@ -1541,9 +1665,9 @@ Requisitos para ser Titular
 
 Para ser Titular del Fondo Auxiliar se requiere cumplir con los mismos requisitos señalados al Director de Administración y Finanzas del Consejo, establecidos en el artículo 128 de la Ley Orgánica.
 
-#### Sección Segunda. Del Expediente Electrónico
+#### Sección Segunda. Del Centro Estatal de Solución de Controversias
 
-Expediente Electrónico
+Características
 
 ###### Artículo 100.
 
@@ -1595,9 +1719,19 @@ XVIII. Coordinarse, en el ámbito de su competencia, con los titulares de otras 
 
 XIX. Atender las instrucciones y requerimientos administrativos turnados por el Pleno del Consejo o de la Comisión de Desarrollo Institucional;
 
-XX. Conocer y resolver las quejas presentadas en contra de los servicios que presta el Centro Estatal, o de alguno de sus integrantes, y
+> <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
 
-XXI. Las demás que el Consejo, este Reglamento y otras disposiciones normativas le confieran.
+XX. Conocer y resolver las quejas presentadas en contra de los servicios que presta el Centro Estatal, o de alguno de sus integrantes;
+
+> <small>(ADICIONADA, D.O. 2 DE MARZO DE 2021)</small>
+
+XXI. Designar de entre el personal asignado al Centro Estatal de Solución de Controversias, a la persona responsable del área de correspondencia, que será la encargada de llevar a cabo los servicios de recepción, registro, distribución, seguimiento y despacho de la documentación del órgano desconcentrado; así como establecer las condiciones que permitan su capacitación para el buen funcionamiento de los archivos;
+
+> <small>(ADICIONADA, D.O. 2 DE MARZO DE 2021)</small>
+
+XXII. Designar de entre el personal asignado al Centro Estatal de Solución de Controversias, a la persona responsable del archivo de trámite del órgano desconcentrado; así como establecer las condiciones que permitan su capacitación para el buen funcionamiento de los archivos, y
+
+XXIII. Las demás que el Consejo, este Reglamento y otras disposiciones normativas le confieran.
 
 Requisitos para nombramiento
 
@@ -1947,6 +2081,10 @@ II. Conservar en su poder el sello del Juzgado facilitándolo a los demás emple
 
 III. En ausencia del Secretario Auxiliar recibir los escritos que se les presenten, asentando al calce la razón del día y hora de la presentación, expresando las fojas que contengan, los documentos que se acompañen, la firma del que recibe el escrito y el sello del Juzgado. Asimismo, deben poner razón idéntica en la copia cuando se exhiba, para que dicha copia quede en poder del propio interesado para su resguardo;
 
+> <small>(ADICIONADA, D.O. 2 DE MARZO DE 2021)</small>
+
+III Bis. En ausencia del Secretario Auxiliar, encomendar las funciones a que se refieren las fracciones IV y VII del artículo 135 al personal jurisdiccional o administrativo a su cargo y supervisar su cumplimiento.
+
 IV. Dar cuenta diariamente al Juez bajo su responsabilidad y dentro de las veinticuatro horas siguientes a la recepción de todos los escritos y promociones que se presenten en los negocios de la competencia del Juzgado;
 
 V. Autorizar con su firma los despachos, exhortos, actas, diligencias, edictos de remate, autos y toda clase de resoluciones que se expidan, asienten, practiquen o dicten por el Juez debiendo entregar diariamente la audiencia respectiva a la Secretaría Auxiliar cuando exista éste cargo en el Órgano en el que se encuentre adscrito;
@@ -2067,17 +2205,23 @@ II. Recibir los escritos que se les presenten asentando al calce la razón del d
 
 III. Entregar los expedientes al Secretario de Acuerdos a más tardar el día hábil anterior a la fecha fijada para la celebración de una audiencia o diligencia judicial;
 
-IV. Cuidar y vigilar que el archivo de su área de adscripción se arregle en forma técnica y ejercer bajo su más estricta responsabilidad la custodia y vigilancia que sea necesaria para evitar la pérdida de los expedientes;
+> <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
+
+IV. Fungir como responsable del archivo de trámite del juzgado, y cuidar y vigilar que se organice conforme lo establecen las leyes y la normatividad aplicable en materia de archivos, así como ejercer bajo su más estricta responsabilidad la custodia y vigilancia que sea necesaria para evitar la pérdida de los expedientes;
 
 V. Clasificar y ordenar los expedientes a fin de que (sic) hacer expedita su localización para proveer en ellos o facilitarlos para información a las partes que intervienen, cuidar que cada una de las hojas sean debidamente numeradas al agregarse a los expedientes sellando entre foja y foja las actuaciones, oficios y demás documentos que lo requieran rubricando aquéllos en el centro del escrito;
 
 VI. Entregar puntualmente mediante recibo a la Central de Actuaría o al Actuario que corresponda, los expedientes en que haya resoluciones para notificar y recogerlos una vez diligenciados;
 
-VII. Inventariar y conservar en su poder los expedientes, incluso los que se mantengan en el archivo del Juzgado mientras no se remitan al Archivo General del Poder Judicial o al Superior en su caso y entregarlos con las formalidades legales cuando deba tener lugar la remisión;
+> <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
+
+VII. Inventariar y conservar en su poder los expedientes, incluso los que se mantengan en el archivo de trámite del Juzgado mientras no se remitan al Archivo de Concentración o al Superior en su caso y entregarlos con las formalidades legales cuando deba tener lugar la remisión;
 
 VIII. Proporcionar a los interesados los expedientes en los que fueren parte y que soliciten para informarse del estado de los mismos, para tomar apuntes o para cualquier otro efecto legal siempre que no estén en poder de los Actuarios y que sea en su presencia sin extraer las actuaciones de la oficina;
 
-IX. Remitir al Archivo Judicial, a la superioridad o al sustituto legal los expedientes en sus respectivos casos;
+> <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
+
+IX. Remitir al Archivo de Concentración, a la superioridad o al sustituto legal los expedientes en sus respectivos casos;
 
 X. Colaborar con el Secretario de Acuerdos en todas y cada una de sus obligaciones y atribuciones;
 
@@ -2179,13 +2323,19 @@ Facultades y obligaciones de los Archivistas
 
 En los Juzgados en que por razón de las necesidades del servicio que se otorga y siempre que las condiciones presupuestales lo permitan se requiera la asignación de un archivista, éste tendrá las siguientes facultades y obligaciones:
 
-l. Ordenar y clasificar los expedientes para el control respectivo en el más estricto orden por año y número consecutivo;
+> <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
+
+I. Ordenar y clasificar los expedientes para el control respectivo en el más escrito (sic) orden por año y número consecutivo y conforme lo establecen las leyes y la normatividad aplicable en materia de archivos;
 
 II. Colaborar con el Secretario Auxiliar en la localización de los expedientes con promociones para acordar y para consulta a los interesados;
 
-III. Realizar revisiones periódicas a efecto de informar al Secretario Auxiliar de los expedientes susceptibles de envío al archivo judicial por estar concluidos procesalmente;
+> <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
 
-IV. Prohibir la entrada al archivo a personas ajenas al mismo impidiendo el manejo de expedientes, oficios o documentos a su cargo, y
+III. Realizar revisiones periódicas a efecto de informar al Secretario Auxiliar de los expedientes susceptibles de envío al Archivo de Concentración por estar concluidos procesalmente;
+
+> <small>(REFORMADA, D.O. 2 DE MARZO DE 2021)</small>
+
+IV. Prohibir la entrada al archivo de trámite a personas ajenas al mismo impidiendo el manejo de expedientes, oficios o documentos a su cargo, y
 
 V. Las demás que le asigne el Juez o Secretario de Acuerdos.
 
@@ -2277,9 +2427,15 @@ Para ser Coordinador de la Central de Actuaría deberán cubrirse los mismos req
 
 Funciones de las Oficialías de Partes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 153.
 
-Las Oficialías de Partes son los órganos auxiliares administrativos del ámbito de competencia del Consejo encargadas de recibir y distribuir los escritos, promociones, demandas, consignaciones y demás documentos que deban conocer los órganos jurisdiccionales de primera instancia.
+Las Oficialías de Partes son los órganos auxiliares administrativos del ámbito de competencia del Consejo encargadas de la recepción, registro, distribución, seguimiento y despacho de los escritos, promociones, demandas, consignaciones y demás documentos que deban conocer los juzgados, de conformidad con la competencia prevista en el artículo 154 del presente reglamento o en la normatividad que regule su creación.
+
+> <small>(ADICIONADO, D.O. 2 DE MARZO DE 2021)</small>
+
+Las funciones específicas de las Oficialías de Partes serán las establecidas en los Acuerdos Generales que expida el Pleno, con base en lo dispuesto en las leyes en materia de archivos.
 
 Oficialías de Partes dependientes del Consejo
 
@@ -2295,9 +2451,15 @@ III. La de los Juzgados Especializados en Justicia para Adolescentes funcionará
 
 Presentación de Escritos y Promociones donde no exista Oficialía de Partes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 155.
 
-En los Departamentos Judiciales y regiones donde no exista Oficialía de Partes para la presentación de escritos y promociones deberá observarse lo dispuesto en el artículo 148 de este Reglamento.
+En los departamentos y distritos judiciales donde no exista Oficialía de Partes, cada juzgado contará con un área de correspondencia para la recepción, registro, distribución, seguimiento y despacho de los escritos, promociones, demandas, consignaciones y demás documentos que deban conocer el juzgado de que se trate conforme a lo dispuesto en el artículo 148 de este Reglamento.
+
+> <small>(ADICIONADO, D.O. 2 DE MARZO DE 2021)</small>
+
+Las funciones específicas de las áreas de correspondencia serán las establecidas en los Acuerdos Generales que expida el Pleno, con base en lo dispuesto en las leyes en materia de archivos.
 
 Recepción de Documentos
 
@@ -2305,13 +2467,19 @@ Recepción de Documentos
 
 En las Oficialías de Partes un servidor público judicial será el receptor de los documentos, les pondrá la fecha y la hora de recepción y su firma turnándolo al Juzgado que corresponda, de acuerdo con el sorteo en el sistema de cómputo y a falta de éste con la tabla de números índice. Para el efecto anterior la Oficialía de Partes estará dotada de un reloj marcador, equipo de cómputo, tablas de números índices que sean necesarios y el libro de registro correspondiente.
 
-Titulares de las Oficialías de Partes
+> <small>(REFORMADO, D.O. 2 DE MARZO DE 2021)</small>
+
+Titulares de las Oficialías de Partes y responsables de las áreas de correspondencia
 
 ###### Artículo 157.
 
-Los Titulares de las Oficialías de Partes serán funcionarios de confianza, de reconocida honorabilidad y deberán tener título de Abogado o de Licenciado en Derecho o acreditar haber concluido dicha licenciatura.
+Los titulares de las oficialías de partes y los responsables de las áreas de correspondencia serán funcionarios de confianza y de reconocida honorabilidad, deberán contar con título de abogado o licenciado en derecho y tener los conocimientos, habilidades, competencias y experiencia acreditada en archivística acorde a su responsabilidad, por lo cual el Pleno y los titulares de los órganos jurisdiccionales establecerán las condiciones que permitan la capacitación de estos servidores públicos, para el buen funcionamiento de los archivos.
 
 ### CAPÍTULO XII. De los Expedientes
+
+#### Sección Primera. De los Expedientes documentales
+
+Expediente
 
 ###### Artículo 158.
 
@@ -2346,6 +2514,10 @@ Guarda de los Expedientes
 ###### Artículo 163.
 
 La guarda de los expedientes se hará de conformidad con lo establecido en el Reglamento que el Consejo emita al respecto.
+
+#### Sección Segunda. Del Expediente Electrónico
+
+Expediente Electrónico
 
 ###### Artículo 164.
 
@@ -2634,3 +2806,37 @@ Con fundamento en el artículo 115 fracción XXIII de la Ley Orgánica del Poder
 ###### ARTÍCULO TERCERO
 
 Se derogan las disposiciones de igual o menor rango que contravengan lo dispuesto en este Acuerdo.
+
+D.O. 2 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO EX02-210224-01 POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE ARCHIVOS”.]
+
+Entrada en vigor
+
+Primero. Este acuerdo general entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Designación de los responsables de los archivos de trámite
+
+Segundo. Dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor de este Acuerdo General, los titulares o encargados de los órganos jurisdiccionales, de las áreas administrativas, del Fondo Auxiliar para la Administración de Justicia y del Centro Estatal de Solución de Controversias designarán a los responsables de sus respectivos archivos de trámite.
+
+Tratándose de los órganos jurisdiccionales, la designación deberá recaer en alguna persona que se desempeñe como secretario auxiliar y, en caso de no contar con esta categoría dentro de su estructura, se designará a la persona que cuente con los conocimientos, habilidades, competencias y experiencia archivísticos acordes a su responsabilidad.
+
+Designación de los responsables de las áreas de correspondencia
+
+Tercero. Dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor de este Acuerdo General, la persona titular o encargada del Fondo Auxiliar para la Administración de Justicia, la persona titular del Centro Estatal de Solución de Controversias y las personas titulares de los juzgados con sede en departamentos o distritos judiciales donde no exista oficialía de partes, designarán de entre el personal a su cargo, a la persona responsable del área de correspondencia.
+
+Implementación del Sistema Institucional de Archivos del Consejo de la Judicatura
+
+Cuarto. Dentro del plazo de seis meses contados a partir de la entrada en vigor de este Acuerdo General, el Pleno implementará el Sistema Institucional de Archivos del Consejo de la Judicatura, conforme a lo establecido en la Ley de Archivos para el Estado de Yucatán.
+
+Integración y formalización del grupo interdisciplinario
+
+Quinto. Dentro del plazo de sesenta días hábiles contados a partir de la entrada en vigor de este Acuerdo General, la persona titular de la Unidad Coordinadora de Archivos, propiciará la integración y formalización del grupo interdisciplinario que coadyuvará en la valoración documental, conforme a lo previsto en la Ley de Archivos para el Estado de Yucatán.
+
+Desempeño temporal de funciones de Unidad Coordinadora de Archivos
+
+Sexto. En tanto el Consejo de la Judicatura cuente con los recursos presupuestales asignados para designar a la persona titular de la Unidad Coordinadora de Archivos, la persona responsable del Archivo de Concentración realizará las funciones que corresponden a dicha unidad.
+
+Funcionamiento temporal de la Secretaría Ejecutiva como área de correspondencia
+
+Séptimo. En tanto el Consejo de la Judicatura cuente con los recursos presupuestales asignados, para dotar de los recursos humanos, financieros y materiales a la Oficialía de Partes Administrativa, para prestar el servicio a que se refiere el artículo 39 Bis, adicionado mediante este Acuerdo General, la Secretaría Ejecutiva fungirá como área de correspondencia del Pleno y de las Comisiones Permanentes, únicamente.
