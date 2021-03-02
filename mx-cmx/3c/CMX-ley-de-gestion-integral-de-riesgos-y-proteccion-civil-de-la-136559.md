@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-gestion-integral-de-riesgos-y-proteccion-civil-de-la-136
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-05"
-last_updated: "2019-06-05"
+last_updated: "2021-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136559&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-06-05"
 
 LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE MARZO DE 2021.
 
 Ley publicada en Número 106 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 5 de junio de 2019.
 
@@ -76,11 +76,17 @@ VI) Establecer los mecanismos de coordinación del Gobierno de la Ciudad de Méx
 
 Para los efectos de esta Ley, además de las definiciones que establece la Ley General de Protección Civil, se entiende por:
 
-I) Acuerdo: Acuerdo de clasificación de Protección Civil emitido por la Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México, publicado en la Gaceta Oficial, que con base en el Sistema de Clasificación Industrial de América del Norte, se determinan las actividades, empresas, industrias y establecimientos que deberán contar con Programa Interno;
+I) (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
-II) Alcaldía: A la persona titular de la Alcaldía o la demarcación territorial;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-III) Apoyo psicológico: Aproximación de primer contacto, enfocado en el acercamiento empático y la ayuda práctica a los afectados, posterior a la ocurrencia de un evento con alta carga emocional y que tiene por objeto ayudar a normalizar las posibles respuestas e iniciar mecanismos de recuperación;
+II) Alcaldía: el órgano político administrativo de cada demarcación territorial de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II BIS) Análisis de Riesgos: aquel donde se identifican los riesgos a los cuales los establecimientos o inmuebles están propensos, definiendo las acciones de prevención necesarias para incrementar la efectividad del Plan de Continuidad y a la vez establecer acciones preventivas para la reducción de los riesgos;
+
+III) (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
 IV) Atlas de Riesgos de Alcaldía: Es el Atlas de Riesgos de cada una de las Alcaldías, que integran el sistema de información que identifica los daños y pérdidas esperados a que está expuesta la población, resultado de un análisis espacial y temporal, sobre la interacción entre los Peligros, la Vulnerabilidad, la exposición y los Sistemas Expuestos;
 
@@ -94,7 +100,9 @@ VIII) Brigadistas Comunitarios: Son las personas organizadas, preparadas y capac
 
 IX) Capacitación: Conjunto de procesos organizados y dirigidos a iniciar, prolongar y complementar los conocimientos de los operativos, coadyuvantes y destinatarios del Sistema, mediante la generación de conocimientos, el desarrollo de habilidades y el cambio de actitudes, con el fin de incrementar la capacidad individual y colectiva;
 
-X) Carta de Corresponsabilidad: Documento expedido por el Tercero Acreditado que avala el cumplimiento de las disposiciones legales y administrativas en materia de Gestión Integral de Riesgos y Protección Civil y con el que se responsabiliza solidariamente con la persona física o moral que solicitó la elaboración del Programa Interno o Especial de Protección Civil;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+X) Carta de Corresponsabilidad. Documento con formato previamente establecido por la Secretaría, en el que el tercero acreditado denominado Responsable Oficial de Protección Civil avala plenamente el cumplimiento de las disposiciones legales y administrativas en materia de esta Ley y su reglamento y con el que se responsabiliza legalmente con la persona moral o física que obligatoriamente deba presentar el programa interno o especial de protección civil;
 
 XI) Carta de Responsabilidad: Documento expedido por las personas obligadas a contar con un Programa Interno o Especial de Protección Civil, en el que se obligan a cumplir con las actividades establecidas en dichos programas;
 
@@ -104,9 +112,9 @@ XIII) Centros Operacionales de Emergencia Regionales de Comando y Control: Son l
 
 XIV) Comité de Emergencias: Comité de Emergencias de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México;
 
-XV) Comité de Instalaciones Subterráneas: Órgano consultivo, de apoyo y de coordinación interinstitucional en materia de Gestión Integral de Riesgos y Protección Civil entre el Gobierno de la Ciudad de México, por conducto de la Secretaría, las dependencias y entidades de la administración pública local y federal, así como de la iniciativa privada; responsable de la operación o instalación subterránea de los Servicios Vitales y los Sistemas Estratégicos de la Ciudad de México;
+XV) (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
-XVI) Comité de Prevención de Riesgos: Son las organizaciones de la ciudadanía que se constituyen en las colonias, barrios y pueblos originarios para llevar a cabo acciones a nivel comunitario en materia de Gestión Integral de Riesgos y Protección Civil, entre ellas las de prevención y Mitigación de Riesgos y Atlas de Riesgos Participativos, así como incrementar la capacidad de Resiliencia de la comunidad y propiciar la respuesta social humanitaria;
+XVI) (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
 XVII) Congreso: El Poder Legislativo de la Ciudad de México ejercido a través del Congreso de la Ciudad de México, representado por la persona que presida la Comisión de Protección Civil y Gestión Integral de Riesgos y dos integrantes de la misma;
 
@@ -120,17 +128,27 @@ XXI) Declaratoria de Desastre: Acto mediante el cual el Gobierno de la Ciudad de
 
 XXII) Declaratoria de Emergencia: Reconocimiento por parte del Gobierno de la Ciudad de México de que existe riesgo inminente a que ocurra un desastre que ponga en riesgo la vida, el patrimonio de la población, los Servicios Vitales o los Sistemas Estratégicos;
 
-XXIII) Establecimientos: A los establecimientos mercantiles, fábricas, bodegas, almacenes, escuelas, hospitales y en general a cualquier instalación en donde se comercialicen o proporcionen bienes o servicios o se realicen procesos de transformación de materias primas en productos terminados o semi-terminados;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XXIII) Establecimientos: Establecimientos mercantiles.
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XXIII BIS) Estudio de Riesgos: documento que indica de forma puntual los daños probables, define y valora las características de los peligros o amenazas naturales o antropogénicos al interior o exterior de obras de construcción que requieren manifestación de construcción tipo B y C.
 
 XXIV) Evacuación: Medida de seguridad que consiste en el alejamiento de la población de la zona de peligro, en la cual debe preverse la colaboración de la población, de manera individual o en grupos, considerando, entre otros aspectos, el desarrollo de las misiones de salvamento, socorro y asistencia social; los medios, los itinerarios y las zonas de concentración y destino, la documentación del transporte para los niños; las instrucciones sobre el equipo familiar; además del esquema de regreso a sus hogares una vez superada la situación de emergencia;
 
-XXV) FADE: Fondo de Atención a Desastres y Emergencias, instrumento operado por el Gobierno de la Ciudad de México, activado mediante las Declaratorias de Emergencia y Desastre, en los términos de esta Ley y las Reglas de Operación para el otorgamiento de suministros de auxilio y asistencia por la ocurrencia de Fenómenos Perturbadores y la recuperación de los Daños causados por los mismos;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XXV) FONADEN: Fondo de Atención a los Desastres de la Ciudad de México, instrumento operado por el Gobierno de la Ciudad de México, activado mediante las Declaratorias de Emergencia y Desastre, en los términos de esta Ley y las Reglas de Operación para el otorgamiento de suministros de auxilio y asistencia por la ocurrencia de Fenómenos Perturbadores y la recuperación de los Daños causados por los mismos;
 
 XXVI) Fenómeno Perturbador: Evento de carácter geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico, socio-organizativo o astronómico con potencial de causar daños o pérdidas en sistemas expuestos vulnerables, alteración de la vida social y económica o degradación ambiental;
 
-XXVII) Fideicomiso del FADE: Instrumento que se integra con los recursos presupuestales remanentes, provenientes de los ejercicios financieros anuales del FADE;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-XXVIII) FOPDE: Fondo de Prevención de Desastres, instrumento financiero operado por el Gobierno de la Ciudad de México, con la finalidad de realizar acciones programadas de carácter preventivo para mitigar los efectos causados por la posible ocurrencia de fenómenos perturbadores;
+XXVII) Fideicomiso del FONADEN: Instrumento que se integra con los recursos presupuestales remanentes de los cuales se destinará como mínimo una cantidad equivalente al 30% del total, para estabilizar los recursos presupuestales de las Dependencias, Entidades, Órganos Desconcentrados y Alcaldías el cual será destinado a la atención de contingencias y emergencias epidemiológicas y de desastres naturales;
+
+XXVIII) (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
 XXIX) Gestión Integral de Riesgos: Proceso de planeación, participación, evaluación y toma de decisiones, que basado en el conocimiento de los riesgos y su proceso de construcción, deriva en un modelo de intervención de los órdenes de gobierno y de la sociedad, para implementar políticas, estrategias y acciones, cuyo fin último es la previsión, reducción y control permanente del riesgo de desastre, combatir sus causas de fondo, siendo parte de los procesos de planificación y del desarrollo sostenible. Logrando territorios más seguros, más humanos y Resilientes. Involucra las etapas de identificación de riesgos, previsión, prevención, Mitigación, preparación, auxilio, recuperación y reconstrucción;
 
@@ -150,21 +168,25 @@ XXXVI) Mitigación: Las acciones realizadas con el objetivo de disminuir la Vuln
 
 XXXVII) Norma Técnica: Conjunto de reglas científicas o tecnológicas expedidas por la Secretaría de carácter obligatorio para la Ciudad de México, en las que se establecen los requisitos, especificaciones, parámetros y límites permisibles que deberán observarse en la aplicación de los proyectos y programas, así como en el desarrollo de actividades o en el uso y destino de bienes que incrementen o tiendan a incrementar los niveles de riesgo;
 
-XXXVIII) Nueva Agenda Urbana: Guía con carácter vinculante para orientar los esfuerzos en materia de desarrollo de las ciudades para una amplia gama de sectores que busca promover ciudades más incluyentes, compactas y conectadas, aprobada por la Conferencia de las Naciones Unidas el 20 de octubre de 2016.
+XXXVIII) (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
 XXXIX) Organizaciones Civiles: Asociaciones de personas legalmente constituidas y registradas ante la Secretaría, cuyo objeto social se vincula a la Gestión Integral de Riesgos y Protección Civil;
 
-XL) Pérdidas: Son los efectos posteriores a un desastre derivados de la interrupción de servicios, disminución en la producción, costos y gastos adicionales, entre otros;
+XL) (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
 XLI) Plan de Contingencias: Es un instrumento preventivo a partir del diagnóstico en la materia, en el que se determinan las acciones y los responsables de ejecutarlas, a partir de la inminencia o presencia de los diferentes Fenómenos Perturbadores sobre la vida, bienes y entorno de la población;
 
 XLII) Plan Familiar de Protección Civil: Conjunto de actividades a realizar antes, durante y después de una emergencia o desastre, por los miembros de una familia;
 
-XLIII) Plataforma Digital: La plataforma digital que se encuentra en el portal de la Secretaría.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XLIII) Plataforma Digital: Registro de base de datos dinámica en conjunto entre las Alcaldías y la Secretaría para los Programas Internos y Programas Especiales, que deberá coordinarse con otros ordenamientos de la Ley de Establecimientos Mercantiles y el Reglamento de Construcciones vigentes en la Ciudad de México y demás ordenamientos aplicables.
 
 XLIV) Programa de la Alcaldía: El Programa de Gestión Integral de Riesgos y Protección Civil de los órganos político-administrativos de la Ciudad de México;
 
-XLV) Programa Especial: Instrumento de planeación en cuyo contenido se establecen las medidas de prevención y respuesta derivados de actividades, eventos o espectáculos públicos de afluencia masiva en áreas o inmuebles diferentes a su uso habitual, y que lleva a cabo cualquier persona física o moral, pública o privada;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XLV) Programa Especial: Constituye un instrumento en cuyo contenido se establecen las medidas de prevención y respuesta para actividades, eventos o espectáculos públicos de afluencia masiva en áreas o inmuebles diferentes a su uso habitual que conlleven un nivel elevado de riesgo y que lleva a cabo cualquier persona física o moral pública o privada
 
 XLVI) Programa Específico: Programa Específico de Gestión Integral de Riegos y Protección Civil, son los instrumentos de planeación y operación para atender problemas derivados de la interacción de los Fenómenos Perturbadores en una zona o región determinada o determinables de la Ciudad de México, que involucran a grupos de población específicos y en condiciones de Vulnerabilidad, y que por las características previsibles de los mismos, permiten un tiempo adecuado de planeación, con base en las etapas consideradas en la Gestión Integral de Riesgos, incorporando además el enfoque de Riesgos por Cambio Climático;
 
@@ -178,6 +200,10 @@ L) Reglamento: Reglamento de la Ley de Gestión Integral de Riesgos y Protecció
 
 LI) Resiliencia: Es la capacidad de un individuo, familia, comunidad, sociedad, y/o sistema potencialmente expuestos (sic) a un peligro o riesgo para resistir, asimilar, adaptarse y recuperarse del impacto y efectos de un Fenómeno Perturbador en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura, mejorando las medidas de reducción de riesgos y saliendo fortalecidos del evento;
 
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+LI BIS) Responsable Oficial de Protección Civil (ROPC): Es la persona física auxiliar de la Administración, con autorización y registro otorgado por la Secretaría quien tiene la atribución en todas aquellas actividades vinculadas con su responsiva, de ordenar y hacer valer la observación de esta Ley en el ámbito de los Programas Internos de Protección Civil y Programas Especiales y otras disposiciones aplicables;
+
 LII) Riesgo: Daños o pérdidas probables sobre un Sistema Expuesto, resultado de la interacción entre su vulnerabilidad y la exposición ante la presencia de un Fenómeno Perturbador;
 
 LIII) Riesgo de Desastre: La probabilidad de que el impacto de un Fenómeno Perturbador sobre un Sistema Expuesto rebase la capacidad de respuesta de este;
@@ -188,7 +214,9 @@ LV) Riesgo Inminente: Aquel Riesgo que de acuerdo a la opinión técnica o dicta
 
 LVI) Secretaría: La Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México;
 
-LVII) Servicios Vitales: Elemento o conjunto de elementos indispensables para el desarrollo de las condiciones ordinarias de vida de la sociedad en la Ciudad de México;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+LVII) Servicios Vitales: conjunto de elementos indispensables para el desarrollo de las condiciones ordinarias de vida de la sociedad en la Ciudad de México;
 
 LVIII) Simulacro: Representación mediante una simulación de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una respuesta eficaz ante posibles situaciones reales de Emergencia o Desastre. Implica el montaje de un escenario en terreno especifico, diseñado a partir de la identificación y análisis de Riesgos y la Vulnerabilidad de los Sistemas Expuestos;
 
@@ -202,13 +230,25 @@ LXII) Sistema: Sistema de Gestión Integral de Riesgos y Protección Civil de la
 
 LXIII) Sistemas Estratégicos: Estructura gubernamental de trascendencia prioritaria que tiene como objetivo mantener la paz pública a través del resguardo u operación de servicios, información y elementos indispensables para convivir en un Estado de derecho;
 
-LXIV) Tercero Acreditado: Personas físicas o morales que prestan servicios profesionales en materia de Gestión Integral de Riesgos y Protección Civil, en los rubros de capacitación, análisis de riesgo-vulnerabilidad y formulación de Programas Internos y especiales; debidamente registradas y autorizadas por la Secretaría para emitir Cartas de Corresponsabilidad;
+LXIV) (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
 LXV) Términos de Referencia: Guía técnica única para la elaboración de los Programas Internos y Especiales, elaborada y publicada por la Secretaría;
 
-LXVI) Unidad Canófila Operativa: Binomio preparado y capacitado para responder eficientemente ante una Emergencia o Desastre y que ha sido acreditado como tal por la autoridad competente; y
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
 
-LXVII) Unidades de Gestión Integral de Riesgos y Protección Civil: Los organismos de la administración pública de las Alcaldías encargados de la organización, coordinación y operación del Sistema en su ámbito territorial.
+LXV BIS) UMA: Unidad de Medida y Actualización vigente
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+LXVI) Unidad Canófila Operativa: binomio preparado y capacitado para responder eficientemente ante una emergencia o desastre y que ha sido acreditado como tal por la autoridad competente;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+LXVII) Unidad de Gestión Integral de Riesgos y Protección Civil: la unidad administrativa de cada una de las Alcaldías encargada de la organización, coordinación y operación del Sistema en su ámbito territorial, y
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+LXVIII) Vulnerabilidad: susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales.
 
 ###### Artículo 3.
 
@@ -223,6 +263,10 @@ El emblema distintivo de la Protección Civil en la Ciudad de México deberá co
 La función de Gestión Integral de Riesgos y Protección Civil está a cargo del Sistema y tiene como fin primordial la prevención, control y reducción del Riesgo de Desastres, así como, mitigar los efectos destructivos que los Fenómenos Perturbadores pueden ocasionar a la estructura de los Servicios Vitales y los Sistemas Estratégicos.
 
 Los poderes Ejecutivo, Legislativo y Judicial locales, los organismos constitucionales autónomos y los sectores privado y social, así como la población en general, serán corresponsables en los términos de esta Ley, en coordinar eficazmente las acciones de Gestión Integral de Riesgos y Protección Civil.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Artículo 5 BIS. Para efectos de la presente Ley, son supletorias, en lo que corresponda, la ley de Procedimiento Administrativo, la ley de Establecimientos Mercantiles, la ley para la Celebración de Espectáculos Públicos y el Reglamento de Construcciones, todas vigentes en la Ciudad de México, así como las demás que les resulten aplicables.
 
 ## TÍTULO SEGUNDO. DEL SISTEMA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO
 
@@ -318,7 +362,7 @@ IV. Incluir en el proyecto de Presupuesto de Egresos de la Ciudad de México los
 
 V. Constituir los fondos, fideicomisos, instrumentos, contratos y figuras análogas a que se refiere la Ley o los que sean necesarios para su correcta aplicación;
 
-VI. Aprobar y expedir el Programa General;
+VI. (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
 VII. Resolver y, en su caso, emitir las Declaratorias de Emergencia o Desastre de la Ciudad de México;
 
@@ -346,7 +390,9 @@ V) Ejecutar, cumplir y vigilar el cumplimiento de la presente Ley y otras dispos
 
 VI) Denunciar, ante las instancias competentes, las faltas y omisiones que impidan el funcionamiento del Sistema y las acciones que generen daños, pérdidas o perjuicios a la vida, bienes y entorno de la población;
 
-VII) Elaborar el Programa General y ponerlo a consideración de la Jefatura de Gobierno;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VII) Elaborar y publicar el Programa General;
 
 VIII) Solicitar de manera permanente, la información del estado de Riesgo que guardan los Servicios Vitales y los Sistemas Estratégicos y, en general, la Ciudad de México;
 
@@ -368,9 +414,15 @@ XVI) Promover la cultura de Gestión Integral de Riesgos y Protección Civil, pr
 
 XVII) Elaborar los Programas Específicos, frente al peligro provocado por los diferentes tipos de Fenómenos Perturbadores;
 
-XVIII) Revisar y registrar los Programas Internos de los inmuebles que ocupen las dependencias y entidades de la administración pública, órganos autónomos y del poder legislativo y judicial de la Ciudad de México;
+XVIII) (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
-XIX) Registrar y autorizar a los Terceros Acreditados en las modalidades descritas en la presente Ley;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XIX) Registrar y autorizar a los Responsables Oficiales de Protección Civil (ROPC), en las modalidades y lineamientos establecidos en la presente Ley;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XIX BIS) Establecer las capacitaciones y actualizaciones para los Responsables Oficiales de Protección Civil de forma anual.
 
 XX) Iniciar y resolver el procedimiento administrativo con la finalidad de revocar la autorización a los Terceros Acreditados, empresas de capacitación, consultoría y de estudios de riesgo vulnerabilidad que incurran en violaciones a la presente Ley o su Reglamento;
 
@@ -388,11 +440,15 @@ XXVI) Informar y denunciar, en los términos de esta Ley, el establecimiento de 
 
 XXVII) Instrumentar las acciones necesarias para que, a través del funcionario designado por la normatividad vigente, la Ciudad de México solicite la emisión de las Declaratorias de Emergencia o de Desastre que establece la Ley General de Protección Civil;
 
-XXVIII) Solicitar a la Jefatura de Gobierno la emisión de las Declaratorias de Emergencia o Desastre, acompañando dicha solicitud con un informe técnico de la situación por la que se requiere la intervención inmediata del Sistema de Gestión Integral de Riesgos y Protección Civil y de los recursos del FADE, en los términos de las Reglas de Operación de cada instrumento;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-XXIX) Auxiliar a la Jefatura de Gobierno, en la resolución de las solicitudes de Declaratorias de Emergencia o Desastre de las Alcaldías;
+XXVIII) Solicitar a la Jefatura de Gobierno la emisión de las Declaratorias de Emergencia o Desastre, acompañando dicha solicitud con un informe técnico de la situación por la que se requiere la intervención inmediata del Sistema de Gestión Integral de Riesgos y Protección Civil y de los recursos del FONADEN, en los términos de las Reglas de Operación de cada instrumento;
 
-XXX) Determinar, en los términos de las Reglas de Operación, la adquisición de equipo especializado de transporte, comunicación, alertamiento y atención de emergencias y desastres, con cargo al FOPDE, debiendo informar al Consejo sobre el destino de los recursos erogados;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XXIX) Auxiliar a la Jefatura de Gobierno, en la resolución de las solicitudes de Declaratorias de Emergencia o Desastre de las Alcaldías; Determinar, en los términos de las Reglas de Operación, la adquisición de equipo especializado de transporte, comunicación, alertamiento y atención de emergencias y desastres, debiendo informar al Consejo sobre el destino de los recursos erogados;
+
+XXX) (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
 XXXI) Establecer las bases de operación de instancias, mecanismos, instrumentos y procedimientos de carácter técnico operativo, servicios y logística que permitan prevenir y atender la eventualidad de un desastre;
 
@@ -420,7 +476,17 @@ XLII) Suscribir convenios de colaboración con las Instituciones que considere a
 
 XLIII) Realizar estudios y análisis de Resiliencia territorial y comunitaria;
 
-XLIV) Establecer los criterios de evaluación de desempeño técnico para el Sistema, así como de las Unidades de Gestión Integral de Riesgos y Protección Civil; y
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XLIV) Establecer los criterios de evaluación de desempeño técnico para el Sistema, así como de las Unidades de Gestión Integral de Riesgos y Protección Civil;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XLIV BIS) Expedir las normas técnicas en materia de refugios temporales, centros de acopio y las demás necesarias en la materia.
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XLIV TER) Elaborar y Publicar el formato de la Carta de Corresponsabilidad de los Responsables Oficiales de Protección Civil
 
 XLV) Las demás que la presente Ley, así como otras disposiciones le asignen.
 
@@ -438,19 +504,39 @@ III) Instalar la Unidad de Gestión Integral de Riesgos y Protección Civil de l
 
 IV) Formular y ejecutar, de conformidad con el Programa Nacional de Protección Civil y el Programa General, el Programa de la Alcaldía;
 
-V) Elaborar, de conformidad con los lineamientos técnicos y operativos que al efecto emita la Secretaría, el Atlas de Riesgos de la Alcaldía y mantenerlo actualizado permanentemente;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-VI) Informar y enviar a la Secretaría, de manera mensual, las actualizaciones realizadas al Atlas de Riesgos de la Alcaldía;
+V) Elaborar el Atlas de Riesgos y Protección Civil de la Alcaldía de conformidad con los lineamientos establecidos por la Secretaría, el cual deberá actualizarse cada año.
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VI) Denunciar ante las autoridades competentes las conductas que así lo ameriten y ejercitar las acciones que le correspondan, en términos de la legislación aplicable
 
 VII) Ejecutar, cumplir y vigilar, en el ámbito de su competencia, el cumplimiento de la Ley, el Reglamento y otras disposiciones en la materia;
 
 VIII) Informar, cuando así lo solicite la Secretaría, del estado de Riesgo que guardan los Servicios Vitales y los Sistemas Estratégicos asentados en su Alcaldía;
 
-IX) Verificar, en el ámbito de su competencia, el cumplimiento y aplicación de los Programas Internos y Especiales;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IX) Verificar el cumplimiento y aplicación de los Programas Internos y Especiales, así como las demás obligaciones en materia de protección civil;
 
 X) Publicar mensualmente en su portal institucional el padrón de los Terceros Acreditados autorizados, que para tales efectos remita la Secretaría;
 
-XI) Registrar y vigilar el cumplimiento de los Programas Internos y Especiales que presenten los respectivos obligados, siempre y cuando no sean competencia de la Secretaría;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XI) Registrar, a través de la Ventanilla Única, los Programas Internos de Protección Civil y los Programas Especiales que presenten los respectivos obligados, registrar las cartas responsivas y las cartas de corresponsabilidad debidamente signadas;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XI BIS) Revisar que los ROPC que signen las cartas de corresponsabilidad estén en el Padrón actualizado de la Secretaría. De no ser así, deberán rechazar el registro de los Programas y actuar de acuerdo con la Ley de Procedimiento Administrativo de la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XI TER) Registrar los Programas Especiales e Internos en la Plataforma Digital establecida por la Secretaría.
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XI QUATER) Para los Centros Educativos establecidos en su demarcación deberán vigilar que el Programa Interno de Protección Civil se encuentre vigente. De no ser así, deberá procederse de acuerdo a la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 XII) Identificar y elaborar las opiniones y/o dictámenes técnicos respecto a las condiciones de Riesgo de sitios, inmuebles o actividades, en los términos de esta Ley y el Reglamento;
 
@@ -462,7 +548,7 @@ XV) Integrar, capacitar y coordinar a los Brigadistas Comunitarios en apoyo al S
 
 XVI) Solicitar a la Jefatura de Gobierno, en los términos que establece la presente Ley, la emisión de la Declaratoria de Emergencia;
 
-XVII) Solicitar, en los términos de las Reglas de Operación, la adquisición de equipo especializado de transporte, comunicación, alertamiento y atención de Emergencias y Desastres con cargo al FOPDE;
+XVII) (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
 XVIII) Informar mensualmente a la Secretaría los resultados de las verificaciones que se realicen en la materia, ya sean ordinarias o extraordinarias;
 
@@ -516,9 +602,11 @@ X) Proponer, previa opinión del Consejo de la Alcaldía, el programa anual de c
 
 XI) Las demás que le asigne la persona titular de la Alcaldía, la presente Ley y otras disposiciones.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 20.
 
-Las Unidades de Gestión Integral de Riesgos y Protección Civil basarán su operación en los lineamientos, términos e instrumentos que establece esta Ley, el Reglamento, el Acuerdo, Términos de Referencia, Normas Técnicas y los demás instrumentos del Sistema, apoyando sus acciones en el Consejo de la Alcaldía, las Comisiones y Comités que él propio Consejo determine en sesión, en coordinación con la Secretaría.
+Las Unidades de Gestión Integral de Riesgos y Protección Civil basarán su operación en los lineamientos, términos e instrumentos que establece esta Ley, el Reglamento, Términos de Referencia, Normas Técnicas y los demás instrumentos del Sistema, apoyando sus acciones en el Consejo de la Alcaldía, las Comisiones y Comités que él propio Consejo determine en sesión, en coordinación con la Secretaría.
 
 ###### Artículo 21.
 
@@ -532,9 +620,13 @@ La vigencia del nombramiento del personal de dicha Unidad dependerá, sin perjui
 
 El Consejo estará integrado por:
 
-I. La Jefatura de Gobierno, quien lo presidirá;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-II. La Secretaría, quien fungirá como Secretario Ejecutivo y suplente de la Jefatura de Gobierno;
+I. La Jefatura de Gobierno;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. La Secretaría, quien lo presidirá y fungirá como Secretario Ejecutivo;
 
 III. Las y los titulares de las dependencias y secretarías de la administración pública de la Ciudad de México;
 
@@ -546,7 +638,9 @@ VI. Las Alcaldías;
 
 VII. La persona titular de la Fiscalía General de Justicia de la Ciudad de México;
 
-VIII. La persona titular de la Contraloría General de la Ciudad de México; y
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VIII. La persona titular de la Secretaría de la Contraloría General de la Ciudad de México; y
 
 IX. La persona que Presida la Comisión de Protección Civil y Gestión Integral de Riesgos del Congreso de la Ciudad de México y dos integrantes de la misma.
 
@@ -598,7 +692,9 @@ XII. Proponer estrategias para la actualización permanente del Atlas de Riesgos
 
 XIII. Acordar los mecanismos que promuevan y aseguren la capacitación de la comunidad en materia de Gestión Integral de Riesgos y Protección Civil;
 
-XIV. Recibir los informes respecto al estado de las acciones realizadas y los recursos erogados con cargo al FADE y al FOPDE y, en su caso, emitir opiniones respecto a las adquisiciones realizadas;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XIV. Recibir los informes respecto al estado de las acciones realizadas y los recursos erogados con cargo al FONADEN y, en su caso, emitir opiniones respecto a las adquisiciones realizadas.
 
 XV. Recomendar los mecanismos de coordinación y concertación entre las dependencias y entidades de la administración pública federal, las dependencias, unidades administrativas, órganos desconcentrados y entidades paraestatales de la Ciudad de México y las Alcaldías, así como con los sectores privado, social y académico en la materia a que se refiere esta Ley;
 
@@ -612,9 +708,11 @@ XIX. Solicitar a cualquiera de los integrantes del Sistema, la información nece
 
 XX. Las demás que determinen la Ley y el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 24.
 
-Corresponde a la Presidencia del Consejo:
+Corresponde a la Presidencia del Consejo, que recae en la persona titular de la Secretaría:
 
 I. Vigilar el cumplimiento de los acuerdos del Consejo;
 
@@ -836,6 +934,10 @@ IX. Informar al Consejo de manera semestral, mediante un reporte de evaluación,
 
 X. Las demás que le encomiende la persona titular de la Presidencia del Consejo, siempre y cuando no contravenga lo dispuesto en la presente Ley y su Reglamento.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE MARZO DE 2021)</small>
+
+XIV (SIC). Las demás funciones que se deriven de esta Ley, su Reglamento y disposiciones aplicables.
+
 ###### Artículo 42.
 
 El Pleno del Consejo de la Alcaldía determinará, a propuesta de la persona titular de la Presidencia, los Comités y Grupos de Trabajo que sean necesarios para el cumplimiento de sus objetivos, en los que participarán concertada y corresponsablemente los integrantes del mismo, debiendo considerar por lo menos, los siguientes:
@@ -890,9 +992,11 @@ VI. Los Programas Específicos de Protección Civil.
 
 ### CAPÍTULO II. DEL PROGRAMA GENERAL
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 48.
 
-El Programa General es el instrumento rector del Sistema y será el marco de elaboración para los Programas de las Alcaldías y los Programas Específicos. Constituye un instrumento de planeación, elaborado a partir del Atlas de Riesgos, en el marco del Programa Nacional de Protección Civil, la Ley General de Protección Civil, el Plan General de Desarrollo, el Programa de Gobierno de la Ciudad de México y de la presente Ley, para definir el curso de las acciones destinadas a la atención de las situaciones generadas por el impacto de los Fenómenos Perturbadores en la población, sus bienes y entorno. A través de éste instrumento se determinan responsabilidades específicas por caso determinado, estableciendo objetivos, políticas, estrategias, líneas de acción y recursos necesarios para llevarlo a cabo.
+El Programa General es el instrumento rector del Sistema y será el marco de elaboración para los Programas de las Alcaldías y los Programas Específicos. Constituye un instrumento de planeación, elaborado a partir del Atlas de Riesgos, en el marco del Programa Nacional de Protección Civil, la Ley General de Protección Civil, el Plan General de Desarrollo, el Programa de Gobierno de la Ciudad de México y de la presente Ley, para definir el curso de las acciones destinadas a la atención de las situaciones generadas por el impacto de los Fenómenos Perturbadores en la población, sus bienes y entorno. A través de éste instrumento se determinan responsabilidades específicas por caso determinado, estableciendo objetivos, políticas, estrategias, líneas de acción y recursos necesarios para llevarlo a cabo. Deberá actualizarse cada cinco años.
 
 ###### Artículo 49.
 
@@ -1008,33 +1112,93 @@ En la primera sesión ordinaria de los Consejos de Alcaldía se presentará el P
 
 ### CAPÍTULO IV. DE LOS PROGRAMAS INTERNOS
 
+(REFORMADO, G.O. 2 DE MARZO DE 2021)2
+
 ###### Artículo 56.
 
-Los Programas Internos contendrán un estudio integral, detallado y minucioso de cada inmueble del sector público, privado y social que se realiza en materia de Gestión Integral de Riesgos para salvaguardar la integridad física de las personas que se encuentren en él. Debiendo ser elaborados por un Tercero Acreditado.
+Los Programas Internos contendrán un estudio integral y detallado de cada inmueble o establecimiento del sector público, privado y social para salvaguardar la integridad física de las personas que se encuentren en el mismo.
 
 ###### Artículo 57.
 
-Las administraciones, gerentes, personas poseedoras, arrendatarias o propietarias de establecimientos que de conformidad a los Términos de Referencia que representen mediano o alto riesgo, así como en todo inmueble destinado al servicio público, están obligados a elaborar un Programa Interno.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 58.
 
-El Programa Interno se deberá implementar en:
+El Programa Interno se implementará, en:
 
-I. Inmuebles destinados a vivienda multifamiliar, conjuntos habitacionales o unidades habitacionales, por parte de los propietarios y poseedores o en su caso administradores;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-II. Inmuebles destinados al servicio público por parte del servidor público que designe el titular del mismo;
+I. Inmuebles destinados a vivienda plurifamiliar y conjuntos habitacionales por parte de las personas propietarias o poseedoras;
 
-III. Establecimientos catalogados como de mediano y alto Riesgo en los términos previstos en el Acuerdo que para el efecto se emita, por parte (sic) quien sea responsable del establecimiento, por medio de un Tercero Acreditado; y
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-IV. Aquellos inmuebles que de acuerdo con los Términos de Referencia cumplan con los parámetros específicos de Riesgo que requieran contar con un Programa Interno, el cual deberá ser elaborado por quien sea responsable del inmueble, a través de un Tercero Acreditado.
+II. Inmuebles destinados al servicio público, por parte de la persona servidora pública que designe la persona titular;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+III. Unidades habitacionales por parte de las personas administradoras;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IV. Establecimientos mercantiles, que de acuerdo con la Ley de Establecimientos Mercantiles sean de impacto zonal y vecinal, establecimientos industriales de mediano y alto riesgo, y establecimientos de bajo impacto que, en términos del Reglamento, los términos de referencia y las Normas Técnicas requieran de su tramitación, así como aquellos en donde las personas usuarias sean predominantemente personas con discapacidad, adultas mayores, mujeres embarazadas, o manejan sustancias o materiales peligrosos;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+V. Centros Comerciales, donde la persona administradora del inmueble estará obligada a presentarlo para áreas comunes y establecimientos mercantiles que formen parte del centro comercial, contando con al menos una persona paramédica de guardia debidamente acreditada por la Secretaría de Salud del Gobierno de la Ciudad de México, desde la apertura hasta el cierre de actividades del mismo;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VI. Baños Públicos;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VII. Bibliotecas;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VIII. Escuelas públicas y privadas en todos los niveles educativos;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IX. Hospitales y Sanatorios;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+X. Estaciones de Servicio y tiendas de autoservicio;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XI. Instalaciones especiales para población vulnerable;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XII. Inmuebles destinados a la presentación de espectáculos públicos y deportivos;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XIII. Los demás inmuebles donde exista una concentración superior a 50 o más personas, incluyendo personas trabajadoras del lugar;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XIV. Obras de construcción y demolición, y
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XV. Aquellos inmuebles que, de acuerdo con los términos de referencia, cumplan con los parámetros específicos de riesgo que requiera contar con un programa interno de Protección Civil.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 59.
 
-El Programa Interno a que se refiere el artículo anterior deberá elaborarse de acuerdo a los Términos de Referencia, a las Normas Técnicas y a las Normas Oficiales Mexicanas que se expidan sobre la materia.
+Los Programas Internos se elaborarán de acuerdo con los Términos de Referencia, a las Normas Técnicas y a las Normas Oficiales Mexicanas que se expidan sobre la materia;
 
 Asimismo, se expedirán Términos de Referencia para elaborar Programas Internos para escuelas. Los Programas Internos para estancias infantiles y guarderías se ajustarán conforme a la Norma Oficial Mexicana que se establece en la materia.
 
-Por otro lado, la Secretaría actualizará los Términos de Referencia para elaborar los Programas Internos de los hospitales.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+La Secretaría emitirá aquellos Términos de Referencia para establecimientos o inmuebles que por sus características particulares de riesgo, operación o complejidad sean necesarios, tales como: hospitales, mercados públicos, parques de diversiones, entre otros.
 
 ###### Artículo 60.
 
@@ -1056,61 +1220,117 @@ VII. Póliza de Seguro de Responsabilidad Civil no cancelable;
 
 VIII. Carta de Responsabilidad; y
 
-IX. Carta de Corresponsabilidad expedida por un Tercero Acreditado.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IX. Carta de Corresponsabilidad debidamente signada por el Responsable Oficial de Protección Civil.
 
 Los documentos adicionales que deban anexarse y que formarán parte del Programa Interno se establecerán en el Reglamento y en los Términos de Referencia que al efecto se expidan.
 
 La falta de existencia de la Carta de Corresponsabilidad será causal para que el Programa Interno no sea registrado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 61.
 
-En los Programas Internos se integrarán acciones específicas para los grupos de atención prioritaria, considerando en todo momento la interculturalidad de la población, considerando para todos los casos la inclusión de los grupos de apoyo especial que están obligados a integrar y capacitar; así como los croquis de la ubicación del equipamiento destinados para dicho fin. Lo anterior, en los términos previstos en las Normas Oficiales Mexicanas correspondientes y en la Norma Técnica que al efecto se emita.
+El Programa Interno de Protección Civil a que se refiere el Artículo anterior deberá adecuarse a los términos de referencia y a las Normas Técnicas. En los programas internos se integrarán acciones específicas para los grupos de atención prioritaria, considerando en todo momento, la interculturalidad de la población e inclusión de los grupos de atención prioritaria, considerando en todo momento, la interculturalidad de la población e inclusión de los grupos de apoyo especial que están obligados a integrar y capacitar.
 
-La capacitación de las brigadas obligatorias de Protección Civil de los Programas Internos, deberá ser proporcionada por el Tercero Acreditado registrado y autorizado para el efecto.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Los programas internos de Instituciones Públicas, Privadas y Sociales deberán contener una carta de corresponsabilidad debidamente signada por el Responsable Oficial de Protección Civil quien asume la responsabilidad de la Elaboración y Aprobación del Programa. Asimismo, deberá estar acompañado de una carta de responsabilidad del propietario, poseedor o arrendatario obligado por esta Ley a presentar el Programa.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Los programas deberán ser debidamente registrados en las alcaldías que correspondan, a través de las ventanillas únicas, quienes deberán verificar que cumplen en el contenido especificado en el reglamento, términos de referencia y normas técnicas.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+El programa deberá ser registrado por la Alcaldía de acuerdo a los lineamientos de las ventanillas únicas y en la plataforma digital.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Deberán revisar que los terceros acreditados Responsables Oficiales de Protección Civil que signen las cartas de corresponsabilidad estén en el padrón actualizado de la Secretaría, de no ser así, deberá rechazar el registro de los programas e iniciar el procedimiento de verificación de conformidad con la Ley de Procedimiento Administrativo de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 62.
 
-Las empresas clasificadas como de mediano o alto Riesgo, conforme a lo que se establezca en el Acuerdo que al efecto se expida, deberán contar con una Póliza de Seguro de Responsabilidad Civil no cancelable, vigente en todo momento, que cubra e indemnice a los terceros en sus bienes y personas.
+Los establecimientos o inmuebles clasificados como de mediano o alto riesgo, deberán contar con una Póliza de Seguro de Responsabilidad Civil no cancelable, vigente durante el periodo del registro en todo momento, que cubra e indemnice a los terceros en sus bienes y personas.
 
-La cantidad mínima asegurada se establecerá en el Reglamento.
+La cantidad mínima asegurada se establecerá mediante un Acuerdo específico, emitido por la Secretaría.
 
-La Póliza de Seguro a la que se refiere el presente artículo formará parte del Programa Interno del establecimiento, la omisión de este requisito será motivo de cancelación del registro del mismo, para todos los efectos legales correspondientes.
+La Póliza de Seguro a la que se refiere el presente artículo formará parte del Programa Interno del establecimiento o inmueble, la omisión de este requisito será motivo de cancelación del registro, para todos los efectos legales correspondientes.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. REFORMADO PRIMER PÁRRAFO], G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 63.
 
-La Secretaría o las Alcaldías registrarán los Programas Internos en los términos de esta Ley, su Reglamento, las Normas Técnicas y los Términos de Referencia, para los establecimientos e inmuebles establecidos en el artículo 58 de la presente Ley.
+Los Programas Internos correspondientes a inmuebles y establecimientos de mediano y alto riesgo deberán ser registrados ante la alcaldía correspondiente y en la Plataforma Digital por el ROPC. Dichos programas deberán ser revalidados cada dos años, a partir de la fecha del acuse de recibo del registro.
 
-Para efectos del párrafo anterior, los Programas Internos correspondientes a inmuebles y establecimientos de mediano Riesgo, conforme al Acuerdo, deberán ser registrados ante la Alcaldía y supervisados por la Secretaría. Dichos Programas Internos deberán ser revalidados cada dos años, a partir de la fecha del acuse de recibo del registro del mismo.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-Para mantener la vigencia del registro del Programa Interno, la persona obligada, a través del Tercero Acreditado deberá mantener vigentes los documentos que por su naturaleza tienen vigencia anual. En el Reglamento se especificarán aquellos documentos a que se refiere el presente párrafo.
+Para mantener la vigencia del registro del Programa Interno, la persona obligada, a través del ROPC deberá mantener actualizados los documentos que por su naturaleza tienen vigencia anual. En el Reglamento se especificarán aquellos documentos a que se refiere el presente párrafo.
 
-Los Programas Internos correspondientes a inmuebles y establecimientos de alto Riesgo, conforme al Acuerdo, deberán ser registrados ante la Secretaría.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-Los requisitos y características para la revalidación de los Programas Internos se establecerán en el Reglamento.
+Los requisitos y características para el proceso de registro y la revalidación de los Programas Internos se establecerán en el Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 64.
 
-Los establecimientos clasificados de bajo Riesgo conforme al Acuerdo, deberán cumplir con las medidas preventivas que constarán en botiquín, extintor, señalización y las demás que se determinen en el Acuerdo, haciendo énfasis en la capacitación obligatoria. Constando lo anterior en la Plataforma Digital de la Secretaría.
+Los establecimientos clasificados de bajo Riesgo deberán cumplir con las siguientes medidas preventivas, así como las que para tal efecto se establezcan en el Reglamento:
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+a. Extintor o extintores, debidamente señalizados;
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+b. Botiquín básico de primeros auxilios con material de curación debidamente identificado;
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+c. Señalización de rutas de evacuación;
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+d. Instalaciones adecuadas para almacenamiento de basura;
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+e. Personal capacitado en materia de gestión integral de riesgos y protección civil; y
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+f. Directorio de servicios de atención a emergencias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 65.
 
-En caso que durante una visita de verificación se constate que la información presentada en el registro del Programa Interno no corresponde a las características físicas del establecimiento o inmueble o se realizó sin contar con los documentos que acrediten su legalidad, se sancionará al Tercero Acreditado que elaboró dicho Programa y al propietario del establecimiento en los términos de la presente Ley.
+En caso que durante una visita de verificación se constate que la información presentada en el registro del Programa Interno no corresponde a las características físicas del establecimiento o inmueble o se realizó sin contar con los documentos que acrediten su legalidad, se sancionará al Responsable Oficial de Protección Civil que elaboró dicho Programa y al propietario del establecimiento en los términos de la presente Ley.
 
-Las verificaciones a que se refiere el párrafo anterior, se realizarán por la Secretaría o las Alcaldías, escogiendo de la Plataforma Digital, los establecimientos a verificar, mediante un sistema aleatorio, esto, sin menoscabo de las visitas de verificación extraordinaria conforme a la normatividad en la materia o las que se soliciten por queja en los términos del artículo 93 de la Ley.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Los establecimientos o inmuebles a verificar serán seleccionados de la Plataforma Digital, mediante un mecanismo aleatorio, en los términos que establezca la normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Asimismo, podrán llevarse a cabo visitas de verificación extraordinaria conforme a la normatividad aplicable o las que se soliciten por queja en los términos de esta Ley.
 
 ###### Artículo 66.
 
-Los Programas Internos se ingresarán para su registro en la Plataforma Digital alojada en el portal de internet de la Secretaría y de las Alcaldías, cuyo contenido se establecerá en el Reglamento.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 ###### Artículo 67.
 
 Los inmuebles destinados al servicio público deberán elaborar su Programa Interno. Para efecto de lo anterior se emitirán los Términos de Referencia específicos para este tipo de instalaciones.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 68.
 
-Los programas a que se refiere el artículo anterior deberán ser presentados ante la Secretaría, la cual emitirá las observaciones necesarias en un plazo no mayor a treinta días naturales. Las adecuaciones necesarias deberán realizarse dentro de los quince días hábiles siguientes a la notificación. La Secretaría emitirá la resolución definitiva en los diez días hábiles siguientes.
-
-Las observaciones que emita la Secretaría se consideran de observancia obligatoria, prioritaria y urgente para todos los efectos.
+Los programas a que se refiere el artículo anterior se registrarán en la Plataforma Digital.
 
 ###### Artículo 69.
 
@@ -1138,15 +1358,19 @@ V. Manifestación expresa de la responsabilidad solidaria que tiene el Tercero A
 
 ### CAPÍTULO V. DE LOS PROGRAMAS ESPECIALES
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 72.
 
-Los Programas Especiales deberán elaborarse de acuerdo con lo establecido en el Reglamento, en los Términos de Referencia y Normas Técnicas que al efecto expida la Secretaría y las Normas Oficiales Mexicanas aplicables.
+Los Programas Especiales se elaborarán de acuerdo con el Reglamento, los Términos de Referencia, Normas Técnicas y Normas Oficiales Mexicanas aplicables.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 73.
 
-Los Programas Especiales para los eventos con aforo desde 500 y hasta 3,000 personas, deberán presentarse ante la Alcaldía correspondiente con un mínimo de quince días hábiles de anticipación.
+Los Programas Especiales para los eventos con aforo desde 500 y hasta 10,000 personas, deberán presentarse ante la Alcaldía correspondiente con un mínimo de quince días hábiles de anticipación al evento
 
-Los Programas Especiales para los eventos masivos con aforo de más de 3,001 asistentes deberán presentarse ante la Secretaría con un mínimo de veinte días hábiles de anticipación.
+Los Programas Especiales para los eventos masivos con aforo superior a 10,000 asistentes deberán presentarse con un mínimo de veinte días hábiles de anticipación al evento.
 
 ###### Artículo 74.
 
@@ -1162,9 +1386,11 @@ IV. Que se presente Riesgo de violencia, vandalismo o daños a las personas, bie
 
 V. Que acorde con los Términos de Referencia, se consideren de alto Riesgo conforme al análisis que se elabore por un Tercero Acreditado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 75.
 
-Los Programas Especiales se integrarán de la siguiente manera:
+Los programas especiales se integrarán de la siguiente manera:
 
 I. Datos generales del evento y descripción general del mismo;
 
@@ -1174,7 +1400,7 @@ III. Equipamiento y zonificación para atención de Emergencias;
 
 IV. Plan de Contingencias;
 
-V. Plan de Continuidad de Operaciones;
+V. (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
 VI. Póliza de Seguro de Responsabilidad Civil no cancelable;
 
@@ -1182,9 +1408,21 @@ VII. Carta de Responsabilidad; y
 
 VIII. Carta de Corresponsabilidad expedida por un Tercero Acreditado.
 
-Los documentos adicionales que deban anexarse y que formarán parte del Programa Especial se establecerán en el Reglamento y en los Términos de Referencia que al efecto se expidan.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-La falta de existencia de la Carta de Corresponsabilidad será causal para que el Programa Especial no sea aprobado.
+La carencia de Carta de Corresponsabilidad y/o Responsabilidad serán causal para que el Programa Especial no sea aprobado.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Tratándose de persona física, la carta de responsabilidad será firmada por el promotor, organizador o productor del evento o espectáculo público y en caso de persona moral, por el representante legal.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Artículo 75 BIS. Tratándose de espectáculos tradicionales, los Programas Especiales deberán ser elaborados por las personas que se determinen en los Términos de Referencia para la elaboración de Programas Especiales de Protección Civil que al efecto se expidan, sin que sea obligatorio que estos sean elaborados por ROPC.
+
+Las características para la elaboración de los Programas Especiales de espectáculos tradicionales se señalarán en el Reglamento y en los Términos de Referencia para la elaboración de Programas Especiales de Protección Civil.
+
+Los Programas Especiales a que se refiere este artículo serán registrados, revisados, y supervisados por las Alcaldías.
 
 ###### Artículo 76.
 
@@ -1206,31 +1444,43 @@ En cualquier evento o espectáculo público masivo en que se pretendan utilizar 
 
 Las características y requisitos del Plan de Contingencia de artificios pirotécnicos estarán definidas en el Reglamento y en la Norma Técnica correspondiente y deberá ser firmado por la persona responsable de la actividad pirotécnica y autorizado por la Alcaldía correspondiente.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 78.
 
-Para la aprobación de los Programas Especiales, la autoridad contará con un término de siete días hábiles para realizar observaciones por escrito y notificar la prevención, la que deberá ser subsanada en un término máximo de tres días hábiles, contados a partir del día siguiente de la notificación. En caso de que el promovente no responda en el término indicado el trámite se tendrá por no presentado.
+Los Programas Especiales se registrarán en la Plataforma Digital
 
-Una vez subsanada la prevención, la autoridad competente notificará la resolución al promovente por lo menos dos días previos a la celebración del evento o espectáculo público. Ante la falta de respuesta, procederá la afirmativa ficta.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 79.
 
-La falta de aprobación de un Programa Especial será motivo suficiente para clausurar de manera definitiva, cualquier evento o espectáculo público que requiera del mismo para su realización, sin responsabilidad para la Secretaría o la Alcaldía.
+Si durante la visita que realicen las Alcaldías se constata que la información presentada en el Programa Especial no corresponde con lo observado en el sitio, o no se cuenta con los documentos que acrediten su legalidad, se sancionará al ROPC, o a quien elaboró dicho programa, en el caso de espectáculos tradicionales, y al propietario del establecimiento u organizador del evento en los términos de la presente Ley, así como de la Ley de Procedimiento Administrativo de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Las visitas a que se refiere el párrafo anterior se realizarán mediante un sistema aleatorio, esto, sin menoscabo de las visitas de verificación extraordinaria conforme a la normatividad en la materia o las que se soliciten por queja en los términos de esta Ley.
 
 ### CAPÍTULO VI. DE LOS PROGRAMAS ESPECÍFICOS
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 80.
 
-Para sustentar las acciones de Gestión Integral de Riesgos en escuelas y hospitales, la Secretaría elaborará Programas Específicos correspondientes.
+Para sustentar las acciones de gestión integral de riesgos en escuelas, mercados públicos y hospitales, entre otros, la Secretaría elaborará los programas específicos correspondientes y coordinará las acciones que de ahí se deriven.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 81.
 
-Las características y alcances de los Programas Específicos se determinarán en el Reglamento. Se desarrollarán, entre otros, aquellos que atiendan los siguientes Fenómenos Perturbadores:
+Los Programas Específicos se elaborarán para atender, entre otros, los siguientes fenómenos perturbadores:
 
 I. Sismos;
 
 II. Agrietamientos y fracturas;
 
-III. Incendios forestales;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+III. Incendios;
 
 IV. Inundaciones;
 
@@ -1270,15 +1520,19 @@ II. Los equipos de medición, monitoreo, transmisión, adquisición y procesamie
 
 III. Los mecanismos de difusión y comunicación para diseminar las Alertas a la población en Riesgo y a las autoridades. Se deberán implementar canales y protocolos que se emplearán para la diseminación de datos e información; y
 
-IV. Las acciones y procedimientos para optimizar una respuesta adecuada ante las Alertas. Estos procedimientos deberán incluir planes operativos específicos para el alertamiento, así como la implementación de acciones coordinadas por la autoridad para la preparación de la población.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IV. Las acciones y procedimientos para optimizar una respuesta adecuada ante las Alertas. Estos procedimientos deberán incluir protocolos para el alertamiento, así como la implementación de acciones coordinadas por la autoridad para la preparación de la población.
 
 ###### Artículo 87.
 
 En el diseño del Sistema de Alerta Temprana se deberá considerar para su implementación criterios que garanticen la equidad de género, la interculturalidad, necesidades de personas de grupos de atención prioritaria y de escasos recursos.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 88.
 
-En todo inmueble de la administración pública de la Ciudad de México deberá existir un Sistema de Alertamiento para todo tipo de Fenómenos Perturbadores y un sistema de detección, alarma y supresión de incendios de acuerdo con el Riesgo de incendio que presente el inmueble.
+En todo inmueble de la administración pública de la Ciudad de México deberá existir un Sistema de Alertamiento para diversos tipos de Fenómenos Perturbadores y un sistema de detección, alarma y supresión de incendios de acuerdo con el riesgo de incendio que presente el inmueble.
 
 ###### Artículo 89.
 
@@ -1306,9 +1560,11 @@ Previo al inicio, en el intermedio y al final de la celebración de eventos, act
 
 Toda celebración a la que se refiere el párrafo anterior deberá tomar medidas especiales para personas de grupos de atención prioritaria y de escasos recursos. La omisión de lo establecido en el presente artículo se sancionará conforme lo establece la normativa aplicable.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 93.
 
-Toda persona tiene derecho a presentar queja por escrito o por medios electrónicos ante la Secretaría o las Alcaldías, por hechos, actos u omisiones que puedan producir daño o perjuicio en su persona o la de terceros, sus bienes o el entorno, derivado del incumplimiento de medidas preventivas que generen Riesgos en la materia de la presente Ley, tanto en lugares públicos como privados.
+Toda persona tiene derecho a presentar queja por escrito o por medios electrónicos ante la Secretaría o las Alcaldías, por hechos, actos u omisiones que puedan producir daño o perjuicio en su persona o la de terceros, sus bienes o el entorno, derivado del incumplimiento de medidas preventivas que generen Riesgos en la materia de la presente Ley, tanto en lugares públicos como privados. Dicha queja podrá presentarse de manera anónima por los medios establecidos para ello.
 
 ###### Artículo 94.
 
@@ -1318,43 +1574,85 @@ Para la procedencia de la queja, es indispensable el señalamiento de los datos 
 
 La Secretaría o las Alcaldías, a más tardar dentro de los diez días hábiles siguientes a la presentación de la queja, harán del conocimiento de la o el quejoso el trámite que se haya dado a aquella.
 
-### CAPÍTULO III. DE LOS ESTUDIOS DE RIESGO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE MARZO DE 2021)</small>
+
+### CAPÍTULO III. DE LAS OPINIONES Y DICTÁMENES TÉCNICOS Y ESTUDIOS DE RIESGO
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 96.
 
-Las autoridades competentes, previo al otorgamiento de manifestaciones de construcción tipo B o C conforme lo señala el Reglamento de Construcciones para el Distrito Federal o licencia de construcción especial para conjuntos habitacionales, escuelas, estaciones de servicio, gaseras, estaciones de carburación, hospitales, obras de infraestructura estratégicas y en general empresas, industrias o establecimientos que en los términos del Acuerdo sean considerados de alto Riesgo, deberán solicitar a los promoventes la opinión técnica de la Secretaría, presentando el estudio de Riesgos de obra correspondiente, mismo que deberá ser elaborado por un Tercero Acreditado con registro y autorización para realizar estudios de riesgo-vulnerabilidad.
+Previo al otorgamiento de manifestaciones de construcción tipo B y C conforme a lo dispuesto en los Reglamentos de la Ley de Desarrollo Urbano y de Construcciones de la Ciudad de México, la autoridad competente deberá solicitar a la Secretaría opinión sobre el estudio de impacto urbano, en lo correspondiente al estudio de riesgo.
 
-Los requisitos para obtener la autorización a que se refiere el párrafo anterior, se establecerán en el Reglamento.
+Para tal efecto, la autoridad competente, remitirá a la Secretaría un ejemplar o copia del estudio de riesgos, para que, dentro del plazo de 10 días hábiles, contados a partir de su recepción, emita la opinión que corresponde.
 
-La empresa constructora o desarrolladora a través de su representante legal firmará junto con el Tercero Acreditado, la Carta de Responsabilidad y Corresponsabilidad para los efectos a que haya lugar.
-
-Asimismo, se anexará una Póliza de Seguro de Responsabilidad Civil no cancelable, vigente, que cubra a los terceros en sus bienes y personas, dicha Póliza formará parte del estudio a que se refiere el presente artículo. La falta de la misma será motivo para que dicho estudio no sea aprobado.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 97.
 
 La Secretaría y las Unidades de Gestión Integral de Riesgos y Protección Civil de las Alcaldías elaborarán por sí o a petición de parte dictámenes u opiniones técnicas de Riesgo en la materia.
 
-En los casos de seguridad estructural, dichos dictámenes u opiniones técnicas de Riesgo serán elaborados por el Instituto para la Seguridad de las Construcciones de la Ciudad de México o por las direcciones de obras de las Alcaldías. Las observaciones que se realicen serán de cumplimiento obligatorio y deberá informarse al solicitante.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+En los casos de seguridad estructural, los dictámenes u opiniones técnicas de alto riesgo serán elaborados por el Instituto para la Seguridad de las Construcciones de la Ciudad de México en términos de su Ley y que previamente haya intervenido la Unidad de Gestión de Riesgos y Protección Civil de la Alcaldía.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+En los casos en que no se actualice lo señalado en el párrafo anterior, serán elaborados por las Direcciones Generales de Obras de las Alcaldías o sus equivalentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 98.
 
-En los estudios de Riesgos de obra que se elaboren se considerarán únicamente las afectaciones que durante el desarrollo de la obra puedan causarse a las colindancias, a los vecinos, a los Servicios Vitales y Sistemas Estratégicos, así como a los daños que pudiera sufrir la propia obra con motivo del impacto de Fenómenos Perturbadores.
+Los Estudios de Riesgos contendrán, lo siguiente:
 
-Los estudios a que se refiere este artículo serán presentados ante la Secretaría quien tendrá treinta días naturales para resolver, en caso de no responder en este término se entenderá la resolución en sentido negativo, dejando a salvo los derechos del peticionario para volverlo a presentar.
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
 
-La Secretaría y las Alcaldías, efectuarán la verificación del cumplimiento de las medidas de prevención y Mitigación que se hayan señalado en el estudio a que se refiere el artículo 96 de la presente Ley.
+I. Datos generales del sitio y descripción del mismo;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. Identificación y análisis de riesgos;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+III. Plan de reducción de riesgos;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IV. Datos generales del ROPC; y
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+V. El contenido que se pormenoriza en los lineamientos para la elaboración de (sic) Estudio de Riesgos.
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VI. Póliza de seguro de responsabilidad civil no cancelable, vigente en todo momento, que cubra a los terceros en sus bienes y personas.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Los estudios de riesgo deberán ser formulados por los ROPC, quienes serán responsables de su contenido, por lo tanto, deberá firmar conjuntamente con el propietario o poseedor, empresa constructora o desarrolladora, autógrafamente cada página del estudio respectivo e incluir la Carta de Corresponsabilidad en los términos del artículo 71 de esta Ley.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Las Alcaldías, efectuarán la verificación del cumplimiento de las medidas de prevención y Mitigación que se hayan señalado en el estudio a que se refiere el artículo 96 de la presente Ley.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+En caso de incumplimiento o falsedad en la información proporcionada, el ROPC será corresponsable con el propietario o poseedor, junto con la empresa constructora o desarrolladora y se harán acreedores a las sanciones previstas en la presente Ley, su Reglamento y demás ordenamientos jurídicos aplicables; asimismo, previo derecho de audiencia, la Secretaría, en su caso, procederá a la cancelación del registro correspondiente.
 
 ###### Artículo 99.
 
-El Comité de Instalaciones Subterráneas tiene por objeto establecer las acciones de prevención de emergencias o desastres derivados de la construcción y utilización de instalaciones subterráneas de los Servicios Vitales y los Sistemas Estratégicos, y en su caso concertar las acciones de auxilio y restablecimiento.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 ###### Artículo 100.
 
-Las autoridades competentes previamente al otorgamiento de licencias de construcción especial para instalaciones subterráneas en la vía pública, así como para cualquier obra que permita la apertura de banquetas o guarniciones, solicitarán al promovente la opinión técnica del Comité de Instalaciones Subterráneas.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 ###### Artículo 101.
 
-La integración del Comité de Instalaciones Subterráneas, así como de los requisitos para obtener la opinión técnica a que se refiere el artículo anterior se establecerán en el Reglamento.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 ### CAPÍTULO IV. DEL CENTRO DE GESTIÓN INTEGRAL DE RIESGOS
 
@@ -1432,9 +1730,11 @@ Las acciones operativas a que hace referencia esta Ley se consideran urgentes y 
 
 El Sistema privilegiará la realización de acciones preventivas, con el objeto de evitar o reducir los efectos del impacto de los Fenómenos Perturbadores en las condiciones ordinarias de vida de la población, creando los mecanismos de respuesta y coordinación necesarios para prever, controlar y reducir las Emergencias y Desastres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 110.
 
-Para efectos operativos del Sistema, las etapas de la Gestión Integral de Riesgos y Protección Civil son las siguientes:
+Para efectos operativos del Sistema, las etapas de la Gestión Integral de Riesgos son las siguientes:
 
 I. Identificación de Riesgos;
 
@@ -1578,7 +1878,7 @@ La Secretaría definirá el contenido de la información de la promoción a la q
 
 ###### Artículo 121.
 
-Las obras de Mitigación, así como la adquisición de equipo especializado para el rescate, transporte, comunicación, alertamiento y atención de Emergencias y Desastres que no fuesen presupuestadas, serán sujetas a realizarse con cargo a los recursos del FOPDE, previa opinión del Consejo y desahogo del procedimiento establecido en las Reglas de Operación.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 ### CAPÍTULO III. DE LAS ACCIONES DE ATENCIÓN DE LA EMERGENCIA O AUXILIO
 
@@ -1638,9 +1938,11 @@ En caso de que superen las capacidades operativas o financieras del conjunto, la
 
 Ante la inminencia o alta probabilidad de que ocurra un Desastre y cuando la actuación pronta y expedita del Sistema sea esencial, la Jefatura de Gobierno podrá emitir, a solicitud de las Alcaldías o de la Secretaría, una Declaratoria de Emergencia.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 129.
 
-Una vez emitida la Declaratoria a la que se refiere el párrafo anterior, la Secretaría, por instrucciones de la Jefatura de Gobierno y en los términos que establezcan las Reglas de Operación, deberá erogar, con cargo al fondo revolvente del FADE, los montos necesarios para atenuar los efectos de la Emergencia y responder en forma inmediata a las necesidades urgentes generadas por el mismo.
+Una vez emitida la Declaratoria a la que se refiere el párrafo anterior, la Secretaría, por instrucciones de la Jefatura de Gobierno y en los términos que establezcan las Reglas de Operación, deberá erogar, con cargo al fondo del FONADEN, los montos necesarios para atenuar los efectos de la Emergencia y responder en forma inmediata a las necesidades urgentes generadas por el mismo.
 
 ###### Artículo 130.
 
@@ -1756,19 +2058,25 @@ La atención de Desastres inicia con la Declaratoria que emita la Jefatura de Go
 
 La emisión de la Declaratoria de Desastre es independiente a la Declaratoria de Emergencia que haya sido emitida, por lo que los efectos de ambas estarán vigentes hasta en tanto se publique su término en la Gaceta Oficial de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 144.
 
-Las acciones de atención de Desastres corresponden a las Alcaldías y al Gobierno de la Ciudad de México y se cubrirán con cargo a los recursos del FADE, en términos de las Reglas de Operación.
+Las acciones de atención de Desastres corresponden a las Alcaldías y al Gobierno de la Ciudad de México y se cubrirán con cargo a los recursos del FONADEN, en términos de las Reglas de Operación.
 
 ###### Artículo 145.
 
 Una vez presentada la solicitud de Declaratoria de Desastre, la autoridad tendrá un plazo de hasta catorce días naturales para su publicación en la Gaceta Oficial de la Ciudad de México.
 
-El plazo para que se tenga acceso a los recursos del FADE no será mayor a treinta días naturales, contados a partir del día en que se publique en la Gaceta Oficial de la Ciudad de México la Declaratoria de Desastre.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+El plazo para que se tenga acceso a los recursos del FONADEN no será mayor a treinta días naturales, contados a partir del día en que se publique en la Gaceta Oficial de la Ciudad de México la Declaratoria de Desastre.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 146.
 
-En los casos en que los recursos del FADE se hayan agotado, sin perjuicio de lo establecido en la legislación vigente, el Gobierno de la Ciudad de México hará las transferencias de partidas que correspondan para cubrir el Desastre objeto de la Declaratoria.
+En los casos en que los recursos del FONADEN se hayan agotado, sin perjuicio de lo establecido en la legislación vigente, el Gobierno de la Ciudad de México hará las transferencias de partidas que correspondan para cubrir el Desastre objeto de la Declaratoria
 
 ###### Artículo 147.
 
@@ -1804,7 +2112,7 @@ VI. La coordinación con los integrantes del Sistema para establecer acciones in
 
 ###### Artículo 151.
 
-Las reglas de operación contemplarán la utilización de los recursos que serán erogados con cargo al FADE, para la ejecución de las acciones establecidas en el artículo anterior.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 ###### Artículo 152.
 
@@ -1823,6 +2131,8 @@ Las acciones de reconstrucción se establecerán en el Programa General y se bas
 ###### Artículo 155.
 
 El Puesto de Mando será el órgano operativo encargado de la coordinación, atención y administración de los recursos humanos, técnicos y materiales dentro de la zona de Emergencia o Desastre.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 156.
 
@@ -1872,15 +2182,25 @@ IV. Fortalecer la capacidad institucional y la gobernanza frente al Riesgo de De
 
 V. Fortalecer la capacidad financiera para la construcción de Resiliencia y fomentar los mecanismos de Transferencia de Riesgos;
 
-VI. Planificar el diseño espacial y el desarrollo hacia ciudades más seguras y Resilientes;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VI. Planificar el diseño espacial y el desarrollo hacia ciudades más seguras, sostenibles y resilientes;
 
 VII. Proteger e incrementar las zonas naturales con la finalidad de mejorar las funciones protectoras brindadas por los socio-ecosistemas;
 
 VIII. Aumentar la Resiliencia de los Servicios Vitales y Sistemas Estratégicos;
 
-IX. Garantizar una respuesta coordinada y eficiente ante Desastres mediante el desarrollo y aplicación de los Programas Específicos y Procedimientos Especiales en la materia; y
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-X. Acelerar los procesos de recuperación y restablecimiento después de una situación de Emergencia o Desastre; e integrar el principio de reconstruir mejor.
+IX. Garantizar una respuesta coordinada y eficiente ante Desastres mediante el desarrollo y aplicación de los Programas Específicos y Procedimientos Especiales en la materia;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+X. Acelerar los procesos de recuperación y restablecimiento después de una situación de Emergencia o Desastre; e integrar el principio de reconstruir mejor; e
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XI. Identificar acciones y proyectos para la promoción de la sismoresistencia en la infraestructura.
 
 ###### Artículo 161.
 
@@ -1894,11 +2214,11 @@ Las políticas públicas de Gestión Integral de Riesgos y Protección Civil, De
 
 Las entidades de la administración pública centralizada y descentralizada, así como las Alcaldías de la Ciudad de México, conforme a sus atribuciones, implementarán acciones y análisis de Resiliencia en sus programas sectoriales.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 164.
 
-En todo análisis de Resiliencia se incorporarán evaluaciones de la vulnerabilidad frente al cambio climático y sus repercusiones, a fin de fundamentar políticas, programas y actividades dirigidos a combatirlo, mediante los enfoques de adaptación basada en comunidades, ecosistemas y reducción del Riesgo de Desastres.
-
-Las características que deberán contener los análisis de Resiliencia se señalarán en el Reglamento y en la Norma Técnica que al efecto se expida.
+En todo diagnóstico de Resiliencia se incorporarán evaluaciones de vulnerabilidad y adaptación frente al cambio climático a fin de fundamentar políticas, programas y acciones dirigidos a atenderlo, mediante los enfoques de adaptación basada en ecosistemas, adaptación de los sistemas productivos y de la infraestructura estratégica, adaptación del sector social y reducción del riesgo de desastres.
 
 ###### Artículo 165.
 
@@ -2020,11 +2340,13 @@ IX. Revalidar cada dos años su registro, mediante la renovación de los requisi
 
 X. Participar en todas aquellas actividades del Programa General que estén en posibilidad de realizar, así como aquellas a las que convoquen las Alcaldías o la Secretaría.
 
-### CAPÍTULO II. DE LOS COMITÉS DE PREVENCIÓN DE RIESGOS Y DE LOS BRIGADISTAS COMUNITARIOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE MARZO DE 2021)</small>
+
+### CAPÍTULO II. DE LOS BRIGADISTAS COMUNITARIOS
 
 ###### Artículo 174.
 
-Las actividades de los Comités de Prevención de Riesgos se enfocarán en la prevención y Mitigación de Riesgos y en la elaboración de Atlas de Riesgos participativos, así como promoverán la Resiliencia de la comunidad y propiciarán la respuesta social.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 ###### Artículo 175.
 
@@ -2032,11 +2354,15 @@ Los Brigadistas Comunitarios son las personas capacitadas por la autoridad o por
 
 La Red de Brigadistas Comunitarios de la Ciudad de México es la estructura con preparación y capacitación individual y voluntaria de miembros de la sociedad, cuyo objetivo es coordinar y compartir esfuerzos para enfrentar en su entorno Riesgos causados por los Fenómenos Perturbadores.
 
-Las características y alcances de los Comités de Prevención de Riesgos y de los Brigadistas Comunitarios se establecerán en el Reglamento.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Las características y alcances de los Brigadistas Comunitarios se establecerán en el Reglamento.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 176.
 
-La Secretaría promoverá y coordinará el funcionamiento y capacitación de los Comités de Prevención de Riesgos y de la Red de Brigadistas Comunitarios de la Ciudad de México, en coordinación con las Alcaldías.
+La Secretaría promoverá y coordinará el funcionamiento y capacitación de la Red de Brigadistas Comunitarios de la Ciudad de México, en coordinación con las Alcaldías.
 
 ### CAPÍTULO III. DE LOS COMITÉS DE AYUDA MUTUA
 
@@ -2122,7 +2448,9 @@ En caso de Emergencia, o Desastre que afecte a una o más Alcaldías, la informa
 
 La Secretaría promoverá cursos de capacitación para los representantes de los medios de comunicación a fin de que conozcan el funcionamiento del Sistema.
 
-### CAPÍTULO V. DE LOS TERCEROS ACREDITADOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE MARZO DE 2021)</small>
+
+### CAPÍTULO V. DEL RESPONSABLE OFICIAL DE PROTECCIÓN CIVIL
 
 ###### Artículo 187.
 
@@ -2132,7 +2460,9 @@ I. Certificación por el Consejo Nacional de Normalización y Certificación de 
 
 II. Experiencia comprobable en los temas que pretenda impartir. En el Reglamento se establecerán las particularidades y mecanismos para acreditar dicha experiencia y conocimientos, así como los requisitos administrativos necesarios.
 
-La Secretaría, una vez que se dé cumplimiento a los requisitos anteriores y a los que señale el Reglamento, en un plazo de quince días hábiles dará respuesta a la solicitud de autorización.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Una vez que se dé cumplimiento a los requisitos anteriores y a los que señale el Reglamento, la Secretaría dará respuesta a la solicitud de autorización en un plazo de quince días hábiles.
 
 ###### Artículo 188.
 
@@ -2140,25 +2470,13 @@ Estarán exentos de cumplir con la fracción I del artículo anterior:
 
 I. Las personas con licenciatura en educación, quienes deberán presentar cédula profesional; y
 
-II. El profesorado de educación media, media superior y superior que presenten constancia como tal de la institución educativa, siempre que ésta sea parte del sistema educativo nacional, con mínimo dos años de experiencia.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. El profesorado de educación básica, media superior y superior que presenten constancia como tal de la institución educativa, siempre que ésta sea parte del sistema educativo nacional, con mínimo dos años de experiencia.
 
 ###### Artículo 189.
 
-Las personas morales que pretendan obtener el registro y autorización como capacitador de brigadas de Protección Civil deberán cumplir con los siguientes requisitos:
-
-I. Copia certificada del Acta Constitutiva debidamente inscrita en el Registro Público de la Propiedad y del Comercio y copia simple de la misma para cotejo;
-
-II. Copia certificada del poder notarial del o los representante(s) legal(es), debidamente inscrita en el Registro Público de la Propiedad y del Comercio y copia simple de la misma para cotejo;
-
-III. Registro ante la Secretaría del Trabajo y Previsión Social como agente capacitador externo;
-
-IV. Relación de instructores, presentando por cada uno de ellos:
-
-a. Certificación por el CONOCER en el estándar de competencia para impartir cursos de formación del capital humano de manera presencial; y
-
-b. Tres años de experiencia comprobable en los temas que pretenda impartir. En el Reglamento se establecerán las particularidades y mecanismos para acreditar dicha experiencia y conocimientos, así como los requisitos administrativos necesarios.
-
-La Secretaría una vez que se dé cumplimiento a los requisitos anteriores, en un plazo de quince días hábiles dará respuesta a la solicitud de autorización.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 ###### Artículo 190.
 
@@ -2178,121 +2496,125 @@ VI. Para Comités Internos de Protección Civil.
 
 El Reglamento y las Normas Técnicas especificarán las características y contenido de estos cursos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 191.
 
-Las personas físicas y morales que pretendan obtener el registro y autorización para elaborar Programas Internos para establecimientos de mediano Riesgo, conforme al Acuerdo, y Programas Especiales para eventos masivos con un aforo de hasta 3,000 personas, deberán presentar solicitud por escrito y cumplir con los requisitos que establezca el Reglamento, además de los siguientes:
+Las personas físicas que pretendan obtener el registro y autorización para elaborar Programas Internos para establecimientos de mediano riesgo y Programas Especiales para eventos masivos con un aforo de 500 y hasta 10,000 personas deberán presentar solicitud por escrito y acreditar como mínimo formación técnica y experiencia en materia de Gestión Integral de Riesgos y Protección Civil.
 
-I. Para personas físicas:
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
 
-a) Experiencia mínima de tres años en materia de Gestión Integral de Riesgos y Protección Civil; y
+Asimismo, las personas interesadas deberán cursar y aprobar los siguientes cursos:
 
-b) Cursar y aprobar los cursos que para la elaboración de Programas Internos de establecimientos de mediano Riesgo y Programas Especiales establezca, imparta y evalúe la Secretaría por sí o a través de terceros con los que ésta tenga celebrado convenio.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-I (SIC). Para personas morales:
+I. Sobre elaboración de Programas Internos de establecimientos de mediano y alto riesgo y Programas Especiales que establezca, imparta y evalúe la Secretaría por sí o a través de terceros con los que haya celebrados convenio, y
 
-a) Experiencia mínima de tres años en materia de Gestión Integral de Riesgos y Protección Civil; y
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
 
-b) Relación del personal a cargo de la elaboración de los Programas Internos y Especiales, el cual deberá cursar y aprobar el curso que para la elaboración de Programas Internos de establecimientos de mediano riesgo y Programas Especiales imparta la Secretaría por sí o a través de terceros con los que ésta tenga celebrado convenio.
+II. Sobre análisis y reducción de riesgos que establezca, imparta y evalúe la Secretaría, por sí o a través de terceros con los que haya celebrado convenio.
 
-En caso de que las personas a que se refiere el inciso b) de la fracción II que antecede, aprueben el curso, la persona moral contará con el registro y autorización correspondiente y el personal que lo haya aprobado tendrá un registro individual, asociado y vinculado al registro de dicha persona moral, sin que éstos puedan elaborar Programas Internos o Especiales por su cuenta.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Una vez que se dé cumplimiento a los requisitos anteriores y a los que señale el Reglamento, la Secretaría dará respuesta a la solicitud de autorización en un plazo máximo de quince días hábiles.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Las personas profesionistas con cédula profesional a nivel licenciatura o posgrado en cualquier ingeniería, arquitectura, protección civil, medicina y carreras afines, que acrediten haber realizado su servicio social o prácticas profesionales en la materia de que se trata, estarán exentos de cumplir con el requisito de experiencia a que se refiere el párrafo primero del presente artículo. En caso contrario, dichas personas profesionistas, deberán acreditar, cuando menos, un año de experiencia. En el Reglamento se precisará cuáles son las carreras afines.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 192.
 
-Las personas físicas y morales que pretendan obtener el registro y autorización para elaborar Programas Internos para establecimientos de mediano y alto Riesgo y Programas Especiales para eventos masivos con un aforo superior a 3,001 personas, deberán presentar solicitud por escrito y cumplir con los requisitos que establezca el Reglamento, además de los siguientes:
+Las personas físicas que pretendan obtener el registro y autorización para elaborar Programas Internos para establecimientos de alto riesgo y Programas Especiales para eventos masivos con un aforo superior a 10,000 personas deberán presentar solicitud por escrito, anexando:
 
-I. Para personas físicas:
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-a) Acreditar experiencia en la elaboración de Programas Internos de establecimientos de mediano Riesgo por lo menos de 6 años;
+I. Copia de la cédula profesional de las carreras a que se refiere el último párrafo del artículo anterior, y
 
-b) Cursar y aprobar los cursos que para la elaboración de Programas Internos de establecimientos de alto Riesgo y Programas Especiales establezca, imparta y evalúe la Secretaría por sí o a través de terceros con los que ésta tenga celebrados convenios; y
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-c) Cursar y aprobar el curso de análisis y reducción de Riesgos que establezca, imparta y evalúe la Secretaría, por sí o a través de terceros con los que haya celebrado convenio.
+II. Acreditar experiencia en materia de Gestión Integral de Riesgos y Protección Civil.
 
-I (SIC). Para personas morales:
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-a) Relación del personal a cargo de la elaboración de los Programas Internos y Especiales, el cual deberá:
+Las personas interesadas deberán cursar y aprobar los cursos a que se refieren las fracciones I y II del artículo 191 de la presente Ley,
 
-i. Cursar y aprobar el curso que para la elaboración de Programas Internos de establecimientos de alto Riesgo Programas Especiales establezca, imparta y evalúe la Secretaría por sí o a través de terceros con los que esta tenga celebrados convenios;
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
-ii. Cursar y aprobar el curso de análisis y reducción de Riesgos que establezca, imparta o evalúe la Secretaría por sí o a través de terceros con los que esta tenga celebrados convenios; y
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-iii. Acreditar la experiencia por cada una de las personas a que se refiere el inciso a) de la fracción I del presente artículo.
+Una vez que se dé cumplimiento a los requisitos anteriores y a los que señale el Reglamento, la Secretaría dará respuesta a la solicitud de autorización en un plazo máximo de quince días hábiles.
 
-En caso de que las personas a que se refiere la fracción II inciso a) aprueben los cursos, la persona moral contará con el registro y autorización correspondiente y el personal que lo haya aprobado tendrá un registro individual, asociado y vinculado al registro de dicha persona moral, sin que éstos puedan elaborar Programas Internos o Especiales por su cuenta.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Los apartados de Protección Civil en los estudios de impacto urbano a los que se refiere el Reglamento, sólo podrán ser elaborados por ROPC con registro y autorización para realizar estudios de riesgo.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 193.
 
-La Secretaría, con base en los resultados de la evaluación que realice, deberá dar respuesta a la solicitud de autorización en un plazo máximo de quince días hábiles, contados a partir del día siguiente al que se presente la evaluación correspondiente al curso para la elaboración de Programas Internos y Especiales.
+Los cursos de elaboración de Programas Internos y Programas Especiales y de análisis y reducción de riesgos, así como de Estudios de Riesgos serán informados previamente en el portal institucional de la Secretaría.
 
-Los cursos de elaboración de Programas Internos y Especiales se realizarán de acuerdo con un calendario anual expedido previamente por la Secretaría.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 194.
 
-Las personas físicas y morales que pretendan obtener el registro y autorización para realizar estudios de riesgo-vulnerabilidad en materia de Gestión Integral de Riesgos y Protección Civil deberán presentar solicitud por escrito y cumplir con los requisitos que establezca el Reglamento, además de los siguientes:
+Las personas físicas que pretendan obtener registro y autorización para realizar Estudios de Riesgos deberán presentar solicitud por escrito, anexando:
 
-I. Para personas físicas:
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-a) Especificar el tipo de Fenómenos Perturbadores sobre los que realizará los estudios de riesgo-vulnerabilidad;
+I. Copia de la cédula profesional, en la especialidad requerida o afines, y
 
-b) Copia de la cédula profesional relacionada a la especialidad en que efectuarán los estudios de riesgo-vulnerabilidad; y
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-c) Acreditar que se tienen cursos específicos respecto al análisis de Riesgos respecto al cual está solicitando el registro y autorización.
+II. Las constancias con las que acredite como mínimo cuatro años de experiencia en materia de Gestión Integral de Riesgos y Protección Civil.
 
-I (SIC). Para personas morales:
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
-Además de la información a que se refiere la fracción I del presente artículo:
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-a) Relación del personal técnico y profesional que le apoyará en la realización de los estudios de riesgo-vulnerabilidad, señalando respecto de cada uno de ellos:
+Una vez que se dé cumplimiento a los requisitos anteriores y a los que señale el Reglamento, la Secretaría dará respuesta a la solicitud de autorización en un plazo máximo de quince días hábiles.
 
-i) Nombre completo;
-
-ii) Constancia de situación fiscal; y
-
-iii) Número de cédula profesional, fecha de expedición de la misma y nombre de la autoridad que la expidió.
-
-La Secretaría verificará ante las autoridades competentes la validez de la información proporcionada.
-
-En caso de que le sea otorgado el registro y autorización correspondiente, el personal a que se refiere el inciso a), de la fracción II del presente artículo, tendrá un registro individual, asociado y vinculado al registro de dicha persona moral, sin que éstos puedan elaborar estudios de riesgo-vulnerabilidad por su cuenta.
-
-La obtención del registro y autorización a que se refiere el presente artículo permitirá a las personas físicas y morales elaborar los estudios de riesgo-vulnerabilidad y expedir los dictámenes correspondientes.
-
-La Secretaría con base en la revisión del cumplimiento de los requisitos anteriores, deberá dar respuesta a la solicitud de autorización en un plazo máximo de quince días hábiles, contados a partir de que el solicitante cumpla con la totalidad de requerimientos establecidos.
-
-Los apartados de Protección Civil en los estudios de: impacto ambiental, de vialidad y de impacto urbano, sólo podrán ser elaborados por los Terceros Acreditados con registro y autorización para realizar estudios de riesgo-vulnerabilidad.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 195.
 
-Los registros y autorizaciones a que se refiere el presente capítulo tendrán una vigencia de dos años y permitirán al Tercero Acreditado expedir la Carta de Corresponsabilidad necesaria para registrar los cursos de capacitación impartidos y los Programas Internos y Especiales elaborados o en su caso elaborar los estudios de riesgo-vulnerabilidad, además se sujetarán a los informes cuatrimestrales presentados ante la Secretaría.
+Los registros y autorizaciones a que se refiere el presente capítulo tendrán una vigencia de dos años y permitirán al ROPC impartir capacitación y elaborar los programas internos y especiales, y los estudios de riesgos, así como para expedir la Carta de Corresponsabilidad por medio de la cual avala el cumplimiento de las disposiciones legales y administrativas en materia de Gestión Integral de Riesgos y Protección Civil y con la que se responsabiliza solidariamente con la persona física o moral que solicitó el servicio de que se trate.
 
-Los requisitos y mecanismos para registrar los cursos impartidos y los Programas Internos y Especiales se establecerán en el Reglamento.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 196.
 
-En caso de que el Tercero Acreditado sea una persona física, la Carta de Corresponsabilidad deberá ir firmada por éste y por el obligado.
+La Carta de Corresponsabilidad deberá ir firmada por el ROPC y por el obligado.
 
-En caso de que el Tercero Acreditado sea una persona moral, la Carta de Corresponsabilidad deberá ir firmada por quien sea representante legal de ésta, por quien elaboró el Programa Interno o Especial y que cuente con registro como asociado, y por el obligado.
+La previsión de acciones del Programa Interno de Protección Civil serán obligación de los administradores, directores, gerentes, poseedores, arrendatarios o propietarios de inmuebles o establecimientos obligados.
 
 ###### Artículo 197.
 
-Las características y contenido de las Cartas de Corresponsabilidad se establecerán en los Términos de Referencia.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 198.
 
-Durante la vigencia del registro y como requisito de renovación, los Terceros Acreditados con registro como capacitadores de brigadas de Protección Civil deberán impartir anualmente de manera gratuita cuarenta horas a planteles escolares públicos de educación inicial y básica. En el caso de los Terceros Acreditados con autorización para elaborar Programas Internos y Especiales como requisito de renovación de su registro, deberán elaborar dos Programas Internos para planteles escolares públicos de educación inicial y básica determinados por la Secretaría en coordinación con las autoridades educativas correspondientes.
+Durante la vigencia del registro y la autorización, los terceros acreditados o ROPC deberán entregar anualmente a la Secretaría, en los primeros cinco días del mes siguiente a aquel en que se haya cumplido un año de actividad, un informe detallado de todas las actividades que han llevado a cabo durante el año previo.
 
-Para poder obtener la renovación del registro y autorización como Tercero Acreditado, además de los requisitos establecidos en los párrafos precedentes, durante la vigencia de su registro deberán entregar cuatrimestralmente a la Secretaría, durante los primeros cinco días, un informe detallado de todas las actividades que han llevado a cabo.
+Asimismo, a fin de que la Secretaría proceda a la renovación del registro y autorización de los ROPC, éstos deberán, de conformidad al tipo de registro a renovar, realizar lo siguiente:
 
-Adicionalmente a lo establecido en el párrafo precedente, los Terceros Acreditados deberán:
+I. Aquellos con registro y autorización como capacitadores deberán impartir anualmente de manera gratuita, 40 horas de capacitación a planteles escolares públicos de educación inicial y básica y otros que determine la Secretaría;
 
-I) Demostrar que han tomado cursos de actualización en materia de Gestión Integral de Riesgos y Protección Civil de por lo menos cuarenta horas, tratándose de Tercer Acreditado con registro y autorización para elaborar Programas Internos y Especiales de Protección Civil;
+II. Aquellos con registro y autorización para elaborar Programas Internos y Programas Especiales deberán elaborar dos Programas Internos gratuitamente para planteles escolares públicos de educación inicial y/o básica determinados por la Secretaría, en coordinación con las autoridades educativas competentes;
 
-II) Que han tomado cursos de actualización respecto de cada uno de los cursos para brigadas de Protección Civil que tienen registrados y autorizados, por lo menos de cuarenta horas en total; y
+III. Aquellos con registro y autorización para realizar Estudios de Riesgos deberán elaborar gratuitamente dos Estudios de Riesgos a petición de la Secretaría; y
 
-III) Los Terceros Acreditados con registro y autorización para realizar estudios de Riesgo-Vulnerabilidad deberán acreditar cursos de actualización en materia de Gestión Integral de Riesgos y Protección Civil de por lo menos sesenta horas.
+IV. Acreditar, por lo menos, 40 horas en cursos de actualización en las materias que les correspondan.
 
-La Secretaría deberá dar respuesta a la solicitud de renovación de registro y autorización, en un plazo máximo de quince días hábiles, contados a partir de que el solicitante cumpla con la totalidad de requerimientos establecidos.
+La solicitud de renovación del registro y autorización para desempeñarse como ROPC, deberá presentarse por los interesados dentro de los 30 días naturales anteriores a que concluya la vigencia de los mismos.
 
-La solicitud de renovación de la autorización deberá presentarse ante la Secretaría, dentro de los treinta días naturales antes de que concluya la vigencia del mismo.
+La Secretaría deberá dar respuesta a la solicitud en un plazo máximo de 15 días hábiles, contados a partir de que el solicitante cumpla con la totalidad de los requisitos exigidos.
 
 ###### Artículo 199.
 
@@ -2324,6 +2646,10 @@ Las acciones de Mitigación y operación del Programa Interno de Protección Civ
 
 Los colegios de profesionistas registrados en los términos de la Ley General de Educación, asociaciones e instituciones educativas que formen parte del Sistema Educativo Nacional, podrán capacitar y evaluar a los Terceros Acreditados, previo convenio celebrado con la Secretaría.
 
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Artículo 203 BIS. El ROPC concluirá sus funciones y responsabilidades en los términos que se señalen en el Reglamento.
+
 ## TÍTULO SÉPTIMO. DEL FINANCIAMIENTO DE LA GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL
 
 ### CAPÍTULO I. GENERALIDADES
@@ -2338,17 +2664,23 @@ La Secretaría de Administración y Finanzas observará que el Proyecto de Presu
 
 Las erogaciones correspondientes al financiamiento del Sistema serán previstas en el presupuesto de sus integrantes y se aplicarán para dicho fin.
 
-El Presupuesto de Egresos de la Ciudad de México contemplará recursos para la erogación de la Secretaría, las Alcaldías, así como otras dependencias y entidades de la administración pública en los rubros a los que se refiere la presente Ley. Así como deberá contemplar recursos para integrar el patrimonio del FOPDE.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-Las dependencias, entidades, órganos desconcentrados y las Alcaldías que integren el Sistema no podrán realizar adecuaciones presupuestarias que disminuyan el presupuesto autorizado por el Congreso de la Ciudad de México, destinado a la Gestión Integral de Riesgos y Protección Civil.
+El Presupuesto de Egresos de la Ciudad de México contemplará recursos para la erogación de la Secretaría, las Alcaldías, así como otras dependencias y entidades de la administración pública en los rubros a los que se refiere la presente Ley. De igual manera, deberá contemplar recursos para integrar el patrimonio del FONADEN.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Las dependencias, entidades, órganos desconcentrados y las Alcaldías que integren el Sistema no podrán realizar adecuaciones presupuestarias que disminuyan el presupuesto autorizado por el Congreso de la Ciudad de México, destinado a la Gestión Integral de Riesgos y Protección Civil, salvo lo dispuesto en la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México, en materia de equilibrio presupuestario y de los principios de responsabilidad financiera.
 
 ###### Artículo 206.
 
 La administración pública de la Ciudad de México podrá recibir donaciones para fortalecer la cultura de la Gestión Integral de Riesgos y Protección Civil de la población, así como para la Mitigación, auxilio, restablecimiento, rehabilitación y reconstrucción en caso de Emergencia o Desastre.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 207.
 
-La Secretaría en coordinación con la Secretaría de Administración y Finanzas, establecerá las bases para recibir, distribuir y aplicar, de acuerdo a las prioridades, los donativos y remanentes de éstos, para los fines que establece el artículo anterior. La totalidad de los recursos obtenidos en materia de Protección Civil a los que se refiere la presente Ley serán destinados a integrar el patrimonio del FADE.
+La Secretaría en coordinación con la Secretaría de Administración y Finanzas, establecerá las bases para recibir, distribuir y aplicar, de acuerdo a las prioridades, los donativos y remanentes de éstos, para los fines que establece el artículo anterior. La totalidad de los recursos obtenidos en materia de Protección Civil a los que se refiere la presente Ley serán destinados a integrar el patrimonio del FONADEN.
 
 ### CAPÍTULO II. DE LA TRANSFERENCIA DE RIESGOS
 
@@ -2356,135 +2688,321 @@ La Secretaría en coordinación con la Secretaría de Administración y Finanzas
 
 Es responsabilidad del Gobierno de la Ciudad de México, conforme a su disponibilidad presupuestaria, la contratación de seguros y demás instrumentos de administración y transferencia de riesgos para la cobertura de daños causados por una Emergencia o Desastre, en atención a lo establecido en la Ley General de Protección Civil.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 209.
 
-Corresponde al Gobierno de la Ciudad de México impulsar en sus procesos de planeación y presupuesto, recursos destinados a la creación y sostenimiento del Fideicomiso del FADE y del FOPDE, que permitan el desarrollo de los programas y el cumplimiento de los objetivos del Sistema.
+Corresponde al Gobierno de la Ciudad de México impulsar en sus procesos de planeación y presupuesto, recursos destinados al sostenimiento del Fideicomiso del FONADEN, que permitan el desarrollo de los programas y el cumplimiento de los objetivos del Sistema.
 
-## TÍTULO OCTAVO. DE LAS MEDIDAS DE SEGURIDAD, SANCIONES Y RECURSOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE MARZO DE 2021)</small>
 
-### CAPÍTULO I. DE LA EJECUCUIÓN (SIC) DE LAS MEDIDAS DE SEGURIDAD
+## TÍTULO OCTAVO. DE LAS VISITAS DE VERIFICACIÓN, MEDIDAS CAUTELARES Y DE SEGURIDAD, SANCIONES Y RECURSOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE MARZO DE 2021)</small>
+
+### CAPÍTULO I. DE LA EJECUCIÓN DE LAS VISITAS DE VERIFICACIÓN E IMPOSICIÓN DE LAS MEDIDAS CAUTELARES Y DE SEGURIDAD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 210.
 
-Cuando la Secretaría o Alcaldía adviertan, previo dictamen u opinión técnica, que alguna propiedad privada representa un Riesgo en materia de Protección Civil, requerirán al propietario, administrador o poseedor del bien que genere el Riesgo, que realice las obras de Mitigación que resulten necesarias. Dicho requerimiento deberá realizarse en los términos establecidos por el procedimiento que para tal efecto deberá contemplarse en el Reglamento de la presente Ley.
+Las Alcaldías, en el ámbito de sus atribuciones, ordenarán las visitas de verificación administrativa a efecto de vigilar el cumplimiento de esta Ley, su Reglamento y demás disposiciones en la materia.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+El procedimiento de verificación administrativa se llevará a cabo conforme a lo establecido en la Ley de Procedimiento Administrativo de la Ciudad de México, la Ley del Instituto de Verificación Administrativa de la Ciudad de México, el Reglamento de Verificación Administrativa del Distrito Federal y demás disposiciones jurídicas y administrativas que resulten aplicables.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 211.
 
-Las personas propietarias, administradoras, poseedoras del bien que genere Riesgo, estarán obligados (sic) a ejecutar las obras de Mitigación necesarias para evitar daños a la población, sus bienes o entorno, así como aquellas necesarias para impedir el acceso al sitio riesgoso.
+La Secretaría capacitará al Personal Especializado en Funciones de Verificación en materia de protección civil.
 
 ###### Artículo 212.
 
-Una vez concluidas las obras de Mitigación en materia de Protección Civil, la persona propietaria, administradora, o poseedora dará aviso de terminación a la autoridad que haya ordenado los trabajos, la cual revisará la ejecución de los mismos pudiendo, en su caso, ordenar su modificación o corrección.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 213.
 
-La autoridad competente, bajo su más estricta responsabilidad, podrá imponer como medida de seguridad la suspensión parcial o total de actividades que provoquen Riesgo Inminente de conformidad con la Ley de Procedimiento Administrativo de la Ciudad de México, debiendo calificar, motivar y fundar dicho Riesgo Inminente, así como la aplicación de la medida de seguridad a que se refiere este párrafo, estableciendo un plazo para la Mitigación del mismo.
+Con motivo de la visita de verificación y para proteger la salud, la seguridad pública, la integridad de las personas y sus bienes, así como para evitar el incumplimiento de la normatividad referente a las actividades reguladas, las Alcaldías, en el ámbito de su competencia, además de las establecidas en la Ley de Procedimiento Administrativo de la Ciudad de México y en el Reglamento de Verificación Administrativa del Distrito Federal, podrán imponer una o más de las siguientes medidas cautelares y de seguridad:
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+I. La suspensión temporal, total o parcial de obras o actividades que generen el riesgo;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. La suspensión temporal de registros o autorizaciones;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+III. El retiro de instalaciones;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IV. La ejecución de medidas de mitigación;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+V. La orden de desocupación temporal de inmuebles; y
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VI. Las demás necesarias para preservar la integridad de las personas o de sus bienes, la seguridad pública o la salud de la población.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Las medidas de seguridad tienen carácter preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan por las infracciones cometidas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 214.
 
-Cuando la autoridad imponga alguna medida de seguridad, debe señalar el plazo que concede para efectuar las obras de Mitigación y definir con precisión los trabajos y acciones que tiendan a mitigar las causas que motivaron la imposición de la medida de seguridad.
+Cuando la autoridad ordene alguna o algunas medidas cautelares o de seguridad previstas en el artículo anterior, indicará a la o las personas responsables de la generación del riesgo inminente y/o de las irregularidades detectadas, las acciones que deberán llevar a cabo para subsanar o corregir los hechos que motivaron su imposición, a su costa; así como los plazos para su realización, a fin de que una vez cumplidas éstas, se dejen sin efecto.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+De modo que, una vez concluidas las acciones ordenadas, la persona responsable dará aviso a la autoridad para que proceda a la revisión correspondiente.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Las medidas de mitigación se orientarán a evitar, atenuar o compensar los impactos adversos producidos o susceptibles de ser producidos en la ejecución del proyecto de que se trate, así como en el caso de accidentes.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 215.
 
-Si el propietario, administrador, o poseedor hubiere sido requerido para realizar las obras de Mitigación y estas no se realizarán, de existir una situación de Riesgo inminente, la autoridad podrá proceder en términos de lo dispuesto en la Ley de Procedimiento Administrativo de la Ciudad de México, haciendo uso de la fuerza pública para garantizar el cumplimiento de la orden, incluyendo la desocupación temporal de inmuebles.
+Ante la omisión o negativa de la o las personas responsables, la autoridad competente podrá realizar las acciones que se requieran para la debida observancia y ejecución de las medidas de seguridad impuestas; supuesto en el cual, las personas responsables deberán cubrir los gastos que se hubiesen sufragado; por lo tanto, dichos gastos tendrán el carácter de un crédito fiscal.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 216.
 
-Cualquier afectado por la medida de seguridad impuesta, podrá interponer recurso de inconformidad de acuerdo con lo previsto en la Ley de Procedimiento Administrativo de la Ciudad de México. En su caso, una vez confirmada la medida, la autoridad podrá hacer uso de la fuerza pública para hacerla cumplir.
+La orden de desocupación no implica la pérdida de los derechos u obligaciones que existan entre el propietario y los afectados por la medida de seguridad, quienes en su caso deberán ser indemnizados por el causante del riesgo, salvo caso fortuito o fuerza mayor.
 
 ###### Artículo 217.
 
-La orden de desocupación no implica la pérdida de los derechos u obligaciones que existan entre el propietario y los afectados por la medida de seguridad, quienes en su caso deberán ser indemnizados por el causante del Riesgo, salvo caso fortuito o fuerza mayor.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. D E. REUBICADO ESTE ARTÍCULO -ANTES EN CAPÍTULO I], G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 218.
 
-En caso de rebeldía, la autoridad podrá ejecutar las medidas de seguridad impuestas en materia de Protección Civil a costa de la persona propietaria, administradora, o poseedora del bien que cause el Riesgo. A los gastos derivados de esta ejecución se les dará el tratamiento de crédito fiscal, cuya recuperación será efectuada por la Secretaría de Administración y Finanzas.
+Una vez sustanciado el procedimiento administrativo de verificación, las Alcaldías podrán imponer las siguientes sanciones administrativas:
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+I. Multa;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. Revocación de autorizaciones o permisos;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+III. Clausura temporal o definitiva, parcial o total del inmueble, establecimiento o fuente de riesgo;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IV. Revocación del registro y autorización como ROPC;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+V. Revocación del registro a los grupos voluntarios
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VI. Revocación del registro de los programas Internos y Programas Especiales;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VII. Realización de programas, obras o actividades para mitigar el riesgo, y
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VIII. Las demás necesarias para preservar la integridad de las personas.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Las sanciones pecuniarias se aplicarán con independencia de otras sanciones que se ordenen por lo que podrán imponerse conjunta o separadamente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 219.
 
-En caso del mal uso de los números de emergencia de la Ciudad de México, el responsable será multado por la autoridad competente con una sanción que irá de diez a cien veces la Unidad de Medida y Actualización vigente en la Ciudad de México por cada acto.
+La clausura definitiva, total o parcial, procederá cuando:
 
-Lo anterior con independencia de la sanción que corresponda por la comisión del delito de sabotaje.
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
 
-Todo aquel afectado por esta conducta podrá iniciar las correspondientes acciones civiles a que haya lugar.
+I. El infractor no hubiere cumplido en los plazos, los términos y las condiciones impuestos por la autoridad;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. En caso de reincidencia;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+III. El propietario o poseedor y la empresa constructora o desarrolladora no haya cumplido con las medidas de mitigación establecidas en el estudio de riesgos, o
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IV. El organizador o promotor de un espectáculo público de afluencia masiva carezca de Programa Especial estando obligado a ello.
 
 ###### Artículo 220.
 
 Corresponde a la Secretaría denunciar ante las autoridades competentes las conductas que así lo ameriten, ejercitar las acciones que le correspondan, en términos de la legislación aplicable, y representar los intereses del Sistema en los procesos en los que sea requerido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 221.
 
-La omisión en el cumplimiento de las obligaciones de los servidores públicos será sancionada de acuerdo a lo establecido en la Ley Federal de Responsabilidades de los Servidores Públicos.
+Para los efectos de este capítulo se aplicarán las siguientes sanciones a las conductas que se determinan a continuación:
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+I. A la persona que, de forma dolosa, realice una llamada, aviso o alerta falsa a las líneas de emergencia de la Ciudad de México, se le impondrá multa de 10 a 100 veces la UMA;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. A las personas administradoras, directoras, gerentes, poseedoras, arrendatarias o propietarias de inmuebles o establecimientos de mediano y alto riesgo que carezcan de Póliza de Seguro del Programa Interno serán sancionadas con multa de 500 a 1,000 la UMA, y la clausura parcial o total de actividades de las instalaciones, si dentro del plazo de treinta días hábiles, no es presentada la póliza de referencia.
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+III. A los promotores, organizadores o responsables de eventos, actividades o espectáculos públicos de afluencia masiva, que carezcan de Póliza de Seguro del Programa Especial serán sancionados con multa de 500 a 1,000 la UMA, y la clausura parcial o total de actividades del establecimiento o inmueble en el que se realizó el evento o espectáculo público en cuestión si dentro del plazo de 48 horas previas a la celebración del mismo no es presentada la póliza de referencia.
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IV. A la persona física o moral que no cuente con el Programa Interno o Especial, estando obligado a ello, o que dicho Programa no cumpla con los requisitos establecidos en la normativa que corresponda, se le impondrá multa de 200 a 5,000 la UMA, así como suspensión parcial o total de actividades en caso de riesgo inminente, previo desahogo del procedimiento preventivo que establezca el Reglamento;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+V. A la persona física o moral que aun contando con ejemplar físico del Programa Interno en el establecimiento o inmueble omita registrarlo en la Plataforma Digital, se le impondrá multa de 100 a 2,500 la UMA, así como clausura parcial o total de actividades en caso de riesgo inminente, previo desahogo del procedimiento preventivo que establezca el Reglamento;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VI. A la persona física o moral que estando obligada a ello no presente el Plan de Contingencias para la quema de artificios pirotécnicos, se le impondrá multa de 250 a 6,000 la UMA, así como clausura parcial o total de actividades;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VII. A la persona física o moral que, estando obligado a ello, no presente, a través del Tercero Acreditado o ROPC, el estudio de riesgo correspondiente, se le impondrá multa de 300 a 6,000 la UMA, así como clausura parcial o total de actividades en caso de Riesgo Inminente, previo desahogo del procedimiento preventivo que establezca el Reglamento;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VIII. A la persona física o moral que para obtener el registro en la Plataforma Digital del Programa Interno o en la presentación del Estudio de Riesgos haya proporcionado información o documentación falsa o errónea, se le impondrá la revocación del registro y multa de 500 a 8,000 la UMA;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IX. Al ROPC, por la responsabilidad que se desprenda de las obligaciones contraídas en la Carta de Corresponsabilidad con multa de 200 a 5,000 veces la UMA, y la suspensión o revocación de su registro;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+X. Al ROPC que elabore Estudios de Riesgos, sin cumplir con los requisitos de Ley y demás ordenamientos aplicables, se le impondrá revocación del registro y autorización para ejercer como tal y multa de 100 a 2,500 la UMA;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XI. Al ROPC que, sin causa fundada, modifique los Programas Internos o Programas Especiales registrados, se le impondrá revocación del registro y autorización para ejercer como tal y multa 100 a 2,500 la UMA;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XII. Al ROPC que haya obtenido su registro y autorización con datos o documentos falsos, se le impondrá revocación del registro y autorización para ejercer como tal y multa de 1,000 a 1,500 la UMA;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XIII. Al ROPC, o cualquier persona física o moral que incumpla con la Ley y demás disposiciones aplicables, poniendo en riesgo la vida y/o los bienes de las personas, se le impondrá revocación del registro y autorización para ejercer como tal y multa de 200 a 5,000 la UMA;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XIV. Si el registro del Programa Interno no corresponde a las características físicas del Establecimiento o inmueble, o bien, éste se realizó sin contar con los documentos que acrediten su legalidad de acuerdo a la normatividad en la materia, el ROPC se hará acreedor a una sanción administrativa de 1,000 a 1,500 la UMA y la cancelación de su registro; y,
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XV. A los Grupos Voluntarios, que proporcionen información falsa para obtener el registro ante la Secretaría se les impondrá la negativa o revocación del registro y multa de 1,000 a 1,500 la UMA;
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Las sanciones antes descritas, serán consideradas en la resolución pertinente y en su caso, se dará vista a la autoridad correspondiente para que se inicie el procedimiento respectivo que permita determinar la responsabilidad en el ámbito que proceda.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+En el caso de reincidencia, el monto de la multa podrá ser hasta dos veces del monto originalmente impuesto, sin exceder del máximo permitido.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Artículo 221 BIS. La autoridad administrativa fundará y motivará su resolución, considerando para su individualización:
+
+I. Los daños que se hubieren producido o puedan producirse;
+
+II. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
+
+III. La gravedad de la infracción;
+
+IV. La reincidencia del infractor; y,
+
+V. La capacidad económica del infractor.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 222.
 
-La omisión en el cumplimiento de las medidas preventivas que generen una afectación a los grupos vulnerables o a la información pública por causas imputables al servidor público responsable del resguardo o expedición de la misma, se equiparará al delito de ejercicio ilegal del servicio público en términos de lo establecidos en el artículo 259 fracción IV del Código Penal para la Ciudad de México.
+La Secretaría es la autoridad competente para conocer y resolver las infracciones en que incurran los ROPC, por ello, cuando se trate de asuntos de competencia de las Alcaldías en los que intervengan o ROPC, éstas presentarán ante la Secretaría la queja correspondiente acompañada de la documentación y demás elementos probatorios para acreditar la infracción imputada.
 
 ###### Artículo 223.
 
 El servidor público que, teniendo la obligación de custodiar, vigilar y evitar el asentamiento humano en zonas dictaminadas como de alto Riesgo, promueva, autorice, permita o tolere la existencia de los mismos, será sancionado en los términos que establece el Código Penal de la Ciudad de México, además de las sanciones administrativas a que haya lugar.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 224.
 
-Se equiparará al delito de usurpación de profesión y se sancionará conforme a lo establecido en el artículo 323 del Código Penal para la Ciudad de México, a la persona que sin contar con la autorización correspondiente se atribuya públicamente el carácter de Tercero Acreditado u ofrezca o desempeñe públicamente los servicios reservados para los mismos.
+A la persona que sin contar con la autorización correspondiente se atribuya públicamente el carácter de ROPC u ofrezca o desempeñe públicamente los servicios reservados para los mismos, se sancionará conforme a lo establecido en el artículo 323 del Código Penal para la Ciudad de México.
 
 ###### Artículo 225.
 
 La violación a la presente Ley, su Reglamento y demás disposiciones, por parte de los particulares será sancionada administrativamente por la Secretaría o la Alcaldía correspondiente, o por la persona titular del Juzgado Cívico; conforme a sus respectivas competencias, sin perjuicio de la aplicación de las penas que correspondan cuando sean constitutivas de delito.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 226.
 
-La persona servidora pública que teniendo a su cargo la administración o ejecución de recursos provenientes de los fondos y el fideicomiso a los que se refiere la presente Ley, y les dé un uso diferente o retrase la aplicación de los mismos será sancionado de conformidad a lo establecido en el artículo 267 del Código Penal para la Ciudad de México.
+La persona servidora pública que teniendo a su cargo la administración o ejecución de recursos provenientes de los fondos y el fideicomiso a los que se refiere la presente Ley, y les dé un uso diferente o retrase la aplicación de los mismos será sancionado de conformidad a lo establecido en el artículo 267 del Código Penal para la Ciudad de México, además de las sanciones administrativas a que haya lugar.
 
 ###### Artículo 227.
 
-Las sanciones de carácter administrativo podrán ser:
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
-I) Multa;
-
-II) Revocación del registro a Grupos Voluntarios;
-
-III) Revocación de Autorización a los Terceros Acreditados;
-
-IV) Suspensión total o parcial de espectáculos públicos;
-
-V) Suspensión total o parcial de establecimientos mercantiles; y
-
-VI) Clausura.
-
-En el caso de reincidencia, el monto de la multa podrá ser hasta dos veces del monto originalmente impuesto, sin exceder del máximo permitido.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 228.
 
-La falta de existencia de un Programa Interno para los establecimientos y empresas de mediano y alto Riesgo, será causal de multa de 200 a 5,000 veces la Unidad de Medida y Actualización de la Ciudad de México, así como suspensión parcial o total de actividades en caso de Riesgo Inminente, previo desahogo del procedimiento preventivo que establezca el Reglamento.
+La omisión en el cumplimiento de las medidas preventivas que generen una afectación a los grupos de atención prioritaria o a la información pública por causas imputables a la persona servidora pública responsable del resguardo o expedición de la misma, se sancionará conforme a lo establecido en el artículo 259 fracción IV del Código Penal para la Ciudad de México, además de las sanciones administrativas a que haya lugar.
 
 ###### Artículo 229.
 
-En el caso de los establecimientos y empresas de mediano y alto Riesgo que deban contar con la Póliza de Seguro que deberá contener su Programa Interno o Especial y no lo hagan, se sancionarán con multa de 500 a 1,000 veces la Unidad de Medida y Actualización de la Ciudad de México, y la clausura de las instalaciones, si dentro del plazo de treinta días hábiles, no es presentada la póliza de referencia.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 ###### Artículo 230.
 
-La omisión en el cumplimiento de la realización de los Simulacros obligatorios que señala la Ley, será sancionada con multa de 100 a 500 veces la Unidad de Medida y Actualización de la Ciudad de México.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 ###### Artículo 231.
 
-Por denuncia ante la Secretaría, debidamente fundada y motivada por el incumplimiento de las obligaciones de los Grupos Voluntarios se sancionará con la pérdida de su registro.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 ###### Artículo 232.
 
-La Secretaría sancionará por denuncia debidamente fundada y motivada a los Terceros Acreditados con multa que va de los 200 a las 5,000 veces la Unidad de Medida y Actualización de la Ciudad de México, la suspensión o pérdida de su registro por el incumplimiento de las obligaciones o deficiencias en su trabajo y por la responsabilidad que se desprenda de las obligaciones contraídas en la Carta de Corresponsabilidad emitida por ellos mismos para los Programas Internos y Especiales que elaboren, además, con respecto a los hechos y omisiones que pudieran ser constitutivos de delito, dará vista a la autoridad correspondiente para que determine la responsabilidad que de éstas se desprenda.
-
-El Reglamento determinará las causas y efectos de los supuestos del párrafo anterior.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 ###### Artículo 233.
 
-A las organizaciones civiles, grupos de voluntarios y Terceros Acreditados que proporcionen información falsa para obtener el registro correspondiente, se les impondrá multa de 1,000 a 1,500 veces la Unidad de Medida y Actualización de la Ciudad de México.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 ###### Artículo 234.
 
-Si el registro del Programa Interno no corresponde a las características físicas del Establecimiento o inmueble, o bien, éste se realizó sin contar con los documentos que acrediten su legalidad, el Tercero Acreditado se hará acreedor a una sanción administrativa de 1,000 a 1,500 veces la Unidad de Medida y Actualización de la Ciudad de México y la cancelación de su registro.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 ###### Artículo 235.
 
@@ -2553,3 +3071,19 @@ DÉCIMO SÉPTIMO. De conformidad con la Constitución Política de la Ciudad de 
 Palacio Legislativo del Congreso de la Ciudad de México, a los veintitrés días del mes de mayo del año dos mil diecinueve.- POR LA MESA DIRECTIVA.- DIPUTADO JOSÉ DE JESÚS MARTÍN DEL CAMPO CASTAÑEDA.- PRESIDENTE.- DIPUTADA ISABELA ROSALES HERRERA, SECRETARIA.- DIPUTADA ANA PATRICIA BAEZ GUERRERO, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 3 fracciones XVII y XVIII, 7, 10 fracción II, 12, y 21, párrafo primero, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los cinco días del mes de junio del año dos mil diecinueve.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- EL SECRETARIO DE CULTURA, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, JOSÉ LUIS BEATO GONZÁLEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUÍZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- LA SECRETARIA DE LAS MUJERES, GABRIELA RODRÍGUEZ RAMÍREZ.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LARISA ORTIZ QUINTERO.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, JESÚS ORTA MARTÍNEZ.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 2 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL Y DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO, DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL, DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL, ASÍ COMO DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO. - Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO. - El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. - El Reglamento de la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México, se actualizará dentro de un término de sesenta días, contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. - Las Normas Técnicas, Términos de Referencia y Lineamientos a que se refiere la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México se actualizarán en lo que se opongan al presente Decreto, dentro de un término de noventa días, contados a partir de la entrada en vigor del presente mismo.
+
+QUINTO. - La Plataforma Digital a que se refiere la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México se actualizarán en lo que se opongan al presente Decreto, dentro de un término de noventa días, contados a partir de la entrada en vigor del presente mismo.
