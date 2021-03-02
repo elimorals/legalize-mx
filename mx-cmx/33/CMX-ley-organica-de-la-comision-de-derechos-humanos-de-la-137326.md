@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-comision-de-derechos-humanos-de-la-137326"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-12"
-last_updated: "2019-07-12"
+last_updated: "2021-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137326&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-06-10"
 
 LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MARZO DE 2021.
 
 Ley publicada en el No. 133 de la Gaceta Oficial de la Ciudad de México, el viernes 12 de julio de 2019.
 
@@ -896,11 +896,15 @@ Los puntos recomendatorios de las recomendaciones aceptadas deberán cumplirse e
 
 Las recomendaciones aceptadas implican el reconocimiento de la calidad de víctima en términos de lo que establece la Ley General de Víctimas y la Ley de Víctimas para la Ciudad de México, por lo que la Comisión deberá remitir las recomendaciones a la Comisión de Atención a Víctimas de la Ciudad de México para que considere a la o las personas víctimas de violaciones de derechos humanos en el registro correspondiente y garantice, según resulte necesario y proporcional, en cada caso el derecho a la reparación integral y demás derechos que el estatus de víctima confiere.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 72.
 
 Cuando las recomendaciones emitidas no sean aceptadas o cuando a pesar de ser aceptadas no sean cumplidas, la autoridad o persona servidora pública de que se trate deberá fundar, motivar y hacer públicos los motivos de su negativa o falta de cumplimiento.
 
-La Comisión podrá solicitar a las autoridades o personas servidoras públicas la reconsideración de su respuesta cuando no sea aceptada la recomendación, expresando los aspectos que sean necesarios para que la autoridad o persona servidora pública pueda modificar su determinación y otorgando un plazo de diez días hábiles siguientes a su notificación para que la autoridad o persona servidora pública dé respuesta. De continuar el rechazo por parte de la autoridad o persona servidora pública se considerará que la recomendación no fue aceptada. En caso de que no existe (sic) respuesta a la solicitud de reconsideración, se tendrá por rechazada la recomendación.
+La Comisión podrá solicitar a las autoridades o personas servidoras públicas la reconsideración de su respuesta cuando no sea aceptada la recomendación, expresando los aspectos que sean necesarios para que la autoridad o persona servidora pública pueda modificar su determinación y otorgando un plazo de diez días hábiles siguientes a su notificación para que la autoridad o persona servidora pública dé respuesta. De continuar el rechazo por parte de la autoridad o persona servidora pública, deberá nuevamente fundar, motivar y hacer públicos los motivos de su negativa.
+
+En caso de que no exista respuesta a la solicitud de reconsideración, se tendrá por aceptada la recomendación.
 
 Asimismo, el Congreso podrá citar a comparecer, a solicitud de la persona titular de la Presidencia de la Comisión, a las autoridades o personas servidoras públicas responsables que no acepten o que incumplan con las recomendaciones, a efecto de que expliquen el motivo de su negativa o falta de cumplimiento.
 
@@ -1471,3 +1475,13 @@ OCTAVO.- Las relaciones laborales entre la Comisión y sus trabajadores se regir
 Palacio Legislativo del Congreso de la Ciudad de México, a los veintiocho días del mes de mayo del año dos mil diecinueve.- POR LA MESA DIRECTIVA.- DIPUTADO JOSÉ DE JESÚS MARTÍN DEL CAMPO CASTAÑEDA.- PRESIDENTE.- DIPUTADA ISABELA ROSALES HERRERA, SECRETARIA.- DIPUTADA ANA PATRICIA BAEZ GUERRERO, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2, 3, fracciones XVII y XVIII, 7, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los diez días del mes de junio del año dos mil diecinueve.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO”.]</small>
+
+G.O. 2 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 72 DE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a (sic) Jefatura de Gobierno de la Ciudad de México para su Publicación en la Gaceta oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
