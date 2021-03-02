@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-regula-los-procedimientos-de-entrega-recepcion-del-1218
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-05"
-last_updated: "2017-06-05"
+last_updated: "2021-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY QUE REGULA LOS PROCEDIMIENTOS DE ENTREGA-RECEPCION DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 2 DE MARZO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE REGULA LOS PROCEDIMIENTOS DE ENTREGA-RECEPCIÓN DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2021 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 5 de junio de 2017.
 
@@ -594,3 +596,19 @@ Que la LXII Legislatura del H. Congreso Constitucional del Estado Libre y Sobera
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los tres días del mes de mayo del año dos mil diecisiete.
 
 EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley que Regula los Procedimientos de Entrega-Recepción del Estado de Campeche y sus Municipios, publicada en el Periódico Oficial del Estado el día 5 de junio de 2017.
+
+TERCERO.- Los Poderes del Estado, los Municipios, y los órganos constitucionales autónomos, a través de sus Órganos de Control, emitirán en el ámbito de sus respectivas competencias el Manual de Entrega-Recepción a que se refiere esta Ley, en un plazo máximo de 120 días naturales, a partir de la entrada en vigor del presente Decreto.
+
+Hasta en tanto no se emita el Manual a que se hace referencia en el párrafo anterior, se seguirá aplicando el que esté vigente en los Poderes del Estado, los Municipios y órganos constitucionales autónomos, en lo que no se oponga a la presente Ley, sin que su aplicación se exceda del plazo antes señalado.
+
+CUARTO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido de la presente Ley.
