@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2019-09-30"
+last_updated: "2021-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2011-01-14"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
+LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE MARZO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -48,29 +48,33 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO
 
 Se expide la Ley de Establecimientos Mercantiles del Distrito Federal, con las observaciones realizadas por el Jefe de Gobierno del Distrito Federal y aprobadas por la Asamblea Legislativa del Distrito Federal, para quedar como sigue:
 
-LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE MARZO DE 2021)</small>
+
+LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO
 
 ## TITULO I
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 1.
 
-Las disposiciones contenidas en este ordenamiento son de orden público e interés general y tienen por objeto regular el funcionamiento de los establecimientos mercantiles del Distrito Federal.
-
-No será objeto de regulación de la presente Ley los locales destinados a la industria.
+Las disposiciones contenidas en este ordenamiento son de orden público e interés general y tienen por objeto regular el funcionamiento de los establecimientos mercantiles de la Ciudad de México.
 
 ###### Artículo 2.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Administración Pública: El conjunto de dependencias y órganos que integran la administración centralizada, desconcentrada y paraestatal del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+I. Administración Pública: El conjunto de dependencias y órganos que integran la administración centralizada, desconcentrada y paraestatal de la Ciudad de México;
 
 II. Aforo: Es el número de personas que pueden ingresar y permanecer en un establecimiento mercantil. En el reglamento de la ley se establecerán los procedimientos, términos y formas para determinar número máximo de personas, atendiendo la necesidad de garantizar la seguridad;
 
-> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-III. Centro Comercial: Cualquier inmueble dentro del Distrito Feral (sic), que independientemente del uso que le corresponda por los programas delegacionales de desarrollo urbano, alberga un número determinado de establecimientos mercantiles (ya sea temporales o permanentes), que se dedican a la intermediación y comercialización de bienes y servicios; en donde cada establecimiento en lo individual, debe contar con los avisos o permisos que correspondan, que avale su funcionamiento según su naturaleza.
+III. Centro Comercial: Cualquier inmueble dentro de la Ciudad de México, que independientemente del uso que le corresponda por los programas delegacionales de desarrollo urbano, alberga un número determinado de establecimientos mercantiles (ya sea temporales o permanentes), que se dedican a la intermediación y comercialización de bienes y servicios; en donde cada establecimiento en lo individual, debe contar con los avisos o permisos que correspondan, que avale su funcionamiento según su naturaleza.
 
 IV. Clausura: El acto administrativo a través del cual la autoridad, como consecuencia del incumplimiento de la normatividad correspondiente, ordena suspender o impedir las actividades o funcionamiento de un establecimiento mercantil mediante la colocación de sellos en el local correspondiente, pudiendo ser de carácter temporal o permanente, parcial o total;
 
@@ -96,39 +100,45 @@ XIV. Giro de Bajo Impacto: Las actividades desarrolladas en un establecimiento m
 
 XV. Giro Mercantil: La actividad comercial lícita que se desarrolla en un establecimiento mercantil, permitida en las normas sobre uso de suelo. Adicionalmente podrán desarrollar actividades que en términos de la presente Ley son compatibles al giro mercantil y que se ejercen en un establecimiento con el objeto de prestar un servicio integral;
 
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN XVII, G.O. 2 DE MARZO DE 2021.]</small>
+
 XVI. Instituto: El Instituto de Verificación Administrativa del Distrito Federal;
 
-XVII. Ley: La Ley de Establecimientos Mercantiles del Distrito Federal;
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN XVI.]</small>
 
-XVIII. Permiso: Acto administrativo por el cual la Delegación, a través del Sistema, autoriza la operación de un giro mercantil de impacto vecinal o zonal, con la vigencia establecida en esta Ley;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-> <small>(ADICIONADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+XVII. Instituto: El Instituto de Verificación Administrativa de la Ciudad de México;
 
-XIX. Programa Interno de Protección Civil: Instrumento de planeación que se implementa con la finalidad de determinar las acciones de prevención, auxilio y recuperación, destinadas a salvaguardar la integridad física de las personas que habitan, laboran o concurren a determinados inmuebles, así como para proteger las instalaciones, bienes, entorno e información, ante la ocurrencia de fenómenos perturbadores;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+XVIII. Ley: La Ley de Establecimientos Mercantiles de la Ciudad de México;
 
-XX. Secretaria de Desarrollo Económico: La Secretaria de Desarrollo Económico del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+XIX. Programa Interno de Protección Civil: Instrumento de planeación y operación, circunscrito al ámbito de una dependencia, entidad, establecimiento, empresa, institución u organismo del sector público, privado o social que tiene como propósito reducir los riesgos previamente identificados y definir acciones preventivas y de respuesta para estar en condiciones de evitar o atender la eventualidad de alguna emergencia o desastre;
 
-XXI. Secretaria de Gobierno: La Secretaria de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XX. Secretaría de Desarrollo Económico: La Secretaría de Desarrollo Económico del Gobierno de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XXI. Secretaría de Gobierno: La Secretaría de Gobierno de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 XXII. Sistema: El sistema informático que establezca la Secretaria de Desarrollo Económico, a través del cual los particulares presentarán los Avisos y Solicitudes de Permisos a que se refiere esta Ley;
 
-> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-XXIII. Solicitud de Permiso: Acto a través del cual una persona física o moral por medio del Sistema inicia ante la Delegación el trámite para operar un giro vecinal o impacto zonal;
+XXIII. Solicitud de Permiso: Acto a través del cual una persona física o moral por medio del Sistema inicia ante la Alcaldía el trámite para operar un giro con impacto vecinal o impacto zonal;
 
 XXIV. Suspensión Temporal de Actividades: El acto a través del cual la autoridad, como consecuencia de un incumplimiento a la normatividad correspondiente, ordena suspender las actividades de forma inmediata de un establecimiento mercantil en tanto se subsana el incumplimiento;
 
-XXV. Sistema de Seguridad: Personal y conjunto de equipos y sistemas tecnológicos con el que deben contar los establecimientos mercantiles de impacto zonal para brindar seguridad integral a sus clientes, usuarios y personal.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
-
-El Sistema de Seguridad deberá ser aprobado por escrito por la Secretaria de Seguridad Pública del Distrito Federal;
+XXV. Sistema de Seguridad: Personal y conjunto de equipos y sistemas tecnológicos con el que deben contar los establecimientos mercantiles de impacto zonal para brindar seguridad integral a sus clientes, usuarios y personal. El Sistema de Seguridad deberá ser aprobado por escrito por la Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
 XXVI. Titulares: Las personas físicas o morales, a nombre de quien se le otorga el Aviso o Permiso y es responsable del funcionamiento del establecimiento mercantil;
 
@@ -136,17 +146,21 @@ XXVII. Traspaso: La transmisión que el Titular haga de los derechos consignados
 
 XXVIII. Verificación: El acto administrativo por medio del cual, la autoridad, a través de los servidores públicos autorizados para tales efectos, comprueba el cumplimiento de las disposiciones jurídicas aplicables para el funcionamiento de los establecimientos mercantiles.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 3.
 
-Para efectos de la presente Ley, es supletoria la Ley de Procedimiento Administrativo del Distrito Federal, además los titulares y dependientes de los establecimientos mercantiles, así como los servidores públicos de la Administración Pública Local deberán acatar las disposiciones jurídicas en las materias ambiental, protección civil, salud, desarrollo urbano, protección a la salud de los no fumadores y demás que les resulten aplicables.
+Para efectos de la presente Ley, es supletoria la Ley de Procedimiento Administrativo de la Ciudad de México, además los titulares y dependientes de los establecimientos mercantiles, así como los servidores públicos de la Administración Pública Local deberán acatar las disposiciones jurídicas en las materias ambiental, protección civil, salud, desarrollo urbano, protección a la salud de los no fumadores y demás que les resulten aplicables.
 
 ## TITULO II
 
 DE LAS ATRIBUCIONES.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 4.
 
-Corresponde al Jefe de Gobierno:
+Corresponde a la persona titular de la Jefatura de Gobierno:
 
 I. Promover y fomentar mediante facilidades administrativas y estímulos fiscales, las actividades de los establecimientos mercantiles;
 
@@ -160,17 +174,21 @@ V. Determinar acciones de simplificación;
 
 VI. Fomentar la implementación de acciones de autoregulación con organismos empresariales representativos del comercio, los servicios y el turismo;
 
-VII. Instruir a la Secretaría de Gobierno en su caso, quien en coordinación con la Delegación, ordenará la realización de visitas de verificación.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-La Delegación deberá informar el resultado de las visitas de verificación;
+VII. Instruir a la Secretaría de Gobierno en su caso, quien en coordinación con la Alcaldía, ordenará la realización de visitas de verificación. La Alcaldía deberá informar el resultado de las visitas de verificación;
 
 VIII. Implementar programas y acciones tendientes a evitar o disuadir la conducción de vehículos automotores bajo los influjos del alcohol, en los cuales se considerará la participación de los titulares de establecimientos mercantiles de impacto vecinal y zonal;
 
 IX. Instrumentar, en coordinación con los titulares de los establecimientos mercantiles de impacto vecinal y zonal, campañas masivas de información sobre los riesgos relacionados con el consumo excesivo de bebidas alcohólicas y la conducción de vehículos automotores bajo los influjos de aquellas;
 
-X. Implementar, a través de la Secretaría de Transporte y Vialidad, el servicio de transporte público colectivo en horario nocturno en rutas de mayor afluencia previo estudio de origen - destino y demanda;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-XI. Instrumentar, a través de la Secretaría de Transporte y Vialidad en coordinación con los titulares de los establecimientos mercantiles un programa de difusión de taxi seguro para informar la localización de bases de taxis autorizados y tarifas permitidas así mismo implementará un programa permanente de verificaciones sobre su funcionamiento y tarifas;
+X. Implementar, a través de la Secretaría (sic) Movilidad de la Ciudad de México, el servicio de transporte público colectivo en horario nocturno en rutas de mayor afluencia previo estudio de origen - destino y demanda;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+XI. Instrumentar, a través de la Secretaría (sic) Movilidad de la Ciudad de México en coordinación con los titulares de los establecimientos mercantiles un programa de difusión de taxi seguro para informar la localización de bases de taxis autorizados y tarifas permitidas así mismo implementará un programa permanente de verificaciones sobre su funcionamiento y tarifas;
 
 XII. A través de las dependencias competentes, creará programas de estímulos temporales y permanentes que fomenten la creación de establecimientos mercantiles libres de humo de tabaco;
 
@@ -182,15 +200,23 @@ XIV. Las demás que le confieran la Ley y otras disposiciones aplicables.
 
 Corresponde a la Secretaría de Gobierno:
 
-I. Coordinar y evaluar el debido cumplimiento de las atribuciones y obligaciones conferidas a las Delegaciones en la Ley;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-II. Ordenar, mediante acuerdo general que deberá publicar previamente en la Gaceta Oficial del Distrito Federal y en al menos un diario de circulación nacional, la suspensión de actividades en los establecimientos mercantiles en fechas u horarios determinadas, con el objeto de vigilar que no se alteren el orden y la seguridad pública;
+I. Coordinar y evaluar el debido cumplimiento de las atribuciones y obligaciones conferidas a las Alcaldías en la Ley;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. Ordenar, mediante acuerdo general que deberá publicar previamente en la Gaceta Oficial de la Ciudad de México y en al menos un diario de circulación nacional, la suspensión de actividades en los establecimientos mercantiles en fechas u horarios determinadas (sic), con el objeto de vigilar que no se alteren el orden y la seguridad pública;
 
 III. Vigilar que el contenido del padrón de establecimientos mercantiles, incluya de forma detallada y pormenorizada por lo menos los siguientes rubros:
 
-Nombre del establecimiento mercantil, dirección, nombre del dueño o representante legal, fecha de apertura, tipo de permiso, horario permitido, y si se permite o no la venta de bebidas alcohólicas, resultado y fecha de las últimas tres verificaciones y nombre del verificador. La integración del Padrón y su debida actualización compete a las Delegaciones, en coordinación con la Secretaría de Desarrollo Económico;
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-IV. Integrar, publicar y mantener actualizado el padrón de establecimientos mercantiles del Distrito Federal; y
+Nombre del establecimiento mercantil, dirección, nombre del dueño o representante legal, fecha de apertura, tipo de permiso, horario permitido, y si se permite o no la venta de bebidas alcohólicas, resultado y fecha de las últimas tres verificaciones y nombre del verificador. La integración del Padrón y su debida actualización compete a las Alcaldías, en coordinación con la Secretaría de Desarrollo Económico;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IV. Integrar, publicar y mantener actualizado el padrón de establecimientos mercantiles de la Ciudad de México; y
 
 V. Las demás que señalen la Ley y otras disposiciones aplicables.
 
@@ -204,31 +230,49 @@ a) A cada establecimiento mercantil corresponderá una clave única e irrepetibl
 
 b) El Sistema generará los acuses de recibo una vez que el solicitante realice las manifestaciones correspondientes al trámite de que se trate;
 
-c) Los acuses de recibo contendrán una serie alfanumérica única e irrepetible que permita identificar la Delegación a que corresponde la ubicación del establecimiento mercantil, la clasificación de impacto zonal, vecinal o bajo impacto del giro y la fecha de ingreso del Aviso o Permiso;
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-d) La Secretaría de Gobierno, la Secretaría de Desarrollo Económico y el Instituto tendrán acceso total al Sistema y las Delegaciones respecto a lo que corresponda de los establecimientos mercantiles asentados en la demarcación correspondiente;
+c) Los acuses de recibo contendrán una serie alfanumérica única e irrepetible que permita identificar la Alcaldía a que corresponde la ubicación del establecimiento mercantil, la clasificación de impacto zonal, vecinal o bajo impacto del giro y la fecha de ingreso del Aviso o Permiso;
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+d) La Secretaría de Gobierno, la Secretaría de Desarrollo Económico y el Instituto tendrán acceso total al Sistema y las Alcaldías: respecto a lo que corresponda de los establecimientos mercantiles asentados en la demarcación correspondiente;
 
 e) Contará con un control de acceso a la información del propio Sistema; y
 
-f) Comprenderá un apartado para la información relativa a visitas de verificación, medidas de seguridad, sanciones y demás actos que conforme a esta Ley corresponda resolver a las Delegaciones y al Instituto de acuerdo a su competencia;
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-II. Emitir las autorizaciones de acceso al Sistema a los servidores públicos acreditados por la Secretaría de Gobierno, la propia Secretaría de Desarrollo Económico, las Delegaciones y el Instituto en el ámbito de su competencia. La autorización estará conformada por una serie alfanumérica única e irrepetible y sólo con la misma podrá accederse al Sistema. Las dependencias que por razón de su competencia deban acceder al Sistema, solicitarán autorización de acceso en los términos de este artículo;
+f) Comprenderá un apartado para la información relativa a visitas de verificación, medidas de seguridad, sanciones y demás actos que conforme a esta Ley corresponda resolver a las Alcaldías y al Instituto de acuerdo a su competencia.
 
-III. La Secretaría de Desarrollo Económico en coordinación con las Delegaciones implementará los mecanismos en el Sistema, para que a través de este se otorguen los permisos señalados en la presente ley.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. Emitir las autorizaciones de acceso al Sistema a los servidores públicos acreditados por la Secretaría de Gobierno, la propia Secretaría de Desarrollo Económico, las Alcaldías y el Instituto en el ámbito de su competencia. La autorización estará conformada por una serie alfanumérica única e irrepetible y sólo con la misma podrá accederse al Sistema. Las dependencias que por razón de su competencia deban acceder al Sistema, solicitarán autorización de acceso en los términos de este artículo;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+III. La Secretaría de Desarrollo Económico en coordinación con las Alcaldías implementará los mecanismos en el Sistema, para que a través de este se otorguen los permisos señalados en la presente ley.
 
 ###### Artículo 7.
 
 Corresponde al Instituto:
 
-I. Practicar las visitas de verificación del funcionamiento de los establecimientos mercantiles, ordenadas por la Delegación de conformidad con lo que establezca la Ley del Instituto de Verificación Administrativa del Distrito Federal, Ley de Procedimiento Administrativo del Distrito Federal y demás disposiciones aplicables; y
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-II. Ejecutar las medidas de seguridad y las sanciones administrativas ordenadas por la Delegación establecidas en esta Ley, la Ley de Procedimiento Administrativo del Distrito Federal y demás disposiciones aplicables.
+I. Practicar las visitas de verificación del funcionamiento de los establecimientos mercantiles, ordenadas por la Alcaldía, de conformidad con lo que establezca la Ley del Instituto de Verificación Administrativa y la Ley de Procedimiento Administrativo vigentes en la Ciudad de México, así como demás disposiciones aplicables; y
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. Ejecutar las medidas de seguridad y las sanciones administrativas ordenadas por la Alcaldía establecidas en esta Ley, la Ley de Procedimiento Administrativo de la Ciudad de México y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 8.
 
-Corresponde a las Delegaciones:
+Corresponde a las Alcaldías:
 
-I. Elaborar, digitalizar y mantener actualizado el padrón de los establecimientos mercantiles que operen en sus demarcaciones, el cual, deberá publicarse en el portal de Internet de la Delegación;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+I. Elaborar, digitalizar y mantener actualizado el padrón de los establecimientos mercantiles que operen en sus demarcaciones, el cual, deberá publicarse en el portal de Internet de la Alcaldía;
 
 II. Ordenar visitas de verificación a establecimientos mercantiles que operen en su demarcación;
 
@@ -236,7 +280,9 @@ III. En términos de los ordenamientos aplicables substanciar el procedimiento d
 
 IV. Determinar y ordenar las medidas de seguridad e imponer las sanciones previstas en esta ley por medio de la resolución administrativa;
 
-V. Informar de manera oficial y pública del resultado de las verificaciones realizadas sobre el funcionamiento de establecimientos mercantiles asentados en la demarcación correspondiente de acuerdo a la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y a la Ley de Datos Personales del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+V. Informar de manera oficial y pública del resultado de las verificaciones realizadas sobre el funcionamiento de establecimientos mercantiles asentados en la demarcación correspondiente de acuerdo a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México y a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México;
 
 VI. Otorgar o Negar por medio del sistema los permisos a que hace referencia esta Ley, en un término no mayor a cinco días hábiles, en caso contrario podrán funcionar de manera inmediata, exceptuando de lo anterior a los giros de impacto zonal en los que operará la negativa ficta;
 
@@ -248,17 +294,15 @@ VII. Integrar los expedientes con todos los documentos manifestados en los Aviso
 
 VIII. Las demás que les señalen la Ley y otras disposiciones aplicables.
 
-> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
-
 ###### Artículo 8 Bis.
 
-Las Secretarías de Gobierno, de Seguridad Pública y de Protección Civil, así como las Delegaciones y el Instituto integrarán el Consejo de Evaluación de Riesgos, que emitirá dictámenes técnicos para el funcionamiento de establecimientos mercantiles con giro de impacto zonal con un aforo superior a cien personas.
+(DEROGADO, G.O. 2 DE MARZO DE 2021)
 
-Los establecimientos mercantiles que obtengan dictamen negativo, deberán subsanar las observaciones realizadas por el Consejo, en caso de no subsanarlas no podrán renovar su permiso y no podrán ingresar su Solicitud de Permiso al Sistema.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 9.
 
-Los titulares de las ventanillas únicas que operan en la Delegación, brindarán orientación y asesoría de manera gratuita a los particulares para la realización de los trámites a que se refiere esta Ley. Dichos trámites deberán estar disponibles en los respectivos sitios de Internet y de forma accesible para los ciudadanos.
+Los titulares de las ventanillas únicas que operan en la Alcaldía, brindarán orientación y asesoría de manera gratuita a los particulares para la realización de los trámites a que se refiere esta Ley. Dichos trámites deberán estar disponibles en los respectivos sitios de Internet y de forma accesible para la ciudadanía.
 
 ## TITULO III
 
@@ -290,11 +334,11 @@ V. Cumplir con los horarios de funcionamiento que fije la Ley y no permitir que 
 
 VI. Cumplir la suspensión de actividades en las fechas y horarios específicos que determine la Secretaría de Gobierno;
 
-VII. Evitar aglomeraciones en la entrada principal y salidas de emergencia que obstruyan la vialidad, el paso peatonal o que pongan en riesgo la seguridad de los usuarios o peatones.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2012)</small>
+VII. Evitar aglomeraciones en la entrada principal, salidas y salidas de emergencia salidas de emergencia (sic) que obstruyan la vialidad, el paso peatonal o que pongan en riesgo la seguridad de los usuarios o peatones.
 
-Las salidas de emergencia deberán estar debidamente señaladas al interior de los establecimientos mercantiles, y cuando las características del mismo lo permitan deberán ser distintas al acceso principal de conformidad con la Ley del Sistema de Protección Civil del Distrito Federal y su Reglamento;
+Las salidas de emergencia deberán estar debidamente señaladas al interior de los establecimientos mercantiles, y cuando las características del mismo lo permitan deberán ser distintas al acceso principal de conformidad con la normativa en gestión integral de riesgos y protección civil;
 
 > <small>(REFORMADA, G.O. 4 DE MAYO DE 2018)</small>
 
@@ -306,7 +350,9 @@ IX. Exhibir y/o señalar en un lugar visible al público y con carácter de legi
 
 a) El horario en el que se prestarán los servicios ofrecidos;
 
-b) Un croquis que ubique claramente las rutas de evacuación, cuando el establecimiento mercantil tenga una superficie mayor a los cien metros cuadrados;
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+b) Un croquis que ubique claramente las rutas de evacuación, en los términos previstos en la normatividad en gestión integral de riesgos y protección civil;
 
 c) La prohibición de fumar en el establecimiento mercantil, así como las sanciones aplicables al infractor, en su caso solicitar a quienes se encuentren fumando en el establecimiento a que se abstengan de hacerlo.
 
@@ -316,21 +362,21 @@ En caso de negativa exhortarlo a que abandone el establecimiento, y ante una seg
 
 d) La capacidad de aforo manifestada en el Aviso o Solicitud de Permiso.
 
-X. En caso de reunir a más de 50 personas, entre clientes y empleados, contar con personal capacitado y botiquín equipado con medicinas, material e instrumentos de curación necesarios para brindar primeros auxilios;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2015)</small>
+X. En caso de reunir a más de 50 personas, entre clientes y empleados, contar con personal capacitado y botiquín de primeros auxilios de conformidad a la normatividad en gestión integral de riesgos y protección civil;
 
-En las plazas comerciales con un aforo mayor al señalado en el párrafo anterior, se deberán instalar bebederos o estaciones con agua potable para el libre consumo de clientes y empleados.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+XI. Contar en su caso y cuando así se requiera con un programa interno de protección civil, de conformidad con la normativa en gestión integral de riesgos y protección civil; dicho programa deberá ser revalidado cada dos años.
 
-XI. Contar en su caso y cuando así se requiera con un programa interno de protección civil, de conformidad con la Ley del Sistema de Protección Civil del Distrito Federal y su Reglamento; dicho programa deberá ser revalidado cada año.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE MARZO DE 2021)</small>
 
-XII. Cuando no requiera de un programa interno de protección civil, deberá contar, cuando menos, con las siguientes medidas de seguridad:
+XII. Cuando no requiera de un programa interno de protección civil, deberá contar con las medidas establecidas en la normativa en gestión integral de riesgos y protección civil:
 
-a) Contar con extintores contra incendios con carga vigente a razón de uno por cada 50 metros cuadrados;
+a) (DEROGADO, G.O. 2 DE MARZO DE 2021)
 
-b) Realizar cuando menos un simulacro de manera trimestral;
+b) (DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 c) Colocar en un lugar visible al interior del establecimiento, los teléfonos de las autoridades de seguridad pública, protección civil y bomberos;
 
@@ -360,9 +406,9 @@ Apartado B:
 
 Además de lo señalado en el Apartado A, los titulares de los establecimientos mercantiles de giros de impacto vecinal e impacto zonal respectivamente, deberán:
 
-I. Exhibir en un lugar visible al público y con caracteres legibles:
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-Información de la ubicación y números telefónicos de los sitios de taxis debidamente autorizados por la Secretaría de Transporte y Vialidad del Distrito Federal;
+I. Exhibir en un lugar visible al público y con caracteres legibles: Información de la ubicación y números telefónicos de los sitios de taxis debidamente autorizados por la Secretaría de Movilidad de la Ciudad de México.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE MARZO DE 2017)</small>
 
@@ -370,7 +416,9 @@ II. Colocar en el exterior del establecimiento mercantil una placa con dimension
 
 a) En su caso, la especificación de que se trata de un Club Privado;
 
-b) El número telefónico y la página electrónica que establezcan las Delegaciones y el Instituto de Verificación Administrativa del Distrito Federal, para la atención de quejas ciudadanas sobre irregularidades en el funcionamiento de los establecimientos mercantiles;
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+b) El número telefónico y la página electrónica que establezcan las Alcaldías y el Instituto de Verificación Administrativa de la Ciudad de México, para la atención de quejas ciudadanas sobre irregularidades en el funcionamiento de los establecimientos mercantiles;
 
 > <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
@@ -380,21 +428,31 @@ En este establecimiento NO DISCRIMINAMOS.
 
 En la CDMX se prohíbe negar, excluir o distinguir el acceso o prestación del servicio a cualquier persona o colectivo social por su origen étnico, nacional, raza, lengua, sexo, género, edad, discapacidad, condición jurídica, social o económica, identidad indígena, identidad de género, apariencia física, condiciones de salud, religión, formas de pensar, orientación o preferencia sexual, por tener tatuajes o cualquier otra razón que tenga como propósito impedir el goce y ejercicio de los derechos humanos.
 
-Acompañará a la leyenda de la que se hace mención en el párrafo inmediato anterior el número telefónico de Locatel y los logotipos del Gobierno del Distrito Federal y del Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México;
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Acompañará a la leyenda de la que se hace mención en el párrafo inmediato anterior el número telefónico de Locatel y los logotipos del Gobierno de la Ciudad de México y del Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México;
 
 d) Que no existe consumo mínimo ni la modalidad de barra libre;
 
 III. Permitir el acceso a las instalaciones a todo usuario que lo solicite, respetando el orden de llegada, con excepción de aquellos que cuenten con una membresía, sin discriminación alguna, salvo los casos de personas en evidente estado de ebriedad, bajo el influjo de estupefacientes o que porten armas;
 
-IV. Posterior al ingreso de su Solicitud de Permiso presentar en un término no mayor de 30 días naturales en la Ventanilla Única de la Delegación correspondiente, original y copia para cotejo e integración de su expediente de los documentos enunciados en el Sistema;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IV. Posterior al ingreso de su Solicitud de Permiso presentar en un término no mayor de 30 días naturales en la Ventanilla Única de la Alcaldía correspondiente, original y copia para cotejo e integración de su expediente de los documentos enunciados en el Sistema;
 
 V. Instalar aislantes de sonido para no generar ruido, por encima de niveles permitidos por esta ley y normatividad ambiental, que afecte el derecho de terceros;
 
-VI. Los establecimientos de Impacto Zonal deberán contar con elementos de seguridad que acrediten estar debidamente capacitados, ya sea por la Secretaría de Seguridad Pública del Distrito Federal o por cualquiera de las corporaciones de seguridad privada que estén registradas ante aquélla;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-VII. Los establecimientos de impacto zonal deberán informar acerca de la implementación de programas tendientes a evitar o disuadir la conducción de vehículos automotores bajo los influjos del alcohol emitidos por el Gobierno del Distrito Federal;
+VI. Los establecimientos de Impacto Zonal deberán contar con elementos de seguridad que acrediten estar debidamente capacitados, ya sea por la Secretaría de Seguridad Ciudadana de la Ciudad de México o por cualquiera de las corporaciones de seguridad privada que estén registradas ante aquélla;
 
-VIII. Los establecimientos de impacto zonal, deberán tener alcoholímetros o medidores para realizar pruebas de detección de intoxicación o nivel de alcohol en la sangre, previo consentimiento de los usuarios o clientes que se les aplique la prueba. Los medidores o alcoholímetros deben tener las características y tiempo máximo de uso señalado por la Secretaría de Seguridad Pública del Distrito Federal.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VII. Los establecimientos de impacto zonal deberán informar acerca de la implementación de programas tendientes a evitar o disuadir la conducción de vehículos automotores bajo los influjos del alcohol emitidos por el Gobierno de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VIII. Los establecimientos de impacto zonal, deberán tener alcoholímetros o medidores para realizar pruebas de detección de intoxicación o nivel de alcohol en la sangre, previo consentimiento de los usuarios o clientes que se les aplique la prueba. Los medidores o alcoholímetros deben tener las características y tiempo máximo de uso señalado por la Secretaría de Seguridad Ciudadana de la Ciudad de México.
 
 El titular o empleado deberá sugerirle al conductor que sea notorio su estado de ebriedad que no conduzca;
 
@@ -450,23 +508,27 @@ Queda prohibido fumar en todos los establecimientos mercantiles que se encuentre
 
 En los establecimientos mercantiles que cuenten con áreas de servicio al aire libre se podrá fumar sin restricción alguna, siempre y cuando el humo derivado del tabaco no invada los espacios cerrados de acceso al público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 13.
 
-Los establecimientos mercantiles de impacto zonal estarán obligados a conectar videocámaras, equipos y sistemas tecnológicos privados al sistema que para tal efecto instale la Secretaría de Seguridad Pública del Distrito Federal, con la finalidad de atender eventos con reacción inmediata, de conformidad con la Ley que Regula el Uso de la Tecnología para la Seguridad Pública del Distrito Federal.
+Los establecimientos mercantiles de impacto zonal estarán obligados a conectar videocámaras, equipos y sistemas tecnológicos privados al sistema que para tal efecto instale la Secretaría de Seguridad Ciudadana de la Ciudad de México, con la finalidad de atender eventos con reacción inmediata, de conformidad con la Ley que Regula el Uso de la Tecnología para la Seguridad Pública vigente en la Ciudad.
 
 Las grabaciones obtenidas con videocámaras, equipos y sistemas tecnológicos privados únicamente deberán ser entregadas a la autoridad competente.
 
-Adicionalmente estos establecimientos tendrán la obligación de instalar arcos detectores de metales o detectores portátiles para controlar el acceso a sus instalaciones de conformidad con la Ley que regula el Uso de la Tecnología para la Seguridad del Distrito Federal.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Adicionalmente estos establecimientos tendrán la obligación de instalar arcos detectores de metales o detectores portátiles para controlar el acceso a sus instalaciones de conformidad con la Ley que regula el Uso de la Tecnología para la Seguridad vigente en la Ciudad de México.
 
 ## TITULO IV
 
 DE LA COLOCACIÓN DE ENSERES E INSTALACIONES EN VÍA PÚBLICA.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 14.
 
-Los titulares de los establecimientos mercantiles cuyo giro preponderante sea la venta de alimentos preparados y/o bebidas podrán colocar en la vía pública enseres e instalaciones que sean necesarios para la prestación de sus servicios, previo aviso que ingresen al Sistema y el pago de los derechos que establece el Código Fiscal del Distrito Federal.
-
-En la vía pública en donde se coloquen enseres, se podrá fumar siempre que el humo del tabaco no penetre al interior del establecimiento y que no se genere un lugar cerrado por instalar barreras que impidan la circulación del aire, cualquiera que fuere el material con las que se elaboren, aunque sean desmontables.
+Los titulares de los establecimientos mercantiles cuyo giro preponderante sea la venta de alimentos preparados y/o bebidas podrán colocar en la vía pública enseres e instalaciones que sean necesarios para la prestación de sus servicios, previo aviso que ingresen al Sistema y el pago de los derechos que estable (sic) el Código Fiscal de la Ciudad de México.
 
 ###### Artículo 15.
 
@@ -486,7 +548,9 @@ VI. Que no se instalen en zonas preponderantemente destinadas al uso habitaciona
 
 VII. En ningún caso los enseres podrán abarcar una superficie mayor al 50% de la superficie total del establecimiento mercantil.
 
-La Delegación ordenará el retiro inmediato de los enseres en los casos que se constate a través de visita de verificación, que su colocación o instalación contraviene lo dispuesto por la Ley. El retiro lo hará el titular y ante su negativa u omisión, lo ordenará la Delegación a costa de aquél en los términos de la Ley de Procedimiento Administrativo del Distrito Federal.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+La Alcaldía ordenará el retiro inmediato de los enseres en los casos que se constate a través de visita de verificación, que su colocación o instalación contraviene lo dispuesto por la Ley. El retiro lo hará el titular y ante su negativa u omisión, lo ordenará la Alcaldía a costa de aquél en los términos de la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 ###### Artículo 16.
 
@@ -502,21 +566,23 @@ IV. Descripción de las condiciones en que se colocarán los enseres e instalaci
 
 V. Monto del pago de derechos efectuado y datos de la oficina receptora.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 17.
 
-El Aviso para la colocación en la vía pública de los enseres o instalaciones que menciona el artículo anterior, tendrá vigencia de un año y podrá ser revalidado por períodos iguales con la sola manifestación que el titular ingrese al Sistema de que las condiciones no han variado y el pago de derechos que establezca el Código Fiscal del Distrito Federal.
+El Aviso para la colocación en la vía pública de los enseres o instalaciones que menciona el artículo anterior, tendrá vigencia de un año y podrá ser revalidado por períodos iguales con la sola manifestación que el titular ingrese al Sistema de que las condiciones no han variado y el pago de derechos que establezca el Código Fiscal de la Ciudad de México.
 
-En caso de vencimiento del Aviso o de violación a lo dispuesto por esta Ley, el titular estará obligado a retirar los enseres o instalaciones por su propia cuenta. De lo contrario, la Delegación ordenará el retiro, corriendo a cargo del titular los gastos de ejecución de los trabajos en términos de la Ley de Procedimiento Administrativo del Distrito Federal.
-
-Los Avisos a que se refiere este artículo, que se encuentren vigentes en el momento en que el titular realice el traspaso del establecimiento mercantil, se entenderán transferidos al nuevo titular hasta que termine su vigencia. En este caso, se entenderá que el nuevo titular del establecimiento mercantil es también el titular de dicho Aviso.
+En caso de vencimiento del Aviso o de violación a lo dispuesto por esta Ley, el titular estará obligado a retirar los enseres o instalaciones por su propia cuenta. De lo contrario, la Alcaldía ordenará el retiro, corriendo a cargo del titular los gastos de ejecución de los trabajos en términos de la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 ## TITULO V
 
 DE LA OPERACIÓN DE GIROS POR ÚNICA OCASIÓN.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 18.
 
-El titular de un giro mercantil de bajo impacto o de impacto vecinal que para la operación por una sola ocasión o por un período determinado de tiempo o por un solo evento para funcionar como giro mercantil con impacto zonal, ingresará la Solicitud de Permiso al Sistema, con una anticipación de quince días previos a su realización, debiendo la Delegación otorgar o negar el permiso dando respuesta por medio del Sistema en un término no mayor de siete días hábiles; el Permiso contendrá la siguiente información:
+El titular de un giro mercantil de bajo impacto o de impacto vecinal que para la operación por una sola ocasión o por un período determinado de tiempo o por un solo evento para funcionar como giro mercantil con impacto zonal, ingresará la Solicitud de Permiso al Sistema, con una anticipación de quince días previos a su realización, debiendo la Alcaldía otorgar o negar el permiso dando respuesta por medio del Sistema en un término no mayor de siete días hábiles; el Permiso contendrá la siguiente información:
 
 I. Nombre o razón social del solicitante, así como domicilio para oír y recibir notificaciones y dirección de correo electrónico;
 
@@ -534,9 +600,9 @@ VII. (DEROGADA, G.O. 14 DE FEBRERO DE 2012)
 
 El período de funcionamiento de los giros a que se refiere este artículo no podrá exceder de 15 días naturales y en ningún caso podrá ser objeto de prórroga, revalidación o traspaso.
 
-> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-Una vez cubiertos los requisitos señalados en el presente artículo, la Delegación hará del conocimiento al solicitante el monto a cubrir por los derechos correspondientes, pagados los derechos se otorgara el permiso.
+Una vez cubiertos los requisitos señalados en el presente artículo, la Alcaldía hará del conocimiento al solicitante el monto a cubrir por los derechos correspondientes, pagados los derechos se otorgará el permiso.
 
 ## TITULO VI
 
@@ -616,7 +682,9 @@ Los establecimientos mercantiles a que se refiere este artículo podrán destina
 
 Los establecimientos mercantiles en los que se preste el servicio de hospedaje con algún otro servicio, deberán contar para su operación con locales que formen parte de la construcción, separados por muros, canceles, mamparas o desniveles, construidos o instalados de modo que eviten molestias tanto a los huéspedes en sus habitaciones como a las personas que vivan en inmuebles aledaños, y observarán las siguientes disposiciones:
 
-I. Exhibir en lugar visible para el público, con caracteres legibles, la tarifa de hospedaje, horario de vencimiento del servicio, la tarifa de los giros autorizados; identificar de conformidad con lo señalado en la Ley de Protección a la Salud de los No Fumadores del Distrito Federal las áreas destinadas a los fumadores, y el aviso de que cuenta con caja de seguridad para la guarda de valores;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+I. Exhibir en lugar visible para el público, con caracteres legibles, la tarifa de hospedaje, horario de vencimiento del servicio, la tarifa de los giros autorizados; identificar de conformidad con lo señalado en la Ley de Protección a la Salud de los No Fumadores vigente en la Ciudad de México las áreas destinadas a los fumadores, y el aviso de que cuenta con caja de seguridad para la guarda de valores;
 
 II. Llevar el control de llegadas y salidas de huéspedes con anotación en libros, tarjetas de registro o sistema computarizado, en los que incluya nombre, ocupación, origen, procedencia y lugar de residencia. Todos los menores de edad deberán ser registrados;
 
@@ -722,7 +790,9 @@ A. Los titulares de los giros de impacto zonal podrán ampliar su horario de fun
 
 I. Contar con arcos detectores de metales o detectores portátiles, en cada uno de los accesos para clientes del establecimiento;
 
-II. Contar con al menos un paramédico de guardia de las 11:00 horas a las 05:00 del día siguiente, debidamente acreditado por la Secretaria de Salud del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. Contar con al menos un técnico en atención médica prehospitalaria de guardia de las 11:00 horas a las 05:00 del día siguiente, debidamente acreditado por la Secretaría de Salud de la Ciudad de México, por el Consejo Nacional de Normalización y Certificación de Competencias Laborales o que cuenten con cédula profesional;
 
 > <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
 
@@ -742,7 +812,9 @@ Estos establecimientos deberán cumplir con las obligaciones contenidas en el ap
 
 Queda prohibida la entrada a menores de edad a este tipo de establecimientos mismos que no podrán ubicarse a menos de trescientos metros de centros educativos, ni en inmuebles que conforme a los Programas de Desarrollo Urbano del Distrito Federal tengan zonificación habitacional.
 
-La vigilancia del cumplimiento de las obligaciones a cargo de los Titulares de los establecimientos previstos en el presente artículo, está a cargo del Instituto, quien ordenará la práctica de visitas de verificación administrativa y sustanciará el procedimiento respectivo, conforme a la Ley del Instituto de Verificación Administrativa del Distrito Federal, la Ley de Procedimiento Administrativo del Distrito Federal, el Reglamento de Verificación Administrativa del Distrito Federal y el Reglamento de la Ley de Establecimientos Mercantiles del Distrito Federal en Materia de Aforo y de Seguridad en Establecimientos de Impacto Zonal. Dichas visitas podrán ser realizadas con el apoyo de la Secretaría de Protección Civil.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+La vigilancia del cumplimiento de las obligaciones a cargo de los Titulares de los establecimientos previstos en el presente artículo, está a cargo del Instituto de Verificación Administrativa de la Ciudad de México, quien ordenará la práctica de visitas de verificación administrativa y sustanciará el procedimiento respectivo, conforme a la Ley del Instituto, de Verificación Administrativa de la Ciudad de México, la Ley de Procedimiento Administrativo, de la Ciudad de México, el Reglamento de Verificación Administrativa del Distrito Federal y el Reglamento de la Ley de Establecimientos Mercantiles, todos de la Ciudad de México, vigente en Materia de Aforo y de Seguridad en Establecimientos de Impacto Zonal. Dichas visitas podrán ser realizadas con el apoyo de la Secretaría de Gestión Integral de Riesgos y Protección Civil.
 
 ### CAPITULO III
 
@@ -760,7 +832,9 @@ Sus titulares serán responsables de que la asignación de una mesa o el ingreso
 
 En los establecimientos que señala el presente artículo se deberá proporcionar de manera obligatoria y gratuita, agua potable a los clientes que así lo soliciten.
 
-La Secretaría de Salud del Gobierno del Distrito Federal, en coordinación con las autoridades competentes, determinarán e impulsarán en los establecimientos a que hace mención el párrafo primero del presente artículo, la adopción de medidas que permitan la realización de acciones específicas de prevención y fomento al cuidado personal de la salud en materia de VIH-SIDA y otras infecciones de transmisión sexual.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+La Secretaría de Salud del Gobierno de la Ciudad de México, en coordinación con las autoridades competentes, determinarán e impulsarán en los establecimientos a que hace mención el párrafo primero del presente artículo, la adopción de medidas que permitan la realización de acciones específicas de prevención y fomento al cuidado personal de la salud en materia de VIH-SIDA y otras infecciones de transmisión sexual.
 
 ###### Artículo 29.
 
@@ -770,7 +844,9 @@ Para efectos de esta Ley, se entenderá por barra libre la modalidad comercial a
 
 Donde se realice la venta de bebidas alcohólicas al copeo o en envase abierto, se colocará a la vista del público las marcas de las mismas y los distintos tipos de bebidas alcohólicas que se ofrezcan, y para cerciorarse de la mayoría de edad de los solicitantes de este servicio, el titular o dependiente o encargado del establecimiento requerirá le sea mostrada la identificación oficial con fotografía en la que conste la fecha de nacimiento.
 
-En los establecimientos mercantiles donde se sirvan bebidas alcohólicas al copeo o en envase abierto deberán acatar lo establecido en esta Ley, así como lo establecido en la Ley General de Salud y la Ley de Salud para el Distrito Federal, con el fin de combatir la venta, distribución y consumo de bebidas adulteradas, de baja calidad u origen desconocido.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+En los establecimientos mercantiles donde se sirvan bebidas alcohólicas al copeo o en envase abierto deberán acatar lo establecido en esta Ley, así como lo establecido en la Ley General de Salud y la Ley de Salud vigente en la Ciudad de México, con el fin de combatir la venta, distribución y consumo de bebidas adulteradas, de baja calidad u origen desconocido.
 
 ###### Artículo 30.
 
@@ -812,17 +888,17 @@ VIII. Que cuenta con los cajones de estacionamiento de conformidad con la fracci
 
 IX. La capacidad de aforo de conformidad con lo establecido en la fracción II del artículo 2 de la presente Ley;
 
-> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-X. Dar cuenta del programa interno de protección civil, según corresponda, de conformidad con la Ley del Sistema de Protección Civil del Distrito Federal y su Reglamento;
+X. Dar cuenta del Programa Interno de Protección Civil, según corresponda, de conformidad con la normatividad en materia de gestión integral de riesgos y protección civil;
 
 XI. Para el caso de establecimientos de impacto zonal además deberán manifestar que cumple con lo siguiente:
 
 a) Que cuenta con Sistema de Seguridad a que hacen referencia los artículos 10 y 13.
 
-> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-Una vez cubiertos los requisitos señalados en el presente artículo, la Delegación hará del conocimiento al solicitante el monto a cubrir por los derechos correspondientes, pagados los derechos se otorgará el permiso.
+Una vez cubiertos los requisitos señalados en el presente artículo, la Alcaldía hará del conocimiento al solicitante el monto a cubrir por los derechos correspondientes, pagados los derechos se otorgará el permiso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2012)</small>
 
@@ -856,9 +932,9 @@ V. Si el solicitante es extranjero, los datos de la Autorización expedida por l
 
 VI. Fecha de la celebración del contrato traslativo de dominio y nombres de las partes.
 
-> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-Una vez cubiertos los requisitos señalados en el presente artículo, la Delegación hará del conocimiento al solicitante el monto a cubrir por los derechos correspondientes, pagados los derechos se otorgará el permiso.
+Una vez cubiertos los requisitos señalados en el presente artículo, la Alcaldía hará del conocimiento al solicitante el monto a cubrir por los derechos correspondientes, pagados los derechos se otorgará el permiso.
 
 > <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2012)</small>
 
@@ -868,7 +944,9 @@ Los titulares de los establecimientos mercantiles a que se refiere este Capítul
 
 I. Modificación de la superficie;
 
-II. Modificación del aforo, mismo que deberá realizarse de conformidad con el Reglamento de la Ley de Establecimientos Mercantiles del Distrito Federal en Materia de Aforo y de Seguridad en los Establecimientos de Impacto Zonal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+II. Modificación del aforo, mismo que deberá realizarse de conformidad con el Reglamento de la Ley de Establecimientos Mercantiles vigente en la Ciudad de México, en materia de aforo y de seguridad en los Establecimientos de Impacto Zonal;
 
 III. Modificación del Giro Mercantil, siempre y cuando no implique la modificación de la actividad señalada en el permiso.
 
@@ -876,7 +954,9 @@ IV. Cualquier variación que pueda tener el establecimiento mercantil;
 
 V. Cuando realice el cese de actividades o cierre del establecimiento.
 
-La Delegación hará del conocimiento al solicitante el monto a cubrir por los derechos correspondientes, cuando así el trámite lo requiere, pagados los derechos se otorgará el permiso o se dará por enterada.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+La Alcaldía hará del conocimiento al solicitante el monto a cubrir por los derechos correspondientes, cuando así el trámite lo requiere, pagados los derechos se otorgará el permiso o se dará por enterada.
 
 ## TITULO VII
 
@@ -962,13 +1042,15 @@ V. Giro mercantil que se pretende ejercer;
 
 VI. Que cuenta con los cajones de estacionamiento de conformidad con la fracción XIV del artículo 10 de la presente Ley;
 
-> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-VII. En su caso dar cuenta del Programa Interno o Especial de Protección Civil, según corresponda y de conformidad con la Ley del Sistema de Protección Civil del Distrito Federal y su Reglamento.
+VII. Dar cuenta del Programa Interno o Especial de Protección Civil, según corresponda, y de conformidad con lo señalado en la normatividad en materia de gestión integral de riesgos y protección civil.
 
-No estarán obligados a presentar el Programa Interno o Especial de Protección Civil, de conformidad y cuando así lo establezca la Ley del Sistema de Protección Civil del Distrito Federal y su Reglamento;
+No estarán obligados a presentar el Programa Interno o Especial de Protección Civil, en los supuestos que se prevén ende (sic) conformidad y cuando así lo establezca la normatividad en materia de gestión integral de riesgos y protección civil.; (sic)
 
-VIII. En los casos de establecimientos que se dediquen a la purificación, embotellamiento y comercialización de agua purificada deberán presentar la constancia de aviso de funcionamiento ante la Secretaría de Salud del Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+VIII. En los casos de establecimientos que se dediquen a la purificación, embotellamiento y comercialización de agua purificada deberán presentar la constancia de aviso de funcionamiento ante la Secretaría de Salud de la Ciudad de México;
 
 IX. Capacidad de aforo de conformidad con la fracción II del artículo 2 de la presente Ley.
 
@@ -1056,7 +1138,9 @@ VIII. Colocar dentro del local, visible al público, el documento que acredite q
 
 Está prohibido operar en establecimientos mercantiles todos aquellos videojuegos y sistemas diseñados para uso doméstico o particular y operar en los establecimientos mercantiles sistemas de iluminación, de audio y video cuya intensidad o volumen provoque alteración, distracción o confusión de los usuarios.
 
-Para el caso de emisiones de audio o ruido la Delegación ordenará al Instituto verificar periódicamente que su volumen se mantenga en los decibeles autorizados.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Para el caso de emisiones de audio o ruido la Alcaldía ordenará al Instituto verificar periódicamente que su volumen se mantenga en los decibeles autorizados.
 
 ###### Artículo 44.
 
@@ -1092,13 +1176,17 @@ b) Aquellos juegos interactivos y simuladores que sean excluidos del tipo "C".
 
 En ninguna de las clasificaciones antes señaladas, se podrán mostrar imágenes de actos sexuales, desnudos y/o pornográficos ni juegos que denigren o discriminen a la mujer, a las personas con algún tipo de discapacidad, a los indígenas y a las personas con una orientación sexual distinta.
 
-Cualquier juego de video que no cumpla con estos criterios de clasificación estará prohibido para operar en el Distrito Federal. En el caso de que algún videojuego pudiera encuadrar en dos tipos o existiera confusión respecto a que clasificación le corresponde, se optará siempre por la letra que alfabéticamente vaya después.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Cualquier juego de video que no cumpla con estos criterios de clasificación estará prohibido para operar en la Ciudad de México. En el caso de que algún videojuego pudiera encuadrar en dos tipos o existiera confusión respecto a que clasificación le corresponde, se optará siempre por la letra que alfabéticamente vaya después.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 45.
 
-Sólo se pondrán a disposición del público los videojuegos que se encuentren inscritos en el Registro de Videojuegos para el Distrito Federal a cargo de la Secretaría de Gobierno, para cuya integración se tomará en cuenta la opinión de los sectores sociales y privados. El Registro será publicado en la Gaceta Oficial del Distrito Federal.
+Sólo se pondrán a disposición del público los videojuegos que se encuentren inscritos en el Registro de Videojuegos para la Ciudad de México a cargo de la Secretaría de Gobierno, para cuya integración se tomará en cuenta la opinión de los sectores sociales y privados. El Registro será publicado en la Gaceta Oficial de la Ciudad de México.
 
-Cualquier juego que no se encuentre inscrito en el Registro de Videojuegos para el Distrito Federal estará prohibido para operar en el Distrito Federal.
+Cualquier juego que no se encuentre inscrito en el Registro de Videojuegos para la Ciudad de México estará prohibido para operar en la Ciudad.
 
 ###### Artículo 46.
 
@@ -1112,7 +1200,9 @@ I. No instalarse en un radio menor a 300 metros de algún centro escolar de educ
 
 II. La distancia entre los juegos mecánicos y electromecánicos deberá ser aquella que garantice la seguridad de los usuarios;
 
-III. En los casos de juegos electromecánicos, los aparatos que se instalen en el interior de los establecimientos mercantiles como circos y eventos similares, deberán contar con los dispositivos de seguridad que establecen las Leyes y Reglamentos en materia de Construcción y de Protección Civil para el Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+III. En los casos de juegos electromecánicos, los aparatos que se instalen en el interior de los establecimientos mercantiles como circos y eventos similares, deberán contar con los dispositivos de seguridad que establezcan los fabricantes, así como en la normatividad de construcción y de gestión integral de riesgos y protección civil para la Ciudad de México;
 
 IV. Abstenerse de vender y distribuir pólvora, explosivos, artificios y substancias químicas relacionadas con explosivos, en términos de la Ley Federal de Armas de Fuego y Explosivos, así como vigilar que los usuarios no los introduzcan a su interior; y
 
@@ -1152,9 +1242,11 @@ X. Contar con el servicio de sanitarios para los usuarios; y
 
 XI. Las demás que establezca esta Ley y demás normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 49.
 
-El Gobierno del Distrito Federal, a través de la Secretaría de Transportes y Vialidad y Delegación, autorizará las tarifas de estacionamientos públicos y emitirá las normas técnicas para regular su operación.
+El Gobierno de la Ciudad de México, a través de la Secretaría de Movilidad y la Alcaldía, autorizará las tarifas de estacionamientos públicos y emitirá las normas técnicas para regular su operación.
 
 > <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2012)</small>
 
@@ -1164,9 +1256,11 @@ Para el inicio de operaciones solo en el primer año de funcionamiento bastará 
 
 Los titulares de estacionamientos públicos cobrarán sus tarifas por fracciones de 15 minutos desde la primera hora, debiendo ser el mismo precio para cada fracción. Podrán tener otras actividades complementarias de las consideradas de bajo impacto, siempre y cuando el espacio que se destine para su prestación no exceda del 10% de la superficie del establecimiento y no se vendan bebidas alcohólicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 51.
 
-El Gobierno del Distrito Federal fomentará que los establecimientos mercantiles que presten el servicio de estacionamiento contribuyan a desalentar la utilización del automóvil, mediante el otorgamiento de tarifas preferenciales a sus usuarios o a través de medidas que consideren convenientes, según el número de pasajeros a bordo.
+El Gobierno de la Ciudad de México fomentará que los establecimientos mercantiles que presten el servicio de estacionamiento contribuyan a desalentar la utilización del automóvil, mediante el otorgamiento de tarifas preferenciales a sus usuarios o a través de medidas que consideren convenientes, según el número de pasajeros a bordo.
 
 Igualmente, a fin de estimular la utilización de los medios de transporte públicos fomentará el establecimiento de estacionamientos en zonas cercanas a los centros de transferencia modal.
 
@@ -1246,11 +1340,13 @@ Los titulares de aquellos establecimientos en donde se preste al público el ser
 
 DE LA VERIFICACIÓN.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 59.
 
-La Delegación ordenará a personal autorizado por el Instituto para realizar visitas de verificación y así vigilar que los establecimientos mercantiles cumplan con las obligaciones contenidas en la presente Ley, conforme a la Ley de (sic) Instituto de Verificación Administrativa del Distrito Federal, la Ley de Procedimiento Administrativo y el Reglamento de Verificación Administrativa del Distrito Federal y aplicarán las sanciones que se establecen en este ordenamiento, sin perjuicio de las demás sanciones que resulten aplicables.
+La Alcaldía ordenará a personal autorizado por el Instituto para realizar visitas de verificación y así vigilar que los establecimientos mercantiles cumplan con las obligaciones contenidas en la presente Ley, conforme a la Ley de Instituto de Verificación Administrativa, la Ley de Procedimiento Administrativo y el Reglamento de Verificación Administrativa, todos vigentes en la Ciudad de México y aplicarán las sanciones que se establecen en este ordenamiento, sin perjuicio de las demás sanciones que resulten aplicables.
 
-En caso de oposición al realizar la visita de verificación, suspensión temporal de actividades o clausura las Delegaciones o el Instituto podrán hacer uso de la fuerza pública, en términos de la Ley de Procedimiento Administrativo del Distrito Federal.
+En caso de oposición al realizar la visita de verificación, suspensión temporal de actividades o clausura las Alcaldías o el Instituto podrán hacer uso de la fuerza pública, en términos de la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 ###### Artículo 60.
 
@@ -1258,13 +1354,21 @@ Los establecimientos a que se refiere esta Ley podrán ser objeto de visitas de 
 
 En materia de visitas de verificación, deberá observarse lo siguiente:
 
-I. El Instituto en coordinación con la Delegación podrán implementar un programa anual de verificación ordinaria, en atención a la fecha de ingreso de los Avisos y Permisos al Sistema;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-II. Deberán practicarse visitas de verificación extraordinarias, sólo cuando medie queja que contenga los datos de identificación del promovente. Para tal efecto, la Delegación y el Instituto establecerán un sistema público de quejas vía telefónica y por medio electrónico;
+I. El Instituto en coordinación con la Alcaldía podrán implementar un programa anual de verificación ordinaria, en atención a la fecha de ingreso de los Avisos y Permisos al Sistema;
 
-III. La Delegación podrá ordenar al Instituto, visitas de verificación extraordinaria sin que medie queja, sólo en los casos de que existan causas vinculadas con protección civil, desarrollo urbano y seguridad pública, debidamente motivadas en la orden de visita respectiva; y
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-IV. Las resoluciones que se dicten en los procedimientos de verificación, se publicarán en la página de Internet de la Delegación e Instituto.
+II. Deberán practicarse visitas de verificación extraordinarias, sólo cuando medie queja que contenga los datos de identificación del promovente. Para tal efecto, la Alcaldía y el Instituto establecerán un sistema público de quejas vía telefónica y por medio electrónico;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+III. La Alcaldía podrá ordenar al Instituto, visitas de verificación extraordinaria sin que medie queja, sólo en los casos de que existan causas vinculadas con protección civil, desarrollo urbano y seguridad pública, debidamente motivadas en la orden de visita respectiva; y
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+IV. Las resoluciones que se dicten en los procedimientos de verificación, se publicarán en la página de Internet de la Alcaldía e Instituto.
 
 ## TITULO IX
 
@@ -1276,9 +1380,11 @@ La contravención a las disposiciones de la Ley dará lugar, dependiendo de la g
 
 En caso de la imposición de sanciones económicas a que se refieren los artículos 64, 65, 66, 67, 68 y 69 de la presente Ley, el Titular así como el o los dependientes del establecimiento mercantil, serán solidariamente responsables del cumplimiento de la sanción o sanciones de que se traten, sin perjuicio de las sanciones penales y administrativas que les correspondan, en su caso, en virtud de las disposiciones legales aplicables.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 62.
 
-Para establecer las sanciones, de conformidad con la Ley del Instituto, las Delegaciones fundamentarán y motivarán sus resoluciones considerando, para su individualización, los elementos señalados en la Ley de Procedimiento Administrativo del Distrito Federal y demás disposiciones legales aplicables.
+Para establecer las sanciones, de conformidad con la Ley del Instituto, las Alcaldías fundamentarán y motivarán sus resoluciones considerando, para su individualización, los elementos señalados en la Ley de Procedimiento Administrativo de la Ciudad de México y demás disposiciones legales aplicables.
 
 ###### Artículo 63.
 
@@ -1314,31 +1420,31 @@ Las sanciones económicas señaladas en los artículos 64, 65 y 66 de la present
 
 Se sancionará con el equivalente de 1000 a 3000 veces la Unidad de Cuenta de la Ciudad de México vigente y con clausura permanente, a los titulares de establecimientos de bajo impacto que en el Aviso correspondiente hubieren proporcionado información falsa, no cuenten con los documentos cuyos datos hubieren ingresado al Sistema o éstos fueren falsos.
 
-En caso de que se detectare falsedad en los términos de este artículo, la Delegación o el Instituto de Verificación Administrativa del Distrito Federal dará vista al Ministerio Público.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2012)</small>
+En caso de que se detectare falsedad en los términos de este artículo, la Alcaldía o el Instituto de Verificación Administrativa de la Ciudad de México dará vista al Ministerio Público.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 68.
 
-Se sancionará a los titulares de establecimientos de impacto vecinal y zonal que hubieren proporcionado información falsa, no cuenten con los documentos cuyos datos hubieren ingresado al Sistema o éstos fueren falsos, no cuente con programa interno de protección civil, su aforo sea superior a 100 personas y no hubieren obtenido el dictamen técnico favorable previsto en el artículo 8 Bis o no cuenten con el visto bueno de la Secretaría de Gobierno a que se refiere el artículo 27 Bis, ambos artículos de esta Ley, de la siguiente forma:
+Se sancionará a los titulares de establecimientos de impacto vecinal y zonal que hubieren proporcionado información falsa, no cuenten con los documentos cuyos datos hubieren ingresado al Sistema o éstos fueren falsos, no cuenten con programa interno de protección civil en los términos de la normatividad de gestión integral de riesgos y protección civil, y no hubieren obtenido el dictamen técnico favorable previsto en el artículo 8 Bis o no cuenten con el visto bueno de la Secretaría de Gobierno a que se refiere el artículo 27 Bis, ambos artículos de esta Ley, de la siguiente forma:
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+a) Para los establecimientos de impacto vecinal multa de 5,000 a 15,000 veces la Unidad de Medida y Actualización de la Ciudad de México vigente.
 
-a) Para los establecimientos de impacto vecinal multa de 5,000 a 15,000 veces la Unidad de Cuenta de la Ciudad de México vigente.
+b) Para los establecimientos de impacto zonal multa de 15,000 a 25,000 veces la Unidad de Medida y Actualización de la Ciudad de México vigente.
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-b) Para los establecimientos de impacto zonal multa de 15,000 a 25,000 veces la Unidad de Cuenta de la Ciudad de México vigente.
-
-Asimismo con clausura permanente y en caso de que se detectare falsedad en los términos de este artículo, la Autoridad dará vista al Ministerio Público.
+Asimismo, con clausura permanente y en caso de que se detectare falsedad en los términos de este artículo, la Autoridad dará vista al Ministerio Público.
 
 ###### Artículo 69.
 
 En los casos de que las conductas se repitan por más de dos ocasiones en el transcurso de un año, se aplicará hasta el doble de la sanción originalmente impuesta, sin exceder del doble del máximo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 70.
 
-Independientemente de la aplicación de las sanciones pecuniarias a que se refiere el presente Titulo, la Delegación resolverá la clausura temporal en los siguientes casos:
+Independientemente de la aplicación de las sanciones pecuniarias a que se refiere el presente Titulo, la Alcaldía resolverá la clausura temporal en los siguientes casos:
 
 I. Por no haberse ingresado el Aviso o Solicitud de Permiso al Sistema para el funcionamiento del establecimiento mercantil;
 
@@ -1346,7 +1452,9 @@ I. Por no haberse ingresado el Aviso o Solicitud de Permiso al Sistema para el f
 
 II. Cuando se detecten en verificación modificaciones a las condiciones originalmente manifestadas en el Aviso o Solicitud de Permiso de funcionamiento del establecimiento mercantil de giro de impacto zonal;
 
-III. Cuando con motivo de la operación de algún giro mercantil, se ponga en peligro el orden público, la salud, la seguridad de la personas o interfiera la protección civil;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+
+III. Cuando con motivo de la operación de algún giro mercantil, se ponga en peligro el orden público, la salud o la seguridad de las personas;
 
 > <small>(REFORMADA, G.O. 8 DE JUNIO DE 2015)</small>
 
@@ -1378,9 +1486,9 @@ I. Expendan bebidas alcohólicas y productos derivados del tabaco a menores de e
 
 II. Vendan y/o distribuyan bebidas alcohólicas sin contar con el permiso o aviso correspondiente, que los faculte para tal efecto;
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-III. Realicen, permitan o participen en los delitos previstos en el Libro Segundo, Parte Especial, Título Sexto del Código Penal para el Distrito Federal relativos al Libre Desarrollo de la Personalidad cometidos en contra de las personas mayores y menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho o personas que no tengan la capacidad de resistir la conducta, y en general, aquellas conductas que pudieran constituir un delito por los que amerite prisión preventiva oficiosa en los términos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos. Para los efectos de esta fracción, quedarán comprendidos como parte del establecimiento mercantil, aquellas accesorias, bodegas o espacios anexos al mismo que sean o hayan sido utilizados para lo que establece esta fracción;
+III. Realicen, permitan o participen en los delitos previstos en el Libro Segundo, Parte Especial, Título Sexto del Código Penal vigente en la Ciudad de México relativos al Libre Desarrollo de la Personalidad cometidos en contra de las personas mayores y menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho o personas que no tengan la capacidad de resistir la conducta, y en general, aquellas conductas que pudieran constituir un delito por los que amerite prisión preventiva oficiosa en los términos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos. Para los efectos de esta fracción, quedarán comprendidos como parte del establecimiento mercantil, aquellas accesorias, bodegas o espacios anexos al mismo que sean o hayan sido utilizados para lo que establece esta fracción;
 
 IV. Expendan bebidas adulteradas, o con substancias químicas que puedan afectar la salud del consumidor;
 
@@ -1398,7 +1506,9 @@ VIII. Cuando no permita el acceso a las instalaciones a todo usuario respetando 
 
 IX. Por utilizar aislantes de sonido que pongan en riesgo la seguridad de los usuarios;
 
-Cuando exista oposición a la ejecución de la clausura, el Instituto podrá hacer uso de la fuerza pública en términos de la Ley de Procedimiento Administrativo del Distrito Federal.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Cuando exista oposición a la ejecución de la clausura, el Instituto podrá hacer uso de la fuerza pública en términos de la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 > <small>(ADICIONADO, G.O. 8 DE JUNIO DE 2015)</small>
 
@@ -1432,27 +1542,33 @@ Procederá el estado de Suspensión Temporal de Actividades de forma inmediata:
 
 I. Cuando el establecimiento no cuente con el aviso o permiso que acredite su legal funcionamiento; también cuando el aviso o permiso no hubiera sido revalidado, estando obligado el titular a hacerlo;
 
-> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-II. Cuando el funcionamiento del establecimiento ponga en riesgo o peligro la vida o la salud en los usuarios, vecinos, trabajadores o interfieran con la protección civil;
+II. Cuando el funcionamiento del establecimiento ponga en riesgo o peligro la vida o la salud en los usuarios, vecino, vecinos o trabajadores;
 
 > <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
 
 III. Cuando el establecimiento mercantil opere un giro distinto al manifestado en el Aviso o Solicitud de Permiso, y
 
-> <small>(ADICIONADA, G.O. 14 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
-IV. Cuando el aforo sea superior a 100 personas, no cuenten con programa interno de protección civil, el Titular del establecimiento no hubiere obtenido el dictamen técnico favorable previsto en el artículo 8 Bis o no cuenten con el visto bueno de la Secretaría de Gobierno a que se refiere el artículo 27 Bis, ambos artículos de esta Ley.
+IV. Cuando el aforo sea superior a 100 personas, no cuenten con programa interno de protección civil, o no cuenten con el visto bueno de la Secretaría de Gobierno a que se refiere el artículo 27 Bis, ambos artículos de esta Ley.… (sic)
 
-La suspensión temporal de actividades durará hasta en tanto se subsanen las irregularidades. En caso de ser necesario el titular solicitará a la Delegación el levantamiento provisional del estado de suspensión a efecto de subsanar las irregularidades que propiciaron dicho estado y/o para llevar a cabo las acciones que permitan la conservación de los bienes en el establecimiento.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+La suspensión temporal de actividades durará hasta en tanto se subsanen las irregularidades. En caso de ser necesario el titular solicitará a la Alcaldía el levantamiento provisional del estado de suspensión a efecto de subsanar las irregularidades que propiciaron dicho estado y/o para llevar a cabo las acciones que permitan la conservación de los bienes en el establecimiento.
 
 El Instituto contará con un término de 48 horas para llevar a cabo el levantamiento provisional de sellos de suspensión temporal de actividades y en ningún caso podrá ser mayor al indispensable para llevar a cabo las actividades señaladas en el párrafo anterior. Transcurrido el término, el Instituto colocará de nueva cuenta los sellos de suspensión temporal de actividades.
 
-En el momento que se subsanen las irregularidades el propietario dará aviso a la Delegación, a efecto de que en un término de dos días hábiles ordene al Instituto y este verifique que se hayan subsanado las mismas y en su caso, lleve a cabo dentro del día hábil siguiente el levantamiento de la suspensión temporal de actividades.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+En el momento que se subsanen las irregularidades el propietario dará aviso a la Alcaldía, a efecto de que en un término de dos días hábiles ordene al Instituto y este verifique que se hayan subsanado las mismas y en su caso, lleve a cabo dentro del día hábil siguiente el levantamiento de la suspensión temporal de actividades.
 
 No se podrá argumentar la negación del levantamiento de la suspensión temporal de actividades por parte de la Delegación por irregularidades no asentadas en el acta de visita de verificación que dio origen a la suspensión.
 
-El incumplimiento de los términos por parte de la Delegación y el Instituto será sancionado conforme a la Ley que rige las responsabilidades administrativas de los servidores públicos en el Distrito Federal.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+El incumplimiento de los términos por parte de la Alcaldía y el Instituto será sancionado conforme a la Ley que rige las responsabilidades administrativas de los servidores públicos en la Ciudad de México
 
 ## TITULO X
 
@@ -1482,9 +1598,11 @@ Cuando la autoridad detecte que la información que se proporcionó respecto a l
 
 Para el retiro de sellos de clausura o suspensión temporal de actividades se entregará al titular del establecimiento copia legible de la orden de levantamiento y del acta circunstanciada que se levante ante dos testigos, en la que constará su ejecución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 77.
 
-La Delegación o el Instituto tendrán en todo momento la atribución de corroborar que subsista el estado de clausura o de suspensión temporal de actividades impuestos a cualquier establecimiento mercantil.
+La Alcaldía o el Instituto tendrán en todo momento la atribución de corroborar que subsista el estado de clausura o de suspensión temporal de actividades impuestos a cualquier establecimiento mercantil.
 
 Cuando se detecte, por medio de verificación ocular o queja, que el local clausurado no tiene sellos, se ordenará por oficio se repongan estos y se dará parte a la autoridad competente.
 
@@ -1492,15 +1610,17 @@ Cuando se detecte, por medio de verificación ocular o queja, que el local claus
 
 PROCEDIMIENTO PARA LA REVOCACIÓN DE OFICIO.
 
-> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 78.
 
-El procedimiento de revocación de oficio del Aviso o permiso se iniciara cuando la Delegación o el Instituto detecten, por medio de visita de verificación o análisis documental, que el titular del establecimiento mercantil se halla en las hipótesis previstas en el artículo 71 de la presente Ley.
+El procedimiento de revocación de oficio del Aviso o permiso se iniciará cuando la Alcaldía o el Instituto detecten, por medio de visita de verificación o análisis documental, que el titular del establecimiento mercantil se halla en las hipótesis previstas en el artículo 71 de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 79.
 
-La Delegación citará al titular mediante notificación personal en la que se le hagan saber las causas que han originado la instauración del procedimiento, otorgándole un término de tres días para que por escrito presente sus objeciones y pruebas o en caso de ser necesario, las anuncie para que se preparen, si es así que así se requiriera.
+La Alcaldía citará al titular mediante notificación personal en la que se le hagan saber las causas que han originado la instauración del procedimiento, otorgándole un término de tres días para que por escrito presente sus objeciones y pruebas o en caso de ser necesario, las anuncie para que se preparen, si es así que así se requiriera.
 
 La audiencia tendrá por objeto la admisión y desahogo de las pruebas ofrecidas, así como la recepción de los alegatos que formulen los interesados por sí o por medio de sus representantes o personas autorizadas, los alegatos verbales no podrán exceder de treinta minutos. Concluida la audiencia, comparezcan o no los interesados, la autoridad emitirá la resolución del asunto, dentro del término de cinco días hábiles, debiéndose valorar por la autoridad las pruebas ofrecidas, haciendo los razonamientos jurídicos sobre el valor y alcance jurídico de las mismas. La resolución se notificará personalmente al interesado dentro de las 24 horas siguientes.
 
@@ -1512,7 +1632,9 @@ DE LAS NOTIFICACIONES.
 
 Cuando el establecimiento mercantil se encuentre en estado de clausura parcial o suspensión temporal de actividades las notificaciones respectivas se realizarán en el mismo establecimiento. En el caso de que se encuentre estado de clausura temporal o permanente, la primera notificación se realizará en el domicilio manifestado en el Aviso o Permiso, debiendo posteriormente el titular o representante legal señalar un domicilio para las posteriores notificaciones. En el caso de no cumplir con lo anterior se harán todas las notificaciones aún las de carácter personal por estrados, con excepción de la resolución que resuelva el procedimiento.
 
-Las demás notificaciones a las que alude la Ley, se realizarán conforme lo establece la Ley de Procedimiento Administrativo del Distrito Federal.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
+Las demás notificaciones a las que alude la Ley, se realizarán conforme lo establece la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 Cuando el establecimiento mercantil se encuentre funcionando, la resolución que imponga el estado de clausura, se notificará al propietario, dependiente, encargado, gerente o cualquier otra persona que se encuentre en ese momento en el establecimiento mercantil. Se exhortará a la persona a la que se le notifique la resolución, para que desaloje el establecimiento, de oponerse o hacer caso omiso, se le concederá un término de cuatro horas para el retiro de los valores, documentos, artículos personales o cualquier otro artículo que considere necesario. Estas circunstancias se asentarán en el acta de clausura.
 
@@ -1522,9 +1644,11 @@ Al término del plazo señalado con anterioridad y en caso de seguir la oposici�
 
 DEL RECURSO DE INCONFORMIDAD.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 ###### Artículo 81.
 
-Los afectados por actos y/o resoluciones de la autoridad, podrán a su elección interponer el Recurso de Inconformidad previsto en la Ley de Procedimiento Administrativo del Distrito Federal, o intentar el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Distrito Federal.
+Los afectados por actos y/o resoluciones de la autoridad, podrán a su elección interponer el Recurso de Inconformidad previsto en la Ley de Procedimiento Administrativo de la Ciudad de México, o intentar el juicio de nulidad ante el Tribunal de Justicia Administrativa de la Ciudad de México.
 
 ## TRANSITORIOS.
 
@@ -1671,3 +1795,17 @@ G.O. 30 DE SEPTIEMBRE DE 2019.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL Y DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO, DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL, DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL, ASÍ COMO DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El Reglamento de la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México, se actualizará dentro de un término de sesenta días, contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- Las Normas Técnicas, Términos de Referencia y Lineamientos a que se refiere la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México se actualizarán en lo que se opongan al presente Decreto, dentro de un término de noventa días, contados a partir de la entrada en vigor del presente mismo.
+
+QUINTO.- La Plataforma Digital a que se refiere la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México se actualizarán en lo que se opongan al presente Decreto, dentro de un término de noventa días, contados a partir de la entrada en vigor del presente mismo.
