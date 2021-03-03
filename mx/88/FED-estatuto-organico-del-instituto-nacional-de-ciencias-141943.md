@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-ciencias-141943"
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-03-06"
-last_updated: "2020-03-06"
+last_updated: "2021-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141943&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2018-10-10"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE CIENCIAS MEDICAS Y NUTRICION SALVADOR ZUBIRAN
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE MARZO DE 2021 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CIENCIAS MÉDICAS Y NUTRICIÓN SALVADOR ZUBIRÁN
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 3 DE MARZO DE 2021.]</small>
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 6 de marzo de 2020.
 
@@ -481,7 +481,9 @@ La Dirección de Cirugía tendrá las siguientes funciones:
 
 I. Coordinar, supervisar y evaluar las funciones de las áreas de Cirugía Experimental, Trasplantes, Endoscopía Gastrointestinal y Urología para que se proteja, promueva y restaure la salud de los pacientes.; (sic)
 
-II. Autorizar las intervenciones quirúrgicas programadas y de emergencia a los pacientes hospitalizados y a los referidos de Consulta Externa y Urgencias para el uso óptimo de las instalaciones en beneficio de los mismos;
+> <small>(F. DE E., D.O.F. 3 DE MARZO DE 2021)</small>
+
+II. Autorizar, coordinar y supervisar las intervenciones quirúrgicas programadas y de emergencia a los pacientes hospitalizados y a los referidos de Consulta Externa y Urgencias para el uso óptimo de las instalaciones en beneficio de los mismos;
 
 III. Supervisar el desarrollo de actividades quirúrgicas de carácter experimental, que permitan contar con nuevas técnicas de diagnóstico y tratamiento para mejorar la calidad de los servicios;
 
@@ -1155,8 +1157,10 @@ Se modifica el Estatuto Orgánico del Instituto Nacional de Ciencias Médicas y 
 
 El Director General del Instituto deberá inscribir este Estatuto en el Registro Público de Organismos Descentralizados en los términos de la Ley Federal de las Entidades Paraestatales.
 
+> <small>(F. DE E., D.O.F. 3 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO CUARTO.
 
-Las modificaciones a los artículos 30, 36 41, 47 y 48, entrarán en vigor a partir de la fecha de autorización de la modificación de la estructura orgánica vigente, presentada en el acuerdo 10.7 de la segunda sesión ordinaria de la Junta de Gobierno del INCMNSZ.
+Las modificaciones a los artículos 30, 36, 38, 40, 41, 43, 44, 47 y 48, entrarán en vigor a partir de la fecha de autorización de la modificación de la estructura orgánica vigente, presentada en el acuerdo 10.7 de la segunda sesión ordinaria de la Junta de Gobierno del INCMNSZ
 
 Emitido y Modificado en México, Ciudad de México, a los 10 días de octubre de dos mil dieciocho, en la Segunda Sesión Ordinaria 2018 de la Junta de Gobierno del Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán. El Director General del Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, David Kershenobich Stalnikowitz.- Rúbrica.
