@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2020-04-14"
+last_updated: "2021-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,15 @@ state: "TAM"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+LEY DE INGRESOS DEL MUNICIPIO DE PABELLÓN DE ARTEAGA, AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2018
 
-LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS.
+TEXTO ORIGINAL.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
+Ley publicada en la Novena Sección al Número 25 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 22 de diciembre de 2017.
 
-Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO “VER IMAGEN PDF”; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
-TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
-
-Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
-
-Al margen un sello que dice: "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
-
-LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL, TIENE A BIEN EXPEDIR EL SIGUIENTE:
-
-DE C R E T O No. 427
-
-LEY DE PROTECCION CIVIL PARA EL ESTADO DE TAMAULIPAS.
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2018 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ## TITULO PRIMERO. DEL SISTEMA DE PROTECCION CIVIL DEL ESTADO DE TAMAULIPAS
 
@@ -707,15 +697,27 @@ Los Ayuntamientos regularán la organización y operación de los Sistemas de Pr
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-###### ARTICULO 32.
+###### ARTÍCULO 32.
 
-La estructura y operación de los Sistemas Municipales de Protección Civil será determinada en los reglamentos respectivos, debiendo contar por lo menos, con una unidad de protección civil de carácter operativo, considerando en su constitución y conformación lo siguiente:
+En términos de lo establecido en el Capítulo Primero, del Título Segundo de la Ley de Hacienda del Municipio de Pabellón de Arteaga, Ags., específicamente en sus Artículos 67 a, 67 b, 67 c, 67 d, 67 e, 67 f, 67 g, 67 h y 67 i, las tarifas que se cobrarán por concepto de servicio de alumbrado público para el año 2018, serán aquéllas que resulten de la aplicación a las fórmulas establecidas en el Artículo 67 j (según reforma publicada en el Periódico Oficial del 31 de diciembre del 2006), y que corresponden a una causación anual.
 
-I.- La población residente en el Municipio;
+Son causantes del servicio por concepto de alumbrado público los consumidores de la energía eléctrica del ramo industrial y habitacional señalados en el último párrafo de este Artículo en un porcentaje equivalente al 10% del consumo total que este genere, el cual deberá ser cobrado en el recibo expedido por la Comisión Federal de Electricidad.
 
-II.- Los antecedentes de los riesgos, altos riesgo, emergencias, siniestros y desastres que ha sido afectado el Municipio; y
+Las tarifas por concepto de derechos por el servicio de alumbrado público establecidas en el artículo anterior serán cubiertas, en la Tesorería Municipal o en las instituciones que ésta autorice mediante la celebración de los convenios respectivos.
 
-III.- La infraestructura o instalaciones industriales, agrícolas y comerciales que puedan ser factores de afectación a la población.
+Se faculta al Presidente Municipal y al Tesorero a otorgar los siguientes descuentos por los derechos correspondientes al Servicio de Alumbrado Público.
+
+Empresas, comercios e industrias de nueva creación durante el primer año posterior a su apertura: del 50 al 100%.
+
+Empresas, comercios e industrias con más de un año de apertura: del 10 al 60%.
+
+En la tarifa habitacional, previo estudio socioeconómico que acredite la incapacidad de pago del causante: del 10 al 50%.
+
+En todas las tarifas, como apoyo a desastres naturales y humanos: del 30 al 90%.
+
+Se consideran derechos de alumbrado público, los ingresos que obtenga el Municipio por el cobro a los usuarios domésticos, comerciales e industriales del servicio de energía eléctrica descrito en el Artículo siguiente, propietarios o poseedores de predios en la jurisdicción del territorio municipal en la cantidad equivalente al diez por ciento del consumo que estos generen y serán cobrados en los recibos de consumo de la Comisión Federal de Electricidad.
+
+Son causantes del derecho por concepto de alumbrado público en calles, plazas, jardines y demás lugares de uso común, los consumidores de energía eléctrica clasificados en las tarifas 1, 2, 3, om, hs, hsl, ht, htl, 1-15, 1-30, hs-r, hs-rf, hs-rm, ht-r, ht-rf, ht-rm, hm-r, hm-rf, h, hm-rm, publicadas en el Diario Oficial de la Federación de fecha 31 de diciembre de 1986, 10 de noviembre de 1991, 3 de abril de 1992, 13 de mayo de 1993, 4 de octubre de 1993 y 30 de septiembre de 1994.
 
 ###### ARTICULO 33.
 
