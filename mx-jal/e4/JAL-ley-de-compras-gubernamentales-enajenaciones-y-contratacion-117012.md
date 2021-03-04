@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-compras-gubernamentales-enajenaciones-y-contratacion-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-27"
-last_updated: "2019-05-11"
+last_updated: "2021-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 27 de octubre de 2016.
 
@@ -71,49 +71,101 @@ V. El manejo de almacenes.
 
 1. Para los fines de esta ley se entiende por:
 
-I. Área requirente: La unidad administrativa del ente público que de acuerdo a sus necesidades, solicite o requiera formalmente a la unidad centralizada de compras del mismo ente público, la adquisición o arrendamiento de bienes o la prestación de servicios;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
 
-II. Comité: Los comités de cada ente público, son los órganos colegiados encargados de intervenir y resolver sobre las adquisiciones y arrendamientos de bienes muebles y contratación de servicios de cualquier naturaleza que se realice, vigilando el estricto cumplimiento de la normatividad aplicable;
+I. Aportación cinco al millar: Retención del monto total de los contratos de bienes y servicios antes de I.V.A. otorgados bajo convocatoria pública para la licitación pública y/o adjudicación pública directa, que será aportad (sic) al Fondo Impulso Jalisco, equivalente al 0.5 punto cinco por ciento del valor asignado, previa declaración de voluntad suscrita por el aportante.. (sic)
 
-III. Contraloría: La Contraloría del Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
-IV. Convocante: El ente público que a través de su unidad centralizada de compras lleva a cabo los procedimientos de contratación a efecto de adquirir o arrendar bienes o contratar la prestación de servicios que solicite la unidad requirente;
+II. Área requirente: La unidad administrativa del ente público que de acuerdo a sus necesidades, solicite o requiera formalmente a la unidad centralizada de compras del mismo ente público, la adquisición o arrendamiento de bienes o la prestación de servicios;
 
-V. Entes públicos: el Poder Ejecutivo del Estado de Jalisco, sus Dependencias Centralizadas y Paraestatales; el Poder Judicial del Estado de Jalisco; el Poder Legislativo del Estado de Jalisco; la Administración Pública Municipal Centralizada y Paramunicipal; y los Organismos Constitucionalmente Autónomos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
-VI. Empresa en consolidación: Aquella que acredite, para su registro como proveedor, contar con una antigüedad no menor a un año, ni mayor a cinco años respecto de su constitución, y/o ser presididas por una persona física no mayor de 35 años de edad;
+III. Comité: Los comités de cada ente público, son los órganos colegiados encargados de intervenir y resolver sobre las adquisiciones y arrendamientos de bienes muebles y contratación de servicios de cualquier naturaleza que se realice, vigilando el estricto cumplimiento de la normatividad aplicable;
 
-VII. Enajenación: La transmisión a otra persona física o jurídica de la propiedad, bien o derecho que se tiene sobre los bienes muebles e inmuebles de los entes públicos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
 
-VIII. Fianza o póliza: Cantidad de dinero u objeto de valor que se da para asegurar el cumplimiento de suministros, la seriedad de la oferta y la correcta aplicación de los anticipos u otra obligación, misma que será expedida por una institución autorizada en el Estado;
+IV. Comité Técnico: Ente encargado de conducir y coordinar el funcionamiento del Fondo Impulso Jalisco
 
-IX. Garantía: Compromiso del proveedor para hacerse responsable para el cumplimiento de las obligaciones de tiempo, modo y lugar, así como por los defectos, vicios ocultos o falta de calidad, averías, mediante un escrito, de reparar o restituir de forma gratuita los defectos encontrados en el lapso de un tiempo determinado que no podrá ser menor a un año o más dependiendo lo estipulado en el contrato;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
-X. Investigación de Mercado: Técnica usada para identificar las características del mercado de bienes y servicios específicos a fin de proveer al área requirente de información útil, para planear la adquisición y arrendamiento de bienes o la prestación de servicios;
+V. Contraloría: La Contraloría del Estado;
 
-XI. Insaculación: Es el procedimiento mediante el cual se somete al azar el resultado de los medios causales o fortuitos empleados para fiar a la suerte una resolución;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
-XII. Ley: la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios;
+VI. Convocante: El ente público que a través de su unidad centralizada de compras lleva a cabo los procedimientos de contratación a efecto de adquirir o arrendar bienes o contratar la prestación de servicios que solicite la unidad requirente;
 
-XIII. Licitante: La persona física o jurídica que participa en cualquier procedimiento de licitación pública;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
-XIV. Órganos de Control: la Contraloria del Estado y los órganos internos de control de los entes públicos;
+VII. Entes públicos: el Poder Ejecutivo del Estado de Jalisco, sus Dependencias Centralizadas y Paraestatales; el Poder Judicial del Estado de Jalisco; el Poder Legislativo del Estado de Jalisco; la Administración Pública Municipal Centralizada y Paramunicipal; y los Organismos Constitucionalmente Autónomos;
 
-XV. Proveedor: Toda persona física o jurídica que suministre mercancías, materias primas y demás bienes muebles, proporcione inmuebles en arrendamiento o preste servicios a los sujetos obligados de esta ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
-XVI. Ofertas subsecuentes de descuento: Modalidad utilizada en las licitaciones públicas, en la que los licitantes, al presentar sus proposiciones tienen la posibilidad de que con posterioridad a la presentación y apertura del sobre cerrado que contenga su propuesta económica realicen una o más ofertas subsecuentes de descuentos que mejoren el precio ofertado en forma inicial, sin que ello signifique la posibilidad de variar las especificaciones o características originalmente contenidas en su propuesta técnica;
+VIII. Empresa en consolidación: Aquella que acredite, para su registro como proveedor, contar con una antigüedad no menor a un año, ni mayor a cinco años respecto de su constitución, y/o ser presididas por una persona física no mayor de 35 años de edad;
 
-XVII. RUPC: Registro Estatal Único de Proveedores y Contratistas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
+IX. Enajenación: La transmisión a otra persona física o jurídica de la propiedad, bien o derecho que se tiene sobre los bienes muebles e inmuebles de los entes públicos;
 
-XVIII. Secretaría: La Secretaría de Administración;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
-XIX. Sistema Electrónico de Compras Gubernamentales y Contratación de Obra Pública (SECG): Sistema informático de consulta gratuita, integrado por información relevante para los procesos de compras públicas, bajo los principios de transparencia, participación y colaboración ciudadana, máxima publicidad y accesibilidad de uso. Dicho sistema constituye el medio por el cual se desarrollarán procedimientos de contratación;
+X. Fianza o póliza: Cantidad de dinero u objeto de valor que se da para asegurar el cumplimiento de suministros, la seriedad de la oferta y la correcta aplicación de los anticipos u otra obligación, misma que será expedida por una institución autorizada en el Estado;
 
-XX. Testigo Social: La persona física o jurídica que participa con voz en los procedimientos de adquisiciones, arrendamientos y contratación de servicios y que emite un testimonio final de conformidad con esta Ley; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
 
-XXI. Unidad centralizada de compras: La unidad administrativa responsable de las adquisiciones o arrendamiento de bienes y la contratación de los servicios de los entes públicos.
+XI. Fondo: Fondo Impulso Jalisco FIMJA;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XII. Garantía: Compromiso del proveedor para hacerse responsable para el cumplimiento de las obligaciones de tiempo, modo y lugar, así como por los defectos, vicios ocultos o falta de calidad, averías, mediante un escrito, de reparar o restituir de forma gratuita los defectos encontrados en el lapso de un tiempo determinado que no podrá ser menor a un año o más dependiendo lo estipulado en el contrato;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XIII. Investigación de Mercado: Técnica usada para identificar las características del mercado de bienes y servicios específicos a fin de proveer al área requirente de información útil, para planear la adquisición y arrendamiento de bienes o la prestación de servicios;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XIV. Insaculación: Es el procedimiento mediante el cual se somete al azar el resultado de los medios causales o fortuitos empleados para fiar a la suerte una resolución;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XV. Ley: la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XVI. Licitante: La persona física o jurídica que participa en cualquier procedimiento de licitación pública;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XVII. Órganos de Control: la Contraloría del Estado y los órganos internos de control de los entes públicos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XVIII. Proveedor: Toda persona física o jurídica que suministre mercancías, materias primas y demás bienes muebles, proporcione inmuebles en arrendamiento o preste servicios a los sujetos obligados de esta ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XIX. Ofertas subsecuentes de descuento: Modalidad utilizada en las licitaciones públicas, en la que los licitantes, al presentar sus proposiciones tienen la posibilidad de que con posterioridad a la presentación y apertura del sobre cerrado que contenga su propuesta económica realicen una o más ofertas subsecuentes de descuentos que mejoren el precio ofertado en forma inicial, sin que ello signifique la posibilidad de variar las especificaciones o características originalmente contenidas en su propuesta técnica;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XX. RUPC: Registro Estatal Único de Proveedores y Contratistas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XXI. Secretaría: La Secretaría de Administración;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
+
+XXII. Sistema Electrónico de Compras Gubernamentales (SECG): Sistema informático de consulta gratuita, integrado por información relevante para los procesos de compras públicas, bajo los principios de transparencia, participación y colaboración ciudadana, máxima publicidad y accesibilidad de uso. Dicho sistema constituye el medio por el cual se desarrollarán procedimientos de contratación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XXIII. Testigo Social: La persona física o jurídica que participa con voz en los procedimientos de adquisiciones, arrendamientos y contratación de servicios y que emite un testimonio final de conformidad con esta Ley; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XXIV. Unidad centralizada de compras: La unidad administrativa responsable de las adquisiciones o arrendamiento de bienes y la contratación de los servicios de los entes públicos.
 
 ###### Artículo 3.
 
@@ -771,15 +823,25 @@ VII. Cumplir con las demás obligaciones que les impongan otras disposiciones.
 
 2. Si existen dos o más proposiciones que en cuanto a precio tengan una diferencia entre sí que no sea superior al dos por ciento, el contrato debe adjudicarse de acuerdo con los siguientes criterios de preferencia, aplicados en este orden:
 
-I. A los proveedores del sector de las micro, pequeñas y medianas empresas asentadas o con domicilio en el Estado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2017)</small>
+I. A los proveedores que hagan constar su aceptación a la retención de su aportación del cinco al millar del monto total del contrato, antes de I.V.A., que sea adjudicado para ser aportado al Fondo Impulso Jalisco;
 
-II. Al proveedor local sobre el nacional o a este sobre el extranjero, para el caso de proveedores extranjeros, se dará preferencia al proveedor de origen mexicano cuya empresa esté legalmente establecida en el extranjero;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
-III. A los proveedores que presenten mejor grado de protección al medio ambiente; y
+II. A los proveedores del sector de las micro, pequeñas y medianas empresas asentadas o con domicilio en el Estado;
 
-IV. Los proveedores que presenten innovaciones tecnológicas, en términos de los lineamientos establecidos por la Secretaria de Innovación, Ciencia y Tecnología.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+III. Al proveedor local sobre el nacional o a este sobre el extranjero, para el caso de proveedores extranjeros, se dará preferencia al proveedor de origen mexicano cuya empresa esté legalmente establecida en el extranjero;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+IV. A los proveedores que presenten mejor grado de protección al medio ambiente; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+V. Los proveedores que presenten innovaciones tecnológicas, en términos de los lineamientos establecidos por la Secretaria de Innovación, Ciencia y Tecnología.
 
 3. Para el caso de los Ayuntamientos, estos podrán establecer un primer criterio de preferencia favoreciendo a los proveedores del sector de las micro, pequeñas y medianas empresas, en ese orden, asentadas o con domicilio en el municipio de que se trate.
 
@@ -903,9 +965,17 @@ XII. Los criterios específicos que se utilizarán para la evaluación de las pr
 
 XIII. El domicilio de las oficinas de la Contraloría o de los órganos de control del ente público de que se trate;
 
-XIV. Señalamiento de las causas expresas de desechamiento, que afecten directamente la solvencia de las proposiciones, entre las que se incluirá la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
 
-XV. Plazo para la celebración del contrato respectivo, plazos y requisitos para entrega de garantías, así como condiciones para otorgar anticipos.
+XIV. Señalamiento de las causas expresas de desechamiento, que afecten directamente la solvencia de las proposiciones, entre las que se incluirá la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
+
+XV. Plazo para la celebración del contrato respectivo, plazos y requisitos para entrega de garantías, así como condiciones para otorgar anticipos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XVI. La indicación de que los licitantes entreguen en su propuesta una declaración escrita en la que hagan constar su aceptación a que les sea retenida su Aportación cinco al millar del monto total del contrato, antes de I.V.A. que se adjudicado para ser aportado al Fondo Impulso Jalisco. Esta retención no deberá ser repercutido (sic) en la integración de la propuesta económica; su contravención será causa de desechamiento de la propuesta presentada.
 
 2. Salvo disposición en contrario, se podrá desechar una propuesta, o determinadas partidas de ésta, cuando de la evaluación de la misma, el licitante correspondiente haya omitido cualquier requisito solicitado en la Convocatoria.
 
@@ -1149,9 +1219,17 @@ XV. Condiciones, términos y procedimiento para la aplicación de penas convenci
 
 XVI. La indicación de que en caso de violaciones en materia de derechos inherentes a la propiedad intelectual, la responsabilidad estará a cargo del licitante o proveedor según sea el caso. Salvo que exista impedimento, la estipulación de que los derechos inherentes a la propiedad intelectual, que se deriven de los servicios de consultorías, asesorías, estudios e investigaciones contratados, invariablemente se constituirán a favor del ente público, según corresponda, en términos de las disposiciones legales aplicables;
 
-XVII. Los procedimientos para resolución de controversias, en caso de que sean distintos al procedimiento de conciliación previsto en esta Ley; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
 
-XVIII. Los demás aspectos y requisitos previstos en la convocatoria a la licitación, así como los relativos al tipo de contrato de que se trate.
+XVII. Los procedimientos para resolución de controversias, en caso de que sean distintos al procedimiento de conciliación previsto en esta Ley;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
+
+XVIII. Los demás aspectos y requisitos previstos en la convocatoria a la licitación, así como los relativos al tipo de contrato de que se trate; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XIX. El monto a retener del total del contrato antes de I.V.A. por la Aportación cinco al millar, se realizará en una sola ministración para el Fondo Impulso Jalisco.
 
 2. Para los efectos de esta Ley, la propuesta adjudicada, sus anexos y el contrato son los instrumentos que vinculan a las partes en sus derechos y obligaciones. Las estipulaciones que se establezcan en el contrato no deberán modificar las condiciones previstas en la convocatoria a la licitación y sus juntas de aclaraciones; en caso de discrepancia, prevalecerá lo estipulado en éstas.
 
@@ -1691,6 +1769,144 @@ III. Cuando se trate de bienes, respecto de los cuales exista disposición legal
 
 2. Para autorizar la destrucción de bienes muebles, deberá existir dictamen fundado y motivado que lo justifique; y levantarse acta debidamente circunstanciada de su ejecución acompañada de memoria fotográfica respectiva.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2021)</small>
+
+## TÍTULO SEXTO. FONDO IMPULSO JALISCO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2021)</small>
+
+### CAPÍTULO I. OBJETO Y PATRIMONIO
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### Artículo 143.
+
+1. Se crea el Fondo Impulso Jalisco con el propósito de promover y procurar la reactivación económica en el Estado y será constituido y administrado bajo la figura de Fideicomiso.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### Artículo 144.
+
+1. El objeto del Fondo será:
+
+I. Impulsar la reactivación económica en el Estado como medio para alcanzar el desarrollo económico sostenible en la entidad;
+
+II. Asesorar, capacitar, recomendar y gestionar estrategias de crecimiento y desarrollo económico en sectores prioritarios del Estado;
+
+III. Impulsar y fomentar la inversión económica, la creación de empleos y de cadenas productivas en la entidad congruentes con el objeto del fondo;
+
+IV. Apoyar a emprendedores, así como micro, pequeñas y medianas empresas residentes en el Estado con programas y promoción para su reactivación económica;
+
+V. Coordinar acciones entre los sectores público y privado para el desarrollo de programas de atracción de inversión y promoción económica en el Estado;
+
+VI. La adquisición y transferencia de tecnología que generen competitividad en los diversos sectores económicos en el Estado;
+
+VII. Promover una cultura de solidaridad y difundir los beneficios de la aportación cinco al millar que permita el cumplimiento del objeto del Fondo.
+
+VIII. Apoyar, en coordinación con las autoridades, en la adquisición de insumos para la salud pública de los jaliscienses; y
+
+IX. Promover una cultura de solidaridad y difundir los beneficios de la aportación cinco al millar que permita el cumplimiento del objeto del Fondo.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### Artículo 145.
+
+1. El Fondo se constituirá con las aportaciones de:
+
+I. Aportación cinco al millar, derivado de la retención del monto total de los contratos de bienes y servicios antes de I.V.A. otorgados bajo convocatoria pública para la licitación pública y/o adjudicación pública directa, equivalente 5 al millar previa declaración de voluntad suscrita por el aportante.. (sic)
+
+II. El Gobierno Federal previo convenio.
+
+III. Aportaciones estatales, establecidos en la partida presupuestal anual que se determine en el presupuesto de egresos del Poder Ejecutivo del Estado de Jalisco para cada ejercicio fiscal.
+
+IV. Las herencias, legados, cesiones de derechos o donaciones que reciba;
+
+V. De los municipios que realicen con base en convenios de colaboración que celebren;
+
+VI. Las de los sectores público, privado o social;
+
+VII. Las que provengan de fondos contemplados en normatividad distinta al presente ordenamiento; y
+
+VIII. Los demás recursos que determine el Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2021)</small>
+
+### CAPÍTULO II. INTEGRACIÓN Y ATRIBUCIONES
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### Artículo 146.
+
+1. El Fondo contará con un Comité Técnico que estará integrado por:
+
+I. El Gobernador del Estado, quien lo presidirá;
+
+II. Titular de la Secretaría de Desarrollo Económico;
+
+III. Titular de la Secretaría de la Hacienda Pública;
+
+IV. Titular de la Secretaría de Administración;
+
+V. Titular de la Secretaría de Innovación, Ciencia y Tecnología;
+
+VI. Un representante de la Cámara Nacional de Comercio, Servicios y Turismo de Guadalajara;
+
+VII. Un representante del Consejo de Cámaras Industriales de Jalisco;
+
+VIII. Un representante de la Confederación de Trabajadores de México;
+
+IX. Un representante de la Confederación Patronal de la República Mexicana; y
+
+X. Un representante del Instituto Metropolitano de Planeación del Área Metropolitana de Guadalajara.
+
+2. Será invitado permanente una persona representante de la Contraloría del Estado quien tendrá sólo derecho a voz, pero sin voto y su presencia no computará para quórum.
+
+3. Serán invitados permanentes con voz, pero si (sic) voto, los representantes de tres Universidades del Estado a propuesta del Comité.
+
+4. El Comité contará con un Secretario Técnico que será designado y removido por el Titular de la Coordinación Estratégica de Crecimiento y Desarrollo Económico y tendrá a su cargo auxiliar al Presidente del Comité para el cumplimiento de todas sus atribuciones.
+
+5. Todos los integrantes contarán con voz y voto, podrán nombrar a un suplente, con excepción de la representación del Gobernador del Estado que recaerá en la persona Titular de la Coordinación General Estratégica de Desarrollo y Crecimiento Económico, y permanecerán en el Comité por el tiempo que dure el encargo que desempeñen, su participación será de carácter honorífica y por lo tanto no será remunerada.
+
+6. Para la validez de los acuerdos del Comité se requerirá la presencia de la mitad más uno de sus integrantes; las decisiones se tomarán por mayoría simple y en caso de empate el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### Artículo 147.
+
+1. Son atribuciones del Comité Técnico las siguientes:
+
+a) Establecer, conducir y coordinar la política para el adecuado funcionamiento del Fondo Impulso Jalisco;
+
+b) Promover otros instrumentos de política para que de manera conjunta con las autoridades se procuren los fines del Fondo Impulso Jalisco;
+
+c) Planear la distribución de los fondos en base a las reglas, criterios y lineamientos que se establezcan;
+
+d) Aprobar los instrumentos jurídicos que se deriven de la operación del Fondo Impulso Jalisco;
+
+e) Promover la participación de los municipios en la constitución de esquemas asociativos para la instalación y operación del Fondo Impulso Jalisco;
+
+f) En coordinación con la Secretaría de la Hacienda Pública y la Secretaría de Desarrollo Económico, evaluar y procurar la rentabilidad y retorno de inversiones en los que participe el Fondo Impulso Jalisco;
+
+g) Celebrar convenios con la Federación, el Estado y los Municipios a efecto de obtener los estímulos fiscales tendientes a incentivar la operación del Fondo Impulso Jalisco; y
+
+h) Ejercer las demás facultades que les confieran las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2021)</small>
+
+### CAPÍTULO III. APORTACIÓN CINCO AL MILLAR
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### Artículo 148.
+
+1. La Secretaría de la Hacienda Pública para la Administración Pública Centralizada, o su equivalente en los Poderes Legislativo y Judicial del Estado, en la Administración Pública Municipal Centralizada Paramunicipal Descentralizada y los Organismos Constitucionales Autónomos del Estado serán responsables de retener y enterar al Fondo Impulso Jalisco la Aportación cinco al millar correspondiente sobre los contratos o pedidos que sean adjudicados antes de I.V.A. bajo cualquier modalidad, en los términos de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### Artículo 149.
+
+1. Toda persona física o jurídica que ganadora de un contrato proveniente de una convocatoria pública por licitación pública o adjudicación directa en los términos de la presente ley podrá realizar, previa declaración de voluntad por escrito, su Aportación cinco al millar sobre el monto total del valor del contrato adjudicado, antes de I.V.A. para el cumplimiento de los fines del Fondo.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente decreto entrará en vigor a los noventa días siguientes al de su publicación en el periódico oficial "El Estado de Jalisco", con las salvedades dispuestas en los siguientes artículos transitorios.
@@ -1790,3 +2006,17 @@ P.O. 11 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27265/LXII/19, QUE ADICIONA AL ARTÍCULO 21 LA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, ADICIONA LA FRACCIÓN VI AL ARTÍCULO 54 Y REFORMA EL ARTÍCULO 144, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; REFORMA LA FRACCIÓN IV DEL ARTÍCULO 52 Y EL ARTÍCULO 117 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ASIMISMO SE ADICIONAN LAS FRACCIONES XXVIII Y XXIX DEL NUMERAL 4, DEL ARTÍCULO 11 DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 56 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28312/LXII/21 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE COMPRAS Y GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se instruye a la Secretaría de la Hacienda Pública, para que realice las adecuaciones presupuestales correspondientes para destinar las aportaciones al Fondo Impulso Jalisco.
+
+TERCERO. Los ayuntamientos de los municipios cuya población sea mayor a los 200 mil habitantes, en el ámbito de su competencia, expedirán o actualizarán su respectiva normatividad para retener y enterar al Fondo Impulso Jalisco el monto correspondiente a cinco al millar del monto total de los contratos y/o pedidos que sean adjudicados bajo cualquier modalidad, en un plazo no mayor a 60 días naturales, contados a partir del día siguiente en que entre en vigor el presente decreto.
+
+En el caso de los Ayuntamientos de los municipios cuya población sea menor a los 200 mil habitantes, el plazo al que se refiere al (sic) párrafo anterior será de hasta 240 días naturales contados a partir del día siguiente en que entre en vigor el presente decreto.
+
+CUARTO. Una vez instalado el Comité Técnico y a partir de esa fecha, el Titular del mismo deberá de rendir un informe semestral ante este Comité Técnico para exponer avances y destino de los recursos.
