@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2020-10-31"
+last_updated: "2021-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -43,7 +43,9 @@ MEDIANTE EL CUAL SE EXPIDE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR 
 
 ###### Artículo 1.
 
-1. Las presentes disposiciones son de orden público, interés social y de aplicación obligatoria en el Estado de Tamaulipas, y se dictan con base en lo dispuesto por los artículos 4, párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, y 17 fracción III de la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
+
+1. Las presentes disposiciones son de orden público, interés social y de aplicación obligatoria en el Estado de Tamaulipas, y se dictan con base en lo dispuesto por los artículos 1o. y 4o., párrafo primero de la Constitución Política de los Estados Unidos Mexicanos; así como por los artículos 16, párrafos tercero, cuarto y quinto, y 17, fracción III, de la Constitución Política del Estado.
 
 2. Esta ley complementa y desarrolla, en el ámbito estatal, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y tiene por objeto prevenir, atender, sancionar y erradicar la violencia contra las mujeres, para lo cual establece los principios y modalidades que propiciarán y asegurarán el acceso a las mujeres a una vida sin violencia, donde se favorezcan su desarrollo y bienestar.
 
@@ -65,7 +67,9 @@ b) asegurar el respeto inquebrantable a la dignidad humana de la mujer;
 
 c) Evitar por todos los medios las prácticas discriminatorias, así como los actos que fomentan o reproducen estereotipos, concepciones y valores de subordinación o inferioridad de un género a otro;
 
-d) asegurar el pleno disfrute de los derechos y garantías que consagra la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales suscritos por el Estado Mexicano, en beneficio de la mujer; y
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
+
+d) asegurar el pleno disfrute de los derechos humanos y garantías que consagra la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales suscritos por el Estado Mexicano, en beneficio de la mujer; y
 
 e) privilegiar el desarrollo de un ambiente social en el cual se promuevan la libertad y los derechos de la mujer en su sentido más amplio.
 
@@ -159,7 +163,9 @@ VII. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo d
 
 VIII. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
 
-IX. Derechos Humanos de las Mujeres: Refiere a los derechos humanos contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
+
+IX. Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos del Niño, la Convención lnteramericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia; y
 
 X. Refugios: Son los albergues, centros o establecimientos constituidos por organismos o asociaciones civiles o del Estado para la atención y protección de mujeres que han sido víctimas de violencia.
 
@@ -171,7 +177,9 @@ X. Refugios: Son los albergues, centros o establecimientos constituidos por orga
 
 2. El Estado y los municipios adoptarán, a través de las dependencias y entidades de sus respectivas administraciones, medidas y acciones para proteger a las mujeres víctimas de la violencia familiar.
 
-3. Al efecto, impulsarán modelos de atención, prevención y sanción, con base en los siguientes elementos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE MARZO DE 2021)</small>
+
+3. Al efecto, impulsarán modelos de atención, prevención y sanción con la finalidad de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos, con base en los siguientes elementos:
 
 a) brindar atención, asesoría jurídica y tratamiento psicológico especializado y gratuito a las víctimas, a efecto de favorecer la reparación del daño que se le haya producido, así como facilitarle su empoderamiento;
 
@@ -197,7 +205,9 @@ d) establecer inmuebles que sirvan como refugio para víctimas y sus descendient
 
 2. El Estado y los municipios adoptarán, a través de las dependencias y entidades de sus respectivas administraciones, medidas y acciones para proteger a las mujeres de la violencia en la comunidad.
 
-3. Al efecto, impulsarán modelos de atención, prevención y sanción, sobre la base de los siguientes elementos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE MARZO DE 2021)</small>
+
+3. Al efecto, impulsarán modelos de atención, prevención y sanción con la finalidad de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos, sobre la base de los siguientes elementos:
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
@@ -209,15 +219,17 @@ c) establecer un banco de datos en el cual obren las órdenes de protección y l
 
 ###### Artículo 7.
 
-1. Violencia institucional contra la mujer es toda acción u omisión abusiva de cualquier servidor público de los órdenes estatal o municipal que la discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y disfrute de sus derechos y libertades fundamentales; así como la que pretenda obstaculizar u obstaculice el acceso de la mujer al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar las manifestaciones y modalidades de violencia conceptualizadas en esta ley.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
+
+1. Violencia institucional contra la mujer, es toda acción u omisión abusiva de cualquier servidor público de los órdenes estatal o municipal que la discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y disfrute de sus derechos humanos; así como la que pretenda obstaculizar u obstaculice el acceso de la mujer al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar las manifestaciones y modalidades de violencia conceptualizadas en esta ley.
 
 2. En el cumplimiento de sus atribuciones, todo servidor público deberá ejercer funciones de prevención de acciones u omisiones de violencia contra la mujer. Cunado (sic) el servidor público se percate de alguna acción u omisión de esa naturaleza, deberá dar aviso a la autoridad competente para su debida atención.
 
 ###### Artículo 8.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
 
-1. Violencia feminicida es la forma extrema de agresión contra las mujeres por razones de género y consiste en la expresión de conductas misóginas que alienten el ejercicio de la violencia, agresiones que pueden conllevar impunidad social y del Estado e incluso culminar en la privación de la vida de la mujer o de la niña.
+1. Violencia feminicida, es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
 
 2. Los individuos o la comunidad de determinada circunscripción territorial del Estado podrán plantear la declaratoria de alerta de violencia de género, con la finalidad de enfrentar, sancionar y erradicar la violencia feminicida.
 
@@ -241,7 +253,9 @@ V.- Hacer del conocimiento público el motivo de las acciones y medidas implemen
 
 a). La comisión de delitos contra la vida, la integridad personal, la libertad o la seguridad de las mujeres, alteren la paz pública en una circunscripción territorial determinada;
 
-b). Exista un agravio que impida el ejercicio pleno de los derechos humanos por parte de las mujeres;
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
+
+b). Exista un agravio que impida el ejercicio pleno de los derechos humanos de las mujeres;
 
 c). Lo soliciten las organizaciones de la sociedad civil, así como los organismos protectores de los derechos humanos de carácter estatal, nacional o internacionales de los que el Estado mexicano sea parte.
 
@@ -527,7 +541,9 @@ XI. Promover la cultura de denuncia de violencia contra las mujeres en el marco 
 
 1. Corresponde al Ejecutivo Estatal, por conducto de la Secretaría de Bienestar Social:
 
-a) garantizar el pleno ejercicio de las mujeres a una vida libre de violencia, vigilando el cumplimiento de la presente ley;
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
+
+a) garantizar el pleno ejercicio de los derechos humanos de las mujeres, así como el acceso a una vida libre de violencia, vigilando el cumplimiento de la presente ley;
 
 b) conducir la política estatal integral desde la perspectiva de género, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, considerándose al efecto los términos de la política nacional de la materia;
 
@@ -653,9 +669,15 @@ c) proporcionar capacitación en materia de atención a las mujeres víctimas de
 
 d) generar un archivo de datos que contengan los hechos relativos a violencia contra las mujeres atendidas por el sector salud, la manifestación y modalidad de violencia, sus efectos y los recursos erogados en su atención; esta información la compartirá con las instancias competentes cuando la soliciten;
 
-e) celebrar convenios de colaboración, coordinación y concertación en la materia; y
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
 
-f) las demás que le confieran esta ley u otros ordenamientos aplicables.
+e) celebrar convenios de colaboración, coordinación y concertación en la materia;
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+f) asegurar que en la prestación de los servicios del sector salud sean respetados los derechos humanos de las mujeres; y
+
+g) las demás que le confieran esta ley u otros ordenamientos aplicables.
 
 ###### Artículo 17.
 
@@ -665,11 +687,15 @@ f) las demás que le confieran esta ley u otros ordenamientos aplicables.
 
 a) consolidar las políticas educativas que se establezcan en el ámbito federal para prevenir la violencia contra la mujer y diseñar las políticas estatales en la materia, así como aplicarlas en el Estado;
 
-b) capacitar al personal docente y administrativo en el conocimiento, respeto y difusión de los derechos de la mujer a una vida libre de violencia;
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
+
+b) capacitar al personal docente y administrativo en el conocimiento, respeto y difusión de los derechos humanos de las mujeres, así como su acceso a una vida libre de violencia;
 
 c) incorporar en los programas educativos la difusión y enseñanza del respeto de los derechos humanos de las mujeres;
 
-d) implementar campañas publicitarias que orienten a la erradicación de la violencia contra las mujeres;
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
+
+d) implementar campañas publicitarias que orienten a la erradicación de la violencia contra las mujeres y al respeto de sus derechos humanos;
 
 e) garantizar acciones y mecanismos que favorezcan el progreso de las mujeres en todas las etapas del proceso educativo;
 
@@ -1082,6 +1108,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 31 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-158 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 8 TER A LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-501 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
 
 ###### ARTÍCULO ÚNICO.
 
