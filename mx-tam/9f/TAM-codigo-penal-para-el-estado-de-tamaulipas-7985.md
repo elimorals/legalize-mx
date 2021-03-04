@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2020-12-17"
+last_updated: "2021-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3897,15 +3897,17 @@ Los parientes o tutores que entreguen en una casa de expósitos a un niño que e
 
 Comete el delito de abandono de obligaciones alimenticias el que sin motivo justificado deje de proporcionar a su cónyuge, concubina o concubinario, o a sus hijos, los medios económicos o recursos necesarios para atender las necesidades de subsistencia.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2018)</small>
+(NOTA: EL 1 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 5 DE MARZO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO LXIV-492, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 296.
 
-Al responsable del delito de abandono de obligaciones alimenticias se le impondrá una sanción de un año a cinco años de prisión, privación de derechos relativos a la familia y entrega de las cantidades que no fueron oportunamente suministradas a la familia.
+Al responsable del delito de abandono de obligaciones alimenticias se le impondrá una sanción de un año a seis años de prisión, y multa de hasta 200 veces el valor diario de la Unidad de Medida y Actualización, PRIVACIÓN DE DERECHOS RELATIVOS A LA FAMILIA y entrega de las cantidades que no fueron oportunamente suministradas a la familia.
 
-(ADICIONADO, P.O. 23 DE JUNIO DE 2016) (F. DE E., P.O. 29 DE JUNIO DE 2016)
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
 
-La misma pena se aplicará a quien estando obligado a informar acerca de los ingresos de quienes deban cumplir con la obligación alimentaria desobedezcan la orden judicial de hacerlo o informen con datos falsos.
+La misma pena y multa se aplicará a quien estando obligado a informar acerca de los ingresos de quienes deban cumplir con la obligación alimentaria desobedezcan la orden judicial de hacerlo o informen con datos falsos.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -3919,11 +3921,11 @@ Si el obligado tiene un ingreso económico variable se tomará como base diaria 
 
 Si no se puede determinar el monto del ingreso económico del obligado, pero notoriamente es superior al salario mínimo de la región, el Juez establecerá un porcentaje tomando en cuenta el número de personas que tienen derecho a los alimentos y la capacidad económica del obligado.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 297.
 
-La sanción establecida en el artículo anterior, se aumentará una tercera parte al que dolosamente se coloque en estado de insolvencia o renuncie a su empleo con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina para sus hijos o cónyuge; igualmente cuando les prive de los beneficios de atención médica, hospitalaria y medicinas a que tengan derecho con motivo de la realización de trabajo del obligado.
+La sanción establecida en el artículo anterior, se aumentará hasta en una mitad al que dolosamente se coloque en estado de insolvencia o renuncie a su empleo con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina para sus hijos o cónyuge; igualmente cuando les prive de los beneficios de atención médica, hospitalaria y medicinas a que tengan derecho con motivo de la realización de trabajo del obligado.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2003)</small>
 
@@ -6902,6 +6904,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 17 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-484 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 268; Y SE ADICIONA EL ARTÍCULO 279 QUÁTER, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-492 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 296, PÁRRAFOS PRIMERO Y SEGUNDO; Y 297, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
