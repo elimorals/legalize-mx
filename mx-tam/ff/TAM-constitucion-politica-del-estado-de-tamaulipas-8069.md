@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2020-12-17"
+last_updated: "2021-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -82,6 +82,18 @@ Las autoridades estatales y municipales, en el ámbito de su competencia, deber�
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
 El gobierno digital es una política pública que contribuirá al crecimiento y desarrollo de la Entidad, promoviendo el uso estratégico de las tecnologías de la información y comunicaciones en todos los órganos del Estado, con el fin de mejorar las condiciones y la calidad de vida de los habitantes de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+Los tres poderes de gobierno, los organismos autónomos y los gobiernos municipales, fomentarán el uso de las herramientas tecnológicas y trabajo remoto, en aquellos casos en que se justifique plenamente y no se puedan realizar las actividades regulares de forma presencial.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+Dichos entes emitirán la normatividad interna y mecanismos que mejor se adapten para su funcionamiento.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+Se fomentará como política gubernamental el gobierno abierto, consistente en propiciar el trabajo colaborativo con la sociedad en general, enfocado a generar alternativas de solución a los problemas, demandas y necesidades sociales.
 
 ### CAPITULO II. De los tamaulipecos
 
@@ -333,23 +345,35 @@ VIII. El derecho a la cultura física y la práctica del deporte. Corresponde al
 
 IX. El derecho de acceder de manera libre y universal a internet;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
 
-X. El derecho de acceso a la cultura y el disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones, con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural;
+X. El derecho de acceso a la cultura y el disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones, con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+La cultura de las y los tamaulipecos constituye su identidad, un bien irrenunciable y un derecho fundamental; las autoridades locales en concertación con la sociedad, promoverán el rescate, la preservación, el fortalecimiento, la protección, la restauración y la difusión del patrimonio cultural que define la identidad tamaulipeca, misma que es inalienable e imprescriptible;
 
-XI. El derecho a la alimentación adecuada, nutritiva, suficiente y de calidad; el Estado establecerá como garantía para ello, los mecanismos necesarios y suficientes para su desarrollo, promoción, fomento, estímulo y abasto oportuno conforme a las leyes en la materia; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
+XI. El derecho a la alimentación adecuada, nutritiva, suficiente y de calidad; el Estado establecerá como garantía para ello, los mecanismos necesarios y suficientes para su desarrollo, promoción, fomento, estímulo y abasto oportuno conforme a las leyes en la materia;
 
-XII. El derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica. El Estado apoyará la investigación e innovación científica, humanística y tecnológica.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
+XII. El derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica. El Estado apoyará la investigación e innovación científica, humanística y tecnológica;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2021)</small>
+
+XIII. El derecho a la protección más amplia de las familias, en su ámbito individual y colectivo, así como su aporte en la construcción y bienestar de la sociedad por su contribución al cuidado, formación, desarrollo y transmisión de valores, de la identidad cultural y de conocimientos elementales para la vida en sociedad.
+
+Las autoridades estatales y municipales promoverán la integración, el desarrollo y el fortalecimiento de la familia; sus fines de unidad, convivencia armónica, ayuda mutua y la preservación de los valores de la comunidad.
+
+Los bienes considerados como objeto del patrimonio de familia, se considerarán inalienables, imprescriptibles e inembargables, a manera de protección a la familia en términos de la legislación civil aplicable; y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2021)</small>
+
+XIV. El Estado reconoce los derechos de las personas pertenecientes a los pueblos y comunidades indígenas, que habiten el territorio, sea cual fuese su situación o aspiración.
 
 ###### Art. 17 Bis.
 
-En el caso de extinción de dominio se establecerá un procedimiento que será jurisdiccional y autónomo del de materia penal, y procederá en los casos de secuestro, robo de vehículos, trata de personas y enriquecimiento ilícito. La ley ordinaria de la materia reglamentará estas bases constitucionales.
+(DEROGADO, P.O. 4 DE MARZO DE 2021)
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
@@ -739,11 +763,11 @@ e) Las demás que señale la ley.
 
 El Tribunal Electoral del Estado propondrá su presupuesto al Ejecutivo del Estado para su inclusión en el proyecto de Presupuesto del Estado. Asimismo, el Tribunal Electoral expedirá su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
 
 ###### Art. 21.
 
-Para su régimen interior, el Estado adopta la forma de gobierno republicano, democrático, representativo y popular, siendo la base de su organización política y administrativa el Municipio Libre, en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos.
+Para su régimen interior, el Estado adopta la forma de gobierno republicano, democrático, representativo y laico, siendo la base de su organización política y administrativa el Municipio Libre, en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Art. 22.
 
@@ -1215,7 +1239,7 @@ XXXIII. Dictar leyes para organizar el sistema penal sobre la base del trabajo, 
 
 XXXIV. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2012)
 
-XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corresponda al Estado para el Ejército de la Nación;
+XXXV. (DEROGADA, P.O. 4 DE MARZO DE 2021)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2020)</small>
 
@@ -1223,7 +1247,7 @@ XXXVI. Expedir la ley reglamentaria del Centro de Conciliación Laboral del Esta
 
 > <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2020)</small>
 
-XXXVII.- Recibir la protesta constitucional a los Diputados, al Gobernador y a quienes, en su caso, deban ejercer esta función; a los Magistrados del Supremo Tribunal de Justicia; a los Magistrados del Tribunal de Justicia Administrativa del Estado; a los Consejeros de la Judicatura, con excepción de su Presidente; al titular de la Presidencia y del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; a los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, y a los servidores públicos que nombre y que conforme a las leyes deban rendirla;
+XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador y a quienes, en su caso, deban ejercer esta función; a los Magistrados del Supremo Tribunal de Justicia; a los Magistrados del Tribunal de Justicia Administrativa del Estado; a los Consejeros de la Judicatura, con excepción de su Presidente; al titular de la Presidencia y del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; a los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, y a los servidores públicos que nombre y que conforme a las leyes deban rendirla;
 
 XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general;
 
@@ -5192,6 +5216,14 @@ De conformidad con la capacidad presupuestal y recursos humanos e informáticos 
 ###### ARTÍCULO CUARTO.
 
 El Consejo de la Judicatura del Estado proveerá lo conducente para contar con los órganos judiciales y administrativos que se ameriten para el funcionamiento del sistema de impartición de justicia laboral.
+
+P.O. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-497 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 17, FRACCIONES X, XI Y XII; Y 21; SE ADICIONAN LOS PÁRRAFOS OCTAVO, NOVENO Y DÉCIMO AL ARTÍCULO 4o; LAS FRACCIONES XIII Y XIV AL ARTÍCULO 17; Y SE DEROGAN EL ARTÍCULO 17 BIS, Y LA FRACCIÓN XXXV DEL ARTÍCULO 58 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO NOVENO.
 
