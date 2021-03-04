@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2020-12-17"
+last_updated: "2021-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -245,7 +245,9 @@ Es deber de la familia, la comunidad a la que pertenecen, del Estado y, en gener
 
 Para efectos de la presente Ley, son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
 
-I.- Derecho a la vida, a la supervivencia y al desarrollo;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
+
+I.- Derecho a la vida, a la paz, a la supervivencia y al desarrollo;
 
 II.- Derecho de prioridad;
 
@@ -285,7 +287,9 @@ XIX.- Derechos de niñas, niños y adolescentes migrantes; y
 
 XX.- Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión. Para tales efectos, el Estado establecerá condiciones de competencia efectiva en la prestación de dichos servicios.
 
-### CAPÍTULO TERCERO. DEL DERECHO A LA VIDA, A LA SUPERVIVENCIA Y AL DESARROLLO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2021)</small>
+
+### CAPÍTULO TERCERO. DEL DERECHO A LA VIDA, A LA PAZ, A LA SUPERVIVENCIA Y AL DESARROLLO
 
 ###### ARTÍCULO 13.
 
@@ -295,9 +299,11 @@ XX.- Derecho de acceso a las tecnologías de la información y comunicación, as
 
 3. Niñas, niños y adolescentes deberán disfrutar de una vida plena en condiciones acordes a su dignidad y en condiciones que garanticen su desarrollo integral.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 14.
 
-Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados, violentos o en la comisión de conductas delictivas.
+Niñas, niños y adolescentes tienen derecho a la paz, a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados, violentos o en la comisión de conductas delictivas.
 
 ### CAPÍTULO CUARTO. DEL DERECHO DE PRIORIDAD
 
@@ -470,6 +476,18 @@ V.- El trabajo antes de la edad mínima de quince años, prevista en el artícul
 VI.- El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Federal y en las demás disposiciones aplicables; y
 
 VII.- La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 32 Bis.
+
+Las niñas, niños y adolescentes tienen derecho a no sufrir violencia en el ámbito digital. Tanto las autoridades como quienes ejerzan la patria potestad, tutela, guarda o custodia o bien, quienes, sin tener dicho carácter, los tengan bajo su cuidado, deberán tomar acciones para detectar y atender en forma integral aquellos casos en que se utilicen las tecnologías de la información y comunicación para agredir o vulnerar la dignidad, intimidad, libertad y vida privada de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 32 Ter.
+
+Las niñas, niños y adolescentes tienen derecho a que se proteja cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en los medios de comunicación locales, o en redes sociales y en general en medios digitales. En caso de que sea necesario, debe hacerse mediante autorización por escrito, o por cualquier otro medio que permita constatarla, de quienes ejerzan la patria potestad, tutela, guarda o custodia, quedando prohibido se lleve a cabo toda exposición, aun existiendo dicho consentimiento, si ésta implica menoscabo de su honra o reputación, es contraria a sus derechos o las y los ponga en riesgo, conforme al principio de interés superior de la niñez.
 
 ###### ARTÍCULO 33.
 
@@ -1574,6 +1592,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 17 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-218 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN I; 3, PRIMER PÁRRAFO; 5 FRACCIÓN, XXV; 7, FRACCIÓN II; Y 101, FRACCIÓN IV DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-491 MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 32 BIS Y 32 TER A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-493 MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 12, LA DENOMINACIÓN DEL CAPÍTULO TERCERO DEL TÍTULO SEGUNDO, Y EL ARTÍCULO 14, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
