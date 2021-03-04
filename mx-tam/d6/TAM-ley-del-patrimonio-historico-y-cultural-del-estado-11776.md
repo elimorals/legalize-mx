@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-patrimonio-historico-y-cultural-del-estado-11776"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-26"
-last_updated: "2016-12-21"
+last_updated: "2021-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 26 de noviembre de 1997.
 
@@ -571,6 +571,54 @@ V.- El recurso se tendrá por no interpuesto cuando sea presentado fuera del té
 
 La interposición del recurso no suspende la ejecución de la resolución impugnada.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2021)</small>
+
+### CAPITULO XIII. DE LA PARTICIPACIÓN CIUDADANA
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### ARTICULO 64.
+
+El Gobierno del Estado y los Ayuntamientos, deberán propiciar los mecanismos adecuados que faciliten el acceso a las tareas y discusiones en materia de protección del patrimonio histórico y cultural del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### ARTICULO 65.
+
+Todo ciudadano u organismo social podrán denunciar ante las instituciones o dependencias estatales o municipales, cualquier violación a las leyes, a la presente ley, así como a los reglamentos de la materia.
+
+Una vez presentada la denuncia, la autoridad competente deberá comprobar a la brevedad posible la situación que se da a conocer, a efecto de que se ejecuten las acciones y medidas necesarias conforme a lo establecido por la presente Ley y demás disposiciones jurídicas aplicables y se decida la intervención precautoria.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### ARTICULO 66.
+
+Los particulares podrán promover, ante la autoridad estatal o municipal correspondiente, la iniciación del procedimiento para declarar a un bien o zona de protección al patrimonio histórico y cultural del Estado, en los términos de la presente Ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### ARTICULO 67.
+
+Todo habitante del Estado tiene derecho a:
+
+I. Proponer el registro en el inventario y en su caso, la declaratoria de un bien al patrimonio histórico y cultural del Estado;
+
+II. Proponer de manera motivada que se excluya del inventario un bien del patrimonio histórico y cultural;
+
+III. Proponer ante las instancias municipales y estatales competentes, la inclusión de bienes al patrimonio histórico y cultural en planes y programas de desarrollo urbano, así como iniciativas sobre cualquier asunto o tema relacionado con el patrimonio histórico y cultural;
+
+IV. Denunciar toda falta, acción u omisión de cualquier persona física, jurídica o autoridad, que perjudique al patrimonio histórico y cultural;
+
+V. Asociarse, agruparse y manifestarse, sobre el uso, destino y protección del patrimonio histórico y cultural; y
+
+VI. Promover actividades de divulgación del patrimonio histórico y cultural del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### ARTICULO 68.
+
+Toda persona tiene la obligación de respetar y preservar el patrimonio histórico y cultural del Estado. Todo aquel que tenga conocimiento de una situación de peligro o de la destrucción consumada o inminente de un bien integrante del patrimonio histórico y cultural del Estado, deberá comunicarlo inmediatamente a la Secretaría o a la autoridad municipal correspondiente.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -634,3 +682,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-505 MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO XIII Y LOS ARTÍCULOS 64, 65, 66, 67 Y 68 A LA LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
