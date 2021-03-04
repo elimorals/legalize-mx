@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-juventud-del-estado-de-tamaulipas-43160"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2013-09-24"
+last_updated: "2021-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA JUVENTUD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -53,9 +53,9 @@ LEY DE LA JUVENTUD DEL ESTADO DE TAMAULIPAS.
 
 La presente ley es de orden público, interés social y observancia general en el Estado de Tamaulipas.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
 
-Tiene por objeto establecer los derechos de la juventud tamaulipeca y los principios rectores de las políticas públicas que contribuyan a su desarrollo integral mediante su inclusión social plena al proceso de desarrollo económico, educativo y cultural, así como regular el funcionamiento del Instituto de la Juventud de Tamaulipas. Esta ley se sustenta en un equilibrio en las relaciones entre los jóvenes y tiene una perspectiva juvenil, en tanto se concibe al joven como sujeto y actor social pleno.
+Tiene por objeto establecer los derechos de la juventud tamaulipeca y los principios rectores de las políticas públicas que contribuyan a su desarrollo integral mediante su inclusión social plena al proceso de desarrollo político, económico, educativo y cultural, así como regular el funcionamiento del Instituto de la Juventud de Tamaulipas. Esta ley se sustenta en un equilibrio en las relaciones entre los jóvenes y tiene una perspectiva juvenil, en tanto se concibe al joven como sujeto y actor social pleno.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -714,3 +714,11 @@ P.O. 24 DE SEPTIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de la reforma efectuada a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, la cual surtirá efectos a partir de su expedición.
+
+P.O. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-496 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 1° DE LA LEY DE LA JUVENTUD DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
