@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-844-de-prevencion-social-de-la-violencia-y-la-148082
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-01"
-last_updated: "2021-03-01"
+last_updated: "2021-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 844 DE PREVENCION SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE -- ANTES LEY NUMERO 844 DE PARTICIPACION CIUDADANA PARA LA PREVENCION SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE --
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE MARZO DE 2021 EN LA G.O. DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
-LEY NÚMERO 844 DE PARTICIPACIÓN CIUDADANA PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 844 DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.O. DEL 4 DE MARZO DE 2021.]</small>
 
 Ley publicada en el Tomo IV al Núm. Ext. 084 de la Gaceta Oficial del Estado de Veracruz, el lunes 1 de marzo de 2021.
 
@@ -43,9 +43,11 @@ Al margen un sello que dice: Estados Unidos Mexicanos.—Poder Legislativo.—Es
 
 LA SEXAGÉSIMA QUINTA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN I Y 38 DE LA CONSTITUCIÓN POLÍTICA LOCAL; 18 FRACCIÓN I Y 47 SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; 75 Y 76 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO; Y EN NOMBRE DEL PUEBLO, EXPIDE LA SIGUIENTE:
 
-L E Y NÚMERO 844
+> <small>(F. DE E., G.O. 4 DE MARZO DE 2021)</small>
 
-DE PARTICIPACIÓN CIUDADANA PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+L E Y Número 844
+
+DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -113,7 +115,9 @@ VIII. Fiscalía General: La Fiscalía General del Estado de Veracruz de Ignacio 
 
 IX. Integrantes: Las personas que integran la Comisión Interinstitucional para la Prevención Social de la Violencia y la Delincuencia del Consejo Estatal de Seguridad Pública;
 
-X. Ley: La Ley para la Prevención Social de la Violencia y la Delincuencia del Estado de Veracruz de Ignacio de la Llave;
+> <small>(F. DE E., G.O. 4 DE MARZO DE 2021)</small>
+
+X. Ley: La Ley de Prevención Social de la Violencia y la Delincuencia del Estado de Veracruz de Ignacio de la Llave;
 
 XI. Participación Ciudadana y Comunitaria: La participación de los diferentes sectores y grupos de la sociedad civil y sector privado organizado y no organizado, así como de la comunidad académica;
 
@@ -351,7 +355,9 @@ La persona que presida la Comisión Interinstitucional para la Prevención Socia
 
 Cuando los asuntos de la agenda lo requieran, se podrá convocar a funcionarios federales, estatales y representantes de organizaciones de la sociedad civil, así como académicos relacionados con los temas de prevención social de la violencia y la delincuencia, quienes tendrán derecho a voz, pero sin voto.
 
-#### SECCIÓN CUARTA. DEL CENTRO ESTATAL DE PARTICIPACIÓN CIUDADANA PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
+> <small>(F. DE E., G.O. 4 DE MARZO DE 2021)</small>
+
+#### SECCIÓN CUARTA. DEL CENTRO ESTATAL DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA
 
 ###### Artículo 18.
 
