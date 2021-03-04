@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-143658"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-07-17"
-last_updated: "2020-10-07"
+last_updated: "2021-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143658&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-07-08"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2021.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 17 de julio de 2020.
 
@@ -927,7 +927,9 @@ XV. Región del Sureste: Una Sala que se denominará “Sala Regional del Surest
 
 XVI. Región Peninsular: Una Sala que se denominará “Sala Regional Peninsular”, con sede en la Ciudad de Mérida, Estado de Yucatán;
 
-XVII. Región Metropolitana: Trece Salas que se denominarán, “Primera Sala Regional Metropolitana”, “Segunda Sala Regional Metropolitana”, “Tercera Sala Regional Metropolitana”, “Quinta Sala Regional Metropolitana”, “Sexta Sala Regional Metropolitana”, “Séptima Sala Regional Metropolitana”, “Octava Sala Regional Metropolitana”, “Novena Sala Regional Metropolitana”, “Décima Sala Regional Metropolitana”, “Décimo Primera Sala Regional Metropolitana”, “Décimo Segunda Sala Regional Metropolitana”, “Décimo Tercera Sala Regional Metropolitana” y “Décimo Cuarta Sala Regional Metropolitana”, todas con sede en la Ciudad de México;
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2021)</small>
+
+XVII. Región Metropolitana: Doce Salas que se denominarán, "Primera Sala Regional Metropolitana", "Segunda Sala Regional Metropolitana", "Tercera Sala Regional Metropolitana", "Quinta Sala Regional Metropolitana", "Sexta Sala Regional Metropolitana", "Séptima Sala Regional Metropolitana", "Octava Sala Regional Metropolitana", "Novena Sala Regional Metropolitana", "Décima Sala Regional Metropolitana", "Décimo Primera Sala Regional Metropolitana", "Décimo Segunda Sala Regional Metropolitana", y "Décimo Cuarta Sala Regional Metropolitana", todas con sede en la Ciudad de México;
 
 XVIII. Región del Golfo-Norte: Una Sala que se denominará “Sala Regional del Golfo-Norte”, con sede en Ciudad Victoria, Estado de Tamaulipas;
 
@@ -1027,21 +1029,69 @@ El Tribunal tendrá las Salas Auxiliares siguientes, cuya denominación y sede s
 
 I. Salas Auxiliares con la circunscripción territorial y la competencia material que mediante Acuerdo determine el Pleno General a propuesta de la Junta, cuya denominación y sede será la siguiente:
 
-a) Sala Auxiliar con sede en la Ciudad de Zacatecas, Estado de Zacatecas, que también será la Sala Regional del Norte-Centro IV, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXIII, y 49, fracción XXIII, de este Reglamento.
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2021)</small>
 
-b) Sala Auxiliar con sede en el Municipio de San Pedro Garza García, en el Estado de Nuevo León, que también será la Segunda Sala Especializada en Materia de Comercio Exterior, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Especializada, conforme al artículo 50, fracción IV, inciso b), de este Reglamento.
+a) Sala Regional del Norte-Centro IV y Auxiliar, con sede en la Ciudad de Zacatecas, Estado de Zacatecas, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXIII, y 49, fracción XXIII, de este Reglamento.
 
-c) Sala Auxiliar con sede en la Ciudad de Toluca, Estado de México, que también será la Sala Regional Sur del Estado de México, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXIX, y 49, fracción XXIX, de este Reglamento.
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2021)</small>
 
-d) Sala Auxiliar con sede en la Ciudad de México, sin perjuicio de la competencia que le corresponde como Sala Auxiliar Metropolitana en términos de la fracción II de este mismo artículo, y que también será la Sala Especializada en Materia del Juicio de Resolución Exclusiva de Fondo, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Especializada, conforme al artículo 50, fracción VI, de este Reglamento.
+b) Segunda Sala Especializada en Materia de Comercio Exterior y Auxiliar, con sede en el Municipio de San Pedro Garza García, en el Estado de Nuevo León, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Especializada, conforme al artículo 50, fracción IV, inciso b), de este Reglamento.
 
-e) Sala Auxiliar con sede en la Ciudad de Xalapa-Enríquez, en el Estado de Veracruz de Ignacio de la Llave, que también será la Tercera Sala Especializada en Materia de Comercio Exterior, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Especializada, conforme al artículo 50, fracción IV, inciso c), de este Reglamento.
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2021)</small>
 
-II. Sala Auxiliar Metropolitana, con sede en la Ciudad de México, que será también la Sala Regional Especializada en Materia del Juicio de Resolución Exclusiva de Fondo, conforme a lo establecido en el artículo 50, fracción VI de este Reglamento. El auxilio de esta Sala se circunscribe en la tramitación y resolución hasta su total conclusión, incluso en la instancia de aclaración de sentencia, queja y en el cumplimiento de ejecutorias del Poder Judicial de la Federación, de los asuntos radicados en la entonces Cuarta Sala Regional Metropolitana.
+c) Sala Regional Sur del Estado de México y Auxiliar, con sede en la Ciudad de Toluca, Estado de México, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXIX, y 49, fracción XXIX, de este Reglamento.
 
-III. Sala Auxiliar en Materia de Responsabilidades Administrativas Graves con sede en la Ciudad de México y competencia en todo el territorio nacional, que será también la Décimo Tercera Sala Regional Metropolitana, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Ordinaria.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 4 DE MARZO DE 2021)</small>
 
-La Sala Auxiliar ejercerá competencia mixta para tramitar y resolver los juicios que sean de su competencia como Sala Regional Metropolitana, así como aquellos procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Sala Auxiliar en Materia de Responsabilidades Administrativas Graves.
+d) Sala Especializada en Materia del Juicio de Resolución Exclusiva de Fondo y Primera Sala Auxiliar, con sede en la Ciudad de México, sin perjuicio de la competencia que le corresponde como Sala Auxiliar Metropolitana en términos de la fracción II de este mismo artículo, así como de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Especializada, conforme al artículo 50, fracción VI, de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2021)</small>
+
+e) Tercera Sala Especializada en Materia de Comercio Exterior y Auxiliar, con sede en la Ciudad de Xalapa-Enríquez, en el Estado de Veracruz de Ignacio de la Llave, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Especializada, conforme al artículo 50, fracción IV, inciso c), de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
+
+f) Sala Regional de Chiapas y Auxiliar, con sede en la Ciudad de Tuxtla Gutiérrez, Estado de Chiapas, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XIX, y 49, fracción XIX, de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
+
+g) Sala Regional del Caribe y Auxiliar, con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XX, y 49, fracción XX, de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
+
+h) Sala Regional del Norte-Centro III y Auxiliar, con sede en la ciudad de Victoria de Durango, Estado de Durango, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXII, y 49, fracción XXII, de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
+
+i) Sala Regional de Morelos y Auxiliar, con sede en la Ciudad de Cuernavaca, Estado de Morelos, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXIV, y 49, fracción XXIV, de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
+
+j) Sala Regional de Tabasco y Auxiliar, con sede en la Ciudad de Villahermosa, Estado de Tabasco, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXVI, y 49, fracción XXVI, de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
+
+k) Sala Regional de Hidalgo y Auxiliar, con sede en la Ciudad de Pachuca, Estado de Hidalgo, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXVII, y 49, fracción XXVII, de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
+
+l) Sala Regional del Centro IV y Auxiliar, con sede en el municipio de Silao, Guanajuato, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXX, y 49, fracción XXX, de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
+
+m) Sala Auxiliar en Materia de Responsabilidades Administrativas Graves y Segunda Sala Auxiliar, con sede en la Ciudad de México.
+
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2021)</small>
+
+II. Sala Regional Especializada en Materia del Juicio de Resolución Exclusiva de Fondo, conforme a lo establecido en el artículo 50, fracción VI de este Reglamento, que también será Sala Auxiliar Metropolitana, con sede en la Ciudad de México. El auxilio de esta Sala se circunscribe en la tramitación y resolución hasta su total conclusión, incluso en la instancia de aclaración de sentencia, queja y en el cumplimiento de ejecutorias del Poder Judicial de la Federación, de los asuntos radicados en la entonces Cuarta Sala Regional Metropolitana.
+
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2021)</small>
+
+III. Sala Auxiliar en Materia de Responsabilidades Administrativas Graves con sede en la Ciudad de México y competencia en todo el territorio nacional para conocer y resolver los procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Sala Auxiliar en Materia de Responsabilidades Administrativas Graves; sin perjuicio de la competencia para instruir y resolver juicios contenciosos administrativos, que por turno le correspondan, en materia de responsabilidades administrativas de los servidores públicos; así como los relacionados con las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y Obras Públicas y Servicios Relacionados con las mismas; y aquellos que se determinen por la Junta de Gobierno y Administración en otras materias en su carácter de Sala Auxiliar.
+
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2021)</small>
+
+La Sala Auxiliar ejercerá competencia mixta para tramitar y resolver los juicios que le sean turnados de manera aleatoria por la oficialía de partes común en materia de responsabilidades administrativas de los servidores públicos, los relacionados con las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y Obras Públicas y Servicios Relacionados con las mismas; aquellos que le sean enviados para auxiliar a otras Salas; y, los procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Sala Auxiliar en Materia de Responsabilidades Administrativas Graves.
 
 ###### Artículo 52.
 
@@ -3127,7 +3177,9 @@ La Junta investigará, respecto de conductas que puedan constituir responsabilid
 
 Para efectos del párrafo anterior, la Junta por conducto de uno de sus Magistrados integrantes investigará las posibles faltas administrativas, determinando su existencia o inexistencia y en su caso, calificando las conductas como graves o no graves.
 
-Concluida la etapa de investigación, tratándose de las conductas calificadas como no graves, el Magistrado que realizó la misma, someterá para su aprobación a los demás integrantes de la Junta el informe de presunta responsabilidad administrativa, o en el caso de no existir elementos un acuerdo de conclusión y archivo del expediente, en términos de la Ley General de Responsabilidades Administrativas.
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2021)</small>
+
+Concluida la etapa de investigación, tratándose de las conductas calificadas como no graves, el Magistrado que realizó la misma emitirá el informe de presunta responsabilidad administrativa, o en el caso de no existir elementos un acuerdo de conclusión y archivo del expediente, en términos de la Ley General de Responsabilidades Administrativas.
 
 La Junta por conducto de otro de sus Magistrados substanciará el procedimiento de responsabilidades administrativas, en los términos de la ley de la materia y una vez concluida ésta, someterá a los tres Magistrados restantes que no participaron en la investigación y substanciación, el proyecto de resolución para que se emita el fallo que corresponda, respecto de las conductas no graves.
 
@@ -3137,9 +3189,13 @@ Respecto de los servidores públicos mencionados en las fracciones V a XI del ar
 
 Para el caso de las conductas graves realizadas por los servidores públicos contemplados en las fracciones I a IV del artículo 42 de la Ley; y, para atender los supuestos de remoción de Magistrados previstos en el artículo 44 de la propia Ley, se seguirá la investigación y en su caso, substanciación del Procedimiento en términos de los establecido en el artículo anterior.
 
-Una vez terminada la substanciación del procedimiento a que se refiere el párrafo anterior, el dictamen que emita el Magistrado encargado de la substanciación se someterá a los tres Magistrados restantes de la Junta que no participaron en la investigación y substanciación del asunto; y en caso de encontrar elementos la Junta deberá remitir el expediente al Pleno General del Tribunal para su resolución.
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2021)</small>
 
-Contra la resolución del Pleno General, no procederá recurso alguno
+Una vez terminada la substanciación del procedimiento a que se refiere el párrafo anterior, desahogada y concluida la audiencia inicial, el Magistrado substanciador deberá remitir el expediente al Pleno Jurisdiccional de la Sala Superior del Tribunal para su resolución.
+
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2021)</small>
+
+Contra la resolución del Pleno Jurisdiccional, no procederá recurso alguno.
 
 ### Capítulo III.
 
@@ -3221,13 +3277,25 @@ El Secretario General de Acuerdos, los Secretarios Adjuntos de Acuerdos de las S
 
 El Secretario General de Acuerdos, los Secretarios Adjuntos de Acuerdos de las Secciones, el Secretario Auxiliar de la Junta, y los Secretarios de Acuerdos de Sala Superior, de la Junta y de Sala Regional, podrán expedir constancias de documentos que obren en los expedientes de la Sala, Junta, Sección o ponencia a que estén adscritos, en términos de las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2021)</small>
+
 ###### Artículo 141.
 
-Todos los servidores públicos de confianza del Tribunal al concluir sus nombramientos o separarse de sus cargos por cualquier causa, deberán entregar a quienes los sustituyan en sus funciones, a su superior jerárquico o a quien se designe para tal efecto, los recursos financieros, humanos y materiales que tengan asignados para el ejercicio de sus atribuciones y, en su caso, los proyectos y expedientes que se les hubieren asignado.
+Todo servidor público que tenga un puesto de confianza en el Tribunal, al concluir su nombramiento o separarse de su cargo por cualquier causa, deberá entregar, en un plazo no mayor a quince días hábiles posterior a la fecha de su separación o conclusión del encargo, a quien lo sustituya en sus funciones, a su superior jerárquico o a quien este último designe para tal efecto, los recursos financieros, humanos y materiales que tenga asignados para el ejercicio de sus atribuciones y, en su caso, los proyectos, los expedientes y asuntos pendientes de atender.
 
-La entrega recepción se efectuará mediante acta administrativa en la que deberán intervenir dos testigos, pudiendo contar con la presencia de un representante designado por el Órgano Interno de Control o la Junta, debiendo remitirse, en todo caso, copia con firmas autógrafas del acta que se levante al Órgano Interno de Control. Dicha acta contendrá, según corresponda, los siguientes elementos: El marco jurídico de actuación, situación programática, presupuestaria y financiera, situación de los recursos materiales, estudios y proyectos, obra pública en proceso, situación de los recursos humanos, el informe de los asuntos a su cargo y del estado que guardan, la situación de las observaciones de visitas o auditorías en proceso de atención, informe sobre el cumplimiento de las obligaciones establecidas en la Ley General de Transparencia y Acceso a la Información Pública, así como la documentación soporte de los datos e información proporcionados.
+La entrega recepción se efectuará mediante Acta Administrativa en la que deberán intervenir dos testigos, pudiendo contar con la presencia de un representante designado por el Titular del Órgano Interno de Control o la Junta, debiendo remitir, en todo caso, copia con firmas autógrafas del acta que se levante al señalado Órgano Interno de Control. Dicha acta contendrá, según corresponda, los siguientes elementos: El marco jurídico de actuación, situación programática, presupuestaria y financiera, situación de los recursos materiales, estudios y proyectos, situación de los recursos humanos, los asuntos en trámite, el informe de los asuntos a su cargo y del estado que guardan, la situación de las observaciones de visitas o auditorías en proceso de atención, informe sobre el cumplimiento de las obligaciones establecidas en la Ley General de Transparencia y Acceso a la Información Pública, así como la documentación soporte de los datos e información referida en el acta.
 
-El servidor público saliente que omita rendir el informe de los asuntos a su cargo y del estado que guardan y no haga entrega de los recursos asignados, será requerido por el Órgano Interno de Control para que, en un plazo no mayor de quince días hábiles contados a partir de la fecha de su separación del cargo, cumpla con esta obligación. En este supuesto, el servidor público que deba recibir el informe de los asuntos y de los recursos correspondientes, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos y los recursos asignados, haciéndolo del conocimiento del Órgano Interno de Control y, en su caso, del superior jerárquico para los efectos legales que correspondan.
+Una vez formalizada el Acta de Entrega - Recepción, el servidor público de nuevo ingreso, el superior jerárquico o a quien este último designe, deberá verificar dentro de los siguientes treinta días naturales, el contenido de dicha acta y de sus anexos. Para tal efecto y durante el plazo antes señalado, el servidor público que dejó el cargo podrá ser requerido con el fin de que realice las aclaraciones y proporcione la información adicional que se le solicite, en un plazo no mayor a cinco días hábiles, a partir del día siguiente a ser notificado.
+
+La elaboración del Acta de Entrega - Recepción, de ninguna manera implica liberación alguna de responsabilidades que pudieran llegarse a determinar con posterioridad por autoridad competente.
+
+En caso de que dicha persona se negare a efectuar la aclaración o a acudir a entregar los documentos faltantes, se deberá levantar acta circunstanciada con asistencia de dos testigos, describiendo la documentación y/o la información faltante o incompleta, remitiendo un ejemplar al Órgano Interno de Control con el fin de que éste requiera al mencionado servidor público su cumplimiento o en su caso, proceda de conformidad con lo establecido en la Ley General de Responsabilidades Administrativas.
+
+Asimismo, si el servidor público que ingrese al Tribunal no procediera de conformidad con el párrafo anterior, asumirá las responsabilidades correspondientes en los términos de la ley en comento.
+
+En el caso de que el servidor público que deje el cargo por cualquier motivo no formalice el Acta de Entrega - Recepción en el plazo de quince días hábiles aludido, el superior jerárquico deberá informar tal situación al Órgano Interno de Control para que proceda conforme a sus facultades.
+
+En este supuesto, el servidor público que deba recibir el informe de los asuntos y de los recursos correspondientes, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los expedientes, asuntos y los recursos asignados, haciéndolo del conocimiento del Órgano Interno de Control y, en su caso, del superior jerárquico para los efectos legales que correspondan.
 
 ## TRANSITORIOS.
 
@@ -3282,3 +3350,11 @@ D.O.F. 7 DE OCTUBRE DE 2020.
 Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. La competencia territorial de la Sala Especializada en Juicios en Línea se irá restringiendo en la circunscripción territorial que legalmente les corresponde a las Salas Regionales que autorice la Junta de Gobierno para la tramitación y resolución de los juicios en la modalidad en línea, hasta que ésta pierda toda competencia.
+
+D.O.F. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO SS/5/2021 POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA".]
+
+Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación; asimismo publíquese en la página web del Tribunal.
+
+Segundo. Los juicios que se encuentren en trámite en el momento de la entrada en vigor de esta reforma, en la Décima Tercera Sala Regional Metropolitana, salvo los relacionados con la materia de responsabilidades administrativas de los servidores públicos, con las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y Obras Públicas y Servicios Relacionados con las mismas, se returnarán de manera aleatoria a las otras Salas Metropolitanas, a efecto de que continúen con la instrucción de los mismos hasta su resolución definitiva. Por lo anterior se deja sin efectos el artículo Décimo Quinto transitorio del Acuerdo SS/16/2020.
