@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2020-08-06"
+last_updated: "2021-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -747,9 +747,17 @@ XII. Coadyuvar en las actividades de la Escuela de Conservación y Restauración
 
 XIII. Coordinar la red de museos y coadyuvar con el Museo Trompo Mágico;
 
-XIV. Coadyuvar en las actividades de ciencia e innovación; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
 
-XV. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+XIV. Coadyuvar en las actividades de ciencia e innovación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XV. Coadyuvar, en el ámbito de su competencia, con la Secretaría de Desarrollo Económico y con el Comité Técnico del Fondo Filma en Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XVI. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ###### Artículo 21.
 
@@ -799,9 +807,17 @@ XXI. Participar en el establecimiento de la coordinación de los programas de de
 
 XXII. Elaborar, en coordinación con la Secretaría de Agricultura y Desarrollo Rural, la Secretaría de Medio Ambiente y Desarrollo Territorial, así como la Secretaría de Turismo, los programas de desarrollo de la agroindustria, silvicultura, piscicultura, acuacultura, turismo, fomento artesanal y otras actividades productivas en el Estado;
 
-XXIII. Diseñar y ejecutar, en coordinación con la Secretaría del Trabajo y Previsión social, una política pública encauzada a la generación de empleos; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
 
-XXIV. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
+XXIII. Diseñar y ejecutar, en coordinación con la Secretaría del Trabajo y Previsión social, una política pública encauzada a la generación de empleos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XXIV. Formular, dirigir, reglamentar, coordinar, gestionar y administrar la ejecución de las atribuciones, políticas y programas del desarrollo de obras cinematográficas, audiovisuales y fotográficas en sus diversas manifestaciones, así como los avisos, permisos, solicitudes, ampliaciones, prórrogas, en los términos de la Ley de Filmaciones del Estado de Jalisco y demás ordenamientos aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XXV . Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 22.
 
@@ -859,9 +875,17 @@ XIV. Promover, en el ámbito de su competencia, los principios de equidad y no d
 
 XV. Coadyuvar con las Secretarías que tengan injerencia en programas sociales, para la aplicación de los mismos en materia de su competencia;
 
-XVI. La Administración y control de las escuelas normales, las de formación, actualización, capacitación y superación profesional docente conforme a las disposiciones de las leyes generales y federales en materia educativa; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
 
-XVII. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
+XVI. La Administración y control de las escuelas normales, las de formación, actualización, capacitación y superación profesional docente conforme a las disposiciones de las leyes generales y federales en materia educativa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XVII. Coadyuvar, en el ámbito de su competencia, con la Secretaría de Desarrollo Económico y con el Comité Técnico del Fondo Filma en Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XVIII. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 24.
 
@@ -1345,9 +1369,17 @@ XXXIX. Diseñar y ejecutar políticas programas y proyectos que de manera transv
 
 XL. Diseñar y ejecutar programas para la prevención y control de la contaminación en la atmósfera, suelos y aguas, en el ámbito de su competencia, coordinándose con instancias metropolitanas según corresponda;
 
-XLI. Intervenir cuando se lo solicite la Secretaría de la Gestión Integral del Agua, en los consejos de cuenca hidrológica o grupo de cuencas hidrológicas que se encuentren constituidos por la Comisión Nacional del Agua, dentro del territorio del estado o en conjunto con otros estados; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
 
-XLII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+XLI. Intervenir cuando se lo solicite la Secretaría de la Gestión Integral del Agua, en los consejos de cuenca hidrológica o grupo de cuencas hidrológicas que se encuentren constituidos por la Comisión Nacional del Agua, dentro del territorio del estado o en conjunto con otros estados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XLII. Coadyuvar, en el ámbito de su competencia, con la Secretaría de Desarrollo Económico y con el Comité Técnico del Fondo Filma en Jalisco en Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XLIII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ###### Artículo 29.
 
@@ -1557,9 +1589,17 @@ XXII. Diseñar, conducir, coordinar y evaluar la política de reinserción socia
 
 XXIII. Controlar, vigilar y administrar los centros de reclusión del Estado;
 
-XXIV. Diseñar, conducir, coordinar y evaluar las funciones de apoyo y asistencia a reos liberados, preliberados o que deban ejecutar algún sustitutivo penal en el seno social, procurando su eficaz y pronta reinserción social; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
 
-XXV. Las demás que le otorguen otras disposiciones legales.
+XXIV. Diseñar, conducir, coordinar y evaluar las funciones de apoyo y asistencia a reos liberados, preliberados o que deban ejecutar algún sustitutivo penal en el seno social, procurando su eficaz y pronta reinserción social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XXV. Coadyuvar, en el ámbito de su competencia, con la Secretaría de Desarrollo Económico y con el Comité Técnico del Fondo Filma en Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XXVI. Las demás que le otorguen otras disposiciones legales.
 
 ###### Artículo 32.
 
@@ -1763,13 +1803,17 @@ XIX. Promover e impulsar la cultura de seguridad vial, mediante la elaboración 
 
 XX. En materia de violencia contra las mujeres, además de lo establecido en este y otros ordenamientos legales, la Secretaría se coordinará con sus homólogas de Igualdad Sustantiva entre Mujeres y Hombres y de Seguridad, para el diseño, implementación y operación de políticas públicas y programas integrales en contra de la violencia y el acoso sexual en el transporte público, en los términos de lo previsto en la fracción XXI del artículo 25 de la presente ley;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
 
-XXI. Expedir los permisos temporales para circular en las condiciones que marca la normatividad vigente en la materia; y
+XXI. Expedir los permisos temporales para circular en las condiciones que marca la normatividad vigente en la materia;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
 
-XXII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+XXII. Coadyuvar, en el ámbito de su competencia, con la Secretaría de Desarrollo Económico y con el Comité Técnico del Fondo Filma en Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
+
+XXIII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ### Capítulo V. Fiscalía Estatal
 
@@ -3052,3 +3096,39 @@ P.O. 6 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27933/LXII/20 QUE ADICIONA UN PÁRRAFO II DEL NUMERAL 2 EN EL ARTÍCULO 6 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO”.]
 
 Único. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28295/LXII/21 QUE EXPIDE LA LEY DE FILMACIONES DEL ESTADO DE JALISCO Y REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA LEY DE FOMENTO A LA CULTURA, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan las disposiciones legales y administrativas que contravengan o se opongan a este ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Se extingue el Fideicomiso denominado Comisión de Filmaciones del Estado de Jalisco, pasando todo su patrimonio, activos y obligaciones al Fondo Filma en Jalisco.
+
+###### ARTÍCULO CUARTO.
+
+El Titular del Poder Ejecutivo del Estado deberá formalizar el contrato del Fondo Filma en Jalisco bajo el esquema de Fideicomiso en los términos del presente Decreto y de las disposiciones aplicables correspondientes.
+
+###### ARTÍCULO QUINTO.
+
+El Titular del Poder Ejecutivo del Estado deberá realizar las modificaciones presupuestales necesarias a fin de dotar al Fondo Filma en Jalisco de los recursos necesarios para cumplir con lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El Titular del Poder Ejecutivo del Estado deberá expedir las disposiciones reglamentarias para el cumplimiento del presente decreto, dentro de los 90 días naturales siguientes a la entrada en vigor de esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo Estatal, a través de la Secretaría deberá expedir y publicar el Programa Estatal de Fomento, Promoción y Desarrollo de las Obras Cinematográficas, Audiovisuales y Fotográficas dentro de los 180 días naturales siguientes al inicio de la vigencia de la Ley que se expide mediante el presente decreto.
+
+###### ARTÍCULO OCTAVO.
+
+El Titular del Poder Ejecutivo del Estado, a través de la Secretaría deberá realizar las gestiones necesarias para que opere la ventanilla única de trámites conforme a la disponibilidad y suficiencia presupuestal.
