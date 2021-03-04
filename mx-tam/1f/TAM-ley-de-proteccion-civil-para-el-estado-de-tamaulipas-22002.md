@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2020-04-14"
+last_updated: "2021-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
@@ -1581,6 +1581,40 @@ En la substanciación del recurso se admitirán toda clase de pruebas, con excep
 
 La autoridad que tramite el recurso, con base en la documentación, pruebas y demás elementos existentes dictara la resolución en un termino de treinta días hábiles, contados a partir de la fecha en que fue interpuesto.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2021)</small>
+
+### CAPÍTULO VII. DE LA CULTURA DE PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### ARTICULO 106.
+
+Las autoridades estatales y municipales fomentarán la cultura en materia de protección civil entre la población, mediante su participación individual y colectiva.
+
+Las autoridades en la materia, establecerán mecanismos idóneos para que la sociedad participe en la planeación y supervisión de la protección civil, en los términos de esta Ley, su Reglamento y los demás ordenamientos aplicables. La población vulnerable y expuesta a un peligro, tiene derecho a estar informada de ello y a contar con las vías adecuadas de opinión y participación en la gestión del riesgo.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### ARTICULO 107.
+
+Corresponde a la Secretaría dictar los lineamientos generales y diseñar formas para inducir y conducir la formación de una cultura de protección civil.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### ARTICULO 108.
+
+A fin de fomentar dicha cultura, las autoridades correspondientes dentro de sus respectivos ámbitos de competencia, deberán:
+
+I.- Fomentar las actividades de protección civil;
+
+II.- Concretar el establecimiento de programas educativos a diferentes niveles académicos, que aborden en su amplitud el tema de la protección civil y la Gestión Integral de Riesgos;
+
+III.- Impulsar programas dirigidos a la población en general que le permita conocer de forma clara mecanismos de prevención y autoprotección;
+
+IV.- Elaborar, estructurar y promocionar campañas de difusión sobre temas de su competencia relacionados con la protección civil; y
+
+V.- Promover la celebración de convenios con los sectores público, social, privado y académico con el objeto de difundir la cultura de protección civil.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -1752,6 +1786,14 @@ El funcionamiento de los albergues a que se refiere el presente Decreto, se cons
 P.O. 14 DE ABRIL DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LXIV-78 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXV, RECORRIENDO EL ORDEN NATURAL DE LA SUBSECUENTE, AL ARTÍCULO 26, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-495 MEDIANTE EL CUAL SE ADICIONAN UN CAPÍTULO VII AL TÍTULO SEGUNDO, DENOMINADO “DE LA CULTURA DE PROTECCIÓN CIVIL” Y LOS ARTÍCULOS 106, 107, Y 108, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
