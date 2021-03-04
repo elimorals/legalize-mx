@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-y-servicios-relacionados-con-las-33838"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-21"
-last_updated: "2019-08-20"
+last_updated: "2021-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 21 de agosto de 2003.
 
@@ -983,11 +983,11 @@ VIII. La indicación de que no podrán participar los contratistas que se encuen
 
 IX. Los demás requisitos que deberán cumplir los interesados, según las características, complejidad y magnitud de los trabajos.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 38.
 
-Las convocatorias se publicarán en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación en el Estado o Municipio correspondiente; a su vez, se difundirán a través de los medios de difusión electrónica que establezca la Secretaría.
+Las convocatorias se publicarán en el Periódico Oficial del Estado y en los medios electrónicos de difusión que establezca la Secretaría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
@@ -1623,7 +1623,9 @@ Las autoridades competentes, en el ejercicio de sus facultades, podrán verifica
 
 Los licitantes o contratistas que infrinjan las disposiciones de esta ley serán sancionados por la Secretaría o los Ayuntamientos, de acuerdo a la naturaleza y gravedad de la falta, con multa entre la cantidad equivalente a cincuenta mil veces el valor diario de la Unidad de Medida y Actualización, en la fecha de la infracción.
 
-Los servidores públicos que infrinjan las disposiciones de esta ley serán sancionados en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
+
+Los servidores públicos que infrinjan las disposiciones de esta ley serán sancionados en los términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTÍCULO 89.
 
@@ -1671,7 +1673,9 @@ III. La resolución será debidamente fundada y motivada y se comunicará por es
 
 Los servidores públicos de las dependencias, entidades o Ayuntamientos, que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta ley o a las normas que de ella se deriven, deberán comunicarlo a las autoridades competentes.
 
-La omisión a lo dispuesto en el párrafo anterior será sancionada conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
+
+La omisión a lo dispuesto en el párrafo anterior será sancionada conforme a lo establecido en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTÍCULO 94.
 
@@ -1876,3 +1880,19 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIV-498 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 88 SEGUNDO PÁRRAFO Y 93 SEGUNDO PÁRRAFO DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, a partir del siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-504 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 38 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
