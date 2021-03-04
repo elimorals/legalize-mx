@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cambio-climatico-para-el-estado-de-tamaulipas-122184"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-20"
-last_updated: "2017-06-20"
+last_updated: "2021-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
 
 Ley publicada en el Anexo al Número 73 del Periódico Oficial del Estado Libre y Soberano de Tamaulipas, el martes 20 de junio de 2017.
 
@@ -551,9 +551,21 @@ X. Transparencia, acceso a la información y a la justicia, considerando que el 
 
 XI. Elaborar e implementar instrumentos de diagnóstico, planificación, medición, monitoreo, reporte, verificación y evaluación para las políticas públicas de cambio climático;
 
-XII. Compromiso con la economía y el desarrollo económico estatal, para lograr la sustentabilidad sin vulnerar su competitividad frente a los mercados nacionales e internacionales; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
 
-XIII. Elaborar e implementar programas de fortalecimiento de capacidades que incluyan medidas que promuevan la capacitación, educación, acceso a la información y comunicación a la población.
+XII. Compromiso con la economía y el desarrollo económico estatal, para lograr la sustentabilidad sin vulnerar su competitividad frente a los mercados nacionales e internacionales;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
+
+XIII. Elaborar e implementar programas de fortalecimiento de capacidades que incluyan medidas que promuevan la capacitación, educación, acceso a la información y comunicación a la población; y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2021)</small>
+
+XIV. Progresividad, las metas para el cumplimiento de esta Ley deberán presentar una progresión y gradualidad a lo largo del tiempo, teniendo en cuenta el principio de responsabilidades comunes pero diferenciadas y sus capacidades respectivas, a la luz de las diferentes circunstancias nacionales, y en el contexto del desarrollo sostenible y de los esfuerzos por erradicar la pobreza; asimismo, se deberá considerar la necesidad de recibir apoyos de los países desarrollados para lograr la aplicación efectiva de las medidas que se requieran para su cumplimiento; sin que represente un retroceso respecto a metas anteriores, considerando, la mejor información científica disponible y los avances tecnológicos, todo ello en el contexto del desarrollo sostenible.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+Al adoptar medidas para hacer frente al cambio climático, se deberán respetar irrestrictamente los derechos humanos, el derecho a la salud, los derechos de los pueblos indígenas, las comunidades locales, los migrantes, los niños, las personas con discapacidad y las personas en situaciones de vulnerabilidad y el derecho al desarrollo, así como la igualdad de género, el empoderamiento de la mujer y la equidad intergeneracional.
 
 #### SECCIÓN SEGUNDA. De la Adaptación
 
@@ -1364,3 +1376,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los quince días del mes de junio del año dos mil diecisiete.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIV-499 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XII Y XIII Y SE ADICIONA UNA FRACCIÓN XIV, ASÍ COMO UN PÁRRAFO SEGUNDO AL ARTÍCULO 16 DE LA LEY DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
