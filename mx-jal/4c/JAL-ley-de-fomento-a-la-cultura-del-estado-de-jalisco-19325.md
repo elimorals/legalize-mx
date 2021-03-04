@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2020-02-08"
+last_updated: "2021-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2000.
 
@@ -129,9 +129,9 @@ VI. Programa: El Programa Estatal de Cultura;
 
 VII. Programa Municipal: El Programa Municipal de Cultura;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
 
-VIII. Industria cultural: las industrias editorial, disquera, de las artes gráficas, cinematográfica, de la radio y televisión, así como todas aquellas empresas que produzcan bienes o servicios pertenecientes al campo de las artes y la cultura;
+VIII. Industria cultural: Las industrias editoriales, disquera, de las artes gráficas, de la radio y televisión, así como todas aquellas empresas que produzcan bienes o servicios pertenecientes al campo de las artes y la cultura;
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2017)</small>
 
@@ -245,13 +245,17 @@ XVII. Presentar ante el titular del Poder Ejecutivo del Estado, los proyectos de
 
 XVIII. Diseñar y operar estrategias para impulsar la creación de mecenazgos, fundaciones, patronatos y similares orientados al apoyo de creadores e intérpretes artísticos y para la conformación de acervos bibliográficos, documentales pictóricos, escultóricos, arquitectónicos, gráficos, videográficos, artesanales y afines;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
 
-XIX. Otorgar apoyos económicos para traslados nacionales e internacionales a la comunidad artística que resida en el Estado, conforme a la Ley de Austeridad y Ahorro del Estado de Jalisco y sus Municipios, en los términos de la convocatoria y las reglas de operación que emita la Secretaría de Cultura; y de acuerdo con la disponibilidad presupuestal; y
+XIX. Otorgar apoyos económicos para traslados nacionales e internacionales a la comunidad artística que resida en el Estado, conforme a la Ley de Austeridad y Ahorro del Estado de Jalisco y sus Municipios, en los términos de la convocatoria y las reglas de operación que emita la Secretaría de Cultura; y de acuerdo con la disponibilidad presupuestal;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
 
-XX. Las demás que le otorguen otros ordenamientos jurídicos aplicables.
+XX. Recibir y resguardar los ejemplares del soporte material que contenga las obras cinematográficas, audiovisuales, fotográficas, todas aquellas derivadas de éstas o análogas, realizadas total o parcialmente en la Entidad para su integración del acervo estatal, en los términos establecidos en la Ley de Filmaciones del Estado. El acervo será de consulta pública, sin fines de lucro, para fines académicos, de estudio, investigación y análogos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XX], P.O. 4 DE MARZO DE 2021)</small>
+
+XXI. Las demás que le otorguen otros ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -1172,3 +1176,37 @@ P.O. 8 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27781/LXII/19 QUE REFORMA LOS ARTÍCULOS 2°, FRACCIÓN II, 2-TER Y 6, FRACCIÓN VI, DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28295/LXII/21 QUE EXPIDE LA LEY DE FILMACIONES DEL ESTADO DE JALISCO Y REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA LEY DE FOMENTO A LA CULTURA, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan las disposiciones legales y administrativas que contravengan o se opongan a este ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Se extingue el Fideicomiso denominado Comisión de Filmaciones del Estado de Jalisco, pasando todo su patrimonio, activos y obligaciones al Fondo Filma en Jalisco.
+
+###### ARTÍCULO CUARTO.
+
+El Titular del Poder Ejecutivo del Estado deberá formalizar el contrato del Fondo Filma en Jalisco bajo el esquema de Fideicomiso en los términos del presente Decreto y de las disposiciones aplicables correspondientes.
+
+ARTÍCULO QUINTO El Titular del Poder Ejecutivo del Estado deberá realizar las modificaciones presupuestales necesarias a fin de dotar al Fondo Filma en Jalisco de los recursos necesarios para cumplir con lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El Titular del Poder Ejecutivo del Estado deberá expedir las disposiciones reglamentarias para el cumplimiento del presente decreto, dentro de los 90 días naturales siguientes a la entrada en vigor de esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo Estatal, a través de la Secretaría deberá expedir y publicar el Programa Estatal de Fomento, Promoción y Desarrollo de las Obras Cinematográficas, Audiovisuales y Fotográficas dentro de los 180 días naturales siguientes al inicio de la vigencia de la Ley que se expide mediante el presente decreto.
+
+###### ARTÍCULO OCTAVO.
+
+El Titular del Poder Ejecutivo del Estado, a través de la Secretaría deberá realizar las gestiones necesarias para que opere la ventanilla única de trámites conforme a la disponibilidad y suficiencia presupuestal.
