@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-120888
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-04-12"
-last_updated: "2021-02-04"
+last_updated: "2021-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120888&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-04-05"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE MARZO DE 2021.
 
 Estatuto publicado en la Segunda Sección al Número 8 del Diario Oficial de la Federación, el miércoles 12 de abril de 2017.
 
@@ -49,17 +49,23 @@ ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
 ## TÍTULO CUARTO. De la Estructura Corporativa
 
-### CAPÍTULO I. Estructura Básica de la Dirección General, de las Direcciones Corporativas y de la Subdirección Corporativa de Estrategia y Regulación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE MARZO DE 2021)</small>
+
+### CAPÍTULO I. Estructura Básica de la Dirección General y de las Direcciones Corporativas
 
 ### CAPÍTULO II. Funciones del Director General
 
-### CAPÍTULO III. Funciones Genéricas de las Direcciones Corporativas y de la Subdirección Corporativa de Estrategia y Regulación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE MARZO DE 2021)</small>
+
+### CAPÍTULO III. Funciones Genéricas de las Direcciones Corporativas
 
 ### CAPÍTULO IV. Funciones Genéricas de las Subdirecciones
 
 ### CAPÍTULO V. Funciones Genéricas de las Coordinaciones
 
-### CAPÍTULO VI. Funciones Específicas de las Direcciones Corporativas y de la Subdirección Corporativa de Estrategia y Regulación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE MARZO DE 2021)</small>
+
+### CAPÍTULO VI. Funciones Específicas de las Direcciones Corporativas
 
 ### CAPÍTULO VII. Funciones Específicas de las áreas adscritas a la Dirección Corporativa de Operaciones
 
@@ -73,7 +79,9 @@ ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
 ### CAPÍTULO XII. Funciones Específicas de las áreas adscritas a la Oficina del Abogado General
 
-### CAPÍTULO XIII. Funciones Específicas de las áreas adscritas a la Subdirección Corporativa de Estrategia y Regulación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE MARZO DE 2021)</small>
+
+### CAPÍTULO XIII. Funciones Específicas de las áreas adscritas a la Dirección Corporativa de Planeación Estratégica
 
 ## TÍTULO QUINTO. De las Unidades de Negocio
 
@@ -183,9 +191,13 @@ IV. Dirección Corporativa de Administración;
 
 V. Dirección Corporativa de Ingeniería y Proyectos de Infraestructura;
 
-VI. Oficina del Abogado General; y
+> <small>(REFORMADA, D.O.F. 5 DE MARZO DE 2021)</small>
 
-VII. Subdirección Corporativa de Estrategia y Regulación.
+VI. Dirección Corporativa de Planeación Estratégica
+
+> <small>(REFORMADA, D.O.F. 5 DE MARZO DE 2021)</small>
+
+VII. Oficina del Abogado General
 
 D. Unidades de Negocio:
 
@@ -403,7 +415,9 @@ El personal adscrito a la Auditoría Interna tendrá a su cargo las funciones pr
 
 ## TÍTULO CUARTO. De la Estructura Corporativa
 
-### CAPÍTULO I. Estructura básica de la Dirección General, de las Direcciones Corporativas y de la Subdirección Corporativa de Estrategia y Regulación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE MARZO DE 2021)</small>
+
+### CAPÍTULO I. Estructura básica de la Dirección General y de las Direcciones Corporativas
 
 ###### ARTÍCULO 14.
 
@@ -493,17 +507,23 @@ II. Coordinación de Estrategia Legal y Asuntos Consultivos; y
 
 III. Coordinación de Proyectos y Vinculación.
 
+> <small>(REFORMADO, D.O.F. 5 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 21.
 
-A la Subdirección de Estrategia y Regulación estarán adscritas las siguientes áreas:
+A la Dirección Corporativa de Planeación Estratégica estarán adscritas las siguientes áreas:
 
-I. Coordinación de Regulación y Estudios Estratégicos; y
+I. Coordinación de Estudios Económicos
 
-II. Coordinación de Escenarios y Análisis de Inversión.
+II. Coordinación de Planificación
+
+III. Coordinación de Evaluación
+
+> <small>(REFORMADO, D.O.F. 5 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 22.
 
-Las Direcciones Corporativas y la Subdirección Corporativa de Estrategia y Regulación contarán con los demás niveles estructurales y funciones que se establezcan en los manuales de organización respectivos.
+Las Direcciones Corporativas contarán con los demás niveles estructurales y funciones que se establezcan en los manuales de organización respectivos.
 
 ### CAPÍTULO II. Funciones del Director General
 
@@ -511,11 +531,15 @@ Las Direcciones Corporativas y la Subdirección Corporativa de Estrategia y Regu
 
 Corresponde al Director General la gestión, operación, funcionamiento y ejecución de los objetivos de la Comisión, conforme a las estrategias, políticas y lineamientos aprobados por el Consejo. Al efecto, tiene las funciones establecidas en la Ley, las que podrá ejercer por sí mismo o a través de las áreas conducentes.
 
-### CAPÍTULO III. Funciones Genéricas de las Direcciones Corporativas y de la Subdirección Corporativa de Estrategia y Regulación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE MARZO DE 2021)</small>
+
+### CAPÍTULO III. Funciones Genéricas de las Direcciones Corporativas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 24.
 
-A cargo de cada Dirección Corporativa y de la Oficina del Abogado General habrá un Director Corporativo. La Subdirección Corporativa de Estrategia y Regulación estará a cargo de un Subdirector. Los Directores Corporativos y el Subdirector, en el ámbito de sus respectivas áreas, tendrán las funciones siguientes:
+A cargo de cada Dirección Corporativa y de la Oficina del Abogado General habrá un Director Corporativo. Los Directores Corporativos, en el ámbito de sus respectivas áreas, tendrán las funciones siguientes:
 
 I. Transmitir los poderes que le otorgue el Director General y revocar los que hubiere otorgado conforme a lo dispuesto por esta fracción;
 
@@ -597,7 +621,9 @@ VII. Llevar a cabo sus actividades y desempeñar sus funciones conforme a las di
 
 VIII. Las demás funciones que les confieran el Consejo, el Director General, el Director o Subdirector correspondiente, el presente Estatuto, los manuales de organización respectivos y los ordenamientos aplicables.
 
-### CAPÍTULO VI. Funciones Específicas de las Direcciones Corporativas y de la Subdirección Corporativa de Estrategia y Regulación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE MARZO DE 2021)</small>
+
+### CAPÍTULO VI. Funciones Específicas de las Direcciones Corporativas
 
 ###### ARTÍCULO 27.
 
@@ -779,23 +805,47 @@ XIV. Participar con asistencia jurídica en la adquisición por vía de derecho 
 
 XV. (DEROGADA, D.O.F. 13 JUNIO DE 2019)
 
+> <small>(REFORMADO, D.O.F. 5 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 33.
 
-A la Subdirección de Estrategia y Regulación le corresponden, además de las funciones genéricas señaladas en el presente Estatuto, las siguientes:
+A la Dirección Corporativa de Planeación Estratégica le corresponden, además de las funciones genéricas señaladas en el presente Estatuto, las siguientes:
 
-I. Proyectar escenarios alternos de evolución de la demanda de energía eléctrica y del mercado eléctrico;
+I. Participar en la integración del anteproyecto del Plan de Negocios de la Comisión, que contenga su planeación, objetivos estratégicos y visión;
 
-II. Analizar y evaluar el marco regulatorio que impacte a la Comisión, sus empresas productivas subsidiarias y, en su caso, empresas filiales;
+II. Desarrollar los estudios de análisis sobre los mercados internacional y nacional de energéticos y coadyuvar en la formulación de programas del sector energético;
 
-III. Analizar el impacto regulatorio respecto de las actividades relacionadas con el objeto de la Comisión, sus empresas productivas subsidiarias y, en su caso, empresas filiales;
+III. Establecer los mecanismos para la actualización de los principales parámetros técnicos, económicos, costos de inversión, de combustibles y de operación y mantenimiento, de las diversas tecnologías de generación, así como a los costos típicos de inversión de obras de transmisión y transformación;
 
-IV. Analizar los indicadores de desempeño en la Comisión, sus empresas productivas subsidiarias y, en su caso, empresas filiales;
+IV. Coordinar los escenarios de evolución macroeconómicos, financieros, de la oferta y demanda de energía eléctrica, de combustibles y del mercado eléctrico, para el proceso de planeación de la Comisión;
 
-V. Instrumentar el sistema de información energética de la Comisión;
+V. Proponer la planeación de la estrategia de expansión de la Comisión en materia de generación, transmisión y distribución de corto, mediano y largo plazos en el mercado eléctrico;
 
-VI. Coordinar las actividades para la preparación de la estrategia de expansión de generación, transmisión y distribución de largo plazo en el Mercado Eléctrico Mayorista; y
+VI. Proponer anualmente la estrategia global de inversiones de la Comisión, sus empresas productivas subsidiarias, Unidades de Negocio y, en su caso, empresas filiales;
 
-VII. Preparar la estrategia de evolución de indicadores estratégicos de la Comisión, sus empresas productivas subsidiarias y en su caso, empresas filiales.
+VII. Coordinar la evaluación económica de los Proyectos y Programas de Inversión de Gran Magnitud de infraestructura eléctrica e iniciativas definidos en el Programa Anual de Inversiones de la Comisión y coadyuvar con la Dirección Corporativa de Finanzas para gestionar su autorización ante las autoridades correspondientes;
+
+VIII. Participar en la integración de los Proyectos y Programas de Inversión de Gran Magnitud de infraestructura eléctrica e iniciativas de inversión de la Comisión, sus empresas productivas subsidiaras, Unidades de Negocio, y en su caso empresas filiales, establecidos en los criterios y metodologías aplicables del Mecanismo de Planeación de la CFE;
+
+IX. Presentar los análisis costo beneficio de los Proyectos y Programas de Inversión a la Secretaría de Energía y a la Secretaría de Hacienda y Crédito Público, en coordinación con la Dirección Corporativa de Finanzas, para su autorización y en su caso, inclusión en el Presupuesto de Egresos de la Federación;
+
+X. Dirigir el proceso de medición del desempeño como elemento de seguimiento a la estrategia de la Comisión sus empresas productivas subsidiarias, Unidades de Negocio y, en su caso, empresas filiales;
+
+XI. Analizar y evaluar el impacto de los riesgos estratégicos para el cumplimiento de los objetivos estratégicos y visión de la Comisión;
+
+XII. Coordinar la evaluación del marco regulatorio y su impacto, respecto de las actividades relacionadas con el objeto de la Comisión, sus empresas productivas subsidiarias y, en su caso, empresas filiales, para proponer la estrategia de gestión regulatoria que garantice la participación en el mercado eléctrico en igualdad de condiciones;
+
+XIII. Coordinar con las empresas productivas subsidiarias los análisis y las propuestas a la Secretaría de Hacienda y Crédito Público, la Secretaría de Energía y a la Comisión Reguladora de Energía, para el ajuste, modificación y reestructuración de las tarifas reguladas del servicio público de Transmisión y Distribución; así como de la Tarifa Final de Suministro Básico;
+
+XIV. Coadyuvar con la Secretaría de Energía, el Centro Nacional de Control de Energía y otras áreas de la Comisión, en la elaboración de los escenarios económicos de corto, mediano y largo plazos, de consumo de electricidad y de precios de combustibles, insumos necesarios para la planificación del Sistema Eléctrico Nacional y de la infraestructura de la Comisión, sus empresas productivas subsidiarias, Unidades de Negocio, y en su caso empresas filiales;
+
+XV. Dirigir las actividades para Instrumentar el sistema de información energética de la Comisión;
+
+XVI. Dirigir y coordinar a través de la Comisión Directiva de Planeación Estratégica y junto con la Dirección Corporativa de Finanzas, la elaboración de los informes para el cumplimiento de las obligaciones que por Ley debe presentar la Comisión a las diferentes instancias internas y externas, sobre Programas y Proyectos de inversión, de corto, mediano y largo plazos, de sus empresas productivas subsidiarias, Unidades de Negocio y en su caso, empresas filiales;
+
+XVII. Dirigir a través de la Comisión Directiva de Planeación Estratégica el análisis de riegos del proceso de planeación Institucional, emitiendo opiniones a la Dirección General de la Comisión, para coadyuvar en la sustentabilidad de las estrategias y el fortalecimiento de la Comisión;
+
+XVIII. La Comisión Directiva de Planeación Estratégica deliberará, previa consulta de las Direcciones del Corporativo, Unidades de Negocio, empresas productivas subsidiarias y/o empresas filiales, respecto de la Estrategia que se adoptará en la Comisión y actualizará en su Plan de Negocios y, en su caso, emitirá los criterios generales que representen la mejor alternativa para la Comisión en base a las evaluaciones y datos disponibles, de forma que la Comisión se posicione como pilar del Desarrollo Nacional y se fortalezca en el cumplimiento de la Política Energética y el Plan Nacional de Desarrollo, así como en el objeto por el que fue creada la Comisión.
 
 ### CAPÍTULO VII. Funciones Específicas de las áreas adscritas a la Dirección Corporativa de Operaciones
 
@@ -1155,33 +1205,85 @@ III. Coordinar la asistencia jurídica en la adquisición por vía de derecho p�
 
 IV. Las demás que le confiera el Abogado General, el Manual de Organización respectivo y los ordenamientos aplicables.
 
-### CAPÍTULO XIII. Funciones Específicas de las áreas adscritas a la Subdirección de Estrategia y Regulación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE MARZO DE 2021)</small>
+
+### CAPÍTULO XIII. Funciones Específicas de las áreas adscritas a la Dirección Corporativa de Planeación Estratégica
+
+> <small>(REFORMADO, D.O.F. 5 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 54.
 
-A la Coordinación de Regulación y Estudios Estratégicos, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden las siguientes:
+A la Coordinación de Estudios Económicos le corresponden, además de las funciones genéricas señaladas en el presente Estatuto, las siguientes:
 
-I. Analizar el marco regulatorio que impacte a la Comisión, sus empresas productivas subsidiarias y, en su caso, empresas filiales;
+I. Elaborar los escenarios de evolución macroeconómicos, financieros, de la oferta y demanda de energía eléctrica, de combustibles y del mercado eléctrico, para el proceso de planeación de la Comisión;
 
-II. Analizar el impacto regulatorio respecto de las actividades relacionadas con el objeto de la Comisión, sus empresas productivas subsidiarias y, en su caso, empresas filiales;
+II. Analizar los mercados de energéticos internacional y nacional, con el objeto de coadyuvar en la formulación de la planeación estratégica de la Comisión, sus empresas productivas subsidiarias, Unidades de Negocio y en su caso, empresas filiales;
 
-III. Implementar el sistema de información energética de la Comisión; y
+III. Coordinar e integrar con la participación de las empresas productivas subsidiarias los análisis y las propuestas a enviarse a la Secretaría de Hacienda y Crédito Público, la Secretaría de Energía y a la Comisión Reguladora de Energía, a fin de contribuir en el ajuste, modificación y reestructuración de las tarifas reguladas del servicio público de Transmisión y Distribución; así como de la Tarifa Final de Suministro Básico;
 
-IV. Asesorar en materia de regulación a las empresas productivas subsidiarias y empresas filiales.
+IV. Elaborar los estudios estratégicos del entorno internacional de la industria energética que sirvan de elemento comparativo a las estrategias adoptadas por la Comisión, sus empresas productivas subsidiarias, Unidades de Negocio y empresas filiales;
+
+V. Participar en la integración del anteproyecto del Plan de Negocios de la Comisión que contenga la planeación, objetivos estratégicos y visión de la Comisión;
+
+VI. Analizar el impacto de los riesgos económicos para el cumplimiento de los objetivos estratégicos y visión de la Comisión; y
+
+VII. Coadyuvar en el análisis del marco regulatorio y su impacto, respecto de los estudios realizados al entorno económico internacional y nacional.
+
+> <small>(REFORMADO, D.O.F. 5 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 55.
 
-A la Coordinación de Escenarios y Análisis de Inversión, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden las siguientes:
+A la Coordinación de Planificación le corresponden, además de las funciones genéricas señaladas en el presente Estatuto, las siguientes:
 
-I. Proponer escenarios alternos de evolución de la demanda de energía eléctrica y del mercado eléctrico;
+I. Proponer la expansión de la Comisión en materia de infraestructura eléctrica de la generación y de la Red Nacional de Transmisión de corto, mediano y largo plazos en el entorno de la industria eléctrica en coordinación con las empresas productivas subsidiarias, Unidades de Negocio y, en su caso empresas filiales;
 
-II. Analizar escenarios y proyecciones de largo plazo sobre la evolución del Mercado Eléctrico Mayorista, en relación con las actividades de la Comisión;
+II. Proponer escenarios base y alternos de planificación de la infraestructura eléctrica de mediano y largo plazos, en función de la evolución de la demanda de energía eléctrica, de los combustibles y del mercado eléctrico;
 
-III. Proponer a las áreas correspondientes proyectos y programas de inversión;
+III. Analizar escenarios y proyecciones de mediano y largo plazos sobre la evolución de la demanda y consumo de electricidad, para evaluar el impacto en la expansión de la generación, Red Nacional de Transmisión y Redes Generales de Distribución;
 
-IV. Realizar la medición del desempeño empresarial en la Comisión, sus empresas productivas subsidiarias y, en su caso, empresas filiales; y
+IV. Analizar el entorno de la competencia en el mercado eléctrico nacional;
 
-V. Preparar la estrategia de evolución de indicadores estratégicos de la Comisión, sus empresas productivas subsidiarias y, en su caso, empresas filiales.
+V. Elaborar los dictámenes técnicos de las propuestas de Proyectos y Programas de Inversión de Gran Magnitud de infraestructura eléctrica de generación, de la Red Nacional de Transmisión y Redes Generales de Distribución;
+
+VI. Calcular la rentabilidad económica exante de los Proyectos y Programas de Inversión de Gran Magnitud de infraestructura eléctrica de generación y de la Red Nacional de Transmisión;
+
+VII. Elaborar la evaluación técnica económica para los documentos de análisis costo beneficio de los Proyectos y Programas de Inversión de Gran Magnitud de infraestructura eléctrica de generación y de la Red Nacional de Transmisión;
+
+VIII. Analizar las nuevas tecnologías aplicables a la industria eléctrica y su impacto en la confiabilidad del Sistema Eléctrico Nacional;
+
+IX. Elaborar el análisis de nuevas tecnologías, de los Costos y Parámetros de Referencia de generación y de transmisión;
+
+X. Coadyuvar anualmente en la integración del anteproyecto del Plan de Negocios de la Comisión que contenga la planeación, objetivos estratégicos y visión de la Comisión;
+
+XI. Analizar el impacto de los riesgos asociados a la expansión de la infraestructura y sus efectos en el Mercado Eléctrico Mayorista de largo plazo para el cumplimiento de los objetivos estratégicos y visión de la Comisión; y
+
+XII. Coadyuvar en el análisis del marco regulatorio y su impacto de los estudios técnicos de proyectos considerandos (sic) para la expansión de la infraestructura eléctrica de la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 5 DE MARZO DE 2021)</small>
+
+ARTÍCULO 55 BIS.- A la Coordinación de Evaluación le corresponden, además de las funciones genéricas señaladas en el presente Estatuto, las siguientes, mismas que deberán realizarse en coordinación con la Dirección Corporativa de Finanzas:
+
+I. Calcular la rentabilidad financiera exante de los proyectos de generación, su red de interconexión y obras de refuerzo asociadas;
+
+II. Participar en la integración del Programa de Inversiones de la CFE, sus empresas productivas subsidiarias, Unidades de Negocio y en su caso empresas filiales, para presentar el informe anual sobre el desempeño de la Comisión;
+
+III. Coadyuvar en la priorización de los Proyectos y Programas de Inversión de Gran Magnitud de infraestructura eléctrica acorde con la estrategia y visión de la Comisión;
+
+IV. Integrar los Costos y Parámetros de Referencia de las diversas tecnologías de generación y de las obras de la Red Nacional de Transmisión;
+
+V. Revisar los Casos de Negocio de los Proyectos y Programas de Inversión de Gran Magnitud de infraestructura eléctrica de generación, de la Red Nacional de Transmisión y Redes Generales de Distribución;
+
+VI. Participar en la integración del Mecanismo de Planeación de los Proyectos y Programas de Inversión de corto, mediano y largo plazos para su presentación al Consejo;
+
+VII. Proponer esquemas de actualización anualmente de la estrategia global de inversiones de la Comisión, sus empresas productivas subsidiarias, Unidades de Negocio; y en su caso, empresas filiales;
+
+VIII. Coadyuvar anualmente en la integración del anteproyecto del Plan de Negocios de la Comisión que contenga la planeación, objetivos estratégicos y visión de la Comisión;
+
+IX. Analizar el impacto de los riesgos financieros para el cumplimiento de los objetivos estratégicos y visión de la Comisión;
+
+X. Coadyuvar en el análisis del marco regulatorio y su impacto de los Proyectos y Programas de Inversión de la Comisión, sus empresas productivas subsidiarias y en su caso, empresas filiales; y
+
+XI. Preparar los informes de seguimiento al cumplimiento de las obligaciones que por Ley debe presentar la Comisión a las diferentes instancias internas y externas, sobre Programas y Proyectos de inversión, de corto, mediano y largo plazos, de sus empresas productivas subsidiarias, Unidades de Negocio y en su caso, empresas filiales.
 
 ## TÍTULO QUINTO. De las Unidades de Negocio
 
@@ -1355,9 +1457,11 @@ El Abogado General y la instancia colegiada habilitarán en sus acuerdos y resol
 
 En su ausencia, el Director General será suplido por el Director Corporativo de Operaciones; por el Director Corporativo de Finanzas y por el Abogado General, en ese orden, o en su caso, por el Director Corporativo que el Director General designe.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 79.
 
-Los Directores Corporativos y el Subdirector Corporativo de Estrategia y Regulación serán suplidos, indistintamente, por los Subdirectores, Coordinadores o Gerentes que de ellos dependan.
+Los Directores Corporativos serán suplidos, indistintamente, por los Subdirectores, Coordinadores o Gerentes que de ellos dependan.
 
 Los Subdirectores y los Coordinadores serán suplidos, indistintamente, por quien ejerza la función del nivel inmediato inferior que de ellos dependan.
 
@@ -1460,3 +1564,9 @@ D.O.F. 4 DE FEBRERO DE 2021.
 Primero.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- En tanto se formaliza la creación de la Subdirección de Contratación y Servicios y ésta entra en operación, las actividades relacionadas con el desarrollo de procedimientos de contratación en las materias de adquisiciones, arrendamientos y servicios y de obras y servicios relacionados, se continuarán realizando por las unidades administrativas que, previo a la entrada en vigor de estas modificaciones, sean responsables de las mismas.
+
+D.O.F. 5 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DE LAS “MODIFICACIONES AL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD”.]
+
+ÚNICO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
