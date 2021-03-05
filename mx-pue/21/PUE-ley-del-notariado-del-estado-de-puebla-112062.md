@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-del-estado-de-puebla-112062"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2018-07-27"
+last_updated: "2021-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 5 DE MARZO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2021 (ABROGADA).
 
 Ley publicada en la Vigésima Novena Sección del Periódico Oficial del Estado de Puebla, el jueves 31 de diciembre de 2015.
 
@@ -2128,3 +2130,29 @@ P.O. 27 DE JULIO DE 2018.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 5 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DEL NOTARIADO PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente (sic) su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se abroga la Ley del Notariado del Estado de Puebla, publicada en el Periódico Oficial del Estado de Puebla el 31 de diciembre de 2015.
+
+TERCERO. Para la correcta implementación de la presente Ley, las autoridades notariales, el notariado y las instituciones de la función notarial tendrán un plazo de 180 días naturales a partir de la entrada en vigor de la presente Ley, para realizar las adecuaciones y gestiones pertinentes.
+
+CUARTO. Las personas titulares de las Notarías del Estado de Puebla podrán seguir utilizando los sellos que actualmente utilizan, para el desempeño de su función sin necesidad de cambiarlos con motivo de la presente Ley, en el entendido de que cuando se actualice cualesquiera de los supuestos por los cuales deba generarse un nuevo sello, éste deberá ajustarse a los términos de esta Ley.
+
+QUINTO. Las patentes que en su momento fueron expedidas en favor de los actuales titulares de las Notarías del Estado de Puebla mantendrán su vigencia y efectos y tendrán el carácter de permanentes y vitalicias, sin necesidad de reexpedirlas, siempre y cuando no se actualicen los supuestos de cesación del ejercicio de la función notarial.
+
+SEXTO. Se respetarán los derechos adquiridos y todos los asuntos y trámites iniciados durante la vigencia de la Ley del Notariado que se abroga; serán válidos y seguirán su tramitación conforme a las disposiciones anteriores que les sean aplicables hasta su conclusión.
+
+SÉPTIMO. El único medio de acceso al notariado es el examen de oposición, las personas nombradas como Notarios Auxiliares, guardarán dicha posición y para efecto de lograr ser notario titular, será por medio de examen de oposición.
+
+OCTAVO. El reglamento de la presente Ley deberá expedirse en un plazo de 120 días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+NOVENO. Respecto de la actualización del arancel que estará vigente para el año 2022 y los años subsecuentes, los tres últimos párrafos del artículo 15 de esta Ley entrarán en vigor el primero de septiembre de 2021. La actualización del arancel que estará vigente para el año 2021, se deberá presentar y calcular tal y como lo establece el artículo 157 de la Ley que se abroga.
+
+DÉCIMO. Se suspenden los procedimientos respecto de solicitudes de inicio y conclusión de prácticas notariales; las de solicitud de exámenes de aspirantes y las de oposición si las hubiere.
+
+También se suspenden los procedimientos iniciados al amparo de los artículos 62, 143, 147 y 152 de la Ley que se abroga hasta en tanto entre en vigor esta nueva Ley, en razón de ello, se tendrán que ajustar a lo previsto por esta.
