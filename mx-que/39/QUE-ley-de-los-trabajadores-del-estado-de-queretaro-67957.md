@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-del-estado-de-queretaro-67957"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2020-01-17"
+last_updated: "2021-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -1029,37 +1029,41 @@ El derecho a la jubilación y a la pensión por vejez o muerte, nace cuando el t
 
 Los trabajadores que teniendo derecho a una jubilación o a una pensión por vejez, llegasen a fallecer, sus beneficiarios tendrán derecho a recibir la pensión por muerte, mediante los requisitos y procedimientos que señala esta Ley.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2021)</small>
+
+En todo momento se deberán respetar los convenios laborales, en los supuestos que favorezcan a los trabajadores, tanto en solicitudes de jubilaciones como de pensiones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2021)</small>
 
 ###### Artículo 127.
 
-Todo trabajador que cumpla con los requisitos para obtener su jubilación o pensión por vejez, así como los beneficiarios que cumplan con los requisitos para obtener la pensión por muerte, de acuerdo al orden establecido en el artículo 144, podrán solicitar la prejubilación o prepensión al titular de recursos humanos u órgano administrativo correspondiente.
+Todo trabajador que cumpla con los requisitos para obtener su jubilación o pensión por vejez, así como los beneficiarios que cumplan con los requisitos para obtener la pensión por muerte, de acuerdo al orden establecido en el artículo 144, podrán iniciar su trámite ante la Oficialía Mayor o su equivalente del ente público que corresponda.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2012)</small>
 
 Toda fracción de más de seis meses de servicios, se considerará como año completo para los efectos del otorgamiento de la jubilación.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2021)</small>
+
 ###### Artículo 128.
 
-La prejubilación o prepensión se entenderá como la separación de las labores del trabajador que cumple con los requisitos para jubilarse o pensionarse, en el que se pagará el ciento por ciento del sueldo y quinquenio mensuales en el caso de jubilación o en su caso el porcentaje que corresponda tratándose de pensión.
+La autorización de la jubilación o pensión de que se trate se emitirá, mediante dictamen, por la Oficialía Mayor o su equivalente del ente público que corresponda, dentro del plazo a que hace referencia la fracción III del artículo 132 Bis de esta Ley, plazo en el cual el trabajador tendrá derecho a que se le sigan cubriendo su salario y demás prestaciones.
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+La pensión por muerte se entenderá como el derecho de los beneficiarios a la continuidad inmediata después del fallecimiento del trabajador jubilado o pensionado, del pago de las percepciones que le eran cubiertas o, en su caso, de los que, no teniendo dicha calidad, hayan cumplido con los requisitos que la ley establece para obtener su derecho de jubilación o pensión por vejez.
 
-La prepensión por muerte, se entenderá como el derecho de los beneficiarios a la continuidad inmediata después del fallecimiento del trabajador jubilado o pensionado, del pago de las percepciones que le eran cubiertas o en su caso, de los que no teniendo dicha calidad, hayan cumplido con los requisitos que la ley establece para obtener su derecho de jubilación o pensión por vejez.
+Los pagos a que se refieren los párrafos anteriores se realizarán a partir del momento en que sea presentada la solicitud y hasta el momento en que surta efectos la publicación del dictamen por el que se autoriza la jubilación, pensión por vejez o pensión por muerte, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
-
-Los pagos a que se refieren los párrafos anteriores, se realizarán a partir del momento en que sea otorgada la prejubilación o prepensión por vejez o muerte y hasta el momento en que surta efectos la publicación del decreto de jubilación, pensión por vejez o pensión por muerte en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2021)</small>
 
 ###### Artículo 129.
 
-El tiempo que dure la prejubilación o prepensión por vejez no se computara para efectos de antigüedad del trabajador. Cuando ocurra el supuesto establecido en el artículo 151 de la presente Ley, se computará excepcionalmente, sólo que la no aprobación se dé por causas imputables a la entidad donde prestó los servicios.
+El tiempo que dure el trámite de autorización de la jubilación o pensión por vejez no se computará para efectos de antigüedad del trabajador. Cuando ocurra el supuesto establecido en el artículo 151 de la presente Ley, se computará excepcionalmente, sólo que la no aprobación se dé por causas imputables al ente donde prestó los servicios.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2021)</small>
 
 ###### Artículo 130.
 
-La Legislatura del Estado, por conducto del Pleno, resolverá sobre solicitudes de pensión o jubilación conforme a lo establecido en la presente Ley y demás normatividad aplicable.
+La Oficialía Mayor o su equivalente del ente público que corresponda, deberán resolver sobre las solicitudes de pensión o jubilación conforme a lo establecido en la presente Ley y demás normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
@@ -1081,19 +1085,29 @@ Para efecto de garantizar la veracidad y transparencia de la información del tr
 
 Los titulares de las oficialías mayores o equivalentes de los entes públicos, estarán obligados a compartir entre sí, la información del Registro de Antigüedad Laboral a su cargo, y a expedir, bajo su más estricta responsabilidad, las constancias que le sean solicitados por los entes públicos.
 
-Para proceder a enviar el expediente de petición de jubilación o pensión a la Legislatura, se deberá cumplir con el procedimiento siguiente:
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2021)</small>
 
-I. El trabajador deberá presentar su solicitud de pensión o jubilación ante la Oficialía Mayor o su equivalente del ente público ante el cual realice su trámite.
+Para dar inicio al trámite de otorgamiento de jubilación o pensión, se deberá cumplir con el procedimiento siguiente:
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2021)</small>
+
+I. El trabajador deberá presentar su solicitud de pensión o jubilación ante la Oficialía Mayor o su equivalente del ente público que corresponda, ante el cual realice su trámite. Para el caso de pensión por muerte, la solicitud se presentará por los beneficiarios, en el orden que señala el artículo 144 de esta Ley.
 
 II. La Oficialía Mayor o su equivalente del ente público que corresponda, deberá integrar el expediente con la solicitud y demás documentación con que cuente en sus archivos, y en el Registro de Antigüedad Laboral, relacionada con dicho trabajador.
 
-III. Integrado el expediente, el titular de la Oficialía Mayor o su equivalente del ente público que corresponda, bajo su absoluta responsabilidad, una vez comprobado que el trabajador cumple con todos los requisitos de esta Ley para acceder a su pensión o jubilación, emitirá dictamen favorable el cual formará parte del expediente que se remitirá a la Legislatura para que ésta, en términos de la presente Ley, emita el Decreto correspondiente.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2021)</small>
 
-Para el caso de que el trabajador no cumpla con los requisitos para que se le conceda la pensión, la Oficialía Mayor o su equivalente del ente público que corresponda, rechazará la solicitud respectiva al trabajador. En este caso, se le informará al trabajador.
+III. Integrado el expediente, el titular de la Oficialía Mayor o su equivalente del ente público que corresponda, bajo su absoluta responsabilidad, una vez comprobado que el trabajador cumple con todos los requisitos de esta Ley para acceder a su pensión o jubilación, emitirá dictamen favorable, dentro de los diez días hábiles siguientes a la presentación de la solicitud, el cual formará parte del expediente.
 
-IV. Previo al dictamen definitivo, la Legislatura emitirá un proyecto de dictamen que contenga, con base en la información que contiene el Registro de Antigüedad Laboral, entre otra, como mínimo, el nombre del trabajador, su antigüedad, el salario base de la pensión, los entes públicos y periodos en los cuales prestó sus servicios. Este proyecto deberá publicarse en la página de Internet de la Legislatura, por un periodo no menor de quince días naturales, a efecto de que cualquier persona física o moral que tenga observaciones al mismo, por escrito las haga del conocimiento de la Legislatura y se proceda a su análisis correspondiente.
+Para el caso de que el trabajador, o beneficiarios en caso de pensión por muerte, no cumplan con los requisitos para que se le conceda la jubilación o pensión, la Oficialía Mayor o su equivalente del ente público que corresponda, rechazará la solicitud respectiva. En este caso, se le notificará al interesado el dictamen respectivo.
 
-V. La Legislatura una vez realizado el estudio de las observaciones a que se hace referencia en la fracción anterior, o si no hubo observaciones planteadas sobre el proyecto de dictamen, emitirá el dictamen definitivo, fundado y motivado.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2021)</small>
+
+IV. Previo al dictamen definitivo, la Oficialía Mayor o su equivalente del ente público que corresponda, emitirá un proyecto de dictamen que contenga, con base en la información que contiene el Registro de Antigüedad Laboral, entre otra, como mínimo, el nombre del trabajador, su antigüedad, el salario base de la pensión, los entes públicos y periodos en los cuales prestó sus servicios. Este proyecto deberá publicarse en la página de Internet del ente público de que se trate, por un periodo no menor a cinco días naturales, a efecto de que cualquier persona física o moral que tenga observaciones al mismo, por escrito las haga del conocimiento de la mencionada Oficialía Mayor o su equivalente del ente público que corresponda y se proceda a su análisis correspondiente.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2021)</small>
+
+V. La Oficialía Mayor o su equivalente del ente público que corresponda, una vez realizado el estudio de las observaciones a que se hace referencia en la fracción anterior, o si no hubo observaciones planteadas sobre el proyecto de dictamen, emitirá el dictamen definitivo, fundado y motivado, dentro del plazo señalado en la fracción III de este artículo.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
@@ -1117,11 +1131,11 @@ Los trabajadores están exentos de toda cotización en lo referente a jubilació
 
 ### Capítulo Segundo. De la jubilación
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2021)</small>
 
 ###### Artículo 136.
 
-Tienen derecho a la jubilación los trabajadores con treinta años de servicios, en los términos de esta Ley, una vez cumplidos sesenta años de edad.
+Tienen derecho a la jubilación los trabajadores con treinta años de servicios, en los términos de esta Ley.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
@@ -1131,7 +1145,9 @@ La jubilación dará derecho al pago de una cantidad equivalente al promedio de 
 
 > <small>(DEROGADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-El monto máximo de la jubilación posible será el equivalente a cuarenta y dos mil pesos mensuales.
+> <small>(REFORMADO, P .O. 5 DE MARZO DE 2021)</small>
+
+El monto mensual máximo de la jubilación posible será el equivalente a quinientas setenta y cinco veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 138.
 
@@ -1181,11 +1197,11 @@ X. 28 años de servicios 90%; o
 
 XI. 29 años de servicios 95%.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2021)</small>
 
 ###### Artículo 142.
 
-La pensión por vejez en ningún caso podrá ser inferior al salario mínimo vigente que corresponda en el momento de otorgar la pensión, ni superior a cuarenta y dos mil pesos mensuales.
+La pensión mensual por vejez en ningún caso podrá ser inferior al salario mínimo vigente que corresponda en el momento de otorgar la pensión, ni superior a quinientas setenta y cinco veces el valor diario de la Unidad de Medida y Actualización.
 
 A los trabajadores que perciban una remuneración superior al salario mínimo, la pensión que se les otorgue no excederá del 95 por ciento de su sueldo.
 
@@ -1239,9 +1255,9 @@ V. Si el trabajador tenía de 20 años 1 día a 25 años laborados, 90% del sala
 
 VI. Si el trabajador tenía de 25 años 1 día y hasta antes de cumplir 30 años laborados, 95% del salario.
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2021)</small>
 
-En el supuesto establecido en el presente artículo, los beneficiarios, de acuerdo al orden establecido, podrán gozar del derecho a la prepensión por muerte en términos del párrafo segundo del artículo 128 y demás disposiciones de la presente Ley.
+En el supuesto establecido en el presente artículo, los beneficiarios, de acuerdo al orden establecido, podrán gozar del derecho a tramitar la pensión por muerte en términos del párrafo segundo del artículo 128 y demás disposiciones de la presente Ley.
 
 ### Capítulo Quinto. Del trámite de la jubilación y pensiones
 
@@ -1269,7 +1285,9 @@ a) Constancia de antigüedad y de ingresos, expedida por el Titular del área en
 
 7. En su caso, el convenio elevado a laudo ante el Tribunal de Conciliación y Arbitraje, siempre que el mismo no reconozca derechos no adquiridos.
 
-b) Solicitud por escrito de jubilación o pensión por vejez del trabajador, dirigida al titular de la entidad correspondiente, para su posterior remisión a la Legislatura;
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2021)</small>
+
+b) Solicitud por escrito de jubilación o pensión por vejez del trabajador, dirigida al titular de la entidad correspondiente;
 
 c) Dos últimos recibos de pago del trabajador;
 
@@ -1279,9 +1297,9 @@ e) Dos fotografías tamaño credencial;
 
 f) Copia certificada de la identificación oficial;
 
-g) Oficio que autoriza la prejubilación o prepensión por vejez; y
+g) (DEROGADO, P.O. 5 DE MARZO DE 2021)
 
-h) En el caso de los trabajadores al servicio de los municipios del Estado de Querétaro, acuerdo de cabildo que autorice realizar el trámite de la jubilación o pensión por vejez ante la Legislatura del Estado.
+h) (DEROGADO, P.O. 5 DE MARZO DE 2021)
 
 II. Pensión por muerte:
 
@@ -1323,27 +1341,13 @@ h) Para el caso de que el beneficiario del trabajador sea el concubino o concubi
 
 i) Para el caso de los beneficiarios de trabajadores de los Municipios, copia certificada del acuerdo de cabildo mediante el cual se le reconoce como beneficiario y se aprueba iniciar el trámite de la pensión por muerte.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2021)</small>
 
 ###### Artículo 148.
 
-La Oficialía Mayor o equivalente del ente público que corresponda, deberá verificar que el trabajador o beneficiarios reúnan los requisitos para solicitar el otorgamiento de la jubilación, pensión por vejez o pensión por muerte.
+La Oficialía Mayor o el equivalente del ente público que corresponda, verificará que el trabajador o sus beneficiarios reúnan los requisitos para solicitar el otorgamiento de la jubilación, pensión por vejez o pensión por muerte.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
-
-En el caso de la jubilación o pensión por vejez o pensión por muerte, emitirá, en un plazo no mayor a quince días hábiles siguientes a la solicitud del trabajador o beneficiarios de la pensión por muerte, el oficio mediante el cual se informa al jefe inmediato, al trabajador o beneficiario, el resultado de la solicitud de prejubilación o prepensión por vejez o prepensión por muerte, según corresponda, lo anterior previa revisión de los documentos que integran el expediente referido en la presente Ley.
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
-
-Una vez otorgada la prejubilación o prepensión por vejez o prepensión por muerte e integrado debidamente el expediente, el titular de recursos humanos u órgano administrativo, lo remitirá, dentro de los diez días hábiles siguientes, a la Legislatura del Estado para que resuelva de conformidad con lo señalado en la presente Ley.
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
-
-En el supuesto de la negativa del otorgamiento de la prejubilación o de la prepension, los funcionarios referidos en el párrafo anterior, según el caso, emitirán acuerdo en el que funden y motiven la causa de la misma, el cual deberá ser notificado, en un plazo no mayor de diez días hábiles, al trabajador o beneficiario de la pensión por muerte.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
-
-Si el titular de la Oficialía Mayor o equivalente del ente público que corresponda no hubiera remitido a la Legislatura el expediente dentro del plazo a que se refiere este artículo, el trabajador que haya iniciado el trámite de jubilación o de pensión por vejez o el beneficiario de la pensión por muerte, podrá presentar escrito ante la Legislatura del Estado mediante el cual la ponga en conocimiento del hecho, para que, en su caso, requiera un informe o señale el plazo dentro del cual el ente público deberá remitirle el expediente.
+En el supuesto de la negativa del otorgamiento de la jubilación, pensión por vejez o pensión por muerte, según sea el caso, la Oficialía Mayor o su equivalente del ente público que corresponda, emitirán dictamen en el que funden y motiven la causa de esta, el cual deberá ser notificado, en un plazo no mayor de diez días hábiles, al trabajador o beneficiario de la pensión por muerte.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
@@ -1351,33 +1355,29 @@ Si el titular de la Oficialía Mayor o equivalente del ente público que corresp
 
 La Oficialía Mayor o equivalente del ente público que corresponda, podrán citar al trabajador o beneficiarios para aclaraciones o bien solicitar toda la información que se requiera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2021)</small>
 
 ###### Artículo 149 Bis.
 
-Cuando de la revisión del expediente a que se refiere este Capítulo, se desprenda la falta de información o de documentos para dar trámite a las jubilaciones y pensiones, la Legislatura del Estado, podrá requerir su entrega al ente público omiso.
+Cuando de la revisión del expediente a que se refiere este Capítulo, se desprenda la falta de información o de documentos para dar trámite a las jubilaciones y pensiones, la Oficialía Mayor o su equivalente del ente público que corresponda, podrá requerir su entrega a los interesados o a las instancias públicas correspondientes.
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+Los servidores públicos que incumplan con lo dispuesto por este Capítulo serán sancionados conforme a lo establecido en la Ley de la materia.
 
-Los titulares de recursos humanos o de los órganos administrativos estatales que incumplan lo dispuesto por este Capítulo, podrán ser sancionados conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2021)</small>
 
 ###### Artículo 150.
 
-Una vez que la Legislatura del Estado, en Pleno, haya resuelto de manera favorable el otorgamiento de la jubilación, pensión por vejez o pensión por muerte, se publicará el decreto correspondiente en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", para que surta sus efectos de notificación al trabajador, beneficiarios y del área encargada de realizar el pago de la jubilación, pensión por vejez o pensión por muerte, según el caso, así como de todas y cada una de las prestaciones que con motivo de la terminación de la relación laboral se deriven.
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+Una vez que la Oficialía Mayor o su equivalente del ente público que corresponda, haya resuelto de manera favorable el otorgamiento de la jubilación, pensión por vejez o pensión por muerte, se publicará el dictamen correspondiente en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", para que surta sus efectos de notificación al trabajador, beneficiarios y del área encargada de realizar el pago de la jubilación, pensión por vejez o pensión por muerte, según el caso, así como de todas y cada una de las prestaciones que con motivo de la terminación de la relación laboral se deriven.
 
 ###### Artículo 150 Bis.
 
-La Legislatura, a petición motivada, justificada y fundada de la Oficialía Mayor o equivalente del ente público que corresponda, que soporte su petición, podrá entrar al estudio y dictamen que corresponda, respecto de un decreto previamente emitido por dicho Poder, en el que se haya autorizado una pensión o jubilación, a efecto de su ratificación, modificación o revocación. La resolución que se emita, será a través de un decreto, el cual será notificado al trabajador y a la Oficialía Mayor o equivalente del ente público que corresponda.
+(DEROGADO, P.O. 5 DE MARZO DE 2021)
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2021)</small>
 
 ###### Artículo 151.
 
-Cuando el Pleno de la Legislatura no apruebe la jubilación o pensión por vejez, emitirá acuerdo correspondiente, notificándolo en un plazo no mayor de diez días hábiles al titular de la Oficialía Mayor o equivalente del ente público que corresponda, para que el trabajador se reintegre a sus labores hasta solucionar el impedimento, quedando sin efectos la licencia prejubilatoria, restableciéndose íntegramente la relación jurídico laboral para los fines de esta Ley, debiendo notificar además a los interesados.
+Cuando la Oficialía Mayor o su equivalente del ente público que corresponda, no apruebe la jubilación o pensión, emitirá el dictamen correspondiente, notificándolo en un plazo no mayor de diez días hábiles al trabajador, así como a la dependencia o unidad administrativa a la cual se encuentre adscrito el trabajador, para que se reintegre a sus labores, restableciéndose íntegramente la relación jurídico laboral para los fines de esta Ley. En el caso de la no aprobación a la pensión por muerte, el dictamen que emita la Oficialía Mayor o su equivalente del ente público que corresponda, se notificará a los beneficiarios del trabajador fallecido.
 
 ## Título Décimo Primero. De las prescripciones
 
@@ -2004,3 +2004,29 @@ P.O. 17 DE ENERO DE 2020.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 5 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley iniciará su vigencia a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Todos los trámites que se hayan iniciado con anterioridad al inicio de vigencia de la presente Ley deberán concluirse de conformidad con las disposiciones que beneficien más al trabajador.
+
+Artículo Tercero. Los entes públicos que correspondan, en el ámbito de sus competencias, deberán emitir las disposiciones administrativas conducentes a efecto de dar cumplimiento con lo previsto en la presente Ley.
+
+Artículo Cuarto. A partir de la entrada en vigor de la presente Ley, cada ente público tramitará y resolverá las solicitudes de jubilaciones, pensiones por vejez y pensiones por muerte, conforme a lo establecido en la presente Ley.
+
+Artículo Quinto. Las solicitudes de jubilaciones y pensiones que al día de la publicación de la presente Ley se hayan presentado ante la Legislatura del Estado, pero no se hayan turnado a la Comisión de Trabajo y Previsión Social, serán devueltas a los entes públicos solicitantes por Acuerdo de la Mesa Directiva, para que cada ente determine lo conducente respecto de las solicitudes de sus trabajadores.
+
+Tratándose de las solicitudes de jubilaciones y pensiones que, al día de la publicación de la presente Ley, se encuentran turnadas a la Comisión de Trabajo y Previsión Social, los trabajadores podrán, en un plazo de treinta días hábiles contados a partir de la entrada en vigencia de la presente Ley, manifestar mediante escrito dirigido a la Presidencia de la Mesa Directiva de la Legislatura, si es su deseo continuar el trámite de jubilación o pensión ante este Poder o bien en el ente público para el que laboró.
+
+En los casos en que no haya manifestación por parte de los trabajadores durante los treinta días señalados, las solicitudes serán devueltas a la dependencia que corresponda.
+
+Artículo Sexto. Para dar cumplimiento a lo previsto en el artículo anterior, la Mesa Directiva de la Legislatura podrá ordenar los trámites administrativos que considere necesarios.
+
+Artículo Séptimo. Las solicitudes de pensiones y jubilaciones que en cumplimiento de amparo dictado por autoridad competente se hayan remitido a la Legislatura, concluirán el trámite en ésta.
+
+Artículo Octavo. Los Órganos y Dependencias del Poder Legislativo del Estado de Querétaro deberán coadyuvar a efecto de agilizar los trámites legislativos y administrativos que correspondan en lo relativo a pensiones y jubilaciones.
+
+Artículo Noveno. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
