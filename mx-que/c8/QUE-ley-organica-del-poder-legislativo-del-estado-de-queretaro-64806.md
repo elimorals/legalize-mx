@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2020-06-01"
+last_updated: "2021-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -569,57 +569,9 @@ La Presidencia de la Legislatura resolverá lo conducente, no obstante, en ning�
 
 (Trámite de solicitudes) Las solicitudes de desincorporación, empréstitos o para autorizar avales que garanticen obligaciones contraídas legalmente por el titular del Poder Ejecutivo del Estado, serán presentadas en los términos de la ley de la materia, seguirán el mismo trámite que las iniciativas y la resolución del Pleno que recaiga sobre ellas y tendrán el carácter de Decreto.
 
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2021)</small>
 
-Artículo 37 bis. (Solicitudes de pensión o jubilación) Las solicitudes de pensión o jubilación serán presentadas en los términos de la ley de la materia y seguirán el trámite establecido en el presente numeral.
-
-A. De la presentación.
-
-I. El titular de la Oficialía Mayor o su equivalente del ente público que corresponda, será el competente para remitir a la Legislatura la solicitud de jubilación o pensión dentro del plazo que para tal efecto señala la Ley de los Trabajadores del Estado de Querétaro; y
-
-II. Dicha solicitud deberá acompañarse con el expediente y constancias del trabajador, debidamente integrado, en términos de lo contenido en la Ley de los Trabajadores del Estado de Querétaro.
-
-B. Del turno.
-
-Recibida la solicitud en la Oficialía de Partes del Poder Legislativo, el Presidente de la Mesa Directiva la turnará a la Comisión ordinaria competente, dentro del plazo de cinco días hábiles siguientes a su recepción, para que emita un proyecto de dictamen;
-
-C. De la revisión.
-
-I. Cuando de la revisión de la solicitud se desprenda la falta de información o de documentos para dar trámite a la solicitud de jubilación o pensión, la Legislatura del Estado, a través de la Comisión a la que se haya turnado, podrá requerir al ente público omiso la entrega de los mismos, los que tendrán hasta treinta días naturales para dar cumplimiento a lo requerido; y
-
-II. En caso de que el ente público no dé cumplimiento al requerimiento formulado dentro del plazo establecido para tal efecto, se sancionará a la autoridad responsable conforme a la ley de la materia y se realizarán los requerimientos que resulten necesarios a efecto de que la dependencia remita la documentación solicitada;
-
-D. Del proyecto de dictamen y sus observaciones.
-
-I. Para la formulación del proyecto de dictamen la Comisión deberá considerar la información contenida en el Registro de Antigüedad Laboral;
-
-II. Una vez formulado el proyecto de dictamen, la Comisión ordenará su publicación en la página de internet de la Legislatura por un periodo de quince días naturales para publicidad del mismo y en su caso recibir observaciones;
-
-III. El Presidente de la Comisión dará cuenta a los diputados integrantes de la misma, sobre la existencia o inexistencia de observaciones al proyecto de dictamen, a efecto de que, en su caso, se aboquen a su estudio y se emita el dictamen definitivo, el cual podrá ser en sentido de aprobación o de rechazo; y
-
-IV. Si de las observaciones se desprendiera la necesidad de verificar la veracidad de los requisitos para su procedencia, la Comisión podrá requerir al titular de la Oficialía Mayor o su equivalente del ente público del que se trate, para que valide la documentación o información que haya sido remitida.
-
-Sin dicha validación, la Comisión quedará imposibilitada para continuar con el trámite correspondiente; en este caso se rechazará la solicitud de pensión o jubilación.
-
-E. Del dictamen definitivo.
-
-Una vez realizado el estudio de las observaciones al proyecto de dictamen y su respectiva validación o en caso de no haber existido observaciones, la Comisión emitirá el dictamen definitivo, fundado y motivado, el que será puesto a consideración y votación del Pleno, siguiendo el trámite previsto en los Capítulos Tercero, Cuarto, Quinto y Sexto del presente Título. La resolución del Pleno que recaiga a las solicitudes tendrá el carácter de decreto.
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
-
-F. De su aprobación en sentido favorable.
-
-En caso de que el Pleno de la Legislatura haya resuelto de forma favorable la solicitud para el otorgamiento de la jubilación, pensión por vejez o pensión por muerte, el decreto respectivo se remitirá para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
-
-G. De su aprobación en sentido de rechazo.
-
-Cuando el Pleno de la Legislatura no apruebe la solicitud de jubilación o pensión por vejez o pensión por muerte, según sea el caso, notificará de su determinación al titular de la Oficialía Mayor o su equivalente del ente público que corresponda.
-
-H. Revisión de decreto de jubilación o pensión.
-
-A petición fundada y motivada del titular de la Oficialía Mayor o su equivalente de algún ente público, la Legislatura podrá entrar al estudio de un decreto de jubilación o pensión expedido y, en su caso, emitir uno nuevo, ratificando, modificando o revocando el contenido del anterior.
-
-Dicha resolución será notificada al titular de la Oficialía Mayor o su equivalente del ente público que haya solicitado la revisión.
+Artículo 37 bis. (Solicitudes de pensión o jubilación) Las solicitudes de pensión o jubilación relativas a trabajadores del Poder Legislativo serán presentadas en los términos de la ley de la materia y seguirán el trámite establecido en ella.
 
 ###### Artículo 38.
 
@@ -645,7 +597,9 @@ Las iniciativas pendientes de dictamen o resolución al término de la Legislatu
 
 Cuando la Mesa Directiva saliente no realice la baja de las iniciativas pendientes de dictamen, corresponderá a la Mesa Directiva entrante, acordar su baja administrativa inmediata o su reasignación a los nuevos órganos legislativos, acordando los trámites que estime convenientes.
 
-Se exceptúan de lo anterior las iniciativas que constituyan tramites de pensión por muerte o vejez, o jubilación, por ende deberán concluir su trámite ante el Pleno de la Legislatura de conformidad con la presente Ley y demás disposiciones legales vigentes.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2021)</small>
+
+Se exceptúan de lo anterior las iniciativas que constituyan trámites de jubilación, pensión por muerte o pensión por vejez de los trabajadores del Poder Legislativo del Estado, que deberán concluir su trámite ante el Pleno de la Legislatura de conformidad con la presente Ley y demás disposiciones legales vigentes.
 
 ### Capítulo Segundo. De las iniciativas
 
@@ -2105,9 +2059,9 @@ XXII. Salud. Tiene a su cargo la atención de asuntos en materia de salud públi
 
 XXIII. Seguridad pública y protección civil. Tiene a su cargo la atención de asuntos en materia de seguridad pública estatal y municipal, así como de prevención y protección civil;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2021)</small>
 
-XXIV. Trabajo y previsión social. Tiene a su cargo la atención de asuntos en materia de decretos de pensiones por vejez, por muerte y jubilaciones, de conformidad con las disposiciones vigentes; y
+XXIV. Trabajo y previsión social. Tiene a su cargo la atención de asuntos relativos a la legislación en materia de trabajo; y
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3320,3 +3274,29 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 Artículo Tercero. Para la realización de sesiones virtuales, se aplicarán las Reglas para el desahogo de sesiones virtuales del Pleno y de las Comisiones de la Quincuagésima Novena Legislatura del Estado de Querétaro, cuando por causas extraordinarias no sea posible llevarlas a cabo de manera presencial, contenidas en el Anexo que forma parte integrante de la presente Ley
 
 Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 5 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley iniciará su vigencia a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Todos los trámites que se hayan iniciado con anterioridad al inicio de vigencia de la presente Ley deberán concluirse de conformidad con las disposiciones que beneficien más al trabajador.
+
+Artículo Tercero. Los entes públicos que correspondan, en el ámbito de sus competencias, deberán emitir las disposiciones administrativas conducentes a efecto de dar cumplimiento con lo previsto en la presente Ley.
+
+Artículo Cuarto. A partir de la entrada en vigor de la presente Ley, cada ente público tramitará y resolverá las solicitudes de jubilaciones, pensiones por vejez y pensiones por muerte, conforme a lo establecido en la presente Ley.
+
+Artículo Quinto. Las solicitudes de jubilaciones y pensiones que al día de la publicación de la presente Ley se hayan presentado ante la Legislatura del Estado, pero no se hayan turnado a la Comisión de Trabajo y Previsión Social, serán devueltas a los entes públicos solicitantes por Acuerdo de la Mesa Directiva, para que cada ente determine lo conducente respecto de las solicitudes de sus trabajadores.
+
+Tratándose de las solicitudes de jubilaciones y pensiones que, al día de la publicación de la presente Ley, se encuentran turnadas a la Comisión de Trabajo y Previsión Social, los trabajadores podrán, en un plazo de treinta días hábiles contados a partir de la entrada en vigencia de la presente Ley, manifestar mediante escrito dirigido a la Presidencia de la Mesa Directiva de la Legislatura, si es su deseo continuar el trámite de jubilación o pensión ante este Poder o bien en el ente público para el que laboró.
+
+En los casos en que no haya manifestación por parte de los trabajadores durante los treinta días señalados, las solicitudes serán devueltas a la dependencia que corresponda.
+
+Artículo Sexto. Para dar cumplimiento a lo previsto en el artículo anterior, la Mesa Directiva de la Legislatura podrá ordenar los trámites administrativos que considere necesarios.
+
+Artículo Séptimo. Las solicitudes de pensiones y jubilaciones que en cumplimiento de amparo dictado por autoridad competente se hayan remitido a la Legislatura, concluirán el trámite en ésta.
+
+Artículo Octavo. Los Órganos y Dependencias del Poder Legislativo del Estado de Querétaro deberán coadyuvar a efecto de agilizar los trámites legislativos y administrativos que correspondan en lo relativo a pensiones y jubilaciones.
+
+Artículo Noveno. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
