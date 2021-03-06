@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-de-datos-personales-en-posesion-de-los-122721
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2017-12-14"
+last_updated: "2021-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el miércoles 19 de julio de 2017.
 
@@ -1441,9 +1441,11 @@ Cuando persista la negativa de colaboración, la Unidad de Transparencia lo har�
 
 Medidas especiales para grupos vulnerables
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 121.
 
-El responsable procurará que las personas con algún tipo de discapacidad o grupos vulnerables, puedan ejercer, en igualdad de circunstancias, su derecho a la protección de datos personales, para lo cual deberá promover acuerdos con instituciones públicas especializadas que pudieran auxiliarle en la recepción, trámite y entrega de las respuestas a solicitudes para el ejercicio de los derechos ARCO en lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente.
+El responsable respetará, protegerá y garantizará que las personas con algún tipo de discapacidad o grupos vulnerables, puedan ejercer, en igualdad de circunstancias, su derecho a la protección de datos personales, para lo cual deberá promover acuerdos con instituciones públicas especializadas que pudieran auxiliarle en la recepción, trámite y entrega de las respuestas a solicitudes para el ejercicio de los derechos ARCO en lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente.
 
 ## TÍTULO NOVENO. De la CEGAIP
 
@@ -2490,6 +2492,14 @@ Alejandro Leal Tovías
 P.O. 14 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 763.- SE REFORMAN, LOS ARTÍCULOS 1° Y 136, DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 6 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1138.- SE REFORMA EL ARTÍCULO 121, DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
