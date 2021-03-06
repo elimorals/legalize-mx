@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-regula-la-prestacion-de-servicios-para-la-atencion-1395
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-11"
-last_updated: "2019-12-11"
+last_updated: "2021-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2021.
 
 Ley publicada en el Anexo al No. 99 del Periódico Oficial del Estado de Chihuahua, el miércoles 11 de diciembre de 2019.
 
@@ -517,9 +517,15 @@ XIII. Contar, en su caso, con aparatos fijos de calefacción.
 
 XIV. Cumplir con las demás disposiciones correspondientes a las Normas Oficiales Mexicanas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2021)</small>
+
 ###### Artículo 48.
 
-En los Centros de Atención Infantil se podrán (sic) hacer uso de equipos o sistemas tecnológicos para la captación o grabación de imágenes o sonidos como una medida de seguridad adicional para prevenir cualquier riesgo o emergencia que se presente en las instalaciones, salvaguardando la integridad de las personas menores de edad en términos de las disposiciones legales aplicables.
+En los Centros de Atención Infantil se deberán instalar de manera obligatoria equipos o sistemas tecnológicos para la captación o grabación de imágenes o sonidos como una medida de seguridad adicional para prevenir cualquier riesgo o emergencia que se presente en las instalaciones, salvaguardando la integridad de las personas menores de edad en términos de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2021)</small>
+
+Los equipos o sistemas tecnológicos para la captación o grabacion de imágenes o sonidos deberán operar de conformidad con lo dispuesto en el Reglamento de la presente Ley.
 
 ### Capítulo VIII. De la Capacitación y Certificación del Personal
 
@@ -978,3 +984,23 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintidós días del mes de noviembre del año dos mil diecinueve.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. LUIS FERNANDO MESTA SOULÉ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/0978/2021 II P.O., MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO, Y ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 48 DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Deberán instalarse a más tardar el día 1° de enero de 2022, los equipos o sistemas tecnológicos para la captación o grabación de imágenes o sonidos a que hace referencia el artículo 48 del presente Decreto.
+
+Concluido el plazo señalado en el párrafo que antecede, la autoridad competente deberá realizar visitas de verificación a los Centros de Atención Infantil, a fin de constatar el cumplimiento del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado de Chihuahua, deberá realizar las adecuaciones necesarias en el Reglamento de la Ley, dentro de los 60 días naturales siguientes a la entrada en vigor del presente Decreto, respecto a la operatividad y funcionamiento de la presente reforma.
