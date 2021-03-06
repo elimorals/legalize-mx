@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2021-02-27"
+last_updated: "2021-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -106,6 +106,10 @@ El Gobernador del Estado contará con un Secretario Particular y el personal de 
 La o el titular del Poder Ejecutivo de la Entidad, nombrará y removerá libremente a las personas titulares de las secretarías del Despacho; de la Oficialía Mayor; así como a las y los demás servidores públicos del gabinete ampliado, cuyo nombramiento y remoción no estén atribuidos expresamente por la ley a otra autoridad.
 
 Las o los servidores públicos a los que alude el párrafo anterior, se designarán de acuerdo al principio de paridad de género.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2021)</small>
+
+En caso de que la persona titular de una Secretaría o dependencia solicite licencia hasta por cuarenta días naturales, el titular del Poder Ejecutivo nombrará una o un encargado de despacho. Las personas que sean nombradas como encargadas de despacho o con cualquier otra denominación, con la finalidad de cubrir la ausencia de la o el titular de alguno de los cargos que señala el párrafo primero de este artículo, deberán cumplir con todos y cada uno de los requisitos que la legislación exija para asumirlos.
 
 ###### ARTICULO 9o.
 
@@ -2104,3 +2108,11 @@ P.O. 27 DE FEBRERO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1137.- SE ADICIONA AL ARTÍCULO 8° EL PÁRRAFO TERCERO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
