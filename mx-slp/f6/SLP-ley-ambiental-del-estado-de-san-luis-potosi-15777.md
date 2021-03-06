@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2020-11-30"
+last_updated: "2021-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1889,17 +1889,21 @@ Con el objeto de prevenir y controlar los efectos nocivos que pudieran ocasionar
 
 I. De concientización y organización vecinal para evitar que se depositen y arrojen a la vía publica residuos de cualquier tipo, así como de limpia del frente de los predios por sus propietarios;
 
-(REFORMADA, P.O. 11 DE MAYO DE 2010))
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
 
 II. De limpieza y control de los predios baldíos, para evitar que se transformen en lugares de almacenamiento irregular de residuos sólidos urbanos y de manejo especial, y focos de insalubridad pública y contaminación;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2021)</small>
 
-III. Cualquier otro tendiente a prevenir y controlar la contaminación originada por estos residuos, así como a rehabilitar sitios contaminados, y
+III. Cualquier otro tendiente a prevenir y controlar la contaminación originada por estos residuos, así como a rehabilitar sitios contaminados;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2021)</small>
 
-IV. De concientización y organización ciudadana vecinal para promover la cultura, educación y capacitación ambientales, para la eliminación del uso de bolsas de plástico.
+IV. De concientización y organización ciudadana vecinal para promover la cultura, educación y capacitación ambientales, para la eliminación del uso de bolsas de plástico, y
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2021)</small>
+
+V. De comunicación, enfocados a la población en general para promover la separación de los desechos, la generación de una cultura de cuidado del medio ambiente, y la concientización sobre la importancia ecológica de esta acción.
 
 Los distribuidores, propietarios o responsables de la venta directa o indirecta de aceites lubricantes automotrices, así como los talleres de mantenimiento automotriz, estarán obligados a recoger los envases que hubiesen vendido, así como a recolectar y almacenar adecuadamente y de conformidad con la normatividad ambiental aplicable, los aceites lubricantes ya usados a efecto de que éstos puedan a su vez ser recolectados por empresas debidamente autorizadas por la autoridad competente, para lo cual se establecerán los mecanismos de coordinación necesarios para llevarlo a cabo conforme a los lineamientos que determinen las autoridades competentes.
 
@@ -1973,9 +1977,11 @@ II. La elaboración, manejo y control de programas de coordinación de acciones 
 
 III. La formulación, implementación y control de programas que propendan a la restauración de las áreas y recursos naturales afectados por dichas contingencias o emergencias ambientales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 116.
 
-El Sistema Estatal de Protección Civil en los términos que lo establezca la legislación de la materia, promoverá la elaboración, organización y ejecución de programas que, en conjunto con los municipios y en coordinación con los sectores privado y social, prevean las contingencias ambientales, así como la adopción de las medidas adecuadas para la atención de sus consecuencias.
+El Sistema Estatal de Protección Civil en los términos que lo establezca la legislación de la materia, promoverá la elaboración, organización y ejecución de programas que, en conjunto con los municipios y en coordinación con los sectores privado y social, así como las autoridades de otros órdenes de gobierno competentes, prevean las contingencias ambientales, así como la adopción de las medidas adecuadas para la atención de sus consecuencias.
 
 Los programas referidos deberán contener como mínimo:
 
@@ -1988,6 +1994,10 @@ III. Equipos de auxilio, rescate y salvamento;
 IV. Mecanismos de capacitación que fueren necesarios, y
 
 V. Sistemas de medidas concretas de acciones, lugares señalados para las labores respectivas, instalaciones con que se cuenta o que se habilitarán, así como las pruebas de entrenamiento y difusión preventivas.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2021)</small>
+
+La ejecución de las medidas derivadas de los programas se considera de interés general, y corresponde tanto a las autoridades de los tres órdenes de gobierno, así como a la sociedad en su conjunto.
 
 ## TITULO NOVENO. DE LA AUTORIZACION DE IMPACTO AMBIENTAL
 
@@ -3636,5 +3646,21 @@ P.O. 30 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0826- SE ADICIONA AL ARTÍCULO 3º LA FRACCIÓN LIX BIS; Y DEROGA DEL ARTÍCULO 8º LA FRACCIÓN III BIS, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1134.- SE REFORMA EL ARTÍCULO 116 EN SU PÁRRAFO PRIMERO Y ADICIONA AL MISMO ARTÍCULO 116 EL PÁRRAFO OCTAVO, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1135.- SE REFORMA EL ARTÍCULO 109 EN SUS FRACCIONES III Y IV; Y ADICIONA AL MISMO ARTÍCULO 109 LA FRACCIÓN V, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
