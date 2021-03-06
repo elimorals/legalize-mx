@@ -4,7 +4,7 @@ identifier: "COL-ley-de-austeridad-del-estado-de-colima-132110"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-21"
-last_updated: "2019-03-02"
+last_updated: "2021-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE AUSTERIDAD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2021.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el viernes 21 de diciembre de 2018.
 
@@ -84,6 +84,10 @@ Las remuneraciones que perciban todos los servidores públicos deberán ajustars
 ###### Artículo 4.
 
 Queda prohibido establecer o cubrir con recursos públicos haberes de retiro o regímenes especiales de jubilación o pensión, así como la contratación de seguros privados de gastos médicos, de vida o de separación, individuales o colectivos, por parte de los entes públicos para beneficio de cualquier servidor público.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2021)</small>
+
+Únicamente podrán establecerse seguros de vida a favor de servidores públicos asociados a seguridad pública, cuyo desempeño ponga en riesgo su seguridad o su salud; así mismo, los entes de gobierno, podrán establecer seguros de vida a favor del personal que tenga la categoría de base y sindicalizado de acuerdo a la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima, por así haberse estipulado en las condiciones generales de trabajo establecidas en los contratos colectivos, dicho derecho podrá hacerse extensivo a los servidores públicos de confianza o de elección popular, de la dependencia de que se trate.
 
 > <small>(ADICIONADO, P.O. 2 DE MARZO DE 2019)</small>
 
@@ -182,3 +186,11 @@ P.O. 2 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 37 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 4; Y SE ADICIONA UN ARTÍCULO CUARTO TRANSITORIO AL DECRETO NÚMERO 27, POR EL QUE FUE EXPEDIDA LA LEY DE AUSTERIDAD DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 419.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 4 Y EL PÁRRAFO SEGUNDO PASA A SER EL PÁRRAFO TERCERO, DE LA LEY DE AUSTERIDAD DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Las contrataciones a las que hace referencia el segundo párrafo del artículo 4, deberán llevarse a cabo en observancia a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Colima, y atendiendo a la disponibilidad presupuestaria de cada ente.
