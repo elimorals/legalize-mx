@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2020-12-04"
+last_updated: "2021-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -582,6 +582,14 @@ III.- Muerte del trabajador;
 IV.- Por terminación de la obra, tiempo o cantidad presupuestada; y
 
 V.- Por incapacidad total permanente del trabajador.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2021)</small>
+
+En el caso de la fracción I de este artículo, a solicitud del trabajador o trabajadora, la renuncia voluntaria será ratificada ante el Tribunal Estatal de Conciliación y Arbitraje, o autoridad auxiliar que éste determine.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2021)</small>
+
+Queda prohibido obligar a las o los trabajadores a firmar documentos en blanco, o sin fecha determinada, o que mediante cualquier otra circunstancia implique renuncia de derechos o imponga obligaciones a la o el trabajador. En caso de que la o el trabajador sea obligado a la firma de documento en blanco o sin fecha determinada, podrá acudir ante la Procuraduría de la Defensa del Trabajo o ante las oficinas de la Inspección del Trabajo local a denunciar el hecho. La Procuraduría de la Defensa del Trabajo o la Inspección del Trabajo local conservará en secreto dicha denuncia para el caso de que fuere necesario aportarla como elemento probatorio pre constituido.
 
 ### CAPITULO III.
 
@@ -2082,3 +2090,11 @@ P.O. 4 DE DICIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1136.- SE ADICIONA AL ARTÍCULO 54 LOS PÁRRAFOS SEGUNDO Y TERCERO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga todo lo que se oponga al presente Decreto.
