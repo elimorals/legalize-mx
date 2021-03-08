@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2020-06-29"
+last_updated: "2021-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2021.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -5655,15 +5655,23 @@ VII.- Expedir las convocatorias, de acuerdo a lo establecido en el presente Cód
 
 VIII.- Las demás que le asigne el H. Ayuntamiento y el Presidente Municipal.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 8 DE MARZO DE 2021)</small>
+
 ###### Artículo 534.
 
 Son obligaciones del Secretario Ejecutivo del Comité, las siguientes:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE MARZO DE 2021)</small>
+
 I.- Convocar a sesiones a los integrantes del Comité;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE MARZO DE 2021)</small>
 
 II.- Presidir el desarrollo de las sesiones del Comité;
 
-III.- Autorizar, conjuntamente con el Presidente Municipal, las adquisiciones urgentes;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2021)</small>
+
+III.- Someter a consideración del Comité, las adjudicaciones directas que excedan el equivalente a tres mil veces el salario mínimo general vigente en el Estado de Aguascalientes;
 
 IV.- Rendir informe trimestral al Cabildo, respecto a la conclusión de los casos dictaminados, así como los resultados generales de las adquisiciones, arrendamientos y servicios; y
 
@@ -5687,15 +5695,19 @@ La adquisición de bienes u obtención de servicios con valor superior a quince 
 
 ###### Artículo 539.
 
-La sola prestación de servicios profesionales relativos cuya prestación requiere de título legalmente expedido, en ningún caso se someterán a procedimiento de licitación ni cualquier tipo de concurso, siendo facultad del Presidente Municipal o del funcionario que cuente con las facultades delegadas, determinar la contratación de los servicios cuando la propuesta de honorarios profesionales no exceda de diez mil días de salario mínimo general vigente en el Estado de Aguascalientes y, en caso de exceder a esta cantidad, la facultad de decisión de contratación corresponde al Comité de Bienes y Servicios.
+(DEROGADO, P.O. 8 DE MARZO DE 2021)
 
 ###### Artículo 540.
 
 Las requisiciones serán firmadas por el funcionario o empleado que requiera del bien o servicio y serán autorizadas por el titular de la dependencia respectiva, así como por el titular del área de finanzas en cuanto a la disponibilidad de recursos y del titular del área de administración interna en cuento a la necesidad de los bienes o servicios.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2021)</small>
+
 ###### Artículo 541.
 
-Realizada la requisición en los casos de adjudicación directa, el pedido será formalizado a nombre del Municipio de Calvillo, por el Presidente Municipal o por el funcionario competente, según el acuerdo delegatorio de facultades y, en caso de requerirse el contrato con el proveedor de bienes o prestador de servicios, será firmado por el propio Presidente o por el funcionario facultado por delegación de facultades, señalándose además el número del acuerdo del Comité de Bienes y Servicios, por el que se haya otorgado la autorización en los casos en que ésta se requiera.
+Realizada la requisición en los casos de adjudicación directa, el pedido será formalizado a nombre del Municipio de Calvillo, por el Presidente Municipal o por el funcionario competente, según el acuerdo delegatorio de facultades y, en caso de requerirse el contrato con el proveedor de bienes o prestador de servicios, será firmado por el propio Presidente o por el funcionario facultado por delegación de facultades, señalándose además el número del acuerdo del comité de adquisiciones, por el que se haya otorgado la autorización en los casos en que ésta se requiera.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 8 DE MARZO DE 2021)</small>
 
 ###### Artículo 542.
 
@@ -5712,6 +5724,12 @@ IV.- Que el Departamento de Recursos Materiales, entregue la documentación corr
 V.- Que el Secretario Ejecutivo del Comité, entregue un estado comparativo que ampare por lo menos tres cotizaciones, salvo el caso en el que no exista en el Municipio igual número de proveedores, o se trate de artículos con precio controlado; y
 
 VI.- Que las cotizaciones provengan de proveedores inscritos previamente en el Padrón Municipal de Proveedores, a excepción hecha de proveedores únicos o que la compra se requiera de inmediato, o cuando exista ventaja competitiva significativa en el precio y/o servicio.
+
+> <small>(REFORMADA [N. DE E. ADICIONADO], P.O. 8 DE MARZO DE 2021)</small>
+
+VII.- El Gobierno Municipal, por decisión del comité de adquisiciones, en los actos o contratos que celebre respecto a adquisiciones de bienes y de obtención de servicios, deberá estipular las condiciones que garanticen su correcta o adecuada operación y funcionamiento de los bienes, así como estipular la obligación de contratación a favor del Municipio, del seguro que ampare la existencia o funcionamiento de los bienes o servicios y de la fianza para garantizar la ausencia de vicios ocultos y cumplimiento del contrato o pedido; y
+
+… (sic)
 
 ###### Artículo 543.
 
@@ -24800,3 +24818,13 @@ Artículo Tercero.- Publíquese el presente Decreto en el Periódico Oficial del
 Artículo Cuarto.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Quinto.- Cúmplase.
+
+P.O. 8 DE MARZO DE 2021.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL DECRETO POR EL QUE "SE REFORMA EL CÓDIGO MUNICIPAL DE CALVILLO, AGS." QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Cuarto.- Cúmplase.
