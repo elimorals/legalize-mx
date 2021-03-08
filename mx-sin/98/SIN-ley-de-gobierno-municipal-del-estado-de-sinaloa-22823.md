@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2020-09-11"
+last_updated: "2021-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -593,7 +593,9 @@ II. Cuidar de la seguridad y el orden en cines, teatros, paseos y centros de rec
 
 III. Fomentar las actividades que propendan a exaltar el espíritu cívico y los sentimientos patrióticos de los habitantes del Municipio, así como el deporte en todas sus manifestaciones;
 
-IV. Difundir los valores culturales y artísticos del Municipio, pudiéndose nombrar con carácter vitalicio, un cronista que los asesore para el efecto;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2021)</small>
+
+IV. Difundir los valores culturales y artísticos del Municipio, nombrándose un cronista que los asesore para el efecto, pudiéndose nombrar otros adjuntos;
 
 V. Celebrar ceremonias públicas para conmemorar los hechos históricos de carácter nacional o local;
 
@@ -1157,6 +1159,10 @@ Cuando a juicio del Ayuntamiento se considere necesario inspeccionar el manejo o
 
 ### CAPÍTULO X. DE LA SECRETARÍA DE LA PRESIDENCIA
 
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2021)</small>
+
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE LA PRESIDENCIA
+
 ###### Artículo 65.
 
 Cuando la amplitud y diversidad de los asuntos administrativos de un Ayuntamiento lo justifiquen, el Presidente Municipal podrá ser auxiliado por un Secretario de la Presidencia Municipal.
@@ -1185,19 +1191,81 @@ VII. Las demás que le encomiende el Presidente Municipal.
 
 En los Ayuntamientos que no haya Secretario de la Presidencia, las atribuciones que correspondan a éste se realizarán por el Secretario del Ayuntamiento, por el Oficial Mayor, o por ambos a juicio del Presidente Municipal.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE MARZO DE 2021)</small>
+
+#### SECCIÓN SEGUNDA. DEL CRONISTA MUNICIPAL
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2021)</small>
 
 ###### Artículo 67 Bis.
 
-Cada Ayuntamiento contará con un órgano interno de control, dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de los Ayuntamientos y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+Para efectos de la presente Ley, se considera Cronista Municipal, al servidor público de la Administración Pública Municipal que tiene como objetivos fundamentales el registro de sucesos notables acaecidos dentro de la circunscripción territorial del municipio al que pertenezca; así como investigar, rescatar, conservar, difundir y promover su cultura.
+
+Será nombrado por la Presidencia Municipal. Durará en su cargo 3 años, y podrá ser reelecto por un período más. Dependerá Directamente de la Presidencia Municipal y el Reglamento Orgánico de la Administración Pública Municipal definirá la estructura y demás atribuciones de dicha área y su titular.
+
+En caso que se requiera se podrá nombrar cronistas adjuntos, quienes tendrán el carácter de honoríficos sin retribución alguna, serán nombrados por el Cronista Municipal.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2021)</small>
+
+Artículo 67 Bis A. Para ser Cronista Municipal se requiere:
+
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos y estar avecinado en la municipalidad cuando menos dos años antes de su designación; y
+
+II. Tener conocimiento de la historia, costumbres, tradiciones, desarrollo cultural y demás elementos que le dan identidad al municipio.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2021)</small>
+
+Artículo 67 Bis B. El Cronista Municipal tendrá las atribuciones siguientes:
+
+I. Llevar el registro cronológico de los sucesos notables de su Municipio;
+
+II. Investigar, conservar, exponer, difundir y promover la cultura e historia municipal;
+
+III. Elaborar el calendario cívico municipal;
+
+IV. Elaborar el inventario de monumentos arqueológicos, históricos y artísticos que se encuentren en el territorio del municipio;
+
+V. Proponer al Ayuntamiento la regulación, así como la modificación a la nomenclatura en las calles, avenidas y colonias dentro de la zona urbana y rural del municipio, basándose siempre en razones de índole histórica y social;
+
+VI. Ser órgano de consulta del Ayuntamiento para todo lo relacionado con la cultura, el turismo y el patrimonio cultural del Municipio;
+
+VII. Establecer coordinación con sus similares en reuniones estatales y nacionales;
+
+VIII. Opinar sobre la preservación, restauración y modificación de monumentos históricos, edificios, jardines, calles o plazas, con objeto de que conserven su valor histórico o cultural;
+
+IX. Presentar al Ayuntamiento un informe semestral de sus actividades;
+
+X. Proponer la adopción o modificación del escudo, himnos y lema de su Municipio; y
+
+XI. Las demás que le confiera el ayuntamiento, esta Ley y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2021)</small>
+
+Artículo 67 Bis C. Constituyen causas de remoción del Cronista Municipal, las siguientes:
+
+I. Por enfermedad o incapacidad física o mental debidamente comprobada que le impida ejercer el cargo;
+
+II. Por negligencia, falsedad y alteración de hechos históricos; así como la autenticación de hechos históricos falsos;
+
+III. Por incumplimiento de las actividades señaladas y las propias de su función; y
+
+IV. Por el cambio de residencia fuera de su Municipio.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO X Bis. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE MARZO DE 2021)</small>
+
+Artículo 67 Bis D. Cada Ayuntamiento contará con un órgano interno de control, dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de los Ayuntamientos y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
 El órgano interno de control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
 
 En el desempeño de su cargo, el titular del órgano interno de control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE MARZO DE 2021)</small>
 
-Artículo 67 Bis A. El titular del órgano interno de control será designado por el Cabildo a propuesta del Síndico Procurador, con el voto de las dos terceras partes de sus miembros presentes.
+Artículo 67 Bis E. El titular del órgano interno de control será designado por el Cabildo a propuesta del Síndico Procurador, con el voto de las dos terceras partes de sus miembros presentes.
 
 El titular del órgano interno de control durará en su encargo tres años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo de (sic) los requisitos previstos en esta Ley y el procedimiento establecido en su reglamento.
 
@@ -1205,21 +1273,21 @@ Tendrá un nivel jerárquico igual al de un tesorero o su equivalente en la estr
 
 El titular del órgano interno de control deberá rendir informe semestral y anual de actividades al Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE MARZO DE 2021)</small>
 
-Artículo 67 Bis B. El titular del órgano interno de control será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+Artículo 67 Bis F. El titular del órgano interno de control será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
 
 Tratándose de los demás servidores públicos adscritos al órgano interno de control serán sancionados por su titular o el servidor público en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE MARZO DE 2021)</small>
 
-Artículo 67 Bis C. El órgano interno de control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos del Ayuntamiento, de conformidad con la Ley del Sistema Anticorrupción y la Ley de Responsabilidades Administrativas, ambas del Estado y la Ley General de Responsabilidades Administrativas.
+Artículo 67 Bis G. El órgano interno de control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos del Ayuntamiento, de conformidad con la Ley del Sistema Anticorrupción y la Ley de Responsabilidades Administrativas, ambas del Estado y la Ley General de Responsabilidades Administrativas.
 
 El titular del órgano interno de control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE MARZO DE 2021)</small>
 
-Artículo 67 Bis D. El titular del órgano interno de control deberá reunir los siguientes requisitos:
+Artículo 67 Bis H. El titular del órgano interno de control deberá reunir los siguientes requisitos:
 
 I. Ser ciudadano mexicano, preferentemente sinaloense residente del Estado, en pleno goce de sus derechos civiles y políticos, y tener treinta años cumplidos el día de la designación;
 
@@ -1233,9 +1301,9 @@ V. No pertenecer o haber pertenecido en los cinco años anteriores a su designac
 
 VI. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE MARZO DE 2021)</small>
 
-Artículo 67 Bis E. El órgano interno de control tendrá las siguientes atribuciones:
+Artículo 67 Bis I. El órgano interno de control tendrá las siguientes atribuciones:
 
 I. Las que contempla la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Sinaloa;
 
@@ -1273,13 +1341,9 @@ XVII. Presentar al Cabildo los informes respecto de los expedientes relativos a 
 
 XVIII. Las demás que le confieran otros ordenamientos.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE MARZO DE 2021)</small>
 
-Artículo 67 Bis F. Los servidores públicos adscritos al órgano interno de control de los Ayuntamientos y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
-
-### CAPÍTULO X Bis. DEL ÓRGANO INTERNO DE CONTROL
-
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
+Artículo 67 Bis J. Los servidores públicos adscritos al órgano interno de control de los Ayuntamientos y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
 
 ### CAPÍTULO XI. DE LOS SÍNDICOS Y COMISARIOS MUNICIPALES
 
@@ -1996,3 +2060,11 @@ SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones 
 En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
 
 TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la demás legislación de la materia que sea aplicable.
+
+P.O. 8 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 591 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
