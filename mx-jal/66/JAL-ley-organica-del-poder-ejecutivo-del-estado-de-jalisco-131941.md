@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2021-03-04"
+last_updated: "2021-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2021.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -475,9 +475,9 @@ XXX. Participar en los sistemas nacional y estatal, tanto de seguridad pública,
 
 XXXI. Instrumentar y coordinar, como eje rector, la política pública estatal en materia de derechos humanos con un enfoque especial en los grupos en situación de desigualdad y discriminación por edad, origen étnico, orientación sexo-afectiva, identidad de género, expresión de género, situación de discapacidad o migración;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2021)</small>
 
-XXXII. De conformidad con el párrafo tercero del artículo 1.° de la Constitución Federal, promover, respetar, proteger y garantizar los derechos humanos de todas las personas que habitan o transitan en el Estado, con especial énfasis en los grupos, comunidades y poblaciones en condiciones de vulnerabilidad y que presentan situaciones de desigualdad y discriminación por razón de edad, origen étnico, orientación sexo-afectiva, identidad de género, expresión de género, discapacidad o migración, en coordinación con todas las instancias que conforman el Gobierno Estatal y de los mecanismos institucionales necesarios para su efectivo cumplimiento, o cualquier otra condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades fundamentales de las personas;
+XXXII. De conformidad con el párrafo tercero del artículo 1.º de la Constitución Federal, promover, respetar, proteger y garantizar los derechos humanos de todas las personas que habitan o transitan en el Estado, con especial énfasis en los grupos, comunidades indígenas y afromexicanas, cualquiera que sea su autodenominación, en condiciones de vulnerabilidad y que presentan situaciones de desigualdad y discriminación por razón de edad, origen étnico, orientación sexo-afectiva, identidad de género, expresión de género, discapacidad o migración, en coordinación con todas las instancias que conforman el Gobierno Estatal y de los mecanismos institucionales necesarios para su efectivo cumplimiento, o cualquier otra condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades fundamentales de las personas;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -499,9 +499,9 @@ XXXVI. Coordinar el Sistema Estatal para la Inclusión y Desarrollo de las Perso
 
 XXXVII. Coadyuvar y auxiliar, en coordinación con la Comisión Estatal Indígena, en el desarrollo integral y sustentable así como la plena efectividad de los derechos sociales, económicos y culturales de los pueblos originarios y comunidades indígenas, respetando su identidad social y cultural, sus costumbres y tradiciones, y sus instituciones;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2021)</small>
 
-XXXVIII. Propiciar la participación y cooperación de los pueblos originarios y comunidades indígenas en los instrumentos de planeación y presupuesto del Gobierno del Estado, con el objeto de mejorar las condiciones de vida, de trabajo y del nivel de salud y educación;
+XXXVIII. Propiciar la participación y cooperación de los pueblos originarios y comunidades indígenas y afromexicanas, cualquiera que sea su autodenominación, en los instrumentos de planeación y presupuesto del Gobierno del Estado, con el objeto de mejorar las condiciones de vida, de trabajo y del nivel de salud y educación;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -519,9 +519,9 @@ XLI. Diseñar, promover y articular políticas, programas y acciones con diferen
 
 XLII. Promover y garantizar, en el Gobierno del Estado, la generación de información pública, la rendición de cuentas y la transparencia gubernamental en materia de derechos humanos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2021)</small>
 
-XLIII. Coordinar y evaluar a los organismos de la administración pública paraestatal en materia de derechos humanos de personas, grupos, comunidades y poblaciones en condiciones de vulnerabilidad y que presentan situaciones de desigualdad y discriminación por razón de edad, origen étnico, orientación sexo-afectiva, identidad de género, expresión de género, discapacidad o migración, en el ejercicio de sus facultades, así como implementar los mecanismos para su integración funcional y desarrollo;
+XLIII. Coordinar y evaluar a los organismos de la administración pública paraestatal en materia de derechos humanos de personas, grupos, comunidades indígenas y afromexicanas, cualquiera que sea su autodenominación, en condiciones de vulnerabilidad y que presentan situaciones de desigualdad y discriminación por razón de edad, origen étnico, orientación sexo-afectiva, identidad de género, expresión de género, discapacidad o migración, en el ejercicio de sus facultades, así como implementar los mecanismos para su integración funcional y desarrollo;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -535,9 +535,9 @@ XLV. Coadyuvar con la Secretaria de la Hacienda Pública en la incorporación de
 
 XLVI. Promover y coordinar la política al interior de las dependencias y entidades públicas, que permita institucionalizar una cultura de respeto a los derechos humanos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2021)</small>
 
-XLVII. Coordinar y supervisar, dentro del ámbito estatal, la ejecución de los programas federales y los mecanismos de cooperación internacional especializados en grupos, comunidades y poblaciones en condiciones de vulnerabilidad y que presentan situaciones de desigualdad y discriminación por razón de edad, origen étnico, orientación sexo-afectiva, identidad de género, expresión de género, discapacidad o migración en el Estado, de acuerdo con los convenios suscritos;
+XLVII. Coordinar y supervisar, dentro del ámbito estatal, la ejecución de los programas federales y los mecanismos de cooperación internacional especializados en grupos, comunidades indígenas y afromexicanas, cualquiera que sea su autodenominación, en condiciones de vulnerabilidad y que presentan situaciones de desigualdad y discriminación por razón de edad, origen étnico, orientación sexo-afectiva, identidad de género, expresión de género, discapacidad o migración en el Estado, de acuerdo con los convenios suscritos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -861,7 +861,9 @@ VII. Aprobar la incorporación y revalidar los estudios, diplomas, grados o tít
 
 VIII. Promover el establecimiento y coordinar la organización y el funcionamiento de bibliotecas, hemerotecas, videotecas, filmotecas, plataformas digitales y otros medios de divulgación escolar;
 
-IX. Diseñar, ejecutar y evaluar programas de educación para adultos, indígenas y personas con discapacidad, en las que tenga competencia;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2021)</small>
+
+IX. Diseñar, ejecutar y evaluar programas de educación para adultos, indígenas, afromexicanos y personas con discapacidad, en las que tenga competencia;
 
 X. Diseñar, ejecutar y evaluar, en coordinación con las dependencias competentes, programas de educación para la salud, educación artística y mejoramiento ambiental;
 
@@ -959,7 +961,7 @@ XXXII. Las demás que establezcan otras disposiciones legales o reglamentarias a
 
 Artículo 25
 
-1.- Las facultades de la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres son las siguientes:
+1. Las facultades de la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres son las siguientes:
 
 > <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -1019,9 +1021,9 @@ XII. Dar seguimiento y evaluar las asignaciones presupuestarias estatales y su a
 
 XIII. Implementar un sistema estatal para dar seguimiento a la igualdad de género y el empoderamiento de las mujeres y asegurar un presupuesto suficiente, progresivo e intransferible para ese fin;
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2021)</small>
 
-XIV. Promover, orientar, dar seguimiento y evaluar políticas públicas estatales para asegurar el acceso de las mujeres rurales e indígenas a la capacitación, la tierra, los recursos naturales y productivos, los créditos, los programas de desarrollo y las estructuras de cooperativas que contribuyan en mayor medida al desarrollo sostenible;
+XIV. Promover, orientar, dar seguimiento y evaluar políticas públicas estatales para asegurar el acceso de las mujeres rurales e indígenas y afromexicanas, cualquiera que sea su autodenominación, a la capacitación, la tierra, los recursos naturales y productivos, los créditos, los programas de desarrollo y las estructuras de cooperativas que contribuyan en mayor medida al desarrollo sostenible;
 
 > <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -1043,9 +1045,9 @@ XVIII. Impulsar, orientar, dar seguimiento y evaluar políticas públicas orient
 
 XIX. Promover junto con el sector privado y evaluar los resultados de la adopción de prácticas de conciliación entre la vida familiar, laboral y personal con corresponsabilidad social, la inserción y el desarrollo profesional de las mujeres, en su diversidad, valorando el impacto de la igualdad de género en la productividad y competitividad;
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2021)</small>
 
-XX. Promover que el sector privado, en particular el empresarial, contribuya de manera eficaz al financiamiento de emprendimientos de mujeres, particularmente jefas de familia, mujeres jóvenes, mujeres indígenas, mujeres migrantes, adultas mayores y con discapacidad;
+XX. Promover que el sector privado, en particular el empresarial, contribuya de manera eficaz al financiamiento de emprendimientos de mujeres, particularmente jefas de familia, mujeres jóvenes, mujeres indígenas, mujeres afromexicanas, mujeres migrantes, adultas mayores y con discapacidad;
 
 > <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -1071,25 +1073,25 @@ XXV. Diseñar e instrumentar, en coordinación con las demás instituciones púb
 
 XXVI. Asegurar, en coordinación con las Secretarías General de Gobierno y de Planeación y Participación Ciudadana, la incorporación de los ejes transversales de derechos humanos de las mujeres, la perspectiva de género dentro de los instrumentos de planeación, programas y políticas del Gobierno del Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2021)</small>
 
-XXVII. Promover, en coordinación con las Secretarías General de Gobierno, de la Hacienda Pública y de Planeación y Participación Ciudadana, la creación de un fondo estatal para el fomento de actividades de incidencia social, entre otras, para el apoyo y fortalecimiento a las organizaciones civiles de mujeres, feministas y defensoras de derechos humanos, mujeres jóvenes, mujeres migrantes, mujeres adultas mayores, mujeres con discapacidad, de la diversidad sexual y mujeres indígenas, tomando en consideración los aportes de la sociedad civil desde la perspectiva de la progresividad de los derechos humanos de las mujeres;
+XXVII. Promover, en coordinación con las Secretarías General de Gobierno, de la Hacienda Pública y de Planeación y Participación Ciudadana, la creación de un fondo estatal para el fomento de actividades de incidencia social, entre otras, para el apoyo y fortalecimiento a las organizaciones civiles de mujeres, feministas y defensoras de derechos humanos, mujeres jóvenes, mujeres migrantes, mujeres adultas mayores, mujeres con discapacidad, de la diversidad sexual y mujeres indígenas, mujeres afromexicanas, cualquiera que sea su atutodenominación (sic), tomando en consideración los aportes de la sociedad civil desde la perspectiva de la progresividad de los derechos humanos de las mujeres;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
 
 XXVIII. Instrumentar, en coordinación con las demás dependencias y entidades estatales y municipales medidas orientadas a prevenir, disminuir y atender el embarazo adolescente, considerando las necesidades de las jóvenes en situación de embarazo en relación al acceso a los servicios de salud, a redes de soporte, al respeto a sus derechos y a la atención de sus necesidades de inclusión en el desarrollo social;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2021)</small>
 
-XXIX. Realizar campañas orientadas a promover el cambio de patrones socioculturales para el logro de la igualdad de género, la garantía, protección, promoción y respeto a los derechos humanos de las mujeres, particularmente las niñas y las mujeres jóvenes, mujeres indígenas, mujeres migrantes, mujeres con discapacidad, jefas de familia, mujeres lesbianas, mujeres transexuales y todas las mujeres en sus diversidades;
+XXIX. Realizar campañas orientadas a promover el cambio de patrones socioculturales para el logro de la igualdad de género, la garantía, protección, promoción y respeto a los derechos humanos de las mujeres, particularmente las niñas y las mujeres jóvenes, mujeres indígenas, mujeres afromexicanas, cualquiera que sea su autodenominación mujeres migrantes, mujeres con discapacidad, jefas de familia, mujeres lesbianas, mujeres transexuales y todas las mujeres en sus diversidades;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
 
 XXX. Fomentar y promover la presentación de una imagen equilibrada y no estereotipada de las mujeres y de las múltiples funciones que ellas desempeñan, a través de la investigación, la educación y la aplicación de estrategias de comunicación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2021)</small>
 
-XXXI. Impulsar programas para cerrar las brechas de género en el acceso, el uso y las habilidades en materia de ciencia, tecnología e innovación, y fomentar la participación de las mujeres y niñas en este ámbito, particularmente las mujeres y niñas indígenas, rurales, con discapacidad, adultas mayores y migrantes;
+XXXI. Impulsar programas para cerrar las brechas de género en el acceso, el uso y las habilidades en materia de ciencia, tecnología e innovación, y fomentar la participación de las mujeres y niñas en este ámbito, particularmente las mujeres y niñas indígenas, afromexicanas, cualquiera que sea su autodenominación, rurales, con discapacidad, adultas mayores y migrantes;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -3132,3 +3134,9 @@ El Ejecutivo Estatal, a través de la Secretaría deberá expedir y publicar el 
 ###### ARTÍCULO OCTAVO.
 
 El Titular del Poder Ejecutivo del Estado, a través de la Secretaría deberá realizar las gestiones necesarias para que opere la ventanilla única de trámites conforme a la disponibilidad y suficiencia presupuestal.
+
+P.O. 9 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28289/LXII/2021 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XXXII, XXXVIII, XLIII, XLVII DEL NUMERAL 1, DEL ARTÍCULO 17, FRACCIÓN IX DEL NUMERAL 1 DEL ARTÍCULO 23, FRACCIONES XIV, XX, XXVII, XXIX Y XXXI DEL NUMERAL 1 DEL ARTÍCULO 25 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
