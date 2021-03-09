@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-colegio-de-estudios-cientificos-y-107525"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-04-25"
-last_updated: "2020-12-29"
+last_updated: "2021-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2021.
 
 Ley publicada en la sección IV del Periódico Oficial del Estado de Jalisco, el sábado 25 de abril de 2015.
 
@@ -49,6 +49,8 @@ La presente Ley tiene por objeto crear y regular la estructura, funcionamiento y
 
 El Colegio tendrá su domicilio en la ciudad de Guadalajara, Jalisco.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 9 DE MARZO DE 2021)</small>
+
 ###### Artículo 2.
 
 Para efectos de este ordenamiento se entenderá por:
@@ -61,7 +63,9 @@ III. Colegio: el Colegio de Estudios Científicos y Tecnológicos del Estado de 
 
 IV. Director: el Director General del Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco; y
 
-V. INEE: el Instituto Nacional para la Evaluación de la Educación.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2021)</small>
+
+V. SNMCE: el Sistema Nacional de Mejora Continua de la Educación.
 
 ### Capítulo II. Del Objeto y Atribuciones del Colegio
 
@@ -602,3 +606,9 @@ P.O. 29 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28251/LXII/20 QUE REFORMA LOS ARTÍCULOS 20 Y 34 DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28290/LXII/2021 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2 DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
