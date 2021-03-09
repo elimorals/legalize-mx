@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-industria-electrica-101927"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-11"
-last_updated: "2020-11-06"
+last_updated: "2021-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101927&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-08-11"
 
 LEY DE LA INDUSTRIA ELÉCTRICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2021.
 
 Ley publicada en la Primera Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -71,11 +71,13 @@ III. CENACE: Centro Nacional de Control de Energía;
 
 IV. Central Eléctrica: Instalaciones y equipos que, en un sitio determinado, permiten generar energía eléctrica y Productos Asociados;
 
-V. Central Eléctrica Legada: Central Eléctrica que, a la entrada en vigor de la presente Ley, no se incluye en un permiso para generar energía eléctrica bajo la modalidad de autoabastecimiento, cogeneración, pequeña producción, producción independiente o usos propios continuos, y:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 9 DE MARZO DE 2021)</small>
 
-a) Es propiedad de los organismos, entidades o empresas del Estado y se encuentra en condiciones de operación, o
+V. Central Eléctrica Legada: Central Eléctrica que no se incluye en un permiso para generar energía eléctrica bajo la modalidad de autoabastecimiento, cogeneración, pequeña producción, producción independiente o usos propios continuos, y:
 
-b) Cuya construcción y entrega se ha incluido en el Presupuesto de Egresos de la Federación en modalidad de inversión directa;
+a) Es propiedad de los organismos, entidades o empresas del Estado, y
+
+b) Cuya construcción y entrega sea con independencia de su modalidad de financiamiento;
 
 VI. Central Externa Legada: Central Eléctrica que, a la entrada en vigor de la presente Ley:
 
@@ -93,11 +95,19 @@ X. Confiabilidad: Habilidad del Sistema Eléctrico Nacional para satisfacer la d
 
 XI. Continuidad: Satisfacción de la demanda eléctrica de los Usuarios Finales con una frecuencia y duración de interrupciones menor a lo establecido en los criterios respectivos que emita la CRE;
 
-XII. Contrato de Cobertura Eléctrica: Acuerdo entre Participantes del Mercado mediante el cual se obligan a la compraventa de energía eléctrica o Productos Asociados en una hora o fecha futura y determinada, o a la realización de pagos basados en los precios de los mismos;
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2021)</small>
+
+XII. Contrato de Cobertura Eléctrica: Acuerdo entre Participantes del Mercado mediante el cual se obligan a la compraventa de energía eléctrica o Productos Asociados en una hora o fecha futura y determinada, o a la realización de pagos basados en los precios de los mismos. Exclusivamente los Suministradores de Servicios Básicos podrán celebrar Contratos de Cobertura Eléctrica con Compromiso de Entrega Física;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MARZO DE 2021)</small>
+
+XII Bis. Contrato de Cobertura Eléctrica con Compromiso de Entrega Física: Acuerdo entre un Suministrador de Servicios Básicos y un Generador mediante el cual se obligan a la compraventa de energía eléctrica o Productos Asociados en una hora o fecha futura y determinada, con el compromiso de realizar la entrega física de la energía, Servicios Conexos o Potencia establecidos, y para lo cual el Generador presentará al CENACE los programas de generación de las Centrales Eléctricas que formen parte del Contrato mediante ofertas de programa fijo en el Mercado Eléctrico Mayorista, conforme a las Reglas del Mercado;
 
 XIII. Contrato de Interconexión Legado: Contrato de interconexión o contrato de compromiso de compraventa de energía eléctrica para pequeño productor celebrado o que se celebra bajo las condiciones vigentes con anterioridad a la entrada en vigor de la presente Ley;
 
-XIV. Contrato Legado para el Suministro Básico: Contrato de Cobertura Eléctrica que los Suministradores de Servicios Básicos tendrán la opción de celebrar, con precios basados en los costos y contratos respectivos, que abarcan la energía eléctrica y Productos Asociados de las Centrales Eléctricas Legadas y las Centrales Externas Legadas;
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2021)</small>
+
+XIV. Contrato Legado para el Suministro Básico: Contrato de Cobertura Eléctrica que los Suministradores de Servicios Básicos tendrán la opción de celebrar, con precios basados en los costos y contratos respectivos, que abarcan la energía eléctrica y Productos Asociados de las Centrales Eléctricas Legadas y las Centrales Externas Legadas, con compromiso de entrega física;
 
 XV. Control Operativo del Sistema Eléctrico Nacional: La emisión de instrucciones relativas a:
 
@@ -249,7 +259,9 @@ El Suministro Eléctrico es un servicio de interés público. La generación y c
 
 Las actividades de generación, transmisión, distribución, comercialización y el Control Operativo del Sistema Eléctrico Nacional son de utilidad pública y se sujetarán a obligaciones de servicio público y universal en términos de esta Ley y de las disposiciones aplicables, a fin de lograr el cabal cumplimiento de los objetivos establecidos en este ordenamiento legal. Son consideradas obligaciones de servicio público y universal las siguientes:
 
-I. Otorgar acceso abierto a la Red Nacional de Transmisión y las Redes Generales de Distribución en términos no indebidamente discriminatorios;
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2021)</small>
+
+I. Otorgar acceso abierto a la Red Nacional de Transmisión y las Redes Generales de Distribución en términos no indebidamente discriminatorios, cuando sea técnicamente factible;
 
 II. Ofrecer y prestar el Suministro Eléctrico a todo aquél que lo solicite, cuando ello sea técnicamente factible, en condiciones de eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y sustentabilidad;
 
@@ -259,7 +271,9 @@ IV. Contribuir al Fondo de Servicio Universal Eléctrico, conforme a lo señalad
 
 V. Cumplir con las obligaciones en materia de Energías Limpias y reducción de emisiones contaminantes que al efecto se establezcan en las disposiciones aplicables, y
 
-VI. Ofrecer energía eléctrica, potencia y Servicios Conexos al Mercado Eléctrico Mayorista basado en los costos de producción conforme a las Reglas del Mercado y entregar dichos productos al Sistema Eléctrico Nacional cuando sea técnicamente factible, sujeto a las instrucciones del CENACE.
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2021)</small>
+
+VI. Ofrecer energía eléctrica, potencia y Servicios Conexos al Mercado Eléctrico Mayorista basado en los costos de producción unitarios conforme a las Reglas del Mercado, garantizando, en primera instancia, los Contratos de Cobertura Eléctrica con Compromiso de Entrega Física y, en segundo término, el suministro de energías limpias, entregando dichos productos al Sistema Eléctrico Nacional cuando sea técnicamente factible, sujeto a las instrucciones del CENACE.
 
 ###### Artículo 5.
 
@@ -419,7 +433,9 @@ XLIII. Interpretar para efectos administrativos la presente Ley en el ámbito de
 
 La CRE está facultada para:
 
-I. Otorgar los permisos a que se refiere esta Ley y resolver sobre su modificación, revocación, cesión, prórroga o terminación;
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2021)</small>
+
+I. Otorgar los permisos a que se refiere esta Ley, considerando los criterios de planeación del Sistema Eléctrico Nacional establecidos por la Secretaría, y resolver sobre su modificación, revocación, cesión, prórroga o terminación;
 
 II. Determinar las metodologías de cálculo, criterios y bases para determinar y actualizar las contraprestaciones aplicables a los Generadores Exentos y Usuarios de Suministro Básico con Demanda Controlable cuando vendan su producción o reducción de demanda a un Suministrador de Servicios Básicos;
 
@@ -625,9 +641,11 @@ Los Generadores y Generadores Exentos están obligados a proporcionar, en la med
 
 ### Capítulo III. De la Transmisión y Distribución de Energía Eléctrica
 
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 2021)</small>
+
 ###### Artículo 26.
 
-Los Transportistas y los Distribuidores son responsables de la Red Nacional de Transmisión y las Redes Generales de Distribución y operarán sus redes conforme a las instrucciones del CENACE. Para el mantenimiento de la Red Nacional de Transmisión y de los elementos de las Redes Generales de Distribución que correspondan al Mercado Eléctrico Mayorista, los Transportistas y los Distribuidores se sujetarán a la coordinación y a las instrucciones del CENACE.
+Los Transportistas y los Distribuidores son responsables de la Red Nacional de Transmisión y las Redes Generales de Distribución y operarán sus redes conforme a las instrucciones del CENACE, quien considerará la prioridad en el uso de estas redes para el despacho de las Centrales Eléctricas Legadas y las Centrales Externas Legadas con compromiso de entrega física. Para el mantenimiento de la Red Nacional de Transmisión y de los elementos de las Redes Generales de Distribución que correspondan al Mercado Eléctrico Mayorista, los Transportistas y los Distribuidores se sujetarán a la coordinación y a las instrucciones del CENACE.
 
 ###### Artículo 27.
 
@@ -723,9 +741,11 @@ El interesado podrá realizar, bajo su propio costo, las obras para instalar la 
 
 El solicitante deberá celebrar el contrato de interconexión o conexión a que se refiere la fracción III del artículo anterior en el plazo de diez días hábiles a que se refiere el penúltimo párrafo de dicho artículo. La CRE autorizará los depósitos en garantía y las cuotas periódicas requeridos en el periodo previo a la entrada en operación de la Central Eléctrica o Centro de Carga correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MARZO DE 2021)</small>
+
 ###### Artículo 35.
 
-Cuando las obras, ampliaciones o modificaciones necesarias para la interconexión o conexión no se incluyan en los programas de ampliación y modernización de la Red Nacional de Transmisión y las Redes Generales de Distribución, el Generador, Generador Exento o Usuario Final podrán optar por realizarlas a su costa o por hacer aportaciones a los Transportistas o a los Distribuidores para su realización y beneficiarse de las mismas, bajo los términos, condiciones y metodologías de cálculo que se establezcan en los Reglamentos, o bien, que fije la CRE mediante disposiciones administrativas de carácter general, conforme a las bases generales siguientes:
+Cuando las obras, ampliaciones o modificaciones necesarias para la interconexión o conexión no se incluyan en los programas de ampliación y modernización de la Red Nacional de Transmisión y las Redes Generales de Distribución, los Generadores, Generadores Exentos, Usuarios Finales y/o los solicitantes para la interconexión de las Centrales Eléctricas y la conexión de los Centros de Carga podrán optar por agruparse para realizarlas a su costa o hacer aportaciones a los Transportistas o a los Distribuidores para su realización y beneficiarse de las mismas, bajo los términos, condiciones y metodologías de cálculo que se establezcan en los Reglamentos, o bien, que fije la CRE mediante disposiciones administrativas de carácter general, conforme a las bases generales siguientes:
 
 I. El CENACE realizará o validará el cálculo de aportaciones y otros conceptos a que se refiere este artículo, con el apoyo del Transportista o del Distribuidor en caso de requerirlo;
 
@@ -859,9 +879,11 @@ Previo al inicio del Suministro Básico o Suministro Calificado, el Usuario Fina
 
 La CRE establecerá los requisitos y montos mínimos de Contratos de Cobertura Eléctrica que los Suministradores deberán celebrar relativos a la energía eléctrica y Productos Asociados que suministrarán a los Centros de Carga que representen, y verificará su cumplimiento.
 
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 2021)</small>
+
 ###### Artículo 53.
 
-Los Suministradores de Servicios Básicos celebrarán Contratos de Cobertura Eléctrica exclusivamente a través de subastas que llevará a cabo el CENACE. Los términos para llevar a cabo dichas subastas y asignar los Contratos de Cobertura Eléctrica respectivos se dispondrán en las Reglas del Mercado.
+Los Suministradores de Servicios Básicos podrán celebrar Contratos de Cobertura Eléctrica a través de subastas que llevará a cabo el CENACE. Los términos para llevar a cabo dichas subastas y asignar los Contratos de Cobertura Eléctrica respectivos se dispondrán en las Reglas del Mercado.
 
 ###### Artículo 54.
 
@@ -1293,9 +1315,11 @@ En las Reglas del Mercado se definirán los demás productos, derechos de cobro 
 
 Los pagos efectuados entre el CENACE y los Participantes del Mercado se mantendrán en balance, con excepción del ingreso por el cobro de Tarifas Reguladas que percibe el CENACE para cubrir sus costos operativos y de los pagos que el CENACE procese entre los Participantes del Mercado y terceros, en los términos de las Reglas del Mercado. El CENACE podrá establecer cuentas de ingresos residuales a fin de mantener dicho balance entre periodos.
 
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 2021)</small>
+
 ###### Artículo 101.
 
-Con base en criterios de Seguridad de Despacho y eficiencia económica, el CENACE determinará la asignación y despacho de las Centrales Eléctricas, de la Demanda Controlable y de los programas de importación y exportación. Dicha asignación y despacho se ejecutará independientemente de la propiedad o representación de las Centrales Eléctricas, la Demanda Controlable u ofertas de importación y exportación.
+Con base en criterios de Seguridad de Despacho y eficiencia económica, el CENACE determinará la asignación y despacho de las Centrales Eléctricas, de la Demanda Controlable y de los programas de importación y exportación. Dicha asignación y despacho se ejecutará independientemente de la propiedad o representación de las Centrales Eléctricas, la Demanda Controlable u ofertas de importación y exportación. Lo anterior, considerando los Contratos de Cobertura Eléctrica con Compromiso de Entrega Física.
 
 ###### Artículo 102.
 
@@ -1353,9 +1377,13 @@ III. Llevar a cabo los procesos de revisión, ajuste, actualización, y emisión
 
 IV. Operar el Mercado Eléctrico Mayorista en condiciones que promuevan la competencia, eficiencia y no indebida discriminación;
 
-V. Determinar la asignación y el despacho de las Centrales Eléctricas, de la Demanda Controlable y de los programas de importación y exportación, a fin de satisfacer la demanda de energía eléctrica en el Sistema Eléctrico Nacional;
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2021)</small>
 
-VI. Recibir las ofertas y calcular los precios de energía eléctrica y Productos Asociados que derivan del Mercado Eléctrico Mayorista, de conformidad con las Reglas del Mercado;
+V. Determinar la asignación y el despacho de las Centrales Eléctricas, de la Demanda Controlable y de los programas de importación y exportación, a fin de satisfacer la demanda de energía eléctrica en el Sistema Eléctrico Nacional, y mantener la Seguridad de Despacho, Confiabilidad, Calidad y Continuidad del Sistema Eléctrico Nacional;
+
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2021)</small>
+
+VI. Recibir las ofertas y calcular los precios de energía eléctrica y Productos Asociados que derivan del Mercado Eléctrico Mayorista, y recibir los programas de generación y consumo asociados a los Contratos de Cobertura con compromisos de entrega física, de conformidad con las Reglas del Mercado;
 
 VII. Facturar, procesar o cobrar los pagos que correspondan a los integrantes de la industria eléctrica, de conformidad con esta Ley, las Reglas del Mercado y las demás disposiciones correspondientes;
 
@@ -1513,7 +1541,9 @@ Para efectos de las obligaciones de Certificados de Energías Limpias:
 
 I. La Secretaría establecerá los requisitos para la adquisición de Certificados de Energías Limpias, que deben cumplir los Suministradores, los Usuarios Calificados Participantes del Mercado y los Usuarios Finales que reciban energía eléctrica por el abasto aislado, así como los titulares de los Contratos de Interconexión Legados, asociados al consumo de los Centros de Carga que representen o incluyan;
 
-II. La Secretaría establecerá los criterios para su otorgamiento en favor de los Generadores y Generadores Exentos que produzcan energía eléctrica a partir de Energías Limpias;
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2021)</small>
+
+II. La Secretaría establecerá los criterios para su otorgamiento en favor de los Generadores y Generadores Exentos que produzcan energía eléctrica a partir de Energías Limpias. El otorgamiento de los Certificados de Energías Limpias a Centrales Eléctricas, no dependerá ni de la propiedad, ni de la fecha de inicio de operación comercial de las mismas;
 
 III. La CRE otorgará los Certificados de Energías Limpias que correspondan, emitirá la regulación para validar su titularidad y verificará el cumplimiento de dichas obligaciones;
 
@@ -2284,3 +2314,17 @@ A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales n
 Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
 
 Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
+
+D.O.F. 9 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA INDUSTRIA ELÉCTRICA”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+Tercero. La Secretaría de Energía, la Comisión Reguladora de Energía y el Centro Nacional de Control de Energía, dentro del ámbito de su competencia, dispondrán de un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones que sean necesarias a todos los acuerdos, resoluciones, lineamientos, políticas, criterios, manuales y demás instrumentos regulatorios expedidos en materia de energía eléctrica, con el fin de alinearlos a lo previsto en el presente Decreto.
+
+Cuarto. Los permisos de autoabastecimiento, con sus modificaciones respectivas, otorgados o tramitados al amparo de la Ley del Servicio Público de Energía Eléctrica, que continúen surtiendo sus efectos jurídicos, obtenidos en fraude a la ley, deberán ser revocados por la Comisión Reguladora de Energía mediante el procedimiento administrativo correspondiente. En su caso, los permisionarios podrán tramitar un permiso de generación, conforme a lo previsto en la Ley de la Industria Eléctrica.
+
+Quinto. Los Contratos de Compromiso de Capacidad de Generación de Energía Eléctrica y Compraventa de Energía Eléctrica suscritos con productores independientes de energía al amparo de la Ley del Servicio Público de Energía Eléctrica, deberán ser revisados a fin de garantizar su legalidad y el cumplimiento del requisito de rentabilidad para el Gobierno Federal establecido en los artículos 74, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos, 32 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 18 de la Ley Federal de Deuda Pública. En su caso, dichos contratos deberán ser renegociados o terminados en forma anticipada.
