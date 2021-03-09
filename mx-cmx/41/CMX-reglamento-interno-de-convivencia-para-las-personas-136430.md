@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-convivencia-para-las-personas-136430"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-05-31"
-last_updated: "2019-05-31"
+last_updated: "2021-03-09"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136430&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-05-24"
 ---
 # REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS Y PERSONAS SERVIDORAS PUBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACION SOCIAL CORUÑA JOVENES (CAIS CORUÑA JOVENES)
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MARZO DE 2021 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL CORUÑA JÓVENES (CAIS CORUÑA JÓVENES)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 9 DE MARZO DE 2021.
 
 Reglamento publicado en el Número 103 de la Gaceta Oficial de la Ciudad de México, el viernes 31 de mayo de 2019.
 
@@ -44,9 +46,11 @@ A).- Garantizar el derecho de las y los adolescentes en situación de desamparo 
 
 B).- Regular el comportamiento de las y los adolescentes usuarios que reciben acogimiento de corto o largo plazo en el Centro.
 
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2021)</small>
+
 ###### Artículo 2.
 
-El CAIS Coruña Jóvenes atiende a las y los adolescentes mayores de 12 años a 17 años 6 meses en situación de desamparo, abandono o con problemas de adicciones, sin patologías psiquiátricas cognitivas o físicas. Así como a integrantes de las poblaciones callejeras durante la Campaña de Invierno.
+El CAIS Coruña Jóvenes atiende a niñas y niños de 6 a 10 años 11 meses y adolescentes mujeres hasta 17 años 11 meses en situación de desamparo, abandono o con problemas de adicciones, sin patologías psiquiátricas, cognitivas o físicas.
 
 ### CAPÍTULO II. Definiciones
 
@@ -515,3 +519,17 @@ MTRA. NADIA TRONCOSO ARRIAGA
 DIRECTORA GENERAL
 
 INSTITUTO DE ATENCIÓN A POBLACIONES PRIORITARIAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 9 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DAN A CONOCER LAS MODIFICACIONES AL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL, "CORUÑA JÓVENES, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, EL 31 DE MAYO DE 2019".]
+
+PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Aviso entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El Centro de Asistencia e Integración Social Coruña Jóvenes (CAIS CORUÑA JÓVENES) contará a partir de la entrada en vigor del presente Aviso, con 90 días hábiles para hacer las reformas a los Reglamentos Internos de Convivencia y demás instrumentos administrativos que regulan la operación de los Centros. En tanto seguirán vigentes las disposiciones actuales.
+
+CUARTO.- En caso de presentarse alguna controversia con motivo de la interpretación, cumplimiento, o algún asunto que no se encuentre expresamente previsto en el presente Aviso, éste será resuelto por la Dirección de los Centros de Asistencia e Integración Social.
