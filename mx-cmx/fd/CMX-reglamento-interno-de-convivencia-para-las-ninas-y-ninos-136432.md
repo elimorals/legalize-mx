@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-convivencia-para-las-ninas-y-ninos-136432
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-05-31"
-last_updated: "2019-05-31"
+last_updated: "2021-03-09"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136432&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-05-24"
 
 REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS NIÑAS Y NIÑOS USUARIOS Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL AZCAPOTZALCO (CAIS AZCAPOTZALCO) DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MARZO DE 2021.
 
 Reglamento publicado en el No. 103 de la Gaceta Oficial de la Ciudad de México, el viernes 31 de mayo de 2019.
 
@@ -40,9 +40,11 @@ I.- Garantizar los derechos de las niñas y niños en situación de desamparo qu
 
 II.- Regular el comportamiento de las niñas y niños usuarios que reciben acogimiento de corto o largo plazo en el Centro.
 
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 2021)</small>
+
 ###### Artículo 2.
 
-El CAIS Azcapotzalco atiende a niñas y niños de 6 a 11 años 11 meses de edad en situación de desamparo o abandono con problemas de maltrato infantil, desintegración familiar, abuso sexual y/o físico y cualquier tipo (sic) violencia, sin patologías psiquiátricas, cognitivas o físicas.
+El CAIS Azcapotzalco atiende a niños y adolescentes de 11 años a 17 años 11 meses de edad en situación de desamparo o abandono con problemas de maltrato infantil, desintegración familiar, abuso sexual y/o físico y cualquier tipo (sic) violencia, sin patologías psiquiátricas, cognitivas o físicas.
 
 ### CAPÍTULO II. Definiciones
 
@@ -407,3 +409,17 @@ MTRA. NADIA TRONCOSO ARRIAGA
 DIRECTORA GENERAL
 
 INSTITUTO DE ATENCIÓN A POBLACIONES PRIORITARIAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DERECHOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 9 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DAN A CONOCER LAS MODIFICACIONES AL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS NIÑAS Y NIÑOS USUARIOS Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL AZCAPOTZALCO (CAIS AZCAPOTZALCO), PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, EL 31 DE MAYO DE 2019”.]
+
+PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Aviso entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El Centro de Asistencia e Integración Social Azcapotzalco (CAIS Azcapotzalco) contará a partir de la entrada en vigor del presente Aviso, con 90 días hábiles para hacer las reformas a los Reglamentos Internos de Convivencia y demás instrumentos administrativos que regulan la operación de los Centros. En tanto seguirán vigentes las disposiciones actuales.
+
+CUARTO.- En caso de presentarse alguna controversia con motivo de la interpretación, cumplimiento, o algún asunto que no se encuentre expresamente previsto en el presente Aviso, éste será resuelto por la Dirección de los Centros de Asistencia e Integración Social.
