@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2021-01-22"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3549,27 +3549,49 @@ Comete el delito de violencia familiar el cónyuge; la cónyuge; concubino; conc
 
 A quien cometa el delito de violencia familiar, se le impondrán de dos a ocho años de prisión y multa de cincuenta hasta ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito; y estará sujeto a tratamiento integral para su rehabilitación por un tiempo que no rebase la sanción privativa de la libertad que se haya impuesto, así como la pérdida de la patria potestad, de los derechos hereditarios y de alimentos.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
 
-La penalidad descrita en el párrafo anterior se aumentará hasta en una tercera parte, en caso de que la víctima sea mayor de setenta años.
+La penalidad descrita en el párrafo anterior se aumentará hasta en una mitad, en caso de que la víctima sea mayor de setenta años, o que la víctima sea una niña, niño o adolescente.
 
 > <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 La Autoridad Judicial y el Ministerio Público, en su caso, dictará las medidas necesarias para el tratamiento psicoterapéutico del agresor y de la víctima, ordenando cuando sea procedente las medidas apropiadas para salvaguardar la integridad de sus familiares.
 
-(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2003
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2021)</small>
 
 ###### Artículo 284 Ter.
 
-Se equipara al delito de violencia familiar y se sancionará como tal, a quien abusando de la confianza depositada o de una relación de cualquier índole con la víctima, ejecute conductas que entrañen el uso de la violencia física o moral en contra de cualquier menor de catorce años, que dañe su integridad física o psicológica.
+Se equipara al delito de violencia familiar y se sancionará como tal, a quien abusando de la confianza depositada o de una relación de cualquier índole con la víctima, ejecute conductas que entrañen el uso de la violencia física o moral en contra de persona mayor de setenta años, o que la víctima sea una niña, niño o adolescente.
+
+(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2003
 
 Las sanciones señaladas en esta sección se aumentarán a las que correspondan por cualquier otro delito que resulte cometido.
-
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 284 Quáter.
 
 El delito de violencia familiar se perseguirá de oficio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 10 DE MARZO DE 2021)</small>
+
+En los casos previstos en los artículos 284 Bis y 284 Ter, el restablecimiento indemnatos procederá cuando, a satisfacción del Ministerio Público se reúnan las condiciones siguientes:
+
+I. El conocimiento y la aceptación del sujeto activo de la posibilidad de la extinción de la acción penal previa la garantía o reparación del daño de forma integral a la víctima;
+
+II. Se establezcan las condiciones para asegurar la integridad de la persona agraviada, y
+
+III. La reeducación de la persona agresora con perspectiva de género en institución pública debidamente acreditada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MARZO DE 2021)</small>
+
+La fracción III de este artículo implica que el sujeto activo asista a los programas de reeducación que impartan los Centros de Reeducación para personas agresoras, conforme sus modelos de atención, previamente acreditados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MARZO DE 2021)</small>
+
+Una vez cumplidas las condiciones convenidas ante el Ministerio Público, incluida la reeducación del sujeto activo en la forma en que establece este artículo, procederán los efectos del restablecimiento indemnatos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MARZO DE 2021)</small>
+
+Lo anterior no se aplicará a víctimas con dictamen psicológico que revelen sometimiento psicológico respecto de su agresor, niñas, niños y adolescentes, mujeres embarazadas, personas con discapacidad ni mayores de sesenta años.
 
 CAPITULO DECIMOTERCERO.- INFRACCIONES A LAS LEYES Y REGLAMENTOS SOBRE INHUMACIONES Y EXHUMACIONES
 
@@ -4999,13 +5021,21 @@ I.- Con multa de cinco a cincuenta días de salario y prisión de seis meses a t
 
 II.- Con multa de cincuenta a doscientos cincuenta días de salario y prisión de tres a cinco años, si el valor de lo defraudado excediere de cien días de salario, pero no de quinientos;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-III.- Con multa de doscientos cincuenta a quinientos días de salario y prisión de cinco a siete años, cuando el valor de lo defraudado excediere de quinientos días de salario, pero no de mil, y
+III.- Con multa de doscientos cincuenta a quinientas unidades de medida y actualización y prisión de cinco a siete años, cuando el valor de lo defraudado excediere de quinientas unidades de medida y actualización, pero no de mil;
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-IV.- Con multa de quinientos a mil días de salario y prisión de siete a diez años, cuando el valor de lo defraudado excediere de mil días de salario.
+IV.- Con multa de quinientas a mil unidades de medida y actualización y prisión de siete a diez años, cuando el valor de lo defraudado excediere de mil unidades de medida y actualización, y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2021)</small>
+
+V.- Prisión de cinco a siete años, en el caso del delito contemplado en la fracción XXI del artículo 404.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+La presente sanción se incrementará hasta una mitad, cuando el delito lo cometa un profesional de la salud y con la suspensión de su cédula profesional y licencia comercial por diez años para el derecho de ejercer su profesión y comercio.
 
 ###### Artículo 404.
 
@@ -5073,21 +5103,25 @@ En caso de homicidio, el Agente del Ministerio Público actuante avisará a la a
 
 El Agente del Ministerio Público que en relación con el caso a que se refiere esta fracción, propiciare o permitiere la comisión de las conductas sancionadas, serán igualmente responsables.
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2021)</small>
 
-XXI.- Al que se coloque en estado de insolvencia con el objeto de eludir el cumplimiento de una obligación con respecto a sus acreedores.
+XXI.- A la persona que venda u ofrezca en venta, comercie, entregue, distribuya o transporte sustancias que se ofrezcan como vacunas contra el virus SARS-CoV2 (COVID-19) falsificadas, alteradas, contaminadas o adulteradas, o que no estén autorizadas por la Comisión Federal de Protección contra Riesgos Sanitarios, o bien que siendo verdaderas, originales y autorizadas no las entregue en términos de lo pactado, ya sea en establecimientos o en cualquier otro lugar;
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-XXII.- Al que hiciere creer a una persona que otra relacionada con ésta se encuentra secuestrada y en virtud de ello exigiere y obtuviere una cantidad de dinero o cualquier otro lucro, como un supuesto rescate.
+XXII.- Al que se coloque en estado de insolvencia con el objeto de eludir el cumplimiento de una obligación con respecto a sus acreedores;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-XXIII.- Al que preste servicios notariales, sin contar con la patente de Notario en Ejercicio o realice propaganda de cualquier tipo, ofreciendo los servicios que sólo los Notarios pueden realizar, y
+XXIII.- Al que hiciere creer a una persona que otra relacionada con ésta se encuentra secuestrada y en virtud de ello exigiere y obtuviere una cantidad de dinero o cualquier otro lucro, como un supuesto rescate;
 
-> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-XXIV.- Al que intercambie o haga efectivas tarjetas, títulos, vales, documentos o instrumentos utilizados para el consumo de bienes y servicios, con conocimiento de que son falsos.
+XXIV.- Al que preste servicios notariales, sin contar con la patente de Notario en Ejercicio o realice propaganda de cualquier tipo, ofreciendo los servicios que sólo los Notarios pueden realizar; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MARZO DE 2021)</small>
+
+XXV.- Al que intercambie o haga efectivas tarjetas, títulos, vales, documentos o instrumentos utilizados para el consumo de bienes y servicios, con conocimiento de que son falsos.
 
 ###### Artículo 405.
 
@@ -7066,6 +7100,30 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 22 DE ENERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 346 Y ADICIONA EL ARTÍCULO 346 BIS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III Y IV DEL ARTÍCULO 403, LAS FRACCIONES XXI, XXII, XXIII Y XIV DEL 404 Y ADICIONA LA FRACCIÓN V Y UN SEGUNDO PÁRRAFO AL 403, LA FRACCIÓN XXV AL 404, TODOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan tocias las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 284 BIS Y EL PRIMER PÁRRAFO DEL ARTÍCULO 284 TER DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 284 QUATER DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
