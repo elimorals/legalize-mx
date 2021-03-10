@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2020-11-13"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2021.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -2251,17 +2251,17 @@ c) Se cometa en lugar cerrado, habitado o destinado para habitación o sus depen
 
 III. De seis a ocho años de prisión y multa hasta de doscientas Unidades de Medida y Actualización, cuando:
 
-> <small>(REFORMADO, G.O. 9 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2021)</small>
 
-a) Se sustraiga el mobiliario o equipo de una escuela, impidiendo el desempeño de sus funciones;
+a) Se sustraiga mobiliario, equipo o cualquier otro bien de una escuela que impida el desempeño de sus funciones;
 
-> <small>(REFORMADO, G.O. 9 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2021)</small>
 
-b) Adquieran, oculten o comercialicen los bienes producto del robo a escuelas; o
+b) Se adquieran, oculten o comercialicen los bienes producto del robo a escuelas;
 
-> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2021)</small>
 
-c) El objeto del robo sean vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitidos por personas morales utilizados para canjear bienes y servicios.
+c) El objeto del robo sean vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitidos por personas morales utilizados para canjear bienes y servicios; o
 
 > <small>(ADICIONADO, G.O. 20 DE FEBRERO DE 2017)</small>
 
@@ -5293,17 +5293,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 3o., 4o. Y 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE PROTECCIÓN Y CUIDADO ANIMAL".]
+G.O. 10 DE MARZO DE 2021.
 
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 835 QUE REFORMA LOS INCISOS A), B) Y C) DE LA FRACCIÓN III DEL ARTÍCULO 205 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-Segundo.- El Congreso de la Unión cuenta con un plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, para expedir la Ley General en Materia de Bienestar, Cuidado y Protección de los Animales, considerando su naturaleza, características y vínculos con las personas, la prohibición del maltrato en la crianza, el aprovechamiento y sacrificio de animales de consumo humano y en la utilización de ejemplares de vida silvestre en espectáculos con fines de lucro, así como las medidas necesarias para atender el control de plagas y riesgos sanitarios.
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
-Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados del Congreso de la Unión en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
-
-Cuarto.- Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
-
-D.O.F. 20 DE DICIEMBRE DE 2024.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SIMPLIFICACIÓN ORGÁNICA".]
 
