@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2020-12-30"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -665,7 +665,13 @@ XVII. Contratar, nombrar y remover al personal del Instituto, así como aceptar 
 
 XVIII. En coordinación con la Secretaría, implementar las acciones que en materia de protección al medio ambiente se establezcan para la prestación de los servicios de transporte; y
 
-XIX. Las demás que determine esta Ley, su Reglamento, el Reglamento Interior, otros ordenamientos jurídicos aplicables o el Titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2021)</small>
+
+XIX. Emitir una Alerta de Violencia de Género contra las Mujeres en el Sistema Estatal de Movilidad, cuando las circunstancias así lo ameriten, de acuerdo a los protocolos establecidos, y en coordinación con las autoridades federales en la materia y el Instituto Estatal de las Mujeres, tomar las medidas necesarias que garanticen la seguridad de las mujeres, creando entornos seguros y libres de violencia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MARZO DE 2021)</small>
+
+XX. Las demás que determine esta Ley, su Reglamento, el Reglamento Interior, otros ordenamientos jurídicos aplicables o el Titular del Poder Ejecutivo del Estado.
 
 ### CAPÍTULO CUARTO. COMITÉ DE VIGILANCIA
 
@@ -3010,3 +3016,15 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 439. SE REFORMA LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN POR ADICIÓN DE UN ARTÍCULO TRANSITORIO DÉCIMO NOVENO”.]
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 306. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN XIX Y SE ADICIONA FRACCIÓN XX DEL ARTÍCULO 26 DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMAN POR MODIFICACIÓN LA FRACCIÓN IV Y V DEL ARTÍCULO 8, LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 21; SE ADICIONAN LA FRACCIÓN VI AL ARTÍCULO 8, LA FRACCIÓN XX AL ARTÍCULO 21 Y LA SECCIÓN SEXTA CON LOS ARTÍCULOS 26 BIS Y 26 BIS 1 EN LA LEY DEL INSTITUTO ESTATAL DE LAS MUJERES".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- El Instituto Estatal de las Mujeres deberá realizar las modificaciones a su Reglamento Interior para adecuarlo al presente Decreto en un plazo no mayor a 60-sesenta días naturales posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO.- El Instituto de Movilidad y Accesibilidad deberá de realizar las modificaciones al Reglamento de la Ley de Movilidad Sostenible y Accesibilidad para el Estado de Nuevo León, así como a su Reglamento Interior, para adecuarlos al presente Decreto en un plazo no mayor a 60-sesenta días naturales posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO.- El Instituto Estatal de la Mujer, así como el Instituto de Movilidad y Accesibilidad, tendrán un plazo no mayor a 90-noventa días naturales posteriores a la entrada en vigor del presente Decreto para elaborar de manera coordinada y publicar en el Periódico Oficial del Estado de Nuevo León los protocolos establecidos en los artículos 23 fracción XXXII y 26 fracción XIX de la Ley de Movilidad Sostenible y Accesibilidad para el Estado de Nuevo León, y la guía para la elaboración del Plan de Acción Inmediata para la Erradicación de cualquier tipo de Violencia contra la (sic) Mujeres en el Sistema Estatal de Movilidad establecido en el artículo 26 Bis de la Ley del Instituto Estatal de las Mujeres.
