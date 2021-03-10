@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-del-instituto-del-fondo-nacional-de-la-139589"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-12-24"
-last_updated: "2019-12-24"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139589&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-12-06"
 
 CÓDIGO DE ÉTICA DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, EL CUAL CONTIENE LAS ADECUACIONES APROBADAS POR LA ASAMBLEA GENERAL DEL INSTITUTO EN SU SESIÓN ORDINARIA NÚMERO 119, CELEBRADA EL DÍA 6 DE DICIEMBRE DE 2019
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MARZO DE 2021.
 
 Código publicado en el Diario Oficial de la Federación, el martes 24 de diciembre de 2019.
 
@@ -31,13 +31,17 @@ CÓDIGO DE ÉTICA DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABA
 
 Con fundamento en los artículos 10, fracción IX, 18, fracciones II y III; y 18 bis 1, fracción VII, de la Ley del Infonavit; así como los artículos 13, 16, 17, 23, 24 segundo párrafo, 25, 26 y 52, fracción II del Estatuto Orgánico del Infonavit se emite el presente Código de Ética:
 
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2021)</small>
+
 Misión
 
-Generar valor para las y los trabajadores, sus familias y comunidades a través de soluciones de vivienda y ahorro, que les permitan incrementar su patrimonio y calidad de vida de forma sostenible, a lo largo de su vida laboral y durante su retiro.
+Ser la institución que da soluciones financieras para que las y los trabajadores derechohabientes accedan a una vivienda adecuada.
+
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2021)</small>
 
 Visión
 
-Ser de las mejores instituciones del Estado mexicano, reconocida por su autonomía de gestión, solidaridad social y modelo de gobierno tripartita, que ofrezca productos financieros a la medida de las necesidades de vivienda y para el retiro de cada derechohabiente, buscando en todo momento consolidar un sistema que aspire en el tiempo a lograr los rendimientos más competitivos a su ahorro, con servicios de calidad, transparencia y rendición de cuentas.
+Ser el aliado de confianza de las y los trabajadores derechohabientes, ofrecer soluciones financieras para la vivienda, adaptadas a sus necesidades, y administrar sus recursos con eficiencia, seguridad y transparencia, con un trato proactivo, rápido y resolutivo, con base en los principios de tripartismo, autonomía de gestión y su naturaleza social.
 
 I. Disposiciones Generales
 
@@ -356,3 +360,9 @@ En tanto se realicen dichas reformas, las atribuciones conferidas a la Subcomisi
 OCTAVO. Dentro de los 120 días naturales posteriores a la aprobación del presente Código de Ética se ajustará la Guía de Responsabilidad Social de los Proveedores del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, así como cualquier otra disposición interna de la Administración que requiera actualizarse derivado del contenido del presente Código.
 
 Este Código fue aprobado en la sesión ordinaria número 119 de la Asamblea General del Infonavit celebrada el seis de diciembre de dos mil diecinueve.- El Director General, Carlos Martínez Velázquez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 10 DE MARZO DE 2021.
+
+> <small>[N. DE E. EL AVISO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
