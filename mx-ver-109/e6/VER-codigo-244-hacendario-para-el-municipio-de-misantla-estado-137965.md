@@ -4,7 +4,7 @@ identifier: "VER-codigo-244-hacendario-para-el-municipio-de-misantla-estado-1379
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-30"
-last_updated: "2019-10-15"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE MISANTLA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2021.
 
 Código publicado en el Número Extraordinario al Número 216 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 30 de mayo de 2019.
 
@@ -1471,7 +1471,9 @@ Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en c
 
 Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de 6,577.667 UMA.
 
-El Ayuntamiento, por acuerdo del Cabildo, podrá otorgar igualmente el descuento del cincuenta por ciento en el pago de esta contribución a madres solteras que sean jefas de familia, siempre que reúnan los requisitos señalados en el párrafo anterior. En ese caso, la tesorería municipal informará al Congreso del Estado y al Órgano de Fiscalización Superior sobre el acuerdo referido.
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2021)</small>
+
+El Ayuntamiento, por acuerdo del Cabildo, podrá otorgar igualmente el descuento del cincuenta por ciento en el pago de esta contribución a madres solteras que sean jefas de familia, así como a las víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, siempre que reúnan los requisitos señalados en el párrafo anterior. En este caso, la tesorería municipal informará al Congreso del Estado y al Órgano de Fiscalización Superior sobre el acuerdo referido.
 
 A estos descuentos no se podrá adicionar el descuento señalado en el artículo 118 de este Código.
 
@@ -2446,6 +2448,10 @@ Son sujetos de estos derechos, las personas físicas o morales que soliciten los
 Los Derechos por los Servicios del Registro Civil se causarán y pagarán, en Unidades de Medida y Actualización, de acuerdo a las cuotas siguientes:
 
 I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción, de actas ordinarias serán 1 UMA y 1.50 UMAs para copias con carácter de urgente; Las ordinarias se entregarán en un plazo no mayor a 3 días hábiles una vez iniciado el trámite, en el caso de las urgentes se entregarán el mismo día, siempre y cuando el trámite se inicie en un horario de 9 a 11 horas;
+
+> <small>(ADICIONADO, G.O. 10 DE MARZO DE 2021)</small>
+
+El ayuntamiento, por acuerdo del Cabildo, podrá exentar del pago del derecho por la prestación del servicio a que se refiere esta fracción, a aquellas personas que, siendo víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, soliciten la expedición de copias certificadas de su acta de registro de nacimiento o de la perteneciente a la víctima directa de la cual sean familiar.
 
 II. Expedición de actas foráneas, incluyendo papel valorado 1.50 UMAs, más el costo de la descarga digital;
 
@@ -4602,3 +4608,11 @@ G.O. 15 DE OCTUBRE DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 839 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO HACENDARIO MUNICIPAL, A LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, MISANTLA, ORIZABA, PAPANTLA, TIERRA BLANCA, VERACRUZ Y XALAPA, ASÍ COMO AL CÓDIGO DE DERECHOS Y A LA LEY DE CAMINOS Y PUENTES, TODOS DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
