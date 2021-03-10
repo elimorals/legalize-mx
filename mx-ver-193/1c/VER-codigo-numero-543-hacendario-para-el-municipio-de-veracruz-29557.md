@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-543-hacendario-para-el-municipio-de-veracruz-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-03-10"
-last_updated: "2019-10-15"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2021.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 10 de marzo de 2003.
 
@@ -1533,9 +1533,9 @@ Cuando la Tesorería advierta que un inmueble ha salido del dominio público de 
 
 Los contribuyentes del impuesto predial, que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina, con discapacidad, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de la casa habitación del contribuyente y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
 
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2021)</small>
 
-Las personas mayores de sesenta años, madres solteras y personas con discapacidad, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil unidades de medida y actualización (UMA).
+Las personas mayores de sesenta años, madres solteras, personas con discapacidad y víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil unidades de medida y actualización (UMA)
 
 A estos descuentos no se podrá adicionar el descuento señalado en el artículo 118 de este Código.
 
@@ -3074,6 +3074,26 @@ copia certificada del acta de registro
 de nacimiento de una persona y, en su caso, del
 
 acta de adopción; 1.20
+
+> <small>(ADICIONADO, G.O. 10 DE MARZO DE 2021)</small>
+
+El ayuntamiento, por acuerdo del Cabildo,
+
+podrá exentar del pago del derecho por la
+
+prestación del servicio a que se refiere esta fracción,
+
+a aquellas personas que, siendo víctimas indirectas
+
+de los delitos de desaparición forzada de personas
+
+y desaparición cometida por particulares, soliciten
+
+la expedición de copias certificadas de su acta de
+
+registro de nacimiento o de la perteneciente a la
+
+víctima directa de la cual sean familiar.
 
 > <small>(REFORMADA, G.O. 30 DE MAYO DE 2019)</small>
 
@@ -5396,3 +5416,11 @@ G.O. 15 DE OCTUBRE DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 839 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO HACENDARIO MUNICIPAL, A LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, MISANTLA, ORIZABA, PAPANTLA, TIERRA BLANCA, VERACRUZ Y XALAPA, ASÍ COMO AL CÓDIGO DE DERECHOS Y A LA LEY DE CAMINOS Y PUENTES, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
