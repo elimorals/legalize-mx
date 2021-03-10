@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-las-mujeres-nuevo-leon-35808"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-17"
-last_updated: "2019-04-05"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE LAS MUJERES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de diciembre de 2003.
 
@@ -173,9 +173,17 @@ II. La Junta de Gobierno;
 
 III. La Presidencia Ejecutiva;
 
-IV. La Secretaría Ejecutiva; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-V. El órgano de vigilancia y control interno.
+IV. La Secretaría Ejecutiva;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+V. El órgano de vigilancia y control interno, y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2021)</small>
+
+VI. Consejo de Alerta de Violencia de Género contra las Mujeres.
 
 La Presidencia Ejecutiva contará con las estructuras administrativas que se establezcan en el Reglamento Interior del Instituto.
 
@@ -421,13 +429,17 @@ XVI. Coordinarse con los responsables del área de equidad de género en cada de
 
 XVII. Impulsar la creación de institutos municipales de las mujeres y la apertura de oficinas regionales y municipales del Instituto Estatal de las Mujeres;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-XVIII. Brindar información pública que le sea solicitada a el Organismo de conformidad a la Ley de Transparencia y Acceso a la Información; y
+XVIII. Brindar información pública que le sea solicitada a el Organismo de conformidad a la Ley de Transparencia y Acceso a la Información;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2021)</small>
 
-XIX. Las demás que establezca esta Ley, otros ordenamientos legales, el Reglamento Interior del Instituto, así como de las derivadas de los acuerdos de la Junta (sic) Gobierno.
+XIX. Reunir de inmediato al Consejo de Alerta de Violencia de Género contra las Mujeres en el Sistema Estatal de Movilidad, cuando el Director General del Instituto de Movilidad y Accesibilidad emita una Alerta de Violencia de Género contra las Mujeres en el Sistema Estatal de Movilidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MARZO DE 2021)</small>
+
+XX. Las demás que establezca esta Ley, otros ordenamientos legales, el Reglamento Interior del Instituto, así como de las derivadas de los acuerdos de la Junta (sic) Gobierno.
 
 #### Sección Cuarta. De la Secretaría Ejecutiva del Instituto Estatal de las Mujeres
 
@@ -490,6 +502,52 @@ V. Las demás necesarias para el ejercicio de las anteriores, así como las que 
 ###### Artículo 26.
 
 Las facultades del Comisario o Comisaria se señalan sin perjuicio de aquellas que le correspondan a otras dependencias de la Administración Pública Estatal conforme a las leyes en vigor.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE MARZO DE 2021)</small>
+
+#### Sección Sexta:
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+###### Artículo 26 Bis.
+
+El Consejo de Alerta de Violencia de Género contra las Mujeres en el Sistema Estatal de Movilidad, es un órgano interinstitucional de carácter honorífico, que tendrá por objeto la elaboración de un Plan de Acción Inmediata para la Erradicación de Cualquier tipo de Violencia contra la (sic) Mujeres en el Sistema Estatal de Movilidad y se integrará por:
+
+I. La Presidenta Ejecutiva del Instituto Estatal de las Mujeres;
+
+II. El Director General del Instituto de Movilidad y Accesibilidad;
+
+III. El Titular de Metrorrey;
+
+IV. El Secretario de Seguridad Pública del Estado de Nuevo León;
+
+V. El Fiscal General de Justicia del Estado de Nuevo León;
+
+VI. El Fiscal Especializado en Feminicidios y Delitos contra la (sic) Mujeres;
+
+VII. Los 3 presidentes municipales de municipios metropolitanos, que integren la Junta de Gobierno del Instituto de Movilidad y Accesibilidad;
+
+VIII. El presidente municipal de municipio no metropolitano, que integre la Junta de Gobierno del Instituto de Movilidad y Accesibilidad; y
+
+IX. Las autoridades, instituciones, ciudadanos u Organismos de la Sociedad Civil, que considere necesarios para el cumplimiento del objeto de dicho Consejo. El número de participantes y procedimiento de selección se determinará en el Reglamento del Instituto.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+###### Artículo 26 Bis 1.
+
+El Consejo de Alerta de Violencia de Género contra las Mujeres en el Sistema Estatal de Movilidad, tendrá las atribuciones siguientes:
+
+I. Elaborar en coordinación con la Fiscalía General de Justicia del Estado de Nuevo León, un mapeo de carácter público con los horarios, lugares y días con mayor incidencia del acoso, y/o violencia contra las mujeres en el Sistema Estatal de Movilidad, dicha información será obtenida de las denuncias que se realicen directamente en la Fiscalía General de Justicia del Estado y las Video Denuncias;
+
+II. Proponer a la Secretaría de Seguridad Pública y las Corporaciones Policiales Municipales, la disposición de elementos de la Fuerza Civil y la Policía Municipal necesarios en los sitios con mayor incidencia de acoso y/o violencia contra las mujeres en el Sistema Estatal de Movilidad;
+
+III. Generar un Registro Estatal de Acosadores Sexuales en el Sistema Estatal de Movilidad, con las sentencias que se hayan dictado al respecto, resguardando debidamente la información y datos personales de los acosadores sexuales y las víctimas;
+
+IV. Promover campañas de concientización para erradicar todo tipo de violencia contra la mujer en el Sistema Estatal de Movilidad;
+
+V. Difundir los mecanismos de la Fiscalía General de Justicia del Estado para realizar Video Denuncias; y
+
+VI. Las demás que establezca esta Ley, otros ordenamientos legales, así como de las derivadas de los acuerdos del Consejo.
 
 ### Capítulo III. Del Cumplimiento del Programa Estatal para la Equidad
 
@@ -606,3 +664,15 @@ P.O. 5 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 111. SE REFORMAN POR MODIFICACIÓN DE LAS FRACCIONES XXII Y XXIII Y SE ADICIONAN LAS FRACCIONES XXIV, XXV Y XXVI, TODAS DEL ARTÍCULO 7 DE LA LEY DEL INSTITUTO ESTATAL DE LAS MUJERES”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 306. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN XIX Y SE ADICIONA FRACCIÓN XX DEL ARTÍCULO 26 DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMAN POR MODIFICACIÓN LA FRACCIÓN IV Y V DEL ARTÍCULO 8, LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 21; SE ADICIONAN LA FRACCIÓN VI AL ARTÍCULO 8, LA FRACCIÓN XX AL ARTÍCULO 21 Y LA SECCIÓN SEXTA CON LOS ARTÍCULOS 26 BIS Y 26 BIS 1 EN LA LEY DEL INSTITUTO ESTATAL DE LAS MUJERES".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- El Instituto Estatal de las Mujeres deberá realizar las modificaciones a su Reglamento Interior para adecuado al presente Decreto en un plazo no mayor a 60-sesenta días naturales posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO.- El Instituto de Movilidad y Accesibilidad deberá de realizar las modificaciones al Reglamento de la Ley de Movilidad Sostenible y Accesibilidad para el Estado de Nuevo León, así como a su Reglamento Interior, para adecuarlos al presente Decreto en un plazo no mayor a 60-sesenta días naturales posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO.- El Instituto Estatal de la Mujer, así como el Instituto de Movilidad y Accesibilidad, tendrán un plazo no mayor a 90-noventa días naturales posteriores a la entrada en vigor del presente Decreto para elaborar de manera coordinada y publicar en el Periódico Oficial del Estado de Nuevo León los protocolos establecidos en los artículos 23 fracción XXXII y 26 fracción XIX de la Ley de Movilidad Sostenible y Accesibilidad para el Estado de Nuevo León, y la guía para la elaboración del Plan de Acción Inmediata para la Erradicación de cualquier tipo de Violencia contra la (sic) Mujeres en el Sistema Estatal de Movilidad establecido en el artículo 26 Bis de la Ley del Instituto Estatal de las Mujeres.
