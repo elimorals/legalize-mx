@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-860-de-derechos-para-el-estado-de-veracruz-de-957
 country: "mx"
 rank: "codigo"
 publication_date: "2013-07-31"
-last_updated: "2021-01-29"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2021.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 
@@ -992,6 +992,10 @@ surtir efectos en un país afiliado a la Convención de la
 Haya de 1961: 9.5425 UMA
 
 No causarán los derechos a que se refiere este artículo, la legalización de firmas en materia penal y en otros casos previstos por la legislación.
+
+> <small>(ADICIONADO, G.O. 10 DE MARZO DE 2021)</small>
+
+De igual manera, no se causarán los derechos a que se refiere el inciso a) de la fracción III de este artículo, cuando los solicitantes tengan el carácter de víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares y se trate de copias certificadas de su acta de registro de nacimiento o de la perteneciente a la víctima directa de la cual sean familiar.
 
 ### Capítulo Segundo. De los Derechos por Servicios Prestados por la Secretaría de Seguridad Pública
 
@@ -7964,3 +7968,11 @@ SEGUNDO. Se faculta a la Secretaría de Finanzas y Planeación para emitir las r
 TERCERO. Se derogan todas las disposiciones legales y administrativas del marco jurídico estatal que se opongan al presente Decreto.
 
 CUARTO. Se instruye a los titulares de la Secretaría de Finanzas y Planeación y Secretaría de Medio Ambiente para que, en el ámbito de sus respectivas competencias, den cumplimiento al presente Decreto. La Secretaría de Medio Ambiente deberá incluir las presentes modificaciones en el Programa de Verificación Vehicular Obligatorio.
+
+G.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 839 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO HACENDARIO MUNICIPAL, A LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, MISANTLA, ORIZABA, PAPANTLA, TIERRA BLANCA, VERACRUZ Y XALAPA, ASÍ COMO AL CÓDIGO DE DERECHOS Y A LA LEY DE CAMINOS Y PUENTES, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
