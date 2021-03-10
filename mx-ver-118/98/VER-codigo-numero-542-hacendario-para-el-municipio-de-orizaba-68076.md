@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-542-hacendario-para-el-municipio-de-orizaba-68076
 country: "mx"
 rank: "codigo"
 publication_date: "2009-04-07"
-last_updated: "2019-10-15"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 542 HACENDARIO PARA EL MUNICIPIO DE ORIZABA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2021.
 
 Código publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 7 de abril de 2009.
 
@@ -1433,9 +1433,9 @@ Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en c
 
 Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil salarios mínimos.
 
-> <small>(ADICIONADO, G.O. 30 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2021)</small>
 
-El Ayuntamiento, por acuerdo del Cabildo, podrá otorgar igualmente el descuento del cincuenta por ciento en el pago de esta contribución a madres solteras que sean jefas de familia, siempre que reúnan los requisitos señalados en el párrafo anterior. En ese caso, la tesorería municipal informará al Congreso del Estado y al Órgano de Fiscalización Superior sobre el acuerdo referido.
+El Ayuntamiento, por acuerdo del Cabildo, podrá otorgar igualmente el descuento del cincuenta por ciento en el pago de esta contribución a madres solteras que sean jefas de familia, así como a las víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, siempre que reúnan los requisitos señalados en el párrafo anterior. En ese caso, la tesorería municipal informará al Congreso del Estado y al Órgano de Fiscalización Superior sobre el acuerdo referido.
 
 A estos descuentos no se podrá adicionar el previsto en el artículo 118 de este Código.
 
@@ -3406,6 +3406,10 @@ Derechos Salarios mínimos
 > <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
 I. Por la expedición ordinaria de copias de actas del Registro Civil, dentro del plazo de dos días, 1.00 incluyendo el papel sellado, por cada hoja, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción;
+
+> <small>(ADICIONADO, G.O. 10 DE MARZO DE 2021)</small>
+
+El ayuntamiento, por acuerdo del Cabildo, podrá exentar del pago del derecho por la prestación del servicio a que se refiere esta fracción, a aquellas personas que, siendo víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, soliciten la expedición de copias certificadas de su acta de registro de nacimiento o de la perteneciente a la víctima directa de la cual sean familiar.
 
 II. Por la expedición extraordinaria de las
 
@@ -5678,3 +5682,11 @@ G.O. 15 DE OCTUBRE DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 839 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO HACENDARIO MUNICIPAL, A LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, MISANTLA, ORIZABA, PAPANTLA, TIERRA BLANCA, VERACRUZ Y XALAPA, ASÍ COMO AL CÓDIGO DE DERECHOS Y A LA LEY DE CAMINOS Y PUENTES, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
