@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-periodico-oficial-del-estado-de-nuevo-leon-10641"
 country: "mx"
 rank: "ley"
 publication_date: "1996-07-10"
-last_updated: "2009-01-23"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DEL PERIODICO OFICIAL DEL ESTADO DE NUEVO LEON
 
-LEY DEL PERIODICO OFICIAL DEL ESTADO DE NUEVO LEON
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2009.
+LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de julio de 1996.
 
@@ -103,9 +105,17 @@ VII.- Establecer sistemas de venta de ejemplares del Periódico Oficial, a los p
 
 VIII.- Celebrar convenios con la Federación, Estados y Municipios;
 
-IX.- Expedir certificaciones de la documentación a su cargo; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-X.- Las demás que establezcan otras disposiciones jurídicas aplicables.
+IX.- Expedir certificaciones de la documentación a su cargo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2021)</small>
+
+X.- Administrar y supervisar la publicación y difusión del ejemplar del Periódico Oficial del Estado en formato electrónico e impreso; y
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+XI.- Las demás que establezcan otras disposiciones jurídicas aplicables
 
 ### CAPITULO III. DEL FUNCIONAMIENTO DEL PERIODICO OFICIAL
 
@@ -141,11 +151,11 @@ El Gobernador del Estado, ordenará al Responsable del Periódico Oficial, la pu
 
 El Responsable del Periódico Oficial instruirá lo necesario a fin de que se publiquen los documentos a que se refiere el artículo 10 de esta Ley.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2021)</small>
 
 ###### Artículo 12 Bis.
 
-La publicación de las leyes y decretos, aprobados por el Congreso del Estado, deberá de realizarse en un plazo no mayor de 30 días naturales, a partir de su recepción.
+La publicación de las leyes y decretos, aprobados por el Congreso del Estado, deberá de realizarse en un plazo no mayor de 20 días naturales, a partir de su recepción.
 
 > <small>(ADICIONADO, P.O. 23 DE ENERO DE 2009)</small>
 
@@ -195,6 +205,34 @@ Cuando durante la impresión, se cometan errores que afecten el contenido del ma
 
 Cuando el contenido del documento original publicado, contenga errores insertos en el mismo, el Responsable, previa solicitud de parte interesada, y en su caso el pago de derechos respectivos publicará una Fe de Erratas, en la que conste la subsanación del error.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2021)</small>
+
+### CAPITULO V. DEL PERIÓDICO OFICIAL DEL ESTADO EN FORMATO ELECTRÓNICO
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+###### Artículo 22.
+
+El Periódico Oficial del Estado tendrá una versión electrónica que se difundirá vía internet, en el portal del Ejecutivo del Estado o en su propio portal.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+###### Artículo 23.
+
+La versión electrónica del Periódico Oficial del Estado, tendrá la misma validez que la edición impresa.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+###### Artículo 24.
+
+El Periódico Oficial del Estado en formato electrónico, deberá ser reproducido en el portal de internet, el mismo día al que corresponda la edición respectiva y al momento en que se realice la edición impresa.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+###### Artículo 25.
+
+El Periódico Oficial del Estado en formato electrónico, deberá ser idéntico al de la edición impresa.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -234,3 +272,9 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 23 DE ENERO DE 2009.
 
 Único.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 461. SE REFORMAN LAS FRACCIONES IX Y X DEL ARTÍCULO 9 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 12 BIS; SE ADICIONA LA FRACCIÓN XI DEL ARTÍCULO 9 Y EL CAPÍTULO V DENOMINADO "DEL PERIÓDICO OFICIAL DEL ESTADO EN FORMATO ELECTRÓNICO" QUE CONTIENE LOS ARTÍCULOS 22, 23, 24 Y 25, TODOS DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor a los 60 días naturales contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
