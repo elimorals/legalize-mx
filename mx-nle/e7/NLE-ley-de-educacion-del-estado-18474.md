@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2020-12-30"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -1887,6 +1887,20 @@ Los particulares que impartan estudios en diferentes tipos, niveles y modalidade
 
 Además, deberán contar con personal que acredite la preparación adecuada para impartir educación y con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine. En el caso de educación inicial deberán, además, contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine; cumplir los requisitos a que alude el artículo 71 de la presente Ley; presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en esta Ley y demás disposiciones correspondientes que deriven en el marco del sistema nacional de evaluación educativa, y tomar las medidas a que se refiere el artículo 67 BIS, así como facilitar la inspección y vigilancia de las autoridades competentes.
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+###### Artículo 113 Bis.
+
+Los particulares tendrán los siguientes derechos, respecto a autoridades educativas:
+
+I. A impartir educación conforme a la autorización o reconocimiento oficial de estudios aprobado conforme a la presente Ley y las demás relativas y aplicables;
+
+II. A impartir actividades extraescolares que complementen y respalden la formación de los educandos;
+
+III. A que se respete su libre determinación en la dirección de las instituciones educativas y en el establecimiento de sus políticas internas, siempre y cuando no contravenga una norma jurídica, y
+
+IV. A que se respete su derecho de propiedad, posesión y libre disposición sobre sus bienes muebles e inmuebles, siempre y cuando no contravenga una norma jurídica.
+
 ### CAPÍTULO VII. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y CERTIFICACIÓN DE CONOCIMIENTOS
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
@@ -1983,27 +1997,47 @@ XVII.- Administrar a los educandos, sin previa prescripción médica y consentim
 
 XVIII.- Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-XIX.- Expulsar o negarse a prestar el servicio educativo a personas que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres, madres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos; e
+XIX.- Expulsar o negarse a prestar el servicio educativo a personas que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres, madres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos;
 
-> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-XX.- Incumplir con las medidas correctivas derivadas de las visitas de inspección.
+XX.- Incumplir con las medidas correctivas derivadas de las visitas de inspección;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2021)</small>
+
+XXI.- Retener documentos personales o académicos del alumnado;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2021)</small>
+
+XXII.- Condicionar la prestación de la educación por la adquisición de uniformes o materiales educativos, actividades extraescolares, cuotas o contraprestación de cualquier tipo; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2021)</small>
+
+XXIII.- Cualquier otra que afecte la igualdad en el trato a los educandos.
 
 ###### Artículo 121.
 
 Las infracciones a la presente Ley, cometidas por particulares que presten un servicio educativo serán sancionadas por la autoridad educativa competente en la forma siguiente:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2021)</small>
 
-I.- Multa hasta por el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización;
+I. Amonestación por escrito;
 
-II.- Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondientes.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE MARZO DE 2021)</small>
 
-La imposición de la sanción establecida en esta fracción, no excluye la posibilidad de que sea impuesta alguna multa; y
+II. Multa hasta por el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización;
 
-III.- Clausura de los establecimientos educativos.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+III. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondientes.
+
+La imposición de la sanción establecida en esta fracción, no excluye la posibilidad de que sea impuesta alguna multa; y/o
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MARZO DE 2021)</small>
+
+IV. Clausura de los establecimientos educativos.
 
 ###### Artículo 122.
 
@@ -2394,3 +2428,21 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- La Secretaría de Educación del Estado, previo al inicio del ciclo escolar 2021-2022, deberá de contar con el programa integral educativo, señalado en la fracción XXI del artículo 16 del presente Decreto.
 
 TERCERO.- La Secretaría de Educación del Estado dispondrá de un plazo de hasta 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, para realizar el protocolo de detección y atención temprana de educación especial que establece la fracción XXII del artículo 16 del presente Decreto.
+
+P.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 458. SE ADICIONA EL ARTÍCULO 113 BIS, A LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 459. SE REFORMAN LOS ARTÍCULOS 71 Y 72 DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA (SIC) LAS FRACCIONES I, II, III, Y POR ADICIÓN DE UNA FRACCIÓN IV DEL ARTÍCULO 121 A LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 460. SE REFORMAN LAS FRACCIONES XIX Y XX Y POR ADICIÓN DE LAS FRACCIONES XXI, XXII Y XXIII, DEL ARTÍCULO 120 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
