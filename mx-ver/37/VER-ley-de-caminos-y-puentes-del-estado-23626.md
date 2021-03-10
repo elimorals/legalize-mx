@@ -4,7 +4,7 @@ identifier: "VER-ley-de-caminos-y-puentes-del-estado-23626"
 country: "mx"
 rank: "ley"
 publication_date: "1930-09-09"
-last_updated: "2018-07-12"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23626&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE CAMINOS Y PUENTES DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 9 de septiembre de 1930.
 
@@ -207,9 +207,9 @@ Igual franquicia tendrán los Municipios, con las limitaciones que señale el Ej
 
 Las tarifas para el transporte y derecho de peaje que establezcan los concesionarios quedarán sujetos a la aprobación del Ejecutivo y serán revisados cada dos años.
 
-> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2021)</small>
 
-Tratándose de personas con discapacidad, el Gobierno del Estado en coordinación con los concesionarios, establecerán descuentos en las tarifas de casetas estatales, dichos beneficios nunca serán menores al cincuenta por ciento de las tarifas registradas y podrán obtenerse, presentando la credencial de identificación que proporcionan los Sistemas Estatal y Municipales para el Desarrollo Integral de la Familia.
+Tratándose de personas con discapacidad, así como de familiares de las víctimas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, el Gobierno del Estado, en coordinación con los concesionarios, establecerán descuentos en las tarifas de casetas estatales; dichos beneficios nunca serán menores al cincuenta por ciento de las tarifas registradas y podrán obtenerse, presentando la credencial de identificación que proporcionan los Sistemas Estatal y Municipales para el Desarrollo Integral de la Familia o la Comisión Ejecutiva Estatal de Atención Integral a Víctimas, respectivamente.
 
 > <small>(ADICIONADO, G.O. 12 DE JULIO DE 2018)</small>
 
@@ -306,3 +306,11 @@ G.O. 12 DE JULIO DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 839 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO HACENDARIO MUNICIPAL, A LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, MISANTLA, ORIZABA, PAPANTLA, TIERRA BLANCA, VERACRUZ Y XALAPA, ASÍ COMO AL CÓDIGO DE DERECHOS Y A LA LEY DE CAMINOS Y PUENTES, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
