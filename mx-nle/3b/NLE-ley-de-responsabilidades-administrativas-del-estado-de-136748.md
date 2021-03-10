@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-administrativas-del-estado-de-136748"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-07"
-last_updated: "2020-07-24"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
 
 Ley Publicada en la Sección Tercera al Número 70 del Periódico Oficial del Estado de Nuevo León, el viernes 7 de junio de 2019.
 
@@ -227,7 +227,9 @@ III. La Auditoría Superior;
 
 IV. El Tribunal; y
 
-V. Tratándose de las responsabilidades administrativas de los Servidores Públicos del Poder Judicial del Estado, serán competentes para investigar e imponer las sanciones que correspondan, el Consejo de la Judicatura del Estado de Nuevo León, conforme a su reglamentación interna correspondiente. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+V. Tratándose de las responsabilidades administrativas de los Servidores Públicos del Poder Judicial del Estado, serán competentes para investigar e imponer las sanciones que correspondan, el Pleno del Tribunal Superior de Justicia del Estado de Nuevo León y el Consejo de la Judicatura del Estado de Nuevo León, conforme a su reglamentación interna correspondiente. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
 ###### Artículo 10.
 
@@ -2009,7 +2011,7 @@ Las resoluciones definitivas que emita el Tribunal, podrán ser impugnadas por l
 
 (NOTA: EL 5 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 114/2024, DECLARÓ FUNDADA LA OMISIÓN LEGISLATIVA ATRIBUIDA AL CONGRESO DEL ESTADO DE NUEVO LEÓN, ATINENTE A NO ADECUAR EL ARTÍCULO 221 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN A LO ESTABLECIDO EN EL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO DE REFORMAS CONSTITUCIONALES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTISIETE DE MAYO DE DOS MIL QUINCE, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDIÓ LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, PUBLICADO EN EL MISMO MEDIO DE DIFUSIÓN EL DIECIOCHO DE JULIO DE DOS MIL DIECISÉIS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 ###### Artículo 221.
 
@@ -2132,3 +2134,9 @@ P.O. 24 DE JULIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 336. SE REFORMA EL ARTÍCULO 57 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 463. SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 9 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
