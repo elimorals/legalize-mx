@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-sistema-de-coordinacion-fiscal-del-estado-de-125262"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2020-07-24"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
 
 Ley publicada en la Segunda Sección al Número 592 del Periódico Oficial de Campeche, el miércoles 27 de diciembre de 2017.
 
@@ -661,19 +661,19 @@ EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- E
 
 > <small>[N. DE E. VÉASE ANEXO 1 EN EL P.O. DE 27 DE DICIEMBRE DE 2017, PÁGINA 90.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 1, P.O. 16 DE AGOSTO DE 2018, PÁGINAS DE LA 1 A LA 2; 31 DE ENERO DE 2019, PÁGINA 6; 24 DE OCTUBRE DE 2019, PÁGINA 1; 7 DE ABRIL DE 2020, PÁGINA 1; 29 DE MAYO DE 2020, PÁGINA 1.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 1, P.O. 16 DE AGOSTO DE 2018, PÁGINAS DE LA 1 A LA 2; 31 DE ENERO DE 2019, PÁGINA 6; 24 DE OCTUBRE DE 2019, PÁGINA 1; 7 DE ABRIL DE 2020, PÁGINA 1; 29 DE MAYO DE 2020, PÁGINA 1; 10 DE MARZO DE 2021, PÁGINA 4.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 2 EN EL P.O. DE 27 DE DICIEMBRE DE 2017, PÁGINA 91.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 2, P.O. 31 DE ENERO DE 2019, PÁGINA 6; 24 DE OCTUBRE DE 2019, PÁGINA 2; 7 DE ABRIL DE 2020, PÁGINA 2; 29 DE MAYO DE 2020, PÁGINA 2.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 2, P.O. 31 DE ENERO DE 2019, PÁGINA 6; 24 DE OCTUBRE DE 2019, PÁGINA 2; 7 DE ABRIL DE 2020, PÁGINA 2; 29 DE MAYO DE 2020, PÁGINA 2; 10 DE MARZO DE 2021, PÁGINA 5.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 3 EN EL P.O. DE 27 DE DICIEMBRE DE 2017, PÁGINA 92.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 3, P.O. 16 DE AGOSTO DE 2018, PÁGINA 3; 31 DE ENERO DE 2019, PÁGINA 7; 24 DE OCTUBRE DE 2019, PÁGINA 3; 7 DE ABRIL DE 2020, PÁGINA 3; 29 DE MAYO DE 2020, PÁGINA 3.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 3, P.O. 16 DE AGOSTO DE 2018, PÁGINA 3; 31 DE ENERO DE 2019, PÁGINA 7; 24 DE OCTUBRE DE 2019, PÁGINA 3; 7 DE ABRIL DE 2020, PÁGINA 3; 29 DE MAYO DE 2020, PÁGINA 3; 10 DE MARZO DE 2021, PÁGINA 6.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 4 EN EL P.O. DE 27 DE DICIEMBRE DE 2017, PÁGINA 93.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 4, P.O. 16 DE AGOSTO DE 2018, PÁGINAS DE LA 4 A LA 6; 31 DE ENERO DE 2019, PÁGINA 8; 24 DE OCTUBRE DE 2019, PÁGINA 4; 7 DE ABRIL DE 2020, PÁGINA 4; 29 DE MAYO DE 2020, PAGINAS DE LA 4 A LA 5.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 4, P.O. 16 DE AGOSTO DE 2018, PÁGINAS DE LA 4 A LA 6; 31 DE ENERO DE 2019, PÁGINA 8; 24 DE OCTUBRE DE 2019, PÁGINA 4; 7 DE ABRIL DE 2020, PÁGINA 4; 29 DE MAYO DE 2020, PÁGINAS DE LA 4 A LA 5; 10 DE MARZO DE 2021, PÁGINAS DE LA 7 A LA 8.]</small>
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
@@ -722,3 +722,7 @@ TERCERO.– Los artículos 11 bis y 18 bis de este decreto entrarán en vigor el
 CUARTO.– Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
 
 QUINTO.– De conformidad con el Decreto número 4 publicado en el Periódico Oficial del Estado el día 20 de noviembre de 2015, la determinación de los pagos del Impuesto Sobre Tenencia o Uso de Vehículos de carácter Estatal, correspondiente a Ejercicios Fiscales de 2015 y anteriores se realizarán conforme a las disposiciones jurídicas vigentes en el Ejercicio Fiscal correspondiente, en tal sentido las obligaciones derivadas de este impuesto abrogado que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en la Ley de Hacienda del Estado de Campeche, deberán ser cumplidas en las formas y plazos establecidos en la misma y en las demás disposiciones jurídicas aplicables y que se encuentra señalado en la Ley de Ingresos del Estado de Campeche para el Ejercicio Fiscal 2020 en su artículo 1, fracción 1.9. “Impuestos no comprendidos en las fracciones anteriores de la Ley de Ingresos causados en Ejercicios Fiscales anteriores pendientes de liquidación o pago”. La vigencia de este transitorio concluye al 31 de diciembre de 2020 fecha que al cumplirse da paso a la prescripción de oficio.
+
+P.O. 10 DE MARZO DE 2021.
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.]</small>
