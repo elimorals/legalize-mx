@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2020-10-30"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -273,11 +273,205 @@ El Ayuntamiento además de cumplir con las atribuciones que les (sic) establece 
 
 El Ayuntamiento, para la ejecución y cumplimiento de las atribuciones que le señalan las Leyes, se reunirá en el recinto oficial, denominado "Salón de Cabildos del Palacio Municipal del Municipio de Puebla" o cuando el caso lo requiera, en el recinto previamente declarado oficial, para efecto de sesionar en términos de lo dispuesto en la Ley Orgánica y de conformidad con las disposiciones jurídicas señaladas en el presente Código.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2021)</small>
+
+### CAPÍTULO 4 BIS. DE LOS DERECHOS HUMANOS E IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+###### Artículo 21 Bis.
+
+Las personas que habitan el municipio de Puebla gozarán de los derechos humanos y garantías reconocidas en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado Mexicano sea parte, en la Constitución Política del Estado Libre y Soberano de Puebla, así como en las normas generales y locales.
+
+Este Código Reglamentario para el Municipio de Puebla, los Reglamentos y disposiciones generales expedidos por el Honorable Ayuntamiento del Municipio de Puebla, en materia de derechos humanos, se interpretarán de conformidad con los instrumentos mencionados en el párrafo que antecede, favoreciendo en todo tiempo a las personas la protección más amplia.
+
+Las autoridades municipales, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, éstas deberán prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+###### Artículo 21 Ter.
+
+Para los efectos del presente Capítulo, se entiende por:
+
+I. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades.
+
+II. Enfoque de derechos humanos: El marco conceptual relativo a los planes, las políticas, los programas y los presupuestos con base a un sistema de derechos, el cual identifica, por un lado, a las personas titulares de derechos y aquello a lo que tienen derecho; y por el otro, a las personas titulares de deberes y sus obligaciones para respetar, proteger y hacer efectivos los derechos humanos, así como fortalecer la capacidad de las personas titulares de derechos.
+
+III. Género: Se refiere a las percepciones, valores y creencias sobre lo femenino y lo masculino en una sociedad. Son las construcciones socioculturales que distinguen jerárquicamente a mujeres y hombres, a partir de una diferencia sexual. La perspectiva de género permite identificar y cuestionar la desigualdad de género y la exclusión de las mujeres de todos los ámbitos y del desarrollo humano.
+
+IV. Igualdad de Género: Situación en la cual las mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control, beneficio de bienes, servicios y recursos de la sociedad, así como la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar.
+
+V. Igualdad de oportunidades: Se refiere a la obligación de los Poderes Públicos del Estado y de los municipios de adoptar las medidas necesarias y oportunas para garantizar el ejercicio efectivo por parte de mujeres y hombres, en condiciones de igualdad, de sus derechos políticos, civiles, económicos, sociales y culturales, incluido el control y acceso al poder; así como a los recursos y beneficios económicos, sociales y culturales, incluido el control y acceso al poder.
+
+VI. Igualdad de trato: Entendida como la prohibición de toda discriminación basada en el sexo de las personas tanto directa como indirecta, cualquiera que sea la forma utilizada para ello.
+
+VII. Paridad de Género: Principio que tiene como finalidad la igualdad sustantiva entre mujeres y hombres, que supone que sus derechos se ejerzan en condiciones de igualdad, libres de discriminación y violencia.
+
+VIII. Perspectiva de género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género.
+
+IX. Violencia contra las mujeres: Cualquier acción u omisión que, con motivo de su género, les cause daño físico, psicológico, económico, patrimonial, sexual o la muerte, en cualquier ámbito.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+###### Artículo 21 Quáter.
+
+Corresponde a las autoridades municipales proteger y garantizar la igualdad entre mujeres y hombres, mediante la eliminación de la discriminación, sea cual fuere su circunstancia o condición, en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres, con el propósito de alcanzar una sociedad más democrática, justa, equitativa y solidaria, por lo que se deben tomar las medidas presupuestales y administrativas para garantizar la igualdad de trato y oportunidades entre mujeres y hombres.
+
+La Secretaría para la Igualdad Sustantiva de Género del Honorable Ayuntamiento del Municipio de Puebla ejecutará todas las acciones necesarias para el diseño de los planes y programas, con la finalidad de propiciar el derecho a una vida libre de violencia e igualdad entre mujeres y hombres de acuerdo a sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+###### Artículo 21 Quinquies.
+
+Los principios rectores en materia de derechos humanos e igualdad de género son:
+
+I. La igualdad de género;
+
+II. El respeto a la dignidad humana;
+
+III. La no discriminación;
+
+IV. El empoderamiento de la mujer;
+
+V. La perspectiva de género; y
+
+VI. Los demás establecidos en los instrumentos internacionales, federales, estatales y municipales aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+###### Artículo 21 Sexies.
+
+El Honorable Ayuntamiento del Municipio de Puebla deberá impulsar la capacitación de las autoridades municipales en materia de perspectiva de género, derechos humanos, igualdad y no discriminación.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+###### Artículo 21 Septies.
+
+El Honorable Ayuntamiento del Municipio de Puebla deberá promover y fomentar la utilización de un lenguaje incluyente, no sexista y no discriminatorio en el ámbito de la administración municipal.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+###### Artículo 21 Octies.
+
+El Honorable Ayuntamiento del Municipio de Puebla adoptará políticas generales, programas, estrategias y acciones públicas para construir una sociedad más justa y solidaria, disminuir la desigualdad entre mujeres y hombres, así como las prácticas discriminatorias en cualquiera de sus modalidades, proponiendo lineamientos y mecanismos institucionales que orienten al cumplimiento de la igualdad, tanto en el ámbito público como privado, promoviendo el empoderamiento de las mujeres y la lucha contra la discriminación basada en el sexo.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+###### Artículo 21 Nonies.
+
+El Honorable Ayuntamiento del Municipio de Puebla podrá promover la celebración de convenios y acuerdos con el Gobierno Federal, Estatal, Instituciones Privadas y Organismos Sociales, con el objetivo de generar acciones que atiendan políticas públicas que contribuyan a la igualdad de género, así como la disminución de las desigualdades entre mujeres y hombres.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+###### Artículo 21 Decies.
+
+El Honorable Ayuntamiento del Municipio de Puebla deberá garantizar y promover el principio de igualdad y paridad de género en los ámbitos de su competencia, tales como:
+
+I. El gabinete municipal;
+
+II. Los puestos administrativos;
+
+III. En la integración de mesas directivas de vecinos de barrios, colonias, fraccionamientos y unidades habitacionales del municipio;
+
+IV. En los Consejos de Participación Ciudadana, tanto en la convocatoria que establece las bases para su instalación o renovación, como en su integración;
+
+V. En cualquier otro mecanismo de participación ciudadana.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+Artículo 21 Undecies.- El Honorable Ayuntamiento del Municipio de Puebla adoptará las medidas, estrategias y acciones preventivas que protejan los derechos humanos, basadas en campañas y actividades de información objetiva, concientización y sensibilización sobre el problema de la violencia de género, y acciones tendientes a disminuir la desigualdad entre mujeres y hombres, así como las prácticas discriminatorias en cualquiera de sus modalidades.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+Artículo 21 Duodecies.- Las autoridades municipales, en el ámbito de sus respectivas competencias, deberán garantizar la igualdad de género en la vida económica y laboral, para lo cual adoptarán medidas dirigidas a erradicar cualquier tipo de discriminación laboral entre mujeres y hombres, desarrollando las siguientes acciones:
+
+I. Impulsar liderazgos igualitarios;
+
+II. Promover políticas públicas de empleo que tengan como objetivo prioritario aumentar la participación de las mujeres en el mercado laboral y avanzar en la igualdad de género, para ello, se deberán implementar acciones afirmativas para mejorar las oportunidades a las mujeres, así como su permanencia, potenciando su nivel formativo y su adaptación a los requerimientos del mercado de trabajo;
+
+III. Promover el uso de un lenguaje incluyente, no sexista y no discriminatorio en anuncios de vacantes u ofertas de trabajo, libres de cualquier tipo de expresión discriminatoria;
+
+IV. Fomentar la integración de políticas públicas con perspectiva de género en materia económica;
+
+V. Implementar acciones afirmativas para reducir la brecha de desigualdad de género en la incorporación del personal al Honorable Ayuntamiento del Municipio de Puebla;
+
+VI. Garantizar que en el Programa Presupuestario se especifique una partida presupuestaria para garantizar la igualdad de trato y oportunidades entre mujeres y hombres;
+
+VII. Capacitar al sector privado en perspectiva de género, derechos humanos, igualdad y paridad de género, a fin de incrementar el acceso a mujeres en puestos directivos;
+
+VIII. Crear mecanismos de coordinación con la iniciativa privada, a efecto de fomentar la igualdad entre mujeres y hombres que laboran en ese sector;
+
+IX. Potenciar el crecimiento del empresariado y el valor del trabajo de las mujeres;
+
+X. Realizar campañas que fomenten la contratación de mujeres para hacer efectiva la igualdad de trato y oportunidades entre mujeres y hombres en los ámbitos público y privado;
+
+XI. Implementar en coordinación con las autoridades competentes medidas destinadas a erradicar cualquier tipo de discriminación, violencias, hostigamiento o acoso sexual;
+
+XII. Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en sus procesos de selección, contratación y ascensos, en el ámbito público y privado;
+
+XIII. Proponer en el ámbito de su competencia, el otorgamiento de estímulos de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas que incorporen medidas innovadoras para propiciar la igualdad de género en sus organizaciones; y
+
+XIV. Crear mecanismos de coordinación con la iniciativa privada, a efecto de fomentar la igualdad de trato y oportunidades entre mujeres y hombres que laboran en ese sector.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+Artículo 21 Terdecies.- Las autoridades municipales propondrán los mecanismos de operación adecuados para la participación igualitaria entre mujeres y hombres en la vida política municipal, desarrollando las acciones siguientes:
+
+I. Vigilar el cumplimiento de las leyes que tengan por objeto la participación de las mujeres en la vida política municipal;
+
+II. Vigilar e implementar medidas destinadas a erradicar la violencia política contra las mujeres en razón de género en términos de lo establecido en la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla;
+
+III. Promover la participación justa e igualitaria de mujeres y hombres en el Gobierno Municipal para que ocupen cargos de nivel directivo, en razón de sus actitudes y aptitudes;
+
+IV. Desarrollar y actualizar estadísticas desagregadas por sexo, que informen sobre la ocupación de puestos decisorios o cargos directivos en el sector público de mujeres y hombres, con la finalidad de impulsar la igualdad de género;
+
+V. Fomentar la elaboración de programas de formación y capacitación para apoyar la creación de organizaciones de mujeres y promover su participación activa en organizaciones sociales, políticas, empresariales y estudiantiles;
+
+VI. Impulsar campañas de difusión, estrategias, programas, proyectos, actividades de sensibilización y capacitación que fortalezcan una democracia donde la participación política igualitaria entre mujeres y hombres sea el fundamento del desarrollo sostenible y de la paz social; y
+
+VII. Promover que al interior de las dependencias la adecuación de su normatividad para garantizar el acceso de las mujeres a puestos de liderazgo y toma de decisiones.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+Artículo 21 Quaterdecies.- Para impulsar y fomentar la igualdad sustantiva entre mujeres y hombres, así como el acceso y pleno disfrute de sus derechos sociales, las autoridades municipales desarrollarán las acciones siguientes:
+
+I. Diseñar políticas y programas de desarrollo social y de reducción de la pobreza con perspectiva de género; y
+
+II. Fomentar la corresponsabilidad social igualitaria entre mujeres, hombres, las familias, la comunidad, el mercado y las autoridades municipales.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+Artículo 21 Quindecies.- Con el fin de promover y procurar la igualdad de género en el ámbito civil, las autoridades municipales desarrollarán las siguientes acciones:
+
+I. Promover y difundir los derechos humanos de las mujeres;
+
+II. Generar mecanismos institucionales que fomenten el reparto equilibrado de las responsabilidades familiares; y
+
+III. Promover el uso del lenguaje incluyente, no sexista y no discriminatorio.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+Artículo 21 Sexdecies.- Para lograr la igualdad de trato y oportunidades entre mujeres y hombres en el ámbito educativo, las autoridades municipales deberán:
+
+I. Integrar el principio de igualdad de género en los programas y políticas públicas educativas, eliminando los estereotipos que produzcan desigualdad;
+
+II. Desarrollar proyectos y programas dirigidos a fomentar el crecimiento, difusión y respeto de los derechos humanos y el principio de igualdad de género;
+
+III. Establecer medidas y materiales educativos destinados al reconocimiento y ejercicio de la igualdad entre mujeres y hombres en los espacios educativos;
+
+IV. Garantizar en el ámbito de su competencia, el derecho a la educación igualitaria, plural y libre de estereotipos de género;
+
+V. Promover la eliminación de comportamientos, contenidos sexistas y estereotipos que impliquen discriminación entre mujeres y hombres, con especial consideración en materiales educativos; y
+
+VI. Establecer medidas educativas destinadas al reconocimiento y enseñanza histórica de la participación política, social y cultural de las mujeres.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+
+Artículo 21 Septdecies.- Las autoridades municipales que incurran en responsabilidad, serán sancionadas de acuerdo a lo establecido en la ley de la materia.
+
 > <small>(DEROGADO CON EL APARTADO Y ARTÍCULOS QUE LO INTEGRAN POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)</small>
 
 ### CAPÍTULO 5. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DEL CABILDO
-
-### CAPÍTULO 6. DE LAS JUNTAS AUXILIARES
 
 ###### Artículo 22.
 
@@ -669,9 +863,7 @@ DE LAS SESIONES DE CABILDO
 
 (DEROGADO, P.O. 29 DE MAYO DE 2015)
 
-### CAPÍTULO 7. DE LA INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS MESAS DIRECTIVAS DE VECINOS DE BARRIOS, COLONIAS, FRACCIONAMIENTOS Y UNIDADES HABITACIONALES
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+### CAPÍTULO 6. DE LAS JUNTAS AUXILIARES
 
 ###### Artículo 108.
 
@@ -725,13 +917,9 @@ De conformidad con la realidad social, económica, política y tomando en consid
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO 8. CONSEJOS DE PARTICIPACIÓN CIUDADANA
+### CAPÍTULO 7. DE LA INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS MESAS DIRECTIVAS DE VECINOS DE BARRIOS, COLONIAS, FRACCIONAMIENTOS Y UNIDADES HABITACIONALES
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ENERO DE 2016)</small>
-
-DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 112.
 
@@ -1339,11 +1527,13 @@ II. Si las partes Concilian sus diferencias; o
 
 III. Si al concurrir las partes no llegan a un acuerdo.
 
-### CAPÍTULO 9. POLICÍA Y GOBIERNO
+### CAPÍTULO 8. CONSEJOS DE PARTICIPACIÓN CIUDADANA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ENERO DE 2016)</small>
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 148.
 
@@ -1383,19 +1573,11 @@ DE LAS SANCIONES
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ENERO DE 2016)</small>
 
-### CAPÍTULO 10. TRÁNSITO MUNICIPAL, MOVILIDAD Y SEGURIDAD VIAL
+### CAPÍTULO 9. POLICÍA Y GOBIERNO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE PARTE, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+DISPOSICIONES GENERALES
 
-> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
-
-PARTE I
-
-REGLAS DE LOS USUARIOS DE LA VÍA PÚBLICA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 155.
 
@@ -2195,9 +2377,19 @@ X. El incumplimiento a las obligaciones y atribuciones establecidas en el presen
 
 ## TITULO II. DE LA JUSTICIA Y SEGURIDAD MUNICIPAL
 
-### CAPÍTULO 11. PROTECCIÓN CIVIL MUNICIPAL
+### CAPÍTULO 10. TRÁNSITO MUNICIPAL, MOVILIDAD Y SEGURIDAD VIAL
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE PARTE, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
+
+PARTE I
+
+REGLAS DE LOS USUARIOS DE LA VÍA PÚBLICA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 206.
 
@@ -3741,9 +3933,7 @@ En contra de las determinaciones que realice el Juez Calificador procederá el R
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
-### CAPÍTULO 12. ESPECTÁCULOS PÚBLICOS
-
-DISPOSICIONES GENERALES
+### CAPÍTULO 11. PROTECCIÓN CIVIL MUNICIPAL
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -6445,9 +6635,11 @@ En caso de duda, se faculta al Presidente Municipal para la interpretación de l
 
 (DEROGADO, P.O. 2 DE MARZO DE 2015)
 
-### CAPÍTULO 13. ESPECTACULOS TAURINOS
+### CAPÍTULO 12. ESPECTÁCULOS PÚBLICOS
 
 DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 377.
 
@@ -7553,7 +7745,7 @@ El Programa Municipal de Protección Civil del Municipio de Puebla y sus respect
 
 ## TÍTULO I. DE LOS ESPECTÁCULOS EN EL MUNICIPIO DE PUEBLA
 
-### CAPÍTULO 14. VENTA DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE PUEBLA
+### CAPÍTULO 13. ESPECTACULOS TAURINOS
 
 DISPOSICIONES GENERALES
 
@@ -8125,11 +8317,9 @@ VII. Evitar la obstrucción de pasillos, puertas y escaleras con mercancías u o
 
 VIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables.
 
-### CAPÍTULO 15. ESTABLECIMIENTOS DE GIROS COMERCIALES AUTORIZADOS
+### CAPÍTULO 14. VENTA DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE PUEBLA
 
 DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 493.
 
@@ -9255,9 +9445,11 @@ En todo lo no previsto en el presente Capítulo se aplicarán de manera supletor
 
 ## TÍTULO II. DE LA ACTIVIDAD COMERCIAL
 
-### CAPÍTULO 15 BIS. DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS
+### CAPÍTULO 15. ESTABLECIMIENTOS DE GIROS COMERCIALES AUTORIZADOS
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Articulo 601.
 
@@ -9965,13 +10157,9 @@ Contra cualquier acto de las autoridades fiscales municipales encargadas de la a
 
 > <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 27 DE MARZO DE 2006)</small>
 
-### CAPÍTULO 16
+### CAPÍTULO 15 BIS. DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS
 
-COMERCIO AMBULANTE, SEMIFIJO, PRESTADORES AMBULANTES DE SERVICIOS Y ARTISTAS URBANOS EN LA VÍA PÚBLICA DEL MUNICIPIO DE PUEBLA.
-
-DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 #### SECCIÓN CUARTA DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD. DE ASISTENCIA E INCLUSIÓN SOCIAL
 
@@ -10421,9 +10609,13 @@ Para los efectos de este Capítulo, será considerado como reincidente aquel que
 
 > <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-### CAPÍTULO 17. DE LA GESTIÓN DEL SUELO Y CONSTRUCCIONES
+### CAPÍTULO 16
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2017)</small>
+COMERCIO AMBULANTE, SEMIFIJO, PRESTADORES AMBULANTES DE SERVICIOS Y ARTISTAS URBANOS EN LA VÍA PÚBLICA DEL MUNICIPIO DE PUEBLA.
+
+DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 639 Bis.
 
@@ -10731,9 +10923,9 @@ Artículo 639 Duovicies.- La autoridad sanitaria municipal, en caso de detectar 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-### CAPÍTULO 18. ANUNCIOS
+### CAPÍTULO 17. DE LA GESTIÓN DEL SUELO Y CONSTRUCCIONES
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2017)</small>
 
 ###### Artículo 640.
 
@@ -11315,11 +11507,9 @@ III. La reincidencia, si la hubiere.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2017)</small>
 
-### CAPÍTULO 19. LIMPIA, RECOLECCIÓN, TRASLADO, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS
+### CAPÍTULO 18. ANUNCIOS
 
-DISPOSICIONES GENERALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ## TÍTULO I. DISPOSICIONES GENERALES
 
@@ -19119,9 +19309,11 @@ RECURSO DE INCONFORMIDAD
 
 (DEROGADO, P.O. 10 DE ABRIL DE 2017)
 
-### CAPÍTULO 20. DE LOS MERCADOS MUNICIPALES
+### CAPÍTULO 19. LIMPIA, RECOLECCIÓN, TRASLADO, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS
 
 DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 1253.
 
@@ -21497,7 +21689,7 @@ La imposición de la sanción a que se refiere el artículo anterior por la inob
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-### CAPÍTULO 21. DE LA CENTRAL DE ABASTO DEL MUNICIPIO DE PUEBLA
+### CAPÍTULO 20. DE LOS MERCADOS MUNICIPALES
 
 DISPOSICIONES GENERALES
 
@@ -22825,7 +23017,7 @@ MEDIOS DE IMPUGNACIÓN
 
 Los actos de la autoridad, derivados del cumplimiento del presente Capítulo, podrán ser recurridos a través del Recurso de Inconformidad, dispuesto en la Ley Orgánica Municipal.
 
-### CAPÍTULO 22. PANTEONES
+### CAPÍTULO 21. DE LA CENTRAL DE ABASTO DEL MUNICIPIO DE PUEBLA
 
 DISPOSICIONES GENERALES
 
@@ -23501,11 +23693,9 @@ Para los efectos de este capítulo, será considerado como reincidente el comerc
 
 (DEROGADO, P.O. 29 DE AGOSTO DE 2008)
 
-### CAPÍTULO 23. DEL SERVICIO PÚBLICO DEL RASTRO MUNICIPAL
+### CAPÍTULO 22. PANTEONES
 
 DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1445.
 
@@ -24313,11 +24503,11 @@ II. Retiro del producto o mercancía, y se impedirá la entrada del vehículo po
 
 III. Retiro del producto y multa equivalente al valor diario de 5 unidades de medida y actualización, por invadir pasillos y zonas de circulación peatonal y vehicular.
 
-### CAPÍTULO 24. DEL SERVICIO PÚBLICO DE ESTACIONAMIENTO
+### CAPÍTULO 23. DEL SERVICIO PÚBLICO DEL RASTRO MUNICIPAL
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1528.
 
@@ -25083,13 +25273,11 @@ Contra las resoluciones de la Autoridad Municipal, derivadas de la aplicación d
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
-### CAPÍTULO 25. DEL ARCHIVO GENERAL MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
+### CAPÍTULO 24. DEL SERVICIO PÚBLICO DE ESTACIONAMIENTO
 
 DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 1617.
 
@@ -26009,9 +26197,13 @@ Contra de los actos emitidos por el Presidente Municipal o el Ayuntamiento, de l
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-### CAPÍTULO 26. DE DESARROLLO SUSTENTABLE EN MATERIA ECOLÓGICA Y PROTECCIÓN AL
+### CAPÍTULO 25. DEL ARCHIVO GENERAL MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
 
-AMBIENTE NATURAL DEL MUNICIPIO DE PUEBLA
+DISPOSICIONES GENERALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 1676.
 
@@ -26641,9 +26833,9 @@ El particular podrá impugnar los actos administrativos derivados de la aplicaci
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPÍTULO 27. PROTECCIÓN A LOS ANIMALES, PREVENCIÓN Y CONTROL DE LA ZOONOSIS
+### CAPÍTULO 26. DE DESARROLLO SUSTENTABLE EN MATERIA ECOLÓGICA Y PROTECCIÓN AL
 
-DISPOSICIONES GENERALES
+AMBIENTE NATURAL DEL MUNICIPIO DE PUEBLA
 
 ###### Artículo 1688.
 
@@ -27199,9 +27391,9 @@ A fin de garantizar que al cambio de cada Administración Municipal se cuente co
 
 # LIBRO QUINTO. ECOLOGÍA
 
-### CAPÍTULO 28. DEL CONTROL PARA EL EXPENDIO DE PINTURAS EN AEROSOL Y
+### CAPÍTULO 27. PROTECCIÓN A LOS ANIMALES, PREVENCIÓN Y CONTROL DE LA ZOONOSIS
 
-SUBSTANCIAS CON EFECTOS TÓXICOS EN EL MUNICIPIO DE PUEBLA
+DISPOSICIONES GENERALES
 
 ###### Artículo 1712.
 
@@ -29157,9 +29349,9 @@ Las resoluciones dictadas por la autoridad Municipal con motivo de la aplicació
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2012)</small>
 
-### CAPÍTULO 29. USO DE SUELO PARA ESTACIONES DE SERVICIO DE GAS LICUADO DE PETRÓLEO CON ALMACENAMIENTO FIJO DEL MUNICIPIO DE PUEBLA
+### CAPÍTULO 28. DEL CONTROL PARA EL EXPENDIO DE PINTURAS EN AEROSOL Y
 
-DISPOSICIONES GENERALES
+SUBSTANCIAS CON EFECTOS TÓXICOS EN EL MUNICIPIO DE PUEBLA
 
 ###### Artículo 1831.
 
@@ -30781,9 +30973,9 @@ DEL RECURSO DE INCONFORMIDAD
 
 Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación del presente Capítulo, podrán ser impugnadas, mediante el recurso de inconformidad previsto en la Ley Orgánica Municipal del Estado de Puebla.
 
-### CAPÍTULO 30. JUBILACIONES Y PENSIONES A TRABAJADORES MUNICIPALES
+### CAPÍTULO 29. USO DE SUELO PARA ESTACIONES DE SERVICIO DE GAS LICUADO DE PETRÓLEO CON ALMACENAMIENTO FIJO DEL MUNICIPIO DE PUEBLA
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+DISPOSICIONES GENERALES
 
 ###### Artículo 1929.
 
@@ -31307,11 +31499,9 @@ I. En el caso de substancias tóxicas, a programas de protección a menores impl
 
 II. En el caso de pinturas en aerosol, al remozamiento de las fachadas afectadas con graffitis.
 
-### CAPÍTULO 31. ESCALAFÓN DE LOS TRABAJADORES DE BASE DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
+### CAPÍTULO 30. JUBILACIONES Y PENSIONES A TRABAJADORES MUNICIPALES
 
-DISPOSICIONES GENERALES
-
-DISPOSICIONES GENERALES
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1942.
 
@@ -31635,11 +31825,11 @@ TABLA NÚMERO UNO
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-### CAPÍTULO 32. SEGURO DE VIDA PARA LOS TRABAJADORES DEL AYUNTAMIENTO
+### CAPÍTULO 31. ESCALAFÓN DE LOS TRABAJADORES DE BASE DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+DISPOSICIONES GENERALES
 
 ###### Artículo 1981.
 
@@ -31941,9 +32131,11 @@ Es imprescriptible e irrenunciable el derecho al otorgamiento de una jubilación
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
-### CAPÍTULO 33. DEL SERVICIO PROFESIONAL DE CARRERA
+### CAPÍTULO 32. SEGURO DE VIDA PARA LOS TRABAJADORES DEL AYUNTAMIENTO
 
 DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 1998.
 
@@ -32345,13 +32537,9 @@ Cadenero
 
 Los movimientos escalafonarios, serán operados tomando en cuenta el total del salario asignado a cada puesto y cada categoría en el tabulador correspondiente.
 
-### CAPÍTULO 34. ESPECTÁCULOS DE BOX Y LUCHA LIBRE PARA EL MUNICIPIO DE PUEBLA
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+### CAPÍTULO 33. DEL SERVICIO PROFESIONAL DE CARRERA
 
 DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 2036.
 
@@ -32549,13 +32737,13 @@ DE LOS DESCUENTOS Y PÓLIZAS
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
-### CAPÍTULO 35. "DE LA MEJORA REGULATORIA"
+### CAPÍTULO 34. ESPECTÁCULOS DE BOX Y LUCHA LIBRE PARA EL MUNICIPIO DE PUEBLA
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 2074.
 
@@ -32879,13 +33067,13 @@ Cuando por necesidades del servicio público se lleve a cabo una reestructuraci�
 
 > <small>(ADICIONADO CON LOS TÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
-### CAPÍTULO 36. DE LAS BASES PARA LA ENTREGA DE PREMIOS Y RECONOCIMIENTOS EN EL MUNICIPIO DE PUEBLA
+### CAPÍTULO 35. "DE LA MEJORA REGULATORIA"
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2107.
 
@@ -34867,13 +35055,13 @@ No se considerará como sanción la cancelación de licencias expedidas a Boxead
 
 > <small>(ADICIONADO CON LOS TÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
-### CAPÍTULO 37. DEL GOBIERNO DIGITAL
+### CAPÍTULO 36. DE LAS BASES PARA LA ENTREGA DE PREMIOS Y RECONOCIMIENTOS EN EL MUNICIPIO DE PUEBLA
 
-> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
 DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 2245.
 
@@ -35261,9 +35449,13 @@ Los servidores públicos que infrinjan las disposiciones contenidas en el presen
 
 > <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
-### CAPÍTULO 38. DE LA ECONOMÍA SOCIAL Y SOLIDARIA EN EL MUNICIPIO
+### CAPÍTULO 37. DEL GOBIERNO DIGITAL
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2017)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+
+DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2276.
 
@@ -36353,9 +36545,9 @@ El Reconocimiento "Juan de Palafox y Mendoza", será otorgado a aquellas persona
 
 > <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
 
-### CAPÍTULO 39. DEL DRENAJE, ALCANTARILLADO, SANEAMIENTO Y REÚSO
+### CAPÍTULO 38. DE LA ECONOMÍA SOCIAL Y SOLIDARIA EN EL MUNICIPIO
 
-> <small>(ADICIONADO CON LOS ENCABEZADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 2343.
 
@@ -36760,6 +36952,10 @@ En caso de que el ciudadano haga uso indebido de la firma electrónica avanzada 
 ## TÍTULO ÚNICO
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MARZO DE 2017)</small>
+
+### CAPÍTULO 39. DEL DRENAJE, ALCANTARILLADO, SANEAMIENTO Y REÚSO
+
+> <small>(ADICIONADO CON LOS ENCABEZADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 2377.
 
@@ -39070,5 +39266,13 @@ P.O. 30 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL H. AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 16 DE OCTUBRE DE 2020, POR EL QUE REFORMA LOS INCISOS A) Y B) DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 627 Y EL 628 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, ASÍ COMO LOS INCISOS A) Y B) DEL CATÁLOGO DE GIROS COMERCIALES COMPLEMENTARIOS, INDUSTRIALES Y DE SERVICIOS DEL MUNICIPIO DE PUEBLA”.]
 
 PRIMERO. La reforma aprobada en el presente Dictamen entrará en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE FEBRERO DE 2021, QUE APRUEBA EL DICTAMEN PRESENTADO POR LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE ADICIONA EL CAPÍTULO 4 BIS DENOMINADO DE LOS DERECHOS HUMANOS E IGUALDAD DE GÉNERO, CON SUS ARTÍCULOS DEL 21 BIS AL 21 SEPTDECIES, AL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, PARA PREVENIR, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+PRIMERO. Las adiciones aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
