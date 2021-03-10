@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2020-11-13"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2021.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -2251,17 +2251,17 @@ c) Se cometa en lugar cerrado, habitado o destinado para habitación o sus depen
 
 III. De seis a ocho años de prisión y multa hasta de doscientas Unidades de Medida y Actualización, cuando:
 
-> <small>(REFORMADO, G.O. 9 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2021)</small>
 
-a) Se sustraiga el mobiliario o equipo de una escuela, impidiendo el desempeño de sus funciones;
+a) Se sustraiga mobiliario, equipo o cualquier otro bien de una escuela que impida el desempeño de sus funciones;
 
-> <small>(REFORMADO, G.O. 9 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2021)</small>
 
-b) Adquieran, oculten o comercialicen los bienes producto del robo a escuelas; o
+b) Se adquieran, oculten o comercialicen los bienes producto del robo a escuelas;
 
-> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2021)</small>
 
-c) El objeto del robo sean vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitidos por personas morales utilizados para canjear bienes y servicios.
+c) El objeto del robo sean vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitidos por personas morales utilizados para canjear bienes y servicios; o
 
 > <small>(ADICIONADO, G.O. 20 DE FEBRERO DE 2017)</small>
 
@@ -5290,5 +5290,13 @@ G.O. 13 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 602 QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 184 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 835 QUE REFORMA LOS INCISOS A), B) Y C) DE LA FRACCIÓN III DEL ARTÍCULO 205 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
