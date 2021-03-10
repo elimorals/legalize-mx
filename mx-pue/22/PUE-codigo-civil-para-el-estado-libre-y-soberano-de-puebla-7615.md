@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2021-03-01"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el día 30 de abril de 1985.
 
@@ -7543,9 +7543,11 @@ c) Sustituir al deudor si no se trata de derecho con garantía real; y
 
 d) Volver a imponer el capital redimido.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
+
 ###### Artículo 1208.
 
-Si el usufructo comprendiere bienes que se deterioren por el uso, el usufructuario tiene derecho de servirse de ellos como buen padre de familia, para los usos a que se hallen destinados; y sólo está obligado a devolverlos, en el estado en que se encuentren, al extinguirse el usufructo, sin perjuicio de la responsabilidad en que pudiere incurrir conforme a este Código.
+Si el usufructo comprendiere bienes que se deterioren por el uso, el usufructuario tiene derecho de servirse de ellos con la debida diligencia, para los usos a que se hallen destinados; y sólo está obligado a devolverlos, en el estado en que se encuentren, al extinguirse el usufructo, sin perjuicio de la responsabilidad en que pudiere incurrir conforme a este Código.
 
 ###### Artículo 1209.
 
@@ -7575,7 +7577,9 @@ El usufructuario, antes de entrar en el goce de los bienes, está obligado:
 
 I.- A formar a sus expensas, con citación del nudo propietario, un inventario, valuando los muebles y describiendo el estado en que se hallen los inmuebles;
 
-II.- A garantizar que cuidará de los bienes como buen padre de familia y que, al extinguirse el usufructo, los restituirá al propietario, con sus accesiones, no deteriorados por su culpa o negligencia.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+II.- A garantizar que cuidará de los bienes con la debida diligencia y que, al extinguirse el usufructo, los restituirá al propietario, con sus accesiones, no deteriorados por su culpa o negligencia.
 
 ###### Artículo 1215.
 
@@ -9841,9 +9845,11 @@ III.- En la restitución de un bien ajeno; o
 
 IV.- En el pago de un bien debido.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
+
 ###### Artículo 1641.
 
-El obligado a dar algún bien, lo está a conservarlo y entregarlo con la diligencia propia de un buen padre de familia.
+La persona obligada a dar algún bien, lo está a conservarlo y entregarlo con la debida diligencia en virtud de garantizar mantenerlo en condiciones pactadas mientras no lo entregue.
 
 ###### Artículo 1642.
 
@@ -12619,7 +12625,9 @@ Las ventas hechas en contravención a los artículos 2146 y 2147 estarán afecta
 
 El vendedor está obligado:
 
-I.- A conservar y custodiar el bien vendido con la diligencia propia de un buen padre de familia, mientras no lo entregue;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+I.- A conservar y custodiar el bien vendido con la debida diligencia en virtud de garantizar mantenerlo en condiciones pactadas, mientras no lo entregue;
 
 II.- A entregar al comprador el bien vendido; y
 
@@ -13947,7 +13955,9 @@ La omisión del requisito que prescribe el artículo anterior, sujeta al deposit
 
 El depositario está obligado:
 
-I.- A conservar el bien depositado según lo reciba y a prestar en su guarda y conservación la diligencia de un buen padre de familia;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+I. A conservar el bien depositado según lo reciba y a prestar en su guarda y conservación la debida diligencia en virtud de garantizar mantenerlo en condiciones pactadas mientras no lo entregue;
 
 II.- A restituir el depósito con todos sus frutos y accesiones, cuando le fuere exigido, por quien tenga derecho de pedir la restitución;
 
@@ -14985,9 +14995,11 @@ Constituyen el objeto de esta aparcería las crías de los animales, frutos y pr
 
 A falta de convenio de los interesados, sobre los derechos y obligaciones derivadas de la aparcería de ganados, se observará la costumbre del lugar, salvo las siguientes disposiciones.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
+
 ###### Artículo 2600.
 
-El aparcero de ganados está obligado a emplear en la guarda y tratamiento de los animales, el cuidado y diligencias que un buen padre de familia tiene con sus bienes.
+La persona aparcera de ganados está obligada a emplear en la guarda y tratamiento de los animales, el cuidado y debida diligencia en virtud de garantizar mantenerlo en condiciones pactadas mientras no lo entregue.
 
 ###### Artículo 2601.
 
@@ -20642,6 +20654,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 1 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II Y III DEL ARTÍCULO 627, EL PRIMER Y TERCER PÁRRAFOS DEL 637, Y ADICIONA LA FRACCIÓN IV AL 627, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 1208, LA FRACCIÓN II DEL 1214, EL 1641, LA FRACCIÓN I DEL 2153, LA FRACCIÓN I DEL 2403 Y EL 2600, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
