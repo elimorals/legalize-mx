@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-atender-y-erradicar-el-acoso-y-la-95013"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-01"
-last_updated: "2020-12-30"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de julio de 2013.
 
@@ -895,21 +895,17 @@ V. Se proporcione información falsa u oculte información a las autoridades com
 
 VI. Cometa cualquier otra acción u omisión contrarias a lo establecido en la presente Ley, y que sean cometidas por servidores públicos, será sancionada conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
+
 ###### Artículo 71.
 
-Cuando se trate de quejas en contra de trabajadores de instituciones educativas a cargo del Estado, sus municipios y organismos descentralizados, en su caso, se sancionarán conforme lo establecido en la Ley de Educación del Estado.
+Cuando se trate de quejas en contra de trabajadores de instituciones educativas a cargo del Estado, sus municipios y organismos descentralizados, o contra particulares con autorización o con reconocimiento de validez oficial de estudios, en su caso, se sancionarán conforme lo establecido en la Ley de Educación del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
 
 ###### Artículo 72.
 
-Por las infracciones a la presente Ley, la Secretaría de Educación del Estado sancionará, en caso de reincidencia y cuando así lo estime necesario, a los particulares que prestan el servicio de educación, además con lo establecido en la Ley de Educación del Estado de Nuevo León, con las siguientes medidas:
-
-I. Amonestación por escrito; y
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
-
-II. Multa de hasta tres mil quinientas veces el valor diario de la Unidad de Medida y Actualización, cuyo monto dependerá de la gravedad de la falta. Las multas impuestas podrán duplicarse, en caso de reincidencia.
-
-La Secretaría de Educación, al dictar la resolución, adoptará las medidas que sean necesarias para evitar perjuicios a los educandos.
+Por las infracciones a la presente Ley, la Secretaría de Educación del Estado sancionará, en los términos de lo establecido en la Ley de Educación del Estado.
 
 ### CAPÍTULO IV. DE LOS RECURSOS
 
@@ -964,3 +960,9 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 459. SE REFORMAN LOS ARTÍCULOS 71 Y 72 DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LAS FRACCIONES I, II, III, Y POR ADICIÓN DE UNA FRACCIÓN IV DEL ARTÍCULO 121 A LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
