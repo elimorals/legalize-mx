@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-forestal-sustentable-del-estado-de-puebla-511
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-26"
-last_updated: "2017-12-29"
+last_updated: "2021-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el lunes 26 de junio de 2006.
 
@@ -51,15 +51,21 @@ LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE PUEBLA
 
 ### CAPÍTULO ÚNICO. DEL OBJETO Y APLICACIÓN DE LA LEY
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social. Sus disposiciones son de observancia general y obligatoria en el territorio del Estado de Puebla y tienen por objeto establecer las bases para promover el desarrollo forestal sustentable en la Entidad.
+La presente Ley es de orden público e interés social. Sus disposiciones son de observancia general y obligatoria en el territorio del Estado de Puebla y tienen por objeto regular y fomentar el manejo integral y sustentable de los territorios forestales, la conservación, protección, restauración, producción, ordenación, el cultivo, manejo y aprovechamiento de los ecosistemas forestales y sus recursos en la Entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 2.
 
-La presente Ley tiene por objeto:
+Son objetivos de esta Ley:
 
-I.- Contribuir al desarrollo social, económico, ecológico y ambiental del Estado, mediante el manejo integral sustentable de los recursos forestales, así como de las cuencas y ecosistemas hidrológico-forestales, sin perjuicio de lo previsto en otros ordenamientos;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+I.- Contribuir al desarrollo social, económico, ecológico y ambiental del Estado, mediante el manejo integral sustentable de los recursos forestales, así como de las cuencas y ecosistemas hidrológico-forestales, con un enfoque ecosistémico en el marco de las disposiciones aplicables, sin perjuicio de lo previsto en otros ordenamientos;
 
 II.- Definir los criterios de la política forestal estatal, describiendo sus instrumentos de aplicación y evaluación;
 
@@ -69,9 +75,13 @@ IV.- Diseñar, fomentar e implementar instrumentos económicos que incentiven el
 
 V.- Establecer políticas estatales relativas a la protección, conservación y restauración de los ecosistemas y recursos forestales, así como las relativas a la ordenación, aprovechamiento, manejo, fomento e industrialización de los mismos;
 
-VI.- Impulsar la silvicultura y el aprovechamiento de los recursos forestales, para que contribuyan con bienes y servicios que aseguren el mejoramiento del nivel de vida de los habitantes de la Entidad, especialmente el de los propietarios y pobladores forestales;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-VII.- Promover la organización, capacidad operativa, integralidad y profesionalización de las instituciones públicas del Estado y sus Municipios, para el desarrollo forestal sustentable;
+VI.- Impulsar la silvicultura y el aprovechamiento sustentable de los recursos forestales, para que contribuyan con bienes y servicios que aseguren el mejoramiento de la calidad de vida de los habitantes de la Entidad, con la participación corresponsable de los propietarios y legítimos poseedores de terrenos forestales;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+VII.- Promover la organización, capacidad operativa, integralidad, transversalidad y profesionalización de las instituciones públicas del Estado y sus Municipios, para el desarrollo forestal sustentable;
 
 VIII.- Promover una efectiva incorporación de la actividad forestal en el desarrollo rural;
 
@@ -79,9 +89,13 @@ IX.- Establecer directrices que orienten el desarrollo sustentable de las activi
 
 X.- Promover y regular las forestaciones con propósito comercial;
 
-XI.- Apoyar la organización y desarrollo de los propietarios forestales y mejorar sus prácticas silvícolas;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-XII.- Contribuir al desarrollo socioeconómico de los pueblos y comunidades indígenas, así como de ejidatarios, comuneros, cooperativas, pequeños propietarios y demás poseedores de recursos forestales;
+XI.- Apoyar la organización y desarrollo de los propietarios forestales y mejorar sus métodos y prácticas silvícolas;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+XII.- Contribuir al desarrollo socioeconómico de los pueblos y comunidades indígenas, y comunidades equiparables, así como de ejidatarios, comuneros, cooperativas, pequeños propietarios y demás poseedores de recursos forestales;
 
 XIII.- Fortalecer y mejorar los servicios técnicos forestales en la Entidad;
 
@@ -91,9 +105,29 @@ XV.- Establecer las bases a que deberá sujetarse la coordinación de las divers
 
 XVI.- Promover la ventanilla única de atención institucional eficiente para los usuarios del sector forestal;
 
-XVII.- Ampliar y fortalecer la participación de la producción forestal en el crecimiento económico de la Entidad; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-XVIII.- Fomentar la cultura, educación, capacitación, investigación y desarrollo tecnológico forestal.
+XVII.- Fomentar, ampliar y fortalecer la participación de la producción forestal en el crecimiento económico de la Entidad;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+XVIII.- Promover y fomentar la cultura, educación, capacitación e investigación forestal y los procesos de innovación tecnológica para el manejo forestal sustentable;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2021)</small>
+
+XIX.- Promover el consumo de productos forestales que procedan de predios con manejo forestal certificado;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2021)</small>
+
+XX.- Proteger los derechos de las comunidades indígenas, equiparables a los de las comunidades indígenas, y propietarios forestales, así como los derechos humanos en lo concerniente a la aplicación de la Ley;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2021)</small>
+
+XXI.- Mejorar la efectividad de la coordinación en materia forestal con los Municipios de la Entidad; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2021)</small>
+
+XXII.- Garantizar la participación de la sociedad, incluyendo a los pueblos y comunidades indígenas, y comunidades equiparables, en la aplicación, evaluación y seguimiento de la política forestal.
 
 ###### ARTÍCULO 3.
 
@@ -129,9 +163,11 @@ IX.- Las investigaciones y estudios relativos a los ecosistemas y recursos fores
 
 La Secretaría coordinará con las Dependencias y Entidades de los tres órdenes de gobierno, el desarrollo de las actividades forestales que se lleven a cabo en la Entidad, asumiendo en su caso, la ejecución de funciones que se transfieran al Estado.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 6.
 
-En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado, el Código de Procedimientos Civiles y el Código de Defensa Social ambos para el Estado Libre y Soberano de Puebla.
+En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado, el Código de Procedimientos Civiles y el Código Penal ambos para el Estado Libre y Soberano de Puebla.
 
 ###### ARTÍCULO 7.
 
@@ -163,7 +199,9 @@ XII.- Unidad de Manejo Forestal.- Territorio cuyas condiciones físicas, ambient
 
 XIII.- Uso doméstico.- El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos de sus necesidades básicas en el medio rural; y
 
-XIV.- Secretaría: La Secretaría del Medio Ambiente y Recursos Naturales del Estado de Puebla.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+XIV.- Secretaría: La Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
 
 ###### ARTÍCULO 8.
 
@@ -201,17 +239,29 @@ III.- Los Titulares de las Dependencias de la Administración Pública Estatal, 
 
 Son autoridades competentes en la aplicación de la presente Ley:
 
-I.- El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-II.- La Secretaría de Gobernación;
+I.- La persona Titular del Gobierno del Estado;
 
-III.- La Secretaría del Medio Ambiente y Recursos Naturales;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-IV.- La Secretaría de Desarrollo Rural;
+II.- La persona Titular de la Secretaría de Gobernación;
 
-V.- La Secretaría de Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-VI.- La Secretaría de Seguridad Pública;
+III.- La persona Titular de la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+IV.- La persona Titular de la Secretaría de Desarrollo Rural;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+V.- La persona Titular de la Secretaría de Infraestructura;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+VI.- La persona Titular de la Secretaría de Seguridad Pública;
 
 VII.- Los Ayuntamientos; y
 
@@ -341,9 +391,13 @@ XIX.- Llevar a cabo, en coordinación con la Federación, acciones de saneamient
 
 XX.- Coordinar los servicios estatales de asesoría y capacitación en prácticas y métodos que conlleven un manejo forestal sustentable, así como los relativos a la elaboración y ejecución de programas de manejo forestal y de plantaciones forestales comerciales;
 
-XXI.- Establecer y coordinar los mecanismos de asesoría y orientación dirigidos a ejidatarios, comuneros, pequeños propietarios, comunidades indígenas y otros productores forestales en el desarrollo de su organización, así como en la creación de empresas sociales forestales, propiciando la integración de cadenas productivas y los sistemas-producto del sector;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-XXII.- Brindar atención, de forma coordinada con la Federación y los Municipios, en los asuntos relacionados con la conservación y mejoramiento del hábitat natural de los pueblos y comunidades indígenas;
+XXI.- Establecer y coordinar los mecanismos de asesoría, orientación y capacitación dirigidos a ejidatarios, comuneros, pequeños propietarios, comunidades indígenas, y comunidades equiparables, y otros productores forestales en el desarrollo de su organización, así como en la creación de empresas sociales forestales, propiciando la integración de cadenas productivas y los sistemas-producto del sector;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+XXII.- Brindar atención, de forma coordinada con la Federación y los Municipios, en los asuntos relacionados con la conservación y mejoramiento del hábitat natural de los pueblos y comunidades indígenas, y comunidades equiparables;
 
 XXIII.- Diseñar, desarrollar y aplicar instrumentos económicos para promover el desarrollo forestal de la Entidad, proponiendo al Gobernador del Estado y a las Dependencias Estatales competentes, acciones de mejoramiento de la infraestructura en las áreas forestales de la Entidad;
 
@@ -469,9 +523,13 @@ IV.- Consolidar el Servicio Estatal Forestal, impulsando el papel que le corresp
 
 V.- Fortalecer los procesos de ventanilla única y desconcentración administrativa, para dar celeridad a los trámites y gestiones relacionados con las actividades forestales, así como para disminuir su costo;
 
-VI.- Precisar los requerimientos de las áreas rurales y de las comunidades indígenas, para favorecer las actividades forestales;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-VII.- Impulsar la incorporación de los pueblos y comunidades indígenas de la Entidad, a los procesos de desarrollo tecnológico, fomento y aprovechamiento sustentable de los recursos naturales de los ecosistemas forestales;
+VI.- Precisar los requerimientos de las áreas rurales y de las comunidades indígenas, y comunidades equiparables, para favorecer las actividades forestales;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+VII.- Impulsar la incorporación de los pueblos y comunidades indígenas, y comunidades equiparables, a los procesos de desarrollo tecnológico, fomento y aprovechamiento sustentable de los recursos naturales de los ecosistemas forestales;
 
 VIII.- Conjuntar acciones y recursos humanos y materiales de las dependencias federales, estatales y municipales, para estimular el desarrollo sustentable de las actividades forestales;
 
@@ -571,13 +629,17 @@ II.- Deberá ser revisado cada tres años; y
 
 III.- Constituirá referencia para el diseño de los programas regionales y municipales.
 
-En la revisión o actualización de este programa, participarán las Dependencias, Entidades, organizaciones y demás instancias interesadas en las actividades forestales, conforme a lo previsto en la Ley de Planeación para el Desarrollo del Estado.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
+
+En la revisión o actualización de este programa, participarán las Dependencias, Entidades, organizaciones y demás instancias interesadas en las actividades forestales, conforme a lo previsto en la Ley de Planeación para el Desarrollo del Estado de Puebla.
 
 #### Sección 4. De los Programas Municipales de Desarrollo Forestal Sustentable
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 33.
 
-Los programas municipales de desarrollo forestal sustentable, tendrán la proyección correspondiente a los periodos constitucionales que correspondan a los Ayuntamientos del Estado, conforme a lo previsto en la Ley de Planeación del Desarrollo del Estado de Puebla y en la Ley Orgánica Municipal del Estado.
+Los programas municipales de desarrollo forestal Sustentable, tendrán la proyección correspondiente a los periodos constitucionales que correspondan a los Ayuntamientos del Estado, conforme a lo previsto en la Ley de Planeación para el Desarrollo del Estado de Puebla y en la Ley Orgánica Municipal.
 
 ###### ARTÍCULO 34.
 
@@ -631,23 +693,27 @@ XI.- Las demás que se consideren estratégicas para la planeación y evaluació
 
 #### Sección 1. Del Inventario Estatal Forestal y de Suelos
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 37.
 
-El Inventario Estatal Forestal y de Suelos, deberá contener:
+El Inventario Estatal Forestal y de Suelos, será actualizado, por lo menos, cada cinco años y deberá contener la siguiente información:
 
-I.- Los datos estadísticos de los ecosistemas y recursos forestales;
+I.- La superficie y localización de terrenos forestales y preferentemente forestales con que cuenta la Entidad, con el propósito de integrar su información estadística y elaborar su cartografía, en sus distintos niveles de ordenación y manejo;
 
-II.- La información relativa a superficie, localización, tipos de vegetación, suelos e infraestructura forestales;
+II.- Los terrenos forestales temporales, su superficie y localización;
 
-III.- La clasificación y delimitación de zonas o áreas de protección o reserva forestal;
+III.- Los tipos de vegetación forestal y de suelos, su localización, formaciones y clases, con tendencias y proyecciones que permitan clasificar y delimitar el estado actual de la deforestación y degradación, así como las zonas de conservación, protección, restauración y producción forestal, en relación con las cuencas hidrográficas, las regiones ecológicas y las áreas naturales protegidas;
 
-IV.- La cartografía forestal del Estado;
+IV.- La dinámica de cambio de la vegetación forestal, que permita conocer y evaluar las tasas de deforestación y las tasas de degradación y disturbio, registrando sus causas principales;
 
-V.- La cuantificación de los recursos forestales del Estado y sus Municipios;
+V.- La cuantificación de los recursos forestales de la Entidad y los Municipios, que incluya información de los bienes y servicios ambientales que generen los ecosistemas forestales, así como los impactos que se ocasionen en los mismos;
 
-VI.- Los criterios e indicadores de la sustentabilidad y degradación forestal y de suelos; y
+VI.- Los criterios e indicadores de sustentabilidad, deforestación y degradación de los ecosistemas forestales;
 
-VII.- Los demás que señale el Reglamento de la presente Ley.
+VII.- Los registros de la infraestructura forestal existente; y
+
+VIII.- Los demás que señale el Reglamento de la presente Ley.
 
 ###### ARTÍCULO 38.
 
@@ -811,15 +877,19 @@ Los titulares de los derechos de propiedad, uso o usufructo de terrenos en donde
 
 Los derechos de aprovechamiento podrán ser cedidos en todo o en parte a favor de terceras personas de acuerdo a los lineamientos que establezca el reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 55.
 
-La Secretaría establecerá los procedimientos y mecanismos necesarios, para que los títulos o documentos en los que consten las autorizaciones; sean traducidos a las lenguas de los solicitantes o titulares de aprovechamientos forestales pertenecientes a pueblos y comunidades indígenas, o bien, para asegurar que les sea interpretado su contenido.
+La Secretaría establecerá los procedimientos y mecanismos necesarios, para que los títulos o documentos en los que consten las autorizaciones, sean traducidos a las lenguas de los solicitantes o titulares de aprovechamientos forestales pertenecientes a pueblos y comunidades indígenas, y comunidades equiparables, o bien, para asegurar que les sea interpretado su contenido.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 56.
 
-Cuando una autorización pueda afectar el hábitat de alguna comunidad indígena, la autoridad deberá recabar el parecer de los representantes de dicha comunidad.
+Cuando una autorización pueda afectar el hábitat de alguna comunidad indígena, o comunidades equiparables, la autoridad deberá recabar el parecer de los representantes de dicha comunidad.
 
-La Secretaría, en coordinación con las Dependencias y Entidades de la Administración Pública Federal competentes, verificará que los aprovechamientos de recursos forestales se realicen garantizando los derechos que la Ley reconozca a las comunidades indígenas.
+La Secretaría, en coordinación con las Dependencias y Entidades de la Administración Pública Federal competentes, verificará que los aprovechamientos de recursos forestales se realicen garantizando los derechos que la Ley reconozca a las comunidades indígenas, y comunidades equiparables.
 
 ###### ARTÍCULO 57.
 
@@ -967,9 +1037,11 @@ X.- Proporcionar asesoría técnica y capacitación a los titulares de aprovecha
 
 XI.- Las demás que la presente (sic) Ley y otras disposiciones legales establezcan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 69.
 
-Los ejidatarios, comuneros y demás propietarios o poseedores de terrenos forestales o preferentemente forestales, que por la carencia de recursos económicos no estén en posibilidades de cubrir los costos de elaboración del programa de manejo forestal podrán recurrir a la Secretaría, para que les proporcione asesoría técnica y/o apoyo financiero para la elaboración de éste; lo cual se hará en la medida de las posibilidades presupuestales del Gobierno del Estado y previa comprobación de la carencia de dichos recursos.
+Los ejidatarios, comuneros y demás propietarios o poseedores de terrenos forestales o preferentemente forestales, que por la carencia de recursos económicos no estén en posibilidades de cubrir los costos de elaboración del programa de manejo forestal podrán recurrir a la Secretaría, para que les proporcione asesoría técnica y/o apoyo financiero para la elaboración de éste; lo cual se hará en la medida de la suficiencia presupuestaria del Gobierno del Estado y previa comprobación de la carencia de dichos recursos.
 
 La Secretaría, en su caso, concertará acciones con la CONAFOR para realizar las acciones de asesoría y apoyo a que se refiere el párrafo anterior.
 
@@ -1085,13 +1157,17 @@ Los titulares de autorizaciones de aprovechamiento de recursos forestales están
 
 #### Sección 1. Del Sistema Estatal de Prevención, Combate y Control de Incendios Forestales
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 85.
 
-La Secretaría a través del Sistema Estatal, coordinará las acciones de prevención, combate y control especializado de incendios forestales con la concurrencia de las Dependencias y Entidades de los órdenes de gobierno, en los términos de la distribución de competencias y de los acuerdos o convenios que para tal efecto se celebren.
+La Secretaría a través del Sistema Estatal de Prevención, Combate y Control de Incendios Forestales, coordinará las acciones de prevención, combate y control especializado de incendios forestales con la concurrencia de las Dependencias y Entidades de los órdenes de gobierno, en los términos de la distribución de competencias y de los acuerdos o convenios que para tal efecto se celebren.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 86.
 
-Corresponde al Sistema:
+Corresponde al Sistema Estatal de Prevención, Combate y Control de Incendios Forestales:
 
 I.- Coordinar y ejecutar las acciones interinstitucionales de regulación, prevención, detección, combate, control y extinción de los incendios forestales;
 
@@ -1105,7 +1181,9 @@ El Sistema Estatal de Prevención, Combate y Control de Incendios Forestales est
 
 I.- La Secretaría de Gobernación;
 
-II.- La Secretaría del Medio Ambiente y Recursos Naturales;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+II.- La Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
 
 III.- La Secretaría de Seguridad Pública;
 
@@ -1121,9 +1199,11 @@ VIII.- Las asociaciones o colegios de profesionistas, relacionados con actividad
 
 IX.- Las demás Dependencias y Entidades Federales, Estatales o Municipales que tengan relación con las funciones de protección civil y las acciones de prevención, combate, control y extinción de incendios forestales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 88.
 
-El Sistema Estatal, se conducirá de acuerdo con las normas y lineamientos del Programa correspondiente, que integrará anualmente la Secretaría y contendrá los siguientes elementos:
+El Sistema Estatal de Prevención, Combate y Control de Incendios Forestales, se conducirá de acuerdo con las normas y lineamientos del Programa correspondiente, que integrará anualmente la Secretaría y contendrá los siguientes elementos:
 
 I.- Fortalecimiento de la coordinación interinstitucional;
 
@@ -1139,11 +1219,13 @@ VI.- Capacitación a técnicos, propietarios y poseedores de predios agropecuari
 
 #### Sección 2. De los Cuerpos Especiales Permanentes y de los Grupos Voluntarios de Prevención y Combate de Incendios Forestales
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
+
 #### Sección 3. De las Obligaciones de los Poseedores, Propietarios y Titulares de Aprovechamientos Forestales
 
 ###### ARTÍCULO 89.
 
-El Sistema Estatal contará con cuerpos permanentes y eventuales que estarán integrados por el personal especializado, capacitado, equipado y adscrito a las Dependencias competentes, en el ámbito de sus atribuciones.
+El Sistema Estatal de Prevención, Combate y Control de Incendios Forestales, contará con cuerpos permanentes y eventuales que estarán integrados por el personal especializado, capacitado, equipado y adscrito a las Dependencias competentes, en el ámbito de sus atribuciones.
 
 ###### ARTÍCULO 90.
 
@@ -1221,19 +1303,25 @@ El instrumento financiero se podrá integrar con:
 
 I.- Las aportaciones que efectúen los tres órdenes de gobierno;
 
-II.- Créditos internacionales, así como de organismos nacionales;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+II.- Créditos y apoyos de organismos nacionales e internacionales;
 
 III.- Las aportaciones y donaciones de personas físicas o jurídicas de carácter privado, mixto, nacionales e internacionales;
 
 IV.- El producto de sus operaciones y de la inversión de fondos libres en valores comerciales o del sector público;
 
-V.- El cobro por asistencia técnica; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+V.- El cobro por bienes y servicios ambientales y por asistencia técnica; y
 
 VI.- Los demás recursos que obtenga por cualquier otro concepto.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 103.
 
-La Secretaría, escuchando la opinión del Consejo Estatal, propondrá al Gobierno del Estado, a través de la Secretaría de Finanzas y Administración la asignación de estímulos fiscales a las acciones de fomento para el desarrollo forestal sustentable, en el marco de las disposiciones de la presente Ley y la normatividad aplicable.
+La Secretaría, escuchando la opinión del Consejo Estatal, propondrá al Gobierno del Estado, a través de la Secretaría de Planeación y Finanzas la asignación de estímulos fiscales a las acciones de fomento para el desarrollo forestal sustentable, en el marco de las disposiciones de la presente Ley y la normatividad aplicable.
 
 ###### ARTÍCULO 104.
 
@@ -1287,17 +1375,21 @@ V.- Utilización de productos forestales como materia prima en la industria quí
 
 ### CAPÍTULO III. DE LA INFRAESTRUCTURA ESTATAL PARA EL DESARROLLO FORESTAL
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 109.
 
-El Gobierno del Estado, a través de las Dependencias y Entidades competentes, en coordinación con la Federación y los gobiernos de los Municipios, promoverá el desarrollo de infraestructura para el desarrollo forestal, las cuales consistirán en electrificación; obras hidráulicas; obras de conservación de suelos y aguas; construcción y mantenimiento de caminos forestales, torres de detección, campamentos, viveros y telefonía rural, de conformidad con la legislación aplicable.
+El Gobierno del Estado, a través de las Dependencias y Entidades competentes, en coordinación con la Federación y los gobiernos de los Municipios, promoverá el desarrollo de infraestructura para el desarrollo forestal, las cuales consistirán en electrificación; obras hidráulicas; obras de conservación y restauración de suelos y aguas; construcción y mantenimiento de caminos forestales, instalaciones y equipos para la detección y combate de incendios forestales, campamentos, viveros forestales, obras de captación de agua de lluvia, estaciones climatológicas y telefonía rural, de conformidad con la legislación aplicable.
 
 ###### ARTÍCULO 110.
 
 La Secretaría se coordinará con las Dependencias y Entidades Federales, Estatales y Municipales que tengan a su cargo las funciones de impulsar los programas de electrificación, desarrollo hidráulico, conservación de suelos y aguas, y de ampliación de la comunicación rural, para que la promoción de acciones y obras respondan a conceptos de desarrollo integral.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 111.
 
-La Secretaría promoverá junto con la Secretaría de Comunicaciones y Transportes del Estado, acciones de infraestructura vial o caminera en las regiones forestales del Estado, con la misión primordial de captar y colocar recursos para proyectos de apertura, mejoramiento y conservación.
+La Secretaría promoverá junto con la Secretaría de Movilidad y Transporte del Estado, acciones de infraestructura vial o caminera en las regiones forestales de la Entidad, con la misión primordial de captar y colocar recursos para proyectos de apertura, mejoramiento y conservación.
 
 ## TÍTULO SÉPTIMO. DEL DESARROLLO CULTURAL, CIENTÍFICO Y TECNOLÓGICO FORESTAL
 
@@ -1307,21 +1399,37 @@ La Secretaría promoverá junto con la Secretaría de Comunicaciones y Transport
 
 La Secretaría, en coordinación con las Dependencias y Entidades competentes del Gobierno del Estado y las correspondientes de la Federación y de los Municipios, organizaciones e instituciones públicas, privadas y sociales, realizará en materia de cultura forestal las siguientes acciones:
 
-I.- Promover y realizar campañas permanentes de difusión y eventos especiales orientados al logro de la participación organizada de la sociedad en programas inherentes al desarrollo forestal sustentable;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-II.- Alentar la recopilación, análisis y divulgación de investigaciones forestales en el ámbito regional, nacional e internacional;
+I.- Establecer y realizar campañas permanentes de divulgación, sensibilización y concientización, así como eventos orientados al logro de la participación organizada de la sociedad en programas inherentes al desarrollo forestal sustentable;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+II.- Alentar la recopilación, análisis y divulgación de resultados de investigaciones forestales en el ámbito regional, nacional e internacional;
 
 III.- Establecer espacios orientados a elevar el nivel de cultura, educación y capacitación forestales;
 
-IV.- Promover la actualización de los contenidos programáticos en materia de conservación, protección, restauración y aprovechamientos forestales en el sistema educativo nacional, que fortalezcan y fomenten la cultura forestal;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-V.- Propiciar la divulgación, el uso, respeto y reconocimiento de costumbres, tradiciones y prácticas culturales propias de los pueblos indígenas que habitan en las regiones forestales;
+IV.- Promover la actualización de los contenidos curriculares en materia de conservación, protección, restauración y aprovechamientos forestales en el sistema educativo nacional, que fortalezcan y fomenten la cultura forestal;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+V.- Propiciar la divulgación, el uso, respeto y reconocimiento de costumbres, tradiciones y prácticas culturales propias de los pueblos indígenas, y comunidades equiparables que habitan en las regiones forestales;
 
 VI.- Contribuir al diseño, formulación, elaboración y publicación de materiales de comunicación educativa y guías técnicas actualizadas, que reorienten la relación de la sociedad y lo forestal;
 
-VII.- Fomentar la formación de formadores y promotores forestales voluntarios; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-VIII.- Otras que sean de interés para desarrollar y fortalecer la cultura forestal.
+VII.- Fomentar la formación de formadores y promotores forestales voluntarios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2021)</small>
+
+VIII.- Promover los criterios de política forestal previstos en la presente Ley, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MARZO DE 2021)</small>
+
+IX.- Otras que sean de interés para desarrollar y fortalecer la cultura forestal.
 
 ### CAPÍTULO II. DE LA EDUCACIÓN Y CAPACITACIÓN FORESTAL
 
@@ -1339,7 +1447,9 @@ IV.- Apoyar la formación, capacitación y actualización de los prestadores de 
 
 V.- Impulsar programas de educación y capacitación forestal destinados a propietarios y productores forestales, así como de los pobladores de regiones forestales, en materia de conservación, protección, restauración y aprovechamiento sustentable de los recursos forestales, así como en materia de contingencias, emergencias e incendios forestales;
 
-VI.- Desarrollar programas de capacitación y orientación en materia forestal para los pueblos y comunidades indígenas;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+VI.- Desarrollar programas de capacitación y orientación en materia forestal para los pueblos y comunidades indígenas, y comunidades equiparables;
 
 VII.- Formular programas de becas para la formación y capacitación forestal; y
 
@@ -1545,9 +1655,17 @@ III.- Suspensión temporal, parcial o total, de las autorizaciones de aprovecham
 
 IV.- Revocación de la autorización o inscripción registral;
 
-V.- Decomiso de las materias primas forestales obtenidas, así como de los instrumentos, maquinaria, equipos y herramientas y de los medios de transporte utilizados para cometer la infracción, debiendo considerar el destino y resguardo de los bienes decomisados; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
 
-VI.- Clausura temporal o definitiva, parcial o total, de las instalaciones, maquinaria y equipos de los centros de almacenamiento y transformación de materias primas forestales, o de los sitios o instalaciones donde se desarrollen las actividades que den lugar a la infracción respectiva.
+V.- Decomiso de las materias primas forestales obtenidas, así como de los instrumentos, maquinaria, equipos y herramientas y de los medios de transporte utilizados para cometer la infracción, debiendo considerar el destino y resguardo de los bienes decomisados;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+
+VI.- Clausura temporal o definitiva, parcial o total, de las instalaciones, maquinaria y equipos de los centros de almacenamiento y transformación de materias primas forestales, o de los sitios o instalaciones donde se desarrollen las actividades que den lugar a la infracción respectiva; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2021)</small>
+
+VII.- Establecimiento de medidas de restauración en el área afectada.
 
 En el caso de las fracciones III y IV de este artículo, la Secretaría ordenará se haga la inscripción de la suspensión o revocación correspondiente en el Registro Estatal Forestal y en el Registro Nacional Forestal.
 
@@ -1774,3 +1892,13 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo Estatal deberá realizar las modificaciones al Reglamento de la presente Ley, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
