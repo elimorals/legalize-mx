@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-185-de-justicia-administrativa-para-el-estado-de-105
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-04"
-last_updated: "2020-01-30"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SON"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DE 30 DE ENERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MARZO DE 2021.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 4 de diciembre de 2014.
 
@@ -159,11 +157,25 @@ XVII.- Las demás que establezca esta Ley y las disposiciones reglamentarias apl
 
 La Sala Superior y la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas del Tribunal de Justicia Administrativa, se integrarán por Magistrados propietarios.
 
-> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 11 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 6.
 
 La Sala Superior y la Sala Especializada en materia de Anticorrupción del Tribunal, contarán con un Secretario General de Acuerdos, los Secretarios Auxiliares, Actuarios y demás personal que requiera el servicio, cuyas atribuciones serán establecidas en el Reglamento Interior. El personal de la Sala Especializada recibirá las mismas percepciones que los funcionarios y empleados de la misma o análoga categoría del Supremo Tribunal de Justicia del Estado de Sonora y estas no podrán ser reducidas durante el tiempo de su gestión.
+
+Asimismo, cada una contará con una Dirección de Orientación y Consulta Ciudadana, que tendrá como atribuciones proporcionar de oficio o a petición de parte, orientación y asesoría a los ciudadanos, ésta puede incluir adicionalmente la correspondiente a los métodos alternos para la solución de los conflictos cuando exista sometimiento expreso a los mismos, y en su caso será la responsable de la prestación del servicio relativo conforme a lo dispuesto en esta Ley y en la Ley de Mecanismos Alternativos de Solución de Controversias para el Estado De Sonora.
+
+Esta Dirección tendrá las siguientes atribuciones:
+
+I.- Orientar sobre los medios de defensa administrativos.
+
+II.- Prestar los servicios de métodos alternos para la prevención y en su caso, la solución de conflictos, en los términos de las disposiciones legales aplicables,
+
+III.- Opinar por escrito, en caso de que se lo soliciten los Magistrados de las Salas, si los actos y resoluciones impugnados en el juicio contencioso sometidos a su conocimiento son susceptibles de Convenio, siempre y cuando no alteren el orden público, no contravengan alguna disposición legal expresa y no afecten derechos de terceros, en los términos establecidos en el artículo 7o. de la Ley Estatal de Mecanismos Alternativos de Solución de Controversias; y
+
+IV.- Las demás que le atribuya (sic) esta Ley, el Reglamento Interior del Tribunal, o le encomiende la (sic) Superior y la Sala Especializada, según corresponda.
+
+Este servicio será prestado de acuerdo con los lineamientos que establezcan el Pleno de la Sala Superior y la Sala Especializada, según corresponda.
 
 > <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
@@ -313,11 +325,11 @@ El pleno de la Sala Superior y de la Sala Especializada en materia de Anticorrup
 
 Las resoluciones del Pleno de la Sala Superior y de la Sala Especializada en materia de Anticorrupción y Responsabilidades Administrativas del Tribunal de Justicia Administrativa, se tomarán por unanimidad o mayoría de votos de los magistrados, quienes no podrán abstenerse de votar, a menos que exista algún impedimento legal. El magistrado que difiera de la mayoría, podrá formular voto particular.
 
-> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 11 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 16.
 
-Las sesiones del Pleno de la Sala Superior y de la Sala Especializada, serán públicas y se transmitirán por los medios electrónicos que faciliten su seguimiento, en los casos que se estime necesario serán videograbadas, resguardando los datos personales en términos de la legislación en materia de transparencia y protección de datos. Sólo en los casos que la ley lo establezca, las sesiones podrán ser privadas, no obstante se harán versiones públicas para la consulta ciudadana que, en su caso, sea requerida a través de los procedimientos establecidos en la ley de la materia.
+Las sesiones del Pleno de la Sala Superior y de la Sala Especializada, serán públicas y se transmitirán en vivo por los medios electrónicos que faciliten su seguimiento; asimismo, deberán serán (sic) videograbadas, para lo cual se deberá realizar la debida protección de los datos personales en términos de la la (sic) Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora. Sólo en los casos que la ley lo establezca, las sesiones podrán ser privadas, no obstante, se harán versiones públicas para la consulta ciudadana que, en su caso, sea requerida a través de los procedimientos establecidos en la ley de la materia.
 
 > <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
 
@@ -341,9 +353,17 @@ VII.- Designar a la Comisión de Evaluación de Exámenes, en el sistema de serv
 
 VIII.- Expedir y modificar el Reglamento Interior, los manuales administrativos y de procedimientos y demás disposiciones administrativas generales necesarias para el funcionamiento de la Sala Superior;
 
-IX.- Calificar las excusas y recusaciones de los magistrados de la Sala Superior del Tribunal de Justicia Administrativa; y
+> <small>(REFORMADA, B.O. 11 DE MARZO DE 2021)</small>
 
-X.- Las demás que establezcan esta Ley y otras disposiciones legales y reglamentarias.
+IX.- Calificar las excusas y recusaciones de los magistrados de la Sala Superior del Tribunal de Justicia Administrativa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE MARZO DE 2021)</small>
+
+X.- Conocer y resolver los conflictos de competencia suscitados entre las Salas del Tribunal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 11 DE MARZO DE 2021)</small>
+
+XI.- Las demás que establezcan esta Ley y otras disposiciones legales y reglamentarias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 2017)</small>
 
@@ -463,7 +483,9 @@ Los requisitos para acceder a estos puestos, por su naturaleza, competencia y at
 
 El ingreso y promoción del personal profesional del Tribunal, se realizará mediante el sistema de servicio profesional de carrera, en el que serán considerados los factores de honestidad, preparación, eficiencia y antigüedad, conforme a las disposiciones del reglamento respectivo.
 
-## TÍTULO SEGUNDO. DEL PROCEDIMIENTO DE LO CONTENCIOSO ADMINISTRATIVO
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 11 DE MARZO DE 2021)</small>
+
+## TÍTULO SEGUNDO. DEL JUICIO DE LO CONTENCIOSO ADMINISTRATIVO EN LA VÍA ORDINARIA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -793,9 +815,39 @@ III.- Prevenido el actor para que aclare, corrija o complete la demanda, en los 
 
 ### CAPÍTULO VI. DE LA CONTESTACIÓN
 
+> <small>(REFORMADO, B.O. 11 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 55.
 
 Admitida la demanda, se correrá traslado a las partes para que la contesten en el término de quince días, pudiendo hacerlo personalmente o por correo certificado con acuse de recibo ante el Pleno cuando radiquen fuera de su residencia. Cuando los demandados fueren varios el término para contestar les correrá individualmente. El término para contestar la ampliación de la demanda, será de cinco días.
+
+Desde el auto en que admita la demanda, y en cualquier otro momento del juicio hasta antes de dictar sentencia, el Magistrado instructor impulsará la conciliación entre las partes, para lo cual se procederá de la siguiente forma:
+
+I.- Cuando alguna de las partes del juicio manifieste su deseo de resolver la controversia a través de algún procedimiento previsto en la Ley de Mecanismos Alternativos de Solución de Controversias para el Estado de Sonora, el Magistrado dará vista a la contraparte a fin de que manifieste si está de acuerdo con someter el conflicto a esa alternativa; en caso de ser afirmativa la respuesta, el Magistrado emitirá un acuerdo ordenando remitir a la Dirección de Orientación y Consulta Ciudadana, copia de las constancias necesarias del expediente para que proceda el titular de dicha Dirección en los términos de lo previsto en el artículo 6 fracción III de esta Ley.
+
+Una vez que el Magistrado reciba la opinión del titular de la Dirección de Orientación en el sentido de que el acto impugnado, es susceptible de convenio conforme a la naturaleza jurídica del asunto, citará a las partes a una audiencia para la cual fijará fecha y hora para su celebración, no debiendo exceder de un plazo de diez días siguientes a la fecha en que se notifique el mencionado acuerdo.
+
+II.- En caso de que en el plazo fijado las partes citadas no comparezcan, se levantará un acta circunstanciada en la que se asentará la incomparecencia de éstas y su desinterés en conciliar la controversia.
+
+III.- Si las partes comparecieren en la fecha fijada para la Audiencia de conciliación, el Magistrado levantará el acta correspondiente en la que se hará constar su deseo de someterse a un método alterno de solución de conflictos y solicitará la intervención de la Dirección de Orientación y Consulta Ciudadana de este Tribunal para el efecto de que se reciba la asistencia procedente.
+
+Las partes podrán comparecer a la audiencia optativamente en forma personal, por medio de representante o de abogado autorizado. Los autorizados invariablemente deberán contar con facultades expresas para someter la solución del conflicto a un método alterno, y suscribir en su caso el convenio correspondiente.
+
+Las personas morales comparecerán por medio de sus representantes legales. Los mayores incapaces y los menores comparecerán por conducto de sus representantes legales o tutores, en estos casos el Magistrado proveerá de oficio lo necesario a efecto de no dejarlos en estado de indefensión con motivo del acreditamiento de los mismos.
+
+Las autoridades que sean parte del juicio comparecerán por sí o a través de cualquiera de los delegados acreditados en los términos del Artículo 37 de la presente Ley. A estos delegados, deberá conferírseles por escrito las mismas facultades que correspondan a los representantes legales o abogados autorizados de los particulares para la sujeción a los métodos alternos.
+
+IV.- La etapa de conciliación a que se refiere el presente artículo no suspenderá el procedimiento, salvo que las partes manifiesten su conformidad para someter el conflicto o controversia a un método alterno de solución, caso en el cual procederá la suspensión, por una sola vez, hasta por un término improrrogable de treinta días naturales.
+
+V.- Vencido el plazo a que se refiere el artículo anterior, si las partes no concretizan el Convenio correspondiente en el que pongan fin a la controversia; deberán hacerlo del conocimiento de la Sala, solicitando la reanudación del juicio en la etapa en que se haya quedado. El titular de la Dirección de Orientación y Consulta Ciudadana comunicará por escrito el resultado de la conciliación haciéndolo saber a la Sala de la instrucción, devolviendo la copia del expediente recibido.
+
+VI.- Si se realiza el Convenio correspondiente en el que consten los acuerdos a los que llegaron las partes, la Dirección de Orientación y Consulta Ciudadana remitirá el citado Convenio a la Autoridad demandada, para efecto de notificar al actor para que en un término de cinco días hábiles ratifique ante ésta el contenido del citado Convenio y se realice la validación correspondiente. La Autoridad demandada tendrá un plazo de cinco días hábiles para informar al Magistrado, sobre la validación del Convenio, para que éste proceda a dar por concluido el juicio. En caso de que las partes no validen el Convenio, se continuará de oficio el juicio contencioso, una vez que el Magistrado se cerciore de lo anterior. En todo caso la Dirección de Orientación y Consulta Ciudadana dará a conocer al Magistrado de los pormenores del asunto.
+
+Será nulo de pleno derecho el Convenio que se celebre cuando con motivo del mismo, se contravengan disposiciones del orden público, o se afecten derechos de tercero (sic), de acuerdo a lo previsto en la Ley de Mecanismos Alternativos de Solución de Controversias para el Estado de Sonora.
+
+En caso de incumplimiento del Convenio validado por la autoridad, se aplicarán en lo conducente, las reglas que para la ejecución de sentencia se establecen en la presente Ley, previo derecho de audiencia de las partes.
+
+Si la parte actora no da cumplimiento a un Convenio validado, la autoridad demandada, tendrá expedita su facultad para realizar los actos que considere pertinentes, y sin menoscabo de solicitar su ejecución forzosa.
 
 ###### ARTÍCULO 56.
 
@@ -1197,6 +1249,12 @@ V.- Los fundamentos legales en que se apoye; y
 
 VI.- Los puntos resolutivos en los que se decrete el sobreseimiento del juicio, se reconozca la validez, se declare la nulidad o se ordene la modificación o reposición del acto impugnado y en su caso, la condena que se imponga.
 
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTÍCULO 89 BIS.- Las sentencias y resoluciones que emita el Tribunal, deberán estar redactadas en un lenguaje sencillo, y en forma clara y precisa.
+
+Las sentencias y resoluciones que se emitan, deberán ser publicadas en la página oficial de la Sala respectiva, realizándose la debida protección de datos personales, para lo cual deberán seguirse los lineamientos de la ley de la materia.
+
 ###### ARTÍCULO 90.
 
 Son causas de nulidad e invalidez de los actos o resoluciones impugnadas las siguientes:
@@ -1263,7 +1321,9 @@ Las sanciones mencionadas en este capítulo también serán aplicables cuando no
 
 Podrán ser impugnadas por las partes, mediante recurso de revisión:
 
-I.- Las resoluciones que admitan o desechen la demanda;
+> <small>(REFORMADA, B.O. 11 DE MARZO DE 2021)</small>
+
+I.- Las resoluciones que admitan o desechen la demanda, o decreten la improcedencia de la vía sumaria;
 
 II.- Los acuerdos que decreten, nieguen o revoquen la suspensión, a excepción del caso contenido en el último párrafo del artículo 66 de esta Ley;
 
@@ -1352,6 +1412,158 @@ Independientemente de la responsabilidad penal o administrativa que pudiera cons
 I.- Afirmen dolosamente hechos falsos u omitan los que les consta en relación con sus pretensiones; y,
 
 II.- Presenten documentos o testigos falsos.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE MARZO DE 2021)</small>
+
+## TÍTULO SEXTO. DEL JUICIO DE LO CONTENCIOSO ADMINISTRATIVO EN LA VÍA SUMARIA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE MARZO DE 2021)</small>
+
+### CAPÍTULO ÚNICO. DEL JUICIO DE LO CONTENCIOSO ADMINISTRATIVO EN LA VÍA SUMARIA
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 104.
+
+El juicio contencioso administrativo se sustanciará y resolverá en la vía sumaria a solicitud del actor o de oficio, de conformidad con las disposiciones del presente capítulo y, en lo no previsto, se aplicarán las disposiciones del juicio contencioso administrativo ordinario.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 105.
+
+Procede la vía sumaria, cuando se trate de juicios y recursos de carácter administrativo y fiscal, relativos a determinaciones emitidas por las autoridades municipales y sus organismos descentralizados, cuyo importe no exceda de 500 veces el valor diario de la Unidad de Medida y Actualización vigente al momento de su emisión, o en el trámite de la negativa ficta.
+
+Para determinar la cuantía a que alude el párrafo anterior, sólo se considerará el crédito principal sin accesorios ni actualizaciones, siendo improcedente la acumulación de los montos para efectos de determinar la procedencia de esta vía.
+
+Un mismo asunto no podrá iniciarse en ambas vías. Cuando en una misma demanda se impugnen una o más resoluciones que contengan más de una determinación de créditos, no se acumulará el monto de cada uno de ellos para determinar la procedencia de la vía.
+
+A fin de evitar sentencias contradictorias, cuando se impugnen una o más resoluciones que contengan más de una determinación de créditos, o cuando uno de los créditos recurridos supere la cuantía inicialmente citada en el presente artículo, la vía procedente será la ordinaria.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 106.
+
+La demanda deberá presentarse por escrito dirigido al Tribunal, dentro de los quince días siguientes a aquél en que surta efectos la notificación del acto o resolución impugnada o del día siguiente al que se hubiera tenido conocimiento o se hubiere ostentado sabedor del mismo o de su ejecución.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 107.
+
+Recibida la demanda será turnada al Magistrado Instructor para su admisión o desechamiento, que será resuelto dentro de los tres días hábiles siguientes y notificado en el mismo plazo.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 108.
+
+La tramitación del juicio en la vía sumaria será improcedente cuando:
+
+I. No se actualice alguno de los supuestos previstos en el artículo 105 de esta Ley;
+
+II. Se trate de sanciones económicas en materia de responsabilidades administrativas de los servidores públicos o sanciones por faltas de particulares relacionados con las mismas, o de sanciones impuestas en términos de la Ley de Fiscalización para el Estado de Sonora, y
+
+III. Se trate de resoluciones que además de imponer una multa o sanción pecuniaria, incluyan alguna otra carga u obligación.
+
+En dichos casos, en el primer acuerdo que dicte el Magistrado Instructor, determinará la improcedencia de la vía sumaria y ordenará que el juicio se siga conforme a las disposiciones del juicio en la vía ordinaria.
+
+En contra de la determinación de improcedencia de la vía sumaria, podrá interponerse el recurso de revisión previsto en el Capítulo Primero del Título Cuarto de la presente ley.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 109.
+
+Una vez admitida la demanda, se correrá traslado al demandado para que la conteste dentro del término de diez días y emplazará, en su caso, al tercero interesado, para que, en igual término, se apersone en el juicio.
+
+En el mismo auto en que se admita la demanda, y sólo en los casos en que existan pruebas periciales o testimoniales que desahogar, se fijará día y hora para la audiencia de desahogo de dichas pruebas y alegatos. Dicha fecha no excederá de los veinte días siguientes al de emisión del aludido auto.
+
+En caso de omisión de los documentos a que se refieren los artículos 50 y 56 de la presente Ley, las partes deberán subsanarlas en el plazo de tres días siguientes a aquél en que surta efectos la notificación del requerimiento formulado por el Magistrado Instructor.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 110.
+
+El Magistrado proveerá la correcta integración del juicio, mediante el desahogo oportuno de las pruebas, a más tardar en la fecha prevista para la celebración de la audiencia, en los casos que ésta haya sido procedente.
+
+Tratándose de la testimonial y la prueba pericial, éstas se desahogarán, en lo conducente, en los términos que prevén los artículos 78 fracciones III y V y 80 de esta Ley, con la salvedad de que todos los plazos serán de tres días, incluyendo el que corresponde a la rendición y ratificación del dictamen, en el entendido de que deberán hacerlo en un solo acto ante el Magistrado Instructor.
+
+La prueba testimonial sólo será admitida cuando el oferente se comprometa a presentar a sus testigos en el día y hora señalados para su desahogo.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 111.
+
+El actor podrá ampliar la demanda, en los casos a que se refiere el artículo 48 de esta Ley, en un plazo de tres días siguientes a aquél en que surta efectos la notificación del auto que tenga por presentada la contestación.
+
+La autoridad demandada, o en su caso el tercero interesado, contestarán la ampliación a la demanda, en el plazo de tres días siguientes al en que surta efectos la notificación de su traslado.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 112.
+
+El incidente de acumulación sólo podrá plantearse respecto de expedientes que se encuentren tramitándose en esta misma vía y con las características de los juicios previstas en este capítulo.
+
+El plazo para interponer el incidente será de tres días, y la contraparte deberá contestar la vista en igual término.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 113.
+
+Los incidentes de nulidad de notificaciones y de recusación por causa de impedimento, previstos en las fracciones II y III del artículo 71 de esta Ley, podrán promoverse dentro de los tres días siguientes a aquél en que se tuvo conocimiento del hecho, y la contraparte deberá contestar la vista en igual término.
+
+Transcurrido el término de la vista concedida, el Magistrado Instructor deberá dictar la resolución correspondiente en el término de tres días.
+
+En contra de dicha resolución podrá interponerse el recurso de revisión previsto en el Capítulo Primero del Título Cuarto de la presente ley.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 114.
+
+En los casos de suspensión del juicio, por surtirse alguno de los supuestos contemplados para ello en esta Ley, en el auto en que el Magistrado Instructor acuerde la reanudación del procedimiento, fijará fecha para la celebración de la audiencia, en su caso, dentro de los cinco días siguientes a aquél en que haya surtido efectos la notificación a las partes de la reanudación del juicio.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 115.
+
+La suspensión del acto o resolución impugnada, podrá ser decretada por el Magistrado Instructor conforme a lo previsto en el capítulo VII, del título Segundo de esta ley.
+
+En contra de la determinación que adopte el Magistrado Instructor, respecto de la suspensión del acto o resolución impugnada, procederá el recurso de revisión previsto en el Capítulo Primero del Título Cuarto de la presente ley.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 116.
+
+El Magistrado Instructor proveerá la correcta integración del juicio, mediante el desahogo oportuno de las pruebas, a más tardar en la fecha prevista para la celebración de la audiencia, en los casos que ésta haya sido procedente, o al decretar el cierre de la instrucción.
+
+Si advierte que el expediente no se encuentra debidamente integrado, fijará nueva fecha para la celebración de la audiencia, o procederá a dictar el referido auto, dentro de un plazo máximo de diez días.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 117.
+
+Las partes podrán presentar sus alegatos por escrito antes del dictado del auto que declare cerrada la instrucción, y en los casos en que se haya fijado fecha de audiencia, a más tardar al momento de la celebración de ésta.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 118.
+
+Una vez cerrada la instrucción o celebrada la audiencia, o no habiendo más pruebas que desahogar, se pronunciará sentencia dentro de los cinco días hábiles siguientes.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 119.
+
+En contra de las sentencias que se dicten en juicios seguidos en la vía sumaria, no procederá recurso ordinario alguno.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 120.
+
+Si la sentencia ordena la reposición del procedimiento administrativo o realizar un determinado acto, la autoridad deberá cumplirla en un plazo que no exceda de quince días contados a partir de que dicha sentencia haya quedado firme.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+###### ARTÍCULO 121.
+
+A falta de disposición expresa que establezca el plazo respectivo en la vía sumaria, se aplicará el de tres días.
 
 ## TRANSITORIOS
 
@@ -1476,3 +1688,11 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año. Asimismo, la Secretaría de Hacienda deberá los lineamientos necesarios para implementar las disposiciones señaladas en el presente artículo.
+
+B.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 182, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor a los 180 días siguiente (sic) de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
