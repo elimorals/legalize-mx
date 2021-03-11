@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-establece-las-bases-para-el-otorgamiento-de-premios-389
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-27"
-last_updated: "2019-08-29"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2021.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 27 de diciembre de 2003.
 
@@ -115,7 +115,9 @@ V. Secretaría de Medio Ambiente y Desarrollo Territorial;
 
 VI. Congreso del Estado de Jalisco, a través de la presidencia de la Comisión Legislativa de Educación, Cultura y Deporte;
 
-VII. Universidad de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+VII. Benemérita Universidad de Guadalajara;
 
 VIII. Consejo Estatal para el Fomento Deportivo y Apoyo a la Juventud;
 
@@ -173,9 +175,11 @@ I. Premio Jalisco; y
 
 II. Premio Estatal a la Juventud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 17.
 
-El Premio Jalisco se otorgará a quien se haya distinguido, en grado sobresaliente en el ámbito urbano, rural e indígena en cualesquiera de los siguientes ámbitos:
+El Premio Jalisco se otorgará a quien se haya distinguido, en grado sobresaliente en el ámbito urbano, rural, indígena, comunidades afromexicanas, cualquiera que sea su autodenominación, en cualesquiera de los siguientes ámbitos:
 
 I. Humanístico: a quien haya realizado investigaciones, estudios o aportaciones dignas de reconocimiento en las áreas sociales o humanísticas;
 
@@ -492,3 +496,15 @@ P.O. 29 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27317/LXII/19 QUE REFORMA LOS ARTÍCULOS 9 FRACCIONES IV Y DEROGA LA XI, 20 FRACCIÓN I Y 21, TODOS DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO".]
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente día (sic) de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28306/LXII/21 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 9, FRACCIÓN VII DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO”.]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en (sic) periódico oficial “El Estado de Jalisco”.
+
+P.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28307/LXII/21 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 17, DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
