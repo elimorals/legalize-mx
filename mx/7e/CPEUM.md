@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2021-02-19"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2021.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -3274,11 +3274,11 @@ El ejercicio de estas atribuciones se realizará de conformidad con la Ley del C
 
 DEL PODER JUDICIAL.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MARZO DE 2021)</small>
 
 ###### Art. 94.
 
-Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en un Tribunal Electoral, en Tribunales Colegiados y Unitarios de Circuito y en Juzgados de Distrito.
+Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en un Tribunal Electoral, en Plenos Regionales, en Tribunales Colegiados de Circuito, en Tribunales Colegiados de Apelación y en Juzgados de Distrito.
 
 > <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 1999)</small>
 
@@ -3292,33 +3292,37 @@ La Suprema Corte de Justicia de la Nación se compondrá de once integrantes, Mi
 
 En los términos que la ley disponga las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos en que así lo exijan la moral o el interés público.
 
-> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
 
-La competencia de la Suprema Corte, su funcionamiento en Pleno y Salas, la competencia de los Tribunales de Circuito, de los Juzgados de Distrito y del Tribunal Electoral, así como las responsabilidades en que incurran los servidores públicos del Poder Judicial de la Federación, se regirán por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.
+La competencia de la Suprema Corte, su funcionamiento en Pleno y Salas, la competencia de los Plenos Regionales, de los Tribunales de Circuito, de los Juzgados de Distrito y del Tribunal Electoral, así como las responsabilidades en que incurran las servidoras y los servidores públicos del Poder Judicial de la Federación, se regirán por lo que dispongan las leyes y los acuerdos generales correspondientes, de conformidad con las bases que esta Constitución establece.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
 
-El Consejo de la Judicatura Federal determinará el número, división en circuitos, competencia territorial y especialización por materias, entre las que se incluirá la de radiodifusión, telecomunicaciones y competencia económica, de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+El Consejo de la Judicatura Federal determinará el número, división en circuitos, competencia territorial y especialización por materias, entre las que se incluirá la de radiodifusión, telecomunicaciones y competencia económica, de los Tribunales Colegiados de Circuito, de los Tribunales Colegiados de Apelación y de los Juzgados de Distrito.
 
-> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
 
-Asimismo, mediante acuerdos generales establecerá Plenos de Circuito, atendiendo al número y especialización de los Tribunales Colegiados que pertenezcan a cada Circuito. Las leyes determinarán su integración y funcionamiento.
+Asimismo, mediante acuerdos generales establecerán Plenos Regionales, los cuales ejercerán jurisdicción sobre los circuitos que los propios acuerdos determinen. Las leyes establecerán su integración y funcionamiento.
 
 > <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2019)</small>
 
 La ley establecerá la forma y procedimientos mediante concursos abiertos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género.
 
-> <small>(REFORMADO. D.O.F. 6 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
 
-El Pleno de la Suprema Corte de Justicia estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución entre las Salas de los asuntos que competa conocer a la Corte, así como remitir a los Tribunales Colegiados de Circuito, para mayor prontitud en el despacho de los asuntos, aquéllos en los que hubiera establecido jurisprudencia o los que, conforme a los referidos acuerdos, la propia Corte determine para una mejor impartición de justicia. Dichos acuerdos surtirán efectos después de publicados.
+El Pleno de la Suprema Corte de Justicia estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución entre las Salas de los asuntos que competa conocer a la Corte, así como remitir asuntos a los Plenos Regionales y a los Tribunales Colegiados de Circuito, para mayor prontitud en el despacho de los mismos. Dichos acuerdos surtirán efectos después de publicados.
 
 > <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 Los juicios de amparo, las controversias constitucionales y las acciones de inconstitucionalidad se substanciarán y resolverán de manera prioritaria cuando alguna de las Cámaras del Congreso, a través de su presidente, o el Ejecutivo Federal, por conducto del consejero jurídico del gobierno, justifique la urgencia atendiendo al interés social o al orden público, en los términos de lo dispuesto por las leyes reglamentarias.
 
-> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
 
-La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los Tribunales del Poder Judicial de la Federación y los Plenos de Circuito sobre la interpretación de la Constitución y normas generales, así como los requisitos para su interrupción y sustitución.
+La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los Tribunales del Poder Judicial de la Federación sobre la interpretación de la Constitución y normas generales, así como los requisitos para su interrupción.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MARZO DE 2021)</small>
+
+Las razones que justifiquen las decisiones contenidas en las sentencias dictadas por el Pleno de la Suprema Corte de Justicia de la Nación por mayoría de ocho votos, y por las Salas, por mayoría de cuatro votos, serán obligatorias para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas.
 
 > <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
@@ -3370,25 +3374,41 @@ Para nombrar a los Ministros de la Suprema Corte de Justicia, el Presidente de l
 
 En caso de que la Cámara de Senadores rechace la totalidad de la terna propuesta, el Presidente de la República someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuera rechazada, ocupará el cargo la persona que dentro de dicha terna, designe el Presidente de la República.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MARZO DE 2021)</small>
 
 ###### Art. 97.
 
-Los Magistrados de Circuito y los Jueces de Distrito serán nombrados y adscritos por el Consejo de la Judicatura Federal, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que establezca la ley. Durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados o promovidos a cargos superiores, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
+Las Magistradas y los Magistrados de Circuito, así como las Juezas y los Jueces de Distrito serán nombrados y adscritos por el Consejo de la Judicatura Federal, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que establezcan las disposiciones aplicables. Durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MARZO DE 2021)</small>
+
+El ingreso, formación y permanencia de las Magistradas y los Magistrados de Circuito, las Juezas y los Jueces de Distrito, y demás personal de la carrera judicial del Poder Judicial de la Federación, se sujetarán a la regulación establecida en las disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
 La Suprema Corte de Justicia de la Nación podrá solicitar al Consejo de la Judicatura Federal que averigüe la conducta de algún juez o magistrado federal.
 
-La Suprema Corte de Justicia nombrará y removerá a su secretario y demás funcionarios y empleados. Los Magistrados y jueces nombrarán y removerán a los respectivos funcionarios y empleados de los Tribunales de Circuito y de los Juzgados de Distrito, conforme a lo que establezca la ley respecto de la carrera judicial.
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
+
+La Suprema Corte de Justicia nombrará y removerá a sus secretarios, secretarias y demás funcionarios y empleados. El nombramiento y remoción de las funcionarias, los funcionarios y empleados de los Tribunales de Circuito y de los Juzgados de Distrito, se realizará conforme a lo que establezcan las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 Cada cuatro años, el Pleno elegirá de entre sus miembros al Presidente de la Suprema Corte de Justicia de la Nación, el cual no podrá ser reelecto para el período inmediato posterior.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
 Cada Ministro de la Suprema Corte de Justicia, al entrar a ejercer su encargo, protestará ante el Senado, en la siguiente forma:
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 Presidente: “¿Protestáis desempeñar leal y patrióticamente el cargo de Ministro de la Suprema Corte de Justicia de la Nación que se os ha conferido y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Unión?”
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
 Ministro: “Sí protesto”
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 Presidente: “Si no lo hiciereis así, la Nación os lo demande”.
 
@@ -3460,7 +3480,9 @@ Las salas del Tribunal Electoral harán uso de los medios de apremio necesarios 
 
 Sin perjuicio de lo dispuesto por el artículo 105 de esta Constitución, las salas del Tribunal Electoral podrán resolver la no aplicación de leyes sobre la materia electoral contrarias a la presente Constitución. Las resoluciones que se dicten en el ejercicio de esta facultad se limitarán al caso concreto sobre el que verse el juicio. En tales casos la Sala Superior informará a la Suprema Corte de Justicia de la Nación.
 
-Cuando una sala del Tribunal Electoral sustente una tesis sobre la inconstitucionalidad de algún acto o resolución o sobre la interpretación de un precepto de esta Constitución, y dicha tesis pueda ser contradictoria con una sostenida por las salas o el Pleno de la Suprema Corte de Justicia, cualquiera de los Ministros, las salas o las partes, podrán denunciar la contradicción en los términos que señale la ley, para que el pleno de la Suprema Corte de Justicia de la Nación decida en definitiva cuál tesis debe prevalecer. Las resoluciones que se dicten en este supuesto no afectarán los asuntos ya resueltos.
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
+
+Cuando una sala del Tribunal Electoral sustente un criterio sobre la inconstitucionalidad de algún acto o resolución o sobre la interpretación de un precepto de esta Constitución, y dicho criterio pueda ser contradictorio con uno sostenido por las salas o el Pleno de la Suprema Corte de Justicia, cualquiera de las Ministras y Ministros, las salas o las partes, podrán denunciar la contradicción en los términos que señale la ley, para que el Pleno de la Suprema Corte de Justicia de la Nación decida en definitiva cuál criterio debe prevalecer. Las resoluciones que se dicten en este supuesto no afectarán los asuntos ya resueltos.
 
 La organización del Tribunal, la competencia de las salas, los procedimientos para la resolución de los asuntos de su competencia, así como los mecanismos para fijar criterios de jurisprudencia obligatorios en la materia, serán los que determinen esta Constitución y las leyes.
 
@@ -3476,7 +3498,9 @@ Los Magistrados Electorales que integren las salas regionales deberán satisface
 
 En caso de vacante definitiva se nombrará a un nuevo Magistrado por el tiempo restante al del nombramiento original.
 
-El personal del Tribunal regirá sus relaciones de trabajo conforme a las disposiciones aplicables al Poder Judicial de la Federación y a las reglas especiales y excepciones que señale la ley.
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
+
+El personal del Tribunal regirá sus relaciones de trabajo conforme a las disposiciones aplicables al Poder Judicial de la Federación y a las reglas especiales y excepciones que señale la ley. El ingreso, formación, permanencia y demás aspectos inherentes a las servidoras y los servidores públicos que pertenezcan al servicio de carrera judicial se sujetarán a la regulación establecida en las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE JUNIO DE 1999)</small>
 
@@ -3504,17 +3528,29 @@ Salvo el Presidente del Consejo, los demás Consejeros durarán cinco años en s
 
 Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Cuarto de esta Constitución.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
 
-La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+La ley establecerá las bases para la formación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género. El Consejo de la Judicatura Federal contará con una Escuela Federal de Formación Judicial encargada de implementar los procesos de formación, capacitación y actualización del personal jurisdiccional y administrativo del Poder Judicial de la Federación y sus órganos auxiliares, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MARZO DE 2021)</small>
+
+El servicio de defensoría pública en asuntos del fuero federal será proporcionado por el Consejo de la Judicatura Federal a través del Instituto Federal de Defensoría Pública, en los términos que establezcan las disposiciones aplicables. La Escuela Federal de Formación Judicial será la encargada de capacitar a las y los defensores públicos, así como de llevar a cabo los concursos de oposición.
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1999)</small>
 
 De conformidad con lo que establezca la ley, el Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. La Suprema Corte de Justicia podrá solicitar al Consejo la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional federal. El Pleno de la Corte también podrá revisar y, en su caso, revocar los que el Consejo apruebe, por mayoría de cuando menos ocho votos. La ley establecerá los términos y procedimientos para el ejercicio de estas atribuciones.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
 
-Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno, en contra de las mismas, salvo las que se refieran a la designación, adscripción, ratificación y remoción de magistrados y jueces, las cuales podrán ser revisadas por la Suprema Corte de Justicia, únicamente para verificar que hayan sido adoptadas conforme a las reglas que establezca la ley orgánica respectiva.
+Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno, en contra de las mismas, salvo las que se refieran a la adscripción, ratificación y remoción de Magistradas, Magistrados, Juezas y Jueces las cuales podrán ser revisadas por la Suprema Corte de Justicia, únicamente para verificar que hayan sido adoptadas conforme a las reglas que establezca esta Constitución y la ley.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MARZO DE 2021)</small>
+
+En contra de la designación de Magistradas, Magistrados, Juezas y Jueces, no procede recurso alguno, pero los resultados de los concursos de oposición podrán ser impugnados ante el Pleno del Consejo de la Judicatura Federal.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MARZO DE 2021)</small>
+
+El Consejo de la Judicatura Federal podrá concentrar en uno o más órganos jurisdiccionales para que conozcan de los asuntos vinculados con hechos que constituyan violaciones graves de derechos humanos. La decisión sobre la idoneidad de la concentración deberá tomarse en función del interés social y el orden público, lo que constituirá una excepción a las reglas de turno y competencia.
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1999)</small>
 
@@ -3684,9 +3720,9 @@ VIII. De los casos concernientes a miembros del Cuerpo Diplomático y Consular.
 
 La Suprema Corte de Justicia de la Nación conocerá, en los términos que señale la ley reglamentaria, de los asuntos siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE MARZO DE 2021)</small>
 
-I.- De las controversias constitucionales que, con excepción de las que se refieran a la materia electoral, se susciten entre:
+I.- De las controversias constitucionales que, sobre la constitucionalidad de las normas generales, actos u omisiones, con excepción de las que se refieran a la materia electoral, se susciten entre:
 
 > <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
@@ -3708,27 +3744,35 @@ f).- (DEROGADO, D.O.F. 29 DE ENERO DE 2016)
 
 g).- Dos municipios de diversos Estados;
 
-> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
 
-h).- Dos Poderes de una misma entidad federativa, sobre la constitucionalidad de sus actos o disposiciones generales;
+h).- Dos Poderes de una misma entidad federativa;
 
-i).- Un Estado y uno de sus municipios, sobre la constitucionalidad de sus actos o disposiciones generales;
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+i).- Un Estado y uno de sus Municipios;
 
-j).- Una entidad federativa y un Municipio de otra o una demarcación territorial de la Ciudad de México, sobre la constitucionalidad de sus actos o disposiciones generales, y
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
 
-k).- (DEROGADO, D.O.F. 29 DE ENERO DE 2016)
+j).- Una Entidad Federativa y un Municipio de otra o una demarcación territorial de la Ciudad de México;
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE MARZO DE 2021)</small>
 
-l).- Dos órganos constitucionales autónomos, y entre uno de éstos y el Poder Ejecutivo de la Unión o el Congreso de la Unión sobre la constitucionalidad de sus actos o disposiciones generales. Lo dispuesto en el presente inciso será aplicable al organismo garante que establece el artículo 6o. de esta Constitución.
+k).- Dos órganos constitucionales autónomos de una entidad federativa, y entre uno de éstos y el Poder Ejecutivo o el Poder Legislativo de esa entidad federativa, y
 
-> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
 
-Siempre que las controversias versen sobre disposiciones generales de las entidades federativas, de los Municipios o de las demarcaciones territoriales de la Ciudad de México impugnadas por la Federación; de los Municipios o de las demarcaciones territoriales de la Ciudad de México impugnadas por las entidades federativas, o en los casos a que se refieren los incisos c) y h) anteriores, y la resolución de la Suprema Corte de Justicia de la Nación las declare inválidas, dicha resolución tendrá efectos generales cuando hubiere sido aprobada por una mayoría de por lo menos ocho votos.
+l).- Dos órganos constitucionales autónomos federales, y entre uno de éstos y el Poder Ejecutivo de la Unión o el Congreso de la Unión.
+
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
+
+Siempre que las controversias versen sobre disposiciones generales de las entidades federativas, de los Municipios o de las demarcaciones territoriales de la Ciudad de México impugnadas por la Federación; de los Municipios o de las demarcaciones territoriales de la Ciudad de México impugnadas por las entidades federativas, o en los casos a que se refieren los incisos c), h), k) y l) anteriores, y la resolución de la Suprema Corte de Justicia de la Nación las declare inválidas, dicha resolución tendrá efectos generales cuando hubiere sido aprobada por una mayoría de por lo menos ocho votos.
 
 En los demás casos, las resoluciones de la Suprema Corte de Justicia tendrán efectos únicamente respecto de las partes en la controversia.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MARZO DE 2021)</small>
+
+En las controversias previstas en esta fracción únicamente podrán hacerse valer violaciones a esta Constitución, así como a los derechos humanos reconocidos en los tratados internacionales de los que el Estado Mexicano sea parte.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
@@ -3780,9 +3824,9 @@ Las leyes electorales federal y locales deberán promulgarse y publicarse por lo
 
 Las resoluciones de la Suprema Corte de Justicia sólo podrán declarar la invalidez de las normas impugnadas, siempre que fueren aprobadas por una mayoría de cuando menos ocho votos.
 
-> <small>(REFORMADA D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE MARZO DE 2021)</small>
 
-III.- De oficio o a petición fundada del correspondiente Tribunal Unitario de Circuito o del Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, así como del Fiscal General de la República en los asuntos en que intervenga el Ministerio Público, podrá conocer de los recursos de apelación en contra de sentencias de Jueces de Distrito dictadas en aquellos procesos en que la Federación sea parte y que por su interés y trascendencia así lo ameriten.
+III.- De oficio o a petición fundada del correspondiente Tribunal Colegiado de Apelación o del Ejecutivo Federal, por conducto de la Consejera o Consejero Jurídico del Gobierno, así como de la o el Fiscal General de la República en los asuntos en que intervenga el Ministerio Público, podrá conocer de los recursos de apelación en contra de sentencias de los Juzgados de Distrito dictadas en aquellos procesos en que la Federación sea parte y que por su interés y trascendencia así lo ameriten.
 
 La declaración de invalidez de las resoluciones a que se refieren las fracciones I y II de este artículo no tendrá efectos retroactivos, salvo en materia penal, en la que regirán los principios generales y disposiciones legales aplicables de esta materia.
 
@@ -3810,9 +3854,13 @@ Tratándose de actos o resoluciones provenientes de tribunales judiciales, admin
 
 II.- Las sentencias que se pronuncien en los juicios de amparo sólo se ocuparán de los quejosos que lo hubieren solicitado, limitándose a ampararlos y protegerlos, si procediere, en el caso especial sobre el que verse la demanda.
 
-Cuando en los juicios de amparo indirecto en revisión se resuelva la inconstitucionalidad de una norma general por segunda ocasión consecutiva, la Suprema Corte de Justicia de la Nación lo informará a la autoridad emisora correspondiente.
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
 
-Cuando los órganos del Poder Judicial de la Federación establezcan jurisprudencia por reiteración en la cual se determine la inconstitucionalidad de una norma general, la Suprema Corte de Justicia de la Nación lo notificará a la autoridad emisora. Transcurrido el plazo de 90 días naturales sin que se supere el problema de inconstitucionalidad, la Suprema Corte de Justicia de la Nación emitirá, siempre que fuere aprobada por una mayoría de cuando menos ocho votos, la declaratoria general de inconstitucionalidad, en la cual se fijarán sus alcances y condiciones en los términos de la ley reglamentaria.
+Cuando en los juicios de amparo indirecto en revisión se resuelva la inconstitucionalidad de una norma general, la Suprema Corte de Justicia de la Nación lo informará a la autoridad emisora correspondiente.
+
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
+
+Cuando los Tribunales Colegiados de Circuito establezcan jurisprudencia por reiteración, o la Suprema Corte de Justicia de la Nación por precedentes, en la cual se determine la inconstitucionalidad de una norma general, su Presidente lo notificará a la autoridad emisora. Transcurrido el plazo de 90 días naturales sin que se supere el problema de inconstitucionalidad, la Suprema Corte de Justicia de la Nación emitirá, siempre que fuere aprobada por una mayoría de cuando menos ocho votos, la declaratoria general de inconstitucionalidad, en la cual se fijarán sus alcances y condiciones en los términos de la ley reglamentaria.
 
 Lo dispuesto en los dos párrafos anteriores no será aplicable a normas generales en materia tributaria.
 
@@ -3880,9 +3928,9 @@ VI.- En los casos a que se refiere la fracción anterior, la ley reglamentaria s
 
 VII.- El amparo contra actos u omisiones en juicio, fuera de juicio o después de concluido, o que afecten a personas extrañas al juicio, contra normas generales o contra actos u omisiones de autoridad administrativa, se interpondrá ante el Juez de Distrito bajo cuya jurisdicción se encuentre el lugar en que el acto reclamado se ejecute o trate de ejecutarse, y su tramitación se limitará al informe de la autoridad, a una audiencia para la que se citará en el mismo auto en el que se mande pedir el informe y se recibirán las pruebas que las partes interesadas ofrezcan y oirán los alegatos, pronunciándose en la misma audiencia la sentencia;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE MARZO DE 2021)</small>
 
-VIII.- Contra las sentencias que pronuncien en amparo los Jueces de Distrito o los Tribunales Unitarios de Circuito procede revisión. De ella conocerá la Suprema Corte de Justicia:
+VIII.- Contra las sentencias que pronuncien en amparo las Juezas y los Jueces de Distrito o los Tribunales Colegiados de Apelación procede revisión. De ella conocerá la Suprema Corte de Justicia:
 
 > <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -3900,9 +3948,9 @@ La Suprema Corte de Justicia, de oficio o a petición fundada del correspondient
 
 En los casos no previstos en los párrafos anteriores, conocerán de la revisión los tribunales colegiados de circuito y sus sentencias no admitirán recurso alguno.
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2021)</small>
 
-IX.- En materia de amparo directo procede el recurso de revisión en contra de las sentencias que resuelvan sobre la constitucionalidad de normas generales, establezcan la interpretación directa de un precepto de esta Constitución u omitan decidir sobre tales cuestiones cuando hubieren sido planteadas, siempre que fijen un criterio de importancia y trascendencia, según lo disponga la Suprema Corte de Justicia de la Nación, en cumplimiento de los acuerdos generales del Pleno. La materia del recurso se limitará a la decisión de las cuestiones propiamente constitucionales, sin poder comprender otras;
+IX.- En materia de amparo directo procede el recurso de revisión en contra de las sentencias que resuelvan sobre la constitucionalidad de normas generales, establezcan la interpretación directa de un precepto de esta Constitución u omitan decidir sobre tales cuestiones cuando hubieren sido planteadas, siempre que a juicio de la Suprema Corte de Justicia de la Nación el asunto revista un interés excepcional en materia constitucional o de derechos humanos. La materia del recurso se limitará a la decisión de las cuestiones propiamente constitucionales, sin poder comprender otras. En contra del auto que deseche el recurso no procederá medio de impugnación alguno;
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -3910,31 +3958,25 @@ X.- Los actos reclamados podrán ser objeto de suspensión en los casos y median
 
 Dicha suspensión deberá otorgarse respecto de las sentencias definitivas en materia penal al comunicarse la promoción del amparo, y en las materias civil, mercantil y administrativa, mediante garantía que dé el quejoso para responder de los daños y perjuicios que tal suspensión pudiere ocasionar al tercero interesado. La suspensión quedará sin efecto si éste último da contragarantía para asegurar la reposición de las cosas al estado que guardaban si se concediese el amparo y a pagar los daños y perjuicios consiguientes;
 
-> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2021)</small>
 
-XI.- La demanda de amparo directo se presentará ante la autoridad responsable, la cual decidirá sobre la suspensión. En los demás casos la demanda se presentará ante los Juzgados de Distrito o los Tribunales Unitarios de Circuito los cuales resolverán sobre la suspensión, o ante los tribunales de las entidades federativas en los casos que la ley lo autorice;
+XI.- La demanda de amparo directo se presentará ante la autoridad responsable, la cual decidirá sobre la suspensión. En los demás casos, la demanda se presentará ante los Juzgados de Distrito o los Tribunales Colegiados de Apelación los cuales resolverán sobre la suspensión, o ante los tribunales de las entidades federativas en los casos que la ley lo autorice;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2021)</small>
 
-XII.- La violación de las garantías de los artículos 16, en materia penal, 19 y 20 se reclamará ante el superior del tribunal que la cometa, o ante el Juez de Distrito o Tribunal Unitario de Circuito que corresponda, pudiéndose recurrir, en uno y otro caso, las resoluciones que se pronuncien, en los términos prescritos por la fracción VIII.
+XII.- La violación de las garantías de los artículos 16, en materia penal, 19 y 20 se reclamará ante el superior del tribunal que la cometa, o ante el Juzgado de Distrito o Tribunal Colegiado de Apelación que corresponda, pudiéndose recurrir, en uno y otro caso, las resoluciones que se pronuncien, en los términos prescritos por la fracción VIII.
 
-Si el Juez de Distrito o el Tribunal Unitario de Circuito no residieren en el mismo lugar en que reside la autoridad responsable, la ley determinará el juez o tribunal ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca.
+Si el Juzgado de Distrito o el Tribunal Colegiado de Apelación no residieren en el mismo lugar en que reside la autoridad responsable, la ley determinará el juzgado o tribunal ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2021)</small>
 
-XIII.- Cuando los Tribunales Colegiados de un mismo Circuito sustenten tesis contradictorias en los juicios de amparo de su competencia, el Fiscal General de la República, en asuntos en materia penal y procesal penal, así como los relacionados con el ámbito de sus funciones, los mencionados tribunales y sus integrantes, los Jueces de Distrito, las partes en los asuntos que los motivaron o el Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, podrán denunciar la contradicción ante el Pleno del Circuito correspondiente, a fin de que decida la tesis que debe prevalecer como jurisprudencia.
+XIII.- Cuando los Tribunales Colegiados de Circuito de la misma región sustenten criterios contradictorios en los juicios de amparo de su competencia, el o la Fiscal General de la República, en asuntos en materia penal y procesal penal, así como los relacionados con el ámbito de sus funciones, los mencionados tribunales y sus integrantes, las y los Jueces de Distrito, las partes en los asuntos que los motivaron o el Ejecutivo Federal, por conducto de la o el Consejero Jurídico del Gobierno podrán denunciar la contradicción ante el Pleno Regional correspondiente, a fin de que decida el criterio que debe prevalecer como precedente.
 
-> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
+Cuando los Plenos Regionales sustenten criterios contradictorios al resolver las contradicciones o los asuntos de su competencia, según corresponda, las Ministras y los Ministros de la Suprema Corte de Justicia de la Nación, los mismos Plenos Regionales, así como los órganos a que se refiere el párrafo anterior podrán denunciar la contradicción ante la Suprema Corte de Justicia, con el objeto de que el Pleno o la Sala respectiva decida el criterio que deberá prevalecer.
 
-Cuando los Plenos de Circuito de distintos Circuitos, los Plenos de Circuito en materia especializada de un mismo Circuito o los Tribunales Colegiados de un mismo Circuito con diferente especialización sustenten tesis contradictorias al resolver las contradicciones o los asuntos de su competencia, según corresponda, los Ministros de la Suprema Corte de Justicia de la Nación, los mismos Plenos de Circuito, así como los órganos a que se refiere el párrafo anterior, podrán denunciar la contradicción ante la Suprema Corte de Justicia, con el objeto de que el Pleno o la Sala respectiva, decida la tesis que deberá prevalecer.
+Cuando las Salas de la Suprema Corte de Justicia de la Nación sustenten criterios contradictorios en los juicios de amparo cuyo conocimiento les competa, los ministros, los Tribunales Colegiados de Circuito y sus integrantes, las y los Jueces de Distrito, el o la Fiscal General de la República, en asuntos en materia penal y procesal penal, así como los relacionados con el ámbito de sus funciones, el Ejecutivo Federal, por conducto de la o el Consejero Jurídico del Gobierno, o las partes en los asuntos que las motivaron podrán denunciar la contradicción ante el Pleno de la Suprema Corte, conforme a la ley reglamentaria, para que éste resuelva la contradicción.
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
-
-Cuando las Salas de la Suprema Corte de Justicia de la Nación sustenten tesis contradictorias en los juicios de amparo cuyo conocimiento les competa, los ministros, los Tribunales Colegiados de Circuito y sus integrantes, los Jueces de Distrito, el Fiscal General de la República, en asuntos en materia penal y procesal penal, así como los relacionados con el ámbito de sus funciones, el Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, o las partes en los asuntos que las motivaron, podrán denunciar la contradicción ante el Pleno de la Suprema Corte, conforme a la ley reglamentaria, para que éste resuelva la contradicción.
-
-> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
-
-Las resoluciones que pronuncien el Pleno o las Salas de la Suprema Corte de Justicia así como los Plenos de Circuito conforme a los párrafos anteriores, sólo tendrán el efecto de fijar la jurisprudencia y no afectarán las situaciones jurídicas concretas derivadas de las sentencias dictadas en los juicios en que hubiese ocurrido la contradicción;
+Las resoluciones que pronuncien el Pleno o las Salas de la Suprema Corte de Justicia así como los Plenos Regionales conforme a los párrafos anteriores, sólo tendrán el efecto de fijar la jurisprudencia y no afectarán las situaciones jurídicas concretas derivadas de las sentencias dictadas en los juicios en que hubiese ocurrido la contradicción;
 
 XIV.- (DEROGADA, D.O.F. 6 DE JUNIO DE 2011)
 
@@ -3948,7 +3990,9 @@ XVI.- Si la autoridad incumple la sentencia que concedió el amparo, pero dicho 
 
 Si concedido el amparo, se repitiera el acto reclamado, la Suprema Corte de Justicia de la Nación, de acuerdo con el procedimiento establecido por la ley reglamentaria, procederá a separar de su cargo al titular de la autoridad responsable, y dará vista al Ministerio Público Federal, salvo que no hubiera actuado dolosamente y deje sin efectos el acto repetido antes de que sea emitida la resolución de la Suprema Corte de Justicia de la Nación.
 
-El cumplimiento sustituto de las sentencias de amparo podrá ser solicitado por el quejoso al órgano jurisdiccional, o decretado de oficio por la Suprema Corte de Justicia de la Nación, cuando la ejecución de la sentencia afecte a la sociedad en mayor proporción a los beneficios que pudiera obtener el quejoso, o cuando, por las circunstancias del caso, sea imposible o desproporcionadamente gravoso restituir la situación que imperaba antes de la violación. El incidente tendrá por efecto que la ejecutoria se dé por cumplida mediante el pago de daños y perjuicios al quejoso. Las partes en el juicio podrán acordar el cumplimiento sustituto mediante convenio sancionado ante el propio órgano jurisdiccional.
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2021)</small>
+
+El cumplimiento sustituto de las sentencias de amparo podrá ser solicitado por el quejoso o decretado de oficio por el órgano jurisdiccional que hubiera emitido la sentencia de amparo, cuando la ejecución de la sentencia afecte a la sociedad en mayor proporción a los beneficios que pudiera obtener el quejoso o cuando por las circunstancias del caso, sea imposible o desproporcionadamente gravoso restituir la situación que imperaba antes de la violación. El incidente tendrá por efecto que la ejecutoria se dé por cumplida mediante el pago de daños y perjuicios al quejoso. Las partes en el juicio podrán acordar el cumplimiento sustituto mediante convenio sancionado ante el propio órgano jurisdiccional.
 
 No podrá archivarse juicio de amparo alguno, sin que se haya cumplido la sentencia que concedió la protección constitucional;
 
@@ -8701,3 +8745,25 @@ D.O.F. 19 DE FEBRERO DE 2021.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+D.O.F. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE DECLARA REFORMADAS Y ADICIONADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, RELATIVOS AL PODER JUDICIAL DE LA FEDERACIÓN".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
+
+Segundo. El Congreso de la Unión, dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, deberá aprobar la legislación secundaria derivada del mismo.
+
+Tercero. A partir de la entrada en vigor de la legislación secundaria todas las menciones a los Tribunales Unitarios de Circuito y Plenos de Circuito previstas en las leyes, se entenderán hechas a los Tribunales Colegiados de Apelación y a los Plenos Regionales.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Quinto. En ejercicio de sus facultades regulatorias, el Consejo de la Judicatura Federal adoptará las medidas necesarias para convertir los Tribunales Unitarios de Circuito en Tribunales Colegiados de Apelación, y los Plenos de Circuito en Plenos Regionales, considerando los siguientes lineamientos:
+
+a) En cada entidad federativa habrá, al menos, un Tribunal Colegiado de Apelación.
+
+b) El establecimiento de los Plenos Regionales partirá de la agrupación de Circuitos según las cargas de trabajo y las estadísticas de asuntos planteados y resueltos.
+
+Sexto. El sistema de creación de jurisprudencia por precedentes, que se incorpora como párrafo décimo segundo al artículo 94 constitucional, entrará en vigor cuando la Suprema Corte de Justicia de la Nación emita el Acuerdo General respectivo, de conformidad con su facultad autorregulatoria prevista en dicho precepto.
+
+Séptimo. Los recursos de reclamación y los de revisión administrativa en contra de las designaciones de juezas, jueces, magistradas y magistrados, que ya se encuentren en trámite y que conforme al nuevo marco constitucional resulten improcedentes, continuarán su tramitación hasta su archivo, sin que puedan declararse sin materia.
