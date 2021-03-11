@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-y-fomento-apicola-del-estado-de-yucatan-40107
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-06"
-last_updated: "2019-07-31"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE MARZO DE 2021.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 6 de julio de 2004.
 
@@ -47,11 +47,17 @@ LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE YUCATÁN
 
 Las disposiciones contenidas en esta ley y su reglamento son de interés social, observancia general y obligatoria en todo el territorio del Estado de Yucatán.
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 2.
 
-La presente ley tiene por objeto la organización, protección, fomento, desarrollo y tecnificación de la actividad apícola del Estado; en especial en sus áreas territoriales consideradas como aptas para el crecimiento y desarrollo de la apicultura, así como el fortalecimiento de las organizaciones de productores y de los sistemas de manejo y comercialización de los insumos y productos de la colmena.
+La presente ley tiene por objeto:
+
+I.- La organización, protección, fomento, desarrollo y tecnificación de la actividad apícola del Estado; en especial en sus áreas territoriales consideradas como aptas para el crecimiento y desarrollo de la apicultura.
+
+II.- El fortalecimiento de las organizaciones de productores y de los sistemas de manejo y comercialización de los insumos y productos de la colmena.
+
+III.- La concientización en la sociedad sobre el respeto, cuidado, protección y conservación de las abejas y su medio ambiente.
 
 ###### Artículo 3.
 
@@ -65,71 +71,79 @@ II.- Quienes realicen actividades de acopio, decantación, industrialización, a
 
 III.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 4.
 
 Para efectos de la presente ley se entiende por:
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 11 DE MARZO DE 2021)</small>
 
-I.- ABEJA: Insecto himenóptero de la Familia de los Apidae, del género Apis y de la especie mellífera que produce miel y cera.
+I.- ABEJA: Insecto himenóptero de la Familia de los Apidae, del género Apis y de la especie mellífera que produce miel y cera;
 
-a) (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
+a) (REPUBLICADA SU DEROGACIÓN, D.O. 11 DE MARZO DE 2021)
 
-b) (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
+b) (REPUBLICADA SU DEROGACIÓN, D.O. 11 DE MARZO DE 2021)
 
-c) (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
+c) (REPUBLICADA SU DEROGACIÓN, D.O. 11 DE MARZO DE 2021)
 
-d) (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
+d) (REPUBLICADA SU DEROGACIÓN, D.O. 11 DE MARZO DE 2021)
 
-II.- PANAL: Es una estructura formada por celdas de cera, al interior de una oquedad natural o artificial, que sirve como depósito de alimento o aloja a las crías de las abejas.
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-III.- MIEL: Es la sustancia dulce natural producida por las abejas a partir del néctar de las flores o por otras partes vivas de las plantas, que las abejas recogen, transforman y combinan con sustancias específicas propias y almacenan en panales.
+II.- PANAL: Es una estructura formada por celdas de cera, al interior de una oquedad natural o artificial, que sirve como depósito de alimento o aloja a las crías de las abejas;
 
-a) (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 11 DE MARZO DE 2021)</small>
 
-b) (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
+III.- MIEL: Es la sustancia dulce natural producida por las abejas a partir del néctar de las flores o por otras partes vivas de las plantas, que las abejas recogen, transforman y combinan con sustancias específicas propias y almacenan en panales;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+a) (REPUBLICADA SU DEROGACIÓN, D.O. 11 DE MARZO DE 2021)
+
+b) (REPUBLICADA SU DEROGACIÓN, D.O. 11 DE MARZO DE 2021)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 11 DE MARZO DE 2021)</small>
 
 IV.- APICULTOR: Toda persona que se dedique a la cría, mejoramiento y explotación de su propiedad;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-V.- APICULTURA: Es la actividad que comprende la cría, mejoramiento y explotación racional de las abejas, en forma sedentaria y/o migratoria.
+V.- APICULTURA: Es la actividad que comprende la cría, mejoramiento y explotación racional de las abejas, en forma sedentaria y/o migratoria;
 
-VI.- APROVECHAMIENTO RACIONAL: Es la utilización de los recursos naturales de forma que resulte eficiente, socialmente útil y procure su preservación.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 11 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+VI.- MELIPONICULTURA: Actividad que se refiere la cría, manejo y explotación racional de abejas meliponas o abejas sin aguijón;
 
-VII.- COLMENA: Es el alojamiento permanente de una colonia de abejas con sus panales. Que puede ser:
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
+
+VII.- APROVECHAMIENTO RACIONAL: Es la utilización de los recursos naturales de forma que resulte eficiente, socialmente útil y procure su preservación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O. 11 DE MARZO DE 2021)</small>
+
+VIII.- COLMENA: Es el alojamiento permanente de una colonia de abejas con sus panales. Que puede ser:
 
 a) Colmena natural: Es cualquier oquedad que las abejas ocupan como morada sin la intervención del hombre.
 
 b) Colmena rústica: Es el alojamiento de las abejas construido o adaptado por el hombre con sus paneles fijos y sin tecnificación.
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
-
 c) Colmena técnica: Su característica principal reside en que los panales de las abejas están en sus bastidores o cuadros, con distancia conveniente entre los mismos, los cuales pueden ser manejados fuera de la colonia para su aprovechamiento racional. Este tipo de colmena posee medidas establecidas de acuerdo al modelo al que pertenezca.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O. 11 DE MARZO DE 2021)</small>
 
-VIII.- ENJAMBRE O COLONIA: Es el conjunto de abejas obreras, reina y zánganos y que pueden ser:
+IX.- ENJAMBRE O COLONIA: Es el conjunto de abejas obreras, reina y zánganos y que pueden ser:
 
 a) Silvestre: El que vive dentro de cualquier oquedad y sin manejo técnico.
 
 b) En tránsito: Sin alojamiento específico durante las etapas de reproducción o migración.
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
-
 c) Encolmenado: Que viven dentro de una colmena.
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-IX.- CRIADERO DE REINAS: Lugar donde se encuentran instaladas un conjunto de colmenas de tipo técnico con medidas especiales para albergar poblaciones pequeñas de abejas cuya función zootécnica es la producción de abejas reinas;
+X.- CRIADERO DE REINAS: Lugar donde se encuentran instaladas un conjunto de colmenas de tipo técnico con medidas especiales para albergar poblaciones pequeñas de abejas, cuya función zootécnica es la producción de abejas reinas;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O. 11 DE MARZO DE 2021)</small>
 
-X.- APIARIO: Conjunto de colonias encolmenadas instaladas en un lugar determinado;
+XI.- APIARIO: Conjunto de colonias encolmenadas instaladas en un lugar determinado;
 
 a) Apiario de pequeños productores: Conjunto menor a 10 colmenas que son atendidas generalmente por una familia.
 
@@ -137,37 +151,53 @@ b) Apiario de medianos productores: Conjunto de 10 a 60 colmenas y que por lo ge
 
 c) Apiario de grandes productores: Son aquellas explotaciones que poseen más de 60 colmenas y que cuentan con equipos tecnificados.
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-XI.- CENTRO DE ACOPIO. Es el establecimiento o instalación que se encarga de recolectar o acopiar los productos apícolas, principalmente miel, para ser trasladados posteriormente a una mielera o centro de servicio;
+XII.- CENTRO DE ACOPIO: Es el establecimiento o instalación que se encarga de recolectar o acopiar los productos apícolas, principalmente miel, para ser trasladados posteriormente a una mielera o centro de servicio;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O. 11 DE MARZO DE 2021)</small>
 
-XII.- CICLO APÍCOLA: Es el período que comprende las etapas de precosecha, cosecha y poscosecha apícola;
+XIII.- CICLO APÍCOLA: Es el período que comprende las etapas de precosecha, cosecha y poscosecha apícola;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-XIII.- MIELERA O CENTRO DE SERVICIO.- Es el establecimiento o instalación que se encarga de recibir del Centro de Acopio los productos apícolas, principalmente miel, para procesarlos y almacenarlos para su posterior comercialización en el mercado nacional o internacional;
+XIV.- MIELERA O CENTRO DE SERVICIO: Es el establecimiento o instalación que se encarga de recibir del Centro de Acopio los productos apicolas, principalmente miel, para procesarlos y almacenarlos para su posterior comercialización en el mercado nacional o internacional;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O. 11 DE MARZO DE 2021)</small>
 
-XIV.- FLORA MELÍFERA: Todo tipo de plantas nativas o introducidas de las cuales las abejas, extraen néctar, polen o resinas;
+XV.- FLORA MELÍFERA: Todo tipo de plantas nativas o introducidas de las cuales las abejas, extraen néctar, polen o resinas;
 
-XV.- ZONA APÍCOLA: Es aquella región o lugar que por sus condiciones naturales o botánicas, es susceptible para desarrollar la apicultura.
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+XVI.- ZONA APÍCOLA: Es aquella región o lugar que por sus condiciones naturales o botánicas, es susceptible para desarrollar la apicultura;
 
-XVI.- COMITÉ SISTEMA PRODUCTO APÍCOLA DEL ESTADO DE YUCATÁN: Es un órgano especializado que se encarga de estudiar la situación de la Apicultura Estatal para sugerir a las instancias de gobierno los mecanismos que se deban instrumentar;
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O. 11 DE MARZO DE 2021)</small>
 
-XVII.- SAGARPA: A la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+XVII.- COMITÉ SISTEMA PRODUCTO APÍCOLA DEL ESTADO DE YUCATÁN: Es un órgano especializado que se encarga de estudiar la situación de la Apicultura Estatal para sugerir a las instancias de gobierno los mecanismos que se deban instrumentar;
 
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 11 DE MARZO DE 2021)</small>
 
-XVIII.- SECRETARIA: la Secretaría de Desarrollo Rural;
+XVIII.- CEFPPY: Comité Estatal de Fomento y Protección Pecuaria del Estado de Yucatán, SCP;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 11 DE MARZO DE 2021)</small>
 
-XIX.- MIEL ORGANICA: Aquella en cuyo proceso de producción no se permite utilizar control medicamentoso profiláctico, la aplicación de agentes químicos sintéticos, el uso de organismos genéticamente modificados, además de que se requiere el reconocimiento de una entidad acreditada para la certificación de miel catalogada como tal, y los lugares donde se lleva a cabo este proceso.
+XIX.- SADER: Secretaría de Agricultura y Desarrollo Rural;
+
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XX.- SECRETARÍA: la Secretaría de Desarrollo Rural;
+
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XXI.- MIEL ORGÁNICA: Aquella en cuyo proceso de producción no se permite utilizar control medicamentoso profiláctico, la aplicación de agentes químicos sintéticos, el uso de organismos genéticamente modificados, además de que se requiere el reconocimiento de una entidad acreditada para la certificación de miel catalogada como tal, y los lugares donde se lleva a cabo este proceso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 11 DE MARZO DE 2021)</small>
+
+XXII.- PLAGUICIDAS: Substancia o mezcla de substancias que se destina a controlar cualquier plaga incluidos los vectores que transmiten las enfermedades humanas y de animales, las especies no deseadas que causen perjuicio o que interfieran con la producción agropecuaria y forestal, así como las substancias defoliantes y las desecantes, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 11 DE MARZO DE 2021)</small>
+
+XXIII.- BUENAS PRÁCTICAS PECUARIAS: Conjunto de procedimientos, actividades, condiciones y controles que se aplican en las unidades de producción primaria, de conformidad a lo establecido en la Ley Federal de Sanidad Animal.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES
 
@@ -189,19 +219,27 @@ III.- El Comité Sistema Producto Apícola del Estado.
 
 Son órganos auxiliares:
 
-I.- La Secretaría de Protección y Vialidad del Gobierno del Estado.
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
+
+I.- La Secretaría de Seguridad Pública del Gobierno del Estado.
 
 II.- Los Ayuntamientos del Estado.
 
-III.- La delegación estatal de la Sagarpa.
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+III.- La representación estatal de la SADER.
 
-IV.- La Representación Estatal de la SRA.
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-V.- La delegación de la Secretaría de Economía.
+IV.- La representación estatal de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
 
-VI.- La Secretaría de Salud.
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
+
+V.- La representación estatal de la Secretaría de Economía.
+
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
+
+VI.- La Secretaría de Salud del Gobierno del Estado.
 
 VII.- Las Asociaciones Apícolas.
 
@@ -209,31 +247,47 @@ VIII.- Las Asociaciones Ganaderas.
 
 IX.- Los inspectores sanitarios.
 
-X.- La Secretaría de Hacienda.
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+X.- La Secretaría de Administración y Finanzas del Gobierno del Estado.
 
-XI.- La Secretaría de Desarrollo del Estado de Yucatán.
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+XI.- La Secretaría de Desarrollo Social del Gobierno del Estado.
 
-XII.- La Representación Estatal de la Procuraduría Federal de Protección al Medio Ambiente.
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+XII.- La representación estatal de la Procuraduría Federal de Protección al Medio Ambiente.
 
-XIII.- La Representación Estatal de la Secretaría de Ecología, Medio Ambiente y Recursos Naturales.
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+XIII.- La representación estatal de la Secretaría de Medio Ambiente y Recursos Naturales.
 
-XIV.- La Representación Estatal de la Secretaria de Ecología.
+XIV.- (DEROGADA, D.O. 11 DE MARZO DE 2021)
 
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-XV.- La Representación Estatal de la Comisión Nacional Forestal.
+XV.- La representación estatal de la Comisión Nacional Forestal.
 
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-XVI.- La Comisión Nacional de Derechos Indígenas.
+XVI.- La Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XVII.- El Comité Estatal de Fomento y Protección Pecuaria del Estado de Yucatán, SCP.
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XVIII.- La Secretaría de Desarrollo Sustentable del Gobierno del Estado de Yucatán.
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XIX.- La Secretaría de Fomento Económico y Trabajo del Gobierno del Estado.
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XX.- El Comité Estatal de Sanidad Vegetal de Yucatán.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -245,27 +299,27 @@ XVI.- La Comisión Nacional de Derechos Indígenas.
 
 La Secretaría de Desarrollo Rural, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-I.- Presidir el Comité de Sistema Producto Apícola del Estado de Yucatán, brindando todas las facilidades que estén a su alcance, para que cumpla su función como órgano rector de la actividad.
+I.- Presidir el Comité Sistema Producto Apícola del Estado de Yucatán, brindando las facilidades económicas, materiales y todas aquellas que estén a su alcance, para que cumpla su función como órgano rector de la actividad;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-II.- Promover, fomentar y apoyar el registro de apicultores y su organización.
+II.- Promover, fomentar y apoyar el registro de apicultores y su organización;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-III.- Impulsar en coordinación con el Comité Sistema Producto Apícola programas pertinentes y de fomento a la investigación apícola.
+III.- Impulsar en coordinación con el Comité Sistema Producto Apícola programas pertinentes y de fomento a la investigación apícola;
 
 IV.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-V.- Elaborar y mantener actualizado el padrón de apicultores, organizaciones, empresas e instituciones involucradas en la actividad apícola.
+V.- Elaborar y mantener actualizado el padrón de apicultores, organizaciones, empresas e instituciones involucradas en la actividad apícola, para lo que podrá coordinarse con autoridades federales y municipales;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-VI.- Coordinarse con las autoridades federales y estatales, en el ámbito de su competencia, para la ejecución de programas sobre prevención y control de de (sic) enfermedades que afectan a las abejas.
+VI.- Coordinarse con las autoridades federales y estatales, en el ámbito de su competencia, para la ejecución de programas sobre prevención y control de enfermedades que afectan a las abejas;
 
 VII.- Apoyar programas que permitan diversificar la comercialización de otros productos de la colmena tales como polen, propóleos, jalea real y apitoxina;
 
@@ -275,13 +329,15 @@ IX.- Coordinarse con autoridades federales, estatales y municipales para el cont
 
 X.- Resolver las consultas técnicas que le formulen los apicultores o asociaciones apícolas;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-XI.- Coordinarse con la SAGARPA y las autoridades estatales, en la aplicación de las disposiciones que permitan el control de las movilizaciones de colonias y para la inspección de las colmenas y sus productos.
+XI.- Coordinarse con SADER y las autoridades estatales, en la aplicación de las disposiciones que permitan el control de las movilizaciones de colonias y para la inspección de las colmenas y sus productos;
 
 XII.- Expedir las guías de tránsito de los productos de los establecimientos que extracten, manejen, acopien, procesen, industrialicen o envasen miel u otros productos de abeja en el Estado;
 
-XIII.- Reportar a la Sagarpa, para que en su caso se establezcan las cuarentenas en zonas infestadas o infectadas, prohibiendo el traslado de colmenas que se consideren portadoras de enfermedades a zonas libres;
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XIII.- Reportar a la SADER, para que en su caso se establezcan las cuarentenas en zonas infestadas o infectadas, prohibiendo el traslado de colmenas que se consideren portadoras de enfermedades a zonas libres;
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
@@ -289,15 +345,17 @@ XIV.- Llevar un control estadístico de la Apicultura en el Estado.
 
 XV.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
-XVI.- Autorizar y llevar el registro de las marcas y señales que identifiquen la propiedad de las colonias de abejas de cada apicultor;
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+XVI.- Autorizar y llevar el registro de las marcas y señales que identifiquen la propiedad de las colonias de abejas de cada apicultor, para lo que podrá coordinarse con el Sistema Nacional de Identificación Individual de Ganado y demás autoridades federales y municipales que correspondan;
 
-XVII.- En coordinación con las autoridades federales, estatales y municipales, establecer las medidas que sean necesarias para proteger las zonas y plantas melíferas que conforman el ecosistema del Estado de Yucatán.
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+XVII.- En coordinación con las autoridades federales, estatales y municipales, establecer las medidas que sean necesarias para proteger las zonas y plantas melíferas que conforman el ecosistema del Estado de Yucatán;
 
-XVIII.- En coordinación con autoridades federales, estatales y municipales, enterarse de la instalación de apiarios y el aprovechamiento de las zonas apícolas.
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XVIII.- En coordinación con autoridades federales, estatales y municipales, enterarse de la instalación de apiarios y el aprovechamiento de las zonas apícolas;
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
@@ -321,11 +379,51 @@ XXIV.- En coordinación con autoridades federales, estatales y municipales, vigi
 
 XXV.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
-XXVI.- Establecer los programas necesarios que permitan la certificación de origen de la miel yucateca, y
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-XXVII.- Las demás que le confiera esta ley y su reglamento.
+XXVI.- Establecer los programas necesarios que permitan la certificación de origen de la miel yucateca;
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 11 DE MARZO DE 2021)</small>
+
+XXVII.- Dar cumplimiento del Programa Estatal para la Protección de las Abejas y el Fomento de la Apicultura del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XXVIII.- Elaborar e implementar programas tendientes al fomento y conservación de la meliponicultura;
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XXIX.- Coordinarse con el CEFPPY para llevar a cabo las campañas zoosanitarias y la vigilancia epidemiológica de las enfermedades y plagas que afectan a las abejas, así como la inocuidad de la miel;
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XXX.- Brindar asesoría a los apicultores, asociaciones y técnicos apícolas para la incorporación de Buenas Prácticas Pecuarias en la Producción primaria de miel que permitan procesos inocuos en los apiarios;
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XXXI.- Incentivar la participación de universidades, organizaciones y asociaciones protectoras del medio ambiente en la instrumentación de acciones de protección y preservación de las abejas y su medio ambiente;
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XXXII.- En coordinación con las autoridades municipales, en el ámbito de sus competencias, promover programas y campañas de difusión fomentando conductas de respeto, cuidado y protección hacia las abejas y su medio ambiente;
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XXXIII.- Incentivar proyectos de emprendimiento social que generen empleos e inversión para el desarrollo de la apicultura;
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XXXIV.- Otorgar estímulos a los productores de acuerdo a los programas autorizados y de conformidad con la disponibilidad presupuestaria;
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XXXV.- En coordinación con autoridades federales, estatales y municipales, vigilar que los procesos apícolas, desde la producción hasta la comercialización, se realicen de acuerdo a las normas de inocuidad, sanidad e higiene vigentes, cooperando con las autoridades federales en lo que corresponda, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 11 DE MARZO DE 2021)</small>
+
+XXXVI.- Las demás que le confiera esta ley y su reglamento.
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], D.O. 11 DE MARZO DE 2021)</small>
 
 ### CAPÍTULO IV. DEL COMITÉ SISTEMA PRODUCTO APÍCOLA DEL ESTADO DE YUCATÁN
 
@@ -335,27 +433,71 @@ XXVII.- Las demás que le confiera esta ley y su reglamento.
 
 Con el objeto de apoyar la ejecución de programas tendientes a incrementar la calidad y productividad de la Apicultura, se crea el Comité Sistema Producto Apícola del Estado de Yucatán, el cual tiene como función principal, integrar a los agentes económicos que participan en las diferentes fases del sistema apicola para proponer soluciones de manera conjunta a la problemática apícola.
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 9.
 
-El Sistema Productivo Apícola del Estado de Yucatán está integrado por uno de cada una de las instituciones siguientes; la delegación estatal de la SAGARPA, de las asociaciones de apicultores, de los proveedores de equipos industriales e insumos apícolas, de los prestadores de servicios apícolas, de los exportadores de miel; de la Facultad de Medicina Veterinaria y Zootecnia de la Universidad Autónoma de Yucatán, de la Dirección Regional de apoyos y Servicios a la comercialización agropecuaria, de la gerencia estatal del Fideicomiso de riesgo compartido, de la Dirección de comercio Internacional de la Secretaria de Desarrollo Industrial y comercial, de la gerencia de Desarrollo Exportador de la representación estatal del Banco Nacional de Comercio exterior, de la residencia estatal de los Fideicomisos Instituidos en relación con la agricultura, de la Presidencia ejecutiva de la Fundación Produce Yucatán A.C, y de la vocalía ejecutiva del Fondo de Apoyo a la Productividad Agropecuaria del Gobierno del Estado de Yucatán.
+El Comité Sistema Producto Apícola del Estado de Yucatán está integrado por:
 
-Cada representante deberá nombrar a un suplente, en caso de ausencia.
+I.- La persona titular de la Secretaría de Desarrollo Rural del Gobierno del Estado;
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+II.- La persona titular de la Secretaría de Fomento Económico y Trabajo del Gobierno del Estado de Yucatán;
+
+III.- La persona titular de la Secretaría de Desarrollo Sustentable del Gobierno del Estado de Yucatán;
+
+IV.- Representantes de las asociaciones de apicultores del estado;
+
+V.- Representantes de los proveedores de equipos industriales e insumos apícolas;
+
+VI.- Las personas prestadoras de servicios apícolas;
+
+VII.- Representantes de empresas exportadoras de miel;
+
+VIII.- Representante de la Facultad de Medicina Veterinaria y Zootecnia de la Universidad Autónoma de Yucatán;
+
+IX.- Representante de la Dirección Regional de la Agencia de Servicios a la Comercialización y Desarrollo de Mercados Agropecuarios;
+
+X.- Representante estatal de los Fideicomisos Instituidos en Relación con la Agricultura, y
+
+XI.- La persona encargada de la presidencia ejecutiva de la Fundación Produce Yucatán A.C.
+
+Cada representante deberá nombrar a un suplente, en caso de ausencia. Los cargos son de carácter honorífico.
+
+> <small>(ADICIONADO, D.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 9 Bis.
+
+Se podrá invitar a representantes de los órganos con autonomía constitucional, presidentes municipales y miembros de la sociedad civil, para los asuntos a tratar, así como al titular de la representación estatal de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal; a la representación estatal de la Secretaría de Economía del Gobierno Federal y a la representación estatal de la Secretaría de Agricultura y Desarrollo Rural del Gobierno Federal; así como a los (sic) demás autoridades estatales y federales que consideren y que están relacionadas con la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 10.
 
-El Consejo del Sistema Producto Apicola del Estado de Yucatán se reunirá para tratar los siguientes asuntos:
+El Comité Sistema Producto Apícola del Estado de Yucatán se reunirá para tratar los siguientes asuntos:
 
-I.- Elaborar el programa rector de la apicultura estatal y darle seguimiento.
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
+
+I.- Elaborar y dar seguimiento al Programa Estatal para la Protección de las Abejas y el Fomento de la Apicultura del Estado de Yucatán, programa rector de la apicultura estatal.
+
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
 II.- Lograr la integración, comunicación y coordinación permanente entre los agentes de la cadena Apícola y con los diferentes niveles de gobierno.
 
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+
 III.- Armonizar la Producción con el consumo, para generar productos apícolas de calidad y competitividad.
 
-IV.- Mejorar el bienestar social y económico de los productos apicolas y demás agentes.
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
+
+IV.- Mejorar el bienestar social y económico de los apicultores y demás agentes.
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+V.- Promover y apoyar, en sus áreas de competencia, el desarrollo de la apicultura y protección de las abejas y su medio ambiente.
+
+> <small>(ADICIONADO, D.O. 11 DE MARZO DE 2021)</small>
+
+El Programa Estatal para la Protección de las Abejas y el Fomento de la Apicultura del Estado de Yucatán contendrá las políticas, objetivos, estrategias y líneas de acción que regirán la actividad apícola y protección de las abejas y su medio ambiente en el estado.
 
 ###### Artículo 11.
 
@@ -373,19 +515,21 @@ I.- Tener acceso a los apoyos que el Gobierno otorgue a la apicultura;
 
 II.- Formar parte de las Asociaciones de Apicultores de la localidad donde se encuentre instalada su explotación;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-III.- Recibir asesoría técnica por parte de las autoridades estatales y municipales;
+III.- Recibir asesoría técnica por parte de las autoridades estatales y municipales, así como la información necesaria para la incorporación de Buenas Prácticas Pecuarias en la Producción primaria de miel;
 
 IV.- Recibir de la autoridad competente la credencial que lo acredite como apicultor;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-V.- Participar de manera directa o indirecta, en las decisiones que sobre la materia tome el Comité Sistema Producto Apícola del Estado de Yucatán;
+V.- Participar de manera directa o indirecta en las decisiones que sobre la materia tome el Comité Sistema Producto Apícola;
 
 VI.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
-VII.- Obtener información veraz y oportuna sobre prácticas y productos permitidos o autorizados por las autoridades para el adecuado manejo de sus colmenas, y
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
+
+VII.- Obtener información veraz y oportuna sobre prácticas y productos permitidos, autorizados y recomendados por las autoridades estatales y federales correspondientes para el adecuado manejo de sus colmenas, y
 
 VIII.- Las demás que le confieran esta ley y su reglamento.
 
@@ -395,15 +539,15 @@ Son obligaciones de los apicultores:
 
 I.- Respetar los derechos de los demás apicultores;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-II.- Registrar ante la Secretaría a través de la autoridad municipal competente la marca que utilizará para señalar e identificar la propiedad de sus colmenas;
+II.- Registrar ante la Secretaría a través de la autoridad municipal competente la marca de fierro caliente que utilizará para señalar e identificar la propiedad de sus colmenas;
 
 III.- Respetar el derecho de antigüedad que tengan otros apicultores cuando pretenda establecer nuevos apiarios en la zona;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-IV.- Informar a la Secretaría a través de a través de (sic) la autoridad municipal competente la ubicación de sus apiarios, anexando un plano o croquis de su localización;
+IV.- Informar anualmente a la Secretaría a través de la autoridad municipal competente la ubicación de sus apiarios, anexando un plano o croquis de su localización;
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
@@ -419,9 +563,9 @@ VIII.- Acatar las disposiciones legales, federales o estatales, relativas al con
 
 IX.- Cumplir con las medidas de seguridad que dicten las autoridades competentes, para la protección de las personas y de los animales;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
 
-X.- Informar anualmente a la asociación local a la que pertenezca o de la autoridad municipal competente, del inicio de su ciclo de actividades proporcionando los datos estadísticos respecto de su explotación, de acuerdo a lo que establezca el Reglamento; en todo caso, deberá contener el número de colmenas, tipos de productos que explota para consumo o comercialización y la respectiva bitácora sobre el manejo sanitario;
+X.- Informar anualmente a la Secretaría, a través de la asociación local que pertenezca o la autoridad municipal competente, del inicio de su ciclo de actividades, de conformidad a los requerimientos establecidos en el reglamento de la presente ley;
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
@@ -429,7 +573,25 @@ XI.- Permitir las inspecciones que por cuestiones sanitarias dicten las autorida
 
 XII.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2006)
 
-XIII.- Las demás que les confiera esta ley y su reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 11 DE MARZO DE 2021)</small>
+
+XIII.- Proporcionar información respecto al número de colmenas, tipos de productos que explota para consumo o comercialización, y bitácora de manejo sanitario cuando le sea requerido por la Secretaría;
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XIV.- Participar en las campañas zoosanitarias, de vigilancia e inocuidad que realicen las autoridades correspondientes;
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XV.- Cumplir con las normas y leyes que se expidan para la regulación de su actividad;
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XVI.- Sujetarse a la guía de tránsito, certificado zoosanitario y otros documentos necesarios expedidos por las autoridades correspondientes para la movilización de abejas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 11 DE MARZO DE 2021)</small>
+
+XVII.- Las demás que les confiera esta ley y su reglamento.
 
 ### CAPÍTULO VI. DE LA INSTALACIÓN DE LOS APIARIOS
 
@@ -437,9 +599,13 @@ XIII.- Las demás que les confiera esta ley y su reglamento.
 
 Son requisitos previos a la instalación de un apiario:
 
-I.- Solicitar el permiso correspondiente a la Dirección, ya sea de manera directa o a través de la Asociación a la que pertenezca, misma que deberá hacerse por escrito, anexando los siguientes datos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 11 DE MARZO DE 2021)</small>
+
+I.- Solicitar el permiso correspondiente a la Secretaría, ya sea de manera directa o a través de la Asociación a la que pertenezca o a la autoridad municipal competente, misma que deberá hacerse por escrito, anexando los siguientes datos:
 
 a) Nombre y domicilio del interesado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 11 DE MARZO DE 2021)</small>
 
 b) Lugar de ubicación y número de colmenas que desea instalar, acompañando plano o croquis de referencia, y
 
@@ -463,13 +629,13 @@ II.- Una distancia de 300 metros de zonas habitadas o centros de reunión.
 
 III.- A 300 metros de caminos vecinales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 16.
 
-La autoridad competente podrá autorizar apiarios a una distancia menor a la señalada en la fracción I del artículo anterior, tomando en cuenta el número de colonias de la explotación que se vaya a instalar, la extensión y capacidad floral del terreno del solicitante y demás aledaños; así como, el número de colonias de los apiarios instalados en la región.
+La autoridad competente podrá autorizar apiarios a una distancia menor a la señalada en la fracción I del Artículo anterior, tomando en cuenta el número de colonias, con fines de explotación, a instalar, la extensión y capacidad floral del terreno del solicitante y aledaños y el número de colonias de los apiarios instalados en la zona.
 
-En todo caso, solicitará un estudio floral de la región correspondiente.
+En todo caso, solicitará un estudio floral de la región correspondiente que le permita emitir un dictamen en el que fundamente su decisión.
 
 ###### Artículo 17.
 
@@ -517,11 +683,11 @@ La Secretaría se coordinará con las autoridades de otras áreas productivas, p
 
 ### CAPÍTULO VIII. DE LA MARCA Y PROPIEDAD DE LAS COLMENAS
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 26.
 
-Todo apicultor que opere dentro del Estado, tiene la obligación de identificar sus colmenas, marcándolas al frente, mediante fierro caliente; la marca se ajustara al tamaño de 16 centímetros de largo por 2 centímetros de ancho, conteniendo nueve dígitos distribuidos de la siguiente manera: dos dígitos, guión, tres dígitos, guión, cuatro dígitos, de tal forma que sea visible cuando menos a una distancia de dos metros.
+Todo apicultor que opere dentro del Estado, tiene la obligación de identificar sus colmenas, marcándolas al frente, mediante fierro caliente; la marca se ajustara al tamaño de 16 centímetros de largo por 2 centímetros de ancho, conteniendo nueve dígitos distribuidos de la siguiente manera: dos dígitos, guion, tres dígitos, guion, cuatro dígitos; de conformidad con lo establecido en el reglamento de la presente ley. La marca deberá ser visible cuando menos a una distancia de dos metros.
 
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
@@ -557,9 +723,17 @@ La Secretaría, en coordinación con el Comité Sistema Producto Apícola, estab
 
 Asimismo, se promoverán programas que tiendan al cambio de colmenas rústicas a modernas.
 
+> <small>(REFORMADO, D.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 33.
 
-La captura y destrucción de los enjambres se realizará exclusivamente por personal autorizado por las autoridades correspondientes, ajustando su labor en todo momento a las normas oficiales que para tal efecto se establezcan.
+La captura, aprovechamiento, reubicación o destrucción de los enjambres se realizará exclusivamente por personal autorizado por las autoridades correspondientes, ajustando su labor en todo momento a las normas oficiales que para tal efecto se establezcan; de conformidad a lo establecido en la presente ley.
+
+> <small>(ADICIONADO, D.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 33 Bis.
+
+La Secretaría de Desarrollo Rural fomentará el uso de plaguicidas que, por su nivel de toxicidad, no produzcan efectos perjudiciales para los ecosistemas y la salud humana y animal.
 
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
@@ -601,11 +775,11 @@ Los propietarios, poseedores o encargados de los establecimientos descritos en e
 
 Las inspecciones a que hace mención el Artículo 38 podrán efectuarse en el lugar de los apiarios, bodegas, plantas de extracción, sedimentación y envasado.
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 41.
 
-La Secretaría solicitará a las autoridades competentes, inspectores para el cumplimiento de esta ley.
+La Secretaría designará a los inspectores que sean necesarios para el cumplimiento de esta ley.
 
 ###### Artículo 42.
 
@@ -709,17 +883,35 @@ La Secretaría cooperará con las entidades, cuya competencia sea mantener los c
 
 (DEROGADO, D.O. 5 DE DICIEMBRE DE 2006)
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 11 DE MARZO DE 2021)</small>
+
+### CAPÍTULO XIII Bis. DEL RETIRO DE ENJAMBRES
+
+> <small>(ADICIONADO, D.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 62 Bis.
+
+Todos los habitantes del estado están obligados a denunciar ante las autoridades competentes cuando algún enjambre pueda producir daño a la integridad de las personas o cuando este se encuentre en riesgo de ser destruido.
+
+> <small>(ADICIONADO, D.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 62 Ter.
+
+La Secretaría, en coordinación con la Secretaría de Seguridad Pública del Gobierno del Estado, deberá capacitar y certificar al personal de protección civil y elementos de seguridad pública de los ayuntamientos, apicultores de la localidad y asociaciones, con la finalidad de instruirlos para el cuidado, preservación, retiro y reubicación de enjambres de abejas de sus respectivas circunscripciones.
+
+> <small>(ADICIONADO, D.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 62 Quater.
+
+Los Ayuntamientos trabajarán de manera coordinada con los apicultores o asociaciones, previamente capacitados y certificados, para el retiro y reubicación de enjambres, procurando la supervivencia de la comunidad de abejas.
+
 ### CAPÍTULO XIV. DE LAS SANCIONES
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
-
-### CAPÍTULO XV. DE LOS RECURSOS DE INCONFORMIDAD Y DE QUEJA
-
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 63.
 
-Las violaciones a los preceptos de esta ley y su Reglamento, constituyen infracciones que serán sancionados administrativamente por la Secretaría, sin perjuicio de que consigne a los responsables ante las autoridades competentes, si el acto u omisión implica la comisión de algún delito.
+Las violaciones a los preceptos de esta ley y su Reglamento, constituyen infracciones que serán sancionados (sic) administrativamente por la Secretaría de Desarrollo Rural del Gobierno del Estado, a través de los reportes que emitan los inspectores acreditados por la misma dependencia, sin perjuicio de que consigne a los responsables ante las autoridades competentes, si el acto u omisión implica la comisión de algún delito.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -774,6 +966,10 @@ El monto de las sanciones mencionadas en los artículos anteriores, se apegará 
 ###### Artículo 67.
 
 Una vez fijado el monto de las multas y desahogados los recursos de inconformidad, la Secretaría solicitará a la Secretaría de Hacienda del Estado la recaudación correspondiente, de conformidad con los procedimientos que ésta determine.
+
+### CAPÍTULO XV. DE LOS RECURSOS DE INCONFORMIDAD Y DE QUEJA
+
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 68.
 
@@ -886,3 +1082,23 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 353/2021 POR EL QUE SE MODIFICA LA LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE YUCATÁN, EN MATERIA DE IMPULSO A LA ACTIVIDAD APÍCOLA Y PROTECCIÓN DE LAS ABEJAS Y SU MEDIO AMBIENTE”]
+
+Artículo Primero.- Entrada en vigor.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Estado.
+
+Artículo Segundo.- Derogación tácita.
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
+
+Artículo Tercero.- Adecuación del reglamento.
+
+El Poder Ejecutivo del Estado de Yucatán deberá realizar las adecuaciones correspondientes y expedir las disposiciones reglamentarias en un término no mayor a 90 días naturales a partir de la entrada en vigor de este decreto.
+
+Artículo Cuarto.- Adecuaciones normativas.
+
+Los municipios del Estado de Yucatán tendrán un plazo de noventa días naturales a partir de la entrada en vigor de este decreto, para realizar las modificaciones a sus ordenamientos para dar cumplimiento al presente decreto.
