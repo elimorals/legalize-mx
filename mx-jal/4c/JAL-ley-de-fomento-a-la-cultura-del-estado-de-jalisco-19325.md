@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2021-03-04"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2000.
 
@@ -469,7 +469,9 @@ I. Los objetivos y estrategias a desarrollar en la promoción, divulgación, fom
 
 II. Los programas generales para el desarrollo de las actividades culturales y artísticas del Estado, en lo que respecta a creación, investigación, preservación, promoción y difusión; en los aspectos de ampliación y mejoramiento de infraestructura, fomento a la industria cultural, financiamiento complementario y sistema de incentivos fiscales; y en los ámbitos municipal, regional y estatal;
 
-III. Los programas específicos en materia de cultura y tradiciones populares; cultura indígena; y fomento al libro y la lectura; y
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+III. Los programas específicos en materia de cultura y tradiciones populares; cultura indígena y afromexicana, cualquiera que sea su autodenominación; y fomento al libro y la lectura; y
 
 IV. Los procedimientos de evaluación adecuados para determinar el cumplimiento de los objetivos planeados.
 
@@ -523,7 +525,9 @@ f) La Comisión Estatal Indígena, y
 
 g) Sistema Jalisciense de Radio y Televisión;
 
-IV. Los representantes por cada una de las manifestaciones culturales y artísticas que a continuación se mencionan:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE MARZO DE 2021)</small>
+
+IV. Los representantes por cada uno de las manifestaciones culturales y artísticas que a continuación se mencionan:
 
 a) Tres representantes de artes plásticas;
 
@@ -541,7 +545,9 @@ g) Tres representantes de artesanías;
 
 h) Tres representantes de cultura popular; y
 
-i) Tres representantes de culturas indígenas.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2021)</small>
+
+i) Tres representantes de culturas indígenas y afromexicanas, cualquiera que sea su autodenominación; y
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -619,7 +625,9 @@ VII. Recabar la opinión de la comunidad cultural y demás sectores de la socied
 
 VIII. Proponer criterios de coordinación y ejecución de acciones que permitan incrementar la acción gubernamental en materia de cultura;
 
-IX. Realizar propuestas para integrar los programas relativos a la preservación y fortalecimiento de las culturas indígenas y populares del Estado;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+IX. Realizar propuestas para integrar los programas relativos a la preservación y fortalecimiento de las culturas indígenas y afromexicanas, cualquiera que sea su autodenominación populares del Estado.
 
 X. Asesorar, promover y en su caso gestionar ante las autoridades competentes descuentos, deducciones, donaciones y cualquier otro estímulo económico en materia de fomento cultural, previa solicitud de la persona física o jurídica que realice o patrocine este tipo de actividades;
 
@@ -767,11 +775,11 @@ II. Creador emérito: Además de cumplir con los requisitos previos, haber reali
 
 III. Los demás que establezca el reglamento.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 32.
 
-Los nuevos creadores podrán percibir hasta tres salarios mínimos mensuales, durante un año calendario. Este apoyo podrá renovarse hasta por tres años. La asignación, entrega y prórroga de dichos estímulos estará sujeta a las condiciones establecidas por el reglamento respectivo, así como a la existencia y disponibilidad de recursos. Los creadores eméritos tendrán carácter honorífico y vitalicio.
+Los nuevos creadores podrán percibir hasta tres veces el valor de la Unidad de Medida y Actualización mensual, durante un año calendario. Este apoyo podrá renovarse hasta por tres años. La asignación, entrega y prórroga de dichos estímulos estará sujeta a las condiciones establecidas por el reglamento respectivo, así como a la existencia y disponibilidad de recursos. Los creadores eméritos tendrán carácter honorífico y vitalicio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -1210,3 +1218,15 @@ El Ejecutivo Estatal, a través de la Secretaría deberá expedir y publicar el 
 ###### ARTÍCULO OCTAVO.
 
 El Titular del Poder Ejecutivo del Estado, a través de la Secretaría deberá realizar las gestiones necesarias para que opere la ventanilla única de trámites conforme a la disponibilidad y suficiencia presupuestal.
+
+P.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28292/LXII/21 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 32 DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28305/LXII/21 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 17, EL INCISO I) DE LA FRACCIÓN IV DEL ARTÍCULO 20, Y LA FRACCIÓN XI DEL ARTÍCULO 21 DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
