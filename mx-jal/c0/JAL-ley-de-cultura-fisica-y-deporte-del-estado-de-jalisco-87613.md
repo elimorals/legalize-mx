@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-cultura-fisica-y-deporte-del-estado-de-jalisco-87613"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-19"
-last_updated: "2020-12-03"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 19 de abril de 2012.
 
@@ -585,7 +585,9 @@ II. Asociarse, mediante la práctica de la cultura física y el deporte, para la
 
 III. Recibir, en los términos de ley, facilidades para su incorporación y promoción en los diversos niveles y modalidades del Sistema Estatal de Educación, tratándose de deportistas sobresalientes, de talento o seleccionados en competencias de alto rendimiento;
 
-IV. Recibir asistencia y entrenamiento deportivo en competencias oficiales, sólo en el caso de que tengan la calidad de seleccionados estatales;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+IV. Recibir asistencia, entrenamiento deportivo y atención médica en competencias oficiales, sólo en el caso de que tengan la calidad de seleccionados estatales;
 
 V. Participar responsablemente en competencias, juegos o eventos deportivos reglamentarios u oficiales, respectivamente, en el marco del sistema estatal;
 
@@ -1096,3 +1098,9 @@ P.O. 3 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28114/LXII/20 QUE REFORMAN LOS ARTÍCULOS 93 Y 95 EN SU PÁRRAFO TERCERO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28291/LXII/21 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 55 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
