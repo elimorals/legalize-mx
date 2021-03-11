@@ -4,7 +4,7 @@ identifier: "SON-ley-para-la-celebracion-de-espectaculos-publicos-en-el-108718"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-15"
-last_updated: "2017-08-03"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MARZO DE 2021.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el lunes 15 de junio de 2015.
 
@@ -215,7 +215,9 @@ XIII.- Proporcionar a los participantes en el espectáculo público, sanitarios 
 
 XIV.- Devolver dentro de un plazo de 48 horas y contra la simple entrega del boleto o contraseña respectiva, el importe de las entradas cuando de conformidad con las disposiciones específicas de esta Ley o de los Reglamentos correspondientes, resulte procedente ante la suspensión o cancelación de un espectáculo público por causas imputables al Titular;
 
-XV.- Prohibir durante la celebración del espectáculo de que se trate, las conductas que tiendan a alentar, favorecer o tolerar la prostitución o drogadicción, y en general aquellas que pudieran constituir una infracción o delito;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+XV.- Prohibir durante la celebración del espectáculo de que se trate, las conductas que tiendan a alentar, favorecer o tolerar la violencia, prostitución o drogadicción, y en general aquellas que pudieran constituir una infracción o delito;
 
 XVI.- Dar aviso a las autoridades competentes, cuando detecten la comisión de alguna de las conductas a que se refiere la fracción anterior;
 
@@ -227,7 +229,9 @@ Se deberán tomar las medidas específicas que establece la Ley de Protección C
 
 XIX.- Cumplir con los requerimientos y obligaciones que señalen los Reglamentos correspondientes para el espectáculo público de que se trate;
 
-XX.- Prohibir que los Participantes ejecuten o hagan ejecutar por otro exhibiciones obscenas o se invite al comercio carnal, en los términos de la legislación penal aplicable;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+XX.- Prohibir que los Participantes ejecuten o hagan ejecutar por otros actos de violencia, exhibiciones obscenas o se invite al comercio carnal, en los términos de la legislación penal aplicable;
 
 XXI.- Cuando se detecte la comisión de alguna de las conductas a que se refiere la fracción anterior, se deberá dar aviso a las autoridades competentes;
 
@@ -501,11 +505,25 @@ Independientemente de las demás que les resulten aplicables, los espectáculos 
 
 El Ayuntamiento deberá designar a una persona que funja como inspector y que esté presente durante la celebración de cualquier espectáculo deportivo, para vigilar el cumplimiento de las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 41.
 
-El inspector vigilará que los Espectadores no alteren el orden público, crucen apuestas, agredan o insulten a los deportistas, comisionados u oficiales, solicitando, si para ello fuere necesario, la intervención de la fuerza pública, a fin de que se ponga a disposición de la autoridad competente a quien infrinja esta disposición.
+El inspector vigilará que los Espectadores o Participantes no alteren el orden público, crucen apuestas, inciten o cometan actos o conductas violentas contra otros espectadores, deportistas, comisionados u oficiales, solicitando, si para ello fuere necesario, la intervención de la fuerza pública, a fin de que se ponga a disposición de la autoridad competente a quien infrinja esta disposición.
 
 Asimismo, cuidará que los elementos de la policía mantengan la seguridad y el orden durante el desarrollo del espectáculo.
+
+Se consideran actos o conductas violentas o que incitan a la violencia en espectáculos deportivos los siguientes:
+
+I.- La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado;
+
+II.- El lanzamiento de objetos contundentes o que por sus características pongan en riesgo la salud o la integridad de las personas, así como la introducción al recinto o a sus instalaciones anexas, de armas de fuego, explosivos o cualquier arma prohibida en términos de las leyes aplicables;
+
+III.- La realización de daños materiales en los bienes muebles o inmuebles que se encuentren en el propio recinto deportivo, en sus instalaciones anexas o en las inmediaciones;
+
+IV.- La irrupción no autorizada en los terrenos de juego; o
+
+V.- La exhibición en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen de alguna forma (sic) inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el espectáculo deportivo; (sic)
 
 ###### Artículo 42.
 
@@ -745,6 +763,30 @@ Se sancionará con el equivalente de 100 a 200 Unidades de Medida y Actualizaci�
 
 Se sancionará con el equivalente de 200 a 400 Unidades de Medida y Actualización, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 13, fracciones I, VII, VIII, XI, XII, XV, XVI, XVII, XVIII, XX y XXIII, 16, 18, 19, 34, 38, fracción I, 48, 49 y 57 de la Ley.
 
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 65 Bis.
+
+A las infracciones al artículo 41 en sus fracciones I, II, III, IV y V, se les aplicarán las siguientes sanciones administrativas, sin perjuicio de las sanciones penales, civiles o de cualquier naturaleza que pudiera generarse, y considerando la gravedad de la conducta y en su caso, la reincidencia:
+
+I. A deportista, entrenadores, jueces, árbitros, organizadores o directivos:
+
+a) Amonestación privada o pública;
+
+b) En caso de que se les otorguen apoyos económicos estatales y/o municipales, la reducción o cancelación de los mismos; y
+
+c) Multa de 10 a 500 veces el valor diario de la Unidad de Medida y Actualización.
+
+II. A los aficionados, asistentes o espectadores en general:
+
+a) Expulsión inmediata de las instalaciones deportivas;
+
+b) Amonestación privada o pública;
+
+c) Multa de 10 a 500 veces el valor diario de la Unidad de Medida y Actualización; y
+
+d) Suspensión de uno a cinco años del acceso a espectáculos masivos.
+
 > <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 66.
@@ -946,3 +988,11 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+P.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 180, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
