@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-social-para-los-servidores-publicos-del-8255"
 country: "mx"
 rank: "ley"
 publication_date: "1976-09-10"
-last_updated: "2020-12-09"
+last_updated: "2021-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARÁCTER ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE MARZO DE 2021.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 10 de septiembre de 1976.
 
@@ -255,23 +255,67 @@ b).- Atención médica para riesgos de trabajo que comprenderá: asistencia méd
 
 La atención médica a que se refiere el artículo anterior se proporcionará directamente por el Instituto o por medio de las instituciones de salud públicas, con quienes se haya celebrado convenio.
 
-> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 22.
 
-Cuando se trate de riesgos de trabajo, los servidores públicos tendrán derecho a la atención médica que se precisa en esta ley y además a la calificación de dichos riesgos, que se realizará por quien determine el Consejo Directivo, notificando a las entidades públicas para los efectos que procedan. No se considerarán riesgos de trabajo, los que sobrevengan por alguna de las causas siguientes:
+Cuando se trate de riesgos de trabajo, los servidores públicos tendrán derecho a la atención médica que se precisa en esta ley y además a la calificación de dichos riesgos.
 
-I.- El accidente ocurra encontrándose el trabajador en estado de embriaguez.
+Para los efectos de esta ley, serán reputados como riesgos de trabajo los accidentes y enfermedades a que están expuestos los trabajadores en el ejercicio o con motivo del trabajo.
 
-II.- El accidente ocurra encontrándose el trabajador bajo la acción de algún psicotrópico, narcótico o droga enervante, salvo que exista prescripción suscrita por médico titulado y que el trabajador lo hubiera exhibido y hecho del conocimiento de su superior jerárquico.
+Se considerarán accidentes de trabajo: toda lesión orgánica o perturbación funcional, inmediata o posterior; la muerte o la desaparición derivada de un acto delincuencial, producida repentinamente en el ejercicio o con motivo del trabajo, cualquiera que sea el lugar y el tiempo en que se preste; así como aquéllos que ocurran al trabajador al trasladarse directamente de su domicilio o de la estancia de bienestar infantil de sus hijos, al lugar en que desempeñe su trabajo o viceversa.
 
-III.- El trabajador se ocasiona intencionalmente una incapacidad o lesión por sí o de acuerdo con otra persona.
+Asimismo, se consideran riesgos de trabajo las enfermedades de trabajo señaladas por las leyes laborales.
 
-IV.- La incapacidad o siniestro es el resultado de alguna riña o intento de suicidio.
+Para los efectos de este capítulo, los titulares de las dependencias y entidades o los sindicatos de trabajadores deberán avisar por escrito al Instituto de los riesgos de trabajo que hayan ocurrido, dentro de los cinco días siguientes al de su conocimiento, en los términos que señale el reglamento respectivo y demás disposiciones aplicables. El trabajador o sus familiares también podrán dar el aviso de referencia, así como el de presunción de la existencia de un riesgo del trabajo.
 
-V.- El siniestro es resultado de un delito intencional del que fuera responsable el trabajador asegurado.
+Cuando dicho titular de la dependencia o entidad que, teniendo a su cargo dar el aviso a que se refiere este artículo, omitiera hacerlo, se le fincarán las responsabilidades correspondientes en términos de ley, para lo cual, el trabajador podrá realizar la denuncia correspondiente ante el superior jerárquico inmediato de la dependencia o entidad.
 
-Los compromisos económicos que puedan derivarse de riesgos de trabajo que sufran los servidores públicos serán cubiertos por el Instituto con la aportación respectiva, establecida en la fracción III del artículo 8 de esta ley, que es a cargo exclusivo de la entidad pública correspondiente.
+> <small>(ADICIONADO, D.O. 11 DE MARZO DE 2021)</small>
+
+Artículo 22 bis.- Para la calificación de los riesgos de trabajo se procederá de la forma siguiente:
+
+a) Los riesgos del (sic) trabajo serán calificados técnicamente por el médico especialista en medicina del trabajo nombrado por el Instituto o perteneciente a los Servicios de Salud de Yucatán, dentro de los cinco días hábiles siguientes al aviso correspondiente, de conformidad con el reglamento respectivo y demás disposiciones aplicables.
+
+b) En caso de desacuerdo con la calificación, el afectado tendrá treinta días hábiles para presentar por escrito ante el Instituto, su inconformidad avalada con un dictamen de un médico especialista.
+
+c) En caso de desacuerdo entre la calificación del Instituto y el dictamen del especialista presentado por el afectado, el Instituto propondrá una terna de médicos especialistas, para que de entre ellos, en el plazo de 3 días hábiles, el afectado elija uno y se emita un nuevo dictamen dentro del plazo máximo de 5 días hábiles.
+
+d) El dictamen del especialista tercero elegido por el afectado, resolverá en definitiva sobre la procedencia o no de la calificación y será inapelable y de carácter obligatorio para el interesado y para el Instituto.
+
+> <small>(ADICIONADO, D.O. 11 DE MARZO DE 2021)</small>
+
+Artículo 22 ter.- Al ser declarada una incapacidad temporal por riesgo de trabajo, se otorgará al trabajador licencia con goce del cien por ciento de su sueldo, cuando el riesgo de trabajo lo imposibilite para desempeñar sus labores. El pago se hará desde el primer día de incapacidad y será cubierto por las Dependencias o Entidades hasta que termine la incapacidad cuando ésta sea temporal, o bien hasta que se declare la incapacidad permanente del Trabajador.
+
+Para los efectos de la determinación de la incapacidad producida por riesgo de trabajo, se tomará en cuenta que si a los tres meses de iniciada dicha incapacidad no está el Trabajador en aptitud de volver al trabajo, él mismo o la Dependencia o Entidad, podrán solicitar en vista de los certificados médicos correspondientes, que sea evaluada, y en su caso, declare una extensión de dicha incapacidad temporal. En caso de que derivado de dicha incapacidad, el Trabajador continúe con un impacto negativo o limitado en su salud física y no esté apto para el desempeño de sus labores, el trabajador podrá solicitar la incapacidad permanente.
+
+No excederá de un año, contado a partir de la fecha en que el Instituto tenga conocimiento del riesgo, el plazo para que se determine si el Trabajador está apto para volver al servicio o bien procede declarar su incapacidad permanente.
+
+> <small>(ADICIONADO, D.O. 11 DE MARZO DE 2021)</small>
+
+Artículo 22 quater.- Durante una contingencia sanitaria ocasionada por una nueva enfermedad, es susceptible de ser considerada como probable enfermedad de trabajo, aquella que contraiga un trabajador con riesgo de exposición, que al desempeñar sus actividades laborales tenga el antecedente de contacto con paciente o con persona confirmada con la nueva enfermedad.
+
+Se entiende por paciente o persona confirmada, como aquella persona que cumpla con la definición operacional de caso sospechoso y que cuente con diagnóstico de tener la nueva enfermedad confirmada por laboratorios públicos o privados.
+
+Deberá considerarse además, el nivel de riesgo de exposición por la ocupación que desempeña el trabajador, las características de frecuencia y la cercanía de contacto con personas con la nueva enfermedad.
+
+Cuando exista duda razonable sobre el grado de exposición, para los trabajadores que por disposición de las Entidades o Dependencias Públicas deban continuar acudiendo a sus centros de trabajo, se entenderá que el trabajador se contagió en el centro de trabajo, sin embargo, el trabajador deberá probar su exposición de riesgo a una enfermedad de trabajo, salvo prueba concluyente en contrario.
+
+> <small>(ADICIONADO, D.O. 11 DE MARZO DE 2021)</small>
+
+Artículo 22 quinquies.- No se considerarán riesgos de trabajo, los que sobrevengan por alguna de las causas siguientes:
+
+I. El accidente ocurra encontrándose el trabajador en estado de embriaguez.
+
+II. El accidente ocurra encontrándose el trabajador bajo la acción de algún psicotrópico, narcótico o droga enervante, salvo que exista prescripción suscrita por médico titulado y que el trabajador lo hubiera exhibido y hecho del conocimiento de su superior jerárquico.
+
+III. El trabajador se ocasiona intencionalmente una incapacidad o lesión por sí o de acuerdo con otra persona.
+
+IV. La incapacidad o siniestro es el resultado de alguna riña o intento de suicidio.
+
+V. El siniestro es resultado de un delito intencional del que fuera responsable el trabajador asegurado.
+
+Los compromisos económicos que puedan derivarse de riesgos de trabajo que sufran los servidores públicos en el desempeño de su labor, serán cubiertos por el Instituto con la aportación respectiva, establecida en la fracción III del artículo 8 de esta ley, que es a cargo exclusivo de la entidad pública correspondiente.
 
 ###### Artículo 23.
 
@@ -1452,3 +1496,11 @@ D.O. 9 DE DICIEMBRE DE 2020.
 Artículo único. Entrada en vigor.
 
 El presente decreto entrará en vigor 180 días después de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DE "DECRETO 355/2021 POR EL QUE SE MODIFICA LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARÁCTER ESTATAL, EN MATERIA DE MEJORAMIENTO DE LAS CONDICIONES LABORALES ANTE UNA CRISIS SANITARIA".]
+
+Artículo único. Entrada en vigor.
+
+Este decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
