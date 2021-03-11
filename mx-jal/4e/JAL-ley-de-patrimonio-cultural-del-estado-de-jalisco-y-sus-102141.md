@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-patrimonio-cultural-del-estado-de-jalisco-y-sus-102141"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-26"
-last_updated: "2019-11-26"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2021.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 26 de agosto de 2014.
 
@@ -157,7 +157,9 @@ a) Inmuebles de valor histórico ambiental construidos antes de 1900; e
 
 b) Inmuebles de valor artístico ambiental construidos después de 1900;
 
-IV. Zonas de protección, que se dividen en:
+> <small>(REFORMADO ESTE PÁRRAFO, P.O. 11 DE MARZO DE 2021)</small>
+
+IV. Zonas de protección, se dividen en:
 
 a) Áreas de Valor Natural: Las formaciones geológicas, orográficas, topográficas o sus elementos biológicos, o grupos de esta clase de formaciones que tengan una importancia especial desde el punto de vista de la ciencia o de las obras conjuntas del hombre y de la naturaleza, que por sus características intrínsecas, constituyan por sí mismos conjuntos de relevancia estética, considerando como parte de este patrimonio a las áreas naturales protegidas de competencia estatal y municipal, los humedales y los corredores biológicos ubicados dentro del Estado de Jalisco;
 
@@ -167,7 +169,9 @@ c) Áreas Típicas: Las ciudades, pueblos, barrios, colonias o parte de ellos, q
 
 d) Centros Históricos: Las áreas que delimitan los espacios urbanos donde se originaron los centros de población; y
 
-e) Lugares Sagrados: Los sitios que en el proceso de desarrollo histórico y cultural de los pueblos indígenas o de grupos sociales, adquieren una significación que los califica como elementos relevantes de su esencia y cosmovisión particular;
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2021)</small>
+
+e) Lugares Sagrados: Los sitios que en el proceso de desarrollo histórico y cultural de los pueblos indígenas, de grupos sociales y comunidades afromexicanas, cualquiera que sea su autodenominación, adquieren una significación que los califica como elementos relevantes de su esencia y cosmovisión particular.
 
 V. Manifestaciones inmateriales, conforme a los siguientes ámbitos:
 
@@ -261,7 +265,9 @@ IV. Postular ante instancias nacionales e internacionales el reconocimiento de b
 
 V. Celebrar convenios de coordinación y colaboración con autoridades federales y municipales, con el fin de cumplir con el objeto de la presente Ley;
 
-VI. Promover y difundir las manifestaciones de la cultura local y la de los grupos indígenas asentados en el territorio del Estado;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+VI. Promover y difundir los (sic) manifestaciones de la cultura local y lo (sic) de los grupos indígenas y comunidades afromexicanas, cualquiera que sea su autodenominación asentados (sic) en el territorio del Estado.
 
 VII. Coadyuvar con los municipios en la implementación de acciones de salvaguarda de bienes y zonas de protección que integran su Patrimonio Cultural; y
 
@@ -373,7 +379,9 @@ IV. Auxiliar a los inspectores de zonas de protección o monumentos arqueológic
 
 V. Negar cualquier licencia de obra, sobre las colindancias o las zonas de protección o monumentos arqueológicos, históricos o artísticos, sin la previa autorización de la dependencia federal competente;
 
-VI. Promover de manera conjunta, la organización de las asociaciones civiles y vecinales o en su caso, a la unión de campesinos y comunidades indígenas para que sean considerados como órganos auxiliares para impedir el saqueo arqueológico e histórico, así como establecer museos regionales; e
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+VI. Promover de manera conjunta, la organización de las asociaciones civiles y vecinales o en su caso, a la unión de campesinos, comunidades indígenas y comunidades afromexicanas, cualquiera que sea su autodenominación, para que sean considerados como órganos auxiliares poro (sic) impedir el soqueo arqueológico e histórico, así como establecer museos regionales; e
 
 VII. Intervenir cuando se presuma daño, saqueo, deterioro o destrucción de los monumentos arqueológicos, debiendo en su caso, hacerlo del conocimiento de la autoridad competente en la mayor brevedad posible.
 
@@ -954,3 +962,9 @@ P.O. 26 DE NOVIEMBRE DE 2019.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 Artículo Segundo.- El titular del Poder Ejecutivo del Estado deberá llevar a cabo las adecuaciones reglamentarias y disposiciones internas necesarias para efectos de dar cumplimiento en lo establecido en el presente decreto, dentro de un plazo de noventa días contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28304/LXII/21 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMA EL INCISO E) DE LA FRACCIÓN IV DEL ARTÍCULO 8, LA FRACCIÓN VI DEL ARTÍCULO 12, Y LA FRACCIÓN VI Y LA FRACCIÓN (SIC) DEL ARTÍCULO 17 DE LA LEY DE PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
