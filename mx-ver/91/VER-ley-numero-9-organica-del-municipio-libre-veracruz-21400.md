@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2021-01-11"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE MARZO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -455,9 +455,9 @@ II. Recaudar y administrar en forma directa y libre los recursos que integren la
 
 III. Recibir las participaciones federales, que serán cubiertas a los municipios con arreglo a las bases, montos y plazos que anualmente determine el Congreso del Estado;
 
-> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE MARZO DE 2021)</small>
 
-IV. Elaborar, aprobar, ejecutar, evaluar, actualizar y publicar el Plan Municipal de Desarrollo, de conformidad con la ley de la materia en los términos que la misma establezca e incorporando en el documento los principios de igualdad y no discriminación establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado de Veracruz de Ignacio de la Llave, así como lo previsto en los tratados internacionales en materia de derechos humanos.
+IV. Elaborar, aprobar, ejecutar, evaluar, actualizar y publicar el Plan Municipal de Desarrollo, de conformidad con la ley de la materia en los términos que la misma establezca e incorporando en el documento los principios de protección integral e interés superior de niñas, niños y adolescentes, igualdad y no discriminación, establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, así como lo previsto en los tratados internacionales en materia de derechos humanos;
 
 > <small>(ADICIONADO, G.O. 18 DE NOVIEMBRE DE 2020)</small>
 
@@ -497,9 +497,9 @@ XVI. Acordar el régimen de seguridad social de los servidores públicos municip
 
 XVII. Promover el desarrollo del personal estableciendo los términos y condiciones para crear el servicio civil de carrera;
 
-> <small>(REFORMADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-XVIII. Capacitar a los servidores públicos de los diversos niveles y áreas de la administración pública municipal, a los Agentes y Subagentes Municipales, y Comisario Municipal, así como a los Jefes de Manzana.
+XVIII. Capacitar a los servidores públicos de los diversos niveles y áreas de la administración pública municipal, a los Agentes y Subagentes Municipales, y Comisario Municipal, así como a los Jefes de Manzana, para el ejercicio de sus respectivas funciones, incorporándoles para ello conocimientos sobre el respeto de los derechos humanos, el interés superior de la niñez y la igualdad sustantiva;
 
 > <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2020)</small>
 
@@ -629,15 +629,21 @@ XLVIII. Promover entre los habitantes del Municipio el conocimiento, respeto y d
 
 XLIX. Determinar y expedir los indicadores de desempeño; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 27 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE MARZO DE 2021)</small>
 
-L. Las demás que expresamente le confieran esta ley y demás leyes del Estado.
+L. Aprobar el Programa Municipal de Protección de Niñas, Niños y Adolescentes que le proponga el Sistema Municipal de Protección Integral; fortalecer la estructura y coadyuvar en la operación tanto de la Secretaría Ejecutiva de dicho Sistema, así como de la Procuraduría Municipal de Protección, ambas, de niñas, niños y adolescentes, en los términos previstos en la legislación de la materia y demás disposiciones aplicables, y
+
+(REPUBLICADA Y REUBICADA, G.O. 11 DE MARZO DE 2021)
+
+LI. Las demás que expresamente le confieran esta ley y demás leyes del Estado.
 
 ### CAPÍTULO IV. DEL PRESIDENTE MUNICIPAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 36.
 
-Son atribuciones del Presidente Municipal:
+Son atribuciones de la Presidenta o Presidente Municipal:
 
 I. Convocar a las sesiones del Ayuntamiento;
 
@@ -715,9 +721,13 @@ XXVII. Vigilar y cumplir el uso de indicadores de desempeño; y
 
 XXVIII. Procurar la participación paritaria entre mujeres y hombres en cargos públicos de Directora o Director General, Directora o Director de Área, de las dependencias centralizadas o de los organismos descentralizados de la administración pública municipal. El seguimiento y vigilancia al cumplimiento de esta atribución estará a cargo de la Comisión Edilicia para la Igualdad de Género; y
 
-> <small>(REFORMADA, G.O. 13 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE MARZO DE 2021)</small>
 
-XXIX. Las demás que expresamente le confieran esta Ley y otras Leyes del Estado.
+XXIX. Garantizar la debida instalación, integración y operación del Sistema Municipal de Protección Integral de Niñas, Niños y Adolescentes, de su Secretaría Ejecutiva y de la Procuraduría Municipal de Protección, en los términos establecidos en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Veracruz de Ignacio de la Llave, y
+
+> <small>(REFORMADA Y REUBICADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXX. Las demás que expresamente le confieran esta Ley y demás leyes del Estado.
 
 ### CAPÍTULO V. DEL SÍNDICO
 
@@ -1495,11 +1505,13 @@ I. Garantizar el ejercicio pleno del interés superior de la niñez previsto en 
 
 II. Promover y realizar acciones encaminadas al respeto de los derechos humanos de las niñas, niños y adolescentes, a través de la vinculación interinstitucional y la sociedad civil;
 
-III. Promover y destinar mayores recursos orientados a políticas públicas y acciones a favor de los derechos de niñas, niños y adolescentes;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2018)</small>
+III. Promover la planeación del Desarrollo Municipal bajo el principio del interés superior de la niñez, y destinar mayores recursos orientados a los programas, políticas públicas y acciones de protección integral, procuración y restitución de los derechos de niñas, niños y adolescentes;
 
-IV. Realizar un diagnóstico municipal sobre la situación de la niñez y la adolescencia en el Municipio, que pueda orientar en la cuantificación de la violencia, o cualquier tipo de maltrato físico o psicológico, exclusión, distinción, restricción o cualquier tipo de discriminación que tenga por objeto menoscabar o anular el reconocimiento, goce o ejercicio pleno de derechos humanos de las niñas, niños y adolescentes, donde se ponga especial énfasis en las personas menores en situación de mayor riesgo o vulnerabilidad de manera urgente; y
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+IV. Coadyuvar y fortalecer a la Secretaría Ejecutiva del Sistema Municipal de Protección Integral de Niñas, Niños y Adolescentes, para la realización del diagnóstico sobre la situación del cumplimiento y observancia de los derechos de la niñez y la adolescencia en el Municipio, a que se refiere el Capítulo VII del Título Quinto de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Veracruz de Ignacio de la Llave, el cual servirá como base para la elaboración del Programa Municipal de Protección de Niñas, Niños y Adolescentes, en los términos de la misma legislación;
 
 V. Coadyuvar en la detección y orientación de denuncia en materia de trata de personas, en específico, lo referente a niñas, niños y adolescentes observando en todo momento los principios rectores, entre ellos el interés superior de la niñez.
 
@@ -1905,9 +1917,13 @@ XXIV. Cumplir con los indicadores de desempeño del ámbito de su competencia y 
 
 XXV. Etiquetar en el presupuesto municipal recursos para la operación o ejecución del Instituto Municipal de las Mujeres, para el Plan Municipal para la Igualdad; así como para contribuir, en su caso, al sostenimiento de los Cuerpos de Bomberos que corresponda según su regionalización y de acuerdo a su capacidad presupuestal; y
 
-> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE MARZO DE 2021)</small>
 
-XXVI. Las demás que expresamente le confieran esta Ley y otras aplicables.
+XXVI. Etiquetar en el presupuesto municipal recursos para la operación de la Secretaría Ejecutiva del Sistema Municipal de Protección Integral y de la Procuraduría Municipal de Protección, así como para la ejecución del Programa Municipal de Protección, todos, de Niñas, Niños y Adolescentes, los cuales serán de realización progresiva, en los términos de las disposiciones legislativas en la materia; y
+
+(REPUBLICADA Y REUBICADA, G.O. 11 DE MARZO DE 2021)
+
+XXVII. Las demás que expresamente le confieran esta Ley y otras aplicables.
 
 ###### Artículo 73.
 
@@ -4480,3 +4496,15 @@ G.O. 11 DE ENERO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan el presente Decreto.
+
+G.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECERETO NÚMERO 837 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA EL FORTALECIMIENTO DE LOS SISTEMAS MUNICIPALES DE PROTECCIÓN A NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, contarán con un plazo de ciento ochenta días contado a partir de que entre en vigor el presente Decreto, para realizar las adecuaciones reglamentarias y normativas necesarias, que se deriven del mismo.
+
+TERCERO. La obligación de elaborar, aprobar y ejecutar los Programas Municipales de Protección a Niñas, Niños y Adolescentes, en los términos del presente Decreto, será aplicable para todos los Ayuntamientos que entren en funciones a partir del día primero de enero del año dos mil veintidós, y deberán considerarse en el marco de sus respectivos Planes Municipales de Desarrollo.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
