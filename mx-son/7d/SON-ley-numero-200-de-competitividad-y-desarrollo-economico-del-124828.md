@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-200-de-competitividad-y-desarrollo-economico-del-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-27"
-last_updated: "2021-03-01"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 200 DE COMPETITIVIDAD Y DESARROLLO ECONÓMICO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MARZO DE 2021.
 
 Ley publicada en la Sección X al Número 43 del Boletín Oficial del Estado de Sonora, el lunes 27 de noviembre de 2017.
 
@@ -133,9 +133,65 @@ La Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacu
 
 El Ejecutivo del Estado y los ayuntamientos deberán prever en sus correspondientes presupuestos de egresos los recursos necesarios para la promoción e incentivar el desarrollo económico y la competitividad del Estado y de los municipios.
 
-### CAPÍTULO II. DEL FONDO PARA LA PROMOCIÓN Y EL FONDO PARA INCENTIVAR EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE MARZO DE 2021)</small>
 
-### CAPÍTULO III. DE LA PARTICIPACIÓN DE LOS AYUNTAMIENTOS EN LA PROMOCIÓN Y DESARROLLO ECONÓMICO
+### CAPÍTULO I BIS. DEL PROGRAMA CRECE MIPYME
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTÍCULO 5° BIS.- Se crea el programa CRECE MIPYME, a través del cual la Secretaría impulsará, mediante capacitaciones, la comercialización de las micros, pequeñas y medianas empresas, con el establecimiento de una cultura que fortalezca a éstas en las áreas de administración y finanzas, propiciando el otorgamiento de financiamiento en igualdad de oportunidades a mujeres y hombres, el mejoramiento de su imagen y productos, así como otorgándoles un impulso en el uso de las herramientas tecnológicas y digitales.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTÍCULO 5° BIS 1.- El programa CRECE MIPYME, tiene como objetivos los siguientes:
+
+a) Brindar a las MIPYMES una ventaja competitiva basada en la adquisición de conocimientos que les permita ser más eficientes.
+
+b) Generar en las MIPYMES la implementación de herramientas derivadas de las tecnologías de la información que les permita reducir costos de producción, capital y administración.
+
+c) Expandir la base de clientes de las MIPYMES, a través de la implementación de herramientas informáticas.
+
+d) Impulsar el desarrollo de las MIPYMES mediante la implementación de herramientas basadas en las tecnologías de la información, que propicien la distribución, venta, compra, marketing y suministro de información de productos o servicios.
+
+e) Propiciar el incremento en ventas en las MIPYMES.
+
+f) Generar un aumento en la competitividad de las MIPYMES.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTÍCULO 5° BIS 2.- Los beneficios que ofrece el programa CRECE MIPYME, consisten en lo siguiente:
+
+a) Capacitación que brinde a las MIPYMES Sonorenses, los conocimientos y herramientas necesarias para mejorar su competitividad, así como, fortalecer sus procesos internos y aumentar sus ventas.
+
+b) Financiamiento a través de FIDESON.
+
+c) Apoyo tecnológico para los emprendedores y empresarios que deseen conocer opciones y alternativas tecnológicas para su empresa, esto con el fin de reinventarse mediante el uso de las TICS y su implementación, en el afán de una mejora para el desempeño de sus procesos organizacionales.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTÍCULO 5° BIS 3.- El programa se encuentra dirigido a las personas emprendedores y MIPYMES Sonorenses, atendiendo a perspectiva de género e impulsando en todo momento la igualdad entre mujeres y hombres.
+
+La Secretaría establecerá los lineamientos respectivos para la inscripción de quienes deseen registrarse en dicho programa.
+
+Los criterios de financiamiento serán establecidos por FIDESON, bajo la modalidad CRECE
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTÍCULO 5° BIS 4.- El programa CRECE MIPYME constará de cuatro módulos, mismos que deben de ser completados para poder acceder al esquema de financiamiento bajo la modalidad CRECE otorgado por FIDESON. Será requisito indispensable el cumplir con los requisitos de financiamiento establecidos por el FIDESON.
+
+Los módulos a desarrollar por la Secretaría serán los siguientes:
+
+1. Administración y finanzas.
+
+2. Financiamiento.
+
+3. Imagen empresa-producto.
+
+4. Impulso y fortalecimiento tecnológico.
+
+La Secretaría desarrollará el contenido de cada uno de estos módulos.
+
+### CAPÍTULO II. DEL FONDO PARA LA PROMOCIÓN Y EL FONDO PARA INCENTIVAR EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD
 
 ###### ARTÍCULO 6º.
 
@@ -153,7 +209,7 @@ El fondo se formará con los recursos señalados en el Presupuesto de Egresos de
 
 Estos recursos serán ejercidos y administrados por el Organismo, los cuales se destinarán al otorgamiento, en el ámbito Estatal, de los incentivos no fiscales a que se refiere la fracción I y IV del inciso B del artículo 18 de esta Ley, en los términos de la misma.
 
-### CAPÍTULO IV. DE LOS CONSEJOS CONSULTIVOS REGIONALES PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD
+### CAPÍTULO III. DE LA PARTICIPACIÓN DE LOS AYUNTAMIENTOS EN LA PROMOCIÓN Y DESARROLLO ECONÓMICO
 
 ###### ARTÍCULO 8°.
 
@@ -171,7 +227,7 @@ Los ayuntamientos podrán crear comisiones o consejos municipales como órganos 
 
 Los ayuntamientos podrán celebrar convenios con las autoridades estatales y federales, el Organismo, así como con inversionistas o empresas, para promover el desarrollo de las actividades y proyectos productivos de estos últimos, en los que se determinará el monto de los recursos que deberán aportar las partes para tal fin.
 
-### CAPÍTULO V. DE LOS INCENTIVOS PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD
+### CAPÍTULO IV. DE LOS CONSEJOS CONSULTIVOS REGIONALES PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD
 
 ###### ARTÍCULO 12.
 
@@ -269,7 +325,7 @@ El Secretario Técnico tendrá la función de redactar y levantar el acta que co
 
 La Secretaría apoyará a la instalación de cada Consejo Consultivo y proporcionará los medios necesarios para su funcionamiento.
 
-### CAPÍTULO VI. DE LA INFRAESTRUCTURA ESTRATÉGICA
+### CAPÍTULO V. DE LOS INCENTIVOS PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD
 
 ###### ARTÍCULO 18.
 
@@ -547,7 +603,7 @@ El Organismo, a solicitud de los inversionistas o empresarios, gestionará a fav
 
 El Organismo podrá celebrar convenios con las autoridades federales, dependencias y entidades estatales o municipales involucradas en el desarrollo económico y la competitividad y los inversionistas o empresarios, los cuales tendrán como finalidad el desarrollo de proyectos o programas relacionados con el cumplimiento del objeto de la presente Ley, en los que se determinará el monto de los recursos que deberán aportar cada una de las partes para tal fin.
 
-### CAPÍTULO VII. DEL CUIDADO Y PRESERVACIÓN DEL MEDIO AMBIENTE
+### CAPÍTULO VI. DE LA INFRAESTRUCTURA ESTRATÉGICA
 
 ###### ARTÍCULO 34.
 
@@ -577,7 +633,7 @@ IX.- Recintos fiscalizados estratégicos; y
 
 X.- El recurso agua.
 
-### CAPÍTULO VIII. DEL COMERCIO EXTERIOR
+### CAPÍTULO VII. DEL CUIDADO Y PRESERVACIÓN DEL MEDIO AMBIENTE
 
 ###### ARTÍCULO 36.
 
@@ -589,7 +645,7 @@ II.- Que el desarrollo económico e industrial del Estado de Sonora, no comprome
 
 III.- Que se garantice que el desarrollo económico del Estado satisfaga las necesidades del presente, sin comprometer la capacidad de las generaciones futuras para atender sus propias necesidades.
 
-### CAPÍTULO IX. DE LA INFORMACIÓN ESTADÍSTICA
+### CAPÍTULO VIII. DEL COMERCIO EXTERIOR
 
 ###### ARTÍCULO 37.
 
@@ -607,7 +663,7 @@ La Secretaría, empleando servicios de información, asesoría técnica y de cap
 
 La Secretaría impulsará a las empresas con potencial de exportación, aprovechando los estímulos que se establecen en esta Ley, para que se integren a cadenas productivas, substituyan importaciones y puedan convertirse en proveedores.
 
-### CAPÍTULO X. DE LAS VISITAS DE VERIFICACIÓN
+### CAPÍTULO IX. DE LA INFORMACIÓN ESTADÍSTICA
 
 ###### ARTÍCULO 41.
 
@@ -623,7 +679,7 @@ Las dependencias y entidades de la Administración Pública Estatal vinculadas c
 
 La Secretaría podrá celebrar convenios de coordinación y colaboración con entes públicos, dependencias y entidades del Gobierno federal, de otras entidades federativas y de los municipios, así como con instituciones académicas y con los sectores privado y social, para promover su participación en la generación y difusión de la información estadística de Sonora.
 
-### CAPÍTULO XI. DE LA EXTINCIÓN DE LOS INCENTIVOS
+### CAPÍTULO X. DE LAS VISITAS DE VERIFICACIÓN
 
 ###### ARTÍCULO 44.
 
@@ -639,7 +695,7 @@ Las visitas de inspección o verificación que realicen las autoridades antes me
 
 Para la práctica de visitas de inspección o verificación para comprobar el cumplimiento de las disposiciones legales y reglamentarias que emanen de esta Ley, se estará a lo dispuesto en el Capítulo IX del Título Tercero de la Ley de Procedimiento Administrativo del Estado de Sonora, esta Ley y su Reglamento.
 
-### CAPÍTULO XII. DEL RECURSO
+### CAPÍTULO XI. DE LA EXTINCIÓN DE LOS INCENTIVOS
 
 ###### ARTÍCULO 46.
 
@@ -717,6 +773,8 @@ La autoridad competente, para el otorgamiento de incentivos no fiscales a que se
 
 Cuando el inversionista o el empresario deje de reunir alguno de los requisitos o incumpla alguna de las obligaciones establecidas en las disposiciones jurídicas fiscales para gozar de los incentivos fiscales otorgados, la autoridad fiscal respectiva procederá, en su caso, de conformidad con lo dispuesto en la legislación fiscal aplicable, al cobro de los impuestos o derechos, así como sus accesorios que, indebidamente, hubiesen dejado de pagarse.
 
+### CAPÍTULO XII. DEL RECURSO
+
 ###### ARTÍCULO 56.
 
 Las resoluciones que se dicten en las que se cancelen los incentivos no fiscales a los que se refiere la presente Ley, podrán ser impugnadas por los afectados, mediante el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo del Estado de Sonora.
@@ -790,3 +848,11 @@ El Registro de Apertura de Confianza se creará en un plazo máximo de 60 días 
 ###### ARTÍCULO TERCERO.
 
 Los convenios de colaboración correspondientes se celebrarán dentro de los 30 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+B.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 181, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE COMPETITIVIDAD Y DESARROLLO ECONÓMICO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
