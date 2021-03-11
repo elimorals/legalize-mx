@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-128
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-03"
-last_updated: "2020-07-22"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE MARZO DE 2021.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 3 de diciembre de 1987.
 
@@ -347,7 +347,9 @@ Son obligaciones de los Titulares a que se refiere el artículo 1 de esta Ley.
 
 I.- Preferir, en igualdad de condiciones de conocimientos, aptitudes y de antigüedad, a los trabajadores sindicalizados respecto de quienes no lo estuvieren; a los que representen única fuente de ingresos familiares; a los que con anterioridad les hubieren prestado servicios y a los que acrediten tener mejores derechos escalafonarios.
 
-II.- Cumplir con todos los servicios de higiene y de prevención de accidentes a que están obligados los patrones en general.
+> <small>(REFORMADA, D.O. 11 DE MARZO DE 2021)</small>
+
+II.- Cumplir con todas las obligaciones de Seguridad y Salud en el trabajo, así como la prevención de riesgos de trabajo a que están obligados los patrones en general, establecidos en la Ley Federal del Trabajo, en las Normas Oficiales Mexicanas de la materia y en las Normas Internacionales del Trabajo que hayan sido ratificadas por el Estado Mexicano.
 
 III.- En los casos de supresión de plaza, los trabajadores afectados tendrán derecho a que se les conceda otra equivalente en categoría y sueldo.
 
@@ -388,6 +390,10 @@ e).- Por razones de carácter personal del trabajador.
 IX.- Hacer las deducciones en los salarios que soliciten los Sindicatos respectivos, siempre que se ajusten a los términos de esta Ley.
 
 X.- Integrar los expedientes de los trabajadores y remitir los informes que se les solicite para el trámite de las prestaciones sociales, dentro de los términos que señalen los ordenamientos respectivos.
+
+> <small>(ADICIONADA, D.O. 11 DE MARZO DE 2021)</small>
+
+XI.- Conformar en cada Dependencia, de acuerdo a las Normas Oficiales Mexicanas de la materia, las comisiones Mixtas de Seguridad e Higiene en el Trabajo.
 
 ### CAPITULO V. OBLIGACIONES DE LOS TRABAJADORES
 
@@ -855,15 +861,31 @@ IV.- Por laudo de la persona o del Tribunal, que a solicitud de las partes y con
 
 Para garantizar la estabilidad de las Instituciones, la conservación de las instalaciones o evitar el peligro que signifique para la salud pública la suspensión de labores, al declararse legal la huelga, el Tribunal, a petición de las Autoridades correspondientes y con base en las pruebas presentadas, fijará el número de trabajadores que los huelguistas estarán obligados a mantener en el desempeño de sus labores.
 
-## TITULO QUINTO
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 11 DE MARZO DE 2021)</small>
 
-DE LOS RIESGOS PROFESIONALES Y DE LAS ENFERMEDADES NO PROFESIONALES.
+## TITULO QUINTO. DE LOS RIESGOS DE TRABAJO Y DE LAS ENFERMEDADES NO PROFESIONALES
 
 ### CAPITULO I
 
+> <small>(REFORMADO, D.O. 11 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 109.
 
-Los riesgos profesionales que sufran los trabajadores se regirán por las disposiciones de la Ley de Seguridad Social para los Servidores Público (sic) del Estado de Yucatán, de sus Municipios y de los Organismos Públicos Coordinados y Descentralizados de carácter Estatal y de la Ley Federal del Trabajo en su caso.
+Los riesgos de trabajo que sufran los trabajadores se regirán por las disposiciones de la Ley de Seguridad Social para los Servidores Público (sic) del Estado de Yucatán, de sus Municipios y de los Organismos Públicos Coordinados y Descentralizados de carácter Estatal y de la Ley Federal del Trabajo en su caso.
+
+Los riesgos de trabajo son los accidentes y enfermedades a que están expuestos los trabajadores en ejercicio o con motivo del trabajo.
+
+Accidente de trabajo es toda lesión orgánica o perturbación funcional, inmediata o posterior; la muerte o la desaparición derivada de un acto delincuencial, producida repentinamente en ejercicio o con motivo del trabajo, cualesquiera que sean el lugar y el tiempo en que este se preste. Quedan incluidos en la definición anterior los accidentes que se produzcan al trasladarse el trabajador directamente de su domicilio al lugar del trabajo o de la estancia de bienestar infantil de sus hijos, al lugar en que desempeñe su trabajo o viceversa.
+
+Enfermedad de trabajo es toda aquella ocasionada por agentes biológicos en el trabajo cuando se haya establecido un vínculo directo entre la exposición a dichos agentes biológicos que resulte de las actividades laborales y la enfermedad contraída por el trabajador. En caso de contingencia sanitaria ocasionada por una nueva enfermedad, para los trabajadores que por disposición de las autoridades deban continuar acudiendo a sus centros de trabajo y se contagien de dicha enfermedad, el trabajador deberá probar que dicha enfermedad la adquirió en el desempeño de sus labores, salvo pruebas concluyentes en contrario.
+
+> <small>(ADICIONADO, D.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 109 BIS.- En cada Dependencia se conformarán de acuerdo a las normas oficiales mexicanas de la materia, las Comisiones Mixtas de Seguridad e Higiene en el Trabajo, compuestas por igual número de representantes de los trabajadores y de las Dependencias, para investigar las causas de los accidentes y enfermedades, proponer medidas para prevenirlos y vigilar que se cumplan. Las comisiones a que se refiere este párrafo, serán desempeñadas gratuitamente dentro de las horas de trabajo.
+
+En las Dependencias que cuenten con Sindicato, estos podrán proponer sus representantes ante la Comisión Mixta de Seguridad e Higiene en el Trabajo, serán nombrados por el Sindicato que tenga el mayor número de trabajadores de una dependencia registrados en su padrón de socio. En caso de conflicto entre sindicatos sobre quien cuenta con la mayoría, los titulares de las Dependencias realizarán un cotejo de las listas de socios que se encuentren registradas en el Tribunal de los Trabajadores al Servicio del Estado y Municipios de Yucatán, para decidir a quién le corresponde el derecho de nombrar a los representantes.
+
+Los representantes de las Dependencias, serán nombrados por los titulares de las mismas.
 
 ###### ARTICULO 110.
 
@@ -1408,3 +1430,11 @@ D.O. 22 DE JULIO DE 2020.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 11 DE MARZO DE 2021.
+
+[N. DE. E. TRANSITORIO DEL "DECRETO 355/2021 POR EL QUE SE MODIFICA LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARÁCTER ESTATAL, EN MATERIA DE MEJORAMIENTO DE LAS CONDICIONES LABORALES ANTE UNA CRISIS SANITARIA".]
+
+Artículo único. Entrada en vigor.
+
+Este decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
