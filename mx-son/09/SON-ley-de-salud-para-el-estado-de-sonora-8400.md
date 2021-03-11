@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2021-03-01"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MARZO DE 2021.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -193,13 +193,45 @@ I. El Gobernador del Estado;
 
 II. La Secretaría de Salud Pública del Estado;
 
-> <small>(REFORMADA, B.O. 10 DE MARZO DE 1997)</small>
+> <small>(REFORMADA, B.O. 11 DE MARZO DE 2021)</small>
 
-III. Los Servicios de Salud de Sonora; y
+III. Los Servicios de Salud de Sonora;
 
-> <small>(ADICIONADA, B.O. 10 DE MARZO DE 1997)</small>
+> <small>(REFORMADA, B.O. 11 DE MARZO DE 2021)</small>
 
-IV. Los ayuntamientos, en la esfera de su jurisdicción.
+IV. Los ayuntamientos, en la esfera de su jurisdicción; y
+
+> <small>(ADICIONADA, B.O. 11 DE MARZO DE 2021)</small>
+
+V. El Consejo Estatal de Salud.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 5o BIS.- El Consejo Estatal de Salud es un órgano colegiado, el cual tiene por objeto diseñar, aprobar y coordinar la ejecución, control y evaluación de políticas públicas para el óptimo funcionamiento del Sistema de Salud en Sonora y se integrará por:
+
+I.- El Gobernador del Estado de Sonora, quien lo presidirá;
+
+II.- El Secretario de Salud del Estado de Sonora, quien ejercerá las funciones de Secretario Ejecutivo;
+
+III.- Los siguientes Consejeros:
+
+a). El presidente de la Comisión de Salud del Congreso del Estado;
+
+b). Un representante de la Secretaría de Salud Federal;
+
+c). Un representante del Instituto Mexicano del Seguro Social;
+
+d). Un representante del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora (ISSSTESON);
+
+e). Un representante de la Comisión Contra Riesgos Sanitarios del Estado de Sonora;
+
+f). El Director del Hospital General del Estado;
+
+g). Un representante del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE);
+
+h). Un representante de la Secretaría de Seguridad Pública del Estado de Sonora; y
+
+IV.- Un representante de la Secretaría de la Defensa Nacional, con el carácter de Invitado.
 
 ###### ARTICULO 6o.
 
@@ -209,7 +241,13 @@ I. Secretaría de Salud, la Secretaría de Salud de la Administración Pública 
 
 II. Secretaría, la Secretaría de Salud Pública de la Administración Pública Estatal;
 
-III.- Ayuntamientos, los Ayuntamientos de los Municipios del Estado.
+> <small>(REFORMADA, B.O. 11 DE MARZO DE 2021)</small>
+
+III. Ayuntamientos, los Ayuntamientos de los Municipios del Estado; y
+
+> <small>(ADICIONADA, B.O. 11 DE MARZO DE 2021)</small>
+
+IV. Consejo, el Consejo Estatal de Salud.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -1779,6 +1817,210 @@ X.- Campañas de información sobre prevención y detección oportuna de cáncer
 
 ARTÍCULO 148 TER 5.- Las acciones de diagnóstico, tratamiento y rehabilitación integral serán las que determinen la Secretaría, de conformidad a lo establecido en la presente Ley, los lineamientos de operación del Programa y las normas oficiales correspondientes.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE MARZO DE 2021)</small>
+
+### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER.- El presente título tiene por objeto:
+
+I.- Salvaguardar la dignidad de los enfermos en situación terminal, para garantizar una vida de calidad a través de los cuidados y atenciones médicas, necesarios para ello;
+
+II.- Garantizar una muerte natural en condiciones dignas a los enfermos en situación terminal;
+
+III.- Establecer y garantizar los derechos del enfermo en situación terminal en relación con su tratamiento;
+
+IV.- Dar a conocer los límites entre el tratamiento curativo y el paliativo;
+
+V.- Determinar los medios ordinarios y extraordinarios en los tratamientos; y
+
+VI.- Establecer los límites entre la defensa de la vida del enfermo en situación terminal y la obstinación terapéutica.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 1.- Para los efectos de este Título, se entenderá por:
+
+I.- Enfermedad en estado terminal. A todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado y cuyo pronóstico de vida para el paciente sea menor a 6 meses;
+
+II.- Cuidados básicos. La higiene, alimentación e hidratación, y en su caso el manejo de la vía aérea permeable;
+
+III.- Cuidados Paliativos. Es el cuidado activo y total de aquéllas enfermedades que no responden a tratamiento curativo. El control del dolor, y de otros síntomas, así como la atención de aspectos psicológicos, sociales y espirituales;
+
+IV.- Enfermo en situación terminal. Es la persona que tiene una enfermedad incurable e irreversible y que tiene un pronóstico de vida inferior a seis meses;
+
+V.- Obstinación terapéutica. La adopción de medidas desproporcionadas o inútiles con el objeto de alargar la vida en situación de agonía;
+
+VI.- Medios extraordinarios. Los que constituyen una carga demasiado grave para el enfermo y cuyo perjuicio es mayor que los beneficios; en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
+
+VII.- Medios ordinarios. Los que son útiles para conservar la vida del enfermo en situación terminal o para curarlo y que no constituyen, para él una carga grave o desproporcionada a los beneficios que se pueden obtener;
+
+VIII.- Muerte natural. El proceso de fallecimiento natural de un enfermo en situación terminal, contando con asistencia física, psicológica y en su caso, espiritual; y
+
+IX. Tratamiento del dolor. Todas aquellas medidas proporcionadas por profesionales de la salud, orientadas a reducir los sufrimientos físicos y emocionales producto de una enfermedad terminal, destinadas a mejorar la calidad de vida.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 2.- Corresponde al Sistema Estatal de Salud garantizar el pleno, libre e informado ejercicio de los derechos que señalan esta Ley y demás ordenamientos aplicables, a los enfermos en situación terminal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE MARZO DE 2021)</small>
+
+## TITULO DECIMO BIS. DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN SITUACIÓN TERMINAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE MARZO DE 2021)</small>
+
+### CAPITULO II. DE LOS DERECHOS DE LOS ENFERMOS EN SITUACIÓN TERMINAL
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 3.- Los pacientes enfermos en situación terminal tienen los siguientes derechos:
+
+I.- Recibir atención médica integral;
+
+II.- Ingresar a las instituciones de salud cuando requiera atención médica;
+
+III.- Dejar voluntariamente la institución de salud en que esté hospitalizado, de conformidad a las disposiciones aplicables;
+
+IV.- Recibir un trato digno, respetuoso y profesional procurando preservar su calidad de vida;
+
+V.- Recibir información clara, oportuna y suficiente sobre las condiciones y efectos de su enfermedad y los tipos de tratamientos por los cuales puede optar según la enfermedad que padezca;
+
+VI.- Dar su consentimiento informado por escrito para la aplicación o no de tratamientos, medicamentos y cuidados paliativos adecuados a su enfermedad, necesidades y calidad de vida;
+
+VII.- Solicitar al médico que le administre medicamentos que mitiguen el dolor;
+
+VIII.- Renunciar, abandonar o negarse en cualquier momento a recibir o continuar el tratamiento que considere extraordinario;
+
+IX.- Optar por recibir los cuidados paliativos en un domicilio particular;
+
+X.- Designar, a algún familiar, representante legal o a una persona de su confianza, para el caso de que, con el avance de la enfermedad, esté impedido a expresar su voluntad, lo haga en su representación;
+
+XI.- A recibir los servicios espirituales, cuando lo solicite él, su familia, representante legal o persona de su confianza; y
+
+XII.- Los demás que las leyes señalen.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 4.- Toda persona mayor de edad, en pleno uso de sus facultades mentales, puede, en cualquier momento e independientemente de su estado de salud, expresar su voluntad por escrito ante dos testigos, de recibir o no cualquier tratamiento, en caso de que llegase a padecer una enfermedad y estar en situación terminal y no le sea posible manifestar dicha voluntad.
+
+Dicho documento podrá ser revocado en cualquier momento. Para que sea válida la disposición de voluntad referida en el párrafo anterior, deberá apegarse a lo dispuesto en la presente Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 5.- El paciente en situación terminal, mayor de edad y en pleno uso de sus facultades mentales, tiene derecho a la suspensión voluntaria del tratamiento curativo y como consecuencia al inicio de tratamiento estrictamente paliativo en la forma y términos previstos en esta Ley.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 6.- La suspensión voluntaria del tratamiento curativo supone la cancelación de todo medicamento que busque contrarrestar la enfermedad terminal del paciente y el inicio de tratamientos enfocados de manera exclusiva a la disminución del dolor o malestar del paciente.
+
+En este caso, el médico especialista en el padecimiento del paciente terminal interrumpe, suspende o no inicia el tratamiento, la administración de medicamentos, el uso de instrumentos o cualquier procedimiento que contribuya a la prolongación de la vida del paciente en situación terminal dejando que su padecimiento evolucione naturalmente.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 7.- El paciente en situación terminal que esté recibiendo los cuidados paliativos, podrá solicitar recibir nuevamente el tratamiento curativo, ratificando su decisión por escrito ante el personal médico correspondiente.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 8.- Si el enfermo en situación terminal es menor de edad, o se encuentra incapacitado para expresar su voluntad, las decisiones derivadas de los derechos señalados en este título, serán asumidos por los padres o el tutor y a falta de estos por su representante legal, persona de su confianza mayor de edad o juez de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 9.- Los cuidados paliativos se proporcionarán desde el momento en que se diagnostica el estado terminal de la enfermedad, por el médico especialista.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 10.- Los familiares del enfermo en situación terminal tienen la obligación de respetar la decisión que de manera voluntaria tome el enfermo en los términos de este título.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 11.- En casos de urgencia médica, y que exista incapacidad del enfermo en situación terminal para expresar su consentimiento, y en ausencia de familiares, representante legal, tutor o persona de confianza, la decisión de aplicar un procedimiento médico quirúrgico o tratamiento necesario, será tomada por el médico especialista y/o por el Comité de Bioética de la institución.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 12.- Todos los documentos a que se refiere este título se regirán de acuerdo a lo que se establezca en el reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 11 DE MARZO DE 2021)</small>
+
+### CAPITULO III. DE LAS FACULTADES Y OBLIGACIONES DE LAS INSTITUCIONES DE SALUD
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 13.- Las Instituciones del Sistema Estatal de Salud:
+
+I.- Ofrecerán el servicio para la atención debida a los enfermos en situación terminal;
+
+II.- Proporcionarán los servicios de orientación, asesoría y seguimiento al enfermo en situación terminal y o sus familiares o persona de confianza en el caso de que los cuidados paliativos se realicen en el domicilio particular;
+
+III.- De igual manera, en el caso de que los cuidados paliativos se realicen en el domicilio particular, la Secretaría pondrá en operación una línea telefónica de acceso gratuito para que se le oriente, asesore y dé seguimiento al enfermo en situación terminal o a sus familiares o persona de su confianza;
+
+IV.- Proporcionarán los cuidados paliativos correspondientes al tipo y grado de enfermedad, desde el momento del diagnóstico de la enfermedad terminal hasta el último momento;
+
+V.- Fomentarán la creación de áreas especializadas que presten atención a los enfermos en situación terminal; y
+
+VI.- Garantizarán la capacitación y actualización permanente de los recursos humanos para la salud, en materia de cuidados paliativos y atención a enfermos en situación terminal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE MARZO DE 2021)</small>
+
+### CAPITULO IV. DE LOS DERECHOS, FACULTADES Y OBLIGACIONES DE LOS MÉDICOS Y PERSONAL SANITARIO
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 14.- Los médicos tratantes y el equipo sanitario que preste los cuidados paliativos, para el mejor desempeño de sus servicios, deberán estar debidamente capacitados humana y técnicamente, por instituciones autorizadas para ello.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 15.- Los médicos especialistas en las instituciones de segundo y tercer nivel, tendrán las siguientes obligaciones:
+
+I.- Proporcionar toda la información que el paciente requiera, así como la que el médico considere necesaria para que el enfermo en situación terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados;
+
+II.- Pedir el consentimiento informado del enfermo en situación terminal, por escrito ante dos testigos, para los tratamientos o medidas a tomar respecto de la enfermedad terminal;
+
+III.- Informar oportunamente al enfermo en situación terminal, cuando el tratamiento curativo no dé resultados;
+
+IV.- Informar al enfermo en situación terminal, sobre las opciones que existan de cuidados paliativos;
+
+V.- Respetar la decisión del enfermo en situación terminal en cuanto al tratamiento curativo y cuidados paliativos, una vez que se le haya explicado en términos sencillos las consecuencias de su decisión;
+
+VI.- Garantizar que se brinden los cuidados básicos o tratamiento al paciente en todo momento;
+
+VII.- Procurar las medidas mínimas necesaria (sic) para preservar la calidad de vida de los enfermos en situación terminal;
+
+VIII.- Respetar y aplicar todas y cada una de las medidas y procedimientos para los casos que señala esta ley;
+
+IX.- Hacer saber al enfermo, de inmediato y antes de su aplicación, si el tratamiento a seguir para aliviar el dolor y los síntomas de su enfermedad tenga como posibles efectos secundarios disminuir el tiempo de vida;
+
+X.- Solicitar una segunda opinión a otro médico especialista, cuando su diagnóstico sea una enfermedad terminal; y
+
+XI.- Las demás que le señalen ésta y otras leyes.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 16.- Los médicos tratantes podrán suministrar fármacos paliativos a un enfermo en situación terminal, aun cuando con ello se pierda estado de alerta o se acorte la vida del paciente, siempre y cuando se suministren dichos fármacos paliativos con el objeto de aliviar el dolor del paciente.
+
+Podrán hacer uso, de ser necesario de acuerdo con lo estipulado en la presente Ley de analgésicos del grupo de los opioides, en estos casos será necesario el consentimiento del enfermo.
+
+En ningún caso se suministrarán tales fármacos con la finalidad de acortar o terminar la vida del paciente, en tal caso se estará sujeto a las disposiciones penales aplicables.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 17.- Los médicos tratantes, en ningún caso y por ningún motivo implementaran medios extraordinarios al enfermo en situación terminal, sin su consentimiento
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 18.- Para garantizar una vida de calidad y el respeto a la dignidad del enfermo en situación terminal, el personal médico no deberá aplicar tratamientos o medidas consideradas como obstinación terapéutica ni medios extraordinarios.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 19.- El personal médico que deje de proporcionar los cuidados básicos a los enfermos en situación terminal, será sancionado conforme lo establecido por las leyes aplicables.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 20.- El personal médico que, por decisión propia, deje de proporcionar cualquier tratamiento o cuidado sin el consentimiento del enfermo en situación terminal, o en caso que esté impedido para expresar su voluntad, el de su familia o persona de confianza, será sancionado conforme lo establecido por las leyes aplicables.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 148 QUATER 21.- Queda prohibida, la práctica de la eutanasia, entendida como homicidio por piedad así como el suicidio asistido conforme lo señala el Código Penal Federal, bajo el amparo de esta Ley. En tal caso, se estará a lo que señalan las disposiciones penales aplicables.
+
 ### CAPITULO UNICO
 
 ## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS ALCOHOLICAS Y NO ALCOHOLICAS
@@ -1823,22 +2065,6 @@ ARTÍCULO 154 BIS H.- La Secretaría de Salud Pública deberá proporcionar los 
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO I. DISPOSICIONES COMUNES
-
-> <small>(REFORMADO, B.O. 10 DE MARZO DE 1997)</small>
-
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
-
-### CAPITULO III. DE LOS ESTABLECIMIENTOS
-
-> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
-
-## TITULO DECIMO PRIMERO BIS. DONACIONES Y TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS Y PERDIDA DE LA VIDA EN SERES HUMANOS
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2003)</small>
-
-### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
-
 ###### ARTICULO 149.
 
 De conformidad con la norma técnica que expida la Secretaría de Salud, la Secretaría ejercerá el control sanitario de los establecimientos que expendan o suministren alimentos y bebidas alcohólicas y no alcohólicas en el Estado.
@@ -1875,17 +2101,23 @@ Corresponde a la autoridad municipal, con base en lo que dispongan los Bandos de
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2003)</small>
 
+## TITULO DECIMO PRIMERO BIS. DONACIONES Y TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS Y PERDIDA DE LA VIDA EN SERES HUMANOS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2003)</small>
+
+### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 1997)</small>
+
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+
+### CAPITULO III. DE LOS ESTABLECIMIENTOS
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+
 ## TITULO DÉCIMO SEGUNDO. SALUBRIDAD LOCAL
 
-### CAPITULO V. SERVICIO DE LIMPIA
-
-### CAPITULO VI. RASTROS
-
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
-
-## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
-
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
 
 ###### ARTICULO 155.
 
@@ -1955,9 +2187,7 @@ La autoridad sanitaria competente publicará en el Boletín Oficial del Gobierno
 
 Las notificaciones que conforme a esta ley deban publicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL Y CENTROS DE TRATAMIENTO Y DE APLICACION DE MEDIDAS PARA ADOLESCENTES
-
-> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+### CAPITULO V. SERVICIO DE LIMPIA
 
 ###### ARTICULO 162.
 
@@ -1977,7 +2207,7 @@ Los vendedores, locatarios y personas cuya actividad esté vinculada con los mer
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO X. BAÑOS Y ALBERCAS PUBLICOS
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 165.
 
@@ -2019,7 +2249,7 @@ Los propietarios o poseedores de los establecimientos están obligados a ejecuta
 
 (DEROGADO, B.O. 4 DE JUNIO DE 2009)
 
-### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 173.
 
@@ -2063,7 +2293,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a forestaci
 
 Los procedimientos de refrigeración, exhumación, cremación de cadáveres y embalsamamiento deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las normas técnicas que dicte la Secretaría.
 
-### CAPITULO XII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 179.
 
@@ -2103,7 +2333,9 @@ La autoridad municipal, proveerá de depósitos de basura en los parques, jardin
 
 Para toda la actividad relacionada con este Capítulo, se estará a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XIII. GASOLINERAS
+### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL Y CENTROS DE TRATAMIENTO Y DE APLICACION DE MEDIDAS PARA ADOLESCENTES
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 185.
 
@@ -2141,7 +2373,7 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios que de
 
 El sacrificio de animales en los rastros autorizados se efectuará en los días y horas que fije la autoridad municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dicha autoridad y la autoridad sanitaria para realizar las verificaciones necesarias.
 
-### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS PARA EL CUIDADO PERSONAL
+### CAPITULO X. BAÑOS Y ALBERCAS PUBLICOS
 
 ###### ARTICULO 193.
 
@@ -2183,9 +2415,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños, sean vertidos a ríos, acueductos, corrientes o canales por donde fluyan aguas destinadas a uso o consumo humano; en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPÍTULO XV. ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTAS
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE JUNIO DE 2013)</small>
+### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 202.
 
@@ -2219,7 +2449,7 @@ Las condiciones sanitarias que deban reunir los establecimiento (sic) a que se r
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO XVI. PROGRAMA CONTRA LA RABIA
+### CAPITULO XII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 207.
 
@@ -2243,17 +2473,7 @@ Los responsables de los reclusorios, centros de readaptación social y Centros d
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPÍTULO XVII. PROGRAMA CONTRA LA RICKETTSIOSIS Y LA ENFERMEDAD DE LYME
-
-> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 234 BIS.- La Secretaría y las autoridades municipales, llevarán a cabo un programa permanente en contra de la Rickettsiosis, también conocida como enfermedad de la Rickettsia, y en contra de la Enfermedad de Lyme, también conocida como Borreliosis, manteniendo campañas permanentes a través de talleres comunitarios impartidos por personal de la Secretaria de Salud, capacitado en materia de prevención y control de la Rickettsiosis o enfermedad de la Rickettsia, y de la enfermedad de Lyme, o Borreliosis.
-
-Los ayuntamientos con la asesoría y el apoyo técnico de las autoridades sanitarias, otorgarán información de cómo prevenir y controlar la Rickettsiosis o enfermedad de la Rickettsia, y la enfermedad de Lyme o Borreliosis, así como, la atención y el control de animales que presenten dichas problemáticas.
-
-> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 234 BIS 1.- Los propietarios de animales a que se refiere el artículo anterior, estarán obligado (sic) a brindarles la atención y cuidados de higiene necesarios, que permitan la eliminación o ausencia de piojos, pulgas o garrapatas que pueden ser trasmisores de la Rickettsiosis, también conocida como enfermedad de la Rickettsia, o de la enfermedad de Lyme, también conocida como Borreliosis.
+### CAPITULO XIII. GASOLINERAS
 
 ###### ARTICULO 211.
 
@@ -2275,7 +2495,7 @@ Para abrir al servicio público estos establecimientos deberá obtenerse licenci
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes que dicte la Secretaría.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS PARA EL CUIDADO PERSONAL
 
 ###### ARTICULO 214.
 
@@ -2293,7 +2513,9 @@ La autoridad sanitaria competente, una vez terminada la edificación del centro 
 
 El funcionamiento de los establecimientos a que se refiere el artículo 214 de esta ley, deberá sujetarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO XV. ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTAS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 217.
 
@@ -2311,9 +2533,7 @@ Para la construcción o acondicionamiento de un inmueble que se pretenda destina
 
 La autoridad sanitaria competente, expedirá las autorizaciones a que se refieren los artículos anteriores, cuando el solicitante haya satisfecho los requisitos que establece esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO III. CERTIFICADOS
-
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+### CAPITULO XVI. PROGRAMA CONTRA LA RABIA
 
 ###### ARTICULO 221.
 
@@ -2325,7 +2545,17 @@ Las gasolineras deberán contar con las instalaciones sanitarias y de seguridad 
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO XVII. PROGRAMA CONTRA LA RICKETTSIOSIS Y LA ENFERMEDAD DE LYME
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 234 BIS.- La Secretaría y las autoridades municipales, llevarán a cabo un programa permanente en contra de la Rickettsiosis, también conocida como enfermedad de la Rickettsia, y en contra de la Enfermedad de Lyme, también conocida como Borreliosis, manteniendo campañas permanentes a través de talleres comunitarios impartidos por personal de la Secretaria de Salud, capacitado en materia de prevención y control de la Rickettsiosis o enfermedad de la Rickettsia, y de la enfermedad de Lyme, o Borreliosis.
+
+Los ayuntamientos con la asesoría y el apoyo técnico de las autoridades sanitarias, otorgarán información de cómo prevenir y controlar la Rickettsiosis o enfermedad de la Rickettsia, y la enfermedad de Lyme o Borreliosis, así como, la atención y el control de animales que presenten dichas problemáticas.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 234 BIS 1.- Los propietarios de animales a que se refiere el artículo anterior, estarán obligado (sic) a brindarles la atención y cuidados de higiene necesarios, que permitan la eliminación o ausencia de piojos, pulgas o garrapatas que pueden ser trasmisores de la Rickettsiosis, también conocida como enfermedad de la Rickettsia, o de la enfermedad de Lyme, también conocida como Borreliosis.
 
 ###### ARTICULO 223.
 
@@ -2349,7 +2579,7 @@ Los instrumentos, aparatos, ropa y accesorios de uso público que se utilicen en
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], B.O. 27 DE JUNIO DE 2013)</small>
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 227.
 
@@ -2363,7 +2593,7 @@ Previo a las obras de edificación y a la obtención de licencias, permisos o au
 
 (DEROGADO, B.O. 4 DE JUNIO DE 2009)
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 230.
 
@@ -2389,11 +2619,13 @@ Queda prohibido poseer animales domésticos en aquellos edificios de condominios
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO III. CERTIFICADOS
 
-## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
+
+### CAPITULO UNICO
 
 ###### ARTICULO 235.
 
@@ -2469,7 +2701,7 @@ Las autorizaciones a que se refiere esta ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta ley, se regirán por lo que disponga la legislación fiscal.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 245.
 
@@ -2525,6 +2757,8 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiera la autorización revocada.
 
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
+
 ###### ARTICULO 253.
 
 Para los efectos de la (sic) esta Ley, se entiende por certificado, la constancia expedida en los términos que establezcan las autoridades sanitarias competentes o autorizadas a terceros para la comprobación o información de determinados hechos.
@@ -2565,7 +2799,9 @@ ARTICULO 256 BIS.- El certificado de descontaminación microbiana, se expedirá 
 
 Los certificados a que se refiere este Título, se extenderán en los modelos aprobados por la Secretaría de Salud y de conformidad con las normas técnicas que la misma emita.
 
-## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
+
+### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 258.
 
@@ -2689,6 +2925,10 @@ IV. Las irregularidades sanitarias detectadas y las violaciones a esta ley y dem
 
 En el supuesto de que el medio de comunicación social verificado sea la prensa u otra publicación, el informe de verificación deberá integrarse invariablemente con una copia de la parte relativa que contenga la publicidad donde se aprecie, además, el texto o mensaje publicitario, la denominación del periódico o publicación y su fecha.
 
+## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
+
 ###### ARTICULO 272.
 
 Se consideran medidas de seguridad aquellas disposiciones que dicten la Secretaría y los Municipios, en el ámbito de su competencia, y de conformidad con los preceptos de esta ley y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones, que en su caso, correspondieren.
@@ -2790,6 +3030,8 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 ###### ARTICULO 284.
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia, y de dictamen pericial, cuando a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 285.
 
@@ -3478,3 +3720,19 @@ B.O. 1 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 178, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SALUD PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 179, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SALUD PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+EL presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
