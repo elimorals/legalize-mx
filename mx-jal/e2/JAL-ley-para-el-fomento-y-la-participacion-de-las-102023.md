@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-fomento-y-la-participacion-de-las-102023"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-16"
-last_updated: "2020-11-21"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2021.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Jalisco, el sábado 16 de agosto de 2014.
 
@@ -47,13 +47,21 @@ Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civ
 
 La presente ley tiene por objeto:
 
-I. Fomentar las actividades que llevan a cabo las organizaciones de la sociedad civil, las agrupaciones y redes registradas mediante una normatividad integral y coherente que propicie condiciones para el ejercicio pleno de la libertad de las personas y grupos que integran la sociedad. Asimismo, estimular su participación en la vida social, económica, política y cultural de la entidad, como lo establece el artículo 15 de la Constitución Política del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
 
-II. Promover la participación de las organizaciones en la definición de agenda, así como en la elaboración, construcción colectiva, implementación y evaluación de políticas públicas con relación a las actividades que señala la presente Ley;
+I. Fomentar las actividades que llevan a cabo las organizaciones de la sociedad civil, las agrupaciones y redes registradas mediante una normatividad integral que propicie condiciones para el ejercicio pleno de la libertad de las personas y grupos que integran la sociedad. Asimismo, estimular su participación en la vida social, económica, política y cultural de la entidad, como lo establece el artículo 15 de la Constitución Política del Estado de Jalisco;
 
-III. Establecer los derechos y obligaciones que tienen las organizaciones conforme a esta Ley;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
 
-IV. Establecer la vinculación entre la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil y la presente Ley; y
+II. Promover la participación de las organizaciones, agrupaciones y redes en la definición de agenda, así como en la elaboración, construcción colectiva, implementación y evaluación de políticas públicas con relación a las actividades que señala la presente Ley;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+III. Establecer los derechos y obligaciones que tienen las organizaciones, agrupaciones y redes conforme a esta Ley;
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO 28311/LXII/21, PUBLICADO EN EL P.O. DE 11 DE MARZO DE 2021, PÁGINA 7.]</small>
+
+IV. (DEROGADA, P.O. 11 DE MARZO DE 2021); y (sic)
 
 V. Establecer las facultades y coordinación interinstitucional de las autoridades que la aplicarán y los órganos que coadyuvarán en ello.
 
@@ -75,7 +83,9 @@ VI. Organizaciones de la sociedad civil: agrupaciones autónomas de la ciudadan�
 
 VII. Participación: presencia activa de las organizaciones de la sociedad civil, agrupaciones y redes registradas en el proceso de construcción social de las políticas públicas, de conformidad con el artículo 1 fracción II de la Ley;
 
-VIII. Redes registradas (redes): agrupaciones no constituidas legalmente, integradas por organizaciones de la sociedad civil o por éstas y agrupaciones, mediante la suscripción de un convenio de adhesión mutua que se presenta al Comité, que se plantean un objetivo y un plan de trabajo en común, el cual supera los planes de trabajo que cada una se plantea en lo individual;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+VIII. Redes registradas: agrupaciones no constituidas legalmente, integradas por organizaciones de la sociedad civil o por éstas y agrupaciones, mediante la suscripción de un convenio de adhesión mutua que se presenta al Comité, que se plantean un objetivo y un plan de trabajo en común, el cual supera los planes de trabajo que cada una se plantea en lo individual;
 
 IX. Registro Estatal: el Registro Estatal de las Organizaciones de la Sociedad Civil, a cargo del Comité; y
 
@@ -107,17 +117,23 @@ I. Inscribirse en el Registro Estatal. En caso de estar inscrito en el Registro 
 
 II. Tener representación ante el Comité en los términos de esta Ley;
 
-III. Ser objeto de las acciones de fomento por parte de los tres poderes del Estado, los organismos públicos autónomos y los municipios, o de otros organismos designados por el Comité para tal efecto, de conformidad con lo establecido en la presente ley;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+III. Participar de las acciones de fomento por parte de los tres poderes del Estado, los organismos públicos autónomos y los municipios, o de otros organismos designados por el Comité para tal efecto, de conformidad con lo establecido en la presente ley;
 
 IV. Acceder, en igualdad de circunstancias, a los recursos, estímulos fiscales, exenciones, apoyos económicos y administrativos por parte de los tres poderes del Estado, los organismos públicos autónomos y sus municipios, así como los acordados o convenidos con la federación para la realización de sus actividades, de conformidad con las disposiciones legales aplicables en la materia.
 
-Las redes podrán acceder a lo establecido en el párrafo anterior a través de la o las organizaciones de la sociedad civil legalmente constituidas que las componen;
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2021)</small>
+
+Las agrupaciones podrán acceder a lo establecido en el párrafo anterior a través de las organizaciones de la sociedad civil que constituyan una red registrada;
 
 V. Promover y participar en mecanismos de observación y contraloría social;
 
 VI. Proponer a los tres Poderes del Estado, organismos públicos autónomos y a los municipios políticas públicas relacionadas con el fomento y desarrollo de las actividades a que se refiere el artículo 3 de la Ley;
 
-VII. Llevar a cabo proyectos relacionados con el fomento y desarrollo de las actividades a que se refiere el artículo 3 de la Ley que para tal efecto acuerden con cualquiera de los Poderes del Estado o sus municipios;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+VII. Llevar a cabo proyectos que acuerden con los Poderes del Estado o sus municipios, que estén relacionados con el fomento y desarrollo de las actividades a que se refiere el artículo 3 de la presente Ley;
 
 VIII. Formar parte de los órganos de participación y consulta instaurados por la administración pública estatal y municipal, en las áreas vinculadas con las actividades referidas en el artículo 3 de la Ley;
 
@@ -125,11 +141,15 @@ IX. Participar en el diseño y aplicación de políticas y normas para el ejerci
 
 X. Las demás que les otorguen otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 5.
 
-Para gozar de los derechos señalados en el artículo anterior, las organizaciones de la sociedad civil, agrupaciones y redes deben cumplir con las siguientes obligaciones:
+Para acceder a los derechos señalados en el artículo anterior, las organizaciones de la sociedad civil, agrupaciones y redes deben cumplir con las siguientes obligaciones:
 
-I. Los miembros deberán abstenerse de obtener para sí o para personas que tengan parentesco consanguíneo o por afinidad hasta el cuarto grado, un lucro mediante bien, utilidad o provecho con las actividades que desempeña y, en su caso, el ejercicio de los recursos públicos que recibiera;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+I. Abstenerse de solicitar, aceptar o recibir, por sí o por interpósita persona, un lucro mediante bien, utilidad o provecho con las actividades que desempeña y, en su caso, el ejercicio de los recursos públicos que recibiera, para sí o para personas que tengan parentesco consanguíneo o por afinidad hasta el cuarto grado;
 
 II. No perseguir fines de proselitismo político-electoral, sindical, partidista o religioso;
 
@@ -142,6 +162,76 @@ V. Destinar los recursos públicos que reciban al cumplimiento de las actividade
 VI. Cumplir con las obligaciones de presentación de información, de conformidad con las disposiciones legales aplicables y los lineamientos que establezca la instancia que aporta los recursos públicos, así como sobre el manejo y uso de los mismos, de conformidad con la legislación en materia de transparencia y acceso a la información pública del Estado de Jalisco; y
 
 VII. Las demás que señalen otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 5 Bis.
+
+El Registro Estatal será público y tendrá por objeto inscribir la información de las organizaciones de la sociedad civil, agrupaciones y redes para facilitar el acceso a las acciones de fomento y de recursos públicos.
+
+Formarán parte del Registro Estatal en forma automática, las organizaciones de la sociedad civil que cuenten con alguno de los siguientes registros:
+
+I. Registro Federal o Clave Única de Inscripción; o
+
+II. Reconocimiento otorgado por el Consejo Jalisciense de Asistencia Social.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 5 Ter.
+
+Las organizaciones de la sociedad civil, para su inscripción formal ante el Registro Estatal, deberán presentar ante la Secretaría Ejecutiva la siguiente documentación:
+
+I. Acta constitutiva;
+
+II. Identificación oficial vigente del representante legal;
+
+III. Cédula de inscripción al Registro Federal de Contribuyentes;
+
+IV. Comprobante de domicilio;
+
+V. Instrumentos notariales o actas protocolizadas; y
+
+VI. Documento notariado vigente que acredite la personalidad del representante de la organización.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 5 Quáter.
+
+La inscripción de las agrupaciones al Registro Estatal las hará objeto de fomento, les permitirá participar en alianza mediante la figura de redes registradas y el acceso a recursos públicos.
+
+Las agrupaciones, para inscribirse al Registro Estatal, deberán presentar ante la Secretaría Ejecutiva la siguiente documentación:
+
+I. Oficio de solicitud para el trámite de la inscripción al Registro Estatal;
+
+II. Ficha descriptiva de la agrupación;
+
+III. Resumen curricular en el que se describa el impacto de la agrupación, programas en los que ha participado y número y tipo de beneficiarios;
+
+IV. Listado de los integrantes de la agrupación; y
+
+V. Domicilio y datos de contacto para recibir notificaciones.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 5 Quinquies.
+
+Las redes registradas, para inscribirse al Registro Estatal, deberán presentar ante la Secretaría Ejecutiva la siguiente documentación:
+
+I. Convenio de adhesión mutua aprobado por el Comité; y
+
+II. Los datos de registro de la organización de la sociedad civil que integra la red y la representará.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2021)</small>
+
+###### Artículo 5 Sexies.
+
+Una vez recibida la información a la que hacen referencia los artículos 5 Ter, 5 Quáter y 5 Quinquies por la Secretaría Ejecutiva, ésta la someterá a consideración del Comité para su aprobación.
+
+La Secretaría Ejecutiva, una vez autorizado el registro por el Comité, expedirá constancia de registro.
+
+La Secretaría Ejecutiva, para corroborar el estatus de activo de las organizaciones de la sociedad civil, agrupaciones y redes, mantendrá actualizado el Registro Estatal, por lo que cada año les solicitará información para corroborar que continúen las mismas condiciones o, en su caso, se actualicen los datos.
+
+En caso de no continuar las condiciones, el interés o exista incumplimiento de las obligaciones, se procederá a la baja del registro con aprobación del Comité.
 
 ### Capítulo III. Del Comité para el Fomento y Participación de las Organizaciones de la Sociedad Civil
 
@@ -169,19 +259,45 @@ V. (DEROGADA, P.O. 3 DE OCTUBRE DE 2020)
 
 VI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2020)
 
-VII. Un Presidente Municipal de alguno de los municipios de (sic) conforman el Área Metropolitana de Guadalajara, elegido por orden alfabético en función del nombre del municipio, el cual durará en su cargo dos años;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
 
-VIII. Cinco titulares de organizaciones de la sociedad civil cuyas actividades se lleven a cabo en el Área Metropolitana de Guadalajara, quienes durarán en su cargo dos años sin posibilidad de reelección para el periodo inmediato;
+VII. Dos Presidentes Municipales de los municipios de (sic) conforman el Área Metropolitana de Guadalajara, elegido por orden alfabético en función del nombre del municipio, el cual durará en su cargo dos años;
 
-IX. Cuatro titulares de organizaciones de la sociedad civil cuyas actividades se lleven a cabo en municipios distintos del Área Metropolitana de Guadalajara, quienes durarán en su cargo dos años sin posibilidad de reelección para el periodo inmediato;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
 
-X. Tres representantes académicos de universidades con reconocimiento y validez oficial en el Estado de Jalisco; y
+VIII. Cinco titulares de organizaciones de la sociedad civil cuyas actividades se lleven a cabo en el Área Metropolitana de Guadalajara, quienes durarán en su cargo tres años sin posibilidad de reelección para el periodo inmediato;
 
-XI. Un Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+IX. Cuatro titulares de organizaciones de la sociedad civil cuyas actividades se lleven a cabo en municipios distintos del Área Metropolitana de Guadalajara, quienes durarán en su cargo tres años sin posibilidad de reelección para el periodo inmediato;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2021)</small>
+
+X. Tres representantes académicos de universidades con reconocimiento y validez oficial en el Estado de Jalisco, quienes durarán en su cargo tres años sin posibilidad de reelección para el periodo inmediato;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2021)</small>
+
+XI. La o el titular del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2021)</small>
+
+XII. La o el titular de la Coordinación Estratégica del Gabinete Social del Poder Ejecutivo del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2021)</small>
+
+XIII. La o el titular de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XI], P.O. 11 DE MARZO DE 2021)</small>
+
+XIV. Un Secretario Ejecutivo.
 
 Los miembros del Comité establecidos en las fracciones VIII y IX del presente artículo serán designados de conformidad con el Reglamento Interno del Comité.
 
 Adicionalmente, por invitación del Comité, se podrá incorporar a uno o más Presidentes Municipales de municipios del interior del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2021)</small>
+
+El Comité podrá invitar a sus sesiones a aquellas personas que considere necesarios para el cumplimiento de sus atribuciones, quienes tendrán derecho a voz pero no a voto.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
@@ -193,13 +309,17 @@ El cargo como miembro del Comité es honorífico y, por lo tanto, no remunerado,
 
 Cada miembro del Comité tendrá derecho a voz y voto, con excepción del Secretario Ejecutivo, quien contará solo con voz. Las decisiones del Comité se toman por mayoría de votos de los presentes.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 10.
 
-Cada representante titular del Comité podrá designar a un suplente, el cual deberá ser de un nivel jerárquico similar o inmediato inferior al del titular. El suplente tendrá voz y voto únicamente en ausencia del titular.
+Cada representante titular del Comité podrá designar a un solo suplente, el cual deberá ser de un nivel jerárquico similar o inmediato inferior al del titular. El suplente tendrá voz y voto únicamente en ausencia del titular y no podrá designar a nadie en su representación.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 11.
 
-El Comité debe designar, de entre los titulares de las organizaciones de la sociedad civil, a quien será el Presidente del mismo, quien durará en el cargo un año, debiéndose elegir en la primera sesión ordinaria del año calendario.
+El Comité debe designar, de entre los titulares de las organizaciones de la sociedad civil, a quien ostentará la Presidencia del mismo, quien durará en el cargo un año, debiéndose elegir en la primera sesión ordinaria del año calendario.
 
 ###### Artículo 12.
 
@@ -233,9 +353,17 @@ VI. Imponer las sanciones a las organizaciones de la sociedad civil, agrupacione
 
 VII. Elaborar y expedir su Reglamento Interno;
 
-VIII. Elaborar y dar seguimiento al Plan Estatal de Fomento de las Organizaciones de la Sociedad Civil; y
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
 
-IX. Las demás que le otorguen otras disposiciones legales aplicables.
+VIII. Elaborar y dar seguimiento al Plan Estatal de Fomento de las Organizaciones de la Sociedad Civil;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2021)</small>
+
+IX. Elaborar su plan de trabajo anual y su anteproyecto de presupuesto de egresos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN IX], P.O. 11 DE MARZO DE 2021)</small>
+
+X. Las demás que le otorguen otras disposiciones legales aplicables.
 
 ###### Artículo 16.
 
@@ -309,9 +437,11 @@ VI. Designar un área o responsable permanente de enlace con organizaciones de l
 
 VII. El acceso mediante las modalidades disponibles, a proyectos o fondos públicos.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 20.
 
-Los tres Poderes del Estado, sus dependencias y los organismos públicos autónomos, así como los municipios, fomentarán las actividades de las organizaciones de la sociedad civil, agrupaciones y redes; y en su caso, podrán otorgar recursos públicos para las actividades contempladas en el artículo 3 de esta Ley.
+Los tres Poderes del Estado, sus dependencias y los organismos públicos autónomos, así como los municipios, fomentarán las actividades de las organizaciones de la sociedad civil, agrupaciones y redes; y en su caso, podrán otorgar recursos públicos a las organizaciones de la sociedad civil y redes registradas para las actividades contempladas en el artículo 3 de esta Ley.
 
 ###### Artículo 21.
 
@@ -468,3 +598,9 @@ P.O. 21 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28006/LXII/20 QUE REFORMA EL ARTÍCULO 18 DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28311/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA EL FOMENTO Y PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
