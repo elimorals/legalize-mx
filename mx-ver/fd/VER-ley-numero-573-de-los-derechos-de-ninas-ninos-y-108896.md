@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-573-de-los-derechos-de-ninas-ninos-y-108896"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-03"
-last_updated: "2020-07-09"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 573 DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE MARZO DE 2021.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 3 de julio de 2015.
 
@@ -1429,11 +1429,15 @@ XIV. Realizar campañas para prevenir y atender las conductas ejercidas sobre ni
 
 XV. Cualquier otra prevista para el cumplimiento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 101.
 
-Corresponden a los municipios las atribuciones siguientes:
+Corresponden a los Ayuntamientos las atribuciones siguientes:
 
-I. Elaborar su Programa Municipal y participar en el diseño del Programa Estatal;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+I. Aprobar su Programa Municipal de Protección de Niñas, Niños y Adolescentes y participar en el diseño del Programa Estatal;
 
 II. Realizar acciones de difusión que promuevan los derechos de niñas, niños y adolescentes en el municipio, para que sean plenamente conocidos y ejercidos;
 
@@ -1719,7 +1723,11 @@ XIII. Proporcionar, a la Universidad Veracruzana o al organismo que acuerde el S
 
 XIV. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado; y
 
-XV. Las demás que le encomiende el Presidente o el Sistema Estatal de Protección Integral.
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XV. Proporcionar capacitación sistémica y continua a las Secretarías Ejecutivas de los Sistemas Municipales de Protección Integral, para fortalecer el ejercicio integral de sus funciones, ya sea en forma presencial o a distancia, mediante el uso de las tecnologías de la información que se autoricen; y
+
+XVI. Las demás que le encomiende el Presidente o el Sistema Estatal de Protección Integral.
 
 ###### Artículo 112.
 
@@ -1791,7 +1799,15 @@ XI. Celebrar convenios de coordinación en la materia, para el cumplimiento de l
 
 XII. Auxiliar a la Procuraduría Estatal de Protección, a través de su representación municipal, en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones; y
 
-XIII. Las demás que les otorguen otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE MARZO DE 2021)</small>
+
+XIII. Elaborar, por conducto de sus Secretarías Ejecutivas, el proyecto del Programa Municipal de Protección de Niñas, Niños y Adolescentes, y una vez acordado por sus integrantes, someterlo a la aprobación del Cabildo;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XIV. Asegurar la ejecución coordinada por parte de sus integrantes del Programa Municipal de Protección de Niñas, Niños y Adolescentes, con la participación de los sectores público, social y privado, así como de niñas, niños y adolescentes, y emitir un informe anual sobre los avances de dicho Programa y remitirlo al Sistema Estatal de Protección, y
+
+XV. Las demás que les otorguen otras disposiciones aplicables.
 
 ###### Artículo 118.
 
@@ -1811,7 +1827,11 @@ V. Titular de la Comisión de Gobernación, Reglamentos y Circulares;
 
 VI. Titular de la Comisión de la Promoción y Defensa de los Derechos Humanos; y
 
-VII. Titular del Sistema DIF Municipal.
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+VII. Titular de la Comisión de la Niñez y la Familia, y
+
+VIII. Titular del Sistema DIF Municipal.
 
 En términos de lo dispuesto por la Ley Orgánica del Municipio Libre, y conforme a la densidad poblacional de cada municipio, el Sistema Municipal de Protección Integral se deberá integrar al menos con dos ediles, incluyendo al Presidente Municipal, además del Titular del Sistema DIF del municipio.
 
@@ -1829,9 +1849,43 @@ En las sesiones del Sistema Municipal de Protección Integral participarán de f
 
 Los Sistemas Municipales propiciarán espacios de consulta, participación y expresión libre, a niñas, niños y adolescentes, respecto del ejercicio de sus derechos, cuyo resultado, en su caso, será la base para el diseño y ejecución de sus políticas públicas y acciones en favor de la niñez.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 119.
 
-La coordinación operativa del Sistema Municipal de Protección Integral recaerá en el área administrativa que determine cada Ayuntamiento, conforme a su organización interior, con funciones de Secretaría Ejecutiva, la cual deberá garantizar la participación de los sectores social y privado, así como de niñas, niños y adolescentes.
+La coordinación operativa del Sistema Municipal de Protección Integral recaerá en el área administrativa que determine cada Ayuntamiento, conforme a su organización interior, con funciones de Secretaría Ejecutiva, la cual deberá contar con personal capacitado de manera sistémica y continua para el ejercicio integral de sus atribuciones, y garantizar la participación de los sectores social y privado, así como de niñas, niños y adolescentes.
+
+La (sic) Secretarías Ejecutivas Municipales tendrán, cuando menos, las atribuciones siguientes:
+
+I. Coordinar las acciones entre las dependencias y las entidades competentes de la Administración Pública Municipal que deriven de la presente Ley;
+
+II. Realizar el diagnóstico sobre el cumplimiento y observancia de los derechos de niñas, niños y adolescentes en el Municipio, que servirá de base para la elaboración del Programa Municipal de Protección de Derechos de Niñas, Niños y Adolescentes;
+
+III. Elaborar el proyecto del Programa Municipal de Protección de Niñas, Niños y Adolescentes para someterlo a consideración del Sistema Municipal;
+
+IV. Llevar a cabo el seguimiento y monitoreo de la ejecución del Programa Municipal;
+
+V. Compilar los acuerdos que se tomen en el Sistema Municipal de Protección Integral, integrar y mantener actualizado el archivo de éstos y de los instrumentos jurídicos que deriven, y expedir constancia de los mismos;
+
+VI. Apoyar al Sistema Municipal de Protección Integral en la ejecución y seguimiento de los acuerdos y resoluciones emitidos;
+
+VII. Proponer la celebración de convenios de coordinación, colaboración y concertación con instancias públicas y privadas, nacionales e internacionales;
+
+VIII. Realizar y promover estudios e investigaciones para fortalecer las acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes; y los difundirá a las autoridades competentes y a los sectores social y privado para su incorporación en los programas respectivos;
+
+IX. Difundir entre las autoridades correspondientes y la población en general los resultados de los trabajos que realice, así como toda aquella información pública que tienda a la generación, desarrollo y consolidación de perspectiva en la materia, desagregada por lo menos, en razón de edad, sexo, municipio, escolaridad y discapacidad;
+
+X. Asesorar y apoyar a las dependencias y entidades municipales que lo requieran para el ejercicio de sus atribuciones en la presente materia;
+
+XI. Coordinar con la Secretaría Ejecutiva del Sistema Estatal de Protección Integral la articulación de la política estatal y el intercambio de información necesaria a efecto de dar cumplimiento a esta Ley; así como la capacitación sistémica y continua que ésta le brinde para fortalecer el ejercicio integral de sus funciones;
+
+XII. Informar cada cuatro meses al Sistema Municipal de Protección Integral y a su Presidente, sobre sus actividades;
+
+XIII. Proporcionar al organismo que acuerde el Sistema Municipal de Protección Integral, la información necesaria para la evaluación de las políticas de desarrollo social vinculadas con la protección de niñas, niños y adolescentes;
+
+XIV. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado; y
+
+XV. Las demás que le encomiende el Sistema Municipal de Protección Integral o su Presidencia.
 
 ###### Artículo 120.
 
@@ -1917,19 +1971,33 @@ El Procurador Municipal de Protección de Niñas, Niños y Adolescentes será no
 
 La Comisión Estatal de Derechos Humanos, en el ámbito de su competencia, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
 
-### CAPÍTULO VII. Del Programa Estatal
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 11 DE MARZO DE 2021)</small>
+
+### CAPÍTULO VII. De los Programas Estatal y Municipales de Protección de Niñas, Niños y Adolescentes
 
 ###### Artículo 125.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, así como los sectores privado y social, participarán en la elaboración y ejecución del Programa Estatal, el cual deberá alinearse al Plan Nacional de Desarrollo, al Plan Veracruzano de Desarrollo y al Programa Nacional de Protección de Niñas, Niños y Adolescentes, conforme a la presente Ley.
 
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+Por su parte, los Ayuntamientos en el ámbito de su competencia, en forma conjunta con los sectores privado y social, elaborarán y ejecutarán sus respectivos Programas Municipales de Protección de Niñas, Niños y Adolescentes, los cuales deberán alinearse al Programa Estatal y al Plan Municipal de Desarrollo.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+Los Programas Estatal y Municipales tendrán como base los respectivos diagnósticos, que realizarán las Secretarías Ejecutivas de los Sistemas Estatal y Municipales, en el ámbito de sus respectivas competencias, sobre la situación del cumplimiento y observancia de los derechos de niñas, niños y adolescentes señalados en el Titulo Segundo de esta Ley, mediante un proceso participativo e incluyente que recabe la información, propuestas y opinión de las autoridades estatales y municipales, respectivamente, de los sectores privado y social involucrados en la materia de la presente Ley, así como de niñas, niños y adolescentes, y que además orienten en la cuantificación y detección de los factores que incidan o tengan por objeto menoscabar, anular o vulnerar el reconocimiento, goce o ejercicio pleno de sus derechos, y donde se ponga especial énfasis en aquellos casos de violencia, maltrato físico o psicológico y situaciones de mayor riesgo o vulnerabilidad que requieren atención urgente.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 126.
 
-El Programa Estatal preverá acciones de mediano y largo alcance, así como políticas, objetivos, estrategias y líneas de acción prioritarias en materia de ejercicio, respeto, promoción y protección integral de niñas, niños y adolescentes, debiendo alinearse al Programa Nacional.
+Los Programas Estatal y Municipales preverán acciones de mediano y largo alcance, así como políticas, objetivos, estrategias y líneas de acción prioritarias en materia de ejercicio, respeto, promoción y protección integral de niñas, niños y adolescentes.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 127.
 
-El Programa Estatal deberá incluir mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana y deberá ser publicado en la Gaceta Oficial del estado.
+Los Programas Estatal y Municipales deberán incluir mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana y deberán ser publicados en la Gaceta Oficial del Estado.
 
 ###### Artículo 128.
 
@@ -2116,3 +2184,15 @@ Se concede un plazo de noventa días hábiles, contado a partir del día siguien
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 837 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO UBRE Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA EL FORTALECIMIENTO DE LOS SISTEMAS MUNICIPALES DE PROTECCIÓN A NIÑAS, NIÑOS Y ADOLESCENTES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, contarán con un plazo de ciento ochenta días contado a partir de que entre en vigor el presente Decreto, para realizar las adecuaciones reglamentarias y normativas necesarias, que se deriven del mismo.
+
+TERCERO. La obligación de elaborar, aprobar y ejecutar los Programas Municipales de Protección a Niñas, Niños y Adolescentes, en los términos del presente Decreto, será aplicable para todos los Ayuntamientos que entren en funciones a partir del día primero de enero del año dos mil veintidós, y deberán considerarse en el marco de sus respectivos Planes Municipales de Desarrollo.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
