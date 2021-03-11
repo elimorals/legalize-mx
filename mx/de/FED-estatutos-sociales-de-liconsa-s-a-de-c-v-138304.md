@@ -4,7 +4,7 @@ identifier: "FED-estatutos-sociales-de-liconsa-s-a-de-c-v-138304"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-09-26"
-last_updated: "2019-09-26"
+last_updated: "2021-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138304&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-06-18"
 ---
 # ESTATUTOS SOCIALES DE LICONSA, S.A. DE C.V
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LOS ESTATUTOS SOCIALES DE LICONSA, S.A. DE C.V., PUBLICADOS EN EL D.O.F. DE 11 DE MARZO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTOS SOCIALES DE LICONSA, S.A. DE C.V.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2021 (DEROGADO).
 
 Estatutos publicados en el Diario Oficial de la Federación, el jueves 26 de septiembre de 2019.
 
@@ -1028,3 +1030,17 @@ CUARTO.- Procédase a las adecuaciones jurídicas que corresponda a la normativi
 Con fundamento en los artículos 58, fracción VIII de la Ley Federal de las Entidades Paraestatales y Vigésimo Segundo de los Estatutos Sociales de LICONSA, S.A. de C.V., los suscritos Presidente Suplente del Consejo de Administración, así como el Secretario del Órgano de Gobierno, hacen constar, para todos los efectos legales y administrativos a que hubiere lugar: Que estos Estatutos Sociales de LICONSA, S.A. de C.V., fueron aprobados en la sesión del Consejo celebrada el martes 11 de junio de 2019. También firma el Director General de la entidad, para que proceda a su difusión y aplicación, toda vez que entran en vigor.
 
 Ciudad de México, a 18 de junio de 2019.- Consejero Presidente Suplente del Consejo de Administración: el Coordinador General de Ganadería de la Secretaría de Agricultura y Desarrollo Rural, David Monreal Ávila.- Rúbrica.- Secretario de la Asamblea de Accionistas y del Consejo de Administración: el Abogado General de la Secretaría de Agricultura y Desarrollo Rural, Francisco Conzuelo Gutiérrez.- Rúbrica.- LICONSA, S.A. de C.V.: el Director General, Ignacio Ovalle Fernández.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LOS “ESTATUTOS SOCIALES DE LICONSA, S.A. DE C.V.”.]
+
+PRIMERO.- Estos Estatutos Sociales entrarán en vigor el día de su aprobación por el Consejo de Administración y se deberá proceder conforme a lo previsto en el Artículo Veinticinco de la Ley Federal de las Entidades Paraestatales.
+
+SEGUNDO.- Se derogan y, por tanto, se dejan sin ningún efecto jurídico todas aquellas normas y disposiciones jurídicas que se opongan al contenido de estos Estatutos Sociales. Por lo tanto, se deroga el anterior Estatuto.
+
+TERCERO.- En el caso de dudas sobre la interpretación y cumplimiento de estos Estatutos Sociales, el Director General de LICONSA tendrá amplias facultades para decidir lo que considere conveniente o necesario para la institución.
+
+CUARTO.- Procédase a las adecuaciones jurídicas que corresponda a la normatividad interna.
