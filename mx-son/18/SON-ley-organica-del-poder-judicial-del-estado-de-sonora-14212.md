@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-judicial-del-estado-de-sonora-14212"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-12"
-last_updated: "2021-03-01"
+last_updated: "2021-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MARZO DE 2021.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 12 de diciembre de 1996.
 
@@ -1579,6 +1579,10 @@ b) La Unidad de Apoyo y Modernización de la Función Judicial.
 
 c) La Dirección General de Formación, Capacitación y Especialización Judiciales.
 
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+d) La Unidad de Igualdad de Género.
+
 III. La Visitaduría Judicial y Contraloría; y
 
 IV. El Archivo General del Poder Judicial del Estado.
@@ -1821,9 +1825,39 @@ Los cargos de los integrantes del Comité Académico, con excepción del Directo
 
 El Comité Académico, en consulta con el titular del Instituto de la Judicatura Sonorense, tendrá como función determinar los lineamientos, políticas y estrategias de los programas de formación, capacitación y actualización a cargo de la Dirección, así como los mecanismos de evaluación y rendimiento de los servidores públicos del Poder Judicial estatal que desempeñen funciones jurisdiccionales. A la vez, el Comité Académico participará, conforme a las bases que emita el Pleno del Supremo Tribunal de Justicia, en la preparación y aplicación de los exámenes de aptitud y los de oposición.
 
-#### SECCION PRIMERA. DE LOS CONCURSOS DE OPOSICION
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 11 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE MAYO DE 2020)</small>
+#### SECCION CUARTA. DE LA UNIDAD DE IGUALDAD DE GENERO
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ARTICULO 106 BIS.- La Unidad de Igualdad de Género tiene como objetivo primordial procurar, promover y gestionar que al interior del Poder Judicial del Estado de Sonora prevalezcan el enfoque de Derechos Humanos y la Perspectiva de Género de manera integral y transversal como ejes rectores institucionales y en todas las actividades inherentes al Servicio de Impartición de Justicia, teniendo como fin último que las resoluciones emitidas tengan esos enfoques. La Unidad estará a cargo de una mujer, como parte de las acciones afirmativas en la implementación de la Unidad y contará con la estructura orgánica que dicten las necesidades de la propia Unidad, conforme al presupuesto disponible, lo que se dispondrá por el Pleno del Supremo Tribunal de Justicia mediante los acuerdos respectivos.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
+
+ATICULO (SIC) 106 TER.- La Unidad de Igualdad de Género tendrá las siguientes atribuciones:
+
+I.- Llevar a cabo las acciones encaminadas a la institucionalización del enfoque de igualdad de género y Derechos Humanos en la Administración de Justicia;
+
+II.- Sensibilizar y capacitar a quienes imparten justicia en perspectiva de género para mejorar el acceso a la justicia;
+
+III.- Crear alianzas con la sociedad civil y otros poderes públicos para promover los derechos humanos de las mujeres;
+
+IV.- Incorporar la perspectiva de género y Derechos Humanos en los proyectos de planeación, reformas y modernización jurisdiccional y administrativa;
+
+V.- Promover la eliminación de prácticas discriminatorias y garantizar un enfoque integral y con perspectiva de derechos humanos e igualdad de género en el quehacer de los integrantes del poder judicial;
+
+VI.- Impulsar estrategias para generar ambientes laborales libres de violencia;
+
+VII.- Gestionar y apoyar en la generación de criterios de interpretación jurídica y para juzgar con perspectiva de género;
+
+VIII.- Generar información en materia de género para incentivar a las distintas áreas a incorporar esta perspectiva en sus actividades diarias;
+
+IX.- Gestionar la asignación de recursos presupuestales, materiales y humanos, para el cumplimiento de acciones en materia de género;
+
+X.- Proponer y gestionar programas de capacitación básica y especializada en materia de género; y
+
+XI.- Las demás que le confiera el Pleno del Supremo Tribunal de Justicia.
 
 ### CAPITULO CUARTO. DE LA VISITADURIA JUDICIAL Y CONTRALORIA
 
@@ -2059,7 +2093,9 @@ ARTICULO 125 BIS.- La carrera judicial tiene por objeto, con base en el sistema 
 
 ### CAPITULO SEGUNDO. DEL INGRESO A LA CARRERA JUDICIAL
 
-#### SECCION SEGUNDA. DE LOS EXAMENES DE APTITUD
+#### SECCION PRIMERA. DE LOS CONCURSOS DE OPOSICION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE MAYO DE 2020)</small>
 
 ###### ARTICULO 126.
 
@@ -2130,6 +2166,8 @@ Los cuestionarios y casos prácticos a que se refieren las fracciones II y III d
 ###### ARTICULO 132.
 
 El jurado encargado de los exámenes orales se integrará por: un Magistrado de la Comisión de Carrera Judicial del Supremo Tribunal de Justicia, quien lo presidirá; otro Magistrado del propio Tribunal, quien puede o no ser integrante de la Comisión de Carrera Judicial; y un integrante del Comité Académico de la Dirección General de Formación, Capacitación y Especialización Judiciales.
+
+#### SECCION SEGUNDA. DE LOS EXAMENES DE APTITUD
 
 ###### ARTICULO 133.
 
@@ -2910,3 +2948,11 @@ B.O. 1 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 177, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
