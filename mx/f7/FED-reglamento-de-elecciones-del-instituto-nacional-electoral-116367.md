@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2020-11-20"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 20 DE NOVIEMBRE DE 2020, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 11 DE MARZO DE 2021, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2021.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -7837,6 +7837,8 @@ DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al ini
 
 > <small>[N. DE E. VÉASE ANEXO 19.3 PROCEDIMIENTO Y PROTOCOLO DE SEGURIDAD PARA LA GENERACIÓN, IMPRESIÓN, ENTREGA, DEVOLUCIÓN Y DESTRUCCIÓN DE LAS LISTAS NOMINALES DE ELECTORES PARA SU USO EN LAS JORNADAS ELECTORALES, EN EL D.O.F. DE 23 DE OCTUBRE DE 2020, PÁGINA 441.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 19.3 PROCEDIMIENTO Y PROTOCOLO DE SEGURIDAD PARA LA GENERACIÓN, IMPRESIÓN, ENTREGA, DEVOLUCIÓN Y DESTRUCCIÓN DE LAS LISTAS NOMINALES DE ELECTORES PARA SU USO EN LAS JORNADAS ELECTORALES, EN EL D.O.F. DE 23 DE OCTUBRE DE 2020, PÁGINA 441; D.O.F. DE 11 DE MARZO DE 2021, PÁGINA 126.]</small>
+
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 12 DE DICIEMBRE DE 2016.
@@ -9134,5 +9136,25 @@ El Acuerdo completo se encuentra disponible para su consulta en la dirección el
 Página INE: https://www.ine.mx/sesion-extraordinaria-del-consejo-general-06-de-noviembre-de-2020/
 
 Página DOF: www.dof.gob.mx/2020/INE/CGext202011_06_ap_5.pdf
+
+D.O.F. 11 DE MARZO DE 2021.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LAS MODIFICACIONES AL ANEXO 19.3 DEL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDOS
+
+PRIMERO. Se aprueban las modificaciones al Anexo 19.3 del Reglamento de Elecciones del Instituto Nacional Electoral, de conformidad con el Anexo que acompaña al presente Acuerdo y forma parte integral del mismo.
+
+SEGUNDO. Hágase del conocimiento de la Comisión Nacional de Vigilancia lo aprobado por este Consejo General.
+
+TERCERO. Hágase del conocimiento de los Consejos Locales del Instituto Nacional Electoral lo aprobado por este Consejo General, con la finalidad de que, por su conducto, sea informado lo conducente a los Consejos Distritales de este Instituto.
+
+CUARTO. Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Locales, a informar lo aprobado en el presente Acuerdo a los Organismos Públicos Locales de las entidades federativas, para su respectiva aplicación en el ámbito local, y para que éstos últimos notifiquen el contenido del presente Acuerdo a los Partidos Políticos con registro local.
+
+QUINTO. El presente Acuerdo entrará en vigor a partir del día de su aprobación por parte de este Consejo General.
+
+SEXTO. Publíquese el presente Acuerdo en la Gaceta Electoral y en el Diario Oficial de la Federación, así como en el portal electrónico del Instituto Nacional Electoral.
+
+SÉPTIMO. Publíquese la actualización del Anexo 19.3 en el compilado de anexos del Reglamento de Elecciones del Instituto Nacional Electoral que se encuentra en NormaINE.
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
