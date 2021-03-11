@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-colegio-de-estudios-cientificos-y-107525"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-04-25"
-last_updated: "2021-03-09"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2021.
 
 Ley publicada en la sección IV del Periódico Oficial del Estado de Jalisco, el sábado 25 de abril de 2015.
 
@@ -285,7 +285,9 @@ III. Celebrar convenios, contratos y acuerdos con dependencias o entidades de la
 
 IV. Someter a la aprobación de la Junta Directiva los proyectos de los presupuestos de ingresos y egresos del Colegio, así como sus adecuaciones;
 
-V. Otorgar a las autoridades educativas y al INEE todas las facilidades y colaboración para las evaluaciones que establece la Ley General de Educación y demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+V. Otorgar a las autoridades educativas y al Sistema Nacional de Mejora Continua de la Educación todas las facilidades y colaboración para las evaluaciones que establece la Ley General de Educación y demás ordenamientos aplicables;
 
 VI. Proporcionar oportunamente toda la información que le sea requerida por las autoridades educativas;
 
@@ -301,7 +303,9 @@ XI. Proponer a la Junta Directiva los proyectos de planes de desarrollo, program
 
 XII. Proponer el establecimiento de planteles, así como de modalidades y opciones educativas conforme a la demanda existente en las localidades, con base en los lineamientos emitidos por las autoridades educativas competentes;
 
-XIII. Nombrar, promover y remover, con estricto apego a la Ley Federal del Trabajo, la Ley General del Servicio Profesional Docente y ordenamientos relativos, al personal docente del Colegio, así como disponer de lo necesario para elevar el nivel académico y profesional del personal adscrito;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+
+XIII. Nombrar, promover y remover, con estricto apego a la Ley Federal del Trabajo y ordenamientos relativos, al personal docente del Colegio, así como disponer de lo necesario para elevar el nivel académico y profesional del personal adscrito;
 
 XIV. Efectuar en los términos de esta Ley y el Reglamento Interno del Colegio, las designaciones, promociones y remociones del personal administrativo del Colegio;
 
@@ -612,3 +616,9 @@ P.O. 9 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28290/LXII/2021 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2 DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28308/LXII/2021 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMA LAS FRACCIONES V Y XIII DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el mismo día de su publicación en el periódico oficial “El Estado de Jalisco”.
