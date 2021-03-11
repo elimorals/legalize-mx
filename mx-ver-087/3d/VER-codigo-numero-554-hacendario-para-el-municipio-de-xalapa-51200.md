@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-554-hacendario-para-el-municipio-de-xalapa-51200"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-07-14"
-last_updated: "2021-03-10"
+last_updated: "2021-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "VER"
 ---
 # CODIGO NUMERO 554 HACENDARIO PARA EL MUNICIPIO DE XALAPA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE XALAPA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE MARZO DE 2021.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz Ignacio de la Llave, el viernes 14 de julio de 2006.
 
@@ -69,9 +71,17 @@ IV. La administración de los recursos humanos, financieros y materiales;
 
 V. La integración de la cuenta pública municipal;
 
-VI. La administración y contratación de su deuda pública; y
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-VII. El dominio y la administración de sus bienes.
+VI. La administración y contratación de su deuda pública;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+VII. El dominio y la administración de sus bienes; y
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+VIII. La contabilidad de las operaciones, de acuerdo con las disposiciones emitidas por el Consejo Nacional de Armonización Contable.
 
 ###### Artículo 2.
 
@@ -87,47 +97,99 @@ En los casos en que el órgano de gobierno sea un Concejo Municipal, le serán a
 
 IV. Cabildo: La forma de reunión del Ayuntamiento, donde se resuelven, de manera colegiada, los asuntos relativos al ejercicio de sus atribuciones de gobierno, políticas y administrativas;
 
-V. Cédula del Registro Único Catastral: Documento que acredita la inscripción de un bien inmueble en el Catastro Municipal y consigna sus características cualitativas y cuantitativas más relevantes;
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
 
-VI. Código de Procedimientos Administrativos: El Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave;
+V. Cédula de Empadronamiento: Documento expedido por la Dirección de Desarrollo Económico que autoriza a su titular la operación de unidades productivas con actividad económica de bajo riesgo (Giro comercial tipo A);
 
-VII. Comisión de Hacienda: La Comisión de Hacienda y Patrimonio Municipal del Ayuntamiento;
+VI. Cédula del Registro Único Catastral: Documento que acredita la inscripción de un bien inmueble en el Catastro Municipal y consigna sus características cualitativas y cuantitativas más relevantes;
 
-VIII. Congreso: El Congreso del Estado de Veracruz de Ignacio de la Llave;
+VII. Código de Procedimientos Administrativos: El Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave;
 
-IX. Contribuyente: Persona física o moral obligada al pago de las contribuciones municipales, al haber actualizado el supuesto previsto por las leyes fiscales;
+VIII. Comisión de Hacienda: La Comisión de Hacienda y Patrimonio Municipal del Ayuntamiento;
 
-X. Dependencias: Los órganos de la Administración Pública Centralizada del Ayuntamiento;
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
 
-XI. Entidades: Los organismos públicos descentralizados, los fideicomisos públicos municipales y las empresas de participación municipal mayoritaria, de la administración pública paramunicipal;
+IX. CONAC: Consejo Nacional de Armonización Contable;
 
-XII. Erario: Conjunto de recursos monetarios y medios de pago que tiene el Municipio, para el cumplimiento de sus fines;
+X. Congreso: El Congreso del Estado de Veracruz de Ignacio de la Llave;
 
-XIII. Fisco: La autoridad fiscal u organismo encargado de recaudar o realizar el cobro coactivo de los ingresos del Municipio;
+XI. Contribuyente: Persona física o moral obligada al pago de las contribuciones municipales, al haber actualizado el supuesto previsto por las leyes fiscales;
 
-XIV. Gaceta Oficial: El órgano informativo oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave;
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
 
-XV. Gobierno del Estado: El Gobierno del Estado de Veracruz de Ignacio de la Llave;
+XII. Convenio de colaboración fiscal: Instrumento legal de colaboración celebrado entre el Ayuntamiento y el Gobierno del Estado, con la finalidad de trasladar, a las autoridades municipales, funciones específicas en materia fiscal;
 
-XVI. Ley de Catastro: La Ley de Catastro del Estado de Veracruz de Ignacio de la Llave;
+XIII. Dependencias: Los órganos de la Administración Pública Centralizada del Ayuntamiento;
 
-XVII. Ley de Coordinación Fiscal: La Ley de Coordinación Fiscal en el ámbito federal;
+XIV. Entidades: Los organismos públicos descentralizados, los fideicomisos públicos municipales y las empresas de participación municipal mayoritaria, de la administración pública paramunicipal;
 
-XVIII. Multa: Sanción a la conducta infractora sobre el pago de impuestos, derechos, productos, aprovechamientos, con el fin de que los sujetos pasivos no vuelvan a incurrir en omisión en el cumplimiento de su pago;
+XV. Erario: Conjunto de recursos monetarios y medios de pago que tiene el Municipio, para el cumplimiento de sus fines;
 
-XIX. Municipio: El Municipio de Xalapa del Estado de Veracruz de Ignacio de la Llave;
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
 
-XX. Oficina Ejecutora: La Unidad de Ejecución Fiscal de la Tesorería o su equivalente, encargada del cobro coactivo de un crédito fiscal;
+XVI. Familia Monoparental: Aquellas en las que un/a progenitor/a o ascendiente convive con y es responsable en solitario de sus hijos e hijas hasta los 18 años, dependientes económicos y personas con discapacidad. Se considerarán familias monoparentales primarias a aquellas en las que la o el progenitor conviven con sus hijas e hijos. Se considerarán a las y los ascendientes en segundo grado, sin importar que se cuente con uno o con ambos, como familias monoparentales secundarias;
 
-XXI. Presidente: El Presidente Municipal del Ayuntamiento;
+XVII. Fisco: La autoridad fiscal u organismo encargado de recaudar o realizar el cobro coactivo de los ingresos del Municipio;
 
-XXII. Reglas, normas o disposiciones de carácter general: Aquellas que el Cabildo apruebe y publique, de conformidad por lo establecido por este Código, para conceder derechos o imponer obligaciones a los sujetos pasivos de la relación tributaria;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-XXIII. Síndico: El Síndico del Ayuntamiento;
+XVIII. Gaceta Oficial: El órgano informativo de difusión oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave;
 
-XXIV. Tesorería: La Tesorería del Ayuntamiento; y
+XIX. Gobierno del Estado: El Gobierno del Estado de Veracruz de Ignacio de la Llave;
 
-XXV. Tesorero: El Titular de la Tesorería del Ayuntamiento.
+XX. Ley de Catastro: La Ley de Catastro del Estado de Veracruz de Ignacio de la Llave;
+
+XXI. Ley de Coordinación Fiscal: La Ley de Coordinación Fiscal en el ámbito federal;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXII. Ley de Ingresos: La Ley de Ingresos del Municipio de Xalapa correspondiente al ejercicio fiscal del año de que se trate;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXIII. Licencia de Funcionamiento: Documento expedido por la Dirección de Desarrollo Económico que permite el funcionamiento de unidades productivas con actividad económica de mediano riesgo (Giro comercial tipo B), alto riesgo (Giro comercial tipo C) o riesgo potencial (Giro comercial tipo C+);
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXIV. Multa: Sanción a la conducta infractora sobre el pago de impuestos, derechos, productos, aprovechamientos, con el fin de que los sujetos pasivos no reincidan en la omisión en el cumplimiento-normativo;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXV. Multa Administrativa: Sanción de carácter pecuniario que consiste en la imposición del pago de una suma de dinero que se deriva de la verificación de la comisión de una conducta que contraviene disposiciones administrativas de competencia municipal;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXVI. Multa Fiscal: Sanción económica, prevista en la normatividad aplicable, que imponen las autoridades fiscales a los contribuyentes cuando no cumplen de manera espontánea sus obligaciones fiscales o por cumplirlas incorrectamente;
+
+XXVII. Municipio: El Municipio de Xalapa del Estado de Veracruz de Ignacio de la Llave;
+
+XXVIII. Oficina Ejecutora: La Unidad de Ejecución Fiscal de la Tesorería o su equivalente, encargada del cobro coactivo de un crédito fiscal;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXIX. Pago espontáneo: Acción por la cual el contribuyente de forma voluntaria realiza el pago de sus obligaciones sin que medie entre éste y la autoridad algún requerimiento o notificación de pago;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXX. Presidenta o Presidente: La Persona Titular de la Presidencia Municipal del Ayuntamiento;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXXI. Reglas, normas o disposiciones de carácter general: Aquellas que el Cabildo apruebe y publique, de conformidad con lo establecido por este Código, para conceder derechos o imponer obligaciones a los sujetos pasivos de la relación tributaria;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXXII. Síndica o Síndico: La Persona Titular de la Sindicatura del Ayuntamiento;
+
+XXXIII. Tesorería: La Tesorería del Ayuntamiento;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXXIV. Tesorera o Tesorero: La Persona Titular de la Tesorería del Ayuntamiento; y
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXXV. Unidad de Medida y Actualización (UMA): Unidad que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas aplicables.
 
 ###### Artículo 3.
 
@@ -247,7 +309,9 @@ III. Las transferencias de recursos por concepto de participaciones y aportacion
 
 IV. Los demás que establezca el presente Código, las leyes aplicables y los convenios celebrados con la Federación, el Estado, otras Entidades Federativas, Municipios y los particulares.
 
-La Ley de Ingresos estimará, en lo procedente, el monto global de los ingresos que, por cada uno de estos conceptos, obtendrá el Municipio durante el ejercicio fiscal de que se trate.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+La Ley de Ingresos estimará, en lo procedente, el monto global de los ingresos que, por cada uno de estos conceptos, obtendrá el Municipio durante el ejercicio fiscal de que se trate y se contabilizarán de acuerdo con lo que establece el Clasificador por Rubro de Ingresos emitido por el CONAC.
 
 ###### Artículo 19.
 
@@ -313,9 +377,15 @@ Las contribuciones se pagarán en la fecha o dentro del plazo señalado en las d
 
 Tratándose de contribuciones que se deban pagar mediante retención, aun cuando quien deba efectuarlas no retenga o no haga pago de la contraprestación relativa, el retenedor estará obligado a enterar al fisco una cantidad equivalente a la que debió retener.
 
-Quien haga pago de créditos fiscales obtendrá, de la oficina recaudadora, la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados por la autoridad fiscal, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora, por toda cantidad que ingrese al erario, cualquiera que sea su naturaleza.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+Quien haga pago de créditos fiscales de forma personal o por representante obtendrá, de la oficina recaudadora, la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados por la autoridad fiscal, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora, por toda cantidad que ingrese al erario, cualquiera que sea su naturaleza.
 
 Tratándose de los pagos efectuados en las oficinas de las instituciones bancarias, crediticias o comerciales, obtendrá la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo correspondiente.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+Para el caso en que el pago se realice en línea a través del portal electrónico autorizado, la autoridad competente emitirá un comprobante con el número de autorización relacionado con el trámite registrado.
 
 Cuando las disposiciones tributarias establezcan opciones a los contribuyentes para el cumplimiento de sus obligaciones fiscales o para determinar las contribuciones a su cargo, la opción elegida no podrá variar respecto al mismo ejercicio.
 
@@ -377,7 +447,9 @@ VIII. Las instituciones de crédito autorizadas para llevar a cabo operaciones f
 
 IX. Los representantes de los contribuyentes que, para cubrir créditos fiscales, hayan librado cheques sin tener fondos disponibles o que, teniéndolos, dispongan de ellos antes de que venza el plazo de su presentación;
 
-X. Los servidores públicos municipales que acepten cheques en pago de créditos fiscales que no cumplan los requisitos a que se refiere el artículo 45 de este ordenamiento;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+X. Las y los servidores públicos municipales que acepten cheques en pago de créditos fiscales que no cumplan los requisitos a que se refiere el artículo 44 de este ordenamiento;
 
 XI. La persona o personas que tengan conferida la dirección general, la gerencia general o la administración única, o cualquiera que sea el nombre con que se le designe, de las personas morales, por las contribuciones causadas o no retenidas por las mismas durante su gestión, así como por las que debieron pagarse o enterarse durante ésta, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la persona moral que dirigen.
 
@@ -417,7 +489,9 @@ c) Cuando realicen actividades comerciales, industriales, de prestación de serv
 
 d) Cuando presten servicios personales independientes, el local que utilicen como base fija para el desempeño de sus actividades.
 
-e) A falta de domicilio en los términos indicados en los incisos anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+e) A falta de domicilio en los términos indicados en los incisos anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal, o en su defecto, el lugar donde se encuentre el contribuyente en términos del artículo 10 del Código Fiscal de la Federación.
 
 II. Tratándose de personas morales:
 
@@ -487,9 +561,13 @@ La Tesorería podrá autorizar expresamente la aceptación de otros instrumentos
 
 Para determinar las contribuciones se considerarán las fracciones del peso; para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad del peso inmediata inferior, y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad del peso inmediata superior.
 
-Para los efectos de este Código, se entenderá por salario mínimo el establecido como tal para el Municipio en las disposiciones legales respectivas de orden federal.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
 
-Cuando no se cubra la contribución, producto o aprovechamiento en la fecha o época establecidas en este Código, y los mismos se fijen en salarios mínimos, el cobro se realizará conforme al vigente al momento de su incumplimiento.
+Para los efectos de este Código, los cobros se fijarán en Unidades de Medida y Actualización (UMAs).
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+Cuando no se cubra la contribución, producto o aprovechamiento en la fecha o época establecidas en este Código, y los mismos se fijen en UMAs, el cobro se realizará conforme al valor vigente al momento de su incumplimiento.
 
 ###### Artículo 39.
 
@@ -553,6 +631,10 @@ En caso de aprovechamientos, los recargos se calcularán, de conformidad con lo 
 
 Las autoridades fiscales no liberarán ni condonarán, total o parcialmente, el pago de las contribuciones y de los recargos correspondientes, salvo en los casos que prevé este mismo Código.
 
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+Las autoridades fiscales previstas en la fracción I del artículo 14 de este Código sólo podrán condonar total o parcialmente recargos a través de un programa temporal por cada año, debiendo ser autorizado mediante un acuerdo de Cabildo, que deberá contener las bases y especificaciones que sean necesarias.
+
 ###### Artículo 43.
 
 Podrán condonarse las multas que se impongan por no cubrir oportunamente las contribuciones, aprovechamientos o recargos siempre que no hayan sido impugnados los mismos por parte del contribuyente.
@@ -562,6 +644,10 @@ El tesorero podrá condonar, de oficio o a petición de parte, total o parcialme
 La solicitud de condonación dará lugar a la suspensión del procedimiento de ejecución, en los casos en que se hubiere iniciado el mismo, previa garantía del interés fiscal.
 
 En contra de la imposición de una multa no procede recurso ni medio de defensa legal.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+El Ayuntamiento, por acuerdo del Cabildo, podrá implementar programas temporales de condonación total o parcial, respecto del pago de multas que se impongan por no cubrir oportunamente las contribuciones y aprovechamientos.
 
 ###### Artículo 44.
 
@@ -857,9 +943,11 @@ XI. Determinar, mediante resolución, la responsabilidad solidaria.
 
 Para los efectos de notificación de actos administrativos a los interesados, las autoridades fiscales deberán cubrir los requisitos previstos en el Código de Procedimientos Administrativos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 69.
 
-El Cabildo podrá condonar o reducir los créditos fiscales municipales, cuando por causa de algún siniestro se afecte la situación económica de alguna región del territorio municipal. Lo anterior, previa declaratoria de desastre por parte de la autoridad competente.
+El Cabildo podrá condonar o reducir los créditos fiscales municipales, cuando por causa de algún siniestro se afecte la situación económica o social de alguna región del territorio municipal. También podrá hacerlo cuando, por cuestiones de salud pública, caso fortuito, fuerza mayor u otras circunstancias, se provoquen trastornos graves, pérdidas materiales o se generen gastos adicionales. Lo anterior, previa declaratoria de desastre por parte de la autoridad competente.
 
 Para efectos del párrafo anterior, el Cabildo dictará, mediante disposiciones casuísticas, las contribuciones, productos o aprovechamientos materia de la condonación o reducción, señalando las regiones del Municipio en las que se disfrutará de la misma.
 
@@ -1181,27 +1269,41 @@ Las autoridades fiscales impondrán las sanciones administrativas por infracció
 
 I. Las infracciones que establece el artículo 89 de este Código serán sancionadas con multa equivalente a los montos que a continuación se señalan:
 
-a) De cinco a quince días de salario mínimo, por infracción a las fracciones I, IV, VII, VIII, X, XII y XV.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
 
-b) De quince a treinta días de salario mínimo, por infracción a las fracciones XX, XXII y XXIII.
+a) De cinco a quince UMAs, por infracción a las fracciones I, IV, VII, VIII, X, XII y XV;
 
-c) De treinta a cincuenta días de salario mínimo, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII, XVIII y XIX;
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+b) De quince a treinta UMAs, por infracción a las fracciones XX, XXII y XXIII; y
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+c) De treinta a cincuenta UMAs, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII, XVIII y XIX.
 
 II. La infracción que establece la fracción XXI del artículo 89 de este Código, se sancionará con multa de cien a ciento cincuenta por ciento del crédito omitido;
 
-III. Las infracciones comprendidas en el artículo 90 de este Código, se sancionarán con multa de cincuenta a cien días de salario mínimo;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-IV. Las infracciones comprendidas en el artículo 91 de este Código, se sancionarán con multa de setenta y cinco a cien días de salario mínimo; y
+III. Las infracciones comprendidas en el artículo 90 de este Código, se sancionarán con multa de cincuenta a cien UMAs;
 
-V. Las infracciones comprendidas en el artículo 92 de este Código, se sancionarán con multa de cuarenta y cinco a noventa días de salario mínimo.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+IV. Las infracciones comprendidas en el artículo 91 de este Código, se sancionarán con multa de setenta y cinco a cien UMAs; y
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+V. Las infracciones comprendidas en el artículo 92 de este Código, se sancionarán con multa de cuarenta y cinco a noventa UMAs.
 
 Cuando por un acto o una omisión se incurra en varias infracciones a las que correspondan diversas multas, sólo se impondrá la multa mayor.
 
 Los ingresos que el Municipio obtenga por la aplicación de multas y sanciones establecidas en disposiciones reglamentarias, así como en otros ordenamientos de carácter hacendario, se enterarán de conformidad con los montos que establezcan los ordenamientos que las contengan.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 94.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de cinco a cien días de salario mínimo.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de cinco a cien UMAs.
 
 ## TÍTULO QUINTO. DE LOS DELITOS FISCALES
 
@@ -1329,7 +1431,9 @@ II. De nueve meses a cuatro años de prisión, al que imprima, grabe o troquele,
 
 III. De nueve meses a tres años de prisión, al que altere en sus características las cédulas, licencias o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medio de control fiscal;
 
-De seis meses a dos años de prisión y una multa de treinta a quinientos días de salario mínimo, a quien forme las cosas y objetos señalados en los incisos anteriores con los fragmentos de otros recortados o mutilados.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+De seis meses a dos años de prisión y una multa de treinta a quinientas UMAs, a quien forme las cosas y objetos señalados en las fracciones anteriores con los fragmentos de otros recortados o mutilados.
 
 ###### Artículo 111.
 
@@ -1357,7 +1461,9 @@ X. Utilizar sellos, documentación u otro medio de control fiscal falsificados o
 
 XI. Permitir el uso de su nombre para manifestar negociaciones ajenas.
 
-El delito de defraudación fiscal se sancionará con pena de tres meses a cuatro años de prisión, si el monto de la prestación fiscal defraudada no excede de mil días de salario mínimo, y con prisión de un año a seis años, si dicho monto excede de esa cantidad.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+El delito de defraudación fiscal se sancionará con pena de tres meses a cuatro años de prisión, si el monto de la prestación fiscal defraudada no excede de mil UMAs, y con prisión de un año a seis años, si dicho monto excede de esa cantidad.
 
 Cuando no se pueda determinar la cuantía del impuesto que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -1385,9 +1491,11 @@ c) Imprima u ordene imprimir formas de control fiscal o emita u ordene la emisi�
 
 Altere documentación oficial o expida una falsa en cualquier tipo de trámite del orden fiscal.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 113.
 
-Se impondrá prisión de seis meses a tres años y se impondrá multa de treinta a quinientos días de salario mínimo, a quien entregue u ofrezca dinero o dádivas a los servidores públicos municipales, para incurrir en alguno de los delitos previstos por este Título.
+Se impondrá prisión de seis meses a tres años y se impondrá multa de treinta a quinientas UMAs, a quien entregue u ofrezca dinero o dádivas a los servidores públicos municipales, para incurrir en alguno de los delitos previstos por este Título.
 
 # LIBRO TERCERO. DE LOS INGRESOS MUNICIPALES
 
@@ -1497,9 +1605,9 @@ Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en c
 
 Las personas mayores de sesenta años, o las personas con discapacidad, contribuyentes de este municipio, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo.
 
-> <small>(REFORMADO, G.O. 10 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
 
-El Ayuntamiento, por acuerdo del Cabildo, podrá otorgar igualmente el descuento del cincuenta por ciento en el pago de esta contribución a madres solteras que sean jefas de familia, así como a las víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, siempre que reúnan los requisitos señalados en el párrafo anterior. En este caso, la tesorería municipal informará al Congreso del Estado y al Órgano de Fiscalización Superior sobre el acuerdo referido.
+El Ayuntamiento, por acuerdo del Cabildo, podrá otorgar igualmente el descuento del cincuenta por ciento en el pago de esta contribución a las familias monoparentales primarias y secundarias, siempre que reúnan los requisitos señalados en el párrafo anterior. En este caso, la tesorería municipal informará al Congreso del Estado y al Órgano de Fiscalización Superior sobre el acuerdo referido.
 
 A este descuento no se podrá adicionar el previsto en el artículo 119 de este Código.
 
@@ -1507,13 +1615,11 @@ A este descuento no se podrá adicionar el previsto en el artículo 119 de este 
 
 La Tesorería Municipal llevará un padrón de estos contribuyentes, mismo que se actualizará en los meses de octubre y noviembre de cada año.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 123.
 
-El impuesto anual a pagar no podrá ser menor a 3.5 salarios mínimos, excepto lo dispuesto por el artículo 119 de este Código.
+El impuesto anual a pagar no podrá ser menor a 3.5 UMAs, excepto lo dispuesto por el artículo 119 de este Código.
 
 El pago de este impuesto se considerará definitivo, salvo prueba en contrario.
 
@@ -1621,13 +1727,19 @@ Son sujetos de este impuesto, las personas físicas o morales que adquieran inmu
 
 Será base gravable del Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, el valor que resulte más alto entre el de operación y el valor catastral o catastral provisional, con base a las Tablas de Valores publicadas en la Gaceta Oficial Órgano del Gobierno del Estado, en términos de la Ley Número 42 de Catastro del Estado de Veracruz de Ignacio de la Llave.
 
-Para los efectos de este impuesto se considera, salvo prueba en contrario, que se transmiten, bajo cualquier título, terreno y construcción, si ésta se ha iniciado antes de la celebración del contrato respectivo, aun cuando con anterioridad se hubiese celebrado promesa de venta del terreno.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+Para los efectos de este impuesto se considera que se transmiten, bajo cualquier título, terreno y construcción, salvo prueba en contrario, debiendo acompañar los documentos que demuestren la procedencia del contrato celebrado en términos del Código Civil del Estado; y Licencia de Construcción, si se ha iniciado la construcción en forma posterior a la celebración del contrato respectivo, aun cuando con anterioridad se hubiese celebrado promesa de venta del terreno.
 
 Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de condonarlas, el importe de ellas se considerará como parte del precio pactado.
 
-Para los efectos de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del cincuenta por ciento del valor de la propiedad.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
 
-En los inmuebles adquiridos durante el período de tres años anteriores, contado a partir de la fecha de la operación actual, el impuesto se calculará sobre el valor que resulte de disminuir del valor mayor, a que se refiere el párrafo primero, aquel valor que se tomó como base para el cálculo del impuesto en la última adquisición.
+Para los efectos de este impuesto, se considera que el usufructo y la nuda propiedad y disolución de la sociedad conyugal en los términos de la normatividad aplicable, tienen un valor del cincuenta por ciento del valor de la propiedad para cada uno de ellos.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+En los inmuebles adquiridos durante el período de tres años anteriores, contado a partir de la fecha de la operación actual, el impuesto se calculará sobre el valor que resulte de disminuir del valor mayor, a que se refiere el párrafo primero, aquel valor que se tomó como base para el cálculo del impuesto en la última adquisición, siempre que se haya cubierto el impuesto correspondiente de esta última.
 
 En la adquisición por prescripción positiva, la base del impuesto se determinará con valores referidos a la fecha en que cause ejecutoria la resolución judicial; en la adquisición por herencia, a la fecha de la adjudicación; y en la información ad perpetuam, a la fecha de la resolución judicial.
 
@@ -1639,7 +1751,9 @@ Para determinar la base del impuesto los contribuyentes o los fedatarios ante qu
 
 Además de los documentos a que se refiere el artículo anterior, los contribuyentes de este impuesto presentarán, ante quien se haga constar el acto objeto del impuesto, la constancia de no adeudo expedida por las autoridades municipales en la forma oficial autorizada y la última boleta del pago del impuesto predial que acredite estar al corriente. El Notario dará fe de haber tenido a la vista dichos comprobantes y los agregará al apéndice del protocolo.
 
-Las constancias de no adeudo en el pago de contribuciones municipales se expedirán por la Tesorería, si procedieren, dentro de los siete días siguientes al de la fecha de solicitud por escrito del interesado. Transcurrido dicho plazo, si la Tesorería no expidiere las constancias solicitadas ni diere respuesta negativa por escrito, motivada y fundada, se tendrá como reconocido el no adeudo.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+Las constancias de no adeudo en el pago de contribuciones municipales se expedirán por la Tesorería, si procedieren, dentro de los siete días siguientes al de la fecha de solicitud por escrito del interesado o de su representante. Transcurrido dicho plazo, si la Tesorería no expidiere las constancias solicitadas ni diere respuesta negativa por escrito, motivada y fundada, se tendrá como reconocido el no adeudo.
 
 Las constancias de no adeudo que, en su caso, expida la Tesorería estarán vigentes durante sesenta días a partir de la fecha de su expedición o hasta la fecha de firma de la escritura, si ésta ocurriere antes.
 
@@ -1657,7 +1771,9 @@ El impuesto al que se refiere el presente Capítulo, incluida la adquisición de
 
 En las adquisiciones que se hagan constar en escritura pública, los Notarios calcularán el impuesto bajo su responsabilidad, lo enterarán una vez expensados para ello, mediante declaración que presentarán ante la Tesorería en la forma oficial autorizada y lo harán constar en el testimonio. En los demás casos, los contribuyentes enterarán el impuesto mediante la forma oficial autorizada ante dicha Tesorería.
 
-Se presentará declaración por todas las operaciones, aun cuando no proceda el pago del impuesto.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+Se presentará declaración por todas las operaciones, aun cuando no proceda el pago del impuesto y deberá acompañarse con los documentos señalados en los artículos 135 y 136 de este Código.
 
 Con la forma oficial de declaración deberán acompañarse:
 
@@ -1665,15 +1781,21 @@ I. Certificado de Valor Catastral o Catastral Provisional; y
 
 II. Copia de la constancia de no adeudo y de la boleta de pago del impuesto predial correspondiente al ejercicio en que se realice la operación.
 
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+Las y los propietarios o poseedores, sus representantes, los inquilinos, administradores o cualquier otra persona encargada de un bien inmueble están obligados a proporcionar a las autoridades o a las y los servidores públicos debidamente autorizados para ese efecto, los datos, documentos e informes que se les soliciten.
+
 ###### Artículo 139.
 
 Los adquirentes que celebren operaciones de constitución de usufructo, transmisión de éste o de la nuda propiedad, podrán optar por pagar el impuesto, considerando el cien por ciento de la base gravable.
 
 En este caso, cuando se consolide la propiedad, no se efectuará pago alguno por este concepto, pero se presentará declaración relacionándola con la anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 140.
 
-La Tesorería, en ejercicio de sus facultades de comprobación respecto de contribuyentes de este impuesto, cuando lo estime necesario, podrá solicitar de los contribuyentes que presenten el testimonio respectivo en original, para obtener una copia del mismo.
+La Tesorería, en ejercicio de sus facultades de comprobación respecto de contribuyentes de este impuesto, podrá solicitar a los contribuyentes que presenten el testimonio respectivo en original para su cotejo.
 
 Si en la declaración se oculta superficie de terreno o de las construcciones consignadas en el antecedente de propiedad, independientemente de la diferencia de impuesto que resulte, se aplicará la sanción que corresponda.
 
@@ -1917,9 +2039,11 @@ VI. Retener y enterar el impuesto que corresponda, conforme a los artículos 155
 
 VII. Proporcionar constancia de retención de impuestos a la persona que obtenga el premio.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 160.
 
-No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la Administración Pública Estatal y Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas, así como las asociaciones religiosas. Tampoco se causará este impuesto cuando los premios en forma global no superen el valor equivalente a los cuatrocientos salarios mínimos en el Municipio.
+No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la Administración Pública Estatal y Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas, así como las asociaciones religiosas. Tampoco se causará este impuesto cuando los premios en forma global no superen el valor equivalente a las cuatrocientas UMAs.
 
 ###### Artículo 161.
 
@@ -1939,19 +2063,25 @@ Son sujetos de este impuesto, las personas físicas o morales, ya sean propietar
 
 Este impuesto se causará mensualmente por cada establecimiento en que se celebren juegos permitidos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 165.
 
-Este impuesto se causará y pagará conforme a una tarifa mensual, fijada en salarios mínimos en la Ley de Ingresos del Municipio para el ejercicio fiscal de que se trate, de los siguientes:
+Este impuesto se causará y pagará conforme a una tarifa mensual, fijada en UMAs en la Ley de Ingresos del Municipio para el ejercicio fiscal de que se trate, de los siguientes:
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 I. Billar, dominó, dados y otros similares, por mesa;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 II. Los juegos de boliche, por mesa;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 III. Videojuegos, por máquina; y
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 IV. Los juegos de azar y electrónicos, por mesa o máquina electrónica.
 
@@ -1963,13 +2093,35 @@ Este impuesto se pagará en la Tesorería, los primeros cinco días de cada mes.
 
 Las personas a quienes se conceda autorización para celebrar los eventos a que se refiere este capítulo, tendrán las siguientes obligaciones:
 
-I. Solicitar previamente la licencia para celebrar los juegos a la autoridad competente;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-II. Dar aviso a la Tesorería de la iniciación de sus actividades, con cinco días de antelación cuando menos, indicando el número y fecha de oficio en que conste la licencia que se le haya concedido y la autoridad que la haya otorgado;
+I. Solicitar al área competente la autorización para la explotación comercial de los juegos previstos en el presente Código. En caso de ser positiva la respuesta, la cédula o licencia comercial deberá indicar el número y tipo de juegos que se celebran en el establecimiento comercial;
 
-III. Dar aviso a la Tesorería del traspaso o traslado del negocio y de la terminación de las actividades gravadas, antes de que estos hechos ocurran; y
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+II. Avisar por escrito a la Tesorería de la iniciación de sus actividades, con cinco días de antelación cuando menos, indicando el número y fecha de oficio en que conste la autorización que se le haya concedido y la autoridad que la haya otorgado;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+III. Avisar por escrito a la Tesorería del traspaso o traslado del negocio y de la terminación de las actividades gravadas, antes de que estos hechos ocurran;
 
 IV. Otorgar toda clase de facilidades a los inspectores o interventores comisionados por la Tesorería para que desempeñen adecuadamente su cometido.
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+V. Avisar por escrito a la autoridad competente de los incrementos o disminuciones de juegos permitidos;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+VI. Solicitar por escrito la suspensión temporal de actividad;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+VII. Realizar el pago correspondiente conforme a lo establecido en la Ley de Ingresos y demás ordenamientos jurídicos aplicables; y
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+VIII. Refrendar cada año la licencia para la explotación comercial de los juegos permitidos.
 
 ###### Artículo 168.
 
@@ -2087,9 +2239,11 @@ Es objeto de estos derechos la prestación de servicios por parte del Municipio,
 
 Son sujetos del pago de derechos las personas físicas o morales que reciban servicios prestados por el Municipio o por sus entidades, en funciones de derecho público.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 186.
 
-Los derechos por la prestación de servicios deberán ser congruentes con el costo total 6el (sic) servicio, incluso el financiero, excepto cuando dichos costos tengan un carácter de administración del servicio.
+Los derechos por la prestación de servicios deberán ser congruentes con el costo total del servicio, incluso el financiero, excepto cuando dichos costos tengan un carácter de administración del servicio.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2127,7 +2281,9 @@ Los administradores de bienes o servicios concesionados serán solidariamente re
 
 Son facultades de las autoridades fiscales, en materia de derechos:
 
-I. Verificar su pago, así como la obtención oportuna por parte de los contribuyentes de la cédula de empadronamiento y la autorización, en su caso;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+I. Verificar el pago por parte de las y los contribuyentes de la cédula de empadronamiento y la autorización, en su caso;
 
 II. Auxiliar a los concesionarios de servicios en el cobro de tarifas; y
 
@@ -2153,99 +2309,179 @@ Cuando la ley establezca la obligación de pago de un refrendo de permisos, lice
 
 Es objeto de este derecho el otorgamiento de la licencia de funcionamiento, permiso o autorización, registro o refrendo a negociaciones, giros o actividades económicas, cuya reglamentación y vigilancia corresponda a la autoridad municipal.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 197.
 
-Los propietarios de negociaciones comerciales, industriales, de prestación de servicios y, en general, de toda actividad económica, deberán empadronarse en la Tesorería y obtener la cédula respectiva y, en su caso, la licencia o autorización de funcionamiento que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. Dicha cédula de empadronamiento se mantendrá vigente, hasta en tanto no se realice baja, cambio de giro o de domicilio, excepto para los giros que implican la enajenación o expendio de bebidas alcohólicas, en cuyo caso la vigencia de la cédula de empadronamiento de la licencia será de un año.
+Las y los propietarios de negociaciones comerciales, industriales, de prestación de servicios y, en general, de toda actividad económica, deberán empadronarse en la Dirección de Desarrollo Económico y obtener la cédula respectiva y, en su caso, licencia de funcionamiento que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. Dicha cédula de empadronamiento o licencia de funcionamiento se mantendrá vigente, hasta en tanto no se configure alguna de las causales de baja previstas en los ordenamientos aplicables, cambio de giro o de domicilio, excepto para los giros que implican la enajenación o expendio de bebidas alcohólicas, en cuyo caso la vigencia de la cédula de empadronamiento de la licencia será de un año, debiéndose refrendar durante el mes de enero de cada ejercicio fiscal.
+
+Los derechos a que se refiere este artículo se causarán y pagarán en UMAs, de conformidad con la Ley de Ingresos.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 198.
 
-El inicio de actividades, la ampliación o el cambio de giro de los establecimientos o locales a los que se refiere el artículo anterior, serán autorizados por la Tesorería, de conformidad con los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo.
+El inicio de actividades, la ampliación o el cambio de giro de los establecimientos o locales a los que se refiere el artículo anterior, serán autorizados por la Dirección de Desarrollo Económico, de conformidad con los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo.
 
 ###### Artículo 199.
 
 Son sujetos de este derecho las personas físicas o morales que soliciten del Ayuntamiento la autorización de funcionamiento, registro o refrendo señalados en el artículo 196 de este Código o la licencia correspondiente.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 200.
 
-El Municipio, en términos de lo dispuesto por la Ley de Coordinación Fiscal y demás normatividad aplicable, ejercerá facultades operativas de verificación al momento de expedir las licencias a que se refiere este Código y deberá solicitar a los interesados la exhibición de su cédula de inscripción al Registro Federal de Contribuyentes.
+El Municipio, en términos de lo dispuesto por la Ley de Coordinación Fiscal y demás normatividad aplicable, ejercerá facultades operativas de verificación al momento de expedir las cédulas de empadronamiento o licencias de funcionamiento a que se refiere este Código y deberá solicitar a los interesados la exhibición de su cédula de inscripción al Registro Federal de Contribuyentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+En términos de la normatividad aludida en el párrafo anterior, la cédula o licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, no causarán cuota alguna, pero sus propietarios cumplirán los requisitos que para el otorgamiento de aquellos señalen los reglamentos municipales y cubrirán, en su caso, el pago de las formas valoradas que correspondan, de acuerdo con la cuota en UMAs, que señale la Ley de Ingresos del Municipio.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
-
-En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, no causarán cuota alguna, pero sus propietarios cumplirán los requisitos que para el otorgamiento de aquellos señalen los reglamentos municipales y cubrirán, en su caso, el pago de las formas valoradas que correspondan, de acuerdo con la cuota en salarios mínimos, que señale la Ley de Ingresos del Municipio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
-
-Se exceptúan de la no causación los giros comerciales que enajenen o expendan bebidas alcohólicas en forma total o parcial al público en general, en cuyo caso deberán cubrir la cuota o tarifa establecida en la Ley de Ingresos en vigor, por el otorgamiento o refrendo de cada licencia, pero la omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
+Deberán cubrir la cuota o tarifa establecida en la Ley de Ingresos, por el otorgamiento o refrendo de cada cédula o licencia, pero la omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
 
 #### SECCIÓN I. DE LOS ESTABLECIMIENTOS CUYO GIRO SEA LA ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS REALIZADA TOTAL O PARCIALMENTE AL PÚBLICO EN GENERAL
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 201.
 
-Las licencias, permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse el domicilio señalado en los mismos sin la autorización previa del Cabildo, en términos de las disposiciones reglamentarias correspondientes.
+Las cédulas de empadronamiento, licencias de funcionamiento, permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse el domicilio señalado en los mismos sin la autorización previa de la Dirección de Desarrollo Económico, en términos de las disposiciones reglamentarias correspondientes.
+
+Para el caso de las licencias de funcionamiento de giros comerciales tipo C+, los cambios previstos en el párrafo anterior deberán realizarse previa autorización del Cabildo y cumplimiento de los requisitos previstos en la normatividad aplicable.
 
 ###### Artículo 202.
 
 Los permisos o autorizaciones de carácter temporal, para giros comerciales que enajenen o expendan bebidas alcohólicas, tendrán un costo proporcional al número de días para el cual se expidan, en relación con la cuota que corresponda de acuerdo a su giro. En ningún caso el costo será menor al que corresponda a quince días.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 203.
 
-La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca la reglamentación municipal respectiva o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
+La expedición de cédulas, licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, por considerar su nivel de riesgo e impacto a la sociedad, estarán sujetos a los requisitos que establezca la reglamentación municipal respectiva o, en su defecto, a lo que apruebe el Cabildo, mediante reglas o disposiciones de carácter general.
 
-Las cuotas o tarifas por la expedición de esas licencias se fijarán en salarios mínimos, respecto de los giros siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE MARZO DE 2021)</small>
+
+Las cuotas o tarifas por la expedición de esas cédulas, licencias, permisos o autorizaciones se fijarán en UMAs, respecto de los giros siguientes:
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 I. Abarrotes con venta de cerveza;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 II. Abarrotes con venta de cerveza, vinos y licores;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 III. Agencias;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 IV. Almacenes o Distribuidores;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 V. Billares;
 
-VI. Cantinas o bares;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-VII. Centros de eventos sociales;
+VI. Cantinas, bares, centrobotanero y antros;
 
-VIII. Centros deportivos o recreativos;
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
 
-IX. Centros nocturnos y cabarets;
+VII. Casinos;
 
-X. Cervecerías;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-XI. Clubes sociales;
+VIII. Centros de eventos sociales;
 
-XII. Depósitos;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-XIII. Discotecas;
+IX. Centros deportivos o recreativos;
 
-XIV. Hoteles y moteles;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-XV. Kermeses, ferias y bailes públicos;
+X. Centros nocturnos y cabarés;
 
-XVI. Licorerías;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-XVII. Loncherías, taquerías, marisquerías, fondas, coctelerías, torterías, pizzerías y similares;
+XI. Cervecerías;
 
-XVIII. Minisúper;
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
 
-XIX. Peñas, canta bar, café bar, video bar y café cantante;
+XII. Comercio al por menor de gas L.P., en cilindros y tanques estacionarios;
 
-XX. Restaurante;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-XXI. Restaurante-bar;
+XIII. Clubes sociales;
 
-XXII. Servicar; y
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-XXIII. Supermercados.
+XIV. Depósitos;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XV. Discotecas;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XVI. Gasolineras;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XVII. Hoteles y moteles;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XVIII. Hoteles con casino;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XIX. Kermeses, ferias y bailes públicos;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XX. Licorerías;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXI. Loncherías, taquerías, marisquerías, fondas, coctelerías, torterías, pizzerías y similares;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXII. Minisúper;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXIII. Peñas, canta bar, café bar, video bar y café cantante;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXIV. Pulquerías;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXV. Restaurantes;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXVI. Restaurante-bar;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXVII. Salón social con extensión de horario;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXVIII. Servicar;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXIX. Supermercados, tiendas departamentales, agencias o cadenas comerciales; y
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XXX. Tiendas de conveniencia.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 Los derechos por refrendos anuales se calcularán y pagarán a razón de un porcentaje del costo de la licencia.
 
@@ -2269,63 +2505,143 @@ Son responsables solidarios en el pago de los derechos a que se refiere esta Sec
 
 Las autoridades municipales establecerán en sus reglamentos respectivos, o mediante disposiciones de carácter general, los requisitos para el otorgamiento de licencias, permisos o autorizaciones en su caso, para colocar anuncios, el plazo de su vigencia, así como sus características, dimensiones y espacios en que se fijen o instalen, el procedimiento para su colocación y los materiales, estructuras, soportes y sistemas de iluminación que se utilicen en su construcción. Asimismo establecerán las condiciones en que se autorice la publicidad móvil por medio de altavoz y en los vehículos en los que se preste el servicio de transporte público de pasajeros.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 206.
 
-Los derechos a que se refiere esta Sección, se cobrarán en salarios mínimos, por la licencia de autorización o, en su caso, de regularización del permiso, para la colocación de anuncios o cualquier tipo de publicidad visible o audible en la vía pública, y los instalados en propiedad particular, con base en los requisitos establecidos en el Reglamento Municipal de la materia, por los siguientes conceptos:
+Los derechos a que se refiere esta Sección, se cobrarán en UMAs, por la licencia de autorización o, en su caso, de regularización del permiso, para la colocación de anuncios o cualquier tipo de publicidad visible o audible en la vía pública, y los instalados en propiedad particular, con base en los términos de la Ley de Ingresos y la reglamentación municipal aplicable, por los siguientes conceptos:
 
-I. Por la colocación de anuncios comerciales y publicitarios fijos Tipo "A":
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE MARZO DE 2021)</small>
 
-a) Anuncios adosados o de marquesina con dimensiones desde 1.00 metro lineal o fracción a 6.00 metros de largo y hasta 1.00 metro de altura, por un año o fracción;
+I. Por Anuncios Comerciales y Publicidad se cobrará por la licencia de autorización o, en su caso, de regularización del permiso y por el refrendo, de acuerdo con las cuotas siguientes quedando agrupados los cobros en cuatro zonas de afluencia comercial:
 
-b) Anuncios adosados o de marquesina con dimensiones de más de 6.00 metros lineales de largo y altura mayor o menor de 1.00 metro, se cobrará por la superficie que resulte del área de exhibición, por un año o fracción.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
 
-II. Por la colocación de anuncios comerciales y publicitarios Tipo "B" eventuales, que se distribuyan o no tengan un lugar fijo en la vía pública o tengan efectos sobre ésta, repercutiendo en la imagen urbana, dependiendo de su dimensión o cantidad, por un mes o fracción, de acuerdo con la siguiente clasificación:
+a) Zona A: Centro Histórico de la Ciudad delimitado por las calles: Av. 20 de Noviembre, Díaz Mirón, Ignacio Allende, Úrsulo Galván, Sayago, Ignacio de la Llave e incluyendo las Avenidas primarias como: Blvd. Adolfo Ruiz Cortines, Av. Atenas Veracruzana, Av. Orizaba, Av. Lázaro Cárdenas, Av. Villahermosa, Av. Miguel Alemán, Av. Américas, Av. Pípila, Av. Chedraui Caram, Paseo de las Araucarias, Blvd. Europa, Arco Sur, Av. Rébsamen, Murillo Vidal, Cto. Presidentes, Av. Maestros Veracruzanos, Av. Ávila Camacho y Blvd. Diamante.
 
-a) Lonas, por metro cuadrado o fracción;
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
 
-b) Perifoneo;
+b) Zona B: abarcará los Centros Suburbanos delimitados de la siguiente manera:
 
-c) Botargas en la vía pública, por pieza;
+1. Av. México, Boulevard Xalapa – Banderilla, Av. Paseo Xalapa y Calle Paseo Xalapa.
 
-d) Magnavoces;
+2. Av. Xalapa, Av. Acueducto, Av. Adolfo Ruiz Cortines, Calle Mérida, Calle Esperanza Bringas, Calle Gildardo Avilés, Calle Pelícano, Calle Médicos, Calle Odontólogos, Calle del Museo y Av. Primero de Mayo.
 
-e) Amplificadores;
+3. Av. Ferrocarril Interoceánico, Calle Enrique Z. Mercado, Calle Tinacal, Calle Emilio Léyzegui, Avenida Encanto, Calle Jorge Cerdán y Calle Miguel Hidalgo.
 
-f) Ambulantes no sonoros, por metro cuadrado o fracción;
+4. Calle Bolivia, Calle Costa Rica, Calle República del Salvador, Calle Ignacio Allende, Calle Magnolia, Calle Lucio García Ochoa, Calle Los Naranjos, Calle Maravillas, Calle San Luis Potosí, Calle Sexta de Juárez, Calle Ciprés, Av. Venustiano Carranza, Calle Francisco González Bocanegra, Calle Jorge A. Serrano Elías, Calle Roble y Calle Carlos Miguel Palacios.
 
-g) Pantallas, por metro cuadrado o fracción;
+5. Calle Poeta Ángel Núñez Beltrán, Circuito Presidentes, Calle Agustín Cerdán, Circuito José María Vasconcelos, Calle 0, Calle Prolongación 1, Calle 3, Calle 4, Calle 5, Calle 6, Calle 2, Calle 7, Calle 9, Calle Cuba, Calle Venezuela, Calle Ecuador, Calle Panamá, Calle Brasil, Calle Santo Domingo, Calle Encino, Calle Las Hayas y Calle Nicaragua.
 
-h) De leyenda de venta o renta de propiedades, mayores a un metro cuadrado;
+6. Calle La Paz, Calle Basurto, Calle Paseo Los Lagos, Calle Vista Hermosa, Calle Nicolás Bravo, Calle Cayetano Rodríguez Beltrán, Calle Miguel Barragán, Calle Pérgola, Calle Salvador Díaz Mirón, Circuito Universitario Gonzalo Aguirre Beltrán, Calle Lomas del Estadio, Calle 13 de Septiembre, Calle Obreros Textiles, Calle Cultura Veracruzana, Calle Primero de Septiembre, Calle 2 de Septiembre, Calle Serafín Olarte y Calle Manlio Fabio Altamirano.
 
-i) De promoción de eventos, por metro cuadrado o fracción;
+7. Calle Coronel Pablo Frutis, Calle Acela Servín, Priv. Agua Santa 2, Calle Tapachula, Calle Tuxtla Gutiérrez, Calle Oaxaca, Calle Pico de Orizaba, Calle Soledad, Calle Colibríes, Calle San Agustín, Calle Santo Domingo, Calle San Francisco, Calle José María Arieta, Calle Primavera, Calle Juan López Domínguez, Calle Aguacate, Calle Paseo Van Gogh, Calle Luis Iglesias F., Calle Amado Nervo, Calle Rubén Darío, Calle G. A. Bécquer, Calle L. Góngora, Calle Storni, Calle Cerro de Chihuahua, Calle F. García Lorca, Calle Pablo G. Baena, Calle Rafael Alberti, Calle Gabriela Mistral, Calle Paseo de los Fresnos, Calle Paseo de las Palmas, Calle de la Sabana, Calle Federico Menzel, Calle Agua Dulce, Calle Tío Lagunes, Calle Gladiolas, Calle Azucena, Calle Flor de Liz, Calle Flor de Azahares, Calle Rafael Moreno Valle, Calle Vista Hermosa, Calle Gral. San Martin, Calle Dr. Castelazo Ayala, Calle Principal, Calle Laguna Pátzcuaro, Zona Arco Sur, Zona Reserva Territorial y Zona Trancas.
 
-j) Colocados o fijados en inmuebles en construcción, por metro cuadrado o fracción;
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
 
-k) Tableros, por metro cuadrado o fracción;
+c) Zona C: Avenidas principales con comercios aledaños: Camino Antiguo a Naolinco, Camino Antiguo a Chiltoyac, Camino al Castillo, Av. Popocatépetl, Av. Marina Nacional, Av. Quetzal, Calle Hortensia, Calle Lázaro Cárdenas, Calle Fernando Gutiérrez Barrios, Calle Calzada Luz del Barrio, Av. Ébano, Av. Poza Rica, Calle Fray Andrés Olmos, Calle Ismael Cristen, Av. Ramón López Velarde y Calle Marina Nacional.
 
-l) Bastidores, por metro cuadrado o fracción;
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
 
-m) Volantes, por cada paquete de 500 ejemplares; y
+d) Zona D: Comercios ubicados en las demás calles de la ciudad delimitados por el plano de zonificación de tarifas para publicidad en el Área de Xalapa.
 
-n) Folletos, por cada paquete de 500 ejemplares.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-III. Por la colocación, regularización o refrendo de anuncios comerciales y publicitarios fijos Tipo "C", en la vía pública o tengan efectos sobre ésta, repercutiendo en la imagen urbana:
+II. Por la colocación de anuncios comerciales y publicitarios fijos Tipo "A":
 
-a) Los anuncios sobre techo, "adosados al edificio con estructura", panorámico, pantalla electrónica, múltiple, inflable, prisma, diseños especiales con rayos láser, aeronaves, de una o dos vistas, se cobrará una cuota por la colocación y otra por el refrendo, por metro cuadrado del área de exhibición, por un año de vigencia o fracción;
+a) Anuncios adosados o de marquesina con dimensiones desde 1.00 metro lineal o fracción a 6.00 metros de largo y hasta 1.00 metro de altura, por la colocación o regularización, por un año o fracción.
 
-b) Anuncios tipo valla de una o dos vistas, colocados sobre pared o marquesina, se cobrará una cuota por la colocación y otra por el refrendo, por metro cuadrado del área de exhibición, por un año de vigencia o fracción; y
+b) Anuncios adosados o de marquesina con dimensiones de más de 6.00 metros lineales de largo y altura mayor o menor de 1.00 metro, por cada metro cuadrado o fracción del área de exhibición, por la colocación o regularización, conforme a la Zona que le corresponda descrita en la fracción I del presente artículo, por un año o fracción; y por el refrendo, por metro cuadrado del área de exhibición, por un año de vigencia o fracción.
 
-c) Anuncios espectaculares de una o dos vistas, panorámico unipolar, pantalla electrónica, múltiple, inflable, diseños especiales de estructura metálica o fijados con tensores colocados en piso, se cobrará una cuota por la colocación y otra por el refrendo, por metro cuadrado del área de exhibición, por un año de vigencia o fracción.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE MARZO DE 2021)</small>
 
-IV. Anuncios comerciales y publicitarios fijos en el interior o exterior de vehículos que tenga efectos en la vía pública, repercutiendo en la imagen urbana:
+III. Por la colocación de anuncios comerciales y publicitarios Tipo "B" eventuales:
 
-a) En vehículos de servicio particular, por metro cuadrado o fracción del área de exhibición, por un año de vigencia o fracción; y
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
 
-b) En vehículos del servicio de transporte público de pasajeros, por metro cuadrado o fracción del área de exhibición, por un año de vigencia o fracción.
+Tipo de Anuncio:
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+a) Lonas.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+b) Perifoneo.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+c) Volantes.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+d) Botargas en la vía pública.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+e) Magnavoces.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+f) Amplificadores.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+g) Ambulantes no sonoros.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+h) Pantallas.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+i) De leyenda de venta o renta de propiedades.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+j) De promoción de eventos.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+k) Colocados o fijados en inmuebles en construcción.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+l) Tableros.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+m) Bastidores.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+n) Folletos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE MARZO DE 2021)</small>
+
+IV. Por la colocación, regularización o refrendo de anuncios comerciales y publicitarios fijos Tipo "C":
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+a) Anuncios sobre techo, adosados al edificio con estructura, panorámico, pantalla electrónica, múltiple, inflable, prisma, diseños especiales con rayos láser, aeronaves, de una vista o dos vistas ambos por la colocación o regularización; y por el refrendo, por metro cuadrado del área de exhibición, por un año de vigencia o fracción.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+b) Anuncios tipo valla de una vista y dos vistas, ambos por la colocación o regularización sobre pared o marquesina; y por el refrendo, por metro cuadrado del área de exhibición, por un año de vigencia o fracción.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+c) Anuncios espectaculares, panorámico unipolar, pantalla electrónica, múltiple, inflable, diseños especiales de estructura metálica o fijados con tensores colocados en piso, de una vista y dos vistas, ambos por la colocación o regularización; y por el refrendo, por metro cuadrado del área de exhibición, por un año de vigencia o fracción.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.O. 11 DE MARZO DE 2021)</small>
+
+V. Por la colocación, o en su caso, regularización del permiso, de anuncios comerciales y publicitarios fijos en el interior o exterior de vehículos, que tenga efectos en la vía pública, repercutiendo en la imagen urbana:
+
+a) En vehículos de servicio particular, por la colocación; y por la permanencia o refrendo, por metro cuadrado o fracción del área de exhibición, por un año de vigencia o fracción.
+
+b) En vehículos del servicio de transporte público de pasajeros, por la colocación; y por la permanencia o refrendo, por metro cuadrado del área de exhibición, por un año de vigencia o fracción.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 No causarán los derechos previstos en esta Sección, la colocación de anuncios, o cualquier acto publicitario, realizado con fines de asistencia o beneficencia pública; la publicidad de partidos políticos y de asociaciones religiosas; la publicidad de la Federación, del Estado, o del Municipio; y la publicidad que se realice con fines nominativos para la identificación de la negociación, siempre y cuando se realice en el propio establecimiento, así como la publicidad móvil en vehículos propios.
 
@@ -2407,17 +2723,21 @@ En el caso de que el servicio se preste en rebeldía del usuario, se notificará
 
 Los servicios de deslinde de predios tendrán como base la superficie del predio y se realizarán por peritos designados por el Ayuntamiento. Si practicado el deslinde resulta una diferencia en la superficie del predio, superior o inferior, sobre la que se utilizó como base para el pago de los derechos, se hará el ajuste correspondiente, procediendo al cobro o devolución, según el caso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 213.
 
-Los derechos por obras materiales se causarán y pagarán, en salarios mínimos, por los servicios siguientes:
+Los derechos por obras materiales se causarán y pagarán, en UMAs, por los servicios siguientes:
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 I. Por derechos de alineamiento de predios, calculados sobre el total de metros lineales que tenga el terreno frente a la vía pública, en términos de la normatividad aplicable, conforme a los usos de los terrenos y en todos los casos con rangos de 1 a 20 metros lineales, de más de 20 a 40, de más de 40 a 60 y de más de 60: habitacional, con categorías residencial, medio, de interés social y popular; o comercial, industrial, agropecuario o de servicio;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 II. Por asignación de número oficial, cada uno, conforme a los usos de los terrenos: habitacional, con categorías residencial, medio, interés social y popular; o comercial, industrial, agropecuario o de servicio;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 III. Por la expedición de licencias:
 
@@ -2451,9 +2771,15 @@ n) De instalación de antenas de telecomunicación, por metro lineal o fracción
 
 o) De regularización de uso de suelo, según clasificación, para vivienda, industria, comercio y servicios, por metro cuadrado o fracción.
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 IV. Por la inspección técnica ocular de predios, conforme a los usos de los terrenos: habitacional, con categorías residencial, medio, interés social y popular; o comercial, industrial, agropecuario o de servicio;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 V. Por registro, estudio y aprobación de planos y proyectos de construcción, remodelación o ampliación, conforme a los usos de los terrenos: habitacional, con categorías residencial, medio, interés social y popular; o comercial, industrial, agropecuario o de servicio. La modificación de proyectos también causará derechos, a razón de un porcentaje sobre las cuotas que correspondan;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 VI. Por la expedición de diversas autorizaciones en materia de desarrollo urbano, por cada una, de los siguientes conceptos:
 
@@ -2462,6 +2788,8 @@ a) Para la colocación de tapial, por día;
 b) Para el uso de la vía pública para colocación de material de construcción o similar, por día; y
 
 c) Para la modificación de guarniciones y banquetas para acceso vehicular, por cada tres metros lineales o fracción.
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 VII. Por la expedición de autorizaciones en materia ambiental:
 
@@ -2477,11 +2805,33 @@ b) Licencia ambiental de funcionamiento para establecimientos comerciales y de s
 
 2. Por la reexpedición.
 
-c) Dictamen de impacto ambiental; y
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
 
-d) Expedición de permiso para la poda o derribo de árboles en propiedad privada.
+c) Dictamen de impacto ambiental;
 
-(sic) Expedición de permiso para la poda o derribo de árboles en propiedad privada.
+> <small>[N. DE E. EL CONTENIDO DEL INCISO D) ES SIMILAR AL ÚLTIMO PÁRRAFO.]</small>
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+d) Expedición de permiso para la poda o derribo de árboles en propiedad privada;
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+e) Dictamen de impacto ambiental para vivienda unifamiliar;
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+f) Opinión técnica en materia ambiental; y
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+g) Dictamen en materia de impacto ambiental para uso de suelo y construcción.
+
+> <small>[N. DE E. EL CONTENIDO DEL PÁRRAFO ES SIMILAR AL INCISO D) DE LA FRACCIÓN VII.]</small>
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
+Expedición de permiso para la poda o derribo de árboles en propiedad privada.
 
 ### CAPÍTULO IV. DE LOS DERECHOS POR LOS SERVICIOS DE AGUA POTABLE Y DRENAJE DEL MUNICIPIO
 
@@ -2545,17 +2895,21 @@ II. La expedición de copias simples o certificadas, o por hoja impresa por medi
 
 Son sujetos de este derecho, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 225.
 
-Los funcionarios facultados para prestar los servicios a que se refiere este Capítulo verificarán que previamente se hayan cubierto los derechos correspondientes.
+Las y los funcionarios facultados para prestar los servicios a que se refiere este Capítulo verificarán que previamente se hayan cubierto los derechos correspondientes.
 
-Los derechos a que se refiere este artículo se causarán y pagarán, en salarios mínimos, por la expedición de las certificaciones y los servicios siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE MARZO DE 2021)</small>
+
+Los derechos a que se refiere este artículo se causarán y pagarán, en UMAs, por la expedición de las certificaciones y los servicios siguientes:
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 I. Certificados o certificaciones expedidos por funcionarios o empleados municipales, incluyendo la búsqueda de datos para expedirlos, por cada certificado;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 II. Copias de documentos que obren en los archivos de oficinas municipales:
 
@@ -2569,6 +2923,8 @@ d) Copias certificadas de planos de construcción;
 
 Además de los derechos que establecen los incisos que anteceden, se cobrará por la búsqueda de los documentos de los que deba sacarse copia, cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la búsqueda;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 III. Por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado:
 
 a) Por copias simples o impresos por medio de dispositivo informático, por cada hoja tamaño carta u oficio;
@@ -2579,13 +2935,23 @@ c) Por información grabada en dispositivo de almacenamiento informático o disc
 
 El costo del envío de información corresponderá a las tarifas que apliquen las empresas de servicios de mensajería contratadas, así como a las determinadas por el Servicio Postal Mexicano, para el caso de envíos por correo certificado.
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 IV. Certificados de conducta, por cada uno;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 V. Certificados de dependencia económica, por cada uno;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 VI. Certificados de reclutamiento militar, por cada uno;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 VII. Certificados de huellas dactilares, por cada uno;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 VIII. Constancias expedidas en materia de desarrollo urbano, por cada una, de los conceptos siguientes:
 
@@ -2599,13 +2965,25 @@ d) Constancias de identificación de densidad; y
 
 e) Constancias de perito responsable de obra.
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 IX. Por constancias expedidas en materia ambiental, por cada una;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 X. Por constancias expedidas en materia de protección civil, por cada una;
 
-XI. Por la Reexpedición de la Cédula de Empadronamiento o Licencia de Funcionamiento; y
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-XII. En los casos no especificados, por la expedición de certificados, certificaciones, copias certificadas, copias de documentos, verificaciones, constancias o dictámenes, por cada uno.
+XI. Por la Reexpedición de la Cédula de Empadronamiento o Licencia de Funcionamiento;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XII. En los casos no especificados, por la expedición de certificados, certificaciones, copias certificadas, copias de documentos, verificaciones, constancias o dictámenes, por cada uno; y
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XIII. Por la certificación del legajo completo, correspondiente al Acta Constitutiva de Sociedades Cooperativas constituidas dentro del territorio municipal, siempre que se encuentre registrada ante autoridad municipal competente, de conformidad con lo establecido en la Ley General de Sociedades Cooperativas.
 
 ### CAPÍTULO VI. DE LOS DERECHOS POR SERVICIOS DE RASTRO O LUGARESAUTORIZADOS (SIC)
 
@@ -2631,7 +3009,9 @@ El Rastro Municipal no será responsable por la suspensión o el retraso de los 
 
 El pago de este derecho, con excepción de lo previsto en el último párrafo de este artículo, se efectuará previamente a la prestación del servicio, en la Tesorería o ante la oficina de ésta en el Rastro. Los funcionarios encargados del Rastro Municipal no prestarán servicio alguno, si previamente no se comprueba que se pagaron los derechos correspondientes.
 
-Por la prestación de servicios que se proporcionan en los rastros públicos municipales, se causarán y pagarán los derechos, en salarios mínimos, por cada animal, según sea:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE MARZO DE 2021)</small>
+
+Por la prestación de servicios que se proporcionan en los rastros públicos municipales, se causarán y pagarán los derechos, en UMAs, por cada animal, según sea:
 
 I. Bovino;
 
@@ -2667,17 +3047,29 @@ IV. Depósito de restos en osario a perpetuidad;
 
 V. Permiso para construcción, reconstrucción, ampliación o modificación de capillas, nichos y gavetas;
 
-VI. Exhumaciones; y
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-VII. Reinhumaciones;
+VI. Exhumaciones;
 
-Los derechos a que se refiere este capítulo se causarán y pagarán en salarios mínimos, por cada servicio.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+VII. Reinhumaciones; y
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+VIII. Mantenimiento anual de áreas comunes en panteones municipales.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+Los derechos a que se refiere este capítulo se causarán y pagarán en UMAs, por cada servicio.
 
 > <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2019)</small>
 
 El Ayuntamiento, por acuerdo del Cabildo, podrá exentar del pago del derecho por la prestación de los servicios de inhumaciones y refrendo de fosas a que se refiere este artículo cuando se trate de los restos mortales de las víctimas directas e indirectas del delito de desaparición forzada de personas y la cometida por particulares, a efecto de garantizar el derecho previsto en la fracción IX del artículo 73 de la Ley en Materia de Desaparición de Personas para el Estado de Veracruz de Ignacio de la Llave.
 
-### CAPÍTULO VIII. DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRANSPORTE Y DISPOSICIÓN FINAL DE DESECHOS SÓLIDOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 11 DE MARZO DE 2021)</small>
+
+### CAPÍTULO VIII. DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRANSPORTE Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS
 
 ###### Artículo 232.
 
@@ -2687,7 +3079,9 @@ Son objeto de estos derechos los servicios de recolección, transporte y disposi
 
 Son sujetos de estos derechos las personas físicas o morales que sean propietarias, poseedoras o usufructuarias de los predios en que se presten los servicios a que se refiere este capítulo.
 
-Los sujetos obligados al pago de estos derechos que sean pensionados, jubilados o personas mayores de sesenta años, y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos, de que el contribuyente resida en el inmueble y de encontrarse al corriente en el pago de este derecho. Esta prerrogativa se aplicará únicamente a un bien inmueble, siempre que se trate de la casa habitación del sujeto obligado al pago de estos derechos y éste no haya transmitido la propiedad del mismo a terceros y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+Los sujetos obligados al pago de estos derechos que sean pensionados, jubilados o personas mayores de sesenta años, y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, y las personas con discapacidad tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos, de que el contribuyente resida en el inmueble y de encontrarse al corriente en el pago de este derecho. Esta prerrogativa se aplicará únicamente a un bien inmueble, siempre que se trate de la casa habitación del sujeto obligado al pago de estos derechos y éste no haya transmitido la propiedad del mismo a terceros y el pago se realice durante los meses de enero o febrero del ejercicio fiscal correspondiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2699,21 +3093,21 @@ La Tesorería Municipal llevará un padrón de estos contribuyentes, mismo que a
 
 El Ayuntamiento o los concesionarios podrán rechazar el manejo de residuos cuyas características los hagan de manejo especial, en tanto no se adopten las medidas necesarias para su manejo. Los residuos considerados como peligrosos por la legislación federal en ningún caso deberán ser manejados por los Ayuntamientos.
 
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+El Ayuntamiento, por acuerdo del Cabildo, podrá otorgar igualmente el descuento del cincuenta por ciento en el pago de esta contribución a las familias monoparentales primarias y secundarias, siempre que reúnan los requisitos señalados en el párrafo anterior. En este caso, la tesorería municipal informará al Congreso del Estado y al Órgano de Fiscalización Superior sobre el acuerdo referido.
+
 ###### Artículo 234.
 
 La base gravable se determinará de la siguiente manera:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 I. Por el servicio prestado a los propietarios, poseedores o usufructuarios de inmuebles destinados a uso habitacional, se aplicará una cuota anual, en términos del presente Capítulo; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
-
-II. En los casos de establecimientos comerciales, industriales y prestadores de servicios, se fijará una cuota mensual por kilogramo o por metro cúbico, en razón del peso o volumen de los desechos.
+II. En los casos de establecimientos comerciales, industriales y prestadores de servicios, se fijará una cuota mensual por kilogramo o por metro cúbico, en razón del peso o volumen de los residuos generados.
 
 En caso de que se concesione el servicio, las tarifas que cobren los concesionarios, se establecerán en el título de concesión respectivo.
 
@@ -2721,27 +3115,23 @@ En caso de que se concesione el servicio, las tarifas que cobren los concesionar
 
 El pago de derechos a que este Capítulo se refiere, deberá efectuarse:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
-
-I. Tratándose de los sujetos señalados en la fracción I del artículo anterior, los derechos se causarán anualmente, el pago será semestral y se realizará dentro de los meses de enero y julio de cada año, en la tesorería o lugares autorizados;
+I. Tratándose de los sujetos señalados en la fracción I del artículo anterior, los derechos se causarán anualmente, y el pago se realizará dentro del mes de enero de cada año, en la tesorería o lugares autorizados;
 
 II. Tratándose de establecimientos comerciales, industriales o prestadores de servicios, el pago deberá realizarse dentro de los primeros quince días del mes siguiente a aquél en que se prestó el servicio; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 III. Tratándose de empresas de espectáculos públicos, el pago se hará por evento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 236.
 
-Los derechos a que se refiere este Capítulo, se causarán anualmente y se pagarán en salarios mínimos, de conformidad con la clasificación siguiente:
+Los derechos a que se refiere este Capítulo, se causarán anualmente y se pagarán en UMAs, de conformidad con la clasificación siguiente:
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 I. Por cada inmueble destinado a uso habitacional, de tipo:
 
@@ -2755,11 +3145,19 @@ d) Popular
 
 No serán sujetos del pago de los derechos aquí establecidos los propietarios o poseedores de predios ubicados en colonias populares en que no se preste (sic) los servicios a que se refiere este Capítulo, aun cuando estén considerados como urbanos o suburbanos y se encuentren baldíos; y
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 II. Por cada industria, comercio, tienda de autoservicio, prestadores de servicios, así como empresas que presenten espectáculos públicos, por kilogramo o por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 Aquellos contribuyentes que opten por el pago anual podrán efectuarlo en el mes de enero en una sola exhibición y, en este caso, obtendrán un descuento del 20%; y si el Ayuntamiento aprueba prorrogar el pago durante el mes de febrero, los contribuyentes que opten por el pago anual durante esta prórroga en una sola exhibición obtendrán hasta un 20% de descuento.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 En los casos de predios construidos no registrados en el padrón factura de la Tesorería, y de construcciones no manifestadas en el plazo que establece la Ley de Catastro del Estado de Veracruz, por causa imputable al propietario o poseedor de los bienes inmuebles, si no se pudiera fijar con precisión la fecha desde la cual se omitió el aviso correspondiente, se fincará liquidación presuntiva y se requerirá el pago de los derechos que establece este capítulo, hasta por los tres años anteriores a la fecha de la declaración extemporánea presentada por el interesado, o de la detección de la omisión realizada por la autoridad catastral. Salvo prueba en contrario, y la cuota o tarifa que se aplicará será la vigente en cada uno de los ejercicios omitidos.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 Corresponde a la autoridad fiscal determinar el periodo de cobro por la omisión de las manifestaciones a que se refiere el párrafo anterior.
 
@@ -2803,17 +3201,21 @@ Por los derechos a que se refiere este Capítulo se pagará por metro cúbico o 
 
 ### CAPÍTULO XI. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA TESORERÍA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 243.
 
-Son objeto de estos derechos los servicios siguientes, que se causarán y pagarán en salarios mínimos, de conformidad con las cuotas que en cada caso se señalen:
+Son objeto de estos derechos los servicios siguientes, que se causarán y pagarán en UMAs, de conformidad con las cuotas que en cada caso se señalen:
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 I. Por la expedición de una Cédula Catastral;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 II. Por la expedición de un Certificado de Valor Catastral o Catastral Provisional;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 III. Por la expedición de una constancia de datos Catastrales;
 
@@ -2833,7 +3235,11 @@ c) Por cambios o modificaciones de los registros catastrales debido a:
 
 2.- Por rectificaciones en los archivos catastrales, efectuadas por la autoridad catastral municipal, por cualquier motivo y que afecten a los interesados registrados;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 IV. Rectificación o cancelación de los datos asentados en la declaración inicial de traslado de dominio, o cualquier aclaración de información registrada, a solicitud del interesado;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 V. Por la expedición de Cartografía Catastral propiedad del Municipio:
 
@@ -2869,11 +3275,17 @@ g) Copias de fotografías aéreas, en escalas 1:4,500, 1:10,000 y 1:20,000:
 
 2. Grabada en disco compacto o dispositivo informático que en su caso aporte el solicitante, por km2, por copia;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 VI. Por la certificación de cada plano catastral propiedad del Municipio.
 
 Se exceptúan del pago de derechos por la expedición de cartografía catastral y copias de contacto de fotografías aéreas, las dependencias y organismos Federales, Estatales y Municipales, en los términos de los convenios de colaboración que se suscriban, previo cumplimiento de las disposiciones legales aplicables;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 VII. La certificación de documentos públicos que obren en el archivo de la tesorería, por cada hoja;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 VIII. Constancias de información catastral de bienes inmuebles, por cada una.
 
@@ -2881,7 +3293,13 @@ Este documento deberá contener la identificación del predio, superficie, medid
 
 El Registro Público de la Propiedad para expedir el certificado de no inscripción de bienes inmuebles, en todos los casos requerirá del peticionario la presentación de la constancia de información catastral de bienes inmuebles, expedida por la autoridad competente;
 
-IX. Constancias de no adeudo de contribuciones municipales, por cada una.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+IX. Constancias de no adeudo de contribuciones municipales, por cada una; y
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2021)</small>
+
+X. Certificación de pago de Impuesto Predial.
 
 ###### Artículo 244.
 
@@ -2897,11 +3315,13 @@ Son objeto de estos derechos los servicios de inscripción de actos del estado c
 
 Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 247.
 
-Los derechos a que se refiere este Capítulo se causarán y pagarán, en salarios mínimos, por los servicios siguientes:
+Los derechos a que se refiere este Capítulo se causarán y pagarán, en UMAs, por los servicios siguientes:
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, por trámites ordinarios o urgentes;
 
@@ -2911,35 +3331,79 @@ El Ayuntamiento expedirá gratuitamente la primera copia certificada del acta de
 
 El ayuntamiento, por acuerdo del Cabildo, podrá exentar del pago del derecho por la prestación del servicio a que se refiere esta fracción, a aquellas personas que, siendo víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, soliciten la expedición de copias certificadas de su acta de registro de nacimiento o de la perteneciente a la víctima directa de la cual sean familiar.
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 II. Registro ordinario o extemporáneo de nacimientos;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 III. Reconocimiento de hijos;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 IV. Registro de adopciones y trámite de las mismas;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 V. Celebración de matrimonios en oficina;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 VI. Celebración de matrimonios fuera de la oficina: a domicilio, en salón u otro lugar, de lunes a viernes, así como sábados y domingos.
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 VII. Inscripción de sentencias;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 VIII. Divorcios;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 IX. Defunciones;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 X. Inscripción de actas de mexicanos levantadas en el extranjero;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 XI. Cambio de régimen matrimonial;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 XII. Permiso para inhumaciones, exhumaciones o reinhumaciones;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 XIII. Permiso para inhumaciones en fosas a perpetuidad;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 XIV. Autorización para inhumación, exhumación o reinhumación de persona desconocida, a solicitud de la Procuraduría de Justicia del Estado;
 
-XV. Permiso para cremaciones de cuerpo humano de persona adulta, de persona adulta de escasos recursos económicos, de un miembro de persona adulta, de un niño de más de 1 a 12 años, de un niño de más de 1 a 12 años de familia de escasos recursos económicos, de un niño de un mes a 1 año, de un niño recién nacido, o de restos áridos; y
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-XVI. Permiso para traslado de cadáver, miembros del cuerpo o fetos, por cada servicio.
+XV. Permiso para cremaciones de cuerpo humano de persona adulta, de persona adulta de escasos recursos económicos, de un miembro de persona adulta, de un niño de más de 1 a 12 años, de un niño de más de 1 a 12 años de familia de escasos recursos económicos, de un niño de un mes a 1 año, de un niño recién nacido, o de restos áridos;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XVI. Permiso para traslado de cadáver, miembros del cuerpo o fetos, por cada servicio;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XVII. Expedición de constancia de existencia o inexistencia de los actos del estado civil de las personas sobre matrimonio, nacimiento o divorcio, incluyendo su búsqueda;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XVIII. Envío a domicilio de copias certificadas del Registro Civil en el municipio, o a otras localidades, municipios o Estados; y
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+
+XIX. Permiso por depósito de cenizas de personas en los panteones municipales.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 La rectificación de oficio, de actas, no causa el pago de derechos.
 
@@ -2951,23 +3415,25 @@ Es objeto de estos derechos la ocupación de inmuebles del dominio público del 
 
 Las personas que utilicen espacios en mercados, así como en tianguis, deberán acreditar ante el Ayuntamiento, el permiso correspondiente al área que ocupen, a efecto de conformarse un padrón por cada mercado, debiendo el Ayuntamiento expedir una Cédula de Registro, previo el pago de derechos correspondientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 249.
 
-Los derechos por la ocupación de espacios se calcularán y pagarán en salarios mínimos, por los conceptos siguientes:
+Los derechos por la ocupación de espacios se calcularán y pagarán en UMAs, por los conceptos siguientes:
 
-I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado o fracción;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
-Las altas, traspasos, cambios, ampliaciones de giro y arreglo o modificaciones de locales o áreas que ocupen, se efectuarán de conformidad con la normatividad aplicable, previa autorización del
+I. La ocupación de espacios en mercados municipales se pagará mensualmente por metro cuadrado o fracción; las altas, traspasos, cambios, ampliaciones de giro y arreglo o modificaciones de locales o áreas que ocupen, se efectuarán de conformidad con la normatividad aplicable, previa autorización del Ayuntamiento;
 
-Ayuntamiento; (sic)
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 II. La ocupación de espacios en vía pública o áreas municipales, exceptuando las áreas verdes, se pagará diariamente, por metro cuadrado o fracción, previa autorización correspondiente;
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 III. La ocupación temporal de la vía pública o áreas municipales, exceptuando las áreas verdes, por vehículos, aparatos mecánicos o electromecánicos, por tianguis, ferias o similares, se pagará diariamente, por metro cuadrado o fracción; y
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 IV. El estacionamiento en la vía pública se pagará, mediante utilización de parquímetros, por hora o fracción.
 
@@ -2985,15 +3451,17 @@ IV. El estacionamiento en la vía pública se pagará, mediante utilización de 
 
 ### CAPÍTULO XV. DE LOS DERECHOS EN MATERIA DE SALUD ANIMAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 251.
 
-Los derechos por los servicios prestados por el Centro de Salud Animal, se causarán y cobrarán en salarios mínimos, por cada uno de los conceptos siguientes:
+Los derechos por los servicios prestados por el Centro de Salud Animal, se causarán y cobrarán en UMAs, por cada uno de los conceptos siguientes:
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 Servicios
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 I. Cirugías:
 
@@ -3017,6 +3485,8 @@ i) Cesáreas; y
 
 j) Resolución de hernias.
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 II. Consultas:
 
 a) En general;
@@ -3035,6 +3505,8 @@ g) Consulta externa a pequeñas especies; y
 
 h) Consulta externa a grandes especies.
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 III. Cremaciones:
 
 a) De 1 a 10 Kg.;
@@ -3047,6 +3519,8 @@ d) De 40 a 50 Kg.; y
 
 e) Más de 50 Kg.
 
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+
 IV. Esterilizaciones:
 
 a) Felino hembra;
@@ -3056,6 +3530,8 @@ b) Cánido hembra;
 c) Felino macho; y
 
 d) Cánido macho.
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 V. Hospitalización:
 
@@ -3074,6 +3550,8 @@ f) Curaciones;
 g) Derecho a quirófano; y
 
 h) Ayudantes de cirugía.
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 VI. Otros
 
@@ -3225,9 +3703,11 @@ Sólo los bienes del dominio público de la Federación, de los Estados o de los
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
 ###### Artículo 262.
 
-Los productos de su patrimonio, que obtenga el Ayuntamiento, en funciones de derecho privado, se causarán y pagarán ante la Tesorería, en términos de lo previsto por este Capítulo.
+Quedan comprendidos como productos, los ingresos que deriven del patrimonio del Ayuntamiento y los que obtenga, en funciones de derecho privado, mismos que se causarán y pagarán ante la Tesorería, en términos de lo previsto por este Capítulo.
 
 ###### Artículo 263.
 
@@ -3269,25 +3749,21 @@ Los productos por conceptos diversos se cobrarán en términos de los contratos 
 
 Los productos a que se refieren las fracciones I a IV del artículo anterior se sujetarán a las disposiciones del Libro Sexto de este Código; los de la fracción V, a los contratos que al efecto celebre el Ayuntamiento con la institución crediticia correspondiente; y los de la fracción VI, conforme a los rendimientos que se generen.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, PRIMER PÁRRAFO; G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 265.
 
-Los bienes embargados por las autoridades municipales que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días siguientes a la fecha en que queden a disposición del adquirente o del deudor contra quien se hubiese seguido el procedimiento económico- coactivo, así como los bienes depositados por cualquier otra causa en los mismos locales, causarán el pago de las cuotas por concepto de almacenaje, por períodos mensuales vencidos, en salarios mínimos, por los servicios siguientes:
+Los bienes embargados por las autoridades municipales que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días siguientes a la fecha en que queden a disposición del adquirente o del deudor contra quien se hubiese seguido el procedimiento económico coactivo, así como los bienes depositados por cualquier otra causa en los mismos locales, causarán el pago de las cuotas por concepto de almacenaje, por períodos mensuales vencidos, en UMAs, por los servicios siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA; G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 I. Por metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA; G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 II. Los semovientes depositados en predios propiedad del Municipio, diariamente por cabeza.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 Además de las cuotas que señala esta fracción, se cobrará el importe de la manutención y el gasto del cuidado de los animales depositados.
 
@@ -3305,7 +3781,9 @@ I. Multas administrativas: Todas las que no sean consideradas como multas fiscal
 
 II. Reintegros e Indemnizaciones: Para el pago de reintegros e indemnizaciones se estará al dictamen de la autoridad correspondiente.
 
-En el caso de que se cause un daño imprudencial o intencional a los bienes municipales, la autoridad determinará el monto de la indemnización atendiendo al valor comercial de los bienes dañados o al de su reparación;
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+
+En el caso de que se cause un daño imprudencial o intencional a los bienes municipales, arbolado, áreas verdes, jardineras o parques públicos, la autoridad determinará el monto de la indemnización atendiendo al valor comercial de los bienes dañados o al de su reparación;
 
 III. Legados y Donaciones recibidos; y
 
@@ -3329,11 +3807,11 @@ Las participaciones que correspondan al Municipio en materia de ingresos federal
 
 ## TÍTULO SÉPTIMO. DE LAS APORTACIONES FEDERALES
 
-> <small>(REFORMADO, G.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 271.
 
-Las aportaciones federales son ingresos que percibe el Municipio, derivados de los fondos establecidos en el Capítulo V de la Ley de Coordinación Fiscal.
+Las aportaciones federales son ingresos que percibe el Municipio mediante transferencias de la Federación, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece el Capítulo V de la Ley de Coordinación Fiscal.
 
 ## TÍTULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -3447,13 +3925,11 @@ Lo anterior, sin perjuicio de las atribuciones del Síndico, en el caso de que e
 
 Corresponde a las dependencias y entidades integrar y remitir a la Tesorería los expedientes de contratos en los que se hubieren otorgado garantías de cumplimiento a favor del Municipio, para que ésta proceda a ejercitar los derechos que correspondan.
 
-###### Artículo 283.
-
-El Municipio está exento de otorgar garantías y depósitos para el cumplimiento de sus obligaciones de pago con cargo a su presupuesto, con excepción de las previstas para garantizar el pago de deuda pública municipal directa o contingente.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 383.
 
-La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo la Cuenta Pública Municipal del ejercicio inmediato anterior, a más tardar el treinta de abril de cada año, excepto en el último de su ejercicio, que se presentará en el mes de diciembre de ese mismo año.
+La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo la Cuenta Pública Municipal del ejercicio inmediato anterior, a más tardar el último día hábil del mes de marzo y la presentará al Congreso del Estado a más tardar el día treinta de abril. Tratándose del último año de la administración municipal, deberán someterla a la consideración del Cabildo, durante el mes de diciembre, o bien, hasta el último día del mes de enero.
 
 ###### Artículo 284.
 
@@ -4090,6 +4566,10 @@ La Tesorería será responsable de integrar la cuenta pública del Municipio, la
 ###### Artículo 382.
 
 La Tesorería determinará la forma en que se presentarán los informes para la integración de la cuenta pública, para lo cual podrá solicitar a las dependencias y entidades la información complementaria y aclaraciones que considere convenientes.
+
+###### Artículo 383.
+
+La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo la Cuenta Pública Municipal del ejercicio inmediato anterior, a más tardar el treinta de abril de cada año, excepto en el último de su ejercicio, que se presentará en el mes de diciembre de ese mismo año.
 
 ###### Artículo 384.
 
@@ -4745,11 +5225,13 @@ XII. Las demás que les señalen la Constitución, el presente Código y demás 
 
 ### CAPÍTULO III. DEL INVENTARIO
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 450.
 
-El municipio actualizará cada año, en el mes de enero, un inventario general y avalúo de los bienes que conforman el patrimonio municipal de cualquiera naturaleza que sean. El avalúo deberá ser practicado por peritos que cuenten con cédula profesional, instituciones de crédito, agentes especializados o corredores públicos, y deberá consignar, al menos, el valor comercial y el de realización inmediata. Concurrirán a su formulación el presidente municipal, la Comisión de Hacienda y Patrimonio Municipal y el tesorero.
+El municipio actualizará cada año, en el mes de enero, un inventario general y avalúo de los bienes que conforman el patrimonio municipal de cualquiera naturaleza que sean. El avalúo deberá ser practicado por peritos que cuenten con cédula profesional, instituciones de crédito, agentes especializados o corredores públicos, y deberá consignar, al menos, el valor comercial y el de realización inmediata. Concurrirán a su formulación la Presidenta o el Presidente municipal, la Comisión de Hacienda y Patrimonio Municipal y la tesorera o el tesorero.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 El inventario y el avalúo se extenderán por triplicado, y quedará un ejemplar en el archivo municipal, uno en la tesorería y el otro se remitirá al Congreso del Estado.
 
@@ -5110,3 +5592,11 @@ G.O. 10 DE MARZO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
+
+G.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 834 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO HACENDARIO Y DE LA LEY DE INGRESOS CORRESPONDIENTE AL EJERCICIO FISCAL DEL AÑO 2021, AMBOS DEL MUNICIPIO DE XALAPA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
