@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2019-06-28"
+last_updated: "2021-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2021.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -205,13 +205,17 @@ IV. Tratándose del Poder Legislativo, se estará a lo dispuesto en su respectiv
 
 De las Leyes de Ingresos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 12.
 
 Las Iniciativas de las Leyes de Ingresos deberán ser presentadas:
 
 I. La del Estado, al Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas, para ser enviada al Congreso del Estado para su revisión y aprobación, en su caso, a más tardar el 1o. de diciembre del ejercicio fiscal inmediato anterior al que corresponde la Iniciativa, o hasta el 10 de diciembre cuando inicie su encargo Constitucional el Ejecutivo del Estado.
 
-II. Las de los Municipios, al Ayuntamiento, a través de las Tesorerías Municipales, para ser enviadas por conducto del Presidente Municipal al Congreso del Estado para su revisión y aprobación, en su caso, a más tardar el 15 de noviembre del ejercicio fiscal inmediato anterior al que corresponde la Iniciativa, o hasta el 10 de diciembre cuando inicien su encargo Constitucional los Ayuntamientos.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2021)</small>
+
+II. Las de los Municipios, al Ayuntamiento, a través de las Tesorerías Municipales, para ser enviadas por conducto del Presidente Municipal al Congreso del Estado para su revisión y aprobación, en su caso, a más tardar el 15 de noviembre del ejercicio fiscal inmediato anterior al que corresponde la Iniciativa.
 
 III. En la presentación de las Iniciativas de Leyes de Ingresos deberá incluirse:
 
@@ -1324,3 +1328,9 @@ P.O. 28 DE JUNIO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 Las (sic) presente reforma entrarán (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 200 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 12 DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
