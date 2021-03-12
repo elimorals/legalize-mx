@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2019-10-16"
+last_updated: "2021-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -2799,13 +2799,13 @@ XIX. Los que construyan u operen sistemas para la prestación de los servicios p
 
 1. Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente por el Ayuntamiento, por los organismos operadores y, en su caso, por la Comisión:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2021)</small>
 
-I. Con multa por el equivalente de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización, tratándose de lo dispuesto en las fracciones II, VI, VII, VIII, IX, y XV del artículo anterior;
+I. Con multa por el equivalente de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización, tratándose de lo dispuesto en las fracciones I, II, VI, VII, VIII, IX, y XV del artículo anterior;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2021)</small>
 
-II. Con multa por el equivalente de cinco a veinte veces el valor diario de la Unidad de Medida y Actualización, tratándose de lo dispuesto en las fracciones I, IV, XI, XII, XIII, XIV y XVII del artículo anterior;
+II. Con multa por el equivalente de cinco a veinte veces el valor diario de la Unidad de Medida y Actualización, tratándose de lo dispuesto en las fracciones IV, XI, XII, XIII, XIV y XVII del artículo anterior;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3152,3 +3152,11 @@ P.O. 16 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 12 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-510 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I Y II DEL PÁRRAFO 1, AL ARTÍCULO 192, DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
