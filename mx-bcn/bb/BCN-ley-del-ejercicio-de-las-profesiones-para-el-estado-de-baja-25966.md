@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-ejercicio-de-las-profesiones-para-el-estado-de-baja-259
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-06"
-last_updated: "2018-05-18"
+last_updated: "2021-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL EJERCICIO DE LAS PROFESIONES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 6 de septiembre de 2002.
 
@@ -603,11 +603,11 @@ El Departamento promoverá la prestación del servicio social profesional en el 
 
 El Servicio social profesional, se prestará en forma independiente o a través de la Asociación de Profesionistas a que pertenezca, conforme a los acuerdos o convenios que celebre con la dependencia, entidad u orden de gobierno que corresponda.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 25.
 
-El servicio social profesional se prestará en comunidades de escasos recursos, en instituciones públicas o privadas, o en Asociación de Profesionistas, a través de asesorías, consultas, aportación de datos, ejecución de actos propios de su profesión.
+El servicio social profesional se prestará en comunidades de escasos recursos, en instituciones públicas o privadas, en Asociación de Profesionistas, o en asociaciones civiles que tengan por objeto el cuidado y protección del medio ambiente, o el apoyo y asistencia a la comunidad a través de asesorías, consultas, aportación de datos, ejecución de actos propios de su profesión.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2006)</small>
 
@@ -1196,3 +1196,9 @@ P.O. 18 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 240 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XII DEL ARTÍCULO 3, DE LA LEY DE EJERCICIO DE LAS PROFESIONES PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 197 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 25 DE LA LEY DE EJERCICIO DE LAS PROFESIONES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
