@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2021-02-02"
+last_updated: "2021-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE MARZO DE 2021.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -420,9 +420,13 @@ A) Dirección General de Responsabilidades Administrativas, a la que quedan adsc
 
 1. Dirección de Substanciación y Resolución;
 
+> <small>(ADICIONADO, G.O. 12 DE MARZO DE 2021)</small>
+
+1.1. Subdirección de Seguimiento a Resoluciones;
+
 2. Dirección de Atención a Denuncias e Investigación;
 
-3. Dirección de Seguimiento a Resoluciones;
+3. (DEROGADO, G.O. 12 DE MARZO DE 2021)
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
@@ -430,9 +434,9 @@ A) Dirección General de Responsabilidades Administrativas, a la que quedan adsc
 
 5. Dirección de Situación Patrimonial;
 
-B) Dirección General de Contraloría Ciudadana;
+B) (DEROGADO, G.O. 12 DE MARZO DE 2021)
 
-C) Dirección General de Innovación y Mejora Gubernamental;
+C) (DEROGADO, G.O. 12 DE MARZO DE 2021)
 
 D) Dirección General de Normatividad y Apoyo Técnico a la que quedan adscritas:
 
@@ -466,9 +470,19 @@ F) Dirección General de Coordinación de Órganos Internos de Control Sectorial
 
 3. Dirección de Coordinación de Órganos Internos de Control Sectorial "C";
 
-4. Dirección de Comisarios y Control de Auditores Externos; y
+> <small>(REFORMADO, G.O. 12 DE MARZO DE 2021)</small>
+
+4. Dirección de Comisarios y Control de Auditores Externos.
 
 G) Dirección de Vigilancia Móvil.
+
+> <small>(ADICIONADO, G.O. 12 DE MARZO DE 2021)</small>
+
+H) Dirección de Contraloría Ciudadana; e
+
+> <small>(ADICIONADO, G.O. 12 DE MARZO DE 2021)</small>
+
+I) Dirección de Mejora Gubernamental.
 
 IV. A la Secretaría de Cultura:
 
@@ -4272,7 +4286,7 @@ XVI. Garantizar el funcionamiento de los sistemas informáticos que permitan gen
 
 XVII. Evaluar las medidas tendientes para mantener permanentemente actualizados los sistemas para la emisión de pagos del capital humano, tanto en su fase de equipo como en el sistema informático (hardware y software);
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(ADICIONADA, G.. 2 DE FEBRERO DE 2021)</small>
 
 XVIII. Garantizar la realización de respaldos y resguardos de las bases de datos en los medios adecuados;
 
@@ -5266,7 +5280,9 @@ XXVII. Respecto de investigaciones y procedimientos de responsabilidad administr
 
 XXVIII. Solicitar a las Instituciones competentes información que cuente con secrecía en materia fiscal, bursátil, fiduciaria y demás relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios, así como de propiedades, financiera, muebles, inmuebles o similar o de cualquier otro tipo, relacionada con las personas servidoras públicas, sus cónyuges, concubinos y dependientes económicos directos, así como de personas físicas, morales y colectivas, con la finalidad de llevar a cabo investigación, substanciación y resolución de procedimientos de Responsabilidad Administrativa de conformidad con las disposiciones de la legislación sobre sistemas anticorrupción y responsabilidades;
 
-XXIX. Solicitar a la Dirección General de Normatividad y Apoyo Técnico y a la Dirección General de Innovación y Mejora Gubernamental de la Secretaría de la Contraloría General cuando se estime necesario, su opinión para la investigación de posibles faltas administrativas o la substanciación y resolución de procedimientos de responsabilidades administrativas;
+> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
+
+XXIX. Solicitar a la Dirección General de Normatividad y Apoyo Técnico de la Secretaría de la Contraloría General cuando se estime necesario, su opinión para la investigación de posibles faltas administrativas o la substanciación y resolución de procedimientos de responsabilidades administrativas;
 
 XXX. Proponer programas de capacitación jurídica para el personal de las áreas competentes en la investigación, substanciación y resolución de procedimientos de Responsabilidad Administrativa de la Secretaría de la Contraloría General;
 
@@ -5282,139 +5298,11 @@ XXXV. Las demás que le instruya la persona titular de la Secretaría de la Cont
 
 ###### Artículo 131.
 
-Corresponde a la Dirección General de Contraloría Ciudadana:
-
-I. Atender y dar cumplimiento a las disposiciones jurídicas sobre la Red de Contraloría Ciudadana y otras figuras que formen parte del ámbito de atribuciones de la Secretaría de la Contraloría General de conformidad con la legislación en materia de Participación Ciudadana;
-
-II. Organizar y coordinar la Red de Contraloría Ciudadana, así como proponer la normatividad para los procesos de selección, capacitación, acreditación, seguimiento, evaluación de su participación y terminación de los efectos de la acreditación como integrante de la Red de Contraloría Ciudadana;
-
-III. Convocar a la Ciudadanía, a los Comités Ciudadanos, a los Consejos Ciudadanos de las Alcaldías, a las organizaciones civiles y sociales, a las instituciones educativas, académicas y profesionales, cámaras y asociaciones y medios de comunicación a presentar propuestas de candidatos y candidatas a contraloras y contralores Ciudadanos;
-
-IV. Diseñar y aplicar procedimientos y mecanismos para la convocatoria, captación, selección, formación, capacitación y asesoría de contraloras y contralores Ciudadanos;
-
-V. Evaluar el desempeño de las contraloras y contralores Ciudadanos y proponer acciones que favorezcan para la labor de vigilancia, supervisión, control y evaluación Ciudadana en la Administración Pública de la Ciudad de México, así como proponer estímulos y reconocimientos a su labor;
-
-VI. Elaborar el proyecto de Programa Anual de Trabajo de Contraloría Ciudadana y remitirlo a la persona titular de la Secretaría de la Contraloría General, para su autorización;
-
-VII. Promover los principios y directrices de responsabilidad financiera y del servicio público en el ejercicio del gasto, en la prestación de los servicios públicos, en los programas y acciones de gobierno así como en la actuación y desempeño de las personas servidoras públicas de la Administración Pública de la Ciudad de México, a través de los trabajos que correspondan a las contraloras y contralores Ciudadanos en términos de las disposiciones jurídicas y administrativas aplicables;
-
-VIII. Establecer los vínculos de coordinación necesarios con las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, para requerir información y documentación, para la incorporación y el desarrollo de las actividades de vigilancia, supervisión, control y evaluación que realicen las contraloras y contralores Ciudadanos en el ejercicio del gasto público, la prestación de los servicios públicos, en los programas y acciones de gobierno, así como en la actuación y desempeño de las personas servidoras públicas;
-
-IX. Integrar, sistematizar, remitir y dar seguimiento a los informes, propuestas y opiniones de las contraloras y contralores Ciudadanos, como resultado de sus actividades de vigilancia, supervisión, control y evaluación en las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
-
-X. Solicitar información y documentación, de acuerdo a la naturaleza de sus funciones a las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública, sobre la atención y el seguimiento dado a los informes, propuestas, peticiones, solicitudes y opiniones de las contraloras y contralores Ciudadanos, así como gestionar y coordinar sus actividades con los entes de la Administración Pública, para la realización de acciones de supervisión y vigilancia que tienen encomendadas;
-
-XI. Realizar estudios sobre la función de las contraloras y contralores Ciudadanos, en coordinación con las organizaciones, instituciones y sectores de la sociedad relacionados con esta materia;
-
-XII. Proponer a la persona Titular de la Secretaría de la Contraloría General la celebración de convenios de colaboración, con organizaciones, instituciones académicas y sectores de la sociedad respecto a la capacitación, promoción de los programas de la Contraloría Ciudadana y estudios en el ámbito de la vigilancia, supervisión, control y evaluación de la Administración Pública de la Ciudad de México;
-
-XIII. Proponer a la persona Titular de la Secretaría de la Contraloría General la celebración de convenios de colaboración, con instituciones académicas del sector público o privado en los que se promueva la participación de estudiantes y egresados como contraloras y contralores Ciudadanos, promoviendo la obtención de acreditaciones de servicio social, formas de titulación u otros beneficios académicos, en términos de los convenios que al efecto se celebren y las disposiciones jurídicas aplicables.
-
-XIV. Asignar las tareas de vigilancia que corresponden a las contraloras y contralores Ciudadanos conforme al Programa Anual de Trabajo de la Contraloría Ciudadana y aquellas que encomiende la persona Titular de la Secretaría de la Contraloría General;
-
-XV. Participar en los procesos de selección de las contraloras y los contralores Ciudadanos y ejecutar los procedimientos de terminación de los efectos de la acreditación de las contraloras y contralores Ciudadanos, conforme a las disposiciones jurídicas y administrativas aplicables;
-
-XVI. Desarrollar un sistema de información y difusión permanente de las actividades realizadas por las contraloras y contralores Ciudadanos, así como de las propuestas e iniciativas emitidas por éstos;
-
-XVII. Participar con las instancias de la Administración Pública de la Ciudad de México, para el análisis de proyectos normativos que se refieran o tengan alguna incidencia en materia de Contraloría Ciudadana;
-
-XVIII. Coadyuvar con las Unidades Administrativas de la Secretaría de la Contraloría General, cuando así lo soliciten, en toda clase de Intervenciones a las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
-
-XIX. Expedir, copias certificadas de los documentos que obren en sus archivos, así como de los documentos a los que tenga acceso con motivo del ejercicio de sus facultades, previo cotejo;
-
-XX. Canalizar ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, demandas, querellas, quejas y denuncias, así como rendir informes, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la Dependencia otorgará el apoyo necesario;
-
-XXI. Llevar un registro y seguimiento de los recursos de inconformidad que presenten las contraloras y contralores Ciudadanos en contra de resoluciones dictadas por las personas titulares de los órganos internos de control;
-
-XXII. Supervisar el desempeño de las atribuciones que tienen conferidas las Unidades Administrativas de Apoyo Técnico-Operativo que tiene adscritas, y en su caso, tomar las medidas que estime convenientes para mejorar la eficiencia de las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
-
-XXIII. Diseñar la capacitación para las contraloras y contralores Ciudadanos respecto los derechos y obligaciones que les corresponden en términos de la normatividad aplicable, así como para la presentación de medios de impugnación en contra de resoluciones de las personas titulares de los órganos internos de control y la presentación de denuncias por posibles faltas administrativas y hechos de corrupción;
-
-XXIV. Diseñar e implementar procedimientos especiales para la convocatoria, selección y capacitación de las contraloras y contralores Ciudadanos, con relación al organismo de gestión sustentable del agua;
-
-XXV. Establecer canales de comunicación que garanticen la participación en tiempo y forma de las contraloras y los contralores Ciudadanos en la función de vigilancia en el ejercicio del gasto público de los entes de la Administración Pública de la Ciudad de México; y
-
-XXVI. Las demás que le instruya la persona Titular de la Secretaría de la Contraloría General; las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas; las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+(DEROGADO, G.O. 12 DE MARZO DE 2021)
 
 ###### Artículo 132.
 
-Corresponde a la Dirección General de Innovación y Mejora Gubernamental:
-
-I. Coordinar, al interior de la Secretaría, las acciones, detección de necesidades, diseño de estrategias de innovación y transformación digital integral para la mejora continua, con el fin de favorecer a mejorar la calidad de los servicios, elevar las competencias, transparentar la operación y los procesos e incrementar la productividad y competitividad de las Unidades Administrativas de la Secretaría, haciendo más eficiente y eficaz el aprovechamiento de los recursos;
-
-II. Coordinar las acciones de detección de necesidades y requerimientos de las Unidades Administrativas de Apoyo Técnico Operativo que le están adscritas, y someterlo a la autorización de la Dirección General de Administración;
-
-III. Coordinar la elaboración y actualización de los manuales de organización y de procedimientos de la Secretaría y someterlos a la validación de las Unidades Administrativas responsables; solicitando la colaboración que corresponda de la Dirección General de Normatividad y Apoyo Técnico.
-
-IV. Proponer al Titular de la Secretaría las acciones orientadas al cumplimiento de las disposiciones que al efecto emita la Agencia Digital de Innovación Pública y dar seguimiento para su cumplimiento al interior de la Secretaría;
-
-V. Coordinar las acciones para la profesionalización y mejora de competencias del capital humano de la Secretaría;
-
-VI. Coordinar y supervisar la implantación, implementación, funcionamiento y actualización de los sistemas (sic) evaluación interna, de los sistemas y modelos de gestión de la Secretaría para la toma de decisiones y mejora de la gestión;
-
-VII. Coordinar las acciones y estrategias de innovación que se diseñen e implementen para favorecer la transición digital de las funciones y servicios de la Secretaría, transparentando la operación integral, preventiva, y atención y combate a la corrupción, apoyándose de uso, adopción e implementación y demás acciones y elementos que coadyuven al cumplimiento de los objetivos y metas de la Secretaría;
-
-VIII. Coordinar y supervisar, atendiendo a las autoridades y disposiciones jurídicas aplicables, la elaboración de manuales, bases y guías para la entrega de estados e informes financieros, documentación comprobatoria y justificativa del control, administración, manejo, custodia y aplicación de fondos, bienes, valores y recursos públicos por parte de los organismos y Entidades fiscalizadas; así como aquéllas que coadyuven con las Alcaldías, para llevar a cabo el procedimiento de entrega-recepción y someterlos a la autorización de la persona Titular de la Secretaría;
-
-IX. Coordinar y supervisar la difusión interna a través de los medios habilitados para ello, del marco normativo aplicable a la Secretaría y demás información de apoyo para el desarrollo de las funciones de las Unidades Administrativas; solicitando la colaboración que corresponda de la Dirección General de Normatividad y Apoyo Técnico.
-
-X. Coordinar y supervisar la implantación, implementación, funcionamiento y actualización del Sistema Integral de Información de la Secretaría;
-
-XI. Coordinar y supervisar las acciones, sistemas y adopción tecnológica que favorezcan a la eficiencia y mejora de la gestión administrativa, documental, procesal y operativa de los trámites y servicios de la Secretaría;
-
-XII. Coordinar y supervisar y evaluar la planeación, práctica y operación de los sistemas y modelos de gestión de la Secretaría; así como coordinar la elaboración y seguimiento de los planes de acción respectivos y oportunidades de mejora;
-
-XIII. Coordinar y supervisar las acciones de apoyo para el análisis, implantación, implementación y fortalecimiento de proyectos y programas de mejora de la gestión en las Unidades Administrativas de la Secretaría;
-
-XIV. Coordinar la administración, desarrollo, mantenimiento, soporte técnico y seguridad de los sistemas informáticos, así como de la infraestructura y servicios de tecnologías de la información y comunicaciones de la Secretaría. en términos de las disposiciones aplicables;
-
-XV. Verificar la instrumentación de las acciones necesarias para el adecuado uso y aprovechamiento de los sistemas, infraestructura y servicios a que se refiere la fracción anterior;
-
-XVI. Coordinar y supervisar el control, registro, vigencia y cumplimiento de las licencias de los sistemas de la Secretaría, y verificar su cumplimiento institucional en términos de las disposiciones aplicables;
-
-XVII. Proponer a la persona Titular de la Secretaría, las políticas, normas, manuales, procedimientos, estándares y lineamientos en materia de tecnologías de información y comunicaciones, así como de seguridad informática de la Secretaría;
-
-XVIII. Proponer a la persona Titular de la Secretaría, los sistemas informáticos, de tecnologías de la información y comunicaciones, y demás nuevas tecnologías que sean necesarios para hacer más eficaz, eficiente, transparente, seguro e irrefutable, el cumplimiento de las obligaciones de la Secretaría;
-
-XIX. Coordinar y supervisar la implementación de los sistemas informáticos, requeridos para optimizar los procesos de auditoría y fiscalización, así como aquellos necesarios para el desarrollo de las funciones administrativas de la Secretaría, en colaboración con las Unidades Administrativas de la Dependencia;
-
-XX. Poner a consideración de la persona titular de la Secretaría, el programa de capacitación en materia de tecnologías de la información y comunicaciones, seguridad cibernética, innovación, intra-emprendimiento, transformación digital, auditoría, y demás necesarios para elevar y fortalecer las competencias de las personas servidores (sic) públicas de la Secretaría;
-
-XXI. Coordinar la elaboración y emisión de los dictámenes de no utilidad de bienes o componentes de tecnologías de la información y comunicaciones de la Secretaría, que han concluido su vida útil por daño o pérdida de vigencia en términos de las disposiciones aplicables;
-
-XXII. Representar a la Secretaría y suplir a la persona Titular de la Dependencia, en términos de la normatividad aplicable, en los comités, consejos, actos, cursos, congresos, seminarios, conferencias, entre otros, nacionales e internacionales, relacionados con el ámbito de su competencia;
-
-XXIII. Requerir toda clase de información y documentación necesarias a las Unidades Administrativas de la Secretaría de la Contraloría General a efecto de apoyar a la persona titular de la Dependencia, en los trabajos de colaboración, coordinación e intercambio de información y experiencias con los integrantes del Comité Coordinador del Sistema Anticorrupción de la Ciudad de México y del Comité Rector del Sistema de Fiscalización;
-
-XXIV. Analizar la congruencia entre las políticas, directrices y los acuerdos de los comités coordinadores de los Sistemas Anticorrupción Nacional y de la Ciudad de México, y los proyectos de políticas, planes, programas y acciones que las Unidades Administrativas competentes de la Secretaría propongan;
-
-XXV. Proponer políticas, planes, programas y acciones en congruencia con las políticas, directrices y los acuerdos de los comités coordinadores de los Sistemas Anticorrupción Nacional y de la Ciudad de México;
-
-XXVI. Diseñar, proponer y en su caso, llevar a cabo foros, mesas de trabajo y cualquier otro mecanismo con la sociedad civil y con otros órganos internos de control y entes públicos de los poderes ejecutivo, legislativo y judicial locales y federales y de órganos autónomos, a efecto de analizar y discutir proyectos o la ejecución de políticas, planes, programas y acciones en materia anticorrupción y de fiscalización de la Secretaría;
-
-XXVII. Proponer a la persona titular de la Secretaría los informes y reportes que corresponda remitir a los comités coordinadores anticorrupción nacional y local, y comités rectores del Sistema de Fiscalización;
-
-XXVIII. Representar a la Secretaría en los trabajos previos o de seguimiento a los acuerdos del Comité Coordinador del Sistema Anticorrupción de la Ciudad de México y de los Comités Rectores del Sistema de Fiscalización;
-
-XXIX. Monitorear y dar seguimiento al cumplimiento de plazos y demás situaciones relativas a la entrega de información para la Plataforma Digital del Sistema Anticorrupción de la Ciudad de México;
-
-XXX. Participar en la elaboración, seguimiento y reporte de los programas, políticas y acciones en la materia anticorrupción en coordinación con las Unidades Administrativas competentes de la Secretaría, y los órganos internos de control;
-
-XXXI. Llevar un registro de los acuerdos, políticas y directrices, que emitan los comités coordinadores de los Sistemas Anticorrupción Nacional y de la Ciudad de México, comités rectores del Sistema de Fiscalización, así como de su atención por parte de la Administración Pública en coordinación con los órganos internos de control;
-
-XXXII. Dar seguimiento a las recomendaciones que emitan los comités coordinadores de los Sistemas Anticorrupción Nacional y de la Ciudad de México; y los Comités Rectores de Fiscalización;
-
-XXXIII. Proponer y participar en el seguimiento de convenios en materia Anticorrupción y Fiscalización que suscriba la persona titular de la Secretaría;
-
-XXXIV. Dar seguimiento y elaborar reportes sobre la atención de observaciones, recomendaciones, solicitudes de aclaración, denuncias y demás acciones solicitadas por otros órganos de Fiscalización de la Ciudad de México o de la Federación, solicitando la información correspondiente, a las direcciones generales de coordinación de órganos internos de control;
-
-XXXV. Proponer a la persona titular de la Secretaría, programas y acciones para la vigilancia, seguimiento y reporte del cumplimiento en la aplicación de recursos presupuestales, derivados de acuerdos y convenios federales, ejercidos por las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades;
-
-XXXVI. Supervisar el desempeño de las atribuciones que tienen conferidas las Unidades Administrativas de Apoyo Técnico-Operativo que tiene adscritas, y en su caso, tomar las medidas que estime convenientes para mejorar la eficiencia de las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
-
-XXXVII. Someter en conjunto con las direcciones generales de coordinación de órganos internos de control, el contenido y alcance del programa anual de trabajo de las auditorías conjuntas y directas, propuesto por la Secretaría de la Función Pública u homólogos, a consideración y aprobación de la persona Titular de la Secretaría de la Contraloría General; y
-
-XXXVIII. Las demás que le instruya la persona titular de la Secretaría de la Contraloría General; las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo a él adscritas; las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+(DEROGADO, G.O. 12 DE MARZO DE 2021)
 
 ###### Artículo 133.
 
@@ -5576,7 +5464,9 @@ XXVI. Formular observaciones que se deriven de las auditorías, intervenciones y
 
 XXVII. Proporcionar a las Unidades Administrativas competentes de la Secretaría de la Contraloría General, los elementos y constancias que se hubiesen generado en la práctica de intervenciones y control interno, así como de las auditorías, sus observaciones y acciones, a efecto de que se proceda en términos de la legislación de Responsabilidades Administrativas por los actos u omisiones de las personas servidoras públicas que pudieran constituir falta administrativa;
 
-XXVIII. Solicitar a la Dirección General de Normatividad y Apoyo Técnico y a la Dirección General de Innovación y Mejora Gubernamental de la Secretaría de la Contraloría General cuando se estime necesario, su opinión o participación en auditorías o intervenciones o control interno para sustentar investigaciones, observaciones, hallazgos, recomendaciones preventivas y correctivas, así como para la investigación de posibles faltas administrativas o la substanciación y resolución de procedimientos de responsabilidades administrativas; y
+> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
+
+XXVIII. Solicitar a la Dirección General de Normatividad y Apoyo Técnico de la Secretaría de la Contraloría General cuando se estime necesario, su opinión o participación en auditorías o intervenciones o control interno para sustentar investigaciones, observaciones, hallazgos, recomendaciones preventivas y correctivas, así como para la investigación de posibles faltas administrativas o la substanciación y resolución de procedimientos de responsabilidades administrativas; y
 
 XXIX. Las demás que le instruya la persona titular de la Secretaría de la Contraloría General; las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo a él adscritas; las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
@@ -5658,7 +5548,9 @@ XXXVI. Dar seguimiento a los procesos de creación, extinción, desincorporació
 
 XXXVII. Vigilar en coordinación con los órganos internos de control en Entidades, la instrumentación de medidas preventivas y correctivas derivadas de las evaluaciones que se realicen en las Entidades;
 
-XXXVIII. Solicitar a la Dirección General de Normatividad y Apoyo Técnico y a la Dirección General de Innovación y Mejora Gubernamental de la Secretaría de la Contraloría General cuando se estime necesario, su opinión o participación en auditorías o intervenciones o control interno para sustentar investigaciones, observaciones, hallazgos, recomendaciones preventivas y correctivas, así como para la investigación de posibles faltas administrativas o la substanciación y resolución de procedimientos de responsabilidades administrativas; y
+> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
+
+XXXVIII. Solicitar a la Dirección General de Normatividad y Apoyo Técnico de la Secretaría de la Contraloría General cuando se estime necesario, su opinión o participación en auditorías o intervenciones o control interno para sustentar investigaciones, observaciones, hallazgos, recomendaciones preventivas y correctivas, así como para la investigación de posibles faltas administrativas o la substanciación y resolución de procedimientos de responsabilidades administrativas; y
 
 XXXIX. Las demás que le instruya la persona titular de la Secretaría de la Contraloría General; las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo a él adscritas; las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
@@ -5726,7 +5618,9 @@ XXIX. Vigilar que las Dependencias, Órganos Desconcentrados, Alcaldías y Entid
 
 XXX. Vigilar en el ámbito de su respectiva competencia, el cumplimiento por parte de los auditores externos de los instrumentos y disposiciones jurídicas y administrativas aplicables;
 
-XXXI. Solicitar a la Dirección General de Normatividad y Apoyo Técnico y a la Dirección General de Innovación y Mejora Gubernamental de la Secretaría de la Contraloría General cuando se estime necesario, su opinión o participación en auditorías o intervenciones o control interno, para sustentar investigaciones, observaciones, hallazgos, recomendaciones preventivas y correctivas, así como para la investigación de posibles faltas administrativas o la substanciación y resolución de procedimientos de responsabilidades administrativas;
+> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
+
+XXXI. Solicitar a la Dirección General de Normatividad y Apoyo Técnico de la Secretaría de la Contraloría General cuando se estime necesario, su opinión o participación en auditorías o intervenciones o control interno, para sustentar investigaciones, observaciones, hallazgos, recomendaciones preventivas y correctivas, así como para la investigación de posibles faltas administrativas o la substanciación y resolución de procedimientos de responsabilidades administrativas;
 
 XXXII. Participar en la planeación de actividades de control interno que realicen las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública, en términos de las disposiciones jurídicas y administrativas aplicables;
 
@@ -7366,17 +7260,17 @@ VIII. Administrar y operar los establecimientos de prestación de servicios soci
 
 IX. Promover la creación de diversos mecanismos de financiamiento público y privado que permitan fortalecer los servicios sociales, deducibles de impuestos;
 
-X. Fomentar y apoyar a las asociaciones, sociedades civiles y demás entidades privadas, cuyo objeto sea la prestación de servicios sociales y en su caso, evaluar sus programas sin perjuicio de las atribuciones que al efecto correspondan a otras Dependencias; y
+> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
 
-XI. Prestar asistencia jurídica y orientación social a los sujetos beneficiarios de los servicios sociales.
+X. Fomentar y apoyar a las asociaciones, sociedades civiles y demás entidades privadas, cuyo objeto sea la prestación de servicios sociales y en su caso, evaluar sus programas sin perjuicio de las atribuciones que al efecto correspondan a otras Dependencias;
 
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
 
-XII. Coordinar las políticas de mejoramiento barrial y comunitario del Gobierno de la Ciudad de México en el ámbito territorial, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+XI. Prestar asistencia jurídica y orientación social a los sujetos beneficiarios de los servicios sociales;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2021)</small>
+XII. (DEROGADA, G.O. 12 DE MARZO DE 2021)
 
-XIII. Diseñar y operar estrategias y acciones para el fortalecimiento del tejido social mediante mecanismos de información, formación y capacitación ciudadana y comunitaria;
+XIII. (DEROGADA, G.O. 12 DE MARZO DE 2021)
 
 > <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
 
@@ -7454,11 +7348,21 @@ VI. Establecer los mecanismos necesarios para la participación de la sociedad c
 
 VII. Realizar recorridos y visitas periódicas a las demarcaciones territoriales para lograr una comunicación efectiva entre gobierno y sociedad;
 
-> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
 
-VIII. Establecer los mecanismos de colaboración para definir los trabajos que realizarán las personas designadas como representantes de la Jefatura de Gobierno en las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia, que sirvan de referencia para diagnósticos y toma de decisiones a la Jefatura de Gobierno de la Ciudad de México, en materia de seguridad ciudadana; y
+VIII. Establecer los mecanismos de colaboración para definir los trabajos que realizarán las personas designadas como representantes de la Jefatura de Gobierno en las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia, que sirvan de referencia para diagnósticos y toma de decisiones a la Jefatura de Gobierno de la Ciudad de México, en materia de seguridad ciudadana;
 
-IX. Las demás atribuciones conferidas por la persona Titular de la Secretaría, así como las que expresamente le atribuyen este Reglamento y las que le otorguen otros ordenamientos jurídicos o administrativos.
+> <small>(ADICIONADA, G.O. 12 DE MARZO DE 2021)</small>
+
+IX. Coordinar las políticas de mejoramiento barrial y comunitario del Gobierno de la Ciudad de México en el ámbito territorial, de conformidad con las disposiciones jurídicas y/o administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 12 DE MARZO DE 2021)</small>
+
+X. Diseñar y operar estrategias y acciones para el fortalecimiento del tejido social mediante mecanismos de información, formación y capacitación ciudadana y comunitaria; y
+
+> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
+
+XI. Las demás atribuciones conferidas por la persona Titular de la Secretaría, así como las que expresamente le atribuyen este Reglamento y las que le otorguen otros ordenamientos jurídicos y/o administrativos.
 
 ###### Artículo 179.
 
@@ -10802,7 +10706,9 @@ VIII. Requerir la colaboración, información y documentación a las Dependencia
 
 IX. Solicitar a las Instituciones competentes información que cuente con secrecía en materia fiscal, bursátil, fiduciaria y demás relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios, así como de propiedades, financiera, muebles, inmuebles o similar o de cualquier otro tipo, relacionada con las personas servidoras públicas, sus cónyuges, concubinos y dependientes económicos directos, así como de personas físicas, morales y colectivas, con la finalidad de llevar a cabo la substanciación y resolución de procedimientos de Responsabilidad Administrativa de conformidad con las disposiciones de la legislación sobre sistemas anticorrupción y responsabilidades;
 
-X. Solicitar a la Dirección General de Normatividad y Apoyo Técnico y a la Dirección General de Innovación y Mejora Gubernamental de la Secretaría de la Contraloría General cuando se estime necesario, su opinión para la substanciación y resolución de procedimientos de responsabilidades administrativas;
+> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
+
+X. Solicitar a la Dirección General de Normatividad y Apoyo Técnico de la Secretaría de la Contraloría General cuando se estime necesario, su opinión para la substanciación y resolución de procedimientos de responsabilidades administrativas;
 
 XI. Disponer otras investigaciones y citar para otra u otras audiencias, cuando de la substanciación de algún Procedimiento de Responsabilidad Administrativa se adviertan hechos que puedan constituir nuevas o diversas responsabilidades administrativas, sancionando las responsabilidades que resulten;
 
@@ -10846,7 +10752,9 @@ X. Requerir de acuerdo a la naturaleza de sus funciones, y en términos de las d
 
 XI. Solicitar a las Instituciones competentes información que cuente con secrecía en materia fiscal, bursátil, fiduciaria y demás relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios, así como de propiedades, financiera, muebles, inmuebles o similar o de cualquier otro tipo, relacionada con las personas servidoras públicas, sus cónyuges, concubinos y dependientes económicos directos, así como de personas físicas, morales y colectivas, con la finalidad de llevar a cabo investigación de conformidad con las disposiciones de la legislación sobre sistemas (sic) anticorrupción y responsabilidades;
 
-XII. Solicitar a la Dirección General de Normatividad y Apoyo Técnico y a la Dirección General de Innovación y Mejora Gubernamental de la Secretaría de la Contraloría General cuando se estime necesario, su opinión para la investigación de posibles faltas administrativas de procedimientos de responsabilidades administrativas;
+> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
+
+XII. Solicitar a la Dirección General de Normatividad y Apoyo Técnico de la Secretaría de la Contraloría General cuando se estime necesario, su opinión para la investigación de posibles faltas administrativas de procedimientos de responsabilidades administrativas;
 
 XIII. Conciliar con las personas servidoras públicas o personas titulares de las Unidades Administrativas señaladas en la denuncia, cuando se considere conveniente a los intereses del denunciante, para una eficiente y ágil solución al problema, siempre que no constituya un perjuicio a la Administración Pública, y sin demérito de la posible comisión de irregularidades administrativas;
 
@@ -10880,23 +10788,29 @@ XXVII. Las demás que le instruya la persona titular de la Dirección General Re
 
 ###### Artículo 255.
 
-Corresponde a la Dirección de Seguimiento a Resoluciones:
+(DEROGADO, G.O. 12 DE MARZO DE 2021)
 
-I. Representar ante toda clase de autoridades administrativas y judiciales, locales o federales, los intereses de la Dirección General de Responsabilidades Administrativas y sus Unidades Administrativas en todos los asuntos que sean parte o cuando tengan un interés jurídico;
+> <small>(ADICIONADO, G.O. 12 DE MARZO DE 2021)</small>
+
+###### Artículo 255 Bis.
+
+Corresponde a la Subdirección de Seguimiento a Resoluciones:
+
+I. Representar ante toda clase de autoridades administrativas y judiciales, locales o federales, los intereses de la Dirección General de Responsabilidades Administrativas y sus Unidades Administrativas en todos los asuntos en que sean parte o cuando tengan un interés jurídico;
 
 II. Demandar y contestar demandas, interponer todo tipo de denuncias o querellas en materia penal, rendir informes, realizar promociones, designar delegados o apoderados, ofrecer y rendir pruebas, promover incidentes, interponer recursos, interponer juicios de amparo directo e indirecto, formular alegatos, hacer promociones de trámite, transigir y comprometer en árbitros, articular y absolver posiciones, desistirse, e incluso allanarse a las demandas, en los asuntos en los que sea parte la Dirección General de Responsabilidades Administrativas o sus Unidades Administrativas ante toda clase de autoridades administrativas, judiciales, o autónomas locales o federales;
 
 III. Elaborar los informes previos y justificados en los juicios de amparo que se promuevan en contra de la Dirección General de Responsabilidades Administrativas y sus Unidades Administrativas;
 
-IV. Interponer ante la Sala Superior del Tribunal de Justicia Administrativa de la Ciudad de México, recursos en contra de las resoluciones de sus salas que decreten o nieguen el sobreseimiento, las que resuelvan el juicio o la cuestión planteada en el fondo y las que pongan fin al procedimiento; e interponer, ante el Tribunal Colegiado de Circuito competente, el recurso de revisión en contra de las resoluciones de la Sala Superior del Tribunal de Justicia Administrativa de la Ciudad de México;
+IV. Interponer ante la Sala Superior del Tribunal de Justicia Administrativa de la Ciudad de México, recursos en contra de las resoluciones de sus Salas que decreten o nieguen el sobreseimiento, las que resuelvan el juicio o la cuestión planteada en el fondo y las que pongan fin al procedimiento; e interponer, ante el Tribunal Colegiado de Circuito competente, el recurso de revisión en contra de las resoluciones de la Sala Superior del Tribunal de Justicia Administrativa de la Ciudad de México;
 
-V. Expedir, copias certificadas de los documentos que obren en sus archivos, así como de los documentos a los que tenga acceso con motivo del ejercicio de sus facultades, previo cotejo;
+V. Expedir copias certificadas de los documentos que obren en sus archivos, así como de los documentos a los que tenga acceso con motivo del ejercicio de sus facultades, previo cotejo;
 
 VI. Atender las consultas relacionadas con asuntos de las materias señaladas en las fracciones que anteceden;
 
 VII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública, órganos internos de control, así como a proveedores, contratistas, prestadores de servicio y demás particulares vinculados, cuando lo estime conveniente; y
 
-VIII. Las demás que le instruya la persona Titular de la Dirección General de Responsabilidades Administrativas; las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+VIII. Las demás que le instruya la persona Titular de la Dirección General de Responsabilidades Administrativas, las que expresamente le atribuyan este Reglamento, y las que le otorguen otros ordenamientos jurídicos y/o administrativos.
 
 ###### Artículo 256.
 
@@ -10962,7 +10876,9 @@ XII. Tener acceso a la información sobre sanciones administrativas o abstencion
 
 XIII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública y órganos internos de control, así como particulares vinculados con faltas administrativas;
 
-XIV. Coadyuvar con la Dirección de Seguimiento a Resoluciones, en la defensa de todos los asuntos en los que sea parte esta dirección o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que se tiene (sic) encomendadas;
+> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
+
+XIV. Coadyuvar con la Subdirección de Seguimiento a Resoluciones, en la defensa de todos los asuntos en los que sea parte esta Dirección o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que se tiene (sic) encomendadas;
 
 XV. Habilitar al personal de su Unidad Administrativa de Apoyo Técnico-Operativo como notificadores, para el desempeño de sus funciones;
 
@@ -11288,7 +11204,9 @@ XX. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendi
 
 XXI. Asistir y participar en términos de la normatividad, en los comités, subcomités, consejos directivos y demás cuerpos colegiados, así como, cuando lo estime conveniente en licitaciones públicas e invitaciones restringidas, de las Alcaldías, por sí, o a través de los órganos internos de control en Alcaldías, o de las Unidades Administrativas de Apoyo Técnico-Operativo adscritas a ellas, o cuando no se cuente con Órgano Interno de Control;
 
-XXII. Solicitar a la Dirección General de Normatividad y Apoyo Técnico y a la Dirección General de Innovación y Mejora Gubernamental de la Secretaría de la Contraloría General cuando se estime necesario, su opinión o participación en auditorías o intervenciones para sustentar investigaciones, observaciones, hallazgos, recomendaciones preventivas y correctivas, así como para la investigación de posibles faltas administrativas o la substanciación y resolución de procedimientos de responsabilidades administrativas;
+> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
+
+XXII. Solicitar a la Dirección General de Normatividad y Apoyo Técnico de la Secretaría de la Contraloría General cuando se estime necesario, su opinión o participación en auditorías o intervenciones para sustentar investigaciones, observaciones, hallazgos, recomendaciones preventivas y correctivas, así como para la investigación de posibles faltas administrativas o la substanciación y resolución de procedimientos de responsabilidades administrativas;
 
 XXIII. Expedir, copias certificadas de los documentos que obren en sus archivos, así como de los documentos a los que tenga acceso con motivo del ejercicio de sus facultades, previo cotejo;
 
@@ -11296,9 +11214,11 @@ XXIV. Proporcionar a las Unidades Administrativas competentes de la Secretaría 
 
 XXV. Las demás que le instruya la persona Titular de la Dirección General de Coordinación de Órganos Internos de Control en Alcaldías, las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo a él adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE MARZO DE 2021)</small>
+
 ###### Artículo 265.
 
-Corresponde a las Direcciones de Coordinación de Órganos Internos de Control Sectorial “A”, “B” y “C”, respecto a las Dependencias, Órganos Desconcentrados y Entidades:
+Corresponde a las Direcciones de Coordinación de Órganos Internos de Control Sectorial “A”, “B” y “C” respecto a las Dependencias, Órganos Desconcentrados y Entidades:
 
 I. Revisar la integración de los programas anuales de Auditoría y de Control Interno para su presentación a autorización, y en su caso, elaborar los proyectos de programas correspondientes, cuando el Ente no se (sic) cuente con órgano interno de control, lo anterior atendiendo a las disposiciones jurídicas y administrativas aplicables;
 
@@ -11342,7 +11262,9 @@ XX. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendi
 
 XXI. Asistir y participar en términos de la normatividad, en los órganos de gobierno, comités, subcomités, consejos directivos y demás cuerpos colegiados, así como, cuando lo estime conveniente en licitaciones públicas e invitaciones restringidas, de las Dependencias, Órganos Desconcentrados y Entidades, por sí, o a través de los órganos internos de control en Dependencias, Órganos Desconcentrados y Entidades, o de las Unidades Administrativas de Apoyo Técnico-Operativo adscritas a ella o cuando no se cuente con Órgano Interno de Control;
 
-XXII. Solicitar a la Dirección General de Normatividad y Apoyo Técnico y a la Dirección General de Innovación y Mejora Gubernamental de la Secretaría de la Contraloría General cuando se estime necesario, su opinión o participación en auditorías, intervenciones y control interno para sustentar investigaciones, observaciones, hallazgos, recomendaciones preventivas y correctivas, así como para la investigación de posibles faltas administrativas o la substanciación y resolución de procedimientos de responsabilidades administrativas;
+> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
+
+XXII. Solicitar a la Dirección General de Normatividad y Apoyo Técnico de la Secretaría de la Contraloría General cuando se estime necesario, su opinión o participación en auditorías, intervenciones y control interno para sustentar investigaciones, observaciones, hallazgos, recomendaciones preventivas y correctivas, así como para la investigación de posibles faltas administrativas o la substanciación y resolución de procedimientos de responsabilidades administrativas;
 
 XXIII. Expedir, copias certificadas de los documentos que obren en sus archivos, así como de los documentos a los que tenga acceso con motivo del ejercicio de sus facultades, previo cotejo;
 
@@ -11382,7 +11304,9 @@ XI. Dar seguimiento a los procesos de creación, extinción, desincorporación, 
 
 XII. Vigilar en coordinación con los órganos internos de control, la instrumentación de medidas preventivas y correctivas derivadas de las evaluaciones que se realicen en las entidades;
 
-XIII. Solicitar a la Dirección General de Normatividad y Apoyo Técnico y a la Dirección General de Innovación y Mejora Gubernamental de la Secretaría de la Contraloría General cuando se estime necesario, su opinión o participación en auditorías, control interno o intervenciones para sustentar investigaciones, observaciones, hallazgos, recomendaciones preventivas y correctivas, así como para la investigación de posibles faltas administrativas o la substanciación y resolución de procedimientos de responsabilidades administrativas;
+> <small>(REFORMADA, G.O. 12 DE MARZO DE 2021)</small>
+
+XIII. Solicitar a la Dirección General de Normatividad y Apoyo Técnico de la Secretaría de la Contraloría General cuando se estime necesario, su opinión o participación en auditorías, control interno o intervenciones para sustentar investigaciones, observaciones, hallazgos, recomendaciones preventivas y correctivas, así como para la investigación de posibles faltas administrativas o la substanciación y resolución de procedimientos de responsabilidades administrativas;
 
 XIV. Expedir, copias certificadas de los documentos que obren en sus archivos, así como de los documentos a los que tenga acceso con motivo del ejercicio de sus facultades, previo cotejo; y
 
@@ -11453,6 +11377,130 @@ XXIII. Las demás que le instruya la persona titular de la Secretaría de la Con
 Las atribuciones generales que en el presente apartado se establecen, serán ejecutadas por la Dirección Ejecutiva, la Dirección de Área, la Subdirección, la Jefatura de Unidad Departamental, el Líder Coordinador, el Enlace u homólogos que determine la persona Titular de la Secretaría de la Contraloría General a través del nombramiento respectivo, mismas que se realizarán, sin perjuicio de aquellas atribuciones específicas que les confiera este Reglamento y otras disposiciones jurídicas y administrativas aplicables.
 
 Las Unidades Administrativas de la Secretaría de la Contraloría General que cuentan con atribuciones para la investigación, substanciación y resolución de procedimientos de responsabilidades en términos de la legislación en materia de responsabilidades y del presente Reglamento, respecto de un mismo caso, sólo podrán ejercer las de investigación y declinar las de substanciación y resolución, o ejercer las facultades de substanciación y resolución y declinar las de investigación.
+
+> <small>(ADICIONADO, G.O. 12 DE MARZO DE 2021)</small>
+
+###### Artículo 268 Bis.
+
+Corresponde a la Dirección de Contraloría Ciudadana:
+
+I. Atender y dar cumplimiento a las disposiciones jurídicas sobre la Red de Contraloría Ciudadana y otras figuras que formen parte del ámbito de atribuciones de la Secretaría de la Contraloría General de conformidad con la legislación en materia de Participación Ciudadana;
+
+II. Organizar y coordinar la Red de Contraloría Ciudadana, además de proponer la normatividad para los procesos de selección, capacitación, acreditación, seguimiento, evaluación de su participación y terminación de los efectos de la acreditación como integrante de la Red de Contraloría Ciudadana;
+
+III. Convocar a la Ciudadanía a los Comités Ciudadanos, a los Consejos Ciudadanos de las Alcaldías, a las organizaciones civiles y sociales, a las instituciones educativas, académicas y profesionales, cámaras y asociaciones y medios de comunicación a presentar propuestas de candidatos y candidatas a contraloras y contralores Ciudadanos;
+
+IV. Diseñar y aplicar procedimientos y mecanismos para la convocatoria, captación, selección, formación, capacitación y asesoría de contraloras y contralores Ciudadanos;
+
+V. Evaluar el desempeño de las contraloras y contralores Ciudadanos y proponer acciones que favorezcan para la labor de vigilancia, supervisión, control y evaluación Ciudadana en la Administración Pública de la Ciudad de México, así como proponer estímulos y reconocimientos a su labor;
+
+VI. Elaborar el proyecto de Programa Anual de Trabajo de Contraloría Ciudadana y remitirlo a la persona Titular de la Secretaría de la Contraloría General, para su autorización;
+
+VII. Promover los principios y directrices de responsabilidad financiera y del servicio público en el ejercicio del gasto, en la prestación de los servicios públicos, en los programas y acciones de gobierno, así como en la actuación y desempeño de las personas servidoras públicas de la Administración Pública de la Ciudad de México, a través de los trabajos que correspondan a las contraloras y contralores Ciudadanos en términos de las disposiciones jurídicas y/o administrativas aplicables;
+
+VIII. Establecer los vínculos de coordinación necesarios con las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, para requerir información y documentación, para la incorporación y el desarrollo de las actividades de vigilancia, supervisión, control y evaluación que realicen las contraloras y contralores Ciudadanos en el ejercicio del gasto público, la prestación de los servicios públicos, en los programas y acciones de gobierno, así como en la actuación y desempeño de las personas servidoras públicas;
+
+IX. Integrar, sistematizar, remitir y dar seguimiento a los informes, propuestas y opiniones de las contraloras y contralores Ciudadanos, como resultado de sus actividades de vigilancia, supervisión, control y evaluación en las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+X. Solicitar información y documentación de acuerdo a la naturaleza de sus funciones a las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública, sobre la atención y el seguimiento dado a los informes, propuestas, peticiones, solicitudes y opiniones de las contraloras y contralores Ciudadanos; así como gestionar y coordinar sus actividades con los entes de la Administración Pública, para la realización de acciones de supervisión y vigilancia que tienen encomendadas;
+
+XI. Realizar estudios sobre la función de las contraloras y contralores Ciudadanos, en coordinación con las organizaciones, instituciones y sectores de la sociedad relacionados con esta materia;
+
+XII. Proponer a la persona Titular de la Secretaría de la Contraloría General la celebración de convenios de colaboración, con organizaciones, instituciones académicas y sectores de la sociedad respecto a la capacitación, promoción de los programas de la Contraloría Ciudadana y estudios en el ámbito de la vigilancia, supervisión, control y evaluación de la Administración Pública de la Ciudad de México;
+
+XIII. Proponer a la persona Titular de la Secretaría de la Contraloría General la celebración de convenios de colaboración, con instituciones académicas del sector público o privado en los que se promueva la participación de estudiantes y egresados como contraloras y contralores Ciudadanos, promoviendo la obtención de acreditaciones de servicio social, formas de titulación u otros beneficios académicos, en términos de los convenios que al efecto se celebren y las disposiciones jurídicas aplicables;
+
+XIV. Asignar las tareas de vigilancia que corresponden a las contraloras y contralores Ciudadanos conforme al Programa Anual de Trabajo de la Contraloría Ciudadana y aquellas que encomiende la persona Titular de la Secretaría de la Contraloría General;
+
+XV. Participar en los procesos de selección de las contraloras y contralores Ciudadanos y ejecutar los procedimientos de terminación de los efectos de la acreditación de las contraloras y contralores Ciudadanos, conforme a las disposiciones jurídicas y/o administrativas aplicables;
+
+XVI. Desarrollar un sistema de información y difusión permanente de las actividades realizadas por las contraloras y contralores Ciudadanos, así como de las propuestas e iniciativas emitidas por éstos;
+
+XVII. Participar con las instancias de la Administración Pública de la Ciudad de México, para el análisis de proyectos normativos que se refieran o tengan alguna incidencia en materia de Contraloría Ciudadana;
+
+XVIII. Coadyuvar con las Unidades Administrativas de la Secretaría de la Contraloría General, cuando así lo soliciten, en toda clase de Intervenciones a las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
+
+XIX. Expedir copias certificadas de los documentos que obren en sus archivos, así como de los documentos a los que tenga acceso con motivo del ejercicio de sus facultades, previo cotejo;
+
+XX. Canalizar ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, demandas, querellas, quejas y denuncias, así como rendir informes en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la Dependencia otorgará el apoyo necesario;
+
+XXI. Llevar un registro y seguimiento de los recursos de inconformidad que presenten las contraloras y contralores Ciudadanos en contra de resoluciones dictadas por las personas titulares de los órganos internos de control;
+
+XXII. Supervisar el desempeño de las atribuciones que tienen conferidas las Unidades Administrativas de Apoyo Técnico-Operativo que tiene adscritas y, en su caso, tomar las medidas que estime convenientes para mejorar la eficiencia de las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
+
+XXIII. Diseñar la capacitación para las contraloras y contralores Ciudadanos respecto a los derechos y obligaciones que les corresponden en términos de la normatividad aplicable, así como para la presentación de medios de impugnación en contra de resoluciones de las personas titulares de los órganos internos de control y la presentación de denuncias por posibles faltas administrativas y hechos de corrupción;
+
+XXIV. Diseñar e implementar procedimientos especiales para la convocatoria, selección y capacitación de las contraloras y contralores Ciudadanos, con relación al organismo de gestión sustentable del agua;
+
+XXV. Establecer canales de comunicación que garanticen la participación en tiempo y forma de las contraloras y contralores Ciudadanos en la función de vigilancia en el ejercicio del gasto público de los entes de la Administración Pública de la Ciudad de México; y
+
+XXVI. Las demás que le instruya la persona Titular de la Secretaría de la Contraloría General, las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas, las que expresamente le atribuya este Reglamento, y las que le otorguen otros ordenamientos jurídicos y/o administrativos.
+
+> <small>(REFORMADO, G.O. 12 DE MARZO DE 2021)</small>
+
+###### Artículo 268 Ter.
+
+Corresponde a la Dirección de Mejora Gubernamental:
+
+I. Coordinar la elaboración y actualización de los manuales de organización y de procedimientos de la Secretaría de la Contraloría General y someterlos a la validación de las Unidades Administrativas responsables; solicitando la colaboración que corresponda a la Dirección General de Normatividad y Apoyo Técnico;
+
+II. Proponer a la persona Titular de la Secretaría de la Contraloría General las acciones orientadas al cumplimiento de las disposiciones que al efecto emita la Agencia Digital de Innovación Pública y dar seguimiento para su cumplimiento al interior de la Secretaría de la Contraloría General;
+
+III. Coordinar las acciones para la profesionalización y mejora de competencias del capital humano de la Secretaría de la Contraloría General;
+
+IV. Coordinar y supervisar con la Agencia Digital de Innovación Pública el establecimiento, implementación, funcionamiento y actualización de los sistemas de evaluación interna, y modelos de gestión de la Secretaría de la Contraloría General para la toma de decisiones y mejora de la gestión;
+
+V. Coordinar y supervisar la difusión interna a través de los medios habilitados para ello, del marco normativo aplicable a la Secretaría de la Contraloría General y demás información de apoyo para el desarrollo de las funciones de las Unidades Administrativas, solicitando la colaboración que corresponda de la Dirección General de Normatividad y Apoyo Técnico;
+
+VI. Coordinar y supervisar con la Agencia Digital de Innovación Pública el establecimiento, implementación, funcionamiento y actualización del Sistema Integral de Información de la Secretaría de la Contraloría General;
+
+VII. Coordinar, supervisar y evaluar la planeación, práctica y operación de los sistemas y modelos de gestión de la Secretaría de la Contraloría General; así como coordinar la elaboración y seguimiento de los planes de acción respectivos y oportunidades de mejora;
+
+VIII. Coordinar y supervisar las acciones de apoyo para el análisis, establecimiento, implementación y fortalecimiento de proyectos y programas de mejora de la gestión en las Unidades Administrativas de la Secretaría de la Contraloría General;
+
+IX. Coordinar con la Agencia Digital de Innovación Pública la administración el desarrollo, mantenimiento, soporte técnico y seguridad de los sistemas informáticos, así como la infraestructura y servicios de tecnologías de la información y comunicaciones de la Secretaría de la Contraloría General, en términos de la legislación aplicable;
+
+X. Coordinar y supervisar con la Agencia Digital de Innovación Pública el control, registro, vigencia y cumplimiento de las licencias de los sistemas de la Secretaría de la Contraloría General, además de verificar su cumplimiento institucional en términos de las disposiciones aplicables;
+
+XI. Coordinar con la Agencia Digital de Innovación Pública, la implementación de los sistemas informáticos requeridos para optimizar los procesos de auditoría y fiscalización, así como aquéllos necesarios para el desarrollo de las funciones administrativas de la Secretaría de la Contraloría General;
+
+XII. Poner a consideración de la persona Titular de la Secretaría de la Contraloría General, el programa de capacitación en materia de tecnologías de la información y comunicaciones, seguridad cibernética, innovación, intra-emprendimiento, transformación digital, auditoría, entre otros, que permitan elevar y fortalecer las competencias de las personas servidoras públicas de la Secretaría de la Contraloría General;
+
+XIII. Coordinar con la Agencia Digital de Innovación Pública la elaboración y emisión de los dictámenes de no utilidad de bienes o componentes de tecnologías de la información y comunicaciones de la Secretaría de la Contraloría General, que han concluido su vida útil por daño o pérdida de vigencia en términos de las disposiciones aplicables;
+
+XIV. Representar a la Secretaría de la Contraloría General y suplir a la persona Titular de la misma en términos de la normatividad aplicable en los comités, consejos, actos, cursos, congresos, seminarios, conferencias, y demás actos, tanto nacionales como internacionales, relacionados con el ámbito de su competencia;
+
+XV. Requerir toda clase de información y documentación necesaria a las Unidades Administrativas de la Secretaría de la Contraloría General a efecto de apoyar a la persona Titular de la Dependencia, en los trabajos de colaboración, coordinación e intercambio de información y experiencias con los integrantes del Comité Coordinador del Sistema Anticorrupción de la Ciudad de México y del Comité Rector del Sistema Local de Fiscalización;
+
+XVI. Analizar la congruencia entre las políticas, directrices y los acuerdos de los Comités coordinadores de los Sistemas Anticorrupción Nacionales y de la Ciudad de México; así como de los proyectos de políticas, planes, programas y acciones que las Unidades Administrativas competentes de la Secretaría de la Contraloría General propongan;
+
+XVII. Proponer políticas, planes, programas y acciones en congruencia con las políticas, directrices y los acuerdos de los Comités coordinadores de los Sistemas Anticorrupción Nacionales y de la Ciudad de México;
+
+XVIII. Diseñar, proponer y, en su caso, llevar a cabo foros, mesas de trabajo y cualquier otro mecanismo con la sociedad civil y con otros órganos internos de control; así como con entes públicos de los poderes ejecutivo, legislativo y judicial, tanto locales como federales, además de órganos autónomos, a efecto de analizar y discutir proyectos o la ejecución de políticas, planes, programas y acciones en materia anticorrupción y de fiscalización de la Secretaría de la Contraloría General;
+
+XIX. Proponer a la persona Titular de la Secretaría de la Contraloría General los informes y reportes que corresponda remitir a los Comités coordinadores anticorrupción tanto a nivel nacional como local, así como a Comités Rectores del Sistema de Fiscalización;
+
+XX. Representar a la Secretaría de la Contraloría General en los trabajos previos o de seguimiento a los acuerdos del Comité Coordinador del Sistema Anticorrupción de la Ciudad de México y de los Comités Rectores del Sistema de Fiscalización;
+
+XXI. Monitorear y dar seguimiento al cumplimiento de plazos y demás situaciones relativas a la entrega de información relacionada a la Plataforma Digital del Sistema Anticorrupción de la Ciudad de México;
+
+XXII. Participar en la elaboración, seguimiento y reporte de los programas, políticas y acciones en materia de anticorrupción, esto, en coordinación con las Unidades Administrativas competentes de la Secretaría, Plataforma Digital del Sistema Anticorrupción de la Ciudad de México, y los órganos internos de control;
+
+XXIII. Llevar un registro de los acuerdos, políticas y directrices, que emitan los Comités Coordinadores de los Sistemas Anticorrupción tanto nacionales como locales, Comités rectores del Sistema de Fiscalización, así como de su atención por parte de la Administración Pública de la Ciudad de México en coordinación con los órganos internos de control;
+
+XXIV. Dar seguimiento a las recomendaciones que emitan los comités coordinadores de los Sistemas Anticorrupción tanto nacionales como locales; así como los Comités Rectores de Fiscalización;
+
+XXV. Proponer y participar en el seguimiento de convenios en materia Anticorrupción y Fiscalización que suscriba la persona Titular de la Secretaría de la Contraloría General;
+
+XXVI. Dar seguimiento y elaborar reportes sobre la atención de observaciones, recomendaciones, solicitudes de aclaración, denuncias y demás acciones solicitadas por otros Órganos de Fiscalización de la Ciudad de México o de la Federación, solicitando la información correspondiente a las direcciones generales de coordinación de órganos internos de control;
+
+XXVII. Proponer a la persona Titular de la Secretaría de la Contraloría General programas y acciones para la vigilancia, seguimiento y reporte del cumplimiento en la aplicación de recursos presupuestales, derivados de acuerdos y convenios federales, ejercidos por las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades;
+
+XXVIII. Supervisar el desempeño de las atribuciones que tienen conferidas las Unidades Administrativas de Apoyo Técnico-Operativo que tiene adscritas y, en su caso, tomar las medidas que estime convenientes para mejorar la eficiencia de las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
+
+XXIX. Someter en conjunto con las direcciones generales de coordinación de órganos internos de control, el contenido y alcance del programa anual de trabajo de las auditorías conjuntas y directas, propuesto por la Secretaría de la Función Pública u homólogos, a consideración y aprobación de la persona Titular de la Secretaría de la Contraloría General; y
+
+XXX. Las demás que le instruya la persona Titular de la Secretaría de la Contraloría General, las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo a él adscritas, las que expresamente le atribuya este Reglamento y las que le otorguen otros ordenamientos jurídicos y/o administrativos.
 
 #### SECCIÓN V. ADSCRITO A LA SECRETARÍA DE MOVILIDAD
 
@@ -14877,3 +14925,15 @@ SEGUNDO.- El presente Decreto surtirá efectos a partir del día de su publicaci
 TERCERO.- Los asuntos que, con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas que se derogan o modifican, serán atendidos y resueltos por aquellas que las sustituyan o asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia.
 
 CUARTO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en contratos o convenios, a las Unidades Administrativas que mediante el presente Decreto cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
+
+G.O. 12 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del día 16 de marzo de 2021.
+
+TERCERO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas que se derogan o modifican, serán atendidos y resueltos por aquellas que las sustituyan o asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia.
+
+CUARTO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, tales como en contratos o convenios, a las Unidades Administrativas que mediante el presente Decreto cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
