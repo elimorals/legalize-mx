@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2021-03-10"
+last_updated: "2021-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -273,11 +273,11 @@ El Ayuntamiento además de cumplir con las atribuciones que les (sic) establece 
 
 El Ayuntamiento, para la ejecución y cumplimiento de las atribuciones que le señalan las Leyes, se reunirá en el recinto oficial, denominado "Salón de Cabildos del Palacio Municipal del Municipio de Puebla" o cuando el caso lo requiera, en el recinto previamente declarado oficial, para efecto de sesionar en términos de lo dispuesto en la Ley Orgánica y de conformidad con las disposiciones jurídicas señaladas en el presente Código.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 ### CAPÍTULO 4 BIS. DE LOS DERECHOS HUMANOS E IGUALDAD DE GÉNERO
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 ###### Artículo 21 Bis.
 
@@ -287,13 +287,13 @@ Este Código Reglamentario para el Municipio de Puebla, los Reglamentos y dispos
 
 Las autoridades municipales, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, éstas deberán prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos de las disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 ###### Artículo 21 Ter.
 
 Para los efectos del presente Capítulo, se entiende por:
 
-I. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades.
+I. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio (sic) de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades.
 
 II. Enfoque de derechos humanos: El marco conceptual relativo a los planes, las políticas, los programas y los presupuestos con base a un sistema de derechos, el cual identifica, por un lado, a las personas titulares de derechos y aquello a lo que tienen derecho; y por el otro, a las personas titulares de deberes y sus obligaciones para respetar, proteger y hacer efectivos los derechos humanos, así como fortalecer la capacidad de las personas titulares de derechos.
 
@@ -311,7 +311,7 @@ VIII. Perspectiva de género: Concepto que se refiere a la metodología y los me
 
 IX. Violencia contra las mujeres: Cualquier acción u omisión que, con motivo de su género, les cause daño físico, psicológico, económico, patrimonial, sexual o la muerte, en cualquier ámbito.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 ###### Artículo 21 Quáter.
 
@@ -319,7 +319,7 @@ Corresponde a las autoridades municipales proteger y garantizar la igualdad entr
 
 La Secretaría para la Igualdad Sustantiva de Género del Honorable Ayuntamiento del Municipio de Puebla ejecutará todas las acciones necesarias para el diseño de los planes y programas, con la finalidad de propiciar el derecho a una vida libre de violencia e igualdad entre mujeres y hombres de acuerdo a sus atribuciones.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 ###### Artículo 21 Quinquies.
 
@@ -337,31 +337,31 @@ V. La perspectiva de género; y
 
 VI. Los demás establecidos en los instrumentos internacionales, federales, estatales y municipales aplicables en la materia.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 ###### Artículo 21 Sexies.
 
 El Honorable Ayuntamiento del Municipio de Puebla deberá impulsar la capacitación de las autoridades municipales en materia de perspectiva de género, derechos humanos, igualdad y no discriminación.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 ###### Artículo 21 Septies.
 
 El Honorable Ayuntamiento del Municipio de Puebla deberá promover y fomentar la utilización de un lenguaje incluyente, no sexista y no discriminatorio en el ámbito de la administración municipal.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 ###### Artículo 21 Octies.
 
 El Honorable Ayuntamiento del Municipio de Puebla adoptará políticas generales, programas, estrategias y acciones públicas para construir una sociedad más justa y solidaria, disminuir la desigualdad entre mujeres y hombres, así como las prácticas discriminatorias en cualquiera de sus modalidades, proponiendo lineamientos y mecanismos institucionales que orienten al cumplimiento de la igualdad, tanto en el ámbito público como privado, promoviendo el empoderamiento de las mujeres y la lucha contra la discriminación basada en el sexo.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 ###### Artículo 21 Nonies.
 
 El Honorable Ayuntamiento del Municipio de Puebla podrá promover la celebración de convenios y acuerdos con el Gobierno Federal, Estatal, Instituciones Privadas y Organismos Sociales, con el objetivo de generar acciones que atiendan políticas públicas que contribuyan a la igualdad de género, así como la disminución de las desigualdades entre mujeres y hombres.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE MARZO DE 2021)</small>
 
 ###### Artículo 21 Decies.
 
@@ -373,15 +373,15 @@ II. Los puestos administrativos;
 
 III. En la integración de mesas directivas de vecinos de barrios, colonias, fraccionamientos y unidades habitacionales del municipio;
 
-IV. En los Consejos de Participación Ciudadana, tanto en la convocatoria que establece las bases para su instalación o renovación, como en su integración;
+IV. En los Consejos de Participación Ciudadana, tanto en la convocatoria que establece las bases para su instalación o renovación, como en su integración, y
 
 V. En cualquier otro mecanismo de participación ciudadana.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 Artículo 21 Undecies.- El Honorable Ayuntamiento del Municipio de Puebla adoptará las medidas, estrategias y acciones preventivas que protejan los derechos humanos, basadas en campañas y actividades de información objetiva, concientización y sensibilización sobre el problema de la violencia de género, y acciones tendientes a disminuir la desigualdad entre mujeres y hombres, así como las prácticas discriminatorias en cualquiera de sus modalidades.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 Artículo 21 Duodecies.- Las autoridades municipales, en el ámbito de sus respectivas competencias, deberán garantizar la igualdad de género en la vida económica y laboral, para lo cual adoptarán medidas dirigidas a erradicar cualquier tipo de discriminación laboral entre mujeres y hombres, desarrollando las siguientes acciones:
 
@@ -413,7 +413,7 @@ XIII. Proponer en el ámbito de su competencia, el otorgamiento de estímulos de
 
 XIV. Crear mecanismos de coordinación con la iniciativa privada, a efecto de fomentar la igualdad de trato y oportunidades entre mujeres y hombres que laboran en ese sector.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 Artículo 21 Terdecies.- Las autoridades municipales propondrán los mecanismos de operación adecuados para la participación igualitaria entre mujeres y hombres en la vida política municipal, desarrollando las acciones siguientes:
 
@@ -431,7 +431,7 @@ VI. Impulsar campañas de difusión, estrategias, programas, proyectos, activida
 
 VII. Promover que al interior de las dependencias la adecuación de su normatividad para garantizar el acceso de las mujeres a puestos de liderazgo y toma de decisiones.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 Artículo 21 Quaterdecies.- Para impulsar y fomentar la igualdad sustantiva entre mujeres y hombres, así como el acceso y pleno disfrute de sus derechos sociales, las autoridades municipales desarrollarán las acciones siguientes:
 
@@ -439,7 +439,7 @@ I. Diseñar políticas y programas de desarrollo social y de reducción de la po
 
 II. Fomentar la corresponsabilidad social igualitaria entre mujeres, hombres, las familias, la comunidad, el mercado y las autoridades municipales.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 Artículo 21 Quindecies.- Con el fin de promover y procurar la igualdad de género en el ámbito civil, las autoridades municipales desarrollarán las siguientes acciones:
 
@@ -449,7 +449,7 @@ II. Generar mecanismos institucionales que fomenten el reparto equilibrado de la
 
 III. Promover el uso del lenguaje incluyente, no sexista y no discriminatorio.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 Artículo 21 Sexdecies.- Para lograr la igualdad de trato y oportunidades entre mujeres y hombres en el ámbito educativo, las autoridades municipales deberán:
 
@@ -465,7 +465,7 @@ V. Promover la eliminación de comportamientos, contenidos sexistas y estereotip
 
 VI. Establecer medidas educativas destinadas al reconocimiento y enseñanza histórica de la participación política, social y cultural de las mujeres.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE MARZO DE 2021)</small>
 
 Artículo 21 Septdecies.- Las autoridades municipales que incurran en responsabilidad, serán sancionadas de acuerdo a lo establecido en la ley de la materia.
 
@@ -39272,6 +39272,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
 P.O. 10 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE FEBRERO DE 2021, QUE APRUEBA EL DICTAMEN PRESENTADO POR LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE ADICIONA EL CAPÍTULO 4 BIS DENOMINADO DE LOS DERECHOS HUMANOS E IGUALDAD DE GÉNERO, CON SUS ARTÍCULOS DEL 21 BIS AL 21 SEPTDECIES, AL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, PARA PREVENIR, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+PRIMERO. Las adiciones aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 12 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE FEBRERO DE 2021, QUE APRUEBA EL DICTAMEN PRESENTADO POR LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE ADICIONA EL CAPÍTULO 4 BIS, ASÍ COMO LOS ARTÍCULOS 21 BIS, 21 TER, 21 QUÁTER, 21 QUINQUIES, 21 SEXIES, 21 SEPTIES, 21 OCTIES, 21 NONIES, 21 DECIES, 21 UNDECIES, 21 DUODECIES, 21 TERDECIES, 21 QUATERDECIES, 21 QUINDECIES, 21 SEXDECIES Y 21 SEPTDECIES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
 
 PRIMERO. Las adiciones aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
