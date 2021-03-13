@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-para-el-desarrollo-integral-de-la-familia-74547
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-13"
-last_updated: "2020-09-26"
+last_updated: "2021-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de marzo de 2010.
 
@@ -67,7 +67,9 @@ VI. Presidente del Consejo Consultivo.- Presidente Honorario del Consejo Consult
 
 VII. Ley del Sistema DIF Oaxaca.- Ley del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca;
 
-VIII. Procurador.- Procurador de la Defensa del Menor, la Mujer y la Familia del Sistema DIF Oaxaca;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+VIII. Procurador.- Procurador Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca.
 
 IX. Sistema DIF Nacional o DIF Nacional.- Sistema Nacional para el Desarrollo Integral de la Familia;
 
@@ -659,11 +661,15 @@ IV.-Las facultades que se concede a los Sistemas DIF Municipales para que celebr
 
 Los Ayuntamientos de acuerdo con su capacidad presupuestaria incluirán en su Presupuesto Anual de Egresos, la partida destinada a los Servicios de Asistencia Social.
 
-### CAPÍTULO XII. Da la Procuraduría para la Defensa del Menor, la Mujer y la Familia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MARZO DE 2021)</small>
+
+### CAPÍTULO XII. De la Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 51.
 
-El Sistema DIF Oaxaca, contará con una Procuraduría para la Defensa del Menor, la Mujer y la Familia, la cual tiene como finalidad la defensa de los derechos de los sujetos de asistencia social, cuando éstos se vulneren; regirá sus actuaciones de acuerdo a lo establecido en la presente Ley, Reglamento Interior del DIF Oaxaca y demás ordenamientos en la materia.
+El Sistema DIF Oaxaca, contará con una Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca, la cual tiene como finalidad la defensa de los derechos de los sujetos de asistencia social, cuando estos se vulneren; regirá sus actuaciones de acuerdo con lo establecido en la presente Ley, Reglamento Interior del DIF Oaxaca y demás ordenamientos en la materia.
 
 ###### ARTÍCULO 52.
 
@@ -695,19 +701,27 @@ f).- En la elaboración de dictámenes, valoraciones y/o estudios psicológicos,
 
 g).- Todos aquellos que resulten de la normatividad aplicable.
 
-VII.- Promover la creación de las Procuradurías para la Defensa del Menor, la Mujer y la Familia en los Sistemas .DIF Municipales y proponer los lineamientos de operación de las mismas de acuerdo a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
 
-VIII.- Proporcionar al personal de las Procuradurías Municipales para la defensa del Menor, la Mujer y la Familia, asesoría y capacitación para su funcionamiento;
+VII.- Promover la creación de Procuradurías Municipales de Protección de los Derechos de Niñas, Niños y Adolescentes en los Sistemas DIF Municipales y proponer los lineamientos de operación de las mismas, de acuerdo a la normatividad aplicable.
 
-IX.- Establecer y operar en forma conjunta con las Procuradurías Municipales para la Defensa del Menor, la Mujer y la Familia, programas de prevención de la violencia familiar;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+VIII.- Proporcionar al personal de las Procuradurías Municipales de Protección de los Derechos de Niñas, Niños y Adolescentes, programas de prevención de la violencia familiar.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+IX.- Establecer y operar en forma conjunta con las Procuradurías Municipales de Protección de los Derechos de Niñas, Niños y Adolescentes, programas de prevención de la violencia familiar.
 
 X.- Determinar provisionalmente la custodia de los niños, niñas y adolescentes sujetos a asistencia social, comunicando inmediatamente esta determinación a la autoridad jurisdiccional competente, así como a las partes involucradas, para que comparezcan ante aquella para que resuelva sobre la custodia definitiva; y
 
 XI.- Las demás que señale el Reglamento Interior del DIF Oaxaca.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 53.
 
-La Procuraduría para la Defensa del Menor, la Mujer y la Familia estará integrada de la siguiente manera:
+La Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca, estará integrada de la siguiente manera:
 
 I. Un Procurador;
 
@@ -840,3 +854,9 @@ P.O. 26 DE SEPTIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2132.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA”.]
+
+ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado.
