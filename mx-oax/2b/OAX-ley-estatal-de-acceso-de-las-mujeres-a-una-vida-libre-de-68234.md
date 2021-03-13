@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2020-10-24"
+last_updated: "2021-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -773,7 +773,9 @@ X. La Secretaría de Finanzas;
 
 XI. La Secretaría de Administración;
 
-XII. La Secretaría de Asuntos Indígenas;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+XII. La Secretaría de Pueblos Indígenas y Afromexicano;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -1123,7 +1125,9 @@ V. Observar el puntual cumplimiento de esta Ley y de los Instrumentos Internacio
 
 VI. Garantizar la coordinación con los otros órdenes de gobierno, para erradicar la violencia contra las mujeres, mediante la aplicación del Programa a que se refiere esta Ley;
 
-VII. Asegurar la difusión y promoción de los derechos de las mujeres indígenas con base en el reconocimiento de la composición pluricultural del Estado;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+VII. Asegurar la difusión y promoción de los derechos de las mujeres indígenas y afromexicanas con base en el reconocimiento de la composición pluricultural del Estado;
 
 VIII. Vigilar que los usos y costumbres de toda la sociedad no atenten los derechos humanos de las mujeres;
 
@@ -1525,19 +1529,25 @@ XII. Celebrar convenios de cooperación, coordinación y concertación en la mat
 
 XIII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2021)</small>
+
 ###### Artículo 64.
 
-Corresponde a la Secretaría de Asuntos Indígenas:
+Corresponde a la Secretaria de Pueblos Indígenas y Afromexicano:
 
-I. Impulsar procesos educativos de capacitación sobre la violencia de género contra las mujeres para sus servidoras y servidores públicos, así como para el personal que labora con pueblos y comunidades indígenas;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+I. Impulsar procesos educativos de capacitación sobre la violencia de género contra las mujeres para sus servidoras y servidores públicos, así como para el personal que labora con pueblos y comunidades indígenas y afromexicanas;
 
 II. Coordinar la capacitación sobre la violencia contra las mujeres, para los defensores y personal profesional auxiliar que presten sus servicios en la defensoría de oficio, a efecto de mejorar la atención al público que requiera la intervención de dicha defensoría;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
 
-III. Formular, coordinadamente con los pueblos y comunidades indígenas, incorporando la perspectiva de género, los programas para la defensa y protección de las mujeres indígenas, así como promover la eliminación de las prácticas, usos y costumbres que atenten contra la dignidad de las mujeres indígenas;
+III. Formular, coordinadamente con los pueblos y comunidades indígenas y afromexicanas, incorporando la perspectiva de género, los programas que promuevan y garanticen la eliminación de las prácticas y costumbres que atenten contra la dignidad de las mujeres indígenas y afromexicanas, así como su defensa y protección;
 
-IV. Apoyar, desarrollar y difundir proyectos de investigación en temas relacionados con la violencia contra las mujeres en los pueblos y comunidades indígenas en su lengua de origen;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+IV. Apoyar, desarrollar y difundir proyectos de investigación en temas relacionados con la violencia contra las mujeres en los pueblos y comunidades indígenas y afromexicanas en su lengua de origen;
 
 V. Difundir información en el Estado, sobre las causas y efectos de la violencia contra las mujeres y su relación con la violencia social;
 
@@ -1695,7 +1705,9 @@ f) Eliminar el uso del lenguaje sexista en todos sus contenidos, así como promo
 
 g) El Programa “Alerta Rosa” en todo el Estado.
 
-En los pueblos y comunidades indígenas la difusión se realizará en su lengua de origen.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+En los pueblos y comunidades indígenas y afromexicanas la difusión se realizará en su lengua de origen.
 
 II. Producir programas televisivos y radiofónicos que promuevan la cultura de la denuncia y orienten a la sociedad para que perciba la violencia contra las mujeres como delito, cuestión de seguridad pública y de derechos humanos;
 
@@ -2282,3 +2294,9 @@ P.O. 24 DE OCTUBRE DE 2020.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 Segundo. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2271.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 39, LA FRACCIÓN VII DEL ARTÍCULO 54, EL ARTÍCULO 64 Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 68 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
