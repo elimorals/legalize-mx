@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2020-07-25"
+last_updated: "2021-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -539,9 +539,11 @@ VIII. Crear y fomentar programas de promoción del emprendimiento social y priva
 
 IX. Las demás señaladas en las disposiciones legales aplicadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2021)</small>
+
 ###### Artículo 20.
 
-A la Secretaría del Trabajo, le corresponde:
+A la Secretaría de Economía, le corresponde:
 
 I. Organizar e impulsar, en coordinación con los sectores productivos, programas de capacitación, promoción del empleo y el autoempleo de las personas adultas mayores aptos física y mentalmente, atendiendo a su profesión, oficio, experiencia y conocimientos teóricos y prácticos, procurando su integración e incorporación al sector productivo en condiciones dignas y de mínimo riesgo a su salud, así como el establecimiento y actualización de la bolsa de trabajo a que se refiere la presente Ley;
 
@@ -585,7 +587,9 @@ VI. Promover programas de sensibilización, con el objeto de favorecer la conviv
 
 VII. Promover e Impulsar el reconocimiento y ejercicio de los derechos de las personas adultas mayores;
 
-VIII. Coadyuvar con la Procuraduría General de Justicia del Estado, en la atención y tratamiento de los adultos mayores víctimas de cualquier delito, y en caso de requerir asesoría, canalizarlo a las instancias correspondientes;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+VIII. Coadyuvar con la Fiscalía General del Estado, en la atención y tratamiento de los adultos mayores víctimas de cualquier delito, y en caso de requerir asesoría, canalizarlo a las instancias correspondientes;
 
 IX. Promover, mediante la vía conciliatoria, la solución a la problemática familiar, cuando no se trate de delitos;
 
@@ -721,9 +725,11 @@ Los conflictos surgidos entre las personas adultas mayores y sus familiares podr
 
 ### CAPÍTULO III. DE LAS RESPONSABILIDADES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
 ###### Artículo 35.
 
-El incumplimiento, ya sea por acción u omisión, de lo dispuesto en esta Ley por parte de autoridades estatales o municipales, generará responsabilidades imputables y serán sancionados conforme a lo prescrito por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, sin menoscabo de la posibilidad del fincamiento de responsabilidades de diversa índole jurídica dependiendo del caso concreto.
+El incumplimiento, ya sea por acción u omisión, de lo dispuesto en esta Ley por parte de autoridades estatales o municipales, generará responsabilidades imputables y serán sancionados conforme a lo prescrito por la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, sin menoscabo de la posibilidad del fincamiento de responsabilidades de diversa índole jurídica dependiendo del caso concreto.
 
 ###### Artículo 36.
 
@@ -834,3 +840,9 @@ P.O. 25 DE JULIO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2138.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 20; LA FRACCIÓN VIII DEL ARTÍCULO 22 Y EL ARTÍCULO 35, DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA”.]
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
