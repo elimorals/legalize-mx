@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-para-el-estado-de-oaxaca-125270"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-30"
-last_updated: "2020-12-26"
+last_updated: "2021-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 2017.
 
@@ -213,7 +213,9 @@ A falta de disposición expresa en esta Ley, se aplicarán supletoriamente la Le
 
 La interpretación en el ámbito administrativo corresponderá a la Secretaría. La Secretaría de la Contraloría y Transparencia Gubernamental vigilará en el ámbito de su competencia la aplicación de la misma.
 
-La fiscalización sobre el cumplimiento de lo dispuesto en esta Ley, corresponderá a la Federación de conformidad con la Legislación Federal aplicable y a la Auditoría Superior del Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
+La fiscalización sobre el cumplimiento de lo dispuesto en esta Ley, corresponderá a la Federación de conformidad con la Legislación Federal aplicable y al Órgano Superior de Fiscalización del Estado de Oaxaca.
 
 ### CAPÍTULO SEGUNDO. DE LA COMPETENCIA Y OBLIGACIONES DE LOS ÓRGANOS EN MATERIA DE DEUDA PÚBLICA
 
@@ -643,9 +645,11 @@ La Secretaría deberá publicar la situación de la Deuda Pública del Estado y 
 
 ### CAPÍTULO OCTAVO. De las Sanciones
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
 ###### Artículo 45.
 
-Los servidores públicos que incumplan con las obligaciones establecidas en la presente Ley y demás disposiciones aplicables en la materia, serán sancionados de conformidad con lo previsto en la Ley General de Responsabilidades Administrativas y Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, en términos del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+Los servidores públicos que incumplan con las obligaciones establecidas en la presente Ley y demás disposiciones aplicables en la materia, serán sancionados de conformidad con lo previsto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, en términos del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
 ###### Artículo 46.
 
@@ -710,3 +714,11 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 TERCERO. Previo análisis del Destino y la Capacidad de pago del Estado y con el fin de seguir fortaleciendo las finanzas públicas del Estado y mitigar los riesgos de un alza en la tasa de interés de los financiamientos de largo plazo a cargo del Estado que constituyen su deuda pública, para el ejercicio fiscal 2021 se autoriza al Ejecutivo del Estado, a través de la Secretaría de Finanzas, la celebración de las operaciones de instrumentos derivados, incluyendo su contratación o vinculación a los créditos vigentes del Estado, así como a los actualmente celebrados, referidos en el Decreto 809, emitido por la Sexagésima Cuarta Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, publicado en el Periódico Oficial del Gobierno de Oaxaca el 5 de octubre de 2019, para que pueda llevarlas a cabo durante el año 2021, así como para que celebre todos los actos necesarios y/o convenientes para instrumentar dichas operaciones autorizadas conforme al Decreto referido y el presente artículo. La presente autorización ratifica en todos y cada uno de sus términos, las autorizaciones y disposiciones en relación con las operaciones de instrumentos derivados contenidas en el Decreto 809 antes señalado.
 
 CUARTO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2269.- MEDIANTE EL CUAL SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 4 Y EL ARTÍCULO 45 DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
