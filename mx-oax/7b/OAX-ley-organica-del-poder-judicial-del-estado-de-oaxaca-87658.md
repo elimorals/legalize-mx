@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-de-oaxaca-87658"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-04-28"
-last_updated: "2020-10-03"
+last_updated: "2021-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de abril de 2012.
 
@@ -197,9 +197,11 @@ El recinto del Tribunal Superior de Justicia es inviolable. Toda fuerza pública
 
 Del pleno del Tribunal Superior de Justicia del Estado.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
 ###### Artículo 10.
 
-El pleno del Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial del Estado; contra sus resoluciones no procede recurso alguno; se integra con la totalidad de los magistrados y lo presidirá el magistrado presidente del Tribunal Superior de Justicia; el quórum se integrará con la presencia, cuando menos, de la mitad más uno de sus miembros.
+El pleno del Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial del Estado; contra sus resoluciones no procede recurso alguno; se integra con la totalidad de las y los magistrados; lo presidirá la magistrada o magistrado presidente del Tribunal Superior de Justicia; el quórum se integrará con la asistencia, cuando menos, de la mitad más uno de sus miembros sea presencial o virtual.
 
 ###### Artículo 11.
 
@@ -233,7 +235,17 @@ Serán públicas, aquellas en las que pueden asistir libremente las personas que
 
 Serán privadas, aquellas en las que concurren únicamente los integrantes del Pleno y el o los directamente interesados, cuando así lo considere pertinente el presidente del Tribunal o lo solicite la mayoría de los magistrados del Tribunal, para evitar afectaciones al orden público.
 
-De todas las sesiones, se levantará acta circunstanciada que deberá ser firmada por los magistrados asistentes.
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Las Sesiones podrán ser presenciales o virtuales.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Serán virtuales, cuando por causa justificada el Presidente o Presidenta del Tribunal así lo considere necesario, las cuales se celebrarán en uso de la tecnología y medios de comunicación al alcance, debiendo ser grabadas en audio y video, además de garantizarse el cumplimiento de las mismas formalidades y requisitos que se establecen para las presenciales.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
+De todas las sesiones se levantará acta circunstanciada que deberá ser firmada por los magistrados y magistradas asistentes.
 
 ###### Artículo 12.
 
@@ -391,7 +403,9 @@ Las salas del Tribunal Superior de Justicia del Estado conocerán de los medios 
 
 Salvo disposición contraria de la ley, las audiencias de vista serán públicas y se celebrarán en días hábiles.
 
-Las resoluciones de las salas se tomarán por unanimidad o mayoría de votos. En caso de decisión por mayoría, se asentará el voto en contra particular o razonado.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Las resoluciones de las salas se tomarán por unanimidad o mayoría de votos. En caso de decisión por mayoría, se asentará el voto en contra particular (sic) o razonado. Las discusiones para la emisión de las resoluciones se llevarán a cabo en forma presencial y por causa justificada de forma virtual.
 
 En los términos de esta ley, del reglamento respectivo y de la ley adjetiva que resulte aplicable, cuando las salas adviertan que los jueces, secretarios de acuerdos, ejecutores y actuarios judiciales, incurrieron en faltas o irregularidades en los asuntos que se revisan, remitirán de inmediato las constancias conducentes a la visitaduría general para los efectos legales pertinentes.
 
@@ -857,13 +871,25 @@ El pleno del Consejo de la Judicatura calificará los impedimentos de sus miembr
 
 ###### Artículo 54.
 
-El Consejo de la Judicatura sesionará cuando menos una vez al mes y cuantas veces sea convocado por su presidente. Las sesiones las presidirá el propio presidente del Consejo de la Judicatura y podrán ser públicas o privadas, según lo ameriten los asuntos a tratar.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2021)</small>
+
+El Consejo de la Judicatura sesionará cuando menos una vez al mes y cuantas veces sea convocado por su presidente o presidenta. Las sesiones las presidirá el propio presidente o presidenta del Consejo de la Judicatura y podrán ser públicas o privadas, según lo ameriten los asuntos a tratar.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Las sesiones antes señaladas serán presenciales y por causa justificada que estimará el presidente o presidenta del Consejo, en uso de la tecnología y medios de comunicación al alcance, podrán convocarse y celebrarse en forma virtual, debiendo ser grabadas en audio y video, además de garantizarse el cumplimiento de las mismas formalidades y requisitos establecidos para las presenciales.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+De todas las sesiones se levantará acta circunstanciada que deberá ser firmada por el presidente o presidenta así como por los y las consejeras asistentes.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
 
 ###### Artículo 55.
 
-El pleno del Consejo de la Judicatura podrá sesionar de manera extraordinaria a solicitud de dos de sus integrantes. Dicha solicitud deberá presentarse al presidente del propio Consejo a fin de que emita la convocatoria correspondiente dentro del término de cinco días hábiles siguientes. En caso de que el presidente no emita la convocatoria dentro del término establecido, los solicitantes emitirán la convocatoria respectiva.
+El pleno del Consejo de la Judicatura podrá sesionar presencial o virtualmente de manera extraordinaria a solicitud de dos de sus integrantes. Dicha solicitud deberá presentarse al presidente o presidenta del propio Consejo a fin de que emita la convocatoria correspondiente dentro del término de cinco días hábiles siguientes. En caso de que el presidente o presidenta no emita la convocatoria dentro del término establecido, las y los solicitantes emitirán la convocatoria respectiva.
 
-Los consejeros no podrán abstenerse de conocer de un asunto sino cuando tengan impedimento legal.
+Las y los consejeros no podrán abstenerse de conocer de un asunto sino cuando tengan impedimento legal.
 
 ###### Artículo 56.
 
@@ -2716,5 +2742,13 @@ P.O. 3 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1534.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2126.- MEDIANTE EL CUAL SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
