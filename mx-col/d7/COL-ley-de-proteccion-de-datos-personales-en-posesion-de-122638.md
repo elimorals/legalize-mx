@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-de-datos-personales-en-posesion-de-122638"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-26"
-last_updated: "2017-09-09"
+last_updated: "2021-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
 
 Ley publicada en la Edición Especial Extraordinaria Número 48 del Periódico Oficial del Estado de Colima, el miércoles 26 de julio de 2017.
 
@@ -1319,9 +1319,35 @@ XVII. Según corresponda, interponer acciones de inconstitucionalidad en contra 
 
 XVIII. Emitir, en su caso, las recomendaciones no vinculantes correspondientes a la evaluación de impacto en la protección de datos personales que le sean presentadas;
 
-XIX. Solicitar la cooperación del Instituto Nacional en los términos del artículo 89, fracción XXX de la Ley General; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
 
-XX. Las demás que se le otorguen en otras disposiciones jurídicas.
+XIX. Solicitar la cooperación del Instituto Nacional en los términos del artículo 89, fracción XXX de la Ley General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2021)</small>
+
+XX. Podrá realizar de manera oficiosa inspecciones y verificaciones en el lugar o establecimiento donde se lleva a cabo el tratamiento de los datos personales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2021)</small>
+
+XXI. Las demás que se le otorguen en otras disposiciones jurídicas.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+###### Artículo 102 Bis.
+
+1. Los sujetos obligados rendirán al Organismo Garante un informe anual que deberá ser entregado durante el mes de enero de cada año, en el que deberán consignarse los siguientes datos:
+
+I. El número de solicitudes de información presentadas en materia de datos personales a la entidad que informa, especificando las que se resolvieron positiva y negativamente, así como las que no pudieron ser tramitadas por cualquier causa y las que existieran pendientes de resolver;
+
+II. El número de solicitudes en materia de datos personales en que se hizo necesario prorrogar el término ordinario de respuesta;
+
+III. Las causas por las que se determinó negar la información en materia de datos personales que les fuera solicitada y las ocasiones en que esto ocurrió;
+
+IV. Las estadísticas sobre la naturaleza de la información en materia de datos personales que les fue solicitada;
+
+V. Las acciones más relevantes que hubieran realizado para la atención de solicitudes de información en materia de datos personales, capacitación y difusión de los derechos que tutela la presente Ley; y
+
+VI. Los datos estadísticos sobre las consultas de sus páginas de internet, los períodos o fechas de actualización de las mismas y los demás que sirvan al Organismo Garante para realizar sus funciones del cumplimiento de las obligaciones que en materia de datos personales tienen los sujetos obligados.
 
 ### CAPÍTULO II. DE LA COORDINACIÓN Y PROMOCIÓN DEL DERECHO A LA PROTECCIÓN DE DATOS PERSONALES
 
@@ -1707,11 +1733,17 @@ Inicio de las facultades de verificación
 
 1. La verificación podrá iniciarse:
 
-I. De oficio cuando el Organismo Garante cuente con indicios que hagan presumir fundada y motivada la existencia de violaciones a las leyes correspondientes; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
 
-II. Por denuncia del titular cuando considere que ha sido afectado por actos del responsable que puedan ser contrarios a lo dispuesto por la presente Ley y demás normativa aplicable, o en su caso, por cualquier persona cuando tenga conocimiento de presuntos incumplimientos a las obligaciones previstas en la presente Ley y demás disposiciones que resulten aplicables en la materia.
+I. De oficio; y
 
-2. Previo a la verificación respectiva, el Organismo Garante podrá desarrollar investigaciones previas, con el fin de contar con elementos para fundar y motivar el acuerdo de inicio respectivo.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+II. De oficio; y por denuncia del titular cuando considere que ha sido afectado por actos del responsable que puedan ser contrarios a lo dispuesto por la presente Ley y demás normativa aplicable, o en su caso, por cualquier persona cuando tenga conocimiento de presuntos incumplimientos a las obligaciones previstas en la presente Ley y demás disposiciones que resulten aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
+2. Previo a la verificación respectiva, el Organismo Garante podrá desarrollar investigaciones previas.
 
 ###### Artículo 132.
 
@@ -1855,7 +1887,9 @@ Plazo para aplicar las medidas de apremio
 
 Efectividad de las multas
 
-1. Las multas que fije el Organismo Garante se harán efectivas a través de la Secretaría de Planeación y Finanzas, observando los procedimientos que las leyes establezcan.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
+1. Las multas que fije el Organismo Garante se harán efectivas a través de la Secretaría de Planeación y Finanzas, observando los procedimientos que las leyes establezcan. El Organismo Garante y el Poder Ejecutivo del Estado deberán convenir la creación de un fondo que se constituya con los montos de los recursos que se recauden por concepto de las multas impuestas por el organismo, los cuales deberán ser canalizados al Organismo Garante y serán destinados a acciones tendientes a la difusión y aplicación de los derechos tutelados en la presente Ley.
 
 ###### Artículo 148.
 
@@ -2050,3 +2084,13 @@ P.O. 9 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 351 POR EL QUE SE DEROGAN EL TERCERO Y CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 424.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA, ASÍ MISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Las dependencias que integran la administración pública centralizada, así como las dependencias insertas en el presente decreto, adecuarán sus disposiciones reglamentarias, en atención a las obligaciones comunes de los sujetos obligados establecidas en la Ley de Transparencia y Acceso a la información Pública del Estado de Colima, dentro de los 90 días naturales siguientes a la aprobación del presente Decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
