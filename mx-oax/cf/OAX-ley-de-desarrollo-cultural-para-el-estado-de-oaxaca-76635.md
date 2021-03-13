@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-cultural-para-el-estado-de-oaxaca-76635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-28"
-last_updated: "2020-02-29"
+last_updated: "2021-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -95,9 +95,11 @@ LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2006)</small>
+
 ###### Artículo 1.
 
-La presente ley tiene por objeto: normar la relación de trabajo entre los poderes del Estado, municipios, entidades paramunicipales, y las de la Administración Pública Paraestatal a que se refiere el artículo 3o. de la Ley Orgánica de la Administración Pública del Estado, con sus respectivos trabajadores.
+La presente ley tiene por objeto: normar la relación de trabajo entre los Poderes del Estado, dependencias del Poder Ejecutivo, municipios, entidades paramunicipales, y las de la administración pública paraestatal a que se refiere el artículo 3o. de la Ley Orgánica de la Administración Pública del Estado, con sus respectivos trabajadores.
 
 A todas las instituciones señaladas se les denominará entidades públicas.
 
@@ -108,6 +110,10 @@ Para los efectos de esta ley, se entiende por:
 I.- Relación de trabajo: La establecida entre las entidades públicas, a través de sus titulares y los trabajadores a su servicio.
 
 II.- Tribunal: El Tribunal Local de Conciliación y Arbitraje.
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2006)</small>
+
+III.- Entidades públicas: los poderes del Estado, dependencias del Poder Ejecutivo, municipios, entidades paramunicipales, y las de la administración pública paraestatal.
 
 ###### Artículo 3.
 
@@ -1547,9 +1553,13 @@ IV.- Negarse a emitir su voto en alguna resolución;
 
 V.- Votar una resolución notoriamente ilegal o injusta;
 
-VI.- Recibir cualquier dádiva de las partes en conflicto; y
+VI.- Recibir cualquier dádiva de las partes en conflicto; y (sic)
 
-VII.- Las demás que les señalen las leyes.
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2006)</small>
+
+VII.- Dejar de reconocer, la personalidad de quien actúa en representación de las entidades públicas, o de los trabajadores, que en su carácter de parte actora, demandada o tercero, acrediten estar legítimamente representados conforme a la Ley; y
+
+VIII.- Las demás que les señalen las leyes.
 
 ###### Artículo 164.
 
@@ -1959,9 +1969,11 @@ El Tribunal ordenará se cite a los absolventes, personalmente o por conducto de
 
 Si la persona citada para absolver posiciones, no concurre en la fecha y hora señaladas, se hará efectivo el apercibimiento a que se refiere el párrafo anterior y se le declarará confesa de las posiciones que se hubieren articulado y calificado de legales.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2006)</small>
+
 ###### Artículo 223.
 
-Tratándose de la confesional o testimonial con cargo a los titulares de los Poderes del Estado, el oferente de la prueba deberá de acompañar escrito que contenga el interrogatorio respectivo, a efecto de que el titular le dé contestación, por escrito, dentro de un término de cinco días, apercibido que se le tendrá por confeso de las posiciones que se le articularon y fueron calificadas de legales si se trata de la confesional, o la aplicación de una multa, en el caso de la testimonial.
+Tratándose de la confesional o testimonial con cargo a los titulares de las entidades públicas, el oferente de la prueba deberá de acompañar escrito que contenga el interrogatorio respectivo, a efecto de que el titular le dé contestación, por escrito, dentro de un término de cinco días, apercibido que se le tendrá por confeso de las posiciones que se le articularon y fueron calificadas de legales si se trata de la confesional, o la aplicación de una multa, en el caso de la testimonial.
 
 ###### Artículo 224.
 
@@ -2542,6 +2554,10 @@ P.O. 5 DE FEBRERO DE 2005.
 P.O. 10 DE DICIEMBRE DE 2005.
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 15 DE JULIO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 ###### Artículo 57.
 
