@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-h-7002"
 country: "mx"
 rank: "ley"
 publication_date: "1974-05-11"
-last_updated: "2020-10-03"
+last_updated: "2021-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL H. AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUAREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 11 de mayo de 1974.
 
@@ -168,6 +168,12 @@ La jornada nocturna será de siete horas.
 La jornada mixta es la que comprende períodos de tiempo de las jornadas diurna y nocturna, siempre que la jornada nocturna no exceda de tres horas y media, pues en caso contrario se reputará como jornada nocturna.
 
 La duración de la jornada mixta no excederá de siete horas y media.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+###### Artículo 19 Bis.
+
+Durante la jornada continua a que se refieren los artículos 17, 18 y 19 de esta Ley se concederá al trabajador un descanso de media hora por lo menos, cuyo lapso de disfrute podrá ser dentro o fuera del centro de trabajo, lo que queda a elección del trabajador.
 
 ###### Artículo 20.
 
@@ -818,3 +824,9 @@ P.O. 3 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2274.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 19 BIS A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUÁREZ”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
