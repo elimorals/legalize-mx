@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2020-10-24"
+last_updated: "2021-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 28 de diciembre de 1963.
 
@@ -177,6 +177,10 @@ La jornada nocturna del servicio será de siete horas.
 
 Es jornada mixta la que comprende períodos de tiempo de las jornadas diurna y nocturna siempre que el período nocturno abarque menos de tres horas y media, pues en caso contrario se reputará como jornada nocturna. La duración de la jornada mixta será de siete horas y media.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+ARTICULO 19 BIS.- Durante la jornada continua a que se refieren los artículos 17, 18 y 19 de esta Ley se concederá al trabajador un descanso de media hora por lo menos, cuyo lapso de disfrute podrá ser dentro o fuera del centro de trabajo, lo que queda a elección del trabajador.
+
 ###### ARTICULO 20.
 
 Por cada seis días de servicio, el empleado disfrutará de un día de descanso con goce de sueldo íntegro.
@@ -213,6 +217,10 @@ ARTICULO 21 QUÁTER.- Se otorgará permiso de un día al año con goce de sueldo
 
 ARTICULO 21 QUINQUIES.- Se otorgará a las y los empleados, permiso de un día al año con goce de sueldo íntegro, que acudan voluntariamente y de forma altruista a donar sangre. Para tal efecto, deberán presentar constancia expedida por la institución de salud, hospital, clínica o banco de sangre, a la cual se haya acudido a realizar la donación.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+ARTICULO 21 SEXIES.- Se otorgará a las y los empleados, permiso de un día al año con goce de sueldo íntegro, para que acudan a realizarse estudios médicos generales y de especialidad, con el fin de prevenir y evitar enfermedades crónico degenerativas. Para lo cual deberán presentar comprobante médico que acredite la realización de los mismos.
+
 ###### ARTICULO 22.
 
 Serán días de descanso obligatorio los que señala el calendario oficial.
@@ -231,13 +239,21 @@ Durante las horas de trabajo, los empleados tendrán obligación de desarrollar 
 
 DE LOS SUELDOS.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 25.
 
-El sueldo es la compensación pecuniaria a los servicios prestados por el empleado.
+Se denomina sueldo, a la retribución que debe pagarse a los trabajadores al servicio del Estado, por sus servicios prestados.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+Por compensación se entenderá a la retribución que se añade al sueldo del trabajador al servicio del Estado, por desempeñar labores o tareas conexas o complementarias a su labor principal.
 
-ARTICULO 25 BIS.- Se prohíbe para el pago de sueldos, remuneraciones o prestaciones a que tengan derecho los trabajadores, utilizar como unidad de cálculo, la Unidad de Medida y Actualización (UMA) o cualquier otra forma distinta a las previstas en la presente Ley.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE MARZO DE 2021)</small>
+
+###### ARTICULO 25 Bis.
+
+Los empleados podrán desempeñar labores o tareas conexas o complementarias a su labor principal, por lo cual podrán recibir la compensación salarial correspondiente.
+
+Para los efectos del párrafo anterior, se entenderán como labores o tareas conexas o complementarias, aquellas relacionadas permanente y directamente con las que estén pactadas en los contratos individuales y colectivos de trabajo o, en su caso, las que habitualmente realice el trabajador.
 
 ###### ARTICULO 26.
 
@@ -251,9 +267,11 @@ El sueldo uniforme fijado en los términos del artículo anterior, no podrá mod
 
 ARTICULO 27 BIS.- En caso de declaratoria de emergencia sanitaria, durante el tiempo que ésta dure, los empleados que desarrollen tareas relacionadas con la atención médica de la enfermedad que haya originado la emergencia sanitaria, gozarán de una compensación mensual, cuyo monto será del veinte por ciento de su sueldo.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 28.
 
-Los pagos se efectuarán en el lugar en que los empleados presten sus servicios y deberán hacerse precisamente en moneda del curso legal o en cheques al portador fácilmente cobrables.
+Los pagos se efectuarán en el lugar en que los empleados presten sus servicios y deberán hacerse precisamente en moneda del curso legal o en cheques al portador fácilmente cobrables o depósitos en cuenta bancaria, tarjeta de débito, transferencias o cualquier otro medio electrónico, previo consentimiento del trabajador.
 
 ###### ARTICULO 29.
 
@@ -365,6 +383,10 @@ VII.- Conceder las licencias a que se refiere el artículo 68 Ter de esta Ley, y
 
 VIII.- expedir a los empleados sus respectivas credenciales para su debida identificación.
 
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2021)</small>
+
+IX.- Impartir cursos de capacitación y adiestramiento a sus trabajadores, a fin de que éstos mejoren su capacidad y aptitud profesional.
+
 ###### ARTICULO 36.
 
 Se crea la Comisión de Escalafón que se integrará con representantes de los Poderes y del Sindicato y se regirá por el Reglamento correspondiente.
@@ -388,6 +410,18 @@ IV.- Evitar la ejecución de actos que pongan en peligro su seguridad y la de su
 V.- Asistir puntualmente a sus labores.
 
 VI.- Abstenerse de hacer propaganda de toda clase durante las horas de trabajo.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2021)</small>
+
+VII.- Cuidar los enseres que les sean proporcionados para su trabajo y evitar cualquier acto que tienda a su destrucción o maltrato.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2021)</small>
+
+VIII.- Asistir a los cursos que se impartan para mejorar su preparación y eficiencia.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2021)</small>
+
+IX.- Poner en conocimiento del Titular o responsable de la Entidad Pública o Dependencia, en su caso, las enfermedades contagiosas que padezcan, tan pronto tengan conocimiento de las mismas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2020)</small>
 
@@ -1070,3 +1104,21 @@ P.O. 24 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Las Direcciones de Recursos Humanos de los Poderes del Estado, dentro del plazo de cuarenta y cinco días posteriores a la publicación del presente Decreto, deberán elaborar y publicar los reglamentos respectivos y manuales de procedimiento para la modalidad del trabajo a distancia, mismos que deberán difundir en las áreas administrativas responsables.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2272.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 25 Y 28; Y SE ADICIONAN EL ARTÍCULO 25 BIS, LA FRACCION IX AL ARTÍCULO 35, Y LAS FRACCIONES VII, VIII Y IX AL ARTÍCULO 37 DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2273.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 19 BIS A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM 2275.- MEDIANTE EL CUAL SE, ADICIONA EL ARTÍCULO 21 SEXIES A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado
