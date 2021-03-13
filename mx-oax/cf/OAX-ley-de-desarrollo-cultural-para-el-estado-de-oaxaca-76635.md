@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-cultural-para-el-estado-de-oaxaca-76635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-28"
-last_updated: "2020-02-29"
+last_updated: "2021-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 28 de Agosto de 2010.
 
@@ -155,13 +155,17 @@ VI. En el ámbito de sus atribuciones, garantizar el respeto a la diversidad cul
 
 VII. Crear incentivos y estímulos fiscales y crediticios para personas e instituciones que desarrollen e impulsen acciones culturales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
 
-VIII. Contribuir con el Congreso del Estado para difundir la Convocatoria para el Premio al Periodismo Cultural “Andrés Henestrosa”, Medalla “Álvaro Carrillo” y el reconocimiento “Narciso Lico Carrillo” a la música de aliento de los Pueblos Originarios, y;
+VIII. Contribuir con el Congreso del Estado para difundir la Convocatoria para el Premio al Periodismo Cultural “Andrés Henestrosa”, Medalla “Álvaro Carrillo” y el reconocimiento “Narciso Lico Carrillo” a la música de aliento de los Pueblos Originarios;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2021)</small>
 
-IX. Las demás que le otorgue esta Ley y las disposiciones aplicables.
+IX. Establecer políticas y acciones para otorgar subsidios y descuentos en favor (sic) las personas mayores, las personas con discapacidad y aquellas que viven en zonas con rezago económico, con el objeto de garantizar el acceso de los bienes y servicios culturales en el Estado de Oaxaca; y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 13 DE MARZO DE 2021)</small>
+
+X. Las demás que le otorgue la Ley y las disposiciones aplicables.
 
 ###### Artículo 6.
 
@@ -928,3 +932,11 @@ P.O. 29 DE FEBRERO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2127.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII, Y SE ADICIONA LA FRACCIÓN IX RECORRIENDOSE LA SUBSECUENTE DEL ARTÍCULO 5 DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación. Publíquese en el periódico oficial del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
