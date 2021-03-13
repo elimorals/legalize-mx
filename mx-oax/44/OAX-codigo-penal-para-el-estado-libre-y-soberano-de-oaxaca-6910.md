@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2020-12-19"
+last_updated: "2021-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3471,9 +3471,17 @@ Delitos contra la salud.
 
 Venta de bebidas alcohólicas a menores de edad.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2021)</small>
 
-193 Bis.- Se aplicará prisión de seis meses a siete años y multa de quinientos a diez mil pesos a quien venda bebidas alcohólicas a menores de edad, de igual forma al titular del permiso o licencia.
+193 Bis.- Se aplicará prisión de seis meses a siete años y multa de quinientos a diez mil pesos a quien venda bebidas alcohólicas a menores de edad, y de cinco mil a veinte mil pesos al titular del permiso o licencia.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Cuando la venta se realice cerca de escuelas, la pena se aumentará en un tercio a la impuesta.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Para efectos de este artículo, se entiende cerca de escuelas, cuando la venta sea realizada a una distancia de 500 metros o menos de esta.
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2015)</small>
 
@@ -5467,9 +5475,25 @@ VIII.- Cuando se cometa durante un incendio, terremoto u otra calamidad pública
 
 IX.- Cuando se cometa estando la víctima en un vehículo particular o de transporte público; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
 
-X.- Cuando se trate de productos agrícolas endémicos y de cultivo intensivo propios del Estado, desde su etapa de plantación, crecimiento y hasta la de aprovechamiento, se encuentren o no adheridos al suelo.
+X.- Cuando se trate de productos, material vegetativo silvestre o endémico, que cuenten con denominación de origen en términos de la Ley Federal de Protección a la Propiedad Industrial, desde su etapa de plantación, crecimiento y hasta aprovechamiento, se encuentren o no adheridos al suelo, así como insumos o herramientas agrícolas.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2021)</small>
+
+XI.- Cuando siendo empleado de una institución bancaria o financiera participe en la comisión del delito de robo;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2021)</small>
+
+XII.- Cuando se cometa el delito dentro de una institución educativa pública.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2021)</small>
+
+XIII.- Cuando se cometa en vía pública utilizando cualquier medio de transporte que otorgue ventaja al sujeto activo para cometer el robo o para huir; y
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2021)</small>
+
+XIV.- Cuando se trate de insumos y medicamentos destinados a las instituciones de salud pública o privada o que se encuentren en sus instalaciones.
 
 369 Bis.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
@@ -5698,6 +5722,10 @@ XIV.- Al fiador que enajene o grave los bienes raíces cuyas inscripciones de pr
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
 
 Asimismo se aplicará de tres a siete años de prisión y de treinta a ciento veinte días de multa al que, teniendo la obligación de cubrir alimentos conforme a la Ley, eluda proporcionarlos a sus ascendientes y descendientes en primer grado, o a su cónyuge, colocándose dolosamente en estado de insolvencia.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+381 BIS. Comete el delito de fraude familiar el que, en detrimento de la sociedad conyugal o patrimonio común generado durante el matrimonio o el concubinato, oculte, ceda, transfiera o adquiera a nombre de terceros bienes, se le aplicará sanción de uno a cinco años de prisión, y multa hasta trescientas veces la Unidad do Medida y Actualización y la reparación del daño.
 
 382.- Se impondrá prisión de seis meses a ocho años y multa de cinco mil a diez mil pesos, o sólo la prisión al que, para hacerse de una cantidad de dinero en numerario, en papel moneda o billetes de banco, de un documento que importa obligación, liberación o transmisión de derechos o de cualquiera otra cosa ajena mueble, logre que se le entregue por medio de maquinaciones, engaños o artificios.
 
@@ -7374,3 +7402,21 @@ P.O. 19 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2123.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO Y ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 193 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Estado de Oaxaca.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2124.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 381 BIS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO (SIC).- El presente decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2134.- MEDIANTE EL CUAL SE REFORMA LA FACCIÓN X; SE ADICIONAN LAS FRACCIONES XI, XII, XIII Y XIV AL ARTÍCULO 369 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
