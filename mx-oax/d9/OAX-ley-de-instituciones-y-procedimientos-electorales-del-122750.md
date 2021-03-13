@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2020-10-30"
+last_updated: "2021-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE OCTUBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -411,7 +409,9 @@ Artículo 15
 
 3.- En asuntos relacionados con los pueblos indígenas y afromexicano, las autoridades competentes actuarán y emitirán sus determinaciones, de conformidad con los principios pro persona, progresividad, buena fe, justicia, respeto de los derechos humanos, no discriminación, buena gobernanza, igualdad de derechos, libre determinación y respeto a la diversidad cultural, en el marco del pluralismo jurídico, considerando los sistemas normativos indígenas, en un plano de igualdad con el sistema jurídico estatal; y, garantizando el principio de paridad de género en cumplimiento de lo establecido en los artículos 16 y 25 de la Constitución Local en un marco de progresividad e interculturalidad.
 
-4.- Se reconoce a la Asamblea General Comunitaria como la máxima autoridad de deliberación y toma de decisiones en los municipios que se rigen por Sistemas Normativos Indígenas para elegir a sus autoridades o representantes; se integra por ciudadanas y ciudadanos de una o más comunidades dependiendo del número que integran el municipio; este órgano puede sesionar de manera conjunta, es decir todas y todos los ciudadanos del municipio reunirse en la cabecera, o bien de manera separada en cada comunidad. Sus acuerdos serán plenamente válidos y deberán ser reconocidos y respetados por el Estado, siempre que no violen los derechos humanos de sus integrantes, reconocidos por la Constitución Federal y Tratados Internacionales. Se integra por los miembros de la comunidad, en condiciones de igualdad conforme a sus sistemas normativos indígenas.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
+4.- Se reconoce a la Asamblea General Comunitaria como la máxima autoridad de deliberación y toma de decisiones en los municipios que se rigen por Sistemas Normativos Indígenas para elegir a sus autoridades o representantes; se integra por ciudadanas y ciudadanos de una o más comunidades dependiendo del número que integran el municipio; este órgano puede sesionar de manera conjunta, es decir todas y todos los ciudadanos del municipio reunirse en la cabecera, o bien de manera separada en cada comunidad. Sus acuerdos serán plenamente válidos y deberán ser reconocidos y respetados por el Estado, siempre que no violen los derechos humanos de sus integrantes, reconocidos por la Constitución Federal y Tratados Internacionales. Se integra por los miembros de la comunidad, en condiciones de igualdad entre mujeres y hombres, conforme a sus sistemas normativos indígenas.
 
 5.- En cualquier etapa del proceso electoral, procedimiento administrativo o jurisdiccional, en el que se involucre a una persona, comunidad o pueblo indígena, estas tienen derecho a ser atendidas en su propia lengua, o en su caso, deberán ser asistidos, en todo tiempo, por intérpretes, traductores, defensores y peritos, que tengan conocimiento de sus lenguas, culturas y sistemas normativos.
 
@@ -647,15 +647,17 @@ II.- Fomentar el ejercicio de los derechos político-electorales de las ciudadan
 
 III.- Promover condiciones para garantizar la paridad de género en la participación política, postulación, acceso y desempeño de cargos públicos, así como el respeto a los derechos humanos de las mujeres en el ámbito político y electoral, como criterio fundamental de la democracia;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
 
-IV.- Asegurar a los ciudadanos del Estado, sin distinción con motivo de origen étnico, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana, el ejercicio de los Derechos político-electorales, vigilar el cumplimiento de sus obligaciones, así como su efectivo acceso a los mecanismos de participación ciudadana establecidos en la Constitución Local y la presente Ley.
+IV.- Asegurar a las ciudadanas y ciudadanos el ejercicio de los derechos político-electorales, vigilar el cumplimiento de sus obligaciones, así como su efectivo acceso a los mecanismos de participación ciudadana establecidos en la Constitución Local y la ley de la materia;
 
 V.- Garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los poderes Legislativo, Ejecutivo y de los ayuntamientos que se rigen por el sistema de partidos políticos;
 
 VI.- Promover el voto y velar por la autenticidad y efectividad del sufragio;
 
-VII.- Asegurar la efectividad del sufragio de los ciudadanos oaxaqueños residentes en el extranjero;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+VII.- Asegurar la efectividad del sufragio de las ciudadanas y ciudadanos oaxaqueños residentes en el extranjero;
 
 VIII.- Reconocer, respetar y garantizar los sistemas normativos indígenas de los municipios y comunidades indígenas y afromexicanas, en lo referente a su libre determinación expresada en su autonomía para decidir sus formas internas de convivencia, organización política y elección de autoridades o representantes; asegurando la participación de las mujeres en condiciones de igualdad con los hombres en los términos en la Constitución Federal, los Instrumentos jurídicos Internacionales suscritos por el Estado Mexicano;
 
@@ -1443,7 +1445,9 @@ IX.- Preparar, desarrollar y vigilar la correcta implementación de los Mecanism
 
 X.- Vigilar y promover que las autoridades del orden estatal y municipal impulsen y respeten, en el ámbito de su competencia, los Mecanismos de participación ciudadana establecidos en la Constitución y la Ley;
 
-XI.- Promover la participación de los ciudadanos oaxaqueños en los procesos de participación ciudadana que se convoquen sin discriminación de género, etnia, lengua y discapacidad.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+XI.- Promover la participación de las ciudadanas y ciudadanos oaxaqueños en los procesos de participación ciudadana que se convoquen sin discriminación de género, etnia, comunidad, lengua y discapacidad;
 
 XII.- Llevar la estadística de los procesos de participación ciudadana, e integrar y actualizar la estadística del acceso de las mujeres a cargos públicos en el Estado; y
 
@@ -4613,9 +4617,13 @@ V.- Hecho lo anterior el Consejo General resolverá lo conducente, noventa días
 
 Artículo 276
 
-1.- Los ciudadanos de los municipios regidos electoralmente por sus sistemas normativos indígenas, tienen los derechos y obligaciones siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE MARZO DE 2021)</small>
 
-a) Actuar de conformidad con las disposiciones internas que de manera oral y/o escrita rijan en sus municipios, así como participar, de acuerdo con sus propios procedimientos, en la permanente renovación y actualización del sistema normativo indígena a fin de mantenerlo como un mecanismo de consenso y una expresión de la identidad y el dinamismo de la cultura política tradicional;
+1.- Las ciudadanas y los ciudadanos de los municipios regidos electoralmente por sus sistemas normativos indígenas tienen los derechos y obligaciones siguientes:
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
+a) Actuar de conformidad con las disposiciones internas que de manera oral y/o escrita rijan en sus municipios, respetando los derechos humanos y el principio de paridad de género, así como participar, de acuerdo con sus propios procedimientos, en la permanente renovación y actualización del sistema normativo indígena a fin de mantenerlo como un mecanismo de consenso y una expresión de la identidad y el dinamismo de la cultura política tradicional;
 
 b) Cumplir en su comunidad con los cargos, servicios y contribuciones que la Asamblea les confiera, de acuerdo con sus propias reglas y prácticas tradicionales; y
 
@@ -4681,7 +4689,9 @@ VI.- Procedimiento de la elección;
 
 VII.- Requisitos de elegibilidad de los concejales a elegir;
 
-VIII.- El padrón o el número de ciudadanos que tradicionalmente participa en la elección; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+VIII.- El padrón o el número de ciudadanas y ciudadanos que tradicionalmente participan en la elección; y
 
 IX.- La mención de si el Municipio cuenta con el estatuto electoral debidamente inscrito ante el Instituto Estatal.
 
@@ -4729,9 +4739,13 @@ Artículo 282
 
 a) El apego a las normas establecidas por la comunidad y, en su caso, los acuerdos previos a la elección que no sean contrarios a los derechos humanos;
 
-b) Que la autoridad electa haya obtenido la mayoría de votos; y
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
 
-c) La debida integración del expediente, que debe contener como mínimo: convocatoria para la elección, acta de elección con listado de quienes acudieron a votar, resultado de la votación donde sea evidente la planilla o personas quienes obtuvieron la mayoría de votos y documentos de elegibilidad que identifiquen a los integrantes electos. Estos requisitos son enunciativos más no limitativos.
+b) La paridad de género y que no hubo violencia política contra las mujeres en razón de género;
+
+c) Que la autoridad electa haya obtenido la mayoría de los votos; y
+
+d) La debida integración del expediente, que debe contener como mínimo: convocatoria para la elección, acta de elección con listado de quienes acudieron a votar, resultado de la votación donde sea evidente la planilla o personas quienes obtuvieron la mayoría de votos y documentos de elegibilidad que identifiquen a los integrantes electos. Estos requisitos son enunciativos más no limitativos.
 
 2.- En su caso, declarar la validez de la elección y expedir las constancias respectivas de los concejales electos, las que serán firmadas por el presidente y el secretario de dicho consejo
 
@@ -6072,3 +6086,9 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 CUARTO. Se derogan todas las disposiciones de igual o mejor jerarquía que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2135.- MEDIANTE EL CUAL SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado.
