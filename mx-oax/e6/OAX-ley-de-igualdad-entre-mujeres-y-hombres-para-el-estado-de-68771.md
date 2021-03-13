@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-68771
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-25"
-last_updated: "2019-08-17"
+last_updated: "2021-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 25 de abril de 2009.
 
@@ -465,6 +467,10 @@ e) Promover condiciones de trabajo que eviten el hostigamiento y acoso sexual y 
 
 XII. Asegurar que las autoridades laborales supervisen la puesta en práctica de las medidas a favor de la igualdad y no discriminación, promoviendo igual salario por igual trabajo.
 
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2021)</small>
+
+XIII. Garantizar el principio de paridad de género y alternancia en los nombramientos de los titulares y puestos directivos de la Administración Pública Centralizada, Paraestatal y Órganos Auxiliares, propiciando una participación igualitaria de mujeres y hombres en la Administración Pública Estatal.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ### CAPÍTULO SEGUNDO. DE LA PARIDAD EN LA REPRESENTACIÓN POLÍTICA Y LA PARTICIPACIÓN EN LA TOMA DE DECISIONES
@@ -768,3 +774,13 @@ P.O. 17 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 655.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2270.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XIII DEL ARTÍCULO 26 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente decreto entrará en vigor el 01 de diciembre de 2022.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. El Poder Ejecutivo del Estado tendrá 180 días naturales para modificar la normatividad y reglamentos necesarios de la Administración Pública Estatal que permitan el cumplimiento del presente decreto.
