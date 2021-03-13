@@ -4,7 +4,7 @@ identifier: "COL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1149
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-30"
-last_updated: "2019-07-20"
+last_updated: "2021-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el lunes 30 de mayo de 2016.
 
@@ -101,21 +101,27 @@ XIV. Regular la organización y funcionamiento del Instituto de Transparencia, A
 
 XV. Establecer las bases y la información de interés público que se debe difundir proactivamente.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
 ###### Artículo 4.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Comisionado: Cada uno de los integrantes del pleno del Organismo Garante;
+I. Ajustes Razonables: Modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones, de los derechos humanos;
 
-II. Comisión de Derechos Humanos: La Comisión de Derechos Humanos del Estado de Colima;
+II. Áreas: Instancias que cuentan o puedan contar con la información. Tratándose del sector público, serán aquellas que estén previstas en el reglamento interior, estatuto orgánico respectivo o equivalentes;
 
-III. Comité de Transparencia: Es el órgano administrativo colegiado que deberá constituirse en cada sujeto obligado, en términos de la Ley General y de la presente Ley, que tendrá a su cargo el desempeño de las funciones específicas que se le otorguen para dar certeza a los procesos inherentes a la gestión y entrega de información pública; Congreso: El Honorable Congreso del Estado de Colima;
+III. Comisionado: Cada uno de los integrantes del pleno del Organismo Garante;
 
-IV. Constitución: La Constitución Política del Estado Libre y Soberano de Colima;
+IV. Comisión de Derechos Humanos: La Comisión de Derechos Humanos del Estado de Colima;
 
-V. Consejo Consultivo: Es el órgano colegiado integrado en términos de lo dispuesto en el Capítulo III del Título Cuarto de esta Ley, cuyo propósito sustancial es otorgar apoyo a la función del organismo garante y coadyuvar al mejoramiento de las condiciones del derecho de acceso a la información pública en el Estado de Colima;
+V. Comité de Transparencia: Es el órgano administrativo colegiado que deberá constituirse en cada sujeto obligado, en términos de la Ley General y de la presente Ley, que tendrá a su cargo el desempeño de las funciones específicas que se le otorguen para dar certeza a los procesos inherentes a la gestión y entrega de información pública; Congreso: El Honorable Congreso del Estado de Colima;
 
-VI. Datos abiertos: Los datos digitales de carácter público que son accesibles en línea que pueden ser usados, reutilizados y redistribuidos por cualquier interesado y que tienen las siguientes características:
+VI. Constitución: La Constitución Política del Estado Libre y Soberano de Colima;
+
+VII. Consejo Consultivo: Es el órgano colegiado integrado en términos de lo dispuesto en el Capítulo III del Título Cuarto de esta Ley, cuyo propósito sustancial es otorgar apoyo a la función del organismo garante y coadyuvar al mejoramiento de las condiciones del derecho de acceso a la información pública en el Estado de Colima;
+
+VIII. Datos abiertos: Los datos digitales de carácter público que son accesibles en línea que pueden ser usados, reutilizados y redistribuidos por cualquier interesado y que tienen las siguientes características:
 
 a) Accesibles: Los datos están disponibles para la gama más amplia de usuarios, para cualquier propósito;
 
@@ -137,57 +143,57 @@ i) En formatos abiertos: Los datos estarán disponibles con el conjunto de carac
 
 j) De libre uso: Citan la fuente de origen como único requerimiento para ser utilizados libremente;
 
-VII. Datos personales: Información concerniente a una persona física individualizada o identificable;
+IX. Datos personales: Información concerniente a una persona física individualizada o identificable;
 
-VIII. Datos sensibles: Los datos personales que revelan origen racial y étnico, convicciones religiosas, filosóficas o morales e información referente a la salud, vida sexual, o características genéticas, así como cualquier dato inherente a la esfera más íntima de su titular o que pueda dar origen a discriminación;
+X. Datos sensibles: Los datos personales que revelan origen racial y étnico, convicciones religiosas, filosóficas o morales e información referente a la salud, vida sexual, o características genéticas, así como cualquier dato inherente a la esfera más íntima de su titular o que pueda dar origen a discriminación;
 
-IX. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, minutas, estadísticas o bien, cualquier otro registro en posesión de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, entre otros, escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
+XI. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, minutas, estadísticas o bien, cualquier otro registro en posesión de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, entre otros, escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
 
-X. Expediente: La unidad documental constituida por uno o varios documentos de archivo, ordenados y relacionados por un mismo asunto, actividad o trámite de los sujetos obligados;
+XII. Expediente: La unidad documental constituida por uno o varios documentos de archivo, ordenados y relacionados por un mismo asunto, actividad o trámite de los sujetos obligados;
 
-XI. Información: La contenida en los documentos que los sujetos obligados obtienen, adquieren, administran, transforman o conservan por cualquier título, o bien aquella que por una obligación legal deban de generar;
+XIII. Información: La contenida en los documentos que los sujetos obligados obtienen, adquieren, administran, transforman o conservan por cualquier título, o bien aquella que por una obligación legal deban de generar;
 
-XII. Información de interés público: La que resulta relevante o beneficiosa para la sociedad y no simplemente de interés individual;
+XIV. Información de interés público: La que resulta relevante o beneficiosa para la sociedad y no simplemente de interés individual;
 
-XIII. Información pública: Todo registro, archivo, documento o cualquier dato que se recopile, mantenga, procese o se encuentre en poder de los sujetos obligados, que no tenga el carácter de confidencial, ni reservado;
+XV. Información pública: Todo registro, archivo, documento o cualquier dato que se recopile, mantenga, procese o se encuentre en poder de los sujetos obligados, que no tenga el carácter de confidencial, ni reservado;
 
-XIV. Información de publicación obligatoria: Aquella que los sujetos obligados deben tener permanentemente en internet a disposición del público para su consulta, en los términos del presente ordenamiento;
+XVI. Información de publicación obligatoria: Aquella que los sujetos obligados deben tener permanentemente en internet a disposición del público para su consulta, en los términos del presente ordenamiento;
 
-XV. Información reservada: La información que se encuentra temporalmente sujeta a alguna de las excepciones de publicidad previstas en esta Ley;
+XVII. Información reservada: La información que se encuentra temporalmente sujeta a alguna de las excepciones de publicidad previstas en esta Ley;
 
-XVI. Interés público: La valoración atribuida a los fines que persigue la consulta y examen de la información pública, a efecto de contribuir a la informada toma de decisiones de las personas en el marco de una sociedad democrática;
+XVIII. Interés público: La valoración atribuida a los fines que persigue la consulta y examen de la información pública, a efecto de contribuir a la informada toma de decisiones de las personas en el marco de una sociedad democrática;
 
-XVII. Organismo Garante: El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima;
+XIX. Organismo Garante: El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima;
 
-XVIII. Organismo Garante Nacional: El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+XX. Organismo Garante Nacional: El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-XIX. Ley: La Ley de Transparencia y Acceso a la Información Pública del Estado de Colima;
+XXI. Ley: La Ley de Transparencia y Acceso a la Información Pública del Estado de Colima;
 
-XX. Ley de Archivos: La Ley de Archivos del Estado de Colima;
+XXII. Ley de Archivos: La Ley de Archivos del Estado de Colima;
 
-XXI. Ley del Procedimiento Administrativo: La Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios;
+XXIII. Ley del Procedimiento Administrativo: La Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios;
 
-XXII. Ley de Responsabilidades: La Ley Estatal de Responsabilidades de los Servidores Públicos del Estado de Colima;
+XXIV. Ley de Responsabilidades: La Ley Estatal de Responsabilidades de los Servidores Públicos del Estado de Colima;
 
-XXIII. Ley General: La Ley General de Transparencia y Acceso a la Información Pública;
+XXV. Ley General: La Ley General de Transparencia y Acceso a la Información Pública;
 
-XXIV. Persona que ejerce actos de autoridad: Es toda aquella que, con independencia de su naturaleza formal dicta, ordena, ejecuta o trata de ejecutar el acto que crea, modifica o extingue situaciones jurídicas en forma unilateral y obligatoria, y omita el acto que de realizarse crearía, modificaría o extinguiría dichas situaciones jurídicas;
+XXVI. Persona que ejerce actos de autoridad: Es toda aquella que, con independencia de su naturaleza formal dicta, ordena, ejecuta o trata de ejecutar el acto que crea, modifica o extingue situaciones jurídicas en forma unilateral y obligatoria, y omita el acto que de realizarse crearía, modificaría o extinguiría dichas situaciones jurídicas;
 
-XXV. Plataforma Nacional de Transparencia: La descrita en la Ley General de Transparencia y Acceso a la Información Pública;
+XXVII. Plataforma Nacional de Transparencia: La descrita en la Ley General de Transparencia y Acceso a la Información Pública;
 
-XXVI. Reglamento: El Reglamento Interior del Organismo Garante:
+XXVIII. Reglamento: El Reglamento Interior del Organismo Garante:
 
-XXVII. Servidor público: Los señalados con dicho carácter en la Constitución y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Colima;
+XXIX. Servidor público: Los señalados con dicho carácter en la Constitución y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Colima;
 
-XXVIII. Sistema Nacional de Transparencia: El Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales;
+XXX. Sistema Nacional de Transparencia: El Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales;
 
-XXIX. Sujeto obligado: Cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal;
+XXXI. Sujeto obligado: Cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo y las dependencias que integran la administración pública centralizada, de conformidad a lo establecido en la Ley Orgánica de la Administración Pública del Estado de Colima, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal;
 
-XXX. Unidad de Transparencia: Instancia a la que se refiere el artículo 55 de la presente ley;
+XXXII. Unidad de Transparencia: Instancia a la que se refiere el artículo 55 de la presente ley;
 
-XXXI. Unidades de Medida y Actualización: es la referencia económica para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales y de las Entidades Federativas, así como en las disposiciones jurídicas que emanen de todas las anteriores, las cuales se solventarán entregando su equivalente en moneda nacional y que tienen fundamento en el Apartado B, del artículo 26, de la Constitución Política de los Estados Unidos Mexicanos; y
+XXXIII. Unidades de Medida y Actualización: es la referencia económica para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales y de las Entidades Federativas, así como en las disposiciones jurídicas que emanen de todas las anteriores, las cuales se solventarán entregando su equivalente en moneda nacional y que tienen fundamento en el Apartado B, del artículo 26, de la Constitución Política de los Estados Unidos Mexicanos; y
 
-XXXII. Versión pública: El documento o expediente en el que se da acceso a la información púbica (sic), eliminando u omitiendo las partes o secciones clasificadas.
+XXXIV. Versión pública: El documento o expediente en el que se da acceso a la información púbica, eliminando u omitiendo las partes o secciones clasificadas.
 
 A falta de disposición expresa en esta Ley se aplicarán supletoriamente la Ley General, los Lineamientos Generales que emitan el Sistema Nacional de Transparencia, la Ley de Archivos, la Ley del Procedimiento Administrativo y la Ley de Responsabilidades.
 
@@ -305,7 +311,9 @@ El Organismo Garante deberá contar con una unidad administrativa específica pa
 
 Los sujetos obligados deberán proveer la instalación de cuando menos un equipo de cómputo que facilite el acceso a la información pública de oficio a que se refiere la presente Ley. Similar disposición deberá implementarse en las bibliotecas y archivos públicos dependientes del gobierno estatal o de los gobiernos municipales.
 
-### CAPÍTULO II. DE LA TRANSPARENCIA PROACTIVA, FOCALIZADA Y DEL GOBIERNO ABIERTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MARZO DE 2021)</small>
+
+### CAPÍTULO II. DE LA TRANSPARENCIA PROACTIVA Y FOCALIZADA
 
 ###### Artículo 19.
 
@@ -321,7 +329,9 @@ La información que se publique, como resultado de las políticas de transparenc
 
 La información pública focalizada se establece sobre prácticas especificas con el fin de hacer posible la evaluación oportuna, comparativa, sobre servicios, proyectos o políticas que establezcan o ejecuten los sujetos obligados, sobre un tema específico o relevante, que permita unificar criterios y generar información general y significativa de forma sistematizada y ordenada.
 
-### CAPÍTULO I. DE LAS DISPOSICIONES COMUNES A LOS SUJETOS OBLIGADOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2021)</small>
+
+### CAPÍTULO III. DEL GOBIERNO ABIERTO
 
 ###### Artículo 22.
 
@@ -331,11 +341,45 @@ Fundamentalmente los temas de gobierno abierto deberán comprender el establecim
 
 La colaboración que al efecto se proporcione, será aquella que resulte permisible en razón del marco de competencia del organismo y le sea posible atendiendo a la disponibilidad de recursos.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Artículo 22 BIS. El Organismo Garante tendrá las siguientes atribuciones en materia de Gobierno Abierto:
+
+I. Emitir opiniones y recomendaciones sobre la implementación de los principios de Gobierno Abierto;
+
+II. Coadyuvar con los sujetos obligados en materia de tecnología de la información, para crear un acervo documental electrónico que permita el acceso a datos abiertos en los portales de Internet;
+
+III. Organizar seminarios, mesas de trabajo, cursos, talleres y demás actividades que promuevan el Gobierno Abierto;
+
+IV. Elaborar y publicar estudios e investigaciones para difundir el conocimiento del Gobierno Abierto; y
+
+V. Las demás que le confiera esta Ley y otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Artículo 22 TER. Es obligación de los sujetos obligados:
+
+I. Garantizar el ejercicio y cumplimiento de los principios de gobierno abierto;
+
+II. Facilitar el uso de tecnología y datos abiertos, la participación y la colaboración en los asuntos económicos, sociales, culturales y políticos;
+
+III. Promover una agenda de prioridades y acciones de acuerdo a las condiciones presupuestales y tecnológicas de cada sujeto obligado que fortalezca el Gobierno Abierto;
+
+IV. Procurar mecanismos de Gobierno Abierto que fortalezcan la participación y la colaboración en los asuntos públicos;
+
+V. Poner a disposición la información pública de oficio en formatos abiertos, útiles y reutilizables, para fomentar la transparencia, la colaboración y la participación ciudadana;
+
+VI. Desarrollar herramientas digitales en servicios públicos o trámites;
+
+VII. Establecer canales de participación, colaboración y comunicación, a través de los medios y plataformas digitales que permitan a los particulares participar y colaborar en la toma de decisiones públicas; y
+
+VIII. Promover la transparencia proactiva en Gobierno Abierto.
+
 ## TÍTULO TERCERO. OBLIGACIONES DE TRANSPARENCIA
 
 #### SECCIÓN PRIMERA. DE LA INFORMACIÓN DE PUBLICACIÓN OBLIGATORIA E INFRAESTRUCTURA BÁSICA
 
-### CAPÍTULO II. DE LAS OBLIGACIONES COMUNES DE LOS SUJETOS OBLIGADOS
+### CAPÍTULO I. DE LAS DISPOSICIONES COMUNES A LOS SUJETOS OBLIGADOS
 
 ###### Artículo 23.
 
@@ -369,7 +413,9 @@ VI. Los datos estadísticos sobre las consultas de sus páginas de internet, los
 
 Para efectos de esta Ley son sujetos obligados:
 
-I. El Poder Ejecutivo del Estado, que deberá proporcionar información de la administración pública centralizada;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+I. El Titular del Poder Ejecutivo del Estado, y las dependencias que integran la administración pública centralizada, de conformidad a lo establecido en la Ley Orgánica de la Administración Pública del Estado de Colima;
 
 II. El Poder Legislativo del Estado;
 
@@ -397,7 +443,7 @@ b) Cuando reciban y ejerzan recursos públicos.
 
 Los municipios de la entidad cuya población sea inferior a setenta mil habitantes, siempre que sus posibilidades presupuestales no les permitan cumplir con sus obligaciones de transparencia, podrán solicitar al Organismo Garante la divulgación en Internet de la información pública de oficio que les señala la presente Ley.
 
-### CAPÍTULO III. DE LAS OBLIGACIONES ESPECÍFICAS DE LOS SUJETOS OBLIGADOS
+### CAPÍTULO II. DE LAS OBLIGACIONES COMUNES DE LOS SUJETOS OBLIGADOS
 
 ###### Artículo 28.
 
@@ -447,7 +493,9 @@ V. Los indicadores relacionados con temas de interés público o trascendencia s
 
 VI. Los indicadores que permitan rendir cuenta de sus objetivos y resultados;
 
-VII. El directorio de todos los servidores públicos, incluyendo los que formen parte de los órganos de consulta y apoyo, a partir del nivel de jefe de departamento o su equivalente, o de menor nivel, cuando se brinde atención al público; manejen o apliquen recursos públicos; realicen actos de autoridad o presten servicios profesionales bajo el régimen de confianza u honorarios y personal de base. El directorio deberá incluir, al menos el nombre, cargo o nombramiento asignado, nivel del puesto en la estructura orgánica, fecha de alta en el cargo, número telefónico oficial, domicilio para recibir correspondencia y dirección de correo electrónico oficiales;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+VII. El directorio de todos los servidores públicos, incluyendo los que formen parte de los órganos de consulta y apoyo, a partir del nivel de jefe de departamento o su equivalente, o de menor nivel, cuando se brinde atención al público; manejen o apliquen recursos públicos; realicen actos de autoridad o presten servicios profesionales bajo el régimen de confianza u honorarios y personal de base. El directorio deberá incluir, al menos el nombre, cargo o nombramiento asignado, nivel del puesto en la estructura orgánica, fecha de alta en el cargo, número telefónico oficial, domicilio para recibir correspondencia y dirección de correo electrónico oficiales; el directorio deberá contener, además, un apartado independiente que contenga el nombre de todas las cuentas oficiales de redes sociales digitales que administren los sujetos obligados, así como aquellas de los servidores públicos que voluntariamente decidan incorporarse a dicho directorio en los términos establecidos por el Sistema Nacional de Transparencia;
 
 VIII. La remuneración bruta y neta de todos los servidores públicos de base o de confianza, de todas las percepciones, incluyendo sueldos, prestaciones, gratificaciones, primas, comisiones, dietas, bonos, estímulos, ingresos y sistemas de compensación, señalando la periodicidad de dicha remuneración;
 
@@ -627,11 +675,13 @@ XLVIII. El catálogo de información adicional así como cualquier otra informac
 
 Los sujetos obligados comunicarán al Organismo Garante cuáles rubros de información detallados en este artículo es generada por ellos para que éste apruebe, fundada y motivadamente, la relación de la información que deberán publicar, debiendo hacer mención en su página de internet de la que no les resulte aplicable.
 
-### CAPÍTULO IV. DE LOS PARTIDOS POLÍTICOS, SINDICATOS Y PERSONAS DE DERECHO PÚBLICO Y PRIVADO QUE EJERZAN FUNCIONES DE AUTORIDAD
+### CAPÍTULO III. DE LAS OBLIGACIONES ESPECÍFICAS DE LOS SUJETOS OBLIGADOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2021)</small>
 
 ###### Artículo 30.
 
-Además de lo señalado en el artículo 29 del presente ordenamiento, el Poder Ejecutivo del Estado deberá hacer pública en Internet la siguiente información:
+Además de lo señalado en el artículo 29 del presente ordenamiento, el Titular del Poder Ejecutivo del Estado, y las dependencias que integran la administración pública centralizada, de conformidad a lo establecido en la Ley Orgánica de la Administración Pública del Estado de Colima, deberán hacer pública en Internet la siguiente información:
 
 I. De manera general:
 
@@ -735,7 +785,9 @@ De manera específica, además de la información mencionada en el artículo 29 
 
 I. Las tesis jurisprudenciales y aisladas;
 
-II. Las versiones públicas de las sentencias que sean de interés público
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+II. Las versiones públicas de todas las sentencias emitidas;
 
 III. Las versiones estenográficas de las sesiones públicas;
 
@@ -745,7 +797,7 @@ V. La listas de acuerdos que diariamente se publiquen;
 
 VI. La lista de peritos acreditados ante el Supremo Tribunal de Justicia del Estado, y
 
-VII. Las sentencias y resoluciones que hayan causado estado, pudiendo las partes oponerse a la publicación de sus datos personales.
+VII. (DEROGADA, P.O. 13 DE MARZO DE 2021)
 
 VIII. Las estadísticas que se generen conforme a la fracción XXX del artículo 29 de esta Ley, derivadas de las funciones encomendadas al Poder Judicial deberán incluir, cuando menos:
 
@@ -797,7 +849,9 @@ Además de lo señalado en el artículo 29 del presente ordenamiento, el Tribuna
 
 I. Los expedientes sobre quejas o denuncias resueltas por violaciones a la Ley Electoral;
 
-II. Las sentencias relevantes con los respectivos votos particulares, si los hubiere;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+II. Las versiones públicas de todas las sentencias emitidas;
 
 III. La jurisprudencia que constituya;
 
@@ -839,7 +893,9 @@ XII. Los dictámenes, informes y resoluciones sobre pérdida de registro y liqui
 
 XIII. El monitoreo de medios;
 
-XIV. El resultado de los recursos de revisión interpuestos y las versiones públicas de las resoluciones emitidas;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+XIV. El resultado de los recursos de revisión y las versiones públicas de todas las resoluciones emitidas;
 
 XV. En su caso, las sentencias que se dicten en los juicios de amparo que se promueven en contra de sus resoluciones; y
 
@@ -849,7 +905,9 @@ XVI. Las actas de las sesiones del Pleno.
 
 Además de lo señalado en el artículo 29 de la presente Ley, el Organismo Garante deberá hacer pública la siguiente información:
 
-I. La relación de observaciones y resoluciones emitidas y el seguimiento a cada una de ellas, incluyendo las respuestas entregadas por los sujetos obligados a los solicitantes en cumplimiento de las resoluciones;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+I. La relación de observaciones y las versiones públicas de todas las sentencias emitidas y el seguimiento a cada una de ellas, incluyendo las respuestas entregadas por los sujetos obligados a los solicitantes en cumplimiento de las resoluciones;
 
 II. Los criterios orientadores que deriven de sus resoluciones;
 
@@ -904,6 +962,90 @@ a) Número de asuntos ingresados, terminados y en trámite o pendientes de resol
 b) Número de resoluciones dictadas, especificando en cuántas se declaró improcedente la queja presentada y el número en las que resultó procedente dando lugar a la emisión de recomendaciones, y aquéllas que hubieran concluido de manera diversa a las anteriores; y
 
 c) La incidencia de quejas relacionadas con el género de la víctima, su edad, el tipo de queja, la ubicación geográfica de su domicilio, y las autoridades en contra de quienes se presenten.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+###### Artículo 37 Bis.
+
+Además de lo señalado en el artículo 29 de este ordenamiento, el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado de Colima, deberá hacer público en Internet la siguiente información estadística:
+
+I. El programa anual de actividades;
+
+II. La relación y número de auditorías practicadas a los entes fiscalizados;
+
+III. La relación y número de dictámenes de la cuenta pública;
+
+IV. La relación y número de denuncias y querellas penales presentadas;
+
+V. La relación y número de acciones de responsabilidad administrativas promovidas ante los órganos de control competentes; y
+
+VI. La relación y número de acciones por responsabilidades de carácter civil, ejercitadas.
+
+La información estadística a que se refieren las fracciones III y IV, será publicada de forma anual, dentro de los dos primeros meses del año que inicia y será referente al año anterior.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+###### Artículo 37 Ter.
+
+Además de lo señalado en el artículo 29 de este ordenamiento, el Tribunal de Justicia Administrativa, deberá hacer público en Internet lo siguiente:
+
+I. Las versiones públicas de todas las sentencias emitidas;
+
+II. Criterios y Precedentes;
+
+III. La relacionada con los procesos por medio de los cuales fueron designados los actuarios y secretarios y como fueron elegidos los magistrados que lo integran;
+
+IV. La lista de acuerdos que diariamente se publiquen y la lista de acuerdo del pleno;
+
+V. La información estadística semestral, de las sentencias en las que se concedió el amparo y protección de la justicia federal, diferenciando aquéllas que implicaron modificaciones de forma y cuáles de fondo así como la concesión lisa y llana, de plano, para efectos y sobreseídos;
+
+VI. El total de sesiones del Pleno del Tribunal celebradas mensual y/o semestralmente, tanto ordinarias como extraordinarias; y
+
+VII. Los programas anuales para la adquisición de bienes, arrendamientos y servicios.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+###### Artículo 37 Quáter.
+
+Además de lo señalado en el artículo 29 de este ordenamiento, el Tribunal de Arbitraje y Escalafón, deberá hacer público en Internet lo siguiente:
+
+I. Las versiones públicas de todas las sentencias emitidas;
+
+II. Criterios y Precedentes;
+
+III. La relacionada con los procesos por medio de los cuales fueron designados los actuarios y secretarios y como fueron elegidos los magistrados que lo integran;
+
+IV. La lista de acuerdos que diariamente se publiquen y la lista de acuerdo del pleno;
+
+V. La información estadística semestral, que contendrá el número total de asuntos iniciados por sala, los que fueron resueltos, incluyendo el porcentaje de los pendientes de resolución;
+
+VI. La información estadística semestral, de las sentencias en las que se concedió el amparo y protección de la justicia federal, diferenciando aquéllas que implicaron modificaciones de forma y cuáles de fondo así como la concesión lisa y llana, de plano, para efectos y sobreseídos;
+
+VII. El total de sesiones del Pleno del Tribunal celebradas mensual y/o semestralmente, tanto ordinarias como extraordinarias: y
+
+VIII. Los programas anuales para la adquisición de bienes, arrendamientos y servicios.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+###### Artículo 37 Quinquies.
+
+Además de lo señalado en el artículo 29 de este ordenamiento, la Fiscalía General del Estado, deberá hacer público en Internet lo siguiente:
+
+I. Estadísticas de incidencia delictiva, de acuerdo con la Ley General del Sistema Nacional de Seguridad Pública;
+
+II. Estadísticas sobre el número de investigaciones iniciadas;
+
+III. Estadísticas de personas desaparecidas o no localizadas;
+
+IV. Estadísticas en materias de persecución del delito, en atención a víctimas u ofendidos a través de programas específicos y protección de personas;
+
+V. Índices del ejercicio de la acción penal;
+
+VI. Índices de las medidas cautelares;
+
+VII. El programa de capacitación permanente; y
+
+VIII. Convocatorias de ascensos, criterios, procesos de decisión y criterios de separación del cargo.
 
 ###### Artículo 38.
 
@@ -991,7 +1133,7 @@ Las autoridades administrativas y jurisdiccionales en materia laboral deberán e
 
 Por lo que se refiere a los documentos que obran en el expediente de registro de las agrupaciones, únicamente estará clasificada como información confidencial, los domicilios de los trabajadores señalados en los padrones de agremiados.
 
-### CAPÍTULO V. DE LAS PERSONAS DE DERECHO PÚBLICO Y PRIVADO QUE EJERZAN GASTO PÚBLICO, RECIBAN SUBSIDIO O SUBVENCIÓN
+### CAPÍTULO IV. DE LOS PARTIDOS POLÍTICOS, SINDICATOS Y PERSONAS DE DERECHO PÚBLICO Y PRIVADO QUE EJERZAN FUNCIONES DE AUTORIDAD
 
 ###### Artículo 41.
 
@@ -1087,7 +1229,7 @@ Los titulares de las Unidades de Transparencia y de los sujetos obligados dispon
 
 La inobservancia de lo dispuesto en el presente artículo será considerada como una infracción a las disposiciones de este ordenamiento y dará lugar a imponer a los servidores públicos omisos las sanciones consideradas en la presente Ley.
 
-### CAPÍTULO VI. DE LA PUBLICACIÓN DE INFORMACIÓN ADICIONAL
+### CAPÍTULO V. DE LAS PERSONAS DE DERECHO PÚBLICO Y PRIVADO QUE EJERZAN GASTO PÚBLICO, RECIBAN SUBSIDIO O SUBVENCIÓN
 
 ###### Artículo 46.
 
@@ -1119,7 +1261,7 @@ En sus determinaciones, el Organismo Garante precisará el contenido de informac
 
 Las personas físicas o morales que reciban y ejerzan recursos públicos o ejerzan actos de autoridad deberán proporcionar la información que permita al sujeto obligado que corresponda, cumplir con sus obligaciones de trasparencia y atender las solicitudes de acceso correspondientes.
 
-### CAPÍTULO VII. DE LOS COMITÉS DE TRANSPARENCIA
+### CAPÍTULO VI. DE LA PUBLICACIÓN DE INFORMACIÓN ADICIONAL
 
 ###### Artículo 49.
 
@@ -1137,7 +1279,7 @@ III. El Organismo Garante emitirá el acuerdo respectivo mediante el cual se det
 
 IV. El acuerdo que se emita deberá notificarse a los sujetos obligados que queden vinculados a su observancia y se publicará en el Periódico Oficial del Estado.
 
-### CAPÍTULO VIII. DE LAS UNIDADES DE TRANSPARENCIA
+### CAPÍTULO VII. DE LOS COMITÉS DE TRANSPARENCIA
 
 ###### Artículo 51.
 
@@ -1179,7 +1321,7 @@ VIII. Solicitar al Organismo Garante la ampliación del plazo de reserva de la i
 
 IX. Las demás que se desprendan de la normatividad aplicable.
 
-### CAPÍTULO IX. DE LOS ARCHIVOS ADMINISTRATIVOS
+### CAPÍTULO VIII. DE LAS UNIDADES DE TRANSPARENCIA
 
 ###### Artículo 55.
 
@@ -1229,7 +1371,7 @@ f) Apoyar y orientar a los particulares respecto de los recursos que tienen a su
 
 Las áreas de los sujetos obligados deberán prestar apoyo a la Unidad de Transparencia para el adecuado cumplimiento de sus responsabilidades, en caso de que existiera negativa o reticencia a colaborar, el titular de dicha unidad dará aviso al superior jerárquico para que le ordene realizar sin demora las acciones conducentes. De persistir la negativa de colaboración, la Unidad de Transparencia lo hará del conocimiento de la autoridad competente para que ésta inicie, en su caso, el procedimiento de responsabilidad respectivo.
 
-### CAPÍTULO I. DE LA VERIFICACIÓN DE LAS OBLIGACIONES DE TRANSPARENCIA
+### CAPÍTULO IX. DE LOS ARCHIVOS ADMINISTRATIVOS
 
 ###### Artículo 59.
 
@@ -1257,7 +1399,7 @@ En el caso de los documentos electrónicos, los sujetos obligados deberán obser
 
 #### SECCIÓN SEGUNDA. PROCEDIMIENTOS DE VERIFICACIÓN
 
-### CAPÍTULO II. DE LA DENUNCIA
+### CAPÍTULO I. DE LA VERIFICACIÓN DE LAS OBLIGACIONES DE TRANSPARENCIA
 
 ###### Artículo 65.
 
@@ -1279,39 +1421,105 @@ III. El Organismo Garante verificará que se corrijan las deficiencias encontrad
 
 Durante la tramitación del procedimiento, el Organismo Garante podrá requerir a los sujetos obligados la presentación de informes complementarios que le permitan apreciar los motivos que ocasionan la deficiencia de publicación de la información.
 
-### CAPÍTULO I. DEL ORGANISMO GARANTE
+### CAPÍTULO II. DE LA DENUNCIA
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
 
 ###### Artículo 68.
 
-Cualquier persona podrá denunciar ante el Organismo Garante las deficiencias de publicación de información. El Organismo Garante implementará las medidas necesarias para atender de manera expedita las denuncias que le sean planteadas, resolviendo en cuanto a su admisión dentro de los tres días siguientes a la recepción de aquellas y procediendo a instaurar el procedimiento correspondiente, que se sujetará en lo conducente a lo dispuesto en el artículo que antecede.
+Cualquier persona podrá denunciar ante el Organismo Garante la falta de publicación de las obligaciones de transparencia previstas en la presente ley, en sus respectivos ámbitos de competencia.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
 
 ###### Artículo 69.
 
-Las denuncias que se presenten deberán contener los requisitos siguientes:
+El procedimiento de la denuncia se integra por las siguientes etapas:
 
-I. Mención del sujeto obligado al que se denuncia;
+I. Presentación de la denuncia ante el Organismo Garante;
 
-II. Descripción de las deficiencias de publicación que constituyen el motivo de la denuncia; y
+II. Solicitud por parte del organismo garante de un informe al sujeto obligado;
 
-III. Domicilio físico o electrónico para recibir notificaciones.
+III. Resolución de la denuncia; y
 
-Será optativo para el denunciante aportar elementos probatorios que acrediten las deficiencias denunciadas, así como satisfacer el requisito establecido en la fracción III de este precepto; en caso de omitir señalar domicilio las notificaciones se le realizarán por estrados.
+IV. Ejecución de la resolución de la denuncia.
 
-De igual manera será optativo para quien sustente una denuncia proporcionar su nombre y perfil, el cual en todo caso solamente podrá ser utilizado para fines estadísticos. La omisión de los datos referidos en el presente párrafo no será motivo para desechar la denuncia o negarle el trámite correspondiente.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
 
 ###### Artículo 70.
 
-Las denuncias por incumplimiento de las obligaciones de transparencia de los sujetos obligados podrán presentarse por escrito ante el Organismo Garante o por los medios electrónicos que se habiliten para tal efecto.
+La denuncia por incumplimiento a las obligaciones de transparencia deberá cumplir, al menos, los siguientes requisitos:
 
-El Organismo Garante estará obligado a notificar al denunciante el resultado del procedimiento que instaure para determinar si existen deficiencias en la publicación de información, lo que deberá realizar dentro de los tres días posteriores a la resolución.
+I. Nombre del sujeto obligado denunciado;
+
+II. Descripción clara y precisa del incumplimiento denunciado;
+
+III. El denunciante podrá adjuntar los medios de prueba que estime necesarios para respaldar el incumplimiento denunciado;
+
+IV. En caso de que la denuncia se presente por escrito, el denunciante deberá señalar el domicilio en la jurisdicción que corresponda o la dirección de correo electrónico para recibir notificaciones. En caso de que la denuncia se presente por medios electrónicos, se entenderá que se acepta que las notificaciones se efectúen por el mismo medio. En caso de que no se señale domicilio o dirección de correo electrónico o se señale un domicilio fuera de la jurisdicción respectiva, las notificaciones, aún las de carácter personal, se practicarán a través de los estrados físicos del Instituto; y
+
+V. El nombre del denunciante y, opcionalmente, su perfil, únicamente para propósitos estadísticos. Esta información será proporcionada por el denunciante de manera voluntaria. En ningún caso el dato sobre el nombre y el perfil podrán ser un requisito para la procedencia y trámite de la denuncia.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
 
 ###### Artículo 71.
 
-El Organismo Garante pondrá a disposición del público formatos físicos y electrónicos para que se consignen las denuncias a que se refiere el presente capítulo. Su utilización será optativa para los particulares, quienes en todo caso podrán consignarla en formatos libres.
+La denuncia podrá presentarse de la forma siguiente:
+
+I. Por medio electrónico:
+
+a) A través de la Plataforma Nacional, o
+
+b) Por correo electrónico, dirigido a la dirección electrónica que al efecto se establezca.
+
+II. Por escrito, presentado físicamente, ante la Unidad de Transparencia del Organismo Garante, según corresponda.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Artículo 71 BIS.- El Organismo Garante pondrá a disposición de los particulares el formato de denuncia correspondiente, a efecto de que éstos, si así lo deciden, puedan utilizarlos. Asimismo, los particulares podrán optar por un escrito libre, conforme a lo previsto en esta Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Artículo 71 TER.- El Organismo Garante, en el ámbito de sus competencias, debe resolver sobre la admisión de la denuncia, dentro de los tres días siguientes a su recepción.
+
+El Organismo Garante, en el ámbito de sus competencias, debe notificar al sujeto obligado la denuncia dentro de los tres días siguientes a su admisión.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Artículo 71 QUÁTER.- El sujeto obligado debe enviar al organismo garante correspondiente, un informe con justificación respecto de los hechos o motivos de la denuncia dentro de los tres días siguientes a la notificación anterior.
+
+El Organismo Garante, en el ámbito de sus competencias, puede realizar las verificaciones virtuales que procedan, así como solicitar los informes complementarios al sujeto obligado que requiera, para allegarse de los elementos de juicio que considere necesarios para resolver la denuncia.
+
+En el caso de informes complementarios, el sujeto obligado deberá responder a los mismos, en el término de tres días siguientes a la notificación correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Artículo 71 QUINQUIES.- El Organismo Garante, en el ámbito de sus competencias debe resolver la denuncia, dentro de los veinte días siguientes al término del plazo en que el sujeto obligado debe presentar su informe o, en su caso, los informes complementarios.
+
+La resolución debe ser fundada y motivada e invariablemente debe pronunciarse sobre el cumplimiento de la publicación de la información por parte del sujeto obligado.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Artículo 71 SEXIES.- El Organismo Garante, en el ámbito de sus competencias, debe notificar la resolución al denunciante y al sujeto obligado, dentro de los tres días siguientes a su emisión.
+
+Las resoluciones que emita el Organismo Garante, a que se refiere este Capítulo, son definitivas e inatacables para los sujetos obligados. El particular podrá impugnar la resolución por la vía del juicio de amparo que corresponda, en los términos de la legislación aplicable.
+
+El sujeto obligado deberá cumplir con la resolución en un plazo de quince días, a partir del día siguiente al en que se le notifique la misma.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Artículo 71 SEPTIES.- Transcurrido el plazo señalado en el artículo anterior, el sujeto obligado deberá informar al organismo garante correspondiente sobre el cumplimento de la resolución.
+
+El Organismo Garante, según corresponda, verificarán el cumplimiento a la resolución; si consideran que se dio cumplimiento a la resolución, se emitirá un acuerdo de cumplimiento y se ordenará el cierre del Expediente.
+
+Cuando el Organismo Garante, según corresponda, consideren que existe un incumplimiento total o parcial de la resolución, le notificarán, por conducto de la Unidad de Transparencia del sujeto obligado, al superior jerárquico del servidor público responsable de dar cumplimiento, para el efecto de que, en un plazo no mayor a cinco días, se dé cumplimiento a la resolución.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Artículo 71 OCTIES.- En caso de que el Organismo garante, según corresponda, consideren que subsiste el incumplimiento total o parcial de la resolución, en un plazo no mayor a cinco días posteriores al aviso de incumplimiento al superior jerárquico del servidor público responsable del mismo, se emitirá un acuerdo de incumplimiento y se informará al Pleno para que, en su caso, imponga las medidas de apremio o determinaciones que resulten procedentes.
 
 ## TÍTULO CUARTO. ORGANISMO GARANTE Y SUS ATRIBUCIONES
 
-### CAPÍTULO II. DE LAS FACULTADES Y ATRIBUCIONES DE LOS COMISIONADOS
+### CAPÍTULO I. DEL ORGANISMO GARANTE
 
 ###### Artículo 72.
 
@@ -1321,9 +1529,29 @@ El Instituto de Transparencia, Acceso a la Información Pública y Protección d
 
 El derecho de autonomía que constitucionalmente se otorga al Organismo Garante, responde al propósito de que se encuentre en condiciones de realizar sus fines y determinar su organización interna con la más amplia libertad, de decidir sus asuntos internos y gestionar lo conducente para la consecución de sus fines, conforme a los lineamientos establecidos por esta Ley, en el Reglamento y demás disposiciones legales que se expidan, así como de gestionar lo conducente para allegarse de recursos, para procurar la difusión de los derechos cuya tutela le es conferida y, en general, para el cumplimiento de sus objetivos y programas.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
 ###### Artículo 74.
 
-El Organismo Garante ejercerá su competencia y jurisdicción sobre los sujetos obligados que determina la presente Ley, debiendo regir su funcionamiento de acuerdo a los principios de certeza, eficacia, imparcialidad, independencia, legalidad, máxima publicidad, objetividad, profesionalismo, y transparencia.
+El Organismo Garante ejercerá su competencia y jurisdicción sobre los sujetos obligados que determina la presente Ley, debiendo regir su funcionamiento de acuerdo a los siguientes principios:
+
+I. Certeza: Principio que otorga seguridad y certidumbre jurídica a los particulares, en virtud de que permite conocer si las acciones del Organismo Garante son apegadas a derecho y garantiza que los procedimientos sean completamente verificables, fidedignos y confiables;
+
+II. Eficacia: Obligación del Organismo Garante para tutelar, de manera efectiva, el derecho de acceso a la información;
+
+III. Imparcialidad: Cualidad que debe tener el Organismo Garante respecto de sus actuaciones de ser ajenos o extraños a los intereses de las partes en controversia y resolver sin favorecer indebidamente a ninguna de ellas;
+
+IV. Independencia: Cualidad que deben tener el Organismo Garante para actuar sin supeditarse a interés, autoridad o persona alguna;
+
+V. Legalidad: Obligación del Organismo Garante de ajustar su actuación, que funde y motive sus resoluciones y actos en las normas aplicables;
+
+VI. Máxima Publicidad: Toda la información en posesión de los sujetos obligados será pública, completa, oportuna y accesible, sujeta a un claro régimen de excepciones que deberán estar definidas y ser además legítimas y estrictamente necesarias en una sociedad democrática;
+
+VII. Objetividad: Obligación del Organismo Garante de ajustar su actuación a los presupuestos de ley que deben ser aplicados al analizar el caso en concreto y resolver todos los hechos, prescindiendo de las consideraciones y criterios personales;
+
+VIII. Profesionalismo: Los Servidores Públicos que laboren en el Organismo Garante deberán sujetar su actuación a conocimientos técnicos, teóricos y metodológicos que garanticen un desempeño eficiente y eficaz en el ejercicio de la función pública que tienen encomendada; y
+
+IX. Transparencia: Obligación del Organismo Garante de dar publicidad a las deliberaciones y actos relacionados con sus atribuciones, así como dar acceso a la información que generen.
 
 ###### Artículo 75.
 
@@ -1625,7 +1853,7 @@ Los servidores públicos del Organismo Garante estarán integrados en un servici
 
 Dicho ordenamiento deberá considerar disposiciones que privilegien los principios de legalidad, imparcialidad, especialización, honradez, lealtad y eficiencia.
 
-### CAPÍTULO III. DEL CONSEJO CONSULTIVO
+### CAPÍTULO II. DE LAS FACULTADES Y ATRIBUCIONES DE LOS COMISIONADOS
 
 ###### Artículo 94.
 
@@ -1713,11 +1941,13 @@ VI. Cualquier otra análoga de la cual derive una relación que pudiera influir 
 
 Las partes en un recurso podrán recusar con causa a un Comisionado, sustentando su petición en los supuestos que se consignan en el presente artículo. Corresponderá al Pleno calificar la procedencia de la excusa o la recusación.
 
-### CAPÍTULO IV. DEL DERECHO DE INICIATIVA Y LA INTERPOSICIÓN DE ACCIONES DE INCONSTITUCIONALIDAD
+### CAPÍTULO III. DEL CONSEJO CONSULTIVO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2021)</small>
 
 ###### Artículo 97.
 
-El Organismo Garante contará con un Consejo Consultivo, que estará integrado por 3 Consejeros designados por el H. Congreso del Estado, cuyo cargo será honorífico y lo ejercerán por un período de seis años. En la integración de este Consejo deberá observarse la equidad de género. Los integrantes del Consejo elegirán a quien de entre ellos fungirá como Presidente por un período de tres años, pudiendo ser ratificado por un término similar.
+El Organismo Garante contará con un Consejo Consultivo, que estará integrado por tres Consejeros designados por el H. Congreso del Estado, cuyo cargo será honorífico y lo ejercerán por un período de seis años. En la integración de este Consejo se deberá garantizar la igualdad de género y la inclusión de personas con experiencia en la materia de este (sic) Ley y en derechos humanos, provenientes de organizaciones de la sociedad civil y la academia. Los integrantes del Consejo elegirán a quien de entre ellos fungirá como Presidente por un período de tres años, pudiendo ser ratificado por un término similar.
 
 El Secretario de Acuerdos del Organismo Garante fungirá como Secretario Técnico del Consejo Consultivo y será el responsable del resguardo de la documentación que genere el funcionamiento de este órgano así como de prestar el apoyo necesario para que se realicen las sesiones y reuniones de trabajo necesarias.
 
@@ -1771,7 +2001,9 @@ VII. Gozar de buena reputación y no haber sido condenado por delito doloso.
 
 La designación de los integrantes del Consejo Consultivo, se realizará bajo el siguiente procedimiento:
 
-I. El Presidente del Organismo Garante informará al H. Congreso del Estado con noventa días de anticipación de la fecha de vencimiento del cargo de los Consejeros, para efecto de que esta Soberanía emita una convocatoria pública para que cualquier ciudadano que aspire al cargo pueda registrarse dentro del plazo de diez días naturales posteriores a la expedición de la misma;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+
+I. El Presidente del Consejo Consultivo informará al H. Congreso del Estado con noventa días de anticipación de la fecha de vencimiento del cargo de los Consejeros, para efecto de que esta Soberanía emita una convocatoria pública para que cualquier ciudadano que aspire al cargo pueda registrarse dentro del plazo de diez días naturales posteriores a la expedición de la misma;
 
 II. Concluido el plazo para el registro de los aspirantes al cargo de Consejero, el Congreso, por conducto de las instancias que él mismo designe, dentro de los cinco días siguientes, emitirá un dictamen en el que señale el número de aspirantes registrados y determine quiénes cumplieron con los requisitos exigidos en la presente Ley, mismos que continuarán con el procedimiento de selección;
 
@@ -1781,7 +2013,7 @@ IV. Concluida la práctica de las diligencias que se hubieran considerado para e
 
 V. Las dos terceras partes de los diputados presentes deberán aprobar el dictamen que se les presente; en caso de no obtener la votación requerida, la Comisión encargada de realizar el procedimiento presentará nueva lista de candidatos hasta obtener la aprobación correspondiente.
 
-### CAPÍTULO I. DE LA INFORMACIÓN PÚBLICA
+### CAPÍTULO IV. DEL DERECHO DE INICIATIVA Y LA INTERPOSICIÓN DE ACCIONES DE INCONSTITUCIONALIDAD
 
 ###### Artículo 103.
 
@@ -1799,7 +2031,7 @@ Las acciones de inconstitucionalidad que promueva el Organismo Garante se sustan
 
 ## TÍTULO QUINTO. DIVERSOS TIPOS DE INFORMACIÓN
 
-### CAPÍTULO II. DE LA CLASIFICACIÓN DE LA INFORMACIÓN
+### CAPÍTULO I. DE LA INFORMACIÓN PÚBLICA
 
 ###### Artículo 106.
 
@@ -1847,7 +2079,7 @@ Las solicitudes de información relativas a expedientes judiciales y a las sente
 
 Las partes podrán solicitar al titular del órgano jurisdiccional que clasifique como confidencial la información que se aporte con motivo de los procesos que ante él se tramiten, así como los datos que pudieran conducir a su identificación; en ese supuesto, de plantearse alguna solicitud de información por un tercero, previamente deberá resolverse sobre la clasificación relativa, y sólo en caso de considerarla improcedente se acordará el acceso a la información solicitada.
 
-### CAPÍTULO III. DE LA INFORMACIÓN RESERVADA
+### CAPÍTULO II. DE LA CLASIFICACIÓN DE LA INFORMACIÓN
 
 ###### Artículo 110.
 
@@ -1881,13 +2113,17 @@ III. Determinar que el daño que puede producirse con la liberación de la infor
 
 No podrá invocarse el carácter de información reservada cuando se trate de la investigación de violaciones graves a los derechos humanos o delitos de lesa humanidad, así como cuando se trate de información relacionada con actos de corrupción de acuerdo con las leyes aplicables.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Ninguna persona será objeto de inquisición judicial o administrativa con el objeto del ejercicio del derecho de acceso a la información, ni se podrá restringir este derecho por vías o medios directos e indirectos.
+
 ###### Artículo 113.
 
 El acuerdo que clasifique información como reservada deberá indicar su fuente, la justificación, las partes de los documentos que se reservan, el plazo de reserva y la autoridad responsable de su conservación. Las partes de un expediente o documento que no sean expresamente reservadas, se considerarán de libre acceso público.
 
 El Organismo Garante tendrá en todo momento acceso a la información que reserven los sujetos obligados para determinar su debida clasificación, desclasificación o procedencia de otorgar el acceso a la misma, debiendo invariablemente sustentar sus determinaciones en el principio de máxima publicidad.
 
-### CAPÍTULO IV. DE LA INFORMACIÓN CONFIDENCIAL
+### CAPÍTULO III. DE LA INFORMACIÓN RESERVADA
 
 ###### Artículo 114.
 
@@ -1973,7 +2209,15 @@ III. Por determinación del Comité de Transparencia, y
 
 IV. Por resolución de autoridad competente.
 
-### CAPÍTULO I. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PÚBLICA
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Artículo 121 BIS.- No podrá invocarse el carácter de reservado cuando:
+
+I. Se trate de violaciones graves de derechos humanos o delitos de lesa humanidad, o
+
+II. Se trate de información relacionada con actos de corrupción de acuerdo con las leyes aplicables.
+
+### CAPÍTULO IV. DE LA INFORMACIÓN CONFIDENCIAL
 
 ###### Artículo 122.
 
@@ -2043,7 +2287,7 @@ Invariablemente, durante el procedimiento que al efecto se instaure, deberá res
 
 ## TÍTULO SEXTO. ACCESO A LA INFORMACIÓN
 
-### CAPÍTULO II. DEL RECURSO DE REVISIÓN
+### CAPÍTULO I. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PÚBLICA
 
 ###### Artículo 128.
 
@@ -2157,7 +2401,13 @@ Las anteriores disposiciones no comprenderán la información que se encuentre e
 
 La certificación de documentos que deban ser entregados con motivo de una solicitud de información tiene por objeto establecer que en los archivos del sujeto obligado existe un documento igual al que se entrega. La certificación para estos efectos podrá ser realizada por el funcionario que tenga conferida dicha atribución o, en su defecto, por el titular de la Unidad de Transparencia.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
 ###### Artículo 138.
+
+El ejercicio del derecho de acceso a la información es gratuito y sólo podrá requerirse el cobro correspondiente a la modalidad de reproducción y entrega solicitada.
+
+En ningún caso los Ajustes Razonables que se realicen para el acceso de la información de solicitantes con discapacidad, será con costo a los mismos.
 
 En los casos en que resulte procedente el cobro de los costos que genere la reproducción de la información, la Unidad de Transparencia lo comunicará al solicitante, quien a partir de la notificación tendrá un plazo de treinta días para realizar el pago correspondiente y, en caso de no hacerlo, deberán formular una nueva solicitud de información sin responsabilidad para el sujeto obligado.
 
@@ -2229,7 +2479,7 @@ Las personas físicas y morales que reciban y ejerzan recursos públicos o reali
 
 Los sujetos obligados promoverán la concertación de acuerdos con instituciones públicas y privadas especializadas que pudieran auxiliarles a entregar las repuestas a solicitudes de información, en lenguas indígenas, sistema braille o cualquier formato accesible, en forma más eficiente.
 
-### CAPÍTULO I. DE LAS MEDIDAS DE APREMIO
+### CAPÍTULO II. DEL RECURSO DE REVISIÓN
 
 ###### Artículo 148.
 
@@ -2307,9 +2557,11 @@ VII. La copia de la respuesta que se impugna y, en su caso, de la notificación 
 
 Adicionalmente, se podrán anexar las pruebas y demás elementos que considere procedentes someter a juicio del Organismo Garante. En ningún caso será necesario que el particular ratifique el recurso de revisión interpuesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2021)</small>
+
 ###### Artículo 153.
 
-Recibido un escrito para interposición del recurso de revisión, el Organismo Garante lo analizará y de encontrar que adolece de alguno de los supuestos que se consignan en el artículo que antecede, prevendrá al solicitante sobre las imprecisiones que advierta, concediéndole un término de cinco días hábiles para subsanarlas. En caso de que no se realicen las aclaraciones pertinentes, el recurso será desechado sin mayor trámite.
+Si el escrito de interposición del recurso no cumple con alguno de los requisitos establecidos en el artículo anterior y el organismo garante que corresponda no cuenta con elementos para subsanarlos, prevendrá al solicitante sobre las imprecisiones que advierta, concediéndole un término de cinco días hábiles para subsanarlas. En caso de que no se realicen las aclaraciones pertinentes, el recurso será desechado sin mayor trámite.
 
 En lo relativo a la tramitación de los recursos, el Organismo Garante deberá suplir las deficiencias de la queja, para garantizar el ejercicio del derecho de acceso a la información.
 
@@ -2332,6 +2584,10 @@ III. Concluido el plazo señalado en la fracción anterior, con aportación de l
 Las resoluciones que pronuncie el Organismo Garante deberán ser notificadas a las partes, siendo vinculatorias, definitivas e inatacables para los sujetos obligados. El recurrente y el tercero interesado podrán optar por impugnar las determinaciones del Organismo Garante mediante la interposición del recurso de inconformidad ante el Organismo Garante Nacional, en términos del Capítulo II del Título Octavo de la Ley General, o bien a través del juicio de amparo ante el Poder Judicial de la Federación.
 
 En Organismo Garante podrá solicitar al Organismo Garante Nacional la atracción de los recursos de revisión que sean de su competencia originaria, cuando que se consideren relevantesia cuando a en los tccierecho fundamental de acceso a la informaciey General.en ante el Ministerio Péstos revistan interés y trascendencia, en los términos previstos en el Capítulo III del Título Séptimo de la Ley General. (sic)
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Artículo 155 BIS.- Concluido el plazo señalado en las fracciones I y II del artículo 155, con aportación de las partes o sin ella, se decretará el cierre de la instrucción y quedarán los autos para el dictado de la resolución que corresponda, la cual deberá emitirse dentro de los veinte días siguientes.
 
 ###### Artículo 156.
 
@@ -2415,7 +2671,9 @@ III. Los alcances y efectos de la resolución, fijando con precisión, en su cas
 
 IV. Los puntos resolutivos.
 
-En las resoluciones que pronuncie el Organismo Garante deberán observarse los criterios orientadores que emita el Organismo Garante Nacional, en términos de lo dispuesto en el Capítulo VI del Título Octavo de la Ley General.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
+En las resoluciones que pronuncie el Organismo Garante deberán observarse los criterios orientadores que emita el Organismo Garante Nacional, en términos de lo dispuesto en los artículos 169 BIS y 169 TER de la presente Ley.
 
 Los plazos que se establezcan para el cumplimiento de las resoluciones, en los casos en que se determine la entrega de información no podrán exceder de diez días, a menos que el Organismo Garante considere de manera fundada y motivada ampliar dicho término cuando a su juicio así se requiera.
 
@@ -2463,9 +2721,25 @@ III. Determinará las medidas de apremio o sanciones, según corresponda, que de
 
 Cuando el Organismo Garante considere que algún servidor público pudiera haber incurrido en responsabilidad, deberá hacerlo del conocimiento del órgano de control del sujeto obligado para que inicie el procedimiento de sanción, o turne el conocimiento del caso a la instancia que corresponda, de acuerdo a las disposiciones de la Ley de Responsabilidades, sin perjuicio de que continúe realizando las acciones necesarias para lograr el cumplimiento de sus determinaciones.
 
-### CAPÍTULO II. DE LAS SANCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2021)</small>
+
+### CAPÍTULO III. DE LOS CRITERIOS DE INTERPRETACIÓN
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Artículo 169 BIS. Una vez que hayan causado ejecutoria las resoluciones dictadas en los recursos que se sometan a su competencia, el Organismo Garante podrá emitir los criterios de interpretación que estime pertinentes y que deriven de lo resuelto en dichos asuntos.
+
+El Organismo Garante podrá emitir criterios de carácter orientador para los sujetos obligados, que se establecerán por reiteración al resolver tres casos análogos de manera consecutiva en el mismo sentido, por al menos dos terceras partes del Organismo Garante, derivados de resoluciones que hayan causado estado.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2021)</small>
+
+Artículo 169 TER. Los criterios se compondrán de un rubro, un texto y el precedente o precedentes que, en su caso, hayan originado su emisión.
+
+Todo criterio que emita el Organismo Garante deberá contener una clave de control para su debida identificación.
 
 ## TÍTULO SÉPTIMO. MEDIOS PARA HACER EFECTIVAS LAS DETERMINACIONES DEL ORGANISMO GARANTE
+
+### CAPÍTULO I. DE LAS MEDIDAS DE APREMIO
 
 ###### Artículo 170.
 
@@ -2509,9 +2783,13 @@ II. La reincidencia en la inobservancia de la resolución que corresponda; y
 
 III. Las condiciones económicas del requerido.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
+
 ###### Artículo 174.
 
-El Organismo Garante podrá convenir con el Poder Ejecutivo del Estado la creación de un fondo que se constituya con los montos de los recursos que se recauden por concepto de las multas impuestas por el organismo, los cuales podrán ser canalizados al Organismo Garante y serán destinados a acciones tendientes a la difusión y aplicación de los derechos tutelados en la presente Ley.
+El Organismo Garante y el Poder Ejecutivo del Estado deberán convenir la creación de un fondo que se constituya con los montos de los recursos que se recauden por concepto de las multas impuestas por el organismo, los cuales deberán ser canalizados al Organismo Garante y serán destinados a acciones tendientes a la difusión y aplicación de los derechos tutelados en la presente Ley.
+
+### CAPÍTULO II. DE LAS SANCIONES
 
 ###### Artículo 175.
 
@@ -2682,3 +2960,13 @@ P.O. 20 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 102 POR EL QUE SE REFORMAN LOS INCISOS F) Y G) DE LA FRACCIÓN I DEL ARTÍCULO 30 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA Y SE ADICIONA UN INCISO H) A LA FRACCIÓN ANTES MENCIONADA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 424.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA, ASÍ MISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Las dependencias que integran la administración pública centralizada, así como las dependencias insertas en el presente decreto, adecuarán sus disposiciones reglamentarias, en atención a las obligaciones comunes de los sujetos obligados establecidas en la Ley de Transparencia y Acceso a la información Pública del Estado de Colima, dentro de los 90 días naturales siguientes a la aprobación del presente Decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
