@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2020-12-19"
+last_updated: "2021-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -6789,9 +6789,9 @@ Podrá acudirse al Juez de lo Familiar por escrito o por comparecencia personal 
 
 El juez que conozca de un juicio en materia de alimentos para un niño, niña o adolescente, dictará la pensión alimenticia provisional, dentro del plazo de cinco días hábiles, una vez que haga la petición la parte promovente.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2021)</small>
 
-Será optativo para las partes acudir asesoradas, y en este supuesto, los asesores necesariamente deberán ser Licenciados en Derecho, con título profesional legalmente expedido, en caso de que una de las partes se encuentre asesorada y la otra no, se solicitará de inmediato los servicios de un defensor de oficio, el que deberá acudir, desde luego, a enterarse del asunto, disfrutando de plazo que no podrá exceder de tres días para hacerlo, por cuya razón se diferirá la audiencia en un plazo igual.
+Será optativo para las partes acudir asesoradas, y en este supuesto, la persona que les asesore necesariamente deberá acreditar ser Licenciada o Licenciado en Derecho con cédula profesional legalmente expedida, en caso de que una de las partes se encuentre asesorada y la otra no, se solicitará de inmediato los servicios de una defensora o defensor público, quien deberá acudir, desde luego, a enterarse del asunto, disfrutando de plazo que no podrá exceder de tres días para hacerlo, por cuya razón se diferirá la audiencia en un plazo igual.
 
 > <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
@@ -7292,3 +7292,9 @@ P.O. 19 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2125.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 965 DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
