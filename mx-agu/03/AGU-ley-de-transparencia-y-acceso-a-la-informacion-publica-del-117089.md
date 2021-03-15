@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1170
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2017-11-27"
+last_updated: "2021-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
@@ -991,19 +991,25 @@ XVIII. Las capacitaciones de su personal en materia de parlamento abierto; y
 
 XIX. Las que se establezcan en otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
+
 ###### Artículo 58.
 
 Además de lo señalado en el Artículo 55 de la presente Ley, los Sujetos Obligados del Poder Judicial del Estado, deberán poner a disposición del público y actualizar la siguiente Información:
 
-I. Las versiones públicas de las sentencias que sean de interés público;
+I. Las versiones públicas de la totalidad de las sentencias que sean emitidas tanto en primera como en segunda instancia, salvaguardando en todo momento los datos personales de las partes;
 
-II. Las versiones estenográficas de las sesiones públicas;
+II. Las versiones estenográficas de las sesiones del Pleno y las Salas del Supremo Tribunal de Justicia y del Consejo de la Judicatura Estatal;
 
-III. La relacionada con los procesos por medio de los cuales fueron designados los jueces y magistrados;
+III. La relacionada con los procesos por medio de los cuales fueron designados los Secretarios de Acuerdos, Proyectistas, Jueces y Magistrados;
 
-IV. La lista de acuerdos que diariamente se publique; y
+IV. La lista de acuerdos que diariamente se publique por Órgano Jurisdiccional;
 
-V. Datos estadísticos sobre los cinco delitos de mayor incidencia en el Estado, considerando las sentencias condenatorias firmes dictadas en materia penal.
+V. Los Criterios de Interpretación y Conclusiones derivadas de Clínicas Procesales;
+
+VI. La Agenda de Audiencias por Órgano Jurisdiccional; y
+
+VII. Datos estadísticos sobre los cinco delitos de mayor incidencia en el Estado, considerando las sentencias condenatorias firmes dictadas en materia penal.
 
 ###### Artículo 59.
 
@@ -1768,3 +1774,15 @@ P.O. 27 DE NOVIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el primero de enero de 2018.
+
+P.O. 15 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 506.- SE REFORMA EL ARTÍCULO 58 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 01 de marzo de 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Judicial deberá realizar las adecuaciones normativas y administrativas necesarias para dar cumplimento al presente Decreto, a más tardar al 31 de diciembre de 2021.
