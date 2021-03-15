@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2021-01-18"
+last_updated: "2021-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -143,11 +143,11 @@ BIS.- Queda prohibido el uso y reproducción de blasones heráldicos y sellos di
 
 ### CAPÍTULO III. Fines del Municipio
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 6°.
 
-El Municipio de Aguascalientes, para logar (sic) el desarrollo armónico y equilibrado de la vida social entre las personas que habitan o se establecen en el mismo, se propone como fines:
+El Municipio de Aguascalientes, para lograr el desarrollo armónico y equilibrado de la vida social entre las personas que habitan o se establecen en el mismo, se propone como fines:
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
@@ -188,6 +188,10 @@ XI. Fomentar la participación ciudadana en la observación, vigilancia y evalua
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
 XII. Respetar los derechos humanos previstos en la Constitución Política de los Estados Unidos Mexicanos y en los instrumentos internacionales que México ha suscrito y ratificado.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2021)</small>
+
+XIII. Respetar, proteger, promover y garantizar los derechos humanos, así como la tranquilidad, seguridad, el derecho a una vida libre de violencia y un sano desarrollo integral de las niñas, niños y adolescentes que residen habiten o transiten dentro del Municipio de Aguascalientes.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -377,9 +381,9 @@ XVI. Consejo Municipal de Medio Ambiente y Desarrollo Sustentable.
 
 XVII. Consejo Consultivo de Depuración Documental.
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-XVIII. Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito y su Comité Técnico.
+XVIII. Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia y su Comité Técnico.
 
 XIX. Consejo Consultivo del Instituto Municipal de Planeación.
 
@@ -425,9 +429,21 @@ XXXI. Consejo para la Igualdad Sustantiva en Materia Laboral;
 
 XXXII. Consejo Consultivo del Agua Potable, Alcantarillado y Saneamiento; y
 
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO A LA FRACCIÓN XXXV.]</small>
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE ENERO DE 2021)</small>
 
 XXXIII. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer en las áreas que considere convenientes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2021)</small>
+
+XXXIV. Consejo Consultivo de Desarrollo Social; y
+
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO A LA FRACCIÓN XXXIII.]</small>
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2021)</small>
+
+XXXV. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer en las áreas que considere convenientes.
 
 ### CAPÍTULO II. De las Funciones de las Autoridades Municipales
 
@@ -6007,11 +6023,11 @@ APARTADO NOVENO
 
 De las Faltas Contra la Integridad Moral del Individuo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 344.
 
-Son faltas contra la integridad moral de las personas y de la familia y se sancionarán con arresto de hasta por treinta y seis horas o multa de cinco a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
+Son faltas contra la integridad moral de las personas y de la familia y se sancionarán con arresto de hasta por treinta y seis horas o multa de cinco a treinta días de Unidad de Medida y Actualización vigente, las siguientes:
 
 I. Usar drogas, sustancias, plantas o semillas enervantes en la vía pública.
 
@@ -6036,6 +6052,14 @@ VII. Asistir los menores de dieciocho años de edad a centros nocturnos, bares, 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 VIII. Menospreciar o dar trato diferenciado entre mujeres y hombres, que pueda incitar a algún tipo de violencia.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2021)</small>
+
+IX. Quien en la vía pública utilice a menores de edad para efectos de mendicidad, y en perjuicio de los derechos del menor, lo anterior a efecto de garantizar lo dispuesto por el artículo 6 fracción XIII del presente Código.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IX, P.O. 15 DE MARZO DE 2021.]</small>
+
+Cuando se trate de mendicidad por situación de calle, pobreza o abandono, deberá ser atendida por las Dependencias e Instituciones del Municipio de Aguascalientes competentes.
 
 ###### ARTÍCULO 345.
 
@@ -9117,9 +9141,9 @@ c) Dos integrantes de la Dirección de Policía Preventiva, uno de ellos, que co
 
 d) Un integrante de la Dirección de Tránsito y Movilidad que posea, la escolaridad de nivel medio superior, con al menos cinco años de servicio;
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
-e) Dos representantes ciudadanos del Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito; y
+e) Dos representantes ciudadanos del Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia; y
 
 IV. Un Fiscal, que será el Director de Asuntos Internos de Seguridad Pública, quien contará sólo con voz y fungirá como instancia acusadora.
 
@@ -9139,7 +9163,9 @@ III. Un vocal representante del H. Ayuntamiento, propuesto por el Presidente Mun
 
 IV. Tres integrantes para los vocales representantes de las unidades de investigación, prevención y reacción:
 
-a) Se emitirá una convocatoria por parte del Regidor Presidente de la Comisión de Seguridad Pública, que deberá ser publicada en las instalaciones de la Secretaría durante los primeros quince días hábiles del año;
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
+
+a) Se emitirá una convocatoria por parte del Regidor Presidente de la Comisión de Seguridad Pública, que deberá ser publicada en las instalaciones de la Secretaría así como en la página oficial de internet del Municipio durante los primeros quince días hábiles del año;
 
 b) Los interesados deberán de presentar la documentación que establezca la convocatoria respectiva a más tardar el último día hábil del mes de enero;
 
@@ -9149,11 +9175,13 @@ d) El Regidor Presidente de la Comisión de Seguridad Pública en su caso, notif
 
 e) De no haber solicitudes, sean insuficientes o que las presentadas no cumplieran con los requisitos, el Regidor Presidente de la Comisión de Seguridad Pública solicitará al Secretario proponga tres integrantes operativos de cada perfil que cumplan con los requisitos, para que de entre ellos se hiciere la designación.
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-V. Los vocales ciudadanos que representan al Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito, serán electos de forma democrática al interior del mismo, considerando para su elección las aptitudes, experiencia, conocimientos e interés en materia de Seguridad Pública, debiendo informar los nombramientos realizados, a más tardar los primeros quince días del mes de febrero del año que corresponda, ante el presidente de la Comisión de Seguridad Pública.
+V. Los vocales ciudadanos que representan al Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia, serán electos de forma democrática al interior del mismo, considerando para su elección las aptitudes, experiencia, conocimientos e interés en materia de Seguridad Pública, debiendo informar los nombramientos realizados, a más tardar los primeros quince días del mes de febrero del año que corresponda, ante el presidente de la Comisión de Seguridad Pública.
 
-Los vocales a que se refieren los incisos c), d) y e) de la fracción III del artículo 605 durarán en su encargo un año, pudiendo ser reelectos.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
+
+Los vocales a que se refieren los incisos c) y d) de la fracción III del artículo 605 del presente Código, durarán en su encargo un año, pudiendo ser reelectos; respecto de los vocales a que se refiere el inciso e) de la fracción II del artículo 605 del presente Código, durarán en su cargo hasta el término de la Administración Pública Municipal para la que fueron electos y conforme a lo dispuesto por el artículo 620 del presente Código, pudiendo ser reelectos.
 
 Todos los integrantes de la Comisión de Honor y Justicia están obligados a continuar en el ejercicio de su encargo hasta en tanto no sean relevados por nuevos vocales, a excepción de los que son Integrantes del H. Ayuntamiento y del Municipio, los cuáles al dejar de tener los cargos correspondientes dentro del gobierno o dependencias Municipales, serán sustituidos en la Comisión por los nuevos titulares de los cargos
 
@@ -9353,9 +9381,9 @@ c) Un integrante de la Dirección de Tránsito y Movilidad que posea nivel de es
 
 d) Dos integrantes de la Comisión de Seguridad Pública, que serán elegidos democráticamente al interior de la misma; y
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
-e) Dos representantes ciudadanos del Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito, los cuales serán elegidos democráticamente por los integrantes de dicho órgano.
+e) Dos vocales ciudadanos del Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia, los cuales serán elegidos democráticamente por los integrantes de dicho órgano.
 
 Esta comisión sesionará con la presencia del Presidente y al menos la mitad más uno de sus vocales. Cada miembro de la Comisión podrá designar, por escrito, a un representante para que lo supla en las sesiones, los que deberán pertenecer a las mismas áreas y cubrir en su caso, los mismos requisitos.
 
@@ -9485,19 +9513,23 @@ b) El Director de Estado Mayor;
 
 c) El Director de Policía Preventiva;
 
-d) El Director de Tránsito y Movilidad;
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+d) El Director de Movilidad;
 
-e) El Director (a) de la Academia de Policía Municipal;
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
-f) El Director de Prevención del Delito;
+e) El Director del Instituto Superior de Seguridad Pública;
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
+
+f) El Director de Prevención de las Violencias y la Delincuencia;
 
 g) El Director de Asuntos Internos; y
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
-h) Un integrante ciudadano designado por el Consejo Permanente para la Seguridad Ciudadana y Prevención de Adicciones.
+h) Un integrante ciudadano en representación del Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia;
 
 Dichos consejeros contarán con voz y voto, cuya función principal será la de participar en las sesiones para el análisis, discusión y en su caso aprobación de los instrumentos sometidos a su consideración por parte del órgano técnico normativo permanente.
 
@@ -9527,23 +9559,23 @@ Se requerirá para su funcionamiento cuando menos la presencia del Presidente y 
 
 La normatividad interna que al efecto se aprobare, surtirá efectos a los cinco días siguientes al día en que queden fijados en los estrados de avisos de la Secretaría de Seguridad Pública, o de aquel medio de difusión que baste para ser conocidos por el personal de la Secretaría.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MARZO DE 2021)</small>
 
-## TÍTULO QUINTO. Del Consejo Municipal de Consulta y Participación Ciudadana
+## TÍTULO QUINTO. Del Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 619.
 
-El Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito, tendrá como finalidad mejorar la Seguridad en Aguascalientes, mediante un plan permanente, coordinado por un órgano central, responsable de orientar y supervisar el trabajo multidisciplinario y transversal entre las dependencias de (sic) Gobierno Municipal, contando también con la participación ciudadana a efecto de identificar los problemas de seguridad pública que afectan al Municipio y así prevenirlos y combatirlos de manera eficaz mediante el desarrollo e implementación de estrategias que atiendan los factores que motivan el delito, siempre en apego a las Leyes y Reglamentos que conforman el marco jurídico del Municipio y con base en el protocolo que apruebe el propio consejo para su funcionamiento, sesionará de manera trimestral de forma ordinaria, pudiendo hacerlo de manera extraordinaria en las ocasiones que el mismo Consejo lo determine.
+El Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia, tendrá como finalidad mejorar la Seguridad en el Municipio de Aguascalientes, mediante un plan permanente, coordinado por un órgano central, responsable de orientar y supervisar el trabajo multidisciplinario y transversal entre las dependencias del Gobierno Municipal, contando también con la participación ciudadana a efecto de identificar los problemas de seguridad pública que afectan al Municipio y así prevenirlos y combatirlos de manera eficaz mediante el desarrollo e implementación de estrategias que atiendan los factores que generan la delincuencia, siempre en apego a las Leyes y Reglamentos que conforman el marco jurídico del Municipio y con base en los Protocolos, Reglamentos o Planes Permanentes que se aprueben. Para su funcionamiento, sesionará de manera trimestral de forma ordinaria, pudiendo hacerlo de manera extraordinaria en las ocasiones que el mismo Consejo lo determine.
 
-El Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito; se conformará por los siguientes integrantes, quienes contaran con voz y voto:
+El Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia, se conformará por los siguientes integrantes, quienes contaran con voz y voto:
 
 I.- Un Presidente, que será el Presidente Municipal. En todo momento podrá delegar la Presidencia en cualquier integrante del gabinete municipal y contará con voz y voto de calidad.
 
-II.- Un Secretario, que será el Regidor Presidente de la Comisión Permanente de Seguridad Pública.
+II.- Un Secretario, que será el Regidor Presidente de la Comisión Permanente de Seguridad Pública, quien asumirá la Presidencia en caso de ausencia del Presidente Municipal cuando el Presidente así lo considere oportuno.
 
-III.- El Secretario de Seguridad Pública.
+III.- El Secretario de Seguridad Pública Municipal.
 
 IV.- El Secretario del H. Ayuntamiento y Director General de Gobierno.
 
@@ -9551,89 +9583,87 @@ V.- El Secretario de Desarrollo Social.
 
 VI.- El Jefe de la Oficina Ejecutiva del Presidente Municipal.
 
-> <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2019)</small>
-
 VII.- El Presidente del Consejo de la Ciudad.
 
-> <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2019)</small>
+VIII.- El Director del Sistema de Desarrollo Integral de la Familia Municipal.
 
-VIII.- Tres Ciudadanos que atiendan a la convocatoria para integrar el Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito, mayores de edad y que acrediten interés y conocimiento en áreas de seguridad y prevención del delito.
+IX.- El Secretario de Desarrollo Urbano.
 
-> <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2019)</small>
+X.- El Secretario de Comunicación Social.
 
-IX.- Dos Ciudadanos expertos en prevención de adicciones.
+XI.- El Titular del Instituto Municipal de Juventud de Aguascalientes.
 
-> <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2019)</small>
+XII.- El Secretario de Servicios Públicos.
 
-Los integrantes previstos en las fracciones VIII y IX, serán electos por el pleno del Cabildo previa Convocatoria que emita la Comisión Permanente de Seguridad Pública del H. Ayuntamiento, misma que será expedida dentro de los 30 días hábiles posteriores a la integración de la Comisión del ramo.
+XIII.- El Titular del Instituto Municipal de Planeación.
 
-Así mismo el Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito; se conformará por los siguientes integrantes, quienes contaran con voz:
+XIV.- El Titular del Instituto Municipal de la Mujer de Aguascalientes.
 
-I.- El Director del DIF Municipal.
+XV.- El Titular del Instituto Municipal Aguascalentense para la Cultura.
 
-II.- El Secretario de Desarrollo Urbano.
+XVI.- Cinco ciudadanos elegidos por convocatoria pública, mayores de edad, que acrediten interés y conocimientos en áreas de seguridad pública, prevención de la delincuencia, prevención de las violencias, y prevención de adicciones.
 
-III.- El Secretario de Comunicación Social.
+Los integrantes previstos en la fracción XVI, serán electos por el pleno del Cabildo previa (sic)
 
-IV.- El Director del Instituto Municipal de Juventud de Aguascalientes.
+Convocatoria Pública que emita la Comisión Permanente de Seguridad Pública del H. (sic)
 
-V.- El Secretario de Servicios Públicos.
+Ayuntamiento, al inicio de cada Administración Pública Municipal.
 
-VI.- El Director del Instituto Municipal de Planeación.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
-VII.- El Director del Instituto Municipal de la Mujer de Aguascalientes.
+ARTÍCULO 619 BIS.- El Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia, contará para trabajar y operativizar sus determinaciones, con un Comité Técnico, que sesionará en reuniones de trabajo trimestrales de manera ordinaria o en extraordinarias fuera de este caso. Este Comité rendirá informes al Consejo en las sesiones ordinarias de éste, pudiendo citar a integrantes de las diferentes áreas del Municipio para tratar temas relacionados con el funcionamiento transversal del Municipio en atención a sus atribuciones.
 
-VIII.- El Director del Instituto Municipal Aguascalentense para la Cultura.
+El Comité Técnico se formará con los siguientes integrantes:
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+I.- El Jefe de la Oficina Ejecutiva del Presidente Municipal quien lo presidirá.
 
-ARTICULO 619 BIS.- El Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito, contará para trabajar y operativizar sus determinaciones, con un Consejo Técnico, que sesionará en reuniones de trabajo mensuales y rendirá informes al Consejo en las sesiones ordinarias de éste o en las extraordinarias que se le requieran, pudiendo citar a integrantes de las diferentes áreas del Municipio para tratar temas relacionados con el funcionamiento transversal del Municipio en atención a sus atribuciones.
+II.- El Coordinador Jurídico de la Secretaría de Seguridad Pública Municipal, quien fungirá como Secretario Técnico.
 
-El Consejo Técnico se formará con los siguientes integrantes:
+III.- El Regidor Presidente de la Comisión Permanente de Seguridad Pública.
 
-I.- El Regidor Presidente de la Comisión Permanente de Seguridad Pública.
+IV.- El Titular del Estado Mayor.
 
-II.- El Titular del Estado Mayor.
+V.- El Titular de la Dirección de Prevención del Delito.
 
-III.- El Titular de la Dirección de Prevención del Delito.
+VI.- El Titular de Justicia Municipal.
 
-IV.- El Titular de Justicia Municipal.
+VII.- El Titular de la Dirección de Parques y Jardines.
 
-V.- Dirección de Parques y Jardines.
+VIII.- El Titular de la Dirección de Limpia.
 
-VI.- Dirección de Limpia.
+IX.- El Titular de la Dirección de Alumbrado.
 
-VII.- Dirección de Alumbrado.
+X.- El Titular de la Dirección de Conservación y Mantenimiento.
 
-VIII.- Dirección de Conservación y Mantenimiento.
+XI.- El Titular de la Dirección de Reglamentos.
 
-IX.- Dirección de Reglamentos.
+XII.- El Titular del Instituto Municipal de la Mujer de Aguascalientes.
 
-X.- El Director del Instituto Municipal de la Mujer de Aguascalientes.
+XIII.- El Titular del Instituto Municipal Aguascalentense para la Cultura.
 
-XI.- El Director del Instituto Municipal Aguascalentense para la Cultura.
+XIV.- El Titular de la Dirección de Control Urbano.
 
-XII.- El Jefe de la Oficina Ejecutiva del Presidente Municipal.
+XV.- El Titular de la Dirección de Educación, Cultura Física y Deporte.
 
-XIII.- Dirección de Control Urbano.
+XVI.- El Titular de la Dirección de Programas Sociales.
 
-XIV.- Dirección de Educación, Cultura Física y Deporte.
+XVII.- Un representante del Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia; y
 
-XV.- Dirección de Programas Sociales.
+XVIII.- Y quienes el Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia considere pertinentes.
 
-XVI.- Y quienes el Consejo de Seguridad Ciudadana y Prevención del Delito considere pertinentes.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 620.
 
-La vigencia en las funciones de los miembros del Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito a que se refiere este Código subsistirá, para los servidores públicos, el tiempo que permanezcan en el cargo. Los Consejeros Ciudadanos podrán mantenerse en su encargo hasta seis meses posteriores al inicio del nuevo periodo de gobierno, tiempo en el cual podrán ser ratificados o designados otros que los sustituyan.
+La vigencia en las funciones de los miembros del Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia a que se refiere este Código, subsistirá para los servidores públicos, el tiempo que permanezcan en el cargo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+Los Consejeros Ciudadanos podrán mantenerse en su encargo hasta que la Comisión Permanente de Seguridad Pública expida una nueva convocatoria o sean removidos por cuatro de los cinco integrantes de la Comisión Permanente de Seguridad Pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 621.
 
-Es competencia del Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito:
+Es competencia del Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia:
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -9643,17 +9673,17 @@ I. Promover la participación organizada de la sociedad, en actividades relacion
 
 II. Establecer un sistema permanente que permita identificar la percepción de seguridad de la ciudadanía, del que puedan desprenderse conclusiones acerca de los puntos que deban atender las autoridades en seguridad pública para mejorar la percepción del ciudadano;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-III. Integrar un sistema de seguimiento y evaluación de las actividades que se realicen en el marco de los programas de seguridad pública y de prevención del delito, así como de la violencia familiar;
+III.- Integrar un sistema de seguimiento y evaluación de las actividades que se realicen en el marco de los programas de seguridad pública y de prevención de las violencias y la delincuencia;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 IV. Formular propuestas para la elaboración de los programas de seguridad pública, así como la evaluación periódica de estos y otros relacionados;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-V. Evaluar la situación de la seguridad pública en el Municipio y proponer las acciones tendientes a su mejoramiento, considerando la violencia contra las mujeres en la comunidad y las zonas en donde se efectúa.
+V.- Evaluar la situación de la seguridad pública en el Municipio y proponer las acciones tendientes a su mejoramiento, considerando las violencias contra las mujeres en la comunidad y las zonas en donde se efectúa.
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -24846,3 +24876,25 @@ P.O. 18 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DE “REFORMA AL ARTÍCULO 1358, FRACCIÓN VI, INCISO H), Y ADICIÓN DEL INCISO I) DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 ÚNICO: La presente reforma al artículo 1358 fracción VII inciso h) y adición del inciso i) del Código Municipal de Aguascalientes; iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DE LA “ADICIÓN DE LA FRACCIÓN XIII DEL ARTÍCULO 6 Y LA FRACCIÓN IX DEL ARTÍCULO 344 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO: La presente adición de la fracción XIII del artículo 6, y la fracción IX del artículo 344 del Código Municipal de Aguascalientes, iniciaran su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL ARTÍCULO 15 FRACCIÓN XVIII, 605 FRACCIÓN III INCISO E), 606 FRACCIÓN IV INCISO A), FRACCIÓN V Y SEGUNDO PÁRRAFO, 614 FRACCIÓN III INCISO E). 616 FRACCIÓN III INCISO D), E), F) Y H), LA DENOMINACIÓN DEL TÍTULO QUINTO DEL LIBRO QUINTO, PARA PASAR A SER “CONSEJO PERMANENTE DE SEGURIDAD CIUDADANA Y PREVENCIÓN DE LAS VIOLENCIAS Y LA DELINCUENCIA”; 619; 619 BIS; 620 Y 621 PRIMER PÁRRAFO DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+PRIMERO: Las presentes reformas al Código Municipal de Aguascalientes entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO: Las referencias al Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito contenidas en el Código Municipal de Aguascalientes, así como en otras disposiciones reglamentarias, administrativas o contractuales, se entenderán hechas al Consejo Permanente de Seguridad Ciudadana y Prevención de las Violencias y la Delincuencia, según corresponda.
+
+TERCERO: La Secretaría de Seguridad Pública Municipal dentro de los 60 días hábiles siguientes a la entrada en vigor de la presente reforma, deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes, las reformas, adecuaciones, modificaciones, adiciones, Reglamentos, Protocolos o Manuales que se susciten con motivo de la presente reforma y que se encuentren conforme a la presente reforma.
+
+P.O. 15 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA DE LA FRACCIÓN XXXIV Y ADICIÓN DE LA FRACCIÓN XXXV AL ARTÍCULO 15 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, ASÍ MISMO SE EMITE EL REGLAMENTO INTERIOR DEL CONSEJO CONSULTIVO DE DESARROLLO SOCIAL DEL MUNICIPIO DE AGUASCALIENTES”.]
+
+ÚNICO: La presente reforma y adición iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
