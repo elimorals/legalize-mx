@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2021-02-08"
+last_updated: "2021-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -195,43 +195,61 @@ IX.- Designar a Magistrados de una Sala para que transitoriamente integren otra 
 
 X.- Conocer los informes del Consejo de la Judicatura Estatal por lo que respecta a las licencias otorgadas a los Jueces y emitir opiniones de los mismos;
 
-XI.- (DEROGADA, P.O. 6 DE JUNIO DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2021)</small>
 
-XII.- Excitar a los Jueces para que administren pronta y cumplida justicia, de oficio o a moción de las partes interesadas;
+XI.- Excitar a los Jueces para que administren pronta y cumplida justicia, de oficio o a moción de las partes interesadas;
 
-XIII.- Dictar acuerdos en bien de la pronta y eficaz administración de justicia;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-XIV.- (DEROGADA, P.O. 27 DE AGOSTO DE 2012)
+XII.- Dictar acuerdos en bien de la pronta y eficaz administración de justicia;
 
-XV.- (DEROGADA, P.O. 27 DE AGOSTO DE 2012)
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-XVI.- Aplicar a los servidores públicos subalternos del Supremo Tribunal de Justicia las correcciones disciplinarias a que se hagan acreedores;
+XIII.- Aplicar a los servidores públicos subalternos del Supremo Tribunal de Justicia las correcciones disciplinadas a que se hagan acreedores;
 
-XVII.- Recibir las quejas e informes sobre excesos o faltas en que incurran los servidores públicos de la administración de justicia, e imponer las sanciones a que se hayan hecho acreedores aquéllos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2021)</small>
 
-XVIII.- Registrar en el libro correspondiente los oficios que envíen los Notarios Públicos al Supremo Tribunal de Justicia, en cumplimiento de lo ordenado por el Artículo 93 de la Ley del Notariado;
+XIV.- Recibir las quejas e informes sobre excesos o faltas en que incurran los servidores públicos de la administración de justicia, e imponer las sanciones a que se hayan hecho acreedores aquéllos;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2021)</small>
 
-XIX.- Castigar económicamente con extrañamiento, multa hasta por cincuenta veces el valor diario de la unidad de medida y actualización o con suspensión de empleo hasta por quince días, a los Jueces, Secretarios y demás empleados del Ramo, por faltas que cometieren en el desempeño de sus funciones y por aquellos actos que redunden en desprestigio del Poder Judicial, siempre que no importen la comisión de un delito; previa audiencia de parte;
+XV.- Registrar en el libro correspondiente los oficios que envíen los Notarios Públicos al Supremo Tribunal de Justicia, en cumplimiento de lo ordenado por el Articulo 93 de la Ley del Notariado;
 
-XX.- Conceder licencia a los Magistrados que no excedan de treinta días;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-XXI.- Resolver las recusaciones y excusas del Presidente del Supremo Tribunal de Justicia, en los asuntos de la competencia del Pleno del Tribunal;
+XVI.- Castigar económicamente con extrañamiento, multa hasta por cincuenta veces el valor diario de la unidad de medida y actualización o con suspensión de empleo hasta por quince días, a los Jueces, Secretarios y demás empleados del Ramo, por faltas que cometieren en el desempeño sus funciones y por aquellos actos que redunden en desprestigio del Poder Judicial, siempre que no importen la comisión de un delito; previa audiencia de parte;
 
-XXII.- Conocer y resolver las controversias que se susciten entre los miembros de las Salas y las que surjan entre éstas;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
+XVII.- Conceder licencia a los Magistrados que no excedan de treinta días;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
+XVIII.- Resolver las recusaciones y excusas del Presidente del Supremo Tribunal de Justicia, en los asuntos de la competencia del Pleno del Tribunal;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
+XIX.- Conocer y resolver las controversias que se susciten entre los miembros de las Salas y las que surjan entre éstas;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
+XX.- Aprobar el presupuesto anual de egresos del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
+XXI.- Resolver las recusaciones y excusas que por impedimento legal tengan los Magistrados de la Sala Administrativa.
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
+XXII.- Formular los documentos que en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios deban de poner a disposición del público; y
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 XXIII.- Ejercitar las demás facultades que le confieren las Leyes;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+XXIV.- (DEROGADA, P.O. 15 DE MARZO DE 2021)
 
-XXIV.- Aprobar el presupuesto anual de egresos del Poder Judicial; y
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
-
-XXV.- Resolver las recusaciones y excusas que por impedimento legal tengan los Magistrados de la Sala Administrativa.
+XXV.- (DEROGADA, P.O. 15 DE MARZO DE 2021)
 
 XXVI.- (DEROGADA, P.O. 27 DE AGOSTO DE 2012)
 
@@ -2612,3 +2630,15 @@ Los derechos laborales de las y los trabajadores de las instituciones que se vea
 ###### ARTÍCULO NOVENO.
 
 Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
+
+P.O. 15 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 506 POR EL QUE “SE REFORMA EL ARTÍCULO 9°, FRACCIONES XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, Y XXII; Y SE DEROGAN LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 9; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 01 de marzo de 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Judicial deberá realizar las adecuaciones normativas y administrativas necesarias para dar cumplimento al presente Decreto, a más tardar al 31 de diciembre de 2021.
