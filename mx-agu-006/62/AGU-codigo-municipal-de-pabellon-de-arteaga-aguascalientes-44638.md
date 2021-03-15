@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2020-10-12"
+last_updated: "2021-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -317,19 +317,29 @@ IV.- Los Delegados, subdelegados y Comisarios Municipales; y
 
 V.- Los organismos auxiliares.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 15.
 
-Los organismos auxiliares serán honorarios y ejercerán las atribuciones que les confieran las leyes, reglamentos y disposiciones administrativas, siendo los siguientes:
+Los organismos auxiliares serán honoríficos y ejercerán las atribuciones que les confieran las leyes, reglamentos y disposiciones administrativas, siendo los siguientes:
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- El Consejo de Participación Ciudadana y Colaboración Municipal;
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- La Comisión de Planeación para el Desarrollo Municipal;
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- El Consejo Municipal de Protección Civil;
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- El Comité Ciudadano de Control y Vigilancia de la Obra Pública Municipal;
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- El Comité de Desarrollo Urbano y Rural;
 
@@ -345,13 +355,17 @@ VII.- El Consejo de la Crónica Municipal;
 
 VIII.- El Consejo Municipal del Deporte;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-IX.- El Consejo Municipal para la Cultura y las Artes, y
+IX.- El Consejo Municipal para la Cultura y las Artes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2021)</small>
 
-X.- Aquellos Comités o Consejos Ciudadanos que sean previstos en alguna ley o sean aprobados por acuerdo del H. Ayuntamiento.
+X.- El Patronato de Ferias y Fiestas Municipales de Pabellón de Arteaga, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MARZO DE 2021)</small>
+
+XI.- Aquellos Comités o Consejos Ciudadanos que sean previstos en alguna ley o sean aprobados por acuerdo del H. Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -1657,11 +1671,11 @@ II.- De Cabildo Abierto, y
 
 III.- A Distancia.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 71.
 
-Las Sesiones Ordinarias deberán celebrarse cada mes, el día y a la hora en que determine el propio Ayuntamiento a propuesta del Presidente Municipal.
+Las Sesiones Ordinarias deberán celebrarse el segundo viernes de cada mes a la hora en que determine el Ayuntamiento a propuesta del Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
@@ -2689,9 +2703,13 @@ c).- Departamento de Comunicación Social y Relaciones Públicas;
 
 d).- Departamento de Atención a la ciudadanía;
 
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
-e).- Unidad de Transparencia.
+e).- Unidad de Transparencia, y
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+f).- Departamento de Ferias y Fiestas Municipales.
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 13 DE FEBRERO DE 2017)</small>
 
@@ -2805,11 +2823,15 @@ a).- Departamento de Auditoría;
 
 b).- Departamento de Investigación de Responsabilidades Administrativas;
 
-d) (SIC).- Departamento de Sustanciación de Responsabilidades Administrativas, y
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
-e).- Departamento de Resolución de Responsabilidades Administrativas;
+c).- Departamento de Sustanciación de Responsabilidades Administrativas, y
 
-REPUBLICADA Y REUBICADA ANTES FRACCIÓN X [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 15 DE MARZO DE 2021)</small>
+
+d).- Departamento de Resolución de Responsabilidades Administrativas;
+
+(REPUBLICADA Y REUBICADA ANTES FRACCIÓN X [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)
 
 XI.- Sistema para el Desarrollo Integral de la Familia:
 
@@ -2829,9 +2851,17 @@ XI (SIC).- Instituto Pabellonense de las Mujeres:
 
 a).- Dirección;
 
-b).- Coordinación de Programas, y
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
-c).- Coordinación Operativa.
+b).- Departamento de Prevención y Atención a la Violencia contra la Mujer;
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
+
+c).- Departamento de Proyectos y Seguimiento a Programas, y
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+d).- Departamento de Perspectiva de Género.
 
 (REPUBLICADA Y REUBICADA ANTES FRACCIÓN XII [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)
 
@@ -3951,77 +3981,119 @@ X.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del President
 
 #### SECCIÓN DÉCIMA PRIMERA. Del Instituto Pabellonense de las Mujeres
 
-> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 222 BIS A], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 222.
 
-El Instituto Pabellonense de las Mujeres es un organismo municipal descentralizado con personalidad jurídica y patrimonio propio y le corresponde el despacho de los siguientes asuntos:
+El Instituto Pabellonense de las Mujeres es una dependencia de la Administración Pública Municipal a la cual le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 I.- Proponer programas y proyectos orientados a promover el desarrollo integral de las mujeres en el ámbito laboral, educativo, económico, social y cultural en coordinación con las Instancias Federal y Estatal, sectores privados y organizaciones de la sociedad civil;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 II.- Impulsar la creación de fuentes de empleo y el financiamiento de créditos dirigidos a mejorar las condiciones de vida de las mujeres en el municipio, en coordinación con los sectores públicos, privados y asociaciones civiles;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 III.- Impulsar la profesionalización de las mujeres y el acceso a programas sociales, educativos, deportivos y culturales en la Administración Pública Municipal;
 
-IV.- Ejecutar los programas que implemente el Instituto Estatal de la Mujer y sean transferidos al municipio:
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
+IV.- Promover y difundir los programas que implemente el Instituto Estatal de la Mujer;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 V.- Participar en los programas y acciones que emprendan las Instancias Federal y Estatal en materia de combate a la pobreza, discriminación, migración, trata de personas, violencia y exclusión de las mujeres, en las comunidades rurales;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 VI.- Promover, en coordinación con las instancias educativas del municipio, cursos, y talleres de capacitación en materia de género, igualdad entre mujeres y hombres y prevención de la violencia familiar;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 VII.- Establecer mecanismos que favorezcan la erradicación de la violencia de género en instituciones educativas, centros laborales privados y públicos, mediante convenios o acuerdos establecidos para tal efecto;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 VIII.- Difundir en el municipio los contenidos de las leyes de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes, y sus reglamentos, así como de los instrumentos internacionales en materia de los derechos de las mujeres;
 
-IX.- Elaborar el Programa Municipal de Atención y Participación de las Mujeres de acuerdo a la metodología que establezca el Plan de Desarrollo Municipal;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
+IX.- Elaborar y dar seguimiento al protocolo de atención a los casos de discriminación, violencia, acoso y hostigamiento sexual en contra de las mujeres del municipio de Pabellón de Arteaga;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 X.- Capacitar en materia de género, derechos humanos de las mujeres y violencia familiar, a las servidoras y servidores públicos de las dependencias municipales;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XI.- Brindar orientación a las Mujeres que así lo requieran, por haber sido víctimas de violencia, maltrato o cualquier otra afección tendiente a discriminarlas;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XII.- Promover la perspectiva de género, mediante la participación de las mujeres en la toma de decisiones respecto al diseño de los planes y programas del Gobierno Municipal;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XIII.- Coadyuvar, con el Municipio, para diseñar el programa operativo anual en el apartado relativo a las acciones gubernamentales a favor de las mujeres;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XIV.- Fungir como órgano de apoyo del Ayuntamiento en lo referente a las mujeres y la equidad de género;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XV.- Promover la celebración de convenios con perspectiva de género entre el Ayuntamiento y otras autoridades que coadyuven en el logro de sus objetivos;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XVI.- Coordinar, entre el Municipio y el Gobierno del Estado, la elaboración de estudios y diagnósticos sobre la mujer, a fin de intercambiar datos, estadísticas y registros;
 
-XVII.- Promover la capacitación y actualización de servidores públicos;
+XVII.- (DEROGADA, P.O. 15 DE MARZO DE 2021)
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XVIII.- Promover ante las autoridades del sector salud, los servicios integrales, cálidos y oportunos; antes, durante y después del embarazo, así como promover campañas de prevención y atención al cáncer de mama y cervicouterino, VIH/SIDA, infecciones de trasmisión sexual y aquellas que registren mayores índices de morbimortalidad en el municipio;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XIX.- Impulsar la realización de programas de atención para la mujer de la tercera edad y otros grupos vulnerables;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XX.- Promover, ante la instancia que corresponda, las modificaciones pertinentes a la legislación estatal o a la reglamentación municipal, a fin de asegurar el marco jurídico que garantice la igualdad de oportunidades en materia de educación, salud, capacitación, ejercicio de derechos, trabajo y remuneración;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XXI.- Coadyuvar en el combate y eliminación de todas las formas de violencia de género, especialmente la ejercida en contra de la mujer y la violencia familiar;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XXII.- Diseñar los mecanismos para el cumplimiento y vigilancia de las políticas de apoyo a la participación ciudadana de las mujeres en los diversos ámbitos del desarrollo municipal;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XXIII.- Promover una cultura social de respeto a los derechos humanos y la dignidad de las mujeres y los hombres, que tienda a eliminar los estereotipos de género;
 
-XXIV.- Promover el estudio e investigación de las causas sociales de la violencia por razón de género, y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-XXV.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal o le sean delegadas por las instancias federal o estatal.
+XXIV.- Promover el estudio e investigación de las causas sociales de la violencia por razón de género;
 
-> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 222 BIS B], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2021)</small>
 
-ARTICULO 222 BIS.- El patrimonio del Instituto estará integrado por:
+XXV.- Administrar, manejar y operar el refugio para mujeres víctimas de violencia;
 
-I.- La partida que se establezca en el Presupuesto de Egresos del Municipio para el Ejercicio Fiscal que corresponda;
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2021)</small>
 
-II.- Los bienes muebles, inmuebles, obras, servicios, derechos y obligaciones que le asignen y transmitan, en su caso, los Gobiernos Federal, Estatal y Municipales o cualquier otra entidad pública;
+XXVI.- Administrar, manejar y operar el albergue municipal, y
 
-III.- Las donaciones, herencias, legados y aportaciones que le otorgan los particulares o cualquier institución pública o privada;
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MARZO DE 2021)</small>
 
-IV.- Los fondos públicos o privados obtenidos para el financiamiento de programas específicos;
+XXVII.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal o le sean delegadas por las instancias federal o estatal.
 
-V.- Las acciones, derechos o productos que adquiera por cualquier otro título legal, y
-
-VI.- Los demás bienes, servicios, derechos y aprovechamientos que fijen las Leyes y Reglamentos o que provengan de otros fondos o aportaciones.
+ARTICULO 222 BIS.- (DEROGADO, P.O. 15 DE MARZO DE 2021)
 
 ARTICULO 222 BIS A.- (DEROGADO, P.O. 4 DE MARZO DE 2019)
 
@@ -5565,17 +5637,17 @@ Cada uno de los integrantes nombrará a un suplente.
 
 Dentro de los 60 días de iniciada cada Administración Municipal, el Presidente Municipal, proveerá a la integración de este Comité.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 343.
 
-El Comité de Adquisiciones, sesionará cuantas veces sea necesario, previa convocatoria por escrito, con anticipación de 24 horas, que formule el Secretario Ejecutivo del mismo, debiéndose señalar el Orden del Día, a que se sujetará la sesión.
+El Comité de Adquisiciones sesionará cuantas veces sea necesario, previa convocatoria por escrito que formule el Presidente del mismo con anticipación de 24 horas, debiéndose señalar el orden del día a que se sujetará la sesión.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 344.
 
-Para que tengan validez las decisiones del Comité, será necesario el voto favorable de la mayoría de los integrantes del mismo; en caso de empate, el Presidente Municipal tendrá voto de calidad.
+Para que tengan validez las decisiones del Comité será necesario el voto favorable de la mayoría de los integrantes del mismo; en caso de empate, el Presidente tiene voto de calidad.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -5583,87 +5655,157 @@ Para que tengan validez las decisiones del Comité, será necesario el voto favo
 
 Las sesiones del comité se realizarán en el lugar que se indique en la convocatoria, debiéndose levantar un acta por el Secretario Ejecutivo del mismo, a la que se agregarán los documentos relacionados con las decisiones tomadas.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 346.
 
-En la primera sesión del Comité de Adquisiciones, se darán a conocer los nombres de las personas que fungirán como titulares y los suplentes designados por éstos.
+En la primera sesión del Comité de Adquisiciones de cada nueva administración se darán a conocer los nombres de las personas que fungirán como titulares y los suplentes designados por éstos.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 347.
 
-Son facultades del Comité de Adquisiciones, las siguientes:
+El Comité tendrá las siguientes atribuciones:
 
-I.- Seleccionar al proveedor de los bienes y servicios de cada adquisición, hecha a través del procedimiento de invitación o licitación pública;
+I.- Promover que la información se procese de preferencia en sistemas computarizados;
 
-II.- Aplicar políticas, sistemas, procedimientos y normas que regulen las adquisiciones, las cuales deberán plasmarse, analizarse y aprobarse por todos los miembros del Comité;
+II.- Resolver sobre los casos de excepción a licitar públicamente la contratación de adquisición o arrendamiento de bienes muebles y servicios previstos en el artículo 62 del Reglamento de Adquisiciones, Arrendamientos y Servicios del municipio, cuando el motivo exceda la cantidad de doscientos cuarenta mil pesos;
 
-III.- Elaborar y aprobar el manual de integración y funcionamiento del Comité;
+III.- Fomentar la homologación y compatibilidad de los bienes y servicios a fin de simplificar las tareas de mantenimiento y servicio;
 
-IV.- Elaborar programas de adquisiciones, de acuerdo a los planes y programas Municipales;
+IV.- Las demás que le sean conferidas en el Reglamento de Adquisiciones, Arrendamientos y Servicios del municipio de Pabellón de Arteaga.
 
-V.- Solicitar a las Dependencias Usuarias, durante los primeros dos meses de cada año, el programa anual de adquisiciones con el fin de Planear, Organizar, Dirigir, Implementar, Controlar y Evaluar las adquisiciones consolidadas Municipales, y así procurar obtener economías a escala;
-
-VI.- Integrar y conservar actualizado el padrón de proveedores;
-
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2020)</small>
-
-VII.- Expedir las convocatorias, de acuerdo a lo establecido en el Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de Pabellón de Arteaga y en el presente Código, aprobando los plazos de los actos de las licitaciones públicas y Concursos por invitación, y
-
-VIII.- Las demás que le asigne el H. Ayuntamiento y el Presidente Municipal.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 348.
 
-Son obligaciones del Secretario Ejecutivo del Comité, las siguientes:
+El Secretario Técnico tendrá las siguientes atribuciones:
 
-I.- Convocar a sesiones a los integrantes del Comité;
+I.- Solicitar a las Unidades Ejecutoras de Gasto los documentos que integren los expedientes que se someterán a la aprobación del Comité y en su caso verificar que se encuentren completos para efectos administrativos;
 
-II.- Presidir el desarrollo de las sesiones del Comité;
+II.- Elaborar el orden del día correspondiente a cada reunión, las actas de sesión, los documentos que contengan la información de los casos que se dictaminarán y los demás documentos que integren los expedientes que se someterán a la aprobación del Comité.
 
-III.- Autorizar, conjuntamente con el Presidente Municipal, las adquisiciones urgentes;
+III.- Someter los expedientes respectivos a la aprobación del Comité;
 
-IV.- Rendir informe trimestral al Cabildo, respecto a la conclusión de los casos dictaminados, así como los resultados generales de las adquisiciones, arrendamientos y servicios; y
+IV.- Hacer llegar a cada uno de los miembros del Comité el expediente correspondiente a cada reunión que se cite;
 
-V.- Las demás que le sean asignadas por el Cabildo, por el Presidente Municipal o por el Comité.
+V.- Llevar a cada una de las reuniones del Comité la documentación adicional que pueda requerirse;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+VI.- Ejercer las facultades de decisión del Presidente del Comité en ausencia de éste y su suplente;
+
+VII.- Llevar control y resguardo de las actas de las reuniones del Comité y de los expedientes correspondientes;
+
+VIII.- Dar seguimiento a las resoluciones emitidas por el Comité;
+
+IX.- Las demás que le confiera el Comité o la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 349.
 
-Tratándose de adquisiciones por invitación, para que una cotización pueda ser discutida y en su caso aprobada por el Comité, debe cubrir los siguientes requisitos:
+Las adquisiciones de bienes y servicios se realizarán siempre y cuando:
 
-I.- Que no sea una compra efectuada fuera del procedimiento, esto es, que el usuario realice motu proprio y en forma directa la adquisición, y posteriormente solicite ante el Departamento de Compras sólo el trámite administrativo para pago;
+I.- Se justifique la compra;
 
-II.- Que la solicitud de adquisición se formalice a través de una requisición de compras, y que ésta sea registrada exclusivamente ante el Departamento de Control Patrimonial;
+II.- Sea oportuna la compra con relación a los recursos financieros;
 
-III.-Que sea cotizada por el Departamento de Control Patrimonial, en apego al sistema de compras establecido y autorizado;
+III.- Sea oportuna la prestación de servicios;
 
-IV.- Que el Departamento de Control Patrimonial entregue la documentación correspondiente al Secretario Ejecutivo del Comité, con anticipación a la sesión en la que se vaya a discutir;
+IV.- Exista una partida expresamente señalada en el presupuesto para tal fin, y
 
-V.- Que el Secretario Ejecutivo del Comité, entregue un estado comparativo que ampare por lo menos tres cotizaciones, salvo el caso en el que no exista en el Municipio igual número de proveedores, o se trate de Artículos con precio controlado; y
+V.- Se apruebe la compra por la mitad más uno de los integrantes del Comité.
 
-VI.- Que las cotizaciones provengan de proveedores inscritos previamente en el Padrón Municipal de Proveedores, a excepción hecha de proveedores únicos o que la compra se requiera de inmediato, o cuando exista ventaja competitiva significativa en el precio y/o servicio.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+ARTICULO 349 BIS.- Las adquisiciones, arrendamientos y servicios se podrán contratar mediante los siguientes procedimientos:
+
+I.- Licitación pública, cuando la contratación exceda de $1,200,000.00;
+
+II.- Invitación a cuando menos tres personas, cuando la contratación supere los $240,000.00 y sea inferior a la cantidad de $1,200,000.00;
+
+III.- Adjudicación directa por cuadro comparativo cuando la contratación sea inferior a $240,000.00,
+
+IV.- Adjudicación directa prevista en el artículo 62 del reglamento, y
+
+V.- Compra urgente autorizada por el presidente municipal.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+ARTICULO 349 TER.- La compra urgente autorizada por el presidente municipal, solo se tramitará para la adquisición de bienes y servicios que sean necesarios para hacer frente a contingencias ocasionadas por caso fortuito, fuerza mayor, cuando se ponga en peligro la seguridad, la salud pública del municipio, de algún servicio público o que de no contar con los mismos se pueda ver afectado el normal desempeño o funcionamiento de las dependencias de la administración pública municipal.
+
+Bastará con la solicitud presentada por la dependencia, en donde se justifique fundamente y motive los extremos previstos en el párrafo anterior ante la Dirección la cual de manera mancomunada con el presidente municipal en su caso emitirá la autorización correspondiente.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+ARTICULO 349 QUÁTER.- Las contrataciones de adquisiciones, arrendamientos o prestación de servicios no podrán fraccionarse para simular y evadir los topes establecidos en este Reglamento, considerando que el presupuesto de cada dependencia se ejercerá por cada una de éstas y no de manera consolidada a nivel municipal, salvo los casos en que la Dirección así lo determiné. Los montos máximos establecidos en el presente artículo serán considerados sin el Impuesto al Valor Agregado.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 350.
 
-Las adquisiciones de bienes y servicios, se realizarán bajo las siguientes bases:
+En los procedimientos de contratación mediante invitación a cuando menos tres personas se invitará a participar a los proveedores inscritos en el Padrón Único de Proveedores cuyas actividades comerciales registradas ante el Servicio de Administración Tributaria estén relacionadas con los bienes o servicios objeto del contrato a celebrarse.
 
-I.- Que se justifique la compra;
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
 
-II.- Que sea oportuna la compra con relación a los recursos financieros;
+ARTÍCULO 350 BIS.- Previo al inicio de los procedimientos de contratación previstos en las fracciones I y II del artículo 39 del Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio, el Departamento de Compras y Servicios Generales, dentro del padrón de proveedores, deberá solicitar las cotizaciones respecto del bien, arrendamiento o servicio objeto de la contratación, a efecto de buscar las mejores condiciones para el Municipio.
 
-III.- Que sea oportuna la prestación de servicios;
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
 
-IV.- Que exista una partida expresamente señalada en el presupuesto para tal fin; y
+ARTÍCULO 350 TER.- Tratándose de adquisiciones por invitación, para que una cotización pueda ser discutida y en su caso aprobada por el Comité, debe cubrir los siguientes requisitos:
 
-V.- Que por lo menos se apruebe la compra por la mitad más uno de los integrantes del Comité.
+I.- Que no sea una compra efectuada fuera del procedimiento, esto es, que el usuario realice motu proprio y en forma directa la adquisición, y posteriormente solicite ante el Departamento de Compras y Servicios Generales sólo el trámite administrativo para pago;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+II.- Que la solicitud de adquisición se formalice a través de una requisición de compras, y que ésta sea registrada exclusivamente ante el Departamento de Compras y Servicios Generales de la Dirección de Finanzas y Administración.
+
+III.- Que sea cotizada por el Departamento de Compras y Servicios Generales de la Dirección de Finanzas y Administración, en apego al sistema de compras establecido y autorizado;
+
+IV.- Que el Departamento de Compras y Servicios Generales entregue la documentación correspondiente al Secretario Técnico del Comité, con anticipación a la sesión en la que se vaya a discutir;
+
+V.- Que el Secretario Técnico del Comité, reciba y entregue al Presidente del Comité, por lo menos tres cotizaciones, salvo el caso en el que no exista en el Municipio igual número de proveedores, o se trate de Artículos con precio controlado, y
+
+VI.- Que las cotizaciones provengan de proveedores inscritos previamente en el Padrón Municipal de Proveedores, a excepción hecha de proveedores únicos o que la compra se requiera de inmediato, o cuando exista ventaja competitiva significativa en el precio y/o servicio. Se podrá seguir el procedimiento de invitación a cuando menos tres personas por excepción cuando se presenten algunos de los siguientes supuestos:
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+ARTÍCULO 350 QUÁTER.- Se podrán contratar adquisiciones, arrendamientos o servicios por adjudicación directa, cuando se esté en alguno de los siguientes casos:
+
+I.- Existan razones técnicas, científicas o legales justificadas para la adquisición, arrendamiento de bienes muebles o contratación de servicios de marca determinada o bienes usados;
+
+II.- Se trate de adquisiciones urgentes de bienes perecederos, granos, productos alimenticios, suplementos alimenticios, agua embotellada, servicio de alimentos y banquetes que podrá incluir el mobiliario, logística, personal y lugar donde se organizará el evento;
+
+III.- Cuando no existan bienes o servicios alternativos o sustitutos técnicamente razonables, o bien, cuando en el mercado sólo exista un posible oferente o el contrato sólo puede celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
+
+IV.- Cuando se hubiere rescindido un contrato, en cuyo caso se podrá adjudicar al proveedor que haya obtenido el segundo o ulteriores lugares, siempre que la diferencia en precio con respecto a la proposición inicialmente adjudicada no sea superior a un margen del diez por ciento. Tratándose de contrataciones en las que la evaluación se haya realizado mediante puntos y porcentajes, se podrá adjudicar al segundo o ulterior lugar, dentro del referido margen;
+
+V.- Cuando de una situación real, peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona del Municipio;
+
+VI.- Cuando existan circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes, debidamente justificados;
+
+VII.- Cuando derivado de caso fortuito o fuerza mayor, no sea posible obtener bienes o servicios mediante el procedimiento de licitación pública en el tiempo requerido para atender la eventualidad de que se trate, en este supuesto las cantidades o conceptos deberán limitarse a lo estrictamente necesario para afrontarla;
+
+VIII.- Cuando se trate de la adquisición de los bienes o servicios que, por su propia naturaleza, en caso de no contar con ellos, se pueda ver afectado el normal desempeño o funcionamiento de cualquiera de las dependencias de la administración municipal;
+
+IX.- Cuando se haya declarado desierta una licitación pública, siempre que se mantengan los requisitos establecidos en las bases de la licitación cuyo incumplimiento haya sido considerado como causa de desechamiento por afectar directamente la solvencia de las proposiciones;
+
+X.- Cuando se trate de servicios de consultoría, asesorías, estudios e investigaciones cuya difusión pudiera afectar el interés público o comprometer información de naturaleza confidencial para los sujetos de la Ley según corresponda, o información confidencial y/o reservada en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Aguascalientes;
+
+XI.- Se trate de adquisiciones, arrendamientos o servicios cuya contratación se realice con campesinos o grupos urbanos marginados siempre que las Unidades Ejecutoras de Gasto, contraten directamente con los mismos o con las personas morales constituidas por ellos;
+
+XII.- Se trate de servicios de mantenimiento, conservación, restauración y reparación de bienes en los que no sea posible precisar su alcance, establecer el catálogo de conceptos y demás bienes necesarios para tal efecto; así como las cantidades de trabajo o determinar las especificaciones correspondientes;
+
+XIII.- El objeto del contrato sea el diseño y fabricación de un bien que sirva como prototipo para efectuar las pruebas que demuestren su funcionamiento. En estos casos las Unidades Ejecutorias de Gasto deberán pactar que los derechos sobre el diseño, uso o cualquier otro derecho exclusivo, se constituyan a favor del Municipio. De ser satisfactorias las pruebas, se formalizará el contrato para la producción de mayor número de bienes necesarios para cubrir las necesidades de la entidad, sin exceder del período de la administración;
+
+XIV.- Cuando se trate de adquisiciones que resulten de la elección de la opción terminal correspondiente en los contratos de arrendamiento financiero.
+
+XV.- Cuando se trate de bienes o servicios adjudicados mediante licitación pública siempre que se tenga contrato vigente celebrado con el proveedor y acepte otorgar los mismos bienes o servicios en iguales condiciones en cuanto a características y calidad de los bienes o servicios. En este caso el precio unitario no podrá ser superior al cinco por ciento del precio unitario asentado en el contrato previamente celebrado y la fecha de la nueva cotización. La dictaminación de la procedencia de la contratación y de que ésta se ubica en el supuesto contenido en la fracción VII, podrá hacerse de manera directa por la Dirección a través del Departamento de Compras y Servicios Generales.
+
+XVI.- Se acepte la adquisición de bienes o prestación de servicios a título de dación en pago, en los términos de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+ARTÍCULO 350 QUINQUIES.- El dictamen de la procedencia de la contratación y de que ésta se ubica en alguno de los supuestos antes citados, corresponderá a la Dirección cuando el monto de la adjudicación no superé la cantidad de doscientos cuarenta mil pesos, en caso de que exceda dicha cantidad, será competencia del Comité de Adquisiciones.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 351.
 
@@ -5685,21 +5827,67 @@ VII.- El tiempo y condiciones de entrega; y
 
 VIII.- Disponibilidad de refacciones, para el caso de adquisición de equipo.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 352.
 
 Será requisito indispensable para la selección del proveedor, que éste se encuentre previamente inscrito en el Padrón Municipal de Proveedores.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+Tratándose del procedimiento de Adjudicación Directa no será necesario que el proveedor se encuentre registrado en el Padrón de Proveedores, sin embargo, su actividad comercial registrada ante el Servicio de Administración Tributaria deberá estar relacionada con los bienes o servicios objeto del contrato a celebrarse.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+ARTÍCULO 352 BIS.- Para su inscripción en el Padrón los interesados deberán cumplir con los siguientes requisitos:
+
+A) Personas físicas:
+
+I.- Solicitud en el formato aprobado por la Dirección de Finanzas y Administración debidamente llenado y firmado;
+
+II.- Copia del documento oficial que acredite nacionalidad e identificación vigente;
+
+III.- Instrumento público con el que acredite la personalidad y copia de identificación oficial vigente, en caso de ser representante legal;
+
+IV.- Constancia de situación fiscal reciente;
+
+V.- Opinión de cumplimiento Positiva de obligaciones fiscales ante el SAT y ante el IMSS recientes;
+
+VI.- Comprobante de domicilio fiscal;
+
+VII.- Relación de productos y servicios de acuerdo a su constancia de situación fiscal. (Catálogo de productos);
+
+VIII.- Copia de factura CFDI, (a nombre de Municipio de Pabellón de Arteaga, con valor de un peso, conforme lo establecen los artículos 29 y 29 A del Código Fiscal de la Federación), y
+
+IX.- Escrito de manifestación bajo protesta de decir verdad, de no desempeñar empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés.
+
+B) Personas Morales:
+
+I.- Solicitud en el formato aprobado por la Dirección de Finanzas y Administración debidamente llenado y firmado;
+
+II.- Original o copia certificada y copia simple para su cotejo del acta constitutiva debidamente inscrita en el Registro Público de la Propiedad y de Comercio, así como acreditar con el instrumento público respectivo vigente de la personalidad de su representante legal;
+
+III.- Poder del Representante Legal en original y copia simple para su cotejo;
+
+IV.- Carta de protesta de decir verdad en hoja membretada firmada por el Representante Legal que contenga lo siguiente: Manifestar que entrego copia de las escrituras públicas donde conste el acta constitutiva y las escrituras públicas donde fueron otorgadas las facultades como representa legal, protesta de decir verdad, que no está sujeto a un procedimiento de concurso mercantil o quiebra, liquidación escisión o fusión o cualquier otro procedimiento de disolución de la sociedad y que no ha sufrido modificaciones o reformas a la constitutiva de la sociedad en cuanto a su objeto social;
+
+V.- Domicilio legal en el estado en caso de proveedores foráneos, y
+
+VI.- Manifestación bajo protesta de decir verdad de que los socios o accionistas que ejerzan control sobre la sociedad, no desempeñar empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés.
+
+No se le dará de alta como Proveedor del si la información y documentos requeridos no están completos y vigentes a la fecha de su recepción.
+
+Las personas morales y/o físicas que pretendan arrendar inmuebles, además de lo anterior señalado deberán anexar la escritura pública del inmueble en original y copia simple para su cotejo.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 353.
 
-Para ser inscrito en el Padrón, se presentará por escrito la solicitud ante el Secretario Ejecutivo del Comité y éste resolverá en un término máximo de 15 días, sin que proceda recurso alguno contra dicha resolución.
+La Dirección, resolverá sobre la inscripción o modificación en el Padrón, siempre y cuando el Proveedor entregue en el Departamento de Compras y Servicios Generales el formato de registro debidamente llenado y toda la documentación completa y correcta que se requiere integrar en su expediente, en caso contrario se le tendrá por no presentada y no podrá emitirse su constancia de registro en tanto no cumpla con lo requerido.
+
+En caso de negativa, ésta se comunicará por escrito fundando y motivando las razones de la misma.
 
 Asimismo, se procederá a la cancelación del registro al proveedor que solicite la declaración de quiebra, concurso o suspensión de pagos o al que no cumpla con los términos y condiciones de un pedido o contrato.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 354.
 
@@ -5713,17 +5901,17 @@ III.- Los campesinos y ejidatarios; y
 
 IV.- Las Sociedades Cooperativas.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 355.
 
 Las decisiones del Comité de Adquisiciones, tienen el carácter de definitivas y sobre ellas no procede recurso alguno.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 356.
 
-Todas las adquisiciones se sujetaran a lo dispuesto por la Ley Patrimonial del Estado, el presente capítulo y la Ley de Adquisiciones y Obras Públicas Federal, sin perjuicio de la aplicación supletoria señalada específicamente.
+Todas las adquisiciones se sujetaran a lo dispuesto en el Reglamento de Adquisiciones de Bienes, Arrendamientos y Servicios del Municipio de Pabellón de Arteaga, el presente capítulo y de manera supletoria a la Ley de Adquisiciones, Arrendamiento y Servicios del Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -9475,7 +9663,7 @@ La CAPAPA contará con un Consejo Consultivo que se integrará con siete persona
 
 - Club Rotario;
 
-- Patronato de la Feria; y
+- (DEROGADO, P.O. 15 DE MARZO DE 2021)
 
 - Un representante de los usuarios, quien a juicio del Consejo Directivo, deberá ser invitado a propuesta del Presidente.
 
@@ -24683,7 +24871,7 @@ Los toros para forcados podrán estar sin puntas, embolados o cubrir los cuernos
 
 Del Patronato de Ferias y Fiestas Municipales de Pabellón de Arteaga, Ags.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 1698.
 
@@ -24709,7 +24897,7 @@ VI.- EXPOSITORES: Las personas físicas o morales y los organismos públicos y p
 
 VII.- FERIANTES: Las personas físicas o morales que realicen la actividad de comercio y/o servicio en las fiestas y feria del Municipio de Pabellón de Arteaga.
 
-VIII.- TESORERÍA: La tesorería del Patronato;
+VIII.- (DEROGADA, P.O. 15 DE MARZO DE 2021)
 
 IX.- PERÍMETRO FERIAL: Las áreas destinadas a la Feria o Fiestas, determinadas por el ayuntamiento; y
 
@@ -24741,47 +24929,39 @@ VI.- Los Comités.
 
 ###### ARTICULO 1701.
 
-Para la organización de las diferentes ferias y fiestas patronales y populares en el Municipio de Pabellón de Arteaga, se crea un organismo público descentralizado de la Administración Pública Municipal denominado “Patronato de Ferias y Fiestas Municipales de Pabellón de Arteaga, Ags.”
+Para la organización de las diferentes ferias y fiestas patronales y populares en el Municipio de Pabellón de Arteaga, se crea un organismo auxiliar de participación ciudadana denominado “Patronato de Ferias y Fiestas Municipales de Pabellón de Arteaga, Ags.”
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 1702.
 
-Para todos los efectos legales, el Patronato tiene personalidad jurídica, patrimonio propio y domicilio en la ciudad de Pabellón de Arteaga, Aguascalientes.
+Para todos los efectos legales, el Patronato será un organismo de concertación y coordinación de los sectores público, social y privado.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 1703.
 
-Es objeto del Patronato la organización, fomento y comercialización de la “Feria Regional de la Revolución Mexicana de Pabellón de Arteaga, Aguascalientes”, así como de las demás fiestas patronales y populares que se celebren en el municipio; estas últimas en coordinación con los comités.
+Es objeto del Patronato la organización, fomento y promoción de la “Feria Regional de la Revolución Mexicana de Pabellón de Arteaga, Aguascalientes”, así como de las demás fiestas patronales y populares que se celebren en el municipio; estas últimas en coordinación con los comités.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 1704.
 
-El patrimonio del Patronato se integra con:
+El Patronato podrá promover la cooperación de los diversos sectores público, social y privado, misma que podrá darse en dinero o en especie, para la realización de las diversas ferias y fiesta patronales y populares, y vigilará el debido ejercicio de los recursos que se aporten.
 
-I.- Los bienes muebles e inmuebles, derechos y obligaciones que le asigne y transmita el gobierno Federal, Estatal o Municipal y los que adquiera por cualquier otro título legal;
-
-II.- Las herencias o legados que en bienes o en efectivo le otorguen los particulares o cualquier institución de beneficencia;
-
-III.- Los subsidios o aportaciones que en su favor hagan los Gobiernos Federal, del Estado y del Municipio;
-
-IV.- Los recursos que se obtengan derivados de sus actividades, y
-
-V.- Las acciones, productos o derechos que adquiera por cualquier otro título legal.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 1705.
 
-El Patronato se compone de un Presidente, un Secretario Técnico, un Tesorero, un comisario y vocales.
+El Patronato se compone de un Presidente, un Secretario Técnico y vocales.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 1706.
 
-El Presidente, el Tesorero y el Secretario Técnico serán propuestos por el Presidente Municipal y ratificados por el Ayuntamiento.
+El Presidente será propuesto por el Presidente Municipal y ratificados por el Ayuntamiento.
+
+El Secretario Técnico será el Jefe del Departamento de Ferias y Fiestas Municipales.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -24815,7 +24995,9 @@ I.- Organizar cada año la “Feria Regional de la Revolución Mexicana de Pabel
 
 II.- Organizar las diversas fiestas patronales y populares del Municipio, en coordinación con los comités de cada una de ellas;
 
-III.- Aprobar para bien de la feria, los convenios, contratos, pedidos o acuerdos que deban celebrarse con terceros en materia de obras públicas, adquisiciones, arrendamientos y prestación de servicios;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
+III.- Aprobar los convenios, contratos, pedidos o acuerdos que deba celebrar el municipio con terceros en materia de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con las ferias y fiestas municipales;
 
 IV.- Coadyuvar con las autoridades civiles, educativas y religiosas, en coordinación con los comités, en la organización, preparación y desarrollo de las fiestas patronales y populares;
 
@@ -24829,11 +25011,17 @@ VIII.- Fijar las tarifas que deban aplicarse por el uso del suelo, y por la pres
 
 IX.- Vigilar que las empresas que proporcionen diversión y esparcimiento a la niñez y a las familias ofrezcan sus servicios a precios accesibles a la economía popular, por lo que las tarifas que les fije el Patronato deberán ser consideradas en forma especial;
 
-X.- Fijar las tarifas, gravámenes o exenciones en su caso, que sean de la competencia del Municipio y que deban aplicarse por servicios y otros espectáculos que se relacionen directamente con la Feria y las fiestas;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-XI.- Recaudar las cantidades que correspondan por los conceptos a que se refieren las fracciones VIII y X de esta artículo;
+X.- Fijar las tarifas, gravámenes o exenciones en su caso, que sean de la competencia del Municipio y que deban aplicarse por servicios y otros espectáculos que se relacionen directamente con la Feria y las fiestas, y
 
-XII.- Celebrar reuniones ordinarias cada mes y extraordinarias, cuando exista algún asunto que lo amerite;
+XI.- (DEROGADA, P.O. 15 DE MARZO DE 2021)
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
+XII.- Celebrar reuniones ordinarias cada tres meses y extraordinarias, cuando exista algún asunto que lo amerite, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE MARZO DE 2021)</small>
 
 XIII.- Las demás que le sean encomendadas por el Presidente Municipal o por el Ayuntamiento.
 
@@ -24849,27 +25037,33 @@ Los acuerdos del patronato se toman por mayoría de votos de sus integrantes, en
 
 Son facultades y atribuciones del Presidente del Patronato:
 
-I.- Representar legalmente al Patronato;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-II.- Celebrar toda clase de actos y contratos inherentes al objeto del Patronato;
+I.- Representar administrativamente al Patronato;
 
-III.- Ejercer facultades de administración, pleitos y cobranzas y aquellas que requieran de autorización especial según otras disposiciones legales;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-IV.- Formular querellas y otorgar perdón;
+II.- Celebrar toda clase de acuerdos y convenios inherentes al objeto del Patronato;
 
-V.- Ejercer y desistirse de acciones judiciales, inclusive en el juicio de amparo;
+III.- (DEROGADA, P.O. 15 DE MARZO DE 2021)
 
-VI.- Comprometerse en asuntos de arbitraje y celebrar transacciones;
+IV.- (DEROGADA, P.O. 15 DE MARZO DE 2021)
+
+V.- (DEROGADA, P.O. 15 DE MARZO DE 2021)
+
+VI.- (DEROGADA, P.O. 15 DE MARZO DE 2021)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE MARZO DE 2021)</small>
 
 VII.- Proponer el programa general de festejos para la organización de la “Feria Regional de la Revolución Mexicana de Pabellón de Arteaga, Aguascalientes”;
 
-IX.- Proponer el nombramiento del personal técnico y administrativo necesario, la fijación de sueldos y demás prestaciones conforme al presupuesto del Patronato:
+IX.- (DEROGADA, P.O. 15 DE MARZO DE 2021)
 
 X.- Convocar a los integrantes del Patronato y de los comités organizadores de los diferentes festejos, a las sesiones que estime necesarias, en las que el propio Presidente propondrá los temas de debate;
 
 XI.- Tomar los acuerdos que sean propios y acordes a la “Feria Regional de la Revolución Mexicana de Pabellón de Arteaga, Aguascalientes” en su organización y preparación para su desarrollo, con los demás miembros del Patronato y coordinadores que sea necesario escuchar en coordinación con el Secretario Técnico;
 
-XII.- Expedir los diversos nombramientos de los miembros del Patronato y de los Comités, firmados en unión del Secretario Técnico; y
+XII.- (DEROGADA, P.O. 15 DE MARZO DE 2021)
 
 X.- Establecer los sistemas de control necesarios para alcanzar las metas y objetivos propuestos.
 
@@ -24895,11 +25089,9 @@ VII.- Suplir al Presidente en sus ausencias temporales, y
 
 V.- Las demás que le asigne el Patronato, el Presidente y el presente Título.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
 ###### ARTICULO 1713.
 
-El Tesorero del patronato administrará los ingresos que se recaben por la aplicación de cuotas, derechos y aprovechamientos, donativos y subsidios provenientes del arrendamiento de los espacios que ocupen los diferentes expositores participantes o feriantes o de cualquier institución pública o privada.
+(DEROGADO, P.O. 15 DE MARZO DE 2021)
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -24919,17 +25111,13 @@ V.- Proponer acciones, obras, programas y en general cualquier cosa que a su jui
 
 VI.- Las demás que señale este Título o las que indique el Presidente.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
 ###### ARTICULO 1715.
 
-El órgano de vigilancia del Patronato será el Comisario que será el titular de la Contraloría Municipal, el cual evaluará el desempeño general y por funciones del Patronato; realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente, prestaciones e inversión; y en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+(DEROGADO, P.O. 15 DE MARZO DE 2021)
 
 ###### ARTICULO 1716.
 
-Para el cumplimiento de las funciones del Comisario, todos los integrantes del Patronato y los funcionarios o empleados de éste tendrán obligación de proporcionar la información que les solicite.
+(DEROGADO, P.O. 15 DE MARZO DE 2021)
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -29126,3 +29314,13 @@ P.O. 12 DE OCTUBRE DE 2020.
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Se derogan todas las disposiciones de carácter reglamentario municipal que se opongan a lo dispuesto en el presente acuerdo.
+
+P.O. 15 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS "ADICIONES Y REFORMAS A DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGUASCALIENTES".]
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se derogan todas las disposiciones de carácter reglamentario municipal que se opongan a lo dispuesto en el presente acuerdo.
+
+TERCERO.- A efecto de proceder a la liquidación del organismo público descentralizado denominado Patronato de Ferias y Fiestas Municipales de Pabellón de Arteaga, Aguascalientes, se designa como interventor al titular de la Contraloría Municipal.
