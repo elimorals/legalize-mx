@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-cultural-de-aguascalientes-1087
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-06-22"
-last_updated: "2020-09-07"
+last_updated: "2021-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -659,9 +659,13 @@ XX. Elaborar y presentar a la Dirección General las propuestas para el Programa
 
 XXI. Coordinar y supervisar el correcto funcionamiento del Centro de Idiomas; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2021)</small>
 
-XXII. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue la Dirección General, o la Junta Directiva.
+XXII. Coordinar y supervisar el correcto funcionamiento de la Escuela de Música Manuel M. Ponce; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MARZO DE 2021)</small>
+
+XXIII. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue la Dirección General, o la Junta Directiva.
 
 #### SECCIÓN SEXTA. Dirección de Promoción y Difusión
 
@@ -891,9 +895,9 @@ La Dirección tendrá un titular denominado Director de Universidad de las Artes
 
 I. Impartir la enseñanza artística técnica y superior en todas sus áreas y disciplinas afines;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-II. Impartir talleres de iniciación artística, talleres de educación continua, y talleres disciplinares que representen una antesala para la formación profesional, así como difundir las distintas manifestaciones artísticas a través de programas de extensión universitaria, por medio de la totalidad de actividades académicas de la Escuela de Danza "Georges Berard", el Centro de Estudios Musicales "Manuel M. Ponce" del Instituto, y el Centro de Investigación y Estudios Literarios de Aguascalientes;
+II. Impartir talleres de iniciación artística, talleres de educación continua, y talleres disciplinares que representen una antesala para la formación profesional, así como difundir las distintas manifestaciones artísticas a través de programas de extensión universitaria, por medio de la totalidad de actividades académicas de la Escuela de Danza "Georges Berard", y el Centro de Investigación y Estudios Literarios de Aguascalientes;
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
@@ -929,9 +933,9 @@ XII. Gestionar la creación de nuevos programas académicos a nivel de iniciaci�
 
 XIII. Promover la creación de programas académicos extracurriculares, como diplomados, cursos, talleres, entre otros;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-XIV. Coordinar y supervisar las actividades de Control Escolar relacionados con educación artística básica, media y superior, con el apoyo de la Dirección de Enseñanza y Casas de la Cultura;
+XIV. Coordinar y supervisar las actividades de Control Escolar relacionados con educación artística básica, media y superior, con el apoyo de la Dirección de Enseñanza Artística y Casas de la Cultura;
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
@@ -943,9 +947,7 @@ XVI. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
 XVII. Coordinar y supervisar el correcto funcionamiento del Centro de Investigación y Estudios Literarios de Aguascalientes "Fraguas";
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
-
-XVIII. Coordinar y supervisar el correcto funcionamiento del Centro de Estudio Musicales Manuel M. Ponce;
+XVIII. (DEROGADA, P.O. 15 DE MARZO DE 2021)
 
 > <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1442,3 +1444,23 @@ Se derogan todas las disposiciones legales y administrativas que se opongan al p
 ###### ARTÍCULO TERCERO.
 
 Se instruye al Director General llevar a cabo las acciones necesarias para la inscripción de las presentes Reformas, Derogaciones y Adiciones al Estatuto Orgánico del Instituto Cultural de Aguascalientes, ante el Registro Público de Entidades Paraestatales respectivo del Registro Público de la Propiedad y del Comercio en el Estado de Aguascalientes.
+
+P.O. 15 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Estatuto, de igual o menor jerarquía.
+
+###### ARTICULO TERCERO.
+
+Se ordena inscribir las presentes reformas al Estatuto Orgánico del Instituto Cultural de Aguascalientes en el Registro Público de la Propiedad y del Comercio en el Estado en el libro correspondiente a las Entidades Paraestatales.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor de las presentes reformas, el Instituto Cultural de Aguascalientes deberá realizar las adecuaciones normativas y administrativas correspondientes en un término de 90 días.
