@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2020-07-20"
+last_updated: "2021-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -183,17 +183,23 @@ VII. Violencia contra los derechos sexuales y reproductivos: Es toda acción u o
 
 VIII. Violencia en el noviazgo: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres de cualquier edad, mediante la realización de uno o varios tipos de violencia, durante o después de una relación de noviazgo, una relación afectiva o una relación sexual, y que viola sus derechos humanos;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-IX. Violencia mediática: Es toda publicación de mensajes e imágenes estereotipados que, a través de cualquier medio de comunicación o publicidad, ya sea impresos o electrónicos, de manera directa o indirecta, promuevan la explotación de mujeres, niñas o adolescentes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las misma, fomenten la desigualdad entre mujeres y hombres o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres, violando con ello sus derechos humanos;
+IX. Violencia mediática: Es la publicación de mensajes e imágenes estereotipados sexistas que a través de cualquier medio de comunicación o publicidad, ya sean impresos o electrónicos, de manera directa o indirecta, promueva, produzca o permita la producción y difusión de discurso de odio sexista, la explotación de mujeres, niñas o adolescentes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mismas, fomenten la desigualdad entre mujeres y hombres o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida, violando con ello sus derechos humanos.
+
+La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra el estado socio-psico-emocional, la salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad;
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 X. Violencia moral: Es toda acción u omisión encaminada a la vejación, sarcasmo y burla ejercida sobre la mujer víctima que se sienta afectada en su calidad humana y en su moral como persona, cuya finalidad esencial es exponerla al desprecio de los demás y le impiden el buen desarrollo de su integración social y que tiene como consecuencia denigrarla, vulnerando sus derechos humanos a la libertad, la seguridad y la integridad personal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-XI. Violencia digital: Es cualquier acto que se presenta a través de las Tecnologías de la Información y la Comunicación (TIC), plataformas de internet, redes sociales o correo electrónico, que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como daño moral a ellas y/o su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas; y
+XI. Violencia digital: Es cualquier acto doloso realizado a través del uso de las Tecnologías de la Información y la Comunicación que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño tanto en el ámbito privado como en el público, en su imagen propia; así como daño moral a ellas y/o su familia.
+
+Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos y por las que se divulguen, expongan, distribuyan, difundan, exhiban, transmitan, comercialicen, oferten, intercambien o compartan información apócrifa, mensajes de odio, difusión sin su consentimiento, sin su aprobación o sin su autorización de textos, imágenes, audios o videos reales o simulados de contenido intimo sexual, erótico o pornográfico, de una persona y/o datos personales u otras impresiones verdaderas o alteradas.
+
+Para efectos del presente Capítulo se entenderá por Tecnologías de la información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2019)</small>
 
@@ -241,11 +247,17 @@ III.- Evitar que la atención que reciban la víctima y el generador de violenci
 
 IV.- Analizar y proponer, en su caso, la separación y alejamiento del generador de violencia con respecto a la víctima;
 
-V.- Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos menores de edad; la información sobre su ubicación será secreta y proporcionarán apoyos psicológico y legal, especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+V.- Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos menores de edad; la información sobre su ubicación será secreta y proporcionarán apoyos psicológico y legal, especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo;
 
-VI.- Evitar la implementación o utilización de procedimientos de mediación o conciliación por considerarse no equitativo en la relación víctima-generador.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
+VI.- Evitar la implementación o utilización de procedimientos de mediación o conciliación por considerarse no equitativo en la relación víctima-generador; y
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2021)</small>
+
+VII.- Impulsar la creación de mejores y más eficaces procedimientos, estrategias y servicios para prevenir, atender, sancionar y erradicar la violencia familiar que se cometa en agravio de víctimas sujetas a aislamiento social.
 
 ###### ARTÍCULO 9.
 
@@ -528,6 +540,10 @@ VI.- Auxilio policiaco de reacción inmediata a favor de la víctima, con autori
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
 
 VII.- Brindar servicios de psicoterapia reeducativa especializada y gratuita, con perspectiva de género al generador de violencia en instituciones públicas debidamente acreditadas.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+ARTÍCULO 27 BIS.- Tratándose de violencia mediática y digital, respecto a las órdenes de protección, se estará a lo dispuesto en la Ley General.
 
 ###### ARTÍCULO 28.
 
@@ -1390,3 +1406,19 @@ P.O. 20 DE JULIO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Lo dispuesto en el ARTÍCULO SEGUNDO del presente Decreto, aplicará a partir del siguiente proceso electoral local.
+
+P.O. 15 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 696 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado, deberá prever lo necesario a efecto de que, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se expidan y/o actualicen los protocolos necesarios para la atención y seguimiento de las víctimas de violencia mediática y digital.
+
+TERCERO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando y ejecutando conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen.
+
+P.O. 15 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 697 QUE REFORMA LA FRACCIÓN V Y VI Y SE ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 8 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
+
+UNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
