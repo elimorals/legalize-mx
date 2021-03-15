@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-patrimonio-inmobiliario-del-municipio-de-69522"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-27"
-last_updated: "2017-06-19"
+last_updated: "2021-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DEL PATRIMONIO INMOBILIARIO DEL MUNICIPIO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 27 de julio de 2009.
 
@@ -325,7 +325,9 @@ b) El Síndico de Hacienda.
 
 c) Los Regidores integrantes de la Comisión.
 
-d) El Regidor Titular de la Comisión de Planeación Urbana y Rural.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
+
+d) El Regidor Titular de la Comisión Permanente de Planeación Urbana, Rural y Asuntos Metropolitanos.
 
 > <small>(F. DE E., P.O. 3 DE AGOSTO DE 2009)</small>
 
@@ -461,9 +463,13 @@ El Comité funcionará de acuerdo a los siguientes lineamientos:
 
 I. Las sesiones deberán ser presididas por el Presidente del Comité, o por su suplente, y en su ausencia, por el Secretario Ejecutivo o su suplente.
 
-II. Las sesiones ordinarias, se celebrarán por lo menos una vez al mes, el segundo lunes de cada mes, asimismo podrán celebrarse sesiones extraordinarias cuando el Presidente lo estime necesario, en todo caso deberá enviarse previa convocatoria por escrito, con anticipación de veinticuatro horas, firmada por el Presidente o el Secretario Ejecutivo, debiéndose señalar el orden del día a que se sujetará la sesión.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-III. Las convocatorias para los integrantes titulares del Comité se harán por escrito y deberán ser entregadas en las oficinas de cada uno de los funcionarios municipales con por lo menos veinticuatro horas de anticipación al día en que haya de celebrarse la sesión, debiendo recabarse el correspondiente acuse de recibo que se agregará al expediente en que se archiven las actas. Anexa a la convocatoria se incluirá la orden del día y la documentación que soporte los asuntos que serán tratados, el expediente completo estará a disposición de los integrantes en las oficinas del Secretario Ejecutivo.
+II. Las sesiones ordinarias, se celebrarán por lo menos una vez al mes, el segundo lunes de cada mes, asimismo podrán celebrarse sesiones extraordinarias cuando el Presidente lo estime necesario, en todo caso para estas últimas deberá enviarse previa convocatoria por escrito, con anticipación de cuarenta y ocho horas, firmada por el Presidente o el Secretario Ejecutivo, debiéndose señalar el orden del día a que se sujetará la sesión.
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
+III. Las convocatorias para las sesiones ordinarias para los integrantes titulares del Comité se harán por escrito y deberán ser entregadas en las oficinas de cada uno de los funcionarios municipales con setenta y dos horas de anticipación al día en que haya de celebrarse la sesión, debiendo recabarse el correspondiente acuse de recibo que se agregará al expediente en que se archiven las actas. Anexa a la convocatoria se incluirá la orden del día y la documentación que soporte los asuntos que serán tratados, el expediente completo estará a disposición de los integrantes en las oficinas del Secretario Ejecutivo.
 
 IV. Las sesiones iniciarán a la hora convocada, por excepción se establece un margen de tolerancia a los convocados de quince minutos siguientes a la hora señalada. Transcurrido este plazo, se determinará si existe o no la asistencia mínima requerida para sesionar conforme a la siguiente fracción
 
@@ -672,3 +678,9 @@ P.O. 19 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO POR EL "SE REFORMAN LOS ARTÍCULOS 12, 15, 18, 21, 22 Y 24 DEL REGLAMENTO DEL PATRIMONIO INMOBILIARIO DEL MUNICIPIO DE AGUASCALIENTES”.]
 
 ÚNICO.- Las presentes reformas iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL REGLAMENTO DEL PATRIMONIO INMOBILIARIO DEL MUNICIPIO DE AGUASCALIENTES”.]
+
+ÚNICO.- La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
