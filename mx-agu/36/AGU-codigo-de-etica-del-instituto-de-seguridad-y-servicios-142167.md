@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-instituto-de-seguridad-y-servicios-142167"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-01-27"
-last_updated: "2020-01-27"
+last_updated: "2021-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ÉTICA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 27 de enero de 2020.
 
@@ -139,23 +139,11 @@ XIV. Integridad: Que consiste en que los Servidores Públicos actúen siempre de
 
 XV. Equidad: Que consiste en que los Servidores Públicos procuren que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
+
 ###### Artículo 6°.
 
-Directrices. Para la efectiva aplicación de los principios descritos en el presente Capítulo, los Servidores Públicos observarán las directrices establecidas en el artículo 7 de la Ley General de Responsabilidades Administrativas, y su correlativo el artículo 6 de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes:
-
-I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;
-
-II. Conducirse con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización;
-
-III. Satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;
-
-IV. Dar a las personas en general el mismo trato, por lo que no concederán privilegios o preferencias a organizaciones o personas, ni permitirán que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva;
-
-V. Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades;
-
-VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de austeridad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados; y
-
-VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos en la Constitución.
+Directrices. Para la efectiva aplicación de los principios descritos en el presente Capítulo, los Servidores Públicos observarán las directrices establecidas en el artículo 7 de la Ley General de Responsabilidades Administrativas, y su correlativo el artículo 6 de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 La promoción sobre el conocimiento y aplicación de dichas directrices, se realizará en los términos de lo previsto en los artículos 23 y 24 fracción II de este Código.
 
@@ -598,3 +586,19 @@ ATENTAMENTE
 LIC. LUCÍA RIVERA RODRÍGUEZ
 
 TITULAR DE LA UNIDAD INVESTIGADORA DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
+
+P.O. 15 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE EMITE LA REFORMA AL CÓDIGO DE ÉTICA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Órgano Interno de Control del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes deberá dar a conocer de manera inmediata la reforma establecida en el presente Acuerdo.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto aquellas disposiciones que se opongan a lo previsto en el presente Acuerdo.
