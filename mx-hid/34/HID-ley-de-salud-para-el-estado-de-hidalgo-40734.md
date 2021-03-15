@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2020-08-17"
+last_updated: "2021-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -79,7 +79,15 @@ A.- EN MATERIA DE SALUBRIDAD GENERAL:
 
 I.- La atención médica de calidad, preferentemente en beneficio de grupos en situación de vulnerabilidad;
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+La atención a que se refiere esta fracción, incluye el otorgamiento gratuito de cubrebocas.
+
 II.- La atención materno infantil;
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+Se podrá otorgar estimulación temprana a las niñas y niños menores de 6 años, de acuerdo con las normas derivadas de la Ley General de Salud y de la presente Ley, lo cual estará a cargo de la Secretaría de Salud en coordinación con el Sistema DIF Estatal y los Sistemas DIF Municipales;
 
 III.- La prestación de servicios de planificación familiar;
 
@@ -115,6 +123,12 @@ XIII.- Recomendar una alimentación que cubra con las proporciones adecuadas de 
 
 XIV.- La prevención, orientación, control y vigilancia en materia de nutrición, sobrepeso, obesidad y otros trastornos de la conducta alimentaria, diabetes, dislipidemia, enfermedades respiratorias, enfermedades cardiovasculares y aquellas atribuibles al tabaquismo;
 
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2021)</small>
+
+XIV Bis.- La cirugía bariátrica podrá ser integrada por las instituciones públicas locales que forman parte del Sistema Nacional de Salud, como un tratamiento de la obesidad mórbida y sus comorbilidades, de conformidad con los criterios y condiciones previstos en la Ley General de Salud y demás normas, protocolos y disposiciones legales aplicables.
+
+Los establecimientos autorizados que practiquen la cirugía bariátrica deberán contar con la infraestructura, equipo biomédico, medicamentos, insumos y recursos humanos multidisciplinarios adecuados para dichos procedimientos de alta complejidad, considerando en todo momento la seguridad del paciente y la calidad de atención.
+
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
 XV.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud de las personas;
@@ -126,6 +140,10 @@ XVII.- La prevención y el control de enfermedades transmisibles;
 > <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2017)</small>
 
 XVII Bis.- La promoción del uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer la infección del VIH/SIDA y demás enfermedades de transmisión sexual;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2021)</small>
+
+XVII Ter.- La promoción de la salud e higiene menstrual;
 
 XVIII.- La prevención y el control de las enfermedades no transmisibles y accidentes;
 
@@ -241,6 +259,10 @@ IX.- Promover investigaciones sobre los efectos del consumo de productos con baj
 
 X.- La regulación de anuncios publicitarios de alimentos con escaso valor nutrimental dirigidos a menores;
 
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2021)</small>
+
+X Bis.- La promoción comunitaria de salud en contextos de epidemias o pandemias;
+
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
 XI.- La inclusión dentro de las tareas escolares la práctica de ejercicio entre padres e hijos; y
@@ -349,11 +371,21 @@ VII.- Celebrar con la Federación los Acuerdos de Coordinación en materia de Sa
 
 VIII.- Promover, coordinar y realizar la evaluación de programas y servicios de salud que tenga bajo su responsabilidad, así como fiscalizar los recursos materiales y humanos para su óptimo aprovechamiento;
 
-IX.- Promover el establecimiento de un sistema de información básico en materia de salud, y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
+IX.- Promover el establecimiento de un sistema de información básico en materia de salud, y una plataforma de información pública en materia de abasto de medicamentos;
 
-X.- Promover, coordinar y realizar la evaluación de programas y servicios de salud relacionados con la prevención del alcoholismo, el tabaquismo y la fármacodependencia.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
+X.- Promover, coordinar y realizar la evaluación de programas y servicios de salud relacionados con la prevención del alcoholismo, el tabaquismo y la farmacodependencia;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2021)</small>
+
+X Bis.- Promover, orientar y evaluar el funcionamiento del Centro Estatal de Trasplantes de Órganos, Tejidos y Células de Seres Humanos para el Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2021)</small>
+
+X Ter.- Impulsar la participación de la sociedad, para el fortalecimiento de los servicios de salud en materia de enfermedades con potencial epidémico o pandémico; y
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -389,11 +421,23 @@ IV.- Emitir y mantener actualizados los Reglamentos en los que se establezcan la
 
 V.- Las demás que establezca esta Ley y otras disposiciones legales.
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+###### Artículo 5 Bis.
+
+En lo que se refiere el apartado A fracción I Bis del Artículo 5 de esta Ley, las mujeres embarazadas sin control prenatal o de alto riesgo obstétrico, las personas adultas mayores, las personas con discapacidad, así como las personas en situación de abandono y/o imposibilitadas para acudir a la unidad de salud, podrán preferentemente recibir los servicios de salud en domicilio particular, de conformidad con lo establecido en el programa correspondiente y de acuerdo a la disponibilidad presupuestal con que al efecto se cuente.
+
+Para efectos de lo señalado en el presente artículo, se entenderá por persona en situación de abandono, aquella que por su situación social o familiar viven en el desamparo en su domicilio y son apoyados por cualquier persona.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
+
 ###### Artículo 6.
 
 Las bases y modalidades para el ejercicio coordinado de las atribuciones y obligaciones del Gobierno del Estado y de los Municipios en la prestación de servicios de Salubridad Local, se establecerán en los Convenios que al efecto se celebren conforme a las disposiciones de esta Ley y las demás disposiciones aplicables.
 
-El Gobierno del Estado y los unicipios (sic), de conformidad con las disposiciones legales aplicables, aportarán los recursos humanos, materiales, y financieros que sean necesarios para la operación de los servicios de salubridad local que queden comprendidos en los Convenios que ambos celebren.
+El Gobierno del Estado y los municipios (sic), de conformidad con las disposiciones legales aplicables, aportarán los recursos humanos, materiales, y financieros que sean necesarios para la operación de los servicios de Salubridad Local que queden comprendidos en los Convenios que ambos celebren.
+
+En materia de Salubridad Local, preferentemente, prestara servicio, personal originario y/o que radique en los mismos municipios de la Entidad para el cual sea requerido, de conformidad con las disposiciones legales aplicables.
 
 ###### Artículo 7.
 
@@ -439,7 +483,49 @@ El Estado podrá celebrar con la Federación, acuerdos de coordinación a fin de
 
 ### CAPITULO II. DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
-## TITULO CUARTO
+## TITULO III TER. DE LA PREVENCIÓN, DIAGNÓSTICO Y TRATAMIENTO DE LAS PAREJAS O PERSONAS CON INFERTILIDAD
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+Artículo 142 Undecies 1.- Para los efectos de la presente Ley, la infertilidad es la enfermedad del aparato reproductor, caracterizada por la incapacidad de lograr un embarazo clínico después de tener relaciones sexuales regularmente durante un año, sin el uso de métodos anticonceptivos.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+Artículo 142 Undecies 2.- La prevención, diagnóstico y tratamiento de las parejas o personas con infertilidad tiene el carácter de prioritario y su objetivo es garantizar la protección y desarrollo de la familia, consagrado en el segundo párrafo del artículo 5 de la Constitución Política del Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+Artículo 142 Undecies 3.- Corresponde a los prestadores de servicios de salud que integran el Sistema Estatal de Salud, sugerir y en su caso bridar a las parejas o personas con infertilidad los procedimientos y técnicas médico-asistenciales de reproducción, que les permitan alcanzar sus metas reproductivas.
+
+Además de la atención médica, farmacológica y/o quirúrgica, de acuerdo a la capacidad resolutiva de la unidad médica de que se trate, las parejas o personas con infertilidad podrán contar con apoyo psicológico.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+Artículo 142 Undecies 4.- La atención y manejo de la infertilidad en los diferentes niveles de atención médica, comprende las siguientes etapas:
+
+I. Proceso para la clasificación socioeconómica de la pareja o persona con infertilidad, para efectos del pago de cuotas de recuperación, debiendo contemplar, de forma gradual la exención del pago, de acuerdo a la normatividad vigente;
+
+II. Acciones en el primer nivel de atención médica.
+
+El objetivo de la atención médica en el primer nivel es identificar los factores de riesgo asociados y las posibles causas de la infertilidad, orientar a la pareja o persona sobre su problema y planificar las acciones encaminadas a resolverlo, y, de ser necesario, evaluar el caso para referenciar al siguiente nivel de atención con los estudios de laboratorio y gabinete básicos para continuar el protocolo de estudio.
+
+El protocolo debe incluir el perfil psicológico de la pareja o persona con infertilidad para que reciban el apoyo que corresponda;
+
+III. Acciones en el segundo nivel de atención.
+
+En el segundo nivel de atención se complementará el protocolo de estudio con los exámenes de laboratorio y gabinete especializados que resulten necesarios, cuyo objetivo es establecer el diagnóstico de certeza, y determinar, tanto el plan terapéutico como el pronóstico, principalmente en las unidades hospitalarias donde exista la especialidad médica en la materia;
+
+IV. Acciones en el tercer nivel de atención.
+
+Cuando no ha podido resolverse el caso en el segundo nivel de atención, se procederá a referenciar a cualquiera de las Unidades Médicas Especializadas que integran los Servicios de Salud en el Estado de Hidalgo, tomando en cuenta el catálogo de servicios y su capacidad resolutiva, o en su caso, se referenciará al Hospital público de Tercer Nivel más cercano a la Entidad que forme parte del Sistema Nacional de Salud, de conformidad con los acuerdos de coordinación y normatividad vigente. Lo anterior con el objetivo de complementar el protocolo de estudio e iniciar el manejo con o sin intervención farmacológica, y/o quirúrgica, con técnicas de reproducción asistida de baja complejidad;
+
+V. Vigilancia y seguimiento; y
+
+VI. Las demás que, directa o indirectamente contribuyan a tratar la infertilidad.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+Artículo 142 Undecies 5.- El origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, no pueden ser motivo para impedir o anular el ejercicio de los derechos reproductivos de las parejas o personas con infertilidad. Lo anterior, a efecto de garantizar el respeto a los derechos humanos de las personas, así como a los preceptos señalados en la Carta de los Derechos Generales de los Pacientes.
 
 ### CAPÍTULO II BIS. DE LAS INSTITUCIONES EDUCATIVAS QUE EXPENDAN ALIMENTOS
 
@@ -466,6 +552,18 @@ Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las espe
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
 
 Artículo 12 ter. Para garantizar el derecho a la protección de la salud en condiciones de equidad, no discriminación y respeto a la dignidad humana, las autoridades sanitarias estatales promoverán la especialización del personal médico a través de las Universidades e instituciones de educación superior para la formación de recursos humanos en atención primaria de la salud.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+###### Artículo 12 Quater.
+
+Los prestadores de servicio de salud a quienes corresponda practicar el aborto no punible y cuyas creencias religiosas o convicciones personales sean contrarias a tal procedimiento, podrán ser objetores de conciencia y por tal razón excusarse de intervenir en este, teniendo la obligación de referir a la mujer con un médico no objetor.
+
+Será obligación de las instituciones públicas de salud garantizar la oportuna prestación de los servicios y contar con personal no objetor de conciencia en la materia.
+
+Cuando sea urgente practicar el aborto no punible para salvaguardar la salud o la vida de la mujer, no podrá invocarse la objeción de conciencia.
+
+El ejercicio de la objeción de conciencia no derivará en ningún tipo de discriminación laboral.
 
 ###### Artículo 13.
 
@@ -1157,7 +1255,7 @@ Los servicios sanitarios de estos establecimientos, deberán ser suficientes par
 
 PREVENCIÓN Y REHABILITACIÓN DEL ALCOHOLISMO, TABAQUISMO Y LA FÁRMACODEPENDENCIA.
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### Artículo 137.
 
@@ -1217,6 +1315,10 @@ III.- La realización de Programas de Prevención y Control de Enfermedades Buco
 
 IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud dental de la población.
 
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2021)</small>
+
+V.- La coordinación con la Secretaría de Educación Pública del Estado a efecto de fomentar hábitos de higiene bucodental adecuados, como elemento de formación para niñas y niños de edad temprana, esto conforme a lo dispuesto en la Norma Oficial Mexicana respectiva.
+
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ### CAPITULO II. DERECHOS DE LAS PERSONAS CON ENFERMEDADES RARAS NO INFECTO-CONTAGIOSAS CRONICAS O CRONICO-DEGENERATIVAS Y DE LAS PERSONAS ENFERMAS EN SITUACION TERMINAL
@@ -1225,79 +1327,175 @@ IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de 
 
 ###### Artículo 142 Bis 2.
 
-Se crea el Consejo Estatal Contra las Adiciones, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las Adicciones que regula el presente Capítulo, así como proponer y evaluar los programas a que se refieren los Artículos 142 bis 2 y 142 bis 3 de esta Ley. Dicho Consejo estará integrado por el Secretario de Salud, quien lo presidirá, por los titulares de las dependencias y entidades de la Administración Pública Federal y Estatal cuyas atribuciones tengan relación con el objeto del Consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud.
+Se crea el Consejo Estatal Contra las Adicciones, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención, tratamiento, rehabilitación y combate de los problemas de salud pública causados por las adicciones que regula el presente Capítulo, así como proponer y evaluar los programas a que se refieren los artículos 142 bis 2 y 142 bis 3 de esta Ley. Dicho Consejo estará integrado por el Secretario de Salud, quien lo presidirá, por los titulares de las dependencias y entidades de la Administración Pública Federal y Estatal cuyas atribuciones tengan relación con el objeto del Consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud, deporte, educación, trabajo y capacitación para el trabajo.
+
+Las campañas de información, prevención y sensibilización que reciba la población deberán estar basadas en estudios científicos y sociales y alertar de manera adecuada sobre los efectos y daños físicos, psicológicos y sociales del consumo de bebidas alcohólicas, tabaco, estupefacientes y psicotrópicos.
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### Artículo 142 Bis 3.
 
-La Secretaría de Salud y los Gobiernos Municipales en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
+La Secretaría de Salud y los Gobiernos Municipales en el ámbito de sus respectivas competencias, se coordinarán para la ejecución focalizada del programa contra el uso y abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
 
-I. La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
+I. La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los enfermos alcohólicos;
 
-II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva, y
+II. La información sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva;
 
-III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
+III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el consumo de bebidas alcohólicas especialmente en zonas rurales y en los grupos de población considerados de alto riesgo;
+
+IV. La promoción de los servicios de prevención, detección temprana, orientación, tratamiento, derivación y rehabilitación a personas y grupos con uso y abuso de bebidas alcohólicas; y
+
+V. La protección de la salud considerando la educación y el entorno de la población para el fomento de habilidades para la vida que favorezcan el desarrollo saludable en los individuos, la familia, la escuela, el trabajo y la comunidad.
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 Programa Contra el Tabaquismo
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### Artículo 142 Bis 4.
 
-La Secretaría de Salud y los Gobiernos Municipales en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa contra el tabaquismo que comprenderá, entre otras, las siguientes acciones:
+Para efectos de esta Ley, se entenderá por uso nocivo del alcohol:
 
-I. La prevención y el tratamiento del tabaquismo y, en su caso, el tratamiento para la cesación del hábito tabáquico;
+I. El consumo de bebidas alcohólicas en cualquier cantidad por menores de 21 años de edad;
 
-II. La educación sobre los efectos del tabaco en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva, y
+II. El consumo de bebidas alcohólicas por embarazadas;
 
-III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el tabaquismo en los grupos de población considerados de alto riesgo.
+III. El consumo en cualquier cantidad de alcohol en personas que van a manejar vehículos de transporte público de pasajeros, así como automotores, maquinaria o que se van a desempeñar en tareas que requieren habilidades y destrezas, especialmente las asociadas con el cuidado de la salud o la integridad de terceros;
+
+IV. El consumo en personas con alguna enfermedad crónica como hipertensión, diabetes, enfermedades hepáticas, cáncer y otras, siempre y cuando haya sido indicado por prescripción médica; y
+
+V. Aquel que sea determinado por la Secretaría de Salud del Estado de Hidalgo.
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 Programa Contra la Farmacodependencia
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### Artículo 142 Bis 5.
 
-La Secretaría de Salud y los Gobiernos Municipales, en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa contra la farmacodependencia, a través de las siguientes acciones:
+Para la ejecución del Programa Contra el uso, abuso y dependencia de Bebidas Alcohólicas, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo, la Secretaría de Salud promoverá que en los establecimientos públicos, privados y sociales en los que se presten servicios de prevención y atención contra el uso nocivo del alcohol, se realicen las siguientes acciones:
 
-I.- La prevención y el tratamiento de la farmacodependencia y, en su caso, la rehabilitación de los farmacodependientes;
+I. La promoción de la salud y de estilos de vida activa y saludable, para prevenir y combatir el uso nocivo del alcohol;
 
-II.- La educación sobre los efectos del uso de estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia, así como sus consecuencias en las relaciones sociales y;
+II. La prevención, detección temprana, diagnóstico oportuno, derivación, tratamiento efectivo y rehabilitación del individuo, a causa del uso nocivo del alcohol y de los padecimientos originados por él, evitando toda forma de estigmatización y discriminación;
 
-III.- La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la fármacodependencia y adoptar las medidas oportunas para su prevención y tratamiento.
+III. El fomento de la creación de redes de apoyo, para miembros de la familia y otros miembros de la comunidad que pudieran resultar afectados directa o indirectamente por dicho uso nocivo;
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+IV. El brindar información a la población en general sobre los efectos del uso nocivo del alcohol en la salud y en las relaciones sociales, dirigida especialmente a la familia, niñas, niños, adolescentes, jóvenes, embarazadas, comunidades indígenas y otros grupos vulnerables;
+
+V. El establecimiento de un sistema de monitoreo interno y un programa de seguimiento y evaluación de metas y logros internos del Programa Contra el uso, abuso y dependencia de Bebidas Alcohólicas y su impacto en la salud; y
+
+VI. El fomento a la aplicación de intervenciones breves; de servicios de cesación y otras opciones terapéuticas que ayuden a dejar de beber alcohol en forma nociva, combinadas con consejería y grupos de ayuda mutua y apoyo terapéutico a familiares.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### Artículo 142 Bis 6.
 
-La Secretaría de Salud elaborará un Programa Estatal contra la fármacodependencia, y lo ejecutará en coordinación con Dependencias y Entidades del Sector Salud y con los Gobiernos Municipales.
+La Secretaría de Salud fomentará las actividades de investigación que permitan obtener la información que oriente las acciones contra el uso, abuso y dependencia de bebidas alcohólicas en los siguientes aspectos:
 
-Este programa establecerá los procedimientos y criterios para la prevención, tratamiento y control de las adicciones y será de observancia obligatoria para los prestadores de servicios de salud del Sistema Estatal de Salud en todo el territorio y en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia.
+I. Causas del alcoholismo y acciones para mitigarlas;
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
+II. Efectos de la mercadotecnia y publicidad en la incidencia del uso y en los problemas relacionados con el consumo de bebidas alcohólicas;
+
+III. Hábitos y patrones de consumo de alcohol en los diferentes grupos de población; y
+
+IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar social, deportivo, de los espectáculos, laboral y educativo.
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
 
 ###### Artículo 142 Bis 7.
 
-Para el tratamiento de los farmacodependientes, la Entidad, deberá crear centros especializados en tratamiento, atención, y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente.
+Para poner en práctica las acciones del Programa Contra el uso, abuso y dependencia de Bebidas Alcohólicas, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo, se tendrán en cuenta los siguientes aspectos:
 
-I.- Crear un padrón de instituciones y Organismos Públicos y Privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de adicciones que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen y
+I. Experiencia basada en evidencia científica acumulada a nivel internacional y nacional y la generación del conocimiento sobre las causas y las consecuencias del uso nocivo del alcohol, intervenciones efectivas y evaluación de programas o estrategias;
 
-La apertura y funcionamiento de centros de rehabilitación y tratamiento requiere de la aprobación de la Secretaría de Salud, quien debe de supervisar periódicamente el funcionamiento de los centros mencionados de la sociedad civil o iniciativa privada, ya que el espíritu de éstos, es combatir las prácticas en la que atentan contra los derechos más elementales de los individuos; por otra parte es pues la Secretaría, la que tiene la potestad de permitir la apertura y/o la clausura de tales establecimientos.
+II. La vulnerabilidad de los diferentes grupos de población, por género, edad y etnicidad; y
 
-II.- Celebrar Convenios de Colaboración con instituciones de los sectores social y privado y con personas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
+III. La vigilancia e intercambio de información y cumplimiento de normas y acuerdos entre los sectores y niveles de gobierno involucrados.
 
-Las instituciones mencionadas en el párrafo que antecede, deberán cubrir los mismos requisitos que aquellas instituciones públicas destinadas para tal fin.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
 
-En el caso de que a cualquiera de dichas instituciones públicas o privadas haya sido canalizado un fármacodependiente por la Procuraduría General de Justicia Estatal, se deberá informar de manera mensual al servidor público que realizó la remisión, si el fármacodependiente ha cumplido con el tratamiento, así mismo, informará el avance del mismo.
+###### Artículo 142 Bis 8.
+
+Para los efectos del Programa Estatal Contra la Farmacodependencia se entiende por:
+
+I. Adicción o dependencia: Es el estado psicofísico causado por la interacción de un organismo vivo con un fármaco, alcohol, tabaco u otra droga, caracterizado por la modificación del comportamiento y otras reacciones que comprenden siempre un impulso irreprimible por consumir dicha sustancia en forma continua o periódica, a fin de experimentar sus efectos psíquicos y a veces evitar el malestar producido por la privación;
+
+II. Adicto o Farmacodependiente: Toda persona que presenta algún signo o síntoma de dependencia a sustancias psicoactivas;
+
+III. Adicto o Farmacodependiente en recuperación: Toda persona que ha dejado de utilizar sustancias psicoactivas y está en un proceso de reinserción social;
+
+IV. Atención médica: Al conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud;
+
+V. Consumidor: Toda persona que consume o utilice sustancias psicoactivas;
+
+VI. Detección temprana: Corresponde a una estrategia de prevención secundaria que tiene como propósito identificar en una fase inicial el consumo de narcóticos a fin de aplicar medidas terapéuticas de carácter médico, psicológico y social lo más temprano posible;
+
+VII. Investigación en materia de farmacodependencia: Tiene por objeto determinar las características y tendencias del problema, así como su magnitud e impacto en lo individual, familiar y colectivo; construyendo las bases científicas para la construcción de políticas públicas, la toma de decisiones y los tratamientos adecuados para los diversos tipos y niveles de adicción; respetando los derechos humanos y su integridad.
+
+VIII. Prevención: El conjunto de acciones dirigidas a identificar, evitar, o reducir, regular o eliminar el consumo no terapéutico de sustancias psicoactivas, a disminuir situaciones de riesgo y limitar los daños asociados al consumo de dichas sustancias;
+
+IX. Tratamiento: El conjunto de acciones que tienen por objeto conseguir la abstinencia o, en su caso, la reducción del consumo de sustancias psicoactivas, reducir los riesgos y daños que implican el uso y abuso de dichas sustancias, abatir los padecimientos asociados al consumo, e incrementar el grado de bienestar físico, mental y social, tanto del que usa, abusa o depende de esas sustancias, como de su familia; y
+
+X. Usuario: Es toda aquella persona que requiera y obtenga la prestación de cualquier servicio relacionado con el uso, abuso o dependencia a sustancias psicoactivas.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+###### Artículo 142 Bis 9.
+
+En materia de prevención se ofrecerá a la población un modelo de intervención temprana que considere desde la prevención y promoción de una vida saludable, hasta el tratamiento ambulatorio de calidad de la farmacodependencia, el programa estatal fortalecerá la responsabilidad del Estado, principalmente entre las Secretarías de Gobierno, Educación y Salud de Hidalgo, ofreciendo una visión integral y objetiva del problema para:
+
+I. Desarrollar campañas de educación para prevención de adicciones, con base en esquemas novedosos y creativos de comunicación que permitan la producción y difusión de mensajes de alto impacto social, con el fin de reforzar los conocimientos de daños y riesgos de la farmacodependencia, especialmente dirigirá sus esfuerzos hacia los sectores más vulnerables, a través de centros de educación básica;
+
+II. Coordinar y promover con los sectores público, privado y social, las acciones para prevenir la farmacodependencia, con base en la información y en el desarrollo de habilidades para proteger, promover, restaurar, cuidar la salud individual, familiar, laboral, escolar y colectiva;
+
+III. Proporcionar atención integral a grupos de alto riesgo en los que se ha demostrado, a través de diversas investigaciones y estudios, que, por sus características biopsicosociales, tienen mayor probabilidad de uso, abuso o dependencia a sustancias psicoactivas; y
+
+IV. Realizar las acciones de prevención necesarias con base en la percepción de riesgo de consumo de sustancias en general, la sustancia psicoactiva de uso; las características de los individuos; los patrones de consumo; los problemas asociados a las drogas; así como los aspectos culturales y las tradiciones de los distintos grupos sociales.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+###### Artículo 142 Bis 10.
+
+La Secretaría de Salud del Estado de Hidalgo realizará procesos de investigación en materia de farmacodependencia para:
+
+I. Determinar las características y tendencias del problema, así como su magnitud e impacto en lo individual, familiar y colectivo;
+
+II. Contar con una base científica que permita diseñar e instrumentar políticas públicas eficaces en materia de farmacodependencia;
+
+III. Evaluar el impacto de los programas preventivos, así como de tratamiento y rehabilitación, estableciendo el nivel de costo-efectividad de las acciones;
+
+IV. Identificar grupos y factores de riesgo y orientar la toma de decisiones;
+
+V. Desarrollar estrategias de investigación y monitoreo que permitan conocer suficientemente, las características de la demanda de atención para problemas derivados del consumo de sustancias psicoactivas, la disponibilidad de recursos para su atención y la manera como éstos se organiza (sic), así como los resultados que se obtienen de las intervenciones;
+
+VI. Realizar convenios de colaboración con el Gobierno Federal, dependencias, otras entidades y a nivel internacional que permita fortalecer el intercambio de experiencias novedosas y efectivas en la prevención y tratamiento, así como el conocimiento y avances sobre la materia; y
+
+VII. En toda investigación en que el ser humano sea sujeto de estudio, deberá prevalecer el criterio del respeto a su dignidad, la protección de sus derechos y su bienestar.
+
+En el diseño y desarrollo de este tipo de investigaciones se debe obtener el consentimiento informado y por escrito de la persona y, en su caso, del familiar más cercano en vínculo, o representante legal, según sea el caso, a quienes deberán proporcionárseles todos los elementos para decidir su participación.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+###### Artículo 142 Bis 11.
+
+El proceso de tratamiento de la farmacodependencia debe:
+
+I. Estar avalado por una intervención integral e individualizada de abstinencia o reducción de consumo;
+
+II. Fomentar la participación comunitaria y familiar en la prevención y tratamiento, en coordinación con las autoridades locales, y las instituciones públicas o privadas, involucradas en los mismos, para la planeación, programación, ejecución, evaluación y seguimiento de los programas y acciones;
+
+III. Fortalecer la responsabilidad social, la autogestión y el auto cuidado de la salud, fomentando la conformación de estilos de vida y entornos saludables que permitan desarrollar el potencial de cada persona, propiciando condiciones que eleven la calidad de vida de las familias y de las comunidades;
+
+IV. Reconocer a las comunidades terapéuticas, para la rehabilitación y reinserción social de farmacodependientes; y
+
+V. Reconocer la importancia de los diversos grupos de ayuda mutua, que ofrecen servicios gratuitos en apoyo a los farmacodependientes en recuperación, en apego irrestricto a la normatividad y derechos humanos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -1341,7 +1539,7 @@ Artículo 142 Sexties.- La atención y tratamiento de los trastornos mentales de
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2018)</small>
 
-## TITULO QUINTO. VIGILANCIA SANITARIA
+## TITULO CUARTO
 
 ### CAPITULO IV
 
@@ -1462,6 +1660,10 @@ VIII. Los demás que le confieran la normatividad aplicable.
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
 
 Artículo 142 Undecies.- En casos de urgencia médica y que exista incapacidad de las personas con enfermedades raras no infecto-contagiosas crónicas o crónico-degenerativas y de las personas enfermas en situación terminal, para expresar su consentimiento, y en ausencia de familiares, representante legal, tutor o persona de confianza, la decisión de aplicar un procedimiento médico quirúrgico o tratamiento necesario, será tomada por dos integrantes del personal médico autorizado en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2021)</small>
+
+## TITULO QUINTO. VIGILANCIA SANITARIA
 
 ## TITULO SEXTO. MEDIDAS DE SEGURIDAD Y SANCIONES
 
@@ -1647,6 +1849,10 @@ X.- La suspensión de mensajes publicitarios en materia de salud;
 
 XI.- La emisión de mensajes publicitarios que advierta peligros de daños a la salud;
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+XI Bis.- El uso de cubrebocas y demás medidas complementarias dictadas por las autoridades sanitarias para proteger, prevenir y evitar el contagio y propagación de virus y bacterias;
+
 XII.- La prohibición de actos de uso; y
 
 XIII.- Las demás de índole sanitaria que determine la Autoridad Sanitaria, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
@@ -1675,7 +1881,9 @@ Las autoridades competentes ordenarán la vacunación de personas expuestas a co
 
 I.- Cuando no hayan sido vacunados contra la tosferina, la difteria, el tétanos, la tuberculosis, la poliomielitis, el sarampión, el virus del papiloma humano y demás enfermedades transmisibles cuya vacunación se estime obligatoria.
 
-II.- En caso de epidemia grave; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2021)</small>
+
+II.- En caso de epidemia o pandemia; priorizando al personal de salud, a los grupos de riesgo conforme al comportamiento epidemiológico, y posteriormente a la población en general, en coordinación con las autoridades competentes.
 
 III.- Si existiera peligro de invasión de dichos padecimientos en la Entidad Federativa.
 
@@ -1697,6 +1905,10 @@ En todo caso, se dará a las Dependencias encargadas de la Sanidad Animal la int
 
 La Secretaría de Salud y los municipios, en el ámbito de sus respectivas competencias podrán ordenar la inmediata suspensión de trabajos o de servicios o la prohibición de actos de uso, cuando, de continuar aquellos, se ponga en peligro la salud de las personas.
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+En caso necesario, para que proceda la suspensión de trabajos o de servicios, deberá evaluarse el carácter esencial de las actividades a suspender.
+
 ###### Artículo 179.
 
 La suspensión de trabajos o servicios será temporal, podrá ser total o parcial y se aplicará por el tiempo estrictamente necesario para corregir las irregularidades que pongan en peligro la salud de las personas, se ejecutarán las acciones necesarias que permitan asegurar la referida suspensión.
@@ -1714,6 +1926,28 @@ Si el dictamen resultara que el bien asegurado es nocivo, se podrá determinar, 
 ###### Artículo 181.
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general de cualquier predio, se ordenará, observando la garantía de audiencia y legalidad y previo dictamen pericial, cuando a juicio de la Autoridad Sanitaria, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+###### Artículo 181 Bis.
+
+Durante el tiempo que persista una emergencia sanitaria declarada previamente por La autoridad estatal competente, y que sea provocada por una enfermedad contagiosa de las vías respiratorias, el uso de cubrebocas será obligatorio hasta que la misma autoridad declare oficialmente su conclusión, debiendo apegarse a las siguientes reglas:
+
+I. La obligatoriedad del uso de cubrebocas tiene como finalidad, prevenir que las personas infectadas transmitan la enfermedad a terceros, y brindar protección a las personas sanas en contra de la infección.
+
+II. La falta de uso del cubrebocas por personas mayores de cinco hasta dieciocho años, será responsabilidad de los padres de familia o tutores, o de quienes tengan a su cuidado a dichos menores.
+
+III. El uso del cubrebocas será obligatorio en vías y espacios públicos o de uso común; en el interior de establecimientos ya sean de comercio, industria o servicios; centros de trabajo de cualquier ramo; centros comerciales, así como para usuarios, operadores y conductores de los servicios de transporte público o privado de pasajeros o de carga, previa determinación y aprobación de los respectivos lineamientos por parte de la Secretaría.
+
+IV. Quedan excluidos del uso obligatorio de cubrebocas:
+
+a. Menores de cinco años;
+
+b. Cualquier persona que tenga dificultad para respirar, y
+
+c. Personas que no puedan quitarse el cubrebocas sin ayuda.
+
+V. Las autoridades sanitarias en el ámbito de su competencia, mantendrán estrategias de difusión permanentes para promover el uso del cubrebocas.
 
 ### CAPITULO V. PRESCRIPCIÓN
 
@@ -1764,6 +1998,14 @@ Se sancionará con multa equivalente de cien hasta quinientas veces la Unidad de
 ###### Artículo 187.
 
 Se sancionará con multa equivalente de quinientas hasta mil veces la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los Artículos 82, 102, 104, 105, 106, 112, 125, 148 y 178.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+
+###### Artículo 187 Bis.
+
+En el caso del artículo 181 Bis, la sanción de multa será de 5 a 10 veces el valor diario de la Unidad de Medida y Actualización, la cual se podrá conmutar por arresto administrativo hasta por 36 horas o por trabajo en favor de la comunidad hasta por 8 horas.
+
+Las autoridades sanitarias correspondientes, auxiliaran a la Secretaría en la ejecución de lo señalado en el párrafo anterior.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -2052,3 +2294,15 @@ P.O. 17 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 418 QUE ADICIONA LA FRACCIÓN XIV BIS AL APARTADO C DEL ARTÍCULO 3, DE LA LEY DE SALUD DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM.695 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto, deberán contemplarse a más tardar en el ejercicio fiscal 2022, quedando sujeto a la disponibilidad presupuestaria anual que se apruebe, así como a lo establecido en los convenios, acuerdos, planes, programas y normatividad vigente.
+
+TERCERO. El Ejecutivo Estatal en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor deberá emitir las reglas de operación del programa correspondiente a los servicios de salud en domicilio particular, conforme a lo dispuesto al artículo 5 BIS del presente Decreto.
+
+CUARTO. Las autoridades municipales, atendiendo a lo dispuesto en los artículos 181 Bis y 187 Bis, tendrán un plazo de hasta treinta días naturales, contado a partir de la entrada en vigor del presente Decreto, para adecuar o expedir normas reglamentarias atendiendo a sus facultades constitucionales y legales.
