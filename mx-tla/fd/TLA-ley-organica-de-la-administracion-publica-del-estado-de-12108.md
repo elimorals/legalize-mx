@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-de-la-administracion-publica-del-estado-de-12108"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-07"
-last_updated: "2019-05-27"
+last_updated: "2021-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TLA"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TLAXCALA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 7 de abril de 1998.
 
@@ -1171,15 +1173,9 @@ El Gobernador del Estado podrá convenir con el Ejecutivo Federal y con los ayun
 
 El Gobernador del Estado decidirá cuáles dependencias de la Administración Pública Estatal deberán de coordinarse con las dependencias federales, así como con las autoridades municipales para el cumplimiento de los propósitos a que se refiere el artículo anterior.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
 ###### ARTICULO 71.
 
-La Junta Local de Conciliación y Arbitraje, es un tribunal administrativo con plena autonomía jurisdiccional que realiza sus funciones en términos de la competencia que le atribuye el artículo 123 de la Constitución General de la República, la Ley Federal del Trabajo y demás disposiciones aplicables.
-
-En lo administrativo, la Junta dependerá directamente de la Secretaría de Gobierno, quien atenderá las cuestiones relativas a los recursos humanos y materiales que requiere para su funcionamiento.
-
-El nombramiento y remoción del Presidente de la Junta, corresponde al Gobernador en los términos que establece la Ley Federal del Trabajo. Las facultades y obligaciones de dichos funcionarios son las determinadas en la Constitución Federal y la Ley mencionada.
+(DEROGADO, P.O. 16 DE MARZO DE 2021)
 
 (REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)
 
@@ -1558,3 +1554,21 @@ Los derechos y obligaciones contractuales contraídos por la Comisión Estatal d
 ###### ARTÍCULO OCTAVO.
 
 Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 16 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 313.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL; SE DEROGA EL ARTÍCULO 71 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA; SE REFORMAN EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 66 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN I, DEL ARTÍCULO 5 DE LA LEY LABORAL DE LOS SERVIDORES PÚBLICOS; TODAS DEL ESTADO DE TLAXCALA”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala, sin perjuicio de lo dispuesto por los transitorios siguientes, con excepción de lo dispuesto por los artículos 71 de la Ley Orgánica de la Administración Pública del Estado de Tlaxcala, y de la fracción I del artículo 66 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tlaxcala, los que entrarán en vigor una vez que la Junta Local de Conciliación y Arbitraje haya concluido con los procedimientos a su cargo.
+
+Artículo Segundo. A partir de la entrada en vigor del presente Decreto, el Tribunal Superior de Justicia del Estado, deberá realizar las adecuaciones legales y administrativas necesarias para el debido funcionamiento de los juzgados laborales.
+
+Artículo Tercero. En la implementación de las disposiciones a que se refiere el Decreto en materia de Justicia Laboral, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019, los Juzgados Laborales deberán incorporar en sus programas de formación y capacitación, metodologías y contenidos para brindar atención y asesoría en materia de protección de derechos humanos a personas en situación de vulnerabilidad.
+
+Artículo Cuarto. Las convocatorias a concurso para la selección de personal de los Juzgados Laborales serán de carácter abierto y garantizarán el derecho de participar en igualdad de oportunidades al personal de la Junta Local de Conciliación y Arbitraje.
+
+Artículo Quinto. De conformidad con la capacidad presupuestal y recursos humanos e informáticos del Poder Judicial, el Consejo de la Judicatura emitirá los acuerdos generales para implementar las herramientas necesarias para el funcionamiento del sistema de justicia laboral. Lo que hará del conocimiento de los interesados a través del Periódico Oficial del Gobierno del Estado y por cualquier otro medio de difusión.
+
+Artículo Sexto. Los Juzgados Laborales, iniciaran sus funciones en los términos, que para tal efecto se establezcan en la Declaratoria que realice el Congreso del Estado de Tlaxcala.
+
+Artículo Séptimo. Quedan derogadas todas las normas que se opongan al presente Decreto.
