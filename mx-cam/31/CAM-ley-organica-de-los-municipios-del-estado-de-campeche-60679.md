@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-60679"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-03"
-last_updated: "2019-12-13"
+last_updated: "2021-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2021.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 3 de marzo de 2008.
 
@@ -211,9 +211,11 @@ IX. Los que resulten de la Constitución Política de los Estados Unidos Mexican
 
 ### CAPÍTULO PRIMERO. DE SU INTEGRACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 20.
 
-El Ayuntamiento se integra con un Presidente Municipal y el número de Regidores y Síndicos que determine la Constitución Política del Estado.
+El Ayuntamiento se integra con una Presidenta o un Presidente Municipal y el número de Regidurías y Sindicaturas que determine la Constitución Política del Estado, observando el principio de paridad de género.
 
 Los integrantes del Ayuntamiento serán electos mediante los principios de mayoría relativa y de representación proporcional conforme a lo dispuesto por la Constitución Política del Estado y la ley electoral.
 
@@ -225,19 +227,21 @@ Los ayuntamientos se renovarán en su totalidad cada tres años. El período con
 
 Los integrantes de los ayuntamientos deberán satisfacer los requisitos y no estar sujetos a los impedimentos previstos en la Constitución Política del Estado de Campeche y en la ley electoral.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 23.
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos podrán ser reelectos hasta por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+La Presidenta o Presidente Municipal y las personas titulares de Regidurías y Sindicaturas de los Ayuntamientos, podrán ser reelectos hasta por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 ###### ARTÍCULO 24.
 
 Los cargos municipales de elección popular no son renunciables, sino por causa grave debidamente justificada.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 25.
 
-A cada regidor se asignará un número ordinal. Uno de los síndicos será el de asuntos jurídicos, el otro lo será de hacienda. En el caso de los ayuntamientos de Campeche y Carmen, el síndico de representación proporcional será asignado al ramo que determine el Cabildo.
+A cada persona titular de una regiduría se asignará un número ordinal. Una de las personas titulares de las Sindicaturas será el de asuntos jurídicos, la otra lo será de hacienda. En el caso de los ayuntamientos de Campeche y Carmen, la persona titular de una Sindicatura de representación proporcional será asignada al ramo que determine el Cabildo.
 
 ###### ARTÍCULO 26.
 
@@ -1079,6 +1083,10 @@ XII. Cumplir con las responsabilidades y ejercer las facultades que le correspon
 
 XIII. Emitir disposiciones que garanticen la efectiva participación de los pueblos indígenas en los distintos ámbitos y niveles de gobierno comunal y municipal;
 
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2021)</small>
+
+XIII bis. Impulsar políticas públicas que garanticen la igualdad de oportunidades entre mujeres y hombres, así como la prevención y erradicación de la violencia contra las mujeres;
+
 XIV. Fomentar e impulsar la industria, agricultura, ganadería, pesca y comercio, así como cualquier otra actividad que propicie el desarrollo del Municipio;
 
 XV. Combatir el alcoholismo y prohibir la venta de bebidas embriagantes, sin excepción, en la vía pública, en fincas de campo, fábricas, estaciones de ferrocarril y autobuses, así como en cualquier centro escolar y de trabajo;
@@ -1161,7 +1169,13 @@ VI. Designar a los Agentes Municipales, Delegados de Sector, Inspectores de Cuar
 
 VII. Imponer conforme a las disposiciones aplicables, medidas disciplinarias a sus integrantes y a funcionarios municipales por las faltas en que incurran en el cumplimiento de sus obligaciones, cuando ello no sea competencia del Órgano Interno de Control;
 
-VIII. En general, promover en la esfera administrativa municipal lo necesario para el mejor desempeño de las facultades que al Ayuntamiento confiere esta Ley y demás disposiciones legales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2021)</small>
+
+VIII. Crear una instancia municipal de la mujer, destinada a las políticas públicas de atención a las mujeres;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE MARZO DE 2021)</small>
+
+IX. En general, promover en la esfera administrativa municipal lo necesario para el mejor desempeño de las facultades que al Ayuntamiento confiere esta Ley y demás disposiciones legales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
@@ -1231,7 +1245,9 @@ Para la formulación de planes y programas municipales el Ayuntamiento promover�
 
 El Ayuntamiento formulará los planes y programas siguientes:
 
-I. El Plan de Desarrollo Municipal;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
+
+I. El Plan de Desarrollo Municipal con perspectiva de género;
 
 II. El Plan de Desarrollo Urbano Municipal;
 
@@ -1353,9 +1369,11 @@ El Cabildo podrá crear mediante el acuerdo que al efecto expida, exclusivamente
 
 El ayuntamiento, sus dependencias así como sus organismos centralizados y paramunicipales, no están obligados a otorgar garantías ni a efectuar depósitos para el cumplimiento de obligaciones con cargo a sus presupuestos de egresos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 121.
 
-La estructura orgánica y funcional de las dependencias y entidades de la Administración Pública Municipal deberá estar autorizada por el Cabildo, a propuesta del Presidente Municipal.
+La estructura orgánica y funcional de las dependencias y entidades de la Administración Pública Municipal deberá estar autorizada por el Cabildo, a propuesta de la Presidenta o el Presidente Municipal, observando el principio de paridad de género.
 
 Para la autorización de la estructura orgánica se atenderá a la disponibilidad de recursos y se deberá prever lo relativo a la suplencia temporal de los titulares de las dependencias y entidades municipales.
 
@@ -2602,3 +2620,13 @@ PRIMERO.- El presente decreto entrará en vigor el 1º de enero del año 2020, p
 SEGUNDO.- Lo establecido en este decreto, se realizará preferentemente con el personal del que dispongan los ayuntamientos y sus autoridades auxiliares, con conocimiento de la lengua y cultura indígena de que se trate.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 16 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 213 POR EL QUE “SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 20; EL ARTÍCULO 23 Y EL ARTÍCULO 25; LA FRACCIÓN VIII DEL ARTÍCULO 106; LA FRACCIÓN I DEL ARTÍCULO 111; EL ARTÍCULO 121; Y SE ADICIONA UNA FRACCIÓN XIII BIS AL ARTÍCULO 103 Y UNA FRACCIÓN IX AL ARTÍCULO 106 TODOS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará a los quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los municipios del Estado, en la medida de sus posibilidades deberán hacer ajustes presupuestales necesarios para la aplicación de lo dispuesto en la fracción VIII del artículo 106 del presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales, en lo que se opongan al contenido del presente decreto.
