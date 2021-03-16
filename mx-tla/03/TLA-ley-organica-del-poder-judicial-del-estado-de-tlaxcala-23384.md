@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2018-04-12"
+last_updated: "2021-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -45,13 +45,11 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
 ### Capítulo Primero. De las Generalidades
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
 
 ###### Artículo 1.
 
-Esta ley es de interés público, tiene como objeto garantizar a través del Poder Judicial la supremacía y el control de la Constitución Política del Estado y estará expedito para impartir justicia de manera pronta, gratuita, completa e imparcial, en los asuntos de orden civil, familiar, penal, ejecución de sanciones, administración de justicia para adolescentes y en los del orden federal en los casos en que las leyes de la materia le confiera jurisdicción.
+Esta ley es de interés público, tiene como objeto garantizar a través del Poder Judicial la supremacía y el control de la Constitución Política del Estado y estará expedito para impartir justicia de manera pronta, gratuita, completa e imparcial, en los asuntos de orden civil, familiar, penal, ejecución de sanciones, administración de justicia para adolescentes, mercantil, laboral y en los del orden federal en los casos en que las leyes de la materia le confieran jurisdicción.
 
 ###### Artículo 2.
 
@@ -101,31 +99,33 @@ X. Los Juzgados de Garantías de Adolescentes;
 
 XI. Los Juzgados de Administración de Justicia para adolescentes;
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
 
-XII. Los Juzgados de Ejecución de Medidas aplicables a adolescentes, y
+XII. Los Juzgados de Ejecución de Medidas aplicables a adolescentes;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
 
-XIII. El Centro Estatal de Justicia Alternativa.
+XIII. El Centro Estatal de Justicia Alternativa;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE MARZO DE 2021)</small>
 
 XIV. Los Juzgados Mercantiles y de Oralidad Mercantil;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
 
-XV. Juzgados especializados en extinción de dominio, y
+XV. Juzgados especializados en extinción de dominio;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2021)</small>
 
-XVI. La Unidad de Igualdad de Género, y
+XVI. Juzgados Laborales;
 
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE MARZO DE 2021)</small>
 
-XVII. El Tribunal de Justicia Administrativa.
+XVII. La Unidad de Igualdad de Género, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE MARZO DE 2021)</small>
+
+XVIII. El Tribunal de Justicia Administrativa.
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
@@ -153,9 +153,17 @@ IX. Los servidores públicos adscritos a las instituciones a cargo del cumplimie
 
 X. Los Jueces Municipales;
 
-XI. El Procurador y personal de la Procuraduría de la Defensa del Menor, la Mujer y la Familia y de los demás centros de asistencia a personas en situación de riesgo o maltrato, y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
 
-XII. Los demás a quienes las leyes les confieran este carácter.
+XI. El Procurador y personal de la Procuraduría para la Protección de Niñas, Niños y Adolescentes y de los demás centros de asistencia a personas en situación de riesgo o maltrato;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2021)</small>
+
+XII. Las autoridades laborales y de seguridad social, federales y estatales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE MARZO DE 2021)</small>
+
+XIII. Los demás a quienes las leyes les confieran este carácter.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -277,13 +285,13 @@ VII. XICOHTENCATL, con sede en la Villa Vicente Guerrero, que comprenderá los M
 
 VIII. ZARAGOZA, con sede en la Ciudad de Zacatelco, que comprenderá los Municipios de: Zacatelco, Acuamanala de Miguel Hidalgo, Nativitas, Teolocholco, Tepeyanco, Tetlatlahuca, Xicohtzinco, Santa Apolonia Teacalco, Santa Cruz Quilehtla, San Juan Huactzinco, Santa Catarina Ayometla, Santa Isabel Xiloxoxtla, San Damián Texóloc, San Jerónimo Zacualpan y San Lorenzo Axocomanitla.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2021)</small>
 
 ###### Artículo 7 Bis.
 
-El Pleno del Tribunal Superior de Justicia, mediante acuerdos generales determinará, conforme al presupuesto, la creación de Juzgados Mercantiles y de Oralidad Mercantil que funcionarán en el Estado y les fijará su residencia.
+El Pleno del Tribunal Superior de Justicia, mediante acuerdos generales determinará, conforme al presupuesto, la creación de Juzgados Mercantiles, de Oralidad Mercantil y Laborales, que funcionarán en el Estado y les fijará su residencia.
 
-La competencia territorial de los Juzgados Mercantiles y de Oralidad Mercantil podrá abarcar el territorio de uno o más distritos judiciales, según lo determine el Pleno del Tribunal Superior de Justicia.
+La competencia territorial de los Juzgados Mercantiles, de Oralidad Mercantil y Laborales podrá abarcar el territorio de uno o más distritos judiciales, según lo determine el Pleno del Tribunal Superior de Justicia.
 
 ###### Artículo 8.
 
@@ -714,6 +722,18 @@ XII. Emitir los acuerdos para determinar el lugar en que deban celebrarse las se
 > <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 XIII. Las demás que establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 27 Bis.
+
+En el ámbito laboral, el Pleno ejercerá las facultades siguientes:
+
+I. Resolver sobre los conflictos de competencia a que se refiere la fracción I, del artículo 705 Bis de la Ley Federal del Trabajo;
+
+II. Resolver la recusación a que se refiere el artículo 709-A de la Ley Federal del Trabajo, conforme al procedimiento establecido en dicho ordenamiento, y
+
+III. Las demás que establezcan las leyes.
 
 ### Capítulo Cuarto. Del Presidente del Tribunal
 
@@ -1487,6 +1507,50 @@ IX. De la elaboración de los registros en que consten los discernimientos de lo
 
 X. De los demás asuntos que le encomienden las Leyes.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 49 Bis.
+
+Los juzgados laborales serán competentes para conocer y resolver:
+
+I. De las diferencias o conflictos entre trabajadores y patrones, en los términos de la fracción XX, del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+
+II. De los conflictos y procedimientos individuales y colectivos que se susciten con motivo del cumplimiento y aplicación de las normas contenidas en la Ley Federal del Trabajo, así como de cualquier normatividad federal o local de la materia que adquiera vigencia, que no sean de competencia de los órganos jurisdiccionales federales;
+
+III. De la diligenciación de exhortos, requisitorias y despachos de naturaleza laboral, y
+
+IV. De los demás asuntos que les encomienden las leyes y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 49 Ter.
+
+Los juzgados laborales se integrarán por:
+
+I. Un Juez o Jueza;
+
+II. Secretaria o Secretario Instructor, y
+
+III. Las y los servidores públicos que determine el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 49 Quáter.
+
+Para ser juez o jueza laboral se deberá reunir los requisitos establecidos en la Constitución Política del Estado Libre y Soberano de Tlaxcala.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 49 Quinquies.
+
+Los jueces y juezas laborales tendrán las facultades y obligaciones que establecen la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 49 Sexies.
+
+Los jueces y juezas laborales tienen fe pública en el ejercicio de sus funciones.
+
 ###### Artículo 50.
 
 Los Jueces Penales conocerán y resolverán:
@@ -1655,8 +1719,6 @@ VI. Visitar los centros de reinserción social, con el fin de cumplir eficazment
 
 VII. Los demás asuntos que les encomienden las leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 51.
@@ -1665,11 +1727,13 @@ El personal de los juzgados se integrará por los Secretarios de Acuerdos, Dilig
 
 Además de los servidores públicos indicados, el Consejo de la Judicatura nombrará al demás personal necesario para el buen funcionamiento del juzgado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS QUINTO Y SEXTO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 En cada juzgado que conozca de la materia civil, mercantil y familiar habrá un mediador-conciliador que intervendrá, en apoyo del juez, en el desarrollo de las audiencias en que las partes intenten resolver el conflicto a través de mecanismos alternativos.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+
+En los juzgados laborales, habrá un mediador-conciliador que intervendrá, en apoyo del juez o jueza, sólo en los casos en que la Ley Federal del Trabajo prevea la conciliación ante este órgano Jurisdiccional.
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1677,7 +1741,9 @@ En cada juzgado que conozca de la materia civil, mercantil y familiar habrá un 
 
 Los jueces y magistrados en materia penal, y especializados en justicia para adolescentes tienen fe pública en el ejercicio de sus funciones.
 
-### Capítulo Tercero. De los Diligenciarios
+### Capítulo Segundo Bis. De los Secretarios Instructores
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
 
 ###### Artículo 52.
 
@@ -1755,11 +1821,73 @@ VIII. No ser miembro activo del Ejército y Fuerzas Armadas del País, y
 
 IX. Aprobar los exámenes públicos de oposición, que se efectúen conforme a la Ley.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE MARZO DE 2021)</small>
+
+### Capítulo Tercero. De los Diligenciarios
+
+###### Artículo 53 Bis.
+
+En cada uno de los juzgados laborales habrá las y los secretarios instructores autorizados y nombrados que el Consejo de la Judicatura determine convenientes.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 53 Ter.
+
+Las secretarias y secretarios instructores tendrán fe pública, en todo lo relativo al ejercicio de su cargo.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 53.
+
+(sic) Quáter. Para ser secretaria o secretario instructor se deberá de reunir los requisitos previstos en el artículo 53 de esta Ley, así como demostrar capacitaciones o experiencia en materia laboral.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 53 Quinquies.
+
+Las secretarias y secretarios instructores de los juzgados laborales, tendrán las facultades y obligaciones siguientes:
+
+I. Dirigir las actividades necesarias para la tramitación y seguimiento de los procedimientos judiciales, en el ámbito de su competencia;
+
+II. Admitir o prevenir con inmediatez las demandas derivadas de conflictos del trabajo;
+
+III. Adoptar las medidas necesarias para evitar retrasos en la atención de personas en condiciones de vulnerabilidad relacionadas con los procedimientos judiciales, dentro del ámbito de su competencia;
+
+IV. Admitir y proveer respecto de pruebas ofrecidas para acreditar excepciones dilatorias;
+
+V. Dictar las providencias cautelares que resulten procedentes;
+
+VI. Dictar los acuerdos conducentes hasta antes de la audiencia preliminar;
+
+VII. Certificar que las notificaciones personales estén debidamente practicadas;
+
+VIII. Hacer constar oralmente el registro, fecha, hora y lugar de las audiencias, el nombre de quienes intervendrán y tomar la protesta de ley a las partes;
+
+IX. Rendir en tiempo y forma, dentro del ámbito de su competencia, el informe relacionado con la observancia a los ordenamientos jurídicos en materia de transparencia y acceso a la información pública;
+
+X. Dar vista al Consejo de la Judicatura de las faltas administrativas cometidas por el personal a su cargo;
+
+XI. Despachar los exhortos, requisitorias y colaboraciones que reciba el Tribunal, observando las formalidades procesales correspondientes;
+
+XII. Revisar el estatus de los expedientes para gestionar el impulso de los mismos, de acuerdo a la Ley Federal del Trabajo;
+
+XIII. Registrar, administrar, dar seguimiento y supervisar el cumplimiento de los amparos que se promuevan contra resoluciones o sentencias definitivas, de conformidad con la Ley de Amparo;
+
+XIV. Certificar los medios en donde se encuentren registradas las audiencias, identificarlas con el número de expediente y tomar las medidas necesarias para evitar que puedan alterarse;
+
+XV. Expedir copias certificadas de registros y actuaciones procesales a los interesados;
+
+XVI. Dar vista al Procurador o Agente del Ministerio Público en los casos que establece la Ley Federal del Trabajo;
+
+XVII. Auxiliar al Juez en los casos que determine la Ley Federal del Trabajo;
+
+XVIII. Proponer la capacitación y adiestramiento del personal a su cargo;
+
+XIX. Disponer la tramitación inmediata del escrito de emplazamiento a huelga que de manera lícita y justificada formule una coalición de trabajadores, observando los plazos establecidos en la Ley Federal del Trabajo; así como atender en el ámbito de su competencia, la substanciación del procedimiento correspondiente, y
+
+XX. Las que le confiera esta Ley, la Ley Federal del Trabajo, los acuerdos emitidos por el Pleno del Consejo de la Judicatura, las que le asigne el Juez y demás disposiciones jurídicas aplicables.
+
 ### Capítulo Cuarto. De los Oficiales de Partes
-
-### Capítulo Quinto. De los Proyectistas
-
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 54.
 
@@ -1815,11 +1943,9 @@ XI. Las demás que les fijen las leyes.
 
 Para ser designado Diligenciario se requerirá cumplir con los mismos requisitos que se enumeran en el Artículo 53, con excepción de la edad que será de veintiséis años y la experiencia profesional que deberá ser de cuatro años como mínimo.
 
-### Capítulo Sexto. De los Administradores de Oficina
+### Capítulo Quinto. De los Proyectistas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 56.
 
@@ -1849,7 +1975,11 @@ Para ser designado Oficial de Partes se requerirá cumplir con los mismos requis
 
 Las ausencias temporales de los Oficiales de Partes serán cubiertas por quien designe el Juez.
 
-### Capítulo Primero. Del Consejo de la Judicatura
+### Capítulo Sexto. De los Administradores de Oficina
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 58.
 
@@ -1869,11 +1999,7 @@ Los Proyectistas cubrirán las ausencias temporales de los Secretarios de Acuerd
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE AGOSTO DE 2013)</small>
 
-### Capítulo Segundo. De las Unidades Administrativas
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2008)</small>
+### Capítulo Primero. Del Consejo de la Judicatura
 
 ###### Artículo 60 Bis.
 
@@ -1943,11 +2069,11 @@ Para ser mediador o conciliador se deben reunir los mismos requisitos que se est
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-### Capítulo Primero. Del Instituto de Especialización Judicial
+### Capítulo Segundo. De las Unidades Administrativas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 #### Sección Primera. Generalidades
 
@@ -2069,15 +2195,11 @@ El Consejo de la Judicatura sesionará ordinariamente una vez al mes por convoca
 
 Para sesionar se requiere, cuando menos, la presencia de tres de sus integrantes, entre los que deberá estar el Presidente del Consejo de la Judicatura. Sus decisiones se tomarán por mayoría o por unanimidad de votos; en caso de empate el Presidente tendrá voto de calidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 68.
 
 Son atribuciones del Pleno del Consejo de la Judicatura:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
@@ -2101,11 +2223,9 @@ VIII. Nombrar, a propuesta del Consejero Presidente, al Secretario Ejecutivo; y 
 
 IX. Recibir, tramitar y resolver las quejas administrativas o denuncias que se formulen en contra de los servidores públicos del Poder Judicial del Estado, así como las quejas que se formulen en contra de los Jueces de los Juzgados del Sistema de Justicia Penal Acusatorio Oral por no realizar un acto procesal dentro del plazo señalado por el Código Nacional de Procedimientos Penales. Sus resoluciones serán definitivas e inatacables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-X. Otorgar estímulos y recompensas a los servidores públicos del Poder Judicial que se hayan destacado en el desempeño de su cargo, conforme a lo establecido en el artículo cuarto transitorio de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Tlaxcala;
+X. Otorgar estímulos y recompensas a las y los servidores públicos del Poder Judicial que se hayan destacado en el desempeño de su cargo, conforme a lo establecido en la legislación que resulte aplicable.
 
 XI. Vigilar el funcionamiento del órgano que realice labores de compilación y sistematización de leyes, tesis, ejecutorias, precedentes y jurisprudencia, así como de la estadística e informática, de la biblioteca y del archivo general del Poder Judicial;
 
@@ -2117,8 +2237,6 @@ XIV. Ordenar las visitas periódicas a los juzgados, para observar la conducta y
 
 XV. Elaborar estudios de las leyes y disposiciones reglamentarias relacionadas con la organización y funcionamiento de la administración de justicia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 XVI. Autorizar a los secretarios de los juzgados para desempeñar las funciones de los jueces en las ausencias temporales de éstos; asimismo, designar a los secretarios interinos, conforme a los lineamientos que al respecto emita el Consejo de la Judicatura;
@@ -2129,61 +2247,41 @@ XVIII. Conceder licencia sin goce de sueldo hasta por seis meses, a los servidor
 
 Por lo que se refiere al personal de base, conforme se establece en las condiciones generales de trabajo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 XIX. Emitir las bases generales para las adquisiciones, arrendamientos y enajenación de bienes, la prestación de servicios y la contratación de obra que realice el Poder Judicial, atendiendo lo dispuesto en las leyes de la materia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 XX. Calificar legalmente los impedimentos de los integrantes del Consejo de la Judicatura;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 XXI. Comunicar al Ministerio Público la presunta comisión de delitos por servidores públicos del Poder Judicial, cuando con motivo de su actuación tenga conocimiento de éstos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 XXII. Fijar las bases de la política informática y estadística en el Poder Judicial;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 XXIII. Aprobar el plan de trabajo anual del Centro Estatal de Justicia Alternativa;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 XXIV. Aprobar los convenios de colaboración interinstitucional propuestos por el Centro Estatal de Justicia Alternativa;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 XXV. Aprobar el Reglamento del Centro Estatal de Justicia Alternativa, así como su reforma, adición o derogación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-XXVI. Recibir, tramitar, investigar y resolver las quejas administrativas o denuncias que se formulen en contra de los servidores públicos del Poder Judicial del Estado, tomando en consideración lo previsto por este ordenamiento y la Ley de Responsabilidades de los Servidores Públicos para el Estado de Tlaxcala. Sus resoluciones serán definitivas e inatacables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXVI. Recibir, tramitar, investigar y resolver las quejas administrativas o denuncias que se formulen en contra de las y los servidores públicos del Poder Judicial del Estado, tomando en consideración lo previsto por este ordenamiento y la Ley General de Responsabilidades Administrativas. Sus resoluciones serán definitivas e inatacables;
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 XXVII. Otorgar autorización para que en una sede de juzgado puedan actuar uno o más jueces, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
@@ -2311,7 +2409,11 @@ XIV. Proponer al Pleno el orden del día de las sesiones, en el cual deberán co
 
 XV. Las demás que determinen las leyes, el Pleno, los reglamentos y acuerdos generales.
 
-### Capítulo Segundo. De la Carrera Judicial
+### Capítulo Primero. Del Instituto de Especialización Judicial
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 #### Sección Primera. Secretaría Ejecutiva
 
@@ -2485,7 +2587,9 @@ La Contraloría, a fin de garantizar y mantener su criterio independiente en la 
 
 Para la consecución de sus objetivos, la Contraloría contará con el personal que sea necesario para llevar a cabo su función y para organizar el personal que preste auxilio a los magistrados que deban realizar las visitas conforme a la Ley.
 
-#### Sección Quinta. Archivo Judicial
+#### Sección Cuarta Bis. Unidad de Peritos Judiciales en Materia Laboral
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
 
 ###### Artículo 81.
 
@@ -2503,7 +2607,9 @@ I. Ser mexicano por nacimiento;
 
 II. Tener cuando menos treinta años de edad;
 
-III. Contar con título y cédula profesional registrado ante las autoridades competentes; excepto que la actividad correspondiente no esté considerada como profesión;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
+
+III. Tener conocimiento, capacidad y preparación en la ciencia, arte u oficio sobre el que va a dictaminar y poseer, en su caso, título y cédula profesional expedido por una institución de enseñanza superior legalmente facultada para ello y registrado ante las autoridades competentes; si la profesión o el arte estuvieren legalmente reglamentados, los peritos deben acreditar estar autorizados conforme a la Ley.
 
 IV. Acreditar una experiencia mínima de cinco años, y
 
@@ -2529,15 +2635,33 @@ IV. Las demás que fijen las Leyes.
 
 Los peritos de las diferentes especialidades que prestan sus servicios como auxiliares de la administración de justicia, cobrarán conforme al arancel que determine el Pleno del Consejo de la Judicatura en forma anual.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE MARZO DE 2021)</small>
+
+#### Sección Quinta. Archivo Judicial
+
+###### Artículo 84 Ter.
+
+La Unidad de Peritos Judiciales es un área técnica cuyo objeto es el auxilio exclusivo a los Juzgados Laborales, en los casos que así lo determine la Ley, mediante la emisión de dictámenes periciales.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 84 Quáter.
+
+El peritaje en los asuntos judiciales que se sustancien ante los Juzgados Laborales, es una función pública. Los profesionales, técnicos o prácticos en cualquier ciencia, materia, arte u oficio que funjan como peritos y que presten sus servicios a la administración pública, están obligados a cooperar con dichas autoridades en los asuntos que les sean encomendados.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 84 Quinquies.
+
+Además de los requisitos establecidos en el artículo 83 de esta Ley, quien funja como perito en auxilio de los Juzgados Laborales deberá acreditar su pericia mediante examen que presentará ante un jurado que designe el Consejo de la Judicatura.
+
+Para tales efectos, el Consejo de la Judicatura podrá solicitar la cooperación de instituciones públicas o privadas que a su juicio cuenten con la capacidad para ello.
+
+La decisión del jurado será irrecurrible.
+
 #### Sección Sexta. Unidad de Igualdad de Género
 
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
-
-#### Sección Primera. Ingreso
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 85.
 
@@ -2561,15 +2685,15 @@ V. Las demás que fijen otras disposiciones legales.
 
 El Consejo de la Judicatura del Poder Judicial reglamentará la organización del archivo, la conservación de los expedientes y la debida prestación del servicio de consulta de los mismos, y determinará la forma de los asientos, índices y libros que en la misma oficina deben llevarse, y en su defecto, el Presidente del Consejo de la Judicatura podrá acordar, en todo caso, las disposiciones que crea convenientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 86 Bis.
 
 Se depositarán en el Archivo Judicial:
 
-I. Todos los expedientes del orden civil, familiar, penal, de impartición de justicia para adolescentes, constitucional local, y de jurisdicción concurrente, totalmente concluidos por el Tribunal Superior de Justicia o los juzgados de dichos ramos;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
+
+I. Todos los expedientes del orden civil, familiar, laboral, penal, de impartición de justicia para adolescentes, constitucional local, y de jurisdicción concurrente, totalmente concluidos por el Tribunal Superior de Justicia, o los juzgados de dichos ramos;
 
 II. Los expedientes que, aún cuando no estén concluidos, hayan dejado de tramitarse por cualquier motivo durante un año;
 
@@ -2619,7 +2743,11 @@ Los archivos de las Salas y Juzgados estarán a cargo de sus respectivos Secreta
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-#### Sección Segunda. Examen de Oposición
+#### Sección Primera. Ingreso
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 86 Octies.
 
@@ -2669,21 +2797,17 @@ V. Hacer entrega en cualquier momento al órgano de control interno, la informac
 
 VI. Las demás que establezca el Reglamento de la Ley Orgánica, así como el Pleno y el Presidente del Tribunal.
 
+#### Sección Segunda. Examen de Oposición
+
 #### Sección Primera. Boletín
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
-#### Sección Segunda. Dirección de Información y Comunicación Social
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
-
 ## TITULO QUINTO. CARRERA JUDICIAL
 
-### Capítulo Primero. De la Constitución del Fondo
+### Capítulo Segundo. De la Carrera Judicial
 
 ###### Artículo 87.
 
@@ -2765,17 +2889,13 @@ El Instituto promoverá la realización de los estudios necesarios para el mejor
 
 El Consejo de la Judicatura regulará lo no previsto mediante acuerdos y disposiciones generales.
 
-### Capítulo Segundo. De la Administración, Operación y Destino
+### Capítulo Primero. De la Constitución del Fondo
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-#### Sección Tercera. Revista Judicial
+#### Sección Segunda. Dirección de Información y Comunicación Social
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 93.
 
@@ -2853,6 +2973,10 @@ IV. La decisión del Jurado será inapelable y se tomará por mayoría simple de
 
 Los miembros del jurado podrán ser recusados con causa debidamente probada, con quince días de anticipación a la celebración del examen. El Pleno del Tribunal calificará el impedimento y en su caso, ordenará la sustitución del sinodal. A los miembros del jurado les serán aplicables las causas de impedimentos que al respecto señala el Código Procesal Civil del Estado.
 
+#### Sección Tercera. Revista Judicial
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2021)</small>
+
 ###### Artículo 97.
 
 El examen de oposición es el procedimiento cuyo objetivo será comprobar la idoneidad de los servidores públicos del Poder Judicial o quienes aspiren a ingresar a la Carrera Judicial. Será abierto a todos los abogados de la entidad sin discriminación alguna. Previamente al examen deberá evaluarse la inteligencia emocional de los aspirantes.
@@ -2889,11 +3013,11 @@ Dentro de los ocho días siguientes al examen, el Pleno designará como servidor
 
 ## TITULO SEXTO. FONDO AUXILIAR PARA LA IMPARTICION DE JUSTICIA
 
-### Capítulo Primero. De los Precedentes Obligatorios
+### Capítulo Segundo. De la Administración, Operación y Destino
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 100.
 
@@ -3005,7 +3129,11 @@ VII. Las demás facultades que sean necesarias para la adecuada organización y 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2002)</small>
 
-### Capítulo Segundo. De los Medios de Comunicación Judicial
+### Capítulo Primero. De los Precedentes Obligatorios
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 102.
 
@@ -3027,17 +3155,13 @@ Los depósitos en consignación, cuando fueren en numerario, se harán directame
 
 Para que surta sus efectos la suspensión que se otorgue bajo condición de exhibir cantidad determinada, se estará al párrafo anterior.
 
-### Capítulo Primero. Del Régimen Laboral
+### Capítulo Segundo. De los Medios de Comunicación Judicial
 
 ###### Artículo 103.
 
 Los recursos con los que se integre y opere el fondo, serán diferentes de aquellos que comprenda el presupuesto que el Congreso del Estado apruebe anualmente a favor del Poder Judicial, y no afectarán las partidas que sean autorizadas mediante dicho presupuesto.
 
-### Capítulo Segundo. Del Régimen Disciplinario
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+### Capítulo Primero. Del Régimen Laboral
 
 ###### Artículo 104.
 
@@ -3053,15 +3177,15 @@ La Controlaría del Poder Judicial ejercerá las funciones de control y vigilanc
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-### Capítulo Primero. De su Integración y Atribuciones
+### Capítulo Segundo. Del Régimen Disciplinario
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2021)</small>
 
 ###### Artículo 105.
 
 El Consejo de la Judicatura determinará la forma y términos de administración y disposición de los recursos obtenidos a través del Fondo.
 
-### Capítulo Segundo. Del Presidente
+### Capítulo Primero. De su Integración y Atribuciones
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
 
@@ -3153,7 +3277,7 @@ VI. Sufragar los gastos de los servicios y estudios técnicos que se vinculen co
 
 ## TITULO SEPTIMO. PRECEDENTES OBLIGATORIOS Y MEDIOS DE COMUNICACION JUDICIAL
 
-### Capítulo Tercero. De los Funcionarios del Tribunal
+### Capítulo Segundo. Del Presidente
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
 
@@ -3177,7 +3301,7 @@ IV. El Pleno del Tribunal Superior de Justicia resolverá las contradicciones ex
 
 El Tribunal Superior de Justicia realizará la compilación, sistematización y publicación de las resoluciones y precedentes obligatorios que dicten el Pleno y las Salas que lo integran, a fin de garantizar su adecuada difusión.
 
-### Capítulo Cuarto. De la Competencia
+### Capítulo Tercero. De los Funcionarios del Tribunal
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
 
@@ -3237,7 +3361,7 @@ El titular de la Dirección de información y comunicación social deberá conta
 
 ###### Artículo 113.
 
-El Tribunal Superior de Justicia publicará una revista en la que se den a conocer los precedentes más importantes que en materia civil, familiar, penal, administrativa, electoral, de adolescentes, constitucional local y de jurisdicción concurrente, sustenten los diversos órganos jurisdiccionales de la Entidad, los estudios jurídicos y las resoluciones más trascendentes del ámbito local, en el ámbito federal las ejecutorias importantes que sustenten autoridades que conocen del Juicio de Amparo, Acciones de Inconstitucionalidad y Controversias Constitucionales, en relación a la legislación de Tlaxcala, con la periodicidad que el mismo establezca. Esta publicación deberá hacerse por lo menos cada seis meses.
+El Tribunal Superior de Justicia publicará una revista en la que se den a conocer los precedentes más importantes que en materia civil, familiar, laboral, penal, administrativa, electoral, de adolescentes, constitucional local y de jurisdicción concurrente, sustenten los diversos órganos jurisdiccionales de la Entidad, los estudios jurídicos y las resoluciones más trascendentes del ámbito local, en el ámbito federal las ejecutorias importantes que sustenten autoridades que conocen del Juicio de Amparo, Acciones de Inconstitucionalidad y Controversias Constitucionales, en relación a la legislación de Tlaxcala, con la periodicidad que el mismo establezca. Esta publicación deberá hacerse por lo menos cada seis meses.
 
 ###### Artículo 114.
 
@@ -3261,7 +3385,7 @@ El Consejo de la Judicatura mediante reglamento o acuerdos generales proveerá l
 
 ## TITULO OCTAVO. SERVIDORES PUBLICOS DEL PODER JUDICIAL
 
-### Capítulo Quinto. Del Funcionamiento
+### Capítulo Cuarto. De la Competencia
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
 
@@ -3273,9 +3397,13 @@ Con excepción de los Magistrados, las relaciones de trabajo de los servidores p
 
 Los servidores públicos a que se refiere el Artículo 94 de esta Ley, así como el Secretario General de Acuerdos del Tribunal, los titulares de las unidades administrativas mencionadas en este ordenamiento y los que se encuentren adscritos a la Presidencia del Tribunal, serán considerados de confianza para efectos de la relación laboral.
 
+### Capítulo Quinto. Del Funcionamiento
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+
 ###### Artículo 117.
 
-Los servidores públicos del Poder Judicial son responsables de las faltas que cometan en el ejercicio de sus respectivos cargos y quedan sujetos a las sanciones que determinen la Constitución local, la presente Ley, la Ley de Responsabilidades de los Servidores Públicos para el Estado de Tlaxcala y demás Leyes aplicables, independientemente de la responsabilidad penal o patrimonial que les pudiera resultar.
+Los servidores públicos del Poder Judicial son responsables de las faltas que cometan en el ejercicio de sus respectivos cargos y quedan sujetos a las sanciones que determinen la Constitución local, la presente Ley, la Ley de Responsabilidades de los Servidores Públicos para el Estado de Tlaxcala, la Ley General de Responsabilidades Administrativas y demás Leyes aplicables, independientemente de la responsabilidad penal o patrimonial que les pudiera resultar.
 
 ###### Artículo 118.
 
@@ -3421,13 +3549,11 @@ I. No asistir o ausentarse de las sesiones del Pleno o de la Sala a que pertenez
 
 II. Abstenerse de votar en los acuerdos del Pleno o de la Sala a que pertenezcan, sin motivo fundado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2021)</small>
 
 ###### Artículo 120.
 
-Las faltas a que se refiere el presente Capítulo y que se cometan por los servidores públicos del Poder Judicial, incluyendo al personal adscrito a la Presidencia, al Pleno y a las Salas del Tribunal Superior de Justicia, serán investigadas y sancionadas en términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Tlaxcala, por el Consejo de la Judicatura. Tratándose de los Magistrados, sus faltas serán sancionadas por el Congreso del Estado.
+Las faltas a que se refiere el presente Capítulo y que se cometan por los servidores públicos del Poder Judicial, incluyendo al personal adscrito a la Presidencia, al Pleno y a las Salas del Tribunal Superior de Justicia, serán investigadas y sancionadas en términos de la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades de los Servidores Públicos para el Estado de Tlaxcala, por el Consejo de la Judicatura. Tratándose de los Magistrados, sus faltas serán sancionadas por el Congreso del Estado.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2018)</small>
 
@@ -4016,3 +4142,21 @@ Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 16 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 313.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL; SE DEROGA EL ARTÍCULO 71 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA; SE REFORMAN EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 66 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA; SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN I, DEL ARTÍCULO 5 DE LA LEY LABORAL DE LOS SERVIDORES PÚBLICOS; TODAS DEL ESTADO DE TLAXCALA”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala, sin perjuicio de lo dispuesto por los transitorios siguientes, con excepción de lo dispuesto por los artículos 71 de la Ley Orgánica de la Administración Pública del Estado de Tlaxcala, y de la fracción I del artículo 66 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tlaxcala, los que entrarán en vigor una vez que la Junta Local de Conciliación y Arbitraje haya concluido con los procedimientos a su cargo.
+
+Artículo Segundo. A partir de la entrada en vigor del presente Decreto, el Tribunal Superior de Justicia del Estado, deberá realizar las adecuaciones legales y administrativas necesarias para el debido funcionamiento de los juzgados laborales.
+
+Artículo Tercero. En la implementación de las disposiciones a que se refiere el Decreto en materia de Justicia Laboral, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019, los Juzgados Laborales deberán incorporar en sus programas de formación y capacitación, metodologías y contenidos para brindar atención y asesoría en materia de protección de derechos humanos a personas en situación de vulnerabilidad.
+
+Artículo Cuarto. Las convocatorias a concurso para la selección de personal de los Juzgados Laborales serán de carácter abierto y garantizarán el derecho de participar en igualdad de oportunidades al personal de la Junta Local de Conciliación y Arbitraje.
+
+Artículo Quinto. De conformidad con la capacidad presupuestal y recursos humanos e informáticos del Poder Judicial, el Consejo de la Judicatura emitirá los acuerdos generales para implementar las herramientas necesarias para el funcionamiento del sistema de justicia laboral. Lo que hará del conocimiento de los interesados a través del Periódico Oficial del Gobierno del Estado y por cualquier otro medio de difusión.
+
+Artículo Sexto. Los Juzgados Laborales, iniciaran sus funciones en los términos, que para tal efecto se establezcan en la Declaratoria que realice el Congreso del Estado de Tlaxcala.
+
+Artículo Séptimo. Quedan derogadas todas las normas que se opongan al presente Decreto.
