@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2021-01-18"
+last_updated: "2021-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -779,6 +779,10 @@ Las resoluciones del Congreso tendrán carácter de ley, decreto, iniciativa, an
 
 Las sesiones del Congreso tendrán el carácter de públicas o reservadas, en los casos que determine la Ley Orgánica respectiva.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2021)</small>
+
+Excepcionalmente, en los casos de epidemias, peligro de invasión, caso fortuito, fuerza mayor, en el país o en el Estado, las sesiones podrán efectuarse de manera no presencial, mediante video conferencia, trabajo a distancia o medios virtuales electrónicos que permitan la comunicación simultánea, con transmisión en tiempo real, estando sólo presentes en el recinto legislativo para la conducción protocolaria de la sesión los integrantes de la Mesa Directiva y, en los periodos extraordinarios, los de la Diputación Permanente.
+
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
 ### CAPITULO XII. De la Iniciativa y Formación de las Leyes
@@ -895,7 +899,7 @@ II.- Cambiar la residencia de los poderes del Estado, pero sólo a iniciativa fu
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2008)</small>
 
-III. Aprobar en forma anual:
+III.- Aprobar en forma anual:
 
 a) Las contribuciones y demás ingresos que deban corresponder al Estado para cubrir su presupuesto anual de egresos;
 
@@ -917,7 +921,7 @@ Asimismo, corresponde al Congreso autorizar a los entes públicos la afectación
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2010)</small>
 
-IV. Legislar en todo lo concerniente a los diversos ramos de la Administración Pública del Estado.
+IV.- Legislar en todo lo concerniente a los diversos ramos de la Administración Pública del Estado.
 
 Expedir leyes sobre planeación estatal del desarrollo económico y social, y sobre programación, promoción, concertación y ejecución de acciones de orden económico.
 
@@ -1011,9 +1015,11 @@ El Congreso concluirá la revisión de las cuentas públicas con base en el aná
 
 XXIII.- Conocer de los procedimientos en materia de juicio político;
 
-XXIV. (DEROGADA, P.O. 13 DE OCTUBRE DE 2016)
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2021)</small>
 
-XXV. Dictar resoluciones económicas relativas a su régimen interior;
+XXIV.- Determinar, excepcionalmente en los casos de epidemias, peligro de invasión, fenómenos meteorológicos, caso fortuito o fuerza mayor, en el país o en el Estado, que las sesiones puedan efectuarse de manera no presencial, mediante video conferencia, trabajo a distancia o medios virtuales electrónicos que permitan la comunicación simultánea, con transmisión en tiempo real, en los términos y condiciones establecidos en la Ley Orgánica del Poder Legislativo del Estado.
+
+XXV.- Dictar resoluciones económicas relativas a su régimen interior;
 
 XXVI.- Comunicarse con el Ejecutivo del Estado por medio de comisiones de su seno;
 
@@ -1021,7 +1027,7 @@ XXVII.- Expedir la convocatoria para elecciones extraordinarias, con el objeto d
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-XXVIII. Determinar en la ley las formalidades y requisitos a los que deban sujetarse los actos jurídicos relativos a los bienes propiedad del Estado;
+XXVIII.- Determinar en la ley las formalidades y requisitos a los que deban sujetarse los actos jurídicos relativos a los bienes propiedad del Estado;
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -1041,11 +1047,11 @@ El Congreso del Estado podrá requerir información o documentación a los titul
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-XXXI. Expedir la Ley que establezca las bases de coordinación para la organización y funcionamiento de los cuerpos de seguridad pública estatales y municipales, así como para el ingreso, selección, promoción y reconocimiento de sus integrantes.
+XXXI.- Expedir la Ley que establezca las bases de coordinación para la organización y funcionamiento de los cuerpos de seguridad pública estatales y municipales, así como para el ingreso, selección, promoción y reconocimiento de sus integrantes.
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-XXXII. Legislar en materia municipal conforme a lo dispuesto por el artículo 115 de la Constitución Política de los Estados Unidos mexicanos y demás ordenamientos aplicables;
+XXXII.- Legislar en materia municipal conforme a lo dispuesto por el artículo 115 de la Constitución Política de los Estados Unidos mexicanos y demás ordenamientos aplicables;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
 
@@ -1129,7 +1135,13 @@ Los miembros de la Diputación Permanente serán suplidos en la forma que determ
 
 Las facultades de la Diputación Permanente, además de las que expresamente le concede esta Constitución, son las siguientes:
 
-I.- Convocar al Congreso, por sí sola, cuando a su juicio lo exijan el bien o la seguridad del Estado, o a solicitud del Ejecutivo, a sesiones extraordinarias. La convocatoria señalará con toda precisión el objeto de las sesiones y la fecha en que deban comenzar, no pudiendo el Congreso ocuparse sino de los asuntos precisados en la convocatoria;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
+
+I.- Convocar al Congreso, por si sola, cuando a su juicio lo exijan el bien o la seguridad del Estado o a solicitud del Ejecutivo, a sesiones extraordinarias. La convocatoria señalará con toda la precisión el objeto de las sesiones y la fecha en que deban comenzar, no pudiendo el Congreso ocuparse sino de los asuntos precisados en la convocatoria. Excepcionalmente cuando las condiciones lo ameriten, precisará la modalidad en que habrán de desarrollarse las sesiones extraordinarias.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2021)</small>
+
+I Bis.- Sesionar, excepcionalmente de forma no presencial, mediante videoconferencia, trabajo a distancia o medios virtuales electrónicos que permitan la comunicación simultánea, con transmisión en tiempo real, en los términos y condiciones que establezca la Ley Orgánica del Poder Legislativo del Estado.
 
 II.- Emitir dictamen sobre todos los asuntos que queden sin resolución en los expedientes, a fin de que en el período inmediato de sesiones ordinarias sigan tratándose;
 
@@ -3236,3 +3248,13 @@ SEGUNDO.- El Congreso del Estado de Campeche, deberá adecuar la legislación se
 TERCERO.- La observancia del principio de paridad de género a que se refiere este decreto, será aplicable a quienes tomen posesión de su encargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 16 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 215 POR EL QUE “SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 45; SE REPONE CON NUEVO TEXTO LA FRACCIÓN XXIV DEL ARTÍCULO 54; SE REFORMA LA FRACCIÓN I Y SE ADICIONA UNA FRACCIÓN I BIS AL ARTÍCULO 58, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Congreso del Estado de Campeche, deberá adecuar la legislación secundaria correspondiente en un plazo máximo de 90 días contados a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
