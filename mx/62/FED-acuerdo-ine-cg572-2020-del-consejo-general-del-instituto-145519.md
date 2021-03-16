@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg572-2020-del-consejo-general-del-instituto-145519
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-12-07"
-last_updated: "2021-01-27"
+last_updated: "2021-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145519&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-11-18"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS CRITERIOS APLICABLES PARA EL REGISTRO DE CANDIDATURAS A DIPUTACIONES POR AMBOS PRINCIPIOS QUE PRESENTEN LOS PARTIDOS POLÍTICOS NACIONALES Y, EN SU CASO, LAS COALICIONES ANTE LOS CONSEJOS DEL INSTITUTO, PARA EL PROCESO ELECTORAL FEDERAL 2020-2021
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MARZO DE 2021.
 
 Acuerdo publicado en el Número 8 del Diario Oficial de la Federación, el lunes 7 de diciembre de 2020.
 
@@ -65,11 +65,15 @@ f) Clave de la credencial para votar;
 
 g) Cargo para el que se le postule;
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 16 DE MARZO DE 2021)</small>
+
 En caso de ser candidaturas de coalición:
 
 h) Partido político al que pertenecen originalmente; y
 
 i) Señalamiento del grupo parlamentario o partido político en el que quedarán comprendidas en caso de resultar electas.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 16 DE MARZO DE 2021)</small>
 
 Además, deberán acompañarse de los documentos siguientes:
 
@@ -105,13 +109,33 @@ III. No haber sido persona condenada o sancionada mediante Resolución firme com
 
 u) Escrito bajo protesta de decir verdad de no haber sido condenado o condenada por delito de violencia política contra las mujeres en razón de género y de no tener por desvirtuada la presunción de tener un modo honesto de vivir.
 
-> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2021)</small>
 
-v) Carta bajo protesta de decir verdad, en la que se precise que la persona acredita su adscripción como afromexicana, de la diversidad sexual y/o es una persona con discapacidad, en su caso, de acuerdo con el formato señalado como Anexo Único del presente Acuerdo.
+v) Carta bajo protesta de decir verdad, en la que se precise que la persona acredita su adscripción como indígena, afromexicana, de la diversidad sexual, es una persona con discapacidad, y/o persona migrante o residente en el extranjero, en su caso, de acuerdo con el formato señalado como Anexo Único del presente Acuerdo, en la que además deberá, si ese es su deseo, solicitar expresamente la protección de sus datos a efecto de que se haga o no pública la acción afirmativa por la que participa.
 
 > <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2021)</small>
 
 w) Certificación médica expedida por una Institución de salud, pública o privada, que dé cuenta fehaciente de la existencia de la discapacidad, que deberá contener el nombre, firma y número de cédula profesional de la persona médica que la expide, así como el sello de la institución y precisar el tipo de discapacidad y que ésta es permanente; o copia legible del anverso y reverso de la Credencial Nacional para Personas con Discapacidad vigente, emitida por el Sistema Nacional DIF (SNDIF), en su caso.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE MARZO DE 2021)</small>
+
+x) Constancia que acredite la pertenencia a la comunidad migrante:
+
+> <small>(ADICIONADO, D.O.F. 16 DE MARZO DE 2021)</small>
+
+- Credencial para votar desde el extranjero o;
+
+> <small>(ADICIONADO, D.O.F. 16 DE MARZO DE 2021)</small>
+
+- Inscripción en la Lista Nominal de Electores Residentes en el Extranjero (LNRE) o;
+
+> <small>(ADICIONADO, D.O.F. 16 DE MARZO DE 2021)</small>
+
+- Membresía activa en organizaciones de migrantes y/o haber impulsado o promovido la defensa de los derechos de los migrantes o haber realizado acciones de promoción de actividades comunitarias o culturales entre la comunidad migrante o;
+
+> <small>(ADICIONADO [N. DE E. PERTENECE AL INCISO X], D.O.F. 16 DE MARZO DE 2021)</small>
+
+- Cualquier otra documental que pudiera resultar idónea para acreditar el vínculo, sujeta a valoración de esta autoridad.
 
 Lo anterior, en estricto apego al orden enunciado. De no presentar la documentación completa, no se procederá al registro de la candidatura correspondiente hasta que la omisión de que se trate sea subsanada por el PPN o coalición en el plazo concedido para tal efecto, conforme a lo establecido en el párrafo 2 del artículo 239 de la LGIPE.
 
@@ -133,7 +157,11 @@ Dicha constancia deberá contener como mínimo, fecha de expedición, nombre com
 
 SÉPTIMO. Los documentos que por su naturaleza deban ser presentados en original, deberán contener invariablemente la firma autógrafa de la persona candidata, dirigente o representante del PPN o coalición acreditado ante el INE, o de la persona que la expide, pudiendo presentar copias certificadas por Notaría Pública, en las que se indique que aquéllas son reflejo fiel de los originales que tuvo a la vista.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 16 DE MARZO DE 2021)</small>
+
 De igual forma, tales documentos no deberán contener tachadura o enmendadura alguna.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 16 DE MARZO DE 2021)</small>
 
 Los documentos referidos son:
 
@@ -153,9 +181,9 @@ f) El certificado de nacionalidad mexicana expedido por la Secretaría de Relaci
 
 g) La carta de las personas que buscan reelegirse.
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2021)</small>
 
-h) Cartas y certificación referidas en los incisos q), t), u), v) y w) del Punto Tercero del presente Acuerdo.
+h) Cartas y certificación referidas en los incisos q), t), u), v), w) y x) del Punto Tercero del presente Acuerdo.
 
 OCTAVO. Para el registro de candidaturas por el principio de representación proporcional, se tendrá por cumplido el requisito a que se refieren los párrafos 4 y 5 del artículo 238 de la LGIPE, siempre y cuando los PPN hayan presentado para su registro al menos 200 fórmulas de candidaturas a diputaciones de mayoría relativa, y que dicho registro haya resultado procedente. Para tales efectos se considerarán también las candidaturas de coalición en la que el PPN participe.
 
@@ -297,6 +325,10 @@ En caso de que se postulen personas trans, la candidatura corresponderá al gén
 
 En el caso de que se postulen personas no binarias, en reconocimiento de los derechos humanos, políticos y electorales de la comunidad LGBTTTIQ+, las mismas no serán consideradas en alguno de los géneros; sin embargo, los PPN y coaliciones no podrán postular más de 3 personas que se identifiquen como no binarias.
 
+> <small>(ADICIONADO, D.O.F. 16 DE MARZO DE 2021)</small>
+
+DÉCIMO SÉPTIMO QUÁTER. Los PPN deberán registrar una fórmula de personas mexicanas migrantes y residentes en el extranjero en cada una de las listas correspondientes a las 5 circunscripciones electorales dentro de los primeros diez lugares. En ese sentido, de las cinco personas postuladas tres deberán ser de distinto género.
+
 DÉCIMO OCTAVO. Respecto de las personas que postulen para cumplir con la acción afirmativa referida en el punto anterior, junto con la solicitud de registro, los PPN o coaliciones deberán presentar las constancias que acrediten la existencia del vínculo efectivo de la persona que se pretende postular con las instituciones sociales, económicas, culturales y políticas distintivas de la comunidad a la que pertenece.
 
 Dicho vínculo efectivo, de manera ejemplificativa y enunciativa, mas no limitativa, deberá acreditarse con las constancias que permitan verificar lo siguiente:
@@ -337,9 +369,9 @@ b) En caso de que los partidos políticos que participen en forma individual lo 
 
 c) De igual manera, en caso de que alguno de los partidos políticos que integren la coalición hubiera participado en forma individual en el Proceso Electoral Federal anterior, o que la coalición se integrara por partidos distintos o que se conformara en Distritos diferentes a la coalición actual, se considerará la suma de la votación obtenida por cada partido político en lo individual.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE MARZO DE 2021)</small>
 
-VIGÉSIMO SEGUNDO. En caso de que algún PPN o coalición no cumpla con lo previsto en los artículos 14, párrafo 4, 233 y 234 de la LGIPE; 3, párrafo 5 de la LGPP y puntos décimo cuarto, décimo quinto, décimo sexto, décimo séptimo, décimo séptimo bis y décimo séptimo ter del presente Acuerdo, el Consejo General iniciará el procedimiento especial al que se refiere el artículo 235 de la LGIPE, por lo que lo requerirá para que en un plazo de 48 horas, contadas a partir de ese momento, rectifique la solicitud de registro de candidaturas, además de apercibirlo de que, en caso de no hacerlo, le hará una amonestación pública.
+VIGÉSIMO SEGUNDO. En caso de que algún PPN o coalición no cumpla con lo previsto en los artículos 14, párrafo 4, 233 y 234 de la LGIPE; 3, párrafo 5 de la LGPP y puntos décimo cuarto, décimo quinto, décimo sexto, décimo séptimo, décimo séptimo bis, décimo séptimo tris y décimo séptimo quáter del presente Acuerdo, el Consejo General iniciará el procedimiento especial al que se refiere el artículo 235 de dicho ordenamiento legal, por lo que lo requerirá para que en un plazo de 48 horas, contadas a partir de ese momento, rectifique la solicitud de registro de candidaturas, además de apercibirlo de que, en caso de no hacerlo, le hará una amonestación pública.
 
 Vencidas las 48 horas arriba mencionadas, el Consejo General sesionará para otorgar el registro de candidaturas a los partidos o coaliciones que hayan cumplido con el requerimiento o, en su caso, para sancionar con una amonestación pública al PPN o coalición que haya sido requerido conforme a lo previsto en el párrafo anterior, y que no haya realizado la sustitución correspondiente. En ese mismo acto le requerirá de nueva cuenta para que en un plazo de 24 horas, contadas a partir de la notificación, haga la corrección que corresponda.
 
@@ -450,3 +482,19 @@ QUINTO. El presente Acuerdo entrará en vigor el día de su aprobación por este
 SEXTO. Se instruye al Secretario Ejecutivo para que realice las gestiones necesarias a efecto de difundir el presente Acuerdo a través de su publicación en el Diario Oficial de la Federación.
 
 SÉPTIMO. Infórmese a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación sobre el cumplimiento dado a la sentencia dictada en el expediente SUP-RAP-121/2020 y acumulados.
+
+D.O.F. 16 DE MARZO DE 2021.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE, EN ACATAMIENTO A LA SENTENCIA DICTADA POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL EXPEDIENTE SUP-RAP-21/2021 Y ACUMULADOS, SE MODIFICAN LOS CRITERIOS APLICABLES PARA EL REGISTRO DE CANDIDATURAS A DIPUTACIONES POR AMBOS PRINCIPIOS QUE PRESENTEN LOS PARTIDOS POLÍTICOS NACIONALES Y, EN SU CASO, LAS COALICIONES ANTE LOS CONSEJOS DEL INSTITUTO, PARA EL PROCESO ELECTORAL FEDERAL 2020-2021, APROBADOS MEDIANTE ACUERDOS INE/CG572/2020 E INE/CG18/2021", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. Comuníquese el presente Acuerdo a los Consejos Distritales, para los efectos legales a que haya lugar.
+
+TERCERO. La Unidad Técnica de Igualdad de Género y no Discriminación, en colaboración con la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, deberá llevar a cabo un estudio respecto de la eficacia y funcionamiento de las acciones afirmativas implementadas en este PEF, a fin de determinar si es necesario realizar ajustes en próximos procesos, mismo que deberá presentarse a este órgano máximo de dirección dentro de los 18 meses siguientes a la conclusión del presente PEF a efecto de ponerlo a disposición del Congreso de la Unión para los efectos conducentes.
+
+CUARTO. El presente Acuerdo entrará en vigor el día de su aprobación por este Consejo General.
+
+QUINTO. Se instruye al Secretario Ejecutivo para que realice las gestiones necesarias a efecto de difundir el presente Acuerdo a través de su publicación en el DOF.
+
+SEXTO. Se instruye al Secretario Ejecutivo para que una vez que quede firme el presente Acuerdo realice las gestiones necesarias a efecto de difundir una versión íntegra de los Criterios aplicables para el registro de candidaturas a diputaciones por ambos principios que presenten los Partidos Políticos Nacionales y, en su caso, las coaliciones ante los consejos del instituto, para el Proceso Electoral Federal 2020-2021 en la página de Internet del Instituto para que la ciudadanía conozca la totalidad de acciones afirmativas que deberán ser postuladas.
+
+SÉPTIMO. Infórmese dentro de las siguientes veinticuatro horas a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación sobre el cumplimiento dado a la sentencia dictada en el expediente SUP-RAP-21/2021 y Acumulados.
