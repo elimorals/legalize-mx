@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2020-09-14"
+last_updated: "2021-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SON"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE JUNIO DE 2021 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE MARZO DE 2021.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -455,13 +457,17 @@ X.- Secretaría del Trabajo;
 
 XI.- Secretaría de Seguridad Pública;
 
-> <small>(REFORMADA, B.O. 22 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, B.O. 16 DE MARZO DE 2021)</small>
 
-XII.- Secretaría Técnica; y
+XII.- Secretaría Técnica;
 
-> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, B.O. 16 DE MARZO DE 2021)</small>
 
-XIII.- Secretaría de la Consejería Jurídica.
+XIII.- Secretaría de la Consejería Jurídica; y
+
+> <small>(ADICIONADA, B.O. 16 DE MARZO DE 2021)</small>
+
+XIV.- Secretaría de Turismo.
 
 Los titulares de estas dependencias, subsecretarios, coordinadores, directores generales, directores, subdirectores, jefes de departamento, secretarios particulares y ayudantes personales, serán trabajadores de confianza, para los efectos de la Ley del Servicio Civil del Estado.
 
@@ -1211,7 +1217,9 @@ A la Secretaría de Economía le corresponden las facultades y obligaciones sigu
 
 A. En materia de fomento del desarrollo económico:
 
-I.- Proponer las políticas y ejecutar los programas relativos al desarrollo económico del Estado en las ramas de la industria, el comercio, los servicios, la minería y el turismo, de conformidad con los planes nacional y estatal de desarrollo y las leyes de la materia;
+> <small>(REFORMADA, B.O. 16 DE MARZO DE 2021)</small>
+
+I. Proponer las políticas y ejecutar los programas relativos al desarrollo económico del Estado en las ramas de la industria, el comercio, los servicios y la minería, de conformidad con los planes nacional y estatal de desarrollo y las leyes de la materia;
 
 II.- Promover el crecimiento económico de las regiones de la Entidad sobre bases de desarrollo equilibrado y sustentable, considerando sus ventajas competitivas;
 
@@ -1225,7 +1233,9 @@ V. Promover la creación y fomento del desarrollo de la micro, pequeña y median
 
 VI.- Asesorar a los sectores social y privado, en el establecimiento de nuevas empresas;
 
-VII.- Organizar, apoyar y difundir estudios e investigaciones que contribuyan al desarrollo de la productividad y el crecimiento económico de las empresas, de la industria, del turismo y de la minería;
+> <small>(REFORMADA, B.O. 16 DE MARZO DE 2021)</small>
+
+VII.- Organizar, apoyar y difundir estudios e investigaciones que contribuyan al desarrollo de la productividad y el crecimiento económico de las empresas, de la industria y de la minería;
 
 VIII.- Evaluar anualmente la aplicación de los incentivos que se otorguen conforme a la Ley de Fomento Económico y comunicar sus resultados a la Secretaría de Hacienda y al Titular del Poder Ejecutivo;
 
@@ -1245,11 +1255,9 @@ XV.- Ejercer las atribuciones y compromisos que en materia industrial, comercial
 
 XVI.- Promover la participación de la sociedad, en la ejecución de los programas que en materia de desarrollo económico instrumente el Gobierno del Estado.
 
-B. En materia de turismo:
+B. (DEROGADO [N. DE E. ESTE PÁRRAFO], B.O. 16 DE MARZO DE 2021)
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
-
-I.- Proponer políticas y programas en materia de turismo.
+I. (DEROGADA, B.O. 16 DE MARZO DE 2021)
 
 II.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
 
@@ -1264,6 +1272,54 @@ VI.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
 VII.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
 
 VIII.- (DEROGADA, B.O. 6 DE JULIO DE 2006)
+
+> <small>(ADICIONADO, B.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 30 Bis 1.
+
+A la Secretaría de Turismo le corresponden las facultades y obligaciones siguientes:
+
+I. Formular, conducir y evaluar la política turística del Estado;
+
+II. Celebrar convenios en materia turística conforme a lo previsto en la Ley General de Turismo y la Ley Estatal de Turismo;
+
+III. Aplicar los instrumentos de política turística previstos en la Ley Estatal de Turismo y demás ordenamientos en la materia, así como la planeación, programación, fomento y desarrollo de la actividad turística que se realice en bienes y áreas de competencia estatal;
+
+IV. Formular, ejecutar y evaluar el Programa Estatal de Turismo, las directrices previstas en el Plan Estatal de Desarrollo y el Programa Sectorial de Turismo del Estado;
+
+V. Establecer el Consejo Consultivo Estatal de Turismo;
+
+VI. Concertar con los sectores privado y social, las acciones tendientes a detonar programas a favor de la actividad turística;
+
+VII. Formular, evaluar y ejecutar los programas estatales de ordenamiento turístico del territorio, con la participación que corresponda a los Municipios respectivos;
+
+VIII. Participar en la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable en sus Municipios, conforme a los convenios que al efecto se suscriban;
+
+IX. Instrumentar las acciones de promoción de las actividades y destinos turísticos con que cuenta;
+
+X. Conducir la política estatal de información y difusión en materia turística;
+
+XI. Proyectar y promover el desarrollo de la infraestructura turística;
+
+XII. Impulsar a las micro, pequeñas y medianas empresas turísticas que operen en la entidad;
+
+XIII. Diseñar, instrumentar, ejecutar y evaluar, los programas de investigación para el desarrollo turístico estatal;
+
+XIV. Participar en programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos conforme a las políticas y programas de protección civil que al efecto se establezcan;
+
+XV. Brindar orientación y asistencia al turista y canalizar las quejas de éstos ante la autoridad competente;
+
+XVI. Atender los asuntos que afecten el desarrollo de la actividad turística de dos o más Municipios;
+
+XVII. Coadyuvar con el Ejecutivo Federal en materia de clasificación de establecimientos hoteleros y de hospedaje, en los términos de la regulación correspondiente:
+
+XVIII. Vigilar el cumplimiento de la Ley General de Turismo, la Ley Estatal de Turismo y demás disposiciones reglamentarias que deriven, en lo que se refiere a los requisitos de operación de los prestadores de servicios turísticos;
+
+XIX. Coordinar con las autoridades federales, por medio de los convenios que se suscriban, la imposición de sanciones por violaciones a la Ley General de Turismo y a las disposiciones reglamentarias;
+
+XX. Emitir opiniones a la Secretaría en la materia; y
+
+XXI. Las demás previstas en éste y otros ordenamientos.
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -2624,3 +2680,23 @@ B.O. 14 DE SEPTIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 16 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 183, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor un año después del día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La conformación y funcionamiento de la Secretaría de Turismo, deberá de realizarse a la entrada en vigor del presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Para el cumplimiento de las atribuciones de la Secretaría de Turismo del Estado, el Ejecutivo del Estado deberá abrogar el decreto bajo el cual se creó el organismo público descentralizado denominado Comisión de Fomento al Turismo del Estado de Sonora y las modificaciones que se hayan realizado a dicho decreto durante el plazo señalado en el artículo primero del presente ordenamiento y las atribuciones que conforme al decreto de creación y que se regulan conforme a este Decreto, pasan a la nueva dependencia, para lo cual, se le transferirán a la Secretaría de Turismo del Estado todos (sic) recursos materiales, financieros y humanos de la Comisión de Fomento Económico y Turismo, dejando de existir como organismo público descentralizado sectorizado a la Secretaria de Economía. El traspaso acorde a las directrices (sic) Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, deberá efectuarse incluyendo al personal a su servicio, respetando derechos laborales, presupuesto, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que las dependencias hayan utilizado para la atención de las atribuciones de que se trate.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado deberá expedir el reglamento interior de la Secretaría de Turismo, dentro de los 90 días siguientes a la conformación y funcionamiento de la nueva dependencia.
