@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-70183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-14"
-last_updated: "2020-12-21"
+last_updated: "2021-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "CAM"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 14 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -1775,9 +1777,13 @@ XXXVI. Vigilar y monitorear la red pública de Internet con el fin de prevenir c
 
 XXXVII. Supervisar y dar seguimiento a las medidas cautelares impuestas, distintas a la prisión preventiva y las condiciones a cargo del imputado en caso de suspensión provisional del proceso, así como hacer sugerencias sobre cualquier cambio que amerite alguna modificación de las medidas cautelares y obligaciones impuestas; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2021)</small>
 
-XXXVIII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+XXXVIII.- Crear, operar y mantener actualizado el Registro Estatal de Prestadores de Servicios de Cerrajería, expidiendo constancia sin costo que acredite la inscripción en dicho registro a los prestadores de esos servicios.
+
+> <small>(ADICIONADO [N. DE E. REUBICADA], P.O. 16 DE MARZO DE 2021)</small>
+
+XXXIX.- Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2552,3 +2558,15 @@ PRIMERO.- El presente decreto entrará en vigor el 1° de enero de 2021, previa 
 SEGUNDO.- Las designaciones de los titulares de las dependencias de la Administración Pública Estatal hechas con anterioridad a la entrada en vigor del presente decreto mantendrán su validez.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 16 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 214 POR EL QUE "SE REFORMA LA FRACCIÓN XXXVIII Y SE ADICIONA UNA FRACCIÓN XXXIX AL ARTÍCULO 38 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Seguridad Pública de la Administración Pública del Estado, determinará dentro de su estructura orgánica y con el personal con que cuenta, el área encargada de llevar el Registro Estatal de Prestadores de Servicios de Cerrajería a que se refiere el presente decreto.
+
+TERCERO.- En un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado realizará las adecuaciones necesarias en el Reglamento Interior de la Secretaría de Seguridad Pública y demás disposiciones aplicables para el debido cumplimiento de este decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
