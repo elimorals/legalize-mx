@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-615-organica-del-poder-judicial-del-estado-de-126226
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-08"
-last_updated: "2020-09-15"
+last_updated: "2021-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 615 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE MARZO DE 2021.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 8 de febrero de 2018.
 
@@ -51,9 +51,11 @@ ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 La presente Ley es de orden público y observancia general, y tiene por objeto regular la organización y el funcionamiento del Poder Judicial del Estado de Veracruz de Ignacio de la Llave.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS INCISOS], G.O. 16 DE MARZO DE 2021)</small>
+
 ###### Artículo 2.
 
-El Poder Judicial se deposita en los órganos que señalan la Constitución Política del Estado y esta Ley, y se regirá por los principios de excelencia, profesionalismo, independencia, honestidad, eficiencia, imparcialidad, legalidad y objetividad. Estará integrado por los órganos siguientes:
+El Poder Judicial se deposita en los órganos que señalan la Constitución Política del Estado y esta Ley, y se regirá por los principios de excelencia, disciplina, integridad, rendición de cuentas, eficacia, austeridad, economía, transparencia, profesionalismo, independencia, honestidad, eficiencia, imparcialidad, legalidad y objetividad. Estará integrado por los órganos siguientes:
 
 A. Jurisdiccionales:
 
@@ -85,9 +87,11 @@ b. El Juez de juicio; y
 
 c. El Juez de ejecución de medidas sancionadoras.
 
-IV. Los demás especializados, cuya competencia determine el Consejo de la Judicatura, en atención a las necesidades del servicio y a la disponibilidad presupuestal; y
+IV. Los Juzgados en Materia Laboral;
 
-V. Los Juzgados Municipales.
+V. Los demás especializados, cuya competencia determine el Consejo de la Judicatura, en atención a las necesidades del servicio y a la disponibilidad presupuestal; y
+
+VI. Los Juzgados Municipales.
 
 B. Administrativos:
 
@@ -104,8 +108,6 @@ d) La Dirección de Compilación y Sistematización de Criterios.
 II. El Consejo de la Judicatura del Poder Judicial, mismo que se apoyará en:
 
 a) La Visitaduría Judicial;
-
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
 b) La Escuela Judicial del Estado;
 
@@ -133,7 +135,9 @@ II. Proteger, promover, respetar y salvaguardar los derechos humanos y todo lo d
 
 III. Interpretar y aplicar las leyes del fuero común y las federales en jurisdicción concurrente o auxiliar;
 
-IV. Resolver las controversias laborales que se susciten entre los Poderes Judicial o Legislativo y sus trabajadores; entre la administración pública estatal y municipal con sus empleados; así como entre los organismos autónomos del Estado y sus empleados, en los términos que fijen las leyes locales;
+> <small>(REFORMADA, G.O. 16 DE MARZO DE 2021)</small>
+
+IV. Conocer y resolver a través de los juzgados en materia laboral, los conflictos que se susciten entre los trabajadores y patrones, sólo entre aquellos o sólo entre éstos, derivados de las relaciones de trabajo o de hechos relacionados con ellas, conforme al Apartado A, del artículo 123, de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo y de igual forma, los conflictos laborales de las universidades e instituciones de educación superior dotadas de autonomía en el Estado, en términos de las disposiciones legales aplicables; asimismo, por conducto del Tribunal de Conciliación y Arbitraje, resolver las controversias laborales que se susciten entre los Poderes Judicial o Legislativo y sus trabajadores; entre la administración pública estatal y municipal con sus empleados; así como entre los organismos autónomos del Estado y sus empleados, en los términos que fijen las leyes locales;
 
 V. Tramitar y resolver, mediante los procedimientos que señale la ley, los asuntos de los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito;
 
@@ -347,9 +351,21 @@ XXII. Asignar el haber de retiro de los magistrados del Poder Judicial que así 
 
 El haber de retiro será de hasta treinta por ciento de las percepciones que reciba un magistrado en activo sin incluir bonos, vales especiales o servicios personales, de acuerdo al dictamen de la comisión instructora será otorgado únicamente durante un periodo idéntico al que fungió como Magistrado;
 
-XXIII. En materia de asuntos indígenas, resolver conforme a los principios de reserva de jurisdicción indígena, relaciones de coordinación, igualdad, no discriminación y suplencia de la deficiencia de la queja, de los casos que le sean sometidos, en términos de la ley respectiva; y
+> <small>(REFORMADA, G.O. 16 DE MARZO DE 2021)</small>
 
-XXIV. Conocer de los demás asuntos que expresamente establezcan la Constitución y las leyes del Estado.
+XXIII. En materia de asuntos indígenas, resolver conforme a los principios de reserva de jurisdicción indígena, relaciones de coordinación, igualdad, no discriminación y suplencia de la deficiencia de la queja, de los casos que le sean sometidos, en términos de la ley respectiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE MARZO DE 2021)</small>
+
+XXIV. Conocer y resolver sobre los conflictos de competencia a que se refiere la fracción I del artículo 705 Bis de la Ley Federal del Trabajo;
+
+> <small>(ADICIONADA, G.O. 16 DE MARZO DE 2021)</small>
+
+XXV. Conocer y resolver la recusación a que se refiere el artículo 709-A de la Ley Federal del Trabajo conforme al procedimiento establecido en dicho ordenamiento; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 16 DE MARZO DE 2021)</small>
+
+XXVI. Conocer de los demás asuntos que expresamente establezcan la Constitución y las leyes del Estado.
 
 #### SECCIÓN TERCERA. De las Salas
 
@@ -639,9 +655,11 @@ V. Participar en el examen de oposición que se convoque al efecto y aprobarlo e
 
 VI. Ser de reconocido prestigio profesional, honradez y capacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE MARZO DE 2021)</small>
+
 ###### Artículo 40.
 
-En la entidad federativa habrá el número necesario de Juzgados de Primera Instancia o Especializados que determine el Pleno del Consejo de la Judicatura del Poder Judicial del Estado, para el buen funcionamiento de la administración de justicia, quien fijará la competencia territorial y por materia de dichos órganos jurisdiccionales, conforme a la disponibilidad presupuestal.
+En la entidad federativa habrá el número necesario de Juzgados de Primera Instancia, en Materia Laboral o Especializados que determine el Pleno del Consejo de la Judicatura del Poder Judicial del Estado, para el buen funcionamiento de la administración de justicia, quien fijará la competencia territorial y por materia de dichos órganos jurisdiccionales, conforme a la disponibilidad presupuestal.
 
 Por cuanto a la competencia en razón de territorio, el Consejo de la Judicatura podrá establecer que un órgano jurisdiccional la tenga respecto a uno o más distritos judiciales o respecto de cualquier otra demarcación que sea necesaria para el buen funcionamiento de la administración de justicia, debiendo publicar tal determinación en la Gaceta Oficial del Estado.
 
@@ -763,9 +781,23 @@ IV. Tener conocimientos sobre la materia de que se trate, lo que se acreditará 
 
 Los jueces de Primera Instancia tendrán bajo su cuidado y estricta responsabilidad los bienes muebles que les pongan a disposición, así como los valores que se les consignen o depositen.
 
-#### SECCIÓN SEGUNDA. De los Órganos Jurisdiccionales de Procesos y Procedimientos Penales Orales
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 16 DE MARZO DE 2021)</small>
 
-#### SECCIÓN TERCERA. De los Juzgados Municipales
+#### SECCIÓN PRIMERA BIS. De los Juzgados en Materia Laboral
+
+> <small>(ADICIONADO, G.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 46. Bis.
+
+Los juzgados en materia laboral conocerán y resolverán, los conflictos que se susciten entre los trabajadores y patrones, sólo entre aquellos o sólo entre estos, derivados de las relaciones de trabajo o de hechos relacionados con ellas, conforme al apartado A, del artículo 123, de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo y de igual forma, los conflictos laborales de la (sic) universidades e instituciones de educación superior dotadas de autonomía en el Estado, en términos de las disposiciones legales aplicables; ello en términos de lo que determine el Consejo de la judicatura, y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 46 Ter.
+
+Los juzgados laborales se integrarán por una persona titular que se denominará Jueza o Juez, el número de secretarios y demás personal que el Consejo de la Judicatura determine y el presupuesto permita.
+
+#### SECCIÓN SEGUNDA. De los Órganos Jurisdiccionales de Procesos y Procedimientos Penales Orales
 
 ###### Artículo 47.
 
@@ -925,7 +957,7 @@ VII. Apoyar al juez en la expedición de las copias autenticadas que soliciten l
 
 VIII. Las demás que la normativa aplicable establezca. En los Juzgados de Proceso y Procedimiento Oral que no cuenten con un administrador judicial de Causa, el auxiliar de Sala suplirá sus funciones en los términos del artículo 38 de esta Ley.
 
-#### SECCIÓN PRIMERA. De los secretarios de Acuerdos
+#### SECCIÓN TERCERA. De los Juzgados Municipales
 
 ###### Artículo 57.
 
@@ -1013,7 +1045,7 @@ El Consejo de la Judicatura resolverá sobre los casos de renuncia, licencia, au
 
 El Consejo de la Judicatura podrá determinar que para el registro y control de los asuntos, promociones y demás documentación atinente, se instale el sistema informático que se ajuste a las necesidades de los Juzgados, a los requerimientos técnicos y a la disponibilidad presupuestal.
 
-#### SECCIÓN SEGUNDA. De los secretarios de Estudio y Cuenta
+#### SECCIÓN PRIMERA. De los secretarios de Acuerdos
 
 ###### Artículo 71.
 
@@ -1109,7 +1141,7 @@ XII. Las demás que establezca la normativa aplicable.
 
 Los secretarios de Acuerdos de los Juzgados de Primera Instancia tendrán bajo su cuidado y responsabilidad el archivo, mobiliario y equipo de la oficina a su cargo y, en su caso, el resguardo de los bienes muebles que pongan a su disposición.
 
-#### SECCIÓN TERCERA. De los actuarios y de las Centrales de Actuarios
+#### SECCIÓN SEGUNDA. De los secretarios de Estudio y Cuenta
 
 ###### Artículo 77.
 
@@ -1137,7 +1169,7 @@ II. Elaborar los proyectos de resolución de los asuntos que se les encarguen; y
 
 III. Las demás que establezca la normativa aplicable.
 
-#### SECCIÓN CUARTA. De las notificaciones electrónicas
+#### SECCIÓN TERCERA. De los actuarios y de las Centrales de Actuarios
 
 ###### Artículo 80.
 
@@ -1189,7 +1221,7 @@ IV. Ser licenciado en Derecho, con título y cédula profesional con antigüedad
 
 V. Acreditar la experiencia y capacidad indispensables para el desempeño del cargo.
 
-#### SECCIÓN PRIMERA. Integración y funcionamiento
+#### SECCIÓN CUARTA. De las notificaciones electrónicas
 
 ###### Artículo 85.
 
@@ -1357,7 +1389,7 @@ El Tribunal Superior de Justicia realizará la compilación, sistematización y 
 
 ### CAPÍTULO II (SIC). DEL CONSEJO DE LA JUDICATURA
 
-#### SECCIÓN SEGUNDA. Atribuciones
+#### SECCIÓN PRIMERA. Integración y funcionamiento
 
 ###### Artículo 95.
 
@@ -1417,11 +1449,13 @@ Siempre que el Consejo estime que sus acuerdos sean de interés general, deberá
 
 El Consejo de la Judicatura, con base en las atribuciones que le otorga esta Ley y de acuerdo al presupuesto, tendrá las direcciones, jefaturas de departamento y oficinas estrictamente necesarias para su funcionamiento, con la distribución de competencias que señale su Reglamento.
 
-#### SECCIÓN TERCERA. Comisiones
+#### SECCIÓN SEGUNDA. Atribuciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE MARZO DE 2021)</small>
 
 ###### Artículo 103.
 
-El Consejo de la Judicatura tendrá las atribuciones siguientes:
+El Consejo de la Judicatura tendrá las siguientes atribuciones:
 
 I. Conducir la administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia;
 
@@ -1437,7 +1471,9 @@ VI. Erigir, de conformidad con el Reglamento y la disponibilidad presupuestal, e
 
 VII. Determinar, mediante acuerdos generales, la competencia por materia y territorio de cada uno de los Juzgados, el sistema y criterios de distribución de los asuntos que deban conocer y la categoría de éstos, atendiendo a su función y al tabulador que para el caso se establezca o cualquier disposición que sea requerida para la correcta impartición de justicia;
 
-VIII. Crear, de conformidad con el Reglamento y el presupuesto del propio Poder Judicial, los Juzgados necesarios para la implementación del sistema acusatorio adversarial;
+> <small>(REFORMADA, G.O. 16 DE MARZO DE 2021)</small>
+
+VIII. Crear, de conformidad con el Reglamento y el presupuesto del propio Poder Judicial, los juzgados necesarios para la implementación del sistema acusatorio adversarial, así como aquellos en materia laboral;
 
 IX. Con excepción del personal del Tribunal Superior de Justicia, nombrar, remover, resolver sobre la adscripción y renuncia de los servidores públicos del Poder Judicial, así como cambiar libremente de adscripción, según las necesidades del servicio, a jueces y secretario de Primera Instancia;
 
@@ -1519,7 +1555,7 @@ XL. Emitir previo análisis, dictamen favorable o no favorable, según sea el ca
 
 XLI. Las que establezcan la Constitución Política del Estado y demás normativa aplicable.
 
-#### SECCIÓN CUARTA. Del presidente del Consejo
+#### SECCIÓN TERCERA. Comisiones
 
 ###### Artículo 104.
 
@@ -1541,7 +1577,7 @@ II. Proponer al Pleno la aprobación de los acuerdos necesarios para el desarrol
 
 III. Las demás que se señalen en la normativa aplicable.
 
-#### SECCIÓN QUINTA. Del secretario de Acuerdos
+#### SECCIÓN CUARTA. Del presidente del Consejo
 
 ###### Artículo 106.
 
@@ -1563,7 +1599,7 @@ VII. Autorizar, con el secretario de Acuerdos, las actas y resoluciones que se d
 
 VIII. Las demás que señale la normativa aplicable.
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+#### SECCIÓN QUINTA. Del secretario de Acuerdos
 
 ###### Artículo 107.
 
@@ -1593,7 +1629,7 @@ XI. Las demás que establezca la normativa aplicable.
 
 ### CAPÍTULO III. DE LOS ÓRGANOS AUXILIARES
 
-#### SECCIÓN SEGUNDA. De la Visitaduría Judicial
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### Artículo 108.
 
@@ -1603,9 +1639,7 @@ Los titulares de dichos órganos deberán contar con título profesional expedid
 
 Los titulares de los órganos, con excepción de la Visitaduría Judicial, serán nombrados y removidos libremente por el Consejo de la Judicatura.
 
-#### SECCIÓN TERCERA. De la Escuela Judicial del Estado
-
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2018)</small>
+#### SECCIÓN SEGUNDA. De la Visitaduría Judicial
 
 ###### Artículo 109.
 
@@ -1669,7 +1703,9 @@ Los visitadores podrán auxiliarse de los sistemas o programas informáticos deb
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
-#### SECCIÓN CUARTA. De la Administración del Consejo
+#### SECCIÓN TERCERA. De la Escuela Judicial del Estado
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 117.
 
@@ -1727,7 +1763,7 @@ El Consejo de la Judicatura expedirá el reglamento correspondiente, con el fin 
 
 La Revista Jurídica Veracruzana estará a cargo de la Comisión de Carrera Judicial, Disciplina y Vigilancia, y en la misma se publicarán las tesis jurídicas más importantes sustentadas por las Salas y los Juzgados de Primera Instancia; así como artículos doctrinarios, leyes, reglamentos e investigaciones documentales que sean de interés jurídico.
 
-#### SECCIÓN QUINTA. De la Dirección de Control y Estadística
+#### SECCIÓN CUARTA. De la Administración del Consejo
 
 ###### Artículo 124.
 
@@ -1757,7 +1793,7 @@ IX. Elaborar los proyectos de manuales de organización y procedimientos del Con
 
 X. Las demás que establezca la normativa aplicable.
 
-#### SECCIÓN SEXTA. De la Dirección de la Defensoría y del Registro Estatal de Peritos
+#### SECCIÓN QUINTA. De la Dirección de Control y Estadística
 
 ###### Artículo 126.
 
@@ -1775,7 +1811,7 @@ V. Organizar, vigilar y conservar el Archivo Judicial y de la Biblioteca del Pod
 
 VI. Las demás que conforme a las disposiciones vigentes en la materia sean afines a su ramo y la que le sean encomendadas por el Consejo.
 
-#### SECCIÓN SÉPTIMA. Del Fondo Auxiliar para la Impartición de Justicia
+#### SECCIÓN SEXTA. De la Dirección de la Defensoría y del Registro Estatal de Peritos
 
 ###### Artículo 127.
 
@@ -1795,7 +1831,7 @@ VI. Las demás que señale la normativa aplicable.
 
 El Reglamento determinará, conforme a lo dispuesto por las Leyes respectivas, la organización y funcionamiento de la Defensoría de Oficio.
 
-#### SECCIÓN OCTAVA. De los Centros de Convivencia Familiar
+#### SECCIÓN SÉPTIMA. Del Fondo Auxiliar para la Impartición de Justicia
 
 ###### Artículo 128.
 
@@ -1951,7 +1987,7 @@ X. Cubrir el pago de pólizas de seguros de vida o incapacidad total permanente;
 
 XI. Los demás que el Consejo de la Judicatura estime convenientes para el mejoramiento de la impartición de justicia.
 
-#### SECCIÓN NOVENA. De la Contraloría del Poder Judicial
+#### SECCIÓN OCTAVA. De los Centros de Convivencia Familiar
 
 ###### Artículo 145.
 
@@ -1983,7 +2019,7 @@ IV. No pertenecer al estado eclesiástico, ni ser ministro de algún culto relig
 
 V. Poseer título con antigüedad de cinco años a nivel licenciatura con especialidad en menores o relaciones familiares, preferentemente en cualesquiera de las ramas siguientes: Derecho, Psicología o Trabajo Social; y acreditar la experiencia y capacidad indispensables para el desempeño del cargo.
 
-#### SECCIÓN DÉCIMA. Dirección de Asuntos Jurídicos
+#### SECCIÓN NOVENA. De la Contraloría del Poder Judicial
 
 ###### Artículo 150.
 
@@ -2014,6 +2050,8 @@ V. Las demás que determinen las leyes, reglamentos y acuerdos generales corresp
 ###### Artículo 153.
 
 El Reglamento Interior de la Contraloría establecerá la organización y funcionamiento de ésta y los requisitos que deberán cubrir sus servidores públicos.
+
+#### SECCIÓN DÉCIMA. Dirección de Asuntos Jurídicos
 
 ###### Artículo 154.
 
@@ -2525,9 +2563,11 @@ Los Juzgados de Primera Instancia que tengan competencia respecto de las materia
 
 En relación con los Juzgados de Procesos y Procedimientos Penales Orales, se quedará durante el período vacacional un juez encargado de la guardia con el personal que resulte indispensable para el cumplimiento de sus labores a fin de atender los asuntos de naturaleza urgente que se encuentran a su cargo y los de los demás jueces de la misma categoría y competencia, así como para cumplir las ejecutorias y proveídos emanados de las autoridades federales en materia de amparo.
 
+> <small>(REFORMADO, G.O. 16 DE MARZO DE 2021)</small>
+
 ###### Artículo 195.
 
-Las labores de los Juzgados en Materias Penal y Familiar no se interrumpirán durante las vacaciones. En Materia Civil, se suspenderán el trámite procesal y los términos judiciales hasta que se reanuden dichas labores, con observancia de lo dispuesto en el Código de Procedimientos Civiles para el Estado, en materia de términos judiciales.
+Las labores de los Juzgados en Materias Penal y Familiar, no se interrumpirán durante las vacaciones. En materia civil y laboral se suspenderán el trámite procesal y los términos judiciales hasta que se reanuden dichas labores, con observancia en lo dispuesto en la normatividad aplicable, en materia de términos judiciales.
 
 ###### Artículo 196.
 
@@ -2764,3 +2804,19 @@ G.O. 15 DE SEPTIEMBRE DE 2020.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 847 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ EN MATERIA DE CREACIÓN DE JUZGADOS LABORALES”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, Órgano de Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero. El Consejo de la Judicatura del Poder Judicial del Estado realizará las adaptaciones necesarias al marco jurídico administrativo y expedirá en el ámbito de su competencia, todas aquellas medidas necesarias, para dar cumplimiento al presente Decreto, de conformidad con las disposiciones legales y administrativas aplicables.
+
+Artículo Cuarto. Una vez entrado en vigor el presente Decreto, el Poder Judicial del Estado realizará las adecuaciones presupuestarias propias tendentes a la implementación del presente Decreto, y en su caso las gestiones necesarias a efecto de contar con los recursos que requiera para tal efecto con apego a las disposiciones legales y administrativas aplicables.
+
+Artículo Quinto. En términos de lo dispuesto por el artículo cuarto transitorio del Decreto 531 que reforma y adiciona diversas disposiciones de la Constitución Política del Estado en materia de implementación a nivel local de la Reforma Federal al Sistema de Justicia Laboral, publicado en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, el 4 de febrero de 2020, los Juzgados en Materia Laboral iniciarán sus funciones en la fecha que disponga la declaratoria que para el caso emita el Honorable Congreso del Estado.
+
+Artículo Sexto. Los procedimientos jurisdiccionales competencia de los juzgados en materia laboral que se encuentren en trámite ante la Junta Local de Conciliación y Arbitraje del Estado de Veracruz y sus Juntas Especiales concluirán en los términos establecidos por los Decretos expedidos por el Honorable Congreso de la Unión publicados en el Diario Oficial de la Federación en fechas 24 de febrero de 2017 y 1 de mayo de 2019, así como el diverso expedido por el Honorable Congreso del Estado publicado en la Gaceta Oficial del Estado en fecha 4 de febrero de 2020.
