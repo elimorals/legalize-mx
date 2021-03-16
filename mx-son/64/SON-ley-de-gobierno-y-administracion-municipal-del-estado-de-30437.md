@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2021-02-11"
+last_updated: "2021-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL ESTADO DE SONORA EL 11 DE FEBRERO DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE MARZO DE 2021.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -376,6 +374,24 @@ II. Aprobar las Comisiones a que se refiere esta Ley.
 ###### Artículo 40.
 
 El Secretario del Ayuntamiento saliente, tendrá la obligación de levantar el acta de la sesión de instalación del Ayuntamiento y del acto de entrega-recepción referido en los siguientes artículos, en los términos de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 40 Bis.
+
+El Presidente Municipal electo, junto a quienes considere y/o los integrantes del Ayuntamiento electo, previo a la protesta del cargo, podrán recibir capacitación del Gobierno del Estado para el desempeño de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 40 Ter.
+
+Los integrantes de los ayuntamientos electos, deberán recibir de manera oportuna, capacitación en el manejo de la cuenta pública municipal, por parte del Instituto Superior de Auditoría y Fiscalización.
+
+> <small>(ADICIONADO, B.O. 16 DE MARZO DE 2021)</small>
+
+###### Artículo 40 Quater.
+
+El Instituto Superior de Auditoría y Fiscalización, otorgará capacitación en el manejo de la cuenta pública municipal, por lo menos, al Tesorero Municipal, al Titular del Órgano de Control y Evaluación Gubernamental y al titular de la dependencia de obras públicas municipales, dentro de un plazo no mayor a sesenta días posteriores a la instalación del Ayuntamiento, a la cual deberán de asistir de manera obligatoria.
 
 ### CAPITULO TERCERO. DE LA ENTREGA-RECEPCION DE LA ADMINISTRACION PUBLICA MUNICIPAL
 
@@ -4592,3 +4608,11 @@ El presente decreto entrara en vigor a los 180 días siguientes de su publicaci�
 ###### ARTÍCULO SEGUNDO.
 
 Para el debido cumplimiento de las disposiciones contenidas en la presente reforma, los ayuntamientos del Estado procuraran celebrar convenios de colaboración con la Comisión Estatal de Derechos Humanos.
+
+B.O. 16 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 187, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
