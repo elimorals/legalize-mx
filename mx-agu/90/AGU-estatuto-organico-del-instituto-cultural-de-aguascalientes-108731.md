@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-cultural-de-aguascalientes-1087
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-06-22"
-last_updated: "2021-03-15"
+last_updated: "2021-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2021.
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -349,21 +349,25 @@ XV. Expedir los nombramientos del personal adscrito al Instituto, que le corresp
 
 XVI. Llevar a cabo las acciones necesarias a fin de que las funciones de los Órganos de Control y Evaluación de este Instituto se realicen de acuerdo con las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
 
-XVII. Rendir los informes trimestrales que le presenten las Unidades del Órgano Interno de Control, ante la Junta de Gobierno, con apego a los principios de transparencia y rendición de cuentas, cuidando en todo momento la protección de los datos personales;
+XVII. Recibir los informes trimestrales, así como los informes resultantes de las auditorías, exámenes y evaluaciones realizadas, que le presenten las Unidades del Órgano Interno de Control, con apego a los principios de transparencia y rendición de cuentas, cuidando en todo momento la protección de los datos personales;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
 XVIII. Difundir la agenda cultural de las actividades del Instituto;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
 
-XIX. Resguardar el patrimonio inmueble del Instituto que se encuentre catalogado dentro de los bienes artísticos y culturales, el cual deberá custodiar y vigilar, así como realizar todas las acciones preventivas y de restauración que resulten necesarias para su conservación; y
+XIX. Resguardar el patrimonio inmueble del Instituto que se encuentre catalogado dentro de los bienes artísticos y culturales, el cual deberá custodiar y vigilar, así como realizar todas las acciones preventivas y de restauración que resulten necesarias para su conservación;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2021)</small>
 
-XX. Las demás que le confiera la Junta Directiva y las disposiciones legales aplicables.
+XX. Regular los contratos, convenios y demás documentos jurídicos que sean necesarios para el cumplimiento del objeto del Instituto; documentos que, en cada caso, la dirección del área requirente será la responsable de su ejecución, así como de revisar la capacidad del Instituto para el cumplimiento de las obligaciones contraídas y de dar seguimiento a los mismos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE MARZO DE 2021)</small>
+
+XXI. Las demás que le confiera la Junta Directiva y las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
@@ -533,11 +537,19 @@ XXIV. Vigilar el buen estado, uso y funcionamiento de los bienes muebles e inmue
 
 XXV. Instrumentar los procesos y procedimientos requeridos para el cumplimiento operativo del Instituto;
 
-XXVI. Regular los contratos, convenios y demás documentos jurídicos que sean necesarios para el cumplimiento del objeto del Instituto;
+XXVI. (DEROGADA, P.O. 16 DE MARZO DE 2021)
 
-XXVII. Proporcionar a las direcciones y áreas del Instituto los recursos informáticos necesarios para el cumplimiento de sus funciones, y proponer las mejoras tecnológicas actualizándolas a nuestros tiempos; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
 
-XXVIII. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
+XXVII. Proporcionar a las direcciones y áreas del Instituto los recursos informáticos necesarios para el cumplimiento de sus funciones, y proponer las mejoras tecnológicas actualizándolas a nuestros tiempos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2021)</small>
+
+XXVIII. Controlar el Almacén General de artículos para venta a través del área de ingresos garantizando su correcto funcionamiento; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE MARZO DE 2021)</small>
+
+XXIX. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE ENERO DE 2018)</small>
 
@@ -1189,7 +1201,9 @@ Las funciones de las Unidades que integran al Órgano Interno de Control serán 
 
 A. Unidad Auditora:
 
-I. Elaborar y ejecutar, con aprobación del Director General, el programa anual de auditorías a las diversas áreas que conforman al Instituto;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
+
+I. Elaborar, someter a consideración de la Junta Directiva y ejecutar el programa anual de auditorías a las diversas áreas que conforman al Instituto, mismo que deberá presentarse ante la Dirección General para conocimiento.
 
 II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño del Instituto;
 
@@ -1203,7 +1217,9 @@ VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimi
 
 VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
 
-VIII. Rendir informe trimestral a la Junta Directiva, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
+
+VIII. Rendir informe trimestral a la Junta Directiva, así como a la Dirección General, sobre el estado que guardan los asuntos de su competencia; mismo que deberá hacerse con apego a los principios de transparencia y rendición de cuentas, cuidando en todo momento la protección de los datos personales;
 
 IX. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente; y
 
@@ -1241,9 +1257,15 @@ XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la 
 
 XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
 
-XVI. Rendir informe trimestral a la Junta Directiva, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
+
+XVI. Rendir informe trimestral a la Junta Directiva, así como a la Dirección General, sobre el estado que guardan los asuntos de su competencia; mismo que deberá hacerse con apego a los principios de transparencia y rendición de cuentas, cuidando en todo momento la protección de los datos personales;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE MARZO DE 2021)</small>
 
 XVII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 16 DE MARZO DE 2021)</small>
 
 XVIII. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
 
@@ -1267,7 +1289,9 @@ V. Llevar a cabo todos los actos procesales respectivos en carácter de Autorida
 
 VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
 
-VII. Rendir informe trimestral a la Junta Directiva, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2021)</small>
+
+VII. Rendir informe trimestral a la Junta Directiva, así como a la Dirección General, sobre el estado que guardan los asuntos de su competencia; mismo que deberá hacerse con apego a los principios de transparencia y rendición de cuentas, cuidando en todo momento la protección de los datos personales;
 
 VIII. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera; y
 
@@ -1460,6 +1484,26 @@ Se derogan todas las disposiciones legales, reglamentarias y administrativas que
 ###### ARTICULO TERCERO.
 
 Se ordena inscribir las presentes reformas al Estatuto Orgánico del Instituto Cultural de Aguascalientes en el Registro Público de la Propiedad y del Comercio en el Estado en el libro correspondiente a las Entidades Paraestatales.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor de las presentes reformas, el Instituto Cultural de Aguascalientes deberá realizar las adecuaciones normativas y administrativas correspondientes en un término de 90 días.
+
+P.O. 16 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Estatuto, de igual o menor jerarquía.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye al Director General llevar a cabo las acciones necesarias para la inscripción de las presentes Reformas, Derogaciones y Adiciones al Estatuto Orgánico del Instituto Cultural de Aguascalientes, ante el Registro Público de Entidades Paraestatales respectivo del Registro Público de la Propiedad y del Comercio en el Estado de Aguascalientes.
 
 ###### ARTÍCULO CUARTO.
 
