@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-para-el-estado-de-puebla-148179"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-05"
-last_updated: "2021-03-05"
+last_updated: "2021-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2021.
 
 Ley publicada en la Cuarta Sección al Número 5 del Periódico Oficial del Estado de Puebla, el viernes 5 de mayo de 2021.
 
@@ -689,7 +689,9 @@ III. Estar en pleno ejercicio de sus derechos y gozar de facultades físicas y m
 
 IV. Gozar de buena reputación personal, honorabilidad profesional y no ser ministro de culto;
 
-V. Ser persona profesional del derecho, con título de abogada o abogado o licenciada o licenciado en derecho y con cédula profesional;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2021)</small>
+
+V. Ser persona profesional del derecho, con título de abogada o abogado o licenciada o licenciado en derecho y con cédula profesional, así como con antigüedad no menor de diez años en el ejercicio de la profesión;
 
 VI. Comprobar que durante 12 meses ha realizado práctica Notarial ininterrumpida, bajo la dirección y responsabilidad de alguna persona titular de Notaría en el Estado de Puebla, debiendo mediar un lapso de hasta un año entre la terminación de dicha práctica y la solicitud del examen correspondiente;
 
@@ -803,7 +805,9 @@ V. La prueba práctica se desahogará bajo la vigilancia de un representante de 
 
 Si a juicio del jurado dichas irregularidades no impiden la continuación del examen, para esos efectos, se tendrán por no hechas y no cuestionarán ni afectarán el resultado del mismo;
 
-VI. El tema que deberá desarrollar el sustentante será públicamente sorteado de entre un número de treinta; para tal propósito serán colocadas treinta esferas distintas, numeradas individual y consecutivamente del uno al treinta en números arábigos. El arábigo inscrito y que le corresponda a cada esfera deberá ser visible e inequívoco a la vista de todos los asistentes; posteriormente éstas serán introducidas aleatoriamente en su totalidad en un bombo metálico, de los utilizados comúnmente para garantizar azar en las decisiones. El Secretario del Jurado deberá girar el bombo tantas veces como lo considere necesario y el sustentante obtendrá y extraerá del bombo una esfera cuyo número será vinculado al instrumento y temática que deberá elaborar y desarrollar el sustentante. La esfera será mostrada a los integrantes del Jurado e inmediatamente después a todos quienes se encuentren presentes en el recinto donde se desarrolla el examen. Siempre que no se actualizara alguno de los presupuestos que lo impidan, los temas serán extraídos del interior del sobre a que hace referencia en el mismo ordenamiento;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2021)</small>
+
+VI. El tema que deberá desarrollar el sustentante será públicamente sorteado de entre un número de cincuenta; para tal propósito serán colocados cincuenta sobres en esferas distintas, numeradas individual y consecutivamente del uno al cincuenta en números arábigos. El arábigo inscrito y que le corresponda a cada esfera deberá ser visible e inequívoco a la vista de todos los asistentes; posteriormente éstas serán introducidas aleatoriamente en su totalidad en un bombo metálico, de los utilizados comúnmente para garantizar azar en las decisiones. El Secretario del Jurado deberá girar el bombo tantas veces como lo considere necesario y el sustentante obtendrá y extraerá del bombo una esfera cuyo número será vinculado al instrumento y temática que deberá elaborar y desarrollar el sustentante. La esfera será mostrada a los integrantes del Jurado e inmediatamente después a todos quienes se encuentren presentes en el recinto donde se desarrolla el examen. Siempre que no se actualizara alguno de los presupuestos que lo impidan, los temas serán extraídos del interior del sobre a que hace referencia en el mismo ordenamiento;
 
 VII. Para la prueba práctica, los sustentantes dispondrán de seis horas corridas;
 
@@ -857,7 +861,9 @@ Para la realización del examen de oposición, los aspirantes inscritos y que ha
 
 Para la celebración del examen en su parte teórica, deberán estar inscritos y presentar el examen en su parte práctica, por lo menos tres sustentantes por cada notaría que esté en concurso, lo mismo se observara para el caso a que se refiere el primer párrafo de la fracción primera del presente artículo de esta ley, supuesto en el cual, deberán estar inscritos un total mínimo de nueve sustentantes, en el caso de que no se cumpla con este requisito se declarará la o las notarías que correspondan;
 
-II. Para la prueba práctica, se reunirán las personas aspirantes en el Colegio, el día y hora señalados en la convocatoria. En presencia de un representante de la Autoridad y uno del Colegio, alguna de las personas aspirantes elegirá uno de los sobres que guarden los temas, de entre veinte de ellos, debiendo todos los sustentantes desarrollar el que se haya elegido; asimismo, ahí se sorteará el orden de presentación de los sustentantes a la prueba teórica;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2021)</small>
+
+II. Para la prueba práctica, se reunirán las personas aspirantes en el Colegio, el día y hora señalados en la convocatoria. En presencia de un representante de la Autoridad y uno del Colegio, alguna de las personas aspirantes elegirá uno de los sobres que guarden los temas, de entre cincuenta de ellos, debiendo todos los sustentantes desarrollar el que se haya elegido; asimismo, ahí se sorteará el orden de presentación de los sustentantes a la prueba teórica;
 
 III. Al concluirse la prueba práctica, los responsables de la vigilancia de la prueba recogerán los trabajos hechos; los colocarán en sobres que serán cerrados, firmados por ellos y por el correspondiente sustentante, y se depositarán bajo seguro en el Colegio;
 
@@ -869,7 +875,9 @@ VI. Reunido el jurado, cada uno de sus miembros interrogará al sustentante excl
 
 VII. Para el desahogo del examen teórico deberán celebrarse cuando menos dos sesiones por semana;
 
-VIII. Concluida la prueba teórica de cada sustentante, los miembros del jurado emitirán separadamente y por escrito, la calificación que cada uno de ellos otorgue a las pruebas, práctica y teórica, en escala numérica del 0 al 100 y promediarán los resultados. La suma de los promedios se dividirá entre cinco para obtener la calificación final, cuyo mínimo para aprobar será el de 70 puntos; los que obtengan calificación inferior a 70, pero no inferior a 65 puntos, podrán presentar nuevo examen tan pronto haya una siguiente oposición, siempre y cuando tuviere satisfechos los requisitos previstos en el artículo 59 de esta Ley.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2021)</small>
+
+VIII. Concluida la prueba teórica de cada sustentante, los miembros del jurado emitirán separadamente y por escrito, la calificación que cada uno de ellos otorgue a las pruebas, práctica y teórica, en escala numérica del 0 al 100 y promediarán los resultados. La suma de los promedios se dividirá entre cinco para obtener la calificación final, cuyo mínimo para aprobar será el de 80 puntos; los que obtengan calificación inferior a 80, pero no inferior a 65 puntos, podrán presentar nuevo examen tan pronto haya una siguiente oposición, siempre y cuando tuviere satisfechos los requisitos previstos en el artículo 59 de esta Ley.
 
 Los aspirantes que obtengan una calificación inferior a 65 puntos, no podrán solicitar nuevo examen de oposición, sino pasado un año a partir del día en que concluya la oposición respectiva.
 
@@ -885,11 +893,19 @@ Las Notarías serán asignadas en forma sucesiva, a quien o quienes, conforme a 
 
 Como labor de supervisión, la Dirección General del Notariado podrá, si lo estima conveniente, nombrar uno o más observadores del examen, licenciados en Derecho, quienes podrán emitir opinión sobre su perfeccionamiento, sin que esta tenga efecto vinculatorio con el desarrollo y resultado del examen de que se trate. Dicha opinión la harán del conocimiento de la Dirección General del Notariado y del Colegio y, a efecto de que se tomen las medidas necesarias para perfeccionar la práctica y desarrollo de los exámenes. Los observadores designados podrán estar presentes en todas las etapas del examen.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 66.
 
-Para determinar la materia del examen, el Consejo de Notarios elaborará de forma previa, un documento en el que sean enlistados, en número de treinta, los temas respecto de los cuales podrá versar su aplicación. La lista será remitida a la Dirección General del Notariado para su aprobación, enseguida será impreso en laser, color negro, en letras mayúsculas, de manera unitaria y reproducido en formas valoradas expedidas por la Consejería Jurídica del Estado de Puebla a través de la Dirección General del Notariado, el texto completo que haga la mención individual de cada uno de los temas que conformarán el catálogo disponible para determinar la materia de la que tratará el examen. Acto seguido, cada forma, con el texto del tema, será introducido al interior de un sobre, tamaño carta, color café, debiéndose colocar éste en el medio de dos hojas de papel de seguridad a fin de garantizar su confidencialidad.
+Para determinar la materia del examen, el Consejo de Notarios elaborará y propondrá de forma previa, un documento en el que sean enlistados, en número de treinta, los temas respecto de los cuales podrá versar su aplicación.
 
-Los sobres serán lacrados, firmados y sellados por los representantes de la Dirección General del Notariado y el Consejo de Notarios, deberán ser entregados, el día hábil anterior al de la celebración del examen, al Titular de la Dirección General del Notariado, quien será responsable de su guarda, custodia, resguardo y conservación. Si llegare a detectarse alguna alteración, ruptura, daño, reparación o rastro de violación, modificación o cambio en el color o en el contenido de los sobres, el examen será suspendido debiéndose señalar nuevo día y hora para su celebración; al efecto, la persona Titular de la Dirección General del Notariado podrá ser sujeto a responsabilidad, en los términos previstos por la legislación penal que resulte aplicable al caso.
+La Dirección General del Notariado, también elaborará y propondrá veinte temas de examen.
+
+El total de los cincuenta temas de examen, serán sometidos para su aprobación ante el titular de la Consejería Jurídica; de ser aprobados serán impresos en láser, color negro, en letras mayúsculas, de manera unitaria y reproducido en formas valoradas expedidas por la Consejería Jurídica del Estado de Puebla, el texto completo que haga mención individual de cada uno de los temas que conformarán el catálogo disponible para determinar la materia de la que tratará el examen. Acto seguido, cada forma, con el texto del tema, será introducido al interior de un sobre, tamaño carta, color café, debiéndose colocar éste en el medio de dos hojas de papel de seguridad a fin de garantizar su confidencialidad.
+
+Los sobres serán lacrados, firmados y sellados por los representantes de la Consejería Jurídica, Dirección General del Notariado y el Consejo de Notarios, deberán ser entregados, el día hábil anterior al de la celebración del examen, al Titular de la Dirección General del Notariado, quien será responsable de su guarda, custodia, resguardo y conservación. Si llegare a detectarse alguna alteración, ruptura, daño, reparación o rastro de violación, modificación o cambio en el color o en el contenido de los sobres, el examen será suspendido debiéndose señalar nuevo día y hora para su celebración; al efecto, la persona Titular de la Dirección General del Notariado podrá ser sujeto a responsabilidad, en los términos previstos por la legislación penal que resulte aplicable al caso.
+
+Serán cincuenta sobres como mínimo para los exámenes de aspirantes y otro número igual para los exámenes de oposición a notarios.
 
 ###### ARTÍCULO 67.
 
@@ -1073,21 +1089,29 @@ Las personas titulares de las Notarías que hubieren obtenido la Patente en el �
 
 Los Protocolos Especiales les serán autorizados por la Secretaría de Hacienda y Crédito Público a través de la Unidad Administrativa respectiva y será a ella, a quienes las personas titulares de las Notarías que ostenten tal designación deberán dar aviso del cierre y apertura de cada protocolo. Serán a cargo de esa dependencia las revisiones o el requerimiento de información periódica para verificar el cumplimiento de las disposiciones legales que les sean aplicables. En el caso de ausencia temporal o definitiva de las personas titulares de las Notarías del Patrimonio Inmobiliario Federal quienes los suplan, en términos de esta ley, sean o no personas titulares de las Notarías del Patrimonio Inmobiliario Federal, podrán autorizar, tanto preventiva como definitivamente, los instrumentos que se encuentren asentados en el protocolo respectivo, así como expedir testimonios de los que estén asentados dentro del protocolo, pero no podrán asentar nuevos instrumentos. Si el suplente ejerciere las facultades de autorización que este párrafo le concede, de manera previa deberá informar a la Secretaría de Hacienda y Crédito Público que se encuentra a cargo de la suplencia, fundando y motivando la misma en términos de lo dispuesto en esta Ley.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 84.
 
-Para integrar el protocolo, el Consejo del Colegio, bajo su responsabilidad, proveerá a cada persona titular de la Notaría y a costa de éste, de un máximo de dos mil folios por solicitud. El Colegio cuidará que en la fabricación de los folios se tomen las medidas de seguridad más adecuadas para procurar su inalterabilidad. El Colegio informará mensualmente a la Autoridad notarial de la entrega de folios que efectúe a las personas titulares de las Notarías, en la forma que para ese efecto determine dicha autoridad.
+Para integrar el protocolo, la Dirección General del Notariado, bajo su responsabilidad, proveerá a cada persona titular de la Notaría y a costa de éste, de un máximo de mil quinientos folios por solicitud. La Dirección del (sic) General del Notariado cuidará que en la fabricación de los folios se tomen las medidas de seguridad más adecuadas para procurar su inalterabilidad. La Dirección General del Notariado informará mensualmente a la Consejería Jurídica del Estado de la entrega de folios que efectúe a las personas titulares de las Notarías, en la forma que para ese efecto determine dicha autoridad.
 
 ###### ARTÍCULO 85.
 
 El procedimiento para la expedición de los folios en los que debe actuar y ejercer la función notarial, será el siguiente:
 
-I. Proveerse a su costa, a través del Consejo de Notarios, de los folios correspondientes, sin que éstos puedan exceder de dos mil por entrega;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2021)</small>
 
-II. Cubrir al Consejo de Notarios la cuota que éste determine para el suministro y custodia de los folios;
+I. Proveerse a su costa, a través de la Dirección General del Notariado, de los folios correspondientes, sin que éstos puedan exceder de mil quinientos por entrega;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2021)</small>
+
+II. Cubrir a la Dirección General del Notariado la cuota que éste determine para el suministro y custodia de los folios;
 
 III. Pagar previamente los derechos por la autorización de los folios, de conformidad con la Ley de Ingresos del Estado de Puebla del ejercicio fiscal correspondiente;
 
-IV. Presentar a la Dirección del Archivo de Notarías los folios y comprobantes de pago respectivos, con la finalidad de obtener del Director del Archivo de Notarías la razón de autorización emitida por la Consejería Jurídica, o por a quien este último faculte para tales efectos, dicha autorización deberá constar en una hoja de control no foliada, útil para todos los folios del volumen o volúmenes, que contendrá:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE MARZO DE 2021)</small>
+
+IV. Presentar a la Consejería Jurídica del Estado los folios y comprobantes de pago respectivos, con la finalidad de obtener de su parte la razón de autorización; dicha autorización deberá constar en una hoja de control no foliada, útil para todos los folios del volumen o volúmenes, que contendrá:
 
 a) Lugar y fecha de la autorización;
 
@@ -1103,7 +1127,9 @@ f) La expresión de que los folios solamente deben ser utilizados en términos d
 
 g) Nombre y firma del Titular de la Unidad Administrativa competente conforme al Reglamento Interior de la Consejería Jurídica.
 
-V. Recoger en la Dirección del Archivo de Notarías los folios respectivos y la autorización original correspondiente, lo que se hará constar en un acta de entrega.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2021)</small>
+
+V. Recoger en la Dirección General del Notariado los folios respectivos y la autorización original correspondiente, lo que se hará constar en un acta de entrega.
 
 Cada folio llevará en la parte superior izquierda del anverso, el sello de la Consejería, que asentará la Dirección del Archivo de Notarías.
 
@@ -1183,7 +1209,9 @@ e) Cualquier otro que a juicio de la Autoridad notarial sea necesario.
 
 II. La Autoridad notarial podrá prevenir a la persona titular de la Notaría a efectos de que en un término de diez días hábiles recabe documentación adicional a la exhibida, contados a partir de la notificación que se realice personalmente.
 
-La Dirección General del Notariado, resolverá respecto de la procedencia e improcedencia en un término de treinta días hábiles. Siendo procedente le podrá autorizar por escrito la persona titular de la Notaría obtener del Colegio de Notarios el número de folios exactos que le permitan la reposición a que se refiere el primer párrafo de este artículo;
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2021)</small>
+
+La Dirección General del Notariado, resolverá respecto de la procedencia e improcedencia en un término de treinta días hábiles. Siendo procedente le podrá autorizar por escrito a la persona titular de la Notaría obtener el número de folios exactos que le permitan la reposición a que se refiere el primer párrafo de este artículo;
 
 III. A partir de la autorización la persona titular de la Notaría tendrá un plazo de sesenta días naturales para informar a la Dirección General del Notariado de la conclusión de la reposición. En caso de no dar el aviso a que se refiere este artículo o no informar se hará acreedor a la sanción prevista en la fracción VIII del artículo 241 de esta Ley, previo procedimiento;
 
@@ -1775,9 +1803,11 @@ Se requiere autorización judicial para expedir testimonios en favor de cualquie
 
 La persona titular de la Notaría si podrá expedir testimonio parcial omitiendo parte del texto de alguno o algunos de los actos consignados, o de alguno o algunos de los documentos que constan en el protocolo, siempre y cuando con ello no se cause perjuicio.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 165.
 
-La persona titular de la Notaría al expedir los testimonios deberá tomar las medidas de seguridad que señale el Colegio. Lo mismo harán respecto a aquellas que el Colegio disponga en relación con el protocolo y los folios.
+La persona titular de la Notaría al expedir los testimonios deberá tomar las medidas de seguridad que señale el Colegio. Lo mismo harán respecto a aquellas que el Colegio disponga en relación con el protocolo.
 
 ###### ARTÍCULO 166.
 
@@ -1791,9 +1821,13 @@ La persona titular de la Notaría tramitará el registro de cualquiera de los te
 
 Las hojas del testimonio tendrán las mismas dimensiones que las de los folios del protocolo. En la parte superior izquierda del anverso la persona titular de la Notaría imprimirá su sello, y las rubricará en el margen derecho de su mismo anverso.
 
-Como medida de seguridad, el Colegio proveerá a las personas titulares de las Notarías, previo pago de su costo, de los elementos de seguridad que señale el primero para los testimonios, copias certificadas, certificaciones y folios.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2021)</small>
 
-Las hojas del testimonio deberán contener las medidas de seguridad que señale el Colegio, sin que la omisión sea causa de su invalidez.
+Como medida de seguridad, el Colegio proveerá a las personas titulares de las Notarías, previo pago de su costo, de los elementos de seguridad que señale el primero para los testimonios, copias certificadas, certificaciones.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2021)</small>
+
+En relación con los folios, será la Dirección General del Notariado la que provea a las personas titulares de las Notarías de los elementos de seguridad correspondientes.
 
 Para cualquier expedición, la persona titular de la Notaría utilizará el sistema que consideré más conveniente con la finalidad de que (sic) reproducción sea, exacta, clara, legible e indeleble de reproducción o impresión, lo mismo aplicará para las copias de los documentos del apéndice.
 
@@ -2909,7 +2943,9 @@ III. Asistir y participar activamente, con voz y voto, a las sesiones de la Asam
 
 IV. Pagar puntual e íntegramente las cuotas ordinarias y extraordinarias que acuerde la Asamblea General o el Consejo de Notarios, debiendo recibir siempre el Comprobante Fiscal Digital respectivo;
 
-V. Pagar puntual e íntegramente las cantidades que resulten necesarias para cubrir el importe que cause la elaboración de los folios que solicite para el ejercicio de la Función Notarial, debiendo recibir el Comprobante Fiscal Digital correspondiente;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2021)</small>
+
+V. Pagar puntual e íntegramente a la Dirección General del Notariado las cantidades que resulten necesarias para cubrir el importe que cause la elaboración de los folios que solicite para el ejercicio de la Función Notarial, debiendo recibir el Comprobante Fiscal Digital correspondiente;
 
 VI. Ser convocado a las Asambleas Generales y elegir, mediante sufragio libre, secreto, directo y personal, a los integrantes del Consejo de Notarios;
 
@@ -3160,3 +3196,13 @@ También se suspenden los procedimientos iniciados al amparo de los artículos 6
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dos días del mes de marzo de dos mil veintiuno. Diputado Presidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Vicepresidenta. LILIANA LUNA AGUIRRE. Diputada Vicepresidenta. NANCY JIMÉNEZ MORALES. Rúbrica. Diputada Secretaria. ILIANA PAOLA RUÍZ GARCÍA. Rúbrica. Diputada Secretaria. OLGA LUCÍA ROMERO GARCI CRESPO. Rúbrica.
 
 Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla; artículo 26 segundo párrafo de la Ley Orgánica de la Administración Pública del Estado, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los cinco días del mes de marzo de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCIA HILL MAYORAL. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 55 FRACCIÓN V, 61 FRACCIÓN VI, 64 FRACCIONES II Y VIII, 66, 84, 85 FRACCIONES I, II, IV Y V, 94 FRACCIÓN II PÁRRAFO SEGUNDO, 165, 168 PÁRRAFOS SEGUNDO Y TERCERO, Y 284 FRACCIÓN V, TODOS DE LA LEY DEL NOTARIADO PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
