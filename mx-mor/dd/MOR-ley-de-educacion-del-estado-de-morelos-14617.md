@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2020-08-12"
+last_updated: "2021-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE EDUCACION DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DE LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 17 DE MARZO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -1964,3 +1966,17 @@ PRIMERO. Aprobado el presente Decreto por la Legislatura se remitirá al Goberna
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Informativo del Gobierno del Estado.
 
 TERCERO. El Instituto de la Educación Básica del Estado de Morelos en un plazo de 180 días naturales contados a partir de la publicación de la presente reforma en el Periódico Oficial “Tierra y Libertad”, deberá expedir su Reglamento del Personal Docente de Educación Física y Deporte.
+
+P.O. 17 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE EDUCACIÓN DEL ESTADO DE MORELOS.”]
+
+PRIMERA. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga la Ley de Educación del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad”, número 3813, de fecha 26 de agosto de 1996.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango normativo que sean contrarias a la presente Ley.
+
+CUARTA. El Ejecutivo Estatal por conducto de la Secretaría de Educación expedirá los acuerdos, lineamientos y demás disposiciones de carácter administrativo que para la aplicación de la Ley se requieran, dentro de un término de ciento ochenta días hábiles posteriores a la publicación de esta Ley.
+
+QUINTA. Dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor de la presente Ley, los Organismos Públicos Descentralizados sectorizados a la Secretaría de Educación y sus Órganos Desconcentrados, en el ámbito de su competencia, deberán, de ser necesario, armonizar su marco normativo de conformidad con la presente Ley.
