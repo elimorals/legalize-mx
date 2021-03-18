@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-patrimonio-cultural-del-estado-de-jalisco-y-sus-102141"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-26"
-last_updated: "2021-03-11"
+last_updated: "2021-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 26 de agosto de 2014.
 
@@ -259,19 +259,37 @@ I. Coordinar las acciones tendientes a la salvaguarda de los bienes que integren
 
 II. Administrar a través de sus dependencias, los bienes y zonas de protección del Patrimonio Cultural propiedad del Estado;
 
-III. Expedir las declaratorias de los bienes y zonas de protección que formen parte del Patrimonio Cultural del Estado;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-IV. Postular ante instancias nacionales e internacionales el reconocimiento de bienes afectos al Patrimonio Cultural del Estado, cuando su relevancia lo amerite;
+III. Expedir y publicar las declaratorias de los bienes y zonas de protección que formen parte del Patrimonio Cultural del Estado;
 
-V. Celebrar convenios de coordinación y colaboración con autoridades federales y municipales, con el fin de cumplir con el objeto de la presente Ley;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+IV. Emitir y publicar los programas estatales de protección del Patrimonio Cultural;
 
-VI. Promover y difundir los (sic) manifestaciones de la cultura local y lo (sic) de los grupos indígenas y comunidades afromexicanas, cualquiera que sea su autodenominación asentados (sic) en el territorio del Estado.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE MARZO DE 2021)</small>
 
-VII. Coadyuvar con los municipios en la implementación de acciones de salvaguarda de bienes y zonas de protección que integran su Patrimonio Cultural; y
+V. Postular ante instancias nacionales e internacionales el reconocimiento de bienes afectos al Patrimonio Cultural del Estado, cuando su relevancia lo amerite;
 
-VIII. Las demás que le confieran esta ley y otras disposiciones jurídicas aplicables a la materia.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE MARZO DE 2021)</small>
+
+VI. Celebrar convenios de coordinación y colaboración con autoridades federales y municipales, con el fin de cumplir con el objeto de la presente Ley;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+
+VII. Expedir y publicar los reglamentos y demás disposiciones normativas tendientes a la restauración, conservación y difusión de los bienes integrantes del patrimonio cultural del Estado;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+
+VIII. Coadyuvar con los municipios en la implementación de acciones de salvaguarda de bienes y zonas de protección que integran su Patrimonio Cultural;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2021)</small>
+
+IX. Apoyar a los municipios en las acciones de rescate, remozamiento y restauración de aquellos bienes que integren su patrimonio cultural; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE MARZO DE 2021)</small>
+
+X. Las demás que le confieran esta ley y otras disposiciones jurídicas aplicables a la materia.
 
 ###### Artículo 13.
 
@@ -315,13 +333,19 @@ XVIII. Solicitar a las autoridades municipales o judiciales la suspensión o cla
 
 XIX. Las demás atribuciones que le confieran este ordenamiento y disposiciones jurídicas aplicables a la materia.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
+
 ###### Artículo 14.
 
-La Secretaría solicitará la intervención de la Procuraduría de Desarrollo Urbano, a efecto de que promueva las siguientes acciones:
+La Procuraduría de Desarrollo Urbano, en el marco de la presente ley, podrá promover las siguientes acciones:
 
-I. La nulidad de autorizaciones, licencias o permisos que contravengan las determinaciones de usos y destinos derivados de los planes y programas de desarrollo urbano, de ordenamiento ecológico y de protección al Patrimonio Cultural; y
+I. La nulidad de autorizaciones, licencias o permisos que contravengan las determinaciones de usos y destinos derivados de los planes y programas de desarrollo urbano, de ordenamiento ecológico y de protección al patrimonio cultural;
 
-II. La nulidad de los actos, acuerdos, convenios o contratos a que se refiere la presente Ley en materia de desarrollo urbano.
+II. La nulidad de enajenaciones, donaciones, comodatos, concesiones o cualquier otro acto jurídico regulado por el derecho público o privado, que ponga en riesgo los bienes y zonas de protección que conforman el patrimonio cultural del Estado o de los Municipios; y
+
+III. La nulidad de los actos, acuerdos, convenios o contratos a que se refiere la presente Ley en materia de desarrollo urbano.
+
+Las instancias públicas estatales y municipales están obligadas a dar la información que les requiera la Procuraduría de Desarrollo Urbano, en los términos de las disposiciones jurídicas aplicables.
 
 ###### Artículo 15.
 
@@ -805,9 +829,11 @@ e) Cualquier otra circunstancia que se considere como necesaria para el cumplimi
 
 La Secretaría o en su caso la dependencia municipal en materia de cultura remitirá el proyecto de resolución junto con el expediente integrado al Gobernador del Estado o al Pleno del Ayuntamiento, para que en un término no mayor a sesenta días hábiles emita la declaratoria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2021)</small>
+
 ###### Artículo 77.
 
-El decreto que declare Patrimonio Cultural del Estado será publicado en el Periódico Oficial "El Estado de Jalisco" o en la Gaceta Municipal, según sea el caso.
+El decreto que declare Patrimonio Cultural del Estado será publicado en el periódico oficial “El Estado de Jalisco” o en el medio oficial de divulgación municipal, según sea el caso.
 
 Una vez publicada la Declaratoria, la Secretaría o el Ayuntamiento, realizarán las acciones necesarias para la emisión del Guía de Manejo.
 
@@ -832,6 +858,10 @@ Una solicitud de declaratoria rechazada, no podrá ser presentada de nuevo si no
 ###### Artículo 80.
 
 No podrá declararse Patrimonio Cultural del Estado una obra de arte de un artista vivo sin la autorización expresa del autor. Esta disposición no se aplicará a obras de arte instaladas en espacios públicos o cualquier obra artística incorporada o adherida permanentemente a los inmuebles.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2021)</small>
+
+Artículo 80 bis. El bien declarado Patrimonio Cultural del Estado no perderá esa calidad bajo ninguna circunstancia, debiendo recibir la protección que esta ley establece de forma permanente.
 
 ## TÍTULO CUARTO. DE LAS SANCIONES
 
@@ -968,3 +998,9 @@ P.O. 11 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28304/LXII/21 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMA EL INCISO E) DE LA FRACCIÓN IV DEL ARTÍCULO 8, LA FRACCIÓN VI DEL ARTÍCULO 12, Y LA FRACCIÓN VI Y LA FRACCIÓN (SIC) DEL ARTÍCULO 17 DE LA LEY DE PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 18 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28320/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 12, 14, 77 Y ADICIONA EL ARTÍCULO 80 BIS A LA LEY DE PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
