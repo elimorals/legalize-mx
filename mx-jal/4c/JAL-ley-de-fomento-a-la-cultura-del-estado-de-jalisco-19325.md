@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2021-03-11"
+last_updated: "2021-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2000.
 
@@ -241,13 +241,13 @@ XVI. Procurar, en coordinación con la Secretaría de Educación, el desarrollo 
 
 XVII. Presentar ante el titular del Poder Ejecutivo del Estado, los proyectos de reglamentos necesarios para el adecuado cumplimiento de la presente ley;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-XVIII. Diseñar y operar estrategias para impulsar la creación de mecenazgos, fundaciones, patronatos y similares orientados al apoyo de creadores e intérpretes artísticos y para la conformación de acervos bibliográficos, documentales pictóricos, escultóricos, arquitectónicos, gráficos, videográficos, artesanales y afines;
+XVIII. Diseñar y operar estrategias para impulsar la creación de mecenazgos, fundaciones, patronatos y similares orientados al apoyo de creadores e intérpretes artísticos y para la conformación de archivos y acervos bibliográficos, documentales, pictóricos, escultóricos, arquitectónicos, gráficos, fotográficos, videográficos, artesanales y afines;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-XIX. Otorgar apoyos económicos para traslados nacionales e internacionales a la comunidad artística que resida en el Estado, conforme a la Ley de Austeridad y Ahorro del Estado de Jalisco y sus Municipios, en los términos de la convocatoria y las reglas de operación que emita la Secretaría de Cultura; y de acuerdo con la disponibilidad presupuestal;
+XIX. Otorgar apoyo económico para movilidad y traslados nacionales e internacionales a la comunidad artística que resida en cualquiera de los municipios del Estado, para su participación en certámenes o eventos que tengan por fin estimular el desarrollo del sector cultural y creativo de Jalisco, dentro y fuera del país. Dichos apoyos serán otorgados en los términos de la convocatoria, las reglas de operación que emita la Secretaría y de acuerdo con la disponibilidad presupuestal; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2021)</small>
 
@@ -293,13 +293,13 @@ XII. Elaborar y mantener actualizado un inventario de los espacios públicos con
 
 XIII. Impulsar y proyectar en el ámbito estatal, nacional e internacional, en la medida de sus posibilidades, a los artistas municipales más destacados;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-XIV. Procurar la creación de bibliotecas, hemerotecas, casas municipales de la cultura, museos, auditorios, teatros, cines y centros culturales análogos; procurar su ampliación, mantenimiento, remozamiento y que se les dote de mejoras físicas y tecnológicas, así como la recuperación de aquellos que se encuentren abandonados o en desuso, en coordinación con instancias públicas y privadas;
+XIV. Procurar la creación de archivos, bibliotecas, hemerotecas, fototecas, pinacotecas, casas municipales de la cultura, museos, auditorios, teatros, cines y centros culturales análogos; procurar su ampliación, mantenimiento, remozamiento y que se les dote de mejoras físicas y tecnológicas, así como la recuperación de aquellos que se encuentren abandonados o en desuso, en coordinación con instancias públicas y privadas;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-XV. Promover, asesorar y coadyuvar a los particulares para la tramitación de apertura y funcionamiento de establecimientos o giros de corte cultural, tales como museos, teatros, bibliotecas, hemerotecas, archivos, galerías, centros y peñas artísticas o culturales, entre otros, como medio para fomentar la cultura en el municipio; y
+XV. Promover, asesorar y coadyuvar a los particulares para la tramitación de apertura y funcionamiento de establecimientos o giros de corte cultural, tales como archivos, museos, teatros, bibliotecas, hemerotecas, fototecas, pinacotecas, archivos, galerías, centros y peñas artísticas o culturales, entre otros, como medio para fomentar la cultura en el municipio; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -1228,5 +1228,11 @@ P.O. 11 DE MARZO DE 2021.
 P.O. 11 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28305/LXII/21 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 17, EL INCISO I) DE LA FRACCIÓN IV DEL ARTÍCULO 20, Y LA FRACCIÓN XI DEL ARTÍCULO 21 DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28321/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 6 Y XIV Y XV DEL ARTÍCULO 7 DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
