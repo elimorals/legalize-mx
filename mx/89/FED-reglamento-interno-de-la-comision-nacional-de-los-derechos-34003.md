@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2017-12-22"
+last_updated: "2021-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-12"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2021.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
@@ -265,7 +265,9 @@ Durante las ausencias temporales del presidente de la Comisión Nacional, sus fu
 
 (Unidades administrativas)
 
-Para el despacho de los asuntos que directamente le corresponden a la presidencia de la Comisión Nacional, ésta contará con el apoyo de las unidades administrativas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MARZO DE 2021)</small>
+
+Para el despacho de los asuntos que directamente corresponden a la Presidencia de la Comisión Nacional, ésta contará con el apoyo de las unidades administrativas siguientes:
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -279,9 +281,9 @@ II. Coordinación General de Seguimiento de Recomendaciones y de Asuntos Jurídi
 
 III. Dirección General de Comunicación;
 
-> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
-IV. Dirección General de Quejas, Orientación y Transparencia;
+IV. Dirección General de Quejas y Orientación;
 
 > <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -471,53 +473,65 @@ IV. Operación y Servicios de Apoyo.
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
-> <small>(REFORMADO EN SU ACÁPITE, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO EN SU ACÁPITE, D.O.F. 18 DE MARZO DE 2021)</small>
 
 ###### Artículo 26.
 
-(De la Dirección General de Quejas, Orientación y Transparencia)
+(De la Dirección General de Quejas y Orientación)
 
-La Dirección General de Quejas y Orientación (sic) tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MARZO DE 2021)</small>
+
+La Dirección General de Quejas y Orientación tendrá las siguientes atribuciones:
 
 I. Realizar labores de atención al público durante las veinticuatro horas del día, todos los días del año. Cuando de las quejas que directamente se presenten se desprenda indubitablemente que no se trata de violaciones a derechos humanos, se orientará al interesado respecto de la naturaleza de su problema y las posibles formas de solución; se le proporcionarán los datos del servidor público ante el que puede acudir, así como su domicilio y, en su caso, el número telefónico;
 
-II. Recibir y registrar los escritos sobre presuntas violaciones a derechos humanos que se presenten ante la Comisión Nacional;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
-III. Atender a las personas que se comunican telefónicamente a la Comisión Nacional, para solicitar información en materia de derechos humanos y a los quejosos o agraviados brindarles información sobre el curso de los escritos presentados ante este organismo nacional, o sobre el número de expediente que le corresponde a su asunto, la visitaduría general y el nombre del visitador adjunto responsable de su tramitación;
+II. Recibir y registrar los escritos sobre presuntas violaciones a derechos humanos; así como el resto de la correspondencia que se presente ante la Comisión Nacional;
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
+III. Atender a las personas que se comunican telefónicamente a la Comisión Nacional, para solicitar información en materia de derechos humanos y a los quejosos o agraviados brindarles información sobre el curso de los escritos presentados ante este organismo nacional;
 
 IV. Turnar a las visitadurías generales, inmediatamente después de que se hayan registrado, los escritos relacionados con presuntas violaciones a derechos humanos, así como la respuesta a la solicitud de informes o documentos que se formulen a la autoridad correspondiente que estén relacionados con los expedientes;
 
-V. Asignar el número de expediente de queja, orientación o remisión, según corresponda, de acuerdo con la calificación elaborada por las visitadurías generales y registrarlos en la base de datos respectiva;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
-VI. Atender los escritos que reciba la Comisión Nacional y remitir la respuesta al quejoso o formular la remisión correspondiente sobre asuntos en los que se desprenda indubitablemente la ausencia de violaciones a derechos humanos, así como en los que se derive ostensiblemente la competencia de otras instancias;
+V. Asignar el número de expediente de los asuntos recibidos por la Comisión Nacional de los Derechos Humanos y registrarlos en el sistema automatizado para la gestión documental y administración de archivos;
 
-VII. Operar y administrar la base de datos en la que se registren, desde la recepción del escrito sobre presuntas violaciones a derechos humanos hasta la conclusión del expediente de cada caso, todas las acciones llevadas a cabo por la Comisión Nacional;
+VI. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
-VIII. Asignar número a las recomendaciones que emita la Comisión Nacional, realizar la notificación correspondiente y registrar en la base de datos respectiva todas las acciones llevadas a cabo por la Comisión Nacional sobre el seguimiento del cumplimiento de las mismas;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
-IX. Despachar toda la correspondencia concerniente a la atención de los expedientes de queja, inconformidad, orientación, remisión y de seguimiento de recomendaciones, así como recabar los acuses de recepción correspondientes;
+VII. Operar y administrar el sistema automatizado para la gestión documental y administración de archivos de la Comisión Nacional de los Derechos Humanos.
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
+VIII. Asignar número a las recomendaciones que emita la Comisión Nacional y realizar la notificación correspondiente.
+
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
+IX. Despachar toda la correspondencia oficial que genere la Comisión Nacional de los Derechos Humanos; así como recabar los acuses de recepción correspondientes.
 
 X. Turnar a los órganos o unidades administrativas la correspondencia recibida en las oficinas de la Comisión Nacional;
 
 XI. Presentar al presidente de la Comisión Nacional informes periódicos y los avances en la tramitación de los diversos expedientes conforme a la información que aparezca en la base de datos respectiva;
 
-XII. Coordinar sus labores con los responsables de las visitadurías generales, para lo cual otorgará y solicitará los informes que resulten necesarios;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
-XIII. Digitalizar la documentación más importante de los expedientes de queja, de inconformidad, de orientación y de remisión concluidos, así como de las recomendaciones cuyo seguimiento ha concluido;
+XII. Coordinar sus labores con las personas responsables de los órganos o unidades administrativas de la Comisión Nacional, para lo cual otorgará y solicitará los informes que resulten necesarios;
 
-XIV. Organizar, custodiar, resguardar y administrar el archivo general de la Comisión Nacional respecto de los expedientes de queja, recursos de inconformidad, orientación directa o remisión, siempre y cuando el trámite se encuentre concluido, así como de las recomendaciones cuyo seguimiento haya finalizado;
+XIII. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
+
+XIV. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
 > <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
 XV. Administrar el Sistema Nacional de Alerta de Violación de Derechos Humanos, que promueva la ejecución de acciones para prevenir, disuadir o mitigar los riesgos identificados, elaborando los informes correspondientes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+XVI. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
-XVI. Tramitar las solicitudes de información, colaboración u oficios especiales que presenten o se soliciten a las distintas dependencias y entidades de los diferentes niveles de gobierno, o a los órganos y unidades administrativas de la propia Comisión Nacional;
-
-> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
-
-XVII. Ejercer las funciones previstas para la Unidad de Transparencia en términos de la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones en la materia;
+XVII. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
 > <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -527,25 +541,25 @@ XVIII. Emitir las medidas cautelares que se estime pertinentes, tomando en consi
 
 XIX. Las demás que le confieran las disposiciones legales y reglamentarias, así como aquellas que le asigne el Presidente de la Comisión Nacional.
 
-> <small>(REFORMADO EN SU ACÁPITE, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO EN SU ACÁPITE, D.O.F. 18 DE MARZO DE 2021)</small>
 
 ###### Artículo 27.
 
-(Estructura de la Dirección General de Quejas, Orientación y Transparencia)
+(Estructura de la Dirección General de Quejas y Orientación)
 
-Para el ejercicio de sus atribuciones, la Dirección General de Quejas y Orientación (sic) contará con las siguientes áreas:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MARZO DE 2021)</small>
 
-I. Quejas y Orientación, y
+Para el ejercicio de sus atribuciones, la Dirección General de Quejas y Orientación contará con las siguientes áreas:
 
-II. Atención al Público.
+I. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
-> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+II. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
-III. Correspondencia y Acervo Documental; y
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
-> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+III Correspondencia.
 
-IV. Transparencia.
+IV. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
 Además, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
@@ -1657,11 +1671,13 @@ Tampoco se radicarán como expedientes de queja aquellos escritos que no vayan d
 
 ### CAPITULO III. DE LA CALIFICACION DEL ESCRITO DE QUEJA
 
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2021)</small>
+
 ###### Artículo 94.
 
 (Recepción y turno del escrito de queja)
 
-Una vez que el escrito de queja haya sido recibido, la Dirección General de Quejas y Orientación lo turnará de inmediato a la visitaduría general correspondiente para los efectos de su calificación, de resultar procedente dicha visitaduría solicitará le sea asignado un número de expediente y se le notificará dicha admisión al quejoso.
+Una vez que el escrito de queja haya sido recibido, la Dirección General de Quejas y Orientación lo turnará de inmediato a la visitaduría general correspondiente para los efectos de su calificación, de resultar procedente se notificará dicha admisión al quejoso.
 
 ###### Artículo 95.
 
@@ -2009,9 +2025,9 @@ Una vez aprobada y suscrita la recomendación por el presidente de la Comisión 
 
 Las recomendaciones serán dadas a conocer a la opinión pública mediante su publicación en la Gaceta, un boletín de prensa y en la página Web de la Comisión Nacional, así como mediante las acciones que la Dirección General de Comunicación acuerde con el Presidente de la Comisión Nacional.
 
-> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2021)</small>
 
-La Dirección General de Quejas, Orientación y Transparencia remitirá a la Dirección General de Comunicación copia del oficio de notificación y del texto de la recomendación. Los boletines de prensa, preferentemente, no deberán incluir nombres de agraviados ni de los servidores públicos involucrados en la violación a derechos humanos, a fin de respetar el honor y buen nombre de las personas.
+La Dirección General de Quejas y Orientación remitirá a la Dirección General de Comunicación copia del oficio de notificación y del texto de la recomendación. Los boletines de prensa, preferentemente, no deberán incluir nombres de agraviados ni de los servidores públicos involucrados en la violación a derechos humanos, a fin de respetar el honor y buen nombre de las personas.
 
 ###### Artículo 134.
 
@@ -2185,13 +2201,19 @@ El recurso de queja deberá ser presentado por escrito dentro de los treinta dí
 
 Igualmente, el quejoso deberá acompañar al escrito del recurso de queja las pruebas documentales con que cuente para fundamentar los agravios que exponga. En casos de urgencia, el recurso de queja podrá interponerse de manera verbal. El visitador adjunto al que le corresponda conocer del recurso prevendrá al quejoso para que lo ratifique por escrito dentro del término de tres días, así como para que acompañe las pruebas documentales correspondientes, y le aclarará que en caso de no hacerlo así, se tendrá por no interpuesto el recurso.
 
+> <small>(REFORMADO EN SU ACÁPITE [N. DE E. REPUBLICADO], D.O.F. 18 DE MARZO DE 2021)</small>
+
 ###### Artículo 152.
 
 (Recepción del recurso de queja)
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 18 DE MARZO DE 2021)</small>
+
 Al recibir un recurso de queja la Dirección General de Quejas y Orientación, procederá de la siguiente manera:
 
-I. Registrará el recurso en la base de datos correspondiente y le asignará un número de expediente. La numeración y los datos de identificación de los recursos de queja serán distintos de los expedientes de queja que corresponde conocer a la Comisión Nacional en primera instancia;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
+I. Registrará el recurso en la base de datos correspondiente;
 
 II. Turnará los recursos de manera proporcional a las visitadurías generales para su atención y trámite, y
 
@@ -2604,3 +2626,13 @@ D.O.F. 22 DE DICIEMBRE DE 2017.
 Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Se deroga el segundo párrafo, del artículo 61, del Reglamento Interno de la Comisión Nacional de los Derechos Humanos.
+
+D.O.F. 18 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO CONSULTIVO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS, EN MATERIA DE TRANSPARENCIA Y ARCHIVO”.]
+
+PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional y en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Acuerdo entrará en vigor a la firma del presente acuerdo y surtirá sus efectos al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO. La parte conducente del Manual de Organización General de la Comisión Nacional, que refleje las modificaciones realizadas al Reglamento Interno, será expedida dentro de los tres meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicada en la Gaceta y en el Diario Oficial de la Federación.
