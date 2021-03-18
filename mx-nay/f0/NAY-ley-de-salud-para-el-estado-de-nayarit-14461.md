@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2019-09-20"
+last_updated: "2021-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -67,7 +67,11 @@ III.- La protección y el acrecentamiento de los valores que coadyuven a la crea
 
 IV.- La extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
-V.- El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+
+V.- El disfrute de servicios de salud y de asistencia social que satisfagan eficaz y oportunamente las necesidades de la población.
+
+Tratándose de personas que carezcan de seguridad social, la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados;
 
 VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud, y;
 
@@ -135,21 +139,25 @@ XVII.- Participar con las autoridades federales en el desarrollo de los programa
 
 XVIII.- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionado, para su consumo dentro o fuera del mismo establecimiento basándose en las normas que al efecto se emitan;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-XIX.- Prevención de la violencia familiar e intrafamiliar; y
+XIX.- Prevención de la violencia familiar e intrafamiliar;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-XX.- La prevención del consumo de narcóticos, atención a las adicciones y aplicación de las medidas de seguridad de los delitos contra la salud, en los términos del artículo 478 de la Ley General de Salud, y
+XX.- La prevención del consumo de narcóticos, atención a las adicciones y aplicación de las medidas de seguridad de los delitos contra la salud, en los términos del artículo 478 de la Ley General de Salud;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-XXI.- Promover la prevención, diagnóstico, atención, tratamiento, rehabilitación, control, vigilancia epidemiológica del cáncer de mama y la reconstrucción mamaria como consecuencia de una mastectomía por tratamiento de cáncer de seno, y
+XXI.- Promover la prevención, diagnóstico, atención, tratamiento, rehabilitación, control, vigilancia epidemiológica del cáncer de mama y la reconstrucción mamaria como consecuencia de una mastectomía por tratamiento de cáncer de seno;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2021)</small>
 
-XXII.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
+XXII.- Proporcionar en forma gratuita la prestación de servicios públicos de salud, medicamentos y demás insumos asociados, conforme a los convenios de coordinación que celebre con la Federación, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MARZO DE 2021)</small>
+
+XXIII.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
 B) En materia de salubridad local;
 
@@ -213,9 +221,9 @@ El sistema estatal de salud, con la intervención que corresponda al comité de 
 
 El sistema estatal de salud tiene los siguientes objetivos:
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionan y causan daños a la salud, con especial interés en la promoción, implementación e impulso de acciones de atención integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
+I.- Proporcionar, servicios de salud universal en el Estado a todas las personas, y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
 
 II.- Contribuir el desarrollo demográfico armónico del Estado;
 
@@ -239,7 +247,9 @@ La Coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría 
 
 I.- Establecer y conducir la política estatal en materia de salud, en los términos de esta ley y demás disposiciones aplicables y de conformidad con las políticas del sistema nacional de salud, y con lo dispuesto por el Ejecutivo Estatal;
 
-II.- Coordinar los programas de servicio de salud de las dependencias y entidades de la administración pública estatal;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+
+II.- Coordinar los programas de servicios de salud de las dependencias y entidades de la Administración Pública Estatal, y celebrar con la Federación los convenios de coordinación necesarios para garantizar la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados para las personas sin seguridad social;
 
 III.- Apoyar la coordinación de los programas y servicios de salud de toda dependencia o entidad pública estatal y de los acuerdos de coordinación que en su caso se celebren.
 
@@ -283,15 +293,19 @@ XVII. Promover e impulsar que las instituciones del Sistema Estatal de Salud imp
 
 XVIII. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del sistema estatal de salud, y las que determinen las disposiciones generales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 8o.
 
-Los Servicios de Salud de Nayarit, promoverán la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado.
+Los Servicios de Salud de Nayarit, promoverán la participación, en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado; así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
 
 Así como la participación de sus trabajadores en el proceso escalafonario, de Conformidad con el Reglamento de Escalafón de las Condiciones Generales de Trabajo de la Secretaría de Salud y demás normas aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2021)</small>
+
+En coordinación con las autoridades estatales competentes operará los convenios de coordinación que celebre la persona titular del Poder Ejecutivo del Estado con la Federación, para garantizar la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados a las personas sin seguridad social.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -341,7 +355,13 @@ VI.- Celebrar con la federación los acuerdos de coordinación en materia de sal
 
 VII.- Celebrar los convenios con los ayuntamientos para la prestación de servicios sanitarios locales o la atención de las funciones de salud;
 
-VIII.- Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores y las que deriven de esta ley y demás disposiciones generales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2021)</small>
+
+VIII.- Conforme a la Ley General de Salud, suscribir el convenio de coordinación para garantizar la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados a las personas sin seguridad social, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE MARZO DE 2021)</small>
+
+IX.- Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores, las que se deriven de la Ley General de Salud, de esta Ley y de otras disposiciones legales aplicables.
 
 B).- En materia de salubridad local corresponde a los ayuntamientos por conducto de la autoridad sanitaria municipal:
 
@@ -373,9 +393,17 @@ II.- Certificar la calidad de agua para uso y consumo humano, en los términos d
 
 III.- Expedir bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas relacionados con los servicios de salud que están a su cargo;
 
-IV.- Formular y desarrollar programas municipales de salud en el marco del sistema nacional y estatal de salud, y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-V.- Vigilar y hacer cumplir en la esfera de su competencia los ordenamientos legales correspondientes.
+IV.- Formular y desarrollar programas municipales de salud en el marco del sistema nacional y estatal de salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2021)</small>
+
+V.- Coadyuvar con el Estado en las acciones que deriven de la suscripción de los convenios de coordinación para la implementación de la cobertura universal de salud y bienestar, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE MARZO DE 2021)</small>
+
+VI.- Las demás que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de esta Ley.
 
 ###### ARTICULO 15.
 
@@ -445,9 +473,11 @@ II.- De salud pública, y;
 
 III.- De asistencia social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 27.
 
-Conforme a las prioridades del sistema estatal de salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
+Conforme a las prioridades del Sistema Estatal de Salud y a los convenios de coordinación, se garantizará la extensión progresiva, universal, cuantitativa y cualitativa de los servicios de salud, particularmente para la atención integral de la población que se encuentra en el país que no cuenta con seguridad social, así como a los grupos vulnerables.
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -481,23 +511,29 @@ XIII.- Quien resulte afectado a través de la violencia intrafamiliar; y
 
 XIV.- Los jornaleros agrícolas expuestos a plaguicidas.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 28.
 
-Para la organización y administración de los servicios de salud, se definirán los criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, así como universalización de cobertura y de colaboración institucional.
+Para la organización y administración de los servicios de salud, se definirán los criterios de regionalización y de escalonamiento de los servicios para lograr progresivamente la universalización del acceso a servicios de salud integrales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 29.
 
-Para los efectos del derecho a la protección de la salud se consideran servicios básicos de salud preferentemente a:
+Para los efectos del derecho a la protección de la salud se consideran servicios básicos de salud los referentes a:
 
 I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-III.- La atención médica integral, que comprende las acciones de carácter preventivo, curativo, paliativo, psicológico, de urgencias, y de rehabilitación, incluyendo la reconstrucción mamaria, previo dictamen médico emitido por los Servicios de Salud de Nayarit, como parte de rehabilitación a quien se le haya realizado una mastectomía como tratamiento de cáncer de seno;
+III.- La atención médica integral, que comprende las acciones de carácter preventivo, curativo, paliativo, psicológico, de urgencias, y de rehabilitación, incluyendo la reconstrucción mamaria, previo dictamen médico emitido por los Servicios de Salud de Nayarit, como parte de rehabilitación a quien se le haya realizado una mastectomía como tratamiento de cáncer de seno.
+
+Para efectos del párrafo anterior, la atención médica integrada de carácter preventivo consiste en realizar todas las acciones de prevención y promoción para la protección de la salud, de acuerdo con la edad, sexo y los determinantes físicos, psíquicos y sociales de las personas, realizadas preferentemente en una sola consulta.
+
+En el caso de las personas sin seguridad social, deberá garantizarse la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados;
 
 IV.- La atención materno-infantil;
 
@@ -509,23 +545,33 @@ VI.- La salud mental;
 
 VII.- La prevención y el control de las enfermedades buco dentales;
 
-VIII.- La disponibilidad de medicamentos y otros insumos esenciales para la salud;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-IX.- La promoción del mejoramiento de la nutrición;
+VIII.- La disponibilidad y otorgamiento de medicamentos y material de curación en todos los niveles de atención a la población, con base en el Compendio Nacional de Insumos para la Salud elaborado por el Consejo de Salubridad General aplicable al sector salud y en los catálogos de la institución proveedora del servicio; disponibilidad de sangre a través de puestos de sangrado y centros de transfusión en hospitales de segundo y tercer nivel, así como de alta especialidad y cualquier otro insumo esencial para la salud;
 
-X.- La asistencia social a los grupos más vulnerables, y;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+IX.- La promoción de un estilo de vida saludable;
 
-XI.- La atención de las víctimas de violencia intrafamiliar y en estado de abandono; y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+
+X.- La asistencia social a los grupos más vulnerables y, de éstos, de manera especial, a los pertenecientes a las comunidades indígenas;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+
+XI.- La atención médica a las personas adultas mayores en áreas de salud geriátrica, a las víctimas de violencia y en estado de abandono, y
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 XII.- Las demás que establezcan esta ley o disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 30.
 
-El gobierno del Estado, de conformidad con las disposiciones legales aplicables, vigilará que las instituciones que presten servicios de salud en la entidad, apliquen el cuadro básico de insumos del sector salud. Así mismo, dicho gobierno convendrá con el gobierno Federal los términos en que las dependencias y entidades del Estado que presten servicios de salud, podrán participar en la elaboración del mencionado cuadro básico.
+El Gobierno del Estado, de conformidad con las disposiciones legales aplicables, participará en la aplicación del Compendio Nacional de Insumos para la Salud, por parte de las instituciones que presten servicios de salud en la Entidad.
+
+El Gobierno del Estado convendrá con el Gobierno Federal, los términos en que las dependencias y entidades del Estado que presten servicios de salud, deban participar en la elaboración del Compendio Nacional de Insumos para la Salud.
 
 ###### ARTICULO 31.
 
@@ -534,6 +580,10 @@ El gobierno del Estado coadyuvará con las autoridades federales competentes par
 I.- Que se garantice a la población del Estado la disponibilidad de medicamentos básicos, y;
 
 II.- Que los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajustan a los preceptos legales aplicables
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2021)</small>
+
+ARTICULO 31 BIS.- El Gobierno del Estado coadyuvará con las autoridades federales competentes para que se garantice a la población del Estado la disponibilidad y otorgamiento de medicamentos y material de curación según corresponda al nivel de atención de la unidad prestadora de servicio, con base en el Compendio Nacional de Insumos para la Salud elaborado por el Consejo de Salubridad General aplicable al Sector Salud, así como estar incluidos en los catálogos de la institución proveedora del servicio.
 
 ### CAPITULO II. ATENCION MEDICA
 
@@ -569,9 +619,11 @@ III.- Servicios sociales y privados sea cual fuera la forma en que se contraten,
 
 IV.- Otros que se presten de conformidad con lo que establezca el gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 35.
 
-Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a los habitantes del Estado que así lo requieran, regidos por criterios de universalidad y de gratuidad fundada en las condiciones socioeconómicas de los usuarios.
+Son servicios públicos a la población en general, los que se presten en los establecimientos públicos de salud, a las personas que se encuentren en el Estado sin seguridad social que así lo requieran, seguidos por criterios de universalidad, igualdad e inclusión y de gratuidad al momento de requerir los servicios de salud, medicamentos y demás insumos asociados.
 
 ###### ARTICULO 36.
 
@@ -617,17 +669,63 @@ Los Servicios de Salud de Nayarit coadyuvarán con las autoridades educativas co
 
 Para los efectos de esta ley, se considera usuario de servicios de salud a toda persona que requiera y obtenga los que presten los sectores públicos, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta ley y demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 44.
 
-Los usuarios tendrán derecho a obtener prestaciones de salud oportuna, profesional, ética y de calidad idónea, así como la orientación necesaria respecto a riesgos, efectos y alternativas de los procedimientos, diagnósticos terapéuticos, quirúrgicos y de rehabilitación que se le indiquen o apliquen, teniendo un trato respetuoso y digno de los profesionales, técnicos y auxiliares.
+Los usuarios tendrán los siguientes derechos:
+
+I.- Recibir en igualdad y sin discriminación los servicios de salud a que se refiere la presente Ley. El nivel de ingreso o la carencia de éste, no podrán ser limitantes para el acceso a la prestación de los servicios de salud, medicamentos y demás insumos asociados;
+
+II.- Recibir servicios integrales de salud;
+
+III.- Trato digno, respetuoso y atención de calidad;
+
+IV.- Recibir gratuitamente los medicamentos y demás insumos asociados, que sean necesarios y que correspondan a los servicios de salud;
+
+V.- Recibir información suficiente, clara, oportuna y veraz, así como la orientación que sea necesaria respecto de la atención de su salud y sobre los riesgos y alternativas de los procedimientos diagnósticos, terapéuticos y quirúrgicos que se le indiquen o apliquen;
+
+VI.- Contar con su expediente clínico;
+
+VII.- Decidir libremente sobre su atención;
+
+VIII.- Otorgar o no su consentimiento válidamente informado y a rechazar tratamientos o procedimientos;
+
+IX.- Ser tratado con confidencialidad;
+
+X.- Contar con facilidades para obtener una segunda opinión;
+
+XI.- Recibir atención médica en urgencias;
+
+XII.- Recibir información sobre los procedimientos que rigen el funcionamiento de los establecimientos para el acceso y obtención de servicios de atención médica;
+
+XIII.- No cubrir ningún tipo de cuotas de recuperación o cualquier otro costo por los servicios de salud, medicamentos y demás insumos asociados que reciban conforme al presente Título, y
+
+XIV.- Presentar quejas ante el servicio estatal de salud por la falta o inadecuada prestación de servicios establecidos en este (sic) Ley, así como recibir información acerca de los procedimientos, plazos y formas en que se atenderán las quejas y consultas.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 45.
 
-Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
+Los usuarios de la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados tendrán las siguientes obligaciones:
+
+I.- Participar en acciones de educación para la salud, promoción de la salud y prevención de enfermedades;
+
+II.- Informarse sobre los procedimientos que rigen el funcionamiento de los establecimientos para el acceso y servicios de atención médica;
+
+III.- Colaborar con el equipo de salud, informando verazmente y con exactitud sobre sus antecedentes, necesidades y problemas de salud;
+
+IV.- Cumplir las recomendaciones, prescripciones, tratamiento o procedimiento general al que haya aceptado someterse;
+
+V.- Informarse acerca de los riesgos y alternativas de los procedimientos terapéuticos y quirúrgicos que se le indiquen o apliquen, así como de los procedimientos de consultas y quejas;
+
+VI.- Dar un trato respetuoso al personal médico, auxiliar y administrativo de los servicios de salud, así como a los otros usuarios y sus acompañantes;
+
+VII.- Cuidar las instalaciones de los establecimientos de salud y colaborar en su mantenimiento;
+
+VIII.- Hacer uso responsable de los servicios de salud, y
+
+IX.- Proporcionar de manera fidedigna la información necesaria para documentar su incorporación a los servicios gratuitos de salud, medicamentos y demás insumos asociados para las personas sin seguridad social.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -975,7 +1073,9 @@ XII. A la accesibilidad de familiares u otras personas, en el acompañamiento de
 
 XIII. A otorgar o no su consentimiento informado;
 
-XIV. A recibir el medicamento que requiera de acuerdo a su disponibilidad y que el mismo se encuentre dentro del Cuadro Básico de Medicamentos;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+
+XIV. A recibir el medicamento que requiera de acuerdo a su disponibilidad y que el mismo se encuentre dentro del Compendio Nacional de Insumos para la Salud;
 
 XV. Derecho a acceder y mantener el vínculo con el sistema educativo y el empleo, y no ser excluido por causa de su trastorno mental;
 
@@ -3304,3 +3404,11 @@ P.O. 20 DE SEPTIEMBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor 180 días después de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Las erogaciones previstas en el presente Decreto, deberán ser consideradas en el Presupuesto de Egresos del Estado de Nayarit para el Ejercicio Fiscal 2020 para el cumplimiento del presente decreto.
+
+P.O. 18 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE NAYARIT, EN MATERIA DEL INSTITUTO DE SALUD PARA EL BIENESTAR".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- En un plazo no mayor a 60 días hábiles contados a partir de la entrada en vigor del Presente Decreto, el Ejecutivo del Estado deberá emitir o reformar las disposiciones necesarias para hacer efectiva la presente reforma.
