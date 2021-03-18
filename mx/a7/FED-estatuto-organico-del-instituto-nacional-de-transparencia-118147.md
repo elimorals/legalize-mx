@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-transparencia-11814
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-01-17"
-last_updated: "2020-09-23"
+last_updated: "2021-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118147&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-11-01"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2021.
 
 Estatuto publicado en la Segunda Sección al Número 13 del Diario Oficial de la Federación, el martes 17 de enero de 2017.
 
@@ -1623,9 +1623,45 @@ XIII. Fomentar hacia el interior del Instituto acciones de formación de persona
 
 XIV. Coadyuvar con la Secretaría Ejecutiva del Sistema Nacional en la elaboración de propuestas de metodología, planeación y evaluación de desempeño sobre indicadores estratégicos y de gestión, programas y proyectos para el logro de los objetivos en el marco del propio Sistema Nacional, así como en el establecimiento de criterios e instrumentos para la incorporación de una política transversal con perspectiva de género, y
 
-(REUBICADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
-XV. Las demás que se desprendan de la normatividad aplicable en la materia y las que dispongan el Pleno y el Comisionado Presidente.
+XV. Dirigir, coordinar y supervisar la formulación, operación, seguimiento de políticas, programas, presupuesto, acciones transversales y lineamientos para propiciar la igualdad de oportunidades y fortalecer la equidad de género e integridad, con la participación de otras unidades administrativas en congruencia con los programas institucionales;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
+XVI. Elaborar estudios sobre el estado en que se encuentra la equidad de género en el Instituto;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
+XVII. Coadyuvar en la vinculación con instancias públicas, académicas y organizaciones de la sociedad civil en materia (sic) derechos humanos, género e integridad;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
+XVIII. Proponer la política, estrategias y un programa anual de trabajo para alcanzar la equidad de género en el Instituto;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
+XIX. Instrumentar acciones tendientes a implementar un presupuesto con equidad de género;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
+XX. Coadyuvar con la Secretaría Ejecutiva del Sistema Nacional en el establecimiento de criterios e instrumentos para la incorporación de una política transversal con enfoque de derechos humanos, género, igualdad y no discriminación;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
+XXI. Definir y proponer disposiciones de aplicación del enfoque de derechos humanos y la perspectiva de igualdad y género, para impulsar un modelo de servicio público orientado a resultados;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
+XXII. Fomentar el intercambio de experiencias nacionales e internacionales con redes, organizaciones de la sociedad civil, académicas y no gubernamentales, en materia de derechos humanos, igualdad y género;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+
+XXIII. Coadyuvar para el desarrollo de acciones para el cumplimiento del programa de integridad del Instituto, vinculado con el Sistema Nacional Anticorrupción; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 18 DE MARZO DE 2021)</small>
+
+XXIV. Las demás que se desprendan de la normatividad aplicable en la materia, las que disponga el Pleno y, el Comisionado Presidente.
 
 ###### Artículo 44.
 
@@ -1751,41 +1787,23 @@ XVI. Proponer las medidas de ajustes razonables que permitan el ejercicio de los
 
 XVII. Promover los derechos de acceso a la información pública y protección de datos personales en el Sistema Educativo Nacional, así como entre los miembros de las comunidades educativas del país, y
 
-> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
+XVIII. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
-XVIII. Dirigir, coordinar y supervisar la formulación, operación, seguimiento de políticas, programas, presupuesto, acciones transversales y lineamientos para propiciar la igualdad de oportunidades y fortalecer la equidad de género e integridad, con la participación de otras unidades administrativas en congruencia con los programas institucionales;
+XIX. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
-> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
+XX. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
-XIX. Elaborar estudios sobre el estado en que se encuentra la equidad de género en el Instituto;
+XXI. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
-> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
+XXII. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
-XX. Coadyuvar en la vinculación con instancias públicas, académicas y organizaciones de la sociedad civil en materia derechos humanos, género e integridad;
+XXIII. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
-> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
+XXIV. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
-XXI. Proponer la política, estrategias y un programa anual de trabajo para alcanzar la equidad de género en el Instituto;
+XXV. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
-> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
-
-XXII. Instrumentar acciones tendientes a implementar un presupuesto con equidad de género;
-
-> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
-
-XXIII. Coadyuvar con la Secretaría Ejecutiva del Sistema Nacional en el establecimiento de criterios e instrumentos para la incorporación de una política transversal con enfoque de derechos humanos, género, igualdad y no discriminación.
-
-> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
-
-XXIV. Definir y proponer disposiciones de aplicación del enfoque de derechos humanos y la perspectiva de igualdad y género, para impulsar un modelo de servicio público orientado a resultados.
-
-> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
-
-XXV. Fomentar el intercambio de experiencias nacionales e internacionales con redes, organizaciones de la sociedad civil, académicas y no gubernamentales, en materia de derechos humanos, igualdad y género.
-
-> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
-
-XXVI. Coadyuvar para el desarrollo de acciones para el cumplimiento del programa de integridad del Instituto, vinculado con el Sistema Nacional Anticorrupción; y
+XXVI. (DEROGADA, D.O.F. 18 DE MARZO DE 2021)
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 23 DE SEPTIEMBRE DE 2020)</small>
 
@@ -2156,3 +2174,27 @@ SEXTO. Se instruye a la Secretaría Técnica del Pleno para que, por conducto de
 SÉPTIMO. Se instruye a la Directora General de Atención al Pleno que en suplencia por ausencia del Secretario Técnico del Pleno, con fundamento en los artículos 29, fracciones XXX y XXXVII y 53 del Estatuto Orgánico del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y Décimo Séptimo de los Lineamientos que Regulan las Sesiones de Pleno del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en materia de acceso a la información y protección de datos personales del sector público; en relación con lo dispuesto en el artículo 45, fracción IV, de la Ley Federal de Transparencia y Acceso a la Información Pública y Séptimo numeral 21 de los Lineamientos que regulan las sesiones de Pleno del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en materia de acceso a la información y protección de datos personales del sector público expida certificación del presente Acuerdo, para agilizar su cumplimiento.
 
 OCTAVO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE MARZO DE 2021.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE TRANSPARENCIA ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES, ASÍ COMO LA MODIFICACIÓN A LA ESTRUCTURA ORGÁNICA, RESPECTO A LA DIRECCIÓN DE DERECHOS HUMANOS, IGUALDAD E INTEGRIDAD”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueban las modificaciones y adiciones al Estatuto Orgánico del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos del documento que, como anexo, forma parte del presente Acuerdo.
+
+SEGUNDO. Se aprueba la readscripción de la Dirección de Derechos Humanos, Género e Integridad, con su respectiva estructura organizacional, a la Dirección General de Planeación y Desempeño Institucional del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+TERCERO. Se instruye a la Dirección General de Administración para que lleve a cabo las acciones necesarias para reasignar al personal de la Dirección de Derechos Humanos, Género e Integridad a la Dirección General de Planeación y Desempeño Institucional.
+
+CUARTO. Se instruye a la Dirección General de Asuntos Jurídicos, realice las gestiones necesarias a efecto de que, el presente Acuerdo se publiquen (sic) en el Diario Oficial de la Federación.
+
+El presente acuerdo y su anexo podrán ser consultados en las direcciones electrónicas siguientes:
+
+https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-10-03-2021.05.pdf
+
+www.dof.gob.mx/2021/INAI/ACT-PUB-10-03-2021-05.pdf
+
+QUINTO. Se instruye a la Secretaría Técnica del Pleno para que, por conducto de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo y su anexo, se publiquen en el portal de Internet del Instituto.
+
+SEXTO. Se Instruye a la Secretaria Técnica del Pleno, en relación con el artículo 45, fracción IV, de la Ley Federal de Transparencia y Acceso a la Información Pública, expida la certificación del presente Acuerdo, para agilizar su cumplimiento.
+
+SEPTIMO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
