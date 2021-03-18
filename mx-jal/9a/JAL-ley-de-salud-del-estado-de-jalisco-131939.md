@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2020-11-28"
+last_updated: "2021-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -136,6 +136,10 @@ c) Promover, orientar, fomentar y apoyar las acciones en materia de salubridad l
 d) Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y demás disposiciones legales aplicables; y
 
 III. Coordinarse con las autoridades ambientales, laborales, de protección civil, de sanidad animal y vegetal, a efecto de cumplir y hacer cumplir, en la esfera de su competencia, el derecho a la protección de la salud.
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2021)</small>
+
+IV. La Secretaría de Salud, a través del Consejo Estatal contra las Adicciones en Jalisco, participara en conjunto con las autoridades penitenciarias y/o judiciales, de acuerdo a su competencia, para la implementación de la Justicia Terapéutica en el Estado.
 
 2. Se determinan como áreas de coordinación prioritarias las relativas a:
 
@@ -525,13 +529,13 @@ X. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
 XI. La promoción de una cultura de vida saludable a través de hábitos alimenticios nutricionales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-XII. El tratamiento de reconstrucción mamaria; y
+XII. De la prevención, tratamiento y control de las adicciones; y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MARZO DE 2021)</small>
 
-XII (SIC). Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
+XIII. Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 35.
 
@@ -1415,7 +1419,9 @@ Salud Pública. Concepto.
 
 1. Salud pública es la ciencia y el arte de prevenir la enfermedad, prolongar la vida, fomentar la salud física, mental y social mediante medidas gestionadas a través de los organismos del estado en coordinación con la sociedad.
 
-2. Se consideran acciones de salud pública, entre otras, el saneamiento del medio, la prevención, control de enfermedades y accidentes, promoción de la salud, control y vigilancia sanitaria, la prevención y control de adicciones, así como la detección y atención de la depresión y prevención del suicidio.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
+
+2. Se consideran acciones de salud pública, entre otras, el saneamiento del medio, la prevención, control de enfermedades y accidentes, promoción de la salud, control y vigilancia sanitaria, la prevención, tratamiento y control de adicciones, así como la detección y atención de la depresión y prevención del suicidio.
 
 ###### Artículo 108.
 
@@ -1446,6 +1452,10 @@ X. El fomento a la investigación en materia de salud;
 XI. La asequibilidad de los servicios sanitarios; y
 
 XII. La prevención de la discapacidad.
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2021)</small>
+
+XIII. El diseño de programas de prevención, tratamiento, rehabilitación de las adicciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE OCTUBRE DE 2019)</small>
 
@@ -2213,9 +2223,15 @@ XXI. Promover las reuniones de padres de familia y docentes de las escuelas púb
 
 XXII. Determinar cuando menos los protocolos de diagnóstico, tratamiento basado en evidencias científicas, expediente clínico, procesos de ingreso, egreso y seguimiento individualizado de pacientes usuarios de sustancias psicoactivas, de conformidad con lo dispuesto por normas federales y estatales;
 
-XXIII. Aprobar su reglamento interno y manuales de operación; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2021)</small>
 
-XXIV. Las demás dispuestas por ordenamientos aplicables.
+XXIII. Participar en la implementación de la Justicia Terapéutica de acuerdo a la Ley en la materia;
+
+XXIV. Aprobar su reglamento interno y manuales de operación; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 18 DE MARZO DE 2021)</small>
+
+XXV. Las demás dispuestas por ordenamientos aplicables.
 
 ###### Artículo 167.
 
@@ -2330,6 +2346,14 @@ Usuarios de Sustancias Psicoactivas. Información Accesible.
 Usuarios de Sustancias Psicoactivas. Inspección a Instituciones.
 
 1. La Secretaría y las autoridades competentes deberán permanente, inspeccionar las instituciones dedicadas a la atención de adicciones, las condiciones de salud de los internos, el cumplimiento de sus obligaciones, del (sic) la ley, reglamentos, protocolos, manuales y normas que para tal efecto expidan las autoridades, si derivado de las inspecciones resulta alguna irregularidad, deberá informar a las autoridades competentes que sea el caso si no le compete a la autoridad verificadora.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2021)</small>
+
+###### Artículo 171 Bis.
+
+Usuarios de Sustancias Psicoactivas Sentenciados. De la Justicia Terapéutica.
+
+1. La Secretaría y las autoridades competentes deberán establecer los programas de justicia terapéutica como un beneficio de sustitución de la pena en los términos establecidos en la legislación aplicable.
 
 ### CAPÍTULO I. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
@@ -4636,3 +4660,7 @@ P.O. 28 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28001/LXII/20 QUE ADICIONA LA FRACCIÓN II AL ARTÍCULO 54 Y RECORRE LAS SUBSECUENTES, SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 60; Y SE AGREGA UN TERCER PÁRRAFO AL ARTÍCULO 67 DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE MARZO DE 2021.
+
+> <small>[N. DE E. EL “DECRETO 28324/LXII/21 DEL CONGRESO DEL ESTADO QUE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 5, SE MODIFICA LA FRACCIÓN XI, SE REFORMA LA FRACCIÓN XII, SE RECORRE Y SE CREA LA FRACCIÓN XIII AL ARTÍCULO 34, MODIFICA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 107, ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 108, SE REFORMA LA FRACCIÓN XXIII Y SE RECORREN LAS SUBSECUENTES PARA CREAR LA XXV DEL ARTÍCULO 166 Y AGREGA EL ARTÍCULO 171 BIS A LA LEY DE SALUD DEL ESTADO DE JALISCO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
