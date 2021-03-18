@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-benemeritos-del-estado-de-jalisco-antes-ley-para-20360"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-13"
-last_updated: "2019-07-27"
+last_updated: "2021-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE BENEMÉRITOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
 
 Ley publicada en la Sección Décimo Primera del Periódico Oficial del Estado de Jalisco, el martes 13 de marzo de 2001.
 
@@ -79,7 +79,23 @@ Las Rotondas erigidas en la "Plaza de los Jaliscienses Ilustres", que circundan 
 
 Los restos de las personas que hayan sido declaradas beneméritas, de conformidad al artículo 2 de esta Ley, podrán ser acogidos en las Rotondas. Los beneméritos deben haber nacido preferentemente en el Estado o habitado en él y que su labor meritoria haya sido en beneficio de Jalisco o de la nación y tener al menos 20 años de fallecida a la fecha de presentación de la iniciativa.
 
-Con independencia de que se trasladen o no, los restos de un Benemérito a la Rotonda erigida en la "Plaza de los Jaliscienses Ilustres", dicha persona será honrada con la colocación de su escultura conmemorativa en la Rotonda.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
+
+Con independencia de que se trasladen o no, los restos de un Benemérito a la Rotonda erigida en la "Plaza de los Jaliscienses Ilustres", dicha persona será honrada con la colocación de su escultura conmemorativa en dicho espacio o en su caso, con la inscripción de su nombre, en letras doradas, en las columnas de la citada Rotonda.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2021)</small>
+
+###### Artículo 6 Bis.
+
+Las esculturas conmemorativas que se coloquen por ningún motivo podrán contener mensajes, leyendas o símbolos de naturaleza política, ideológica o social, limitándose a recordar al Benemérito en cuestión. El Ayuntamiento de Guadalajara y el Ejecutivo del Estado vigilarán el cumplimiento de este artículo y realizarán las medidas conducentes.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2021)</small>
+
+###### Artículo 6 Ter.
+
+Bajo ninguna circunstancia podrá ser retirada una escultura de la "Plaza de los jaliscienses Ilustres".
+
+Sólo podrá ser removida temporalmente para la realización de acciones de limpieza, embellecimiento o para el retiro de cualquier elemento que, en contravención a la ley, le haya sido colocado, debiendo ser instalada en su lugar original, de forma inmediata. Una vez concluidas dichas acciones.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -145,21 +161,21 @@ d) Si se probara con elementos suficientes que la persona que se pretende declar
 
 La comisión dictaminadora para trasladar restos mortales a alguna de las rotondas que aquí se mencionan, deberá solicitar el consentimiento definitivo de los familiares del difunto, con la siguiente prelación:
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-Cónyuge, a falta de éste a los hijos, si no hay hijos, a los padres, si faltan los padres, a los hermanos, a falta de hermanos a los nietos, si no hubiere nietos a los sobrinos y si no hubiere sobrinos a los descendientes que subsistan, en línea recta.
+I. El cónyuge a falta de éste a los hijos, si no hay hijos, a los padres, si faltan los padres, a los hermanos, a falta de hermanos a los nietos, si no hubiere nietos a los sobrinos y si no hubiere sobrinos a los descendientes que subsistan, en línea recta; y
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-A falta de los anteriores, resolverá la Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco.
+II. La Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco resolverá a falta de los anteriores.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
 
 En el caso de hijos, hermanos, nietos, o sobrinos con la prelación señalada, cuando subsistan más de uno y exista constancia de que la mayoría de éstos se oponen al traslado y depósito de los restos mortales en alguna de las rotondas que en esta Ley se mencionan, así se establecerá en el dictamen y se respetará la decisión de los familiares, sin que ello impida la declaración de Benemérito, en caso de merecer una persona, tal honor.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
 
-Una vez que los restos mortales del personaje sean depositados en el lugar que albergue a los Beneméritos de la entidad, estos serán responsabilidad del Estado de Jalisco, por el valor histórico y cultural que representan, por lo que su disposición se sujetará a los decretos que para ese fin emita la Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco.
+Una vez que los restos mortales del personaje sean depositados en el lugar que albergue a los Beneméritos de la entidad, estos serán responsabilidad del Estado de Jalisco, cuidando siempre de la dignidad de los restos mortales y del valor histórico y cultural que representan, por lo que su disposición se sujetará a lo dispuesto por esta ley.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -294,3 +310,11 @@ P.O. 27 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27314/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA; LA LEY DE ATENCIÓN A LA JUVENTUD; LEY DE BENEMÉRITOS; LEY DE BIBLIOTECAS; LEY DE FOMENTO A LA CULTURA; LEY DE CULTURA FÍSICA Y DEPORTE, TODAS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28313/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 6 Y 13 Y SE ADICIONAN LOS ARTÍCULOS 6 BIS Y 6 TER A LA LEY DE BENEMÉRITOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se instruye al Poder Ejecutivo del Estado, al Ayuntamiento de Guadalajara y a la Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco, a fin de que ejecuten las acciones necesarias en el ámbito de sus atribuciones, para que a la brevedad se honre a la totalidad de los Beneméritos del Estado, cuales quiera (sic) que sea el acto jurídico que les haya conferido ese carácter, acorde a lo dispuesto por los artículos 6, 14 segundo párrafo, 17, fracción VI y relativos de la Ley de Beneméritos del Estado de Jalisco.
