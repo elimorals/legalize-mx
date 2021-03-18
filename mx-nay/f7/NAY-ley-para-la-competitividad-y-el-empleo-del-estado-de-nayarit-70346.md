@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-competitividad-y-el-empleo-del-estado-de-nayarit-70
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-16"
-last_updated: "2009-09-16"
+last_updated: "2021-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 16 de septiembre de 2009.
 
@@ -159,9 +159,17 @@ Productivas;
 
 XIII. Proponer esquemas para la modernización, innovación y desarrollo tecnológico en las MIPyMES;
 
-XIV. Promover que la creación y desarrollo de las MIPyMES sea en el marco de la normativa ecológica y que éstas contribuyan al desarrollo sustentable y equilibrado de largo plazo; y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-XV. Las demás que contribuyan a la realización de los fines de esta ley.
+XIV. Promover que la creación y desarrollo de las MIPyMES sea en el marco de la normativa ecológica y que éstas contribuyan al desarrollo sustentable y equilibrado de largo plazo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2021)</small>
+
+XV. Crear y tramitar, de acuerdo a la legislación aplicable, distintivos y certificaciones respecto de productos y servicios nayaritas, para distinguirlos por su calidad e impulsar el consumo local en todas sus vertientes, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MARZO DE 2021)</small>
+
+XVI. Las demás que contribuyan a la realización de los fines de esta ley.
 
 ###### Artículo 4.
 
@@ -305,9 +313,17 @@ IV. Promover acciones encaminadas al desarrollo de mecanismos de integración qu
 
 V. Impulsar al fortalecimiento de cadenas productivas, mediante el desarrollo de proveeduría local;
 
-VI. Creación de unidades y parques industriales, agro-industriales y tecnológicos; y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-VII. Cualquier otra necesaria que impulse el desarrollo económico y la generación de empleos.
+VI. Creación de unidades y parques industriales, agro-industriales y tecnológicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2021)</small>
+
+VII. Fomentar el uso de distintivos y certificaciones de productos y servicios nayaritas, para generar desarrollo económico a partir del consumo local, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MARZO DE 2021)</small>
+
+VIII. Cualquier otra necesaria que impulse el desarrollo económico y la generación de empleos.
 
 ###### Artículo 21.
 
@@ -427,7 +443,9 @@ VI. Inversión en tecnología, atendiendo al porcentaje que represente respecto 
 
 VII. Desarrollo de proveeduría local y encadenamiento productivo;
 
-VIII. Adquisición de insumos a empresas instaladas en el Estado y/o el país, incluyendo aquellas que incorporen a sus procesos, productos fabricados en Nayarit. En este rubro, se excluye la compra de energía eléctrica, agua, gas, telecomunicaciones y combustibles;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+
+VIII. Adquisición de insumos a empresas instaladas en el Estado y/o el país, incluyendo aquellas que incorporen a sus procesos, productos fabricados en Nayarit, que incluyan preferentemente distintivos o certificaciones de calidad nayarita. En este rubro, se excluye la compra de energía eléctrica, agua, gas, telecomunicaciones y combustibles;
 
 IX. Diversificación de mercados;
 
@@ -904,3 +922,11 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez" recinto oficial del H. Congres
 Dip. Manuel Narváez Robles, Presidente.- Rúbrica.- Dip. Jesús Castañeda Tejeda, Secretario.- Rúbrica.- Dip. Luis Alberto Salinas Cruz, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los quince días del mes de septiembre del año dos mil nueve.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno, Dr. Roberto Mejía Pérez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
