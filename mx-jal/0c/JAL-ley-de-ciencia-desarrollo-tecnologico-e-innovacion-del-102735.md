@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ciencia-desarrollo-tecnologico-e-innovacion-del-102735"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-09"
-last_updated: "2019-11-26"
+last_updated: "2021-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 9 de octubre de 2014.
 
@@ -141,7 +141,9 @@ V. La promoción de la divulgación de conocimientos y sus impactos, con el prop
 
 VI. La política estatal de impulso al conocimiento preverá áreas prioritarias, proyectos estratégicos y apoyos a largo plazo a la investigación científica, incluyendo la humanística, el desarrollo y la innovación tecnológica, con el propósito de garantizar el fortalecimiento del potencial humano, la creación de instituciones científicas, el mejoramiento y modernización de la enseñanza de la ciencia, la integración de la ciencia en la cultura de los jaliscienses, la creación de infraestructuras y el fomento de capacidades;
 
-VII. Las políticas, instrumentos y criterios con los que el Gobierno del Estado impulse el conocimiento, deberán buscar el mayor efecto benéfico en la enseñanza y el aprendizaje de la ciencia, la tecnología y la innovación, en la calidad de la educación en todos los niveles, e incentivará la participación y desarrollo de nuevas generaciones de investigadores y tecnólogos;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+
+VII. Las políticas, instrumentos y criterios con los que el Gobierno del Estado impulse el conocimiento, deberán buscar el mayor efecto benéfico en la enseñanza y el aprendizaje de la ciencia, la tecnología y la innovación, en la calidad de la educación en todos los niveles, e incentivará la participación y desarrollo de nuevas generaciones de investigadores y tecnólogos, procurando incluir la robótica preferentemente mediante alternativas del uso de material reciclado o que no afecte al medio ambiente como materia prima de los proyectos;
 
 VIII. El Gobierno del Estado, de conformidad con lo dispuesto por esta ley, debe participar en el otorgamiento de recursos económicos y financieros para el desarrollo del conocimiento, considerándolo como inversión para el mejoramiento de la calidad de vida y el desarrollo económico del Estado;
 
@@ -1004,3 +1006,11 @@ P.O. 26 DE NOVIEMBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. En un plazo que no excederá de ciento ochenta días hábiles a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias necesarias para su cumplimiento.
+
+P.O. 18 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28314/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 15 Y 16 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO, Y EL ARTÍCULO 6 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
+
+SEGUNDO. El Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias en materia de educación a efecto de estar en aptitud de implementar mecanismos, acciones y metodologías que considere necesarias para llevar a cabo lo establecido en este decreto.
