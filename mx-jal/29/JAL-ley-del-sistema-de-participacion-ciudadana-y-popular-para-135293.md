@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-participacion-ciudadana-y-popular-para-13529
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-09"
-last_updated: "2020-08-27"
+last_updated: "2021-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el martes 9 de abril de 2019.
 
@@ -561,7 +561,21 @@ III. El Gobierno del Estado, a través de la Secretaría de la Hacienda Pública
 
 2. Las autoridades del sistema deberán contar con formatos oficiales disponibles en todo momento, impresos y en medios electrónicos, para la presentación de solicitudes de mecanismos de participación ciudadana y popular, mismos que deberán contener los requisitos que señale cada instrumento, así como contar con los mecanismos de seguridad que garanticen su autenticidad.
 
-3. Cada una de las hojas de los formatos que contenga firmas de ciudadanos solicitantes deben contener la referencia clara y precisa del acto concreto y específico objeto del proceso. La Secretaría Ejecutiva establecerá mecanismos para garantizar que al momento de la firma, las hojas tengan esta información; y podrá investigar, en caso de duda, sobre el cumplimiento de esta disposición.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MARZO DE 2021)</small>
+
+3. Para recabar las firmas de apoyo ciudadano que establecen algunos de los mecanismos, podrán utilizarse medios electrónicos o formatos impresos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MARZO DE 2021)</small>
+
+4. El Instituto Electoral y de Participación Ciudadana, deberá contar con una plataforma o aplicación electrónica para recabar los datos y firmas a distancia, de las personas que manifiesten el apoyo ciudadano requerido para activar algún mecanismo de participación, estableciendo los mecanismos de seguridad necesarios para garantizar que las y los ciudadanos solicitantes conozcan de forma clara y precisa la información del mecanismo que desea apoyar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MARZO DE 2021)</small>
+
+5. Las autoridades del sistema deberán brindar acceso a la plataforma de firmas de apoyo desde sus portales electrónicos oficiales, la cuál será administrada por el Instituto Electoral.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
+
+6. En caso de que se recaben las firmas en formatos impresos, cada una de las hojas que contenga firmas de las y los ciudadanos solicitantes deben contener la referencia clara y precisa del acto concreto y específico objeto del proceso. La Secretaría Ejecutiva establecerá mecanismos para garantizar que al momento de la firma, las hojas tengan esta información; y podrá investigar, en caso de duda, sobre el cumplimiento de esta disposición.
 
 ### Capítulo II. Políticas Gubernamentales
 
@@ -2236,3 +2250,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para la instalación del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, la Secretaría de Planeación y Participación Ciudadana deberá integrar, en un plazo no mayor a sesenta días naturales, un Comité Técnico que se encargue de aprobar, emitir y publicar la convocatoria correspondiente, así como verificar el cumplimiento de los requisitos por parte de los aspirantes.
 
 Una vez hecho lo anterior, la Secretaría de Planeación y Participación Ciudadana y el Congreso del Estado procederán, respectivamente, en los términos de las fracciones III y IV, numeral 1, del artículo 13 de la Ley del Sistema de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco.
+
+P.O. 18 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28318/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 32 DE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
+
+SEGUNDO. El Instituto Electoral y de Participación Ciudadana deberá diseñar, implementar y poner a disposición de los ciudadanos la plataforma o aplicación de firmas de apoyo dentro de los siguientes 60 días a la entrada en vigor del presente decreto.
