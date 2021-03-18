@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-imagen-institucional-para-el-estado-de-nayarit-125247"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-16"
-last_updated: "2017-12-16"
+last_updated: "2021-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE IMAGEN INSTITUCIONAL PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 16 de diciembre de 2017.
 
@@ -125,9 +125,11 @@ Los servidores públicos que infrinjan las disposiciones del presente ordenamien
 
 ### CAPÍTULO TERCERO. DE LAS EXCEPCIONES
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
+
 ###### Artículo 14.
 
-Se exceptúa de lo dispuesto en la presente ley los bienes que, por cuestiones de vialidad, ubicación, seguridad o por su propia naturaleza y uso requieran de imagen o colores específicos, así como en aquellos identificados como patrimonio histórico, turístico, natural y cultural del Estado, de conformidad a lo establecido en la Ley de Asentamientos Humanos y Desarrollo Urbano para el Estado de Nayarit.
+Se exceptúa de lo dispuesto en la presente ley los bienes que, por cuestiones de promoción y fomento al turismo de conformidad con la ley de la materia, vialidad, ubicación, seguridad o por su propia naturaleza y uso requieran de imagen o colores específicos, así como en aquellos identificados como patrimonio histórico, turístico, natural y cultural del Estado, de conformidad a lo establecido en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nayarit.
 
 ###### Artículo 15.
 
@@ -150,3 +152,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Leopoldo Domínguez González, Presidente.- Rúbrica.- Dip. Eduardo Lugo López, Secretario.- Rúbrica.- Dip. Marisol Sánchez Navarro, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los quince días del mes de diciembre del año dos mil diecisiete.- L.C. ANTONIO ECHEVARRÍA GARCÍA. Rúbrica.- El Secretario General de Gobierno, Lic. Jorge Aníbal Montenegro Ibarra.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 14 DE LA LEY DE IMAGEN INSTITUCIONAL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
