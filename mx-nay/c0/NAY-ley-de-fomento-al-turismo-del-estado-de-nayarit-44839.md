@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fomento-al-turismo-del-estado-de-nayarit-44839"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-04"
-last_updated: "2016-12-03"
+last_updated: "2021-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE FOMENTO AL TURISMO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2016..
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el miércoles 4 de mayo de 2005.
 
@@ -589,9 +589,13 @@ En el caso de la promoción internacional, esta se llevará a cabo en coordinaci
 
 ARTICULO 17 J.- La Secretaría se encargará de expedir los lineamientos técnicos para el diseño y producción de las campañas turísticas publicitarias en la entidad.
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2021)</small>
 
-ARTICULO 17 K.- La Secretaría promoverá el uso de las marcas y regiones turísticas de Nayarit en todos los materiales gráficos, visuales y electrónicos que se utilicen con fines de promoción y difusión turísticas.
+ARTICULO 17 J Bis.- La marca turística "Nayarit Enamora" es el elemento gráfico que identifica a la entidad como destino turístico en el ámbito local, nacional e internacional.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
+
+ARTICULO 17 K.- La Secretaría promoverá el uso de la marca turística "Nayarit Enamora" así como de otras marcas y regiones turísticas de Nayarit en todos los materiales gráficos, visuales y electrónicos que se utilicen con fines de promoción y difusión turísticas.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
@@ -605,13 +609,35 @@ II. La publicación y distribución de libros, revistas, folletos y otros materi
 
 III. La promoción de Nayarit como destino para la inversión entre empresarios nacionales y extranjeros;
 
-IV. La difusión de las marcas turísticas de Nayarit y sus regiones, imágenes y servicios turísticos, así como los atractivos naturales de Nayarit, en medios de comunicación masiva;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+
+IV. Implementar y desarrollar la marca turística "Nayarit Enamora", así como otras marcas turísticas de Nayarit que se estimen convenientes, incluyendo sus regiones para reforzar la imagen de la entidad como un destino atractivo, seguro y con una oferta turística diversa;
 
 V. El apoyo, información y asesoría a los turistas en la entidad;
 
-VI. La gestión para que espectáculos o eventos deportivos, culturales, turísticos, o de naturaleza similar que representen especial relevancia o alto impacto se desarrollen en los diferentes destinos turísticos del Estado, y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-VII. Cualquier otra actividad que tenga por objeto la comunicación persuasiva para incrementar la imagen, los flujos turísticos, la estadía y el gasto de los turistas en el Estado.
+VI. La gestión para que espectáculos o eventos deportivos, culturales, turísticos, o de naturaleza similar que representen especial relevancia o alto impacto se desarrollen en los diferentes destinos turísticos del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2021)</small>
+
+VII. La difusión de la marca turística "Nayarit Enamora", así como otras marcas turísticas de Nayarit que se estimen convenientes, incluyendo sus regiones, imágenes y servicios turísticos, así como los atractivos naturales de la entidad, en medios de comunicación masiva;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2021)</small>
+
+VIII. Apoyar las celebraciones tradicionales y folklóricas, así como la exposición y demostración artesanal, que promuevan las tradiciones y costumbres del Estado, potenciando una mayor afluencia de visitantes en los lugares de celebración;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2021)</small>
+
+IX. Impulsar la restauración del patrimonio histórico, artístico y cultural, así como la preservación de los recursos naturales que constituyan un atractivo turístico;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2021)</small>
+
+X. Promover el turismo accesible, de compras, cultural, deportivo, gastronómico, de naturaleza, de negocios, religioso o espiritual, social, de salud y gran turismo, así como posicionar al Estado como sede para locaciones y filmaciones de la industria cinematográfica, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN VII], P.O. 18 DE MARZO DE 2021)</small>
+
+XI. Cualquier otra actividad que tenga por objeto la comunicación persuasiva para incrementar la imagen, los flujos turísticos, la estadía y el gasto de los turistas en el Estado.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
@@ -1134,3 +1160,11 @@ P.O. 3 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA ARTÍCULOS DE LA LEY DE FOMENTO AL TURISMO DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 18 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO AL TURISMO DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, la Secretaría de Turismo del Estado de Nayarit será la encargada de realizar ante la autoridad federal en materia de propiedad industrial, los trámites concernientes a la renovación de la marca turística "Nayarit Enamora", cuando por el transcurso del tiempo sea necesario; así como del registro y renovación de aquellas otras que estimen convenientes para la promoción de la entidad en los mercados local, nacional e internacional.
