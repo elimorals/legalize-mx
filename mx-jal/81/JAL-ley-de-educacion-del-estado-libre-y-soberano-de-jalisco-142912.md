@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2020-08-15"
+last_updated: "2021-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -297,9 +297,17 @@ VIII. Programas de fomento a la cultura y educación vial;
 
 IX. Programas de educación bilingüe intercultural, en Lengua de Señas Mexicana y español;
 
-X. Acciones de colaboración y coordinación con el Sistema de Salud; y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
-XI. Las demás que tiendan al bienestar individual y social.
+X. Acciones de colaboración y coordinación con el Sistema de Salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2021)</small>
+
+XI. Programas de robótica preferentemente mediante alternativas del uso de material reciclado o que no afecte al medio ambiente como materia prima de los proyectos, pudiendo elegir la metodología que facilite la aplicación de esta; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE MARZO DE 2021)</small>
+
+XII. Las demás que tiendan al bienestar individual y social.
 
 Facultades del Poder Ejecutivo Estatal
 
@@ -331,7 +339,9 @@ XI. Implementar programas que fomenten en los educandos y su familia, el expendi
 
 XII. Vincular a la educación con el Sistema de Salud, a fin de contribuir a la salud, el desarrollo y el bienestar de las y los jaliscienses.
 
-XIII. Elaborar los principios y las metodologías para fomentar la cultura educativa científica en la educación básica;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+
+XIII. Elaborar los principios y las metodologías para fomentar la cultura educativa científica en la educación básica; en donde se pueda desarrollar la robótica preferentemente mediante alternativas del uso de material reciclado o que no afecte al medio ambiente como materia prima de los proyectos, pudiendo elegir la metodología que facilite la aplicación de esta;
 
 XIV. Fomentar la cultura vial, mediante la implementación de programas de educación vial, dirigidos a los educandos que promuevan el conocimiento, comprensión y respeto a las normas, la prevención de accidentes y la convivencia responsable entre usuarios de las vías públicas;
 
@@ -1115,9 +1125,17 @@ II. Evaluar los resultados alcanzados por los educandos en su desarrollo de las 
 
 III. Implementar métodos de enseñanza específicos para la obtención de esas competencias;
 
-IV. Capacitar a los profesores en la enseñanza y evaluación de las competencias descritas; y
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2021)</small>
 
-V. Proporcionar de manera gradual el número mínimo de horas de activación física semanales adecuadas a la edad de los educandos.
+IV. Establecer dentro de las primeras dos horas del ingreso a clases, un horario uniforme para el consumo de alimentos nutritivos, en todos los centros educativos;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+
+V. Capacitar o (sic) los profesores en lo (sic) enseñanza y evolución de las competencias descritos (sic); y
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+
+VI. Proporcionar de manera gradual el número mínimo de horas de activación físico semanales adecuadas o lo (sic) edad de los educandos
 
 En materia de la promoción de la salud escolar, la autoridad educativa estatal considerará las Normas Oficiales Mexicanas respectivas.
 
@@ -2322,3 +2340,17 @@ P.O. 15 DE AGOSTO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el mismo día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28314/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 15 Y 16 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO, Y EL ARTÍCULO 6 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias en materia de educación a efecto de estar en aptitud de implementar mecanismos, acciones y metodologías que considere necesarias para llevar a cabo lo establecido en este decreto.
+
+P.O. 18 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28317/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 78 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO ADICIONANDO LA FRACCIÓN IV Y RECORRIENDO EN SU NUMERACIÓN LAS DEMÁS”.]
+
+ÚNICO. La presente reforma entrará en vigor el mismo día de su publicación en el periódico oficial "El Estado de Jalisco".
