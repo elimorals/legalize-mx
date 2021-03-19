@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-defensoria-publica-para-el-estado-de-nuevo-leon-66949"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-06"
-last_updated: "2020-01-10"
+last_updated: "2021-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DEFENSORÍA PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 6 de febrero de 2009.
 
@@ -655,9 +655,9 @@ I. Ser desempleado y no perciba ingresos económicos propios;
 
 II. Ser jubilado o pensionado;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
 
-III. Tener setenta o más años de edad;
+III. Tener sesenta o más años de edad, conforme a la Ley de los Derechos de las Personas Adultas Mayores en el Estado de Nuevo León;
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
@@ -822,3 +822,9 @@ P.O. 10 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 213. SE REFORMA EL PÁRRAFO TERCERO Y SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 11 DE LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el periódico Oficial del Estado de Nuevo León.
+
+P.O. 19 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 462. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 39 DE LA LEY DE DEFENSORÍA PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
