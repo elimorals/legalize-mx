@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-familia-para-el-estado-de-baja-california-84489"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-30"
-last_updated: "2018-02-23"
+last_updated: "2021-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2021.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 30 de diciembre de 2011.
 
@@ -63,7 +63,9 @@ La familia se caracteriza por la relación íntima, duradera y solidaria de sus 
 
 Los padres o quienes legalmente encabecen y constituyan la familia, son responsables de que en ésta prevalezca un ambiente de respeto recíproco, de armonía y cooperación subsidiaria, que permita a los hijos y a los integrantes del núcleo familiar desarrollarse en condiciones propicias para el desenvolvimiento de sus aptitudes, vocaciones y capacidades.
 
-Asimismo, es su deber fomentar en los hijos o menores que se encuentren bajo su custodia y el respeto a sus semejantes, a su medio ambiente, a las autoridades y a las instituciones, así como a las costumbres y tradiciones regionales.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2021)</small>
+
+Asimismo, es su deber respetar el interés superior de la niñez en la toma de decisiones sobre su educación y crianza con el fin de lograr la protección reforzada en los derechos e intereses de los menores, tutelando a la niñez para que de verdad se logre generar las condiciones apropiadas para favorecer en la mayor medida posible su desarrollo integral, además de fomentar en los hijos o menores que se encuentren bajo su custodia y el respeto a sus semejantes, a su medio ambiente, a las autoridades y a las instituciones, así como a las costumbres y tradiciones regionales.
 
 > <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
 
@@ -84,6 +86,10 @@ El Estado protegerá la integración y desarrollo de la familia con medidas de c
 ###### ARTÍCULO 7.
 
 El Estado implementará políticas públicas adecuadas para la promoción y generación de condiciones que permitan la integración, la protección, el fortalecimiento y el desarrollo de la familia. Las políticas públicas deberán observar una perspectiva de familia, a fin de contribuir y expandir de manera transversal en los ámbitos jurídico, social, cultural, educativo y económico dicha perspectiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MARZO DE 2021)</small>
+
+Corresponde a las autoridades judiciales en el ámbito de su competencia, asegurar a las niñas, niños y adolescentes, la protección y el ejercicio de sus derechos y la toma de medidas necesarias para su bienestar respetando el interés superior de la niñez, debiendo obligarse a propiciar el crecimiento saludable y armonioso, tanto en el ámbito físico, como en el psicoemocional del menor.
 
 ###### ARTÍCULO 8.
 
@@ -145,9 +151,11 @@ El Estado, a través de las autoridades competentes, establecerá campañas perm
 
 DE LA EDUCACIÓN DE LOS HIJOS.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 21.
 
-Los padres tienen el derecho originario, primario e inalienable a decidir el tipo de educación que recibirán sus hijos. El Estado y sus Municipios reconocerán a la familia como primera escuela, asumiendo el deber de forjar y consolidar las virtudes humanistas y solidarias de sus hijos.
+Los padres tienen el derecho originario, primario e inalienable a decidir el tipo de educación y el orden de los apellidos, pudiendo ser en forma indistinta el paterno o materno de ambos padres, que recibirán sus hijos. El Estado y sus Municipios reconocerán a la familia como primera escuela, asumiendo el deber de forjar y consolidar las virtudes humanistas y solidarias de sus hijos.
 
 El derecho de los padres a educar a sus hijos debe ser tenido en cuenta en todas las formas de colaboración entre padres, maestros y autoridades escolares, y particularmente en las actividades de participación encaminadas a dar a los ciudadanos colaboración efectiva en el funcionamiento de las escuelas y en la formulación y aplicación de la política educativa.
 
@@ -205,9 +213,11 @@ Por tanto, las políticas públicas habrán de promover el desarrollo y el biene
 
 Las familias tienen derecho a un orden social y económico en el que la organización del trabajo permita a sus integrantes vivir juntos, y que el trabajo no sea obstáculo para la unidad, bienestar, salud y estabilidad de la familia, ofreciendo también la posibilidad de un sano esparcimiento. El Estado promoverá, programas y acuerdos con los sectores de la sociedad correspondientes a efecto de sensibilizar a los empleadores a fortalecer la vida en familia de sus colaboradores.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 31.
 
-El Estado impulsará acuerdos con los sectores correspondientes a efecto de que la remuneración por el trabajo sea suficiente para fundar y mantener dignamente a la familia. El trabajo de la madre en casa debe ser reconocido y respetado por su valor para la familia y la sociedad.
+El Estado impulsará acuerdos con los sectores correspondientes a efecto de que la remuneración por el trabajo sea suficiente para fundar y mantener dignamente a la familia. El trabajo de la madre o padre en casa debe ser reconocido y respetado por su valor para la familia y la sociedad.
 
 # LIBRO II
 
@@ -313,15 +323,17 @@ XVIII.- Formular y aprobar el reglamento de esta Ley.
 
 El Instituto Estatal de la Familia se integrará por:
 
-I.-·El Gobernador del Estado.
+I.- El Gobernador del Estado.
 
 II.- Los integrantes del Patronato del DIF Estatal.
 
-III. - El Director del DIF Estatal.
+III.- El Director del DIF Estatal.
 
-IV.- El Procurador para la Defensa de los Menores y la Familia en el Estado.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
 
-V. - Un representante por cada uno de los Ayuntamientos del Estado.
+IV.- El Procurador de Protección de Niñas, Niños y Adolescentes del Estado.
+
+V.- Un representante por cada uno de los Ayuntamientos del Estado.
 
 VI.- Los representantes de las asociaciones u organizaciones ciudadanas constituidas, cuyo objetivo sea la promoción y defensa de la familia y sus valores característicos, determinadas conforme al Reglamento de esta Ley; y
 
@@ -380,3 +392,9 @@ P.O. 23 DE FEBRERO DE 2018.
 [N DE E. TRANSITORIO DEL “DECRETO No. 159 MEDIANTE EL CUAL APRUEBA LA ADICIÓN DEL TERCER PÁRRAFO AL ARTÍCULO 3 Y LAS FORMAS (SIC) A LOS ARTÍCULOS 26, 28 Y 35 FRACCIÓN IX INCISO A DE LA LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 204 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 7, 21, 31 Y 36 DE LA LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
