@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-busqueda-de-personas-de-la-ciudad-de-mexico-139632"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-31"
-last_updated: "2020-10-13"
+last_updated: "2021-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139632&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-11-30"
 
 LEY DE BÚSQUEDA DE PERSONAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE MARZO DE 2021.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el martes 31 de diciembre de 2019.
 
@@ -76,7 +76,9 @@ IV. Garantizar la protección integral de los derechos de las Personas Desaparec
 
 V. Crear el Registro de Personas Desaparecidas de la Ciudad de México como entidad que forma parte del Registro Nacional; y
 
-VI. Establecer la forma de participación de los Familiares y demás víctimas indirectas en el diseño, implementación, monitoreo y evaluación de las acciones de búsqueda e identificación de Personas Desaparecidas; así como garantizar la coadyuvancia en las etapas de la investigación, de manera que puedan verter sus opiniones, recibir información, aportar indicios o evidencias.
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
+
+VI. Establecer la forma de participación de los Familiares, sus asesores jurídicos, las instancias de la sociedad civil organizada y del sector privado y demás víctimas indirectas en el diseño, implementación, monitoreo y evaluación de las acciones de búsqueda e identificación de Personas Desaparecidas; así como garantizar la coadyuvancia en las etapas de la investigación, de manera que puedan verter sus opiniones, recibir información, aportar indicios o evidencias.
 
 ###### Artículo 3°.
 
@@ -152,25 +154,35 @@ XXXI. Víctimas: aquellas a las que hace referencia la Ley General de Víctimas 
 
 Las acciones, medidas y procedimientos establecidos en esta Ley y su reglamento serán diseñados, implementados y evaluados aplicando los principios de debida diligencia, efectividad y exhaustividad, enfoque diferencial y especializado, enfoque humanitario, gratuidad, igualdad y no discriminación, interés superior de la niñez, máxima protección, no revictimización, participación conjunta, perspectiva de género, presunción de vida, verdad y búsqueda permanente conforme al artículo 5 de la Ley General y de los Principios Rectores para la Búsqueda de Personas Desaparecidas.
 
-(NOTA: EL 12 DE JULIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 102/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE ENERO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO POR EL QUE SE ABROGA LA LEY PARA PREVENIR, ELIMINAR Y SANCIONAR LA DESAPARICIÓN FORZADA DE PERSONAS Y LA DESAPARICIÓN POR PARTICULARES EN LA CIUDAD DE MÉXICO Y SE EXPIDE LA LEY DE BÚSQUEDA DE PERSONAS DE LA CIUDAD DE MÉXICO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 6°.
 
-En todo lo no previsto en la presente Ley, son aplicables supletoriamente las disposiciones establecidas en LA LEY GENERAL, EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, LA LEY GENERAL DE VÍCTIMAS, la Ley de Víctimas, la legislación civil de la Ciudad de México Y LOS TRATADOS APLICABLES DE LOS QUE EL ESTADO MEXICANO SEA PARTE.
+En todo lo no previsto en la presente Ley, son aplicables supletoriamente las disposiciones establecidas en la Ley de Víctimas, la Ley de Declaración Especial de Ausencia de la Ciudad de México y la legislación civil aplicable en la Ciudad de México.
 
 ### CAPÍTULO SEGUNDO. DISPOSICIONES GENERALES PARA PERSONAS DESAPARECIDAS MENORES DE 18 AÑOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE MARZO DE 2021)</small>
+
 ###### Artículo 7°.
 
-Las niñas, niños y adolescentes respecto de los cuales haya Noticia, Reporte o Denuncia que han desaparecido en cualquier circunstancia, se iniciará carpeta de investigación en todos los casos y se emprenderá la búsqueda especializada de manera inmediata y diferenciada, de conformidad con el protocolo especializado en búsqueda de personas menores de 18 años de edad que emita el Sistema de Búsqueda.
+Las niñas, niños y adolescentes respecto de los cuales haya Noticia, Reporte o Denuncia que han desaparecido en cualquier circunstancia, se iniciará carpeta de investigación y ficha de búsqueda en todos los casos, y se emprenderá la búsqueda especializada de manera inmediata y diferenciada, de conformidad con el protocolo especializado en búsqueda de personas menores de 18 años de edad que emita el Sistema de Búsqueda.
 
 La Fiscalía Especializada y la Comisión de Búsqueda, realizarán el análisis del contexto sobre la desaparición de personas menores de 18 años en la Ciudad de México e intercambiarán con las autoridades competentes, la información sobre el contexto de desaparición, principalmente en la Zona Metropolitana del Valle de México y la Región Centro del país, así como de otros delitos que guarden relación directa con los fenómenos de desaparición de personas menores de 18 años y, en su caso coordinarse con otras fiscalías competentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE MARZO DE 2021)</small>
+
 ###### Artículo 8°.
 
-La Comisión de Búsqueda y las autoridades que integran el Sistema de Búsqueda deben tomar en cuenta el interés superior de la niñez, y deben establecer la información segmentada por género, edad, situación de vulnerabilidad, riesgo o discriminación.
+La Comisión de Búsqueda y las autoridades que integran el Sistema de Búsqueda deben tomar en cuenta los Derechos Humanos y el interés superior de la niñez, y deben establecer la información segmentada por género, edad, situación de vulnerabilidad, riesgo o discriminación.
 
-La divulgación que hagan o soliciten las autoridades responsables en medios de telecomunicación sobre la información de una persona menor de 18 años de edad desaparecida, se hará de conformidad con las disposiciones aplicables.
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
+
+La divulgación que hagan o soliciten las autoridades responsables en medios de telecomunicación sobre la información de una persona menor de 18 años de edad desaparecida, se hará de conformidad con las disposiciones aplicables, tomando en cuenta el principio pro-persona.
+
+> <small>(ADICIONADO, G.O. 19 DE MARZO DE 2021)</small>
+
+La difusión de la ficha de búsqueda de las personas desaparecidas deberá realizarse ampliamente y por todos los medios de difusión posible, incluidos los medios de comunicación masiva.
 
 ###### Artículo 9°.
 
@@ -366,7 +378,7 @@ Para ser titular se requiere:
 
 I. Ser ciudadana o ciudadano mexicano;
 
-II. No haber sido condenado por la comisión de un delito doloso o inhabilitado como servidor público;
+II. (DEROGADA, G.O. 19 DE MARZO DE 2021)
 
 III. Contar con título profesional;
 
@@ -664,13 +676,25 @@ V. Las demás que determine el Consejo Ciudadano, en el marco de sus atribucione
 
 ### CAPÍTULO CUARTO. DE LOS GRUPOS DE BÚSQUEDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE MARZO DE 2021)</small>
+
 ###### Artículo 40.
 
-La Comisión de Búsqueda contará con, al menos, un Grupo de Búsqueda en cada demarcación territorial, integrado por personas servidoras públicas especializadas en la búsqueda, tanto del Gobierno de la Ciudad de México como de la Alcaldía respectiva.
+La Comisión de Búsqueda contará con, al menos, un Grupo de Búsqueda en cada demarcación territorial, integrado por personas servidoras públicas especializadas en la búsqueda, tanto del Gobierno de la Ciudad de México como de la Alcaldía respectiva, los cuales deberán quedar instalados en un plazo no mayor a 30 días hábiles siguientes a la toma de protesta de la Alcaldesa o el Alcalde de cada una de las demarcaciones territoriales.
+
+> <small>(ADICIONADO, G.O. 19 DE MARZO DE 2021)</small>
+
+Las personas servidoras públicas que integren los Grupos de Búsqueda deberán ser capacitadas en un periodo no mayor a 60 días hábiles siguientes a la toma de protesta de la Alcaldesa o Alcalde de cada una de las demarcaciones territoriales.
+
+> <small>(ADICIONADO, G.O. 19 DE MARZO DE 2021)</small>
+
+Los mecanismos, principios y materia de capacitación para las personas Servidoras Públicas que integren los Grupos de Búsqueda en cada Alcaldía serán determinados por la Comisión de Búsqueda.
 
 Con independencia de lo anterior, la Comisión de Búsqueda podrá auxiliarse por personas especializadas en búsqueda de personas, familiares, colectivos y organizaciones de la sociedad civil especializadas, así como por cuerpos policiales especializados que colaboren con las autoridades competentes, en términos de las disposiciones aplicables.
 
-Los cuerpos especializados, así como toda persona servidora pública que sea requerida, deberá colaborar con la Comisión de Búsqueda, en términos de las disposiciones legales aplicables.
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
+
+Los cuerpos especializados, así como toda persona servidora pública que sea requerida, deberá colaborar con la Comisión de Búsqueda, en términos de las disposiciones legales aplicables
 
 ###### Artículo 41.
 
@@ -728,7 +752,7 @@ V. Informar de manera inmediata a la Comisión de Búsqueda, la localización o 
 
 VI. Solicitar directamente la localización geográfica en tiempo real o la entrega de los datos conservados, en los términos establecidos en el Código Nacional de Procedimientos Penales;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2020)</small>
 
 VII. Requerir a la persona titular de la Fiscalía General, solicite la autorización para ordenar la intervención de comunicaciones, en términos de las disposiciones aplicables;
 
@@ -1272,10 +1296,18 @@ Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-P.O. 13 DE OCTUBRE DE 2020.
+G.O. 13 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 45, FRACCIÓN VII, DE LA LEY DE BÚSQUEDA DE PERSONAS DE LA CIUDAD DE MÉXICO".]
 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 19 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 2°, 6°, 7°, EL PRIMER PÁRRAFO Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO RECORRIENDO LOS SUBSECUENTES DEL ARTÍCULO 40 Y SE DEROGA LA FRACCIÓN II DEL ARTÍCULO 23 DE LA LEY DE BÚSQUEDA DE PERSONAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. - Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México y publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO. - El presente Decreto entrara en vigor al día siguiente día (sic) de su publicación en la Gaceta Oficial de la Ciudad de México.
