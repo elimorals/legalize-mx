@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asociaciones-publico-privadas-para-el-estado-de-139585"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-17"
-last_updated: "2019-12-17"
+last_updated: "2021-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2021.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Coahuila, el martes 17 de diciembre de 2019.
 
@@ -55,7 +55,9 @@ De las autoridades sujetas a esta Ley
 
 Las disposiciones de la presente Ley son aplicables a las asociaciones público privadas que realicen:
 
-I. Las entidaes (sic) estatales;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
+
+I. La Secretaría de Inversión Pública Productiva, por cuenta de las entidades estatales;
 
 II. Las entidades municipales;
 
@@ -67,11 +69,13 @@ V. El Poder Judicial del Estado de Coahuila de Zaragoza.
 
 Las autoridades señaladas en este artículo, observarán y aplicarán los criterios y procedimientos previstos en esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2021)</small>
+
 De la interpretación de la Ley
 
 ###### Artículo 3.
 
-La interpretación de esta Ley corresponde tanto a la Secretaría de Infraestructura como a la Secretaría, conforme a sus respectivas facultades, y se hará en consistencia con la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+La interpretación de esta Ley corresponde tanto a la Secretaría de Inversión Pública Productiva como a la Secretaría, conforme a sus respectivas facultades, y se hará en consistencia con la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 De la supletoriedad y aplicación de la Ley
 
@@ -173,9 +177,25 @@ XXXIX. Proyecto: Un proyecto de asociación público privada;
 
 XL. Reglamento: El Reglamento de la presente Ley;
 
-XLI. Secretaría: La Secretaría de Finanzas; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
 
-XLII. Secretaría de Infraestructura: La Secretaría de Infraestructura, Desarrollo Urbano y Movilidad.
+XLI. Secretaría: La Secretaría de Finanzas;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
+
+XLII. Secretaría de Infraestructura: La Secretaría de Infraestructura, Desarrollo Urbano y Movilidad; y
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2021)</small>
+
+XLIII. La Secretaría de Inversión Pública Productiva: La Dependencia, que a nivel Estatal fungirá como entidad pública interesada para los efectos de la presente Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2021)</small>
+
+Procesos de pre-inversión de entidades estatales
+
+###### Artículo 6 Bis.
+
+La Secretaría de Inversión Pública Productiva, tendrá a su cargo los procesos de pre inversión de los proyectos de asociación público privada que instrumente por cuenta de las entidades estatales.
 
 De la información y documentos derivados de un proyecto
 
@@ -207,6 +227,8 @@ III. Aquellas cuya fuente de pago al desarrollador proviene de una combinación 
 
 #### SECCIÓN PRIMERA. DE LAS AUTORIDADES EN MATERIA DE ASOCIACIONES PÚBLICO PRIVADAS
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2021)</small>
+
 De las autoridades en materia de asociaciones público privadas
 
 ###### Artículo 10.
@@ -219,27 +241,29 @@ II. La Secretaría;
 
 III. La Secretaría de Infraestructura;
 
-IV. La Tesorería Municipal cuando intervengan los municipios;
+IV. La Secretaría de Inversión Pública Productiva;
 
-V. El COPLADEC;
+V. La Tesorería Municipal cuando intervengan los municipios;
 
-VI. El Congreso;
+VI. El COPLADEC;
 
-VII. El titular del Poder Ejecutivo del Estado;
+VII. El Congreso;
 
-VIII. El titular de la Presidencia Municipal correspondiente, cuando intervengan los municipios;
+VIII. El titular del Poder Ejecutivo del Estado;
 
-IX. El Comité de Proyectos;
+IX. El titular de la Presidencia Municipal correspondiente, cuando intervengan los municipios;
 
-X. El Comité Municipal de Proyectos cuando intervengan entidades municipales;
+X. El Comité de Proyectos;
 
-XI. El Ayuntamiento que corresponda al municipio en cuestión;
+XI. El Comté (sic) Municipal de Proyectos cuando intervengan entidades municipales;
 
-XII. El órgano de control que corresponda;
+XII. El Ayuntamiento que corresponda al municipio en cuestión;
 
-XIII. Cualquier otra entidad pública o autoridad que deba emitir alguna autorización para la ejecución del proyecto; y
+XIII. El órgano de control que corresponda;
 
-XIV. Cualquier otra entidad pública o autoridad que deba formar parte del procedimiento de implementación del proyecto en coordinación con alguna de las señaladas en las fracciones anteriores de este artículo, según sea requerida por el Comité de Proyectos o por el Comité Municipal de Proyectos.
+XIV. Cualquier otra entidad pública o autoridad que deba emitir alguna autorización para la ejecución del proyecto; y
+
+XV. Cualquier otra entidad pública o autoridad que deba formar parte del procedimiento de implementación del proyecto en coordinación con alguna de las señaladas en las fracciones anteriores de este artículo, según sea requerida por el Comité de Proyectos o por el Comité Municipal de Proyectos.
 
 De las facultades de las entidades públicas
 
@@ -247,9 +271,9 @@ De las facultades de las entidades públicas
 
 Las entidades públicas interesadas en la implementación de un proyecto tendrán las siguientes facultades:
 
-I. Integrar los análisis a que se refiere el artículo 46 de esta Ley, en cumplimiento con los lineamientos técnicos y los lineamientos financieros, salvo tratándose de propuestas no solicitadas.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
 
-Para la elaboración de los análisis a que se refiere la presente fracción, las entidades estatales, podrán solicitar la opinión preliminar de otras entidades públicas o autoridades competentes, de ser necesario;
+I. Integrar los análisis a que se refiere el artículo 46 de esta Ley, en cumplimiento con los lineamientos técnicos y los lineamientos financieros, salvo tratándose de propuestas no solicitadas;
 
 II. Elaborar el proyecto de iniciativa de decreto a que se refiere el artículo 80 de esta Ley;
 
@@ -263,11 +287,19 @@ VI. Emitir el fallo a favor del adjudicatario que corresponda;
 
 VII. Celebrar el contrato de asociación público privada con el desarrollador adjudicado;
 
-VIII. Supervisar la prestación del servicio o construcción de la obra, así como (sic) demás obligaciones del desarrollador en la etapa de ejecución del proyecto, por sí mismas o por cuenta de un tercero.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
 
-No obstante lo establecido en el párrafo anterior, la Secretaría de Infraestructura podrá supervisar la ejecución de la obra en cuestión para el caso de proyectos de entidades estatales, y el órgano de control competente, a su vez, cuenta con la facultad de supervisión del proyecto, ya sea que sea en la etapa de ejecución del proyecto o bien durante la operación del servicio conforme a su normatividad aplicable; y
+VIII. Podrá supervisar la prestación del servicio o construcción de la obra, así como demás obligaciones del desarrollador en la etapa de ejecución del proyecto, por sí misma (sic); y
 
 IX. Las demás que le correspondan conforme a lo establecido en la presente Ley y en la demás legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2021)</small>
+
+La Secretaría de Inversión Pública Productiva será la entidad pública competente para el ejercicio de las facultades del presente artículo respecto de aquellos proyectos de asociación público privada que las entidades estatales propongan para su implementación, a dicha dependencia.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2021)</small>
+
+No obstante lo establecido en el párrafo anterior, la Secretaría de Infraestructura deberá supervisar la ejecución de la obra en cuestión para el caso de proyectos de entidades estatales, y el órgano de control competente, a su vez, cuenta con la facultad de supervisión del proyecto, ya sea en la etapa de ejecución del proyecto o bien durante la operación del servicio conforme a su normatividad aplicable.
 
 De los convenios entre las entidades públicas
 
@@ -291,9 +323,13 @@ III. Analizar y, en su caso, confirmar que el proyecto sea celebrado en las mejo
 
 IV. La Secretaría, o en su caso la Tesorería Municipal, emitirá la autorización presupuestaria, conforme al artículo 40 de esta Ley, y gestionará la autorización y los parámetros para el cálculo de obligaciones y obligaciones contingentes y para el cálculo del monto máximo anual del gasto programable para proyectos, conforme a lo señalado en los artículos 40, 42, 43 y demás relativos de esta Ley.
 
-La Secretaría emitirá la autorización correspondiente a las entidades públicas que pretendan la afectación de activos por parte del Estado como garantía o fuente de pago del proyecto, para que puedan continuar con el proceso de asociaciones público privadas correspondiente, una vez que se le remita el expediente respectivo conforme al artículo 47 de esta Ley.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2021)</small>
 
-Tratándose de entidades públicas municipales, el Ayuntamiento correspondiente será el órgano competente para emitir la autorización referida en el párrafo anterior, conforme al artículo 47 de esta Ley; y
+La Secretaría emitirá la autorización correspondiente a las entidades públicas que pretendan la afectación de activos por parte del Estado como garantía o fuente de pago del proyecto, para que puedan continuar con el proceso de asociaciones público privadas correspondiente, una vez que se le remita el expediente respectivo conforme al artículo 47 BIS de esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2021)</small>
+
+Tratándose de entidades públicas municipales, el Ayuntamiento correspondiente será el órgano competente para emitir la autorización referida en el párrafo anterior, conforme al artículo 47 BIS de esta Ley; y
 
 V. Las demás que le correspondan conforme a lo establecido en la presente Ley y en la demás legislación aplicable.
 
@@ -311,9 +347,35 @@ II. Participar, con voz y voto, en las decisiones que tome el Comité de Proyect
 
 III. Supervisar la construcción de la obra en cuestión en la etapa de ejecución del proyecto;
 
-IV. Recibir, por medio de la subsecretaría, dirección o departamento que corresponda, el expediente que contenga los análisis a que se refiere el artículo 46 de esta Ley, para que el Comité de Proyectos o el Comité Municipal de Proyectos emita, en su caso, el dictamen de viabilidad; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
+
+IV. Recibir, por medio de la subsecretaría, dirección o departamento que corresponda, el expediente que contenga los análisis a que se refiere el artículo 46 de esta Ley, para que el Comité Municipal de Proyectos emita, en su caso, el dictamen de viabilidad; y
 
 V. Las demás que le correspondan conforme a lo establecido en la presente Ley y en la demás legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2021)</small>
+
+De las facultades de la Secretaría de Inversión Pública Productiva.
+
+###### Artículo 14 Bis.
+
+La Secretaría de Inversión Pública Productiva, tendrá las facultades que se indican a continuación:
+
+I. Recibir el expediente que contenga los análisis a que se refiere el artículo 46 de esta Ley, para que el Comité de Proyectos emita, en su caso, el dictamen de viabilidad;
+
+II. Realizar o contratar los análisis a que hace referencia el artículo 46 de esta Ley, en cumplimiento a los lineamientos técnicos y financieros; asimismo revisar los análisis propuestos por el promotor, tratándose de una propuesta no solicitada enviada a una entidad pública;
+
+III. Participar, con voz y voto, en las decisiones que tome el Comité de Proyectos conforme a lo establecido en la presente Ley;
+
+IV. Recibir de las entidades Estatales, las solicitudes de proyectos de asociaciones público privadas, para el desarrollo de los mismos en términos de las facultades otorgadas en la presente Ley;
+
+V. Celebrar convenios de colaboración con los entes a que se refieren las fracciones II, III, IV y V del artículo 2 de la presente Ley, para el desarrollo e implementación de asociaciones público privadas;
+
+VI. Llevar a cabo los procedimientos de licitación y adjudicación de contratos que sean necesarios en los desarrollos de proyectos de asociación público privada;
+
+VII. Suscribir todo tipo de acuerdos, convenios, contratos necesarios para el ejercicio de las atribuciones conferidas en esta Ley y su Reglamento; y
+
+VIII. Las demás que le correspondan conforme a lo establecido en la presente Ley y demás legislación aplicable.
 
 De la función del COPLADEC
 
@@ -385,7 +447,9 @@ De la integración del Comité de Proyectos
 
 El Comité de Proyectos se integrará por:
 
-I. El titular de la Secretaría de Infraestructura, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
+
+I. El titular de la Secretaría de Inversión Pública Productiva, quien fungirá como Presidente;
 
 II. El titular de la Secretaría, quien fungirá como vocal;
 
@@ -393,9 +457,17 @@ III. El titular de la Secretaría de Medio Ambiente, quien fungirá como vocal;
 
 IV. El titular de la Secretaría de Economía, quien fungirá como vocal;
 
-V. El funcionario designado por el Presidente que fungirá como Secretario Técnico, el cual deberá contar con un rango jerárquico mínimo de director general dentro de la Secretaría de Infraestructura; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MARZO DE 2021)</small>
 
-VI. El titular de la Secretaría de Fiscalización y Rendición de Cuentas, quien tendrá voz pero no voto en las decisiones del Comité de Proyectos.
+V. El titular de la Secretaría de Infraestructura, quien fungirá como vocal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE MARZO DE 2021)</small>
+
+VI. El funcionario designado por el Presidente que fungirá como Secretario Técnico, el cual deberá contar con un rango jerárquico mínimo de director general dentro de la Secretaría de Infraestructura; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE MARZO DE 2021)</small>
+
+VII. El titular de la Secretaría de Fiscalización y Rendición de Cuentas, quien tendrá voz pero no voto en las decisiones del Comité de Proyectos.
 
 Del nombramiento de suplentes
 
@@ -585,9 +657,11 @@ El Ejecutivo Estatal y los municipios deberán presentar informes trimestrales a
 
 Del fondo para análisis y preparación de proyectos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2021)</small>
+
 ###### Artículo 45.
 
-El Comité de Proyectos creará un fondo para los análisis y preparación de los proyectos con la partida presupuestal que, en su caso, apruebe el Congreso en el Presupuesto de Egresos del Estado para el ejercicio correspondiente, a propuesta del Poder Ejecutivo y que será administrado por la Secretaría de Infraestructura y la Secretaría conforme a lo que se disponga en el Reglamento y a lo establecido en los lineamientos técnicos y financieros según corresponda.
+La Secretaría creará un fondo para los análisis y preparación de los proyectos, de conformidad con la suficiencia presupuestaria disponible y en estricto cumplimiento a las disposiciones normativas del gasto público estatal aplicables y, que será administrado por la Secretaría de Inversión Pública Productiva y la Secretaría conforme a lo que se disponga en el Reglamento y a lo establecido en los lineamientos técnicos y financieros según corresponda.
 
 El fondo a que se refiere el párrafo anterior se podrá capitalizar con los recursos a que se refiere el artículo 100 de esta Ley, según lo autorice la contratante, así como, los rendimientos que generen los recursos financieros que lo integran, las transferencias que cualquier ente público o privado realice a su favor, donaciones o cualquier otro que le autoricen las disposiciones aplicables. Los recursos del fondo, solo se podrán utilizar para financiar análisis de proyectos de asociación público privada.
 
@@ -639,13 +713,33 @@ XIII. La conveniencia de llevar a cabo el proyecto mediante la modalidad de asoc
 
 XIV. Los demás que indiquen, en su caso, los lineamientos técnicos, los lineamientos financieros o el Reglamento de esta Ley.
 
-El dictamen de viabilidad deberá publicarse en CompraNet y en la página de internet oficial de la Secretaría de Infraestructura, y en su caso, del ayuntamiento correspondiente, dentro de los cinco días hábiles siguientes a la fecha en que haya sido emitido.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2021)</small>
 
-De la integración del expediente y su validación
+El dictamen de viabilidad deberá publicarse en CompraNet y en la página de internet oficial de la Secretaría de Inversión Pública Productiva, y en su caso, del ayuntamiento correspondiente, dentro de los cinco días hábiles siguientes a la fecha en que haya sido emitido.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2021)</small>
+
+De la solicitud a la Secretaría de Inversión Pública Productiva
 
 ###### Artículo 47.
 
-Las entidades estatales que pretendan llevar a cabo un proyecto se sujetarán al siguiente procedimiento:
+Las entidades estatales que consideren procedente realizar inversiones públicas productivas a través de la figura de asociación público privada, lo harán del conocimiento de la Secretaría de Inversión Pública Productiva mediante solicitud para el desarrollo de un proyecto de asociación público privada y en la cual deberá darse a conocer por lo menos:
+
+I. Nombre del proyecto;
+
+II. Especificaciones técnicas;
+
+III. Justificación y conveniencia; y
+
+IV. Alineación con el Plan Estatal de Desarrollo.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2021)</small>
+
+De la integración del expediente y su validación
+
+###### Artículo 47 Bis.
+
+La Secretaría de Inversión Pública Productiva, recibirá las solicitudes a que se refiere el artículo anterior, dará prioridad a los proyectos que se encuentren alineados a los instrumentos de planeación tales como el Plan Estatal de Desarrollo, los Planes Sectoriales del Gobierno Estatal, entre otros; y emitirá un acuerdo de viabilidad, previo acuerdo con el Ejecutivo, mismo que servirá para dar inicio al siguiente procedimiento:
 
 I. Integrarán el expediente del proyecto, elaborando los análisis a que se refiere el artículo 46 de esta Ley, en cumplimiento con los lineamientos técnicos y los lineamientos financieros, salvo en el caso de propuestas no solicitadas y podrán solicitar la opinión de especialistas ciudadanos de reconocida experiencia y honorabilidad, en los mismos términos señalados en los artículos 23 fracción I, 26, 32 fracción I y demás relativos de esta Ley.
 
@@ -699,13 +793,17 @@ Los lineamientos técnicos, los lineamientos financieros y el Reglamento señala
 
 El Comité de Proyectos y el Comité Municipal de Proyectos definirán la viabilidad del proyecto, debiendo fundamentar el motivo por el cual emite la viabilidad o no viabilidad del mismo, en caso de las autoridades establecidas en el artículo 2 fracciones III, IV y V de esta Ley, definirán la viabilidad correspondiente conforme a su propia normatividad.
 
-El dictamen de viabilidad contendrá la declaración de haberse revisado el resumen ejecutivo a que se refiere el artículo 47 fracción III de esta Ley, así como el pronunciamiento sobre la viabilidad del proyecto en cuestión.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2021)</small>
+
+El dictamen de viabilidad contendrá la declaración de haberse revisado el resumen ejecutivo a que se refiere el artículo 47 BIS fracción III de esta Ley, así como el pronunciamiento sobre la viabilidad del proyecto en cuestión.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2021)</small>
 
 Del registro del proyecto
 
 ###### Artículo 49.
 
-Una vez emitido el dictamen de viabilidad la Secretaría de Infraestructura, procederá a registrar el proyecto en la cartera de proyectos a que se refieren (sic) esta Ley y se continuará con las etapas subsecuentes de implementación del mismo.
+Una vez emitido el dictamen de viabilidad la Secretaría de Inversión Pública Productiva, procederá a registrar el proyecto en la cartera de proyectos a que se refieren esta Ley y se continuará con las etapas subsecuentes de implementación del mismo.
 
 De la contratación de los análisis
 
@@ -716,6 +814,10 @@ Las entidades públicas, según corresponda, podrán contratar la realización d
 La contratación de los análisis de las entidades públicas señalados en el artículo 46 de esta Ley se sujetará a la legislación vigente en el Estado en materia de adquisiciones, arrendamientos y prestación de servicios, así como, en materia de obras públicas, siempre que les resulte aplicable.
 
 Las entidades públicas podrán optar por celebrar los contratos citados a través de invitación a cuando menos tres personas o mediante adjudicación directa, en adición a los supuestos previstos en la legislación referida en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2021)</small>
+
+La Secretaría de Inversión Pública Productiva contratará la realización de los análisis a que se refiere este artículo, por cuenta de las entidades estatales.
 
 #### SECCIÓN TERCERA. DE LAS PROPUESTAS NO SOLICITADAS
 
@@ -803,9 +905,11 @@ La viabilidad del proyecto presentado mediante una propuesta no solicitada, debe
 
 De la aclaración o información adicional de las propuestas no solicitadas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2021)</small>
+
 ###### Artículo 58.
 
-Durante el plazo de análisis de las propuestas no solicitadas, se podrá requerir por escrito al promotor de las mismas, aclaraciones, información adicional, o realizar análisis complementarios, por parte de la Secretaría de Infraestructura, de la Secretaría, del Comité de Proyectos, del Comité Municipal de Proyectos o de la entidad pública, estableciendo el plazo en que deberá atender el requerimiento respectivo considerando los límites establecidos en el artículo 54 de esta Ley.
+Durante el plazo de análisis de las propuestas no solicitadas, se podrá requerir por escrito al promotor de las mismas, aclaraciones, información adicional, o realizar análisis complementarios, por parte de la Secretaría de Inversión Pública Productiva, de la Secretaría, del Comité de Proyectos, del Comité Municipal de Proyectos o de la entidad pública, estableciendo el plazo en que deberá atender el requerimiento respectivo considerando los límites establecidos en el artículo 54 de esta Ley.
 
 Cualquiera de las secretarías, comités o entidades, a que se refiere el párrafo anterior, podrá autorizar la contratación con terceros para la evaluación de los análisis que sustenten la propuesta no solicitada o la realización de análisis, estudios, trabajos o servicios complementarios que se requieran para llevar a cabo el procedimiento de adjudicación que corresponda.
 
@@ -887,9 +991,11 @@ La presentación de una propuesta no solicitada, tiene naturaleza de una declara
 
 De la validación de los proyectos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2021)</small>
+
 ###### Artículo 67.
 
-La entidad pública que corresponda, deberá remitir el expediente integrado que contenga los análisis a que se refiere el artículo 46 de esta Ley a la Secretaría de Infraestructura, a la Secretaría y, en su caso, al COPLADEC, conforme a lo señalado en el artículo 47 de esta Ley.
+La Secretaría de Inversión Pública Productiva, deberá remitir el expediente integrado que contenga los análisis a que se refiere el artículo 46 de esta Ley a la Secretaría de Infraestructura, a la Secretaría y, en su caso, al COPLADEC, conforme a lo señalado en el artículo 47 BIS de esta Ley.
 
 La Secretaría de Infraestructura, atendiendo a los lineamientos técnicos, y la Secretaría, atendiendo a los lineamientos financieros, contarán con quince días hábiles, contados a partir de la recepción del expediente, para validarlo o en su caso dar observaciones a la entidad pública correspondiente respecto de la debida integración del mismo conforme a los análisis respectivos.
 
@@ -913,9 +1019,11 @@ Una vez que la Secretaría de Infraestructura y la Secretaría hayan validado la
 
 Del dictamen de viabilidad del Comité de Proyectos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2021)</small>
+
 ###### Artículo 70.
 
-La entidad pública, conforme al procedimiento señalado en el Reglamento, remitirá el resumen ejecutivo del proyecto, a que se refiere el artículo 47 fracción III, al Comité de Proyectos a través de su Secretario Técnico para su análisis y, en su caso, emisión del dictamen de viabilidad.
+La Secretaría de Inversión Pública Productiva, conforme al procedimiento señalado en el Reglamento, remitirá el resumen ejecutivo del proyecto, a que se refiere el artículo 47 BIS, fracción III, al Comité de Proyectos a través de su Secretario Técnico para su análisis y, en su caso, emisión del dictamen de viabilidad.
 
 El Comité de Proyectos contará con quince días hábiles para la emisión del dictamen de viabilidad respectivo, el cual se podrá auxiliar de las entidades y personas a las cuales les haya solicitado su opinión de conformidad a esta Ley.
 
@@ -929,13 +1037,17 @@ Del procedimiento de las entidades municipales
 
 Las entidades municipales para la validación del proyecto deberán realizar lo siguiente:
 
-I. Una vez que la entidad municipal que corresponda cuente con autorización de dos terceras partes de los miembros del ayuntamiento respectivo, deberá remitir el expediente integrado del proyecto a que se refiere el artículo 47 de esta Ley, a la Tesorería Municipal y a la autoridad equivalente a la Secretaría de Infraestructura a nivel municipal, para su validación;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
+
+I. Una vez que la entidad municipal que corresponda cuente con autorización de dos terceras partes de los miembros del ayuntamiento respectivo, deberá remitir el expediente integrado del proyecto a que se refiere el artículo 47 BIS de esta Ley, a la Tesorería Municipal y a la autoridad equivalente a la Secretaría de Infraestructura a nivel municipal, para su validación;
 
 II. La Tesorería Municipal y la autoridad equivalente a la Secretaría de Infraestructura a nivel municipal, contarán con quince días hábiles, contados a partir de la recepción del expediente, para validarlo conforme a los lineamientos técnicos y financieros y respecto a su consistencia con el Plan Municipal que corresponda y los programas que de éste emanen, o en su caso dar observaciones a la entidad municipal.
 
 Las autoridades señaladas en la presente fracción podrán solicitar la información que considere conveniente a la entidad municipal en cuestión, así como la opinión de otras entidades municipales o comités municipales de planeación conforme a lo que establezca la legislación aplicable;
 
-III. Una vez validado el expediente conforme a la fracción II anterior, la entidad municipal enviará el resumen ejecutivo a que se refiere el artículo 47 fracción III de esta Ley, al Secretario Técnico del Comité Municipal de Proyectos para que, en su caso, éste emita el dictamen de viabilidad.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2021)</small>
+
+III. Una vez validado el expediente conforme a la fracción II anterior, la entidad municipal enviará el resumen ejecutivo a que se refiere el artículo 47 BIS fracción III de esta Ley, al Secretario Técnico del Comité Municipal de Proyectos para que, en su caso, éste emita el dictamen de viabilidad.
 
 El Comité Municipal de Proyectos podrá solicitar la información que considere conveniente a la entidad municipal previo a la emisión del dictamen de viabilidad; y
 
@@ -951,11 +1063,15 @@ El Reglamento de esta Ley señalará los elementos a considerar para la emisión
 
 Del registro de proyectos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2021)</small>
+
 ###### Artículo 73.
 
-La entidad pública interesada en llevar a cabo un proyecto remitirá el expediente respectivo a la Secretaría de Infraestructura para la integración del registro de cartera de proyectos, conforme al siguiente proceso:
+La entidad pública interesada en llevar a cabo un proyecto remitirá el expediente respectivo a la Secretaría de Inversión Pública Productiva para la integración del registro de cartera de proyectos, conforme al siguiente proceso:
 
-I. Para dar inicio al registro de proyectos, la entidad pública deberá solicitar el registro, en etapa de estudio, ante la Secretaría de Infraestructura el mismo día en que remita el expediente integrado a las autoridades que correspondan según lo señalado en el artículo 47 de esta Ley;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
+
+I. Para dar inicio al registro de proyectos, la entidad pública deberá solicitar el registro, en etapa de estudio, ante la Secretaría de Inversión Pública Productiva el mismo día en que remita el expediente integrado a las autoridades que correspondan según lo señalado en el artículo 47 BIS de esta Ley;
 
 II. La entidad pública deberá solicitar la actualización del registro en etapa de estudio y presentar el dictamen de viabilidad emitido por el Comité de Proyectos o el Comité Municipal de Proyectos según corresponda, dentro de los diez días hábiles siguientes a la fecha en que le fue notificado el dictamen de viabilidad por parte del Comité de Proyectos o del Comité Municipal de Proyectos, o dentro de los diez días hábiles siguientes a la fecha en que la misma entidad pública emitió tal dictamen;
 
@@ -967,7 +1083,9 @@ V. Adjudicado el proyecto, la entidad pública solicitará dentro de los diez d�
 
 VI. La entidad pública deberá solicitar la actualización del registro cada vez que se celebre una modificación al contrato, así como respecto de las penas, sanciones o multas que se hayan impuesto al desarrollador, dentro de los diez días hábiles siguientes a la realización o ejecución de los mismos.
 
-La Secretaría de Infraestructura, o la Tesorería Municipal para el caso que se indica en el artículo 74, verificarán la información correspondiente y autorizarán, en su caso, la integración del registro de cartera de proyectos de asociación público privada del Estado de Coahuila de Zaragoza y en el registro municipal, según corresponda.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2021)</small>
+
+La Secretaría de Inversión Pública Productiva, o la Tesorería Municipal para el caso que se indica en el artículo 74, verificarán la información correspondiente y autorizarán, en su caso, la integración del registro de cartera de proyectos de asociación público privada del Estado de Coahuila de Zaragoza y en el registro municipal, según corresponda.
 
 Del registro de proyectos a nivel municipal
 
@@ -991,9 +1109,11 @@ Dentro de esta clasificación deberán identificarse los proyectos que correspon
 
 De la publicación del registro de cartera de proyectos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2021)</small>
+
 ###### Artículo 76.
 
-La Secretaría de Infraestructura y la Tesorería Municipal abrirán en su portal de internet una sección relativa a los proyectos que integran el registro de la cartera de proyectos de asociación público privada, donde publicarán de manera sistemática, conforme al proceso señalado en el artículo 73, la información siguiente:
+La Secretaría de Inversión Pública Productiva y la Tesorería Municipal abrirán en su portal de internet una sección relativa a los proyectos que integran el registro de la cartera de proyectos de asociación público privada, donde publicarán de manera sistemática, conforme al proceso señalado en el artículo 73, la información siguiente:
 
 I. Nombre del proyecto;
 
@@ -1015,7 +1135,9 @@ IX. Resultado de la evaluación de conveniencia a que se refiere la fracción XI
 
 X. La información consolidada relativa a las obligaciones y obligaciones contingentes cuantificables, y las garantías otorgadas; y
 
-XI. Cualquier otra información que la Secretaría de Infraestructura o la Tesorería Municipal considere relevante.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
+
+XI. Cualquier otra información que la Secretaría de Inversión Pública Productiva o la Tesorería Municipal considere relevante.
 
 La información a que se refiere este artículo será de carácter público, a excepción de aquélla de naturaleza reservada o confidencial, en términos de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
@@ -1102,6 +1224,10 @@ De la encargada de la realización de los documentos base del procedimiento
 La entidad pública interesada en llevar a cabo el proyecto será la encargada de elaborar las bases del procedimiento de adjudicación, así como los documentos que forman parte de éstas según se indica en el artículo 125 de esta Ley.
 
 La entidad pública a que se refiere el párrafo anterior elaborará los documentos ahí referidos siempre que cuente con la autorización del proyecto emitida por el Congreso en términos del artículo 83, para su posterior remisión y, en su caso validación, al Comité de Proyectos, al Comité Municipal de Proyectos, o al comité, entidad o autoridad competente, según corresponda.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2021)</small>
+
+La Secretaría de Inversión Pública Productiva, llevará a cabo las funciones a que se refiere el párrafo anterior por cuenta de las entidades estatales.
 
 De la validación de los documentos base del procedimiento
 
@@ -1405,11 +1531,13 @@ En casos de urgencia o en los que se ponga en riesgo la seguridad de los usuario
 
 #### SECCIÓN PRIMERA. DE LAS GENERALIDADES DE LA ADJUDICACIÓN DE LOS PROYECTOS
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2021)</small>
+
 De la encargada del procedimiento de adjudicación
 
 ###### Artículo 111.
 
-La entidad pública interesada en llevar a cabo un proyecto será la facultada para dar inicio al procedimiento de adjudicación que corresponda, quien será la convocante, siempre que cuente con la autorización del modelo de contrato y documentos del procedimiento de adjudicación conforme a lo establecido en los artículos 85 y 86 de esta Ley.
+La Secretaría de Inversión Pública Productiva y las demás entidades públicas interesadas en llevar a cabo proyectos materia de esta Ley, estarán facultadas para dar inicio al procedimiento de adjudicación que corresponda, quienes serán la convocante, siempre que cuente con la autorización del modelo de contrato y documentos del procedimiento de adjudicación conforme a lo establecido en los artículos 85 y 86 de esta Ley.
 
 De los tipos de procedimiento de adjudicación
 
@@ -1483,11 +1611,13 @@ A todos los actos del procedimiento de adjudicación, la convocante podrá invit
 
 #### SECCIÓN SEGUNDA. DEL CONCURSO
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2021)</small>
+
 De las características del concurso
 
 ###### Artículo 119.
 
-Salvo por las excepciones a que se refiere la sección tercera de este capítulo, la entidad pública interesada en llevar a cabo el proyecto convocará a un procedimiento de adjudicación a través de concurso con el fin de adjudicar el proyecto en las mejores condiciones, considerando precio, calidad, financiamiento, oportunidad y demás elementos aplicables. Se podrá conducir cualquier procedimiento de adjudicación con el auxilio de consultores especializados en las materias que requiera.
+Salvo por las excepciones a que se refiere la sección tercera de este capítulo, las entidades públicas y la Secretaría de Inversión Pública Productiva interesadas en llevar a cabo el proyecto convocarán a un procedimiento de adjudicación a través de concurso con el fin de adjudicar el proyecto en las mejores condiciones, considerando precio, calidad, financiamiento, oportunidad y demás elementos aplicables. Se podrá conducir cualquier procedimiento de adjudicación con el auxilio de consultores especializados en las materias que requiera.
 
 De la clasificación del concurso
 
@@ -2071,17 +2201,21 @@ Del resguardo de la información del proyecto
 
 Las entidades públicas conservarán en forma ordenada y sistemática toda la documentación e información electrónica, comprobatoria de los actos y contratos materia del presente ordenamiento, cuando menos por un lapso de cinco años, contados a partir de la fecha de terminación del contrato; excepto la documentación contable, en cuyo caso se estará a lo previsto por las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2021)</small>
+
 De la integración de información en el registro de cartera de proyectos
 
 ###### Artículo 176.
 
-Las entidades públicas deberán remitir a la Secretaría de Infraestructura, la información del contrato que suscriban la convocante y el desarrollador, copia de cada contrato celebrado, sus anexos y convenios modificatorios.
+Las entidades públicas deberán remitir a la Secretaría de Inversión Pública Productiva, la información del contrato que suscriban la convocante y el desarrollador, copia de cada contrato celebrado, sus anexos y convenios modificatorios.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2021)</small>
 
 De la publicación del registro
 
 ###### Artículo 177.
 
-La Secretaría de Infraestructura coordinará y publicará el registro a que se refieren los artículos 75 y 76 para efectos estadísticos con la información relativa a los proyectos.
+La Secretaría de Inversión Pública Productiva coordinará y publicará el registro a que se refieren los artículos 75 y 76 para efectos estadísticos con la información relativa a los proyectos.
 
 #### SECCIÓN CUARTA. DEL SEGUIMIENTO PRESUPUESTAL
 
@@ -2346,3 +2480,25 @@ EL SECRETARIO DE GOBIERNO
 ING. JOSÉ MARÍA FRAUSTRO SILLER
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 36.- SE REFORMAN LAS FRACCIONES XIV Y XV, DEL ARTÍCULO 18; Y SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 18 Y EL ARTÍCULO 33 QUÁTER; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 2; EL ARTÍCULO 3; LAS FRACCIONES XLI Y XLII DEL ARTÍCULO 6; EL ARTÍCULO 10; LAS FRACCIONES I Y VIII DEL ARTÍCULO 11; EL SEGUNDO Y TERCER PÁRRAFO DE LA FRACCIÓN IV, DEL ARTÍCULO 13; LA FRACCIÓN IV DEL ARTÍCULO 14; LA FRACCIÓN I, V Y VI DEL ARTÍCULO 21; EL PRIMER PÁRRAFO DEL ARTÍCULO 45; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 46; EL ARTÍCULO 47; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 48; EL ARTÍCULO 49; EL PRIMER PÁRRAFO DEL ARTÍCULO 58; EL PRIMER PÁRRAFO DEL ARTÍCULO 67; EL PRIMER PÁRRAFO DEL ARTÍCULO 70; LAS FRACCIONES I Y III DEL ARTÍCULO 71; EL PRIMER PÁRRAFO, LA FRACCIÓN I Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 73; EL PRIMER PÁRRAFO Y LA FRACCIÓN XI DEL ARTÍCULO 76; EL ARTÍCULO 111; EL ARTÍCULO 119; EL ARTÍCULO 176; EL ARTÍCULO 177; SE ADICIONA LA FRACCIÓN XLIII DEL ARTÍCULO 6; EL ARTÍCULO 6 BIS; UN SEGUNDO Y UN TERCER PÁRRAFO AL ARTÍCULO 11; EL ARTÍCULO 14 BIS; UNA FRACCIÓN VII AL ARTÍCULO 21; EL ARTÍCULO 47 BIS; UN CUARTO PÁRRAFO DEL ARTÍCULO 50; Y UN TERCER PÁRRAFO DEL ARTÍCULO 85, DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En un plazo no mayor a ciento veinte días, contado a partir de la entrada en vigor de este decreto, se deberá efectuar la armonización de la legislación estatal correspondiente.
+
+TERCERO.- El reglamento interior de la Secretaría de Inversión Pública Productiva se deberá expedir dentro de los noventa días siguientes al nombramiento de su titular.
+
+CUARTO.- En un plazo no mayor a sesenta días, contado a partir de la entrada en vigor del presente decreto, se deberá efectuar la armonización del Reglamento de la Ley de Asociaciones Público Privadas para el Estado de Coahuila de Zaragoza, los Lineamientos Técnicos de aplicación para proyectos de Asociación Público Privada del Estado de Coahuila de Zaragoza, los Lineamientos Financieros de aplicación para proyectos de Asociación Público Privada del Estado de Coahuila de Zaragoza, así como las demás disposiciones administrativas.
+
+QUINTO.- La Secretaría de Finanzas, en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+SEXTO.- Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO.- Los procedimientos ya iniciados conforme a las disposiciones vigentes hasta antes de la entrada en vigor del presente decreto, continuarán regulándose bajo dichas disposiciones, esto, hasta el momento en que se emita el dictamen de viabilidad por parte del Comité de Proyectos o Comité Municipal de Proyectos, según corresponda y; posteriormente deberán ajustarse a lo establecido en el presente Decreto.
+
+OCTAVO.- A partir de la entrada en vigor del presente Decreto, en lo que respecta a las disposiciones legales, reglamentarias y administrativas en materia de asociaciones público privadas, en cualquier mención hecha a la Secretaría de Infraestructura, deberá entenderse referida a la Secretaría de Inversión Pública Productiva, conforme a las atribuciones que a esta se le confieren en el presente decreto.
