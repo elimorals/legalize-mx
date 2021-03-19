@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-turismo-del-estado-de-baja-california-68149"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2018-11-30"
+last_updated: "2021-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2021.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de abril de 2009.
 
@@ -909,9 +909,17 @@ XVIII.- Contar con un formato de prestación de servicios que contenga obligacio
 
 XIX.- Proporcionar la información, para efectos estadísticos, en el momento que le sea requerida por la Secretaría, o en los plazos y términos que la misma establezca;
 
-XX.- Cumplir con las demás disposiciones derivadas de esta Ley y su Reglamento; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
 
-XXI.- En la construcción de su infraestructura así como en el desarrollo de sus actividades respetarán la capacidad de carga de los ecosistemas, la flora y la fauna silvestre. Asimismo, deberán observar las normas de construcción, los planes de ordenamiento ecológico y los planes de desarrollo urbano. Por último, los prestadores de servicios turísticos, en los proyectos que promuevan, deberán ser congruentes con las aptitudes físicas de las áreas donde se pretenda desarrollar la actividad turística.
+XX.- Cumplir con las demás disposiciones derivadas de esta Ley y su Reglamento;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2021)</small>
+
+XXI.- En la construcción de su infraestructura así como en el desarrollo de sus actividades respetarán la capacidad de carga de los ecosistemas, la flora y la fauna silvestre. Asimismo, deberán observar las normas de construcción, los planes de ordenamiento ecológico y los planes de desarrollo urbano. Por último, los prestadores de servicios turísticos, en los proyectos que promuevan, deberán ser congruentes con las aptitudes físicas de las áreas donde se pretenda desarrollar la actividad turística, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MARZO DE 2021)</small>
+
+XXII.- Durante las emergencias sanitarias decretadas por la autoridad correspondiente, acatar las indicaciones emitidas por la Secretaria de Salud, y, dar aviso a la misma sobre la presencia de personas con síntomas propios de la enfermedad infecto contagiosa.
 
 #### SECCIÓN TERCERA. DE LOS DERECHOS DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
@@ -1334,3 +1342,9 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 19 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 202 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 65 A LA LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
