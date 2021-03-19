@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cooperativo-para-la-ciudad-de-mexico-antes-47952
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-20"
-last_updated: "2007-02-06"
+last_updated: "2021-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47952&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2006-01-06"
 ---
 # LEY DE FOMENTO COOPERATIVO PARA LA CIUDAD DE MEXICO -- ANTES LEY DE FOMENTO COOPERATIVO PARA EL DISTRITO FEDERAL --
 
-LEY DE FOMENTO COOPERATIVO PARA EL DISTRITO FEDERAL
+LEY DE FOMENTO COOPERATIVO PARA LA CIUDAD DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE MARZO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de enero de 2006.
 
@@ -44,35 +44,53 @@ III LEGISLATURA.
 
 D E C R E T A
 
-DECRETO QUE CREA LA LEY DE FOMENTO COOPERATIVO PARA EL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE MRZO DE 2021)</small>
+
+DECRETO QUE CREA LA LEY DE FOMENTO COOPERATIVO PARA LA CIUDAD DE MÉXICO
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
+
 ###### Artículo 1.
 
-Objeto de la Ley
+La presente Ley es de orden público, interés social y de observancia general en la Ciudad de México.
 
-La presente Ley es de orden público e interés social y tiene por objeto el establecimiento, la regulación y la coordinación de políticas, programas y acciones de fomento cooperativo para el desarrollo económico del Distrito Federal, sin perjuicio de los programas, estímulos y acciones que a nivel federal se establezcan para el mismo fin.
+Tiene por objeto el establecimiento, la regulación y la coordinación de políticas, programas y acciones de fomento cooperativo para el desarrollo económico, sin perjuicio de los programas, estímulos y acciones que a nivel federal se establezcan para el mismo fin
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 2.
 
-Definición del fomento cooperativo
+Definición del fomento cooperativo.
 
-Para los efectos de la presente Ley, se entiende como fomento cooperativo el conjunto de normas jurídicas y acciones del Gobierno del Distrito Federal, para la organización, expansión y desarrollo del sector y movimiento cooperativo y que deberá orientarse conforme a los siguientes fines:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE MARZO DE 2021)</small>
+
+Para los efectos de la presente Ley, se entiende como fomento cooperativo el conjunto de normas jurídicas y acciones del Gobierno de la Ciudad de México, para la difusión, promoción, organización, expansión y desarrollo del sector y movimiento cooperativo y que deberá orientarse conforme a los siguientes fines:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 19 DE MARZO DE 2021)</small>
 
 I. Apoyo a la organización, constitución, registro, desarrollo e integración de las propias Sociedades Cooperativas y a la organización social del trabajo, como medios de generación de empleos y redistribución del ingreso;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 19 DE MARZO DE 2021)</small>
+
 II. Promoción de la economía cooperativista en la producción, distribución y comercialización de los bienes y servicios que generan y que son socialmente necesarios;
 
-III. Otorgamiento de mecanismos que aseguren la igualdad entre sectores y clases sociales, por lo que se prohíbe solicitar a los organismos del sector social mayores requisitos que los exigidos a otras entidades económicas para el concurso u otorgamiento de créditos o cualquier otro contrato con cualquier organismo de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
 
-IV. El Gobierno del Distrito Federal procurará proveerse de los bienes y servicios que produzcan las sociedades cooperativas, siempre y cuando cumplan con lo dispuesto en la Ley de Adquisiciones del Distrito Federal;
+III. Otorgamiento de mecanismos que aseguren la igualdad entre sectores y clases sociales, por lo que se prohíbe solicitar a los organismos del sector social mayores requisitos que los exigidos a otras entidades económicas para el concurso u otorgamiento de créditos o cualquier otro contrato con cualquier organismo de la Administración Pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
+
+IV. El Gobierno de la Ciudad de México procurará proveerse de los bienes y servicios que produzcan las sociedades cooperativas, siempre y cuando cumplan con lo dispuesto en la normatividad en materia de Adquisiciones vigente en la Ciudad de México.
 
 V. Acceso a estímulos e incentivos para la integración de las Sociedades Cooperativas, entre otras acciones, mediante apoyos fiscales y de simplificación administrativa;
 
 VI. Fortalecer entre la población la comercialización, consumo y disfrute de los bienes y servicios producidos por las cooperativas;
 
-VII. Participación del sector cooperativo en el sistema de planeación democrática y en los Consejos de Fomento Económico y Social y demás que establezcan las Leyes del Distrito Federal;
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
+
+VII. Participación del sector cooperativo en el sistema de planeación democrática y en los Consejos de Fomento Económico y Social y demás que establezcan las Leyes vigentes en la Ciudad de México;
 
 VIII. Impulsar la educación, capacitación y en general la cultura cooperativa y la participación de la población en la promoción, divulgación y financiamiento de proyectos cooperativos, de tal manera que se impulse la cultura del ahorro, mediante cajas populares y las cooperativas de ahorro y préstamo;
 
@@ -82,11 +100,19 @@ X. Difusión de la cultura cooperativista, basada en la organización social, au
 
 XI. Apoyar a las Sociedades Cooperativas con planes y programas de financiamiento para proyectos productivos; y,
 
-XII. Los demás que establezcan las Leyes.
+> <small>(ADICIONADA, G.O. 19 DE MARZO DE 2021)</small>
+
+XII. Las autoridades impulsarán la constitución y funcionamiento de sociedades cooperativas, que contribuyan al desarrollo económico de la Ciudad y el mejoramiento de las condiciones de vida de sus habitantes; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 19 DE MARZO DE 2021)</small>
+
+XIII. Los demás que establezcan las Leyes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 3.
 
-Definiciones
+Definiciones para los efectos de esta Ley, se entenderá por:
 
 Para los efectos de esta Ley, se entenderá por:
 
@@ -94,7 +120,9 @@ I. Sociedad Cooperativa: a la forma de organización social integrada por person
 
 II. Empleo: derecho humano consagrado por la Constitución federal, de dedicarse libremente a la profesión, industria, comercio o trabajo socialmente útil y de forma remunerada;
 
-III. Movimiento cooperativo: todas las organizaciones e instituciones de asistencia técnica del cooperativismo registradas de conformidad con las leyes del Distrito Federal;
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
+
+III. Movimiento cooperativo: todas las organizaciones e instituciones de asistencia técnica del cooperativismo registradas de conformidad con las leyes de la Ciudad de México;
 
 IV. Sistema cooperativo: estructura económica y social que integran las Sociedades Cooperativas y sus organismos;
 
@@ -120,161 +148,203 @@ IV. Son actos accesorios o conexos aquellos que se deriven de otros actos cooper
 
 La constitución, organización y capacidad jurídica de las sociedades cooperativas se rigen por las disposiciones de la legislación federal aplicable.
 
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
+
 ###### Artículo 5.
 
-Acciones de Gobierno
+Acciones de Gobierno.
 
 Las acciones de gobierno en materia de fomento cooperativo se orientarán por los siguientes principios:
 
-I. Respeto a los derechos humanos laborales, al empleo, la libertad de profesión e industria y a la organización social para el trabajo, como una de las bases de la existencia, convivencia y bienestar de la sociedad;
+I. Fomento de la educación cooperativa y de la educación en la economía solidaria;
 
-II. Respeto a la adhesión voluntaria y abierta al sector cooperativo sin discriminaciones, atendiendo a la composición pluricultural de sectores, géneros, manifestaciones y valores de los individuos y grupos sociales que componen la población del Distrito Federal;
+II. Respeto a los derechos humanos laborales, al empleo, la libertad de profesión e industria y a la organización social para el trabajo, como una de las bases de la existencia, convivencia y bienestar de la sociedad;
 
-III. Respeto a la autonomía y gestión democrática en las cooperativas, a la integración y solidaridad entre éstas y su interés y servicio social por la comunidad;
+III. Respeto a la adhesión voluntaria y abierta al sector cooperativo sin discriminaciones, atendiendo a la composición pluricultural de sectores, géneros, manifestaciones y valores de los individuos y grupos sociales que componen la población de la Ciudad de México;
 
-IV. Protección, conservación, consolidación y uso racional del patrimonio social del sistema cooperativo por parte de las autoridades del Gobierno;
+IV. Respeto a la autonomía y gestión democrática en las sociedades cooperativas, a la integración y solidaridad entre éstas y su interés y servicio social por la comunidad;
 
-V. Organización social para el trabajo mediante el reconocimiento de las cooperativas como organismos de utilidad pública para el bienestar común y sujetas al fin social que establecen nuestras leyes;
+V. Respeto al derecho individual de los integrantes de las sociedades cooperativas a pertenecer a cualquier partido político o asociación religiosa;
 
-VI. Simplificación, agilidad, información, precisión, legalidad, transparencia e imparcialidad en los actos y procedimientos administrativos; y
+VI. Promover y facilitar la localización y el establecimiento de sociedades cooperativas y su participación en proyectos de reciclamiento del suelo;
 
-VII. Otorgar estímulos fiscales y apoyo económico en los términos que establezca esta Ley, las autoridades y el Código Financiero del Distrito Federal.
+VII. Protección, conservación, consolidación y uso racional del patrimonio social del sistema cooperativo por parte de las autoridades del Gobierno;
+
+VIII. Organización social para el trabajo mediante el reconocimiento de las sociedades cooperativas como organismos de utilidad pública para el bienestar común y sujetas al fin social que establecen nuestras leyes;
+
+IX. Simplificación, agilidad, información, precisión, legalidad, transparencia e imparcialidad en los actos y procedimientos administrativos; y
+
+X. Otorgar estímulos fiscales y apoyo económico en los términos que establezca esta Ley, las autoridades y el Código Fiscal de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 6.
 
-Interpretación
+Interpretación.
 
-Todo acto de interpretación de las disposiciones de la presente Ley, deberá atender a las garantías sociales establecidas en la Constitución Política de los Estados Unidos Mexicanos.
+Todo acto de interpretación de las disposiciones de la presente Ley, deberá atender a las garantías sociales y los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política de la Ciudad de México.
 
-Son supletorias de la presente Ley, en materia administrativa, las disposiciones de la legislación local del Distrito Federal y en materia cooperativa, las de carácter federal vigentes.
+Son supletorias de la presente Ley, en materia administrativa, las disposiciones de la legislación local de la Ciudad de México y en materia cooperativa, las de carácter federal vigentes.
 
-### CAPITULO SEGUNDO. De las Autoridades en Materia de Fomento Cooperativo del Distrito Federal
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
+### CAPITULO SEGUNDO. De las Autoridades en Materia de Fomento Cooperativo de la Ciudad de México
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 7.
 
-Autoridades competentes
+Autoridades competentes.
 
-La organización y distribución de los negocios del orden administrativo en los términos de esta ley, corresponde al Jefe de Gobierno del Distrito Federal, a la Secretaría de Trabajo y Fomento al Empleo, a la Secretaría de Desarrollo Económico, a la Secretaría de Desarrollo Social, a la Secretaría de Finanzas y a los Jefes Delegacionales en la forma y términos que determinen las Leyes correspondientes.
+La organización y distribución de los negocios del orden administrativo en los términos de esta ley, corresponde a la persona titular de la Jefatura de Gobierno, a la Secretaría de Trabajo y Fomento al Empleo, a la Secretaría de Desarrollo Económico, a la Secretaría de Inclusión y Bienestar Social, a la Secretaría de Administración y Finanzas y a la persona titular de cada una de las alcaldías en la forma y términos que determinen las Leyes correspondientes.
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 8.
 
-Competencia del Jefe de Gobierno
+Corresponde a la persona titular de la Jefatura de Gobierno:
 
-Corresponde al Jefe de Gobierno del Distrito Federal:
-
-I. Aprobar el Programa General de Fomento Cooperativo del Distrito Federal;
+I. Aprobar el Programa General de Fomento Cooperativo de la Ciudad de México;
 
 II. Emitir las declaratorias de exención de contribuciones a las Sociedades Cooperativas, a excepción de las expresamente señaladas;
 
-III. Emitir la convocatoria para la constitución del Consejo Consultivo de Fomento Cooperativo del Distrito Federal, así como presidirlo;
+III. Emitir la convocatoria para la constitución del Consejo Consultivo de Fomento Cooperativo de la Ciudad de México, así como presidirlo;
 
-IV. Celebrar con las autoridades competentes los convenios para acceder al uso de los tiempos de transmisión que por ley le corresponden al Estado en radio y televisión, a fin de transmitir mensajes y programas de fomento cooperativo en el Distrito Federal; y
+IV. Celebrar con las autoridades competentes los convenios para acceder al uso de los tiempos de transmisión que por ley le corresponden al Estado en radio y televisión, a fin de transmitir mensajes y programas de fomento cooperativo en la Ciudad de México;
 
-V. Suscribir con las instancias de gobierno federal o estatal y con instituciones públicas y privadas del país o del extranjero, los convenios necesarios para lograr los fines de la presente Ley.
+V. Suscribir con las instancias del Gobierno Federal o Estatal y con instituciones públicas y privadas del país o del extranjero, los convenios necesarios para lograr los fines de la presente Ley; y
+
+VI. Autorización de estímulos fiscales para la integración de las Sociedades Cooperativas.
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 9.
 
-Atribuciones específicas
+Atribuciones específicas.
 
 Corresponde a las siguientes Secretarías, sin perjuicio de lo dispuesto en otros ordenamientos, lo siguiente:
 
-> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
+A) A la Secretaría de Trabajo y Fomento al Empleo:
 
-A) A la Secretaría de Trabajo y Fomento al Empleo;
+I. Formular, difundir y ejecutar las políticas y programas de fomento cooperativo en la Ciudad de México;
 
-I. Formular, difundir y ejecutar las políticas y programas de fomento cooperativo en el Distrito Federal;
+II. Impulsar las actividades de fomento cooperativo en la Ciudad de México y proporcionar, por si o a través de personas bajo su revisión, físicas o morales, asesoría, capacitación y adiestramiento para la constitución, consolidación, administración y desarrollo de la (sic) Sociedades Cooperativas, así como para la producción, comercialización y consumo de los bienes y servicios necesarios para los actos que establece el artículo 4° de esta Ley;
 
-II. Impulsar las actividades de fomento cooperativo en el Distrito Federal y proporcionar, por sí o a través de personas bajo su revisión, físicas o morales, asesoría, capacitación y adiestramiento para la constitución, consolidación, administración y desarrollo de las Sociedades Cooperativas, así como para la producción, comercialización y consumo de los bienes y servicios necesarios para los actos que establece el artículo 4° de esta Ley; y
+III. Coordinar acciones de apoyo para el fortalecimiento del sistema, sector y movimiento cooperativo de la Ciudad de México; y
 
-III. Coordinar acciones de apoyo para el fortalecimiento del sistema, sector y movimiento cooperativo del Distrito Federal.
+IV. Garantizar el respeto por la organización social para el trabajo y hacer efectiva la participación de la población en la economía.
 
-B) A la Secretaría de Desarrollo Social:
+B) A la Secretaría de Inclusión y Bienestar Social de la Ciudad de México:
 
-I. Procurar la expansión del sector cooperativo para que éste pueda responder a las necesidades de la sociedad;
+I. Procurar la expansión del sector cooperativo para que este pueda responder a las necesidades de la sociedad;
 
 II. Establecer programas de desarrollo social, a través de los cuales se puedan potenciar las actividades de las sociedades cooperativas en el ámbito territorial donde actúan para, de ser posible, generar polos regionales de desarrollo;
 
 III. Promover la transformación de actividades marginales de la economía informal hacia grupos productivos organizados;
 
+IV. Consolidar las políticas públicas en la materia; y
+
+V. Acrecentar la conciencia y modelo cooperativo, como una opción viable de desarrollo económico y social para los habitantes.
+
 C) A la Secretaría de Desarrollo Económico:
 
-I. Ejecutar los apoyos económicos que el Gobierno del Distrito Federal otorgue a las empresas sociales, a las micro empresas y a los sectores empresariales, así como los financiamientos y prerrogativas a través del Fondo de Desarrollo Social;
+I. Ejecutar los apoyos económicos que el Gobierno de la Ciudad de México otorgue a las empresas sociales, a las micro empresas y a los sectores empresariales, así como los financiamientos y prerrogativas, a través del Fondo de Desarrollo Social;
 
 II. Apoyar servicios de investigación y asesoría en materia de gestión cooperativa, administrativa y tecnológica;
 
-III. Promover el financiamiento ante las instancias públicas y privadas correspondientes para la producción, comercialización e inversión.
+III. Promover el financiamiento ante las instancias públicas y privadas correspondientes para la producción, comercialización e inversión; y
 
-D) A la Secretaría de Finanzas:
+IV. Impulsar la cultura del ahorro, mediante las sociedades cooperativas de ahorro y préstamo en términos de lo dispuesto en la Ley para regular las actividades de las Sociedades Cooperativas de Ahorro y Préstamo.
 
-I. Aplicar y ejecutar los estímulos fiscales en los términos de la presente ley, las Autoridades y el Código Financiero.
+D) A la Secretaría de Administración y Finanzas:
+
+I. Aplicar y ejecutar los estímulos fiscales en los términos de la presente Ley, las Autoridades y el Código Fiscal;
+
+II. Diseñar estímulos fiscales que (sic) para la creación de nuevas sociedades cooperativas;
+
+III. Diseñar estímulos fiscales para proyectos de actualización, educación capacitación en favor de las sociedades cooperativas; y
+
+IV. Evaluar y diseñar nuevos estímulos fiscales que se adecuan a las necesidades de las sociedades cooperativas.
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 10.
 
-Atribuciones delegacionales
-
-Corresponde a los Jefes Delegacionales, en sus respectivas demarcaciones:
+Son atribuciones de las personas titulares de las Alcaldías.
 
 I. Participar en la elaboración y ejecución de los programas de fomento cooperativo de su demarcación;
 
-II. Impulsar las actividades de fomento cooperativo, por sí y en coordinación con las dependencias del ramo;
+II. Impulsar las actividades de fomento cooperativo, por si y en coordinación con las dependencias del ramo;
 
-III. Promover la concertación, con otras instancias de Gobierno y con los sectores social y privado, para impulsar el desarrollo cooperativo en la delegación;
+III. Promover la concertación, con otras instancias de Gobierno y con los sectores social y privado, para impulsar el desarrollo cooperativo en la Alcaldía;
 
-IV. Cada Jefatura Delegacional contará con una Dirección de Fomento Cooperativo.
+IV. Cada Alcaldía contará con una Dirección o área de Fomento Cooperativo;
+
+V. Fortalecer entre la población la comercialización, consumo y disfrute de los bienes y servicios producidos por las sociedades cooperativas; y
+
+VI. Formar personas aptas para el desarrollo de las sociedades cooperativas.
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 11.
 
-Auxilio notarial
+Auxilio notarial.
 
-Todos los actos relativos a la constitución y registro de las sociedades cooperativas citados en esta Ley, estarán exentos de impuestos y derechos fiscales de carácter local, conforme a lo (sic) establezca el Código Financiero del Distrito Federal y las declaratorias que al efecto emita la autoridad competente.
+Todos los actos relativos a la constitución y registro de las sociedades cooperativas citados en esta Ley, estarán exentos de impuestos y derechos fiscales de carácter local, conforme a lo (sic) establezca el Código Fiscal de la Ciudad de México y las declaratorias que al efecto emita la autoridad competente.
 
 En las escrituras públicas, para los efectos señalados en el párrafo anterior, los notarios cobrarán el arancel reducido que al efecto se establezca.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 19 DE MARZO DE 2021)</small>
+
 ### CAPITULO TERCERO. Del Fomento Cooperativo
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 12.
 
-Acciones de fomento
+Acciones de fomento.
 
-El fomento cooperativo en el Distrito Federal comprende, entre otras acciones, las siguientes:
+El fomento cooperativo en la Ciudad de México comprende, entre otras acciones, las siguientes:
 
-I. Acciones jurídicas, administrativas y de carácter socioeconómico que tengan como fin abrir, conservar, proteger y expandir las fuentes de empleo en el sector social, procurando otorgar condiciones de factibilidad y simplificación administrativa para su apertura, desarrollo y legal funcionamiento;
+I. Acciones jurídicas, administrativas y de carácter socioeconómico que tengan como fin abrir, conservar, fomentar, proteger, y expandir las fuentes de empleo en el sector social, procurando otorgar condiciones de factibilidad y simplificación administrativa para su apertura, desarrollo y legal funcionamiento;
 
 II. Acciones de registro, investigación, análisis y estudio para el exacto conocimiento de la situación del sistema, sector y movimiento cooperativo para mejorar, planear y consolidar las políticas públicas en la materia;
 
-III. Acciones de difusión del cooperativismo, para acrecentar la conciencia y modelo cooperativo, como una opción viable de desarrollo económico y social para los habitantes del Distrito Federal;
+III. Acciones de fomento y difusión del cooperativismo, para acrecentar la conciencia y modelo cooperativo, como una opción viable de desarrollo económico y social para los habitantes de la Ciudad de México;
 
 IV. Acciones de capacitación y adiestramiento para la formación de personas aptas para desarrollar empresas sociales;
 
-> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2007)</small>
-
-V. Acciones de apoyo diverso para la organización, la protección y el impulso de los modos tradicionales solidarios de producción colectiva, de las culturas indígenas, populares y de las demás comunidades rurales, originarias y residentes en el Distrito Federal;
+V. Acciones de apoyo diverso para la organización, la protección y el impulso de los modos tradicionales solidarios de producción colectiva, de las culturas de los pueblos y barrios originarios, comunidades indígenas, rurales y populares residentes en la Ciudad de México;
 
 VI. Acciones de cooperación en materia cooperativa con la federación, los estados y municipios, y con otros países u organismos internacionales públicos y privados;
 
-VII. Acciones de fomento de las empresas cooperativas de participación estatal; y,
+VII. Acciones de fomento de las empresas cooperativas de participación estatal;
 
-VIII. Los demás conceptos a los que ésta Ley y otros ordenamientos jurídicos les den ese carácter.
+VIII. Acciones que aseguren la igualdad entre sectores y las Sociedades Cooperativas en el concurso u otorgamiento de créditos o cualquier otro contrato con cualquier organismo de la Administración Pública; y
+
+IX. Los demás conceptos a los que esta Ley y otros ordenamientos jurídicos les den ese carácter.
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 13.
 
-Fomento organizativo
+Fomento organizativo.
 
-Con el fin de fomentar la organización social para el trabajo, el Gobierno del Distrito Federal promoverá:
+Con el fin de fomentar la organización social para el trabajo, el Gobierno de la Ciudad de México promoverá:
 
 I. La creación de estímulos, becas y cualquier otra clase de reconocimientos y apoyos;
 
-II. La creación de fondos para posibilitar el fomento al desarrollo de Sociedades Cooperativas y la producción cooperativa en el Distrito Federal;
+II. La creación de fondos para posibilitar el fomento al desarrollo de Sociedades Cooperativas y la producción cooperativa en la Ciudad de México; y
 
 III. La celebración de convenios con entidades públicas y los sectores social y privado.
 
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
+
 ###### Artículo 14.
 
-Fomento regional
+Fomento regional.
 
-El Gobierno del Distrito Federal fomentará las formas de empleo socialmente útiles, así como la formación de Sociedades Cooperativas de los habitantes del Distrito Federal en sus barrios, colonias, unidades habitacionales, pueblos o comunidades.
+El Gobierno de la Ciudad de México fomentará las formas de empleo socialmente útiles, así como la formación de Sociedades Cooperativas de los habitantes de la Ciudad de México en sus barrios, colonias, unidades habitacionales, pueblos o comunidades.
 
 ###### Artículo 15.
 
@@ -282,41 +352,57 @@ Valores sociales
 
 Son materia de protección y consolidación en los términos de la presente Ley, el fomento y desarrollo de Sociedades Cooperativas que tengan por objeto promover, difundir, publicar y desarrollar el conjunto de los bienes y valores de interés público señalados en este ordenamiento, en particular los relacionados con actividades de equidad de género, desarrollo sustentable, cultura indígena, jóvenes, cultura, discapacitados y adultos mayores que se produzcan.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 19 DE MARZO DE 2021)</small>
+
 ### CAPITULO CUARTO. De la Formación Cooperativa
 
-> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 16.
 
-Convenios de formación
+Convenios de formación.
 
-Las autoridades señaladas en esta Ley podrán celebrar convenios de todo tipo con instituciones autorizadas legalmente para la capacitación académica o técnica de los cooperativistas residentes en el Distrito Federal, para lo cual se preferirán en igualdad de circunstancias a las cooperativas que registren sus programas y proyectos ante la Secretaría de Trabajo y Fomento al Empleo.
+Las autoridades señaladas en esta Ley podrán celebrar convenios de todo tipo con instituciones autorizadas legalmente para la capacitación académica o técnica de los cooperativistas residentes en la Ciudad de México, para lo cual se preferirán en igualdad de circunstancias a las sociedades cooperativas que registren sus programas y proyectos ante la Secretaría de Trabajo y Fomento al Empleo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 17.
 
-Formación y capacitación
+Formación y capacitación.
 
-El Gobierno del Distrito Federal fomentará la formación y capacitación de las personas que se desempeñen como administradores, promotores o gestores de cooperativas, a fin de lograr el óptimo aprovechamiento en la coordinación del esfuerzo en común.
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
+
+El Gobierno de la Ciudad de México fomentará la formación y capacitación continua de las personas que se desempeñen como administradores, promotores o gestores de sociedades cooperativas, a fin de lograr el óptimo aprovechamiento en la coordinación del esfuerzo en común.
 
 Asimismo deberá acordar con las autoridades e instituciones educativas la inclusión en los planes de estudio los principios y valores cooperativos, así como de las actividades cooperativas.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 19 DE MARZO DE 2021)</small>
+
 ### CAPITULO QUINTO. De la Formación de la Política y de los Programas de Fomento Cooperativo
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 18.
 
-Formación de Políticas y Programas
+Formación de Políticas y Programas.
 
-En la formación de las políticas generales y los programas de fomento cooperativo, el Gobierno del Distrito Federal elaborará anualmente las acciones y programas en la materia.
+En la formación de las políticas generales y los programas de fomento cooperativo, el Gobierno de la Ciudad de México elaborará anualmente las acciones y programas en la materia.
+
+Las políticas públicas deberán estar sujetas a mecanismos de medición y evaluación en su desempeño.
+
+Se reforzarán las políticas que cuenten con rezago en su crecimiento, con el objeto de generar oportunidades de igualdad entre los distintos sectores económicos de conformidad con la Ley de Desarrollo Social vigente en la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 19.
 
 Contenido de los Programas
 
-Los programas de fomento cooperativo de carácter general, sectorial y por delegación a los que se refiere la presente Ley, deberán contener y precisar:
+Los programas de fomento cooperativo de carácter general, sectorial y por Alcaldía a los que se refiere la presente Ley, deberán contener y precisar:
 
 I. Antecedentes, marco y justificación legal;
 
-II. Análisis y diagnóstico de la situación económica y social de la región, sector o delegación correspondiente;
+II. Análisis y diagnóstico de la situación económica y social de la región, sector o demarcación territorial correspondiente;
 
 III. Objetivos generales y específicos;
 
@@ -330,53 +416,65 @@ VII. Acciones generales y actividades prioritarias;
 
 VIII. Criterios para su seguimiento y evaluación;
 
-IX. Cronograma y responsabilidades; y,
+IX. Cronograma y responsabilidades; y
 
 X. Soporte estadístico, bibliográfico, de campo u otros.
 
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
+
 ###### Artículo 20.
 
-Programación y fomento
+Programación y fomento.
 
-En la programación del fomento cooperativo en el Distrito Federal se tomará en cuenta:
+En la programación del fomento cooperativo para la Ciudad de México se tomará en cuenta:
 
-I. La diversidad económica y cultural de los habitantes del Distrito Federal;
+I. La diversidad económica y cultural de los habitantes de la Ciudad de México;
 
-II. La equidad en la distribución geográfica de los beneficios económicos, a fin de lograr un eficiente y justo equilibrio de dichos beneficios entre la población del Distrito Federal; y
+II. La equidad en la distribución geográfica de los beneficios económicos, a fin de lograr un eficiente y justo equilibrio de dichos beneficios entre la población de la Ciudad de México; y
 
 III. Los principios a los que se refiere el artículo 3º de la presente Ley, así como la solidaridad, el esfuerzo propio y la ayuda mutua con el propósito de satisfacer necesidades individuales y colectivas a través de la realización de actividades socioeconómicas de producción, distribución y consumo de bienes y servicios.
 
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
+
 ###### Artículo 21.
 
-Se constituirá un Consejo Consultivo de Fomento Cooperativo del Distrito Federal, como órgano de consulta en la materia, mismo que presidirá el Jefe de Gobierno del Distrito Federal o la persona que éste designe.
+Se constituirá un Consejo Consultivo de Fomento Cooperativo de la Ciudad de México, como órgano de consulta en la materia, mismo que presidirá la persona titular de la Jefatura de Gobierno o la persona que ésta designe.
 
 El Reglamento de la presente Ley regulará el procedimiento de elección, así como la organización y el funcionamiento de este Consejo.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 19 DE MARZO DE 2021)</small>
+
 ### CAPITULO SEXTO. Del Financiamiento del Fomento de la Actividad Cooperativa
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 22.
 
-Financiamiento
+Financiamiento.
 
-Corresponde al Gobierno del Distrito Federal financiar el fomento cooperativo, sin perjuicio de celebrar convenios o contratos que apoyen la realización de actividades y proyectos concretos.
+Corresponde al Gobierno de la Ciudad de México financiar el fomento cooperativo, sin perjuicio de celebrar convenios o contratos que apoyen la realización de actividades y proyectos concretos.
 
 Los donativos que se reciban para el fomento de la actividad cooperativa estarán amparados por recibos oficiales y no podrán ser destinados a fines distintos de los establecidos en la presente Ley.
 
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
+
 ###### Artículo 23.
 
-Presupuestos
+Presupuestos.
 
-En los Programas Operativos Anuales y en el Presupuesto de Egresos del Distrito Federal, quedarán definidas las partidas necesarias para el fomento cooperativo de conformidad con la presente Ley, incluyendo los programas y actividades generales.
+En los Programas Operativos Anuales y en el Presupuesto de Egresos de la Ciudad de México, quedarán definidas las partidas necesarias para el fomento cooperativo de conformidad con la presente Ley, incluyendo los programas y actividades generales.
+
+> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 24.
 
-Estímulos
+Estímulos.
 
-Las sociedades cooperativas gozarán de la exención de impuestos, contribuciones y derechos a las que estén obligadas durante sus dos primeros años de existencia, sin perjuicio de las declaratorias que al respecto emita el Jefe de Gobierno, siempre que cumpla con los requisitos que se establezcan de conformidad con lo siguiente:
+Las sociedades cooperativas gozarán de la exención de impuestos, contribuciones y derechos a las que estén obligadas durante sus dos primeros años de existencia, sin perjuicio de las declaratorias que al respecto emita la persona titular de la Jefatura de Gobierno, siempre que cumpla con los requisitos que se establezcan de conformidad con lo siguiente:
 
-I. Las sociedades cooperativas de consumidores dedicadas a suministrar exclusivamente a sus socios, víveres, ropa y calzado, mientras el capital no exceda de diez mil pesos;
+I. Las sociedades cooperativas de consumidores dedicadas a suministrar exclusivamente a sus socios, víveres, ropa y calzado, mientras el capital no exceda de veinte mil pesos;
 
-II. Las sociedades cooperativas de productores, mientras el capital social no exceda de quince mil pesos y estén integradas en su totalidad por obreros o campesinos o por los dos. Para efectos del siguiente artículo no se contabilizará como parte del capital de la sociedad, el capital amortizado de los muebles, maquinaria y demás bienes necesarios para los fines económicos de la sociedad cooperativa;
+II. Las sociedades cooperativas de productores, mientras el capital social no exceda de quince mil pesos y estén integradas en su totalidad por obreros o campesinos o por los dos. Para efectos del siguiente artículo no se contabilizará como parte del capital de la sociedad, el capital amortizado de los muebles, maquinaria y demás bienes necesarios para los fines económicos de la sociedad cooperativa; y
 
 III. Las sociedades cooperativas mixtas de productores y consumidores, mientras su capital no exceda la cantidad de doce mil pesos.
 
@@ -413,3 +511,11 @@ CUARTO.- Cuando alguna Unidad Administrativa de las establecidas por las leyes a
 QUINTO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las Unidades Administrativas que los tramiten se incorporen a la Dependencia que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazo improrrogable
 
 SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de Finanzas, y de conformidad con la normatividad aplicable, dotará de recursos a las Secretarías de reciente creación, adecuando el presupuesto autorizado para las dependencias en el ejercicio 2007, mediante movimientos programáticos-presupuestarios compensados.
+
+G.O. 19 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN, SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE FOMENTO COOPERATIVO PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
