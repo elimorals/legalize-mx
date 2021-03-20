@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2020-08-29"
+last_updated: "2021-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2021.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -116,6 +116,10 @@ b) La biodiversidad, los ecosistemas naturales, el patrimonio genético y las es
 c) El Estado promoverá el derecho al uso y acceso a las ecotecnologías aplicadas que garanticen el uso de los recursos naturales de manera limpia y cuyo objetivo sea satisfacer las necesidades humanas minimizando el impacto ambiental.
 
 El daño y deterioro ambiental generará responsabilidad para quien lo provoque, en términos de lo dispuesto por la ley;
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2021)</small>
+
+El Estado generará acciones para garantizar a toda persona el goce de un medio ambiente sano y seguro, conservarlo óptimo para el desarrollo y bienestar de la población, realizando labores de protección, defensa, preservación, restauración y mejoramiento ambiental, garantizando así la calidad de vida, los derechos humanos, y los derechos de la naturaleza.
 
 X. A que se le prevenga y proteja ante la eventualidad de un riesgo o de un desastre provocado por agentes naturales y humanos, y a recibir auxilio en caso de consumarse el siniestro;
 
@@ -3820,6 +3824,14 @@ P.O. 29 DE AGOSTO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- En relación con lo dispuesto en el segundo párrafo que se adiciona al artículo 97 de la Constitución Política del Estado Libre y Soberano de Colima en el presente Decreto, resultará aplicable, en lo conducente, lo dispuesto en los Artículos Transitorios Segundo y Tercero del Decreto por el que se declara reformado el párrafo primero; el inciso c) de la fracción II y la fracción V del artículo 3o., y la fracción I del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos, publicado el 09 de febrero de 2012 en el Diario Oficial de la Federación.
+
+P.O. 20 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 430.- POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Quedan derogadas las disposiciones opuestas al presente Decreto.
 
 ###### ARTÍCULO ÚNICO.
 
