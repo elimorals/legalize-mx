@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2020-12-22"
+last_updated: "2021-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2021.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -867,9 +867,9 @@ k) Organizar y promover la producción artesanal y la industria familiar;
 
 l) Organizar y promover conjuntamente con los sectores productivos congresos, seminarios y otros eventos sobre desarrollo económico sustentable, así como la celebración de exposiciones y ferias de carácter comercial, industrial y artesanal;
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2021)</small>
 
-m) Coordinar las acciones de mejora regulatoria en la Administración Pública Estatal y ejecutar la política nacional en lo que le corresponda;
+m) Coordinar las acciones de mejora regulatoria en la Administración Pública Estatal, mediante los trabajos de vinculación entre los Sistemas Nacional y Estatal de Mejora Regulatoria y ejecutar las políticas que dicte la federación en esta materia;
 
 n) Atraer inversiones estatales, nacionales y extranjeras, de acuerdo con los Planes Estatal y Municipales de Desarrollo y organizar los consejos consultivos para la atracción de las mismas;
 
@@ -1165,7 +1165,9 @@ III. En materia de mejoramiento de la administración pública:
 
 a) Vigilar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio; y
 
-b) Organizar y coordinar el desarrollo administrativo integral en las dependencias y entidades de la Administración Pública Estatal y emitir las normas para que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados, con criterios de eficacia, legalidad, eficiencia y simplificación administrativa; así como, realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias; en el ámbito de su competencia;
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2021)</small>
+
+b) Organizar y coordinar el desarrollo administrativo integral en las dependencias y entidades de la Administración Pública Estatal, incluyendo la implementación de la política de mejora regulatoria y emitir las normas para que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados, con criterios de eficacia, legalidad, eficiencia y simplificación administrativa; así como, realizar o encomendar las investigaciones, estudios y análisis sobre estas materias, en el ámbito de su competencia;
 
 IV. En materia de derecho disciplinario:
 
@@ -1177,9 +1179,9 @@ c) Procurar y en su caso promover el resarcimiento de los daños y perjuicios a 
 
 V. En materia de vinculación ciudadana:
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2021)</small>
 
-a) Promover la calidad en la prestación de los servicios a la población por parte de las dependencias y entidades de la Administración Pública Estatal;
+a) Coordinar la mejora y evaluación de las regulaciones, trámites y servicios, incluyendo su simplificación administrativa, promoviendo la calidad en la prestación de los servicios a la población por parte de las dependencias y entidades de la Administración Pública Estatal;
 
 b) Difundir los valores que deben distinguir a los servidores públicos en su función, y fomentar su conducta ética;
 
@@ -2271,9 +2273,13 @@ Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al
 
 Artículo Segundo. La Secretaría de la Transparencia y Rendición de Cuentas transferirá a la Secretaría de Desarrollo Económico Sustentable, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de mejora regulatoria, a través del proceso de entrega-recepción respectiva (sic).
 
-Para los efectos de lo dispuesto en el párrafo anterior, las Secretarías de la Transparencia y Rendición de Cuentas y de Desarrollo Económico Sustentable, acordarán la transferencia gradual y progresiva de la plataforma, sistemas, programas y elementos informáticos con los que la primera de las mencionadas ejerce las atribuciones en materia de mejora regulatoria hasta la fecha de entrada en vigencia del presente Decreto, sin que exceda del plazo de seis meses a partir del inicio del proceso de entrega recepción a la Secretaría de Desarrollo Económico Sustentable.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2021)</small>
 
-El personal de la Secretaría de la Transparencia y Rendición de Cuentas, responsable de la competencia en materia de mejora regulatoria conforme a su estatus laboral pasará a integrarse a la Secretaría de Desarrollo Económico Sustentable.
+Para los efectos de lo dispuesto en el párrafo anterior, las Secretarías de la Transparencia y Rendición de Cuentas y de Desarrollo Económico Sustentable, acordarán la transferencia gradual y progresiva de la plataforma, sistemas, programas y elementos informáticos con los que la primera de las mencionadas ejerce las atribuciones en materia de mejora regulatoria hasta la fecha de entrada en vigencia del presente Decreto, con excepción de aquellos destinados al ejercicio de las atribuciones a las que se refiere el artículo 32, fracciones III, inciso b y V, inciso a, sin que exceda del plazo de seis meses a partir del inicio del proceso de entrega recepción a la Secretaría de Desarrollo Económico Sustentable.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2021)</small>
+
+El personal de la Secretaría de la Transparencia y Rendición de Cuentas, responsable de la competencia en materia de mejora regulatoria conforme a su estatus laboral pasará a integrarse a la Secretaría de Desarrollo Económico Sustentable, con excepción del personal para el ejercicio de las atribuciones a que se refiere el párrafo anterior.
 
 Artículo Tercero. La Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria, de conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal.
 
@@ -2332,3 +2338,9 @@ La Secretaría de la Transparencia y Rendición de Cuentas vigilará el proceso 
 Transferencia de personal
 
 Artículo Décimo. La Secretaría de Gobierno, en coordinación con la Secretaría de Finanzas, Inversión y Administración, llevará a cabo las gestiones y adecuaciones administrativas, presupuestales y de recursos humanos necesarias, para la transferencia del personal de la Subsecretaría del Trabajo y Previsión Social al Centro de Conciliación Laboral del Estado de Guanajuato.
+
+P.O. 22 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 308 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN LOS ARTÍCULOS 28, FRACCIÓN I, INCISO M) Y 32, FRACCIÓN III, INCISO B) Y FRACCIÓN V, INCISO A) DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO Y, EL SEGUNDO Y TERCER PÁRRAFOS DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO LEGISLATIVO 217, POR EL CUAL SE REFORMÓ EL ARTÍCULO 32, FRACCIÓN V, INCISO A) Y, SE ADICIONÓ EL ARTÍCULO 28, FRACCIÓN I, INCISO M), DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 179, SEGUNDA PARTE, DEL 7 DE SEPTIEMBRE DEL AÑO 2020".]
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
