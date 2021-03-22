@@ -4,7 +4,7 @@ identifier: "LFC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-29"
-last_updated: "2020-11-06"
+last_updated: "2021-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFC"
 
 LEY FEDERAL DE CINEMATOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MARZO DE 2021.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 29 de diciembre de 1992.
 
@@ -92,9 +92,13 @@ I. Haber sido realizadas por personas físicas o morales mexicanas; o
 
 II. Haberse realizado en el marco de los acuerdos internacionales o los convenios de coproducción suscritos por el gobierno mexicano, con otros países u organismos internacionales.
 
+(NOTA: EL 7 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 2/2024, DECLARÓ LA INCONSTITUCIONALIDAD DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE ABRIL DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 8o.
 
-Las películas serán exhibidas al público en su versión original y, en su caso, subtituladas en español, en los términos que establezca el Reglamento. Las clasificadas para público infantil y los documentales educativos podrán exhibirse dobladas al español.
+Las películas serán exhibidas al público en su versión original y subtituladas al español, en los términos que establezca el Reglamento. LAS CLASIFICADAS PARA PÚBLICO INFANTIL Y LOS DOCUMENTALES EDUCATIVOS podrán exhibirse dobladas, pero siempre subtituladas en español.
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1999)</small>
 
@@ -789,3 +793,11 @@ A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales n
 Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
 
 Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
+
+D.O.F. 22 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 8o. DE LA LEY FEDERAL DE CINEMATOGRAFÍA".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Poder Ejecutivo Federal contará con un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para modificar el Reglamento de la Ley Federal de Cinematografía y demás disposiciones que deriven de esta.
