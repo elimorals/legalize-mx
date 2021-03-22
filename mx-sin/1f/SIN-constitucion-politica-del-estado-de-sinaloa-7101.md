@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2021-02-22"
+last_updated: "2021-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2021.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -581,9 +581,11 @@ El Estado de Sinaloa adopta para su régimen interior, la forma de gobierno repu
 
 El territorio del Estado, se divide política y administrativamente como sigue:
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1983)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2021)</small>
 
-I. En 18 Municipalidades autónomas a saber: Ahome, Fuerte, Choix, Guasave, Sinaloa, Angostura, Salvador Alvarado, Mocorito, Badiraguato, Culiacán, Navolato, Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa, con la extensión y límites que les correspondan.
+I. En 20 Municipalidades autónomas a saber:
+
+Ahome, El Fuerte, Choix, Guasave, Juan José Ríos, Sinaloa, Angostura, Salvador Alvarado, Mocorito, Badiraguato, Culiacán, Navolato, Eldorado, Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa, con la extensión y límites que les correspondan.
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -2329,9 +2331,9 @@ I. Los de Ahome, Guasave, Culiacán y Mazatlán, con un Presidente Municipal, un
 
 II. Los de El Fuerte, Sinaloa, Salvador Alvarado, Mocorito, Navolato, Rosario y Escuinapa, con un Presidente Municipal, un Síndico Procurador, cinco Regidores de Mayoría Relativa y cuatro Regidores de Representación Proporcional.
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2021)</small>
 
-III. Los Municipios de Choix, Angostura, Badiraguato, Cosalá, Elota, San Ignacio y Concordia, con un Presidente Municipal, un Síndico Procurador, tres Regidores de Mayoría Relativa y tres Regidores de Representación Proporcional.
+III. Los Municipios de Choix, Juan José Ríos, Angostura, Badiraguato, Cosalá, Eldorado, Elota, San Ignacio y Concordia, con un Presidente Municipal, un Síndico Procurador, tres Regidores de Mayoría Relativa y tres Regidores de Representación Proporcional.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
@@ -4470,3 +4472,19 @@ P.O. 22 DE FEBRERO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 22 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 599 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA LOS ARTÍCULOS 18, FRACCIÓN I Y EL ARTÍCULO 112, PÁRRAFO TERCERO, EN SU FRACCIÓN III, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Primer Ayuntamiento del Municipio de Eldorado será electo en las elecciones ordinarias correspondientes al año dos mil veinticuatro, para entrar en funciones el día primero de noviembre de ese mismo año.
+
+###### ARTÍCULO TERCERO.
+
+EI Primer Ayuntamiento del Municipio de Juan José Ríos será electo en las elecciones ordinarias correspondientes al año dos mil veinticuatro, para entrar en funciones el día primero de noviembre de ese mismo año.
