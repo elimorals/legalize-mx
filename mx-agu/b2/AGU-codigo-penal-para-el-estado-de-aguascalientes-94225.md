@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2020-06-29"
+last_updated: "2021-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -733,11 +733,15 @@ Forma de aplicación de las medidas. Las Medidas de Seguridad señaladas en el A
 
 I. Intervención de sus órganos de representación, con las atribuciones que al Interventor confiere la ley aplicable a la materia, sin que su duración pueda exceder de dos años;
 
-II. Suspensión temporal de actividades, en términos de la ley de la materia, hasta por dos años;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2021)</small>
+
+II. Suspensión temporal de actividades, en términos de la ley de la materia, hasta por cinco años;
 
 III. Disolución y liquidación de las personas jurídicas, en términos de la ley de la materia;
 
-IV. Prohibición de hasta dos años para realizar determinados actos u operaciones, limitándose exclusivamente a los que señale la autoridad y que deberán tener relación directa con el hecho delictivo cometido; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2021)</small>
+
+IV. Prohibición de hasta diez años para realizar determinados actos u operaciones, limitándose exclusivamente a los que señale la autoridad y que deberán tener relación directa con el hecho delictivo cometido; y
 
 V. Remoción de sus funcionarios, solo por el tiempo indispensable para sustituirlos conforme a la ley de la materia.
 
@@ -1227,15 +1231,15 @@ III. Cuando la víctima se dedique al ejercicio de las labores periodísticas, y
 
 IV. Cuando el resultado sea asociado a la discriminación de la víctima;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2021)</small>
 
-V. Cuando el responsable tenga o haya tenido relación de pareja o de carácter conyugal, sea pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, con la víctima o con el padre o madre de esta última;
+V. Cuando el responsable tenga o haya tenido relación de pareja o de carácter conyugal, sea pariente consanguíneo o civil en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo, civil o afín hasta el cuarto grado, con la víctima;
 
 VI. Cuando la víctima esté sujeta a patria potestad, tutela, curatela o custodia del responsable; o
 
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2021)</small>
 
-VII. Cuando las lesiones se hayan cometido por mutilación, con sustancias corrosivas o hayan sido en los órganos genitales de la víctima.
+VII. Cuando las lesiones se hayan cometido por mutilación, con sustancias corrosivas o hayan sido en los órganos genitales o glándulas mamarias de la víctima.
 
 (NOTA: EL 20 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 84/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE JUNIO DE 2018, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 177, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1841,9 +1845,17 @@ I. Disponer para sí o para otro, con perjuicio de alguien, de una cantidad de d
 
 II. El disponer o substraer una cosa, su dueño, si le ha sido embargada y la tiene en su poder con el carácter de depositario judicial, y no la ponga a disposición de un nuevo depositario, cuando sea legalmente requerido para ello, y esto provoque menoscabo patrimonial a la parte actora en el litigio correspondiente, o a un tercero;
 
-III. El no hacer entrega de la cosa embargada el depositario judicial o el designado por o ante la autoridad judicial, administrativa o del trabajo, que no sea el dueño de la misma, al ser requerido legalmente; o
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2021)</small>
 
-IV. El disponer para sí o para otro de una o más cabezas de ganado, cualquiera que sea su especie, con perjuicio de alguien, de las cuales se le haya transmitido la tenencia y no el dominio, o bien se las hayan entregado para su custodia.
+III. El no hacer entrega de la cosa embargada el depositario judicial o el designado por o ante la autoridad judicial, administrativa o del trabajo, que no sea el dueño de la misma, al ser requerido legalmente;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2021)</small>
+
+IV. El disponer para sí o para otro de una o más cabezas de ganado, cualquiera que sea su especie, con perjuicio de alguien, de las cuales se le haya transmitido la tenencia y no el dominio, o bien se las hayan entregado para su custodia; o
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2021)</small>
+
+V. El disponer o utilizar para sí o para otro los bienes que le son transmitidos como obligación alimentaria en virtud de su relación de patria potestad, tutela, guardia o custodia con la víctima, para un fin distinto u omitir destinarlo a ésta última.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
@@ -3564,3 +3576,27 @@ P.O. 29 DE JUNIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 509.- SE REFORMAN LAS FRACCIONES V Y VII DEL ARTÍCULO 107 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 510.- SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 146, Y SE ADICIONAN (SIC) LA FRACCIÓN V AL ARTÍCULO 146 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El Presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 511.- SE REFORMAN LAS FRACCIONES II Y IV DEL ARTÍCULO 75 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
