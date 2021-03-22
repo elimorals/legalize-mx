@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-561-de-transito-y-seguridad-vial-para-el-estado-1072
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-13"
-last_updated: "2020-11-17"
+last_updated: "2021-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE MARZO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 13 de abril de 2015.
 
@@ -937,7 +937,7 @@ Las licencias o permisos para conducir vehículos de motor expedidos por la Dire
 
 ###### Artículo 59.
 
-Los conductores y operadores deberán portar la licencia de la categoría y tipo que corresponda al vehículo que estén utilizando; ésta será la única manera de acreditar que cuentan con capacidad de conducir el mismo.
+(DEROGADO, G.O. 22 DE MARZO DE 2021)
 
 ###### Artículo 60.
 
@@ -2020,3 +2020,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Ejecutivo del Estado contará con un plazo de 90 días naturales contado a partir de la entrada en vigor del presente Decreto, a efecto de realizar las modificaciones reglamentarias correspondientes.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 22 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 845 QUE REFORMA LOS ARTICULOS 54, 120, 134 FRACCIÓN VII; ADICIONA LA FRACCIÓN XV AL ARTICULO 132 DE LA LEY DE TRÁNSITO Y TRANSPORTE Y DEROGA EL ARTICULO 59 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL; AMBAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado; contará con un término de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para adecuar las disposiciones reglamentarias respectivas.
