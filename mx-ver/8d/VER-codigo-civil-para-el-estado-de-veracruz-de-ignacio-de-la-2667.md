@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2020-12-18"
+last_updated: "2021-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE MARZO DE 2021.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -4137,13 +4137,13 @@ Las declaraciones de nacimiento se harán presentando al niño ante el encargado
 
 ARTICULO 681
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE MARZO DE 2021)</small>
 
-Tienen la obligación de declarar el nacimiento: el padre y la madre, de manera inmediata si en el hospital donde nació el menor hubiere módulo del Registro Civil, o dentro de los 180 días de ocurrido aquél.
+Tienen la obligación de declarar el nacimiento: el padre y la madre, de manera inmediata, si en el hospital donde nació el menor hubiere módulo del Registro Civil, o dentro de los sesenta días de ocurrido aquél.
 
-> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 22 DE MARZO DE 2021)</small>
 
-Los médicos, cirujanos o matronas que hubieren asistido al parto tienen obligación de dar aviso por escrito del nacimiento al encargado del Registro Civil, dentro de los tres días siguientes.
+El personal médico, cirujano, de partería y matronas que hubieren asistido al parto tienen obligación de dar aviso por escrito del nacimiento a la persona responsable del Registro Civil, dentro de las veinticuatro horas siguientes. Si el nacimiento tuviere lugar en un hospital o sanatorio particular o público, la obligación estará a cargo del director o de la persona encargada de la administración, dentro del mismo plazo.
 
 Recibido el aviso, el Encargado del Registro Civil tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
 
@@ -17016,5 +17016,13 @@ G.O. 18 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 609 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan el (sic) presente Decreto.
+
+G.O. 22 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 846 QUE REFORMA LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 681 DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan el (sic) presente Decreto.
