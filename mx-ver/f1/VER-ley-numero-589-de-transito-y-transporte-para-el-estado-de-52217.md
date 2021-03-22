@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2018-09-06"
+last_updated: "2021-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 589 DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE MARZO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -841,9 +841,9 @@ III. Motociclista; y
 
 IV. Motorista.
 
-> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 22 DE MARZO DE 2021)</small>
 
-La licencia de chófer tipo "A" autoriza a su titular a conducir vehículos de motor dedicados al servicio de transporte público de pasajeros.
+La licencia de chofer tipo "A" autoriza a su titular a conducir vehículos de motor dedicados al servicio de transporte público de pasajeros y los descritos en los dos párrafos subsecuentes.
 
 > <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
 
@@ -1533,17 +1533,17 @@ Las características y requisitos para prestar el servicio de transporte públic
 
 La Dirección de Transporte podrá modificar las rutas en las que se preste el servicio de transporte público de pasajeros concesionado, de acuerdo con los estudios que realice sobre las necesidades de los usuarios. Las extensiones de ruta formarán parte de las concesiones otorgadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE MARZO DE 2021)</small>
 
 ###### Artículo 120.
 
-Los vehículos que se utilicen para prestar el servicio de transporte público reunirán las características, condiciones técnicas, engomados respectivos, uniformidad de color por municipio y demás requisitos que, para tal efecto, fijen esta Ley y su Reglamento.
+Los vehículos que se utilicen para prestar el servicio de transporte público reunirán las características, condiciones técnicas, mecánicas, electromecánicas, de seguridad e higiene necesarias, así como deberán portar los engomados respectivos, uniformidad de color por municipio y demás requisitos que, para tal efecto, fijen esta Ley y su Reglamento.
 
 Los vehículos mencionados en el párrafo anterior deberán ser, por lo menos, del modelo correspondiente al año del otorgamiento de la concesión, en lo subsecuente estarán en circulación mientras el concesionario compruebe que la unidad está en condiciones de prestar el servicio con seguridad y comodidad para los usuarios y aprueben la verificación vehicular correspondiente.
 
-> <small>(REFORMADO, G.O. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 22 DE MARZO DE 2021)</small>
 
-A los vehículos destinados a las modalidades de urbano, suburbano, foráneo y rural mixto no se les permitirá una antigüedad superior a los quince años. En el caso de las unidades de taxi, será de ocho años su antigüedad máxima.
+A los vehículos destinados a las modalidades de urbano, suburbano, foráneo y rural mixto no se les permitirá una antigüedad superior a los quince años. En el caso de las unidades de taxi, será de diez años su antigüedad máxima.
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -1777,6 +1777,10 @@ XIII. En la prestación del servicio, el vehículo sea conducido por quien carez
 
 XIV. Que el conductor de la unidad opere la misma en estado de ebriedad, bajo el influjo de sustancias tóxicas o psicotrópicas o con temeridad. Se entiende que el conductor opera con temeridad cuando circula o conduce la unidad vehicular del servicio de transporte público, sin tomar las medidas mínimas de seguridad que marcan esta Ley y su Reglamento, y pone en peligro la vida o la integridad de cualquier persona o pone en riesgo los bienes de las mismas e incluso los propios. En relación a la causal señalada, a quien incurra en ella se le retirará de manera permanente la licencia de manejo.
 
+> <small>(ADICIONADA, G.O. 22 DE MARZO DE 2021)</small>
+
+XV. El vehículo dedicado a la prestación del servicio de transporte público, (sic) no cumpla con lo establecido en los artículos 47 al 51 de esta Ley, siempre y cuando el engomado de la verificación vehicular no exceda de 6 meses de vigencia, de lo contrario será causal de revocación.
+
 No procederá la suspensión cuando el concesionario pruebe que previamente adoptó las medidas idóneas para impedir la causa que la origina. Cuando el responsable sea el conductor del vehículo, se le suspenderá la licencia para conducir hasta por el término que se indica en el artículo 61 de esta Ley, independientemente de las sanciones que le puedan ser aplicadas en los términos de esta Ley y su Reglamento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2017)</small>
@@ -1837,9 +1841,9 @@ V. Se violen las condiciones establecidas en la concesión otorgada;
 
 VI. No se inicie la prestación del servicio de transporte público concesionado dentro del plazo señalado por esta Ley y su Reglamento, salvo causa de fuerza mayor notificada por escrito a la Dirección;
 
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, G.O. 22 DE MARZO DE 2021)</small>
 
-VII. El vehículo que se utilice para la prestación del servicio público de transporte concesionado no cumpla con las características, condiciones técnicas, de seguridad y ambientales a que se refieren los artículos 47 a 51 y 120 de esta Ley, o se ponga en riesgo la integridad o salud de cualquier persona;
+VII. Se ponga en riesgo la integridad o salud de cualquier persona;
 
 VIII. El concesionario preste el servicio con unidades no autorizadas;
 
@@ -2402,3 +2406,13 @@ Primero. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado de Ve
 Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación, en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 22 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 845 QUE REFORMA LOS ARTÍCULOS 54, 120, 134 FRACCIÓN VII; ADICIONA LA FRACCIÓN XV AL ARTÍCULO 132 DE LA LEY DE TRÁNSITO Y TRANSPORTE Y DEROGA El ARTÍCULO 59 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL; AMBAS PARA EL ESTADO DE VERACRUZ DE IGNAC!O DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado; contará con un término de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para adecuar las disposiciones reglamentarias respectivas.
