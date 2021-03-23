@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cambio-climatico-del-estado-de-durango-95588"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-07"
-last_updated: "2020-11-15"
+last_updated: "2021-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de julio de 2013.
 
@@ -33,7 +33,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 14 de diciembre de 2010, el C. Diputado Rodolfo Benito Guerrero García, presentó a esta H. LXV Legislatura del Estado, Iniciativa de Decreto que contiene LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO DEL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Ecología integrada por los CC. Diputados: Karla Alejandra Zamora García, Carmen Cardiel Gutiérrez, José Nieves García Caro, Felipe de Jesús Garza González y Verónica Castañeda Ibarra; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S...
+C O N S I D E R A N D O S
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXV Legislatura del Estado, expide el siguiente:
 
@@ -155,9 +157,13 @@ XXV. Sumidero: Cualquier proceso, actividad o mecanismo que retira de la atmósf
 
 XXVI. Vulnerabilidad: Nivel a que un sistema es susceptible, o no es capaz de soportar los efectos adversos del Cambio Climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática a la que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación, y
 
-> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MARZO DE 2021)</small>
 
-XXVII. ARBORIZAR: Plantar árboles, preferentemente de especies frutales, en las áreas urbanas existentes en una población Municipio y el Estado; con independencia de que dichos árboles sean nativos o bien exóticos que hayan sido adaptados a las condiciones climáticas del Estado, pero con el fin de lograr un equilibrio ecológico propicio para el desarrollo de los habitantes.
+XXVII. Acuerdo de París: Convenio adoptado mediante la decisión 1/CP.21 durante el 21er período de sesiones de la Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2021)</small>
+
+XXVIII. Convención: Convención Marco de las Naciones Unidas sobre el Cambio Climático.
 
 ### CAPÍTULO II. DE LOS CRITERIOS GENERALES PARA LA DEFINICIÓN DE POLÍTICAS DE MITIGACIÓN Y ADAPTACIÓN
 
@@ -174,6 +180,10 @@ Para el cumplimiento de los objetivos establecidos en esta Ley, el Plan Estatal 
 ###### ARTÍCULO 4.
 
 En la definición de los objetivos y metas de adaptación y mitigación al cambio climático, las autoridades estatales y municipales deberán tomar en cuenta las evaluaciones de impacto económico del cambio climático, atlas de riesgo, desarrollo de capacidades de adaptación y demás estudios para hacer frente al cambio climático.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2021)</small>
+
+El Gobierno del Estado, a través de la comisión, establecerá las bases para que Durango contribuya al cumplimiento del Acuerdo de Paris, con el objetivo de reducir los riesgos y efectos del cambio climático.
 
 ###### ARTÍCULO 5.
 
@@ -271,7 +281,9 @@ VI. Realizar estudios y proyectos de investigación y desarrollo tecnológico co
 
 VII. Impulsar las acciones necesarias para cumplir con los objetivos y compromisos contenidos en instrumentos derivados de convenciones nacionales o internacionales en la materia, que competan al Estado;
 
-VIII. Promover, difundir y, en su caso, aprobar proyectos de reducción de emisiones para la industria y captura de gases de efecto invernadero, en términos del Protocolo de Kyoto, así como de otros instrumentos reconocidos por el Estado Mexicano tendentes al mismo objetivo;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2021)</small>
+
+VIII. Promover, difundir y, en su caso, aprobar proyectos de reducción de emisiones para la industria y captura de gases de efecto invernadero, en términos del Acuerdo de Paris, el Protocolo de Kyoto, así como de otros instrumentos reconocidos por el Estado Mexicano tendentes al mismo objetivo;
 
 IX. Proponer el desarrollo e integración de un marco jurídico estatal en la materia;
 
@@ -662,5 +674,17 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 El Ejecutivo Estatal, a través de las autoridades competentes, realizara las adecuaciones necesarias, a fin de ejecutar el presente decreto a partir del ciclo escolar 2020-2021.
 
 ###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 497.- POR EL QUE SE ADICIONA LA FRACCIÓN XXVII Y XXVIII AL ARTÍCULO 2; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 4; SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 11, TODOS DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
