@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2020-10-27"
+last_updated: "2021-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY ESTATAL DE PROTECCION A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 23 DE MARZO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2021 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -1218,3 +1220,13 @@ P.O. 27 DE OCTUBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1142.- SE EXPIDE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO XX, LOS ARTÍCULOS 320, 321 EN SUS FRACCIONES II, IV, VIII, X Y XI, 322, 323, 324 Y 325 EN SU PÁRRAFO PRIMERO; Y ADICIONA AL ARTÍCULO 321 LAS FRACCIONES XII Y XIII, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. A la entrada en vigor de la ley que se expide en el artículo Primero del presente Decreto, se abroga la Ley Estatal de Protección a los Animales, publicada como Diverso Legislativo No. 347, en el entonces Periódico Oficial del Estado, el 17 de marzo de 1995.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
