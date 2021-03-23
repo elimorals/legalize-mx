@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-social-para-el-estado-de-durango-49840"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-17"
-last_updated: "2021-01-03"
+last_updated: "2021-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE ENERO DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 17 de julio de 2005.
 
@@ -43,9 +41,37 @@ LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE DURANGO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2021)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto promover, proteger y garantizar el pleno ejercicio de los derechos sociales de los duranguenses y demás habitantes del Estado, mediante una política integral de desarrollo social y humano.
+Las disposiciones de la presente Ley son de orden público, de interés social y de observancia general en el Estado de Durango y tiene por objeto ampliar las oportunidades y garantizar los derechos sociales de las personas, con un presupuesto creciente destinado al gasto social por el Estado y los Municipios, que en ningún caso, podrá ser inferior al ejercicio en el ejercicio fiscal inmediato anterior, para que el estado y los municipios cumplan con su responsabilidad de:
+
+I. Garantizar, de acuerdo a la capacidad presupuestal, el pleno ejercicio de los derechos sociales de los duranguenses, en materia de alimentación, salud, educación, vivienda, trabajo, infraestructura social; medio ambiente saludable y al desarrollo económico, social y cultural, consagrados en la Constitución Política de los Estados Unidos Mexicanos, en instrumentos jurídicos internacionales, en la Constitución Política del Estado Libre y Soberano de Durango y en la Ley General de Desarrollo Social; mediante la implementación de políticas, programas y acciones, así como los mecanismos y procedimientos establecidos en esta ley, a nivel estatal y municipal;
+
+II. Alinear e integrar la política social y los programas y acciones contra la pobreza, en relación a los indicadores de pobreza.
+
+III. Las bases para fomentar y consolidar las diversas formas de organización y participación de los sectores sociales y de la ciudadanía en general, en relación a la problemática social y las políticas de desarrollo social y humano;
+
+IV. Las obligaciones del Ejecutivo Estatal, de las dependencias y entidades de la administración pública estatal y municipal en materia de desarrollo social y humano;
+
+V. La competencia del Estado y los Municipios en materia de bienestar social y humano;
+
+VI. Acordar los términos y alcances de la coordinación de dos o más órdenes de gobierno para el diseño, aprobación y ejecución de programas y acciones que tengan como finalidad la atención de regiones y sectores prioritarios de la población, en el Estado y los municipios;
+
+VII. Establecer las bases normativas y los criterios para la planeación, organización, ejecución, monitoreo, evaluación, seguimiento y mejora de los programas y acciones en materia de política de bienestar social del Estado y de los municipios, para que los recursos públicos asignados al desarrollo social se apliquen y ejerzan con oportunidad, eficiencia, eficacia, equidad, y transparencia, en beneficio de los ciudadanos que más los necesiten;
+
+VIII. Las vertientes obligatorias a las que el Estado y los Municipios, deberán destinar recursos para el desarrollo social y el bienestar de las familias;
+
+IX. Impulsar el desarrollo de la economía social, rural y urbana, como condición para la generación de ingresos y empleo para la población en condiciones de pobreza y de vulnerabilidad;
+
+X. Identificar a los municipios con alerta de género, para la promoción y fomento de políticas sociales integrales, como programas y acciones con enfoque de género, orientados al desarrollo social, humano, de capacidades, para la inclusión social, la equidad y la igualdad de género en las relaciones sociales, contrra la discriminación, para el cuidado del medio ambiente, contra la violencia a las mujeres, con base en la dignidad y los derechos humanos, como herramientas del estado para reconstruir el tejido social;
+
+XI. Instituir un Sistema Estatal para el Desarrollo Social y Humano, que diseñe y conceptualice el desarrollo social que exige la realidad social, genere y de seguimiento a las políticas, programas y acciones orientados al desarrollo social y el bienestar;
+
+XII. El conjunto de programas, proyectos y acciones públicas diseñadas para atender el desarrollo social y humano, deberán articularse a partir de una visión de largo plazo, que considere la igualdad de género, equidad, la inclusión social y el combate a la pobreza, como elementos sustantivos; y
+
+XIII. Los demás que se deriven de otras leyes u ordenamientos legales y estén vinculados con los principios de la política de desarrollo social.
 
 ###### Artículo 2.
 
@@ -407,23 +433,77 @@ VI. Los programas operativos anuales estatales y municipales.
 
 Los programas operativos anuales correspondientes deberán ser congruentes con los programas estatales y municipales de desarrollo social y humano y éstos a su vez con los Planes Estatal y Municipales de Desarrollo.
 
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2021)</small>
+
+Artículo 16 bis. En matera (sic) de bienestar social los Gobiernos Municipales, tendrán las siguientes atribuciones:
+
+I. Formular, dirigir e implementar la política de bienestar social en el ámbito Municipal y con sujeción a las leyes Federales, Estatales y Municipales;
+
+II. Coordinar con el Gobierno del Estado, la ejecución de los programas y acciones de bienestar social;
+
+III. Convenir acciones con otros municipios de la entidad, en materia de bienestar social;
+
+IV. Prever en su presupuesto anual de egresos, la materia de bienestar social;
+
+V. Ejercer los fondos y recursos federales y estatales transferidos o convenidos en materia social en los términos de las leyes respetivas, así como informar a la Secretaría, sobre el avance y resultados de esas acciones;
+
+VI. Diseñar las reglas de operación para la ejecución anual de los programas en el ámbito de su competencia;
+
+VII. Integrar los padrones de beneficiarios de sus programas de bienestar social;
+
+VIII. Informar a la sociedad sobre las políticas, programas y acciones de bienestar social que ejecuten;
+
+IX. Concertar acciones con los sectores público, social y privado en materia de bienestar social;
+
+X. Establecer los mecanismos para incluir la participación social organizada, en la planeación, diseño y ejecución y evaluación de los programas y acciones de bienestar social;
+
+XI. Impulsar el desarrollo local privilegiando la superación de los rezagos sociales, en las localidades con mayor concentración de pobreza y marginación; y
+
+XII. Las demás que señale esta Ley, su reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE MARZO DE 2021)</small>
+
 ###### Artículo 17.
 
 En la planeación, programación y presupuestación del desarrollo social y humano, son prioritarios y de interés público, los siguientes programas en orden preferente:
 
 I. Los programas y acciones públicas para asegurar la alimentación, nutrición y abasto social de productos básicos;
 
-II. Los programas de prevención y control de enfermedades y atención médica;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MARZO DE 2021)</small>
 
-III. Los programas de vivienda;
+II. Los programas de superación de la pobreza a través del desarrollo de capacidades;
 
-IV. Los programas dirigidos a las personas o grupos en condiciones de pobreza, marginación o en situación de vulnerabilidad o dirigidos a zonas de atención prioritaria;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE MARZO DE 2021)</small>
 
-V. Los programas de educación obligatoria;
+III. Los programas de prevención y control de enfermedades y atención médica;
 
-VI. Los programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2021)</small>
 
-VII. Los programas y fondos públicos destinados a la generación y conservación del empleo, a las actividades productivas sociales y a las empresas del sector social de la economía.
+IV. Los programas de vivienda; con prioridad a construcción de cuartos adicionales y baños;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE MARZO DE 2021)</small>
+
+V. Los programas dirigidos a las personas o grupos en condiciones de pobreza, marginación o en situación de vulnerabilidad o dirigidos a zonas de atención prioritaria;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE MARZO DE 2021)</small>
+
+VI. Los programas de educación obligatoria;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2021)</small>
+
+VII. Los programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE MARZO DE 2021)</small>
+
+VIII. Los programas y fondos públicos destinados a la generación y conservación del empleo, a las actividades productivas sociales y a las empresas del sector social de la economía.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MARZO DE 2021)</small>
+
+IX. Los programas de fomento a la economía social, mediante créditos a jefas de familia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MARZO DE 2021)</small>
+
+X. Los programas de equidad y no discriminación.
 
 ###### Artículo 18.
 
@@ -856,3 +936,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 496.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 1 Y 17 Y SE ADICIONA UN ARTÍCULO 16 BIS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los municipios deberán modificar el presupuesto de egresos en el mes de febrero del año 2021, atendiendo el presente decreto.
