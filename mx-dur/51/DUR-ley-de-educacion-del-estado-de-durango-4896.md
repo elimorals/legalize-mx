@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2020-03-29"
+last_updated: "2021-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -233,9 +233,9 @@ XIV.- Arraigar en los educandos el amor y la lealtad a la Patria, así como el r
 
 XV.- Crear conciencia en los educandos de la importancia del trabajo productivo, del ahorro y de la inversión de recursos que requiere el país para lograr un desarrollo socioeconómico sostenible, en una sociedad mundial de economía abierta y competitiva;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2021)</small>
 
-XVI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, fomentar el cuidado del agua, su uso y consumo responsables, así como la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
+XVI.- Inculcar los conceptos y principios fundamentales de la ciencia y educación ambiental, el desarrollo sustentable, la prevención del cambio climático, fomentar el cuidado del agua, su uso y consumo responsables, así como la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -1375,9 +1375,11 @@ El propósito fundamental, es el de propiciar en el niño un desarrollo integral
 
 La educación básica en nivel primaria se impartirá en seis grados estructurados en forma progresiva, a niños que fluctúen entre 6 años de edad cumplidos antes del 31 de diciembre del año de inicio del ciclo escolar y hasta los catorce años de edad.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 93.
 
-La Educación Primaria contribuirá al desarrollo integral y armónico del educando, fortaleciendo su identidad individual y su integración plena a su familia, a la escuela y a la comunidad; fomentará en él, hábitos tendientes a la conservación y mejoramiento de su salud personal, le proporcionará conocimientos básicos para la preservación de su entorno ecológico, y el ejercicio de sus derechos y de sus deberes cívico-sociales; también motivará en el educando una actitud de aprendizaje permanente que lo prepare para el trabajo útil a sí mismo, a su familia, a su comunidad y al sistema social del que forma parte. Este nivel educativo debe tener una imagen de calidad en la que se refleje la función social de los profesores, la calidad en la acción educativa y la trascendencia del trabajo escolar.
+La Educación Primaria contribuirá al desarrollo integral y armónico del educando, fortaleciendo su identidad individual y su integración plena a su familia, a la escuela y a la comunidad; fomentará en él, hábitos tendientes a la conservación y mejoramiento de su salud personal, así como los conceptos y principios fundamentales de la educación ambiental, le proporcionará conocimientos básicos para la preservación de su entorno ecológico, y el ejercicio de sus derechos y de sus deberes cívico-sociales; también motivará en el educando una actitud de aprendizaje permanente que lo prepare para el trabajo útil a sí mismo, a su familia, a su comunidad y al sistema social del que forma parte. Este nivel educativo debe tener una imagen de calidad en la que se refleje la función social de los profesores, la calidad en la acción educativa y la trascendencia del trabajo escolar.
 
 ###### ARTICULO 94.
 
@@ -1391,9 +1393,11 @@ La Educación Primaria contribuirá al desarrollo integral y armónico del educa
 
 La educación secundaria atenderá en sus diferentes modalidades, en tres grados estructurados en forma progresiva y, en su caso, adaptaciones, a quienes hayan acreditado el nivel de primaria. Tendrá carácter formativo y adecuará la enseñanza a las preferencias, intereses y aptitudes de los educandos; en todo caso, tendrá relación directa con las exigencias de desarrollo de la comunidad y con su estructura productiva y socioeconómica.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 96.
 
-La Educación Secundaria fortalecerá el desarrollo integral del educando, continuará y profundizará la formación científica, humanística, física, artística, tecnológica y para el trabajo productivo, adquirida en los niveles precedentes e inducirá la capacidad de observación, análisis y reflexión crítica, así como el desarrollo de facultades para adquirir conocimientos, habilidades y destrezas, así como la adquisición de valores que eleven la calidad moral de la sociedad.
+La Educación Secundaria fortalecerá el desarrollo integral del educando, continuará y profundizará la formación científica, humanística, física, artística, tecnológica, educación ambiental y para el trabajo productivo, adquirida en los niveles precedentes e inducirá la capacidad de observación, análisis y reflexión crítica, así como el desarrollo de facultades para adquirir conocimientos, habilidades y destrezas, así como la adquisición de valores que eleven la calidad moral de la sociedad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -2900,3 +2904,15 @@ P.O. 29 DE MARZO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 498.- POR EL CUAL SE ADICIONA UNA FRACCIÓN LXII, RECORRIENDO LA SUBSECUENTE DEL ARTÍCULO 35 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
