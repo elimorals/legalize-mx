@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2021-01-03"
+last_updated: "2021-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-(F. DE. E., P.O. 3 DE ENERO DE 2021)
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE ENERO DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2021.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -1491,7 +1487,13 @@ XL. Fomentar la lectura en todo el Estado, especialmente entre la niñez y la ju
 
 XLI. Promover y coordinar programas de combate a la drogadicción, tabaquismo, alcoholismo y otras adicciones, en el marco de su competencia en coordinación con la Secretaría de Salud; y
 
-XLII. Los demás que le fijen expresamente las leyes, reglamentos y otros ordenamientos jurídicos.
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2021)</small>
+
+LXII. (SIC) Coordinarse con la Secretaria de Recursos Naturales y Medio Ambiente, a fin de generar los programas de educación ambiental, de forma integral e interdisciplinario en todos los niveles educativos, donde se involucre tanto a educandos como a docentes, en la identificación y resolución de problemas a través de la adquisición de conocimientos, valores, actitudes y habilidades, de la ciencia ambiental para la toma de decisiones y la participación activa y organizada para el logro de un desarrollo sustentable.
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2021)</small>
+
+LXIII. Los demás que le fijen expresamente las leyes, reglamentos y otros ordenamientos jurídicos
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2013)</small>
 
@@ -2848,6 +2850,18 @@ P.O. 31 DE DICIEMBRE DE 2020.
 ###### ARTICULO PRIMERO.
 
 El presente entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 498.- POR EL CUAL SE ADICIONA UNA FRACCIÓN LXII, RECORRIENDO LA SUBSECUENTE DEL ARTÍCULO 35 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 ###### ARTICULO SEGUNDO.
 
