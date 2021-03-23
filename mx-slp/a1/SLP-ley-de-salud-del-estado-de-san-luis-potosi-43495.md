@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2020-12-24"
+last_updated: "2021-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -3545,7 +3545,9 @@ La construcción, acondicionamiento y funcionamiento de un inmueble que se prete
 
 La apertura y explotación de un establecimiento de hospedaje no comprende el derecho de explotar giros anexos, aun cuando éstos constituyan una misma unidad comercial con el citado establecimiento; en consecuencia, tales anexos deberán recabar u obtener la autorización correspondiente, según el giro de que se trate.
 
-### CAPITULO XX. Prevención y Control de la Rabia
+### CAPITULO XX. Prevención, Control de Esterilización de la Rabia y otras Zoonosis; y Natalidad de Animales
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 312.
 
@@ -3581,13 +3583,13 @@ Cada expendio o depósito de gasolina deberá estar equipado con extinguidores d
 
 En lugares visibles y distribuidos en número suficiente, se fijarán letreros indelebles y con pintura fosforescente, relativos a la seguridad e higiene, siendo obligación de los dueños y encargados de los expendios y depósitos, vigilar el cumplimiento de esta disposición.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2021)</small>
+
 ### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 320.
 
-La prevención y control de la rabia estará a cargo del Centro de Control de Rabia y otras Zoonosis, tanto en áreas urbanas como rurales, en coordinación con los ayuntamientos y con las secretarías de Marina, de Medio Ambiente y Recursos Naturales, y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
-
-Será responsabilidad de los ayuntamientos, la prevención y control de la sobrepoblación de perros y otros animales callejeros.
+La prevención, control de rabia estará a cargo del Centro de Esterilización, Control de Rabia y otras Zoonosis, tanto en áreas urbanas, como rurales, en coordinación con los Ayuntamientos y con los secretarios de Marina, de Medio Ambiente y Recursos Naturales y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, estos a través de sus Delegaciones Estatales. Será responsabilidad de los Ayuntamientos, la prevención y control de la sobrepoblación de perros, gatos y cualquier otro animal en situación de calle o, abandono. El Estado a través del Centro de Esterilización, Control de Rabia y otras Zoonosis coadyuvará a practicar las esterilizaciones o castraciones respectivas.
 
 ###### ARTICULO 321.
 
@@ -3595,13 +3597,15 @@ El Centro de Control de Rabia y otras Zoonosis tendrá entre otras, las siguient
 
 I. Atender quejas contra animales agresores;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2021)</small>
 
-II. Animales agresores y callejeros evitando en dicho proceso acciones de maltrato y crueldad animal que lastimen su bienestar, apoyo a las actividades de los ayuntamientos;
+II. Capturar animales agresores y callejeros evitando en dicho proceso acciones de maltrato y crueldad animal que lastimen su bienestar;
 
 III. Observar clínicamente a los animales capturados o identificados como agresores, por el tiempo que determine la norma oficial mexicana sanitaria correspondiente;
 
-IV. Vacunar a los animales capturados y reclamados por su propietario, a costa del mismo, dentro del lapso señalado en el reglamento respectivo;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2021)</small>
+
+IV. Vacunar y esterilizar o castrar, obligatoriamente a los perros y/o gatos, capturados y reclamados por su propietario o poseedor, el costo respectivo será cubierto por el propietario, salvo que carezca de ingresos;
 
 V. Practicar la necropsia de animales sospechosos de padecer rabia;
 
@@ -3609,37 +3613,59 @@ VI. Obtener los diagnósticos de rabia por medio de análisis de laboratorio;
 
 VII. Canalizar a los centros de atención médica a las personas agredidas, para su tratamiento oportuno;
 
-VIII. El sacrificio humanitario de los animales que habiendo cumplido el lapso de observación, no hayan sido reclamados por sus propietarios, o cuando éstos así lo soliciten;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2021)</small>
+
+VIII. La eutanasia también conocida como sacrificio humanitario de animales, podrá ser realizada por el Centro de Esterilización, Control de Rabia y otras Zoonosis, en casos comprobados de enfermedad incurable y cuando se demuestre que es la única vía indispensable para eliminar el dolor y el sufrimiento, en términos que establezca la norma oficial mexicana que para tal efecto se expida;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
 
 IX. Realizar las investigaciones y programas necesarios para el control de la rabia y de otras zoonosis;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2021)</small>
 
-X. En coordinación con las autoridades municipales, capacitar al personal para la captura de animales agresores y callejeros, y
+X. Apoyar, previa solicitud, a los ayuntamientos en las actividades de su competencia, primordialmente en la capacitación del personal para la captura de animales agresores y callejeros;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MARZO DE 2021)</small>
 
-XI. En caso de que los animales callejeros capturados cuenten con buena salud, y no sean reclamados por su propietario, serán esterilizados y podrán ser otorgados para su adopción a asociaciones protectoras de animales constituidas legalmente que lo soliciten, y que se comprometan a su cuidado y protección.
+XI. En coordinación con las autoridades municipales, capacitar al personal para la captura de animales agresores, los cuales deberán contar con los instrumentos adecuados y humanitarios.
+
+El Centro de Esterilización, Control de Rabia y otras Zoonosis, llevará a cabo programas de captura de animales en situación de calle o abandono, y deberá seguir las acciones del Programa, “Animal comunitario” esto es, atrapar al animal en situación de calle, llevar a cabo la esterilización obligatoria observando los lineamientos médicos requeridos, incluyendo su recuperación, para posteriormente regresarlo a su hábitat, impulsando con ello el concepto de “Comunidades Armónicas”;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MARZO DE 2021)</small>
+
+XII. En caso de que los animales callejeros capturados cuenten con buena salud, y no sean reclamados por su propietario, serán esterilizados y podrán ser otorgados para su adopción a asociaciones protectoras de animales constituidas legalmente que lo soliciten, y que se comprometan a su cuidado y protección, y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2021)</small>
+
+XIII. Realizar las estadísticas de animales contagiados por la rabia y otras zoonosis.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 322.
 
-El Centro de Control de Rabia y otras Zoonosis, coordina las acciones del programa estatal de prevención y control de estas enfermedades y vigila su cumplimiento en todas las instituciones de salud en el Estado.
+El Centro de Esterilización, Control de Rabia y otras Zoonosis, cordinará (sic) las acciones del programa estatal de prevención y control de estas enfermedades y vigilará su cumplimiento en todas las instituciones de salud en el Estado.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 323.
 
-Los propietarios de animales domésticos están obligados a que sus mascotas sean vacunadas anualmente; mantenerlas en sus domicilios bajo su control; y asumir la responsabilidad por los daños y lesiones que ocasionen.
+Los propietarios o poseedores de animales domésticos, están obligados a que éstos sean vacunados, esterilizados o castrados; así como mantenerlos en sus domicilios bajo su control y con las condiciones de bienestar animal que determina la Ley Estatal de Protección a los Animales; asumiendo en todo momento la responsabilidad por los daños y lesiones que pudieran ocasionar.
 
-Asimismo, deben apoyar las actividades para la prevención y control de la rabia, no obstaculizando la captura y observación de animales agresores, dar cumplimiento a las indicaciones de la autoridad sanitaria.
+Asimismo, deben apoyar las actividades para la prevención y control de la rabia, no obstaculizando la captura y observación de animales agresores, dando cumplimiento a las indicaciones de la autoridad sanitaria.
+
+El propietario que desee ser excluido de la obligación de esterilizar o castrar, deberá solicitarlo al Centro de Esterilización, Control de Rabia y otras Zoonosis. Si es justificada su petición, se le otorgará la constancia respectiva.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 324.
 
-Las autoridades municipales, educativas y sanitarias, deben realizar campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer rabia.
+Las autoridades municipales, educativas y sanitarias, deben realizar campañas permanentes de educación, capacitación y orientación a la población, enfocadas a la vacunación y esterilización o castración, establecidas en la Ley de Protección a los Animales para el Estado de San Luis Potosí.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 325.
 
-Las personas que vendan animales susceptibles de contraer rabia están obligadas a vacunarlos, y a presentar el comprobante de vacunación cuando les sea solicitado por la autoridad sanitaria.
+Toda persona que venda, ofrezca en adopción o regale animales domésticos, está obligada a vacunarlos y esterilizarlos o castrarlos, presentando el comprobante médico que compruebe el cumplimiento de esta obligación.
 
 En caso de incumplimiento a esta disposición sanitaria, los animales deben ser trasladados al Centro de Control de Rabia y otras Zoonosis para vacunarlos, y si no reclamados por su propietario, en un término de cinco días hábiles, quedan a disposición de la autoridad.
 
@@ -4744,3 +4770,13 @@ P.O. 24 DE DICIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1142.- SE EXPIDE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO XX, LOS ARTÍCULOS 320, 321 EN SUS FRACCIONES II, IV, VIII, X Y XI, 322, 323, 324 Y 325 EN SU PÁRRAFO PRIMERO; Y ADICIONA AL ARTÍCULO 321 LAS FRACCIONES XII Y XIII, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. A la entrada en vigor de la ley que se expide en el artículo Primero del presente Decreto, se abroga la Ley Estatal de Protección a los Animales, publicada como Diverso Legislativo No. 347, en el entonces Periódico Oficial del Estado, el 17 de marzo de 1995.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
