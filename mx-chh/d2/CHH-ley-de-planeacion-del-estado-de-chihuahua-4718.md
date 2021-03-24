@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-planeacion-del-estado-de-chihuahua-4718"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-04"
-last_updated: "2018-05-09"
+last_updated: "2021-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2021.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -106,6 +106,10 @@ A) El Plan Estatal de Desarrollo.
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
 
 A BIS) El Plan Estatal de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2021)</small>
+
+A) TER El Plan Estatal Hídrico.
 
 B) Los programas de mediano plazo:
 
@@ -676,3 +680,13 @@ P.O. 9 DE MAYO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+P.O. 24 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N°LXVI/RFLYC/0982/2021 II P.O. MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL AGUA DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En lo referente al artículo 10, apartado B), la fracción II Bis, de la Ley del Agua del Estado de Chihuahua, entrará en vigor el primero de enero del año 2024, con la finalidad de la Junta Central de Agua y Saneamiento del Estado, realice las adecuaciones administrativas, presupuestales y técnicas, para llevar a cabo la implementación del servicio profesional de carrera de la Junta Central de Agua y Saneamiento del Estado de Chihuahua, y de las juntas operadoras, derogándose con esta entrada en vigor de los artículos 15 BIS, la fracción IX; y 24 BIS, la fracción VIII.
+
+TERCERO.- El titular del Poder Ejecutivo del Estado, deberá expedir el Reglamento de la Ley del Agua del Estado de Chihuahua, dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
