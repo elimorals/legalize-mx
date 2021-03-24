@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-para-el-ejercicio-fiscal-2021-del-municipio-146
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2020-12-30"
-last_updated: "2020-12-30"
+last_updated: "2021-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 ---
 # LEY DE INGRESOS PARA EL EJERCICIO FISCAL 2021 DEL MUNICIPIO DE ALDAMA, CHIHUAHUA
 
-LEY DE INGRESOS DEL MUNICIPIO DE ALDAMA PARA EL EJERCICIO FISCAL 2021 DEL ESTADO DE CHIHUAHUA
+LEY DE INGRESOS DEL MUNICIPIO DE ALDAMA PARA EL EJERCICIO FISCAL DE 2021 DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2021.
 
 Ley publicada en el Número 105 del Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 2020.
 
@@ -66,6 +66,10 @@ Bailes y Conciertos 10%
 Los demás espectáculos 10%
 
 Requisitos:
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2021)</small>
+
+Tratándose de carreras de automóviles que se encuentren adheridas a la Confederación Deportiva Mexicana, se aplicará la tasa del 8% prevista para espectáculos deportivos.
 
 Se deberá tramitar el permiso municipal para espectáculos públicos, de conformidad con la Ley de Protección Civil del Estado de Chihuahua, así mismo, conforme a las disposiciones contenidas en el Título III, del Libro Segundo, Capítulo I, del Código Municipal para el Estado de Chihuahua, según el tipo de evento; y de acuerdo con las disposiciones fiscales aplicables del mismo Código Municipal citado y las de aplicación supletorias (sic) del Código Fiscal del Estado de Chihuahua.
 
@@ -388,3 +392,13 @@ C) COPIA FOTOSTÁTICA SIMPLE 3.00
 D) COPIA CERTIFICADA TAMAÑO CARTA U OFICIO 104.00
 
 …
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLIM/0989/2021 II P.O., MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO, AL NUMERAL 1, INCISO A), FRACCIÓN I, ARTÍCULO PRIMERO, DE LA LEY DE INGRESOS DEL MUNICIPIO DE ALDAMA, CHIH., PARA EL EJERCICIO FISCAL 2021.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
