@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2021-01-27"
+last_updated: "2021-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2021.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2755,9 +2755,21 @@ Para estimar la cuantía del robo se atenderá al valor comercial de la cosa rob
 
 En los casos de tentativa de robo, cuando no fuera posible determinar el monto, la pena será de seis meses a dos años de prisión.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2021)</small>
+
 ###### Artículo 209.
 
-Se impondrán las mismas penas previstas en el artículo anterior, a quien sin consentimiento de la persona que legalmente pueda otorgarlo, aproveche energía eléctrica o cualquier otro fluido.
+Se impondrán las mismas penas previstas en el artículo anterior a quien sin consentimiento de la persona que legalmente pueda otorgarlo, aproveche energía eléctrica, gas o cualquier otro fluido.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2021)</small>
+
+###### Artículo 209 Bis.
+
+Se impondrán de seis meses a tres años de prisión a quien sustraiga agua sin el consentimiento de quien legalmente pueda otorgarlo.
+
+Además de la pena prevista en el párrafo anterior, se impondrán de uno a tres años de prisión si para la sustracción del agua se daña la infraestructura de una red que abastezca, en todo o en parte, a un centro de población, sea urbano o rural.
+
+Además de las penas previstas en los párrafos anteriores de este artículo, se aplicarán de dos a cinco años de prisión si con motivo de la sustracción del agua se afecta o suspende la prestación de un servicio público.
 
 ###### Artículo 210.
 
@@ -2793,9 +2805,9 @@ VII. Recaiga en un expediente, documento o en cualquier información que se encu
 
 VIII. Se cometa en establecimientos comerciales de autoservicio, utilizando el ocultamiento para la sustracción.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2021)</small>
 
-IX. Afecte gravemente o suspenda la prestación de un servicio público.
+IX. Afecte o suspenda la prestación de un servicio público.
 
 X. Se cometa en lugar cerrado, al que no se haya tenido libre acceso.
 
@@ -5540,3 +5552,13 @@ P.O. 27 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFCOD/0791/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLYC/0982/2021 II P.O. MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL AGUA DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En lo referente al artículo 10, apartado B), la fracción II Bis, de la Ley del Agua del Estado de Chihuahua, entrará en vigor el primero de enero del año 2024, con la finalidad de (sic) la Junta Central de Agua y Saneamiento del Estado, realice las adecuaciones administrativas, presupuestales y técnicas, para llevar a cabo la implementación del servicio profesional de carrera de la Junta Central de Agua y Saneamiento del Estado de Chihuahua, y de las juntas operadoras, derogándose con esta entrada en vigor de los artículos 15 BIS, la fracción IX; y 24 BIS, la fracción VIII.
+
+TERCERO.- El titular del Poder Ejecutivo del Estado, deberá expedir el Reglamento de la Ley del Agua del Estado de Chihuahua, dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
