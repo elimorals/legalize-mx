@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-consejo-de-la-judicatura-del-59566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-25"
-last_updated: "2018-02-08"
+last_updated: "2021-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59566&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2007-11-28"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 24 DE MARZO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. INFORMACIÓN OBTENIDA DE: https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Reglamento_Interior_CJCDMX.pdf]</small>
+
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE MARZO DE 2021 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 25 de febrero de 2008.
 
@@ -2137,3 +2139,33 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal y para su mayor difusión en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Incorpórese el texto de este decreto y las modificaciones respectivas en la página Web del Consejo de la Judicatura de la Ciudad de México.
+
+G.O. 24 DE MARZO DE 2021.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL AVISO QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+AVISO EN RELACIÓN CON EL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
+
+De conformidad con lo establecido en el artículo 217, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Ciudad de México, y en cumplimiento a lo ordenado en Acuerdo General 07-07/2021, emitido por el Pleno del Consejo de la Judicatura de la Ciudad de México, en sesión ordinaria celebrada el día dos de febrero del año dos mil veintiuno; se hace del conocimiento de las y los servidores públicos del Poder Judicial de la Ciudad de México, litigantes y público en general que, este órgano colegiado determinó autorizar la expedición del atura , publicado en el Boletín Judicial número 1, del Poder Judicial de la Ciudad de México, de fecha veintidós de febrero de dos mil veintiuno, y que puede ser consultado en la siguiente liga:
+
+https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Reglamento_Interior_CJCDMX.pdf
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Reglamento_Interior_CJCDMX.pdf]</small>
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Boletín Judicial del Poder Judicial de la Ciudad de México y para su mayor difusión, será publicado en el Portal de Internet del Poder Judicial de la Ciudad de México y en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Consejo de la Judicatura del Distrito Federal, aprobado por Acuerdo General 34-49/2007 emitido por el Consejo de la Judicatura del Distrito Federal, en sesión ordinaria de fecha 28 de noviembre del año dos mil siete, así como todas aquellas disposiciones administrativas que contravengan lo establecido en el presente Reglamento.
+
+TERCERO.- Todos los documentos normativos, reglamentos, lineamientos, dictámenes, guías, manuales de organización y procedimientos, así como las demás disposiciones administrativas al interior del Poder Judicial de la Ciudad de México que se deriven de este Reglamento, deberán ser elaboradas y/o actualizadas por las Áreas de Apoyo Judicial y Administrativas del Poder Judicial de la Ciudad de México, acorde con el presente Reglamento, con el apoyo técnico de la Dirección Ejecutiva de Planeación, en un plazo no mayor a los seis meses posteriores a la entrada en vigor del presente Reglamento.
+
+CUARTO.- Las referencias hechas al “INSTITUTO DE CIENCIAS FORENSES” en otras leyes o disposiciones normativas vigentes, al 1° de junio de 2019, se entenderán hechas al “Instituto de Servicios Periciales y Ciencias Forenses”.
+
+QUINTO.- La estructura orgánica del Instituto de Servicios Periciales y Ciencias Forenses prevista en el Artículo 252 de la Ley Orgánica del Poder Judicial de la Ciudad de México, estará supeditada a la autorización que determine el Consejo de la Judicatura de la Ciudad de México, la cual quedará sujeta a la disponibilidad presupuestal que exista.
+
+SEXTO.- La disposición contenida en el último párrafo del Artículo 118 del presente Reglamento, entrará en vigor hasta en tanto el Pleno del Consejo de la Judicatura de la Ciudad de México, determine mediante Acuerdo Plenario, las reglas y aspectos necesarios de operación, conforme al Artículo 303 de la Ley Orgánica del Poder Judicial de la Ciudad de México.
+
+SÉPTIMO.- Los actos, omisiones y procedimientos administrativos, iniciados por el Consejo de la Judicatura de la Ciudad de México antes de la entrada en vigor del presente Reglamento y que se encuentren en proceso a la fecha de publicación de éste, se regirán hasta su conclusión por el Reglamento Interior del Consejo de la Judicatura del Distrito Federal, así como por las disposiciones aplicables vigentes a su inicio.
+
+OCTAVO.- Para las etapas de investigación, substanciación y emisión de resoluciones, que, con motivo de actos, hechos u omisiones, se hayan iniciado conforme al Reglamento Interior del Consejo de la Judicatura del Distrito Federal, serán aplicables en lo conducente, las presentes disposiciones reglamentarias. Si la conducta se ejecutó antes de la entrada en vigor de la Ley de Responsabilidades Administrativas de la Ciudad de México, pero la investigación y el procedimiento, inició con posterioridad, deberá seguirse conforme a lo establecido en la Ley Orgánica del Poder Judicial de la Ciudad de México y de manera supletoria, a la Ley de Responsabilidades Administrativas de la Ciudad de México.
