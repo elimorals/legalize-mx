@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-tribunal-estatal-de-justicia-administrativa-del-122847"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-07"
-last_updated: "2017-08-07"
+last_updated: "2021-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2021.
 
 Ley publicada en el Número Especial al Número 36 del Periódico Oficial del Estado de Baja California, el lunes 7 de agosto de 2017.
 
@@ -749,9 +749,11 @@ V. Las pruebas documentales que ofrezca;
 
 Si al examinarse la demanda, se divierte (sic) que ésta es obscura o irregular, o cuando no se adjunten las copias o documentos a que se refiere este precepto, el Magistrado de la Sala requerirá mediante notificación personal al demandante, para que la corrija, aclare, complete o exhiba los documentos en el plazo de cinco días, apercibiéndolo de que, en caso de no hacerlo, se desechará de plano la demanda o se tendrán por no ofrecidas las pruebas, en su caso.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 49.
 
-La demanda se admitirá dentro de los tres días siguientes al de su presentación. En el mismo auto se aceptará o rechazará la intervención del tercero y se señalará fecha para que tenga verificativo la audiencia dentro de los cuarenta y cinco días siguientes a la admisión de la demanda.
+La demanda se admitirá dentro de las veinticuatro horas siguientes a la de su presentación. En el mismo auto se aceptará o rechazará la intervención del tercero y se señalará fecha para que tenga verificativo la audiencia dentro de los cuarenta y cinco días siguientes a la admisión de la demanda.
 
 En el acuerdo que admita la demanda, se tendrán por ofrecidas las pruebas del actor, mismas que se admitirán o desecharán hasta que se fije la litis.
 
@@ -1065,15 +1067,27 @@ CAPÍTULO DÉCIMOTERCERO
 
 DE LOS RECURSOS
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 90.
 
-Las partes podrán interponer el recurso de reclamación en contra de las resoluciones de los Magistrados que desechen la demanda o la contestación; o admitan o desechen las pruebas; que rechacen la intervención de terceros, o aquéllas que nieguen o concedan la suspensión provisional o definitiva del acto reclamado, con excepción de aquellas a que se refiere la fracción I del artículo 94 de esta Ley.
+Las partes podrán interponer el recurso de reclamación en contra de las resoluciones de los Magistrados que:
 
-El recurso deberá interponerse ante la Sala de adscripción del Magistrado que hubiere dictado el acto recurrido, dentro del plazo de los cinco días siguientes a su notificación, expresando los agravios que le cause.
+I. Desechen la demanda o la contestación;
+
+II. Admitan o desechen las pruebas;
+
+III. Nieguen o admita la intervención de terceros;
+
+IV. Nieguen o conceda la suspensión provisional del acto reclamado.
+
+El recurso deberá interponerse dentro de los tres días siguientes contados a partir del día que surta efectos su notificación, expresando los agravios que le cause, ante la Sala de adscripción del Magistrado que hubiere dictado el acto recurrido.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 91.
 
-Interpuesto el recurso a que se refiere el Artículo anterior, la Sala dará vista a las partes por el término de cinco días para que expresen lo que a su derecho convenga y, sin más trámite, resolverá en el término de cinco días posteriores.
+Interpuesto el recurso a que se refiere el Artículo anterior, la Sala dará vista a las partes por el término de tres días para que expresen lo que a su derecho convenga y, sin más trámite, resolverá en el término de tres días posteriores.
 
 ###### ARTÍCULO 92.
 
@@ -1093,11 +1107,15 @@ Interpuesto el recurso a que se refiere el Artículo anterior, el Pleno requerir
 
 Transcurrido dicho lapso, el Pleno resolverá lo conducente en el plazo de cinco días. La falta o deficiencia de los informes, establece la presunción de ser ciertos los hechos respectivos y hará incurrir a las autoridades y organismos omisos en multa, en los términos de esta Ley.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 24 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 94.
 
 Las partes podrán interponer el recurso de revisión, con el objeto de que el Pleno del Tribunal revoque o modifique las siguientes determinaciones de las Salas:
 
-I.- Los acuerdos o interlocutorias que concedan o nieguen la suspensión definitiva en materia de Transporte Publico, Salud, Menores o Incapaces, el funcionamiento de centros de vicio o de lenocinio, así como de establecimientos de juegos con apuestas o sorteos y en materia ambiental;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2021)</small>
+
+I.- Los acuerdos o interlocutorias que concedan o nieguen la suspensión definitiva;
 
 II.- Las interlocutorias que confirmen el desechamiento de la demanda o la contestación;
 
@@ -1117,7 +1135,9 @@ La resolución se pronunciará por unanimidad o mayoría de votos de los Magistr
 
 El Pleno podrá aplicar el medio de apremio o medida disciplinaria, de los previstos por esta Ley, cuando se denosté o falte al respeto a los Magistrados a través de la interposición de los recursos o cualquier otro ocurso. Si las faltas llegaran a constituir delitos, se procederá con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente.
 
-Corresponderá al Magistrado de Sala dicha aplicación cuando la falta se cometa en primera instancia.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2021)</small>
+
+Cuando la falta se cometa en primera instancia, le corresponderá al Magistrado de Sala, dictar la aplicación del medio de apremio o medida disciplinaria.
 
 ARTÍCULO 94 BIS.- En contra de las sentencias dictadas en el juicio de resolución exclusiva de fondo, si éstas no favorecen a la autoridad demandada, podrá interponer el recurso de revisión administrativa previsto en este artículo, sin restricción alguna.
 
@@ -1218,3 +1238,13 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GOMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 218 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 49, 90, 91, Y 94 DE LA LEY DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente (sic) reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Pleno del Tribunal Estatal de Justicia Administrativa de Baja California, dentro de los 30 días naturales contados a partir de la entrada en vigor de la presente reforma, realizará las adecuaciones administrativas y reglamentarias, necesarias para la implementación de la presente reforma.
