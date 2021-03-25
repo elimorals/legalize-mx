@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-i-2019-del-133214"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-02-06"
-last_updated: "2019-02-14"
+last_updated: "2021-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133214&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2019-01-29"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTIOCHO DE ENERO DE DOS MIL DIECINUEVE, POR EL QUE SE MODIFICA ORGÁNICA Y FUNCIONALMENTE SU ESTRUCTURA ADMINISTRATIVA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 14 DE FEBRERO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MARZO DE 2021.
 
 Acuerdo publicado en el Número 3 del Diario Oficial de la Federación, el miércoles 6 de febrero de 2019.
 
@@ -67,7 +65,7 @@ I. La Dirección General de Asuntos Jurídicos, la que ejercerá las atribucione
 
 II. La Dirección General de la Coordinación de Compilación y Sistematización de Tesis, la que ejercerá las atribuciones previstas en el artículo 149 del Reglamento Interior de la Suprema Corte de Justicia de la Nación (RI-SCJN);
 
-III. La Unidad General de Igualdad de Género, la que ejercerá las atribuciones previstas en el artículo 44 del ROMA-SCJN;
+III. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO V/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 25 DE MARZO DE 2021)
 
 IV. El Centro de Documentación y Análisis, Archivos y Compilación de Leyes, el que ejercerá las atribuciones previstas en el artículo 147 del RI-SCJN;
 
@@ -83,9 +81,17 @@ TERCERO. La Coordinación General de Asesores de la Presidencia tendrá las atri
 
 I. El Centro de Estudios Constitucionales, regulado en el Acuerdo General Plenario 19/2014, de veintiséis de agosto de dos mil catorce;
 
-II. La Dirección General de Estudios, Promoción y Desarrollo de los Derechos Humanos, la que ejercerá las atribuciones previstas en el artículo 38 del ROMA-SCJN, y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO V/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 25 DE MARZO DE 2021)</small>
 
-III. La Dirección General de Relaciones Institucionales, la que ejercerá las atribuciones previstas en el artículo 18 del ROMA-SCJN.
+II. La Dirección General de Derechos Humanos, la que ejercerá las atribuciones previstas en el artículo 38 del ROMA-SCJN;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO V/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 25 DE MARZO DE 2021)</small>
+
+III. La Dirección General de Relaciones Institucionales, la que ejercerá las atribuciones previstas en el artículo 18 del ROMA-SCJN, y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO V/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 25 DE MARZO DE 2021)</small>
+
+IV. La Unidad General de Igualdad de Género, la que ejercerá las atribuciones previstas en el artículo 44 del ROMA-SCJN.
 
 CUARTO. La Coordinación de Comunicación Social supervisará el adecuado ejercicio de las atribuciones previstas en los artículos 14 y 15 del ROMA-SCJN, y tendrá adscritas las áreas siguientes:
 
@@ -146,3 +152,17 @@ QUINTO. Publíquese el presente Acuerdo General de Administración en el Semanar
 Así lo acordó y firma el señor Ministro Arturo Zaldívar Lelo de Larrea, Presidente de la Suprema Corte de Justicia de la Nación, el día veintiocho de enero de dos mil diecinueve, ante la Secretaria Jurídica de la Presidencia que da fe.- Rúbricas.
 
 LA MAESTRA FABIANA ESTRADA TENA, SECRETARIA JURÍDICA DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CON FUNDAMENTO EN EL ARTÍCULO 8, FRACCIÓN XIII, DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia del “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTIOCHO DE ENERO DE DOS MIL DIECINUEVE, POR EL QUE SE MODIFICA ORGÁNICA Y FUNCIONALMENTE SU ESTRUCTURA ADMINISTRATIVA”, constante de once fojas útiles, concuerda fiel y exactamente con su original que obra en esta Secretaría Jurídica y se certifica para el trámite correspondiente. Ciudad de México, veintinueve de enero de dos mil diecinueve.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 25 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO V/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE DOCE DE MARZO DE DOS MIL VEINTIUNO, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTIOCHO DE ENERO DE DOS MIL DIECINUEVE, POR EL QUE SE MODIFICA ORGÁNICA Y FUNCIONALMENTE SU ESTRUCTURA ADMINISTRATIVA".]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se derogan las demás disposiciones jurídicas que se opongan al presente Acuerdo General de Administración.
+
+TERCERO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Acuerdo General de Administración número I/2019, del Presidente de la Suprema Corte de Justicia de la Nación, de veintiocho de enero de dos mil diecinueve, por el que se modifica orgánica y funcionalmente su estructura administrativa, a fin de que el contenido de éste se encuentre debidamente actualizado; dicha actualización deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
+
+CUARTO. Publíquese este Acuerdo General de Administración en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
