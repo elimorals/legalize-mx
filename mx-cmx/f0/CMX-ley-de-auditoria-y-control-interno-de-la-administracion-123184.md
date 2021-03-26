@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-auditoria-y-control-interno-de-la-administracion-123184"
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-01"
-last_updated: "2018-11-27"
+last_updated: "2021-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123184&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-08-31"
 
 LEY DE AUDITORÍA Y CONTROL INTERNO DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE MARZO DE 2021.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 1 de septiembre de 2017.
 
@@ -157,6 +157,10 @@ III. Revisar y auditar el ingreso, egreso, manejo, custodia y aplicación de rec
 IV. Investigar, sustanciar y sancionar los actos u omisiones de servidores públicos, que constituyen faltas administrativas no graves en el ámbito de la Administración Pública.
 
 V. Recibir, dar curso e informar el trámite recaído a las denuncias o quejas presentadas por la ciudadanía o por las contralorías ciudadanas, en un plazo que no deberá de exceder de veinte días hábiles.
+
+> <small>(ADICIONADO, G.O. 26 DE MARZO DE 2021)</small>
+
+En el caso de quejas o denuncias presentadas por la ciudadanía, la información sobre el trámite recaído deberá hacerse del conocimiento de la persona interesada, por medio del contacto electrónico que haya proporcionado, dentro del plazo establecido en el párrafo anterior y subsecuentemente de manera mensual hasta su conclusión.
 
 VI. Recurrir las determinaciones de la Fiscalía General de Justicia y del Tribunal de Justicia Administrativa, ambos de la ciudad de México, siempre que contravengan el interés público.
 
@@ -567,3 +571,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente decreto.
 
 CUARTO.- Los nombramientos de las personas titulares de los Órganos Internos de Control a que se refiere el artículo 16 del presente Decreto, serán realizados a partir del 5 de diciembre del año en curso.
+
+G.O. 26 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 13 DE LA LEY DE AUDITORÍA Y CONTROL INTERNO DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
