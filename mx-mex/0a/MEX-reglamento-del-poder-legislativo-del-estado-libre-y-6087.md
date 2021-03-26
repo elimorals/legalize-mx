@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2020-07-07"
+last_updated: "2021-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MARZO DE 2021.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1111,11 +1111,13 @@ VI. La Junta de Coordinación Política o la Legislatura, podrá respaldar previ
 
 Al finalizar de (sic) cada periodo ordinario, la Directiva presentará un informe al pleno, sobre el estado de las proposiciones de acuerdo, y sobre las respuestas a los acuerdos aprobados en donde se informará de la o las autoridades a la que vayan dirigidas, la fecha en la que se les notificó a éstas, si se (sic) recibieron o no la respuesta, y en su caso una sinopsis de la respuesta emitida.
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE MARZO DE 2021)</small>
 
 ###### Artículo 73.
 
-Los asuntos serán turnados a la comisión que le corresponda en razón del tema a tratar, pudiendo ser turnados a dos y en su caso recabarse la opinión de una tercera comisión cuando el asunto de que se trate sea también de su competencia.
+Los asuntos serán turnados a la comisión que le corresponda en razón del tema a tratar, o bien cuando el asunto sea también competencia de otras, podrán ser turnados hasta a dos comisiones más; las y los integrantes de las comisiones participantes tendrán voz y voto.
+
+Adicionalmente, se podrá solicitar la opinión de las comisiones que, por sus funciones, puedan conocer del asunto.
 
 ###### Artículo 74.
 
@@ -1140,6 +1142,10 @@ III. Por acuerdo de la Junta de Coordinación Política.
 ###### Artículo 75.
 
 Cuando un asunto sea turnado a varias comisiones, éstas trabajarán unidas y emitirán un solo dictamen por mayoría de votos de los integrantes de cada una de las comisiones. Los dictámenes serán aprobatorios o desaprobatorios.
+
+> <small>(ADICIONADO, G.G. 26 DE MARZO DE 2021)</small>
+
+Tratándose de reuniones de trabajo en las que no se emita votación de dictamen, informe u opinión, el quórum se computará cuando concurran, en conjunto, cuando menos, la mitad más uno del total de las y los diputados integrantes de las diversas comisiones.
 
 ###### Artículo 76.
 
@@ -2696,3 +2702,11 @@ TERCERO. Todos los expedientes, archivos, acervos y demás documentación, en cu
 CUARTO. Se abroga el Decreto número 8, por el que se integra el Consejo Consultivo de Valoración Salarial publicado en el Periódico Oficial “Gaceta del Gobierno”, el 14 de noviembre de 2018.
 
 QUINTO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 26 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 249.- POR EL QUE SE REFORMA EL ARTÍCULO 73 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 75 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) Periódico Oficial "Gaceta del Gobierno".
