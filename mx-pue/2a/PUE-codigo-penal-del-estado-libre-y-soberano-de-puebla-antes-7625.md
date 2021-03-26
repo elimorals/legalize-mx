@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2021-03-10"
+last_updated: "2021-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -5471,7 +5471,9 @@ VII.- Ejecutar actos o incurrir en omisiones que produzcan un perjuicio o conced
 
 VIII.- Retardar o entorpecer maliciosamente o por negligencia los negocios de que conozca y, en general, la administración de justicia;
 
-IX.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MARZO DE 2021)</small>
+
+IX.- Negarse a integrar o proporcionar la información pericial resultado del examen a personas relacionada con alcoholemia o drogas prohibidas, en su caso, a la carpeta de investigación;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -5599,11 +5601,11 @@ XL.- A quien ejerciendo funciones de supervisor de libertad falsee informes o re
 
 A quien cometa los delitos previstos en las fracciones I, II, III, IV, V, VII, VIII, XI, XX, XXII, XXV y XXVI del artículo 421, se le impondrá la pena de prisión de tres a ocho años y multa de quinientos (sic) a mil quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2021)</small>
 
 ###### Artículo 424.
 
-A quien cometa los delitos previstos en las fracciones VI, X, XIV, XV, XVI, XVII, XIX, XXI, XXIII, XXVII a XL del artículo 421, se le impondrá pena de prisión de cuatro a diez años y multa de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
+A quien cometa los delitos previstos en las fracciones VI, IX, X, XIV, XV, XVI, XVII, XIX, XXI, XXIII, XXVII a XL del artículo 421, se le impondrá pena de prisión de cuatro a diez años y multa de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
 
 ###### Artículo 425.
 
@@ -7124,6 +7126,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 284 QUATER DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 421, Y EL 424 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
