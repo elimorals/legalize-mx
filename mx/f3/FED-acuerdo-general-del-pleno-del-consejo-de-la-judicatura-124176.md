@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-124176"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-11-03"
-last_updated: "2018-08-24"
+last_updated: "2021-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124176&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2017-10-26"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ASIGNACIÓN DE AUDIENCIAS Y ASUNTOS, LA RENDICIÓN DE ESTADÍSTICA Y LOS LIBROS ELECTRÓNICOS DE CONTROL EN LOS CENTROS DE JUSTICIA PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2021.
 
 Acuerdo publicado al Número 3 del Diario Oficial de la Federación, el viernes 3 de noviembre de 2017.
 
@@ -101,9 +101,15 @@ Para la celebración de las audiencias, los Centros de Justicia Penal Federal fu
 
 Entre cada audiencia se contemplará un periodo máximo de quince minutos para la preparación física de la sala correspondiente.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DEL ESQUEMA DE GESTIÓN JUDICIAL BAJO LA REGLA JUEZ-CAUSA, D.O.F. 26 DE MARZO DE 2021)</small>
+
 ###### Artículo 4.
 
-En los Centros de Justicia Penal Federal, la programación de las audiencias para integrar la agenda y su asignación, al igual que la de los asuntos, entre los jueces se llevarán a cabo de manera automática, aleatoria y exclusivamente a través del Sistema Integral de Seguimiento de Expedientes, atendiendo a la disponibilidad de juez, sala y el espacio en la agenda diaria.
+En los Centros de Justicia Penal Federal, la asignación de los asuntos entre las y los jueces, así como la programación de las audiencias, se llevará a cabo de manera automática y exclusivamente a través del Sistema Integral de Seguimiento de Expedientes, atendiendo a la disponibilidad de juzgador, sala, espacio en la agenda diaria y, la modalidad de su celebración, presencial o por videoconferencia.
+
+El turno de asuntos realizará la distribución equitativa. Las y los jueces de control conocerán de forma ordinaria de los asuntos desde el inicio de la etapa de investigación hasta el dictado del auto de apertura a juicio, de conformidad con lo establecido en el artículo 350 del Código Nacional de Procedimientos Penales, y lo dispuesto por los Lineamientos para el turno automatizado y equilibrado de los asuntos en los Centros de Justicia Penal Federal.
+
+En los casos en que haya actuaciones previas a la judicialización de un asunto, la Jueza o Juez que conoció de esa actuación, también conocerá del nuevo asunto, garantizando en todo momento el cumplimiento irrestricto del artículo 350 del Código Nacional de Procedimientos Penales.
 
 ###### Artículo 5.
 
@@ -111,55 +117,59 @@ Para la programación automática de la audiencia en la agenda, el Sistema Integ
 
 La duración promedio de audiencias, de acuerdo con esos parámetros, deberá actualizarse en tiempo real con la información histórica que recabe el sistema.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DEL ESQUEMA DE GESTIÓN JUDICIAL BAJO LA REGLA JUEZ-CAUSA, D.O.F. 26 DE MARZO DE 2021)</small>
 
 ###### Artículo 6.
 
 Corresponde al Administrador de los Centros de Justicia Penal Federal:
 
-I. Configurar los días inhábiles de turno, habilitar o inhabilitar a los jueces que integran el Centro de Justicia Penal Federal para que el sistema de gestión realice el turnado aleatorio de audiencias y asuntos, considerando periodos vacacionales o inasistencia de alguno de ellos por causa diversa en cuyo caso registrará los motivos de la ausencia.
+I. Configurar los días inhábiles de turno, habilitar o inhabilitar a los jueces que integran el Centro de Justicia Penal Federal para que el sistema de gestión realice el turno automático y equilibrado de asuntos, así como la programación de sus respectivas audiencias, considerando periodos vacacionales o ausencia de alguno de ellos por causa diversa, en cuyo caso registrará los motivos de la ausencia.
 
-En caso de inasistencia de alguno de los Jueces integrantes del Centro de Justicia Penal Federal, será indispensable el registro de dicha ausencia en el sistema para que se excluya de la asignación automatizada de audiencias en el periodo marcado;
+En caso de ausencia de alguno de los Jueces integrantes del Centro de Justicia Penal Federal, será indispensable el registro de la misma en el sistema para que se excluya del turno automatizado de asuntos en el periodo marcado;
 
-II. Supervisar que previo a la agenda de las audiencias se encuentre capturada toda la información requerida en el Sistema Integral de Seguimiento de Expedientes con la finalidad de que el sistema se encuentre en posibilidad de calcular el tiempo estimado de duración de audiencia y realice la programación correspondiente;
+II. Supervisar que previo al turno de los asuntos y programación de sus respectivas audiencias, se encuentre capturada toda la información requerida en el Sistema Integral de Seguimiento de Expedientes, con la finalidad de que el sistema pueda efectuar el turno y, de ser el caso, la programación de la audiencia;
 
-III. Solicitar al sistema de gestión la programación de audiencias en el Sistema Integral de Seguimiento de Expedientes e indicar lo siguiente:
+III. Solicitar el turno de los asuntos, así como la programación de audiencias en el Sistema Integral de Seguimiento de Expedientes e indicar lo siguiente:
 
-a) Señalar el tipo de audiencia y si su prioridad es "Alta" o "Baja".
+a) Señalar el tipo de asunto a efecto de que sea turnado a una o un juez;
 
-Tratándose de audiencias iniciales con detenido o de carácter de urgente deberá clasificarla con prioridad "Alta" y asentar la fecha y hora que conforme a las características del caso cumpla con la obligación de celebrarla de inmediato.
+b) Señalar el tipo de audiencia y si su prioridad es "Alta" o "Baja".
 
-Cuando la prioridad sea "Baja", el sistema buscará la sala, fecha y hora más próximas para la celebración de la audiencia en horario ordinario;
+Tratándose de audiencias iniciales con detenido o de carácter urgente deberá clasificarla con prioridad "Alta" y asentar la fecha y hora que conforme a las características del caso cumpla con la obligación de celebrarla de inmediato.
 
-b) En las audiencias con detenido, prever y registrar el tiempo de traslado de los imputados al Centro de Justicia Penal Federal para que el sistema lo contemple para la reservación de audiencia;
+Cuando la prioridad sea "Baja", el sistema buscará la sala, fecha y hora más próximas, previendo los actos procesales que deban realizarse previos a la celebración de la audiencia en horario ordinario;
 
-c) En las audiencias que ameriten el empleo del equipo móvil, además de registrar el tiempo de duración de audiencia, prever y registrar el tiempo de traslado del Juez hacia el lugar de celebración de la audiencia con el fin de que el sistema no contemple en el turno de las siguientes audiencias a ese Juez en el periodo establecido;
+c) En las audiencias con detenido, prever y registrar el tiempo de traslado de los imputados al Centro de Justicia Penal Federal para que el sistema lo contemple para la reservación de audiencia;
 
-d) Señalar si se requiere de la presencia de un defensor público para que el sistema asigne automáticamente uno de los adscritos al Centro de Justicia Penal Federal o habilitados por las Delegaciones del Instituto Federal de Defensoría Pública.
+d) En las audiencias que ameriten el empleo del equipo móvil, además de registrar el tiempo de duración de audiencia, prever y registrar el tiempo de traslado del Juez hacia el lugar de celebración de la audiencia con el fin de que el sistema no contemple en el turno de las siguientes audiencias a ese Juez en el periodo establecido;
+
+e) Señalar si se requiere de la presencia de un defensor público para que el sistema asigne automáticamente uno de los adscritos al Centro de Justicia Penal Federal o habilitados por las Delegaciones del Instituto Federal de Defensoría Pública.
 
 El Instituto Federal de Defensoría Pública, a través de sus Delegados, mantendrá actualizada diariamente en el Sistema Integral de Seguimiento de Expedientes la plantilla de Defensores Públicos adscritos y habilitados por Centro de Justicia Penal Federal que se encuentren disponibles para atender la audiencia que se programe; y
 
-e) Registrar el correo electrónico de las personas imputadas, defensores públicos y defensores privados cuando estos lo hayan proporcionado, para notificarles la fecha y hora señalada, así como la sala, en que se celebrará la audiencia; y
-
-> <small>(REFORMADA [N. DE E. CON SUS PÁRRAFOS] POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+f) Registrar el correo electrónico de las personas imputadas, defensores públicos y defensores privados cuando estos lo hayan proporcionado, para notificarles la fecha y hora señalada, así como la sala, en que se celebrará la audiencia; y
 
 IV. En caso de cancelación de audiencia, exponer el motivo de la cancelación y asentar su firma electrónica para validar dicha cancelación, así como en el supuesto en el que se requiera reprogramar la audiencia porque el juez no se encuentre presente para iniciarla.
 
 Si una cancelación o reprogramación de audiencia se hace a instrucción de un juez, éste lo hará directamente mediante su firma electrónica y la correspondiente justificación.
 
-En los demás casos en que estando presente el juez asignado aleatoriamente por el sistema para atender determinada audiencia, y se tenga que reprogramar una audiencia por imposibilidad de éste, él mismo será el responsable de justificar directamente el cambio en el sistema de gestión.
+En los demás casos en que estando presente el juez asignado por el sistema para atender determinado asunto y, de ser el caso, la correspondiente audiencia, y se tenga que reprogramar por imposibilidad de éste, el propio juzgador será el responsable de justificar directamente el cambio en el sistema de gestión.
+
+Cuando un juzgador no pueda celebrar una audiencia, relativa a un asunto que le fue turnado, se deberá justificar la necesidad de que sea uno diverso el que la conduzca.
 
 ###### Artículo 7.
 
 En los casos que durante la celebración de una audiencia se requiera programar otra, el auxiliar de sala, indicará en el Sistema Integral de Seguimiento de Expedientes el tipo de audiencia y la fecha que se señale.
 
-En el Sistema Integral de Seguimiento de Expedientes se programará la hora y asignará la audiencia al Juez que se encuentre disponible.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DEL ESQUEMA DE GESTIÓN JUDICIAL BAJO LA REGLA JUEZ-CAUSA, D.O.F. 26 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+En el Sistema Integral de Seguimiento de Expedientes se programará la hora y asignará la audiencia al juzgador que conoce del asunto.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DEL ESQUEMA DE GESTIÓN JUDICIAL BAJO LA REGLA JUEZ-CAUSA, D.O.F. 26 DE MARZO DE 2021)</small>
 
 ###### Artículo 8.
 
-En caso de que alguno de los jueces del Centro se encuentre impedido para conocer o seguir conociendo de un asunto, conocerá otro juez del mismo Centro, en caso de no ser posible, conocerá un Juez del Centro de Justicia Penal Federal más cercano, el cual será designado, de conformidad con los lineamientos que determine la Comisión de Creación de Nuevos Órganos.
+En caso de que sea necesario sustituir a alguno de los juzgadores, esta recaerá en cualquiera del mismo Centro; en caso de no ser posible, deberá hacerse del conocimiento de la Secretaría Ejecutiva de Creación de Nuevos Órganos y de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, para que sea analizada y en su caso, se efectúe la propuesta respectiva al órgano competente a fin de que se determine el Juez al que le corresponderá la sustitución.
 
 ###### Artículo 9.
 
@@ -2014,3 +2024,23 @@ DÉCIMO SEGUNDO. Se abroga el Acuerdo General del Pleno del Consejo de la Judica
 DÉCIMO TERCERO. Las referencias que se hagan en cualquier disposición al Juez Administrador del Centro de Justicia Penal Federal se entenderán hechas al Administrador del Centro de Justicia Penal Federal.
 
 DÉCIMO CUARTO. La Visitaduría Judicial deberá presentar al Pleno la propuesta de metodología de inspección a los Centros de Justicia Penal Federal, en términos de lo previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
+
+D.O.F. 26 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DEL ESQUEMA DE GESTIÓN JUDICIAL BAJO LA REGLA JUEZ-CAUSA".]
+
+PRIMERO. La entrada en vigor del presente Acuerdo estará sujeta a que los Lineamientos para el turno automatizado y equilibrado de los asuntos en los Centros de Justicia Penal Federal hayan sido autorizados por la Comisión de Creación de Nuevos Órganos, y su implementación en el Sistema Integral de Seguimiento de Expedientes se hubiere efectuado.
+
+Para esto último, la Dirección General de Gestión Judicial realizará el aviso correspondiente.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+CUARTO. Las áreas administrativas del Consejo de la Judicatura Federal, en el ámbito de su competencia, adoptarán las medidas necesarias para la implementación del presente Acuerdo.
+
+QUINTO. La Dirección General de Gestión Judicial difundirá los instructivos necesarios para el cumplimiento de este Acuerdo en el Sistema Integral de Seguimiento de Expedientes.
+
+SEXTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, y las Direcciones Generales de Gestión Judicial; y de Tecnologías de la Información, llevarán a cabo la revisión integral del funcionamiento y operación de la gestión judicial de los Centros de Justicia Penal Federal, así como las acciones necesarias para el cumplimiento del presente Acuerdo.
+
+SÉPTIMO. La aplicación de este Acuerdo será respecto del ingreso de nuevos asuntos a partir de su entrada en vigor.
