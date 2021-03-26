@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-y-gestion-integral-de-residuos-para-el-57181"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-28"
-last_updated: "2019-02-22"
+last_updated: "2021-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "BCN"
 ---
 # LEY DE PREVENCION Y GESTION INTEGRAL DE RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 26 DE MARZO DE 2021; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS TREINTA DÍAS NATURALES SIGUIENTES AL DE SU PUBLICACIÓN.]</small>
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE FEBRERO DE 2019 NO APLICA AL ARTICULADO DEL DECRETO 278 PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 28 de septiembre de 2007.
 
@@ -1284,3 +1282,35 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 26 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 205 MEDIANTE EL CUAL SE APRUEBA LA CREACIÓN DE LA LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley para la Prevención y la Gestión Integral de los Residuos Sólidos del Estado de Baja California, publicada en el Periódico Oficial del Estado, publicada (sic) Periódico Oficial No. 40, de fecha 28 de septiembre de 2007, Tomo CXIV.
+
+TERCERO. Las autoridades Estatales y Municipales a las que hace referencia el presente Decreto, emitirán en un plazo no mayor a trescientos sesenta y cinco días naturales contados a partir de la entrada en vigor de la presente Ley, los reglamentos correspondientes.
+
+CUARTO. En tanto se expiden los nuevos reglamentos que regulen aspectos sustantivos y adjetivos de este mandato, seguirán aplicándose en lo conducente en todo lo que no se opongan a esta Ley, las disposiciones legales, reglamentarias y administrativas que regulaban los actos previstos en la Ley anterior.
+
+QUINTO. Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de otros ordenamientos, se tramitarán y resolverán conforme a lo dispuesto en los mismos.
+
+SEXTO.- En relación con el establecimiento de metas progresivas de recuperación, valorización o aprovechamiento de residuos plásticos, se debe transitar de modelos de un solo uso a modelos reusables, reciclables, compostables, aprovechables o valorizables para 2030.
+
+SÉPTIMO.- En relación con las metas progresivas de sustitución de material virgen por material de plástico reciclado se debe alcanzar al menos
+
+PORCENTAJE DE MATERIAL RECICLADO
+
+ENTRADA EN VIGOR
+
+20% 2025
+
+30% 2030
+
+Quedan exceptuados aquellos que, por motivos de inocuidad o preservación de alimentos, salud, uso médico, higiénicos sin incluir sus envases, no tengan una opción tecnológica y económicamente viable.
+
+OCTAVO.- Los residuos provenientes de productos plásticos de un solo uso innecesarios deberán eliminarse progresivamente para el 2030.
+
+NOVENO.- Los residuos provenientes de productos plásticos que contengan microplásticos añadidos intencionalmente deberán eliminarse para el 2022.
