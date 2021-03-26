@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-servicio-de-la-defensoria-publica-del-estado-de-86569"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-16"
-last_updated: "2020-01-22"
+last_updated: "2021-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SERVICIO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2021.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de diciembre de 2011.
 
@@ -103,23 +103,25 @@ Se otorgará la Asistencia Jurídica:
 
 I. En materia penal, a toda persona a quien se le atribuya una conducta delictiva que no cuente con un abogado en términos de lo que dispone la Constitución Política de los Estados Unidos Mexicanos;
 
-II. En materia familiar, a cualquier persona y de manera preferente a quienes carezcan de recursos económicos para pagar los honorarios de un abogado particular;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+II. En materia familiar, a cualquier persona y de manera preferente a quienes carezcan de recursos económicos para pagar los honorarios de un abogado o abogada particular, tengan alguna discapacidad o sean personas adultas mayores;
 
-III. En materia civil y administrativa, a cualquier persona y de manera preferente, a quienes acrediten que por razones económicas, no están en condiciones de cubrir los honorarios a un abogado particular;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2020)</small>
+III. En materia civil y administrativa, a cualquier persona y de manera preferente, a quienes acrediten que, por razones económicas, no están en condiciones de cubrir los honorarios a un abogado o abogada particular, tengan alguna discapacidad o sean personas adultas mayores;
 
-IV. En materia mercantil, a cualquier persona física y de manera preferente a aquella que tenga el carácter de deudor y que acredite la falta de recursos económicos para contratar a un abogado particular;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2021)</small>
+
+IV. En materia mercantil, a cualquier persona física y de manera preferente a aquella que tenga el carácter de deudor y que acredite la falta de recursos económicos para contratar a un abogado o abogada particular, tengan alguna discapacidad o sean personas adultas mayores;
 
 > <small>(REFORMADA, P.O. 22 DE ENERO DE 2020)</small>
 
 V. En materia de adolescentes, a cualquier persona y de manera preferente a quienes acrediten que, por razones económicas, no están en condiciones de cubrir los honorarios a un abogado particular; y
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2021)</small>
 
-VI. En materia laboral, a cualquier persona y de manera preferente a quienes tengan la calidad de trabajador o sus beneficiarios que acrediten que, por razones económicas, no están en condiciones de cubrir los honorarios a un abogado particular.
+VI. En materia laboral, a cualquier persona y de manera preferente a quienes tengan la calidad de trabajador o sus beneficiarios que acrediten que, por razones económicas, no están en condiciones de cubrir los honorarios a un abogado o abogada particular, tengan alguna discapacidad o sean personas adultas mayores.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
@@ -129,7 +131,9 @@ En caso de que el usuario perteneciere a un pueblo o comunidad indígena, el Def
 
 Los criterios para determinar la preferencia en el otorgamiento de la Asistencia Jurídica son los que se establecen en este artículo y deberán aplicarse en el siguiente orden:
 
-I. Si la posición de las partes es desigual, porque una de ellas es campesina, discapacitada, de notorio atraso intelectual, es o pertenece a un pueblo o comunidad indígena, carece de instrucción, tiene alguna otra situación de desventaja como manifiesta pobreza, o es de aquéllas que por disposición de la ley merezcan especial protección, la Asistencia Jurídica se otorgará a favor de ésta;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2021)</small>
+
+I. Si la posición de las partes es desigual, porque una de ellas es campesina, es o pertenece a un pueblo o comunidad indígena, carece de instrucción, presenta alguna discapacidad o tiene alguna otra situación de desventaja como manifiesta pobreza, o es de aquéllas que por disposición de la ley merezcan especial protección, la Asistencia Jurídica se otorgará a favor de ésta;
 
 II. La Asistencia Jurídica se otorgará a favor de la parte que trate de evitarse perjuicios, y no de la que pretenda obtener lucro;
 
@@ -181,7 +185,9 @@ Las dependencias y entidades del Estado en el ámbito de su competencia, deberá
 
 Por tanto, están obligados a prestar auxilio a los Defensores Públicos, a facilitar el ejercicio de sus funciones, y a proporcionar la información que requieran, siempre y cuando no sea de índole reservada o confidencial, así como todas y cada una de las certificaciones, constancias y copias cuya expedición no cause el pago de derechos.
 
-La Procuraduría General de Justicia del Estado, el Tribunal Superior de Justicia del Estado y los Tribunales Administrativos del Estado, proporcionarán en sus locales, un espacio físico digno, apropiado y suficiente para la actuación de los Defensores Públicos adscritos a los mismos.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2021)</small>
+
+La Fiscalía General del Estado de Puebla, el Tribunal Superior de Justicia del Estado y los Tribunales Administrativos del Estado, proporcionarán en sus locales, un espacio físico digno, apropiado y suficiente para la actuación de los Defensores Públicos adscritos a los mismos.
 
 ###### ARTÍCULO 12.
 
@@ -590,6 +596,14 @@ TERCERO. Para los efectos de este ordenamiento se tomarán en cuenta los artícu
 P.O. 22 DE ENERO DE 2020.
 
 > <small>[N. DE E. TANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES IV Y V DEL ARTÍCULO 6; Y ADICIONA LA FRACCIÓN VI AL 6, DE LA LEY DEL SERVICIO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE PUEBLA”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II, III, IV Y VI DEL ARTÍCULO 6, LA FRACCIÓN I DEL 7 Y EL ÚLTIMO PÁRRAFO DEL 11 DE LA LEY DEL SERVICIO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
