@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2021-01-14"
+last_updated: "2021-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2021.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -67,7 +67,9 @@ V.- Determinar los derechos y obligaciones de los usuarios y prestadores de los 
 
 VI.- Promover la creación, conservación, mejoramiento, protección y aprovechamiento de los recursos y atractivos turísticos del Estado, preservando el equilibrio ecológico, el cuidado del medio ambiente, y el desarrollo urbano, rural y social;
 
-VII.- Determinar los mecanismos e instrumentos para la conservación, mejoramiento, protección, promoción y aprovechamiento de los recursos y atractivos turísticos estatales y municipales, preservando el patrimonio natural, histórico, arquitectónico y cultural, con base en los criterios determinados por las leyes en la materia, así como contribuir a la creación o desarrollo de nuevos atractivos turísticos, en apego al marco jurídico vigente;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2021)</small>
+
+VII.- Determinar los mecanismos e instrumentos para la conservación, mejoramiento, protección, promoción y aprovechamiento de los recursos, pueblos mágicos y atractivos turísticos estatales y municipales, preservando el patrimonio natural, histórico, arquitectónico y cultural, con base en los criterios determinados por las leyes en la materia, así como contribuir a la creación o desarrollo de nuevos atractivos turísticos, en apego al marco jurídico vigente;
 
 VIII.- Fomentar las acciones de planeación, coordinación, promoción, programación, capacitación, concertación, verificación y vigilancia del desarrollo turístico entre la Federación, el Estado y los Municipios en el ámbito de sus respectivas competencias y los sectores social y privado;
 
@@ -221,9 +223,11 @@ La Secretaría promoverá la participación del Estado en los programas turísti
 
 ### CAPÍTULO III. DEL EJECUTIVO ESTATAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2021)</small>
+
 ###### Artículo 13.
 
-Corresponde al Titular del Poder Ejecutivo Estatal, por conducto de la Secretaría, las siguientes atribuciones:
+Corresponde a la persona Titular del Poder Ejecutivo Estatal, por conducto de la Secretaría, las siguientes atribuciones:
 
 I.- Fomentar, conducir y evaluar la política turística en el Estado;
 
@@ -241,7 +245,9 @@ VII.- Formular, ejecutar y evaluar el Programa de Ordenamiento, con la participa
 
 VIII.- Participar en la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable en los municipios del Estado, conforme a los convenios que al efecto se suscriban;
 
-IX.- Instrumentar las acciones de promoción de las actividades y destinos turísticos del Estado;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2021)</small>
+
+IX.- Instrumentar las estrategias de promoción de las actividades, destinos turísticos y pueblos mágicos del Estado;
 
 X.- Conducir la política de información y difusión en materia turística en medios locales, nacionales e internacionales;
 
@@ -297,9 +303,17 @@ VII.- Promover entre los prestadores de servicios turísticos, el fomento, const
 
 VIII.- Coordinar con las demás dependencias y entidades estatales y municipales para efectuar obras de infraestructura y urbanización, así como realizar edificaciones en Centros de Desarrollo Turístico, que permitan una oferta masiva o especializada en servicios;
 
-IX.- Crear y consolidar Centros Turísticos en las regiones o municipios con actividad turística, en los que habrán de considerarse los diseños urbanos y arquitectónicos de la zona, preservando el equilibrio ecológico y garantizando la comercialización de los servicios turísticos en congruencia con el desarrollo económico y social de las regiones del Estado; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2021)</small>
 
-X.- Conocer y opinar sobre los Programas Municipales de Turismo y verificar su congruencia con el Programa Estatal de Turismo.
+IX.- Crear y consolidar Centros Turísticos en las regiones o municipios con actividad turística, en los que habrán de considerarse los diseños urbanos y arquitectónicos de la zona, preservando el equilibrio ecológico y garantizando la comercialización de los servicios turísticos en congruencia con el desarrollo económico y social de las regiones del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MARZO DE 2021)</small>
+
+X.- Impulsar la promoción, desarrollo turístico y consolidación de los pueblos mágicos del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE MARZO DE 2021)</small>
+
+XI.- Conocer y opinar sobre los Programas Municipales de Turismo y verificar su congruencia con el Programa Estatal de Turismo.
 
 ###### Artículo 15.
 
@@ -477,7 +491,9 @@ II.- Las necesidades de infraestructura y servicios complementarios en los centr
 
 III.- El aprovechamiento eficiente y racional de los recursos naturales, salvaguardando en todo caso el equilibrio ecológico y protección al ambiente;
 
-IV.- Los programas turísticos y las acciones que de ellos se deriven, habrán de aprovechar óptimamente los principales atractivos turísticos del Estado y difundirlos ampliamente a nivel local, nacional e internacional; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2021)</small>
+
+IV.- Los programas turísticos, las estrategias y las acciones que de ellos se deriven, habrán de aprovechar óptimamente los principales atractivos turísticos y los pueblos mágicos del Estado y difundirlos ampliamente a nivel local, nacional e internacional; y
 
 V.- El desarrollo turístico del Estado se fundará esencialmente en la coordinación de acciones con el Gobierno Federal, con otras Entidades Federativas, con los Municipios, con la participación de los sectores social y privado.
 
@@ -891,7 +907,9 @@ V.- Coordinar sus acciones con las Dependencias y Entidades Federales y demarcac
 
 VI.- Coordinar sus acciones con los prestadores de servicios turísticos del Estado, para planificar en conjunto y hacerlos partícipes de los proyectos de promoción;
 
-VII.- Difundir los atractivos naturales y culturales, nuevos destinos, zonas turísticas y servicios turísticos que ofrezca el Estado y sus municipios a nivel nacional y en el extranjero;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2021)</small>
+
+VII.- Difundir los atractivos naturales y culturales, nuevos destinos, zonas turísticas, pueblos mágicos y servicios turísticos que ofrezca el Estado y sus municipios a nivel nacional y en el extranjero;
 
 VIII.- Fomentar la creación, venta y distribución de productos artesanales originarios de las regiones del Estado;
 
@@ -1322,3 +1340,13 @@ P.O. 14 DE ENERO DE 2021.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 2, EL PRIMER PÁRRAFO Y LA FRACCIÓN IX DEL 13, LAS FRACCIONES IX Y X DEL 14, LA FRACCIÓN IV DEL 26, LA FRACCIÓN VII DEL ARTÍCULO 61, Y SE ADICIONA LA FRACCIÓN XI DEL ARTÍCULO 14, TODOS DE LA LEY DE TURISMO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo Estatal deberá realizar las modificaciones al Reglamento de la presente Ley, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
