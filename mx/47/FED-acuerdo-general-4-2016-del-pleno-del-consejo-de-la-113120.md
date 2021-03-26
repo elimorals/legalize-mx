@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-4-2016-del-pleno-del-consejo-de-la-113120"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-02-26"
-last_updated: "2020-09-21"
+last_updated: "2021-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-02-18"
 
 ACUERDO GENERAL 4/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN NEZAHUALCÓYOTL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2021.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 26 de febrero de 2016.
 
@@ -127,21 +127,25 @@ El domicilio del Centro será el ubicado en Avenida Bordo de Xochiaca, Lote 2, P
 
 Toda la correspondencia relacionada con los asuntos de competencia del Centro deberá dirigirse al domicilio indicado.
 
+> <small>(REFORMADO POR EL PUNTO DECIMOCTAVO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DEL ESQUEMA DE GESTIÓN JUDICIAL BAJO LA REGLA JUEZ-CAUSA, D.O.F. 26 DE MARZO DE 2021)</small>
+
 ###### Artículo 8.
 
 El Centro contará con una Oficialía de Partes Común, que dará servicio a los juzgadores que lo integran, de conformidad con las disposiciones aplicables.
 
-El sistema de turno y distribución de asuntos será automatizado y aleatorio, con excepción de lo siguiente:
+El sistema de turno y distribución de asuntos será automático y equitativo, de conformidad con lo dispuesto por el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la asignación de audiencias y asuntos, la rendición de estadística y los libros electrónicos de control en los Centros de Justicia Penal Federal, y en atención a lo siguiente:
 
-I. Los asuntos urgentes que se reciban durante las guardias, cuya atención corresponderá al juez de Distrito que deba cubrirla; y
+I. Los asuntos urgentes que se reciban durante las guardias, deberán ser atendidos por la o el juez de Distrito Especializado en el sistema penal acusatorio en funciones de control y enjuiciamiento que deba cubrirla, o el juzgador de Ejecución, para los asuntos previstos en la Ley Nacional de Ejecución Penal; y
 
-II. Los asuntos relacionados durante las etapas procesales de investigación, e intermedia o de preparación del juicio.
+II. Los asuntos relacionados con la materia de ejecución penal, serán competencia del Juez de Ejecución.
 
-Corresponde a las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información el diseño operativo del sistema automatizado de turno y distribución de asuntos; y la elaboración de sus lineamientos, los cuales serán sometidos directamente por éstas a consideración y, en su caso, aprobación de la Comisión de Creación de Nuevos Órganos.
+Corresponde a las Direcciones Generales de Gestión Judicial y de Tecnologías de la Información el diseño operativo del sistema automatizado de turno y distribución de asuntos; y la elaboración de sus lineamientos, con la opinión de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, los cuales serán sometidos directamente por éstas a consideración y, en su caso, aprobación de la Comisión de Creación de Nuevos Órganos.
 
-En el diseño del sistema se deberá tomar en consideración las guardias, las vacaciones, las licencias, los impedimentos y las sustituciones de juzgadores.
+En el diseño del sistema se deberán tomar en consideración las guardias, las vacaciones, las licencias, los impedimentos y las sustituciones de juzgadores.
 
-En aquellas situaciones en que por caso fortuito o fuerza mayor no pueda utilizarse el sistema automatizado, el Oficial de Partes con la anuencia y supervisión del Administrador turnará los asuntos nuevos en el estricto orden secuencial en que se presenten; y los relacionados a que se refiere la fracción II de este artículo al juzgador correspondiente, sin embargo, deberá observarse que aquellos jueces de Distrito que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales.
+En aquellas situaciones en que por caso fortuito o fuerza mayor no pueda utilizarse el sistema automatizado, el Oficial de Partes o la persona que el Administrador determine, con la autorización y supervisión de este, turnará los asuntos nuevos procurando el equilibrio de su distribución entre las y los jueces de control, conforme el esquema Juez-causa.
+
+Los restantes asuntos relacionados se turnarán al juzgador correspondiente que haya conocido previamente a las audiencias atinentes a la etapa de juicio, de modo que aquellos jueces de Distrito que hayan intervenido en alguna etapa del procedimiento anterior, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales.
 
 ###### Artículo 9.
 
@@ -854,3 +858,23 @@ D.O.F. 21 DE SEPTIEMBRE DE 2020.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+D.O.F. 26 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DEL ESQUEMA DE GESTIÓN JUDICIAL BAJO LA REGLA JUEZ-CAUSA”.]
+
+PRIMERO. La entrada en vigor del presente Acuerdo estará sujeta a que los Lineamientos para el turno automatizado y equilibrado de los asuntos en los Centros de Justicia Penal Federal hayan sido autorizados por la Comisión de Creación de Nuevos Órganos, y su implementación en el Sistema Integral de Seguimiento de Expedientes se hubiere efectuado.
+
+Para esto último, la Dirección General de Gestión Judicial realizará el aviso correspondiente.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+CUARTO. Las áreas administrativas del Consejo de la Judicatura Federal, en el ámbito de su competencia, adoptarán las medidas necesarias para la implementación del presente Acuerdo.
+
+QUINTO. La Dirección General de Gestión Judicial difundirá los instructivos necesarios para el cumplimiento de este Acuerdo en el Sistema Integral de Seguimiento de Expedientes.
+
+SEXTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, y las Direcciones Generales de Gestión Judicial; y de Tecnologías de la Información, llevarán a cabo la revisión integral del funcionamiento y operación de la gestión judicial de los Centros de Justicia Penal Federal, así como las acciones necesarias para el cumplimiento del presente Acuerdo.
+
+SÉPTIMO. La aplicación de este Acuerdo será respecto del ingreso de nuevos asuntos a partir de su entrada en vigor.
