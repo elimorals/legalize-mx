@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2021-03-10"
+last_updated: "2021-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el día 30 de abril de 1985.
 
@@ -588,6 +588,14 @@ Toda persona tiene derecho a que se respete:
 2, Su presencia física;
 
 3, El secreto epistolar, telefónico, profesional, testamentario y de su vida privada.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2021)</small>
+
+4, Su orientación sexual y,
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2021)</small>
+
+5, Su identidad de género autopercibida.
 
 ###### Artículo 77.
 
@@ -1691,7 +1699,9 @@ II.- Todo individuo tiene derecho a desarrollarse y ser educado dentro de su pro
 
 Cada progenitor debe procurar el respeto y el acercamiento constante de las y los menores con el otro ascendiente, por lo que cada uno de los ascendientes deberá evitar, en todo momento, cualquier acto de manipulación, aleccionamiento o alienación parental, entendiéndose esta última como la inducción que un progenitor realiza hacia sus hijas o hijos, mediante la desaprobación, la manipulación psicológica, distintas estrategias o critica tendiente a obtener la denigración exagerada y/o injustificada del otro progenitor, para obstaculizar o destruir sus vínculos y producir en la o el menor, rechazo, rencor, antipatía, desagrado, odio, desprecio o temor hacia éste.
 
-III.- Los integrantes de la familia tienen derecho a que los demás miembros respeten su integridad física y psíquica, de manera que no se afecten su sano desarrollo individual ni su plena incorporación al núcleo social;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2021)</small>
+
+III.- Los integrantes de la familia tienen derecho a que los demás miembros respeten su integridad física y psíquica, así como su orientación sexual y, en su caso, su identidad de género autopercibida, de manera que no se afecten su sano desarrollo individual ni su plena incorporación al núcleo social;
 
 > <small>(REFORMADA, P.O. 24 DE MARZO DE 2010)</small>
 
@@ -5565,9 +5575,11 @@ Los registros del estado civil sólo hacen fe respecto del acto que debe ser con
 
 Para probar el estado civil adquirido por poblanos fuera de la República Mexicana, se estará a lo dispuesto en las leyes federales.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2021)</small>
+
 ###### Artículo 854.
 
-Los actos del estado civil relativos a la misma persona, deberán anotarse, en el acta de nacimiento de ésta y las anotaciones se insertarán en todos los testimonios que se expidan.
+Los actos del estado civil relativos a la misma persona deberán anotarse en el acta de nacimiento de ésta y las anotaciones se insertarán en todos los testimonios que se expidan, con excepción de lo dispuesto para el reconocimiento de la identidad de género autopercibida, lo cual se regirá conforme lo establece el presente Código.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1997)</small>
 
@@ -5678,6 +5690,36 @@ I.- Antes que el menor cumpla dieciocho años de edad, el Juez del Registro del 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1997)</small>
 
 II.- El registro de nacimiento de una persona que tenga más de dieciocho años de edad, sólo podrá ser autorizado por el Director del Registro del Estado Civil, una vez cumplidos los trámites que dispongan las Leyes y Reglamentos aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2021)</small>
+
+###### Artículo 875 Bis.
+
+Sin perjuicio de lo dispuesto en el artículo anterior, cualquier persona puede pedir el levantamiento de una nueva acta de nacimiento para el reconocimiento de su identidad de género autopercibida.
+
+Se entenderá por identidad de género autopercibida, la condición personal e interna, tal y como cada persona se percibe a sí misma, la cual puede corresponder o no al sexo asignado en el registro primario. Incluye la vivencia personal del cuerpo, que podría o no involucrar la modificación de la apariencia o funcionalidad corporal, siempre que la misma sea libremente escogida.
+
+Dicho reconocimiento se solicitará y llevará a cabo ante la Dirección del Registro Civil del Estado o ante la autoridad del registro civil del municipio o localidad en donde se haya declarado el nacimiento de la o el solicitante, según su interés y conveniencia, previo cumplimiento de las formalidades establecidas en el presente ordenamiento y la reglamentación correspondiente, para lo cual no será requisito acreditar intervención quirúrgica alguna, terapias u otro diagnóstico o procedimiento de modificación corporal o de apariencia física, incluyendo la vestimenta, modo de hablar, modales, ni ninguna otra condición que dañe la dignidad humana.
+
+Los efectos de la nueva acta de nacimiento por la identidad de género autopercibida, serán oponibles a terceros desde de su registro.
+
+Los derechos y obligaciones contraídas con anterioridad al proceso administrativo de reconocimiento de identidad de género autopercibida y a la expedición de la nueva acta, no se modificarán ni se extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2021)</small>
+
+###### Artículo 875 Ter.
+
+Para solicitar el levantamiento de una nueva acta de nacimiento, para el reconocimiento de la identidad de género autopercibida, se deberá cumplir con lo siguiente:
+
+I.- Ser de nacionalidad mexicana;
+
+(NOTA: EL 7 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 73/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE LOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE PUEBLA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+II.- TENER 18 AÑOS DE EDAD CUMPLIDOS;
+
+III.- Manifestar el nombre completo y los datos registrales asentados en el acta primigenia; y
+
+IV.- Manifestar el nombre sin apellidos y el género solicitados.
 
 #### Sección Tercera.- Actas de Reconocimiento
 
@@ -5993,11 +6035,11 @@ Cuando se presente la persona declarada ausente o cuya muerte se presumía o se 
 
 #### Sección Décima.- Rectificación de las actas del estado civil
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2021)</small>
 
 ###### Artículo 930.
 
-La rectificación o modificación de un acta de estado civil, se hará ante el Poder Judicial y en virtud de sentencia de éste; salvo el reconocimiento que voluntariamente haga un padre de su hijo ante el Juez del Registro del Estado Civil correspondiente.
+La rectificación o modificación de un acta de estado civil, se hará ante el Poder Judicial y en virtud de sentencia de éste; salvo el reconocimiento que voluntariamente haga un padre de su hijo ante el Juez del Registro del Estado Civil correspondiente, o en su caso de reconocimiento de identidad de género autopercibida.
 
 ###### Artículo 931.
 
@@ -6008,6 +6050,10 @@ I.- Por falsedad, cuando se alegue que el suceso registrado no acaeció;
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia esencial, así como en el caso en que concurran defectos esenciales y accidentales en el contenido de las actas.
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2021)</small>
+
+III.- A solicitud por el reconocimiento de identidad de género autopercibida, en ejercicio al libre desarrollo de la personalidad y se estará a lo dispuesto en el presente ordenamiento
 
 ###### Artículo 932.
 
@@ -8721,9 +8767,17 @@ La ley establece las consecuencias de derecho que producen los actos jurídicos 
 
 Se aplicarán a los actos jurídicos, en su caso, las siguientes disposiciones:
 
-I.- Los actos jurídicos se rigen por las disposiciones de este Código que reglamentan en general a los contratos y a la declaración unilateral de voluntad, en tanto ellas no se opongan a la naturaleza propia del acto; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2021)</small>
 
-II.- Las disposiciones que rigen al acto jurídico en general, son aplicables a los contratos y a la declaración unilateral de voluntad, en tanto esas disposiciones no se opongan a la naturaleza propia del contrato o declaración unilateral.
+I.- Los actos jurídicos se rigen por las disposiciones de este Código que reglamentan en general a los contratos y a la declaración unilateral de voluntad, en tanto ellas no se opongan a la naturaleza propia del acto;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2021)</small>
+
+II.- Las disposiciones que rigen al acto jurídico el (sic) general, son aplicables a los contratos y a la declaración unilateral de voluntad, en tanto esas disposiciones no se opongan a la naturaleza propia del contrato o declaración unilateral; y
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2021)</small>
+
+III.- Los actos jurídicos y sus consecuencias no se extinguen por el reconocimiento de la identidad de género autopercibida, por lo que subsisten y se ligan a la persona que las adquirió hasta su total cumplimiento.
 
 ### CAPITULO TERCERO.- FUENTES DE LAS OBLIGACIONES
 
@@ -20666,3 +20720,13 @@ P.O. 10 DE MARZO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 291, EL 854, EL 930, LAS FRACCIONES I Y II DEL 1432; Y ADICIONA LOS NUMERALES 4 Y 5 AL ARTÍCULO 76, EL 875 BIS, EL 875 TER, LA FRACCIÓN III AL 931, Y LA FRACCIÓN III AL 1432, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Secretaría de Gobernación contará con sesenta días hábiles para la adecuación de la reglamentación aplicable, en términos del presente Decreto.
