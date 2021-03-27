@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-de-apoyo-al-desarrollo-tecnologico-antes-1476
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-30"
-last_updated: "2016-10-03"
+last_updated: "2021-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO DE APOYO AL DESARROLLO TECNOLÓGICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 30 de junio de 1999.
 
@@ -57,9 +57,9 @@ LEY DEL INSTITUTO DE APOYO AL DESARROLLO TECNOLÓGICO
 
 Se crea un Organismo Público Descentralizado con personalidad jurídica y patrimonio propios que se denominará INSTITUTO DE APOYO AL DESARROLLO TECNOLOGICO y tendrá su domicilio en la Ciudad de Chihuahua, Chih.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
 
-Para los efectos de esta Ley, se entenderá Instituto de Apoyo al Desarrollo Tecnológico cuando se refiere a INADET o el INADET indistintamente, sectorizado a la Secretaría de Economía.
+Para los efectos de esta Ley, se entenderá Instituto de Apoyo al Desarrollo Tecnológico cuando se refiere a INADET o el INADET, indistintamente, sectorizado a la Secretaría de Innovación y Desarrollo Económico.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2003)</small>
 
@@ -67,9 +67,9 @@ Para los efectos de esta Ley, se entenderá Instituto de Apoyo al Desarrollo Tec
 
 El INADET tiene por objeto:
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
 
-a) Impartir e impulsar el aprendizaje y la formación para el trabajo en la Entidad, propiciando la mejor calidad y vinculación de dicha formación con el aparato productivo y las necesidades de desarrollo regional, estatal y nacional, proporcionando capacitación avanzada, entrenamiento y certificación en alta tecnología en el Estado de Chihuahua a profesionistas, técnicos y obreros para que puedan ingresar al mercado de trabajo como mano de obra altamente calificada, particularmente en todo lo relacionado a máquinas y herramientas y especialmente en la manufactura o elaboración de partes complejas y de precisión, construcción de equipo de alta tecnología, manufactura y reparación de moldes, manufactura de dados de precisión y en el diseño de maquinaria, teniendo la facultad el INADET de expedir diplomas, reconocimientos especiales, y otros documentos que así se requieren, conforme a las disposiciones aplicables.
+a) Impartir e impulsar el aprendizaje y la formación para el trabajo en la Entidad, propiciando la mejor calidad y vinculación de dicha formación con el aparato productivo y las necesidades de desarrollo regional, estatal y nacional, proporcionando capacitación avanzada, entrenamiento y certificación en alta tecnología en el Estado de Chihuahua a personas profesionistas, técnicas y obreras para que puedan ingresar al mercado de trabajo como mano de obra altamente calificada, particularmente en todo lo relacionado a máquinas y herramientas y especialmente en la manufactura o elaboración de partes complejas y de precisión, construcción de equipo de alta tecnología, manufactura y reparación de moldes, manufactura de dados de precisión y en el diseño de maquinaria, teniendo la facultad el INADET de expedir diplomas, reconocimientos especiales, y otros documentos que así se requieren, conforme a las disposiciones aplicables.
 
 b) Mediante las funciones de capacitación y entrenamiento antes señaladas, proporcionar apoyo técnico a la industria existente y posibilitar una infraestructura industrial que facilite el establecimiento en el Estado de empresas de alta tecnología.
 
@@ -127,9 +127,9 @@ o) Celebrar convenios, contratos y acuerdos con los sectores productivos de bien
 
 p) Promover esquemas de vinculación efectiva que permita la integración de la oferta y demanda de egresados de los niveles de educación media superior y superior de escuelas de corte tecnológico-industrial.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
 
-q) Establecer programas para vincular a los egresados de las instituciones educativas de los niveles medio superior, superior y el sector industrial, con el fin de facilitar el ingreso temporal de alumnos destacados a empresas internacionales, para que realicen las prácticas profesionales en sus centros de investigación y desarrollo, ubicados en el extranjero.
+q) Establecer programas para vincular a quienes egresen de las instituciones educativas de los niveles medio superior, superior y el sector industrial, con el fin de facilitar el ingreso temporal del alumnado destacado a empresas internacionales, para que realicen las prácticas profesionales en sus centros de investigación y desarrollo, ubicados en el extranjero.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
 
@@ -139,45 +139,49 @@ Son unidades de capacitación del INADET, para su establecimiento y operación e
 
 ### CAPITULO SEGUNDO. DE LA ORGANIZACION Y FUNCIONAMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2021)</small>
 
 ###### Artículo 4°.
 
-La administración del INADET estará a cargo de un Consejo Directivo que será el órgano máximo de Gobierno y de un Director General.
+La administración del INADET estará a cargo de un Consejo Directivo que será el órgano máximo de Gobierno y de la persona titular de la Dirección General.
 
 El Consejo Directivo se integrará de la manera siguiente:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-I. Por los CC. Secretarios de Economía y de Educación y Deporte del Estado de Chihuahua.
+I. Por las personas titulares de la Secretaría de Innovación y Desarrollo Económico, y de Educación y Deporte.
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-II. Por el C. Secretario de Hacienda.
+II. Por la persona titular de la Secretaría de Hacienda.
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-III. Por el C. Subsecretario de Educación Media Superior de la Secretaría de Educación Pública.
+III. Por quien ocupe la Subsecretaría de Educación Media Superior de la Secretaría de Educación Pública.
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-IV. Dos representantes de la Secretaría de Educación Pública designados por el C. Secretario de Educación Pública.
+IV. Dos personas representantes de la Secretaría de Educación Pública designadas por su titular.
 
-V. Un representante del sector social que será nombrado por el Consejo Directivo a propuesta del Titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+V. Una persona representante del sector social que será nombrada por el Consejo Directivo a propuesta del Titular del Poder Ejecutivo del Estado.
 
-VI. Dos representantes del sector productivo que participen en el financiamiento del INADET, mediante un patronato constituido para apoyar la dirección del mismo. Estos representantes serán designados por el propio Patronato de conformidad con sus Estatutos, asistiendo con voz y voto.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+VI. Dos personas representantes del sector productivo que participen en el financiamiento del INADET, mediante un patronato constituido para apoyar la dirección del mismo. Quienes serán designadas por el propio Patronato de conformidad con sus Estatutos, asistiendo con voz y voto.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
 
 ###### Artículo 5°.
 
-El Consejo Directivo será presidido por el Secretario de Economía o por la persona que este designe y deberá sesionar en forma ordinaria cuando menos cuatro veces por año, y en forma extraordinaria cuando sea necesario para su debido funcionamiento. El Secretario de Educación y Deporte será el Secretario del Consejo.
+El Consejo Directivo será presidido por la persona titular de la Secretaría de Innovación y Desarrollo Económico o por quien esta designe, y deberá sesionar en forma ordinaria cuando menos cuatro veces por año, y en forma extraordinaria cuando sea necesario para su debido funcionamiento. La persona titular de la Secretaría de Educación y Deporte será quien ocupe la Secretaría del Consejo.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
 
 ###### Artículo 6°.
 
-El cargo de Consejero es honorario y los miembros del Consejo designarán a sus suplentes.
+El cargo de Consejera o Consejero es honorario y quienes integran el Consejo designarán a sus suplentes.
 
 ###### Artículo 7°.
 
@@ -219,25 +223,25 @@ VIII. Conocer y observar, en su caso, los estados financieros del Instituto.
 
 IX. Aprobar, de acuerdo con las leyes aplicables y el reglamento de la Ley de Entidades Paraestatales del Estado de Chihuahua, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que debe celebrar el INADET, con terceros en obras públicas, adquisiciones, arrendamientos y prestaciones de servicios relacionados con bienes muebles, en sus unidades o centros.
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-X. Autorizar el apoyo, fomento y promoción de los planes y programas que sean propuestos por el Director General del INADET, o por los Directores de las unidades que se establezcan en el Estado, para llevar a cabo la función de capacitación y entrenamiento propios del INADET.
+X. Autorizar el apoyo, fomento y promoción de los planes y programas que sean propuestos por la persona titular de la Dirección General del INADET, o por las y los directivos de las unidades que se establezcan en el Estado, para llevar a cabo la función de capacitación y entrenamiento propios del INADET.
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-XI. Nombrar a propuesta del Director General, y remover a los funcionarios de las unidades o centros que ocupen cargos en las dos jerarquías administrativas inferiores a la de aquel; aprobar la fijación de sus sueldos y prestaciones de conformidad con los presupuestos de las unidades o centros y lineamientos y políticas en la materia establecidos por la Secretaría de Hacienda, así como a lo establecido en esta Ley y en el estatuto del INADET.
+XI. Nombrar a propuesta de la persona titular de la Dirección General, y remover al personal de las unidades o centros que ocupen cargos en las dos jerarquías administrativas inferiores a la de aquel; aprobar la fijación de sus sueldos y prestaciones de conformidad con los presupuestos de las unidades o centros y lineamientos y políticas en la materia establecidos por la Secretaría de Hacienda, así como a lo establecido en esta Ley y en el estatuto del INADET.
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
 XII. Aprobar las estrategias y políticas generales tendientes a la vinculación del INADET con el sector industrial, para el cumplimiento de su objeto.
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-XIII. Nombrar, a propuesta del Ejecutivo del Estado, al representante del sector social a que se refiere la fracción V del artículo 4 de esta Ley.
+XIII. Nombrar, a propuesta del Ejecutivo del Estado, a quienes representen el sector social a que se refiere la fracción V del artículo 4 de esta Ley.
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-XIV. Nombrar a los Directores de las unidades a partir de la terna propuesta por el Director General, así como removerlos también a propuesta del Director.
+XIV. Nombrar y remover a las personas titulares de las Direcciones de las unidades a partir de la terna propuesta por la persona titular de la Dirección General.
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
@@ -247,17 +251,17 @@ XV. Proponer, en caso de excedentes económicos, la constitución de reservas y 
 
 XVI. Establecer, con sujeción a las disposiciones legales relativas, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que requiera para la prestación de sus servicios.
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-XVII. Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General, con la intervención que corresponda a los Comisarios.
+XVII. Analizar y aprobar, en su caso, los informes periódicos que rinda la persona titular de la Dirección General, con la intervención que corresponda al Órgano Interno de Control.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-XVIII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros a favor del INADET cuando fuere notoria la imposibilidad práctica de su cobro, informando a las Secretarías de Hacienda y de (sic) Secretaría de la Función Pública del Estado, por conducto del Presidente del Consejo.
+XVIII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros a favor del INADET cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Hacienda y a la Secretaría de la Función Pública del Estado, por conducto de quien presida el Consejo.
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-XIX. Proporcionar al Comisario la información que le solicite, relacionada con las funciones que desarrolla el Consejo Directivo.
+XIX. Proporcionar al Órgano Interno de Control la información que le solicite, relacionada con las funciones que desarrolla el Consejo Directivo.
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
@@ -283,17 +287,23 @@ XXIV. Vigilar la administración del patrimonio y el funcionamiento del INADET.
 
 XXV. Las demás consignadas en esta Ley y su Estatuto.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
+
 ###### Artículo 8°.
 
-Los acuerdos del Consejo Directivo se tomarán por mayoría de votos de los miembros presentes; en caso de empate, el Presidente tendrá voto de calidad.
+Los acuerdos del Consejo Directivo se tomarán por mayoría de votos de los miembros presentes; en caso de empate, quien presida tendrá voto de calidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2021)</small>
 
 ###### Artículo 9°.
 
-El Presidente del Consejo Directivo tendrá las siguientes facultades:
+Quien presida el Consejo Directivo tendrá las siguientes facultades:
 
 I. Convocar a las sesiones ordinarias y a las extraordinarias que a su juicio sean necesarias, presidiendo las que en cada caso se celebren;
 
-II. Autorizar, en unión del Secretario, las actas y acuerdos de las sesiones;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
+
+II. Autorizar, en unión con quien ocupe la Secretaría, las actas y acuerdos de las sesiones;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
@@ -307,11 +317,11 @@ IV. Realizar y autorizar lo necesario para el mejor funcionamiento del INADET.
 
 V. Representar al Gobierno del Estado de Chihuahua ante los Organos de Gobierno y Asambleas de Asociados de los centros de investigación donde se tenga participación, cuando el titular del Poder Ejecutivo del Estado no pueda hacerlo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2021)</small>
 
 ###### Artículo 10°.
 
-El Director General del INADET, será nombrado y removido libremente por el Gobernador del Estado. El Director será el ejecutor de los acuerdos del Consejo Directivo y tendrá además las obligaciones y facultades siguientes:
+La persona titular de la Dirección General del INADET, será nombrada y removida libremente por la persona titular del Poder Ejecutivo del Estado. Dicha Dirección ejecutará los acuerdos del Consejo Directivo y tendrá además las obligaciones y facultades siguientes:
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
@@ -333,13 +343,13 @@ VI. Tomar las medidas pertinentes a fin de que las funciones de la entidad se re
 
 VII. Establecer los procedimientos para controlar la calidad de los servicios del INADET.
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-VIII. Proponer al Consejo Directivo el nombramiento de los servidores públicos de las unidades o centros de los dos primeros niveles jerárquicamente inferiores al suyo, la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto del gasto corriente aprobado por el propio Consejo, de conformidad a lo establecido en el Artículo 7 fracción X de esta Ley; pero podrá nombrar y remover libremente a los demás funcionarios y empleados de confianza, y sólo por causa justificada podrá remover a los trabajadores de base;
+VIII. Proponer al Consejo Directivo el nombramiento de las personas servidoras públicas de las unidades o centros de los dos primeros niveles jerárquicamente inferiores al suyo, la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto del gasto corriente aprobado por el propio Consejo, de conformidad a lo establecido en el artículo 7, fracción X de esta Ley; pero podrá nombrar y remover libremente a los demás funcionarios y empleados de confianza, y sólo por causa justificada podrá remover al personal de base;
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-IX. Proponer al Consejo Directivo el nombramiento y remoción de los Directores de las unidades del INADET.
+IX. Proponer al Consejo Directivo el nombramiento y remoción de las personas titulares de las Direcciones de las unidades del INADET.
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
@@ -351,23 +361,23 @@ XI. Establecer los sistemas de control necesarios para alcanzar las metas y obje
 
 XII. Presentar semestralmente al Consejo Directivo el informe del desempeño de las actividades del INADET, incluido el ejercicio de los presupuestos de ingresos y de egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Dirección General con las realizaciones alcanzadas;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-XIII. Establecer en las unidades o centros, los mecanismos de evaluación que destaquen la eficiencia y eficacia con que se desempeñó EL INADET y presentar al Consejo Directivo semestralmente la evaluación de gestión en detalle que previamente se acuerde con el Consejo y escuchando al Comisario;
+XIII. Establecer en las unidades o centros, los mecanismos de evaluación que destaquen la eficiencia y eficacia con que se desempeñó el INADET y presentar al Consejo Directivo semestralmente la evaluación de gestión en detalle que previamente se acuerde con el Consejo y escuchando al Órgano Interno de Control;
 
 XIV. Celebrar y otorgar toda clase de actos, contratos, convenios y documentos inherentes al objeto del Organismo;
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-XV. Suscribir, en su caso, los contratos colectivos e individuales que regulen las relaciones laborales del INADET con sus trabajadores, incluyendo al personal de las unidades del INADET que se establezcan en el Estado;
+XV. Suscribir, en su caso, los contratos colectivos e individuales que regulen las relaciones laborales del INADET con sus trabajadoras y trabajadores, incluyendo al personal de las unidades del INADET que se establezcan en el Estado;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-XVI. Implantar planes y programas para el mejoramiento y actualización profesional de los profesores e instructores que impartan los cursos de entrenamiento y capacitación de las unidades o centros;
+XVI. Implantar planes y programas para el mejoramiento y actualización profesional de las profesoras y los profesores e instructoras e instructores que impartan los cursos de entrenamiento y capacitación de las unidades o centros.
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-XVII. Dirigir, supervisar y evaluar las funciones de las unidades de entrenamiento y capacitación del INADET, así como conocer los informes y propuestas de sus Directores, promoviendo asimismo el aseguramiento de la calidad de dicho servicio;
+XVII. Dirigir, supervisar y evaluar las funciones de las unidades de entrenamiento y capacitación del INADET, así como conocer los informes y propuestas de las personas titulares de las Direcciones promoviendo asimismo el aseguramiento de la calidad de dicho servicio;
 
 XVIII. Asistir a las sesiones del Consejo con derecho a voz pero sin voto;
 
@@ -377,13 +387,13 @@ XIX. Someter a la decisión del Consejo Directivo los asuntos que sean de su com
 
 XX. Realizar, con sujeción a las directrices fijadas por el Consejo Directivo, los convenios, contratos, pedidos o acuerdos que debe celebrar el INADET con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-XXI. Representar al INADET con todas las facultades generales de un apoderado general para pleitos y cobranzas, actos de administración y de dominio, incluyendo aquellas facultades especiales que requieran de autorización o cláusula especial conforme a esta Ley o al Estatuto Orgánico u otras disposiciones legales o reglamentarias; en todos los actos jurídicos que tengan el fin de cumplir con su objeto; comparecer en juicios civiles, laborales o administrativos, incluso los de amparo y, en su caso, desistirse legalmente de las acciones intentadas ante las autoridades de los diversos órdenes de gobierno en lo que competa a las funciones y objetivos del Organismo; formular querellas y otorgar perdón; comprometer asuntos en arbitraje y celebrar transacciones; otorgar poderes, con la salvedad de que cuando se trate de ejercer el poder para actos de dominio o se confieran facultades para ejercitar actos de dominio que se refieran al patrimonio del INADET, se requerirá la autorización expresa del Consejo Directivo y comparecerán y firmarán el acto respectivo cuando menos dos apoderados del Organismo; y sustituir y revocar poderes generales especiales.
+XXI. Representar al INADET con todas las facultades generales de un mandato general para pleitos y cobranzas, actos de administración y de dominio, incluyendo aquellas facultades especiales que requieran de autorización o cláusula especial conforme a esta Ley o al Estatuto Orgánico u otras disposiciones legales o reglamentarias; en todos los actos jurídicos que tengan el fin de cumplir con su objeto; comparecer en juicios civiles, laborales o administrativos, incluso los de amparo y, en su caso, desistirse legalmente de las acciones intentadas ante las autoridades de los diversos órdenes de gobierno en lo que competa a las funciones y objetivos del Organismo; formular querellas y otorgar perdón; comprometer asuntos en arbitraje y celebrar transacciones; otorgar poderes, con la salvedad de que cuando se trate de ejercer el poder para actos de dominio o se confieran facultades para ejercitar actos de dominio que se refieran al patrimonio del INADET, se requerirá la autorización expresa del Consejo Directivo y comparecerán y firmarán el acto respectivo cuando menos dos personas apoderadas del Organismo; y sustituir y revocar poderes generales especiales.
 
-Para el otorgamiento y validez de los poderes conferidos por el Director General bastará con la comunicación oficial que dicho órgano social expida al mandatario, y los poderes generales otorgados en los términos establecidos anteriormente, para surtir efectos frente a terceros deberán inscribirse en el Registro Público de Organismos Descentralizados.
+Para el otorgamiento y validez de los poderes conferidos por la persona titular de la Dirección General bastará con la comunicación oficial que dicho órgano social expida a la persona mandataria, y los poderes generales otorgados en los términos establecidos anteriormente, para surtir efectos frente a terceros deberán inscribirse en el Registro Público de Organismos Descentralizados.
 
-Para acreditar la personalidad y facultades de los miembros del Consejo, del Director General, y de los apoderados generales del organismo, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato en el Registro Público de Organismos Descentralizados;
+Para acreditar la personalidad y facultades de quienes integran el Consejo, de la persona titular de la Dirección General y de las personas apoderadas generales del organismo, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato en el Registro Público de Organismos Descentralizados;
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
@@ -391,7 +401,9 @@ XXII. Informar al Consejo Directivo, cuando sea requerido por el mismo, de cualq
 
 XXIII. Conceder licencias al personal en los términos que fije el estatuto; vigilar que cumpla con sus obligaciones laborales e imponer las sanciones disciplinarias correspondientes;
 
-XXIV. Proponer al Presidente del Consejo Directivo la celebración de reuniones extraordinarias cuando existan asuntos que por su urgencia o trascendencia así lo ameriten;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
+
+XXIV. Proponer a la persona titular de la Presidencia del Consejo Directivo la celebración de reuniones extraordinarias cuando existan asuntos que por su urgencia o trascendencia así lo ameriten;
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 2014)</small>
 
@@ -399,11 +411,11 @@ XXV. Solicitar la asesoría de organismos públicos o privados cuyas funciones s
 
 XXVI. Las demás facultades y obligaciones establecidas en esta Ley y en el estatuto, así como en la Ley de Entidades Paraestatales del Estado de Chihuahua y su Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2021)</small>
 
 ###### Artículo 11°.
 
-Para ser Director General del INADET se requiere, además de lo dispuesto en el Artículo 20 de la Ley de Entidades Paraestatales:
+Para ser la persona titular de la Dirección General del INADET se requiere, además de lo dispuesto en el Artículo 20 de la Ley de Entidades Paraestatales:
 
 I. Ser mayor de 30 y menor de 65 años;
 
@@ -413,19 +425,23 @@ III. Tener al menos cinco años de experiencia profesional en el ramo de adminis
 
 IV. Contar con experiencia académica, profesional y en algún puesto directivo;
 
-V. No ser miembro del Consejo Directivo mientras dure su gestión; y
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
+
+V. No ser integrante del Consejo Directivo mientras dure su gestión; y
 
 VI. Ser persona cumplida, de amplia solvencia moral y de reconocido prestigio.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
 
 ###### Artículo 12°.
 
-Los directores de las unidades dependientes del INADET serán nombrados por el Consejo Directivo a partir de una terna propuesta por el Director General del mismo.
+Las directoras o los directores de las unidades dependientes del INADET serán nombrados por el Consejo Directivo a partir de una terna propuesta por la persona titular de la Dirección General del mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2021)</small>
 
 ###### Artículo 13°.
 
-Para ser Director de una Unidad se requiere:
+Para ser Directora o Director de una Unidad se requiere:
 
 I. Poseer título profesional y de posgrado en alguna carrera afín a la rama del conocimiento tecnológico que la unidad imparta;
 
@@ -433,43 +449,29 @@ II. Tener experiencia académica y profesional;
 
 III. Ser persona de solvencia moral y de prestigio profesional.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
 
 ###### Artículo 14°.
 
-Para el mejor despacho de los asuntos de la competencia del Director General, quedan adscritos orgánicamente y estarán bajo su directa dependencia los Departamentos de Asuntos Jurídicos, de Planeación y de Vinculación Tecnológica, que tendrán las funciones que se determinen en el Estatuto Orgánico que aprobará y expedirá el Consejo Directivo en los términos de Ley.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+Para el mejor despacho de los asuntos de la competencia de la Dirección General, quedan adscritos orgánicamente y estarán bajo su directa dependencia los Departamentos de Asuntos Jurídicos, de Planeación y de Vinculación Tecnológica, que tendrán las funciones que se determinen en el Estatuto Orgánico que aprobará y expedirá el Consejo Directivo en los términos de Ley.
 
 ###### Artículo 15°.
 
-El órgano de vigilancia del INADET estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública del Estado, cuyas funciones serán las establecidas en la Ley de Entidades Paraestatales del Estado de Chihuahua y las que se determinen en el Estatuto Orgánico que expida el Consejo Directivo.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+(DEROGADO, P.O. 27 DE MARZO DE 2021)
 
 ###### Artículo 16°.
 
-El Comisario evaluará el desempeño general del INADET y realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que se requieran para el adecuado cumplimiento de sus funciones. Lo anterior, sin perjuicio de las tareas que la Secretaría de la Función Pública le asigne específica mente (sic) conforme a la ley.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+(DEROGADO, P.O. 27 DE MARZO DE 2021)
 
 ###### Artículo 17°.
 
-El Comisario Público desarrollará sus funcionales (sic) conforme a los lineamientos que emita la Secretaría de la Función Pública.
+(DEROGADO, P.O. 27 DE MARZO DE 2021)
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2014)</small>
-
-Artículo 17° BIS. Los órganos internos de control y evaluación serán parte integrante de la estructura del organismo descentralizado y funcionarán conforme a las siguientes bases:
-
-I. Dependerán del Director General.
-
-II. Realizarán sus actividades de acuerdo a reglas y bases que le permitan cumplir su cometido con autosuficiencia y autonomía.
-
-III. Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control, efectuarán revisiones y auditorías, vigilarán que el manejo y aplicación de los recursos se efectúe conforme a las disposiciones aplicables, presentarán al Director General y al Consejo Directivo los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
+Artículo 17° BIS. (DEROGADO, P.O. 27 DE MARZO DE 2021)
 
 ###### Artículo 18°.
 
-El Comisario asistirá con voz pero sin voto a las sesiones del Consejo Directivo.
+(DEROGADO, P.O. 27 DE MARZO DE 2021)
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
 
@@ -513,17 +515,31 @@ Artículo 22° BIS. El Patronato del Instituto de Apoyo al Desarrollo Tecnológi
 
 El patronato también deberá coadyuvar con las autoridades de las unidades, en el desarrollo de programas de prácticas profesionales y estadías de capacitación, en las empresas con las que se establezcan convenios de colaboración.
 
-### CAPITULO CUARTO. DEL CONTROL Y EVALUACION
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+### CAPITULO CUARTO. DEL ORGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
 
 ###### Artículo 23°.
 
-El control y evaluación de labores del INADET se ajustará a los siguientes lineamientos:
+El INADET contará con un Órgano Interno de Control, que será el encargado de promover, evaluar y fortalecer el buen funcionamiento del control interno en la entidad; así como de ejercer aquellas atribuciones que disponga la normatividad jurídica aplicable.
 
-I. El Consejo Directivo controlará y evaluará la forma en que los objetivos del INADET sean alcanzados y deberá atender los informes que en materia de control y auditoría le sean turnados y vigilará la implantación de las medidas correctivas a que hubiere lugar.
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2021)</small>
 
-II. El Director General definirá las políticas de instrumentación de los sistemas de control y evaluación que fueren necesarios, tomará las acciones correspondientes para corregir las deficiencias que se detecten y presentará al Consejo Directivo informes periódicos sobre el cumplimiento de los objetivos del sistema de control y evaluación, su funcionamiento y programas de mejoramiento.
+###### Artículo 23° Bis.
+
+Al frente del Órgano Interno de Control habrá una persona titular, quien será designada en los términos del artículo 34, fracción XII de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, y dependerá jerárquica y funcionalmente de la Secretaría de la Función Pública, la cual para el ejercicio de sus facultades podrá auxiliarse por titulares de las áreas de Auditoría e Investigación, y de la de Substanciación y Resolución designados en los mismos términos.
+
+Las personas servidoras públicas a que se refiere el párrafo anterior ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en la Ley General de Responsabilidades Administrativas, u ordenamiento legal en materia de responsabilidades administrativas aplicable, así como en el de adquisiciones, arrendamientos y contratación de servicios o contratación de obra pública y servicios relacionados con la misma correspondientes conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública y demás normatividad aplicable.
+
+Para el debido cumplimiento de sus funciones, la persona titular del Órgano Interno de Control y de las áreas de Auditoría e Investigación, y de la Substanciación y Resolución a que se refiere el Reglamento Interior de la Secretaría de la Función Pública, contarán con la estructura y apoyo del organismo público al cual se encuentren adscritos.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2021)</small>
+
+###### Artículo 23° Ter.
+
+El Órgano Interno de Control asistirá con voz, pero sin voto, a las sesiones del Consejo Directivo.
 
 ### CAPITULO QUINTO. DE LA EXTINCION Y LIQUIDACION DEL INSTITUTO
 
@@ -543,9 +559,9 @@ I. Cuando deje de cumplir sus fines u objeto; o
 
 II. Cuando su funcionamiento no resulte ya conveniente desde el punto de las finanzas públicas del Estado o del interés público.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
 
-En todo caso, la Secretaría de Hacienda, atendiendo a la opinión de la Secretaría de Economía del Estado, propondrá al Ejecutivo la disolución o extinción del INADET.
+En todo caso, la Secretaría de Hacienda, atendiendo a la opinión de la Secretaría de Innovación y Desarrollo Económico, propondrá al Ejecutivo la disolución o extinción del INADET.
 
 Si la actividad combinada o separada redunda en un incremento de eficiencia y productividad, podrá proponer su fusión o escisión, la cual deberá ser aprobada por el Congreso del Estado.
 
@@ -563,17 +579,17 @@ En la liquidación del INADET, se seguirá el procedimiento que para el caso se�
 
 ### CAPITULO SEXTO. DE LOS TRABAJADORES DEL INSTITUTO
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
 
 ###### Artículo 28°.
 
-Las relaciones de trabajo entre el INADET y sus trabajadores, se regirán por el Código Administrativo del Estado de Chihuahua y la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado previo convenio, los trabajadores de base quedarán incorporados al régimen de seguridad social establecido por la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+Las relaciones de trabajo entre el INADET y su personal, se regirán por la Ley Federal del Trabajo, y por los demás ordenamientos y reglamentos que expida el Consejo Directivo, los que deberán ajustarse a la legislación vigente y aplicable. El personal gozará de las prestaciones autorizadas por el Consejo Directivo de conformidad con las leyes aplicables.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
 
 ###### Artículo 29°.
 
-Serán considerados trabajadores de confianza el Director General, Jefes de Departamento y de Oficina, Asesores y Consultores Técnicos, Contadores, Auditores, Técnicos y Directores de las unidades que establezca el INADET en el Estado.
+Serán considerados personal de confianza quienes ocupen los cargos de Dirección General, Jefaturas de Departamento y de Oficina, Asesoría y Consultoría Técnica, Contaduría, Auditoría, personas Técnicas y Directoras o Directores de las unidades que establezca el INADET en el Estado.
 
 TRANSITORIOS:
 
@@ -720,3 +736,23 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 27 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/0988/2021 II P.O."]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El personal del Instituto de Apoyo al Desarrollo Tecnológico que a la entrada en vigor del presente Decreto se encuentre desempeñando un cargo, comisión o empleo, independientemente de la función que realice, continuará haciéndolo en los mismos términos y condiciones en que lo ha desarrollo al momento de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El personal adscrito al Instituto de Apoyo al Desarrollo Tecnológico, sin importar antigüedad o asignación, continuará gozando de condiciones laborales, salariales y prestacionales iguales a las que guardaba antes de la entrada en vigor de este Decreto, exceptuando a las prestaciones de seguridad social, que se regirán por lo estipulado en el presente instrumento legal.
+
+###### ARTÍCULO CUARTO.
+
+El personal que por disposición legal no sea sujeto de aseguramiento para incorporarse al nuevo régimen, conservará las prestaciones de servicio médico que actualmente goza a la entrada en vigor de la Ley del Instituto de Apoyo al Desarrollo Tecnológico.
