@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-de-medios-de-impugnacion-en-materia-89316"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2020-05-30"
+last_updated: "2021-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 17 de agosto de 2012.
 
@@ -172,6 +172,10 @@ Las autoridades electorales, para el debido cumplimiento de sus funciones, se re
 Los plazos se computarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas.
 
 2. Cuando la violación reclamada en el medio de impugnación respectivo no se produzca durante el desarrollo de un proceso electoral o de participación ciudadana, el cómputo de los plazos se hará contando solamente los días hábiles, debiendo entenderse por tales todos los días a excepción de los sábados, domingos y los inhábiles en términos de Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2021)</small>
+
+3. Cuando las comunidades o personas indígenas promuevan medios de impugnación relacionados con asuntos o elecciones regidos por sus sistemas normativos internos, o sea resultado de la defensa de sus derechos individuales o colectivos establecidos en la Constitución o tratados internacionales; en estos casos para el cómputo de los plazos no se tomará en cuenta los días sábados, domingos e inhábiles, siempre y cuando no se trate de asuntos o elecciones relacionados con el sistema de partidos políticos.
 
 ###### Artículo 8.
 
@@ -1828,3 +1832,9 @@ TERCERO. Para el cumplimiento de los artículos 15, 24, 32 y 52 de la Ley de Ins
 CUARTO. La Secretaría General de Gobierno deberá realizar una campaña de difusión, con perspectiva intercultural, en coordinación con la Secretaría de las Mujeres de Oaxaca, el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y la Secretaría de Pueblos Indígenas y Afromexicano, en medios de comunicación impresos, digitales, radio y televisión, en español y traducido a las lenguas indígenas del Estado, con el objetivo de que las mujeres de Oaxaca, conozcan sus derechos político electorales.
 
 QUINTO. Para los efectos del párrafo décimo tercero del artículo 182 de la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca, respecto a la integración de las planillas de concejales, indistintamente del género que encabece la planilla, la última fórmula será integrada por el género femenino, se considera que esta medida será de carácter temporal, en tanto no se alcance la paridad.
+
+P.O. 27 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2367.- MEDIANTE EL CUAL SE ADICIONA EL NUMERAL 3 AL ARTÍCULO 7, DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado.
