@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2020-12-19"
+last_updated: "2021-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -1529,9 +1529,13 @@ IV. Realizar actos protocolarios o diplomáticos.
 
 El formato de las sesiones solemnes y su organización se establecerán en el decreto o acuerdo del Pleno que les de origen.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 82.
 
-Tanto las sesiones ordinarias como las extraordinarias serán públicas.
+Tanto las sesiones ordinarias como las extraordinarias serán públicas y deberán interpretarse simultáneamente a la lengua de señas mexicanas.
+
+Las transmisiones que se realizan por los medios digitales del Congreso deberán incluir a la lengua de señas mexicanas.
 
 ###### ARTÍCULO 83.
 
@@ -2930,3 +2934,13 @@ P.O. 19 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación.
 
 SEGUNDO. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 27 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2402.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 82 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- La Junta de coordinación Política y la Mesa Directiva deberá realizar las acciones necesarias para dar cumplimiento al presente.
