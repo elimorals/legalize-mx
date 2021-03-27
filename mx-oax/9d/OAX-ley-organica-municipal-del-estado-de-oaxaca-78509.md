@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2020-12-19"
+last_updated: "2021-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -612,6 +612,10 @@ Los Presidentes Municipales inmediatamente después de tomar posesión de su car
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 Para tal fin los Presidentes Municipales, realizarán todas las acciones correspondientes para la creación y funcionamiento de su Policía Preventiva Municipal, la cual tendrá las facultades previstas en el artículo 55 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2021)</small>
+
+Los Presidentes Municipales, deberán dar de alta y mantener actualizados los registros de las y los elementos de (sic) Policía Preventiva Municipal quienes estarán obligados a tomar cuando menos un curso de Capacitación o actualización al año, en los términos que determine el reglamento respectivo con el fin de garantizar su capacitación en materia de Derechos Humanos, con perspectiva de Género, en materia de niñas, niños y adolescentes. Y con esto garantizar el debido acceso a la justicia.
 
 XLIII.- Nombrar al Cronista Municipal o al Concejo de Cronistas, el cargo será honorífico;
 
@@ -4078,3 +4082,9 @@ P.O. 19 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 27 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2368.- MEDIANTE EL CUAL SE ADICIONA UN CUARTO PÁRRAFO A LA FRACCIÓN XLII DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado.
