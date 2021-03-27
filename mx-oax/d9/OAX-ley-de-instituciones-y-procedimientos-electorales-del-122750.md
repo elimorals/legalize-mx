@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2021-03-13"
+last_updated: "2021-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -715,13 +715,17 @@ XVIII.- Informar al INE, a través de su Unidad Técnica de Vinculación con los
 
 XIX.- Garantizar el cumplimiento del principio de paridad de género, así como el respeto de los derechos políticos y electorales de las mujeres;
 
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2021)</small>
+
+XX.- Llevar a cabo el proceso de consulta previa, libre e informada cuando el Instituto Estatal pretenda emitir medidas administrativos (sic) o acuerdos que sean susceptibles de afectar los derechos de los pueblos y comunidades indígenas y afromexicanas;
+
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE MAYO DE 2020)</small>
 
-XX.- Reconocer y dar validez a los procesos electorales que se desarrollen bajo el régimen de sistemas normativos indígenas, en atención al principio de la libre autodeterminación de los pueblos y comunidades indígenas, para que estos se desarrollen con apego a los derechos humanos garantizando la paridad entre mujeres y hombres, de conformidad con lo dispuesto en los artículos 16 y 25 de la Constitución Local; y
+XXI.- Reconocer y dar validez a los procesos electorales que se desarrollen bajo el régimen de sistemas normativos indígenas, en atención al principio de la libre autodeterminación de los pueblos y comunidades indígenas, para que estos se desarrollen con apego a los derechos humanos garantizando la paridad entre mujeres y hombres, de conformidad con lo dispuesto en los artículos 16 y 25 de la Constitución Local; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MAYO DE 2020)</small>
 
-XXI.- Las demás que determine la Ley General y aquellas no reservadas al INE, que se establezcan en la presente Ley.
+XXII.- Las demás que determine la Ley General y aquellas no reservadas al INE, que se establezcan en la presente Ley.
 
 Artículo 33
 
@@ -1465,7 +1469,9 @@ I.- Garantizar y promover el fortalecimiento y respeto de los sistemas normativo
 
 II.- Garantizar que todos los asuntos y controversias se resuelvan con base en los sistemas normativos indígenas de que se trate, a fin de preservar la pluralidad política del estado;
 
-III.- Sistematizar la información relacionada con las reglas indígenas, o en su caso, los estatutos electorales comunitarios de los municipios que electoralmente se rigen por sistemas normativos indígenas;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
+
+III.- Sistematizar la información relacionada con las reglas indígenas, o en su caso, los estatutos electorales comunitarios de los municipios que electoralmente se rigen por sistemas normativos indígenas, aprobados y/o ratificados por la asamblea general comunitaria.
 
 IV.- Con base en la fracción anterior, elaborar y actualizar el Catálogo General de los municipios que eligen a sus ayuntamientos mediante sus sistemas normativos indígenas, para someterlo a la aprobación del Consejo General a través del Secretario Ejecutivo;
 
@@ -4589,7 +4595,9 @@ Las comunidades afromexicanas y los municipios y comunidades equiparables a los 
 
 5.- Las disposiciones contenidas en el presente Libro, son reglamentarias de los artículos 16 y 25, fracción II, del apartado A, y demás aplicables de la Constitución Local, y tienen como objeto respetar y garantizar la vigencia y eficacia de las instituciones, prácticas y procedimientos político electorales de los municipios y comunidades indígenas y afromexicanas; así como vigilar el respeto al derecho a votar y ser votado, y en general a los derechos humanos en la realización de sus procesos electorales.
 
-6.- El procedimiento electoral en el régimen de sistemas normativos indígenas, comprende el conjunto de actos realizados por las y los ciudadanos y las autoridades competentes de los municipios que se rigen por sus instituciones y prácticas tradicionales, para la renovación y prestación de cargos y servicios municipales. Estos actos comprenden desde la preparación de las asambleas electivas o las instancias de toma de decisión, el desarrollo de las mismas o la jornada electoral, según corresponda y el levantamiento de las actas de resultados.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
+
+6.- El procedimiento electoral en el régimen de sistemas normativos indígenas, comprende el conjunto de actos realizados por las y los ciudadanos y las autoridades comunitarias competentes de los municipios que se rigen por sus instituciones y prácticas tradicionales, para la renovación y prestación de cargos y servicios municipales. Estos actos comprenden desde la preparación de las asambleas electivas o las instancias de toma de decisión, el desarrollo de las mismas o la jornada electoral, según corresponda y el levantamiento de las actas de resultados.
 
 El Instituto Estatal será garante de los derechos reconocidos por los artículos 1 y 2 de la Constitución Federal, 16 y 25, fracción II, del apartado A, y demás aplicables de la Constitución Local, para el ejercicio efectivo del derecho de libre determinación de los pueblos indígenas y afromexicanos expresada en sus sistemas normativos indígenas y la autonomía para elegir a sus autoridades o representantes; así como en el reconocimiento a la diversidad de culturas existentes en el Estado.
 
@@ -4651,7 +4659,9 @@ b) Estar en el ejercicio de sus derechos y obligaciones, y cumplir con los requi
 
 Artículo 278
 
-1.- A más tardar en el mes de enero del año previo al de la elección por el régimen de sistemas normativos indígenas el Instituto Estatal a través de la Dirección de Sistemas Normativos Indígenas, solicitará a las autoridades municipales, para que en un plazo no mayor de noventa días contados a partir de su notificación, informen por escrito sobre las instituciones, normas, prácticas y procedimientos de sus sistemas normativos indígenas relativos a la elección de sus autoridades o en su caso, presenten sus estatutos electorales comunitarios, conteniendo, entre otros los siguientes puntos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE MARZO DE 2021)</small>
+
+1.- A más tardar en el mes de enero del año previo al de la elección en el que se renuevan la totalidad de ayuntamientos por el régimen de sistemas normativos indígenas el Instituto Estatal a través de la Dirección de Sistemas Normativos Indígenas, solicitará a las autoridades municipales, para que en un plazo no mayor de noventa días contados a partir de su notificación, informen por escrito mediante acta de asamblea general comunitaria sobre las instituciones, normas, prácticas y procedimientos de sus sistemas normativos indígenas relativos a la elección de sus autoridades o en su caso, presenten sus estatutos electorales comunitarios, conteniendo, entre otros los siguientes puntos:
 
 I.- La duración en el cargo de las autoridades municipales;
 
@@ -6090,5 +6100,11 @@ CUARTO. Se derogan todas las disposiciones de igual o mejor jerarquía que se op
 P.O. 13 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2135.- MEDIANTE EL CUAL SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 2366.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 52; EL PRIMER PÁRRAFO DEL NUMERAL 6 DEL ARTÍCULO 273; Y EL NUMERAL 1 DEL ARTÍCULO 278, ASÍ COMO LA ADICIÓN DE LA FRACCIÓN XX AL ARTÍCULO 32 RECORRIÉNDOSE LAS SUBSECUENTES, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado.
