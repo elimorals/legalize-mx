@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-bienestar-y-desarrollo-social-del-estado-de-94442"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2019-05-29"
+last_updated: "2021-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -191,9 +191,13 @@ XLVI. Residente: La persona que permanece por más de seis meses en un mismo lug
 
 XLVII. Secretaria de Contraloría: Secretaria de Contraloría y Transparencia Gubernamental del Estado de Oaxaca;
 
-XLVIII. Secretaria Federal: La Secretaria de Desarrollo Social, del Ejecutivo Federal;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
 
-XLIX. Secretaría: A la Secretaria de Desarrollo Social y Humano del Estado de Oaxaca;
+XLVIII. Secretaría Federal: La Secretaria de Bienestar, del Ejecutivo Federal;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
+
+XLIX. Secretaría: A la Secretaría de Bienestar del Estado de Oaxaca;
 
 L. Sector Social: Grupos, sociedades, cooperativas, ejidos, organismos de la sociedad civil, instituciones de asistencia privada y asociaciones civiles sin fines de lucro, con objeto social establecido bajo principios de equidad social y productividad;
 
@@ -247,6 +251,10 @@ XI. El derecho a la autodeterminación; y
 
 XII. El derecho a una vida libre de violencia.
 
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2021)</small>
+
+XIII. El derecho a la movilidad.
+
 ###### Artículo 7.
 
 Es sujeto de desarrollo social y por lo tanto susceptible de ser considerado beneficiario de las políticas de desarrollo social y humano establecidas en esta Ley, toda persona residente en el territorio del Estado y que se encuentre en condiciones de vulnerabilidad por su bajo índice de desarrollo social y humano.
@@ -263,9 +271,11 @@ II. La población indígena, niñas y niños, adolescentes, mujeres en particula
 
 III. Los individuos o grupos que lo requieran según condiciones de desastre, dinámica geográfica y social del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
+
 ###### Artículo 9.
 
-Está prohibida toda práctica discriminatoria en el otorgamiento de subsidios y beneficios que se otorguen como parte de los Programas Sociales.
+Está prohibida toda práctica discriminatoria en otorgamiento de subsidios y/o servicios, contenidos en los programas para el desarrollo social.
 
 ###### Artículo 10.
 
@@ -453,13 +463,15 @@ La planeación para el desarrollo social del estado, es el proceso a través del
 
 La planeación deberá vincular la operación e instrumentación de los programas específicos con los objetivos generales establecidos en el Programa Estatal de Desarrollo Social. En ella participarán los grupos sociales involucrados, a través de un proceso de consulta pública impulsada por las dependencias y entidades de la Administración, conforme a lo dispuesto en la Constitución Política del Estado, la Ley de Planeación del Estado de Oaxaca y el Plan Estatal de Desarrollo de Oaxaca vigente, debiendo incluir las políticas Municipales de desarrollo social y las demás disposiciones en la materia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2021)</small>
 
 ###### Artículo 21.
 
-El Ejecutivo del Estado como responsable de elaborar la planeación en política de desarrollo social y humano, con apego a la Ley de Planeación, atenderá los criterios del INEGI, CONAPO, CONEVAL e indicadores de pobreza y marginación elaborados por los organismos estatales, nacionales e internacionales. La planeación se realizará fundamentalmente por las siguientes instituciones e instancias:
+El Ejecutivo del Estado como responsable de elaborar la planeación en política de desarrollo social y humano, con apego a la Ley de Planeación, atenderá los criterios del INEGI, COESPO, CONEVAL e indicadores de pobreza y marginación elaborados por los organismos estatales, nacionales e internacionales. La planeación se realizará fundamentalmente por las siguientes instituciones e instancias:
 
-I. Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
+
+I. Secretaría de Bienestar del Estado;
 
 II. Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
 
@@ -627,9 +639,11 @@ Las reglas de operación del Fideicomiso serán aprobadas por el Consejo Estatal
 
 El Ejecutivo del Estado y los municipios, podrán convenir acciones entre sí y con el Gobierno Federal, en términos de la Ley General en la materia, para destinar recursos y la ejecución de programas especiales de desarrollo social.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
+
 ###### Artículo 35.
 
-La Secretaria de Desarrollo Social y Humano deberá publicar en la Gaceta Oficial del Gobierno del Estado el Programa Operativo de Desarrollo Social los primeros 15 días de enero de cada ejercicio gubernamental.
+La Secretaría de Bienestar del Estado, deberá publicar en el Periódico Oficial del Gobierno del Estado de Oaxaca el Programa Operativo de Desarrollo Social los primeros 15 días de enero de cada ejercicio gubernamental.
 
 ###### Artículo 36.
 
@@ -1638,3 +1652,9 @@ P.O. 29 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 618.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 2377.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XLVIII Y XLIX DEL ARTÍCULO 3; EL ARTÍCULO 9; LA FRACCIÓN I DEL ARTÍCULO 21; Y EL ARTÍCULO 35; SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 6, TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA".]
+
+ÚNICO. - El presente decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
