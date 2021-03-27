@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2021-03-13"
+last_updated: "2021-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -1871,9 +1871,17 @@ Las personas que laboren en los refugios deberán contar con la cédula profesio
 
 Las Unidades de Atención Integral y los Refugios contarán con una mujer responsable de su conducción y con el personal necesario para el cumplimiento de sus fines. La responsable y el personal deberán contar con cédula profesional, el perfil y aptitudes adecuadas para el tratamiento de los casos de violencia contra las mujeres.
 
+> <small>(REFORMADO, P.O.27 DE MARZO DE 2021)</small>
+
 ###### Artículo 76.
 
 La atención de los agresores se proporcionará a través de Centros Reeducativos, será gratuita y especializada y tendrá como objetivo transformar sus patrones de conducta violenta hacia las mujeres.
+
+Existirá un centro reeducativo estatal y al menos uno por cada región del estado, considerando la orografía y las necesidades particulares que puedan surgir por cada región, quienes contarán con presupuesto y el personal necesario conforme a su reglamento interno para el ejercicio de sus atribuciones y funciones.
+
+La persona titular del centro estatal será nombrada por la persona titular de la Secretaría de Seguridad Pública del Estado de Oaxaca, las titularidades de los centros regionales serán designadas por la persona titular del centro estatal.
+
+Las personas titulares de los centros, durarán en su encargo tres años, atendiendo el principio de paridad de género, con posibilidad de ejercerlo por un período más. Deberán contar con una experiencia mínima probada de cinco años en atención de violencia de género.
 
 ###### Artículo 77.
 
@@ -2029,11 +2037,13 @@ Los agresores podrán optar por acudir voluntariamente a un Centro de Reeducaci�
 
 El agresor deberá asistir obligatoriamente a los programas de reeducación integral en el Centro de Reeducación, cuando así sea determinado por mandato de autoridad competente en la aplicación de la presente Ley.
 
+> <small>(REFORMADO, P.O.27 DE MARZO DE 2021)</small>
+
 ###### Artículo 91.
 
-Corresponde a los Centros de Reeducación:
+Corresponde a los Centros de Reeducación estatal y regionales:
 
-I. Contar con el personal debidamente capacitado;
+I. Contar con el personal debidamente capacitado, así como con presupuesto para el ejercicio de sus atribuciones y funciones;
 
 II. Proporcionar a los agresores atención especializada y talleres educativos que coadyuven a su reinserción en la vida social; y
 
@@ -2300,3 +2310,13 @@ P.O. 13 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2271.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 39, LA FRACCIÓN VII DEL ARTÍCULO 54, EL ARTÍCULO 64 Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 68 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O.27 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2386.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 76 Y 91 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+Primero.- El presente decreto entrará en vigor el día primero de enero de 2022.
+
+Segundo.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+Tercero. Secretaría de Finanzas deberá hacer las previsiones financieras necesarias para cumplir al (sic) párrafo segundo del artículo 76 del presente decreto.
