@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2021-01-16"
+last_updated: "2021-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -159,7 +161,11 @@ Los vehículos pueden ser de combustión de diesel, gasolina, gas natural o elé
 
 XII. CARRIL COMPARTIDO CICLISTA: El carril compartido ciclista se define como el que está ubicado en la extrema derecha del área de circulación vehicular, con un ancho suficiente para permitir que ciclistas y conductores de vehículos motorizados compartan el espacio de forma segura;
 
-XIII. CARRIL PREFERENTE CICLISTA: Zona o espacio de la vialidad destinado para el uso compartido de vehículos motorizados y ciclistas donde la preferencia siempre la tendrá la bicicleta;
+> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XIII ES SIMILAR A LA FRACCIÓN XXV.]</small>
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2021)</small>
+
+XIII. DEPÓSITO VEHICULAR: Al lugar autorizado, propiedad del Gobierno del Estado, de los municipios, o de un particular, para resguardar los vehículos asegurados por la autoridad competente; también se le denomina encierro o corralón;
 
 XIV. CENTRO DE TRANSFERENCIA MODAL: Espacio físico con infraestructura y equipamiento auxiliar de transporte, que sirve como punto para la conexión de los usuarios entre dos o más modos de transporte o dos o más rutas;
 
@@ -182,6 +188,8 @@ XXII. CONGRESO: Congreso del Estado de Oaxaca;
 XXIII. CONSEJO ESTATAL: Consejo Estatal de Movilidad;
 
 XXIV. CRUCE PEATONAL: Zonas en la vialidad que forman una intersección entre el tránsito vehicular y el peatonal ya sea en un mismo o diferente nivel que su función es obligar a los vehículos a detenerse para permitir el cruce seguro de los peatones exista o no semáforo, generalmente está señalizado por franjas paralelas de color blanco o amarillo;
+
+> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XXV ES SIMILAR A LA FRACCIÓN XIII.]</small>
 
 XXV. DEPÓSITO VEHICULAR: Al lugar autorizado, propiedad del Gobierno del Estado, de los municipios, o de un particular, para resguardar los vehículos asegurados, infraccionados y recuperados por la autoridad competente; también se le denomina encierro o corralón;
 
@@ -886,6 +894,10 @@ V. Los estacionamientos anexos a terminales;
 VI. Los centros de inspección vehicular del Servicio de Transporte de pasajeros, y
 
 VII. Los demás que señale esta Ley y el Reglamento.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2021)</small>
+
+El servicio auxiliar considerado en la fracción III, requiere de concesión otorgada en término de la Ley de Encierros y Depósitos de Vehículos para el Estado de Oaxaca, toda vez que este es un servicio público que corresponde originalmente al Estado y a los Municipios.
 
 ###### Artículo 50.
 
@@ -2579,9 +2591,11 @@ En la comisión de las infracciones establecidas en esta Ley, se considera solid
 
 En caso de reincidencia, la Secretaría podrá imponer una multa que oscilará entre el cincuenta por ciento y el cien por ciento adicional de las cuantías señaladas, de acuerdo con la gravedad de la infracción, las circunstancias de ejecución y las condiciones del infractor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2021)</small>
+
 ###### Artículo 223.
 
-Independientemente de las sanciones previstas en los Artículos que anteceden, las unidades de transporte público de pasajeros y de carga, serán impedidas de circular y remitidas a los depósitos vehiculares, por las siguientes causas:
+Independientemente de las sanciones previstas en los Artículos que anteceden, las unidades de transporte público de pasajeros y de carga, serán impedidas de circular y remitidas solo a los depósitos vehiculares que cuenten con concesión, por las siguientes causas:
 
 I. No contar con la concesión o permiso para realizar el servicio de transporte, según corresponda;
 
@@ -2697,7 +2711,9 @@ La Secretaría deberá proveer lo necesario para el cumplimiento de las resoluci
 
 El titular de la licencia o permiso de conducir cancelado quedará impedido para conducir vehículos motorizados en el territorio del Estado, con licencia o permiso para conducir expedido en otra entidad federativa o país.
 
-El conductor que infrinja el párrafo anterior, se le impondrá una sanción de ciento ochenta veces la Unidad de Medida y Actualización vigente y la autoridad competente remitirá el vehículo al depósito vehicular
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
+
+El conductor que infrinja el párrafo anterior, se le impondrá una sanción de ciento ochenta veces la Unidad de Medida y Actualización vigente y la autoridad competente remitirá el vehículo al depósito vehicular, que cuente con concesión vigente.
 
 ### CAPÍTULO IV. DE LOS DELITOS
 
@@ -3104,3 +3120,13 @@ P.O. 16 DE ENERO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Gobierno del Estado. Publíquese en el Periódico Oficial del Estado de Oaxaca.
 
 SEGUNDO.- La Secretaría contará con un plazo de 30 días naturales posteriores a la entrada en vigor del presente Decreto, para instalar el Comité Operativo de Evaluación, Seguimiento y Validación.
+
+P.O. 27 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2401.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 4, EL PÁRRAFO PRIMERO DEL ARTÍCULO 223 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 238, Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 49, DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor dentro de los 30 días posteriores al día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- En un plazo de 90 días naturales contados a partir de la fecha de entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado de Oaxaca, reformará, adicionará o derogará, según corresponda, todas las disposiciones que se opongan al presente Decreto, contenidas en el Reglamento de la Ley de Movilidad para el estado de Oaxaca, que permita la plena ejecución del presente Decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales vigentes, de igual o menor rango, que se opongan al presente Decreto.
