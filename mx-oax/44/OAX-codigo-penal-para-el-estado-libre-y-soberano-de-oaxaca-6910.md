@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2021-03-13"
+last_updated: "2021-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3701,9 +3701,15 @@ V.- Por sí o por interpósita persona, cuando legalmente le sean requeridos, ri
 
 VI.- Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado.
 
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2021)</small>
+
+VII.- Difunda, entregue, revele, publique, transmita, exponga, remita, distribuya, videograbe, audiograbe, fotografíe, filme, reproduzca, comercialice, oferte, intercambie o comparta imágenes, documentos, audios o videos del lugar de los hechos o del hallazgo, indicios, evidencias, objetos, de cadáveres o parte de ellos, de las circunstancias de su muerte, de las lesiones o estado de salud, de personas, mujeres, niñas, niños o adolescentes, de la comunidad LGBTTTIQ, o de instrumentos relacionados con un hecho que la Ley señale como delito.
+
 Al que cometa alguno de los delitos a que se refieren las fracciones I y II de este artículo, se le impondrán de uno a tres años de prisión y de treinta a cien días multa.
 
-Al infractor de las fracciones III, IV, V y VI se le impondrán de dos a siete años de prisión y de treinta a ciento cincuenta días multa.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
+
+Al infractor de las fracciones III, IV, V, VI y VII se le impondrán de dos a siete años de prisión y de treinta a ciento cincuenta días multa.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -7420,3 +7426,11 @@ P.O. 13 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2134.- MEDIANTE EL CUAL SE REFORMA LA FACCIÓN X; SE ADICIONAN LAS FRACCIONES XI, XII, XIII Y XIV AL ARTÍCULO 369 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 27 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2388.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VII, Y SE REFORMA EL PÁRRAFO TERCERO AL ARTÍCULO 207 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
