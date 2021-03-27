@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidad-patrimonial-del-estado-y-los-129844"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-26"
-last_updated: "2018-06-26"
+last_updated: "2021-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 26 de junio de 2018.
 
@@ -47,7 +47,9 @@ La presente Ley es Reglamentaria del último párrafo del artículo 116 de la Co
 
 La responsabilidad patrimonial extracontractual a cargo del Estado y Municipios de Oaxaca es objetiva y directa, y la indemnización deberá ajustarse a los términos y condiciones señalados en la presente Ley y demás disposiciones legales aplicables.
 
-A falta de disposición expresa en esta ley, se aplicarán supletoriamente las disposiciones contenidas en la Ley de Justicia Administrativa para el Estado de Oaxaca; el Código Fiscal del Estado de Oaxaca; el Código Civil para el Estado de Oaxaca y en su caso, los principios generales del Derecho.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
+
+A falta de disposición expresa en esta ley, se aplicarán supletoriamente las disposiciones contenidas en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca; el Código Fiscal del Estado de Oaxaca; el Código Civil para el Estado de Oaxaca y en su caso, los principios generales de Derecho.
 
 ###### ARTÍCULO 2.
 
@@ -141,7 +143,9 @@ Las indemnizaciones fijadas por autoridades administrativas que excedan del mont
 
 La nulidad o anulabilidad de actos administrativos por la vía administrativa o jurisdiccional contencioso-administrativa, no presupone por sí misma el derecho a la indemnización.
 
-La responsabilidad por actividad administrativa irregular excluye la acción de daños y perjuicios prevista en la Ley de Justicia Administrativa para el Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
+
+La responsabilidad por actividad administrativa irregular excluye la acción de daños y perjuicios prevista en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
 
 ###### ARTÍCULO 10.
 
@@ -221,7 +225,9 @@ Los entes públicos deberán de informar a los Órganos Internos de Control comp
 
 Los procedimientos de responsabilidad patrimonial se iniciarán por reclamación de la parte interesada. El escrito de reclamación deberá ser presentado ante el Órgano de Control competente.
 
-El procedimiento de responsabilidad patrimonial deberá ajustarse, además de a lo dispuesto por esta Ley, a la Ley de Justicia Administrativa para el Estado de Oaxaca y al Código Fiscal para el Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
+
+El procedimiento de responsabilidad patrimonial deberá ajustarse, además de a (sic) lo dispuesto por esta Ley, a la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca y al Código Fiscal para el Estado de Oaxaca.
 
 ###### ARTÍCULO 23.
 
@@ -315,9 +321,11 @@ Los concesionarios tendrán la obligación de contratar seguros u otorgar garant
 
 ### CAPÍTULO QUINTO. DEL DERECHO DEL ENTE PÚBLICO DE REPETIR CONTRA LOS SERVIDORES PÚBLICOS Y CONCESIONARIOS
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 35.
 
-El Estado, a través de los entes públicos o los Órganos de Control competentes, repetirá en contra de los servidores públicos y concesionarios, el pago de la indemnización cubierta a los particulares cuando, previa substanciación del procedimiento administrativo disciplinario previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, se determine su responsabilidad. El monto que se exija al servidor público por este concepto formará parte de la sanción económica que se le aplique. En el caso de los concesionarios, previo procedimiento administrativo, será causal de revocación de la concesión.
+El Estado, a través de los entes públicos o los Órganos de Control competentes, repetirá en contra de los servidores públicos y concesionarios, el pago de la indemnización cubierta a los particulares cuando, previa substanciación del procedimiento administrativo disciplinario previsto en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, se determine su responsabilidad. El monto que se exija al servidor público por este concepto formará parte de la sanción económica que se le aplique. En el caso de los concesionarios, previo procedimiento administrativo, será causal de revocación de la concesión.
 
 ###### ARTÍCULO 36.
 
@@ -327,13 +335,17 @@ El Estado podrá, también, instruir igual procedimiento a los servidores públi
 
 Los servidores públicos podrán impugnar las resoluciones administrativas por las que se les imponga la obligación de resarcir los daños y perjuicios que el Estado haya pagado con motivo de los reclamos indemnizatorios respectivos, a través del recurso de revocación, o el juicio contencioso administrativo ante el Tribunal de Justicia Administrativa del Estado de Oaxaca.
 
-###### ARTÍCULO 38.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
 
-La presentación de reclamaciones por responsabilidad patrimonial del Estado interrumpirá los plazos de prescripción para el inicio del procedimiento administrativo disciplinario a los servidores públicos, conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, los cuales se reanudarán cuando quede firme la resolución o sentencia definitiva que al efecto se dicte en el primero de los procedimientos mencionados.
+###### ARTICULO 38.
+
+La presentación de reclamaciones por responsabilidad patrimonial del Estado interrumpirá los plazos de prescripción para el inicio del procedimiento administrativo disciplinario a los servidores públicos, conforme a la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, los cuales se reanudarán cuando quede firme la resolución o sentencia definitiva que al efecto se dicte en el primero de los procedimientos mencionados.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 39.
 
-Las cantidades que se obtengan con motivo de las sanciones económicas que las autoridades competentes impongan a los servidores públicos, en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, se adicionarán, según corresponda, al monto de los recursos previstos para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial de los entes públicos.
+Las cantidades que se obtengan con motive de las sanciones económicas que las autoridades competentes impongan a los servidores públicos, en términos de lo dispuesto por la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, se adicionarán, según corresponda, al monto de los recursos previstos para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial de los entes públicos.
 
 T R A N S I T O R I O S :
 
@@ -350,3 +362,11 @@ QUINTO.- Se derogan todas las disposiciones de igual o menor rango que se oponga
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 15 de Abril de 2018.- Dip. José de Jesús Romero López, Presidente.- Dip. María de Jesús Melgar Vásquez, Secretaria.- Dip. Silvia Flores Peña, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 24 de Abril de 2018. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 389.- MEDIANTE EL CUAL SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 1, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 9, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22 Y LOS ARTÍCULOS 35, 38 Y 39 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE OAXACA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
