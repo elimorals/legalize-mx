@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-al-turismo-para-el-estado-de-sonora-52499"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-14"
-last_updated: "2021-03-01"
+last_updated: "2021-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE TURISMO DE SONORA, PUBLICADA EN EL B.O. DE 29 DE MARZO DEL 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MARZO DE 2021 (ABROGADA).
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de diciembre de 2006.
 
@@ -1176,3 +1178,23 @@ B.O. 1 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 29 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DE LA "LEY NÚMERO 251, ESTATAL DE TURISMO DE SONORA".]
+
+Artículo Primero.- La presente Ley entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Artículo Segundo.- Se abroga la Ley de Fomento al Turismo para el Estado de Sonora publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el día 14 de diciembre del 2006 y las reformas a la misma, publicadas en el mismo Boletín Oficial.
+
+Artículo Tercero.- Las disposiciones emitidas con fundamento en la Ley de Fomento al Turismo para el Estado de Sonora, que no se opongan a la presente Ley, mantendrán su vigencia hasta en tanto no se publiquen nuevas disposiciones.
+
+Artículo Cuarto.- El Ejecutivo Estatal deberá emitir el Reglamento de la presente Ley, dentro de los ciento ochenta días naturales a partir de la entrada en vigor.
+
+Artículo Quinto.- La Secretaría Estatal de Turismo y los Municipios, se coordinarán con la Secretaría de Turismo del Gobierno Federal para la operación del Registro Nacional de Turismo, que permita la inscripción en el mismo, con el objeto de que los prestadores de servicios turísticos cuenten con las facilidades necesarias para llevar a cabo los trámites correspondientes.
+
+Artículo Sexto.- Los convenios, acuerdos y/o contratos, así como las obligaciones y/o derechos adquiridos, celebrados por fideicomisos de Turismo, así como los que se celebren, surtirán sus efectos jurídicos.
+
+Artículo Séptimo.- Las acciones derivadas de la entrada en vigor de esta Ley, así como las modificaciones a la estructura administrativa de la Secretaría, se realizarán conforme a la disponibilidad presupuestal de la misma.
+
+Artículo Octavo.- La Comisión de Fomento al Turismo del Estado de Sonora llevará a cabo todas las atribuciones y responsabilidades que se señalan en la presente Ley para la Secretaría Estatal de Turismo de Sonora, hasta que se cree la misma, mediante la entrada en vigor del Decreto número 183, que reforma, deroga y adiciona diversas disposiciones de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, aprobado por el Congreso del Estado de Sonora el día 02 de marzo de 2021.
