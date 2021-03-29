@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-del-comite-tecnico-de-asignacion-de-148195"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-03-08"
-last_updated: "2021-03-08"
+last_updated: "2021-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148195&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2021-03-04"
 ---
 # REGLAMENTO INTERNO DEL COMITE TECNICO DE ASIGNACION DE RECURSOS DEL PROGRAMA ALTEPETL PARA EL EJERCICIO FISCAL 2021
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE MARZO DE 2021 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERNO DEL COMITÉ TÉCNICO DE ASIGNACIÓN DE RECURSOS DEL PROGRAMA ALTÉPETL PARA EL EJERCICIO FISCAL 2021
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 29 DE MARZO DE 2021.]</small>
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el lunes 8 de marzo de 2021.
 
@@ -58,6 +58,10 @@ Titular de la Dirección General de Administración y Finanzas en la Secretaría
 
 Titular de la Dirección General de Evaluación de Impacto y Regulación Ambiental de la Secretaría del Medio Ambiente.
 
+> <small>(F. DE E., G.O. 29 DE MARZO DE 2021)</small>
+
+Titular de la Dirección General del Sistema de Áreas Naturales Protegidas y Áreas de Valor Ambiental.
+
 Titular de la Dirección General de Coordinación de Políticas y Cultura Ambiental de la Secretaría del Medio Ambiente.
 
 Titular de la Dirección General de Inspección y Vigilancia Ambiental de la Secretaría del Medio Ambiente.
@@ -70,7 +74,7 @@ Titular de la Dirección de Producción Sustentable.
 
 Titular de la Dirección de Capacitación para la Producción Sustentable.
 
-Titular de la Dirección de Centros de Innovación e Integración Comunitaria del suelo de conservación.
+Titular de la Dirección de Centros de Innovación e Integración Comunitaria del Suelo de Conservación.
 
 IV. Invitados Permanentes con derecho a voz:
 
@@ -349,3 +353,11 @@ Dado en la Ciudad de México el 4 de marzo de 2021
 Ing. Columba Jazmín López Gutiérrez
 
 Directora General de la Comisión de Recursos Naturales y Desarrollo Rural y Presidenta del Comité Técnico de Asignación de Recursos del Programa Altépetl 2021
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 29 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA AL AVISO POR EL QUE SE DA A CONOCER EL REGLAMENTO INTERNO DEL COMITÉ TÉCNICO DE ASIGNACIÓN DE RECURSOS DEL PROGRAMA ALTÉPETL PARA EL EJERCICIO FISCAL 2021, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO NÚMERO 550, DEL 8 DE MARZO DE 2021”.]
+
+Único. Publíquese en la Gaceta Oficial de la Ciudad de México.
