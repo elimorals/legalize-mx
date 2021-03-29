@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2019-06-03"
+last_updated: "2021-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2021.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -157,9 +157,9 @@ XVII. CONABIO: Comisión Nacional para el Conocimiento y Uso de la Biodiversidad
 
 XVIII. CONSERVACIÓN: es el conjunto de acciones personales o grupales para mejorar y mantener las características originales de los recursos naturales. Invita al uso limitado, cuidadoso y responsable de los recursos sin causarles daño permanente. Es utilizar los recursos y servirse de ellos de forma moderada pensando en el gran valor que tienen para la vida de las generaciones actuales y las del mañana, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2021)</small>
 
-XIX. CONTINGENCIA AMBIENTAL: Es la situación eventual y transitoria declarada por las autoridades. Esta declaración se hará con base en análisis objetivo o en el monitoreo de la contaminación ambiental, cuando exista una concentración de contaminantes o un riesgo ecológico derivado de las actividades humanas o fenómenos naturales que afectan a la salud de la población o el ambiente. En relación a lo especificado con lo especificado (sic) con las normas oficiales mexicanas;
+XIX. CONTINGENCIA AMBIENTAL: Es la situación eventual y transitoria declarada por las autoridades. Esta declaración se hará con base en análisis objetivo o en el monitoreo de la contaminación ambiental, cuando exista una concentración de contaminantes o un riesgo ecológico derivado de las actividades humanas o fenómenos naturales que afectan a la salud de la población o el ambiente. Lo anterior, en relación con lo especificado en las Normas Oficiales Mexicanas;
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
@@ -2539,7 +2539,9 @@ Para prevenir y controlar la emisión a la atmósfera de gases, partículas cont
 
 I. La calidad del aire debe ser satisfactoria en todos los asentamientos humanos y las regiones del Estado;
 
-II. Las emisiones de contaminantes a la atmósfera, provenientes de cualquier tipo de fuente deberán ser medidas y controladas para asegurar una calidad del aire necesaria para el bienestar de la población y protección al ambiente;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2021)</small>
+
+II. Las emisiones de contaminantes a la atmósfera, provenientes de cualquier tipo de fuente deberán ser medidas y controladas para asegurar una calidad del aire necesaria para el bienestar de la población y protección al ambiente. En caso de declararse una Contingencia Ambiental, la Secretaría deberá informar de manera inmediata al Titular del Instituto de Educación de Aguascalientes, o a la autoridad educativa local correspondiente, con el fin de que ésta pueda tomar las medidas necesarias para proteger a los educandos en los planteles educativos;
 
 III. Al Estado, a los Municipios y a la sociedad les corresponde la protección de la calidad del aire;
 
@@ -2609,9 +2611,9 @@ III. Regular las emisiones de los vehículos automotores en circulación dentro 
 
 IV. Aplicar las normas oficiales mexicanas para la prevención y control de la contaminación atmosférica, en las materias y supuestos de su competencia;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2021)</small>
 
-V. Establecer y operar sistemas de monitoreo de la calidad del aire en la Entidad y difundir sus (sic) mensualmente resultados;
+V. Establecer y operar sistemas de monitoreo de la calidad del aire en la Entidad y difundir sus resultados en días hábiles, por medios electrónicos oficiales;
 
 VI. Promover y apoyar técnicamente a los gobiernos municipales que lo soliciten en la formulación y aplicación de programas de gestión de calidad del aire, que tengan por objeto el cumplimiento de la normatividad aplicable, así como elaborar un programa estatal de gestión de la calidad del aire;
 
@@ -3982,3 +3984,15 @@ P.O. 3 DE JUNIO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 518.- SE REFORMAN LA FRACCIÓN XIX DE (SIC) ARTÍCULO 3°; LA FRACCIÓN II DEL ARTÍCULO 135; Y LA FRACCIÓN V DEL ARTÍCULO 138; TODOS ELLOS DE LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial Del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
