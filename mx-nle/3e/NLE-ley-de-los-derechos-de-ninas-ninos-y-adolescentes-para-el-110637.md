@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2020-11-27"
+last_updated: "2021-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -1655,6 +1655,10 @@ DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN, ASÍ CO
 
 Niñas, niños y adolescentes tienen derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, para ello las autoridades del Estado darán todas las facilidades a efecto de coordinarse con la Secretaría de Comunicaciones y Transportes, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2021)</small>
+
+Artículo 119 BIS. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias están obligadas a garantizar que niñas, niños y adolescentes, tengan el derecho al acceso y uso seguro del internet como medio efectivo paro (sic) ejercer su derecho o la no discriminación, información, comunicación, educación, salud, esparcimiento, entre otros, acorde a los fines dispuestos en la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado Libre y Soberano de Nuevo León y los Tratados Internacionales, así como su integración a la sociedad de la información y el conocimiento conforme con los principios de interdependencia y demás términos en las disposiciones aplicables.
+
 ### CAPÍTULO ÚNICO
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
@@ -1691,7 +1695,9 @@ IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violen
 
 X. Considerar la opinión y preferencia de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez; y
 
-XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2021)</small>
+
+XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación, considerando que para determinar el tipo de información o material que deba proporcionarse a los menores o a los que puedan acceder por sí mismos, no sólo deben tenerse en cuenta las diferencias de nivel de comprensión, sino que deben ajustarse a su edad, y que la información referida debe dirigirse a contribuir positivamente a la realización de los derechos de la niña, niño y del adolescente.
 
 En casos de controversia, el órgano jurisdiccional competente determinará el grado de responsabilidad de quien tenga a su cargo y cuidado a niñas, niños o adolescentes, atendiendo a los principios rectores de esta Ley.
 
@@ -3090,3 +3096,9 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 372. SE REFORMAN LAS FRACCIONES XXXVII Y XXXVIII DEL ARTÍCULO 4; LAS FRACCIONES XII Y XIII DEL ARTÍCULO 104; Y LAS FRACCIONES V Y VI DEL ARTÍCULO 107; Y SE ADICIONA LA FRACCIÓN XXXIX AL ARTÍCULO 4; LA FRACCIÓN XIV AL ARTÍCULO 104; Y LA FRACCIÓN VII AL ARTÍCULO 107; TODAS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 29 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 324. SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 121, Y SE ADICIONA EL ARTÍCULO 119 BIS, AMBOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
