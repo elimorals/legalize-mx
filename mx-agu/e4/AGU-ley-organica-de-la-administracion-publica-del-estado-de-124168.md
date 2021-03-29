@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-124168"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-10-27"
-last_updated: "2021-03-01"
+last_updated: "2021-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-[NOTA 1: PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE MARZO DE 2021 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]
-
-[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE MARZO DE 2021.]</small>
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de octubre de 2017.
 
@@ -1549,41 +1549,87 @@ XLII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, r
 
 #### SECCIÓN DÉCIMA TERCERA. La Secretaría de la Familia
 
-> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
+(ADICIONADO, P.O. 1 DE MARZO DE 2021) (F. DE E., P.O. 29 DE MARZO DE 2021)
 
 ###### Artículo 44.
 
 A la Secretaría de la Familia corresponde el despacho de los siguientes asuntos:
 
-I.- Establecer y coordinar la política estatal en materia de familia, en los términos de las leyes aplicables y de conformidad con lo dispuesto por el Titular del Poder Ejecutivo del Estado;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
 
-II.- Fomentar, promover, impulsar y coordinar las acciones destinadas a fortalecer el desarrollo y bienestar de las familias, así como la evaluación de sus efectos;
+I.- Establecer y coordinar de forma transversal la evaluación, diseño e implementación de la política estatal en materia de familia, en los términos de las leyes aplicables y de conformidad con lo dispuesto por el Titular del Poder Ejecutivo del Estado;
 
-III.- En coordinación con los sectores público, social y privado formular, aplicar y promover políticas adaptadas a la familia en las esferas de la vivienda, el trabajo, la salud, la seguridad social y la educación a fin de crear un entorno favorable;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
 
-IV.- Colaborar con las dependencias y entidades de la Administración Pública Estatal competentes, en la promoción social, cultural y económica de las mujeres y de los jóvenes;
+II.- Transversalizar la política familiar en todas las dependencias y entidades de la Administración Pública, entendida como la búsqueda de solución a los problemas públicos desde el núcleo familiar;
 
-V.- Colaborar con las dependencias y entidades de la Administración Pública Estatal competentes, para la protección y defensa de niñas, niños y adolescentes; de personas adultas mayores; y cualquier otra persona en situación de vulnerabilidad, dentro del núcleo familiar;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
 
-VI.- Fomentar el diálogo intercultural entre las familias, con la colaboración de las dependencias y entidades de la Administración Pública Estatal;
+III.- Emitir y dar seguimiento a opiniones formuladas a Entes Públicos, con base en estudios e informes para la transversalización de la política estatal en materia de familia;
 
-VII.- Desarrollar acciones en materia de prevención de adicciones y concientizar a las familias sobre esta problemática y su gravedad;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
 
-VIII.- Fomentar la inclusión, aceptación y participación de los integrantes en la familia, particularmente de niñas, niños, adolescentes, personas con discapacidad, adultos mayores y cualquier otra persona en situación de vulnerabilidad;
+IV.- Realizar capacitaciones a servidores públicos, al sector privado, y a organizaciones de la sociedad civil en materia de política familiar;
 
-IX.- Desarrollar acciones en materia de esparcimiento y recreación familiar;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
 
-X.- Llevar a cabo convenios para el desarrollo y coordinación de estudios en materia de investigación de la familia y de sus integrantes, y proporcionar dicha información, con el objeto de fortalecer a la sociedad;
+V.- Organizar eventos de sensibilización de la sociedad sobre la importancia de la familia como núcleo de la sociedad y su fortalecimiento;
 
-XI.- Diseñar, evaluar y mejorar las políticas públicas para el desarrollo y fortalecimiento de las familias con una cultura de igualdad sustantiva, aplicadas a los planes y programas que se ejecuten en las dependencias y entidades de (sic) Administración Pública Estatal;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
 
-XII.- Promover y difundir campañas sobre los valores y acciones que fomenten el desarrollo y fortalecimiento familiar, así como las medidas para su sensibilización;
+VI.- Fomentar, promover, impulsar y coordinar las acciones destinadas a fortalecer el desarrollo y bienestar de las familias, así como la evaluación de sus efectos;
 
-XIII.- Impulsar y promover la creación de Centros de Atención y Orientación Familiar en el Estado y en sus Municipios, mediante acuerdos y de conformidad con su respectiva competencia;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
 
-XIV.- Coadyuvar con el Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes en la instrumentación de políticas, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes, en los términos de la Ley de la materia; y
+VII.- En coordinación con los sectores público, social y privado formular, aplicar y promover políticas adaptadas a la familia en las esferas de la vivienda, el trabajo, la salud, la seguridad social y la educación a fin de crear un entorno favorable;
 
-XV.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
+
+VIII.- Colaborar con las dependencias y entidades de la Administración Pública Estatal competentes, en la promoción social, cultural y económica de las mujeres y de los jóvenes;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
+
+IX.- Colaborar con las dependencias y entidades de la Administración Pública Estatal competentes, para la protección y defensa de niñas, niños y adolescentes; de personas adultas mayores; y cualquier otra persona en situación de vulnerabilidad, dentro del núcleo familiar;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
+
+X.- Fomentar el diálogo intercultural entre las familias, con la colaboración de las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
+
+XI.- Desarrollar acciones en materia de prevención de adicciones y concientizar a las familias sobre esta problemática y su gravedad;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
+
+XII.- Fomentar la inclusión, aceptación y participación de los integrantes en la familia, particularmente de niñas, niños, adolescentes, personas con discapacidad, adultos mayores y cualquier otra persona en situación de vulnerabilidad;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
+
+XIII.- Desarrollar acciones en materia de esparcimiento y recreación familiar;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
+
+XIV.- Llevar a cabo convenios para el desarrollo y coordinación de estudios en materia de investigación de la familia y de sus integrantes, y proporcionar dicha información, con el objeto de fortalecer a la sociedad;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
+
+XV.- Diseñar, evaluar y mejorar las políticas públicas para el desarrollo y fortalecimiento de las familias con una cultura de igualdad sustantiva, de forma transversal, con base en las problemáticas públicas concretas que se hayan identificado, para ser aplicadas a los planes y programas que se ejecuten en las dependencias y entidades de (sic) Administración Pública Estatal;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
+
+XVI.- Promover y difundir campañas sobre los valores y acciones que fomenten el desarrollo y fortalecimiento familiar, así como las medidas para su sensibilización;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
+
+XVII.- Impulsar y promover la creación de Centros de Atención y Orientación Familiar en el Estado y en sus Municipios, mediante acuerdos y de conformidad con su respectiva competencia;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
+
+XVIII.- Coadyuvar con el Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes en la instrumentación de políticas, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes, en los términos de la Ley de la materia; y
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2021)</small>
+
+XIX.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN DÉCIMA CUARTA. La Coordinación General de Movilidad
 
