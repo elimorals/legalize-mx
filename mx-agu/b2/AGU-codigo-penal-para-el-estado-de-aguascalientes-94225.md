@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2021-03-22"
+last_updated: "2021-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1587,13 +1587,13 @@ Violencia a partir de una relación de pareja.- La violencia a partir de una rel
 
 Al responsable de violencia a partir de una relación de pareja se le aplicarán de 1 a 4 años de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. La pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos, cuando la víctima sea menor de 18 años de edad.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2021)</small>
 
 ###### ARTÍCULO 133-A.
 
-Exposición de menores o incapaces. La exposición de menores o incapaces consiste en dejar en total exposición, a una persona menor de edad, o que siendo mayor de edad le es imposible cuidar de sí mismo, colocándole en una situación de desamparo, de tal manera que se pongan en riesgo la integridad personal y libre desarrollo de la personalidad; por parte de quienes tienen su guarda y custodia, los hayan acogido materialmente, o tengan el deber de cuidarlo.
+Exposición de menores, incapaces o adultos mayores. La exposición de menores, incapaces o adultos mayores consiste en dejar en total vulnerabilidad o abandono, a una persona menor de edad, o que siendo mayor de edad le es imposible cuidar de sí mismo, colocándole en una situación de desamparo, de tal manera que se pongan en riesgo la integridad personal y libre desarrollo de la personalidad; por parte de quienes tienen su guarda y custodia, los hayan acogido materialmente, o tengan el deber de cuidarlo.
 
-Al responsable de Exposición de menores o incapaces se le aplicaran de 1 a 4 años de prisión y de 50 a 100 días multa, además de perder la patria potestad o ser destituido de la tutela, según corresponda.
+Al responsable de Exposición de menores, incapaces o adultos mayores se le aplicaran de 1 a 4 años de prisión y de 50 a 100 días multa, además de perder la patria potestad o ser destituido de la tutela, según corresponda.
 
 ### CAPÍTULO IV. Tipos Penales Protectores de la Libertad y Seguridad de las Personas
 
@@ -3600,3 +3600,15 @@ P.O. 22 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 517.- SE REFORMA EL ARTÍCULO 133-A DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos procedimientos judiciales que se estén llevando a cabo respecto del tipo penal que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9º del Código Penal para el Estado de Aguascalientes.
