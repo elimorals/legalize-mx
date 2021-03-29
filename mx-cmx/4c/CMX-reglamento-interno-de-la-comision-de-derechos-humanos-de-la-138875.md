@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-de-la-138
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-10-23"
-last_updated: "2019-11-20"
+last_updated: "2021-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138875&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-10-11"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MARZO DE 2021.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 23 de octubre de 2019.
 
@@ -428,7 +428,11 @@ VI. Designar a las personas encargadas del despacho y de las Áreas de la Comisi
 
 VII. Conocer, supervisar y vigilar el desarrollo de las actividades del Consejo, la Secretaría Ejecutiva, las Visitadurías Generales, las Delegaciones, la Contraloría Interna, las Direcciones, las Coordinaciones y demás Áreas, mediante la revisión de los informes que presenten las personas titulares o encargadas de despacho. Si de su revisión se detecta el incumplimiento de metas se podrá dar vista a las Áreas competentes;
 
-VIII. Dictar las medidas específicas que estime idóneas para el adecuado desempeño de las funciones de la Comisión;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE : https://cdhcm.org.mx/wp-content/uploads/2021/03/ACDO-SOBRE-REFORMA-A-RI.pdf]</small>
+
+> <small>(REFORMADA, G.O. 29 DE MARZO DE 2021)</small>
+
+VIII. Establecer mediante manuales administrativos, códigos, acuerdos, circulares, instructivos, formatos, reglas, criterios, metodologías y directivas, las medidas específicas que estime idóneas para el adecuado desempeño de las funciones de la Comisión;
 
 IX. Formular los lineamientos y políticas generales a las que habrán de sujetarse las actividades de la Comisión;
 
@@ -2201,3 +2205,11 @@ Segundo. Publíquese en la Gaceta Oficial de la Ciudad de México.
 ## TRANSITORIO
 
 ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DEL SITIO OFICIAL DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, DONDE PODRÁ SER CONSULTADA LA REFORMA A LA FRACCIÓN VIII DEL ARTÍCULO 35 DEL REGLAMENTO INTERNO DE ESTE ORGANISMO".]
+
+PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO. Se designa como responsable de la funcionalidad y permanencia del enlace electrónico en el sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México a Yolanda Ramírez Hernández, Directora General Jurídica de la Comisión de Derechos Humanos de la Ciudad de México, con correo electrónico yolanda.ramirez@cdhcm.org.mx, y teléfono 5552295600, extensión 2451.
