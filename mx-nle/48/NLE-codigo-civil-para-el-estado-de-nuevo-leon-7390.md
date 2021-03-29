@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2021-02-01"
+last_updated: "2021-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -289,9 +289,9 @@ La personalidad jurídica es una facultad exclusiva de los sujetos de derecho; e
 
 La personalidad jurídica de las personas físicas, se adquiere por el nacimiento y se extingue por la muerte, pero desde el momento en que el ser humano es concebido, entra bajo la protección de la ley y se le tiene por nacido para los efectos legales que señala este Código.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2021)</small>
 
-Art. 23 Bis I.- La minoría de edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+Art. 23 Bis I.- La minoría de edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica; pero los incapaces pueden ejercitar (sic) sus derechos o contraer obligaciones por sí mismos o por medio de sus representantes, atendiendo a las características y circunstancias particulares de cada caso.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -17778,6 +17778,12 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Se abroga la Ley de Aparcería del Estado de Nuevo León, publicada en el Periódico Oficial del Estado el día 4 de diciembre de 1940.
 
 TERCERO.- Los contratos de Aparcería existentes a la entrada en vigor del presente Decreto deberán regirse por las disposiciones vigentes al momento de su suscripción.
+
+P.O. 29 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 468. SE REFORMA EL ARTÍCULO 23 BIS I DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de Estado.
 
 ###### ARTICULO TERCERO.
 
