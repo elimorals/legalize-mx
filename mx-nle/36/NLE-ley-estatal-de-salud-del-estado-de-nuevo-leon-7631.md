@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-salud-del-estado-de-nuevo-leon-7631"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2021-02-10"
+last_updated: "2021-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -1205,9 +1205,19 @@ V.- CELEBRAR CONVENIOS O ACUERDOS DE COORDINACIÓN Y CONCERTACIÓN DE ACCIONES C
 
 VI.- PRESTAR SERVICIOS DE CAPACITACIÓN ESPECIALIZADA EN EL ÁREA;
 
-VII.- REALIZAR INSPECCIONES A LAS ÁREAS FÍSICAS DE LOS CENTROS DE TRATAMIENTO Y VERIFICAR LA IMPLEMENTACIÓN DE LOS PROGRAMAS DE TRATAMIENTO, SUPERVISANDO LA REHABILITACIÓN DE LOS ADICTOS; Y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2021)</small>
 
-VIII.- LAS DEMÁS QUE SE ESTABLEZCAN EN LA PRESENTE LEY Y LAS DEMÁS DISPOSICIONES NORMATIVAS APLICABLES.
+VII.- REALIZAR INSPECCIONES A LAS ÁREAS FÍSICAS DE LOS CENTROS DE TRATAMIENTO Y VERIFICAR LA IMPLEMENTACIÓN DE LOS PROGRAMAS DE TRATAMIENTO, SUPERVISANDO LA REHABILITACIÓN DE LOS ADICTOS;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2021)</small>
+
+VIII.- IMPLEMENTAR MECANISMOS PARA LA VERIFICACIÓN, SUPERVISIÓN Y AUTORIZACIÓN DEL FUNCIONAMIENTO DE CENTROS DE TRATAMIENTO DE ADICCIONES PRIVADOS.
+
+SI DE LA VERIFICACIÓN A DICHOS CENTROS SE OBSERVA ALGÚN INCUMPLIMIENTO AL PRESENTE ORDENAMIENTO, A LAS NORMAS CORRESPONDIENTES, O NO BRINDEN UN TRATO DIGNO Y DE RESPETO A LOS DERECHOS HUMANOS DE LAS PERSONAS QUE SE ENCUENTREN EN TRATAMIENTO, LA SECRETARÍA DICTARÁ LAS MEDIDAS DE SEGURIDAD Y SANCIONES QUE CORRESPONDAN, Y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 29 DE MARZO DE 2021)</small>
+
+IX.- LAS DEMÁS QUE SE ESTABLEZCAN EN LA PRESENTE LEY Y LAS DEMÁS DISPOSICIONES NORMATIVAS APLICABLES.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
 
@@ -2566,3 +2576,9 @@ P.O. 10 DE FEBRERO DE 2021.
 PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Los Ayuntamientos tendrán un plazo de 10 días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto, para que establezcan en sus Reglamentos de Policía y Buen Gobierno o de Justicia Cívica, según el caso, el uso obligatorio del cubreboca por parte de la población cuando así lo determine la autoridad sanitaria estatal, como la correspondiente sanción por la respectiva infracción a dicho precepto, en términos de lo establecido en el mismo.
+
+P.O. 29 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 467. SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 73 BIS DE LA LEY ESTATAL DE SALUD".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
