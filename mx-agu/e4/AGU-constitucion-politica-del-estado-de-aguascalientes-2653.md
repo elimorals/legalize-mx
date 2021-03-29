@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2021-02-08"
+last_updated: "2021-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -55,11 +55,23 @@ En el Estado de Aguascalientes, todas las personas gozarán de los derechos huma
 
 Las normas relativas a los derechos humanos se interpretarán siempre de conformidad con la Constitución Política de los Estados Unidos Mexicanos, con los tratados internacionales de la materia y con la presente Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2021)</small>
 
-Todas las personas tienen los deberes correlativos a los derechos que esta Constitución y demás leyes, les reconocen. Por ende, toda persona está llamada a contribuir al cumplimiento de las tareas comunitarias y de labor social, en la medida de sus capacidades y posibilidades, como el medio para el desarrollo libre y pleno de su personalidad.
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
-Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
+(NOTA: EL 10 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 72/2021 Y SU ACUMULADA 74/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MARZO DE 2021)</small>
+
+Para los efectos de esta Constitución y de las leyes que de ella emanen, persona es todo ser humano DESDE SU CONCEPCIÓN HASTA SU MUERTE NATURAL. El Estado le garantizará el pleno goce y ejercicio de todos sus derechos.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2021)</small>
+
+Toda persona tiene derecho al reconocimiento de su personalidad jurídica. Ninguna ley podrá atentar contra la esencial unidad y dignidad de la naturaleza humana.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE MARZO DE 2021)</small>
+
+Toda persona tiene los deberes y las obligaciones correlativas a los derechos que esta Constitución y demás leyes les reconocen. Por ende, toda persona está llamada a contribuir al cumplimiento de las tareas comunitarias y de labor social, en la medida de sus capacidades y posibilidades, como el medio para el pleno desarrollo de su personalidad.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2013)</small>
 
@@ -3420,3 +3432,15 @@ Los derechos laborales de las y los trabajadores de las instituciones que se vea
 ###### ARTÍCULO NOVENO.
 
 Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
+
+P.O. 29 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 475.- SE REFORMAN LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 2°, Y SE ADICIONAN LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL Y DECRETO)”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente reforma no deroga ninguna de las excusas absolutorias contempladas en la legislación penal.
