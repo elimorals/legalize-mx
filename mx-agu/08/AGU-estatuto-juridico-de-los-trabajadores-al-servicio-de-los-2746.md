@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2020-12-21"
+last_updated: "2021-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2021.
 
 Estatuto publicado en el Suplemento de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -1589,9 +1589,11 @@ Los términos comenzarán a correr al día siguiente en que surta sus efectos la
 
 En ningún término se contarán los días en que no puedan tener lugar las actuaciones ante el Tribunal.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 142.
 
-Cuando la realización o práctica de algún acto procesal o el ejercicio de un derecho tenga fijado un término, éste será de tres días hábiles.
+Cuando la realización o práctica de algún acto procesal o el ejercicio de un derecho no tenga fijado un término, éste será de tres días hábiles.
 
 ###### ARTICULO 143.
 
@@ -2272,3 +2274,11 @@ P.O. 21 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 516.- SE REFORMA EL ARTÍCULO 142 DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
