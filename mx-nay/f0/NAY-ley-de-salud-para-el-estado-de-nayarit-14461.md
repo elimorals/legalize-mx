@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2021-03-18"
+last_updated: "2021-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -151,13 +151,17 @@ XX.- La prevención del consumo de narcóticos, atención a las adicciones y apl
 
 XXI.- Promover la prevención, diagnóstico, atención, tratamiento, rehabilitación, control, vigilancia epidemiológica del cáncer de mama y la reconstrucción mamaria como consecuencia de una mastectomía por tratamiento de cáncer de seno;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-XXII.- Proporcionar en forma gratuita la prestación de servicios públicos de salud, medicamentos y demás insumos asociados, conforme a los convenios de coordinación que celebre con la Federación, y
+XXII.- Proporcionar en forma gratuita la prestación de servicios públicos de salud, medicamentos y demás insumos asociados, conforme a los convenios de coordinación que celebre con la Federación;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MARZO DE 2021)</small>
 
-XXIII.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
+XXIII.- La detección, diagnóstico, y tratamiento integral y control de diabetes mellitus tipo 1, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MARZO DE 2021)</small>
+
+XXIV.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
 B) En materia de salubridad local;
 
@@ -197,13 +201,17 @@ XVI.- Gasolinerías;
 
 XVII.- Prevención y control de la rabia en animales;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-XVIII.- Prevención de la violencia intrafamiliar; y
+XVIII.- Prevención de la violencia intrafamiliar;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MARZO DE 2021)</small>
 
-XIX.- Las demás materias que determine esta ley y las disposiciones legales aplicables.
+XIX. Establecimientos dedicados a la cirugía plástica, estética y reconstructiva, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MARZO DE 2021)</small>
+
+XX. Las demás materias que determine esta ley y las disposiciones legales aplicables.
 
 ## TITULO SEGUNDO
 
@@ -817,9 +825,13 @@ V.- La detección, atención y tratamiento de los problemas auditivos y enfermed
 
 VI.- La prevención de la transmisión materno infantil del VIH - Sida y la sífilis congénita mediante el ofrecimiento de pruebas de detección, confidenciales y gratuitas a las mujeres embarazadas, así como proporcionar la atención médica que se requiera.
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-VII.- Los procedimientos de aplicación obligatoria con el fin de que toda mujer embarazada este en compañía en todo momento, por una persona de su confianza o elección en el transcurso del trabajo de parto, parto o cesárea y puerperio.
+VII.- Los procedimientos de aplicación obligatoria con el fin de que toda mujer embarazada esté en compañía en todo momento por una persona de su confianza o elección en el transcurso del trabajo de parto, parto o cesárea y puerperio, y
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+VIII.- La detección, diagnóstico, tratamiento y control de la diabetes mellitus tipo 1, un programa de acción específico y actividades de seguimiento, vigilancia y evaluación de esta enfermedad, en términos de lo dispuesto por la presente Ley.
 
 ###### ARTICULO 57.
 
@@ -1665,7 +1677,9 @@ V.- Rabia, peste, brucelosis y otras zoonosis, en este caso se coordinará con l
 
 VI.- Paludismo, tifo, fiebre recurrente transmitida por piojo, otras rickettsiosis, leishemaniasis, tripanosomiasis, oncocercosis;
 
-VII.- Sífilis, infecciones gonococcicas y otras enfermedades de transmisión sexual;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+VII.- Sífilis, infecciones gonocócicas, virus del papiloma humano y otras enfermedades de transmisión sexual;
 
 VIII.- Lepra y mal de pinto;
 
@@ -1806,6 +1820,14 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 ARTICULO 122 bis.- La Secretaría de Salud implementará programas de educación, prevención, información, socialización y detección de cáncer de mama y cervicouterino de manera permanente en los hospitales y clínicas del sector salud, de tal forma que garantice la realización de exámenes de detección de cáncer de mama y cervicouterino, de manera gratuita, por lo menos una vez al año.
 
 En las localidades donde no exista clínica del sector público, la Secretaría de Salud del Estado deberá celebrar convenios de colaboración con los Ayuntamientos, clínicas particulares o patrocinadoras del sector privado, para que se realice el servicio gratuito de exámenes para la detección de cáncer de mama y cervicouterino.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2021)</small>
+
+ARTICULO 122 TER.- Los Servicios de Salud de Nayarit, establecerán las bases y políticas necesarias para generar las condiciones óptimas de detección y atención, para las personas con diabetes mellitus tipo 1.
+
+Se promoverá la creación de un programa que implemente campañas de información, orientación y detección de la diabetes mellitus tipo 1, encaminado a la sensibilización de la sociedad y a promover las diferencias entre la diabetes mellitus tipo 1, la diabetes mellitus tipo 2 y la diabetes gestacional.
+
+En la realización de las actividades preventivas, de tratamiento y control de la diabetes, y para asegurar el pleno cumplimiento de los derechos de las niñas, niños y adolescentes que establece la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los cuales nuestro país forme parte, la Ley General de Salud, esta Ley y demás disposiciones, podrán participar las diferentes organizaciones en materia de derechos humanos.
 
 ###### ARTICULO 123.
 
@@ -2601,13 +2623,31 @@ Los propietarios de los animales a que se refiere el artículo anterior, estará
 
 Las autoridades sanitarias, mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MARZO DE 2021)</small>
 
-### CAPITULO I. AUTORIZACIONES
+### CAPÍTULO XIX. ESTABLECIMIENTOS DEDICADOS A LA CIRUGÍA PLÁSTICA, ESTÉTICA Y RECONSTRUCTIVA
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2021)</small>
+
+ARTICULO 236 BIS.- La cirugía plástica, estética y reconstructiva, relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, o con efectos antienvejecimiento, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por especialistas en cirugía plástica, estética y reconstructiva certificados de conformidad con la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2021)</small>
+
+ARTICULO 236 TER.- Las sociedades, asociaciones, colegios o federaciones de especialistas dedicados a la cirugía plástica, estética y reconstructiva, deberán poner a disposición de los Servicios de Salud de Nayarit, un listado que contenga los nombres y datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos certificados, referidos en este capítulo, y será (sic) de conocimiento público sus certificados o títulos de especialización vigentes, así como el o los procedimientos médico-quirúrgicos que lleven a cabo.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2021)</small>
+
+ARTICULO 236 QUÁTER.- El funcionamiento de los establecimientos señalados en este capítulo deberá apegarse a lo establecido en la Ley General de Salud y su reglamento, las Normas Oficiales Mexicanas que se encuentren vigentes y sean aplicables, relativas a las características mínimas de infraestructura y equipamiento de hospitales y consultorios de atención médica especializada, las normas técnicas correspondientes y lo que establezca esta ley y su reglamento. Corresponde a la autoridad sanitaria ejercer el control de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2021)</small>
+
+ARTICULO 236 QUINQUIES.- La oferta de los servicios que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por profesionistas que ejerzan cirugía plástica, estética o reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad en su publicidad la institución que les expidió el título, certificado, diploma y en su caso, el número de su cédula profesional, emitidas por las autoridades oficialmente reconocidas. Para el cumplimiento de esta disposición se observará lo establecido en la Ley General de Salud, esta Ley y las demás disposiciones en la materia.
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 237.
 
@@ -2653,7 +2693,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la Legislación fiscal y los convenios de coordinación que celebren en la materia, el gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 244.
 
@@ -2713,9 +2753,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 252.
 
@@ -2769,7 +2807,9 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 257.
 
@@ -2867,7 +2907,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIAS Y SANCIONES
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 269.
 
@@ -2971,9 +3011,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará previa la observancia de la garantía de audiencia y del dictamen pericial, cuando a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 282.
 
@@ -3063,9 +3101,9 @@ I.- A la persona que interfiera o se oponga al ejercicio de las funciones de la 
 
 II.- A la persona que en rebeldía se niegue a cumplir los requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas. Solo procederá esta sanción, si previamente se dictó cualquier otra de las sanciones a que se refiere este capítulo. Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 294.
 
@@ -3145,7 +3183,9 @@ En los casos de suspensión de trabajo o servicios o de clausura temporal o defi
 
 Cuando el contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
 
 ###### ARTICULO 304.
 
@@ -3194,6 +3234,8 @@ Contra las resoluciones y actos administrativos de las autoridades que contraven
 ###### ARTICULO 315.
 
 (DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 316.
 
@@ -3412,3 +3454,11 @@ P.O. 18 DE MARZO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO.- En un plazo no mayor a 60 días hábiles contados a partir de la entrada en vigor del Presente Decreto, el Ejecutivo del Estado deberá emitir o reformar las disposiciones necesarias para hacer efectiva la presente reforma.
+
+P.O. 30 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Los establecimientos que presten los servicios materia de la presente reforma deberán atender lo conducente para dar cumplimiento a los requisitos previstos en la presente reforma y en la Ley General de Salud para su debido funcionamiento.
