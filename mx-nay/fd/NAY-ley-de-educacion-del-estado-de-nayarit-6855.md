@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2020-11-05"
+last_updated: "2021-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -57,11 +57,13 @@ En el Estado de Nayarit, toda persona tiene derecho a recibir educación de exce
 
 El Estado garantizará el derecho a la educación conforme al artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano sea parte, la Constitución Política del Estado Libre y Soberano de Nayarit, y la Ley General de Educación.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 2o.
 
-La educación, es un medio para adquirir, actualizar, transmitir, completar y ampliar los conocimientos, cultura, capacidades, habilidades y aptitudes que permiten al individuo alcanzar su desarrollo personal y profesional, como consecuencia de ello, contribuir a su bienestar, a la transformación y al mejoramiento de la sociedad de la que forma parte.
+La educación, basada en el respeto a los derechos humanos, es un medio para adquirir, actualizar, transmitir, completar y ampliar los conocimientos, cultura, capacidades, habilidades y aptitudes que permiten al individuo alcanzar su desarrollo personal y profesional, como consecuencia de ello, contribuir a su bienestar, a la transformación y al mejoramiento de la sociedad de la que forma parte.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
 La educación que imparta el Estado, los Municipios, los Organismos Descentralizados y los Particulares con autorización y reconocimiento de validez oficial, será regulada por esta ley, y se ajustará a los principios y disposiciones que se establecen en el artículo 3o. de la Constitución Federal, la Ley General, la Ley de las Maestras y los Maestros, la Ley de Mejora Continua de la Educación, la Constitución Local, y a las disposiciones legales que de ellas emanen.
 
@@ -91,11 +93,13 @@ IX. Será integral porque educará para la vida y estará enfocada a las capacid
 
 X. Será de excelencia, orientada al mejoramiento permanente de los procesos formativos que propicien el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y comunidad.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 3o.
 
-Toda persona gozará del derecho fundamental de recibir educación de excelencia, con solo satisfacer los requisitos que establezcan las instituciones a que se desea ingresar con base a las disposiciones aplicables; la educación es un proceso permanente para crear, acrecentar y transmitir conocimientos, capacidades, habilidades y aptitudes para contribuir al desarrollo integral del individuo y garantizar el mejoramiento de las condiciones generales de la sociedad.
+Toda persona gozará del derecho fundamental de recibir educación de excelencia, con solo satisfacer los requisitos que establezcan las instituciones a que se desea ingresar con base a las disposiciones aplicables; la educación es un proceso permanente para crear, acrecentar y transmitir conocimientos, capacidades, habilidades y aptitudes para contribuir al desarrollo integral del individuo y garantizar el mejoramiento de las condiciones generales de la sociedad, a partir del respeto a los derechos humanos.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
 El proceso educativo deberá asegurar en el educando su sentido de responsabilidad social para lograr los fines a que se refiere el Artículo 6° de esta Ley y prestar servicios educativos de excelencia que garanticen el máximo logro de aprendizaje de los educandos, para que toda la población pueda cursar la educación inicial, preescolar, primaria, secundaria, media superior y superior.
 
@@ -109,17 +113,21 @@ Estos servicios educativos se prestarán en el marco del federalismo y la concur
 
 Además de impartir la educación preescolar, la primaria, la secundaria y la media superior, el Estado promoverá y atenderá directamente, mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio, todos los tipos y modalidades educativos, incluida la educación inicial, especial y superior, necesarios para el desarrollo de la Nación; apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y la difusión de la cultura nacional y universal.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 5o.
 
-La educación Inicial, Preescolar, Primaria, Secundaria, Media Superior y Superior que imparta el Estado y los Municipios, además de obligatoria, será:
+La educación Inicial, Preescolar, Primaria, Secundaria, Media Superior y Superior que imparta el Estado y los Municipios, además de obligatoria y con pleno respeto a los derechos humanos, será:
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
 I. Universal, al ser un derecho humano que corresponde a todas las personas por igual, por lo que;
 
 a) Extenderá sus beneficios sin discriminación alguna, de conformidad con lo dispuesto en el artículo 1o. de la Constitución Federal, y
 
 b) Tendrá especial énfasis en el estudio de la realidad y las culturas nacionales;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
 II. Inclusiva, eliminando toda forma de discriminación y exclusión, así como las demás condiciones estructurales que se convierten en barreras al aprendizaje y la participación, por lo que:
 
@@ -131,11 +139,15 @@ c) Proveerá de los recursos técnicos-pedagógicos y materiales necesarios para
 
 d) Establecerá la educación especial disponible para todos los tipos, niveles, modalidades y opciones educativas, la cual se proporcionará en condiciones necesarias, a partir de la decisión y previa valoración por parte de los educandos, madres y padres de familiar o tutores, personal docente y, en su caso, por una condición de salud;
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 5 DE NOVIEMBRE DE 2020)</small>
+
 III. Pública, al ser impartida y administrada por el Estado, por lo que:
 
 a) Asegurará que el proceso educativo responda al interés social y a las finalidades de orden público para el beneficio de la Nación, y
 
 b) Vigilará que, la educación impartida por particulares, cumpla con las normas de orden público que rigen al proceso educativo y al Sistema Educativo Nacional que se determinen en esta Ley y demás disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
 IV. Gratuita, al ser un servicio público garantizado por el Estado, por lo que:
 
@@ -144,6 +156,8 @@ a) Se prohíbe el pago de cualquier contraprestación que impida o condicione la
 b) No se podrá condicionar la inscripción, el acceso a los planteles, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos al pago de contraprestación alguna, ni afectar en cualquier sentido la igualdad en el trato a los educandos, y
 
 c) Las donaciones o aportaciones voluntarias destinadas a dicha educación en ningún caso se entenderán como contraprestación del servicio educativo. Las autoridades educativas, en el ámbito de su competencia, definirán los mecanismos para su regulación, destino, aplicación, transparencia y vigilancia, además tendrán la facultad de apoyarse en instituciones que se determinen para tal fin, y
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
 V. Laica, al mantenerse por completo ajena a cualquier doctrina religiosa.
 
@@ -169,9 +183,9 @@ II.- Proteger y acrecentar los bienes y valores que constituyan el acervo cultur
 
 El respeto y conservación del patrimonio cultural e histórico, así como de las tradiciones, usos y costumbres del Estado, y fomentar la identidad y el sentido de pertenencia como Nayarita, además del respeto desde la interculturalidad, para considerarse como parte de una nación pluricultural y plurilingüe con una historia que cimienta perspectivas del futuro, que promueva la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-III.- Contribuirá al desarrollo integral y armónico de las facultades del ser humano, formándolo como individuo creativo, reflexivo, crítico y humanístico, cimentando la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de toda persona, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
+III.- Contribuirá al desarrollo integral y armónico de las facultades del ser humano, formándolo como individuo creativo, reflexivo, crítico y humanístico, cimentando la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de toda persona, generando la difusión sistematizada de los derechos humanos y evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
 
 IV.- Propiciar en los educandos la integración de los conocimientos que armonicen la tradición y la modernidad;
 
@@ -207,9 +221,9 @@ XI.- Coadyuvar a prevenir, combatir y erradicar el alcoholismo, tabaquismo, drog
 
 XII.- Fomentar en los alumnos, docentes y madres y padres de familia, la cultura de la salud, promoviendo la educación física, la práctica del deporte, los hábitos de higiene y la sana alimentación, como parte integral de una vida saludable;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-XIII.- Contribuir al desarrollo integral del ser humano, promoviendo la cultura de la legalidad, los valores sociales y éticos, la igualdad entre las personas y la equidad de género, así como, fomentar la responsabilidad ciudadana, sustentada en valores como la honestidad, la justicia, la solidaridad, la reciprocidad, la lealtad, la libertad, entre otros;
+XIII.- Contribuir al desarrollo integral del ser humano conforme a los derechos humanos, promoviendo la cultura de la legalidad, los valores sociales y éticos, la igualdad entre las personas, la equidad de género, así como, fomentar la responsabilidad ciudadana, sustentada en valores como la honestidad, la justicia, la solidaridad, la reciprocidad, la lealtad, la libertad, entre otros;
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -317,7 +331,9 @@ III.- Establecer y fomentar las bibliotecas, hemerotecas, videotecas y talleres 
 
 IV.- Expedir títulos, grados académicos, certificados y diplomas;
 
-V.- Promover y difundir la cultura, el deporte, las actividades cívicas, artísticas, recreativas y sociales;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+V.- Promover y difundir la cultura, los derechos humanos, el deporte, las actividades cívicas, artísticas, recreativas y sociales;
 
 VI.- Otorgar, negar o revocar, autorización a los particulares para impartir educación;
 
@@ -427,13 +443,41 @@ XXXII.- De manera concurrente con la Secretaría, participar en la determinació
 
 XXXIII.- De manera concurrente con la autoridad educativa federal y municipal, garantizar la gratuidad de la educación superior de manera gradual, comenzando con el nivel de licenciatura y, progresivamente, con los demás niveles de este tipo educativo, en los términos que establezca la ley de la materia, priorizando la inclusión de los pueblos indígenas y los grupos sociales más desfavorecidos para proporcionar la prestación de este servicio educativo en todo el territorio nacional. En todo momento se respetará el carácter de las instituciones a las que la ley otorga autonomía;
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-XXXIV.- Incluir en el proyecto de presupuesto que someta a la aprobación del Congreso del Estado, los recursos suficientes para fortalecer las capacidades de la administración escolar, y
+XXXIV.- Incluir en el proyecto de presupuesto que someta a la aprobación del Congreso del Estado, los recursos suficientes para fortalecer las capacidades de la administración escolar;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MARZO DE 2021)</small>
 
-XXXV.- Las demás que fijen las leyes o normas aplicables en la materia.
+XXXV.- Promover y fortalecer la educación ambiental a través de la impartición de actividades extracurriculares cuyos contenidos incluyan los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable y la prevención, mitigación y adaptación a los efectos del cambio climático, además de que se fomente la protección al medio ambiente, equilibrio ecológico y el aprovechamiento racional de los recursos naturales, así como las medidas para su conservación, mejoramiento y cuidado, que propicien el desarrollo y la calidad de vida de los habitantes del Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+XXXVI.- Proponer contenidos ambientales que deban incluirse en los planes y programas de estudio de las materias afines que se impartan en educación inicial, preescolar, básica, media superior y normal para la formación de maestros de educación básica y media superior, en los que se incluyan los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, el uso racional de los recursos naturales y la prevención del cambio climático;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+XXXVII.- Promover el conocimiento de los ecosistemas existentes en el territorio del Estado y la importancia de su conservación y protección para el desarrollo integral de la entidad;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+XXXVIII.- Hacer conciencia de la necesidad de mejorar el ambiente, el equilibrio ecológico, de realizar un aprovechamiento racional de los recursos naturales y promover la cultura de la reforestación;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+XXXIX.- Fomentar y encausar el desarrollo y la aplicación del avance científico y tecnológico de acuerdo a las necesidades del crecimiento económico y social de la entidad, propiciando el uso racional de los recursos naturales a fin de preservar el equilibrio ecológico, promoviendo entre los individuos la conservación y protección del medio ambiente y la naturaleza;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+XL.- Promover, fomentar y difundir los derechos humanos, así como el respeto de los derechos de las minorías y grupos vulnerables;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+XLI.- Contribuir a la mejor convivencia humana, fortaleciendo el aprecio por la dignidad de la persona, la integridad de la familia, la convicción por el interés general de la sociedad, la promoción y respeto de los derechos humanos, los ideales de fraternidad e igualdad de derechos de hombres y mujeres, evitando la discriminación, así como los privilegios de raza, de religión, de grupo, de sexo, de condición económica e individuales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MARZO DE 2021)</small>
+
+XLII.- Las demás que fijen las leyes o normas aplicables en la materia.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -1165,6 +1209,10 @@ Todos los planteles educativos, públicos o privados, deben cumplir con las norm
 
 En la educación que impartan los particulares con autorización o con reconocimiento de validez oficial de estudios, debe demostrarse además el cumplimiento de las obligaciones señaladas en el artículo 55, fracción II de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2021)</small>
+
+Asimismo, durante una emergencia sanitaria declarada por autoridad competente, la Secretaría de Educación deberá expedir para que un inmueble pueda prestar servicios educativos ya sea de carácter público o privado un certificado de control de higiene escolar que permitirá el acceso seguro al alumnado.
+
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
 ARTICULO 60 E.- La autoridad educativa estatal atenderá de manera prioritaria las escuelas que, por estar en localidades aisladas, zonas urbanas marginadas, rurales y en pueblos y comunidades indígenas, tengan mayor posibilidad de rezago o abandono escolar, estableciendo condiciones físicas y de equipamiento que permitan proporcionar educación con equidad e inclusión en dichas localidades.
@@ -1194,6 +1242,14 @@ ARTICULO 60 I.- La autoridad educativa estatal dará a conocer ampliamente los l
 El Comité Escolar de Administración Participativa tendrá como objetivo la dignificación de los planteles educativos y la paulatina superación de las desigualdades entre las escuelas en el estado, el cual recibirá presupuesto anual para mejoras, mantenimiento o equipamiento del plantel educativo y, en el caso de construcción deberá contar con asistencia técnica, de conformidad con los procedimientos establecidos en los lineamientos mencionados en el párrafo anterior y en cumplimiento de las disposiciones a las que alude este Capítulo.
 
 Sus integrantes serán electos al inicio de cada año lectivo mediante asamblea escolar en la que participen docentes, directivos, madres y padres de familia o tutores, además de estudiantes a partir del 4o. grado de primaria, de acuerdo con los lineamientos emitidos por la autoridad educativa federal.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2021)</small>
+
+ARTICULO 60 J.- En caso de emergencia sanitaria declarada por autoridad competente, la Secretaría de Educación, en coordinación con las autoridades sanitarias del estado y de los municipios, se encargará de implementar protocolos preventivos en materia de higiene escolar, que contengan los aspectos mínimos para prevenir el contagio de la emergencia sanitaria declarada.
+
+La Secretaría de Educación, en coordinación con los Servicios de Salud de Nayarit, mantendrá el control de higiene preventiva escolar y supervisará el cumplimiento de esas medidas al interior de los planteles educativos.
+
+En caso de que no se cumpla con los protocolos previamente señalados y priorizando la salud del alumnado, el inmueble será cerrado hasta que se cumpla con las disposiciones referidas.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADO, ANTES CAPÍTULO VII], P.O. 20 DE DICIEMBRE DE 2008)</small>
 
@@ -1291,11 +1347,13 @@ II.- Fomentar la cultura de respeto a la ley, los valores sociales y éticos, la
 
 III.- Garantizar la integridad física de los alumnos y docentes dentro de los Centros Escolares del Estado, adoptando para el caso los lineamientos y programas de protección civil y de emergencia escolar que establezcan las autoridades en la materia;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-IV.- En coordinación con las madres y padres de familia y los trabajadores de la educación, atender las recomendaciones, lineamientos, medidas y disposiciones que en materia de higiene, prevención y tratamiento de enfermedades o padecimientos, emita la Secretaría de Salud, a efecto de garantizar el bienestar de los educandos y de los trabajadores de la educación;
+IV.- En coordinación con las madres y padres de familia y los trabajadores de la educación, atender las recomendaciones, lineamientos, protocolos preventivos, medidas y disposiciones que en materia de higiene, prevención y tratamiento de enfermedades o padecimientos, emita la Secretaría de Salud, a efecto de garantizar el bienestar de los educandos y de los trabajadores de la educación;
 
-V.- Impulsar la práctica de la actividad física y el deporte de conformidad con los planes y programas de estudio que al efecto se establezcan;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+V.- Impulsar la práctica de la actividad física y el deporte de conformidad con los planes y programas de estudio que al efecto se establezcan; así como, incluir como actividad extraescolar de nivel básico, la técnica deportiva del yoga, como una forma de activación física que ejercita cuerpo y mente, de conformidad con el ámbito competencial establecido en la materia.
 
 VI.- Desarrollar labores y programas tendientes a evitar la reprobación y la deserción escolar;
 
@@ -1744,3 +1802,9 @@ Los trámites y procedimientos iniciados con anterioridad a la entrada en vigor 
 QUINTO.- Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo del Estado, para el ejercicio fiscal correspondiente, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes, derivadas de la presente Ley.
 
 SEXTO.- Las relaciones laborales de los trabajadores al servicio de la educación que, al momento de la entrada en vigor de esta Ley, se rigen por el artículo 123 Constitucional Apartado A o B, según corresponda, se mantendrán en esos términos, de conformidad con lo dispuesto en el Artículo Décimo Sexto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado el 15 de mayo de 2019 en el Diario Oficial de la Federación.
+
+P.O. 30 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
