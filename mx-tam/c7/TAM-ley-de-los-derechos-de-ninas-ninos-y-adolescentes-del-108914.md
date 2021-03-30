@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2021-03-04"
+last_updated: "2021-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -105,71 +105,83 @@ III.- Adopción internacional: Es la promovida por personas con residencia habit
 
 IV.- Ajustes razonables: A las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad, el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-V.- Centro de asistencia social: Al establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas y privadas y asociaciones;
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
 
-VI.- Certificado de idoneidad: El documento expedido por el Consejo Técnico a través de la Procuraduría o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
+V.- Castigo corporal: A todo acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, comprendiendo los golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos calientes u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar;
 
-VII.- CONEVAL: Al Consejo Nacional de Evaluación de la Política de Desarrollo Social;
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
 
-VIII.- Constitución Federal: A la Constitución Política de los Estados Unidos Mexicanos;
+VI.- Castigo humillante: Al trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador, de menosprecio o aquel acto que tenga como objetivo provocar dolor, amenaza, molestia o afectación en la integridad física, mental, psicológica o emocional en contra de niñas, niños y adolescentes;
 
-IX.- Constitución del Estado: A la Constitución Política del Estado Libre y Soberano de Tamaulipas;
+VII.- Centro de asistencia social: Al establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas y privadas y asociaciones;
 
-X.- Convención: Convención Sobre los Derechos del Niño;
+VIII.- Certificado de idoneidad: El documento expedido por el Consejo Técnico a través de la Procuraduría o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
 
-XI.- Discriminación Múltiple: A la situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
+IX.- CONEVAL: Al Consejo Nacional de Evaluación de la Política de Desarrollo Social;
 
-XI (SIC).- Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesite;
+X.- Constitución Federal: A la Constitución Política de los Estados Unidos Mexicanos;
 
-XIII.- Familia de origen: A aquélla compuesta por titulares de la patria potestad, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
+XI.- Constitución del Estado: A la Constitución Política del Estado Libre y Soberano de Tamaulipas;
 
-XIV.- Familia extensa o ampliada: Es la compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
+XII.- Convención: Convención Sobre los Derechos del Niño;
 
-XV.- Familia de acogida: A aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
+XIII.- Discriminación Múltiple: A la situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
 
-XVI.- Familia de acogimiento pre-adoptivo: A la distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños o adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-XVII.- Igualdad Sustantiva: Al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+XIV.- Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesite;
 
-XVIII.- Informe de adoptabilidad: Al documento expedido por el Sistema Nacional DIF o el DIF Estatal, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños o adolescentes;
+XV.- Familia de origen: A aquélla compuesta por titulares de la patria potestad, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
 
-XIX.- Interés superior de la niñez: El catálogo de valores, principios, interpretaciones, acciones y procesos dirigidos a forjar un desarrollo humano integral y una vida digna, así como generar las condiciones materiales que permitan a las niñas, niños y adolescentes, vivir plenamente y alcanzar el máximo bienestar personal, familiar y social posible, cuya protección debe promover y garantizar el Estado en el ejercicio de sus funciones legislativa, ejecutiva y judicial, por tratarse de un asunto de orden público e interés social;
+XVI.- Familia extensa o ampliada: Es la compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
 
-XX.- Ley: Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tamaulipas;
+XVII.- Familia de acogida: A aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
 
-XXI.- Ley General: La Ley General de los Derechos de Niñas, Niños y Adolescentes;
+XVIII.- Familia de acogimiento pre-adoptivo: A la distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños o adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
 
-XXII.- Órgano jurisdiccional: A los juzgados o tribunales del Estado;
+XIX.- Igualdad Sustantiva: Al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
-XXIII.- Procuraduría de Protección: A la Procuraduría de Protección de Niñas, Niños y Adolescentes del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
+XX.- Informe de adoptabilidad: Al documento expedido por el Sistema Nacional DIF o el DIF Estatal, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños o adolescentes;
 
-XXIV.- Procurador: Al titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes, del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+XXI.- Interés superior de la niñez: El catálogo de valores, principios, interpretaciones, acciones y procesos dirigidos a forjar un desarrollo humano integral y una vida digna, así como generar las condiciones materiales que permitan a las niñas, niños y adolescentes, vivir plenamente y alcanzar el máximo bienestar personal, familiar y social posible, cuya protección debe promover y garantizar el estado en el ejercicio de sus funciones legislativa, ejecutiva y judicial, por tratarse de un asunto de orden público e interés social;
+
+XXII.- Ley: Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tamaulipas;
+
+XXIII.- Ley General: La Ley General de los Derechos de Niñas, Niños y Adolescentes;
+
+XXIV.- Órgano jurisdiccional: A los juzgados o tribunales del Estado;
+
+XXV.- Procuraduría de Protección: A la Procuraduría de Protección de Niñas, Niños y Adolescentes del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
+
+XXVI.- Procurador: Al titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes, del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
-XXV.- Fiscalía General: A la Fiscalía General de Justicia del Estado de Tamaulipas;
+XXVII.- Fiscalía General: A la Fiscalía General de Justicia del Estado de Tamaulipas;
 
-XXVI.- Programa: Al Programa de Protección de Niñas, Niños y Adolescentes del Estado;
+XXVIII.- Programa: Al Programa de Protección de Niñas, Niños y Adolescentes del Estado;
 
-XXVII.- Programa Nacional: Al Programa Nacional de Protección de Niñas, Niños y Adolescentes;
+XXIX.- Programa Nacional: Al Programa Nacional de Protección de Niñas, Niños y Adolescentes;
 
-XXVIII.- Protección Integral: Al conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes, de conformidad con los principios rectores de esta Ley, la Constitución Federal, la Constitución del Estado y los tratados internacionales de los que el Estado mexicano forma parte;
+XXX.- Protección Integral: Al conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes, de conformidad con los principios rectores de esta Ley, la Constitución Federal, la Constitución del Estado y los tratados internacionales de los que el Estado mexicano forma parte;
 
-XXIX.- Representación coadyuvante: Al acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXXI.- Representación coadyuvante: Al acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXX.- Representación originaria: A la representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+XXXII.- Representación originaria: A la representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
 
-XXXI.- Representación en suplencia: A la representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXXIII.- Representación en suplencia: A la representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXXII.- Sistema DIF Tamaulipas: Al Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
+XXXIV.- Sistema DIF Tamaulipas: Al Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
 
-XXXIII.- Sistema Estatal de Protección Integral: Al Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Tamaulipas;
+XXXV.- Sistema Estatal de Protección Integral: Al Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Tamaulipas;
 
-XXXIV.- Sistema Municipal de Protección Integral: El Sistema de Protección de Niñas, Niños y Adolescentes de los municipios del Estado de Tamaulipas;
+XXXVI.- Sistema Municipal de Protección Integral: El Sistema de Protección de Niñas, Niños y Adolescentes de los municipios del Estado de Tamaulipas;
 
-XXXV.- Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Tamaulipas; y
+XXXVII.- Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Tamaulipas; y
 
-XXXVI.- Tratados Internacionales: A los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XXXVIII.- Tratados Internacionales: A los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
 ###### ARTÍCULO 6.
 
@@ -458,6 +470,10 @@ Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y
 ###### ARTÍCULO 31.
 
 Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2021)</small>
+
+Además, tienen derecho a recibir orientación, educación, cuidado y disciplina de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda, custodia y crianza, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni humillante.
 
 ###### ARTÍCULO 32.
 
@@ -1608,6 +1624,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 4 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-493 MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 12, LA DENOMINACIÓN DEL CAPÍTULO TERCERO DEL TÍTULO SEGUNDO, Y EL ARTÍCULO 14, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-511 MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES V Y VI AL ARTÍCULO 5, RECORRIÉNDOSE LAS SUBSECUENTES EN SU ORDEN NATURAL Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 31 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
