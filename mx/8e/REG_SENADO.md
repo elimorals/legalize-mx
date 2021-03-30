@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2020-03-20"
+last_updated: "2021-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2021.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -654,6 +654,10 @@ V. Otorgar el Reconocimiento "Elvia Carrillo Puerto".
 
 VI. Otorgar el Reconocimiento “Dr. Jesús Kumate Rodríguez”.
 
+> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2021)</small>
+
+VII. Otorgar el Premio al Mérito Literario "Rosario Castellanos".
+
 2. El formato y realización de las sesiones solemnes se ajusta a lo que disponen este Reglamento y las disposiciones en materia de ceremonial y protocolo.
 
 > <small>(ADICIONADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE CREA EL RECONOCIMIENTO "ELVIA CARRILLO PUERTO", D.O.F. 5 DE MARZO DE 2013)</small>
@@ -671,6 +675,14 @@ Artículo 56 Ter
 La persona acreedora al Reconocimiento “Dr. Jesús Kumate Rodríguez”, será elegida por el voto de las dos terceras partes de las senadoras y los senadores presentes.
 
 La Comisión de Salud, previa auscultación de los sectores académicos, culturales y de organismos de ciudadanos beneficiarios de los servicios de salud, propondrá la terna con las personas consideradas como merecedoras del reconocimiento al Pleno, conforme al Decreto por el que se crea el Reconocimiento “Dr. Jesús Kumate Rodríguez”.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 2021)</small>
+
+Artículo 56 Quater
+
+La persona acreedora al Premio al Mérito Literario "Rosario Castellanos", será elegida por el voto de las dos terceras partes de las senadoras y los senadores presentes.
+
+La Comisión de Cultura, previa auscultación de las instituciones públicas, los sectores académicos y culturales, propondrá la terna con las personas consideradas como merecedoras del premio al Pleno, conforme al Decreto por el que se crea el Premio al Mérito Literario "Rosario Castellanos".
 
 Artículo 57
 
@@ -3471,5 +3483,11 @@ D.O.F. 29 DE MARZO DE 2019.
 D.O.F. 20 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE CREA EL RECONOCIMIENTO "DR. JESÚS KUMATE RODRÍGUEZ" Y SE ADICIONA UNA FRACCIÓN SEXTA AL NUMERAL 1 DEL ARTÍCULO 56 Y UN ARTÍCULO 56 TER, AMBOS DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE CREA EL PREMIO AL MÉRITO LITERARIO "ROSARIO CASTELLANOS" Y SE ADICIONA UNA FRACCIÓN VII AL NUMERAL 1 DEL ARTÍCULO 56 Y UN ARTÍCULO 56 QUATER AL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
