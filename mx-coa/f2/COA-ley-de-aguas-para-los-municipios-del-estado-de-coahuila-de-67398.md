@@ -4,7 +4,7 @@ identifier: "COA-ley-de-aguas-para-los-municipios-del-estado-de-coahuila-de-6739
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-24"
-last_updated: "2019-10-29"
+last_updated: "2021-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de febrero de 2009.
 
@@ -229,9 +229,13 @@ Los usuarios de los servicios de agua potable, drenaje, alcantarillado, tratamie
 
 Los servicios de agua potable, drenaje y alcantarillado no podrán ser objeto de exención o condonación alguna. Los usuarios particulares, los gobiernos y dependencias o entidades federales, estatales o municipales, instituciones educativas y culturales o de asistencia pública o privada en consecuencia, estarán obligados a su pago.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2021)</small>
 
-Cualquier disposición que contravenga lo previsto por el párrafo anterior será nula de pleno derecho e implicará que quien la emita se haga acreedor a que le sea fincada la responsabilidad correspondiente, salvo lo dispuesto en el caso del incentivo otorgado a los adultos mayores, pensionados, jubilados y personas que cuenten con alguna discapacidad.
+Cualquier disposición que contravenga lo previsto por el párrafo anterior será nula de pleno derecho e implicará que quien la emita se haga acreedor a que le sea fincada la responsabilidad correspondiente, salvo lo dispuesto en el caso del incentivo o descuento otorgado a los adultos mayores, pensionados, jubilados, personas que cuenten con alguna discapacidad o en condición de movilidad vulnerable, independientemente de su situación legal.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2021)</small>
+
+Las organizaciones no gubernamentales legalmente constituidas que defiendan los derechos de las personas en condición de movilidad vulnerable, tendrán derecho a obtener el mismo descuento o incentivo previsto en el artículo 75 de esta ley. En la ley de ingresos municipales se establecerán estos apoyos igualitarios, no discriminatorios y solidarios para hacer asequible el pago de la tarifa del servicio de agua potable y su saneamiento.
 
 ###### ARTÍCULO 13.
 
@@ -793,9 +797,25 @@ J).- De servicios generales a la comunidad.
 
 Las cuotas o tarifas se fijarán de conformidad a lo dispuesto en los artículos 16 y 22 de esta ley y con base en los estudios económicos, que formularán anualmente los organismos operadores, pudiendo apoyarse en su caso en empresas especializadas, en los que deberán considerarse el costo global de las obras e instalaciones necesarias para la prestación de los servicios, su mantenimiento, el mejoramiento y ampliación de los sistemas, las condiciones socio-económicas de la población, así como el volumen de agua que se consuma, el uso a que se destine y la estimación de los recursos hidráulicos potenciales y disponibles.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2021)</small>
 
-Se considerará como consumo doméstico el uso del servicio de agua potable por parte de personas que, mediante el autoempleo, realicen actividades económicas de carácter comercial en la casa-habitación en la que residan, excluyendo aquellas en las que el agua sea el insumo principal de un proceso productivo que se realice con fines de comercialización. Se otorgará un 50% de descuento a las personas pensionadas y a las mayores de 60 años, en su recibo de agua potable del servicio doméstico, en el domicilio donde legalmente residan. Este descuento solo será aplicable en el consumo que determine el organismo operador en los municipios. De sobrepasar este consumo, se deberá liquidar el exceso en su totalidad.
+Se considerará como consumo doméstico el uso del servicio de agua potable por parte de personas que, mediante el autoempleo, realicen actividades económicas de carácter comercial en la casa-habitación en la que residan, excluyendo aquellas en las que el agua sea el insumo principal de un proceso productivo que se realice con fines de comercialización. Se otorgará un 50% de descuento a las personas pensionadas y a las mayores de 60 años en su recibo de agua potable del servicio doméstico, en el domicilio donde legalmente residan. Se otorgará un 50% de descuento a las organizaciones no gubernamentales legalmente constituidas como personas defensoras de los derechos de las personas migrantes, desplazadas o cualquier otra en condición de movilidad vulnerable, en el recibo de agua potable de su domicilio legal. Este descuento solo será aplicable en el consumo que determine el organismo operador en los municipios. De sobrepasar este consumo, se deberá liquidar el exceso en su totalidad.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2021)</small>
+
+Para las organizaciones no gubernamentales previstas en el párrafo anterior, la ley de ingresos municipales deberá establecer medidas legales apropiadas de no discriminación, de acción afirmativa o de tratos solidarios que permita deducir en forma proporcional los pagos que realicen por el servicio de agua potable.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2021)</small>
+
+Las autoridades fiscales del Estado y del municipio, así como los operadores del servicio de agua potable, tendrán facultades para establecer subsidios, condonaciones, exenciones o pagos en parcialidades de las tarifas de agua potable y su saneamiento, cuando las organizaciones no gubernamentales, por su situación económica, caso fortuito o por fuerza mayor, requiera de estos apoyos fiscales para seguir brindando la ayuda humanitaria a la población de movilidad vulnerable que ingrese, transite o resida temporalmente en el estado.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2021)</small>
+
+En ningún caso, las tarifas que apliquen los operadores del servicio a los albergues y casas que dan refugio a personas en situación de movilidad vulnerable, podrán ser superiores a aquellas consideradas como de menor costo, con independencia del consumo.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2021)</small>
+
+Los órganos operadores municipales estarán obligados a realizar políticas públicas a favor de la población en movilidad vulnerable, para hacer disponible el agua potable en lugares públicos, salubres y adecuados, para garantizar el derecho al agua como condición vital de vida digna para asegurar la movilidad libre, segura y humanitaria.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2015)</small>
 
@@ -809,9 +829,11 @@ El consumo de agua se cobrará aplicando las tarifas al volumen consumido que in
 
 En caso de no existir éstos, el organismo operador estimará el volumen, que en ningún caso será inferior al mínimo establecido, al que se le aplicará la tarifa correspondiente. Los organismos operadores, en atención a la realidad social y económica de cada municipio, deberán promover la instalación de aparatos medidores.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2021)</small>
+
 ###### ARTÍCULO 78.
 
-Las tarifas se revisarán cuando se consideren insuficientes para cubrir los costos y gastos de la correcta operación y conservación de los servicios del sistema y en todo caso, cada año, a partir de la fecha en que se hubieren puesto en vigor, siguiendo el mismo procedimiento de su implantación. En atención a ello, y salvo lo previsto para el caso de los adultos mayores y pensionados, no habrá descuento alguno en las tarifas de agua potable.
+Las tarifas se revisarán cuando se consideren insuficientes para cubrir los costos y gastos de la correcta operación y conservación de los servicios del sistema y en todo caso, cada año, a partir de la fecha en que se hubieren puesto en vigor, siguiendo el mismo procedimiento de su implantación. En atención a ello, y salvo lo previsto para el caso de los adultos mayores y pensionados, así como de las a las (sic) organizaciones no gubernamentales legalmente constituidas como personas defensoras de los derechos de las personas migrantes, desplazadas o cualquier otra en condición de movilidad vulnerable, no habrá descuento alguno en las tarifas de agua potable.
 
 ###### ARTÍCULO 79.
 
@@ -849,9 +871,9 @@ Mientras no se instalen los medidores a que se refiere este Artículo las cantid
 
 En caso de mora por parte de los usuarios en el pago de dos meses de cuota o tarifa establecida para los servicios de agua potable, podrá limitárseles el suministro a la cantidad de agua equivalente a la cuota mínima establecida en la tarifa respectiva; si la mora en el pago es de tres meses, se suspenderá totalmente el suministro de agua, sin perjuicio de que el organismo operador efectúe el cobro de los adeudos, a través del procedimiento administrativo de ejecución.
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2021)</small>
 
-No obstante lo previsto en el párrafo primer (sic) del presente artículo, no podrá suspenderse el suministro de agua en los casos que se trate de edificios destinados a la prestación de servicios asistenciales en los términos de la legislación aplicable o médicos, ni en las escuelas públicas de nivel básico; así como en los inmuebles donde, por razones de salud pública o por tratarse de centros de reinserción social o para detención preventiva, no sea conveniente proceder a la suspensión, sin que lo anterior signifique que la obligación de realizar el pago del servicio de agua no sea exigible.
+No obstante lo previsto en el párrafo primer (sic) del presente artículo, no podrá suspenderse el suministro de agua en los casos que se trate de edificios destinados a la prestación de servicios asistenciales en los términos de la legislación aplicable o médicos, ni en las escuelas públicas de nivel básico; inmuebles destinados a la asistencia de personas migrantes, desplazadas o cualquier otra en condición de movilidad vulnerable; así como en los inmuebles donde, por razones de salud pública o por tratarse de centros de reinserción social o para detención preventiva, no sea conveniente proceder a la suspensión, sin que lo anterior signifique que la obligación de realizar el pago del servicio de agua no sea exigible.
 
 El cargo por reconexión, tratándose de servicio doméstico, no podrá exceder de cinco veces el salario mínimo diario vigente en el Estado y sólo podrá aplicarse si en el domicilio se ha cortado físicamente el servicio. Lo recaudado por estos cargos se aplicará en el área administrativa de cultura del agua del organismo operador.
 
@@ -1182,3 +1204,25 @@ P.O. 29 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 366.- SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3 DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 41.- SE REFORMA, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 12 Y 75, EL ARTÍCULO 78, ASÍ COMO EL SEGUNDO PÁRRAFO DEL ARTÍCULO 86 DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+La sentencia del Tribunal Constitucional Local de fecha 19 de diciembre de 2020, relativa a la acción de inconstitucionalidad AIL-6/2020, será la fuente de interpretación original para todas las autoridades estatales y municipales que tengan que aplicar esta reforma. En caso de dudas, las autoridades deberán hacer las consultas que resulten necesarias al Tribunal Constitucional para que éste fije el contenido y alcance de este Decreto a los casos concretos que resulten.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Como medida de reparación, de manera excepcional y por la situación de crisis humanitaria en la migración provocada por la pandemia de Covid-19, así como por el deber de trato solidario que deben acompañar a las políticas públicas generadas a favor de las personas en condición vulnerable, el descuento del 50% a que se refiere el artículo 75 de este Decreto, será con efecto retroactivo para los adeudos previos que dichas organizaciones tengan a (sic) ese momento con los operadores del servicio. Para los adeudos del restante 50% que resulten, los órganos operadores deberán hacer uso de sus facultades previstas en el artículo 75 para garantizar la ayuda humanitaria que los organismos no gubernamentales hagan a favor de la población en condición de movilidad.
+
+###### ARTÍCULO CUARTO.
+
+Los municipios del Estado deberán presentar sus iniciativas de reforma a sus leyes de ingresos correspondientes al ejercicio fiscal 2021, reglamentos y cualquier otro ordenamiento que resulte necesario, a fin de dar cumplimiento a las disposiciones previstas en el presente Decreto, en un plazo máximo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto.
