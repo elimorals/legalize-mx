@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2021-01-11"
+last_updated: "2021-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2021.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -1108,15 +1108,23 @@ Cuando el salario se fije por semana o por mes, se dividirá entre siete o entre
 
 ### CAPITULO VI. Salario Mínimo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2021)</small>
+
 ###### Artículo 90.
 
-Salario mínimo es la cantidad menor que debe recibir en efectivo el trabajador por los servicios prestados en una jornada de trabajo.
+Salario mínimo es la cantidad menor que debe recibir en efectivo la persona trabajadora por los servicios prestados en una jornada de trabajo.
 
-El salario mínimo deberá ser suficiente para satisfacer las necesidades normales de un jefe de familia en el orden material, social y cultural, y para proveer a la educación obligatoria de los hijos.
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2021)</small>
 
-> <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 1974)</small>
+El salario mínimo deberá ser suficiente para satisfacer las necesidades normales de una o un jefe de familia en el orden material, social y cultural, y para proveer a la educación obligatoria de las y los hijos.
 
-Se considera de utilidad social el establecimiento de instituciones y medidas que protejan la capacidad adquisitiva del salario y faciliten el acceso de los trabajadores a la obtención de satisfactores.
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2021)</small>
+
+Se considera de utilidad social el establecimiento de instituciones y medidas que protejan la capacidad adquisitiva del salario y faciliten el acceso de toda persona trabajadora a la obtención de satisfactores.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 2021)</small>
+
+La fijación anual de los salarios mínimos, o la revisión de los mismos, nunca estará por debajo de la inflación observada durante el periodo de su vigencia transcurrido.
 
 > <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
@@ -13791,3 +13799,11 @@ D.O.F. 11 DE ENERO DE 2021.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El Poder Ejecutivo Federal dispondrá de un plazo de dieciocho meses contados a partir de la entrada en vigor del presente Decreto, para publicar una Norma Oficial Mexicana que rija las obligaciones en materia de seguridad y salud en el trabajo para el teletrabajo, de conformidad con lo establecido en el artículo 330-J.
+
+D.O.F. 30 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 90 DE LA LEY FEDERAL DEL TRABAJO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
