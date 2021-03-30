@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-81205
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-23"
-last_updated: "2020-09-30"
+last_updated: "2021-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2021.
 
 Ley publicada en la Sección Tercera al Periódico Oficial del Estado de Nayarit, el sábado 23 de abril de 2011.
 
@@ -77,9 +77,9 @@ V. Discriminación.- Toda distinción, exclusión o restricción que, basada en 
 
 VI. Empoderamiento.- Es el proceso por medio del cual una persona logra conducirse con autonomía e independencia, ejerciendo plenamente y en libertad derechos y toma de decisiones, sin coacciones ni imposiciones de ningún tipo;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-VII. Igualdad de género.- Acceso igualitario de las mujeres y hombres al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
+VII. Igualdad de género.- Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
 
@@ -89,25 +89,31 @@ VIII. Igualdad sustantiva.- Es el acceso al mismo trato y oportunidades para el 
 
 IX. Instituto.- El Instituto para la Mujer Nayarita;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MARZO DE 2021)</small>
 
-X. Perspectiva de género.- Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y la exclusión, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+X. Ley.- Ley de Igualdad entre Mujeres y Hombres para el Estado de Nayarit;
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-XI. Política de igualdad.- Es el conjunto de acciones implementadas por el Estado para mejorar la situación de las mujeres y los hombres de cualquier edad, condición o clase, cuyo objetivo es la construcción fáctica de la igualdad;
+XI. Perspectiva de género.- Concepto que se refiere a la metodología y mecanismos que permiten identificar, la discriminación, la desigualdad y la exclusión, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben generarse para su erradicación del contexto cultural y social;
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-XII. Programa para la igualdad.- El Programa Estatal para garantizar la igualdad sustantiva entre mujeres y hombres, y
+XII. Política de igualdad.- Es el conjunto de acciones implementadas por el Estado para lograr la igualdad sustantiva en el ámbito económico, político, social, familiar y cultural;
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-XIII. Transversalidad.- Es el proceso que permite garantizar la incorporación de la perspectiva de género en la legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas, con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe.
+XIII. Programa para la Igualdad.- El Programa Estatal de Derechos Humanos para la Igualdad entre Mujeres y Hombres del Estado de Nayarit, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE MARZO DE 2021)</small>
+
+XIV. Transversalidad.- Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2021)</small>
 
 ###### Artículo 4.
 
-La igualdad sustantiva entre mujeres y hombres implica la eliminación de toda forma de discriminación, en cualquiera de los ámbitos de la vida, que se genere por razones de sexo, origen étnico, edad, discapacidad, orientación sexual, condición social o económica, estado civil, condiciones de salud, embarazo, lengua, religión, opiniones o cualquier otra que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades, de trato, de condiciones y resultados, siendo parte de la igualdad sustantiva:
+Son componentes de la igualdad sustantiva:
 
 I. La igualdad jurídica;
 
@@ -117,23 +123,19 @@ III. La igualdad salarial, y
 
 IV. La igualdad entre los géneros.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2021)</small>
+
 ###### Artículo 5.
 
-Son principios rectores que favorecen la igualdad sustantiva:
+Son principios rectores de la presente Ley:
 
-I. El acceso a la justicia;
+I. La igualdad;
 
 II. La no discriminación;
 
-III. La seguridad y certeza jurídica;
+III. La equidad, y
 
-IV. La sostenibilidad económica;
-
-V. El ejercicio pleno de derechos;
-
-VI. la democracia de género, y
-
-VII. La paridad genérica.
+IV. Los establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Nayarit y en los instrumentos internacionales de los que México sea parte.
 
 ###### Artículo 6.
 
@@ -151,35 +153,45 @@ II. Indirecta.- Aquella que se presenta cuando una disposición, criterio o prá
 
 Se crea el Consejo de Igualdad entre Mujeres y Hombres del Estado de Nayarit, como un órgano normativo de planeación, sostenibilidad, seguimiento, evaluación y monitoreo de las políticas públicas, los mecanismos institucionales y de aceleramiento que incidan en las tareas y acciones en materia de igualdad sustantiva.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2021)</small>
+
 ###### Artículo 8.
 
-El Consejo, se conformará de la siguiente manera:
+El Consejo se integrará por:
 
-I. La persona titular del Poder Ejecutivo del Estado, quien lo presidirá;
+I. La persona titular del Poder Ejecutivo del Estado, quien lo presidirá. En sus ausencias lo suplirá la o el servidor público que el mismo designe, que preferentemente será la persona titular de la Secretaría General de Gobierno;
 
-II. La persona que asuma la Presidencia de la Comisión Legislativa de Equidad, Género y Familia, del H. Congreso del Estado;
+II. La persona que presida la Comisión Legislativa de Igualdad de Género y Familia del Congreso del Estado;
 
 III. Un Magistrado o Magistrada representante del Tribunal Superior de Justicia del Estado;
 
-IV. La persona que encabece la Secretaría de Administración del Estado;
+IV. La persona titular de la Secretaría de Administración y Finanzas del Estado;
 
-V. La persona titular de la presidencia de la Comisión;
+V. La persona titular de la Secretaría de Bienestar e Igualdad Sustantiva;
 
-VI. La titular del Instituto; quien se desempeñará como Secretaria Ejecutiva del Consejo;
+VI. La persona titular de la Secretaría de Educación;
 
-VII. Una persona representante del sector productivo del Estado, y
+VII. La persona titular de la Secretaría de Desarrollo Sustentable;
 
-VIII. Una persona representante del sector social del Estado.
+VIII. La persona titular de la Comisión;
 
-Las o los representantes del sector productivo y social del Estado serán designados por la persona que ejerza la Presidencia del Consejo.
+IX. La titular del Instituto, quien se desempeñará como Secretaria Ejecutiva del Consejo;
 
-Los miembros del Consejo tendrán derecho a voz y voto, desempeñarán sus funciones de manera honorifica, por lo que no recibirán estipendio alguno por su participación en el mismo.
+X. Una persona representante del sector productivo del Estado, y
 
-El Consejo estará obligado a sesionar cuando menos cada semestre y podrá celebrar las reuniones extraordinarias que considere convenientes para el cumplimiento de esta Ley.
+XI. Una persona representante del sector social del Estado.
 
-Para que las sesiones del Consejo tengan validez, se requerirá la presencia de la mitad más uno de sus integrantes y sus decisiones se tomarán por mayoría simple. En caso de empate la persona que se encuentre al frente de la presidencia del Consejo tendrá voto de calidad.
+Las y los integrantes señalados en las fracciones IV, V, VI, VII y VIII del presente artículo podrán ser suplidos por la o el servidor público de nivel jerárquico inmediato inferior que designe quien ejerza la titularidad.
 
-Por cada miembro del Consejo será nombrado un suplente con derecho a voz y voto cuando asista a las sesiones en ausencia de su titular.
+Las personas representantes de los sectores productivo y social del Estado, serán designados por quien ejerza la Presidencia del Consejo.
+
+Las y los miembros del Consejo tendrán derecho a voz y voto, desempeñarán sus funciones de manera honorífica, por lo que no recibirán estipendio alguno por su participación en el mismo.
+
+El Consejo estará obligado a sesionar cuando menos una vez cada seis meses y podrá celebrar las reuniones extraordinarias que considere convenientes para el cumplimiento de esta Ley.
+
+Para que las sesiones del Consejo tengan validez, se requerirá la presencia de la mitad más uno de sus integrantes y sus decisiones se tomaran por mayoría simple. En caso de empate el Presidente del Consejo tendrá voto de calidad.
+
+Los suplentes de los miembros del Consejo tendrán derecho a voz y voto en las sesiones que asistan en ausencia de su titular.
 
 El reglamento de esta Ley especificará las facultades y atribuciones correspondientes a cada uno de los integrantes del Consejo.
 
@@ -187,53 +199,99 @@ El reglamento de esta Ley especificará las facultades y atribuciones correspond
 
 El Consejo tendrá las siguientes atribuciones:
 
-I. Coordinar el monitoreo de la política estatal en la materia;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+I. Coordinar las tareas en materia de igualdad mediante acciones específicas y, en su caso afirmativas que contribuyan a la política de igualdad;
 
 II. Estructurar la observancia de la igualdad sustantiva en términos de la Ley;
 
-III. Efectuar el seguimiento, evaluación y sostenibilidad del Programa para la Igualdad;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-IV. Presentar estudios especiales en materia de igualdad entre mujeres y hombres a fin de coadyuvar con las personas e instancias encargadas de vigilar y evaluar el cumplimiento de los principios de equidad de género dispuestos en la presente ley;
+III. Realizar la instrumentación, seguimiento, evaluación y sostenibilidad del Programa para la Igualdad y de las Políticas Públicas en materia de igualdad;
 
-V. Verificar la observancia de la Ley, y
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-VI. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
+IV. Establecer los criterios para la conformación del Sistema de Información para conocer la situación que guarda la igualdad entre hombres y mujeres, a fin de contar con información relativa al avance en el cumplimiento de la Ley;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+V. Promover la participación de la sociedad civil organizada en la promoción de la igualdad sustantiva entre mujeres y hombres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MARZO DE 2021)</small>
+
+VI. Establecer lineamientos para el diseño de acciones afirmativas para la igualdad sustantiva y fomentar su aplicación;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+VII. Solicitar informes especiales a las Dependencias y Entidades de la Administración Pública, a fin de conocer el estado que guardan las acciones en materia de la política para la igualdad;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+VIII. Fomentar y proponer los estudios especializados e investigaciones en materia de igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+IX. Expedir los acuerdos necesarios para el debido cumplimiento de la Ley y del Reglamento del Consejo;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+X. Promover la revisión periódica del marco normativo local, a fin de armonizar la legislación local con la legislación general y federal y con los tratados internacionales suscritos por el Estado Mexicano de materia de igualdad, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE MARZO DE 2021)</small>
+
+XI. Las demás que sean necesarias para cumplir los objetivos de esta Ley y del Reglamento del Consejo.
 
 ## TÍTULO TERCERO. POLÍTICA DE IGUALDAD
 
 ### CAPÍTULO ÚNICO. OBJETIVOS DE LA POLÍTICA DE IGUALDAD
 
-#### SECCIÓN PRIMERA. PRINCIPIOS Y ESTRATEGIAS DE LA POLÍTICA DE IGUALDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2021)</small>
+
+#### SECCIÓN PRIMERA. OBJETIVO, ÁMBITOS DE OPERACIÓN Y ESTRATEGIAS DE LA POLÍTICA DE IGUALDAD
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2021)</small>
 
 ###### Artículo 10.
 
-La Política de Igualdad deberá establecer las acciones conducentes en los ámbitos, económico, educativo, político, social y cultural, destinadas a consolidar en el Estado la equidad de género, consecuentemente en el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de dicha política se observarán los objetivos y principios previstos en esta Ley, para lo cual se implementarán las medidas tendientes a garantizar:
+La Política de Igualdad tendrá como objetivo establecer las acciones conducentes para lograr la igualdad sustantiva en los ámbitos económico, educativo, político, social, familiar y cultural. Para ello se deberán de considerar los siguientes lineamientos:
 
-l. La igualdad entre mujeres y hombres en todos los ámbitos de la vida;
+I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida;
 
-II. La accesibilidad a la justicia y el pleno ejercicio de los derechos de mujeres y hombres;
+II. Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre mujeres y hombres;
 
-III. El empoderamiento de las mujeres y su autonomía;
+III. Garantizar la accesibilidad a la justicia y a la seguridad pública desde un enfoque diferenciado y especializado en la igualdad y no discriminación;
 
-IV. La participación y representación política paritaria entre mujeres y hombres;
+IV. Garantizar la permanencia de las políticas de prevención, atención, sanción y erradicación de la violencia de género;
 
-V. La eliminación de estereotipos de género establecidos en función del sexo;
+V. Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
 
-VI. La elaboración de diagnósticos focales respecto al tema, con bases de datos desagregados por sexo, y
+VI. Fomentar la participación y representación política equilibrada entre mujeres y hombres;
 
-VII. Las buenas prácticas en el trato entre mujeres y hombres.
+VII. Promover la generación de cambios socioculturales encaminados a erradicar los estereotipos de género, basados en conceptos de inferioridad o superioridad de cualquiera de ellos;
+
+VIII. Implementar políticas públicas basadas en estudios, investigaciones y diagnósticos realizados con perspectiva de género;
+
+IX. Implementar una cultura institucional con perspectiva de género en la administración pública estatal, así como en los sectores productivo y social;
+
+X. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, y
+
+XI. El establecimiento de medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres.
 
 ###### Artículo 11.
 
 A fin de garantizar que la igualdad sustantiva, sus principios y estrategias se institucionalicen con la debida transversalización, las políticas públicas que se articulen deberán:
 
-l. Incorporar la perspectiva de género;
+I. Incorporar la perspectiva de género;
 
 II. Diseñar mecanismos especiales para las mujeres en los diversos ámbitos donde se potencialice la igualdad sustantiva;
 
-III. Planificar y organizar desde la perspectiva de género la administración pública;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-IV. Establecer la certificación de buenas prácticas de igualdad entre mujeres y hombres que se implementen y funcionen en los ámbitos público y privado;
+III. Emplear la perspectiva de género como una herramienta en la planificación y organización de la Administración Pública Estatal o Municipal que las instrumente;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+IV. Promover la certificación de buenas prácticas para la igualdad entre mujeres y hombres, en la administración pública estatal y en el sector privado;
 
 V. Contar con registros estadísticos desagregados por sexo;
 
@@ -241,9 +299,9 @@ V. Contar con registros estadísticos desagregados por sexo;
 
 VI. Contar con la interlocución de representantes en el sector social y privado;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2021)</small>
 
-VII. Impulsar entre mujeres y hombres, a través de acciones institucionales de concientización, su igualdad en la vida civil;
+VII. Adoptar las medidas adecuadas para mejorar el conocimiento de los derechos humanos de las mujeres y hombres mediante campañas y actividades públicas orientadas al desarrollo de sus capacidades;
 
 > <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
 
@@ -279,7 +337,9 @@ Para la debida implementación de políticas públicas a favor de la igualdad su
 
 l. Vigilar que las diversas instituciones que integran la Administración Pública incorporen la perspectiva de género en todas y cada una de las acciones y políticas públicas que efectúen con motivo de las funciones y atribuciones que tengan encomendadas;
 
-II. Contar con asesoría especializada en materia de igualdad entre mujeres y hombres para las unidades administrativas que lo requieren, a fin de favorecer las buenas prácticas para la igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+II. Incorporar la perspectiva de género en la planeación presupuestal de la Administración Pública estatal y municipal, así como en los Poderes Legislativo y Judicial;
 
 III. Transversalizar la perspectiva de género en las políticas públicas estatales y municipales;
 
@@ -287,13 +347,35 @@ IV. Garantizar la institucionalización de la igualdad;
 
 V. Evaluar la aplicación de la legislación en materia de igualdad entre mujeres y hombres;
 
-VI. Impulsar el fortalecimiento del liderazgo y la toma de decisiones autónomas de las mujeres;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+VI. Establecer el acompañamiento para las Unidades Administrativas que lo requieran en materia de igualdad y no discriminación, para favorecer la obtención de buenas prácticas;
 
 VII. Erradicar las distintas modalidades de violencia de género;
 
-VIII. Iniciar el procedimiento que corresponda contra las servidoras y servidores públicos que transgredan los principios y programas que esta Ley establece a fin de que se sancione dicha conducta de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit, y
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-IX. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
+VIII. Iniciar el procedimiento que corresponda contra las servidoras y servidores públicos que transgredan los principios y programas que esta Ley establece a fin de que se sancione dicha conducta de conformidad con la Ley General de Responsabilidades Administrativas;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+IX. Realizar acciones institucionales de concientización para promover la igualdad entre mujeres y hombres en la vida civil;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+X. Realizar acciones coordinadas entre la Administración Pública Estatal y Municipal, el Poder Legislativo y Judicial orientadas a un cambio cultural que permita eliminar los estereotipos de género;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+XI. Promover las reformas legislativas y el diseño de políticas públicas que favorezcan la igualdad de género;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+XII. Alcanzar la paridad de mujeres y hombres en el liderazgo y toma de decisiones, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MARZO DE 2021)</small>
+
+XIII. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
 #### SECCIÓN SEGUNDA. IGUALDAD JURÍDICA, ACCESO A LA JUSTICIA Y A LA SEGURIDAD PÚBLICA DE MUJERES Y HOMBRES
 
@@ -303,13 +385,17 @@ Serán objetivos de la política pública en materia de igualdad jurídica, acce
 
 I. Eliminar los tratos diferenciados en función del sexo, en las normas y prácticas jurídicas, así como en los sistemas de procuración y administración de justicia;
 
-II. Garantizar el acceso a la justicia y la socialización de los derechos fundamentales de mujeres y hombres;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+II. Desarrollar la normatividad institucional con un enfoque de igualdad y derechos humanos, para garantizar el acceso a la justicia;
 
 III. Armonizar la legislación estatal y municipal desde la perspectiva de género con los instrumentos internacionales que favorecen el progreso de las mujeres, sus derechos humanos y la eliminación de la discriminación por razones de sexo;
 
 IV. Garantizar asistencia jurídica especializada en los casos que exista desigualdad en función del sexo de las personas;
 
-V. Impulsar la aplicación de la legislación en materia de igualdad y violencia de género, y
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+V. Impulsar el conocimiento y aplicación de la legislación en materia de igualdad y violencia de género, y
 
 VI. Garantizar la seguridad pública para las mujeres y los hombres.
 
@@ -317,13 +403,33 @@ VI. Garantizar la seguridad pública para las mujeres y los hombres.
 
 Para los efectos de lo previsto en el artículo anterior, la Administración Pública desarrollará las siguientes acciones:
 
-I. Implementar la existencia de asesoría jurídica especializada para mujeres con el fin garantizar su acceso a la justicia;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-II. Capacitar a las autoridades encargadas de la procuración y administración de justicia en materia de igualdad entre mujeres y hombres;
+I. Otorgar asesoría jurídica especializada para mujeres y hombres para garantizar la protección de sus derechos y el acceso a la justicia;
 
-III. Garantizar seguridad pública a las mujeres y hombres considerando sus necesidades específicas y ámbitos de riesgo, y
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-IV. Establecer la conformación de estructuras paralegales para la asesoría de las mujeres.
+II. Revisar periódicamente las estrategias de seguridad pública empleando la perspectiva de género, para abatir la inseguridad y violencia que afecta a las mujeres y las niñas;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+III. Capacitar en materia de derechos humanos e igualdad de género y en coordinación con la Comisión al personal integrante de la Administración Pública Estatal, así como de los Poderes Legislativo y Judicial;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+IV. Implementar sistemas de información con indicadores desagregados por sexo para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia política de igualdad;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+V. Proporcionar seguridad pública considerando las necesidades específicas y factores de riesgo de las mujeres y de los hombres;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+VI. Alentar la denuncia de los incidentes de violencia de género en sus diferentes modalidades y garantizar el acceso efectivo a los recursos administrativos en la materia, así como a la procuración e impartición de justicia, y
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+VII. Disponer de medios eficaces para la atención integral de las personas víctimas de violencia de genero.
 
 #### SECCIÓN TERCERA. IGUALDAD ECONÓMICA ENTRE MUJERES Y HOMBRES
 
@@ -337,41 +443,59 @@ I. Impulsar el acceso de las mujeres al empleo, garantizar que entre mujeres y h
 
 Para tal efecto, se establecerán los mecanismos que promuevan y vigilen que se cumpla la presente disposición, además de los principios de igualdad de trato y de no discriminación;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-II. Fomentar la integración de políticas públicas con perspectiva de género en materia económica, impulsar el liderazgo equitativo de ambos géneros, además de promover el acceso de mujeres y hombres a procesos productivos, en igualdad de condiciones;
+II. Establecer medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva de igualdad de trato y no discriminación en las condiciones de trabajo;
 
-III. Promover campañas de igualdad y respeto entre mujeres y hombres en el trabajo;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+III. Implementar programas que fomenten la contratación de mujeres y promuevan la igualdad sustantiva en el mercado laboral, en los ámbitos público y privado;
 
 IV. Impulsar la eliminación de los estereotipos de género como criterio en los procesos de contratación de personal, acceso a créditos productivos y oferta de proyectos productivos;
 
 V. Promover la corresponsabilidad social en el cuidado de niñas, niños, personas enfermas, personas de la tercera edad, y en el trabajo doméstico;
 
-VI.- Elaborar un diagnóstico desagregado por sexo sobre la contribución al Estado a través de pago de impuestos;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+VI.- Colaborar con los sistemas estadísticos nacionales para contar con un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres, en la elaboración de las políticas públicas en materia laboral;
 
 VII. Garantizar la redistribución de los impuestos en obras, programas y proyectos que beneficien a las mujeres de acuerdo a su contribución en actividades productivas, y
 
-VIII. Impulsar la eliminación de la segmentación -horizontal y vertical- laboral por género, a través de campañas de comunicación, sensibilización y estímulos fiscales para empresas que implementen las medidas correspondientes.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+VIII. Fomentar la adopción voluntaria de programas en materia de igualdad por parte del sector privado y proponer en el ámbito de su competencia el otorgamiento de estímulos.
 
 ###### Artículo 16.
 
 Para los efectos de lo previsto en el artículo anterior, la Administración Pública desarrollará las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-I. Diseñar y aplicar políticas y programas de desarrollo y reducción de la pobreza con perspectiva de género, además de asegurar la igualdad en la contratación del personal y en las condiciones generales de trabajo;
+I. Desarrollar programas y políticas públicas orientadas a la reducción de la pobreza, empleando la perspectiva de género;
 
-II. Establecer acciones de capacitación, educación y formación de las personas que en razón de su sexo estén relegadas;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-III. Fomentar especialmente el acceso al trabajo de las personas que en razón de su sexo están relegadas de éste o de ocupar puestos directivos, así como destinar recursos para impulsar su contratación;
+II. Establecer programas de capacitación, educación y formación para impulsar un acceso igualitario a las oportunidades laborales;
 
-IV. Propiciar estímulos fiscales y certificados de igualdad que se concederán anualmente a las empresas que desarrollen políticas y/o buenas prácticas de igualdad, contratación, asignaciones salariales y de buen trato entre mujeres y hombres, con la finalidad de fomentar la implementación y el reconocimiento de las buenas prácticas a favor de la igualdad;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-V. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos estatales, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia estatal laboral, y
+III. Implementar acciones orientadas a erradicar la discriminación en la designación de puestos directivos y toma de decisiones por razón de género;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-VI. Implementar, en coordinación con las autoridades competentes, la elaboración y difusión de códigos de buenas prácticas, campañas informativas, acciones de formación, entre otras medidas destinadas a prevenir y erradicar cualquier tipo de discriminación, violencia o acoso en el ámbito laboral que sean originadas por razones de género.
+IV. Promover el otorgamiento de la licencia de paternidad al personal de la administración pública estatal;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+V. Promover la certificación en materia de igualdad y el desarrollo de buenas prácticas;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+VI. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos estatales, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia estatal laboral, y
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+VII. Implementar, en coordinación con las autoridades competentes, la elaboración y difusión de códigos de buenas prácticas, campañas informativas, acciones de formación, entre otras medidas destinadas a prevenir y erradicar cualquier tipo de discriminación, violencia o acoso en el ámbito laboral que sean originadas por razones de género.
 
 #### SECCIÓN CUARTA. IGUALDAD POLÍTICA ENTRE MUJERES Y HOMBRES
 
@@ -403,17 +527,21 @@ I. Modificar los patrones socioculturales de conducta de hombres y mujeres con m
 
 II. Impulsar acciones que aseguren la igualdad de acceso de mujeres y hombres a la alimentación, la educación, la cultura y la salud;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MARZO DE 2021)</small>
 
-III. Evaluar periódicamente las acciones de prevención, atención, sanción y erradicación de la violencia de género que el Estado implemente;
+III. Emplear la perspectiva de género en la formulación, desarrollo y evaluación de las políticas y programas de salud;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE MARZO DE 2021)</small>
 
-IV. Promover en los medios de comunicación electrónicos, digitales e impresos y en la propaganda gubernamental e institucional la presencia y representación equilibrada de mujeres y hombres, el tratamiento de la información libre de estereotipos de género, así como la eliminación de la publicidad sexista y los contenidos de mensajes androcéntricos, y
+IV. Evaluar periódicamente las acciones de prevención, atención, sanción y erradicación de la violencia de género que el Estado implemente;
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE MARZO DE 2021)</small>
 
-V. Supervisar la integración de la perspectiva de género al constituir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan en la vida cotidiana.
+V. Promover en los medios de comunicación electrónicos, digitales e impresos y en la propaganda gubernamental e institucional la presencia y representación equilibrada de mujeres y hombres, el tratamiento de la información libre de estereotipos de género, así como la eliminación de la publicidad sexista y los contenidos de mensajes androcéntricos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MARZO DE 2021)</small>
+
+VI. Supervisar la integración de la perspectiva de género al constituir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan en la vida cotidiana.
 
 ###### Artículo 20.
 
@@ -421,11 +549,25 @@ Para los efectos de lo previsto en el artículo anterior, la Administración Pú
 
 I. Promover el conocimiento, ejercicio, respeto y defensa de los derechos fundamentales de mujeres y hombres;
 
-II. Impulsar reformas legislativas en materia de igualdad entre mujeres y hombres;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MARZO DE 2021)</small>
 
-III. Fomentar el uso del lenguaje incluyente en el ámbito público y privado, y
+II. Promover el conocimiento, ejercicio, respeto y defensa de los derechos fundamentales de las personas, en particular en la población indígena, afro mexicana, migrante, con discapacidad, lésbico, gay, bisexual, transgénero, travesti, transexual e intersexual;
 
-IV. Impulsar acciones afirmativas o medidas compensatorias en materia educativa para mujeres y hombres.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE MARZO DE 2021)</small>
+
+III. Impulsar reformas legislativas en materia de igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+IV. Fomentar el uso del lenguaje incluyente en el ámbito público y privado;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+V. Promover la corresponsabilidad social en el cuidado de niñas, niños, personas enfermas, personas de la tercera edad y en las labores domésticas, y afirmativas medidas compensatorias en materia educativa para mujeres, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MARZO DE 2021)</small>
+
+VI. Impulsar acciones afirmativas o medidas compensatorias en materia educativa para mujeres y hombres.
 
 #### SECCIÓN SEXTA. IGUALDAD EN EL ÁMBITO COMUNITARIO Y FAMILIAR ENTRE MUJERES Y HOMBRES
 
@@ -447,7 +589,9 @@ V. Primar la protección de los derechos de las personas por encima de cualquier
 
 Para los efectos de lo previsto en el artículo anterior, la Administración Pública desarrollará las siguientes acciones:
 
-I. Eliminar los modelos de sumisión y subordinación al interior de los grupos familiares;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+I. Diseñar estrategias tendentes a eliminar las prácticas de subordinación en razón del género al interior de la familia;
 
 II. Promover las actividades de participación ciudadana respecto a la legislación sobre la igualdad para las mujeres y los hombres;
 
@@ -465,9 +609,9 @@ V. Participar en la distribución equilibrada de las responsabilidades familiare
 
 VI. Efectuar campañas encaminadas a promover las relaciones de respeto y no violencia entre mujeres y hombres, en la comunidad y en las familias, y
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-VII. Promover campañas e información sobre paternidad responsable e igualdad en las labores domésticas.
+VII. Promover campañas e información sobre maternidad y paternidad responsable, así como del reparto equitativo de las labores domésticas.
 
 ## TÍTULO CUARTO. DISTRIBUCIÓN DE COMPETENCIAS
 
@@ -485,17 +629,45 @@ III. Aprobar el Programa para la Igualdad;
 
 IV. Garantizar la igualdad sustantiva y sus principios rectores, mediante la adopción de políticas, programas, proyectos y la debida aplicación de las medidas que esta Ley prevé;
 
-V. Crear y fortalecer las instancias administrativas que se ocupen del progreso de mujeres y hombres en el Estado y los municipios;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-VI. Celebrar con la Federación, Estados y municipios acuerdos de coordinación, cooperación y concertación en materia de igualdad de género;
+V. Crear y fortalecer las instancias administrativas encargadas del adelanto de la mujer y la incorporación de la perspectiva de género;
 
-VII. Efectuar la planeación y previsión para incorporar en el Presupuesto de Egresos del Estado la asignación de recursos para el cumplimiento de la Política de igualdad;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-VIII. Promover, en coordinación con las dependencias de la Administración Pública la aplicación de la presente Ley;
+VI. Fortalecer la coordinación con las instancias administrativas encargadas del adelanto de la mujer y la incorporación de la perspectiva de género en el ámbito federal, estatal y municipal;
 
-IX. Promover la participación de la sociedad en la planeación, diseño, aplicación y evaluación de los programas e instrumentos de la política de igualdad entre mujeres y hombres, y
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-X. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
+VII. Celebrar convenios con la Federación, Estados y Municipios para establecer las bases de colaboración en materia de igualdad de género en el Estado;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+VIII. Establecer las bases de colaboración y participación con los sectores público, social, privado, político y cultural en la entidad para el establecimiento de medidas para el fomento de la igualdad de género;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+IX. Incluir en los informes anuales del Poder Ejecutivo Estatal los avances en la ejecución y cumplimiento del Programa para la Igualdad entre Mujeres y Hombres;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+X. Considerar en la planeación y previsión del Presupuesto de Egresos del Estado la asignación de recursos para el cumplimiento de la Política de Igualdad;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+XI. Implementar mecanismos de control y rendición de cuentas de los recursos asignados a la Política de Igualdad, mediante el cumplimiento de metas y la utilización de indicadores;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+XII. Llevar a cabo, en coordinación con las dependencias de la Administración Pública la aplicación de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+XIII. Promover la participación social en la formulación y desarrollo de los planes, programas y políticas estatales en materia de igualdad, en los términos establecidos para tal efecto en la Ley de Planeación del Estado de Nayarit, y
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+
+XIV. Los demás que la Ley y otros ordenamientos aplicables le confieren.
 
 ### CAPÍTULO SEGUNDO. EL INSTITUTO PARA LA MUJER NAYARITA Y LA POLÍTICA DE IGUALDAD
 
@@ -541,15 +713,19 @@ II. Que se institucionalice al interior del Poder Judicial la perspectiva de gé
 
 ### CAPÍTULO QUINTO. LOS MUNICIPIOS Y LA POLÍTICA DE IGUALDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2021)</small>
+
 ###### Artículo 27.
 
-De conformidad con lo dispuesto en la presente Ley sin perjuicio de lo señalado en la Ley Municipal para el Estado de Nayarit, corresponde a los Ayuntamientos:
+De conformidad con lo dispuesto en la presente Ley sin perjuicio de lo señalado en la Ley Municipal para el Estado de Nayarit, corresponde a los Municipios:
 
 I. Implementar la política municipal en materia de igualdad entre mujeres y hombres, en concordancia con la política nacional y estatal respectiva, coadyuvando con dichos órdenes de gobierno para la mejor aplicación de esta Ley;
 
 II. Establecer los Programas Municipales para la Igualdad entre Mujeres y Hombres;
 
-III. Prever las necesidades presupuestarias para la ejecución de los programas de igualdad que se implementen y hacerlas del conocimiento a quien ejerza la titularidad del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+
+III. Efectuar la planeación y previsión para, en su caso, incorporar en el Presupuesto de Egresos Municipal, la asignación de recursos para el cumplimiento de la Política de Igualdad, considerando los diagnósticos sobre la condición de las mujeres y la protección de los derechos humanos, haciéndola del conocimiento de la persona titular del Poder Ejecutivo del Estado;
 
 IV. Promover las buenas prácticas de igualdad entre mujeres y hombres en la Administración Pública Municipal, en concordancia con lo dispuesto en esta Ley;
 
@@ -559,41 +735,49 @@ VI. Desarrollar mecanismos especiales para impulsar la participación igualitari
 
 VII Las demás que sean necesarias para cumplir con los objetivos establecidos por la presente Ley.
 
-## TÍTULO QUINTO. LA VIGILANCIA EN MATERIA DE IGUALDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2021)</small>
 
-### CAPÍTULO ÚNICO. LA VIGILANCIA
+## TÍTULO QUINTO. DE LA OBSERVANCIA EN MATERIA DE IGUALDAD
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2021)</small>
+
+### CAPÍTULO ÚNICO. LA OBSERVANCIA
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2021)</small>
 
 ###### Artículo 28.
 
-La Vigilancia es un instrumento garante de la equidad de género y tiene por objeto la construcción de un sistema de información con capacidad para conocer la situación que guarda la igualdad entre mujeres y hombres, y el efecto de las políticas públicas aplicadas en ésta, el Estado coadyuvará a la consolidación de este instrumento con la instancia competente.
+La observancia es un instrumento garante de la equidad de género y tiene por objeto la construcción de un sistema de información con capacidad para conocer la situación que guarda la igualdad entre mujeres y hombres, y el efecto de las políticas públicas aplicadas.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2021)</small>
 
 ###### Artículo 29.
 
-La Vigilancia deberá ser efectuada por personas de reconocida trayectoria, especializadas en materia de igualdad sustantiva, cuyo proceso de elección y actuación se regulará en el reglamento de esta Ley.
+La observancia, seguimiento, evaluación y monitoreo de la Política de Igualdad, estará a cargo de la Comisión, la que actuará en el marco de sus atribuciones en términos de su normatividad y la presente Ley.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2021)</small>
 
 ###### Artículo 30.
 
-La Vigilancia en materia de igualdad entre mujeres y hombres consistirá en:
+La observancia en materia de igualdad entre mujeres y hombres consistirá en:
 
-l. Recabar información sobre medidas y actividades que ponga en marcha la administración pública en materia de igualdad entre mujeres y hombres;
+I. Crear un mecanismo de observancia para garantizar que las diversas Dependencias y Entidades que integran la Administración Pública, incorporen la perspectiva de género en todas y cada una de las acciones y políticas públicas que se instrumenten con motivo de las funciones y atribuciones que tengan encomendadas;
 
-II. Evaluar el impacto en la sociedad de las políticas y medidas que afecten a mujeres y hombres en materia de igualdad;
+II. Proponer mecanismos para garantizar la institucionalización de la igualdad de género en términos de la Ley General para la Igualdad entre Mujeres y Hombres, la presente Ley y las demás disposiciones aplicables;
 
-III. Proponer la realización de estudios e informes técnicos de diagnóstico sobre la situación de las mujeres y hombres en materia de igualdad;
+III. Promover la publicación de los resultados logrados por las evaluaciones y diagnósticos que se realicen en materia de igualdad, y
 
-IV. Revisar los lineamientos para el establecimiento de políticas públicas en materia de igualdad;
-
-V. Difundir información sobre los diversos aspectos relacionados con la igualdad entre mujeres y hombres, y
-
-VI. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
+IV. Hacer del conocimiento al Consejo y a las autoridades competentes las violaciones a la Ley y a su Reglamento, a fin de que se inicie procedimiento conforme a la Ley en materia de Responsabilidades aplicable.
 
 ## TÍTULO SEXTO. LA INSTITUCIONALIZACIÓN DE LA IGUALDAD
 
 ### CAPÍTULO PRIMERO. PROGRAMA ESTATAL PARA GARANTIZAR LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2021)</small>
+
 ###### Artículo 31.
 
-El Programa para la igualdad será propuesto por el Instituto, considerando, los diversos ámbitos de la administración pública en los que se deba implementar la igualdad entre mujeres y hombres, las necesidades al respecto de los municipios y las particularidades de la sociedad, debiendo integrarse acorde al Plan Estatal de Desarrollo, así como a los planes, programas y acciones institucionales.
+El Programa para la Igualdad será propuesto por el Instituto y tomará en cuenta las necesidades de los Municipios y de acuerdo a sus particularidades en materia financiera, económica, social y cultural. Además, guardará congruencia con el Programa Nacional para la Igualdad entre Mujeres y Hombres, el Gran Plan Estatal de Desarrollo y el Programa de Gobierno en términos de la Ley de Planeación del Estado de Nayarit y prever la coordinación con los tres órdenes de gobierno.
 
 ###### Artículo 32.
 
@@ -605,21 +789,19 @@ Los informes anuales del Poder Ejecutivo Estatal deberán contener el estado que
 
 ### CAPÍTULO SEGUNDO. DERECHO A LA INFORMACIÓN EN MATERIA DE IGUALDAD
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2021)</small>
+
 ###### Artículo 34.
 
-Toda persona tendrá derecho a que las autoridades y organismos públicos pongan a su disposición la información que les soliciten sobre políticas, instrumentos y normas sobre igualdad entre mujeres y hombres.
+El Estado garantizará la máxima publicidad de la información en materia de igualdad de género conforme a la Constitución Política del Estado Libre y Soberano de Nayarit, y a las leyes de la materia.
 
 ###### Artículo 35.
 
-La concertación de acciones entre el Estado y el sector privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
-
-I. Definición de las responsabilidades que asuman las y los integrantes de los sectores social y privado, y
-
-II. Determinación de las acciones de orientación, estímulo y apoyo que dichos sectores llevarán a cabo en coordinación con las instituciones correspondientes.
+(DEROGADO, P.O. 30 DE MARZO DE 2021)
 
 ###### Artículo 36.
 
-Los acuerdos y convenios que en materia de igualdad celebren el Poder Ejecutivo y sus dependencias con los sectores público, social o privado, podrán versar sobre todos los aspectos considerados en los instrumentos de política sobre igualdad, así como coadyuvar en labores de vigilancia y demás acciones operativas previstas en esta Ley.
+(DEROGADO, P.O. 30 DE MARZO DE 2021)
 
 ### CAPÍTULO TERCERO. PREVENCIONES
 
@@ -662,3 +844,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La observancia del principio de igualdad salarial a que se refiere el presente Decreto, será aplicable a las instituciones del ámbito de la administración pública estatal y municipal, y a empresas públicas y privadas.
 
 Este principio será aplicable para quienes tomen posesión de su encargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto, según corresponda, así como a las autoridades que no se renuevan mediante procesos electorales cuya integración y designación se realizará de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+P.O. 30 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE NAYARIT".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit".]
