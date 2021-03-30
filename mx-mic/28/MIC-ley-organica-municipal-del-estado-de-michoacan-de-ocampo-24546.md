@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2020-01-20"
+last_updated: "2021-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MIC"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 30 DE MARZO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2021 (ABROGADA).
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -3294,3 +3296,19 @@ TERCERO. El Congreso del Estado deberá, en un plazo improrrogable de un año a 
 CUARTO. La observancia del principio de paridad de género a que se refiere el presente Decreto, será aplicable a quienes tomen posesión de su cargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto, según corresponda.
 
 Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva y escalonada a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+P.O. 30 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Una vez que entre en vigor el presente Decreto, se abroga la «Ley Orgánica Municipal del Estado de Michoacán de Ocampo» publicada el 31 de Diciembre del 2001.
+
+Tercero. El Municipio deberá adecuar lo conducente en su Bando de Gobierno en un plazo no mayor a 120 días naturales, de conformidad con lo establecido en la presente Ley. De igual forma en un plazo no mayor a 120 días naturales el Municipio deberá actualizar todos sus reglamentos, y específicamente deberá modificar o crear un reglamento municipal para dotar de atribuciones a las Jefas o a los Jefes de Tenencia y las autoridades auxiliares según considere conveniente y de acuerdo con (sic) lineamientos señalados en la presente Ley. Todo lo relativo a la Profesionalización de las Servidoras y los Servidores Públicos Municipales y del Servicio Civil de Carrera, establecido en los capítulos XXV y XXVI entrará en vigor hasta el primero de diciembre del 2021 y una vez que se haya realizado la reglamentación correspondiente.
+
+Cuarto. Los nombramientos de los titulares de las diversas dependencias creadas en virtud de lo estipulado en la presente Ley, se harán a la entrada en funciones de la próxima administración.
+
+Quinto. Los Ayuntamientos de conformidad con su capacidad presupuestaria harán los ajustes presupuestales necesarios o los incluirán en el siguiente ejercicio fiscal correspondiente para cumplir con lo establecido en la presente Ley.
+
+Sexto. El Municipio deberá acatar lo establecido en la legislación especializada en materia de comunidades indígenas, modificando en su reglamento municipal lo necesario para su adecuada cumplimentación.
