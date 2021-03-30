@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-las-actividades-de-las-organizaciones-de-56647
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-02"
-last_updated: "2016-12-21"
+last_updated: "2021-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de agosto de 2007.
 
@@ -263,11 +263,17 @@ IV. Secretaría de Obras Públicas.
 
 Las demás dependencias o entidades de la Administración Pública Estatal participarán a invitación de la Comisión, cuando se traten asuntos de su competencia.
 
-El Consejo contará con una Secretaría Técnica, a cargo de la dependencia que determine el titular del Poder Ejecutivo.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2021)</small>
+
+La Comisión contará con una Secretaría Técnica, a cargo de la dependencia que determine el titular del Poder Ejecutivo.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 La Secretaría Técnica será la responsable de la operación y supervisión de las acciones de fomento y coordinación, con las dependencias de la administración pública del Estado y de los Municipios. Deberá rendir a la Comisión un informe anual del trabajo desempeñado.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2021)</small>
+
+La comisión se integrará además con un representante de las organizaciones de la sociedad civil, que forme parte del Consejo Técnico Consultivo de esta propia ley, designado a propuesta interna de los mismos, dicho representante contará solo con derecho a voz
 
 ###### Artículo 11.
 
@@ -582,3 +588,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 30 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-512 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO CUARTO Y SE ADICIONA UN PÁRRAFO SEXTO AL ARTÍCULO 10, DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
