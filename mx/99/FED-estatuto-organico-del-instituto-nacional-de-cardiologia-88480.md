@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-cardiologia-88480"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-07-04"
-last_updated: "2019-07-11"
+last_updated: "2021-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88480&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-04-03"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MARZO DE 2021.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 4 de julio de 2012.
 
@@ -79,6 +79,8 @@ XIII. Coadyuvar con la Secretaría a la actualización de los datos sobre la sit
 
 XIV. Realizar las demás actividades que le corresponda conforme a la Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 31 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 4o.
 
 Para el cumplimiento de su objeto y desempeño de las atribuciones que le competen, el Instituto contará con los siguientes órganos y unidades:
@@ -133,7 +135,9 @@ f) Subdirección de Informática
 
 Asimismo, el Instituto contará con las unidades subalternas necesarias para el ejercicio de sus funciones, previa autorización de las Secretarías de Hacienda y Crédito Público y de la Función Pública.
 
-El Instituto cuenta con un Organo Interno de Control que se regirá conforme a lo dispuesto en el artículo 48 de este Estatuto.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+
+El Instituto cuenta con un Órgano Interno de Control que se regirá conforme a lo dispuesto en el artículo 56 de este Estatuto.
 
 ###### ARTICULO 5o.
 
@@ -379,7 +383,9 @@ XIII. Dirigir y coordinar la atención médica para los pacientes cardiópatas a
 
 La Subdirección de Especialidades Médico Quirúrgicas tendrá las siguientes funciones:
 
-I. Coordinar y supervisar las actividades desarrolladas por la consulta externa y los servicios de hospitalización que proporcionan tratamiento médico, quirúrgico o cateterismo terapéutico a los pacientes del Instituto.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2021)</small>
+
+I. Coordinar y supervisar las actividades desarrolladas por la farmacia, la consulta externa y los servicios de hospitalización que proporcionan tratamiento médico, quirúrgico o cateterismo terapéutico a los pacientes del Instituto.
 
 II. Supervisar que los servicios a su cargo apliquen los mecanismos y procesos implementados para el diagnóstico y tratamiento médico de los pacientes, para la programación de las intervenciones quirúrgicas y hemodinámicas, y para el manejo previo y posterior a las intervenciones.
 
@@ -413,7 +419,9 @@ XI. Realizar los trabajos especiales que dentro del ámbito de su competencia, l
 
 La Subdirección de Servicios de Diagnóstico y Tratamiento tendrá las siguientes funciones:
 
-I. Coordinar y supervisar las actividades desarrolladas por los laboratorios y gabinetes que apoyan el diagnóstico, tratamiento y seguimiento de los pacientes del Instituto.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2021)</small>
+
+I. Coordinar y supervisar las actividades desarrolladas por ingeniería biomédica, los laboratorios y gabinetes que apoyan el diagnóstico, tratamiento y seguimiento de los pacientes del Instituto.
 
 II. Supervisar que los servicios a su cargo apliquen los mecanismos y procesos implementados para la realización de los exámenes, estudios y procedimientos que les sean propios.
 
@@ -442,6 +450,10 @@ XI. Coordinar y supervisar las gestiones administrativas que realicen las áreas
 > <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
 XII. Participar en los Comités que le sean designados por las autoridades del Instituto.
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2021)</small>
+
+XII bis. Supervisar y vigilar los servicios de mantenimiento preventivo y correctivo al equipo biomédico propiedad del Instituto.
 
 > <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -569,15 +581,11 @@ IX. Representar al Instituto en los foros que le sean propios; así como organiz
 
 X. Organizar conforme a la norma respectiva, el archivo y la custodia de la documentación relacionada con sus funciones, para preparar y proporcionar en tiempo y forma, la información que institucionalmente le sea requerida.
 
-XI. Realizar los trabajos especiales, que dentro del ámbito de su competencia, le sean solicitados por la Dirección General.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 12 DE MARZO DE 2018)</small>
+XI. Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, cuando proceda o a petición de autoridad competente.
 
-XI. Realizar los trabajos especiales, que dentro del ámbito de su competencia, le sean solicitados por la Dirección General.
-
-> <small>[N. DE E. DEL ANÁLISIS DE LA MODIFICACIÓN DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ, PUBLICADO EN EL D.O.F. DE 12 DE MARZO DE 2018, SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICA A LA FRACCIÓN XI DEL PRESENTE ARTÍCULO]</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2021)</small>
 
 XII. Realizar los trabajos especiales, que dentro del ámbito de su competencia, le sean solicitados por la Dirección General.
 
@@ -649,13 +657,13 @@ XII. Participar en los comités que le sean designados por las autoridades del I
 
 XIII. Administrar el funcionamiento de albergues de pacientes y familiares del Instituto.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 31 DE MARZO DE 2021)</small>
 
 XIV. Conducir el programa del voluntariado, sigamos aprendiendo y de apoyo espiritual a pacientes y sus familiares.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2021)</small>
 
-XIV (SIC). Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, cuando proceda o a petición de autoridad competente.
+XV. Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, cuando proceda o a petición de autoridad competente.
 
 ###### ARTICULO 38o.
 
@@ -759,9 +767,9 @@ II. (DEROGADA, D.O.F. 2 DE NOVIEMBRE DE 2016)
 
 III. Coadyuvar en la elaboración del Programa Operativo Anual del Instituto, en lo relativo a su área de competencia.
 
-> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2021)</small>
 
-IV. Coordinar y supervisar las funciones de las áreas de adquisiciones, almacenes, farmacia y de activo fijo y evaluar que se realicen de acuerdo a sus programas de trabajo y a los manuales de procedimientos respectivos.
+IV. Coordinar y supervisar las funciones de las áreas de adquisiciones, almacenes y de activo fijo y evaluar que se realicen de acuerdo a sus programas de trabajo y a los manuales de procedimientos respectivos.
 
 V. Supervisar que la ejecución del Programa Anual de Adquisiciones se desarrolle acorde al presupuesto autorizado.
 
@@ -813,19 +821,21 @@ XI. Elaborar y/o supervisar y vigilar que los trabajos especiales, que dentro de
 
 La Subdirección de Servicios Generales tendrá las siguientes funciones:
 
-> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2021)</small>
 
-I. Coordinar y supervisar las actividades de Intendencia; Lavandería; Mantenimiento, Conservación y Construcción; Ingeniería Biomédica, Dietética y Nutrición y de Seguridad y Servicios.
+I. Coordinar y supervisar las actividades de intendencia; lavandería; mantenimiento, conservación y construcción; dietética y nutrición y de seguridad y servicios.
 
 II. Participar en la elaboración del anteproyecto anual de programa-presupuesto del Instituto en lo relativo a servicios generales.
 
 III. Coordinar y supervisar el suministro de los servicios de intendencia y el manejo de Residuos Peligrosos Biológico Infecciosos requeridos por las diversas áreas del Instituto.
 
-IV. Supervisar y evaluar la prestación de servicios de vigilancia, seguridad, mensajería, correspondencia, transporte y otros servicios de apoyo que se otorga a cada una de las áreas del Instituto, a fin de que se realicen en apego a la normatividad vigente.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2021)</small>
+
+IV. Supervisar y evaluar la prestación de servicios de vigilancia, seguridad, mensajería, transporte y otros servicios de apoyo que se otorga a cada una de las áreas del Instituto, a fin de que se realicen en apego a la normatividad vigente.
 
 V. Verificar y evaluar los servicios de mantenimiento, conservación y construcción del mobiliario, equipo, planta física e instalaciones de este Instituto.
 
-VI. Supervisar y vigilar los servicios de mantenimiento preventivo y correctivo al equipo biomédico propiedad de este Instituto.
+VI. (DEROGADA, D.O.F. 31 DE MARZO DE 2021)
 
 VII. Verificar y evaluar el suministro de los servicios de alimentación y dietética proporcionados a los pacientes, personal, donadores de sangre y usuarios de la cafetería, a fin de que se realicen con calidad y en apego a la normatividad vigente.
 
@@ -881,31 +891,55 @@ XV. Elaborar y/o supervisar y vigilar que los trabajos especiales, que dentro de
 
 Se podrán crear e instaurar las Comisiones, Comités y Subcomités necesarios, para el óptimo cumplimiento de las diferentes metas y objetivos del Instituto.
 
-> <small>[N. DE E. SE ADVIERTE QUE LA MODIFICACIÓN AL ESTATUTO PUBLICADA EN EL D.O.F. 11 DE JULIO DE 2019, DIFIERE EN EL NÚMERO DE PÁRRAFOS, DEROGÁNDO LOS PÁRRAFOS VIGÉSIMO QUINTO, TRIGÉSIMO OCTAVO Y CUADRAGÉSIMO SEGUNDO DEL ARTÍCULO 45 BIS, POR LO QUE SE SUGIERE CONSULTAR LA PUBLICACIÓN OFICIAL, PÁGINAS DE LA 86 A LA 87]</small>
+> <small>[N. DE E. SE ADVIERTE QUE LA MODIFICACIÓN AL ESTATUTO PUBLICADA EN EL D.O.F. 31 DE MARZO DE 2021, DIFIERE EN EL NÚMERO DE PÁRRAFOS, DEROGÁNDO LOS PÁRRAFOS QUINTO, TRIGÉSIMO PRIMERO, TRIGÉSIMO CUARTO Y TRIGÉSIMO SÉPTIMO DEL ARTÍCULO 45 BIS, POR LO QUE SE SUGIERE CONSULTAR LA PUBLICACIÓN OFICIAL, PÁGINAS DE LA 20 A LA 21.]</small>
 
 ###### ARTICULO 45o.
 
 bis. El Instituto cuenta con las Comisiones, Comités y Subcomités que a continuación se mencionan:
 
-> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-Comisión de Seguridad e Higiene, tendrá las funciones que le señalan el Reglamento de Seguridad e Higiene de la Secretaría de Salud, así como las referidas en las Condiciones Generales de Trabajo.
+Comisión Central de Seguridad, Higiene y Medio Ambiente en el Trabajo, tendrá las funciones que le señalan el artículo 16 del Reglamento de Seguridad e Higiene de la S 42o.ecretaría (sic) de Salud, así como las referidas en las Condiciones Generales de Trabajo.
 
-Comisión Evaluadora de Premios, Estímulos y Recompensas Civiles, tendrá las funciones que le señalan la Ley de Premios, Estímulos y Recompensas Civiles y demás disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE MARZO DE 2021)</small>
 
-Comisión Ejecutiva para la Calificación y Asignación del Fondo Destinado a Apoyar la Investigación, tendrá las funciones que le señalan sus Lineamientos de Operación y demás disposiciones aplicables.
+Comisión Auxiliar de Seguridad, Higiene y Medio Ambiente en el Trabajo tendrá las funciones que le señalan el artículo 17 del Reglamento de Seguridad e Higiene de la Secretaría de Salud, así como las referidas en las Condiciones Generales de Trabajo.
 
-Comisión de Vestuario y Equipo, tendrá las funciones que se establecen en el Reglamento de Vestuario y Equipo de las Condiciones Generales de Trabajo.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-Comisión Central Mixta de Capacitación, tendrá las funciones que se establecen en el Reglamento de Capacitación de las Condiciones Generales de Trabajo
+Comisión Evaluadora de Premios, Estímulos y Recompensas Civiles, tendrá las funciones que indica la NORMA para el sistema de evaluación del desempeño de los servidores públicos de nivel operativo.
 
-Comisión Auxiliar Mixta de Escalafón, tendrá las funciones que establece el Reglamento de Escalafón de la Secretaría de Salud.
+> <small>(DEROGADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-Comisión Local de Trabajo del Programa de Estímulos a la Calidad del Desempeño del Personal de Salud, tendrá las funciones que establece la normatividad vigente en la materia.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+
+Comisión Central Mixta de Vestuario y Equipo, tendrá las funciones establecidas en el artículo 13 del Reglamento de Vestuario y Equipo de la Secretaría de Salud y demás relativas y aplicables.
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+
+Comisión Central Mixta de Capacitación, tendrá las funciones que se establecen en el artículo 22 del Reglamento de Capacitación de la Secretaría de Salud, y demás relativas y aplicables.
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+
+Comisión Auxiliar Mixta de Escalafón, tendrá las funciones que establece el artículo 56 del Reglamento de Escalafón de la Secretaría de Salud.
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+
+Comisión Local de Estímulos a la Calidad del Desempeño del Personal de Salud, tendrá las funciones que establece el numeral 4.4.4. del Reglamento para la Operación del Programa de Estímulos a la Calidad del Desempeño del Personal de Salud.
 
 Comisión de Convivencia Infantil que realizará las funciones que señalan las Condiciones Generales del Trabajo de la Secretaría de Salud.
 
-Comisión Evaluadora para el Otorgamiento del Premio Nacional de Administración Pública que realizará las funciones que señala la Norma para Otorgar el Premio de Administración Pública.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+
+Comisión Evaluadora para el Otorgamiento del Premio Nacional de Administración Pública que realizará las funciones que señala la Norma para otorgar el Premio Nacional de Administración Pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE MARZO DE 2021)</small>
+
+Comisión Mixta para la Evaluación del Desempeño y Productividad en el Trabajo que cumplirá las funciones establecidas en el artículo 12 del Reglamento de Productividad de la Secretaría de Salud.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE MARZO DE 2021)</small>
+
+Comisión de Vivienda que realizará las funciones indicadas en los Lineamientos Generales para la Asignación y Administración de la Unidad Habitacional para el Personal de Investigación del Instituto Nacional de Cardiología
 
 > <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
 
@@ -931,35 +965,37 @@ Comité de Calidad y Seguridad del Paciente, tendrá las funciones señaladas en
 
 Comité para la Detección y Control de las Infecciones Nosocomiales, tendrá las funciones que le señala la Norma Oficial Mexicana NOM-045-SSA2-2005, Para la vigilancia epidemiológica, prevención y control de las infecciones nosocomiales.
 
-> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-Comité de Adquisiciones, Arrendamientos y Servicios, tendrá las funciones que le señalan el artículo 22 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y el Capítulo Segundo del Reglamento de la misma; el apartado 5.1 del Manual Administrativo de Aplicación General en Materia de Adquisiciones, Arrendamientos y Servicios del Sector Público, y las Políticas, Bases y Lineamientos en materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Cardiología Ignacio Chávez actualizadas en su caso y las demás disposiciones aplicables.
+Comité de Obras Públicas y Servicios relacionados con las mismas, tendrá las funciones que le señalan el artículo 25 de la Ley de obras públicas y servicios relacionados con las mismas y el Capítulo Segundo del Reglamento de la misma, Manual administrativo de aplicación general en materia de obras públicas y servicios relacionados con las mismas, y las Políticas, Bases y Lineamientos en materia de obras públicas y servicios relacionados con las mismas del Instituto Nacional de Cardiología Ignacio Chávez actualizadas en su caso y las demás disposiciones aplicables.
 
-Comité de Cuadro Básico de Medicamentos, Material de Curación, Equipo Médico y Precios tendrá las funciones que le señalan el Reglamento de la Comisión Interinstitucional del Cuadro Básico de Insumos del Sector Salud y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-Comité de Bienes Muebles, tendrá las funciones que le señalan la Ley General de Bienes Nacionales.
+Comité de Farmacia y Terapéutica, tendrá las funciones que le señalan el numeral 5.1.2. del Capítulo XVII de la Farmacopea de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-Comité de Transparencia, tendrá las funciones que le señalan el artículo 44 de la Ley General de Transparencia y Acceso a la Información Pública.
+Comité de Bienes Muebles, tendrá las funciones que le señalan el artículo 141 de la Ley General de Bienes Nacionales.
 
-> <small>(DEROGADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-Comité para el Programa de Ahorro de Energía, tendrá las funciones que señala el Acuerdo que establece las disposiciones generales para el Programa de Energía en la Administración Pública Federal.
+Comité de Transparencia, tendrá las funciones establecidas en el artículo 44 de la Ley General de Transparencia y Acceso a la Información Pública, así como lo referido en el artículo 65 de la Ley Federal de Transparencia y Acceso a la Información Pública.
 
-Comité de Control y Desempeño Institucional, tendrá las funciones que le señalan en el Manual Administrativo de Aplicación General en Material de Control Interno.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-> <small>(DEROGADO, D.O.F. 11 DE JULIO DE 2019)</small>
+Comité para el Programa de Ahorro de Energía, tendrá las funciones que señala (sic) las Disposiciones Administrativas y Lineamientos de carácter general en materia de eficiencia energética en los inmuebles, flotas vehiculares e instalaciones industriales de la Administración Pública Federal.
 
-> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-Comité de Ética y de Prevención de Conflictos de Interés, tendrá las funciones que establecen las Bases para la integración, organización y funcionamiento del Comité de Ética y de Prevención de Conflictos de Interés.
+Comité de Control y Desempeño Institucional, tendrá las funciones que le señala el Acuerdo por el que se emiten las Disposiciones y el Manual Administrativo de Aplicación General en Material de Control Interno.
 
-> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-Comité Interno de Vigilancia del Uso Adecuado de los Recursos Destinados a la Investigación, tendrá las funciones que establece la Ley de los Institutos Nacionales de Salud, así como las que se señalan en su acta de instalación.
+Comité de Ética y de Prevención de Conflictos de Interés, tendrá las funciones que establecen las Bases para la integración, organización y funcionamiento del Comité de Ética y de Prevención de Conflictos de Interés del Instituto Nacional de Cardiología Ignacio Chávez, así como la Guía para la Recepción y Atención de Quejas y Denuncias en el Comité de Ética y Prevención de Conflictos de Interés, emitido por la Unidad Especializada de Ética y Prevención de Conflictos de Interés (UEEPCI), de la Secretaría de la Función Pública.
 
-(Aprobado en la 1ª. Sesión ordinaria de la Junta de Gobierno, celebrada el 25 de marzo de 2013)
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+
+Comité Interno de Vigilancia del Uso Adecuado de los Recursos Destinados a la Investigación, tendrá las funciones que establece el artículo 44 de la Ley de los Institutos Nacionales de Salud.
 
 > <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2017)</small>
 
@@ -969,21 +1005,21 @@ Comité Interno para el Cuidado y Uso de Animales de Laboratorio, realizará las
 
 Comité de Innovación y Desarrollo Tecnológico, efectuará las funciones que indica su acta de instalación.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2017)</small>
+> <small>(DEROGADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-Comité Interno de Protección Civil y Hospital Seguro, cumplirá las funciones que indica el Aviso por el que se dan a Conocer los Términos de Referencia para la Elaboración de Programas Internos de Protección Civil en Unidades Hospitalarias, TR-SPC-004-PIPC-Unidades Hospitalarias-2017.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2017)</small>
-
-Comité de Farmacovigilancia, ejecutará las funciones que indica la Guía para la Instalación y Operación de los Centros Institucionales y Unidades de Farmacovigilancia Hospitalarias Coordinadas por el Centro Nacional de Farmacovigilancia.
+Comité de Fármaco y Tecnovigilancia, ejecutará las funciones que indica la NORMA Oficial Mexicana NOM-220-SSA1-2016, Instalación y operación de la farmacovigilancia y la NORMA Oficial Mexicana NOM-240-SSA1-2012, Instalación y operación de la tecnovigilancia
 
 > <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2017)</small>
 
 Comité Interno de Trasplantes tendrá las funciones que establece el artículo 316 de la Ley General de Salud, el Reglamento de la Ley General de Salud en Materia de Control Sanitario de la Disposición de Órganos, Tejidos y Cadáveres de Seres Humanos.
 
-Subcomité de Morbi-Mortalidad, tendrá las funciones que establece la normatividad vigente en la materia.
+> <small>(DEROGADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-Subcomité de Expediente Clínico, tendrá las funciones que establece la normatividad vigente en la materia.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+
+Subcomité de Expediente Clínico, tendrá las funciones que establece su Manual de Integración y Funcionamiento del Subcomité del Expediente Clínico
 
 > <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2019)</small>
 
@@ -991,9 +1027,11 @@ Comité de Medicina Transfusional, tendrá las funciones que establece (sic) Ley
 
 Subcomité del Grupo Operativo de Cirugía, tendrá las funciones que establece la normatividad vigente en la materia.
 
-Subcomité de Medicamentos e Insumos, tendrá las funciones que establece la normatividad vigente en la materia.
+> <small>(DEROGADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-Subcomité de Evaluación de la Satisfacción del Usuario, tendrá las funciones que establece la minuta de instalación del mismo.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+
+Subcomité de Evaluación de la Satisfacción del Usuario, tendrá las funciones que establece su Manual de Integración y Funcionamiento
 
 > <small>(DEROGADO, D.O.F. 14 DE JULIO DE 2017)</small>
 
@@ -1163,19 +1201,19 @@ El Órgano Interno de Control forma parte de la estructura del Instituto y tiene
 
 Las ausencias del Director General del Instituto serán suplidas por los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 51], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 59o.
 
-Las ausencias de los titulares de las Direcciones Médica, de Investigación, Enseñanza, Administración, y Enfermería serán cubiertas por los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
+Las ausencias de los titulares de las Direcciones Médica, de Investigación, Enseñanza, Administración, y Enfermería serán cubiertas por las personas servidoras públicas de la jerarquía inmediata inferior, según la naturaleza de los asuntos a su cargo. Las suplencias por ausencia deberán ser notificadas por oficio al Director General.
 
-Suplirán las funciones de los Subdirectores de Área los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos; éstas deberán ser notificadas por escrito al Director de Área y al Director General.
+Suplirán las funciones de los Subdirectores de Área las personas servidoras públicas de la jerarquía inmediata inferior, según la naturaleza de los asuntos a su cargo; éstas deberán ser notificadas por oficio al Director de Área y al Director General.
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 52], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 60o.
 
-Las ausencias del Titular del Órgano Interno de Control, así como las de los Titulares de las Áreas de Auditoría, de Quejas, de Responsabilidades, y de Auditoría para Desarrollo y Mejora de la Gestión Pública serán suplidas conforme a lo previsto por el artículo 88, segundo y tercer párrafos, del Reglamento Interior de la Secretaría de la Función Pública.
+Las ausencias del Titular del Órgano Interno de Control, así como las de los Titulares de las Áreas de Auditoría, de Quejas y de Responsabilidades serán suplidas conforme a lo previsto por el artículo 99 párrafos (sic) primero, del Reglamento Interior de la Secretaría de la Función Pública o quien designe la persona Titular del Órgano Interno de Control.
 
 > <small>(REFORMADO [N. DE E. REUBICADO ANTES CAPÍTULO XI], D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -1262,3 +1300,9 @@ D.O.F. 11 DE JULIO DE 2019.
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las modificaciones al Estatuto Orgánico del Instituto Nacional de Cardiología Ignacio Chávez, deberán de inscribirse en el Registro Público de Organismos Descentralizados en los términos de la Ley Federal de las Entidades Paraestatales.
+
+D.O.F. 31 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DE LAS "MODIFICACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ".]
+
+ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, previa aprobación emitida por el Órgano de Gobierno.
