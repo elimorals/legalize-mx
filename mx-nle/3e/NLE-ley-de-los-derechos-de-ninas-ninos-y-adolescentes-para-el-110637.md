@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2021-03-29"
+last_updated: "2021-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -1203,13 +1203,23 @@ XIX. Administrar la disciplina escolar de modo compatible con la dignidad humana
 
 XX. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
 
-XXI. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2021)</small>
 
-XXII. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación; y
+XXI. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente, así como los conceptos y principios fundamentales de la ciencia ambiental, el fomento de hábitos dirigidos a un estilo de vida sustentable, la sensibilización y prevención sobre las causas y efectos del cambio climático, de igual manera la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales y en particular, desarrollar una cultura del agua;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2021)</small>
+
+XXII. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
 XXIII. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo.
 
-Las disposiciones de la presente fracción, también serán aplicables para los niños y adolescentes que ejerzan la paternidad.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2021)</small>
+
+Las disposiciones de la presente fracción, también serán aplicables para los niños y adolescentes que ejerzan la paternidad, y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2021)</small>
+
+XXIV. Establecer programas educativos para el aprendizaje de lenguas extranjeras para la Educación Básica.
 
 Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
@@ -3102,3 +3112,19 @@ P.O. 29 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 324. SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 121, Y SE ADICIONA EL ARTÍCULO 119 BIS, AMBOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 371. SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DEL ESTADO; Y SE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 75 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 465. SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 7 Y LAS FRACCIONES XXII Y XXIII Y POR ADICIÓN DE UNA FRACCIÓN XXIV DEL ARTÍCULO 21, DE LA LEY DE EDUCACIÓN DEL ESTADO; Y SE REFORMAN LA FRACCIÓN XXII Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XXIII; Y SE ADICIONA LA FRACCIÓN XXIV DEL ARTÍCULO 75 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Educación del Estado aplicará de manera gradual un plan para la implementación de la presente reforma a partir del ciclo escolar 2021-2022.
+
+TERCERO.- Para cumplir con lo establecido en el presente Decreto se dará prioridad, a ocupar los recursos humanos y materiales con los que cuenta la Secretaria de Educación.
