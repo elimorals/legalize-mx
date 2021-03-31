@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2020-11-27"
+last_updated: "2021-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -305,13 +305,17 @@ V. Evitar procedimientos de mediación o conciliación salvo que la Ley lo deter
 
 VI. Favorecer la separación y alejamiento del agresor con respecto a la víctima, en los términos de las leyes respectivas;
 
-> <small>(REFORMADA, P.O. 15 JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2021)</small>
 
-VII. Favorecer la instalación, operación, fortalecimiento y el mantenimiento de refugios para las víctimas, sus hijas e hijos, o bien, de las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural adolescentes, que habiten en el mismo domicilio; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos; y
+VII. Favorecer la instalación, operación, fortalecimiento y el mantenimiento de refugios para las víctimas, sus hijas e hijos, o bien, de las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural adolescentes, que habiten en el mismo domicilio; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos;
 
-> <small>(ADICIONADA, P.O. 15 JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2021)</small>
 
-VIII. Establecer en sus portales de internet o en micrositios información relativa a la prevención de cualquier tipo de violencia contra las mujeres, así como los números telefónicos donde se les pueda brindar atención y orientación.
+VIII. Establecer en sus portales de internet o en micrositios información relativa a la prevención de cualquier tipo de violencia contra las mujeres, así como los números telefónicos donde se les pueda brindar atención y orientación, y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2021)</small>
+
+IX. Generar y proponer a las instituciones educativas de todos los niveles escolares estrategias de prevención contra cualquier tipo de violencia, incluida la de género, a fin de fomentar desde la infancia la concientización de las conductas que la provocan.
 
 ###### Artículo 16.
 
@@ -1670,3 +1674,9 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 470. SE REFORMAN LAS FRACCIONES VII Y VIII, Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 15 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
