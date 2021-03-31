@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2019-08-28"
+last_updated: "2021-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -509,13 +509,17 @@ De la Secretaría de Seguridad Pública
 
 La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública, privada, policía y apoyo vial, tránsito, transporte, prevención y reinserción social, y los centros de internamiento especial para adolescentes, de conformidad con lo dispuesto por las leyes de la materia y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 2021)</small>
 
 ###### Artículo 18 Ter.
 
-Son atribuciones del secretario de Seguridad Pública, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+Son atribuciones de la persona titular de la Secretaría de Seguridad Pública, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2001)</small>
 
 I. Establecer, dirigir y controlar, en el ámbito de su competencia, la política de la Secretaría, así como programar, coordinar y evaluar, en términos de los ordenamientos aplicables, las actividades del sector correspondiente; aprobando al efecto los programas respectivos, de conformidad con los objetivos, metas y políticas que determine el Gobernador del Estado;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2001)</small>
 
 II. Desarrollar, instrumentar y ejecutar la política de seguridad pública estatal;
 
@@ -529,6 +533,8 @@ IV. Formar parte del Consejo Estatal de Seguridad Pública y desempeñar las fun
 
 V. (DEROGADA, G.O. 26 DE AGOSTO DE 2013)
 
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2001)</small>
+
 VI. Promover la participación de los ciudadanos en el diseño y planeación de planes y programas en materia de seguridad pública, así como para el desarrollo de actividades de vigilancia sobre el desempeño de la Secretaría;
 
 > <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
@@ -541,13 +547,19 @@ VIII. (DEROGADA, G.O. 1 DE FEBRERO DE 2008)
 
 VIII Bis. Coordinar, dirigir y vigilar la política en materia de transporte y otorgar, rescatar, revertir o revocar, conforme a la ley de la materia, concesiones, permisos, autorizaciones o licencias a personas físicas o morales, para la prestación de servicios públicos de transporte de personas y carga, así como controlar su adecuado funcionamiento y los servicios auxiliares de transporte;
 
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2001)</small>
+
 IX. Establecer un sistema destinado a obtener, analizar, estudiar y procesar información en materia de seguridad pública, mediante métodos que garanticen el estricto respeto a los derechos humanos, con apego a los principios de reserva y confidencialidad en el servicio público;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2001)</small>
 
 X. Disponer, por acuerdo del Gobernador del Estado, del mando de la policía municipal en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 XI. Coordinar, dirigir y vigilar la política estatal en materia de tránsito y la aplicación de las disposiciones de la ley de la materia, relativas a la circulación de vehículos por las vías públicas y áreas o zonas privadas con acceso al público, comprendidas dentro del Estado que no sean de competencia federal, así como el estacionamiento de vehículos y los servicios auxiliares de tránsito;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2001)</small>
 
 XII. Autorizar, en el ámbito de su competencia y en términos de la licencia colectiva concedida por la autoridad federal, el uso de armas a los elementos de las fuerzas policiales en el ámbito de su competencia;
 
@@ -561,21 +573,21 @@ XV. (DEROGADA, G.O. 30 DE AGOSTO DE 2006)
 
 XVI. (DEROGADA, G.O. 30 DE AGOSTO DE 2006)
 
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2021)</small>
 
-XVI Bis. Proveer lo conducente para la ejecución de las penas y medidas de seguridad impuestas por las autoridades judiciales, así como la vigilancia y control de las personas que se encuentren cumpliendo una condena a disposición del Ejecutivo estatal; así como elaborar y ejecutar los programas relacionados con el sistema de prevención y reinserción social del Estado;
+XVI Bis. Controlar, vigilar y dar seguimiento a las penas y medidas de seguridad que imponga o modifique el órgano jurisdiccional; así como organizar la administración y operación del Sistema Penitenciario con base en el respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para procurar la reinserción social de la persona sentenciada;
 
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2021)</small>
 
-XVI Ter. Administrar, con apego a los derechos humanos, los centros de reinserción social y tramitar, por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de procesados y sentenciados;
+XVI Ter. Administrar, con apego a los derechos humanos, los centros penitenciarios, así como proponer, ante los órganos jurisdiccionales, los beneficios preliberacionales, libertades anticipadas, sanciones no privativas de libertad y traslado de personas privadas de su libertad; a la vez que atender las solicitudes de extradición, amnistía e indulto;
 
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2021)</small>
 
-XVI Quater. Coordinar, dirigir y vigilar la política estatal en materia de prevención y reinserción social, de conformidad con las leyes de la materia;
+XVI Quater. Coordinar, dirigir y vigilar la política estatal en materia de prevención y reinserción social, de evaluación y supervisión de medidas cautelares; así como de la suspensión condicional del proceso, de conformidad con las leyes de la materia;
 
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2021)</small>
 
-XVII. Custodiar a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento;
+XVII. Supervisar las instalaciones de los Centros Penitenciarios, para mantener la seguridad, tranquilidad e integridad de las personas privadas de su libertad, del personal y de las y los visitantes, ejerciendo las medidas y acciones pertinentes para su buen funcionamiento;
 
 > <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
@@ -585,13 +597,25 @@ XVIII. Colaborar, cuando así lo soliciten, con las autoridades federales, estat
 
 XIX. Autorizar, supervisar, verificar, ratificar, regular y controlar los servicios de seguridad privada en el Estado;
 
-> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2021)</small>
 
-XX. Administrar y resguardar los centros de internamiento especial para adolescentes, de conformidad con lo dispuesto por la ley en materia de responsabilidad juvenil y demás disposiciones aplicables; y
+XX. Administrar y resguardar los Centros Especializados para Adolescentes, de conformidad con lo dispuesto por la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y demás disposiciones aplicables;
 
 > <small>(ADICIONADA, G.O. 6 DE NOVIEMBRE DE 2013)</small>
 
 XXI. Integrar y tener el mando y operación de la Unidad de Policía Científica Preventiva.
+
+> <small>(ADICIONADA, G.O. 31 DE MARZO DE 2021)</small>
+
+XXII. Realizar los traslados ordenados por los órganos jurisdiccionales, de las personas privadas de su libertad a los recintos judiciales en donde se celebrarán sus audiencias, brindándoles la seguridad y custodia en dichos recintos; así como cumplir los mandamientos judiciales solicitados por las y los jueces y autoridades ministeriales;
+
+> <small>(ADICIONADA, G.O. 31 DE MARZO DE 2021)</small>
+
+XXIII. Coordinar, dirigir y supervisar la Unidad de Análisis e Inteligencia que estará bajo su adscripción, con las facultades conferidas en la Ley del Sistema Estatal de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave y otras disposiciones aplicables, y
+
+> <small>(ADICIONADA, G.O. 31 DE MARZO DE 2021)</small>
+
+XXIV. Coordinar y supervisar la Unidad de Inteligencia Patrimonial y Económica que estará bajo su adscripción, para llevar a cabo las funciones y actividades conforme a la Ley del Sistema Estatal de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave y demás disposiciones legales y administrativas aplicables.
 
 De la Secretaría de Finanzas y Planeación
 
@@ -2860,3 +2884,13 @@ G.O. 28 DE AGOSTO DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 31 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 849 QUE REFORMA Y ADICIONA DIVERSAS FRACCIONES DEL ARTÍCULO 18 TER DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El Ejecutivo del Estado contará con un plazo de 120 días naturales, contado a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones reglamentarias correspondientes.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
