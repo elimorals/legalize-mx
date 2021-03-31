@@ -4,7 +4,7 @@ identifier: "CHH-estatuto-organico-del-instituto-chihuahuense-de-educacion-12955
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-01-31"
-last_updated: "2018-01-31"
+last_updated: "2021-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "CHH"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO CHIHUAHUENSE DE EDUCACION PARA LOS ADULTOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO CHIHUAHUENSE DE EDUCACIÓN PARA LOS ADULTOS, PUBLICADO EN EL P.O. DE 31 DE MARZO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO CHIHUAHUENSE DE EDUCACIÓN PARA LOS ADULTOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2021 (ABROGADO).
 
 Estatuto publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 31 de enero de 2018.
 
@@ -703,3 +705,25 @@ Presidenta del Patronato Pro-Educación de Jóvenes y Adultos del Estado de Chih
 C.P. FRANCISCO JAVIER JAIME CALZADILLAS
 
 Secretario General del SNTEA, Sección Chihuahua
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL INSTITUTO CHIHUAHUENSE DE EDUCACIÓN PARA LOS ADULTOS".]
+
+PRIMERO.- El presente Estatuto Orgánico surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Este instrumento deberá inscribirse en el Registro Público de las Entidades Paraestatales de la Secretaría de Hacienda.
+
+TERCERO.- Se abroga el Estatuto Orgánico del Instituto Chihuahuense de Educación para los Adultos publicado en el Periódico Oficial del Estado el día 31 de enero de 2018.
+
+CUARTO.- En tanto se elaboren y expiden los manuales de organización y reglamentos derivados del presente Estatuto, el Director General queda facultado para resolver las cuestiones que conforme a dichos manuales o reglamentos deban regular el cabal funcionamiento de la institución.
+
+QUINTO.- Los asuntos pendientes o en trámite al entrar en vigor este Estatuto, que conforme al mismo deban pasar de una unidad a otra u otras, continuarán su trámite y serán resueltos conforme a las normas vigentes al momento de su inicio, por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento.
+
+SEXTO.- Las modificaciones a la estructura orgánica de las unidades del Instituto que se deriven de la entrada en vigor del presente, se realizarán conforme a las disposiciones emitidas por la Secretaría de la Función Pública, y demás instancias que correspondan.
+
+SÉPTIMO.- El Instituto, por conducto del Departamento de Administración y Finanzas, dentro de los primeros 90 días naturales contados a partir de la publicación del presente, coordinará con las unidades, las acciones relativas a los recursos humanos, financieros, tecnológicos y materiales, estrictamente para el desempeño de las nuevas atribuciones establecidas para éstas.
+
+La implementación del presente Estatuto Orgánico será con cargo al presupuesto autorizado al Instituto, por lo que no se requerirán recursos adicionales en el presente ejercicio fiscal, ni se incrementará su presupuesto regular.
