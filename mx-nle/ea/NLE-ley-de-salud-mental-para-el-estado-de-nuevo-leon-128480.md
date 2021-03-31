@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-salud-mental-para-el-estado-de-nuevo-leon-128480"
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-09"
-last_updated: "2019-11-20"
+last_updated: "2021-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2021.
 
 Ley publicada en la Sección III al Número 58 del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de mayo de 2018.
 
@@ -381,9 +381,17 @@ XVI. Presentar un informe anual sobre las políticas públicas implementadas en 
 
 XVII. Instrumentar acciones de participación en redes sociales e internet y en los medios masivos de comunicación de las autoridades, con la finalidad de proporcionar información precisa, objetiva y con base en criterios científicos, enfocada a la detección, la atención y la prevención de algún tipo de trastorno mental, priorizando los que provocan conducta suicida;
 
-XVIII. Convocar en forma ordinaria al Consejo Estatal de Salud Mental, no menos de dos veces al año para el desahogo de temas relacionados con la salud mental y, de manera extraordinaria en los casos que lo ameriten o que se consideren prioritarios. El Reglamento de la presente Ley normará a detalle las disposiciones para el desarrollo de las sesiones del Consejo; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2021)</small>
 
-XIX. Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
+XVIII. Convocar en forma ordinaria al Consejo Estatal de Salud Mental, no menos de dos veces al año para el desahogo de temas relacionados con la salud mental y, de manera extraordinaria en los casos que lo ameriten o que se consideren prioritarios. El Reglamento de la presente Ley normará a detalle las disposiciones para el desarrollo de las sesiones del Consejo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2021)</small>
+
+XIX.- Diseño e implementación de políticas públicas, programas y/o protocolos especializados que permitan una prestación de servicios en materia de salud mental, tanto para el personal de sector salud, como para la población en general, los cuales tendrán como fin la reducción de los niveles de estrés, ansiedad, depresión, o cualquier malestar psicológico derivado del distanciamiento social, provocado por desastres naturales o emergencias sanitarias decretados por la autoridad competente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XIX], P.O. 31 DE MARZO DE 2021)</small>
+
+XX. Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
 
 ###### Artículo 25.
 
@@ -524,6 +532,14 @@ VI. La asistencia en todos los casos será realizada por profesionales de la sal
 VII. La recuperación del bienestar psíquico y la rehabilitación de las personas asistidas en casos de patologías graves, debiendo tender a recuperar su autonomía, calidad de vida y la plena vigencia de sus derechos;
 
 VIII. La reinserción social mediante acciones desarrolladas en conjunto con las áreas de Trabajo, Educación, Asistencia Social y aquellas que fuesen necesarias para efectivizar la recuperación y rehabilitación del asistido;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2021)</small>
+
+VIII Bis.- La realización de programas y políticas públicas de prevención, atención, apoyo y seguimiento de problemas de salud mental, dirigidos al personal del sector salud que lo requiera, derivado de algún desastre natural, emergencia sanitaria o distanciamiento social determinados por la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2021)</small>
+
+VIII Bis 1.- La realización de programas específicos de prevención, atención, apoyo y seguimiento de problemas de salud mental dirigidos a la población en general que lo requiera derivado de algún desastre natural, emergencia sanitaria, condiciones de aislamiento o distanciamiento social, decretados por la autoridad competente;
 
 IX. La conformación de equipos interdisciplinarios de acuerdo a los objetivos de atención a la salud mental específicos; y
 
@@ -683,9 +699,11 @@ Toda persona que preste sus servicios como psicoterapeuta deberá acreditar con 
 
 La atención de la salud mental que por conducto de cualesquier psiquiatra, psicólogo o psicoterapeuta sea proporcionada deberá incluir información clara, precisa y exhaustiva al usuario y sus familiares, respecto al diagnóstico y el tratamiento que se pretenda, el cual no podrá iniciarse sino mediante previo consentimiento informado por escrito.
 
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2021)</small>
+
 ###### Artículo 53.
 
-La formación profesional en materia de prevención de riesgos que afectan la salud mental comprende cuando menos el acceso al conocimiento sobre los avances científicos referentes a padecimientos crónicos, deterioro de la calidad de vida, riesgos ante situaciones críticas y desastres naturales y tipos de seguimiento y sus consecuencias. La Secretaría promoverá la capacitación de los profesionales de la salud mental en los métodos para la elaboración de programas preventivos y actualizados en base a estos temas.
+La formación profesional en materia de prevención de riesgos que afectan la salud mental comprende cuando menos el acceso al conocimiento sobre los avances científicos referentes a padecimientos crónicos, deterioro de la calidad de vida, riesgos ante situaciones críticas, desastres naturales, emergencias sanitarias o distanciamiento social, decretados por la autoridad competente, y tipos de seguimiento y sus consecuencias. La Secretaría promoverá la capacitación de los profesionales de la salud mental en los métodos para la elaboración de programas preventivos y actualizados en base a estos temas.
 
 ### Capítulo IX. De la Evaluación, Diagnóstico y Tratamiento
 
@@ -988,3 +1006,9 @@ P.O. 20 DE NOVIEMBRE DE 2019.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- El Titular del Poder Ejecutivo destinará los recursos necesarios en la Ley de Egresos del Estado de cada ejercicio fiscal, en cumplimiento a lo estipulado en los artículos 22, 24 fracción III, y Quinto Transitorio de la Ley de Salud Mental para el Estado de Nuevo León.
+
+P.O. 31 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 466. SE REFORMAN LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 24, Y EL ARTÍCULO 53; Y SE ADICIONAN LA FRACCIÓN XX AL ARTÍCULO 24 Y LAS FRACCIONES VIII BIS Y VIII BIS 1 AL ARTÍCULO 36; TODOS DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN”,]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
