@@ -4,7 +4,7 @@ identifier: "VER-ley-ganadera-para-el-estado-de-veracruz-de-ignacio-de-la-6767"
 country: "mx"
 rank: "ley"
 publication_date: "1979-05-22"
-last_updated: "2020-02-04"
+last_updated: "2021-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY GANADERA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz Ignacio de la Llave, el martes 22 de mayo de 1979.
 
@@ -39,13 +39,21 @@ LEY
 
 LEY GANADERA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-### CAPITULO PRIMERO. DE LA MATERIA DE ESTA LEY
+> <small>(REFORMADA SU DENOMINACIÓN; G.O. 31 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO, G.O. 9 DE MAYO DE 2012)</small>
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTICULO 1°.
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
-Se declara de interés público el fomento, organización, producción, mejoramiento, desarrollo, productividad, aprovechamiento, industrialización, comercialización, sanidad y protección de la ganadería en el Estado.
+###### ARTÍCULO 1°
+
+Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto regular:
+
+I. El fomento, organización, mejoramiento, desarrollo, productividad, aprovechamiento, industrialización, comercialización, sanidad y protección de la ganadería en el Estado;
+
+II. Las formas y procedimientos para adquirir, trasmitir, acreditar y proteger la propiedad del ganado; y
+
+III. La movilización del ganado, productos y subproductos pecuarios en territorio del Estado.
 
 > <small>(REFORMADO, G.O. 9 DE MAYO DE 2012)</small>
 
@@ -53,21 +61,125 @@ Se declara de interés público el fomento, organización, producción, mejorami
 
 Quedará sujeta a las disposiciones de esta Ley y a las disposiciones reglamentarias que se expidan, toda persona física o moral que se dedique a la cría, reproducción o explotación de ganado bovino, caballar, mular, asnal, ovino, caprino, porcino, aves de cualesquiera de sus especies, conejos y animales de peletería. La aparcería de ganado quedará regulada por los Artículos 2672, 2673 y 2685 al 2697 del Código Civil vigente en el Estado. Las actividades apícolas se regularán por la Ley correspondiente.
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 3°.
 
 Para los efectos de esta Ley, se formulan las siguientes definiciones:
 
-I.- Explotación pecuaria o ganadera es el conjunto de procedimientos utilizados en la cría, manejo y explotación de las especies animales señaladas.
+I. Abigeato: Robo de ganado;
 
-II.- Ganadero es toda persona física o moral que siendo propietaria de animales de las especies indicadas realice funciones de dirección y administración de una explotación pecuaria.
+II. Actividad Ganadera: Conjunto de acciones de especies animales orientadas a la producción racional de carne, leche, huevo, miel, piel, lana y otras de interés zootécnico, con la finalidad de satisfacer necesidades vitales o del desarrollo humano;
 
-III.- Productor especializado es el que siendo o no criador, dedica sus animales o los que adquiere al aprovechamiento de sus productos o sus derivados, sometiéndolos a un proceso técnico-industrial.
+III. Agostadero: Terreno cubierto con vegetación natural, introducida o inducida, cuyo uso principal es la alimentación, de ganado;
 
-IV.- (DEROGADA, G.O. 4 DE FEBRERO DE 2020)
+IV. Cuarentena: Medida zoosanitaria consistente en el aislamiento, observación y restricción de la movilización de animales, productos, subproductos, desechos y esquilmos por la sospecha o existencia de una enfermedad o plaga sujeta a control en los términos de esta Ley y demás normativa aplicable;
 
-> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2020)</small>
+V. Dirección: Dirección General de Ganadería de la Secretaría de Desarrollo Agropecuario, Rural y Pesca;
 
-V.- Unidad de Medida y Actualización, que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en la presente Ley.
+VI. Especie Animal: Cualquier especie animal cuya reproducción sea controlada por el hombre, con el objeto de propagarla, para obtener satisfactores de necesidades vitales o de desarrollo humano;
+
+VII. Estado: Estado de Veracruz de Ignacio de la Llave;
+
+VIII. Ganadero: Persona física o moral que se dedica a la cría, fomento y producción racional de alguna o varias especies animales;
+
+IX. Ganado Mostrenco: Ganado abandonado o perdido cuyo dueño se ignore; los no señalados y no herrados que no pertenezcan al dueño del terreno en que pastan o agostan; aquel cuyo fierro o señal no sea posible identificar, y todos los que ostenten marcas y otros sistemas de identificación de los aquí previstos, que no se encuentren registrados conforme a esta Ley y demás normativa aplicable;
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO IX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+X. GEVER: GUÍA ELECTRÓNICA VERACRUZANA;
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO IX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+XI. Inspectores Locales: Personal que cumple con el perfil autorizado por la Secretaría de Desarrollo Agropecuario, Rural y Pesca PARA OPERAR PUNTOS DE VERIFICACIÓN ESTATAL EN MATERIA DE LA PRESENTE LEY;
+
+XII. Médico Veterinario Zootecnista: Profesionista autorizado por la Secretaría de Desarrollo Agropecuario, Rural y Pesca, con título y cédula debidamente registrados y que acredite experiencia en materia de movilidad y sanidad animal, así como la certificación por la autoridad correspondiente en materia;
+
+XIII. Organizaciones Ganaderas: Asociaciones ganaderas locales, generales y especializadas, las uniones ganaderas regionales, generales o estatales y especializadas, y la Confederación Nacional de Organizaciones Ganaderas, todas ellas debidamente constituidas en los términos de Ley;
+
+XIV. OVH: Oficina Virtual de Hacienda del Estado de la Secretaría de Finanzas y Planeación;
+
+XV. Producción Pecuaria o Ganadera: Conjunto de procedimientos utilizados en la cría, manejo de las especies animales señaladas y aprovechamiento de un producto, orientada a la sostenibilidad;
+
+XVI. Punto de Verificación Estatal: Sitio aprobado por la Secretaría de Desarrollo Agropecuario, Rural y Pesca para constatar el cumplimiento de esta Ley, las disposiciones y normas derivadas de la misma;
+
+XVII. Secretaría: Secretaría de Desarrollo Agropecuario, Rural y Pesca;
+
+XVIII. Subsecretaría: Subsecretaría de Ganadería y Pesca de la Secretaría de Desarrollo Agropecuario, Rural y Pesca;
+
+XIX. UMA: Unidad de Medida y Actualización de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en la presente Ley; y
+
+XX. Unión Ganadera Regional General: Organización que agrupa a cuando menos el treinta por ciento de las asociaciones ganaderas locales, generales en una región ganadera o en un Estado.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2021)</small>
+
+###### ARTICULO 3° Bis.
+
+Son autoridades competentes para la aplicación de la presente Ley:
+
+I. El Titular del Ejecutivo del Estado;
+
+II. El Titular de la Secretaría de Desarrollo Agropecuario, Rural y Pesca;
+
+III. El Titular de la Subsecretaría de Ganadería y Pesca; y
+
+IV. El Titular de la Dirección General de Ganadería.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2021)</small>
+
+###### ARTICULO 3° Ter.
+
+El Titular del Ejecutivo del Estado por conducto del Titular de la Secretaría de Desarrollo Agropecuario, Rural y Pesca, además de las facultades establecidas en la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave, tendrá las siguientes:
+
+I. Coordinar y convenir, con el Gobierno Federal, la aplicación en el Estado de las normas de fomento y control legal que se dicten en relación con la actividad pecuaria;
+
+II. Dictar las disposiciones necesarias para prevenir y combatir las enfermedades específicas de los animales;
+
+III. Establecer los programas y medidas que juzgue convenientes para el fomento y defensa de la ganadería;
+
+IV. Celebrar convenios o acuerdos de coordinación con la Federación y los ayuntamientos para la realización de acciones conjuntas en materia de protección de la sanidad pecuaria en el Estado;
+
+V. Promover la difusión e investigación pecuaria, para optimizar la producción ganadera;
+
+VI. Promover y proteger la población de aquellas especies animales que se consideren más benéficas para el desarrollo de la ganadería;
+
+VII. Impulsar el aprovechamiento sostenible pecuario y propagar entre los ganaderos, la conveniencia de orientarla conforme a las técnicas modernas en la diversificación de la producción, a fin de hacerla cada vez más eficiente;
+
+VIII. Promover y apoyar la integración de comités de los productores pecuarios;
+
+IX. Promover la clasificación de calidad y de certificación de origen de los productos pecuarios;
+
+X. Procurar una mejor distribución de los productos y subproductos pecuarios para el abastecimiento del mercado interno;
+
+XI. Procurar la transformación e industrialización de los productos pecuarios, así como fomentar las engordas de ganado y la instalación de plantas empacadoras, refrigeradores, centros de acopio e industrializadoras de leche y otros;
+
+XII. Vigilar el cumplimiento de las disposiciones en materia de sanidad animal y demás disposiciones aplicables, así como intervenir en los casos que esta u otras leyes le señalen;
+
+XIII. Aplicar las medidas y acciones necesarias para mejorar el estatus sanitario, procurando incrementar de modo constante los niveles de sanidad animal;
+
+XIV. Determinar el destino del ganado, los productos y subproductos que hayan sido asegurados en los términos de esta Ley;
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+XV. CREAR, MODIFICAR O SUPRIMIR LOS PUNTOS DE VERIFICACIÓN ESTATAL PREVIA SOLICITUD JUSTIFICADA DE LA SUBSECRETARÍA;
+
+XVI. Difundir los programas de gobierno orientados al impulso y desarrollo de la actividad pecuaria en el Estado, así como el fomento de la capacitación en materia de epidemiología a los médicos veterinarios acreditados para realizar las pruebas de tuberculosis y brucelosis;
+
+XVII. Autorizar Supervisores de Zona, Inspectores locales de ganadería, Médicos Veterinarios Zootecnistas regionales, para la vigilancia del cumplimiento de la presente Ley; y
+
+XVIII. Las demás que esta Ley y otras normas jurídicas aplicables le confieran.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2021)</small>
+
+###### ARTICULO 3° Quáter.
+
+El Titular de la Subsecretaría, es responsable del funcionamiento de las unidades administrativas a su cargo, con auxilio según sea el caso, por el personal técnico y administrativo respectivo y tendrá como atribuciones genéricas aquellas en materia de planeación, presupuestación y seguimiento; en materia jurídico-administrativa; en materia de información y coordinación; y las demás que le confieran las disposiciones legales aplicables y el Secretario dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2021)</small>
+
+###### ARTICULO 3° Quinquies.
+
+La Dirección, tendrá a su cargo la coordinación de los inspectores locales, supervisores de zona y médicos veterinarios zootecnistas regionales, para poder atender las necesidades del servicio de inspección, vigilancia y sanidad, para efectos de comprobación de obligaciones legales y sanitarias, establecidos en la presente Ley.
 
 ###### ARTICULO 4°.
 
@@ -81,11 +193,13 @@ Las organizaciones ganaderas señaladas tendrán la obligación de vigilar que s
 
 Quienes no pertenezcan a una asociación ganadera, al hacer la manifestación no tendrán obligación de expresar número de credencial ni de registro.
 
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2021)</small>
+
+La Secretaría a través de la Dirección, verificará el cumplimento de la presente obligación, para lo cual llevará un registro de las manifestaciones que reciba, para en su caso compararlos con los reportes de las organizaciones ganaderas y en el supuesto de los no asociados contra los registros de la autoridad municipal.
 
 ###### ARTICULO 6°.
 
-Las infracciones a lo dispuesto por el artículo anterior, serán sancionadas con una multa hasta de cinco Unidades de Medida y Actualización, que ingresará por mitad a la Tesorería del Municipio que corresponda y a la Secretaría de Finanzas y Planeación del Estado.
+(DEROGADO, G.O. 31 DE MARZO DE 2021)
 
 ### CAPITULO SEGUNDO. DEL FOMENTO A LA GANADERIA
 
@@ -199,11 +313,17 @@ La quema de pastos, praderas o montes será sancionada de acuerdo con lo dispues
 
 Los propietarios o poseedores de terrenos tendrán la obligación de cercar su propiedad y conservar sus cercas en buen estado. Éstas constarán como mínimo de tres hilos de alambre de púas o de cualquier otro tipo, debiendo emplearse de preferencia en la construcción de las mismas los árboles maderables que se consideren más útiles y mejor adaptables. La construcción o conservación de las cercas en terrenos colindantes debe costearse por partes iguales por los propietarios o poseedores, quienes además deberán abrir guardarrayas, las cuales deberán mantener limpias de pasto y maleza en un área mínima de dos metros de ancho en los linderos de sus predios.
 
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2021)</small>
+
+La Secretaría a través de la Dirección, podrá verificar el cumplimento de la presente obligación, a través de los Supervisores de Zona.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2021)</small>
+
+En caso de existir quejas o denuncias por incumplimiento al presente artículo, éstas deberán presentarse en el Punto de Verificación más cercano al hecho, la Asociación Ganadera Local, o la Dirección.
 
 ###### ARTICULO 26.
 
-La desobediencia a lo ordenado en el artículo anterior se sancionará por la autoridad municipal con multa hasta de diez Unidades de Medida y Actualización, sin perjuicio de que se cumpla lo dispuesto en el precepto señalado.
+(DEROGADO, G.O. 31 DE MARZO DE 2021)
 
 ### CAPITULO QUINTO. PROPIEDAD, MARCAS Y SEÑALES DEL GANADO
 
@@ -227,7 +347,9 @@ VI. Con los demás medios de prueba establecidos por la Ley.
 
 La factura de compra-venta o documento que ampare la propiedad deberá ser registrado en un libro que al efecto llevará cada Ayuntamiento, cuyo Presidente Municipal expedirá en la propia factura la constancia respectiva, asentando la autenticidad del fierro marcador si se trata de primera venta, con vista en la constancia de registro que deberá exhibir el vendedor; si se trata de ulterior venta, con el documento que constituya el antecedente a plena satisfacción, debiendo la autoridad municipal recabar el visto bueno de la Asociación Ganadera Local si la hubiere. En caso de negativa de parte de la autoridad municipal, será el Director de Ganadería del Estado o la autoridad estatal competente quien lo hará. Sin la constancia de registro contenida en la factura se presumirá que ésta no es auténtica, debiendo consignarse los hechos al Ministerio Público para el inicio de la Investigación Ministerial correspondiente. El antecedente de propiedad podrá conservarlo el propietario o la Asociación Ganadera Local.
 
-Cuando el antecedente de propiedad ampare más de un animal, la autoridad municipal tendrá obligación de asentar constancia en este documento y en el libro de registro del número de animales que dejen de ampararse en el documento de referencia; cuando se trate de la totalidad de los animales, a dicho documento deberá agregarse la palabra “AGOTADO”, pudiendo conservarlo el propietario con una copia de la guía de tránsito y certificado zoosanitario para efectos de comprobación legal y sanitaria. Esta omisión se equipara al delito de incumplimiento de un deber legal, debiendo aplicarse lo dispuesto en el Código Penal.
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO IX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Cuando el antecedente de propiedad ampare más de un animal, la autoridad municipal tendrá obligación de asentar constancia en este documento y en el libro de registro del número de animales que dejen de ampararse en el documento de referencia; cuando se trate de la totalidad de los animales, a dicho documento deberá agregarse la palabra “AGOTADO”, pudiendo conservarlo el propietario con una copia de LA GUÍA DE TRÁNSITO Y certificado zoosanitario para efectos de comprobación legal y sanitaria. Esta omisión se equipara al delito de incumplimiento de un deber legal, debiendo aplicarse lo dispuesto en el Código Penal.
 
 > <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
 
@@ -235,7 +357,9 @@ Cuando el antecedente de propiedad ampare más de un animal, la autoridad munici
 
 La propiedad de las pieles se acredita, con:
 
-I.- La factura debidamente legalizada y la guía de tránsito correspondiente.
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO IX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I.- La factura debidamente legalizada Y LA GUÍA DE TRÁNSITO CORRESPONDIENTE.
 
 II.- Las provenientes de otros Estados, con la documentación exigida por las leyes del lugar de procedencia.
 
@@ -269,31 +393,37 @@ Cuando el criador utilice alguna marca de fuego, además del fierro, éste deber
 
 La Dirección General de Ganadería autorizará una gráfica para el señalamiento del ganado, que figurará como apéndice de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2020)</small>
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO IX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2021)</small>
+
+Es obligación de los Inspectores de Ganadería, los Supervisores de Zona, y los oficiales estatales asignados como inspectores y supervisores en Puntos de VERIFICACIÓN E inspección fijos o móviles, vigilar el cumplimiento de lo dispuesto en el presente Capítulo, para efectos de comprobación legal y sanitaria.
 
 ###### ARTICULO 34.
 
-La infracción a lo dispuesto en el artículo anterior será sancionada con multa hasta de quince Unidades de Medida y Actualización por cada animal por la autoridad municipal correspondiente, con la intervención de la Dirección General de Ganadería. Dicha cantidad ingresará al erario municipal.
-
-Es obligación de los Inspectores de Ganadería vigilar el cumplimiento de lo dispuesto en este Capítulo.
+(DEROGADO, G.O. 31 DE MARZO DE 2021)
 
 ###### ARTICULO 35.
 
 Cuando la persona deje la actividad ganadera o bien no use el fierro, marca, señal, tatuaje o arete que tenga registrada, por estar utilizando otro, promoverá la cancelación del registro de aquél, dentro del término de un mes, contado a partir de la fecha en que deje de hacer uso del mismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2020)</small>
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2021)</small>
+
+En caso de incumplimiento además de la infracción correspondiente, las Asociaciones Ganaderas, así como la Dirección, procederán a fijar avisos comunicando a los productores pecuarios, que el fierro, marca, señal, tatuaje o arete de que se trata, se cancelará.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2021)</small>
+
+En caso de no haber oposición en un término de veinte días naturales, contados a partir de la fecha de la fijación de los avisos respectivos, la Dirección declarará cancelado el fierro, marca, señal, tatuaje o arete y lo publicitará a través de las asociaciones ganaderas. Cualquier persona que se interese, podrá pedir el derecho de usarlo en los términos de los artículos 27, 28, 30, 31, 32 y 33 de la presente Ley.
 
 ###### ARTICULO 36.
 
-El incumplimiento a lo dispuesto en el artículo anterior, se sancionará con multa hasta de cinco Unidades de Medida y Actualización y la autoridad municipal procederá a fijar avisos comunicando a quien se interese, que el fierro, marca, señal, tatuaje o arete de que se trata, se cancelará en caso de que no haya oposición en un término de veinte días contados a partir de la fecha de la fijación de los avisos respectivos.
+(DEROGADO, G.O. 31 DE MARZO DE 2021)
 
-Vencido el plazo anterior y si no hubiere oposición, se declarará cancelado el fierro, marca, señal, tatuaje o arete y cualquiera persona que se interese, podrá pedir el derecho de usarlo en los términos de los artículos 27 y 28 de la presente Ley.
-
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 37.
 
-El uso de marcas no registradas será sancionado por la autoridad municipal con multa hasta de cinco Unidades de Medida y Actualización, debiendo el interesado promover desde luego, el registro correspondiente.
+El uso de marcas no registradas será sancionado por los inspectores locales o supervisores de zona, asignados por la Dirección, conforme al apartado de infracciones de la presente Ley, con independencia de que el interesado promueva el registro correspondiente.
 
 ###### ARTICULO 38.
 
@@ -303,11 +433,11 @@ La Dirección General de Ganadería llevará un registro general de fierros, mar
 
 El Estado y cada uno de los Municipios en materia de propiedad, marcas y señales de ganado, se sujetarán a las disposiciones de esta Ley.
 
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 40.
 
-Queda prohibido herrar con plancha llana, alambre, gancho, argolla o fierro corrido, así como la amputación de las orejas en que se corte más de la mitad. Quien contravenga esta disposición será sancionado por la autoridad municipal con multa hasta de diez Unidades de Medida y Actualización, cuyo importe se repartirá equitativamente entre el Municipio y el Estado. La autoridad municipal consignará el caso a las autoridades competentes, cuando el hecho en sí constituya delito.
+Queda prohibido herrar con plancha llana, alambre, gancho, argolla o fierro corrido, así como la amputación de las orejas en que se corte más de la mitad. Quien contravenga esta disposición será sancionado con la infracción correspondiente en el apartado de infracciones, por los inspectores locales y supervisores de zona, quienes deberán informar el caso a las autoridades competentes, cuando del hecho se presuma un delito.
 
 > <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
 
@@ -413,23 +543,51 @@ I.- En el ganado que se encuentre en el campo o estabulado;
 
 II.- En el ganado en tránsito;
 
-III.- En el que va a sacrificarse; y
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2021)</small>
 
-IV.- En los establecimientos donde se beneficie, se industrialice o se vendan sus productos.
+III. En el lugar en que va a sacrificarse el ganado;
+
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2021)</small>
+
+IV. En los establecimientos donde se beneficie, se industrialice o se vendan sus productos, subproductos; y
+
+> <small>(ADICIONADA, G.O. 31 DE MARZO DE 2021)</small>
+
+V. En los sitios requeridos para el cumplimiento de la presente Ley.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 63.
 
-La Dirección General de Ganadería, escuchando la opinión de las Uniones Ganaderas Regionales del Estado, dividirá el territorio veracruzano en zonas de inspección ganadera.
+La Dirección, escuchando las necesidades de los Productores, las Asociaciones Ganaderas o las Uniones Ganaderas Regionales del Estado, elaborará un dictamen de justificación el cual presentará y autorizará la Subsecretaría, la que en su caso, dividirá el territorio veracruzano en zonas de inspección ganadera; éstas tendrán como objetivo vigilar el cumplimiento legal (pago de impuestos y la comprobación de propiedad o posesión) y sanitario de la movilidad animal, así como de los productos, subproductos de los mismos y tendrán las siguientes características:
+
+Se establecerán Puntos de Verificación Estatal (PVE), mismos que tendrán como objetivo salvaguardar el cumplimiento de la presente Ley, a través de personal debidamente autorizado por la Secretaría; así como de apoyar a las autoridades competentes, en caso de que éstas, al realizar operativos de cumplimiento legal, realicen detenciones de ganado por presunción de delito de abigeato, apoye a su correcto resguardo y este se realice en corrales acordes a la zona zoosanitaria correspondiente, de conformidad a las normas sanitarias aplicables, evitando se violente el estatus zoosanitario del municipio en el que ocurra la detención.
+
+En el caso de las acciones para la vigilancia del cumplimiento de las medidas zoosanitarias que en materia de movilización de mercancías reguladas que establece la Ley Federal de Sanidad Animal, se solicitarán y operarán las zonas de inspección ganadera, de conformidad a la normativa que las regule y autorizadas por la autoridad competente, de acuerdo a las características y necesidades del Estado en materia de sanidad.
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+EN ZONAS DE INSPECCIÓN GANADERA SOLICITARÁN, EL DICTAMEN TÉCNICO DE JUSTIFICACIÓN, DONDE COMO MÍNIMO DEBERÁ CONTENER EL TIPO DE VERIFICACIÓN QUE SE REALIZARÁ, LA NECESIDAD QUE SE CUBRE, EL IMPACTO DE SU IMPLEMENTACIÓN Y EL ALCANCE EN EL ESTADO. ESTE DICTAMEN SE REALIZARÁ CON INDEPENDENCIA DE LOS REQUERIMIENTOS QUE PARA TAL EFECTO SOLICITEN LAS DEMÁS AUTORIDADES COMPETENTES EN CASO DE ASÍ REQUERIRSE.
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+EL DICTAMEN TÉCNICO DE JUSTIFICACIÓN, LO ELABORARÁ LA DIRECCIÓN Y DEBERÁ CONTAR CON EVIDENCIA DOCUMENTADA DEL VISTO BUENO DE LA SUBSECRETARÍA, Y LA AUTORIZACIÓN DE LA SECRETARÍA. POR LO CUAL LOS PUNTOS DE VERIFICACIÓN ESTATAL, COMO LAS ZONAS DE VERIFICACIÓN GANADERA EN MATERIA DE SANIDAD SERÁN OPERADOS POR PROFESIONISTAS QUE ACREDITEN CUMPLIR CON LOS REQUISITOS NORMATIVOS PARA CADA FIN ESPECÍFICO Y SU CONTRATACIÓN OBEDECERÁ A LAS NECESIDADES DEL PROGRAMA, POR LO QUE EN CASO DE INCUMPLIMIENTO PODRÁ SER RESCINDIDO DE SU ACTIVIDAD.
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+ES OBLIGACIÓN DE LOS CONDUCTORES DE VEHÍCULOS DE CARGA, PASAJEROS, TURISMO O PRIVADO QUE TRANSPORTEN MERCANCÍAS REGULADAS EN MATERIA DE SANIDAD Y POR LA PRESENTE LEY, DETENERSE EN LAS ZONAS DE INSPECCIÓN GANADERA QUE ESTABLECE EL PRESENTE ARTÍCULO, Y DAR LAS FACILIDADES PARA LA VERIFICACIÓN DEL GANADO, PRODUCTO O SUBPRODUCTO; ASÍ COMO OBEDECER LOS SEÑALAMIENTOS E INDICACIONES QUE EL PERSONAL DE INSPECCIÓN LE COMUNIQUE CON MOTIVO DE LA VERIFICACIÓN.
 
 ###### ARTICULO 64.
 
 La inspección a que se refiere este Capítulo, será realizada por Supervisores de Zona y por Inspectores Locales.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO IX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 65.
 
-Los Supervisores de Zona y los Inspectores Locales serán designados por el Secretario de Desarrollo Agropecuario y Pesquero del Estado a proposición del Director General de Ganadería, tendrán el carácter de empleados de confianza y gozarán de los emolumentos que para el efecto fije el Presupuesto de Egresos en vigor. Deberán nombrarse personas conocedoras del ramo, de reconocida honorabilidad y suficiente experiencia.
+Los Supervisores de Zona, Inspectores Locales o Médicos Veterinarios Zootecnistas Regionales, que realicen actividades en cumplimiento de la presente Ley, ASÍ COMO LOS OFICIALES ESTATALES QUE OPEREN PUNTOS DE VERIFICACIÓN EN MATERIA DE SANIDAD, serán designados por el Secretario de Desarrollo Agropecuario y Pesquero del Estado a propuesta de la Subsecretaría, cumpliendo con los requisitos que la normativa vigente indique; ASÍ COMO ACREDITAR PARA EL CASO DE LOS PUNTOS DE VERIFICACIÓN EN MATERIA DE SANIDAD LA CERTIFICACIÓN ESTABLECIDA POR LA AUTORIDAD COMPETENTE.
 
 ###### ARTICULO 66.
 
@@ -449,13 +607,19 @@ VI.- Recabar cuantos datos fueren necesarios, respecto de los actos indebidos qu
 
 VII.- Coadyuvar en la aplicación de las medidas sanitarias y de control de plagas que dicte la Dirección General de Ganadería;
 
-VIII.- Cuando tenga conocimiento de que se ha cometido el delito de abigeato, deberá denunciar el hecho al Ministerio Público, y aportar las pruebas indispensables para la comprobación del cuerpo de dicho delito y de la responsabilidad de la persona señalada. Igualmente deberá conocer los sistemas de vigilancia implantados en cada uno de sus Municipios para prevenir ese delito e inquirir los casos de tolerancia, negligencia o complicidad de las autoridades en la comisión del mismo, dando cuenta de todo ello a la superioridad;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2021)</small>
+
+VIII. Cuando tenga conocimiento de hechos de los cuales se presuma la comisión del delito de abigeato, deberá denunciar los hechos a la Fiscalía General del Estado, y aportar los datos de prueba indispensables, con el fin de acreditar los hechos constitutivos de delito y la posible responsabilidad de la o las personas señaladas. Igualmente deberá conocer los sistemas de vigilancia implantados en cada uno de los municipios de su competencia, con el fin de prevenir y desincentivar la comisión del delito de abigeato, e inquirir en los casos de tolerancia, negligencia o complicidad de las autoridades en la comisión del mismo, dando cuenta de todo ello a la superioridad;
 
 IX.- Extender los certificados de inspección de ganado o cueros, haciendo constar si satisfacen los requisitos que señala esta Ley;
 
 X.- Dar aviso a las autoridades de la existencia de animales mostrencos y concurrir a la venta de los mismos; y
 
 XI.- Llevar un registro de las firmas de los propietarios de ganado, de los industriales, de los comerciantes en cueros, de las personas autorizadas por las Asociaciones Ganaderas, y de sus representantes, para identificar llegado el caso, las que aparezcan en las facturas que se extiendan.
+
+> <small>(ADICIONADA, G.O. 31 DE MARZO DE 2021)</small>
+
+XII. Las demás que establezcan esta Ley y la normatividad aplicable.
 
 ###### ARTICULO 67.
 
@@ -481,7 +645,9 @@ VII.- Recoger los animales mostrencos, dejándolos a disposición de las autorid
 
 VIII.- Dar aviso inmediato a la superioridad, de la aparición de epizootias, plagas en los ganados y otras enfermedades;
 
-IX.- Practicar las investigaciones preliminares en los casos de abigeato de que tengan conocimiento, comunicándolo a las autoridades superiores;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2021)</small>
+
+IX.- Cuando derivado de una verificación se presuma la comisión del delito de abigeato, de conformidad con el artículo 72 de la presente Ley, deberá presentar denuncia de los hechos a la Fiscalía General del Estado, y aportará los datos de prueba indispensables, con el fin de acreditar los hechos constitutivos de delito y la posible responsabilidad de la o las personas señaladas. Igualmente deberá conocer los sistemas de vigilancia implantados en cada uno de los municipios de su competencia para prevenir dicho delito e inquirir en los casos de tolerancia, negligencia o complicidad de las autoridades en la comisión de dicho delito, dando cuenta de todo ello a la superioridad;
 
 X.- Vigilar el exacto cumplimiento de la presente Ley, dando cuenta inmediata de todas las infracciones que se cometan; y
 
@@ -493,75 +659,127 @@ Los Supervisores e Inspectores de Ganadería serán considerados como agentes au
 
 ### CAPITULO OCTAVO. VIGILANCIA Y MOVILIZACION DEL GANADO
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE MAYO DE 2018)</small>
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 70.
 
-Toda conducción de ganado deberá ampararse con el documento denominado "Guía de Tránsito" que será expedida por la Asociación Ganadera Local respectiva, con autorización del presidente municipal, debiendo dicho documento ir acompañado de los recibos de pago de impuestos cuando éstos deban causarse y cuando así se requiera, se acompañarán de certificado de garrapata, certificado zoosanitario y factura electrónica que legitime la operación de compraventa cuando de ello se trate. En los casos de partidas de ganado que se transporten en varios vehículos, cada uno de ellos deberá ir provisto de la referida documentación, excepción hecha de la factura, que podrá amparar a todos, debiendo presentarse para su revisión en la caseta respectiva por quien conduzca el primer vehículo. Todas las Guías de Tránsito deberán ser autorizadas por la Secretaría de Desarrollo Agropecuario, Rural y Pesca, la que determinará el formato y programa electrónico autorizado para su expedición; las Guías de Tránsito emitidas por el programa electrónico son de carácter regulatorio en materia de trazabilidad y sanidad animal.
+TODA CONDUCCIÓN DE GANADO DEBERÁ AMPARARSE CON EL DOCUMENTO DENOMINADO "GUÍA DE TRÁNSITO" QUE SERÁ EXPEDIDO POR LA ASOCIACIÓN GANADERA LOCAL RESPECTIVA, CON AUTORIZACIÓN DEL PRESIDENTE MUNICIPAL, DEBIENDO DICHO DOCUMENTO IR ACOMPAÑADO DE LOS RECIBOS DE PAGO DE IMPUESTOS, CUANDO ÉSTOS SE CAUSEN, ADEMÁS SE ACOMPAÑARÁN DE UN CERTIFICADO ZOOSANITARIO Y FACTURA ELECTRÓNICA QUE LEGITIME LA OPERACIÓN DE COMPRAVENTA CUANDO DE ELLO SE TRATE. EN LOS CASOS DE PARTIDAS DE GANADO QUE SE TRANSPORTEN EN VARIOS VEHÍCULOS, CADA UNO DE ELLOS DEBERÁ IR PROVISTO DE LA REFERIDA DOCUMENTACIÓN, CON EXCEPCIÓN DE LA FACTURA, QUE PODRÁ AMPARAR A TODOS, DEBIENDO PRESENTARSE PARA SU REVISIÓN EN LA CASETA RESPECTIVA, POR QUIEN CONDUZCA EL PRIMER VEHÍCULO. TODAS LAS GUÍAS DE TRÁNSITO DEBERÁN SER AUTORIZADAS POR LA SECRETARÍA DE DESARROLLO AGROPECUARIO, RURAL Y PESCA, Y SE EXPEDIRÁN A TRAVÉS DEL PROGRAMA GUÍA ELECTRÓNICA VERACRUZANA (GEVER) AUTORIZADA PARA SU EXPEDICIÓN; LAS GUÍAS DE TRÁNSITO EMITIDAS POR EL PROGRAMA ELECTRÓNICO SON DE CARÁCTER REGULATORIO EN MATERIA DE TRAZABILIDAD Y SANIDAD ANIMAL.
 
-> <small>(REFORMADO, G.O. 28 DE MAYO DE 2018)</small>
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Cuando para una movilización se requiera la expedición de un certificado zoosanitario o de garrapata, éstos serán elaborados por médicos veterinarios zootecnistas acreditados por la autoridad responsable en materia de sanidad animal de acuerdo con lo estipulado en la Ley Federal de Sanidad Animal y su Reglamento, así como las normas oficiales mexicanas en la materia.
+EN CASO, DE EXISTIR ALGÚN INCONVENIENTE DERIVADO DE LA AUTORIZACIÓN DEL MUNICIPIO, SERÁ LA SUBSECRETARÍA LA ENCARGADA DE DAR SOLUCIÓN AL MISMO.
 
-> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2012)</small>
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-En casos urgentes, como epidemias e inundaciones en los que no dé tiempo para acudir a las oficinas de la Asociación Ganadera Local para la expedición de la Guía de Tránsito, los arreos de un potrero a otro podrán efectuarse comprobando la propiedad con la patente del criador o con la factura que acredite la propiedad y el arete del Sistema Nacional de Identificación Individual del Ganado (SINIIGA).
+CUANDO PARA UNA MOVILIZACIÓN SE REQUIERA LA EXPEDICIÓN DE UN CERTIFICADO ZOOSANITARIO O DE GARRAPATA, ÉSTOS SERÁN ELABORADOS POR MÉDICOS VETERINARIOS ZOOTECNISTAS ACREDITADOS POR LA AUTORIDAD RESPONSABLE EN MATERIA DE SANIDAD ANIMAL DE ACUERDO CON LO ESTIPULADO EN LA LEY FEDERAL DE SANIDAD ANIMAL Y SU REGLAMENTO, ASÍ COMO LAS NORMAS OFICIALES MEXICANAS EN LA MATERIA.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE MAYO DE 2018)</small>
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+EL GOBIERNO DEL ESTADO DE VERACRUZ, COMO AGENTE INVOLUCRADO EN LA SANIDAD ANIMAL DE LAS MERCANCÍAS PECUARIAS, ACUÍCOLAS Y PESQUERAS, SUJETAS A REGULACIÓN, DETERMINARÁ EL INSTRUMENTO DE IDENTIFICACIÓN PARA TRAZABILIDAD Y RASTREABILIDAD DE MOVILIDAD ANIMAL, QUE UTILIZARAN LOS PRODUCTORES DEL ESTADO, MISMO QUE DEBERÁ CUMPLIR CON LAS NECESIDADES DE INFORMACIÓN TRAZABLE PARA RASTREABILIDAD ESTABLECIDA POR LA AUTORIDAD COMPETENTE.
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+EN CASOS URGENTES, COMO EPIDEMIAS E INUNDACIONES EN LOS QUE NO DÉ TIEMPO PARA ACUDIR A LAS OFICINAS DE LA ASOCIACIÓN GANADERA LOCAL PARA LA EXPEDICIÓN DE LA GUÍA DE TRÁNSITO, LOS ARREOS DE UN POTRERO A OTRO PODRÁN EFECTUARSE COMPROBANDO LA PROPIEDAD CON LA PATENTE DEL CRIADOR O CON LA FACTURA QUE ACREDITE LA PROPIEDAD Y EL INSTRUMENTO DE IDENTIFICACIÓN PARA TRAZABILIDAD Y RASTREABILIDAD DE MOVILIDAD ANIMAL AUTORIZADO POR EL ESTADO.
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+LOS CONDUCTORES DE VEHÍCULOS DE CARGA, PASAJEROS, TURISMO O PRIVADO QUE TRANSPORTEN MERCANCÍAS REGULADAS POR LA PRESENTE LEY, DEBERÁN ASEGURARSE DE QUE EL CARGAMENTO CUENTE CON EL CERTIFICADO ZOOSANITARIO QUE AVALE LA MOVILIZACIÓN CORRESPONDIENTE.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 71.
 
-Las Guías de Tránsito tendrán una vigencia de cinco días hábiles; estarán numeradas progresivamente y serán proporcionadas por la Dirección General de Ganadería a las uniones ganaderas regionales respectivas para que éstas a su vez, las distribuyan entre las Asociaciones Ganaderas afiliadas; en el caso de las Asociaciones Ganaderas no afiliadas, la propia dirección se las proveerá. Se expedirán por sextuplicado: un tanto para el interesado, otro para la Dirección General de Ganadería y otro para la Unión Ganadera Regional, mismos que remitirá la asociación correspondiente durante los primeros cinco días del mes siguiente; otro tanto para la autoridad municipal, uno para la Oficina de Hacienda del Estado y el último para el archivo de la asociación.
+Las GEVER tendrán una vigencia de cinco días hábiles; estarán numeradas progresivamente, se expedirán por sextuplicado: un tanto para el interesado, otro para la Dirección, otro para el Municipio, uno para la Unión Ganadera Regional, uno a la asociación ganadera local correspondiente (este tanto será entregado a través de la Unión Ganadera Regional, durante los primeros cinco días del mes siguiente) y uno para la Oficina de Hacienda del Estado.
 
-> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2012)</small>
+Tal documento deberá llevar dibujados todos los fierros, marcas, tatuajes y señales que ostenten los animales que se transporten, protegidos con algún material que impida una posible alteración de los mismos, señalando con letra el total de los fierros, marcas, tatuajes, instrumentos de identificación de trazabilidad y rastreabilidad de movilidad animal autorizados por el Estado y señales.
 
-Tal documento deberá llevar dibujados todos los fierros, marcas, tatuajes y señales que ostenten los animales que se transporten, protegidos con algún material que impida una posible alteración de los mismos, señalando con letra el total de los fierros, marcas, tatuajes, número de arete del Sistema Nacional de Identificación Individual del Ganado (SINIIGA) y señales.
+La GEVER se gravará con un derecho de acuerdo con la tarifa respectiva, el precio de la GEVER se regula de manera colegiada en el Comité de Origen y Trazabilidad (COT), y el precio se establecerá por ejercicio fiscal, no deberá exceder los parámetros que rigen en los Estados circunvecinos para garantizar a los usuarios un pago justo, no gravoso por este concepto. Este cobro se realizará a través de la OVH, por el pago de este derecho no se pagará el impuesto adicional para el fomento de la educación.
 
-> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2012)</small>
+Para tramitar la GEVER, las asociaciones ganaderas deberán cumplir con el requisito de domicilio establecido o el aviso oportuno de cambio del mismo, además se deberá presentar la resolución de la asamblea general ordinaria del año inmediato anterior, emitida por el Registro Nacional Agropecuario de la Secretaría de Agricultura y Desarrollo Rural, así como estar al corriente con la documentación requerida por la Dirección, por la Ley de Organizaciones Ganaderas y su Reglamento, de lo contrario, serán sancionadas restringiendo su acceso al programa electrónico que determine la autoridad para tal efecto, así como a la papelería oficial que emite la Secretaría de Desarrollo Agropecuario, Rural y Pesca para la expedición de Guías de Tránsito.
 
-Las Guías de Tránsito se gravarán con un derecho de acuerdo con la tarifa respectiva, prevista en el Código Hacendario Municipal correspondiente. Este cobro lo realizará directamente la Secretaría de Finanzas y Planeación del Estado e ingresará al Fondo para el Desarrollo Municipal.
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, G.O. 28 DE MAYO DE 2018)</small>
-
-Para tramitar Guías de Tránsito, las asociaciones ganaderas deberán cumplir con el requisito de domicilio establecido o el aviso oportuno de cambio del mismo, además se deberá presentar la resolución de la asamblea general ordinaria del año inmediato anterior, emitida por el Registro Nacional Agropecuario de la Secretaría de Agricultura, Ganadería, Desarrollo, Rural, Pesca y Alimentación, así como estar al corriente con la documentación requerida por la Dirección General de Ganadería y por la Ley de Organizaciones Ganaderas y su Reglamento, de lo contrario, serán sancionadas restringiendo su acceso al programa electrónico que determine la autoridad para tal efecto, así como a la papelería oficial que emite la Secretaría de Desarrollo Agropecuario, Rural y Pesca para la expedición de Guías de Tránsito.
-
-> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 72.
 
-El ganado que transite sin estar amparado con la documentación que señala el artículo 70 de esta Ley será detenido por las autoridades competentes con la intervención de las Asociaciones Ganaderas respectivas; a efecto de las investigaciones, se le concederá al conductor o propietario un término de cuarenta y ocho horas para acreditar la propiedad, posesión o gestionar la guía de tránsito correspondiente, de no cumplir esta disposición, se turnará el hecho al Ministerio Público, para el ejercicio de sus funciones.
+El ganado que transite sin estar amparado con la documentación que señala el artículo 70 de esta Ley, será detenido en las zonas de inspección ganadera establecidas de conformidad con la presente Ley, por las autoridades competentes autorizadas por la Secretaría, y se apoyará con las asociaciones ganaderas locales, para el resguardo de la carga en corrales adecuados y al estatus sanitario de la misma.
 
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+En caso de que, como resultado de la verificación física del embarque, se observara omisión de la documentación, de carácter no gravoso, ésta será considerada como una omisión administrativa, por lo que se le concederá al conductor o propietario, un término de cuarenta y ocho horas para acreditar la propiedad, posesión o gestionar el trámite correspondiente, de no cumplir esta disposición, se harán de conocimientos (sic) los hechos probables constitutivos de delito a la Fiscalía General del Estado, para el ejercicio de sus funciones.
+
+Será considera falta grave que el conductor que transite ganado, no cuente con la documentación que señala el presente artículo o al momento de la revisión física presente las irregularidades siguientes:
+
+I. No presente la guía de tránsito y la factura en original;
+
+II. La guía de tránsito no presente los sellos o las firmas a que haya lugar o presente alteraciones, tachaduras o enmendaduras (sello de la Asociación Ganadera local, nombre y firma del presidente de la Asociación Ganadera Local, nombre y firma del solicitante, nombre y firma del presidente municipal o responsable del H. Ayuntamiento);
+
+III. Los datos del vehículo, o del conductor, no coincidan con la persona que transite con la mercancía. (tipo de vehículo, marca, modelo, capacidad, color, placas. En caso de remolque tarjeta de circulación, nombre completo del conductor, licencia de conducir e identificación oficial), y
+
+IV. La información del ganado no coincida con la que se está transportando (verificación física de aretes y fierro).
+
+En su caso, el personal autorizado por la Secretaría, para operar los puntos de verificación estatal, hará de (sic) conocimiento los hechos a la Fiscalía General del Estado, por presunción de hechos que constituyen el delito de abigeato; el conductor o propietario del embarque quedará a disposición de las autoridades competentes, a efecto de que se realicen las investigaciones correspondientes, y se procederá al resguardo de la carga de conformidad a las normas sanitarias vigentes.
+
+Las acciones de supervisión a embarques de ganado para verificar la movilización, podrán realizarse por las autoridades competentes, con independencia de las que realiza el personal de la Secretaría en los Puntos de Verificación Estatal; si durante el ejercicio de sus funciones determinaran un incumplimiento legal, que presuma la comisión del delito de abigeato, deberán apoyarse con la asociación ganadera más cercana al hecho, o con las autoridades Estatales en materia pecuaria, como puede ser el personal asignado como inspector local, supervisor de zona, médico veterinario regional en el Punto de Verificación Estatal, más cercano al hecho, o la Dirección, para el correcto resguardo del ganado en tránsito, cumpliendo con normas sanitarias respectivas.
+
+La inspección realizada a los embarques de ganado y su cumplimiento documental quedará asentada al reverso de la guía de tránsito lo siguientes (sic): lugar de revisión, fecha y hora, nombre y firma del oficial, así como el número correspondiente de cada cuerpo de seguridad actuante.
+
+El ganado detenido por presunción de delito de abigeato cuyo dueño no aparezca o en su caso, no acredite la propiedad, concluidas las investigaciones por la autoridad competente, conforme a los tiempos y procedimientos legales correspondientes, la propiedad se adjudicará al Estado a través de la Secretaría.
+
+El ganado adjudicado a la Secretaría, deberá ser revisado por el médico veterinario zootecnista regional o por quien para tal efecto designe la Dirección, quien verificará el estado de salud del animal y elaborará un dictamen y en caso de portar enfermedades procederá a enviarlo a sacrificio a un rastro tipo TIF o municipal según corresponda. Si se trata de animales en perfecto estado de salud se estará a lo dispuesto en las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 73.
 
-En el caso del artículo anterior, si el conductor de ganado comprobara posteriormente la legítima procedencia de los animales, podrá continuar su ruta una vez que se provea de la documentación necesaria y previo pago de una multa al Ayuntamiento respectivo hasta de cinco Unidades de Medida y Actualización por la falta de presentación oportuna de dichos documentos, sin perjuicio de las responsabilidades fiscales por la omisión en el pago de los impuestos estatales y municipales.
+El conductor que cometa una falta administrativa de las establecidas en el artículo 72, primer párrafo, y corrija la omisión administrativa dentro del término de 48 horas y corrobore la legítima procedencia de los animales, con la documentación necesaria, podrá continuar su ruta previo pago de la infracción establecida en el artículo 131 de la presente Ley.
 
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO IX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 74.
 
-Queda estrictamente prohibido transitar con ganado en la noche, sin autorización expresa y por escrito del Inspector Local o de la autoridad municipal; con excepción de ganado bovino o equino que haya participado o vaya a participar en alguna competencia o deporte, siempre y cuando lo demuestre fehacientemente con la documentación correspondiente. La autorización deberá constar en la Guía de Tránsito. La infracción a este precepto se sancionará con multa de hasta cincuenta Unidades de Medida y Actualización, que ingresará al erario del Municipio en donde se compruebe la infracción, debiendo imponerla el Supervisor o el Inspector Local, y a falta de ellos la autoridad municipal.
+Queda estrictamente prohibido transitar con ganado en la noche sin autorización expresa y por escrito del Inspector Local o de la autoridad municipal; con excepción de ganado que haya participado o vaya a participar en alguna competencia o deporte, o cuando la ruta de origen y destino lo justifique por la distancia que se recorrerá; siempre y cuando lo demuestre fehacientemente con la documentación correspondiente. LA AUTORIZACIÓN DEBERÁ CONSTAR EN LA GUÍA DE TRÁNSITO.
+
+En caso de incumplimiento, se procederá a levantar la infracción contemplada en el apartado de infracciones de la presente Ley, debiendo imponerla el Supervisor de zona, o el Inspector Local.
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO IX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 ###### ARTICULO 75.
 
-El tránsito de pieles deberá ampararse con la Guía de Tránsito en los mismos términos de los artículos anteriores.
+El tránsito de pieles deberá ampararse CON LA GUÍA DE TRÁNSITO en los mismos términos de los artículos anteriores.
 
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2021)</small>
+
+En caso de incumplimiento, se procederá a levantar la infracción establecida en el apartado de infracciones de la presente Ley, debiendo imponerla el Supervisor de zona, o el Inspector Local.
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 76.
 
-Quienes transporten ganado, cualquier producto o subproduccto del mismo, deberán informar mensualmente a la Presidencia Municipal del lugar de donde partan, sobre los movimientos habidos. Quien no cumpla esta disposición será sancionado con una multa hasta de cinco Unidades de Medida y Actualización, que ingresará al erario municipal y que podrá ser impuesta por la autoridad municipal o por la Dirección General de Ganadería.
+Quienes transporten ganado, cualquier producto o subproducto del mismo, deberán informar mensualmente a la Presidencia Municipal del lugar de donde partan y sobre los movimientos de tránsito realizados.
+
+En caso de incumplimiento, se procederá a levantar la infracción establecida en el apartado de infracciones de la presente Ley, debiendo imponerla el Supervisor de zona, o el Inspector Local.
 
 ###### ARTICULO 77.
 
 Queda estrictamente prohibida la movilización de ganado enfermo. Si al conducirse una partida de un lugar a otro, se enfermara alguno de los animales, toda la partida será detenida en el lugar más inmediato y puesta en observación, aislándose los animales enfermos. La reanudación de la marcha será permitida cuando las autoridades competentes así lo autoricen, con la intervención de la Asociación Ganadera.
 
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2021)</small>
+
+En caso de incumplimiento, se procederá a levantar la infracción establecida en el apartado de infracciones de la presente Ley, debiendo imponerla el Supervisor (sic) zona, o el Inspector Local o en su caso, el médico veterinario zootecnista regional.
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO IX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 > <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 78.
 
-Los propietarios de vehículos y las empresas de transporte, que embarquen cueros, pieles, carne o los demás productos o subproductos derivados de los animales, sin estar amparados en los documentos con que se comprueba la propiedad y las Guías Sanitarias y de Tránsito, serán sujetos al procedimiento que establece el artículo 72 de esta Ley.
+Los propietarios de vehículos y las empresas de transporte, que embarquen cueros, pieles, carne o los demás productos o subproductos derivados de los animales, sin estar amparados en los documentos con que se comprueba la propiedad y las Guías Sanitarias Y DE TRÁNSITO, serán sujetos al procedimiento que establece el artículo 72 de esta Ley.
 
 ###### ARTICULO 79.
 
@@ -579,21 +797,21 @@ Las vías pecuarias son de utilidad pública y su existencia implica para los pr
 
 Todo ganado en movilización podrá usar el agua que encuentre en su trayecto, ya sea ésta de corrientes naturales o retenida mediante cuaquier (sic) otro procedimiento artificial. Sólo en los casos en que el agua haya sido obtenida por medios artificiales y que sólo se tenga capacidad para el uso del ganado existente en el predio respectivo, el propietario de ésta y el movilizador del ganado tendrán los arreglos justos y equitativos al respecto.
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 83.
 
-Los dueños o encargados de ganado serán los responsables de vigilar los animales para impedir daños en predios ajenos y evitar el cruzamiento con el de los vecinos; debiendo entregar a las autoridades municipales, con aviso a la Asociación Ganadera respectiva, el ganado ajeno que aparezca en sus potreros.
+Los dueños o encargados de ganado serán los responsables de vigilar los animales para impedir daños en predios ajenos y evitar el cruzamiento con el de los vecinos; debiendo entregar a las autoridades municipales, con aviso a la Asociación Ganadera respectiva, y a la Dirección, el ganado ajeno que aparezca en sus potreros.
 
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 84.
 
-En el caso de la parte final del artículo anterior, la autoridad municipal requerirá al dueño o encargado de los animales para que los retire inmediatamente, sin perjuicio de exigirle que pague diariamente al poseedor del terreno una Unidad de Medida y Actualización por cada cabeza de ganado mayor o menor, desde el día en que se hubiere introducido. Si el dueño o encargado no atendiere esta orden después de diez días del aviso, los animales quedarán a disposición de la autoridad municipal y serán considerados como mostrencos, procediéndose a su venta en los términos de esta Ley, con objeto de cubrir el importe de los perjuicios que se hubieren causado.
-
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+En el caso de la parte final del artículo anterior, la Dirección requerirá al dueño o encargado de los animales para que los retire inmediatamente, sin perjuicio de exigirle que pague diariamente al poseedor del terreno cinco Unidades de Medida y Actualización por cada cabeza de ganado mayor o menor, desde el día en que se hubiere introducido. Si el dueño o encargado no atendiere esta orden después de diez días del aviso, los animales quedarán a disposición de la autoridad estatal y serán considerados como mostrencos, procediéndose a su venta en los términos de esta Ley, con objeto de cubrir el importe de los perjuicios que se hubieren causado.
 
 ###### ARTICULO 85.
 
-En caso de reincidencia se impondrá al infractor una multa hasta de diez Unidades de Medida y Actualización, que ingresará al fisco municipal.
+(DEROGADO, G.O. 31 DE MARZO DE 2021)
 
 ### CAPITULO NOVENO. ABASTO PUBLICO Y VENTA DE LOS PRODUCTOS ANIMALES
 
@@ -609,9 +827,11 @@ El funcionamiento de los rastros, rastros frigoríficos, mataderos, saladeros y 
 
 Tratándose de rastros municipales, será el Presidente Municipal quien designe el Administrador del mismo, quien cuidará de que se satisfagan los requisitos sanitarios y legales inherentes a estos establecimientos.
 
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO IX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 ###### ARTICULO 89.
 
-Los Administradores de los rastros serán personalmente responsables de la legalidad de los sacrificios que se efectúen en los establecimientos a su cargo, estando obligados a llevar un libro autorizado por la Presidencia Municipal de la localidad, autoridad que también deberá llevar otro libro igual, en el que por número de orden y fechas, anotará la entrada de los animales al rastro, el nombre del introductor, lugar de procedencia, especie, edad, clase, color, fierros y marcas de los animales, así como número y fecha de la Guía Sanitaria y de Tránsito y el nombre de quien la expidió; igualmente se anotarán los nombres del vendedor, del comprador, la fecha del sacrificio y el impuesto que se pagó.
+Los Administradores de los rastros serán personalmente responsables de la legalidad de los sacrificios que se efectúen en los establecimientos a su cargo, estando obligados a llevar un libro autorizado por la Presidencia Municipal de la localidad, autoridad que también deberá llevar otro libro igual, en el que por número de orden y fechas, anotará la entrada de los animales al rastro, el nombre del introductor, lugar de procedencia, especie, edad, clase, color, fierros y marcas de los animales, así como número y fecha de la Guía Sanitaria Y DE TRÁNSITO y el nombre de quien la expidió; igualmente se anotarán los nombres del vendedor, del comprador, la fecha del sacrificio y el impuesto que se pagó.
 
 Si por omisión, contravención o alteración de los requisitos anteriores se sacrificare ilegalmente algún animal o dejaren de pagarse los impuestos correspondientes, se presumirá que el Administrador o encargado del rastro y el empleado recaudador designado por el Ayuntamiento en su caso, son responsables solidariamente del delito cometido.
 
@@ -655,9 +875,13 @@ El Ejecutivo del Estado dictará las medidas adecuadas para la protección de la
 
 Se declara de interés público y por tanto obligatoria, la prevención y combate de las enfermedades transmisibles de los animales.
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 98.
 
-Para los efectos de esta Ley en materia de sanidad animal, el Ejecutivo Estatal a través de la Dirección General de Ganadería, designará médicos veterinarios zootecnistas regionales, cuyo nombramiento recaerá en profesionistas con título debidamente registrado, teniendo el carácter de empleados de confianza gozando de los emolumentos que fije para el efecto el Presupuesto de Egresos.
+Para los efectos de esta Ley en materia de sanidad animal, la Secretaría a través de la Dirección, designará médicos veterinarios zootecnistas regionales, cuyo nombramiento recaerá en profesionistas con título y cédula debidamente registrada, que deberán acreditar la experiencia en materia de sanidad y contar con la certificación que para tal efecto expide la autoridad competente.
+
+En caso de no cumplir con la actualización y la certificación en materia, así como de existir denuncias en su contra por presuntas faltas administrativas, por presuntos actos de corrupción su nombramiento será revocado.
 
 ###### ARTICULO 99.
 
@@ -667,7 +891,9 @@ Además de las funciones que en materia de sanidad animal tienen los médicos ve
 
 Se declara obligatoria para todos los habitantes del Estado, la denuncia de la aparición o existencia de cualquier enfermedad que ataque a las especies animales.
 
-La denuncia se hará al médico veterinario regional, al Supervisor o al Inspector de Ganadería más próximos, a la autoridad municipal, a la Unión Ganadera Regional, a la Asociación Ganadera que corresponda o al propio Ejecutivo del Estado.
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
+
+La denuncia se hará al médico veterinario zootecnista regional, al supervisor de zona, al inspector local de ganadería más próximo, a la Dirección, a la Unión Ganadera Regional, a la Asociación Ganadera local, que corresponda o a las instancias competentes del Poder Ejecutivo del Estado.
 
 La misma obligación tendrán las autoridades estatales y municipales.
 
@@ -675,13 +901,17 @@ La misma obligación tendrán las autoridades estatales y municipales.
 
 Sin perjuicio de la denuncia y aún antes de que las autoridades hayan intervenido, desde el momento que el propietario o encargado haya notado los síntomas de alguna enfermedad transmisible, deberá proceder al aislamiento del animal enfermo, separándolo de los sanos en cuanto sea posible.
 
-El mismo aislamiento se llevará a cabo con los animales muertos que se suponga de enfermedades transmisibles debiendo sus despojos ser enterrados o incinerados inmediatamente, dando aviso a las autoridades sanitarias.
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+El mismo aislamiento se llevará a cabo con los animales muertos que se suponga de enfermedades transmisibles debiendo sus despojos ser enterrados o incinerados inmediatamente por el propietario, dando aviso al médico veterinario zootecnista regional, al supervisor de zona o al inspector local de Ganadería, a la Unión Ganadera Regional, a la Asociación Ganadera local, que corresponda.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 102.
 
-Toda persona que venda, compre, regale, acepte, recoja o lleve a cabo cualquier operación o contrato con el despojo de algún animal muerto a causa de alguna enfermedad infecto-contagiosa, previo dictamen de un médico veterinario zootecnista, será sancionado por la autoridad municipal con multa hasta de cincuenta Unidades de Medida y Actualización, duplicándose la misma en caso de reincidencia.
+Toda persona que venda, compre, regale, acepte, recoja o lleve a cabo cualquier operación o contrato con el despojo de algún animal muerto a causa de alguna enfermedad infecto-contagiosa, previo dictamen de un médico veterinario zootecnista, será infraccionado conforme lo establece el apartado correspondiente de la presente Ley.
+
+La denuncia se hará al médico veterinario zootecnista regional, al supervisor de zona o al inspector local de Ganadería, a la Unión Ganadera Regional, a la Asociación Ganadera que corresponda o a las instancias competentes del Poder Ejecutivo del Estado.
 
 ###### ARTICULO 103.
 
@@ -713,9 +943,11 @@ Una vez que haya sido declarada una propiedad o región como infestada, los Insp
 
 Los propietarios colindantes, deberán impedir bajo la dirección del Inspector de Ganadería que animales de la propiedad infestada y de las que no lo estén, se aproximen a la línea divisoria que sobre el particular se establezca, determinándose en cada caso la distancia de dicha línea a que podrá llegar el ganado. Los gastos que demande esta operación, serán por cuenta de los respectivos propietarios.
 
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO IX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 ###### ARTICULO 106.
 
-Mientras se encuentre vigente la declaratoria de infección, no se expedirán Guías Sanitarias ni de Tránsito para la zona afectada.
+Mientras se encuentre vigente la declaratoria de infección, no se expedirán Guías Sanitarias NI DE TRÁNSITO para la zona afectada.
 
 ###### ARTICULO 107.
 
@@ -743,15 +975,17 @@ Es obligatorio por parte de los médicos veterinarios zootecnistas, tanto oficia
 
 El costo de vacunación y pruebas para prevenir o controlar las enfermedades, será por cuenta del propietario del ganado.
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 113.
 
-Se declara de utilidad pública e interés social y por tanto obligatoria, la campaña contra la garrapata en todo el territorio estatal, quedando sujeta a las disposiciones legales de la materia.
+Se declara de utilidad pública e interés social y por tanto obligatoria, dar cumplimiento a las campañas nacionales para la protección de la ganadería contra plagas y enfermedades que la afecten, atendiendo lo que normen las autoridades correspondientes en (sic) materia, la norma oficial mexicana vigente, así como la implementación de certificaciones en materia de sanidad animal que haya lugar.
 
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 114.
 
-A las personas que violen alguna de las disposiciones a que se refiere este capítulo, se les impondrá una sanción de quince días a seis meses de prisión y multa hasta de diez Unidades de Medida y Actualización. La reincidencia se sancionará con prisión de seis meses a dos años y multa hasta de veinte Unidades de Medida y Actualización; observándose en ambos casos las disposiciones contenidas en el Código Penal y en el Código de Procedimientos Penales para el Estado de Veracruz.
+Las personas que violen alguna de las disposiciones a que se refiere este capítulo en los artículos 100, 101, 102, 103, 105, 106, 108, 109, 110, 111 y 113 serán sujetas de las infracciones establecidas en el capítulo correspondiente de esta Ley, así como de quince días a seis meses de prisión. La reincidencia se sancionará con prisión de seis meses a dos años y la multa establecida en el apartado correspondiente de la presente Ley, observándose en ambos casos las disposiciones contenidas en el Código Penal para el Estado de Veracruz de Ignacio de la Llave y en el Código Adjetivo correspondiente.
 
 ### CAPITULO DECIMO PRIMERO. ORGANIZACIONES GANADERAS
 
@@ -855,21 +1089,145 @@ Se faculta al Poder Ejecutivo para organizar la creación y funcionamiento de la
 
 ### CAPITULO DECIMO TERCERO. PROCEDIMIENTO PARA LA APLICACION DE SANCIONES
 
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
+
 ###### ARTICULO 131.
 
-En los casos no especificados por esta Ley, las sanciones pecuniarias a que la misma se refiere, serán fijadas por las autoridades municipales correspondientes y su importe ingresará por mitad a las oficinas respectivas. Al imponer la sanción, la autoridad municipal dará inmediato aviso a la oficina fiscal del Estado y exigirá al sancionado la comprobación de haber hecho el pago total de la multa impuesta.
+LAS INFRACCIONES A LO DISPUESTO POR ESTA LEY SERÁN SANCIONADAS POR: INSPECTORES LOCALES, SUPERVISORES DE ZONA, MÉDICOS VETERINARIOS ZOOTECNISTAS REGIONALES AUTORIZADOS POR LA SECRETARÍA, A TRAVÉS DE LA SUBSECRETARÍA, O POR LA DIRECCIÓN, DE CONFORMIDAD CON LA PRESENTE LEY. EL COBRO DE LAS MISMAS SE REALIZARÁ POR LA OVH Y, A SOLICITUD DE LA SUBSECRETARÍA, LA RECAUDACIÓN CORRESPONDIENTE SERÁ UTILIZADA, EXCLUSIVAMENTE, PARA LA OPERACIÓN DE LAS ZONAS DE INSPECCIÓN GANADERA EN EL ESTADO, O PARA LO DISPUESTO EN EL ARTÍCULO 99 DE LA PRESENTE LEY, RELATIVO AL MEJORAMIENTO Y TECNIFICACIÓN DE LA GANADERÍA.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+Son Infracciones a la presente Ley:
+
+I. Incumplimiento a lo establecido en el artículo 5, será acreedor a una infracción de 5 hasta 20 UMAS;
+
+II. Incumplimiento en relación a lo establecido en el artículo 25, será acreedor a una infracción de 5 hasta 20 UMAS;
+
+III. Incumplimiento en relación a lo establecido en el artículo 33, será acreedor a una infracción de 5 hasta 20 UMAS;
+
+IV. Incumplimiento en relación a lo establecido en el artículo 35, será acreedor a una infracción de 5 hasta 20 UMAS;
+
+V. Incumplimiento en relación a lo establecido en el artículo 37, será acreedor a una infracción de 5 hasta 20 UMAS;
+
+VI. Incumplimiento en relación a lo establecido en el artículo 40, será acreedor a una infracción de 5 hasta 200 UMAS;
+
+VII. Incumplimiento en relación a lo establecido en los artículos 72, 73 y 78 será acreedor a una infracción de 20 hasta 500 UMAS;
+
+VIII. Incumplimiento en relación a lo establecido en el artículo 74, será acreedor a una infracción de 50 hasta 500 UMAS;
+
+IX. Incumplimiento en relación a lo establecido en el artículo 75, será acreedor a una infracción de 50 hasta 100 UMAS;
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+X. INCUMPLIMIENTO EN RELACIÓN A LO ESTABLECIDO EN EL ARTÍCULO 76, SERÁ ACREEDOR A UNA INFRACCIÓN DE 5 HASTA 10 UMAS;
+
+XI. Incumplimiento en relación a lo establecido en el artículo 77, será acreedor a una infracción de 30 hasta 200 UMAS;
+
+XII. En relación a lo establecido en los artículos 83 y 84, en caso de reincidencia será acreedor a una infracción de 5 hasta 10 UMAS;
+
+XIII. Incumplimiento en relación a lo establecido en el artículo 102, será acreedor a una infracción de 5 hasta 10 UMAS;
+
+XIV. A las personas que violen alguna de las disposiciones a que se refiere el Capítulo Décimo "SANIDAD ANIMAL" (artículos 96 al 113), se les impondrá una sanción de quince días a seis meses de prisión y una infracción entre 30 y 1,000 UMAS teniendo en consideración lo siguiente:
+
+a) En el caso del artículo 100 de 50 hasta 200 UMAS;
+
+b) En el caso del artículo 101 de 50 hasta 200 UMAS;
+
+c) En el caso del artículo 102 de 50 hasta 200 UMAS;
+
+d) En el caso del artículo 103 de 50 hasta de 200 UMAS;
+
+e) En el caso del artículo 105 de 50 hasta 100 UMAS;
+
+f) En el caso del artículo 106 de 200 hasta 500 UMAS, esta infracción se levantará a quién expida la guía sanitaria o de tránsito durante la declaratoria de infección;
+
+g) En el caso de los artículos 108 y 109 de 200 hasta 500 UMAS;
+
+h) En el caso del artículo 110 de 30 hasta 50 UMAS;
+
+i) En el caso del artículo 111 a los médicos veterinarios zootecnistas, tanto oficiales como particulares, que no expidan certificado de vacunación con las especificaciones que marca la Ley, serán acreedores a una infracción de 30 hasta 100 UMAS; y
+
+j) En el caso del artículo 113 de 30 hasta 300 UMAS;
+
+La reincidencia se sancionará con prisión de seis meses a dos años y una infracción de 500 hasta 1000 UMAS; observándose en ambos casos las disposiciones contenidas en el Código Penal para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave y el Código Adjetivo correspondiente.
+
+XV. Hacer parecer como nacido en el Estado al ganado proveniente de otra Entidad, será acreedor a una infracción de 50 hasta 200 UMAS;
+
+XVI. Comercializar leche para consumo humano que esté adulterada, sucia o contaminada, será acreedor a una infracción de 50 hasta 200 UMAS;
+
+XVII. Utilizar un instrumento de identificación para trazabilidad y rastreabilidad de movilidad animal, que no esté asignado a la Unidad de Producción Pecuaria (UPP), será acreedor a una infracción de 50 hasta 200 UMAS;
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+XVIII. EVADIR, NO DETENERSE O NEGARSE A RETORNAR A LAS ZONAS DE INSPECCIÓN GANADERA DEL ESTADO, SEAN PARA APLICACIÓN DE NORMAS ESTATALES O FEDERALES, SERÁ ACREEDOR A UNA INFRACCIÓN DE 50 HASTA 100 UMAS;
+
+XIX. No permitir que se realicen verificaciones e inspecciones por parte de las autoridades competentes, será acreedor a una infracción de 50 hasta 100 UMAS;
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+XX. EXPEDIR DOCUMENTACIÓN DE TRÁNSITO DE ANIMALES, CUYA PROPIEDAD ZOOSANITARIA NO ESTÉ DEBIDAMENTE ACREDITADA, SERÁ ACREEDOR A UNA INFRACCIÓN DE 90 HASTA 200 UMAS;
+
+XXI. No colaborar en las acciones y financiamiento de las campañas contra las enfermedades de animales, será acreedor a una infracción de 50 hasta 100 UMAS;
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XXII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+XXII. Asentar datos falsos EN LA GUÍA DE TRÁNSITO O para la obtención del instrumento de identificación para trazabilidad y rastreabilidad de movilidad animal autorizado por el Estado, de 50 hasta 100 UMAS;
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+XXIII. NO CANCELAR CON MATASELLOS LA GUÍA DE TRÁNSITO Y DEMÁS DOCUMENTACIÓN DE MOVILIZACIÓN, SERÁ ACREEDOR A UNA INFRACCIÓN DE 50 DE HASTA 100 UMAS, Y
+
+(NOTA: EL 14 DE AGOSTO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+XXIV. INTRODUCIR GANADO AL RASTRO POR UNA PERSONA DISTINTA A LA QUE APARECE EN LA GUÍA DE TRÁNSITO, SERÁ ACREEDOR A UNA INFRACCIÓN DE 100 HASTA 200 UMAS.
+
+En los casos no especificados por esta Ley, las sanciones pecuniarias a que la misma se refiere, serán fijadas por la normativa municipal correspondiente.
+
+La aplicación de las sanciones por las infracciones cometidas, se realizarán sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 132.
 
-Contra las sanciones impuestas, los interesados podrán hacer valer la reconsideración administrativa ante el Secretario de Desarrollo Agropecuario y Pesquero del Estado por conducto de la autoridad que haya impuesto la sanción y dentro del término de quince días contados a partir de su notificación. Para ello bastará que el interesado haga una sencilla exposición escrita, de las razones por las que en su concepto sea improcedente la sanción, acompañando, en su caso, las pruebas que estime pertinentes. Asimismo deberá garantizar previamente el importe de la sanción, mediante depósito por igual cantidad en la oficina de Hacienda del Estado o fianza de compañía autorizada.
+Se sancionará administrativamente a los servidores públicos, inspectores locales, supervisores de zona, médicos veterinarios zootecnistas regionales; personal que realice actividades en materia de sanidad en las zonas de inspección ganadera del Estado, en cualquiera de los siguientes supuestos:
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+I. Cuando omitan realizar las infracciones correspondientes a la presente Ley;
+
+II. Cuando de manera dolosa:
+
+a. Omitan o alteren los documentos o registros que integran la documentación que amparen toda conducción de ganado, con la finalidad de desvirtuar la veracidad de la información;
+
+b. Extorsionen o soliciten dádivas y sean denunciados por los afectados ante la Dirección, la Contraloría General del Estado o la Fiscalía General del Estado, de acuerdo a la naturaleza de la infracción; y
+
+c. Los organismos de cooperación en materia de sanidad animal, y control de movilización pecuaria, incumplan con las responsabilidades que legalmente tengan asignadas.
+
+III. Cuando por razón de la naturaleza de sus funciones tengan conocimiento de la alteración o falsedad de la documentación o de la información que tenga como consecuencia daños a la hacienda pública o al patrimonio del Estado y, estando dentro de sus atribuciones, no lo eviten o no lo hagan del conocimiento a su superior jerárquico o autoridad competente.
+
+Las sanciones administrativas a que se refiere este artículo se impondrán y exigirán con independencia de las responsabilidades de carácter penal o civil que, en su caso, lleguen a determinarse por las autoridades competentes. Se considerará como infracción grave, para efecto de la imposición de las sanciones administrativas correspondientes, cuando el servidor público incurra en cualquiera de los supuestos establecidos en las fracciones II y III del presente artículo, así como las reincidencias en las conductas señaladas en las demás fracciones.
+
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 133.
 
-Presentada la solicitud de reconsideración, la autoridad municipal la enviará desde luego con su informe sobre el particular, al Secretario de Desarrollo Agropecuario y Pesquero del Estado, quien resolverá sin ulterior tramitación y dentro del término de quince días.
+Contra las determinaciones y sanciones que impongan el personal autorizado de conformidad con esta Ley, podrá interponerse el recurso de revocación en un término de diez días hábiles siguientes al día en que se hubiera hecho la notificación del acto que se reclama y se contará en ellos el día del vencimiento. La interposición del recurso se hará por escrito ante la Subsecretaría por la parte que se considera agraviada, debidamente firmado por el quejoso, y deberá expresar como mínimo lo siguiente:
+
+I. La autoridad a quien se dirige;
+
+II. El nombre, firma o huella, así como domicilio del quejoso, y del tercero interesado si lo hubiere, así como el lugar que señale para efecto de notificaciones;
+
+III. El acto o determinación que se recurre y fecha en que se le notificó o tuvo conocimiento del mismo;
+
+IV. La mención de la autoridad que haya dictado la determinación, ordenado o ejecutado el acto;
+
+V. Los agravios que le causan;
+
+VI. Acompañar copia de la sanción o determinación que se impugna, y de la notificación correspondiente, o en su caso, señalar la fecha en que se ostente sabedor del acto, y
+
+VII. Las pruebas que ofrezca, que tengan relación inmediata y directa con el acto impugnado debiendo acompañar las documentales con que cuente, incluidas las que acrediten su personalidad cuando actúen en nombre de otro, las pruebas deberán desahogarse o desecharse en la audiencia de recepción de pruebas y alegatos.
+
+En caso de que el quejoso omitiere cumplir alguno de los requisitos a que se refieren las fracciones anteriores, la autoridad que conozca del recurso lo requerirá para que en un término de tres días hábiles subsane tales omisiones, en caso de no hacerlo se desechará por notoriamente improcedente.
+
+La Subsecretaría, resolverá en definitiva lo conducente en un término no mayor de diez días hábiles, y le notificará al quejoso directamente.
 
 TRANSITORIOS:
 
@@ -962,3 +1320,27 @@ SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códig
 TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 31 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 850 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY GANADERA PARA EL ESTADO DE VERACRUZ”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. En un plazo no mayor a 60 días hábiles la Secretaría de Desarrollo Agropecuario, Rural y Pesca deberá de implementar la GEVER.
+
+CUARTO. En un plazo no mayor a 120 días naturales la Secretaría de Desarrollo Agropecuario, Rural y Pesca deberá adecuar su Reglamento Interior.
+
+QUINTO. A la brevedad posible se deberá incluir el cobro correspondiente de la GEVER al Código de Derechos para el Estado de Veracruz de Ignacio de la Llave, así como las adecuaciones necesarias para el cobro de las infracciones mediante OVH.
+
+SEXTO. Para la implementación del instrumento de identificación para trazabilidad y rastreabilidad de movilidad animal, la Subsecretaría deberá en un plazo no mayor de 60 días naturales, escuchando las propuestas de los productores a través del Comité de Origen y Trazabilidad (COT), determinar el instrumento que se utilizará y la transición deberá concluirse a más tardar el mes de Noviembre del presente año; es responsabilidad de la Subsecretaría a través de la Dirección, verificar el correcto uso del instrumento de identificación para trazabilidad y rastreabilidad de movilidad animal, así como establecer las medidas de control para la entrega de los mismos.
+
+SÉPTIMO. El instrumento de identificación para trazabilidad y rastreabilidad de movilidad animal deberá ser afín al Sistema Informático de Trazabilidad de las Mercancías Agropecuarias, Acuícolas y Pesqueras (SITMA), establecido por la SADER.
+
+OCTAVO. Se sustituye el uso de arete del Sistema Nacional de Identificación Individual del Ganado (SINIIGA), por el instrumento de identificación para trazabilidad y rastreabilidad de movilidad animal autorizado por el Estado, por lo que deberá sustituirse en todas las disposiciones aplicables.
+
+NOVENO. En un plazo no mayor a 160 días hábiles, el Ejecutivo del Estado, deberá emitir el Reglamento de la presente Ley.
+
+DÉCIMO. Se deroga cualquier otra disposición que se oponga al presente Decreto.
