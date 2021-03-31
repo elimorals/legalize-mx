@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2021-03-10"
+last_updated: "2021-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -213,9 +213,9 @@ IX.- Fomentar el interés por la ciencia, la tecnología y las actitudes que est
 
 X.- Impulsar la creación artística, la adquisición, enriquecimiento y difusión de los bienes y valores universales, en especial de aquéllos que constituyen el patrimonio cultural de la Nación, y particularmente, de Nuevo León;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2021)</small>
 
-XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales y en particular, desarrollar una cultura del agua;
+XI.- Inculcar el respeto al medio ambiente, así como los conceptos y principios fundamentales de la ciencia ambiental, el fomento de hábitos dirigidos a un estilo de vida sustentable, la sensibilización y prevención sobre las causas y efectos del cambio climático, de igual manera la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales y en particular, desarrollar una cultura del agua;
 
 (NOTA: EL 22 DE AGOSTO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 238/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE SEPTIEMBRE DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -247,9 +247,9 @@ XVIII.- Promover además del conocimiento acerca de la Entidad y el País, la ad
 
 XIX.- Contribuir a la información, prevención, combate y erradicación sobre los efectos nocivos del tabaquismo, drogadicción, alcoholismo y otras enfermedades y adicciones de impacto sociocultural; a fin de que tomen conciencia de los daños que causan a la salud, al bienestar social, moral y económico de las personas;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2021)</small>
 
-XX.- Impartir la enseñanza del idioma inglés, en los programas establecidos para el nivel de Educación Básica;
+XX.- Los contenidos de los planes y programas de estudio que contemplen el aprendizaje de las lenguas extranjeras para el nivel de Educación Básica;
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
@@ -609,13 +609,17 @@ XX.- Ofrecer en coordinación con las autoridades competentes la orientación y 
 
 XXI.- Establecer mecanismos tendientes a promover las actividades extracurriculares que fomenten el aprendizaje del estudiante de nivel básico, preferentemente en el ámbito socioemocional, colaborativo y de responsabilidad social. Dichas actividades podrán llevarse a cabo en alguna de las instituciones federales, estatales o municipales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2021)</small>
 
-XXII.- Implementar en coordinación con la autoridad competente y la Secretaría de Salud las medidas de protección para los alumnos ante la declaratoria de alerta de contingencia atmosférica de acuerdo a los lineamientos del Programa de Respuesta a Contingencias Atmosféricas, y
+XXII.- Implementar en coordinación con la autoridad competente y la Secretaría de Salud las medidas de protección para los alumnos ante la declaratoria de alerta de contingencia atmosférica de acuerdo a los lineamientos del Programa de Respuesta a Contingencias Atmosféricas;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2021)</small>
 
-XXIII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+XXIII.- Establecer programas educativos para el aprendizaje de las lenguas extranjeras para el nivel de Educación Básica; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2021)</small>
+
+XXIV.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -991,19 +995,29 @@ La educación preescolar, es aquella que se ofrece a partir de los tres años de
 
 Para la inscripción al nivel de educación primaria, es necesario haber cursado y aprobado el nivel preescolar de conformidad con los planes y programas establecidos por la autoridad educativa federal, así como tener seis años de edad cumplidos al 31 de Diciembre del año de inicio del ciclo escolar. La educación primaria comprende seis años de escolaridad y se orienta de acuerdo al plan y programas de estudio establecidos también por la autoridad educativa federal. La primaria constituye antecedente obligatorio de la secundaria.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2021)</small>
 
 ###### Artículo 46.
 
-En las escuelas de educación básica de la entidad se ofrecerán y ampliarán de manera complementaria, programas de informática, lengua extranjera, actividades artísticas, culturales, de educación física y deportes, de salud integral, así como orientación a una alimentación sana y nutritiva y otros programas educativos adecuados a las condiciones y necesidades de las regiones donde están ubicadas las escuelas.
+En las escuelas de educación básica de la entidad se ofrecerán y ampliarán de manera complementaria, programas de informática, lengua extranjera, actividades artísticas, culturales, de educación física y deportes, de salud integral, de prevención contra la violencia de género, así como orientación a una alimentación sana y nutritiva y otros programas educativos adecuados a las condiciones y necesidades de las regiones donde están ubicadas las escuelas.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 Los programas de Salud integral que se mencionan en el párrafo que antecede, deberán desarrollarse en apoyo con las autoridades estatales en materia de salud, así como con instituciones privadas, los cuales tendrán como principales objetivos los siguientes:
 
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
 I.- Inculcar en el colectivo escolar, una mejor cultura de la salud basada en la acción comunitaria, con una visión amplia de causas y riesgos mediante análisis y acción comprometida para el control adecuado de enfermedades y prevención de las mismas.
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
 II.- Integración de alianzas estratégicas entre los sectores público y privado para lograr una educación y salud integral de alta calidad y cobertura estatal.
 
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
 III.- Establecer en las escuelas entornos saludables y seguros que garanticen la calidad en la salud.
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
 IV.- Crear un paquete común garantizado de acciones concretas y medibles para la prevención de enfermedades y promoción de la salud.
 
@@ -1118,6 +1132,10 @@ En los términos del Artículo anterior, la autoridad educativa estatal integrar
 I.- Proponer alternativas para el desarrollo de la educación media superior y superior de acuerdo a las necesidades económicas y socioculturales de la entidad;
 
 II.- Proponer políticas y estrategias para el desarrollo de la educación media superior y superior y emitir recomendaciones respecto a la creación de nuevas carreras e instituciones en el Estado, de acuerdo a las posibilidades económicas y socioculturales de la entidad;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2021)</small>
+
+II Bis.- Proponer y recomendar a las Instituciones de educación media superior y superior, las estrategias de prevención contra cualquier tipo de violencia, incluida la de género.
 
 III.- Conocer sobre la supervisión en la aplicación de planes y programas de estudios que ofrezcan las instituciones de educación superior;
 
@@ -2444,5 +2462,27 @@ P.O. 10 DE MARZO DE 2021.
 P.O. 10 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 460. SE REFORMAN LAS FRACCIONES XIX Y XX Y POR ADICIÓN DE LAS FRACCIONES XXI, XXII Y XXIII, DEL ARTÍCULO 120 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 371. SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DEL ESTADO; Y SE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 75 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 465. SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 7 Y LAS FRACCIONES XXII Y XXIII Y POR ADICIÓN DE UNA FRACCIÓN XXIV DEL ARTÍCULO 21, DE LA LEY DE EDUCACIÓN DEL ESTADO; Y SE REFORMAN LA FRACCIÓN XXII Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XXIII; Y SE ADICIONA LA FRACCIÓN XXIV DEL ARTÍCULO 75 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Educación del Estado aplicará de manera gradual un plan para la implementación de la presente reforma a partir del ciclo escolar 2021-2022.
+
+TERCERO.- Para cumplir con lo establecido en el presente Decreto se dará prioridad, a ocupar los recursos humanos y materiales con los que cuenta la Secretaria de Educación.
+
+P.O. 31 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 469. SE REFORMA EL ARTÍCULO 46; Y SE ADICIONA UNA FRACCIÓN II BIS AL ARTÍCULO 57 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
