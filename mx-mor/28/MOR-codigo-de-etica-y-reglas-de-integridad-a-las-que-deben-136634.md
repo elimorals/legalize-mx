@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-etica-y-reglas-de-integridad-a-las-que-deben-136634"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-08"
-last_updated: "2019-02-08"
+last_updated: "2021-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO DE ÉTICA Y REGLAS DE INTEGRIDAD A LAS QUE DEBEN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el viernes 8 de febrero de 2019.
 
@@ -509,19 +509,41 @@ Las Secretarías, Dependencias y Entidades de la Administración Pública Estata
 
 Las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, podrán integrar su respectivo Comité de Ética, mismo que se constituirá como el órgano encargado de fomentar y vigilar el cumplimiento del Código.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2021)</small>
+
 ###### Artículo 24.
 
-El Comité de Ética en cada una de las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, se integrará de la siguiente forma:
+El Comité de Ética en cada una de las secretarías, dependencias y entidades de la Administración pública estatal, se integrará de la siguiente forma:
 
-I. El titular del ente público, como Presidente;
+I. El titular del ente público, como presidente;
 
-II. El titular del área administrativa, como Secretario Técnico;
+II. El titular del área administrativa, como secretario técnico;
 
 III. El titular del área jurídica, como vocal;
 
-IV. En su caso, el superior jerárquico de la persona servidora pública señalada como responsable, como vocal, y
+IV. En su caso, el superior jerárquico de la persona servidora pública señalada como responsable, como vocal;
 
-V. El titular del Órgano Interno de Control.
+V. El titular del Órgano Interno de Control, y
+
+VI. En los asuntos en que se trate, delibere o resuelva un asunto que verse sobre un trabajador de base, se dará intervención en ese caso en específico a un representante del Sindicato en donde esté agremiado el trabajador de base de que se trate.
+
+Para efectos de la fracción VI anterior, toda vez que el representante sindical no es un miembro permanente del Comité, sino que sólo intervendrá en los asuntos que se refieran a un trabajador de base, se deberán tomar las previsiones respectivas por cuanto al quórum para deliberar el asunto de que se trate y para la votación necesaria para tomar el acuerdo respectivo.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2021)</small>
+
+###### Artículo 24 Bis.
+
+El Comité tendrá las funciones siguientes:
+
+I. Sesionar en términos de lo establecido por el artículo 25 de este Código, así como conforme a las demás disposiciones normativas aplicables;
+
+II. Realizar acciones para promover al interior de las unidades administrativas de la secretaría, dependencia o entidad de la administración pública estatal de que se trate, el Código y el respectivo Código de Conducta;
+
+III. Analizar los asuntos de los que se desprenda alguna presunta acción u omisión por parte de algún servidor público en contra de los principios rectores, valores y reglas de integridad establecidos en el Código y en el Código de Conducta;
+
+IV. Determinar las acciones tendientes a que los servidores públicos, en su caso, sean sancionados conforme la normativa aplicable, y
+
+V. Tramitar ante las autoridades competentes las acciones necesarias cuando del análisis a las conductas realizadas por los servidores públicos, se desprenda alguna infracción que pudiera ser constitutiva de alguna responsabilidad administrativa, penal, civil o laboral, en términos de la normativa aplicable.
 
 ###### Artículo 25.
 
@@ -562,3 +584,15 @@ CESAR SANTANA NAVA
 RÚBRICAS.
 
 LA PRESENTE HOJA DE FIRMAS ES PARTE INTEGRANTE DEL CÓDIGO DE ÉTICA Y REGLAS DE INTEGRIDAD A LAS QUE DEBEN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO DE ÉTICA Y REGLAS DE INTEGRIDAD A LAS QUE DEBEN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”]
+
+PRIMERA. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente decreto.
+
+TERCERA. A partir de que entre en vigor el presente decreto, y una vez que se generen asuntos que involucren a un trabajador de base, los Comités de Ética de cada una de las secretarías, dependencias o entidades de la Administración pública estatal darán la intervención que corresponda al representante sindical, en términos del artículo 24, fracción VI, del Código de Ética y Reglas de Integridad a las que deben sujetarse los servidores públicos de la Administración pública estatal, para cuyo efecto deberán con la anticipación debida solicitar al sindicato correspondiente la designación del representante, a fin de que pueda ser debidamente convocado.
