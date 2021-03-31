@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2021-03-22"
+last_updated: "2021-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2021.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -250,6 +250,10 @@ Son derechos del ciudadano sinaloense:
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
 
 I. Votar en las elecciones populares, siempre que estén en pleno ejercicio de sus derechos.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2021)</small>
+
+Los ciudadanos que residan en el extranjero podrán ejercer su derecho al voto para la elección de Gobernador, en los términos que disponga la Ley en la materia.
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -615,9 +619,11 @@ La residencia oficial de los Poderes del Estado, será la ciudad de Culiacán Ro
 
 ### CAPITULO II. DEL PODER LEGISLATIVO
 
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2021)</small>
+
 ###### Art. 22.
 
-El Poder Legislativo del Estado, se deposita en una asamblea que se denominará "Congreso del Estado."
+El Poder Legislativo del Estado de Sinaloa se deposita en una asamblea que se denomina "Congreso del Estado", y se rige bajo los principios de Parlamento Abierto, en los términos de la Ley Orgánica de dicho Congreso.
 
 #### SECCION I. DE LA ELECCION E INSTALACION DEL CONGRESO
 
@@ -4488,3 +4494,15 @@ El Primer Ayuntamiento del Municipio de Eldorado será electo en las elecciones 
 ###### ARTÍCULO TERCERO.
 
 EI Primer Ayuntamiento del Municipio de Juan José Ríos será electo en las elecciones ordinarias correspondientes al año dos mil veinticuatro, para entrar en funciones el día primero de noviembre de ese mismo año.
+
+P.O. 31 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 589 QUE REFORMA EL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 31 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 590 QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 10 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto deberá publicarse en el Periódico Oficial “El Estado de Sinaloa”, y entrará en vigor a partir del primero de enero del año 2022.
