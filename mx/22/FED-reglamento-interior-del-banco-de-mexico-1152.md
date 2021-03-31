@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2020-12-29"
+last_updated: "2021-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MARZO DE 2021.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -518,6 +518,10 @@ VII. Administrar y difundir la colección numismática del Banco.
 VIII. Administrar los servicios de la biblioteca y hemeroteca del Banco.
 
 IX. Comercializar publicaciones, reportes y demás instrumentos de divulgación.
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 2021)</small>
+
+X. Administrar y operar el Museo Banco de México.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
@@ -3206,3 +3210,11 @@ SEGUNDO. Las reformas de los artículos 30 Bis, fracciones XII, XIII y XIV, y se
 TERCERO. Todas las referencias a las unidades administrativas que en virtud de la entrada en vigor de las presentes modificaciones hayan cambiado de adscripción, y que se encuentren contenidas en cualquier otro acto jurídico, deberán entenderse hechas a las unidades administrativas que las sustituyan o cuenten con las atribuciones respectivas.
 
 CUARTO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+D.O.F. 31 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS “MODIFICACIONES AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
+
+PRIMERO. La presente modificación al Reglamento Interior del Banco de México entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia del artículo modificado, conservarán todo su valor y fuerza legales.
