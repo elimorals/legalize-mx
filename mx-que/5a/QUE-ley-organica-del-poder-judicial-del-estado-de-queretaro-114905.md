@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-114905"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2018-08-15"
+last_updated: "2021-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -47,9 +49,11 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
 La presente Ley es reglamentaria de los artículos 25 a 30 de la Constitución Política del Estado de Querétaro.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2021)</small>
+
 ###### Artículo 2.
 
-Es objeto de esta Ley, regular la organización, funcionamiento y atribuciones del Poder Judicial del Estado de Querétaro, a quien corresponde interpretar y aplicar las leyes en asuntos jurisdiccionales del orden civil, familiar, penal, justicia para adolescentes, ejecución de sanciones penales y constitucionales del fuero común y en materia federal cuando las leyes conducentes así lo faculten.
+Es objeto de esta Ley, regular la organización, funcionamiento y atribuciones del Poder Judicial del Estado de Querétaro, a quien corresponde interpretar y aplicar las leyes en asuntos jurisdiccionales del orden civil, familiar, penal, justicia para adolescentes, ejecución de sanciones penales y constitucionales del fuero común, laboral y en materia federal cuando las leyes conducentes así lo faculten.
 
 ###### Artículo 3.
 
@@ -61,9 +65,15 @@ II. El Consejo de la Judicatura;
 
 III. Los juzgados de primera instancia;
 
-IV. Los juzgados menores; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2021)</small>
 
-V. Los servidores públicos de la administración e impartición de justicia, en los términos que establece esta Ley y demás disposiciones legales.
+IV. Los juzgados menores;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2021)</small>
+
+V. Los tribunales laborales; y
+
+VI. Los servidores públicos de la administración e impartición de justicia, en los términos que establece esta Ley y demás disposiciones legales.
 
 El Tribunal Superior de Justicia comprende el Pleno y la segunda instancia.
 
@@ -105,9 +115,11 @@ Los Poderes del Estado, en el ejercicio de sus facultades, están obligados a ga
 
 Cuando sea necesario llamar a peritos intérpretes o traductores en idioma o lengua indígena, para que asistan a las partes en un procedimiento, los honorarios serán cubiertos por el Poder Judicial del Estado, previa comprobación fiscal de los mismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2021)</small>
+
 ###### Artículo 8.
 
-El Tribunal Superior de Justicia, los juzgados de primera instancia y los juzgados menores, tienen las siguientes atribuciones:
+El Tribunal Superior de Justicia, los juzgados de primera instancia, los juzgados menores y los juzgados laborales, tienen las siguientes atribuciones:
 
 I. Ejercer la función jurisdiccional de manera pronta, completa, independiente, imparcial y gratuita;
 
@@ -115,7 +127,9 @@ II. Ajustar invariablemente sus actos, procedimientos y resoluciones, a los prin
 
 III. Auxiliar a los órganos jurisdiccionales federales y demás autoridades, en los términos que determinen las leyes relativas;
 
-IV. Diligenciar exhortos, requisitorias y despachos en materia civil, mercantil, familiar o penal que les envíen los jueces del Estado, de otras entidades federativas y de otras instancias jurisdiccionales, que se ajusten a la ley;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2021)</small>
+
+IV. Diligenciar exhortos, requisitorias y despachos en materia civil, mercantil, familiar, laboral o penal que les envíen los jueces del Estado, de otras entidades federativas y de otras instancias jurisdiccionales, que se ajusten a la ley;
 
 V. Diligenciar y ejecutar rogatorias, requisitorias o exhortos provenientes del extranjero;
 
@@ -469,9 +483,11 @@ III. De las excitativas de justicia; y
 
 IV. Las demás que señale esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2021)</small>
+
 ###### Artículo 36.
 
-Los integrantes de la Sala Civil resolverán de manera unitaria la denegada apelación, excusas e incompetencias de Jueces y excitativas de justicia. El resto de las resoluciones serán dictadas de manera colegiada.
+Los integrantes de la Sala Civil resolverán de manera unitaria la denegada apelación, excusas e incompetencias de jueces, incluyendo las de los jueces laborales y excitativas de justicia. El resto de las resoluciones serán dictadas de manera colegiada.
 
 El Pleno de la Sala, a petición de cualquiera de sus integrantes, podrá ejercer la facultad de atracción para su resolución colegiada, atendiendo a la complejidad y naturaleza del asunto de que se trate.
 
@@ -509,9 +525,9 @@ c) La apelación contra resoluciones que concedan o nieguen cualquier tipo de me
 
 d) La apelación derivada de los asuntos seguidos por delitos contra la salud, en la modalidad de narcomenudeo, previstos en la Ley General de Salud, que sean competencia de las autoridades del fuero común, sujetándose a las disposiciones del Código Nacional de Procedimientos Penales, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2021)</small>
 
-e) La apelación contra resoluciones emitidas en procesos que se sigan por delitos que ameritan prisión preventiva oficiosa o por necesidad de cautela, así establecidos en la Constitución Política de los Estados Unidos Mexicanos y el Código Nacional de Procedimientos Penales.
+e) La apelación contra resoluciones emitidas en procesos que se sigan por delitos que ameritan prisión preventiva oficiosa, así establecidos en la Constitución Política de los Estados Unidos Mexicanos y el Código Nacional de Procedimientos Penales.
 
 f) Los recursos en el que les otorgue competencia objetiva esta Ley u otras disposiciones aplicables.
 
@@ -785,9 +801,17 @@ IV. Los juzgados familiares;
 
 V. (DEROGADA, P.O. 18 DE ABRIL DE 2017)
 
-VI. Los juzgados de ejecución de sanciones penales; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2021)</small>
 
-VII. Los juzgados mixtos.
+VI. Los juzgados de ejecución de sanciones penales;
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2021)</small>
+
+VII. Los juzgados mixtos; y
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2021)</small>
+
+VIII. Los juzgados laborales.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -1455,15 +1479,93 @@ La Sala Penal del Tribunal Superior de Justicia, contará con el personal auxili
 
 Deberá contar con un sistema de gestión administrativa separado del sistema tradicional de asignación de tocas.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 2021)</small>
+
+Capítulo Decimosegundo Bis
+
+De los Tribunales Laborales
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE ABRIL DE 2021)</small>
+
+#### Sección Primera. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2021)</small>
+
+###### Artículo 98 Quater.
+
+Los tribunales laborales conocerán de los conflictos surgidos de las relaciones de trabajo comprendidas en el artículo 123, Apartado "A", de la Constitución Política de los Estados Unidos Mexicanos, que no sean competencia de los órganos jurisdiccionales federales.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2021)</small>
+
+###### Artículo 98 Quinquies.
+
+La materia laboral será conocida por los tribunales laborales que determine el Pleno, los que estarán a cargo de un Juez Laboral y contarán con el personal que determine la Ley y el que resulte necesario para su adecuado funcionamiento.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2021)</small>
+
+###### Artículo 98 Sexies.
+
+Los juzgados que apliquen el sistema de justicia laboral contarán con el número de jueces y demás personal de acuerdo con los requerimientos de ley y las necesidades del servicio que determine el Consejo del Poder Judicial, contando con las atribuciones que los reglamentos y manuales que para tal efecto emita el Consejo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 2 DE ABRIL DE 2021)</small>
+
+#### Sección Segunda. De las y los jueces laborales
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2021)</small>
+
+###### Artículo 98 Septies.
+
+Las y los jueces laborales deberán:
+
+I. Conocer y resolver los conflictos del trabajo que se susciten entre trabajadores y patrones, sólo entre aquellos o sólo entre éstos, derivado de las relaciones de trabajo o de hechos relacionados con ellas;
+
+II. Atender la función jurisdiccional en materia laboral en el ámbito local, que se ejerza por los tribunales laborales;
+
+III. Atender a las facultades y obligaciones que les establecen, la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo, los acuerdos generales que dicte el Pleno del Consejo de la Judicatura y demás disposiciones aplicables; y
+
+IV. Conocer de los conflictos individuales y colectivos de conformidad con las disposiciones de la Ley Federal del Trabajo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE ABRIL DE 2021)</small>
+
+#### Sección Tercera. De los Secretarios Instructores
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2021)</small>
+
+###### Artículo 98 Octies.
+
+En cada uno de los juzgados laborales habrá las y los secretarios instructores autorizados y nombrados, que el Consejo de la Judicatura determine convenientes.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2021)</small>
+
+###### Artículo 98 Nonies.
+
+Las secretarias y secretarios instructores tendrán fe pública, en todo lo relativo al ejercicio de su cargo.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2021)</small>
+
+###### Artículo 98 Decies.
+
+Para ser secretaria o secretario instructor se deberán reunir los requisitos previstos en el artículo 79 de esta Ley, así como demostrar capacitaciones o experiencia en materia laboral.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2021)</small>
+
+Artículo 98 Undecies. Las secretarias y secretarios instructores, además de las facultades que señala la Ley Federal del Trabajo, tendrán las siguientes atribuciones:
+
+I. Redactar las radicaciones, acuerdos, actas y demás actos relativos a la etapa escrita del procedimiento, así como las que las o los jueces le encomienden;
+
+II. Admitir o prevenir la demanda y, e (sic) su caso, subsanarla conforme a las normas del trabajo y lo establecido en la presente Ley;
+
+III. Hacer constar oralmente, al inicio de las audiencias, en el registro, la fecha, hora y lugar de realización, el nombre de las y los servidores judiciales y demás personas que intervendrán; y
+
+IV. Tomar protesta a las partes y demás personas intervinientes, previo al desahogo de las audiencias, haciéndoles saber que deberán conducirse con verdad, apercibidas de las penas que se les impondrán en caso de realizar declaraciones falsas.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2021)</small>
+
+Artículo 98 Duodecies. Los Jueces Laborales serán sustituidos por el secretario de mayor antigüedad en el cargo que se encuentre presente en el órgano jurisdiccional; cuando sus ausencias sean mayores a un mes, el Pleno del Tribunal Superior de Justicia designará un juez interino que se haga cargo del órgano jurisdiccional hasta en tanto regrese el titular o se realice la designación definitiva.
+
 Capítulo Decimotercero
 
 De las áreas de apoyo a la función jurisdiccional
-
-#### Sección Primera. De la Oficialía de Partes
-
-#### Sección Segunda. De la Oficina Central de Consignaciones
-
-#### Sección Tercera. De la Dirección de Orientación y Servicio a la Ciudadanía
 
 ###### Artículo 99.
 
@@ -1513,7 +1615,7 @@ Prestará sus servicios de mediación y conciliación, en los asuntos susceptibl
 
 El Centro de Mediación y Conciliación desarrollará sus funciones conforme al Reglamento del Centro de Mediación y Conciliación y demás disposiciones que emita el Consejo de la Judicatura.
 
-#### Sección Cuarta. De la Coordinación de Actuarios y Peritos
+#### Sección Primera. De la Oficialía de Partes
 
 ###### Artículo 103.
 
@@ -1551,7 +1653,7 @@ En los Distritos Judiciales donde no exista Oficialía de Partes, todos los escr
 
 En horas inhábiles las promociones y escritos se presentarán en el domicilio que precise el juzgado, para lo cual deberá colocar un aviso visible durante el día que contenga los datos de la persona encargada de ello.
 
-#### Sección Quinta. De la Dirección de Psicología
+#### Sección Segunda. De la Oficina Central de Consignaciones
 
 ###### Artículo 105.
 
@@ -1577,7 +1679,7 @@ VII. Contribuir a la integración de las actuaciones en el sistema electrónico 
 
 VIII. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
 
-#### Sección Primera. De la Oficialía Mayor
+#### Sección Tercera. De la Dirección de Orientación y Servicio a la Ciudadanía
 
 ###### Artículo 106.
 
@@ -1595,7 +1697,7 @@ V. Contribuir a la integración de las actuaciones en el sistema electrónico de
 
 VI. Las demás relacionadas con su ramo que le encomienden el Pleno del Tribunal Superior de Justicia, el Consejo de la Judicatura y el Presidente del Tribunal.
 
-#### Sección Segunda. De la Dirección de Contraloría Interna
+#### Sección Cuarta. De la Coordinación de Actuarios y Peritos
 
 ###### Artículo 107.
 
@@ -1617,7 +1719,7 @@ VII. Contribuir a la integración de las actuaciones en el sistema electrónico 
 
 VIII. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
 
-#### Sección Tercera. De la Dirección de Contabilidad y Finanzas
+#### Sección Quinta. De la Dirección de Psicología
 
 ###### Artículo 108.
 
@@ -1721,7 +1823,9 @@ XIV. Supervisar que la elaboración, aplicación y evaluación de los exámenes 
 
 XV. Cuidar el cumplimiento y efectividad de la carrera judicial, dictando para tal efecto las políticas, lineamientos y normas para el funcionamiento del Instituto de Especialización Judicial, cuyo debido desempeño vigilará permanentemente;
 
-XVI. Expedir los reglamentos relativos al ejercicio de sus funciones, de las dependencias administrativas y órganos jurisdiccionales, así como el de carrera judicial, el régimen disciplinario del Poder Judicial y emitir los acuerdos generales que fueren necesarios para el adecuado cumplimiento de sus atribuciones;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2021)</small>
+
+XVI. Expedir los reglamentos relativos al ejercicio de sus funciones, de las dependencias administrativas, áreas, direcciones, unidades y órganos jurisdiccionales, así como el de carrera judicial, el régimen disciplinario del Poder Judicial y emitir los acuerdos generales que fueren necesarios para el adecuado cumplimiento de sus atribuciones;
 
 XVII. Vigilar el registro y seguimiento de la situación patrimonial de los servidores públicos del Poder Judicial, por medio de la Dirección de Contraloría Interna, conforme a la ley de la materia;
 
@@ -1765,13 +1869,27 @@ XXXVI. Emitir los lineamientos para la publicación de resoluciones judiciales f
 
 XXXVII. Ordenar campañas a través de actividades académicas o foros, para informar a la ciudadanía sobre las actividades y función del Poder Judicial;
 
-XXXVIII. Aprobar los indicadores estadísticos sistematizados que permitan evaluar el desempeño y resultados de los órganos y dependencias del Poder Judicial;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2021)</small>
+
+XXXVIII. Aprobar los indicadores estadísticos sistematizados que permitan el seguimiento, control, evaluación del desempeño y resultados de los órganos y dependencias del Poder Judicial; así como las bases y políticas para recopilar, documentar, procesar y seleccionar la información estadística; para lo cual, tendrá la facultad de crear una unidad estadística judicial, cuyas funciones e integración quedarán establecidas en su reglamento;
 
 XXXIX. Implementar un sistema de gestión organizacional para el cumplimiento de los fines;
 
-XL. Ordenar se realicen encuestas a los usuarios del servicio de justicia, para evaluar el desempeño y funcionamiento de los órganos y áreas del Poder Judicial; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2021)</small>
 
-XLI. Las demás que le confieran esta Ley y otros ordenamientos legales.
+XL. Ordenar se realicen encuestas a los usuarios del servicio de justicia, para evaluar el desempeño y funcionamiento de los órganos y áreas del Poder Judicial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2021)</small>
+
+XLI. Crear las áreas o unidades necesarios (sic) para la realización de sus atribuciones y de acuerdo al presupuesto;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2021)</small>
+
+XLII. Captar, validar, resguardar, explorar, aprovechar y difundir la información estadística, en el ámbito de su competencia, relativa a la actividad jurisdiccional y administrativa; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE ABRIL DE 2021)</small>
+
+XLIII. Las demás que le confieran esta Ley y otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 115.
 
@@ -1881,7 +1999,7 @@ III. Tener experiencia o práctica profesional no menor de tres años, de prefer
 
 IV. Ser de reconocida honradez y solvencia ética.
 
-#### Sección Cuarta. De la Dirección Jurídica
+#### Sección Primera. De la Oficialía Mayor
 
 ###### Artículo 122.
 
@@ -1927,7 +2045,7 @@ XVII. Contribuir a la integración de las actuaciones en el sistema electrónico
 
 XVIII. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
 
-#### Sección Quinta. De la Visitaduría
+#### Sección Segunda. De la Dirección de Contraloría Interna
 
 ###### Artículo 124.
 
@@ -1969,7 +2087,7 @@ Los procedimientos que realice esta Dirección, en cumplimiento de sus funciones
 
 La Dirección de Contraloría Interna, con autorización expresa del Presidente del Consejo de la Judicatura, podrá contratar los servicios profesionales de despachos privados de contabilidad, auditoría y fiscalización para coadyuvar en el cumplimiento de sus tareas o para encomendarles en forma integral alguna o algunas acciones de la competencia de la propia Dirección. En este caso, se establecerá por escrito el carácter confidencial de las diligencias y sus resultados deberán informarse al Consejo de la Judicatura.
 
-#### Sección Sexta. Del Instituto de Especialización Judicial
+#### Sección Tercera. De la Dirección de Contabilidad y Finanzas
 
 ###### Artículo 127.
 
@@ -2001,7 +2119,7 @@ X. Contribuir a la integración de las actuaciones en el sistema electrónico de
 
 XI. Las demás que le confieran la presente Ley y otras disposiciones aplicables.
 
-#### Sección Séptima. De la Dirección de Tecnologías de la Información
+#### Sección Cuarta. De la Dirección Jurídica
 
 ###### Artículo 129.
 
@@ -2033,7 +2151,7 @@ X. Contribuir a la integración de las actuaciones en el sistema electrónico de
 
 XI. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
 
-#### Sección Octava. De la Unidad de Transparencia
+#### Sección Quinta. De la Visitaduría
 
 ###### Artículo 131.
 
@@ -2056,6 +2174,8 @@ IV. Capturar de manera veraz y oportuna en los programas o sistemas informático
 V. Contribuir a la integración de las actuaciones en el sistema electrónico de gestión o de control de los órganos y dependencias del Poder Judicial en el ámbito de su competencia; y
 
 VI. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
+
+#### Sección Sexta. Del Instituto de Especialización Judicial
 
 ###### Artículo 133.
 
@@ -2099,6 +2219,8 @@ XII. Contribuir a la integración de las actuaciones en el sistema electrónico 
 
 XIII. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
 
+#### Sección Séptima. De la Dirección de Tecnologías de la Información
+
 ###### Artículo 136.
 
 La Dirección de Tecnologías de la Información dirigirá y promoverá el desarrollo de servicios de información automatizada mediante la tecnología informática, en lo referente a la impartición y administración de justicia, para los órganos y dependencias del Poder Judicial.
@@ -2138,6 +2260,8 @@ XIII. Capturar de manera veraz y oportuna en los programas o sistemas informáti
 XIV. Contribuir a la integración de las actuaciones en el sistema electrónico de gestión o de control de los órganos y dependencias del Poder Judicial en el ámbito de su competencia; y
 
 XV. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
+
+#### Sección Octava. De la Unidad de Transparencia
 
 ###### Artículo 138.
 
@@ -2662,3 +2786,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. El informe sobre el estado que guarda la administración de justicia durante el periodo 2017 - 2018, se presentará en el mes de septiembre del año 2018.
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 2 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día 01 de octubre de 2021.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
