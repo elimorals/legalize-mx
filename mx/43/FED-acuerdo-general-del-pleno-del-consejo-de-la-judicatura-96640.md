@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2020-12-14"
+last_updated: "2021-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,9 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2020.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O.F. EL 14 DE DICIEMBRE DE 2020 NO APLICA AL ARTICULADO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL PUBLICADO EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2021.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -339,11 +337,17 @@ XVII. Firmar las credenciales que acrediten al personal del Poder Judicial de la
 
 XVIII. Definir, por conducto de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales las directrices de los programas en dichas materias;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN A LA RECEPCIÓN Y REGISTRO DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES DE LOS SERVIDORES PÚBLICOS DEL CONSEJO, ASÍ COMO LA TRANSFORMACIÓN DE LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES EN DIRECCIÓN GENERAL, D.O.F. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-XIX. Determinar, por conducto de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales las acciones del Consejo en dichas materias; y
+XIX. Determinar, por conducto de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales las acciones del Consejo en dichas materias;
 
-XX. Las demás que establezca el Pleno mediante acuerdos generales.
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+XX. Admitir o desechar el recurso de revisión administrativa previsto en el artículo 20 Bis, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, dentro de los seis días hábiles siguientes a su interposición; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+XXI. Las demás que establezca el Pleno mediante acuerdos generales.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
@@ -763,9 +767,17 @@ XXI. Designar, a propuesta del Secretario Ejecutivo de Carrera Judicial, al Secr
 
 XXII. Nombrar al personal subalterno que fije el presupuesto;
 
-XXIII. Opinar sobre las solicitudes de licencia a que se refiere la fracción VIII del artículo 18 de este Acuerdo; y
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-XXIV. Las demás que establezcan la Ley, el Pleno, y el presente Acuerdo.
+XXIII. Opinar sobre las solicitudes de licencia a que se refiere la fracción VIII del artículo 18 de este Acuerdo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+XXIV. Proponer al Pleno los proyectos de resolución de los recursos de inconformidad administrativa que elaboren las y los Consejeros que la integran; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+XXV. Las demás que establezcan la Ley, el Pleno, y el presente Acuerdo.
 
 #### SECCIÓN QUINTA. DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS
 
@@ -1781,11 +1793,11 @@ XIV. Las demás que establezcan el Pleno y las Comisiones.
 
 El Secretario Ejecutivo de Carrera Judicial se encargará de auxiliar a la Comisión de Carrera Judicial para el desempeño de las atribuciones que ésta tiene encomendadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
 
 ###### Artículo 84.
 
-El titular de la Secretaría Ejecutiva de Carrera Judicial tendrá las siguientes atribuciones:
+La persona titular de la Secretaría Ejecutiva de Carrera Judicial tendrá las siguientes atribuciones:
 
 I. Recibir los proyectos de resoluciones o dictámenes y propuestas de acuerdos relacionados con la carrera judicial, en los términos que define el Título Séptimo de la Ley, los cuales serán turnados a la Comisión de Carrera Judicial, para su análisis y, en su caso, posterior aprobación en el Pleno;
 
@@ -1805,11 +1817,15 @@ VIII. Tramitar ante la Comisión de Carrera Judicial, las consultas para que los
 
 IX. Tramitar ante la Comisión de Carrera Judicial las solicitudes de los magistrados de Circuito y jueces de Distrito, relativas al disfrute de períodos vacacionales a los que se refieren los artículos 159 y 160 de la Ley; y llevar el control de las autorizaciones correspondientes;
 
-X. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO EN RELACIÓN CON LAS ATRIBUCIONES EN MATERIA PERICIAL; CON EL INFORME ANUAL DE LABORES DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA; Y CON LAS ATRIBUCIONES DEL TITULAR DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 8 DE OCTUBRE DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+X. Auxiliar al Presidente en el trámite del recurso de revisión administrativa hasta alcanzar el estado de resolución;
 
 XI. Tramitar ante la Comisión de Carrera Judicial las licencias mayores de treinta días que soliciten los magistrados de Circuito o los jueces de Distrito, para que se sometan a la consideración del Pleno;
 
-XII. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO EN RELACIÓN CON LAS ATRIBUCIONES EN MATERIA PERICIAL; CON EL INFORME ANUAL DE LABORES DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA; Y CON LAS ATRIBUCIONES DEL TITULAR DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 8 DE OCTUBRE DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+XII. Apoyar al Presidente de la Comisión de Carrera Judicial en la admisión y substanciación de los recursos de inconformidad administrativa en contra del acuerdo que deseche o tenga por no presentados los recursos de revisión administrativa;
 
 XIII. Llevar el sistema de turnos y efectuar los trámites requeridos para las resoluciones de las ratificaciones de magistrados de Circuito y jueces de Distrito;
 
@@ -6324,3 +6340,17 @@ DÉCIMO. Las nuevas categorías previstas para la Carrera Judicial entrarán en 
 DECIMOPRIMERO. Los plazos para el llenado del Padrón Electrónico de Relaciones Familiares empezarán a correr a partir de la entrada en vigor del presente Acuerdo, reiniciando los previstos originalmente cuando se aprobó el citado Padrón, y reconociendo la validez de los registros que ya se hubieren realizado.
 
 DECIMOSEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 2 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. La Dirección General de Tecnologías de la Información, en coordinación con la Dirección General de Gestión Judicial, realizará los ajustes correspondientes a los sistemas electrónicos existentes, para la implementación del trámite en línea del recurso de revisión administrativa o de inconformidad administrativa, dentro de los sesenta días hábiles siguientes, a partir de la entrada en vigor del presente Acuerdo.
+
+CUARTO. Los recursos de revisión administrativa ante el Pleno del Consejo de la Judicatura Federal interpuestos con posterioridad a la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, relativos al Poder Judicial de la Federación, se tramitarán conforme a lo dispuesto por el presente Acuerdo.
+
+QUINTO. Se instruye a la Dirección General de Innovación, Planeación y Desarrollo Institucional para que, en coordinación con la Secretaría Ejecutiva de Carrera Judicial, presente a la brevedad una propuesta de estructura temporal que auxilie a dicha área administrativa en el cumplimiento de las nuevas atribuciones que le confiere este Acuerdo.
