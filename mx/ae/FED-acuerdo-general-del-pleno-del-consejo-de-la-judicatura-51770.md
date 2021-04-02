@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2021-01-11"
+last_updated: "2021-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,9 +23,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 11 DE ENERO DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2021.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -267,9 +265,13 @@ La Comisión velará porque los estímulos que se regulan en los artículos del 
 
 Sólo el Consejo puede designar los espacios o locales destinados a los órganos jurisdiccionales, tales como los despachos, áreas de trabajo y demás recintos asignados a los titulares y personal de éstos.
 
-## TITULO SEGUNDO. Del Ingreso a la Carrera Judicial
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-### Capítulo I. Disposiciones Generales
+## TITULO SEGUNDO. Del ingreso a la Carrera Judicial, de los recursos de revisión administrativa, y de inconformidad administrativa
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+### Capítulo I. Del Ingreso a la Carrera Judicial
 
 ###### Artículo 11.
 
@@ -367,11 +369,85 @@ VI. Aprobada la reincorporación y una vez que se designe el órgano jurisdiccio
 
 VII. La determinación de improcedencia o negativa adoptada será definitiva e inatacable, por lo que, en su contra, no procederá recurso alguno.
 
-### Capítulo II. De la Adscripción
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-### Capítulo III. De la Readscripción
+### Capítulo II. Del recurso de revisión administrativa ante el Pleno
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+###### Artículo 20 Bis.
+
+Contra los resultados de los concursos de oposición es procedente el recurso de revisión administrativa ante el Pleno.
+
+Se considerarán resultados de los concursos de oposición, aquellas determinaciones del Consejo que, una vez publicadas en el Diario Oficial de la Federación crean una situación jurídica para las y los aspirantes o participantes en el concurso en el que se hubiesen inscrito, dentro de los siguientes actos:
+
+I. Lista de aspirantes admitidos al concurso de oposición;
+
+II. Lista de las y los participantes que avanzan a la segunda etapa del concurso de oposición; y
+
+III. Lista de vencedoras o vencedores del concurso de oposición.
+
+La interposición del recurso de revisión administrativa no suspende el desarrollo del concurso conforme al calendario aprobado para tal efecto.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+###### Artículo 20 Ter.
+
+Tendrán legitimación para interponer el recurso de revisión administrativa las y los aspirantes o participantes de los concursos de oposición que no hayan obtenido una resolución favorable en cualquiera de las tres determinaciones a las que alude el artículo anterior.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+###### Artículo 20 Quater.
+
+El recurso de revisión administrativa contra los resultados de los concursos de oposición podrá presentarse, por escrito, ante la Oficialía de Partes y Certificación del Edificio Sede del Consejo de la Judicatura Federal o mediante el Sistema Electrónico implementado para tal efecto, dentro de los cinco días hábiles siguientes a la fecha de su publicación en el Diario Oficial de la Federación. Con independencia de lo anterior, la parte promovente deberá proporcionar una dirección de correo electrónico para recibir notificaciones. En el caso de personal que labore dentro del Poder Judicial de la Federación, se deberán proporcionar los correos electrónicos personal e institucional.
+
+Para la utilización del Sistema Electrónico será necesario que las personas interesadas cuenten con una firma electrónica emitida o reconocida por el Poder Judicial de la Federación a través de la Unidad para el Control de Certificación de Firmas del Consejo de la Judicatura Federal.
+
+Sólo será admisible como prueba la documental pública, la cual deberá ser ofrecida en el escrito inicial y, en su caso, en el escrito de ampliación de agravios.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+###### Artículo 20 Quinquies.
+
+El recurso se tramitará y resolverá de conformidad con lo siguiente:
+
+I. El escrito respectivo se turnará a la Secretaría Ejecutiva de Carrera Judicial, para que ésta proponga a la presidencia del Consejo de la Judicatura Federal el acuerdo de admisión o desechamiento del recurso, dentro de los seis días hábiles siguientes a su interposición.
+
+Cuando exista error, omisión o falta de claridad en el escrito de interposición del recurso, se prevendrá al recurrente para que lo subsane o complete en el plazo de tres días hábiles. En caso de no atender la prevención, el recurso se tendrá por no interpuesto;
+
+II. Una vez admitido el recurso de revisión, la Secretaría Ejecutiva de Carrera Judicial:
+
+a) Solicitará a la Escuela Federal de Formación Judicial el informe correspondiente, el cual se rendirá dentro de los cinco días hábiles siguientes a la fecha de recepción de la comunicación oficial. En el informe se debe señalar si son ciertos o no los actos impugnados y, en su caso, si se actualiza alguna causa de improcedencia. A dicho informe se acompañarán todos los elementos probatorios que permitan la resolución del asunto; y
+
+b) El plazo antes descrito podrá duplicarse, a solicitud expresa de la Escuela Federal de Formación Judicial, en caso de presentarse la promoción simultánea de un número considerable de recursos, respecto del mismo concurso o uno diverso, que impidan, materialmente, el cumplimiento del plazo original;
+
+III. Una vez recibido el informe de la Escuela Federal de Formación Judicial, la Secretaría Ejecutiva de Carrera Judicial dará vista con su contenido a la parte promovente, para que, dentro del plazo de cinco días hábiles, amplíe sus agravios, o en su caso, realice las manifestaciones que a su derecho corresponda. De presentarse el escrito de ampliación de agravios, se solicitará a la Escuela Federal de Formación Judicial el informe correspondiente en los términos señalados en la fracción II, de este artículo;
+
+IV. Transcurrido el plazo previsto en la fracción anterior, se remitirá el expediente que se hubiere formado a la o el Consejero ponente, que corresponda según el turno, para que formule el proyecto de resolución que será sometido a la consideración del Pleno;
+
+V. La Consejera o Consejero ponente contará con treinta días hábiles para la elaboración del proyecto de resolución respectivo. El plazo podrá duplicarse a juicio de la o el Consejero ponente, mediante motivación que deberá plasmarse en el proyecto de resolución;
+
+VI. La o el Consejero ponente podrá solicitar a las unidades administrativas que correspondan las pruebas documentales que estime necesarias para mejor proveer, siempre que tengan relación inmediata con el concurso controvertido. De estimarse que pueden afectar las pretensiones de las partes, se les dará vista por conducto de la Secretaría Ejecutiva de Carrera Judicial para que manifiesten lo que a su derecho convenga dentro de los tres días hábiles siguientes; y
+
+VII. La resolución que declare fundado el recurso de revisión administrativa tendrá como efectos: corregir la calificación, ordenar que se vuelva a examinar a la parte recurrente o dictar cualquier medida para corregir la violación que ésta hubiera sufrido.
+
+Las resoluciones de los recursos de revisión administrativa no producirán efecto alguno respecto de quienes no acudieron a este medio de impugnación, ni afectará la validez del concurso impugnado. Las resoluciones dictadas en estos recursos son inatacables.
+
+A falta de disposición expresa, para la substanciación del recurso de revisión administrativa será aplicable el Código Federal de Procedimientos Civiles.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+### Capítulo III. Del recurso de inconformidad administrativa
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+###### Artículo 20 Sexies.
+
+En contra de la determinación del Presidente que deseche o tenga por no presentado el recurso de revisión administrativa, procede el recurso de inconformidad administrativa. Este recurso podrá interponerse, por escrito o mediante el Sistema Electrónico implementado para su trámite, en el plazo de tres días hábiles siguientes a aquel en que se haya efectuado la notificación del acuerdo que se impugna.
+
+La inconformidad administrativa se presentará ante la Secretaría Ejecutiva de Carrera Judicial, que la remitirá a la Consejera o al Consejero Presidente de la Comisión de Carrera Judicial, para su admisión y trámite.
+
+La Consejera o el Consejero Presidente de la Comisión turnará el asunto a la Consejera o Consejero integrante de la Comisión de Carrera Judicial que por turno le corresponda, para la elaboración del proyecto de resolución. A partir de la admisión del recurso, la o el ponente contará con sesenta días hábiles para la elaboración del proyecto correspondiente. El recurso de inconformidad administrativa será resuelto por el Pleno del Consejo de la Judicatura Federal.
 
 ## TITULO TERCERO. De la Protesta Constitucional
 
@@ -385,9 +461,7 @@ En toda protesta constitucional se levantará el acta correspondiente de la cual
 
 ## TITULO CUARTO. De la Adscripción y Readscripción de Magistrados de Circuito y Jueces de Distrito
 
-### Capítulo I. Requisitos
-
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 22.
 
@@ -439,9 +513,7 @@ En los casos de adscripción y readscripción en órganos especializados, ademá
 
 Cualquier situación no prevista en este Título será resuelta por el Pleno, a propuesta de la Comisión de Adscripción.
 
-### Capítulo II. Puntos de acceso a la función jurisdiccional
-
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+### Capítulo II. De la Adscripción
 
 ###### Artículo 31.
 
@@ -575,9 +647,9 @@ En caso de reincidencia, los puntos se multiplicarán por dos.
 
 Siempre que no se hayan impuesto nuevas medidas disciplinarias, los puntos a descontar irán disminuyendo con el paso del tiempo, de conformidad con lo siguiente: a los cinco años de que la medida disciplinaria se haya impuesto, los puntos se multiplicarán por un factor de 0.7; a los siete años por un factor 0.5; y después de diez años, por un factor de 0.3. Transcurridos quince años sin otra sanción disciplinaria, dejarán de considerarse los puntos desfavorables.
 
-### Capítulo III. Listas de acceso a la carrera judicial
+### Capítulo III. De la Readscripción
 
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 36.
 
@@ -827,9 +899,9 @@ El Secretario Ejecutivo de Carrera Judicial comunicará a los magistrados de Cir
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-### Capítulo IV. Nombramientos
+### Capítulo I. Requisitos
 
-> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 50.
 
@@ -885,7 +957,9 @@ Excepcionalmente, podrán ingresar aquellas personas que aún no cuenten con tí
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-### Capítulo I. Disposiciones Comunes
+### Capítulo II. Puntos de acceso a la función jurisdiccional
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 55.
 
@@ -993,7 +1067,9 @@ El término para resolver los recursos de inconformidad será de diez días háb
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-### Capítulo II. De las Licencias a Magistrados de Circuito y Jueces de Distrito Para que Asistan a Eventos Académicos Nacionales o Extranjeros
+### Capítulo III. Listas de acceso a la carrera judicial
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 64.
 
@@ -1023,7 +1099,9 @@ El incumplimiento injustificado de los requisitos de algún aspirante durante el
 
 > <small>(REFORMADA SU DENOMINACIÓN y REUBICADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
-### Capítulo I. De la Medalla al Mérito
+### Capítulo IV. Nombramientos
+
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 #### Sección primera. Designación
 
@@ -1401,7 +1479,7 @@ II. El nombre del secretario que quedará encargado del despacho del órgano jur
 
 ## TITULO DECIMO. De las Licencias
 
-### Capítulo II. De los Años Sabáticos
+### Capítulo I. Disposiciones Comunes
 
 ###### Artículo 105.
 
@@ -1525,7 +1603,7 @@ El Pleno, a propuesta de la Comisión de Administración, resolverá las solicit
 
 Los magistrados de circuito y los jueces de distrito tendrán facultades para, en caso de las ausencias autorizadas con motivo de una licencia sin goce de sueldo, nombrar un interino que supla a los servidores públicos adscritos a los órganos jurisdiccionales de los que sean titulares, observando las disposiciones que al respecto emita el Consejo para regular de manera particular las categorías que estime pertinentes.
 
-### Capítulo III. De las Becas
+### Capítulo II. De las Licencias a Magistrados de Circuito y Jueces de Distrito Para que Asistan a Eventos Académicos Nacionales o Extranjeros
 
 ###### Artículo 126.
 
@@ -1635,7 +1713,11 @@ Dentro de los treinta días naturales posteriores a la conclusión del evento ac
 
 En caso de que el funcionario público no cumpla con los objetivos establecidos en la solicitud de licencia deberá devolver las cantidades que el Consejo le proporcionó durante el período respectivo.
 
+### Capítulo I. De la Medalla al Mérito
+
 ## TITULO DECIMO PRIMERO. De los Estímulos
+
+### Capítulo II. De los Años Sabáticos
 
 ###### Artículo 139.
 
@@ -1668,6 +1750,8 @@ El Consejo publicará una semblanza de los funcionarios a quienes se haya otorga
 ###### Artículo 143.
 
 El Consejo podrá abstenerse de otorgar la distinción en una o varias categorías, cuando el Pleno así lo estime conveniente; igualmente, podrá conferir, si así lo considera, más de un reconocimiento a cada categoría de las señaladas en el artículo 139 de este Acuerdo.
+
+### Capítulo III. De las Becas
 
 ###### Artículo 144.
 
@@ -2540,3 +2624,17 @@ D.O.F. 21 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+D.O.F. 2 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. La Dirección General de Tecnologías de la Información, en coordinación con la Dirección General de Gestión Judicial, realizará los ajustes correspondientes a los sistemas electrónicos existentes, para la implementación del trámite en línea del recurso de revisión administrativa o de inconformidad administrativa, dentro de los sesenta días hábiles siguientes, a partir de la entrada en vigor del presente Acuerdo.
+
+CUARTO. Los recursos de revisión administrativa ante el Pleno del Consejo de la Judicatura Federal interpuestos con posterioridad a la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, relativos al Poder Judicial de la Federación, se tramitarán conforme a lo dispuesto por el presente Acuerdo.
+
+QUINTO. Se instruye a la Dirección General de Innovación, Planeación y Desarrollo Institucional para que, en coordinación con la Secretaría Ejecutiva de Carrera Judicial, presente a la brevedad una propuesta de estructura temporal que auxilie a dicha área administrativa en el cumplimiento de las nuevas atribuciones que le confiere este Acuerdo.
