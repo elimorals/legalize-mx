@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2019-12-22"
+last_updated: "2021-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -903,13 +903,13 @@ XVI. Participar y coordinar en el ámbito de su competencia, las acciones de coo
 
 XVII. Las que les señalen las demás leyes y disposiciones aplicables.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 2 DE ABRIL DE 2021)</small>
+
 #### Sección Única. De la Junta Local de Conciliación y Arbitraje
 
 ###### Artículo 30.
 
-Para resolver los conflictos que presenten las relaciones laborales entre los patrones y sus trabajadores, existirán una Junta Local de Conciliación y Arbitraje, cuya organización, integración y atribuciones se regirá por la Legislación correspondiente.
-
-Gozará de plena autonomía jurisdiccional en la emisión de sus respectivas soluciones y para el ejercicio de sus funciones contará con el apoyo administrativo del Poder Ejecutivo del Estado, a través de la Secretaría del Trabajo.
+(DEROGADO, P.O. 2 DE ABRIL DE 2021)
 
 ### Capítulo Décimo Primero. De la Secretaría de Turismo
 
@@ -2328,3 +2328,21 @@ d) La inscripción de la cancelación de licencia de ejecución de obras de urba
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
 
 XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
+
+P.O. 2 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE DEROGA EL ARTÍCULO 30 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día 01 de octubre de 2021.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Los procedimientos que se encuentren en trámite ante la Secretaría del Trabajo y la Junta de Conciliación y Arbitraje, serán concluidos de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Artículo Cuarto. La Junta de Conciliación y Arbitraje, así como la Secretaría del Trabajo, según corresponda, continuarán conociendo de los procedimientos individuales, colectivos y registrales que se inicien con posterioridad a la entrada en vigor de la presente Ley, hasta en tanto entren en funciones los Tribunales Laborales y el Centro de Conciliación Laboral del Estado de Querétaro.
+
+Artículo Quinto. Hasta en tanto entre en funciones el Centro de Conciliación Laboral del Estado de Querétaro, la Coordinación de Conciliación de la Secretaría del Trabajo conservará la facultad para citar a los patrones o sindicatos a juntas de avenimiento o conciliatorias, apercibiéndolos que de no comparecer a dichas diligencias, se les impondrá la medida de apremio a que se refiere la fracción I del artículo 731 de la Ley Federal del Trabajo, bajo la condición que si el solicitante del servicio no asiste a la junta de avenimiento o conciliatoria, se le tendrá por desistido de su petición sin responsabilidad para la Procuraduría, salvo que acredite que existió causa justificada para no comparecer.
+
+Dichos procedimientos se tramitarán conforme a las disposiciones de la Ley Federal del Trabajo y demás leyes vigentes hasta antes de la entrada en vigor del Decreto en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019.
+
+Artículo Sexto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
