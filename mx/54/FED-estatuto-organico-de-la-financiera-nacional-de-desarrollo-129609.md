@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-12960
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-07-30"
-last_updated: "2019-07-05"
+last_updated: "2021-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129609&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-07-18"
 
 ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2021.
 
 Estatuto publicado en la Segunda Sección al Número 21 del Diario Oficial de la Federación, el lunes 30 de julio de 2018.
 
@@ -307,7 +307,13 @@ XIV. Instruir la constitución de comités internos de trabajo distintos a los c
 
 XV. Rendir al Consejo informes semestrales, con la intervención que corresponda a los comisarios;
 
-XVI. Realizar toda clase de actos jurídicos necesarios para cumplir con los fines de la Financiera;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE ABRIL DE 2021)</small>
+
+XVI. Realizar toda clase de actos jurídicos necesarios para cumplir con los fines de la Financiera.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+Para lo cual podrá establecer, emitir y difundir acciones, instrucciones, planes, directrices, procesos, procedimientos y circulares, así como cualquier otro documento general necesario para la consecución del objeto de la Financiera, en apego a los lineamientos políticas y estrategias autorizadas por el Consejo Directivo.
 
 XVII. Coordinar el funcionamiento del área que desempeñe las funciones de Contraloría Interna, en cuanto a los asuntos que competan a la Dirección General, y
 
@@ -399,9 +405,17 @@ XII. Evaluar los riesgos implícitos asociados que presentan nuevos programas, p
 
 XIII. Presentar para la autorización de la Comisión con el visto bueno del Consejo, las metodologías, modelos y parámetros relacionados a los procesos de calificación de la cartera crediticia de la Financiera;
 
-XIV. Determinar los criterios para la evaluación paramétrica de los créditos, el cálculo del componente de riesgo de la tasa de interés y los porcentajes necesarios para la constitución de reservas de fondos mutuales, de acuerdo a lo aprobado por el Consejo, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-XV. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el Director General.
+XIV. Determinar los criterios para la evaluación paramétrica de los créditos, el cálculo del componente de riesgo de la tasa de interés y los porcentajes necesarios para la constitución de reservas de fondos mutuales, de acuerdo a lo aprobado por el Consejo;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+XV. Establecer, emitir y difundir, acciones, instrucciones, planes, procesos, procedimientos y circulares, en materia de administración integral de riesgos, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 2 DE ABRIL DE 2021)</small>
+
+XVI. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el Director General.
 
 ###### ARTÍCULO 20.
 
@@ -431,9 +445,17 @@ X. Dar seguimiento a las deficiencias o desviaciones relevantes detectadas en re
 
 XI. Presentar para aprobación del Comité de Auditoría, el programa anual de trabajo correspondiente a lo establecido por las Disposiciones de Carácter General Aplicables a las Instituciones de Crédito, emitidas por la Comisión;
 
-XII. Proporcionar, en su caso, al Comité de Auditoría los informes de gestión elaborados por el o los responsables de las funciones de Contraloría Interna, conforme al último párrafo del artículo 167 de las Disposiciones de Carácter General Aplicables a las Instituciones de Crédito, emitidas por la Comisión, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-XIII. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende su superior jerárquico.
+XII. Proporcionar, en su caso, al Comité de Auditoría los informes de gestión elaborados por el o los responsables de las funciones de Contraloría Interna, conforme al último párrafo del artículo 167 de las Disposiciones de Carácter General Aplicables a las Instituciones de Crédito, emitidas por la Comisión;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+XIII. Establecer, emitir y difundir, acciones, instrucciones, planes, procesos, procedimientos y circulares, en materia de auditoría interna, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 2 DE ABRIL DE 2021)</small>
+
+XIV. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende su superior jerárquico.
 
 ###### ARTÍCULO 21.
 
@@ -455,9 +477,17 @@ VII. Preparar los asuntos relacionados con el ámbito de su competencia, que el 
 
 VIII. Fungir como enlace y coordinador ante los Órganos Fiscalizadores en las Auditorías Internas y Externas aplicadas en la Institución, así como coadyuvar con las unidades administrativas responsables de los procesos sustantivos en la coordinación y seguimiento de los trabajos inherentes a la solventación de las observaciones y/o señalamientos que hayan realizado las instancias fiscalizadoras;
 
-IX. Dirigir y coordinar las acciones y procedimientos necesarios para dar cumplimiento a las normativas y a las mejores prácticas financieras en materia de prevención, detección y reporte de operaciones con recursos de procedencia ilícita y financiamiento al terrorismo, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-X. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende su superior jerárquico.
+IX. Dirigir y coordinar las acciones y procedimientos necesarios para dar cumplimiento a las normativas y a las mejores prácticas financieras en materia de prevención, detección y reporte de operaciones con recursos de procedencia ilícita y financiamiento al terrorismo;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+X. Establecer, emitir y difundir, acciones, instrucciones, planes, procesos, procedimientos y circulares en materia de control interno, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 2 DE ABRIL DE 2021)</small>
+
+XI. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende su superior jerárquico.
 
 ###### ARTÍCULO 22.
 
@@ -489,15 +519,21 @@ XI. Realizar las demás funciones y/o responsabilidades que dentro del ámbito d
 
 Corresponde a la Dirección General Adjunta Jurídica y Fiduciaria:
 
-I. Dictar las políticas y estrategias tendientes a que los procesos jurídicos de la Financiera se apeguen a la legalidad;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-II. Emitir estrategias y políticas para la representación y defensa en materia contenciosa de la Institución ante instancias judiciales y administrativas, a fin de proteger sus intereses jurídicos y patrimoniales;
+I. Establecer, emitir y difundir, acciones, instrucciones, planes, procesos, procedimientos y circulares, en materia jurídica y fiduciaria, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+II. Establecer, emitir y difundir, acciones, instrucciones, planes, procesos, procedimientos y circulares, para la representación y defensa en materia contenciosa de la Institución ante instancias judiciales y administrativas, a fin de proteger sus intereses jurídicos y patrimoniales, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 III. Definir estrategias para la compilación y divulgación de la legislación relacionada al funcionamiento de la Financiera;
 
 IV. Definir estrategias para la protocolización de actas, así como para el otorgamiento y revocación de poderes de los servidores públicos de la Institución;
 
-V. Emitir políticas para la prevención de riesgos en materia legal para la Financiera;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+V. Establecer, emitir y difundir, acciones, instrucciones, planes, procesos, procedimientos y circulares, para la prevención de riesgos en materia legal para la Financiera, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 VI. Dentro de su esfera de atribuciones, suplir al Director General de la Financiera en el cumplimiento de las obligaciones que tengan término;
 
@@ -643,7 +679,9 @@ IX. Desarrollar procedimientos de supervisión en el desarrollo de las actividad
 
 X. Desarrollar procesos, metodologías y procedimientos que reduzcan los riesgos operativos de los negocios fiduciarios, mandatos, comisiones y avalúos;
 
-XI. Generar y proponer políticas y estrategias para el desarrollo de los negocios fiduciario y de avalúos, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+XI. Proponer a la Dirección General Adjunta Jurídica y Fiduciaria procesos y procedimientos para el desarrollo de los negocios fiduciario y de avalúos, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo, y
 
 XII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario.
 
@@ -703,7 +741,9 @@ III. Establecer las directrices para realizar la planeación estratégica instit
 
 IV. Vigilar que el desarrollo del programa operativo anual realizado por las unidades administrativas correspondientes, mantenga una alineación pertinente con la planeación estratégica institucional;
 
-V. Definir las políticas de comunicación social de la Financiera con la finalidad de unificar criterios en la información divulgada cumpliendo la normatividad establecida en esta materia;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+V. Establecer, emitir y difundir, acciones, instrucciones, planes, procesos, procedimientos y circulares en materia de análisis sectorial, planeación estratégica y comunicación social, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 VI. Dirigir la elaboración del programa institucional, su seguimiento y evaluación en coordinación con las demás unidades administrativas para lograr una adecuada apropiación del mismo en todos los niveles de la Institución y conseguir una implementación exitosa que se refleje en el cumplimiento de los objetivos y metas institucionales;
 
@@ -751,7 +791,9 @@ Corresponde a la Subdirección Corporativa de Comunicación Social y Enlace Inst
 
 I. Dirigir estrategias de comunicación externa e interna que promuevan los productos y servicios de la Financiera;
 
-II. Establecer políticas de comunicación interna;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+II. Establecer procesos y procedimientos, en materia de comunicación interna, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 III. Dirigir el diseño y producción de los materiales gráficos que se requieran para los eventos en los que participe la Financiera;
 
@@ -785,13 +827,19 @@ XV. Las demás que le encomiende el Coordinador General de Análisis Sectorial, 
 
 Corresponde a la Dirección General Adjunta de Crédito:
 
-I. Dictar y difundir las políticas, lineamientos, normas, reglas y procedimientos de crédito, de reporto y de otros financiamientos, así como sus modificaciones;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-II. Dictar, difundir y vigilar los criterios y herramientas con los que se analicen, resuelvan y otorguen los financiamientos solicitados;
+I. Difundir las políticas, lineamientos, normas, reglas y procedimientos de crédito, de reporto y de otros financiamientos, así como sus modificaciones, que sean aprobadas conforme a la normatividad aplicable;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+II. Establecer, emitir, difundir y vigilar los criterios y herramientas con los que se analicen, resuelvan y otorguen los financiamientos solicitados, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 III. Dirigir el análisis, resolución y otorgamiento de los créditos presentados al Comité de Crédito y al Comité de Créditos Menores;
 
-IV. Emitir las disposiciones normativas que complementen y/o interpreten las políticas, lineamientos, normas y procedimientos de crédito, de reporto y de otros financiamientos;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+IV. Difundir las disposiciones normativas que complementen las políticas, lineamientos, normas y procedimientos de crédito, de reporto y de otros financiamientos;
 
 > <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
 
@@ -807,9 +855,13 @@ Las Gerencias mencionadas en el párrafo anterior, dependerán en materia técni
 
 VII. Atraer los asuntos en materia crediticia, que a consideración del Director General deban ser atendidos directamente por dicho servidor público;
 
-VIII. Dictar mecanismos para la supervisión y la cobranza extrajudicial de la cartera crediticia de la Financiera;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-IX. Dictar lineamientos, políticas y procedimientos para la cobranza administrativa y extrajudicial de la cartera crediticia de la Financiera;
+VIII. Establecer mecanismos para la supervisión y la cobranza extrajudicial de la cartera crediticia de la Financiera, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+IX. Establecer, emitir y difundir, acciones, instrucciones, planes, procesos, procedimientos y circulares, en materia de cobranza administrativa y extrajudicial de la cartera crediticia de la Financiera, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 X. Instrumentar las acciones para verificar que las operaciones de financiamiento se apeguen a la normatividad vigente y a los términos y condiciones aprobados por los órganos e instancias facultadas;
 
@@ -823,7 +875,9 @@ XIII. Instrumentar las acciones para el seguimiento al proceso de crédito;
 
 XIV. Dirigir las acciones de capacitación en materia de normatividad, procesos y análisis de crédito, de reporto y de otros financiamientos;
 
-XV. Dictar las estrategias de recuperación, de casos particulares, en coordinación con la Dirección General Adjunta Jurídica y Fiduciaria;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+XV. Establecer, emitir y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares en materia de recuperación de casos particulares, en coordinación con la Dirección General Adjunta Jurídica y Fiduciaria, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 XVI. Instrumentar las acciones para la calificación de la cartera crediticia, y
 
@@ -947,7 +1001,9 @@ X. Llevar a cabo las actividades dentro del área de su competencia, que le enco
 
 Corresponde a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional:
 
-I. Establecer y dirigir los programas, planes, proyectos, acciones, políticas y compromisos en materia de promoción, capacitación, asesoría, consultoría, organización y otras modalidades, destinados al diseño, incubación y fortalecimiento de proyectos productivos, empresas agropecuarias, rurales, forestales y pesqueras, entidades dispersoras de crédito e Intermediarios Financieros Rurales;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+I. Establecer, emitir y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares, en materia de promoción, capacitación, asesoría, consultoría, organización y otras modalidades, destinados al diseño, incubación y fortalecimiento de proyectos productivos, empresas agropecuarias, rurales, forestales y pesqueras, entidades dispersoras de crédito e Intermediarios Financieros Rurales, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 II. Establecer y dirigir estrategias para simplificar la atención de los usuarios de los servicios crediticios de la Financiera, mediante la asociación de los Productores y el desarrollo de proyectos productivos, empresas agropecuarias, rurales, forestales y pesqueras, entidades dispersoras de crédito e Intermediarios Financieros Rurales;
 
@@ -1195,11 +1251,17 @@ VI. Proponer las políticas, bases, lineamientos y programas anuales sobre adqui
 
 VII. Proponer las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos sobre adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios que la Financiera deba celebrar con terceros en estas materias, de conformidad con las normas aplicables, para la aprobación de las instancias correspondientes;
 
-VIII. Aprobar políticas sobre la utilización, conservación, salvaguarda y aseguramiento de los bienes muebles e inmuebles que sean patrimonio de la Financiera;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-IX. Dictar las normas en materia de almacenes y supervisar los sistemas de control de inventarios de bienes, dictaminando, controlando y vigilando su afectación, baja y destino final;
+VIII. Establecer, emitir, y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares, sobre la utilización, conservación, salvaguarda y aseguramiento de los bienes muebles e inmuebles que sean patrimonio de la Financiera, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
-X. Aprobar políticas de seguridad, vigilancia y protección civil que resguarden la integridad del personal, y salvaguarden los bienes muebles e inmuebles patrimonio de la Financiera;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+IX. Establecer, emitir, y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares, en materia de almacenes y supervisar los sistemas de control de inventarios de bienes, dictaminando, controlando y vigilando su afectación, baja y destino final, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+X. Establecer, emitir y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares de seguridad, vigilancia y protección civil que resguarden la integridad del personal, y salvaguarden los bienes muebles e inmuebles patrimonio de la Financiera, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 XI. Instrumentar, resolver y ejecutar los procedimientos de rescisión administrativa, terminación anticipada y suspensión que se implementen en la Financiera, derivados de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y sus respectivos reglamentos, y
 
@@ -1311,15 +1373,25 @@ XV. Llevar a cabo las demás actividades dentro del área de su competencia, que
 
 Corresponde a la Dirección General Adjunta de Finanzas, Operaciones y Sistemas:
 
-I. Dictar estrategias y políticas en materia contable y fiscal, encaminadas al cumplimiento de las obligaciones que al respecto tiene la Institución de acuerdo a las leyes y normas vigentes;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-II. Procurar por la salud financiera de la Institución; dictar estrategias y políticas relativas a la planeación financiera y administración de la tesorería de la Financiera;
+I. Establecer, emitir y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares, en materia contable y fiscal, encaminadas al cumplimiento de las obligaciones que al respecto tiene la Institución de acuerdo a las leyes y normas vigentes, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
-III. Dictar políticas y estrategias en materia presupuestal;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-IV. Dictar estrategias y políticas en materia operativa, encaminadas al cumplimiento de la supervisión y control de la dispersión, aplicación de la concentración de recursos, conciliación operativo-contable de las operaciones y administración de las Bases de Datos Institucionales;
+II. Procurar por la salud financiera de la Institución; establecer, emitir, y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares, relativas a la planeación financiera y administración de la tesorería de la Financiera, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
-V. Dictar estrategias y políticas en materia operativa asociadas a las diversas fuentes de fondeo disponibles en el mercado, encaminadas al cumplimiento de la supervisión y control operativo, contable o de tesorería que requieran dichos esquemas;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+III. Establecer, emitir, y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares en materia presupuestal, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+IV. Establecer, emitir y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares en materia operativa, encaminadas al cumplimiento de la supervisión y control de la dispersión, aplicación de la concentración de recursos, conciliación operativo-contable de las operaciones y administración de las Bases de Datos Institucionales, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+V. Establecer, emitir y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares en materia operativa asociadas a las diversas fuentes de fondeo disponibles en el mercado, encaminadas al cumplimiento de la supervisión y control operativo, contable o de tesorería que requieran dichos esquemas, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 VI. Realizar las gestiones de autorización ante las instancias competentes, para la contratación de créditos de las Instituciones de Banca de Desarrollo, de los Fideicomisos Públicos de Fomento, de los Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y de los Organismos Financieros Internacionales, en términos de las disposiciones aplicables, cuyos recursos se destinen al sector de atención de la Financiera, registrando en su caso y vigilando el comportamiento de la deuda;
 
@@ -1329,13 +1401,21 @@ VIII. Dirigir el análisis, diseño, construcción e implementación de los sist
 
 IX. Dirigir la operación, administración y crecimiento de la plataforma informática de la Financiera;
 
-X. Dictar estrategias y políticas para la planeación y administración de la plataforma informática institucional;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-XI. Aprobar políticas sobre el ejercicio del gasto en las unidades administrativas de la Financiera;
+X. Establecer, emitir y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares para la planeación y administración de la plataforma informática institucional, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
-XII. Aprobar políticas, programas y medidas en materia de austeridad y racionalidad en el ejercicio del gasto;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-XIII. Definir estrategias y políticas encaminadas al desarrollo e implementación del sistema de gestión de calidad y el programa de certificación y mejora continua, así como la administración de las Bases de Datos de la Financiera, y
+XI. Establecer, emitir y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares sobre el ejercicio del gasto en las unidades administrativas de la Financiera, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+XII. Establecer, emitir y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares en materia de austeridad y racionalidad en el ejercicio del gasto, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+XIII. Establecer, emitir y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares, encaminados al desarrollo e implementación del sistema de gestión de calidad y el programa de certificación y mejora continua, así como la administración de las Bases de Datos de la Financiera, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 > <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
 
@@ -1387,17 +1467,25 @@ I. Establecer directrices para la planeación financiera;
 
 II. Supervisar la conformación de los informes de auto-evaluación;
 
-III. Dictar lineamientos en materia contable y fiscal, encaminados al cumplimiento de las obligaciones que al respecto tiene la Institución de acuerdo a las leyes y normas vigentes;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-IV. Dictar lineamientos para el cumplimiento de las normas y políticas para el registro contable, control y reportes a las autoridades de acuerdo a las distintas directrices establecidas por las autoridades financieras;
+III. Proponer, ejecutar y supervisar acciones, instrucciones, planes, procesos, procedimientos y circulares en materia contable y fiscal, encaminados al cumplimiento de las obligaciones que al respecto tiene la Institución de acuerdo a las leyes y normas vigentes y en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
-V. Emitir lineamientos para el control de pagos relacionados con los servicios administrados por el área de recursos materiales y servicios;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+IV. Proponer, ejecutar y supervisar acciones, instrucciones, planes, procesos, procedimientos y circulares para el cumplimiento de las normas y políticas para el registro contable, control y reportes a las autoridades de acuerdo a las distintas directrices establecidas por las autoridades financieras y en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+V. Proponer, ejecutar y supervisar acciones, instrucciones, planes, procesos, procedimientos y circulares para el control de pagos relacionados con los servicios administrados por el área de recursos materiales y servicios, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 VI. Proponer estrategias y proyectos encaminados a mejorar los resultados financieros institucionales;
 
 VII. Supervisar y dirigir el proceso de programación, presupuestación, control y seguimiento presupuestal, en apego a la normatividad establecida;
 
-VIII. Establecer los lineamientos para generar la información presupuestal para responder a los requerimientos internos y externos de las autoridades;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+VIII. Proponer, ejecutar y supervisar acciones, instrucciones, planes, procesos, procedimientos y circulares para generar la información presupuestal para responder a los requerimientos internos y externos de las autoridades, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 IX. Proponer políticas sobre el ejercicio del gasto en las unidades administrativas de la Financiera;
 
@@ -1469,7 +1557,9 @@ VIII. Realizar las demás funciones y/o responsabilidades dentro del ámbito de 
 
 Corresponde a la Subdirección Corporativa de Tesorería:
 
-I. Emitir lineamientos y procedimientos para la administración de la posición y flujo de efectivo en moneda nacional y extranjera de la tesorería en apego a la normatividad establecida;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+I. Emitir y supervisar procesos, acciones, procedimientos y circulares para la administración de la posición y flujo de efectivo en moneda nacional y extranjera de la tesorería en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo, así como a la normatividad establecida;
 
 II. Supervisar y evaluar la ejecución de los procesos básicos de la tesorería: dispersión, concentración, inversión, valuación, cierre y conciliación operativa contable, de acuerdo a la normatividad vigente;
 
@@ -1501,7 +1591,9 @@ II. Establecer los mecanismos de registro y conciliación de las operaciones de 
 
 III. Establecer los mecanismos para la administración, control y operación de los procesos relacionados con las operaciones de financiamiento;
 
-IV. Establecer los lineamientos y mecanismos por los cuales optimice, con base en las necesidades de operación de la Financiera, la funcionalidad de los sistemas, relativos a la operación de financiamientos;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+IV. Proponer, ejecutar y supervisar acciones, instrucciones, planes, procesos, procedimientos y circulares, para la optimización y funcionalidad de los sistemas, relativos a la operación de financiamientos, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 V. Establecer mecanismos de supervisión sobre la aplicación de la concentración de los recursos recibidos;
 
@@ -1511,11 +1603,13 @@ VII. Establecer los mecanismos para la coordinación general del proceso, la adm
 
 VIII. Establecer los mecanismos para la administración, supervisión y control de las conciliaciones con la fuente de Fondeo, así como el registro contable, de pagos y recuperaciones de los recursos fondeados;
 
-IX. Establecer los lineamientos para la administración del sitio web a través del cual los acreditados pueden conocer el saldo de los créditos y operaciones contratadas con la Financiera, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
 
-> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+IX. Establecer las acciones para la administración del sitio web a través del cual los acreditados pueden conocer el saldo de los créditos y operaciones contratadas con la Financiera, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo,
 
-IX. BIS. Coadyuvar en la preparación de la información financiera que por Ley y disposiciones normativas debe ser entregada a las entidades reguladoras de la Institución para cumplir con las disposiciones establecidas en esta materia; y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+IX. BIS. Coadyuvar en la preparación de la información financiera que por Ley y disposiciones normativas debe ser entregada a las entidades reguladoras de la Institución para cumplir con las disposiciones establecidas en esta materia, y
 
 X. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas.
 
@@ -1605,7 +1699,9 @@ III. Ejecutar los proyectos en relación con las adecuaciones, actualizaciones y
 
 IV. Ejecutar proyectos relativos a la operación y seguridad informática de la Financiera tendientes a preservar la integridad de los sistemas de cómputo y telecomunicaciones, así como la salvaguarda de la información Institucional;
 
-V. Definir lineamientos para la identificación y evaluación de los requerimientos de bienes y servicios informáticos;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+V. Implementar mecanismos para la identificación y evaluación de los requerimientos de bienes y servicios informáticos, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 VI. Proponer y desarrollar estrategias para la mejora continua y optimización de los procesos definidos dentro de la función de Tecnologías de Información bajo la aplicación de marcos referenciales, estándares y mejores prácticas de la industria;
 
@@ -1681,7 +1777,9 @@ I. Acordar con el Director General los asuntos de su competencia, e informarle s
 
 II. Preparar los asuntos de su competencia que el Director General deba someter a la consideración y aprobación del Consejo;
 
-III. Dentro de su ámbito de competencia, dictar las estrategias, planes, normas, acuerdos y políticas necesarias para la consecución de los fines de la Financiera, con apego a la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+III. En el ámbito de su competencia, establecer, emitir y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 IV. Resolver los asuntos relacionados con su ámbito de competencia, que no estén expresamente asignados a otra unidad administrativa de la Financiera y con excepción de aquellos que, con carácter indelegable, correspondan al Consejo o al Director General;
 
@@ -1717,7 +1815,9 @@ Corresponde de manera genérica a las Direcciones Ejecutivas y Subdirecciones Co
 
 I. Acordar con su superior jerárquico los asuntos de su competencia, e informarle sobre el desarrollo de las actividades de las unidades administrativas a su cargo;
 
-II. Dentro de su ámbito de competencia, dictar los programas, proyectos, reglas, lineamientos, circulares, manuales y procedimientos necesarios para la consecución de los fines de la Financiera, con arreglo a normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2021)</small>
+
+II. En el ámbito de su competencia, establecer emitir y difundir acciones, instrucciones, planes, procesos, procedimientos y circulares, en apego a los lineamientos, políticas y estrategias autorizadas por el Consejo Directivo;
 
 III. Resolver los asuntos relacionados con su ámbito de competencia, que no estén expresamente asignados a otra unidad administrativa de la Financiera, con excepción de aquellos que, con carácter indelegable, correspondan al Consejo o al Director General;
 
@@ -2272,3 +2372,9 @@ PRIMERO.- Las presentes reformas, adiciones y derogaciones del Estatuto Orgánic
 SEGUNDO.- Los asuntos pendientes de resolver al entrar en vigor las reformas, adiciones y derogaciones del Estatuto Orgánico, que, conforme al mismo, su atención deba pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente.
+
+D.O.F. 2 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “REFORMAS Y ADICIONES DE DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO”.]
+
+PRIMERO.- Las presentes reformas y adiciones del Estatuto Orgánico entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
