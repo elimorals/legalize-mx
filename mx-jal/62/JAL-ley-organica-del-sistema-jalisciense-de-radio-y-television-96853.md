@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-sistema-jalisciense-de-radio-y-television-9685
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-12-07"
-last_updated: "2019-12-28"
+last_updated: "2021-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL SISTEMA JALISCIENSE DE RADIO Y TELEVISIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de diciembre de 2013.
 
@@ -43,15 +43,25 @@ LEY ORGÁNICA DEL SISTEMA JALISCIENSE DE RADIO Y TELEVISIÓN
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2021)</small>
+
 ###### Artículo 1°.
 
-Se crea el organismo público descentralizado del Poder Ejecutivo denominado Sistema Jalisciense de Radio y Televisión, que como persona jurídica de derecho público, contará con personalidad jurídica y patrimonio propios, el cual estará sectorizado en la Secretaría de Cultura.
+Se crea el organismo público descentralizado del Poder Ejecutivo denominado Sistema Jalisciense de Radio y Televisión, que como persona jurídica de derecho público, contará con personalidad jurídica y patrimonio propio.
 
 El domicilio del Sistema Jalisciense de Radio y Televisión estará en el área metropolitana de Guadalajara, Jalisco, independientemente de la ubicación de cada una de las estaciones de radio y televisión que operen en el Estado.
 
 ###### Artículo 2°.
 
 Para efectos de la presente Ley, cuando se haga referencia al Organismo se entenderá que se trata del Sistema Jalisciense de Radio y Televisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE ABRIL DE 2021)</small>
+
+El Organismo prestará los servicios de telecomunicaciones y radio difusión a través de las concesiones otorgadas a favor del Gobierno del Estado de Jalisco o del propio organismo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE ABRIL DE 2021)</small>
+
+En la prestación de dichos servicios estará prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### Artículo 3°.
 
@@ -61,7 +71,9 @@ El Organismo contará con independencia editorial; autonomía de gestión financ
 
 El Organismo tendrá como objeto:
 
-I. Operar las frecuencias de radio y televisión permisionadas o concesionadas por la dependencia federal competente;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
+
+I. Operar las frecuencias de radio y televisión concesionadas por la dependencia federal competente;
 
 II. Prestar servicios de comunicación e información públicos en los términos de las disposiciones federales aplicables;
 
@@ -85,11 +97,15 @@ IX. Las demás que se requieran para el logro de su objeto.
 
 Para el cumplimiento de su objeto, el Organismo tendrá las siguientes atribuciones:
 
-I. Ejercer los derechos de uso y explotación de los permisos federales o las concesiones en materia de radiodifusión con que cuenta el Estado de Jalisco y las que en el futuro se incorporen;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
+
+I. Ejercer los derechos de uso y explotación de las concesiones en materia de radiodifusión con que cuenta el Estado de Jalisco y las que en el futuro se incorporen;
 
 II. Planear, desarrollar, dirigir, vigilar y evaluar las actividades de radio, televisión y cinematografía que desarrolle en cumplimiento de su objeto;
 
-III. Diseñar, producir y difundir programas radiofónicos, televisivos y cinematográficos que promuevan la comunicación entre los distintos sectores de la sociedad;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
+
+III. Diseñar, producir y difundir contenidos para radio, televisión, redes sociales y cine que promuevan la comunicación entre los distintos sectores de la sociedad;
 
 IV. Apoyar la difusión de la cultura y fortalecer la identidad estatal y nacional;
 
@@ -101,7 +117,9 @@ VII. Apoyar programas educativos, de productividad, calidad, ecológicos, de asi
 
 VIII. Desarrollar planes, programas, proyectos e inversiones para mejorar y modernizar sus servicios, equipos e infraestructura;
 
-IX. Promover la difusión, mercadotecnia, comercialización y autofinanciamiento del Organismo y sus servicios;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
+
+IX. Promover la difusión, mercadotecnia, comercialización y autofinanciamiento del Organismo, sus servicios y productos;
 
 X. Realizar proyectos y acciones para ampliar su potencia y cobertura territorial;
 
@@ -119,41 +137,39 @@ I. Una Junta de Gobierno;
 
 II. Un Director General;
 
-III. Un Consejo Consultivo;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
 
-IV. Un Órgano de Vigilancia; y
+III. Un Consejo Ciudadano;
+
+IV. (DEROGADA, P.O. 3 DE ABRIL DE 2021)
 
 V. La estructura administrativa que establezca su reglamento interno con sujeción al presupuesto de egresos.
 
 ### CAPÍTULO III. DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2021)</small>
+
 ###### Artículo 7°.
 
-La Junta de Gobierno estará integrada por:
+La Junta de Gobierno estará integrada por las personas titulares de las siguientes dependencias y entidades:
 
-I. Un presidente, que será el Gobernador o la persona que éste designe;
+I. Un presidente, que será el Gobernador o la persona que éste designe:
 
-II. Secretario de Cultura;
+II. Secretaría de Cultura;
 
-III. Secretario de Educación;
+III. Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+IV. Secretaría de la Hacienda Pública;
 
-IV. Secretario de la Hacienda Pública;
+V. Contraloría del Estado;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+VI. Coordinación General de Comunicación del Gobierno del Estado; y
 
-V. El Contralor del Estado;
+VII. Dirección General del Organismo, que fungirá como Secretaría Técnica.
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+Cada integrante designará a su respectivo suplente; tendrá voz y voto dentro de la Junta de Gobierno, con excepción de la Secretaría Técnica y la Contraloría del Estado, quienes solo tendrán voz.
 
-VI. El Director General de Comunicación Social del Gobierno del Estado; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2015)</small>
-
-VII. El Director General del Organismo, quien fungirá como Secretario Técnico.
-
-Cada miembro integrante tendrá voz y voto dentro de la Junta de Gobierno, con excepción del Secretario Técnico y el Contralor del Estado, quienes solo tendrán voz. Por cada miembro propietario habrá un suplente.
+La Coordinación General Estratégica de Desarrollo Social, será invitada permanentemente de la Junta de Gobierno, quien solo tendrá derecho a voz.
 
 ###### Artículo 8°.
 
@@ -185,7 +201,9 @@ e) Los informes que rinda el Director General;
 
 f) El establecimiento de comités técnicos especializados con funciones de apoyo en el desarrollo de estas actividades, sin crear nuevas plazas o remuneraciones especiales para ello;
 
-II. Aprobar anualmente, previo informe del Órgano de Vigilancia, los dictámenes, las auditorías practicadas, así como los estados financieros del Organismo y autorizar la publicación de los mismos;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
+
+II. Aprobar anualmente, los dictámenes, las auditorías practicadas, así como los estados financieros del Organismo de conformidad con la normatividad aplicable y autorizar la gestión de la publicación de los mismos;
 
 III. Aprobar, en términos de las disposiciones legales aplicables, las políticas, bases y programas generales a que deben apegarse los convenios, contratos o acuerdos que celebre el Organismo con terceros en materia de obra pública, adquisiciones, arrendamientos y servicios;
 
@@ -219,35 +237,43 @@ I. Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos; y
 
 II. Contar con título profesional preferentemente en el ramo de la comunicación o las telecomunicaciones, o acreditar experiencia en las mismas al momento de su designación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2021)</small>
+
 ###### Artículo 14.
 
-El Director General tendrá las siguientes atribuciones:
+La Dirección General tendrá las siguientes atribuciones:
 
-I. Administrar y representar legalmente al Organismo con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades que requieran cláusula especial conforme a la ley, y sustituir y delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente;
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2021)</small>
 
-II. Cumplir las disposiciones de la Junta de Gobierno y aquéllas que normen el funcionamiento del Organismo;
+I. Dirigir la política de contenidos del Organismo, en coordinación con las dependencias y entidades competentes;
 
-III. Conducir el funcionamiento del Organismo, vigilando el cumplimiento de su objeto y el desempeño de las unidades administrativas;
+II. Administrar y representar legalmente al Organismo con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades que requieran cláusula especial conforme a la ley, y sustituir y delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente;
 
-IV. Proponer a la Junta de Gobierno las políticas generales del Organismo;
+III. Cumplir las disposiciones de la Junta de Gobierno y aquéllas que normen el funcionamiento del Organismo;
 
-V. Presentar a la Junta de Gobierno, para su valoración y, en su caso, autorización, los proyectos de presupuesto anual de ingresos y egresos;
+IV. Conducir el funcionamiento del Organismo, vigilando el cumplimiento de su objeto y el desempeño de las unidades administrativas;
 
-VI. Presentar el plan institucional y los programas operativos anuales del Organismo y los demás instrumentos de planeación y programación que les corresponda;
+V. Proponer a la Junta de Gobierno las políticas generales del Organismo;
 
-VII. Presentar a la Junta de Gobierno un informe trimestral de los estados financieros del Organismo;
+VI. Presentar a la Junta de Gobierno, para su valoración y, en su caso, autorización, los proyectos de presupuesto anual de ingresos y egresos;
 
-VIII. Proponer, para su nombramiento, a los funcionarios públicos del nivel inmediato inferior al suyo;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
 
-IX. Nombrar y remover al personal del Organismo, con excepción del señalado en la fracción anterior, de conformidad a la legislación en la materia y demás movimientos administrativos de personal;
+VII. Presentar el plan institucional del Organismo y los demás instrumentos de planeación y programación que les corresponda;
 
-X. Celebrar convenios, contratos y acuerdos para el cumplimiento del objeto del Organismo, dando cuenta de ello a la Junta de Gobierno;
+VIII. Presentar a la Junta de Gobierno un informe trimestral de los estados financieros del Organismo;
 
-XI. Someter a consideración de la Junta de Gobierno los reglamentos, manuales administrativos, acuerdos y demás disposiciones competencia del Organismo;
+IX. Proponer, para su nombramiento, a los funcionarios públicos del nivel inmediato inferior al suyo;
 
-XII. Fungir como Secretario Técnico de la Junta de Gobierno y concurrir a las sesiones con voz pero sin voto; y
+X. Nombrar y remover al personal del Organismo, con excepción del señalado en la fracción anterior, de conformidad a la legislación en la materia y demás movimientos administrativos de personal;
 
-XIII. Las demás que le confieran la Junta de Gobierno y las disposiciones legales aplicables.
+XI. Celebrar convenios, contratos y acuerdos para el cumplimiento del objeto del Organismo, dando cuenta de ello a la Junta de Gobierno;
+
+XII. Someter a consideración de la Junta de Gobierno los reglamentos, manuales administrativos, acuerdos y demás disposiciones competencia del Organismo;
+
+XIII. Fungir como Secretario Técnico de la Junta de Gobierno y concurrir a las sesiones con voz pero sin voto; y
+
+XIV. Las demás que le confieran la Junta de Gobierno y las disposiciones legales aplicables.
 
 ###### Artículo 15.
 
@@ -257,15 +283,21 @@ El Director General se auxiliará para el desempeño de sus atribuciones, de las
 
 El Director General será suplido en sus ausencias menores de 15 días, por el servidor público de la jerarquía inmediata inferior que determine el reglamento interno o quien él designe. En las ausencias mayores de 15 días, será suplido por quien designe la Junta de Gobierno.
 
-### CAPÍTULO V. DEL CONSEJO CONSULTIVO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ABRIL DE 2021)</small>
+
+### CAPÍTULO V. DEL CONSEJO CIUDADANO
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2021)</small>
 
 ###### Artículo 17.
 
-El Organismo contará con un Consejo Consultivo, como órgano de opinión y consulta en el ámbito de atribuciones del propio Organismo.
+El Organismo cuenta con un Consejo Ciudadano, encargado de promover una política editorial imparcial, como órgano de opinión y consulta respecto de las acciones, políticas, programas y proyectos que desarrolle el Organismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2021)</small>
 
 ###### Artículo 18.
 
-El Consejo Consultivo tendrá las siguientes funciones:
+El Consejo Ciudadano tiene las siguientes funciones:
 
 I. Analizar, proponer y asesorar a la Junta de Gobierno sobre los objetivos y políticas de programación, contenidos y estructura de las transmisiones de radio y televisión, así como de los eventos a cargo del Organismo;
 
@@ -273,31 +305,37 @@ II. Realizar diagnósticos, estudios, opiniones y formular propuestas o recomend
 
 III. Proponer al Organismo programas que fomenten el desarrollo cultural en su sentido más amplio, democrático, participativo y plural, de los diversos sectores que constituyen la población en general;
 
-IV. Colaborar con el Organismo para elevar el nivel de la comunicación pública cultural, en diálogo y concertación con otras expresiones culturales de la nación y del mundo; y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
 
-V. Las demás que le asignen otros ordenamientos aplicables.
+IV. Colaborar con el Organismo para elevar el nivel de la comunicación pública cultural, en diálogo y concertación con otras expresiones culturales de la nación y del mundo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2021)</small>
+
+V. Emitir recomendaciones al Organismo para promover su independencia editorial, así como una política imparcial y objetiva;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2021)</small>
+
+VI. Presentar ante la Junta de Gobierno un informe anual de sus actividades; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE ABRIL DE 2021)</small>
+
+VII. Las demás que le asignen otros ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2021)</small>
 
 ###### Artículo 19.
 
-El Consejo Consultivo se integrará de la siguiente manera:
+El Consejo Ciudadano se integra por cinco personas del ramo de la comunicación o las telecomunicaciones, que serán designados por el Titular del Poder Ejecutivo, de entre la terna que le sea propuesta por la Dirección General, previa convocatoria pública.
 
-I. El Secretario de Cultura o quien éste designe en su representación, quien lo presidirá;
+El cargo que se desempeñe dentro del Consejo de (sic) Ciudadano es honorífico y, por tanto, no remunerado, el cual tendrá una duración de 3 años.
 
-II. El Director General del Organismo;
+Las personas integrantes del Consejo Ciudadano designarán de entre ellas a quienes ostentarán la Presidencia y la Secretaría Ejecutiva.
 
-III. Un representante del Centro SCT Jalisco;
-
-IV. Un representante de la Secretaría Innovación, Ciencia y Tecnología; y
-
-V. Siete vocales ciudadanos del ramo de la comunicación o las telecomunicaciones, que serán designados por el Titular del Poder Ejecutivo, de entre la terna que le sea propuesta por el Director General, previa convocatoria pública.
-
-El cargo que se desempeñe dentro del Consejo Consultivo será honorífico y, por tanto, no remunerado.
-
-Los miembros del Consejo Consultivo designarán, de entre sus miembros, a quien fungirá como Secretario Ejecutivo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2021)</small>
 
 ###### Artículo 20.
 
-Para poder ser designado como miembro vocal ciudadano del Consejo Consultivo se requiere:
+Para ser designado como integrante del Consejo de (sic) Ciudadano se requiere:
 
 I. Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos;
 
@@ -305,43 +343,35 @@ II. Ser mayor de 30 años de edad; y
 
 III. Contar con título profesional o experiencia en los ramos de la comunicación, ya sea en el ámbito profesional, en la docencia o la investigación.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE ABRIL DE 2021)</small>
+
+Para garantizar la pluralidad en el Consejo Ciudadano, la participación será a título personal y no podrán emitir opinión en representación de ninguna organización.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2021)</small>
+
 ###### Artículo 21.
 
-El desarrollo de las sesiones y demás aspectos inherentes a las funciones del Consejo Consultivo serán normadas en el reglamento interno del Organismo.
+El desarrollo de las sesiones y demás aspectos inherentes a las funciones del Consejo Ciudadano serán normadas en el reglamento interno del Organismo.
 
-### CAPÍTULO VI. DEL ÓRGANO DE VIGILANCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ABRIL DE 2021)</small>
+
+### CAPÍTULO VI. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2021)</small>
 
 ###### Artículo 22.
 
-El Órgano de Vigilancia se integrará por un Comisario público propietario y un suplente, designados por la Contraloría del Estado.
+La persona titular del Órgano Interno de Control del Organismo será designada por el titular de la Contraloría del Estado, estará subordinado a esta y su funcionamiento y atribuciones se sujetarán a las disposiciones legales aplicables y las que determine la Contraloría en el acuerdo o lineamientos que expida para tales efectos.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2021)</small>
 
 ###### Artículo 23.
 
-El Órgano de Vigilancia depende administrativamente del Director General, pero gozará de autonomía en el ejercicio de sus atribuciones.
+La estructura del Órgano referido en el artículo 22 será determinada por la Contraloría, así como por las Secretarías de Administración y de la Hacienda Pública, y deberá ajustarse a lo previsto en los artículos 115 de la Ley General de Responsabilidades Administrativas y 53 de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, así como a la Recomendación emitida por el Comité Coordinador del Sistema Estatal Anticorrupción sobre el Fortalecimiento Institucional de los Órganos Internos de Control.
 
 ###### Artículo 24.
 
-Los Comisarios tienen las siguientes atribuciones:
-
-I. Evaluar el desempeño general y por funciones del Organismo;
-
-II. Examinar y evaluar los sistemas, mecanismos y procedimientos de control;
-
-III. Realizar estudios sobre la eficiencia en el ejercicio del gasto corriente y de inversión;
-
-IV. Solicitar la información y efectuar los actos de visita, inspección y vigilancia que requieran para el cumplimiento de sus funciones;
-
-V. Apoyar la función directiva y promover el mejoramiento de gestión;
-
-VI. Efectuar revisiones y auditorías;
-
-VII. Vigilar que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables;
-
-VIII. Presentar a la Junta de Gobierno y al Director General los informes resultantes de las auditorias, exámenes y evaluaciones realizados; y
-
-IX. Las demás que establezca el Reglamento Interno del Organismo.
-
-La Junta de Gobierno, el Director General y las demás áreas del Organismo deben proporcionar la información que les soliciten los Comisarios y facilitar las diligencias de inspección y vigilancia que realicen.
+(DEROGADO, P.O. 3 DE ABRIL DE 2021)
 
 ### CAPÍTULO VII. DEL PATRIMONIO DEL ORGANISMO
 
@@ -349,7 +379,9 @@ La Junta de Gobierno, el Director General y las demás áreas del Organismo debe
 
 El patrimonio del Organismo se integrará con:
 
-I. Las concesiones y permisos de las frecuencias de radio y televisión que actualmente tiene el Gobierno de Jalisco y las que se incorporen en el futuro;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
+
+I. Las concesiones de las frecuencias de radio y televisión que actualmente tiene el Organismo, Gobierno de Jalisco y las que se incorporen en el futuro;
 
 II. Los bienes muebles e inmuebles que le otorgue el Estado y los que en el futuro adquiera por cualquier título legal para el cumplimiento de su objeto;
 
@@ -357,13 +389,17 @@ III. Las aportaciones en numerario, servicios y subsidios que proporcione el Est
 
 IV. Las aportaciones que perciba conforme a los convenios o contratos que celebre en el cumplimiento de su objeto;
 
-V. Los productos, comisiones y demás ingresos que obtenga por la prestación de sus servicios, las cuales se determinarán por la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
+
+V. Los productos, comisiones, patrocinios y demás ingresos que obtenga por la prestación de sus servicios, las cuales se determinarán por la Junta de Gobierno;
 
 VI. Los bienes y derechos que adquiera por cualquier título;
 
 VII. Los rendimientos que obtenga de la inversión de sus recursos;
 
-VIII. Las regalías que por el uso y usufructo programas, derechos de autor que provengan de la exposición y venta de la producción de obras cinematográficas, programas de radio y televisión, y en general cualquier creación artística o audiovisual que sean de su propiedad o que tenga en usufructo del Organismo; y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
+
+VIII. Las regalías que por el uso y usufructo de programas, derechos de autor que provengan de la exposición y venta de la transmisión de obras cinematográficas, programas de radio y televisión, y en general cualquier creación artística o audiovisual que sean de su propiedad o que tenga en usufructo del Organismo; y
 
 IX. Todos los demás bienes o derechos que perciba en ejercicio de sus atribuciones.
 
@@ -381,15 +417,21 @@ El Organismo administrará su patrimonio con sujeción a las disposiciones legal
 
 ### CAPÍTULO VIII. DEL PERSONAL DEL ORGANISMO
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2021)</small>
+
 ###### Artículo 29.
 
-Para el cumplimiento de su objeto, el Organismo contará con el personal de base y de confianza que se autorice el presupuesto anual de egresos.
+Las relaciones laborales entre el Organismo y sus trabajadores, se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+Para el cumplimiento de su objeto, el Organismo contará con el personal de base y de confianza que se autorice (sic) el presupuesto anual de egresos.
 
 ### CAPÍTULO IX. DEL DEFENSOR DE AUDIENCIA
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2021)</small>
+
 ###### Artículo 30.
 
-El Defensor de Audiencia es un órgano de auto-regulación que opera de acuerdo a los criterios del Código de Ética del propio organismo, que busca reconocer y velar por los derechos de la audiencia, criterios editoriales, calidad, variedad y veracidad de la información, motivar la participación ciudadana en un espacio de vinculación e interacción que nos ayude a construir un medio público.
+El Defensor de Audiencia es un órgano de auto-regulación que opera de acuerdo a los Lineamientos y al Código de Ética del propio organismo, que busca reconocer y velar por los derechos de la audiencia, criterios editoriales, calidad, variedad y veracidad de la información, motivar la participación ciudadana en un espacio de vinculación e interacción que nos ayude a construir un medio público.
 
 ###### Artículo 31.
 
@@ -419,9 +461,17 @@ II. Analizar la imparcialidad, veracidad, calidad y equilibrio de los contenidos
 
 III. Emitir recomendaciones y observaciones al Director General sobre los contenidos y programación del Organismo;
 
-IV. Contar con un espacio en la programación del Organismo para difundir contenidos relativos al acceso a la información y los derechos de las audiencias; y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
 
-V. Promover la educación para los medios en las audiencias.
+IV. Contar con un espacio en la programación del Organismo para difundir contenidos relativos al acceso a la información y los derechos de las audiencias;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
+
+V. Promover la educación para los medios en las audiencias; y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2021)</small>
+
+VI. Presentar un informe anual de actividades a la Junta de Gobierno del Organismo.
 
 ## TRANSITORIOS
 
@@ -498,3 +548,13 @@ P.O. 28 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27743/LXII/19 QUE REFORMA EL ARTÍCULO 7° DE LA LEY ORGÁNICA DEL SISTEMA JALISCIENSE DE RADIO Y TELEVISIÓN”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estada de Jalisco”.
+
+P.O. 3 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28329/LXII/21 QUE REFORMA LOS ARTÍCULOS 1°, 2°, 4° FRACCIÓN I, 5° FRACCIONES I, III Y IX, 6° FRACCIÓN III, 7°, 11 FRACCIÓN II, 14 FRACCIÓN VI, 17, 18 PRIMER PÁRRAFO Y FRACCIONES IV Y V, 19, 20, 21, 22, 23, 25 FRACCIONES I, V Y VIII, 29, 30 Y 33 FRACCIONES IV Y V; ASIMISMO LAS DENOMINACIONES DEL CAPÍTULO V "DEL CONSEJO CONSULTIVO", Y DEL CAPÍTULO VI "DEL ÓRGANO DE VIGILANCIA"; SE ADICIONAN LOS ARTÍCULOS 14 FRACCIÓN I, RECORRIÉNDOSE EN SU NUMERACIÓN LAS SUBSECUENTES, 18 FRACCIONES VI Y VII, Y 33 FRACCIÓN VI; Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 6° Y 24 DE LA LEY ORGÁNICA DEL SISTEMA JALISCIENSE DE RADIO Y TELEVISIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La persona titular de la Dirección General del Sistema Jalisciense de Radio y Televisión contará con un plazo de hasta 120 días a partir de la publicación del presente decreto para remitir al titular del Poder Ejecutivo, de conformidad con las disposiciones aplicables, los proyectos de reformas y adiciones necesarias a la reglamentación, a fin de adecuar la normatividad a lo dispuesto en este decreto.
+
+TERCERO. La persona titular de la Dirección General del Sistema Jalisciense de Radio y Televisión deberá emitir dentro de los 120 días naturales, contados a partir de la entrada en vigor del presente decreto, convocatoria pública para la elección de Consejeros Ciudadanos.
