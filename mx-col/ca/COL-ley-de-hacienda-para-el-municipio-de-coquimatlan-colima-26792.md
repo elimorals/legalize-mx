@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-coquimatlan-colima-26792"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2020-06-10"
+last_updated: "2021-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLÁN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -3291,6 +3291,14 @@ Para el ejercicio fiscal 2019, el pago de los derechos correspondientes al refre
 
 Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2021)</small>
+
+###### ARTÍCULO NOVENO.
+
+Para el ejercicio fiscal 2021, el pago de los derechos correspondientes al refrendo de la Licencia Comercial a la que se refiere el artículo 81, inciso a), numeral 30 de esta Ley, por única ocasión se les cobrará la cantidad correspondiente a 1 (una) UMA, y no de 50 (cincuenta) a 1000 (mil) UMAS, como actualmente lo establece, debiendo pagarse los refrendos de las Licencias Comerciales que se precisan, durante el mes de abril de 2021.
+
+Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que no tengan cubierto el pago de los derechos de la Licencia Comercial para el ejercicio fiscal 2020.
+
 El Gobernador del Estado dispondrá se imprima, publique, circule y observe.
 
 Dado en el Recinto Oficial del Poder Legislativo a los once días del mes de noviembre del año dos mil dos.
@@ -3484,3 +3492,11 @@ P.O. 10 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 278 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES, DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLÁN, COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 3 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436.- POR EL QUE SE APRUEBA OTORGAR INCENTIVOS FISCALES A FAVOR DE LOS CONTRIBUYENTES DEL MUNICIPIO DE COQUIMATLÁN, COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial “El Estado de Colima”
