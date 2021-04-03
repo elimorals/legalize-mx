@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-atencion-a-la-juventud-del-estado-de-jalisco-86844"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-24"
-last_updated: "2019-07-27"
+last_updated: "2021-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE ATENCION A LA JUVENTUD DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA EL DESARROLLO INTEGRAL DE LAS JUVENTUDES DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 3 DE ABRIL DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ATENCIÓN A LA JUVENTUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2021 (ABROGADO).
 
 Ley publicada en la sección III del Periódico Oficial del Estado de Jalisco, el sábado 24 de marzo de 2012.
 
@@ -768,3 +770,19 @@ P.O. 27 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27314/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA; LA LEY DE ATENCIÓN A LA JUVENTUD; LEY DE BENEMÉRITOS; LEY DE BIBLIOTECAS; LEY DE FOMENTO A LA CULTURA; LEY DE CULTURA FÍSICA Y DEPORTE, TODAS DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 3 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 28323/LXII/21 QUE EXPIDE LA LEY PARA EL DESARROLLO INTEGRAL DE LAS JUVENTUDES DEL ESTADO DE JALISCO; Y ABROGA LA LEY DE ATENCIÓN A LA JUVENTUD DEL ESTADO DE JALISCO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
+
+SEGUNDO. Se abroga la Ley de Atención a la Juventud del Estado de Jalisco contenida en el Decreto 23986/LIX/12, así como sus reformas y adiciones contenidas en los Decretos 24918/LX/14, 25825/LXI/16, 26274/LXI/17, 26857/LXI/18; y 27314/LXII/19.
+
+TERCERO. El reglamento de la presente Ley se expedirá en un término 90 días hábiles posteriores a la publicación del presente decreto.
+
+CUARTO. El Programa y las políticas públicas que se generen con la entrada en vigor de la presente Ley, se incorporarán al Plan Estatal de Gobernanza y Desarrollo, conforme lo dispone el articulo 33 párrafo tercero de la Ley de Planeación Participativa del Estado de Jalisco y sus Municipios.
+
+QUINTO. La Comisión Interinstitucional de las Juventudes deberá instalarse dentro de los 60 días hábiles posteriores a la publicación del presente decreto.
+
+SEXTO. El Consejo Consultivo de Juventudes deberá integrarse dentro de los días (sic) 90 días hábiles posteriores a la publicación del presente decreto.
