@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2020-12-29"
+last_updated: "2021-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -1763,73 +1763,77 @@ Artículo 83 sexies. Las empresas de redes de transporte tendrán los siguientes
 
 I. Garantizar que el servicio público de transporte que ofrecen se preste acatando las normas de calidad y operación correspondientes a su modalidad y clase, que se establecen en esta Ley y su Reglamento, conforme a la autorización correspondiente;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
 
-II. Proteger, orientar y respetar a los usuarios del servicio y a los conductores que lo presten, obligándose además a implementar en su programa informático o plataforma electrónica los mecanismos de seguridad necesarios que permitan la identificación tanto del usuario como del conductor para su reconocimiento al momento de la asignación y prestación del servicio;
+II. Proteger, orientar y respetar a los usuarios del servicio y a los conductores que lo presten, obligándose además a implementar en su programa informático o plataforma electrónica los mecanismos de seguridad necesarios que permitan la identificación tanto del usuario como del conductor al momento de la asignación y prestación del servicio;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE ABRIL DE 2021)</small>
 
 III. Implementar en su programa informático o plataforma electrónica las medidas necesarias para garantizar durante la prestación del servicio, la seguridad tanto del usuario como del conductor, mediante el uso de mecanismos de alerta o botón de enlace a números de emergencia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE ABRIL DE 2021)</small>
 
 IV. Solicitar como requisito para dar de alta en su programa informático o plataforma electrónica tanto al conductor como al usuario, copia de su identificación oficial o clave única de registro de población, debiendo proteger y resguardar los datos personales de conformidad con lo establecido en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
 
-V. En caso de fallecimiento del conductor, durante la prestación del servicio, la empresa de redes de transporte o el seguro contratado a favor del conductor, pagará a los beneficiarios que corresponda según la normativa aplicable, el equivalente a mínimo 120 unidades de medida y actualización;
+V. En caso de fallecimiento del conductor, durante la prestación del servicio, la empresa de redes de transporte o el seguro contratado por ésta, pagará a los beneficiarios que corresponda (sic) según la normativa aplicable, el equivalente a 120 unidades de medida y actualización;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE ABRIL DE 2021)</small>
 
 VI. Ofrecer los incentivos que éstas determinen a sus conductores en activo;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE ABRIL DE 2021)</small>
 
 VII. En caso que la póliza de seguro de uno de los prestadores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles registrado en la empresa de redes de transporte correspondiente, no se encuentre vigente, deberán responder de manera solidaria con éstos, por los daños que puedan causarse tanto a los ocupantes del vehículo, incluido el conductor, como a terceros, tanto en sus bienes como en sus personas, por accidentes ocurridos con motivo de la prestación del servicio, únicamente hasta por el monto igual a las sumas aseguradas requeridas para la póliza del seguro del vehículo;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE ABRIL DE 2021)</small>
 
 VIII. Verificar que los vehículos y conductores que presten el servicio de transporte de pasajeros bajo demanda mediante la aplicación móvil que administren cumplan con los requisitos que para esa modalidad establecen esta Ley y su Reglamento;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE ABRIL DE 2021)</small>
 
 IX. Inscribirse y mantener actualizada su incorporación en el Registro Estatal;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE ABRIL DE 2021)</small>
 
 X. Solicitar la renovación de la autorización para su funcionamiento;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE ABRIL DE 2021)</small>
 
 XI. Registrar los vehículos y conductores cuyo servicio se contrate mediante la aplicación móvil que administre, en los términos que disponga esta ley y su reglamento;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE ABRIL DE 2021)</small>
 
-XII. Mantener en sus aplicaciones móviles y página web de manera visible, permanente y de fácil acceso, las tarifas de cobro; así como implementar un sistema de cálculo de tarifas cuando la modalidad del servicio contratado así lo permitan;
+XII. Mantener en sus aplicaciones móviles y página web de manera visible, permanente y de fácil acceso, las tarifas de cobro; así como implementar un sistema de cálculo de tarifas cuando la modalidad del servicio contratado así lo permitan (sic);
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE ABRIL DE 2021)</small>
 
 XIII. Crear y mantener una página web permanente y vinculada a la aplicación móvil que administren, a efecto de poner a disposición del público, el catálogo de los vehículos que presten sus servicios a través de esa empresa de redes de transporte, los contratos de adhesión y condiciones de la prestación del servicio;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE ABRIL DE 2021)</small>
 
 XIV. Compartir con la Secretaría, las bases de datos que contengan la información de los propietarios de vehículos afectos al servicio que se encuentren afiliados a la aplicación móvil que administren, el número de vehículos que tiene cada uno, así como la información estadística que generen con motivo de la prestación del servicio de transporte; debiendo proteger y resguardar la relativa a los datos personales de los usuarios conforme a la legislación en la materia;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE ABRIL DE 2021)</small>
 
 XV. Prestar sin dilación alguna, todas las facilidades e información que le requieran las autoridades estatales, federales y municipales en el ejercicio de sus funciones. Tratándose de procesos de investigación Judicial o Ministerial, los datos personales de los propietarios y conductores de los vehículos deberán proporcionarlos en los términos de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE ABRIL DE 2021)</small>
 
 XVI. Verificar que los vehículos que presten el servicio de transporte de pasajeros bajo demanda mediante la aplicación móvil que administren, cumplan con las condiciones mecánicas y de seguridad previstas en las disposiciones reglamentarias aplicables;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
 
-XVII. Garantizar en los procesos de reclutamiento y actualización de información que propietarios y conductores de los vehículos que presten el servicio de transporte en sus plataformas electrónicas, no cuenten con antecedentes penales derivados de delitos contra la seguridad y libertad sexual, así como de delitos de secuestro, extorsión y privación ilegal de la libertad, debiendo actualizar cada año dicha información mediante los mecanismos conducentes. En caso contrario, procederá de inmediato a dar de baja al conductor de su aplicación móvil, para la prestación del servicio en esta modalidad; y
+XVII. Garantizar en los procesos de reclutamiento y actualización de información que propietarios y conductores de los vehículos que presten el servicio de transporte en sus plataformas electrónicas, no cuenten con antecedentes penales derivados de delitos contra la seguridad y libertad sexual, así como los delitos de secuestro, extorsión y privación ilegal de la libertad, debiendo actualizar cada año dicha información mediante los mecanismos conducentes. En caso contrario, procederá de inmediato a dar de baja al conductor de su aplicación móvil, para la prestación del servicio en esta modalidad;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2021)</small>
 
-XVIII. Suscribir con el Estado un convenio de colaboración para la constitución de un fondo económico al que podrán aportar las empresas de redes de transporte, cuyos recursos se destinarán a los fines o programas públicos que se determinen en el presupuesto de egresos respectivo.
+XVIII. Suscribir con el Estado un convenio de colaboración para la constitución de un fondo económico al que podrán aportar las empresas de redes de transporte, cuyos recursos se destinarán a los fines o programas públicos que se determinen en el presupuesto de egresos respectivo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2021)</small>
+
+XIX. Promover medidas que le garanticen al usuario del servicio, poder abrir puertas y ventanas del vehículo para acceder al exterior en todo momento, como medida de seguridad y prevención de todo tipo de violencia.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
 
@@ -4644,3 +4648,15 @@ P.O. 29 DE DICIEMBRE DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Gobernador Constitucional del Estado de Jalisco dispondrá de noventa días naturales a partir de la publicación del presente decreto, para realizar las adecuaciones necesarias al Reglamento de la Ley de Movilidad y Transporte del Estado de Jalisco.
+
+P.O. 3 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28330/LXII/21 QUE REFORMA EL ARTÍCULO 83 SEXIES DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto se publicará en el periódico oficial "El Estado de Jalisco" y su vigencia será de conformidad con lo siguiente:
+
+I. La reforma al artículo 83 Sexies fracciones II, III y IV, entrará en vigor a los 355 días posteriores a su publicación.
+
+II. La reforma al artículo 83 Sexies fracción XIX, entrará en vigor a los 51 días naturales posteriores a su publicación.
+
+III. El resto de la reforma entrará en vigor al día siguiente de su publicación.
