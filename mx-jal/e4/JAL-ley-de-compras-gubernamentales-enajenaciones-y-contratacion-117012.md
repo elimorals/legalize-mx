@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-compras-gubernamentales-enajenaciones-y-contratacion-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-27"
-last_updated: "2021-03-04"
+last_updated: "2021-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 27 de octubre de 2016.
 
@@ -547,11 +547,27 @@ IV. Por el magistrado expresamente señalado en la normatividad secundaria del P
 
 1. El Secretario Técnico será el titular de la unidad centralizada de compras del ente público. En el caso del Comité de la Administración Centralizada del Poder Ejecutivo, el secretario técnico será el servidor público que designe su Presidente.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2021)</small>
+
 ###### Artículo 28.
 
 1. Las sesiones del Comité se verificarán ordinariamente en forma quincenal excepto cuando no se tengan asuntos que tratar; y extraordinariamente cuantas veces sea necesario.
 
-2. El Comité únicamente sesionará cuando se encuentren presentes la mayoría de sus integrantes. En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
+2. En casos fortuitos, de fuerza mayor o cuando existan causas que ponga en riesgo la vida, la salud e integridad de las personas que integran el Comité, que impidan la posibilidad de reunirse de manera presencial en un mismo lugar; las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas que permitan, cumpliendo con lo siguiente:
+
+I. La identificación visual plena de los integrantes del Comité;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Se debe garantizar la conexión permanente de todos los miembros del Comité, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participantes de todos los integrantes; y
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+
+3. En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
+
+4. El Comité únicamente sesionará cuando se encuentren presentes la mayoría de sus integrantes. En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 29.
 
@@ -2020,3 +2036,13 @@ TERCERO. Los ayuntamientos de los municipios cuya población sea mayor a los 200
 En el caso de los Ayuntamientos de los municipios cuya población sea menor a los 200 mil habitantes, el plazo al que se refiere al (sic) párrafo anterior será de hasta 240 días naturales contados a partir del día siguiente en que entre en vigor el presente decreto.
 
 CUARTO. Una vez instalado el Comité Técnico y a partir de esa fecha, el Titular del mismo deberá de rendir un informe semestral ante este Comité Técnico para exponer avances y destino de los recursos.
+
+P.O. 3 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28332/LXII/21 QUE MODIFICA EL ARTÍCULO 28 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. El Ejecutivo del Estado de Jalisco, antes del 31 de diciembre de 2021, deberá realizar las adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.
+
+Tercero. Los ayuntamientos del Estado de Jalisco, antes del 31 de Diciembre de 2021, deberán realizarlas (sic) adecuaciones reglamentarias, normativas y administrativas necesarias para la implementación del presente decreto.
