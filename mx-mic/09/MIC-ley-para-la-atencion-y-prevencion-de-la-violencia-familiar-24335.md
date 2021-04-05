@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-y-prevencion-de-la-violencia-familiar-2433
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-11"
-last_updated: "2019-08-28"
+last_updated: "2021-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2002.
 
@@ -67,7 +67,9 @@ Dicha afectación puede darse por cualquiera de las siguientes clases de maltrat
 
 a). Maltrato físico: Todo acto de agresión intencional, en la que se utilice cualquier parte del cuerpo, algún objeto, arma o sustancia para inmovilizar o causar daño a la integridad física del otro, encaminado hacia su sometimiento o control;
 
-b). Maltrato psicoemocional: Al patrón de conducta tanto de acción como de omisión repetitivo, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, actitudes devaluatorias o de abandono que provoque en quien las recibe deterioro o disminución de la autoestima y una afectación a su estructura de personalidad.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE ABRIL DE 2021)</small>
+
+b). Maltrato psicoemocional: Al patrón de conducta tanto de acción como de omisión repetitivo, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, alienación, amenazas, actitudes devaluatorias, de abandono, de obstaculización de convivencias, y cualquier forma de trabajo infantil, que provoque en quien las recibe deterioro o disminución de la autoestima, o una afectación a su estructura de personalidad.
 
 Las conductas mencionadas serán consideradas maltrato psicoemocional aunque se argumente como justificación la educación y formación del menor; y,
 
@@ -336,3 +338,21 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO VIGÉSIMO SEXTO. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 7 Y LA FRACCIÓN VIII DEL ARTÍCULO 16 DE LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 510 “DE LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO: SE REFORMA EL INCISO B) DE LA FRACCIÓN III DEL ARTÍCULO 3”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez y adolescencia.
+
+TERCERO. Las niñas, niños o adolescentes que hayan sido separados de su madre, padre o familiares, o que se les haya restringido su derecho a convivir con ellos de manera física, con motivo de la emergencia sanitaria generada por la pandemia del virus COVID-19 o coronavirus SARS-CoV-2, verán restituido su derecho a vivir y convivir físicamente de inmediato, bajo las medidas sanitarias que se consideren necesarias para salvaguardar su salud.
+
+Para ello, el Poder Judicial del Estado de Michoacán, dictará las medidas y realizará lo conducente a efecto de que esas niñas, niños y adolescentes convivan física y personalmente con su madre, padre o familiares de los que fueron separados o cuyas convivencias fueron restringidas; y, en el ámbito de su respectiva competencia, la Procuraduría de Protección, el Poder Judicial del Estado de Michoacán y las instituciones de salud, aplicarán las medidas necesarias para reparar los daños emocionales o alienación parental ocasionados a los menores de edad durante el periodo de separación o restricción, así como para que no se repitan.
+
+Considerando que la pandemia es una situación delicada y que por tanto es injustificable el hecho de que sea utilizada dentro de un proceso judicial en detrimento de las niñas, niños y adolescentes, en caso de que alguno de los progenitores haya obstaculizado u obstaculice las convivencias a que tiene derecho su hija o hijo con su padre, madre o familiares durante esta pandemia, los jueces y magistrados serán responsables de aplicar las sanciones correspondientes conforme a la normatividad vigente al momento de los hechos, considerando la especial gravedad de dichas acciones u omisiones al realizarse durante una emergencia sanitaria.
+
+CUARTO. Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, deberán concluirse y ejecutarse conforme las disposiciones vigentes antes de la entrada en vigor de éste último.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
