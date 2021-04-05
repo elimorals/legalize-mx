@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2021-01-25"
+last_updated: "2021-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -49,7 +49,9 @@ LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE
 
 La presente Ley es de orden público, interés social y observancia general en el territorio del Estado de Michoacán, y tiene por objeto:
 
-I. Reconocer a niñas, niños y adolescentes como titulares de derechos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+I. Reconocer a niñas, niños y adolescentes como titulares de derechos, con capacidad de goce de estos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad; en los términos que establece el artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Garantizar el pleno goce, respeto, protección y promoción de los derechos humanos de niñas, niños y adolescentes;
 
@@ -59,9 +61,11 @@ IV. Establecer los principios rectores y criterios que orientarán la política 
 
 V. Establecer las bases generales para la participación de los sectores privado y social en las acciones tendientes a garantizar la protección de niñas, niños y adolescentes.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 2.
 
-Esta ley deberá aplicarse conjuntamente con la Constitución Política de los Estados Unidos Mexicanos, la Convención Sobre los Derechos del Niño y demás tratados internacionales de los que México sea parte, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, la Ley General de los Derechos de Niñas, Niños y Adolescentes, el Código Familiar del Estado de Michoacán y demás legislación aplicable en la materia.
+Esta Ley deberá aplicarse conjuntamente con la Constitución Política de los Estados Unidos Mexicanos, la Convención Sobre los Derechos del Niño y demás tratados internacionales de los que México sea parte, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, la Ley General de los Derechos de Niñas, Niños y Adolescentes, el Código Familiar del Estado de Michoacán, la Ley de Adopción del Estado de Michoacán de Ocampo y demás legislación aplicable en la materia.
 
 ###### Artículo 3.
 
@@ -73,7 +77,9 @@ II. Promover la participación, tomar en cuenta la opinión y considerar los asp
 
 III. Establecer mecanismos transparentes de planeación seguimiento y evaluación de la implementación de políticas y programas gubernamentales en materia de respeto, protección y promoción de los derechos de niñas, niños y adolescentes;
 
-IV. En la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes, considerar de manera primordial el interés superior. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+IV. En la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes, considerar de manera primordial el interés superior de la niñez y adolescencia. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector;
 
 V. Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales;
 
@@ -87,6 +93,12 @@ El Estado de Michoacán y sus municipios, en el diseño y ejecución de polític
 
 Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, ambiental, ética y cívica de niñas, niños y adolescentes.
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Ningún niño, niña o adolescente podrá ser privado de la convivencia física con su madre, padre o familia a causa de pobreza, pandemia o emergencia sanitaria.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 5.
 
 Para los efectos de esta Ley, se entenderá por:
@@ -95,69 +107,67 @@ I. Acciones Afirmativas: Medidas temporales que las autoridades realizan en el �
 
 II. Acogimiento Residencial: Aquél brindado por centros de asistencia social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
 
-III. Adopción Internacional: Aquélla que se realice en términos de lo dispuesto por los tratados internacionales en la materia, especialmente en la Convención sobre la Protección de Menores y Cooperación en materia de Adopción Internacional;
+III. Adopción Internacional: Aquélla que se realice en términos de lo dispuesto por los tratados internacionales en la materia;
 
 IV. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce y disfrute, en igualdad de condiciones con los demás, de todos los derechos humanos;
 
 V. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
 
-VI. Certificado de Idoneidad: El documento expedido por el Consejo Técnico de Adopciones, u organizaciones civiles legalmente constituidas que éstos autoricen, o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
+VI. Certificado de Idoneidad: Documento emitido por el Consejo Técnico de Adopción en el Estado, de conformidad con lo dispuesto por la Ley de Adopción del Estado de Michoacán de Ocampo, o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
 
-VII. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos;
+VII. Comisión de Atención Inmediata: La Comisión de Atención Inmediata Para los Casos de Violencia Sexual en Contra de Niñas, Niños y Adolescentes en los Ámbitos Escolar y Familiar;
 
-VIII. Constitución Estatal: Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
+VIII. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos;
 
-IX. Convención: Convención Sobre los Derechos del Niño;
+IX. Constitución Estatal: Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+X. Convención: Convención Sobre los Derechos del Niño;
 
-IX Bis. Estimulación temprana: Desarrollar las funciones cognitivas, físicas y emocionales de las niñas y niños menores a los tres años de edad, mediante actividades que estimulen y favorezcan su desarrollo integral;
+XI. Familia de Origen: Aquélla compuesta por los titulares de la patria potestad, tutela o custodia, respecto de quienes tienen parentesco ascendente hasta segundo grado con niñas, niños y adolescentes;
 
-X. Familia de Origen: Aquélla compuesta por titulares de la patria potestad o tutela, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
+XII. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
 
-XI. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
+XIII. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde temporalmente cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
 
-XII. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde temporalmente cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
+XIV. Familia de Acogimiento Preadoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez y adolescencia. Dicho acogimiento será determinado por el Consejo Técnico de Adopción del Estado;
 
-XIII. Familia de Acogimiento preadoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
+XV. Informe de Adoptabilidad: El documento expedido por el Sistema Estatal para el Desarrollo de la Familia DIF, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
 
-XIV. Informe de Adoptabilidad: El documento expedido por el Sistema Estatal para el Desarrollo de la Familia DIF, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
+XVI. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
-XV. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
+XVII. Órgano Jurisdiccional: Los juzgados o tribunales del Estado de Michoacán;
 
-XVI. Órgano Jurisdiccional: Los juzgados o tribunales del Estado de Michoacán;
+XVIII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Sistema DIF Michoacán;
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+XIX. Programa Estatal: El Programa de Protección de Niñas, Niños y Adolescentes del Estado de Michoacán;
 
-XVI Bis. Primera Infancia: Es el periodo que va del nacimiento a los ocho años de edad, y que constituye una etapa de desarrollo crítico y excepcional por la influencia del entorno, la cultura y los procesos educativos y formativos en la niñez; en este periodo se debe favorecer el desarrollo integral de la niña y el niño con base en sus derechos y necesidades físicas, sociales, emocionales y cognitivas para formar los cimientos de su aprendizaje y bienestar;
+XX. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes de cada Municipio;
 
-XVII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Michoacán;
+XXI. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo y los tratados internacionales de los que el Estado mexicano forma parte;
 
-XVIII. Programa Estatal: El Programa de Protección de Niñas, Niños y Adolescentes del Estado de Michoacán;
+XXII. Protocolo de Atención Inmediata: El Protocolo de Atención Inmediata Para los Casos de Violencia Sexual en Contra de Niñas, Niños y Adolescentes en los Ámbitos Escolar y Familiar;
 
-XIX. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes de cada Municipio;
+XXIII. Representación Coadyuvante: El acompañamiento jurídico a niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, en conjunto con quienes ejerzan la patria potestad o tutela, quedando dicha representación a cargo de la Procuraduría de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público y a la Comisión Ejecutiva Estatal de Atención a Víctimas;
 
-XX. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo y los tratados internacionales de los que el Estado mexicano forma parte;
+XXIV. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de acuerdo a las disposiciones aplicables;
 
-XXI. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXV. Representación en Suplencia: Representación jurídica de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, a falta de quien ejerza la patria potestad o tutela, o cuando por otra causa así lo determine la autoridad correspondiente, quedando ésta a cargo de la Procuraduría de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público y a la Comisión Ejecutiva Estatal de Atención a Víctimas;
 
-XXII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de acuerdo a las disposiciones aplicables;
+XXVI. Sistema Estatal DIF: El Sistema para el Desarrollo Integral de la Familia del Estado de Michoacán;
 
-XXIII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXVII. Sistema Estatal de Protección Integral: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Michoacán;
 
-XXIV. Sistema Estatal DIF: El Sistema para el Desarrollo Integral de la Familia del Estado de Michoacán;
+XXVIII. Sistema Municipal de Protección Integral: El Sistema Municipal de Protección de Niñas, Niños y Adolescentes, de cada Ayuntamiento;
 
-XXV. Sistema Estatal de Protección Integral: El Sistema de Protección de Niñas, Niños y Adolescentes del Estado de Michoacán;
+XXIX. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Michoacán; y,
 
-XXVI. Sistema Municipal de Protección Integral: El Sistema de Protección de Niñas, Niños y Adolescentes de los municipios del Estado de Michoacán;
+XXX. Tratados Internacionales: Los Tratados internacionales vigentes en materia de derechos humanos de los que el Estado Mexicano sea parte.
 
-XXVII. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Michoacán; y,
-
-XXVIII. Tratados Internacionales: Los Tratados internacionales vigentes en materia de derechos humanos de los que el Estado Mexicano sea parte.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2021)</small>
 
 ###### Artículo 6.
 
-Son niñas y niños los menores de doce años, y adolescentes las personas de entre doce años cumplidos y hasta cumplir los dieciocho años de edad.
+Son niñas y niños los menores de doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad. Para efectos de los tratados internacionales y la mayoría de edad, son niños los menores de dieciocho años de edad.
 
 Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente. Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
 
@@ -171,7 +181,9 @@ II. Desarrollo integral;
 
 III. La universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de niñas, niños y adolescentes, conforme a lo dispuesto en los artículos 1o. y 4o. de la Constitución Federal, así como en los tratados internacionales;
 
-IV. La Igualdad y no discriminación;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+IV. La Igualdad sustantiva y no discriminación;
 
 V. La inclusión;
 
@@ -211,7 +223,9 @@ Es obligación de toda persona que tenga conocimiento de casos de niñas, niños
 
 Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
 
-I. Derecho a la vida, a la supervivencia y al desarrollo;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+I. Derecho a la vida, a la paz, a la supervivencia y al desarrollo;
 
 II. Derecho de prioridad;
 
@@ -219,7 +233,9 @@ III. Derecho a la identidad;
 
 IV. Derecho a vivir en familia;
 
-V. Derecho a la igualdad;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+V. Derecho a la igualdad sustantiva;
 
 VI. Derecho a no ser discriminado;
 
@@ -271,6 +287,10 @@ Quienes ejerzan la patria potestad, tutela, guarda y custodia tienen la obligaci
 
 Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo de niñas, niños y adolescentes y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Ninguna emergencia sanitaria o pandemia será motivo para dictar medidas administrativas, jurisdiccionales o legislativas que impliquen la separación de niñas, niños y adolescentes de sus padres, madres o familias, ni la restricción de sus convivencias físicas. En su caso, se estará a lo dispuesto por el artículo 29 de la Constitución Política de los Estados Unidos Mexicanos.
+
 > <small>(ADICIONADO, P.O. 25 DE ENERO DE 2021)</small>
 
 Recibir atención durante la primera infancia, cubriendo todas sus necesidades desde su desarrollo cognitivo, físico y prenatal, asimismo garantizar un acceso a los padres en el cuidado prenatal y durante el nacimiento.
@@ -293,7 +313,9 @@ III. Prevalezca el interés superior de la niñez para planeación, diseño y ej
 
 Niñas, niños y adolescentes, desde su nacimiento, tienen derecho a contar con un nombre y apellido, nacionalidad, conocer su filiación y su origen, en la medida de lo posible, y a preservar su identidad y su pertenencia cultural, así como sus relaciones familiares.
 
-Niñas, niños y adolescentes nacionales o extranjeros, podrán comprobar su identidad con los documentos emitidos por la autoridad competente. La falta de documentación para acreditar su identidad no será obstáculo para garantizar sus derechos.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Niñas, niños y adolescentes nacionales o extranjeros, podrán comprobar su identidad con los documentos emitidos por la autoridad competente. La falta de documentación para acreditar su identidad no será obstáculo para garantizar sus derechos. En el caso de los extranjeros podrán usar para acreditar su identidad cualquier documental prevista en la Ley de Migración y demás disposiciones aplicables.
 
 Las autoridades estatales y municipales, deberán colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
 
@@ -301,27 +323,41 @@ Las autoridades estatales y municipales, deberán colaborar en la búsqueda, loc
 
 Para dar cumplimiento a lo establecido en el artículo anterior, las autoridades del Estado y Municipios deberán:
 
-I. Facilitar la inscripción en el Registro Civil de forma inmediata de niñas, niños y adolescentes y a expedir de forma ágil y sin costo la primer copia certificada del acta correspondiente; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+I. Facilitar la inscripción en el Registro Civil de forma inmediata de niñas, niños y adolescentes y a expedir de forma ágil y sin costo la primera copia certificada del acta correspondiente; y,
 
 II. Tomar en cuenta la opinión de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes.
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y adolescentes, así como en relación con los derechos y obligaciones derivados de la filiación y parentesco, se estará a la legislación familiar y civil aplicable. Ante la negativa de la prueba de paternidad o maternidad, la autoridad competente en el estado, salvo prueba en contrario, presumirá que es el padre o la madre respectivamente.
+
 ### CAPÍTULO V. DERECHO A VIVIR EN FAMILIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2021)</small>
 
 ###### Artículo 15.
 
-Niñas, niños y adolescentes tienen derecho a vivir en una familia. Siempre que sea posible deberán crecer bajo la responsabilidad y el cuidado de sus padres o quien ejerza la patria potestad, en un ambiente que favorezca su desarrollo integral.
+Niñas, niños y adolescentes tienen derecho a vivir en una familia. Este derecho será prioritario en la toma de decisiones de quienes ejercen la patria potestad o tutela, así como en las resoluciones de las autoridades administrativas, jurisdiccionales y ministeriales. Siempre que sea posible deberán crecer bajo la responsabilidad y el cuidado de sus padres o quien ejerza la patria potestad, en un ambiente que favorezca su desarrollo integral.
 
-La falta de recursos no podrá considerarse motivo suficiente para separarlos de sus padres o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad. Estas condiciones imputables directas exclusivamente a la pobreza económica y material no constituirán la única justificación para separar a niñas, niños o adolescentes del cuidado de sus padres.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+La falta de recursos, emergencias sanitarias o pandemias, no podrán considerarse motivo suficiente para separarlos de sus padres o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad. Estas condiciones imputables directas exclusivamente a la pobreza económica y material, o a emergencias sanitarias o pandemias, no constituirán justificación para separar o restringir la convivencia física de niñas, niños o adolescentes con su madre, padre o familia.
 
 No serán considerados como supuestos de exposición o estado de abandono los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, siempre y cuando los mantengan al cuidado de otras personas, que garanticen un ambiente que favorezca su desarrollo integral.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a instaurar políticas de fortalecimiento familiar con la finalidad de evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad y en su caso, la tutela.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a instaurar políticas de fortalecimiento familiar y tomar las medidas necesarias con la finalidad de evitar la separación física de niñas, niños y adolescentes de su madre, padre y entorno familiar y para que, en su caso, sean atendidos a través de las medidas de protección que dispone el artículo 19 de esta Ley.
 
 ###### Artículo 16.
 
 Niñas, niños y adolescentes no podrán ser separados de sus padres o de quienes ejerzan la patria potestad sobre ellos o de sus tutores, y en términos de las disposiciones aplicables de sus custodios, sino mediante orden de autoridad competente que así lo declare, tomando en cuenta la opinión de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez y atendiendo a la preservación del interés superior de la niñez.
 
-Niñas, niños y adolescentes cuyos padres o familiares que estén a su cargo, se encuentren separados, tendrán derecho a convivir o a mantener contacto directo de modo regular con ellos, salvo en los casos en que el órgano jurisdiccional competente determine que ello es contrario al interés superior de la niñez.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Niñas, niños y adolescentes cuyos padres o familiares que estén a su cargo, se encuentren separados, tendrán derecho a convivir y a mantener contacto físico directo de modo regular con ellos. Este derecho será prioritario en los procedimientos jurisdiccionales y, en caso de que se vea obstaculizado, deberá restituirse de inmediato. Padre, madre o familiar del menor de edad que impida, obstaculice o violente este derecho incurre en violencia familiar y será sancionado conforme a lo establecido en el Código Familiar para el Estado de Michoacán de Ocampo y en el Código Penal para el Estado de Michoacán.
 
 Así mismo, niñas, niños y adolescentes tienen derecho a convivir con sus padres o familiares cuando estos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice de forma adecuada, conforme a las disposiciones jurídicas aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario a su interés superior.
 
@@ -333,17 +369,29 @@ Durante la localización de la familia de niñas, niños y adolescentes, tienen 
 
 Para efectos del párrafo anterior, el Sistema Estatal DIF deberá otorgar acogimiento correspondiente conforme lo previsto en esta ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 18.
 
-En los casos de traslados o retenciones ilícitas de niñas, niños y adolescentes, se estará a lo dispuesto en la legislación aplicable en la materia.
+En los casos de traslados o retenciones ilícitas de niñas, niños y adolescentes, se estará a lo dispuesto en la legislación aplicable en la materia. En los casos en que, de manera dolosa, niñas, niños o adolescentes hayan sido separados de su madre, padre o familia, o hayan sido restringidas u obstaculizadas sus convivencias físicas, la Procuraduría de Protección, jueces, magistrados e instituciones de seguridad pública, quedarán obligados a restituir de inmediato su interés superior, conforme a sus respectivas atribuciones.
+
+Cuando las autoridades estatales o municipales de Michoacán, tengan conocimiento de casos de niñas, niños y adolescentes de nacionalidad mexicana trasladados o retenidos de manera ilícita en el extranjero, se coordinarán con las autoridades federales competentes, conforme a las disposiciones aplicables, para su localización y restitución.
+
+Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio estatal o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños o alienación y en la substanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2021)</small>
 
 ###### Artículo 19.
 
-El Sistema Estatal DIF, deberá otorgar medidas especiales de protección a niñas, niños y adolescentes que hayan sido separados de sus padres o familiares por resolución judicial, atendiendo a la legislación aplicable en la materia, se asegurará que a niñas, niños y adolescentes se les restituya su derecho a vivir en familia, para lo cual determinará la opción más adecuada, de acuerdo a su interés superior, entre las siguientes:
+El Sistema Estatal DIF, a través de la Procuraduría de Protección, deberá otorgar medidas especiales de protección a niñas, niños y adolescentes que se encuentren separados de su madre y padre o familiares por resolución judicial, abandono o exposición, atendiendo a la legislación aplicable en la materia, y se asegurará que a niñas, niños y adolescentes se les restituya su derecho a vivir en familia, para lo cual determinará la opción más adecuada, de acuerdo a su interés superior, entre las siguientes:
 
-I. Sean ubicados preferentemente con los demás miembros de su familia extensa o ampliada para su cuidado, siempre y cuando no sea contrario a su interés superior;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-II. Sean recibidos por una familia de acogida, en caso de no ser posible que la familia extensa pudiera hacerse cargo;
+I. Sean ubicados con su familia de origen y, en su defecto, con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior, y tengan con prontitud resuelta su situación jurídica para acceder a un proceso de adopción expedito, ágil, simple y guiado por su interés superior, aplicándose dicho proceso incluso cuando los adoptantes sean miembros de la familia de origen, siempre que ello sea posible y no sea contrario a su interés superior;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+II. Sean recibidos por una familia de acogida, como medida de protección de carácter temporal, en los casos en los cuales ni los progenitores, ni la familia extensa de niñas, niños y adolescentes pudieran hacerse cargo;
 
 III. Sean recibidos por una familia de acogimiento preadoptivo; y,
 
@@ -352,6 +400,34 @@ IV. Sean recibidos, en acogimiento residencial brindado por centros de asistenci
 La Procuraduría de Protección, deberá registrar, capacitar, evaluar y certificar a las familias de acogida y acogimiento preadoptivo, que resulten idóneas, tomando en cuenta los requisitos señalados para el acogimiento preadoptivo y será la responsable de dar seguimiento a la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido la medida de restitución del derecho a vivir en familia.
 
 Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, se establecerán en la medida de lo posible los medios adecuados para que mantengan vínculos de convivencia, contacto y comunicación.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Estas medidas especiales de protección tendrán carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar definitivo.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+El sistema DIF Michoacán y la Procuraduría de Protección deberán mantener estrecha comunicación con los Sistemas DIF y las Procuradurías de Protección de la Federación y las Entidades Federativas, intercambiando información, a efecto de garantizar adecuadamente el interés superior de la niñez y la adolescencia; así como materializar su derecho a vivir en familia.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Las autoridades administrativas y jurisdiccionales estatales, dispondrán lo conducente a efecto de que niñas, niños y adolescentes vean restituido su derecho a vivir en familia y su derecho a recibir formación y protección de quien ejerce la patria potestad, la tutela o custodia, interpretando de manera sistemática y funcional la normatividad correspondiente, conforme al principio del interés superior de la niñez y adolescencia.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Los Certificados de idoneidad expedidos por el Consejo Técnico de Adopción, serán válidos para iniciar el proceso de adopción en cualquier Entidad Federativa, conforme a lo establecido por la Ley General.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Las autoridades competentes deberán tener en consideración el interés superior de la niñez y adolescencia, al determinar la opción que sea más adecuada para restituir su derecho a vivir en familia.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+El Sistema Estatal DIF y la Procuraduría de Protección, serán responsables del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el Acogimiento Pre-Adoptivo y, en su caso, la adopción.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Entre las medidas de seguimiento, deberán estar los reportes realizados por los profesionales de trabajo social, donde se aprecie la convivencia familiar y el desarrollo cotidiano de niñas, niños y adolescentes, en su entorno, con una periodicidad de seis meses durante tres años contados a partir de que la sentencia judicial de adopción quede firme, pudiendo ampliar el plazo excepcionalmente en caso de ser necesario, con base en el interés superior de la niñez y adolescencia. La intervención que represente el seguimiento será lo menos invasiva posible a efecto de no afectar el entorno familiar.
 
 ###### Artículo 20.
 
@@ -419,17 +495,23 @@ Para la revocación de las autorizaciones e inhabilitación a que se refiere est
 
 Las autoridades competentes en materia de desarrollo integral de la familia e instituciones públicas ofrecerán orientación, cursos y asesorías, así como servicios terapéuticos en materia de pareja, de maternidad y paternidad, entre otros.
 
-### CAPÍTULO VI. DERECHO A LA IGUALDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ABRIL DE 2021)</small>
+
+### CAPÍTULO VI. DERECHO A LA IGUALDAD SUSTANTIVA
 
 ###### Artículo 28.
 
 Niñas, niños y adolescentes tienen derecho al mismo trato y acceso de oportunidades para el reconocimiento, goce y ejercicio de los derechos contenidos en la presente Ley, a fin de lograr su desarrollo integral.
 
-Con el fin de garantizar la igualdad entre niñas, niños y adolescentes, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán realizar las siguientes acciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE ABRIL DE 2021)</small>
+
+Con el fin de garantizar la igualdad sustantiva entre niñas, niños y adolescentes, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán realizar las siguientes acciones:
 
 I. Contribuir con programas de alimentación, educación y salud para la nivelación en el acceso a las oportunidades de niñas, niños y adolescentes, especialmente para aquellos que pertenezcan a grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales desfavorables;
 
-II. Promover la eliminación de costumbres y tradiciones que sean perjudiciales para el acceso al mismo trato y oportunidades entre niñas y los niños y las adolescentes y los adolescentes;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+II. Promover la eliminación de costumbres, tradiciones, roles y estereotipos sexistas o de cualquier otra índole que estén basadas en la idea de inferioridad, que sean perjudiciales para el acceso al mismo trato y oportunidades entre las niñas y los niños, así como las adolescentes y los adolescentes;
 
 III. Desarrollar campañas encaminadas a promover la responsabilidad de preservar los derechos de niñas, niños y adolescentes dirigidas a los ascendientes, tutores o custodios para de niñas, niños y adolescentes; y,
 
@@ -443,9 +525,9 @@ Niñas, niños y adolescentes tienen derecho a no ser discriminados, por lo que 
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán:
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-I. Llevar a cabo acciones especiales para sensibilizar, prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes en exclusión social, situación de calle, cualquier forma de trabajo infantil o cualquiera otra condición de vulnerabilidad;
+I. Llevar a cabo acciones especiales para sensibilizar, prevenir, atender, erradicar y sancionar la discriminación múltiple de la que son objeto niñas, niños y adolescentes en exclusión social, situación de calle, cualquier forma de trabajo infantil o cualquiera otra condición de vulnerabilidad;
 
 II. Adoptar medidas y realizar acciones afirmativas, cuando sean necesarias, para garantizar que niñas y adolescentes tengan igualdad de trato y oportunidades que los niños y los adolescentes;
 
@@ -503,11 +585,17 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 I. Prevenir, sancionar y erradicar los casos en que niñas, niños o adolescentes se vean afectados por las acciones u omisiones a que se refiere la Ley General;
 
-II. Implementar las medida (sic) apropiadas para prevenir, sancionar y erradicar cualquier tipo de violencia en contra de niñas, niños y adolescentes con discapacidad;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-III. Adoptar las medidas apropiadas de conformidad con la legislación correspondiente para promover la recuperación física, psicológica y la integración social de niñas, niños y adolescentes víctimas de violencia para lograr el goce y restitución de sus derechos;
+II. Implementar las medidas apropiadas para prevenir, sancionar y erradicar cualquier tipo de violencia en contra de niñas, niños y adolescentes con discapacidad;
 
-IV. Garantizar su reincorporación a la vida cotidiana, en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes, para su desarrollo integral; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+III. Adoptar las medidas apropiadas de conformidad con la legislación correspondiente para promover la recuperación física, psicológica y la integración social de niñas, niños y adolescentes víctimas de violencia para lograr el goce y restitución de sus derechos, en especial cuando se trate de delitos contra el libre desarrollo de la personalidad y el normal desarrollo psicosexual, en términos del Código Penal para el Estado de Michoacán;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+IV. Garantizar su reincorporación a la vida cotidiana, en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes, para su desarrollo integral;
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
@@ -520,6 +608,20 @@ VI. Promover campañas de concientización sobre las formas positivas, no violen
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
 
 VII. Realizar estudios periódicos que analicen el alcance de la violencia contra niñas, niños y adolescentes en todos los medios de comunicación, determinando las medidas idóneas para prevenir y atender esta expresión de violencia, dirigiéndolas tanto a menores que asistan a la escuela como a los no escolarizados.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Se considera maltrato y violencia el hecho de que alguno de los progenitores o familiares impida, dificulte u obstaculice la convivencia de la niña, niño o adolescente con su padre, madre o con los demás integrantes de su familia.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Artículo 32 bis. En los casos en que niñas, niños y adolescentes sean víctimas de delitos, se aplicarán las disposiciones de la Ley de Atención a Víctimas para el Estado de Michoacán de Ocampo y demás disposiciones que resulten aplicables. En todos los casos, los protocolos de atención que se desarrollen e implementen, deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
+
+Para el cumplimiento de lo dispuesto en el párrafo anterior, el Sistema Estatal de Protección Integral, deberá coordinarse con el Sistema Estatal de Atención a Víctimas, el cual procederá a través de su Comisión Ejecutiva en los términos de la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Artículo 32 ter. Adicionalmente, en los casos de violencia sexual en contra de niñas, niños y adolescentes, las autoridades estatales y municipales deberán actuar bajo los lineamientos establecidos en el Protocolo de Atención Inmediata.
 
 ### CAPÍTULO X. DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
 
@@ -565,9 +667,21 @@ XIV. Erradicar la esterilización de niñas, niños y adolescentes;
 
 XV. Establecer las medidas para que en los servicios de salud se atiendan de manera especial los casos en que niñas, niños y adolescentes sean víctimas de delitos o de cualquier tipo de maltrato o violencia;
 
-XVI. Establecer medidas tendientes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-XVII. Establecer medidas tendientes a que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental.
+XVI. Establecer medidas tendientes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+XVII. Establecer medidas tendientes a que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+XVIII. Establecer las medidas tendientes a prevenir embarazos de las niñas y las adolescentes; y,
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+XIX. Detectar y atender oportunamente, a través de las instituciones de Salud, los posibles casos de violencia sexual en contra de niñas, niños y adolescentes con base en el Protocolo de Atención Inmediata.
 
 En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, conforme a la presente Ley, así como el derecho a la información de quienes detenten la patria potestad, tutela o guarda y custodia de niños niñas y adolescentes en relación a su estado de su salud, para cumplir con su obligación constitucional de proteger y exigir el cumplimiento del derecho a la salud de niñas, niños y adolescentes.
 
@@ -581,9 +695,11 @@ Las autoridades estatales y municipales en el ámbito de sus respectivas compete
 
 ### CAPÍTULO XI. DERECHO A LA INCLUSIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 36.
 
-Niñas, niños y adolescentes con discapacidad tienen derecho a la igualdad de condiciones con los demás niñas, niños y adolescentes, a vivir incluidos en la comunidad y a disfrutar de los derechos contenidos en la presente Ley, la Constitución Federal, la Constitución Estatal, los tratados internacionales y demás leyes aplicables.
+Niñas, niños y adolescentes con discapacidad tienen derecho a la igualdad sustantiva de condiciones con los demás niñas, niños y adolescentes, a vivir incluidos en la comunidad y a disfrutar de los derechos contenidos en la presente Ley, la Constitución Federal, la Constitución Estatal, los tratados internacionales y demás leyes aplicables.
 
 ###### Artículo 37.
 
@@ -615,7 +731,9 @@ Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho
 
 Las autoridades estatales, en el ámbito de sus respectivas competencias garantizarán la consecución de una educación de calidad y la igualdad en el acceso y permanencia en la misma, para lo cual deberán:
 
-I. Proporcionar la atención educativa que niñas, niños y adolescentes requieran para su pleno desarrollo, para lo cual, los programas respectivos deberán considerar la edad, madurez, circunstancias particulares y tradiciones culturales, para prepararlos para la vida con un espíritu crítico, reflexivo y analítico;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+I. Proporcionar la atención educativa integral que niñas, niños y adolescentes requieran para su pleno desarrollo, para lo cual, los programas respectivos deberán considerar la edad, madurez, circunstancias particulares y tradiciones culturales, para prepararlos para la vida con un espíritu crítico, reflexivo y analítico;
 
 II. Adoptar medidas orientadas hacia el pleno ejercicio del derecho a la educación;
 
@@ -647,7 +765,9 @@ XV. Establecer mecanismos para la expresión y participación de niñas, niños 
 
 XVI. Administrar la disciplina escolar de modo compatible con la dignidad humana, impidiendo la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a la dignidad humana o atenten contra la vida o la integridad física o mental de niñas, niños y adolescentes;
 
-XVII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+XVII. Erradicar el castigo corporal físico o psicológico y las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes o degradantes. Castigo corporal físico o psicológico, es todo aquél en que se utilice la fuerza física o verbal para impactar en la psique del menor, que tenga por objeto causar cierto grado de dolor o malestar, aunque sea leve; considerándose castigos crueles y degradantes aquellos en que se menosprecia, se humilla, se denigra, se convierte en chivo expiatorio, se amenaza, se asusta o se ridiculiza a la niña, niño o adolescente;
 
 XVIII. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
 
@@ -658,6 +778,10 @@ XVIII Bis. Establecer mecanismos para garantizar el derecho de la primera infanc
 XIX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación; y,
 
 XX. Establecer medidas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
 ###### Artículo 39.
 
@@ -693,9 +817,25 @@ I. Diseñar estrategias y acciones para la detección temprana, contención, pre
 
 II. Desarrollar actividades de capacitación para servidores públicos y para el personal administrativo y docente;
 
-III. Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-IV. Establecer y aplicar las sanciones que correspondan a las personas responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley, en la Ley para la Atención de la Violencia Escolar para el Estado de Michoacán y demás disposiciones jurídicas aplicables.
+III. Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+IV. Establecer y aplicar las sanciones que correspondan a las personas responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley, en la Ley para la Atención de la Violencia Escolar para el Estado de Michoacán y demás disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+V. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos;
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+VI. Elaborar protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o custodia; y,
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+VII. Contar con personal capacitado para detectar y atender oportunamente, en las instituciones educativas, los posibles casos de violencia sexual en contra de niñas, niños y adolescentes en los ámbitos escolar y familiar con base en el Protocolo de Atención Inmediata.
 
 ### CAPÍTULO XIII. DERECHO AL DESCANSO, AL DEPORTE Y ESPARCIMIENTO
 
@@ -703,7 +843,9 @@ IV. Establecer y aplicar las sanciones que correspondan a las personas responsab
 
 Niñas, niños y adolescentes tienen derecho al descanso, al esparcimiento, al juego y a las actividades recreativas propias de su edad, así como a participar libremente en actividades culturales, deportivas y artísticas, como factores primordiales de su desarrollo y crecimiento, así como a disfrutar de las manifestaciones y actividades culturales y artísticas de su comunidad.
 
-Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes deberán respetar el ejercicio de estos derechos y, por lo tanto, establecerán regímenes de vida, estudio, trabajo o reglas de disciplina proporcionadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, que no impliquen la renuncia o el menoscabo de los mismos.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Quienes ejerzan la patria potestad, tutela o custodia de niñas, niños y adolescentes deberán respetar el ejercicio de estos derechos y, por lo tanto, establecerán regímenes de vida, estudio, trabajo o reglas de disciplina proporcionadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, que no impliquen la renuncia o el menoscabo de los mismos.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
 
@@ -737,19 +879,25 @@ V. Apoyar a los organismos de la sociedad civil que promuevan la cultura entre n
 
 VI. Garantizar que los docentes cuenten con formación en educación intercultural y que las estrategias pedagógicas aplicadas partan de los saberes, costumbres y experiencias de los educandos; y,
 
-VII. Lo dispuesto en este capítulo se ejercerá en concordancia con el derecho a la educación y no será limitativo del deber de educación de los padres o de quienes ejerzan la patria potestad, tutela o guarda y custodia, de guiar y orientar a niñas, niños y adolescentes en el ejercicio de estos derechos, a fin de que contribuya con su desarrollo integral.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+VII. Lo dispuesto en este capítulo se ejercerá en concordancia con el derecho a la educación y no será limitativo del deber de educación de los padres o de quienes ejerzan la patria potestad, tutela o custodia, de guiar y orientar a niñas, niños y adolescentes en el ejercicio de estos derechos, a fin de que contribuya con su desarrollo integral.
 
 ### CAPÍTULO XV. DERECHOS A LA LIBERTAD DE EXPRESIÓN Y DE ACCESO A LA INFORMACIÓN
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 44.
 
-Niñas, niños y adolescentes tienen derecho a expresar libremente sus pensamientos, ideas u opiniones tanto en el ámbito público como privado, ya sea oralmente, por escrito o medio impreso, en forma artística o por cualquier otro medio elegido por ellos. El ejercicio de este derecho se llevará a cabo conforme a la evolución de sus facultades, edad, madurez y demás limitaciones prescritas por la ley que sean necesarias para proteger la seguridad, el orden, la salud, la moral y los derechos de terceros. Los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia tienen el deber de orientar a niñas, los niños y adolescentes en el ejercicio de este derecho a fin de que contribuya a su desarrollo integral.
+Niñas, niños y adolescentes tienen derecho a expresar libremente sus pensamientos, ideas u opiniones tanto en el ámbito público como privado, ya sea oralmente, por escrito o medio impreso, en forma artística o por cualquier otro medio elegido por ellos. El ejercicio de este derecho se llevará a cabo conforme a la evolución de sus facultades, edad, madurez y demás limitaciones prescritas por la ley que sean necesarias para proteger la seguridad, el orden, la salud, la moral y los derechos de terceros. Los padres o quienes ejerzan la patria potestad, tutela o custodia tienen el deber de orientar a niñas, los niños y adolescentes en el ejercicio de este derecho a fin de que contribuya a su desarrollo integral.
 
 ###### Artículo 45.
 
 Niñas, niños y adolescentes tienen derecho al acceso a información y material procedentes de diversas fuentes nacionales e internacionales, en especial la información y el material educativo que tenga por finalidad promover su bienestar intelectual, social, espiritual y moral, así como su salud física y mental.
 
-En todos los casos, serán los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia los primeros responsables de orientar y supervisar a niñas, niños y adolescentes en el ejercicio de este derecho, a fin de que contribuya a su desarrollo integral.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+En todos los casos, serán los padres o quienes ejerzan la patria potestad, tutela o custodia los primeros responsables de orientar y supervisar a niñas, niños y adolescentes en el ejercicio de este derecho, a fin de que contribuya a su desarrollo integral.
 
 En cumplimiento de este derecho se deberán diseñar políticas públicas que permitan su ejercicio, con especial énfasis en medidas que aseguren su bienestar social y ético, así como su desarrollo cultural que los protejan de peligros que puedan afectar su vida, su salud o su desarrollo integral.
 
@@ -783,7 +931,9 @@ IX. La difusión de la información institucional y la promoción de los derecho
 
 Niñas, niños y adolescentes tienen derecho, de manera individual y colectiva, a ser escuchados en todo procedimiento judicial o administrativo que les afecte, ya sea directamente o por medio de representante u órgano apropiado de acuerdo a las disposiciones jurídicas aplicables.
 
-Se garantiza el ejercicio de este derecho, especialmente en todo procedimiento que conduzca a una decisión que afecte sus derechos, garantías e intereses, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, de acuerdo al interés superior de la niñez.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Se garantiza el ejercicio de este derecho, especialmente en todo procedimiento que conduzca a una decisión que afecte sus derechos, garantías e intereses, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, de acuerdo al interés superior de la niñez y adolescencia.
 
 ### CAPÍTULO XVI. DERECHO A LA PARTICIPACIÓN
 
@@ -803,11 +953,15 @@ Es responsabilidad del Estado, de la sociedad civil y de las instituciones públ
 
 Niñas, niños y adolescentes tienen derecho a asociarse y reunirse libre y pacíficamente con otras personas con fines sociales, culturales, deportivos, recreativos, religiosos, políticos, económicos, o de cualquier otra índole, siempre que sean de carácter lícito.
 
-Cuando en el ejercicio de este derecho se lesione el interés superior de la niñez quienes ejerzan la patria potestad, tutela o guarda y custodia deberán intervenir en las conductas o hábitos de niñas, niños o adolescentes.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Cuando en el ejercicio de este derecho se lesione el interés superior de la niñez y adolescencia quienes ejerzan la patria potestad, tutela o custodia deberán intervenir en las conductas o hábitos de niñas, niños o adolescentes.
 
 Las autoridades estatales correspondientes proporcionarán asesoría y orientación para la promoción e integración de organizaciones de niñas, niños y adolescentes así como también elaborarán un registro de las mismas.
 
-Quienes ejercen la patria potestad, tutela o guarda y custodia representarán a niñas, niños y adolescentes para el ejercicio del derecho de asociación, cuando sea necesario para satisfacer las formalidades que establezcan las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Quienes ejercen la patria potestad, tutela o custodia representarán a niñas, niños y adolescentes para el ejercicio del derecho de asociación, cuando sea necesario para satisfacer las formalidades que establezcan las disposiciones jurídicas aplicables.
 
 Las autoridades deberán velar porque se respeten estos derechos, para lo cual:
 
@@ -821,9 +975,13 @@ II. Atenderán, al establecerse los planes de urbanización, desarrollo y organi
 
 Niñas, niños y adolescentes tienen derecho a la intimidad en su vida privada y en la de su familia, domicilio o correspondencia y a la protección de sus datos personales.
 
-Niñas, niños y adolescentes no podrán ser objeto de injerencias (sic) arbitraria o ilegales en su vida privada, su familia, su domicilio o su correspondencia; de divulgaciones o difusiones ilícitas de información o datos personales, incluyendo aquélla que tenga carácter informativo a la opinión pública o de noticia que permita identificarlos, que atente contra su honra, imagen o reputación.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
-Quienes ejerzan la patria potestad, tutela o guardia y custodia, deberán orientar, supervisar y, en su caso, restringir las conductas y hábitos de niñas, niños y adolescentes, siempre que atiendan al interés superior de la niñez.
+Niñas, niños y adolescentes no podrán ser objeto de injerencias arbitrarias o ilegales en su vida privada, su familia, su domicilio o su correspondencia; de divulgaciones o difusiones ilícitas de información o datos personales, incluyendo aquélla que tenga carácter informativo a la opinión pública o de noticia que permita identificarlos, que atente contra su honra, imagen o reputación.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Quienes ejerzan la patria potestad, tutela o custodia, deberán orientar, supervisar y, en su caso, restringir las conductas y hábitos de niñas, niños y adolescentes, siempre que atiendan al interés superior de la niñez y adolescencia.
 
 > <small>(F. DE E., P.O. 3 DE JUNIO DE 2015)</small>
 
@@ -831,15 +989,17 @@ Cualquier persona, autoridad o medio de comunicación local que difunda entrevis
 
 En caso de incumplimiento se promoverán las acciones civiles, denuncias, querellas y procedimientos de conformidad con las leyes Civil, Penal y Administrativa del Estado de Michoacán y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 50.
 
-Los (sic) autoridades estatales y municipales, deberán garantizar la protección de la identidad e intimidad de niñas y niños que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito.
+Las autoridades estatales y municipales deberán garantizar la protección de la identidad e intimidad de niñas y niños que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito.
 
-> <small>(F. DE E., P.O. 3 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2021)</small>
 
 ###### Artículo 51.
 
-En los procedimientos ante órganos jurisdiccionales, se podrá solicitar ante la autoridad federal competente que se imponga como medida cautelar la suspensión o bloqueo de cuentas de usuarios en medios electrónicos, a fin de evitar la difusión de información, imágenes, sonidos o datos que puedan contravenir el interés superior de la niñez.
+En los procedimientos ante órganos jurisdiccionales, se podrá solicitar ante la autoridad federal competente que se imponga como medida cautelar la suspensión o bloqueo de cuentas de usuarios en medios electrónicos, a fin de evitar la difusión de información, imágenes, sonidos o datos que puedan contravenir el interés superior de la niñez y adolescencia.
 
 > <small>(F. DE E., P.O. 3 DE JUNIO DE 2015)</small>
 
@@ -847,15 +1007,21 @@ El órgano jurisdiccional federal competente, con base en este artículo y en la
 
 ### CAPÍTULO XIX. DERECHO A LA SEGURIDAD JURÍDICA Y AL DEBIDO PROCESO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 52.
 
-Niñas, niños y adolescentes gozan de los derechos y garantías de seguridad jurídica y debido proceso establecidos en la Constitución Federal y Estatal, los tratados internacionales, la Ley General, esta Ley y demás disposiciones jurídicas aplicables, por lo que las autoridades estatales están obligadas a garantizar el goce de estos derechos y la protección y prevalencia del interés superior de la niñez.
+Niñas, niños y adolescentes gozan de los derechos y garantías de seguridad jurídica y debido proceso establecidos en la Constitución Federal y Estatal, los tratados internacionales, la Ley General, esta Ley y demás disposiciones jurídicas aplicables, por lo que las autoridades estatales y municipales están obligadas a garantizar el goce de estos derechos y la protección y prevalencia del interés superior de la niñez y adolescencia.
 
 Las autoridades estatales que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños y adolescentes estarán obligadas a:
 
-I. Garantizar la protección y prevalencia del interés superior de la niñez;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-II. Proporcionar información clara, sencilla y comprensible para niñas, niños y adolescentes sobre el procedimiento judicial o administrativo de que se trate y la importancia de su participación en el mismo, incluyendo, en su caso, formatos accesibles de fácil comprensión y lectura para niñas, niños y adolescentes con discapacidad;
+I. Garantizar la protección y prevalencia del interés superior de la niñez y adolescencia, así como su derecho a vivir en familia, sobre formalismos procesales. En todo momento, las autoridades administrativas, jurisdiccionales y ministeriales priorizarán el derecho a vivir en familia de los menores de edad y en caso de conflicto u obstaculización a ese derecho tomarán las medidas necesarias para corregir de inmediato y sancionar a quien corresponda. Pobreza, pandemia o emergencia sanitaria, no son motivo para separar a niñas, niños o adolescentes de su madre, padre o familia, ni para restringir sus convivencias físicas. Durante los procedimientos jurisdiccionales los jueces son responsables de vigilar que las niñas, niños y adolescentes no sean utilizados como objetos de chantaje, presión o violencia entre las partes y para ello garantizarán que mantengan convivencia física con madres, padres y familiares de ambas partes, además de las medidas que consideren necesarias para proteger el derecho a vivir en familia;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+II. Garantizar el ejercicio de los derechos de niñas, niños y adolescentes, establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, esta Ley y demás disposiciones aplicables;
 
 III. Implementar mecanismos de apoyo al presentar una denuncia, participar en una investigación o en un proceso judicial, proporcionar la asistencia de un traductor o intérprete o de profesionales especializados cuando la naturaleza del procedimiento lo requiera;
 
@@ -863,7 +1029,9 @@ IV. Garantizar el derecho de niñas, niños y adolescentes a ser representados, 
 
 V. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela, guarda o custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario;
 
-VI. Garantizar el derecho de audiencia de niñas, niños y adolescentes en los procedimientos a los que sean sometidos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+VI. Garantizar el acompañamiento jurídico a través de la Procuraduría de Protección, en favor de niñas, niños y adolescentes, y a quienes ejerzan sobre estos la patria potestad, tutela o custodia durante la sustanciación del procedimiento, salvo disposición judicial en contrario; sin perjuicio de las atribuciones que correspondan al Ministerio Público y a la Comisión Ejecutiva Estatal de Atención a Víctimas;
 
 VII. Ponderar, antes de citar a una niña, niño o adolescente a alguna audiencia, la pertinencia de la misma, considerando su edad, madurez, estado psicológico, así como cualquier otra condición específica;
 
@@ -875,15 +1043,17 @@ X. Atendiendo al principio de celeridad procesal, ajustarse al tiempo de partici
 
 XI. Implementar medidas para garantizar el resguardo de la intimidad y datos personales de niñas, niños y adolescentes.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 53.
 
-Las autoridades estatales, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito, estén exentos de responsabilidad penal y garantizarán que no serán detenidos, retenidos, ni privados de su libertad, ni sujetos a procedimiento alguno, sin perjuicio de las responsabilidades civiles que correspondan a quienes ejerzan la patria potestad, tutela o guarda y custodia.
+Las autoridades estatales, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito, estén exentos de responsabilidad penal y garantizarán que no serán detenidos, retenidos, ni privados de su libertad, ni sujetos a procedimiento alguno, sin perjuicio de las responsabilidades civiles que correspondan a quienes ejerzan la patria potestad, tutela o custodia.
 
-En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña o niño en un hecho que la ley señale como delito, de manera inmediata dará aviso a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección, a fin de solicitar a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos.
+En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña o niño en un hecho que la ley señale como delito, de manera inmediata dará aviso a quienes ejerzan la patria potestad, tutela o custodia, así como a la Procuraduría de Protección, a fin de solicitar a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos.
 
-Toda medida que se adopte será susceptible de revisión por órgano judicial competente en un proceso contradictorio en el que se garantice, por lo menos, el derecho a ser oído y la asistencia de un abogado especializado.
+Toda medida que se adopte será susceptible de revisión por órgano judicial competente en un proceso contradictorio en el que se garantice, por lo menos, el derecho a ser oído y la asistencia de un asesor jurídico.
 
-En el caso en que un adolescente se encuentre en el contexto de la comisión de un delito, se notificará de inmediato, a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección, quien vigilará que el procedimiento sea de conformidad con la legislación en la materia.
+En el caso en que un adolescente se encuentre en el contexto de la comisión de un delito, se notificará de inmediato, a quienes ejerzan la patria potestad, tutela o custodia, así como a la Procuraduría de Protección, quien vigilará que el procedimiento sea de conformidad con la legislación en la materia.
 
 ###### Artículo 54.
 
@@ -903,15 +1073,19 @@ VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, ni
 
 ### CAPÍTULO XX. DERECHOS PARA NIÑAS, NIÑOS Y ADOLESCENTES MIGRANTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 55.
 
-Las autoridades estatales, en el ámbito de su competencia, deberán garantizar los derechos de niñas, niños y adolescentes migrantes, acompañados, no acompañados, separados, nacionales, extranjeros y repatriados en el contexto de movilidad humana, independientemente de su nacionalidad o su situación migratoria de conformidad con la Ley de Migración, la Ley General, esta Ley y las demás disposiciones jurídicas aplicables debiendo observar en todo momento el principio del interés superior de la niñez y los estándares internacionales en la materia.
+Las autoridades estatales, en el ámbito de su competencia, deberán garantizar los derechos de niñas, niños y adolescentes migrantes, acompañados, no acompañados, separados, nacionales, extranjeros y repatriados en el contexto de movilidad humana, independientemente de su nacionalidad o su situación migratoria de conformidad con la Ley de Migración, la Ley General, esta Ley y las demás disposiciones jurídicas aplicables debiendo observar en todo momento el principio del interés superior de la niñez y adolescencia, así como los estándares internacionales en la materia.
 
 Las autoridades competentes, una vez en contacto con la niña, niño o adolescente deberán de adoptar las medidas correspondientes para la protección de sus derechos. En consecuencia, darán una solución que resuelva todas sus necesidades de protección, teniendo en cuenta sus opiniones y privilegiando la reunificación familiar, excepto que sea contrario a su interés superior.
 
 Para garantizar la protección integral de los derechos, el Sistema Estatal DIF y los Sistemas Municipales DIF en coordinación con el Instituto Nacional de Migración, habilitarán espacios de alojamiento o albergues con estándares mínimos para dar una atención adecuada a niñas, niños y adolescentes migrantes, en donde se respetarán el principio de separación y el derecho a la unidad familiar, de modo tal que si se trata de niñas, niños o adolescentes no acompañados o separados, deberán alojarse en sitios distintos al que corresponde a las personas adultas.
 
-Tratándose de niñas, niños o adolescentes acompañados, podrán alojarse con sus familiares, salvo que lo más conveniente sea la separación de éstos en aplicación del principio del interés superior de la niñez.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Tratándose de niñas, niños o adolescentes acompañados, deberán alojarse con sus familiares.
 
 En caso de que el Sistema Estatal DIF o los Sistemas Municipales DIF identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración con el fin de proporcionarles el tratamiento adecuado para adoptar medidas de protección especiales.
 
@@ -923,13 +1097,13 @@ En ningún caso una situación migratoria irregular de niñas, niños o adolesce
 
 ### CAPÍTULO XX BIS. NIÑAS Y NIÑOS QUE VIVEN CON SUS MADRES EN LOS CENTROS PENITENCIARIOS
 
-> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
-Artículo 55 bis. La Ley reconoce a las niñas y niños que viven con sus madres en centros penitenciarios como un sector infantil en condiciones de vulnerabilidad, por lo que las autoridades estatales y municipales deberán garantizar el ejercicio, respeto, protección y promoción de sus derechos; asíí (sic) como prever primordialmente las acciones y mecanismos que les permitan un crecimiento y desarrollo pleno, en concordancia con el principio de protección integral, el derecho de igualdad sustantiva y la tutela de los derechos contenidos en la presente Ley, la Constitución Política del Estado de Michoacán de Ocampo y demás leyes aplicables.
+Artículo 55 bis. La Ley reconoce a las niñas y niños que viven con sus madres en centros penitenciarios como un sector infantil en condiciones de vulnerabilidad, por lo que las autoridades estatales y municipales deberán garantizar el ejercicio, respeto, protección y promoción de sus derechos; así como prever primordialmente las acciones y mecanismos que les permitan un crecimiento y desarrollo pleno, en concordancia con el principio de protección integral, el derecho de igualdad sustantiva y la tutela de los derechos contenidos en la presente Ley, la Constitución Política del Estado de Michoacán de Ocampo y demás leyes aplicables.
 
-Para los efectos a que se refiere este artículo, se considerara a las niñas y niños que viven con sus madres en centros penitenciarios, desde que nacen y hasta lo establecido en la Ley de la materia. El Sistema para el Desarrollo Integral de la Familia Michoacana en coordinación con la autoridad penitenciaria, valorarán a las mujeres que se encontraren en estado de gravidez al momento de estar privada de su libertad con motivo de compurgación de una pena o de estar sometida a prisión preventiva.
+Para los efectos a que se refiere este artículo, se considerará a las niñas y niños que viven con sus madres en centros penitenciarios, desde que nacen y hasta lo establecido en la Ley de la materia. El Sistema para el Desarrollo Integral de la Familia Michoacana en coordinación con la autoridad penitenciaria, valorarán a las mujeres que se encontraren en estado de gravidez al momento de estar privadas de su libertad con motivo de compurgación de una pena o de estar sometidas a prisión preventiva.
 
-Las niñas y niños que vivan con sus madres en los centros penitenciarios no serán considerados como sujetos de la legislación en materia de ejecución penal, por lo que la autoridad penitenciara (sic) garantizaraí (sic) el respeto pleno a sus derechos humanos asíí (sic) como de su desarrollo, sin menoscabo de la libertad.
+Las niñas y niños que vivan con sus madres en los centros penitenciarios, no serán considerados como sujetos de la legislación en materia de ejecución penal, por lo que la autoridad penitenciaria, garantizará el respeto pleno a sus derechos humanos, así como de su desarrollo, sin menoscabo de su libertad.
 
 > <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
 
@@ -969,17 +1143,19 @@ Artículo 55 sexies. El Sistema para el Desarrollo Integral de la Familia Michoa
 
 Los centros penitenciarios garantizarán la implementación de las políticas públicas establecidas por el Sistema para el Desarrollo Integral de la Familia Michoacana.
 
-> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2021)</small>
 
-Artículo 55 septies. Una vez concluido el tiempo permitido para que el niño permanezca en el centro penitenciario, el Sistema para el Desarrollo Integral de la Familia Michoacana valorará las condiciones socioeconómicas y psicológicas del familiar, tutor o encargado de la niña o el niño, para los efectos legales correspondientes.
+Artículo 55 septies. Una vez concluido el tiempo permitido para que la niña o el niño permanezcan en el centro penitenciario, el Sistema para el Desarrollo Integral de la Familia Michoacana, valorará las condiciones socioeconómicas y psicológicas del familiar, tutor o encargado de la niña o el niño, para los efectos legales correspondientes.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
 
 Si la hija o el hijo tuvieran una discapacidad, a valoración del Sistema para el Desarrollo Integral de la Familia Michoacana, se podrá solicitar a la autoridad penitenciaria la ampliación del plazo de estancia al cuidado de la madre. En todo caso, se resolverá ponderando el interés superior de la niñez.
 
-> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
-Artículo 55 octies. El Sistema para el Desarrollo Integral de la Familia Michoacana conformará un padrón respecto de las madres en reclusión con hijos o hijas, solamente para dar seguimiento al estatus de ellas y con la finalidad de garantizar los derechos de las niñas y niños, sin que ello signifique un antecedente para el menor, ni se genere un expediente sobre el mismo.
+Artículo 55 octies. El Sistema para el Desarrollo Integral de la Familia Michoacana, conformará un padrón respecto de las madres en reclusión con hijos o hijas, solamente para dar seguimiento al estatus de ellas y con la finalidad de garantizar los derechos de las niñas y niños, sin que ello signifique un antecedente para el menor de edad, ni se genere un expediente sobre el mismo.
 
-Llegado el momento en que el menor sea incorporado a la sociedad sus datos personales serán tratados conforme a lo establecido en la Ley de la materia.
+Llegado el momento en que el menor de edad sea incorporado a la sociedad, sus datos personales serán tratados conforme a lo establecido en la Ley de la materia.
 
 ### CAPÍTULO XXI. DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN, ASÍ COMO A LOS SERVICIOS DE RADIODIFUSIÓN Y TELECOMUNICACIONES
 
@@ -989,15 +1165,21 @@ Llegado el momento en que el menor sea incorporado a la sociedad sus datos perso
 
 Niñas, Niños y Adolescentes tienen derecho de acceso universal a las tecnologías de la información y comunicación, acorde a los fines establecidos en el artículo tercero de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet, como medio efectivo para ejercer sus derechos a la información, comunicación, libertad de expresión y asociación, educación, salud, cultura, sano esparcimiento, identidad, igualdad, no discriminación, y todos aquellos que contribuyan a su desarrollo integral, de conformidad con los principios de interdependencia, universalidad, indivisibilidad, progresividad, no regresividad e interés superior del menor, en términos de las disposiciones constitucionales y convencionales aplicables, y bajo un enfoque de derechos humanos, género, inclusión, interculturalidad, interseccionalidad y niñez. Para ello, las autoridades del Estado darán todas las facilidades a efecto de coordinarse con la Secretaría de Comunicaciones y Transportes en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión; asimismo, establecerán mecanismos compatibles con los más altos estándares tutelares del derecho internacional de los derechos humanos, para prevenir razonablemente los riesgos que su uso pudiera implicar en el desarrollo integral del menor y garantizar su uso responsable y seguro.
 
-### CAPÍTULO XXII. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA, GUARDA O CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ABRIL DE 2021)</small>
+
+### CAPÍTULO XXII. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
 ###### Artículo 57.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias están obligadas a proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como un traductor o intérprete en caso de ser necesario, asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en cuanto a las obligaciones que establecen esta Ley y demás disposiciones jurídicas aplicables y en la medida que se favorezca el interés superior de la niñez.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias están obligadas a proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como un traductor o intérprete en caso de ser necesario, asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en cuanto a las obligaciones que establecen esta Ley y demás disposiciones jurídicas aplicables y en la medida que se favorezca el interés superior de la niñez y adolescencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2021)</small>
 
 ###### Artículo 58.
 
-Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, en proporción a su responsabilidad y, cuando sean instituciones públicas, conforme a su ámbito de competencia, las siguientes:
+Son obligaciones de quienes ejercen la patria potestad, tutela o custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, en proporción a su responsabilidad y, cuando sean instituciones públicas, conforme a su ámbito de competencia, las siguientes:
 
 I. Proporcionar y garantizar el derecho a alimentos de niñas, niños y adolescentes conforme al Código Familiar;
 
@@ -1017,19 +1199,25 @@ VI. Dar en consonancia con la evolución de sus facultades, la dirección y orie
 
 VII. Fomentar en niñas, niños y adolescentes el respeto a las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
-VIII. Orientar, supervisar y, en su caso, restringir, las conductas y hábitos que menoscaben el desarrollo integral de niñas, niños y adolescentes siempre que se atienda al interés superior de la niñez;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+VIII. Orientar, supervisar y, en su caso, restringir, las conductas y hábitos que menoscaben el desarrollo integral de niñas, niños y adolescentes siempre que se atienda al interés superior de la niñez y adolescencia;
 
 IX. Considerar la opinión de niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez; y,
 
 X. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
 
-Las sanciones en caso de incumplimiento de las obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia serán las dispuestas por esta Ley, el Código Familiar y demás leyes aplicables.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Las sanciones en caso de incumplimiento de las obligaciones de quienes ejercen la patria potestad, tutela o custodia serán las dispuestas por esta Ley, el Código Familiar y demás leyes aplicables.
 
 El Ministerio Público tendrá la intervención que las leyes dispongan en los procedimientos jurisdiccionales o administrativos en que niñas, niños o adolescentes estén relacionados. En materia de justicia penal, se estará a lo dispuesto en la Constitución Federal, esta Ley y demás disposiciones jurídicas aplicables y no podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 59.
 
-A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría de Protección.
+A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez y adolescencia, la representación en suplencia corresponderá a la Procuraduría de Protección.
 
 Al efecto, la Procuraduría de Protección ejercerá la representación coadyuvante, de conformidad con lo dispuesto en esta Ley y en las demás disposiciones jurídicas aplicables.
 
@@ -1041,9 +1229,11 @@ Cuando existan indicios de conflicto de intereses entre quienes ejerzan la repre
 
 La Procuraduría de Protección autoriza, registra, certifica y supervisa los centros de asistencia social, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 61.
 
-Las instalaciones de los centros de asistencia social deberán cumplir con los requisitos establecidos en la Ley General; respetando en todos los casos, los niveles de madurez intelectual, física, social de cada niña, niño o adolescente de acuerdo a la etapa del desarrollo evolutivo en que se encuentre.
+Las instalaciones de los centros de asistencia social deberán cumplir con los requisitos establecidos en la Ley General, esta Ley, su reglamento y los lineamientos que se emitan para tal efecto; respetando en todos los casos, los niveles de madurez intelectual, física, social de cada niña, niño o adolescente de acuerdo a la etapa del desarrollo evolutivo en que se encuentre.
 
 Niñas, niños y adolescentes con discapacidad temporal o permanente deberán ser atendidos y no podrán ser discriminados para ser recibidos o permanecer en los centros de asistencia social bajo ningún concepto.
 
@@ -1057,9 +1247,9 @@ Es responsabilidad de los centros de asistencia social garantizar la integridad 
 
 Los servicios que presten los centros de asistencia social estarán orientados a brindar, en cumplimiento a sus derechos:
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-I. Un entorno seguro, afectivo y libre (sic) maltrato o violencia;
+I. Un entorno seguro, afectivo y libre de maltrato o violencia;
 
 II. Cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica;
 
@@ -1083,9 +1273,13 @@ XI. A niñas, niños y adolescentes con discapacidad, la inclusión en términos
 
 XII. Capacitación y formación especializada a su personal en la medida que favorezca el desarrollo integral de niñas, niños y adolescentes bajo su cuidado; y,
 
-XIII. Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tenga contacto con éstos en la medida que pudiera causarles algún daño o perjuicio.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-Asimismo y con la finalidad de brindarles mejores alternativas de protección para el cumplimiento de sus derechos, se deberá llevar a cabo la revisión periódica de su situación, de la de su familia y de la medida especial de protección por la cual ingresó al centro de asistencia social, garantizando el contacto con su familia y personas significativas siempre que esto sea posible, atendiendo a su interés superior.
+XIII. Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes; así como cualquier tipo de violencia en su contra, en específico castigo corporal físico o psicológico. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tengan contacto con éstos en la medida que pudiera causarles algún daño o perjuicio.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Asimismo, con la finalidad de brindarles mejores alternativas de protección para el cumplimiento de sus derechos, se deberá llevar a cabo la revisión periódica de su situación, de la de su familia y de la medida especial de protección por la cual ingresó al centro de asistencia social, garantizando el contacto con su familia y personas significativas siempre que esto sea posible, atendiendo a su interés superior.
 
 Por cada niña, niño o adolescente se abrirá un expediente completo, para los fines expresados del párrafo anterior, así como para determinar procedimientos de ingreso y egreso con el apoyo de las autoridades competentes que faciliten su reincorporación familiar o social.
 
@@ -1109,9 +1303,11 @@ V. Que supervise y evalué periódicamente al personal;
 
 El centro de asistencia social podrá solicitar la colaboración de instituciones, organizaciones o dependencias que brinden apoyo en psicología, trabajo social, derecho, pedagogía, y otros para el cuidado integral de niñas, niños y adolescentes, teniendo en cuenta el grado de madurez cognoscitiva, afectiva, social y física de los beneficiarios de la ayuda solicitada.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 65.
 
-Son obligaciones de los titulares o responsables legales de los Centros de Asistencia Social, las estipuladas en la Ley General.
+Son obligaciones de los titulares o responsables legales de los Centros de Asistencia Social, las estipuladas en la Ley General, esta Ley, su Reglamento y los Lineamientos que se emitan para tal efecto.
 
 ###### Artículo 66.
 
@@ -1131,15 +1327,19 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría de Protecc
 
 Las autoridades estatales, municipales y de los organismos constitucionales autónomos, en el ámbito de sus respectivas competencias, deberán establecer y garantizar el cumplimiento de la política nacional y estatal en materia de derechos de niñas, niños y adolescentes.
 
-Las políticas públicas emprendidas por dichas autoridades garantizarán el goce de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones jurídicas aplicables y en la medida que coadyuven efectivamente a su desarrollo integral.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Las políticas públicas emprendidas por dichas autoridades garantizarán el goce de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y adolescencia, así como asegurar la asignación prioritaria de recursos en términos de las disposiciones jurídicas aplicables y en la medida que coadyuven efectivamente a su desarrollo integral.
 
 Los principios de esta Ley orientarán la actuación de las autoridades gubernamentales del Estado y de los municipios, encargados de la defensa y representación jurídica, asistencia, provisión, prevención, protección y participación de niñas, niños y adolescentes.
 
 ### CAPÍTULO XXV. DISTRIBUCIÓN DE COMPETENCIAS
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 69.
 
-Corresponde a las autoridades estatales y municipales, en el ámbito de sus atribuciones, garantizar a niñas, niños y adolescentes la protección y el ejercicio de sus derechos y la aplicación de medidas necesarias para su bienestar, tomando en cuenta el interés superior de la niñez.
+Corresponde a las autoridades estatales y municipales, en el ámbito de sus atribuciones, garantizar a niñas, niños y adolescentes la protección y el ejercicio de sus derechos y la aplicación de medidas necesarias para su bienestar, tomando en cuenta el interés superior de la niñez y adolescencia.
 
 ###### Artículo 70.
 
@@ -1163,17 +1363,23 @@ I. Coordinar la implementación y ejecución de las acciones y políticas públi
 
 II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, así como la cultura de respeto, promoción y protección de los mismos, de conformidad con los principios de esta Ley;
 
-III. Garantizar el cabal cumplimiento de la presente Ley y de los instrumentos internacionales aplicables; en la medida que favorezcan la protección del interés superior de la niñez;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+III. Garantizar el cabal cumplimiento de la presente Ley y de los instrumentos internacionales aplicables; en la medida que favorezcan la protección del interés superior de la niñez y adolescencia;
 
 IV. Adoptar medidas de protección especial de los derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con su sexo, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos;
 
-V. Proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en relación a las obligaciones que establece esta Ley; en la medida que favorezca el desarrollo integral de niñas, niños y adolescentes bajo su cuidado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+V. Proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en relación a las obligaciones que establece esta Ley; en la medida que favorezca el desarrollo integral de niñas, niños y adolescentes bajo su cuidado;
 
 VI. Garantizar el desarrollo y la supervivencia así como investigar, sancionar efectivamente los actos de privación de la vida de niñas, niños y adolescentes y la reparación del daño que corresponda de manera eficaz y oportuna;
 
 VII. Colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes;
 
-VIII. Establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+VIII. Establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o custodia;
 
 IX. Establecer las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre que no sea contrario a su interés superior;
 
@@ -1207,25 +1413,31 @@ XXII. Coadyuvar con las instituciones públicas o privadas dedicadas a la atenci
 
 XXIII. Garantizar la protección de los derechos de niñas, niños y adolescentes y asegurar que en caso de vulneración o violación de sus derechos, ellos sean atendidos de forma preferente por todas las autoridades, en el ámbito de sus respectivas competencias;
 
-XXIV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-> <small>(F. DE E., P.O. 25 DE JULIO DE 2016)</small>
+XXIV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-XXV. Establecer mecanismos para impedir el acceso a espectáculos que promuevan o difundan violencia de cualquier tipo, que pongan en riesgo la salud mental y física de las niñas, niños y adolescentes.
+XXV. Establecer mecanismos para impedir el acceso a espectáculos que promuevan o difundan violencia de cualquier tipo, que pongan en riesgo la salud mental y física de las niñas, niños y adolescentes;
 
-> <small>(F. DE E., P.O. 25 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2016)</small>
+XXVI. Promover campañas de difusión para prevenir cualquier forma de maltrato o violencia, de venta, trata de personas, explotación, abandono o crueldad, abuso sexual, psicológico o físico; y,
 
-XXVI. Promover campañas de difusión para prevenir cualquier forma de maltrato o violencia, de venta, trata de personas, explotación, abandono o crueldad, abuso sexual, psicológico o físico.
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+XXVII. Atender oportunamente y canalizar a las instancias correspondientes los posibles casos de violencia en contra de niñas, niños y adolescentes con base en el Protocolo de Atención Inmediata.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2021)</small>
 
 ###### Artículo 72.
 
-Corresponden a las autoridades estatales en el ámbito de su (sic) competencias, las atribuciones siguientes:
+Corresponden a las autoridades estatales en el ámbito de sus competencias, las atribuciones siguientes:
 
-I. Garantizar el cabal cumplimiento de la presente Ley, la Ley General y de los tratados internacionales aplicables, en la medida que favorezcan la protección del interés superior de la niñez;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+I. Garantizar el cabal cumplimiento de la presente Ley, la Ley General y de los tratados internacionales aplicables, en la medida que favorezcan la protección del interés superior de la niñez y adolescencia;
 
 II. Aplicar y colaborar con el Programa Nacional previsto en la Ley General;
 
@@ -1233,7 +1445,9 @@ III. Establecer, utilizar, supervisar y mantener todos los instrumentos y accion
 
 IV. Revisar y valorar la eficacia de las acciones, las políticas públicas y los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen;
 
-V. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas en la materia, en la medida que favorezca la protección del interés superior de la niñez;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+V. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas en la materia, en la medida que favorezca la protección del interés superior de la niñez y adolescencia;
 
 VI. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno;
 
@@ -1241,7 +1455,9 @@ VII. Imponer las sanciones por las infracciones, de acuerdo a lo dispuesto por l
 
 VIII. Revocar temporal o definitivamente, a través de la autoridad competente, la autorización para operar los centros de asistencia social, por el incumplimiento de las obligaciones y requisitos previstos en esta Ley y en la Ley General;
 
-IX. Verificar, por conducto del Instituto Nacional de Migración, la existencia de la autorización de quienes ejerzan la patria potestad, tutela o, en su caso, del órgano jurisdiccional competente, que permita la entrada y salida de niñas, niños o adolescentes del territorio nacional, conforme a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+IX. Verificar, por conducto del Instituto Nacional de Migración, la existencia de la autorización de quienes ejerzan la patria potestad, tutela o custodia, en su caso, del órgano jurisdiccional competente, que permita la entrada y salida de niñas, niños o adolescentes del territorio nacional, conforme a las disposiciones jurídicas aplicables;
 
 X. Determinar, por conducto del Instituto Nacional de Migración, la condición migratoria de niñas, niños y adolescentes migrantes;
 
@@ -1265,9 +1481,17 @@ XIX. Proporcionar a las instancias encargadas de realizar estadísticas y de int
 
 XX. Coordinar con las autoridades de los órdenes de gobierno la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley;
 
-XXI. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-XXII. Cualquier otra prevista en las disposiciones jurídicas aplicables para el cumplimiento de esta Ley.
+XXI. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2021)</small>
+
+XXII. Dotar de recursos económicos, materiales y humanos suficientes, a las instancias encargadas de la protección de niñas, niños y adolescentes en la entidad y colaborar con su adecuado funcionamiento; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2021)</small>
+
+XXIII. Cualquier otra prevista en las disposiciones jurídicas aplicables para el cumplimiento de esta Ley.
 
 ###### Artículo 73.
 
@@ -1293,9 +1517,17 @@ IX. Coordinarse con las autoridades estatal y federal para la implementación y 
 
 X. Coadyuvar en la integración del sistema de información a nivel nacional de niñas, niños y adolescentes;
 
-XI. Impulsar la participación de las organizaciones privadas dedicadas a la protección, promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales; en la medida que favorezca a la salvaguarda del interés superior de la niñez; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-XII. Las demás que establezcan las autoridades estatales y municipales y aquellas que deriven del cumplimiento de lo dispuesto en la Ley General.
+XI. Impulsar la participación de las organizaciones privadas dedicadas a la protección, promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales; en la medida que favorezca a la salvaguarda del interés superior de la niñez y adolescencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2021)</small>
+
+XII. Detectar y canalizar los posibles casos de violencia y acoso sexual en contra de niñas, niños y adolescentes en los ámbitos escolar y familiar de conformidad con el Protocolo de Atención Inmediata; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2021)</small>
+
+XIII. Las demás que establezcan las autoridades estatales y municipales y aquellas que deriven del cumplimiento de lo dispuesto en la Ley General.
 
 ### CAPÍTULO XXVI. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MICHOACÁN
 
@@ -1311,15 +1543,29 @@ II. Apoyar el desarrollo de la familia y la comunidad, resaltando una cultura de
 
 III. Impulsar la cooperación y coordinación de las autoridades en los diferentes niveles en el ámbito de sus respectivas competencias en materia de protección y restitución en el ejercicio de derechos de niñas, niños y adolescentes para establecer los mecanismos necesarios para ello;
 
-IV. Prestar servicios de asistencia social y en su caso, celebrar los convenios de colaboración con los Sistemas Municipales DIF, así como con organizaciones e instituciones de los sectores público, privado y social, en la medida que favorezca la salvaguarda del interés superior de la niñez;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+IV. Prestar servicios de asistencia social y en su caso, celebrar los convenios de colaboración con los Sistemas Municipales DIF, así como con organizaciones e instituciones de los sectores público, privado y social, en la medida que favorezca la salvaguarda del interés superior de la niñez y adolescencia;
 
 V. Operar y monitorear todas las acciones, programas y establecimientos destinados a brindar asistencia social en beneficio de niñas, niños y adolescentes; especialmente con aquellos que sufren algún tipo de discapacidad;
 
 VI. Promover la formación, capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como para realizar y apoyar estudios e investigaciones en la materia, en la medida que favorezca la salvaguarda del interés superior de la niñez;
 
-VII. Actuar con interés jurídico ante los tribunales del Estado, en todo juicio en que, a criterio discrecional del propio sistema, se vean afectados los derechos de niñas, niños y adolescentes, respetando las leyes aplicables; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-VIII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
+VII. Actuar con interés jurídico ante los tribunales del Estado, en todo juicio en que, a criterio discrecional del propio sistema, se vean afectados los derechos de niñas, niños y adolescentes, respetando las leyes aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2021)</small>
+
+VIII. Contar con un sistema de información y registro, permanentemente actualizado, que incluya niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, solicitantes de adopción y aquellos que cuenten con certificado de idoneidad, adopciones concluidas desagregadas en nacionales e internacionales, así como niñas, niños y adolescentes adoptados, informando de cada actualización a la Procuraduría de Protección Federal. También se llevará un registro de las familias de acogida y de las niñas, niños y adolescentes acogidos por éstas;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+IX. Dotar de recursos económicos, materiales y humanos suficientes a la Procuraduría de Protección para del (sic) desempeño de sus funciones establecidas en esta Ley; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2021)</small>
+
+X. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
 ### CAPÍTULO XXVII. PROCURADURÍA DE PROTECCIÓN
 
@@ -1341,9 +1587,9 @@ II. Cinco Subprocuradores Regionales;
 
 III. Las Coordinaciones siguientes:
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
-a) Jurídica de Restitución, Protección y Supervisión;
+a) Jurídica, de Restitución, Protección y Supervisión;
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
@@ -1387,9 +1633,13 @@ a) Atención médica y psicológica;
 
 b) Seguimiento a las actividades académicas y entorno social y cultural; y,
 
-c) La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia;
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
-II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables;
+c) La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público y a la Comisión Ejecutiva Estatal de Atención a Víctimas, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables;
 
 III. Coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada;
 
@@ -1419,7 +1669,13 @@ IX. Asesorar a las autoridades competentes y a los sectores público, social y p
 
 X. Desarrollar los lineamentos y procedimientos a los que se sujetarán para la restitución de los derechos de niñas, niños y adolescentes;
 
-XI. Coadyuvar con el Sistema Estatal DIF y los Sistemas Municipales en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre adoptivo, así como para emitir los certificados de idoneidad;
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+X Bis. Elaborar y proponer los lineamentos y procedimientos a los que se sujetarán para su autorización, registro, certificación y supervisión, los Centros de Asistencia Social en el Estado que brinden atención y acogimiento a niñas, niños y adolescentes;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+XI. Coadyuvar con el Sistema Estatal DIF y los Sistemas Municipales en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento bajo la modalidad de Acogimiento Pre- Adoptivo, así como para emitir los Certificados de Idoneidad;
 
 XII. Proporcionar información para integrar y sistematizar el Registro Estatal de Centros de Asistencia Social;
 
@@ -1427,13 +1683,23 @@ XIII. Supervisar el debido funcionamiento de los centros de asistencia social y,
 
 XIV. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial;
 
-XV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-XVI. Las demás que les confieran otras disposiciones aplicables.
+XV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2021)</small>
+
+XVI. Ser parte de la Comisión de Atención Inmediata y participar en las acciones coordinadas que establezca el Protocolo de Atención Inmediata para atender de manera oportuna los posibles casos de violencia sexual en contra de niñas, niños y adolescentes; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2021)</small>
+
+XVII. Las demás que les confieran otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2021)</small>
 
 ###### Artículo 78.
 
-Para solicitar la protección y restitución integral de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección deberá, atendiendo al principio superior de la niñez, seguir el siguiente procedimiento:
+Para solicitar la protección y restitución integral de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección deberá, atendiendo al principio del interés superior de la niñez y adolescencia, seguir el siguiente procedimiento:
 
 I. Recibir y detectar presuntos casos de vulneración de derechos;
 
@@ -1467,9 +1733,11 @@ La Procuraduría Estatal de Protección contará con representaciones regionales
 
 ### CAPÍTULO XXVIII. SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 80.
 
-En virtud de lo establecido en la Ley General; las autoridades estatales y municipales impulsarán, colaborarán, gestionarán y coadyuvaran al desarrollo de políticas, programas y estrategias en favor de la salvaguarda del interés superior de la niñez.
+En virtud de lo establecido en la Ley General; las autoridades estatales y municipales impulsarán, colaborarán, gestionarán y coadyuvarán al desarrollo de políticas, programas y estrategias en favor de la salvaguarda del interés superior de la niñez y adolescencia.
 
 ###### Artículo 81.
 
@@ -1489,9 +1757,13 @@ V. El Secretario de Educación;
 
 VI. El Secretario de Salud;
 
-VII. El Delegado de la Secretaría del Trabajo y Previsión Social; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-VII (sic). El Director del Sistema Estatal DIF.
+VII. El comisionado Ejecutivo Estatal de Atención a Víctimas del Estado de Michoacán; y,
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 5 DE ABRIL DE 2021)</small>
+
+VIII. El Director del Sistema Estatal DIF.
 
 B. Organismos Públicos:
 
@@ -1523,9 +1795,11 @@ El Sistema Estatal de Protección Integral se reunirá cuando menos dos veces al
 
 Para sesionar se requiere de la asistencia de la mayoría de sus miembros; sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 83.
 
-Para el mejor cumplimiento de sus funciones, el Sistema Estatal de Protección Integral podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, así como para la integración, organización y funcionamiento de los Sistemas Municipales, dichos lineamientos deberán ser publicadas (sic) en el Periódico Oficial del Gobierno del Estado de Michoacán.
+Para el mejor cumplimiento de sus funciones, el Sistema Estatal de Protección Integral podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, así como para la integración, organización y funcionamiento de los Sistemas Municipales, dichos lineamientos deberán ser publicados en el Periódico Oficial del Gobierno del Estado de Michoacán.
 
 ###### Artículo 84.
 
@@ -1569,13 +1843,35 @@ XVI. Hacer efectiva la concurrencia, vinculación y congruencia de los programas
 
 XVII. Establecer los lineamientos para el funcionamiento de los Sistemas Municipales de Protección Integral;
 
-XVIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley; esta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-XIX. Auxiliar a la Procuraduría local de Protección en las medidas urgentes de protección que (sic)
+XVIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+XIX. Auxiliar a la Procuraduría local de Protección en las medidas urgentes de protección que esta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
 
 XX. Celebrar convenios de coordinación en la materia;
 
-XXI. Las demás que le otorguen otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2021)</small>
+
+XXI. Crear la Comisión de Atención Inmediata Para los Casos de Violencia Sexual en Contra de Niñas, Niños y Adolescentes en los Ámbitos Escolar y Familiar;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+XXII. Emitir el Protocolo de Atención Inmediata Para los Casos de Violencia Sexual en Contra de Niñas, Niños y Adolescentes en los Ámbitos Escolar y Familiar; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2021)</small>
+
+XXIII. Las demás que le otorguen otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Artículo 85 bis. Para atender los casos de violencia sexual en contra de niñas, niños y adolescentes en los ámbitos escolar y familiar, el Sistema Estatal de Protección Integral contará con una Comisión de Atención Inmediata conformada por lo menos con un representante de las secretarías de Salud y Educación, del Sistema Estatal DIF, de la Procuraduría de Protección, de la Comisión Ejecutiva Estatal de Atención a Víctimas, más los que a su propio juicio deban colaborar de forma operativa y oportuna de acuerdo a los lineamientos establecidos en el Protocolo de Atención Inmediata.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+Artículo 85 ter. Para atender los casos de violencia sexual en contra de niñas, niños y adolescentes en los ámbitos escolar y familiar, el Sistema Estatal de Protección Integral emitirá un Protocolo de Atención Inmediata, donde establecerá la participación y colaboración interinstitucional de las diferentes dependencias facultadas en esta Ley, para que, de acuerdo a sus respectivas atribuciones, implementen acciones oportunas y pertinentes en base a lineamientos que deberán contemplar la detección, atención, canalización, protección, denuncia, acompañamiento, asesoría, representación coadyuvante y demás acciones que de carácter inmediato se requieran.
 
 ### CAPÍTULO XXIX. SECRETARÍA EJECUTIVA
 
@@ -1601,7 +1897,9 @@ VII. Realizar y promover estudios e investigaciones para fortalecer las acciones
 
 VIII. Difundir entre las autoridades correspondientes y la población en general los resultados de los trabajos que realice, así como toda aquella información pública que tienda a la generación, desarrollo y consolidación de perspectiva en la materia, desagregada por lo menos, en razón de edad, sexo, entidad federativa, escolaridad y discapacidad;
 
-IX. Asesorar y apoyar a los (sic) gobierno estatal y los gobiernos municipales que lo requieran para el ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+IX. Asesorar y apoyar al gobierno estatal y a los municipales que lo requieran para el ejercicio de sus atribuciones;
 
 X. Informar cada cuatro meses al Sistema Estatal de Protección Integral y a su Presidente, sobre sus actividades;
 
@@ -1611,9 +1909,17 @@ XII. Garantizar la participación de los sectores social y privado así como la 
 
 XIII. Articularse con la Secretaría Ejecutiva del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
 
-XIV. Operar el Sistema Estatal de Información; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-XV. Las demás que le encomiende el Presidente o el Sistema Estatal de Protección Integral.
+XIV. Operar el Sistema Estatal de Información;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2021)</small>
+
+XV. Coordinar, supervisar y apoyar con los recursos necesarios a la Comisión de Atención Inmediata; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2021)</small>
+
+XVI. Las demás que le encomiende el Presidente o el Sistema Estatal de Protección Integral.
 
 ###### Artículo 87.
 
@@ -1814,3 +2120,21 @@ P.O. 25 DE ENERO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 510.- ARTÍCULO PRIMERO.- SE REFORMA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN.- ARTÍCULO CUARTO.- SE REFORMA EL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO QUINTO.- SE REFORMA LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEXTO.- SE REFORMA LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SÉPTIMO.- SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez y adolescencia.
+
+TERCERO. Las niñas, niños o adolescentes que hayan sido separados de su madre, padre o familiares, o que se les haya restringido su derecho a convivir con ellos de manera física, con motivo de la emergencia sanitaria generada por la pandemia del virus COVID-19 o coronavirus SARS-CoV-2, verán restituido su derecho a vivir y convivir físicamente de inmediato, bajo las medidas sanitarias que se consideren necesarias para salvaguardar su salud.
+
+Para ello, el Poder Judicial del Estado de Michoacán, dictará las medidas y realizará lo conducente a efecto de que esas niñas, niños y adolescentes convivan física y personalmente con su madre, padre o familiares de los que fueron separados o cuyas convivencias fueron restringidas; y, en el ámbito de su respectiva competencia, la Procuraduría de Protección, el Poder Judicial del Estado de Michoacán y las instituciones de salud, aplicarán las medidas necesarias para reparar los daños emocionales o alienación parental ocasionados a los menores de edad durante el periodo de separación o restricción, así como para que no se repitan.
+
+Considerando que la pandemia es una situación delicada y que por tanto es injustificable el hecho de que sea utilizada dentro de un proceso judicial en detrimento de las niñas, niños y adolescentes, en caso de que alguno de los progenitores haya obstaculizado u obstaculice las convivencias a que tiene derecho su hija o hijo con su padre, madre o familiares durante esta pandemia, los jueces y magistrados serán responsables de aplicar las sanciones correspondientes conforme a la normatividad vigente al momento de los hechos, considerando la especial gravedad de dichas acciones u omisiones al realizarse durante una emergencia sanitaria.
+
+CUARTO. Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, deberán concluirse y ejecutarse conforme las disposiciones vigentes antes de la entrada en vigor de éste último.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
