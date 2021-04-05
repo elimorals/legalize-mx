@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2020-01-03"
+last_updated: "2021-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2021.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -2435,11 +2435,11 @@ V.- Ser de reconocida buena conducta y solvencia moral;
 
 VI.- No haber sido condenado por delito intencional.
 
-> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2021)</small>
 
 ###### Artículo 184.
 
-Para ser mediador o conciliador se debe reunir los mismos requisitos que se establecen para el Director del Centro de Mediación y Conciliación, con excepción de la edad, que será cuando menos de 30 años y la profesión, pudiendo ser licenciado en derecho, en psicología, en sociología, en antropología, en trabajo social o en comunicación.
+Para ser mediador o mediadora, conciliador o conciliadora o facilitador o facilitadora se debe reunir los mismos requisitos para el Director del Centro de Mediación y Conciliación o la Directora del Centro de Mediación y Conciliación, con excepción de la edad que será cuando menos de 25 años y la profesión, pudiendo ser licenciado o licenciada en derecho, en psicología, en sociología, en antropología, en trabajo social, en comunicación, en medios alternos u otra afín.
 
 > <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -2447,11 +2447,11 @@ Para ser mediador o conciliador se debe reunir los mismos requisitos que se esta
 
 Los mediadores y conciliadores tendrán fe pública en todo lo relativo al desempeño de sus funciones, debiendo firmar junto con los interesados todo acuerdo o convenio.
 
-> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2021)</small>
 
 ###### Artículo 186.
 
-La sujeción a la mediación y conciliación son voluntarias.
+La sujeción a la mediación, conciliación y justicia restaurativa son obligatorias en etapa intraprocesal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3408,3 +3408,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- La presente reforma será aplicable al proceso de renovación del Presidente del Tribunal Superior de Justicia del Estado de México, para el periodo correspondiente 2020-2025 y subsecuentes.
+
+G.G. 5 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 253.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 184 Y 186 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrara en vigor el día siguiente a su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
