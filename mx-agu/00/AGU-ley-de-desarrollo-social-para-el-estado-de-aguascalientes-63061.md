@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2020-09-14"
+last_updated: "2021-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -63,31 +63,45 @@ V. Fomentar el sector social de la economía, así como la participación del se
 
 VI. Establecer los criterios y mecanismos de coordinación de las acciones en la materia, que se realicen entre los gobiernos federal, estatal y municipal, a fin de vigilar que los recursos públicos asignados al desarrollo social se apliquen y ejerzan con oportunidad, equidad y transparencia;
 
-VII. Conjuntar los esfuerzos con el sector social y privado, a fin de impulsar el desarrollo económico de las Zonas de Atención Prioritaria en el Estado;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+VII. Impulsar el desarrollo de la economía social, rural y urbana, como premisa para la generación de empleos e ingresos para la población en condiciones de pobreza;
 
-VIII. Establecer mecanismos de evaluación y seguimiento de los programas y acciones de la Política Estatal de Desarrollo Social;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+VIII. Establecer las bases y los mecanismos para el diseño, la planeación, ejecución, monitoreo, evaluación y seguimiento de las políticas públicas en materia de desarrollo social del Estado y municipios, garantizando en todo momento la participación social, el desarrollo sustentable, y vigencia de los derechos sociales;
 
-IX. Fomentar la participación de la ciudadanía y sus Organizaciones en el diseño, monitoreo y evaluación de las políticas de desarrollo social;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+IX. Impulsar la participación ciudadana estableciendo mecanismos para que la sociedad civil sea corresponsable, en el cumplimiento de los objetivos de la política estatal y municipal en materia de desarrollo social;
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 X. Establecer y promover instrumentos de acceso a la justicia, a través de la denuncia ciudadana, en materia de desarrollo social;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-XI. Implementar y promover instrumentos de acceso a la información, transparencia y rendición de cuentas en la aplicación y ejecución de las políticas de desarrollo social;
+XI. Asegurar la transparencia y la rendición de cuentas en la ejecución de los programas y la aplicación de los recursos para el desarrollo social, a través de mecanismos de participación social, evaluación y acceso a la información pública;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-XII. La integración de un Padrón Único de Beneficiarios, que evite duplicidades en la entrega de apoyos y programas del Estado y los Municipios, con el fin de direccionar y canalizar dichos esfuerzos a las comunidades y personas que más lo necesiten; y
+XII. La integración de un Padrón Único de Beneficiarios, que evite duplicidades en la entrega de apoyos y programas del Estado y los Municipios, con el fin de direccionar y canalizar dichos esfuerzos a las comunidades y personas que más lo necesiten;
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 XIII. Establecer las bases para que la política social para que efectivamente se contribuya a reducir en números absolutos, la pobreza, la marginación y la desigualdad, y que mejore la vida de las familias, bajo criterios de subsidiariedad, garantizando el desarrollo humano.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+XIV. Garantizar la calidad de los programas de desarrollo social a cargo del Gobierno del Estado y de los municipios, así como su eficiente aplicación con apego a la equidad y la justicia social;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+XV. Impulsar la incorporación de la igualdad sustantiva entre mujeres y hombres, la protección de las familias, las mujeres, las y los jóvenes, las personas o grupos en desventaja, en especial niñas, niños y adolescentes, personas con discapacidad, con enfermedades terminales, indígenas y adultos mayores, en los programas de desarrollo social a cargo de (sic) Gobierno del Estados y los Municipios; y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+XVI. Impulsar el desarrollo social desde las localidades y colonias, como unidades básicas de cambio, donde la familia sea el eje y principio de la política social para el mejoramiento corresponsable de su entorno comunitario.
 
 > <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
 
@@ -1218,3 +1232,9 @@ P.O. 14 DE SEPTIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 520.- SE REFORMAN LAS FRACCIONES VIII, IX, XI, Y XII Y SE ADICIONAN LAS FRACCIONES VII, XIV, XV Y XVI TODAS DEL ARTÍCULO 1° DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
