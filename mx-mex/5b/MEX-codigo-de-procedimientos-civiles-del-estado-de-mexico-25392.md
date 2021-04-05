@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2021-01-04"
+last_updated: "2021-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2021.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -1184,6 +1184,10 @@ Presentación de demanda vía electrónica
 Una vez recibido el escrito de demanda, se emitirá un acuse de recibido en el que constarán los datos establecidos para el caso de presentación de promociones especificando además, el juzgado al que fue turnada la demanda.
 
 Cuando el escrito de demanda se presente a través de medios electrónicos los documentos base de la acción podrán presentarse en vía electrónica, pudiendo requerirse los originales de dichos instrumentos en el momento procesal que el Juez determine para tal efecto.
+
+> <small>(ADICIONADO, G.G. 5 DE ABRIL DE 2021)</small>
+
+Lo anterior, con apercibimiento para el caso de omisión, de que se tendrán por ciertos los hechos que se pretendan demostrar con la prueba que, en su caso, haya motivado el requerimiento.
 
 El escrito de demanda y los documentos base de la acción se integrarán inmediatamente al expediente digital, pudiendo consultarse a partir de ese momento por quien esté habilitado para tal efecto, conforme a la regulación que emita el Consejo de la Judicatura.
 
@@ -9300,3 +9304,15 @@ G.G. 4 DE ENERO DE 2021.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta de Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta de Gobierno”.
+
+G.G. 5 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 254.- POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 1.119 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO, QUE DEBERÁ QUEDAR EN EL ORDEN CUARTO, PASANDO LOS ACTUALES CUARTO Y QUINTO A SER QUINTO Y SEXTO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+CUARTO. Los procedimientos judiciales y recursos que se encuentren en trámite a la entrada en vigor de este Decreto, continuarán substanciándose conforme a las disposiciones anteriores. Salvo el caso en que las partes se sometan voluntariamente a las nuevas disposiciones.
