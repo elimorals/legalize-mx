@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2021-03-01"
+last_updated: "2021-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -129,11 +129,11 @@ En el caso de la Fracción XVI del presente Artículo, los servicios de asistenc
 
 El Gobierno del Estado podrá participar en la prestación de servicios de asistencia social de competencia Federal o Municipal, siempre y cuando se convenga para ello.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
 ###### ARTICULO 6o.
 
-De acuerdo a lo dispuesto en la Ley General de Salud, corresponde a la Secretaría de Salud del Estado de Aguascalientes, como autoridad local, en materia de salubridad general, organizar, operar, supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, dentro de la jurisdicción territorial y con base a las normas técnicas que al efecto establezca la Secretaría de Salud del Gobierno Federal.
+De acuerdo con lo dispuesto en la Ley General de Salud, corresponde a la Secretaría de Salud del Estado de Aguascalientes, como autoridad local en materia de salubridad general, organizar, operar, informar, supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, dentro de la jurisdicción territorial y con base a las normas técnicas que al efecto establezca la Secretaría de Salud del Gobierno Federal.
 
 ###### ARTICULO 7o.
 
@@ -247,13 +247,17 @@ XVI.- El fomento de acciones hacia la paternidad responsable, la formación cult
 
 XVII.- El establecimiento y manejo de un departamento dedicado a la atención de personas víctimas de violencia intrafamiliar e institucional, o víctimas de delitos sexuales;
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-XVIII.- La promoción y fomento educativo hacia el respeto, reconocimiento y aceptación social en la igualdad de derechos y obligaciones del hombre y la mujer; y
+XVIII.- La promoción y fomento educativo hacia el respeto, reconocimiento y aceptación social en la igualdad de derechos y obligaciones del hombre y la mujer;
 
-> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-XIX.- La implementación de programas de asistencia social dirigidos a los padres solteros, tanto mujeres como hombres, que requieran apoyo económico o en especie para satisfacer los requerimientos básicos de subsistencia y desarrollo para ellos, sus hijas e hijos siempre y cuando éstos últimos sean menores de edad.
+XIX.- La implementación de programas de asistencia social dirigidos a los padres solteros, tanto mujeres como hombres, que requieran apoyo económico o en especie para satisfacer los requerimientos básicos de subsistencia y desarrollo para ellos, sus hijas e hijos siempre y cuando éstos últimos sean menores de edad, y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+XX.- La implementación y atención en albergues y Centros de Asistencia Social para la calamidad pública, emergencias sanitarias o pandemias que impliquen riesgo en la salud de las familias, así como, para desastres naturales que impliquen riesgo en la vida y la salud de las personas en estado de vulnerabilidad.
 
 ###### ARTICULO 14.
 
@@ -399,9 +403,11 @@ XXII.- Realizar los Cursos Intensivos para Padres de Familia; y
 
 XXIII.- Las demás que establezcan las disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### ARTICULO 19.
 
-En casos de desastre o siniestro, como inundaciones, terremotos, derrumbes, explosiones, incendios y otros fenómenos de la naturaleza por los que se causen daños a la población, el Organismo, sin perjuicio de las atribuciones que en auxilio de los damnificados lleven a cabo otras dependencias y entidades a la Administración Pública Federal, Estatal o Municipal, promoverá la atención inmediata de las acciones de los distintos sectores sociales que actúen en beneficio de aquéllos, en el ámbito de su competencia.
+En casos de desastre o siniestro, como inundaciones, terremotos, derrumbes, explosiones, incendios, contingencias sanitarias y otros fenómenos de la naturaleza por los que se causen daños a la población, el Organismo, sin perjuicio de las atribuciones que en auxilio de los damnificados lleven a cabo otras dependencias y entidades a la Administración Pública Federal, Estatal o Municipal, promoverá la atención inmediata de las acciones de los distintos sectores sociales que actúen en beneficio de aquéllos, en el ámbito de su competencia.
 
 ###### ARTICULO 20.
 
@@ -1744,3 +1750,11 @@ Con la entrada en vigor del presente Decreto, quedan sin efectos las disposicion
 ###### ARTÍCULO TERCERO.
 
 Dentro de los ciento ochenta días siguientes a la publicación del presente Decreto se deberán expedir todas aquellas disposiciones normativas y reglamentarias necesarias para su cumplimiento.
+
+P.O. 5 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 523.- SE REFORMAN LOS ARTÍCULOS 6°; 13, FRACCIONES XVIII Y XIX; 19 Y SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 13 DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
