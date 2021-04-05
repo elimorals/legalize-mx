@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil-77386"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-15"
-last_updated: "2018-12-10"
+last_updated: "2021-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 15 de noviembre de 2010.
 
@@ -349,11 +349,11 @@ Además de los miembros ya enunciados, la Comisión se integrará con ocho repre
 
 La Comisión podrá invitar a representantes de cámaras empresariales y de servicios, así como a representantes de los sectores académico, profesional, científico y cultural; a los titulares de las demás dependencias o entidades de la Administración Pública Estatal o Municipal, o a cualquier especialista en el tema a debatir, así como a las autoridades federales en el Estado para que asistan a las reuniones de la misma y en su caso propongan o emitan las opiniones respecto de los asuntos que sean de su competencia, teniendo solo voz pero no voto.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 10.
 
-La Comisión deberá sesionar de manera ordinaria cuando menos una vez al mes, con la asistencia de la mitad más uno de sus integrantes; y las decisiones sólo tendrán validez cuando sean tomadas por la mayoría de los asistentes a la sesión con derecho a voto, en caso de empate el Presidente o su suplente tendrá voto de calidad. La Comisión podrá sesionar en forma extraordinaria, cuando así se requiera.
+La Comisión deberá sesionar de manera ordinaria cuando menos una vez cada tres meses, con la asistencia de la mitad más uno de sus integrantes; y las decisiones sólo tendrán validez cuando sean tomadas por la mayoría de los asistentes a la sesión con derecho a voto, en caso de empate el Presidente o su suplente tendrá voto de calidad. La Comisión podrá sesionar en forma extraordinaria, cuando así se requiera.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
 
@@ -978,3 +978,15 @@ El presente Decreto entrará en vigor a partir del 01 de enero de 2019, previa s
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos para otorgar apoyos o estímulos iniciados con anterioridad a la entrada en vigor del presente Decreto, quedarán sin efectos y se tramitarán conforme a las disposiciones de la presente Ley.
+
+P.O. 5 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 524.- SE REFORMA EL ARTÍCULO 10 DE LA LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo que no exceda de 30 días naturales contados a partir del día siguiente de la publicación deberá hacerse la adecuación al Reglamento Interno de la Comisión de las Organizaciones de la Sociedad Civil del Estado de Aguascalientes.
