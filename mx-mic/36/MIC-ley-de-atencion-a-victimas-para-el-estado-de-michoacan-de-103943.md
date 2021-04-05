@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-atencion-a-victimas-para-el-estado-de-michoacan-de-10394
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-10"
-last_updated: "2019-08-28"
+last_updated: "2021-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 10 de diciembre de 2014.
 
@@ -955,7 +955,7 @@ Todas las actuaciones que realicen los asesores jurídicos adscritos a la Asesor
 
 Deberá contar con archivo e instalaciones adecuadas para la atención directa con víctimas, en los términos que señale el reglamento.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
 ###### Artículo 65.
 
@@ -963,17 +963,17 @@ La victima tendrá derecho a un asesor jurídico que comparezca a todos los acto
 
 El servicio de la Asesoría Jurídica será gratuito y se prestará a todas las víctimas que quieran o no pueden contratar a un abogado particular y en especial a:
 
-I. Las personas que estén desempleadas y no perciban ingresos;
+I. Las niñas, niños y adolescentes;
 
-II. Los trabajadores jubilados o pensionados, así como sus beneficiarios;
+II. Las personas que estén desempleadas y no perciban ingresos;
 
-III. Los trabajadores eventuales o subempleados;
+III. Los trabajadores jubilados o pensionados, así como sus beneficiarios;
 
-IV. Los miembros de los pueblos o comunidades originarios; y,
+IV. Los trabajadores eventuales o subempleados;
 
-V. Las personas que por cualquier razón social o económica tengan la necesidad de estos servicios.
+V. Los miembros de los pueblos o comunidades originarios; y,
 
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+VI. Las personas que por cualquier razón social o económica tengan la necesidad de estos servicios.
 
 Cuando la víctima cuente con un asesor jurídico particular, la Comisión quedará eximida de acudir como representante, pero deberá notificarlo a la autoridad que lo requiera.
 
@@ -1176,3 +1176,21 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO TERCERO.- SE REFORMA EL INCISO D) DE LA FRACCIÓN I DEL ARTÍCULO 28 DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 510.- ARTÍCULO PRIMERO.- SE REFORMA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN.- ARTÍCULO CUARTO.- SE REFORMA EL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO QUINTO.- SE REFORMA LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEXTO.- SE REFORMA LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SÉPTIMO.- SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez y adolescencia.
+
+TERCERO. Las niñas, niños o adolescentes que hayan sido separados de su madre, padre o familiares, o que se les haya restringido su derecho a convivir con ellos de manera física, con motivo de la emergencia sanitaria generada por la pandemia del virus COVID-19 o coronavirus SARS-CoV-2, verán restituido su derecho a vivir y convivir físicamente de inmediato, bajo las medidas sanitarias que se consideren necesarias para salvaguardar su salud.
+
+Para ello, el Poder Judicial del Estado de Michoacán, dictará las medidas y realizará lo conducente a efecto de que esas niñas, niños y adolescentes convivan física y personalmente con su madre, padre o familiares de los que fueron separados o cuyas convivencias fueron restringidas; y, en el ámbito de su respectiva competencia, la Procuraduría de Protección, el Poder Judicial del Estado de Michoacán y las instituciones de salud, aplicarán las medidas necesarias para reparar los daños emocionales o alienación parental ocasionados a los menores de edad durante el periodo de separación o restricción, así como para que no se repitan.
+
+Considerando que la pandemia es una situación delicada y que por tanto es injustificable el hecho de que sea utilizada dentro de un proceso judicial en detrimento de las niñas, niños y adolescentes, en caso de que alguno de los progenitores haya obstaculizado u obstaculice las convivencias a que tiene derecho su hija o hijo con su padre, madre o familiares durante esta pandemia, los jueces y magistrados serán responsables de aplicar las sanciones correspondientes conforme a la normatividad vigente al momento de los hechos, considerando la especial gravedad de dichas acciones u omisiones al realizarse durante una emergencia sanitaria.
+
+CUARTO. Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, deberán concluirse y ejecutarse conforme las disposiciones vigentes antes de la entrada en vigor de éste último.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
