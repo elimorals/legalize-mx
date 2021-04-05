@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-prevenir-y-eliminar-la-discriminacion-y-la-65198"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-02"
-last_updated: "2020-10-26"
+last_updated: "2021-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 2 de enero de 2009.
 
@@ -80,6 +80,10 @@ V. Establecer los criterios y las bases para superar las circunstancias, de car�
 Para los efectos de esta Ley se entenderá por discriminación toda distinción, exclusión, restricción o preferencia; por acción u omisión, con intención o sin ella, que no sea objetiva, razonable ni proporcional; y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades de las personas, grupos o comunidades; cuando se base en uno o más de los siguientes motivos: origen étnico o nacional; identidad o expresión indígena, racial o de género; color de piel; cultura; sexo; género; edad; discapacidad; condición social, económica, de salud o jurídica; religión; apariencia física; forma de pensar, vestir, actuar o gesticular; tatuajes, perforaciones o modificaciones corporales; consumo de sustancias psicoactivas; características genéticas; situación migratoria; embarazo; opiniones; orientación sexuales; (sic) identidad, filiación u opiniones política, académicas o filosóficas; estado civil; situación familiar; responsabilidades familiares; oficio; lengua o idioma; antecedentes penales; o cualquier otro motivo.
 
 La violencia a que se refiere esta Ley, derivada de la discriminación, la situación de desigualdad y las relaciones de poder, comprende todo acto que tenga o pueda tener como resultado un daño físico, sexual, económico, patrimonial, psicológico, laboral o cualquier otro análogo sobre quien se ejerce, así como las amenazas de tales actos, la coacción o la privación arbitraria de algún derecho, independientemente, de la modalidad y el tipo en que éstas se den.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+El hecho de que los menores de edad realicen sobre vías de circulación vehicular cualquier actividad por la que se pretenda obtener un ingreso económico para sobrevivir, es una manifestación de discriminación y violencia que el Estado está obligado a prevenir de manera permanente.
 
 ###### Artículo 3.
 
@@ -966,3 +970,21 @@ P.O. 26 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 510.- ARTÍCULO PRIMERO.- SE REFORMA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN.- ARTÍCULO CUARTO.- SE REFORMA EL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO QUINTO.- SE REFORMA LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEXTO.- SE REFORMA LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SÉPTIMO.- SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez y adolescencia.
+
+TERCERO. Las niñas, niños o adolescentes que hayan sido separados de su madre, padre o familiares, o que se les haya restringido su derecho a convivir con ellos de manera física, con motivo de la emergencia sanitaria generada por la pandemia del virus COVID-19 o coronavirus SARS-CoV-2, verán restituido su derecho a vivir y convivir físicamente de inmediato, bajo las medidas sanitarias que se consideren necesarias para salvaguardar su salud.
+
+Para ello, el Poder Judicial del Estado de Michoacán, dictará las medidas y realizará lo conducente a efecto de que esas niñas, niños y adolescentes convivan física y personalmente con su madre, padre o familiares de los que fueron separados o cuyas convivencias fueron restringidas; y, en el ámbito de su respectiva competencia, la Procuraduría de Protección, el Poder Judicial del Estado de Michoacán y las instituciones de salud, aplicarán las medidas necesarias para reparar los daños emocionales o alienación parental ocasionados a los menores de edad durante el periodo de separación o restricción, así como para que no se repitan.
+
+Considerando que la pandemia es una situación delicada y que por tanto es injustificable el hecho de que sea utilizada dentro de un proceso judicial en detrimento de las niñas, niños y adolescentes, en caso de que alguno de los progenitores haya obstaculizado u obstaculice las convivencias a que tiene derecho su hija o hijo con su padre, madre o familiares durante esta pandemia, los jueces y magistrados serán responsables de aplicar las sanciones correspondientes conforme a la normatividad vigente al momento de los hechos, considerando la especial gravedad de dichas acciones u omisiones al realizarse durante una emergencia sanitaria.
+
+CUARTO. Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, deberán concluirse y ejecutarse conforme las disposiciones vigentes antes de la entrada en vigor de éste último.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
