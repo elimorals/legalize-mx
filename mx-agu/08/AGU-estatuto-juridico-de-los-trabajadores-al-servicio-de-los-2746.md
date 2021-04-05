@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2021-03-29"
+last_updated: "2021-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
 
 Estatuto publicado en el Suplemento de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -69,9 +69,9 @@ III.- ESTATUTO.- El presente Ordenamiento legal;
 
 IV.- TRIBUNAL.- El Tribunal de Arbitraje para los trabajadores al servicio de los Gobiernos del Estado, sus Municipios y organismos públicos descentralizados;
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-V.- ACOSO LABORAL.- la acción verbal o psicológica de índole sistemática, repetida o persistente por la que, en el lugar de trabajo o en conexión con el trabajo, una persona o un grupo de personas hiere a una víctima, la humilla, ofende o amedrenta; y
+V.- ACOSO LABORAL.- Conducta sistemática, repetida o persistente por la que, en el lugar de trabajo o en conexión con el trabajo, una persona o un grupo de personal hiere a una víctima, la humilla, ofende, amedrenta o intimida; tales como, de manera enunciativa, pero jamás limitativa las siguientes: Designar los trabajos peores o más degradantes innecesarios, monótonos o repetitivos, sin valor o utilidad alguna; designar tareas por debajo de sus cualificaciones, habilidades o competencias habituales; no asignar ningún tipo de trabajo o Exceso del mismo; ejercer presión injustificada o establecer plazos imposibles de cumplir; tácticas de desestabilización como pueden ser cambios de puesto sin previo aviso, intentos persistentes de desmoralizar o retirar ámbitos de responsabilidad sin justificación; promover o realizar aislamientos social; Restringir las posibilidades de comunicación por parte del superior o de los compañeros; traslado a un puesto de trabajo aislado; Ignorar a la persona o no dirigirle la palabra; División entre compañeros de trabajo al enfrentarlos o confrontarlos; Ataques a la vida privada de la persona. Violencia física, Gritar o insultar, mortificar a otros miembros del personal con críticas negativas incesantes o privar de responsabilidades a los trabajadores que muestren grandes competencias o aptitudes profesionales. Evaluar su trabajo de forma inequitativa o de forma sesgada. Desvalorizar sistemáticamente su esfuerzo o éxito profesional o atribuirlo (sic) otros factores o a terceros. Amplificar y dramatizar de manera injustificada errores pequeños o intrascendentes. Menospreciar o menoscabar personal o profesionalmente a la persona. Ningunear, ignorar, excluir. La descalificación en privado y en público de cualquier cosa trascendente o intrascendente que diga la persona acosada. La constante invitación a desarrollar otra actividad en otro centro de trabajo.
 
 > <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2019)</small>
 
@@ -2282,3 +2282,11 @@ P.O. 29 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 525.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 2° DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
