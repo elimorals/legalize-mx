@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2020-06-30"
+last_updated: "2021-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -2591,9 +2591,11 @@ Es obligación de los que ejercen la patria potestad o tengan la custodia, educa
 
 Cuando no se cumpla con la obligación referida, los parientes y personas con quienes haya vivido, los sistemas para el desarrollo integral de la familia, el ministerio público, las autoridades administrativas estatales o municipales o cualquier persona, deberán comunicarlo al juez de primera instancia de su domicilio, para que, siguiendo el procedimiento correspondiente determine lo que proceda.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 405.
 
-Quienes ejerzan la patria potestad o tengan menores de edad bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a estos de buen ejemplo.
+Las personas que tienen al menor de edad bajo su patria potestad o custodia, tienen la obligación de observar una conducta que sirva a estos de buen ejemplo, así como la facultad de corregirlo de una manera prudente y moderada, debiendo abstenerse de ejercer cualquier tipo de violencia en su contra, en específico castigo corporal físico o psicológico, incluidos actos que conduzcan a la alienación parental del menor de edad.
 
 ###### Artículo 406.
 
@@ -2891,6 +2893,14 @@ IX. Es intransferible, en virtud de que surge de una relación familiar específ
 
 Los cónyuges y concubinos están obligados a proporcionarse alimentos.
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+El hombre está obligado a proporcionar alimentos a la mujer aún cuando no estén unidos en matrimonio o concubinato, derivado de una relación sexual consensuada entre ambos y la mujer esté embarazada.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
+
+El presunto progenitor tendrá la obligación de proporcionar alimentos desde que la mujer tenga conocimiento de que está embarazada y hasta seis semanas posteriores al parto o al aborto natural que tuviera la mujer.
+
 ###### Artículo 446.
 
 Los progenitores están obligados a dar alimentos a sus hijos.
@@ -2921,9 +2931,11 @@ Los alimentos, fijados por convenio o sentencia en cantidad líquida o determina
 
 Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 452.
 
-Los menores de edad, las personas con discapacidad, los sujetos a estado de interdicción y los adultos mayores, gozan de la presunción de necesitar alimentos.
+Los menores de edad, las personas con discapacidad, los sujetos a estado de interdicción, los adultos mayores y las mujeres embarazadas, gozan de la presunción de necesitar alimentos.
 
 ###### Artículo 453.
 
@@ -3063,9 +3075,11 @@ Notificada la sentencia, se comunicará sin demora a la fuente laboral del deudo
 
 Si el deudor no es asalariado, será requerido para que dentro del término de tres días cumpla con la pensión definitiva fijada, y lo apercibirá que en caso de no hacerlo se le embargarán bienes suficientes de su propiedad, para satisfacerla.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+
 ###### Artículo 473.
 
-En caso de que el fallo hubiese denegado los alimentos, y se haya recurrido, y que la parte acreedora se trate de: menores de edad, personas con discapacidad o adultos mayores, se seguirá abonando la pensión fijada como provisional, hasta en tanto se decida el recurso.
+En caso de que el fallo hubiese denegado los alimentos, y se haya recurrido, y que la parte acreedora se trate de: menores de edad, personas con discapacidad, adultos mayores o mujeres embarazadas, se seguirá abonando la pensión fijada como provisional, hasta en tanto se decida el recurso.
 
 ###### Artículo 474.
 
@@ -5633,7 +5647,9 @@ Si para el desahogo de la audiencia respectiva, no es posible contar con la asis
 
 El juez tendrá las más amplias facultades de dirección procesal para decidir en forma pronta y expedita lo que en derecho corresponda, además, debe actuar de oficio, supliendo la deficiencia de los planteamientos de las partes, en tratándose de:
 
-I. Menores de edad; personas con discapacidad; y, adultos mayores;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+I. Menores de edad; personas con discapacidad; adultos mayores; y, mujeres embarazadas;
 
 II. Asuntos relativos a alimentos; y,
 
@@ -7642,3 +7658,21 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Los trámites y actos relativos a divorcios celebrados ante notario público antes de la entrada en vigor del presente Decreto, se ajustarán al mismo para efectos de su registro.
 
 Tercero. El Titular del Poder Ejecutivo emitirá la normatividad reglamentaria que corresponda al presente Decreto en un plazo máximo de sesenta días naturales contados a partir del día de su entrada en vigor.
+
+P.O. 5 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 510.- ARTÍCULO PRIMERO.- SE REFORMA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN.- ARTÍCULO CUARTO.- SE REFORMA EL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO QUINTO.- SE REFORMA LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEXTO.- SE REFORMA LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SÉPTIMO.- SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez y adolescencia.
+
+TERCERO. Las niñas, niños o adolescentes que hayan sido separados de su madre, padre o familiares, o que se les haya restringido su derecho a convivir con ellos de manera física, con motivo de la emergencia sanitaria generada por la pandemia del virus COVID-19 o coronavirus SARS-CoV-2, verán restituido su derecho a vivir y convivir físicamente de inmediato, bajo las medidas sanitarias que se consideren necesarias para salvaguardar su salud.
+
+Para ello, el Poder Judicial del Estado de Michoacán, dictará las medidas y realizará lo conducente a efecto de que esas niñas, niños y adolescentes convivan física y personalmente con su madre, padre o familiares de los que fueron separados o cuyas convivencias fueron restringidas; y, en el ámbito de su respectiva competencia, la Procuraduría de Protección, el Poder Judicial del Estado de Michoacán y las instituciones de salud, aplicarán las medidas necesarias para reparar los daños emocionales o alienación parental ocasionados a los menores de edad durante el periodo de separación o restricción, así como para que no se repitan.
+
+Considerando que la pandemia es una situación delicada y que por tanto es injustificable el hecho de que sea utilizada dentro de un proceso judicial en detrimento de las niñas, niños y adolescentes, en caso de que alguno de los progenitores haya obstaculizado u obstaculice las convivencias a que tiene derecho su hija o hijo con su padre, madre o familiares durante esta pandemia, los jueces y magistrados serán responsables de aplicar las sanciones correspondientes conforme a la normatividad vigente al momento de los hechos, considerando la especial gravedad de dichas acciones u omisiones al realizarse durante una emergencia sanitaria.
+
+CUARTO. Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, deberán concluirse y ejecutarse conforme las disposiciones vigentes antes de la entrada en vigor de éste último.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
