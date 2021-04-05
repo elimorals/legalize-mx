@@ -4,7 +4,7 @@ identifier: "MIC-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-9327
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-12"
-last_updated: "2017-01-25"
+last_updated: "2021-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 5 DE ABRIL DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021 (ABROGADA).
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el martes 12 de marzo de 2013.
 
@@ -2234,3 +2236,47 @@ P.O. 25 DE ENERO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
+
+P.O. 5 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 513 POR EL QUE "SE EXPIDE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Ambiental para el Desarrollo Sustentable del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial el 12 de marzo de 2013.
+
+###### ARTÍCULO TERCERO.
+
+Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de la Ley que se abroga, se tramitarán y resolverán conforme a la misma.
+
+###### ARTÍCULO CUARTO.
+
+El Titular del Poder Ejecutivo (sic) el Estado dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto, deberá expedir el Reglamento de la Ley.
+
+En tanto no se haya publicado el Reglamento de la presente Ley, tendrá validez el último Reglamento de la Ley Ambiental y de Protección al Patrimonio Natural del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO QUINTO.
+
+Para dar cumplimiento a las disposiciones relativas a los plásticos de un solo uso y productos derivados del poliestireno de un solo uso, los Poderes del Estado de Michoacán y Órganos Constitucionalmente Autónomos contarán con 90 días naturales a partir de la publicación de la presente Ley, y 120 días naturales para los Ayuntamientos.
+
+###### ARTÍCULO SEXTO.
+
+Para dar cumplimiento a lo establecido en el artículo 57 los establecimientos contarán con 24 meses a partir de la publicación de la presente Ley, por lo que los Ayuntamientos deberán incluirlo en su normatividad. Con posiblidad de una sola prórroga de hasta 12 meses, si la Secretaría lo considera necesario.
+
+A partir de la publicación del presente Decreto, para dar cumplimiento a lo establecido en el artículo 59, los establecimientos mercantiles contarán con un plazo de 24 meses para desincentivar su distribución. Con posibilidad de una sola prórroga de hasta 12 meses, si la Secretaría lo considera necesario.
+
+Para el caso de los productores locales de plásticos y productos derivados del poliestireno de un solo uso, contarán con un plazo de 36 meses para transitar a nuevas tecnologías e insumos de producción, con posibilidad de una sola prórroga de hasta 12 meses, si la Secretaría lo considera necesario.
+
+A partir de la publicación del presente Decreto, los productores de bolsas de acarreo, deberán signar en un plazo no mayor de 30 días, un convenio con la Secretaría para producir con al menos un 50% la composición de la bolsa con insumos reciclados, orgánicos, compostables o biodegradables, en un periodo de uno hasta dos años. A partir de los dos años y hasta los tres años, de la entrada en vigor del presente Decreto se aumentará un 75% del contenido de insumos reciclados, orgánicos, compostables o biodegradables.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para dar cumplimiento a la sustitución en el consumo de artículos de higiene personal y belleza de un solo uso por artículos ecológicos, se contará con 24 meses a partir de la publicación de la presente Ley, con una sola prórroga de 6 meses, para lo cual, los Ayuntamientos deberán regular y sancionar en su normatividad estas prácticas con la meta de buscar su sustitución por artículos ecológicos, a través de un reglamento, en el cual establezcan los supuestos legales conforme a la presente Ley y las sanciones por las infracciones de las mismas, las cuales incluirán sanciones de naturaleza social y de asistencia a capacitación en el cuidado del medio ambiente.
+
+###### ARTÍCULO OCTAVO.
+
+Para fines de cumplir con lo establecido en el presente Decreto, relativo a la generación de servicios ambientales, así como el cobro, pago y uso de los recursos generados por los mismos, la Secretaría contará con un plazo de 90 días para la elaboración de un reglamento específico de la materia, atendiendo estrictamente su carácter de beneficio socioambiental y generando mecanismos de transferencia de beneficios que no tendrán un carácter recaudatorio.
