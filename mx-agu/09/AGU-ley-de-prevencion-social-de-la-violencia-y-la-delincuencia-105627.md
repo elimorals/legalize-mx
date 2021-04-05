@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-prevencion-social-de-la-violencia-y-la-delincuencia-1056
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-30"
-last_updated: "2020-12-28"
+last_updated: "2021-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de enero de 2015.
 
@@ -83,11 +83,15 @@ X. Violencia: Al uso deliberado del poder o de la fuerza física, ya sea en grad
 
 Las Estrategias de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana se basarán en cuatro enfoques básicos:
 
-I. Perspectiva de género: Promueve el diseño, ejecución y evaluación de las políticas públicas; así como del principio de Igualdad ante la Ley en sentido estricto del hombre y la mujer.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+I. Perspectiva de Género: Perspectiva de Género (sic): Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la operación de género como la desigualdad, la injusticia y jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
 II. Seguridad Ciudadana: Busca la gestión participativa y la corresponsabilidad; propone garantizar la seguridad de las personas bajo principios humanistas e integrales. Actúa sobre las causas que originan la violencia y generan inseguridad, al tiempo que responde a condiciones sociales y espaciales e involucra al ciudadano en el diseño, la implementación y operación de la política pública. Posee una perspectiva interinstitucional coordinada.
 
-III. Ciudades Seguras: Promueve desarrollar competencias en el ámbito local para combatir adecuadamente la inseguridad urbana y, de ese modo; contribuir al establecimiento de una cultura de prevención social de la violencia y la delincuencia con participación ciudadana. Busca recuperar los espacios públicos, crear ciudades habitables, equitativas, vivibles, y se propone impulsar la cultura de la paz, la resolución pacífica de los conflictos y la solidaridad.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+
+III. Ciudades Seguras: Busca recuperar los espacios públicos, recreativos y culturales para crear ciudades habitables, equitativas y justas que promuevan la cultura de la paz, la resolución pacífica de los conflictos y la solidaridad, a través del desarrollo y distribución de funciones en el ámbito local para combatir la inseguridad urbana; y
 
 IV. Derechos Humanos: Conjunta las prerrogativas inherentes a la naturaleza de la persona, que permiten su desarrollo integral.
 
@@ -566,6 +570,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 28 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 447.- REFORMAS A LA LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO
+
+El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 521.- SE REFORMAN LAS FRACCIONES I Y III DEL ARTÍCULO 5° DE LA LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO
 
