@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-prevencion-tratamiento-y-control-de-las-82743"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-30"
-last_updated: "2020-11-05"
+last_updated: "2021-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2011.
 
@@ -85,6 +85,10 @@ XI. Farmacodependencia: la dependencia a una o más sustancias psicoactivas;
 
 XII. Grupo de ayuda mutua: agrupación que ofrece servicios, integrada por adictos en recuperación, cuyo propósito fundamental es apoyar al adicto con base en la experiencia compartida de los miembros del grupo, para lograr la abstinencia de sustancias psicoactivas;
 
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2021)</small>
+
+XII BIS. Prevención: conjunto de acciones dirigidas a identificar, evitar, reducir, regular o eliminar el consumo no terapéutico de sustancias psicoactivas como riesgo sanitario, así como sus consecuencias físicas, psíquicas, económicas, familiares y sociales;
+
 XIII. Recuperación: estado de abstinencia que conlleva un mejoramiento en todas las áreas de la vida del sujeto;
 
 XIV. Reducción de daños: conjunto de acciones dirigidas a evitar o reducir situaciones de riesgo y limitar los daños asociados al consumo de sustancias psicoactivas, por lo que se articula necesariamente con la prevención y el tratamiento. No pretende necesariamente la abstinencia;
@@ -139,6 +143,18 @@ II. Considerar componentes de prevención universal, selectiva o indicada, no di
 
 III. Incluir poblaciones vulnerables y de muy alto riesgo, de acuerdo con la estratificación de los diferentes grupos sociales, poniendo principal énfasis en el juvenil.
 
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2021)</small>
+
+Los programas de prevención deberán ser además de forma constante y permanente con la población de alto riesgo como posibles consumidores de sustancias psicoactivas.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2021)</small>
+
+Los programas de prevención deberán dirigirse al tipo de problema de abuso de consumo en la comunidad local con el objetivo de modificar conductas y prevenir el consumo de sustancias psicoactivas.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2021)</small>
+
+Para la planificación de los modelos de prevención se deberán crear programas para la familia, con la intención de mejorar la compenetración y las relaciones familiares, incluyendo habilidades de entrenamiento y desarrollo bien monitoreadas para asegurar una adecuada implementación.
+
 ###### ARTICULO 7°.
 
 El Gobierno del Estado, en colaboración con el Consejo, deberá instrumentar, fomentar y evaluar acciones y programas preventivos tendientes a:
@@ -155,11 +171,17 @@ V. Impedir o retrasar la edad de inicio del consumo de sustancias psicoactivas e
 
 VI. Detener la progresión del abuso de sustancias psicoactivas o desórdenes relacionados, para disminuir los riesgos asociados a los mismos;
 
-(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015) (REPUBLICADA, P.O. 19 DE DICIEMBRE DE 2015)
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
 
-VII. Dirigir de forma especializada hacia la niñez, adolescencia, y juventud, campañas preventivas de publicidad sobre el uso creativo del tiempo libre, y
+VII. Dirigir de forma especializada hacia la niñez, adolescencia, y juventud, campañas preventivas de publicidad sobre el uso creativo del tiempo libre;
 
-VIII. Vigilar que los contenidos utilizados en la difusión de los mensajes sean los más adecuados, en cuanto a horarios, frecuencia, y tipo, para la población definida como objetivo.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
+
+VIII. Vigilar que los contenidos utilizados en la difusión de los mensajes sean los más adecuados, en cuanto a horarios, frecuencia, y tipo, para la población definida como objetivo, y
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2021)</small>
+
+IX. Establecer comunicación con los diversos sectores, grupos, autoridades y líderes de la comunidad, de tal manera que permita y favorezca la realización de acciones coordinadas y permanentes para la prevención del consumo de sustancias psicoactivas, y el desarrollo de comunidades saludables.
 
 Los contenidos de los mensajes deben ser claros específicos, con datos actualizados y confiables, con fundamento en la evidencia científica, que eviten la estigmatización y que tengan impacto.
 
@@ -197,13 +219,17 @@ VIII. Las demás que se establezcan en la presente Ley y las disposiciones legal
 
 Corresponde a la Secretaría de Educación de Gobierno del Estado:
 
-I. Diseñar, en colaboración con el Consejo, programas de orientación formativa con el objeto de que los estudiantes reconozcan tanto los factores protectores, y los factores de riesgo, en torno a las adicciones;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
+
+I. Diseñar, en colaboración con el Consejo, programas de orientación formativa con el objeto de que los estudiantes reconozcan tanto los factores protectores, y los factores de riesgo, en torno a las adicciones. Así como las consecuencias de una conducta social negativa, de las dificultades académicas, o de aislamiento;
 
 II. Incorporar en los contenidos de los programas educativos acciones específicas de orientación sobre medidas preventivas y conductas responsables para evitar y, en su caso, retrasar la edad de inicio de consumo de sustancias psicoactivas, así como los riesgos y daños asociados al consumo;
 
 III. Implementar en colaboración con la Secretaría del Trabajo y Previsión Social, programas de formación profesional para favorecer la vinculación laboral y el autoempleo;
 
-IV. Promover la participación de los padres de familia y de la sociedad en general en la instrumentación de acciones que promuevan el autocuidado y entornos de vida saludables, y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
+
+IV. Promover la participación de los padres de familia y de la sociedad en general en la instrumentación de acciones que promuevan el autocuidado y entornos de vida saludables, así como el manejo de herramientas para mejorar el autocontrol, la conciencia emocional, la comunicación, solución de problemas sociales y apoyo académico, y
 
 V. Las demás que le confieran la presente Ley.
 
@@ -221,9 +247,15 @@ III. Diseñar, en colaboración con el Consejo, campañas informativas que incre
 
 IV. Establecer programas asistenciales que brinden atención a niñas, niños, adolescentes, y jóvenes en situación de abandono, o de la calle;
 
-V. Aplicar las sanciones en materia de inspección que establece la Ley de Asistencia Social para el Estado y los Municipios de San Luis Potosí, y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
 
-VI. Las demás que le confieran la presente Ley.
+V. Aplicar las sanciones en materia de inspección que establece la Ley de Asistencia Social para el Estado y los Municipios de San Luis Potosí;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2021)</small>
+
+VI. Promover mediante pláticas comunitarias, la fortaleza de vínculos familiares entre padres, madres, tutores e hijos; así como dotarles de herramientas familiares para aprender a socializar con las personas que integren el ámbito familiar. Para lo anterior, deberán considerarse los aspectos macro y micro sociales de las poblaciones objetivo, y
+
+VII. Las demás que le confieran la presente Ley.
 
 ###### ARTICULO 12.
 
@@ -758,5 +790,13 @@ P.O. 5 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0796.- SE ADICIONA AL ARTÍCULO 17 EL PÁRRAFO SEGUNDO, DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1152.- SE REFORMA LOS ARTÍCULOS 7° EN SUS FRACCIONES VII Y VIII, 10 EN SUS FRACCIONES I Y IV, Y 11 EN SU FRACCIÓN V; Y ADICIONA A LOS ARTÍCULOS 2° LA FRACCIÓN XII BIS, 6° TRES PÁRRAFOS, 7° LA FRACCIÓN IX, 11 UNA FRACCIÓN, DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
