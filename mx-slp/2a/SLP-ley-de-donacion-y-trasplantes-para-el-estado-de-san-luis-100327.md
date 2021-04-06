@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-donacion-y-trasplantes-para-el-estado-de-san-luis-100327
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-25"
-last_updated: "2019-10-03"
+last_updated: "2021-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DONACIÓN Y TRASPLANTES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 25 de marzo de 2014.
 
@@ -345,7 +345,9 @@ III. Primer Vocal, que será el Director del hospital central “Dr. Ignacio Mor
 
 IV. Segundo Vocal, que será el Presidente de la Junta Directiva del Sistema para el Desarrollo Integral de la Familia del Estado;
 
-V. Tercer Vocal, que será el Procurador General de Justicia del Estado; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
+
+V. Tercer Vocal, que será el Fiscal General del Estado, y
 
 VI. Cuarto Vocal, que será el Director de Políticas y Calidad en Salud, de los Servicios de Salud de San Luis Potosí.
 
@@ -833,51 +835,39 @@ III. Los bancos de tejidos y componentes.
 
 La obtención, guarda, conservación, preparación y utilización de órganos, tejidos, y componentes de seres humanos vivos, o de cadáveres, para fines terapéuticos, de investigación científica, o de docencia, sólo podrá hacerse en instituciones autorizadas para ello, de conformidad con lo que disponga la Ley General de Salud.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 44.
 
-Los bancos de órganos y tejidos podrán ser de:
-
-I. Córneas y escleróticas;
-
-II. Hígados;
-
-III. Hipófisis;
-
-IV. Huesos y cartílago;
-
-V. Médulas óseas;
-
-VI. Páncreas;
-
-VII. Paratiroides;
-
-VIII. Piel y faneras;
-
-IX. Riñones;
-
-X. Tímpanos;
-
-XI. Vasos sanguíneos, y
-
-XII.- Los demás que autorice la Secretaría.
-
-Los bancos podrán ser de una o varias clases de órganos o tejidos a que se refieren las fracciones anteriores, debiéndose expresar en la documentación correspondiente, el tipo de banco de que se trate.
+Los bancos de órganos y tejidos funcionarán de acuerdo a los lineamientos que para tal efecto emita el Centro Nacional de Trasplantes.
 
 ###### ARTÍCULO 45.
 
 Los responsables de los bancos de órganos y tejidos facilitarán los procedimientos de trasplante, y al efecto desarrollarán las siguientes funciones:
 
-I. Selección de disponentes originarios;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
 
-II. Obtención y guarda de órganos y tejidos;
+I. Evaluación de adecuabilidad del tejido para uso en trasplante;
 
-III. Preservación y almacenamiento;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
 
-IV. Distribución, y
+II. Resguardo y trazabilidad de los órganos y tejidos recibidos;
 
-V. Las demás similares a las anteriores que determine la Secretaría.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
 
-También se podrán desarrollar actividades de investigación científica y de docencia en lo relativo a sus funciones, así como actividades de adiestramiento de su personal.
+III. Preservación y almacenamiento de los órganos y tejidos recibidos;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
+
+IV. Distribución de los órganos y tejidos a los establecimientos autorizados previo convenio de distribución de las partes, y
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
+
+V. Las demás similares a las anteriores que determinen los (sic) Secretaria de Salud.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
+
+También se podrán desarrollar actividades de investigación científica bajo la supervisión y autorización del comité de Bioética, así como de docencia en lo relativo a sus funciones, así como actividades de adiestramiento de su personal.
 
 ###### ARTÍCULO 46.
 
@@ -903,15 +893,17 @@ III. La selección de disponente originario y receptores para trasplante, emitie
 
 IV. Constatar que el receptor es susceptible a ser trasplantado;
 
-V. Brindar la información necesaria a los receptores, disponentes y familiares en relación a estos procedimientos terapéuticos;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
+
+V. Verificar que el médico tratante, ha bridado la información necesaria a los receptores, disponentes y familiares en relación a estos procedimientos terapéuticos;
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
 VI. Promover la actualización del personal que participe en la realización de trasplantes;
 
-> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
 
-VII. Notificar en un tiempo no mayor a una hora al CETRA cuando exista la pérdida de vida de un paciente dentro de un establecimiento conforme lo establece el artículo 316 de la Ley General de Salud, a fin de que éste verifique en el Registro Estatal de Trasplantes, si la persona fallecida es donadora, así como la valoración de (sic) adecuada del caso, y la factibilidad de la donación de los órganos y/o tejidos, y
+VII. Notificar en un tiempo no mayor a una hora al CETRA cuando exista la pérdida de vida de un potencial donante dentro del establecimiento conforme al artículo 316 de la Ley General de Salud, así como la valoración adecuada del caso y la factibilidad de la donación de los órganos y/o tejidos, y
 
 VIII. Verificar que en la realización de los trasplantes se cumpla lo dispuesto por el artículo 31 de la presente Ley.
 
@@ -1039,7 +1031,9 @@ b) El Agente del Ministerio Público practicará la correspondiente diligencia m
 
 Asimismo, se allegará del dictamen que al respecto le rinda el médico legista, para efectos de corroborar la pérdida de la vida del posible donador.
 
-c) De lo anterior, el Agente del Ministerio Público deberá informar de inmediato al Procurador General de Justicia en el Estado, o al funcionario que éste designe, quien una vez analizadas las constancias levantadas para tales efectos, si resulta procedente, emitirá su conformidad con la donación, haciéndolo del conocimiento del CETRA, y autorizará en definitiva la disposición de órganos, tejidos y componentes, observando siempre lo dispuesto por la presente Ley.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
+
+c) De lo anterior, el Agente del Ministerio Público deberá informar de inmediato al Fiscal General del Estado, o al funcionario que éste designe, quien una vez analizadas las constancias levantadas para tales efectos, si resulta procedente, emitirá su conformidad con la donación, haciéndolo del conocimiento del CETRA, y autorizará en definitiva la disposición de órganos, tejidos y componentes, observando siempre lo dispuesto por la presente Ley.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2017)</small>
 
@@ -1099,7 +1093,9 @@ VII. Nombre y firma del representante en turno del establecimiento, y
 
 VIII. El destino y uso específico que habrá de otorgarse a los órganos, tejidos, componentes, o al cadáver peticionado.
 
-El Ministerio Público recibirá la solicitud debidamente requisitada y la integrará a la averiguación previa; para que el Ministerio Público esté en condiciones de dar anuencia por escrito, solicitará al médico legista informe si la toma de los órganos o tejidos que se indican en la solicitud, no son necesarios para el debido desarrollo de la autopsia, y si no interfiere la toma de éstos en el resultado de la misma; lo anterior, lo deberá informar de inmediato al Procurador General de Justicia en el Estado, o al funcionario que éste designe, quien una vez analizadas las constancias levantadas para tales efectos, si resulta procedente, emitirá su conformidad con la disposición del cadáver.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
+
+El Ministerio Público recibirá la solicitud debidamente requisitada y la integrará a la averiguación previa; para que el Ministerio Público esté en condiciones de dar anuencia por escrito, solicitará al médico legista informe si la toma de los órganos o tejidos que se indican en la solicitud, no son necesarios para el debido desarrollo de la autopsia, y si no interfiere la toma de éstos en el resultado de la misma; lo anterior, lo deberá informar de inmediato al Fiscal General del Estado, o al funcionario que éste designe, quien una vez analizadas las constancias levantadas para tales efectos, si resulta procedente, emitirá su conformidad con la disposición del cadáver.
 
 ###### ARTÍCULO 62.
 
@@ -1200,5 +1196,13 @@ P.O. 3 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0268.- SE REFORMA LA DENOMINACIÓN DE LA AHORA LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1151.- SE REFORMA (SIC) LOS ARTÍCULOS 18 EN SU FRACCIÓN V, 44, 45 EN SUS FRACCIONES I, II, III, IV Y V, Y EN SU PÁRRAFO ÚLTIMO, 48 EN SUS FRACCIONES V Y VII, 6o EN SU FRACCIÓN II EL INCISO C) Y 61 EN SU PÁRRAFO DÉCIMO TERCERO, DE LA LEY DE DONACIÓN Y TRASPLANTES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
