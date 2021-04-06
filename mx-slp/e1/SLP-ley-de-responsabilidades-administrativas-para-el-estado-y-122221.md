@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-administrativas-para-el-estado-y-12222
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2020-10-24"
+last_updated: "2021-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el día sábado 3 de junio de 2017.
 
@@ -384,6 +384,10 @@ III. Declaración de conclusión del encargo, dentro de los sesenta días natura
 En el caso de cambio de dependencia o entidad en el mismo orden de gobierno, únicamente se dará aviso de dicha situación y no será necesario presentar la declaración de conclusión.
 
 Para la elaboración de las declaraciones a las que se refiere este artículo, las contralorías de los órganos internos, y en su caso, la Coordinación Estatal para el Fortalecimiento Institucional de los Municipios, deberán informar, capacitar, y apoyar a los servidores públicos obligados a fin de que cumplan en tiempo y forma con esta disposición.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2021)</small>
+
+Cuando por causa de fuerza mayor, emergencia sanitaria, desastres naturales o determinación de la autoridad de protección civil, exista justificación para no cumplir con las obligaciones en los plazos previstos en este artículo, los titulares de las contralorías o de los órganos internos de control, una vez que conozcan de la causa de la imposibilidad, siempre y cuando no cuenten con sistemas electrónicos para presentar la declaración, darán a conocer los nuevos plazos mediante comunicado a todos los servidores públicos obligados, procurando que éstos no excedan de treinta días naturales contados a partir del restablecimiento de actividades.
 
 ###### ARTÍCULO 34.
 
@@ -1896,3 +1900,11 @@ P.O. 24 DE OCTUBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1146.- SE ADICIONA AL ARTÍCULO 33 EL PÁRRAFO NOVENO, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
