@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-mental-del-estado-y-municipios-de-san-luis-130400"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-30"
-last_updated: "2020-06-25"
+last_updated: "2021-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD MENTAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de agosto de 2018.
 
@@ -183,9 +183,15 @@ X. Llevar el registro a que se refiere el capítulo V, artículo 23 de esta Ley;
 
 XI. Coordinarse así como las instancias que resulten competentes en la atención a la presencia de neurotóxicos coadyuvarán con el fin de mitigar el riesgo, la incidencia y prevalencia de las alteraciones que dichas sustancias producen en la población detectada como afectada;
 
-XII. Coordinar con otras dependencias del Estado y de los municipios, acciones de prevención y en su caso, impulsar la remediación de sitios expuestos a neurotóxicos, y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
 
-XIII. Las demás que se desprendan de las leyes en general y del Reglamento de este ordenamiento.
+XII. Coordinar con otras dependencias del Estado y de los municipios, acciones de prevención y en su caso, impulsar la remediación de sitios expuestos a neurotóxicos;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2021)</small>
+
+XIII. Elaborar y revisar periódicamente protocolos de intervención en casos de personas con conducta suicida, para su seguimiento por parte de servicios de emergencia médica, y de elementos de seguridad pública. Para la conformación de los protocolos destinados a seguridad pública se deberá contar con la participación de la autoridad en la materia, y
+
+XIV. Las demás que se desprendan de las leyes en general y del Reglamento de este ordenamiento.
 
 ###### ARTÍCULO 6°.
 
@@ -396,5 +402,13 @@ P.O. 25 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0696.- SE REFORMA EL ARTÍCULO 4° EN SUS FRACCIONES XII Y XIII; Y ADICIONA AL MISMO ARTÍCULO 4° LA FRACCIÓN XIV, DE LA LEY DE SALUD MENTAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO 1148.- SE REFORMA EL ARTÍCULO 5º EN SU FRACCIÓN XII; Y ADICIONA AL MISMO ARTÍCULO 5º UNA FRACCIÓN, DE LA LEY DE SALUD MENTAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
