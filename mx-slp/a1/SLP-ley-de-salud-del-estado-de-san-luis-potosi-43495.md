@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2021-03-23"
+last_updated: "2021-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -759,17 +759,21 @@ VIII. Familiares que dependen económicamente de quienes se encuentren detenidos
 
 IX. Personas en condiciones de pobreza y marginación;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE ABRIL DE 2021)</small>
 
 X. Personas afectadas por desastres naturales;
 
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2021)</small>
+
+XI. Personas lesbianas, gay, bisexual, trasvesti, transexual, transgénero e intersexual, y
+
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XI. Mujeres víctimas de violencia de género, y
+XII. Mujeres víctimas de violencia de género, y
 
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
-XII. Personal de la salud que se vea afectado en sus condiciones físicas, materiales o mentales, por motivo del servicio de salud que presta.
+XII (SIC). Personal de la salud que se vea afectado en sus condiciones físicas, materiales o mentales, por motivo del servicio de salud que presta.
 
 ###### ARTICULO 24.
 
@@ -4780,3 +4784,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. A la entrada en vigor de la ley que se expide en el artículo Primero del presente Decreto, se abroga la Ley Estatal de Protección a los Animales, publicada como Diverso Legislativo No. 347, en el entonces Periódico Oficial del Estado, el 17 de marzo de 1995.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 6 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1149.- SE REFORMA EL ARTÍCULO 23 EN SU FRACCIÓN X; Y ADICIONA AL MISMO ARTÍCULO 23 UNA FRACCIÓN, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
