@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2020-11-04"
+last_updated: "2021-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1261,9 +1261,7 @@ Al que prive de la vida a otro en riña se le impondrá de ocho a quince años d
 
 Al que dolosamente prive de la vida a cualquier ascendiente o descendiente en línea recta, cónyuge, concubino o concubina, hermano o hermana, adoptante, adoptado u adoptada con conocimiento de ese parentesco o relación se le impondrá de veinte a cuarenta años de prisión y de mil doscientos a dos mil quinientos días multa.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2010)</small>
-
-A los sentenciados por el delito previsto en este artículo, no se le concederán ninguno de los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE ABRIL DE 2021)</small>
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2013)</small>
 
@@ -1281,9 +1279,7 @@ Se impondrá prisión de veinticinco a cincuenta años y de mil quinientos a tre
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE MAYO DE 2012)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2010)</small>
-
-A los sentenciados por el delito previsto en este artículo, no se le concederán ninguno de los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 6 DE ABRIL DE 2021)</small>
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -1707,7 +1703,7 @@ II.- De veinticinco años a cincuenta años de prisión o prisión vitalicia y d
 
 5.- Que la victima sea una mujer en estado de gravidez.
 
-A los sentenciados por el delito de secuestro previsto en este artículo no se les concederán los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 6 DE ABRIL DE 2021)</small>
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2010)</small>
 
@@ -1787,7 +1783,7 @@ Si el medio empleado fuere la violencia, la pena se aumentará hasta en una mita
 
 ### CAPITULO II. ABUSOS SEXUALES
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
 
 ###### ARTICULO 126.
 
@@ -1815,7 +1811,7 @@ Al que realice cópula con persona menor de catorce años de edad o que por cual
 
 Al que realice cópula por medio de la violencia física o moral con persona mayor de catorce años de edad y menor de dieciocho años de edad o que por cualquier causa no esté en posibilidades de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa, se le impondrá prisión de veinticinco a cincuenta años y de mil quinientos a tres mil días multa.
 
-A los sentenciados por el delito de violación previsto en este artículo no se le concederán los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 6 DE ABRIL DE 2021)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2016)</small>
 
@@ -1841,9 +1837,7 @@ IV.- Cuando la violación sea cometida aprovechando la confianza depositada en e
 
 V.- Cuando la violación sea cometida en medios de transportes públicos o lugares solitarios o carreteras.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2010)</small>
-
-A los sentenciados por el delito de violación previsto en este artículo no se le concederán los beneficios comprendidos en la Ley de Normas Mínimas para la Readaptación Social de Sentenciados en el Estado de Quintana Roo.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 6 DE ABRIL DE 2021)</small>
 
 > <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
@@ -1853,13 +1847,13 @@ ARTICULO 128 BIS.- Cuando la violación sea cometida aprovechando los medios o c
 
 ### CAPITULO IV. ACOSO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2021)</small>
 
-ARTICULO 130 BIS.- A quien asedie o acose sexualmente a persona de cualquier sexo o solicite favores de naturaleza sexual, para sí o para un tercero, se le impondrá de seis meses a dos años de prisión y trescientos a quinientos días multa.
+ARTICULO 130 BIS. Comete el delito de acoso sexual aquella persona que en el ámbito laboral, escolar o cualquier otro, en el que no medie una relación de subordinación, asedie o acose de forma sexual o lasciva a otra persona de cualquier sexo o solicite favores de naturaleza sexual, para sí o para un tercero. A quien cometa este delito se le impondrá de seis meses a dos años de prisión y trescientos a quinientos días multa, sin perjuicio de las sanciones laborales y administrativas a las que haya lugar.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
 
-Cuando el acoso sexual se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad o que no tenga la capacidad para comprender el significado del hecho o por cualquier causa no pueda resistirlo, la pena de prisión se aumentará hasta en una tercera parte de la prevista en el párrafo anterior y se perseguirá de oficio.
+Cuando el acoso sexual se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad o que no tenga la capacidad para comprender el significado del hecho o por cualquier causa no pueda resistirlo, la pena de prisión se aumentará hasta en una mitad más de la prevista y se perseguirá de oficio.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -1873,21 +1867,23 @@ Al que reincidiere en la comisión de este delito, se le aplicará el doble de l
 
 ###### ARTICULO 129.
 
-A quien sin el consentimiento de una persona y sin el propósito de llegar a la cópula ejecute en ella un acto sexual o lo obliguen a ejecutarlo, se le impondrá prisión de uno a tres años. La pena se aumentará hasta en una mitad más, cuando se empleare la violencia.
+A quien sin el consentimiento de una persona y sin el propósito de llegar a la cópula ejecute en ella un acto sexual o lo obliguen a ejecutarlo, se le impondrá de seis a diez años de prisión y hasta doscientos días multa.
 
-REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)
+Para efectos de este artículo se entiende por actos sexuales los tocamientos o manoseos corporales obscenos, o los que representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
 
-A quien sin propósito de llegar a la cópula ejecute un acto sexual en una persona menor de dieciocho años de edad, o que no tenga la capacidad de comprender el hecho o que por cualquier causa no pueda resistirlo, o la obliguen a ejecutarlo se le impondrá prisión de cuatro a ocho años. La pena se aumentará hasta en una mitad más cuando se empleare violencia o fuere cometido por alguna persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido en los casos que proceda; o cuando los actos sean cometidos aprovechando los medios o circunstancias que proporcionan el empleo, cargo o comisión que el agente ejerce para tal efecto.
+También se considera abuso sexual cuando se obligue a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+Si se hiciera uso de violencia, física o psicológica, la pena se aumentará en una mitad más en su mínimo y máximo.
 
-Además de las penas señaladas, se le privará de los derechos derivados de la patria potestad, de la tutela o custodia, cuando así proceda, a quienes teniendo el ejercicio de éstos en relación con la víctima o el ofendido, cometa el delito a que se refiere el presente artículo. Cuando el agente activo sea servidor público, éste será privado o suspendido, además, del ejercicio del empleo, cargo o comisión por el término de la pena de prisión que se le imponga.
+A quien sin propósito de llegar a la cópula ejecute un acto sexual en una persona menor de dieciocho años de edad, o que no tenga la capacidad de comprender el hecho o que por cualquier causa no pueda resistirlo, o la obliguen a ejecutarlo en sí o en otra persona se le impondrá prisión de seis a trece años y hasta quinientos días multa. La pena se aumentará hasta en una mitad más cuando se empleare violencia o fuere cometido por alguna persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido en los casos que proceda; o cuando los actos sean cometidos aprovechando los medios o circunstancias que proporcionan el empleo, cargo o comisión que el agente ejerce para tal efecto.
+
+Además de las penas señaladas, se le privará de los derechos derivados de la patria potestad, de la tutela o custodia, cuando así proceda, a quienes teniendo el ejercicio de éstos en relación con la víctima o el ofendido, corneta el delito a que se refiere el presente artículo. Cuando el agente activo sea servidor público, éste será privado o suspendido, además, del ejercicio del empleo, cargo o comisión por el término de la pena de prisión que se le imponga.
 
 ### CAPITULO V. HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2021)</small>
 
-ARTICULO 130 TER.- A quien asedie o acose sexualmente a persona de cualquier sexo o solicite favores de naturaleza sexual, para sí o para un tercero, valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas o cualquier otra que implique una subordinación, se le impondrá de seis meses a dos años de prisión y de trescientos a quinientos días multa.
+ARTICULO 130 TER. Comete el delito de hostigamiento sexual aquella persona que valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación realice uno o más actos lascivos o de connotación sexual a otra persona sin su consentimiento. A quien cometa este delito se le impondrá de seis meses a dos años de prisión y de trescientos a quinientos días multa, sin perjuicio de las sanciones laborales y administrativas a las que haya lugar.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -1897,9 +1893,11 @@ Cuando el hostigamiento sexual se cometa contra una persona menor de dieciocho a
 
 Al que reincidiere en la comisión de este delito, se le aplicará el doble de la pena de prisión señalada en los párrafos anteriores y quinientos días de multa.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+(NOTA: EL 23 DE MARZO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 80/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 6 DE ABRIL DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 098, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Si el sujeto activo fuese servidor público, docente o parte del personal administrativo de cualquier institución educativa o de asistencia social, el delito será perseguible de oficio, y además de las penas señaladas, se le destituirá del cargo y se le inhabilitará para ocupar cualquier otro en el sector público hasta por dos años; en caso de reincidencia, la inhabilitación será definitiva.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
+
+Sí el sujeto activo fuese servidor público, docente o parte del personal administrativo de cualquier institución educativa o de asistencia social, el delito será perseguible de oficio, y además de las penas señaladas, se le destituirá del cargo y se le inhabilitará para ocupar cualquier otro en el sector público hasta por el tiempo de la pena impuesta. EN CASO DE REINCIDENCIA, LA INHABILITACIÓN SERÁ DEFINITIVA.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -4808,3 +4806,9 @@ P.O. 4 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 051 POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 129, SE DEROGA LA FRACCIÓN II DEL ARTÍCULO 128 Y SE ADICIONA EL ARTÍCULO 128 BIS, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
 
 ÚNICO. El Presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 6 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 098 POR EL QUE SE REFORMAN EL ARTÍCULO 129; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 130 BIS; LOS PÁRRAFOS PRIMERO Y CUARTO DEL ARTÍCULO 130 TER; Y SE DEROGAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 88; EL PÁRRAFO TERCERO DEL ARTÍCULO 89; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 118; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 127 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 128, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
