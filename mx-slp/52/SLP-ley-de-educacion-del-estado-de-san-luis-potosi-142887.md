@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2020-06-18"
+last_updated: "2021-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -83,7 +83,9 @@ Las autoridades educativas estatal y municipal, en el ámbito de su competencia,
 
 Para el cumplimiento de los fines y criterios previstos en esta Ley y de conformidad con las necesidades de la población en sus contextos locales y situacionales, las autoridades educativas estatal y municipal podrá llevar a cabo una regionalización en la prestación del servicio educativo, garantizando a las personas el acceso a una educación con equidad y excelencia, considerando la participación que al efecto corresponde a la autoridad educativa federal.
 
-Para tal efecto las autoridades municipales remitirán un informe a los ayuntamientos ayuntamientos (sic) de que se trate, respectivamente sobre el inicio del proyecto regional a desarrollar, así como del avance y resultados del mismo a su conclusión. La coordinación intermunicipal, se llevará a cabo previa autorización de la autoridad educativa estatal.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
+
+Para tal efecto, las autoridades municipales remitirán un informe a los ayuntamientos de que se trate, respectivamente, sobre el inicio del proyecto regional a desarrollar, asíì (sic) como del avance y resultados del mismo a su conclusión. La coordinación intermunicipal se llevaraì (sic) a cabo previa autorización de la autoridad educativa estatal.
 
 ### Capítulo II. Ejercicio del Derecho a la Educación
 
@@ -2034,3 +2036,11 @@ P.O. 18 DE JUNIO DE 2020.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis.”
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1153.- SE REFORMA EL ARTÍCULO 6° EN SU PÁRRAFO SEGUNDO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
