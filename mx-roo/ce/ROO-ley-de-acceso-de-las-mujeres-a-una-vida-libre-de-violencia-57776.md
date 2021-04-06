@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5777
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-27"
-last_updated: "2020-09-08"
+last_updated: "2021-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
 
 Ley publicada en el Extraordinario Número 77 al Periódico Oficial del Estado de Quintana Roo, el martes 27 de noviembre de 2007.
 
@@ -191,6 +191,8 @@ En los casos de violencia familiar contra las mujeres serán aplicables las disp
 
 ### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 8.
 
 Por violencia laboral y docente se entenderá aquella que se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad.
@@ -213,9 +215,11 @@ El hostigamiento sexual es el ejercicio del poder, en una relación de subordina
 
 El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 12.
 
-El Estado y los municipios, en el ámbito de sus respectivas competencias, tomarán en consideración:
+El Estado y los municipios, en el ámbito de sus respectivas competencias, deberán:
 
 I. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales, de docencia o ambas;
 
@@ -223,13 +227,21 @@ I. Establecer las políticas públicas que garanticen el derecho de las mujeres 
 
 II. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos en el Estado;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
 
-III. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores, y
+III. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores;
 
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
 
-IV. Fortalecer el marco de la legislación penal para asegurar las sanciones a quienes hostiguen y acosen.
+IV. Promover ante el Poder Legislativo el fortalecimiento de la legislación penal respecto a las sanciones por los delitos de hostigamiento y acoso sexual, y
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2021)</small>
+
+V. Expedir la normatividad administrativa, así como los protocolos especializados para prevenir, atender y denunciar el hostigamiento y acoso sexual, con enfoque en derechos humanos y perspectiva de género.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2021)</small>
+
+Los protocolos a que refiere la fracción V deberán publicarse en el Periódico Oficial del Estado de Quintana Roo y deberán actualizarse cada tres años.
 
 ###### ARTÍCULO 13.
 
@@ -259,17 +271,31 @@ Se considera también violencia digital la difusión, revelación, publicación,
 
 ###### ARTÍCULO 14.
 
-Por violencia en la comunidad se entienden aquellos actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión en el ámbito público.
+Por violencia en la comunidad se entienden aquellos actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión en el ámbito público. También incluye acoso sexual en espacios públicos o de acceso público.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 14 BIS.- El acoso sexual en espacios públicos o de acceso público, es una forma de violencia en la que no existe subordinación y no existe un vínculo laboral, docente o análogo con la víctima, reflejada en cualquier acto verbal o físico, de naturaleza sexual o connotación lasciva a otra persona sin su consentimiento.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 15.
 
-El Estado y los municipios, en el ámbito de sus respectivas competencias, deben garantizar a las mujeres la erradicación de la violencia en la comunidad, a través de:
+El Estado, a través de la Secretaría de Gobierno, y los municipios, en el ámbito de sus respectivas competencias, deben garantizar a las mujeres la erradicación de la violencia en la comunidad, a través de:
 
-I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
+I. La elaboración de programas de reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
 
-II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres, y
+II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres;
 
-III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias.
+III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias;
+
+IV. La implementación de políticas públicas de prevención de la violencia por acoso sexual en espacios públicos o de acceso público;
+
+V. Proporcionar atención psicológica y legal, especializada y gratuita a quien sea víctima de acoso sexual en espacios públicos o de acceso público, y
+
+VI. La expedición de la normatividad administrativa, así como los protocolos especializados para prevenir, atender y denunciar el acoso sexual en espacios públicos o de acceso público, con enfoque en derechos humanos y perspectiva de género.
+
+Los protocolos a que refiere la fracción VI deberán publicarse en el Periódico Oficial del Estado de Quintana Roo y deberán actualizarse cada tres años.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1570,3 +1596,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 097 POR EL QUE SE REFORMAN EL PÁRRAFO PRIMERO Y LAS FRACCIONES III Y IV DEL ARTÍCULO 12; EL ARTÍCULO 14 Y EL ARTÍCULO 15; Y SE ADICIONAN LA FRACCIÓN V Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 12 Y EL ARTÍCULO 14 BIS; TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un término de 180 días naturales, el Gobierno del Estado y los Municipios en el ámbito de sus respectivas competencias deberán expedir y publicar la normatividad administrativa los protocolos especializados para prevenir, atender y denunciar el hostigamiento, acoso sexual y el acoso sexual en espacios públicos o de acceso público, con enfoque en derechos humanos y perspectiva de género, acordes con el protocolo publicado en el Diario Oficial de la Federación en fecha 3 de enero de 2020.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
