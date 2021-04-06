@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2021-03-06"
+last_updated: "2021-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -78,6 +78,16 @@ Al aplicarse supletoriamente la Ley Federal del Trabajo, tanto las funciones cor
 ###### ARTICULO 5o.
 
 Para efectos de la presente ley, se entenderán por instituciones públicas de gobierno, a los Poderes Legislativo, Ejecutivo y Judicial, a los municipios, organismos públicos descentralizados, órganos jurisdiccionales, tribunales constitucionalmente autónomos, y empresas de participación estatal y municipal.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2021)</small>
+
+###### ARTICULO 5 Bis.
+
+Para los efectos de esta Ley se entiende por:
+
+I. Hostigamiento: al ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral, que se expresa en conductas verbales, físicas o ambas, y
+
+II. Acoso sexual: A una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
 ###### ARTICULO 6o.
 
@@ -477,6 +487,10 @@ X BIS.- Tratándose de ayuntamientos, respecto de los laudos firmes que se hayan
 
 XI.- Guardar hacia los trabajadores el debido respeto y consideración;
 
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2021)</small>
+
+XI BIS.- Implementar, en acuerdo con las o los trabajadores, protocolo para prevenir el hostigamiento y/o acoso sexual;
+
 XII.- Contribuir para el fomento de actividades cívicas, culturales y deportivas de los trabajadores;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
@@ -609,7 +623,9 @@ IV.- Abandone el servicio en horas hábiles de la jornada de trabajo;
 
 V.- Ocasione daños intencionales en los edificios, instrumentos, maquinaria, materias primas y demás objetos relacionados con el trabajo; o bien, cause dichos daños por negligencia, que sea causa de perjuicio a la institución pública de que se trate;
 
-VI.- Cometa actos inmorales durante el trabajo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
+
+VI.- Cometa la o el trabajador actos inmorales o de hostigamiento y/o acoso sexual contra cualquier persona en el establecimiento o lugar de trabajo;
 
 VII.- Divulgue los secretos o la reserva en los asuntos de su conocimiento, con motivo de su trabajo, que requieran del sigilo o discreción por razón del servicio público;
 
@@ -681,7 +697,9 @@ El trabajador podrá dar por terminada la relación de trabajo con la instituci�
 
 I.- Ser engañado por el titular de la institución pública de gobierno, respecto de las condiciones de trabajo propuestas. Dejará de tener efecto esta causa después de treinta días de prestarse el trabajo;
 
-II.- Incurrir el titular de la institución pública de gobierno, sus familiares o su personal directivo o administrativo, dentro del servicio, en faltas de probidad u honradez, actos de violencia, amenazas, injurias, malos tratos en contra del trabajador, cónyuge, padres, hijos o hermanos de éste;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2021)</small>
+
+II.- Incurrir el titular de la institución de gobierno, sus familiares o su personal directivo o administrativo, dentro del servicio, en faltas de probidad u honradez, actos de violencia, amenazas, injurias, hostigamiento y/o acoso sexual, malos tratamientos u otros análogos, en contra del trabajador, cónyuge, padres, hijos o hermanos de éste;
 
 III.- Las mismas faltas señaladas en la fracción anterior fuera del servicio, si son tan graves que hagan imposible el cumplimiento de la relación de trabajo;
 
@@ -2098,3 +2116,13 @@ P.O. 6 DE MARZO DE 2021.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se deroga todo lo que se oponga al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1145.- SE REFORMA (SIC) LOS ARTÍCULOS 55 EN SU FRACCIÓN VI Y 62 EN SU FRACCIÓN II; Y ADICIONA A Y (SIC) LOS ARTÍCULOS 5° BIS Y 51 LA FRACCIÓN XI BIS, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Se establece un plazo de noventa días naturales a partir de la entrada en vigencia de este Decreto, para que las instituciones públicas del Estado tengan vigente un protocolo de prevención del hostigamiento y acoso sexual, en los términos previstos por la fracción XI Bis que se adiciona al artículo 51 de la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí.
