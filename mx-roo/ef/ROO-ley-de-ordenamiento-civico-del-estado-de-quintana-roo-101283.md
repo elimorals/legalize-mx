@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-ordenamiento-civico-del-estado-de-quintana-roo-101283"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-02"
-last_updated: "2014-07-04"
+last_updated: "2021-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ORDENAMIENTO CÍVICO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 4 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 7 DE ABRIL DE 2021.
 
 Ley publicada en el Número 43 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 2 de mayo de 2014.
 
@@ -313,11 +313,89 @@ La Administración Pública, dentro de las 24 horas siguientes al aviso previsto
 
 ### CAPÍTULO SEXTO. DE LAS INFRACCIONES
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2021)</small>
+
 ###### Artículo 29.
 
-Son infracciones a la presente ley en materia de cultura cívica, las siguientes:
+Son infracciones relacionadas con la violencia en la comunidad en espacios públicos o de acceso público:
 
-I. Tirar basura en lugares no autorizados;
+I. Realizar cualquier expresión de naturaleza sexual o connotación lasciva a otra persona sin su consentimiento;
+
+Para efectos de esta fracción se entiende por expresión cualquier manifestación verbal, física o sonora de una persona sin que exista contacto físico.
+
+II. Realizar roces, manoseo, apretones, pellizcos, empujones, frotes de naturaleza sexual o connotación lasciva a otra persona sin su consentimiento;
+
+III. Realizar tocamiento de órganos sexuales en su propia persona o exhibición de órganos sexuales;
+
+IV. Seguir o acechar a una persona sin su consentimiento y sin justificación alguna, y
+
+V. Capturar, a través de cualquier medio tecnológico, imágenes, video o audio de naturaleza sexual o connotación lasciva de otra persona sin su consentimiento.
+
+La difusión, publicación o reproducción del material realizado también será objeto de infracción.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2021)</small>
+
+###### Artículo 29 Bis.
+
+Son infracciones en contra de la tranquilidad de las personas:
+
+I. Producir o causar ruidos por cualquier medio que notoriamente atenden (sic) contra la tranquilidad o represente un posible riesgo a la salud de los vecinos;
+
+II. Poseer animales sin adoptar las medidas de higiene necesarias que impidan hedores o la presencia de plagas que ocasionen cualquier molestia a los vecinos;
+
+III. Prestar algún servicio sin que le sea solicitado y coaccionar de cualquier manera a quien lo reciba para obtener un pago por el mismo. La presentación del infractor solo procederá por queja previa, y
+
+IV. Obstruir con cualquier objeto entradas o salidas de inmuebles sin autorización del propietario o poseedor del mismo.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2021)</small>
+
+###### Artículo 29 Ter.
+
+Son infracciones en contra de la seguridad de las personas:
+
+I. Permitir el propietario o poseedor de un animal que éste transite libremente o transitar con él sin adoptar las medidas de seguridad necesarias, de acuerdo con las características particulares del animal, para prevenir posibles ataques a otra persona o animales, así como azuzarlo o no contenerlo;
+
+II. Organizar o participar en peleas de animales, de cualquier forma;
+
+III. Participar de cualquier manera, organizar o inducir a otro a realizar competencias vehiculares de velocidad en vías públicas;
+
+IV. Ingerir bebidas alcohólicas en lugares públicos no autorizados o consumir, ingerir, inhalar o aspirar estupefacientes, psicotrópicos, enervantes o sustancias tóxicas en lugares públicos, independientemente de los delitos en que se incurra;
+
+V. Abstenerse, el propietario, de bardar un inmueble sin construcción o no darle el cuidado necesario para mantenerlo libre de plagas o maleza, que puedan ser dañinas para los colindantes;
+
+VI. Detonar o encender cohetes, juegos pirotécnicos, fogatas, sin permiso, de la autoridad competente;
+
+VII. Solicitar los servicios de emergencia, policía, bomberos o de establecimientos médicos o asistencias, públicos, y privados, cuando no se requieran. Asimismo, proferir voces, realizar actos o adoptar actitudes que constituyan falsas alarmas de siniestros o que puedan producir o produzcan el temor o pánico colectivos;
+
+VIII. Interrumpir, perturbar o en alguna forma pretender impedir u obstaculizar ilegalmente la celebración de manifestaciones, marchas o plantones;
+
+IX. Apagar, sin autorización, el alumbrado público o afectar algún elemento del mismo que impida su normal funcionamiento;
+
+X. Portar, transportar, o usar, sin preocupación, objetos o sustancias que por su naturaleza sean peligrosos y sin observar, en su caso, las disposiciones aplicables;
+
+XI. Trepar bardas, enrejados o cualquier elemento constructivo semejante, para observar al interior de un inmueble ajeno;
+
+XII. Percutir armas de postas, diábolos, dardos o municiones contra personas o animales;
+
+XIII. Hacer disparos al aire con arma de fuego;
+
+XIV. Amenazar, coaccionar y/o agredir físicamente a los agentes de las fuerzas de seguridad pública cuando estén velando por el mantenimiento del orden público, por ejemplo, en manifestaciones, marchas, plantones u otro tipo de protestas;
+
+XV. Escalar como acción de protesta edificios públicos o precipitarse desde los mismos;
+
+XVI. Llevar a cabo bloqueos, así como entorpecer de cualquier forma el uso de las vías públicas del Estado;
+
+XVII. Realizar actos que, de manera ilícita, afecten el normal funcionamiento de las acciones del Estado, los municipios, la actividad económica, turística, social y política del Estado de Quintana Roo, y
+
+XVIII. Ofrecer o propiciar la venta de boletos de espectáculos públicos, con precios superiores a los autorizados.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2021)</small>
+
+###### Artículo 29 Quáter.
+
+Son infracciones en contra del entorno urbano las siguientes:
+
+I. Tirar la basura en lugares no autorizados;
 
 II. Abandonar muebles en espacios o vías públicas;
 
@@ -327,71 +405,25 @@ IV. Colocar transitoriamente o fijar, sin autorización para ello, elementos des
 
 V. Colocar en la acera o en el arroyo vehicular, enseres o cualquier elemento propio de un establecimiento mercantil, sin la autorización correspondiente;
 
-VI. Producir o causar ruidos por cualquier medio que notoriamente atenten contra la tranquilidad o represente un posible riesgo a la salud de los vecinos;
+VI. Abstener de recoger, de espacios o vías públicas, las heces fecales de un animal de su propiedad o bajo su custodia, así como tirar o abandonar dichos desechos fuera de los contenedores adecuados para tirarlos;
 
-VII. Ofrecer o propiciar la venta de boletos de espectáculos públicos, con precios superiores a los-autorizados;
+VII. Desperdiciar el agua o impedir su uso a quienes deban tener acceso a ella en tuberías, tanques, o tinacos almacenadores, así como utilizar indebidamente los hidrantes públicos, obstruirlos o impedir su uso;
 
-VIII. Poseer animales sin adoptar las medidas de higiene necesarias que impidan hedores o la presencia de plagas que ocasionen cualquier molestia a los vecinos;
+VIII. Ingresar a zonas señaladas como de acceso restringido en los lugares o inmuebles destinados a servicios públicos, sin la autorización correspondiente o fuera de los horarios establecidos;
 
-IX. Permitir el propietario o poseedor de un animal que éste transite libremente o transitar con él sin adoptar las medidas de seguridad necesarias, de acuerdo con las características particulares del animal, para prevenir posibles ataques a otras personas o animales, así como azuzarlo o no contenerlo;
+IX. Arrojar, tirar o abandonar en los espacios o vías públicas, animales muertos, desechos, objetos o sustancias;
 
-X. Abstenerse de recoger, de espacios o vías públicas, las heces fecales de un animal de su propiedad o bajo su custodia, así como tirar o abandonar dichos desechos fuera de los contenedores adecuados para tirarlos;
+X. Arrojar en la vía pública desechos, sustancias peligrosas para la salud de las personas o que despidan olores desagradables;
 
-XI. Organizar o participar en peleas de animales, de cualquier forma;
+XI. Obstruir o permitir la obstrucción de la vía pública, con motivo de la instalación, modificación, cambio o mantenimiento de los elementos constitutivos de un anuncio y no exhibir la documentación correspondiente que autorice a realizar dichos trabajos;
 
-XII. Participar de cualquier manera, organizar o inducir a otros a realizar competencias vehiculares de velocidad en vías públicas;
+XII. Dañar, pintar, maltratar, ensuciar o hacer uso indebido de las fachadas de inmuebles públicos o de los particulares, sin autorización expresa de éstos, estatuas, monumentos, postes, arbotantes, semáforos, parquímetros, buzones, tomas de agua, señalizaciones viales o de obras, puentes, pasos peatonales, plazas, parques, jardines, elementos de ornato u otros semejantes;
 
-XIII. Ingerir bebidas alcohólicas en lugares públicos no autorizados o consumir, ingerir, inhalar o aspirar estupefacientes, psicotrópicos, enervantes o sustancias tóxicas en lugares públicos, independientemente de los delitos en que se incurra;
+XIII. Cubrir, borrar, pintar, alterar, o desprender los letreros, señales, número o letras que identifiquen vías, inmuebles y espacios públicos;
 
-XIV. Abstenerse, el propietario, de bardar un inmueble sin construcción o no darle el cuidado necesario para mantenerlo libre de plagas o maleza, que puedan ser dañinas para los colindantes;
+XIV. Pintar, adherir, colgar o fijar anuncios o cualquier tipo de propaganda en elementos del equipamiento urbano, del mobiliario urbano, de ornato o árboles, sin autorización para ello, y
 
-XV. Desperdiciar el agua o impedir su uso a quienes deban tener acceso a ella en tuberías, tanques o tinacos almacenadores, así como utilizar indebidamente los hidrantes públicos, obstruirlos o impedir su uso;
-
-XVI. Detonar o encender cohetes, juegos pirotécnicos, fogatas, sin permiso de la autoridad competente;
-
-XVII. Prestar algún servicio sin que le sea solicitado y coaccionar de cualquier manera a quien lo reciba para obtener un pago por el mismo. La presentación del infractor solo procederá por queja previa;
-
-XVIII. Solicitar los servicios de emergencia, policía, bomberos o de establecimientos médicos o asistenciales, públicos o privados, cuando no se requieran. Asimismo, proferir voces, realizar actos o adoptar actitudes que constituyan falsas alarmas de siniestros o que puedan producir o produzcan el temor o pánico colectivos;
-
-XIX. Ingresar a zonas señaladas como de acceso restringido en los lugares o inmuebles destinados a servicios públicos, sin la autorización correspondiente o fuera de los horarios establecidos;
-
-XX. Interrumpir, perturbar o en alguna forma pretender impedir u obstaculizar ilegalmente la celebración de manifestaciones, marchas o plantones.
-
-XXI. Arrojar, tirar o abandonar en los espacios o vías públicas, animales muertos, desechos, objetos o sustancias;
-
-XXII. Arrojar en la vía pública desechos, sustancias peligrosas para la salud de las personas o que despidan olores desagradables;
-
-XXIII. Obstruir con cualquier objeto entradas o salidas de inmuebles sin autorización del propietario o poseedor del mismo;
-
-XXIV. Obstruir o permitir la obstrucción de la vía pública, con motivo de la instalación, modificación, cambio o mantenimiento de los elementos constitutivos de un anuncio y no exhibir la documentación correspondiente que autorice a realizar dichos trabajos;
-
-XXV. Apagar, sin autorización, el alumbrado público o afectar algún elemento del mismo que impida su normal funcionamiento;
-
-XXVI. Portar, transportar o usar, sin precaución, objetos o sustancias que por su naturaleza sean peligrosos y sin observar, en su caso, las disposiciones aplicables;
-
-XXVII. Alterar el orden, arrojar líquidos u objetos, prender fuego o provocar altercados en los eventos o espectáculos públicos o en sus entradas o salidas, así como en manifestaciones, marchas o plantones;
-
-XXVIII. Trepar bardas, enrejados o cualquier elemento constructivo semejante, para observar al interior de un inmueble ajeno;
-
-XXIX. Dañar, pintar, maltratar, ensuciar o hacer uso indebido de las fachadas de inmuebles públicos o de los particulares, sin autorización expresa de éstos, estatuas, monumentos, postes, arbotantes, semáforos, parquímetros, buzones, tomas de agua, señalizaciones viales o de obras, puentes, pasos peatonales, plazas, parques, jardines, elementos de ornato u otros bienes semejantes;
-
-XXX. Cubrir, borrar, pintar, alterar o desprender los letreros, señales, números o letras que identifiquen vías, inmuebles y espacios públicos;
-
-XXXI. Pintar, adherir, colgar o fijar anuncios o cualquier tipo de propaganda en elementos del equipamiento urbano, del mobiliario urbano, de ornato o árboles, sin autorización para ello;
-
-XXXII. Percutir armas de postas, diábolos, dardos o municiones contra personas o animales;
-
-XXXIII. Hacer disparos al aire con arma de fuego;
-
-XXXIV. Amenazar, coaccionar y/o agredir físicamente a los agentes de las fuerzas de seguridad pública cuando estén velando por el mantenimiento del orden público, por ejemplo en manifestaciones, marchas, plantones u otro tipo de protestas;
-
-XXXV. Escalar como acción de protesta edificios públicos o precipitarse desde los mismos;
-
-XXXVI. Llevar a cabo bloqueos, así como entorpecer de cualquier forma el uso de las vías públicas del Estado;
-
-XXXVII. Realizar actos que de manera ilícita, afecten el normal funcionamiento de las acciones del Estado, los municipios, la actividad económica, turística, social política del Estado de Quintana Roo, y
-
-XXXVIII. Las demás que pudieran establecer los Ayuntamientos.
+XV. Alterar el orden, arrojar líquidos u objetos, prender fuego o provocar altercados en los eventos o espectáculos públicos o en sus entradas o salidas, así como en manifestaciones, marchas o plantones.
 
 ### CAPÍTULO SÉPTIMO. DE LAS SANCIONES
 
@@ -417,9 +449,13 @@ III. Las condiciones económicas del infractor, y
 
 IV. La reincidencia.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2021)</small>
+
 ###### Artículo 32.
 
-En el caso de la imposición de multas por las infracciones contenidas en el artículo 29 de esta ley, las mismas serán de 10 a 100 veces el salario mínimo general vigente en la zona económica. Por lo que hace al arresto administrativo se deberá sujetar al término y condiciones establecidas en la Constitución Política de los Estados Unidos Mexicanos.
+Por la comisión de las infracciones contenidas en los artículos 29 Bis, 29 Ter y 29 Quáter de esta ley, se impondrá multa de 10 hasta 100 veces el valor diario de la unidad de medida y actualización, la cual podrá ser conmutada por días de trabajo a la comunidad, siempre y cuando la conmutación no sea menor a treinta días ni mayor a noventa días de trabajo a la comunidad. Por lo que hace el arresto administrativo se deberá sujetar al termino y condiciones establecidas en la Constitución Política de los Estados Unidos Mexicanos.
+
+Por la comisión de las infracciones contenidas en el artículo 29 de esta ley, se impondrá multa de 50 hasta 100 veces el valor diario de la unidad de medida y actualización, así como días de trabajo a la comunidad, los cuales no serán menor a treinta días ni mayor a noventa días de trabajo a la comunidad.
 
 ### CAPÍTULO OCTAVO. DEL RECURSO ADMINISTRATIVO
 
@@ -432,6 +468,52 @@ Los interesados afectados por los actos y resoluciones que las autoridades seña
 ###### Artículo 34.
 
 Toda persona podrá denunciar ante la autoridad administrativa correspondiente, todo hecho, acto u omisión que contravenga las disposiciones de la presente ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN P.O. 7 DE ABRIL DE 2021)</small>
+
+### CAPÍTULO DÉCIMO. DEL REGISTRO DE INFRACTORES
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2021)</small>
+
+###### Artículo 35.
+
+El Registro de Infractores contendrá la información de todas las personas que hubieren sido sancionadas por la comisión de las infracciones previstas por esta ley, catalogadas por tipo de infracción: acoso sexual; en contra del entorno urbano; en contra de la tranquilidad de las personas y en contra de la seguridad de las personas.
+
+Este registro se integrará con los siguientes datos:
+
+I. Nombre, domicilio y sexo del infractor;
+
+II. Infracciones cometidas;
+
+III. Lugares de comisión de la infracción, y
+
+IV. Sanciones impuestas y, en su caso, lugares de cumplimiento del arresto.
+
+Las autoridades municipales podrán incorporar más datos a su registro de infractores de conformidad con su disponibilidad presupuestal.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2021)</small>
+
+###### Artículo 36.
+
+El Registro de Infractores será de consulta obligatoria para los jueces calificadores o cívicos a efecto de obtener los elementos necesarios para motivar la aplicación de sanciones de ser así el caso.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2021)</small>
+
+###### Artículo 37.
+
+El registro de infractores estará a cargo del Municipio, y solo se proporcionará información de los registros que consten en el mismo, cuando exista mandamiento de autoridad competente que funde y motive su requerimiento.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2021)</small>
+
+###### Artículo 38.
+
+La información contenida en el Registro de Infractores tendrá como objeto el diseño de las estrategias y acciones tendientes a la preservación del orden y la tranquilidad pública en el Estado de Quintana Roo, así como instrumentos de programas de desarrollo social.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2021)</small>
+
+###### Artículo 39.
+
+Con el fin de asegurar las condiciones sobre el manejo y acceso a la información del Registro de Infractores, los responsables de inscribir y los de proporcionar información deberán tener claves confidenciales a fin de que quede debida constancia de cualquier consulta y otorgamiento de información debiendo en todo momento de cumplir con lo dispuesto en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley de Transparencia y Acceso a la Información Pública, ambas leyes del Estado de Quintana Roo.
 
 ## TRANSITORIOS
 
@@ -470,3 +552,11 @@ N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECR
 P.O. 4 DE JULIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 7 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 099 POR EL QUE SE REFORMAN EL ARTÍCULO 29 Y EL ARTÍCULO 32; Y SE ADICIONAN LOS ARTÍCULOS 29 BIS; 29 TER Y 29 QUÁTER; UN CAPÍTULO DÉCIMO DENOMINADO DEL REGISTRO DE INFRACTORES INTEGRADO POR LOS ARTÍCULOS 35, 36, 37, 38 Y 39, TODOS DE LA LEY DE ORDENAMIENTO CÍVICO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
