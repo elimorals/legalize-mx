@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-115
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-03"
-last_updated: "2018-04-05"
+last_updated: "2021-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2021.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 3 de mayo de 2016.
 
@@ -503,31 +503,57 @@ X. No haber sido Gobernador, Secretario de Despacho o su equivalente, Procurador
 
 El procedimiento para la designación de los Comisionados del Instituto, se sujetará al trámite siguiente:
 
-I. El Comisionado Presidente del Instituto, comunicará a la Legislatura o a la Diputación Permanente, en su caso, por lo menos con sesenta días de anticipación a la fecha de conclusión del cargo del comisionado que se encuentre próximo al término de su período.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2021)</small>
 
-II. La Presidencia de la Mesa Directiva de la Legislatura, o de la Diputación Permanente, en su caso, convocará a la ciudadanía en general, para que presenten sus propuestas.
+I. El Comisionado Presidente del Instituto, comunicará a la Legislatura o a la Comisión Permanente, en su caso, por lo menos con sesenta días de anticipación a la fecha de conclusión del cargo del comisionado que se encuentre próximo al término de su período.
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2021)</small>
+
+II. La Presidencia de la Mesa Directiva de la Legislatura o la Comisión Permanente, en su caso, a propuesta de la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, convocará a la ciudadanía en general, a organizaciones no gubernamentales, centros de investigación, colegios, barras y asociaciones de profesionistas, instituciones académicas y medios de comunicación para que presenten sus postulaciones de aspirantes a ocupar el cargo, siempre que cumplan con los requisitos señalados por esta Ley.
+
+En la convocatoria se deberá considerar al menos las siguientes características:
+
+a) Los plazos, lugar, horarios y condiciones de presentación de las solicitudes;
+
+b) Los requisitos y la forma de acreditarlos;
+
+c) El método de evaluación y calificación de los requisitos que presenten los aspirantes, y
+
+d) Para promover la participación ciudadana, se deberá invitar a investigadores, académicos, a organizaciones de la sociedad civil y/o especialistas en las materias de acceso a la información, transparencia, datos personales, fiscalización y rendición de cuentas, y, en general, en todo lo concerniente a gobierno abierto, a participar en el desarrollo de las entrevistas que se lleven a cabo.
 
 Los aspirantes podrán participar por sí, de manera directa o a través de una propuesta que otras personas hagan de ellos.
 
 Los proponentes convocados no podrán presentar más de una propuesta.
 
-III. El plazo para la recepción de propuestas será de cinco días hábiles contados a partir del día siguiente de la publicación de la Convocatoria en el Periódico Oficial del Estado de Quintana Roo, en dos diarios de circulación en el Estado y en el portal de internet del Poder Legislativo del Estado de Quintana Roo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE ABRIL DE 2021)</small>
+
+III. El plazo para la recepción de propuestas será de diez días hábiles contados a partir del día siguiente de la publicación de la Convocatoria en el Periódico Oficial del Estado de Quintana Roo, en tres periódicos de mayor circulación en el Estado, en el portal de internet y en las redes sociales del Poder Legislativo del Estado de Quintana Roo.
 
 Las propuestas se deberán presentar por escrito ante la Oficialía de Partes del Poder Legislativo debiendo acompañar copia certificada de la documentación que acredite el cumplimiento de los requisitos que establece la ley, así como un escrito firmado por el candidato donde manifieste su consentimiento para participar en el proceso.
 
 Las propuestas deberán señalar por escrito y al momento de su presentación, domicilio para oír y recibir notificaciones en la ciudad de Chetumal, a falta de éste, las notificaciones se harán por estrados del Poder Legislativo;
 
-IV. Vencido el plazo señalado en la fracción anterior, las propuestas se turnarán inmediatamente a la Comisión de Puntos Legislativos y Técnica Parlamentaria de la Legislatura para que proceda a verificar el contenido de la documentación presentada; si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos o que la documentación no es correcta, se prevendrá a los promoventes a más tardar dentro de los dos días hábiles siguientes contados a partir de la notificación, para que subsanen la documentación respectiva.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE ABRIL DE 2021)</small>
+
+IV. Vencido el plazo señalado en la fracción anterior, las propuestas se turnarán inmediatamente a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos para que proceda a verificar el contenido de la documentación presentada; si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos o que la documentación no es correcta, se prevendrá a los promoventes a más tardar dentro de los dos días hábiles siguientes contados a partir de la notificación, para que subsanen la documentación respectiva.
 
 Cumplido este plazo, sin que se hayan subsanado la o las prevenciones realizadas, se tendrá por no presentada la propuesta;
 
-V. Una vez recibidas las propuestas y/o subsanadas la o las prevenciones si las hubieren, la Comisión de Puntos Legislativos y Técnica Parlamentaria de la Legislatura, dentro de los tres días hábiles siguientes deberá elaborar el Dictamen que contendrá la relación de las propuestas que cubrieron los requisitos legales;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2021)</small>
 
-VI. La Comisión de Puntos Legislativos y Técnica Parlamentaria de la Legislatura, presentará el Dictamen respectivo a la consideración de la Legislatura o en su caso, de la Diputación Permanente, para que, en sesión que para tal efecto se celebre, se someta a votación de sus integrantes, y se determine quién de los candidatos propuestos resultare electo.
+V. Una vez recibidas las propuestas y/o subsanadas la o las prevenciones si las hubiere, la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, procederá a la revisión y análisis de las mismas, entrevistando de manera pública a cada uno de los aspirantes que hayan cumplido con los requisitos exigidos para el cargo y dentro de los tres días hábiles siguientes deberá elaborar el Dictamen que contendrá la relación de las propuestas que cubrieron los requisitos legales.
+
+En el mismo plazo esta Comisión publicará de forma física en los estrados del Poder Legislativo, así como de forma electrónica en el portal del Congreso de Quintana Roo la versión pública de los currículums de los aspirantes que cubrieron los requisitos legales.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE ABRIL DE 2021)</small>
+
+VI. Con base en la revisión de los requisitos, la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos; presentará el Dictamen respectivo a la consideración de la Legislatura para que, en sesión que para tal efecto se celebre, se someta a votación de sus integrantes, y se determine quién de los candidatos propuestos resultare electo.
 
 En la selección de candidatos a Comisionado del Instituto, se debe garantizar la igualdad de género;
 
-VII. El aspirante que resulte electo, deberá rendir la protesta de ley correspondiente ante la Legislatura o la Diputación Permanente en su caso, y
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2021)</small>
+
+VII. El aspirante que resulte electo, deberá rendir la protesta de ley correspondiente ante la Legislatura, y
 
 VIII. La designación del Comisionado se mandará a publicar en el Periódico Oficial del Estado de Quintana Roo y en el portal de internet del Poder Legislativo del Estado de Quintana Roo.
 
@@ -2888,3 +2914,13 @@ P.O. 5 DE ABRIL DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 100 POR EL QUE SE REFORMAN LA FRACCIÓN I, LA FRACCIÓN II, EL PRIMER PÁRRAFO DE LA FRACCIÓN III, EL PRIMER PÁRRAFO DE LA FRACCIÓN IV, LA FRACCIÓN V, EL PRIMER PÁRRAFO DE LA FRACCIÓN VI, Y LA FRACCIÓN VII TODOS DEL ARTÍCULO 36 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO Y POR EL QUE SE REFORMAN: LAS FRACCIONES IV Y V DEL ARTÍCULO 6; LA FRACCIÓN III DEL ARTÍCULO 28; Y SE ADICIONA: EL CONTENIDO DE LA FRACCIÓN IV AL ARTÍCULO 28, RECORRIENDO EN SU ORDEN LA ÚLTIMA FRACCIÓN; TODOS DEL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La modificación al procedimiento de designación será aplicable respecto de las convocatorias que se expidan a partir de la entrada en vigor del presente Decreto.
