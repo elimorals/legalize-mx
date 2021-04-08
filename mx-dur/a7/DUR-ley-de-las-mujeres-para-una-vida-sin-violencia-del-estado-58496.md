@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2020-12-10"
+last_updated: "2021-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -165,13 +165,17 @@ XIX. Sistema Estatal: El Sistema Estatal de Prevención, Atención, Sanción y E
 
 XX. Sistema Nacional: El Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, que establece la Ley General;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
 
-XXI. Víctima: A la mujer de cualquier edad a la que se le cause violencia, en cualquiera de sus tipos y ámbitos; y
+XXI. Víctima: A la mujer de cualquier edad a la que se le cause violencia, en cualquiera de sus tipos y ámbitos;
 
-> <small>(ADICIONADA [N. DE. E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
 
-XXII. Violencia contra la Mujer: Cualquier acción u omisión basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte.
+XXII. Violencia contra la Mujer: Cualquier acción u omisión basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2021)</small>
+
+XXIII. Misoginia: Conductas de odio y aversión contra las mujeres por el hecho de serlo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
@@ -821,9 +825,17 @@ V. Establecer las bases y lineamientos para la creación y funcionamiento del Ba
 
 VI. Establecer los lineamientos básicos de modelos de prevención y atención de violencia contra las mujeres;
 
-VII. Promover la capacitación de los servidores públicos que brinden atención o proporcionen servicios a las víctimas; y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
 
-VIII. Las demás que sean afines a las anteriores y que coadyuven en la mejor atención de los programas estatal y municipal de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+VII. Promover la capacitación de los servidores públicos que brinden atención o proporcionen servicios a las víctimas;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
+
+VIII. Las demás que sean afines a las anteriores y que coadyuven en la mejor atención de los programas estatal y municipal de prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2021)</small>
+
+IX. Educar y capacitar con perspectiva de género, Derechos Humanos y eliminación de violencia de género a todo el personal encargado de las políticas públicas de prevención, atención, sanción y eliminación de la violencia contra las mujeres del Estado de Durango.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -2028,3 +2040,11 @@ P.O. 10 DE DICIEMBRE DE 2020.
 PRIMERO.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 505.- POR EL QUE SE ADICIONA LA FRACCIÓN XXIII AL ARTÍCULO 4 Y LA FRACCIÓN IX AL ARTÍCULO 31 DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
