@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2020-11-19"
+last_updated: "2021-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2021.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -1493,9 +1493,13 @@ VIII. El Juez resolverá teniendo presente el interés superior de los hijos, qu
 
 IX. Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado, con las excepciones que marca el artículo 2596 de este Código; y
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2021)</small>
 
-X. Las demás que considere necesarias.
+X. En los casos en que exista violencia familiar cometida por uno de los cónyuges o concubinos contra el otro, hacia los hijos de ambos, o de alguno de ellos, los hijos quedarán bajo la custodia provisional del cónyuge o concubino víctima de dicha conducta o, en su caso, de aquel que no hubiere sido quien ejerció dicha violencia.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE ABRIL DE 2021)</small>
+
+XI. Las demás que considere necesarias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE JULIO DE 2018)</small>
 
@@ -1681,9 +1685,9 @@ ART. 306.- Los alimentos han de ser proporcionados: a la posibilidad del que deb
 
 ART. 306-1.- Los menores, las personas con discapacidad, los sujetos a estado de interdicción, las personas adultas mayores y el cónyuge que se dedique a las labores del hogar, gozarán de la presunción de necesidad de alimentos.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2021)</small>
 
-ART. 306-2.- Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el Juez resolverá con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años.
+ART. 306-2.- Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el Juez resolverá con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años; el monto de la pensión alimenticia será cuantificado tomando como base o referencia el salario mínimo general en el Estado.
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2004)</small>
 
@@ -1767,6 +1771,10 @@ ART. 318-1.- La conducta de violencia familiar cometida contra alguno de los có
 
 ART. 318-2.- Por violencia familiar se entiende como todo acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica o sexual a cualquier miembro de la familia, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad, por afinidad o civil, o mantenga o haya mantenido una relación de concubinato.
 
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+Así como el uso de la fuerza física o moral, y/o la omisión grave, respecto de un menor, por sus padres o por cualquier integrante de la familia.
+
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2004)</small>
 
 La educación, formación y el cuidado de los menores e incapaces no será en ningún caso considerada como justificación para alguna forma de maltrato, abuso, abandono o violencia.
@@ -1778,6 +1786,10 @@ ART. 318-3.- Los integrantes de la familia que incurran en violencia familiar, d
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
 
 En todas las controversias derivadas de violencia familiar, el Juez dictará las medidas a que se refieren las fracciones II y VIII del artículo 277 de este Código.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+ART. 318-4.- En los casos en que exista violencia familiar cometida por uno de los cónyuges o concubinos contra el otro, hacia los hijos de ambos, o de alguno de ellos, los hijos quedarán bajo la custodia del cónyuge o concubino víctima de dicha conducta o, en su caso, de aquel que no hubiere sido quien ejerció dicha violencia.
 
 ## TITULO SEPTIMO.
 
@@ -2333,9 +2345,13 @@ VII.- Por no dar cumplimiento por más de seis meses, sin causa justificada, a l
 
 VIII.- Por la negativa injustificada, por más de tres meses, de no proporcionar alimentos a quien tenga obligación de darlos;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
 
-IX.- Cuando uno de los progenitores realice, en forma reiterada y grave, en la persona de los hijos, conductas que ocasionen alienación parental que impacte al menor en su desarrollo armónico, o afecte a la persona, libertad o patrimonio del otro que ejerce la patria potestad, acreditable mediante dictamen que ordene el juez a perito especializado en la materia. La pérdida cesará una vez que el alineador justifique, al Juez que conoce del asunto, haberse sometido al tratamiento que le permita tener una sana relación con el menor.
+IX.- Cuando uno de los progenitores realice, en forma reiterada y grave, en la persona de los hijos, conductas que ocasionen alienación parental que impacte al menor en su desarrollo armónico, o afecte a la persona, libertad o patrimonio del otro que ejerce la patria potestad, acreditable mediante dictamen que ordene el juez a perito especializado en la materia.
+
+Se considera como una conducta de alienación parental el no permitir sin causa justificada el derecho de visita y convivencia o el hecho de perturbar al menor sobre el otro padre.
+
+La pérdida cesará una vez que el alineador justifique, al Juez que conoce del asunto, haberse sometido al tratamiento que le permita tener una sana relación con el menor
 
 Cuando el que ejerce la patria potestad la pierda por incurrir en los supuestos de las fracciones III, VII y VIII de este artículo, no podrá recuperarla.
 
@@ -10908,3 +10924,27 @@ P.O. 19 DE NOVIEMBRE DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 507.- POR EL QUE SE ADICIONA UNA FRACCIÓN X Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 277 Y UN ARTÍCULO 318-4 AL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 509.- QUE CONTIENE REFORMA AL ARTÍCULO 318-2, Y SE ADICIONA LA FRACCIÓN IX AL ARTICULO 439 AMBOS DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 516.- QUE CONTIENE REFORMA AL ARTÍCULO 306-2 DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. - Se derogan todas las disposiciones que se opongan al presente Decreto.
