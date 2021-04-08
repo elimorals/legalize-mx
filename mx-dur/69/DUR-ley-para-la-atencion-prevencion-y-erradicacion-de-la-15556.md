@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-atencion-prevencion-y-erradicacion-de-la-15556"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2017-05-11"
+last_updated: "2021-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15556&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY PARA LA ATENCION, PREVENCION Y ERRADICACION DE LA VIOLENCIA FAMILIAR -- ANTES LEY PARA LA ASISTENCIA, ATENCION Y PREVENCION DE LA VIOLENCIA INTRAFAMILIAR --
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 499, PUBLICADO EN EL P.O. DE 8 DE ABRIL DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA ATENCIÓN, PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -986,3 +988,17 @@ P.O. 11 DE MAYO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+> <small>[N. DE E. SE TRANSCRIBEN EL ARTÍCULO ÚNICO DEL DECRETO NO. 499 QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+Se Abroga la Ley para la Atención, Prevención y Erradicación de la Violencia Familiar para el Estado de Durango, publicada en el Periódico Oficial No. 51, de fecha 23 de diciembre de 1999.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 499.- POR EL QUE SE ABROGA LA LEY PARA LA ATENCIÓN, PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
