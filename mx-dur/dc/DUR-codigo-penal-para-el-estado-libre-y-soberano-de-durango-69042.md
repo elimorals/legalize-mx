@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2020-11-19"
+last_updated: "2021-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2021.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -2281,15 +2281,33 @@ II. El sujeto activo del delito tuviere relación de parentesco de cualquier tip
 
 III. Se cometiere por dos o más personas;
 
-IV. El sujeto activo se aproveche de la confianza, ignorancia, extrema necesidad económica o alimentaria o subordinación de la víctima, o de la relación de superioridad o de cualquier índole que sobre ésta tenga; o
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
 
-V. Si el sujeto activo obliga a la víctima a consumir, o le suministra sin su consentimiento, drogas, estupefacientes, psicotrópicos o cualquier otra sustancia tóxica que imposibilite su defensión de manera total, parcial, momentánea o permanente.
+IV. El sujeto activo se aproveche de la confianza, ignorancia, extrema necesidad económica o alimentaria o subordinación de la víctima, o de la relación de superioridad o de cualquier índole que sobre esta tenga;
 
-En estos supuestos, se impondrán al activo de doce a treinta años de prisión y multa de hasta dos mil ciento sesenta veces la Unidad de Medida y Actualización.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
+
+V. Si el sujeto activo obliga a la víctima a consumir, o le suministra sin su consentimiento, drogas, estupefacientes, psicotrópicos o cualquier otra sustancia toxica que imposibilite su defensión de manera total, parcial, momentánea o permanente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2021)</small>
+
+VI. Fuere cometido al encontrarse la víctima a bordo de un vehículo de servicio público; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2021)</small>
+
+VII. Fuere cometido en despoblado o en lugar solitario.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+En estos supuestos, se impondrán al activo de doce a treinta y seis años de prisión y multa de cuatrocientas treinta y cinco a dos mil cuatrocientas veces la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2021)</small>
+
+Además, si fuere el caso, el sujeto activo perderá la patria potestad, la tutela o custodia, el derecho a alimentos que le correspondieran por su relación con la víctima y todo derecho que pudiera tener respecto a los bienes de ésta.
 
 ### CAPÍTULO III. ESTUPRO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2021)</small>
 
 ###### Artículo 178.
 
@@ -2331,11 +2349,13 @@ VI. Fuere cometido en despoblado o en lugar solitario.
 
 ###### Artículo 181.
 
-Se impondrá de 1 año a 5 años de prisión y multa de setenta y dos a trecientos sesenta Unidades de Medida y Actualización, al que tenga cópula con una persona mayor de catorce años y menor de dieciocho años, obteniendo su consentimiento por medio del engaño.
+Se impondrá de 1 año a 5 años de prisión y multa de setenta y dos a trecientos sesenta Unidades de Medida y Actualización, al que tenga cópula con una persona mayor de catorce años y menor de dieciocho años, obteniendo su consentimiento por medio de la seducción o de cualquier tipo de engaño.
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
+Asimismo, se le sujetará a tratamiento especializado psicológico, psiquiátrico o reeducativo según corresponda, independientemente de las penas que correspondan al delito.
 
-Asimismo se le sujetará a tratamiento especializado psicológico, psiquiátrico o reeducativo según corresponda, independientemente de las penas que correspondan al delito.
+La pena se aumentará hasta en una mitad cuando el delito haya sido cometido dentro de las instalaciones de alguna institución educativa, asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otra persona.
+
+Para la procedencia de la acción correspondiente, se requiere previa querella de la victima directa o por conducto de quien o quienes ejerzan la patria potestad, tutor, representante de hecho o de derecho o a falta de los anteriores, del titular de Protección de Niñas, Niños y Adolescentes del Estado de Durango.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE OCTUBRE DE 2017)</small>
 
@@ -2614,6 +2634,10 @@ IX. En contra de persona con discapacidad o de más de sesenta años de edad; o
 > <small>(ADICIONADA, P.O. 5 DE MARZO DE 2015)</small>
 
 X. En contra de transeúnte, entendiéndose por éste a quien se encuentre en la vía pública o en espacios abiertos que permitan el acceso al público.
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2021)</small>
+
+XI.- Cuando participen trabajadores de instituciones públicas o privadas que tengan acceso a datos personales o movimientos financiero (sic) y que los utilicen a la (sic) sustraigan para sí o para terceros con el objeto de cometer el delito de robo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -4063,7 +4087,13 @@ Se impondrán las mismas penas al que, aún viviendo en el mismo domicilio, no p
 
 Se tendrá por consumado el abandono aún cuando el o los acreedores alimentarios se dejen al cuidado de un pariente o de una casa de asistencia.
 
-Las mismas penas se impondrán a aquél que teniendo la obligación de dar alimentos, no los proporcione sin causa justificada.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+Las mismas penas se impondrán a aquel que teniendo la obligación de dar alimentos, no los proporcione sin causa justificada. Si la omisión en el cumplimiento de esas obligaciones alimentarias, ocurre en inobservancia de una resolución judicial ejecutoriada, las sanciones se incrementarán hasta en una tercera parte.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+Para que el perdón concedido por el ofendido o su representante puede (sic) producir efectos, el responsable deberá pagar todas las cantidades que hubiese dejado de ministrar por concepto de alimentos en los términos que señale el Código Civil vigente en el Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -4079,11 +4109,27 @@ La autoridad judicial resolverá la aplicación del producto del trabajo que rea
 
 Al que sin causa justificada renuncie a su empleo o solicite licencia sin goce de sueldo, habiendo una resolución judicial en la que se le obligue al pago de alimentos, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá pena de prisión de uno a cuatro años y multa de setenta y dos a doscientos ochenta y ocho veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2021)</small>
 
-###### Artículo 299.
+###### ARTÍCULO 299.
 
-La pena señalada en el artículo 298 se impondrá a aquellas personas que obligadas a informar acerca de los ingresos de quienes deban cumplir con las obligaciones señaladas en los artículos anteriores, incumplan con la orden judicial de hacerlo.
+Se impondrá la pena señalada en el artículo 298 bis a aquellas personas que obligadas a informar acerca de los ingresos de quienes deben cumplir con las obligaciones señaladas en los artículos anteriores, incumplan la orden judicial de hacerlo, o si lo realiza bajo las siguientes conductas:
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+a) Informe falsamente.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+b) Informe un salario menor.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+c) No reporte en su totalidad las prestaciones que integran el salario
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+d) Omita realizar de inmediato el descuento o exceda el plazo ordenado por el Juez.
 
 ### CAPÍTULO II. DISCRIMINACIÓN
 
@@ -4115,9 +4161,13 @@ Este delito se perseguirá de oficio.
 
 En cualquier momento, el Ministerio Público podrá solicitar a la autoridad judicial, la aplicación de medidas de protección para la víctima y esta última resolverá sin dilación.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
 
-En los casos que exista desistimiento por parte de la víctima, podrá prevalecer la obligación de sujetar al agresor a tratamientos especializados psicológico, psiquiátrico o reeducativo que podrá llevarse a cabo en los centros de atención públicos especializados en la Entidad.
+En el caso de violencia física el Ministerio Público ordenará a la persona generadora de ésta, que salga inmediatamente del domicilio común, independientemente de que sea el propietario del inmueble.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+Así mismo se deberá obligar al agresor a tratamientos especializados psicológico, psiquiátrico o reeducativo que podrá llevarse a cabo en los centros de atención públicos especializados en la Entidad.
 
 ### CAPÍTULO II BIS. VIOLENCIA POLITICA
 
@@ -4431,11 +4481,29 @@ DELITOS POR HECHOS Y/O ACTOS DE CORRUPCIÓN
 
 ### CAPÍTULO II BIS. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2021)</small>
 
-Artículo 324 BIS. A quien por sí o por interpósita persona, adquiera, enajene, administre, custodie, cambie, deposite, de en garantía, invierta, transporte o transfiera, dentro del territorio del Estado, recursos, derechos o bienes de cualquier naturaleza que procedan o representen el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar, encubrir, evitar localizar el destino o propiedad de dichos recursos, derechos o bienes o alentar alguna actividad ilícita, se le impondrán de cinco a quince años de prisión y multa de trescientas sesenta a mil ochenta veces la Unidad de Medida y Actualización.
+Artículo 324 BIS. A quien por sí o por interpósita persona, adquiera, enajene, administre, custodie, posea, cambie, convierta, deposite, retire, dé o reciba por cualquier motivo, invierta, traspase, transporte o transfiera, dentro del territorio del Estado, recursos, derechos o bienes de cualquier naturaleza, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita; o encubra, oculte o evite localizar el destino, naturaleza, origen, ubicación, movimiento, propiedad o titularidad de recursos, derechos o bienes, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita, se le impondrá de cinco a quince años de prisión y multa de trescientas sesenta a mil ochenta veces la Unidad de Medida y Actualización.
 
-Las penas previstas en el párrafo anterior serán aumentadas en una mitad cuando el delito se cometa por servidores públicos; además, se impondrá a dichos servidores públicos, destitución o inhabilitación para desempeñar empleo, cargo o comisión de tres meses a diez años.
+Las penas previstas en el párrafo anterior serán aumentadas en una mitad cuando el delito se cometa por servidores públicos; a quienes, además, se impondrá destitución o inhabilitación para desempeñar empleo, cargo o comisión de tres meses a diez años. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
+
+Las penas previstas en este artículo se duplicarán, si la conducta es cometida por servidores públicos encargados de prevenir, detectar, denunciar, investigar o juzgar la comisión de delitos o ejecutar las sanciones penales, así como a los ex servidores públicos encargados de tales funciones que cometan dicha conducta en los dos años posteriores a su terminación.
+
+Asimismo, las penas se aumentarán hasta en una mitad si quien realice cualquiera de las conductas previstas en este artículo utiliza a personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tiene capacidad para resistirlo.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+Artículo 324 TER. Para efectos de lo dispuesto en este Capítulo, se entenderá que una persona tiene conocimiento de que los recursos, derechos o bienes proceden o representan el producto de una actividad ilícita cuando:
+
+a) Existan los medios para conocer o prever que los recursos, derechos o bienes proceden o representan el producto de una actividad ilícita o de un acto de participación en ella, basado en las circunstancias del bien, de la operación o de los sujetos involucrados y elementos objetivos acreditables en el caso concreto, y no los agota pudiendo hacerlo;
+
+b) Realice actos u operaciones a nombre de un tercero, sin el consentimiento de este o sin título jurídico que lo justifique, y no se actualice la gestión de negocios en términos de la legislación civil aplicable.
+
+Igualmente, para efectos de lo dispuesto en este Capítulo, se entenderá que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+Artículo 324 QUÁTER. El delito contenido en el presente Capítulo, se considerará hecho de corrupción cuando los recursos, derechos o bienes procedan o representen el producto de una actividad ilícita relacionada con los delitos (sic) Intimidación; Enriquecimiento Ilícito; Incumplimiento, Ejercicio Indebido y Abandono del Servicio Público; Uso Ilegal de la Fuerza Pública y Abuso de Autoridad; Uso Indebido de Atribuciones y Facultades; Tráfico de Influencia; Cohecho; Peculado; Concusión y Ejercicio Abusivo de Funciones, previstos en el presente ordenamiento.
 
 ###### Artículo 321.
 
@@ -5511,6 +5579,10 @@ II. Use o enajene los objetos falsificados o alterados señalados en la fracció
 
 Las penas se aumentarán en una mitad, cuando el objeto falsificado o alterado sea oficial.
 
+### CAPÍTULO ÚNICO. IMPARTICIÓN ILÍCITA DE EDUCACIÓN
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
+
 ###### Artículo 402.
 
 Al que elabore o altere, sin permiso de la autoridad competente una placa, el engomado, la tarjeta de circulación o los demás documentos oficiales que se expiden para identificar vehículos automotores o remolques, se le impondrán de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización.
@@ -5614,6 +5686,18 @@ En materia de delitos electorales, se estará a lo dispuesto por la Ley General 
 ###### Artículo 416.
 
 (DEROGADO, P.O. 17 DE JULIO DE 2014)
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 8 DE ABRIL DE 2021)</small>
+
+## TÍTULO SÉPTIMO. DELITOS CONTRA LA IMPARTICIÓN DE LA EDUCACIÓN
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE ABRIL DE 2021)</small>
+
+###### Artículo 417.
+
+A los propietarios y administradores de una institución que preste servicios educativos que conforme a la ley requieran autorización o reconocimiento de validez oficial de estudios y no los haya obtenido, se le impondrá de cinco a diez años de prisión y multa de mil a dos mil UMAS.
+
+Si en este delito tuviere intervención cualquier servidor público del ámbito educativo, la pena aplicable se aumentará de una a dos terceras partes de las que le corresponda por el delito cometido y se le impondrá, además la destitución y su inhabilitación de ocho a veinte años para desempeñar un empleo, cargo o comisión públicos. Las sanciones previstas en este artículo se impondrán sin perjuicio de las medidas que disponga la legislación reglamentación administrativa y las sanciones que correspondan en su caso.
 
 ## TRANSITORIOS
 
@@ -6476,3 +6560,59 @@ P.O. 19 DE NOVIEMBRE DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 508.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE EL SUBSECUENTE, AL ARTÍCULO 301 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 512.- POR EL QUE SE ADICIONA UN TÍTULO SÉPTIMO DENOMINADO DELITOS CONTRA LA IMPARTICIÓN DE EDUCACIÓN, QUE CONTIENE CAPÍTULO ÚNICO TITULADO IMPARTICIÓN ILÍCITA DE EDUCACIÓN CON UN ARTÍCULO 417, AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. - Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 513.- QUE CONTIENE REFORMA AL ARTÍCULO 181, DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.– Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 514.- QUE CONTIENE REFORMA AL ARTÍCULO 177 BIS, DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. - Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 515.- QUE CONTIENE REFORMA A LOS ARTÍCULOS (SIC) 324 BIS Y SE ADICIONAN LOS ARTÍCULOS 324 TER Y 324 QUATER AL CAPÍTULO II BIS OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 517.- QUE CONTIENE ADICIÓN A LA FRACCIÓN XI AL ARTÍCULO 198 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 518.- QUE CONTIENE REFORMA AL PÁRRAFO CUARTO Y SE ADICIONAN UN QUINTO PÁRRAFO AL ARTÍCULO 297, SE REFORMA Y SE ADICIONAN TRES INCISOS AL ARTÍCULO 299, AMBOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
