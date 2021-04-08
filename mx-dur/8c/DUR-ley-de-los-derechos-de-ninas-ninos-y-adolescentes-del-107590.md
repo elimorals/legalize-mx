@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2020-12-27"
+last_updated: "2021-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2021.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -93,7 +93,9 @@ V. Incorporar en sus proyectos de presupuesto la asignación de recursos que per
 
 Las autoridades estatales y municipales, en el diseño y ejecución de políticas públicas deberán garantizar el máximo bienestar posible de niñas, niños y adolescentes, privilegiando su interés superior, tomando en cuenta su situación familiar y social.
 
-Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, ambiental, ética y cívica de niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, artística, ambiental, ética y cívica de niñas, niños y adolescentes.
 
 ###### Artículo 5.
 
@@ -165,9 +167,9 @@ XXVII. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Int
 
 XXVIII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia; y
 
-> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
 
-XXIX. Violencia contra niñas, niños y adolescentes: Toda forma de perjuicio o abuso físico o mental, descuido o trato negligente, malos tratos o explotación, incluido el abuso sexual.
+XXIX. Violencia contra niñas, niños y adolescentes: Toda forma de perjuicio o abuso físico o mental, descuido o trato negligente, malos tratos o explotación, incluido el abuso sexual y la violencia digital.
 
 ###### Artículo 6.
 
@@ -221,7 +223,7 @@ Es obligación de toda persona que tenga conocimiento de casos de niñas, niños
 
 Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE ABRIL DE 2021)</small>
 
 I. Derecho a la vida, a la paz, a la supervivencia y al desarrollo;
 
@@ -275,11 +277,11 @@ XXI. Derecho de acceso a las Tecnologías de la Información y Comunicación.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar los anteriores y en general todos los derechos de las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 8 DE ABRIL DE 2021)</small>
 
 ### Capítulo Primero. Del Derecho a la Vida, a la Paz, a la Supervivencia y al Desarrollo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE ABRIL DE 2021)</small>
 
 ###### Artículo 11.
 
@@ -507,9 +509,17 @@ II. Implementar las medidas apropiadas para prevenir, sancionar y erradicar cual
 
 III. Adoptar las medidas apropiadas de conformidad con la legislación correspondiente para promover la recuperación física, psicológica y la integración social de niñas, niños y adolescentes víctimas de violencia para lograr el goce y restitución de sus derechos;
 
-IV. Garantizar su reincorporación a la vida cotidiana, en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes, para su desarrollo integral, y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
 
-V. Elaborar protocolos de atención en los que se considere su situación familiar, su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como para la reparación integral del daño.
+IV. Garantizar su reincorporación a la vida cotidiana, en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes, para su desarrollo integral;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
+
+V. Elaborar protocolos de atención en los que se considere su situación familiar, su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas; así como para la reparación integral del daño; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2021)</small>
+
+VI. Coordinar programas, talleres y campañas de información para padres, alumnas y alumnos a fin de generar la prevención, protección y erradicación de la violencia digital, así como del uso responsable de las tecnologías de la información y la comunicación.
 
 ### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
 
@@ -613,9 +623,13 @@ X. Contribuir a garantizar la permanencia y conclusión de la educación obligat
 
 XI. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
-XII. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
 
-XIII. Elaborar protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
+XII. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso sexual o cualquier otra forma de violencia incluyendo la violencia digital en contra de niñas, niños y adolescentes que se suscite en los centros educativos;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
+
+XIII. Elaborar protocolos de actuación sobre situaciones de acoso o violencia escolar y violencia sexual y/o digital que afecten a niñas, niños y adolescentes, para guiar la actuación del personal docente y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
@@ -629,11 +643,21 @@ XVII. Administrar la disciplina escolar de modo compatible con la dignidad human
 
 XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
 
-XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2021)</small>
 
-XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación, y
+XIX. Inculcar en niñas, niños y adolescentes el respeto, protección y conservación del medio ambiente, considerándolos como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad al medio ambiente; el respeto, cuidado y bienestar de los animales; así como los conceptos y principios fundamentales de las ciencias ambientales, el fomento de hábitos dirigidos a un estilo de vida sustentable, la sensibilización y prevención sobre las causas y efectos del cambio climático. Poniendo en el centro de la formación la afectación que se genera por el empleo del plástico de un solo uso y el uso inmoderado del agua.
 
-XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas y faciliten su reingreso al sistema educativo estatal.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
+
+XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
+
+XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas y faciliten su reingreso al sistema educativo estatal; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2021)</small>
+
+XXII. Diseñar una calendarización y planeación específica, estructurada en coordinación con los padres de familia, o con quienes ejerzan la patria potestad, tutela o guarda y custodia de las niñas, niños y adolescentes estudiantes, con el objetivo de garantizar la participación directa y permanente de éstos en la educación, ello a través de escuelas para padres, reuniones informativas u otro tipo de actividades que fortalezcan su corresponsabilidad formativa y educativa con las instituciones de enseñanza.
 
 ###### Artículo 38.
 
@@ -669,7 +693,9 @@ I. Diseñar estrategias y acciones para la detección temprana, contención, pre
 
 II. Desarrollar actividades de capacitación para servidores públicos y para el personal administrativo y docente;
 
-III. Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar, y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
+
+III. Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso, violencia sexual y/o digital o violencia escolar, y
 
 IV. Establecer y aplicar las sanciones que correspondan a las personas responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley y demás disposiciones jurídicas aplicables.
 
@@ -685,17 +711,25 @@ Las autoridades, en el ámbito de sus respectivas competencias, están obligadas
 
 ### Capítulo Décimo Tercero. De los Derechos de la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2021)</small>
+
 ###### Artículo 41.
 
-Niñas, niños y adolescentes tienen derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura. Las autoridades políticas y gubernamentales, en el ámbito de sus respectivas competencias garantizarán el ejercicio de este derecho.
+Niñas, niños y adolescentes tienen derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión, arte y cultura. Las autoridades políticas y gubernamentales, en el ámbito de sus respectivas competencias garantizarán el ejercicio de este derecho.
 
 Los derechos mencionados estarán sujetos únicamente a las limitaciones prescritas por la ley que sean necesarias para proteger los derechos de los demás. Se ejercerán bajo la orientación de los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia, según la evolución de sus facultades a fin de que contribuya con su desarrollo integral.
 
 Niñas, niños y adolescentes no podrán ser discriminados de forma alguna por ejercer su libertad de convicciones éticas, de pensamiento, conciencia, religión y cultura.
 
-Así mismo, tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyen su identidad cultural, así como al acceso a espacios culturales y a expresar sus manifestaciones culturales de acuerdo a sus propios intereses y expectativas.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+Así mismo, tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, artísticas, religión, recursos y formas específicas de organización social y todos los elementos que constituyen su identidad cultural, así como al acceso a espacios de arte y cultura y a expresar sus manifestaciones culturales y artísticas de acuerdo a sus propios intereses y expectativas.
 
 Lo dispuesto en este artículo se ejercerá en concordancia con el derecho a la educación y no será limitativo del deber de educación de los padres o de quienes ejerzan la patria potestad, tutela o guarda y custodia, de guiar y orientar a niñas, niños y adolescentes en el ejercicio de estos derechos, a fin de que contribuya con su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+Las autoridades estatales y municipales aprovecharán su infraestructura y recursos; el uso y desarrollo de los medios de comunicación oficiales y de las nuevas tecnologías a su alcance; lo mismo que su vinculación con las empresas de la industria cultural, a fin de promover y difundir todas sus expresiones para que las niñas, niños y adolescentes del Estado cuenten con elementos de aprendizaje y acercamiento a la cultura y las artes.
 
 ### Capítulo Décimo Cuarto. De los Derechos a la Libertad de Expresión y de Acceso a la Información
 
@@ -710,6 +744,10 @@ Niñas, niños y adolescentes tienen derecho al acceso a información y material
 En todos los casos, serán los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia los primeros responsables de orientar y supervisar a niñas, niños y adolescentes en el ejercicio de este derecho, a fin de que contribuya a su desarrollo integral.
 
 En cumplimiento de este derecho se deberán diseñar políticas públicas que permitan su ejercicio, con especial énfasis en medidas que aseguren su bienestar social y ético, así como su desarrollo cultural que los protejan de peligros que puedan afectar su vida, su salud o su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+De igual forma tienen derecho a no sufrir violencia en el ámbito digital. Tanto las autoridades como quienes ejerzan la patria potestad, tutela, guarda o custodia deberán tomar acciones para detectar y atender en forma integral aquellos casos en que se utilicen las tecnologías de la información y comunicación para agredir o vulnerar la dignidad, intimidad, libertad y vida privada de niñas, niños y adolescentes.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán:
 
@@ -1079,7 +1117,9 @@ I. Las obligaciones de ascendientes o tutores o de cualquier persona que tenga a
 
 II. De protegerlo contra toda forma de abuso, tratarlo con respeto a su dignidad y a sus derechos, cuidarlo, atenderlo y orientarlo a fin de que conozca sus derechos, aprenda a defenderlos y a respetar los de las otras personas;
 
-III. Los cursos y programas educativos destinados a servidores públicos, padres de familia y estudiantes, con la finalidad de que comprendan las necesidades, conflictos e intereses de la adolescencia, las formas de violencia familiar, escolar, social y la consecuencia de la victimización de los menores de dieciocho años, por actos u omisiones;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
+
+III. Los cursos y programas educativos destinados a servidores públicos, padres de familia y estudiantes, con la finalidad de que comprendan las necesidades, conflictos e intereses de la adolescencia, las formas de violencia familiar, escolar, social, digital y la consecuencia de la victimización de los menores de dieciocho años, por actos u omisiones;
 
 IV. La obligación de familiares, vecinos, médicos, maestros, trabajadores sociales, servidores públicos o cualquier persona que tenga conocimiento de casos de niñas, niños y adolescentes que estén sufriendo la violación de los derechos consignados en esta Ley, en cualquiera de sus formas y de ponerlo en conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente; y
 
@@ -1697,7 +1737,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 27 DE DICIEMBRE DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL “QUE CONTIENE REFORMA AL PRIMER PÁRRAF (SIC) Y A LA FRACCIÓN VI DEL ARTÍCULO 82, SE DEROGAN LAS FRACCIONES I, XVII, XIX Y LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 82, ASÍ COMO EL SEGUNDO Y TERCER PARRAFO DEL NUMERAL 83, LOS ARTÍCULOS 83 BIS, 83 BIS 1, 83 BIS 2 Y 83 BIS 4, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+## [N. DE E. TRANSITORIOS DEL "QUE CONTIENE REFORMA AL PRIMER PÁRRAF (SIC) Y A LA FRACCIÓN VI DEL ARTÍCULO 82, SE DEROGAN LAS FRACCIONES I, XVII, XIX Y LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 82, ASÍ COMO EL SEGUNDO Y TERCER PARRAFO DEL NUMERAL 83, LOS ARTÍCULOS 83 BIS, 83 BIS 1, 83 BIS 2 Y 83 BIS 4, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1760,5 +1800,65 @@ El presente decreto entrará en vigor a partir del 01 de enero de 2021, previa p
 Dentro del plazo no mayor a 30 días a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado expedirá las adecuaciones y reformas necesarias a la reglamentación aplicable en la materia.
 
 ###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 500.- QUE CONTIENE REFORMA A LAS FRACCIONES XXIX DEL ARTÍCULO 5; XII Y XIII DEL ARTÍCULO 37; III DEL ARTÍCULO 39; III DEL ARTÍCULO 71; Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 32; Y UN CUARTO PÁRRAFO AL ARTÍCULO 43, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 501.- POR EL QUE SE ADICIONA LA FRACCIÓN XXII AL ARTÍCULO 37, REFORMÁNDOSE LAS FRACCIONES XX Y XXI DEL MISMO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 502.- QUE CONTIENE REFORMA LOS ARTÍCULOS 4 Y 41 Y SE ADICIONA UN ÚLTIMO PÁRRAFO A ESTE MISMO, AMBOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 503.- QUE CONTIENE REFORMA A LA FRACCIÓN I DEL ARTÍCULO 10; EL CAPÍTULO PRIMERO DEL TÍTULO SEGUNDO PARA QUEDAR DE LA SIGUIENTE MANERA: “DEL DERECHO A LA VIDA, A LA PAZ, A LA SUPERVIVENCIA Y AL DESARROLLO”, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 11, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 510.- POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 37 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
