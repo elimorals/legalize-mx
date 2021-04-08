@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2020-11-19"
+last_updated: "2021-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -2293,6 +2293,10 @@ Se concede acción popular para presentar denuncia debidamente fundada, sobre ma
 
 En cada municipio se deberá establecer un sistema de protección civil, cuyo objetivo sea el de organizar el primer nivel de respuesta ante situaciones de riesgo, emergencia o desastre.
 
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+Para efectos de lo mencionado en el párrafo anterior, cada municipio será responsable de difundir la información respectiva en la lengua o dialecto que la población perteneciente a los pueblos indígenas asentada dentro de su territorio lo requiera.
+
 ###### Artículo 226.
 
 El titular del sistema municipal de protección civil será el Presidente Municipal, y su estructura y funcionamiento será determinado por el Ayuntamiento correspondiente.
@@ -2572,5 +2576,17 @@ P.O. 19 DE NOVIEMBRE DE 2020.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 506.- QUE CONTIENE REFORMA AL ARTÍCULO 225 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y SOBERANO DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
