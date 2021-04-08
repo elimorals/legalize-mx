@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-igualdad-entre-mujeres-y-hombres-del-estado-de-66956"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-01"
-last_updated: "2020-03-08"
+last_updated: "2021-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de enero de 2009.
 
@@ -591,13 +591,17 @@ III. Fomentar especialmente el acceso al trabajo de las personas que en razón d
 
 IV. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que desarrollen buenas prácticas de igualdad en contratación y asignaciones salariales;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
 
-V. Diseñar e instrumentar acciones y estrategias para eliminar las brechas de desigualdad en el acceso, el uso y las habilidades en materia de ciencia, tecnología e innovación; y
+V. Diseñar e instrumentar acciones y estrategias para eliminar las brechas de desigualdad en el acceso, el uso y las habilidades en materia de ciencia, tecnología e innovación;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
 
-VI. Promover acciones que eliminen las asimetrías de género, raza, etnia, preferencia sexual y cualquier otro tipo de discriminación en el acceso y permanencia al mercado laboral, en la toma de decisiones y en la distribución de las remuneraciones.
+VI. Promover acciones que eliminen las asimetrías de género, raza, etnia, preferencia sexual y cualquier otro tipo de discriminación en el acceso y permanencia al mercado laboral, en la toma de decisiones y en la distribución de las remuneraciones; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2021)</small>
+
+VII. Promover la igualdad de oportunidades entre mujeres y hombres en el uso y aprovechamiento de los derechos reales de propiedad, así como el uso, goce y disfrute de la tierra, su participación en el desarrollo rural y en sus beneficios.
 
 ### CAPÍTULO III. DE LA IGUALDAD POLÍTICA ENTRE MUJERES Y HOMBRES
 
@@ -1022,3 +1026,15 @@ P.O. 8 DE MARZO DE 2020.
 PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 8 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 504.- QUE CONTIENE REFORMA AL ARTÍCULO 24 DE LA LEY DE IGUALDAD ENTRE HOMBRES Y MUJERES DEL ESTADO DE DURANGO”.]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
