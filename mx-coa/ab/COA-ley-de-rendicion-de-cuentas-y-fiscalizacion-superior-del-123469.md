@@ -4,7 +4,7 @@ identifier: "COA-ley-de-rendicion-de-cuentas-y-fiscalizacion-superior-del-123469
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-22"
-last_updated: "2020-07-10"
+last_updated: "2021-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 22 de septiembre de 2017.
 
@@ -169,7 +169,9 @@ Los informes de avance de gestión financiera y las cuentas públicas se organiz
 
 ###### Artículo 10.
 
-Las entidades deberán presentar su cuenta pública anual ante el Congreso a más tardar el treinta de abril del año inmediato posterior. Será presentada en forma impresa y en un archivo electrónico de datos que permita su uso informático y facilite su procesamiento, independientemente de los demás requisitos que se deban cumplir para su presentación, contenidos en las disposiciones de carácter general que la Auditoría Superior emita para tal efecto.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
+
+Las entidades deberán presentar su cuenta pública anual ante el Congreso a más tardar el treinta de abril del año inmediato posterior. Será presentada en la forma y con el contenido que para tal efecto establezca la Auditoría Superior en las reglas que emita para su presentación y que publique en el Periódico Oficial del Estado, priorizando el uso de medios electrónicos y tecnologías digitales de información.
 
 Por los cuatro trimestres del año, las entidades presentarán ante el Congreso sendos informes de avance de gestión financiera. Estos informes se presentarán con las formalidades a que se refiere el párrafo anterior dentro del mes inmediato posterior al periodo que corresponda la información.
 
@@ -185,7 +187,9 @@ IV. Octubre a diciembre.
 
 La Comisión deberá entregar a la Auditoría Superior las cuentas públicas y los informes de avance de gestión financiera en un plazo máximo de cinco días hábiles posteriores a su recepción por el Congreso.
 
-La Auditoría Superior conservará en su poder y mantendrá en su página de internet las cuentas públicas y los informes de avance de gestión financiera a los que se refiere la presente ley, de los últimos diez ejercicios fiscales o mientras no prescriban sus facultades para fincar las responsabilidades derivadas de las supuestas irregularidades que se detecten en las operaciones objeto de revisión. Para tal efecto, podrá desarrollar sistemas que faciliten la entrega de las cuentas públicas y los informes de avance de gestión financiera por medios electrónicos, sin perjuicio de la obligación de que dichos documentos sean presentados de forma impresa.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+La Auditoría Superior conservará en su poder y mantendrá en su página de internet las cuentas públicas y los informes de avance de gestión financiera a los que se refiere la presente ley, de los últimos diez ejercicios fiscales o mientras no prescriban sus facultades para fincar las responsabilidades derivadas de las supuestas irregularidades que se detecten en las operaciones objeto de revisión. Para tal efecto, podrá desarrollar sistemas que faciliten la entrega de las cuentas públicas y los informes de avance de gestión financiera por medios electrónicos o el uso de tecnologías digitales, sin perjuicio de la obligación de que dichos documentos sean presentados en la forma y cumpliendo con los requisitos que se establezcan en las reglas que emita la Auditoría Superior.
 
 ###### Artículo 11.
 
@@ -366,6 +370,12 @@ III. Estar fundado, motivado y expresar la resolución, objeto o propósito de q
 IV. Ostentar la firma del funcionario competente, la denominación de la entidad fiscalizada, el nombre del titular o representante legal y, en su caso, el nombre o nombres de las personas a las que vaya dirigida. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación.
 
 Tratándose de actos administrativos y resoluciones que consten en medios digitales, la Auditoría Superior emitirá reglas de carácter general que faciliten su notificación a través de medios electrónicos. Dichas reglas deberán publicarse en el Periódico Oficial del Gobierno del Estado, así como en la página de internet de la Auditoría Superior.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+###### Artículo 31 Bis.
+
+Los actos administrativos y el proceso de fiscalización a que hace referencia esta Ley podrán ser realizados por la Auditoría Superior de manera presencial o por medios electrónicos a través de tecnologías digitales y de conformidad con sus Reglas de carácter general.
 
 ###### Artículo 32.
 
@@ -955,7 +965,9 @@ XVII. Solicitar de los órganos internos de control, en su caso, la información
 
 XVIII. Requerir por sí, o por conducto de los órganos internos de control, a terceros que hubieran contratado bienes o servicios mediante cualquier título legal con las entidades y con cualquier persona física o moral, pública o privada, que haya ejercido recursos públicos, la información relacionada con la documentación justificativa y comprobatoria de sus operaciones financieras, contables y presupuestarias;
 
-XIX. Solicitar, obtener y tener acceso a toda la información y documentación, que a juicio de la Auditoría Superior sea necesaria para llevar a cabo la auditoría correspondiente, sin importar el carácter de confidencial o reservado de la misma, que obren en poder de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2021)</small>
+
+XIX. Solicitar, obtener y tener acceso a toda la información y documentación, a través de medios físicos o electrónicos mediante tecnologías digitales, que a juicio de la Auditoría Superior sea necesaria para llevar a cabo la auditoría correspondiente, sin importar el carácter de confidencial o reservado de la misma, que obren en poder de:
 
 a. Las entidades fiscalizadas;
 
@@ -1450,3 +1462,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 TERCERO.- A partir del tercer día posterior al de la entrada en vigor del presente decreto, las entidades auditadas dispondrán de veinte días hábiles para solventar las observaciones y atender las recomendaciones que tengan pendientes ante la Auditoría Superior del Estado, correspondientes a la cuenta pública de 2017.
 
 CUARTO.- A partir del día siguiente en que concluyan los veinte días hábiles a que hace referencia el Transitorio anterior, las entidades auditadas dispondrán de veinte días hábiles para solventar las observaciones y atender las recomendaciones que tengan pendientes ante la Auditoría Superior del Estado, correspondientes a la cuenta pública de 2018.
+
+P.O. 9 DE ABRIL DE 2021.
+
+## [N. DE E.TRANSITORIOS DEL “DECRETO 42.- SE REFORMA: EL PRIMER Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 10 Y EL PRIMER PÁRRAFO DE LA FRACCIÓN XIX DEL ARTÍCULO 93; Y SE ADICIONA: EL ARTÍCULO 31 BIS, TODOS DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
