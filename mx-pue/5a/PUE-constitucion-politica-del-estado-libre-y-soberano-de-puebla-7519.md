@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2020-07-29"
+last_updated: "2021-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -429,13 +429,17 @@ Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves 
 
 XI.- La protección de los saberes colectivos, así como del patrimonio cultural y natural;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
-XII.- Atender como una consideración primordial, el interés superior de la niñez en todas las medidas concernientes a las niñas, niños y adolescentes y garantizar plenamente sus derechos; y
+XII.- Atender como una consideración primordial, el interés superior de la niñez en todas las medidas concernientes a las niñas, niños y adolescentes, y garantizar plenamente sus derechos;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
-XIII.- Erradicar el trabajo infantil y cualquier otra forma de explotación hacia niñas, niños y adolescentes.
+XIII.- Erradicar el trabajo infantil y cualquier otra forma de explotación hacia niñas, niños y adolescentes, y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+XIV.- Promover, respetar, proteger y garantizar el derecho de toda persona a la movilidad asequible y en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión, igualdad, equidad, modernidad e innovación tecnológica priorizando el desplazamiento de las y los peatones, conductores de vehículos no motorizados y personas con discapacidad.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -477,7 +481,9 @@ III.- El Estado y los Municipios deberán combatir cualquier práctica discrimin
 
 a).- Impulsar el empleo de los indígenas y su contratación preferencial en las obras, programas y acciones institucionales que se realicen en las regiones indígenas.
 
-b).- Adecuar los programas de desarrollo urbano y vivienda a las necesidades y realidad de los pueblos y comunidades indígenas atendiendo a su especificidad cultural.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+b).- Adecuar los programas de desarrollo urbano, vivienda, movilidad y seguridad vial, a las necesidades y realidad de los pueblos y comunidades indígenas, atendiendo a su especificidad cultural.
 
 c).- Promover la educación bilingüe, intercultural, laica y diferenciada, a efecto de que responda a las aspiraciones, necesidades, realidad y diferencia cultural de los pueblos y comunidades indígenas.
 
@@ -2101,7 +2107,9 @@ e) Las disposiciones aplicables en aquellos Municipios que no cuenten con los ba
 
 IV.- Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para:
 
-a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial, en términos de la legislación aplicable.
 
 b) Participar en la creación y administración de sus reservas territoriales;
 
@@ -2431,11 +2439,11 @@ El Gobierno proveerá lo necesario para la conservación, mejoramiento y desarro
 
 ### CAPITULO VII. DEL DERECHO SOCIAL
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### Artículo 123.
 
-El Gobierno, en el ámbito de su competencia, vigilará y estimulará el debido cumplimiento de las Leyes y demás disposiciones que se dicten en materia de trabajo y previsión social, educación, fomento agropecuario, vivienda y cualesquiera otras que siendo de orden público tiendan al mejoramiento de la población y a la realización de la justicia social.
+El Gobierno, en el ámbito de su competencia, vigilará y estimulará el debido cumplimiento de las leyes y demás disposiciones que se dicten en materia de trabajo y previsión social, educación, fomento agropecuario, vivienda, movilidad y seguridad vial, y cualesquiera otras que siendo de orden público tiendan al mejoramiento de la población y a la realización de la justicia social.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -3724,3 +3732,15 @@ Por lo que hace a las autoridades que no se renuevan mediante procesos electoral
 CUARTO. El Congreso del Estado deberá, en un plazo de seis meses a partir de la entrada en vigor del presente decreto, realizar las adecuaciones normativas correspondientes a efecto de observar el principio de paridad de género establecido en este decreto.
 
 QUINTO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicable (sic) y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+P.O. 9 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA DEL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO EMITIDO POR ESTA LEGISLATURA QUE REFORMA LAS FRACCIONES XII Y XIII DEL ARTÍCULO 12, EL INCISO B) DE LA FRACCIÓN III DEL ARTÍCULO 13, EL INCISO A) DE LA FRACCIÓN IV DEL 105 Y EL PRIMER PÁRRAFO DEL 123, Y ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE MOVILIDAD Y SEGURIDAD VIAL”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el (sic) día siguiente de su publicación.
+
+SEGUNDO. El Congreso del Estado deberá expedir, en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la legislación local en materia de movilidad y seguridad vial, así como las adecuaciones conducentes en términos del presente, a la legislación en materia de Transportes, Vialidad y de Ordenamiento Territorial y Desarrollo Urbano.
+
+Para efectos de lo establecido en el párrafo anterior el Congreso del Estado deberá realizar foros de consulta ciudadana o ejercicios de parlamento abierto con organizaciones de la sociedad civil en la construcción y dictaminación de la legislación mencionada.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
