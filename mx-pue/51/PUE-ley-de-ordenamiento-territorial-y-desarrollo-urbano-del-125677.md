@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-125677"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-29"
-last_updated: "2021-02-17"
+last_updated: "2021-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
 
 Ley publicada en la Décima Quinta Sección al Número 20 del Periódico Oficial de Puebla, el viernes 29 de diciembre de 2017.
 
@@ -655,7 +655,9 @@ Los instrumentos de planeación referidos, deberán guardar congruencia entre s�
 
 El Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, los planes o programas de desarrollo urbano y ordenamiento territorial, serán aprobados, ejecutados, controlados, evaluados y modificados por las autoridades estatales y municipales, con las formalidades previstas en la presente Ley, y en congruencia con las normas oficiales mexicanas en la materia.
 
-Las autoridades encargadas de la ejecución de los planes y programas referidos en este artículo tienen la obligación de facilitar su consulta pública en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y demás disposiciones aplicables en esta materia.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+Las autoridades encargadas de la ejecución de los planes y programas referidos en este artículo tienen la obligación de facilitar su consulta pública de forma física y electrónica en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y demás disposiciones aplicables en esta materia.
 
 ###### ARTÍCULO 33.
 
@@ -2898,3 +2900,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Ayuntamientos deberán realizar sus adecuaciones reglamentarias dentro del término de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 32 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
