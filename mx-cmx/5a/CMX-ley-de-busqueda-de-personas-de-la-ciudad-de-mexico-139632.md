@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-busqueda-de-personas-de-la-ciudad-de-mexico-139632"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-31"
-last_updated: "2021-03-19"
+last_updated: "2021-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139632&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-11-30"
 
 LEY DE BÚSQUEDA DE PERSONAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ABRIL DE 2021.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el martes 31 de diciembre de 2019.
 
@@ -100,7 +100,9 @@ V. Comisión de Búsqueda: a la Comisión de Búsqueda de Personas de la Ciudad 
 
 VI. Consejo Ciudadano: al Consejo Ciudadano de la Ciudad de México, órgano del Sistema de Búsqueda de Personas de la Ciudad de México;
 
-VII. Declaración Especial de Ausencia: a la Declaración Especial de Ausencia por Desaparición;
+> <small>(REFORMADA, G.O. 9 DE ABRIL DE 2021)</small>
+
+VII. Declaración Especial de Ausencia: a la Declaración Especial de Ausencia para Personas Desaparecidas;
 
 VIII. Familiares: a las personas que, en términos de la legislación aplicable, tengan parentesco con la Persona Desaparecida por consanguinidad o afinidad, en línea recta ascendente y descendente sin limitación de grado; en línea transversal hasta el cuarto grado; él o la cónyuge, la concubina o concubinario o, en su caso, quienes estén sujetos al régimen de sociedad en convivencia u otras figuras jurídicas análogas. Asimismo, las personas que dependan económicamente de la Persona Desaparecida, que así lo acrediten ante las autoridades competentes;
 
@@ -1086,9 +1088,11 @@ Cuando durante la búsqueda o investigación, exista un cambio de fuero, las Ví
 
 ### CAPÍTULO TERCERO. DE LA DECLARACIÓN ESPECIAL DE AUSENCIA
 
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 2021)</small>
+
 ###### Artículo 85.
 
-Los Familiares, otras personas legitimadas por la ley y el Ministerio Público podrán solicitar a la autoridad jurisdiccional en materia civil que corresponda según la competencia, que emita la Declaración de Ausencia por Desaparición de Personas, en términos de lo dispuesto en la Ley General y las Leyes aplicables.
+Los Familiares, otras personas legitimadas por la ley y el Ministerio Público podrán solicitar a la Jueza o Juez de lo familiar que emita la Declaración Especial de Ausencia para Personas Desaparecidas, en términos de lo dispuesto en la Ley General, la Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas y la Ley de Declaración Especial de Ausencia para Personas Desaparecidas en la Ciudad de México.
 
 ### CAPÍTULO CUARTO. DE LAS MEDIDAS DE REPARACIÓN INTEGRAL A LAS VÍCTIMAS
 
@@ -1311,3 +1315,11 @@ G.O. 19 DE MARZO DE 2021.
 PRIMERO. - Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México y publíquese en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO. - El presente Decreto entrara en vigor al día siguiente día (sic) de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 9 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 4° Y SE REFORMA EL ARTÍCULO 85, AMBOS DE LA LEY DE BÚSQUEDA DE PERSONAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
