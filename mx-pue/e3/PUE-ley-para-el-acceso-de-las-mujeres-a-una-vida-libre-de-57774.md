@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2021-02-09"
+last_updated: "2021-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -73,27 +73,65 @@ Las medidas previstas en esta Ley garantizarán la prevención, atención, sanci
 
 En la instrumentación y ejecución de las políticas públicas estatales y municipales para el acceso de las mujeres a una vida libre de violencia, deberán ser observados los principios rectores siguientes:
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
-I.- La igualdad sustantiva entre las mujeres y los hombres;
+I.- La igualdad formal;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
-II.- El respeto a la dignidad humana de las mujeres.
+II.- La igualdad sustantiva entre las mujeres y los hombres;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
-III.- La no discriminación, sea directa o indirecta, especialmente aquella que pueda derivar de la condición de maternidad, estado civil o asunción de obligaciones familiares.
+III.- El respeto a la dignidad humana de las mujeres;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
-IV.- La libertad de las mujeres, y
+IV.- La no discriminación, sea directa o indirecta, especialmente aquella que pueda derivar de la condición de maternidad, estado civil o asunción de obligaciones familiares;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
-V.- La protección y garantía de los derechos humanos.
+V.- La libertad de las mujeres;
 
-VI.- (DEROGADA, P.O. 6 DE DICIEMBRE DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ABRIL DE 2021)</small>
+
+VI.- La protección y garantía de los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+VII.- El interés superior de la niñez;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+VIII.- El libre desarrollo de la personalidad;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+IX.- La transversalidad de la perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+X.- La integración de las mujeres a la vida democrática y productiva del Estado;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+XI.- La interculturalidad;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+XII.- La accesibilidad;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+XIII.- La corresponsabilidad familiar;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+XIV.- La debida diligencia, y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+XV.- La no revictimización.
 
 ###### ARTÍCULO 6.
 
@@ -299,11 +337,11 @@ VIII.- Desarrollar programas para sensibilizar y capacitar a las personas que ej
 
 La violencia contra las mujeres en el ámbito laboral o docente, consiste en el ejercicio abusivo de cualquier facultad que sitúe a la mujer en un plano de subordinación, o bien, cualquier omisión en el cumplimiento de determinadas obligaciones suficiente, dolosa y motivada por razones de género, que menoscabe los derechos laborales de la mujer, que pueda dañar su salud e integridad física, psíquica, libertad o seguridad, así como su desarrollo profesional, académico o análogo, y que se ejerce por personas con quienes tiene un vínculo laboral, docente o análogo, independientemente de la relación jerárquica.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 14.
 
-La violencia contra las mujeres en el ámbito laboral, consiste en la privación del disfrute de derechos laborales a la víctima, motivados por razones de género, tales como la negativa a contratar a la agraviada, respetar su permanencia; la descalificación del trabajo realizado; obstaculización de la formación o promoción profesional; el menoscabo de su salario y sus condiciones de trabajo o asignación de las mismas desproporcionada e injustificadamente distintas a las de sus iguales; discriminación ocupacional; exclusión para acceder a puestos directivos; negativa injustificada de afiliación y participación en organizaciones sindicales u análogas; amenazas, hostigamiento, acoso sexual, las humillaciones, la explotación, el impedimento de regresar al trabajo después del embarazo y llevar a cabo el período de lactancia previsto en la Ley y todo tipo de discriminación por condición de género.
+La violencia contra las mujeres en el ámbito laboral, consiste en la privación del disfrute de derechos laborales a la víctima, motivados por razones de género, tales como la negativa a contratar a la agraviada, respetar su permanencia; la descalificación del trabajo realizado; obstaculización de la formación o promoción profesional; el menoscabo de su salario y sus condiciones de trabajo o asignación de las mismas desproporcionada e injustificadamente distintas a las de sus iguales; discriminación ocupacional; exclusión para acceder a puestos directivos; negativa injustificada de afiliación y participación en organizaciones sindicales u análogas; la imposición de requisitos sexistas en la forma de vestir; amenazas, hostigamiento, acoso sexual, las humillaciones, la explotación, el impedimento de regresar al trabajo después del embarazo y llevar a cabo el período de lactancia previsto en la Ley y todo tipo de discriminación por condición de género.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
@@ -1918,6 +1956,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 9 DE FEBRERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DE LA SECCIÓN QUINTA DEL TÍTULO SEGUNDO DEL CAPÍTULO II PARA QUEDAR COMO “DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES” Y SE ADICIONA EL ARTÍCULO 22 BIS Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 23 TODOS DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA."
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I A VI DEL ARTÍCULO 5 Y EL 14, Y ADICIONA LAS FRACCIONES VII A XV AL 5, DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
