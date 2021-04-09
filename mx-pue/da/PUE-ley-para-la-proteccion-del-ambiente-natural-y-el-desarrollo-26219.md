@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2020-07-24"
+last_updated: "2021-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -537,53 +537,45 @@ XVI.- Las demás que conforme a esta Ley, y otras disposiciones les correspondan
 
 Se crea el Consejo Estatal de Ecología, como Órgano Permanente Intersectorial de consulta del Gobierno del Estado, el cual fungirá como instancia para promover la coordinación con los demás niveles de gobierno; la concertación con la sociedad; identificar las acciones o estudios para preservar los ecosistemas; la protección al ambiente en la entidad; promover prioridades y programas para su atención; impulsar la participación en las tareas de los sectores público, social, privado y de la sociedad en general, así como las que determine su Reglamento.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 8.
 
-El Consejo Estatal de Ecología se integrará por:
+El Consejo Estatal de Ecología, se integrará por:
 
-I.- Un Presidente, que será el titular del Poder Ejecutivo del Estado;
+I. La Presidencia, que será la persona Titular del Poder Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
+II. La Secretaría Técnica, que será a (sic) persona Titular de la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
 
-II.- Un Secretario Técnico, que será el Titular de la Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial del Estado de Puebla;
+III. La Secretaría Ejecutiva, que deberá ser una persona destacada en el área ambiental que no sea del servicio público, misma que será nombrada por la Asamblea del Consejo;
 
-III.- Un Secretario Ejecutivo, que deberá ser un Ciudadano destacado en el área ambiental que no sea funcionario público, mismo que será nombrado por la Asamblea del Consejo;
+IV. Las personas Titulares de las Secretarías de Gobernación, de Planeación y Finanzas, de Educación, de Trabajo, de Economía, de Salud y de Desarrollo Rural, así como personas representantes de la Comisión Estatal de Agua y Saneamiento y del Sistema Estatal de Protección Civil;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
+V. La persona que funja como diputado o diputada Presidente de la Comisión de Medio Ambiente, Recursos Naturales y Cambio Climático o persona representante debidamente acreditada por el Honorable Congreso del Estado;
 
-IV.- El Titular de las Secretarías: General de Gobierno, de Finanzas, de Educación Pública, de Competitividad, Trabajo y Desarrollo Económico, de Salud y de Desarrollo Rural, así como representantes de la Comisión Estatal de Agua y Saneamiento y del Sistema Estatal de Protección Civil;
+VI. Las personas Titulares de las Delegaciones de: Las Secretarías de Medio Ambiente y Recursos Naturales; de Agricultura y Desarrollo Rural; de Bienestar; la Procuraduría Federal de Protección al Ambiente, la Comisión Nacional del Agua, la Comisión Nacional Forestal y la XXV Zona Militar;
 
-V.- El Diputado Presidente de la Comisión de Desarrollo Urbano y Medio Ambiente o representante debidamente acreditado del Honorable Congreso del Estado;
+VII. Tres Consejeros o Consejeras Ciudadanas, que deberán ser representantes debidamente acreditadas por las organizaciones ecologistas legalmente constituidas y que desarrollen sus actividades en el Estado de Puebla; y
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
+VIII. Tres Consejeros o Consejeras Ciudadanas, personas que deberán ser representantes debidamente acreditadas por las universidades, institutos tecnológicos y de investigación dentro de la Entidad.
 
-VI.- Los Titulares de las Delegaciones de: La Secretaría de Medio Ambiente y Recursos Naturales; la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, la Secretaría de Desarrollo Social, la Procuraduría Federal de Protección al Ambiente, la Comisión Nacional del Agua, la Comisión Nacional Forestal y el Comandante de la XXV Zona Militar;
+Las personas que funjan como Consejeros y Consejeras Ciudadanas que se mencionan en las fracciones VII y VIII del presente artículo serán designadas por la Asamblea del Consejo a propuesta de la Secretaría Técnica.
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
+A las sesiones del Consejo podrán asistir invitadas, con voz pero sin voto, las personas representantes de organizaciones ecologistas reconocidas a nivel nacional e internacional, previo acuerdo de la Asamblea.
 
-VII.- Tres Consejeros Ciudadanos, los cuales deberán ser representantes debidamente acreditados de las organizaciones ecologistas legalmente constituidas y que desarrollen sus actividades en el Estado de Puebla; y
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
+ARTÍCULO 8 BIS.- Las personas Titulares del Consejo Estatal de Ecología podrán nombrar a las personas suplentes, quienes tendrán las mismas facultades que les correspondan y deberán tener cuando menos nivel de Dirección de Área o su equivalente. La Presidencia será suplida en su ausencia por la persona Titular de la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial, en cuyo caso entrará en funciones la persona suplente de la Secretaría Técnica.
 
-VIII.- Tres Consejeros Ciudadanos, los cuales deberán ser representantes debidamente acreditados de las universidades, institutos tecnológicos y de investigación dentro de la Entidad.
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2012)</small>
-
-Los Consejeros Ciudadanos que se mencionan en las fracciones VII y VIII del presente artículo serán designados por la Asamblea del Consejo a propuesta del Secretario Técnico.
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2012)</small>
-
-A las sesiones del Consejo podrán asistir como invitados, con voz pero sin voto, representantes de organizaciones ecologistas reconocidas a nivel nacional e internacional, previo acuerdo de la Asamblea.
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2012)</small>
-
-ARTÍCULO 8 BIS.- Los miembros titulares del Consejo Estatal de Ecología podrán nombrar a sus respectivos suplentes, los que tendrán las mismas facultades que a éstos les correspondan y deberán tener cuando menos nivel de Director de Área o su equivalente. El Presidente será suplido en su ausencia por el Secretario de Sustentabilidad Ambiental y Ordenamiento Territorial, en cuyo caso entrará en funciones el suplente del Secretario Técnico.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 9.
 
-Los Presidentes Municipales serán invitados a participar en el Consejo cuando se trate de acciones ambientales que incidan en su ámbito territorial.
+Las y los Presidentes Municipales serán invitados a participar en el Consejo cuando se trate de acciones ambientales que incidan en su ámbito territorial.
 
-Cuando así se juzgue conveniente y con acuerdo de los consejeros, podrán ser invitados integrantes de los sectores social y privado distintos a los ya representados.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+Cuando así se juzgue conveniente y con acuerdo de las y los consejeros, podrán ser invitadas personas de los sectores social y privado distintos a las ya representadas.
 
 La Secretaría podrá desarrollar los programas y proyectos que el Consejo acuerde procedentes y que sean de su competencia, incorporándolos a su presupuesto y gasto público, ajustándose a las disposiciones administrativas y jurídicas aplicables a la materia de que se trate.
 
@@ -1097,6 +1089,8 @@ La Secretaría vigilará y supervisará el cumplimiento de las obligaciones señ
 
 #### SECCIÓN OCTAVA. DE LA EDUCACIÓN E INVESTIGACIÓN AMBIENTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 50.
 
 Los productores, industriales u organizaciones empresariales, podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño, respetando la normatividad vigente en materia de protección al ambiente natural y se comprometan a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
@@ -1145,15 +1139,17 @@ La Secretaría garantizará el derecho a la información de los interesados, pon
 
 ###### ARTÍCULO 55.
 
-La Secretaría en coordinación con la Secretaría de Educación Pública del Estado:
+La Secretaría en coordinación con la Secretaría de Educación del Estado:
 
 I.- Promoverá en los programas educativos de los diversos niveles tipos y modalidades de educación, la incorporación de contenidos ecológicos y ambientales teórico-prácticos, acciones de preservación del medio ambiente, manejo racional de los recursos naturales y el desarrollo sustentable, que respondan fundamentalmente a las condiciones ambientales del Estado, procurando la permanente instrucción y actualización del magisterio en estas materias; y
 
 II.- Establecerá un conjunto de recomendaciones y directrices tendientes a que las Autoridades e instituciones educativas y culturales, públicas y privadas, introduzcan en los procesos educativos formales y no formales, así como en los sistemas de capacitación de la administración pública y empresariales y en los medios de comunicación, contenidos y metodologías para el desarrollo en la población de conocimientos, hábitos de conducta y actitudes orientadas a favorecer las transformaciones necesarias para alcanzar el desarrollo sustentable, así como la conservación y restauración de los recursos naturales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 56.
 
-La Secretaría, con la participación de la Secretaría de Educación Pública del Estado:
+La Secretaría, con la participación de la Secretaría de Educación del Estado:
 
 I.- Promoverá que las instituciones de Educación Técnica; Media Superior; educación superior así como los organismos dedicados a la investigación científica y tecnológica en la Entidad, desarrollen programas para la formación de investigadores, profesionistas y técnicos, que se ocupen del estudio de las causas y efectos de los fenómenos ambientales, así como del estudio de los impactos ambientales generados por las actividades económicas, promoviendo su atención en el marco del desarrollo sustentable;
 
@@ -2315,9 +2311,9 @@ En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces al 
 
 Se considera que existe reincidencia cuando, se incurre en la misma infracción en el periodo de un mismo año.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
-Las multas que se impongan se constituirán en crédito fiscal a favor del erario estatal, y se harán efectivas por la Secretaría de Finanzas, mediante el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado.
+Las multas que se impongan se constituirán en crédito fiscal a favor del erario estatal, y se harán efectivas por la Secretaría de Planeación y Finanzas, mediante el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado.
 
 ###### ARTÍCULO 180.
 
@@ -2363,9 +2359,11 @@ La Secretaría promoverá ante las Autoridades Federales, Estatales o Municipale
 
 La resolución dictada en el procedimiento administrativo con motivo de la aplicación de esta Ley, sus Reglamentos y disposiciones que de ella emanen, podrán ser impugnadas por los interesados, mediante el recurso de revisión.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 187.
 
-Para los efectos del presente capítulo la Autoridad competente que resolverá el recurso, será el Secretario.
+Para los efectos del presente Capitulo la autoridad competente que resolverá el recurso, será la Secretaría.
 
 ###### ARTÍCULO 188.
 
@@ -2407,9 +2405,9 @@ II.- No se siga perjuicio al interés social o se contravengan disposiciones de 
 
 III.- Tratándose de multas, que el recurrente garantice el crédito fiscal en cualquiera de las formas prevista en el Código Fiscal del Estado; y
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
-IV.- En los casos en que resulte procedente la suspensión del acto que se reclama, pero con ella se puedan ocasionar daños o perjuicios a terceros, la misma surtirá sus efectos, si el recurrente otorga fianza bastante a favor del Gobierno del Estado, a través de la Secretaría de Finanzas para reparar el daño a indemnizar los perjuicios que con ella se causaren, si no obtiene resolución favorable, contando la Secretaría con facultad discrecional para fijar el monto de esa garantía a otorgar.
+IV. En los casos en que resulte procedente la suspensión del acto que se reclama, pero con ella se puedan ocasionar daños o perjuicios a terceros, la misma surtirá sus efectos, si el recurrente otorga fianza bastante a favor del Gobierno del Estado, a través de la Secretaría de Planeación y Finanzas para reparar el daño e indemnizar los perjuicios que con ella se causaren, si no obtiene resolución favorable, contando la Secretaría con facultad discrecional para fijar el monto de esa garantía a otorgar.
 
 La Autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los cinco días hábiles siguientes a su interposición, en cuyo defecto se entenderá otorgada la suspensión.
 
@@ -2670,3 +2668,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Los Ayuntamientos y las Dependencias Estatales competentes propondrán, y en su caso, aprobarán las propuestas para reformar los ordenamientos necesarios para la aplicacion del presente Decreto.
 
 CUARTO. El Ejecutivo del Estado, la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial y los Ayuntamientos, emitirán las disposiciones reglamentarias o administrativas que correspondan al presente Decreto, en un término que no exceda de ciento veinte días naturales, a partir de la entrada en vigor del presente Decreto.
+
+P.O. 9 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 8, EL 8 BIS, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL 9, EL PÁRRAFO PRIMERO DEL 55, EL PÁRRAFO PRIMERO DEL 56, EL ÚLTIMO PÁRRAFO DEL 179, EL 187 Y LA FRACCIÓN IV DEL 190, TODOS DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo previsto por esta Ley.
