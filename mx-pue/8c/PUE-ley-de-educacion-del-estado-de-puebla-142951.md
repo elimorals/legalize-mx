@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-142951"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-18"
-last_updated: "2020-05-18"
+last_updated: "2021-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
 
 Ley publicada en la Segunda Sección del Estado de Puebla, el lunes 18 de mayo de 2020.
 
@@ -551,9 +551,11 @@ La Secretaría publicará en el Periódico Oficial del Estado, las autorizacione
 
 Las madres y padres de familia, tutoras o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 78.
 
-La Secretaría desarrollará actividades de información y orientación para las familias de las y los educandos en relación con prácticas de acompañamiento enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia, tutoras o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+La Secretaría desarrollará actividades de información y orientación para las familias de las y los educandos en relación con prácticas de acompañamiento enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud y atención de la menstruación, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia, tutoras o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
 
 ### CAPÍTULO VII. DE OTROS COMPLEMENTOS DEL PROCESO EDUCATIVO
 
@@ -619,9 +621,15 @@ La Secretaría creará para cada educando desde educación inicial hasta media s
 
 La información del expediente al que se refiere este artículo se proporcionará a la autoridad educativa federal para actualizar el Sistema de Información y Gestión Educativa, según lo dispuesto en la Ley General de Educación y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 84.
 
-La Secretaría ofrecerá servicios de orientación educativa, de trabajo social y de psicología desde la educación básica hasta la educación superior, de acuerdo con la suficiencia presupuestal y a las necesidades de cada plantel, a fin de fomentar una conciencia crítica que perfile a las y los educandos en la selección de su formación a lo largo de la vida para su desarrollo personal y contribuir al bienestar de sus comunidades.
+Los planteles educativos de nivel básico a medio superior que formen parte del Sistema Educativo Estatal, procurarán contar con al menos un profesional en psicología o trabajo social, con el objeto de brindar apoyo a las niñas, niños y adolescentes a fin de prevenir y erradicar el abuso sexual, acoso escolar, embarazos adolescentes y conductas antisociales de las y los educandos, y así garantizar su salud emocional, mental y libre desarrollo de la personalidad. Cuando los servicios educativos se realicen a distancia, la Secretaría deberá implementar estrategias digitales para promover la salud mental de las y los educandos.
+
+De igual forma, la Secretaría ofrecerá servicios de orientación educativa, de trabajo social y de psicología desde la educación básica hasta la educación superior, de acuerdo con la suficiencia presupuestal y las necesidades de cada plantel, a fin de garantizar lo establecido en el párrafo anterior, así como fomentar una conciencia crítica que perfile a las y los educandos en la selección de su formación a lo largo de la vida para su desarrollo personal y contribuir al bienestar de sus comunidades.
+
+Las acciones, servicios y estrategias que emprenda la Secretaría en materia de Salud Mental deberán privilegiar la coordinación con las autoridades sanitarias competentes.
 
 ### CAPÍTULO II. DEL FOMENTO DE ESTILOS DE VIDA SALUDABLES EN EL ENTORNO ESCOLAR
 
@@ -973,7 +981,9 @@ XIII. Fomentar el uso responsable y seguro de las tecnologías de la informació
 
 XIV. Participar en la realización, en forma periódica y sistemática, de exámenes de evaluación a las y los educandos, así como corroborar que el trato de los educadores y educandos sea de respeto recíproco y atienda al respeto de los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano y demás legislación aplicable a niñas, niños, adolescentes y jóvenes;
 
-XV. Promover entornos escolares saludables, a través de acciones que permitan a las y los educandos disponibilidad y acceso a una alimentación nutritiva, hidratación adecuada, así como a la actividad física, educación física y la práctica del deporte;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+XV. Promover entornos escolares saludables, a través de acciones que permitan a las y los educandos disponibilidad y acceso a una alimentación nutritiva, atención e higiene menstrual, hidratación adecuada, así como a la actividad física, educación física y la práctica del deporte;
 
 XVI. Promover en la educación obligatoria prácticas cooperativas de ahorro, producción y promoción de estilos de vida saludables en alimentación, de acuerdo con lo establecido en la ley de la materia y el Reglamento de Cooperativas Escolares y Tiendas Escolares;
 
@@ -1499,6 +1509,10 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en la S
 
 El Secretario de Educación Pública. CIUDADANO MELITÓN LOZANO PÉREZ. Rúbrica.
 
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE ABRIL DE 2021.
+
 ### CAPÍTULO II. DEL TIPO DE EDUCACIÓN BÁSICA
 
 ###### ARTÍCULO 26.
@@ -1858,3 +1872,17 @@ III. MIXTA: Derivada de la combinación de las modalidades escolarizada y no esc
 La Autoridad Educativa Estatal determinará las diferentes opciones educativas de la educación media superior, las cuales necesariamente deberán encuadrar en alguna de las ofertas citadas, considerando como criterios la educación individual o en grupo, la trayectoria curricular, la mediación docente, la mediación digital, el espacio, el tiempo y la certificación.
 
 Cuando se trate de esquemas no formales de aprendizaje, la autoridad educativa estatal podrá coadyuvar con la autoridad educativa municipal, en procesos innovadores y que puedan ser replicables en experiencias y contextos locales.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 78 Y LA FRACCIÓN XV DEL ARTÍCULO 117 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 84 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 33 DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
