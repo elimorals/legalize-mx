@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-las-personas-con-discapacidad-del-estado-de-puebla-661
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2020-10-02"
+last_updated: "2021-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -103,9 +103,9 @@ X.- Educación Especial: Conjunto de servicios, programas, orientación y recurs
 
 XI.- Estenografía Proyectada: Es el oficio y la técnica de transcribir un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
-XII.- Igualdad de Oportunidades: Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación, con el goce o ejercicio en paridad de condiciones de todos los derechos y libertades fundamentales;
+XII.- Igualdad de Oportunidades: Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, integración, convivencia y participación, con el goce o ejercicio en paridad de condiciones de todos los derechos y libertades fundamentales;
 
 > <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -179,11 +179,11 @@ I.- El Titular del Poder Ejecutivo, a través de la administración pública cen
 
 II.- Los Ayuntamientos de los Municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### Artículo 6.
 
-El Titular del Poder Ejecutivo, a través de las dependencias y entidades competentes y con la participación de las instituciones facultadas, coordinará la elaboración de un Programa de Integración Social de Personas con Discapacidad, que comprenderán los siguientes aspectos:
+El Titular del Poder Ejecutivo, a través de las dependencias y entidades competentes y con la participación de las instituciones facultadas, coordinará la elaboración de un Programa de Inclusión Social de Personas con Discapacidad, que comprenderán los siguientes aspectos:
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
 
@@ -325,9 +325,9 @@ i) La no discriminación;
 
 j) La igualdad entre mujeres y hombres con discapacidad;
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
-k) La transversalidad, y
+k) La transversalidad;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
@@ -571,7 +571,9 @@ X.- Facilitar la asistencia de intérpretes en Lengua de Señas Mexicana y/o en 
 
 El tránsito de las personas con discapacidad, por sí o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, así como los derechos de que éstas gocen, se sujetarán además de lo previsto por esta Ley, a lo que prescriban las legislaciones vial, sanitaria, asistencial y demás ordenamientos legales aplicables; así como por las normas y medidas que se establezcan y apliquen en los siguientes aspectos:
 
-I.- La organización, operación, supervisión y evaluación de las acciones que en materia de asistencia social se lleven a cabo para modificar y mejorar las circunstancias de carácter social que impidan a las personas con discapacidad su desarrollo integral;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+I.- La organización, operación, supervisión y evaluación de las acciones que en materia de asistencia social se lleven a cabo para modificar y mejorar las circunstancias de carácter social que impidan a las personas con discapacidad su desarrollo integral e inclusión social;
 
 II.- La promoción para adecuar facilidades urbanísticas y arquitectónicas de acuerdo a los principios de accesibilidad universal;
 
@@ -651,9 +653,11 @@ El proceso de valoración deberá efectuarse dentro del plazo de treinta días, 
 
 ### CAPÍTULO SEGUNDO. DE LA REHABILITACIÓN EN GENERAL
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### Artículo 25.
 
-Para efectos de la aplicación de esta Ley, se entiende por rehabilitación, el conjunto de medidas técnicas, médicas, psicológicas, sociales, educativas y ocupacionales que tienen por objeto que las personas con discapacidad, puedan obtener su inclusión y máximo grado de recuperación integral, a fin de realizar las actividades que les permitan ser útiles e integrarse a la vida social y productiva.
+Para efectos de la aplicación de esta Ley, se entiende por rehabilitación, el conjunto de medidas técnicas, médicas, psicológicas, sociales, educativas y ocupacionales que tienen por objeto que las personas con discapacidad, puedan obtener su máximo grado de recuperación integral, a fin de realizar las actividades que les permitan ser útiles, así como su inclusión e integración a la vida social y productiva.
 
 ###### Artículo 26.
 
@@ -711,11 +715,13 @@ En el procedimiento de orientación y tratamiento psicológico se deberán incor
 
 ### CAPÍTULO QUINTO. DE LA EDUCACIÓN REGULAR Y ESPECIAL
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### Artículo 35.
 
-La educación general que imparta y regule la Secretaría de Educación Pública, deberá contribuir al desarrollo integral de las personas con discapacidad y con necesidades educativas especiales, para potenciar y ejercer plenamente sus capacidades, habilidades y aptitudes.
+La educación general que imparta y regule la Secretaría de Educación Pública, deberá contribuir al desarrollo integral e inclusión social de las personas con discapacidad y con necesidades educativas especiales, para potenciar y ejercer plenamente sus capacidades, habilidades y aptitudes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 Los programas que formen parte del sistema educativo en el Estado, deberán promover una cultura de respeto a la dignidad y a los derechos humanos, y a la no discriminación de las personas con discapacidad y con necesidades educativas especiales.
 
@@ -773,11 +779,11 @@ El sistema educativo estatal determinará el porcentaje del acervo que cada inst
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### Artículo 43.
 
-Las personas con discapacidad tienen derecho al trabajo y la capacitación, en términos de igualdad de oportunidades y equidad. El Instituto procurará la incorporación de un tres por ciento como mínimo, en los ámbitos laborales correspondientes de aquellas personas con discapacidad en edad de laborar, así mismo, vigilará y recomendará que se garanticen las mismas condiciones y derechos laborales que la Ley Federal del Trabajo contempla sin discriminación alguna.
+Las personas con discapacidad tienen derecho a un trabajo digno y remunerado, así como a la capacitación, en términos de igualdad de oportunidades y equidad. El Instituto procurará la incorporación de un tres por ciento como mínimo, en los ámbitos laborales correspondientes de aquellas personas con discapacidad en edad de laborar, así mismo, vigilará y recomendará que se garanticen las mismas condiciones y derechos laborales que la Ley Federal del Trabajo contempla sin discriminación alguna.
 
 ###### Artículo 44.
 
@@ -1142,3 +1148,19 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE OCTUBRE DE 2020.
 
 > <small>[N. DE E. EL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VIII A XXIII DEL ARTÍCULO 4, LA FRACCIÓN V DEL ARTÍCULO 6, Y ADICIONA LAS FRACCIONES XXIV A XXVII AL ARTÍCULO 4 Y LA FRACCIÓN X AL ARTÍCULO 16, TODOS DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+P.O. 9 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 43 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 4, EL 6, EL INCISO K) DEL ARTÍCULO 10, LA FRACCIÓN I DEL 17, EL 25 Y EL PRIMER PÁRRAFO DEL 35, TODOS DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
