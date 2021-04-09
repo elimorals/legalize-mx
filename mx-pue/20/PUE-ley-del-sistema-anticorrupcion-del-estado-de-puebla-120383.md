@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-sistema-anticorrupcion-del-estado-de-puebla-120383"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2016-12-27"
+last_updated: "2021-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
 
 Ley publicada en la Trigésima Tercera Sección al Número 19 del Periódico Oficial del Estado de Puebla, el martes 27 de diciembre de 2016.
 
@@ -643,7 +643,11 @@ Las autoridades del Estado de Puebla, integrantes del Sistema Nacional de Fiscal
 
 ### CAPÍTULO ÚNICO. DE LA PLATAFORMA DIGITAL ESTATAL
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 48.
+
+La Plataforma Digital Estatal es la herramienta tecnológica que integra y conecta los sistemas de información de diversos entes públicos, cuyo contenido se considere de utilidad para prevenir y combatir a la corrupción.
 
 El Comité Coordinador Estatal emitirá las bases para el funcionamiento de la Plataforma Digital Estatal que permita cumplir con los procedimientos, obligaciones y disposiciones señaladas en la Ley General, la presente Ley y la Ley de Responsabilidades Administrativas del Estado de Puebla, atendiendo a las necesidades de accesibilidad de los usuarios, dando cumplimiento a las bases y lineamientos que emita, en su caso, el Comité Coordinador.
 
@@ -661,9 +665,17 @@ III. Sistema Estatal de Servidores Públicos y particulares sancionados;
 
 IV. Sistema de información y comunicación del Sistema Estatal;
 
-V. Sistema de denuncias públicas de faltas administrativas y hechos de corrupción; y
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
-VI. Sistema de Información Pública de Contrataciones.
+V. Sistema de denuncias públicas de faltas administrativas y hechos de corrupción;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+VI. Sistema de Información Pública de Contrataciones; y,
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+VII. Sistema de Auditorías para el Control Gubernamental.
 
 ###### ARTÍCULO 50.
 
@@ -691,13 +703,31 @@ Los registros de las sanciones relativas a responsabilidades administrativas no 
 
 El sistema de información y comunicación del Sistema Estatal es la herramienta digital que permita centralizar la información de todos los entes públicos señalados en la presente Ley.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+Los integrantes del Comité Coordinador Estatal tendrán acceso a la información que contenga dicho sistema, en la medida que lo permitan las bases que para dichos efectos emita el Comité, con el objeto de fortalecer el ejercicio de sus facultades y atribuciones, en materia de combate a la corrupción.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+Dicho sistema, además de lo señalado en el párrafo anterior deberá permitir a la ciudadanía el acceso a la información pública que contenga, observando lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública, la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, y demás normatividad aplicable, en materia de clasificación de la información.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 55.
 
-La Plataforma a que hace referencia el artículo 38 fracción I, constituirá la base en el Estado, para las aportaciones que las autoridades respectivas hagan al sistema de información y comunicación del Sistema Nacional de Fiscalización.
+El sistema de denuncias públicas de faltas administrativas y hechos de corrupción de la Plataforma Digital Estatal, será establecido de acuerdo a lo que determine el Comité Coordinador o el Comité Coordinador Estatal y será implementado por las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 56.
 
-El sistema de denuncias públicas de faltas administrativas y hechos de corrupción de la Plataforma Digital Estatal, será establecido de acuerdo a lo que determine el Comité Coordinador o el Comité Coordinador Estatal y será implementado por las autoridades competentes.
+El sistema de auditorías para el control gubernamental tiene por objeto coordinar la programación y ejecución de las diversas auditorías que realizan los entes públicos encargados del control interno y la fiscalización superior de los Poderes Ejecutivo, Legislativo y Judicial; los Municipios; y, los organismos con autonomía reconocida en la Constitución Política del Estado Libre y Soberano de Puebla.
+
+Este sistema de auditorías, se implementará de conformidad con las normas y reglas que establezca el Sistema Nacional de Fiscalización.
+
+Dicho sistema, además de lo señalado en el (sic) párrafos anteriores, deberá permitir el intercambio de la información que permita a los anteriores fortalecer el ejercicio de sus atribuciones en materia de prevención y combate a la corrupción.
+
+La Plataforma a la que hace referencia el artículo 38 fracción I, constituirá la base en el Estado, para las aportaciones que las autoridades respectivas hagan al sistema de información y comunicación del Sistema Nacional de Fiscalización y el sistema de auditorías para el control gubernamental, al que hace referencia el presente artículo.
 
 ## TÍTULO QUINTO. DE LAS RECOMENDACIONES DEL COMITÉ COORDINADOR ESTATAL
 
@@ -758,3 +788,13 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a la observancia de l
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los catorce días del mes de diciembre de dos mil dieciséis. Diputada Presidenta. SILVIA GUILLERMINA TANÚS OSORIO. Rúbrica. Diputado Vicepresidente. PABLO RODRÍGUEZ REGORDOSA. Rúbrica. Diputado Secretario. CARLOS DANIEL HERNÁNDEZ OLIVARES. Rúbrica. Diputado Secretario. CIRILO SALAS HERNÁNDEZ. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil dieciséis. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Secretario de Finanzas y Administración. C, GUILLERMO EDMUNDO BERNAL MIRANDA. Rúbrica. El Secretario de la Contraloría. C. ALEJANDRO TORRES PALMER. Rúbrica. El Fiscal General del Estado. C. VÍCTOR ANTONIO CARRANCÁ BOURGET. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 55 Y 56, ASÍ COMO LAS FRACCIONES V Y VI DEL ARTÍCULO 49, Y ADICIONA LOS PÁRRAFOS PRIMERO AL ARTÍCULO 48, SEGUNDO Y TERCERO AL 54 Y LA FRACCIÓN VII AL 49, TODOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
