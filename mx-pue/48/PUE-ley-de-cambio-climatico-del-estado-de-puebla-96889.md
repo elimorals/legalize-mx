@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-cambio-climatico-del-estado-de-puebla-96889"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2019-12-06"
+last_updated: "2021-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 29 de noviembre de 2013.
 
@@ -139,9 +139,9 @@ XXIX. Resistencia: Capacidad de los sistemas naturales o sociales para persistir
 
 XXX. Riesgo: Probabilidad de que se produzca un daño en las personas, en uno o varios ecosistemas, originado por un fenómeno natural o antropógeno;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
-XXXI. Secretaría: Secretaría de Medio Ambiente y Ordenamiento Territorial;
+XXXI. Secretaría: Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
 
 XXXII. Secretarías: Las Dependencias de la Administración Pública Centralizada del Estado de Puebla, en sus respectivos ámbitos de competencia establecidos en esta Ley;
 
@@ -167,7 +167,9 @@ Son autoridades competentes para la aplicación de la presente Ley, las siguient
 
 I. Son autoridades estatales:
 
-a) El Gobernador del Estado.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+a) La persona Titular del Poder Ejecutivo del Estado.
 
 b) La Comisión Intersecretarial.
 
@@ -177,13 +179,17 @@ II. Son autoridades municipales:
 
 a) Los Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 6.
 
-El Gobernador del Estado, la Comisión Intersecretarial, la Secretaría y los Ayuntamientos, ejercerán sus facultades respecto de la mitigación y adaptación al cambio climático, de conformidad con la distribución de competencias prevista en la presente Ley y en los demás ordenamientos legales aplicables.
+La persona Titular del Poder Ejecutivo del Estado, la Comisión Intersecretarial, la Secretaría y los Ayuntamientos, ejercerán sus facultades respecto de la mitigación y adaptación al cambio climático, de conformidad con la distribución de competencias prevista en la presente Ley y en los demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 7.
 
-Corresponde al Gobernador del Estado el ejercicio de las siguientes facultades:
+Corresponde a la persona Titular del Poder Ejecutivo del Estado el ejercicio de las siguientes facultades:
 
 I. Formular y conducir la política estatal en materia de cambio climático en concordancia con lo previsto en el Plan Estatal de Desarrollo, la Estrategia Nacional y la Estrategia Estatal;
 
@@ -293,13 +299,17 @@ XX. Promover con los sectores social, productivo y de apoyo, la realización de 
 
 XXI. Promover la participación corresponsable de la sociedad en la adaptación y mitigación, de conformidad con lo dispuesto en el Programa Estatal y las leyes estatales aplicables;
 
-XXII. Proponer al Gobernador del Estado, iniciativas que permitan incorporar en el marco legal vigente en el Estado, los criterios de adaptación y mitigación al cambio climático previstos en la presente Ley;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+XXII. Proponer a la persona Titular del Poder Ejecutivo del Estado, iniciativas que permitan incorporar en el marco legal vigente en el Estado, los criterios de adaptación y mitigación al cambio climático previstos en la presente Ley;
 
 XXIII. Diseñar el establecimiento y aplicación de incentivos que promuevan la ejecución de acciones para el cumplimiento de los objetivos de la presente Ley;
 
 XXIV. Determinar el posicionamiento estatal a adoptar ante los foros y organismos nacionales e internacionales en materia de cambio climático, con la participación del Consejo Técnico de Cambio Climático;
 
-XXV. Informar periódicamente al Gobernador del Estado sobre los avances del Programa Estatal;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+XXV. Informar periódicamente a la persona Titular del Poder Ejecutivo del Estado sobre los avances del Programa Estatal;
 
 XXVI. Vigilar, en el ámbito de su competencia, el cumplimiento de la presente Ley y los demás ordenamientos que de ella se deriven;
 
@@ -335,7 +345,9 @@ X. Desarrollar estrategias, programas y proyectos integrales de mitigación de e
 
 XI. Realizar campañas de educación e información para sensibilizar a la población sobre los efectos adversos del cambio climático;
 
-XII. Formular y proponer al Gobernador del Estado, la expedición de normas técnicas y vigilar su cumplimiento en las materias previstas en la presente Ley;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+XII. Formular y proponer a la persona Titular del Poder Ejecutivo del Estado, la expedición de normas técnicas y vigilar su cumplimiento en las materias previstas en la presente Ley;
 
 XIII. Llevar a cabo acciones tendientes a la elaboración de programas municipales de cambio climático;
 
@@ -347,7 +359,9 @@ XVI. Proponer la formulación y adopción de políticas, estrategias y acciones 
 
 XVII. Promover la participación corresponsable de la sociedad en la adaptación y mitigación, de conformidad con lo dispuesto en el Programa Estatal y las leyes estatales aplicables;
 
-XVIII. Proponer al Gobernador del Estado, iniciativas de ley en materia de cambio climático, para incorporar en los instrumentos de política ambiental de la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, los criterios de adaptación y mitigación al cambio climático;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+XVIII. Proponer a la persona Titular del Poder Ejecutivo del Estado, iniciativas de ley en materia de cambio climático, para incorporar en los instrumentos de política ambiental de la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, los criterios de adaptación y mitigación al cambio climático;
 
 XIX. Elaborar y actualizar el Atlas Estatal de Riesgo por cambio climático, en coordinación con los municipios, conforme a los criterios emitidos por la Federación;
 
@@ -639,59 +653,83 @@ Para los efectos del presente Capítulo, serán reconocidos como medidas de miti
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 22.
 
-El Gobernador del Estado, la Comisión Intersecretarial, la Secretaría y los municipios establecerán las bases de coordinación para la integración y funcionamiento del Sistema Estatal de Cambio Climático, el cual tiene por objeto definir, formular y promover la aplicación de la política estatal de cambio climático entre las autoridades estatales y municipales, a través de los instrumentos previstos en la presente Ley, en el ámbito de sus respectivas competencias.
+La persona Titular del Poder Ejecutivo del Estado, la Comisión Intersecretarial, la Secretaría y los municipios establecerán las bases de coordinación para la integración y funcionamiento del Sistema Estatal de Cambio Climático, el cual tiene por objeto definir, formular y promover la aplicación de la política estatal de cambio climático entre las autoridades estatales y municipales, a través de los instrumentos previstos en la presente Ley, en el ámbito de sus respectivas competencias.
 
 El Sistema Estatal de Cambio Climático analizará y promoverá la aplicación de los instrumentos de política previstos en la presente Ley y podrá formular a la Comisión Intersecretarial recomendaciones para el fortalecimiento de las políticas y acciones de mitigación y adaptación.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 23.
 
-El Sistema estará integrado por la Comisión Intersecretarial, tres integrantes del Consejo Técnico, los presidentes de los municipios del Estado de Puebla y un legislador designado para tal efecto por el Honorable Congreso del Estado de Puebla.
+El Sistema estará integrado por la Comisión Intersecretarial, tres integrantes del Consejo Técnico, las y los presidentes de los municipios del Estado de Puebla y un diputado o diputada designada para tal efecto por el Honorable Congreso del Estado de Puebla.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 24.
 
-El Sistema Estatal será presidido por el Gobernador del Estado y contará con una Secretaría Técnica, la cual corresponderá a la Secretaría. En ausencia del Gobernador el Titular de la Secretaría General de Gobierno presidirá las reuniones.
+El Sistema Estatal será presidido por la persona Titular del Poder Ejecutivo del Estado y contará con una Secretaría Técnica, la cual corresponderá a la Secretaría. En ausencia de la persona Titular del Poder Ejecutivo del Estado, la persona Titular de la Secretaría de Gobernación presidirá las reuniones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 25.
 
-El Presidente del Sistema convocará, por lo menos, a una reunión ordinaria anual con el propósito de informar y evaluar las acciones y medidas implementadas para enfrentar al cambio climático, así como para conocer las opiniones o recomendaciones de los miembros del Sistema.
+La Presidencia del Sistema convocará, por lo menos, a una reunión ordinaria anual con el propósito de informar y evaluar las acciones y medidas implementadas para enfrentar al cambio climático, así como para conocer las opiniones o recomendaciones de las y los miembros del Sistema
 
-Asimismo, podrá convocar de forma extraordinaria cuando la naturaleza de algún asunto de su competencia lo exija o a petición fundada de alguno de los integrantes del Sistema, dirigida a la Secretaría Técnica del Sistema.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+Asimismo, podrá convocar de forma extraordinaria cuando la naturaleza de algún asunto de su competencia lo exija o a petición fundada de alguna persona integrante del Sistema, dirigida a la Secretaría Técnica del Sistema.
 
 Los mecanismos de funcionamiento y operación del Sistema se establecerán en el Reglamento de la presente Ley.
 
 ### CAPÍTULO II. COMISIÓN INTERSECRETARIAL DE CAMBIO CLIMÁTICO DEL ESTADO DE PUEBLA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 26.
 
-El Ejecutivo del Estado, en el ámbito de su competencia y conforme a la legislación aplicable, creará la Comisión Intersecretarial de Cambio Climático del Estado de Puebla, con el objeto de conocer, atender y resolver los asuntos en la materia, que se encuentren relacionados con la competencia de dos o más Dependencias y/o Entidades de la Administración Pública Estatal.
+La persona Titular del Poder Ejecutivo del Estado, en el ámbito de su competencia y conforme a la legislación aplicable, creará la Comisión Intersecretarial de Cambio Climático del Estado de Puebla, con el objeto de conocer, atender y resolver los asuntos en la materia, que se encuentren relacionados con la competencia de dos o más Dependencias y/o Entidades de la Administración Pública Estatal.
 
 La Comisión Intersecretarial fungirá como órgano colegiado de consulta, opinión y coordinación de la Administración Pública Estatal en materia de cambio climático. El instrumento jurídico que lo cree, establecerá su organización y funcionamiento, así como los criterios de transversalidad e integralidad de las políticas públicas en materia de cambio climático, que deberán observar las Dependencias y Entidades de la Administración Pública.
 
-Los integrantes de la Comisión Intersecretarial, ejercerán sus funciones de manera honorífica y por tanto no recibirán retribución, emolumento o compensación alguna.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+Las y los integrantes de la Comisión Intersecretarial, ejercerán sus funciones de manera honorifica y por tanto no recibirán retribución, emolumento o compensación alguna.
 
 ### CAPÍTULO III. CONSEJO TÉCNICO DE CAMBIO CLIMÁTICO
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 27.
 
-El Consejo Técnico es el órgano permanente de consulta de la Comisión Intersecretarial y se integrará por un mínimo de siete miembros provenientes del sector académico y de investigación, con reconocidos méritos y experiencia en materia de cambio climático, que serán designados a través de una convocatoria abierta, en los términos que para tal efecto se establezcan en el presente ordenamiento.
+El Consejo Técnico es el órgano permanente de consulta de la Comisión Intersecretarial y se integrará por un mínimo de siete personas provenientes del sector académico y de investigación, con reconocidos méritos y experiencia en materia de cambio climático, que serán designadas a través de una convocatoria abierta, en los términos que para tal efecto se establezcan en el presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 28.
 
-El Consejo Técnico tendrá un Presidente y un Secretario, electos por la mayoría de sus miembros; durarán en su cargo tres años, y pueden ser reelectos por un periodo adicional, cuidando que las renovaciones de sus miembros se realicen de manera escalonada.
+El Consejo Técnico tendrá una Presidencia y una Secretaría, electas por la mayoría de las personas que lo integran; duraran en su cargo tres años, y pueden ser reelectas por un periodo adicional, cuidando que las renovaciones de las personas que lo integran se realicen de manera escalonada.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 29.
 
-Los integrantes del Consejo Técnico ejercerán su encargo de manera honorífica y a título personal, con independencia de la institución, escuela, instituto o centro de investigación al que pertenezcan.
+Las personas que integran el Consejo Técnico ejercerán su encargo de manera honorifica y a título personal, con independencia de la institución, escuela, instituto o centro de investigación al que pertenezcan.
 
 ###### ARTÍCULO 30.
 
 El Consejo Técnico sesionará de manera ordinaria dos veces por año o cada vez que la Comisión requiera su opinión.
 
-El quórum legal para las reuniones del Consejo Técnico se integrará con la mitad más uno de sus integrantes. Los acuerdos que se adopten en el seno del Consejo serán por mayoría simple de los presentes. En caso de empate el Presidente tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
-Las opiniones o recomendaciones del Consejo Técnico requerirán voto favorable de la mayoría de los miembros presentes.
+El quórum legal para las reuniones del Consejo Técnico se integrará con la mitad más uno de sus integrantes. Los acuerdos que se adopten en el seno del Consejo serán por mayoría simple de los presentes. En caso de empate la Presidencia tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+Las opiniones o recomendaciones del Consejo Técnico requerirán voto favorable de la mayoría de las personas que lo integran y estén presentes.
 
 ###### ARTÍCULO 31.
 
@@ -705,11 +743,17 @@ I. Asesorar a la Comisión Intersecretarial en los asuntos de su competencia;
 
 II. Recomendar a la Comisión Intersecretarial realizar estudios y adoptar políticas, acciones y metas tendientes a enfrentar los efectos adversos del cambio climático;
 
-III. Dar seguimiento a las políticas, acciones y metas previstas en la presente Ley, evaluaciones del Programa Estatal, así como formular propuestas a la Comisión Intersecretarial y a los miembros del Sistema Estatal de Cambio Climático;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
-IV. Formar parte, a través de un representante como miembro permanente, de la Comisión Intersecretarial, con derecho a voz en las sesiones, para pronunciarse técnicamente sobre los asuntos que en éstas se discutan;
+III. Dar seguimiento a las políticas, acciones y metas previstas en la presente Ley, evaluaciones del Programa Estatal, así como formular propuestas a la Comisión Intersecretarial y a las personas que integran el Sistema Estatal de Cambio Climático;
 
-V. Integrar, publicar y presentar a la Comisión Intersecretarial, a través de su Presidente, el informe anual de sus actividades, a más tardar en el mes de febrero de cada año; y
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+IV. Formar parte, a través de un representante como integrante permanente, de la Comisión Intersecretarial, con derecho a voz en las sesiones, para pronunciarse técnicamente sobre los asuntos que en éstas se discutan;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+V. Integrar, publicar y presentar a la Comisión Intersecretarial, a través de su Presidencia, el informe anual de sus actividades, a más tardar en el mes de febrero de cada año; y
 
 VI. Las demás que se establezcan en el Reglamento Interno o las que le otorgue la Comisión Intersecretarial.
 
@@ -1025,23 +1069,31 @@ Las normas técnicas en materia de adaptación y mitigación al cambio climátic
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 72.
 
-El Gobernador del Estado fomentará a través de la Comisión Intersecretarial, acciones de investigación, educación, desarrollo tecnológico e innovación en materia de adaptación y mitigación del cambio climático, para tal efecto:
+La persona Titular del Poder Ejecutivo del Estado fomentará a través de la Comisión Intersecretarial, acciones de investigación, educación, desarrollo tecnológico e innovación en materia de adaptación y mitigación del cambio climático, para tal efecto:
 
 I. Promoverá el establecimiento de un programa de fomento a la innovación científica y tecnológica en materia de adaptación y mitigación al cambio climático, que estará a cargo del Consejo de Ciencia y Tecnología del Estado de Puebla; y
 
-II. Promoverá el establecimiento de un programa de becas de formación de recursos humanos en temas relacionados con el cambio climático, dirigidas al personal que labora en la Administración Pública Estatal y Municipal, así como a la población en general. Este programa estará a cargo de la Secretaría de Educación Pública, la Secretaría de Competitividad, Trabajo y Desarrollo Económico y el Consejo de Ciencia y Tecnología del Estado de Puebla, en el ámbito de sus respectivas competencias.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+II. Promoverá el establecimiento de un programa de becas de formación de recursos humanos en temas relacionados con el cambio climático, dirigidas al personal que labora en la Administración Pública Estatal y Municipal, así como a la población en general. Este programa estará a cargo de la Secretaría de Educación, la Secretaría de Economía, la Secretaría de Trabajo y el Consejo de Ciencia y Tecnología del Estado de Puebla, en el ámbito de sus respectivas competencias
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 73.
 
-El Gobernador del Estado, a través de las dependencias y entidades, en el ámbito de sus respectivas competencias, podrá celebrar convenios con los sectores social, productivo y de apoyo para impulsar la investigación científica y tecnológica, así como la capacitación en materia de cambio climático, e implementará los instrumentos y acciones necesarios para ello, de conformidad con lo establecido en la presente Ley, los programas y demás disposiciones que deriven de ésta.
+La persona Titular del Poder Ejecutivo del Estado, a través de las dependencias y entidades, en el ámbito de sus respectivas competencias, podrá celebrar convenios con los sectores social, productivo y de apoyo para impulsar la investigación científica y tecnológica, así como la capacitación en materia de cambio climático, e implementará los instrumentos y acciones necesarios para ello, de conformidad con lo establecido en la presente Ley, los programas y demás disposiciones que deriven de ésta.
 
 ###### ARTÍCULO 74.
 
 Los programas de investigación, educación, innovación y de desarrollo tecnológico en el Estado de Puebla, deberán considerar dentro de su agenda temas relacionados al cambio climático.
 
-La Secretaría de Educación Pública y las instituciones educativas estatales, incorporarán el tema de cambio climático en los programas educativos, considerando tanto los elementos y fenómenos de orden natural, como los procesos y acciones de los grupos humanos.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+La Secretaría de Educación y las instituciones educativas estatales, incorporarán el tema de cambio climático en los programas educativos, considerando tanto los elementos y fenómenos de orden natural, como los procesos y acciones de los grupos humanos.
 
 Asimismo, fomentarán la difusión de acciones para que la población conozca los conceptos básicos del cambio climático, a fin de que todos los sectores de la población tengan un mayor y mejor conocimiento sobre el fenómeno climático y participen de forma activa en las campañas de educación y sensibilización.
 
@@ -1155,13 +1207,17 @@ En caso de encontrarse falsedad en la información proporcionada, la Secretaría
 
 Para individualizar la multa se considerará si el infractor es reincidente, en cuyo caso, el monto de la multa podrá ser hasta por tres veces del monto originalmente impuesto, también se deberá motivar si la conducta se considera o no grave, el perjuicio causado o daños causados y la capacidad económica del infractor. Para tal efecto, durante el procedimiento de inspección, la autoridad requerirá al particular para que señale su capacidad económica, en caso de omisión, la autoridad podrá determinarla a partir del número de trabajadores y otros factores, de manera motivada.
 
-Las multas que se impongan, se constituirán en crédito fiscal a favor del erario estatal y se harán efectivas por la Secretaría de Finanzas y Administración, mediante el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+Las multas que se impongan, se constituirán en crédito fiscal a favor del erario estatal y se harán efectivas por la Secretaría de Planeación y Finanzas, mediante el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado.
 
 En todo lo no previsto en esta Ley serán aplicables supletoriamente la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 85.
 
-Los servidores públicos encargados de la aplicación y vigilancia del cumplimiento de la presente Ley, serán acreedores a las sanciones administrativas aplicables en caso de incumplimiento de sus disposiciones, de acuerdo con lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla y demás legislación que resulte aplicable, sin perjuicio de la responsabilidad civil y penal a que haya lugar.
+Las y los servidores públicos encargados de la aplicación y vigilancia del cumplimiento de la presente Ley, serán acreedores a las sanciones administrativas aplicables en caso de incumplimiento de sus disposiciones, de acuerdo con lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla y demás legislación que resulte aplicable, sin perjuicio de la responsabilidad civil y penal a que haya lugar.
 
 ## TRANSITORIOS
 
@@ -1236,3 +1292,11 @@ P.O. 6 DE DICIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMAN LA FRACCIÓN XXXI DEL ARTÍCULO 3, EL INCISO A) DE LA FRACCIÓN I DEL 5, EL 6, EL PÁRRAFO PRIMERO DEL 7, LAS FRACCIONES XXII Y XXV DEL 8, LAS FRACCIONES XII Y XVIII DEL 9, EL PÁRRAFO PRIMERO DEL 22, EL 23, EL 24, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL 25, LOS PÁRRAFOS PRIMERO Y TERCERO DEL 26, EL 27, EL 28, EL 29, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL 30, LAS FRACCIONES III, IV Y V DEL 32, EL PÁRRAFO PRIMERO Y LA FRACCIÓN II DEL ARTÍCULO 72, EL 73, EL PÁRRAFO SEGUNDO DEL 74, EL PÁRRAFO TERCERO DEL 84 Y EL ARTÍCULO 85, TODOS PARA LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo previsto por esta Ley.
