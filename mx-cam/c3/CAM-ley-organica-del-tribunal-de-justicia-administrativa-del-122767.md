@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-tribunal-de-justicia-administrativa-del-122767
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-13"
-last_updated: "2017-07-13"
+last_updated: "2021-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el jueves 13 de julio de 2017.
 
@@ -183,9 +183,13 @@ III. La Sala Unitaria Administrativa;
 
 IV. La Sala Unitaria Especializada.
 
-El Tribunal contará además con un Secretario General de Acuerdos; con Secretarios de Estudio y Cuenta; Actuarios; Auxiliares Jurisdiccionales y Oficiales de Partes; una Dirección de Administración; un Órgano Interno de Control; una Unidad de Transparencia, Acceso a la Información y Comunicación Social y demás auxiliares administrativos que permita el presupuesto del Tribunal.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
-El Tribunal tendrá una Presidencia, que ocupará el Magistrado que resulte electo de conformidad con lo que dispone la presente ley; el Presidente del Tribunal, será también el Presidente del Pleno y el titular de la Sala Superior Unitaria.
+El Tribunal contará además con una Secretaría General de Acuerdos; con Secretarías de Estudio y Cuenta; Actuarías; Auxiliares Jurisdiccionales y Oficiales de Partes; una Dirección de Administración; un Órgano Interno de Control; una Unidad de Transparencia, Acceso a la Información y Comunicación Social y demás auxiliares administrativos que permita el presupuesto del Tribunal.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+El Tribunal tendrá una Presidencia, que ocupará la persona titular de la Magistratura que resulte electo de conformidad con lo que dispone la presente ley; la persona titular de la Presidencia del Tribunal, será también titular de la Presidencia del Pleno y titular de la Sala Superior Unitaria.
 
 ### Capítulo II. Del Tribunal
 
@@ -205,11 +209,13 @@ Las Salas tendrán una oficina de correspondencia común, la cual recibirá las 
 
 #### Sección Segunda. Del Presidente del Tribunal
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### Artículo 9.
 
-El Presidente del Tribunal será electo por el Pleno en la primera sesión del año que se lleve a cabo. Durará en su cargo tres años y no podrá ser reelecto para el periodo inmediato siguiente por lo cual la Presidencia será rotatoria.
+La persona titular de la Presidencia del Tribunal será electa por el Pleno en la primera sesión del año que se lleve a cabo. Durará en su cargo tres años y no podrá ser reelecta para el periodo inmediato siguiente, por lo cual la Presidencia será rotatoria. En cada periodo de elección se rotará, de manera alternada, la titularidad de la Presidencia entre mujeres y hombres; esto es, en un periodo una mujer, en el siguiente periodo un hombre.
 
-En el mes de enero de cada año, en la fecha que acuerde el Pleno, el Presidente del Tribunal entregará por escrito al Congreso del Estado un informe anual sobre el estado general que guarde la administración de justicia administrativa, fiscal y de combate a la corrupción en la Entidad.
+En el mes de enero de cada año, en la fecha que acuerde el Pleno, la persona titular de la Presidencia del Tribunal entregará por escrito al Congreso del Estado un informe anual sobre el estado general que guarde la administración de justicia administrativa, fiscal y de combate a la corrupción en la Entidad.
 
 ###### Artículo 10.
 
@@ -659,9 +665,11 @@ Los servidores públicos a que se refieren las fracciones anteriores serán cons
 
 El Tribunal contará además con el personal profesional, administrativo y técnico necesario para el desempeño de sus funciones, de conformidad con lo que establezca su presupuesto y ajustándose a su disponibilidad.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### Artículo 36.
 
-Los Magistrados del Tribunal durarán en su encargo quince años improrrogables y serán designados por el Gobernador del Estado y ratificados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado o, en sus recesos por la Diputación Permanente.
+Las personas titulares de las Magistraturas del Tribunal durarán en su encargo quince años improrrogables y serán designados por la Gobernadora o el Gobernador del Estado y ratificados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado o, en sus recesos por la Diputación Permanente.
 
 ###### Artículo 37.
 
@@ -928,3 +936,13 @@ Que la LXII Legislatura del H. Congreso Constitucional del Estado Libre y Sobera
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los trece días del mes de julio del año dos mil diecisiete.
 
 EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 217 POR EL QUE “SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 7; LOS ARTÍCULOS 9 Y 36 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
