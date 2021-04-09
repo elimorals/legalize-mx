@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-ayuntamiento-del-97016"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-11"
-last_updated: "2013-12-11"
+last_updated: "2021-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla el miércoles 11 de diciembre de 2013.
 
@@ -333,13 +333,23 @@ VII. Conceder licencias con goce y sin goce de sueldo, de acuerdo con el reglame
 
 VIII. Otorgar permisos de maternidad y paternidad, con goce de sueldo, observando los Lineamientos que establecen las bases generales a través de las cuales se otorgarán dichos permisos, en los siguientes supuestos:
 
-a) Permiso de paternidad para los trabajadores hombres;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
-b) Permiso por fallecimiento de familiares ascendentes y descendientes y en línea colateral en primer grado y por afinidad;
+a) Las mujeres embarazadas disfrutarán de seis semanas de descanso antes de la fecha que aproximadamente se fije para el parto y de otras ocho semanas después del mismo, igual tiempo se dará a madres trabajadoras cuyas hijas e hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria con goce de sueldo íntegro en ambos casos.
 
-c) Permisos extraordinarios para la atención de cuestiones escolares de las hijas e hijos menores de edad; y
+Durante la lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijas e hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe el Ayuntamiento y tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento preferente durante los primeros seis meses y complementario hasta avanzado el segundo año de edad;
 
-d) Permiso para la atención de la o el infante en caso de adopción.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+b) Los hombres disfrutarán de diez días hábiles de descanso con goce de sueldo, por el nacimiento de sus hijas e hijos o la adopción de un infante;
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+c) Asimismo, se otorgará a las y los trabajadores un descanso con goce de sueldo de tres días hábiles, por el fallecimiento de su cónyuge, concubina o concubino, de sus hijas e hijos, así como de su padre o madre, para lo cual deberá hacerlo del conocimiento de su superior jerárquico el primer día de su ausencia y deberá exhibir copia simple del documento en que conste tal suceso en un plazo no mayor de quince días hábiles, contados a partir del primer día hábil de su reingreso, y
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+d) Permisos extraordinarios para la atención de cuestiones escolares o de salud de las hijas e hijos menores de edad.
 
 IX. Conceder permisos con goce de sueldo cuando se justifique y las necesidades del servicio lo permitan, de acuerdo con las políticas establecidas por el área de Recursos Humanos; y
 
@@ -575,9 +585,13 @@ Las madres trabajadoras tendrán los siguientes derechos:
 
 I. Durante el periodo de embarazo, no realizarán trabajos que exijan esfuerzos considerables y signifiquen un peligro para su salud en relación con la gestación, tales como levantar, tirar o empujar grandes pesos, Que produzcan trepidación, estar de pie durante largo tiempo o que actúen o puedan alterar su estado psíquico y nervioso;
 
-II. Disfrutarán de un descanso de seis semanas anteriores y seis posteriores al parto. A solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda, o en su caso, del servicio de salud que otorgue el patrón, tomando en cuenta la opinión del patrón y la naturaleza del trabajo que desempeñe, se podrá transferir hasta cuatro de las seis semanas de descanso previas al parto para después del mismo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2021)</small>
 
-En caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta ocho semanas posteriores al parto, previa presentación del certificado médico correspondiente.
+II. Disfrutarán de un descanso de seis semanas anteriores y ocho posteriores al parto. A solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda, o en su caso, del servicio de salud que otorgue el patrón, tomando en cuenta la opinión del patrón y la naturaleza del trabajo que desempeñe, se podrá transferir hasta cuatro de las seis semanas de descanso previas al parto para después del mismo.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+En caso de que las hijas e hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, para el descanso correspondiente se aplicará lo dispuesto en el artículo 36 fracción VIII, inciso a) de la presente Ley.
 
 En caso de que se presente autorización de médicos particulares, ésta deberá contener los requisitos señalados en la Ley General de Salud.
 
@@ -585,7 +599,9 @@ III. Los periodos de descanso a que se refiere la fracción anterior, se prorrog
 
 IV. En caso de adopción de un infante, disfrutarán de un descanso de seis semanas con goce de sueldo, posteriores al día en que lo reciban;
 
-V. En el periodo de lactancia hasta por el término máximo de seis meses, tendrán dos reposos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, en lugar adecuado e higiénico que designe el Ayuntamiento, o bien, cuando esto no sea posible, previo acuerdo con éste, se reducirá en una hora su jornada de trabajo durante el periodo señalado;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+V. Durante el periodo de lactancia se aplicará lo dispuesto en el artículo 36 fracción VIII, inciso a), segundo párrafo de la presente Ley;
 
 VI. Durante los periodos de descanso a que se refiere la fracción II, percibirán su salario íntegro. En los casos de prórroga mencionados en la fracción III, tendrán derecho al cincuenta por ciento de su salario por un periodo no mayor de sesenta días;
 
@@ -1330,3 +1346,13 @@ TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los seis días del mes de diciembre de dos mil trece.- Diputado Presidente.- GERARDO MEJÍA RAMÍREZ.- Rúbrica.- Diputado Vicepresidente.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- JORGE LUIS BLANCARTE MORALES.- Rúbrica.- Diputado Secretario.- ERIC COTOÑETO CARMONA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diez días del mes de diciembre de dos mil trece.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS INCISOS A) AL D) DE LA FRACCIÓN VIII DEL ARTÍCULO 36, EL PRIMER Y SEGUNDO PÁRRAFOS (SIC) DE LA FRACCIÓN II Y LA FRACCIÓN V DEL 81, AMBOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
