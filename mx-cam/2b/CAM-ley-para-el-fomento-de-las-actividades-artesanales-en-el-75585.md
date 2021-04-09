@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-el-fomento-de-las-actividades-artesanales-en-el-75585"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-11"
-last_updated: "2010-06-11"
+last_updated: "2021-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA EL FOMENTO DE LAS ACTIVIDADES ARTESANALES EN EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de junio de 2010.
 
@@ -49,29 +49,39 @@ LEY PARA EL FOMENTO DE LAS ACTIVIDADES ARTESANALES EN EL ESTADO DE CAMPECHE
 
 La presente Ley es de orden público e interés social, sus disposiciones regirán en todo el territorio de la Entidad y su aplicación compete al Ejecutivo del Estado, la que realizará a través del Instituto Estatal para el Fomento de las Actividades Artesanales en Campeche, así como de las demás dependencias y entidades de la Administración Pública Estatal que tengan relación con el sector artesanal, sin perjuicio de las atribuciones que las demás leyes otorguen a otras autoridades estatales y municipales, en tanto no se prevean en forma expresa en este ordenamiento legal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### Artículo 2.
 
-Para los efectos de esta Ley, se entenderá por:
+Para los efectos de esta Ley se entenderá por:
 
 I. Artesanía: Los bienes que proceden de la actividad artesanal individual o colectiva, que tienen valor histórico, cultural, utilitario o estético; pueden ser tradicionales o de reciente invención, que cumplen con una función socialmente reconocida y que cuando son producidos con maestría y habilidad se reconocen como obra de arte popular;
 
-II. Artesano: El individuo que con sensibilidad y creatividad, desarrolla sus habilidades naturales o técnicas para elaborar artesanías en forma predominantemente manual o auxiliado por el uso de medios mecánicos de producción;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
-III. Director General: El Director General del Instituto;
+II. Artesana o Artesano: La persona que, con sensibilidad y creatividad, desarrolla sus habilidades naturales o técnicas para elaborar artesanías en forma predominantemente manual o auxiliado por el uso de medios mecánicos de producción;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+III. La o el Director General: La o el Director General del Instituto;
 
 IV. Instituto: El Instituto Estatal para el Fomento de las Actividades Artesanales en Campeche;
 
 V. Producción artesanal: La actividad económica de transformación cuyo proceso se realiza con materias primas de origen natural o industrial y que sus productos se identifican con la historia del lugar o región donde se elaboran, y
 
-VI. Secretaría: La Secretaría de Desarrollo Industrial y Comercial de la Administración Pública del Estado.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+VI. Secretaría: La Secretaría de Desarrollo Económico de la Administración Pública del Estado.
 
 ###### Artículo 3.
 
 Las artesanías originarias de las comunidades, etnias o regiones del Estado, son patrimonio cultural de los campechanos y deberán preservarse.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### Artículo 4.
 
-Se considera como patrimonio cultural, el trabajo del artesano y la producción artesanal ya sea ancestral o actual que constituyan un cuerpo de saber, habilidad, destreza, expresión simbólica y artística, con un significado relevante desde el punto de vista de la historia y de la identidad del Estado.
+Se considera como patrimonio cultural, al trabajo de las artesanas y artesanos y a la producción artesanal, ya sea ancestral o actual, que constituyan un cuerpo de saber, habilidad, destreza, expresión simbólica y artística, con un significado relevante desde el punto de vista de la historia y de la identidad del Estado.
 
 ###### Artículo 5.
 
@@ -95,9 +105,11 @@ VIII. Fortalecer el sector artesanal a fin de dignificar la actividad del artesa
 
 ### Capítulo II. Del Instituto
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### Artículo 6.
 
-Se crea el Instituto Estatal para el Fomento de las Actividades Artesanales en Campeche, a quien también podrá denominarse por el acrónimo de INEFAAC, como un organismo descentralizado de la Administración Pública Estatal dotado de personalidad jurídica y patrimonio propio que tiene por objeto preservar, fomentar, promover, rescatar e impulsar el desarrollo de la actividad artesanal en lo económico y lo cultural; facilitar la organización y operación de unidades de producción; reconocer al artesano como productor y proteger las artesanías como patrimonio cultural del Estado; organismo que queda sectorizado a la Secretaría de Desarrollo Industrial y Comercial de la Administración Pública del Estado de Campeche y tendrá sus oficinas centrales en la Ciudad de San Francisco de Campeche, Campeche.
+Se crea el Instituto Estatal para el Fomento de las Actividades Artesanales en Campeche, a quien también podrá denominarse por el acrónimo de INEFAAC, como un organismo descentralizado de la Administración Pública Estatal dotado de personalidad jurídica y patrimonio propio que tiene por objeto preservar, fomentar, promover, rescatar e impulsar el desarrollo de la actividad artesanal en lo económico y lo cultural; facilitar la organización y operación de unidades de producción; reconocer a las artesanas y artesanos como productores y proteger las artesanías como patrimonio cultural del Estado; organismo que queda sectorizado a la Secretaría de Desarrollo Económico de la Administración Pública del Estado de Campeche y tendrá sus oficinas centrales en la Ciudad de San Francisco de Campeche, Campeche.
 
 ###### Artículo 7.
 
@@ -125,41 +137,67 @@ X. Las demás que la presente Ley y su correspondiente Reglamento le asignen.
 
 Lo anterior, sin menoscabo de la observancia que el Instituto deberá dar a los lineamientos que emita la Secretaría en su condición de dependencia coordinadora del sector, para que las actividades a cargo de aquél contribuyan y sean congruentes con las políticas trazadas por éste en materia de desarrollo económico, social y cultural.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### Artículo 8.
 
 El gobierno y administración del Instituto estará a cargo de su:
 
 I. Junta de Gobierno; y
 
-II. Director General, (sic)
+II. La o el Director General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### Artículo 9.
 
 La Junta de Gobierno es el órgano máximo de decisión del Instituto y se integra de la siguiente manera:
 
-I. El titular de la Secretaría, quien la presidirá; y
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+I. La persona titular de la Secretaría, quien la presidirá; y
 
 II. Seis vocales con derecho a voz y voto:
 
-a). El Secretario de Turismo;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
-b). El Secretario de Desarrollo Social y Regional;
+a) La persona titular de la Secretaría de Turismo;
 
-c). El Secretario de Cultura;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
-d). El Secretario de Finanzas;
+b) La persona titular de la Secretaría de Desarrollo Social y Humano;
 
-e). El Secretario de la Contraloría; y
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
-f). El representante de la asociación estatal de artesanos que determine el Instituto.
+c) La persona titular de la Secretaría de Cultura;
 
-Por cada uno de los integrantes de la Junta de Gobierno habrá un suplente, el que fungirá en las ausencias de aquellos. Los suplentes de los titulares de las Secretarías de Estado serán designados por éstos. El suplente de la asociación estatal de artesanos será designado por la directiva de ésta. El cargo de integrante de la Junta de Gobierno, propietario y suplente, es honorífico por lo que no le da derecho a percibir emolumento o percepción alguna como retribución por su participación en dicha Junta.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
-El Director General del Instituto concurrirá a las sesiones de la Junta, en calidad de secretario técnico, con voz pero sin voto, quien se encargará de elaborar las actas y dar seguimiento a los acuerdos que emita la Junta.
+d) La persona titular de la Secretaría de Finanzas;
 
-La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, entre quienes deberán estar su presidente o, en su ausencia, su suplente y el Director General. Sus resoluciones se tomarán por mayoría de votos y en caso de empate quien presida la sesión tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
-La Junta de Gobierno celebrará reuniones ordinarias una vez al mes, de conformidad con lo que establezca el Reglamento de esta Ley. El presidente de la Junta de Gobierno podrá convocar por sí o mediante solicitud que le formulen por lo menos cuatro miembros de la Junta, a sesiones extraordinarias, cuantas veces lo considere necesario, para tratar asuntos de naturaleza urgente.
+e) La persona titular de la Secretaría de la Contraloría; y
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+f) La o el representante de la asociación estatal de las personas artesanas que determine el Instituto.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+Por cada una de las personas integrantes de la Junta de Gobierno habrá una persona suplente, que fungirá en las ausencias de aquéllas. Las y los suplentes de las personas titulares de las Secretarías de Estado serán designados por éstas. La o el suplente de la asociación estatal de las artesanas y artesanos será designado por la directiva de ésta. El cargo de integrante de la Junta de Gobierno, persona propietaria y suplente, es honorífico, por lo que no le da derecho a percibir emolumento o percepción alguna como retribución por su participación en dicha Junta.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+La o el Director General del Instituto concurrirá a las sesiones de la Junta, en calidad de secretaria o secretario técnico, con voz pero sin voto, quien se encargará de elaborar las actas y dar seguimiento a los acuerdos que emita la Junta.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, entre quienes deberán estar la o el presidente o, en su ausencia, su suplente y la o el Director General. Sus resoluciones se tomarán por mayoría de votos y, en caso de empate, quien presida la sesión tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
+La Junta de Gobierno celebrará reuniones ordinarias trimestralmente, sin que puedan ser menos de cuatro al año, de conformidad con lo que establezca el Reglamento de esta Ley. La o el presidente de la Junta de Gobierno podrá convocar por sí o mediante solicitud que le formulen por lo menos cuatro miembros de la Junta, a sesiones extraordinarias, cuantas veces lo considere necesario, para tratar asuntos de naturaleza urgente.
 
 ###### Artículo 10.
 
@@ -185,13 +223,17 @@ VIII. Las demás que esta Ley y su Reglamento le confieran.
 
 Cuando la naturaleza de alguno de los asuntos a tratar en una sesión amerite la presencia del representante de alguno de los Ayuntamientos de los Municipios del Estado o de representantes de otras dependencias e instituciones públicas, federales o estatales, sociales o privadas, así como de expertos estatales, nacionales o internacionales, la presidencia de la Junta queda facultada para extenderles la correspondiente invitación. La participación será sólo con voz.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### Artículo 12.
 
-El Director General será designado por el titular de la Secretaría, previo acuerdo con el Gobernador del Estado.
+La o el Director General será designado por la persona titular de la Secretaría, previo acuerdo con la o el Gobernador del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### Artículo 13.
 
-El Director General tendrá las siguientes atribuciones:
+La o el Director General tendrá las siguientes atribuciones:
 
 I. Representar legalmente al Instituto, con las más amplias facultades para actos de administración y de pleitos y cobranzas, inclusive para aquellas que requieren cláusula especial;
 
@@ -209,49 +251,67 @@ VII. Formular y proponer a la Junta de Gobierno el proyecto de Reglamento Interi
 
 VIII. Formular y proponer a la Junta de Gobierno el proyecto de presupuesto anual de ingresos y egresos del Instituto;
 
-IX. Designar, con acuerdo del Secretario, al personal administrativo que se requiera para el funcionamiento del Instituto;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
-X. Presentar de manera mensual ante la Junta de Gobierno un informe sobre las actividades del Instituto; y trimestralmente informar sobre el programa operativo, así como del estado que guardan las áreas sustantivas y administrativas que lo integran; y
+IX. Designar, con acuerdo de la persona titular de la Secretaría, al personal administrativo que se requiera para el funcionamiento del Instituto;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+X. Presentar de manera trimestral ante la Junta de Gobierno un informe sobre las actividades del Instituto; el programa operativo, así como del estado que guardan las áreas sustantivas y administrativas que lo integran; y
 
 XI. Las demás que le sean conferidas en la presente Ley, en su Reglamento y en el Reglamento Interior del Instituto, o por la Junta de Gobierno.
 
-### Capítulo III. De la Organización y Registro de los Artesanos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE ABRIL DE 2021)</small>
+
+### Capítulo III. De la Organización y Registro de las Artesanas y Artesanos
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### Artículo 14.
 
-El Instituto desarrollará los mecanismos necesarios para la integración del Censo Artesanal del Estado, el cual contendrá un registro fidedigno de los artesanos localizados en todo el territorio estatal, de los tipos de artesanías y demás datos estadísticos que se consideren necesarios.
+El Instituto desarrollará los mecanismos necesarios para la integración del Censo Artesanal del Estado, el cual contendrá un registro fidedigno de las artesanas y artesanos localizados en todo el territorio estatal, de los tipos de artesanías y demás datos estadísticos que se consideren necesarios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### Artículo 15.
 
-El Instituto implementará los programas que permitan la identificación, registro y reconocimiento de las organizaciones de productores e individuos artesanos.
+El Instituto implementará los programas que permitan la identificación, registro y reconocimiento de las organizaciones de personas productoras y, de manera individual, a las artesanas y artesanos.
 
 En tal sentido, será el encargado de procurar lo necesario para que los artículos artesanales del Estado puedan portar certificación de autenticidad de origen, como producto campechano.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### Artículo 16.
 
-Para los efectos de esta Ley, se consideran como unidades de producción artesanal las que se definen a continuación, sin perjuicio de que los artesanos puedan optar por agruparse según lo establecido en otras leyes, en cuanto sean aplicables, o según sus costumbres:
+Para los efectos de esta Ley, se consideran como unidades de producción artesanal las que se definen a continuación, sin perjuicio de que las artesanas y artesanos puedan optar por agruparse según lo establecido en otras leyes, en cuanto sean aplicables, o según sus costumbres:
 
-I. Individual: La integrada por un solo artesano que domina y realiza todas las fases del trabajo, y puede o no ser auxiliado por otras personas;
+I. Individual: La integrada por una o un solo artesano que domina y realiza todas las fases del trabajo, y puede o no ser auxiliado por otras personas;
 
-II. Familiar: Aquella en la que intervienen los miembros de una familia nuclear o extendida. La actividad se desarrolla con una incipiente división del trabajo, de acuerdo a las habilidades, edad y sexo de cada uno de los integrantes del taller, que define simultáneamente el proceso de aprendizaje de los miembros;
+II. Familiar: Aquella en la que intervienen los miembros de una familia nuclear o extendida. La actividad se desarrolla con una incipiente división del trabajo, de acuerdo a las habilidades, edad y sexo de cada persona integrante del taller, que define simultáneamente el proceso de aprendizaje de sus integrantes;
 
-III. Con capacitandos: Aquella donde el maestro artesano transmite sus conocimientos a oficiales y principiantes, y organiza su trabajo en función de la capacitación en el proceso productivo; y
+III. Con las y los capacitandos: Aquella donde la maestra o el maestro artesano transmite sus conocimientos a oficiales y principiantes, y organiza su trabajo en función de la capacitación en el proceso productivo; y
 
-IV. Con trabajo especializado: Aquella en la que la organización para el trabajo reúne, en una misma unidad, artesanos especializados en operaciones parciales del proceso de producción, pero conservando su carácter de piezas únicas por su terminado y decoración que se realiza de forma manual, así como con apoyo de herramienta y equipo.
+IV. Con trabajo especializado: Aquella en la que la organización para el trabajo reúne, en una misma unidad, artesanas y artesanos especializados en operaciones parciales del proceso de producción, pero conservando su carácter de piezas únicas por su terminado y decoración que se realiza de forma manual, así como con apoyo de herramienta y equipo.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### Artículo 17.
 
-El Instituto brindará toda la asesoría y apoyo necesarios para que los artesanos se puedan agrupar en sociedades cooperativas u otras formas de organización permitidas por las leyes agrarias, civiles, mercantiles y fiscales vigentes.
+El Instituto brindará toda la asesoría y apoyo necesarios para que las artesanas y artesanos se puedan agrupar en sociedades cooperativas u otras formas de organización permitidas por las leyes agrarias, civiles, mercantiles y fiscales vigentes.
 
 ### Capítulo IV. De la Producción y Comercialización
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### Artículo 18.
 
-Los artesanos a través del Instituto y con el apoyo de la Secretaría, así como de otros organismos públicos o privados, podrán recibir asesoramiento en los procesos productivos, tales como diseño, tecnología, control de calidad, empaque, embalaje y demás aspectos propios de la producción.
+Las artesanas y artesanos a través del Instituto y con el apoyo de la Secretaría, así como de otros organismos públicos o privados, podrán recibir asesoramiento en los procesos productivos, tales como diseño, tecnología, control de calidad, empaque, embalaje y demás aspectos propios de la producción.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
 ###### Artículo 19.
 
-Los artesanos recibirán orientación y apoyo del Instituto y de la Secretaría en sus gestiones ante las instancias municipales, estatales o federales que correspondan, para adquirir o disponer de materias primas, maquinaria, herramientas y equipamiento, así como para implantar acciones de preservación y conservación del medio ambiente, al uso racional y a la rehabilitación de los recursos naturales que utilicen en la elaboración de sus productos artesanales.
+Las artesanas y artesanos recibirán orientación y apoyo del Instituto y de la Secretaría en sus gestiones ante las instancias municipales, estatales o federales que correspondan, para adquirir o disponer de materias primas, maquinaria, herramientas y equipamiento, así como para implantar acciones de preservación y conservación del medio ambiente, al uso racional y a la rehabilitación de los recursos naturales que utilicen en la elaboración de sus productos artesanales.
 
 ###### Artículo 20.
 
@@ -269,17 +329,21 @@ Deberá difundir la cultura artesanal de Campeche, mediante la edición de atlas
 
 ### Capítulo V. De la Capacitación e Investigación
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### Artículo 23.
 
-El Instituto contará con un área de capacitación que será la encargada de formular y realizar las estrategias para la investigación de las actividades artesanales, así como de la impartición de capacitación a los artesanos, con el fin de rescatar o preservar las artesanías tradicionales en riesgo de desaparición, así como mejorar su producción.
+El Instituto contará con un área de capacitación que será la encargada de formular y realizar las estrategias para la investigación de las actividades artesanales, así como de la impartición de capacitación a las artesanas y artesanos, con el fin de rescatar o preservar las artesanías tradicionales en riesgo de desaparición, así como mejorar su producción.
 
 ###### Artículo 24.
 
 El Instituto promoverá que en las instituciones educativas del Estado y los organismos o dependencias vinculadas a este sector, se implementen programas y planes de estudio en materia artesanal.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### Artículo 25.
 
-El Instituto orientará y capacitará a las agrupaciones de artesanos de cualquier naturaleza jurídica en sistemas administrativos, contables, de planeación fiscal y de registro de derechos de autor, sin perjuicio de que intervengan otras instancias educativas o de capacitación especializada.
+El Instituto orientará y capacitará a las agrupaciones de artesanas y artesanos de cualquier naturaleza jurídica en sistemas administrativos, contables, de planeación fiscal y de registro de derechos de autor, sin perjuicio de que intervengan otras instancias educativas o de capacitación especializada.
 
 ###### Artículo 26.
 
@@ -295,9 +359,11 @@ A fin de impulsar de manera efectiva al sector artesanal en la Entidad, se crear
 
 Adicionalmente el Instituto podrá promover y concertar acciones con dependencias y organismos públicos y privados, para obtener a favor de los artesanos apoyos sociales y estímulos fiscales, además de aquellos que se consideren benéficos para la dignificación de la familia artesanal en el Estado. Asimismo, se promoverán mecanismos para acceder a fuentes alternas de financiamiento conforme lo establezca el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### Artículo 29.
 
-Los artesanos que se organicen, con apego a lo dispuesto en esta Ley, tendrán el reconocimiento a su personalidad jurídica y podrán acceder a créditos preferenciales y a programas de inversión de las instituciones oficiales, para el fomento e impulso de su producción artesanal.
+Las artesanas y artesanos que se organicen, con apego a lo dispuesto en esta Ley, tendrán el reconocimiento a su personalidad jurídica y podrán acceder a créditos preferenciales y a programas de inversión de las instituciones oficiales, para el fomento e impulso de su producción artesanal.
 
 ### Capítulo VII. Del Patrimonio del Instituto
 
@@ -350,3 +416,15 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la Ciudad de San Franc
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los veintiséis días del mes de mayo del año dos mil diez.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO LIC. WILLIAM ROBERTO SARMIENTO URBINA.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 218 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2, 4, 6, 8, 9, 12, 13, 14, 15, 16, 17, 18, 19, 23, 25, 29 Y LA DENOMINACIÓN DEL CAPÍTULO III, PARA QUEDAR COMO DE LA ORGANIZACIÓN Y REGISTRO DE LAS ARTESANAS Y ARTESANOS, TODOS DE LA LEY PARA EL FOMENTO DE LAS ACTIVIDADES ARTESANALES EN EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- El Poder Ejecutivo deberá expedir el Reglamento de la Ley para el Fomento de las Actividades Artesanales en el Estado de Campeche dentro de los treinta días hábiles siguientes a la fecha de entrada en vigor del presente decreto.
