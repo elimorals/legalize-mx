@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2021-03-26"
+last_updated: "2021-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE ABRIL DE 2021.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -427,17 +427,41 @@ f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente
 
 XXII. La Comisión de Gestión Integral de Riesgos y Protección Civil, conocerá de los temas siguientes:
 
-> <small>(REFORMADO, G.G. 4 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 9 DE ABRIL DE 2021)</small>
 
-a) Sobre las leyes que establezcan y regulen los temas en materia de protección civil y gestión integral de riesgos de desastres;
+a) De la revisión y actualización del marco jurídico relativo a la materia, a fin de llevar a cabo la implementación de los mecanismos necesarios para la protección y prevención de la población ante la eventualidad de un riesgo, emergencia o desastre, ello tomando en consideración instrumentos jurídicos nacionales e internacionales vinculados con la gestión Integral de Riesgos y Prevención de Desastres;
 
-b) Los que promuevan la suscripción de convenios entre el Gobierno del Estado y los ayuntamientos, en materia de protección civil y de aquél con el Gobierno Federal;
+> <small>(REFORMADO, G.G. 9 DE ABRIL DE 2021)</small>
 
-c) De los atlas de riesgos estatal y municipales;
+b) Sobre las leyes cuyos temas establezcan y regulen los asuntos en materia de Gestión Integral de Riesgos y Protección Civil;
 
-d) De las bases normativas sobre la organización, prevención y participación de la sociedad y las instituciones en los riesgos o fenómenos naturales; y
+> <small>(REFORMADO, G.G. 9 DE ABRIL DE 2021)</small>
 
-e) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+c) Los que promuevan la suscripción de convenios entre el Gobierno del Estado y los Ayuntamientos, en materia de Gestión Integral de Riesgos y Protección Civil, así como con el Gobierno Federal o con otros Gobiernos Estatales;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.G. 9 DE ABRIL DE 2021)</small>
+
+d) De los atlas de riesgos estatal y municipales;
+
+> <small>(REFORMADO, G.G. 9 DE ABRIL DE 2021)</small>
+
+e) De las bases normativas sobre la organización, prevención y participación de la sociedad y las instituciones en los riesgos o fenómenos perturbadores de carácter natural o antropogénicos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 9 DE ABRIL DE 2021)</small>
+
+f) De las Iniciativas y temas relacionados con resiliencia urbana en zonas de riesgo;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 9 DE ABRIL DE 2021)</small>
+
+g) De Impulsar y realizar estudios y proyectos de investigación que versen sobre las materias de su competencia con apoyo del Instituto de Estudios Legislativos del Poder Legislativo del Estado de México;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 9 DE ABRIL DE 2021)</small>
+
+h) De fomentar el otorgamiento de reconocimientos públicos a nombre de la Legislatura, a personas físicas o jurídicas colectivas que se destaquen por su labor o contribución ejemplar en actividades relacionadas con la Gestión Integral de Riesgos y Protección Civil y, en su caso, de Cuerpos de Bomberos o Emergencias, y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.G. 9 DE ABRIL DE 2021)</small>
+
+i) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE DICIEMBRE DE 2015)</small>
 
@@ -2715,15 +2739,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) Periódico Oficial "Gaceta del Gobierno".
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 843 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499".]
+G.G. 9 DE ABRIL DE 2021.
 
-PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del estado de Guerrero.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 255.- POR EL QUE SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 13-A DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
 
-SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
-
-P.O. 20 DE MAYO DE 2022.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 180 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499 , EN MATERIA DE ABORTO”.]
 
