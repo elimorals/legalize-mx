@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fomento-a-las-actividades-realizadas-por-104337"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2017-12-29"
+last_updated: "2021-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de diciembre de 2014.
 
@@ -71,7 +71,9 @@ II. Organizaciones de la sociedad civil: las agrupaciones u organizaciones mexic
 
 III. Registro Estatal: el Registro Estatal de Organizaciones de la Sociedad Civil que sean objeto de fomento.
 
-IV. Secretaría: la Secretaría de Desarrollo Social del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+
+IV. Secretaría: La Secretaría de Bienestar del Gobierno del Estado.
 
 ###### ARTÍCULO 4.
 
@@ -89,13 +91,51 @@ Las organizaciones de la sociedad civil que constituyan las versiones nacionales
 
 Las organizaciones de la sociedad civil constituidas conforme a las leyes extranjeras, previo cumplimiento de las disposiciones correspondientes de la legislación civil aplicable, que realicen una o más de las actividades cuyo fomento tiene por objeto esta Ley, gozarán de los derechos que derivan de esta Ley, con exclusión de los que se establecen en las fracciones II a VIII y XI del artículo 8.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 7.
 
-Para efectos de esta Ley, son actividades de las organizaciones de la sociedad civil susceptibles de fomento, todas aquéllas que tengan por objeto coadyuvar con proyectos en materia de desarrollo social.
+Para efectos de esta Ley, son actividades de las organizaciones de la sociedad civil objeto de fomento las siguientes:
 
-Las actividades de las organizaciones de la sociedad civil, objeto de fomento, serán las previstas en el Reglamento de la Ley.
+I. Asistencia social, conforme a lo establecido en la Ley sobre el Sistema Estatal de Asistencia Social y en la Ley Estatal de Salud;
 
-Para efectos administrativos, la Secretaría tendrá la facultad de interpretación de esta Ley.
+II. Apoyo a la alimentación popular;
+
+III. Cívicas, enfocadas a promover la participación ciudadana en asuntos de interés público;
+
+IV. Asistencia jurídica;
+
+V. Promoción de la equidad de género;
+
+VI. Asistencia, apoyo y aportación de servicios para la atención a grupos sociales con los diversos tipos de discapacidad;
+
+VII. Cooperación para el desarrollo comunitario en el entorno urbano o rural del Estado;
+
+VIII. Apoyo en la defensa y promoción de los derechos humanos;
+
+IX. Promoción del deporte;
+
+X. Promoción y aportación de servicios para la atención de la salud y cuestiones sanitarias;
+
+XI. Apoyo en el aprovechamiento de los recursos naturales, la protección del ambiente, la flora y la fauna, la preservación y restauración del equilibrio ecológico, así como la promoción del desarrollo sustentable a nivel regional y comunitario, de las zonas urbanas y rurales;
+
+XII. Promoción y fomento educativo, cultural, artístico, científico y tecnológico;
+
+XIII. Fomento de acciones para mejorar la economía popular;
+
+XIV. Participación en acciones de protección civil;
+
+XV. Prestación de servicios de apoyo a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento por esta ley;
+
+XVI. Promoción y defensa de los derechos de los consumidores;
+
+XVII. Acciones que promuevan el fortalecimiento del tejido social y la seguridad ciudadana, y
+
+XVIII. Las demás que determinen otras leyes y disposiciones aplicables.
+
+Las actividades de las organizaciones de la sociedad civil objeto de fomento se encontrarán reguladas por el Reglamento de la Ley
+
+Para efectos administrativos, la Secretaría tendrá la facultad de interpretación de esta ley.
 
 ###### ARTÍCULO 8.
 
@@ -428,3 +468,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 9 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 3 Y EL ARTÍCULO 7 DE LA LEY DE FOMENTO DE LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
