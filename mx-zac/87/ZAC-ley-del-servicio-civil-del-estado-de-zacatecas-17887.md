@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2021-01-23"
+last_updated: "2021-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -2483,13 +2483,11 @@ El proceso de entrega-recepción, con motivo de la conclusión del mandato del P
 
 El Tribunal contará con un órgano interno de control con autonomía técnica y de gestión que tendrá a su cargo las atribuciones señaladas en el presente Capítulo.
 
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2021)</small>
 
 ###### Artículo 168 Septies.
 
-El titular del órgano interno de control será designado por la Legislatura del Estado con el voto de las dos terceras partes de sus miembros presentes, durará en su cargo tres años y no podrá ser designado para otro periodo.
-
-Para su remoción se requerirá la misma votación de su designación.
+El titular del órgano interno de control será designado por la Legislatura del Estado con el voto de las dos terceras partes de sus miembros presentes, durará en su cargo tres años y podrá ser designado para otro periodo.
 
 > <small>(ADICIONADO, P.O. 23 DE ENERO DE 2021)</small>
 
@@ -3976,3 +3974,11 @@ El proceso de entrega recepción se llevará a cabo de acuerdo con la Ley de Ent
 Artículo Cuarto. En un término de 60 días a partir de la publicación del presente Decreto, los Entes Públicos relacionados con su aplicación deberán expedir los reglamentos necesarios para su aplicación o, en su caso, realizar las modificaciones que sean necesarias a la normatividad vigente para dar cumplimiento al presente Decreto.
 
 Artículo Quinto. Los expedientes radicados en el Tribunal de Conciliación y Arbitraje del Estado de Zacatecas serán transferidos al Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas una vez que entre en funciones, para que éste último continúe con el desahogo de los mismos hasta su resolución final conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 10 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 649.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
