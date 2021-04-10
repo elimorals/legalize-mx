@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-fisica-y-deporte-del-estado-de-san-luis-124929"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-14"
-last_updated: "2020-03-26"
+last_updated: "2021-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de diciembre de 2017.
 
@@ -1311,9 +1311,17 @@ II. Las distinciones, exclusiones, restricciones, preferencias u hostigamiento q
 
 III. El uso indebido de recursos públicos por parte de los sujetos destinatarios de los mismos;
 
-IV. El incumplimiento o violación a los estatutos de las asociaciones y sociedades deportivas estatales o municipales, por cuanto hace a la elección de sus cuerpos directivos, y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2021)</small>
 
-V. El incumplimiento de las obligaciones establecidas en los artículos 40 y 78 de la presente Ley.
+IV. El incumplimiento o violación a los estatutos de las asociaciones y sociedades deportivas estatales o municipales, por cuanto hace a la elección de sus cuerpos directivos;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2021)</small>
+
+V. El incumplimiento de las obligaciones establecidas en los artículos 40 y 78 de la presente Ley, y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2021)</small>
+
+VI. Incurrir o incitar a que otros incurran en cualquier acto de violencia antes, durante y después del evento deportivo, que ponga en riesgo la integridad de los presentes.
 
 ###### ARTÍCULO 131.
 
@@ -1430,5 +1438,13 @@ P.O. 26 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0652.- SE DEROGA DEL ARTÍCULO 23 LA FRACCIÓN II, DE LA LEY DE CULTURA, FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1154.- SE REFORMA EL ARTÍCULO 130 EN SUS FRACCIONES IV Y V; Y ADICIONA AL MISMO ARTÍCULO 130 LA FRACCIÓN VI, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
