@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-instituto-electoral-del-estado-de-zacatecas-10
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-06-06"
-last_updated: "2020-12-12"
+last_updated: "2021-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2021.
 
 Ley publicada en el Suplemento 4 del Periódico Oficial del Estado de Zacatecas, el sábado 6 junio de 2015.
 
@@ -1751,7 +1751,9 @@ ARTÍCULO 57 BIS
 
 2. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que sean de la competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de los recursos públicos asignados al Instituto; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
-3. El titular del órgano interno de control será designado por la Legislatura del Estado con el voto de las dos terceras partes de sus miembros presentes, durará en su cargo tres años y no podrá ser designado para otro periodo.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2021)</small>
+
+3. El titular del órgano interno de control será designado por la Legislatura del Estado con el voto de las dos terceras partes de sus miembros presentes, durará en su cargo tres años y podrá ser designado para otro periodo.
 
 La Legislatura del Estado podrá convocar a los colegios y asociaciones de contadores públicos, para que derivado de un proceso de consulta sobre competencias en materia de fiscalización y auditoría, se integre una terna con los participantes que hubieren obtenido las calificaciones de mayor puntaje.
 
@@ -2598,3 +2600,11 @@ Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal 
 Artículo Tercero. Las dependencias del Poder Ejecutivo del Estado, los Ayuntamientos, los Organismos Autónomos y los demás Entes Públicos a los que este Decreto les señala alguna atribución u obligación, deberán armonizar su normatividad interna en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
 
 Artículo Cuarto. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 10 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 649.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
