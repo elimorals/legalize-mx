@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1151
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-02"
-last_updated: "2021-02-24"
+last_updated: "2021-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el jueves 2 de junio de 2016.
 
@@ -1995,9 +1995,9 @@ El Instituto contará con un Órgano Interno de Control, el cual tendrá autonom
 
 Para la designación del titular del Órgano Interno de Control del Instituto, la Legislatura del Estado, mediante convocatoria pública, constituirá una terna con los perfiles adecuados.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2021)</small>
 
-El titular será electo por la votación de las dos terceras partes de los miembros presentes de la Legislatura del Estado, durará tres años en el cargo y no podrá ser designado para otro periodo.
+El titular será electo por la votación de las dos terceras partes de los miembros presentes de la Legislatura del Estado, durará tres años en el cargo y podrá ser designado para otro periodo.
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2018)</small>
 
@@ -2798,3 +2798,11 @@ P.O. 24 DE FEBRERO DE 2021.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Dentro del plazo de noventa días naturales, el Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, deberá expedir y publicar en el Periódico Oficial, Órgano de Gobierno del Estado, las modificaciones que deriven del presente decreto en su Reglamento Interior y los demás ordenamientos.
+
+P.O. 10 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 649.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
