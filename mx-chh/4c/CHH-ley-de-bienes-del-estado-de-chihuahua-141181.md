@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-bienes-del-estado-de-chihuahua-141181"
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-12"
-last_updated: "2020-02-12"
+last_updated: "2021-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE BIENES DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2021.
 
 Ley publicada en el Folleto Anexo al número 13 del Periódico Oficial del Estado de chihuahua, el miércoles 12 de febrero de 2020.
 
@@ -685,7 +685,9 @@ Rige también respecto a los muebles de dominio privado del Estado lo establecid
 
 En los casos en que los bienes muebles estatales, dado su estado físico o cualidades, ya no reporten ninguna utilidad, ni puedan ser usados de forma alguna en el servicio público del Estado, así como aquellos que constituyan chatarra o se hubieran extraviado, robado, accidentado, siniestrado o destruido, se procederá a su baja, previa solicitud que se efectúe a la Secretaría de Hacienda, en la que se haga constar esta circunstancia.
 
-Autorizada la baja de un bien mueble, este podrá donarse a otros entes públicos, asociaciones civiles o personas que justifiquen la necesidad de dicha donación, salvo que se trate de vehículos, en cuyo caso se estará al procedimiento de enajenación previsto para estos bienes en la presente Ley.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2021)</small>
+
+Autorizada la baja de un bien mueble, este podrá donarse a otros entes públicos o asociaciones civiles que justifiquen la necesidad de dicha donación. Tratándose de vehículos, estos podrán enajenarse de manera onerosa o gratuita conforme a los procedimientos previstos en la Sección Cuarta de este Capítulo.
 
 #### SECCIÓN SEGUNDA. DEL PROCEDIMIENTO PARA LA ENAJENACIÓN DE LOS BIENES DEL DOMINIO PRIVADO DE LOS MUNICIPIOS
 
@@ -811,6 +813,10 @@ Cuando se trate de enajenaciones de vehículos terrestres, aéreos y marítimos 
 
 Son susceptibles de venta los vehículos referidos en el párrafo anterior, cuando se justifique a través de un dictamen que los mismos no son útiles, o los que por su naturaleza y derivado de un avalúo y estudio de costo beneficio elaborado por una empresa o persona física con experiencia en el ramo, se acredite que se pueden obtener ingresos para el Estado o los municipios y que existe evidencia de que los gastos de mantenimiento, seguros, operación y certificación, son gravosos para el Estado o los municipios.
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2021)</small>
+
+Son susceptibles de donación los vehículos terrestres, de conformidad con lo previsto en el artículo 67, fracción V de esta Ley.
+
 ###### Artículo 62.
 
 La autoridad competente integrará el expediente de los vehículos susceptibles de venta, el cual deberá contener como mínimo:
@@ -912,6 +918,14 @@ II. Cuando la persona ganadora de una subasta incumpla con el pago respectivo. E
 III. Cuando el precio base de venta del vehículo no exceda de seiscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 IV. Tratándose de aeronaves, cuando se presente una persona compradora que oferte cuando menos el precio base de venta y la autoridad justifique que dicha enajenación asegura las mejores condiciones de precio, oportunidad y demás circunstancias pertinentes.
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2021)</small>
+
+V. Cuando otros entes públicos o instituciones autorizadas para recibir donativos deducibles en términos de la Ley del Impuesto Sobre la Renta, requieran la donación de vehículos terrestres para el mejor desarrollo de sus actividades.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN V]</small>
+
+En este caso, la enajenación directa podrá realizarse a través de una donación, siempre que la autoridad correspondiente, a través de un dictamen, justifique su procedencia en criterios de economía, utilidad, necesidad y eficiencia.
 
 ###### Artículo 68.
 
@@ -1334,3 +1348,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los quince días del mes de enero del año dos mil veinte.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. LUIS FERNANDO MESTA SOLUÉ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0993/2021 II P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 50, CUARTO PÁRRAFO; Y SE ADICIONAN A LOS ARTÍCULO 61, UN TERCER PÁRRAFO, Y 67, UNA FRACCIÓN V, DE LA LEY DE BIENES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
