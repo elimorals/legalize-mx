@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-justicia-administrativa-del-estado-de-zacatecas-145647"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-02"
-last_updated: "2021-01-02"
+last_updated: "2021-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2021.
 
 Ley publicada en el Suplemento al Número 1 del Periódico Oficial del Estado de Zacatecas, el sábado 2 de enero de 2021.
 
@@ -33,7 +33,7 @@ LA HONORABLE SEXAGÉSIMA TERCERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACA
 
 RESULTANDOS:
 
-[…]
+[...]
 
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 152 y 153 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -781,11 +781,11 @@ Las obligaciones y atribuciones de la Unidad de Transparencia se establecerán e
 
 El Tribunal contará con un órgano interno de control con autonomía técnica y de gestión que tendrá a su cargo las atribuciones señaladas en el presente Capítulo.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2021)</small>
+
 ###### Artículo 47.
 
-El titular del órgano interno de control será designado por la Legislatura del Estado con el voto de las dos terceras partes de sus miembros presentes, durará en su cargo tres años y no podrá ser designado para otro periodo.
-
-Para su remoción se requerirá la misma votación de su designación.
+El titular del órgano interno de control será designado por la Legislatura del Estado con el voto de las dos terceras partes de sus miembros presentes, durará en su cargo tres años y podrá ser designado para otro periodo.
 
 ###### Artículo 48.
 
@@ -2192,3 +2192,13 @@ Dado en la Sala de Sesiones de la Honorable Sexagésima Tercera Legislatura del 
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo del Estado, a los treinta días del mes de diciembre del año dos mil veinte. EL GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. EL SECRETARIO GENERAL DE GOBIERNO.- JEHÚ EDUÍ SALAS DÁVILA.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 649.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
