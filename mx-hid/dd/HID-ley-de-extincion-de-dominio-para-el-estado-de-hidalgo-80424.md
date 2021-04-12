@@ -4,7 +4,7 @@ identifier: "HID-ley-de-extincion-de-dominio-para-el-estado-de-hidalgo-80424"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-21"
-last_updated: "2016-12-31"
+last_updated: "2021-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NUM. 698 QUE ABROGA LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 12 DE ABRIL DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de marzo de 2011.
 
@@ -1028,3 +1030,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 12 DE ABRIL DE 2021.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 698 DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 12 DE ABRIL DE 2021.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+Se ABROGA la Ley de Extinción de Dominio para el Estado de Hidalgo.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 698 QUE ABROGA LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los procedimientos de extinción de dominio y resoluciones iniciados y dictados respectivamente, antes de la entrada en vigor del presente Decreto, se seguirán tramitando y ejecutando conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen.
