@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2020-10-15"
+last_updated: "2021-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -826,6 +826,10 @@ La educación especial deberá incorporar los enfoques de inclusión e igualdad 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 Quienes presten servicios educativos en el marco del sistema educativo nacional atenderán las disposiciones en materia de accesibilidad señaladas en la Ley General para la Inclusión de las Personas con Discapacidad, en la Ley General de la Infraestructura Física Educativa, Ley de los Derechos de las Personas con Discapacidad del Estado de Tamaulipas, Ley de Infraestructura Física Educativa para el Estado de Tamaulipas y en las demás normas aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2021)</small>
+
+El Estado proporcionará a las personas con la condición del espectro autista, una educación o capacitación basada en criterios inclusivos tomando en cuenta sus capacidades y potencialidades, mediante evaluaciones pedagógicas, a fin de fortalecer la posibilidad de que tengan una vida independiente; para tal efecto, se procurará que las y los maestros sean debidamente capacitados en la materia.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JUNIO DE 2018)</small>
 
@@ -2334,3 +2338,15 @@ P.O. 15 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-519 MEDIANTE EL CUAL SE ADICIONAN EL PÁRRAFO NOVENO AL ARTÍCULO 29 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS Y EL ARTÍCULO 10 BIS A LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La aplicación de las reformas del presente decreto se sujetará a la disponibilidad presupuestal correspondiente.
