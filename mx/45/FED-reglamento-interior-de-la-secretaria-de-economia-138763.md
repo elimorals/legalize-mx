@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-economia-138763"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-10-17"
-last_updated: "2019-10-17"
+last_updated: "2021-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138763&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-10-14"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2021.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 17 de octubre de 2019.
 
@@ -45,55 +45,91 @@ A. Unidades Administrativas:
 
 I. Subsecretarías:
 
-1. Subsecretaría de Industria, Comercio y Competitividad;
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+1. Subsecretaría de Industria y Comercio;
 
 2. Subsecretaría de Comercio Exterior, y
 
-3. Subsecretaría de Minería;
+3. (DEROGADO, D.O.F. 12 DE ABRIL DE 2021)
 
-II. Unidades, Coordinación, Direcciones Generales y Oficinas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE ABRIL DE 2021)</small>
+
+II. Unidades, Direcciones Generales, Coordinaciones y Oficinas:
 
 1. Unidad de Administración y Finanzas;
 
 2. Unidad de Apoyo Jurídico;
 
-a) Dirección General Adjunta de lo Contencioso, e (sic)
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-b) Dirección General Adjunta de Convenios y Contratos;
+a) Coordinación de lo Contencioso, e (sic)
+
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+b) Coordinación de Convenios y Contratos;
 
 3. Unidad de Prospectiva, Planeación y Evaluación;
 
-4. Unidad de Competitividad y Competencia;
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-5. Unidad de Contenido Nacional y Fomento de Cadenas Productivas e Inversión en el Sector Energético;
+4. Unidad de Normatividad, Competitividad y Competencia;
+
+5. (DEROGADO, D.O.F. 12 DE ABRIL DE 2021)
+
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+5 Bis. Unidad de Coordinación de Actividades Extractivas;
 
 6. Unidad de Desarrollo Productivo;
 
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+6 Bis. Unidad de Fomento y Crecimiento Económico;
+
 7. Unidad de Prácticas Comerciales Internacionales;
 
-a) Dirección General Adjunta de Análisis Financiero y Contable;
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-b) Dirección General Adjunta de Daño y Salvaguardas;
+a) Coordinación de Análisis Financiero y Contable;
 
-c) Dirección General Adjunta de Dumping y Subvenciones;
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-d) Dirección General Adjunta Jurídica, e (sic)
+b) Coordinación de Daño y Salvaguardas;
 
-e) Dirección General Adjunta Jurídica Internacional;
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+c) Coordinación de Dumping y Subvenciones;
+
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+d) Coordinación Jurídica, e (sic)
+
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+e) Coordinación Jurídica Internacional;
 
 8. Unidad de Inteligencia Económica Global;
 
 9. Unidad de Negociaciones Comerciales Internacionales;
 
-10. Coordinación del Programa Prioritario de Microcréditos para el Bienestar;
+10. (DEROGADO, D.O.F. 12 DE ABRIL DE 2021)
 
 11. Dirección General de Legislación y Consulta;
+
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+11 Bis. Dirección General de Procedimientos Constitucionales y Legales;
 
 12. Dirección General de Innovación de Trámites;
 
 13. Dirección General de Planeación y Evaluación;
 
 14. Dirección General de Vinculación con el Sector Coordinado;
+
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+14 Bis. Dirección General de Coordinación Territorial de Trámites y Servicios de Economía;
 
 15. Dirección General de Facilitación Comercial y de Comercio Exterior;
 
@@ -105,17 +141,27 @@ e) Dirección General Adjunta Jurídica Internacional;
 
 19. Dirección General de Normas;
 
-a) Dirección General Adjunta de Evaluación de la Conformidad;
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+a) Coordinación de la Infraestructura de la Calidad;
 
 20. Dirección General de Normatividad Mercantil;
 
-a) Dirección General Adjunta de Política Mercantil;
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-21. Dirección General de Contenido Nacional en el Sector Energético;
+a) Coordinación de Política Mercantil;
 
-22. Dirección General de Fomento de Cadenas Productivas e Inversión en el Sector Energético;
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-23. Dirección General de Procesos y Programas de Apoyo;
+21. Dirección General de Contenido Nacional y Fomento en el Sector Energético;
+
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+21 Bis. Dirección General de Competitividad y Competencia;
+
+22. (DEROGADO, D.O.F. 12 DE ABRIL DE 2021)
+
+23. (DEROGADO, D.O.F. 12 DE ABRIL DE 2021)
 
 24. Dirección General de Control y Procedimientos;
 
@@ -126,6 +172,10 @@ a) Dirección General Adjunta de Política Mercantil;
 27. Dirección General de Operación;
 
 28. Dirección General de Seguimiento a Compromisos Institucionales;
+
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+28 Bis. Dirección General de Apoyo Técnico;
 
 29. Dirección General de Defensa Comercial Internacional;
 
@@ -139,7 +189,9 @@ a) Dirección General Adjunta de Política Mercantil;
 
 34. Dirección General de Inversión Extranjera;
 
-a) Dirección General Adjunta del Registro Nacional de Inversiones Extranjeras;
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+a) Coordinación del Registro Nacional de Inversiones Extranjeras;
 
 35. Dirección General de Política de Promoción de Inversiones y Exportación;
 
@@ -153,7 +205,7 @@ a) Dirección General Adjunta del Registro Nacional de Inversiones Extranjeras;
 
 40. Dirección General de Minas;
 
-41. Dirección General del Fondo para el Desarrollo de Zonas de Producción Minera;
+41. (DEROGADO, D.O.F. 12 DE ABRIL DE 2021)
 
 42. Dirección General de Programación, Presupuesto y Contabilidad;
 
@@ -171,7 +223,9 @@ a) Dirección General Adjunta del Registro Nacional de Inversiones Extranjeras;
 
 B. El órgano administrativo desconcentrado, Comisión Nacional de Mejora Regulatoria, y
 
-C. Unidades Subalternas, las direcciones generales, direcciones generales adjuntas, direcciones y subdirecciones de área, jefaturas de departamento, y demás áreas administrativas que auxiliarán a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría en el ejercicio de sus atribuciones; las cuales deberán figurar en la estructura organizacional autorizada a la Secretaría observando las disposiciones jurídicas aplicables, cuya adscripción y funciones serán establecidas en el Manual de Organización General de la Secretaría o, en su caso, en los manuales de organización, de procedimientos o de servicios al público, respectivos.
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+C. Unidades Subalternas, las direcciones generales, coordinaciones, direcciones y subdirecciones de área, jefaturas de departamento, y demás áreas administrativas que auxiliarán a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría en el ejercicio de sus atribuciones; las cuales deberán figurar en la estructura organizacional autorizada a la Secretaría observando las disposiciones jurídicas aplicables, cuya adscripción y funciones serán establecidas en el Manual de Organización General de la Secretaría o, en su caso, en los manuales de organización, de procedimientos o de servicios al público, respectivos.
 
 ###### ARTÍCULO 3.
 
@@ -223,7 +277,9 @@ XV. Adscribir orgánicamente las unidades administrativas de la Secretaría, med
 
 XVI. Expedir el Manual de Organización General de la Secretaría, que deberá ser publicado en el Diario Oficial de la Federación, y los demás manuales de procedimientos y de servicios al público de la Secretaría;
 
-XVII. Expedir los acuerdos de carácter general con base en la Ley Minera, Ley Federal de Competencia Económica, Ley de Inversión Extranjera, Ley Federal de Protección al Consumidor, Ley Federal de Correduría Pública, Ley Federal sobre Metrología y Normalización, salvo lo dispuesto en la fracción IX del artículo 36 de este Reglamento, Ley de Comercio Exterior y demás ordenamientos cuya aplicación y vigilancia de su cumplimiento corresponda a la Secretaría;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XVII. Expedir los acuerdos de carácter general con base en la Ley Minera, Ley Federal de Competencia Económica, Ley de Inversión Extranjera, Ley Federal de Protección al Consumidor, Ley Federal de Correduría Pública, Ley de Infraestructura de la Calidad, salvo lo dispuesto en la fracción IX del artículo 36 de este Reglamento, Ley de Comercio Exterior y demás ordenamientos cuya aplicación y vigilancia de su cumplimiento correspondan a la Secretaría;
 
 XVIII. Designar a los representantes de la Secretaría en las comisiones, consejos, congresos, organizaciones, entidades e instituciones nacionales e internacionales en las que participe la misma, salvo en los casos en que la legislación aplicable señale al servidor público que representa a la Secretaría;
 
@@ -241,35 +297,7 @@ XXIV. Las demás facultades indelegables por disposición legal y aquellas que c
 
 ###### ARTÍCULO 6.
 
-La persona Titular de la Secretaría, en relación con las Oficinas de Representación en las entidades federativas, tiene las facultades siguientes:
-
-I. Organizar, coordinar y supervisar la implementación de las políticas y programas sectoriales a cargo de la Secretaría;
-
-II. Coordinar la participación de la Secretaría, por conducto de las Oficinas de Representación en las entidades federativas, ante las autoridades de su circunscripción, organizaciones, cámaras empresariales y confederaciones previstas en la Ley de la materia y asociaciones, consejos, comisiones y comités, en materia de promoción y fomento, así como dar seguimiento a los compromisos contraídos;
-
-III. Establecer, a propuesta de las unidades administrativas de la Secretaría, los criterios para la aplicación de las políticas y programas de la Secretaría en las entidades federativas, así como supervisar y evaluar su implementación;
-
-IV. Establecer, en coordinación con las unidades administrativas correspondientes de la Secretaría, las prioridades y metas para la operación de los programas en las Oficinas de Representación en las entidades federativas, de acuerdo a los objetivos institucionales;
-
-V. Definir los criterios y parámetros de medición de resultados para la evaluación de la gestión de las Oficinas de Representación en las entidades federativas, según lo establecido por la Unidad de Prospectiva, Planeación y Evaluación;
-
-VI. Evaluar la operación de las Oficinas de Representación en las entidades federativas conforme a los criterios, parámetros y metas establecidas, así como los mecanismos para asegurar la calidad en la prestación de los servicios;
-
-VII. Coordinar la implementación de las disposiciones administrativas que rijan la operación de las Oficinas de Representación en las entidades federativas;
-
-VIII. Suscribir acuerdos y convenios en materia de promoción y fomento de la actividad económica con las dependencias y entidades de los gobiernos de las entidades federativas, municipios y alcaldías de la Ciudad de México, instituciones educativas, entidades de fomento y organismos empresariales;
-
-IX. Instruir a las Oficinas de Representación en las entidades federativas para coadyuvar con los órganos administrativos desconcentrados de la Secretaría en el cumplimiento de sus atribuciones, así como apoyar en la promoción de los programas institucionales de la Secretaría;
-
-X. Elaborar el anteproyecto anual de presupuesto asignado a las Oficinas de Representación en las entidades federativas;
-
-XI. Realizar las funciones administrativas de las Oficinas de Representación en las entidades federativas conforme a la normativa en materia de recursos humanos, financieros, materiales, servicios generales e informáticos;
-
-XII. Autorizar y tramitar las solicitudes de pago de los compromisos adquiridos en las Oficinas de Representación en las entidades federativas;
-
-XIII. Realizar las adquisiciones, arrendamientos y servicios que se requieran de acuerdo a la normativa aplicable, y
-
-XIV. Las demás que, en esta materia, le confieran otras disposiciones legales o administrativas.
+(DEROGADO, D.O.F. 12 DE ABRIL DE 2021)
 
 ### CAPÍTULO III. De las Facultades de las Personas Titulares de las Subsecretarías
 
@@ -319,9 +347,11 @@ XX. Controlar y supervisar el ejercicio de las atribuciones que corresponden a l
 
 XXI. Las demás que le señale la persona Titular de la Secretaría o le confieran otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 8.
 
-La Subsecretaría de Industria, Comercio y Competitividad tiene las atribuciones siguientes:
+La Subsecretaría de Industria y Comercio tiene las atribuciones siguientes:
 
 I. Conducir las acciones de la Secretaría respecto de la política de fomento industrial y de innovación que promueva el crecimiento económico;
 
@@ -329,15 +359,23 @@ II. Identificar acciones para impulsar el comercio interior, crecimiento de empr
 
 III. Impulsar el diseño de acciones, planes y programas específicos para los sectores de la industria y el comercio, servicios y cadenas productivas;
 
-IV. Promover el fortalecimiento de la competitividad y conocer de las solicitudes que señale la Ley Federal de Competencia Económica respecto de la realización de investigaciones, procedimientos especiales y opiniones;
+IV. (DEROGADA, D.O.F. 12 DE ABRIL DE 2021)
 
-V. Conducir el diseño, operación, control y evaluación de mecanismos e instrumentos para impulsar la competitividad del comercio exterior;
+V. (DEROGADA, D.O.F. 12 DE ABRIL DE 2021)
 
-VI. Fomentar el desarrollo e implementación de una normatividad mercantil clara y eficaz, así como de los procesos de metrología, normalización y evaluación de la conformidad;
+VI. (DEROGADA, D.O.F. 12 DE ABRIL DE 2021)
 
-VII. Promover la política nacional de fomento de proveeduría nacional en el sector energético, y
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-VIII. Coordinar la realización de investigaciones en materia de prácticas desleales de comercio internacional y medidas de salvaguarda.
+VII. Promover la política nacional de fomento de proveeduría nacional en el sector energético;
+
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+VIII. Coordinar la realización de investigaciones en materia de prácticas desleales de comercio internacional y medidas de salvaguarda, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+IX. Conducir el diseño de acciones, políticas, programas, a fin de promover la inversión, fomentar el desarrollo económico y fortalecer las fuentes de empleo en el país.
 
 ###### ARTÍCULO 9.
 
@@ -355,31 +393,21 @@ V. Suscribir convenios que contengan compromisos por los cuales se suspendan o t
 
 VI. Implementar la política en materia de comercio exterior ante organismos internacionales y socios comerciales, así como de promoción y atracción de inversión extranjera, en coordinación con la Secretaría de Relaciones Exteriores como responsable de la política exterior de México, y
 
-VII. Conducir el fomento del comercio exterior y la atracción de inversión extranjera.
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+VII. Conducir el fomento del comercio exterior, así como el diseño, operación, control y evaluación de mecanismos para impulsar la competitividad en el mismo y la atracción de inversión extranjera.
 
 ###### ARTÍCULO 10.
 
-La Subsecretaría de Minería tiene las atribuciones siguientes:
-
-I. Supervisar y coordinar las actividades que en materia minera, derivan del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, así como ejercer y aplicar las atribuciones que se otorgan a la Secretaría en materia de minería en la Ley Minera, la Ley de Hidrocarburos, la Ley de la Industria Eléctrica y en las disposiciones reglamentarias que derivan de las leyes citadas, para lo cual se apoyará en el Servicio Geológico Mexicano, el Fideicomiso de Fomento Minero y Exportadora de Sal S.A. de C.V.;
-
-II. Coordinar la elaboración, formulación, ejecución, seguimiento, evaluación y, en su caso, modificación de los programas a que se refieren los artículos 7 y 8 de la Ley Minera, así como aquellos que sobre la materia le instruya la persona Titular de la Secretaría;
-
-III. Representar a la Secretaría en foros y eventos nacionales e internacionales en asuntos relativos a la minería, así como fungir como enlace con los sectores privado y académico del sector minero;
-
-IV. Establecer medidas y acciones específicas que permitan el adecuado cumplimiento de políticas públicas en materia minera, así como medir y evaluar la obtención de resultados de dichas políticas;
-
-V. Coordinar las acciones para evaluar y supervisar la obtención de resultados programáticos presupuestales de las unidades administrativas bajo su adscripción;
-
-VI. Diseñar y proponer los esquemas de participación de la Secretaría en las actividades relacionadas con el sector minero, y
-
-VII. Coordinar las acciones para la aplicación de los recursos del Fondo para el Desarrollo de Zonas de Producción Minera.
+(DEROGADO, D.O.F. 12 DE ABRIL DE 2021)
 
 ### CAPÍTULO IV. De las Unidades Administrativas
 
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 11.
 
-Las Jefaturas de Unidad, Coordinaciones y Direcciones Generales, estarán a cargo de una persona Titular, que para el ejercicio de sus atribuciones se auxiliará por las personas Titulares de las direcciones generales, direcciones generales adjuntas, direcciones y subdirecciones de área, jefaturas de departamento, y demás servidores públicos que se precisan en este Reglamento, en el Manual de Organización General de la Secretaría, sus manuales de organización específicos, así como por el personal autorizado en su presupuesto y que se requiera para satisfacer las necesidades del servicio.
+Las Jefaturas de Unidad, Coordinaciones y Direcciones Generales, estarán a cargo de una persona Titular, que para el ejercicio de sus atribuciones se auxiliará por las personas Titulares de las direcciones generales, coordinaciones, direcciones y subdirecciones de área, jefaturas de departamento, y demás servidores públicos que se precisan en este Reglamento, en el Manual de Organización General de la Secretaría, sus manuales de organización específicos, así como por el personal autorizado en su presupuesto y que se requiera para satisfacer las necesidades del servicio.
 
 ###### ARTÍCULO 12.
 
@@ -433,7 +461,9 @@ XXIII. Integrar, de conformidad con las disposiciones jurídicas aplicables, la 
 
 XXIV. Proponer a su superior jerárquico, cuando lo estime necesario y en coordinación con la Unidad de Apoyo Jurídico, anteproyectos de iniciativas de leyes y decretos legislativos, así como de reglamentos, decretos, acuerdos, órdenes y demás disposiciones normativas aplicables a asuntos de su competencia;
 
-XXV. Proponer a la persona Titular de (sic) Secretaría la delegación de sus facultades en servidores públicos subalternos;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XXV. Proponer a la persona Titular de la Secretaría la delegación de sus facultades en servidores públicos subalternos;
 
 XXVI. Desempeñar las comisiones que le encomiende el superior jerárquico o la persona Titular de la Secretaría y, por instrucción expresa de este, representar a la Secretaría ante las dependencias y entidades de la Administración Pública Federal y participar en comités y grupos de trabajo interinstitucionales, así como mantenerlos informados sobre la ejecución y desarrollo de sus actividades;
 
@@ -447,7 +477,9 @@ XXIX. Las demás que les atribuyan las disposiciones legales o reglamentarias, l
 
 La Unidad de Administración y Finanzas tiene las atribuciones siguientes:
 
-I. Dirigir, regular y evaluar, de conformidad con las disposiciones aplicables y de acuerdo con el modelo organizacional básico establecido por la Secretaría de Hacienda y Crédito Público, las políticas, normas, criterios, lineamientos, sistemas y procesos para la administración de los recursos humanos, materiales, servicios generales, financieros y de tecnologías de la información y comunicaciones de las unidades administrativas, de los órganos administrativos desconcentrados y de los entes que conforman el sector paraestatal coordinado por la Secretaría;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+I. Dirigir, regular y evaluar, de conformidad con las disposiciones aplicables y de acuerdo con el modelo organizacional básico establecido por la Secretaría de Hacienda y Crédito Público, las políticas, normas, criterios, lineamientos, sistemas y procesos para la administración de los recursos humanos, materiales, de archivos, contabilidad, financieros y de tecnologías de la información de las unidades administrativas, de los órganos administrativos desconcentrados y de los entes que conforman el sector paraestatal coordinado por la Secretaría;
 
 II. Promover y ejecutar las estrategias, lineamientos, criterios y procesos que defina la Secretaría de Hacienda y Crédito Público, u otra autoridad competente, a las que se deban sujetar las unidades administrativas y sus órganos administrativos desconcentrados, así como orientar y coordinar las acciones del sector coordinado por la Secretaría cuando corresponda, en relación con el Plan Nacional del Desarrollo y los programas que se deriven del mismo, así como con los programas de austeridad y disciplina hacendaria;
 
@@ -455,7 +487,9 @@ III. Coordinar las actividades de programación, presupuesto y gasto de la Unida
 
 IV. Coordinar la integración de la información de la dependencia y del sector coordinado por esta, requerida por la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público, u otra autoridad competente;
 
-V. Aplicar los lineamientos para la elaboración, actualización y dictamen de los manuales de organización, de procedimientos y de servicios al público de la Secretaría, así como de los formatos que deban inscribirse en el Registro Federal de Trámites y Servicios;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+V. Emitir los lineamientos para la elaboración, actualización y dictamen de los manuales de organización, de procedimientos y de servicios al público de la Secretaría, así como de los formatos que deban inscribirse en el Catálogo Nacional de Regulaciones, Trámites y Servicios;
 
 VI. Suscribir los nombramientos de los servidores públicos de la Secretaría conforme a las disposiciones aplicables;
 
@@ -465,9 +499,13 @@ VIII. Conducir las relaciones laborales de la Secretaría y vigilar la aplicaci�
 
 IX. Proponer a la persona Titular de la Secretaría, previa validación de la persona Titular de la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público, las Condiciones Generales de Trabajo, así como vigilar su cumplimiento y difundirlas entre los servidores públicos de la Secretaría, de conformidad con las disposiciones aplicables;
 
-X. Proponer a la persona Titular de la Secretaría la capacitación y el adiestramiento del personal de la Secretaría para el buen desempeño de sus labores y el mejoramiento de sus condiciones económicas, sociales y culturales;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-XI. Presidir los comités de adquisiciones, arrendamientos y servicios, obra pública, mejora regulatoria interna, la Comisión Mixta de Escalafón y los demás organismos colegiados que de acuerdo con sus atribuciones deba coordinar o presidir;
+X. Proponer a la persona Titular de la Secretaría la capacitación y profesionalización del personal de la Secretaría para el buen desempeño de sus labores y el mejoramiento de sus condiciones económicas, sociales y culturales;
+
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XI. Presidir los comités de adquisiciones, arrendamientos y servicios, obra pública, de Ética y de Prevención de Conflictos de Interés, la Comisión Mixta de Escalafón, y los demás organismos colegiados que de acuerdo con sus atribuciones deba coordinar o presidir;
 
 XII. Vigilar que las adquisiciones, arrendamientos, servicios, obra pública y servicios relacionados con esta, además de las enajenaciones de la Secretaría, cumplan con las disposiciones aplicables y, en su caso, suscribir los contratos en las materias señaladas y demás documentos que impliquen actos de administración, de conformidad con las disposiciones aplicables;
 
@@ -485,13 +523,17 @@ XVIII. Presentar a la persona Titular de la Secretaría para su consideración y
 
 XIX. Fungir como responsable del proceso de mejora regulatoria de la Secretaría de conformidad con las disposiciones legales aplicables;
 
-XX. Coordinar los mecanismos y acciones que capten la opinión y den orientación a la ciudadanía respecto de los programas y servicios que ofrece la Secretaría;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XX. Coordinar los mecanismos y acciones que permitan ofrecer orientación y atención a la ciudadanía respecto de los programas, trámites y servicios que ofrece la Secretaría;
 
 XXI. Supervisar la elaboración y ejecución del Programa Interno de Protección Civil de cada uno de los inmuebles de la Secretaría para la salvaguarda del personal, instalaciones, bienes e información;
 
 XXII. Establecer el sistema de comunicación interna, con la participación de la Oficina de Comunicación Social;
 
-XXIII. Administrar y controlar el funcionamiento de las bibliotecas, hemerotecas, áreas protocolarias, recintos, galerías y museos de la Secretaría o aquellas que se encuentren a cargo de esta;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XXIII. Administrar y controlar el funcionamiento de los archivos, las bibliotecas, hemerotecas, áreas protocolarias, recintos, galerías y museos de la Secretaría o aquellas que se encuentren a cargo de esta;
 
 XXIV. Dirigir la planeación y organización de los eventos públicos y privados en los que intervenga la persona Titular de la Secretaría o aquellos que en cumplimiento a sus atribuciones se deban realizar;
 
@@ -501,7 +543,9 @@ XXVI. Dirigir las acciones orientadas a incorporar la perspectiva de género en 
 
 XXVII. Las demás que le defina la persona Titular de la Secretaría, la persona Titular de la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público o le confieran las disposiciones aplicables.
 
-Habrá una coordinación administrativa para la Oficina de la persona Titular de la Secretaría y una por cada Subsecretaría. Las demás unidades administrativas referidas en la fracción II del artículo 2 de este Reglamento podrán contar con apoyo administrativo.
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+Habrá una coordinación administrativa para la Oficina de la persona Titular de la Secretaría y una por cada Subsecretaría. Las Unidades adscritas a la Oficina de la persona titular de la Secretaría podrán tener enlaces administrativos que serán auxiliares de las mismas en el ejercicio de dichas funciones.
 
 ###### ARTÍCULO 14.
 
@@ -530,6 +574,10 @@ X. Formular los informes previos y justificados en materia de amparo que deban r
 XI. Formular querella y denuncias de hechos ante el Ministerio Público, ejercer acción penal ante los Tribunales en los casos que proceda y cuando se cuente con los elementos necesarios; representar legalmente a la Dependencia ante las autoridades en materia penal tanto administrativas como jurisdiccionales y con tal carácter intervenir en los Mecanismos Alternativos de Solución de Controversias previstos en la ley de la materia; otorgar perdón, así como gestionar la liberación y devolución de bienes de activo fijo de la Secretaría relacionados con carpetas de investigación, procedimientos judiciales o administrativos de cualquier naturaleza;
 
 XII. Fungir como instancia de apoyo jurídico de la Secretaría en el sistema procesal penal acusatorio ejerciendo todas las prerrogativas y facultades que se contemplen en la legislación aplicable siendo estas de manera enunciativa más no limitativa: formular cualquier medio de impugnación para recurrir las resoluciones judiciales y determinaciones administrativas; intervenir, representar y consentir las formas de terminación anticipada de la investigación y del proceso penal, así como las soluciones alternas de los procedimientos penales, siempre y cuando se haya reparado el daño material que hubiere sufrido la Dependencia, o bien, se establezca de manera expresa por las partes la forma en que se resarcirá; representar los intereses de la Dependencia en los procedimientos de ejecución de penas que contemple la legislación aplicable; así como autorizar a los servidores públicos de la propia Unidad de Apoyo Jurídico para representar legalmente a la Dependencia en el ejercicio de las presentes atribuciones mediante oficio suscrito por la persona Titular de la Unidad de Apoyo Jurídico, o bien, por los servidores públicos que puedan suplirlo por ausencia;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XII Bis. Coordinar las acciones necesarias para hacer del conocimiento de las autoridades fiscalizadoras, jurisdiccionales y ministeriales, según corresponda, las posibles conductas irregulares en el ejercicio del servicio público, que le hagan de su conocimiento u observe en el ejercicio de sus funciones;
 
 XIII. Transigir en representación de la Secretaría, dentro de cualquier procedimiento jurisdiccional o administrativo, siempre y cuando la materia de esta sea un bien jurídicamente disponible y conforme a las disposiciones jurídicas aplicables;
 
@@ -581,7 +629,9 @@ XXXVI. Formar parte de la Comisión de Estudios Jurídicos del Gobierno Federal,
 
 XXXVII. Fungir como enlace de la Secretaría ante la Secretaría de Relaciones Exteriores, para atender y procesar las quejas y denuncias presentadas ante instituciones y organismos internacionales en contra del Estado mexicano, en asuntos en los que la Secretaría deba ejercer su derecho de defensa.
 
-La persona Titular de la Unidad de Apoyo Jurídico será auxiliada en el ejercicio de sus facultades por la persona Titular de la Dirección General de Legislación y Consulta; las personas Titulares de las Direcciones Generales Adjuntas de lo Contencioso, y de Convenios y Contratos; conforme a sus atribuciones, así como de las personas Titulares de las Direcciones de Asuntos Contenciosos; de Asuntos Laborales; de Cámaras Empresariales y Desarrollo Regional; de Asuntos Penales, y demás unidades subalternas en términos del artículo 11 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+La persona Titular de la Unidad de Apoyo Jurídico será auxiliada en el ejercicio de sus facultades por las personas Titulares de las Direcciones Generales de Legislación y Consulta; y de Procedimientos Constitucionales y Legales; las personas Titulares de las Coordinaciones de Convenios y Contratos, y de lo Contencioso; conforme a sus atribuciones, así como de las personas Titulares de las Direcciones de Asuntos Contenciosos; de Asuntos Laborales; de Cámaras Empresariales y Desarrollo Regional; de Asuntos Penales; de Apoyo Jurídico, y demás unidades subalternas en términos del artículo 11 de este Reglamento.
 
 ###### ARTÍCULO 15.
 
@@ -625,7 +675,9 @@ XVIII. Promover la suscripción de convenios y acuerdos con dependencias y organ
 
 XIX. Promover la realización de cursos, seminarios y programas en los que se difunda el conocimiento sobre la evaluación y monitoreo de programas de fomento al desarrollo económico;
 
-XX. Dictaminar los asuntos y trámites que competen a la Secretaría en materia de comercio exterior e interior, industria, minas, normas e inversión extranjera, y expedir las resoluciones correspondientes, en coordinación con las unidades administrativas competentes y sin perjuicio de la competencia de estas cuando los trámites y asuntos deban resolverse por estas últimas, en cuyo caso, la Unidad remitirá los trámites o asuntos a estas, para los efectos conducentes, y
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XX. Coordinar las acciones de las áreas a su cargo para dictaminar los asuntos y trámites que competan a la Secretaría en materia de comercio exterior e interior, industria, minas, normas e inversión extranjera, y para expedir las resoluciones correspondientes, así como respecto de los diversos servicios de la Secretaría a la ciudadanía en el territorio nacional, y
 
 XXI. Proponer a la persona Titular de la Secretaría la adecuación de programas, procesos e instrumentos operativos para su mejora.
 
@@ -637,133 +689,95 @@ b) La Dirección General de Innovación de Trámites, respecto del ejercicio de 
 
 c) La Dirección General de Vinculación con el Sector Coordinado, respecto del ejercicio de las facultades establecidas en las fracciones IV, IX, XI y XVIII de este artículo, en lo que respecta a las acciones que desarrollen los órganos administrativos desconcentrados y entidades paraestatales sectorizadas a la Secretaría, con la finalidad de asesorarlos y apoyarlos en el seguimiento de los procesos para la elaboración de programas sectoriales o sus respectivos programas institucionales, así como de aquellos proyectos que aseguren el cumplimiento de sus funciones, e (sic)
 
-d) Las personas titulares de las jefaturas de departamento de Trámites y Servicios; de Minas, y de lo Administrativo, respecto del ejercicio de la facultad establecida en la fracción XX de este artículo.
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+d) La Dirección General de Coordinación Territorial de Trámites y Servicios de Economía conforme a sus atribuciones.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 15 BIS.- La Unidad de Coordinación de Actividades Extractivas tiene las atribuciones siguientes:
+
+I. Coordinar el desarrollo de las actividades del Estado mexicano en materia minera, a que se refiere el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Coordinar la implementación de las atribuciones que, en materia minera, se confieren a la Secretaría en la Ley Minera, la Ley de Hidrocarburos, la Ley de la Industria Eléctrica y en las disposiciones reglamentarias que derivan de las leyes citadas con la participación que corresponda al sector paraestatal al que se refiere la fracción III de este artículo;
+
+III. Coordinar a las entidades paraestatales, Servicio Geológico Mexicano, Fideicomiso de Fomento Minero y Exportadora de Sal, S.A. de C.V., para la implementación de las acciones relacionadas con la planeación estratégica de la política minera y el programa sectorial de la Secretaría, en el ámbito de su competencia;
+
+IV. Formular los programas correspondientes en materia minera que se establecen en la Ley Minera, con la participación que corresponda a la Unidad de Prospectiva, Planeación y Evaluación, así como llevar a cabo las acciones necesarias para su cumplimiento;
+
+V. Representar a la Secretaría en foros y eventos nacionales e internacionales en asuntos relativos a la minería;
+
+VI. Coordinar las acciones de la Secretaría para el fomento de la inversión nacional y extranjera en el sector minero, con la intervención que corresponda a la Unidad de Inteligencia Económica Global;
+
+VII. Coordinar la relación que corresponda con las cámaras empresariales, empresas mineras, y con los demás actores de los sectores privado y académico en la materia, para el adecuado desarrollo de la industria;
+
+VIII. Establecer los esquemas de participación de la Secretaría en las actividades relacionadas con el sector minero;
+
+IX. Conducir las acciones que se requieran para el cumplimiento de las políticas públicas en la materia, y evaluar su funcionamiento con la participación que corresponda a la Unidad de Prospectiva, Planeación y Evaluación;
+
+X. Coordinar las acciones que correspondan a la Secretaría para la aplicación de los recursos recaudados por concepto de derechos mineros;
+
+XI. Proponer a la persona Titular de la Secretaría esquemas que permitan el fortalecimiento y desarrollo del sector minero, y realizar las acciones necesarias, en coordinación con los tres órdenes de gobierno, así como con la participación de las cámaras empresariales y sus confederaciones cuando así corresponda;
+
+XII. Coordinar las labores necesarias de la Secretaría para la relación con las entidades federativas, municipios y alcaldías de la Ciudad de México; así como con las organizaciones de los sectores privado y social, vinculados con la industria minera, para la realización de acciones conjuntas con dichos entes públicos o complementarias de otras unidades administrativas de la Secretaría, o para el intercambio de información y apoyo técnico;
+
+XIII. Promover acciones que permitan que la industria minera cumpla con las medidas de protección al ambiente en sus operaciones, en coordinación con las demás autoridades competentes de la Administración Pública Federal;
+
+XIV. Promover acciones que permitan el respeto a los derechos humanos en la actividad minera;
+
+XV. Solicitar a las entidades paraestatales referidas en la fracción III del presente artículo, la información y documentación necesaria a efecto de conocer el desempeño y gestión administrativa, presupuestal y financiera de dichas entidades;
+
+XVI. Acordar con la persona Titular de la Secretaría el despacho de los asuntos encomendados a las unidades administrativas adscritas a su responsabilidad e informarle oportunamente sobre los mismos, y
+
+XVII. Participar en la elaboración de los anteproyectos de iniciativas de leyes o decretos legislativos, reglamentos, decretos, acuerdos y demás disposiciones de observancia general, respecto de los asuntos de su competencia.
+
+La persona Titular de la Unidad de Coordinación de Actividades Extractivas será auxiliada en el ejercicio de sus facultades por las personas titulares de las Direcciones Generales de Desarrollo Minero y de Minas conforme a sus atribuciones, y demás unidades subalternas en términos del artículo 11 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 16.
 
-La Unidad de Competitividad y Competencia tiene las atribuciones siguientes:
+La Unidad de Normatividad, Competitividad y Competencia tiene las atribuciones siguientes:
 
-I. Diseñar, para proponer a su superior jerárquico, políticas públicas que permitan:
+I. Coordinar la implementación de políticas públicas en materia de competitividad a nivel nacional;
 
-a) El funcionamiento eficiente de los mercados y el desarrollo económico del país, e (sic)
+II. Proponer a la persona Titular de la Secretaría políticas públicas para fomentar la competencia en los mercados, e impulsar el crecimiento económico;
 
-b) Fomentar la actividad empresarial, incrementar la competitividad y mejorar el ambiente de negocios;
+III. Representar a la Secretaría en foros y eventos nacionales e internacionales en asuntos relativos al funcionamiento eficiente de los mercados, desarrollo económico, fomento de la actividad empresarial, incremento de la competitividad y mejora del ambiente de negocios;
 
-II. Promover la realización de foros y estudios en donde se analicen y generen propuestas para el diseño y fortalecimiento de las políticas públicas a que se refiere la fracción anterior;
+IV. Coordinar la formulación de solicitudes que la Secretaría deba realizar a la Comisión Federal de Competencia Económica o al Instituto Federal de Telecomunicaciones, así como informar a estas de las posibles prácticas prohibidas en términos de las disposiciones aplicables;
 
-III. Promover la celebración de convenios con las demás dependencias y entidades de la Administración Pública Federal, así como con las entidades federativas, los municipios y las alcaldías de la Ciudad de México en las materias de la competencia de la Secretaría, en términos de lo dispuesto en la Ley Orgánica de la Administración Pública Federal y el presente Reglamento;
+V. Opinar a las unidades administrativas competentes de la Secretaría sobre la fijación de precios máximos a que se refiere el artículo 9 de la Ley Federal de Competencia Económica, cuando así se lo soliciten;
 
-IV. Coadyuvar con las dependencias y entidades de la Administración Pública Federal en la implementación y evaluación de políticas públicas para fomentar la competencia en los mercados, e impulsar el crecimiento económico;
+VI. Coordinar la elaboración de estudios en materia de funcionamiento eficiente de los mercados;
 
-V. Solicitar a la Comisión Federal de Competencia Económica o al Instituto Federal de Telecomunicaciones:
+VII. Dirigir las acciones de la Secretaría en el Comité Nacional de Productividad;
 
-a) El inicio de una investigación de carácter preferente, de conformidad con el artículo 66 de la Ley Federal de Competencia Económica;
+VIII. Coordinar acciones con los sectores público, social y privado para la promoción y desarrollo de la competitividad del país;
 
-b) El inicio de un procedimiento de investigación, de conformidad con el artículo 94 de la Ley Federal de Competencia Económica;
+IX. Coadyuvar en la difusión y promoción de los avances del Gobierno Federal en materia de competitividad;
 
-c) El inicio de un procedimiento de conformidad con el artículo 96 de la Ley Federal de Competencia Económica;
+X. Autorizar la emisión de acuerdos de equivalencia para reconocer o aceptar unilateral o recíprocamente los reglamentos técnicos extranjeros, o los resultados de la Evaluación de la Conformidad que lleven a cabo las entidades internacionales o extranjeras;
 
-d) El inicio de un procedimiento de conformidad con el artículo 98 de la Ley Federal de Competencia Económica, e (sic)
+XI. Fomentar el desarrollo e implementación de una normativa mercantil clara y eficaz, así como de los procesos de normalización, estandarización, acreditación, evaluación de la conformidad y metrología;
 
-e) Opinión de conformidad con las fracciones XII, XIII, XIV, XV y XVIII del artículo 12 de la Ley Federal de Competencia Económica;
+XII. Promover el fortalecimiento de la competitividad y conocer de las solicitudes que señale la Ley Federal de Competencia Económica respecto de la realización de investigaciones, procedimientos especiales y opiniones;
 
-VI. Informar a la Comisión Federal de Competencia Económica o al Instituto Federal de Telecomunicaciones sobre hechos que puedan constituir prácticas prohibidas por la Ley Federal de Competencia Económica, o sobre la existencia de barreras a la competencia o insumos esenciales que afecten el proceso de competencia y libre concurrencia, dar seguimiento al curso de las acciones derivadas de dichos informes y, en general, coadyuvar con dichos órganos constitucionales autónomos para la efectiva aplicación de la Ley citada;
+XIII. Dirigir las acciones de la Secretaría en relación con el Código de Comercio, la Ley General de Sociedades Mercantiles y otras leyes afines;
 
-VII. Fungir como enlace por parte de la Secretaría con la Comisión Federal de Competencia Económica y el Instituto Federal de Telecomunicaciones para los efectos jurídicos aplicables, así como para el desarrollo de proyectos conjuntos en materia de competencia y eficiencia de los mercados;
+XIV. Conducir las acciones relativas para la operación del Registro Público de Comercio a nivel federal;
 
-VIII. Opinar a las unidades administrativas competentes de la Secretaría sobre la fijación de precios máximos a que se refiere el artículo 9 de la Ley Federal de Competencia Económica, cuando así se lo soliciten;
+XV. Proponer políticas públicas y programas para la agilización de trámites para la constitución de empresas y la conducción de los negocios en territorio nacional;
 
-IX. Solicitar a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, la información necesaria para el cumplimiento de sus atribuciones;
+XVI. Acordar con la persona Titular de la Secretaría el despacho de los asuntos encomendados a las unidades administrativas adscritas a su responsabilidad e informarle oportunamente sobre los mismos, y
 
-X. Proponer y promover, en materia de su competencia, mecanismos de cooperación a nivel internacional en coordinación con la Subsecretaría de Comercio Exterior y demás autoridades competentes;
+XVII. Participar en la elaboración de los anteproyectos de iniciativas de leyes o decretos legislativos, reglamentos, decretos, acuerdos y demás disposiciones de observancia general, respecto de los asuntos de su competencia.
 
-XI. Fungir, en su ámbito de competencia, como enlace con organismos nacionales e internacionales para la generación de indicadores y propuestas de política pública para el funcionamiento eficiente de los mercados y mejorar el ambiente de negocios;
-
-XII. Organizar, coordinar, participar y representar a la Secretaría en foros, nacionales o internacionales, en las materias de competitividad, competencia económica y diseño de políticas públicas para el funcionamiento eficiente de los mercados y el desarrollo económico y, en su caso, coordinar e implementar los compromisos asumidos;
-
-XIII. Realizar o, en su caso, coordinar la elaboración de estudios en materia de funcionamiento eficiente de los mercados;
-
-XIV. Identificar los principales factores que inhiben la competitividad y comunicarlos al Comité Nacional de Productividad, a fin de orientar las propuestas de política correspondientes;
-
-XV. Ejecutar y operar programas e instrumentos que estimulen la mejora de la productividad en las regiones y sectores industriales del país con el fin de promover la competitividad;
-
-XVI. Dar seguimiento a las estrategias, líneas de acción e indicadores de los programas derivados del Plan Nacional de Desarrollo, correspondiente, vinculados a la competitividad, para contribuir al análisis del impacto de las acciones de gobierno en el desempeño del país, en los indicadores nacionales e internacionales de competitividad;
-
-XVII. Participar con los sectores público, social y privado en el diseño e implementación de agendas transversales, sectoriales y regionales que promuevan la competitividad del país;
-
-XVIII. Participar y, en su caso, coordinar la operación y fortalecimiento de los órganos colegiados, comités o mecanismos interinstitucionales constituidos por instancias público-privadas en materia de competitividad;
-
-XIX. Registrar y dar seguimiento a los acuerdos adoptados por las instancias previstas en la fracción anterior;
-
-XX. Coadyuvar en la difusión y promoción de los avances del Gobierno Federal en materia de competitividad;
-
-XXI. Realizar actividades de investigación y análisis en materia de competitividad;
-
-XXII. Coadyuvar en las acciones que se orienten a posicionar a México en los indicadores de competitividad que emitan los organismos nacionales e internacionales;
-
-XXIII. Participar con la Secretaría de Hacienda y Crédito Público en la elaboración del Programa Especial para la Productividad y la Competitividad, en términos de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional y demás disposiciones jurídicas aplicables, y
-
-XXIV. Ejercer las atribuciones que en materia de competitividad se otorgan a la Secretaría en disposiciones legales y que no están delegadas o conferidas expresamente a otra unidad administrativa.
-
-La persona Titular de la Unidad de Competitividad y Competencia será auxiliada en el ejercicio de sus facultades por las personas Titulares de las Direcciones de Competencia y Eficiencia en los Mercados; de Análisis de Competencia; de Análisis Jurídico y Regulatorio; de Enlace y Gestión de Políticas Públicas, y de Procesos, y demás unidades subalternas en términos del artículo 11 de este Reglamento.
+La persona Titular de la Unidad de Normatividad, Competitividad y Competencia será auxiliada, respecto del ejercicio de las facultades establecidas en las fracciones II, VI, VII, VIII, IX y XVII, por la persona Titular de la Dirección General de Apoyo Técnico.
 
 ###### ARTÍCULO 17.
 
-La Unidad de Contenido Nacional y Fomento de Cadenas Productivas e Inversión en el Sector Energético tiene las atribuciones siguientes:
-
-I. Establecer la meta de contenido nacional en términos del artículo 46 de la Ley de Hidrocarburos;
-
-II. Ordenar y supervisar la elaboración de los proyectos de las metodologías que servirán para medir el contenido nacional en la industria de hidrocarburos y el grado de contenido nacional en la industria eléctrica y proponer dichos proyectos a consideración y, en su caso, aprobación de su superior jerárquico;
-
-III. Ordenar y supervisar la elaboración, así como someter a consideración y, en su caso, aprobación de su superior jerárquico, los proyectos de las disposiciones que indiquen la forma en la que deberán informar a la Secretaría:
-
-a) Los asignatarios, contratistas y permisionarios a que se refiere la Ley de Hidrocarburos, sobre el contenido nacional en las actividades que estos realizan, e (sic)
-
-b) Las empresas de la industria eléctrica, sobre el grado de contenido nacional en las actividades que estos realizan;
-
-IV. Llevar el control y seguimiento de los resultados derivados de la verificación del cumplimiento de las metas de contenido nacional establecidas en las asignaciones y contratos de exploración y extracción de hidrocarburos;
-
-V. Supervisar la verificación del contenido nacional en asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, así como en la industria eléctrica, en términos de la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
-
-VI. Revisar y requerir la información a un tercero independiente o a las autoridades competentes para verificar el contenido nacional en asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, así como en la industria eléctrica, en términos de la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
-
-VII. Revisar y requerir, en su caso, la información a las empresas de la industria de hidrocarburos y de la industria eléctrica sobre el contenido nacional en las actividades que realicen, en términos de las disposiciones jurídicas aplicables;
-
-VIII. Emitir la opinión solicitada por la Secretaría de Energía, respecto:
-
-a) Del porcentaje mínimo de contenido nacional que deberán cumplir individualmente y de forma progresiva los asignatarios y contratistas para la exploración y extracción de hidrocarburos, conforme a la Ley de Hidrocarburos, e (sic)
-
-b) Del porcentaje mínimo de contenido nacional que deberán cumplir las empresas de la industria eléctrica en cada contrato o asociación cuyo objeto sea la instalación o ampliación de la infraestructura necesaria para prestar el servicio público de transmisión y distribución de energía eléctrica;
-
-IX. Definir, con la opinión de la Secretaría de Energía, las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica, conforme a la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
-
-X. Supervisar el seguimiento al avance de las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica;
-
-XI. Proponer a su superior jerárquico, y publicar el informe sobre los avances en la implementación de las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica;
-
-XII. Coordinar y verificar la operación de fideicomisos y demás instrumentos enfocados a la ejecución de la política nacional en materia de contenido nacional y desarrollo de proveedores y contratistas de la industria energética conforme a lo dispuesto en la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
-
-XIII. Supervisar y coordinar los trabajos para identificar los sectores industriales y las regiones en que se enfocará la estrategia para el fomento de cadenas productivas locales, a efecto de coadyuvar en la implementación de la política nacional de fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica;
-
-XIV. Participar, con la Unidad de Inteligencia Económica Global, en la formulación y coordinación de estrategias de inversión para el fomento a la participación directa de empresas mexicanas para llevar a cabo, por sí mismas, las actividades en la industria de hidrocarburos y eléctrica;
-
-XV. Participar, con la Unidad de Inteligencia Económica Global, en la formulación y coordinación de las estrategias de inversión para promover la asociación entre empresas mexicanas y extranjeras, para llevar a cabo las actividades en la industria de hidrocarburos y eléctrica;
-
-XVI. Participar, con la Unidad de Inteligencia Económica Global, en la promoción de la inversión nacional y extranjera para que se realicen actividades de permanencia en México directamente en la industria de hidrocarburos y eléctrica;
-
-XVII. Participar, con la Unidad de Inteligencia Económica Global, en la promoción de la inversión nacional y extranjera para impulsar la transferencia de tecnología y el conocimiento en la industria de hidrocarburos y eléctrica;
-
-XVIII. Coordinar la elaboración de estudios y programas de promoción de la industria de hidrocarburos y eléctrica;
-
-XIX. Promover esquemas de capacitación y orientación que fomenten la participación de las micro, pequeñas y medianas empresas en las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en la industria de hidrocarburos y eléctrica;
-
-XX. Organizar, coordinar y participar en congresos y eventos relacionados con la promoción de la industria nacional de hidrocarburos y eléctrica que apoyen en la definición de las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en dichas industrias;
-
-XXI. Ejercer las atribuciones conferidas a la Secretaría en la Ley de Transición Energética, para lo cual podrá coordinarse con otras unidades administrativas y órganos administrativos desconcentrados de la Secretaría; con dependencias y entidades de la Administración Pública Federal, así como con Empresas Productivas del Estado, para el cumplimiento de dicho ordenamiento, y
-
-XXII. Imponer las sanciones que corresponden a la Secretaría conforme a lo previsto en la Ley de Hidrocarburos.
-
-La persona Titular de la Unidad de Contenido Nacional y Fomento de Cadenas Productivas e Inversión en el Sector Energético será auxiliada en el ejercicio de sus facultades por las personas Titulares de las Direcciones Generales de Fomento de Cadenas Productivas e Inversión en el Sector Energético; de Contenido Nacional en el Sector Energético, y de Procesos y Programas de Apoyo, conforme a sus atribuciones.
+(DEROGADO, D.O.F. 12 DE ABRIL DE 2021)
 
 ###### ARTÍCULO 18.
 
@@ -773,7 +787,9 @@ I. Proponer al superior jerárquico programas, estrategias y acciones para el ap
 
 II. Apoyar, facilitar e impulsar la creación de micro, pequeñas y medianas empresas;
 
-III. Diseñar y operar, en los términos de las disposiciones jurídicas aplicables, fondos, fideicomisos y demás instrumentos que sean necesarios para implementar la política nacional de apoyo a los emprendedores y a las micro, pequeñas y medianas empresas;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+III. Diseñar y operar, en los términos de las disposiciones jurídicas aplicables, cualquier vehículo financiero, y demás instrumentos normativos que sean necesarios para implementar la política nacional de apoyo a los emprendedores y a las micro, pequeñas y medianas empresas;
 
 IV. Promover y ejecutar las acciones derivadas de la implementación de las políticas públicas transversales de la Administración Pública Federal, en materia de apoyo a los emprendedores y a las micro, pequeñas y medianas empresas;
 
@@ -785,7 +801,9 @@ VII. Desarrollar y ejecutar los programas, estrategias y mecanismos necesarios p
 
 VIII. Promover, previa opinión de la Unidad de Apoyo Jurídico, ante las autoridades competentes, una mejora regulatoria para el desarrollo de las micro, pequeñas y medianas empresas y los emprendedores;
 
-IX. Instaurar y operar el Observatorio Nacional del Emprendedor con el objeto de dar seguimiento y obtener datos, análisis, estudios, estadísticas, casos de éxito, modelos replicables y otra información de utilidad para la generación, actualización y toma de decisiones en la instrumentación de las políticas públicas a favor de los emprendedores y las micro, pequeñas y medianas empresas del país, observando las disposiciones legales en materia de información estadística;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+IX. Instaurar y operar una plataforma electrónica con el objeto de dar seguimiento y obtener datos, análisis, estudios, estadísticas, casos de éxito, modelos replicables, facilitar capacitaciones y el desarrollo de empresas, así como otra información de utilidad para la generación, actualización y toma de decisiones en la instrumentación de las políticas públicas a favor de los emprendedores y las micro, pequeñas y medianas empresas del país, observando las disposiciones legales en materia de información estadística;
 
 X. Realizar estudios e investigaciones en materia de innovación, desarrollo tecnológico, cadenas productivas, desarrollo de proveedores, agrupamientos empresariales y de sectores industriales, el acceso a mercados y otros relacionados con el desarrollo y competitividad de las micro, pequeñas y medianas empresas y los emprendedores;
 
@@ -831,13 +849,53 @@ XXX. Ordenar y practicar, en el ámbito de sus atribuciones, visitas de verifica
 
 XXXI. Llevar a cabo la defensa de los intereses de la Secretaría que tengan relación con los programas a cargo de la Unidad, sin perjuicio de las facultades de la persona Titular de la Unidad de Apoyo Jurídico y las unidades administrativas adscritas a esta.
 
-La persona Titular de la Unidad de Desarrollo Productivo será auxiliada en el ejercicio de sus facultades por las personas Titulares de las Direcciones Generales de Desarrollo Productivo; de Financiamiento y Apoyo; de Seguimiento a Compromisos Institucionales; de Control y Procedimientos, conforme a sus atribuciones. Asimismo, se auxiliará por la persona Titular de la Dirección General de Operación, en ejercicio de las facultades señaladas en las fracciones VI y XXIV de este artículo.
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+La persona Titular de la Unidad de Desarrollo Productivo será auxiliada en el ejercicio de sus facultades por las personas Titulares de las Direcciones Generales de Desarrollo Productivo; de Financiamiento y Apoyo; de Seguimiento a Compromisos Institucionales, y de Control y Procedimientos, conforme a sus atribuciones. Asimismo, se auxiliará por la persona Titular de la Dirección General de Operación, en ejercicio de las facultades señaladas en las fracciones VI, XXII, XXIV y XXX de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 18 BIS.- La Unidad de Fomento y Crecimiento Económico tiene las atribuciones siguientes:
+
+I. Coordinar el diseño de acciones, políticas, programas en materia de inversión, desarrollo económico y fortalecimiento de las fuentes de empleo en el país;
+
+II. Realizar estudios o investigaciones sobre el posible impacto de nuevas acciones o políticas públicas a cargo del Estado en materia de inversión y desarrollo económico, con el fin de lograr los objetivos estratégicos de crecimiento;
+
+III. Promover las acciones o políticas en materia industrial y tecnológica, que permitan elevar el contenido nacional de estos y reconstruir las cadenas de valor;
+
+IV. Promover las acciones que permitan impulsar el desarrollo de los sectores productivos, para generar más y mejores empresas tendientes a crear empleos mejor remunerados;
+
+V. Promover las acciones o políticas encaminadas a la generación e integración de cadenas productivas para contribuir al fortalecimiento del mercado interno;
+
+VI. Coordinar el diseño de acciones o políticas públicas específicas que incentiven el desarrollo tecnológico e innovación en las actividades productivas del país;
+
+VII. Proponer a su superior jerárquico mecanismos efectivos de enlace entre la Administración Pública Federal y los sectores económicos del país a fin de promover la inversión, fomentar el desarrollo económico y fortalecer las fuentes de empleo en el país;
+
+VIII. Proponer a su superior jerárquico acciones que permitan mejorar el fomento a la actividad productiva nacional;
+
+IX. Supervisar los estudios encaminados a proponer actualizaciones al marco jurídico en materia de inversión, desarrollo económico y fortalecimiento de las fuentes de empleo en el país, en coordinación con las autoridades competentes de la Administración Pública Federal;
+
+X. Promover las acciones que permitan al Estado impulsar el crecimiento incluyente en áreas de inversión y desarrollo económico prioritarias para el país;
+
+XI. Formular propuestas de solución a las problemáticas de política pública o de coyuntura económica o de ambas, en materia de inversión, desarrollo económico y fortalecimiento de las fuentes de empleo en el país;
+
+XII. Coordinar la participación de los grupos de trabajo sectoriales o transversales y consejos regionales que se requieran para atender las problemáticas identificadas en materia de inversión, desarrollo económico y fortalecimiento de las fuentes de empleo en el país, sin perjuicio de las competencias que correspondan a otras unidades administrativas de la Secretaría;
+
+XIII. Coordinar las acciones de la Secretaría en relación con el Consejo Nacional para el Fomento a la Inversión, el Empleo y Crecimiento Económico, así como proponer asuntos que deban someterse a consideración del mismo;
+
+XIV. Vigilar la debida ejecución de los acuerdos del Consejo Nacional para el Fomento a la Inversión, el Empleo y Crecimiento Económico, de los grupos de trabajo y consejos regionales;
+
+XV. Supervisar los asuntos que se sometan a consideración del Consejo Nacional para el Fomento a la Inversión, el Empleo y Crecimiento Económico, así como de los acuerdos que al efecto se adopten y los reportes periódicos sobre el grado de avance en el cumplimiento de los mismos, y
+
+XVI. Proponer a su superior jerárquico mecanismos que promuevan la integración regional de sectores para el fomento y crecimiento económico.
 
 ###### ARTÍCULO 19.
 
 La Unidad de Prácticas Comerciales Internacionales tiene las atribuciones siguientes:
 
-I. Iniciar, admitir, desechar, declarar el abandono, tramitar, suspender, concluir e imponer o, en su caso, eliminar o revocar las cuotas compensatorias o medidas de salvaguarda que resulten de los procedimientos en materia de prácticas desleales de comercio internacional y medidas de salvaguarda previstos en la Ley de Comercio Exterior y demás disposiciones jurídicas aplicables, incluidos los tratados comerciales internacionales suscritos por México, así como firmar las resoluciones y demás actos administrativos que resulten de dichos procedimientos;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+I. Admitir, desechar o declarar el abandono de las solicitudes de inicio de investigación en materia de prácticas desleales y de medidas de salvaguarda, así como iniciar, tramitar, suspender y/o concluir dichos procedimientos. Imponer o, en su caso, modificar, eliminar o revocar las cuotas compensatorias o medidas de salvaguarda que resulten de los procedimientos en materia de prácticas desleales de comercio internacional y medidas de salvaguarda previstos en la Ley de Comercio Exterior y demás disposiciones jurídicas aplicables, incluidos los tratados comerciales internacionales suscritos por México, así como firmar las resoluciones y demás actos administrativos que resulten de dichos procedimientos;
 
 II. Ordenar y practicar visitas de verificación, inspección y reconocimiento a cualquier persona física o moral involucrada en los procedimientos a que se refiere la fracción I de este artículo, ya sea en territorio nacional o en el extranjero, conforme a lo previsto en la Ley de Comercio Exterior, su Reglamento y demás disposiciones jurídicas aplicables, con el objeto de verificar o precisar la información presentada en el curso de los procedimientos, o de obtener más detalles;
 
@@ -873,7 +931,9 @@ XVII. Participar con la Dirección General de Consultoría Jurídica de Comercio
 
 XVIII. Llevar un seguimiento sistemático de las resoluciones administrativas de su competencia, e integrar criterios y precedentes en la materia.
 
-La persona Titular de la Unidad de Prácticas Comerciales Internacionales será auxiliada en el ejercicio de sus facultades por las personas Titulares de la Dirección General de Defensa Comercial Internacional, y las Direcciones Generales Adjuntas Jurídica, Jurídica Internacional, de Dumping y Subvenciones, de Daño y Salvaguardas, y de Análisis Financiero y Contable, conforme a sus atribuciones, así como por las personas Titulares de las Direcciones de Procedimientos Administrativos “A”, “B”, “C”, “D”, “E” y “F”; de Asuntos Internacionales “A”, “B” y “C”; de Análisis de Dumping y Subvenciones “A”, “B”, “C” y “D”; de Verificación “A” y “B”; de Análisis de Daño y Salvaguardas “A”, “B”, “C” y “D”; de Investigación Económica y Financiera; y de Enlace y Centro de Documentación y demás unidades subalternas en términos del artículo 11 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+La persona Titular de la Unidad de Prácticas Comerciales Internacionales será auxiliada en el ejercicio de sus facultades por las personas Titulares de la Dirección General de Defensa Comercial Internacional, y las Coordinaciones Jurídica, Jurídica Internacional, de Dumping y Subvenciones, de Daño y Salvaguardas, y de Análisis Financiero y Contable, conforme a sus atribuciones, así como por las personas Titulares de las Direcciones de Procedimientos Administrativos “A”, “B”, “C”, “D”, “E” y “F”; de Asuntos Internacionales “A”, “B” y “C”; de Análisis de Dumping y Subvenciones “A”, “B”, “C” y “D”; de Verificación “A” y “B”; de Análisis de Daño y Salvaguardas “A”, “B”, “C” y “D”; de Investigación Económica y Financiera; y de Enlace y Centro de Documentación y demás unidades subalternas en términos del artículo 11 de este Reglamento.
 
 ###### ARTÍCULO 20.
 
@@ -885,17 +945,35 @@ II. Proponer, a la persona Titular de la Unidad de Prácticas Comerciales Intern
 
 III. Formular, a la persona Titular de la Unidad de Prácticas Comerciales Internacionales, propuestas de estudios y recomendaciones relacionados con las investigaciones y negociaciones en materia de prácticas desleales de comercio internacional y medidas de salvaguarda;
 
-IV. Participar en foros y eventos organizados por los organismos nacionales e internacionales relacionadas (sic) con prácticas desleales de comercio internacional y medidas de salvaguarda;
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+III Bis. Supervisar y aprobar los dictámenes técnicos y las metodologías utilizadas en materia de dumping, subvenciones, análisis financiero, daño y salvaguardas correspondientes a los procedimientos tramitados por la Unidad de Prácticas Comerciales Internacionales;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+III Ter. Supervisar y aprobar la formulación de los actos administrativos que deban dictarse como parte de la tramitación en los procedimientos en materia de prácticas desleales de comercio internacional y de medidas de salvaguarda;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+III Quater. Supervisar y aprobar la emisión de los requerimientos de información y toda clase de documentos adicionales en materia de dumping, subvenciones, análisis financiero, daño y salvaguardas correspondientes a los procedimientos tramitados por la Unidad de Prácticas Comerciales Internacionales;
+
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+IV. Participar en foros y eventos organizados por los organismos nacionales e internacionales relacionados con prácticas desleales de comercio internacional y medidas de salvaguarda;
 
 V. Opinar y participar, en coordinación con las demás áreas competentes de la Secretaría, en las negociaciones comerciales internacionales en materia de prácticas desleales de comercio internacional y medidas de salvaguarda;
 
-VI. Dar seguimiento a la participación de la Unidad de Prácticas Comerciales Internacionales y de los exportadores mexicanos involucrados en procedimientos en materia de prácticas de comercio internacional, y
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+VI. Dar seguimiento y apoyar la participación de la Unidad de Prácticas Comerciales Internacionales en la asistencia técnica a los exportadores mexicanos y defensa de los intereses nacionales en procedimientos en materia de prácticas desleales de comercio internacional y medidas de salvaguarda tramitados por autoridades extranjeras en contra de las exportaciones originarias de México, y
 
 VII. Participar en la defensa de las resoluciones que emita la Unidad de Prácticas Comerciales Internacionales en los procedimientos de solución de controversias conforme a los tratados internacionales de los que México sea parte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 21.
 
-La Dirección General Adjunta de Análisis Financiero y Contable tiene las atribuciones siguientes:
+La Coordinación de Análisis Financiero y Contable tiene las atribuciones siguientes:
 
 I. Coordinar los procesos, estudios e investigaciones sobre la situación financiera de la industria nacional y la identificación de los efectos derivados del ingreso de:
 
@@ -923,9 +1001,11 @@ X. Proponer, validar y aclarar metodologías en materias financiera y contable r
 
 XI. Las demás que le confieran otras disposiciones legales o administrativas en el ámbito de su competencia, así como las que le encomiende su superior jerárquico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 22.
 
-La Dirección General Adjunta de Daño y Salvaguardas tiene las atribuciones siguientes:
+La Coordinación de Daño y Salvaguardas tiene las atribuciones siguientes:
 
 I. Dirigir los procesos que tengan por objeto determinar el posible daño ocasionado a los productores nacionales en las investigaciones en materia de prácticas desleales de comercio internacional;
 
@@ -949,9 +1029,11 @@ X. Evaluar los resultados de las investigaciones en materia de daño, causado po
 
 XI. Las demás que le confieran otras disposiciones legales o administrativas en el ámbito de su competencia, así como las que le encomiende su superior jerárquico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 23.
 
-La Dirección General Adjunta de Dumping y Subvenciones tiene las atribuciones siguientes:
+La Coordinación de Dumping y Subvenciones tiene las atribuciones siguientes:
 
 I. Dirigir los procesos que tengan por objeto determinar la existencia de dumping y de subvenciones, en las investigaciones en materia de prácticas desleales de comercio internacional;
 
@@ -973,9 +1055,11 @@ IX. Coadyuvar en las visitas de verificación, inspección y reconocimiento que 
 
 X. Las demás que le confieran otras disposiciones legales o administrativas en el ámbito de su competencia, así como las que le encomiende su superior jerárquico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 24.
 
-La Dirección General Adjunta Jurídica tiene las atribuciones siguientes:
+La Coordinación Jurídica tiene las atribuciones siguientes:
 
 I. Conducir las investigaciones en materia de prácticas desleales de comercio internacional y medidas de salvaguarda que lleve a cabo la Unidad de Prácticas Comerciales Internacionales;
 
@@ -1005,9 +1089,11 @@ XIII. Coordinar y autorizar la respuesta a las consultas formuladas en el ámbit
 
 XIV. Las demás que le confieran otras disposiciones legales o administrativas en el ámbito de su competencia, así como las que le encomiende su superior jerárquico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 25.
 
-La Dirección General Adjunta Jurídica Internacional tiene las atribuciones siguientes:
+La Coordinación Jurídica Internacional tiene las atribuciones siguientes:
 
 I. Coordinar, conducir e intervenir, con apego en lo dispuesto en los tratados de los que México forma parte y sin perjuicio de la participación que corresponda a la Dirección General de Consultoría Jurídica de Comercio Internacional, ni de las atribuciones conferidas a la Unidad de Apoyo Jurídico; en las estrategias de defensa de las resoluciones emitidas por la Unidad de Prácticas Comerciales Internacionales en los procedimientos de solución de controversias sobre:
 
@@ -1125,33 +1211,47 @@ La persona Titular de la Unidad de Negociaciones Comerciales Internacionales ser
 
 ###### ARTÍCULO 28.
 
-La Coordinación del Programa Prioritario de Microcréditos para el Bienestar tiene las siguientes atribuciones:
+(DEROGADO, D.O.F. 12 DE ABRIL DE 2021)
 
-I. Implementar, en coordinación con la Unidad de Prospectiva, Planeación y Evaluación, las acciones encaminadas al diseño, operación, supervisión, evaluación y seguimiento del programa prioritario de Microcréditos para el Bienestar;
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-II. Proponer a la persona Titular de la Secretaría acciones de mejora del programa prioritario de Microcréditos para el Bienestar, tomando en consideración la opinión de la Unidad de Prospectiva, Planeación y Evaluación;
+ARTÍCULO 28 BIS.- La Dirección General de Coordinación Territorial de Trámites y Servicios de Economía tiene las atribuciones siguientes:
 
-III. Preparar y presentar a su superior jerárquico, informes de evaluación para la persona Titular de la Secretaría, del programa prioritario de Microcréditos para el Bienestar, consultando para ello a la Unidad de Prospectiva, Planeación y Evaluación;
+I. Organizar, coordinar y supervisar la implementación de las políticas, programas y acciones a cargo de la Secretaría en las entidades federativas;
 
-IV. Informar periódicamente a la persona Titular de la Secretaría sobre los avances del programa prioritario de Microcréditos para el Bienestar para supervisar su funcionamiento;
+II. Coordinar la participación de la Secretaría, por conducto de las Oficinas de Representación en las entidades federativas, ante las autoridades de su circunscripción, organizaciones, cámaras empresariales y confederaciones previstas en la Ley de la materia y asociaciones, consejos, comisiones y comités, en materia de promoción y fomento, así como dar seguimiento a los compromisos contraídos;
 
-V. Monitorear el desempeño y operación del programa prioritario de Microcréditos para el Bienestar en las zonas geográficas de dispersión de recurso con motivo de la implementación del programa, en coordinación con entidades federativas, municipios y alcaldías de la Ciudad de México, conforme a las disposiciones jurídicas aplicables y previa consulta con la Unidad de Prospectiva, Planeación y Evaluación;
+III. Establecer, a propuesta de las unidades administrativas de la Secretaría, los criterios para la aplicación de las políticas y programas de la Secretaría en las entidades federativas, así como supervisar y evaluar su implementación;
 
-VI. Definir, en coordinación con la Unidad de Prospectiva, Planeación y Evaluación, metodologías que aseguren la correcta evaluación del programa prioritario de Microcréditos para el Bienestar;
+IV. Establecer, en coordinación con las unidades administrativas correspondientes de la Secretaría, las prioridades y metas para la operación de los programas en las Oficinas de Representación en las entidades federativas, de acuerdo a los objetivos institucionales;
 
-VII. Promover mecanismos y medios de colaboración con dependencias y entidades de la Administración Pública Federal para incentivar la operación del programa prioritario de Microcréditos para el Bienestar;
+V. Definir los criterios y parámetros de medición de resultados para la evaluación de la gestión de las Oficinas de Representación en las entidades federativas, según lo establecido por la Unidad de Prospectiva, Planeación y Evaluación;
 
-VIII. Atender, en coordinación con la Unidad de Prospectiva, Planeación y Evaluación, las consultas que le formulen sobre la operación del programa prioritario de Microcréditos para el Bienestar;
+VI. Evaluar la operación de las Oficinas de Representación en las entidades federativas conforme a los criterios, parámetros y metas establecidas, así como los mecanismos para asegurar la calidad en la prestación de los servicios;
 
-IX. Proponer a su superior jerárquico y llevar a cabo estrategias de difusión del programa prioritario de Microcréditos para el Bienestar en las Oficinas de Representación en las entidades federativas y, en su caso, coordinar las acciones que aseguren la atención a los usuarios beneficiarios del programa;
+VII. Coordinar la implementación de las disposiciones administrativas que rijan la operación de las Oficinas de Representación en las entidades federativas;
 
-X. Sugerir, a la Unidad de Prospectiva, Planeación y Evaluación, criterios y parámetros de medición de resultados para la correcta evaluación de los alcances del programa prioritario de Microcréditos para el Bienestar, en lo relativo a la dispersión de los recursos;
+VIII. Instruir a las Oficinas de Representación en las entidades federativas para coadyuvar con los órganos administrativos desconcentrados de la Secretaría en el cumplimiento de sus atribuciones, así como apoyar en la promoción de los programas institucionales de la Secretaría;
 
-XI. Organizar, en coordinación con la Unidad de Prospectiva, Planeación y Evaluación, actividades que permitan a los beneficiarios del programa dar a conocer su opinión respecto del mismo, en donde podrá participar el sector académico, la sociedad civil y las dependencias y entidades de la Administración Pública Federal;
+IX. Elaborar el anteproyecto anual de presupuesto asignado a las Oficinas de Representación en las entidades federativas;
 
-XII. Elaborar, en coordinación con la Unidad de Prospectiva, Planeación y Evaluación, el proyecto de Lineamientos del programa prioritario de Microcréditos para el Bienestar y someterlo a consideración de las autoridades competentes de la Administración Pública Federal y de la persona Titular de la Secretaría, y
+X. Realizar las funciones administrativas de las Oficinas de Representación en las entidades federativas conforme a la normativa en materia de recursos humanos, financieros, materiales, servicios generales e informáticos;
 
-XIII. Las demás que le atribuyan las disposiciones legales o reglamentarias, así como las que le encomienden sus superiores jerárquicos.
+XI. Autorizar y tramitar las solicitudes de pago de los compromisos adquiridos en las Oficinas de Representación en las entidades federativas;
+
+XII. Intervenir, en las adquisiciones, arrendamientos y servicios que se requieran en las Oficinas de Representación en las entidades federativas de acuerdo a la normativa aplicable;
+
+XIII. Tramitar los proyectos para la promoción de negocios, inversiones y exportaciones que se presenten en las Oficinas de Representación en las entidades federativas;
+
+XIV. Brindar información de la normativa, políticas y programas de la Secretaría por conducto del personal de las Oficinas de Representación en las entidades federativas;
+
+XV. Apoyar a los usuarios en los trámites o servicios que deban realizar ante las instancias competentes de la Secretaría en las Oficinas de Representación en las entidades federativas;
+
+XVI. Recibir y dar seguimientos a los asuntos y trámites que competen a la Secretaría en materia de comercio exterior e interior, industria, minas, normas e inversión extranjera, en coordinación con las unidades administrativas competentes, y
+
+XVII. Dictaminar los asuntos y trámites que competen a la Secretaría en materia de comercio exterior e interior, industria, minas, normas e inversión extranjera, y expedir las resoluciones correspondientes, en coordinación con las unidades administrativas competentes y sin perjuicio de la competencia de estas cuando los trámites y asuntos deban resolverse por estas últimas, en cuyo caso, la Dirección General remitirá los trámites o asuntos a estas, para los efectos conducentes.
+
+La persona Titular de la Dirección General de Coordinación Territorial de Trámites y Servicios de Economía será auxiliada en el ejercicio de sus facultades por la Dirección de Trámites y Servicios, así como por el personal adscrito a las Oficinas de Representación en las entidades federativas.
 
 ###### ARTÍCULO 29.
 
@@ -1181,37 +1281,83 @@ XI. Proponer, a su superior jerárquico, las resoluciones o acuerdos que recaiga
 
 XII. Coordinar las labores derivadas de la Ley de Cámaras Empresariales y sus Confederaciones, y de sus disposiciones reglamentarias.
 
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 29 BIS.- La Dirección General de Procedimientos Constitucionales y Legales tiene las atribuciones siguientes:
+
+I. Intervenir en los asuntos de carácter legal en que tenga injerencia la Secretaría, en lo relativo a procedimientos constitucionales y asuntos contenciosos;
+
+II. Opinar consultas que en materia procesal constitucional y en materia contenciosa formulen las unidades administrativas de la Secretaría, incluidos sus órganos administrativos desconcentrados, así como las que lleguen a formular las entidades coordinadas por la Secretaría;
+
+III. Auxiliar a la persona Titular de la Unidad de Apoyo Jurídico en las acciones que deban implementarse para el cumplimiento de los preceptos constitucionales en los asuntos que sean competencia de la Secretaría;
+
+IV. Participar, en coordinación con la Dirección General de Legislación y Consulta, en los procesos de adecuación del orden normativo que rige el funcionamiento de la Secretaría, cuando se trate de normas jurídicas en materia de procedimientos constitucionales, así como de procedimientos contenciosos y laborales;
+
+V. Coordinar las acciones que requiera la persona Titular de la Unidad de Apoyo Jurídico para representar al Presidente de la República en todos los juicios de amparo y trámites en las que la persona Titular de la Secretaría represente al Presidente de la República; asimismo, ejercer directamente esta atribución de la persona Titular de la Unidad de Apoyo Jurídico por suplencia, en caso de ausencia de esta, en términos del párrafo tercero del artículo 70 de este Reglamento;
+
+VI. Intervenir, en representación de la Secretaría, de su Titular o las unidades administrativas de la misma, y de conformidad con las disposiciones jurídicas aplicables, ante los Tribunales Federales y del fuero común, y ante toda autoridad jurisdiccional, administrativa, agraria y del trabajo, en los trámites jurisdiccionales y cualquier otro asunto de carácter legal en que tenga interés e injerencia la Secretaría, con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, nombrar peritos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repreguntar y tachar de falsos a testigos o ratificantes, articular y absolver posiciones, formular denuncias y querellas, desistirse, otorgar perdón, ofrecer y rendir toda clase de pruebas; recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, promover o realizar todos los actos permitidos por las leyes, que favorezcan a los derechos de la Secretaría, o el ejercicio de sus atribuciones, así como para sustituir poder en términos de ley a los representantes que para el efecto señale. Por virtud de esta disposición, se entenderá ratificado por la persona Titular de la misma todo lo que se haga, en los términos de ley, por esta Dirección General y los representantes que acredite, en cada uno de los casos en que intervengan;
+
+VII. Intervenir en nombre y representación de la persona Titular de la Secretaría y de las personas Titulares de las Subsecretarías y demás unidades administrativas de la Secretaría, en los juicios de amparo; en las controversias constitucionales, en las acciones de inconstitucionalidad y en los demás procesos constitucionales en que sea parte la Secretaría, así como suscribir promociones, desahogar trámites y asistir a audiencias y diligencias, que exija el trámite procesal de cualquier otra instancia de carácter judicial o contencioso administrativo en la que sean parte dichos servidores públicos, y opinar las actuaciones que otras unidades administrativas de la Secretaría facultadas realicen en los juicios, acciones y procedimientos referidos;
+
+VIII. Suscribir escritos y desahogar los trámites que correspondan a los casos urgentes relativos a términos, interposición de recursos y recepción de toda clase de notificaciones y toda clase de actuaciones, incluyendo lo relacionado con la fracción VIII del artículo 5 de este Reglamento, en ausencia de la persona Titular de la Secretaría, de las personas Titulares de las Subsecretarías, de la persona Titular de la Unidad de Administración y Finanzas y de la persona Titular de la Unidad de Apoyo Jurídico;
+
+IX. Coordinar y formular los informes previos y justificados en materia de amparo que deban rendir los servidores públicos de la Secretaría que no están comprendidos en la fracción anterior de este artículo y que sean señalados como autoridades responsables;
+
+X. Coordinar y formular, cuando corresponda, la querella o denuncias ante el Ministerio Público de los hechos que lo ameriten, ejercer acción penal ante los Tribunales en los casos que proceda y cuando se cuente con los elementos necesarios; representar legalmente a la Dependencia ante las autoridades en materia penal tanto administrativas como jurisdiccionales y con tal carácter intervenir en los Mecanismos Alternativos de Solución de Controversias; gestionar la liberación y devolución de los bienes de activo fijo de la Secretaría relacionados con investigaciones jurisdiccionales, carpetas de investigación, procedimientos judiciales o administrativos de cualquier naturaleza;
+
+XI. Coordinar las propuestas a su superior jerárquico, sobre las acciones de la Unidad de Apoyo Jurídico como instancia de apoyo de la Secretaría en el sistema procesal penal acusatorio ejerciendo todas las prerrogativas y facultades que se contemplen en la legislación aplicable siendo estas de manera enunciativa más no limitativa: formular cualquier medio de impugnación para recurrir las resoluciones judiciales y determinaciones administrativas; intervenir, representar y consentir las formas de terminación anticipada de la investigación y del proceso penal, así como las soluciones alternas de los procedimientos penales, siempre y cuando se haya reparado el daño material que hubiere sufrido la Dependencia, o bien, se establezca de manera expresa por las partes la forma en que se resarcirá; representar los intereses de la Dependencia en los procedimientos de ejecución de penas que contemple la legislación aplicable;
+
+XII. Dar vista a las autoridades fiscalizadoras, jurisdiccionales y ministeriales, según corresponda, de las posibles conductas irregulares en el ejercicio del servicio público, que le hagan de su conocimiento u observe en el ejercicio de sus funciones;
+
+XIII. Coordinar los trabajos para la representación, e intervenir en representación de la persona Titular de la Secretaría, ante el Tribunal Federal de Conciliación y Arbitraje y ante cualquier otra autoridad laboral en los juicios y procedimientos en que sea parte la Secretaría, con todos los poderes necesarios incluidos los de ejercer las acciones, excepciones y defensas, conciliar, interponer los recursos que procedan, y todas aquellas promociones que se requieran en el curso de los procedimientos;
+
+XIV. Coordinar la asesoría a las unidades administrativas de la Secretaría en el levantamiento de constancias de hechos y actas administrativas, así como dictaminar sobre las bajas y demás sanciones que procedan respecto del personal de base o de confianza, por las causas establecidas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, en las Condiciones Generales de Trabajo de la Secretaría, y en las demás disposiciones aplicables en materia laboral;
+
+XV. Apoyar en la revisión de las Condiciones Generales de Trabajo, así como en la conducción de las relaciones de la Secretaría con su sindicato;
+
+XVI. Coordinar y formular las propuestas de resoluciones que procedan sobre los recursos administrativos previstos en los diversos ordenamientos que aplica la Secretaría promovidos en contra de sanciones y proporcionar la orientación jurídica necesaria para resolver otro tipo de recursos;
+
+XVII. Realizar la compulsa y expedir las copias certificadas de los documentos que obren en los archivos de la Secretaría, cuando deban ser exhibidas ante las autoridades judiciales, administrativas, del trabajo y, en general, para cualquier procedimiento, proceso o investigación jurisdiccional;
+
+XVIII. Integrar los informes y demás requerimientos que deba rendir la Secretaría a la Comisión Nacional de los Derechos Humanos, la Procuraduría Federal de Protección al Ambiente y otros organismos análogos;
+
+XIX. Participar en las acciones que en materia jurídica lleva a cabo la Secretaría, a fin de prevenir y atender posibles conflictos normativos, cuando se trate de normas jurídicas en materia de procedimientos constitucionales, así como en materia de juicios y procedimientos;
+
+XX. Requerir a las personas servidoras públicas, unidades administrativas y órganos administrativos desconcentrados de la Secretaría, la documentación e información que requiera para el cumplimiento de sus atribuciones, y
+
+XXI. Emitir los dictámenes que corresponda a la Unidad de Apoyo Jurídico, respecto de los actos a que se refiere el artículo 56 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 30.
 
-La Dirección General Adjunta de lo Contencioso tiene las atribuciones siguientes:
+La Coordinación de lo Contencioso tiene las atribuciones siguientes:
 
-I. Auxiliar a la persona Titular de la Unidad de Apoyo Jurídico en las acciones necesarias para que este represente al Presidente de la República en todos los trámites en las que la persona Titular de la Secretaría represente al Presidente de la República; asimismo, ejercer directamente estas facultades de la persona Titular de la Unidad de Apoyo Jurídico por suplencia, en caso de ausencia de esta, en términos del párrafo tercero del artículo 71 de este Reglamento;
+I. Auxiliar a su superior jerárquico en las acciones necesarias para el ejercicio de la facultad de representación del Presidente de la República en todos los trámites en las (sic) que la persona Titular de la Secretaría represente al Presidente de la República; asimismo, ejercer directamente estas facultades de la persona Titular de la Unidad de Apoyo Jurídico por suplencia, en caso de ausencia de esta, en términos del párrafo tercero del artículo 71 de este Reglamento;
 
-II. Ejercer la representación de la Secretaría ante cualquier autoridad jurisdiccional, administrativa, agraria y del trabajo; formular demandas, contestaciones y, en general, todas las promociones que se requieran, ejercitando las acciones, defensas y excepciones que correspondan, atender las diligencias respectivas, así como absolver posiciones, comparecer en todo tipo de audiencias, e interponer toda clase de recursos que se consideren necesarios;
+II. Intervenir en la representación de la Secretaría ante cualquier autoridad jurisdiccional, administrativa, agraria y del trabajo; formular demandas, contestaciones y, en general, todas las promociones que se requieran, ejercitando las acciones, defensas y excepciones que correspondan, atender las diligencias respectivas, así como absolver posiciones, comparecer en todo tipo de audiencias, e interponer toda clase de recursos que se consideren necesarios;
 
-III. Ejercer la representación de la persona Titular de la Secretaría, las personas Titulares de las Subsecretarías, y demás persona (sic) Titulares de las unidades administrativas de la Secretaría, en todos los trámites dentro de los juicios de amparo, así como suscribir promociones, desahogar trámites y asistir a audiencias y diligencias, que exija el trámite procesal de cualquier otra instancia de carácter judicial o contencioso administrativo en la que sean parte dichos servidores públicos;
+III. Auxiliar a su superior jerárquico en la representación de la persona Titular de la Secretaría y de las personas Titulares de las Subsecretarías y demás unidades administrativas de la Secretaría, en todos los trámites dentro de los juicios de amparo, así como suscribir promociones, desahogar trámites y asistir a audiencias y diligencias, que exija el trámite procesal de cualquier otra instancia de carácter judicial o contencioso administrativo en la que sean parte dichos servidores públicos;
 
 IV. Coadyuvar en la formulación de los informes previos y justificados en materia de amparo que deban rendir los servidores públicos de la Secretaría que no están comprendidos en la fracción anterior de este artículo y que sean señalados como autoridades responsables;
 
-V. Intervenir en la formulación de querella o denuncias ante el Ministerio Público de los hechos que lo ameriten, ejercer acción penal ante los Tribunales en los casos que proceda y cuando se cuente con los elementos necesarios; representar legalmente a la Dependencia ante las autoridades en materia penal tanto administrativas como jurisdiccionales y con tal carácter intervenir en los Mecanismos Alternativos de Solución de Controversias; gestionar la liberación y devolución de los bienes de activo fijo de la Secretaría relacionados con investigaciones jurisdiccionales, carpetas de investigación, procedimientos judiciales o administrativos de cualquier naturaleza;
+V. Auxiliar en la representación de la persona Titular de la Secretaría ante el Tribunal Federal de Conciliación y Arbitraje y ante cualquier otra autoridad laboral en los juicios y procedimientos en que sea parte la Secretaría, ejerciendo las acciones, excepciones y defensas, conciliar, interponer los recursos que procedan y todas aquellas promociones que se requieran en el curso de los procedimientos, así como orientar a las unidades administrativas de la Secretaría en el levantamiento de constancias de hechos y actas administrativas, y dictaminar sobre las bajas y demás sanciones que procedan respecto del personal de base o de confianza, por las causas establecidas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, en las Condiciones Generales de Trabajo de la Secretaría, y en las demás disposiciones aplicables en materia laboral;
 
-VI. Plantear, a su superior jerárquico, las acciones de la Unidad de Apoyo Jurídico como instancia de apoyo de la Secretaría en el sistema procesal penal acusatorio ejerciendo todas las prerrogativas y facultades que se contemplen en la legislación aplicable siendo estas de manera enunciativa más no limitativa: formular cualquier medio de impugnación para recurrir las resoluciones judiciales y determinaciones administrativas; intervenir, representar y consentir las formas de terminación anticipada de la investigación y del proceso penal, así como las soluciones alternas de los procedimientos penales, siempre y cuando se haya reparado el daño material que hubiere sufrido la Dependencia, o bien, se establezca de manera expresa por las partes la forma en que se resarcirá; representar los intereses de la Dependencia en los procedimientos de ejecución de penas que contemple la legislación aplicable;
+VI. Formular las propuestas de resoluciones que procedan sobre los recursos administrativos previstos en los diversos ordenamientos que aplica la Secretaría promovidos en contra de sanciones, y proporcionar la orientación jurídica necesaria para resolver otro tipo de recursos;
 
-VII. Ejercer la representación de la persona Titular de la Secretaría ante el Tribunal Federal de Conciliación y Arbitraje y ante cualquier otra autoridad laboral en los juicios y procedimientos en que sea parte la Secretaría, ejerciendo las acciones, excepciones y defensas, conciliar, interponer los recursos que procedan, y todas aquellas promociones que se requieran en el curso de los procedimientos, así como orientar a las unidades administrativas de la Secretaría en el levantamiento de constancias de hechos y actas administrativas, así como dictaminar sobre las bajas y demás sanciones que procedan respecto del personal de base o de confianza, por las causas establecidas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, las Condiciones Generales de Trabajo de la Secretaría y demás disposiciones aplicables en materia laboral;
+VII. Formular las propuestas para el desahogo de consultas que formulen las unidades administrativas de la Secretaría a fin de interpretar el alcance de alguna norma procesal o sustantiva en el ámbito litigioso;
 
-VIII. Intervenir en la formulación de las propuestas de resoluciones que procedan sobre los recursos administrativos previstos en los diversos ordenamientos que aplica la Secretaría promovidos en contra de sanciones y proporcionar la orientación jurídica necesaria para resolver otro tipo de recursos;
+VIII. Realizar la compulsa para la expedición de las copias certificadas de los documentos que obren en los archivos de la Secretaría, cuando deban ser exhibidas ante las autoridades judiciales, administrativas, del trabajo y, en general, para cualquier procedimiento, proceso o investigación jurisdiccional;
 
-IX. Dirigir el desahogo de consultas que formulen las unidades administrativas de la Secretaría a fin de interpretar el alcance de alguna norma procesal o sustantiva en el ámbito litigioso;
+IX. Proponer a su superior jerárquico los informes y demás requerimientos que deba rendir la Secretaría a la Comisión Nacional de los Derechos Humanos, la Procuraduría Federal de Protección al Ambiente y otros organismos análogos, y
 
-X. Realizar la compulsa y expedir las copias certificadas de los documentos que obren en los archivos de la Secretaría, cuando deban ser exhibidas ante las autoridades judiciales, administrativas, del trabajo y, en general, para cualquier procedimiento, proceso o investigación jurisdiccional;
+X. Las demás que le confieran otras disposiciones legales o administrativas en el ámbito de su competencia, así como las que le encomiende su superior jerárquico.
 
-XI. Integrar los informes y demás requerimientos que deba rendir la Secretaría a la Comisión Nacional de los Derechos Humanos, la Procuraduría Federal de Protección al Ambiente y otros organismos análogos, y
-
-XII. Las demás que le confieran otras disposiciones legales o administrativas en el ámbito de su competencia, así como las que le encomiende su superior jerárquico.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 31.
 
-La Dirección General Adjunta de Convenios y Contratos tiene las atribuciones siguientes:
+La Coordinación de Convenios y Contratos tiene las atribuciones siguientes:
 
 I. Auxiliar a la persona Titular de la Unidad de Apoyo Jurídico en la revisión y dictamen de los contratos, convenios, acuerdos, bases, así como cualquier instrumento jurídico que celebre la Secretaría con integrantes de los sectores público, privado y social, de carácter nacional e internacional, así como lo que tenga que ver con la naturaleza corporativa en temas de la Secretaría y su relación con el sector coordinado;
 
@@ -1307,21 +1453,31 @@ II. Participar junto con las demás dependencias y entidades de la Administraci�
 
 III. Dar seguimiento al comportamiento de precios y tarifas de los productos referidos en el párrafo segundo de este artículo y, en su caso y previa opinión de la Comisión Federal de Competencia Económica, fijar los precios máximos de los productos elaborados en el territorio nacional, en términos de las disposiciones jurídicas aplicables, con excepción de los precios que competa fijarlos a otras dependencias o entidades de la Administración Pública Federal;
 
-IV. Proponer a la Subsecretaría de Industria, Comercio y Competitividad, los precios de concertación de bienes referidos en el segundo párrafo del presente artículo;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-V. Difundir y proporcionar orientación y asistencia sobre los objetivos y alcances de las normas oficiales mexicanas, normas mexicanas y de las normas de referencia de sectores industriales, a fin de promover el desarrollo de mercados y la protección de los consumidores en materia de información comercial;
+IV. Proponer a la Subsecretaría de Industria y Comercio, los precios de concertación de bienes referidos en el segundo párrafo del presente artículo;
+
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+V. Difundir los objetivos y alcances de las normas oficiales mexicanas, estándares y demás instrumentos relativos a que se refiere la Ley de Infraestructura de la Calidad que incidan en los sectores industriales, a fin de promover el desarrollo de mercados y la protección de los consumidores en materia de información comercial, así como proporcionar orientación y asistencia a dichos sectores considerando la opinión de la Dirección General de Normas;
 
 VI. Promover la operación eficiente de las cadenas productivas y fomentar la producción, distribución, abasto y proveeduría de los productos a que se refiere el segundo párrafo del presente artículo;
 
-VII. Proponer a la Subsecretaría de Industria, Comercio y Competitividad, políticas en materia de distribución, comercialización y abastecimiento de productos de las industrias ligeras;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-VIII. Proponer a la Subsecretaría de Industria, Comercio y Competitividad, políticas en materia de distribución y comercialización de productos básicos y abastecimiento de los mismos a la población;
+VII. Proponer a la Subsecretaría de Industria y Comercio, políticas en materia de distribución, comercialización y abastecimiento de productos de las industrias ligeras;
+
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+VIII. Proponer a la Subsecretaría de Industria y Comercio, políticas en materia de distribución y comercialización de productos básicos y abastecimiento de los mismos a la población;
 
 IX. Suscribir instrumentos o documentos respecto de los sectores industriales a que se refiere el segundo párrafo de este artículo, cuya difusión requiera de una publicación en el Diario Oficial de la Federación;
 
 X. Participar con los sectores productivos de las industrias ligeras a que se refiere el segundo párrafo del presente artículo, en el diseño, instrumentación y evaluación de mecanismos que apoyen el crecimiento de dichos sectores y les permitan operar de manera eficiente;
 
-XI. Proponer a la Subsecretaría de Industria, Comercio y Competitividad, la promoción, la aplicación y el cumplimiento de la política en materia de abasto de bienes referidos en el segundo párrafo del presente artículo, en particular la que se refiere a precios y tarifas, y la modernización de las empresas que los producen, distribuyen y comercializan;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XI. Proponer a la Subsecretaría de Industria y Comercio, la promoción, la aplicación y el cumplimiento de la política en materia de abasto de bienes referidos en el segundo párrafo del presente artículo, en particular la que se refiere a precios y tarifas, y la modernización de las empresas que los producen, distribuyen y comercializan;
 
 XII. Participar en coordinación con dependencias y entidades de la Administración Pública Federal, entidades federativas, municipios y alcaldías de la Ciudad de México, en comisiones, comités, grupos de trabajo, órganos o consejos administrativos de las instituciones y organismos que atiendan asuntos vinculados con sectores industriales, así como en negociaciones comerciales internacionales relacionados con las industrias referidas en el segundo párrafo de este artículo;
 
@@ -1357,7 +1513,9 @@ VII. Participar en coordinación con dependencias y entidades de la Administraci
 
 VIII. Aplicar las leyes, reglamentos, decretos, acuerdos e instrumentar, verificar y dar seguimiento a los programas que incidan en los sectores industriales a que se refiere el segundo párrafo de este artículo.
 
-Las atribuciones a que se refiere este artículo se entenderán únicamente respecto de las Industrias Pesadas y de Alta Tecnología, incluyendo los sectores automotriz; aeronáutico; naval; electrónico; de manufacturas eléctricas; siderúrgico; metalúrgico; de fabricación de productos metálicos; de maquinaria y equipo, así como de la construcción.
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+Las atribuciones a que se refiere este artículo se entenderán únicamente respecto de las Industrias Pesadas y de Alta Tecnología, incluyendo los sectores automotriz; aeronáutico; naval; electrónico; de manufacturas eléctricas; siderúrgico; metalúrgico; de fabricación de productos metálicos; de maquinaria y equipo; de la construcción; así como de industrias de productos a base de minerales no metálicos como el vidrio, cerámica y cemento.
 
 La persona Titular de la Dirección General de Industrias Pesadas y de Alta Tecnología será auxiliada en el ejercicio de sus facultades por las personas Titulares de las Direcciones de Industrias Pesadas y Diversas; de Industria Automotriz; de Industrias Eléctrica y Electrónica; de Industria Aeronáutica; y de Análisis de Políticas Sectoriales, y demás unidades subalternas en términos del artículo 11 de este Reglamento.
 
@@ -1407,89 +1565,99 @@ XX. Resolver sobre las consultas y solicitudes que formulen los particulares en 
 
 La persona Titular de la Dirección General de Innovación, Servicios y Comercio Interior será auxiliada en el ejercicio de sus facultades por las personas Titulares de las Direcciones de Innovación; de Economía Digital; de Prácticas Comerciales; de Programas de Apoyo a la Industria; del Sistema Nacional de Información e Integración de Mercados; de Logística y Cadena de Suministro; y de Enlace Económico, y demás unidades subalternas en términos del artículo 11 de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 36.
 
 La Dirección General de Normas tiene las atribuciones siguientes:
 
-I. Ejercer las atribuciones conferidas a la Secretaría en la Ley Federal sobre Metrología y Normalización, la Ley Federal de Protección al Consumidor, la Ley de Hidrocarburos, la Ley Federal de Telecomunicaciones y Radiodifusión, los reglamentos y demás disposiciones aplicables en materia de normalización, metrología y evaluación de la conformidad, así como los acuerdos y tratados internacionales en esa materia, sin perjuicio de las facultades conferidas a la Subsecretaría de Comercio Exterior, así como coordinar sus acciones con otras dependencias y entidades de la Administración Pública Federal para el cumplimiento de dichos ordenamientos;
+I. Ejercer las atribuciones conferidas a la Secretaría en la Ley de Infraestructura de la Calidad, la Ley Federal de Protección al Consumidor, la Ley de Hidrocarburos, la Ley Federal de Telecomunicaciones y Radiodifusión, los reglamentos y demás disposiciones aplicables en materia de normalización, estandarización, acreditación, evaluación de la conformidad y metrología, así como los acuerdos y tratados internacionales en esa materia, sin perjuicio de las facultades conferidas a la Subsecretaría de Comercio Exterior, así como coordinar sus acciones con otras dependencias y entidades de la Administración Pública Federal para el cumplimiento de dichos ordenamientos;
 
-II. Diseñar, promover y difundir políticas públicas y estrategias en materia de metrología, normalización y evaluación de la conformidad, en el ámbito nacional y en el internacional, sin perjuicio de las facultades conferidas a la Subsecretaría de Comercio Exterior, en cuanto a la promoción y difusión de las mismas a nivel internacional;
+II. Diseñar, promover y difundir políticas públicas y estrategias en materia de normalización, estandarización, acreditación, evaluación de la conformidad y metrología, en el ámbito nacional y en el internacional, sin perjuicio de las facultades conferidas a la Subsecretaría de Comercio Exterior, en cuanto a la promoción y difusión de las mismas a nivel internacional;
 
-III. Organizar y operar el Centro de Información y Punto de Contacto del país en materia de normalización, metrología y evaluación de la conformidad;
+III. Organizar y operar el Centro de Información y Punto de Contacto del país en materia de normalización, estandarización, acreditación, evaluación de la conformidad y metrología;
 
-IV. Llevar a cabo acciones y programas para el fomento de la calidad de los productos y servicios mexicanos y para la promoción y difusión de la normalización, metrología y evaluación de la conformidad, y de la investigación y análisis en la materia, así como coordinar los trabajos que al respecto sean realizados por las dependencias y entidades de la Administración Pública Federal competentes, los organismos nacionales de normalización, las entidades de acreditación y las personas acreditadas por estas, las instituciones de enseñanza superior, asociaciones o colegios de profesionales;
+IV. Realizar acciones y programas para el fomento de la calidad de los productos y servicios mexicanos y para la promoción y difusión de la normalización, estandarización, acreditación, evaluación de la conformidad y metrología, y de la investigación y análisis en la materia, así como coordinar los trabajos que al respecto sean realizados por las Autoridades Normalizadoras, los organismos nacionales de estandarización, los sujetos facultados para estandarizar, las entidades de acreditación y las personas acreditadas por estas, las instituciones de enseñanza superior, asociaciones o colegios de profesionales;
 
-V. Emitir el aviso que determina qué otros instrumentos de medición deberán cumplir con las aprobaciones del modelo o prototipo señaladas para estos instrumentos por la Ley Federal sobre Metrología y Normalización, así como practicar la evaluación y verificación de dichos instrumentos a través de las instancias competentes y personas acreditadas y aprobadas;
+V. Emitir el aviso que determina qué otros instrumentos de medición deberán cumplir con las aprobaciones del modelo o prototipo señaladas para estos instrumentos por la Ley de Infraestructura de la Calidad, así como practicar la evaluación y verificación de dichos instrumentos a través de las instancias competentes y personas acreditadas y aprobadas;
 
-VI. Autorizar, previa opinión del Centro Nacional de Metrología y de otras instancias competentes, la trazabilidad hacia patrones nacionales o extranjeros de instrumentos de medición y materiales de referencia empleados en actividades de calibración y de evaluación de la conformidad, así como establecer los lineamientos para emitir dictámenes y certificados de calibración por laboratorios o entidades;
+VI. Recibir del Centro Nacional de Metrología o los Institutos Designados de Metrología, las autorizaciones de trazabilidad de las medidas a patrones y materiales de referencia internacionales o extranjeros, en caso de no existir patrón nacional de medida o material de referencia certificado en alguna magnitud de interés para el país, y publicarlo en la Plataforma Tecnológica Integral de Infraestructura de la Calidad;
 
 VII. Coordinar, con el Centro Nacional de Metrología, el desarrollo de las atribuciones que en materia de metrología conceda a la Secretaría la normativa aplicable;
 
-VIII. Integrar el Programa Nacional de Normalización, en coordinación con las dependencias competentes y con los organismos nacionales de normalización, así como complementar y ejecutar dicho Programa con las normas oficiales mexicanas y normas mexicanas que se pretendan elaborar anualmente en el área competencia de la Secretaría;
+VIII. Integrar el Programa Nacional de Infraestructura de la Calidad, en coordinación con las Autoridades Normalizadoras, con los organismos nacionales de estandarización, los sujetos facultados para estandarizar, así como complementar y ejecutar dicho Programa con las normas oficiales mexicanas y Estándares que se pretendan elaborar anualmente en el área competencia de la Secretaría;
 
-IX. Elaborar, expedir, revisar, modificar, cancelar y difundir las normas oficiales mexicanas y normas mexicanas en el ámbito de competencia de la Secretaría y coordinarse con otras dependencias de la Administración Pública Federal para la elaboración conjunta de normas oficiales mexicanas;
+IX. Elaborar, expedir, revisar, modificar, cancelar y difundir las normas oficiales mexicanas y Estándares en el ámbito de competencia de la Secretaría y coordinarse con otras Autoridades Normalizadoras para la elaboración conjunta de normas oficiales mexicanas;
 
-X. Constituir, presidir y coordinar los comités consultivos nacionales de normalización para la elaboración de normas oficiales mexicanas competencia de la Secretaría, y fijar las reglas para su operación en los términos de las disposiciones legales aplicables, así como participar con voz y voto en aquellos comités de la misma naturaleza constituidos en otras dependencias de la Administración Pública Federal que incidan en las actividades industriales o comerciales;
+X. Constituir, presidir y coordinar los comités consultivos nacionales de normalización para la elaboración de normas oficiales mexicanas competencia de la Secretaría, y fijar las reglas para su operación en los términos de las disposiciones legales aplicables, así como participar con voz y voto en aquellos comités de la misma naturaleza constituidos en otras Autoridades Normalizadoras que incidan en las actividades industriales o comerciales;
 
-XI. Autorizar el uso o aplicación de materiales, equipos, procesos, métodos de prueba, mecanismos, procedimientos o tecnologías alternativas, diferentes a los previstos en normas oficiales mexicanas expedidas por la Secretaría, cuando el solicitante cumpla con las disposiciones previstas para tal efecto en la Ley Federal sobre Metrología y Normalización y en su Reglamento;
+XI. Autorizar el uso o aplicación de materiales, equipos, procesos, métodos de prueba, mecanismos, procedimientos o tecnologías alternativas, diferentes a los previstos en (sic) normas oficiales mexicanas expedidas por la Secretaría, cuando el solicitante cumpla con las disposiciones previstas para tal efecto en la Ley de Infraestructura de la Calidad y en su Reglamento;
 
-XII. Fungir como Secretariado Técnico de la Comisión Nacional de Normalización y coordinar sus organismos de colaboración;
+XII. Fungir como Secretariado Ejecutivo de la Comisión Nacional de Infraestructura de la Calidad y coordinar sus organismos de colaboración;
 
-XIII. Autorizar, suspender o cancelar el registro de los organismos nacionales de normalización, así como verificar y vigilar el cumplimiento de las obligaciones que les impone la Ley Federal sobre Metrología y Normalización y su Reglamento;
+XIII. Autorizar, suspender o cancelar el registro de los organismos nacionales de estandarización, así como verificar y vigilar el cumplimiento de las obligaciones que les impone la Ley de Infraestructura de la Calidad y su Reglamento;
 
-XIV. Constituir, organizar y presidir los comités mexicanos para la participación y atención de los organismos internacionales en la materia; aprobar, previa opinión de la Comisión Nacional de Normalización, los lineamientos para la organización de dichos comités, y participar en las negociaciones comerciales internacionales que correspondan en el ámbito de su competencia;
+XIV. Constituir, organizar y presidir los comités mexicanos para la participación y atención de los organismos internacionales en la materia; aprobar, previa opinión de la Comisión Nacional de Infraestructura de la Calidad, los lineamientos para la organización de dichos comités, y participar en las negociaciones comerciales internacionales que correspondan en el ámbito de su competencia;
 
 XV. Definir, en coordinación con la Dirección General de Programación, Presupuesto y Contabilidad, y de conformidad con los lineamientos que dicte la Secretaría de Hacienda y Crédito Público, el destino de los recursos generados por la participación de México en los organismos internacionales de normalización, así como el mecanismo para el pago de regalías por derechos de autor generadas por la venta en el país de normas internacionales propiedad de dichos organismos;
 
-XVI. Establecer, y ejecutar por sí o a través de personas acreditadas y aprobadas en términos de la Ley Federal sobre Metrología y Normalización, los procedimientos para la evaluación de la conformidad de las normas oficiales mexicanas y normas mexicanas u otras especificaciones, prescripciones o características determinadas, competencia de la Secretaría, y opinar sobre los procedimientos de evaluación de la conformidad elaborados por las demás dependencias competentes, relacionadas con los mismos;
+XVI. Establecer, y ejecutar por sí o a través de personas acreditadas y aprobadas en términos de la Ley de Infraestructura de la Calidad, los procedimientos para la evaluación de la conformidad de las normas oficiales mexicanas y Estándares u otras especificaciones, prescripciones o características determinadas, competencia de la Secretaría, y opinar sobre los procedimientos de evaluación de la conformidad elaborados por las demás Autoridades Normalizadoras, relacionadas con los mismos;
 
-XVII. Autorizar a las entidades de acreditación y aprobar los lineamientos para la organización de los comités de evaluación para la acreditación, conformados por las entidades de acreditación, previa opinión de la Comisión Nacional de Normalización;
+XVII. Autorizar a las entidades de acreditación y aprobar los lineamientos para la organización de los comités de evaluación para la acreditación, conformados por las entidades de acreditación, previa opinión de la Comisión Nacional de Infraestructura de la Calidad;
 
 XVIII. Revisar y verificar las actividades de las entidades de acreditación y personas acreditadas y aprobadas y, en su caso, requerir la revisión de las acreditaciones otorgadas;
 
-XIX. Recibir las reclamaciones que se presenten en contra de las entidades de acreditación o personas acreditadas y aprobadas, así como resolver las inconformidades que se presentan en contra de las respuestas emitidas por las mismas, conforme a lo dispuesto en la Ley Federal sobre Metrología y Normalización y su Reglamento;
+XIX. Recibir las reclamaciones que se presenten en contra de las entidades de acreditación o personas acreditadas y aprobadas, así como resolver las inconformidades que se presentan en contra de las respuestas emitidas por las mismas, conforme a lo dispuesto en la Ley de Infraestructura de la Calidad y su Reglamento;
 
-XX. Aprobar a las personas acreditadas que se requieran para realizar la evaluación de la conformidad con las normas oficiales mexicanas y, en su caso, renovar, suspender o revocar dicha aprobación, en términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización y su Reglamento;
+XX. Aprobar a las personas acreditadas que se requieran para realizar la evaluación de la conformidad con las normas oficiales mexicanas y, en su caso, renovar, suspender o revocar dicha aprobación, en términos de lo dispuesto por la Ley de Infraestructura de la Calidad y su Reglamento;
 
-XXI. Verificar y vigilar, por sí o a través de personas acreditadas o aprobadas y las instancias competentes en términos de la Ley Federal sobre Metrología y Normalización, el cumplimiento de las disposiciones de su competencia, así como imponer las medidas precautorias y las sanciones que correspondan y requerir a personas físicas y morales sujetas al cumplimiento de las normas oficiales mexicanas, los documentos, informes y datos, así como las muestras de productos en términos de la propia Ley;
+XXI. Verificar y vigilar, por sí o a través de personas acreditadas o aprobadas y las instancias competentes en términos de la Ley de Infraestructura de la Calidad, el cumplimiento de las disposiciones de su competencia, así como imponer las medidas precautorias y las sanciones que correspondan y requerir a personas físicas y morales sujetas al cumplimiento de las normas oficiales mexicanas, los documentos, informes y datos, así como las muestras de productos en términos de la propia Ley;
 
 XXII. Coordinar y desarrollar programas de vigilancia de cumplimiento de las normas oficiales mexicanas, en su caso, con el apoyo de las personas acreditadas y aprobadas;
 
 XXIII. Participar con la Secretaría de Agricultura y Desarrollo Rural, en la gestión y mantenimiento de la equivalencia internacional para el reconocimiento del Sistema de control nacional a que se refiere el artículo 6 de la Ley de Productos Orgánicos;
 
-XXIV. Participar con la Secretaría de Medio Ambiente y Recursos Naturales, en la identificación de los productos, bienes, insumos y servicios con menor impacto ambiental, en términos de lo dispuesto en el artículo 37 BIS de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
+XXIV. Participar con la Secretaría de Medio Ambiente y Recursos Naturales, en la identificación de los productos, bienes, insumos y servicios con menor impacto ambiental, en términos de lo dispuesto en el artículo 37 BIS de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XXV. Celebrar acuerdos con instituciones oficiales extranjeras e internacionales para el reconocimiento mutuo de los resultados de la evaluación de la conformidad que se lleve a cabo por las dependencias, personas acreditadas e instituciones mencionadas, así como de las acreditaciones otorgadas.
+XXV. Celebrar acuerdos con instituciones oficiales extranjeras e internacionales para el reconocimiento mutuo de los resultados de la evaluación de la conformidad que se lleve a cabo por las dependencias, personas acreditadas e instituciones mencionadas, así como de las acreditaciones otorgadas;
 
-La persona Titular de la Dirección General de Normas será auxiliada en el ejercicio de sus facultades por la persona Titular de la Dirección General Adjunta de Evaluación de la Conformidad, conforme a sus atribuciones, y por las personas Titulares de las Direcciones de Normalización para la Industria Alimentaria y Medio Ambiente; de Normalización en el Sector Energético y Actividades Extractivas; de Normalización para Industria de Manufactura Ligera; de Normalización para Industria de Manufactura Pesada; de Normalización para Industria Básica; de Normalización para Industrias Diversas y de Servicios; y de Operación e Instrumentos Normativos, y demás unidades subalternas en términos del artículo 11 de este Reglamento.
+XXVI. Proponer a su superior jerárquico y, en su caso, emitir acuerdos de equivalencia por sí o a solicitud de una parte interesada, para reconocer o aceptar unilateral o recíprocamente los reglamentos técnicos extranjeros, o los resultados de la Evaluación de la Conformidad que lleven a cabo las entidades internacionales o extranjeras, y
+
+XXVII. Emitir acuerdos o, cuando corresponda, suscribir acuerdos interinstitucionales con otras Autoridades Normalizadoras, que permitan esquemas de facilitación para el cumplimiento de normas oficiales mexicanas, que deberán publicarse en el Diario Oficial de la Federación.
+
+Para efectos de lo previsto en este artículo y en el artículo 37 de este Reglamento, se entenderá por Autoridades Normalizadoras y por Estándares a los referidos en las fracciones VI y X del artículo 4 de la Ley de Infraestructura de la Calidad, respectivamente.
+
+La persona Titular de la Dirección General de Normas será auxiliada en el ejercicio de sus facultades por la persona Titular de la Coordinación de la Infraestructura de la Calidad, conforme a sus atribuciones, y por las personas Titulares de las Direcciones de Normalización para la Industria Alimentaria y Medio Ambiente; de Normalización en el Sector Energético y Actividades Extractivas; de Normalización para Industria de Manufactura Ligera; de Normalización para Industria de Manufactura Pesada; de Normalización para Industria Básica; de Normalización para Industrias Diversas y de Servicios; y de Operación e Instrumentos Normativos, y demás unidades subalternas en términos del artículo 11 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 37.
 
-La Dirección General Adjunta de Evaluación de la Conformidad tiene las atribuciones siguientes:
+La Coordinación de la Infraestructura de la Calidad tiene las atribuciones siguientes:
 
-I. Plantear, a su superior jerárquico, las políticas de evaluación de la conformidad que deban ser observadas para la implementación de las Normas Oficiales Mexicanas y Normas Mexicanas;
+I. Plantear, a su superior jerárquico, las políticas de evaluación de la conformidad que deban ser observadas para la implementación de las normas oficiales mexicanas y Estándares;
 
-II. Proponer e instrumentar acciones para el fomento de la calidad de los productos y servicios mexicanos y difusión de la evaluación de la conformidad, y de la investigación y análisis en la materia, así como coordinar los trabajos que al respecto sean realizados por las dependencias y entidades de la Administración Pública Federal competentes, los organismos nacionales de normalización, las entidades de acreditación y las personas acreditadas por estas, las instituciones de enseñanza superior, asociaciones o colegios profesionales en concordancia con las Normas Oficiales Mexicanas y Normas Mexicanas;
+II. Proponer e instrumentar acciones para el fomento de la calidad de los productos y servicios mexicanos y difusión de la evaluación de la conformidad, y de la investigación y análisis en la materia, así como coordinar los trabajos que al respecto sean realizados por las Autoridades Normalizadoras competentes, los organismos nacionales de estandarización, los sujetos facultados para estandarizar, las entidades de acreditación y las personas acreditadas por estas, las instituciones de enseñanza superior, asociaciones o colegios profesionales en concordancia con las normas oficiales mexicanas y Estándares;
 
-III. Proponer, a su superior jerárquico, criterios para la implementación de la evaluación de la conformidad de las Normas Oficiales Mexicanas y Normas Mexicanas u otras especificaciones, prescripciones o características determinadas, competencia de la Secretaría, y opinar sobre los procedimientos de evaluación de la conformidad elaborados por las demás dependencias competentes, relacionadas con los mismos, en términos de la Ley Federal sobre Metrología y Normalización;
+III. Proponer, a su superior jerárquico, criterios para la implementación de la evaluación de la conformidad de las normas oficiales mexicanas y Estándares u otras especificaciones, prescripciones o características determinadas, competencia de la Secretaría, y opinar sobre los procedimientos de evaluación de la conformidad elaborados por las demás Autoridades Normalizadoras, relacionadas con los mismos, en términos de la Ley de Infraestructura de la Calidad;
 
-IV. Promover la celebración de acuerdos de reconocimiento mutuo que fortalezcan la infraestructura de evaluación de la conformidad;
+IV. Promover la celebración de acuerdos de reconocimiento mutuo y acuerdos de equivalencia que fortalezcan la infraestructura de evaluación de la conformidad;
 
-V. Dar información y cooperación técnica que le sea requerida por otras dependencias para la elaboración e implementación de las Normas Oficiales Mexicanas y Normas Mexicanas;
+V. Dar información y cooperación técnica que le sea requerida por otras Autoridades Normalizadoras para la elaboración e implementación de las normas oficiales mexicanas y Estándares;
 
 VI. Conducir las acciones de verificación y vigilancia de tarifas, oportunidad y calidad en los servicios que prestan las entidades de acreditación y personas acreditadas;
 
 VII. Operar como punto de contacto a nivel nacional e internacional para el intercambio de información en materia de implementación de reglamentos técnicos;
 
-VIII. Coordinar, con las diversas unidades administrativas de la Secretaría, programas interinstitucionales para promover la calidad en productos mexicanos y servicios conforme a las Normas Oficiales Mexicanas y Normas Mexicanas;
+VIII. Coordinar, con las diversas unidades administrativas de la Secretaría, programas interinstitucionales para promover la calidad en productos mexicanos y servicios conforme a las normas oficiales mexicanas y Estándares;
 
 IX. Proponer convenios, acuerdos y otros instrumentos normativos para la realización de estudios de calidad en productos y servicios;
 
-X. Definir y aplicar las acciones conducentes que generen infraestructura requerida para la evaluación de la conformidad de las Normas Oficiales Mexicanas y Normas Mexicanas;
+X. Definir y aplicar las acciones conducentes que generen infraestructura requerida para la evaluación de la conformidad de las normas oficiales mexicanas y Estándares;
 
-XI. Intervenir en la formulación de anteproyectos y proyectos de Normas Oficiales Mexicanas y de Normas Mexicanas, su evaluación de la conformidad, verificación y vigilancia;
+XI. Intervenir en la formulación de anteproyectos y proyectos de normas oficiales mexicanas y de Estándares, su evaluación de la conformidad, verificación y vigilancia;
 
-XII. Proponer y coordinar programas de capacitación para fomentar la normalización, metrología y evaluación de la conformidad en las Normas Oficiales Mexicanas, y
+XII. Proponer y coordinar programas de capacitación para fomentar la normalización, estandarización, acreditación, evaluación de la conformidad y metrología en las normas oficiales mexicanas, y
 
 XIII. Las demás que le confieran otras disposiciones legales o administrativas en el ámbito de su competencia, así como las que le encomiende su superior jerárquico.
 
@@ -1511,13 +1679,17 @@ VI. Promover la celebración de convenios para el uso de los programas informát
 
 VII. Administrar y operar la Autoridad Certificadora y Registradora de la Secretaría, así como ejercer las demás atribuciones que en materia de firma electrónica avanzada sean de la competencia de la Dependencia;
 
-VIII. Representar a la Secretaría ante órganos u organismos destinados al establecimiento de estándares en materia de seguridad informática relacionada con el comercio electrónico y firma electrónica avanzada;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+VIII. Representar a la Secretaría ante órganos u organismos destinados al establecimiento de estándares en materia de comercio electrónico y firma electrónica avanzada;
 
 IX. Acreditar a Prestadores de Servicios de Certificación; ordenar visitas de inspección y auditorías a estos; requerirles información respecto de los servicios acreditados y, en su caso, sancionarlos por el incumplimiento de sus obligaciones; lo anterior, en términos de lo dispuesto por la legislación en la materia;
 
 X. Promover y apoyar el uso de la firma electrónica avanzada en los trámites y procesos a cargo de la Secretaría y del sector paraestatal coordinado por esta, y de forma coordinada con otras dependencias y entidades de la Administración Pública Federal, las administraciones públicas locales y organismos autónomos;
 
-XI. Capacitar en las materias jurídica e informática a aspirantes a peritos o árbitros para que puedan ser designados y registrados como tales en materia de Prestación de Servicios de Certificación y firma electrónica e integrar el padrón correspondiente;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XI. Capacitar en las materias jurídica e informática en materia de Prestación de Servicios de Certificación y firma electrónica e integrar el padrón correspondiente;
 
 XII. Iniciar, administrar, ejecutar, concluir y, en su caso, anular el proceso de los exámenes para aspirante y definitivo para corredor público, empleando cualquier medio o tecnología, así como fijar las bases y reglas a las que se sujetarán los sustentantes para el desarrollo de los referidos exámenes;
 
@@ -1553,7 +1725,9 @@ XXVII. Suscribir con autoridades de la Administración Pública Federal, de enti
 
 XXVIII. Participar con la Secretaría de Turismo en la instrumentación de mecanismos y programas tendientes a facilitar los trámites y gestión de los inversionistas y demás integrantes del sector turístico, en términos de la Ley General de Turismo;
 
-XXIX. Verificar, por sí o a través de terceros autorizados, el cumplimiento de las obligaciones a cargo de los almacenes generales de depósito en el Registro Único de Certificados, Almacenes y Mercancías, en términos de las disposiciones jurídicas aplicables, y en caso de detectar hechos, actos u omisiones irregulares, practicar visitas de inspección, formular observaciones, ordenar la adopción de medidas correctivas y emplear los medios de apremio que, en su caso, procedan;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XXIX. Verificar, por sí o a través de terceros autorizados, el cumplimiento de las obligaciones a cargo de los almacenes generales de depósito en el Registro Único de Certificados, Almacenes y Mercancías, en términos de las disposiciones jurídicas aplicables, y en caso de detectar hechos, actos u omisiones irregulares, podrá practicar visitas de inspección, formular observaciones, ordenar la adopción de medidas correctivas y emplear los medios de apremio que, en su caso, procedan;
 
 XXX. Administrar y operar el Sistema Electrónico de Constitución de Sociedades por Acciones Simplificada de conformidad con la Ley General de Sociedades Mercantiles, así como capacitar y ser instancia de consulta para los usuarios de dicho Sistema;
 
@@ -1565,127 +1739,229 @@ XXXIII. Autorizar la constitución de Sociedades de Responsabilidad Limitada de 
 
 La persona Titular de la Dirección General de Normatividad Mercantil será auxiliada en el ejercicio de sus facultades por:
 
-a) La persona Titular de la Subdirección de Supervisión de Prestadores de Servicios de Certificación, respecto de la facultad establecida en la fracción X de este artículo;
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-b) La persona Titular de la Dirección de Correduría Pública, la persona Titular de la Coordinación de Exámenes y Supervisión de Correduría Pública, y por la persona Titular de la Jefatura de Departamento de Supervisión de Correduría Pública, de manera indistinta, respecto de las facultades establecidas en las fracciones XVII y XVIII de este artículo;
+a) La persona Titular de la Subdirección de Supervisión de Prestadores de Servicios de Certificación, la persona Titular de la Jefatura de Departamento de Seguimiento de Convenios de Coordinación Registral, y por la persona Titular de la Jefatura de Departamento de Capacitación Registral, respecto de las facultades establecidas en las fracciones IX y XXIX de este artículo;
 
-c) La persona Titular de la Dirección de Coordinación del Registro Público de Comercio, respecto del ejercicio de la facultad establecida en la fracción I de este artículo, e (sic)
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-d) La persona Titular de la Dirección de Operación de Instrumentos Normativos, por la persona Titular de la Jefatura de Departamento de Resolución de Solicitudes de Autorización de Denominaciones y Razones Sociales, y por la persona Titular de la Jefatura de Departamento de Autorizaciones de Uso de Razones y Denominaciones Sociales, de manera indistinta, respecto de la facultad establecida en la fracción XXV de este artículo.
+b) La persona Titular de la Dirección de Correduría Pública, la persona Titular de la Coordinación de Exámenes y Supervisión de Correduría Pública, y por la persona Titular de la Jefatura de Departamento de Supervisión de Correduría Pública, de manera indistinta, respecto de las facultades establecidas en las fracciones XII, XVI y XVII de este artículo;
 
-Sin perjuicio de lo previsto en el párrafo anterior, la persona Titular de la Dirección General de Normatividad Mercantil también será auxiliada en el ejercicio de sus facultades por la persona Titular de la Dirección General Adjunta de Política Mercantil, conforme a sus atribuciones, así como por la persona Titular de la Dirección del Sistema Integral de Gestión Registral; por las personas Titulares de las Jefaturas de Departamento de Exámenes y Supervisión de Correduría Pública; de Operación Registral; de Seguridad Registral; de Procedimientos y Normatividad Registrales; de Publicaciones de Sociedades Mercantiles; de Capacitación Registral; del Sistema de Información Empresarial Mexicano; de Habilitaciones de Correduría Pública; de Autorizaciones de Correduría Pública; de Apoyo a Servicios y Modernización Registral; de Seguimiento de Convenios de Coordinación Registral, y de Atención de Usuarios del Registro Público de Comercio, y demás unidades subalternas en términos del artículo 11 de este Reglamento.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE ABRIL DE 2021)</small>
+
+c) La persona Titular de la Dirección de Correduría Pública, la persona Titular de la Coordinación de Exámenes y Supervisión de Correduría Pública, y por la persona Titular de la Jefatura de Departamento de Habilitaciones de Correduría Pública, de manera indistinta, respecto de las facultades establecidas en las fracciones XIII y XV de este artículo;
+
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+d) La persona Titular de la Dirección de Coordinación del Registro Público de Comercio, la persona Titular de la Jefatura de Departamento de Procedimientos y Normatividad Registrales, y por la persona Titular de la Jefatura de Departamento de Apoyo a Servicios y Modernización Registral, respecto del ejercicio de las facultades establecidas en las fracciones I, III, IV y XXXIII de este artículo;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 12 DE ABRIL DE 2021)</small>
+
+e) La persona Titular de la Dirección de Operación e Instrumentos Normativos, por la persona Titular de la Jefatura de Departamento de Autorizaciones de Uso de Razones y Denominaciones Sociales “A”, y por la persona Titular de la Jefatura de Departamento de Autorizaciones de Uso de Razones y Denominaciones Sociales, de manera indistinta, respecto de las facultades establecidas en las fracciones XXII, XXIV y XXX de este artículo;
+
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+f) La persona Titular de la Dirección de Correduría Pública, y por la persona Titular de la Jefatura de Departamento de Publicaciones de Sociedades Mercantiles, de manera indistinta, respecto de la facultad establecida en la fracción XXXI de este artículo, e (sic)
+
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+g) La persona Titular de la Dirección del Sistema Integral de Gestión Registral, respecto de la facultad establecida en la fracción VII de este artículo.
+
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+Sin perjuicio de lo previsto en el párrafo anterior, la persona Titular de la Dirección General de Normatividad Mercantil también será auxiliada en el ejercicio de sus facultades por la persona Titular de la Coordinación de Política Mercantil, conforme a sus atribuciones, así como por las personas Titulares de las Jefaturas de Departamento de Operación Registral; de Seguridad Registral; del Sistema de Información Empresarial Mexicano; de Autorizaciones de Correduría Pública y de Atención de Usuarios del Registro Público de Comercio, y demás unidades subalternas en términos del artículo 11 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 39.
 
-La Dirección General Adjunta de Política Mercantil tiene las atribuciones siguientes:
+La Coordinación de Política Mercantil tiene las atribuciones siguientes:
 
-I. Coordinar la integración de la posición de la Secretaría respecto de la participación ante órganos u organismos destinados al establecimiento de estándares en materia de seguridad informática relacionada con el comercio electrónico y firma electrónica avanzada;
+I. Coordinar la integración de la posición de la Secretaría respecto de la participación ante órganos u organismos destinados al establecimiento de estándares en materia de comercio electrónico y firma electrónica avanzada;
 
-II. Auxiliar, a la persona Titular de la Dirección General de Normatividad Mercantil, en las acciones de acreditación a Prestadores de Servicios de Certificación; así como en las órdenes de visitas de inspección y auditorías a estos; sus requerimientos de información respecto de los servicios acreditados y, en su caso, proponer la imposición de sanciones por el incumplimiento de sus obligaciones;
+II. Auxiliar a la persona Titular de la Dirección General de Normatividad Mercantil en las acciones de acreditación a Prestadores de Servicios de Certificación; así como en las órdenes de visitas de inspección y auditorías a estos; sus requerimientos de información respecto de los servicios acreditados y, en su caso, proponer la imposición de sanciones por el incumplimiento de sus obligaciones;
 
 III. Proponer, a su superior jerárquico, estrategias para la promoción y apoyo del uso de la firma electrónica avanzada en los trámites y procesos a cargo de la Secretaría y el sector coordinado por esta, y de forma coordinada con otras dependencias y entidades de la Administración Pública Federal, las administraciones públicas locales y organismos autónomos;
 
-IV. Proponer a la persona Titular de la Dirección General de Normatividad Mercantil programas de capacitación en las materias jurídica e informática a aspirantes a peritos o árbitros para que puedan ser designados y registrados como tales en materia de Prestación de Servicios de Certificación y firma electrónica e integrar el padrón correspondiente, así como auxiliar en la capacitación;
+IV. Proponer a la persona Titular de la Dirección General de Normatividad Mercantil programas de capacitación en las materias jurídica e informática en materia de Prestación de Servicios de Certificación y firma electrónica;
 
-V. Coordinar el seguimiento y operación del Sistema Integral de Gestión Registral, en beneficio de las empresas nacionales y extranjeras con operación en México;
+V. Proponer, a su superior jerárquico, la definición y difusión de políticas y estrategias para el desarrollo de los servicios de firma electrónica a cargo de los Prestadores de Servicios de Certificación para el desarrollo del comercio y el gobierno electrónicos;
 
-VI. Proponer, a su superior jerárquico, la definición y difusión de políticas y estrategias para el desarrollo de los servicios de firma electrónica a cargo de los Prestadores de Servicios de Certificación para el desarrollo del comercio y el gobierno electrónicos;
+VI. Proponer, a su superior jerárquico, y, en su caso, coordinar el diseño e implementación de políticas y estrategias encaminadas a la implementación del reconocimiento transfronterizo de la firma electrónica;
 
-VII. Proponer, a su superior jerárquico, y coordinar el diseño e implementación de políticas y estrategias encaminadas a preservar la seguridad de los datos de creación de firma electrónica del certificado digital en atención de la Autoridad Certificadora de la Secretaría;
+VII. Proponer, a su superior jerárquico, y conducir la ejecución de políticas y prácticas de certificación de la Autoridad Certificadora de la Secretaría y otras autoridades certificadoras que dependan de la misma;
 
-VIII. Proponer, a su superior jerárquico, y conducir la ejecución de políticas y prácticas de certificación de la Autoridad Certificadora de la Secretaría y otras autoridades certificadoras que dependan de la misma;
+VIII. Supervisar la ejecución de políticas y estrategias para regular el acceso a la base de datos a cargo de la Dirección General de Normatividad Mercantil a fin de establecer mecanismos para el cumplimiento de las normas jurídicas aplicables;
 
-IX. Supervisar la ejecución de políticas y estrategias para regular el acceso a la base de datos a cargo de la Dirección General de Normatividad Mercantil a fin de establecer mecanismos para el cumplimiento de las normas jurídicas aplicables;
+IX. Plantear, a su superior jerárquico, y dirigir estrategias de actualización de los recursos tecnológicos para la operación y funcionamiento de los portales y herramientas informáticas en materia de registros públicos, apertura y funcionamiento de empresas y expediente electrónico empresarial, que simplifiquen la interacción del Gobierno Federal con las entidades y dependencias de la Administración Pública Federal, los gobiernos de las entidades federativas y municipales, las alcaldías de la Ciudad de México y los particulares; así como implementar mecanismos que permitan la interoperabilidad de los referidos portales y herramientas informáticas de la Secretaría con otros portales relacionados con el fomento y funcionamiento de empresas;
 
-X. Plantear, a su superior jerárquico, y dirigir estrategias de actualización de los recursos tecnológicos para la operación y funcionamiento de los portales y herramientas informáticas en materia de registros públicos, apertura y funcionamiento de empresas y expediente electrónico empresarial, que simplifiquen la interacción del Gobierno Federal con las entidades y dependencias de la Administración Pública Federal, los gobiernos de las entidades federativas y municipales, las alcaldías de la Ciudad de México y los particulares; así como implementar mecanismos que permitan la interoperabilidad de los referidos portales y herramientas informáticas de la Secretaría con otros portales relacionados con el fomento y funcionamiento de empresas;
+X. Expedir copias certificadas de los documentos que obren en los archivos de la Dirección General de Normatividad Mercantil, en la materia de su competencia;
 
-XI. Expedir copias certificadas de los documentos que obren en los archivos de la Dirección General de Normatividad Mercantil, en la materia de su competencia, y
+XI. Coordinar la atención de consultas y opiniones sobre toda clase de asuntos y propuestas en materia mercantil, así como proponer al Titular de la Dirección General de Normatividad Mercantil anteproyectos de reformas al marco normativo en materia mercantil;
 
-XII. Las demás que le confieran otras disposiciones legales o administrativas en el ámbito de su competencia, así como las que le encomiende su superior jerárquico.
+XII. Coordinar, con dependencias y entidades de la Administración Pública Federal, la celebración de convenios para el uso de los programas informáticos implementados por la Dirección General de Normatividad Mercantil, así como en materia de firma electrónica y aquellos que tengan por objeto el intercambio de información con fines informáticos o estadísticos en materia mercantil, y
+
+XIII. Las demás que le confieran otras disposiciones legales o administrativas en el ámbito de su competencia, así como las que le encomiende su superior jerárquico.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 39 BIS.- La Dirección General de Competitividad y Competencia tiene las atribuciones siguientes:
+
+I. Proponer a su superior jerárquico, políticas públicas que permitan:
+
+a) El funcionamiento eficiente de los mercados y el desarrollo económico del país, e (sic)
+
+b) Fomentar la actividad empresarial, incrementar la competitividad y mejorar el ambiente de negocios;
+
+II. Promover la realización de foros y estudios en donde se analicen y generen propuestas para el diseño y fortalecimiento de las políticas públicas a que se refiere la fracción anterior;
+
+III. Proponer a su superior jerárquico la celebración de convenios con las demás dependencias y entidades de la Administración Pública Federal, así como con las entidades federativas, los municipios y las alcaldías de la Ciudad de México en las materias de la competencia de la Secretaría, en términos de lo dispuesto en la Ley Orgánica de la Administración Pública Federal y el presente Reglamento;
+
+IV. Coadyuvar con las dependencias y entidades de la Administración Pública Federal en la implementación y evaluación de políticas públicas para fomentar la competencia en los mercados, e impulsar el crecimiento económico;
+
+V. Solicitar a la Comisión Federal de Competencia Económica o al Instituto Federal de Telecomunicaciones:
+
+a) El inicio de una investigación de carácter preferente, de conformidad con el artículo 66 de la Ley Federal de Competencia Económica;
+
+b) El inicio de un procedimiento de investigación, de conformidad con el artículo 94 de la Ley Federal de Competencia Económica;
+
+c) El inicio de un procedimiento de conformidad con el artículo 96 de la Ley Federal de Competencia Económica;
+
+d) El inicio de un procedimiento de conformidad con el artículo 98 de la Ley Federal de Competencia Económica, e (sic)
+
+e) Opinión de conformidad con las fracciones XII, XIII, XIV, XV y XVIII del artículo 12 de la Ley Federal de Competencia Económica;
+
+VI. Informar a la Comisión Federal de Competencia Económica o al Instituto Federal de Telecomunicaciones sobre hechos que puedan constituir prácticas prohibidas por la Ley Federal de Competencia Económica, o sobre la existencia de barreras a la competencia o insumos esenciales que afecten el proceso de competencia y libre concurrencia, para lo cual podrá requerir información previamente a otras unidades administrativas y órganos administrativos desconcentrados de la Secretaría y a las dependencias y entidades de la Administración Pública Federal; así como dar seguimiento al curso de las acciones derivadas de dichos informes y, en general, coadyuvar con dichos órganos constitucionales autónomos para la efectiva aplicación de la Ley citada;
+
+VII. Fungir como enlace por parte de la Secretaría con la Comisión Federal de Competencia Económica y el Instituto Federal de Telecomunicaciones para los efectos jurídicos aplicables, así como para el desarrollo de proyectos conjuntos en materia de competencia y eficiencia de los mercados;
+
+VIII. Proponer a su superior jerárquico la opinión que deba emitirse sobre la fijación de precios máximos, competencia de la Secretaría, a que se refiere el artículo 9 de la Ley Federal de Competencia Económica, 31 de la Ley General de Salud y demás disposiciones aplicables;
+
+IX. Solicitar a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, así como cuando corresponda a otras dependencias y entidades de la Administración Pública Federal, la información necesaria para el cumplimiento de sus atribuciones, diferentes a la fracción VI de este artículo;
+
+X. Proponer y promover, en materia de su competencia, mecanismos de cooperación a nivel internacional en coordinación con la Subsecretaría de Comercio Exterior y demás autoridades competentes;
+
+XI. Fungir, en su ámbito de competencia, como enlace con organismos nacionales e internacionales para la generación de indicadores y propuestas de política pública para el funcionamiento eficiente de los mercados y mejorar el ambiente de negocios;
+
+XII. Proponer a su superior jerárquico realizar y coordinar la elaboración de estudios en materia de funcionamiento eficiente de los mercados;
+
+XIII. Identificar los principales factores que inhiben la competitividad y comunicarlos al Comité Nacional de Productividad, a fin de orientar las propuestas de política correspondientes;
+
+XIV. Ejecutar y operar programas e instrumentos que estimulen la mejora de la productividad en las regiones y sectores industriales del país con el fin de promover la competitividad;
+
+XV. Dar seguimiento a las estrategias, líneas de acción e indicadores de los programas derivados del Plan Nacional de Desarrollo correspondiente, vinculados a la competitividad, para contribuir al análisis del impacto de las acciones de gobierno en el desempeño del país, en los indicadores nacionales e internacionales de competitividad;
+
+XVI. Participar con los sectores público, social y privado en el diseño e implementación de agendas transversales, sectoriales y regionales que promuevan la competitividad del país;
+
+XVII. Participar y, en su caso, coordinar la operación y fortalecimiento de los órganos colegiados, comités o mecanismos interinstitucionales constituidos por instancias público-privadas en materia de competitividad;
+
+XVIII. Registrar y dar seguimiento a los acuerdos adoptados por las instancias previstas en la fracción anterior;
+
+XIX. Realizar actividades de investigación y análisis en materia de competitividad;
+
+XX. Coadyuvar en las acciones que se orienten a posicionar a México en los indicadores de competitividad que emitan los organismos nacionales e internacionales;
+
+XXI. Participar con la Secretaría de Hacienda y Crédito Público en la elaboración del Programa Especial para la Productividad y la Competitividad, en términos de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional y demás disposiciones jurídicas aplicables, y
+
+XXII. Ejercer las atribuciones que en materia de competitividad se otorgan a la Secretaría en disposiciones legales y que no están delegadas o conferidas expresamente a otra unidad administrativa.
+
+La persona Titular de la Dirección General de Competitividad y Competencia será auxiliada en el ejercicio de sus facultades por las personas Titulares de las Direcciones de Competencia y Eficiencia en los Mercados; de Análisis de Competencia; de Análisis Jurídico y Regulatorio; de Enlace y Gestión de Políticas Públicas, y de Procesos, y demás unidades subalternas en términos del artículo 11 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 40.
 
-La Dirección General de Contenido Nacional en el Sector Energético tiene las atribuciones siguientes:
+La Dirección General de Contenido Nacional y Fomento en el Sector Energético tiene las atribuciones siguientes:
 
-I. Elaborar y proponer a su superior jerárquico la meta de contenido nacional en términos de la Ley de Hidrocarburos;
+I. Establecer la meta de contenido nacional en términos del artículo 46 de la Ley de Hidrocarburos;
 
-II. Elaborar el proyecto de la metodología para medir el contenido nacional en asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, así como en la industria eléctrica;
+II. Formular los proyectos de las metodologías que servirán para medir el contenido nacional en las asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, y el grado de contenido nacional en la industria eléctrica;
 
-III. Elaborar los proyectos de las disposiciones por las que los asignatarios, contratistas y permisionarios, así como las empresas de la industria eléctrica deberán proporcionar la información sobre el contenido nacional en las actividades que realicen en la industria de hidrocarburos y eléctrica;
+III. Formular los proyectos de las disposiciones por las que se indique la forma en la que deberán informar a la Secretaría:
+
+a) Los asignatarios, contratistas y permisionarios a que se refiere la Ley de Hidrocarburos, sobre el contenido nacional en las actividades que estos realizan, e (sic)
+
+b) Las empresas de la industria eléctrica, sobre el grado de contenido nacional en las actividades que estos realizan;
 
 IV. Solicitar, en su caso, a las dependencias y entidades de la Administración Pública Federal, a las Empresas Productivas del Estado, así como a órganos constitucionales autónomos y demás órganos y organismos de las entidades federativas y municipales, las opiniones, información y documentación necesaria, en el ámbito de sus atribuciones en materia de contenido nacional en el sector energético;
 
 V. Medir y verificar el cumplimiento de las metas de contenido nacional establecidas en las asignaciones y contratos de exploración y extracción de hidrocarburos;
 
-VI. Realizar visitas de verificación para comprobar el cumplimiento de las disposiciones legales y reglamentarias en materia de contenido nacional;
+VI. Supervisar las visitas de verificación que se realicen, a efecto de comprobar el cumplimiento de las disposiciones legales y reglamentarias en materia de contenido nacional, en las asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, así como en la industria eléctrica, en términos de la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
 
 VII. Medir y verificar el cumplimiento de los porcentajes mínimos de contenido nacional establecidos en las asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, así como en la industria eléctrica, en términos de la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
 
-VIII. Solicitar el apoyo de un tercero independiente o de las autoridades competentes para verificar el contenido nacional en asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, así como en la industria eléctrica, en términos de la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
+VIII. Solicitar y revisar la información correspondiente a un tercero independiente o a las autoridades competentes para verificar el contenido nacional en asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, así como en la industria eléctrica, en términos de la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
 
-IX. Requerir, en su caso, la información a las empresas de la industria de hidrocarburos y de la industria eléctrica sobre el contenido nacional en las actividades que realicen, en términos de las disposiciones jurídicas aplicables;
+IX. Revisar, requerir y recibir, en su caso, la información a las empresas de la industria de hidrocarburos y de la industria eléctrica sobre el contenido nacional en las actividades que realicen, en términos de las disposiciones jurídicas aplicables;
 
-X. Elaborar y proponer al superior jerárquico, los proyectos de opinión respecto del porcentaje mínimo de contenido nacional que deberán cumplir individualmente y de forma progresiva los asignatarios y contratistas para la exploración y extracción de hidrocarburos, conforme a la Ley de Hidrocarburos;
+X. Emitir las opiniones que le solicite la Secretaría de Energía, respecto:
 
-XI. Elaborar y proponer al superior jerárquico la opinión respecto del porcentaje mínimo de contenido nacional que deberán cumplir las empresas de la industria eléctrica en cada contrato o asociación cuyo objeto sea la instalación o ampliación de la infraestructura necesaria para prestar el servicio público de transmisión y distribución de energía eléctrica;
+a) Del porcentaje mínimo de contenido nacional que deberán cumplir individualmente y de forma progresiva los asignatarios y contratistas para la exploración y extracción de hidrocarburos, conforme a la Ley de Hidrocarburos, e (sic)
 
-XII. Determinar e informar a la autoridad competente sobre el incumplimiento del porcentaje de contenido nacional que corresponda por parte de un asignatario o contratista de exploración y extracción de hidrocarburos, en términos de la Ley de Hidrocarburos;
+b) Del porcentaje mínimo de contenido nacional que deberán cumplir las empresas de la industria eléctrica en cada contrato o asociación cuyo objeto sea la instalación o ampliación de la infraestructura necesaria para prestar el servicio público de transmisión y distribución de energía eléctrica;
 
-XIII. Determinar e informar a la autoridad competente sobre el incumplimiento del porcentaje mínimo de contenido nacional que deben cumplir las empresas de la industria eléctrica en cada contrato o asociación cuyo objeto sea la instalación o ampliación de la infraestructura necesaria para prestar el servicio público de transmisión y distribución de energía eléctrica;
+XI. Determinar e informar a la autoridad competente sobre el incumplimiento del porcentaje de contenido nacional que corresponda por parte de un asignatario o contratista de exploración y extracción de hidrocarburos, en términos de la Ley de Hidrocarburos;
 
-XIV. Informar a la autoridad competente sobre el incumplimiento de la entrega de información por parte de las empresas de la industria eléctrica y del porcentaje de contenido nacional conforme a lo que establecen el inciso a) de la fracción II y la fracción VIII del artículo 165 de la Ley de la Industria Eléctrica;
+XII. Determinar e informar a la autoridad competente sobre el incumplimiento del porcentaje mínimo de contenido nacional que deben cumplir las empresas de la industria eléctrica en cada contrato o asociación cuyo objeto sea la instalación o ampliación de la infraestructura necesaria para prestar el servicio público de transmisión y distribución de energía eléctrica;
 
-XV. Solicitar a la Secretaría de Energía el listado de las empresas de la industria eléctrica con la finalidad de poder requerir la información sobre el grado de contenido nacional en las actividades que realizan en términos del segundo párrafo del artículo 91 de la Ley de la Industria Eléctrica, y
+XIII. Informar a la autoridad competente sobre el incumplimiento de la entrega de información por parte de las empresas de la industria eléctrica y del porcentaje de contenido nacional conforme a lo que establecen el inciso a) de la fracción II y la fracción VIII del artículo 165 de la Ley de la Industria Eléctrica;
 
-XVI. Imponer las sanciones que corresponden a la Secretaría conforme a lo previsto en la Ley de Hidrocarburos.
+XIV. Solicitar a la Secretaría de Energía el listado de las empresas de la industria eléctrica con la finalidad de poder requerir la información sobre el grado de contenido nacional en las actividades que realizan en términos del segundo párrafo del artículo 91 de la Ley de la Industria Eléctrica;
 
-La persona Titular de la Dirección General de Contenido Nacional en el Sector Energético será auxiliada en el ejercicio de sus facultades por las personas Titulares de las Direcciones de Verificación de Contenido Nacional “A” y “B”; de Política de Contenido Nacional, y por las personas Titulares de las Jefaturas de Departamento de Verificación de Contenido Nacional “A” y “B”, y de Política de Contenido Nacional “A”, “B” y “C”, y demás unidades subalternas, en términos del artículo 11 de este Reglamento.
+XV. Imponer las sanciones que corresponden a la Secretaría conforme a lo previsto en la Ley de Hidrocarburos;
+
+XVI. Opinar respecto de condiciones que, en su caso, se establezcan en los contratos para el financiamiento, instalación, mantenimiento, gestión, operación y ampliación de la infraestructura necesaria para prestar el servicio público de transmisión y distribución de energía eléctrica que, bajo las mismas circunstancias, se otorgue para dar cumplimiento con las preferencias que señala el artículo 93 de la Ley de la Industria Eléctrica;
+
+XVII. Solicitar, en su caso, a las dependencias y entidades de la Administración Pública Federal, a las Empresas Productivas del Estado, así como a órganos constitucionales autónomos y demás órganos y organismos de las entidades federativas y municipales, las opiniones, información y documentación necesaria, en el ámbito de sus atribuciones, a efecto de coadyuvar en el desarrollo de la política nacional de fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica;
+
+XVIII. Opinar respecto del establecimiento de las condiciones que deben incluirse en las asignaciones y los contratos para la exploración y extracción, así como en los permisos que contempla la Ley de Hidrocarburos que, bajo las mismas circunstancias, se otorgue para dar cumplimiento con las preferencias que señala el artículo 128 de dicha Ley;
+
+XIX. Recibir las solicitudes de opinión que, en su caso, se le formulen a la Secretaría con motivo de lo previsto en los artículos 46, párrafo tercero y 128 de la Ley de Hidrocarburos y 93 de la Ley de la Industria Eléctrica, y 128 del Reglamento de la Ley de la Industria Eléctrica;
+
+XX. Elaborar y publicar informes sobre los avances en la implementación de las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica, así como cualquier otro reporte e informe de carácter público;
+
+XXI. Dirigir los trabajos para identificar los sectores industriales y las regiones en que se enfocará la estrategia para el fomento de cadenas productivas locales, alineados a la demanda de las industrias de hidrocarburos y eléctrica, a efecto de coadyuvar en la implementación de la política nacional de fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica;
+
+XXII. Formular estudios y programas de promoción de la industria de hidrocarburos y eléctrica, así como organizar, coordinar y participar en congresos y eventos relacionados con la promoción de las mismas, que apoyen en la definición de estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en dichas industrias;
+
+XXIII. Definir, con la opinión de la Secretaría de Energía, las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica, conforme a la Ley de Hidrocarburos y la Ley de la Industria Eléctrica, así como supervisar el seguimiento al avance en la implementación de dichas estrategias;
+
+XXIV. Fijar esquemas de capacitación y orientación que fomenten la participación de las micro, pequeñas y medianas empresas en las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en la industria de hidrocarburos y eléctrica;
+
+XXV. Integrar, administrar y actualizar el registro de proveedores nacionales para la industria de hidrocarburos;
+
+XXVI. Integrar, administrar y actualizar el catálogo de proveedores nacionales para la industria eléctrica;
+
+XXVII. Ejercer las atribuciones conferidas a la Secretaría en la Ley de Transición Energética, para lo cual podrá coordinarse con otras unidades administrativas y órganos administrativos desconcentrados de la Secretaría, con dependencias y entidades de la Administración Pública Federal, así como con Empresas Productivas del Estado, para el cumplimiento de dicho ordenamiento;
+
+XXVIII. Participar en los Consejos Consultivos a los que se refieren los artículos 125 de la Ley de Hidrocarburos y 90 de la Ley de la Industria Eléctrica, así como vigilar y dar seguimiento al cumplimiento de las resoluciones y compromisos adoptados en dichos Consejos, y designar a un servidor público que fungirá como Secretario Técnico de los mismos;
+
+XXIX. Elaborar el anteproyecto de lineamientos de funcionamiento interno del Consejo Consultivo para el Fomento de la Industria de Hidrocarburos Nacional, y proponer dicho anteproyecto al Presidente del referido Consejo Consultivo;
+
+XXX. Elaborar el anteproyecto de lineamientos de funcionamiento interno del Consejo Consultivo para el Fomento a la Industria Eléctrica Nacional, y proponer dicho anteproyecto al Presidente del referido Consejo Consultivo;
+
+XXXI. Dirigir la operación de fondos y demás instrumentos de impulso, existentes o que se constituyan para la promoción y desarrollo de proveedores y contratistas nacionales de la industria energética, y dar seguimiento a los compromisos que deriven del ejercicio de los recursos para promover el desarrollo de proveedores y contratistas nacionales de la industria energética;
+
+XXXII. Emitir resoluciones sobre las consultas y solicitudes que formulen los particulares a los requerimientos que se les realicen sobre el contenido nacional en las actividades que realicen en términos de las disposiciones jurídicas aplicables;
+
+XXXIII. Colaborar con la Unidad de Inteligencia Económica Global en la organización de reuniones que permitan la formulación y coordinación de estrategias de inversión para el fomento de la participación directa de empresas mexicanas para llevar a cabo, por sí mismas, las actividades en la industria de hidrocarburos y eléctrica, así como para promover la asociación entre empresas mexicanas y extranjeras, para efectuar las actividades en la industria de hidrocarburos y eléctrica;
+
+XXXIV. Colaborar con la Unidad de Inteligencia Económica Global en la organización de reuniones que contribuyen en la promoción de la inversión nacional y extranjera para que se realicen actividades de permanencia en México directamente en la industria de hidrocarburos y eléctrica, y para impulsar la transferencia de tecnología y el conocimiento en la industria de hidrocarburos y eléctrica;
+
+XXXV. Coordinar el diseño de los procesos y procedimientos que permitan el desarrollo de las actividades de la Dirección General, y
+
+XXXVI. Coordinar el diseño del marco normativo requerido para llevar a cabo las atribuciones que tiene conferidas la Secretaría en la Ley de Hidrocarburos y la Ley de la Industria Eléctrica y demás normativa aplicable, sin perjuicio de la intervención que corresponda a la Unidad de Apoyo Jurídico.
+
+La persona Titular de la Dirección General de Contenido Nacional y Fomento en el Sector Energético será auxiliada en el ejercicio de sus facultades por las personas Titulares de las Direcciones de Verificación de Contenido Nacional "A" y "B"; de Política de Contenido Nacional, y por las personas Titulares de las Jefaturas de Departamento de Verificación de Contenido Nacional "A" y "B", y de Política de Contenido Nacional "A", "B" y "C", y demás unidades subalternas, en términos del artículo 11 de este Reglamento.
 
 ###### ARTÍCULO 41.
 
-La Dirección General de Fomento de Cadenas Productivas e Inversión en el Sector Energético tiene las atribuciones siguientes:
-
-I. Opinar respecto de condiciones que, en su caso, se establezcan en los contratos para el financiamiento, instalación, mantenimiento, gestión, operación y ampliación de la infraestructura necesaria para prestar el servicio público de transmisión y distribución de energía eléctrica que, bajo las mismas circunstancias, se otorgue para dar cumplimiento con las preferencias que señala el artículo 93 de (sic) Ley de la Industria Eléctrica;
-
-II. Solicitar, en su caso, a las dependencias y entidades de la Administración Pública Federal, a las Empresas Productivas del Estado, así como a órganos constitucionales autónomos y demás órganos y organismos de las entidades federativas y municipales, las opiniones, información y documentación necesaria, en el ámbito de sus atribuciones, a efecto de coadyuvar en el desarrollo de la política nacional de fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica;
-
-III. Opinar respecto del establecimiento de las condiciones que deben incluirse en las asignaciones y los contratos para la exploración y extracción, así como en los permisos que contempla la Ley de Hidrocarburos que, bajo las mismas circunstancias, se otorgue para dar cumplimiento con las preferencias que señala el artículo 128 de dicha Ley;
-
-IV. Elaborar informes sobre los avances en la implementación de las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica, así como cualquier otro reporte e informe de carácter público;
-
-V. Identificar los sectores industriales y las regiones en que se enfocará la estrategia para el fomento industrial de cadenas productivas locales alineados a la demanda de las industrias de hidrocarburos y eléctrica, a efecto de coadyuvar en la implementación de la política nacional que en dichas materias se fije;
-
-VI. Promover la elaboración de estudios y programas de promoción de la industria de hidrocarburos y eléctrica;
-
-VII. Definir los esquemas de capacitación y orientación que fomenten la participación de las micro, pequeñas y medianas empresas en las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en la industria de hidrocarburos y eléctrica;
-
-VIII. Integrar, administrar y actualizar el registro de proveedores nacionales para la industria de hidrocarburos;
-
-IX. Integrar, administrar y actualizar el catálogo de proveedores nacionales para la industria eléctrica;
-
-X. Ejercer las atribuciones conferidas a la Secretaría en la Ley de Transición Energética, para lo cual podrá coordinar sus acciones con otras unidades administrativas de la Secretaría, con dependencias y entidades de la Administración Pública Federal, así como con Empresas Productivas del Estado, y
-
-XI. Fungir como Secretaría Técnica de los Consejos Consultivos a los que se refieren los artículos 125 de la Ley de Hidrocarburos y 90 de la Ley de la Industria Eléctrica, así como vigilar y dar seguimiento sobre el cumplimiento de las resoluciones y compromisos adoptados en dichos Consejos Consultivos.
+(DEROGADO, D.O.F. 12 DE ABRIL DE 2021)
 
 ###### ARTÍCULO 42.
 
-La Dirección General de Procesos y Programas de Apoyo tiene las atribuciones siguientes:
-
-I. Recibir los requerimientos de información que la Secretaría realice a las empresas de la industria de hidrocarburos y de la industria eléctrica sobre el contenido nacional en las actividades que realicen, en los términos de las disposiciones jurídicas aplicables;
-
-II. Recibir las solicitudes de opinión que, en su caso, se le formulen a la Secretaría con motivo de lo previsto en los artículos 46, párrafo tercero y 128 de la Ley de Hidrocarburos y 93 de la Ley de la Industria Eléctrica, y 128 del Reglamento de la Ley de la Industria Eléctrica;
-
-III. Participar en los Consejos Consultivos a los que se refieren los artículos 125 de la Ley de Hidrocarburos y 90 de la Ley de la Industria Eléctrica, así como vigilar y dar seguimiento sobre el cumplimiento de las resoluciones y compromisos adoptados en dichos Consejos Consultivos;
-
-IV. Elaborar el anteproyecto de lineamientos de funcionamiento interno del Consejo Consultivo para el Fomento de la Industria de Hidrocarburos Nacional, y proponer dicho anteproyecto al Presidente del referido Consejo Consultivo;
-
-V. Elaborar el anteproyecto de lineamientos de funcionamiento interno del Consejo Consultivo para el Fomento a la Industria Eléctrica Nacional, y proponer dicho anteproyecto al Presidente del referido Consejo Consultivo;
-
-VI. Operar el Fideicomiso Público para Promover el Desarrollo de Proveedores y Contratistas Nacionales de la Industria Energética, a fin de dar cumplimiento a lo dispuesto en la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
-
-VII. Participar en el diseño y en la elaboración de propuestas al superior jerárquico, de las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica, así como dar seguimiento al avance en la implementación de aquellas estrategias que, en su caso, se aprueben, y
-
-VIII. Participar en las resoluciones que emita la Dirección General de Contenido Nacional en el Sector Energético sobre las consultas y solicitudes que formulen los particulares a los requerimientos que se les realizan sobre el contenido nacional en las actividades que realicen en términos de las disposiciones jurídicas aplicables.
+(DEROGADO, D.O.F. 12 DE ABRIL DE 2021)
 
 ###### ARTÍCULO 43.
 
@@ -1699,9 +1975,13 @@ III. Intervenir en la elaboración de toda clase de convenios, contratos, acuerd
 
 IV. Determinar el procedimiento interno para el resguardo y liberación de fianzas de anticipos y cumplimiento de contratos, así como orientar en su aplicación y observancia a las unidades administrativas de la Secretaría responsables;
 
-V. Representar, cuando así lo determine la persona Titular de la Unidad de Apoyo Jurídico, a la persona Titular de la Unidad de Desarrollo Productivo y las unidades administrativas adscritas a esta, en todos los trámites dentro de los juicios de amparo, así como suscribir promociones, desahogar trámites y asistir a audiencias y diligencias, que exija el trámite procesal de cualquier otra instancia de carácter judicial o contencioso administrativo en la que sean parte dichos servidores públicos;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-VI. Interponer ante las instancias legales correspondientes, las promociones necesarias que deba hacer la Unidad de Desarrollo Productivo, para la defensa de los intereses de la Secretaría, sin perjuicio de las facultades de la persona Titular de la Unidad de Apoyo Jurídico y las demás unidades administrativas adscritas a esta, y
+V. Proveer la información necesaria a la Unidad de Apoyo Jurídico, para la representación que corresponda de la persona Titular de la Unidad de Desarrollo Productivo y las unidades administrativas adscritas a esta, en todos los trámites dentro de los juicios de amparo, así como para todas las promociones, desahogo de trámites, audiencias y diligencias, que exija el trámite procesal de cualquier otra instancia de carácter judicial o contencioso administrativo en la que sean parte dichos servidores públicos;
+
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+VI. Auxiliar a la Unidad de Apoyo Jurídico, cuando así lo solicite esta, en la formulación de las promociones necesarias que deba hacer la Unidad de Desarrollo Productivo, para la defensa de los intereses de la Secretaría, y
 
 VII. Coordinar y expedir copias certificadas de los documentos que obren en los archivos de la Unidad de Desarrollo Productivo y las unidades administrativas adscritas a esta, cuando deban ser exhibidas ante las autoridades judiciales, administrativas y del trabajo o cuando medie solicitud de parte que acredite su interés jurídico.
 
@@ -1747,7 +2027,9 @@ VII. Llevar a cabo las acciones necesarias para la implementación de los progra
 
 La Dirección General de Seguimiento a Compromisos Institucionales tiene las atribuciones siguientes:
 
-I. Dar seguimiento a los proyectos que sean presentados a la Secretaría por las micro, pequeñas y medianas empresas y los emprendedores, a lo largo de todo el proceso que culmina con la aprobación o rechazo del proyecto respectivo;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+I. Coordinar, promover y ejecutar, de conformidad con la normativa aplicable, todas las acciones que correspondan en materia de seguimiento a los proyectos apoyados mediante subsidios, que se encuentren en trámite ante la Unidad de Desarrollo Productivo, hasta su total conclusión;
 
 II. Proponer, a su superior jerárquico, políticas, criterios generales, lineamientos y mecanismos en materia de evaluación y seguimiento a los programas que corresponde implementar a la Unidad de Desarrollo Productivo;
 
@@ -1813,6 +2095,8 @@ IX. Fungir como la oficina encargada de la recepción de notificaciones y otros 
 
 X. Coordinar la participación de la Secretaría con las dependencias y entidades competentes de la Administración Pública Federal para el debido cumplimiento de las resoluciones que se deriven de esos procedimientos de solución de controversias, incluidos los acuerdos o convenios a que se refiere la fracción VIII de este artículo.
 
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 49.
 
 La Dirección General de Planeación y Estrategias de Negociación tiene las atribuciones siguientes:
@@ -1823,9 +2107,27 @@ II. Apoyar en la conducción de las negociaciones comerciales internacionales en
 
 III. Conducir, en términos de las disposiciones legales aplicables, la participación de otras dependencias y entidades de la Administración Pública Federal, y en las consultas con estas y los sectores de comercio involucrados, en las relaciones comerciales internacionales y en los procesos de negociación comercial internacional con otros países, bloques económicos, organismos y foros comerciales internacionales;
 
-IV. Coordinar la estrategia en materia comercial y la relación de México con los socios comerciales, sin perjuicio de las atribuciones de otras dependencias y entidades de la Administración Pública Federal, y
+IV. Coordinar la estrategia en materia comercial y la relación de México con los socios comerciales, sin perjuicio de las atribuciones de otras dependencias y entidades de la Administración Pública Federal;
 
-V. Coordinar, con la Unidad de Negociaciones Comerciales Internacionales, la participación del Estado mexicano en organismos y foros internacionales.
+V. Coordinar, con la Unidad de Negociaciones Comerciales Internacionales, la participación del Estado mexicano en organismos y foros internacionales;
+
+VI. Dirigir el seguimiento y la evaluación permanente de la relación comercial de México con socios estratégicos, con el fin de identificar instrumentos que permitan eliminar obstáculos y profundizar la relación económica comercial con los mismos; así como proponer estrategias de negociación en la relación económica comercial;
+
+VII. Evaluar las iniciativas internacionales en materia de comercio e inversión que se planteen en organismos regionales e internacionales con el fin de realizar propuestas para definir la posición de nuestro país, atendiendo a sus intereses y en línea con la política comercial de México;
+
+VIII. Coordinar la participación de México en los foros comerciales internacionales y regionales, con el objetivo de promover y fortalecer el sistema multilateral de comercio, así como la integración regional;
+
+IX. Dirigir el diseño e implementación de un plan de difusión de los tratados y acuerdos comerciales de México, con el fin de que el sector empresarial conozca los beneficios de estos instrumentos, los aproveche y propicie la inclusión con más sectores, empresas y regiones;
+
+X. Coordinar las acciones en materia de cooperación internacional para desarrollar proyectos estratégicos con el fin de fortalecer la política comercial de México;
+
+XI. Dirigir la elaboración del plan de trabajo anual de la Subsecretaría de Comercio Exterior, en materia de negociaciones con el acompañamiento de las áreas competentes, así como procurar el seguimiento de compromisos y defensa de los intereses de México, con el propósito de definir los objetivos, líneas de acción y actividades específicas para el logro de la función institucional;
+
+XII. Coordinar la formulación de los informes sobre la ejecución y avance de los programas, planes y proyectos de la Subsecretaría de Comercio Exterior, con la finalidad de contar con información actualizada y oportuna para las negociaciones comerciales;
+
+XIII. Coordinar a las áreas sustantivas de la Subsecretaría de Comercio Exterior en la definición de estrategias en materia de negociaciones comerciales internacionales, con el fin de cumplir las metas de la propia Subsecretaría, conforme el Programa Sectorial de la Secretaría derivado del Plan Nacional de Desarrollo, y
+
+XIV. Coordinar la ejecución de las estrategias en materia de negociaciones comerciales internacionales, con la finalidad de cumplir con el objetivo institucional de fomentar la política de comercio exterior y la atracción de inversión extranjera.
 
 ###### ARTÍCULO 50.
 
@@ -1839,9 +2141,41 @@ III. Dar seguimiento a los procesos de negociaciones comerciales internacionales
 
 IV. Apoyar en las reuniones con organismos y foros comerciales en los que corresponde participar a la Secretaría, en coordinación con la Dirección General de Planeación y Estrategias de Negociación y la Dirección General de Comercio Internacional de Servicios e Inversión;
 
-V. Conducir la participación de otras dependencias y entidades de la Administración Pública Federal, y las consultas con estas y los sectores de comercio involucrados, en las relaciones comerciales internacionales, y
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-VI. Participar en las reuniones de seguimiento de acuerdos y tratados comerciales en los que México es parte.
+V. Conducir la participación de otras dependencias y entidades de la Administración Pública Federal, y las consultas con estas y los sectores de comercio involucrados, en las relaciones comerciales internacionales;
+
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+VI. Participar en las reuniones de seguimiento de acuerdos y tratados comerciales en los que México es parte;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+VII. Coordinar, en el ámbito de su competencia, los procesos de negociaciones comerciales internacionales en los que México participe con la finalidad de llevar un registro de los compromisos adquiridos por México;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+VIII. Dirigir la promoción y difusión de los tratados comerciales, con el propósito de dar a conocer sus beneficios entre el sector privado, otras dependencias del Ejecutivo Federal, el Poder Legislativo conjuntamente con la Oficina de Enlace Legislativo, y los gobiernos estatales y municipales, para el aprovechamiento óptimo de los mismos;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+IX. Dirigir la elaboración de documentos y el diseño de información en relación con el seguimiento, administración y supervisión del cumplimiento de tratados comerciales, a fin de que sirvan como insumos para determinar la negociación o actualización de los tratados comerciales necesarios para fortalecer el comercio y la inversión en México y con el propósito de apoyar en las reuniones con organismos y foros comerciales en los que corresponde participar a la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+X. Coordinar la presentación de insumos para la defensa de los intereses comerciales de México en el marco de los tratados comerciales, a fin de coadyuvar en la definición de las estrategias políticas, legales y de comunicación respecto de controversias o afectaciones a los intereses comerciales y de inversión en México o de México en el exterior;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XI. Establecer los mecanismos de consulta con el sector privado, con la finalidad de apoyar en la atención de sus intereses y preocupaciones en materia de tratados comerciales;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XII. Coadyuvar en el análisis y determinación de las estrategias de negociación con los socios comerciales de México que se determinen, con el propósito de cumplir con el objetivo institucional de fomentar la política de comercio exterior y atracción de inversión extranjera, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XIII. Coordinar la participación de otras dependencias y entidades de la Administración Pública Federal, y las consultas con estas y los sectores de comercio involucrados, en las relaciones comerciales internacionales, con el propósito de dar cumplimiento a los compromisos establecidos en los tratados comerciales.
 
 ###### ARTÍCULO 51.
 
@@ -1871,11 +2205,15 @@ XI. Fungir como punto nacional de contacto de conformidad con las Líneas Direct
 
 La atribución a que se refiere la fracción II de este artículo se ejercerá de manera coordinada con la Subsecretaría de Comercio Exterior.
 
-La persona Titular de la Dirección General de Inversión Extranjera será auxiliada en el ejercicio de sus facultades por la persona Titular de la Dirección General Adjunta del Registro Nacional de Inversiones Extranjeras, conforme a sus atribuciones, así como por las personas Titulares de las Direcciones de Asuntos Jurídicos y de la Comisión Nacional de Inversiones Extranjeras; por las personas Titulares de las Jefaturas de Departamento del Registro Nacional de Inversiones Extranjeras; de Asuntos Jurídicos para la Inversión Extranjera; de la Comisión Nacional de Inversiones Extranjeras; de Seguimiento a Obligaciones Registrales; de Informes Trimestrales de Ingresos y Egresos, y demás unidades subalternas en términos del artículo 11 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+La persona Titular de la Dirección General de Inversión Extranjera será auxiliada en el ejercicio de sus facultades por la persona Titular de la Coordinación del Registro Nacional de Inversiones Extranjeras, conforme a sus atribuciones, así como por las personas Titulares de las Direcciones de Asuntos Jurídicos y de la Comisión Nacional de Inversiones Extranjeras, y de Trámites Registrales; por las personas Titulares de las Jefaturas de Departamento del Registro Nacional de Inversiones Extranjeras; de Asuntos Jurídicos para la Inversión Extranjera; de la Comisión Nacional de Inversiones Extranjeras; de Seguimiento a Obligaciones Registrales; de Informes Trimestrales de Ingresos y Egresos, y demás unidades subalternas en términos del artículo 11 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 52.
 
-La Dirección General Adjunta del Registro Nacional de Inversiones Extranjeras tiene las atribuciones siguientes:
+La Coordinación del Registro Nacional de Inversiones Extranjeras tiene las atribuciones siguientes:
 
 I. Operar el Registro Nacional de Inversiones Extranjeras, con inclusión de las inscripciones, modificaciones, actualizaciones, cancelaciones y anotaciones y demás actos necesarios;
 
@@ -1889,9 +2227,23 @@ V. Atender las consultas que se formulen a la Secretaría, en materia del Regist
 
 VI. Dirigir la presentación de informes o avisos al Registro Nacional de Inversiones Extranjeras, con inclusión de las resoluciones de prórrogas para el cumplimiento de obligaciones ante el Registro;
 
-VII. Autorizar las consultas de expedientes del Registro Nacional de Inversiones Extranjeras, en el ámbito de su competencia, y
+VII. Autorizar las consultas de expedientes del Registro Nacional de Inversiones Extranjeras, en el ámbito de su competencia;
 
-VIII. Las demás que le confieran otras disposiciones legales o administrativas en el ámbito de su competencia, así como las que le encomiende su superior jerárquico.
+VIII. Intervenir en la ejecución de los lineamientos de política en materia de inversión extranjera, así como en las resoluciones generales de la Comisión Nacional de Inversiones Extranjeras y formular los requerimientos que se deriven de estos;
+
+IX. Participar en la evaluación y resolución de los proyectos de inversión extranjera que se presenten a la consideración de la Comisión Nacional de Inversiones Extranjeras, así como dictaminar los mismos y dar el seguimiento requerido para su debida instrumentación;
+
+X. Formular el análisis jurídico de las solicitudes de autorización que se presenten a la Secretaría en materia de inversión neutra, de establecimiento de personas morales extranjeras, y formular las resoluciones administrativas en términos de la Ley de Inversión Extranjera y el Reglamento de la Ley de Inversión Extranjera y del Registro Nacional de Inversiones Extranjeras, así como participar en aquellas inherentes a la interpretación de dichos ordenamientos normativos para efectos administrativos;
+
+XI. Ejecutar los actos jurídicos que deriven de la vigilancia y verificación del cumplimiento de las disposiciones en materia de inversión extranjera contempladas en la Ley de Inversión Extranjera y su Reglamento, de las resoluciones generales de la Comisión Nacional de Inversiones Extranjeras, de cualquier otra disposición complementaria y de los compromisos establecidos en resoluciones administrativas; determinar las sanciones correspondientes por incumplimiento a las mismas, así como resolver los recursos administrativos correspondientes;
+
+XII. Apoyar al Director General de Inversión Extranjera respecto del ejercicio de las funciones de enlace y Secretario Técnico de la Comisión Nacional de Inversiones Extranjeras; así como coadyuvar en la vigilancia y verificación del cumplimiento de las resoluciones y compromisos adoptados en dicha Comisión;
+
+XIII. Apoyar al Director General de Inversión Extranjera en el desarrollo de las actividades inherentes a la facultad de ser el Punto Nacional de Contacto de México ante la Organización para la Cooperación y el Desarrollo Económicos, de conformidad con las Líneas Directrices para Empresas Multinacionales de la Organización para la Cooperación y el Desarrollo Económicos;
+
+XIV. Intervenir y emitir opinión respecto de los asuntos jurídicos de la Unidad de Inteligencia Económica Global, para contribuir a la atracción y retención de inversión extranjera, conforme a las facultades que corresponden a dicha Unidad, sin perjuicio de las atribuciones que corresponden a la Unidad de Apoyo Jurídico, y
+
+XV. Las demás que le confieran otras disposiciones legales o administrativas en el ámbito de su competencia, así como las que le encomiende su superior jerárquico.
 
 ###### ARTÍCULO 53.
 
@@ -1911,15 +2263,63 @@ VI. Coordinar las consultas que la Secretaría efectúe al sector privado y a de
 
 VII. Coadyuvar en la elaboración de informes sobre los resultados de los procesos de negociación de tratados internacionales en materia de servicios e inversión y en la atención a organismos y foros internacionales en dichas materias.
 
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 54.
 
 La Dirección General de Disciplinas de Comercio Internacional tiene las siguientes atribuciones:
 
 I. Diseñar y ejecutar, en coordinación con otras unidades administrativas de la Secretaría, así como con dependencias y entidades de la Administración Pública Federal y otros entes públicos competentes, estrategias sobre negociaciones comerciales internacionales en materia de medidas sanitarias y fitosanitarias, obstáculos técnicos al comercio, mejora regulatoria, prácticas desleales de comercio internacional, medidas de salvaguarda, propiedad intelectual, comercio y medio ambiente, comercio y trabajo, compras del sector público, política de competencia y empresas propiedad del Estado;
 
-II. Conducir la participación de otras dependencias y entidades de la Administración Pública Federal y otros entes públicos, y las consultas con estas y los sectores involucrados, en las relaciones comerciales internacionales y en los procesos de negociación comercial internacional en las materias referidas en la fracción I de este artículo, y
+II. Conducir la participación de otras dependencias y entidades de la Administración Pública Federal y otros entes públicos, y las consultas con estas y los sectores involucrados, en las relaciones comerciales internacionales y en los procesos de negociación comercial internacional en las materias referidas en la fracción I de este artículo;
 
-III. Coordinar, con las autoridades competentes de la Administración Pública Federal, los trabajos que se relacionan con las materias referidas en la fracción I de este artículo.
+III. Coordinar, con las autoridades competentes de la Administración Pública Federal, los trabajos que se relacionan con las materias referidas en la fracción I de este artículo;
+
+IV. Coordinar el diseño de las estrategias para las negociaciones comerciales bilaterales, regionales y multilaterales de las materias referidas en la fracción I de este artículo, con la finalidad de identificar los temas de interés de México en dichos procesos de negociación comercial internacional;
+
+V. Ejecutar la estrategia de México en las negociaciones comerciales internacionales respecto de las materias referidas en la fracción I de este artículo, en las que México participe, con el propósito de asegurar la defensa de los temas de interés nacionales en dichas negociaciones comerciales internacionales;
+
+VI. Opinar, en el ámbito de su competencia, sobre la necesidad de presentar temas a consideración de foros comerciales internacionales relacionados con las materias a las que se refiere la fracción I de este artículo;
+
+VII. Establecer, en el ámbito de su competencia, los elementos para la participación de México en las negociaciones internacionales conducidas por otras dependencias de la Administración Pública Federal, con la finalidad de identificar y evaluar posibles compromisos relacionados con las materias referidas en la fracción I de este artículo;
+
+VIII. Coordinar el seguimiento de la implementación de las disposiciones de los tratados internacionales en materia económica que México ha suscrito, relacionadas con las materias referidas en la fracción I de este artículo, a fin de asegurar el cumplimiento de los compromisos asumidos en dichos tratados;
+
+IX. Coordinar, en el ámbito de su competencia, la elaboración de los insumos que sean requeridos para la discusión de asuntos en las materias a las que se refiere la fracción I de este artículo, con el propósito de proporcionar información oportuna para la participación de funcionarios de la Secretaría en reuniones de alto nivel, tales como las comisiones administradoras de los tratados de libre comercio;
+
+X. Coordinar y participar en las reuniones de grupos de trabajo y comités regionales o multilaterales derivados de tratados internacionales en materia económica que comprendan reglas o disciplinas en las materias referidas en la fracción I de este artículo, para asegurar la representación de México y la atención a los temas de interés para nuestro país;
+
+XI. Aportar elementos vinculados a las materias referidas en la fracción I de este artículo, con la finalidad de responder o conformar la respuesta a solicitudes específicas que se formulen a la Secretaría;
+
+XII. Opinar sobre las propuestas legislativas o regulatorias respecto de las materias referidas en la fracción I de este artículo, en coordinación con las unidades administrativas competentes de la Secretaría, y
+
+XIII. Coadyuvar en la realización de reuniones relativas al comercio internacional de acero en el ámbito regional o multilateral, y preparar las reuniones y la posición de México para los trabajos del grupo de trabajo de tequila entre México y Estados Unidos, y el Comité de Bebidas Espirituosas Unión Europea-México, con el propósito de representar a México.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 54 BIS.- La Dirección General de Sistemas de Información Estadística de Comercio Internacional tiene las atribuciones siguientes:
+
+I. Diseñar esquemas de vinculación interinstitucional para coordinar la generación e intercambio de información de comercio internacional, con las fuentes nacionales e internacionales, a fin de proporcionar a la Subsecretaría de Comercio Exterior y sus unidades administrativas, información para los procesos de negociación y seguimiento de acuerdos comerciales;
+
+II. Verificar la atención de las consultas de información en materia de estadística de comercio internacional realizadas por las dependencias y entidades de la Administración Pública Federal y sectores interesados, con la finalidad de atender las necesidades y prioridades de los usuarios internos y externos, nacionales e internacionales;
+
+III. Vigilar que el criterio de reciprocidad en el intercambio de la información de comercio internacional se realice con apego a los acuerdos realizados en las negociaciones comerciales, con la finalidad de garantizar el cumplimiento de la normativa y los estándares nacionales e internacionales;
+
+IV. Establecer los requerimientos de almacenamiento, control, consulta y difusión de la información de comercio internacional de México y los países socios, para satisfacer las necesidades de los usuarios internos y externos;
+
+V. Consolidar la información generada en organismos y foros comerciales internacionales en los que se propicie el fomento del comercio exterior, la atracción de inversión extranjera, la creación de alianzas estratégicas entre los sectores privados nacionales y extranjeros, se promueva la defensa de los intereses comerciales de México y se vigile el cumplimiento de los compromisos de los grupos de alto nivel empresarial, a fin de contar con elementos estadísticos que apoyen en los procesos de negociación y administración de acuerdos comerciales;
+
+VI. Dirigir el análisis y diseño de los sistemas, reportes, informes, bases de datos de flujos comerciales internacionales, tarifas arancelarias e información relacionada con el comercio exterior de México, a fin de proporcionar información estadística de comercio internacional que apoye la posición de México en las negociaciones comerciales internacionales;
+
+VII. Participar en la operación del sitio de intercambio de información del Instituto Nacional de Estadística y Geografía, con la finalidad de contribuir al intercambio de información de interés nacional que prevé el artículo 51 de la Ley del Sistema Nacional de Información Estadística y Geográfica;
+
+VIII. Dirigir y coordinar la debida atención de las solicitudes que reciba la Secretaría, en términos de lo dispuesto por la Ley del Sistema Nacional de Información Estadística y Geográfica, con el propósito de proporcionar al Instituto Nacional de Estadística y Geografía la información de interés nacional, que formulen gobiernos extranjeros u organismos y agencias internacionales;
+
+IX. Dirigir la integración de la información de la balanza comercial de mercancías de México, con la finalidad de contar con datos referentes al volumen y valor de las exportaciones e importaciones de mercancías que realiza México con el resto del mundo;
+
+X. Impulsar la mejora continua de los sistemas de información estadística, a fin de atender las necesidades de información estadística de comercio internacional, comunicaciones, informáticas y soporte técnico, y
+
+XI. Implementar los sistemas y controles administrativos que permitan a las unidades administrativas adscritas a la Unidad de Negociaciones Comerciales Internacionales una adecuada operación, seguimiento y coordinación en los temas que se relacionen con estadísticas de comercio internacional.
 
 ###### ARTÍCULO 55.
 
@@ -1932,6 +2332,10 @@ II. Promover el desarrollo del sector minero en coordinación con autoridades de
 III. Promover la relación con las entidades federativas, municipios y alcaldías de la Ciudad de México; así como con las organizaciones de los sectores privado y social, vinculados con la industria minera, para la realización de programas conjuntos con dichos entes públicos o complementarios de otras unidades administrativas de la Secretaría, o para el intercambio de información y apoyo técnico;
 
 IV. Proponer, en zonas de producción minera, la construcción de obras de infraestructura y desarrollo de capacidades, con la opinión, en su caso, de las autoridades competentes de las entidades federativas, municipales y de las alcaldías de la Ciudad de México y con la participación de los pueblos y comunidades indígenas, así como de los sectores social y privado;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+IV Bis. Realizar las acciones necesarias para la aplicación de los recursos recaudados por concepto de derechos mineros en términos de las disposiciones aplicables;
 
 V. Participar, cuando se le designe, en los comités técnicos auxiliares de las entidades del sector coordinado en materia minera;
 
@@ -1969,15 +2373,21 @@ V. Elaborar un informe estadístico de producción minera, con base en el porcen
 
 VI. Solicitar a la Unidad de Apoyo Jurídico, se sometan a la consideración de la persona Titular del Ejecutivo Federal, a través de la Consejería Jurídica del Ejecutivo Federal, los anteproyectos de decreto relativos a la incorporación o desincorporación de zonas de reservas mineras, así como para determinar la concesibilidad de minerales o sustancias;
 
-VII. Expedir títulos de concesión o de asignación minera y sus duplicados, así como resolver sobre la corrección administrativa, sustitución, prórroga, desistimiento, cancelación o nulidad de los mismos, conforme al marco normativo aplicable;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+VII. Expedir títulos de concesión o de asignación minera y sus duplicados, así como resolver sobre la corrección administrativa, sustitución, prórroga, desistimiento, cancelación o nulidad de los mismos, conforme al marco normativo aplicable y previo dictamen favorable que, en su caso, emita la Unidad de Apoyo Jurídico;
 
 VIII. Coordinar las actividades necesarias para la celebración de concursos para el otorgamiento de concesiones mineras;
 
-IX. Formular las declaratorias de libertad de terreno o de insubsistencia de las mismas y solicitar su publicación en el Diario Oficial de la Federación;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+IX. Formular las declaratorias de libertad de terreno o de insubsistencia de las mismas, previo dictamen favorable por parte de la Unidad de Apoyo Jurídico, y solicitar su publicación en el Diario Oficial de la Federación;
 
 X. Autorizar la realización de obras y trabajos mineros de exploración y explotación de carbón en todas sus variedades en terrenos amparados por asignaciones o por contratos para la exploración y extracción de hidrocarburos, en términos de la Ley de Hidrocarburos y su Reglamento, así como los agrupamientos de concesiones mineras o la incorporación o separación de estas a dichos agrupamientos;
 
-XI. Tramitar y resolver los expedientes de expropiación, ocupación temporal y constitución de servidumbres e insubsistencia de estas;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XI. Tramitar y resolver los expedientes de expropiación, ocupación temporal y constitución de servidumbres e insubsistencia de estas, previo dictamen favorable por parte de la Unidad de Apoyo Jurídico;
 
 XII. Participar, en coordinación con la Dirección General de Normas y otras dependencias de la Administración Pública Federal, en la elaboración de normas oficiales mexicanas en materia minera;
 
@@ -1989,53 +2399,35 @@ XV. Opinar, a solicitud de la Comisión de Comercio Exterior o de la Dirección 
 
 XVI. Participar en los órganos de gobierno de las entidades del sector coordinado en materia minera, cuando se le designe;
 
-XVII. Resolver sobre la suspensión o insubsistencia de los derechos que deriven de la concesión, así como de la realización de obras y trabajos mineros;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XVII. Resolver sobre la suspensión o insubsistencia de los derechos que deriven de la concesión, así como de la realización de obras y trabajos mineros, previo dictamen favorable por parte de la Unidad de Apoyo Jurídico;
 
 XVIII. Realizar estudios técnicos, en coordinación con la Secretaría de Energía, para determinar la factibilidad de la coexistencia de actividades mineras con las actividades preferentes de exploración y extracción de petróleo y demás hidrocarburos, o con las del servicio público de transmisión y distribución de energía eléctrica;
 
 XIX. Diseñar, elaborar y proponer, en conjunto con la Secretaría de Energía, reglas de convivencia entre las actividades mineras y las actividades preferentes de exploración y extracción del petróleo y de los demás hidrocarburos y del servicio público de transmisión y distribución de energía eléctrica;
 
-XX. Llevar a cabo todas las acciones necesarias para la debida coordinación con las autoridades competentes en materia energética, a fin de cumplir con las disposiciones de la Ley Minera, la Ley de Hidrocarburos, la Ley de la Industria Eléctrica y sus Reglamentos, así como con las demás disposiciones jurídicas aplicables, y
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-XXI. Participar con las autoridades competentes, para determinar si en la superficie donde se encuentra el lote minero concesionado pueden coexistir las actividades mineras con las actividades preferentes de exploración y extracción de petróleo y demás hidrocarburos, o con las del servicio público de transmisión y distribución de energía eléctrica, así como si existe afectación a los derechos de una concesión minera donde se pretendan realizar las actividades preferentes a las que hace referencia esta fracción.
+XX. Realizar todas las acciones necesarias para la debida coordinación con las autoridades competentes en materia energética, a fin de cumplir con las disposiciones de la Ley Minera, la Ley de Hidrocarburos, la Ley de la Industria Eléctrica y sus Reglamentos, así como con las demás disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XXI. Participar con las autoridades competentes, para determinar si en la superficie donde se encuentra el lote minero concesionado pueden coexistir las actividades mineras con las actividades preferentes de exploración y extracción de petróleo y demás hidrocarburos, o con las del servicio público de transmisión y distribución de energía eléctrica, así como si existe afectación a los derechos de una concesión minera donde se pretendan realizar las actividades preferentes a las que hace referencia esta fracción;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XXII. Resolver los recursos de revisión presentados por particulares o concesionarios, previo dictamen favorable por parte de la Unidad de Apoyo Jurídico, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XXIII. Supervisar que los trámites, inscripciones de actos y certificaciones emitidos por la Dirección del Registro Público de Minería y Derechos Mineros, así como por la Dirección de Revisión de Obligaciones, hayan previamente sido dictaminadas favorablemente por la Unidad de Apoyo Jurídico.
 
 La persona Titular de la Dirección General de Minas será auxiliada en el ejercicio de sus facultades por las personas Titulares de las Direcciones de Control Documental e Indicadores Estratégicos; de Cartografía y Concesiones Mineras; del Registro Público de Minería y Derechos Mineros, y de Revisión de Obligaciones; por las personas Titulares de las Subdirecciones de Cartografía Minera; del Registro Público de Minería; de Control de Obligaciones; de Medio Ambiente, y por las personas Titulares de las Jefaturas de los Departamentos de Apoyo Geológico; de Dictaminación; de Inscripciones; de Concesiones de Exploración; de Concesiones y Asignaciones; de Registro de Obligaciones; de Verificación de Obligaciones; de Agrupamientos y Desistimientos; de Derechos Mineros, y demás unidades subalternas en términos del artículo 11 de este Reglamento.
 
 ###### ARTÍCULO 57.
 
-La Dirección General del Fondo para el Desarrollo de Zonas de Producción Minera tiene las atribuciones siguientes:
-
-I. Ejercer las atribuciones que corresponden a la Secretaría respecto del Fondo para el Desarrollo de Zonas de Producción Minera;
-
-II. Fungir de enlace interinstitucional de la Secretaría con los distintos órdenes de gobierno respecto de las actividades del Fondo para el Desarrollo de Zonas de Producción Minera;
-
-III. Fungir como Secretario de Actas del Comité Técnico del Fondo para el Desarrollo de Zonas de Producción Minera;
-
-IV. Proponer, a su superior jerárquico, los lineamientos para el ejercicio de los recursos del Fondo para el Desarrollo de Zonas de Producción Minera y, en su caso, sus modificaciones;
-
-V. Proponer, a la persona Titular de la Subsecretaría de Minería, la conformación de las Zonas de Producción Minera;
-
-VI. Difundir las disposiciones que rigen la operación del Fondo para el Desarrollo de Zonas de Producción Minera;
-
-VII. Orientar a las entidades federativas, municipios y alcaldías de la Ciudad de México para la presentación de proyectos que pretendan realizarse con cargo al Fondo para el Desarrollo de Zonas de Producción Minera, así como opinar si dichos proyectos cumplen con los requisitos correspondientes en términos de las disposiciones jurídicas aplicables;
-
-VIII. Informar al Comité Técnico del Fondo para el Desarrollo de Zonas de Producción Minera respecto de las aportaciones al patrimonio del Fideicomiso, su adecuado registro, control y rendición de cuentas;
-
-IX. Coordinar la participación de la Secretaría con las dependencias y entidades de la Administración Pública Federal, entidades federativas, municipios y alcaldías de la Ciudad de México, así como sus dependencias y entidades, en la celebración de los convenios relacionados con el Fondo para el Desarrollo de Zonas de Producción Minera;
-
-X. Coordinar y verificar la aplicación de los recursos del Fondo para el Desarrollo de las Zonas de Producción Minera;
-
-XI. Dar seguimiento a los proyectos autorizados hasta su conclusión, y verificar su cumplimiento conforme a las disposiciones jurídicas aplicables;
-
-XII. Cumplir con las obligaciones previstas en materia de transparencia, acceso a la información y protección de datos personales en relación con la operación del Fondo para el Desarrollo de Zonas de Producción Minera;
-
-XIII. Cumplir con las obligaciones en materia de rendición de cuentas respecto del Fondo para el Desarrollo de Zonas de Producción Minera en términos de las disposiciones jurídicas aplicables;
-
-XIV. Las que se requieran para la administración y ejecución de los recursos que se transfieran a la Secretaría respecto del Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros, y
-
-XV. Conducir los procedimientos relativos a las adquisiciones y contrataciones de servicios, obra pública y servicios relacionados con las mismas, que se requieran para la aplicación de los recursos del Fondo para el Desarrollo de Zonas de Producción Minera, en términos de las disposiciones jurídicas aplicables.
-
-La persona Titular de la Dirección General del Fondo para el Desarrollo de Zonas de Producción Minera será auxiliada en el ejercicio de sus facultades por la persona Titular de la Dirección de Organización del Fondo para el Desarrollo de Zonas de Producción Minera, y demás unidades subalternas en términos del artículo 11 de este Reglamento.
+(DEROGADO, D.O.F. 12 DE ABRIL DE 2021)
 
 ###### ARTÍCULO 58.
 
@@ -2079,15 +2471,33 @@ XVIII. Gestionar ante la Secretaría de Hacienda y Crédito Público las autoriz
 
 XIX. Gestionar el registro, renovación, modificación, extinción y demás trámites presupuestarios de los fideicomisos, mandatos y contratos análogos coordinados por la Secretaría y por las entidades paraestatales sectorizadas a esta;
 
-XX. Coadyuvar con la Dirección General de Recursos Humanos para formular y proponer a la persona Titular de la Unidad de Administración y Finanzas los lineamientos y procedimientos para la elaboración, actualización y dictamen de los manuales de organización, de procedimientos y servicios al público de las unidades administrativas de la Secretaría, así como los relativos a los formatos que deban inscribirse en el Registro Federal de Trámites y Servicios;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-XXI. Participar en la integración del Manual de Organización General de la Secretaría y en el dictamen de los manuales de organización, de procedimientos y de servicios al público, así como de los formatos que deban inscribirse en el Registro Federal de Trámites y Servicios, que elaboren las unidades administrativas;
+XX. Formular y proponer a la persona Titular de la Unidad de Administración y Finanzas los lineamientos y procedimientos para la elaboración, actualización y dictamen de los formatos de los trámites que deban inscribirse en el Catálogo Nacional de Regulaciones, Trámites y Servicios;
 
-XXII. Coordinar la integración de los programas de mejora regulatoria y reportes de avance de la Secretaría, así como fungir como ventanilla para la recepción y seguimiento de las solicitudes de dictamen regulatorio y de modificación a la información inscrita en el Registro Federal de Trámites y Servicios que envíen las unidades administrativas y órganos administrativos desconcentrados de la propia Dependencia;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
 
-XXIII. Fungir como enlace de la Secretaría ante la Auditoría Superior de la Federación durante los trabajos de auditoría y revisión de la Cuenta de la Hacienda Pública Federal, y
+XXI. Dictaminar los formatos que deban inscribirse en el Catálogo Nacional de Regulaciones, Trámites y Servicios, que elaboren las unidades administrativas de la Secretaría;
 
-XXIV. Tramitar los requerimientos en materia de presupuesto y ejercicio del gasto que realicen las Oficinas de Representación en las entidades federativas de la Secretaría, a través de las coordinaciones administrativas.
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XXII. Coordinar la integración de los programas de mejora regulatoria y reportes de avance de la Secretaría, así como fungir como ventanilla para la recepción y seguimiento de las solicitudes de dictamen regulatorio y de modificación a la información inscrita en el Catálogo Nacional de Regulaciones, Trámites y Servicios, que envíen las unidades administrativas y el órgano administrativo desconcentrado de la misma Secretaría;
+
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XXIII. Fungir como enlace de la Secretaría ante la Auditoría Superior de la Federación durante los trabajos de auditoría y revisión de la Cuenta de la Hacienda Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XXIV. Tramitar los requerimientos en materia de presupuesto y ejercicio del gasto que realicen las Oficinas de Representación en las entidades federativas de la Secretaría, a través de las coordinaciones administrativas;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XXV. Integrar y proponer a la persona Titular de la Unidad de Administración y Finanzas los inventarios de los procesos sustantivos y administrativos de la Dependencia y promover su mejora y actualización, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XXVI. Elaborar las evaluaciones de impacto presupuestario de los proyectos de iniciativas de leyes, reglamentos, decretos y demás ordenamientos relacionados con las materias que sean competencia de la Secretaría, que vayan a ser expedidos por el titular del Ejecutivo Federal.
 
 ###### ARTÍCULO 59.
 
@@ -2097,11 +2507,15 @@ I. Administrar los bienes muebles e inmuebles asignados a la Secretaría, los se
 
 II. Conducir los procedimientos relativos a las adquisiciones, arrendamientos y contrataciones de servicios, obra pública y servicios relacionados con la misma, así como los procedimientos relativos a la baja, destino final y enajenación de bienes muebles, cualquiera que sea su naturaleza;
 
-III. Suscribir, en representación de la Secretaría, los contratos, convenios y pedidos de adquisición de bienes, arrendamiento, servicios, obra pública y los servicios relacionados con la misma; asimismo, autorizar las prórrogas en el plazo relativo a la entrega de bienes o en la prestación de servicios, o en la ejecución de obra pública, en su caso, ejecutar las penas convencionales correspondientes, así como tramitar y resolver los procedimientos de rescisión administrativa o terminación anticipada de los mismos;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+III. Suscribir, en representación de la Secretaría, los contratos, convenios y pedidos de adquisición de bienes, arrendamiento, servicios, obra pública y los servicios relacionados con la misma; asimismo, autorizar las prórrogas en el plazo relativo a la entrega de bienes o en la prestación de servicios, o en la ejecución de obra pública, y en su caso, las excepciones de garantía de cumplimiento de contratos según corresponda; ejecutar las penas convencionales correspondientes, así como tramitar y resolver los procedimientos de rescisión administrativa o terminación anticipada de los mismos;
 
 IV. Administrar el almacén general de la Secretaría, así como llevar a cabo el registro de los bienes muebles con los sistemas establecidos para ello y coordinar el levantamiento de inventario físico de bienes muebles e inmuebles y fungir como responsable inmobiliario de la Dependencia;
 
-V. Coordinar la operación del archivo de concentración de la Secretaría y suscribir los actos e instrumentos necesarios para su disposición y destino final;
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+V. Coordinar la operación de los archivos de la Secretaría y suscribir los actos e instrumentos necesarios para su ordenamiento, disposición y destino final;
 
 VI. Integrar y formular los Programas Anuales de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las Mismas, así como de disposición final de bienes muebles;
 
@@ -2113,7 +2527,9 @@ IX. Conducir las acciones en materia de recursos materiales y servicios generale
 
 X. Suscribir los contratos, convenios y demás instrumentos que impliquen actos de administración o de dominio, de conformidad con las disposiciones jurídicas aplicables, y
 
-XI. Administrar los módulos de información y orientación al público.
+> <small>(REFORMADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+XI. Administrar las oficialías de partes, módulos de recepción de documentos, así como espacios de resguardo y custodia de los archivos de la Secretaría.
 
 ###### ARTÍCULO 60.
 
@@ -2231,17 +2647,21 @@ VI. Atender en primera instancia las peticiones de las organizaciones sociales q
 
 ### CAPÍTULO V. De las Oficinas de Representación en las Entidades Federativas y Ejecución de Política Comercial y la Promoción de Inversión en el Extranjero
 
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 64.
 
-La Secretaría, para el debido cumplimiento de sus servicios y trámites en todo el territorio nacional, cuenta con Oficinas de Representación en las entidades federativas, las cuales dependerán jerárquica y funcionalmente de la persona Titular de la Secretaría y tendrán la circunscripción territorial que fije la misma mediante Acuerdo que se publique en el Diario Oficial de la Federación.
+La Secretaría, para el debido cumplimiento de sus servicios y trámites en todo el territorio nacional, cuenta con Oficinas de Representación en las entidades federativas, las cuales dependerán jerárquica y funcionalmente de la persona Titular de la Dirección General de Coordinación Territorial de Trámites y Servicios de Economía y tendrán la circunscripción territorial que fije la persona Titular de la Secretaría mediante Acuerdo que se publique en el Diario Oficial de la Federación.
 
 ###### ARTÍCULO 65.
 
 Las Oficinas de Representación en las entidades federativas se ubicarán en las capitales de los estados del país o en las ciudades de mayor importancia económica en cada entidad federativa de conformidad con el Acuerdo de organización y funcionamiento que para tal efecto expida la persona Titular de la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 66.
 
-En las Oficinas de Representación en las entidades federativas habrá servidores públicos a cargo de las áreas de servicios, promoción y administración, quienes informarán directamente a la persona Titular de la Secretaría.
+En las Oficinas de Representación en las entidades federativas habrá los servidores públicos aprobados en su estructura organizacional, quienes informarán directamente a la persona Titular de la Dirección General de Coordinación Territorial de Trámites y Servicios de Economía.
 
 Los servidores públicos adscritos a las Oficinas de Representación en las entidades federativas estarán investidos de la autoridad necesaria para fungir como enlaces de la Secretaría ante los gobiernos estatales, municipales y alcaldías de la Ciudad de México; también estarán facultados para promover los programas institucionales de la Secretaría en todo el territorio de la entidad federativa en que se ubiquen.
 
@@ -2252,6 +2672,10 @@ Las Oficinas de Representación en las entidades federativas tienen las atribuci
 I. Fungir como enlaces de la Secretaría ante las autoridades de su circunscripción, organizaciones, cámaras empresariales y confederaciones previstas en la ley de la materia y asociaciones, consejos, comisiones y comités, en materia de promoción y fomento, así como dar seguimiento a los compromisos contraídos, coordinando sus acciones, cuando corresponda, con las Delegaciones de Programas para el Desarrollo conforme a las disposiciones vigentes;
 
 II. Recibir los asuntos y trámites en materia de comercio exterior e interior, industria, minas, normas e inversión extranjera, competencia de la Secretaría y expedir las resoluciones correspondientes. Cuando los trámites y asuntos deban resolverse por las unidades administrativas competentes de la Secretaría, se remitirán a estas para los efectos conducentes;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ABRIL DE 2021)</small>
+
+II Bis. Recibir y dar seguimiento a los asuntos y trámites que competen a la Secretaría en materia de comercio exterior e interior, industria, minas, normas e inversión extranjera, en coordinación con la Dirección General de Coordinación Territorial de Trámites y Servicios de Economía.
 
 III. Fungir de enlace de la Secretaría en la promoción de los programas de fomento económico a cargo de la Dependencia con las autoridades estatales, municipales y alcaldías de la Ciudad de México, así como con organizaciones, cámaras empresariales y confederaciones previstas en la ley de la materia y con asociaciones del sector social y privado;
 
@@ -2281,15 +2705,17 @@ La Comisión Nacional de Mejora Regulatoria, es un órgano administrativo descon
 
 ### CAPÍTULO VII. De la Suplencia de los Servidores Públicos de la Secretaría
 
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 70.
 
-La persona Titular de la Secretaría será suplido (sic) en sus ausencias por las personas Titulares de la Subsecretarías de Industria, Comercio y Competitividad, de Comercio Exterior, de Minería, así como por la persona Titular de la Unidad de Administración y Finanzas y por la persona Titular de la Unidad de Apoyo Jurídico, en el orden indicado.
+La persona Titular de la Secretaría será suplida en sus ausencias por las personas Titulares de la (sic) Subsecretarías de Industria y Comercio, de Comercio Exterior, así como por la persona Titular de la Unidad de Administración y Finanzas y por la persona Titular de la Unidad de Apoyo Jurídico, en el orden indicado. También podrá ser suplida por las personas Titulares de la Unidad de Coordinación de Actividades Extractivas y de la Unidad de Normatividad, Competitividad y Competencia en el ámbito de su competencia.
 
 Las ausencias de las personas Titulares de las Subsecretarías o de la Unidad de Administración y Finanzas serán suplidas por las personas Titulares de las unidades administrativas que les sean adscritas, en el ámbito de sus respectivas competencias o, en su caso, por el servidor público que estos designen.
 
-Las ausencias de la persona Titular de la Unidad de Apoyo Jurídico, serán suplidas por la persona Titular de la Dirección General de Legislación y Consulta, y por las personas Titulares de las Direcciones Generales Adjuntas de lo Contencioso, y de Convenios y Contratos, en el ámbito de sus competencias. Para el caso de la ausencia de la persona Titular de la Dirección General Adjunta de lo Contencioso, este será suplido por las personas Titulares de las Direcciones de Asuntos Contenciosos y de Asuntos Laborales. El resto de las ausencias se suplirán en términos del párrafo siguiente.
+Las ausencias de la persona Titular de la Unidad de Apoyo Jurídico, serán suplidas por las personas Titulares de las Direcciones Generales de Legislación y Consulta, y de Procedimientos Constitucionales y Legales, y por la persona Titular de la Coordinación de Convenios y Contratos, en el ámbito de su competencia. Para el caso de la ausencia de la persona Titular de la Dirección General de Procedimientos Constitucionales y Legales, esta será suplida por las personas Titulares de la Coordinación de lo Contencioso, y las Direcciones de Asuntos Contenciosos y de Asuntos Laborales. El resto de las ausencias se suplirán en términos del párrafo siguiente.
 
-Las ausencias de las personas Titulares de las Coordinaciones, de las Unidades y Direcciones Generales, así como de las personas Titulares de las Direcciones Generales Adjuntas, Direcciones y Subdirecciones de Área, Jefaturas de Departamento, y demás servidores públicos que se precisan en el Manual de Organización General de la Secretaría, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
+Las ausencias de las personas Titulares de las Unidades y Direcciones Generales, así como de las personas Titulares de las Coordinaciones, Direcciones y Subdirecciones de Área, Jefaturas de Departamento, y demás servidores públicos que se precisan en el Manual de Organización General de la Secretaría, manuales de organización específicos, y personal autorizado en su presupuesto, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
 
 ###### ARTÍCULO 71.
 
@@ -2364,3 +2790,31 @@ OCTAVO.- En las transferencias y readscripciones de personal, así como en las e
 NOVENO.- Cuando, en términos del último párrafo del artículo 72 de este Reglamento, el auxilio que proporcione la Secretaría de Economía al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de octubre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Economía, Graciela Márquez Colín.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las modificaciones a las estructuras orgánicas que se deriven del presente Decreto se realizarán con cargo al presupuesto autorizado de la Secretaría de Economía, por lo que no se requerirán recursos adicionales ni se incrementará su presupuesto regularizable en materia de servicios personales.
+
+TERCERO.- La Secretaría de Economía deberá hacer los trámites correspondientes a efecto de entregar a la Secretaría de Hacienda y Crédito Público los recursos correspondientes a la plaza de la Subsecretaría de Minería que desaparece por disposición del presente Decreto.
+
+CUARTO.- Las referencias, atribuciones, facultades y obligaciones hechas a las unidades administrativas siguientes en otras disposiciones, así como en contratos, convenios o análogos que se hubieren celebrado y cualquier otro instrumento, se entenderán hechas ahora conforme a lo siguiente:
+
+a) Las hechas a la Subsecretaría de Minería, se entenderán hechas a la Unidad de Coordinación de Actividades Extractivas;
+
+b) Las hechas a la Subsecretaría de Industria, Comercio y Competitividad se entenderán hechas a la Subsecretaría de Industria y Comercio o a la Unidad de Normatividad, Competitividad y Competencia, en el ámbito de sus respectivas atribuciones;
+
+c) Las hechas a la Unidad de Contenido Nacional y Fomento de Cadenas Productivas e Inversión en el Sector Energético; o a las direcciones generales de Contenido Nacional en el Sector Energético, de Fomento de Cadenas Productivas e Inversión en el Sector Energético y de Procesos y Programas de Apoyo, se entenderán hechas a la Dirección General de Contenido Nacional y Fomento en el Sector Energético;
+
+d) Las hechas a la Unidad de Competitividad y Competencia, se entenderán hechas a la Dirección General de Competitividad y Competencia, e (sic)
+
+e) Las hechas a la Dirección General del Fondo para el Desarrollo de Zonas de Producción Minera, se entenderán hechas a la Dirección General de Desarrollo Minero.
+
+QUINTO.- Se derogan las disposiciones administrativas expedidas por servidores públicos de la Secretaría de Economía que se opongan al presente Decreto.
+
+SEXTO.- Las unidades administrativas que reciben las funciones de las unidades administrativas que desaparecen en virtud del presente Decreto, continuarán la tramitación de los asuntos en curso o que estén pendientes de éstas hasta su conclusión.
