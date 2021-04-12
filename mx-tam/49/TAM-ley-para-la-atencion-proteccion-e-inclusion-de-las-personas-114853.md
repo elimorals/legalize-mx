@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-atencion-proteccion-e-inclusion-de-las-personas-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-26"
-last_updated: "2019-10-16"
+last_updated: "2021-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 26 de mayo de 2016.
 
@@ -188,6 +188,12 @@ XX. Gozar de una vida sexual digna y segura;
 XXI. Contar con asesoría y asistencia jurídica cuando sus derechos humanos y civiles les sean violados, para resarcirlos; y
 
 XXII. Los demás que garanticen su integridad, dignidad, bienestar y plena integración a la sociedad de acuerdo con las distintas disposiciones constitucionales y legales.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2021)</small>
+
+###### Artículo 10 Bis.
+
+Con la finalidad de garantizar los derechos de las personas con la condición del espectro autista y su plena inclusión social, las autoridades estatales y municipales se coordinarán en aras (sic) de establecer centros de atención integral, de conformidad con los estudios e índices de prevalencia de este padecimiento entre la población tamaulipeca.
 
 #### SECCIÓN SEGUNDA. OBLIGACIONES
 
@@ -376,3 +382,15 @@ P.O. 16 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIV-519 MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO NOVENO AL ARTÍCULO 29 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS Y EL ARTÍCULO 10 BIS A LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La aplicación de las reformas del presente decreto se sujetará a la disponibilidad presupuestal correspondiente.
