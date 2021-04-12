@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2021-03-30"
+last_updated: "2021-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2021.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -83,7 +83,9 @@ II. Promover la participación, tomar en cuenta la opinión y considerar los asp
 
 III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas y programas gubernamentales en materia de respeto, protección y promoción de los derechos de niñas, niños y adolescentes;
 
-IV. Considerar de manera primordial, en lo que respecta a la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes, Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector. Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales; e
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2021)</small>
+
+IV. Elegir primordialmente aquella (sic) políticas públicas que satisfaga (sic) de manera más efectiva los principios rectores establecidos en esta ley, en el caso de que existan diferentes interpretaciones en lo que respecta a la toma de decisiones sobre una cuestión debatida que involucre, niñas, niños y adolescentes. Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales; e
 
 V. Incorporar en sus proyectos de presupuesto la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley. El Congreso del Estado establecerá en sus respectivos presupuestos, los recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
 
@@ -567,7 +569,9 @@ XVIII.- Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehab
 
 ###### ARTÍCULO 35.
 
-1. Niñas, niños y adolescentes con discapacidad tienen derecho a la igualdad sustantiva y a disfrutar de los derechos contenidos en la presente Ley, la Ley de Integración Social de Personas con Discapacidad, la Ley General, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y demás leyes aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2021)</small>
+
+1. Niñas, niños y adolescentes con discapacidad tienen derecho a la igualdad sustantiva y a disfrutar de los derechos contenidos en la presente Ley, la Ley de los Derechos de las Personas con Discapacidad del Estado de Tamaulipas, la Ley General, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y demás leyes aplicables.
 
 2. Cuando exista duda o percepción si una niña, niño o adolescente es persona con discapacidad, se presumirá que es una niña, niño o adolescente con discapacidad.
 
@@ -593,7 +597,9 @@ VI. Prevenir la ocultación, abandono, negligencia y segregación de niñas, ni�
 
 VII. Disponer acciones que permitan ofrecerles cuidados elementales gratuitos, acceso a programas de estimulación temprana, servicios de salud, rehabilitación, esparcimiento, actividades ocupacionales, así como a la capacitación para el trabajo; y
 
-VIII. Las niñas, niños y adolescentes con discapacidad; con la debida participación de quienes ejerzan la patria potestad; podrán participar de los procesos de rehabilitación socioeconómica y laboral impartidas de conformidad con la Ley de Integración Social de Personas con Discapacidad, siempre atendiendo su edad, desarrollo evolutivo, cognoscitivo y madurez y preservando el interés superior de la niñez; y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2021)</small>
+
+VIII.- Las niñas, niños y adolescentes con discapacidad; con la debida participación de quienes ejerzan la patria potestad; podrán participar de los procesos de rehabilitación socioeconómica y laboral impartidas de conformidad con la Ley de los Derechos de las Personas con Discapacidad del Estado de Tamaulipas, siempre atendiendo su edad, desarrollo evolutivo, cognoscitivo y madurez y preservando el interés superior de la niñez; y
 
 IX. Establecer mecanismos que permitan la recopilación periódica y sistemática de información y estadística de niñas, niños y adolescentes con discapacidad, que permita una adecuada formulación de políticas públicas en la materia. Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad, municipio y tipo de discapacidad.
 
@@ -855,7 +861,13 @@ VI.- Proporcionar asistencia de profesionales especializados cuando la naturalez
 
 VII.- Proporcionar la asistencia de un traductor o intérprete;
 
-VIII.- Ponderar, antes de citar a una niña, niño o adolescente a alguna audiencia, la pertinencia de la misma, considerando su edad, madurez, estado psicológico, así como cualquier otra condición específica;
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2021)</small>
+
+VIII.- Garantizar a las niñas, niños y adolescentes que estén en condiciones de formarse un juicio propio el derecho de expresar su opinión libremente en todos los asuntos que lo afectan, ya sea de manera directa o por medio de un representante.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 12 DE ABRIL DE 2021)</small>
+
+Para efecto de lo anterior, las autoridades deberán ponderar, antes de citar a una niña, niño o adolescente a alguna audiencia, la pertinencia de la misma, considerando su edad, madurez, estado psicológico, así como cualquier otra condición específica;
 
 IX.- Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela, guarda o custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario;
 
@@ -1636,3 +1648,11 @@ P.O. 30 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-520 MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 3, EL PÁRRAFO PRIMERO DEL ARTÍCULO 35, LA FRACCIÓN VIII DEL PÁRRAFO 1 DEL ARTÍCULO 36, Y LA FRACCIÓN VIII DEL ARTÍCULO 57; Y SE ADICIONA UN PÁRRAFO PRIMERO A LA FRACCIÓN VIII DEL ARTÍCULO 57, RECORRIÉNDOSE EL ACTUAL PRIMERO PARA SER SEGUNDO EN LOS TÉRMINOS DE LAS PRESENTES REFORMAS, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.].
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
