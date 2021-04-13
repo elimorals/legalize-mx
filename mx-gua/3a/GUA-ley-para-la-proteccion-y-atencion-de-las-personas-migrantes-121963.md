@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-y-atencion-de-las-personas-migrantes-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-16"
-last_updated: "2020-03-27"
+last_updated: "2021-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN Y ATENCIÓN DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
 
 Ley publicada en la Quinta Parte al Número 96 del Periódico Oficial del Estado de Guanajuato, el viernes 16 de junio de 2017.
 
@@ -101,11 +101,15 @@ VI. Migrante: toda persona que sale de su lugar de origen o residencia, con el p
 
 VII. Migrante en retorno: migrante que retorna a su población de origen, independientemente del tiempo que haya residido en el extranjero de forma voluntaria o inducida;
 
-> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2021)</small>
 
-VIII. Programa Estatal: Programa Estatal de Migración, Hospitalidad e Interculturalidad; y
+VIII. Programa Estatal: Programa Estatal de Migración, Hospitalidad e Interculturalidad;
 
-IX. Secretaría: la Secretaría del Migrante y Enlace Internacional.
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2021)</small>
+
+IX. Registro Estatal: Registro Estatal de Organizaciones Migrantes Guanajuatenses; y
+
+X. Secretaría: la Secretaría del Migrante y Enlace Internacional.
 
 Derechos de los migrantes
 
@@ -115,27 +119,35 @@ Son derechos de los migrantes y sus familias todos los conferidos por la Constit
 
 Sin perjuicio de lo establecido en el párrafo anterior, los migrantes cuentan con los siguientes derechos:
 
-I. De integridad, dignidad y preferencia:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2021)</small>
 
-a) A una vida digna;
+I. De identidad, integridad, dignidad y preferencia:
 
-b) A la no discriminación;
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2021)</small>
 
-c) A una vida libre de violencia;
+a) A la identidad;
 
-d) A la protección de su integridad física;
+b) A una vida digna;
 
-e) A la protección contra cualquier forma de explotación;
+c) A la no discriminación;
 
-f) A expresar libremente su opinión; y
+d) A una vida libre de violencia;
 
-g) A transitar libremente por el territorio del Estado;
+e) A la protección de su integridad física;
+
+f) A la protección contra cualquier forma de explotación;
+
+g) A expresar libremente su opinión; y
+
+h) A transitar libremente por el territorio del Estado;
 
 II. De acceso a la justicia:
 
 a) A recibir un trato digno y apropiado en cualquier procedimiento judicial o administrativo del que sean parte o intervinientes;
 
-b) A recibir asesoría jurídica en forma gratuita en los términos de las disposiciones legales, en los procedimientos judiciales o administrativos en que sean parte o intervinientes, así como contar con un representante legal cuando lo consideren necesario;
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2021)</small>
+
+b) A recibir asesoría jurídica en forma gratuita en los términos de las disposiciones legales, en trámites administrativos y procedimientos judiciales o administrativos en que sean parte o intervinientes, así como contar con un representante legal cuando lo consideren necesario;
 
 c) A la protección de su patrimonio personal y familiar;
 
@@ -293,9 +305,19 @@ XVI. Promover mecanismos asequibles y ofertas de servicio que permitan el envío
 
 XVII. Coadyuvar con las autoridades federales competentes, con los municipios y con el migrante en retorno por deportación, cuando le sea solicitado dicho trámite;
 
-XVIII. Colaborar en la realización de las acciones que en materia internacional realicen las dependencias y entidades de la Administración Pública Estatal, para consolidar la presencia del Estado de Guanajuato en el mundo; y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2021)</small>
 
-XIX. Las demás que le otorgue esta ley y demás ordenamientos legales.
+XVIII. Colaborar en la realización de las acciones que en materia internacional realicen las dependencias y entidades de la Administración Pública Estatal, para consolidar la presencia del estado de Guanajuato en el mundo;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2021)</small>
+
+XIX. Promover entre los migrantes y sus familias su derecho a asociarse y conformar organizaciones migrantes;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2021)</small>
+
+XX. Asesorar y orientar a los migrantes guanajuatenses y a sus familias respecto de las rectificaciones y aclaraciones administrativas de actas del estado civil; y
+
+XXI. Las demás que le otorgue esta ley y demás ordenamientos legales.
 
 Atribuciones de los ayuntamientos
 
@@ -321,13 +343,23 @@ VI. Establecer un subsistema de información sobre migración municipal que gene
 
 VII. Las demás que le otorgue esta Ley y otros ordenamientos aplicables.
 
-Oficinas municipales de atención
-
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Oficinas municipales de atención
 
 ###### Artículo 14.
 
 Los Ayuntamientos podrán contar conforme a su disposición presupuestal de una oficina de hospitalidad, interculturalidad y migración.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 13 DE ABRIL DE 2021)</small>
+
+La persona que ostente la titularidad de la oficina de hospitalidad, interculturalidad y migración, a fin de asegurar que cuenta con la experiencia y conocimientos necesarios para el desempeño del cargo, deberá contar preferentemente con los requisitos siguientes:
+
+I. Ser ciudadano guanajuatense;
+
+II. Tener la capacidad de hablar y escribir el idioma inglés; y
+
+III. Contar con estudios o experiencia comprobada en alguna de las materias de hospitalidad, interculturalidad o migración.
 
 Deber de difusión
 
@@ -441,9 +473,17 @@ IV. Apoyar a la formación educativa de sus familias;
 
 V. Impulsar la creación de proyectos de desarrollo social, actividades productivas y mejoramiento de infraestructura en sus comunidades de origen;
 
-VI. Generar acciones de inclusión social, cultural, económica, laboral, educativa y de salud, así como de apoyo en materia de vivienda y acceso a créditos para proyectos productivos; y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2021)</small>
 
-VII. Fomentar la unión familiar e integración cultural y social de los migrantes en retorno, teniendo como ejes rectores el irrestricto derecho de los derechos humanos, la igualdad y el interés superior de los niños, niñas y adolescentes.
+VI. Generar acciones de inclusión social, cultural, económica, laboral, educativa y de salud, así como de apoyo en materia de vivienda y acceso a créditos para proyectos productivos;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2021)</small>
+
+VII. Fomentar la unión familiar e integración cultural y social de los migrantes en retorno, teniendo como ejes rectores el irrestricto respeto de los derechos humanos, la igualdad y el interés superior de los niños, niñas y adolescentes; y
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2021)</small>
+
+VIII. Generar acciones que permitan a los migrantes guanajuatenses la obtención de documentos que acrediten su identidad.
 
 Acceso a los programas
 
@@ -591,17 +631,61 @@ En el reglamento de esta ley y, en su caso, en la normatividad municipal, se est
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO VII. RESPONSABILIDADES
+### CAPÍTULO VII. REGISTRO ESTATAL DE ORGANIZACIONES MIGRANTES GUANAJUATENSES
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2021)</small>
 
-Responsabilidad administrativa
+Registro Estatal
 
 ###### Artículo 27 Sexies.
 
 La Secretaría se vinculará con las dependencias y entidades de la Administración Pública Estatal que desarrollen acciones en el ámbito internacional, a efecto de colaborar en el cumplimiento de los objetivos establecidos en los instrumentos de planeación previstos en esta ley.
 
-(REUBICADO [N. DE E. ANTES CAPÍTULO IV], P.O. 21 DE SEPTIEMBRE DE 2018)
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ABRIL DE 2021)</small>
+
+### CAPÍTULO VIII. RESPONSABILIDADES
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Responsabilidad administrativa
+
+###### Artículo 27 Septies.
+
+El Registro Estatal es el instrumento de inscripción y consulta de las organizaciones migrantes guanajuatenses, cuya operación y actualización estará a cargo de la Secretaría.
+
+Todas las organizaciones migrantes guanajuatenses deben inscribirse en el Registro Estatal. La inscripción será gratuita y se sujetará a los lineamientos que al efecto emita el titular de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2021)</small>
+
+Publicidad del Registro Estatal
+
+###### Artículo 27 Octies.
+
+El Registro Estatal será de carácter público y deberá incluir como mínimo:
+
+I. Denominación de la organización;
+
+II. Nombre del representante de la organización;
+
+III. Objeto de la organización;
+
+IV. Integración de la organización, indicando el número de miembros y su lugar de origen; y
+
+V. Domicilio de la organización.
+
+Con relación a la fracción IV, en el supuesto de corresponder a una agrupación que conjunte dos o más organizaciones, deberá indicarse la información relativa a cada una de ellas.
+
+La información derivada del Registro Estatal se integrará al subsistema de información sobre migración guanajuatense, en términos de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato y la Ley de Planeación para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2021)</small>
+
+Reconocimiento como organización migrante guanajuatense
+
+###### Artículo 27 Nonies.
+
+La inscripción en el Registro Estatal tiene como efecto el reconocimiento como organización migrante guanajuatense por parte de la Secretaría, para los efectos de la presente Ley.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VII], P.O. 13 DE ABRIL DE 2021)
 
 ###### Artículo 28.
 
@@ -672,3 +756,19 @@ Artículo Segundo. El Ejecutivo del Estado contará con un periodo de ciento vei
 Seguimiento de emisión del Programa Estatal
 
 Artículo Tercero. Una vez emitido el Programa Estatal de Migración, Hospitalidad e Interculturalidad, en atención al Artículo Segundo transitorio y sea publicado en el Periódico Oficial del Gobierno del Estado; deberá hacerse del conocimiento de este Congreso del Estado.
+
+P.O. 13 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 317, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY PARA LA PROTECCIÓN Y ATENCIÓN DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Emisión de los Lineamientos
+
+Artículo Segundo. La Secretaría contará con un plazo de noventa días posteriores a la entrada en vigor del presente Decreto para emitir los lineamientos para la inscripción del Registro Estatal.
+
+Adecuaciones a los reglamentos
+
+Artículo Tercero. El Ejecutivo del Estado y los ayuntamientos contarán con un plazo de ciento veinte días posteriores a la entrada en vigor del presente Decreto para adecuar sus reglamentos, en congruencia con el mismo.
