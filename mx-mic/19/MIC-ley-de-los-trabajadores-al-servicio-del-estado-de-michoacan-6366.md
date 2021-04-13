@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "2018-09-18"
+last_updated: "2021-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -47,9 +47,11 @@ La presente es de observancia general y regula las relaciones laborales entre lo
 
 La relación jurídica de trabajo reconocida por esta Ley se entiende establecida, para los efectos legales, entre los trabajadores de base al servicio de los Poderes Legislativo, Ejecutivo y Judicial, los Ayuntamientos y aquellos organismos e instituciones, a que se refiere el artículo 1o. de esta Ley.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2021)</small>
+
 ###### ARTICULO 3o.
 
-Trabajador es toda persona que presta un servicio físico, intelectual o de ambos géneros a los Poderes Legislativo, Ejecutivo y Judicial, a los Ayuntamientos y a los organismos descentralizados y empresas de participación estatal, en virtud de nombramiento expedido y por figurar en la nómina de pago sus sueldos.
+Trabajador es toda persona que presta un servicio físico, intelectual, presencial, virtual o utilizando cualquier medio tecnológico a distancia a los Poderes Legislativo, Ejecutivo y Judicial, a los Ayuntamientos y a los Organismos Descentralizados y empresas de participación estatal en virtud de nombramiento expedido y por figurar en la nómina de pago sus sueldos.
 
 ###### ARTICULO 4o.
 
@@ -365,7 +367,9 @@ IV. Guardar reserva de los asuntos que lleguen a su conocimiento con motivo de s
 
 V. Evitar la ejecución de actos que pongan en peligro su seguridad y la de sus compañeros;
 
-VI. Asistir puntualmente a sus labores;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2021)</small>
+
+VI. Asistir presencialmente o prestar sus labores virtualmente y con puntualidad utilizando las tecnologías como medio para realizar las actividades que se encomienden de conformidad con los horarios establecidos.
 
 VII. No hacer propaganda de ninguna clase dentro de los edificios o lugares de trabajo; y,
 
@@ -1148,3 +1152,9 @@ P.O. 18 DE SEPTIEMBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes
+
+P.O. 13 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 522 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3° Y 36 FRACCIÓN VI DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
