@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2020-06-01"
+last_updated: "2021-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -537,9 +537,7 @@ IV. Nombrar y remover libremente a los servidores públicos del Poder Ejecutivo,
 
 V. Hacer cumplir los fallos y resoluciones de la autoridad judicial; conceder a las autoridades judiciales de la entidad los apoyos necesarios para el desempeño de sus funciones;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-VI. Conceder indultos;
+VI. (DEROGADA, P.O. 13 DE ABRIL DE 2021)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -585,6 +583,14 @@ Los reglamentos, decretos, acuerdos y disposiciones de carácter general que exp
 
 El Poder Ejecutivo del Estado en la esfera administrativa de su competencia, proveerá lo necesario para que la defensoría pública en materia penal, cuente con plena independencia técnica y de gestión, bajo los principios de objetividad, eficiencia, profesionalismo, legalidad, lealtad y gratuidad.
 
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 24 bis. El Poder Ejecutivo contará con un Centro de Conciliación Laboral del Estado de Querétaro, que será el organismo público descentralizado que tiene por objeto ofrecer el servicio público de conciliación para la solución de los conflictos laborales entre trabajadores y empleadores, individuales o colectivos, en asuntos del orden local.
+
+El Centro de Conciliación Laboral del Estado de Querétaro tendrá personalidad jurídica y patrimonio propios y contará con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en las disposiciones legales aplicables.
+
+Los trabajadores y patrones deberán asistir al Centro de Conciliación Laboral del Estado de Querétaro previamente a acudir a los juzgados o tribunales laborales.
+
 > <small>(ADICIONADA, P. O. 31 DE MARZO DE 2008)</small>
 
 #### Sección Cuarta. Poder Judicial
@@ -599,11 +605,15 @@ La administración de justicia en el Estado será expedita, aplicando los princi
 
 El Estado instituirá un sistema integral de justicia aplicable a quienes, teniendo entre doce años cumplidos y menos de dieciocho años de edad, se les atribuya la realización de una conducta tipificada como delito por las leyes penales. Los menores de doce años de edad, sólo serán sujetos a rehabilitación y asistencia social.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 26.
 
-Compete al Poder Judicial la facultad de resolver controversias puestas a su consideración, conforme a las leyes y procedimientos judiciales vigentes en el Estado, en asuntos del fuero común, en materia civil, familiar, penal, justicia de menores y materias federales cuando así lo faculten las leyes.
+Compete al Poder Judicial la facultad de resolver controversias puestas a su consideración, conforme a las leyes y procedimientos judiciales vigentes en el Estado, en asuntos del fuero común, en materia civil, familiar, penal, laboral, justicia de menores y materias federales cuando así lo faculten las leyes.
+
+Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+
+La resolución de las controversias o de los conflictos entre trabajadores y patrones estará a cargo del Poder Judicial, cuyos integrantes deberán contar con capacidad y experiencia en materia laboral, siendo designados aquellos que cumplan los requisitos previstos por las leyes.
 
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
 
@@ -1906,3 +1916,15 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Lo dispuesto en el artículo 7, párrafo cuarto, relativo al voto de los ciudadanos residentes en el extranjero para la elección de Gobernador del Estado, entrará en vigor a partir del año 2021.
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 13 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE DEROGA, ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO.”]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. En tanto se instituyen e inician operaciones los Tribunales Laborales y el Centro de Conciliación Laboral del Estado de Querétaro, la Junta de Conciliación y Arbitraje y, en su caso, la Secretaría del Trabajo, continuarán atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo y sobre el registro de los contratos colectivos de trabajo y de organizaciones sindicales.
+
+Artículo Tercero. Las autoridades competentes y la Junta de Conciliación y Arbitraje deberán transferir los expedientes y documentación que, en el ámbito de sus respectivas competencias, tengan bajo su atención o resguardo, al Centro Federal de Conciliación y Registro Laboral, en términos de lo previsto en los Transitorios de la reforma a la Ley Federal del Trabajo publicada el 1o. de mayo de 2019 en el Diario Oficial de la Federación.
+
+Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
