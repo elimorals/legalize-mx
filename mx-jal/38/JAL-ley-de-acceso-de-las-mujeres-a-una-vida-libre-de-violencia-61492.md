@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2020-10-03"
+last_updated: "2021-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -625,7 +625,9 @@ III. Vigilar el cabal cumplimiento de la presente ley;
 
 IV. Coordinar y aplicar el Programa Estatal, auxiliándose de las demás autoridades encargadas de implementar el presente ordenamiento legal;
 
-V. Asegurar la difusión y promoción de los derechos de las mujeres indígenas con base en el reconocimiento de la composición pluricultural del Estado;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2021)</small>
+
+V. Asegurar la difusión y promoción de los derechos de las mujeres indígenas y afromexicanas, cualquiera que sea su autodenominación con base en el reconocimiento de la composición pluricultural del Estado;
 
 VI. Vigilar que los usos y costumbres de toda la sociedad no atenten contra los derechos humanos de las mujeres;
 
@@ -1345,9 +1347,9 @@ El acceso a la justicia de las mujeres se establece mediante una serie de medida
 
 Quienes tengan a su cargo la impartición de la justicia deberán de aportar datos que permitan la elaboración de indicadores para medir el acceso de las mujeres a la justicia, dicha información deberá ser disociada de su titular, para la protección de sus datos personales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2021)</small>
 
-Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y defensores de oficio que tengan conocimiento de su lengua y cultura.
+Las mujeres indígenas y afromexicanas cualquiera que sea su autodenominación, serán asistidas gratuitamente en todo tiempo por intérpretes y defensores de oficio que tengan conocimiento de su lengua y cultura.
 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -1870,5 +1872,11 @@ TERCERO. Las secretarías y las instituciones señaladas en el presente decreto 
 P.O. 3 DE OCTUBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27970/LXII/20 QUE REFORMAN (SIC) EL ARTÍCULO 18 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 13 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28333/LXII/21 QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 25 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 49 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
