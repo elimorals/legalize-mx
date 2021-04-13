@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-participacion-ciudadana-y-popular-para-13529
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-09"
-last_updated: "2021-03-18"
+last_updated: "2021-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el martes 9 de abril de 2019.
 
@@ -219,7 +219,7 @@ I. El Consejo emitirá la convocatoria pública abierta a la población, para qu
 
 II. El registro de aspirantes deberá durar cuando menos tres días hábiles;
 
-III. La Secretaria Ejecutiva, a través de una Comisión Técnica que se integre para tales efectos, organizará y realizará la revisión de los expedientes para verificar que los aspirantes cumplan con los requisitos de elegibilidad que señala la ley;
+III. La Secretaría Ejecutiva, a través de una Comisión Técnica que se integre para tales efectos, organizará y realizará la revisión de los expedientes para verificar que los aspirantes cumplan con los requisitos de elegibilidad que señala la ley;
 
 IV. La Secretaría Ejecutiva remitirá al Congreso del Estado los expedientes de los aspirantes, junto con el dictamen de elegibilidad vinculante de estos últimos, dentro de los diez días naturales siguientes a la fecha del vencimiento del plazo para su presentación, señalando los que cumplan con los requisitos y los que no;
 
@@ -297,21 +297,39 @@ XIX. Realizar la evaluación de las políticas públicas en materia de participa
 
 XX. Las demás que señalen las leyes.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2021)</small>
+
 ###### Artículo 17.
 
 1. El Consejo debe sesionar de manera ordinaria tres veces al año y de manera extraordinaria cuando convoque la presidencia o la mayoría de los consejeros.
 
-2. Las sesiones del Consejo son públicas.
+2. En los casos en que no sea posible la presencia física de los integrantes del Consejo en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
 
-3. Para que el Consejo pueda sesionar válidamente se requiere:
+I. La identificación visual plena de los integrantes del consejo;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Se debe garantizar la conexión permanente de todos los miembros del Consejo, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+
+3. En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia, la redacción y la formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
+
+4. En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
+
+5. Las sesiones del Consejo son públicas
+
+6. Para que el Consejo pueda sesionar válidamente se requiere:
 
 I. Que sea citado, cuando menos, con 72 horas de anticipación cuando se trate de sesiones ordinarias y, con 24 horas de anticipación cuando se trate de sesiones extraordinarias; y
 
 II. La asistencia de más de la mitad de sus integrantes con derecho a voto.
 
-4. Las decisiones del Consejo se toman por mayoría simple de los presentes.
+7. Las decisiones del Consejo se toman por mayoría simple de los presentes
 
-5. Si el presidente no asiste o se ausenta en forma definitiva de la sesión, el Consejo designa a uno de sus integrantes presentes para que la presida.
+8. Si el presidente no asiste o se ausenta en forma definitiva de la sesión, el Consejo designa a uno de sus integrantes presentes para que la presida.
 
 ###### Artículo 18.
 
@@ -2247,7 +2265,7 @@ P.O. 27 DE AGOSTO DE 2020.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
-SEGUNDO. Para la instalación del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, la Secretaría de Planeación y Participación Ciudadana deberá integrar, en un plazo no mayor a sesenta días naturales, un Comité Técnico que se encargue de aprobar, emitir y publicar la convocatoria correspondiente, así como verificar el cumplimiento de los requisitos por parte de los aspirantes.
+SEGUNDO. Para la instalación del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, la Secretaria de Planeación y Participación Ciudadana deberá integrar, en un plazo no mayor a sesenta días naturales, un Comité Técnico que se encargue de aprobar, emitir y publicar la convocatoria correspondiente, así como verificar el cumplimiento de los requisitos por parte de los aspirantes.
 
 Una vez hecho lo anterior, la Secretaría de Planeación y Participación Ciudadana y el Congreso del Estado procederán, respectivamente, en los términos de las fracciones III y IV, numeral 1, del artículo 13 de la Ley del Sistema de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco.
 
@@ -2258,3 +2276,9 @@ P.O. 18 DE MARZO DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
 
 SEGUNDO. El Instituto Electoral y de Participación Ciudadana deberá diseñar, implementar y poner a disposición de los ciudadanos la plataforma o aplicación de firmas de apoyo dentro de los siguientes 60 días a la entrada en vigor del presente decreto.
+
+P.O. 13 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28337/LXII/21 QUE REFORMA EL ARTÍCULO 17 DE LA LEY DEL SISTEMA DE PARTICIPACIÓN CIUDADANA Y POPULAR PARA LA GOBERNANZA DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
