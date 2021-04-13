@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-establece-las-bases-para-el-otorgamiento-de-premios-389
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-27"
-last_updated: "2021-03-11"
+last_updated: "2021-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 27 de diciembre de 2003.
 
@@ -152,6 +152,26 @@ IV. Analizar los expedientes de los candidatos propuestos y elaborar dictamen re
 ###### Artículo 12.
 
 El Consejo sesionará válidamente con la asistencia de la mayoría de los consejeros y los acuerdos se tomarán por mayoría de votos de los presentes. En caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO [N. DE E. CON LAS FRACCIONES QUE LO INTEGRAN], P.O. 13 DE ABRIL DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del consejo en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes del consejo;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Se debe garantizar la conexión permanente de todos los miembros del consejo, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2021)</small>
+
+En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2021)</small>
+
+En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 13.
 
@@ -323,9 +343,9 @@ XIV. Condecoración "Francisco Tenamaxtli", a quien se haya destacado en la prom
 
 Para el otorgamiento de las condecoraciones se seguirá el siguiente procedimiento:
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2021)</small>
 
-I. La Comisión Legislativa de Educación, Cultura y Deporte del Congreso, emitirá una convocatoria para la entrega de las condecoraciones a más tardar el día treinta de septiembre del año anterior a su entrega y será dirigida a los organismos sociales, colegios de profesionistas, universidades y a la sociedad en general, con finalidad de allegarse propuestas de candidatos; la cual será publicada en dos diarios de amplia circulación en el Estado y en la página web del Congreso del Estado de Jalisco.
+I. La Comisión Legislativa de Educación, Cultura y Deporte del Congreso, emitirá una convocatoria para la entrega de las condecoraciones a más tardar el día treinta de septiembre del año anterior a su entrega y será dirigida a los organismos sociales, colegios de profesionistas, universidades y a la sociedad en general, con finalidad de allegarse propuestas de candidatos; la cual será publicada en dos diarios de amplia circulación en el Estado así como en la página web y las redes sociales oficiales del Congreso, y se difundirá a través del Sistema de Radio y Televisión del Congreso del Estado;
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -508,3 +528,11 @@ P.O. 11 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28307/LXII/21 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 17, DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 13 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28334/LXII/21 QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 Y REFORMA LA FRACCIÓN I DEL ARTÍCULO 20 DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado de Jalisco contará con un terminó (sic) de 90 días hábiles para realizar las adecuaciones a los reglamentos y disposiciones administrativas que resulten aplicables, para dar cumplimiento con este decreto.
