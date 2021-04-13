@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-proteccion-civil-del-estado-de-san-luis-9518
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-06"
-last_updated: "2020-03-10"
+last_updated: "2021-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de julio de 2013.
 
@@ -609,7 +609,9 @@ II. Incorporar, en coordinación con las autoridades educativas del Estado, cont
 
 III. Concretar el establecimiento de programas educativos a diferentes niveles académicos, que aborden en su amplitud el tema de la protección civil, y la gestión integral de riesgos;
 
-IV. Impulsar programas dirigidos a la población en general que le permita conocer de forma clara, mecanismos de prevención y autoprotección;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2021)</small>
+
+IV. Impulsar programas dirigidos a la población en general que le permita conocer de forma clara mecanismos de prevención y autoprotección en temas relacionados con: fugas de gas, incendios, explosiones, desastres naturales (terremotos, sismos), inundaciones y los que considere pertinentes para la protección de la integridad física de las personas;
 
 V. Elaborar, estructurar y promocionar campañas de difusión sobre temas de su competencia relacionados con la protección civil, y
 
@@ -1020,3 +1022,11 @@ P.O. 10 DE MARZO DE 2020.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
+
+P.O. 13 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1157.- SE REFORMA EL ARTÍCULO 43 EN SU FRACCIÓN IV, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
