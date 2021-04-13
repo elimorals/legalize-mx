@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-inclusion-y-desarrollo-integral-de-las-personas-713
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2020-11-07"
+last_updated: "2021-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 31 de diciembre de 2009.
 
@@ -44,6 +44,8 @@ Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad de
 ## TITULO PRIMERO. DISPOSICIONES GENERALES Y DERECHOS
 
 ### Capítulo I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 1.
 
@@ -661,7 +663,9 @@ VI. Promover en los medios de comunicación acciones permanentes que contribuyan
 
 VII. Otorgar las facilidades que garanticen la formación, capacitación y actualización profesional de los docentes y personal de apoyo de cualquier nivel educativo, que tendrán a su cargo a alumnos con discapacidad, a fin de facilitar el proceso de su integración y permanencia educativa;
 
-VIII. Promover el uso y reconocimiento oficial de la Lengua de Señas Mexicana y el Sistema de Escritura Braille, como sistemas complementarios a la educación básica en el Estado;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2021)</small>
+
+VIII. Promover, en coordinación con la Secretaría de Educación Pública, estrategias de sensibilización sobre las discapacidades, además de fomentar el uso y reconocimiento oficial de la Lengua de Señas Mexicana y el Sistema de Escritura Braille, como sistemas complementarios a la educación básica en el Estado;
 
 IX. Diseñar e implementar programas de formación y certificación de intérpretes y especialistas en estenografía proyectada, sistema braille y lengua de señas mexicana;
 
@@ -1516,3 +1520,9 @@ P.O. 7 DE NOVIEMBRE DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Las personas con discapacidad que ya cuenten con el certificado expedido por la Unidad de Valoración, podrán acudir a dicho órgano para que se les expida uno nuevo con la adición de ser usuarios de perros guía o de asistencia.
+
+P.O. 13 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28336/LXII/21 QUE REFORMA EL ARTÍCULO 27 DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
