@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2020-12-29"
+last_updated: "2021-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE AGOSTO DE 2021 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -2251,9 +2253,39 @@ Comité de Transparencia - Funcionamiento.
 
 1. El Comité de Transparencia debe sesionar cuando menos una vez cada cuatro meses o con la periodicidad que se requiera para atender los asuntos de su competencia.
 
-2. El Comité de Transparencia requiere de la asistencia de cuando menos dos de sus integrantes para sesionar y sus decisiones se toman por mayoría simple de votos, con voto de calidad de su presidente en caso de empate.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE ABRIL DE 2021)</small>
 
-3. El reglamento interno de información pública debe regular el funcionamiento del Comité de Transparencia.
+2. En los casos en que no sea posible la presencia física de los integrantes del Comité en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes del Comité;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Se debe garantizar la conexión permanente de todos los miembros del Comité, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE ABRIL DE 2021)</small>
+
+3. En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia, la redacción y la formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE ABRIL DE 2021)</small>
+
+4. En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE ABRIL DE 2021)</small>
+
+5. Las sesiones del Comité son públicas.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 13 DE ABRIL DE 2021)</small>
+
+6. El Comité de Transparencia requiere de la asistencia de cuando menos dos de sus integrantes para sesionar y sus decisiones se toman por mayoría simple de votos, con voto de calidad de su presidente en caso de empate.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 13 DE ABRIL DE 2021)</small>
+
+7. El reglamento interno de información pública debe regular el funcionamiento del Comité de Transparencia.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -2993,13 +3025,39 @@ Consejo Consultivo - Funcionamiento
 
 1. El Consejo requiere de la asistencia del Presidente del Consejo Consultivo, y la mitad de sus integrantes para sesionar válidamente y ejercer sus atribuciones, salvo cuando se requiera una votación de las dos terceras partes de los integrantes del Consejo Consultivo, en cuyo caso deberán asistir cuando menos diez consejeros del Consejo Consultivo.
 
-2. El Consejo debe sesionar cuando menos una vez cada tres meses.
+> <small>(REFORMADO CON SUS FRACCIONES [N. DE E. ADICIONADO], P.O. 13 DE ABRIL DE 2021)</small>
 
-3. Las decisiones del Consejo se toman por el voto de la mitad más uno de sus asistentes a la sesión, teniendo el Presidente del Consejo Consultivo voto de calidad para el caso de empate en la votación. Salvo la elección de la terna a que se refiere el artículo 58, la cual debe ser aprobada por las dos terceras partes de los integrantes del Consejo Consultivo.
+2. En los casos en que no sea posible la presencia física de los integrantes del Consejo en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+I. La identificación visual plena de los integrantes del Consejo;
 
-4. En caso de ausencia del Presidente, habiendo sido convocado el Consejo Consultivo a sesión, la Presidencia de la sesión recaerá en el miembro con mayor antigüedad, levantando el Secretario el acta respectiva.
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Se debe garantizar la conexión permanente de todos los miembros del Consejo, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE ABRIL DE 2021)</small>
+
+3. En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia, la redacción y la formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2021)</small>
+
+4. En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE ABRIL DE 2021)</small>
+
+5. Las sesiones del Consejo son públicas.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2021)</small>
+
+6. El Consejo debe sancionar (sic) cuando menos una vez cada tres meses.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2021)</small>
+
+7. Las decisiones del Consejo se toman por el voto de la mitad más uno de sus asistentes a la sesión teniendo el Presidente del Consejo Consultivo voto de calidad para el caso de empate en la votación. Salvo la elección de la terna a que se refiere el artículo 58, la cual debe ser aprobada por las dos terceras partes de los integrantes del Consejo Consultivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -4718,3 +4776,15 @@ P.O. 29 DE DICIEMBRE DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. Con la entrada en vigor del presente decreto, se preserva la obligación derivada del decreto 27853/LXII/20, para la publicación de las sentencias de los últimos diez años anteriores a su entrada en vigor, así como la obligación establecida en el artículo segundo transitorio para su debido cumplimiento.
+
+P.O. 13 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28346/LXII/21 QUE REFORMA EL ARTÍCULO 53 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 13 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28338/LXII/21 QUE REFORMA EL ARTÍCULO 29 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
