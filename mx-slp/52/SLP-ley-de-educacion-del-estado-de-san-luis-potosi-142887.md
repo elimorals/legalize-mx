@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2021-04-06"
+last_updated: "2021-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -1049,6 +1049,10 @@ Los muebles e inmuebles destinados a la educación impartida por el Gobierno del
 
 Dichos muebles e inmuebles deberán cumplir con los requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, resiliencia, pertinencia, integralidad, accesibilidad, inclusividad e higiene, incorporando los beneficios del desarrollo de la ciencia y la innovación tecnológica, para proporcionar educación de excelencia, con equidad e inclusión, conforme a los lineamientos que para tal efecto emita la autoridad educativa federal.
 
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2021)</small>
+
+En los muebles e inmuebles señalados en el párrafo primero, se deberá establecer filtros sanitarios en los accesos y dentro de los planteles que disminuyan el riesgo de contagio de enfermedades dentro de las instituciones educativas, para tal efecto las autoridades podrán coordinarse con madres y padres de familia o tutores y la comunidad.
+
 Las autoridades educativas estatal y municipales, en el ámbito de su competencia, colaborarán y se coordinarán con la autoridad educativa federal para mantener actualizado el Sistema Nacional de Información de la Infraestructura Física Educativa, a fin de realizar sobre ésta diagnósticos y definir acciones de prevención en materia de seguridad, protección civil y de mantenimiento de los muebles o inmuebles que se destinen al servicio educativo.
 
 Los lineamientos que emita la autoridad educativa federal, a través de la instancia que determine para tal efecto, para la operación del Sistema Nacional de Información de la Infraestructura Física Educativa, serán de observancia general para las autoridades educativas estatal y municipales, en lo que corresponda.
@@ -1159,9 +1163,17 @@ XV. Generar y proporcionar, en coordinación con las autoridades competentes, la
 
 XVI. Emitir la Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación que prestan en términos de la Ley General de Educación y de esta Ley;
 
-XVII. Presentar un informe anual sobre los principales aspectos de mejora continua de la educación que hayan sido implementados en la entidad federativa, de acuerdo a lo que establece la normativa correspondiente, y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2021)</small>
 
-XVIII. Las demás que con tal carácter establezcan la Ley General de Educación, esta Ley y otras disposiciones aplicables.
+XVII. Presentar un informe anual sobre los principales aspectos de mejora continua de la educación que hayan sido implementados en la entidad federativa, de acuerdo a lo que establece la normativa correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE ABRIL DE 2021)</small>
+
+XVIII. Establecer filtros sanitarios en accesos y dentro de los centros de trabajo educativos, así como diseñar programas que fomenten una cultura de cuidado, protección e higiene personal en niñas, niños y adolescentes, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE ABRIL DE 2021)</small>
+
+XIX. Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 105.
 
@@ -2044,3 +2056,11 @@ P.O. 6 DE ABRIL DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1156.- SE REFORMA EL ARTÍCULO 104 EN SUS FRACCIONES XVII Y XVIII; Y ADICIONA A LOS ARTÍCULOS 94 UN PÁRRAFO Y 104 LA FRACCIÓN XIX, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
