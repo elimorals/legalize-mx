@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2021-01-26"
+last_updated: "2021-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -1091,9 +1091,13 @@ XIII. Discutir, aprobar o modificar, en su caso, el presupuesto de egresos que p
 
 XIV. Determinar las participaciones que correspondan a los municipios de los impuestos federales y estatales;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2021)</small>
 
-XV. Expedir leyes que regulen las relaciones de trabajo entre los poderes del Estado, los municipios, organismos autónomos y los organismos paraestatales con sus trabajadores, con base en lo dispuesto por los artículos 115 y 123 de la Constitución Política de los Estados Unidos Mexicanos, así como las relativas al sistema de seguridad social de que deban gozar éstos. Para tal efecto se creará un Tribunal de Conciliación y Arbitraje, con autonomía técnica para emitir sus resoluciones y patrimonio propio, dotado de plena jurisdicción para conocer de los conflictos individuales y colectivos de carácter laboral y de seguridad social, integrado con tres representantes, designados en los términos previstos en la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios;
+XV. Expedir leyes que regulen las relaciones de trabajo entre los poderes del Estado, los municipios, organismos autónomos y los organismos paraestatales con sus trabajadores, con base en lo dispuesto por los artículos 115 y 123 de la Constitución Política de los Estados Unidos Mexicanos, así como las relativas al sistema de seguridad social de que deban gozar éstos. Para tal efecto se creará un Tribunal de Conciliación y Arbitraje, con autonomía técnica para emitir sus resoluciones y patrimonio propio, dotado de plena jurisdicción para conocer de los conflictos individuales y colectivos de carácter laboral y de seguridad social, integrado con tres magistrados. Un magistrado designado por el sindicato mayoritario de los trabajadores de los poderes públicos, municipios, o ayuntamientos; un Magistrado designado por los poderes públicos, municipios o ayuntamientos, y un Magistrado tercer árbitro que fungirá como presidente y que será propuesto en terna por el titular del Ejecutivo del Estado y designado por los dos Magistrados anteriores.
+
+El Magistrado Presidente designado para integrar el Tribunal de Conciliación y Arbitraje del Estado, deberá cumplir con los mismos requisitos exigibles para ser nombrado Magistrado del Tribunal Superior de Justicia del Estado, pero además contar con experiencia profesional acreditable en materia de derecho laboral burocrático. Los Magistrados del Tribunal durarán en su encargo seis años y podrán ser ratificados para un periodo igual.
+
+El procedimiento para la designación de los Magistrados integrantes del Tribunal de Conciliación y Arbitraje será el que establezca la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios.
 
 > <small>(ADICIONADA, P.O. 26 DE ENERO DE 2021)</small>
 
@@ -3916,3 +3920,21 @@ QUINTO. La legislación actual en materia de mecanismos alternativos de solució
 SEXTO. En tanto se instituya e inicie operaciones el Centro de Conciliación Laboral del Estado, las autoridades locales laborales continuarán atendiendo las diferencias o conflictos que se presenten entre patrones y trabajadores. Los asuntos que estuvieran en trámite al momento de iniciar sus funciones dicho Centro de Conciliación serán resueltos de conformidad con las disposiciones aplicables al momento de su inicio.
 
 SÉPTIMO. Se derogan todas las disposiciones que contravengan al presente decreto.
+
+P.O. 13 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 309.- SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 54, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se contrapongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los actuales titulares del Tribunal de Conciliación y Arbitraje del Estado concluirán el periodo para el que fueron designados, sin embargo en el procedimiento para el nombramiento de magistrados, podrán participar y en su caso ser designados con ese carácter quienes hasta ese momento sean titulares del Tribunal de Conciliación y Arbitraje del Estado, quedando exceptuados por única ocasión del cumplimiento de los requisitos previstos en el artículo 83, fracción VI, de la Constitución Política del Estado de Tlaxcala, y del artículo 90 fracción V, de la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios.
+
+La toma de protesta de los magistrados del Tribunal de Conciliación y Arbitraje del Estado, se llevará a cabo el doce de enero del dos mil veintitrés, en sesión pública celebrada a las once horas de la mañana.
