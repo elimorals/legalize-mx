@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-568
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-07"
-last_updated: "2020-01-11"
+last_updated: "2021-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2021.
+
+Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 7 de julio de 2007.
 
 EL CIUDADANO LICENCIADO JOSÉ REYES BAEZA TERRAZAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
 
@@ -53,9 +55,11 @@ Las disposiciones de esta ley son de orden público y de interés social. El obj
 
 En el ámbito de sus atribuciones, corresponde al Ejecutivo del Estado y a los ayuntamientos promover las condiciones para que la libertad y la igualdad de las personas sean reales y efectivas. Los sectores público, social y privado, deberán eliminar aquellos obstáculos que limiten en los hechos su ejercicio e impidan el pleno desarrollo de las personas, así como su efectiva participación en la vida política, económica, cultural y social del país y promoverán la participación de las autoridades de los demás órdenes de Gobierno y de los particulares en la eliminación de dichos obstáculos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2021)</small>
+
 ###### Artículo 3.
 
-El Ejecutivo del Estado y los ayuntamientos vigilarán que los planes estatal y municipales de desarrollo contengan las siguientes acciones afirmativas y compensatorias:
+El Ejecutivo del Estado y los ayuntamientos vigilarán que los planes estatal y municipales de desarrollo contengan las siguientes medidas de nivelación, inclusión y acciones afirmativas:
 
 I. Mecanismos que permitan la participación activa, libre, informada y equitativa de las mujeres y los hombres;
 
@@ -67,7 +71,9 @@ IV. Mecanismos que permitan la inclusión y participación de las personas y gru
 
 Los órganos públicos estatales y municipales adoptarán las medidas, acciones afirmativas y compensatorias que estén a su alcance, tanto por separado como coordinadamente, de conformidad con la disponibilidad de recursos que se haya determinado para tal fin en los Presupuestos de Egresos correspondientes, para que toda persona, agrupación o colectivo goce, sin discriminación alguna, de todos los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y en los Tratados Internacionales de los que México sea parte.
 
-Las medidas, acciones afirmativas y compensatorias que se establecen en la presente ley son de carácter progresivo, por lo que no podrán ser reducidas o eliminadas, sino únicamente ampliarse.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2021)</small>
+
+Las medidas de nivelación, medidas de inclusión y acciones afirmativas que se establecen en la presente ley son de carácter progresivo, por lo que no podrán ser reducidas o eliminadas, sino únicamente ampliarse.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
 
@@ -75,9 +81,9 @@ Las medidas, acciones afirmativas y compensatorias que se establecen en la prese
 
 Para los efectos de esta ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
 
-I. Discriminación: Toda distinción, exclusión o restricción basada en el origen étnico, nacional o regional; en el sexo, la edad, la discapacidad, la condición social, económica o sociocultural; la apariencia física, las ideologías, las creencias, los caracteres genéticos, las condiciones de salud, el embarazo, la lengua, la religión, las opiniones, la orientación o preferencias sexuales, el estado civil, el color de piel, la cultura, el género, la condición jurídica, la situación migratoria, la identidad o filiación política, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales, o cualquier otra que tenga por efecto impedir o anular, total o parcialmente, el reconocimiento o el ejercicio de los derechos y la igualdad con equidad de oportunidades de las personas, haciéndolas nugatorias al afectado.
+I. Discriminación: Toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades basada en el origen étnico, nacional o regional; en el sexo, la edad, la discapacidad, la condición social, económica o sociocultural; la apariencia física, las ideologías, las creencias, los caracteres genéticos, las condiciones de salud, el embarazo, la lengua, la religión, las opiniones, la orientación o preferencias sexuales, el estado civil, el color de piel, la cultura, el género, la condición jurídica, la situación migratoria, la identidad o filiación política, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales, o cualquier otra que tenga por efecto impedir o anular, total o parcialmente, el reconocimiento o el ejercicio de los derechos y la igualdad con equidad de oportunidades de las personas, haciéndolas nugatorias al afectado.
 
 II. Comisión Estatal: A la Comisión Estatal para el Desarrollo Social y Humano prevista en la ley de la materia.
 
@@ -92,6 +98,14 @@ VI. Consejo de Desarrollo Social: Al Consejo de Desarrollo Social y Participaci�
 VII. Programa: Programa Estatal para Prevenir y Eliminar la Discriminación.
 
 VIII. Atención Preferencial o Diferenciada: Diferenciación jurídica de tratamiento creada de manera temporal, con el fin de favorecer una cantidad determinada de personas y compensar una desigualdad de hecho y estructural.
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+IX. Ajustes razonables: Las modificaciones y adaptaciones necesarias y adecuadas en la infraestructura y los servicios, que al realizarlas no impongan una carga desproporcionada o afecten derechos de terceros, que se aplican cuando se requieran en un caso particular, para garantizar que las personas gocen o ejerzan sus derechos en igualdad de condiciones con las demás.
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+X. Igualdad real de oportunidades: El acceso que tienen las personas o grupos de personas para el igual disfrute de sus derechos, por la vía de las normas y los hechos.
 
 ###### Artículo 5.
 
@@ -127,15 +141,21 @@ Para los efectos del artículo anterior, cuando se presenten diferentes interpre
 
 En la aplicación de la presente ley intervendrán las autoridades y los órganos públicos estatales y municipales, así como la Subcomisión para Prevenir y Eliminar la Discriminación, prevista en la presente ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2021)</small>
+
 ###### Artículo 9.
 
-Queda prohibida toda práctica discriminatoria que tenga por objeto impedir, obstaculizar, desconocer, o anular el reconocimiento o ejercicio de los derechos y la igualdad con equidad de oportunidades.
+Queda prohibida toda práctica discriminatoria que tenga por objeto impedir, obstaculizar, desconocer, o anular el reconocimiento o ejercicio de los derechos y la igualdad sustantiva.
 
 Se consideran como conductas discriminatorias, de manera enunciativa y no limitativa:
 
-I. Impedir el acceso a la educación pública o privada, así como a becas e incentivos para la permanencia en los centros educativos, en los términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
 
-II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la equidad o que difundan o induzcan una condición de subordinación;
+I. Impedir el acceso a la educación pública o privada, obstaculizar el acceso a información científica, así como a becas e incentivos para la permanencia en los centros educativos, en los términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad, que difundan o induzcan una condición de subordinación, que repliquen roles de género o que carezcan de sustento científico;
 
 III. Prohibir la libre elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo. En el caso de las mujeres, condicionar las oportunidades referidas a la realización en cualquier momento de pruebas de gravidez o embarazo;
 
@@ -159,13 +179,17 @@ XII. Negar o condicionar el derecho de participación política y, específicame
 
 XIII. Impedir el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo, salvo los casos que la ley o la autoridad legalmente limite;
 
-XIV. Impedir el acceso a la procuración e impartición de justicia;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
 
-XV. Impedir que se les escuche en todo procedimiento judicial o administrativo en que se vean involucrados, incluyendo a las niñas y los niños en los casos que la ley así lo disponga, así como negar la asistencia de intérpretes en procedimientos administrativos o judiciales, de conformidad con las normas aplicables.
+XIV. Impedir el acceso a la procuración e impartición de justicia, así como utilizar estereotipos o prejuicios de género.
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XV. Impedir que se escuche a las víctimas en todo procedimiento judicial o administrativo en que se vean involucradas, incluyendo especialmente a las niñas y los niños en los casos que la ley así lo disponga, así como negar la asistencia de intérpretes de lenguas indígenas en procedimientos administrativos o judiciales, de conformidad con las normas aplicables;
 
 XVI. Negar el derecho a la debida atención a las víctimas u ofendidos de algún delito;
 
-XVII. Incitar o cometer actos de violencia, maltrato, tortura o detención arbitraria;
+XVII. (DEROGADA, P.O. 14 DE ABRIL DE 2021)
 
 XVIII. Aplicar cualquier tipo de uso o costumbre que atente contra la dignidad e integridad humana;
 
@@ -179,7 +203,9 @@ XXII. Negar asistencia religiosa a personas privadas de la libertad, que presten
 
 XXIII. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por las leyes en la materia e instrumentos jurídicos internacionales aplicables;
 
-XXIV. Obstaculizar las condiciones necesarias para el crecimiento y desarrollo saludable, especialmente de las niñas y los niños;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XXIV. Obstaculizar las condiciones necesarias para el crecimiento y desarrollo integral, especialmente de las niñas y los niños, con base en el interés superior de la niñez;
 
 XXV. Impedir el acceso a la seguridad social y a sus beneficios o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;
 
@@ -191,15 +217,59 @@ XXVIII. Cometer actos de explotación o dar un trato abusivo o degradante;
 
 XXIX. Restringir la participación en actividades deportivas, recreativas o culturales, así como establecer diferencias en las remuneraciones, apoyos, becas, estímulos y/o compensaciones entre los atletas y los atletas paraolímpicos;
 
-XXX. Restringir o limitar el uso de su lengua, usos, costumbres y cultura, en actividades públicas o privadas, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XXX. Restringir o limitar el uso de las lenguas indígenas oficialmente reconocidas, así como los usos, costumbres y cultura indígena, en actividades públicas o privadas, en términos de las disposiciones aplicables;
 
 XXXI. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecución o la exclusión, en los términos del artículo 4 de esta ley;
 
-XXXII. Realizar o promover el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación o preferencia sexual; y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
 
-XXXIII. En general, cualquier otra conducta discriminatoria en términos del artículo 4 de esta ley.
+XXXII. Realizar o promover el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación o preferencia sexual;
 
-### CAPÍTULO II. ACCIONES AFIRMATIVAS Y COMPENSATORIAS PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ABRIL DE 2021)</small>
+
+XXXIII. La falta de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público para las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XXXIV. La denegación de ajustes razonables que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos de las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XXXV. Estigmatizar o negar derechos a personas con adicciones, que han estado o se encuentren en centros de reclusión, o en instituciones de atención a personas con discapacidad mental o psicosocial;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XXXVI. Negar la prestación de servicios financieros a niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores de acuerdo a lo establecido en la legislación civil;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XXXVII. Difundir sin consentimiento de la persona agraviada información sobre su condición de salud;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XXXVIII. Impedir o limitar la protección y la asistencia de las autoridades consulares o diplomáticas de su estado de origen;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XXXIX. Impedir o limitar el libre tránsito en el Estado;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XL. Impedir o limitar el derecho al debido proceso o generar condiciones de desigualdad en su ejercicio;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XLI. Estigmatizar a las víctimas de cualquier delito, así como de violaciones a los derechos humanos, generando la revictimización;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE ABRIL DE 2021)</small>
+
+XLII. En general, cualquier otra conducta discriminatoria en términos del artículo 4 de esta Ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ABRIL DE 2021)</small>
+
+### CAPÍTULO II. DE LAS MEDIDAS DE NIVELACIÓN, MEDIDAS DE INCLUSIÓN Y ACCIONES AFIRMATIVAS
 
 ###### Artículo 10.
 
@@ -219,37 +289,113 @@ VI. Procurar la creación de centros de desarrollo infantil y guarderías asegur
 
 VII. Promover campañas de información en los medios de comunicación que condenen toda forma de discriminación y violencia contra las mujeres.
 
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2021)</small>
+
+###### Artículo 10 Bis.
+
+Por medidas de nivelación se entenderán, aquellas que buscan en todo momento hacer efectivo el acceso de todas las personas a la igualdad real de oportunidades eliminando las barreras físicas, comunicacionales, normativas o de otro tipo, que obstaculizan el ejercicio de derechos y libertades prioritariamente a las mujeres y a los grupos en situación de discriminación o vulnerabilidad; se incluyen, entre otras:
+
+I. Ajustes razonables en materia de accesibilidad física, de información y comunicaciones;
+
+II. Adaptación de los puestos de trabajo para personas con discapacidad;
+
+III. Diseño y distribución de comunicaciones oficiales, convocatorias públicas, libros de texto, licitaciones, entre otros, en formato braille o en lenguas indígenas;
+
+IV. Uso de intérpretes de lengua de señas mexicana en los eventos públicos de todas las dependencias gubernamentales y en los tiempos oficiales de televisión;
+
+V. Uso de intérpretes y traductores de lenguas indígenas;
+
+VI. La accesibilidad del entorno social, incluyendo acceso físico, de comunicaciones y de información;
+
+VII. Derogación o abrogación de las disposiciones normativas que impongan requisitos discriminatorios de ingreso y permanencia a escuelas, trabajos, entre otros;
+
+VIII. Creación de licencias de paternidad, homologación de condiciones de derechos y prestaciones para los grupos en situación de discriminación o vulnerabilidad.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2021)</small>
+
+###### Artículo 10 Ter.
+
+Por medidas de inclusión se entenderá, aquellas disposiciones de carácter preventivo o correctivo, cuyo objeto es eliminar mecanismos de exclusión o diferenciaciones desventajosas para que todas las personas gocen y ejerzan sus derechos en igualdad de trato, como son:
+
+I. La educación para la igualdad dentro del sistema educativo nacional;
+
+II. La integración en el diseño, instrumentación y evaluación de las políticas públicas del derecho a la igualdad y no discriminación;
+
+III. El desarrollo de políticas contra la homofobia, la xenofobia, la misoginia, la discriminación por apariencia o el adultocentrismo;
+
+IV. Las acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias;
+
+V. El llevar a cabo campañas de difusión al interior de los poderes públicos federales;
+
+VI. Las demás que determinen las leyes.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2021)</small>
+
+###### Artículo 10 Quater.
+
+Las acciones afirmativas son las medidas especiales, específicas y de carácter temporal, a favor de personas o grupos en situación de discriminación, cuyo objetivo es corregir situaciones patentes de desigualdad en el disfrute o ejercicio de derechos y libertades, aplicables mientras subsistan dichas situaciones.
+
+Se adecuarán a la situación que quiera remediarse, deberán ser legítimas y respetar los principios de justicia y proporcionalidad. Estas medidas no serán consideradas discriminatorias en términos del artículo 5 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2021)</small>
+
+###### Artículo 10 Quinquies.
+
+Los órganos públicos, las autoridades estatales y municipales que, en el ámbito de su competencia, ejerzan medidas de nivelación o inclusión, así como cualquier acción afirmativa en los términos de la presente Ley, deberán hacerlo del conocimiento al Consejo para su registro y monitoreo.
+
+La Subcomisión determinará la información a recabar y la forma de hacerlo en los términos que se establezcan en sus lineamientos.
+
+Los órganos públicos estatales y municipales adoptarán las medidas de nivelación e inclusión, así como las acciones afirmativas necesarias, tanto por separado como coordinadamente, de conformidad con la disponibilidad de recursos que se haya determinado para tal fin en los Presupuestos de Egresos correspondientes, para que toda persona, agrupación o colectivo goce, sin discriminación alguna, de todos los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y en los Tratados Internacionales de los que México sea parte.
+
+Las medidas y acciones afirmativas que se establecen en la presente Ley, deben ser incorporadas de manera transversal y progresiva, por lo que no podrán ser reducidas o eliminadas, sino únicamente ampliarse.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2021)</small>
+
 ###### Artículo 11.
 
-Los órganos públicos, las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes acciones afirmativas y compensatorias a favor de la igualdad con equidad de oportunidades de las niñas y los niños
+Los órganos públicos, las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas de nivelación, medidas de inclusión y acciones afirmativas a favor de la igualdad sustantiva de niñas, niños y adolescentes:
 
-I. Instrumentar programas y reforzar los existentes, dirigidos a la atención médica y sanitaria para combatir la mortalidad y la desnutrición infantiles;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+I. Instrumentar programas y reforzar los existentes, dirigidos a la atención médica y sanitaria para combatir la mortalidad y la desnutrición;
 
 II. Impartir educación para la preservación de la salud, el conocimiento integral de la sexualidad, la planificación familiar, la paternidad y maternidad responsable, así como el respeto a los derechos humanos;
 
 III. Promover el acceso a centros de desarrollo infantil, incluyendo a menores con discapacidad;
 
-IV. Promover las condiciones necesarias para que los menores puedan convivir con sus padres o tutores, incluyendo políticas públicas de reunificación familiar para migrantes y personas privadas de la libertad;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+IV. Promover las condiciones necesarias para que niñas, niños y adolescentes puedan convivir con sus padres o tutores, incluyendo políticas públicas de reunificación familiar para migrantes y personas privadas de la libertad, previendo medidas excepcionales en casos donde se trate de huérfanos o huérfanas de víctimas de feminicidio;
 
 V. Preferir, en igualdad de circunstancias, a las personas que tengan a su cargo menores de edad en el otorgamiento de becas, créditos u otros beneficios;
 
-VI. Alentar la producción y difusión de libros para niños y niñas, promoviendo un enfoque de equidad de género;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+VI. Alentar la producción y difusión de libros para niños y niñas, promoviendo un enfoque de derechos humanos y perspectiva de género;
 
 VII. Promover la creación de instituciones que tutelen a los menores privados de su medio familiar, incluyendo hogares de guarda y albergues para estancias temporales;
 
-VIII. Promover la recuperación física, psicológica y la integración social de todo menor víctima de abandono, explotación, malos tratos o conflictos armados;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+VIII. Promover la recuperación física, psicológica y la integración social de niñas, niños y adolescentes víctimas de abandono, explotación, malos tratos o conflictos armados; o que se encuentren en condición de orfandad;
 
 IX. Proporcionar, en los términos de la legislación en la materia, asistencia legal y psicológica e intérprete en los procedimientos judiciales o administrativos, en que sea procedente;
 
 X. Crear espacios públicos de calidad para la recreación y esparcimiento infantil, así como instalaciones para la práctica deportiva;
 
-XI. Promover la cultura de protección a los niños y las niñas, a través de los distintos medios con los que cuenta el Estado; y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
 
-XII. Promover campañas de información en los medios de comunicación que condenen toda forma de discriminación y violencia contra las niñas y los niños.
+XI. Promover la cultura de protección integral a niñas, niños y adolescentes a través de los distintos medios con los que cuenta el Estado;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XII. Promover campañas de información en los medios de comunicación que condenen toda forma de discriminación y violencia contra niñas, niños y adolescentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2021)</small>
 
 ###### Artículo 12.
 
-Los órganos públicos, las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes acciones afirmativas y compensatorias a favor de la igualdad con equidad de oportunidades para las personas mayores de 65 años:
+Los órganos públicos, las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas de nivelación, medidas de inclusión y acciones afirmativas a favor de la igualdad sustantiva para las personas mayores de 65 años:
 
 I. Garantizar el acceso a los servicios de atención médica y seguridad social, según lo dispuesto en la normatividad en la materia;
 
@@ -273,9 +419,11 @@ X. Otorgar un trato fiscal favorable por parte de las autoridades estatal y muni
 
 XI. Promover campañas de información y difusión en los medios de comunicación masiva que condenen toda forma de discriminación y violencia contra las personas mayores de 65 años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2021)</small>
+
 ###### Artículo 13.
 
-Los órganos públicos, las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes acciones afirmativas y compensatorias a favor de la igualdad con equidad de oportunidades para las personas con discapacidad:
+Los órganos públicos, las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas de nivelación, medidas de inclusión y acciones afirmativas a favor de la igualdad sustantiva para las personas con discapacidad:
 
 I. Promover un entorno que permita el libre acceso y desplazamiento;
 
@@ -311,13 +459,23 @@ XIV. Asignar recursos para la capacitación especializada, la investigación y e
 
 XV. Promover que en las unidades del Sistema Nacional de Salud y de Seguridad Social, reciban regularmente el tratamiento y medicamentos necesarios para mantener y aumentar su capacidad funcional y su calidad de vida;
 
-XVI. Promover campañas de información y difusión en los medios de comunicación masiva que condenen toda forma de discriminación y violencia contra las personas con discapacidad; y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
 
-XVII. Exhortar a los medios de comunicación masivos para que eviten el uso de imágenes o contenidos discriminatorios o satíricos.
+XVI. Promover campañas de información y difusión en los medios de comunicación masiva que condenen toda forma de discriminación y violencia contra las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XVII. Exhortar a los medios de comunicación masivos para que eviten el uso de imágenes o contenidos discriminatorios o satíricos;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XVIII. Diseño y distribución de comunicaciones oficiales, convocatorias públicas, libros de texto, licitaciones, entre otros, en formato braille.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2021)</small>
 
 ###### Artículo 14.
 
-Los órganos públicos, las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes acciones afirmativas y compensatorias a favor de la igualdad con equidad de oportunidades para la población indígena y minorías étnicas:
+Los órganos públicos, las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas de nivelación, medidas de inclusión y acciones afirmativas a favor de la igualdad sustantiva para la población indígena y minorías étnicas:
 
 I. Establecer programas educativos bilingües y que promuevan el intercambio cultural;
 
@@ -327,39 +485,59 @@ III. Crear programas permanentes de capacitación y actualización para los func
 
 IV. Diseñar, instrumentar y ejecutar programas que impulsen el conocimiento, protección, desarrollo y utilización de la medicina tradicional;
 
-V. Establecer los mecanismos adecuados que garanticen su participación en los cambios legislativos, así como en la toma de decisiones respecto de las políticas públicas susceptibles de afectarles;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+V. Establecer los mecanismos adecuados que garanticen la participación de las personas indígenas en los cambios legislativos, así como en la toma de decisiones respecto de las políticas públicas susceptibles de afectarles, asegurando su derecho a la consulta previa, libre e informada desde una perspectiva de interculturalidad.
 
 VI. Emprender campañas permanentes de información en los medios de comunicación que promuevan el respeto a las culturas indígenas en el marco de los derechos humanos y las garantías individuales;
 
-VII. En el marco de las leyes aplicables, cuando se fijen sanciones penales a indígenas, procurar que tratándose de penas alternativas, se imponga aquella distinta a la privativa de libertad, así como promover la aplicación de sustitutivos penales y beneficios de preliberación, de conformidad con las normas aplicables;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+VII. En el marco de las leyes aplicables, cuando se fijen sanciones penales a indígenas, se deberá de observar el principio de interculturalidad para procurar que tratándose de penas alternativas, se imponga aquella distinta a la privativa de libertad, así como promover la aplicación de sustitutivos penales y beneficios de preliberación, de conformidad con las normas aplicables;
 
 VIII. Garantizar que en todos los juicios y procedimientos en que sea parte, individual o colectivamente, se tomen en cuenta sus costumbres y especificidades culturales, respetando los preceptos de la Constitución;
 
-IX. Garantizar, a lo largo de cualquier proceso legal, el derecho a ser asistidos, si así lo solicitan, por intérpretes y defensores que tengan conocimiento de su lengua, de conformidad con las normas aplicables; y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
 
-X. Emprender campañas permanentes de información en los medios de comunicación que promuevan el respeto a las culturas indígenas en el marco de los derechos humanos y las garantías individuales, y que condenen toda forma de discriminación y violencia contra la población indígena.
+IX. Garantizar, a lo largo de cualquier proceso legal, el derecho a ser asistidos, si así lo solicitan, por intérpretes y defensores que tengan conocimiento de su lengua y de su cultura, de conformidad con las normas aplicables;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+X. Emprender campañas permanentes de información en los medios de comunicación que promuevan el respeto a las culturas indígenas en el marco de los derechos humanos y las garantías individuales, y que condenen toda forma de discriminación y violencia contra la población indígena;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XI. Diseño y distribución de comunicaciones oficiales, convocatorias públicas, libros de texto, licitaciones, entre otros, los cuales estarán redactados en lenguas indígenas nativas del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2021)</small>
 
 ###### Artículo 15.
 
-Los órganos públicos, las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes acciones afirmativas y compensatorias a favor de las personas privadas de su libertad:
+Los órganos públicos, las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas de nivelación, medidas de inclusión y acciones afirmativas para la igualdad sustantiva a favor de las personas privadas de su libertad:
 
 I. Establecer las medidas necesarias a efecto de que las personas sujetas a proceso, tengan derecho al mismo trato dado a los sentenciados respecto al trabajo, capacitación para el mismo, educación e instrucción, en lo conducente;
 
 II. El Ejecutivo del Estado, por conducto de la dependencia correspondiente, procurará la cercanía de los internos con sus familiares para una mejor readaptación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2021)</small>
+
 ###### Artículo 16.
 
-Los órganos públicos, las autoridades estatales y municipales adoptarán las acciones afirmativas tendentes a favorecer la igualdad con equidad de oportunidades y a prevenir y eliminar las formas de discriminación de las personas a que se refiere el artículo 4 de esta ley.
+Los órganos públicos, las autoridades estatales y municipales adoptarán las medidas de nivelación, medidas de inclusión y acciones afirmativas a favor de la igualdad sustantiva y a prevenir y eliminar las formas de discriminación de las personas a que se refiere el artículo 4 de esta ley.
 
-Los sectores público, privado y social promoverán ante quien corresponda, la inclusión de los niveles o índices de igualdad con equidad de oportunidades laborales, como parte de los criterios a tomarse en cuenta en los diversos sistemas tendientes a certificar la calidad de los procesos en las organizaciones públicas y/o privadas.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2021)</small>
+
+Los sectores público, privado y social promoverán ante quien corresponda, la inclusión de los niveles o índices de igualdad sustantiva en el ámbito laboral, como parte de los criterios a tomarse en cuenta en los diversos sistemas tendientes a certificar la calidad de los procesos en las organizaciones públicas y/o privadas.
 
 ### CAPÍTULO III. DE LA SUBCOMISIÓN PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 
 #### SECCIÓN PRIMERA. DEL OBJETO Y ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2021)</small>
+
 ###### Artículo 17.
 
-La Subcomisión para Prevenir y Eliminar la Discriminación, es un órgano colegiado creado dentro de la Comisión Estatal, que tiene por objeto contribuir al desarrollo cultural, social y democrático del Estado, mediante el diseño y ejecución de acciones para prevenir y eliminar la discriminación, formulando y promoviendo políticas públicas para la igualdad con equidad de oportunidades y de trato a favor de las personas y grupos de la sociedad procurando, para tales efectos, la coordinación de acciones con las dependencias y entidades públicas, privadas y sociales.
+La Subcomisión para Prevenir y Eliminar la Discriminación, es un órgano colegiado creado dentro de la Comisión Estatal, que tiene por objeto contribuir al desarrollo cultural, social y democrático del Estado, mediante el diseño y ejecución de acciones para prevenir y eliminar la discriminación, formulando y promoviendo políticas públicas para la igualdad sustantiva a favor de las personas y grupos de la sociedad procurando, para tales efectos, la coordinación de acciones con las dependencias y entidades públicas, privadas y sociales.
 
 ###### Artículo 18.
 
@@ -507,9 +685,11 @@ V. Las demás que le confieran esta ley, su reglamento y demás ordenamientos, a
 
 ### CAPÍTULO IV. DE LA PLANEACIÓN Y PROGRAMACIÓN
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2021)</small>
+
 ###### Artículo 28.
 
-En el proceso de formulación del Programa Estatal para Prevenir y Eliminar la Discriminación, se deberá atender a los principios, objetivos e instrumentos establecidos en la Ley de Desarrollo Social y Humano para el Estado de Chihuahua y en la Ley de Planeación del Estado; lo anterior, en el marco del Plan Estatal de Desarrollo.
+En el proceso de formulación del Programa Estatal para Prevenir y Eliminar la Discriminación, se deberá atender a los principios, objetivos e instrumentos establecidos en la Ley de Desarrollo Social y Humano para el Estado de Chihuahua y en la Ley de Planeación del Estado; lo anterior, en el marco del Plan Estatal de Desarrollo, asegurando la incorporación de la perspectiva de género, la igualdad sustantiva y la promoción de los derechos humanos.
 
 ###### Artículo 29.
 
@@ -517,9 +697,11 @@ El Programa será parte integral del Programa Estatal de Desarrollo Social y Hum
 
 ### CAPÍTULO V. DE LA SANCIÓN DE LAS CONDUCTAS DISCRIMINATORIAS
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2021)</small>
+
 ###### Artículo 30.
 
-Los servidores de la administración pública estatal o municipal que en ejercicio de sus funciones o con motivo de ellas contravengan las disposiciones establecidas en el presente ordenamiento, serán sancionados de conformidad a lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
+Los servidores de la administración pública estatal o municipal que en ejercicio de sus funciones o con motivo de ellas contravengan las disposiciones establecidas en el presente ordenamiento, serán sancionados de conformidad a lo previsto en la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 31.
 
@@ -676,5 +858,17 @@ P.O.11 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFLEY/0439/2019 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 22, FRACCIÓN III, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/0980/2021 II P.O.".]
+
+###### ARTÍCULO PRIMERO.
+
+Las autoridades e instancias competentes, difundirán por los medios posibles, y llevarán a cabo cursos de capacitación, y demás medidas tendientes, al conocimiento y aplicación de las materias previstas en el presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
