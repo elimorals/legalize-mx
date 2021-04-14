@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2021-04-05"
+last_updated: "2021-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2021.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -6847,19 +6847,357 @@ Supletoriedad
 
 387. En lo que no se oponga a la naturaleza del presente procedimiento, son aplicables las disposiciones del Libro Quinto de este Código.
 
-### CAPITULO I. Disposiciones Comunes
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 14 DE ABRIL DE 2021)</small>
 
-Disposiciones aplicables
+### CAPÍTULO XI. Del Juicio Hipotecario
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Objeto
+
+###### Artículo 2.
+
+388.- Se tramitarán en la vía especial hipotecaria las demandas que tengan por objeto exigir el pago de un crédito garantizado por hipoteca o, en su caso, hacer efectiva la garantía; sin importar la naturaleza jurídica de dicho crédito, ni la materia que lo regule.
+
+Serán competentes para conocer de ellas los Tribunales Civiles de Primera Instancia. En todo caso, estos juicios se sustanciarán electrónicamente, en términos de la regulación establecida al efecto en este Código, el Reglamento para el Acceso a los Servicios del Tribunal Electrónico del Poder Judicial del Estado de México y los lineamientos operativos aplicables.
+
+Las demás acciones derivadas del contrato de hipoteca, se tramitarán en la vía ordinaria.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Procedencia
+
+###### Artículo 2.
+
+389.- Para que proceda el juicio hipotecario, deberán reunirse los siguientes requisitos:
+
+I. Que el crédito conste en escritura pública;
+
+II. Que sea de plazo cumplido o pueda exigirse su vencimiento anticipado, conforme al contrato de hipoteca o a la ley, y
+
+III. Que la escritura pública donde conste esté inscrita en el Instituto de la Función Registral.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Supletoriedad
+
+###### Artículo 2.
+
+390.- En lo no previsto, serán aplicables las disposiciones que rigen el juicio ordinario civil y, en su defecto, las generales de este Código; en lo que no se opongan a la naturaleza del juicio hipotecario.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Admisión de demanda
+
+###### Artículo 2.
+
+391.- Presentada la demanda, acompañada de la escritura pública donde conste el crédito hipotecario, el tribunal revisará su competencia y si se reúnen los requisitos fijados en los artículos anteriores; de ser así, dictará auto admisorio con efectos de mandamiento en forma, donde se ordene:
+
+I. Requerir de pago a la parte demandada, en su caso;
+
+II. Expedir inmediatamente cédula hipotecaria y entregarla con las formalidades debidas;
+
+III. Tener por constituido depósito judicial sobre la finca hipotecada, sus frutos y todos los objetos que con arreglo a la escritura y conforme al Código Civil deban considerarse inmovilizados e Integrantes de la misma, a partir del emplazamiento. Siempre que lo pida cualquiera de las partes, se formará el inventario respectivo para agregarlo a los autos;
+
+IV. Nombrar persona que ejercerá el cargo de depositario judicial, conforme a lo previsto por el artículo 2.393;
+
+V. Emplazar a la parte demandada, corriéndole traslado con copia cotejada de la demanda y documentos anexos, para que la conteste dentro del plazo de cinco días;
+
+VI. Notificar a los acreedores hipotecarios anteriores para que, si lo desean, ejerciten sus derechos conforme a la ley, cuando del título base de la acción hipotecaria, se advierta su existencia;
+
+VII. Si lo permiten las estipulaciones contenidas en el contrato de hipoteca, practicar avalúo del bien hipotecado, una vez efectuado el emplazamiento, y
+
+VIII. Librar los exhortes (sic) correspondientes, para el supuesto de que el bien hipotecado, o los domicilios de la parte demandada o los acreedores anteriores que resultaren, se ubiquen fuera del lugar del juicio.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Cedula hipotecarla (sic)
+
+###### Artículo 2.
+
+392.- La cedula hipotecaria es el documento expedido por el tribunal que conozca del asunto para efectos de registro. Contendrá una relación sucinta de la demanda y del título en el cual se funde esta; así como el mandamiento expreso y terminante de que la finca es objeto de juicio hipotecario y se encuentra en depósito judicial.
+
+Se formará en cuatro tantos, de los cuales se dispondrá en la forma siguiente:
+
+a) Previo pago de derechos por la parte actora, el cual deberá realizar dentro de los tres días siguientes a que reciba el formato correspondiente, dos ejemplares de la cedula hipotecaria se enviaran electrónicamente por el tribunal a la oficina correspondiente del Instituto de la Función Registral para su anotación; efectuada esta, con la constancia respectiva, uno de ellos quedara en el Registro y el otro se agregara a los autos, y
+
+b) Los dos restantes serán entregados, uno a la parte actora y otro a la demandada al ejecutarse el auto admisorio.
+
+Si fueren materia de la acción varios bienes hipotecados, se expedirán cuantas cedulas hipotecarias correspondan para cada uno de ellos, en la forma que este artículo previene.
+
+Anotada la cedula hipotecaria, no surtirá efecto embargo alguno, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el juicio hipotecario o viole los derechos adquiridos por la parte actora sino en virtud de sentencia ejecutoriada relativa al mismo inmueble, debidamente registrada y anterior en fecha a la presentación de la demanda que ha motivado la expedición de la cédula o de la providencia dictada a petición de (sic) persona acreedora con mejor derecho.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Depósito judicial de la finca hipotecada
+
+###### Artículo 2.
+
+393.- A partir de que se le entregue la cédula hipotecaria, a la parte deudora se constituye en depositarla (sic) judicial de la finca hipotecada, con todos los derechos y obligaciones relativos, establecidos en el Libro Séptimo, Tercera Parte. Título Octavo, del Código Civil.
+
+Si la parte deudora no acepta la responsabilidad como depositarla (sic) judicial, entregará desde luego la posesión material de la finca para que la ejerza con dicho carácter la parte actora o la persona nombrada por ésta quienes, en su caso, deberán cumplir con las obligaciones legalmente establecidas para ello.
+
+Cuando la parte actora funja como depositarla (sic) judicial, puede servir como fianza el crédito que reclama. Si se trata de terceras personas, en todo caso otorgarán garantía.
+
+La parte actora tendrá derecho de nombrar depositario cuando así se estipule en el contrato contenido en la escritura de hipoteca, o cuando la parte deudora no acepte dicha responsabilidad.
+
+Quien ostente el cargo de depositario deberá rendir cuenta mensual de su administración, en la forma prevista para el embargo de inmuebles y sus rentas; sin que pueda ser eximido de esta obligación por convenio contenido en el contrato de hipoteca.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Ejecución del auto admisorio
+
+###### Artículo 2.
+
+394.- La ejecución del auto que admita la demanda en la vía hipotecaria, se llevará a cabo de acuerdo con lo siguiente:
+
+I. La cédula hipotecaria será enviada a la oficina del Instituto de la Función Registral para los efectos establecidos en el artículo 2.392;
+
+II. Mediante diligencia que atienda a las formalidades relativas al emplazamiento, la parte deudora será requerida de pago, cuando su obtención constituya una de las pretensiones. De lograrlo, quien esté a cargo de la diligencia dará cuenta al tribunal para que se resuelva lo conducente;
+
+III. En caso de no obtener pago o cuando éste no se haya reclamado, se hará entrega a la parte demandada de la cédula hipotecaria. En el mismo acto, también se entregará un tanto a la parte actora;
+
+IV. Hecha la entrega de la cédula hipotecaria, se requerirá (sic) la parte deudora para que exprese Si acepta o no la responsabilidad como depositaría judicial del bien hipotecado, lo cual deberá contestar en ese acto.
+
+Para el caso de que la diligencia se haya entendido con diversa persona, dicha manifestación deberá hacerla la parte deudora dentro de los cinco días siguientes; mientras tanto, se le considerará como depositaría.
+
+Transcurrido dicho plazo, sin que haga la parte deudora la manifestación correspondiente, se entenderá rehusado el cargo de depositario y se procederá conforme a lo previsto para esa hipótesis, en el artículo 2.393, y
+
+V. Enseguida, corriéndole traslado con copia cotejada de la demanda y documentos anexos, se le emplazará para que la conteste dentro del plazo de cinco días.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Excepciones oponibles
+
+###### Artículo 2.
+
+395.- En los juicios hipotecarios, son admisibles toda clase de excepciones.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Reconvención
+
+###### Artículo 2.
+
+396.- No procede la reconvención en los juicios hipotecarios.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Vista con la contestación de demanda
+
+###### Artículo 2.
+
+397.- Con la contestación de demanda que, en su caso, se formule; se mandará dar vista a la parte actora, por el plazo de tres días.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Ofrecimiento de pruebas
+
+###### Artículo 2.
+
+398.- En los escritos relativos a la fijación de la controversia, las partes deben ofrecer sus pruebas, relacionándolas con los hechos materia de debate.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Trámite sumarísimo
+
+###### Artículo 2.
+
+399.- Si dentro del plazo concedido no se contesta la demanda o si, contestándola, se formula allanamiento; a petición de la parte actora, se citará a las partes para oír sentencia definitiva, en cuyo caso, la misma se pronunciará dentro de los ocho días siguientes.
+
+En caso de no contestar cada uno de los hechos de la demanda, se tendrá por confesa afirmativamente a la parte demandada.
+
+La falta de contestación a la demanda sólo producirá los efectos anteriores, sí el emplazamiento se realizó personal y directamente al demandado o a su representante.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Trámite sumario
+
+###### Artículo 2.
+
+400.- En el auto que tenga por desahogada la vista respecto de las excepciones opuestas o si se declara la rebeldía cuando el emplazamiento se efectuó por edictos, el tribunal depurará el proceso resolviendo las excepciones procesales o de cosa juzgada interpuestas por la parte demandada, o bien, pronunciándose sobre los presupuestos procesales que estimare insatisfechos, de ser procedente.
+
+Si de la depuración procesal no resultare concluido el proceso, proveerá sobre la admisión y preparación de pruebas. Además, fijará día y hora para la celebración de una audiencia de juicio, la cual deberá verificarse dentro de los quince días siguientes.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Etapa probatoria
+
+###### Artículo 2.
+
+401.- La preparación de las pruebas admitidas corre a cargo de las partes.
+
+A su vez, el tribunal debe brindar al oferente todas las facilidades a fin de lograr el desahogo de los medios de prueba. En consecuencia, a través del propio auto donde se admitan éstos, dejará a disposición de la parte interesada el oficio o exhorto respectivos, para que realice los trámites necesarios y los exhiba debidamente diligenciados, a más tardar en la audiencia de juicio, con el apercibimiento de la deserción de la prueba.
+
+Asimismo, para compeler a las personas obligadas a la rendición de las pruebas el tribunal aplicará progresivamente los medios de apremio, en consecuencia, apercibirá con la imposición de multa por cincuenta veces el valor diario de la unidad de medida y actualización vigente en la región donde se lleve el juicio, a las autoridades y terceras personas vinculadas con la rendición de pruebas y que, sin causa justificada, sean omisas en cumplir los requerimientos que se les formulen.
+
+Dicha sanción se aplicará en favor del Fondo Auxiliar para la Administración de Justicia y se hará efectiva incluso sin que medie petición de parte.
+
+En el supuesto de no obtener la comparecencia de las personas que deben rendir testimonio y cuya citación haya quedado a cargo del tribunal, se ordenará su presentación con el uso de la fuerza pública, apercibiéndoles además con arresto hasta por treinta y seis horas; sin perjuicio de la sanción a la que se hubieren hecho acreedoras en términos del párrafo precedente. Tales consecuencias se deben poner en conocimiento de aquéllas desde la primera citación.
+
+La ejecución del cobro de las multas a que hace referencia este artículo correrá a cargo de la autoridad hacendaría municipal; para tales fines, mediante oficio se hará de su conocimiento el auto donde se impongan.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Objeción e Impugnación de documentos
+
+###### Artículo 2.
+
+402.- La objeción e impugnación de documentos se sujetarán a las reglas generales y serán resueltas en la sentencia definitiva.
+
+El requerimiento a las partes para que presenten físicamente alguno de los documentos anexos se hará bajo apercibimiento de tener por ciertos los hechos que se pretendan demostrar con la prueba que, en su caso, haya motivado dicho requerimiento.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Audiencia de juicio
+
+###### Artículo 2.
+
+403.- La audiencia de juicio comprenderá:
+
+I. Fase conciliatoria;
+
+II. Desahogo de pruebas;
+
+III. Formulación de alegatos, y
+
+IV. Citación para sentencia.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Fase conciliatoria
+
+###### Artículo 2.
+
+404.- El tribunal procurará conciliar a las partes, les mencionará los beneficios, así como los efectos y alcances de la transacción. Si logran avenirse, se formulará el convenio respectivo.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Desahogo de pruebas
+
+###### Artículo 2.
+
+405.- En caso de no lograrse el convenio, se procederá a desahogar los medios de prueba, de preferencia, en el orden en que fueron ofrecidos.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Formulación de alegatos
+
+###### Artículo 2.
+
+406.- Concluido el desahogo de pruebas, las partes alegarán brevemente y en forma verbal lo que a su derecho convenga; sin que sea permisible dictar los argumentos relativos.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Citación para sentencia
+
+###### Artículo 2.
+
+407.- Agotada la oportunidad para alegar, quedarán citadas las partes para oír sentencia, bastando para tal efecto su comparecencia a la audiencia, o bien, la publicación del acta relativa, ante su inasistencia.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Suspensión de audiencia
+
+###### Artículo 2.
+
+408.- Sólo porque no se encuentre debidamente preparada una prueba debido a una causa no imputable al oferente, podrá suspenderse la audiencia, para reanudarse dentro de los diez días siguientes.
+
+La continuación de la audiencia no debe ser suspendida o diferida, salvo por caso fortuito o fuerza mayor.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Sentencia
+
+###### Artículo 2.
+
+409.- El tribunal deberá dictar sentencia definitiva dentro del plazo de ocho días.
+
+Si existe causa justificada, mediante auto que la funde y motive, podrá el tribunal disponer de un plazo adicional de ocho días para resolver.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Efectos de la resolución
+
+###### Artículo 2.
+
+410.- Si son procedentes las pretensiones de la parte actora en esta vía especial, la sentencia ordenará el remate de los bienes hipotecados.
+
+De lo contrario, será condenada en costas y se dejarán a salvo sus derechos para que los ejercite en la vía y forma que corresponda.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Impugnación de la sentencia
+
+###### Artículo 2.
+
+411.- La sentencia será apelable en el efecto no suspensivo. En consecuencia, de ser condenatoria, se requiere previa fianza para proceder al remate.
+
+Se tendrá por no puesta la estipulación contractual que releve de su otorgamiento.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Efectos de la decisión de segunda instancia
+
+###### Artículo 2.
+
+412.- De revocarse por la Alzada el fallo que declaro procedente el remate, luego que vuelvan los autos al juzgado de su origen, se mandara cancelar la anotación de la cedula hipotecaria.
+
+Si no se hubiere verificado el remate, se restituirá la finca a la parte demandada, ordenando al depositario que rinda cuentas con pago, dentro del plazo de diez días. En caso contrario, se hará efectiva la caución.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Otros acreedores hipotecarios
+
+###### Artículo 2.
+
+413.- Si se presentaren más acreedores hipotecarios, se procederá conforme a las reglas establecidas en el Libro Séptimo, Segunda Parte, Titulo Único, Capitulo II, del Código Civil.
+
+Quienes tengan un crédito hipotecario anterior tendrán derecho de intervenir en el avaluó de la finca hipotecada y, en su caso, de nombrar perito.
+
+Quienes tengan un crédito hipotecario cuya existencia se desprenda del certificado del Instituto de la Función Registral, que se pida para la venta judicial, que sean titulares de gravámenes posteriores al registro de la cédula hipotecaria, no tendrán derecho de intervenir en el avalúo.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Convenio sobre avalúo del bien hipotecado
+
+###### Artículo 2.
+
+414.- El convenio sobre el avalúo no surtirá efecto alguno en el juicio hipotecario, cuando el precio se fije antes de exigirse la deuda. Cualquier convenio posterior sólo será tomado en consideración cuando no perjudique derechos de terceras personas.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Adjudicación directa
+
+###### Artículo 2.
+
+415.- Previo avalúo, rendido de conformidad con las disposiciones relativas contenidas en este capítulo, si se actualiza el supuesto previsto en el artículo 7 .1122 del Código Civil, procederá la adjudicación directa en favor del acreedor, sin más limitante que la de no perJud1car (sic) derechos de terceras personas.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2021)</small>
+
+Remate
+
+###### Artículo 2.
+
+416.- El procedimiento de remate se sujetará a las bases siguientes:
+
+I. Sin perjuicio de lo dispuesto en el artículo 2.391, fracción VII de este Código, cada parte tendrá derecho a exhibir avalúo de la finca hipotecada, dentro de los cinco días siguientes a que sea ejecutable la sentencia;
+
+II. Si alguna de las partes deja de exhibir avalúo, se entenderá su conformidad con el presentado por su contraria;
+
+III. Para el supuesto de que ninguna de las partes exhiba avalúo, dentro del plazo indicado en la fracción I de este precepto, cualquiera de ellas podrá presentarlo posteriormente; en cuya hipótesis, se considerará como base para el remate, el primero en tiempo;
+
+IV. De exhibirse oportunamente avalúas (sic) por ambas partes y resultar discordantes, se tendrá como precio del bien para fundar el remate, la cantidad derivada del promedio de ambos avalúas (sic), siempre y cuando la diferencia no exceda de treinta por ciento. Si excediere de dicho porcentaje, el tribunal ordenará se practique nuevo avalúo por un perito tercero en discordia, adscrito al Tribunal Superior de Justicia, quien contará con un plazo de cinco días para rendirlo, y
+
+V. Los avalúas (sic) tendrán una vigencia de seis meses.
 
 # LIBRO TERCERO. Procedimientos Judiciales no Contenciosos
 
 ## TITULO UNICO. Actos que por Disposición de la Ley a Solicitud de los Particulares Requieren Intervención del Juez cuando no Exista Litigio
 
-### CAPITULO II. De la Autorización para Vender, Gravar Bienes y Transigir
+### CAPITULO I. Disposiciones Comunes
 
-Derechos de Menores o Sujetos a Interdicción
-
-Autorización judicial para vender o gravar
+Disposiciones aplicables
 
 ###### Artículo 3.
 
@@ -6935,9 +7273,11 @@ Impugnación
 
 6.- Las providencias dictadas en procedimientos judiciales no contenciosos, son apelables con efecto suspensivo si el recurso lo interpone el promovente y en el efecto no suspensivo, cuando las recurra un tercero.
 
-### CAPITULO III. De la Adopción
+### CAPITULO II. De la Autorización para Vender, Gravar Bienes y Transigir
 
-Requisitos de la adopción
+Derechos de Menores o Sujetos a Interdicción
+
+Autorización judicial para vender o gravar
 
 ###### Artículo 3.
 
@@ -7009,9 +7349,9 @@ Transacción sobre derechos de menores o sujetos a interdicción
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE AGOSTO DE 2015)</small>
 
-### CAPITULO IV. De la Inmatriculación
+### CAPITULO III. De la Adopción
 
-Requisitos para la información de dominio
+Requisitos de la adopción
 
 ###### Artículo 3.
 
@@ -7041,9 +7381,9 @@ Menor de edad adoptado
 
 19.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
-### CAPITULO V. Del Apeo o Deslinde
+### CAPITULO IV. De la Inmatriculación
 
-Procedencia
+Requisitos para la información de dominio
 
 ###### Artículo 3.
 
@@ -7115,9 +7455,9 @@ Protocolización de las informaciones
 
 29.- Las resoluciones ejecutorias que declaren procedentes las informaciones se inscribirán en el Instituto de la Función Registral del Estado de México, una vez acreditado ante el Juez el pago de las contribuciones correspondientes señaladas en la legislación vigente.
 
-### CAPITULO I. Reglas Generales
+### CAPITULO V. Del Apeo o Deslinde
 
-Procedencia del concurso de acreedores
+Procedencia
 
 ###### Artículo 3.
 
@@ -7189,9 +7529,9 @@ V. El Juez mandará que se fijen las señales convenientes en los puntos deslind
 
 ## TITULO PRIMERO. Concurso
 
-### CAPITULO II. De las Funciones del Síndico
+### CAPITULO I. Reglas Generales
 
-Funciones del síndico
+Procedencia del concurso de acreedores
 
 ###### Artículo 4.
 
@@ -7319,11 +7659,9 @@ Impedimentos para ser síndico
 
 13.- El síndico tendrá los mismos impedimentos respecto del concursado y del Juez que los que tienen los tutores que administren bienes.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. De las Funciones del Síndico
 
-> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
-
-Medidas urgentes en caso de fallecimiento
+Funciones del síndico
 
 ###### Artículo 4.
 
@@ -7375,9 +7713,11 @@ V. Terminado el reconocimiento y graduación, los acreedores, por mayoría de cr
 
 ## TITULO SEGUNDO. Sucesiones
 
-### CAPITULO II. De las Testamentarias
+### CAPITULO I. Disposiciones Generales
 
-Inicio de juicio testamentario
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Medidas urgentes en caso de fallecimiento
 
 ###### Artículo 4.
 
@@ -7539,9 +7879,9 @@ Existencia de testamento en caso de intestado
 
 35.- Si durante la tramitación de un intestado se exhibe el testamento, se sobreseerá aquél, para iniciar el juicio testamentario, a no ser que se refiera a una parte de los bienes hereditarios. En este caso se acumularán los juicios y el albacea será el testamentario; la liquidación y partición serán comunes; los inventarios lo serán cuando se acumulen antes de su formación.
 
-### CAPITULO III. De los Intestados
+### CAPITULO II. De las Testamentarias
 
-Denuncia intestamentaria
+Inicio de juicio testamentario
 
 ###### Artículo 4.
 
@@ -7577,9 +7917,9 @@ Impugnación de testamento
 
 41.- Si se impugna la validez del testamento o la capacidad de algún heredero, se continuará el juicio hasta antes de la adjudicación, en tanto se dicta sentencia definitiva sobre la impugnación.
 
-### CAPITULO IV. Del Inventario y Avalúo
+### CAPITULO III. De los Intestados
 
-Plazo para el inventario
+Denuncia intestamentaria
 
 ###### Artículo 4.
 
@@ -7633,9 +7973,9 @@ Entrega de documentos
 
 49.- Al albacea se le entregarán todos los documentos inherentes a los bienes que forman la masa hereditaria, y los herederos le concederán facilidades y auxilio para el desempeño de su cargo.
 
-### CAPITULO V. De la Administración y la Rendición de Cuentas
+### CAPITULO IV. Del Inventario y Avalúo
 
-Enajenación de bienes inventariados
+Plazo para el inventario
 
 ###### Artículo 4.
 
@@ -7665,9 +8005,9 @@ Modificación de inventario y avalúo
 
 54.- Aprobado el inventario y avalúo, sólo podrá modificarse cuando aparezcan o se excluyan bienes o se declare operante la oposición.
 
-### CAPITULO VI. De la Liquidación y Partición de la Herencia
+### CAPITULO V. De la Administración y la Rendición de Cuentas
 
-Distribución provisional
+Enajenación de bienes inventariados
 
 ###### Artículo 4.
 
@@ -7735,9 +8075,9 @@ Aprobación de la cuenta
 
 64.- Aprobada la cuenta de administración, el albacea procederá a la liquidación de la herencia.
 
-### CAPITULO VII. De la Transmisión Hereditaria del Patrimonio Familiar
+### CAPITULO VI. De la Liquidación y Partición de la Herencia
 
-Adjudicación del patrimonio familiar
+Distribución provisional
 
 ###### Artículo 4.
 
@@ -7805,17 +8145,17 @@ Apelación de la adjudicación
 
 75.- La resolución que decida sobre la adjudicación es apelable con efecto suspensivo.
 
-### CAPITULO VIII. De la Tramitación por Notarios
+### CAPITULO VII. De la Transmisión Hereditaria del Patrimonio Familiar
 
-Tramitación notarial
+Adjudicación del patrimonio familiar
 
 ###### Artículo 4.
 
 76.- Exhibida el acta de defunción, acreditado el derecho de los herederos y la existencia del patrimonio familiar, el Juez dictará resolución de adjudicación.
 
-### CAPITULO IX. De la Tramitación Especial
+### CAPITULO VIII. De la Tramitación por Notarios
 
-Tramitación especial
+Tramitación notarial
 
 ###### Artículo 4.
 
@@ -7859,9 +8199,9 @@ III. El Notario redactará el instrumento en el que se relacionarán los documen
 
 IV. En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, testamento público simplificado.
 
-### CAPITULO X. Disposiciones Comunes
+### CAPITULO IX. De la Tramitación Especial
 
-Oposición al tramite especial o notarial
+Tramitación especial
 
 ###### Artículo 4.
 
@@ -7883,11 +8223,9 @@ Resolución en la tramitación especial
 
 84.- El Juez en una sola audiencia y en presencia de los interesados, examinará los documentos y resolverá haciendo la declaración de herederos, y adjudicación de los bienes.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO X. Disposiciones Comunes
 
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Reglas de las controversias
+Oposición al tramite especial o notarial
 
 ###### Artículo 4.
 
@@ -7909,11 +8247,11 @@ Formalidad de la adjudicación
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
-### CAPITULO II. Actos Procesales en General
+### CAPITULO I. Disposiciones Generales
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-Peticiones orales
+Reglas de las controversias
 
 ###### Artículo 5.
 
@@ -8037,11 +8375,11 @@ Suplencia de la queja
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
-### CAPITULO III. De la Pruebas
+### CAPITULO II. Actos Procesales en General
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-Requisitos de los medios de prueba
+Peticiones orales
 
 ###### Artículo 5.
 
@@ -8267,11 +8605,11 @@ De los juicios especiales y procedimientos no contenciosos
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
-### CAPITULO IV. De la Demanda
+### CAPITULO III. De la Pruebas
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-De la demanda, reconvención y su contestación
+Requisitos de los medios de prueba
 
 ###### Artículo 5.
 
@@ -8411,11 +8749,11 @@ Oposición al desahogo de pruebas
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
-### CAPITULO V. Audiencia Inicial
+### CAPITULO IV. De la Demanda
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-Etapas de la audiencia inicial
+De la demanda, reconvención y su contestación
 
 ###### Artículo 5.
 
@@ -8557,11 +8895,11 @@ V. Revisión de las medidas provisionales.
 
 Inasistencia de las partes
 
-### CAPITULO VI. De la Audiencia Principal
+### CAPITULO V. Audiencia Inicial
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-Desarrollo de la audiencia principal
+Etapas de la audiencia inicial
 
 ###### Artículo 5.
 
@@ -8687,9 +9025,11 @@ De la sentencia quedará constancia íntegra por escrito; una copia, se pondrá 
 
 Causas de suspensión de la audiencia
 
-### CAPITULO VII. Cambio de Vía en el Divorcio Necesario
+### CAPITULO VI. De la Audiencia Principal
 
-Solicitud de divorcio por mutuo consentimiento
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Desarrollo de la audiencia principal
 
 ###### Artículo 5.
 
@@ -8731,11 +9071,9 @@ Cuando se hayan solicitado informes de autoridades o particulares, se les requer
 
 65.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
-### CAPITULO VIII. De los Recursos
+### CAPITULO VII. Cambio de Vía en el Divorcio Necesario
 
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Revocación fuera de audiencia
+Solicitud de divorcio por mutuo consentimiento
 
 ###### Artículo 5.
 
@@ -8792,6 +9130,12 @@ Aplicación supletoria
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 De la revocación en audiencia
+
+### CAPITULO VIII. De los Recursos
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Revocación fuera de audiencia
 
 ###### Artículo 5.
 
@@ -9308,6 +9652,18 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 G.G. 5 DE ABRIL DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 254.- POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 1.119 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO, QUE DEBERÁ QUEDAR EN EL ORDEN CUARTO, PASANDO LOS ACTUALES CUARTO Y QUINTO A SER QUINTO Y SEXTO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+CUARTO. Los procedimientos judiciales y recursos que se encuentren en trámite a la entrada en vigor de este Decreto, continuarán substanciándose conforme a las disposiciones anteriores. Salvo el caso en que las partes se sometan voluntariamente a las nuevas disposiciones.
+
+G.G. 14 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 257.- POR EL QUE SE ADICIONA EL CAPÍTULO XI "DEL JUICIO HIPOTECARIO" CON LOS ARTÍCULOS 2.388 A 2.416, AL TÍTULO SEXTO "PROCEDIMIENTOS ESPECIALES", DEL LIBRO SEGUNDO "FUNCIÓN JURISDICCIONAL", DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
