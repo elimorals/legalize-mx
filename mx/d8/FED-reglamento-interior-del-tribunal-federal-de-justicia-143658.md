@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-143658"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-07-17"
-last_updated: "2021-03-04"
+last_updated: "2021-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143658&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-07-08"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ABRIL DE 2021.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 17 de julio de 2020.
 
@@ -1081,17 +1081,29 @@ l) Sala Regional del Centro IV y Auxiliar, con sede en el municipio de Silao, Gu
 
 m) Sala Auxiliar en Materia de Responsabilidades Administrativas Graves y Segunda Sala Auxiliar, con sede en la Ciudad de México.
 
+> <small>(ADICIONADO, D.O.F. 14 DE ABRIL DE 2021)</small>
+
+n) Sala Regional del Pacífico y Auxiliar, con sede en la Ciudad de Acapulco, Estado de Guerrero, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XIV, y 49, fracción XIV, de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ABRIL DE 2021)</small>
+
+ñ) Sala Regional del Pacífico-Centro y Auxiliar, con sede en la Ciudad de Morelia, Estado de Michoacán, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXI, y 49, fracción XXI, de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ABRIL DE 2021)</small>
+
+o) Sala Regional de Tlaxcala y Auxiliar, con sede en el Municipio de Apetatitlán de Antonio Carvajal, Estado de Tlaxcala, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXXVIII, y 49, fracción XXVIII, de este Reglamento.
+
 > <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2021)</small>
 
 II. Sala Regional Especializada en Materia del Juicio de Resolución Exclusiva de Fondo, conforme a lo establecido en el artículo 50, fracción VI de este Reglamento, que también será Sala Auxiliar Metropolitana, con sede en la Ciudad de México. El auxilio de esta Sala se circunscribe en la tramitación y resolución hasta su total conclusión, incluso en la instancia de aclaración de sentencia, queja y en el cumplimiento de ejecutorias del Poder Judicial de la Federación, de los asuntos radicados en la entonces Cuarta Sala Regional Metropolitana.
 
-> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 14 DE ABRIL DE 2021)</small>
 
-III. Sala Auxiliar en Materia de Responsabilidades Administrativas Graves con sede en la Ciudad de México y competencia en todo el territorio nacional para conocer y resolver los procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Sala Auxiliar en Materia de Responsabilidades Administrativas Graves; sin perjuicio de la competencia para instruir y resolver juicios contenciosos administrativos, que por turno le correspondan, en materia de responsabilidades administrativas de los servidores públicos; así como los relacionados con las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y Obras Públicas y Servicios Relacionados con las mismas; y aquellos que se determinen por la Junta de Gobierno y Administración en otras materias en su carácter de Sala Auxiliar.
+III. Sala Auxiliar en Materia de Responsabilidades Administrativas Graves con sede en la Ciudad de México y competencia en todo el territorio nacional para conocer y resolver los procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Sala Auxiliar en Materia de Responsabilidades Administrativas Graves; sin perjuicio de la competencia para instruir y resolver juicios contenciosos administrativos, que por turno le correspondan en la región metropolitana, en los que se controviertan resoluciones en: materia administrativa sobre interpretación y cumplimiento de contratos de obras públicas, adquisiciones, arrendamientos y servicios celebrados por las dependencias y entidades de la Administración Pública Federal; las que nieguen la indemnización o que por su monto, no satisfagan al reclamante y las que impongan la obligación de resarcir daños y perjuicios pagados con motivo de la reclamación, en los términos de la Ley Federal de Responsabilidad Patrimonial del Estado o de las leyes administrativas federales que contengan un régimen especial de responsabilidad patrimonial del Estado; de las resoluciones definitivas que impongan sanciones administrativas a los servidores públicos en términos de la Ley General de Responsabilidades, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento, y que se impongan sanciones administrativas a los servidores públicos en términos de la legislación aplicable, y las que decidan los recursos administrativos previstos en dichos ordenamientos. Asimismo respecto de aquellos que se determinen por la Junta de Gobierno y Administración en otras materias en su carácter de Sala Auxiliar.
 
-> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ABRIL DE 2021)</small>
 
-La Sala Auxiliar ejercerá competencia mixta para tramitar y resolver los juicios que le sean turnados de manera aleatoria por la oficialía de partes común en materia de responsabilidades administrativas de los servidores públicos, los relacionados con las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y Obras Públicas y Servicios Relacionados con las mismas; aquellos que le sean enviados para auxiliar a otras Salas; y, los procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Sala Auxiliar en Materia de Responsabilidades Administrativas Graves.
+La Sala Auxiliar ejercerá competencia mixta para tramitar y resolver los juicios contenciosos administrativos que le sean turnados de manera aleatoria por la oficialía de partes común, señalados en el párrafo anterior; aquellos que le sean enviados para auxiliar a otras Salas; y, los procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Sala Auxiliar en Materia de Responsabilidades Administrativas Graves.
 
 ###### Artículo 52.
 
@@ -3358,3 +3370,13 @@ D.O.F. 4 DE MARZO DE 2021.
 Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación; asimismo publíquese en la página web del Tribunal.
 
 Segundo. Los juicios que se encuentren en trámite en el momento de la entrada en vigor de esta reforma, en la Décima Tercera Sala Regional Metropolitana, salvo los relacionados con la materia de responsabilidades administrativas de los servidores públicos, con las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y Obras Públicas y Servicios Relacionados con las mismas, se returnarán de manera aleatoria a las otras Salas Metropolitanas, a efecto de que continúen con la instrucción de los mismos hasta su resolución definitiva. Por lo anterior se deja sin efectos el artículo Décimo Quinto transitorio del Acuerdo SS/16/2020.
+
+D.O.F. 14 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO SS/8/2021 POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA”.]
+
+Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación; asimismo publíquese en la página web del Tribunal.
+
+Segundo. Respecto de los juicios que se encontraban en la Décimo Tercera Sala Regional Metropolitana, en el momento de la entrada en vigor de esta reforma, continuará dicha Sala con su instrucción hasta su total resolución, en aquellos en que la resolución impugnada sea alguno de los siguientes actos: los relacionados con la materia administrativa sobre interpretación y cumplimiento de contratos de obras públicas, adquisiciones, arrendamientos y servicios celebrados por las dependencias y entidades de la Administración Pública Federal; los que nieguen la indemnización o que por su monto, no satisfagan al reclamante y las que impongan la obligación de resarcir daños y perjuicios pagados con motivo de la reclamación, en los términos de la Ley Federal de Responsabilidad Patrimonial del Estado o de las leyes administrativas federales que contengan un régimen especial de responsabilidad patrimonial del Estado; las resoluciones definitivas que impongan sanciones administrativas a los servidores públicos en términos de la Ley General de Responsabilidades, y las que decidan los recursos administrativos previstos en dicho ordenamiento; las resoluciones definitivas por las que se impongan sanciones administrativas a los servidores públicos en términos de la legislación aplicable y las que decidan los recursos administrativos previstos en dichos ordenamientos; los relacionados con la materia de pensiones civiles y los que en su carácter de Sala Auxiliar, en otras materias, determine la Junta de Gobierno y Administración.
+
+Los demás juicios se returnarán de manera aleatoria a las otras Salas Metropolitanas, a efecto de que continúen con la instrucción de los mismos hasta su resolución definitiva.
