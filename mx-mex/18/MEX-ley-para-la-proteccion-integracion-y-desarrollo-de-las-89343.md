@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-integracion-y-desarrollo-de-las-89343"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2020-09-29"
+last_updated: "2021-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY PARA LA PROTECCION, INTEGRACION Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE MÉXICO, PUBLICADA EN LA G.G. DE 14 DE ABRIL DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2021 (ABROGADA).
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el viernes 31 de agosto de 2012.
 
@@ -960,3 +962,23 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 14 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 258.- POR EL QUE SE EXPIDE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley para la Protección, Integración y Desarrollo de las Personas con Discapacidad en el Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno", el 31 de agosto de 2012.
+
+CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación al Instituto Mexiquense para la Protección, Integración y Desarrollo de las Personas con Discapacidad se entenderán hechas al Instituto Mexiquense para la Discapacidad.
+
+QUINTO. Los recursos humanos, materiales y financieros del Instituto Mexiquense para la Protección, Integración y Desarrollo de las Personas con Discapacidad serán transferidos a partir de la entrada en vigor del presente Decreto al Instituto Mexiquense para la Discapacidad.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el Instituto Mexiquense para la Protección, Integración y Desarrollo de las Personas con Discapacidad serán atendidos hasta su conclusión por el Instituto Mexiquense para la Discapacidad.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas al Instituto Mexiquense para la Protección, Integración y Desarrollo de las Personas con Discapacidad de conformidad con las disposiciones jurídicas aplicables.
+
+SEXTO. La Secretaría de Finanzas, de Salud y de la Contraloría proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
