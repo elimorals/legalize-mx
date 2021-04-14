@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2020-08-12"
+last_updated: "2021-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "MOR"
 ---
 # CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
-(NOTA 2: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE EL QUE EXPIDE LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE MORELOS Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS Y DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOCE DE AGOSTO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE AGOSTO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1511,13 +1509,13 @@ DELITOS CONTRA EL INDIVIDUO
 
 Al que prive de la vida a otro se le impondrán de veinte a cuarenta años de prisión y multa de mil a diez mil Unidades de Medida y Actualización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2021)</small>
 
 ###### ARTICULO 107.
 
-Al que, conociendo el parentesco, dolosamente prive de la vida a cualquiera de sus ascendientes o descendientes por consanguinidad en línea recta, parientes colaterales hasta el cuarto grado, cónyuge o concubinos, entre adoptante o adoptado, menores o incapaces, se le impondrán de veinticinco a cincuenta años de prisión y multa de mil quinientos a quince mil Unidades de Medida y Actualización.
+Al que, conociendo el parentesco, dolosamente prive de la vida a cualquiera de sus ascendientes o descendientes, parientes por consanguinidad en línea recta, colaterales hasta el cuarto grado, cónyuge o concubinos, menores o incapaces se le impondrán, salvo prueba en contrario, cuando la víctima sea una mujer, la correspondiente a feminicidio y cuando la víctima sea un hombre la correspondiente a homicidio.
 
-Cuando la madre prive de la vida a su hijo dentro de las 72 horas siguientes al nacimiento de éste, el juez podrá disminuir la sanción aplicable hasta quedar en una tercera parte de la prevista en el párrafo anterior, tomando en cuenta las circunstancias del embarazo, las condiciones personales de la madre y los móviles de su conducta, sin perjuicio de las excluyentes que pudieren concurrir.
+Cuando la madre prive de la vida a su hijo dentro de las 72 horas siguientes al nacimiento de éste, el juez podrá disminuir la sanción aplicable hasta quedar en una cuarta parte de la prevista para el homicidio simple, tomando en cuenta las circunstancias del embarazo, las condiciones personales de la madre y los móviles de su conducta, sin perjuicio de las excluyentes que pudieren concurrir.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2019)</small>
 
@@ -2283,47 +2281,75 @@ En los casos de robo se atenderá, asimismo a lo previsto en las siguientes cali
 
 A).- Se aumentarán hasta las dos terceras partes las sanciones previstas en los artículos anteriores cuando el robo se realice:
 
-I. Con violencia contra las personas, para cometer el robo, facilitarse la fuga o conservar lo robado;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+I. Con violencia física o moral contra las personas, para cometer el robo, facilitarse la fuga o conservar lo robado. Para efectos de este artículo existirá violencia moral cuando se utilicen juguetes con apariencia de armas de fuego u otros instrumentos que solo puedan ser utilizados para agredir;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE ABRIL DE 2021)</small>
 
 II. En lugar cerrado, habitado o destinado para habitación, o en sus dependencias;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE ABRIL DE 2021)</small>
+
 III. Hallándose el ofendido en un vehículo, particular o de transporte público;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE ABRIL DE 2021)</small>
 
 IV. Con aprovechamiento de la confusión resultante de una catástrofe o un desorden público;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE ABRIL DE 2021)</small>
+
 V. Por una o varias personas armadas o portando instrumentos peligrosos;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE ABRIL DE 2021)</small>
 
 VI. En contra de cualquier oficina o institución financiera en que se conservan caudales o valores, en contra de las personas que tienen aquéllos bajo su cuidado o los clientes que hayan acudido a retirarlos en las mismas o en cajeros automáticos; en las inmediaciones de éstos o inmediatamente después de su salida de los mismos;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE ABRIL DE 2021)</small>
+
 VII. En local abierto al público;
 
-VIII. (DEROGADA, P.O. 6 DE MARZO DE 2002)
+VIII. (DEROGADA, P.O. 6 DE MARZO DE 2002) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE ABRIL DE 2021)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE ABRIL DE 2021)</small>
 
 IX. Con quebranto de la confianza o seguridad derivadas de una relación de servicio, trabajo u hospitalidad;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE ABRIL DE 2021)</small>
+
 X. Respecto de equipo, instrumentos, semillas y cualesquiera otros artículos destinados al aprovechamiento agrícola, forestal o pecuario;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE ABRIL DE 2021)</small>
 
 XI. Respecto de documentos que se conserven en oficinas públicas, cuando la sustracción afecte el servicio público o cause daño a terceros. Si el delito lo comete un servidor público que labore en la dependencia donde se cometió el robo, se le aplicará, además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión por uno a cinco años.
 
-> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
-
 En estos casos no operará la fracción I del artículo 174. Cuando el valor de lo sustraído se halla en los términos de dicha fracción se estará a lo estipulado en la fracción II para determinar la pena que servirá de base para establecer el incremento que corresponde conforme a este precepto.
 
-XII. Cuando se realice sobre embarcaciones o cosas que se encuentren en ellas; y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
 
-XIII. Cuando se realice sobre equipaje o valores de viajeros en cualquier lugar durante el viaje.
+XII. Cuando se realice sobre embarcaciones o cosas que se encuentren en ellas;
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
 
-XIV. Cuando el objeto del robo sean vales de papel, o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios, se impondrán de seis meses a tres años de prisión.
+XIII. Cuando se realice sobre equipaje o valores de viajeros en cualquier lugar durante el viaje;
 
-> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
 
-B).- Cuando el robo sea cometido por dos o más sujetos, sin importar el monto de lo robado, a través de la violencia, la acechanza o cualquier otra circunstancia que impida la defensa de la víctima y el valor de lo sustraído se encuentre en los términos de la fracción IV del artículo 174, la sanción aplicable será de cinco a quince años de prisión y de cincuenta a mil días multa. También podrá aplicarse la prohibición de ir a lugar determinado o vigilancia de la autoridad, hasta por un término igual al de la sanción privativa de libertad impuesta.
+XIV. Cuando el objeto del robo sean vales de papel, o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios, se impondrán de seis meses a tres años de prisión;
 
-C).- (DEROGADO, P.O. 6 DE MARZO DE 2002)
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XV. Utilizando como medio comisivo una motocicleta, motoneta o vehículo, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+XVI. Cuando se cometa en contra de una institución educativa, cultural o científica.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE ABRIL DE 2021)</small>
+
+B). Cuando el robo sea cometido por dos o más sujetos, sin importar el monto de lo robado, a través de la violencia, la acechanza o cualquier otra circunstancia que impida la defensa de la víctima y el valor de lo sustraído se encuentre en los términos de la fracción IV del artículo 174, la sanción aplicable será de cinco a quince años de prisión y de cincuenta a mil días multa. También podrá aplicarse la prohibición de ir a lugar determinado o vigilancia de la autoridad, hasta por un término igual al de la sanción privativa de libertad impuesta.
+
+C).- (DEROGADO, P.O. 6 DE MARZO DE 2002) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE ABRIL DE 2021)
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2019)</small>
 
@@ -2843,29 +2869,33 @@ A los hermanos y a los ascendientes y descendientes consanguíneos, sin limitaci
 
 ### CAPITULO IV. FEMINICIDIO
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2021)</small>
 
-ARTICULO 213 QUINTUS (SIC).- Comete el delito de feminicidio quien, por razones de género, prive de la vida a una mujer. Existen razones de género cuando se acredite cualquiera de las siguientes hipótesis:
+ARTICULO 213 QUINTUS (SIC).- Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
 
-I. Hay o se haya dado, entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo, cualquier otra relación de hecho;
+I. La víctima presente signos de violencia sexual de cualquier tipo;
 
-II. Hay o se haya dado, entre el activo y la víctima una relación laboral, docente, o cualquier otro que implique confianza, subordinación o superioridad;
+II. A la víctima se haya infligido lesiones infamantes, degradantes o mutilaciones, previa o posterior a la privación de la vida o actos de necrofilia;
 
-III. La víctima presente signos de violencia sexual de cualquier tipo;
+III. Existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral o escolar, del sujeto activo en contra de la víctima;
 
-IV. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previa o posterior a la privación de la vida;
+IV. Haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo, cualquier otra relación de hecho, sentimental, afectiva o de confianza;
 
-V. Consten antecedentes de amenazas, acoso o lesiones del sujeto activo en contra de la víctima;
+V. Hay o se haya dado, entre el activo y la víctima una relación laboral, docente, o cualquier otro que implique confianza, subordinación o superioridad;
 
-VI. El cuerpo de la víctima sea expuesto o arrojado en un lugar público; o
+VI. Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
 
-VII. La víctima haya sido incomunicada
+VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida, y
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+VIII. El cuerpo de la víctima sea expuesto o arrojado en un lugar público.
 
-A quien cometa delito de feminicidio se le impondrá una sanción de 40 a 70 años de prisión.
+A quien cometa el delito de feminicidio se le impondrán de cuarenta a setenta años de prisión y multa de quinientos a mil veces el valor diario de la Unidad de Medida y Actualización.
 
-En el caso de la fracción I se le impondrá además de la pena, la pérdida de derechos con respecto a la víctima y ofendidos, incluidos los de carácter sucesorio.
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+En caso de que un servidor público retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, se estará a lo dispuesto en el Título Vigésimo Primero, denominado Delitos Cometidos Contra la Procuración y Administración de Justicia.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE ENERO DE 2020)</small>
 
@@ -3111,6 +3141,8 @@ Se impondrán de cuatro a nueve años de prisión y multa de mil a cinco mil dí
 
 ### CAPITULO III. PORTACION, FABRICACION, IMPORTACION Y ACOPIO DE ARMAS
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2021)</small>
+
 ###### ARTICULO 221.
 
 Al que teniendo legalmente la obligación de conducirse con verdad en un acto ante la autoridad, apercibido por ésta, se condujere con falsedad u ocultare la verdad, se le impondrán de dos a ocho años de prisión y de doscientos a trescientos sesenta días multa.
@@ -3339,9 +3371,7 @@ Se presumirá que existe asociación delictuosa cuando las mismas tres o más pe
 
 ###### ARTICULO 245.
 
-A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que sólo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales o recreativas, se le impondrá de seis meses a tres años de prisión.
-
-Para los efectos de este artículo, se entiende por acopio la reunión de tres o más instrumentos de las características referidas en el párrafo anterior.
+A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que sólo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales, recreativas o para defensa personal, se le impondrá de seis meses a tres años de prisión.
 
 ### CAPITULO VI. SEDICION
 
@@ -3361,7 +3391,7 @@ Cuando las llamadas o mensajes falsos la realicen menores de edad se sancionará
 
 (NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE SE ADICIONA ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE AGOSTO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2020)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 246.
 
@@ -5362,3 +5392,43 @@ OCTAVA. En tanto se emiten los lineamientos previstos en el artículo transitori
 NOVENA. Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
 
 DÉCIMA. Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
+
+P.O. 14 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS SESENTA Y CINCO POR EL QUE SE REFORMA EL ARTÍCULO 213 QUINTUS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 14 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO ONCE.- POR EL QUE SE REFORMA EL ARTÍCULO 176 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 14 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MIL CIENTO DOCE POR EL CUAL SE REFORMA EL ARTÍCULO 245 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para los fines que indica los artículos 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 14 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO TRECE.- POR EL QUE SE REFORMA EL ARTÍCULO 107 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones secundarias que se opongan a la presente reforma.
