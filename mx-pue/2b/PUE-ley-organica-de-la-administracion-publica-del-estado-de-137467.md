@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-137467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-31"
-last_updated: "2021-01-22"
+last_updated: "2021-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2021.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de julio de 2019.
 
@@ -841,7 +841,9 @@ IV. Trabajar de manera coordinada con las secretarías de Educación y Economía
 
 V. Promover, en coordinación con la Secretaría de Seguridad Pública, programas de capacitación e integración laboral para las personas privadas de su libertad en los centros penitenciarios en el Estado;
 
-VI. Coordinar la integración y establecimiento del Centro de Conciliación Laboral del Estado de Puebla, de la Junta Local de Conciliación y Arbitraje y del Tribunal de Arbitraje del Estado de Puebla, así como vigilar el funcionamiento de éstos y llevar, a través de dicha Junta Local, el registro de las asociaciones obreras, patronales y profesionales que funcionen en el estado, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
+VI. Coordinar la integración y establecimiento de la Junta Local de Conciliación y Arbitraje y del Tribunal de Arbitraje del Estado de Puebla, así como vigilar el funcionamiento de éstos y llevar, a través de dicha Junta Local, el registro de las asociaciones obreras, patronales y profesionales que funcionen en el estado, de conformidad con las disposiciones aplicables;
 
 VII. Integrar, coordinar y vigilar el debido funcionamiento de la Procuraduría de la Defensa del Trabajo del Estado;
 
@@ -2052,5 +2054,13 @@ P.O. 22 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XII, Y EL INCISO D) DE LA FRACCIÓN XXI DEL ARTÍCULO 44 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente al de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 36 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
