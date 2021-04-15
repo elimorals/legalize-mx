@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2020-12-29"
+last_updated: "2021-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ABRIL DE 2021 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE JALISCO EL 15 DE ABRIL DE 2021.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -3423,13 +3423,17 @@ Cuando el autor del delito tuviere derechos de tutela, patria potestad o a hered
 
 La violación del padrastro al hijastro y la ejecutada por éste a su padrastro, la del amasio al hijo de su amasia, la del tutor a su pupilo, la efectuada entre ascendientes o descendientes naturales o adoptivos o entre hermanos, la cometida entre cónyuges, concubinos o cualquier otra relación de pareja o persona con cualquier relación de parentesco, será sancionada de nueve a veinticinco años. En estos supuestos, se perderán los derechos de la patria potestad o tutela cuando la ejerciere sobre la víctima.
 
-(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 28 DE MAYO DE 2013)
+(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020) (F. DE E., P.O. 15 DE ABRIL DE 2021)
 
-Se equipara a la violación, la introducción por vía vaginal o anal con fines eróticos sexuales de cualquier objeto o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido, al responsable de este delito se le impondrá la pena señalada en el primer párrafo de este artículo.
+Se equipara a la violación, la introducción por vía vaginal o anal con fines eróticos sexuales de cualquier objeto o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido, al responsable de este delito se le impondrá las penas señaladas en este artículo.
 
-> <small>(REFORMADO [N DE E ADICIONADO], P.O. 11 DE OCTUBRE DE 2016)</small>
+(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020) (F. DE E., P.O. 15 DE ABRIL DE 2021)
 
-Las penas previstas para la violación se aumentarán hasta en una tercera parte cuando sea cometida con intervención de dos o más personas.
+Las penas previstas para la violación se aumentarán hasta en una tercera parte cuando sea cometida con intervención de dos o más personas, o quien lo cometa se valiese de alguna situación de mando, poder, función pública o autoridad que tuviere (sic) desempeñe un cargo o empleo público, utilizando los medios o circunstancia que ellos le proporcionen, a quien además de la pena de prisión el condenado será destituido del cargo o empleo.
+
+(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020) (F. DE E., P.O. 15 DE ABRIL DE 2021)
+
+Si como consecuencia de la violación naciera una persona, el juez podrá decretar como parte de la reparación del daño, una indemnización equivalente a la obligación de dar alimentos a éste y la madre, hasta la mayoría de edad del menor.
 
 ###### Art. 176.
 
@@ -7057,7 +7061,11 @@ P.O. 19 DE SEPTIEMBRE DE 2020.
 
 P.O. 7 DE NOVIEMBRE DE 2020.
 
-> <small>[N. DE E. EL “DECRETO 27991/LXII/20 QUE REFORMA LOS ARTÍCULOS 142-A, 142-M, 142-Ñ Y 175 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE JALISCO.]</small>
+## [N. DE E. TRANSITORIO DEL “DECRETO 27991/LXII/20 QUE REFORMA LOS ARTÍCULOS 142-A, 142-M, 142-Ñ Y 175 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+> <small>(F. DE E., P.O. 15 DE ABRIL DE 2021)</small>
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco ".
 
 P.O. 7 DE NOVIEMBRE DE 2020.
 
