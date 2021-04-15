@@ -4,7 +4,7 @@ identifier: "ROO-ley-estatal-de-cultura-fisica-y-deporte-60594"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-11"
-last_updated: "2020-11-04"
+last_updated: "2021-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ESTATAL DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2023.
 
 Ley publicada en el Número 19 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 11 de marzo de 2008.
 
@@ -103,17 +103,23 @@ XI. Procurar que los deportistas con algún tipo de discapacidad no sean objeto 
 
 El ejercicio y desarrollo del derecho a la cultura física y el deporte tienen como base los siguientes principios:
 
-I. La cultura física y la práctica del deporte son un derecho fundamental para todos;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+I. La cultura física y la práctica del deporte son un derecho fundamental para todos, con principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
 
 II. La cultura física y la práctica del deporte constituyen un elemento esencial de la educación;
 
 III. El derecho a la cultura física y al deporte constituye un estímulo para el desarrollo afectivo, físico, intelectual y social de todos, además de ser un factor de equilibrio y autorrealización;
 
-IV. Los programas en materia de cultura física y deporte deben responder a las necesidades individuales y sociales, existiendo una responsabilidad pública en el fomento cualitativo y cuantitativo de la cultura física y el deporte;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+IV. Los programas en materia de cultura física y deporte deben responder a las necesidades individuales y sociales, con principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres, existiendo una responsabilidad pública en el fomento cualitativo y cuantitativo de la cultura física y el deporte;
 
 V. La enseñanza, capacitación, gestión, administración y desarrollo de la cultura física y el deporte deben confiarse a un personal calificado;
 
-VI. Para el desarrollo de la cultura física y la práctica del deporte es indispensable una infraestructura adecuada y la generación de sistemas de financiamiento y administración eficientes y estables, que permitan desarrollar políticas y programas que contribuyan al objetivo común de hacer de la cultura física y el deporte un derecho de todos;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+VI. Para el desarrollo de la cultura física y la práctica del deporte es indispensable una infraestructura adecuada y la generación de sistemas de financiamiento y administración eficientes y estables, que permitan desarrollar políticas y programas que contribuyan al objetivo común de hacer de la cultura física y el deporte un derecho de todos, con principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
 
 VII. La investigación, información y documentación son elementos indispensables para el desarrollo de la cultura física y el deporte;
 
@@ -121,13 +127,19 @@ VIII. Las instituciones deportivas públicas y privadas del Estado deben colabor
 
 IX. La distinción entre las diversas manifestaciones o modalidades del deporte resulta necesaria para el óptimo, equitativo y ordenado desarrollo de los sistemas deportivos del Estado;
 
-X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
 
-XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte;
+X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas, con principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, con principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres, así como asegurarse y defenderse el desarrollo sostenible del deporte;
 
 XII. La existencia de una adecuada cooperación a nivel nacional, estatal y municipal es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte, y
 
-XIII. Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+XIII. Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones, con principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -169,7 +181,9 @@ I. Activación Física: Ejercicio o movimiento del cuerpo humano que se realiza 
 
 II. Actividad Física: Actos motores propios del ser humano, realizados como parte de sus actividades cotidianas;
 
-III. Cultura Física: Conjunto de bienes (conocimientos, ideas, valores y elementos materiales), que el hombre ha producido con relación al movimiento y uso de su cuerpo;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+III. Cultura Física: Conjunto de bienes (conocimientos, ideas, valores y elementos materiales), que las personas han producido con relación al movimiento y uso de su cuerpo;
 
 IV. Deporte: Actividad institucionalizada y reglamentada, desarrollada en competiciones y que tiene por objeto lograr un máximo rendimiento;
 
@@ -225,13 +239,17 @@ XIV. Rehabilitación Física: Actividades para restablecer a una persona sus cap
 
 El Estado y los municipios, en sus respectivas jurisdicciones, promoverán las acciones necesarias para fomentar la cultura física y el deporte, de conformidad con las bases de coordinación previstas en esta Ley, su Reglamento y demás ordenamientos legales aplicables.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2023)</small>
+
+El Estado y los municipios serán los responsables de velar porque los principios de igualdad y paridad de género guíen todas las actividades del Sistema Estatal de Cultura Física y Deporte, y que en su desempeño aplicarán la perspectiva de género.
+
 ###### Artículo 6.
 
 El Sistema Estatal de Cultura Física y Deporte, es el medio por el cual se llevarán a cabo los procedimientos y actividades que permitan y faciliten la realización del conjunto de acciones, recursos y procedimientos destinados a impulsar, fomentar y desarrollar la cultura física y el deporte en Quintana Roo.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2023)</small>
 
-Se encargará de una mayor eficacia, promoción, fomento y estímulo de la cultura física y de la práctica del deporte en todas sus manifestaciones quien tendrá como objeto asesorar en la elaboración del Programa Estatal de Cultura Física y Deporte, coordinar, dar seguimiento permanente y evaluar los programas, acciones y procedimientos que formen parte de la ejecución de las políticas públicas para promover, fomentar y estimular la cultura física y la práctica del deporte, tomando en consideración el desarrollo de la estructura e infraestructura deportiva y de los recursos humanos y financieros vinculados a la cultura física y al deporte en el Estado.
+Se encargará de una mayor eficacia, promoción, fomento y estímulo de la cultura física y de la práctica del deporte en todas sus manifestaciones, con principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres, quien tendrá como objeto asesorar y garantizar la incorporación de los principios de igualdad, paridad de género y perspectiva de género en la elaboración del Programa Estatal de Cultura Física y Deporte, coordinar, dar seguimiento permanente y evaluar los programas, acciones y procedimientos que formen parte de la ejecución de las políticas públicas para promover, fomentar y estimular la cultura física y la práctica del deporte, tomando en consideración el desarrollo de la estructura e infraestructura deportiva y de los recursos humanos y financieros vinculados a la cultura física y al deporte en el Estado.
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
 
@@ -291,13 +309,19 @@ I. Ejecutar las políticas para fomentar, promover, y estimular el desarrollo de
 
 II. Establecer los mecanismos para la planeación, supervisión, ejecución y evaluación de los programas, organismos, procesos, actividades y recursos de los integrantes del SIEDE;
 
-III. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la cultura física y deporte;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+III. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la cultura física y deporte, incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
 
 IV. Promover mecanismos de integración institucional y sectorial para fomentar, promover y estimular el desarrollo de la cultura física y deporte;
 
 V. Formular el programa estatal de cultura física y deporte y llevar a efecto las acciones de coordinación que del mismo deriven; y,
 
 VI. Las demás que le otorgue esta ley u otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2023)</small>
+
+En las acciones antes mencionadas, se deberá garantizar que se realicen bajo los principios de igualdad, paridad de género y perspectiva de género.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2019)</small>
 
@@ -331,7 +355,13 @@ El Organismo Rector de la Cultura Física y el Deporte en el Estado, coordinará
 
 El Organismo Rector de la Cultura Física y el Deporte en el Estado, tiene las siguientes atribuciones:
 
-I. Proponer, dirigir, ejecutar, evaluar y vigilar la política estatal de cultura física, así como del deporte en todas sus manifestaciones.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE ABRIL DE 2023)</small>
+
+I. Proponer, dirigir, ejecutar, evaluar y vigilar la política estatal de cultura física, así como del deporte en todas sus manifestaciones, incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2023)</small>
+
+Garantizar la aplicación de los principios de igualdad, paridad de género y perspectiva de género en la política estatal de cultura física, así como del deporte en todas sus manifestaciones.
 
 Para efectos de esta fracción se entenderán como manifestaciones del deporte, el deporte social y el deporte de rendimiento;
 
@@ -341,23 +371,31 @@ III. Integrar en coordinación con la SEQ, el Programa Estatal de Cultura Físic
 
 IV. Convocar al SIEDE, con la participación que corresponda al sector público y a los sectores social y privado;
 
-V. Diseñar y establecer estrategias y prioridades en materia de cultura física y deporte en el marco del SIEDE;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+V. Diseñar y establecer estrategias y prioridades en materia de cultura física y deporte en el marco del SIEDE, incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres.
 
 VI. Coordinar acciones con las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal y el sector social y privado, en lo relativo a la investigación en ciencias y técnicas en materia de cultura física y deporte;
 
 VII. Promover el desarrollo de los programas de formación, capacitación, actualización y los métodos de certificación en materia de cultura física y deporte, promoviendo y apoyando la inducción de la cultura física y el deporte en los planes y programas educativos;
 
-VIII. Promover en coordinación con la CONADE la capacitación y certificación de directivos, deportistas, entrenadores, jueces, árbitros y técnicos;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+VIII. Promover en coordinación con la CONADE la capacitación y certificación de directivos, deportistas, entrenadores, jueces, árbitros y técnicos, incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
 
 IX. Promover, fomentar y gestionar ante las instancias correspondientes en el ambito estatal, el otorgamiento de estímulos fiscales a los sectores social y privado derivado de las acciones que estos sectores desarrollen a favor de la cultura física y el deporte;
 
 X. Fomentar y promover la construcción, conservación, adecuación, uso y mejoramiento de instalaciones destinadas a la cultura física y deporte de cada uno de los municipios de la entidad;
 
-XI. Formular, conducir y evaluar la política de cultura física y deporte estatal;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+XI. Formular, conducir y evaluar la política de cultura física y deporte estatal, garantizando la aplicación de los principios de igualdad, paridad de género y perspectiva de género;
 
 XII. Diseñar y aplicar los instrumentos y programas de política para la cultura física y deporte estatal, en concordancia y sin contravenir la Política Nacional de Cultura Física y Deporte, vinculándolos con los programas nacional, estatales, regionales, municipales y delegaciones, así como su respectivo Plan Estatal de Desarrollo;
 
-XIII. Diseñar, aplicar y evaluar el Programa Estatal de Cultura Física y Deporte;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+XIII. Diseñar, aplicar y evaluar el Programa Estatal de Cultura Física y Deporte incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
 
 XIV. Celebrar convenios o acuerdos de coordinación y colaboración con la CONADE y con los Municipios, en materia de cultura física y deporte;
 
@@ -367,9 +405,13 @@ XVI. Establecer, operar y mantener actualizado el Registro Estatal de Cultura F�
 
 XVII. Promover la participación de los sectores social y privado para el desarrollo de la activación física, la cultura física y el deporte;
 
-XVIII. Supervisar que las Asociaciones Deportivas Estatales y Organismos Afines realicen sus actividades conforme a sus respectivos estatutos, reglamentos y demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
 
-XIX. Verificar y asegurar que los estatutos, reglamentos y demás reglamentos deportivos que expidan las Asociaciones Deportivas Estatales y, en su caso, los Organismos Afines, contengan con toda claridad, entre otros aspectos, los derechos y obligaciones de sus miembros asociados, deportistas y órganos de gobierno y representación, así como los procedimientos disciplinarios y sanciones aplicables;
+XVIII. Supervisar que las Asociaciones Deportivas Estatales y Organismos Afines realicen sus actividades conforme a sus respectivos estatutos, reglamentos y demás ordenamientos aplicables, incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+XIX. Verificar y asegurar que los estatutos, reglamentos y demás reglamentos deportivos que expidan las Asociaciones Deportivas Estatales y, en su caso, los Organismos Afines, contengan con toda claridad, entre otros aspectos, los derechos y obligaciones de sus miembros asociados, deportistas y órganos de gobierno y representación, así como los procedimientos disciplinarios y sanciones aplicables, incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
 
 XX. Emitir opinión en la formulación de los programas deportivos de las Asociaciones Deportivas Estatales;
 
@@ -391,9 +433,15 @@ XXVIII. Celebrar todos aquellos contratos y convenios que le permitan cumplir co
 
 XXIX. Promoverá los mecanismos de concertación y firmas de convenio con las instituciones públicas y privadas que integran el sector salud con la finalidad de promover programas de atención y servicio médico para todo deportista que lo requiera;
 
-XXX. Informará a quien lo solicite y establecerá trasparentemente lo consistente a los estímulos otorgados a los deportistas, y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
 
-XXXI. Las demás que esta Ley u otras disposiciones legales o reglamentarias determinen.
+XXX. informará a quien lo solicite y establecerá transparentemente lo consistente a los estímulos otorgados a los deportistas;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+XXXI. Promover el deporte femenino, favoreciendo la efectiva apertura de las disciplinas deportivas a las mujeres y niñas, mediante el desarrollo de programas específicos en todas las etapas de la vida y en todos los niveles, incluidos los de responsabilidad y decisión, y,
+
+XXXII. Las demás que esta Ley u otras disposiciones legales o reglamentarias determinen.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -455,11 +503,15 @@ Los Sistemas Municipales coordinarán sus actividades para aplicar las política
 
 Los Municipios mediante sus unidades administrativas de cultura física y deporte, en el ámbito de sus respectivas competencias y de conformidad con lo dispuesto en la Ley General de Cultura Física y Deporte y la presente Ley, tendrán las siguientes atribuciones:
 
-I. Proponer, coordinar y evaluar la política de cultura física y deporte municipal;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+I. Proponer, coordinar y evaluar la política de cultura física y deporte municipal, incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
 
 II. Diseñar y aplicar los instrumentos y programas estatales y municipales en cultura física y deporte, acorde con los programas nacionales, estatales y regionales;
 
-III. Diseñar, aplicar y evaluar el programa municipal de cultura física y deporte;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+III. Diseñar, aplicar y evaluar el programa municipal de cultura física y deporte, garantizando la aplicación de los principios de igualdad, paridad de género y perspectiva de género;
 
 IV. Coordinarse con la CONADE, los Estados y con los Municipios para la promoción, fomento y desarrollo de la cultura física y deporte;
 
@@ -479,9 +531,13 @@ La Administración Pública Estatal a través del Organismo Rector de la Cultura
 
 Las autoridades deportivas competentes del Estado y los Municipios se coordinarán entre sí o con instituciones del sector social y privado para:
 
-I. Establecer en sus respectivos ámbitos de competencia los Sistemas Estatal y Municipales de Cultura Física y Deporte;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
 
-II. Promover la iniciación deportiva y garantizar el acceso a la práctica de las actividades de cultura físico deportiva, recreativo deportivas, el deporte en los procesos de rehabilitación física en general y en todas sus manifestaciones y expresiones;
+I. Establecer en sus respectivos ámbitos de competencia los Sistemas Estatal y Municipales de Cultura Física y Deporte, incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+II. Promover la iniciación deportiva y garantizar el acceso a la práctica de las actividades de cultura físico deportiva, recreativo deportivas, el deporte en los procesos de rehabilitación física en general y en todas sus manifestaciones y expresiones, incorporando principios de igualdad de trato, oportunidades y paridad entre hombres y mujeres;
 
 III. Ejecutar y dar seguimiento al Programa Estatal de Cultura Física y Deporte;
 
@@ -943,7 +999,9 @@ VIII. Ejercer su derecho de voto en el seno de su asociación u organización a 
 
 IX. Desempeñar cargos directivos, siempre y cuando haya sido elegido en asamblea de clubes, ligas, consejos deportivos, asociaciones y federaciones deportivas;
 
-X. Recibir, en los términos y condiciones de la normatividad aplicable, toda clase de estímulos, premios, reconocimientos y recompensas en dinero o especie;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+X. Recibir, de manera igualitaria tanto hombres y mujeres, en los términos y condiciones de la normatividad aplicable, toda clase de estímulos, premios, reconocimientos y recompensas en dinero o especie;
 
 XI. Manifestar las necesidades que considere dentro del ámbito deportivo que se desempeñe, mediante diálogos y el ejercicio del derecho de expresión;
 
@@ -1400,3 +1458,9 @@ P.O. 4 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 052 POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO Y LA FRACCIÓN IV DEL ARTÍCULO 2 DE LA LEY ESTATAL DE CULTURA FÍSICA Y DEPORTE”.]
 
 ÚNICO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 15 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 105 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DE CULTURA FÍSICA Y DEPORTE”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
