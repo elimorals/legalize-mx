@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2021-03-18"
+last_updated: "2021-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2000.
 
@@ -443,6 +443,28 @@ IV. Las demás que establezca esta Ley y su Reglamento.
 
 Los integrantes del Sistema deberán reunirse en sesión ordinaria cuando menos una vez al año conforme a calendarización que al efecto aprueben, y en sesión extraordinaria, cada vez que para ello sean convocados por su Presidente o por una tercera parte de sus integrantes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 15 DE ABRIL DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del Sistema en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes del Sistema;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Se debe garantizar la conexión permanente de todos los miembros del Sistema, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2021)</small>
+
+En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia, la redacción y la formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2021)</small>
+
+En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 15.
@@ -646,6 +668,28 @@ XIII. Las demás que establezcan los ordenamientos jurídicos aplicables.
 ###### Artículo 22.
 
 El Consejo sesionará en forma ordinaria y extraordinaria. Celebrará tres sesiones ordinarias en el año y las extraordinarias que sean necesarias, previa convocatoria de su Presidente o de una tercera parte de sus integrantes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 15 DE ABRIL DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del Consejo en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes del Consejo;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Se debe garantizar la conexión permanente de todos los miembros del Consejo, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes; y
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2021)</small>
+
+En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia, la redacción y la formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2021)</small>
+
+En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, [N. DE E. REPUBLICADO], P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -965,6 +1009,12 @@ IV. Un representante de la institución fiduciaria.
 
 El Comité Técnico sesionará una vez al mes, a efecto de vigilar adecuadamente que se esté cumpliendo con sus objetivos, así como para integrar estrategias para incrementar el monto del mismo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SU FRACCIÓN], P.O. 15 DE ABRIL DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del Comité Técnico en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes del Comité Técnico;
+
 Cada mes el Comité Técnico deberá informar a los fideicomisarios sobre la situación financiera en lo que corresponde a su seguridad social.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
@@ -1236,3 +1286,9 @@ P.O. 18 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28321/LXII/21 DEL CONGRESO DEL ESTADO QUE REFORMA LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 6 Y XIV Y XV DEL ARTÍCULO 7 DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 15 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28335/LXII/21 DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 14, 22 Y 46 DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO”.]
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
