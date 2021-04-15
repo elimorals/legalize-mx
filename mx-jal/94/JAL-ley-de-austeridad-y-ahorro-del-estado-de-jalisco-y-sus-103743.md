@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-austeridad-y-ahorro-del-estado-de-jalisco-y-sus-103743"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-22"
-last_updated: "2019-04-16"
+last_updated: "2021-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2021.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Jalisco, el sábado 22 de noviembre de 2014.
 
@@ -169,9 +169,11 @@ Las adquisiciones de equipos de cómputo y comunicación se realizarán con base
 
 El uso de los servicios de telefonía, tanto fija como móvil, se regulará mediante el establecimiento de un tabulador de cuotas que fije topes en función de las atribuciones, necesidades y responsabilidades de los servidores públicos, o elementos operativos.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2021)</small>
+
 ###### Artículo 24.
 
-Los sujetos públicos deberán implementar programas tecnológicos para el trámite electrónico de las comunicaciones internas y memorándums, con el objetivo de economizar los recursos y proteger el medio ambiente.
+Los sujetos públicos deberán implementar programas tecnológicos para el desarrollo de trámites, actos y relaciones con los particulares, así como, en las comunicaciones internas, con el objetivo de economizar los recursos y proteger el medio ambiente.
 
 ###### Artículo 25.
 
@@ -338,3 +340,9 @@ P.O. 14 DE JULIO DE 2018.
 P.O. 16 DE ABRIL DE 2019.
 
 > <small>[N. DE E. EL “DECRETO 27251/LXII/19 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+P.O. 15 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28370/LXII/21 QUE MODIFICA EL ARTÍCULO 24 DE LA LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
