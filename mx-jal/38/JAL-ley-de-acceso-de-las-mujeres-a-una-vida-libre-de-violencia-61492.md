@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2021-04-13"
+last_updated: "2021-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2021.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -305,9 +305,11 @@ IX. En todos aquellos ámbitos o modalidades en que una persona física o juríd
 
 El Gobernador a través de la Secretaría General de Gobierno, a petición de la Secretaría Ejecutiva del Sistema, emitirá la alerta de violencia contra las mujeres como medida para erradicar la violencia feminicida, a partir de la detección de delitos graves y sistemáticos en contra de mujeres o cuando organismos de derechos humanos a nivel local, nacional o internacional, presuman una inadecuada investigación o sanción a estos delitos.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2021)</small>
+
 ###### Artículo 13.
 
-La alerta de violencia contra las mujeres tendrá como objetivo establecer el tipo de medidas de emergencia contempladas en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia o las que sean necesarias para garantizar la seguridad de las mujeres y el cese de la violencia en su contra, así como el de asignar los recursos presupuestales para implementarlas.
+La alerta de violencia contra las mujeres tendrá como objetivo establecer el tipo de medidas de emergencia contempladas en el Capítulo V, del Título II, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia o las que sean necesarias para garantizar la seguridad de las mujeres, el cese de la violencia en su contra y eliminar las desigualdades producidas por la legislación, las normas o conjunto de prácticas sociales que agravian sus derechos humanos; así como el de asignar los recursos presupuestales para implementarlas.
 
 ## TÍTULO SEGUNDO. DEL SISTEMA Y DEL PROGRAMA PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES DEL ESTADO DE JALISCO
 
@@ -1878,5 +1880,11 @@ P.O. 3 DE OCTUBRE DE 2020.
 P.O. 13 DE ABRIL DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28333/LXII/21 QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 25 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 49 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 15 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28369/LXII/21 QUE REFORMA EL ARTÍCULO 13 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
