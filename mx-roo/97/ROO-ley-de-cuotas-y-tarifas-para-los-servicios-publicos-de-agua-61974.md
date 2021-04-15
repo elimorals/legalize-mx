@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-cuotas-y-tarifas-para-los-servicios-publicos-de-agua-619
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-02"
-last_updated: "2013-12-10"
+last_updated: "2021-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 LEY DE CUOTAS Y TARIFAS PARA LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO, TRATAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 10 DE DICIEMBRE DE 2013 NO APLICA AL ARTICULADO DEL DECRETO 064 PUBLICADO EN EL P.O. DE 9 DE DICIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2021.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 2 de julio de 2008.
 
@@ -217,11 +215,11 @@ El pago de las cuotas y tarifas a que se refiere esta Ley, es independiente del 
 
 La prestación y administración de los servicios públicos previstos en la presente Ley, son de orden público e interés social, por lo que todas las instituciones de servicios y las dependencias y entidades públicas federales, estatales y municipales, proporcionarán a los prestadores de servicios, según corresponda, la información y la colaboración que resulten necesarias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2021)</small>
 
 ###### Artículo 7.
 
-El monto de las cuotas y tarifas que se establecen en este ordenamiento, se actualizarán mensualmente en la misma proporción en que lo haga el índice nacional de precios al consumidor que publique el Instituto Nacional de Estadística y Geografía en el Diario Oficial de la Federación, dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior, al más reciente del período entre el citado índice correspondiente al mes anterior, al más antiguo de dicho período, salvo las relacionadas con el uso doméstico para las cuales se considerarán los incrementos al salario mínimo vigente en el Estado.
+El monto de las cuotas y tarifas que se establecen en este ordenamiento, se actualizarán mensualmente en la misma proporción en que lo haga el índice nacional de precios al consumidor que publique el Instituto Nacional de Estadística y Geografía en el Diario Oficial de la Federación, dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior, al más reciente del periodo entre el citado índice correspondiente al mes anterior, al más antiguo de dicho periodo, salvo las relacionadas con el uso doméstico para las cuales se considerará exclusivamente el incremento anual a la Unidad de Medida de Actualización vigente.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
 
@@ -381,7 +379,9 @@ Los usuarios de los servicios previstos en esta Ley tendrán los siguientes dere
 
 I. Ser tratados con respeto y atención por el prestador de servicios;
 
-II. Recibir los servicios públicos de agua potable y alcantarillado por parte del prestador de los servicios de que se trate;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2021)</small>
+
+II. Recibir los servicios públicos de agua potable y alcantarillado de forma suficiente, salubre, aceptable y asequible; con regularidad, continuidad, calidad y cobertura, por parte del prestador de los servicios de que se trate;
 
 III. Que se les proporcionen las medidas necesarias para una mejor verificación de sus consumos de agua, dentro del programa permanente de cobertura de instalación de aparatos medidores, a su costa y dependiendo de las tomas;
 
@@ -397,9 +397,21 @@ VIII. Formar las asociaciones y comités de colonos y ciudadanos que tengan por 
 
 IX. Los demás que le otorgue la Ley de Agua Potable y Alcantarillado y esta Ley.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2021)</small>
+
 ###### Artículo 33.
 
-Atendiendo al principio de equidad, el prestador de servicios podrá realizar hasta un 30% de descuento a las cuotas que deban cubrir respecto de la casa que habitan las personas mayores de 60 años de edad, cuando estos sean titulares del contrato respectivo, para lo cual deberán presentar el acta de nacimiento respectiva. Asimismo los beneficiarios del descuento deberán encontrarse en precaria condición económica, conforme al análisis que de dicha condición efectúe el comité que se instale para tal efecto.
+Atendiendo al principio de proporcionalidad y equidad, el prestador de servicios otorgará un 50% de descuento a las cuotas que deban cubrirse respecto del inmueble que corresponda al domicilio de la casa habitación de las personas mayores de 60 años de edad y de quienes, en términos de la Ley para el Desarrollo y la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo, sean personas con discapacidad.
+
+Para acceder al descuento señalado en este artículo, la persona adulta mayor de 60 años o la persona con discapacidad, deberán:
+
+I. Ser propietarios del inmueble o, de ocuparlo mediante algún contrato que les otorgue el uso del mismo, ser los titulares legales de dicho contrato.
+
+II. No poseer más de un inmueble.
+
+III. Efectivamente vivir en el inmueble respecto del que se hará el descuento.
+
+IV. El inmueble no deberá contar con infraestructura que pueda utilizarse para uso recreativo u ornato que utilicen agua, como albercas, chapoteaderos, estanques, fuentes o instalaciones similares, ni tener algún uso comercial.
 
 ### CAPÍTULO CUARTO. TARIFAS POR APORTACIÓN PARA OBRAS DE CABECERA
 
@@ -847,11 +859,11 @@ III. Por la emisión de una constancia para el transporte de agua potable en car
 
 IV. Por cualesquiera otros servicios solicitados por el usuario, diversos a los anteriores, el importe que resulte del presupuesto respectivo, atendiendo a su requerimiento.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2021)</small>
+
 ###### Artículo 55.
 
-Los prestadores del servicio podrán inspeccionar la calidad del agua residual descargada.
-
-Si algún parámetro excediera el valor máximo permitido de acuerdo a las normas correspondientes, se cobrará al usuario una multa de 100 a 1000 veces el salario mínimo regional y se le concederá un plazo máximo de 2 meses para regularizar su descarga, de lo contrario se cancelará su servicio. Lo anterior con independencia de dar vista a las autoridades Municipales, Estatales o Federales competentes.
+Los prestadores del servicio podrán inspeccionar la calidad del agua residual descargada. Si algún parámetro excediera el valor máximo permitido de acuerdo a las normas correspondientes, se cobrará al usuario una multa de 156.5 a 1563 veces el valor diario de la Unidad de Medida y Actualización vigente y se le concederá un plazo máximo de 2 meses para regularizar su descarga, de lo contrario se cancelará su servicio. Lo anterior con independencia de dar vista a las autoridades Municipales, Estatales o Federales competentes.
 
 T R A N S I T O R I O S:
 
@@ -924,3 +936,9 @@ P.O. 9 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE ABRIL DE 2021.
+
+PRIMERO. El presente decreto entrará en vigor el primero de enero del año dos mil veintidós, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
