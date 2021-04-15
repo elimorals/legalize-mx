@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-2019-del-pleno-de-la-suprema-139401"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-12-09"
-last_updated: "2019-12-09"
+last_updated: "2021-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139401&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-11-28"
 ---
 # ACUERDO GENERAL NUMERO 16/2019 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE REGULA LA PUBLICACION Y DIFUSION DEL SEMANARIO JUDICIAL DE LA FEDERACION]
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 1/2021, DE OCHO DE ABRIL DE DOS MIL VEINTIUNO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DETERMINA EL INICIO DE LA UNDÉCIMA ÉPOCA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN, Y SE ESTABLECEN SUS BASES, PUBLICADO EN EL D.O.F. DE 15 DE ABRIL DE 2021; ÉSTE ÚLTIMO ORDENAMIENTO ENTRA EN VIGOR EL PRIMERO DE MAYO DE DOS MIL VEINTIUNO.]</small>
+
 ACUERDO GENERAL NÚMERO 16/2019, DE VEINTIOCHO DE NOVIEMBRE DE DOS MIL DIECINUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA PUBLICACIÓN Y DIFUSIÓN DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2021 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 9 de diciembre de 2019.
 
@@ -294,3 +296,21 @@ CUARTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Feder
 El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Arturo Zaldívar Lelo de Larrea.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica.
 
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NÚMERO 16/2019, DE VEINTIOCHO DE NOVIEMBRE DE DOS MIL DIECINUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA PUBLICACIÓN Y DIFUSIÓN DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de diez votos de los señores Ministros Alfredo Gutiérrez Ortiz Mena, Juan Luis González Alcántara Carrancá, Yasmín Esquivel Mossa, José Fernando Franco González Salas, Luis María Aguilar Morales, Jorge Mario Pardo Rebolledo, Norma Lucía Piña Hernández, Javier Laynez Potisek, Alberto Pérez Dayán y Presidente Arturo Zaldívar Lelo de Larrea.- Ciudad de México, a veintiocho de noviembre de dos mil diecinueve.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO 1/2021, DE OCHO DE ABRIL DE DOS MIL VEINTIUNO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DETERMINA EL INICIO DE LA UNDÉCIMA ÉPOCA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN, Y SE ESTABLECEN SUS BASES”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor el primero de mayo de dos mil veintiuno.
+
+SEGUNDO. Se abroga el Acuerdo General número 16/2019, de veintiocho de noviembre de dos mil diecinueve, así como todas las disposiciones emitidas con anterioridad que se opongan a lo establecido en este Acuerdo General.
+
+TERCERO. La jurisprudencia por sustitución que emitan el Pleno o las Salas de la Suprema Corte de Justicia de la Nación o los Plenos de Circuito a partir de la entrada en vigor del presente Acuerdo General y hasta el inicio de vigencia de las leyes secundarias referidas en el artículo Segundo Transitorio de la reforma constitucional publicada el once de marzo de dos mil veintiuno en el Diario Oficial de la Federación, se publicará en la subsección especial que para tal efecto se establezca.
+
+CUARTO. A efecto de contar con una reserva histórica en términos del artículo 6, fracción XVIII, de la Ley General de Bienes Nacionales, se elaborarán mensualmente tres ejemplares impresos de la Gaceta del Semanario Judicial de la Federación que se resguardarán de la siguiente forma: un ejemplar por el Archivo General de la Nación, un ejemplar por el Centro de Documentación y Análisis, Archivos y Compilación de Leyes y un ejemplar por la Dirección General de la Coordinación de Compilación y Sistematización de Tesis.
+
+QUINTO. En tanto entran en funciones los Plenos Regionales del Poder Judicial de la Federación, atendiendo a lo previsto en los artículos transitorios Segundo, Tercero y Quinto del Decreto mencionado en el Considerando Primero de este Acuerdo General, la jurisprudencia emitida por aquéllos a la que se refiere en este instrumento normativo será la fijada por los Plenos de Circuito.
+
+SEXTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación; en el Semanario Judicial de la Federación y, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública.
