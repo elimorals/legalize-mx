@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2021-03-31"
+last_updated: "2021-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -3923,6 +3923,10 @@ No se procederá contra el agente, sino después de que se dicte resolución irr
 
 Son aplicables para este delito, en lo conducente, los artículos 197, 198, 199 y 200 de este Código.
 
+### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTICULO 336.
 
 Al que indebidamente ponga en libertad o favorezca la evasión de una persona que se encuentre legalmente privada de aquélla, se le impondrá prisión de cinco a doce años. Si los evadidos fueren dos o más, se duplicará la sanción.
@@ -4287,6 +4291,10 @@ Para efectos del presente Capítulo, se entenderá por actos de maltrato o cruel
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2020)</small>
 
+## TÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTICULO 365.
 
 Al que sin contar con las autorizaciones respectivas o violando las normas de seguridad y operación aplicables, realice, autorice u ordene la realización de actividades que conforme a ese mismo ordenamiento se consideren como riesgosas, que no sean competencia de la Federación, y que ocasionen daños a la salud de las personas, la flora, la fauna o los ecosistemas, se aplicará pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil veces el valor diario de la Unidad de Medida y Actualización.
@@ -4374,6 +4382,34 @@ Tratándose de los delitos previstos en este capítulo, el trabajo a favor de la
 ###### ARTICULO 375.
 
 Los delitos previstos en este Capítulo se perseguirán de oficio.
+
+> <small>(ADICIONADA CON EL TÍTULO, CAPÍTULO Y ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE ABRIL DE 2021)</small>
+
+#### SECCIÓN SÉPTIMA. DELITOS CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ABRIL DE 2021)</small>
+
+###### ARTÍCULO 376.
+
+Se impondrá de cinco a quince años de prisión y el equivalente en multa de cinco mil a diez mil unidades de medida y actualización, a quien por sí o por interpósita persona realice cualquiera de las siguientes conductas:
+
+I. Adquiera, enajene, administre, custodie, posea, cambie, convierta, deposite, retire, dé o reciba por cualquier motivo, invierta, traspase, transporte o transfiera, dentro del territorio del Estado, de éste hacia el exterior del mismo o a la inversa, recursos, valores, derechos o bienes de cualquier naturaleza cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita; y
+
+II. Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad o titularidad de recursos, derechos, valores o bienes de cualquier naturaleza, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita.
+
+Para efectos de este Capítulo, se entenderá que son producto de una actividad ilícita, los recursos, valores, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+###### ARTÍCULO 377.
+
+Las penas previstas en el artículo anterior serán aumentadas en una mitad cuando el delito se cometa por servidores públicos a quienes se les impondrá además destitución e inhabilitación para desempeñar cargo o comisión pública hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación iniciará cuando se haya cumplido la pena de prisión.
+
+Las penas previstas en este Capítulo se duplicarán, si la conducta es cometida por servidores públicos encargados de prevenir, detectar, denunciar, investigar o juzgar la comisión de delitos o ejecutar las sanciones penales, así como a los ex servidores públicos encargados de tales funciones que cometan dicha conducta en los dos años posteriores a su terminación. Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión pública hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación iniciará cuando se haya cumplido la pena de prisión.
+
+Asimismo, las penas previstas en este Capítulo se aumentarán hasta en una mitad si quien realice cualquiera de las conductas previstas en el artículo 376 utiliza a personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho o para resistirlo.
+
+Cuando la persona que realiza los actos jurídicos, con alguno de los resultados mencionados en el artículo 376 revele a la autoridad competente la identidad de quien haya aportado los recursos o de quien se conduzca como dueño, la pena podrá ser reducida hasta en dos terceras partes.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -4902,3 +4938,25 @@ P.O. 31 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 594 DEL H. CONGRESO DEL ESTADO.- QUE ADICIONA DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE SINALOA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 16 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 600 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA Y ADICIONA LA SECCIÓN SÉPTIMA DENOMINADA "DELITOS CON RECURSOS DE PROCEDENCIA ILÍCITA", CONFORMADA CON EL TÍTULO ÚNICO DENOMINADO "OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA", CON UN CAPÍTULO ÚNICO DENOMINADO "OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA", CON LOS ARTÍCULOS 376 Y 377 AL LIBRO SEGUNDO, PARTE ESPECIAL DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+La Unidad de Inteligencia Patrimonial y Económica creada mediante el acuerdo 04/2020, publicado en el Periódico Oficial "El Estado de Sinaloa", de fecha 8 de Junio de 2020, continuará en funciones en tanto no se oponga al presente Decreto. El nombramiento de su titular, de conformidad con el mencionado acuerdo, seguirá vigente de cumplir los requisitos previstos en el artículo 23 Bis F, de la Ley Orgánica de la Fiscalía General del Estado de Sinaloa.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Administración y Finanzas del Estado de Sinaloa, deberá integrar en el presupuesto de egresos inmediato siguiente a la entrada en vigor y publicación en el Periódico Oficial "El Estado de Sinaloa", del presente decreto, los recursos necesarios para el cumplimiento de los fines de la Unidad de Inteligencia Patrimonial y Económica.
+
+En un término máximo de 60 días después de la entrada en vigor y publicación en el Periódico Oficial "El Estado de Sinaloa" del presente Decreto el Fiscal General deberá hacer llegar al titular de la Secretaría de Administración y Finanzas del Estado de Sinaloa una solicitud de presupuesto para la Unidad de Inteligencia Patrimonial y Económica, la cual deberá contener una explicación detallada que justifique los recursos que requiere la Unidad de Inteligencia Patrimonial y Económica para su correcto funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+Dentro del lapso de 180 días posteriores al del inicio de la vigencia del presente Decreto, la Fiscalía deberá adecuar su Reglamento para establecer las funciones y competencias de la estructura y demás áreas que se creen para el funcionamiento de la Unidad de Inteligencia Patrimonial y Económica, así como expedir los manuales de organización, procedimientos y servicios de la misma.
