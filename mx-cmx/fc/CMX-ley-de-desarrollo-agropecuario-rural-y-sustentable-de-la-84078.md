@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-agropecuario-rural-y-sustentable-de-la-84078"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-08"
-last_updated: "2021-03-31"
+last_updated: "2021-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84078&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-12-07"
 
 LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE ABRIL DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de diciembre de 2011.
 
@@ -64,7 +64,9 @@ La presente Ley es de orden público e interés general y tiene por objeto propi
 
 Para efectos de la presente Ley se entiende por:
 
-I. Campesinas y campesinos: Las personas, hombres y mujeres de la tierra que tienen una relación directa y especial con la tierra y la naturaleza a través de la producción de alimentos y otros productos agrícolas; que trabajan la tierra por sí mismos; dependen sobre todo del trabajo en familia y otras formas a pequeña escala de organización del trabajo; que están tradicionalmente integrados en sus comunidades locales y cuidan el entorno local y los sistemas agroecológicos. Puede aplicarse a cualquier persona que se ocupa de la agricultura, ganadería, trashumancia, acuacultura, agroforestería, artesanías relacionadas a la agricultura u otras ocupaciones similares. Incluye a personas indígenas que trabajan la tierra. También se aplica a familias de agricultores con poca tierra o sin tierra; familias no agrícolas en áreas rurales, con poca tierra o sin tierra, cuyos miembros se dedican a actividades como la acuacultura, artesanía para el mercado local o la proporción de servicios; y otras familias de transhumantes, campesinos que practican cultivos cambiantes, y personas con medios de subsistencia parecidos.
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+I. Campesinas y campesinos: Las personas de la tierra que tienen una relación directa y especial con la tierra y la naturaleza a través de la producción de alimentos y demás productos agrícolas; que trabajan la tierra por su cuenta; dependen sobre todo del trabajo en familia y otras formas a pequeña escala de organización del trabajo; que están tradicionalmente integradas en sus comunidades locales y cuidan el entorno local y los sistemas agroecológicos. Puede aplicarse a cualquier persona que se ocupa de la agricultura, ganadería, trashumancia, acuacultura, agroforestería, artesanías relacionadas a la agricultura u otras ocupaciones similares. Incluye a personas indígenas que trabajan la tierra. También se aplica a familias de agricultoras y agricultores con poca tierra o sin tierra; familias no agrícolas en áreas rurales, con poca tierra o sin tierra, cuyos integrantes se dedican a actividades como la acuacultura, artesanía para el mercado local o la proporción de servicios; y otras familias de transhumantes (sic), campesinas y campesinos que practican cultivos cambiantes, y personas con medios de subsistencia parecidos.
 
 II. Consejo Rural: El Consejo Rural de la Ciudad de México;
 
@@ -86,25 +88,27 @@ VI. Programa Rural: El Programa de Desarrollo Agropecuario y Rural de la Ciudad 
 
 VII. Reglamento: El Reglamento de la Ley de Desarrollo Agropecuario, Rural y Sustentable de la Ciudad de México;
 
-VIII. Secretaría: La Secretaría de Desarrollo Rural y Equidad para las Comunidades.
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+VIII. Secretaría: La Secretaría del Medio Ambiente.
 
 > <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
 IX. Pueblo originario: Los descendientes de las poblaciones asentadas en el territorio actual de la Ciudad de México desde antes de la colonización y del establecimiento de las fronteras actuales y que conservan sus propias instituciones sociales, económicas, culturales y políticas, sistemas normativos propios, tradición histórica, territorialidad o cosmovisión, o parte de ellas, y que afirman libre y voluntariamente su identidad colectiva como descendientes de las mismas.
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 3º.
 
-En el ámbito de competencia de la Ciudad de México, son sujetos de esta Ley los ejidos, las comunidades y sus integrantes; los pequeños propietarios; las organizaciones o asociaciones de carácter nacional, regional, local o comunitario de productores, comerciantes, agroindustriales y prestadores de servicios que inciden o se relacionan con el medio rural, incluso aquellas de carácter tradicional que se deriven de los sistemas normativos internos de los pueblos originarios y comunidades indígenas o que se constituyan o estén constituidas de conformidad con las leyes vigentes y, en general, las y los campesinos y toda persona física o moral que de manera individual o colectiva, realicen actividades relacionadas con el medio rural de la Ciudad de México.
+En el ámbito de competencia de la Ciudad de México, están sujetos a esta Ley los núcleos de población ejidal y comunal, así como sus integrantes; las pequeñas y los pequeños propietarios; las organizaciones o asociaciones de carácter nacional, regional, local o comunitario de productoras y productores, comerciantes, agroindustriales y, prestadoras y prestadores de servicios que inciden o se relacionan con el medio rural, incluso aquellas de carácter tradicional que se deriven de los sistemas normativos internos de los pueblos originarios y comunidades indígenas o que se constituyan o estén constituidas de conformidad con las leyes vigentes y, en general, las y los campesinos y toda persona física o moral que de manera individual o colectiva, realicen actividades relacionadas con el medio rural de la Ciudad de México.
 
 ### Capítulo II. De los derechos alimentarios y campesinos
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 4°.
 
-La implantación y aplicación de la presente Ley se hará respetando las garantías constitucionales, la Constitución Política de la Ciudad de México y las leyes que emanen de ella.
+En la aplicación de las disposiciones de la presente Ley, las autoridades de la Ciudad de México, en el ámbito de sus competencias, promoverán, respetarán, protegerán y garantizarán los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte, en la Constitución Política de la Ciudad de México y en las normas generales y locales, de conformidad con los principios de interpretación y aplicación que en dichos instrumentos se establecen.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
 
@@ -124,15 +128,15 @@ IV. Derecho a la educación alimentaria: El derecho de toda persona a recibir un
 
 B. Las y los campesinos tienen derechos iguales; a disfrutar totalmente, como colectivo e individualmente, de todos los derechos humanos y libertades fundamentales, libres de cualquier tipo de discriminación y a participar en el diseño de políticas, en la toma de decisiones, la aplicación y monitoreo de cualquier proyecto, programa o política que afecte sus espacios rurales. El Gobierno de la Ciudad de México garantizará, particularmente, el ejercicio de los siguientes derechos para las y los campesinos:
 
-El Gobierno del Distrito Federal garantizará, particularmente, el ejercicio de los siguientes derechos para las y los campesinos:
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 16 DE ABRIL DE 2021)</small>
 
 I. Para garantizar el derecho a la vida y a un nivel de vida digno para las y los campesinos se tomarán las siguientes medidas:
 
 a) Salvaguardar su integridad física y a no ser acosados, desalojados, perseguidos, arrestados arbitrariamente y asesinados por defender sus derechos;
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
-b) Defender a las mujeres campesinas contra la violencia doméstica física, sexual, verbal y psicológica. Las mujeres tienen derecho a controlar su propio cuerpo y a rechazar el uso de su cuerpo con fines mercantiles, así como a decidir el número de descendientes que desean tener y elegir los métodos anticonceptivos que decidan;
+b) Implementar en coordinación con la Secretaría de las Mujeres acciones afirmativas a favor de las campesinas para alcanzar la igualdad sustantiva con los hombres; el respeto de su dignidad humana y no discriminación; su libertad, autonomía y empoderamiento; así como el acceso a una vida libre de todo tipo de violencia en cualquiera de sus modalidades, de conformidad con las leyes aplicables;
 
 c) Acceder a una alimentación adecuada, saludable, nutritiva y accesible y a mantener sus culturas tradicionales alimentarias;
 
@@ -284,7 +288,9 @@ f) Utilizar pesticidas y plaguicidas de origen orgánico y natural para la agric
 
 X. En el ejercicio de la libertad de asociación, opinión y expresión, las y los campesinos tienen derecho a:
 
-a) La libertad de asociación con otros, y a expresar su opinión, de acuerdo con sus tradiciones y cultura, a través de demandas, peticiones y movilizaciones;
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
+
+a) La libertad de asociarse con cualquier persona, y a expresar su opinión, de acuerdo con sus tradiciones y cultura, a través de demandas, peticiones y movilizaciones;
 
 b) Formar y participar en organizaciones independientes campesinas, sindicatos, cooperativas o cualquier otra organización o asociación para la protección de sus intereses;
 
@@ -296,11 +302,11 @@ e) Resistir contra la opresión y a recurrir a la acción pacífica directa para
 
 ### Capítulo III. De la competencia
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 5º.
 
-El Gobierno de la Ciudad de México, a través de la Secretaría, es responsable de la aplicación de las disposiciones contenidas en la presente Ley, con la excepción de aquellas que de manera expresa estén facultadas al Jefe de Gobierno o, en su caso, a otras entidades y dependencias de la administración pública de la Ciudad de México.
+El Gobierno de la Ciudad de México, a través de la Secretaría, es responsable de la aplicación de las disposiciones contenidas en la presente Ley, con la excepción de aquellas que de manera expresa estén facultadas a la persona Titular de la Jefatura de Gobierno o, en su caso, a otras entidades y dependencias de la administración pública de la Ciudad de México.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
 
@@ -336,7 +342,9 @@ XI. Fomentar y apoyar proyectos de traspatios familiares sustentables;
 
 XII. Recuperar espacios rurales ociosos para el desarrollo sustentable de las actividades agropecuarias y rurales.
 
-XIII. Fomentar y apoyar proyectos productivos para la mujer rural y coordinarse con la Secretaría de Gobierno para el impulso de la parcela de la mujer;
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+XIII. Fomentar y apoyar políticas públicas, programas y proyectos productivos para las mujeres rurales en coordinación con las Secretarías de las Mujeres; y de Gobierno, para el impulso de sus parcelas;
 
 > <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
@@ -384,7 +392,9 @@ XXV. Promover y fomentar medidas de remediación de los recursos naturales produ
 
 XXVI. Instrumentar mecanismos para la producción agroecológica y sistemas de certificación de producción orgánica, que protejan los recursos productivos como son los suelos, el manto freático y la producción de (sic) agroalimentaria, mediante el uso de insumos biológicos, ecotecnias y energías alternativas; y
 
-XXVI (SIC). Las demás que esta Ley y otros ordenamientos jurídicos le establezcan.
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+XXVII. Las demás que esta Ley y otros ordenamientos jurídicos le establezcan.
 
 El Reglamento establecerá las especificidades para el cumplimiento de estas atribuciones, en aquellas materias que no estén suficientemente reguladas en esta ley.
 
@@ -402,11 +412,11 @@ La Secretaría podrá suscribir acuerdos de coordinación con otras dependencias
 
 En el ámbito de la concurrencia con el gobierno federal la Secretaría se coordinará mediante acuerdos para la adecuada administración de los recursos presupuestales definidos por el Presupuesto de Egresos de la Federación, velando siempre por la consideración de las particularidades de la Ciudad de México en el desarrollo agropecuario y rural, en los término (sic) del Reglamento y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 9.
 
-El Jefe de Gobierno de la Ciudad de México, en los términos establecidos en la ley aplicable, creará el Gabinete de Desarrollo Rural en el que participarán las Secretarías de Desarrollo Rural y Equidad para las Comunidades, quien lo coordinará; de Gobierno; del Medio Ambiente; de Desarrollo Económico; de Desarrollo Social; de Ciencia, Tecnología e Innovación y la Procuraduría Ambiental y del Ordenamiento Territorial.
+La persona Titular de la Jefatura de Gobierno de la Ciudad de México, en los términos establecidos en la ley aplicable, creará el Gabinete de Desarrollo Rural en el que participarán las Secretarías del Medio Ambiente, quien lo coordinará; de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes; de Gobierno; de Desarrollo Económico; de Inclusión y Bienestar Social; de Educación, Ciencia, Tecnología e Innovación; de las Mujeres; la Procuraduría Ambiental y del Ordenamiento Territorial.
 
 > <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
@@ -416,23 +426,33 @@ La Secretaría contará con un Consejo Rural de la Ciudad de México como órgan
 
 Cuando las dependencias, entidades y alcaldías deban resolver un asunto sobre el cual este Consejo hubiese emitido una opinión, las mismas deberá (sic) expresar las causas de aceptación o rechazo de dicha opinión.
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 11.
 
-El Consejo Rural será presidido por el Jefe de Gobierno de la Ciudad de México, por conducto del Titular de la Secretaría y serán miembros permanentes del Consejo:
+El Consejo Rural será presidido por la persona Titular de la Jefatura de Gobierno de la Ciudad de México, por conducto de la o el Titular de la Secretaría y serán integrantes permanentes del Consejo:
+
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
 I. Las y los representantes de núcleos agrarios en de (sic) la Ciudad de México que el Reglamento señale;
 
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+
 II. Las y los representantes de las alcaldías con ámbito rural;
 
-III. Las y los representantes debidamente acreditados de las organizaciones de productores, comercializadores, prestadores de servicio y demás organizaciones y agentes que se desenvuelvan o incidan en actividades, servicios y procesos del medio rural de la Ciudad de México, instituciones de educación e investigación y organismos no gubernamentales, así como los representantes de las organizaciones sociales y privadas de carácter económico y social del sector rural, que el Reglamento señale.
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+III. Las y los representantes debidamente acreditados de las organizaciones de productoras y productores, comercializadores, prestadoras y prestadores de servicio y demás organizaciones y personas que se desenvuelvan o incidan en actividades, servicios y procesos del medio rural de la Ciudad de México, instituciones de educación e investigación y organismos no gubernamentales, así como las y los representantes de las organizaciones sociales y privadas de carácter económico y social del sector rural, que el Reglamento señale.
+
+> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
 El Consejo Rural deberá ser representativo de la composición económica y social de la Ciudad de México.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2021)</small>
+
 ###### Artículo 12.
 
-El desempeño de estos cargos será honorífico, por lo que no habrá lugar a remuneración alguna para ninguno de sus miembros. Las y los miembros integrantes del Consejo podrán nombrar un suplente, inclusive la o el Presidente.
+El desempeño de estos cargos será honorífico, por lo que no habrá lugar a remuneración alguna para ninguno de sus integrantes. Las y los miembros del Consejo podrán nombrar un suplente, inclusive la persona que ocupe la presidencia.
 
 En ausencia de la o el Titular de la Secretaría, la o el Secretario presidirá las reuniones.
 
@@ -480,7 +500,9 @@ VIII. La garantía del derecho de los pueblos indígenas y originarios al desarr
 
 IX. El impulso del desarrollo de las zonas más atrasadas y marginadas económica y socialmente tendrán carácter prioritario;
 
-X. Garantizar la participación de la (sic) mujeres del medio rural e indígena en la toma de decisiones en la comunidad entorno al control, protección y aprovechamiento sustentable de los recursos naturales;
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+X. Garantizar la participación de las mujeres del medio rural e indígena en la toma de decisiones en la comunidad entorno al control, protección y aprovechamiento sustentable de los recursos naturales;
 
 > <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
@@ -488,19 +510,29 @@ XI. La conservación de los cultivos nativos, la herbolaria y las principales ac
 
 XII. La transformación para el logro de la sustentabilidad del desarrollo rural deberá considerar la diversificación de las actividades productivas, propiciar el uso óptimo, la conservación y el mejoramiento de los recursos rurales;
 
-XIII. La promoción de la capitalización del sector rural mediante obras de infraestructura básica y productiva y de servicios a la producción así como a través de apoyos directos a los productores, que les permitan realizar las inversiones necesarias para incrementar la eficiencia de sus unidades de producción, mejorar sus ingresos y fortalecer su competitividad;
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+XIII. La promoción de la capitalización del sector rural mediante obras de infraestructura básica y productiva y de servicios a la producción, así como a través de apoyos directos a las productoras y los productores, que les permitan realizar las inversiones necesarias para incrementar la eficiencia de sus unidades de producción, mejorar sus ingresos y fortalecer su competitividad;
 
 XIV. La promoción de la eficiencia económica de las unidades de producción y del sector rural en su conjunto;
 
-XV. La implantación de medidas para que los productores y demás agentes de la sociedad rural cuenten con mejores condiciones para enfrentar los retos y aprovechar las oportunidades económicas y comerciales, derivados del desarrollo de los mercados y de los acuerdos y tratados en la materia suscritos por el Gobierno Federal;
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+XV. La implementación de medidas para que las productoras y los productores, así como las y los agentes de la sociedad rural cuenten con mejores condiciones para enfrentar los retos y aprovechar las oportunidades económicas y comerciales, derivados del desarrollo de los mercados y de los acuerdos y tratados en la materia suscritos por el Gobierno Federal;
 
 XVI. El incremento, diversificación, reconversión y mejoramiento de las actividades productivas en el medio rural, para fortalecer la economía rural, el auto-abasto, la ampliación y fortalecimiento del mercado interno y el desarrollo de mercados regionales, que mejoren el acceso de la población rural a la alimentación y los términos de intercambio comercial con el exterior;
 
 XVII. El aumento de la capacidad productiva para fortalecer la economía campesina, el autoabasto y el desarrollo de mercados regionales que mejoren el acceso de la población rural a la alimentación y los términos de intercambio;
 
-XVIII. El mejoramiento de la cantidad y la calidad de los servicios a la población; y
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+XVIII. El mejoramiento de la cantidad y la calidad de los servicios a la población;
 
 XIX. La expansión, modernización y tecnificación de la infraestructura Hidrológica y de tratamiento para el reuso de agua, así como al desarrollo de la electrificación y los caminos rurales.
+
+> <small>(ADICIONADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+XX. Garantizar el acceso y uso de las tecnologías de la información y comunicación, incluyendo el acceso gratuito de manera progresiva al internet de banda ancha, para que las y los campesinos puedan recibir servicios públicos de calidad, privilegiándose a personas, grupos y comunidades en situación de discriminación; ejercitar sus derechos reconocidos en esta Ley y demás ordenamientos; tener acceso a la educación y capacitación tecnológicas; integrarse a la sociedad del conocimiento, así como para contribuir con el desarrollo de la economía local; y elevar el bienestar de la población, reduciendo la desigualdad.
 
 ### Capítulo VI. De los Instrumentos de la Política Agropecuaria y Rural
 
@@ -544,11 +576,11 @@ Las alcaldías con actividad rural formularán sus programas rurales considerand
 
 El Consejo Rural emitirá las opiniones que considere para que puedan tomarse en cuenta en la formulación de los programas a que se refiere este artículo.
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 20.
 
-La Secretaría podrá establecer programas de apoyos, ayudas y subsidios para atender a la población rural, en los términos que para tal efecto establezca el Reglamento de la presente Ley, derivados de las disposiciones que este ordenamiento regula, sin menoscabo de aquellos que se establezcan en cumplimiento de la legislación en materia presupuestal y de desarrollo social aplicable en la Ciudad de México.
+La Secretaría podrá establecer programas de apoyos, ayudas y subsidios para atender a la población rural, en los términos que para tal efecto establezca el Reglamento de la presente Ley, derivados de las disposiciones que este ordenamiento regula, sin menoscabo de los demás que se establezcan en cumplimiento de la legislación en materia presupuestal y de desarrollo social aplicable en la Ciudad de México.
 
 ###### Artículo 21.
 
@@ -588,17 +620,19 @@ Las autoridades competentes promoverán la incorporación de contenidos de desar
 
 Asimismo, propiciarán la participación comprometida de los medios de comunicación masiva en el fortalecimiento de la conciencia rural y la socialización de proyectos de desarrollo agropecuario y rural.
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
-La Secretaría de Ciencia, Tecnología e Innovación de la Ciudad de México, en coordinación con la Secretaría, promoverá que las instituciones de Educación Superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen la formación de especialistas en la materia de desarrollo agropecuario y rural.
+La Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México, en coordinación con la Secretaría, promoverá que las instituciones de Educación Superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen la formación de especialistas en la materia de desarrollo agropecuario y rural.
 
 ###### Artículo 27.
 
 La Secretaría promoverá el desarrollo de la capacitación y adiestramiento en materia de desarrollo agropecuario y rural.
 
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
+
 ###### Artículo 28.
 
-La Secretaría, en coordinación con las autoridades competentes, fomentará investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos en las materias de esta Ley. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
+La Secretaría, en coordinación con las autoridades competentes, fomentará investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos en las materias de esta Ley. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadoras e investigadores, así como con las y los especialistas en la materia.
 
 #### Sección IV. De los apoyos económicos
 
@@ -612,11 +646,11 @@ La Secretaría propondrá la asignación de estímulos fiscales a las acciones d
 
 Para el fomento de las actividades agropecuarias y económicas del medio rural de la Ciudad de México, la Secretaría podrá proponer que se otorguen estímulos fiscales y apoyos a la inversión, reconversión productiva, producción, comercialización e industrialización.
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 31.
 
-Los apoyos económicos que se otorguen se destinarán prioritariamente a las zonas, actividades, comunidades, productores y demás agentes más desfavorecidos económica y socialmente, así como para reducir las desigualdades que puedan existir al interior y entre cada uno de ellos, mismos que deberán inducir y premiar la productividad, competitividad y rentabilidad en el medio rural de la Ciudad de México.
+Los apoyos económicos que se otorguen se destinarán prioritariamente a las zonas, actividades, comunidades, productoras, productores y personas desfavorecidas económica y socialmente, así como para reducir las desigualdades que puedan existir al interior, y entre ellas y ellos, mismos que deberán inducir y premiar la productividad, competitividad y rentabilidad en el medio rural de la Ciudad de México.
 
 #### Sección V. De la Información Estadística y Geográfica
 
@@ -636,15 +670,17 @@ II. Las instituciones de educación pública y privada y de investigación que d
 
 III. Las organizaciones y particulares dedicadas a la investigación agropecuaria;
 
-IV. Las que se (sic) desarrollen la interculturalidad de la Ciudad de México; y
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+IV. Las que desarrollen la interculturalidad de la Ciudad de México; y
 
 V. Los demás que considere necesarios para cumplir con sus propósitos.
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 34.
 
-La información que se integre se considera de interés público y general, por lo que es responsabilidad y obligación de la Ciudad de México el difundirla a través de la Secretaría. Para ello integrará un paquete básico de información a los productores y demás agentes del sector rural, que les permita fortalecer su autonomía en la toma de decisiones. Copia de toda la información estará siempre a disposición de los Organismos de Acceso a la Información Pública.
+La información que se integre se considera de interés público y general, por lo que es responsabilidad y obligación de la Ciudad de México el difundirla a través de la Secretaría. Para ello integrará un paquete básico de información a las productoras y los productores y demás personas del sector rural, que les permita fortalecer su autonomía en la toma de decisiones. Copia de toda la información estará siempre a disposición de los Organismos de Acceso a la Información Pública.
 
 ### Capítulo VII. De la Conservación Rural
 
@@ -660,13 +696,15 @@ II. Vías pecuarias; y
 
 III. Geoparques rurales.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 36.
 
-Los espacios permanentes de producción agropecuaria y rural son aquellos que por decisión del propietario de terrenos agropecuarios, o por inducción de la Secretaría, decida incluirlos en un régimen de conservación el (sic) espacio rural con la finalidad de mantener y, en su caso incrementar, las superficies destinadas a la producción, privilegiando los cultivos nativos y de mayor importancia de la Ciudad de México. Las vías pecuarias son las rutas o itinerarios por donde discurre o ha venido discurriendo tradicionalmente el tránsito ganadero; asimismo podrán ser destinadas a otros usos compatibles y complementarios en términos acordes con su naturaleza y sus fines, dando prioridad al tránsito ganadero y otros usos rurales, e inspirándose en el desarrollo sustentable, el respeto al ambiente, al paisaje y al patrimonio.
+Los espacios permanentes de producción agropecuaria y rural son aquellos que por decisión de la o el propietario de terrenos agropecuarios, o por inducción de la Secretaría, decida incluirlos en un régimen de conservación del espacio rural con la finalidad de mantener y, en su caso incrementar, las superficies destinadas a la producción, privilegiando los cultivos nativos y de mayor importancia de la Ciudad de México. Las vías pecuarias son las rutas o itinerarios por donde discurre o ha venido discurriendo tradicionalmente el tránsito ganadero; asimismo podrán ser destinadas a otros usos compatibles y complementarios en términos acordes con su naturaleza y sus fines, dando prioridad al tránsito ganadero y otros usos rurales, e inspirándose en el desarrollo sustentable, el respeto al ambiente, al paisaje y al patrimonio.
 
-Los geoparques rurales son los espacios que incluyen un patrimonio geológico particular y una estrategia de desarrollo territorial sustentable apoyada por un programa para promover el desarrollo. Debe tener unos límites bien definidos y una superficie suficiente para un verdadero desarrollo económico del territorio, contener un cierto número de sitios geológicos de importancia particular en términos de calidad científica, rareza o valor estético o educativo y tiene un impacto directo sobre el territorio influyendo en las condiciones de vida de sus habitantes y actuando como una plataforma de cooperación de los actores locales y regionales de su territorio.
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
+
+Los geoparques rurales son los espacios que incluyen un patrimonio geológico particular y una estrategia de desarrollo territorial sustentable apoyada por un programa para promover el desarrollo. Deben tener unos límites bien definidos y una superficie suficiente para un verdadero desarrollo económico del territorio, contener un cierto número de sitios geológicos de importancia particular en términos de calidad científica, rareza o valor estético o educativo y tener un impacto directo sobre el territorio influyendo en las condiciones de vida de sus habitantes y actuando como una plataforma de cooperación de las y los actores locales y regionales de su territorio.
 
 ###### Artículo 37.
 
@@ -686,7 +724,9 @@ I. Realizará estudios e inventarios de los recursos fitogenéticos para la alim
 
 II. Promoverá la recolección de recursos fitogenéticos para la alimentación y la agricultura y la información pertinente relativa sobre aquéllos que estén amenazados o sean de uso potencial;
 
-III. Promoverá o apoyará, cuando proceda, los esfuerzos de los agricultores y de las comunidades rurales encaminados a la ordenación y conservación en los espacios de producción de sus recursos fitogenéticos para la alimentación y la agricultura;
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+III. Promoverá o apoyará, cuando proceda, los esfuerzos de las agricultoras y los agricultores y de las comunidades rurales encaminados a la ordenación y conservación en los espacios de producción de sus recursos fitogenéticos para la alimentación y la agricultura;
 
 IV. Promoverá la conservación in situ de plantas silvestres afines de las cultivadas y las plantas silvestres para la producción de alimentos, incluso en zonas protegidas, apoyando, entre otras cosas, los esfuerzos de las comunidades indígenas, originarias y rurales;
 
@@ -702,11 +742,17 @@ Para promover el uso sustentable de los recursos fitogenéticos para la alimenta
 
 I. Prosecución de políticas agrícolas equitativas que promuevan, cuando proceda, el establecimiento y mantenimiento de diversos sistemas de cultivo que favorezcan la utilización sostenible de la diversidad agrobiológica y de otros recursos naturales;
 
-II. Fortalecimiento de la investigación que promueva y conserve la diversidad fitogenética, aumentando en la mayor medida posible la variación intraespecífica e interespecífica en beneficio de los agricultores, especialmente de los que generan y utilizan sus propias variedades y aplican principios ecológicos para mantener la fertilidad del suelo y luchar contra las enfermedades, las malas hierbas y las plagas;
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
 
-III. Fomento, cuando proceda, de las iniciativas en materia de fitomejoramiento que, con la participación de los agricultores fortalecen la capacidad para obtener variedades particularmente adaptadas a las condiciones sociales, económicas y ecológicas, en particular en las zonas marginales;
+II. Fortalecimiento de la investigación que promueva y conserve la diversidad fitogenética, aumentando en la mayor medida posible la variación intraespecífica e interespecífica en beneficio de las agricultoras y los agricultores, especialmente de los que generan y utilizan sus propias variedades y aplican principios ecológicos para mantener la fertilidad del suelo y luchar contra las enfermedades, las malas hierbas y las plagas;
 
-IV. Ampliación de la base genética de los cultivos e incremento de la gama de diversidad genética a disposición de los agricultores;
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+III. Fomento, cuando proceda, de las iniciativas en materia de fitomejoramiento que, con la participación de las agricultoras y los agricultores fortalecen la capacidad para obtener variedades particularmente adaptadas a las condiciones sociales, económicas y ecológicas, en particular en las zonas marginales;
+
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+IV. Ampliación de la base genética de los cultivos e incremento de la gama de diversidad genética a disposición de las agricultoras y de los agricultores;
 
 V. Fomento, cuando proceda, de un mayor uso de cultivos, variedades y especies infrautilizados, locales y adaptados a las condiciones locales; y
 
@@ -772,11 +818,11 @@ Además, se incentivará la reconversión productiva en esquemas de agricultura 
 
 ### Capítulo XI. De la Vinculación Comercial y Ferias Agropecuarias
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 46.
 
-El Gobierno de la Ciudad de México, promoverá y apoyará la comercialización agropecuaria y demás bienes y servicios que se realicen en el ámbito de las zonas rurales, mediante esquemas que permitan coordinar los esfuerzos de las diversas Dependencias y Entidades Públicas, de los agentes de la sociedad rural y sus organizaciones económicas, con el fin de lograr una mejor integración de la producción primaria con los procesos de comercialización, acreditando la condición sanitaria, de calidad e inocuidad, el carácter orgánico o sustentable de los productos y procesos productivos y elevando la competitividad de las cadenas productivas, así como impulsar la formación y consolidación de las empresas comercializadoras y de los mercados que a su vez permitan asegurar el abasto interno y aumentar la competitividad del sector, en concordancia con las normas y tratados internacionales aplicables en la materia.
+El Gobierno de la Ciudad de México, promoverá y apoyará la comercialización agropecuaria y demás bienes y servicios que se realicen en el ámbito de las zonas rurales, mediante esquemas que permitan coordinar los esfuerzos de las diversas Dependencias y Entidades Públicas, de las y los agentes de la sociedad rural y sus organizaciones económicas, con el fin de lograr una mejor integración de la producción primaria con los procesos de comercialización, acreditando la condición sanitaria, de calidad e inocuidad, el carácter orgánico o sustentable de los productos y procesos productivos y elevando la competitividad de las cadenas productivas, así como impulsar la formación y consolidación de las empresas comercializadoras y de los mercados que a su vez permitan asegurar el abasto interno y aumentar la competitividad del sector, en concordancia con las normas y tratados internacionales aplicables en la materia.
 
 ###### Artículo 47.
 
@@ -786,7 +832,9 @@ I. Establecer e instrumentar reglas claras y equitativas para el intercambio de 
 
 II. Procurar una mayor articulación de la producción primaria con los procesos de comercialización y transformación, así como elevar la competitividad del sector rural y de las cadenas productivas del mismo;
 
-III. Favorecer la relación de intercambio de los agentes de la sociedad rural;
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+III. Favorecer la relación de intercambio de las y los agentes de la sociedad rural;
 
 > <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
@@ -794,9 +842,13 @@ IV. Inducir la conformación de la estructura productiva y el sistema de comerci
 
 V. Propiciar un mejor abasto de alimentos;
 
-VI. Evitar las prácticas especulativas, la concentración y el acaparamiento de los productos agropecuarios en perjuicio de los productores y consumidores;
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
 
-VII. Estimular el fortalecimiento de las empresas comercializadoras y de servicios de acopio y almacenamiento de los sectores social y privado, así como la adquisición y venta de productos ofertados por los agentes de la sociedad rural;
+VI. Evitar las prácticas especulativas, la concentración y el acaparamiento de los productos agropecuarios en perjuicio de las productoras, los productores y las y los consumidores;
+
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+VII. Estimular el fortalecimiento de las empresas comercializadoras y de servicios de acopio y almacenamiento de los sectores social y privado, así como la adquisición y venta de productos ofertados por las y los agentes de la sociedad rural;
 
 VIII. Inducir la formación de mecanismos de reconocimiento, en el mercado, de los costos incrementales de la producción sustentable y los servicios ambientales; y
 
@@ -806,61 +858,71 @@ IX. Fortalecer el mercado interno y la competitividad de la producción local.
 
 X. Elaborar y mantener actualizado un padrón de organizaciones, asociaciones, sociedades y empresas para la comercialización de productos agrícolas de acuerdo con los lineamientos para la protección de datos personales de la Ciudad de México.
 
-> <small>(ADICIONADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
 
-XI. Crear una plataforma digital de consulta y una aplicación para dispositivos móviles denominada “PEQUEÑOS PRODUCTORES Ciudad de México” en las que esté disponible el padrón de organizaciones, asociaciones, sociedades y empresas para la comercialización de productos agrícolas con el fin de impulsar su vinculación comercial.
+XI. Crear una plataforma digital de consulta y una aplicación para dispositivos móviles denominada “PEQUEÑ@S PRODUCTORES CIUDAD DE MÉXICO” en las que esté disponible el padrón de organizaciones, asociaciones, sociedades y empresas para la comercialización de productos agrícolas con el fin de impulsar su vinculación comercial.
+
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 48.
 
-Para los efectos del artículo anterior, la Secretaría, con la opinión del Consejo Rural, elaborará programas orientados a la producción y comercialización de productos ofertados por los agentes de la sociedad rural.
+Para los efectos del artículo anterior, la Secretaría, con la opinión del Consejo Rural, elaborará programas orientados a la producción y comercialización de productos ofertados por las y los agentes de la sociedad rural.
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 49.
 
-El Gobierno de la Ciudad de México, promoverá entre los agentes económicos la celebración de convenios y esquemas de producción por contrato mediante la organización de los productores y la canalización de apoyos.
+El Gobierno de la Ciudad de México, promoverá entre los agentes económicos la celebración de convenios y esquemas de producción por contrato mediante la organización de las productoras y los productores y la canalización de apoyos.
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 50.
 
-El Gobierno de la Ciudad de México, a través de la Secretaría, determinará el monto y forma de asignar a los productores los apoyos directos, que previamente hayan sido considerados en el programa y el presupuesto de Egresos de la Ciudad de México para el sector rural; los que, conjuntamente con los apoyos a la comercialización, buscarán la rentabilidad de las actividades agropecuarias y la permanente mejoría de la competitividad e ingreso de los productores.
+El Gobierno de la Ciudad de México, a través de la Secretaría, determinará el monto y forma de asignar a las productoras y los productores los apoyos directos, que previamente hayan sido considerados en el programa y el Presupuesto de Egresos de la Ciudad de México para el sector rural; los que, conjuntamente con los apoyos a la comercialización, buscarán la rentabilidad de las actividades agropecuarias y la permanente mejoría de la competitividad e ingreso de las y los productores.
+
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 51.
 
-La Secretaría en coordinación con el Gobierno Federal y la opinión del Consejo Rural, fomentará las exportaciones de los productos mediante la acreditación de la condición sanitaria, de calidad e inocuidad, su carácter orgánico o sustentable y la implementación de programas que estimulen y apoyen la producción y transformación de productos ofertados por los agentes de la sociedad rural para aprovechar las oportunidades regionales.
+La Secretaría en coordinación con el Gobierno Federal y la opinión del Consejo Rural, fomentará las exportaciones de los productos mediante la acreditación de la condición sanitaria, de calidad e inocuidad, su carácter orgánico o sustentable y la implementación de programas que estimulen y apoyen la producción y transformación de productos ofertados por las y los agentes de la sociedad rural para aprovechar las oportunidades regionales.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 52.
 
-La Secretaría, en coordinación con las dependencias y entidades de la Administración Pública de la Ciudad de México y las organizaciones de productores, realizarán las gestiones conducentes para el desarrollo agroindustrial, a través de las siguientes acciones:
+La Secretaría, en coordinación con las dependencias y entidades de la Administración Pública de la Ciudad de México y las organizaciones de productoras y productores, realizarán las gestiones conducentes para el desarrollo agroindustrial, a través de las siguientes acciones:
 
 I. Impulso a la rehabilitación de la agroindustria inactiva o con operación deficiente, cuando estas comprueben su viabilidad;
 
 II. Fortalecer a las organizaciones que cuentan con empresas rurales en las diferentes etapas del proceso de producción;
 
-III. Procurar la concurrencia de recursos federales y locales, así como de los propios beneficiarios a fin de asegurar la corresponsabilidad entre estos y los productores;
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+III. Procurar la concurrencia de recursos federales y locales, así como de las y los propios beneficiarios a fin de asegurar la corresponsabilidad entre estos y las productoras y los productores;
 
 IV. Promover la modernización, incorporando tecnologías a fin de que las empresas existentes y las que se instalen, puedan competir en el mercado nacional e internacional preservando el ambiente; e
 
 V. Impulsar activamente al sector productivo, a fin de aprovechar las ventajas comparativas y los nichos de mercado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 53.
 
-El Gobierno de la Ciudad de México, promoverá la constitución, integración, consolidación y capitalización de las empresas comercializadoras de los sectores social y privado dedicadas al acopio y venta de productos ofertados por los agentes de la sociedad rural y en especial los procesos de acondicionamiento y transformación industrial que las mismas realicen.
+El Gobierno de la Ciudad de México, promoverá la constitución, integración, consolidación y capitalización de las empresas comercializadoras de los sectores social y privado dedicadas al acopio y venta de productos ofertados por las y los agentes de la sociedad rural y en especial los procesos de acondicionamiento y transformación industrial que las mismas realicen.
 
 > <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
 Además, el Gobierno de la Ciudad de México apoyará la realización de estudios de mercado y la promoción de productos en los mercados nacional y extranjero.
 
-Asimismo, brindará a los productores rurales asistencia de asesoría y capacitación en operaciones de exportación, contratación, transportes y cobranza, entre otros aspectos.
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
+
+Asimismo, brindará a las productoras y los productores rurales asistencia de asesoría y capacitación en operaciones de exportación, contratación, transportes y cobranza, y demás aspectos.
+
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 54.
 
-La Secretaría promoverá la participación de productores rurales en ferias y exposiciones para la comercialización de sus productos mediante ayudas sociales.
+La Secretaría promoverá la participación de productoras y productores rurales en ferias y exposiciones para la comercialización de sus productos mediante ayudas sociales.
 
 ### Capítulo XII. De la Organización Productiva
 
@@ -892,13 +954,17 @@ Se reconocen como formas legales de organización económica y social, las regul
 
 Las organizaciones económicas y sociales que realicen programas propios del sector rural para acceder a recursos públicos, deberán sujetarse a las reglas de operación de los programas locales y federales.
 
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
+
 ###### Artículo 58.
 
-Los miembros de las estructuras agrarias en condiciones de pobreza, quienes están considerados como integrantes de organizaciones económicas y sociales para los efectos de esta Ley, serán sujetos de atención prioritaria de los programas de apoyo previstos en los términos de la misma.
+Las personas integrantes de las estructuras agrarias en condiciones de pobreza, quienes están considerados como integrantes de organizaciones económicas y sociales para los efectos de esta Ley, estarán sujetas a atención prioritaria de los programas de apoyo previstos en los términos de la misma.
+
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 59.
 
-La Secretaría integrará un registro de organizaciones y beneficiarios apoyados con recursos públicos y de los que a la fecha se encuentren en cartera vencida no justificada, a fin de evitar posteriores endeudamientos, mismo que se dará a conocer a las dependencias, entidades que realicen actividades del sector y al Consejo Rural.
+La Secretaría integrará un registro de organizaciones y beneficiarias y beneficiarios apoyados con recursos públicos y de los que a la fecha se encuentren en cartera vencida no justificada, a fin de evitar posteriores endeudamientos, mismo que se dará a conocer a las dependencias, entidades que realicen actividades del sector y al Consejo Rural.
 
 ### Capítulo XIII. Del Bienestar Social
 
@@ -912,11 +978,13 @@ Para los efectos del referido programa, de manera enunciativa y no restrictiva, 
 
 I. Las Autoridades locales elaborarán con la periodicidad del caso, su catálogo de necesidades locales en materia de desarrollo rural, integrando, a través del Consejo Rural de la Ciudad de México, sus propuestas ante las instancias superiores de decisión;
 
-II. Los programas de alimentación, nutrición y desayunos escolares que aplique el Jefe de Gobierno tendrán como prioridad atender a la población más necesitada, al mismo tiempo que organicen a los propios beneficiarios para la producción, preparación y distribución de dichos servicios;
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
+II. Los programas de alimentación, nutrición y desayunos escolares que aplique la persona Titular de la Jefatura de Gobierno tendrán como prioridad atender a la población más necesitada, al mismo tiempo que organicen a las y los propios beneficiarios para la producción, preparación y distribución de dichos servicios;
 
-III. El Jefe de Gobierno a través del Instituto de Vivienda de la Ciudad de México, contribuirá en el fomento y financiamiento de acciones para reducir el déficit habitacional en el medio rural de la Ciudad de México, siempre y cuando se trate de personas pertenecientes al núcleo rural beneficiado;
+> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2021)</small>
+
+III. La persona Titular de la Jefatura de Gobierno a través del Instituto de Vivienda de la Ciudad de México, contribuirá en el fomento y financiamiento de acciones para reducir el déficit habitacional en el medio rural de la Ciudad de México, siempre y cuando se trate de personas pertenecientes al núcleo rural beneficiado;
 
 > <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2018)</small>
 
@@ -926,19 +994,21 @@ IV. Sin menoscabo de la libertad individual, el Consejo Rural coadyuvará con la
 
 V. Las comunidades rurales en general, y especialmente aquellas cuya ubicación presente el catálogo de eventualidades ubicado en el rango de alto riesgo, podrán participar en las Unidades de Protección Civil adscritas a las Alcaldías para impulsar los programas de protección civil para la prevención, auxilio, recuperación y apoyo a la población rural en situaciones de desastre; lo mismo que proyectar y llevar a cabo la integración y entrenamiento de grupos voluntarios.
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 61.
 
-En el marco del Programa Rural, el Gobierno de la Ciudad de México promoverá apoyos con prioridad a los grupos vulnerables de las regiones de alta y muy alta marginación caracterizados por sus condiciones de pobreza extrema, en el medio rural; el ser sujeto de estos apoyos, no limita a los productores y demás agentes, al acceso a otros programas.
+En el marco del Programa Rural, el Gobierno de la Ciudad de México promoverá apoyos con prioridad a los grupos vulnerables de las regiones de alta y muy alta marginación caracterizados por sus condiciones de pobreza extrema, en el medio rural; ser beneficiaria o beneficiario de estos apoyos, no limita a las y los productores y demás personas, al acceso a otros programas.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 62.
 
-En cumplimiento a esta Ley, la atención prioritaria a los productores y comunidades de las Alcaldías de más alta marginación, tendrá un enfoque productivo orientado a la justicia social y equidad, y respetuoso de los valores culturales, usos y costumbres de los habitantes de dichas zonas.
+En cumplimiento a esta Ley, la atención prioritaria a las productoras, los productores y comunidades de las Alcaldías de más alta marginación, tendrá un enfoque productivo orientado a la justicia social y equidad, y respetuoso de los valores culturales, usos y costumbres de las y los habitantes de dichas zonas.
 
-El Programa Rural, en el marco de las disposiciones de esta Ley, tomará en cuenta la pluriactividad distintiva, la economía campesina y de la composición de su ingreso, a fin de impulsar la diversificación de sus actividades, del empleo y la reducción de los costos de transacción que median entre los productores de dichas regiones y los mercados.
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
+
+El Programa Rural, en el marco de las disposiciones de esta Ley, tomará en cuenta la pluriactividad distintiva, la economía campesina y de la composición de su ingreso, a fin de impulsar la diversificación de sus actividades, del empleo y la reducción de los costos de transacción que median entre las productoras y los productores de dichas regiones y los mercados.
 
 > <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
 
@@ -976,9 +1046,11 @@ XII. Fomentar el abasto alimentario de carácter emergente; y
 
 XIII. Apoyar la producción y desarrollo de mercados para productos no tradicionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2021)</small>
+
 ###### Artículo 65.
 
-La Secretaría, en el ámbito de su competencia instrumentará programas sociales que atiendan y permitan el desarrollo integral de acuerdo a su contexto rural de niños y niñas; jóvenes, mujeres, jornaleros, adultos mayores y personas con discapacidad.
+La Secretaría, en el ámbito de su competencia instrumentará programas sociales que atiendan y permitan el desarrollo integral de acuerdo a su contexto rural de niños y niñas; jóvenes, mujeres, jornaleras y jornaleros; personas mayores y personas con discapacidad.
 
 Se ejecutarán de manera específica las políticas sociales enfocadas a la propia problemática antes señalada, que contengan programas que impulsen la dignidad, superación individual y colectiva, la productividad la provisión de la infraestructura y atención a la estacionalidad de los ingresos de las familias.
 
@@ -990,19 +1062,21 @@ La Secretaría impulsará programas para fomentar la cultura alimentaria encamin
 
 ### CAPÍTULO XIV. DE LA ADMINISTRACIÓN DE RIESGOS Y DAÑOS
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 67.
 
-El Gobierno de la Ciudad de México, a través de la Secretaría, impulsará, promoverá y garantizará entre los productores la contratación del seguro agrícola por contingencias climatológicas, sanitarias y biológicas, a efecto de proporcionarles mayor capacidad para administrar los riesgos relevantes en la actividad económica del sector.
+El Gobierno de la Ciudad de México, a través de la Secretaría, impulsará, promoverá y garantizará entre las productoras y los productores la contratación del seguro agrícola por contingencias climatológicas, sanitarias y biológicas, a efecto de proporcionarles mayor capacidad para administrar los riesgos relevantes en la actividad económica del sector.
 
-Adicionalmente, la Secretaría fomentará la elaboración de esquemas de fondos de autoaseguro que permitan el uso del servicio de aseguramiento a los productores, en el marco de las leyes vigentes en la materia, para la cobertura de este tipo de contingencias.
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADO, G.O. 26 DE FEBRERO DE 2018)</small>
+Adicionalmente, la Secretaría fomentará la elaboración de esquemas de fondos de autoaseguro que permitan el uso del servicio de aseguramiento a las productoras y los productores, en el marco de las leyes vigentes en la materia, para la cobertura de este tipo de contingencias.
+
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 68.
 
-El Gobierno de la Ciudad de México, a través de la Secretaría y con base en su disponibilidad presupuestal, contemplará la parte proporcional que le corresponda por el pago de la prima al contrato de seguro agrícola de los productores, que emane de los siniestros por causa de contingencias climatológicas, sanitarias y biológicas, y según los lineamientos emitidos por la Secretaría de acuerdo con esta ley, así como de las leyes federales correspondientes y demás disposiciones sobre la materia.
+El Gobierno de la Ciudad de México, a través de la Secretaría y con base en su disponibilidad presupuestal, contemplará la parte proporcional que le corresponda por el pago de la prima al contrato de seguro agrícola de las productoras y los productores, que emane de los siniestros por causa de contingencias climatológicas, sanitarias y biológicas, y según los lineamientos emitidos por la Secretaría de acuerdo con esta ley, así como de las leyes federales correspondientes y demás disposiciones sobre la materia.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1081,6 +1155,14 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicaci
 G.O. 31 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN V, AL ARTÍCULO 42 DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO, EN MATERIA DE FOMENTO DE BIOFERTILIZANTES”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 16 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO, EN MATERIA DE VISIBILIZACIÓN Y EMPODERAMIENTO DE LAS MUJERES RURALES”.]
 
 PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
