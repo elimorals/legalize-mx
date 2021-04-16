@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-telecomunicaciones-y-radiodifusion-101766"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2014-07-14"
-last_updated: "2021-01-11"
+last_updated: "2021-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2014-07-14"
 ---
 # LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSION
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+(NOTA 2: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS A LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL DIECISÉIS DE ABRIL DE DOS MIL VEINTIUNO, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ABRIL DE 2021.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 14 de julio de 2014.
 
@@ -500,6 +502,12 @@ XL. Formular, de considerarlo necesario para el ejercicio de sus funciones, cons
 XLI. Establecer las disposiciones para sus procesos de mejora regulatoria;
 
 XLII. Llevar y mantener actualizado el Registro Público de Telecomunicaciones, que incluirá la información relativa a las concesiones en los términos de la presente Ley;
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ LA FRACCIÓN XLII BIS DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2021)</small>
+
+XLII Bis. INSTALAR, OPERAR, REGULAR Y MANTENER EL PADRÓN NACIONAL DE USUARIOS DE TELEFONÍA MÓVIL; PROCURAR SU BUEN FUNCIONAMIENTO Y EL INTERCAMBIO DE INFORMACIÓN CON LAS AUTORIDADES COMPETENTES, ASÍ COMO ESTABLECER LOS PROCEDIMIENTOS PARA VALIDAR LA INFORMACIÓN QUE DEBA INCORPORARSE AL MISMO CONFORME A LOS SISTEMAS INFORMÁTICOS Y PROCEDIMIENTOS QUE ESTABLEZCA PARA TAL EFECTO;
 
 XLIII. Establecer a los concesionarios las obligaciones de cobertura geográfica, poblacional o social, de conectividad en sitios públicos y de contribución a la cobertura universal, en los términos previstos en esta Ley. Para estos efectos, el Instituto considerará las propuestas de la Secretaría conforme a los planes y programas respectivos;
 
@@ -2435,9 +2443,13 @@ Las solicitudes de autorización serán resueltas por el Instituto en un plazo n
 
 ## TÍTULO SÉPTIMO. Del Registro Público de Telecomunicaciones
 
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE REFORMÓ ESTE ARTÍCULO, EN LA PORCIÓN NORMATIVA INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 2021)</small>
+
 ###### Artículo 176.
 
-El Instituto llevará el Registro Público de Telecomunicaciones, el cual estará integrado por el Registro Público de Concesiones y el Sistema Nacional de Información de Infraestructura, de conformidad con lo dispuesto en la presente Ley y las disposiciones aplicables que se emitan.
+El Instituto llevará el Registro Público de Telecomunicaciones, el cual estará integrado por el Registro Público de Concesiones, EL PADRÓN NACIONAL DE USUARIOS DE TELEFONÍA MÓVIL y el Sistema Nacional de Información de Infraestructura, de conformidad con lo dispuesto en la presente Ley y las disposiciones aplicables que se emitan.
 
 ### Capítulo I. Del Registro Público de Concesiones
 
@@ -2509,9 +2521,95 @@ Cualquier modificación a la información citada en el artículo 177 deberá ser
 
 Los concesionarios y los autorizados están obligados a poner a disposición del Instituto en los términos que éste determine, por escrito y en forma electrónica, todos los datos, informes y documentos que éste les requiera en el ámbito de su competencia a efecto de integrar el Registro Público de Telecomunicaciones.
 
-### Capítulo II. Del Sistema Nacional de Información de Infraestructura
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-### Capítulo Único. De las Obligaciones en materia de Seguridad y Justicia
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE ABRIL DE 2021)</small>
+
+### Capítulo I Bis. Del Padrón Nacional de Usuarios de Telefonía Móvil
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2021)</small>
+
+###### Artículo 180 Bis.
+
+El Instituto expedirá las disposiciones administrativas de carácter general para la debida operación del Padrón Nacional de Usuarios de Telefonía Móvil, el cual es una base de datos con información de las personas físicas o morales titulares de cada línea telefónica móvil que cuenten con número del Plan Técnico Fundamental de Numeración y cuyo único fin es el de colaborar con las autoridades competentes en materia de seguridad y justicia en asuntos relacionados con la comisión de delitos en los términos de las disposiciones jurídicas aplicables.
+
+El registro del número de una línea telefónica móvil en el Padrón Nacional de Usuarios de Telefonía Móvil presume, con independencia de lo previsto en las leyes aplicables, la existencia de la misma, su pertenencia a la persona que aparece en aquél como titular o propietaria, así como la validez de los actos jurídicos que se relacionan con el respectivo contrato de prestación de servicios en sus diferentes modalidades y que obran en el Padrón salvo prueba en contrario, de conformidad con lo establecido en el artículo 20, Apartado B, fracción I de la Constitución Política de los Estados Unidos Mexicanos y las demás disposiciones jurídicas aplicables.
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2021)</small>
+
+###### Artículo 180 Ter.
+
+El Padrón Nacional de Usuarios de Telefonía Móvil contendrá, sobre cada línea telefónica móvil, la información siguiente:
+
+I. Número de línea telefónica móvil;
+
+II. Fecha y hora de la activación de la línea telefónica móvil adquirida en la tarjeta SIM;
+
+III. Nombre completo o, en su caso, denominación o razón social del usuario;
+
+IV. Nacionalidad;
+
+V. Número de identificación oficial con fotografía o Clave Única de Registro de Población del titular de la línea;
+
+VI. Datos Biométricos del usuario y, en su caso, del representante legal de la persona moral, conforme a las disposiciones administrativas de carácter general que al efecto emita el Instituto;
+
+VII. Domicilio del usuario;
+
+VIII. Datos del concesionario de telecomunicaciones o, en su caso, de los autorizados;
+
+IX. Esquema de contratación de la línea telefónica móvil, ya sea pospago o prepago, y
+
+X. Los avisos que actualicen la información a que se refiere este artículo.
+
+Para efectos de este artículo, se entenderá como tarjeta SIM al dispositivo inteligente desmontable utilizado en los equipos móviles, con objeto de almacenar de forma segura la clave de servicio del suscriptor usada para identificarse ante determinada red.
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2021)</small>
+
+###### Artículo 180 Quáter.
+
+El registro del número de una línea telefónica móvil en el Padrón Nacional de Usuarios de Telefonía Móvil será obligatorio para el usuario, quien deberá proporcionar identificación oficial, comprobante de domicilio y datos biométricos, para la activación del servicio de la línea telefónica móvil, en términos de lo establecido en la presente Ley y en las disposiciones administrativas de carácter general que al efecto emita el Instituto.
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2021)</small>
+
+Artículo 180 Quintes (sic). Los concesionarios de telecomunicaciones y, en su caso, los autorizados, deberán recabar e ingresar la información sobre la identidad, datos biométricos y domicilio del usuario, así como proporcionar la información con la cual se integrará el Padrón Nacional de Usuarios de Telefonía Móvil.
+
+Para efectos de lo anterior se utilizarán medios digitales y se permitirán medios remotos, siempre que se garantice la veracidad e integridad de la información, conforme a las disposiciones administrativas de carácter general que emita el Instituto.
+
+Los concesionarios de telecomunicaciones y, en su caso, los autorizados, registrarán la información relativa a altas, bajas, y demás movimientos asociados a la línea telefónica móvil, que permitan mantener actualizado el Padrón Nacional de Usuarios de Telefonía Móvil.
+
+Los avisos a que se refiere el artículo 180 Ter, fracción X, de esta Ley se presentarán por los medios y en los plazos que se establezcan en las disposiciones administrativas de carácter general que emita el Instituto, considerando las tecnologías y métodos más modernos y de fácil utilización.
+
+En caso de que el aviso contenga datos equívocos o incongruentes con los asientos que obren en el Padrón Nacional de Usuarios de Telefonía Móvil, el Instituto prevendrá al concesionario de telecomunicaciones o, en su caso, al autorizado que haya presentado el aviso para que realice las aclaraciones respectivas, de conformidad con las disposiciones administrativas aplicables.
+
+El usuario titular del servicio que no reconozca como propio un número de línea telefónica móvil vinculado a su nombre o denominación social, podrá solicitar al Instituto, al concesionario de telefonía o, en su caso, al autorizado, la actualización de la información correspondiente o su baja del Padrón Nacional de Usuarios de Telefonía Móvil de conformidad con lo establecido en las disposiciones administrativas aplicables.
+
+La baja de un número de línea telefónica móvil en el Padrón Nacional de Usuarios de Telefonía Móvil no implica la eliminación del registro correspondiente, el registro del número asociado a dicha persona se mantendrá por un plazo de seis meses.
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2021)</small>
+
+Artículo 180 Sextus. El Instituto validará y corroborará la información del Padrón Nacional de Usuarios de Telefonía Móvil conforme a los sistemas y procedimientos informáticos que resulten aplicables y, en su caso, podrá solicitar a los concesionarios las aclaraciones pertinentes sobre los datos registrados.
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2021)</small>
+
+Artículo 180 Septimus. El Instituto habilitará los mecanismos de consulta para que cualquier persona física o moral que acredite fehacientemente su personalidad pueda consultar únicamente los números telefónicos que le están asociados.
+
+La información contenida en el Padrón Nacional de Usuarios de Telefonía Móvil a que se refiere el artículo 180 Bis será confidencial y reservada en términos de la Ley General de Transparencia y Acceso a la Información Pública, de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.
+
+Las autoridades de seguridad de procuración y administración de justicia, que conforme a las atribuciones previstas en sus leyes aplicables cuenten con la facultad expresa para requerir al Instituto los datos del Padrón Nacional de Usuarios de Telefonía Móvil, podrán acceder a la información correspondiente de acuerdo con lo establecido en los artículos 189 y 190 de esta Ley y demás disposiciones relativas.
+
+### Capítulo II. Del Sistema Nacional de Información de Infraestructura
 
 ###### Artículo 181.
 
@@ -2571,7 +2669,7 @@ El Instituto publicará en su página de Internet los bienes inmuebles que hayan
 
 ## TÍTULO OCTAVO. De la Colaboración con la Justicia
 
-### Capítulo I. De los Derechos de los Usuarios y sus Mecanismos de Protección
+### Capítulo Único. De las Obligaciones en materia de Seguridad y Justicia
 
 ###### Artículo 189.
 
@@ -2627,11 +2725,19 @@ Para efectos de lo anterior, los concesionarios deberán notificar a los titular
 
 V. Establecer procedimientos expeditos para recibir los reportes de los usuarios del robo o extravío de los equipos o dispositivos terminales móviles y para que el usuario acredite la titularidad de los servicios contratados. Dicho reporte deberá incluir, en su caso, el código de identidad de fabricación del equipo;
 
-VI. Realizar la suspensión del servicio de los equipos o dispositivos terminales móviles reportados como robados o extraviados, a solicitud del titular.
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE REFORMÓ ESTE ARTÍCULO EN LA FRACCIÓN VI, EN LA PORCIÓN NORMATIVA INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE ABRIL DE 2021)</small>
+
+VI. Realizar la suspensión del servicio de los equipos o dispositivos terminales móviles reportados como robados o extraviados, a solicitud del titular, Y REALIZAR EL AVISO CORRESPONDIENTE EN EL PADRÓN NACIONAL DE USUARIOS DE TELEFONÍA MÓVIL.
 
 Los concesionarios deberán celebrar convenios de colaboración que les permitan intercambiar listas de equipos de comunicación móvil reportados por sus respectivos clientes o usuarios como robados o extraviados, ya sea que los reportes se hagan ante la autoridad competente o ante los propios concesionarios;
 
-VII. Realizar el bloqueo inmediato de líneas de comunicación móvil que funcionen bajo cualquier modalidad reportadas por los clientes, utilizando cualquier medio, como robadas o extraviadas; así como realizar la suspensión inmediata del servicio de telefonía cuando así lo instruya la autoridad competente para hacer cesar la comisión de delitos, de conformidad con lo establecido en las disposiciones legales aplicables;
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE REFORMÓ ESTE ARTÍCULO EN LA FRACCIÓN VII, EN LAS PORCIONES NORMATIVAS INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2021)</small>
+
+VII. Realizar el bloqueo inmediato de líneas de comunicación móvil que funcionen bajo cualquier esquema de contratación reportadas por los titulares o propietarios, utilizando cualquier medio, como robadas o extraviadas, Y PROCEDER A REALIZAR EL AVISO CORRESPONDIENTE EN EL PADRÓN NACIONAL DE USUARIOS DE TELEFONÍA MÓVIL; así como, realizar la suspensión inmediata del servicio de telefonía móvil cuando así lo instruya EL INSTITUTO PARA EFECTOS DEL PADRÓN NACIONAL DE USUARIOS DE TELEFONÍA MÓVIL O la autoridad competente para hacer cesar la comisión de delitos, de conformidad con lo establecido en las disposiciones administrativas y legales aplicables;
 
 VIII. Colaborar con las autoridades competentes para que en el ámbito técnico operativo se cancelen o anulen de manera permanente las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen dentro del perímetro de centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación.
 
@@ -2659,7 +2765,7 @@ Con excepción de lo dispuesto en el párrafo anterior, se podrá instruir la fa
 
 ## TÍTULO NOVENO. De los usuarios
 
-### Capítulo II. De los Derechos de los Usuarios con Discapacidad
+### Capítulo I. De los Derechos de los Usuarios y sus Mecanismos de Protección
 
 ###### Artículo 191.
 
@@ -2779,7 +2885,7 @@ Lo mismo aplicará en tratándose de la transición o mejora tecnológica a la q
 
 Durante el tiempo que se haga uso, aprovechamiento o explotación del espectro radioeléctrico, al amparo de la autorización referida en este artículo, deberán pagarse las contraprestaciones y los derechos que correspondan.
 
-### Capítulo III. De las Tarifas a los Usuarios
+### Capítulo II. De los Derechos de los Usuarios con Discapacidad
 
 ###### Artículo 199.
 
@@ -2817,7 +2923,7 @@ El Ejecutivo Federal de conformidad con la Estrategia Digital Nacional y el Inst
 
 Para la definición de los lineamientos a cargo del Instituto en materia de accesibilidad para personas con discapacidad deberá atender a la normatividad y celebrar convenios con Instituciones públicas y privadas especializadas en la materia.
 
-### Capítulo IV. Conservación de los Números Telefónicos por los Abonados
+### Capítulo III. De las Tarifas a los Usuarios
 
 ###### Artículo 204.
 
@@ -2853,7 +2959,7 @@ IV. Abstenerse de celebrar acuerdos de exclusividad en la compra y venta de equi
 
 V. Abstenerse de celebrar contratos de exclusividad para puntos de venta y de distribución, incluyendo compra de tiempo aire, distintos a los del agente económico preponderante, que impidan u obstaculicen a otros concesionarios a acceder a dichos puntos de venta.
 
-### Capítulo Único. De la Cobertura Universal
+### Capítulo IV. Conservación de los Números Telefónicos por los Abonados
 
 ###### Artículo 209.
 
@@ -2865,7 +2971,7 @@ Los costos a que se refiere el párrafo anterior deberán estar orientados en fu
 
 ## TÍTULO DÉCIMO
 
-### Capítulo I. De la Competencia de las Autoridades
+### Capítulo Único. De la Cobertura Universal
 
 ###### Artículo 210.
 
@@ -2899,7 +3005,7 @@ Los programas de cobertura social y de conectividad en sitios públicos contará
 
 ## TÍTULO DÉCIMO PRIMERO. De los Contenidos Audiovisuales
 
-### Capítulo II. De los Contenidos
+### Capítulo I. De la Competencia de las Autoridades
 
 ###### Artículo 216.
 
@@ -3001,7 +3107,7 @@ El Ejecutivo Federal, por conducto de la dependencia facultada para ello, dará 
 
 El Instituto Nacional Electoral tendrá las atribuciones que se establecen en la Ley General de Instituciones y Procedimientos Electorales y demás disposiciones aplicables en la materia.
 
-### Capítulo III. De los Tiempos Gratuitos para el Estado
+### Capítulo II. De los Contenidos
 
 #### Sección I. Disposiciones Comunes
 
@@ -3251,7 +3357,7 @@ Los concesionarios de radiodifusión deberán aprovechar y estimular los valores
 
 A fin de promover la producción nacional y la producción nacional independiente, el Ejecutivo Federal impulsará medidas de financiamiento para estos sectores.
 
-### Capítulo IV. De los Derechos de las Audiencias
+### Capítulo III. De los Tiempos Gratuitos para el Estado
 
 #### Sección I. Tiempo del Estado
 
@@ -3291,7 +3397,7 @@ III. Los mensajes o cualquier aviso relacionado con embarcaciones o aeronaves en
 
 Todos los concesionarios de uso comercial, público y social que presten servicios de radiodifusión estarán obligados a encadenar las estaciones de radio y canales de televisión en el país cuando se trate de transmitir informaciones de trascendencia para la Nación, a juicio de la Secretaría de Gobernación.
 
-### Capítulo I. De la Preponderancia
+### Capítulo IV. De los Derechos de las Audiencias
 
 #### Sección I. De los Derechos
 
@@ -3435,7 +3541,7 @@ LA RECTIFICACIÓN, RECOMENDACIÓN O PROPUESTA DE ACCIÓN CORRECTIVA QUE PROPONGA
 
 ## TÍTULO DÉCIMO SEGUNDO. De la Regulación Asimétrica
 
-### Capítulo II. De las medidas de fomento a la competencia
+### Capítulo I. De la Preponderancia
 
 ###### Artículo 262.
 
@@ -3743,13 +3849,13 @@ VI. El Instituto autorizará a los agentes a que se refiere este artículo la pr
 
 Los agentes económicos preponderantes en el sector de las telecomunicaciones y en el sector de la radiodifusión, podrán participar en licitaciones de bandas de frecuencias del espectro radioeléctrico, siempre y cuando lo autorice el Instituto y se apeguen a los límites de acumulación de espectro radioeléctrico que al efecto determine.
 
-### Capítulo III. Del Poder Sustancial de Mercado
+### Capítulo II. De las medidas de fomento a la competencia
 
 ###### Artículo 278.
 
 Las medidas de fomento a la competencia en televisión, radio, telefonía y servicios de datos deberán aplicarse en todos los segmentos de forma que se garantice en su conjunto la competencia efectiva en la radiodifusión y telecomunicaciones.
 
-### Capítulo IV. De la Propiedad Cruzada
+### Capítulo III. Del Poder Sustancial de Mercado
 
 ###### Artículo 279.
 
@@ -3809,7 +3915,7 @@ Las obligaciones y limitaciones específicas tendrán por objeto que no se afect
 
 Los agentes económicos preponderantes en los sectores de radiodifusión o telecomunicaciones serán susceptibles de ser declarados con poder sustancial, y el Instituto podrá imponerles las obligaciones específicas que determine conforme a lo dispuesto en esta Ley.
 
-### Capítulo Único. De la Homologación
+### Capítulo IV. De la Propiedad Cruzada
 
 ###### Artículo 285.
 
@@ -3855,7 +3961,7 @@ En la resolución de desincorporación de activos, el Instituto deberá otorgar 
 
 ## TÍTULO DÉCIMO TERCERO
 
-### Capítulo Único. De la Verificación y Vigilancia
+### Capítulo Único. De la Homologación
 
 ###### Artículo 289.
 
@@ -3891,7 +3997,7 @@ El Instituto estará facultado para acreditar peritos en materia de telecomunica
 
 ## TÍTULO DÉCIMO CUARTO. Régimen de Verificación
 
-### Capítulo I. Disposiciones Generales
+### Capítulo Único. De la Verificación y Vigilancia
 
 ###### Artículo 291.
 
@@ -3939,7 +4045,7 @@ Para calcular el importe de las multas impuestas como medidas de apremio a razó
 
 ## TÍTULO DÉCIMO QUINTO. Régimen de Sanciones
 
-### Capítulo II. Sanciones en materia de Telecomunicaciones y Radiodifusión
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 297.
 
@@ -3957,7 +4063,7 @@ La Secretaría de Gobernación sancionará el incumplimiento de lo establecido e
 
 EL INSTITUTO SANCIONARÁ EL INCUMPLIMIENTO DE LOS TIEMPOS MÁXIMOS ESTABLECIDOS PARA LA TRANSMISIÓN DE MENSAJES COMERCIALES Y LO RELATIVO A LA MATERIA DE DERECHOS DE LAS AUDIENCIAS, ÚNICAMENTE CONFORME A LO DISPUESTO EN EL CAPÍTULO IV DE ESTE TÍTULO.
 
-### Capítulo III. Sanciones en materia de Contenidos Audiovisuales
+### Capítulo II. Sanciones en materia de Telecomunicaciones y Radiodifusión
 
 ###### Artículo 298.
 
@@ -4131,9 +4237,65 @@ Quien dañe, perjudique o destruya cualquiera de las vías generales de comunica
 
 Las sanciones que se señalan en este capítulo se aplicarán sin perjuicio de la responsabilidad civil o penal que resulte o, cuando proceda, la revocación de la concesión respectiva.
 
-### Capítulo IV. SANCIONES EN MATERIA DE TRANSMISIÓN DE MENSAJES COMERCIALES Y DERECHOS DE LAS AUDIENCIAS
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-### Capítulo Único. Medios de Impugnación
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE ABRIL DE 2021)</small>
+
+### Capítulo II Bis. Sanciones en materia del Padrón Nacional de Usuarios de Telefonía Móvil
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2021)</small>
+
+###### Artículo 307 Bis.
+
+Los concesionarios de telecomunicaciones o, en su caso, los autorizados, incurrirán en relación con el Padrón Nacional de Usuarios de Telefonía Móvil, en las infracciones siguientes:
+
+I. Efectuar extemporáneamente el registro de un número de línea telefónica móvil, excediendo los plazos previstos en las disposiciones administrativas de carácter general;
+
+II. No registrar un número de línea telefónica móvil;
+
+III. No registrar las modificaciones o presentar los avisos que actualicen la información de un registro, a que se refiere el artículo 180 Ter de esta Ley;
+
+IV. Hacer uso indebido de las constancias, documentos y demás medios de identificación, relacionados con el registro de un número de línea telefónica móvil;
+
+V. Alterar, omitir, simular o permitir registros o avisos en forma ilícita, registrar datos falsos, proporcionar información falsa o facilitar información a usuarios o terceros que no tengan derecho, acceder sin autorización a la información del Padrón Nacional de Usuarios de Telefonía Móvil o no denunciar alguna irregularidad teniendo la obligación de hacerlo, y
+
+VI. Hacer uso de la información, documentos o comprobantes del Padrón Nacional de Usuarios de Telefonía Móvil, para obtener un lucro indebido, directamente o por interpósita persona.
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2021)</small>
+
+###### Artículo 307 Ter.
+
+A quien cometa las infracciones a que se refiere el artículo anterior, se le impondrán las multas siguientes:
+
+I. De 20 a 50 Unidades de Medida y Actualización, a la comprendida en la fracción I;
+
+II. De 500 a 1,000 Unidades de Medida y Actualización, a las referidas en las fracciones II y III;
+
+III. De 2,000 a 4,000 Unidades de Medida y Actualización, a la prevista en la fracción IV;
+
+IV. De 10,000 a 15,000 Unidades de Medida y Actualización, a la señalada en la fracción V, y
+
+V. De dos a tres veces el lucro indebido obtenido para la comprendida en la fracción VI.
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2021)</small>
+
+###### Artículo 307 Quáter.
+
+La aplicación de las sanciones a que se refiere este Título, se hará considerando las circunstancias en que se cometió la infracción, así como la capacidad económica del infractor. Dichas sanciones no lo liberan del cumplimiento de las obligaciones que establece esta Ley, y se aplicarán sin perjuicio de la responsabilidad administrativa, civil o penal que le resulte.
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2021)</small>
+
+Artículo 307 Quintus. Para la determinación y cuantificación de las multas a que se refiere este Capítulo se aplicará lo dispuesto en el presente Título.
+
+### Capítulo III. Sanciones en materia de Contenidos Audiovisuales
 
 ###### Artículo 308.
 
@@ -4173,6 +4335,8 @@ Para la determinación y cuantificación de las multas a que se refiere este cap
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE OCTUBRE DE 2017)</small>
 
+### Capítulo IV. SANCIONES EN MATERIA DE TRANSMISIÓN DE MENSAJES COMERCIALES Y DERECHOS DE LAS AUDIENCIAS
+
 ###### Artículo 311.
 
 Corresponde al Instituto sancionar conforme a lo siguiente:
@@ -4198,6 +4362,8 @@ En el supuesto de que haya cumplimiento espontáneo del concesionario o del defe
 En caso de que se trate de la primera infracción, el Instituto amonestará al infractor por única ocasión.
 
 ## TÍTULO DÉCIMO SEXTO
+
+### Capítulo Único. Medios de Impugnación
 
 ###### Artículo 312.
 
@@ -4568,3 +4734,41 @@ D.O.F. 11 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN IV AL INCISO A) Y SE DEROGA LA FRACCIÓN IV DEL INCISO B) DEL ARTÍCULO 298 DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS A LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL DIECISÉIS DE ABRIL DE DOS MIL VEINTIUNO, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+D.O.F. 16 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN”.]
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ EL ARTÍCULO PRIMERO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Primero. EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN.
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ EL ARTÍCULO SEGUNDO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Segundo. EL INSTITUTO FEDERAL DE TELECOMUNICACIONES REALIZARÁ LAS ACCIONES NECESARIAS PARA QUE LAS EROGACIONES QUE SE GENEREN CON MOTIVO DE INSTALAR, OPERAR, REGULAR Y MANTENER EL PADRÓN NACIONAL DE USUARIOS DE TELEFONÍA MÓVIL, SE REALICEN CON CARGO A SU PRESUPUESTO APROBADO EN EL PRESENTE EJERCICIO FISCAL Y SUBSECUENTES.
+
+LOS CONCESIONARIOS DE TELECOMUNICACIONES Y, EN SU CASO, LOS AUTORIZADOS SERÁN RESPONSABLES DE CUBRIR SUS COSTOS DE IMPLEMENTACIÓN, MANTENIMIENTO Y OPERACIÓN, INCLUYENDO LOS DE CONECTIVIDAD A LOS SERVIDORES DEL PADRÓN NACIONAL DE USUARIOS DE TELEFONÍA MÓVIL.
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ EL ARTÍCULO TERCERO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Tercero. EL INSTITUTO FEDERAL DE TELECOMUNICACIONES, DENTRO DE LOS CIENTO OCHENTA DÍAS NATURALES SIGUIENTES A LA EXPEDICIÓN DEL PRESENTE DECRETO, DEBERÁ EMITIR LAS DISPOSICIONES ADMINISTRATIVAS DE CARÁCTER GENERAL A QUE SE REFIERE EL PRESENTE DECRETO.
+
+LA NO EMISIÓN DE LAS DISPOSICIONES DE CARÁCTER GENERAL EN EL PLAZO REFERIDO EN EL PÁRRAFO ANTERIOR, DARÁ MOTIVO A RESPONSABILIDAD ADMINISTRATIVA PARA LOS INTEGRANTES DEL ÓRGANO DE GOBIERNO DEL INSTITUTO, DE CONFORMIDAD CON LO DISPUESTO POR LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS.
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ EL ARTÍCULO CUARTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Cuarto. EN EL CASO DEL REGISTRO DE LÍNEAS TELEFÓNICAS MÓVILES, EN CUALQUIERA DE SUS MODALIDADES, ADQUIRIDAS CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, LOS CONCESIONARIOS DE TELECOMUNICACIONES Y, EN SU CASO, LOS AUTORIZADOS, CONTARÁN CON UN PLAZO DE DOS AÑOS A PARTIR DE SU PUBLICACIÓN PARA CUMPLIR CON LAS OBLIGACIONES DE REGISTRO A QUE SE REFIERE EL PRESENTE DECRETO.
+
+EL GOBIERNO FEDERAL, A TRAVÉS DE LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTES Y EL INSTITUTO FEDERAL DE TELECOMUNICACIONES, ASÍ COMO LOS CONCESIONARIOS DE TELECOMUNICACIONES Y, EN SU CASO, LOS AUTORIZADOS, DURANTE EL PLAZO DE DOS AÑOS A QUE HACE REFERENCIA EL PÁRRAFO ANTERIOR, DEBERÁN REALIZAR UNA CAMPAÑA DE INFORMACIÓN DIRIGIDA A SUS CLIENTES, CON LA ANTICIPACIÓN QUE LES PERMITA CUMPLIR CON SU OBLIGACIÓN DE REGISTRAR Y ACTUALIZAR SUS DATOS. PARA TAL EFECTO LOS USUARIOS DEBERÁN PRESENTAR ANTE EL CONCESIONARIO O AUTORIZADO DE QUE SE TRATE LA TARJETA SIM, ASÍ COMO LA DOCUMENTACIÓN FEHACIENTE A QUE HACE REFERENCIA EL ARTÍCULO 180 TER DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN O A TRAVÉS DE LOS MEDIOS TECNOLÓGICOS QUE FACILITEN A LOS USUARIOS EL REGISTRO. TAMBIÉN DEBERÁN SER INFORMADOS DE QUE, EN CASO DE NO REALIZAR DICHO TRÁMITE DENTRO DEL PLAZO SEÑALADO, SE LES CANCELARÁ LA PRESTACIÓN DEL SERVICIO RELACIONADO CON LA LÍNEA TELEFÓNICA MÓVIL DE QUE SE TRATE, SIN DERECHO A REACTIVACIÓN, PAGO O INDEMNIZACIÓN ALGUNA.
+
+TRANSCURRIDO EL PLAZO SEÑALADO PARA EL REGISTRO DE TITULARES O PROPIETARIOS DE LAS LÍNEAS TELEFÓNICAS MÓVILES, EL INSTITUTO SOLICITARÁ A LOS CONCESIONARIOS DE TELECOMUNICACIONES Y, EN SU CASO, A LOS AUTORIZADOS, LA CANCELACIÓN EN FORMA INMEDIATA DE AQUELLAS LÍNEAS DE TELEFONÍA MÓVIL, QUE NO HAYAN SIDO IDENTIFICADAS O REGISTRADAS POR LOS USUARIOS O CLIENTES.
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ EL ARTÍCULO QUINTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Quinto. LOS CONCESIONARIOS DE TELECOMUNICACIONES Y, EN SU CASO, LOS AUTORIZADOS, DEBERÁN REALIZAR EL REGISTRO DE LOS NUEVOS USUARIOS DE TELEFONÍA MÓVIL, CONFORME A LO PREVISTO EN EL PRESENTE DECRETO, TRANSCURRIDO EL PLAZO DE 6 MESES CONTADOS A PARTIR DE QUE EL INSTITUTO EMITA LAS DISPOSICIONES ADMINISTRATIVAS DE CARÁCTER GENERAL A QUE SE REFIERE EL PRESENTE DECRETO.
+
+(NOTA: EL 26 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021, DECLARÓ LA INVALIDEZ DE LA TOTALIDAD DEL SISTEMA NORMATIVO QUE INTEGRA EL DECRETO DE REFORMAS POR EL CUAL SE ADICIONÓ EL ARTÍCULO SEXTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Sexto. EL GOBIERNO FEDERAL, A TRAVÉS DE LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTES, LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA Y EL INSTITUTO FEDERAL DE TELECOMUNICACIONES, ASÍ COMO LOS CONCESIONARIOS DE TELECOMUNICACIONES, DEBERÁN REALIZAR CAMPAÑAS Y PROGRAMAS INFORMATIVOS A SUS CLIENTES O USUARIOS PARA INCENTIVAR LA OBLIGACIÓN DE DENUNCIAR EN FORMA INMEDIATA EL ROBO O EXTRAVÍO DE SUS EQUIPOS CELULARES O DE LAS TARJETAS DE SIM, ASÍ COMO PARA PREVENIR EL ROBO DE IDENTIDAD Y EL USO ILÍCITO DE LAS LÍNEAS TELEFÓNICAS MÓVILES, ASÍ COMO EN LOS CASOS QUE SE TRATE DE VENTA O CESIÓN DE UNA LÍNEA TELEFÓNICA MÓVIL.
