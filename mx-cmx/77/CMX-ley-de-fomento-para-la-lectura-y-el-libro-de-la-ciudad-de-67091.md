@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-para-la-lectura-y-el-libro-de-la-ciudad-de-67091
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2021-02-17"
+last_updated: "2021-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67091&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-02-25"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE ABRIL DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 4 de marzo de 2009.
 
@@ -282,6 +282,12 @@ X. Talleres, círculos literarios, libro clubes y cualesquiera otras medidas con
 
 Corresponde al ejecutivo de la Ciudad de México garantizar las políticas y estrategias que se establezcan en el plan global y programa de fomento a la lectura y el libro, así como impulsar la creación, edición, producción, difusión, venta y exportación del libro mexicano y de las coediciones mexicanas que satisfagan los requerimientos culturales y educativos en la ciudad en condiciones adecuadas de calidad, cantidad, precio único y variedad, procurando su presencia en todas las bibliotecas de la Ciudad de México, del país y en el exterior.
 
+> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2021)</small>
+
+###### Artículo 10 Bis.
+
+Corresponde a la persona titular de la Jefatura de Gobierno a través de la Secretaría, la celebración de convenios y acuerdos con dependencias de las distintas ramas y órdenes de gobierno tanto federal como local con el fin de diseñar, planear, coordinar, aplicar y fortalecer políticas, programas, proyectos y acciones de fomento a la lectura del libro y su conservación.
+
 > <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 11.
@@ -521,6 +527,14 @@ CUARTO. La Secretaría de Cultura de la Ciudad de México, a través de la Direc
 G.O. 17 DE FEBRERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 11 DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 16 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 10 BIS A LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO".]
 
 PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
