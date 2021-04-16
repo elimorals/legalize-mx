@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-fiscalia-general-del-estado-de-sinaloa-12332
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-08"
-last_updated: "2020-09-14"
+last_updated: "2021-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de septiembre de 2017.
 
@@ -97,9 +97,17 @@ XIII. Policía de Investigación: Agentes investigadores adscritos a la Fiscalí
 
 XIV. Policías: Los policías especializados en la investigación de delitos, así como aquellos que pertenezcan a las instituciones de seguridad pública del Estado o de los municipios, que en al ámbito de sus respectivas competencias actúen bajo el mando y conducción del Ministerio Público del Estado de Sinaloa, en la investigación de delitos competencia de éste;
 
-XV. Reglamento: Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Sinaloa; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-XVI. Servicios Periciales: Unidad de Servicios Periciales y los peritos que la integran.
+XV. Reglamento: Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Sinaloa;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+XVI. Servicios Periciales: Unidad de Servicios Periciales y los peritos que la integran; y
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+XVII. UIPE: Unidad de Inteligencia Patrimonial y Económica de la Fiscalía General del Estado de Sinaloa.
 
 ## TÍTULO II. DE LAS FACULTADES DEL MINISTERIO PÚBLICO
 
@@ -341,9 +349,15 @@ VIII. Direcciones Generales, Direcciones de Unidad, Ministerios Públicos y Peri
 
 IX. Los órganos auxiliares encargados de impartir educación superior, realizar investigación académica, contribuir en la formulación de políticas públicas en materia de justicia penal y seguridad pública, los cuales participan en la capacitación y formación ética y profesional del personal de la Fiscalía General;
 
-X. La Oficialía Mayor, órgano encargado de la administración de la Fiscalía General; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-XI. Los demás órganos o unidades creadas por mandato legal o que determine el Fiscal General en el Reglamento o en otras disposiciones de su normatividad interna.
+X. La Oficialía Mayor, órgano encargado de la administración de la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+XI. Unidad de Inteligencia Patrimonial y Económica; y
+
+XII. Los demás órganos o unidades creadas por mandato legal o que determine el Fiscal General en el Reglamento o en otras disposiciones de su normatividad interna.
 
 ###### Artículo 10.
 
@@ -797,13 +811,87 @@ Los acuerdos, circulares, instructivos, lineamientos, manuales y demás normas a
 
 Las Fiscalías Especializadas en el desarrollo de las acciones de investigación y persecución de los delitos, sus atribuciones, así como demás procedimientos, se sujetarán a lo que expresamente establecen las Leyes Generales de la materia de su competencia, al Código Nacional de Procedimientos Penales, asimismo a la demás legislación aplicable.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ABRIL DE 2021)</small>
+
+## TÍTULO IV BIS. DE LA UNIDAD DE INTELIGENCIA PATRIMONIAL Y ECONÓMICA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE ABRIL DE 2021)</small>
+
+### CAPÍTULO ÚNICO. UNIDAD DE INTELIGENCIA PATRIMONIAL Y ECONÓMICA
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+Artículo 23 Bis D. La Unidad de Inteligencia Patrimonial y Económica será responsable de identificar y prevenir Operaciones con Recursos de Procedencia Ilícita y sus ilícitos relacionados desde la óptica científica de la investigación, mediante el establecimiento de sistemas eficientes y eficaces que permitan la obtención de primera mano de la información patrimonial, fiscal y económica, principalmente, existente en las instancias locales y la transformación de ésta en información de inteligencia.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+Artículo 23 Bis E. Toda dependencia administrativa y sus titulares en el Estado de Sinaloa coadyuvarán con la UIPE, con el propósito de dar cumplimiento a las atribuciones impuestas en la presente ley y la normativa que emane de ella.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+Artículo 23 Bis F. La persona titular de la UIPE, será nombrada y removida libremente por el Fiscal General. Para su designación se requerirá:
+
+I. Cumplir con los requisitos señalados en el artículo 42 de la presente ley;
+
+II. Contar con por lo menos tres años de experiencia profesional relacionada con las áreas penal, fiscal o financiera, o una combinación de ellas; y
+
+III. Aprobar los procesos de evaluación, que prevea el Reglamento.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+Artículo 23 Bis G. Para el ejercicio y cumplimiento de sus funciones, la UIPE contará con el personal en materia de análisis, investigación e inteligencia necesarios.
+
+La UIPE deberá tener su sede en el Municipio de Culiacán Rosales y contará con competencia para ejercer sus atribuciones en todo el Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+Artículo 23 Bis H. En el cumplimiento de sus atribuciones, la Unidad de Inteligencia Patrimonial y Económica gozará de autonomía técnica y de gestión y contará con las siguientes facultades:
+
+I. Recabar, generar, explotar, analizar y diseminar información patrimonial, económica y fiscal; así como cualquier otra que se pudiera proporcionar de utilidad para la prevención y detección de Operaciones con Recursos de Procedencia Ilícita y sus ilícitos relacionados;
+
+II. Generar productos de inteligencia para el combate y la afectación a las finanzas de la delincuencia;
+
+III. Requerir a las dependencias administrativas, órganos desconcentrados, delegaciones y entidades de la administración pública estatal y municipal la información y documentación necesaria para el ejercicio de sus atribuciones;
+
+IV. Denunciar ante el Ministerio Público competente de los hechos que puedan constituir delitos en materia de operaciones con recursos de procedencia ilícita y sus delitos relacionados, así como constituirse en su coadyuvante. Lo anterior, sin perjuicio de las denuncias de hechos e información que pueda presentar a la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público;
+
+V. Presentar la información que corresponda ante la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público;
+
+VI. Tramitar y resolver, en el ámbito de su competencia, los requerimientos de autoridades judiciales, administrativas o ministeriales que se le realicen;
+
+VII. Denunciar o presentar vista según corresponda, ante las autoridades competentes, cuando en el ejercicio de sus funciones conozca de la probable comisión de conductas susceptibles de ser investigadas por dichas instancias. Lo anterior, sin perjuicio de la información y documentación que la UIPE esté obligada a proporcionar a la Fiscalía General del Estado;
+
+VIII. Generar informes, reportes estadísticos y mapas que identifiquen factores de riesgo, así como patrones inusuales que permitan prevenir, detectar y combatir el delito de Operaciones con Recursos de Procedencia Ilícita y sus ilícitos relacionados, los cuales deberán remitirse periódicamente a la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público;
+
+IX. Emitir lineamientos para el procesamiento, manejo y conservación de la información, atendiendo su naturaleza o su riesgo; así como vigilar y fomentar las políticas de seguridad de conformidad con la normatividad aplicable;
+
+X. Definir mecanismos de coordinación e intercambio de información para el cumplimiento de sus atribuciones, así como celebrar e implementar acuerdos o convenios con instancias del orden federal, estatal y municipal;
+
+XI. Desarrollar o proponer el diseño e implementación de sistemas informáticos necesarios para el desarrollo de sus funciones;
+
+XII. Establecer estrategias de atención y colaboración en el ámbito de su competencia;
+
+XIII. Desarrollar e implementar proyectos de operación e investigación tecnológica, que permitan auxiliar en la investigación y persecución de los delitos;
+
+XIV. Establecer mecanismos y sistemas de consulta directa de información fiscal, económica, contable y de diversa índole, que pueda estar relacionada con la materia de su competencia, con las autoridades correspondientes;
+
+XV. Desarrollar, con la Policía de Investigación las herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación, los sistemas de información y sistematización necesarios para el ejercicio de sus atribuciones, así como las bases estadísticas de los fenómenos delictivos de su competencia;
+
+XVI. Emitir recomendaciones de medidas para prevenir y detectar actos delictivos, particularmente aquellos vinculados con uso y actos con operaciones (sic) con recursos de procedencia ilícita; y
+
+XVII. Todas aquellas que sean necesarias para el ejercicio de sus facultades y atribuciones que le atribuyan los reglamentos y disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+Artículo 23 Bis I. La información, datos o documentos derivados de la investigación realizada por la UIPE, tendrán carácter confidencial o reservado, según corresponda, en términos de la legislación en la materia.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+Artículo 23 Bis J. La persona titular de la UIPE, así como todo el personal adscrito a la misma, deberá contar con las evaluaciones de control de confianza vigentes.
+
 ## TÍTULO V. DEL CONSEJO CONSULTIVO DE LA FISCALÍA GENERAL
 
 ### CAPÍTULO ÚNICO. DEL CONSEJO CONSULTIVO
-
-## TÍTULO VI. DE LAS OBLIGACIONES DE LAS AUTORIDADES CON EL MINISTERIO PÚBLICO
-
-### CAPÍTULO I. DE LA COLABORACIÓN E INTERCAMBIO DE INFORMACIÓN
 
 ###### Artículo 24.
 
@@ -903,9 +991,9 @@ VIII. Por iniciar el desempeño de un encargo público gubernamental.
 
 El Consejo Consultivo a través de su Presidente hará del conocimiento del Congreso del Estado alguna de tales circunstancias, quien resolverá lo conducente.
 
-## TÍTULO VII. DE LA CAPACITACIÓN, FORMACIÓN Y SERVICIO DE CARRERA EN LA FISCALÍA GENERAL
+## TÍTULO VI. DE LAS OBLIGACIONES DE LAS AUTORIDADES CON EL MINISTERIO PÚBLICO
 
-### CAPÍTULO II. DE LA PRESERVACIÓN Y CUSTODIA DEL LUGAR DE LOS HECHOS O DEL HALLAZGO
+### CAPÍTULO I. DE LA COLABORACIÓN E INTERCAMBIO DE INFORMACIÓN
 
 ###### Artículo 32.
 
@@ -937,7 +1025,7 @@ El Fiscal General y las autoridades a que se refiere el presente artículo podr�
 
 Los servidores públicos que contravengan lo dispuesto en el presente Capítulo serán sujetos de responsabilidad administrativa y/o penal que corresponda, y se dará vista a la autoridad competente.
 
-### CAPÍTULO I. DE LA CAPACITACIÓN, FORMACIÓN ÉTICA Y PROFESIONAL DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
+### CAPÍTULO II. DE LA PRESERVACIÓN Y CUSTODIA DEL LUGAR DE LOS HECHOS O DEL HALLAZGO
 
 ###### Artículo 36.
 
@@ -959,9 +1047,9 @@ El Ministerio Público o la Policía de Investigación examinarán las actuacion
 
 Los agentes del Ministerio Público, de la Policía de Investigación y peritos no podrán ser coartados, ni impedidos en el ejercicio de sus funciones por ninguna autoridad pública, en consecuencia, las autoridades estatales y municipales, les prestarán sin demora la colaboración que requieran para el mejor cumplimiento de sus funciones.
 
-## TÍTULO VIII. DE LAS RESPONSABILIDADES Y OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
+## TÍTULO VII. DE LA CAPACITACIÓN, FORMACIÓN Y SERVICIO DE CARRERA EN LA FISCALÍA GENERAL
 
-### CAPÍTULO II. DEL SERVICIO DE CARRERA
+### CAPÍTULO I. DE LA CAPACITACIÓN, FORMACIÓN ÉTICA Y PROFESIONAL DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
 
 ###### Artículo 37.
 
@@ -979,7 +1067,7 @@ Los agentes del Ministerio Público, policías de investigación y peritos que a
 
 Sin perjuicio de otros requisitos previstos en las disposiciones aplicables, para desempeñarse como Ministerio Público, policías de investigación y peritos de la Fiscalía General será necesario contar con la certificación y registro vigente.
 
-### CAPÍTULO III. DEL MINISTERIO PÚBLICO Y SUS AUXILIARES
+### CAPÍTULO II. DEL SERVICIO DE CARRERA
 
 ###### Artículo 40.
 
@@ -1115,7 +1203,7 @@ c) Los demás requisitos que establezcan las disposiciones aplicables.
 
 Los agentes del Ministerio Público, policías de investigación y peritos además de los requisitos señalados en la presente disposición respectivamente, deberán cumplir con los que establezcan la Ley General del Sistema Nacional de Seguridad Pública y las disposiciones que al efecto emita el Fiscal General. La pérdida de la confianza o el incumplimiento a alguno de los demás requisitos de ingreso o permanencia tendrá como consecuencia la separación del cargo de los servidores públicos involucrados, de conformidad con el procedimiento previsto en la presente Ley, el cual será instruido y resuelto por los órganos que determine el Reglamento y sus resoluciones serán definitivas e inatacables, por lo que en su contra sólo procederá el juicio de amparo.
 
-### CAPÍTULO IV. DE LA POLICÍA DE INVESTIGACIÓN
+### CAPÍTULO III. DEL MINISTERIO PÚBLICO Y SUS AUXILIARES
 
 ###### Artículo 45.
 
@@ -1127,7 +1215,7 @@ Desde las Vicefiscalías hasta las direcciones generales son mandos superiores, 
 
 Se exceptúan del carácter de agentes del Ministerio Público, los titulares y el personal de las áreas administrativas del órgano encargado de la administración del patrimonio de la Fiscalía General, de las áreas que aplican mecanismos alternativos de solución de controversias, los Servicios Periciales y la Policía de Investigación.
 
-### CAPÍTULO V. DE LOS SERVICIOS PERICIALES
+### CAPÍTULO IV. DE LA POLICÍA DE INVESTIGACIÓN
 
 ###### Artículo 46.
 
@@ -1191,7 +1279,7 @@ XXII. Brindar la custodia y protección a las personas y bienes que indique el F
 
 XXIII. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
-### CAPÍTULO VI. DE LA ATENCIÓN EN MATERIA DE JUSTICIA RESTAURATIVA
+### CAPÍTULO V. DE LOS SERVICIOS PERICIALES
 
 ###### Artículo 47.
 
@@ -1241,7 +1329,7 @@ La vigencia de la certificación que emita será de tres años, misma que podrá
 
 Las certificaciones a que se refiere este artículo, serán autorizadas por el titular de los Servicios Periciales.
 
-### CAPÍTULO I. DEL ÓRGANO INTERNO DE CONTROL
+### CAPÍTULO VI. DE LA ATENCIÓN EN MATERIA DE JUSTICIA RESTAURATIVA
 
 ###### Artículo 50.
 
@@ -1253,9 +1341,9 @@ Los servidores públicos de las Unidades de Atención Inmediata ejercerán las a
 
 Los facilitadores serán certificados en términos de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal y demás normatividad aplicable.
 
-## TÍTULO IX. DEL PATRIMONIO Y PRESUPUESTO DE LA FISCALÍA GENERAL
+## TÍTULO VIII. DE LAS RESPONSABILIDADES Y OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
 
-### CAPÍTULO II. DE LAS OBLIGACIONES
+### CAPÍTULO I. DEL ÓRGANO INTERNO DE CONTROL
 
 ###### Artículo 51.
 
@@ -1359,7 +1447,7 @@ XXI. Las demás que le confieran otros ordenamientos.
 
 Los servidores públicos adscritos al órgano interno de control de la Fiscalía General y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
 
-### CAPÍTULO III. DE LAS SANCIONES Y MEDIDAS DISCIPLINARIAS
+### CAPÍTULO II. DE LAS OBLIGACIONES
 
 ###### Artículo 59.
 
@@ -1443,7 +1531,7 @@ El personal operativo deberá abstenerse de tramitar o intervenir como abogado, 
 
 El incumplimiento de las obligaciones a que se refiere este Capítulo, dará lugar a las sanciones que correspondan, las que serán impuestas después de haberse tramitado el procedimiento que se determine en el Reglamento y demás disposiciones aplicables.
 
-### CAPÍTULO I. DEL PATRIMONIO
+### CAPÍTULO III. DE LAS SANCIONES Y MEDIDAS DISCIPLINARIAS
 
 ###### Artículo 63.
 
@@ -1487,7 +1575,9 @@ IV. De interponerse el recurso ante la autoridad que lo emitió, resolverá el V
 
 V. Se llevarán conforme a las disposiciones legales aplicables como en términos del Reglamento.
 
-### CAPÍTULO II. DEL PRESUPUESTO
+## TÍTULO IX. DEL PATRIMONIO Y PRESUPUESTO DE LA FISCALÍA GENERAL
+
+### CAPÍTULO I. DEL PATRIMONIO
 
 ###### Artículo 66.
 
@@ -1505,7 +1595,7 @@ V. Los bienes que le correspondan de conformidad con la legislación aplicable, 
 
 VI. Los demás que determinen las disposiciones aplicables.
 
-### CAPÍTULO III. DEL FONDO DE PROCURACIÓN DE JUSTICA
+### CAPÍTULO II. DEL PRESUPUESTO
 
 ###### Artículo 67.
 
@@ -1518,6 +1608,8 @@ El ejercicio del presupuesto de la Fiscalía General se ejercerá en términos d
 ###### Artículo 69.
 
 El presupuesto de la Fiscalía General será utilizado para gasto corriente, proyectos de inversión, adquisición de bienes, servicios e inmuebles, así como en los demás fines que sean necesarios para el adecuado ejercicio de sus atribuciones, facultades y funciones.
+
+### CAPÍTULO III. DEL FONDO DE PROCURACIÓN DE JUSTICA
 
 ###### Artículo 70.
 
@@ -1722,3 +1814,25 @@ P.O. 14 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 501 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA".]
 
 ÚNICO. - El presente Decreto entrará en vigor al día siguiente de publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 16 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 600 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA Y ADICIONA LA SECCIÓN SÉPTIMA DENOMINADA "DELITOS CON RECURSOS DE PROCEDENCIA ILÍCITA", CONFORMADA CON EL TÍTULO ÚNICO DENOMINADO "OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA", CON UN CAPÍTULO ÚNICO DENOMINADO "OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA", CON LOS ARTÍCULOS 376 Y 377 AL LIBRO SEGUNDO, PARTE ESPECIAL DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+La Unidad de Inteligencia Patrimonial y Económica creada mediante el acuerdo 04/2020, publicado en el Periódico Oficial "El Estado de Sinaloa", de fecha 8 de Junio de 2020, continuará en funciones en tanto no se oponga al presente Decreto. El nombramiento de su titular, de conformidad con el mencionado acuerdo, seguirá vigente de cumplir los requisitos previstos en el artículo 23 Bis F, de la Ley Orgánica de la Fiscalía General del Estado de Sinaloa.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Administración y Finanzas del Estado de Sinaloa, deberá integrar en el presupuesto de egresos inmediato siguiente a la entrada en vigor y publicación en el Periódico Oficial "El Estado de Sinaloa", del presente decreto, los recursos necesarios para el cumplimiento de los fines de la Unidad de Inteligencia Patrimonial y Económica.
+
+En un término máximo de 60 días después de la entrada en vigor y publicación en el Periódico Oficial "El Estado de Sinaloa" del presente Decreto el Fiscal General deberá hacer llegar al titular de la Secretaría de Administración y Finanzas del Estado de Sinaloa una solicitud de presupuesto para la Unidad de Inteligencia Patrimonial y Económica, la cual deberá contener una explicación detallada que justifique los recursos que requiere la Unidad de Inteligencia Patrimonial y Económica para su correcto funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+Dentro del lapso de 180 días posteriores al del inicio de la vigencia del presente Decreto, la Fiscalía deberá adecuar su Reglamento para establecer las funciones y competencias de la estructura y demás áreas que se creen para el funcionamiento de la Unidad de Inteligencia Patrimonial y Económica, así como expedir los manuales de organización, procedimientos y servicios de la misma.
