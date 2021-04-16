@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2021-04-13"
+last_updated: "2021-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -110,6 +110,10 @@ El Estado respeta, reconoce, protege y garantiza el derecho a la vida de todo se
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
 Las autoridades del Estado salvaguardarán el régimen de los derechos y libertades de todas las personas, por el sólo hecho de encontrarse en el territorio estatal. Los Derechos humanos no podrán ser limitados o restringidos; en su interpretación se resolverá siempre a favor del gobernado, además garantizarán el ejercicio de la Justicia Cotidiana, entendiéndose ésta como las instituciones, procedimientos e instrumentos, orientados a dar solución a los conflictos que genera la convivencia diaria en una sociedad democrática.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+A efecto de consolidar el desarrollo económico y social del Estado de Querétaro de manera integral y sustentable, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, implementarán de manera continua, coordinada y permanente, la política de mejora regulatoria para la simplificación de regulaciones, trámites y servicios, así como los demás objetivos que establezcan los ordenamientos en la materia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -1928,3 +1932,11 @@ Artículo Segundo. En tanto se instituyen e inician operaciones los Tribunales L
 Artículo Tercero. Las autoridades competentes y la Junta de Conciliación y Arbitraje deberán transferir los expedientes y documentación que, en el ámbito de sus respectivas competencias, tengan bajo su atención o resguardo, al Centro Federal de Conciliación y Registro Laboral, en términos de lo previsto en los Transitorios de la reforma a la Ley Federal del Trabajo publicada el 1o. de mayo de 2019 en el Diario Oficial de la Federación.
 
 Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 16 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 2 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
