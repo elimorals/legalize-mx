@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2020-12-28"
+last_updated: "2021-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -853,6 +853,12 @@ Las cooperativas que funcionen con la participación de la comunidad educativa t
 
 La autoridad educativa estatal y municipal, de acuerdo con la suficiencia presupuestal, impulsarán programas alimentarios para los educandos a partir de microempresas locales, en escuelas ubicadas en zonas conforme a los índices de pobreza, alta marginación y vulnerabilidad social.
 
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+###### Artículo 72 Bis.
+
+El incumplimiento o inobservancia a las disposiciones contenidas en el presente Capítulo, se considerarán acciones u omisiones contrarias al interés superior de la niñez.
+
 ### Capítulo III. De la Cultura de la Paz, Convivencia Democrática en las Escuelas y Entornos Escolares Libres de Violencia
 
 ###### Artículo 73.
@@ -1660,3 +1666,11 @@ GOBERNADOR DEL ESTADO
 AMADOR RODRÍGUEZ LOZANO
 
 SECRETARIO GENERAL DE GOBIERNO
+
+P.O. 16 DE ABRIL DE 2021.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 213 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 48 BIS DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA REFORMA DE LOS ARTÍCULOS 24 Y 106 BIS DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, ASIMISMO SE APRUEBA LA ADICIÓN DEL ARTÍCULO 72 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
