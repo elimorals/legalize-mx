@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2020-12-01"
+last_updated: "2021-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -689,6 +689,10 @@ El desarrollo de las sesiones del Ayuntamiento, se hará constar por el Secretar
 
 En los demás casos, bastará que los documentos relativos al asunto tratado, se agreguen al apéndice del libro o folios de actas.
 
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+Además, para su registro oficial y preservación en los archivos históricos, los Ayuntamientos deberán llevar un registro de audio, video y trascripción estenográfica del trabajo que se realiza en las sesiones.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 59.
@@ -1262,6 +1266,26 @@ V.- Deberán sesionar en forma pública y se deberá llevar registro audiovisual
 Cuando, por algún motivo grave, faltare uno o más miembros de alguna comisión, se procederá inmediatamente al nombramiento de los que deban sustituirlos mientras dure la causa que hubiere motivado la separación, y al efecto, el Ayuntamiento se reunirá para hacer los nombramientos que correspondan.
 
 Si uno o más integrantes de alguna comisión tuvieren interés personal o estuvieren impedidos legalmente en asuntos de su competencia, se dará cuenta al Ayuntamiento para que éste proceda a su sustitución, sólo para ese efecto.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+###### ARTICULO 82 Bis.
+
+Las comisiones, por conducto de su Presidente, podrán solicitar a las dependencias y entidades del Ayuntamiento, todos los datos y documentos que estimen convenientes para el despacho de los asuntos de su competencia, siempre y cuando se trate de información relativa a la propuesta por dictaminar y se garantice su adecuado tratamiento de conformidad con las normas en materia de transparencia y protección de datos personales.
+
+En caso de negativa o demora para proporcionar la información a que refiere el párrafo anterior, se comunicará al Presidente Municipal a fin de que por su conducto se ordene lo conducente. En caso de continuar la negativa, se dará vista al órgano interno de control.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+###### ARTICULO 82 Ter.
+
+Las comisiones podrán también, para ilustrar su opinión en el despacho de los asuntos que se les encomienden, solicitar se autorice la comparecencia ante ellas de los titulares de las dependencias y entidades municipales. Podrán, asimismo, invitar a dichos funcionarios municipales para obtener mayor información y sustento en sus análisis, si fuere el caso.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+###### ARTICULO 82 Quáter.
+
+Para el mejor despacho de los asuntos de su competencia, las comisiones podrán emitir acuerdos de trámite respecto de cuestiones que no requieran aprobación del Ayuntamiento así como presidir y organizar foros u otras actividades de consulta, de conformidad con los programas que al efecto emitan.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, SE REFORMA LA ESTRUCTURA DEL PRESENTE TÍTULO.</small>
 
@@ -3761,9 +3785,11 @@ La aprobación, en su caso, de un proyecto reglamentario se tomará por la mayor
 
 La publicación es el acto de difusión y transcripción literal del reglamento para su conocimiento y vigencia dentro de la jurisdicción municipal, y deberá proceder del acta de Cabildo, correspondiéndole hacerla al Presidente Municipal con la certificación de quien ocupe la titularidad de la Secretaría.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTICULO 234.
 
-Los reglamentos, circulares, disposiciones administrativas y acuerdos expedidos por los Ayuntamientos, así como los demás documentos de carácter municipal que conforme a la ley deban ser publicados o cuya naturaleza sea de interés general, deberán publicarse en bandos solemnes y en las gacetas municipales de cada Ayuntamiento; podrá también publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, pero invariablemente se garantizará que su distribución se realice en todas las poblaciones del municipio.
+Los reglamentos, circulares, disposiciones administrativas y acuerdos expedidos por los Ayuntamientos, así como los demás documentos de carácter municipal que conforme a la ley deban ser publicados o cuya naturaleza sea de interés general, para su validez deberán publicarse en bandos solemnes o en las gacetas municipales de cada Ayuntamiento según corresponda; a consideración del Cabildo, podrá también publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, pero invariablemente se garantizará que su distribución se realice en todas las poblaciones del municipio.
 
 TÍTULO DECIMOSEPTIMO
 
@@ -4432,5 +4458,15 @@ P.O. 1 DE DICIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO.- Los Ayuntamientos del Estado de Nayarit, a partir de la entrada en vigor del presente Decreto, en un plazo no mayor de sesenta días naturales, deberán realizar las reformas y adecuaciones a los reglamentos correspondientes, a fin de armonizarlos con lo dispuesto en el presente Decreto.
+
+TERCERO.- Comuníquese el presente Decreto, a los veinte Ayuntamientos del Estado de Nayarit, para los efectos conducentes.
+
+P.O. 16 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Los Ayuntamientos del Estado de Nayarit, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán realizar las reformas y adecuaciones a los reglamentos correspondientes, a fin de armonizarlos con lo dispuesto en el presente Decreto.
 
 TERCERO.- Comuníquese el presente Decreto, a los veinte Ayuntamientos del Estado de Nayarit, para los efectos conducentes.
