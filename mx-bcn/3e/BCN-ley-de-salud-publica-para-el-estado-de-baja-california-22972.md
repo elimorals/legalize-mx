@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2020-12-30"
+last_updated: "2021-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -671,9 +671,9 @@ II.- Las actividades recreativas, de esparcimiento y culturales destinadas a for
 
 III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-IV.- La supervisión de la calidad nutricional de los alimentos que se proporcionan o venden a los niños y adolescentes en las instituciones educativas de los niveles básico y media superior de conformidad a lo dispuesto en las Normas Oficiales Mexicanas, a fin de evitar aquellos, que a criterio de la propia Secretaría de Salud del Estado, causen daño a la salud ya sea por su contenido o por las prácticas de higiene y sanidad en su preparación, de conformidad con los lineamientos que en la materia se expidan; y
+IV.- La supervisión de la calidad nutricional de los alimentos y bebidas que se proporcionan o venden a los niños y adolescentes en las instituciones educativas de los niveles básico y media superior de conformidad a lo dispuesto en las Normas Oficiales Mexicanas, a fin de evitar aquellos, que a criterio de la propia Secretaría de Salud del Estado, causen daño a la salud ya sea por su contenido o por las prácticas de higiene y sanidad en su preparación, de conformidad con los lineamientos que en la materia se expidan; y,
 
 V.- Las demás que coadyuven a la protección de la salud materno-infantil.
 
@@ -1916,6 +1916,10 @@ ARTÍCULO 106 BIS.- Las autoridades sanitarias, promoverán en el Estado, el pro
 I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicadores de las medidas básicas a toda persona interesada.
 
 II.- La detección y tratamiento de las enfermedades cardiovasculares, obesidad y diabetes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE ABRIL DE 2021)</small>
+
+La autoridad sanitaria en el ámbito de su competencia y conforme a su disponibilidad financiera, vigilará el cumplimiento y aplicación de estas medidas en sectores vulnerables especialmente en niñas y niños menores de 12 años, en las instituciones educativas de los niveles básicos y media superior de conformidad a lo dispuesto en las Normas Oficiales Mexicanas.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
 
@@ -3704,3 +3708,9 @@ P.O. 30 DE DICIEMBRE DE 2020.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- El Ejecutivo del Estado dará cumplimiento al presente Decreto de conformidad con la viabilidad financiera disponible
+
+P.O. 16 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 213 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 48 BIS DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA REFORMA DE LOS ARTÍCULOS 24 Y 106 BIS DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, ASIMISMO SE APRUEBA LA ADICIÓN DEL ARTÍCULO 72 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
