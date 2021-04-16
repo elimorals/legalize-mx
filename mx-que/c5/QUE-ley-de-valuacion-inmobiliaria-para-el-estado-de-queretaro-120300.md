@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-valuacion-inmobiliaria-para-el-estado-de-queretaro-12030
 country: "mx"
 rank: "ley"
 publication_date: "2017-03-17"
-last_updated: "2017-03-17"
+last_updated: "2021-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Querétaro, el viernes 17 de marzo de 2017.
 
@@ -41,11 +41,15 @@ LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO
 
 ### Capítulo Primero. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de interés social y observancia obligatoria en el Estado de Querétaro, su objeto es regular las condiciones generales para la actividad de la valuación inmobiliaria que se realiza para la estimación del valor de los bienes inmuebles ubicados en el Estado.
+La presente Ley es de interés social y observancia obligatoria en el Estado de Querétaro, su objeto es regular las condiciones generales para la actividad de la valuación inmobiliaria que se realiza para la estimación del valor de los bienes inmuebles ubicados en el Estado, así como establecer las bases de organización y funcionamiento del Consejo de Valuadores del Estado de Querétaro.
 
-Es supletoria de la presente Ley, la Ley de Procedimientos Administrativos del Estado de Querétaro, la Ley de Catastro para el Estado de Querétaro y la Ley de Enjuiciamiento de lo Contencioso Administrativo del Estado de Querétaro.
+Es supletoria de la presente Ley, la Ley de Procedimientos Administrativos del Estado de Querétaro, la Ley de Catastro para el Estado de Querétaro y la Ley de Procedimiento Contencioso Administrativo del Estado de Querétaro.
+
+Para efectos de la presente Ley, se entendedera (sic) por "valuador" a la persona mujer u hombre que ejerza dicha actividad; de igual manera los distintos cargos que contempla la presente Ley se referirán de manera indistinta en razón de género.
 
 ###### Artículo 2.
 
@@ -71,7 +75,9 @@ II. Evaluar a las personas que deseen obtener el registro de valuador para ejerc
 
 III. Expedir en su caso, el nombramiento respectivo como valuador a quienes se determine puedan llevar a cabo la actividad de valuador;
 
-IV. Vigilar la actuación del Consejo de Valuadores del Estado de Querétaro y su Comisión;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+IV. Vigilar la actuación del Consejo de Valuadores del Estado de Querétaro y su Mesa Directiva;
 
 V. Realizar las visitas de inspección y verificación necesarias en relación con la instalación, ejercicio y actos de los valuadores en el ejercicio de su encargo;
 
@@ -173,9 +179,25 @@ IX. Proporcionar a la Secretaría de Gobierno los datos que permitan mantener ac
 
 X. Dar aviso a la Secretaría de Gobierno para dejar de ejercer la función hasta por seis meses;
 
-XI. Solicitar licencia a la Secretaría de Gobierno para dejar de ejercer la función cuando vaya a exceder de seis meses; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-XII. Las demás obligaciones señaladas en la presente Ley y demás disposiciones legales aplicables.
+XI. Solicitar licencia a la Secretaría de Gobierno para dejar de ejercer la función cuando vaya a exceder de seis meses;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2021)</small>
+
+XII. Efectuar el pago correspondiente a las cuotas del Consejo de Valuadores del Estado de Querétaro;
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+XIII. Cumplir con la cantidad de horas dispuestas por los lineamientos que emita la Mesa Directiva, de cursos de actualización con validez académica oficial, o de los cursos impartidos en coordinación con el Catastro del Estado y el Consejo de Valuadores del Estado de Querétaro, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+XII. Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+El incumplimiento de las obligaciones previstas en este artículo podrá ser motivo para no autorizar la emisión de folios por parte de la autoridad competente.
 
 ###### Artículo 15.
 
@@ -190,6 +212,40 @@ III. Intervenir en los asuntos que les sean encomendados en materia de valuació
 IV. Acudir personalmente al predio e inspeccionar directamente el bien inmueble, cuyo avalúo deberá formular; y
 
 V. Las demás funciones y requisitos señalados por esta Ley y demás disposiciones legales con respecto a esta materia.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+###### Artículo 15 Bis.
+
+Los valuadores deberán llevar a cabo la integración y resguardo de un expediente catastral formado con cada uno de los avalúos que realice.
+
+El expediente catastral deberá integrarse tanto en formato físico como digital por un periodo de 4 años. Concluido el periodo de 4 años deberá resguardar la información de manera digital por un periodo adicional no menor de 2 años.
+
+El expediente catastral deberá contener la siguiente información documentada:
+
+I. Datos del solicitante:
+
+a) Nombre;
+
+b) Domicilio;
+
+II. Datos del propietario:
+
+a) Nombre;
+
+b) Domicilio;
+
+III. Datos del inmueble:
+
+a) Ubicación;
+
+b) Reporte fotográfico de la visita;
+
+c) Datos complementarios del levantamiento físico;
+
+IV. Las referencias a la base de datos de mercado sobre la que realizó su comparativo de mercado; y
+
+V. Si las hubiera, observaciones y/o anotaciones adicionales sobre los supuestos hipotéticos para la realización de los análisis de valor.
 
 ###### Artículo 16.
 
@@ -213,37 +269,59 @@ VIII. Las demás prohibiciones establecidas en la presente Ley y demás disposic
 
 ### Capítulo Cuarto. Del Consejo de Valuadores del Estado de Querétaro
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### Artículo 17.
 
-El Consejo de Valuadores del Estado de Querétaro estará integrado por los valuadores con nombramiento expedido por la Secretaría de Gobierno, en los términos de la presente Ley.
+El Consejo de Valuadores del Estado de Querétaro es un órgano auxiliar de la función pública, con personalidad jurídica y patrimonio propio y estará integrado por los valuadores con nombramiento expedido por la Secretaría de Gobierno, en los términos de la presente Ley.
 
 Su funcionamiento estará a lo dispuesto por esta Ley, su reglamento y demás disposiciones legales y administrativas aplicables.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### Artículo 18.
 
-La representación del Consejo estará a cargo de una Comisión, denominada Comisión de Valuadores del Estado de Querétaro.
+La representación del Consejo estará a cargo de una Mesa Directiva.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 19.
 
-La Comisión de Valuadores del Estado de Querétaro estará integrada de la siguiente manera:
+La Mesa Directiva estará integrada de la siguiente manera:
 
 I. Un Presidente;
 
-II. Un Secretario Técnico;
+II. Un Secretario;
 
 III. Un Tesorero; y
 
 IV. Dos Vocales.
 
-Los integrantes de la Comisión de Valuadores del Estado de Querétaro serán electos por el Consejo en los términos del reglamento. Dichos cargos serán honoríficos.
+Los integrantes de la Mesa Directiva serán electos por el Consejo en los términos del Reglamento. Los cargos de la Mesa Directiva serán honoríficos.
+
+Todos los integrantes de la Mesa Directiva, a excepción del Presidente, contarán con un suplente que podrá ocupar su cargo en su ausencia. Los Integrantes de la Mesa Directiva solo podrán ser sustituidos debido a su incapacidad de seguir ejerciendo el cargo o por fallecimiento.
+
+El Presidente proveerá a la ejecución de los acuerdos y de las resoluciones de la Mesa Directiva y presidirá sus sesiones.
+
+El Presidente vigilará el exacto cumplimiento de las leyes por parte de los miembros del Consejo y la recaudación y empleo de los fondos que aporten los mismos.
+
+El Secretario dará cuenta al Presidente de los asuntos y comunicará sus acuerdos; redactará las actas de las sesiones de la Mesa Directiva y llevará la correspondencia y los libros de actas y registro, y tendrá a su cargo el archivo.
+
+El Tesorero hará los pagos a que haya lugar, previo acuerdo del Presidente; llevará la contabilidad y rendirá cuenta justificada al término de cada ejercicio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Artículo 20.
 
-La Comisión de Valuadores del Estado de Querétaro tendrá las siguientes atribuciones:
+La Mesa Directiva tendrá las siguientes atribuciones:
 
 I. Vigilar el cumplimiento de esta Ley y su reglamento;
 
-II. Elaborar y proponer para su tramitación, las normas arancelarias que atenderán los valuadores para el cobro de honorarios que correspondan a sus servicios profesionales;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+II. Elaborar y proponer para su tramitación, las normas arancelarias que atenderán los valuadores para el cobro de honorarios que correspondan a sus servicios profesionales.
+
+La Dirección de Catastro tendrá la facultad de fijar el arancel, previa propuesta del Consejo de Valuadores del Estado de Querétaro.
 
 III. Proponer medidas para que los valores comerciales para fines hacendarios de los bienes inmuebles ubicados en el territorio del Estado, sean determinados bajo los mismos criterios profesionales, procurando la unificación metodológica de los avalúos;
 
@@ -255,9 +333,17 @@ VI. Coordinar con la Dirección de Catastro, los trabajos técnicos y de investi
 
 VII. Solicitar a los valuadores la información adicional que requiera con relación a un avalúo en particular;
 
-VIII. Fungir como árbitro, cuando así se lo soliciten por escrito los interesados, en las reclamaciones que se deriven de los avalúos emitidos por los valuadores; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-IX. Las demás atribuciones que le confiere esta Ley y demás disposiciones legales aplicables.
+VIII. Fungir como árbitro, cuando así se lo soliciten por escrito los interesados, en las reclamaciones que se deriven de los avalúos emitidos por los valuadores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2021)</small>
+
+IX. Convocar a reuniones; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE ABRIL DE 2021)</small>
+
+X. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 ### Capítulo Quinto. De los avalúos
 
@@ -322,6 +408,42 @@ III. Suspensión hasta por 6 meses para el ejercicio de la actividad cuando se r
 IV. Cancelación definitiva de la autorización para ejercer en el Estado como valuador, cuando el responsable sea sancionado más de una vez conforme lo previsto en la fracción III del presente artículo o realice la conducta señalada en la fracción IX, del artículo anterior.
 
 Las infracciones a la presente Ley se determinarán y resolverán conforme a la presente Ley y su reglamento, así como a las disposiciones legales que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+###### Artículo 24 Bis.
+
+Para aplicar a los valuadores las sanciones administrativas a que se refiere el artículo 24, el Poder Ejecutivo del Estado se auxiliará de la Comisión de Honor y Justicia del Consejo de Valuadores del Estado de Querétaro, que estará integrada por tres valuadores, siendo presidida por el Presidente de la Mesa Directiva en turno y dos valuadores propuestos por la Mesa Directiva y electos en reunión de pleno del Consejo de Valuadores del Estado de Querétaro.
+
+Los integrantes de la Comisión de Honor y Justicia deberán cumplir con los siguientes requisitos de elegibilidad:
+
+I. Alto grado de actualización;
+
+II. Participación constante en la vida del Consejo;
+
+III. Observar una buena conducta, y
+
+IV. Estar al corriente en las cuotas al Consejo.
+
+El Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno, podrá ordenar oficiosamente o a petición de parte, visitas, inspecciones o instruir actuaciones que practicará la persona designada expresamente para tal efecto. En todo caso se concederá el derecho de audiencia al valuador afectado y deberá escucharse la opinión de la Comisión de Honor y Justicia.
+
+La Comisión de Honor y Justicia tendrá un plazo de 15 días hábiles para emitir su opinión, contados a partir de que reciba las constancias.
+
+Transcurrido el plazo para la emisión de la opinión a cargo de la Comisión de Honor y Justicia, se podrá emitir la resolución administrativa, sin que la ausencia de opinión afecte la validez o el sentido de la resolución.
+
+La resolución administrativa será emitida por el Secretario de Gobierno del Poder Ejecutivo del Estado.
+
+Para presentar una queja en los casos de responsabilidad administrativa de los valuadores, se deberá presentar ante la Secretaría de Gobierno del Estado, debiendo anexar los documentos en que se sustente.
+
+Previo a la tramitación formal de la queja, la Secretaría de Gobierno deberá remitir copia de la misma al Presidente de la Comisión de Honor y Justicia del Consejo de Valuadores del Estado de Querétaro, para que, dentro del plazo de 10 días hábiles, realice las gestiones pertinentes para resolver la controversia.
+
+Si vencido el plazo no se ha tenido la solución correspondiente, la Secretaría de Gobierno requerirá al valuador involucrado para que, dentro del plazo de 10 días hábiles, manifieste lo que a su interés convenga y, en su caso, exhiba los documentos que estime pertinentes, para lo cual le será entregada copia del escrito de queja y de sus anexos.
+
+Transcurrido este plazo, con manifestación del valuador o sin ella, la Secretaría de Gobierno remitirá el expediente a la Comisión de Honor y Justicia del Consejo de Valuadores del Estado de Querétaro, la cual, dentro del plazo de 15 días hábiles contados a partir de su recepción, deberá emitir la opinión que corresponda, sugiriendo si debe o no imponerse sanción.
+
+Con la opinión de la Comisión de Honor y Justicia del Consejo de Valuadores del Estado de Querétaro deberá resolver lo que proceda conforme a derecho.
+
+Los procedimientos iniciados oficiosamente por la Secretaría de Gobierno del Poder Ejecutivo del Estado no serán considerados como una queja y previo a la emisión de la resolución que le ponga fin, se otorgará a la Comisión de Honor y Justicia del Consejo de Valuadores del Estado de Querétaro el plazo de 15 días hábiles para la emisión de opinión, contados a partir de que le sean remitidas las constancias.
 
 ###### Artículo 25.
 
@@ -392,3 +514,19 @@ Juan Martín Granados Torres
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Articulo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Todas las referencias hechas en otros ordenamientos jurídicos a la Comisión de Valuadores del Estado de Querétaro se entenderán realizadas a la Mesa Directiva del Consejo de Valuadores del Estado de Querétaro.
+
+Artículo Cuarto. Todas las referencias realizadas en los demás ordenamientos al Consejo de Valuadores del Estado de Querétaro A.C., se entenderán hechas al Consejo de Valuadores del Estado de Querétaro.
+
+Artículo Quinto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
