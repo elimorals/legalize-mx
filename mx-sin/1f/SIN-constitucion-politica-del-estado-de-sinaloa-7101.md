@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2021-03-31"
+last_updated: "2021-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -915,9 +915,9 @@ XII. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaraci�
 
 XIII. Elegir al ciudadano que deba substituir al Gobernador del Estado, con el carácter de Substituto, o de Interino, en los términos que esta Constitución señala.
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-XIV. Elegir a los Magistrados del Supremo Tribunal de Justicia del Estado y del Tribunal de Justicia Administrativa del Estado, mediante los procedimientos que esta Constitución y las leyes respectivas señalen.
+XIV. Elegir a los Magistrados del Supremo Tribunal de Justicia del Estado, del Tribunal de Justicia Administrativa del Estado y al titular del Centro de Conciliación Laboral, mediante los procedimientos que esta Constitución y las leyes respectivas señalen.
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
@@ -1453,9 +1453,9 @@ XXI Bis C. Informar anualmente al Congreso, sobre el ejercicio de las partidas c
 
 XXII. Participar en el proceso de elección y remoción del Fiscal General del Estado en términos de lo previsto por esta Constitución.
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-XXII Bis. Proponer una terna de aspirantes por cada Magistratura del Tribunal de Justicia Administrativa, ante el Congreso del Estado, a fin de que éste realice la designación correspondiente con el voto de las dos terceras partes de sus miembros presentes.
+XXII Bis. Proponer una terna de aspirantes por cada Magistratura del Tribunal de Justicia Administrativa y una terna para elegir al titular del Centro de Conciliación Laboral, ante el Congreso del Estado, a fin de que éste realice la designación correspondiente con el voto de las dos terceras partes de sus miembros presentes.
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -1532,6 +1532,24 @@ Las faltas temporales de los Secretarios serán suplidas dentro de sus Ramos res
 ###### Art. 72.
 
 Las Secretarías y demás organismos y dependencias de la Administración Pública Estatal o Paraestatal están constituidos por las dependencias que se establezcan de acuerdo con el Reglamento y Disposiciones Generales que se emitan por el Titular del Poder Ejecutivo, los que fijarán las atribuciones y facultades de los mismos.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+###### Art. 72 Bis.
+
+Para atender de manera previa a los procesos jurisdiccionales, los conflictos laborales de orden local, el Estado contará con un Centro de Conciliación Laboral, con carácter de organismo público descentralizado, especializado e imparcial, con personalidad jurídica y patrimonio propios, que gozará de plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión.
+
+El Centro de Conciliación Laboral se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
+
+Su integración y funcionamiento, así como el procedimiento que observará como instancia conciliatoria, será determinado por la Ley.
+
+Para la designación de la persona titular del Centro de Conciliación Laboral, el Ejecutivo del Estado someterá una terna a consideración del Congreso del Estado, el cual previa comparecencia de las personas propuestas, realizará la designación correspondiente. La designación se hará por el voto de las dos terceras partes de los miembros presentes del Congreso, dentro del improrrogable plazo de treinta días. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo la persona que dentro de dicha terna, designe el Ejecutivo.
+
+En caso de que el Congreso rechace la totalidad de la terna propuesta, se someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe quien sea titular del Ejecutivo.
+
+El nombramiento recaerá en una persona certificada en mecanismos alternativos de solución de controversias, con capacidad y experiencia en las materias de la competencia del organismo descentralizado; que no haya ocupado un cargo en algún partido político, ni sido candidata a ocupar un cargo público de elección popular en los tres años anteriores a la designación; y que goce de buena reputación y no haya sido condenada por delito doloso. Asimismo, cumplirá los requisitos que establezca la ley.
+
+Desempeñará su encargo por períodos de seis años y podrá ser reelecta por una sola ocasión. En caso de falta absoluta, quien la sustituya concluirá el periodo respectivo. Sólo podrá ser removida por causa grave en los términos del Título VI de esta Constitución y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2001)</small>
 
@@ -1721,11 +1739,11 @@ El Presidente del Consejo Estatal de Evaluación de la Política de Desarrollo S
 
 #### SECCION III. DE LA DEFENSORIA PUBLICA
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### Art. 78.
 
-Habrá en el Estado un Instituto de la Defensoría Pública, mismo que en el desempeño de sus funciones gozará de independencia técnica y operativa, a fin de garantizar de manera gratuita a los imputados el derecho a una defensa adecuada y de calidad en materia penal y de justicia para adolescentes, así como el acceso a la justicia mediante la orientación, asesoría y representación jurídica en materia civil, familiar y administrativa, a través de Defensores Públicos y de Asesores Jurídicos, en los términos que señale la Ley.
+Habrá en el Estado un Instituto de la Defensoría Pública, mismo que en el desempeño de sus funciones gozará de independencia técnica y operativa, a fin de garantizar de manera gratuita a los imputados el derecho a una defensa adecuada y de calidad en materia penal y de justicia para adolescentes, así como el acceso a la justicia mediante la orientación, asesoría y representación jurídica en materia civil, familiar, administrativa y laboral, a través de Defensores Públicos y de Asesores Jurídicos, en los términos que señale la Ley.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
@@ -4506,3 +4524,39 @@ P.O. 31 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 590 QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 10 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto deberá publicarse en el Periódico Oficial “El Estado de Sinaloa”, y entrará en vigor a partir del primero de enero del año 2022.
+
+P.O. 16 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 588 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado deberá realizar las adecuaciones correspondientes a los ordenamientos secundarios para dar cumplimiento a lo previsto en el presente Decreto, dentro de los ciento ochenta días siguientes a la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+El Centro de Conciliación Laboral, iniciará sus actividades a más tardar el 02 de mayo del año 2022, en términos de lo que establezca su propia normatividad y posibilidades presupuestales.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado deberá enviar al Congreso del Estado la terna para designar al titular del Centro de Conciliación Laboral, al inicio en funciones del Centro de Conciliación Laboral.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se instituye e inicia operaciones el Centro de Conciliación Laboral, la Junta de Conciliación y Arbitraje y, en su caso, la Dirección del Trabajo y Previsión Social continuarán atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo, y sobre el registro de contratos colectivos de trabajo y organizaciones sindicales. Los asuntos que estuvieren en trámite al momento de iniciar sus funciones el Centro de Conciliación Laboral serán resueltos conforme a las disposiciones aplicables al momento de su inicio.
+
+###### ARTÍCULO SEXTO.
+
+En cualquier caso, los derechos de los trabajadores que tienen a su cargo la atención de los asuntos en la Junta Local de Conciliación y Arbitraje, se respetarán conforme a la Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Junta Local de Conciliación y Arbitraje deberá transferir los procedimientos, expedientes y documentación que, en el ámbito de su competencia tenga bajo su atención o resguardo al Centro de Conciliación Laboral, que se encargará de resolver las diferencias y los conflictos entre patrones y trabajadores.
+
+###### ARTÍCULO OCTAVO.
+
+Los recursos humanos, materiales y financieros que le pertenecen a la Junta Local de Conciliación y Arbitraje pasarán a formar parte del Centro de Conciliación Laboral.
