@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-juventud-del-estado-de-baja-california-82158"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-11"
-last_updated: "2019-06-14"
+last_updated: "2021-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 11 de julio de 2011.
 
@@ -45,9 +45,11 @@ LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA
 
 Las disposiciones contenidas en la presente Ley son de orden público, interés social y de observancia general en el Estado de Baja California, y tiene por objeto normar las medidas y acciones que contribuyan al desarrollo integral de los jóvenes, garantizando el respeto de sus derechos fundamentales en todo el territorio del Estado de Baja California, así como regular la organización y el funcionamiento del organismo público descentralizado denominado Instituto de la Juventud del Estado de Baja California.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 2.
 
-Son sujetos de aplicación de la presente Ley, todas las personas que se encuentren comprendidas entre los 12 a los 29 años de edad en el Estado, y sus normas se les aplicarán, de manera independiente a su condición familiar, social, cultural, religiosa, económica, étnica, con la finalidad de contribuir a su desarrollo integral, mediante su inclusión social plena al proceso del desarrollo estatal.
+Son sujetos de aplicación de la presente Ley, todas las personas que se encuentren comprendidas entre los 12 a los 29 años de edad en el Estado, y sus normas se les aplicarán, de manera independiente a su género, condición familiar, social, cultural, religiosa, económica, étnica, de discapacidad, ideológicas o preferenciales, con la finalidad de contribuir a su desarrollo integral, mediante su inclusión social plena al proceso del desarrollo estatal.
 
 El límite de edad previsto en el párrafo anterior, no sustituye los límites de edad establecidos en otras leyes e instrumentos internacionales.
 
@@ -59,9 +61,9 @@ El Estado y los municipios en el ámbito de su competencia, dispondrán los recu
 
 Para los efectos de esta Ley se entiende por:
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-I.- Alteraciones del desarrollo: a todos aquellos factores, eventos, conductas y situaciones que afecten el entorno de los jóvenes, incrementando la posibilidad de sufrir daños que limiten su capacidad física, mental, emocional o profesional, colocándolos en riesgo, desventaja o vulnerabilidad que atentan contra el desarrollo integral, o en situación de desocupación por circunstancias que impiden que ni estudien ni trabajen y que obstaculizan su inserción a la sociedad;
+I.- Alteraciones del desarrollo: a todos aquellos factores, eventos, conductas y situaciones que afecten el entorno de las y los jóvenes, incrementando la posibilidad de sufrir daños que limiten su capacidad física, mental, emocional o profesional, colocándolos en riesgo, desventaja o vulnerabilidad que atentan contra el desarrollo integral, o en situación de desocupación por circunstancias que impiden que ni trabajen y que obstaculizan se (sic) inserción a la sociedad;
 
 II.- Carnet: a la Tarjeta Carnet Joven;
 
@@ -71,9 +73,13 @@ III.- Comisión: a la Comisión encargada de los temas de Juventud en el Congres
 
 IV.- Consejo: Consejo Estatal de Atención a la Juventud;
 
-V.- Director.- Director General del Instituto de la Juventud del Estado de Baja California;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-VI.- Desarrollo integral: a todos aquellos factores y elementos que contribuyen a maximizar las capacidades de los jóvenes para vivir dignamente y en armonía consigo mismos, con el medio ambiente, con el medio social, en cualquiera de los contextos en que se desarrolle dicha etapa de la vida;
+V.- Dirección.- Cargo que ocupa una persona como Directora o Director General del Instituto de la Juventud del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+VI.- Desarrollo integral: A todos aquellos factores y elementos que construyen a maximizar las capacidades de las y los jóvenes para vivir dignamente y en armonía consigo mismos, con el medio ambiente, con el medio social, en cualquiera de los contextos en que se desarrolle dicha etapa de la vida;
 
 VII.- Gobernador: al Titular del Poder Ejecutivo del Estado de Baja California;
 
@@ -93,7 +99,9 @@ XIV.- Parlamento: al Parlamento de la Juventud del Estado de Baja California;
 
 XV.- Premio: al Premio Estatal de la Juventud;
 
-XVI.- Primer Empleo: al proceso de integración de un joven por primera ocasión al mercado laboral, sea en el sector público o privado;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+XVI.- Primer Empleo: Al proceso de integración de una o un joven por primera ocasión al mercado laboral, sea en el sector público o privado;
 
 XVII.- Programa: al Programa Estatal de Atención a la Juventud;
 
@@ -101,9 +109,21 @@ XVII.- Programa: al Programa Estatal de Atención a la Juventud;
 
 XVIII.- Plataforma Digital: Sistema Electrónico de información;
 
-XIX.- Reglamento: al Reglamento de la Ley, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2021)</small>
 
-XX.- Sistema: al Sistema Estatal de Atención a la Juventud.
+XIX.- Adolescencia: Las personas de entre doce años cumplidos y menos de dieciocho años de edad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2021)</small>
+
+XX.- Igualdad Sustantiva.- El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+XXI.- Reglamento: Al Reglamento de la Ley; y,
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+XXII.- Sistema: Al Sistema Estatal de Atención a la Juventud.
 
 ###### ARTÍCULO 5.
 
@@ -111,9 +131,11 @@ Esta Ley reconoce todos los derechos y garantías establecidos en la Constituci�
 
 Los derechos y garantías previstos en esta Ley hacia los jóvenes, se establecen de manera enunciativa, más no limitativa.
 
-###### ARTÍCULO 6.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
 
-Las disposiciones de esta Ley, son complementarias a las establecidas para las personas que se encuentren en las edades comprendidas entre los 12 años de edad, hasta los 18 años cumplidos, previstas en las leyes relativas para personas menores de edad.
+###### ARTICULO 6.
+
+Las disposiciones de esta Ley, son complementarias a las establecidas para las personas que se encuentren en las edades comprendidas entre los 12 años de edad, hasta los 18 años de edad cumplidos, previstas en la Ley para la Protección y Defensa de Niñas, Niños y Adolescentes.
 
 En caso de controversia sobre la aplicación e interpretación de las disposiciones de esta Ley con otra legislación aplicable en materia de juventud, prevalecerá aquella que más favorezca los derechos de los jóvenes.
 
@@ -129,25 +151,37 @@ III.- Corresponsabilidad: entendida como la responsabilidad compartida de las in
 
 IV.- Identidad: entendida como un ideal de la juventud en la formación de su personalidad, procurando otorgar un sentido de pertenencia con las costumbres y tradiciones propias del Estado;
 
-V.- Igualdad: entendida como la posibilidad de obtener oportunidades para la juventud en forma equitativa, eliminando desventajas para asegurar la paridad entre los jóvenes;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+V.- Igualdad: Entendida como la posibilidad de obtener oportunidades para la juventud en forma equitativa, eliminando desventajas para asegurar la paridad entre las y los jóvenes;
 
 VI.- Inclusión: entendida como la inserción o introducción de la juventud en el proceso de desarrollo político, económico, social y cultural del país;
 
 VII.- Interés Superior: entendido como una prioridad en las acciones que se dirijan a los jóvenes para fortalecer su bienestar, su desarrollo integral y la protección de sus derechos;
 
-VIII.- No discriminación: entendida como el combate a conductas excluyentes por condición social o económica, de salud física o mental, preferencia, género, edad, origen étnico, afiliación partidista, religión u otra reconocida por la Ley;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-IX.- Participación: entendida como la intervención libre, constante y democrática de los jóvenes en los procesos de toma de decisiones que afecten su entorno;
+VIII.- No discriminación: Entendida como el combate a conductas excluyentes por condición social o económica, de salud, condición de discapacidad, preferencia, género, edad, origen étnico, afiliación partidista, religión u otra reconocida por la Ley;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+IX.- Participación: Entendida como la intervención libre, constante y democrática de la juventud en los procesos de toma de decisiones que afecten su entorno;
 
 X.- Respeto: entendido como el reconocimiento a la diversidad de la juventud;
 
-XI.- Seguridad: entendida como el disfrute de una vida libre de violencia y alejada de factores de riesgos psicosociales y/o alteraciones del desarrollo en los jóvenes;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+XI.- Seguridad: Entendida como el disfrute de una vida libre de violencia y alejada de factores de riesgo psicosociales y/o alteraciones del desarrollo en la juventud;
 
 XII.- Solidaridad: entendida como las relaciones entre la juventud y los grupos sociales, con la finalidad de superar las condiciones que crean marginación y desigualdades;
 
-XIII.- Transversalidad: entendida como la directriz para articular políticas públicas entre los diversos órdenes de gobierno a partir de una visión integral de los derechos civiles, políticos, económicos, sociales y culturales de los jóvenes, considerando las distintas etapas de la juventud y la necesidad de establecer estrategias específicas para cada una de ellas, y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-XIV.- Universalidad: entendida como el beneficio de la generalidad de los jóvenes sin distinción del origen étnico o nacional, género, edad, discapacidad, condición social, salud, religión, preferencias, estado civil o cualquier otra que atente contra la dignidad humana.
+XIII.- Transversalidad: Entendida como la directriz para articular políticas públicas entre los diversos órdenes de gobierno a partir de la visión integral de los derechos civiles, políticos, económicos, sociales y culturales de la juventud, considerando las distintas etapas y la necesidad de establecer estrategias específicas para cada una de ellas, y
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+XIV.- Universalidad: Entendida como el beneficio de la generalidad de las y los jóvenes sin distinción de origen étnico o nacional, género, edad, discapacidad, condición social, salud, religión, preferencias, estado civil o cualquier otra que atente contra la dignidad humana.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LA JUVENTUD
 
@@ -181,9 +215,17 @@ d) Derecho a vivir en familia;
 
 e) Derecho a la libertad de expresión, opinión y religión;
 
-f) Derecho de reunión, organización y asociación, y
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
-g) Derecho a la participación social y política.
+f) Derecho de reunión, organización y asociación;
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+g) Derechos a la participación social y política; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE ABRIL DE 2021)</small>
+
+h) Derecho de acceso a la información.
 
 II.- Derechos económicos, sociales y culturales:
 
@@ -197,9 +239,13 @@ d) Derecho a la cultura y al arte;
 
 e) Derecho a un medio ambiente sano y sustentable;
 
-f) Derecho de recreación, descanso y esparcimiento;
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
-g) Derecho a la práctica del deporte, y
+f) Derecho de recreación, descanso y esparcimiento; y,
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+g) Derecho a la práctica del deporte.
 
 h) Derechos de los jóvenes con discapacidad.
 
@@ -207,17 +253,23 @@ h) Derechos de los jóvenes con discapacidad.
 
 #### SECCIÓN PRIMERA. DERECHO A UNA VIDA DIGNA
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 12.
 
-La dignidad de los jóvenes es inviolable y deberá ser protegida de los efectos nocivos de la violencia, asegurando su desarrollo físico, moral e intelectual para permitir su incorporación como actores estratégicos de la vida colectiva con niveles óptimos de madurez.
+La dignidad de los jóvenes es inviolable y deberá ser protegida de los efectos nocivos de la violencia, asegurando su desarrollo físico, moral e intelectual acorde a sus capacidades, para permitir su incorporación como actores estratégicos de la vida colectiva con niveles óptimos de madurez.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 13.
 
-El Estado y los Municipios promoverán mediante los medios disponibles, propuestas, espacios, instancias y estrategias para que los jóvenes tengan las oportunidades necesarias para asegurar una vida digna con calidad, creatividad, vitalidad e impregnada de valores que contribuyan a su pleno desarrollo y la expresión de su potencialidad y capacidad humana.
+El Estado y los Municipios promoverán mediante los medios disponibles, propuestas, espacios, instancias y estrategias para que las y los jóvenes tengan las oportunidades necesarias para asegurar una vida digna con calidad, creatividad, vitalidad, e impregnada de valores que contribuyan a su pleno desarrollo y la expresión de su potencialidad y capacidad humana.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 14.
 
-Los jóvenes tienen derecho a su propia identidad, entendida como un ideal de la juventud en la formación de su personalidad, procurando otorgar un sentido de pertenencia con las costumbres y tradiciones propias del Estado, en atención a sus especificidades y características de sexo, filiación, preferencias, creencias y cultura.
+Las y los jóvenes tienen derecho a su propia identidad, entendida como un ideal de la juventud en la formación de su personalidad, procurando otorgar un sentido de pertenencia con las costumbres y tradiciones propios (sic) del Estado, en atención a sus especificidades y características de sexo, condición de discapacidad, filiación, preferencias, orientación sexual, creencias y cultura.
 
 El Estado y los Municipios garantizarán la libre expresión de los diferentes elementos de identidad que distinguen a los jóvenes respecto de otros sectores sociales cohesionados entre sí.
 
@@ -227,27 +279,41 @@ El Estado y los Municipios adoptarán medidas de protección a la integridad per
 
 #### SECCIÓN SEGUNDA. DERECHO DE ACCESO A LA JUSTICIA
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 16.
 
-Los jóvenes tienen el derecho de acceder a la justicia por medio de los tribunales instaurados para tal fin, contando con la garantía de audiencia que le permite formular su denuncia o defensa, asegurando el desahogo de todas las etapas del debido proceso.
+Las y los jóvenes tienen el derecho de acceder a la justicia por medio de los tribunales instaurados para tal fin, contando con la garantía de audiencia que le permite formular su denuncia o defensa, asegurando el desahogo de todas las etapas del debido proceso.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 17.
 
-A los jóvenes que se les atribuya la comisión de una conducta ilícita, deberán recibir un trato justo, digno y humano, tomando en cuenta su condición juvenil y la aplicación estricta de la legislación específica para su edad.
+A las y los jóvenes que se les atribuya la comisión de una conducta ilícita, deberán recibir un trato justo, digno y humano, tomando en cuenta su condición juvenil y la aplicación estricta de la legislación específica para su edad.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 18.
 
-Ninguna autoridad podrá establecer algún tipo de sanción en contra de algún joven en lo individual o como grupo identificado con motivo de su apariencia, su personalidad, pertenencia a una tribu urbana o por sus preferencias.
+Ninguna autoridad podrá establecer algún tipo de sanción en contra de alguna o algún joven en lo individual o como grupo identificado con motivo de su apariencia, su personalidad, pertenencia a una tribu urbana o por sus preferencias.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 18 BIS.- Las y los jóvenes tendrán derecho a recibir orientación, apoyo y protección de las autoridades estatales y municipales, cuando su integridad se encuentre en riesgo por verse involucrados en relaciones de noviazgo que impliquen algún tipo de violencia.
 
 #### SECCIÓN TERCERA. DERECHO A VIVIR EN FAMILIA
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 19.
 
-Los jóvenes tienen el derecho a formar parte de una familia donde se desarrollen relaciones de afecto, respeto, tolerancia, responsabilidad, solidaridad y comprensión mutua entre sus miembros, alejados de cualquier tipo de maltrato, violencia o desprecio.
+Las y los jóvenes tienen el derecho a formar parte de una familia donde se desarrollen relaciones de igualdad, de afecto, respeto, tolerancia, responsabilidad, solidaridad y comprensión mutua entre sus miembros, alejados de cualquier tipo de maltrato, violencia, desprecio o discriminación.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 20.
 
-El Estado y los Municipios fomentarán entre los jóvenes, los valores de la familia, la cohesión y fortaleza de la vida familiar, el sano desarrollo de todos sus integrantes, así como la inculcación de principios de respeto, solidaridad y subsidiariedad entre padres e hijos, así como en hijos y padres, a través de estrategias públicas transversales.
+El Estado y los Municipios fomentaran entre la juventud, los valores de la familia, la cohesión y fortaleza de la vida familiar, el sano desarrollo de todos sus integrantes, así como la inculcación de principios de respeto, solidaridad subsidiariedad entre padres e hijos, así como el resto de los integrantes de la familia, a través de estrategias publicas transversales.
 
 #### SECCIÓN CUARTA. DERECHO A LA LIBERTAD DE EXPRESIÓN, OPINIÓN Y RELIGIÓN
 
@@ -261,9 +327,11 @@ La única limitación a estos derechos, será en casos de ataque a la moral, afe
 
 #### SECCIÓN QUINTA. DERECHO DE REUNIÓN, ORGANIZACIÓN Y ASOCIACIÓN
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 23.
 
-Los jóvenes tienen el derecho de reunirse, organizarse y asociarse libremente en forma lícita y pacífica, en tanto no afecten o perturben los derechos de terceros, en la búsqueda de hacer realidad sus aspiraciones y proyectos individuales y colectivos, así como para atender los temas de su interés y proponer soluciones a los problemas que resienten ante las instancias competentes.
+Las y los jóvenes tienen el derecho de reunirse, organizarse y asociarse libremente en forma licita y pacífica, en tanto no afecten o perturben los derechos de terceros en la búsqueda de hacer realidad sus aspiraciones, proyectos individuales y colectivos, así como para atender los temas de su interés y proponer soluciones a los problemas que recienten ante las instancias competentes.
 
 ###### ARTÍCULO 24.
 
@@ -271,37 +339,57 @@ El Estado y los Municipios deberán coadyuvar con las agrupaciones juveniles a f
 
 #### SECCIÓN SEXTA. DERECHO A LA PARTICIPACIÓN SOCIAL Y POLÍTICA
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 25.
 
-Los jóvenes tienen el derecho de participación social y política como manera de mejorar sus condiciones de vida, involucrándose en la toma de decisiones de los sectores social, público y privado.
+La juventud tiene el derecho de participación social y política como manera de mejorar sus condiciones de vida, involucrándose en la toma de decisiones de los sectores social, público y privado.
 
 ###### ARTÍCULO 26.
 
 El Estado y los Municipios impulsarán acciones que hagan efectiva la participación de los jóvenes de todos los sectores de la sociedad, alentando su inclusión en organizaciones, e incentivando su derecho de adherirse en agrupaciones políticas, sociales o académicas.
 
-#### SECCIÓN PRIMERA. DERECHO A LA SALUD
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE ABRIL DE 2021)</small>
+
+#### SECCIÓN SÉPTIMA. DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 26 BIS.- Las y los jóvenes tendrán derecho de acceso a la información pública, por lo que podrán solicitar, investigar, difundir, buscar y recibir información en los términos que dispongan las Leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 26 TER.- Las y los jóvenes tendrán acceso a la información pública, de forma completa, oportuna y accesible, en los términos que dispongan las Leyes de la materia.
 
 ### CAPÍTULO TERCERO. DE LOS DERECHOS ECONÓMICOS, SOCIALES Y CULTURALES
 
-#### SECCIÓN SEGUNDA. DERECHO A LA EDUCACIÓN
+#### SECCIÓN PRIMERA. DERECHO A LA SALUD
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 27.
 
-Los jóvenes tienen el derecho a la salud integral, que se traduce en su bienestar físico, mental y social.
+Las y los jóvenes tienen el derecho a la salud integral, que se traduce en su bienestar físico, mental y social debiendo tomarse en cuenta sus características y condición de discapacidad.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 28.
 
-Las autoridades sanitarias velarán por la plena efectividad del derecho a la salud juvenil, adoptando políticas, programas y campañas de salud orientados a la prevención de enfermedades, combate al consumo de drogas, salud sexual y reproductiva, trastornos alimenticios, higiene, salud mental, promoción estilos de vida saludables, así como todo aquello que favorezca el cuidado y salud personal de los jóvenes.
+Las autoridades sanitarias velaran por la plena efectividad del derecho a la salud juvenil, adoptando políticas, programas y campañas de salud orientados a la prevención de enfermedades, combate al consumo de drogas o alcohol, salud sexual y reproductiva, trastornos alimenticios, higiene, salud mental, promoción (sic) estilos de vida saludables, así como todo aquello que favorezca el cuidado y salud personal de los jóvenes.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 29.
 
-El Estado y el Municipio diseñaran políticas públicas dirigidas a la prevención, atención y control de embarazos de mujeres jóvenes y adolescentes, para inhibir las consecuencias sociales y económicas que se ocasionan ante la sociedad, y abatir las necesidades que se generan en la población afectada.
+El Estado y el Municipio diseñaran políticas públicas dirigidas a las y los jóvenes para la prevención, atención y control de embarazos y (sic) adolescentes, maternidad y paternidad responsable, y para inhibir las consecuencias personales que originan a la juventud en cuanto a su desarrollo escolar, familiar y laboral.
 
-#### SECCIÓN TERCERA. DERECHO A UN TRABAJO DIGNO
+#### SECCIÓN SEGUNDA. DERECHO A LA EDUCACIÓN
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 30.
 
-Los jóvenes tienen el derecho de acceder a la educación, incluyendo la libertad de participar en forma activa dentro de la institución en que se encuentre cursando sus estudios.
+La juventud tiene el derecho de acceder a la educación, incluyendo la libertad de participar en forma activa dentro de la institución en que se encuentre cursando sus estudios.
 
 ###### ARTÍCULO 31.
 
@@ -309,9 +397,13 @@ Se entenderá y comprenderá por educación integral para la juventud:
 
 I.- El desarrollo pleno de sus capacidades a través de la orientación vocacional;
 
-II.- La educación sexual como fuente de desarrollo personal, afectividad y expresión comunicativa, así como la información de los aspectos y consecuencias de la reproducción, ejercicio responsable de la sexualidad, prevención de embarazos no deseados y atención de embarazos en mujeres adolescentes y jóvenes;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-III.- Alternativas para concluir la educación básica obligatoria;
+II.- La educación sexual como fuente de desarrollo personal, afectividad y expresión comunicativa, así como la información de los aspectos y riesgos de su práctica, que incluyen la adquisición de enfermedades o embarazo (sic) no deseados;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+III.- Para promover el ejercicio responsable de la sexualidad, el desarrollo de campañas de prevención de embarazos no deseados y en su caso las alternativas de apoyo para concluir la educación básica obligatoria;
 
 IV.- Mecanismos para garantizar el acceso a una educación media superior y superior;
 
@@ -319,7 +411,9 @@ VI (SIC).- Métodos para contribuir con el cuidado e impulso del medio ambiente;
 
 VII.- Mecanismos de ingreso a las diferentes formas de educación para la inserción de una vida laboral, y
 
-VIII.- La atención integral para los jóvenes con discapacidad.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+VIII.- La atención integral para los jóvenes con discapacidad que incluirá apoyos de acceder a la educación básica, media superior y superior, así como la implementación de ajustes razonables.
 
 ###### ARTÍCULO 32.
 
@@ -333,7 +427,7 @@ Los jóvenes tienen el derecho de fortalecer y expresar sus diferentes vocacione
 
 El Gobierno deberá crear, promover y apoyar, por todos los medios a su alcance, iniciativas e instancias para que los jóvenes tengan la posibilidad y la oportunidad de identificar sus vocaciones y fortalecer las acciones para desarrollar su vocación a plenitud.
 
-#### SECCIÓN CUARTA. DERECHO A LA CULTURA Y AL ARTE
+#### SECCIÓN TERCERA. DERECHO A UN TRABAJO DIGNO
 
 ###### ARTÍCULO 34.
 
@@ -371,11 +465,13 @@ De igual forma se proporcionarán los beneficios económicos y estímulos que al
 
 Los Poderes del Estado, los Municipios, los Organismos Constitucionales Autónomos, en el ámbito de su competencia, así como el sector social y privado, deberán impulsar el servicio social y las prácticas profesionales del sector educativo, como vínculo para generar el desarrollo profesional y laboral de los jóvenes, acercándolos a la oportunidad de conseguir su primer empleo.
 
-#### SECCIÓN QUINTA. DERECHO A UN MEDIO AMBIENTE SANO Y SUSTENTABLE
+#### SECCIÓN CUARTA. DERECHO A LA CULTURA Y AL ARTE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 39.
 
-Los jóvenes tienen derecho a disfrutar libremente de su cultura, lengua, usos, costumbres, religión y formas específicas de organización social en razón de su edad y características.
+Las y los jóvenes tienen derecho a disfrutar libremente de su cultura, lengua, usos, costumbre, religión y formas específicas de organización social en razón de su edad y características.
 
 También tienen el derecho a la libre creación artística, así como el acceso a espacios para expresar sus manifestaciones culturales de acuerdo a sus propios intereses y expectativas.
 
@@ -385,7 +481,7 @@ La práctica de estos derechos culturales y artísticos se vinculará con su for
 
 El Estado y los Municipios fomentarán la creación artística y cultural impulsada por los jóvenes, así como su intercambio a nivel nacional e internacional.
 
-#### SECCIÓN SEXTA. DERECHO DE RECREACIÓN, DESCANSO Y ESPARCIMIENTO
+#### SECCIÓN QUINTA. DERECHO A UN MEDIO AMBIENTE SANO Y SUSTENTABLE
 
 ###### ARTÍCULO 41.
 
@@ -399,7 +495,7 @@ El Estado y los Municipios promoverán la coordinación con las autoridades ambi
 
 El Estado y los Municipios desarrollaran estrategias de educación ambiental para fortalecer la cultura ambiental y ecológica entre los jóvenes.
 
-#### SECCIÓN SÉPTIMA. DERECHO A LA PRÁCTICA DEL DEPORTE
+#### SECCIÓN SEXTA. DERECHO DE RECREACIÓN, DESCANSO Y ESPARCIMIENTO
 
 ###### ARTÍCULO 44.
 
@@ -409,7 +505,7 @@ Los jóvenes tienen derecho al descanso, a la recreación y al esparcimiento, lo
 
 Los jóvenes tienen derecho a contar con tiempo libre en beneficio de su enriquecimiento personal y disfrute de la vida en forma individual o colectiva, que tiene como objetivos básicos la diversión, la socialización, la liberación del trabajo y la recuperación física y mental.
 
-#### SECCIÓN OCTAVA. DERECHOS DE LOS JÓVENES CON DISCAPACIDAD
+#### SECCIÓN SÉPTIMA. DERECHO A LA PRÁCTICA DEL DEPORTE
 
 ###### ARTÍCULO 46.
 
@@ -419,23 +515,33 @@ Los jóvenes tienen derecho a la educación física, a la práctica del deporte 
 
 El Estado y los Municipios promoverán la actividad física y deportiva en los jóvenes como medio para aprovechar productivamente su tiempo libre y alejarlos de la delincuencia, además de difundir permanentemente los beneficios que trae consigo su práctica cotidiana o como profesión.
 
+#### SECCIÓN OCTAVA. DERECHOS DE LOS JÓVENES CON DISCAPACIDAD
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 48.
 
-Los jóvenes con discapacidad tienen derecho a disfrutar de una vida plena y digna, el Programa deberá contemplar los mecanismos necesarios para que todo joven discapacitado pueda llegar a bastarse a sí mismo, teniendo como objetivo su participación activa a la comunidad.
+Los jóvenes con discapacidad tiene (sic) derecho a disfrutar de todos los derechos establecidos en esta Ley, y, además, las autoridades competentes deberán realizar las accione afirmativas necesarias, así como los ajustes razonables para garantizar que se disfruten a plenitud promoviendo su plena inclusión en la sociedad.
 
-###### ARTÍCULO 49.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
-Los jóvenes con discapacidad, son aquellos que presentan una disminución en sus facultades físicas, intelectuales o sensoriales que le limitan para realizar una actividad normal.
+###### ARTICULO 49.
+
+Las y los jóvenes con discapacidad, son aquellos que cuentan con una deficiencia o limitación en su persona, que al interactuar con las barreras que le impone el entorno social, le impide su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás. La discapacidad puede ser física, mental, intelectual o sensorial.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 50.
 
-El Programa debe establecer lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con discapacidad, tomando en cuenta la situación económica de sus padres, tutores o de quienes ejerzan la patria potestad o custodia.
+El programa debe establecer lineamientos que permita (sic) asegurar el diseño e implementación de acciones afirmativas y ajustes razonables para buscar su plena inclusión en la sociedad.
 
 ### CAPÍTULO CUARTO. DEBERES DE LOS JÓVENES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 51.
 
-Los jóvenes tienen los siguientes deberes a observar en relación a su persona:
+Las y los jóvenes tiene (sic) los siguientes deberes a observar en relación a su persona:
 
 I.- Asumir el proceso de su propia formación académica, aprovechando en forma óptima las oportunidades educativas y de capacitación que brindan las instituciones para superarse en forma continua, concluyendo como mínimo la educación básica obligatoria prestando un servicio social y el desarrollo de prácticas profesionales efectivas;
 
@@ -443,7 +549,9 @@ II.- Preservar su salud a través del auto cuidado, prácticas de vida sana, eje
 
 III.- Procurar el aprendizaje y practicar los valores más altos del ser humano, que contribuyan a darle su verdadera dimensión ética y moral como persona individual y como parte de una sociedad;
 
-IV.- Tener conocimientos en materia de sexualidad, los riesgos de las enfermedades de transmisión sexual, la salud reproductiva y la planificación familiar, y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+IV.- Tener conocimiento en materia de sexualidad los riesgos de las enfermedades de trasmisión sexual, la salud reproductiva, planificación familiar, violencia de género; y,
 
 V.- Conocer las repercusiones legales y daños irreversibles a la salud que producen el alcohol, el tabaco y las drogas.
 
@@ -459,9 +567,11 @@ III.- Evitar dentro de sus hogares cualquier acto de discriminación, abuso, ais
 
 IV.- Atender las recomendaciones de sus padres cuando éstas sean para su beneficio y no atenten contra su dignidad e integridad personal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 53.
 
-Los jóvenes tienen los siguientes deberes a observar en relación con la sociedad:
+Las y los jóvenes tienen los siguientes deberes a observar en relación con la sociedad:
 
 I.- Actuar con criterio de solidaridad social, contribuyendo a la realización de acciones para el desarrollo comunitario;
 
@@ -471,13 +581,19 @@ III.- No atentar contra los derechos de terceros, evitando cualquier conducta o 
 
 IV.- Contribuir a la conservación y mejoramiento del medio ambiente, evitando la contaminación y desempeñando un papel activo en aquello que esté a su alcance, y
 
-V.- Promover la convivencia pacífica y la unidad entre los jóvenes.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+V.- Promover la convivencia pacífica e igualitaria, así como la unidad entre los jóvenes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 54.
 
-Los jóvenes tienen los siguientes deberes a observar en relación con el Estado:
+Las y los jóvenes tienen los siguientes deberes a observar en relación con el Estado:
 
-I.- Respetar y cumplir con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de ellas deriven y los reglamentos de las mismas, en concordancia con el respeto irrestricto de los derechos de los demás grupos y segmentos de la sociedad, todo ello a través de la convivencia pacífica, la tolerancia, la democracia, el compromiso y la participación social;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+I.- Respetar y cumplir con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de ellas deriven y reglamentos de las mismas, en concordancia con el respeto irrestricto de los derechos de los demás grupos y segmentos de la sociedad, todo ello a través de la convivencia pacífica, la no discriminación la tolerancia, la democracia, el compromiso y la participación social.
 
 II.- Ejercer sus derechos con responsabilidad y cumplir cabalmente con las obligaciones que le confieren la presente Ley y cualquier otra disposición;
 
@@ -491,11 +607,15 @@ V.- Mantener dentro y fuera del territorio del Estado actitudes que dignifiquen 
 
 ### CAPÍTULO PRIMERO. DE LOS OBJETIVOS DE LA POLÍTICA ESTATAL DE ATENCIÓN A LA JUVENTUD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 55.
 
-La Política estatal de atención a la juventud, contará con una estrategia de desarrollo integral, transversal y permanente, que estará dirigida al logro de los siguientes objetivos:
+La Política estatal de atención a la juventud, contará con una estrategia de desarrollo integral, con igualdad de género, trasversal y permanente, que estará dirigida al logro de los siguientes objetivos:
 
-I.- Avanzar en el establecimiento de las condiciones que aseguren el disfrute y ejercicio efectivo de los derechos civiles, políticos, económicos, sociales, culturales y especiales de los jóvenes;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+I.- Avanzar en el establecimiento de las condiciones que aseguren el disfrute y ejercicio efectivo de los derechos civiles, políticos, económicos, sociales, culturales, reproductivos y sexuales de la juventud;
 
 II.- Promover el desarrollo integral de los jóvenes, maximizando sus capacidades para vivir dignamente y en armonía con sus dimensiones biológicas, psicológicas, sociales y espirituales que, articuladas coherentemente, garantizan el ejercicio pleno de sus derechos y deberes en cualquiera de los contextos en que se desarrolle su etapa juvenil;
 
@@ -507,13 +627,19 @@ V.- Asegurar la inclusión, aplicación, respeto y cumplimiento de los principio
 
 VI.- Respetar las directrices de la política nacional de juventud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 56.
 
-El Estado y los Municipios promoverán políticas en favor de los jóvenes en situación de riesgo, vulnerabilidad o desventaja social para crear condiciones de igualdad real y efectiva.
+El Estado y los Municipios promoverán políticas en favor de las y los jóvenes en situación de riesgo, vulnerabilidad o desventaja social para crear condiciones de igualdad real y efectiva.
 
-En las acciones que se desarrollen para el cumplimiento del párrafo anterior, se deberá poner especial énfasis a jóvenes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2021)</small>
 
-I.- Embarazadas;
+En las acciones que se desarrollen para el cumplimiento del párrafo anterior, se deberá poner especial énfasis a los jóvenes:
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+I.- Embarazadas o esperando un hijo, en el caso de los jóvenes;
 
 II.- Madres solteras;
 
@@ -523,13 +649,25 @@ III.- Víctimas de cualquier delito;
 
 IV.- En situación de calle o en desocupación por circunstancias que impiden que ni estudien ni trabajen y que obstaculizan su inserción a la sociedad;
 
-V.- Exclusión social o privación de la libertad;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-VI.- Con discapacidad;
+V.- Sufriendo de exclusión social o privación de la libertad;
 
-VII.- Con enfermedades crónicas; e
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-VIII.- Indígenas.
+VI.- Que cuentan con alguna discapacidad;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+VII.- Con enfermedades crónicas;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+VIII.- Pertenecientes a alguna comunidad indígena; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2021)</small>
+
+IX.- Que pertenezcan a algún grupo vulnerable en consecuencia a su género, preferencias y orientación sexual.
 
 ### CAPÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE ATENCIÓN A LA JUVENTUD
 
@@ -543,37 +681,63 @@ La implementación del Sistema estará coordinada por el Instituto, en el ámbit
 
 El Sistema funcionará como instrumento base para la coordinación funcional, administrativa e institucional entre los tres órdenes de Gobierno, organismos autónomos, instituciones privadas, sociales y educativas, organismos no gubernamentales y organizaciones juveniles para la formulación de acciones en beneficio de los jóvenes en el Estado.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 59.
 
-El Sistema tiene por objeto garantizar la inclusión y participación de los sectores público, social y privado en las acciones para la promoción, protección y respeto de los derechos de los jóvenes en la Entidad.
+El sistema tiene por objeto garantizar la inclusión y participación de los sectores público, social y privado en las acciones para la promoción, protección y respeto de los derechos de la juventud en la Entidad.
 
 ###### ARTÍCULO 60.
 
 El Sistema se integrará por:
 
-I.- Gobernador del Estado, como representante del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+I.- La persona que ocupe el cargo de Gobernador del Estado, como representante del Poder Ejecutivo;
 
 II.- Secretaría General de Gobierno:
 
-III.- Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+III.- Secretaría de Integración y Bienestar Social;
 
 IV.- Secretaría de Salud:
 
-V.- Secretaría de Trabajo;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-VI.- Instituto del Deporte y la Cultura Física;
+V.- Secretaria de Trabajo y Previsión Social;
 
-VII.- El Instituto;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2021)</small>
 
-VIII.- Institutos Municipales o dependencias encargadas de la atención a la juventud;
+VI.- La Secretaria de Cultura;
 
-IX.- El Programa;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2021)</small>
 
-X.- El Consejo;
+VII.- Instituto del Deporte y la Cultura Física;
 
-XI.- La Red, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2021)</small>
 
-XII.- El informe de la situación que guarda el tema de juventud en el Estado.
+VIII.- El Instituto;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2021)</small>
+
+IX.- Institutos Municipales o dependencias encargadas de la atención a la juventud;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2021)</small>
+
+X.- El Programa;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2021)</small>
+
+XI.- El Consejo;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+XII.- La Red; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2021)</small>
+
+XIII.- El informe de la situación que guarda el tema de juventud en el Estado.
 
 ### CAPÍTULO TERCERO. DEL PROGRAMA ESTATAL DE ATENCIÓN A LA JUVENTUD
 
@@ -595,21 +759,27 @@ IV.- Medidas de apoyo para el acceso a guarderías para aquellas madres estudian
 
 V.- Lograr que los jóvenes puedan adquirir conocimientos prácticos sin suspender estudios;
 
-VI.- Consolidar su incorporación a la actividad económica mediante una ocupación específica;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+VI.- Consolidar su incorporación a la actividad económica mediante una ocupación específica, y también promover su Educación Financiera como herramienta para mejorar las condiciones de la juventud;
 
 VII.- Establecer mecanismos para garantizar los derechos de los jóvenes en el área laboral sin discriminación alguna, así como la determinación de normas para la protección al empleo para los jóvenes menores de edad y una supervisión exhaustiva de las mismas;
 
 VIII.- Promover el acceso y permanencia de los jóvenes a la educación, así como facilitar el acceso a becas e intercambios académicos nacionales y extranjeros que promuevan, apoyen y fortalezcan el desarrollo educativo de la juventud;
 
-IX.- Promover el acceso de los jóvenes a las tecnologías de la información y comunicación, como medio para facilitar la obtención, procesamiento, intercambio y difusión de información juvenil actualizada;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+IX.- Promover el acceso de los jóvenes a las tecnologías de la información y comunicación, así como los mecanismos de trasparencia, como medio para facilitar la obtención, procesamiento, intercambio y difusión de información juvenil actualizada;
 
 X.- Diseñar mecanismos para la obtención de descuentos y estímulos económicos para jóvenes que contraten bienes y servicios públicos y privados, a través de la Carnet;
 
-XI.- Impulsar campañas de difusión e información sobre problemáticas juveniles de interés y prioritarias, como las adicciones, infecciones de transmisión sexual, salud reproductiva, VIH -SIDA, nutrición y salud pública, culturales y comunitaria;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+XI.- Impulsar campañas de difusión e información sobre la atención y prevención de problemáticas juveniles de interés y prioritarias, como las adicciones, salud sexual y reproductiva, infecciones de trasmisión sexual como el VIH-SIDA, entre otras, nutrición y salud pública, culturales y comunitarias;
 
 XII.- Diseñar mecanismos para el acceso de los jóvenes a actividades físicas y deportivas, así como al disfrute de espectáculos deportivos;
 
-XIII- Promover la creación de espacios culturales dedicados a los jóvenes, donde puedan difundir sus expresiones artísticas y culturales, así como el intercambio cultural a nivel nacional e internacional;
+XIII.- Promover la creación de espacios culturales dedicados a los jóvenes, donde puedan difundir sus expresiones artísticas y culturales, así como el intercambio cultural a nivel nacional e internacional;
 
 > <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
 
@@ -651,7 +821,9 @@ XXVI.- Las demás que sean necesarias para el desarrollo integral de los jóvene
 
 El Programa será formulado, instrumentado y evaluado de conformidad con los términos, plazos y vigencia que dispone la Ley de Planeación para el Estado de Baja California.
 
-El Instituto a través del Director será la autoridad responsable de elaborar el Programa, en coordinación con la Junta, de conformidad con los términos, plazos y vigencia que dispone la Ley de Planeación para el Estado de Baja California, con la más amplia participación de las autoridades en materia de atención a la juventud, y de las propuestas u opiniones emitidas por los jóvenes.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+El instituto a través de la persona que ocupe la Dirección, será a (sic) autoridad responsable de elaborar el Programa, en coordinación con la Junta, de conformidad con los términos, plazos y vigencia que dispone la Ley de Planeación para el Estado de Baja California, con la más amplia participación de las autoridades en materia de atención a la juventud, y de las propuestas u opiniones emitidas por los jóvenes.
 
 En la elaboración del Programa se deberá garantizar la colaboración de especialistas, instituciones académicas, organizaciones no gubernamentales, asociaciones juveniles, instituciones de asistencia social, representantes populares, así como de los demás sectores sociales que estudian y analizan los problemas de la juventud.
 
@@ -753,83 +925,69 @@ VII.- Dar seguimiento a las acciones de los programas que se ejecuten a través 
 
 VIII.- Las demás que resulten necesarias para el cumplimiento de su objeto.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 68.
 
 El Consejo se integrará de la siguiente forma:
 
-I.- Un Presidente, que será el Director del Instituto;
+I.- Un Presidente, que será quien ocupe la Dirección del Instituto;
 
-II.- Un Secretario técnico, designado por el Director del Instituto;
+II.- Una o un Secretario técnico designado por la Dirección del Instituto;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+III.- Quien presida la Comisión del Poder Legislativo del Estado que conozca de los temas de juventud;
 
-III.- El Presidente de la Comisión.
+IV.- Una representación de la Secretaría General de Gobierno;
 
-IV.- Un representante de la Secretaría General de Gobierno;
+V.- Una representación de las siguientes Secretarías:
 
-V.- Un representante de la Secretaría del Trabajo y Previsión Social;
+a) Secretaría del Trabajo y Previsión Social;
 
-VI.- Un representante de la Secretaría de Desarrollo Social;
+b) Secretaría de Integración y Bienestar Social;
 
-VII.- Un representante de la Secretaría de Salud;
+c) Secretaría de Salud;
 
-VIII.- Un representante de la Secretaría de Educación y Bienestar Social;
+d) Secretaría de Educación;
 
-IX.- Un representante de la Secretaría de Protección al Ambiente;
+e) Secretaría de Economía Sustentable y Turismo;
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+f) Secretaría de Hacienda; y,
 
-X.- Un representante de la Secretaría de Planeación y Finanzas;
+g) Secretaría de Cultura.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+VI.- Una representación del Instituto del Deporte y la Cultura Física;
 
-XI.- Un representante de la Secretaría de Desarrollo Económico;
+VII.- Una representación de cada uno de (sic) Municipios;
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+VIII.- Tres representantes de instituciones académicas de los niveles medio superior y superior de los sectores público y privado que deseen participar;
 
-XII.- Un representante del Instituto del Deporte y la Cultura Física;
+IX.- Cinco representantes de organizaciones juveniles del Estado;
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+X.- Una representación del sector económico y productivo que tenga participación activa en el desarrollo de políticas y programas para jóvenes;
 
-XIII.- Un representante por cada uno de los Municipios;
+XI.- Tres representantes de organismos de la sociedad civil organizada que realicen actividades de respaldo, impulso, apoyo o fortalecimiento a la juventud; y,
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
+XII.- Dos jóvenes que se hayan destacados (sic) en cualquiera de los ámbitos artístico, educativo, cultural, deportivo, social, profesional o ambiental.
 
-XIV.- Tres representantes de instituciones académicas de los niveles medio superior y superior de los sectores público y privado que deseen participar;
-
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
-
-XV.- Cinco representantes de organizaciones juveniles del Estado;
-
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
-
-XVI.- Un representante del sector económico y productivo que tenga participación activa y directa en el desarrollo de políticas y programas para jóvenes;
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
-
-XVII.- Tres representantes de organismos de la sociedad civil organizada que realicen actividades de respaldo, impulso, apoyo o fortalecimiento los jóvenes, y
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
-
-XVIII.- Dos jóvenes que se hayan destacado en cualquiera de los ámbitos artístico, educativo, cultural, deportivo, social, profesional o ambiental.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE JULIO DE 2016)</small>
-
-A las sesiones del Consejo podrán asistir como invitados con derecho a voz, otras instancias de gobierno, organismos privados y estudiantes, así como especialistas e investigadores en materia de juventud que por sus conocimientos y aportaciones puedan contribuir al cumplimiento de sus funciones, previa convocatoria por el Director.
+A las sesiones del Consejo podrán asistir como invitados con derecho a voz, otras instancias de gobierno, organismos privados y estudiantes, así como especialistas e investigadores en materia d (sic) juventud que por sus conocimientos y aportaciones puedan contribuir al cumplimiento de sus funciones, previa convocatoria por la Dirección.
 
 ###### ARTÍCULO 69.
 
 El Consejo sesionará cuando menos dos veces al año de manera ordinaria y de manera extraordinaria las veces que sean necesarias, y para que sesione válidamente se requiere la presencia de la mitad más uno de los integrantes.
 
-Los acuerdos del Consejo se tomarán por mayoría de los presentes; en caso de empate, el Presidente ejercerá su voto de calidad. De cada sesión del Consejo se levantará el acta correspondiente.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
+Los acuerdos del Consejo se tomarán por mayoría de los representantes en caso de empate, la presidencia ejercerá su voto de calidad, de cada sesión del Consejo se levantará el acta correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 70.
 
-Para la elección de los consejeros previstos en las fracciones XIV, XV, XVI, XVII y XVIII del artículo 68 de la presente ley, el Instituto emitirá una convocatoria pública que establezca las bases, lineamientos y requisitos que regirán dicha elección, atendiendo a criterios de representatividad y desempeño.
+Para la elección de los consejeros previstos en las fracciones VIII, IX, X, XI y XII del artículo 68 de la presente Ley, el Instituto emitirá una convocatoria pública que establezca las bases, lineamientos y requisitos que regirán dicha elección, atendiendo a criterios de representatividad y desempeño.
 
-Dichos consejeros durarán en sus cargos cuatro años y podrán ser removidos por faltar sin causa justificada a tres sesiones continuas.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+Las Consejeras o Consejeros durarán en sus cargos cuatro años y podrán ser removidos por faltar sin causa justificada a tres sesiones continuas.
 
 El cargo de Consejero será honorífico, por lo que no se percibirá remuneración alguna por su desempeño.
 
@@ -847,11 +1005,15 @@ Lo relativo a la organización y funcionamiento del Consejo será regulado por e
 
 Son autoridades en materia de atención a la juventud:
 
-I.- El Gobernador del Estado, como representante del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+I.- La persona que ocupe el cargo de Gobernador del Estado, como representante del Poder Ejecutivo;
 
 II.- Secretaría General de Gobierno;
 
-III.- Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+III.- Secretaría de Integración y Bienestar Social;
 
 IV.- Secretaría de Salud;
 
@@ -909,9 +1071,11 @@ II.- Fortalecer el marco normativo del Estado en materia de juventud, y
 
 III.- Las demás que le establezca esta Ley u otras normatividades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 75.
 
-Corresponde a la Secretaría de Desarrollo Social:
+Corresponde a la Secretaria de Integración y Bienestar Social;
 
 I.- Contar con programas para la atención integral de los jóvenes en situación de vulnerabilidad que les permita integrarse a la sociedad y tener oportunidades que les permitan acceder a servicios y beneficios sociales que mejoren su calidad de vida;
 
@@ -933,7 +1097,9 @@ Corresponde a la Secretaría de Salud:
 
 I.- Establecer módulos de información y orientación dirigido a los jóvenes, en los que se den a conocer temáticas relacionadas con la salud mental, sexual y reproductiva, métodos seguros, eficaces y económicos de planificación familiar;
 
-II.- Prestar atención integral que promueva la recuperación física y psicológica a los jóvenes maltratados o víctimas de violencia familiar;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+II.- Prestar atención integral que promueva la recuperación física y psicológica a las jóvenes víctimas de violencia familiar, escolar, sexual, por condición de género, o cuando sean víctimas de cualquier tipo de discriminación;
 
 III.- Dar cuenta en forma inmediata a las autoridades competentes, cuando en el ejercicio de sus funciones se percate de un caso de violencia;
 
@@ -943,15 +1109,19 @@ V.- Trabajar junto con el Instituto del Deporte y la Cultura Física establecien
 
 VI.- Las demás que le confieren esta Ley u otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 77.
 
-Corresponde a la Secretaría de Educación y Bienestar Social:
+Corresponde a la Secretaría de Educación:
 
 I.- Establecer programas de capacitación con el objeto de fomentar el sentido de responsabilidad social entre los jóvenes, con miras a fortalecer su compromiso con la sociedad y el cumplimiento de sus obligaciones cívicas;
 
 II.- Elaborar un programa de actividades para el desarrollo de la Educación física y el deporte en las escuelas;
 
-III.- Crear y apoyar todas las actividades juveniles que fomenten la cultura de la paz, estimulen la creatividad, el espíritu emprendedor, la formación de valores como la tolerancia, la amistad, y la solidaridad;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+III.- Crear y apoyar todas las actividades juveniles con igualdad de género que fomenten la cultura de la paz, estimulen la creatividad, el espíritu emprendedor, la formación de valores como la tolerancia, la amistad, la solidaridad y la no discriminación.
 
 IV.- Prestar servicios de orientación vocacional, conforme lo requiera el nivel de educación a cursar;
 
@@ -997,19 +1167,25 @@ V.- Promover, en coordinación con el Instituto, políticas laborales dirigidas 
 
 VI.- Las demás que le confieren esta Ley u otros ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 79.
 
-Corresponde a la Secretaría de Protección al Ambiente, incluir en sus diferentes programas la participación activa de la juventud en el cuidado, preservación y fomento del medio ambiente.
+Corresponde a la Secretaría de Economía Sustentable y Turismo, incluir en sus diferentes programas la participación activa de la juventud en el cuidado, preservación y fomento del medio ambiente.
 
 ###### ARTÍCULO 80.
 
 Corresponde al Instituto del Deporte y la Cultura Física:
 
-I.- Desarrollar la infraestructura necesaria y de calidad para posibilitar la práctica de los diferentes deportes;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+I.- Desarrollar la infraestructura necesaria y de calidad para posibilitar la práctica de los diferentes deportes a todos los jóvenes, desde su etapa adolescente;
 
 II.- Garantizar a los jóvenes talentos deportivos, los medios económicos y humanos que les permita desarrollar sus habilidades;
 
-III.- Establecer y desarrollar actividades deportivas y recreativas para la juventud, con el objeto de promover y fortalecer el intercambio deportivo en los planos nacional e internacional;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+III.- Establecer y desarrollar actividades deportivas y recreativas para la juventud, con el objeto de promover y fortalecer el intercambio deportivo en los planos estatal, nacional e internacional;
 
 IV.- Colaborar junto con la Secretaría de Salud estableciendo módulos de información y orientación dirigida a los jóvenes, en los que se den a conocer temáticas relacionadas con los problemas de salud física tales como el sobrepeso u obesidad;
 
@@ -1029,7 +1205,9 @@ III.- Garantizar en el ámbito de su competencia, el pleno ejercicio de los dere
 
 IV.- Formular un Programa Municipal de atención a la juventud, así como las demás estrategias y acciones que consideren necesarias para el Desarrollo Integral de los jóvenes en el ámbito de su competencia, tomando en cuenta las necesidades de cada Municipio;
 
-V.- Contar con un Instituto, Dirección o Dependencia municipal encargada de vigilar y cumplir con la atención a la juventud; el titular de dicha instancia no deberá tener más de 29 años cumplidos al día de su designación y deberá contar con experiencia en temas relacionados con la juventud;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+V.- Contar con un Instituto, Dirección o Dependencia Municipal encargada de vigilar y cumplir con la atención de la juventud; la o el titular de dicha instancia no deberá tener más de 29 años cumplidos el día de su designación y deberá contar con experiencia en temas relacionados con la juventud;
 
 VI.- Promover la participación de la juventud en el quehacer de la administración pública;
 
@@ -1075,7 +1253,9 @@ El Instituto para el cumplimiento de su objeto tendrá las siguientes atribucion
 
 I.- Concertar acuerdos y convenios de colaboración y coordinación con el Instituto Mexicano de la Juventud, así como las autoridades de todos los niveles de gobierno, para promover con la participación en su caso de los sectores social y privado, las políticas, acciones y programas tendientes al desarrollo integral de la juventud;
 
-II.- Formular, diseñar, promover y ejecutar la política, planes y programa (sic) estatales de atención a la juventud, en congruencia con la política nacional y el Plan Estatal de Desarrollo, permitiendo incorporar plenamente a los jóvenes en el desarrollo del Estado; adecuándola a las características y necesidades de la región y de la entidad;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+II.- Formular, diseñar, promover y ejecutar la política, planes y programas estatales de atención a la juventud, en congruencia con la política nacional y el Plan Estatal de Desarrollo, permitiendo incorporar plenamente a la juventud en el desarrollo del Estado; adecuándola a las características y necesidades de la región y de la entidad.
 
 III.- Asesorar al Gobernador en la planeación, programación e instrumentación de las políticas y acciones relacionadas con el desarrollo integral de la juventud;
 
@@ -1087,17 +1267,27 @@ V.- Promover, coordinadamente con las dependencias y entidades de la Administrac
 
 VI.- Fungir como representante del Ejecutivo del Estado en materia de la juventud, ante los órdenes de Gobierno Federal y Municipal, organizaciones privadas, sociales y organismos internacionales; así como en foros, convenciones, encuentros y demás reuniones en las que el Gobernador solicite su participación;
 
-VII.- Difundir y promover el respeto y cumplimiento de los derechos y deberes de los jóvenes, así como la promoción de los servicios, programas y logros en la atención de la juventud;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-VIII.- Crear un padrón de organizaciones juveniles y estudiantiles que promuevan la participación de los jóvenes en los distintos ámbitos de la sociedad;
+VII.- Difundir y promover el respeto y cumplimiento de los derechos y deberes de la juventud, así como la promoción de los servicios, programas y logros para su atención;
 
-IX.- Realizar, promover y difundir estudios, diagnósticos e investigaciones sobre la problemática y características juveniles, tendientes a construir políticas encaminadas al mejoramiento de las condiciones de vida y a la búsqueda de alternativas para el desarrollo integral de los jóvenes;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+VIII.- Crear un padrón de organizaciones juveniles y estudiantiles que promuevan la participación de la juventud en los distintos ámbitos de la sociedad;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+IX.- Realizar, promover y difundir estudios, diagnósticos e investigaciones sobre la problemática y características juveniles, tendientes a construir políticas encaminadas al mejoramiento de las condiciones de vida y a la búsqueda de alternativas para el desarrollo integral de la juventud;
 
 X.- Fomentar y estimular el desarrollo y fortalecimiento de organizaciones de la sociedad civil que trabajen en beneficio de la juventud;
 
 XI.- Fomentar el establecimiento de vínculos de amistad y de cooperación nacional e internacional en materia de juventud;
 
-XII.- Gestionar ante agencias nacionales e internacionales financiamiento económico para la instrumentación de programas, proyectos o investigaciones en beneficio (sic) los jóvenes;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+XII.- Impulsar ante las autoridades educativas, el ingreso de las y los jóvenes a la educación básica, media superior y superior, alentando y estimulando su permanencia a través de la gestión de becas, créditos y apoyos que les permitan dar continuidad a su formación educativa;
+
+En la gestión de becas y apoyos se observarán los criterios que aseguren la transparencia, la ayuda preferente a grupos vulnerables, así como la no discrecionalidad.
 
 XIII.- Organizar la entrega del Premio bajo las clasificaciones y modalidades establecidas en esta ley y el Reglamento, así como promover el reconocimiento público y estimulo de actividades sobresalientes de jóvenes en distintos ámbitos del acontecer municipal, estatal, nacional e internacional;
 
@@ -1105,25 +1295,31 @@ XIV.- Realizar las gestiones necesarias con organismos públicos y privados para
 
 XV.- Promover en coordinación con las autoridades laborales, el autoempleo, bolsas de trabajo, capacitación para el empleo juvenil, el primer empleo, como alternativas de acceso a la actividad profesional y laboral;
 
-XVI.- Apoyar el desarrollo de actividades culturales, artísticas, recreativas y de expresión creativa para los jóvenes;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-XVII.- Prestar servicios de orientación y asesoría jurídica para los jóvenes, orientados a la defensa de sus intereses;
+XVI.- Apoyar el desarrollo de actividades culturales, artísticas, recreativas y de expresión creativa para la juventud;
 
-XVIII.- Fomentar la atención de los problemas de salud de los jóvenes, principalmente mediante medidas preventivas de orientación y asesoramiento en el campo de la sexualidad, planificación familiar, adicciones y salud mental;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-XIX.- Desarrollar programas específicos para los jóvenes discapacitados o que pertenezcan a los grupos más vulnerables de la sociedad en coordinación con la Federación y los Municipios;
+XVII.- Prestar servicios de orientación y asesoría jurídica para las y los jóvenes, orientados a la defensa de sus intereses;
 
-XX.- Promover el uso óptimo del tiempo libre de los jóvenes, ampliando sus espacios de encuentro y reconocimiento entre los distintos sectores sociales a los que pertenezca, para favorecer la convivencia y el intercambio cultural;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+XVIII.- Fomentar la atención de los problemas de salud de la juventud, principalmente mediante preventivas de orientación y asesoramiento en el campo de la sexualidad, planificación familiar, adicciones y salud mental;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+XIX.- Desarrollar programas específicos para asegurar que las y los jóvenes que cuenten con alguna discapacidad o pertenezcan a algún sector vulnerable, tengan pleno acceso a los derechos contemplados en esta Ley;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+XX.- Promover el uso óptimo del tiempo libre de la juventud, ampliando sus espacios de encuentro y reconocimiento entre los distintos sectores sociales a los que pertenezca, para fortalecer la convivencia y el intercambio cultural;
 
 XXI.- Recibir y canalizar propuestas y sugerencias e inquietudes de la juventud a los organismos públicos, privados y sociales que correspondan;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-XXII.- Impulsar ante las autoridades educativas, el ingreso de los jóvenes a la educación básica, media superior y superior, alentando y estimulando su permanencia a través de la gestión de becas, créditos y apoyos que les permitan dar continuidad a su formación educativa;
-
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2016)</small>
-
-En la gestión de becas, créditos y apoyos se observarán los criterios que aseguren la transparencia, la ayuda preferente a grupos vulnerables, así como la no discrecionalidad.
+XXII.- Impulsar ante las autoridades educativas, el ingreso de las y los jóvenes a la educación básica, media superior y superior, alentando y estimulando su permanencia a través de la gestión de becas y apoyos que les permitan dar continuidad a su formación educativa;
 
 XXIII.- Fomentar y difundir entre los jóvenes el acceso a nuevas tecnologías de información y comunicación;
 
@@ -1171,25 +1367,35 @@ I.- Junta Directiva;
 
 II.- Dirección;
 
-III.- El Comisario Público;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+III.- El Titular del Órgano Interno de Control;
 
 IV.- Delegaciones, y
 
 V.- Las estructuras administrativas que se establezcan en el Reglamento Interno del Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 85.
 
-La Junta Directiva será la autoridad administrativa superior del Instituto, y quedará integrada por: un Presidente, que será el Titular de la Secretaría Coordinadora de Sector y siete vocales titulares de las siguientes dependencias:
+La Junta Directiva será la autoridad administrativa superior del Instituto, y quedará integrada por una presidencia, que será quien tenga a su cargo la Secretaria Coordinadora del Sector y siete vocales titulares de las siguientes dependencias:
 
-I.- Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-II.- Secretaría de Educación y Bienestar Social;
+I.- Secretaria de Hacienda;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+II.- Secretaría de Educación;
 
 III.- Secretaría del Trabajo y Previsión Social;
 
 IV.- Secretaría de Salud;
 
-V.- Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+V.- Fiscalía General;
 
 VI.- Sistema Estatal para el Desarrollo Integral de la Familia, y
 
@@ -1201,17 +1407,23 @@ A la Junta se incorporaran cinco miembros más, y serán los representantes de c
 
 Los miembros integrantes de la Junta Directiva, tendrán derecho a voz y a voto.
 
-El Director fungirá como Secretario Técnico de la Junta Directiva con voz pero sin derecho a voto.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
-En representación de la Dirección de Control y Evaluación Gubernamental participara un Comisario Público quien tendrá derecho a voz pero no a voto.
+Quien ocupe la Dirección estará a cargo de la Secretaría Técnica de la Junta Directiva con voz, pero sin derecho a voto.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
-A la junta Directiva podrá participar como invitado permanente, un parlamentario juvenil, designado por el parlamento, quien tendrá derecho a voz pero no a voto.
+En representación de la Secretaría de la Honestidad y la Función Pública, participare el o la Titular del Órgano de Control, quien tendrá derecho a voz, pero no a voto.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+A la Junta Directiva podrá participar con invitación permanente, una o un integrante del Parlamento Juvenil, quien tendrá derecho a voz, pero no a voto.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 86.
 
-En cada sesión se levantará acta, la cual, previa aprobación de la misma en la sesión siguiente, será firmada por quien la haya presidido y por el Secretario Técnico así como por aquellos que hayan participado y así quieran hacerlo.
+En cada sesión se levantará acta, la cual, previa aprobación de la misma en la sesión siguiente, será firmada por quien la haya presidido y por la Secretaría Técnica, así como por aquellos que hayan participado y así quieran hacerlo.
 
 ###### ARTÍCULO 87.
 
@@ -1223,13 +1435,19 @@ II.- Aprobar y evaluar el programa anual de trabajo y el programa institucional 
 
 III.- Establecer la congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse el Instituto en relación al cumplimiento de su objeto y administración general;
 
-IV.- Conocer y aprobar en su caso los informes que rinda el Director;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+IV.- Conocer y aprobar, en su caso los informes que rinda la Dirección;
 
 V.- Aprobar los presupuestos de ingresos y egresos del Instituto, así como sus modificaciones;
 
-VI.- Analizar y aprobar, en su caso, los estados financieros y el informe anual de actividades que deberá presentar el Director;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-VII.- Aprobar los proyectos de inversión que le sean presentados por el Director;
+VI.- Analizar y aprobar, en su caso, los estados financieros y el informe anual de actividades que deberá presentar la Dirección;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+VII.- Aprobar los proyectos de inversión que sean presentados por la Dirección;
 
 VIII.- Aprobar la estructura organización del Instituto;
 
@@ -1241,13 +1459,17 @@ XI.- En general, realizar todos los actos y operaciones que sean necesarios para
 
 XII.- Las demás que se le atribuyan (sic) esta Ley, otros ordenamientos y el Reglamento Interno del Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 88.
 
-La Junta Directiva sesionará de manera ordinaria cada tres meses y extraordinariamente cuando así lo requiera, previa convocatoria del Presidente o por dos de los integrantes de la Junta o del Secretario Técnico, cuando existan asuntos que por su importancia lo ameriten.
+La Junta Directiva sesionara de manera ordinaria cada tres meses y extraordinariamente cuando así lo requiera, previa convocatoria de la Presidencia o por dos de los integrantes de la Junta o de la Secretaria Técnica, cuando existan que por su importancia lo ameriten.
 
 El quórum para sesionar válidamente será con la asistencia de la mayoría de sus integrantes.
 
-Las resoluciones se tomaran por mayoría de los miembros presentes, teniendo el presidente voto de calidad en caso de empate.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+Las resoluciones se tomarán por mayoría de las o los integrantes presentes, teniendo el presidente voto de calidad en caso de empate.
 
 ###### ARTÍCULO 89.
 
@@ -1257,11 +1479,15 @@ Los cargos de la Junta Directiva son honoríficos y por su desempeño no se perc
 
 En el Reglamento Interno se determinará los requisitos para emitir la convocatoria y los demás términos y condiciones relativas a las sesiones de la junta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 91.
 
-El Instituto estará a cargo de un Director, quien será designado y removido libremente por el Gobernador del Estado, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
+El Instituto estará a cargo de una o un Director, que se designara y removerá libremente por quien ocupe la Gubernatura del Estado, debiendo recaer tal nombramiento en (sic) persona que reúna los siguientes requisitos:
 
-I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+I.- Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II.- No tener más de veintinueve años cumplidos al día de su designación;
 
@@ -1277,9 +1503,11 @@ VII.- No ser titular y servidor público del Poder Legislativo y Judicial del Es
 
 VIII.- Haber destacado por su labor a favor de la juventud, contar con carrera técnica o profesional a fin al cargo, y tener experiencia en actividades relacionadas con la atención a la problemática de la juventud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 92.
 
-El Director, será el responsable de la administración y funcionamiento del Instituto y tendrá las siguientes facultades y obligaciones:
+La o el Director, será responsable de la administración y funcionamiento del Instituto y tendrá las siguientes facultades y obligaciones:
 
 I.- Administrar y representar legalmente al Instituto;
 
@@ -1295,25 +1523,39 @@ VI.- Recabar información y elementos estadísticos sobre las funciones del Inst
 
 VII.- Las que le confieran las demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 93.
 
-El Instituto contará con un Comisario Público, el cual se encargará de la vigilancia del Instituto. Este será designado y removido libremente por el Director de Control y Evaluación Gubernamental del Poder Ejecutivo.
+El Instituto contara con un Órgano Interno de Control, encargado de la vigilancia del Instituto. Este será designado y removido libremente por la o el titular de la Secretaría de la Honestidad y la Función Pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 94.
 
-El Comisario Público, tendrá las siguientes atribuciones:
+La o el titular del Órgano Interno de Control, tendrá las siguientes atribuciones:
 
-I.- Vigilar que la administración de los recursos y el funcionamiento del Instituto se hagan conforme a la Ley y los programas y directrices aprobados;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-II.- Practicar la auditoría interna de los estados financieros del Instituto;
+I.- Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, en los términos establecidos por el Sistema Estatal Anticorrupción;
 
-III.- Supervisar las operaciones del Instituto;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+II.- Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, según corresponda en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+III.- Presentar denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Combate a la Corrupción;
 
 IV.- Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones;
 
 V.- Recomendar a la Junta Directiva y al Director las medidas preventivas y correctivas que sean convenientes para el mejoramiento de la organización y el funcionamiento del Instituto;
 
-V (SIC).- Asistir a las sesiones de la Junta Directiva sólo con derecho a voz, y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+V (SIC).- Asistir a las sesiones de la Junta Directiva solo con derecho a voz; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE ABRIL DE 2021)</small>
 
 VI.- Las demás que le confieran esta Ley u otras disposiciones aplicables.
 
@@ -1339,9 +1581,11 @@ VII.- Los que adquiera por otros conceptos.
 
 ### CAPÍTULO QUINTO. DE LA EXTINCIÓN O FUSIÓN
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 96.
 
-Cuando el Instituto deje de cumplir con el objeto para el que fue creado o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Planeación y Finanzas, atendiendo la opinión de la dependencia Coordinadora de Sector a la cual se adscribe el mismo, propondrá al Ejecutivo Estatal la extinción o fusión de este organismo, de conformidad con la Ley de las Entidades Paraestatales del Estado de Baja California.
+Cuando el Instituto deje de cumplir con el objeto para el que fue creado o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, la Secretaria de Hacienda ateniendo la opinión de la dependencia Coordinadora del Sector a la cual se adscribe el mismo, propondrá al Ejecutivo Estatal la extinción o fusión de este organismo, de conformidad con la Ley de las Entidades Paraestatales del Estado de Baja California.
 
 ## TÍTULO SEXTO. DE LOS ESTÍMULOS Y RECONOCIMIENTOS
 
@@ -1351,9 +1595,11 @@ Cuando el Instituto deje de cumplir con el objeto para el que fue creado o su fu
 
 El 12 de agosto de cada año, se celebrará la conmemoración del Día Internacional de la Juventud, fecha en que el Instituto organizará la realización de eventos, foros, conferencias, concursos, entrega de premios y reconocimientos, así como las demás actividades que honren a la juventud Bajacaliforniana como parte fundamental de la familia y la sociedad de nuestro Estado.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 98.
 
-El Instituto, celebrará durante el mes de agosto, actos, conferencias, concursos, eventos, foros y ceremonias conmemorativas al Día, promoviendo la participación de los jóvenes en dichas actividades, de conformidad con la disponibilidad presupuestal.
+El Instituto, celebrara durante el mes de agosto actos, conferencias, concursos, eventos, foros y ceremonias conmemorativas al Dia, promoviendo la participación de las y los jóvenes en dichas actividades, de conformidad con la disponibilidad presupuestal.
 
 ###### ARTÍCULO 99.
 
@@ -1369,7 +1615,9 @@ Se instituye el Premio para reconocer la trayectoria de jóvenes con talento, ca
 
 La convocatoria para participar en los concursos y eventos con motivo de la entrega del Premio, será emitida por el Instituto y establecerá las bases, requisitos, procedimiento, modalidades y categorías para el otorgamiento, y se publicará en dos diarios de circulación estatal, en el periódico oficial del Estado, en el portal de internet del Instituto, y se difundirá en las instituciones educativas del Estado.
 
-La cuantía, el tipo de premios, la composición del jurado de premiación, así como las bases para su funcionamiento se determinarán por el Director.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+La cuantía, el tipo de premios, la composición del jurado de premiación, así como las bases para su funcionamiento se determinarán por la Dirección.
 
 ### CAPÍTULO TERCERO. DE LA TARJETA CARNET JOVEN
 
@@ -1385,45 +1633,69 @@ Lo relativo al funcionamiento y operación del Carnet será regulado por el Regl
 
 ### CAPÍTULO CUARTO. DEL PARLAMENTO DE LA JUVENTUD
 
-> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO] P.O. 18 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 104.
 
-El Parlamento es un espacio de expresión política de los jóvenes, promovido por el Congreso del Estado de Baja California, a través de la Comisión que para tales efectos determine.
+El Parlamento es un espacio de expresión política de las y los jóvenes promovido por el Congreso del Estado de Baja California, a través de la Comisión que para tales efectos determine.
 
 Este espacio les permitirá manifestar plenamente sus pensamientos, ideas, opiniones y propuestas sobre los temas y problemas que consideren de mayor impacto en la sociedad y en la vida de la juventud Bajacaliforniana.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 104 BIS.- Para cumplir con la Paridad de manera plena el Comité deberá elegir a 13 mujeres con suplentes del mismo género y 12 hombres que pueden ser acompañados con suplentes de cualquier género.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 105.
 
-La Comisión, en coordinación y colaboración con el Instituto, cada año convocará a la elección de nuevos parlamentarios juveniles, así como la instalación del Parlamento, la cual se llevará a cabo en la sede del Congreso del Estado.
+La Comisión, en coordinación y colaboración con el Instituto, cada año convocará a la elección de nuevos parlamentarios juveniles, emitiendo una convocatoria que deberá señalar los requisitos de selección y plazos para el concurso de los aspirantes.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+La instalación del Parlamento Juvenil se realizará en la Sala de Pleno Benito Juárez García, y de forma subsecuente, sus sesiones se celebran en la Sala Mujeres de Baja California, Forjadoras de la Patria.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 106.
 
-Para la instalación del Parlamento, la Comisión designará los integrantes del Comité Organizador, los cuales serán cargos honoríficos.
+Para la instalación del Parlamento, la Comisión designará las personas que integrarán en (sic) Comité Organizador, los cuales serán cargos honoríficos.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+Además, se invitará a una persona representante de cada una de las instancias municipales de la Juventud para integrar dicho Comité.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 107.
 
-Los requisitos para ser Parlamentario Juvenil son los siguientes:
+Los requisitos para ser Parlamentaria o Parlamentario Juvenil, son los siguientes:
 
-I.- Ser ciudadano mexicano con residencia en el Estado de Baja California;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+I.- Contar con ciudadanía mexicana y con residencia en el Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
 
 II.- Tener una edad máxima de hasta 29 años, a la fecha que establezca la convocatoria y las demás disposiciones aplicables;
 
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
+
 III.- Presentar un Proyecto Legislativo con los requisitos que establezca la convocatoria correspondiente y las demás disposiciones aplicables;
 
-IV.- Los demás que establezca la convocatoria correspondiente y las demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
+IV.- No ser servidor público; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2021)</small>
+
+V.- Los demás que establezca la convocatoria correspondiente y las demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 108.
 
-La instalación de cada nueva Legislatura del Parlamento se realizará cada primero de octubre. El cargo de Parlamentario Juvenil tendrá la misma duración y será de naturaleza honorifica.
+La integración de cada nuevo Parlamento se realizará en el mes de octubre. El cargo de Parlamentario o Parlamentario Juvenil tendrá la misma duración y será de naturaleza honorífica.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 108 BIS.- En sesión previa a la Toma de Protesta, las y los parlamentarios elegirán a su Mesa Directiva con Paridad de Género, mediante la votación de la mayoría calificada de sus integrantes.
 
 ## TÍTULO SÉPTIMO. RÉGIMEN DE TRABAJO Y DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -1435,9 +1707,11 @@ Las relaciones laborales entre el Instituto y sus trabajadores se regirán por e
 
 ### CAPÍTULO SEGUNDO. RESPONSABILIDADES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 110.
 
-Las autoridades, servidores públicos y empleados considerados en la presente Ley que incumplan con la misma, serán sujetos de responsabilidad, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Las autoridades, servidoras y servidores públicos considerados en la presente Ley que incumplan con la misma serán sujetos de responsabilidad con la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado.
 
 ## TRANSITORIOS
 
@@ -1590,3 +1864,15 @@ PRIMERO.- Las presentes reformas, entrarán en vigor al día siguiente al de su 
 SEGUNDO.- El Parlamento de la juventud deberá realizar las reformas correspondientes a sus reglamentos correspondientes, dentro del plazo de 60 días siguientes a la entrada en vigor de las presentes reformas.
 
 TERCERO.- Terminando el periodo en curso, se continuará anualmente con la elección de nuevos parlamentarios, así como la instalación del parlamento.
+
+P.O. 16 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 217 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA”.]
+
+Primero. La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Como consecuencia de las medidas sanitarias generadas por el virus SARS-COV2 (COVID-19), no se generará proceso de selección para integrar nuevo Parlamento de Juventud, hasta en tanto las condiciones de salubridad lo permitan y así lo establezcan las autoridades competentes de la materia.
+
+TRANSITORIO DEL PUNTO SEGUNDO
+
+UNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
