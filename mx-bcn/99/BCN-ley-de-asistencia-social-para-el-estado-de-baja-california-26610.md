@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2018-11-30"
+last_updated: "2021-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
@@ -167,9 +167,9 @@ IV.- Alcohólicos o farmacodependientes, en estado de abandono o indigencia, as�
 
 V.- Mujeres en períodos de gestación o lactancia, adolescentes, carentes de recursos económicos, victimas de abandono o maltrato y en situación de explotación.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
-VI.- Madres solteras en condiciones económicas desfavorables y al cuidado de niñas, niños y adolescentes;
+VI.- Madres y padres solteros que tengan rol de jefa o jefe de familia, en condiciones económicas desfavorables y al cuidado de niñas, niños y adolescentes;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
@@ -1472,3 +1472,9 @@ P.O. 30 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 273 MEDIANTE EL CUAL SE APRUEBA (SIC) REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 216 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN VI DEL ARTÍCULO 5 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
