@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2021-02-20"
+last_updated: "2021-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2021.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -847,11 +847,13 @@ III.- Los que se refieran a la declaratoria de años y días festivos;
 
 IV.- Los que tengan por objeto la creación y otorgamiento de reconocimientos, condecoraciones y preseas por méritos y servicios prestados a la humanidad y al Estado por colimenses, instituciones públicas, privadas o de servicio social, de conformidad con la ley respectiva, así como los que se relacionen con la inscripción o fijación en el Recinto Legislativo, de nombres, fechas, bustos, estatuas, placas, pinturas o frases;
 
-V.- Conocer de los asuntos que se refieran a la creación, organización y funcionamiento de instituciones encargadas de impulsar el Deporte en todas sus ramas; así como el fomento y promoción al Deporte, la Recreación y la Educación Física;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2016)</small>
+V.- Conocer, en forma conjunta con la Comisión de Deporte y Fomento del Sano Esparcimiento, de los asuntos que se refieran a la creación, organización y funcionamiento de instituciones encargadas de impulsar el Deporte en todas sus ramas; así como el fomento y promoción al Deporte, la Recreación y la Educación Física;
 
-VI.- Analizar y dictaminar las propuestas que se hagan al Congreso para el reconocimiento de personas o instituciones públicas, privadas o sociales que se hayan destacado por ser ejemplo en la promoción o práctica del deporte;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2021)</small>
+
+VI.- Analizar y dictaminar, en forma conjunta con la Comisión de Deporte y Fomento del Sano Esparcimiento, las propuestas que se hagan al Congreso para el reconocimiento de personas o instituciones públicas, privadas o sociales que se hayan destacado por ser ejemplo en la promoción o práctica del deporte;
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2016)</small>
 
@@ -1339,13 +1341,17 @@ V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y dispos
 
 Corresponde a la Comisión de Deporte y Sano Esparcimiento conocer de los siguientes asuntos:
 
-I.- Conocer de los asuntos que se refieran a la creación, organización y funcionamiento de Instituciones encargadas de impulsar el Deporte en todas sus ramas, así como el fomento, estimulo y promoción del Deporte, la Recreación, el sano esparcimiento, la activación y la Educación Física;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2021)</small>
+
+I.- Conocer, en primer término, de los asuntos que se refieran a la creación, organización y funcionamiento de Instituciones encargadas de impulsar el Deporte en todas sus ramas, así como el fomento, estímulo y promoción del Deporte, la Recreación, el sano esparcimiento, la activación y la Educación Física;
 
 II.- Conocer de los asuntos que en materia legislativa requieran las instituciones públicas, a fin de cumplir con eficacia su encomienda de promoción continua de la práctica del deporte y la activación física de la población en general
 
 III.- Conocer de los asuntos que en materia normativa o financiera, requieran las instituciones del Estado para la promoción del deporte y la activación física, en el afán de contribuir a la realización de las gestiones institucionales necesarias, orientadas al mejoramiento de la infraestructura deportiva y la creación y rehabilitación de espacios públicos que le permita a las familias colimenses contar con dichas áreas que alienten la convivencia familiar y generacional, que unan y consoliden sus lazos familiares;
 
-IV.- Analizar y dictaminar las propuestas que se hagan al Congreso para el reconocimiento y estimulo de personas o instituciones públicas privadas o sociales que se hayan destacado por ser ejemplo en la promoción o práctica del deporte;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2021)</small>
+
+IV.- Analizar y dictaminar, en primer término, las propuestas que se hagan al Congreso para el reconocimiento y estimulo de personas o instituciones públicas, privadas o sociales que se hayan destacado por ser ejemplo en la promoción o práctica del deporte;
 
 V.- Legislar en materia deportiva, con el propósito de contribuir con las dependencias de la administración pública estatal y los municipios, a la consolidación del sistema estatal del deporte, en la visión de que la práctica del deporte y la activación física, son el componente sustancial del mejoramiento de la calidad de vida de la población;
 
@@ -3730,3 +3736,9 @@ CUARTO.- Los procedimientos que la Contraloría del Congreso hubiese iniciado co
 Propuesta que, sometida a la consideración de los presentes, fue aprobada por unanimidad de las y los Diputados integrantes con derecho a voto de la Comisión de Gobierno Interno y Acuerdos Parlamentarios en términos de lo dispuesto por el artículo 48 de la Ley Orgánica del Poder Legislativo del Estado de Colima y las relativas a su Reglamento, durante el desarrollo de la Sesión Extraordinaria número 19, celebrada el día 26 de enero del año 2021.
 
 El presente acuerdo entrará en vigor el día de su aprobación.
+
+P.O. 17 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 442.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".]
