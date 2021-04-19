@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-administrativas-del-estado-de-122654"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-01"
-last_updated: "2018-09-17"
+last_updated: "2021-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 1 de agosto de 2017.
 
@@ -55,7 +55,9 @@ La presente Ley es de orden público y de observancia general en todo el territo
 
 Son objetivos de la presente Ley:
 
-I. Establecer los principios y obligaciones que rigen el servicio público estatal y municipal;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
+
+I. Establecer los principios y obligaciones que rigen la actuación de los Servidores Públicos;
 
 II. Establecer las faltas administrativas graves y no graves de los servidores públicos estatales y municipales, así como de los actos y faltas de los particulares; las sanciones aplicables a las mismas, así como los procedimientos para su aplicación y las facultades de las autoridades competentes para tal efecto;
 
@@ -73,11 +75,17 @@ Para efectos de esta Ley se entenderá por:
 
 I. Auditoría Superior: La Auditoría Superior de la Federación;
 
-II. Autoridad Investigadora: Aquélla que en el ámbito de su competencia, es la encargada de recibir la denuncia y elaborar el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la presente Ley;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
 
-III. Autoridad Substanciadora: Aquélla que en el ámbito de su competencia, dirige y conduce el procedimiento de responsabilidades administrativas desde la admisión del informe de presunta responsabilidad hasta la conclusión de la audiencia inicial;
+II. Autoridad Investigadora: La autoridad en la Secretaría, los Órganos internos de control y el Órgano Superior de Fiscalización del Estado de Aguascalientes encargada de recibir la denuncia y elaborar el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la presente Ley;
 
-IV. Autoridad Resolutora: Aquélla que en el ámbito de su competencia, impone las sanciones previstas en la presente Ley;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
+
+III. Autoridad Substanciadora: La autoridad en la Secretaria, los Órganos internos de control y el Órgano Superior de Fiscalización del Estado de Aguascalientes que dirige y conduce el procedimiento de responsabilidades administrativas desde la admisión del informe de presunta responsabilidad hasta la conclusión de la audiencia inicial. La función de la Autoridad substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
+
+IV. Autoridad Resolutora: Tratándose de faltas administrativas no graves lo será la unidad asignada en los Órganos Internos de Control. Para las faltas administrativas graves, así como para las faltas de particulares, lo será la Sala Administrativa del Poder Judicial del Estado de Aguascalientes;
 
 V. Comité Coordinador: La instancia a la que se refiere la Ley del Sistema Estatal Anticorrupción de Aguascalientes, encargada del establecimiento de políticas, bases, principios y mecanismos de coordinación con el Sistema Nacional Anticorrupción, de conformidad con lo establecido en el Artículo 82 B de la Constitución Política del Estado de Aguascalientes;
 
@@ -103,7 +111,9 @@ XV. Falta Administrativa No Grave: Las faltas administrativas de los servidores 
 
 XVI. Falta Administrativa Grave: Las faltas administrativas de los servidores públicos catalogadas como graves, cuya sanción corresponde a la Sala;
 
-XVII. Faltas de Particulares: Los actos de personas físicas o morales privadas que están vinculados con faltas administrativas graves a que se refieren los Capítulos III y IV del Título Tercero de esta Ley, cuya sanción corresponde a la Sala en los términos de la misma;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
+
+XVII. Faltas de Particulares: Los actos de personas físicas o morales privadas que están vinculados con faltas administrativas graves a que se refieren los Capítulos III y IV del Título Tercero, Libro Primero de esta Ley, cuya sanción corresponde a la Sala en los términos de la misma;
 
 XVIII. Informe de Presunta Responsabilidad Administrativa: El instrumento en el que las autoridades investigadoras describen los hechos relacionados con alguna de las faltas señaladas en la presente Ley, exponiendo de forma documentada con las pruebas y fundamentos, los motivos y presunta responsabilidad del servidor público o de un particular en la comisión de faltas administrativas;
 
@@ -123,7 +133,9 @@ XXV. Plataforma Digital Nacional: La plataforma a que se refiere la Ley General,
 
 XXVI. Sala: la Sala Administrativa del Poder Judicial del Estado de Aguascalientes;
 
-XXVII. Secretaría: La Secretaría de Fiscalización y Rendición de Cuentas;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
+
+XXVII. Secretaría: La Contraloría del Estado;
 
 XXVIII. Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, conforme a lo dispuesto en el Artículo 73 de la Constitución Política del Estado de Aguascalientes;
 
@@ -144,6 +156,10 @@ II. Aquéllas personas que habiendo fungido como servidores públicos se ubiquen
 III. Los particulares vinculados con faltas administrativas graves; y
 
 IV. Los integrantes del Sistema Estatal Anticorrupción de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2021)</small>
+
+No se considerarán Servidores Públicos los consejeros independientes de los órganos de gobierno de las empresas productivas del Estado ni de los entes públicos en cuyas leyes de creación se prevea expresamente, sin perjuicio de las responsabilidades que establecen las leyes que los regulan.
 
 ### CAPÍTULO II. Los Principios y Directrices que Rigen la Actuación de los Servidores Públicos
 
@@ -245,11 +261,15 @@ La atribución de la Sala para imponer sanciones a particulares en términos de 
 
 ### CAPÍTULO I. Los Mecanismos Generales de Prevención
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2021)</small>
+
 ###### Artículo 13.
 
-Para prevenir la comisión de faltas administrativas y hechos de corrupción, la Secretaría y los órganos internos de control de los entes públicos, deberán implementar acciones para orientar el desempeño de los servidores públicos en sus empleos, cargos, comisiones o funciones, en coordinación con el Sistema Estatal Anticorrupción.
+Para prevenir la comisión de faltas administrativas y hechos de corrupción, la Secretaría y los órganos internos de control, considerando las funciones que a cada una de ellas les corresponden y previo diagnóstico que al efecto realicen, deberán implementar acciones para orientar el criterio que en situaciones específicas deberán observar los servidores públicos en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Estatal Anticorrupción.
 
-En la implementación de las acciones referidas, deberán observar lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ABRIL DE 2021)</small>
+
+En la implementación de las acciones referidas, los órganos internos de control de la Administración Pública Estatal y municipal deberán atender los lineamientos generales que emita la Secretaría. En los Órganos constitucionales autónomos, los órganos internos de control respectivos emitirán los lineamientos señalados. En ambos casos, deberán observar lo siguiente:
 
 I. Elaborar su Código de Ética conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, el cual deberá hacerse del conocimiento de los servidores públicos;
 
@@ -288,6 +308,10 @@ En el sistema estatal de servidores públicos y particulares sancionados del Sis
 Los entes públicos, previo al nombramiento, designación o contratación de quienes pretendan ingresar al servicio público, solicitarán a la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, la consulta del Sistema Estatal de Información así como del Sistema Nacional de Servidores Públicos y particulares sancionados de la Plataforma Digital Nacional, con el fin de verificar si existen inhabilitaciones de dichas personas.
 
 La Secretaría expedirá las constancias respectivas que acrediten la no existencia de Inhabilitación, previa solicitud del interesado.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2021)</small>
+
+Artículo 17 A.- La información relacionada con las declaraciones de situación patrimonial y de intereses, podrá ser solicitada y utilizada por el Ministerio Público, los Tribunales o las autoridades judiciales en el ejercicio de sus respectivas atribuciones, el servidor público interesado o bien, cuando las Autoridades investigadoras, substanciadoras o resolutoras lo requieran con motivo de la investigación o la resolución de procedimientos de responsabilidades administrativas.
 
 ###### Artículo 18.
 
@@ -575,9 +599,11 @@ Incurrirá en utilización indebida de información el servidor público que adq
 
 Se considera información privilegiada la que obtenga el servidor público con motivo de sus funciones y que no sea del dominio público. La restricción prevista en este artículo será aplicable inclusive cuando el servidor público se haya retirado del empleo, cargo, comisión o función hasta por un plazo de un año posterior a la fecha de conclusión del cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2021)</small>
+
 ###### Artículo 43.
 
-Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el Artículo 39 de esta Ley o para causar perjuicio a alguna persona o al servicio público.
+Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el Artículo 39 de esta Ley o para causar perjuicio a alguna persona o al servicio público; así como cuando realiza por sí o a través de un tercero, alguna de las conductas descritas en el artículo 20 Ter, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
 
@@ -2238,3 +2264,19 @@ P.O. 17 DE SEPTIEMBRE DE 2018.
 ###### ARTICULO ÚNICO.
 
 Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 532.- SE REFORMAN LOS ARTÍCULOS 2°, FRACCIÓN II; 3°, FRACCIONES II, III, IV, XVII Y XXVII; 13, PÁRRAFOS PRIMERO Y SEGUNDO; SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 4°; Y EL ARTÍCULO 17 A; TODOS DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 533.- SE REFORMA EL ARTÍCULO 43, PRIMER PÁRRAFO, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
