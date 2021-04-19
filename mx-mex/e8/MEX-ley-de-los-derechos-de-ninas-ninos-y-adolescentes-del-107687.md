@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2020-11-26"
+last_updated: "2021-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE ABRIL DE 2021.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -201,9 +201,11 @@ XXXIX. Sistemas Municipales DIF: A los sistemas municipales para el desarrollo i
 
 XL. Tratados Internacionales: A los tratados internacionales vigentes en materia de derechos humanos de los que el Estado Mexicano sea parte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE ABRIL DE 2021)</small>
+
 ###### Artículo 6.
 
-Esta Ley se aplicará a favor de las niñas, niños y adolescentes sin distinción alguna independientemente de su origen, cultura, sexo, idioma, religión, ideología, nacionalidad, discapacidad, circunstancias de nacimiento o cualquier otra condición propia de quienes legalmente ejerzan la patria potestad, su guarda o tutela en términos de las disposiciones aplicables, tomando en consideración las condiciones particulares de las niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el goce igualitario de todos sus derechos humanos.
+Esta Ley se aplicará a favor de las niñas, niños y adolescentes sin distinción alguna independientemente de su origen, cultura, sexo, idioma, religión, ideología, género, nacionalidad, discapacidad, circunstancias de nacimiento o cualquier otra condición propia de quienes legalmente ejerzan la patria potestad, su guarda o tutela en términos de las disposiciones aplicables, tomando en consideración las condiciones particulares de las niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el goce igualitario de todos sus derechos humanos.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de las niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apatridia, o bien, género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
@@ -304,6 +306,10 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 Niñas, niños y adolescentes tienen derecho intrínseco a la vida de conformidad con la Constitución Estatal y la Convención, a la supervivencia y al desarrollo, quienes deberán vivir en condiciones que sean acordes a su dignidad y que garanticen su desarrollo integral.
 
 Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia ni ser utilizados en conflictos armados o violentos o en la comisión de conductas delictivas.
+
+> <small>(ADICIONADO, G.G. 19 DE ABRIL DE 2021)</small>
+
+Queda prohibido que quienes tengan trato con niñas, niños y adolescentes ejerzan cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante.
 
 Quienes ejerzan la patria potestad, tutela, guarda y custodia tienen la obligación de preservar y exigir el cumplimiento de estos derechos.
 
@@ -459,13 +465,19 @@ Dichos reportes deberán desagregar en lo posible la información, por lo menos,
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones adecuadas que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
-Corresponde en principio y directamente a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes proporcionar dentro de sus posibilidades, las condiciones de vida suficientes para su desarrollo integral.
+> <small>(REFORMADO, G.G. 19 DE ABRIL DE 2021)</small>
+
+Corresponde en principio y directamente a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes proporcionar dentro de sus posibilidades, las condiciones de vida suficientes para su desarrollo integral, por lo que queda prohibido el uso del castigo corporal y cualquier forma o tipo de violencia en todos los ámbitos como método correctivo o disciplinario a niñas, niños o adolescentes.
 
 Las autoridades estatales y municipales estarán obligadas de manera subsidiaria, en el ámbito de sus respectivas competencias, mediante políticas públicas, programas y acciones a crear condiciones para que la familia pueda desempeñar sus derechos y obligaciones de manera adecuada para asegurar los derechos de niñas, niños y adolescentes.
 
 ### Capítulo Octavo. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
+> <small>(REFORMADO, G.G. 19 DE ABRIL DE 2021)</small>
+
 ###### Artículo 26.
+
+Niñas, niños y adolescentes tienen derecho a vivir libres de toda forma y tipo de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
 
 En los casos en que las niñas, niños y adolescentes sean víctimas de delitos se aplicarán las disposiciones aplicables. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
 
@@ -518,6 +530,24 @@ IV. Propiciar la colaboración de maestros y padres de familia en los programas 
 V. Estimular, promover y apoyar actividades extraescolares que complementen y respalden la formación de los educandos, dentro de una cultura libre de violencia y respeto a los derechos humanos.
 
 VI. Fomentar el respeto entre los miembros de la comunidad educativa con especial énfasis en evitar agresiones entre los alumnos y desalentar entre ellos prácticas que generen violencia.
+
+> <small>(ADICIONADO, G.G. 19 DE ABRIL DE 2021)</small>
+
+###### Artículo 30 Bis.
+
+Las personas que tienen a las niñas, niños y adolescentes bajo su responsabilidad, derivado de la patria potestad, tutela, guarda y custodia, la enseñanza, la educación, la salud, acogimiento residencial o cualquier otro encargado de su orientación, educación o cuidado y crianza, tienen el deber de salvaguardar su integridad física y psicológica y moral eliminando de su actuar, como forma de disciplina o correctivo, los castigos corporales, los castigos humillantes y cualquier forma o tipo de violencia; asimismo, deberán promover, en todo momento la crianza positiva, a fin de que contribuyan a su desarrollo integral.
+
+> <small>(ADICIONADO, G.G. 19 DE ABRIL DE 2021)</small>
+
+###### Artículo 30 Ter.
+
+Queda prohibido que quienes tengan trato con niñas, niños y adolescentes ejerzan cualquier forma o tipo de violencia en su contra, en particular el castigo corporal y humillante.
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y disciplina de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda, custodia y crianza, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales, penitenciarias, ministeriales o de cualquier otra índole, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el trato humillante.
+
+Se entenderá por castigo corporal o físico a todo acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con cualquier parte del cuerpo o con algún objeto empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, exposición al sol con el propósito de quemarse, ingesta de alimentos hirviendo u otros productos, incluyendo aquellos que no sean de consumo humano o no alimentarios o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve.
+
+El castigo humillante es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor físico o psicológico amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
 
 ### Capítulo Noveno. Derecho a la Protección de la Salud y a la Seguridad Social
 
@@ -583,11 +613,17 @@ XIX. Establecer medidas para la detección temprana de discapacidades a efecto d
 
 XX. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren las niñas, niños y adolescentes con discapacidad.
 
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XXI. Promover y fomentar programas de educación sobre salud bucodental, así como la práctica de hábitos de higiene dental.
+
 En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, conforme a la presente Ley, así como el derecho a la información de quienes detenten la patria potestad, tutela o guarda y custodia de niños, niñas y adolescentes en relación a su estado de su salud, para cumplir con su obligación constitucional de proteger y exigir el cumplimiento del derecho a la salud de niñas, niños y adolescentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE ABRIL DE 2021)</small>
 
 ###### Artículo 32.
 
-El Sistema Estatal de Salud garantizará que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
+El Sistema Estatal de Salud garantizará que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud, práctica de hábitos de higiene dental y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
 Así mismo, promoverá las políticas públicas que garanticen el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de las niñas, niños y adolescentes, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de las niñas, niños y adolescentes.
 
@@ -707,9 +743,13 @@ XVI. Adoptar medidas para responder a las necesidades de niñas, niños y adoles
 
 XVII. Establecer mecanismos para la expresión y participación de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez que permita atender y tomar en cuenta sus intereses y preocupaciones en materia educativa.
 
-XVIII. Administrar la disciplina escolar de modo compatible con la dignidad humana, impidiendo la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a la dignidad humana o atenten contra la vida o la integridad física o mental de niñas, niños y adolescentes.
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
 
-XIX. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes.
+XVIII. Administrar la disciplina escolar de modo compatible con la dignidad humana, impidiendo la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a la dignidad humana o atenten contra la vida o la integridad física o mental de niñas, niños y adolescentes, incluyendo el castigo corporal, el castigo humillante y cualquier otra forma o tipo de violencia.
+
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XIX. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente el castigo corporal, los tratos o castigos humillantes y degradantes o cualquier otra forma o tipo de violencia.
 
 XX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente.
 
@@ -955,6 +995,10 @@ XI. Implementar medidas para garantizar el resguardo de la intimidad y datos per
 
 XII. Dictar medidas de protección a favor de niñas, niños o adolescentes, cuando esté en riesgo su integridad física o emocional, procurando su interés superior.
 
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XIII. Realizar de forma oficiosa y gratuita las pruebas psicológicas y de entorno social para garantizar la prevención y protección adecuada de niñas, niños y adolescentes víctimas de violencia.
+
 ###### Artículo 59.
 
 Las autoridades estatales garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito, estén exentos de responsabilidad penal y garantizarán que no serán detenidos, retenidos ni privados de su libertad ni sujetos a procedimiento alguno, sin perjuicio de las responsabilidades civiles que correspondan a quienes ejerzan la patria potestad, tutela o guarda y custodia.
@@ -984,6 +1028,10 @@ IV. Que se preserve su derecho a la intimidad, que no se divulguen sus datos de 
 V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones jurídicas aplicables.
 
 VI. Adoptar las medidas necesarias para evitar la re-victimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
+
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+VII. Que se emitan las medidas de protección urgentes, especiales o cautelares correspondientes, para evitar daños a su integridad y que siga la violencia en su contra.
 
 ### Capítulo Décimo Noveno. Niñas, Niños y Adolescentes Migrantes
 
@@ -1145,6 +1193,10 @@ XVI. Administrar los bienes de niñas, niños o adolescentes.
 
 XVII. Ser atendidos por las autoridades respecto de las acciones, políticas y programas que posibiliten el ejercicio de los derechos de niñas, niños o adolescentes.
 
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XVIII. Protegerlas y protegerlos de toda forma y tipo de violencia, castigo corporal o castigo humillante, maltrato, agresión, perjuicio, daño, abuso, venta, trata de personas, explotación o cualquier acto que atente contra su integridad física, psíquica y moral que menoscabe su desarrollo integral.
+
 Las autoridades del Estado de México y sus municipios tienen el compromiso y el deber de respetar y garantizar a quienes ejercen la patria potestad, tutela o guarda y custodia, el goce y ejercicio efectivo de los derechos reconocidos en Constitución Federal y Estatal, esta Ley, los tratados internacionales y demás legislación aplicable.
 
 ###### Artículo 74.
@@ -1159,7 +1211,9 @@ III. Brindarles una educación asegurando que cursen en igualdad de oportunidade
 
 IV. Protegerlos de toda forma de violencia, maltrato, agresión, perjuicio, daño, abuso, venta, trata de personas, explotación o cualquier acto que atente contra su integridad física, psicológica o menoscabe su desarrollo integral.
 
-V. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia familiar, creando condiciones de bienestar que propicien un entorno afectivo y comprensivo que garantice el ejercicio de sus derechos conforme a la presente Ley y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+V. Evitar, eliminar y abstenerse de conductas que puedan vulnerar el ambiente de respeto y generar cualquier forma o tipo de violencia, en cualquier ámbito o circunstancia, en particular el castigo corporal, castigo humillante o denigrante con fines disciplinarios, de corrección y/o con el fin de causarle un daño físico, psicológico y/o moral. Asimismo, se deberán crear condiciones de bienestar que propicien un entorno afectivo y comprensivo que garantice el ejercicio de sus derechos conforme a la presente Ley y demás disposiciones jurídicas aplicables.
 
 VI. Dar en consonancia con la evolución de sus facultades, la dirección y orientación apropiada a niñas, niños y adolescentes.
 
@@ -1297,7 +1351,9 @@ XIV. Adoptar medidas para la eliminación de usos, costumbres, prácticas cultur
 
 XV. Adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución en el ejercicio de los derechos de niñas, niños y adolescentes, víctimas de cualquier forma de violencia.
 
-XVI. Garantizar que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 19 DE ABRIL DE 2021)</small>
+
+XVI. Garantizar que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud, práctica de hábitos de higiene dental y nutrición, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
 XVII. Propiciar las condiciones idóneas para crear un ambiente libre de violencia en las instituciones educativas.
 
@@ -1371,7 +1427,11 @@ XXII. Coordinar con las autoridades de los órdenes de gobierno la implementaci�
 
 XXIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley.
 
-XXIV. Cualquier otra prevista en las disposiciones jurídicas aplicables para el cumplimiento de esta Ley.
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XXIV. Crear y proporcionar programas de enseñanza de habilidades parentales, para favorecer entornos de crianza positiva, basados en el amor, el diálogo, el respeto y sin estereotipos por razón de género, religión, raza entre otros. Así como programas de reeducación de agresores a fin de erradicar las prácticas de castigo corporal, castigo humillante o denigrante, o cualquier tipo o forma de violencia.
+
+XXV. Cualquier otra prevista en las disposiciones jurídicas aplicables para el cumplimiento de esta Ley.
 
 ###### Artículo 86.
 
@@ -1407,7 +1467,11 @@ XIII. Impulsar la participación de las organizaciones de la sociedad civil dedi
 
 XIV. Instalar el Comité Municipal de Erradicación de Trabajo Infantil, a fin de que se determinen las políticas públicas, programas y acciones que coadyuven a comprender el fenómeno laboral y de las condiciones permitidas para ello en cada Municipio.
 
-XV. Las demás que establezcan las autoridades estatales y municipales y aquellas que deriven del cumplimiento de lo dispuesto en la Ley General y de los convenios de coordinación.
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XV. Crear y proporcionar programas de enseñanza de habilidades parentales, para favorecer entornos de crianza positiva, basados en el amor, el diálogo, el respeto y sin estereotipos por razón de género, religión, raza entre otros. Así como programas de reeducación de agresores a fin de erradicar las prácticas de castigo corporal, castigo humillante o denigrante, o cualquier tipo o forma de violencia.
+
+XVI. Las demás que establezcan las autoridades estatales y municipales y aquellas que deriven del cumplimiento de lo dispuesto en la Ley General y de los convenios de coordinación.
 
 #### Sección Segunda. Del Sistema Estatal DIF
 
@@ -2096,3 +2160,21 @@ TERCERO.- La Legislatura Estatal deberá contemplar en el presupuesto de egresos
 CUARTO.- La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México capacitará y determinará los protocolos de actuación necesarios para la atención de la niñez en situación de calle.
 
 QUINTO.- Los Municipios del Estado de México contarán con un periodo no mayor a 90 días naturales, a partir de la entrada en vigor del presente Decreto, para la instalación del Comité Municipal de Erradicación del Trabajo Infantil.
+
+G.G. 19 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 259.- POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 17 Y SE ADICIONA LA FRACCIÓN XXIV BIS AL ARTÍCULO 27 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO, Y SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 32; Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 31; Y LA FRACCIÓN XVI DEL ARTÍCULO 84 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 19 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 261.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO Y DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
