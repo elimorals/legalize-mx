@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-acceso-a-la-informacion-publica-para-el-43783"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-08"
-last_updated: "2005-02-08"
+last_updated: "2021-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE APASEO EL ALTO, GTO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL MUNICIPIO DE APASEO EL ALTO, GUANAJUATO, PUBLICADO EN EL P.O. DE 19 DE ABRIL DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE APASEO EL ALTO, GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:19 DE ABRIL DE 2021 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 8 de febrero de 2005.
 
@@ -608,3 +610,15 @@ Javier Cirón Arzate
 Secretario del H. Ayuntamiento
 
 C. P. Angel Acosta Ochoa
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL MUNICIPIO DE APASEO EL ALTO, GUANAJUATO”.]
+
+PRIMERO. El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento de Acceso a la Información Pública para el Municipio de Apaseo el Alto, Gto., publicado en el Periódico Oficial del Gobierno del Estado, número 22, en fecha 8 de febrero de 2005.
+
+TERCERO. Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente ordenamiento.
