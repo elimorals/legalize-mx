@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-construcciones-para-el-distrito-federal-36854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-29"
-last_updated: "2020-09-11"
+last_updated: "2021-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-27"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE ABRIL DE 2021.
 
 Reglamento publicado en el Número Ter de la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -56,7 +56,9 @@ II. Ley, a la Ley de Desarrollo Urbano del Distrito Federal;
 
 III. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Distrito Federal;
 
-IV. Delegación, al Órgano Político-Administrativo de cada una de las demarcaciones territoriales del Distrito Federal;
+> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2021)</small>
+
+IV. Alcaldía, a los órganos político administrativos de cada una de las demarcaciones territoriales;
 
 V. Reglamento, al presente Reglamento de Construcciones para el Distrito Federal;
 
@@ -129,6 +131,14 @@ XXIV. Evaluación de la seguridad estructural, al proceso de identificación de 
 > <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2017)</small>
 
 XXV. Rehabilitación, al proceso de intervención estructural para recuperar las condiciones originales (reparación) o para mejorar el comportamiento de elementos y sistemas estructurales para que la edificación cumpla con los requisitos de seguridad contra colapso y de limitación de daños en el Reglamento; incluye la recimentación, reforzamiento, reparación y rigidización.
+
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2021)</small>
+
+XXVI. Normas de Rehabilitación, a las Normas para la Rehabilitación Sísmica de Edificios de Concreto Dañados por el Sismo del 19 de septiembre de 2017.
+
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2021)</small>
+
+XXVII. Demarcación Territorial, a la base de la división territorial y de la organización político administrativa de la Ciudad de México.
 
 ###### ARTÍCULO 3.
 
@@ -430,11 +440,15 @@ La Delegación notificará dicho cambio al Servicio Postal Mexicano, a la Tesore
 
 El alineamiento es la traza sobre el terreno que limita el predio respectivo con la vía pública en uso, determinada en los planos debidamente aprobados. El alineamiento contendrá las afectaciones y las restricciones de carácter urbano que señale la Ley y su Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 25.
 
-La Administración expedirá, a solicitud del propietario o poseedor, constancias de alineamiento y número oficial que tendrán una vigencia de dos años contados a partir del día siguiente de su expedición. Cuando el predio pertenezca a dos o más Delegaciones, la Constancia de Alineamiento y número oficial serán expedidos por la Secretaría de Desarrollo Urbano y Vivienda.
+La Administración por conducto de las alcaldías expedirá, a solicitud del propietario o poseedor, constancias de alineamiento y número oficial que tendrán una vigencia de dos años contados a partir del día siguiente de su expedición. Cuando el predio pertenezca a dos o más demarcaciones, la Constancia de Alineamiento y número oficial será expedida por la Secretaría de Desarrollo Urbano y Vivienda.
+
+> <small>(ADICIONADO, G.O. 19 DE ABRIL DE 2021)</small>
+
+La vigencia de la Constancia expedida se considerará prorrogada mediante el pago de derechos que establezca el Código Fiscal de la Ciudad de México, siempre y cuando no se hubieren modificado las condiciones del inmueble señaladas en la Constancia original. Dicha prórroga será anual y se podrá realizar de manera ilimitada, siempre que el pago se cubra de manera continua.
 
 Si entre la expedición de la constancia a que se refiere este artículo y la presentación de la solicitud de licencia de construcción especial o el registro de manifestación de construcción, se hubiese modificado el alineamiento en los términos del artículo 24 de este Título, el proyecto de construcción deberá ajustarse a los nuevos requerimientos.
 
@@ -1754,7 +1768,9 @@ Asimismo, la solicitud debe acompañarse del comprobante de pago de derechos, de
 
 Las vigencias de las prórrogas se sujetarán a lo dispuesto en los artículos 54 y 60 de este Reglamento.
 
-### CAPÍTULO IV. DE LA OCUPACIÓN Y DEL VISTO BUENO DE SEGURIDAD Y OPERACIÓN DE LAS CONSTRUCCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE ABRIL DE 2021)</small>
+
+### CAPÍTULO IV. DE LA OCUPACIÓN, DEL VISTO BUENO DE SEGURIDAD Y OPERACIÓN DE LAS INSTALACIONES EN LAS CONSTRUCCIONES Y DE LA CONSTANCIA DE SEGURIDAD ESTRUCTURAL
 
 > <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2018)</small>
 
@@ -1784,13 +1800,15 @@ Si del resultado de la visita al inmueble y del cotejo de la documentación corr
 
 La Administración está facultada para ordenar la demolición parcial o total de una obra, con cargo al propietario, que se haya ejecutado en contravención a este Reglamento, independientemente de las sanciones que procedan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 68.
 
-El propietario, poseedor o representante legal de una instalación o edificación recién construida, referidas en los artículos 69 y 90 relativas a las edificaciones de riesgo alto, y 139, fracciones I y II, inciso a) de este Reglamento, debe presentar junto con el aviso de terminación de obra ante la Administración, el Visto Bueno de Seguridad y Operación con la responsiva de un Director Responsable de Obra y del Corresponsable en Instalaciones, en su caso.
+El propietario, poseedor o representante legal de una instalación o edificación recién construida o existente, referidas en los artículos 69 y 90 relativas a las edificaciones de riesgo alto, y 139, fracciones I y II, inciso a) de este Reglamento, debe presentar junto con el aviso de terminación de obra, para el caso de obras nuevas, ante la Alcaldía correspondiente, el Visto Bueno de Seguridad y Operación de las Instalaciones de una edificación o instalación, con la responsiva de un Director Responsable de Obra y del Corresponsable en Instalaciones, en su caso.
 
-El Visto Bueno de Seguridad y Operación, debe contener:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE ABRIL DE 2021)</small>
+
+El Visto Bueno de Seguridad y Operación de las Instalaciones, debe contener:
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1804,9 +1822,9 @@ III. La ubicación del inmueble de que se trate;
 
 IV. El nombre y número de registro del Director Responsable de Obra y en su caso, del Corresponsable en Instalaciones;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE ABRIL DE 2021)</small>
 
-V. La declaración bajo protesta de decir verdad del Director Responsable de Obra y el Corresponsable en Instalaciones, en su caso, de que la edificación e instalaciones correspondientes reúnen las condiciones de seguridad previstas por este Reglamento para su operación y funcionamiento.
+V. La declaración bajo protesta de decir verdad del Director Responsable de Obra y el Corresponsable en Instalaciones, en su caso, de que la edificación o instalación cuenta con las instalaciones y sistemas para situaciones de emergencia que reúnen las condiciones de seguridad previstas por este Reglamento para su operación y funcionamiento.
 
 En el caso de giros industriales, debe acompañarse de la responsiva de un Corresponsable en Instalaciones;
 
@@ -1814,21 +1832,23 @@ VI. En su caso, los resultados de las pruebas a las que se refieren los artícul
 
 VII. La declaración del propietario y del Director Responsable de Obra de que en la construcción que se trate se cuenta con los equipos y sistemas de seguridad para situaciones de emergencia, cumpliendo con las Normas y las Normas Oficiales Mexicanas correspondientes.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 19 DE ABRIL DE 2021)</small>
 
-El Visto Bueno de Seguridad y Operación deberá acompañarse de la Constancia de Seguridad Estructural sólo cuando el inmueble pertenezca al grupo A o subgrupo B1, de conformidad con el artículo 139 fracciones I y II, inciso a) de este Reglamento.
+El Visto Bueno de Seguridad y Operación de las Instalaciones deberá acompañarse de la Constancia de Seguridad Estructural vigente, sólo cuando el inmueble pertenezca al grupo A o subgrupo B1, de conformidad con el artículo 139 fracciones I y II, inciso a) de este Reglamento.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 19 DE ABRIL DE 2021)</small>
 
-La renovación del Visto Bueno de Seguridad y Operación se realizará cada tres años, para lo cual se deberá presentar la responsiva del Director Responsable de Obra y, en su caso, la del o los Corresponsables, a excepción de los siguientes centros de reunión: cabarets, discotecas, peñas, bares, salones de baile, de fiesta o similares, en los que la renovación del Visto Bueno de Seguridad y Operación se realizará anualmente.
+La renovación del Visto Bueno de Seguridad y Operación de las Instalaciones se realizará cada tres años, para lo cual se deberá presentar la responsiva del Director Responsable de Obra y, en su caso, la del o los Corresponsables, a excepción de los siguientes centros de reunión: cabarets, discotecas, peñas, bares, salones de baile, de fiesta o similares, en los que la renovación del Visto Bueno de Seguridad y Operación de las Instalaciones se realizará anualmente. En las renovaciones no será necesario presentar el Aviso de Terminación de Obra.
 
-Cuando se realicen cambios en las edificaciones o instalaciones a que se refiere este artículo, antes de que se cumpla el plazo señalado en el párrafo anterior, debe renovarse el Visto Bueno de Seguridad y Operación dentro de los 60 días hábiles siguientes al cambio realizado.
+> <small>(REFORMADO, G.O. 19 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+Cuando se realicen cambios en las edificaciones o instalaciones a que se refiere este artículo, antes de que se cumpla el plazo señalado en el párrafo anterior, debe renovarse el Visto Bueno de Seguridad y Operación de las Instalaciones dentro de los 60 días hábiles siguientes al cambio realizado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 69.
 
-Requieren el Visto Bueno de Seguridad y Operación las edificaciones e instalaciones que a continuación se mencionan, que serán suscritos por un Director Responsable de Obra:
+Se debe registrar ante la Alcaldía correspondiente el Visto Bueno de Seguridad y Operación de las instalaciones de la edificación o instalación con los usos que a continuación se mencionan, que serán suscritos por un Director Responsable de Obra:
 
 I. Escuelas públicas o privadas y cualquier otra edificación destinadas a la enseñanza;
 
@@ -1850,9 +1870,11 @@ V. Ascensores para personas, montacargas, escaleras mecánicas o cualquier otro 
 
 VI. Edificaciones o locales donde se realicen actividades de algún giro industrial en las que excedan la ocupación de 40 m2; hospitales y clínicas, albercas con iluminación subacuática, estaciones de servicio para el expendio de combustible y carburantes, así como plataformas de aterrizaje y despegue de helicópteros; para estos casos los Vistos Buenos también deberán estar suscritos por un Corresponsable en Instalaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 70.
 
-Recibido el aviso de terminación de obra, así como el Visto Bueno de Seguridad y Operación en su caso, se procederá conforme a lo siguiente:
+Recibido el aviso de terminación de obra, así como el Visto Bueno de Seguridad y Operación de las Instalaciones y la Constancia de Seguridad Estructural en su caso, se procederá conforme a lo siguiente:
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1862,17 +1884,47 @@ I. La Administración otorgará la autorización de uso y ocupación, para lo cu
 
 II. La Administración autorizará diferencias en la obra ejecutada con respecto al proyecto presentado, siempre que no se afecten las condiciones de seguridad, estabilidad, destino, uso, servicio, habitabilidad e higiene, se respeten las restricciones indicadas en el certificado único de zonificación de uso de suelo, la constancia de alineamiento y las características de la manifestación de construcción registrada o de la licencia de construcción especial respectiva, y las tolerancias que fijan este Reglamento y sus Normas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, G.O. 19 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 71.
 
-Para las construcciones del Grupo A y subgrupo B1, a las que se refiere el artículo 139 de este Reglamento, se debe registrar ante la Alcaldía correspondiente la Constancia de Seguridad Estructural, renovada cada cinco años, en la que un Corresponsable en Seguridad Estructural haga constar que dicha construcción se encuentra en condiciones adecuadas de seguridad, de acuerdo con las disposiciones de este Reglamento y sus Normas.
+Para las construcciones del grupo A y Subgrupo B1, a que se refiere el artículo 139 de este Reglamento, se debe registrar ante la Alcaldía correspondiente una Constancia de Seguridad Estructural, en la que un Corresponsable en Seguridad Estructural haga constar que dicha construcción cumple los estados límite de falla y de servicio prescritos en las disposiciones de este Reglamento y sus Normas.
 
-> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2019)</small>
+Si la constancia del Corresponsable determina que la construcción no cumple con los estados límites de falla y de servicio, ésta debe rehabilitarse (reforzarse, repararse, recimentarse, entre otras) o modificarse para satisfacerlas.
 
-En caso de ocurrir un sismo de magnitud importante se deberá iniciar el procedimiento de revisión de seguridad estructural en los planteles educativos de cualquier nivel en términos de lo establecido en el artículo 177 BIS de este Reglamento y conforme a los Lineamientos que para tal efecto sean publicados en la Gaceta Oficial de la Ciudad de México.
+Las Constancias de Seguridad Estructural deben basarse en inspecciones oculares exhaustivas, estudios analíticos y de campo, consideraciones de los daños en la estructura, antigüedad, zona geotécnica, y cualquier información pertinente. Deben incluir los aspectos enunciados en la memoria de cálculo estructural especificada en el artículo 53, fracción I, inciso e) de este Reglamento, con excepción de lo relativo al diseño de elementos estructurales, cimentación y conexiones.
 
-Si la constancia del Corresponsable determina que la construcción no cumple con las condiciones de seguridad, ésta debe reforzarse o modificarse para satisfacerlas.
+> <small>(ADICIONADO, G.O. 19 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 71 BIS.- La renovación de la Constancia de Seguridad Estructural deberá realizarse de manera quinquenal o después de un sismo que rebase los 90 cm/s2 de aceleración en el terreno registrada en la “estación acelerométrica SCT” de la red acelerográfica de la Universidad Nacional Autónoma de México, ubicada en zona geotécnica III de la Ciudad de México o cuando lo determine la Administración. Para los dos últimos supuestos la Administración, a través de la Secretaría de Gestión Integral de Riesgos y Protección Civil, y en ausencia, la Secretaría de Obras y Servicios o el Instituto para la Seguridad de las Construcciones, hará pública a través de la Gaceta Oficial de la Ciudad de México la obligación de renovar la Constancia. Para el caso de edificaciones escolares, se deberá atender lo prescrito en el Artículo 71 QUATER, y para las demás construcciones del Grupo A y Subgrupo B1, lo prescrito en el Artículo 71 TER.
+
+> <small>(ADICIONADO, G.O. 19 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 71 TER.- Para el caso de construcciones del Grupo A y Subgrupo B1 que no sean planteles educativos, los Corresponsables de Seguridad Estructural emitirán la Constancia de Seguridad Estructural de conformidad con el proceso de evaluación preliminar para fines de rehabilitación de edificaciones establecido en las Secciones 2.1 y 2.2 de las Normas de Rehabilitación vigentes.
+
+Una vez concluida la etapa de evaluación preliminar, se hará la clasificación del daño y de su impacto en el comportamiento de la edificación según lo establecido en la Sección 2.3 de las Normas de Rehabilitación. Si la edificación se clasifica dentro de la Sección 2.3.3.2 de las Normas de Rehabilitación, el Corresponsable podrá emitir la Constancia de Seguridad Estructural indicando las reparaciones menores que deben efectuarse.
+
+Si se concluye que la edificación se ubica dentro de los supuestos de la Sección 2.3.3.3 de las Normas de Rehabilitación, el Corresponsable deberá emitir una notificación al propietario o poseedor, en la que se indiquen la rehabilitación (reparaciones y/o reforzamientos) que se deben llevar a cabo y, en su caso, las zonas del edificio que deben desalojarse mientras se realizan. El propietario o poseedor presentará esta notificación a la Administración y dispondrá de 12 meses para realizar la rehabilitación. Si terminadas estas obras, el Corresponsable juzga que se hicieron adecuadamente, podrá emitir la Constancia de Seguridad Estructural.
+
+Si se concluye que la edificación se ubica dentro de los supuestos de la Sección 2.3.3.4 de las Normas de Rehabilitación, el Corresponsable deberá indicar al propietario o poseedor que la edificación requiere ser desocupada, total o parcialmente, y rehabilitada, quien enviará copia de esta notificación a la Administración.
+
+En caso de la elaboración de una Constancia de Seguridad Estructural debido a la ocurrencia de un sismo o cuando la Administración así lo determine, ésta se deberá entregar en un plazo no mayor que:
+
+a) 15 días hábiles para las edificaciones del Grupo A y Subgrupo B1 correspondientes a la fracción V del artículo 69 y las estaciones de servicio para el expendio de combustible y carburantes, así como plataformas de aterrizaje y despegue de helicópteros de la fracción VI del artículo 69.
+
+b) 30 días hábiles para las edificaciones del Grupo A y Subgrupo B1 correspondientes a las (sic) fracción V del artículo 69.
+
+c) 60 días hábiles para las edificaciones del Grupo A y subgrupo B1 correspondientes a las fracciones II y III del artículo 69.
+
+d) 90 días hábiles para las edificaciones del Grupo A y subgrupo B1 correspondientes a la (sic) fracciones IV y VI del artículo 69 distintas del inciso a) anterior.
+
+En tanto se emite la Constancia, la edificación o instalación de las fracciones II, III, IV, V y VI del artículo 69 se podrán utilizar sólo si, como resultado de la evaluación postsísmica, se calificaron como “Uso Permitido y Acceso sin Restricción” y se marcaron con un aviso color verde.
+
+En edificaciones en las que no sean aplicables para la evaluación de los daños las Secciones 2.1, 2.2 y 2.3 las Normas de Rehabilitación, el Corresponsable en Seguridad Estructural deberá proponer a la Administración un procedimiento alternativo para su aprobación.
+
+> <small>(ADICIONADO, G.O. 19 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 71 QUATER.- Para el caso de planteles escolares donde se imparta educación a nivel inicial, preescolar, primaria, secundaria, media, media superior y superior, para emitir la Constancia de Seguridad Estructural se deberán aplicar los Lineamientos Técnicos para la Revisión de la Seguridad Estructural de Planteles Educativos en la Ciudad de México después de un Sismo, vigentes. En caso de daño, producido por un sismo o cualquier otra acción, se seguirá lo prescrito en el Artículo 177 Bis de este Reglamento. Si la revisión de la Seguridad Estructural a cargo del Corresponsable, determina que la construcción se encuentra en los supuestos de las Secciones 2.3.3.3 y 2.3.3.4 de las Normas de Rehabilitación, ésta debe ser desocupada y rehabilitada en un plazo no mayor que 12 meses.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -2754,35 +2806,57 @@ II. Que existan defectos en la calidad de los materiales y en la ejecución de l
 
 III. Que el sistema estructural no sea idóneo para resistir fuerzas sísmicas o presente excesivas asimetrías, discontinuidades e irregularidades en planta o elevación que pudieran ser perjudiciales;
 
-IV. (DEROGADA, G.O. 26 DE JULIO DE 2019)
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2021)</small>
+
+IV. Que se trate de una escuela de educación inicial, preescolar, primaria, media, media superior, o superior y que presente daño, para lo cual se revisarán de conformidad con el artículo 177 Bis.
 
 > <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
 
 V. Que se hayan modificado sus muros u otros elementos estructurales o se hayan incrementado significativamente las cargas originales.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 19 DE ABRIL DE 2021)</small>
 
-La verificación de que la edificación se encuentra en alguna de las condiciones anteriores deberá asentarse en el dictamen técnico de estabilidad o de seguridad estructural suscrito por un Corresponsable en Seguridad Estructural.
+La verificación de que la edificación se encuentra en alguna de las condiciones anteriores deberá asentarse en un Dictamen Técnico de Estabilidad y de Seguridad Estructural suscrito por un Corresponsable en Seguridad Estructural y deberá cumplir con el artículo 71 Ter y con lo establecido en el Capítulo Undécimo de las Normas Técnicas Complementarias para la Revisión de la Seguridad Estructural de las Edificaciones. El Dictamen deberá señalar el grado de cumplimiento de la edificación o de la instalación en revisión, de los estados límite de falla y de servicio, prescritos en el Reglamento de Construcciones y en sus Normas Técnicas Complementarias vigentes a la fecha de la revisión.
+
+> <small>(ADICIONADO, G.O. 19 DE ABRIL DE 2021)</small>
+
+En caso de que se requiera la rehabilitación de estructuras, con o sin daño, se hará de tal manera que se alcancen los estados límite de falla y de servicio prescritos en el Reglamento de Construcciones y en sus Normas Técnicas Complementarias vigentes en la fecha del proyecto de rehabilitación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 177 BIS.- Para el caso de planteles escolares donde se imparta educación a nivel inicial, preescolar, primaria, secundaria, media, media superior y superior, se deberá realizar la revisión de la seguridad estructural de conformidad con los Lineamientos Técnicos para la Revisión Estructural de Planteles Educativos en la Ciudad de México después de un Sismo, siempre y cuando la "estación acelerométrica SCT" de la red acelerográfica de la Universidad Nacional Autónoma de México, ubicada en zona geotécnica III de la Ciudad de México, registre aceleraciones en los siguientes supuestos:
+
+> <small>(REFORMADO, G.O. 19 DE ABRIL DE 2021)</small>
+
+a) Cuando se registren aceleraciones de 30 a 60 cm/s2, se deben revisar los planteles educativos de la Ciudad de México que reporten daños;
+
+> <small>(REFORMADO, G.O. 19 DE ABRIL DE 2021)</small>
+
+b) Cuando se registren aceleraciones de 61 a 90 cm/s2, se deben revisar los planteles educativos referidos en el inciso anterior y aquellos que se encuentren localizados dentro de la zona de actuación prioritaria a que se refiere el último párrafo del presente artículo;
+
+> <small>(REFORMADO, G.O. 19 DE ABRIL DE 2021)</small>
+
+c) Cuando se registren aceleraciones mayores que 90 cm/s2 y la Administración, a través del Instituto Local para la Infraestructura Educativa en la Ciudad de México en coordinación con la Autoridad Educativa Federal en la Ciudad de México, haya emitido la Declaratoria de Emergencia correspondiente, se deben revisar todos los planteles educativos de la Ciudad de México.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 19 DE ABRIL DE 2021)</small>
 
 > <small>(ADICIONADO, G.O. 26 DE JULIO DE 2019)</small>
 
-ARTÍCULO 177 BIS.- Para el caso de planteles escolares donde se imparta educación a nivel inicial, preescolar, primaria, secundaria, media, media superior y superior, se deberá realizar un Levantamiento Físico de conformidad con los Lineamientos para la revisión estructural de planteles escolares en la Ciudad de México después de un sismo, que para tal efecto sean publicados en la Gaceta Oficial de la Ciudad de México, siempre y cuando la “estación acelerométrica SCT” de la Red Acelerográfica de la Ciudad de México registre aceleraciones en los siguientes supuestos:
-
-a) En las escuelas de la Ciudad de México que reporten daños, cuando se registren aceleraciones de 30 a 60 gal;
-
-b) En las escuelas referidas en el inciso anterior y aquellas que se encuentren localizadas dentro de la zona de actuación prioritaria a que se refiere el último párrafo del presente artículo, cuando se registren aceleraciones de 61 a 90 gal;
-
-c) En todas las escuelas de la Ciudad de México, cuando se registren aceleraciones mayores a 90 gal y/o la Administración haya emitido la Declaratoria de Emergencia correspondiente.
-
-En cualquier caso, con base en el Levantamiento Físico del plantel educativo, se procederá conforme a los Lineamientos ya citados.
-
 La zona de actuación prioritaria (Figura 1) está delimitada por la siguiente poligonal:
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2019)</small>
 
 -Al Norte: Eje 3 Norte y Avenida 602 en la Alcaldía Gustavo A. Madero; y Calle Oriente 16 y Vía Tapo, en el límite de la Ciudad de México.
 
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2019)</small>
+
 -Al Oriente: Eje 4 Oriente en las Alcaldías Venustiano Carranza e Iztacalco; y Eje 3 Oriente en las Alcaldías Iztapalapa y Coyoacán.
 
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2019)</small>
+
 -Al Sur: Anillo Periférico en las Alcaldías Tlalpan y Coyoacán.
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2019)</small>
 
 -Al Poniente: Av. Insurgentes Sur en la Alcaldía Coyoacán; Av. Revolución en la Alcaldía Benito Juárez; y Eje 4 Poniente en las Alcaldías Miguel Hidalgo y Azcapotzalco.
 
@@ -2792,11 +2866,11 @@ La zona de actuación prioritaria (Figura 1) está delimitada por la siguiente p
 
 Todo propietario o poseedor de un inmueble tiene obligación de denunciar ante la Delegación los daños de que tenga conocimiento que se presenten en dicho inmueble, como los que pueden ser debidos a efectos del sismo, viento, explosión, incendio, hundimiento, peso propio de la edificación y de las cargas adicionales que obran sobre ella, o a deterioro de los materiales e instalaciones.
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 179.
 
-Los propietarios o poseedores de las edificaciones que presenten daños deberán obtener el dictamen técnico de estabilidad o de seguridad estructural elaborado por un Corresponsable en Seguridad Estructural, así como un informe del estado actual de las instalaciones por parte del Corresponsable respectivo. Si se demuestra que los daños no afectan la estabilidad y buen funcionamiento de las instalaciones de la edificación en su conjunto o de una parte significativa de la misma puede dejarse en su situación actual, o bien solo repararse o reforzarse localmente. De lo contrario, el propietario o poseedor de la edificación está obligado a llevar a cabo las obras de refuerzo y renovación de las instalaciones que se especifiquen en el proyecto respectivo, según lo que se establece en el artículo siguiente.
+Los propietarios o poseedores de las edificaciones que presenten daños deberán obtener el Dictamen Técnico de Estabilidad y de Seguridad Estructural elaborado por un Corresponsable en Seguridad Estructural de conformidad con la Norma Técnica Complementaria para la Revisión de la Seguridad Estructural de las Edificaciones, así como un informe del estado actual de las instalaciones por parte del Corresponsable respectivo. Si se demuestra que los daños no afectan la estabilidad y buen funcionamiento de las instalaciones de la edificación en su conjunto o de una parte significativa de la misma puede dejarse en su situación actual, o bien solo repararse o reforzarse localmente. De lo contrario, el propietario o poseedor de la edificación está obligado a llevar a cabo las obras de rehabilitación y renovación de las instalaciones que se especifiquen en el proyecto respectivo, según lo que se establece en el artículo siguiente.
 
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -2806,23 +2880,35 @@ En caso de que los daños en la edificación hayan sido generados por la constru
 
 En el caso de daños provocados por sismo, deberán considerarse las Normas para la rehabilitación sísmica correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 180.
 
-El proyecto de refuerzo estructural y las renovaciones de las instalaciones de una edificación, a que se refiere el artículo anterior, debe cumplir con lo siguiente:
+El proyecto de rehabilitación estructural, así como las renovaciones de las instalaciones de una edificación, a que se refiere el artículo anterior, debe cumplir con lo siguiente:
 
-I. Diseñarse para que la edificación alcance cuando menos los niveles de seguridad establecidos en este Reglamento para las edificaciones nuevas;
+> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2021)</small>
+
+I. Diseñarse para que la edificación satisfaga cuando menos los niveles de seguridad por cumplimiento de los estados límite de falla y de servicio establecidos en este Reglamento para las edificaciones nuevas;
 
 II. Basarse en una inspección detallada de los elementos estructurales y de las instalaciones, en la que se retiren los acabados y recubrimientos que puedan ocultar daños estructurales, y de las instalaciones;
 
-III. Contener las consideraciones hechas sobre la participación de la estructura existente y de refuerzo en la seguridad del conjunto, así como detalles de liga entre ambas, y las modificaciones de las instalaciones;
+> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2021)</small>
+
+III. Contener las consideraciones hechas sobre la participación de la estructura existente y de la rehabilitación en la seguridad del conjunto, así como detalles de liga entre ambas, y las modificaciones de las instalaciones;
 
 IV. Basarse en el diagnóstico del estado de la estructura y las instalaciones dañadas, así como en la eliminación de las causas de los daños que se hayan presentado;
 
-V. Incluir una revisión detallada de la cimentación y de las instalaciones ante las condiciones que resulten de las modificaciones a la estructura, y
+> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2017)</small>
+V. Incluir una revisión detallada de la cimentación y de las instalaciones ante las condiciones que resulten de las modificaciones a la estructura;
 
-VI. Someterse al proceso de revisión que establezca el Instituto, dando aviso al mismo previo el registro de manifestación de construcción o la expedición de la licencia de construcción especial respectiva.
+> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2021)</small>
+
+VI. Someterse al proceso de revisión que establezca el Instituto, dando aviso al mismo previo el registro de manifestación de construcción o la expedición de la licencia de construcción especial respectiva; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE ABRIL DE 2021)</small>
+
+VII. Cumplir con lo dispuesto en las Normas de Rehabilitación vigentes. En edificaciones en las que no sean aplicables las Normas de Rehabilitación, el Corresponsable en Seguridad Estructural deberá proponer a la Administración los procedimientos alternativos para su aprobación.
 
 ###### ARTÍCULO 181.
 
@@ -3847,3 +3933,11 @@ G.O. 11 DE SEPTIEMBRE DE 2020.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 19 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES AL REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL CON RELACIÓN A LA VIGENCIA DE LA CONSTANCIA DE ALINEAMIENTO Y NÚMERO OFICIAL, ASÍ COMO PARA FORTALECER LA REVISIÓN DE LA SEGURIDAD ESTRUCTURAL DE PLANTELES EDUCATIVOS”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entra en vigor al día siguiente de su publicación.
