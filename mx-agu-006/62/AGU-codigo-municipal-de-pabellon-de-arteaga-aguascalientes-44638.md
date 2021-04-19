@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2021-03-15"
+last_updated: "2021-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2021.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -427,59 +427,59 @@ VIII.- Dictaminar y valorar los trabajos que presenten los cronistas para su dif
 
 IX.- Las demás que le confiera ayuntamiento y otras disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
 
-ARTICULO 17 QUÁTER.- El Consejo Municipal del Deporte coadyuvará con las autoridades municipales como un órgano de coordinación entre éstas y la sociedad pabellonense y se integrará de la siguiente manera:
+ARTICULO 17 QUATER.- El Consejo Municipal del Deporte coadyuvará con las autoridades municipales como un órgano de coordinación entre éstas y la sociedad pabellonense y se integrará de la siguiente manera:
 
-I.- Un presidente que será el Presidente Municipal;
+I.- Un presidente que será el Presidente Municipal o la persona que sea designada por éste;
 
 II.- Un Secretario Técnico que será el Jefe del Departamento de Fomento al Deporte;
 
 III.- Vocales que serán:
 
-a).- El regidor que preside la Comisión de Educación, Cultura y Deporte, y
+a).- El regidor que preside la Comisión de Educación, Cultura y Deporte,
 
-b).- Los presidentes de las diferentes ligas o asociaciones deportivas del municipio.
+b).- Los presidentes de las diferentes ligas o asociaciones deportivas del municipio, y
 
-El Consejo Municipal del Deporte sesionará de manera ordinaria cada seis meses y de manera extraordinaria cuando así sea convocado por su presidente.
+c).- Los organismos de la sociedad civil sin fines de lucro, domiciliados en el municipio y debidamente constituidos conforme a la legislación vigente, cuyo objeto sea el fomento y práctica organizada del deporte.
 
-Cada uno de los Integrantes del Consejo tendrá derecho a voz y voto en las sesiones que celebre el mismo.
+El Consejo Municipal del Deporte sesionará de manera ordinaria cada tres meses y de manera extraordinaria cuando así sea convocado por su presidente, siempre y cuando la convocatoria se realice con un mínimo de 72 horas de antelación.
 
-> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
 
 ARTICULO 17 QUINQUIES.- Son facultades del Consejo Municipal del Deporte:
 
-I.- Coordinar las acciones de los diferentes agentes que promueven u organizan la enseñanza y la práctica deportiva en el municipio;
+I.- Coordinar las acciones de los diferentes agentes que promueven u organizan la enseñanza y la práctica deportiva en el municipio, incluyendo a los equipos, escuelas, clubes y ligas de todas las disciplinas debidamente organizadas, así como organismos de la sociedad civil;
 
-II.- Establecer propuestas y opiniones acerca de las políticas públicas del gobierno municipal en materia deportiva;
+II.- Establecer propuestas y opiniones acerca de las políticas públicas del gobierno municipal en materia deportiva, asegurando la participación de clubes, equipos, escuelas, ligas de todas las disciplinas deportivas debidamente organizadas y organismos de la sociedad civil sin fines de lucro, debidamente constituidos conforme a la normatividad vigente y cuyo objeto sea el fomento y práctica organizada del deporte;
 
-III.- Evaluar la política municipal en relación con el deporte en el municipio;
+III.- Evaluar la política municipal en relación con el deporte en el municipio, con el apoyo y asesoría técnica de todos los agentes que promueven la práctica del deporte como clubes, escuelas, equipos, ligas debidamente organizadas y organismos de la sociedad civil;
 
-IV.- Servir de intermediario a solicitud de las ligas o asociaciones del municipio con las asociaciones de carácter estatal cuando se requiera el aval y visto bueno para la realización de eventos deportivos;
+IV.- Servir de intermediario a solicitud de las ligas o asociaciones del municipio con las asociaciones de carácter estatal y nacional cuando se requiera el aval y visto bueno para la realización de eventos deportivos, priorizando aquellos en los que participen clubes, escuelas y equipos de ligas debidamente organizadas, así como aquellos organismos de la sociedad civil sin fines de lucro constituidos conforme a la legislación vigente;
 
-V.- Formular su plan anual de actividades que integre las propuestas de cada una de las ligas y participar en la formulación del Programa Municipal del Deporte;
+V.- Formular su plan anual de actividades que integre las propuestas de cada una de las ligas, equipos, clubes, organismos privados y de la sociedad civil, así como participar en la formulación del Programa Municipal del Deporte según lo disponga el Reglamento respectivo;
 
-VI.- Promover y procurar programas de asesoría y capacitación técnica dirigidos a promotores deportivos, a fin de proporcionar un mayor incremento en la calidad competitiva y de organización;
+VI.- Promover y procurar programas de asesoría y capacitación técnica dirigidos a promotores y a todos los agentes deportivos, entendiéndose por éstos a los clubes, escuelas, equipos, organismos de la sociedad civil y ligas de todas las disciplinas deportivas en el municipio, a fin de proporcionar un mayor incremento en la calidad competitiva y de organización;
 
-VII.- Fortalecer el funcionamiento de ligas municipales en todas las disciplinas deportivas;
+VII.- Fortalecer el funcionamiento de ligas en todas las disciplinas deportivas, garantizando los recursos presupuestarios, materiales y humanos para aquellas competencias y torneos estatales, regionales y nacionales en donde se acredite la participación de los agentes deportivos, de conformidad con la clasificación prevista en la fracción inmediata anterior;
 
-VIII.- Proponer programas de capacitación en materia deportiva;
+VIII.- Proponer programas de capacitación en materia deportiva y gestión organizacional para todos los agentes deportivos en el municipio;
 
-IX.- Establecer mecanismos que propicien la conservación y buen uso de los espacios deportivos municipales, procurando su óptimo aprovechamiento;
+IX.- Establecer mecanismos que propicien la conservación y buen uso de los espacios deportivos municipales, procurando su óptimo aprovechamiento y garantizando su uso preferente a los agentes deportivos que acrediten participar en competencias, torneos y ligas tanto locales, estatales, regionales y nacionales;
 
-X.- Realizar propuestas para la ampliación y el mejoramiento de la infraestructura deportiva del municipio, mediante la adquisición, construcción y adaptación de áreas para la práctica del deporte;
+X.- Impulsar mediante su inclusión en los presupuestos de egresos de cada ejercicio fiscal, la ampliación y el mejoramiento de la infraestructura deportiva del municipio, a través de la adquisición, construcción y adaptación de áreas para la práctica del deporte, incluyendo aquellas que son utilizadas por los agentes deportivos;
 
-XI.- Servir de órgano de coordinación para la programación del uso de las instalaciones deportivas municipales;
+XI.- Servir de órgano de coordinación, tramitación y resolución para la programación del uso de las instalaciones deportivas municipales, en donde tendrán prioridad los agentes deportivos en el municipio y que previa solicitud a la Dirección respectiva, acrediten fehacientemente la necesidad de utilizar las instalaciones deportivas municipales, comprometiéndose a observar las medidas necesarias para dispensar los cuidados correspondientes;
 
-XII.- Proponer los programas de adquisición de materiales, servicios de capacitación necesarios para la operatividad de la enseñanza y práctica deportiva;
+XII.- Proponer los programas de adquisición de materiales y contratación de servicios de capacitación necesarios para la operatividad de la enseñanza y práctica deportiva, garantizando su inclusión en los presupuestos de egresos de cada ejercicio fiscal;
 
-XIII.- Impulsar, promover y apoyar a los deportistas destacados a efecto de facilitar" su pleno desarrollo;
+XIII.- Impulsar, promover y apoyar a los deportistas destacados, a efecto de facilitar su pleno desarrollo, fortalecimiento individual, organizacional y reconocer su contribución a la sociedad;
 
-XIV. Organizar seminarios, mesas redondas, páneles y foros en donde se discuta la problemática en materia deportiva y para la capacitación de entrenadores, deportistas y árbitros;
+XIV. Organizar seminarios, mesas redondas, paneles y foros en donde se discuta la problemática en materia deportiva y para la capacitación de entrenadores, deportistas, árbitros y agentes deportivos en el municipio;
 
-XV.- Proponer la realización de certámenes, torneos, encuentros, competencias y otros eventos en donde se propicie la participación de equipos o deportistas individuales, o la incorporación de equipos o deportistas pabellonenses en eventos que se realicen en otros municipios, y
+XV.- Proponer la realización de certámenes, torneos, encuentros, competencias y otros eventos en donde se propicie la participación de agentes deportivos, o la incorporación de equipos o deportistas pabellonenses en eventos que se realicen en otros municipios, y
 
-XVI.- Las demás que le confiera el ayuntamiento u otras disposiciones jurídicas aplicables.
+XVI.- Las demás que le confiera el ayuntamiento, el Reglamento del Consejo Municipal del Deporte u otras disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -1205,31 +1205,43 @@ XIII.- Participar en el Consejo de Honor y Justicia de la Dirección de Segurida
 
 XIV.- Los demás que le señalen las leyes, los reglamentos, el presente Código y le sean encomendados por el H. Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
 
 ###### ARTICULO 52.
 
 Corresponden a la Comisión de Desarrollo Urbano y Obras Públicas los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
-
 I.- Supervisar el trabajo de las dependencias municipales en materia de desarrollo urbano, verificando que éstas cumplan con los postulados y requerimientos contemplados en el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado y en los programas de desarrollo urbano municipal;
 
-II.- Promover que las dependencias municipales correspondientes, efectúen la actualización de los diferentes programas de desarrollo urbano municipal;
+II.- Elaborar el dictamen relativo a la nomenclatura de las calles, colonias, fraccionamientos, parques, jardines, y en general todo espacio público de propiedad municipal,
 
-III.- Detectar de la población las diferentes demandas en materia de obras y servicios y proponer al ayuntamiento su inclusión en los programas de obra pública;
+III.- Promover que las dependencias municipales correspondientes, efectúen la actualización de los diferentes programas de desarrollo urbano municipal;
 
-IV.- Vigilar que las obras públicas realizadas por las autoridades municipales se realicen con apego a la normatividad vigente en materia de control de calidad;
+IV Proponer al H. Ayuntamiento la uniformidad de la nomenclatura externa domiciliaria y comercial;
 
-V.- Verificar que la asignación de obras públicas a los particulares se haga con apego a la ley correspondiente, observándose estrictamente los procedimientos de licitación, asignación y contratación;
+V.- Proponer, opinar y dictaminar en lo relativo al alineamiento, conservación y apertura de vías públicas;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2018)</small>
+VI.- Supervisar que las dependencias de la administración pública municipal correspondientes, mantengan en las mejores condiciones de uso y libres de obstáculos, las vías públicas, parques, jardines y demás espacios públicos de propiedad municipal;
 
-VI.- Promover que se investiguen los antecedentes de los trámites, construcciones, obras de urbanización, tala de árboles, demás acciones en materia de desarrollo urbano, a efecto de que éstos se realicen de conformidad con lo establecido en el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado, el presente código y los programas de la materia vigentes en el municipio;
+VII.- Proponer la realización de campañas para mejorar la conservación, mantenimiento y perfeccionamiento de las vías públicas,
 
-VII.- Supervisar el trabajo realizado por las áreas administrativas encargadas del desarrollo urbano y de obras públicas; y
+VIII.- Realizar estudios para establecer la normatividad aplicable en materia de ornato, anuncios y demás elementos que repercuten en la imagen urbana;
 
-VIII.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
+IX.- Proponer al ayuntamiento las mejoras necesarias en las vialidades, parques, jardines y demás espacios públicos de propiedad municipal, a efecto de que sean contempladas en los programas de obra pública, y en su caso en presupuesto de egresos;
+
+X.- Proponer la creación así como la apertura de nuevas vialidades;
+
+XI.- Detectar de la población las diferentes demandas en materia de obras y servicios y proponer al ayuntamiento su inclusión en los programas de obra pública;
+
+XII.- Vigilar que las obras públicas realizadas por las autoridades municipales se realicen con apego a la normatividad vigente en materia de control de calidad;
+
+XIII.- Verificar que la asignación de obras públicas a los particulares se haga con apego a la ley correspondiente, observándose estrictamente los procedimientos de licitación, asignación y contratación;
+
+XIV.- Promover que se investiguen los antecedentes de los trámites, construcciones, obras de urbanización, tala de árboles, demás acciones en materia de desarrollo urbano, a efecto de que éstos se realicen de conformidad con lo establecido en el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado, el presente código y los programas de la materia vigentes en el municipio;
+
+XV.- Supervisar el trabajo realizado por las áreas administrativas encargadas del desarrollo urbano y de obras públicas, y
+
+XVI.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -1251,45 +1263,79 @@ V.- Proponer la realización de nuevas obras y ampliaciones de redes, con base e
 
 VI.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
 
-> <small>(REFORMADO [N. DE E. Y FUSIONADOS ANTES ARTÍCULOS 54 Y 62], P.O. 23 DE ENERO DE 2017)</small>
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2021)
 
 ###### ARTICULO 54.
 
 Corresponden a la Comisión de Educación, Cultura y Deporte los siguientes asuntos:
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 I.- Realizar visitas periódicas a los centros educativos para observar el desarrollo de los planes y sistemas educativos;
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 II.- Recabar información estadística de todos los niveles educativas (sic) que operan en el municipio;
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 III.- Participar en el Comité Municipal de Educación;
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 IV.- Supervisar la correcta asignación de becas;
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 V.- Coordinarse con las autoridades educativas a efecto de detectar las necesidades y estar en posibilidad de realizar propuestas para la mejoría del servicio;
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 VI.- Promover que se levante una encuesta de las necesidades en materia educativa a fin de estructurar un programa integral municipal en la materia;
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 VII.- Coordinarse con las autoridades competentes a efecto de efectuar programas para evitar la deserción escolar y para alcanzar un mayor promedio de escolaridad en el municipio;
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 VIII.- Mantener contacto con las asociaciones de padres de familia, a efecto de estar pendiente de las necesidades en materia educativa municipal;
 
 Corresponden a la Comisión de Deporte los siguientes asuntos:
 
-IX.- Vigilar que se promueva la práctica planificada y coordinada del deporte, a efecto de propiciar el desarrollo físico y mental de los habitantes;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
+
+IX.- Vigilar que se promueva la práctica planificada y coordinada del deporte a efecto de propiciar el desarrollo físico y mental de los habitantes, y someter al pleno del Cabildo la inclusión de una partida específica, permanente y progresiva en el presupuesta de egresos de cada ejercicio fiscal, destinada a fortalecer el deporte en el municipio, así como a los clubes, escuelas, equipos y organismos de la sociedad civil sin fines de lucro debidamente constituidos conforme a la legislación vigente que fomentan la práctica organizada del deporte, para solventar sus necesidades de recursos materiales, humanos y financieros, de conformidad con su objeto social y disciplina deportiva;
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 X.- Proponer la construcción de campos, canchas y unidades deportivas en el municipio;
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 XI.- Vigilar que se realice la conservación, rehabilitación y buen funcionamiento de los campos, canchas y unidades deportivas dentro del municipio;
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 XII.- Mantener comunicación con las diferentes autoridades, asociaciones y clubes deportivos a fin de lograr una mayor proyección de los deportistas del Municipio;
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 XIII.- Proponer la realización de eventos deportivos;
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 XIV.- Propiciar que se apoye a los deportistas destacados, mediante estímulos y becas;
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 XV.- Mantener comunicación permanente con el responsable del área deportiva del municipio, supervisando sus actividades;
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 XVI.- Asistir a las inauguraciones, clausuras, premiaciones y todo tipo de actividades que tengan relación con el deporte; y
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 XVII.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
 
@@ -1319,57 +1365,97 @@ IX.- Verificar que la inspección reglamentaria municipal cumpla estrictamente c
 
 X.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
 
-> <small>(REFORMADO [N. DE E. Y FUSIONADOS ANTES ARTÍCULOS 56 Y 57], P.O. 23 DE ENERO DE 2017)</small>
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2021)
 
 ###### ARTICULO 56.
 
 Corresponden a la Comisión de Servicios Públicos los siguientes asuntos:
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 I.- Supervisar que las unidades administrativas de la Presidencia Municipal y particularmente el área de servicios públicos, preste con eficiencia, continuidad y regularidad los servicios de alumbrado público, panteones y mercados;
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 II.- Proponer áreas o zonas en las comunidades, delegaciones, subdelegaciones, colonias, barrios o rancherías del municipio en cuanto a la instalación, mantenimiento y supervisión de los sistemas de alumbrado público;
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 III.- Proponer al H. Ayuntamiento la instalación y mejoramiento del alumbrado público en las vías de comunicación y lugares de tránsito, así como lugares donde se requiera la ampliación del mismo;
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 IV.- Recorrer el municipio para detectar las deficiencias en materia de alumbrado público;
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 V.- Proponer y dictaminar en su caso, las normas en materia de cementerios;
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 VI.- Coordinarse con las autoridades de salud, a efecto de estudiar y analizar la normatividad vigente en materia de cementerios, a efecto de proponer las mejoras que sean necesarias para una más sana y segura prestación de los servicios;
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 VII.- Realizar la evaluación del servicio de cementerios, a efecto de proponer la construcción de nuevos, en aquellas comunidades en donde se requiera este servicio;
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 VIII.- Estudiar y proponer con toda oportunidad al ayuntamiento, el precio de los terrenos destinados a la utilización de fosas y/o arrendamiento de las mismas, a efecto de que se contemplen en la Ley de Ingresos;
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 IX.- Promover la adquisición de hornos crematorios en los cementerios municipales, supervisando su mantenimiento y reposición, procurando la autosuficiencia económica, su simplificación y eficiencia;
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 X.- Proponer la reestructuración, modernización y funcionalidad de los panteones y mercados existentes en el municipio;
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 XI.- Supervisar la prestación del servicio de mercados públicos, tianguis y en general el comercio en la vía pública;
 
-XII.- Elaborar el dictamen relativo a la nomenclatura de las calles, colonias, fraccionamientos, parques, jardines, y en general todo espacio público de propiedad municipal;
+XII.- (DEROGADA, P.O. 19 DE ABRIL DE 2021)
 
-XIII.- Proponer al H. Ayuntamiento la uniformidad de la nomenclatura externa domiciliaria y comercial;
+XIII.- (DEROGADA, P.O. 19 DE ABRIL DE 2021)
 
-XIV.- Proponer, opinar y dictaminar en lo relativo al alineamiento, conservación y apertura de vías públicas;
+XIV.- (DEROGADA, P.O. 19 DE ABRIL DE 2021)
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 XV.- Supervisar que las dependencias de la administración pública municipal correspondientes, mantengan en las mejores condiciones de uso y libres de obstáculos, las vías públicas, parques, jardines y demás espacios públicos de propiedad municipal;
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 XVI.- Proponer la realización de campañas para mejorar la conservación, mantenimiento y perfeccionamiento de las vías públicas, parques, jardines y demás espacios públicos de propiedad municipal;
 
-XVII.- Realizar estudios para establecer la normatividad aplicable en materia de ornato, anuncios y demás elementos que repercuten en la imagen urbana;
+XVII.- (DEROGADA, P.O. 19 DE ABRIL DE 2021)
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 XVIII.- Proponer al ayuntamiento las mejoras necesarias en las vialidades, parques, jardines y demás espacios públicos de propiedad municipal, a efecto de que sean contempladas en los programas de obra público (sic), y en su caso en presupuesto de egresos;
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 XIX.- Proponer la creación de nuevos parques y jardines en las comunidades o colonias en donde sean necesarios, así como la apertura de nuevas vialidades;
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 XX.- Supervisar y vigilar el funcionamiento del área administrativa municipal encargada de los servicios de limpia y recolección de basura, a efecto de que este servicio se preste con regularidad y eficiencia, teniendo la mayor cobertura posible;
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 XXI.- Vigilar el aprovechamiento óptimo de la Estación de Transferencia de Residuos sólidos en el municipio;
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 XXII.- Estudiar y vigilar que se propongan al H. Ayuntamiento, los planes y sistemas de aseo público que se estime adecuados para el municipio;
 
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
+
 XXIII.- Promover programas con la colaboración de los vecinos, los clubes de servicio, organizaciones civiles, obreros, campesinos y empresarios, a efecto de realizar campañas de limpieza; y
+
+> <small>(REFORMADA , P.O. 23 DE ENERO DE 2017)</small>
 
 XXIV.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
 
@@ -3851,37 +3937,67 @@ XV.- Lo demás que señalen las leyes, el presente Código o le encomiende el H.
 
 #### SECCIÓN OCTAVA BIS. De la Dirección de Desarrollo Integral de la Persona
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2021)
 
 ARTICULO 219 BIS.- Corresponde a la Dirección de Desarrollo Integral de la Persona:
 
-I.- Coordinar la prestación de los servicios de educación, cultura, deporte y recreación que la Presidencia Municipal proporciona a la ciudadanía;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
+
+I.- Coordinar la prestación de los servicios de educación, cultura, deporte y recreación que la Presidencia Municipal proporciona a la ciudadanía y participar, por conducto de la persona titular del Departamento de Fomento al Deporte en el Consejo Municipal previsto en el artículo 17 Quáter del presente Código;
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
 
 II.- Propiciar el involucramiento de la sociedad pabellonense en todas las actividades deportivas, culturales, artísticas y de capacitación profesional;
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
 III.- Apoyar a la educación en coordinación con las autoridades estatales y federales y a través de las academias municipales o la implementación de programas especiales;
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
 
 IV.- Realizar las tareas artísticas y culturales derivadas de los planes y programas del municipio;
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
 V.- Apoyar al fortalecimiento de los valores y rescate de nuestras tradiciones;
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
 
 VI.- Hacer la crónica de los sucesos relevantes en el municipio, pasados o presentes;
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
 VII.- Administrar las bibliotecas y museos del municipio;
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
 
 VIII.- Formular estrategias para la conservación y enriquecimiento de las expresiones culturales propias del municipio;
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
 IX.- Promover las actividades deportivas y de recreación;
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
 
 X.- Promover la participación ciudadana en programas recreativos y deportivos;
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
 XI.- Integrar a las personas con discapacidad en los diferentes programas culturales, educativos, deportivos, recreativos y de capacitación que implemente el municipio;
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
 
 XII.- Fomentar e impulsar la cultura y las artes mediante estímulos y apoyos a los artistas e intelectuales de las diversas expresiones del conocimiento;
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
 XIII.- Promover la participación de los habitantes del municipio mediante cursos, talleres y eventos de divulgación cultural, científica, tecnológica y artística;
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
 XIV.- Promover la creación de espacios de formación cultural y artística, y
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
 
 XV.- Lo demás que señalen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
@@ -4575,17 +4691,19 @@ De conformidad con lo dispuesto por la Constitución Política de los Estado Uni
 
 Con el propósito de optimizar los recursos municipales el Ayuntamiento deberá planear, programar y presupuestar sus actividades con honestidad, claridad y transparencia.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
 
 ###### ARTICULO 257.
 
-La presupuestación del Gasto Público deberá ser basada en criterios de racionalidad, austeridad y disciplina.
+La presupuestación del Gasto Público deberá estar basada en criterios de eficiencia, eficacia, economía, transparencia, honradez, racionalidad, austeridad y disciplina, para satisfacer los objetivos a los que estén destinados los recursos públicos.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
 
 ###### ARTICULO 258.
 
-El presupuesto de egresos deberá elaborarse de acuerdo con las prioridades establecidas en el Plan Municipal de Desarrollo y unirse a la disponibilidad de recursos financieros, materiales y humanos; se formarán en base a programas institucionales los cuales de manera enunciativa más no limitativa podrán consistir en convenios de desarrollo, de coordinación y concertación con los sectores público y social y programas operativos anuales, entre otros; en estos deberán señalarse los objetivos, metas, beneficios, unidades responsables de su ejecución, fuentes de ingreso y bases para hacer la evaluación sistemática de las acciones en ellos contempladas.
+El presupuesto de egresos deberá elaborarse de acuerdo con las prioridades establecidas en el Plan Municipal de Desarrollo y unirse a la disponibilidad de recursos financieros, materiales y humanos; se formará en base a programas institucionales, los cuales de manera enunciativa más no limitativa podrán consistir en convenios de desarrollo, de coordinación y concertación con los sectores público y social y programas operativos anuales, entre otros; en estos deberán señalarse los objetivos, metas, beneficios, unidades responsables de su ejecución, fuentes de ingreso y bases para hacer la evaluación sistemática de las acciones en ellos contempladas.
+
+En materia de promoción y fomento al deporte municipal, el presupuesto de egresos contemplará un subsidio en el rubro denominado FOMENTO DEPORTIVO que se destinará específicamente al fortalecimiento de los equipos, escuelas, ligas de todas las disciplinas deportivas y organismos de la sociedad civil sin fines de lucro, domiciliados en el municipio y debidamente constituidos conforme a la legislación vigente cuyo objeto sea la práctica organizada del deporte. Para estos efectos, el Consejo Municipal del Deporte a través de su reglamento respectivo, establecerá las reglas de operación, bases, modalidades y lineamientos para ejercer los recursos autorizados en cada ejercicio fiscal.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -4707,11 +4825,19 @@ Lo señalado en este capítulo se aplica en lo conducente para la elaboración d
 
 El Gasto Público será ejercido con apego al presupuesto y a los programas aprobados, así como a los calendarios financieros autorizados por la Dirección de Finanzas y Administración.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2021)</small>
+
+La evaluación del desempeño del gasto público se llevará a cabo por la Coordinación Municipal de Planeación (COMUPLA-PAB) tomando en cuenta la satisfacción de los objetivos para los que se destinaron los recursos.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2021)</small>
+
+La Coordinación Municipal de Planeación (COMUPLA-PAB) ejercerá sus funciones de evaluación del desempeño del gasto público, en los términos de lo dispuesto por la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y por su propio reglamento.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
 
 ###### ARTICULO 276.
 
-El Ayuntamiento deberá evaluar en forma permanente los programas, a efecto de cuantificar los objetivos, metas y beneficios alcanzados, mejorar la utilización de los recursos, controlar los avances y desviaciones e instrumentar las medidas correctivas que sean requeridas y racionalizar la aplicación del gasto.
+El Ayuntamiento, con base en la información que le rinda la Coordinación Municipal de Planeación (COMUPLA-PAB) evaluará en forma permanente los programas de gasto, a efecto de cuantificar los objetivos, metas y beneficios alcanzados, mejorar la utilización de los recursos, controlar los avances y desviaciones e instrumentar las medidas correctivas que sean necesarias para racionalizar la aplicación del gasto.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
@@ -29324,3 +29450,11 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones de carácter reglamentario municipal que se opongan a lo dispuesto en el presente acuerdo.
 
 TERCERO.- A efecto de proceder a la liquidación del organismo público descentralizado denominado Patronato de Ferias y Fiestas Municipales de Pabellón de Arteaga, Aguascalientes, se designa como interventor al titular de la Contraloría Municipal.
+
+P.O. 19 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE SE “SE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGUASCALIENTES”.]
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se derogan todas las disposiciones de carácter reglamentario municipal que se opongan a lo dispuesto en el presente acuerdo.
