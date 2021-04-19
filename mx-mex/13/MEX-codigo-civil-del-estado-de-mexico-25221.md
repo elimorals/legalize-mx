@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2020-04-27"
+last_updated: "2021-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE ABRIL DE 2021.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -1213,9 +1213,11 @@ Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para
 
 Educación de los hijos y administración de bienes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE ABRIL DE 2021)</small>
+
 ###### Artículo 4.
 
-19.- Los cónyuges de común acuerdo decidirán lo relativo a la educación y formación de los hijos y a la administración de los bienes que sean comunes a los cónyuges o que pertenezcan a los hijos sujetos a su patria potestad.
+19.- Los cónyuges de común acuerdo decidirán lo relativo a la educación y formación de los hijos, basados en la crianza positiva, el amor, el diálogo y el respeto, quedando prohibido el castigo corporal, el castigo humillante y el ejercicio de cualquier tipo de violencia en este proceso, así como a la administración de los bienes que sean comunes a los cónyuges o que pertenezcan a los hijos sujetos a su patria potestad.
 
 En caso de desacuerdo el Juez de Primera Instancia resolverá lo conducente, sin necesidad de juicio.
 
@@ -1871,6 +1873,10 @@ I. En caso de que el tutor que le asiste el derecho de visita tuviera una nueva 
 
 II. Transcurridos tres meses de que el Juez haya dictado el régimen de convivencia provisional, solicitará de oficio la comparecencia de ambos tutores y del acreedor alimentario con el propósito de verificar el cumplimiento del interés superior de niñas, niños y adolescentes.
 
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+III. La convivencia se suspenderá de acreditarse el uso de castigo corporal, del castigo humillante, así como de cualquier otro tipo de violencia ejercida sobre la niña, niño o adolescente y sólo podrá reanudarse cuando quien ejerza dicho derecho de convivencia acredite haberse sometido satisfactoriamente a un proceso de reeducación o enseñanza de habilidades de crianza positiva, que se acredite fehacientemente, con la opinión positiva de la Procuraduría de Protección de Niñas, Niños y Adolescentes que corresponda.
+
 Separación provisional de los cónyuges y alimentos de los hijos
 
 ###### Artículo 4.
@@ -1963,9 +1969,15 @@ La mujer casada no podrá otorgar su consentimiento para ser inseminada, sin la 
 
 Prohibición de padres o tutores
 
+> <small>(REFORMADO, G.G. 19 DE ABRIL DE 2021)</small>
+
 ###### Artículo 4.
 
-113.- No podrá otorgarse el consentimiento de los padres o tutores para la reproducción asistida en una mujer que fuere menor de edad o incapaz.
+113.- Queda prohibido al padre, a la madre, así como a quienes ejerzan la tutela, guarda y custodia, o la patria potestad:
+
+I. Otorgar el consentimiento para la reproducción asistida en una mujer que fuere niña, adolescente o incapaz, y
+
+II. Utilizar el castigo corporal, el castigo humillante o cualquier forma o tipo de violencia contra niñas, niños o adolescentes. Se define el castigo corporal y humillante según lo dispuesto en el artículo 30 Ter de la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de México.
 
 Clonación
 
@@ -2753,6 +2765,10 @@ X. Considerar la opinión de las niñas, niños y adolescentes para la toma de d
 
 XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
 
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XII. Abstenerse de ejercer castigo corporal, castigo humillante o cualquier forma o tipo de violencia, en la formación y educación de las niñas, niños y adolescentes.
+
 ## TITULO SEXTO BIS. Disposiciones comunes de la Patria Potestad y Tutela
 
 > <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
@@ -2779,11 +2795,11 @@ Conclusión de la patria potestad
 
 Aspectos que comprende la patria potestad
 
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 19 DE ABRIL DE 2021)</small>
 
 ###### Artículo 4.
 
-203.- La patria potestad comprende la representación legal y la protección integral del menor en sus aspectos físico, psicológico, moral y social, su guarda y custodia, la administración de sus bienes y el derecho de corrección.
+203.- La patria potestad comprende la representación legal y la protección integral de niñas, niños y adolescentes en sus aspectos físico, psicológico, moral y social, su guarda y custodia, la administración de sus bienes y el derecho de corrección sin que medie o implique maltrato físico, verbal o moral que cause lesión o daño físico o psíquico a la niña, niño o adolescente, incluyendo el castigo corporal y el castigo humillante de conformidad con lo previsto en la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de México.
 
 Orden de las personas que ejercen la patria potestad
 
@@ -2981,17 +2997,23 @@ Persona facultada para nombrar tutor testamentario
 
 I. Cuando el que la ejerza es condenado por delito doloso grave;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 19 DE ABRIL DE 2021)</small>
 
-II. Cuando por las costumbres depravadas de los que ejerzan la patria potestad, malos tratos, violencia familiar o abandono de sus deberes alimentarios o de guarda o custodia por más de dos meses y por ello se comprometa la salud, la seguridad o la moralidad de los menores aún cuando esos hechos no constituyan delito.
+II. Cuando por las costumbres depravadas de los que ejerzan la patria potestad, malos tratos, castigo corporal, castigo humillante, cualquier tipo o forma de violencia, incluida la violencia familiar, o abandono de sus deberes alimentarios o de guarda o custodia por más de dos meses y por ello se comprometa la salud, la seguridad o la moralidad de las niñas, los niños y adolescentes aun cuando esos hechos no constituyan delito.
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 Quien haya perdido la patria potestad por el abandono de sus deberes alimentarios, podrá recuperar la misma, cuando compruebe que ha cumplido con ésta por más de un año y, en su caso, otorgue garantía anual sobre la misma;
 
-> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(ADICIONADO, G.G. 19 DE ABRIL DE 2021)</small>
 
-III. Cuando quienes ejerzan la patria potestad, obliguen a los menores de edad a realizar la mendicidad, trabajo forzado o cualquier otra forma de explotación. En este caso, los menores serán enviados a los albergues de los Sistemas para el Desarrollo Integral de la Familia del Estado de México y Municipales, hasta en tanto se determine quien la ejercerá;
+Quien haya perdido la patria potestad por el ejercicio de castigo corporal, castigo humillante o cualquier tipo de violencia, atendiendo a todas las circunstancias del caso y en función del interés superior de la niñez y de la adolescencia, podrá recuperar la misma al acreditar haberse sometido satisfactoriamente a un proceso reeducativo de agresores y métodos de crianza positivos y de buenos tratos hacia niñas, niños y adolescentes, así como contar con visto bueno de la Procuraduría de Protección de Niñas, Niños y Adolescentes. Excepto si la niña, niño o adolescente se encontrara en un proceso de adopción o haya sido adoptado;
+
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+III. Cuando quienes ejerzan la patria potestad, obliguen a los menores de edad a realizar la mendicidad, trabajo forzado o cualquier otra forma de explotación. En este caso, deberán agotarse las diligencias tendentes a la identificación, búsqueda, localización y valoración de algún núcleo familiar extenso, ampliado o de origen idóneo que pueda asumir la responsabilidad de proporcionar a la niña, niño o adolescente un hogar, medio familiar o entorno que contribuya a su desarrollo físico, mental, espiritual, moral y social.
+
+El acogimiento residencial de niñas, niños y adolescentes será una medida excepcional y temporal en algún Centro de Asistencia Social público o privado autorizado del Estado de México;
 
 IV. (DEROGADA, G.G. 15 DE MAYO DE 2012)
 
@@ -3059,9 +3081,13 @@ b) (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 c) Los mayores de doce años elegirán cuál de sus padres deberá hacerse cargo de ellos, si éstos no eligen el Juez decidirá.
 
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 19 DE ABRIL DE 2021)</small>
 
-En la resolución que ordene cuál de los padres ejercerá la guarda y custodia, se sujetará al interés superior del menor, velando en todo momento por la integridad física y mental de los hijos, atendiendo las circunstancias específicas que se encaminen a proteger el desarrollo de la familia y a salvaguardar el sano desarrollo de los menores. En todo caso, deberá practicarse la pericial en psicología familiar a las parejas de los padres, con el fin de verificar la seguridad del menor de la guarda, custodia y aún de la convivencia.
+En la resolución que ordene cuál de los padres ejercerá la guarda y custodia, se sujetará al interés superior de las niñas, los niños y la adolescencia, velando en todo momento por la integridad física y mental de los hijos, atendiendo las circunstancias específicas que se encaminen a proteger el desarrollo de la familia y a salvaguardar el sano desarrollo de la niñez, quedando estrictamente prohibida la aplicación del castigo corporal o del castigo humillante. En todo caso, deberá practicarse la pericial en psicología familiar a las parejas de los padres, con el fin de verificar las habilidades personales de cuidado de los mismos y la seguridad de la niña, niño o adolescentes de la guarda, custodia y aún de la convivencia.
+
+> <small>(ADICIONADO, G.G. 19 DE ABRIL DE 2021)</small>
+
+En su caso, se podrá enviar a instituciones públicas o privadas para adquirir habilidades positivas de cuidado parental y mejorar las relaciones parentales y de crianza.
 
 ###### Artículo 4.
 
@@ -3407,7 +3433,13 @@ V. El que padezca enfermedad crónica contagiosa;
 
 VI. Los que hayan causado un daño en su persona o en sus bienes al incapaz;
 
-VII. Los demás a quienes a criterio del Juez no garanticen el bien material y moral del menor.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE ABRIL DE 2021)</small>
+
+VII. Los que mediante resolución judicial se haya acreditado que han ejercido castigo corporal, castigo humillante o violencia contra niños, niñas, adolescentes, pupilos o pupilas, aun cuando no sea constitutivo de delito, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 19 DE ABRIL DE 2021)</small>
+
+VIII. Los demás a quienes a criterio del Juez no garanticen el bien material y moral de la niña, niño o adolescente.
 
 Reglas para la separación del cargo de tutor
 
@@ -18480,3 +18512,13 @@ G.G. 27 DE ABRIL DE 2020.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 19 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 261.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO Y DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
