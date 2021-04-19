@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-asesoria-y-defensoria-publica-del-29330"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-17"
-last_updated: "2020-12-28"
+last_updated: "2021-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DEL INSTITUTO DE ASESORIA Y DEFENSORIA PUBLICA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL INSTITUTO DE ASESORÍA Y DEFENSORÍA PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de marzo de 2003.
 
@@ -85,31 +87,23 @@ IX. Obligatoriedad: otorgar el servicio de una asesoría, representación, defen
 
 El Instituto tendrá como objetivos específicos los siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
 l. Prestar los servicios de defensa jurídica de los indiciados, imputados, procesados y sentenciados por delitos del orden común en los juzgados de primera instancia penales y mixtos de primera instancia, tribunal superior y federales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2021)</small>
 
-II. (DEROGADA, P.O. 3 DE AGOSTO DE 2015)
+II. Prestar servicios de defensa jurídica a presuntos responsables de faltas administrativas, conforme a lo previsto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, en los ámbitos estatal y municipal;
 
 III. Asesorar o representar a los particulares en la tramitación de recursos o juicios ante las autoridades administrativas o jurisdiccionales por actos administrativos o fiscales emanados de las autoridades del Estado, de los municipios y de los organismos descentralizados estatales o municipales en funciones de autoridad;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 IV. (DEROGADA, P.O. 20 DE NOVIEMBRE DE 2013)
 
 V. Asesorar o representar a los particulares en la tramitación de negocios, recursos o juicios de materia civil y mercantil.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 El servicio de asesoría y defensoría pública será gratuito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
 
@@ -261,37 +255,25 @@ El Director General del Instituto tendrá las atribuciones siguientes:
 
 I. Organizar, dirigir, evaluar y controlar los servicios de defensoría pública que preste el Instituto, así como sus unidades administrativas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 II. Dar seguimiento a los asuntos penales que se estén asistiendo a efecto de conocer, entre otras cosas, si los defendidos con derecho a libertad caucional están gozando de ese beneficio, si cumplen con la obligación de presentarse en los plazos fijados, así como si los procesos se encuentran suspendidos o ha transcurrido el término de prescripción de la acción penal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 III. Proponer a la Junta de Gobierno para su aprobación a los Coordinadores de Asesoría Jurídica y de Defensoría Pública;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 IV. Nombrar al demás personal administrativo del Instituto de conformidad a los lineamientos generales de selección, ingreso y contratación aplicables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 V. Conocer y dar inmediato trámite a las quejas que se presenten contra el personal del Instituto;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 VI. Vigilar que se cumplan todas y cada una de las obligaciones impuestas al personal del Instituto;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
@@ -305,9 +287,17 @@ X. Proponer a la Junta de Gobierno el proyecto de Plan Anual de Capacitación y 
 
 XI. Elaborar un informe anual de labores sobre las actividades integrales desarrolladas por todos y cada uno de los defensores públicos y asesores jurídicos que pertenezcan al Instituto, el cual deberá ser publicado en el Periódico Oficial del Estado;
 
-XII. Elaborar la propuesta de anteproyecto de presupuesto que se someta a la consideración de la Junta de Gobierno; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
 
-XIII. Las demás que sean necesarias para cumplir con el objeto de esta Ley.
+XII. Elaborar la propuesta de anteproyecto de presupuesto que se someta a la consideración de la Junta de Gobierno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ABRIL DE 2021)</small>
+
+XIII. Dar seguimiento a los procedimientos por faltas administrativas graves o no graves, en los que intervenga un defensor de oficio; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE ABRIL DE 2021)</small>
+
+XIV. Las demás que sean necesarias para cumplir con el objeto de esta Ley.
 
 ### CAPITULO IV. De las Coordinaciones de Asesores y Defensores Públicos
 
@@ -397,17 +387,23 @@ III. Proponer al Director General las políticas en las materias de su competenc
 
 IV. Las demás que sean necesarias para cumplir con los objetivos específicos del área a su cargo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 15.
 
 Los servicios del Instituto se prestarán a través de:
 
-I. Defensores públicos, en los asuntos del orden penal local y defensores especializados en justicia para adolescentes, desde la investigación hasta la ejecución de las penas o medidas de seguridad; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
 
-II. Asesores jurídicos, en materia administrativa local, civil y mercantil, salvo los expresamente otorgados por la Ley a otras instituciones.
+I. Defensores públicos, en los asuntos del orden penal local y defensores especializados en justicia para adolescentes, desde la investigación hasta la ejecución de las penas o medidas de seguridad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ABRIL DE 2021)</small>
+
+II. Defensores públicos especializados en responsabilidades administrativas en los ámbitos estatal y municipal, durante la sustanciación de los procedimientos previstos en los artículos 208 y 209 de la Ley General de Responsabilidades Administrativas y 192 y 193 párrafo segundo de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, la tramitación o contestación de recursos y hasta la conclusión total del asunto, con una resolución definitiva; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE ABRIL DE 2021)</small>
+
+III. Asesores jurídicos, en materia administrativa local, civil y mercantil, salvo los expresamente otorgados por la Ley a otras instituciones.
 
 ### CAPITULO V. De los Asesores Jurídicos y Defensores Públicos
 
@@ -503,13 +499,15 @@ El Director General del Instituto, el Director Administrativo, los Coordinadores
 
 ### CAPITULO VI. De los Defensores Públicos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 20.
 
 El Instituto contará con Defensores Públicos especializados en Sistema Penal Acusatorio Adversarial, Defensores Públicos especializados en adolescentes, Defensores Públicos especializados en trámites de Segunda Instancia y Amparo, Defensores Públicos especializados en Medidas Cautelares y Ejecución de Sanciones Penales, así como Defensores Públicos encargados de asesoría y representación en el procedimiento penal mixto, los cuales serán asignados inmediatamente por el Instituto, sin más requisitos que la solicitud formulada por el adolescente al que se le esté aplicando la Ley del Sistema de Justicia para Adolescentes, por el imputado en la investigación o proceso penal, el sentenciado y el Agente del Ministerio Público, el Agente del Ministerio Público Especializado en Adolescentes o el órgano jurisdiccional, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2021)</small>
+
+De igual manera, el Instituto contará con Defensores Públicos especializados en responsabilidades administrativas, los cuales deberán asignarse inmediatamente sin más requisitos que la solicitud formulada por el presunto responsable, la autoridad substanciadora o la resolutora, según sea el caso, conforme a la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -531,11 +529,19 @@ V. Interponer los recursos e incidentes que procedan y, en su caso, el juicio de
 
 VI. Las demás que determinen las leyes y el reglamento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2021)</small>
 
 ###### ARTICULO 22.
 
-(DEROGADO, P.O. 3 DE AGOSTO DE 2015)
+Los defensores públicos de la materia de responsabilidades administrativas, tendrán las obligaciones siguientes:
+
+I.- Asumir y ejercer la defensa adecuada del presunto responsable desde que sea asignado por el Instituto;
+
+II.- Procurar en todo momento el derecho de defensa, velando porque el presunto responsable conozca los derechos que establecen las Constituciones federal y local, así como las leyes que de ellas emanen;
+
+III.- Interponer los recursos e incidentes que procedan y, en su caso, el juicio de amparo; y
+
+IV.- Las demás que determinen las leyes y el reglamento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -543,19 +549,15 @@ VI. Las demás que determinen las leyes y el reglamento.
 
 ARTICULO 22 BIS.- Los Defensores Públicos en materia de ejecución de penas y en materia de justicia penal para adolescentes, ejercerán las facultades asignadas por la legislación nacional única aplicable, así como las facultades administrativas en términos de las disposiciones reglamentarias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 23.
 
 Las quejas que formulen los defensores públicos, los detenidos o internos de establecimientos de detención o reclusión por falta de atención médica, por tortura, por tratos crueles, inhumanos o degradantes, por golpes y cualquier otra violación a sus derechos humanos que provengan de cualquier servidor público, se denunciarán ante los jueces, el Ministerio Público, a la autoridad que tenga a su cargo los centros de reinserción social y a los organismos protectores de derechos humanos, según corresponda. Esto con el fin de que las autoridades adopten las medidas que pongan fin a tales violaciones, se prevenga su repetición y, en su caso, se sancione a quienes las hubiesen cometido, de conformidad con la legislación aplicable.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
-
-Los defensores públicos deberán excusarse de aceptar o continuar la defensa de un inculpado cuando exista alguna de las causas de impedimento previstas en el Código Nacional de Procedimientos Penales para jueces y magistrados, y en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Los defensores públicos deberán excusarse de aceptar o continuar la defensa de un inculpado cuando exista alguna de las causas de impedimento previstas en el Código Nacional de Procedimientos Penales para jueces y magistrados, o exista conflicto de interés o algún otro impedimento conforme a lo previsto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 25 DE MARZO DE 2013)</small>
 
@@ -807,29 +809,27 @@ Los profesionistas e instituciones contratadas, deberán rendir los informes que
 
 El Instituto podrá firmar convenios de colaboración y apoyo pericial con Asociaciones, Colegios de Profesionistas, Universidades, Centros Hospitalarios del Estado y demás instituciones públicas o privadas, a fin de asistirse para el cumplimiento de los propósitos de la asesoría y defensa pública, incluidos los servicios de traductores e intérpretes necesarios para salvaguardar los derechos de las víctimas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+ARTICULO 30 BIS.- El instituto tendrá a su cargo la función de contratación de defensoría privada en materia penal y de responsabilidades administrativas, con cargo al fondo público. Para contratar defensores privados que apoyen en funciones de consultoría externa y representación en el procedimiento penal o en procedimientos de responsabilidades administrativas, deberán seguirse los lineamientos establecidos por la Junta de Gobierno del Instituto, además de los siguientes:
 
-ARTICULO 30 BIS.- El Instituto tendrá a su cargo la función de contratación de defensoría penal privada con cargo al fondo público. Para contratar defensores privados que apoyen en funciones de consultoría externa y representación en el procedimiento penal, deberán seguirse los lineamientos establecidos por la Junta de Gobierno del Instituto, además de los siguientes:
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. La contratación podrá llevarse a cabo cuando un imputado o presunto responsable, elija a un defensor privado del registro o lista que cuente el instituto, siempre y cuando exista saturación de casos asignados a los defensores públicos a consideración de la Dirección General;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
 
-I. La contratación podrá llevarse a cabo cuando un imputado elija a un defensor privado del registro o lista que cuente el Instituto, siempre y cuando exista saturación de casos asignados a los defensores públicos a consideración de la Dirección General.
-
-II. El registro o lista de defensores privados se integrará con aquellos defensores particulares que participen en la convocatoria anual emitida por la Junta de Gobierno del Instituto, que establezca los requisitos que estime necesarios para el ingreso, además de que comprueben su especialización en Sistema de Justicia Penal Acusatorio mediante documentos idóneos a juicio de la Junta de Gobierno del Instituto, aprueben la evaluación de ingreso que aplique el Instituto, y firmen carta compromiso de aceptación de los honorarios que el Instituto fije como pago en cada caso asignado, acorde a las necesidades del servicio y el presupuesto asignado;
+II. El registro o lista de defensores privados se integrará con aquellos defensores particulares que participen en la convocatoria anual emitida por la Junta de Gobierno del Instituto, que establezca los requisitos que estime necesarios para el ingreso, además de que comprueben su especialización en Sistema de Justicia Penal Acusatorio o en materia de responsabilidades administrativas, mediante documentos idóneos a juicio de la Junta de Gobierno del Instituto, aprueben la evaluación de ingreso que aplique el Instituto, y firmen carta compromiso de aceptación de los honorarios que el Instituto fije como pago en cada caso asignado, acorde a las necesidades del servicio y el presupuesto asignado;
 
 III. En caso de que los defensores particulares, demuestren su especialización, y aprueben la evaluación, deberán firmar la carta compromiso de aceptación, y en caso de no firmarla, no podrán ser integrados a la lista de defensores privados y no podrán participar en la convocatoria de ingreso ni ingresar a la lista en un término de tres años;
 
-IV En caso de que los defensores particulares firmen la carta compromiso de aceptación, pero se nieguen a representar a un imputado cuya defensa le sea asignada, sin causa justificada, serán dados de baja de la lista de defensores particulares, y no podrá participar en la convocatoria de ingreso ni ingresar a la lista en un término de tres años;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. En caso de que los defensores particulares firmen la carta compromiso de aceptación, pero se nieguen a representar a un imputado o presunto responsable cuya defensa le sea asignada, sin causa justificada, serán dados de baja de la lista de defensores particulares, y no podrá participar en la convocatoria de ingreso ni ingresar a la lista en un término de tres años;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
 
-V. Todos aquellos defensores particulares que ingresen a la lista, deberán presentar y aprobar una evaluación anual, que aplicará el Instituto, y presentar todos los documentos que ésta le solicite, para corroborar su especialización y capacitación continua en materia penal, y mantenerse en la lista de defensores. Los defensores particulares que no aprueben la evaluación, serán dados de baja de la lista de defensores particulares y no podrá participar en la convocatoria inmediata siguiente; y
+V. Todos aquellos defensores particulares que ingresen a la lista, deberán presentar y aprobar una evaluación anual, que aplicará el Instituto, y presentar todos los documentos que ésta le solicite, para corroborar su especialización y capacitación continua en materia penal o de responsabilidades administrativas y mantenerse en la lista de defensores. Los defensores particulares que no aprueben la evaluación, serán dados de baja de la lista de defensores particulares y no podrá participar en la convocatoria inmediata siguiente; y
 
 VI. Los defensores particulares contratados por el Instituto, podrán hacer donación a éste de una parte de los honorarios que les corresponda percibir por su actuación profesional. Dichas donaciones serán deducibles de impuestos en los términos que establezcan las disposiciones fiscales.
 
@@ -973,39 +973,21 @@ El personal del Instituto estará incorporado en los términos de la Ley de Segu
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2013)
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
+
 ###### ARTICULO 40.
 
-Serán causas de responsabilidad de los servidores públicos del Instituto:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
-
-I. Inmiscuirse indebidamente en cuestiones que competan a otros órganos del Poder Judicial, o actuar indebidamente cuando se encuentren impedidos por alguna de las causales previstas por (sic) Código Nacional de Procedimientos Penales, y por la Ley de Responsabilidades de los Servidores Públicos;
-
-II. Descuidar y abandonar injustificadamente el desempeño de las funciones o labores que deban realizar en virtud de su encargo;
-
-III. No poner en conocimiento del Director, cualquier acto tendiente a vulnerar la independencia o autonomía de sus funciones;
-
-IV. No preservar la dignidad, imparcialidad, ética y profesionalismo propios del ejercicio de sus atribuciones;
-
-V. Emitir opinión pública que implique prejuzgar sobre un asunto de su competencia;
-
-VI. Negarse injustificadamente a patrocinar la defensa de los indiciados que no teniendo defensor particular ni los recursos económicos suficientes para cubrir los honorarios de alguno, sean designados por éstos, el Ministerio Público o por el órgano jurisdiccional correspondiente;
-
-VII. Dejar de interponer en tiempo y forma los recursos legales que procedan, desatender su trámite, desistirse de ellos o abandonarlos en perjuicio de su defendido o asistido;
-
-VIII. Aceptar dádivas o cualquier remuneración por los servicios que prestan a sus defendidos o asistidos, o solicitar a éstos o a las personas que por ellos se interesan, dinero o cualquier otra retribución para cumplir con las funciones que gratuitamente deban ejercer; y
-
-IX. Dejar de cumplir con cualquiera de las demás obligaciones que, en virtud de la existencia de la institución, se les ha conferido.
+Serán causas de responsabilidad de los servidores públicos del Instituto, las previstas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 ###### ARTICULO 41.
 
-También serán causas de responsabilidad para cualquier servidor de los sistemas de procuración y administración de justicia, realizar conductas que atenten contra la autonomía e independencia de los defensores públicos o asesores jurídicos o cualquier otra acción que genere o implique subordinación indebida de estos servidores públicos respecto de alguna persona o autoridad.
+(DEROGADO, P.O. 19 DE ABRIL DE 2021)
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
 
 ###### ARTICULO 42.
 
-El procedimiento para determinar la responsabilidad del Director General y demás miembros del Instituto, así como las sanciones aplicables, será el previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+El procedimiento para determinar la responsabilidad del Director General y demás miembros del Instituto, así como las sanciones aplicables, será el previsto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2013)</small>
 
@@ -1228,3 +1210,19 @@ P.O. 28 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 528.- SE REFORMAN LOS ARTÍCULOS 11, FRACCIONES XII Y XIII; 15, FRACCIONES I Y II; 23, SEGUNDO PÁRRAFO; 30 BIS, FRACCIONES I, II, IV Y V; 40; Y 42; SE ADICIONA LA FRACCIÓN II AL ARTÍCULO 3°, LA FRACCIÓN XIV AL ARTÍCULO 11, LA FRACCIÓN III AL ARTÍCULO 15, UN SEGUNDO PÁRRAFO AL ARTÍCULO 20, EL ARTÍCULO 22; Y SE DEROGA EL ARTÍCULO 41, TODOS DE LA LEY DEL INSTITUTO DE ASESORÍA Y DEFENSORÍA PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo, contará con un plazo de 180 días naturales para realizar las adecuaciones normativas y reglamentarias que resulten necesarias para el cumplimiento del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo, conforme a disponibilidad financiera, deberá considerar lo conducente en los subsecuentes Presupuestos de Egresos, a efecto de dar cumplimiento a lo dispuesto en el mismo.
