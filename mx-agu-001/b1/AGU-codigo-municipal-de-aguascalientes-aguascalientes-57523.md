@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2021-03-15"
+last_updated: "2021-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -3811,11 +3811,35 @@ X. Adoptar modelos de trabajo que involucren la utilización de los avances elec
 
 XI. Las demás establecidas y que le imponen las leyes y reglamentos en la materia.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 140.
 
 Son días de descanso para los trabajadores del Municipio los siguientes: 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero, jueves y viernes santos, el tercer lunes de marzo en conmemoración del 21 de marzo, 25 de abril, 1° de mayo; 23 de junio, 16 de septiembre, 2 de noviembre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, 12 y 25 de diciembre, así como el primero (sic) diciembre de cada seis años que sea toma de posesión del Ejecutivo Federal.
+
+Además de los días de descanso anteriormente mencionados, el Honorable Cabildo podrá declarar días y horas inhábiles para efectos de los términos y plazos legales, administrativos y procesales establecidos en el presente Código, así como de sus respectivos Reglamentos; los cuales deberán ser publicados en el Periódico Oficial del Estado de Aguascalientes, en los siguientes supuestos:
+
+I. Por fenómenos que puedan producir o produzcan alto riesgo, emergencia o desastre;
+
+II. Por fenómenos geológicos;
+
+III. Por fenómenos hidrometeorológicos;
+
+IV. Por fenómenos meteorológicos;
+
+V. Por fenómenos químico - tecnológicos;
+
+VI. Por fenómenos sanitario - ecológico;
+
+VII. Por fenómenos económicos;
+
+VIII. Por fenómenos socio - organizativo;
+
+IX. Los demás eventos, hechos y fenómenos no previstos en el presente artículo y que sean aprobados por el Honorable Cabildo.
+
+Con la finalidad de prevenir, mitigar y afrontar situaciones de emergencia de uno o más de los supuestos anteriormente señalados, el Presidente Municipal propondrá la Declaratoria de Emergencia al Honorable Cabildo para su aprobación, la cual se publicará en el Periódico Oficial del Estado de Aguascalientes; una vez publicada la Declaratoria de Emergencia, el Presidente Municipal presentará al Honorable Cabildo para su aprobación el dictamen del Plan de Contingencia, en el que se establecerán los términos, las condiciones legales y administrativos (sic) para su aplicación, distribución y ejecución, así mismo se determinará el recurso, la o las dependencias ejecutoras y su vigencia.
+
+Al término de la vigencia de la Declaratoria de Emergencia, la Secretaría de Finanzas Públicas deberá rendir un informe al Honorable Cabildo con respecto de la ejecución y aplicación del recurso, así como también del estado que guarda el recurso asignado. Dicho informe deberá ser a través de la Comisión Permanente de Hacienda y del Síndico de Hacienda.
 
 ### CAPÍTULO III. De la Entrega y Recepción de la Administración Pública Municipal
 
@@ -24898,3 +24922,9 @@ P.O. 15 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA DE LA FRACCIÓN XXXIV Y ADICIÓN DE LA FRACCIÓN XXXV AL ARTÍCULO 15 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, ASÍ MISMO SE EMITE EL REGLAMENTO INTERIOR DEL CONSEJO CONSULTIVO DE DESARROLLO SOCIAL DEL MUNICIPIO DE AGUASCALIENTES”.]
 
 ÚNICO: La presente reforma y adición iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 140 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO.- La presente reforma al artículo 140 del Código Municipal de Aguascalientes, iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
