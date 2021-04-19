@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-defensoria-publica-del-estado-de-mexico-73111"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2017-09-29"
+last_updated: "2021-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE ABRIL DE 2021.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 3 de febrero de 2010.
 
@@ -53,35 +51,49 @@ Para los efectos de esta Ley se entiende por:
 
 I. Consejo Técnico: al Consejo Técnico del Instituto de la Defensoría Pública del Estado de México;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+I Bis. (DEROGADA, G.G. 19 DE ABRIL DE 2021)
 
-I Bis. Secretario: al Secretario de Justicia y Derechos Humanos;
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
 
-II. Defensor Público: al servidor público que preste el servicio de Defensa Pública, en términos de esta Ley;
+II. Defensor Público: a la persona del servicio público que brinda los servicios de defensa, asesoría y patrocinio en materia penal, civil, mercantil, familiar, de amparo y responsabilidades administrativas, de manera gratuita, en términos de esta Ley;
 
-III. Defensor Público Especializado: al servidor público que preste el servicio de Defensa Pública, en materia de justicia para adolescentes;
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
 
-IV. Defensores públicos: a los Defensores Públicos y a los Defensores Públicos Especializados;
+III. Defensor Público Especializado: a la persona del servicio público que preste el servicio de Defensa Pública, en materia de justicia para adolescentes;
 
-V. Director: al Director General del Instituto de la Defensoría de (sic) Pública del Estado de México;
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+IV. Defensores Públicos: a las personas que presten servicios como Defensores Públicos y Defensores Públicos Especializados del Instituto;
+
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+V. Director: a la persona titular de la Dirección General del Instituto de la Defensoría Pública del Estado de México;
 
 VI. Instituto: al Instituto de la Defensoría Pública del Estado de México;
 
-VII. Ley: a la Ley de la Defensoría Pública del Estado de México;
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+VII. Ley: a la Ley de Defensoría Pública del Estado de México;
 
 VIII. Reglamento: al Reglamento Interior del Instituto de la Defensoría de (sic) Pública del Estado de México;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE ABRIL DE 2021)</small>
 
-IX. Unidad de Medida y Actualización: Unidad de cuenta, índice, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en este ordenamiento.
+IX. Secretario: a la persona titular de la Secretaría de Justicia y Derechos Humanos;
 
-X. Usuario: al destinatario del servicio público que presta el Instituto.
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+X. Unidad de Medida y Actualización: a la Unidad de cuenta, índice, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en este ordenamiento, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 19 DE ABRIL DE 2021)</small>
+
+XI. Usuario: a la persona destinataria del servicio público que presta el Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE ABRIL DE 2021)</small>
 
 ###### Artículo 3.
 
-El Instituto es un órgano desconcentrado de la Secretaría de Justicia y Derechos Humanos con autonomía técnica y operativa, cuyo objeto es operar, coordinar, dirigir y controlar la Defensoría Pública del Estado de México, consistente en proporcionar orientación jurídica y defensa en materia penal, así como patrocinio civil, familiar, mercantil, de amparo y de justicia para adolescentes en cualquier etapa del procedimiento legal aplicable, a las personas que lo soliciten, en los términos que señala esta Ley.
+El Instituto es un órgano desconcentrado de la Secretaría de Justicia y Derechos Humanos con autonomía técnica y operativa, cuyo objeto es operar, coordinar, dirigir y controlar la Defensoría Pública del Estado de México, consistente en proporcionar orientación jurídica y defensa en las materias penal, y especializada en el Sistema Integral de Justicia Penal para Adolescentes; asistencia jurídica en procedimientos de responsabilidades administrativas, en términos de las disposiciones jurídicas aplicables, así como patrocinio civil, familiar, mercantil y de amparo en cualquier etapa del procedimiento legal aplicable, a las personas que lo soliciten, en los términos que señala esta Ley.
 
 Los servidores públicos del Instituto deberán regirse bajo los siguientes principios:
 
@@ -109,17 +121,21 @@ El Instituto tiene por objeto:
 
 I. Proporcionar obligatoria y gratuitamente defensa en materia penal en cualquier actuación policial, ministerial o judicial, a las personas que lo soliciten, señaladas como posibles autores o partícipes de un hecho punible y cuando haya designación del Ministerio Público o del órgano jurisdiccional competente;
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
 
-II. Proporcionar gratuitamente patrocinio de defensa en materia civil y familiar siempre y cuando los solicitantes tengan ingresos mensuales menores al monto equivalente a 150 veces el valor de la Unidad de Medida y Actualización vigente, con excepción de los casos de violencia familiar, alimentos y juicio sumario de usucapión, en los que no se realizará estudio socioeconómico. En el caso de la parte actora, sólo será patrocinada en materia familiar y procedimientos judiciales no contenciosos, no se considerara como tal en el caso de la reconvención hecha en contestación de demanda.
+II. Proporcionar gratuitamente patrocinio de defensa en materia civil y familiar siempre y cuando los solicitantes tengan ingresos mensuales menores al monto equivalente a 150 veces el valor de la Unidad de Medida y Actualización vigente, con excepción de los casos de violencia familiar, alimentos, juicio sumario de usucapión y guarda y custodia, en los que no se realizará estudio socioeconómico. En el caso de la parte actora, sólo será patrocinada en materia familiar y procedimientos judiciales no contenciosos, no se considerará como tal en el caso de la reconvención hecha en contestación de demanda;
 
 > <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
 
 III. Proporcionar gratuitamente patrocinio de defensa en materia mercantil, siempre y cuando el demandado sea persona física, tenga ingresos mensuales menores al monto equivalente a 150 veces el valor de la Unidad de Medida y Actualización vigente, no comerciante y el interés pactado sea superior al usual en el mercado bancario autorizado.
 
-IV. Gestionar en los asuntos en los que intervengan adolescentes o incapaces representándolos en cualquier materia, su tratamiento y, en su caso, su remisión a las autoridades competentes y establecimientos que correspondan;
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
 
-V. Proporcionar obligatoria y gratuitamente patrocinio de defensa de los derechos de los indígenas, así como asesorarlos en todos los casos en que lo soliciten sin importar la materia de que se trate, a través de defensores públicos que posean conocimientos de su lengua y cultura.
+IV. Representar y gestionar, en asuntos de cualquier materia, en los que intervengan adolescentes o incapaces, su tratamiento y en su caso, su remisión a las autoridades competentes y establecimientos que correspondan, y proporcionar orientación y defensa jurídica especializada en los casos de justicia penal para adolescentes;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 19 DE ABRIL DE 2021)</small>
+
+V. Proporcionar obligatoria y gratuitamente patrocinio de defensa de los derechos de las personas indígenas, así como proporcionarles asesoría en todos los casos en que lo soliciten, sin importar la materia de que se trate, y en la medida de las posibilidades del Instituto, a través de Defensores Públicos que posean conocimientos de su lengua.
 
 > <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
@@ -129,23 +145,31 @@ Para los efectos del párrafo anterior, el Instituto podrá actuar en coordinaci
 
 VI. El patrocino a la parte actora en materia civil, se autorizará previo estudio socioeconómico, excepcionalmente en los casos de extrema pobreza, ignorancia o indigencia, así como a adultos mayores, sin medio comprobable de subsistencia o dependencia de familiares directos. En el caso del juicio sumario de usucapión se autorizará el patrocinio, sin que se practique el estudio socioeconómico correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 2011)</small>
 
 VII. Proporcionar orientación jurídica a todas las personas que los (sic) soliciten, a excepción de quienes tengan la calidad de víctima u ofendido.
+
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+VIII. Proporcionar asistencia jurídica a servidores públicos y particulares a quienes se les atribuya una presunta responsabilidad administrativa y que lo soliciten, en términos de las disposiciones jurídicas aplicables. Tratándose de particulares deberán sujetarse al requisito de ingresos mensuales previsto en la fracción II del presente artículo.
 
 ###### Artículo 5.
 
 Los servidores públicos de la Administración Pública Estatal y municipales, dentro del ámbito de su competencia, están obligados en todo tiempo a prestar auxilio al Instituto, en consecuencia deben sin demora proporcionar gratuitamente los dictámenes, informes, certificaciones, constancias y copias que soliciten en ejercicio de sus funciones.
 
+> <small>(REFORMADO, G.G. 19 DE ABRIL DE 2021)</small>
+
 ###### Artículo 6.
 
-Cuando en materia familiar las partes en conflicto soliciten el patrocinio del Instituto, este asumirá el de una de ellas y las dependencias o instituciones que presten servicios de esta naturaleza, deberán asumir el patrocinio de la otra parte. Tratándose de asuntos penales, serán atendidos por distintos defensores públicos.
+Cuando en materia familiar las partes en conflicto soliciten el patrocinio del Instituto, éste asumirá el de una de ellas y las dependencias o instituciones que presten servicios de esta naturaleza, deberán asumir el patrocinio de la otra parte.
+
+Tratándose de asuntos penales y de responsabilidades administrativas, serán atendidos por distintos Defensores Públicos.
+
+> <small>(REFORMADO, G.G. 19 DE ABRIL DE 2021)</small>
 
 ###### Artículo 7.
 
-El Instituto para el cumplimiento de su objeto podrá citar a las partes en conflicto a efecto de conciliar intereses en materia civil, mercantil y familiar.
+El Instituto, para el cumplimiento de su objeto, podrá canalizar a las partes en conflicto, a las autoridades estatales competentes en mediación, conciliación y justicia restaurativa, a efecto de conciliar intereses en materia civil, mercantil y familiar.
 
 ### CAPÍTULO II. ORGANIZACIÓN Y FUNCIONAMIENTO
 
@@ -157,15 +181,19 @@ El Instituto tendrá su sede en la ciudad de Toluca y para el conocimiento y ate
 
 La organización, estructura y funcionamiento del Instituto se regulará por lo que dispone la Ley y el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE ABRIL DE 2021)</small>
+
 ###### Artículo 10.
 
-El personal del Instituto se regirá por esta Ley, su Reglamento y demás disposiciones legales aplicables.
+El personal del Instituto se regirá por esta Ley, su Reglamento, Manuales, Protocolos, Lineamientos y demás disposiciones jurídicas aplicables.
 
 Los servidores públicos del Instituto no podrán desempeñar otro empleo, cargo o comisión de la Federación, del Estado o de los municipios incluyendo el ministerio de algún culto religioso.
 
 Quedan exceptuados de esta disposición, los cargos honoríficos en asociaciones científicas, literarias o de beneficencia; así mismo los cargos docentes, siempre que su desempeño no perjudique las funciones y labores propias de los servidores públicos del Instituto.
 
-Los servidores públicos que presten sus servicios en el Instituto, estarán impedidos para el ejercicio de la abogacía, salvo en causa propia de su cónyuge, concubina, concubinario o sus familiares hasta el cuarto grado.
+> <small>(REFORMADO, G.G. 19 DE ABRIL DE 2021)</small>
+
+Los servidores públicos que presten sus servicios en el Instituto, estarán impedidos para el ejercicio de la abogacía, salvo en causa propia, de su cónyuge, concubina, concubinario o sus parientes consanguíneos hasta el cuarto grado.
 
 Los defensores públicos, están impedidos para actuar como apoderado judicial, tutor, curador o albacea; a menos que sean herederos o legatarios; así mismo deberán abstenerse de actuar como depositario judicial, síndico, administrador, interventor de la quiebra o concurso, corredor público, comisionista o fiador en los asuntos en que intervengan o hubieren intervenido.
 
@@ -223,15 +251,25 @@ VIII. Establecer y coordinar las relaciones con entidades, dependencias y organi
 
 IX. Fomentar, coordinar y concertar convenios de coordinación y colaboración, respectivamente, con instituciones públicas y privadas, ya sean locales, nacionales o internacionales, para el cumplimiento de su objeto, particularmente con las dedicadas a la protección de los derechos humanos;
 
-X. Llevar los libros de registro del servicio de la Defensoría Pública;
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+X. Administrar los libros de registro de asuntos, las bases de datos y sistemas de información, así como los demás medios de control implementados para el seguimiento del servicio que presta la Defensoría Pública;
 
 XI. Elaborar los estudios socioeconómicos de los usuarios del servicio de Defensoría Pública;
 
 XII. Promover y organizar programas de difusión de los servicios que presta;
 
-XIII. Promover la capacitación, actualización y especialización de los defensores públicos, peritos y trabajadores sociales;
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
 
-XIV. Las demás que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México, esta Ley y otras disposiciones legales le señalen.
+XIII. Promover la capacitación, actualización y especialización de los defensores públicos, peritos y trabajadores sociales, en términos del Reglamento Interior del Servicio Profesional de Carrera del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE ABRIL DE 2021)</small>
+
+XIV. Observar de manera obligatoria y con especialización en la materia, lo dispuesto en los Tratados y Convenios Internacionales suscritos por nuestro país y aprobados por el Senado, con arreglo a lo dispuesto por el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 19 DE ABRIL DE 2021)</small>
+
+XV. Las demás que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México, esta Ley y otras disposiciones jurídicas señalen.
 
 ###### Artículo 14.
 
@@ -247,13 +285,17 @@ III. Designar y remover, previo acuerdo con el Secretario, a los servidores púb
 
 IV. Administrar, dirigir, organizar, planear, controlar y evaluar los servicios del Instituto, así como el funcionamiento del mismo;
 
-V. Asignar el número de defensores públicos que se requieran en las agencias del Ministerio Público, juzgados, tribunales, y salas del Tribunal Superior de Justicia;
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+V. Asignar el número de Defensores Públicos que se requieran en las áreas de asesoría del Instituto, en las agencias del Ministerio Público, juzgados, tribunales, área de asesorías, y salas del Tribunal Superior de Justicia, contralorías y órganos de control interno;
 
 VI. Asignar el número de defensores públicos especializados que se requieran en las agencias del Ministerio Público de adolescentes, juzgados de adolescentes y salas especializadas de adolescentes;
 
 VII. Determinar la circunscripción y organización de las coordinaciones regionales;
 
-VIII. Calificar los casos en que proceda el patrocinio en asuntos civiles, familiares, mercantiles y en materia de amparo, así como las excusas de los defensores públicos;
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+VIII. Calificar los casos en que proceda el patrocinio en asuntos civiles, familiares, mercantiles, de responsabilidades administrativas y en materia de amparo, así como las excusas de los Defensores Públicos;
 
 > <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -263,7 +305,9 @@ IX. Suscribir, previo acuerdo con el Secretario, los convenios, contratos o acue
 
 X. Presentar al Secretario, para su conocimiento y aprobación, los planes de trabajo, presupuesto, informes de actividades y estados financieros anuales del Instituto;
 
-XI. Establecer los sistemas necesarios para supervisar, vigilar y controlar a los defensores públicos, peritos y trabajadores sociales, así como conocer de las quejas que se presenten contra éstos, con la finalidad de corroborar que cumplan con las obligaciones establecidas en esta Ley;
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XI. Establecer los sistemas necesarios para supervisar, vigilar y controlar a los Defensores Públicos, peritos, trabajadores sociales y demás personal adscrito al Instituto, así como conocer de las quejas que se presenten contra éstos, con la finalidad de corroborar que cumplan con las obligaciones establecidas en esta Ley;
 
 XII. Propugnar en todo momento porque los defensores públicos tengan los espacios necesarios en sus adscripciones para el desempeño de sus funciones y donde atiendan con respeto y dignidad a los usuarios;
 
@@ -275,21 +319,31 @@ XIV. Conceder licencias a los servidores públicos del Instituto para separarse 
 
 XV. Aplicar esta Ley y las disposiciones reglamentarias que deriven de la misma;
 
-XVI. Llevar las estadísticas del Instituto;
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XVI. Llevar a cabo los análisis y reportes estadísticos que se requieran, relativos a los servicios que presta el Instituto;
 
 XVII. Proveer, en el ámbito administrativo, lo necesario para el mejor desarrollo de las funciones del Instituto;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE ABRIL DE 2021)</small>
 
-XVIII. Las demás que le señalen las disposiciones legales aplicables y el Secretario.
+XVIII. Implementar los sistemas informáticos de gestión necesarios para el registro y seguimiento de los asuntos designados a las y los Defensores Públicos, para facilitar el desempeño de sus funciones, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 19 DE ABRIL DE 2021)</small>
+
+XIX. Las demás que le señalen las disposiciones legales aplicables y el Secretario.
 
 ### CAPÍTULO VI. DE LAS CAUSAS DE RETIRO DEL PATROCINIO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE ABRIL DE 2021)</small>
 
 ###### Artículo 15.
 
 El Consejo Técnico es un órgano de asesoría y apoyo del Instituto, que tiene por objeto contribuir al diseño, coordinación y evaluación de los programas y proyectos para mejorar el servicio de asesoría, patrocinio y defensa de las personas que así lo soliciten, cuya integración y funcionamiento quedarán establecidos en términos del Reglamento.
 
 ### CAPÍTULO VII. DE LAS CAUCIONES Y FIANZAS DE INTERÉS SOCIAL
+
+> <small>(REFORMADO, G.G. 19 DE ABRIL DE 2021)</small>
 
 ###### Artículo 16.
 
@@ -305,7 +359,21 @@ IV. No haber sido condenado en sentencia ejecutoriada por delito doloso que amer
 
 V. No estar inhabilitado por resolución firme para el desempeño de funciones públicas;
 
-VI. Las demás que señale el Reglamento correspondiente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE ABRIL DE 2021)</small>
+
+VI. Acreditar por lo menos tres años de práctica profesional en las materias jurídicas de competencia del Instituto;
+
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+VII. Aprobar los exámenes de ingreso y oposición necesarios, así como la entrevista con personal del Instituto;
+
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+VIII. No padecer enfermedad física o mental, que lo inhabilite para el desempeño del cargo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 19 DE ABRIL DE 2021)</small>
+
+IX. Las demás que señale el Reglamento correspondiente.
 
 ###### Artículo 17.
 
@@ -313,7 +381,9 @@ Serán atribuciones y obligaciones de los defensores públicos, además de las q
 
 I. Asumir la defensa en materia penal del imputado en cualquier actuación policial, ministerial o judicial, cuando éste lo solicite o cuando sea designado por el Ministerio Público o el órgano jurisdiccional;
 
-II. Intervenir en cualquier fase del procedimiento, tratándose de adolescentes, desde que es puesto a disposición de la autoridad hasta la aplicación de las medidas, conforme a la Ley de Justicia para Adolescentes del Estado de México;
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+II. Intervenir en cualquier fase del procedimiento, tratándose de justicia penal para adolescentes, en todas las etapas del mismo, desde su detención hasta el fin de la ejecución de la medida impuesta, ya sea de sanción o de internamiento preventivo y su modificación, en los casos de posibles violaciones a los derechos humanos de las personas adolescentes en internamiento y las demás que deriven de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
 
 III. Procurar en todo momento el derecho de defensa, velando porque el imputado conozca inmediatamente los derechos que establecen las Constituciones Federal y Local, así como las leyes que de ellas emanen;
 
@@ -325,27 +395,73 @@ VI. Hacer valer las causas de inimputabilidad, sobreseimiento o excluyentes de r
 
 VII. Gestionar la libertad de sus defendidos procurando que de inmediato se le fijen los montos de las fianzas en póliza, que las mismas sean accesibles, así como promover las de interés social, previo estudio socioeconómico, y hacer saber al garante en la audiencia en que se decida la medida cautelar, la consecuencia del incumplimiento;
 
-VIII. Informar a sus superiores jerárquicos de las quejas que los usuarios les hagan saber sobre el trato que reciban en los Centros Preventivos y de Readaptación Social, para los efectos legales conducentes;
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
 
-IX. Promover oportunamente en todas las etapas del procedimiento los asuntos del orden penal, civil, mercantil, familiar y justicia para adolescentes, que les hayan sido encomendados, las pruebas necesarias, atendiendo a su desahogo, así como la interposición de los recursos e incidentes que procedan y, en su caso, el juicio de amparo.
+VIII. Informar a sus superiores jerárquicos de las quejas que los usuarios les hagan saber sobre el trato que reciban en los Centros Penitenciarios y de Reinserción Social, para los efectos legales conducentes;
 
-X. Denunciar en su caso, las violaciones a los derechos humanos que detecten en ejercicio de sus atribuciones independientemente de la autoridad de que se trate;
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
 
-XI. Procurar la justicia restaurativa y los mecanismos alternativos en la solución de controversias;
+IX. Promover oportunamente en todas las etapas del procedimiento los asuntos del orden penal, civil, mercantil, familiar, de responsabilidad administrativa y de justicia penal para adolescentes, que les hayan sido encomendados, las pruebas necesarias, atendiendo a su desahogo, así como la interposición de los recursos e incidentes que procedan y, en su caso, el juicio de amparo;
 
-XII. Mantener informado al usuario, sobre el desarrollo y seguimiento del proceso o juicio;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE ABRIL DE 2021)</small>
 
-XIII. En los casos en que proceda, formular solicitudes de procedimientos especiales;
+X. Brindar asesoría jurídica y en su caso, representación legal en materia administrativa para asistir a personas servidoras públicas o particulares involucrados en procedimientos de responsabilidad administrativa en el que tengan la calidad de presunto responsable de conformidad a las leyes y las disposiciones jurídicas aplicables en la materia;
 
-XIV. Guardar el secreto profesional en el desempeño de sus funciones;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+XI. Prestar el servicio de defensa pública de acuerdo con la capacidad del Instituto y las necesidades del servicio requerido en la entidad, en los términos de las disposiciones jurídicas aplicables;
 
-XV. Realizar en el desempeño de sus funciones, lo que el Código Nacional de Procedimientos Penales y las leyes Federales le confieran;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE ABRIL DE 2021)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+XII. Mantener actualizados los libros de registro de asuntos, las bases de datos y sistemas de información, así como los demás medios de control del servicio de asesoría, patrocinio o representación que presta el Instituto, en el ámbito de su competencia;
 
-XVI. Las demás disposiciones que señale esta Ley, el Reglamento y otros ordenamientos legales y administrativos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE ABRIL DE 2021)</small>
+
+XIII. Remitir mensualmente al Instituto, a través de los formatos y medios solicitados por su superior jerárquico, la información cualitativa y cuantitativa, así como datos estadísticos relacionados con sus funciones;
+
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XIV. Denunciar, en su caso, las violaciones a los derechos humanos que detecten en ejercicio de sus atribuciones independientemente de la autoridad de que se trate;
+
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XV. Procurar la justicia restaurativa y los mecanismos alternativos en la solución de controversias, canalizando a las partes en conflicto, cuando sea procedente, con las autoridades estatales competentes en mediación, conciliación y justicia restaurativa;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.G. 19 DE ABRIL DE 2021)</small>
+
+XVI. Mantener informado al usuario, sobre el desarrollo y seguimiento del proceso o juicio;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 19 DE ABRIL DE 2021)</small>
+
+XVII. Formular solicitudes de amnistía a favor de los imputados, así como otros procedimientos especiales que procedan, en cada caso particular, según corresponda;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 19 DE ABRIL DE 2021)</small>
+
+XVIII. Guardar el secreto profesional en el desempeño de sus funciones;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 19 DE ABRIL DE 2021)</small>
+
+XIX. Realizar en el desempeño de sus funciones, lo que los Manuales, Protocolos y Lineamientos del Instituto, así como el Código Nacional de Procedimientos Penales y las leyes Federales le señalen;
+
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XX. Llevar a cabo el registro electrónico y seguimiento de los asuntos a su cargo, en los sistemas informáticos de gestión, que para tal efecto se designen por el Instituto, así como actualizar las bases de datos que en su caso, le sean requeridas;
+
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XXI. Proporcionar la información relativa a su adscripción o cualquier otra relativa al desempeño de sus funciones, que le sea requerida cotidiana o emergentemente por sus superiores jerárquicos;
+
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XXII. Atender los principios y directrices que rigen el actuar de los servidores públicos de acuerdo a lo establecido en la Ley de Responsabilidades Administrativas del Estado de México y Municipios y Código de Ética del Poder Ejecutivo del Gobierno del Estado de México y sus Organismos Auxiliares;
+
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XXIII. Asistir a talleres, cursos, pláticas, conversatorios y demás actividades de profesionalización que les sean encomendadas de acuerdo con el Reglamento Interior del Servicio Profesional de Carrera del Instituto, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 19 DE ABRIL DE 2021)</small>
+
+XXIV. Las demás que señale esta Ley, el Reglamento y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 18.
 
@@ -355,7 +471,9 @@ I. Actuar indebidamente cuando se encuentren impedidos por alguna de las causale
 
 II. Descuidar y abandonar injustificadamente el desempeño de las funciones o labores que deban realizar en virtud de su encargo;
 
-III. Omitir informar al Director, cualquier acto tendiente a vulnerar la independencia o autonomía de sus funciones;
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+III. Omitir informar a la Dirección General, cualquier acto tendiente a vulnerar la independencia o autonomía de sus funciones;
 
 IV. Vulnerar la dignidad, imparcialidad, ética y profesionalismo propios del ejercicio de sus atribuciones;
 
@@ -373,6 +491,14 @@ X. Inducir a sus representados a celebrar acuerdos con la parte contraria, aprov
 
 XI. Incumplir cualquiera de las demás obligaciones que se establecen en las demás disposiciones aplicables.
 
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XII. Otorgar el patrocinio a ambas partes, cuando haya intereses contrarios, en una misma acción.
+
+> <small>(ADICIONADO, G.G. 19 DE ABRIL DE 2021)</small>
+
+Con independencia de las acciones que correspondan por la inobservancia de las fracciones descritas con anterioridad, la persona titular de la Dirección General dará vista al Órgano Interno de Control competente, para que proceda en términos de las disposiciones jurídicas aplicables.
+
 ###### Artículo 19.
 
 Para el ejercicio de su encargo, los defensores públicos se auxiliarán de los peritos, trabajadores sociales y demás servidores públicos que sean necesarios, los cuales tendrán las atribuciones y obligaciones que les señale esta Ley y las demás disposiciones aplicables.
@@ -381,7 +507,7 @@ Para el ejercicio de su encargo, los defensores públicos se auxiliarán de los 
 
 ###### Artículo 20.
 
-El Instituto podrá retirar el patrocinio en las materias civil, mercantil y familiar, cuando:
+El Instituto podrá retirar el patrocinio en las materias civil, mercantil, familiar y de responsabilidades administrativas, cuando:
 
 I. Se modifiquen las causas socioeconómicas, excediendo el monto señalado en esta Ley, y que dieron origen a la prestación del servicio;
 
@@ -391,7 +517,9 @@ III. Hayan transcurrido tres meses a partir de la fecha de expedición del ofici
 
 IV. Exista evidencia de que el usuario recibe los servicios de un abogado particular;
 
-V. El usuario realice promociones y/o diligencias a título personal sin conocimiento de su defensor;
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+V. El usuario realice promociones o diligencias a título personal sin conocimiento o consentimiento de su defensor;
 
 VI. El usuario incurra en falsedad en los datos o en la información socioeconómica proporcionada;
 
@@ -405,11 +533,13 @@ X. Cualquier otra contraria a esta Ley que se advierta durante el juicio.
 
 ###### Artículo 21.
 
-El Instituto podrá, con cargo a un fondo público; apoyar a los imputados de escasos recursos con el otorgamiento de cauciones para el caso de adolescentes y fianzas de interés social para los adultos.
+El Instituto podrá, con cargo a un fondo público, apoyar a los imputados adultos y adolescentes de escasos recursos con el otorgamiento de fianzas de interés social a efecto de que puedan dar cumplimiento a la garantía económica fijada como medida cautelar por el Órgano Jurisdiccional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE ABRIL DE 2021)</small>
 
 ###### Artículo 22.
 
-Para que pueda ser tramitada una caución o una fianza de interés social es necesario que el Defensor Público verifique que el imputado satisface los siguientes requisitos:
+Para que pueda ser tramitada una fianza de interés social es necesario que la Defensora o Defensor Público, verifique que la persona imputada satisface los siguientes requisitos:
 
 I. Que tenga designado un Defensor Público o Defensor Público Especializado;
 
@@ -650,3 +780,11 @@ DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contr
 DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
 
 DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 19 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 260.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO".].
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
