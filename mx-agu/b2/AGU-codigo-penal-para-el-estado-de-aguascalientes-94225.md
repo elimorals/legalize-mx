@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2021-03-29"
+last_updated: "2021-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1229,7 +1229,9 @@ II. Cuando la víctima sea menor de 15 años de edad;
 
 III. Cuando la víctima se dedique al ejercicio de las labores periodísticas, y el resultado se provoque con motivo del ejercicio de su profesión;
 
-IV. Cuando el resultado sea asociado a la discriminación de la víctima;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
+
+IV. Cuando se cometa con discriminación a razón de alguna característica especifica de la persona como la condición social o económica; vinculación, pertenencia o relación con un grupo social definido; origen étnico o social; la nacionalidad o lugar de origen; el color de la piel o cualquier otra característica genética; lengua; sexo o género; religión; edad; opiniones; discapacidad; condiciones de salud; apariencia física; orientación sexual; estado civil o, la ocupación o actividad laboral;
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 2021)</small>
 
@@ -1273,9 +1275,11 @@ Traición. Existe Traición cuando el inculpado provoca el resultado de lesión,
 
 Brutal ferocidad. Existe Brutal Ferocidad, cuando el inculpado provoca el resultado lesivo sin causa o motivo que lo explique, o por una causa móvil notoriamente desproporcionada.
 
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 113.
 
-(DEROGADO, P.O. 11 DE JUNIO DE 2018)
+Existe discriminación cuando se acredite que los actos del inculpado son motivados por ideologías basadas en la superioridad, aborrecimiento, intolerancia, rechazo, desprecio, humillación o cualquier otro acto que estigmatice o segregue a la víctima, por alguna de las características específicas de la persona descritas en la fracción IV del artículo 107.
 
 ### CAPÍTULO II. Tipos Penales Protectores de la Libertad Sexual, la Seguridad Sexual, el Normal Desarrollo Físico y Psicosexual, y el Libre Desarrollo de la Personalidad
 
@@ -3612,3 +3616,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Aquellos procedimientos judiciales que se estén llevando a cabo respecto del tipo penal que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9º del Código Penal para el Estado de Aguascalientes.
+
+P.O. 19 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 527.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 107 Y SE ADICIONA EL ARTÍCULO 113 AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
