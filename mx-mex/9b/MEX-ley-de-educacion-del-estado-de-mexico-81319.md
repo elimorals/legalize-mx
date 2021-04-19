@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2020-08-24"
+last_updated: "2021-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE ABRIL DE 2021.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -337,9 +337,11 @@ XXVI. Adoptar medidas para responder a las necesidades de niñas, niños y adole
 
 XXVII. Contribuir a garantizar la permanencia y conclusión de la educación obligatoria de niñas, niños y adolescentes así como para abatir el ausentismo, abandono y deserción escolares.
 
-> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], G.G. 19 DE ABRIL DE 2021)</small>
 
-XXVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes, así como el lenguaje discriminatorio, que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes en la administración de la disciplina escolar.
+XXVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente el castigo corporal, los tratos humillantes y degradantes, y cualquier otro de tipo de violencia, en la administración de la disciplina escolar.
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2020)</small>
 
 Para tal efecto, se implementarán los mecanismos que busquen prevenir y eliminar la violencia de género, así como el rechazo o la discriminación por razón de género, con apoyo en cursos de capacitación y talleres sobre estos temas.
 
@@ -445,9 +447,9 @@ XVII. Impulsar la creación artística y propiciar la adquisición, el enriqueci
 
 XVIII. Promover la equidad de género y contribuir a erradicar la discriminación;
 
-> <small>(REFORMADA, G.G. 25 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
 
-XIX. Contribuir al desarrollo de una cultura de la salud, promoviendo la educación física, la práctica del deporte, los hábitos de higiene y de sana alimentación, así como la educación sexual y la prevención de adicciones a través del conocimiento de sus causas, riesgos y consecuencias, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+XIX. Contribuir al desarrollo de una cultura de la salud, promoviendo la educación física, la práctica del deporte, los hábitos de higiene y de sana alimentación; promover y fomentar programas de educación sobre salud bucodental y la práctica de hábitos de higiene dental, así como la educación sexual y la prevención de adicciones a través del conocimiento de sus causas, riesgos y consecuencias, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
 XX. Difundir los derechos y deberes de los educandos y promover su respeto;
 
@@ -721,6 +723,10 @@ XXIII. Proporcionar a los educandos de instituciones públicas de educación pri
 
 XXIV. Establecer programas para la activación física diaria de los educandos durante la jornada escolar;
 
+> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+
+XXIV Bis. Promover y fomentar programas de educación sobre salud bucodental y práctica de hábitos de higiene dental, en coordinación con la Secretaría de Salud del Estado de México.
+
 XXV. Fomentar la educación ambiental, las bellas artes y el deporte;
 
 XXVI. Fomentar y estimular en los educandos de todos los niveles educativos una cultura emprendedora, que favorezca el desarrollo de sus competencias para el diseño y realización de proyectos productivos e innovadores;
@@ -781,9 +787,9 @@ XLVIII. Realizar acciones encaminadas a mejorar permanentemente la condición de
 
 XLIX. Establecer y vigilar la aplicación de los mecanismos para diagnosticar, prevenir, evitar, sancionar y erradicar la violencia, el hostigamiento, la intimidación y cualquier acto considerado como acoso escolar entre los alumnos de las instituciones educativas públicas y privadas del Estado de México;
 
-> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
 
-L. Elaborar, operar y evaluar un plan de sana convivencia y disciplina escolar para el Sistema Educativo, que materialice el derecho de los estudiantes a su seguridad personal, libre de violencia, hostigamiento e intimidación, con la participación de especialistas en prevención y atención del acoso escolar, haciéndolo del conocimiento público por los medios disponibles;
+L. Elaborar, operar y evaluar un plan de sana convivencia y disciplina escolar para el Sistema Educativo, que materialice el derecho de los estudiantes a su seguridad personal, libre de violencia, hostigamiento, intimidación, castigo corporal o cualquier tipo de trato o castigo humillante, con la participación de especialistas en prevención y atención del acoso escolar, haciéndolo del conocimiento público por los medios disponibles;
 
 > <small>(ADICIONADA, G.G. 8 DE DICIEMBRE DE 2014)</small>
 
@@ -1767,15 +1773,15 @@ En el ámbito de la educación básica, la Autoridad Educativa Estatal tendrá l
 
 Las autoridades educativas estatal y municipales realizarán acciones tendientes a procurar la permanencia del educando en el Sistema Educativo.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 59], G.G. 25 DE ABRIL DE 2014) (REFORMADO, G.G. 11 DE MARZO DE 2014)
+> <small>(REFORMADO, G.G. 19 DE ABRIL DE 2021)</small>
 
 ###### Artículo 105.
 
-En la impartición de educación para menores de edad se tomarán medidas que aseguren a alumnos la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
+En la impartición de educación para niñas, niños y adolescentes se tomarán medidas que aseguren a alumnos la protección y el cuidado necesarios para preservar su integridad física, psíquica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad, quedando estrictamente prohibido el uso del castigo corporal y cualquier otra forma o tipo de violencia como método de disciplina escolar.
 
-La Autoridad Educativa Estatal brindará cursos a los docentes y al personal que labora en los planteles de educación, sobre los derechos de los educandos y la obligación que tienen al estar encargados de su custodia, de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación.
+La Autoridad Educativa Estatal brindará cursos a los docentes y al personal que labora en los planteles de educación, sobre los derechos y obligaciones de los educandos, métodos de educación basados en el diálogo, el respeto y los buenos tratos, así como la obligación que tienen al estar encargados de su custodia, de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación.
 
-En caso de que los educadores, así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de los estudiantes, lo harán del conocimiento inmediato de la autoridad correspondiente, para su protección.
+En caso de que los educadores, así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de las y los estudiantes, o de maltrato, incluyendo el castigo corporal y el castigo humillante, lo harán del conocimiento inmediato de la Procuraduría de Protección de Niñas, Niños y Adolescentes, para su protección en términos de la Ley de los Derechos de las Niñas, Niños y Adolescentes.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 60], G.G. 25 DE ABRIL DE 2014)
 
@@ -3116,3 +3122,21 @@ G.G. 24 DE AGOSTO DE 2020.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 19 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 259.- POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 17 Y SE ADICIONA LA FRACCIÓN XXIV BIS AL ARTÍCULO 27 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO, Y SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 32; Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 31; Y LA FRACCIÓN XVI DEL ARTÍCULO 84 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 19 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 261.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO Y DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
