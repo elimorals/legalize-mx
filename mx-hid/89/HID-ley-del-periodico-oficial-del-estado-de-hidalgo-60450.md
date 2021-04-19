@@ -4,7 +4,7 @@ identifier: "HID-ley-del-periodico-oficial-del-estado-de-hidalgo-60450"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-10"
-last_updated: "2017-05-15"
+last_updated: "2021-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de marzo de 2008.
 
@@ -49,13 +49,17 @@ QUE CONTIENE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
+
 ###### Artículo 1°.
 
-La presente Ley es de observancia general e interés público, y tiene por objeto regular la organización, publicación y distribución del Periódico Oficial del Estado de Hidalgo.
+La presente Ley es de observancia general e interés público, y tiene por objeto regular la organización, publicación, accesibilidad y disponibilidad del Periódico Oficial del Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
 
 ###### Artículo 2°.
 
-El Periódico Oficial es el órgano informativo del Estado Libre y Soberano de Hidalgo, de carácter regular y permanente, cuya función consiste en publicar, las Leyes, Decretos, Reglamentos, Acuerdos, Circulares, notificaciones, avisos y demás documentos expedidos por los Poderes del Estado, en sus respectivos ámbitos de competencia; así como las Leyes y Decretos de carácter Federal y Municipales, para darles vigencia, validez y efectos legales.
+El Periódico Oficial es el órgano informativo del Estado Libre y Soberano de Hidalgo, de carácter regular, permanente e interés público, cuya función consiste en publicar en el territorio estatal, las Leyes, Decretos, Reglamentos, Acuerdos, Circulares, notificaciones, avisos y demás documentos expedidos por los Poderes del Estado y los Órganos Constitucionales Autónomos, en sus respectivos ámbitos de competencia; así como las Leyes y Decretos de carácter Federal y Municipales, para darles vigencia, validez y efectos legales.
 
 ###### Artículo 3°.
 
@@ -77,11 +81,9 @@ Las funciones del Periódico Oficial se desarrollarán por:
 
 I. El Titular de la Coordinación General Jurídica del Gobierno del Estado, quién supervisará la publicación del Periódico Oficial;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2014)</small>
-
-II. Un Director de Publicación, cuya función será la de coordinar y dirigir el proceso de la publicación escrita y la versión electrónica, formación de material que va a integrar el periódico, su cotejo con el documento original, impresión, encuadernación y refinación en el área de imprenta, así como compilación y venta al público; y
+II. Un Director de Publicación, cuya función será la de coordinar y dirigir el proceso de la publicación escrita y la versión electrónica, formación de material que va a integrar el periódico, su cotejo con el documento original, impresión, encuadernación, digitalización y refinación en el área de imprenta, así como compilación y venta al público bajo solicitud; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -101,11 +103,9 @@ III.- Un Jefe de Información, Recopilación y Atención al Público;
 
 IV.- Un Jefe del Área Técnica y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
-
-V. Los formadores, así como el personal técnico y administrativo necesario para cotejar documentos objeto de la publicación, que se hará por escrito y en versión electrónica.
+V. Los formadores, así como el personal técnico y administrativo necesario para cotejar documentos objeto de la publicación, que se hará en versión digital.
 
 ### CAPÍTULO TERCERO. DEL CONTENIDO
 
@@ -139,19 +139,25 @@ XII.- Avisos de fusión y liquidación; y
 
 XIII.- Los demás actos que merezcan esta publicidad, los cuales surtirán efectos, desde el día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo, salvo que las mismas dispongan otra cosa.
 
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2021)</small>
+
+###### Artículo 5° Bis.
+
+Es obligación del Director de Publicación, publicar en el Periódico Oficial del Estado, los ordenamientos y disposiciones a que se refiere el artículo anterior, así como asegurar su adecuada divulgación, condiciones de accesibilidad, inclusión, asequibilidad, adaptabilidad, universalidad, interoperabilidad y simplificación en su consulta.
+
 ### CAPÍTULO CUARTO. DE LAS CARACTERÍSTICAS DEL PERIÓDICO OFICIAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
 
 ###### Artículo 6°.
 
-El Periódico Oficial del Estado, se editará en la ciudad de Pachuca de Soto, Hidalgo de forma impresa y electrónica, debiéndose instrumentar el sistema de automatización e informática, creándose un área específica para ello. Ambas ediciones tendrán carácter oficial e idénticas características y contenido.
+El Periódico Oficial del Estado se editará en la ciudad de Pachuca de Soto, Hidalgo, de forma electrónica, debiéndose actualizar el sistema de automatización e informática, fortaleciendo y equipando el área específica para ello.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2021)</small>
 
 ###### Artículo 7°.
 
-El Periódico Oficial del Estado de Hidalgo deberá contener impresos por lo menos los siguientes datos:
+El Periódico Oficial del Estado de Hidalgo deberá contener por lo menos los siguientes datos:
 
 I.- El nombre de Periódico Oficial del Estado de Hidalgo;
 
@@ -165,15 +171,15 @@ V.- Sumario o índice.
 
 VI.- Podrá ser ordinario, de alcance o bis.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
+
 ###### Artículo 8°.
 
-El Periódico Oficial del Estado de Hidalgo deberá ser Publicado en forma ordinaria, cada siete días y las veces que sea necesario, cuando la urgencia del caso, así lo requiera, mediante alcance o número "bis".
+El Periódico Oficial del Estado de Hidalgo deberá ser Publicado en forma ordinaria, cada siete días y las veces que sea necesario, cuando la urgencia del caso, así lo requiera, mediante alcance o número “bis”.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+En el portal oficial de Internet del Gobierno del Estado de Hidalgo, será publicado de manera electrónica a través del portal del Periódico Oficial del Estado de Hidalgo, la que tendrá plena validez legal e idénticas características y contenido que la versión impresa, con firma electrónica avanzada del Periódico Oficial del Estado de Hidalgo.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
-
-En el portal oficial de Internet del Gobierno del Estado de Hidalgo, deberá publicarse una versión electrónica del Periódico Oficial, la que tendrá plena validez legal e idénticas características y contenido que la versión impresa, con firma electrónica avanzada.
+Además de la edición electrónica, serán impresos ejemplares a efecto de contar con evidencia física documental, así como garantizar la publicación donde resulte imposible acceder a su edición electrónica. Los ejemplares impresos quedarán en custodia en las siguientes instituciones: en el Periódico Oficial del Estado de Hidalgo, en el archivo de la Universidad Autónoma del Estado de Hidalgo, en el Archivo General de la Nación, en el Archivo General del Estado, en el archivo del Poder Legislativo del Estado de Hidalgo y en el archivo del Poder Judicial del Estado de Hidalgo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -195,13 +201,13 @@ V. Incorporar el desarrollo y la innovación tecnológica a los procesos de prod
 
 La Dirección de Publicación establecerá un sistema adecuado y eficaz para la consulta oportuna del Periódico Oficial del Estado de Hidalgo, en su versión electrónica.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2021)</small>
+
+###### Artículo 9°.
+
+El Periódico Oficial del Estado de Hidalgo se editará en forma electrónica para garantizar la difusión en todo el Estado, de los ordenamientos y disposiciones contenidas en él.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 9.
-
-El Periódico Oficial del Estado de Hidalgo, se editará en forma impresa y electrónica para garantizar la difusión en todo el Estado, de los ordenamientos y disposiciones contenidas en él. Ambas ediciones tendrán validez oficial e idénticas características.
 
 La dirección electrónica del Periódico Oficial del Estado de Hidalgo estará disponible a través del portal oficial de internet del Gobierno del Estado de Hidalgo.
 
@@ -231,9 +237,11 @@ Todas las publicaciones deberán hacerse en las páginas del Periódico Oficial 
 
 Las publicaciones deberán hacerse en el número del Periódico Oficial más próximo a salir. Se llevará un archivo en el que se guarden todos los documentos originales que sean remitidos para su publicación, juntamente con sus medios magnéticos, los cuales cada 2 dos años en el primer mes del segundo año se remitirán al Archivo General del Estado, para su resguardo.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
+
 ###### Artículo 15°.
 
-En ningún caso se publicará documento alguno, cualquiera que sea su naturaleza jurídica, si no está debidamente firmado y plenamente comprobada su procedencia. Por motivos técnicos en la publicación del documento se podrá omitir la impresión de la firma; sin embargo en su lugar deberá aparecer, bajo la mención del nombre del firmante: la palabra "Rúbrica", teniendo plena validez jurídica el contenido de la publicación. Para llevar a cabo la publicación, se deberá entregar el (sic) interesado en la Dirección de Publicación del Periódico Oficial, el original del documento debidamente firmado, sellado y en medio magnético. En ningún caso se publicará documento alguno, cualquiera que sea su procedencia y naturaleza jurídica, sino reúne los requisitos anteriores y está plenamente comprobada su procedencia.
+En ningún caso se publicará documento alguno, cualquiera que sea su naturaleza jurídica, si no está debidamente firmado, validado legalmente y plenamente comprobada su procedencia. Por motivos técnicos en la publicación del documento se podrá omitir la impresión de la firma; sin embargo en su lugar deberá aparecer, bajo la mención del nombre del firmante, la palabra “Rúbrica”, teniendo plena validez jurídica el contenido de la publicación. Para llevar a cabo la publicación, el interesado deberá entregar en la Dirección de Publicación del Periódico Oficial, el original del documento debidamente firmado, sellado y en medio magnético. En ningún caso se publicará documento alguno, cualquiera que sea su procedencia y naturaleza jurídica, si no reúne los requisitos de legalidad y está plenamente comprobada la misma y su procedencia.
 
 ###### Artículo 16°.
 
@@ -247,9 +255,11 @@ Para proceder a la publicación de los documentos de personas físicas, morales 
 
 ### CAPÍTULO SEXTO. DE LA FE DE ERRATAS
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
+
 ###### Artículo 18°.
 
-Los errores de escritura o impresión en las Publicaciones del Periódico Oficial del Estado, se corregirán por la propia Dirección de Publicación, responsable de la edición, mediante una Fe de Erratas.
+Los errores de escritura o publicación del Periódico Oficial del Estado, se corregirán por la propia Dirección de Publicación, responsable de la edición, mediante una Fe de Erratas.
 
 ###### Artículo 19°.
 
@@ -261,11 +271,13 @@ I.- Serán corregidos mediante la publicación de la Fe de Erratas, presentada p
 
 II.- Por error en la impresión y publicación del Periódico Oficial; corregida por el Director de Publicación del Periódico.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2021)</small>
+
 ###### Artículo 20°.
 
-Cuando durante la impresión se cometan errores que afecten en el contenido del material publicado haciendo diferir con el documento original, la Dirección de Publicación por sí o a petición de parte, deberá insertar en el Periódico Oficial una Fe de Erratas en la que conste de manera cierta el contenido del documento original.
+Cuando durante la publicación se cometan errores que afecten en el contenido del material publicado haciendo diferir con el documento original, la Dirección de Publicación por si o a petición de parte, deberá insertar en el Periódico Oficial una Fe de Erratas en la que conste de manera cierta el contenido del documento original, el mencionado documento deberá ser enviado de forma impresa a las instituciones mencionadas en el Artículo 8 tercer párrafo del presente ordenamiento.
 
-Cualquier ciudadano podrá hacer observaciones respecto de los errores del texto de escritura o impresión, mediante escrito dirigido a la Dirección de Publicación del Periódico Oficial del Estado.
+Cualquier persona podrá hacer observaciones respecto de los errores del texto de escritura en la publicación mediante escrito dirigido a la Dirección de Publicación del Periódico Oficial del Estado, para los afectos (sic) legales a que haya lugar.
 
 ###### Artículo 21°.
 
@@ -316,3 +328,15 @@ P.O. 15 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 178 POR EL QUE SE QUE (SIC) REFORMA EL ARTÍCULO 17 DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 700 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de un plazo de hasta 180 días naturales, el Titular del Poder Ejecutivo deberá realizar las adecuaciones necesarias al reglamento interior del Periódico Oficial del Estado de Hidalgo.
