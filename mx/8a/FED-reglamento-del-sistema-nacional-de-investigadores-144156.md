@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadores-144156"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-09-21"
-last_updated: "2021-02-24"
+last_updated: "2021-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144156&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2020-09-07"
 
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 24 DE FEBRERO DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ABRIL DE 2021.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 21 de septiembre de 2020.
 
@@ -39,47 +37,83 @@ REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
 ### CAPÍTULO I. ÁMBITO DE VALIDEZ Y OBJETO
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento es de observancia obligatoria para las instancias encargadas de la conducción y operación del Sistema Nacional de Investigadores y para los/las investigadores(as) que hayan ingresado o pretendan incorporarse a dicho Sistema.
+El presente Reglamento tiene por objeto:
+
+I. Establecer los objetivos del SNI, en el marco de una política de Estado que favorezca el interés público nacional, el desarrollo integral del país, la soberanía nacional, la independencia científica y tecnológica, el cuidado y restauración del medio ambiente, y el bienestar del pueblo de México, así como, en general, que reconozca la función social de las humanidades, las ciencias, las tecnologías y la innovación en favor de la humanidad;
+
+II. Regular la organización y operación del SNI;
+
+III. Establecer la integración y facultades de las instancias del SNI;
+
+IV. Garantizar que los recursos públicos sean canalizados para satisfacer los objetivos del SNI previstos en el presente Reglamento;
+
+V. Establecer los criterios generales, los procedimientos eficientes, equitativos y públicos, y las instancias de decisión para otorgar las distinciones a las y los humanistas, científicos, tecnólogos e innovadores que les permita el ingreso, permanencia y promoción de en (sic) el SNI, así como para el otorgamiento de los apoyos económicos;
+
+VI. Establecer los motivos para la suspensión y cancelación de las distinciones y los apoyos económicos, así como las formas para determinarlas;
+
+VII. Determinar las facultades de las instancias del SNI para el caso de incumplimientos o faltas de ética cometidas por parte de las y los integrantes del SNI o por las y los ayudantes a los que se refiere este Reglamento, así como los procesos e instancias para ejercerlas, y
+
+VIII. Establecer las demás disposiciones necesarias para el cumplimiento de los objetivos del SNI.
 
 ###### Artículo 2.
 
 Para los efectos de este Reglamento se entenderá por:
 
-I. Cargo administrativo, aquél que el/la investigador(a) ocupa en una dependencia con un encargo dominantemente administrativo y/o de gestión pública.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
 
-II. Cargo de elección popular, aquél que tiene lugar cuando la ciudadanía otorga su voto a nivel local, municipal, estatal o federal.
+I. Cargo administrativo, el que desempeña una investigadora o un investigador en una dependencia o entidad de la administración pública, distinta a la de su institución de adscripción;
+
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+II. Cargo de elección popular, el así señalado por la Constitución Política de los Estados Unidos Mexicanos;
 
 III. Cátedras CONACYT, las plazas académicas del CONACYT que son comisionadas a las distintas instituciones y entidades de investigación, en el marco de los “Lineamientos para la Administración de las Cátedras CONACYT”, el Estatuto del Personal Académico del CONACYT y las convocatorias respectivas.
 
-IV. Comisión, conjunto de miembros del SNI integrados ex profeso para evaluar las solicitudes que se reciben en respuesta a las convocatorias emitidas por el SNI, en el marco de lo establecido en el Reglamento con respecto a los requisitos y criterios generales y específicos. Hay comisiones dictaminadoras, revisoras, de investigadores(as) eméritos(as), transversales (que cubren todas las áreas disciplinares) y aquellas que se consideren necesarias.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
 
-V. Comprobante de adscripción, formato establecido por el CONACYT que acredita los servicios remunerados que el/la investigador(a) tiene con la institución en donde realiza sus actividades de investigación.
+IV. Comisión, el conjunto de personas integrantes del SNI designadas exprofeso para evaluar las solicitudes que se reciban en respuesta a las convocatorias emitidas por el SNI;
+
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+V. Comprobante de adscripción, formato establecido por el CONACYT que acredita los servicios remunerados que la investigadora o el investigador tiene con la institución en donde realiza sus actividades de investigación humanística o científica, de desarrollo tecnológico o de innovación;
 
 VI. CONACYT, el Consejo Nacional de Ciencia y Tecnología.
 
-VII. Convenio de colaboración, instrumento jurídico en el cual se hacen constar los términos y las condiciones en que el CONACYT apoya a los/las investigadores(as) adscritos a las instituciones del sector privado o social y por medio del cual, se pueden elegir para ser miembros del SNI.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+VII. Convenio de colaboración, instrumento jurídico en el cual se hacen constar los términos y las condiciones en que las investigadoras y los investigadores adscritos a las instituciones del sector privado o social pueden ser elegibles para ser integrantes del SNI;
 
 VIII. Convocatoria, el documento publicado en el portal del CONACYT mediante el cual se dan a conocer las bases del concurso para acceder a las distinciones a que se refiere el presente Reglamento.
 
-IX. Distinción, es el reconocimiento público que otorga el Gobierno Federal por medio del SNI a investigadores(as) que hayan sobresalido por la calidad de su producción y en la formación de nuevos(as) investigadores(as), así como por su aportación al fortalecimiento de la investigación científica o tecnológica del país, en su línea de estudio.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+IX. Distinción, la que otorga el Gobierno Federal a través del CONACYT en términos del presente Reglamento;
 
 X. Apoyo económico, el apoyo económico asociado a la distinción.
 
-XI. Apoyo económico en exceso, aquel otorgado a un(a) investigador(a) que no notifica en tiempo y forma un cambio en su situación, y que, en consecuencia, tiene obligación de reintegrar.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
 
-XII. Evaluadores, los miembros de la comunidad académica, científica y tecnológica, encargados de analizar y emitir una recomendación sobre las solicitudes que se presentan al SNI.
+XI. Apoyo económico en exceso, aquel otorgado a la o el integrante del SNI que no notifica en tiempo y forma un cambio en su situación, y que, en consecuencia, tiene obligación de reintegrar;
 
-XIII. Investigación, la que abarca tanto la básica como la aplicada, en ciencias y humanidades. Mientras que la primera tiene como motivación adquirir conocimiento de los principios fundamentales de fenómenos y hechos observables, la segunda se desarrolla para explorar aplicaciones posibles del conocimiento derivado de la investigación básica.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
 
-XIV. Investigación tecnológica, el trabajo creativo y sistemático, basado en conocimiento científico y experiencia práctica, encaminado a producir nuevos productos o procesos, o mejora de los ya existentes, con potencial para resolver problemas de la sociedad.
+XII. Investigadora(s) o Investigador(es), a las y los humanistas, científicos, tecnólogos e innovadores;
 
-XV. Innovación, la introducción de un nuevo, o significativamente mejorado producto (bien o servicio), de un proceso, de un método de comercialización o de un nuevo método organizativo en las practicas internas de la empresa, la organización del lugar de trabajo o las relaciones exteriores.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
 
-XVI. Difusión y promoción del acceso universal al conocimiento y sus beneficios, difusión social del conocimiento y actividades para propiciar el acceso social y público del conocimiento, la investigación e innovación científica, humanística y tecnológica, de acuerdo a lo establecido en el Artículo 3º, fracción V de la Constitución Política de los Estados Unidos Mexicanos.
+XIII. Interdisciplina, la que se da cuando se combinan dos o más disciplinas para generar un nuevo nivel de integración donde las fronteras disciplinares empiezan a desdibujarse. La interdisciplina no es la simple adición de partes, sino el reconocimiento que la incidencia de una disciplina y sus lógicas de indagación afectan el resultado de la investigación de la(s) otra(s) disciplina(s). Se entiende como multidisciplina al contraste de perspectivas disciplinares en una forma aditiva: cuando dos o mas disciplinas independientemente y de forma limitada interactúan para proveer un punto de vista a un problema desde sus propias perspectivas. Se entiende por transdisciplina cuando las perspectivas de dos o más disciplinas trascienden entre sí para formar una nueva aproximación holística; el resultado será completamente diferente o nuevo a lo esperado de la suma de las perspectivas individuales de las disciplinas.
 
-XVII. Vocaciones científicas tempranas, enseñanza de áreas del conocimiento fundamentales para poder optar por una carrera científica (principalmente matemáticas y lecto-escritura), y se refiere a coadyuvar a que las niñas y los niños se inicien en el gusto por la ciencia desde edades tempranas, y esta vocación se promueva en la educación inicial previa a la primaria, en la primaria, en la secundaria o nivel medio, y en el nivel previo a la entrada al nivel licenciatura.
+XIV. (DEROGADA, D.O.F. 20 DE ABRIL DE 2021)
+
+XV. (DEROGADA, D.O.F. 20 DE ABRIL DE 2021)
+
+XVI. (DEROGADA, D.O.F. 20 DE ABRIL DE 2021)
+
+XVII. (DEROGADA, D.O.F. 20 DE ABRIL DE 2021)
 
 XVIII. Enfermedad grave, cualquier dolencia o lesión que impida que el o la investigadora realice su ocupación o actividad habitual de forma temporal, que lo incapacite durante un periodo de al menos tres meses continuos, y que requiera intervención clínica de cirugía mayor o tratamiento en un centro hospitalario, siempre y cuando sea acreditado por una institución de Seguridad Social.
 
@@ -97,27 +131,39 @@ XXIV. SNI, el Sistema Nacional de Investigadores.
 
 XXV. Solicitante, la persona que presenta una solicitud en el marco de las convocatorias que publica el SNI. El/La solicitante puede ser de Nuevo Ingreso cuando pretende ingresar por primera vez, de Reingreso No Vigente cuando pretende reincorporarse y de Reingreso Vigente cuando desea permanecer en el Sistema.
 
-XXVI. Unidad de Medida y Actualización (UMA), se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de dichas leyes.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
 
-XXVII. Interdisciplina, se da cuando se combinan dos o más disciplinas para generar un nuevo nivel de integración donde las fronteras disciplinares empiezan a desdibujarse. La interdisciplina no es la simple adición de partes, sino el reconocimiento que la incidencia de una disciplina y sus lógicas de indagación afectan el resultado de la investigación de la(s) otra(s) disciplina(s).
+XXVI. UMA, la Unidad de Medida y Actualización a la que se refiere la Ley para Determinar el Valor de la UMA, y
+
+XXVII. (DEROGADA, D.O.F. 20 DE ABRIL DE 2021)
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 3.
 
-El SNI tiene por objeto reconocer, como resultado de la evaluación, la calidad de la investigación científica y tecnológica que se producen en el país o por mexicanos en el extranjero.
+El objetivo general del SNI es desarrollar y fortalecer la investigación humanística y científica, el desarrollo tecnológico y la innovación con rigor epistemológico, en favor de la libertad de investigación y de cátedra, así como de la autonomía de las instituciones públicas de educación superior autónomas por ley, mediante la distinción y, en su caso, apoyo a las investigadoras y los investigadores que contribuyan al fortalecimiento y consolidación de la comunidad humanística, científica, tecnológica y de innovación, y al acceso universal al conocimiento y sus beneficios sociales, así como al avance del conocimiento universal mediante el impulso a la investigación de frontera y la ciencia básica en alguna de las áreas del conocimiento, al desarrollo de tecnologías estratégicas de vanguardia e innovación abierta para la transformación social, o a la atención de problemas nacionales, preferentemente en el marco de los Programas Nacionales Estratégicos que impulsa el CONACYT para promover el ejercicio efectivo del derecho humano a la ciencia, en particular el acceso universal al conocimiento y sus beneficios sociales.
+
+El ejercicio efectivo del derecho humano a la ciencia constituye un vehículo para incidir en la atención de los problemas nacionales, y para contribuir desde el quehacer de la comunidad humanística, científica, tecnológica y de innovación a que el Estado mexicano desarrolle y consolide las capacidades suficientes para promover, respetar y proteger otros derechos, entre ellos, los que garantiza el artículo 4º constitucional, en particular el derecho a la alimentación nutritiva, suficiente y de calidad, el derecho a la protección de la salud, el derecho a un medio ambiente sano para el desarrollo y bienestar, el derecho al acceso, disposición y saneamiento de agua para consumo personal y domestico en forma suficiente, salubre, aceptable y asequible, el derecho de toda familia a disfrutar de vivienda digna y decorosa, el derecho de las niñas y los niños a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral, el derecho al acceso a la cultura, el derecho a la cultura física y a la práctica del deporte, y el derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
+
+Este objetivo tiene el propósito de favorecer el interés público nacional, el desarrollo integral del país, la soberanía nacional, la independencia científica y tecnológica, el cuidado y restauración del medio ambiente, y el bienestar del pueblo de México, reconociendo la función social de las humanidades, las ciencias, las tecnologías y la innovación en favor de la humanidad.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 4.
 
-Para cumplir con su objeto, el SNI tendrá las siguientes facultades y responsabilidades:
+Los objetivos particulares del SNI son los siguientes:
 
-I. Reconocer y premiar con distinciones y, en su caso, con apoyos económicos, la labor de investigación científica y tecnológica en el país, evaluando la calidad, producción, trascendencia e impacto del trabajo de los/las investigadores(as).
+I. Reconocer públicamente el mérito de investigadoras e investigadores que cuenten con una destacada trayectoria docente, académica y profesional en el fortalecimiento y consolidación de la comunidad humanística, científica, tecnológica y de innovación, y el acceso universal al conocimiento y sus beneficios sociales, asi como en el avance del conocimiento universal mediante el impulso a la investigación de frontera y la ciencia básica en alguna de las áreas del conocimiento, el desarrollo de tecnologías estratégicas de vanguardia e innovación abierta para la transformación social, o la atención de problemas nacionales, preferentemente en el marco de los Programas Nacionales Estratégicos que impulsa el CONACYT.
 
-II. Establecer el mecanismo de evaluación por pares con criterios académicos confiables, válidos y transparentes, para ponderar los productos de investigación; tanto científica como tecnológica y la formación de profesionales e investigadores(as); y
+II. Incentivar y consolidar el fortalecimiento de la comunidad humanística, científica, tecnológica y de innovación en sectores estratégicos, mediante el reconocimiento a la labor docente de investigadoras e investigadores.
 
-III. Promover entre los/las investigadores(as), la vinculación de la investigación con la docencia que imparten en las instituciones de educación superior, así como su incidencia en el acceso universal al conocimiento y el fortalecimiento de las vocaciones científicas en edades tempranas;
+III. Fomentar en la sociedad una cultura humanística, científica, tecnológica y de innovación basada en el rigor científico, el diálogo de saberes, la producción horizontal del conocimiento, la pluralidad y equidad epistémicas y el trabajo colaborativo, en el marco de la ética, los derechos humanos, el cuidado y restauración del medio ambiente, la protección y promoción de la salud, la conservación de la diversidad biocultural del país, y el bienestar del pueblo de México.
 
-IV. Propiciar la movilidad de los/las investigadores(as) en el país y favorecer el fortalecimiento de la actividad científica.
+Lo anterior, mediante el reconocimiento de la incidencia de las aportaciones y de la trayectoria docente, académica y profesional de las investigadoras e investigadores en la difusión y divulgación del conocimiento de vanguardia y del desarrollo científico o tecnológico; el fomento de las vocaciones científicas o tecnológicas desde la educación básica y la consolidación de espacios accesibles y gratuitos de divulgación para niñas, niños, adolescentes y jóvenes, así como para personas mayores y grupos sociales en situación de discriminación, en particular por cuestiones de discapacidad o género y tratándose de comunidades originarias y afromexicanas; la promoción de la ciencia abierta y el acceso universal al conocimiento y sus beneficios sociales; la difusión, divulgación y apropiación social del conocimiento y de los avances derivados de las actividades en la materia que fomente, realice o apoye el Estado mexicano, o en la reivindicación del uso de las lenguas indígenas en todos los ámbitos de las humanidades, las ciencias, las tecnologías y la innovación, en confluencia con el español y las lenguas extranjeras.
 
-V. Contribuir a la vinculación de los/las investigadores(as) que realizan actividades científicas, desarrollos tecnológicos, y de formación de comunidad científica especializados, con los gobiernos, empresas y organizaciones sociales.
+IV. Impulsar la descentralización territorial de las actividades de investigación humanística o científica, desarrollo tecnológico e innovación, así como fortalecer el desarrollo regional del país, mediante el reconocimiento del mérito de investigadoras e investigadores que cubran los requisitos señalados en la fracción I de este artículo y que además se encuentren adscritos a una institución de educación superior o centro de investigación en una entidad federativa distinta de la Ciudad de México.
+
+V. Contribuir a la vinculación de las investigadoras y los investigadores con los sectores público, social y privado.
 
 ###### Artículo 5.
 
@@ -163,15 +209,25 @@ VI. La Dirección de Vocaciones Científicas y SNI del CONACYT;
 
 VII. La Subsecretaría de Educación Superior de la Secretaría de Educación Pública;
 
-VIII. La Dirección General de Educación Superior Universitaria de la Secretaría de Educación Pública;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+VIII. La Dirección General de Educación Superior Universitaria e Intercultural de la Secretaría de Educación Pública;
 
 IX. Secretaría General Ejecutiva de la Asociación Nacional de Universidades e Instituciones de Educación Superior (ANUIES);
 
 X. Tres integrantes del SNI directamente electos por los miembros vigentes del Sistema Nacional de Investigadores, de acuerdo a lo establecido en los Lineamientos que al efecto se emitan.
 
-Cada uno de los miembros del Consejo a que se refieren los numerales I a IX, en caso de ausencia, podrán designar un suplente que deberá tener el nivel inmediato inferior, conforme a la legislación y normatividad que les resulte aplicable.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
-En caso de que el Consejo lo considere pertinente, podrá invitar, a través de la persona que ocupa la presidencia, a miembros distinguidos de los sectores gubernamental, empresarial o social, a participar en las sesiones.
+Las y los integrantes del Consejo General a los que se refieren las fracciones I a IX podrán designar un suplente que deberá tener el nivel inmediato inferior, conforme a la normativa aplicable.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+La o el Presidente, cuando lo estime pertinente, podrá invitar a personas de los sectores público, social o privado para que participen en las sesiones con voz, pero sin voto.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+El cargo y la participación de las y los integrantes del Consejo General y de toda persona que participe en cualquier actividad relacionada con el Consejo General serán honoríficos, por lo que no recibirán contraprestación ni emolumento alguno.
 
 ###### Artículo 7.
 
@@ -179,11 +235,17 @@ El Consejo General es la instancia de mayor autoridad en el SNI y tendrá las fu
 
 I. Definir el número y las características de las comisiones que evaluarán las solicitudes de ingreso o permanencia al SNI que presente la persona que ocupe la Dirección del SNI;
 
-II. Designar anualmente a los miembros de las comisiones dictaminadoras que concluyan su periodo de tres años, a partir de las propuestas que le presente la Secretaría Ejecutiva;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
 
-III. Designar a los miembros de la Comisión de investigadores(as) Eméritos(as), a partir de la propuesta que le presente la Secretaría Ejecutiva;
+II. Designar anualmente a las y los integrantes de las comisiones dictaminadoras que concluyan su periodo de tres años, a partir de las propuestas que le presente la Secretaría Ejecutiva;
 
-IV. Designar a los miembros de la Junta de Honor con base en las propuestas que le formule la Secretaría Ejecutiva;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+III. Designar a las y los integrantes de la Comisión de investigadoras e Investigadores Eméritos, a partir de la propuesta que le presente la Secretaría Ejecutiva;
+
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+IV. Designar a las y los integrantes de la Junta de Honor con base en las propuestas que le formule la Secretaría Ejecutiva;
 
 V. Aprobar las convocatorias que anualmente le presente la Secretaría Ejecutiva;
 
@@ -193,11 +255,17 @@ VII. Resolver sobre el otorgamiento de las distinciones que, por conducto de la 
 
 VIII. Resolver sobre las recomendaciones que, por conducto de la Secretaría Ejecutiva, le presente la Junta de Honor y determinar las sanciones que sean procedentes por las faltas en que incurran los miembros del SNI;
 
-IX. Resolver las recomendaciones de extensión de vigencia presentadas por la Junta de Honor que fueron solicitadas en tiempo y forma por los investigadores(as) nacionales;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
 
-X. Diseñar, realizar, revisar y validar los procesos de consulta para la elección de miembros que podrán integrar las Comisiones Dictaminadoras, así como vigilar la equidad de género, la inclusión, la representatividad institucional y federal de la conformación de las comisiones dictaminadoras;
+IX. Resolver las recomendaciones de extensión de vigencia presentadas por la Junta de Honor que fueron solicitadas en tiempo y forma por las y los integrantes del SNI;
 
-XI. Someter, por conducto de la Secretaría Ejecutiva, a la aprobación de la Junta de Gobierno del CONACYT, los proyectos de modificaciones del Reglamento;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+X. Diseñar, realizar, revisar y validar los procesos de consulta a las y los integrantes del SNI para la conformación de las Comisiones Dictaminadoras, y procurar que en su integración se observen los criterios de igualdad de género, inclusión, representatividad institucional y regional;
+
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+XI. Tomar conocimiento de los proyectos de reforma del Reglamento;
 
 XII. Aprobar las disposiciones normativas y lineamientos que regulen su funcionamiento interno y el de las demás instancias colegiadas del SNI;
 
@@ -227,9 +295,13 @@ El funcionamiento interno del Comité Consultivo se regulará por los lineamient
 
 ### CAPÍTULO IV. COMISIONES DICTAMINADORAS
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
 ###### Artículo 11.
 
-Las comisiones dictaminadoras tendrán por objeto evaluar, mediante el análisis hecho por pares, la calidad académica, la trascendencia y el impacto del trabajo de investigación científica y tecnológica, la docencia y la formación de nuevos investigadores para fortalecer la comunidad científica de México, que con las solicitudes de ingreso o permanencia les presente la Dirección de Vocaciones Científicas y SNI..
+Las comisiones dictaminadoras tendrán por objeto emitir dictámenes fundados y motivados de las solicitudes de ingreso, permanencia o promoción en el SNI que presenten las investigadoras y los investigadores, con base en la evaluación que realicen de su trayectoria docente, académica y profesional en el fortalecimiento y consolidación de la comunidad humanística, científica, tecnológica y de innovación, y el acceso universal al conocimiento y sus beneficios sociales, así como en el avance del conocimiento universal mediante el impulso a la investigación de frontera y la ciencia básica en alguna de las áreas del conocimiento, el desarrollo de tecnologías estratégicas de vanguardia e innovación abierta para la transformación social, o la atención de problemas nacionales, preferentemente en el marco de los Programas Nacionales Estratégicos que impulsa el CONACYT. Lo anterior, de conformidad con los criterios de evaluación que se establezcan en este Reglamento y en las demás disposiciones aplicables, atendiendo siempre el rigor científico.
+
+Las Comisiones Dictaminadoras observarán el principio constitucional de igualdad y no discriminación, para lo cual al proponer los criterios específicos de evaluación identificarán parámetros objetivos y realizarán la evaluación mediante un análisis caso por caso, ponderando objetiva, razonable y argumentadamente todos los elementos que presente la o el solicitante para acreditar el cumplimiento de los requisitos según la categoría y nivel al que aspire.
 
 ###### Artículo 12.
 
@@ -259,9 +331,11 @@ Las comisiones dictaminadoras se conformarán, operarán y funcionarán en térm
 
 ### CAPÍTULO V. COMISIONES TRANSVERSALES
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
 ###### Artículo 14.
 
-Las comisiones transversales tendrán por objeto evaluar, mediante el análisis hecho por pares, la calidad académica, la trascendencia y el impacto del trabajo de investigación e innovación, de temas comunes a todas las áreas, que se presenten con las solicitudes.
+Las Comisiones Transversales sólo evaluarán las solicitudes que incluyan temas comunes a varias áreas.
 
 ###### Artículo 15.
 
@@ -277,19 +351,27 @@ Las comisiones transversales se conformarán, operarán y funcionarán en térmi
 
 Por cada una de las áreas del conocimiento indicadas en el Reglamento, habrá dos Comisiones Revisoras, la Comisión Revisora Nivel 2, integrada por miembros nivel 2 para evaluar solicitudes de nuevo ingreso a candidato, nuevo ingreso y re-ingreso vigente de nivel 1 y toda solicitud de reingreso no-vigente; y la Comisión Revisora Nivel 3 integrada por miembros nivel 3 para evaluar re-ingreso vigente de miembros nivel 2 y nivel 3, así como casos enviados por la Comisión Revisora Nivel 2.
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
 ###### Artículo 18.
 
-Las comisiones revisoras tendrán por objeto conocer, dictaminar y recomendar al Consejo General, de los recursos de reconsideración de las solicitudes presentadas por las personas inconformes, a través del medio que considere el CONACYT.
+Las comisiones revisoras tendrán por objeto emitir dictámenes fundados y motivados de las solicitudes de reconsideración que presenten las investigadoras y los investigadores, con base en la evaluación que realicen de su trayectoria docente, académica y profesional en el fortalecimiento y consolidación de la comunidad académica, humanística, científica, tecnológica y de innovación, y el acceso universal al conocimiento y sus beneficios sociales, así como en el avance del conocimiento universal mediante el impulso a la investigación de frontera y la ciencia básica en algún área del conocimiento, el desarrollo de tecnologías estratégicas de vanguardia e innovación abierta para la transformación social, o la atención de problemas nacionales, preferentemente en el marco de los Programas Nacionales Estratégicos que impulsa el CONACYT; lo anterior, de conformidad con los criterios de evaluación que se establezcan en este Reglamento y en las demás disposiciones aplicables.
+
+Las Comisiones Revisoras observarán el principio constitucional de igualdad y no discriminación, para lo cual realizarán un análisis caso por caso, ponderando objetiva, razonable y justificadamente todos los elementos que presente la o el solicitante para acreditar el cumplimiento de los requisitos, según la categoría y nivel al que aspire.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 19.
 
-Cada una de las comisiones revisoras se conformaran, operarán y funcionarán en términos de los lineamientos que al efecto emita el Consejo General. En ellas se procuraría equilibrio y paridad entre disciplinas, instituciones, género y regiones.
+Cada una de las comisiones revisoras se conformarán, operarán y funcionarán en términos de los lineamientos que al efecto emita el Consejo General. En ellas se procurará el equilibrio y la paridad entre disciplinas, instituciones, género y regiones geográficas.
 
 ### CAPÍTULO VII. COMISIÓN DE INVESTIGADORES(AS) EMÉRITOS(AS)
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
 ###### Artículo 20.
 
-El objeto de la Comisión de Investigadores(as) Eméritos(as) será recomendar a aquellos(as) investigadores(as) solicitantes que, cumpliendo con los requisitos establecidos en el Reglamento, estimen meritorios para obtener la calidad de Emérito.
+El objeto de la Comisión de Investigadoras e Investigadores Eméritos será emitir recomendaciones fundadas y motivadas sobre las solicitudes que presenten las investigadoras y los investigadores para obtener la distinción de Investigadora o Investigador Nacional Emérito.
 
 ###### Artículo 21.
 
@@ -297,17 +379,17 @@ La Comisión de Investigadores(as) Eméritos(as) se conformará, operará y func
 
 ### CAPÍTULO VIII. JUNTA DE HONOR
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
 ###### Artículo 22.
 
-La Junta de Honor tendrá como objeto, analizar los casos que se presenten formalmente por escrito de manera fundamentada, argumentada y con las pruebas suficientes, en que se presuma la comisión de una falta de ética profesional por parte de los/las investigadores(as)del SNI y que ataña directamente a su relación con el SNI.
+La Junta de Honor tendrá como objeto emitir recomendaciones fundadas y motivadas sobre los aspectos éticos de los temas que le consulte el Consejo General, la Secretaría Ejecutiva, o la Dirección de Vocaciones Científicas y SNI, en particular los relacionados con las faltas de ética por parte de las y los integrantes del SNI, así como de las y los ayudantes a que se refiere este Reglamento. Lo anterior sin perjuicio de que el Consejo General, la Secretaría Ejecutiva o la Dirección de Vocaciones Científicas y SNI, puedan solicitar el apoyo de los organismos del Gobierno Federal especializados en la materia.
 
-En su caso, la Junta de Honor emitirá recomendación al Consejo General, a quien corresponderá la aplicación de las sanciones.
-
-En contra de la resolución que emita el Consejo General no procederá recurso alguno.
+El Consejo General resolverá sobre la aplicación de las sanciones correspondientes y aplicará una estricta política de cero tolerancia a la corrupción y a la violencia de género. En contra de la resolución del Consejo General no procederá recurso alguno.
 
 ###### Artículo 23.
 
-La Junta de Honor revisará y emitirá recomendaciones al Consejo General sobre las solicitudes de extensión, de hasta un año, presentadas por investigadores(as) nacionales que hayan enfermado gravemente o que hayan enfrentado una situación familiar grave.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
 
 ###### Artículo 24.
 
@@ -315,11 +397,15 @@ La Junta de Honor se conformará, operará y funcionará en términos de los lin
 
 ### CAPÍTULO IX. SECRETARÍA EJECUTIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
 ###### Artículo 25.
 
-La persona que ocupe la Dirección Adjunta de Desarrollo Científico del CONACYT, fungirá también como titular de la Secretaria Ejecutiva del SIN, quien será suplida en sus ausencias por el Director de Vocaciones Científicas y SNI, y tendrá las siguientes funciones:
+La persona que ocupe la Dirección Adjunta de Desarrollo Científico del CONACYT fungirá también como titular de la Secretaria Ejecutiva del SNI, quien será suplida en sus ausencias por la Directora o el Director de Vocaciones Científicas y SNI, y tendrá las siguientes funciones:
 
-I. Formular las propuestas de miembros de las comisiones dictaminadoras previa consulta directa con los miembros vigentes del Sistema Nacional de Investigadores y de los miembros de la Comisión de Investigadores(as) Eméritos(as);
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+I. Formular las propuestas de las y los integrantes de las comisiones dictaminadoras previa consulta directa con las y los integrantes del SNI y de las y los integrantes de la Comisión de Investigadoras e Investigadores Eméritos;
 
 II. Publicar las convocatorias aprobadas por el Consejo General;
 
@@ -351,13 +437,27 @@ XV. Presentar al Consejo General los casos para la cancelación del registro de 
 
 XVI. Las demás que se deriven del Reglamento y de otras normas y disposiciones reglamentarias aplicables, así como aquellas que le instruya el Consejo General.
 
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+XVII. Con base en la opinión de la Unidad de Asuntos Jurídicos, interpretar y resolver los asuntos no previstos en el presente Reglamento.
+
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+XVIII. Someter a consideración del Consejo General los proyectos de modificaciones al presente Reglamento y demás disposiciones para regir la organización y funcionamiento del SNI, previa opinión de la Unidad de Asuntos Jurídicos, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+XIX. Tramitar, con apoyo de la Dirección de Vocaciones Científicas y SNI, el Análisis de Impacto Regulatorio o la exención de éste ante la Comisión Nacional de Mejora Regulatoria de las reformas al presente Reglamento.
+
 ### CAPÍTULO X. DIRECCIÓN DE VOCACIONES CIENTÍFICAS Y SNI
 
 ###### Artículo 26.
 
 La persona que ocupe la Dirección de Vocaciones Científicas y SNI tendrá las siguientes funciones:
 
-I. Elaborar los proyectos de normas y disposiciones reglamentarias de aplicación general para regir la organización y el funcionamiento del SNI y someterlos a la consideración del Consejo General por conducto de la Secretaría Ejecutiva;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+I. Elaborar los anteproyectos de modificaciones al presente Reglamento y demás disposiciones para regir la organización y el funcionamiento del SNI y someterlas a la consideración de la Secretaría Ejecutiva, quien, en su caso, las presentará al Consejo General, previa opinión de la Unidad de Asuntos Jurídicos;
 
 II. Formular los proyectos de las convocatorias a que se refiere el Reglamento y someterlas a la consideración de la Secretaría Ejecutiva;
 
@@ -377,57 +477,149 @@ IX. Las demás que se deriven de la Ley de Ciencia y Tecnología, la Ley Orgáni
 
 X. Suplir en sus ausencias a la Secretaria Ejecutiva del SNI.
 
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+XI. Atender y coordinar los procedimientos en los que sea necesaria la participación de las y los integrantes del SNI, en particular, tratándose de la elección de miembros del Consejo General y de la Mesa Directiva del Foro Consultivo Científico y Tecnológico, sin perjuicio de las atribuciones de otras instancias.
+
 ### CAPÍTULO XI. INGRESO Y REINGRESO AL SNI
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 27.
 
-Ingresarán al SNI aquellos/as investigadores/as que atiendan la convocatoria correspondiente, cumplan con los criterios de selección contenidos en este Reglamento, con los criterios específicos de evaluación, sean evaluados positivamente por una Comisión y aceptados por el Consejo General.
+La población objetivo del SNI es:
 
-Los/Las investigadores(as) que, estando en el último año de vigencia de su distinción, quieran permanecer en el Sistema, deberán participar en la convocatoria anual que al efecto emita el SNI, con excepción de quienes estén en los supuestos de extensión o renovación por quince años.
+I. Mexicanas y mexicanos que realicen actividades de investigación humanística o científica, desarrollo tecnológico o innovación en México o en el extranjero, y
+
+II. Extranjeras y extranjeros que realicen actividades de investigación humanística o científica, desarrollo tecnológico o innovación en México.
+
+El CONACYT publicará cada año en su página electrónica las convocatorias para el ingreso, permanencia y promoción en el SNI.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 28.
 
-Para ser miembro del SNI se requiere que el/la investigador(a):
+Las distinciones que confiere el CONACYT a través del SNI se clasifican en las siguientes categorías y, en su caso, niveles:
 
-I. Cuente con doctorado o con estudios equivalentes de doctorado en medicina. La equivalencia se realizará de acuerdo con lo que señalen los criterios específicos de evaluación del Área III: Medicina y Ciencias de la Salud;
+I. Candidata o Candidato a Investigadora o Investigador Nacional;
 
-II. Realice habitual y sistemáticamente actividades de investigación científica o tecnológica, así como formación de comunidad científica, actividades de docencia, y actividades en favor del acceso universal al conocimiento y el fortalecimiento de las vocaciones científicas;
+II. Investigadora o Investigador Nacional, con niveles 1, 2 y 3, y
 
-III. Presente los productos del trabajo debidamente documentados, mediante el mecanismo que se indique en la convocatoria correspondiente;
+III. Investigadora o Investigador Nacional Emérito.
 
-IV. La investigación que realice sea de acceso social y público del conocimiento, sin pasar por alto lo establecido en la Ley de Derechos de Autor, Ley de Propiedad Intelectual y demás legislación aplicable;
+Las investigadoras e investigadores indicarán en su solicitud la categoría y, en su caso, nivel al que aspiran.
 
-V. Se desempeñe en México, cualquiera que sea su nacionalidad, o sea persona de nacionalidad mexicana que realice actividades de investigación en el extranjero;
-
-VI. Para el caso de Cátedras CONACYT, se entenderá que desempeñan sus actividades de investigación científica o tecnológica en la Institución beneficiada a la cual fueron comisionados en los términos establecidos por la normatividad aplicable; y
-
-VII. Cumpla con los criterios de selección contenidos en este Reglamento.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 29.
 
-Para comprobar el cumplimiento de los requisitos establecidos en el artículo anterior, el SNI podrá solicitar la información que estime pertinente, en el marco del Reglamento.
+Para recibir la distinción la o el solicitante deberá demostrar, según la categoría y, en su caso, el nivel al que aspire, el cumplimiento de los requisitos siguientes:
+
+I. Para Candidata o Candidato:
+
+a) Contar con el grado de doctor o doctora.
+
+Las personas con título de médico podrán acreditar la equivalencia del grado, en términos de los criterios específicos del Área III: Medicina y Ciencias de la Salud.
+
+Excepcionalmente, las personas con título profesional podrán acreditar la equivalencia del grado con su trayectoria profesional ante la Secretaría de Educación Pública, en términos de la normativa aplicable;
+
+b) Tener capacidad para realizar investigación de frontera y ciencia básica en algún área del conocimiento que contribuya al avance del conocimiento universal, o desarrollo de tecnologías estratégicas de vanguardia o innovación abierta para la transformación social, o para incidir en la atención de problemas nacionales, preferentemente en el marco de los Programas Nacionales Estratégicos que impulsa el CONACYT;
+
+c) Participar en el fortalecimiento y consolidación de la comunidad humanística, científica, tecnológica o de innovación a través de la dirección o codirección de trabajos de titulación de licenciatura o posgrado en México, de la participación en comités tutorales de licenciatura o posgrado en México, o de la impartición de asignaturas en nivel medio superior, licenciatura o posgrado en México. Estos requisitos se acreditarán con la carta institucional de la autoridad con atribuciones para tal efecto;
+
+d) Promover el acceso universal al conocimiento y sus beneficios sociales, entre otros, mediante la generación de contenidos gráficos o audiovisuales o de otras formas de divulgar el conocimiento al menos una vez al año, que sean difundidos en plataformas o revistas disponibles, preferentemente del CONACYT, así como la promoción de las vocaciones científicas o tecnológicas tempranas;
+
+e) Cumplir con los criterios específicos correspondientes al área del conocimiento de su elección en el SNI y a la categoría a la que aspira, y
+
+f) Los demás que establezca la convocatoria correspondiente, este Reglamento y las demás disposiciones aplicables;
+
+II. Para el nivel 1:
+
+a) Contar con el grado de doctor o doctora.
+
+Las personas con título de médico podrán acreditar la equivalencia del grado, en términos de los criterios específicos del Área III: Medicina y Ciencias de la Salud.
+
+Excepcionalmente, las personas con título de educación superior podrán acreditar la equivalencia del grado con su trayectoria profesional ante la Secretaría de Educación Pública, en términos de la normativa aplicable;
+
+b) Haber realizado investigación de frontera y ciencia básica en algún área del conocimiento que contribuya al avance del conocimiento universal, o desarrollo de tecnologías estratégicas de vanguardia o innovación abierta para la transformación social, o haber incidido en la atención de problemas nacionales, preferentemente en el marco de los Programas Nacionales Estratégicos que impulsa el CONACYT;
+
+c) Participar en el fortalecimiento y consolidación de la comunidad humanística, científica, tecnológica o de innovación, a través de la dirección o codirección de trabajos de titulación de licenciatura o posgrado en México, de la participación en comités tutorales de licenciatura o posgrado en México, o de la impartición de asignaturas en nivel medio superior, licenciatura o posgrado en México. Estos requisitos se acreditarán con la carta institucional de la autoridad con atribuciones para tal efecto;
+
+d) Promover el acceso universal al conocimiento y sus beneficios sociales, entre otros, mediante la generación de contenidos gráficos o audiovisuales o de otras formas de divulgar el conocimiento al menos una vez al año, que sean difundidos en plataformas o revistas disponibles, preferentemente del CONACYT, así como la promoción de las vocaciones científicas o tecnológicas tempranas;
+
+e) Cumplir con los criterios específicos correspondientes al área del conocimiento de su elección en el SNI y al nivel al que aspira, y
+
+f) Los demás que establezca la convocatoria correspondiente, este Reglamento y las demás disposiciones aplicables;
+
+III. Para el nivel 2, además de cumplir con los requisitos del nivel 1, deberá:
+
+a) Contribuir a la consolidación de líneas de investigación en humanidades, ciencias, tecnologías o innovación;
+
+b) Realizar aportaciones relevantes y pertinentes a las humanidades, las ciencias, las tecnologías o la innovación, especialmente la atención de problemas nacionales, preferentemente en el marco de los Programas Nacionales Estratégicos que impulsa el CONACYT;
+
+c) Contar con liderazgo nacional reconocido por su trayectoria académica, docente y profesional en materia de humanidades, ciencias, tecnologías o innovación;
+
+d) Haber colaborado con diversas instituciones públicas de educación superior o centros de investigación públicos del país, y
+
+e) Haber dirigido o codirigido trabajos para la obtención del grado de maestría o doctorado en México o haber participado en comités tutorales de posgrado. Estos requisitos se acreditarán con la carta institucional de la autoridad con atribuciones para tal efecto;
+
+IV. Para el nivel 3, además de cumplir con los requisitos del nivel 2, deberá:
+
+a) Coordinar grupos de trabajo enfocados a realizar aportaciones relevantes y pertinentes a las humanidades, las ciencias, las tecnologías o la innovación, especialmente la atención de problemas nacionales, preferentemente en el marco de los Programas Nacionales Estratégicos que impulsa el CONACYT;
+
+b) Contar con liderazgo internacional reconocido por su trayectoria docente, académica y profesional en materia de humanidades, ciencias, tecnologías o innovación, y
+
+c) Haber dirigido trabajos para la obtención del grado de doctorado en México o estancias de posdoctorado en México de al menos un año académico con resultados de investigación generados durante el tiempo del posdoctorado. Estos requisitos se acreditarán con la carta institucional de la autoridad con atribuciones para tal efecto;
+
+V. Para obtener la distinción de Investigadora o Investigador Nacional Emérito la o el solicitante deberá demostrar el cumplimiento de los siguientes requisitos:
+
+a) Demostrar una trayectoria académica, docente y profesional de al menos treinta años;
+
+b) Contar con el nivel 3 de Investigadora o Investigador Nacional con anterioridad al cierre de la convocatoria para Investigadoras e Investigadores Eméritos, y
+
+c) Los demás que establezca la convocatoria correspondiente, este Reglamento y las demás disposiciones aplicables.
+
+De manera complementaria, en la evaluación se podrá tomar en cuenta la participación o colaboración de los solicitantes en otros programas del CONACYT; en cuerpos colegiados responsables de llevar a cabo evaluaciones académicas o técnicas de programas y proyectos, particularmente en el marco de las actividades del CONACYT; en cuerpos editoriales; en la vinculación de las humanidades, las ciencias, las tecnologías y la innovación con los sectores público, social y privado; en el desarrollo de la institución en que presta sus servicios, y en la creación, actualización y fortalecimiento de planes y programas de estudio.
+
+Para comprobar el cumplimiento de los requisitos establecidos en el presente artículo, las instancias del SNI, en el ámbito de sus atribuciones, podrán solicitar la información que estimen pertinente.
+
+Para el ingreso se tomará en cuenta la obra y la trayectoria docente, académica y profesional de las y los solicitantes generada en los tres años inmediatos anteriores a la fecha de la solicitud y, de manera complementaria, la obra y la trayectoria globales, en términos del presente Reglamento y demás normativa aplicable.
+
+Para la permanencia se tomará en cuenta la obra y la trayectoria docente, académica o profesional, de las y los solicitantes generada con posterioridad al último periodo de evaluación, y en caso de promoción, de manera complementaria la obra y la trayectoria globales.
 
 ###### Artículo 30.
 
-Aquellas personas que en dos convocatorias consecutivas hayan solicitado su ingreso o reingreso no-vigente al SNI y no lo hayan obtenido, deberán esperar al menos un año para volver a presentar una solicitud.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 31.
 
-Las convocatorias y los correspondientes criterios de evaluación para cada área del conocimiento serán publicados en el portal del CONACYT.
+Las y los integrantes del SNI que estando en el último año de la vigencia de su distinción quieran permanecer en el SNI deberán participar en la convocatoria anual que al efecto emita el CONACYT, incluyendo aquellos que hayan renunciado a la extensión automática de la vigencia de la distinción en los términos previstos en este Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 32.
 
-Las solicitudes de ingreso o reingreso al SNI deberán acompañarse de:
+Las solicitudes de ingreso, permanencia o promoción en el SNI deberán acompañarse de:
 
-I. El currículum vítae, en el formato que establezca el CONACYT y que estará disponible en su portal;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
 
-II. La producción científica o tecnológica, de formación de comunidad científica, actividades de docencia, y actividades en favor del acceso universal al conocimiento así como el fortalecimiento de las vocaciones científicas, que sustenten la solicitud, en el formato y las condiciones que se establezcan en la convocatoria correspondiente; y
+I. El currículum vitae de la o el solicitante, en el formato que establezca el CONACYT;
 
-III. En los casos de primer ingreso, además deberán proporcionar copia de documentos oficiales que acrediten nacionalidad, edad, títulos y grados obtenidos.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
 
-En caso de tener nacionalidad diferente a la mexicana, deberá entregar el documento que acredite su residencia legal en el país.
+II. La información y documentación que acredite fehacientemente el cumplimiento de los requisitos que corresponda en términos del artículo 29 y demás disposiciones del presente Reglamento, y
 
-Los documentos se entregarán en los formatos y con las condiciones establecidos en la convocatoria correspondiente.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+III. En los casos de ingreso, además deberán proporcionar copia de los documentos oficiales que acrediten nacionalidad, edad, títulos y grados obtenidos.
+
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+La información y los documentos se entregarán en los formatos y con las condiciones establecidos en la convocatoria correspondiente.
 
 ### CAPÍTULO XII. EVALUACIÓN
 
@@ -443,77 +635,23 @@ Al publicarse nuevos criterios específicos de evaluación en el portal del CONA
 
 Cada solicitud deberá ser dictaminada por al menos dos evaluadores y resuelta por el pleno de la comisión.
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
 ###### Artículo 36.
 
-Las comisiones emplearan los criterios de este Reglamento y los específicos de cada área para emitir sus recomendaciones. En la evaluación se considerarán primordialmente la calidad de la producción de investigación científica y tecnológica, así como su cantidad, la participación en la formación de profesionales e investigadores(as) a través de programas de estudio de Educación superior y de posgrado, la investigación colaborativa con diversas instituciones del país, su trayectoria y contribuciones significativas al país y a las instituciones públicas de investigación.
+Las comisiones formularán su dictamen con base en los criterios y requisitos de este Reglamento y los específicos de cada área para emitir sus recomendaciones.
 
 ###### Artículo 37.
 
-Los productos de investigación que serán considerados fundamentalmente para decidir sobre el ingreso o reingreso al SNI, serán:
-
-I. Investigación científica
-
-a. Artículos de que hayan sido sujetos a un arbitraje riguroso por Comités editoriales de reconocido prestigio académico; y/o
-
-b. Libros dictaminados y publicados por editoriales de reconocido prestigio académico; y/o
-
-c. Capítulos de libros dictaminados y publicados por editoriales de reconocido prestigio académico.
-
-II. Investigación Tecnológica
-
-a. Propiedad intelectual concedida o transferida en México o en el extranjero; y/o
-
-b. Estudios y proyectos que generaron conocimiento novedoso, pagados por un tercero o implementados (distinto a la institución de los autores) y orientados a comprender o resolver problemas reales del usuario; y/o
-
-c. Desarrollos tecnológicos implementados y orientados a resolver problemas reales.
-
-La producción de investigación tecnológica deberá estar preferentemente vinculada con los productos de investigación científica y presentarse la documentación que avale dichos productos.
-
-III. Formación de comunidad científica
-
-a. Dirección y co-direcciones, reconocidas formalmente, de tesis de licenciatura o posgrado terminadas; y/o
-
-b. Formación de investigadores(as) y de grupos de investigación; y/o
-
-c. Impartición de cursos en licenciatura y posgrado.
-
-IV. Acceso universal al conocimiento y fomento de vocaciones tempranas
-
-a. La realización de actividades que acerquen el conocimiento científico y humanístico a la ciudadanía, así como promover sus beneficios al sector público, social y a la ciudadanía en general; y/o
-
-b. Formación e impulso de vocaciones científicas tempranas.
-
-Los productos de formación de comunidad científica así como los de acceso universal al conocimiento y fomento de vocaciones científicas son complementarios a los de producción de investigación científica o tecnológica.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
 
 ###### Artículo 38.
 
-Para la permanencia o promoción se considerarán, de manera adicional, la participación en cuerpos colegiados de evaluación científica y tecnológica, cuerpos editoriales; la participación en comisiones dictaminadoras, particularmente las del CONACYT; la participación en actividades de acceso universal al conocimiento; el fomento de vocaciones científicas tempranas; la divulgación y difusión del conocimiento científico, humanístico o tecnológico; la vinculación de la investigación con los sectores público, social y privado; la participación en el desarrollo de la institución en que presta sus servicios; la incidencia en y/o investigación de problemas nacionales estratégicos; la investigación colaborativa con diversas instituciones del país; y en la creación, actualización y fortalecimiento de planes y programas de estudio. Lo anterior no sustituye los productos de investigación y de formación de comunidad científica referidos en el artículo 37, pero los complementa, sobre todo en los niveles 2 y 3.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
 
 ###### Artículo 39.
 
-Los elementos en que se sustentaría la evaluación de los/las solicitantes para su incorporación al SNI, serán:
-
-I. Para los/las solicitantes de reingreso vigente, la producción de investigación científica y tecnológica, así como la formación de comunidad científica y las actividades de acceso universal al conocimiento y/o las de fomento de vocaciones científicas tempranas generada con posterioridad al último periodo de evaluación, así como, en caso de ser susceptibles de subir de nivel, la obra global reflejada a través de los resultados de las actividades de investigación realizadas;
-
-II. Para los/las solicitantes de nuevo ingreso y reingreso no vigente, se evaluará la producción científica y tecnológica, así como la de formación de comunidad científica y las actividades de acceso universal al conocimiento y/o las de fomento de vocaciones científicas tempranas generada en los tres años inmediatos anteriores a la fecha de la solicitud. Además, como un elemento complementario, se podrá tomar en cuenta la producción global.
-
-Para la promoción o permanencia en los niveles 2 y 3, además de los incisos anteriores, se tomará en cuenta:
-
-a. La originalidad de los trabajos y la contribución individual del/de la solicitante en el caso de varios autores.
-
-b. La participación en la consolidación de líneas de investigación.
-
-c. La trascendencia de los productos de investigación en la solución de problemas científicos, humanísticos, sociales y tecnológicos nacionales.
-
-d. El liderazgo y reconocimiento nacional e internacional del/de la solicitante.
-
-e. El impacto de la gestión en el desarrollo de capacidades científicas y Tecnológicas.
-
-f. La producción complementaria enfocada a la generación de conocimiento relevante y pertinente.
-
-g. La investigación colaborativa con diversas instituciones en el país.
-
-Así como todas las actividades referidas en el Artículo 37.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
 
 ###### Artículo 40.
 
@@ -527,191 +665,211 @@ Las comisiones dictaminadoras emitirán sus recomendaciones y éstas se presenta
 
 Los resultados aprobatorios de las evaluaciones serán publicados en el portal del CONACYT, una vez que el Consejo General haya resuelto, con la especificación de los nombres de los/las investigadores(as) aprobados/as y la indicación de la categoría y el nivel que les hayan sido conferidos.
 
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+Las distinciones se otorgarán previa celebración de un convenio individual que suscriba la investigadora o el investigador con el CONACYT.
+
 ### CAPÍTULO XIII. RECONSIDERACIÓN
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 43.
 
-En contra de las resoluciones del Consejo General, procederá el recurso de reconsideración, el cual deberá interponerse dentro de los quince días hábiles siguientes a la fecha de publicación de los resultados.
+En contra de las resoluciones del Consejo General procederá el recurso de reconsideración, el cual podrá interponerse dentro de los quince días hábiles siguientes a la fecha de publicación de los resultados.
 
-Se exceptúan las resoluciones para el otorgamiento de la distinción de Investigador(a) Nacional Emérito(a), las cuales serán definitivas e inapelables.
+Se exceptúan las resoluciones para el otorgamiento de la distinción de Investigadora o Investigador Nacional Emérito, las cuales serán definitivas e inapelables.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 44.
 
-El recurso deberá presentarse conforme al mecanismo que se indique en la publicación de resultados, y posteriormente se turnará a la Comisión Revisora que corresponda.
+El recurso de reconsideración se sustanciará con base en lo siguiente:
 
-Las solicitudes de reconsideración deberán señalar los argumentos científicos o tecnológicos en que se sustente la reconsideración.
+I. Podrá presentarse conforme al mecanismo que se indique en la publicación de resultados, y posteriormente se turnará a la comisión revisora que corresponda.
 
-###### Artículo 45.
+La interposición del recurso implica que la investigadora o el investigador recurrente renuncia al resultado que hubiere obtenido.
 
-El análisis para la reconsideración se llevará a cabo exclusivamente con base en los elementos que se hayan presentado con la solicitud original.
+Los convenios individuales que, en su caso, se hubieren suscrito con motivo del resultado aprobatorio de la investigadora o el investigador quedarán sin efectos cuando la investigadora o el investigador interponga el recurso de reconsideración.
 
-###### Artículo 46.
+La investigadora o el investigador que interponga el recurso no podrá desistirse de éste;
 
-La recomendación emitida por la Comisión Revisora se someterá para su decisión final a la consideración del Consejo General a través de la Secretaría Ejecutiva.
+II. Las solicitudes de reconsideración deberán señalar los argumentos pormenorizados que motivan su solicitud;
 
-Las resoluciones del Consejo General serán definitivas e inapelables, por lo que no se admitirá recurso alguno.
+III. El análisis para la reconsideración se llevará a cabo exclusivamente con base en los elementos que se hayan presentado con la solicitud;
 
-###### Artículo 47.
+IV. Las recomendaciones se elaborarán con base en un análisis riguroso, mediante una justificación exhaustiva, bajo los principios de disciplina, legalidad, objetividad, imparcialidad, no discriminación, profesionalismo, integridad, honradez, transparencia y racionalidad, que se sustenten en la recomendación del comité de evaluación de la que se pide revisión, contestando todos y cada uno de los argumentos presentados por el solicitante en la reconsideración, y conforme al Reglamento y a los criterios de evaluación establecidos.
+
+La recomendación podrá ser en el sentido de confirmar el dictamen recurrido o rectificarlo en sentido positivo o negativo, toda vez que se llevará a cabo una evaluación integral;
+
+V. La recomendación emitida por la Comisión Revisora se someterá para su decisión final a la consideración del Consejo General a través de la Secretaría Ejecutiva.
+
+Las resoluciones del Consejo General serán definitivas e inapelables, por lo que no se admitirá recurso alguno, y
 
 Los resultados de los casos con rectificación serán publicados en el portal del CONACYT, una vez que el Consejo General haya resuelto.
 
-### CAPÍTULO XIV. DISTINCIONES
+###### Artículo 45.
+
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
+
+###### Artículo 46.
+
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
+
+###### Artículo 47.
+
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+### CAPÍTULO XIV. VIGENCIA
 
 ###### Artículo 48.
 
-Las distinciones que confiere el SNI se clasifican en tres categorías que son:
-
-I. Candidato(a) a Investigador(a) Nacional;
-
-II. Investigador(a) Nacional, con tres niveles; e
-
-III. Investigador(a) Nacional Emérito(a).
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
 
 ###### Artículo 49.
 
-Para recibir la distinción de Candidato(a) a Investigador(a) Nacional, la persona solicitante deberá:
-
-I. Cumplir con lo establecido en el Reglamento;
-
-II. Poseer el grado de doctorado. En el caso de las personas con título de médico, cumplir con la equivalencia, misma que se realizará de acuerdo con lo que señalen los criterios específicos de evaluación del Área III: Medicina y Ciencias de la Salud;
-
-III. Demostrar capacidad para realizar investigación, con la evaluación de sus productos de investigación científica o tecnológica;
-
-IV. Cumplir con los criterios específicos respectivos al área del conocimiento de su elección en el SNI y al nivel al que aspira; y
-
-V. Haber recibido el grado de licenciatura hasta 15 años previos a la fecha de su solicitud.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
 
 ###### Artículo 50.
 
-Para recibir la distinción de Investigador(a) Nacional, el/la investigador(a), además de cumplir con lo establecido en el Reglamento, según el nivel al que aspire, deberá demostrar el cumplimiento de los requisitos siguientes:
-
-I. Para el nivel 1:
-
-a. Poseer el grado de doctorado, en el caso de las personas con título de médico, cumplir con la equivalencia, misma que se realizará de acuerdo con lo que señalen los criterios específicos de evaluación del Área III: Medicina y Ciencias de la Salud,
-
-b. Haber realizado trabajos de investigación científica o tecnológica original y de calidad, lo que demostrará mediante la presentación de sus productos de investigación o desarrollo tecnológico, y
-
-c. Haber participado en la Dirección de tesis de licenciatura o posgrado en México, o en la impartición de asignaturas, así como en otras actividades docentes y formativas, así como en aquellas de acceso universal al conocimiento o la formación de vocaciones científicas tempranas,
-
-Cumplir con los criterios específicos respectivos al área del conocimiento de su elección en el SNI. Para el nivel 2, además de cumplir con los requisitos del nivel 1, deberá:
-
-a. Haber realizado investigación original, de calidad reconocida, constante y donde se demuestre liderazgo en una línea de investigación,
-
-b. Haber dirigido tesis de posgrado en México,
-
-c. Cumplir con los criterios específicos respectivos al área del conocimiento de su elección en el SNI, y
-
-d. En su caso, lo previsto en el Artículo 39.
-
-III. Para el nivel 3, además de cumplir con los requisitos del nivel 2, deberá:
-
-a. Haber realizado investigación que represente una contribución científica o tecnológica trascendente para la generación o aplicación de conocimientos,
-
-b. Haber realizado actividades sobresalientes de liderazgo en la comunidad científica o tecnológica nacional,
-
-c. Contar con reconocimiento nacional e internacional, por su actividad científica o tecnológica,
-
-d. Haber realizado una destacada labor en la formación de comunidad científica de alto nivel para el país,
-
-e. Cumplir con los criterios específicos respectivos al área del conocimiento de su elección en el SNI,
-
-f. Demostrar la transcendencia, a nivel nacional, de su contribución científica o tecnológica, y
-
-g. En su caso, lo previsto en el Artículo 39.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
 
 ###### Artículo 51.
 
-Para obtener la categoría de Investigador(a) Nacional Emérito(a) el/la solicitante deberá:
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
 
-I. Contar con al menos 65 años de edad al cierre de la convocatoria;
-
-II. Haber obteniendo el nivel 3 de Investigador(a) Nacional al momento del cierre de la convocatoria para Investigadores Eméritos;
-
-III. Presentar la solicitud.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 52.
 
-Las distinciones tendrán vigencia a partir del primero de enero de cada año y la siguiente duración:
+Las distinciones entrarán en vigor a partir del primero de enero del año que corresponda en términos de la convocatoria y tendrán la duración ordinaria siguiente:
 
-I. Candidato(a) a Investigador(a) Nacional: cuatro años. Sólo podrá obtenerse esta categoría por una ocasión;
+I. Candidata o Candidato a Investigadora o Investigador Nacional: cuatro años. Sólo podrá obtenerse esta categoría por una ocasión;
 
-II. Investigador(a) Nacional nivel 1: tres años en la primera distinción y un periodo ampliado de cuatro años en los inmediatos siguientes en el mismo nivel;
+II. Investigadora o Investigador Nacional nivel 1: tres años en la primera distinción y un periodo ampliado de cuatro años en los inmediatos siguientes en el mismo nivel;
 
-III. Investigador(a) Nacional nivel 2: cuatro años en la primera distinción y un periodo ampliado de cinco años en los inmediatos siguientes en el mismo nivel;
+III. Investigadora o Investigador Nacional nivel 2: cuatro años en la primera distinción y un periodo ampliado de cinco años en los inmediatos siguientes en el mismo nivel;
 
-IV. Investigador(a) Nacional nivel 3: cinco años en la primera y segunda distinciones y a partir de la tercera designación consecutiva en este nivel, la vigencia será de un periodo ampliado de diez años; e
+IV. Investigadora o Investigador Nacional nivel 3: cinco años en la primera y segunda distinciones y a partir de la tercera designación consecutiva en este nivel, la vigencia será de un periodo ampliado de diez años;
 
-V. Investigador(a) Nacional Emérito: la distinción es vitalicia.
+V. Investigadora o Investigador Nacional Emérito: la distinción es vitalicia.
+
+El periodo de vigencia de las distinciones de las y los integrantes del SNI no transcurrirá mientras ocupen un cargo administrativo, siempre que no reciban el apoyo económico correspondiente, y en ningún caso mientras ocupen un cargo de elección popular.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 53.
 
-Los/las investigadores(as) Nacionales niveles 1 y 2 que consideren que los periodos ampliados no les son convenientes para su evolución profesional, podrán solicitar por escrito a la Dirección del SNI, a más tardar dentro de los 30 días siguientes al inicio de vigencia del nuevo nombramiento, que su nueva distinción y convenio en su caso, sean por tres años.
+De manera extraordinaria, la vigencia de las distinciones podrá modificarse en los siguientes casos:
+
+I. Las y los Integrantes del SNI niveles 1 y 2 que consideren que los periodos ampliados no les son convenientes para su evaluación podrán solicitar por escrito a la Dirección de Vocaciones Científicas y SNI, a más tardar dentro de los 30 días siguientes al inicio de vigencia del nuevo nombramiento, que su nueva distinción y, en su caso convenio, sean por tres años.
+
+II. Las y los Integrantes del SNI de 65 años o más de edad que hayan permanecido en el SNI al menos quince años vencidos obtendrán automáticamente, por única ocasión, quince años de extensión de la vigencia de su distinción, salvo que expresamente manifiesten su deseo de aplazar dicha extensión, a través de una carta dirigida a la Dirección de Vocaciones Científicas y SNI.
+
+III. Las y los Integrantes del SNI que hayan tenido o adoptado una hija o hijo durante el periodo de vigencia de su distinción podrán solicitar dos años de extensión de la vigencia de ésta. En el caso de que hayan tenido o adoptado una hija o hijo en el año de evaluación de su solicitud podrán solicitar la extensión para el periodo siguiente. El Consejo General podrá aprobar dicha extensión. El solicitante presentará la documentación oficial que acredite fehacientemente los hechos que motiven su solicitud.
+
+IV. Las y los Integrantes del SNI que durante la vigencia de su distinción hayan enfermado gravemente podrán solicitar un año de extensión de la vigencia de su distinción. El Consejo General, previa opinión de la Junta de Honor, y por única ocasión, podrá aprobar dicha extensión. El solicitante presentará la documentación oficial que acredite fehacientemente los hechos que motiven su solicitud.
+
+V. Las y los Integrantes del SNI que durante la vigencia de su distinción hayan sufrido una situación familiar grave —incluyendo enfermedades graves del cónyuge, concubina o concubino, y de descendientes en primer grado, así como la pérdida de hogar por desastres naturales— podrán solicitar un año de extensión de la vigencia de su distinción. El Consejo General, previa opinión de la Junta de Honor, y por única ocasión, podrá aprobar dicha extensión. El solicitante presentará la documentación oficial que acredite fehacientemente los hechos que motiven su solicitud.
+
+VI. Los miembros de las Comisiones Dictaminadoras que hayan cubierto su encargo obtendrán automáticamente un año de extensión de la vigencia de su distinción, salvo que le soliciten a la Dirección de Vocaciones Científicas y SNI que no se extienda dicha vigencia.
+
+Los elementos que presenten para evaluación serán los correspondientes al periodo original de la vigencia de su distinción.
+
+Las y los integrantes del SNI que reciban extensión de la vigencia de su distinción firmarán, en su caso, el convenio correspondiente.
 
 ###### Artículo 54.
 
-La distinción de los/las investigadores(as) Nacionales de 65 años o más de edad que hayan permanecido en el SNI al menos quince años, se renovará automáticamente, y por única ocasión, hasta por quince años, salvo la expresa manifestación de el/la investigador(a) en contra de recibir dicha extensión a través de una carta dirigida a la Dirección de Vocaciones Científicas y SNI.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
 
 ###### Artículo 55.
 
-A las investigadoras que hayan tenido parto durante el periodo de vigencia de su distinción; podrán pedir una extensión de dos años. En el caso de que el parto sea en el año de evaluación de su solicitud, podrán solicitarlo para el periodo siguiente.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
 
 ###### Artículo 56.
 
-A las/los investigadores(as) Nacionales que hayan sufrido una situación familiar grave durante el periodo de vigencia de su distinción, podrán solicitar -por única ocasión y para su revisión por parte de la Junta de Honor, cuya recomendación será presentada al Consejo General- hasta un año de extensión. El solicitante presentará todo documento existente, emitido por una autoridad federal competente, de carácter probatorio. En estos casos se encuentran enfermedades graves de cónyuge o progenie o pérdida de hogar por desastres naturales.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
 
 ###### Artículo 57.
 
-A los miembros de las comisiones dictaminadoras que hayan cubierto cabalmente su encargo, se les otorgará un año de extensión al periodo de vigencia de su distinción. La producción científica o tecnológica que deberá presentar en la siguiente evaluación, será la correspondiente al periodo original de vigencia. Cuando el dictaminador considere que esto no le conviene, solicitará al SNI que no se extienda su distinción; sin embargo, conservará el derecho a solicitarla en cualquier momento durante la vigencia de su distinción.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
 
 ###### Artículo 58.
 
-A las/los investigadores(as) Nacionales que hayan enfermado gravemente, se les podrá otorgar, por una sola ocasión, hasta un año de extensión, mediante solicitud expresa del interesado y presentando un parte médico del sector salud público. La solicitud de extensión será revisada por la Junta de Honor y la recomendación presentada al Consejo General.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
 
 ###### Artículo 59.
 
-Los/Las investigadores(as) que reciban extensión o renovación firmarán, en su caso, el convenio correspondiente.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 60.
 
-La distinción otorgada (sic) los/las investigadores(as) quedará sin efecto por las siguientes causas:
+Las distinciones terminarán en los siguientes casos:
 
-I. Por vencimiento del plazo máximo por el cual fue otorgada;
+I. Por concluir su vigencia;
 
-II. Por renuncia expresa;
+II. Por renuncia expresa de la Investigadora o Investigador Nacional;
 
-III. Por no cubrir el monto que se le solicite con motivo de los apoyos económicos por notificación extemporánea en el plazo señalado en este Reglamento, y
+III. Por resolución del Consejo General que determine su cancelación con motivo de faltas de ética cometidas por las y los integrantes del SNI, y
 
-IV. Por resolución definitiva dictada por el Consejo General con motivo de falta cometida por el/la investigador(a).
+IV. Por resolución del Consejo General que determine su cancelación con motivo del adeudo de los apoyos económicos otorgados sin tener derecho a ellos.
 
 ### CAPÍTULO XV. APOYOS ECONÓMICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
 ###### Artículo 61.
 
-Con las distinciones, el SNI podrá otorgar apoyos económicos para cada una de las categorías y niveles señalados en el Reglamento, los cuales se otorgarán a través de recursos públicos, de acuerdo con la disponibilidad presupuestal.
+El CONACYT, en términos del presente Reglamento, podrá otorgar apoyos económicos, sujetos a disponibilidad presupuestaria, a las y los integrantes del SNI que estén adscritos a alguna institución pública de educación superior o centro de investigación de sector público en México. Los términos y condiciones de los apoyos económicos se asentarán en el convenio individual que suscriba la investigadora o el investigador con el CONACYT.
 
-La entrega de estos apoyos económicos a los miembros del SNI será efectuada por el CONACYT a través de los instrumentos que implemente para tal efecto.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
-El orden de prioridad para el otorgamiento de los apoyos será el siguiente:
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
-1. Para los/las científicos(as) y tecnólogos(as) de las dependencias, entidades, instituciones de educación superior y de los centros de investigación del sector público o de las entidades federativas; así como para los/las investigadores(as) que ocupan las Cátedras CONACYT, y
+I. (DEROGADA, D.O.F. 20 DE ABRIL DE 2021)
 
-2. Para los/las científicos(as) y tecnólogos(as) que laboran en instituciones de educación superior o centros de investigación de los sectores social y privado inscritos o preinscritos en el RENIECYT, de acuerdo con los convenios previamente celebrados con dichas instituciones.
+II. (DEROGADA, D.O.F. 20 DE ABRIL DE 2021)
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+Los apoyos económicos estarán exentos del pago del impuesto correspondiente, conforme lo establezca la Ley del Impuesto sobre la Renta, y se darán sin perjuicio de los ingresos que, por concepto de sueldo, salario, compensaciones y otras prestaciones tengan las y los integrantes del SNI.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 62.
 
-Los miembros del SNI podrán recibir el apoyo económico correspondiente a cada categoría y nivel cuando cumplan los siguientes requisitos:
+Las y los integrantes del SNI podrán recibir el apoyo económico correspondiente cuando cumplan los siguientes requisitos:
 
-I. Ser personal activo, vigente y remunerado como corresponde al nivel académico respectivo,
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
 
-II. Laborar en alguna de las dependencias, entidades, instituciones de Educación superior o centros de investigación del sector público, privado o social de México.
+I. Ser personal activo, vigente y remunerado en alguna institución pública de educación superior o centro de investigación del sector público en México.
 
-III. Los servicios prestados deberán ser acreditados por medio de un comprobante de adscripción proporcionado en el formato y con las condiciones que establezca el CONACYT.
+Los servicios prestados deberán ser acreditados por medio de un comprobante de adscripción proporcionado en el formato y con las condiciones que establezca el CONACYT.
 
-Para los/las investigadores(as) que ocupen las Cátedras CONACYT, se entenderá que desarrollan las actividades de investigación científica y tecnológica en la institución beneficiada a la cual fueron comisionados por el CONACYT.
+Para las investigadoras y los investigadores que ocupen las Cátedras CONACYT, se entenderá que desarrollan las actividades de investigación humanística, científica y desarrollo tecnológico e innovación, en la institución beneficiada a la cual fueron comisionados por el CONACYT.
 
-En el caso de instituciones o centros de los sectores privado y social, éstos deberán estar inscritos o preinscritos en el RENIECYT y deberán haber suscrito un convenio de colaboración con el SNI que se encuentre vigente, en cuyo caso podrán tener el apoyo económico que especifique dicho convenio.
+Se exceptúa de los requisitos a los que se refiere esta fracción a las Investigadoras y los Investigadores Nacionales Eméritos.
 
-Los apoyos económicos otorgados en forma directa por el SNI estarán exentos del pago del impuesto correspondiente, conforme lo establezca la Ley del Impuesto sobre la Renta, y se darán sin perjuicio de los ingresos que, por concepto de sueldo, salario, compensaciones y otras prestaciones tengan sus miembros
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+II. No desempeñar un cargo de elección popular durante la vigencia de su distinción.
+
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+III. Las y los integrantes del SNI que asuman un cargo en la administración pública podrán seguir recibiendo el apoyo económico independientemente de que cumplan o no con el requisito establecido en la fracción I de este artículo, siempre que tengan una licencia sin goce de sueldo o equivalente en su institución de adscripción o una comisión donde gocen de un máximo del 5% de su sueldo, en cuyo caso deberán seguir cumpliendo con las obligaciones a las que se refiere el artículo 71 del Reglamento.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+Las investigadoras y los investigadores eméritos podrán recibir el apoyo económico una vez que notifiquen anualmente su situación al CONACYT, por sí o a través de su apoderada o apoderado.
 
 ###### Artículo 63.
 
@@ -727,53 +885,57 @@ IV. Investigador(a) Nacional nivel 3: Catorce veces el valor mensual de la UMA;
 
 V. Investigador(a) Nacional Emérito: Catorce veces el valor mensual de la UMA.
 
-Los apoyos económicos observarán un incremento anual de acuerdo con lo establecido en la Ley para determinar el Valor de la UMA.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
-Los/Las investigadores(as) que hayan obtenido alguna de las distinciones y se encuentren adscritos a alguna dependencia, entidad, institución de Educación superior o centro donde se realice investigación en algún estado diferente a la Ciudad de México y que esté dentro la República Mexicana, recibirán adicionalmente un tercio del apoyos (sic) que le corresponde al Candidato(a) a Investigador(a) Nacional, sujeto a disponibilidad presupuestal.
+Los apoyos económicos se pagarán en el valor vigente de la UMA en el mes al que corresponda el apoyo.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+Las investigadoras y los investigadores que hayan obtenido alguna de las distinciones y se encuentren adscritos a alguna institución pública de educación superior o centro de investigación del sector público en alguna entidad federativa distinta de la Ciudad de México, recibirán adicionalmente un tercio del apoyo que le corresponde a la Categoría de Candidata o Candidato a Investigadora o Investigador Nacional, sujeto a disponibilidad presupuestaria.
 
 ###### Artículo 64.
 
-Con objeto de recibir el apoyo económico, los/las investigadores(as) Nacionales Eméritos(as) deberán cumplir con lo establecido por el Artículo 62.
-
-Quedan exentos quienes obtuvieron esta distinción antes del año 2013 o a partir del año 2020, pero deberán, por sí o a través de una persona que funja como apoderada, notificar anualmente su situación al SNI.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
 
 ###### Artículo 65.
 
-Los/Las investigadores(as) Nacionales nivel 3 y Eméritos que hayan impartido asignaturas a nivel licenciatura de programas de estudio impartidos en México, recibirán adicionalmente dos tercios del apoyo que le corresponde al nivel Candidato(a) a Investigador(a) Nacional por cada mes que cumplan con esta condición, siempre y cuando lo acrediten oficialmente ante al SNI, sujeto a suficiencia presupuestal.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 66.
 
 La entrega del apoyo económico se suspenderá en los siguientes casos:
 
-I. Por la falta de notificación de los/las investigadores(as) nacionales Eméritos(as) de su situación;
+I. Cuando la o el integrante del SNI no cumpla con los requisitos a los que se refiere el artículo 62 del Reglamento.
 
-II. Por no presentar un comprobante de adscripción actualizado en los términos de lo establecido en el Reglamento;
+II. A solicitud de la o el integrante del SNI, por ocupar un cargo administrativo.
 
-> <small>(F. DE E., D.O.F. 24 DE FEBRERO DE 2021)</small>
+III. Por incumplir con las obligaciones establecidas en las fracciones I, II, III y IV del Artículo 71 del Reglamento.
 
-III. Por incumplir con las fracciones I, II, III y IV del artículo 71 del Reglamento, y
+IV. De manera precautoria y sin necesidad de que medie denuncia alguna de la parte afectada, cuando se haga de conocimiento público que una o un integrante del SNI presuntamente haya cometido actos de violencia de género. La suspensión que se establezca con motivo de esta fracción durará hasta tres meses.
 
-IV. Cuando la persona integrante de este Sistema:
-
-a. Ocupe un cargo de elección popular,
-
-b. No tenga una adscripción institucional,
-
-c. No cumpla con tareas de docencia, formación de comunidad científica y de acceso universal al conocimiento, y
-
-d. Que no tenga una licencia sin goce de sueldo por parte de la institución a la que está adscrita.
+No se pagará retroactivamente el apoyo económico correspondiente a los meses que haya durado la suspensión cuando se acredite que la o el integrante del SNI cometió los hechos que se le imputan, independientemente de la sanción a la que haya lugar en términos del presente Reglamento. En caso de que no se acredite la comisión de dichos actos, sí se pagará retroactivamente el apoyo económico correspondiente a los meses en que se haya suspendido.
 
 ###### Artículo 67.
 
-El periodo vigencia de los/las investigadores(as) nacionales no transcurrirá mientras ocupen un cargo administrativo y/o de elección popular a nivel municipal, estatal o federal, siempre y cuando no reciban el apoyo del SNI. Deberá informar del cambio de su situación para que se reactive el apoyo, si se cumple con el artículo 62, así como la reactivación del periodo de vigencia.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 68.
 
-La entrega de los apoyos se reanudará a partir de la fecha en que se eliminen las causas que originaron la suspensión y solo se pagarán retroactivamente en el caso de los eméritos.
+La entrega de los apoyos se reanudará a partir de la fecha en que se eliminen las causas que originaron la suspensión.
 
-En caso de incumplimiento a lo señalado en el Reglamento, los apoyos entregados durante el periodo en falta serán considerados como apoyos económicos por notificación extemporánea por lo que la persona integrante deberá reintegrarlo al SNI, a más tardar a la fecha de cierre de la convocatoria para tener derecho a participar en ella.
+No se harán pagos retroactivos cuando los motivos de la suspensión sean imputables a la o el integrante del SNI.
 
-En el caso de que no se cubran los apoyos económicos por notificación extemporánea en doce meses contados a partir de la fecha de su notificación, se sancionará al/a la investigador(a) con la cancelación de su distinción. Se ampliará el plazo señalado en el caso de una persona con distinción vigente que se encuentre cubriendo mediante la aplicación de descuentos a su apoyo económico mensual.
+En su caso, los apoyos se pagarán retroactivamente tratándose de eméritos, de mandato judicial, y en los demás casos previstos en el presente Reglamento.
+
+Cuando se suspenda el apoyo con motivo de hechos imputables a la institución de adscripción de la o el integrante del SNI, sólo se podrá pagar retroactivamente hasta tres meses del ejercicio que corresponda, siempre que se haya subsanado la omisión a más tardar el último día hábil del mes de agosto de dicho ejercicio.
+
+En caso de incumplimiento a lo señalado en el Reglamento, los apoyos entregados durante el periodo en falta serán considerados como apoyos económicos por notificación extemporánea por lo que la o el integrante del SNI deberá reintegrarlo a más tardar a la fecha de cierre de la convocatoria para tener derecho a participar en ella.
+
+En caso de que no se cubran los apoyos económicos por notificación extemporánea en doce meses, contados a partir de la fecha de su notificación, se sancionará a la o el integrante del SNI con la cancelación de su distinción. Se ampliará el plazo señalado en el caso de una persona con distinción vigente que se encuentre cubriendo mediante la aplicación de descuentos a su apoyo económico mensual.
 
 ###### Artículo 69.
 
@@ -783,13 +945,23 @@ En caso de presentarse incapacidad permanente en un(a) investigador(a) que está
 
 En caso de fallecimiento de un(a) investigador(a) que goza del apoyo económico, se entregará a los beneficiarios designados por la persona integrante ante el SNI, el apoyo que corresponda según el término de la vigencia del mismo, sin exceder de cinco años. La entrega se hará en una sola exhibición y previa acreditación de la personalidad con documento oficial. Una vez que se haya otorgado este beneficio, se dará por terminada su relación con el SNI.
 
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+Para efectos de este artículo sólo podrán ser beneficiarios las hijas y los hijos menores de edad; las hijas y los hijos menores de 25 años, siempre que acrediten estar realizando estudios de educación básica, media superior, superior o posgrado; la o el cónyuge o la concubina o el concubino; o el padre o la madre, siempre que acrediten ser dependientes económicos.
+
 ### CAPÍTULO XVI. OBLIGACIONES Y SANCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 71.
 
-Son obligaciones de los/las investigadores(as) miembros del SNI:
+Son obligaciones de las y los integrantes del SNI:
 
-I. Suscribir un convenio con el CONACYT, en donde se estipulen las formas y condiciones para el otorgamiento del apoyo económico, de acuerdo con la disponibilidad presupuestal y las modalidades que convengan las partes;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+I. Suscribir un convenio con el CONACYT, en donde se estipulen los términos y condiciones para el otorgamiento de la distinción y, en su caso, del apoyo económico, sujeto a disponibilidad presupuestaria.
+
+En dicho convenio se hará constar la obligación de la o el integrante del SNI de continuar realizando las actividades a las que se refiere el artículo 29 del Reglamento, según la categoría y, en su caso, nivel, de la distinción, así como las demás a las que se refiere el presente artículo y las que corresponda del Reglamento.
 
 II. Presentar el comprobante de adscripción debidamente actualizado, conforme a la modalidad que establezca el propio SNI;
 
@@ -803,21 +975,37 @@ VI. El reconocimiento que se otorga a los miembros del SNI les impone el deber d
 
 VII. Cuando participe en las comisiones del SNI deberá observar en todo momento las normas de ética, confidencialidad, evitar todo tipo de discriminación, y en su caso, deberá excusarse de opinar o recomendar, cuando tenga algún conflicto de interés directo o indirecto en el asunto o exista amistad o enemistad manifiesta con alguna de las personas evaluadas.
 
-> <small>(F. DE E., D.O.F. 24 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
-En el caso de los/las investigadores(as) que se encuentren en el extranjero, no les serán aplicables las fracciones I, II y V cuando no gocen de los apoyos económicos asociados a la distinción.
+Quedan exceptuados de las obligaciones señaladas en la fracción II las y los integrantes del SNI que no reciban apoyos económicos.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2021)</small>
+
+Las y los integrantes del SNI serán incorporados automáticamente en el RCEA perteneciente al Sistema Nacional de Evaluación Científica y Tecnológica (SINECYT), de acuerdo con los criterios establecidos por los Comités de Acreditación, para cada una de las áreas del conocimiento.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2021)</small>
 
 ###### Artículo 72.
 
-Las sanciones por las irregularidades cometidas por los miembros del SNI, especialmente por la falta de apego a las normas éticas relativas a su carácter de integrante y que atañan directamente su relación con el SNI consistirán en:
+El Consejo General es la única instancia facultada para imponer sanciones a las y los integrantes del SNI, así como a las y los ayudantes, por el incumplimiento de sus obligaciones, especialmente por conductas carentes de ética.
 
-I. Amonestación privada o pública;
+El Consejo General podrá imponer las siguientes sanciones:
 
-II. Revocación del cargo o comisión que le hubiere sido conferida en el SNI;
+I. Amonestación privada;
 
-III. Suspensión en los derechos que le confiere la distinción como miembro del SNI, hasta por veinte años;
+II. Amonestación pública;
 
-IV. Pérdida de la distinción como miembro del SNI, y en su caso la imposibilidad de reingresar al SNI hasta por 20 años.
+III. Revocación del cargo o comisión que le hubiere sido conferida en el SNI;
+
+IV. Cancelación del apoyo económico durante el tiempo que dure la vigencia de su distinción;
+
+V. Cancelación de la distinción como miembro del SNI;
+
+VI. Inhabilitación hasta por veinte años para recibir apoyos económicos, y
+
+VII. Inhabilitación hasta por veinte años para ingresar en el SNI.
+
+En el procedimiento para su determinación se garantizará el derecho de audiencia y la presunción de inocencia. En todo caso, el acuerdo que determine la sanción deberá estar debidamente fundado y motivado.
 
 ### CAPÍTULO XVII. AYUDANTES
 
@@ -879,15 +1067,17 @@ VI. Por incapacidad permanente o fallecimiento de la persona que lo/la propuso o
 
 VII. Por falta de disponibilidad presupuestal.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE ABRIL DE 2021)</small>
+
 ### CAPÍTULO XVIII. DISPOSICIONES FINALES
 
 ###### Artículo 79.
 
-Una vez incorporados oficialmente al SNI, los/las investigadores(as) Nacionales serán incluidos/as automáticamente en el RCEA perteneciente al Sistema Nacional de Evaluación Científica y tecnológica (SINECYT), de acuerdo con los criterios establecidos por los Comités de Acreditación, para cada una de las áreas del conocimiento.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
 
 ###### Artículo 80.
 
-Los integrantes del SNI que ocupan una Cátedra CONACYT, que desarrollen habitual y sistemáticamente actividades de investigación científica o tecnológica en la institución beneficiada a la cual fueron comisionados en los términos establecidos por la normatividad aplicable, serán sujetos de los mismos derechos y obligaciones que los/las investigadores(as) del SNI.
+(DEROGADO, D.O.F. 20 DE ABRIL DE 2021)
 
 ## TRANSITORIOS
 
@@ -900,3 +1090,33 @@ TERCERO. La interpretación del Reglamento del Sistema Nacional de Investigadore
 CUARTO. En cumplimiento a lo ordenado por el artículo Quinto del ACUERDO que fija los lineamientos que deberán ser observados por las dependencias y organismos descentralizados de la Administración Pública Federal, en cuanto a la emisión de los actos administrativos de carácter general a los que les resulta aplicable el artículo 69-H de la Ley Federal de Procedimiento Administrativo, y al artículo 78 de la Ley General de Mejora Regulatoria: I. Se elimina el requisito de estar inscrito en un programa de licenciatura o de posgrado en México, estos últimos preferentemente con reconocimiento en el Programa Nacional de Posgrados de Calidad del CONACYT o haber concluido esos estudios durante el año inmediato anterior para los ayudantes de Investigador Nacional nivel III e Investigador Nacional Emérito; II. Se elimina el requisito para los ayudantes de Investigador Nacional nivel III e Investigador Nacional Emérito, deben de ser menores de 35 años.
 
 Ciudad de México, a los 7 días del mes de septiembre de 2020.- La Directora General del Consejo Nacional de Ciencia y Tecnología, María Elena Álvarez-Buylla Roces.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 20 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMA EL REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES”.]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Se derogan todas las disposiciones que se opongan al presente.
+
+SEGUNDO. El requisito al que se refiere el artículo 29, fracción III, inciso d), se aplicará para las solicitudes de permanencia en el SNI hasta la convocatoria correspondiente en 2022, y para las solicitudes de ingreso y promoción desde la convocatoria correspondiente en 2021.
+
+TERCERO. Las solicitudes se clasificarán de la siguiente manera:
+
+I. Nuevo ingreso, las que correspondas (sic) a investigadoras e investigadores que no hayan formado parte del SNI;
+
+II. Ingreso, las que correspondan a investigadoras e investigadores que hayan formado parte del SNI, pero que al momento de presentar la solicitud no formen parte de dicho sistema;
+
+III. Permanencia, las que correspondan a las y los integrantes del SNI que presenten su solicitud para permanecer en el SNI en la misma categoría y, en su caso, en el mismo nivel, y
+
+IV. Promoción, las que correspondan a las y los integrantes del SNI que presenten su solicitud para permanecer en el SNI en una categoría y, en su caso, nivel superior.
+
+CUARTO. Todas las referencias que se hagan a:
+
+I. “ingreso vigente”, se entenderán referidas a “permanencia”, y
+
+II. “ingreso no vigente”, se entenderán referidas a “ingreso”.
+
+Lo anterior, especialmente en los sistemas o plataformas informáticas, documentos y disposiciones.
