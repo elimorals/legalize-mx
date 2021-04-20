@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-11666
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-12"
-last_updated: "2020-04-10"
+last_updated: "2021-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado No. 65 Alcance II, el viernes 12 de agosto de 2016.
 
@@ -2539,7 +2539,13 @@ XXXI. De Vivienda;
 
 XXXII. De Examen Previo; y,
 
-XXXIII. Instructora.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2021)</small>
+
+XXXIII. Instructora, y
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2021)</small>
+
+XXXIV. De Minería.
 
 Las Comisiones de Examen Previo e Instructora, deberán integrarse por cinco Diputados.
 
@@ -4402,3 +4408,27 @@ Remítase al Titular del Poder Ejecutivo para su conocimiento y efectos legales 
 ###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado y en el portal electrónico del Congreso para conocimiento general.
+
+P.O. 20 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 707 POR EL QUE SE ADICIONA LA FRACCIÓN XXXIV AL ARTÍCULO 195 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231, QUE CREA LA COMISIÓN DE MINERÍA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. En el Reglamento de la Ley Orgánica del Poder Legislativo del Estado de Guerrero Número 231, deberán integrarse las facultades de la Comisión de Minería, que serán:
+
+La Comisión de Minería atenderá los siguientes asuntos:
+
+I. Analizar lo relativo a la inversión, explotación y exportación de la actividad minera en el Estado;
+
+II. Vigilar que las políticas públicas implementadas por el Gobierno del Estado en materia de inversión y exportación minera, promuevan la generación de empleos locales;
+
+III. Vigilar que en la explotación minera en el Estado se cumpla con la normatividad ambiental y de resarcimiento del daño;
+
+IV . Ser el conducto entre la Federación y el Estado en la vigilancia de la aplicación de los recursos que se obtienen a través del Fondo Minero;
+
+V . Establecer normas legales que protejan los recursos naturales en la explotación minera en el Estado, y
+
+VI . Todas aquellas que a consideración de la Mesa Directiva le sean turnados.
+
+TERCERO. Publíquese en el Periódico Oficial del Estado, en la página oficial del Congreso del Estado y divúlguese en los medios de comunicación.
