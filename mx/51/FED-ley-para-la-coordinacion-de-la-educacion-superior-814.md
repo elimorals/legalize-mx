@@ -4,7 +4,7 @@ identifier: "FED-ley-para-la-coordinacion-de-la-educacion-superior-814"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1978-12-29"
+last_updated: "2021-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=814&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1978-12-26"
 ---
 # LEY PARA LA COORDINACION DE LA EDUCACION SUPERIOR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY GENERAL DE EDUCACIÓN SUPERIOR, PUBLICADA EN EL D.O.F. DE 20 DE ABRIL DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA COORDINACION DE LA EDUCACION SUPERIOR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ABRIL DE 2021 (ABROGADO).
 
 Ley publicada en el Diario Oficial de la Federación el viernes 29 de diciembre de 1978.
 
@@ -192,3 +194,79 @@ SEGUNDO.- La Ley del Consejo del Sistema Nacional de Educación Técnica, public
 México, D.F., 26 de diciembre de 1978.- Antonio Riva Palacio López, D.P.- Antonio Ocampo Ramírez, S.P.- Pedro Avila Hernández, D.S.- Roberto Corzo Gay, S.S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de mil novecientos setenta y ocho.- José López Portillo.- Rúbrica.- El Secretario de Educación Pública, Fernando Solana Morales.- Rúbrica.- El Secretario de Gobernación, Jesús Reyes Heroles.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Programación y Presupuesto, Ricardo García Sáinz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. DE 20 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DE EDUCACIÓN SUPERIOR Y SE ABROGA LA LEY PARA LA COORDINACIÓN DE LA EDUCACIÓN SUPERIOR”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley para la Coordinación de la Educación Superior, publicada en el Diario Oficial de la Federación el 29 de diciembre de 1978 y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto.
+
+Tercero. Con objeto de dar cumplimiento a las disposiciones establecidas en el presente Decreto, se estará a lo siguiente:
+
+I. Los mecanismos o recursos para dar cumplimiento progresivo a la obligatoriedad del Estado de ofrecer oportunidades de acceso a toda persona que cuente con el certificado de bachillerato o equivalente, se implementarán a partir del ciclo 2022-2023, en función de la disponibilidad presupuestaria, sin menoscabo de las acciones que se realicen con la entrada en vigor del presente Decreto;
+
+II. La gratuidad de la educación superior se implementará de manera progresiva en función de la suficiencia presupuestal, a partir del ciclo 2022-2023; sin detrimento de las acciones que se realicen con la entrada en vigor del presente Decreto;
+
+III. La Secretaría propondrá, en el marco del Consejo Nacional para la Coordinación de la Educación Superior, de conformidad con la disponibilidad presupuestaria, un programa de ampliación de la oferta de educación superior a nivel nacional, regional y estatal, con metas de corto, mediano y largo plazo, a más tardar en el año 2022;
+
+IV. Los recursos para dar cumplimiento a lo establecido en los artículos 62 y 63 de esta Ley, diferentes de los asignados para el fondo federal especial a que se refiere el artículo 64 de la misma Ley, se deberán prever en el Proyecto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2022 y subsecuentes, así como anualmente en los correspondientes presupuestos de egresos de las entidades federativas, los cuales deberán incrementarse cuando se presente una variación positiva de la estimación de los ingresos previstos en las respectivas iniciativas de leyes de ingresos de las entidades federativas y de la federación, y
+
+V. El Fondo al que se refiere el artículo 64 de este Decreto deberá contenerse en el Proyecto y el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2022, sin menoscabo de las previsiones de gasto que se realicen con la entrada en vigor de este Decreto, hasta en tanto se aseguren a largo plazo los recursos económicos necesarios para garantizar la obligatoriedad de la educación superior, así como la plurianualidad de su infraestructura, el Proyecto y el Presupuesto de Egresos de la Federación de cada ejercicio fiscal deberá preverlo, de conformidad con la disponibilidad presupuestaria. Una vez establecido, la autoridad correspondiente, emitirá sus disposiciones normativas atendiendo lo establecido en la presente Ley, la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás normatividad aplicable.
+
+Cuarto. La Secretaría deberá emitir y adecuar los acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a doscientos veinte días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a este Decreto.
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este Decreto continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron.
+
+Quinto. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto las legislaturas de las entidades federativas, en el ámbito de su competencia, deberán armonizar el marco jurídico de conformidad con el Decreto. Dicho proceso se llevará a cabo en un marco en el que se considere la participación de las instituciones de educación superior, organizaciones de la sociedad civil y especialistas en política educativa.
+
+Sexto. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el H. Congreso de la Unión, en el ámbito de su competencia, promoverá las reformas a las leyes respectivas que, en su caso, sean necesarias para el cumplimiento de lo dispuesto en el Título Sexto de este Decreto.
+
+Séptimo. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera gradual con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+Octavo. La Autoridad Educativa Federal en la Ciudad de México, mantendrá sus facultades y atribuciones correspondientes para la impartición de la educación normal y demás para la formación de maestros de educación básica, en el ámbito de la Ciudad de México, mientras se lleve a cabo la descentralización de los servicios educativos y la transferencia de los recursos humanos, materiales y presupuestales, conforme al Acuerdo que celebre la Federación y el Gobierno de la Ciudad de México.
+
+Noveno. El Registro Nacional de Opciones para Educación Superior al que se refiere el artículo 38 de este Decreto deberá estar operando a más tardar en ciento ochenta días siguientes a la entrada en vigor del mismo.
+
+Décimo. Las acciones a las que se refiere el artículo 43 del presente Decreto, referentes a la importancia para que las instituciones de educación superior se constituyan como espacios libres de violencia de género y de discriminación hacia las mujeres deberán realizarse y reforzarse de manera progresiva y de acuerdo con la disponibilidad presupuestal de cada institución a partir de los ciento veinte días siguientes a su entrada en vigor.
+
+Décimo Primero. La Secretaría, en un plazo no mayor a ciento veinte días contados a partir de la entrada en vigor de este Decreto, dará cumplimiento a lo dispuesto en el artículo 34 del mismo respecto a la instalación del Consejo Nacional de Autoridades de Educación Normal. En la sesión de instalación presentará los lineamientos para su operación y funcionamiento.
+
+Décimo Segundo. El Programa Nacional de Educación Superior se emitirá por el Ejecutivo Federal, a propuesta de la Secretaría, a más tardar en el año 2022, en términos de la Ley de Planeación y demás disposiciones aplicables.
+
+Décimo Tercero. Para el establecimiento del sistema de evaluación y acreditación de la educación superior, el Consejo Nacional para la Coordinación de la Educación Superior y la Comisión Nacional para la Mejora Continua de la Educación, en un plazo no mayor a ciento veinte días de la instalación del Consejo Nacional, realizarán una convocatoria amplia a las instituciones de educación superior, a las instancias de evaluación y acreditación de la educación superior, personal académico, especialistas y los sectores interesados para contribuir a su diseño. Se integrará un comité técnico para procesar las aportaciones que se realicen en el marco de la referida convocatoria. Dicho sistema deberá presentarse a más tardar en el año 2021.
+
+Décimo Cuarto. La Secretaría, propondrá al Consejo Nacional para la Coordinación de la Educación Superior en la sesión de instalación los lineamientos para su operación y funcionamiento que refiere el artículo 52 de este Decreto. El Consejo deberá convocarse por la Secretaría para su instalación a más tardar en los ciento veinte días siguientes a la publicación del presente Decreto.
+
+Las personas representantes del personal académico y de estudiantes serán elegidas por el Consejo Nacional para la Coordinación de la Educación Superior, a partir de las propuestas que formulen las asociaciones de académicos y los consejos estudiantiles de cada subsistema, respectivamente. En tanto se realiza dicha elección, el Consejo sesionará con las demás personas que lo integran.
+
+Décimo Quinto. La Secretaría convocará a la instalación del espacio de deliberación de las comisiones estatales para la planeación de la educación superior o instancias equivalentes, a más tardar en el año 2021. En la reunión de instalación se determinarán sus lineamientos de operación.
+
+Décimo Sexto. En los lineamientos que emita la Secretaría respecto a las disposiciones que se apliquen a las instituciones particulares de educación superior, se considerarán aquellas que apliquen a las instituciones de sostenimiento social y comunitarias de educación superior que son aquellas establecidas por agrupaciones sociales de naturaleza comunitaria, con el propósito de proporcionar opciones de educación superior principalmente en zonas de alta marginación; así como las de sostenimiento social.
+
+Décimo Séptimo. Los trámites relacionados con el artículo 71 y que hayan sido iniciados con anterioridad, se concluirán conforme a las disposiciones anteriores a la entrada en vigor de la presente Ley.
+
+Décimo Octavo. Los particulares beneficiados con los decretos presidenciales o acuerdos secretariales mantendrán el régimen jurídico que tienen reconocido, quedando a salvo los derechos que hubiesen adquirido y se regirán en lo conducente por las disposiciones de este Decreto.
+
+Los particulares que impartan educación superior con reconocimiento de validez oficial de estudios que decidan solicitar la obtención del reconocimiento al que se refiere el artículo 72 de este Decreto, estarán a lo siguiente:
+
+I. La Secretaría, en un plazo no mayor de ciento veinte días contados a partir de la emisión de los lineamientos respectivos para la educación impartida por particulares, emitirá una convocatoria para solicitar un reconocimiento a la gestión institucional y excelencia educativa con el cumplimiento de los requisitos que se determinen conforme a las disposiciones legales aplicables, y
+
+II. Recibidas las solicitudes, la Secretaría, en un plazo no mayor de noventa días resolverá sobre el otorgamiento del reconocimiento a la gestión institucional y excelencia educativa.
+
+Los particulares podrán solicitar el reconocimiento al que se refiere el artículo 72 de este Decreto cuando así lo decidan y conforme a lo establecido en esta Ley y demás disposiciones aplicables, con independencia de la convocatoria que se emita en los términos de esta disposición transitoria.
+
+En la primera solicitud del particular para que se le otorgue el reconocimiento a la gestión institucional y excelencia educativa, la Secretaría observará que no hayan sido sancionados por las autoridades educativas correspondientes en los últimos cinco años anteriores a la fecha de solicitud del reconocimiento. En la prórroga que se haga del mismo, se estará a lo dispuesto en el artículo 72 fracción I inciso e) de este Decreto.
+
+Décimo Noveno. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, las autoridades respectivas iniciarán la revisión y adecuación de las disposiciones que rigen a las Universidades Interculturales, las Universidades Tecnológicas y Politécnicas, así como al Tecnológico Nacional de México y la Universidad Abierta y a Distancia de México, a efecto de que éstas cuenten con un marco organizativo acorde a su naturaleza académica y características institucionales para armonizarlas a los fines de la presente Ley.
+
+Vigésimo. Las instituciones públicas de educación superior podrán establecer mecanismos para recibir donativos, los cuales les permitan disponer de recursos para cuestiones específicas que fortalezcan su equipamiento y desempeño educativo.
+
+Las autoridades educativas de la institución correspondiente deberán aplicar la normatividad de transparencia y rendición de cuentas sobre los recursos obtenidos en donación, de conformidad con las disposiciones aplicables.
+
+Vigésimo Primero. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Universidad Pedagógica Nacional, por conducto de su Consejo Académico, convocará a un espacio de deliberación y consulta con el propósito de analizar la viabilidad de modificar su naturaleza jurídica.
+
+Los acuerdos adoptados en dicho espacio se harán llegar al H. Congreso de la Unión para que, en su caso, analice la posibilidad de realizar las modificaciones respectivas a los ordenamientos jurídicos correspondientes.
