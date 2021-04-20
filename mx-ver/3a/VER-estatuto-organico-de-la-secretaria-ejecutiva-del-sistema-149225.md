@@ -4,7 +4,7 @@ identifier: "VER-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-149225
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-04-08"
-last_updated: "2021-04-08"
+last_updated: "2021-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # ESTATUTO ORGANICO DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ABRIL DE 2021 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 20 DE ABRIL DE 2021.]</small>
 
 Estatuto publicado en el Número Extraordinario Número 140 en la Gaceta Oficial del Estado de Veracruz, el jueves 8 de abril de 2021.
 
@@ -117,21 +117,39 @@ Al frente de cada uno de los departamentos o unidades existirá un titular que s
 
 ### CAPÍTULO II. Del Órgano de Gobierno
 
+> <small>(F. DE E., G.O. 20 DE ABRIL DE 2021)</small>
+
 ###### Artículo 8.
 
-El Titular del Órgano de Gobierno es el órgano máximo de administración, gobierno y dirección de la Secretaría Ejecutiva y se integra de la siguiente manera:
+El Órgano de Gobierno es el órgano máximo de administración, gobierno y dirección de la Secretaría Ejecutiva y se integra de la siguiente manera:
 
-I. El presidente del Comité de Participación Ciudadana, quien lo presidirá; Órgano de Fiscalización Superior del Estado;
+> <small>(F. DE E., G.O. 20 DE ABRIL DE 2021)</small>
 
-II. El Titular de la Fiscalía Especializada en Combate a la Corrupción;
+I. El presidente del Comité de Participación Ciudadana, quien lo presidirá;
 
-III. El Titular de la Contraloría General del Estado;
+> <small>(F. DE E., G.O. 20 DE ABRIL DE 2021)</small>
 
-IV. Un Representante del Consejo de la Judicatura del Estado;
+II. El Titular del Órgano de Fiscalización Superior del Estado;
 
-V. El Comisionado Presidente del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales; y
+> <small>(F. DE E., G.O. 20 DE ABRIL DE 2021)</small>
 
-VI. El presidente del Tribunal Estatal de Justicia Administrativa de Veracruz.
+III. El Titular de la Fiscalía Especializada en Combate a la Corrupción;
+
+> <small>(F. DE E., G.O. 20 DE ABRIL DE 2021)</small>
+
+IV. El Titular de la Contraloría General del Estado;
+
+> <small>(F. DE E., G.O. 20 DE ABRIL DE 2021)</small>
+
+V. Un Representante del Consejo de la Judicatura del Estado;
+
+> <small>(F. DE E., G.O. 20 DE ABRIL DE 2021)</small>
+
+VI. El Comisionado Presidente del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales; y
+
+> <small>(F. DE E., G.O. 20 DE ABRIL DE 2021)</small>
+
+VII. El presidente del Tribunal Estatal de Justicia Administrativa de Veracruz.
 
 Con la finalidad de agilizar su operación y dar seguimiento a los asuntos de su competencia, cada uno de los integrantes del Órgano de Gobierno, nombrará a un enlace permanente con la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Veracruz de Ignacio de la Llave, el cual tendrá la función de vínculo acreditado para el intercambio de información y el seguimiento de los acuerdos entre los integrantes del Órgano de Gobierno.
 
