@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2021-04-14"
+last_updated: "2021-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -451,9 +451,9 @@ Obra culposamente la persona que produce el resultado típico, que no previó si
 
 > <small>(DEROGADO CUARTO PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2021)</small>
 
-Solamente se sancionarán como delitos culposos los previstos en los artículos 106, 110, 115,121, 124, 132, 149 primer párrafo, 193, 194, 195, 197, 204, 206, 207, 227, 231, 235, 241, 251, 271, fracciones I y II, 304 y 310 fracción III.
+Solamente se sancionarán como delitos culposos los previstos en los artículos 106, 110, 115, 121, 124, 132, 149, primer párrafo, 193, 194, 195, 197, 204, 206, 207, 227, 231, 235, 241, 251, 271, fracciones I y II, 278 BIS y 310, fracción III.
 
 ###### ARTICULO 16.
 
@@ -3529,35 +3529,13 @@ Para los efectos legales, solamente se consideran como de carácter político lo
 
 ### CAPITULO IV BIS. DESAPARICION FORZADA DE PERSONAS
 
-(NOTA: EL 14 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL DIECINUEVE DE JULIO DE DOS MIL DIECISIETE, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+ARTICULO 272 BIS.- (DEROGADO, P.O. 21 DE ABRIL DE 2021)
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE JULIO DE 2017)</small>
+ARTICULO 272 TER.- (DEROGADO, P.O. 21 DE ABRIL DE 2021)
 
-ARTICULO 272 BIS.- Comete el delito de desaparición forzada de personas, el servidor público que, independientemente de que haya participado en la detención legal o ilegal de una o varias personas, propicie o mantenga dolosamente su ocultamiento bajo cualquier forma de detención.
+ARTICULO 272 QUATER.- (DEROGADO, P.O. 21 DE ABRIL DE 2021)
 
-(NOTA: EL 14 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL DIECINUEVE DE JULIO DE DOS MIL DIECISIETE, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
-
-ARTICULO 272 TER.- A quien cometa el delito de desaparición forzada de personas se le impondrá una pena de cinco a cuarenta años de prisión.
-
-Si la víctima fuere liberada espontáneamente dentro de los tres días siguientes a su detención la pena será de ocho meses a cuatro años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
-
-Si la liberación ocurriera dentro de los diez días siguientes a su detención, la pena aplicable será de dos a ocho años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismo delitos.
-
-Estas penas podrán ser disminuidas hasta una tercera parte en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos, y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
-
-(NOTA: EL 14 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL DIECINUEVE DE JULIO DE DOS MIL DIECISIETE, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
-
-ARTICULO 272 QUATER.- Al servidor Público que haya sido condenado por el delito de desaparición forzada de personas, además se le destituirá del cargo y se le inhabilitará de uno a veinte años para desempeñar cualquier cargo, comisión o empleo públicos.
-
-(NOTA: EL 14 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL DIECINUEVE DE JULIO DE DOS MIL DIECISIETE, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
-
-ARTICULO 272 QUINTUS.- La oposición o negativa a la autoridad competente para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la destitución de su cargo, comisión o empleo, sin perjuicio de la aplicación de las penas de los demás delitos en que pudiera incurrir con motivo de su conducta.
+ARTICULO 272 QUINTUS.- (DEROGADO, P.O. 21 DE ABRIL DE 2021)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -3789,21 +3767,23 @@ XI. Teniendo conocimiento de una privación ilegal de la libertad no la denuncia
 
 XII. Al elemento de corporaciones policiales que habiendo practicado la detención de una persona no informe tan luego sea posible a la autoridad correspondiente de la detención, para los efectos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, o requerido para ello, no preste el auxilio conforme a la ley, a las víctimas del delito;
 
-XIII. Omita el registro de la detención correspondiente o demore injustificadamente la puesta a disposición del imputado a la autoridad competente;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2021)</small>
 
-XIV. Incumplir con la obligación de impedir la ejecución de las conductas de privación de la libertad, y
+XIII. Omita el registro de la detención correspondiente o demore injustificadamente la puesta a disposición del imputado a la autoridad competente; y
 
-(NOTA: EL 14 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL DIECINUEVE DE JULIO DE DOS MIL DIECISIETE, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2021)</small>
 
-XV. OBLIGAR AL INCULPADO A DECLARAR, USANDO LA INCOMUNICACIÓN, LA INTIMIDACIÓN, LA TORTURA O TRATOS INHUMANOS O DEGRADANTES.
+XIV. Incumplir con la obligación de impedir la ejecución de las conductas de privación de la libertad.
+
+XV. (DEROGADA, P.O. 21 DE ABRIL DE 2021)
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a V y X a XII, se le impondrá de uno a ocho años de prisión y de cincuenta hasta trescientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones, o participen en las adquisiciones, arrendamientos, servicios u obras públicas, a que se refieren las fracciones VII, VIII y IX.
 
-(NOTA: EL 14 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA “XV” DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL DIECINUEVE DE JULIO DE DOS MIL DIECISIETE, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2021)</small>
 
-Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI, XIII, XIV y XV, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito.
+Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI, XIII y XIV se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2021)</small>
 
 ### CAPITULO XIV. COACCION
 
@@ -4141,9 +4121,7 @@ XI. Ordenar la aprehensión de un individuo por delito que no amerite pena priva
 
 XII. No otorgar, cuando se solicite, la libertad caucional, si procede legalmente;
 
-(NOTA: EL 14 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL DIECINUEVE DE JULIO DE DOS MIL DIECISIETE, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-XIII. OBLIGAR AL IMPUTADO A DECLARAR EN SU CONTRA, USANDO LA INCOMUNICACIÓN, INTIMIDACIÓN O TORTURA;
+XIII. (DEROGADA, P.O. 21 DE ABRIL DE 2021)
 
 XIV. Ocultar al imputado el nombre de quien se (sic) le acusa, salvo en los casos previstos por la ley, no darle a conocer los hechos que se le imputan o no realizar el descubrimiento probatorio conforme a lo establecido en el Código Nacional de Procedimientos Penales;
 
@@ -4197,9 +4175,9 @@ XXXVIII. A quien ejerciendo funciones de supervisor de libertad falsee informes 
 
 A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, XX, XXIV, XXV, XXVI, XXXIII y XXXIV, se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien días multa.
 
-(NOTA: EL 14 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA “XIII” DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL DIECINUEVE DE JULIO DE DOS MIL DIECISIETE, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2021)</small>
 
-A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXVII, XXVIII, XXX, XXXI, XXXII, XXXV, XXXVI y XXXVII, se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta días multa.
+A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXVII, XXVIII, XXX, XXXI, XXXII, XXXV, XXXVI y XXXVII, se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta días multa.
 
 En caso de tratarse de particulares realizando funciones propias del supervisor de libertad, y con independencia de la responsabilidad penal individual de trabajadores o administradores, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este Código.
 
@@ -4241,19 +4219,19 @@ Al que para hacer efectivo su derecho empleare violencia, se le aplicará de tre
 
 ###### ARTICULO 305.
 
-Si para favorecer la fuga se hubiere empleado violencia en las personas o fuerza en las cosas, se aplicará, además, la sanción que corresponda por el delito que resulte de los medios empleados.
+(DEROGADO, P.O. 21 DE ABRIL DE 2021)
 
 ###### ARTICULO 306.
 
-Se incrementará hasta en una mitad la sanción prevista en el artículo 304 cuando se proporcione al mismo tiempo o en un sólo acto, la evasión de varias personas privadas de su libertad por la autoridad competente.
+(DEROGADO, P.O. 21 DE ABRIL DE 2021)
 
 ###### ARTICULO 307.
 
-Si la aprehensión del prófugo se lograre por ayuda positiva del responsable de la evasión, se reducirá una mitad la sanción aplicable.
+(DEROGADO, P.O. 21 DE ABRIL DE 2021)
 
 ###### ARTICULO 308.
 
-Al preso que se fugue no se le impondrá sanción alguna por ese hecho.
+(DEROGADO, P.O. 21 DE ABRIL DE 2021)
 
 ###### ARTICULO 309.
 
@@ -5430,5 +5408,15 @@ P.O. 14 DE ABRIL DE 2021.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones secundarias que se opongan a la presente reforma.
+
+P.O. 21 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CIENTO CATORCE POR EL CUAL SE MODIFICAN Y DEROGAN DIVERSOS CAPÍTULOS Y ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, DERIVADO DE LA PUBLICACIÓN DEL DECRETO NÚMERO 2193, EN EL PERIÓDICO OFICIAL “TIERRA Y LIBERTAD”, NUMERO 5514, DE FECHA 19 DE JULIO DE 2017".]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERA. Se derogan todas las disposiciones secundarias que se opongan a la presente reforma.
