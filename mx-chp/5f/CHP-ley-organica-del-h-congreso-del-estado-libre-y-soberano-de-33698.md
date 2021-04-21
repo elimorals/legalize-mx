@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-h-congreso-del-estado-libre-y-soberano-de-3369
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-18"
-last_updated: "2020-10-14"
+last_updated: "2021-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY ORGÁNICA DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el lunes 18 de agosto de 2003.
 
@@ -711,6 +711,10 @@ XLIII. DE ASUNTOS RELIGIOSOS.
 
 XLIV. DE TRANSPARENCIA E INFORMACION PUBLICA
 
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2021)</small>
+
+XLV. DE SEGUIMIENTO A LAS ACCIONES DE PROCURACION DE JUSTICIA VINCULADAS A LOS FEMINICIDIOS EN CHIAPAS.
+
 ###### ARTICULO 33.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
@@ -898,6 +902,10 @@ XLIII. LA COMISION DE ASUNTOS RELIGIOSOS TENDRA LA CAPACIDAD DE ANALIZAR, DICTAM
 > <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2020)</small>
 
 XLIV. LA COMISION DE TRANSPARENCIA E INFORMACION PUBLICA, ESTUDIARA, DELIBERARA Y DICTAMINARA SOBRE TODOS LOS ASUNTOS QUE TENGAN RELACION CON EL FORTALECIMIENTO DE LOS MECANISMOS Y PROCESOS DE INVOLUCRAMIENTO CIUDADANO EN LOS TEMAS PUBLICOS, CON LA CREACION Y ADECUACION DE LOS ORDENAMIENTOS JURIDICOS QUE GARANTICEN EL DERECHO HUMANO DE ACCESO A LA TRANSPARENCIA Y ACCESO A LA INFORMACION; ASIMISMO TRABAJARA EN LOS INSTRUMENTOS QUE CONSOLIDEN LOS RESULTADOS ESPERADOS DEL ORGANO GARANTE DE LA TRANSPARENCIA, ACCESO A LA INFORMACION Y PROTECCION DE DATOS PERSONALES.
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2021)</small>
+
+XLV. LA COMISION DE SEGUIMIENTO A LAS ACCIONES DE PROCURACION DE JUSTICIA VINCULADAS A LOS FEMINICIDIOS EN CHIAPAS, DEBERA CONOCER, PROPONER Y DAR SEGUIMIENTO A LAS ACCIONES DE PROCURACION DE JUSTICIA, VINCULADAS A LOS FEMINICIDIOS EN EL ESTADO DE CHIAPAS.
 
 > <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
@@ -1438,3 +1446,13 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero. En términos de lo dispuesto por el artículo 15 numeral 1 inciso E), de la Ley Orgánica del Congreso del Estado, la Junta de Coordinación Política del Honorable Congreso del Estado, dentro del plazo de 10 días hábiles contados a partir de la publicación del presente Decreto, propondrá al Pleno de esta Legislatura, a las Diputadas y los Diputados que integrarán la Comisión Ordinaria de Transparencia e Información Pública.
+
+P.O. 21 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 326 DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero. Las Diputadas y los Diputados que integran la Comisión Especial de para conocer, proponer y dar Seguimiento a las Acciones de Procuración de Justicia Vinculadas a los Feminicidios en Chiapas, aprobada mediante Decreto número 210, de fecha 25 de junio del año 2019, sin mayor trámite pasaran a integrar la Comisión de Seguimiento a las Acciones de Procuración de Justicia Vinculadas a los Feminicidios en Chiapas, creada mediante el presente decreto.
