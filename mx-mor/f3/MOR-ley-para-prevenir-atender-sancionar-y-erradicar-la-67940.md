@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-prevenir-atender-sancionar-y-erradicar-la-67940"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2019-11-27"
+last_updated: "2021-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE NOVIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO DOSCIENTOS CUARENTA Y DOS PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2009.
 
@@ -191,23 +189,37 @@ IV.- Difundir, en el ámbito de su competencia, el contenido y alcance de la pre
 
 V.- Las demás que le confiera la presente Ley y otros ordenamientos aplicables, así como aquellas que sean necesarias para la consecución de sus fines.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2021)</small>
 
-###### ARTÍCULO 14.
+###### Artículo 14.
 
-Al Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, y de las áreas municipales encargadas de la protección del menor y la familia, le corresponde:
+Al Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, a través de la Procuraduría de Protección de Niñas, Niñas (sic) y Adolescentes y de la Familia, y de las áreas municipales encargadas de la protección del menor y la familia, le corresponde:
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
 I.- Celebrar convenios de coordinación de actividades entre autoridades federales, estatales y municipales en materia de violencia familiar;
 
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+
 II.- Proyectar normas y procedimientos para establecer, supervisar, utilizar y mantener actualizado el Registro Estatal;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
 III.- Elaborar propuestas de reformas a las leyes y reglamentos en materia de violencia familiar;
 
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+
 IV.- Analizar el establecimiento de los lineamientos administrativos y técnicos, así como de los modelos de prevención, atención, sanción y erradicación de violencia familiar, adecuados para esta problemática;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
 V.- Evaluar cuatrimestralmente los logros y avances del Programa Anual para Prevenir, Atender, Sancionar y Erradicar la Violencia Familiar;
 
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+
 VI.- Conocer y resolver la mediación, como medio alternativo de resolución de violencia familiar;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
 VII.- Integrar el Registro Estatal de Datos e Información sobre casos de violencia familiar; el cual se organizará por tipo de violencia familiar, en los casos en que constituyan faltas administrativas e indagatorias.
 
@@ -235,29 +247,57 @@ j) Ponencias de resolución administrativa y penal; y,
 
 k) Sentencias penales y familiares;
 
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+
 VIII.- Solicitar al Tribunal Superior de Justicia del Estado de Morelos, el otorgamiento de las órdenes de protección de carácter urgente y temporal, para los casos que considere necesaria su aplicación, atendiendo siempre, el interés superior del receptor de violencia familiar;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
 IX.- Solicitar al Tribunal Superior de Justicia del Estado de Morelos, información sobre las órdenes de protección y sentencias que en materia de violencia familiar se dicten, a efecto de integrar el Registro Estatal;
 
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+
 X.- Promover acciones y programas de protección social a favor del receptor de violencia familiar;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
 XI.- Fomentar en coordinación con instituciones públicas o privadas, la realización de investigaciones sobre violencia familiar, cuyos resultados servirán para diseñar nuevos modelos para su prevención y asistencia;
 
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+
 XII.- Sensibilizar y capacitar a su personal operativo para detectar, atender y canalizar a las instituciones competentes a los receptores y generadores de violencia familiar;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
 XIII.- Sensibilizar y capacitar a la población, sobre las formas y consecuencias en que se manifiesta, se previene y se sanciona la violencia familiar;
 
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+
 XIV.- Dar seguimiento a los eventos de violencia familiar que tenga conocimiento y en su caso, efectuar la mediación como medio alternativo en la resolución de violencia familiar;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
 XV.- Prestar servicios de atención y asesoría jurídica, psicológica y trabajo social a receptores y generadores de violencia familiar;
 
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+
 XVI.- Promover la instalación de centros de protección y asistencia a receptores de violencia familiar;
 
-XVII.- Desarrollar programas tendientes a sensibilizar y capacitar al sector juvenil de la población, sobre la gravedad de la violencia familiar y la importancia de su prevención y tratamiento hasta su erradicación;
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2021)</small>
 
-XVIII.- Difundir los alcances de la presente ley y condenar los actos de violencia familiar; y,
+XVII.- Realizar campañas de difusión permanentes principalmente en niñas niños y adolescentes en coordinación con instituciones educativas referente a las formas en que se expresa, se previene y combate la violencia familiar.
 
-XIX.- Las demás que le confieran otros ordenamientos legales.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+
+XVIII.- Desarrollar programas tendientes a sensibilizar y capacitar al sector juvenil de la población, sobre la gravedad de la violencia familiar y la importancia de su prevención y tratamiento hasta su erradicación;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+
+XIX.- Difundir los alcances de la presente ley y condenar los actos de violencia familiar; y,
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+
+XX.- Las demás que le confieran otros ordenamientos legales.
 
 ###### ARTÍCULO 15.
 
@@ -830,3 +870,19 @@ DÉCIMA. En un plazo no mayor de 90 días hábiles, contados a partir de la vige
 DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
 
 DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto, en caso de que se hubiere realizado la entrega – recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial “Tierra y Libertad” 5611.
+
+P.O. 21 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO DIECISIETE POR EL QUE SE ADICIONA LA FRACCIÓN XVII RECORRIENDO LAS SUBSECUENTES DEL ARTÍCULO 14 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto en los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
