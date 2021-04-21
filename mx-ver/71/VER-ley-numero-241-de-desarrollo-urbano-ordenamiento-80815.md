@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-241-de-desarrollo-urbano-ordenamiento-80815"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-13"
-last_updated: "2020-02-26"
+last_updated: "2021-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ABRIL DE 2021.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el miércoles 13 de abril de 2011.
 
@@ -409,7 +409,9 @@ c) Formular y administrar la zonificación contenida en los programas municipale
 
 d) Coordinarse y asociarse con otros municipios del Estado, para el cumplimiento de los programas e instrumentos de planeación del desarrollo urbano sustentable;
 
-e) Promover inversiones y acciones de conservación, mejoramiento y crecimiento de los centros de población, con base en los programas de desarrollo urbano de orden municipal;
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2021)</small>
+
+e) Promover inversiones y acciones de conservación, mejoramiento y crecimiento de los centros de población, con base en los programas de desarrollo urbano de orden municipal. Prevaleciendo que los intereses propiamente culturales y los del desarrollo integral, se conjuguen en cuanto concierne a la debida preservación y utilización del patrimonio monumental y artístico de los centros históricos;
 
 f) Coordinar las políticas y prácticas catastrales con los programas municipales de desarrollo urbano;
 
@@ -1904,3 +1906,11 @@ G.O. 26 DE FEBRERO DE 2020.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 838 QUE REFORMA EL ARTÍCULO 28 Y SE ADICIONA LA FRACCIÓN XIV DEL ARTÍCULO 5 AMBOS DE LA LEY DEL PATRIMONIO CULTURAL; SE ADICIONA LA FRACCIÓN XXX BIS AL ARTÍCULO 35 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; Y SE REFORMA EL INCISO E) DE LA FRACCIÓN I DEL ARTÍCULO 8 DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA, TODOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
