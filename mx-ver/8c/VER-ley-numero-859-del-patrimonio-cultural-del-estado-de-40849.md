@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-859-del-patrimonio-cultural-del-estado-de-40849"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2020-02-04"
+last_updated: "2021-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ABRIL DE 2021.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el jueves 26 de agosto de 2004.
 
@@ -110,6 +110,10 @@ XI. Patrimonio Cultural Intangible: El conjunto de representaciones y visiones c
 XII. Patrimonio Cultural Tangible: El conjunto de bienes muebles e inmuebles, obras literarias y artísticas, espacios naturales y urbanos, así como los elementos que los conforman, como objetos, estructuras arquitectónicas, flora, fauna y formaciones naturales en sus diferentes momentos: paleontológicos, arqueológicos, artísticos e históricos; y
 
 XIII. Zonas Protegidas: Los espacios geográficos unificados que contengan inmuebles, sitios o elementos naturales con significado histórico o artístico, cuya conservación sea de interés para los habitantes del Estado.
+
+> <small>(ADICIONADA, G.O. 21 DE ABRIL DE 2021)</small>
+
+XIV. Centro Histórico: Todos aquellos asentamientos humanos vivos, fuertemente condicionados por una estructura física proveniente del pasado, reconocibles como representativos de la evolución de un pueblo. Como tales se comprenden tanto asentamientos que se mantienen íntegros, desde aldeas o ciudades, como aquellos que a causa de su crecimiento, constituyen hoy parte o partes de una estructura mayor.
 
 ###### Artículo 6.
 
@@ -325,9 +329,11 @@ Los propietarios, poseedores y usuarios de bienes muebles o inmuebles declarados
 
 #### SECCIÓN PRIMERA. DE LOS BIENES INMUEBLES
 
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2021)</small>
+
 ###### Artículo 28.
 
-En la declaratoria de los bienes inmuebles que se constituyan en patrimonio cultural del Estado deberán contemplarse las relaciones visual y volumétrica, respecto a la traza y parcelación histórica, así como a su propia estructura y uso de los inmuebles culturales correspondientes.
+En la declaratoria de los bienes inmuebles que se constituyan en patrimonio cultural de (sic) Estado deberán contemplarse las relaciones visual y volumétrica, respecto a la traza y parcelación histórica, así como a su propia estructura y uso de los inmuebles culturales correspondientes. En ninguna circunstancia serán modificados los centros históricos de su carácter original, excepto cuando formen parte de un proyecto de aprovechamiento del sitio, debidamente justificado y apegado a la Ley Federal vigente y bajo los criterios establecidos por el Instituto Nacional de Antropología e Historia (INAH), incluyendo la introducción de elementos de carácter contemporáneo, siempre que no perturben la armonía del conjunto y que contribuyan a su enriquecimiento.
 
 ###### Artículo 29.
 
@@ -494,3 +500,11 @@ SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códig
 TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 21 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 838 QUE REFORMA EL ARTÍCULO 28 Y SE ADICIONA LA FRACCIÓN XIV DEL ARTÍCULO 5 AMBOS DE LA LEY DEL PATRIMONIO CULTURAL; SE ADICIONA LA FRACCIÓN XXX BIS AL ARTÍCULO 35 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; Y SE REFORMA EL INCISO E) DE LA FRACCIÓN I DEL ARTÍCULO 8 DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA, TODOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
