@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-tribunal-unitario-de-justicia-para-58709"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-19"
-last_updated: "2018-02-16"
+last_updated: "2021-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY ORGANICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS
 
-> <small>[N. DE E. DE CONFORMIDAD CON LAS DISPOSICIONES TRANSITORIAS SEGUNDA Y TERCERA DEL DECRETO NÚMERO DOS MIL QUINIENTOS NOVENTA, PUBLICADO EN EL P. O. DE 16 DE FEBRERO DE 2018, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ QUE EL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y LOS JUZGADOS ESPECIALIZADOS, SUBSISTIENDO COMO ÓRGANOS JURISDICCIONALES, QUEDEN FORMALMENTE CONSTITUIDOS COMO SALA ESPECIALIZADA DE JUSTICIA PENAL PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE MORELOS; TAL TRANSFORMACIÓN ESTARÁ CONDICIONADA HASTA EN TANTO EL CONGRESO DEL ESTADO DE MORELOS, REALICE LAS ADECUACIONES PRESUPUESTARIAS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA CUARTA DE LA LEY ORGÁNICA DEL TRIBUNAL UNITARIO DE JUSTICIA PENAL PARA ADOLESCENTES DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 21 DE ABRIL DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018 (ABROGADA CON CONDICIÓN).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de diciembre de 2007.
 
@@ -458,3 +458,15 @@ QUINTA. El Pleno del Tribunal Superior de Justicia nombrará una comisión que e
 SEXTA. Una vez que se colmen los requisitos contenidos en la Disposición Transitoria Tercera de la presente reforma, la Magistrada del Tribunal Unitario de Justicia para Adolescentes procederá a realizar la entrega recepción al Tribunal Superior de Justicia del Estado.
 
 SÉPTIMA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
+
+P.O. 21 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL TRIBUNAL UNITARIO DE JUSTICIA PENAL PARA ADOLESCENTES DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. El titular de la Magistratura del Tribunal Unitario de Justicia Penal para Adolescentes, contará con un plazo de noventa días para expedir los Reglamentos a que se refiere esta Ley.
+
+CUARTA. Se abroga la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes, publicada en el Periódico Oficial “Tierra y Libertad” número 4577, con fecha primero de enero de 2008.
