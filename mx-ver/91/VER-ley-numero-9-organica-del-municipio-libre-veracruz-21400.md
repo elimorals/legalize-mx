@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2021-03-11"
+last_updated: "2021-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ABRIL DE 2021.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -566,6 +566,10 @@ XXIX. Otorgar, en el ámbito de su competencia, licencias para construcciones;
 > <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2020)</small>
 
 XXX. Desarrollar planes y programas destinados a la preservación, restauración, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en su territorio y al desarrollo forestal sustentable; así como para la prevención y combate a la contaminación ambiental, mismos que deberán alinearse con los Objetivos de Desarrollo Sostenible contenidos en la Agenda 2030 para el Desarrollo Sostenible y demás resoluciones e instrumentos adoptados en esa materia, por los organismos internacionales de los que el Estado Mexicano es miembro y signatario, y convocar, coordinar y apoyar a los ejidatarios, propietarios y comuneros, para que establezcan cercas vivas en las zonas limítrofes de sus predios o terrenos y reforestar las franjas de tierra al lado de los ríos y cañadas;
+
+> <small>(ADICIONADA, G.O. 21 DE ABRIL DE 2021)</small>
+
+XXX Bis. Proteger, preservar y mantener la originalidad de los centros históricos en los municipios, considerándolos como agentes del desarrollo social;
 
 XXXI. Participar en la creación y administración de zonas de reservas ecológicas, en la elaboración y aplicación de programas de ordenamiento en esta materia y en la formulación de programas de desarrollo regional;
 
@@ -4508,3 +4512,11 @@ SEGUNDO. El Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus
 TERCERO. La obligación de elaborar, aprobar y ejecutar los Programas Municipales de Protección a Niñas, Niños y Adolescentes, en los términos del presente Decreto, será aplicable para todos los Ayuntamientos que entren en funciones a partir del día primero de enero del año dos mil veintidós, y deberán considerarse en el marco de sus respectivos Planes Municipales de Desarrollo.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 838 QUE REFORMA EL ARTÍCULO 28 Y SE ADICIONA LA FRACCIÓN XIV DEL ARTÍCULO 5 AMBOS DE LA LEY DEL PATRIMONIO CULTURAL; SE ADICIONA LA FRACCIÓN XXX BIS AL ARTÍCULO 35 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; Y SE REFORMA EL INCISO E) DE LA FRACCIÓN I DEL ARTÍCULO 8 DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA, TODOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
