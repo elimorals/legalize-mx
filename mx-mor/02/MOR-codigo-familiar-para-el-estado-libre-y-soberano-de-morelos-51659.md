@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2021-03-31"
+last_updated: "2021-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2021.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -513,11 +513,13 @@ BASES DE LA FAMILIA MORELENSE. La familia Morelense es una agrupación natural q
 
 DEL RESPETO ENTRE LOS INTEGRANTES DE LA FAMILIA. Los integrantes de la familia tienen derecho a que los demás miembros respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 24.
 
-DE LA VIOLENCIA EN LA FAMILIA. Por Violencia Familiar se considera el uso de la fuerza física o moral, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, sexual, psíquica, emocional, patrimonial o económica, como actos de poder u omisión, intencional dirigidos a dominar, someter controlar o agredir, tanto en el ámbito público como en el privado independientemente de que pueda producir o no lesiones, siempre y cuando el agresor y agredido guarden un vínculo directo en cualquiera de las hipótesis contenidas en este Código para el parentesco por consanguinidad o tengan parentesco por afinidad, una relación de matrimonio o concubinato.
+DE LA VIOLENCIA EN LA FAMILIA. Por Violencia Familiar se considera el uso de la fuerza física o moral, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, sexual, psíquica, emocional, patrimonial o económica, como actos de poder u omisión, intencional dirigidos a dominar, someter controlar o agredir, tanto en el ámbito público como en el privado independientemente de que pueda producir o no lesiones, siempre y cuando el agresor y agredido guarden un vínculo directo en cualquiera de las hipótesis contenidas en este Código para el parentesco por consanguinidad o tengan parentesco por afinidad, una relación de matrimonio, concubinato o que mantengan o hayan mantenido una relación de hecho.
+
+Se entenderá por relación de hecho, la que exista entre quienes mantengan una relación de pareja, aunque no vivan en el mismo domicilio.
 
 ###### ARTÍCULO 25.
 
@@ -593,25 +595,25 @@ Los concubinos están obligados, en igual forma, a darse alimentos si se satisfa
 
 En caso de disolución de concubinato o matrimonio, los alimentos se otorgarán siempre y cuando algún cónyuge o concubino acredite estar imposibilitado para obtener alimentos en virtud de su edad, estado físico y mental, incapacidad o cualquiera otro que le impida desarrollar una actividad remunerada, así como acredite tener la necesidad de recibirlos en virtud de no contar con bienes que le permitan obtener ingresos para adquirir los alimentos necesarios.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 38.
 
-OBLIGACIÓN ALIMENTARIA DE LOS ASCENDIENTES.- Los padres están obligados a dar alimentos a sus hijos, se exceptúa de esta obligación a los padres y quienes ejerzan la patria potestad cuando se encuentren imposibilitados de otorgarlos, siempre que lo anterior este fehacientemente acreditado. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
+OBLIGACIÓN ALIMENTARIA DE LOS ASCENDIENTES.- Los padres están obligados a dar alimentos a sus hijos, se exceptúa de esta obligación a los padres y quienes ejerzan la patria potestad cuando se encuentren imposibilitados de otorgarlos, siempre que lo anterior este fehacientemente acreditado, cuando se acredite alguno de los siguientes supuestos:
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+IV. (SIC) Padezcan alguna enfermedad grave e incurable que les impida ejecutar un trabajo;
+
+V. Se encuentren inhabilitados físicamente para el trabajo, o
+
+VI. Enfrenten un obstáculo absoluto para satisfacer las necesidades de los acreedores alimentarios. Para este supuesto, en ningún caso, la falta de trabajo se tendrá como obstáculo o imposibilidad absoluta.
+
+A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
 
 Para lo cual el Juzgador, de oficio, hará uso de las facultades en materia de prueba y de la posibilidad de decretar diligencias probatorias, contenidas en los artículos 301 y 302 del Código Procesal Familiar del Estado de Morelos.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
-
 La pensión alimenticia derivada de una sentencia de reconocimiento de paternidad, debe ser retroactiva al momento del nacimiento del menor.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2016)</small>
-
 El juzgador, para determinar el monto de la pensión, valorara las causas que dieron origen al juicio de reconocimiento de paternidad y las posibilidades del deudor alimentario.
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 En caso de que el deudor alimentario tenga impedimento para otorgarlos, debe probar plenamente que le faltan los medios para proporcionar alimentos, que no le es posible obtener ingresos derivados de un trabajo remunerado por carecer de éste o bien que tenga un impedimento físico o mental para desempeñarlo.
 
@@ -723,7 +725,9 @@ DISTRIBUCIÓN DE LA DEUDA ALIMENTARIA EN CASO DE USUFRUCTO. En los casos en que 
 
 CESE DE LA OBLIGACIÓN ALIMENTARIA. Cesa la obligación de dar alimentos:
 
-I.- Cuando el que la tiene carece de medios para cumplirla;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2021)</small>
+
+I.- En tanto el que la tiene se encuentre en imposibilidad absoluta para otorgarlos;
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
@@ -1303,9 +1307,11 @@ CONDICIONES DE LAS DONACIONES ANTENUPCIALES. Las donaciones antenupciales no nec
 
 Si al hacerse la donación no se formó inventario de los bienes del donador, no podrá elegirse la época en que aquélla se otorgó.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 129.
 
-REVOCACIÓN E IRREVOCABILIDAD DE LAS DONACIONES ANTENUPCIALES. Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
+REVOCACIÓN E IRREVOCABILIDAD DE LAS DONACIONES ANTENUPCIALES. Las donaciones antenupciales son revocables y se entienden revocadas por el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
 
 Las donaciones antenupciales no se revocarán por sobrevenir hijos al donante.
 
@@ -6868,3 +6874,13 @@ SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERA. El titular del Poder Ejecutivo del Estado de Morelos, a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, deberá de emitir los Lineamientos, Reglamentos y Manuales necesarios para asegurar la aplicación de la presente reforma en el término de 60 días hábiles contados a partir de la publicación del presente Decreto.
 
 CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 21 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO QUINCE.- POR EL CUAL SE REFORMAN LOS ARTÍCULOS 24, 38, 55 Y 129 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango que se opongan al presente Decreto.
