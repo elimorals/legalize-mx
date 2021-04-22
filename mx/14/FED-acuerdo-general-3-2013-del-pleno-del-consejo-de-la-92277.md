@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2021-01-28"
+last_updated: "2021-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE ABRIL DE 2021.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -671,6 +671,10 @@ XXXI. TRIGESIMO PRIMER CIRCUITO: Estado de Campeche.
 
 XXXII. TRIGESIMO SEGUNDO CIRCUITO: Estado de Colima.
 
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 3/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE ABRIL DE 2021)</small>
+
+XXXIII. Todos los Tribunales de Circuito tendrán jurisdicción en toda la República mexicana para el dictado de sentencias en auxilio de otros con los que compartan alguna especialidad, cuando por cargas de trabajo así lo determine la Comisión de Creación de Nuevos Órganos. Esta determinará tanto el órgano auxiliar como el que será auxiliado, el número y tipo de expedientes objeto del auxilio, su temporalidad y demás lineamientos aplicables, con base en la información estadística disponible.
+
 CUARTO. La jurisdicción territorial de los juzgados de Distrito es la siguiente:
 
 I. PRIMER CIRCUITO:
@@ -898,6 +902,10 @@ XXXII. TRIGESIMO SEGUNDO CIRCUITO:
 Los juzgados de Distrito en el Estado de Colima, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 XXXIII. Los Jueces de Distrito de Procesos Penales Federales del Primero, Segundo y Tercer Circuito, y los Mixtos, así como los de Procesos Penales Federales que en lo futuro se lleguen a crear en aquellos lugares donde exista un centro federal de readaptación social de máxima seguridad, ejercerán jurisdicción en toda la República para conocer de aquellos asuntos que se encuentren en la hipótesis del artículo 10, párrafo tercero, del Código Federal de Procedimientos Penales.
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 3/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE ABRIL DE 2021)</small>
+
+XXXIV. Todos los juzgados de Distrito tendrán jurisdicción en toda la República mexicana para el dictado de sentencias en auxilio de otros con los que compartan alguna especialidad, cuando por cargas de trabajo así lo determine la Comisión de Creación de Nuevos Órganos. Esta determinará tanto el órgano auxiliar como el que será auxiliado, el número y tipo de expedientes objeto del auxilio, su temporalidad y demás lineamientos aplicables, con base en la información estadística disponible.
 
 QUINTO. Centros Auxiliares Regionales:
 
@@ -8360,3 +8368,11 @@ CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gesti�
 QUINTO. La Dirección General de Tecnologías de la Información deberá asegurar la dotación de los equipos de cómputo para el Decimosexto Tribunal Colegiado en Materia Civil del Primer Circuito que inicia funciones.
 
 SEXTO. El personal de la Dirección General de Servicios Generales apoyará para el traslado de los asuntos que por turno corresponda conocer al Decimosexto Tribunal Colegiado en Materia Civil de Primer Circuito.
+
+D.O.F. 22 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 3/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet e intranet.
