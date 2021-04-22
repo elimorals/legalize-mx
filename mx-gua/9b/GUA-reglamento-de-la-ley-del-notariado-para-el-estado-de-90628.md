@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-del-notariado-para-el-estado-de-90628"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-21"
-last_updated: "2020-08-13"
+last_updated: "2021-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2021.
 
 Reglamento publicado en la Cuarte Parte del Periódico Oficial del Estado de Guanajuato, el viernes 21 de diciembre de 2012.
 
@@ -435,7 +435,7 @@ El notario tramitará ante la Dirección General la impresión y expedición de 
 
 Las medidas de seguridad de los folios deberá determinarlas el Titular del Poder Ejecutivo mediante Decreto Gubernativo, previa opinión del Colegio.
 
-La Dirección General contará, en previsión, con una reserva de folios, que reuniendo las características establecidas en el Decreto Gubernativo, puedan ser utilizados en cualquier notaría del Estado, cuando por alguna contingencia se destruyeran, inutilizaran o fuesen insuficientes los que originalmente se hubiesen impreso para una determinada notaría pública. La Dirección General llevará un control especial del número y distribución de estos folios. En la razón de apertura y cierre de los tomos del protocolo en que se utilicen este tipo de folios se deberá hacer constar esta circunstancia.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE ABRIL DE 2021)</small>
 
 Entrega de los folios, hologramas y hojas de testimonio
 
@@ -445,11 +445,13 @@ La solicitud de entrega de folios, hologramas y hojas de testimonio que haga el 
 
 La entrega de los folios, hologramas y hojas de testimonio sólo se realizará al notario solicitante, bajo su estricta responsabilidad, por parte de la Dirección General, la que instrumentará las medidas de seguridad para la entrega.
 
-Requisitos de las hojas que contienen los testimonios notariales
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2021)</small>
+
+Requisitos de las hojas que contienen los testimonios y certificaciones notariales
 
 ###### Artículo 37.
 
-Las hojas en las que el notario debe expedir los testimonios notariales contendrán las marcas, signos o medidas de seguridad, tales como impresiones especiales, códigos de barras, hologramas y cualesquier (sic) otra que garantice su integridad y autenticidad.
+Las hojas en las que el notario debe expedir los testimonios y certificaciones notariales contendrán las marcas, signos o medidas de seguridad que garanticen su integridad y autenticidad.
 
 Comunicación de la pérdida, robo o extravío
 
@@ -597,7 +599,9 @@ El registro de folios para libros de protocolos deberá contener:
 
 I. La cantidad de folios entregados;
 
-II. La numeración y clave de folio; y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2021)</small>
+
+II. La numeración de folio; y
 
 III. La fecha de entrega.
 
@@ -621,7 +625,9 @@ El registro de folios para libros de ratificaciones deberá contener:
 
 I. La cantidad de folios entregados;
 
-II. La numeración y clave de folio; y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2021)</small>
+
+II. La numeración de folio; y
 
 III. La fecha de entrega.
 
@@ -966,3 +972,25 @@ Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día 
 Actualización del Manual de Organización
 
 Artículo Segundo. La Secretaría de Gobierno deberá actualizar su Manual de Organización General publicado en el Periódico Oficial del Gobierno del Estado número 148, Segunda Parte, del 24 de julio de 2020, acorde al contenido del presente Decreto Gubernativo.
+
+P.O. 22 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 86, MEDIANTE EL CUAL SE ESTABLECEN LAS CARACTERÍSTICAS Y SE AUTORIZA A IMPLEMENTAR LAS MEDIDAS DE SEGURIDAD QUE REVESTIRÁN LOS FOLIOS QUE INTEGRAN EL PROTOCOLO NOTARIAL ABIERTO, LOS FOLIOS DEL LIBRO DE RATIFICACIONES, ASÍ COMO LAS HOJAS QUE CONTENGAN LOS TESTIMONIOS DE LOS INSTRUMENTOS NOTARIALES O DE CERTIFICACIONES, QUE UTILIZARÁN LAS NOTARÍAS PÚBLICAS; Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se abrogan:
+
+I. El Decreto Gubernativo número 17, mediante el cual, se establecen las características que deberán contener los folios que integren el Protocolo Abierto de las Notarías Públicas en el Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado, número 34, tercera parte, del 27 de febrero de 2007.
+
+II. El Decreto Gubernativo número 18, mediante el cual, se establecen las características que deberán contener los folios que conformen el Libro de Ratificaciones de las Notarías Públicas en el Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado, número 34, tercera parte, del 27 de febrero de 2007.
+
+III. El Decreto Gubernativo número 59, mediante el cual se establecen las medidas de seguridad de las hojas que contienen los testimonios de los instrumentos notariales o de las certificaciones legalmente autorizadas por los Notarios, publicado en el Periódico Oficial del Gobierno del Estado, número 188, segunda parte, del 23 de noviembre de 2007.
+
+Artículo Tercero. Los folios para el Protocolo Notarial Abierto, para el Libro de Ratificaciones; así como las hojas para uso de testimonios o certificaciones, respectivamente, cuyas características y medidas de seguridad correspondan a las contempladas en los Decretos Gubernativos que se abrogan en el Artículo Segundo transitorio y que, a la fecha de entrada en vigencia del presente Decreto Gubernativo, se encuentren en resguardo de la Dirección General de Registros Públicos de la Propiedad y Notarías sin haber sido adquiridos por las notarias y los notarios, conservarán su validez y surtirán sus efectos legales.
+
+En consecuencia, las notarias y los notarios deberán hacer uso de dichos folios y hojas, hasta agotar la totalidad de los existentes. Para ello, la Dirección General de Registros Públicos de la Propiedad y Notarías tomará las previsiones administrativas necesarias para continuar con su adecuada distribución.
+
+Artículo Cuarto. La Dirección General de Registros Públicos de la Propiedad y Notarías deberá levantar constancia del inicio de la distribución de los productos notariales elaborados de acuerdo con las características establecidas en el presente Decreto Gubernativo.
+
+Artículo Quinto. Se instruye al titular de la Dirección General de Registros Públicos de la Propiedad y Notarías para que, a partir de la entrada en vigencia del presente Decreto Gubernativo, propicie comunicación con los Notarios Públicos en la Entidad y los titulares de las oficinas del Registro Público de la Propiedad, con la finalidad de armonizar las acciones administrativas que resulten conducentes.
