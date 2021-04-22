@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2020-03-17"
+last_updated: "2021-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -561,9 +561,9 @@ La edad y el parentesco de los trabajadores y de sus familiares beneficiarios, s
 
 Cuando se descubriere que son falsos los hechos o documentos que hayan servido para conceder una pensión, la Junta Directiva procederá a realizar una revisión de los documentos y pensión otorgada; asimismo, establecerá mediante acuerdo las responsabilidades en que se haya incurrido y se formularán ante las instancias las denuncias correspondientes.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2021)</small>
 
-Serán sancionados por el Código Penal del Estado, en los términos que señala el artículo 205, los actos simulados por el derechohabiente o beneficiarios, que se realicen para obtener la pensión, devolución de descuentos o cualquier otra prestación.
+Serán sancionados por el Código Penal del Estado de San Luis Potosí, en los términos que señala el artículo 223, los actos simulados por el derechohabiente o beneficiarios, que se realicen para obtener la pensión, devolución de descuentos o cualquier otra prestación.
 
 ###### ARTICULO 58.
 
@@ -2452,5 +2452,13 @@ P.O. 17 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0633.- SE REFORMA EL ARTÍCULO 23 EN SU PÁRRAFO SEGUNDO; Y ADICIONA AL ARTÍCULO 49 LOS PÁRRAFOS, SEGUNDO, Y TERCERO, DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1161.-·SE REFORMA EL ARTÍCULO 57 EN SU PÁRRAFO SEGUNDO, DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
