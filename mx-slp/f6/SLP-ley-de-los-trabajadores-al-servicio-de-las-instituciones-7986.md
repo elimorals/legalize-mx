@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2021-04-06"
+last_updated: "2021-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -318,6 +318,10 @@ Las instituciones públicas previo estudio, concederán permisos o licencias sin
 Estos permisos o licencias en ningún momento podrán juntarse con otros similares o con períodos vacacionales, y estarán sujetos a los requisitos y condiciones establecidos al efecto en los reglamentos correspondientes.
 
 Los trabajadores que obtengan licencias sin goce de sueldo, no perderán derechos escalafonarios ni de antigüedad, durante el tiempo que el interesado desempeñe un cargo de elección popular o de representación del Estado. Para conceder los permisos o licencias, es requisito que el trabajador lo solicite por escrito.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2021)</small>
+
+ARTICULO 35 BIS.- Las mujeres y hombres trabajadores gozarán mínimo de un permiso al año, con goce íntegro de su sueldo, de conformidad con su estado de salud debidamente acreditado, con el objetivo de poder someterse a la realización de estudios médicos generales y de especialidad, para proteger su salud, prevenir y evitar futuras enfermedades o atender de manera inmediata las existentes.
 
 ###### ARTICULO 36.
 
@@ -2126,3 +2130,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Se establece un plazo de noventa días naturales a partir de la entrada en vigencia de este Decreto, para que las instituciones públicas del Estado tengan vigente un protocolo de prevención del hostigamiento y acoso sexual, en los términos previstos por la fracción XI Bis que se adiciona al artículo 51 de la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí.
+
+P.O. 22 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1160.- SE ADICIONA EL ARTÍCULO 35 BIS, A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
