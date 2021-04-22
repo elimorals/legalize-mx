@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-administrativas-para-el-estado-y-12222
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2021-04-06"
+last_updated: "2021-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2021.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el día sábado 3 de junio de 2017.
 
@@ -598,6 +598,10 @@ Será responsable de encubrimiento el servidor público que cuando en el ejercic
 ###### ARTÍCULO 62.
 
 Cometerá desacato el servidor público que, tratándose de requerimientos o resoluciones de autoridades fiscalizadoras, de control interno, judiciales, electorales, laborales, o en materia de defensa de los derechos humanos o cualquier otra competente, proporcione información falsa, así como no dé respuesta alguna, retrase deliberadamente y sin justificación la entrega de la información, a pesar de que le hayan sido impuestas medidas de apremio conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2021)</small>
+
+Igualmente, cometerán desacato los servidores públicos que, tratándose de requerimientos o resoluciones de autoridades laborales, retrasen deliberadamente y sin justificación el pago de un laudo laboral declarado firme y que no hayan hecho gestiones tendientes para su pago durante su administración. Conducta sancionada conforme (sic) lo establecido por el artículo 77 de esta Ley y, en caso de que la persona demandada ya no sea servidor público, se aplicarán las sanciones establecidas en la fracción IV del mismo numeral.
 
 ###### ARTÍCULO 63.
 
@@ -1908,3 +1912,11 @@ P.O. 6 DE ABRIL DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1159.- SE ADICIONA AL ARTÍCULO 62 EL PÁRRAFO SEGUNDO, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
