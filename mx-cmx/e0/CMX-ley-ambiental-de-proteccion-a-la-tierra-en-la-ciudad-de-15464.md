@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2019-06-25"
+last_updated: "2021-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ABRIL DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -198,11 +198,11 @@ IX. La celebración de convenios o acuerdos de coordinación entre autoridades a
 
 En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en otras leyes, reglamentos, normas y demás ordenamientos jurídicos relacionados con las materias que regula este ordenamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 5º.
 
-Para los efectos de esta Ley, se estará a las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Aguas nacionales, la Ley General de Desarrollo Forestal Sustentable, la Ley de Residuos Sólidos del Distrito Federal y la Ley de Aguas del Distrito Federal, así como las siguientes:
+Para los efectos de esta Ley, se estará a las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Aguas nacionales, la Ley General de Desarrollo Forestal Sustentable, la Ley de Residuos Sólidos del Distrito Federal y la Ley del Derecho al Acceso Disposición y Saneamiento del Agua de la Ciudad de México, así como las siguientes:
 
 > <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
 
@@ -244,9 +244,7 @@ APROVECHAMIENTO SUSTENTABLE DE LA ENERGÍA: El uso y aprovechamiento óptimo de 
 
 ARMONÍA: Las actividades humanas, que en el marco de la pluralidad y la diversidad, deben lograr equilibrios dinámicos con los ciclos y procesos inherentes a la Tierra;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
-
-ASAMBLEA: La Asamblea Legislativa del Distrito Federal;
+> <small>(DEROGADO, G.O. 23 DE ABRIL DE 2021)</small>
 
 AUDITORÍA AMBIENTAL: Examen metodológico de las actividades, operaciones y procesos, respecto de la contaminación y el riesgo ambiental, así como del grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger los recursos naturales y el ambiente;
 
@@ -261,6 +259,10 @@ BARRANCAS: Depresión geográfica que por sus condiciones topográficas y geoló
 CENTRO COMERCIAL: Instalaciones que se destinen a la venta al público de bienes y servicios;
 
 CENTRO DE VERIFICACIÓN: Local determinado por las autoridades competentes y autorizado por éstas, para llevar a cabo la medición de emisiones contaminantes con el equipo autorizado, provenientes de los vehículos automotores en circulación;
+
+> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2021)</small>
+
+CONGRESO: El Congreso de la Ciudad de México.
 
 > <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
 
@@ -366,6 +368,10 @@ LEY: Ley Ambiental del Distrito Federal;
 
 LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
+> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2021)</small>
+
+LIXIVIADOS: Los líquidos que se forman por la reacción, arrastre o filtrado de los materiales que constituyen los residuos sólidos y que contienen sustancias en forma disuelta o en suspensión que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositen residuos sólidos y que puede dar lugar a la contaminación del suelo y de cuerpos de agua;
+
 > <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
 MANEJO: Conjunto de actividades que incluyen, tratándose de recursos naturales, la extracción, utilización, explotación, aprovechamiento, administración, preservación, restauración, desarrollo, mantenimiento y vigilancia; o tratándose de materiales o residuos, el almacenamiento, recolección, transporte, alojamiento, reuso, tratamiento, reciclaje, incineración y disposición final;
@@ -456,6 +462,10 @@ RESTAURACIÓN DEL EQUILIBRIO ECOLÓGICO: Conjunto de actividades tendientes a la
 
 RIESGO AMBIENTAL: Peligro al que se expone el ecosistema como consecuencia de la realización de actividades riesgosas;
 
+> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2021)</small>
+
+RUIDO: Sonido indeseable en niveles que produce alteraciones, vibraciones, molestias riesgos o daños para la salud de las personas y sus bienes, o que causan impactos negativos sobre el ambiente.
+
 SECRETARÍA: Secretaría del Medio Ambiente del Gobierno del Distrito Federal;
 
 > <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
@@ -477,6 +487,10 @@ TRATAMIENTO: Acción de transformar las características de los residuos;
 VERIFICADORES AMBIENTALES: Los prestadores de servicio de verificación de emisiones contaminantes autorizados por la Secretaría;
 
 VOCACIÓN NATURAL: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos;
+
+> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2021)</small>
+
+ZONA DE CALIDAD ACÚSTICA: Aquella parte del territorio que presenta una vulnerabilidad a la emisión de ruidos y sonidos que puedan afectar de manera significativa la salud de las personas y el medio ambiente y sobre la cual la autoridad puede emitir opiniones o restricciones por las emisiones de ruido;
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -3750,13 +3764,127 @@ Los Programas de Contingencia Ambiental establecerán las condiciones bajo las c
 
 En situación de contingencia ambiental, los responsables de fuentes de contaminación estarán obligados a cumplir con las medidas de prevención y control establecidas en los programas de contingencia correspondientes.
 
-### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+### CAPÍTULO VII. DE LA PREVENCIÓN Y CONTROL DE RUIDO
+
+> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 186 BIS.- Sin perjuicio de la distribución de competencias previstas en el presente y otros ordenamientos legales, las atribuciones específicas en materia de ruido se ejercerán de la siguiente manera:
+
+I. A la Secretaría le corresponde:
+
+a) Elaborar los mapas de ruido de la Ciudad de México;
+
+b) Formular, ejecutar y evaluar el apartado en materia de prevención y control de la contaminación generada por ruido en el Programa Sectorial Ambiental;
+
+c) Establecer los límites máximos permisibles de ruido de las fuentes fijas y las móviles que, conforme a lo establecido en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, no sean de competencia Federal;
+
+d) Establecer los criterios y especificaciones de los equipos, dispositivos y sistemas de reducción de emisiones sonoras que deban adoptar las fuentes fijas y las móviles, que conforme a lo establecido en la Ley General del Equilibrio Ecológico y la Protección al Ambiente no sean de competencia Federal;
+
+e) Realizar acciones de inspección y vigilancia a fin de verificar el cumplimiento de las disposiciones legales aplicables en materia de ruido por parte de las fuentes fijas y móviles que, conforme a lo establecido en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, no sean de competencia Federal y, en su caso, iniciar y sustanciar el procedimiento administrativo que corresponda; y
+
+f) Determinar las sanciones administrativas que deriven del procedimiento administrativo que, en su caso, se inicie.
+
+II. A las Alcaldías les corresponde, colaborar con la Secretaría en la elaboración de los mapas de ruido especiales, así como en la ejecución del apartado del Programa Sectorial Ambiental en materia de prevención y control de la contaminación generada por ruido;
+
+III. A la Secretaría de Seguridad Ciudadana le corresponde, detener y presentar ante el Juez Cívico a los probables infractores que ocasionen ruidos por cualquier medio que notoriamente atenten contra la tranquilidad o representen un riesgo a la salud y el ambiente de las personas, en los términos de la Ley de Cultura Cívica de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 186 TER.- Para verificar el cumplimiento de los límites máximos permisibles de ruido previstos en las Normas Oficiales Mexicanas o Normas Ambientales para la Ciudad de México que resulten aplicables a las fuentes móviles que se encuentren en estado de encendido o que circulen en la vía pública, la Secretaría, en coordinación con la Secretaría de Seguridad Ciudadana, podrá llevar a cabo acciones de inspección y vigilancia, pudiendo detener la marcha o circulación de los vehículos automotores que se presuman contaminantes en virtud del ruido que emitan, a fin de llevar a cabo la verificación y, en su caso, iniciar el procedimiento administrativo que corresponda.
+
+> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 186 QUATER.- Los mapas de ruido elaborados por la Secretaría como instrumentos de política de desarrollo sustentable tienen por objeto conocer la situación acústica de la ciudad de México y para ello se desarrollarán a través de las siguientes modalidades:
+
+I. General, para todo el territorio de la Ciudad de México; y
+
+II. Especial, para aquellas zonas o regiones donde se presente una mayor incidencia de ruido.
+
+> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 186 QUINQUIES.- Los mapas de ruido deberán contener, por lo menos:
+
+I. El territorio, zonas o regiones a monitorear;
+
+II. La situación acústica existente en el territorio, zonas o regiones a monitorear;
+
+III. Las zonas de calidad acústica;
+
+IV. Las zonas y horarios donde se presenten casos en los que se superen los límites máximos permisibles;
+
+V. La identificación de las fuentes que provocan que se supere (sic) los límites máximos permisibles; y
+
+VI. El número de personas afectadas en las zonas donde se superan los límites máximos permisibles.
+
+> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 186 SEXIES.- La Secretaría, con base en los mapas de ruido correspondientes, definirá los límites máximos permisibles de ruido en exteriores, en función de las zonas de calidad acústica siguientes:
+
+I. Hospitalarias y escolares;
+
+II. Preservación ecológica;
+
+III. Habitacional y áreas verdes;
+
+IV. Comercial, de servicios y de espectáculos;
+
+V. Rural;
+
+VI. Transportes y vialidades; y
+
+VII. Industrial.
+
+> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 186 SEPTIES.- Los mapas de ruido deberán ser revisados y, en su caso actualizados, cuando menos cada 5 años, o antes y se presente información que lo justifique.
+
+> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 186 OCTIES.- El Programa Sectorial Ambiental deberá incluir un apartado en materia de prevención y control de la contaminación generada por ruido, el cual deberá considerar los mapas de ruido, y contendrá por lo menos:
+
+I. El diagnóstico de la situación acústica existente;
+
+II. Las zonas o regiones en las que se superen los límites máximos permisibles, así como las fuentes que generan el exceso de ruido y los horarios correspondientes;
+
+III. Las metas y objetivos específicos de las zonas de calidad acústica establecidas en función de los casos en los que se superen los límites máximos permisibles, en la zona o zonas identificadas;
+
+IV. Las acciones necesarias para prevenir, controlar, reducir o minimizar la contaminación generada por ruido en la zonas o regiones identificadas; y
+
+V. La asignación de:
+
+a) Recursos para la ejecución de las acciones que permitan alcanzar las metas y objetivos específicos, a efecto de prevenir, controlar, reducir o minimizar la contaminación generada por ruido en las zonas o regiones identificadas;
+
+b) Responsabilidades de la Secretaría, así como las acciones de coordinación con otras dependencias y entidades de la Administración Pública de la Ciudad de México y con las Alcaldías; y
+
+c) Tiempos de ejecución, revisión y evaluación de resultados.
+
+> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 186 NONIES.- La información y las prescripciones contenidas en el apartado del Programa Sectorial Ambiental en materia de prevención y control de la contaminación generada por ruido, deberán ser observadas en:
+
+I. Los programas de desarrollo urbano;
+
+II. El Programa de Ordenamiento Ecológico;
+
+III. Las autorizaciones en materia de impacto ambiental de obras o actividades;
+
+IV. El otorgamiento de la Licencia Ambiental Única;
+
+V. Los permisos y autorizaciones para la celebración de espectáculos públicos en la vía pública o en lugares que no cuenten con la licencia de funcionamiento correspondiente; y
+
+VI. Los permisos para operar un giro con impacto vecinal o zonal.
+
+> <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 186 DECIES.- Las sanciones a las conductas previstas en el presente capítulo se resolverán en términos de lo establecido en el artículo 213 de la Ley, atendiendo a las circunstancias específicas del caso y de manera supletoria lo establecido en la Ley de Cultura Cívica de la Ciudad de México.
 
 ## TÍTULO SEXTO. DE LOS PRESTADORES DE SERVICIOS AMBIENTALES
 
-### CAPÍTULO II. DE LOS CENTROS DE VERIFICACIÓN
+### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL
+
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 187.
 
@@ -3792,9 +3920,7 @@ El Reglamento correspondiente a la materia establecerá los procedimientos de co
 
 La falta de calidad técnica, ética, dolo, mala fe o la falsedad en la información presentada por un Prestador de Servicios Ambientales responsable de la elaboración de cualquier modalidad de los estudios de impacto ambiental, será sancionada conforme a lo previsto en la presente ley y en su Reglamento correspondiente a la materia.
 
-### CAPÍTULO III. DE LOS LABORATORIOS AMBIENTALES
-
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+### CAPÍTULO II. DE LOS CENTROS DE VERIFICACIÓN
 
 ###### ARTÍCULO 191.
 
@@ -3942,7 +4068,7 @@ VII. Prestar sus servicios de conformidad con los contratos autorizados por la S
 
 VIII. Dar una póliza de fianza a los centros de verificación, para garantizar el cumplimiento por sus servicios que incluya mano de obra y refacciones.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LOS LABORATORIOS AMBIENTALES
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3952,7 +4078,7 @@ La Secretaría establecerá los lineamientos y procedimientos para autorizar lab
 
 ## TÍTULO SÉPTIMO. MEDIDAS DE CONTROL, DE SEGURIDAD Y SANCIONES
 
-### CAPÍTULO II. DE LA INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3990,7 +4116,7 @@ La Secretaría establecerá y aplicará los sistemas de capacitación y profesio
 
 Con independencia de las medidas de seguridad, correctivas y de urgente aplicación, las sanciones y medidas de apremio que en materia administrativa correspondan, los policías ambientales pondrán a disposición de la autoridad competente a quienes realicen actos u omisiones probablemente constitutivos de delito o infracción administrativa en materia ambiental, que sucedan en suelo urbano y suelo de conservación así como en áreas de valor ambiental y áreas naturales protegidas.
 
-### CAPÍTULO III. MEDIDAS DE SEGURIDAD
+### CAPÍTULO II. DE LA INSPECCIÓN Y VIGILANCIA
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -4152,7 +4278,7 @@ El reglamento conciliará la aplicación de los mecanismos anotados y los proced
 
 Corresponde a la Secretaría y a las delegaciones realizar la vigilancia de las actividades en vía pública, áreas naturales protegidas y suelo de conservación para prevenir y sancionar la comisión de infracciones a la presente Ley. Los vigilantes ecoguardas asignados a esta función deberán estar debidamente acreditados por la Secretaría en los términos del reglamento de esta Ley y en sus actuaciones observarán, en lo aplicable, las disposiciones relativas a las visitas domiciliarias y actos de inspección señaladas en este Título.
 
-### CAPÍTULO IV. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO III. MEDIDAS DE SEGURIDAD
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -4192,7 +4318,9 @@ Las personas responsables de los hechos que dan lugar a la imposición de las me
 
 Cuando la autoridad ordene alguna de las medidas de seguridad previstas en el artículo 211 de esta Ley, indicará al interesado, cuando procedan, las acciones que debe llevar a cabo para subsanar o corregir los hechos que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se dejen sin efectos o se ordene el retiro de las medidas de seguridad impuestas.
 
-### CAPÍTULO V. RECURSO DE INCONFORMIDAD
+### CAPÍTULO IV. SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 213.
 
@@ -4366,13 +4494,13 @@ En el caso de aquellas constancias, certificados, certificaciones, permisos, lic
 
 Los funcionarios públicos que contravengan las disposiciones de esta Ley, su reglamento y las demás disposiciones aplicables incurren en responsabilidad y serán sancionados en los términos de la Ley correspondiente.
 
-### CAPÍTULO VI. DE LA RESPONSABILIDAD POR EL DAÑO AMBIENTAL
+### CAPÍTULO V. RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 220.
 
 Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos, normas ambientales del Distrito Federal y disposiciones que de ella emanen, podrán ser impugnadas sin que se pruebe el interés jurídico, mediante el recurso de inconformidad conforme a las reglas establecidas en la Ley de Procedimiento Administrativo del Distrito Federal.
 
-### CAPÍTULO VII. DE LOS DELITOS AMBIENTALES
+### CAPÍTULO VI. DE LA RESPONSABILIDAD POR EL DAÑO AMBIENTAL
 
 ###### ARTÍCULO 221.
 
@@ -4435,6 +4563,8 @@ XI. Los costos que serán necesarios para lograr la restauración de los factore
 XII. Etapa o etapas de la obra o actividad que falta por concluir, con la finalidad de determinar si se sujetan a la solicitud de autorización en materia de impacto ambiental en su caso, y
 
 XIII. El estudio de daño ambiental deberá presentarse en la secretaría de conformidad con los formatos y guías que al efecto se publiquen.
+
+### CAPÍTULO VII. DE LOS DELITOS AMBIENTALES
 
 ###### ARTÍCULO 225.
 
@@ -4735,3 +4865,15 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Dentro de los ciento ochenta días siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México a través de la Secretaría de Medio Ambiente, realizará la actualización y armonización de Reglamento de la Ley Ambiental y de Protección a la Tierra en el Distrito Federal.
 
 Tercero.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
+
+G.O. 23 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día natural siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Dentro de los 180 días naturales siguientes a la entrada en vigor del presente decreto, el Gobierno de la Ciudad de México expedirá las disposiciones necesarias para armonizar los instrumentos administrativos de su competencia al contenido del presente decreto, en función de la suficiencia presupuestal.
+
+CUARTO. La Jefatura de Gobierno de la Ciudad de México deberá elaborar las disposiciones reglamentarias a las que se refiere el Título Quinto de la presente Ley de la Prevención, Control y Acciones Contra la Contaminación Ambiental, dentro de los noventa días siguientes a la publicación del presente Decreto.
