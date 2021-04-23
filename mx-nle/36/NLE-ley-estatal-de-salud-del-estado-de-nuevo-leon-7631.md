@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-salud-del-estado-de-nuevo-leon-7631"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2021-03-29"
+last_updated: "2021-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,21 +21,119 @@ state: "NLE"
 ---
 # LEY ESTATAL DE SALUD, DEL ESTADO DE NUEVO LEON
 
-LEY ESTATAL DE SALUD DEL ESTADO DE NUEVO LEÓN
+ACUERDO GENERAL 2/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2018.
 
-Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 4 de marzo de 2015.
 
-EL CIUDADANO LIC. JORGE A. TREVIÑO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+ACUERDO GENERAL 2/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE ZACATECAS.
 
-DECRETO
+CONSIDERANDO
 
-NUM. 21
+PRIMERO. En términos de lo dispuesto por los artículos 94, párrafo segundo; 100, párrafos primero y octavo, de la Constitución Política de los Estados Unidos Mexicanos; 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del mismo, con independencia técnica, de gestión y para emitir sus resoluciones; además, está facultado para expedir acuerdos generales que permitan el adecuado ejercicio de sus atribuciones;
 
-LEY ESTATAL DE SALUD
+SEGUNDO. Los artículos 94, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos y 81, fracciones IV, V, VI y XXIV; y 144, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Federación, establecen que son atribuciones del Consejo de la Judicatura Federal determinar el número y límites territoriales y, en su caso, la especialización por materia de los juzgados de Distrito y tribunales de Circuito, en cada uno de los Circuitos en que se divide el territorio de la República Mexicana, así como dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los juzgados de Distrito, cuando en un mismo lugar haya varios de ellos; atribución, esta última, que ejerce a través de la Comisión de Creación de Nuevos Órganos, en términos del artículo 42, fracción II Bis, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo, publicado el veintidós de noviembre de dos mil trece en el Diario Oficial de la Federación;
+
+TERCERO. El artículo 17 de la Constitución Política de los Estados Unidos Mexicanos establece que toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes; por lo que para cumplir con el mandato constitucional es necesaria la creación de órganos jurisdiccionales, a fin de garantizar que la impartición de justicia sea pronta, completa, imparcial y gratuita;
+
+CUARTO. El dieciocho de junio de dos mil ocho, se publicó en el Diario Oficial de la Federación el Decreto de modificación de diversos artículos constitucionales, para establecer en nuestro país el modelo de justicia procesal penal acusatorio y oral, que se rige por los principios de publicidad, contradicción, concentración, continuidad e inmediación. Como resultado de lo anterior, el Consejo de la Judicatura Federal en ejercicio de sus atribuciones debe dictar, en su ámbito de competencia, las disposiciones administrativas que sean necesarias para el cumplimiento de la norma constitucional, de manera tal que antes del dieciocho de junio de dos mil dieciséis, todo el territorio nacional opere bajo el nuevo modelo procesal penal;
+
+QUINTO. En sesión de ocho de mayo de dos mil trece, el Pleno del Consejo de la Judicatura Federal aprobó el Plan Maestro de Implementación de la Reforma Penal, en el cual se incluyó la instalación de un Centro de Justicia Penal en el Estado de Zacatecas;
+
+SEXTO. En ese contexto, el cinco de marzo de dos mil catorce se publicó en el Diario Oficial de la Federación el Código Nacional de Procedimientos Penales, que tiene como objeto establecer las normas para la investigación, el procesamiento y la sanción de los delitos, esclarecer los hechos, proteger al inocente, procurar que el culpable no quede impune y se repare el daño, señalando como ámbito de aplicación en la persecución de ilícitos, la competencia de los órganos jurisdiccionales federales en el marco de los principios y derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado mexicano sea parte;
+
+SÉPTIMO. El artículo Segundo Transitorio, primer párrafo, del Código Nacional de Procedimientos Penales, señala que la entrada en vigor del mismo, a nivel federal será gradualmente en los términos previstos en la Declaratoria que al efecto emita el Congreso de la Unión, sin que pueda exceder del dieciocho de junio de dos mil dieciséis.
+
+El doce de diciembre de dos mil catorce se publicó en el Diario Oficial de la Federación el Decreto del Congreso de la Unión de la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, a partir del dieciséis de marzo de dos mil quince, en los Estados de Yucatán y Zacatecas;
+
+OCTAVO. El diecinueve de noviembre de dos mil catorce se publicó en el Diario Oficial de la Federación el Acuerdo General 36/2014, del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal; y que reforma y adiciona disposiciones de diversos Acuerdos Generales; y
+
+NOVENO. Actualmente se cuenta con la infraestructura física para la instalación de un Centro de Justicia Penal Federal en el Estado de Zacatecas.
+
+Por lo anterior, se expide el siguiente
+
+ACUERDO
+
+###### Artículo 1.
+
+El presente Acuerdo tiene por objeto regular la organización, funcionamiento e inicio de funciones del Centro de Justicia Penal Federal, en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre.
+
+###### Artículo 2.
+
+Para efectos del presente Acuerdo se entenderá por:
+
+> <small>(ADICIONADA POR EL ARTÍCULO 5 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, ASÍ COMO LOS DIVERSOS ACUERDOS GENERALES QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE PUEBLA, DURANGO, YUCATÁN, ZACATECAS, GUANAJUATO, BAJA CALIFORNIA SUR, QUERÉTARO, SAN LUIS POTOSÍ, COAHUILA DE ZARAGOZA, SINALOA, OAXACA, CHIHUAHUA, CHIAPAS, NAYARIT Y TLAXCALA, PARA PRECISAR LA TEMPORALIDAD EN EL CARGO DE ADMINISTRADOR, D.O.F. 22 DE FEBRERO DE 2016)</small>
+
+I. Administrador: Juez de Distrito encargado de la administración del Centro de Justicia Penal Federal;
+
+II. Centro: Centro de Justicia Penal Federal en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre;
+
+III. Consejo: Consejo de la Judicatura Federal;
+
+IV. Jueces de Control y tribunales de Enjuiciamiento: Jueces de Distrito especializados en el sistema penal acusatorio;
+
+V. Órganos Jurisdiccionales: jueces de Control, así como tribunales de Enjuiciamiento y de Alzada;
+
+VI. Pleno: Pleno del Consejo; y
+
+VII. Tribunal de Alzada: Tribunal Unitario de Circuito con competencia especializada en el sistema penal acusatorio.
+
+###### Artículo 3.
+
+El Centro iniciará funciones a partir de las cero horas del dieciséis de marzo de dos mil quince.
+
+> <small>(REFORMADO POR EL PUNTO DÉCIMO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO A LA INTEGRACIÓN DE LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 23 DE FEBRERO DE 2018)</small>
+
+###### Artículo 4.
+
+El Centro se integrará por los jueces de Distrito y Tribunales de Alzada que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
+
+Los jueces de Distrito a que se refiere este artículo tendrán competencia para actuar indistintamente como jueces de control y tribunales de enjuiciamiento, debiendo especificar el carácter de su actuación en las constancias respectivas, sin embargo, aquellos que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales.
+
+El Centro contará con la plantilla laboral autorizada, y la Administración del Centro se regirá conforme a las disposiciones del Acuerdo General 36/2014 del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal. El turno como Administrador corresponderá al Juez de Distrito del Centro que sea designado por el Consejo, cuya duración en el cargo será determinada conforme lo dispuesto por el ordenamiento antes citado.
+
+> <small>(REFORMADO POR EL TRANSITORIO DÉCIMO DEL ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2016)</small>
+
+###### Artículo 5.
+
+Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 8 y 9, del Acuerdo General 39/2016, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación.
+
+###### Artículo 6.
+
+La jurisdicción territorial de los órganos jurisdiccionales del Centro comprenderá el Estado de Zacatecas, con la totalidad de sus municipios.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 7/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MAYO DE 2018)</small>
+
+###### Artículo 7.
+
+El domicilio del Centro de Justicia será el ubicado en calle Tiro de la Esperanza 202 entre derecho de la vía antigua Carretera a Fresnillo y derecho de vía del Ferrocarril, código postal 98160, Ciudad Administrativa en Zacatecas, Zacatecas.
+
+Toda la correspondencia relacionada con los asuntos de competencia del Centro deberá dirigirse al domicilio indicado.
+
+###### Artículo 8.
+
+El Centro contará con una Oficialía de Partes Común, que dará servicio a los órganos jurisdiccionales que lo integran, de conformidad con las disposiciones aplicables.
+
+El sistema de turno y distribución de asuntos será automatizado y aleatorio, con excepción de lo siguiente:
+
+I. Los asuntos urgentes que se reciban durante las guardias, cuya atención corresponderá al juez de Distrito que deba cubrirla; y
+
+II. Los asuntos relacionados durante una misma etapa procesal.
+
+Corresponde a las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información el diseño operativo del sistema automatizado de turno y distribución de asuntos; y la elaboración de sus lineamientos, los cuales serán sometidos directamente por éstas a consideración y, en su caso, aprobación de la Comisión de Creación de Nuevos Órganos.
+
+En el diseño del sistema se deberá tomar en consideración las guardias y las vacaciones para equilibrar la distribución de los asuntos.
+
+En aquellas situaciones en que por caso fortuito o fuerza mayor no pueda utilizarse el sistema automatizado, el Oficial de Partes con la anuencia y supervisión del Administrador, turnará los asuntos nuevos en el estricto orden secuencial en que se presenten; y los relacionados durante la misma etapa del procedimiento al órgano jurisdiccional correspondiente, sin embargo, deberá observarse que aquellos jueces de Distrito que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales.
+
+###### Artículo 9.
+
+A partir de las cero horas del dieciséis de marzo de dos mil quince, la Oficialía de Partes del Centro, funcionará las veinticuatro horas, todos los días del año, para la recepción, registro, turno y envío de los asuntos.
+
+No obstante lo dispuesto en el párrafo anterior, de lunes a viernes durante el horario de las dieciocho a las ocho horas con cincuenta y nueve minutos del día siguiente, así como los días inhábiles, la Oficialía de Partes sólo recibirá las promociones de término que se presenten.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -353,119 +451,79 @@ XXII.- EN COORDINACIÓN CON LAS AUTORIDADES EDUCATIVAS PROPONER, DESARROLLAR Y A
 
 XXIII.- LAS DEMÁS ATRIBUCIONES AFINES A LAS ANTERIORES QUE SE REQUIERAN PARA EL CUMPLIMIENTO DE LOS OBJETIVOS DE LOS SISTEMAS NACIONAL Y ESTATAL DE SALUD.
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-PARA LOS EFECTOS DE LA FRACCIÓN IV DEL ARTÍCULO 9o. DE ESTA LEY, SE ENTENDERÁ COMO NORMAS TÉCNICAS EL CONJUNTO DE REGLAS DE CARÁCTER OBLIGATORIO, EMITIDAS POR LA SECRETARÍA ESTATAL DE SALUD QUE ESTABLEZCAN LOS REQUISITOS QUE DEBAN SATISFACERSE EN EL DESARROLLO DE ACTIVIDADES EN LAS MATERIAS DE SALUBRIDAD LOCAL CONTEMPLADAS EN EL APARTADO "B" DEL ARTÍCULO 4o. DE ESTA LEY, CON EL OBJETO DE UNIFORMAR PRINCIPIOS, CRITERIOS, POLÍTICAS Y ESTRATEGIAS.
+Los órganos jurisdiccionales, así como el personal adscrito a los mismos, laborarán de lunes a viernes de las nueve a las quince horas y de las dieciséis a las dieciocho horas, con una hora para la ingesta de alimentos, fuera de las instalaciones del órgano jurisdiccional, de las quince a las dieciséis horas, sin perjuicio de las medidas de organización interna que adopten sus titulares atendiendo a las necesidades del servicio.
 
-###### ARTICULO 11.
+###### Artículo 11.
 
-EL EJECUTIVO ESTATAL PODRÁ CELEBRAR CON EL EJECUTIVO FEDERAL ACUERDOS DE COORDINACIÓN PARA LA PRESTACIÓN DE LOS SERVICIOS DE SALUBRIDAD GENERAL, EN LOS TÉRMINOS DEL ARTÍCULO 18 DE LA LEY GENERAL DE SALUD Y DEMÁS DISPOSICIONES LEGALES APLICABLES.
+Las guardias de turno para la atención de asuntos en días y horas inhábiles de los jueces en su función de control se realizarán de forma semanal, en el siguiente orden:
 
-###### ARTICULO 12.
+I. Juez Primero de Distrito Especializado en el Sistema Penal Acusatorio;
 
-LA PRESTACIÓN DE LOS SERVICIOS DE SALUD A POBLACIÓN ABIERTA SE LLEVARÁ A CABO MEDIANTE LA OPERACIÓN DE LOS SERVICIOS ESTATALES DE SALUD. EL EJECUTIVO DEL ESTADO PODRÁ, EN LOS TÉRMINOS DE LAS DISPOSICIONES JURÍDICAS APLICABLES, DECRETAR LA CREACIÓN DE UN ORGANISMO PÚBLICO QUE SE HAGA CARGO DE ÉSTOS SERVICIOS.
+II. Juez Segundo de Distrito Especializado en el Sistema Penal Acusatorio;
 
-###### ARTICULO 13.
+III. Juez Tercero de Distrito Especializado en el Sistema Penal Acusatorio; y
 
-EL EJECUTIVO DEL ESTADO PODRÁ CELEBRAR CONVENIOS DE COORDINACIÓN Y COOPERACIÓN SANITARIOS CON LOS GOBIERNOS DE OTROS ESTADOS SOBRE AQUELLAS MATERIAS QUE LE SEAN DE INTERÉS COMÚN.
+IV. Juez Cuarto de Distrito Especializado en el Sistema Penal Acusatorio.
 
-###### ARTICULO 14.
+La guardia de turno en días y horas inhábiles, finaliza el día lunes de cada semana a las ocho horas con cincuenta y nueve minutos e inicia el mismo día a las nueve horas.
 
-CON EL PROPÓSITO DE COADYUVAR A LA PRESTACIÓN DE LOS SERVICIOS DE SALUD, LAS INSTITUCIONES INTEGRANTES DEL SISTEMA ESTATAL DE SALUD PODRÁN LLEVAR A CABO, ENTRE SÍ, ACCIONES DE SUBROGACIÓN DE SERVICIOS.
+El Administrador del Centro adoptará las medidas administrativas necesarias, a fin de que el Tribunal de Alzada del Centro esté en posibilidad de resolver las apelaciones de término previstas en el Código Nacional de Procedimientos Penales.
 
-###### ARTICULO 15.
+###### Artículo 12.
 
-LA CONCERTACIÓN DE ACCIONES ENTRE EL GOBIERNO DEL ESTADO POR CONDUCTO DE LA SECRETARÍA ESTATAL DE SALUD Y LOS INTEGRANTES DE LOS SECTORES SOCIAL Y PRIVADO, SE REALIZARÁ MEDIANTE ACUERDOS QUE SE SUJETARÁN A LAS SIGUIENTES BASES:
+Los juzgadores que integran el Centro llevarán Libros de Gobierno Electrónicos, que se integrarán con la información que se registre en el sistema informático respectivo.
 
-I.- DEFINICIÓN DE LAS RESPONSABILIDADES QUE ASUMAN LOS INTEGRANTES DE LOS SECTORES SOCIAL Y PRIVADO;
+###### Artículo 13.
 
-II.- DETERMINACIÓN DE LAS ACCIONES DE ORIENTACIÓN Y APOYO QUE LLEVARÁ A CABO LA SECRETARÍA ESTATAL DE SALUD;
+Los reportes estadísticos deberán remitirse a la Dirección General de Estadística Judicial, en la forma y tiempos que ésta determine.
 
-III.- ESPECIFICACIÓN DEL CARÁCTER OPERATIVO DE LA CONCERTACIÓN DE ACCIONES, CON RESERVA DE LAS FUNCIONES DE AUTORIDAD DE LA SECRETARÍA ESTATAL DE SALUD; Y
+###### Artículo 14.
 
-IV.- DETERMINACIÓN DE LAS DEMÁS ESTIPULACIONES QUE DE COMÚN ACUERDO ESTABLEZCAN LAS PARTES.
+Los titulares de los órganos jurisdiccionales del Centro, deberán levantar de manera individual un acta administrativa, por duplicado, del inicio de sus funciones, cuyo formato le será proporcionado por la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, debiendo remitir un ejemplar a la propia Secretaría Ejecutiva.
 
-###### ARTICULO 16.
+###### Artículo 15.
 
-LA SECRETARÍA ESTATAL DE SALUD, CON LA PARTICIPACIÓN QUE CORRESPONDA AL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO EN LA ENTIDAD, ELABORARÁ Y PROPONDRÁ AL EJECUTIVO DEL ESTADO EL PROYECTO DEL PROGRAMA ESTATAL DE SALUD, TOMANDO EN CUENTA LAS PRIORIDADES DE LOS SISTEMAS NACIONAL Y ESTATAL DE SALUD.
+El Centro contará con el número suficiente de defensores públicos y oficiales de apoyo, en razón de la cantidad de los juzgadores que lo integran.
 
-###### ARTICULO 17.
+###### Artículo 16.
 
-CORRESPONDE AL EJECUTIVO DEL ESTADO, A TRAVÉS DE LA SECRETARÍA ESTATAL DE SALUD EN COORDINACIÓN CON EL EJECUTIVO FEDERAL, ORGANIZAR, ADMINISTRAR, OPERAR Y EVALUAR LOS SERVICIOS DE SALUD A QUE SE REFIERE EL APARTADO "A" DEL ARTÍCULO 4o. DE ESTA LEY.
+Los jueces de control contarán con un sistema de acceso electrónico, mediante mecanismos tecnológicos que aseguren la confidencialidad de la información, para favorecer la comunicación con el Ministerio Público de la Federación y demás autoridades, así como con las personas autorizadas por éstas, que por razón de su función deban ingresar solicitudes de providencias precautorias o relacionadas con medidas de protección, así como actos de investigación que requieren autorización judicial.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSOS ACUERDOS GENERALES, D.O.F. 1 DE JUNIO DE 2015)</small>
 
-ARTICULO 17 BIS.- SE CREA EL CONSEJO ESTATAL DE SALUD QUE TENDRÁ COMO OBJETIVO COORDINAR LAS ACCIONES DE LOS SECTORES PÚBLICO, SOCIAL Y PRIVADO EN EL SISTEMA ESTATAL DE SALUD.
+###### Artículo 17.
 
-EL CONSEJO ESTARÁ INTEGRADO POR:
+En caso de que sea necesario sustituir a alguno de los jueces de Distrito del Centro se estará a lo siguiente:
 
-I.- UN PRESIDENTE, QUE SERÁ EL TITULAR DEL EJECUTIVO DEL ESTADO;
+I. La sustitución recaerá en otro juez de Distrito del mismo Centro en el orden secuencial de su denominación, con exclusión de aquel que funja como Administrador;
 
-II.- UN PRESIDENTE EJECUTIVO QUE SERÁ EL SECRETARIO DE SALUD;
+II. En caso de no ser posible lo previsto en la fracción anterior, la sustitución recaerá en el Administrador, en términos del artículo 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal; y
 
-III.- CINCO VOCALES QUE SERÁN:
+III. Si tampoco fuera posible, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal más cercano, en el orden de su denominación.
 
-A) EL TITULAR DE LA SECRETARÍA DE EDUCACIÓN;
+> <small>(REFORMADO POR EL ACUERDO GENERAL 55/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2017)</small>
 
-B) EL TITULAR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA;
+Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios del Vigésimo Tercer Circuito con residencia en Zacatecas, Zacatecas, para conocer con ese carácter y en el orden numérico de su denominación, de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
 
-C) TRES PRESIDENTES MUNICIPALES, INVITADOS POR EL TITULAR DEL EJECUTIVO DEL ESTADO; Y
-
-D) DOS REPRESENTANTES DE LOS USUARIOS, DESIGNADOS POR EL TITULAR DEL EJECUTIVO DEL ESTADO.
-
-LOS INTEGRANTES DEL CONSEJO, MENCIONADOS EN LOS NUMERALES I, II Y III DE ESTE ARTÍCULO, TENDRÁN DERECHO A VOZ Y VOTO. EL PRESIDENTE PODRÁ INVITAR A PARTICIPAR EN ESTE CONSEJO A LOS DELEGADOS DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS), DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DEL ESTADO (ISSSTE), AL DIRECTOR DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN (ISSSTELEON), A LOS DIRECTORES DE DOS FACULTADES DE MEDICINA DEL ESTADO; AL PRESIDENTE DE UN COLEGIO DE MÉDICOS CON RESIDENCIA EN EL ESTADO Y AL DIRECTOR DE UN HOSPITAL PRIVADO DEL ESTADO QUIENES TENDRÁN DERECHO DE VOZ.
-
-DE IGUAL MANERA, CUANDO RESULTE NECESARIO PARA EL DESARROLLO DE LAS FUNCIONES DEL CONSEJO, EL PRESIDENTE Y EL PRESIDENTE EJECUTIVO PODRÁN INVITAR, SI LO ESTIMA CONVENIENTE, A REPRESENTANTES DE OTROS MUNICIPIOS, DEPENDENCIA (SIC) Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO, ASÍ COMO REPRESENTANTES DE ORGANIZACIONES SOCIALES Y PRIVADAS Y A CUALQUIER PERSONA O INSTITUCIÓN RELACIONADAS CON LAS FUNCIONES DEL CONSEJO, QUIENES PARTICIPARÁN EN LAS SESIONES CON DERECHO A VOZ.
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2006)</small>
-
-ARTICULO 17 BIS-1.- EL CONSEJO ESTATAL DE SALUD CONTARÁ CON LAS SIGUIENTES COMISIONES:
-
-I.- COMISIÓN DE VIGILANCIA EPIDEMIOLÓGICA;
-
-II.- COMISIÓN ESTATAL CONTRA LAS ADICCIONES;
-
-III.- COMISIÓN DE PREVENCIÓN DE ACCIDENTES;
-
-IV.- COMISIÓN INTERINSTITUCIONAL DE TRASPLANTES;
-
-V.- COMISIÓN CONSULTIVA EN MATERIA DE REGULACIÓN, CONTROL Y FOMENTO SANITARIO DE ESTABLECIMIENTOS; PRODUCTOS Y SERVICIOS;
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-VI.- COMISIÓN CONTRA EL CONSUMO ABUSIVO DEL ALCOHOL;
-
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
-
-VII.- COMISIÓN DE ATENCIÓN A ENFERMEDADES RARAS EN EL ESTADO;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2019)</small>
-
-VIII.- COMISIÓN PARA LA ATENCIÓN DE LA MUJER DURANTE EL EMBARAZO, PARTO Y PUERPERIO; Y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2019)</small>
-
-IX.- LAS DEMÁS QUE DETERMINE EL CONSEJO.
-
-LAS FUNCIONES DEL CONSEJO Y SUS COMISIONES, ASÍ COMO LA INTEGRACIÓN DE ÉSTAS SE REGULARÁN EN EL REGLAMENTO DEL CONSEJO ESTATAL DE SALUD.
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 39/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ## TITULO TERCERO. PRESTACION DE LOS SERVICIOS DE SALUD
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
-###### ARTICULO 18.
+###### Artículo 18.
 
-PARA LOS EFECTOS DE ESTA LEY, SE ENTIENDE POR SERVICIOS DE SALUD TODAS AQUELLAS ACCIONES REALIZADAS EN BENEFICIO DEL INDIVIDUO Y DE LA SOCIEDAD EN GENERAL DIRIGIDAS A PROTEGER, PROMOVER Y RESTAURAR LA SALUD DE LA PERSONA Y DE LA COLECTIVIDAD.
+El personal de los juzgados de Distrito del Centro junto con su titular disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 160 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero, en términos del artículo 100 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, en el orden que los titulares de dichos órganos jurisdiccionales consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine. En todo caso deberán de permanecer dos jueces de Distrito en el Centro, para lo cual deberá contabilizarse al que funja como Administrador, supuesto en el cual se deberá observar lo previsto en el artículo 8, fracción I, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
 
-###### ARTICULO 19.
+El personal del Tribunal de Alzada del Centro disfrutará de los períodos vacacionales en los términos precisados. Lo mismo sucederá con el personal de la Administración del Centro, sin embargo, en este caso el Administrador deberá tomar las medidas necesarias para que haya servidores públicos de guardia en el mismo, durante dicho periodo vacacional, a fin de que el Centro no detenga su actividad.
 
-LOS SERVICIOS DE SALUD SE CLASIFICAN EN TRES TIPOS:
+La propia Comisión de Carrera Judicial, previo análisis de las solicitudes presentadas, podrá autorizar el disfrute de las vacaciones fuera de los meses de julio y agosto y, diciembre y enero, siempre y cuando existan causas excepcionales y justificadas para ello.
 
-I.- DE ATENCIÓN MÉDICA;
+###### Artículo 19.
 
-II.- DE SALUD PÚBLICA; Y
-
-III.- DE ASISTENCIA SOCIAL.
+El Pleno y las Comisiones del Consejo, en el ámbito de su competencia, interpretarán y resolverán todas las cuestiones administrativas que se susciten con motivo de la aplicación del presente Acuerdo.
 
 ###### ARTICULO 20.
 
@@ -1881,11 +1939,61 @@ LAS ÓRDENES PODRÁN EXPEDIRSE PARA VISITAR ESTABLECIMIENTOS DE UNA RAMA DETERMI
 
 TRATÁNDOSE DE ACTIVIDADES QUE SE REALICEN A BORDO DE VEHÍCULOS O EN LA VÍA PÚBLICA, LAS ÓRDENES PODRÁN DARSE PARA VIGILAR UNA RAMA DETERMINADA DE ACTIVIDADES O UNA ZONA QUE SE DELIMITARÁ EN LA MISMA ORDEN.
 
-###### ARTICULO 116.
+###### Artículo 116.
 
-LOS INSPECTORES SANITARIOS, EN EL EJERCICIO DE SUS FUNCIONES TENDRÁN LIBRE ACCESO A LOS EDIFICIOS, ESTABLECIMIENTOS COMERCIALES, INDUSTRIALES, DE SERVICIOS Y, EN GENERAL, A TODOS LOS LUGARES A QUE HACE REFERENCIA ESTA LEY.
+El libro medidas precautorias y cautelares, así como técnicas de investigación constará de seis columnas con los rubros: Número de orden, Autoridad solicitante, Tipo de medida o técnica solicitada, Resolución, Fecha de notificación a la autoridad y Observaciones, las cuales deberán llenarse de la siguiente forma:
 
-LOS PROPIETARIOS, RESPONSABLES, ENCARGADOS Y OCUPANTES DE ESTABLECIMIENTOS O CONDUCTORES DE VEHÍCULOS OBJETO DE INSPECCIÓN, ESTARÁN OBLIGADOS A PERMITIR EL ACCESO Y A DAR FACILIDADES E INFORMES A LOS INSPECTORES PARA EL DESARROLLO DE SU LABOR.
+I. Número de orden: se anotarán con numeración progresiva y ascendente las solicitudes, atendiendo a la fecha de su recepción, según corresponda, en la oficialía de partes o en el sistema electrónico del propio órgano que deba conocer de la misma; si la recibe un secretario de ese juzgado, esta será la fecha que se asiente, pero si el secretario corresponde a un juzgado diverso, la fecha que se anotará será aquella en que se reciba en el juzgado del conocimiento;
+
+II. Solicitante: se señalará la denominación de la autoridad que solicite la medida o técnica de investigación o, en su caso, el nombre de quien promueve;
+
+III. Tipo de solicitud: se especificará de manera clara y concreta, el tipo de medida o técnica de investigación que corresponda, o si se trata de una solicitud de conclusión;
+
+IV. …
+
+a) Fecha de resolución: se anotará el día, mes y año en que se pronuncie la resolución que recaiga a la solicitud; y
+
+b) Sentido: se asentará la expresión “librada” o “parcialmente librada”, según corresponda, cuando se otorgue la medida o autorización de técnica de investigación, o bien, la palabra “negada”, cuando sea el caso; o de ser procedente “concluida”;
+
+V. Fecha de notificación: se asentará el día, el mes y el año en que se notifique a la autoridad solicitante el proveído que resuelva la petición o, en su caso, la conclusión a quien proceda; y
+
+VI. Observaciones: se deberán anotar los supuestos en que se promueva la apelación en contra de la resolución, así como el resultado obtenido en el mencionado recurso.
+
+…
+
+TABLA 5.
+
+> <small>[N. DE E. VÉASE TABLA 5 EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE JUNIO DE 2016, PÁGINA 90.]</small>
+
+DÉCIMO. Se reforma el artículo 5 de los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 51/2014; 52/2014; 1/2015; 2/2015; 31/2015; 32/2015; 33/2015; 34/2015; 44/2015; 45/2015; 46/2015; 47/2015; 48/2015; 49/2015; 50/2015; 3/2016; 4/2016; 5/2016; 6/2016; 7/2016; 8/2016: 9/2016; 10/2016; 11/2016; 24/2016; 25/2016; 26/2016; 27/2016; 31/2016; 32/2016; 33/2016; y 37/2016 que crean los Centros de Justicia Penal Federal en los Estados de Puebla; Durango; Yucatán; Zacatecas; Guanajuato; Baja California Sur; Querétaro; San Luis Potosí; Coahuila de Zaragoza, con residencia en Torreón; Sinaloa, con residencia en Culiacán; Oaxaca, con residencia en San Bartolo Coyotepec; Chihuahua, con residencia en la ciudad del mismo nombre; Chiapas, con residencia en Cintalapa de Figueroa; Nayarit, con residencia en Tepic; Tlaxcala con residencia en Apizaco; Ciudad de México, con sede en los reclusorios Oriente, Sur y Norte; Estado de México, con residencia en Nezahualcóyotl; Morelos, con residencia en Cuernavaca; Hidalgo, con residencia en Pachuca; Colima, con residencia en la ciudad del mismo nombre; Aguascalientes, con residencia en la ciudad del mismo nombre; Tabasco, con residencia en Villahermosa; Nuevo León, con residencia en Cadereyta; Quintana Roo, con residencia en Cancún; Sonora, con residencia en Hermosillo; Veracruz, con residencia en las ciudades de Xalapa y Coatzacoalcos; Michoacán, con residencia en Morelia; Campeche, con residencia en San Francisco de Campeche; Tamaulipas, con residencia en Reynosa y Ciudad Victoria; Guerrero, con residencia en Acapulco; Baja California, con residencia en las ciudades de Mexicali y Tijuana; y Jalisco, con residencia en el complejo penitenciario Puente Grande; para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 8 y 9, del Acuerdo General 39/2016, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación.”
+
+DÉCIMO PRIMERO. Se reforman los numerales SEGUNDO, fracción I, número 4; y CUARTO, fracción I, párrafo segundo; y se deroga el párrafo tercero de la fracción I del numeral CUARTO, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. …
+
+1. a 3. …
+
+4. Ocho Juzgados Federales Penales Especializados: seis en Cateos, Arraigos e Intervención de Comunicaciones, y dos en Medidas Cautelares y Control de Técnicas de Investigación, todos con residencia en la Ciudad de México.
+
+5. …
+
+II. a XXXII. …
+
+CUARTO. …
+
+I. …
+
+Los juzgados de Distrito con residencia en la Ciudad de México ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquélla, con excepción de los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones; los Juzgados de Distrito Especializados en Ejecución de Penas; y los Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación; que ejercerán jurisdicción territorial, en toda la República Mexicana.
+
+Derogado.
+
+II. a XXXIII. …”.
+
+D.O.F. 27 DE ENERO DE 2017.
 
 ###### ARTICULO 117.
 
@@ -2323,147 +2431,131 @@ EN LA TRAMITACIÓN DEL RECURSO DE INCONFORMIDAD, SE APLICARÁ SUPLETORIAMENTE EL
 
 ## TRANSITORIOS
 
-PRIMERO:- LA PRESENTE LEY ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE LA FECHA DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
+PRIMERO. El presente Acuerdo entrará en vigor, para efectos legales, el dieciséis de marzo de dos mil quince, con excepción de lo dispuesto en los párrafos siguientes.
 
-SEGUNDO:- SE ABROGAN, EL REGLAMENTO DEL CONSEJO DE SALUBRIDAD, PUBLICADO EN EL PERIÓDICO OFICIAL DEL 24 DE SEPTIEMBRE DE 1901; REGLAMENTO PROVISIONAL PARA EL RÉGIMEN ECONÓMICO DEL CONSEJO DE SALUBRIDAD PÚBLICA DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL 9 DE JULIO DE 1889; LA LEY DEL CONSEJO DE SALUBRIDAD, PUBLICADO EN EL PERIÓDICO OFICIAL DEL 12 DE DICIEMBRE DE 1928; REGLAMENTO PARA BAÑOS PÚBLICOS PUBLICADO EN EL PERIÓDICO OFICIAL DE SEPTIEMBRE 11 DE 1928; REGLAMENTO PARA LA INSPECCIÓN DE LECHERÍAS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL 31 DE OCTUBRE DE 1902; DISPOSICIONES RELATIVAS A LOS TRAFICANTES EN EL RAMO DE LA LECHE, PUBLICADO EN EL PERIÓDICO OFICIAL DEL 27 DE ABRIL DE 1929; REGLAMENTO PARA LA INDUSTRIA DE LA LECHE Y SUS DERIVADOS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL 12 DE FEBRERO DE 1935; REGLAMENTO SOBRE PRODUCCIÓN, EXPLOTACIÓN Y VENTA DE LA LECHE Y SUS DERIVADOS EN EL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL 28 DE AGOSTO DE 1946; LEY PARA LA VENTA DE SUBSTANCIAS MEDICINALES, PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE NOVIEMBRE DE 1891; REGLAMENTO DE LA LEY RELATIVA A LA VENTA DE SUBSTANCIAS MEDICINALES PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE ABRIL DE 1905; DISPOSICIONES RELATIVAS AL COMERCIO Y ELABORACIÓN DE PRODUCTOS MEDICINALES EN EL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL PERIÓDICO OFICIAL DEL 8 DE MARZO DE 1930; EL REGLAMENTO DE LA PROSTITUCIÓN EN MONTERREY PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 3 DE NOVIEMBRE DE 1885; LA LEY REGLAMENTARIA PARA EL EJERCICIO DE LAS PROFESIONES MÉDICAS Y SUS RAMAS EN EL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL EL 10 DE DICIEMBRE DE 1932; Y SE DEROGAN LAS DEMÁS DISPOSICIONES LEGALES EN LO QUE SE OPONGAN A LA PRESENTE LEY.
+Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que el Centro de Justicia Penal a que se refiere este Acuerdo, entre en operación en la fecha señalada en este artículo.
 
-TERCERO:- EN TODO LO NO PREVISTO POR ESTA LEY Y SUS REGLAMENTOS SE APLICARÁN LAS DISPOSICIONES DE LA LEY GENERAL DE SALUD Y LOS REGLAMENTOS QUE DE ELLA SE DERIVEN.
+El Administrador del Centro llevará a cabo las acciones de coordinación que sean necesarias para garantizar el funcionamiento del mismo en dicha fecha.
 
-CUARTO:- SE CONCEDE UN PLAZO DE NOVENTA DÍAS CONTADOS A PARTIR DE QUE ENTRE EN VIGOR LA PRESENTE LEY, PARA QUE LOS PROPIETARIOS DE UNIDADES DEL TRANSPORTE ESTATAL Y MUNICIPAL PROCEDAN A DAR CUMPLIMIENTO A LO DISPUESTO POR LAS FRACCIONES II Y III DEL ARTÍCULO 79 DE LA PRESENTE LEY.
+SEGUNDO. La primera guardia corresponderá al Juez Primero de Distrito Especializado en el Sistema Penal Acusatorio, misma que iniciará el dieciséis de marzo de dos mil quince a partir de las 00:00 horas.
 
-QUINTO:- EN TANTO SE EXPIDAN LOS REGLAMENTOS Y NORMAS TÉCNICAS EN MATERIA DE SALUBRIDAD LOCAL, SE APLICARÁN LOS REGLAMENTOS Y NORMAS TÉCNICAS VIGENTES EXPEDIDOS POR LA SECRETARÍA DE SALUD.
+> <small>(REFORMADO POR EL ACUERDO GENERAL 55/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2017)</small>
 
-Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
+TERCERO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita a los Tribunales Unitarios del Vigésimo Tercer Circuito con residencia en Zacatecas, Zacatecas, para conocer, en el orden numérico de su denominación, de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
 
-Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital, a los treinta días del mes de noviembre de mil novecientos ochenta y ocho.- PRESIENTE: DIP. LEONCIO ORTEGA HINOJOSA; DIP. SECRETARIO: ARTURO CANTU GARZA; DIP. SECRETARIO: ANTONIO LOPEZ ROCHA.- RUBRICAS.
+Los Tribunales Unitarios indicados precisarán en los actos procesales que celebren la denominación con la que actúan, dependiendo si lo hacen conforme al citado Código o al Código Federal de Procedimientos Penales.
 
-Por tanto mando se imprima, publique, circule y se le de el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los seis días del mes de diciembre de mil novecientos ochenta y ocho
+Estos Tribunales Unitarios quedan exceptuados de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirán por las disposiciones aplicables como tribunal unitario de Circuito.
 
-EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO
+CUARTO. A la entrada en vigor de la legislación en materia de ejecución de penas será habilitado el Juez de Distrito de Ejecución de Sanciones Penales correspondiente.
 
-LIC. JORGE A. TREVIÑO
+QUINTO. En tanto se ordena la utilización de los libros de control electrónicos, el Administrador del Centro con el apoyo de su personal deberá realizar los registros de los asuntos que ingresen en libretas auxiliares.
 
-EL C. SECRETARIO GENERAL DE GOBIERNO
+SEXTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
-LIC. JOSE N. GONZALEZ PARAS
+EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 2/2015, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Zacatecas, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veintiuno de enero de dos mil quince, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a veinticuatro de febrero de dos mil quince.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 26 DE NOVIEMBRE DE 1993.
+D.O.F. 1 DE JUNIO DE 2015.
 
-UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-P.O. 26 DE JULIO DE 1999.
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
-UNICO: El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+D.O.F. 11 DE SEPTIEMBRE DE 2015.
 
-P.O. 14 DE ENERO DE 2005.
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-Artículo Primero.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
-Artículo Segundo.- Los Consejos Municipales deberán quedar instalados dentro de un término de 60 días a partir de la iniciación de la vigencia del presente Decreto.
+D.O.F. 22 DE FEBRERO DE 2016.
 
-P.O. 10 DE FEBRERO DE 2006.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, ASÍ COMO LOS DIVERSOS ACUERDOS GENERALES QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE PUEBLA, DURANGO, YUCATÁN, ZACATECAS, GUANAJUATO, BAJA CALIFORNIA SUR, QUERÉTARO, SAN LUIS POTOSÍ, COAHUILA DE ZARAGOZA, SINALOA, OAXACA, CHIHUAHUA, CHIAPAS, NAYARIT Y TLAXCALA, PARA PRECISAR LA TEMPORALIDAD EN EL CARGO DE ADMINISTRADOR”.]
 
-Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO. El presente Acuerdo entrará en vigor al día de su aprobación.
 
-Artículo Segundo.- El artículo 22 fracción XVII de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León entrará en vigor el día 15 de febrero de 2006.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
-Artículo Tercero.- El Ejecutivo del Estado y las autoridades municipales en el ámbito de su competencia, deberán expedir, en un término que no exceda de noventa días contados a partir de la entrada en vigor del presente decreto, las disposiciones reglamentarias que regulen el servicio comunitario.
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
-Artículo Cuarto.- El Ejecutivo del Estado deberá expedir en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto el Reglamento del Consejo Estatal de Salud, en el cual deberán regularse las funciones del Consejo y sus Comisiones, así como la integración de éstas.
+D.O.F. 17 DE JUNIO DE 2016.
 
-Artículo Quinto.- Se concede a las personas físicas y morales que transporten con fines comerciales bebidas alcohólicas dentro del Estado de Nuevo León, un plazo de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para obtener la Autorización de Transporte de Bebidas Alcohólicas expedida por la Secretaría de Salud, en los términos de las disposiciones de este Decreto.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREAN JUZGADOS DE DISTRITO ESPECIALIZADOS EN MEDIDAS CAUTELARES Y CONTROL DE TÉCNICAS DE INVESTIGACIÓN”.]
 
-P.O. 12 DE FEBRERO DE 2007.
+PRIMERO. El presente Acuerdo entrará en vigor el veintiuno de junio de 2016, con excepción de lo dispuesto en el Transitorio OCTAVO.
 
-DECRETO No. 24, POR EL QUE SE REFORMA LA LEY ESTATAL DE SALUD POR MODIFICACIÓN DEL TERCER PÁRRAFO DEL ARTÍCULO 73 Y POR ADICIÓN DE LOS ARTÍCULOS 73 BIS, 73 BIS I, 73 BIS II Y 73 BIS III.
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+TERCERO. Los Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación conocerán de las solicitudes que se presenten a partir de la entrada en vigor de este Acuerdo. Sin embargo, tratándose de las relacionadas con el nuevo sistema procesal penal acusatorio, además, tendrán que ser derivadas de asuntos iniciados a partir de la entrada en vigor de dicho sistema, con independencia de que los hechos hayan acontecido con anterioridad.
 
-P.O. 12 DE FEBRERO DE 2007.
+CUARTO. Los asuntos regulados en el artículo 8 de este Acuerdo que a la entrada en vigor del mismo estén en trámite, en los Centros de Justicia Penal Federal, deberán concluirse con las disposiciones con las que fueron iniciados.
 
-DECRETO No. 25, POR EL QUE SE REFORMA EL ARTÍCULO 4 EN SU APARTADO A POR ADICIÓN DE UNA FRACCIÓN XXI, PARA QUE LA ACTUAL XXI PASE A SER XXII; DEL ARTÍCULO 8 POR MODIFICACIÓN A LA FRACCIÓN III Y POR ADICIÓN DE UNA FRACCIÓN IX; ASÍ MISMO DEL ARTÍCULO 9 POR ADICIÓN DE UNA FRACCIÓN XXI, PARA QUE LA ACTUAL XXI PASE A SER XXII DE LA LEY ESTATAL DE SALUD.
+QUINTO. Las firmas electrónicas que hayan sido expedidas con anterioridad a la entrada en vigor del presente Acuerdo seguirán vigentes.
 
-Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEXTO. Se deroga toda disposición que se oponga al presente Acuerdo.
 
-P.O. 16 DE FEBRERO DE 2007.
+SÉPTIMO. Los libros físicos que contengan las columnas que se modifican con motivo de la entrada en vigor de este Acuerdo que tengan en existencia el Consejo de la Judicatura Federal o los órganos jurisdiccionales o, cuya impresión ya haya sido contratada, podrán utilizarse.
 
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+OCTAVO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas competentes que le están adscritas, llevará a cabo las acciones necesarias para que los Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación inicien funciones con los insumos necesarios, en la fecha señalada en el Transitorio Primero de este Acuerdo.
 
-Artículo Segundo.- En un término de hasta 60 días, contados a partir de la entrada en vigor del presente Decreto, quienes practiquen la Medicina tradicional, Complementaria o Alternativa, deberán registrarse en el área competente de la Secretaría de Salud en el Estado.
+NOVENO. Se reforma el artículo 102, fracción VI; la denominación de la Sección Sexta del Capítulo Segundo del Título Tercero; el artículo 116, primer párrafo; las fracciones I a III; los incisos a) y b) de la fracción IV; y las fracciones V y VI del mismo precepto; así como la Tabla 5 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, para quedar como sigue:
 
-P.O. 29 DE OCTUBRE DE 2007.
+“Artículo 102. …
 
-Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+I. a V. …
 
-P.O. 25 DE MAYO DE 2009.
+VI. Libro seis: medidas precautorias y cautelares, así como técnicas de investigación;
 
-Único: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+VII. a XVII. …
 
-P.O. 2 DE DICIEMBRE DE 2009.
+#### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
 
-Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 55/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 2/2015, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE ZACATECAS, RELACIONADO CON LA HABILITACIÓN DEL TRIBUNAL UNITARIO DE ALZADA”.]
 
-P.O. 24 DE DICIEMBRE DE 2010.
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Los asuntos que se encuentren ingresados en el Primer Tribunal Unitario del Vigésimo Tercer Circuito correspondientes al Centro de Justicia Penal Federal en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre, con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento del citado tribunal, hasta su conclusión.
 
-P.O. 30 DE NOVIEMBRE DE 2011.
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+CUARTO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos de la Oficialía de Partes del Centro y la Oficina de Correspondencia Común de los Tribunales Unitarios de Circuito habilitados, para, en su caso, compensar entre ellos la carga de trabajo en su doble función, prevista en los artículos 17 último párrafo y TERCERO transitorio del Acuerdo General 2/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Zacatecas.
 
-P.O. 27 DE ABRIL DE 2012.
+D.O.F. 23 DE FEBRERO DE 2018.
 
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO A LA INTEGRACIÓN DE LOS CENTROS DE JUSTICIA PENAL FEDERAL”.]
 
-P.O. 28 DE SEPTIEMBRE DE 2012.
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Se reforma el numeral QUINTO BIS, fracciones XXIV y XXV del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
 
-P.O. 7 DE DICIEMBRE DE 2013.
+“QUINTO BIS. …
 
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+I. a XXIII. …
 
-P.O. 16 DE ABRIL DE 2014.
+XXIV. El Centro de Justicia Penal Federal en el Estado de Oaxaca, con residencia en San Bartolo Coyotepec.
 
-Único.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+XXV. El Centro de Justicia Penal Federal en el Estado de Puebla, con residencia en la ciudad del mismo nombre.
 
-P.O. 25 DE ABRIL DE 2014.
+XXVI. a XXXVIII. …”
 
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+TERCERO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
 
-P.O. 30 DE DICIEMBRE DE 2015.
+D.O.F. 14 DE MAYO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 034. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN X DEL APARTADO B DEL ARTÍCULO 4 Y LA FRACCIÓN IX DEL ARTÍCULO 119; SE ADICIONA CON UN SEGUNDO PÁRRAFO EL ARTÍCULO 6 Y UN ARTÍCULO 97 BIS, TODOS DE LA LEY ESTATAL DE SALUD”.]
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 7/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DOMICILIO DEL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE ZACATECAS, CON RESIDENCIA EN ZACATECAS”.]
 
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO. El presente Acuerdo entrará en vigor el quince de mayo de dos mil dieciocho, con excepción de lo dispuesto en el Transitorio TERCERO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
 
-P.O. 16 DE MARZO DE 2016.
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 074. SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES II, III, IV Y V Y SE ADICIONAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 25 DE LA LEY ESTATAL DE SALUD”.]
+TERCERO. El Centro de Justicia Penal Federal en el Estado de Zacatecas, con residencia en Zacatecas, deberá colocar avisos en lugares visibles en relación con el cambio de domicilio.
 
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+CUARTO. Se reforma el artículo 7, párrafo primero, del Acuerdo General 2/2015, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Zacatecas, para quedar como sigue:
 
-P.O. 6 DE ABRIL DE 2016.
+“Artículo 7. El domicilio del Centro de Justicia será el ubicado en calle Tiro de la Esperanza 202 entre derecho de la vía antigua Carretera a Fresnillo y derecho de vía del Ferrocarril, código postal 98160, Ciudad Administrativa en Zacatecas, Zacatecas.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 090. POR EL QUE SE REFORMAN LA FRACCIÓN VIII DEL ARTICULO 35 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 38, AMBOS DE LA LEY ESTATAL DE SALUD”.]
-
-Único: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 6 DE ABRIL DE 2016.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 091. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 31 BIS Y SE ADICIONA UN ARTÍCULO 31 BIS 1, AMBOS DE LA LEY ESTATAL DE SALUD".]
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 22 DE NOVIEMBRE DE 2016.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 164. SE REFORMA EL ARTÍCULO 97 BIS DE LA LEY ESTATAL DE SALUD”.]
-
-Único.- El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
-
-P.O. 5 DE JULIO DE 2017.
+…”
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 270. SE REFORMAN LOS ARTÍCULOS 73, 73 BIS, 73 BIS II; Y SE ADICIONAN LOS ARTÍCULOS 73 BIS IV Y 73 BIS V, TODOS DE LA LEY ESTATAL DE SALUD".]
 
