@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2019-06-07"
+last_updated: "2021-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE JUICIO POLÍTICO DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 23 DE ABRIL DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2021 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -976,3 +978,15 @@ Cuarto.- Los formatos para declaración señalados en los artículos 29 y 34 del
 Quinto.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto, en materia de justicia administrativa.
 
 Sexto.- Los entes públicos que no tengan designado al Titular de su órgano interno de control, tendrán un plazo de 180 días naturales a partir de la entrada en vigor del presente Decreto para designarle.
+
+P.O. 23 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 473. SE EXPIDE LA LEY DE JUICIO POLÍTICO DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, publicada en el Periódico Oficial del Estado de fecha 29 de enero de 1997 y sus reformas.
+
+TERCERO.- Los procedimientos pendientes en materia de juicio político iniciados de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León deberán resolverse de conformidad con dicha ley.
+
+De existir traslación de conductas la autoridad competente realizará la que deba corresponder de conformidad con la nueva Ley de Juicio Político del Estado de Nuevo León que se expide por medio del presente Decreto.
