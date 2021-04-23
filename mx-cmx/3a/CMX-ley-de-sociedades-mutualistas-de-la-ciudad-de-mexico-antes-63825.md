@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-sociedades-mutualistas-de-la-ciudad-de-mexico-antes-6382
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-23"
-last_updated: "2014-11-28"
+last_updated: "2021-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63825&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2008-09-18"
 ---
 # LEY DE SOCIEDADES MUTUALISTAS DE LA CIUDAD DE MEXICO -- ANTES LEY DE SOCIEDADES MUTUALISTAS DEL DISTRITO FEDERAL --
 
-LEY DE SOCIEDADES MUTUALISTAS DEL DISTRITO FEDERAL
+LEY DE SOCIEDADES MUTUALISTAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ABRIL DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de octubre de 2008.
 
@@ -46,13 +46,17 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE SOCIEDADES MUTUALISTAS DEL DISTRITO FEDER
 
 ÚNICO.- Se expide la Ley de Sociedades Mutualistas del Distrito Federal, para quedar como sigue:
 
-LEY DE SOCIEDADES MUTUALISTAS DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE ABRIL DE 2021)</small>
+
+LEY DE SOCIEDADES MUTUALISTAS DE LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2021)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de interés público y tiene por objeto regular la organización y funcionamiento de las Sociedades Mutualistas en el Distrito Federal, así como las actividades y operaciones que pueden realizar.
+La presente Ley es de interés público y tiene por objeto regular la organización y funcionamiento de las Sociedades Mutualistas en la Ciudad de México, así como las actividades y operaciones que pueden realizar.
 
 ###### Artículo 2.
 
@@ -90,15 +94,23 @@ IV. Consejo de Vigilancia: Es el que tiene el ejercicio de la supervisión de la
 
 V. Código Civil: Al Código Civil para el Distrito Federal;
 
-VI. Ley: A la Ley de Sociedades Mutualistas del Distrito Federal;
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2021)</small>
+
+VI. Ley: A la Ley de Sociedades Mutualistas de la Ciudad de México;
 
 VII. Mutualizado: El Beneficiario y miembro de la Sociedad Mutualista, que tenga una actividad económica en común con los otros miembros de la mutualidad;
 
-VIII. Reglamento: Al Reglamento de la Ley de Sociedades Mutualista del Distrito Federal;
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2021)</small>
+
+VIII. Reglamento: Al Reglamento de la Ley de Sociedades Mutualista de la Ciudad de México;
 
 IX. Sociedad Mutualista: A la Asociación Civil constituida con base en el Código Civil que agrupa a personas físicas de una misma actividad y de cualquier sexo, raza, credo, residencia, sin capital fijo, ni fines de lucro, que tengan por objeto la mutua protección y ayuda a los asociados, en caso de enfermedad, muerte o de ambos casos, así como los daños que puedan sufrir en su patrimonio, pudiendo practicar, para realizar mejor sus fines sociales, toda clase de actividades lícitas que tengan por objeto su mejoramiento moral, intelectual y físico, y
 
-X. Secretaría: A la Secretaría de Trabajo y Fomento al Empleo del Distrito Federal.
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2021)</small>
+
+X. Secretaría: A la Secretaría de Trabajo y Fomento al Empleo de la Ciudad de México.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 23 DE ABRIL DE 2021)</small>
 
 ###### Artículo 4.
 
@@ -122,7 +134,11 @@ V. Máximo de responsabilidad adicional de los socios en un ejercicio, en caso d
 
 VI. Nombres de los consejeros, funcionarios y miembros del Consejo de Vigilancia o Comisarios.
 
-La autorización a que se refiere este artículo se publicará en la Gaceta Oficial del Distrito Federal, y en todo caso, en el Diario Oficial de la Federación, a costa de los interesados, así como las modificaciones a la misma. Los acuerdos de revocación se publicarán sin costo para la mutualista correspondiente.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 23 DE ABRIL DE 2021, PÁGINAS 6 Y 7.]</small>
+
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2021)</small>
+
+La autorización a que se refiere este artículo se publicará en la Gaceta Oficial de la Ciudad de México, y en todo caso, en el Diario Oficial de la Federación, a costa de los interesados, así como las modificaciones a la misma.
 
 Las Sociedades a que se refiere el artículo 4 de esta Ley, insertarán en su escritura social el número o clave de registro que les asigne la Secretaría.
 
@@ -140,7 +156,9 @@ La Secretaría podrá delegar su facultad sancionadora en los servidores públic
 
 IV. Hacer los estudios que estime adecuados para el desarrollo de las actividades que ofrezca a sus mutualizados;
 
-V. Proponer al Jefe de Gobierno del Distrito Federal los proyectos de Reglamento que sean necesarios para el eficaz cumplimiento de esta Ley, y
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2021)</small>
+
+V. Proponer a la persona titular de la Jefatura de Gobierno de la Ciudad de México, los proyectos de Reglamento que sean necesarios para el eficaz cumplimiento de esta Ley, y
 
 VI. Las demás que le estén atribuidas por esta Ley, el Reglamento y otros ordenamientos legales.
 
@@ -148,9 +166,11 @@ VI. Las demás que le estén atribuidas por esta Ley, el Reglamento y otros orde
 
 Podrán formar parte de las Sociedades Mutualistas todas las personas físicas de nacionalidad mexicana.
 
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2021)</small>
+
 ###### Artículo 8.
 
-En lo no previsto por la presente Ley, por lo que se refiere a la constitución y funcionamiento de las Sociedades, se aplicarán las disposiciones del Código Civil y los asuntos contenciosos que tengan las Sociedades frente a la administración, se ventilarán de conformidad con el procedimiento administrativo que prevé la Ley de Procedimiento Administrativo, o bien con el procedimiento contencioso que prevé la Ley del Tribunal de lo Contencioso Administrativo, y de manera supletoria a ésta, las disposiciones del Código de Procedimientos Civiles, todos del Distrito Federal.
+En lo no previsto por la presente Ley, por lo que se refiere a la constitución y funcionamiento de las Sociedades, se aplicarán las disposiciones del Código Civil y los asuntos contenciosos que tengan las Sociedades frente a la administración, se ventilarán de conformidad con el procedimiento administrativo que prevé la Ley de Procedimiento Administrativo, o bien con el procedimiento contencioso que prevé la Ley Orgánica del Tribunal de Justicia Administrativa, y de manera supletoria a ésta, las disposiciones del Código de Procedimientos Civiles, todos de la Ciudad de México.
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN
 
@@ -174,7 +194,9 @@ IV. Tendrán la calidad de socios los que tengan interés en contribuir a la fin
 
 V. Podrá estipularse que la duración de la Sociedades Mutualistas sea indefinida;
 
-VI. El domicilio de la Sociedades Mutualistas será siempre el Distrito Federal;
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2021)</small>
+
+VI. El domicilio de las Sociedades Mutualistas será siempre la Ciudad de México;
 
 VII. El nombre de la Sociedad deberá expresar su carácter de mutualista;
 
@@ -326,9 +348,11 @@ Los auditores externos, que dictaminen los estados financieros de las Sociedades
 
 ### CAPÍTULO VII. DE LA INSPECCIÓN Y VIGILANCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ABRIL DE 2021)</small>
+
 ###### Artículo 27.
 
-La inspección y vigilancia de las Sociedades Mutualistas, en cuanto al cumplimiento de las disposiciones de la misma, queda confiada a la Secretaría en los términos de esta Ley y del reglamento que para esos efectos expida el Gobierno del Distrito Federal.
+La inspección y vigilancia de las Sociedades Mutualistas, en cuanto al cumplimiento de las disposiciones de la misma, queda confiada a la Secretaría en los términos de esta Ley y del reglamento que para esos efectos expida el Gobierno de la Ciudad de México.
 
 La Secretaría ejercerá, respecto de los liquidadores, las funciones de vigilancia que tiene atribuidas en relación con las Sociedades Mutualistas.
 
@@ -380,7 +404,9 @@ IV. Si la Sociedad obra sin consentimiento de la Secretaría en los casos en que
 
 V. Si se disuelve, es llevada a concurso civil o entra en estado de liquidación, salvo que el procedimiento respectivo termine en rehabilitación y la Secretaría opine favorablemente a que continúe con la autorización.
 
-La declaración de revocación se inscribirá en el Registro Público de la Propiedad y de Comercio del Distrito Federal previa orden de la misma Secretaría, quien incapacitará a la Sociedad para otorgar cualquier producto a partir de la fecha en que se notifique la revocación; y pondrá en estado de liquidación a la Sociedad que hubiere dado principio a sus operaciones. La liquidación se practicará de conformidad con lo dispuesto por el Título Tercero de esta Ley, salvo cuando la causa de la revocación sea precisamente que la Sociedad entre en estado de liquidación.
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2021)</small>
+
+La declaración de revocación se inscribirá en el Registro Público de la Propiedad y de Comercio de la Ciudad de México previa orden de la misma Secretaría, quien incapacitará a la Sociedad para otorgar cualquier producto a partir de la fecha en que se notifique la revocación; y pondrá en estado de liquidación a la Sociedad que hubiere dado principio a sus operaciones. La liquidación se practicará de conformidad con lo dispuesto en el presente capítulo, salvo cuando la causa de la revocación sea precisamente que la Sociedad entre en estado de liquidación.
 
 ###### Artículo 33.
 
@@ -424,15 +450,19 @@ Para este fin, el liquidador comunicará a cada mutualizado el monto de la reser
 
 ### CAPÍTULO IX. DE LOS PROCEDIMIENTOS Y DE LAS SANCIONES
 
+> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2021)</small>
+
 ###### Artículo 37.
 
-En caso de reclamación contra una mutualista, derivada de uno de sus socios, estos ocurrirán ante el juez del domicilio de la mutualista a reclamar sus derechos y el juez de la causa podrá ordenar a la demandada que dentro de los diez días hábiles siguientes, constituya e invierta, la cantidad reclamada, respecto de la cual tendrá el carácter de depositaria en términos del Título Octavo del Código Civil.
+En caso de reclamación contra una mutualista, derivada de uno de sus socios, estos ocurrirán ante el juez del domicilio de la mutualista a reclamar sus derechos y el juez de la causa podrá ordenar a la demandada que, dentro de los diez días hábiles siguientes, constituya e invierta, la cantidad reclamada, respecto de la cual tendrá el carácter de depositaria en términos del Título Octavo del Código Civil vigente en la Ciudad de México.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 23 DE ABRIL DE 2021, PÁGINAS 6 Y 8.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ABRIL DE 2021)</small>
 
 ###### Artículo 38.
 
-Las multas impuestas por incumplimiento a las disposiciones de esta Ley, serán determinadas administrativamente por la Secretaría tomando como base el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción, a menos que en la propia Ley se disponga otra forma de sanción. Dichas sanciones se harán efectivas por la autoridad fiscal del Distrito Federal.
-
-Al imponer la sanción que corresponda, la citada Secretaría siempre deberá oír previamente al interesado y tomará en cuenta las condiciones e intención del infractor, la importancia de la infracción y la conveniencia de evitar prácticas tendientes a contravenir las disposiciones de esta Ley.
+Las multas impuestas por incumplimiento a las disposiciones de esta Ley, serán determinadas administrativamente por la Secretaría tomando como base la Unidad de Cuenta de la Ciudad de México al momento de cometerse la infracción, a menos que en la propia Ley se disponga otra forma de sanción. Dichas sanciones se harán efectivas por la autoridad fiscal de la Ciudad de México. Al imponer la sanción que corresponda, la citada Secretaría siempre deberá oír previamente al interesado y tomará en cuenta las condiciones e intención del infractor, la importancia de la infracción y la conveniencia de evitar prácticas tendientes a contravenir las disposiciones de esta Ley.
 
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -463,3 +493,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 23 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA LEY DE SOCIEDADES MUTUALISTAS DEL DISTRITO FEDERAL POR LEY DE SOCIEDADES MUTUALISTAS DE LA CIUDAD DE MÉXICO Y SE REFORMA EL ARTÍCULO 1; 3, FRACCIONES VI, VIII Y X; 4; 5, TERCER PÁRRAFO; 6, FRACCIÓN V; 8; 10, FRACCIÓN VI; 27, PRIMER PÁRRAFO; 32, ÚLTIMO PÁRRAFO; 37 Y 38, PRIMER PÁRRAFO”.]
+
+PRIMERO.– Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.– El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.– Las referencias hechas a la Ley de Sociedades Mutualistas del Distrito Federal en otros ordenamientos se entenderán hechas a la Ley de Sociedades Mutualistas de la Ciudad de México.
