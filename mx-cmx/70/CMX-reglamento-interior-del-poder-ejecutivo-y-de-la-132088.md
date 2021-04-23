@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2021-03-12"
+last_updated: "2021-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ABRIL DE 2021.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -1234,9 +1234,29 @@ XXXIII. Solicitar a las autoridades administrativas federales o locales, previa 
 
 XXXIV. Solicitar al juez de la causa las sentencias o copias certificadas para mantener debidamente actualizado el expediente jurídico de la persona privada de la libertad;
 
-XXXV. Dar seguimiento a la persona privada de la libertad una vez que obtenga uno de los beneficios preliberacionales y sanciones no privativas de la libertad contemplados en la Ley Nacional de Ejecución Penal, los sustitutivos penales, así como a los beneficiados con el programa de reclusión domiciliaria a través de monitoreo electrónico a distancia; y
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2021)</small>
 
-XXXVI. Comunicar de manera oportuna al juez de ejecución el incumplimiento de las obligaciones contraídas con motivo de los beneficios preliberacionales y sanciones no privativas de la libertad y reclusión domiciliaria.
+XXXV. Dar seguimiento a la persona privada de la libertad una vez que obtenga uno de los beneficios preliberacionales y sanciones no privativas de la libertad contemplados en la Ley Nacional de Ejecución Penal, los sustitutivos penales, así como a los beneficiados con el programa de reclusión domiciliaria a través de monitoreo electrónico a distancia;
+
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2021)</small>
+
+XXXVI. Comunicar de manera oportuna al juez de ejecución el incumplimiento de las obligaciones contraídas con motivo de los beneficios preliberacionales y sanciones no privativas de la libertad y reclusión domiciliaria; y
+
+> <small>(ADICIONADA, G.O. 23 DE ABRIL DE 2021)</small>
+
+XXXVII. En materia del Registro Público de Personas Agresoras Sexuales de la Ciudad de México:
+
+a) Organizar, administrar, actualizar y resguardar la información contenida en el Registro en términos de las leyes aplicables, lineamientos y protocolos para la recepción, procesamiento, consulta y resguardo de la información que se expidan para tal efecto.
+
+b) Realizar y elaborar estudios, investigaciones y estadísticas con los datos contenidos en el Registro, respetando la información de datos personales conforme a la normativa aplicable para la elaboración de políticas públicas;
+
+c) Recibir de los órganos jurisdiccionales la información de las personas con sentencia ejecutoriada, para registro de los mismos;
+
+d) Adoptar las medidas adecuadas para la protección de los datos personales contenidos en el Registro, de conformidad con la normativa aplicable;
+
+e) Proporcionar información sobre los agresores sexuales a las autoridades competentes, de conformidad con la normativa aplicable; y
+
+f) Vigilar el uso correcto de la información contenida y, en su caso, sancionar o dar vista a la autoridad competente respecto del uso indebido de la información.
 
 ###### Artículo 25.
 
@@ -2856,11 +2876,11 @@ XI. Promover, respetar, proteger y garantizar los derechos humanos de las person
 
 XII. Las demás facultades previstas en este Reglamento y en otros ordenamientos aplicables, así como las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo que se le adscriban.
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ABRIL DE 2021)</small>
 
 ###### Artículo 59.
 
-Corresponde a la Dirección Ejecutiva de Asuntos Jurídicos y Derechos Humanos:
+Corresponde a la Dirección Ejecutiva de Asuntos Jurídicos y de Derechos Humanos:
 
 I. Proponer los criterios generales y las normas que regulen los Centros Penitenciarios;
 
@@ -2884,9 +2904,17 @@ XI. Atender y gestionar ante las instituciones competentes los requerimientos qu
 
 XII. Proporcionar asesoría jurídica a las personas privadas de la libertad y familiares que lo requieran;
 
-XIII. Dirigir y coordinar al personal adscrito a esta Dirección Ejecutiva que labora en los Centros Penitenciarios, a fin de garantizar el estricto cumplimiento de las disposiciones administrativas y legales vigentes; y
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2021)</small>
 
-XIV. Presentar ante el órgano interno de control la denuncia de las personas servidoras públicas del Sistema Penitenciario de quienes se presuma la comisión de una probable responsabilidad administrativa.
+XIII. Dirigir y coordinar al personal adscrito a esta Dirección Ejecutiva que labora en los Centros Penitenciarios, a fin de garantizar el estricto cumplimiento de las disposiciones administrativas y legales vigentes;
+
+> <small>(REFORMADA, G.O. 23 DE ABRIL DE 2021)</small>
+
+XIV. Presentar ante el órgano interno de control la denuncia de las personas servidoras públicas del Sistema Penitenciario de quienes se presuma la comisión de una probable responsabilidad administrativa; y
+
+> <small>(ADICIONADA, G.O. 23 DE ABRIL DE 2021)</small>
+
+XV. Coordinar la operación y funcionamiento del Registro de Personas Agresoras Sexuales de la Ciudad de México, de conformidad con la normativa aplicable.
 
 ###### Artículo 60.
 
@@ -14937,3 +14965,11 @@ SEGUNDO.- El presente Decreto entrará en vigor a partir del día 16 de marzo de
 TERCERO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas que se derogan o modifican, serán atendidos y resueltos por aquellas que las sustituyan o asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia.
 
 CUARTO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, tales como en contratos o convenios, a las Unidades Administrativas que mediante el presente Decreto cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
+
+G.O. 23 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 24 Y 59 DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. - Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación.
