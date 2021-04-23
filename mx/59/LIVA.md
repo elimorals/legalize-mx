@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2020-12-08"
+last_updated: "2021-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2021.
 
 ÚLTIMA MODIFICACIÓN MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ENERO DE 2003.
 
@@ -100,15 +100,11 @@ d) Reciban servicios prestados por comisionistas, cuando éstos sean personas f�
 
 III. Sean personas físicas o morales que adquieran bienes tangibles, o los usen o gocen temporalmente, que enajenen u otorguen residentes en el extranjero sin establecimiento permanente en el país.
 
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
-
-IV. Sean personas morales o personas físicas con actividades empresariales, que reciban servicios a través de los cuales se pongan a disposición del contratante o de una parte relacionada de éste, personal que desempeñe sus funciones en las instalaciones del contratante o de una parte relacionada de éste, o incluso fuera de éstas, estén o no bajo la dirección, supervisión, coordinación o dependencia del contratante, independientemente de la denominación que se le dé a la obligación contractual. En este caso la retención se hará por el 6% del valor de la contraprestación efectivamente pagada.
+IV. (DEROGADA, D.O.F. 23 DE ABRIL DE 2021)
 
 No efectuarán la retención a que se refiere este artículo las personas físicas o morales que estén obligadas al pago del impuesto exclusivamente por la importación de bienes.
 
 Quienes efectúen la retención a que se refiere este artículo sustituirán al enajenante, prestador de servicio u otorgante del uso o goce temporal de bienes en la obligación de pago y entero del impuesto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -344,6 +340,10 @@ El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que
 
 Para los efectos del párrafo anterior, se entiende por impuesto acreditable el impuesto al valor agregado que haya sido trasladado al contribuyente y el propio impuesto que él hubiese pagado con motivo de la importación de bienes o servicios, en el mes de que se trate.
 
+> <small>(ADICIONADO, D.O.F. 23 DE ABRIL DE 2021)</small>
+
+El impuesto que se traslade por los servicios a que se refiere el artículo 15-D, primer y segundo párrafos del Código Fiscal de la Federación, no será acreditable en los términos de la presente Ley.
+
 El derecho al acreditamiento es personal para los contribuyentes del impuesto al valor agregado y no podrá ser trasmitido por acto entre vivos, excepto tratándose de fusión. En el caso de escisión, el acreditamiento del impuesto pendiente de acreditar a la fecha de la escisión sólo lo podrá efectuar la sociedad escindente. Cuando desaparezca la sociedad escindente, se estará a lo dispuesto en el antepenúltimo párrafo del artículo 14-B del Código Fiscal de la Federación.
 
 ###### ARTICULO 4o.-A.
@@ -364,19 +364,19 @@ El derecho al acreditamiento es personal para los contribuyentes del impuesto al
 
 Para que sea acreditable el impuesto al valor agregado deberán reunirse los siguientes requisitos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 I. Que el impuesto al valor agregado corresponda a bienes, servicios o al uso o goce temporal de bienes, estrictamente indispensables para la realización de actividades distintas de la importación, por las que se deba pagar el impuesto establecido en esta Ley o a las que se les aplique la tasa de 0%. Para los efectos de esta Ley, se consideran estrictamente indispensables las erogaciones efectuadas por el contribuyente que sean deducibles para los fines del impuesto sobre la renta, aun cuando no se esté obligado al pago de este último impuesto. Tratándose de erogaciones parcialmente deducibles para los fines del impuesto sobre la renta, únicamente se considerará para los efectos del acreditamiento a que se refiere esta Ley, el monto equivalente al impuesto al valor agregado que haya sido trasladado al contribuyente y el propio impuesto al valor agregado que haya pagado con motivo de la importación, en la proporción en la que dichas erogaciones sean deducibles para los fines del impuesto sobre la renta.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 II. Que el impuesto al valor agregado haya sido trasladado expresamente al contribuyente y que conste por separado en los comprobantes fiscales a que se refiere la fracción III del artículo 32 de esta Ley;
+
+> <small>(ADICIONADO, D.O.F. 23 DE ABRIL DE 2021)</small>
+
+Adicionalmente a lo señalado en el párrafo anterior, cuando se trate de servicios especializados o de la ejecución de obras especializadas a que se refiere el artículo 15-D, tercer párrafo del Código Fiscal de la Federación, cuando se efectúe el pago de la contraprestación por el servicio recibido, el contratante deberá verificar que el contratista cuente con el registro a que se refiere el artículo 15 de la Ley Federal del Trabajo, asimismo, deberá obtener del contratista copia de la declaración del impuesto al valor agregado y del acuse de recibo del pago correspondiente al periodo en que el contratante efectuó el pago de la contraprestación y del impuesto al valor agregado que le fue trasladado. A su vez, el contratista estará obligado a proporcionar al contratante copia de la documentación mencionada, la cual deberá entregarse a más tardar el último día del mes siguiente a aquél en el que el contratante haya efectuado el pago de la contraprestación por el servicio recibido y el impuesto al valor agregado que se le haya trasladado. El contratante, en caso de que no recabe la documentación a que se refiere esta fracción en el plazo señalado, deberá presentar declaración complementaria en la cual disminuya los montos que hubiera acreditado por dicho concepto.
 
 III. Que el impuesto al valor agregado trasladado al contribuyente haya sido efectivamente pagado en el mes de que se trate;
 
@@ -405,8 +405,6 @@ Los contribuyentes que efectúen el acreditamiento en los términos previstos en
 A las inversiones cuyo acreditamiento se haya realizado conforme a lo dispuesto en el artículo 5o.-B de esta Ley, no les será aplicable el procedimiento establecido en el primer párrafo de este numeral.
 
 4. Cuando las inversiones a que se refieren los numerales 1 y 2 de este inciso dejen de destinarse en forma exclusiva a las actividades previstas en dichos numerales, en el mes en el que ello ocurra, se deberá aplicar el ajuste previsto en el artículo 5o.-A de esta Ley.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
@@ -445,8 +443,6 @@ En el caso de que no se inicien las actividades gravadas por esta Ley una vez tr
 Tratándose de la industria extractiva no se aplicará lo dispuesto en el párrafo anterior cuando por causas ajenas a la empresa la extracción de los recursos asociados a los yacimientos no sea factible o cuando por circunstancias económicas no imputables a la empresa resulte incosteable la extracción de los recursos mencionados. Cuando la empresa deje de realizar las actividades previas a la extracción comercial regular de los recursos asociados a los yacimientos por causas diversas a las mencionadas, deberá reintegrar, en el mes inmediato posterior a aquél en que dejó de realizar las actividades mencionadas, el impuesto al valor agregado que le haya sido devuelto. El reintegro del impuesto deberá actualizarse desde el mes en que se obtuvo la devolución y hasta el mes en que realice el reintegro.
 
 Las actualizaciones a que se refiere esta fracción, deberán calcularse aplicando el factor de actualización que se obtenga de conformidad con el artículo 17-A del Código Fiscal de la Federación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -2670,11 +2666,51 @@ D.O.F. 8 DE DICIEMBRE DE 2020.
 
 Único. El presente Decreto entrará en vigor el 1 de enero de 2021.
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 509 POR EL QUE "SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+D.O.F. 23 DE ABRIL DE 2021.
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES; DEL CÓDIGO FISCAL DE LA FEDERACIÓN; DE LA LEY DEL IMPUESTO SOBRE LA RENTA; DE LA LEY DEL IMPUESTO AL VALOR AGREGADO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY REGLAMENTARIA DE LA FRACCIÓN XIII BIS DEL APARTADO B, DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SUBCONTRATACIÓN LABORAL”.]
 
-P.O. 18 DE ABRIL DE 2017.
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en los artículos Cuarto, Quinto y Sexto del presente Decreto, que entrarán en vigor el 1 de agosto de 2021 y lo previsto en los artículos Séptimo y Octavo del presente Decreto entrarán en vigor en el ejercicio fiscal 2022.
+
+Segundo. Dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría del Trabajo y Previsión Social deberá expedir las disposiciones de carácter general a que se refiere el artículo 15, párrafo sexto, de la Ley Federal del Trabajo.
+
+Tercero. A la fecha de entrada en vigor del presente Decreto, las personas físicas o morales que presten servicios de subcontratación, deberán obtener el registro ante la Secretaría del Trabajo y Previsión Social que prevé el artículo 15 de la Ley Federal del Trabajo, en un plazo de 90 días naturales, contados a partir de la publicación de las disposiciones de carácter general a que se refiere el artículo 15, párrafo sexto, de dicha Ley.
+
+Cuarto. Para fines de lo dispuesto en el párrafo tercero del artículo 41 de la Ley Federal del Trabajo, tratándose de empresas que operan bajo un régimen de subcontratación, no será requisito la transmisión de los bienes objeto de la empresa o establecimiento durante el plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, siempre que la persona contratista transfiera a la persona beneficiaria a los trabajadores en dicho plazo. En todo caso se deberán reconocer los derechos laborales, incluida su antigüedad, que se hubieran generado por el efecto de la relación de trabajo.
+
+Quinto. Aquellos patrones que, en términos del segundo párrafo del artículo 75 de la Ley del Seguro Social, previo a la entrada en vigor del presente Decreto, hubiesen solicitado al Instituto Mexicano del Seguro Social la asignación de uno o más registros patronales por clase, de las señaladas en el artículo 73 de la Ley del Seguro Social, para realizar la inscripción de sus trabajadores a nivel nacional, contarán con un plazo de 90 días naturales contados a partir de la entrada en vigor de las presentes reformas legales para dar de baja dichos registros patronales y de ser procedente, solicitar al mencionado Instituto se le otorgue un registro patronal en términos de lo dispuesto por el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
+
+Una vez concluido dicho plazo, aquellos registros patronales por clase que no hayan sido dados de baja, serán dados de baja por el Instituto Mexicano del Seguro Social.
+
+Sexto. Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refieren las fracciones I y II del artículo 15 A de la Ley del Seguro Social, dentro del plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto. La información a que se refiere la fracción III del citado artículo deberá ser presentada, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
+
+Séptimo. Para efectos de la Ley del Seguro Social, durante los 90 días naturales siguientes a la entrada en vigor de la presente reforma, se considerará como sustitución patronal la migración de trabajadores de las empresas que operaban bajo el régimen de subcontratación laboral, siempre y cuando la empresa destino de los trabajadores reconozca sus derechos laborales, incluyendo la antigüedad de los mismos y los riesgos de trabajo terminados, ante las instancias legales correspondientes.
+
+En estos supuestos aplicarán las siguientes reglas, para efectos de la determinación de la clase, fracción y prima del Seguro de Riesgos de Trabajo:
+
+1.- La empresa que absorba a los trabajadores deberá auto clasificarse conforme a los criterios que se establecen en los artículos 71, 73 y 75 de la Ley del Seguro Social, y de acuerdo a los artículos 18, 20 y al Catálogo de Actividades previsto en el artículo 196, todos del Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización, debiendo conservar la prima con la que venía cotizando la empresa que tenía los trabajadores registrados en el IMSS, siempre y cuando dicha empresa haya estado correctamente clasificada conforme a los riesgos inherentes a la actividad de la negociación de que se trataba y a las disposiciones normativas aplicables, en caso contrario deberá cotizar con la prima media de la clase que le corresponda.
+
+2.- Tratándose de una empresa que absorba a los trabajadores de otra u otras empresas, con la misma o distintas clases, y que en virtud de ello deban ajustar su clasificación a las nuevas actividades que llevará a cabo; la clase y fracción se determinará atendiendo a los riesgos inherentes a la actividad de la negociación de que se trate y la prima se obtendrá de aplicar el procedimiento siguiente:
+
+a) Por cada registro patronal, tanto de la empresa que absorbe como de la otra u otras empresas a sustituir, se multiplicará la prima asignada por el total de los salarios base de cotización de los trabajadores comprendidos en el mismo. El salario base de cotización a considerar, será el del mes previo al que se comunique la sustitución al Instituto.
+
+b) Se sumarán los productos obtenidos conforme al inciso anterior y el resultado se dividirá entre la suma de los salarios base de cotización del total de los trabajadores comprendidos en todos los registros patronales.
+
+c) La prima así obtenida se aplicará al registro patronal de la empresa que absorbe a los trabajadores y estará vigente hasta el último día del mes de febrero posterior a la sustitución.
+
+d) Para efectos de la determinación de la prima del ejercicio siguiente, la empresa que absorbe a los trabajadores deberá considerar los riesgos de trabajo terminados que les hubiesen ocurrido a dichos trabajadores en el ejercicio correspondiente.
+
+Lo anterior, siempre y cuando las empresas que se pretendan sustituir hayan estado correctamente clasificadas conforme a los riesgos inherentes a la actividad de la o las negociaciones de que se trataban y a las disposiciones normativas aplicables, en caso contrario deberán cotizar a la prima media de la clase que les corresponda.
+
+Las empresas que cuenten a la fecha de la entrada en vigor de las presentes disposiciones con un Convenio de Subrogación de Servicios Médicos con Reversión de Cuotas vigente, y que en términos de estas disposiciones lleven a cabo una sustitución patronal, no serán objeto de modificación de las condiciones pactadas en el mismo. Vencido el plazo de 90 días naturales aplicarán las reglas previstas tanto en la Ley del Seguro Social como en el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
+
+Octavo. Dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá expedir las reglas que establezcan los procedimientos a que se refiere el artículo 29 Bis, párrafo segundo, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refiere el inciso f) del artículo 29 Bis, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
+
+Noveno. Las conductas delictivas que hayan sido cometidas con anterioridad a la entrada en vigor del presente Decreto serán sancionadas de conformidad con la legislación vigente al momento de la comisión de los hechos.
+
+Décimo. Las dependencias y entidades de la Administración Pública Federal involucradas en la implementación del presente Decreto, realizarán las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del mismo, se realicen con cargo al presupuesto aprobado a cada una de ellas en el presente ejercicio fiscal y subsecuentes, por lo que no requerirán recursos adicionales que tengan por objeto solventar las mismas y no se incrementará el presupuesto regularizable de éstas para el presente ejercicio fiscal ni posteriores.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 797.- SE REFORMA EL ARTÍCULO 4 FRACCIÓN XVIII DE (SIC) LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
