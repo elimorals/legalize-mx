@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2020-12-16"
+last_updated: "2021-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LSS"
 ---
 # LEY DEL SEGURO SOCIAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -264,41 +266,23 @@ Las disposiciones contenidas en las fracciones I, II, III y VI no son aplicables
 
 La información a que se refieren las fracciones I, II, III y IV, deberá proporcionarse al Instituto en documento impreso, o en medios magnéticos, digitales, electrónicos, ópticos, magneto ópticos o de cualquier otra naturaleza, conforme a las disposiciones de esta Ley y sus reglamentos.
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2021)</small>
 
-Artículo 15 A. Cuando en la contratación de trabajadores para un patrón, a fin de que ejecuten trabajos o presten servicios para él, participe un intermediario laboral, cualquiera que sea la denominación que patrón e intermediarios asuman, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en esta Ley.
+Artículo 15 A. La contratación de servicios especializados o la ejecución de obras especializadas deberán cumplir con las condiciones y requisitos establecidos en la Ley Federal del Trabajo.
 
-No serán considerados intermediarios, sino patrones, las empresas establecidas que presten servicios a otras, para ejecutarlos con elementos propios y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores, en los términos de los artículos 12, 13, 14 y 15 de la Ley Federal del Trabajo.
+La persona física o moral que contrate la prestación de servicios o la ejecución de obras con otra persona física o moral que incumpla las obligaciones en materia de seguridad social, será responsable solidaria en relación con los trabajadores utilizados para ejecutar dichas contrataciones.
 
-> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2009)</small>
+La persona física o moral que preste servicios especializados o ejecute obras especializadas deberá proporcionar cuatrimestralmente a más tardar el día 17 de los meses de enero, mayo y septiembre, la información de los contratos celebrados en el cuatrimestre de que se trate, conforme a lo siguiente:
 
-Sin perjuicio de lo dispuesto en los párrafos anteriores, cuando un patrón o sujeto obligado, cualquiera que sea su personalidad jurídica o su naturaleza económica, en virtud de un contrato, cualquiera que sea su forma o denominación, como parte de las obligaciones contraídas, ponga a disposición trabajadores u otros sujetos de aseguramiento para que ejecuten los servicios o trabajos acordados bajo la dirección del beneficiario de los mismos, en las instalaciones que éste determine, el beneficiario de los trabajos o servicios asumirá las obligaciones establecidas en esta Ley en relación con dichos trabajadores, en el supuesto de que el patrón omita su cumplimiento, siempre y cuando el Instituto hubiese notificado previamente al patrón el requerimiento correspondiente y éste no lo hubiera atendido.
+I. De las partes en el contrato: Nombre, denominación o razón social; Registro Federal de Contribuyentes, domicilio social o convencional en caso de ser distinto al fiscal, correo electrónico y teléfono de contacto.
 
-> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2009)</small>
+II. De cada contrato: Objeto; periodo de vigencia; relación de trabajadores u otros sujetos que prestarán los servicios especializados o ejecutarán las obras especializadas a favor del beneficiario, indicando su nombre, CURP, número de seguridad social y salario base de cotización, así como nombre y Registro Federal de Contribuyentes del beneficiario de los servicios por cada uno de los contratos.
 
-Asimismo, el Instituto dará aviso al beneficiario de los trabajos o servicios, del requerimiento a que se refiere el párrafo anterior.
+III. Copia simple del registro emitido por la Secretaría del Trabajo y Previsión Social para la prestación de servicios especializados o la ejecución de obras especializadas.
 
-> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2009)</small>
+Para la verificación del cumplimiento de las obligaciones establecidas en la Ley Federal del Trabajo y en el presente ordenamiento, el Instituto y la Secretaría del Trabajo y Previsión Social, deberán celebrar convenios de colaboración, para el intercambio de información y la realización de acciones de verificación conjuntas, en su respectivo ámbito de competencia.
 
-Los contratantes deberán comunicar trimestralmente ante la Subdelegación correspondiente al domicilio del patrón o sujeto obligado, y del beneficiario respectivamente, dentro de los primeros quince días de los meses de enero, abril, julio y octubre, en relación con los contratos celebrados en el trimestre de que se trate la información siguiente:
-
-I. De las partes en el contrato: Nombre, denominación o razón social; clase de persona moral de que se trate, en su caso; objeto social; domicilio social, fiscal y, en su caso, convencional para efectos del contrato; número del Registro Federal de Contribuyentes y de Registro Patronal ante el IMSS; datos de su acta constitutiva, tales como número de escritura pública, fecha, nombre del notario público que da fe de la misma, número de la notaría y ciudad a la que corresponde, sección, partida, volumen, foja o folio mercantil, en su caso, y fecha de inscripción en el Registro Público de la Propiedad y el Comercio; nombre de los representantes legales de las partes que suscribieron el contrato.
-
-II. Del contrato: Objeto; periodo de vigencia; perfiles, puestos o categorías indicando en este caso si se trata de personal operativo, administrativo o profesional y el número estimado mensual de trabajadores u otros sujetos de aseguramiento que se pondrán a disposición del beneficiario de los servicios o trabajos contratados.
-
-> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2009)</small>
-
-El patrón incorporará por cada uno de sus trabajadores, el nombre del beneficiario de los servicios o trabajos contratados en el sistema de cómputo autorizado por el Instituto.
-
-> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2009)</small>
-
-Cuando el patrón se obligue a poner a disposición del beneficiario, trabajadores para prestar los servicios o ejecutar los trabajos en varios centros de trabajo ubicados en la circunscripción territorial de más de una subdelegación del Instituto, el patrón y el beneficiario deberán comunicar la información a que se refiere el quinto párrafo de este artículo, únicamente ante la subdelegación dentro de cuya circunscripción se ubique su respectivo domicilio fiscal.
-
-> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2009)</small>
-
-La información prevista en este artículo podrá ser presentada a través de los medios señalados en el último párrafo del artículo 15 de esta Ley, conforme a las reglas generales que para tal efecto emita el Consejo Técnico.
-
-Para los efectos de este artículo, el Gobierno Federal, en ningún caso, será considerado como intermediario laboral.
+El Instituto informará a la Secretaría del Trabajo y Previsión Social del incumplimiento a los requisitos indicados en el presente artículo para los efectos señalados en la propia Ley Federal del Trabajo.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -996,11 +980,7 @@ La siniestralidad se fijará conforme al reglamento de la materia.
 
 La determinación de las clases comprenderá una lista de los diversos tipos de actividades y ramas industriales, catalogándolas en razón de la mayor o menor peligrosidad a que están expuestos los trabajadores, y asignando a cada uno de los grupos que formen dicha lista, una clase determinada. Este supuesto sólo se aplicará a las empresas que se inscriben por primera vez en el Instituto o cambien de actividad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2009)</small>
-
-Para efectos de la clasificación en el seguro de riesgos de trabajo, tratándose de los patrones a que se refiere el tercer párrafo del artículo 15-A, de esta Ley, a solicitud del patrón, el Instituto le asignará un registro patronal por cada una de las clases, que así se requiera, de las señaladas en el artículo 73 de esta Ley, con el que realizará la inscripción de sus trabajadores a nivel nacional. Los patrones o sujetos obligados que se hayan clasificado en términos de lo dispuesto en este párrafo, revisarán anualmente su siniestralidad conforme al artículo 74 de esta Ley de manera independiente por cada uno de los registros patronales asignados.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 23 DE ABRIL DE 2021)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -3810,9 +3790,9 @@ XX. No cumplir o hacerlo extemporáneamente con la obligación de dictaminar por
 
 XXI. Notificar en forma extemporánea, hacerlo con datos falsos o incompletos o bien, omitir notificar al Instituto en los términos del reglamento respectivo, el domicilio de cada una de las obras o fase de obra que realicen los patrones que esporádica o permanentemente se dediquen a la industria de la construcción, y
 
-> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2021)</small>
 
-XXII. No presentar al Instituto la información señalada en el artículo 15-A de esta Ley.
+XXII. No presentar o presentar fuera del plazo legal establecido, la información señalada en el artículo 15 A de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -3824,9 +3804,13 @@ II. Las previstas en las fracciones III, X, XIII y XVIII con multa equivalente a
 
 III. Las previstas en las fracciones VI, IX y XV con multa equivalente al importe de veinte a doscientas diez veces el salario mínimo diario general vigente en el Distrito Federal, y
 
-> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2021)</small>
 
-IV. Las previstas en las fracciones I, II, XII, XIV, XVII, XX, XXI y XXII, con multa equivalente al importe de veinte a trescientas cincuenta veces el salario mínimo diario general vigente en el Distrito Federal.
+IV. Las previstas en las fracciones I, II, XII, XIV, XVII, XX y XXI, con multa equivalente al importe de veinte a trescientas cincuenta veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA, D.O.F. 23 DE ABRIL DE 2021)</small>
+
+V. La prevista en la fracción XXII, con multa equivalente al importe de 500 a 2000 veces el valor de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -4559,3 +4543,49 @@ Los procedimientos de designación de beneficiarios que, a la fecha de entrada e
 Décimo. Para efectos de lo dispuesto en el artículo 37, párrafo octavo, de la Ley de los Sistemas de Ahorro para el Retiro, la Junta de Gobierno de la Comisión Nacional del Sistema de Ahorro para el Retiro contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones necesarias a las disposiciones de carácter general correspondientes a efecto de dar cumplimiento a lo dispuesto en el mismo.
 
 Décimo Primero. Se derogan todas aquellas disposiciones que se opongan a lo previsto el presente Decreto.
+
+D.O.F. 23 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES; DEL CÓDIGO FISCAL DE LA FEDERACIÓN; DE LA LEY DEL IMPUESTO SOBRE LA RENTA; DE LA LEY DEL IMPUESTO AL VALOR AGREGADO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY REGLAMENTARIA DE LA FRACCIÓN XIII BIS DEL APARTADO B, DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SUBCONTRATACIÓN LABORAL”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en los artículos Cuarto, Quinto y Sexto del presente Decreto, que entrarán en vigor el 1 de agosto de 2021 y lo previsto en los artículos Séptimo y Octavo del presente Decreto entrarán en vigor en el ejercicio fiscal 2022.
+
+Segundo. Dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría del Trabajo y Previsión Social deberá expedir las disposiciones de carácter general a que se refiere el artículo 15, párrafo sexto, de la Ley Federal del Trabajo.
+
+Tercero. A la fecha de entrada en vigor del presente Decreto, las personas físicas o morales que presten servicios de subcontratación, deberán obtener el registro ante la Secretaría del Trabajo y Previsión Social que prevé el artículo 15 de la Ley Federal del Trabajo, en un plazo de 90 días naturales, contados a partir de la publicación de las disposiciones de carácter general a que se refiere el artículo 15, párrafo sexto, de dicha Ley.
+
+Cuarto. Para fines de lo dispuesto en el párrafo tercero del artículo 41 de la Ley Federal del Trabajo, tratándose de empresas que operan bajo un régimen de subcontratación, no será requisito la transmisión de los bienes objeto de la empresa o establecimiento durante el plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, siempre que la persona contratista transfiera a la persona beneficiaria a los trabajadores en dicho plazo. En todo caso se deberán reconocer los derechos laborales, incluida su antigüedad, que se hubieran generado por el efecto de la relación de trabajo.
+
+Quinto. Aquellos patrones que, en términos del segundo párrafo del artículo 75 de la Ley del Seguro Social, previo a la entrada en vigor del presente Decreto, hubiesen solicitado al Instituto Mexicano del Seguro Social la asignación de uno o más registros patronales por clase, de las señaladas en el artículo 73 de la Ley del Seguro Social, para realizar la inscripción de sus trabajadores a nivel nacional, contarán con un plazo de 90 días naturales contados a partir de la entrada en vigor de las presentes reformas legales para dar de baja dichos registros patronales y de ser procedente, solicitar al mencionado Instituto se le otorgue un registro patronal en términos de lo dispuesto por el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
+
+Una vez concluido dicho plazo, aquellos registros patronales por clase que no hayan sido dados de baja, serán dados de baja por el Instituto Mexicano del Seguro Social.
+
+Sexto. Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refieren las fracciones I y II del artículo 15 A de la Ley del Seguro Social, dentro del plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto. La información a que se refiere la fracción III del citado artículo deberá ser presentada, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
+
+Séptimo. Para efectos de la Ley del Seguro Social, durante los 90 días naturales siguientes a la entrada en vigor de la presente reforma, se considerará como sustitución patronal la migración de trabajadores de las empresas que operaban bajo el régimen de subcontratación laboral, siempre y cuando la empresa destino de los trabajadores reconozca sus derechos laborales, incluyendo la antigüedad de los mismos y los riesgos de trabajo terminados, ante las instancias legales correspondientes.
+
+En estos supuestos aplicarán las siguientes reglas, para efectos de la determinación de la clase, fracción y prima del Seguro de Riesgos de Trabajo:
+
+1.- La empresa que absorba a los trabajadores deberá auto clasificarse conforme a los criterios que se establecen en los artículos 71, 73 y 75 de la Ley del Seguro Social, y de acuerdo a los artículos 18, 20 y al Catálogo de Actividades previsto en el artículo 196, todos del Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización, debiendo conservar la prima con la que venía cotizando la empresa que tenía los trabajadores registrados en el IMSS, siempre y cuando dicha empresa haya estado correctamente clasificada conforme a los riesgos inherentes a la actividad de la negociación de que se trataba y a las disposiciones normativas aplicables, en caso contrario deberá cotizar con la prima media de la clase que le corresponda.
+
+2.- Tratándose de una empresa que absorba a los trabajadores de otra u otras empresas, con la misma o distintas clases, y que en virtud de ello deban ajustar su clasificación a las nuevas actividades que llevará a cabo; la clase y fracción se determinará atendiendo a los riesgos inherentes a la actividad de la negociación de que se trate y la prima se obtendrá de aplicar el procedimiento siguiente:
+
+a) Por cada registro patronal, tanto de la empresa que absorbe como de la otra u otras empresas a sustituir, se multiplicará la prima asignada por el total de los salarios base de cotización de los trabajadores comprendidos en el mismo. El salario base de cotización a considerar, será el del mes previo al que se comunique la sustitución al Instituto.
+
+b) Se sumarán los productos obtenidos conforme al inciso anterior y el resultado se dividirá entre la suma de los salarios base de cotización del total de los trabajadores comprendidos en todos los registros patronales.
+
+c) La prima así obtenida se aplicará al registro patronal de la empresa que absorbe a los trabajadores y estará vigente hasta el último día del mes de febrero posterior a la sustitución.
+
+d) Para efectos de la determinación de la prima del ejercicio siguiente, la empresa que absorbe a los trabajadores deberá considerar los riesgos de trabajo terminados que les hubiesen ocurrido a dichos trabajadores en el ejercicio correspondiente.
+
+Lo anterior, siempre y cuando las empresas que se pretendan sustituir hayan estado correctamente clasificadas conforme a los riesgos inherentes a la actividad de la o las negociaciones de que se trataban y a las disposiciones normativas aplicables, en caso contrario deberán cotizar a la prima media de la clase que les corresponda.
+
+Las empresas que cuenten a la fecha de la entrada en vigor de las presentes disposiciones con un Convenio de Subrogación de Servicios Médicos con Reversión de Cuotas vigente, y que en términos de estas disposiciones lleven a cabo una sustitución patronal, no serán objeto de modificación de las condiciones pactadas en el mismo. Vencido el plazo de 90 días naturales aplicarán las reglas previstas tanto en la Ley del Seguro Social como en el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
+
+Octavo. Dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá expedir las reglas que establezcan los procedimientos a que se refiere el artículo 29 Bis, párrafo segundo, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refiere el inciso f) del artículo 29 Bis, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
+
+Noveno. Las conductas delictivas que hayan sido cometidas con anterioridad a la entrada en vigor del presente Decreto serán sancionadas de conformidad con la legislación vigente al momento de la comisión de los hechos.
+
+Décimo. Las dependencias y entidades de la Administración Pública Federal involucradas en la implementación del presente Decreto, realizarán las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del mismo, se realicen con cargo al presupuesto aprobado a cada una de ellas en el presente ejercicio fiscal y subsecuentes, por lo que no requerirán recursos adicionales que tengan por objeto solventar las mismas y no se incrementará el presupuesto regularizable de éstas para el presente ejercicio fiscal ni posteriores.
