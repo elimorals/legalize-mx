@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1154
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-01"
-last_updated: "2021-02-01"
+last_updated: "2021-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2021.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 1 de julio de 2016.
 
@@ -1413,13 +1413,11 @@ XI.- La información relativa a la Glosa de Gobierno.
 
 Además de la información prevista en las fracciones anteriores, el Poder Ejecutivo deberá poner a disposición del público y actualizar la siguiente información:
 
-I.- Los nombres de las personas a quienes se les otorgó la patente de notario, sus datos de contacto, el trámite de selección aplicable y, en su caso, el resultado de los exámenes aplicados, así como las suplencias, suspensiones, renuncias y sanciones impuestas; y
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2021)</small>
 
-II.- La información estadística en las siguientes materias:
+I.- Los nombres de las personas a quienes se les otorgó la patente de notario, sus datos de contacto, el trámite de selección aplicable y, en su caso, el resultado de los exámenes aplicados, así como las suplencias, suspensiones, renuncias y sanciones impuestas;
 
-1. Incidencia delictiva; y
-
-2. Indicadores de procuración de justicia. En materia de carpetas de investigación y averiguaciones previas, deberá publicarse el número de aquéllas en las que se ejerció acción penal; en cuántas se decretó el no ejercicio de la acción penal; cuántas se archivaron; en cuántas se aplicó el criterio de oportunidad, y en cuántas se ejerció la facultad de no investigar los hechos de su conocimiento. Dicha información deberá incluir el número total de las denuncias y querellas presentadas.
+II.- (DEROGADA, P.O. 23 DE ABRIL DE 2021)
 
 ###### Artículo 97.
 
@@ -1614,6 +1612,22 @@ a) Las estadísticas de asuntos atendidos por el tribunal;
 b) Las versiones públicas de las sentencias definitivas o resoluciones, que se hayan emitido por el tribunal administrativo y que pongan fin a un procedimiento, incluidas las que se dicten durante el desarrollo del proceso respectivo; y
 
 c) Las listas de notificación de los acuerdos, resoluciones y sentencias emitidos.
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2021)</small>
+
+V.- Fiscalía General de Justicia. La información estadística de:
+
+a) Denuncias y/o querellas presentadas;
+
+b) Asuntos en los que el Ministerio Público ejerció la acción penal;
+
+c) Asuntos en los que el Ministerio Público decretó el no ejercicio de la acción penal;
+
+d) Asuntos de investigación en archivo temporal;
+
+e) Casos en los que el Ministerio Público ejerció la facultad de no investigar en los casos autorizados por las disposiciones aplicables; y,
+
+f) Asuntos en los que se aplicaron criterios de oportunidad.
 
 ###### Artículo 101.
 
@@ -2848,3 +2862,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. El Poder Judicial del Estado deberá dar cumplimiento a la obligación de hacer públicas todas las sentencias definitivas dentro del plazo que determina para tal efecto la Ley General de Transparencia y Acceso a la Información Pública.
 
 TERCERO. Las plataformas donde se publiquen y difundan las sentencias en sus versiones publicas deberán optimizarse para garantizar su manejo y consulta.
+
+P.O. 23 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 475. SE REFORMA LA FRACCIÓN I DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 96, SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 100 Y SE DEROGA LA FRACCIÓN II DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 96, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Fiscalía General de Justicia, la Fiscalía Especializada en Combate a la Corrupción y la Fiscalía Especializada en Delitos Electorales contarán con un período de seis meses para publicar en la Plataforma Nacional de Transparencia y en su portal e (sic) internet la información derivada de las obligaciones de transparencia. Dicho período se contará a partir de que se publique en el Periódico Oficial del Estado el presente Decreto y de que la Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León proporcione al Titular de la Unidad de Transparencia, los elementos de seguridad de la Plataforma Nacional para acceder a los sistemas y llevar a cabo el registro de la información
