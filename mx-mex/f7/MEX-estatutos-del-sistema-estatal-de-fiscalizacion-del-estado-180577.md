@@ -4,7 +4,7 @@ identifier: "MEX-estatutos-del-sistema-estatal-de-fiscalizacion-del-estado-18057
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-02-12"
-last_updated: "2020-02-12"
+last_updated: "2021-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # ESTATUTOS DEL SISTEMA ESTATAL DE FISCALIZACION DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LOS ESTATUTOS DEL SISTEMA ESTATAL DE FISCALIZACIÓN DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 23 DE ABRIL DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTOS DEL SISTEMA ESTATAL DE FISCALIZACIÓN DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE ABRIL DE 2021 (ABROGADO).
 
 Estatuto publicado en la Sección Primera del Número 27 de la Gaceta del Gobierno del Estado de México, el miércoles 12 de febrero de 2020.
 
@@ -324,3 +326,15 @@ Jazmín Ignacio Páez
 (Rúbrica).
 
 En la Ciudad de Toluca, México, a los dieciséis días del mes de diciembre del año dos mil diecinueve.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 23 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LOS “ESTATUTOS DEL SISTEMA ESTATAL DE FISCALIZACIÓN”.]
+
+PRIMERO. Publíquese estos Estatutos en el Periódico Oficial Gaceta del Gobierno.
+
+SEGUNDO. Los Estatutos entrarán en vigor el día de su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+TERCERO. Se abrogan los Estatutos del Sistema Estatal de Fiscalización, publicados el doce de febrero de dos mil veinte en el Periódico Oficial Gaceta del Gobierno.
