@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2021-02-15"
+last_updated: "2021-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2021.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -130,6 +130,14 @@ Gobierno Abierto
 1. Los Ayuntamientos garantizarán la implementación de Gobierno Abierto que se regirá por los principios de transparencia de la información, rendición de cuentas, evaluación al desempeño del Ayuntamiento, participación ciudadana y uso de tecnologías de la información.
 
 Los Ayuntamientos impulsarán, mediante la expedición de los reglamentos respectivos, la implementación de mejores prácticas de transparencia para alcanzar los principios contemplados en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+Fomento a la innovación tecnológica
+
+###### Artículo 9
+
+2. Los ayuntamientos establecerán políticas públicas que tengan por objeto implementar el fortalecimiento, desarrollo y fomento de la ciencia y la innovación tecnológica en el ámbito municipal.
 
 ## Título Segundo
 
@@ -1121,21 +1129,33 @@ n) Otorgar licencias, permisos y autorizaciones; pudiendo delegar esta atribuci�
 
 o) Organizar cursos, seminarios y programas tendientes a eficientar el cumplimiento de las funciones de los integrantes del Ayuntamiento y demás servidores públicos municipales;
 
-p) Promover ante la Suprema Corte de Justicia de la Nación, las controversias constitucionales a que se refiere el artículo 105 fracción I de la Constitución Política de los Estados Unidos Mexicanos, conforme a la ley reglamentaria relativa;
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+p) Realizar las acciones para impulsar e implementar la innovación tecnológica a efecto de mejorar el desempeño de las funciones de los servidores públicos municipales y la eficacia en la prestación de los servicios públicos;
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+q) Realizar las actividades que tengan como finalidad alcanzar el desarrollo municipal a través de las acciones relacionadas con la implementación, el fortalecimiento y la promoción de la innovación tecnológica;
+
+r) Promover ante la Suprema Corte de Justicia de la Nación, las controversias constitucionales a que se refiere el artículo 105 fracción I de la Constitución Política de los Estados Unidos Mexicanos, conforme a la ley reglamentaria relativa;
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-q) Promover ante el pleno del Supremo Tribunal de Justicia las controversias a que se refieren los incisos a) y b) del apartado A de la fracción XV del artículo 88 de la Constitución Política para el Estado;
+s) Promover ante el pleno del Supremo Tribunal de Justicia las controversias a que se refieren los incisos a) y b) del apartado A de la fracción XV del artículo 88 de la Constitución Política para el Estado;
 
-r) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
+t) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
 
-s) Solicitar, por acuerdo de la mayoría calificada de sus integrantes al Congreso del Estado, que realice la declaración de que el Municipio se encuentra imposibilitado para ejercer una función o prestar un servicio público, a efecto de que el Ejecutivo del Estado la ejerza o lo preste; y
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
 
-t) Acordar la división territorial del Municipio, determinando las categorías políticas y su denominación, así como proponer al Congreso del Estado la fundación de centros de población.
+u) Solicitar, por acuerdo de la mayoría calificada de sus integrantes al Congreso del Estado, que realice la declaración de que el Municipio se encuentra imposibilitado para ejercer una función o prestar un servicio público, a efecto de que el Ejecutivo del Estado la ejerza o lo preste;
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+v) Acordar la división territorial del Municipio, determinando las categorías políticas y su denominación, así como proponer al Congreso del Estado la fundación de centros de población; y
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-u) Garantizar mediante disposiciones reglamentarias o administrativas el uso, en la imagen institucional, de logotipos, símbolos, lemas o signos sin contenido alusivo a algún partido político o asociación política en:
+w) Garantizar mediante disposiciones reglamentarias o administrativas el uso, en la imagen institucional, de logotipos, símbolos, lemas o signos sin contenido alusivo a algún partido político o asociación política en:
 
 1. Documentos oficiales de carácter institucional;
 
@@ -1165,7 +1185,9 @@ III. En materia de servicios públicos:
 
 a) Prestar servicios públicos a los habitantes del Municipio;
 
-b) Instrumentar los mecanismos necesarios para ampliar la cobertura y mejorar la prestación de los servicios públicos;
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+b) Instrumentar los mecanismos para ampliar la cobertura y mejorar la prestación de los servicios públicos, y en su caso, implementar la innovación tecnológica que permita una mayor eficacia en la cobertura y prestación de dichos servicios;
 
 c) Procurar la seguridad pública en el territorio municipal; y
 
@@ -1195,9 +1217,13 @@ i) Emitir las normas generales para la aprobación de adquisiciones, enajenacion
 
 j) Aprobar los movimientos de altas y bajas, registrados en el padrón de bienes muebles e inmuebles de propiedad municipal.
 
-V. En materia de participación social, desarrollo social, asistencial y económico, salud pública, educación y cultura:
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ABRIL DE 2021)</small>
 
-a) Promover el desarrollo económico, social, educativo, cultural y recreativo del Municipio;
+V. En materia de participación social, desarrollo social, asistencial y económico, salud pública, educación y cultura, científico y tecnológico:
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+a) Promover el desarrollo económico, social, educativo, científico, tecnológico, cultural y recreativo del Municipio;
 
 b) Promover y apoyar los programas estatales y federales de capacitación y organización para el trabajo;
 
@@ -1259,7 +1285,9 @@ VI. Promulgar y ordenar la publicación en el Periódico Oficial del Gobierno de
 
 VII. Conducir las relaciones del Ayuntamiento con los poderes federales, estatales y con otros ayuntamientos;
 
-VIII. Eficientar la prestación de los servicios públicos municipales;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2021)</small>
+
+VIII. Eficientar la prestación de los servicios públicos municipales, y en su caso, implementar la innovación tecnológica que permita una mayor eficacia en la cobertura y prestación de dichos servicios;
 
 IX. Vigilar que la recaudación de las contribuciones y demás ingresos propios del Municipio, se realicen conforme a las leyes aplicables;
 
@@ -1473,7 +1501,9 @@ Atribuciones de la comisión de Obra y Servicios Públicos
 
 I. Participar en la conformación del Programa Anual de Obra Pública y de los servicios relacionados con la misma;
 
-II. Promover la prestación puntual, oportuna y eficiente de los servicios públicos municipales, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2021)</small>
+
+II. Promover la prestación puntual, oportuna y eficiente de los servicios públicos municipales de conformidad con las disposiciones aplicables. Asimismo, fomentar la innovación tecnológica para la mejora continua en la prestación de los servicios públicos municipales de conformidad con el artículo 9-2 de la presente Ley;
 
 III. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
 
@@ -3054,6 +3084,10 @@ Principios en la prestación de servicios
 ###### Artículo 165.
 
 Los ayuntamientos prestarán los servicios públicos, en igualdad de condiciones a todos los habitantes del municipio, en forma permanente, general, uniforme, continua, y de acuerdo al Programa de Gobierno Municipal.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+Para el cumplimiento de lo establecido en el párrafo anterior, los ayuntamientos deberán implementar esquemas de innovación tecnológica que permitan la mejora continua de la Administración Pública Municipal y permitan una mayor eficacia en la gestión, cobertura y prestación de los servicios públicos.
 
 Previsión presupuestaria
 
@@ -4742,6 +4776,18 @@ Artículo Segundo. Los Ayuntamientos del Estado contarán con un término de nov
 P.O. 15 DE FEBRERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO 307 POR EL CUAL SE ADICIONAN AL ARTÍCULO 125 UN PÁRRAFO SEGUNDO Y AL ARTÍCULO 153 UN PÁRRAFO SEGUNDO DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Expedición de disposiciones reglamentarias de la Ley
+
+Artículo Segundo. Los Ayuntamientos del Estado contarán con un término de noventa días naturales para adecuar sus reglamentos, en congruencia con el presente Decreto.
+
+P.O. 23 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 318, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
 
 Inicio de vigencia
 
