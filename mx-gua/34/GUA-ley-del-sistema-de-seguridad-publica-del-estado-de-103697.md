@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2020-12-08"
+last_updated: "2021-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2021.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -59,7 +61,7 @@ II. Regular la vigilancia del tránsito y la seguridad en las carreteras, camino
 
 III. Establecer las bases generales de coordinación entre el Estado y sus municipios y demás instancias en materia de seguridad pública; y
 
-IV. Regular la seguridad privada dentro del Estado.
+IV. (DEROGADA, P.O. 23 DE ABRIL DE 2021)
 
 Lo anterior de conformidad con el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y con el artículo 11 de la Constitución Política del Estado de Guanajuato en los términos de la Ley General del Sistema Nacional de Seguridad Pública.
 
@@ -979,7 +981,17 @@ IV. Subsecretario de Seguridad Pública de la Secretaría; y
 
 V. Comisario General de las Fuerzas de Seguridad Pública del Estado.
 
-La protección y seguridad personal será otorgada de manera proporcional al periodo laborado, que en ningún caso será superior a tres años.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ABRIL DE 2021)</small>
+
+Se les podrá otorgar la protección y seguridad personal a las autoridades señaladas, al concluir sus funciones o al gozar de una licencia, salvo manifestación expresa del exfuncionario en la cual señale no requerir de tales servicios, y no sean removidos por una causa grave imputable a ellos.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE ABRIL DE 2021)</small>
+
+La protección se otorgará por un periodo no mayor a tres años y en el caso de ejercicio por un periodo menor a esa temporalidad, será otorgada hasta por igual término de desempeño de la función.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+Previo al otorgamiento de la protección y seguridad personal, la Secretaría realizará un estudio de riesgo.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
@@ -990,6 +1002,18 @@ Protección y seguridad de servidores públicos municipales
 1. El Presidente y el funcionario municipal que de manera exclusiva y directa ejerzan la dirección de las funciones en materia de seguridad pública tendrán derecho a protección y seguridad personal durante el tiempo de su encargo.
 
 Al término de las funciones de las autoridades señaladas, o al gozar de licencia, siempre y cuando no sean removidos por una causa grave imputable a ellos, el Ayuntamiento otorgará, con recursos propios, la protección y seguridad personal, la cual será de manera proporcional al periodo laborado sin que exceda de un año.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+El ayuntamiento podrá otorgar la protección y seguridad personal al concluir sus funciones o al gozar de una licencia, a las autoridades señaladas, salvo manifestación expresa del exfuncionario en la cual señale no requerir de tales servicios, y no sean removidos por una causa grave imputable a ellos.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+La protección se otorgará por un periodo no mayor a un año y en el caso de ejercicio por un período menor a esa temporalidad, será otorgada hasta por igual término de desempeño de la función.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+Previo al otorgamiento de la protección y seguridad personal, la Dirección de Seguridad Pública o su equivalente, realizará un estudio de riesgo.
 
 Otros sujetos de medidas de protección y providencias
 
@@ -2737,181 +2761,61 @@ La Secretaría deberá establecer la coordinación necesaria con aquellas autori
 
 (DEROGADO, P.O. 14 DE NOVIEMBRE DE 2018)
 
-## Título Undécimo. Seguridad Privada y Bomberos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ABRIL DE 2021)</small>
+
+## Título Undécimo. Bomberos
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE ABRIL DE 2021)</small>
 
 ### Capítulo I. Prestación del Servicio de Seguridad Privada
 
-Autorización de la prestación del servicio de seguridad privada
-
 ###### Artículo 177.
 
-El Ejecutivo del Estado, con la corresponsabilidad de los ayuntamientos, podrá autorizar el funcionamiento de servicios de seguridad privada, los que operarán en la forma y términos que determine esta Ley. El Estado autorizará la prestación del servicio a los particulares, contando para ello con la previa conformidad del Ayuntamiento que corresponda.
-
-Las visitas de supervisión, vigilancia y, en su caso, sanción derivadas de la prestación de los servicios de seguridad privada corresponderá principalmente a los municipios.
-
-Definición de seguridad privada
+(DEROGADO, P.O. 23 DE ABRIL DE 2021)
 
 ###### Artículo 178.
 
-La seguridad privada es aquélla que prestan los particulares de conformidad con la Ley General del Sistema Nacional de Seguridad Pública en las que sean complementarias y subordinadas a la Seguridad Pública, en los términos establecidos en esta Ley y el reglamento respectivo.
-
-Requisitos para prestar el servicio de seguridad privada
+(DEROGADO, P.O. 23 DE ABRIL DE 2021)
 
 ###### Artículo 179.
 
-Para prestar el servicio de seguridad privada en el Estado de Guanajuato será necesario contar con autorización expedida por la Secretaría, así como con la conformidad de los municipios en los que se desee llevar a cabo dicho servicio.
-
-La manifestación de conformidad para prestar el servicio de seguridad privada, que para tales efectos emitan los ayuntamientos, contará con una vigencia anual, la cual empezará a transcurrir a partir de la fecha de su expedición.
-
-Modalidades del servicio de seguridad privada
+(DEROGADO, P.O. 23 DE ABRIL DE 2021)
 
 ###### Artículo 180.
 
-La prestación de los servicios de Seguridad Privada podrá llevarse a cabo en las siguientes modalidades:
-
-I. Protección y vigilancia de bienes;
-
-II. Protección y vigilancia de personas;
-
-III. Transporte, custodia y protección de fondos y valores;
-
-IV. Servicios de blindaje de bienes muebles e inmuebles;
-
-V. Actividades relacionadas con la prevención de riesgos; y
-
-VI. Actividades similares o conexas a las especificadas en las fracciones anteriores previo estudio y autorización de la Secretaría.
-
-Los términos en los cuales se desarrollará cada una de las modalidades señaladas con anterioridad, se encontrará establecido por el Reglamento de la materia.
-
-Obligaciones de los prestadores de servicios de seguridad privada
+(DEROGADO, P.O. 23 DE ABRIL DE 2021)
 
 ###### Artículo 181.
 
-Los prestadores de servicios de seguridad privada, a quienes se les haya otorgado la autorización correspondiente, deberán cumplir, ante la Secretaría, con las siguientes obligaciones:
-
-I. Dar aviso por escrito de las modificaciones que se realicen a su acta constitutiva, en un plazo no mayor de treinta días naturales;
-
-II. Avisar por escrito de cualquier cambio de accionistas o socios en un plazo no mayor de treinta días naturales;
-
-III. Presentar en los primeros cinco días hábiles del mes, las altas y bajas mensuales del personal a su cargo, y la relación actualizada del mismo;
-
-IV. Si el motivo de la baja fue por la comisión de un probable delito, el aviso será de inmediato sin perjuicio de las acciones legales que el prestador deba realizar;
-
-V. Comunicar semestralmente, por escrito o por cualquier otro medio permitido por la ley, de las altas y bajas del equipo y material que se utilice en la prestación del servicio, proporcionando las principales características del mismo, incluyendo unidades móviles;
-
-VI. Comunicar por escrito y acreditar cualquier modificación a los permisos, autorizaciones o licencias, que en su caso hayan expedido las autoridades competentes, respecto del registro de portación de armas, traslados de fondos y valores, uso de frecuencia en equipos de radiocomunicación, capacitación y adiestramiento, así como cambios de domicilio;
-
-VII. Comunicar por escrito cualquier suspensión de labores, así como la disolución o liquidación de la empresa, en su caso, anexando copia certificada de los avisos dados a las autoridades fiscales y laborales, según el caso;
-
-VIII. Colaborar con su personal de mando y operativo, así como con el equipo destinado a los servicios que presta, en la ejecución de acciones encaminadas a auxiliar a la población en caso de desastres, emergencias, riesgos o siniestros, y en otras tareas sociales que le encomienden las autoridades competentes;
-
-IX. Colocar en lugar visible de las oficinas e instalaciones principales del prestador de servicios, la constancia de la autorización que le haya sido otorgada, y tendrá la obligación de señalar el número de autorización asignado en toda la documentación dirigida a los usuarios del servicio;
-
-X. Proporcionar a la Secretaría toda la información de que dispongan sobre la delincuencia, para la base de datos correspondiente;
-
-XI. Registrar ante la Secretaría al personal de seguridad privada que cause alta y que labore bajo su cargo, para su inscripción al Sistema Nacional de Seguridad Pública en un término de quince días posteriores a su contratación;
-
-XII. Adoptar medidas de prevención y detección apropiadas y suficientes, orientadas a evitar que sus actividades puedan ser utilizadas como instrumento para la realización de actos ilegales, en cualquier forma, o para dar apariencia de legalidad a actividades delictivas o a prestar servicios a delincuentes o a personas directa o indirectamente vinculadas con el tráfico de estupefacientes o actividades terroristas;
-
-XIII. Sujetar al personal de seguridad privada a las evaluaciones de control de confianza, para su ingreso y posteriormente cada tres años; y
-
-XIV. Las demás que le señalen esta Ley y ordenamientos jurídicos aplicables.
-
-Sanciones a los prestadores de servicios de seguridad privada
+(DEROGADO, P.O. 23 DE ABRIL DE 2021)
 
 ###### Artículo 182.
 
-Las personas que presten los servicios de seguridad privada, que incurran en contravención a lo dispuesto en las disposiciones normativas que rigen su actividad, se harán acreedores a las sanciones previstas en la ley y el reglamento respectivos.
-
-Las sanciones consistirán en:
-
-I. Amonestación;
-
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
-
-II. Multa desde cien hasta diez mil veces la Unidad de Medida y Actualización diaria;
-
-III. Suspensión de actividades hasta por un año con difusión pública; y
-
-IV. Revocación de la autorización con difusión pública.
-
-En los casos de difusión pública a las sanciones, la misma se publicará en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación, así como en aquéllos medios que determine la Secretaría identificando claramente al infractor, el tipo de sanción y el número de su autorización.
-
-Atribución del municipio para imponer sanciones
+(DEROGADO, P.O. 23 DE ABRIL DE 2021)
 
 ###### Artículo 183.
 
-Corresponderá al municipio, en corresponsabilidad con la Secretaría, la imposición de las sanciones a que se refiere esta Ley. Los ayuntamientos en el ejercicio de la facultad de vigilancia y supervisión de las empresas de seguridad privada, quedan obligados a notificar a la Secretaría las anomalías y contravenciones así como la imposición de medidas de seguridad o determinación de sanciones a la ley o al reglamento, inmediatamente después de tomar conocimiento de ello.
-
-El procedimiento para la imposición de las sanciones a que se refiere este capítulo se establecerá de manera supletoria en el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato, así como lo establecido en el reglamento de la materia.
-
-Lineamientos para la prestación de servicios de seguridad privada
+(DEROGADO, P.O. 23 DE ABRIL DE 2021)
 
 ###### Artículo 184.
 
-Los particulares que presten los servicios de seguridad privada deberán sujetarse a los siguientes lineamientos:
-
-I. Queda prohibido ejercer funciones propias de las autoridades de seguridad pública;
-
-II. No podrán utilizar las denominaciones de las categorías de las Instituciones Policiales en su publicidad, documentos o bienes, debiendo identificarse únicamente como elementos de servicios de seguridad privada;
-
-III. En ningún momento podrán contratar a personas que hubieren sido dadas de baja por delito o falta grave de las instituciones policiales de la federación, del Estado o de los municipios, de igual manera a la persona que haya sido condenada por delito grave;
-
-IV. Queda estrictamente prohibido a los elementos de servicios de seguridad privada, usar el escudo nacional, del Estado y de los municipios, así como logotipo, lemas, luces, sirenas, torretas, uniformes, insignias y demás implementos de uso exclusivo de las instituciones policiales de la federación, del Estado o de los municipios;
-
-V. Únicamente podrán prestar sus servicios a las personas que acrediten fehacientemente la legítima posesión o propiedad de los bienes sujetos a protección;
-
-VI. Deberán rendir informes mensuales pormenorizados de sus actividades ante la autoridad municipal correspondiente, así como cada vez que le sean requeridos por la Secretaría;
-
-VII. En los casos de detención realizada en flagrante delito, durante el ejercicio de sus funciones, deberá poner sin demora a disposición de la autoridad competente al probable responsable y a sus copartícipes, si los hubiere;
-
-VIII. Elaborar cada año el programa de capacitación y adiestramiento para su personal y presentarlo para su aprobación a la Secretaría;
-
-IX. Deberán cumplir con todos los requisitos que marque esta Ley y demás ordenamientos jurídicos aplicables;
-
-X. Dar aviso de inmediato a la autoridad competente en el momento en que tengan conocimiento de la comisión de un delito;
-
-XI. Las personas físicas o morales que presten sus servicios de seguridad privada, responderán civilmente, de manera solidaria, por los daños y perjuicios que cause su personal con motivo de la prestación del servicio o con el uso de sus instrumentos o mientras porten el uniforme de servicio;
-
-XII. Regir la prestación del servicio por los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez; y
-
-XIII. Contratar únicamente a personal que haya aprobado las evaluaciones de control y confianza de conformidad con esta Ley y su reglamento.
-
-Vigilancia de la prestación de los servicios de seguridad privada
+(DEROGADO, P.O. 23 DE ABRIL DE 2021)
 
 ###### Artículo 185.
 
-La Secretaría y los municipios son las instancias facultadas para verificar que las personas físicas y morales que presten el servicio de seguridad privada, cumplan con lo dispuesto en esta Ley y otros ordenamientos legales aplicables, y estarán facultados para determinar la imposición de medidas de seguridad.
-
-Medidas de Seguridad a los prestadores de servicios de seguridad privada
+(DEROGADO, P.O. 23 DE ABRIL DE 2021)
 
 ###### Artículo 186.
 
-Los municipios impondrán medidas de seguridad a las personas físicas o morales que presten servicios de seguridad privada que contravengan las disposiciones de esta Ley y su reglamento, con el fin de garantizar el orden y la seguridad pública, y en dicha imposición el Estado será corresponsable:
-
-Son medidas de seguridad;
-
-I. El aseguramiento y secuestro de los bienes destinados a la prestación del servicio de seguridad privada;
-
-II. La clausura; y
-
-III. Las demás aplicables.
-
-El procedimiento para la imposición de las sanciones a que se refiere este capítulo se establecerá de manera supletoria en el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato, así como lo establecido en el reglamento de la materia.
-
-Vigencia y revalidación de la autorización para prestar servicios de seguridad privada
+(DEROGADO, P.O. 23 DE ABRIL DE 2021)
 
 ###### Artículo 187.
 
-Una vez expedida la autorización ésta contará con vigencia de un año la cual tendrá que ser revalidada treinta días hábiles antes de la fecha de su vencimiento, de lo contrario no se podrá prestar el servicio hasta en tanto no sea subsanada dicha omisión, sin perjuicio de las sanciones que se deriven del incumplimiento de lo dispuesto en la normativa de la materia.
-
-Obligaciones de los usuarios de servicios de seguridad privada
+(DEROGADO, P.O. 23 DE ABRIL DE 2021)
 
 ###### Artículo 188.
 
-La persona física o moral que contrate los servicios de seguridad privada tendrá la obligación de verificar que dicho prestador cuente con la legal autorización expedida por la autoridad competente de conformidad con la normativa aplicable.
-
-La persona física o moral que al contratar los servicios de seguridad privada contravengan lo dispuesto en el párrafo anterior, serán sujetos de procedimiento administrativo conforme a lo establecido en el reglamento de la materia.
+(DEROGADO, P.O. 23 DE ABRIL DE 2021)
 
 ### Capítulo II. Cuerpos de Bomberos
 
@@ -3292,5 +3196,19 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente al de 
 P.O. 8 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 238, QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS NUMERALES DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 23 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 319, MEDIANTE EL CUAL SE EXPIDE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE GUANAJUATO Y SE REFORMA LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los noventa días posteriores a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 23 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 320, MEDIANTE EL CUAL SE REFORMA LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
