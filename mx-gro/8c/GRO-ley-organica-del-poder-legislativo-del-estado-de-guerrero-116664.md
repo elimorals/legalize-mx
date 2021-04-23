@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-11666
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-12"
-last_updated: "2021-04-20"
+last_updated: "2021-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 231
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2021.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado No. 65 Alcance II, el viernes 12 de agosto de 2016.
 
@@ -139,13 +141,19 @@ LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
 
 La presente Ley Orgánica tiene por objeto normar la organización, integración, funcionamiento y ámbito de competencia de los órganos de gobierno, de representación, técnicos y de administración que componen el Congreso del Estado, de conformidad con lo previsto en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de Guerrero.
 
-Su finalidad es la de establecer y determinar las reglas y los procedimientos internos que hagan eficiente su estructura y eficaz su funcionamiento, garantizando, promoviendo, protegiendo y respetando los derechos humanos, de conformidad con los principios de universalidad, igualdad, interdependencia, indivisibilidad y progresividad.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+Su finalidad es la de establecer y determinar las reglas y los procedimientos internos que hagan eficiente su estructura y eficaz su funcionamiento, garantizando, promoviendo, protegiendo y respetando los derechos humanos, de conformidad con los principios de universalidad, igualdad, interdependencia, indivisibilidad, progresividad y parlamento abierto.
 
 Lo no previsto en la presente Ley Orgánica, se dispondrá en la normatividad interna complementaria que se emita conforme a lo que ésta disponga.
 
 Esta Ley, sus reformas, adiciones y derogaciones no podrán ser objeto de veto ni requerirán, para su vigencia, de la promulgación por parte del Poder Ejecutivo.
 
 Es facultad exclusiva del Congreso del Estado su aprobación, reforma, adición o derogación, así como ordenar su publicación en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+EL Congreso del Estado adoptará las medidas que sean necesarias para cumplir con los principios de Parlamento Abierto.
 
 ###### ARTÍCULO 2.
 
@@ -171,6 +179,10 @@ Ley Orgánica: La Ley Orgánica del Poder Legislativo del Estado de Guerrero.
 
 Mesa Directiva: La Mesa Directiva del Pleno o de la Comisión Permanente del Congreso del Estado de Guerrero.
 
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+Parlamento Abierto: Mecanismos que garanticen la promoción del derecho a la información, la participación ciudadana y la rendición de cuentas, a través de esquemas que privilegien el acceso de manera sencilla a la información generada al interior del poder legislativo.
+
 Pleno: La Asamblea General y máximo órgano de decisión del Congreso del Estado, reunido conforme a las reglas del quórum.
 
 Presidente de la Mesa: La Presidenta o el Presidente de la Mesa Directiva del Pleno o de la Comisión Permanente del Congreso del Estado.
@@ -180,6 +192,10 @@ Portal Oficial: Es el sitio web del Congreso del Estado.
 Reglamento: El Reglamento de la Ley Orgánica.
 
 Representación: Las Representaciones Parlamentarias de los Partidos Políticos con presencia al interior del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+Sesión virtual o remota: Sesión del Pleno que se realiza utilizando cualquiera de las tecnologías de información y comunicación asociadas a la red de Internet, que garanticen tanto la posibilidad de una comunicación simultánea entre los diputados en funciones durante toda la sesión, como su expresión mediante documentación electrónica que permita el envío de video, imagen, sonido y datos.
 
 Secretaría de la Mesa: La Secretaría de la Mesa Directiva del Congreso del Estado.
 
@@ -271,6 +287,10 @@ II. Cuando por conmemoraciones o causas especiales lo acuerden la mayoría de su
 
 En los periodos de receso, la Comisión Permanente acordará lo conducente.
 
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2021)</small>
+
+III. Cuando por causas especiales de alguna enfermedad epidémica o pandemia, la autoridad sanitaria disponga, de manera estricta, medidas colectivas para prevenir contagios, incluidos el aislamiento de personas y el distanciamiento físico entre estas, previa aprobación de la mayoría calificada del Pleno, se podrán realizar sesiones de manera virtual para desahogar los asuntos correspondientes. En los periodos de receso, la Conferencia acordará lo conducente.
+
 ###### ARTÍCULO 10.
 
 Ninguna autoridad podrá ejecutar mandamiento judicial o administrativo sobre los bienes destinados al servicio del Congreso del Estado, ni sobre la persona o bienes de los Diputados en el interior de las instalaciones del Palacio Legislativo, salvo los relativos a pensión alimenticia.
@@ -333,7 +353,9 @@ En lo conducente, para la integración, elección y votación de la Mesa Directi
 
 V. Recibir de la Mesa Directiva, de la Junta de Coordinación y de los órganos técnicos y administrativos del Congreso del Estado, los archivos, bienes muebles e inmuebles que formen el patrimonio y la memoria histórica.
 
-Para lo señalado en ésta y la siguiente fracción, la Comisión de Instalación se apoyará de la Contraloría Interna del Congreso del Estado;
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+Para lo señalado en ésta y la siguiente fracción, la Comisión de Instalación se apoyará del Órgano Interno de Control del Congreso del Estado;
 
 VI. Entregar a la Mesa Directiva electa, mediante acta circunstanciada, la totalidad de documentos a que se refiere la fracción I de éste artículo, así como los archivos y los bienes muebles e inmuebles que formen el patrimonio del Congreso del Estado, con un informe de los trabajos de la Legislatura saliente.
 
@@ -445,9 +467,11 @@ XIII. Solicitar y recibir información de las instancias administrativas, parlam
 
 XIV. Los demás que establezcan la Constitución Política del Estado y las leyes vigentes.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 24.
 
-En términos del Artículo 4o. de la Constitución General, las Diputadas y los Diputados participarán en la integración de los Órganos del Congreso del Estado bajo el principio de igualdad. Al efecto, los órganos responsables y los Grupos y Representaciones Parlamentarias cuidarán que las propuestas para la integración de las instancias de trabajo legislativo y parlamentario reflejen, en la medida de lo posible, la paridad de género y la representatividad de los Grupos y Representaciones Parlamentarias.
+En términos del Artículo 4o. de la Constitución General, las Diputadas y los Diputados participarán en la integración de los órganos del Congreso del Estado bajo el principio de igualdad. Al efecto, los órganos responsables y los Grupos y Representaciones Parlamentarias observarán que las propuestas para la integración de las instancias de trabajo legislativo y parlamentario se realicen atendiendo al principio de paridad de género y la representatividad de los Grupos y Representaciones Parlamentarias.
 
 ###### ARTÍCULO 25.
 
@@ -495,7 +519,9 @@ c) Terceros con los que tenga relaciones profesionales, laborales, de negocios; 
 
 d) Socios o empresas de las que el Diputado forme o haya formado parte.
 
-XV. Presentar anualmente un informe escrito del ejercicio de sus funciones ante el Presidente de la Mesa Directiva, sin perjuicio de que puedan hacerlo ante la ciudadanía;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2021)</small>
+
+XV. Presentar un informe anual del ejercicio de sus funciones ante el Presidente de la Mesa Directiva, a más tardar el 30 de septiembre de cada año y en el año de la renovación de la legislatura, a más tardar el 15 de agosto, sin perjuicio de que puedan hacerlo ante la ciudadanía;
 
 XVI. Permitir la libre discusión y decisión parlamentaria en las sesiones y/o en las reuniones; y,
 
@@ -523,7 +549,9 @@ Los procedimientos relativos para la aplicación de sanciones administrativas a 
 
 Los Grupos y Representaciones Parlamentarias, tratándose de faltas administrativas internas, estarán a lo dispuesto por su normatividad.
 
-Las faltas administrativas en que incurran los demás servidores públicos del Congreso, serán sancionadas por la Contraloría Interna, conforme a los procedimientos establecidos al efecto.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+Las faltas administrativas en que incurran los demás servidores públicos del Congreso, serán sancionadas por el Órgano Interno de Control, conforme a los procedimientos establecidos al efecto.
 
 ###### ARTÍCULO 31.
 
@@ -637,11 +665,13 @@ VI. Opte por el ejercicio de otro cargo de elección popular.
 
 #### SECCIÓN III. DE LAS VACANTES
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 41.
 
-La vacante en el cargo de Diputado se concretará con la declaración que haga el Presidente de la Mesa Directiva por la ausencia definitiva del propietario y el suplente.
+La vacante en el cargo de cualquier Diputación se concretará con la declaración que haga el Presidente de la Mesa Directiva por la ausencia definitiva del propietario y el suplente.
 
-Las vacantes de Diputados se cubrirán conforme a lo dispuesto por el Artículo 47 de la Constitución Política del Estado.
+Las vacantes de cualquier Diputada o Diputado se cubrirán conforme a lo dispuesto por el Artículo 47 de la Constitución Política del Estado, respetando en todo momento la paridad de género en el cargo a ocupar. Si la vacante se presenta respecto de la fórmula completa que corresponda al principio de representación proporcional, ésta se cubrirá por aquella fórmula de candidatas o candidatos del mismo partido y del mismo género que siga en el orden consecutivo de la lista respectiva.
 
 ###### ARTÍCULO 42.
 
@@ -739,7 +769,9 @@ Las Sesiones podrán ser:
 
 Por su carácter: ordinarias, extraordinarias, urgentes y solemnes; y,
 
-Por su desarrollo: públicas, secretas y permanentes.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ABRIL DE 2021)</small>
+
+Por su desarrollo: públicas, secretas, permanentes y virtuales.
 
 I. Son ordinarias las sesiones que se celebren durante los períodos ordinarios y serán públicas, salvo lo previsto en la fracción IV de este Artículo;
 
@@ -766,6 +798,14 @@ De presentarse algún asunto con el carácter de urgente que deba tratarse en la
 VI. Serán solemnes aquellas Sesiones en las que el Gobernador del Estado acuda personalmente ante el Congreso del Estado para rendir la protesta de Ley o para informar sobre el estado que guarda la Administración Pública de la Entidad; la sesión para conmemorar la instalación del Primer Congreso de Anáhuac, en la que se hará entrega de la Presea "Sentimientos de la Nación"; las que así se determinen para conmemorar sucesos históricos o celebrar actos en los que el Congreso del Estado otorgue reconocimiento a los méritos de alguna persona, así como los demás casos que establece esta Ley y los que acuerde el Congreso del Estado.
 
 Las Sesiones del Congreso del Estado no podrán abrirse si no concurre la mitad más uno del número total de Diputados que la integran, y sus resoluciones se tomarán por mayoría absoluta de votos de los Diputados presentes, salvo los casos en que la Constitución Política del Estado o las Leyes determinen una votación distinta.
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2021)</small>
+
+VII. Serán virtuales aquellas sesiones que, por motivos extraordinarios derivados de fenómenos naturales, meteorológicos o contingencias sanitarias, impida a las y los Diputados reunirse físicamente en el recinto; solo se podrán llevar a cabo previa autorización de la Junta de Coordinación Política.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VII, P.O. 23 DE ABRIL DE 2021]</small>
+
+La Secretaría de Servicios Parlamentarios será la encargada de designar el medio electrónico idóneo para llevar a cabo la sesión.
 
 ###### ARTÍCULO 55.
 
@@ -995,7 +1035,9 @@ III.- Presentación de voto particular, hasta por diez minutos;
 
 IV.- Posicionamiento de grupo o representación parlamentaria, hasta por diez minutos;
 
-V.- Intervenciones en contra o a favor, hasta por cinco minutos;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2021)</small>
+
+V.- Intervenciones en contra o a favor, hasta por diez minutos;
 
 VI.- Respuestas a preguntas que se le formulen durante su intervención, hasta por tres minutos, adicionales a la misma;
 
@@ -1005,7 +1047,9 @@ VIII.- Rectificación de hechos, hasta por cinco minutos;
 
 IX.- Formulación de proposiciones con punto de acuerdo, hasta por cinco minutos;
 
-X.- Intervenciones en agenda política, hasta por diez minutos, y,
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2021)</small>
+
+X.- Intervenciones en agenda política, hasta por quince minutos, y
 
 XI.- Conmemoración de efemérides, hasta por diez minutos.
 
@@ -1371,7 +1415,9 @@ c) Auditoría Superior del Estado;
 
 d) Instituto de Estudios Parlamentarios "Eduardo Neri";
 
-e) Contraloría Interna;
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+e) Órgano Interno de Control;
 
 f) Dirección de Comunicación;
 
@@ -1505,7 +1551,9 @@ c) Auditoría Superior del Estado;
 
 d) Instituto de Estudios Parlamentarios "Eduardo Neri";
 
-e) Contraloría Interna;
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+e) Órgano Interno de Control;
 
 f) Dirección de Comunicación;
 
@@ -1593,7 +1641,9 @@ Quien resulte electo Presidente de la Mesa Directiva, durante el año de su enca
 
 Para la elección de la Mesa Directiva, los Grupos y Representaciones Parlamentarias postularán a quienes deban integrarla, cuidando que los candidatos cuenten con experiencia en la conducción de asambleas.
 
-Además de lo anterior, en la integración de la Mesa Directiva se deberán considerar los principios de proporcionalidad, paridad y pluralidad.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+Además de lo anterior, en la integración de la Mesa Directiva se deberán observar los principios de proporcionalidad, paridad de género y pluralidad.
 
 ###### ARTÍCULO 124.
 
@@ -1785,9 +1835,11 @@ XVII. Las demás que se deriven de esta Ley y los ordenamientos relativos a la a
 
 ### CAPÍTULO CUARTO. DE LA COMISIÓN PERMANENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 138.
 
-La Comisión Permanente será electa por el voto de las dos terceras partes de los Diputados presentes en la penúltima sesión de cada período ordinario de Sesiones, misma que se integrará por los Diputados miembros de la Mesa Directiva y siete Vocales. Por cada Vocal Propietario se elegirá un suplente.
+La Comisión Permanente será electa por el voto de las dos terceras partes de las Diputadas y los Diputados presentes en la penúltima sesión de cada período ordinario de sesiones, misma que se integrará por las Diputadas y los Diputados miembros de la Mesa Directiva y siete Vocales. Por cada Vocal Propietario se elegirá un suplente. En la integración de la Comisión Permanente se deberán observar los principios de proporcionalidad, paridad de género y pluralidad.
 
 Las Sesiones, procedimientos, debates, trámites, convocatorias, ceremoniales y demás actividades inherentes a las funciones de la Comisión Permanente, se regirán por las disposiciones aplicables de esta Ley Orgánica y su Reglamento.
 
@@ -2073,9 +2125,15 @@ Los Grupos, las Representaciones y los Diputados Independientes tendrán que pre
 
 Las agendas legislativas serán turnadas a la Junta de Coordinación para la elaboración del Programa Anual de Trabajo Legislativo del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 159.
 
-Durante el ejercicio de la Legislatura, los Coordinadores de los Grupos y Representantes Parlamentarios, según sea el caso, comunicarán al Presidente de la Mesa Directiva, las modificaciones que ocurran en la integración de su Grupo o en el carácter de la Representación, mismas que deberán hacerse del conocimiento del Pleno y de la Junta de Coordinación, publicarlas en el Portal Oficial.
+Durante el ejercicio de la Legislatura, los Coordinadores de los Grupos y Representantes Parlamentarios, según sea el caso, comunicarán al presidente de la Mesa Directiva, las modificaciones que ocurran en la integración de su Grupo o en el carácter de la Representación.
+
+El escrito a través del cual se realice la comunicación de la modificación, deberá acompañarse de las actas y acuerdos que se hayan tomado por la mayoría de los integrantes donde se apruebe la misma.
+
+La comunicación y sus anexos, deberán hacerse del conocimiento del Pleno y de la Junta de Coordinación Política, ordenándose su publicación en el Portal Oficial.
 
 ###### ARTÍCULO 160.
 
@@ -2091,9 +2149,11 @@ El Congreso del Estado contará con las Comisiones y Comités ordinarios y espec
 
 Las Comisiones Ordinarias son Órganos constituidos por el Pleno, que a través de la elaboración de Dictámenes, informes, opiniones o resoluciones, contribuyen a que el Congreso del Estado cumpla sus atribuciones constitucionales y legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 162.
 
-Las Comisiones y Comités ordinarios tendrán el carácter de permanentes y sus integrantes serán designados dentro de los primeros quince días del primer año de ejercicio constitucional y podrán modificarse solo en los casos que esta Ley Orgánica y su Reglamento señalen, para ese efecto, los Grupos y Representaciones Parlamentarias presentarán a la Junta sus propuestas respectivas, en ellas se privilegiarán la experiencia y la idoneidad de cada uno de sus integrantes para el mejor aprovechamiento de sus capacidades en el trabajo legislativo. En términos de sus respectivas integraciones se observará el principio de igualdad entre hombres y mujeres.
+Las Comisiones y Comités ordinarios tendrán el carácter de permanentes y sus integrantes serán designados dentro de los primeros quince días del primer año de ejercicio constitucional y podrán modificarse solo en los casos que esta Ley Orgánica y su Reglamento señalen, para ese efecto, los Grupos y Representaciones Parlamentarias presentarán a la Junta sus propuestas respectivas, en ellas se privilegiarán la experiencia y la idoneidad de cada uno de sus integrantes para el mejor aprovechamiento de sus capacidades en el trabajo legislativo. En términos de sus respectivas integraciones se observará el principio de paridad de género.
 
 Si previo a la integración de las Comisiones ordinarias se presentara un asunto que requiriera despacho urgente, la Junta, a través de la Mesa Directiva, propondrá al Pleno lo procedente.
 
@@ -2337,9 +2397,11 @@ La Mesa Directiva y la Junta de Coordinación podrán coadyuvar con los Presiden
 
 Cuando las Comisiones acuerden el carácter público de alguna de sus reuniones, la convocatoria respectiva deberá emitirse a través de la Gaceta, en la que se asentará tal carácter.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 183.
 
-Las reuniones de las Comisiones serán ordinarias y extraordinarias. Para las primeras se emitirá convocatoria al menos con cuarenta y ocho horas previas a su realización, mediante la publicación respectiva en la Gaceta y el envío directo a cada integrante, a través de los medios de comunicación acordados.
+Las reuniones de las Comisiones serán ordinarias y extraordinarias. Para las primeras se emitirá convocatoria al menos con cuarenta y ocho horas previas a su realización, mediante la publicación respectiva en la Gaceta y el envío directo a cada integrante, a través de los medios de comunicación acordados, de manera ágil y garantizando su accesibilidad.
 
 Durante los recesos del Congreso, las reuniones ordinarias se convocarán cuando menos con tres días de anticipación.
 
@@ -2577,7 +2639,13 @@ II. De Gestoría, Información y Quejas;
 
 III. Del Instituto de Estudios Parlamentarios "Eduardo Neri"; y,
 
-IV. De Biblioteca e Informática.
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2021)</small>
+
+IV. De Biblioteca e Informática, y
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2021)</small>
+
+V. Del Canal de Televisión del Congreso.
 
 ###### ARTÍCULO 199.
 
@@ -2613,7 +2681,9 @@ III. Auditoría Superior del Estado;
 
 IV. Instituto de Estudios Parlamentarios "Eduardo Neri";
 
-V. Contraloría Interna;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2021)</small>
+
+V. Órgano Interno de Control;
 
 VI. Dirección de Comunicación;
 
@@ -2627,15 +2697,23 @@ IX. Unidad de las Tecnologías de Información y Comunicación;
 
 X. Unidad de Capacitación y Formación Permanente; y,
 
-XI. Los demás que por las necesidades disponga el presupuesto.
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2021)</small>
+
+XI. Del Canal de Televisión del Congreso, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE ABRIL DE 2021)</small>
+
+XII. Los demás que por las necesidades disponga el presupuesto.
 
 Los titulares de los órganos administrativos y técnicos, integrarán un informe de actividades y resultados de cada una de sus áreas y lo presentarán semestralmente a la Junta de Coordinación, a excepción del titular de la fracción III de este artículo.
 
 Las funciones de los órganos técnicos y administrativos conciernen en lo general a sus respectivas denominaciones. En lo particular el reglamento y demás ordenamientos fijarán las que le correspondan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 203.
 
-Los titulares de los órganos administrativos y técnicos a que se refiere las fracciones de la I a la II y de la IV a la VIII del artículo anterior, serán nombrados y removidos por el Pleno del Congreso del Estado con la mayoría absoluta de los Diputados presentes en la sesión, a propuesta de la Junta de Coordinación.
+Los titulares de los órganos administrativos y técnicos a que se refiere las fracciones de la I a la II, la IV, y de la VI a la VIII del artículo anterior, serán nombrados y removidos por el Pleno del Congreso del Estado con la mayoría absoluta de los Diputados presentes en la sesión, a propuesta de la Junta de Coordinación.
 
 El titular del órgano mencionado en la fracción III del artículo que precede, será designado conforme a lo dispuesto en la Constitución Política del Estado y la Ley de Fiscalización.
 
@@ -2675,7 +2753,13 @@ II.- Dirigir los trabajos de las áreas a él adscritas y acordar con los titula
 
 III.- Realizar estudios sobre la organización, el funcionamiento y los procedimientos del Congreso, así como promover investigaciones de derecho parlamentario comparado; y,
 
-IV.- Cumplir las demás funciones que le confieren esta Ley y los ordenamientos relativos a la actividad parlamentaria.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ABRIL DE 2021)</small>
+
+IV. Al término de cada año legislativo y a petición de la Junta de Coordinación Política en términos de la fracción XI, del artículo 149 de la presente Ley, propondrá los proyectos de reforma o modificación de los manuales de Organización y Funcionamiento de cada una de las áreas que integran dicha Secretaría, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE ABRIL DE 2021)</small>
+
+V. Cumplir las demás funciones que le confieren esta Ley y los ordenamientos relativos a la actividad parlamentaria.
 
 #### SECCIÓN IV. DE LA SECRETARÍA DE SERVICIOS FINANCIEROS Y ADMINISTRATIVOS
 
@@ -2775,31 +2859,123 @@ El Instituto podrá recibir ingresos por concepto de cuotas, aportaciones y dona
 
 El órgano superior de gobierno del Instituto será el Comité respectivo.
 
-#### SECCIÓN VII. DE LA CONTRALORÍA INTERNA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ABRIL DE 2021)</small>
+
+#### SECCIÓN VII. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 216.
 
-El Congreso del Estado contará con su propia Contraloría Interna, como un órgano de control y evaluación del desempeño de las áreas administrativas y de los Órganos Técnico-Administrativos, así como en la atención de quejas, investigación, procedimientos disciplinarios e imposición de sanciones del personal adscrito a los mismos, conforme a la legislación de la materia. Además, tendrá a su cargo la revisión, inspección y auditoría interna del ejercicio del Presupuesto de Egresos del Congreso.
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del H. Congreso del Estado y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Poder Legislativo del Estado de Guerrero; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía de Combate a la Corrupción del Estado de Guerrero.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+El Titular del Órgano Interno de Control será designado por las dos terceras partes de los miembros presentes del Congreso del Estado, conforme al procedimiento establecido en la Ley Orgánica del Poder Legislativo del Estado de Guerrero Número 231.
+
+En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 217.
 
-La Contraloría Interna propondrá a la Junta de Coordinación, las políticas, manuales de organización y funciones de ese Órgano y de los demás Órganos Técnico-Administrativos del Congreso del Estado, que permitan optimizar y eficientar los recursos humanos y materiales, así como la calidad de los servicios que se prestan.
+El Órgano Interno de Control propondrá a la Junta de Coordinación, las políticas, manuales de organización y funciones de ese Órgano y de los demás Órganos Técnico-Administrativos del Congreso del Estado, que permitan optimizar y eficientar los recursos humanos y materiales, así como la calidad de los servicios que se prestan
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
 En el desempeño de sus funciones, la Contraloría Interna contará con el apoyo y la colaboración de los Titulares de los Órganos Técnico-Administrativos y de la Auditoría Superior del Estado.
 
-###### ARTÍCULO 218.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
 
-Corresponderá a la Contraloría Interna, el despacho de los siguientes asuntos:
+###### Artículo 218.
 
-I. Elaborar, aplicar y verificar el cumplimiento del programa anual de control y auditoría, realizar auditorías y aclaración a las observaciones hasta la solventación y/o elaboración de los Dictámenes de responsabilidades; vigilar que el manejo y aplicación de los recursos financieros, humanos y materiales se lleven a cabo de acuerdo con las disposiciones aplicables;
+El Órgano Interno de Control, tendrá las siguientes atribuciones:
 
-II. Diseñar, implantar, supervisar y evaluar los mecanismos de control de gestión de las Unidades administrativas del Congreso del Estado y participar en actos de fiscalización;
+I. Las que contempla la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero;
 
-III.- Recibir e investigar quejas, denuncias e inconformidades interpuestas contra servidores públicos del Congreso del Estado, en el desempeño de sus funciones o con motivo de ellas, notificar el inicio del procedimiento de responsabilidad administrativa, investigar y sustanciar los procedimientos en materia de responsabilidades administrativas e inconformidades previstos en las disposiciones legales y normativas aplicables, dictar las resoluciones correspondientes, e imponer las sanciones en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios; atender e intervenir en los diferentes medios de impugnación ante las autoridades competentes e interponer los recursos legales que correspondan en los asuntos que intervenga, así como representar al Congreso del Estado en los recursos legales y ante autoridades jurisdiccionales locales o federales.
+II. Verificar que el ejercicio de gasto del Congreso del Estado se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
 
-La Contraloría Interna iniciará los procedimientos referidos a petición de parte o de oficio.
+III. Presentar a la Junta de Coordinación Política y al Pleno del H. Congreso del Estado los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Poder Legislativo;
+
+IV. Revisar que las operaciones presupuestales que realice el H. Congreso del Estado, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del H. Congreso del Estado;
+
+VII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el Órgano Interno de Control;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Institución, empleando la metodología que determine;
+
+IX. Recibir quejas y denuncias conforme a las leyes aplicables;
+
+X. Solicitar la información y efectuar visitas a las áreas y órganos del H. Congreso del Estado para el cumplimiento de sus funciones;
+
+XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en términos de la Ley Número 230 de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Guerrero y la Ley de Obras Públicas y sus Servicios del Estado de Guerrero Número 266 y sus Reglamentos;
+
+XII. Intervenir en los actos de entrega-recepción de los servidores públicos del Poder Legislativo de mandos medios y superiores, en los términos de la normativa aplicable;
+
+XIII. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
+
+XIV. Atender las solicitudes de los diferentes órganos del H. Congreso del Estado en los asuntos de su competencia;
+
+XV. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
+
+XVI. Formular el anteproyecto de presupuesto del Órgano Interno de Control;
+
+XVII. Presentar ante el Pleno del H. Congreso los informes previo y anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera la Junta de Coordinación Política;
+
+XVIII. Presentar al Pleno los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas, y
+
+XIX. Las demás que le confieran otros ordenamientos.
+
+En el desempeño de sus funciones, el Órgano Interno de Control contará con el apoyo y la colaboración de los Titulares de los Órganos Técnico-Administrativos y de la Auditoría Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 218 BIS. El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos el día de la designación;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+III. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
+
+IV. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
+
+V. Contar con reconocida solvencia moral;
+
+VI. No pertenecer o haber pertenecido en los cinco años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Congreso del Estado, o haber fungido como consultor o auditor externo o interno durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VIII. No haber sido Secretario de Estado, Fiscal General del Estado, Oficial Mayor de un ente público, Diputado Local, Gobernador de Estado, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 218 TER.- El Titular del Órgano Interno de Control deberá poner en conocimiento de las autoridades superiores competentes, los actos u omisiones en que incurran autoridades y servidores públicos, durante y con motivo de las investigaciones que realiza dicha Unidad, para efectos de la aplicación de las sanciones administrativas que deban imponerse. La autoridad superior deberá informar al Peno las medidas o sanciones disciplinarias impuestas.
+
+Los Integrantes del Pleno solicitarán al Órgano Interno de Control correspondiente, en cualquier caso, el inicio del procedimiento de responsabilidades que de conformidad con lo previsto en la Ley Número 465 de Responsabilidades Administrativas del Estado de Guerrero deba instruirse en contra del servidor público respectivo.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 218 QUATER.- El titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, Número 231.
+
+Tendrá un nivel jerárquico igual al de un secretario o su equivalente en la estructura Orgánica del H. Congreso del Estado, y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado a que se refieren los artículos 150, 151, 152, 153 de la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+El titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades al Pleno de la Legislatura, del cual marcará copia a la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 218 QUINQUIES.- El titular del Órgano Interno de Control del Poder Legislativo será sujeto de responsabilidad en términos de la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Poder Legislativo serán sancionados por el titular del Órgano Interno de Control, o el servidor público en quien delegue la facultad, en términos de la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 218 SEXIES.- El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos del H. Congreso del Estado de Guerrero, de conformidad con la Ley Número 464 del Sistema Estatal Anticorrupción y la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero.
+
+El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
 
 #### SECCIÓN VIII. DE LA DIRECCIÓN DE COMUNICACIÓN
 
@@ -2808,6 +2984,10 @@ La Contraloría Interna iniciará los procedimientos referidos a petición de pa
 La Dirección de Comunicación tendrá a su cargo atender, estudiar, diseñar y ejecutar las estrategias de comunicación social de manera institucional para el Poder Legislativo del Estado; así como difundir las actividades legislativas, fortalecer la imagen del Congreso del Estado y de los Diputados en sus relaciones con los medios de comunicación, de conformidad con esta Ley Orgánica y su Reglamento.
 
 La Dirección dependerá de la Presidencia de la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+La Dirección diseñará y ejecutará las estrategias de comunicación social de manera institucional del Poder Legislativo del Estado para cerrar la brecha de accesibilidad de información de las personas con discapacidad auditiva o discapacidad de lenguaje.
 
 ###### ARTÍCULO 220.
 
@@ -3115,9 +3295,13 @@ La opinión será analizada en el dictamen, independientemente de su carácter n
 
 Para su publicación conjunta, las Comisiones anexarán al dictamen copia de la opinión recibida.
 
-###### ARTÍCULO 252.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+###### Artículo 252.
 
 Cuando un asunto se turne a dos o más Comisiones, el Proyecto de dictamen formulado por la Comisión coordinadora se someterá a la consideración de las otras dictaminadoras, a fin de incorporar sus observaciones y propuestas.
+
+Los Proyectos de Dictamen y, en su caso, las opiniones correspondientes deberán ser distribuidos por el Presidente de la Comisión por cualquier medio de fácil acceso cuando menos cuarenta y ocho horas antes de la reunión de trabajo en la cual sean puestos a debate y, en su caso, votación.
 
 Una vez puestos de acuerdo los responsables de su formulación en las Comisiones Unidas, el Proyecto de dictamen se distribuirá a todos los integrantes de las mismas, por lo menos, veinticuatro horas antes de la reunión en que deba discutirse y votarse.
 
@@ -3169,9 +3353,11 @@ X. Lugar y fecha de la reunión de las Comisiones Unidas para emitirlo.
 
 Al dictamen se acompañará de todos los documentos pertinentes.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 258.
 
-Una vez aprobado en Comisiones todo dictamen, independientemente del sentido en que se emita, se remitirá al Presidente de la Mesa Directiva para su inscripción en el Proyecto de Orden del Día, publicación en la Gaceta y posterior debate y votación en el Pleno.
+Una vez aprobado en Comisiones todo dictamen, independientemente del sentido en que se emita, se remitirá dentro de los tres días hábiles siguientes a su aprobación al Presidente de la Mesa Directiva para su inscripción en el Proyecto de Orden del Día, publicación en la Gaceta y posterior debate y votación en el Pleno.
 
 ###### ARTÍCULO 259.
 
@@ -3365,11 +3551,15 @@ Corregido el texto, se notificará para su revisión al Presidente de la Mesa Di
 
 ### CAPÍTULO SÉPTIMO. DE LOS PLAZOS PARA EMITIR DICTAMEN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 279.
 
-Las Iniciativas y Proyectos turnados a Comisiones deberán ser dictaminados dentro de un plazo no mayor a treinta días hábiles contados a partir del siguiente al de la recepción del turno, con las salvedades que establece esta Ley Orgánica y su Reglamento.
+Las Iniciativas de decreto, así como todo asunto turnado a Comisiones deberán ser dictaminados dentro de un plazo no mayor a treinta días hábiles contados a partir del siguiente al de la recepción del turno, con las salvedades que establece esta Ley Orgánica y su Reglamento. En casos excepcionales, un desastre natural o emergencia sanitaria, el Pleno considera que la trascendencia de la o las iniciativas, puntos de acuerdo o proyectos, coadyuvan con la debida atención de ésta, autorizará a la Mesa Directiva otorgar a la Comisión o Comisiones que se turne, un plazo máximo de cinco días hábiles para la elaboración del respectivo dictamen.
 
-Cuando la trascendencia o la complejidad de una iniciativa o proyecto lo hagan conveniente, la Mesa Directiva podrá disponer de un plazo mayor al señalado en el párrafo anterior.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+Cuando la trascendencia o la complejidad de una iniciativa o proyecto lo hagan conveniente, la Mesa Directiva podrá disponer de un plazo mayor al señalado en el párrafo anterior, que no podrá exceder de veinte días hábiles.
 
 De igual forma, dentro de los diez días hábiles posteriores a la recepción del turno, las Comisiones Dictaminadoras podrán pedir al Presidente de la Mesa Directiva, mediante escrito fundado y motivado, la ampliación de los plazos señalados en este Artículo hasta por la mitad del tiempo que les haya correspondido. La Mesa resolverá lo conducente e informará al Pleno en la siguiente sesión.
 
@@ -3427,9 +3617,11 @@ Al iniciar una Legislatura la Mesa Directiva presentará al Pleno, dentro de las
 
 ### CAPÍTULO OCTAVO. DE LA EXPEDICIÓN DE LAS LEYES Y DECRETOS
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 286.
 
-Una vez que el Congreso del Estado apruebe una Ley o Decreto, se registrará en su Libro de Leyes.
+Una vez que el Congreso del Estado apruebe una Ley o Decreto, se registrará en su Libro de Leyes y dentro de un plazo máximo de diez días hábiles, la turnará al titular del Poder Ejecutivo y al encargado de la gaceta parlamentaria, para los efectos procedentes.
 
 ###### ARTÍCULO 287.
 
@@ -3981,11 +4173,17 @@ Conforme a la declaración de Gobernador Electo del Estado Libre y Soberano de G
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DEL DICTAMEN, DISCUSIÓN Y VOTACIÓN DE LAS MINUTAS DE REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 343.
 
-Recibida la minuta enviada por alguna de las Cámaras del Honorable Congreso de la Unión, el Presidente de la Mesa Directiva la hará del conocimiento del Pleno o de la Comisión Permanente y se seguirá el trámite que esta Ley Orgánica prevé para las Iniciativas de Ley o Decreto, pero el dictamen que se emita deberá concluir con la propuesta para aprobar o no el contenido de la minuta.
+Recibida la minuta enviada por alguna de las Cámaras del Congreso de la Unión, el Presidente de la Mesa Directiva la hará del conocimiento de la Comisión correspondiente de forma inmediata en versión electrónica para el efecto de proceder a su dictamen; en la próxima sesión, la Presidencia de la Mesa Directiva dará cuenta de ello al Pleno. El dictamen que se emita deberá concluir con la propuesta para aprobar o no el contenido de la minuta.
 
-Una vez que ha sido votado el dictamen se hará del conocimiento de la Cámara correspondiente o de la Comisión Permanente del Congreso de la Unión, según sea el caso, dentro de las cuarenta y ocho horas siguientes.
+Para efectos de lo dispuesto en el Artículo 135 de la Constitución Política de los Estados Unidos Mexicanos, los dictámenes serán debatidos y votados en el Pleno el mismo día de la sesión para la que hayan sido inscritos.
+
+Una vez que ha sido votado el dictamen se hará del conocimiento de la Cámara correspondiente o de la Comisión Permanente del Congreso de la Unión, según sea el caso, a más tardar, al día hábil siguiente.
+
+La Presidencia de la Mesa Directiva deberá administrar un sistema electrónico interinstitucional de comunicación entre el Congreso del Estado de Guerrero y el Congreso de la Unión que permita el envío y recepción de documentación necesaria para el trámite de las reformas constitucionales a que se refiere el Artículo 135 de la Constitución Política de los Estados Unidos Mexicanos mediante una firma electrónica certificada.
 
 ### CAPÍTULO DÉCIMO TERCERO. DE LAS CONTROVERSIAS CONSTITUCIONALES Y DE LAS ACCIONES DE INCONSTITUCIONALIDAD
 
@@ -4127,9 +4325,41 @@ Durante las Sesiones del Pleno, los Diputados podrán atender las solicitudes de
 
 Las Sesiones del Pleno, las reuniones de las Comisiones y de los Comités, así como otros eventos relevantes del Congreso, que se transmitan, se realizarán conforme a las normas y procedimientos que regulen su funcionamiento.
 
-### CAPÍTULO SEGUNDO. DE LA GACETA PARLAMENTARIA
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
 
-### CAPÍTULO TERCERO. DEL DIARIO DE LOS DEBATES
+Las sesiones públicas del Pleno, las reuniones públicas de las Comisiones y de los Comités, así como otros eventos relevantes del Congreso que se transmitan, contarán con intérpretes de Lengua de Señas Mexicana.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE ABRIL DE 2021)</small>
+
+### CAPÍTULO PRIMERO BIS. DEL CANAL DE TELEVISIÓN DEL CONGRESO
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 361 BIS. Para la difusión de las actividades a que hace referencia el artículo 361, el Congreso del Estado contará con un órgano denominado "Canal de Televisión del Congreso", el cual funcionará con base en los permisos y las autorizaciones que le asigne la autoridad competente y de conformidad con las normas técnicas aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 361 TER. El Canal de Televisión del Congreso del Estado, es un órgano técnico desconcentrado de difusión de la actividad legislativa, el cual contribuiría a la información, el análisis y las discusiones amplias y públicas de la situación Estatal y Municipal vinculada con los trabajos legislativos.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 361 QUATER. Para el cumplimiento de sus fines, el Canal de Televisión del Congreso, se sujetará a lo siguiente:
+
+I. A lo previsto en esta Ley, el Reglamento del Canal, por los lineamientos administrativos, políticas internas de orden general y programas de trabajo que apruebe este H. Congreso.
+
+II. Para la realización de su objeto, el Canal de Televisión del Congreso contará con el presupuesto que este Congreso le asigne y que será acorde a las necesidades del Canal, para asegurar la transmisión y la calidad de los contenidos.
+
+III. El presupuesto a que se hace referencia en la fracción anterior, será aportados por este H. Congreso en los términos que se determinen en el anexo del Decreto del Presupuesto de Egresos del Estado que le corresponde al Poder Legislativo, y deberán ser ejercidos de manera mensual a través de la Secretaria de Administración y Finanzas, para el funcionamiento del Canal.
+
+IV. El Canal del Congreso, podrá recibir por concepto de cuotas, aportaciones o donativos de los usuarios de sus servicios o de los que deriven de los convenios suscritos con dependencias y organismos del sector público o privado.
+
+V. Establecer convenios de colaboración y coordinación con las dependencias y entidades del Estado y de la Federación, para efectos de su buen funcionamiento.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 361 QUINQUIES. El órgano superior del Canal de Televisión del Congreso será la Junta de Coordinación Política.
+
+### CAPÍTULO SEGUNDO. DE LA GACETA PARLAMENTARIA
 
 ###### ARTÍCULO 362.
 
@@ -4185,7 +4415,7 @@ II. Las Iniciativas de Ley o Decreto se enviarán con la debida anticipación a 
 
 III. Los informes o documentos que remitan los Diputados a título personal se publicarán íntegros.
 
-### CAPÍTULO CUARTO. DEL TABLERO DE AVISOS Y NOTIFICACIONES
+### CAPÍTULO TERCERO. DEL DIARIO DE LOS DEBATES
 
 ###### ARTÍCULO 365.
 
@@ -4221,7 +4451,7 @@ XIV. Resultado de las votaciones.
 
 El Diario de los Debates se publicará dentro de los diez días hábiles posteriores al término de la sesión en la página electrónica del Congreso. Al concluir cada año de ejercicio constitucional el Diario de los Debates se publicará en medio impreso.
 
-### CAPÍTULO QUINTO. DE LA BIBLIOTECA SIERVO DE LA NACIÓN
+### CAPÍTULO CUARTO. DEL TABLERO DE AVISOS Y NOTIFICACIONES
 
 ###### ARTÍCULO 366.
 
@@ -4241,9 +4471,51 @@ Las notificaciones a través del Tablero de Avisos y Notificaciones surtirán pl
 
 La administración de los Tableros de Avisos y Notificaciones corresponderá a la Secretaría Parlamentaria, quien deberá publicarlos en la página de Internet del Congreso del Estado a partir de las 8:00 horas, en días hábiles, salvo disposición en contrario.
 
+### CAPÍTULO QUINTO. DE LA BIBLIOTECA SIERVO DE LA NACIÓN
+
 ###### ARTÍCULO 367.
 
 El Congreso del Estado conformará, mantendrá y acrecentará el acervo bibliográfico y de otros contenidos científico, cultural o informativo, de la Biblioteca Siervo de la Nación, para contribuir al cumplimiento de las atribuciones del propio Congreso del Estado, sus Comisiones y de los legisladores. Estos acervos tendrán carácter público.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE ABRIL DE 2021)</small>
+
+### CAPÍTULO SEXTO. DE LA SEGURIDAD Y VIGILANCIA
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+###### ARTÍCULO 368.
+
+El Congreso del Estado, tendrá una Dirección de Seguridad y Vigilancia Interna, y será la encargada de la protección de los trabajadores, visitantes y diputados que se encuentren en el interior del recinto oficial, así como de los bienes muebles e inmuebles propiedad del Congreso del Estado, conforme al protocolo de seguridad y vigilancia del poder legislativo.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+
+###### ARTÍCULO 369.
+
+La Dirección de Seguridad y Vigilancia Interna, el cual tendrá las siguientes facultades:
+
+I. Ejecutar los protocolos de seguridad, a efecto de garantizar la integridad física de los servidores públicos, visitantes y diputados; así como es el resguardo de los bienes del Congreso;
+
+II. Responsabilizarse de la vigilancia interna y externa de las instalaciones del Congreso, a través de procedimientos de revisión de entrada y salida de personas y objetos;
+
+III. Elaborar, actualizar y dar continuidad a la formulación y operación del Programa Interno de Protección Civil de los edificios del Congreso del Estado.
+
+IV. Elaborar un manual interno para las funciones de los elementos de seguridad y vigilancia interna.
+
+V. Mantener la coordinación con dependencias y organismos externos de seguridad y de protección civil para los casos de emergencia.
+
+VI. Operar los sistemas de seguridad de acceso y salida de las instalaciones, así como brindar orientación a los visitantes.
+
+VII. Llevar a cabo de manera regular simulacros, control de riesgos y supervisión de sistemas electromecánicos del Congreso.
+
+VIII. Previo acuerdo de su superior jerárquico, atender y canalizar a grupos sociales o ciudadanos que requieran servicios de las unidades administrativas o de los Diputados;
+
+IX. Supervisar, al término de las jornadas de trabajo, que las instalaciones se encuentren en orden y estado físico acordes a las normas de protección civil;
+
+X. Ordenar y administrar al grupo de elementos que forman parte de la seguridad interna del Congreso.
+
+XI. Coordinar y programar la capacitación para los elementos de seguridad y vigilancia con la finalidad de mantener su profesionalismo en el servicio.
+
+XII. Las demás que, en el ámbito de su competencia se le designe.
 
 T R A N S I T O R I O S
 
@@ -4432,3 +4704,15 @@ V . Establecer normas legales que protejan los recursos naturales en la explotac
 VI . Todas aquellas que a consideración de la Mesa Directiva le sean turnados.
 
 TERCERO. Publíquese en el Periódico Oficial del Estado, en la página oficial del Congreso del Estado y divúlguese en los medios de comunicación.
+
+P.O. 23 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 706 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, con excepción de las disposiciones contenidas en los artículos 368 y 369; la fracción V del artículo 198, la fracción XI del artículo 202, y los artículos 361 BIS, 361 TER, 361 QUATER y 361 QUINQUIES correspondientes al Capítulo Primero Bis denominado “Del Canal de Televisión del Congreso” y los artículos 219 y 361, las cuales entrarán en vigor a partir del 1 de enero del año 2022, siempre y cuando se les dote de partida presupuestal.
+
+SEGUNDO. El titular del Órgano Interno de Control del Congreso del Estado, será designado dentro de los 180 días naturales siguientes a los que concluya la Sexagésima Segunda Legislatura, quien deberá expedir la convocatoria correspondiente, pudiendo el actual Contralor Interno participar en el mismo.
+
+TERCERO. El Congreso del Estado, dentro de un plazo de 180 días siguientes a la entrada en vigor del presente Decreto, emitirá los lineamientos respectivos, que servirán para la implementación del Parlamento Abierto.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento y efectos conducentes.
