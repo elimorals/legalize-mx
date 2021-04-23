@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2021-01-11"
+last_updated: "2021-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2021.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 11 DE ENERO DE 2021.
 
@@ -471,6 +471,22 @@ Los pagos por concepto de asistencia técnica no se considerarán como regalías
 Para los efectos de este Código, se entenderá como entidad financiera a las instituciones de crédito, instituciones de seguros que ofrecen seguros de vida, administradoras de fondos para el retiro, uniones de crédito, casas de bolsa, sociedades financieras populares, sociedades de inversión en renta variable, sociedades de inversión en instrumentos de deuda, sociedades operadoras de sociedades de inversión y sociedades que presten servicios de distribución de acciones de sociedades de inversión.
 
 Para ser consideradas como entidades financieras, las sociedades cooperativas de ahorro y préstamo autorizadas para operar en los términos de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo deberán cumplir con todas las obligaciones aplicables a las entidades financieras señaladas en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ABRIL DE 2021)</small>
+
+###### Artículo 15-D.
+
+No tendrán efectos fiscales de deducción o acreditamiento, los pagos o contraprestaciones realizados por concepto de subcontratación de personal para desempeñar actividades relacionadas tanto con el objeto social como con la actividad económica preponderante del contratante.
+
+Tampoco se darán efectos fiscales de deducción o acreditamiento a los servicios en los que se proporcione o ponga personal a disposición del contratante, cuando se actualice cualquiera de los siguientes supuestos:
+
+I. Cuando los trabajadores que el contratista proporcione o ponga a disposición del contratante, originalmente hayan sido trabajadores de este último y hubieren sido transferidos al contratista, mediante cualquier figura jurídica, y
+
+II. Cuando los trabajadores que provea o ponga a disposición el contratista abarquen las actividades preponderantes del contratante.
+
+Para los efectos del primer párrafo de este artículo, se podrán dar efectos fiscales de deducción o acreditamiento a los pagos o contraprestaciones por subcontratación de servicios especializados o la ejecución de obras especializadas, que no formen parte del objeto social ni de la actividad económica preponderante de la beneficiaria de los mismos, siempre que el contratista cuente con el registro a que se refiere el artículo 15 de la Ley Federal del Trabajo y se cumplan con los demás requisitos establecidos para tal efecto en la Ley del Impuesto sobre la Renta y en la Ley del Impuesto al Valor Agregado, respectivamente.
+
+Los servicios u obras complementarias o compartidas prestadas entre empresas de un mismo grupo empresarial, también serán considerados como especializados siempre y cuando no formen parte del objeto social ni de la actividad económica preponderante de la empresa que los reciba.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -1462,7 +1478,9 @@ XIV. Las personas a quienes residentes en el extranjero les presten servicios pe
 
 XV. La sociedad que administre o los propietarios de los inmuebles afectos al servicio turístico de tiempo compartido prestado por residentes en el extranjero, cuando sean partes relacionadas en los términos de los artículos 90 y 179 de la Ley del Impuesto sobre la Renta, hasta por el monto de las contribuciones que se omitan.
 
-XVI. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADA, D.O.F. 23 DE ABRIL DE 2021)</small>
+
+XVI. Las personas morales o personas físicas, que reciban servicios o contraten obras a que se refiere el artículo 15-D del presente Código, por las contribuciones que se hubieran causado a cargo de los trabajadores con los que se preste el servicio.
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -4316,6 +4334,10 @@ f). Que se microfilmen o graben en discos ópticos o en cualquier otro medio que
 
 g). Divulgar, hacer uso personal o indebido de la información confidencial proporcionada por terceros independientes que afecte su posición competitiva, a que se refieren los artículos 46, fracción IV y 48, fracción VII de este Código.
 
+> <small>(ADICIONADO, D.O.F. 23 DE ABRIL DE 2021)</small>
+
+h). Realizar la deducción o acreditamiento, en contravención a lo señalado en los artículos 28, fracción XXXIII de la Ley del Impuesto sobre la Renta o 4o., tercer párrafo de la Ley del Impuesto al Valor Agregado.
+
 III. Se considera también agravante, la omisión en el entero de contribuciones que se hayan retenido o recaudado de los contribuyentes.
 
 IV. Igualmente es agravante, el que la comisión de la infracción sea en forma continuada.
@@ -4670,6 +4692,10 @@ XLIII. No cumplir con las especificaciones tecnológicas determinadas por el Ser
 
 XLIV. No cumplir con las obligaciones establecidas en el artículo 82, fracción VI de la Ley del Impuesto sobre la Renta.
 
+> <small>(ADICIONADA, D.O.F. 23 DE ABRIL DE 2021)</small>
+
+XLV. Cuando el contratista no cumpla con la obligación de entregar a un contratante la información y documentación a que se refieren los artículos 27, fracción V, tercer párrafo de la Ley del Impuesto sobre la Renta y 5o., fracción II, segundo párrafo de la Ley del Impuesto al Valor Agregado.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 82.
@@ -4963,6 +4989,10 @@ XXXIX. De $156,930.00 a $223,420.00 a la establecida en la fracción XXXIX.
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 XL. De $1.00 a $10.00 a la establecida en la fracción XLIII, por cada comprobante fiscal digital por Internet enviado que contenga información que no cumple con las especificaciones tecnológicas determinadas por el Servicio de Administración Tributaria.
+
+> <small>(ADICIONADA, D.O.F. 23 DE ABRIL DE 2021)</small>
+
+XLI. De $150,000.00 a $300,000.00 a la establecida en la fracción XLV, por cada obligación de entregar información no cumplida.
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -6189,6 +6219,10 @@ g) Utilizar datos falsos para acreditar o disminuir contribuciones.
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 h) Declarar pérdidas fiscales inexistentes.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ABRIL DE 2021)</small>
+
+i) Utilizar esquemas simulados de prestación de servicios especializados o la ejecución de obras especializadas, descritas en el artículo 15-D, penúltimo párrafo, de este Código, o realizar la subcontratación de personal a que se refiere el primer y segundo párrafos de dicho artículo.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -10367,3 +10401,49 @@ II. Los procedimientos de aseguramiento precautorio de bienes o de la negociaci�
 D.O.F. 11 DE ENERO DE 2021.
 
 > <small>[N. DE E. LA ACTUALIZACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+D.O.F. 23 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES; DEL CÓDIGO FISCAL DE LA FEDERACIÓN; DE LA LEY DEL IMPUESTO SOBRE LA RENTA; DE LA LEY DEL IMPUESTO AL VALOR AGREGADO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY REGLAMENTARIA DE LA FRACCIÓN XIII BIS DEL APARTADO B, DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SUBCONTRATACIÓN LABORAL”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en los artículos Cuarto, Quinto y Sexto del presente Decreto, que entrarán en vigor el 1 de agosto de 2021 y lo previsto en los artículos Séptimo y Octavo del presente Decreto entrarán en vigor en el ejercicio fiscal 2022.
+
+Segundo. Dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría del Trabajo y Previsión Social deberá expedir las disposiciones de carácter general a que se refiere el artículo 15, párrafo sexto, de la Ley Federal del Trabajo.
+
+Tercero. A la fecha de entrada en vigor del presente Decreto, las personas físicas o morales que presten servicios de subcontratación, deberán obtener el registro ante la Secretaría del Trabajo y Previsión Social que prevé el artículo 15 de la Ley Federal del Trabajo, en un plazo de 90 días naturales, contados a partir de la publicación de las disposiciones de carácter general a que se refiere el artículo 15, párrafo sexto, de dicha Ley.
+
+Cuarto. Para fines de lo dispuesto en el párrafo tercero del artículo 41 de la Ley Federal del Trabajo, tratándose de empresas que operan bajo un régimen de subcontratación, no será requisito la transmisión de los bienes objeto de la empresa o establecimiento durante el plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, siempre que la persona contratista transfiera a la persona beneficiaria a los trabajadores en dicho plazo. En todo caso se deberán reconocer los derechos laborales, incluida su antigüedad, que se hubieran generado por el efecto de la relación de trabajo.
+
+Quinto. Aquellos patrones que, en términos del segundo párrafo del artículo 75 de la Ley del Seguro Social, previo a la entrada en vigor del presente Decreto, hubiesen solicitado al Instituto Mexicano del Seguro Social la asignación de uno o más registros patronales por clase, de las señaladas en el artículo 73 de la Ley del Seguro Social, para realizar la inscripción de sus trabajadores a nivel nacional, contarán con un plazo de 90 días naturales contados a partir de la entrada en vigor de las presentes reformas legales para dar de baja dichos registros patronales y de ser procedente, solicitar al mencionado Instituto se le otorgue un registro patronal en términos de lo dispuesto por el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
+
+Una vez concluido dicho plazo, aquellos registros patronales por clase que no hayan sido dados de baja, serán dados de baja por el Instituto Mexicano del Seguro Social.
+
+Sexto. Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refieren las fracciones I y II del artículo 15 A de la Ley del Seguro Social, dentro del plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto. La información a que se refiere la fracción III del citado artículo deberá ser presentada, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
+
+Séptimo. Para efectos de la Ley del Seguro Social, durante los 90 días naturales siguientes a la entrada en vigor de la presente reforma, se considerará como sustitución patronal la migración de trabajadores de las empresas que operaban bajo el régimen de subcontratación laboral, siempre y cuando la empresa destino de los trabajadores reconozca sus derechos laborales, incluyendo la antigüedad de los mismos y los riesgos de trabajo terminados, ante las instancias legales correspondientes.
+
+En estos supuestos aplicarán las siguientes reglas, para efectos de la determinación de la clase, fracción y prima del Seguro de Riesgos de Trabajo:
+
+1.- La empresa que absorba a los trabajadores deberá auto clasificarse conforme a los criterios que se establecen en los artículos 71, 73 y 75 de la Ley del Seguro Social, y de acuerdo a los artículos 18, 20 y al Catálogo de Actividades previsto en el artículo 196, todos del Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización, debiendo conservar la prima con la que venía cotizando la empresa que tenía los trabajadores registrados en el IMSS, siempre y cuando dicha empresa haya estado correctamente clasificada conforme a los riesgos inherentes a la actividad de la negociación de que se trataba y a las disposiciones normativas aplicables, en caso contrario deberá cotizar con la prima media de la clase que le corresponda.
+
+2.- Tratándose de una empresa que absorba a los trabajadores de otra u otras empresas, con la misma o distintas clases, y que en virtud de ello deban ajustar su clasificación a las nuevas actividades que llevará a cabo; la clase y fracción se determinará atendiendo a los riesgos inherentes a la actividad de la negociación de que se trate y la prima se obtendrá de aplicar el procedimiento siguiente:
+
+a) Por cada registro patronal, tanto de la empresa que absorbe como de la otra u otras empresas a sustituir, se multiplicará la prima asignada por el total de los salarios base de cotización de los trabajadores comprendidos en el mismo. El salario base de cotización a considerar, será el del mes previo al que se comunique la sustitución al Instituto.
+
+b) Se sumarán los productos obtenidos conforme al inciso anterior y el resultado se dividirá entre la suma de los salarios base de cotización del total de los trabajadores comprendidos en todos los registros patronales.
+
+c) La prima así obtenida se aplicará al registro patronal de la empresa que absorbe a los trabajadores y estará vigente hasta el último día del mes de febrero posterior a la sustitución.
+
+d) Para efectos de la determinación de la prima del ejercicio siguiente, la empresa que absorbe a los trabajadores deberá considerar los riesgos de trabajo terminados que les hubiesen ocurrido a dichos trabajadores en el ejercicio correspondiente.
+
+Lo anterior, siempre y cuando las empresas que se pretendan sustituir hayan estado correctamente clasificadas conforme a los riesgos inherentes a la actividad de la o las negociaciones de que se trataban y a las disposiciones normativas aplicables, en caso contrario deberán cotizar a la prima media de la clase que les corresponda.
+
+Las empresas que cuenten a la fecha de la entrada en vigor de las presentes disposiciones con un Convenio de Subrogación de Servicios Médicos con Reversión de Cuotas vigente, y que en términos de estas disposiciones lleven a cabo una sustitución patronal, no serán objeto de modificación de las condiciones pactadas en el mismo. Vencido el plazo de 90 días naturales aplicarán las reglas previstas tanto en la Ley del Seguro Social como en el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
+
+Octavo. Dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá expedir las reglas que establezcan los procedimientos a que se refiere el artículo 29 Bis, párrafo segundo, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refiere el inciso f) del artículo 29 Bis, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
+
+Noveno. Las conductas delictivas que hayan sido cometidas con anterioridad a la entrada en vigor del presente Decreto serán sancionadas de conformidad con la legislación vigente al momento de la comisión de los hechos.
+
+Décimo. Las dependencias y entidades de la Administración Pública Federal involucradas en la implementación del presente Decreto, realizarán las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del mismo, se realicen con cargo al presupuesto aprobado a cada una de ellas en el presente ejercicio fiscal y subsecuentes, por lo que no requerirán recursos adicionales que tengan por objeto solventar las mismas y no se incrementará el presupuesto regularizable de éstas para el presente ejercicio fiscal ni posteriores.
