@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2021-01-27"
+last_updated: "2021-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2021.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -198,6 +198,10 @@ V. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 VI. Especializada en Investigación de Violaciones a Derechos Humanos.
 
 VII. Especializada en Combate a la Corrupción.
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2021)</small>
+
+VIII. Especializada en Delitos Electorales.
 
 La Fiscalía General del Estado contará con las unidades orgánicas, administrativas y órganos administrativos desconcentrados que determine su Ley Orgánica.
 
@@ -3172,3 +3176,25 @@ P.O. 27 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0771/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/0799/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A efecto de dar cumplimiento al presente Decreto, se incorporarán las partidas presupuestales necesarias para la creación y operación gradual y progresiva de la Fiscalía Especializada en Delitos Electorales de la siguiente manera:
+
+1. En el año 2021, se creará y operará la Fiscalía Especializada en Delitos Electorales, con la Unidad Regional Zona Centro, la cual cubrirá adicional y temporalmente las zonas Sur y Occidente; y la Unidad Regional Zona Norte, que atenderá adicional y temporalmente la zona Noroeste.
+
+2. En el año 2022, se creará y operará la Unidad Regional Zona Occidente.
+
+3. En el año 2023, se creará y operará la Unidad Regional Zona Sur.
+
+4. En el año 2024, se creará y operará la Unidad Regional Zona Noroeste.
+
+El personal asignado a la Fiscalía Especializada, así como a cada una de las Unidades Regionales podrá aumentarse gradualmente para establecer la estructura orgánica necesaria, conforme a la incidencia delictiva y la suficiencia presupuestal.
