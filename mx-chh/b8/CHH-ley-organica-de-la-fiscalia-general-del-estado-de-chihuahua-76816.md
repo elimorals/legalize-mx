@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2021-02-27"
+last_updated: "2021-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2021.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -185,6 +185,10 @@ IX. Crear y difundir programas, proyectos y estudios permanentes de información
 
 H. En materia de Desaparición Forzada de Personas: Las previstas para las Entidades Federativas en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y demás aplicables.
 
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2021)</small>
+
+I. En materia de Delitos Electorales: la prevención, investigación y persecución de los delitos establecidos, cuando no sea competente la Federación, y prestar el auxilio que se requiera por la autoridad, conforme a lo dispuesto en la Ley General en Materia de Delitos Electorales.
+
 ### CAPÍTULO II. De la Organización
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
@@ -219,17 +223,21 @@ VI. La Fiscalía Especializada en Investigación de Violaciones a los Derechos H
 
 VII. La Fiscalía Especializada en Combate a la Corrupción;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ABRIL DE 2021)</small>
 
-VIII. Los Agentes del Ministerio Público, y
+VIII. La Fiscalía Especializada en Delitos Electorales.
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2021)</small>
 
-IX. La Agencia Estatal de Investigación.
+IX. Los Agentes del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE ABRIL DE 2021)</small>
 
-El Fiscal General del Estado y los Fiscales Especializados en Atención a Mujeres Víctimas del Delito por Razones de Género; en Control, Análisis y Evaluación; en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada; en Operaciones Estratégicas; y en Combate a la Corrupción, así como los Fiscales de Distrito por Zonas, intervendrán como representantes del Ministerio Público, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por autoridad competente.
+X. La Agencia Estatal de Investigación.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2021)</small>
+
+El Fiscal General del Estado y los Fiscales Especializados en Atención a Mujeres Víctimas del Delito por Razones de Género; en Control, Análisis y Evaluación; en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada; en Delitos Electorales; en Operaciones Estratégicas; y en Combate a la Corrupción, así como los Fiscales de Distrito por Zonas, intervendrán como representantes del Ministerio Público, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por autoridad competente.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -397,9 +405,19 @@ XIII. Ejercer las que le concede la presente Ley en relación al Fondo Auxiliar 
 
 XIV. Crear Unidades Especializadas para la Investigación de cualquier Delito.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ABRIL DE 2021)</small>
 
-XV. Las demás que le confieran las leyes y reglamentos.
+XV. Crear Comisiones Especiales para la investigación de cualquier delito; las cuales serán de carácter temporal, con autonomía técnica y de gestión, para colaborar en las investigaciones de fenómenos y delitos que, debido a su gravedad y contexto, a juicio de la persona titular de la Fiscalía amerite su creación.
+
+Sin perjuicio de las atribuciones y labores propias conferidas a las dependencias correspondientes, estas comisiones incluirán delitos como feminicidios, violencia sexual, violencia política contra las mujeres en razón de género, trata de personas, o las que impliquen violaciones a derechos humanos, en especial a personas pertenecientes a los pueblos y comunidades indígenas, de las niñas, niños, adolescentes y personas migrantes. Tendrán como enfoque el acceso a la verdad, la justicia, la reparación integral y la garantía de no repetición.
+
+Serán integradas, de manera multidisciplinaria, por personas expertas de reconocida experiencia, tanto nacionales o internacionales en las materias que se requieran.
+
+Los trabajos, recomendaciones y conclusiones de las comisiones podrán ser tomados en consideración por los órganos de la función fiscal, para la investigación y el ejercicio de la acción penal de los asuntos correspondientes.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE ABRIL DE 2021)</small>
+
+XV. Las demás que le confieren las leyes y reglamentos.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -670,6 +688,20 @@ IX. Promover acción de extinción de dominio de bienes en los supuestos estable
 X. Generar herramientas metodológicas para identificar los patrones de conducta que pudieran estar relacionados con operaciones realizadas con recursos de procedencia ilícita.
 
 XI. Las demás que le confieran otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2021)</small>
+
+###### Artículo 11 Quáter.
+
+La Fiscalía Especializada en Delitos Electorales, realizará funciones de prevención, investigación y persecución de los delitos en materia electoral y de violencia política contra las mujeres en razón de género, en el ámbito de su competencia y conforme a lo dispuesto por la presente Ley, la Ley General en Materia de Delitos Electorales y demás legislación aplicable.
+
+La titularidad de la Fiscalía recaerá en una persona con cargo de fiscal especializada o especializado, y contará con Cinco Unidades Regionales, una en cada zona, con una persona titular, que podrán auxiliarse de las coordinaciones del Ministerio Público y Policía Investigadora, así como de las unidades administrativas necesarias y demás personal que se requiera con base en la incidencia delictiva y disponibilidad presupuestal.
+
+El personal para el ejercicio de sus funciones deberá ser calificado y especializado en derechos humanos, perspectiva de género, materia electoral, atención a víctimas del delito y violencia política contra las mujeres en razón de género.
+
+La Fiscalía Especializada en Delitos Electorales, contará con un área encargada de recopilar, administrar, conservar y actualizar una base estatal de estadística de los asuntos que tramite referente a violencia política contra las mujeres en razón de género, y compartirla, con la Fiscalía General de la República, el Instituto Estatal Electoral, el Tribunal Estatal Electoral y en su caso otras autoridades, de conformidad con los lineamientos que se emitan para tal fin.
+
+De la misma forma, la Fiscalía Especializada en Delitos Electorales contará con el personal técnico y los recursos materiales, humanos y financieros necesarios para el ejercicio de sus funciones, de conformidad con el reglamento correspondiente.
 
 ###### Artículo 12.
 
@@ -1790,3 +1822,25 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Poder Ejecutivo del Estado de Chihuahua, a través del Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, a partir de la publicación del presente Decreto, contará con un plazo de 180 días naturales para publicar el Modelo Homologado de los Módulos de Atención a la Violencia Familiar y de Género.
 
 TERCERO.- Será prioritaria la instalación de Módulos de Atención a la Violencia Familiar y de Género en los municipios que no cuenten con ellos. Los Módulos de Atención ya instalados, tendrán la obligación de adecuar su operación al Modelo Homologado.
+
+P.O. 24 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/0799/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A efecto de dar cumplimiento al presente Decreto, se incorporarán las partidas presupuestales necesarias para la creación y operación gradual y progresiva de la Fiscalía Especializada en Delitos Electorales de la siguiente manera:
+
+1. En el año 2021, se creará y operará la Fiscalía Especializada en Delitos Electorales, con la Unidad Regional Zona Centro, la cual cubrirá adicional y temporalmente las zonas Sur y Occidente; y la Unidad Regional Zona Norte, que atenderá adicional y temporalmente la zona Noroeste.
+
+2. En el año 2022, se creará y operará la Unidad Regional Zona Occidente.
+
+3. En el año 2023, se creará y operará la Unidad Regional Zona Sur.
+
+4. En el año 2024, se creará y operará la Unidad Regional Zona Noroeste.
+
+El personal asignado a la Fiscalía Especializada, así como a cada una de las Unidades Regionales podrá aumentarse gradualmente para establecer la estructura orgánica necesaria, conforme a la incidencia delictiva y la suficiencia presupuestal.
