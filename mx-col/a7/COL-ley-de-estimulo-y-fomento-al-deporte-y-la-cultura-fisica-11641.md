@@ -4,7 +4,7 @@ identifier: "COL-ley-de-estimulo-y-fomento-al-deporte-y-la-cultura-fisica-11641"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-19"
-last_updated: "2019-04-06"
+last_updated: "2021-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE ESTIMULO Y FOMENTO AL DEPORTE Y LA CULTURA FISICA DEL ESTADO DE COLIMA -- ANTES LEY DE ESTIMULO Y FOMENTO AL DEPORTE Y LA CULTURA FISICA --
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 24 DE ABRIL DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2021 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de abril de 1997.
 
@@ -1162,3 +1164,19 @@ P.O. 6 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 51 POR EL QUE SE REFORMA EL NOMBRE DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA; LA FRACCIÓN VIII, DEL ARTÍCULO 1; EL PÁRRAFO PRIMERO DEL ARTÍCULO 23 BIS 5, TODOS DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA CÍVICA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 441.- POR EL QUE SE EXPIDE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Se abroga la Ley de Estímulo y Fomento al Deporte y la Cultura Física, publicada en el Periódico Oficial “El Estado de Colima” el día 19 de abril de 1997.
+
+TERCERO.- El Poder Ejecutivo contará con un plazo de 90 días hábiles contados a partir de la entrada en vigor de la presente Ley para expedir su Reglamento y las demás disposiciones reglamentarias a que se refiere esta, en caso de ser necesario.
+
+CUARTO.- Los municipios, a través de sus ayuntamientos, contarán con un plazo de 120 días hábiles contados a partir de la entrada en vigor de la presente Ley para adecuar su reglamentación a los términos que esta prevé.
+
+QUINTO.- Todos los procedimientos y recursos administrativos que se encuentren en desarrollo a la entrada en vigor de la presente ley, se concluirán sujetándose a las disposiciones vigentes al momento de su inicio.
+
+SEXTO.- El Poder Ejecutivo contará con un plazo de 365 días hábiles contados a partir de la entrada en vigor de la presente Ley para constituir la Comisión Estatal de Apelación y Arbitraje.
