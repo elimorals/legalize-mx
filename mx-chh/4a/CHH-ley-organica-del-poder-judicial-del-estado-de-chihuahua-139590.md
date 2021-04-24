@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-139590"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-28"
-last_updated: "2021-01-30"
+last_updated: "2021-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2021.
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 28 de diciembre de 2019.
 
@@ -2063,9 +2063,11 @@ VI. Requerir a los órganos del Poder Judicial la información necesaria para la
 
 VII. Las demás que le confieran esta Ley, así como los reglamentos y acuerdos generales expedidos por el Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2021)</small>
+
 ###### Artículo 165.
 
-Las personas visitadoras, de acuerdo con los sorteos periódicos que realice el Consejo, deberán visitar e inspeccionar de manera ordinaria los tribunales, de conformidad con las disposiciones generales que emita el Consejo.
+Las personas visitadoras, de acuerdo con los sorteos periódicos que realice el Consejo, deberán visitar e inspeccionar de manera ordinaria los tribunales, cuando menos tres veces al año, de conformidad con las disposiciones generales que emita el Consejo. El informe que resulte de dichas inspecciones será público.
 
 Las personas titulares de los órganos que habrán de inspeccionarse mediante visita ordinaria, deberán fijar el correspondiente aviso en los estrados del órgano con una anticipación mínima de quince días hábiles, para el efecto de que las personas interesadas puedan acudir a la visita y manifestar sus quejas o denuncias.
 
@@ -3482,3 +3484,11 @@ P.O. 30 DE ENERO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Una vez que el presente Decreto entre en vigor, en un plazo máximo de ciento ochenta días, el Congreso del Estado emitirá la ley correspondiente para regular la operatividad del Registro Estatal de Deudores Alimentarios del Poder Judicial del Estado.
+
+P.O. 24 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0998/2021 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 165, PÁRRAFO PRIMERO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
