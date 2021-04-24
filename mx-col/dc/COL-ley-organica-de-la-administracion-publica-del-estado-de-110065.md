@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-110065"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-01"
-last_updated: "2018-10-20"
+last_updated: "2021-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2021.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el jueves 1 de octubre de 2015.
 
@@ -61,7 +61,9 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
 La presente ley es reglamentaria del artículo 60 de la Constitución Política del Estado Libre y Soberano de Colima y tiene por objeto establecer las bases para la organización y funcionamiento de la Administración Pública del Estado, que será centralizada y paraestatal.
 
-La Oficina del Gobernador, las Secretarías y la Consejería Jurídica integran la Administración Pública Centralizada.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2021)</small>
+
+La Oficina del Gobernador, las Secretarías, la Consejería Jurídica y la Contraloría General del Estado integran la Administración Pública Centralizada.
 
 Los organismos descentralizados, empresas de participación estatal mayoritaria y los fideicomisos públicos, componen la Administración Pública Paraestatal.
 
@@ -227,7 +229,9 @@ Los recursos administrativos promovidos contra actos de los Secretarios serán r
 
 A la Secretaría General de Gobierno corresponde el estudio, planeación, resolución y despacho de los siguientes asuntos:
 
-I.- Conducir la política interna del Estado y las relaciones del Poder Ejecutivo con los otros poderes del Estado, con los poderes de la Unión, con los poderes de otras entidades federativas, con los órganos constitucionales autónomos nacionales y locales, con las autoridades municipales, con los partidos políticos, con los agentes consulares y con las organizaciones de la sociedad civil;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2021)</small>
+
+I.- Conducir la política interna del Estado y las relaciones del Poder Ejecutivo con los otros poderes del Estado, con los poderes de la Unión, con los poderes de otras entidades federativas, con los órganos constitucionales autónomos nacionales y locales, con las autoridades municipales, con los partidos políticos, con los agentes consulares, con entes privados o sociales ya sean nacionales o extranjeros y con las organizaciones de la sociedad civil;
 
 II.- Promover la participación ciudadana y contribuir al fortalecimiento del Estado de Derecho y las instituciones democráticas, impulsando la construcción de acuerdos políticos y consensos sociales para que, en los términos de la Constitución y de las leyes, se mantengan las condiciones de unidad, cohesión y paz social, fortalecimiento de las instituciones de gobierno y gobernabilidad democrática;
 
@@ -241,7 +245,9 @@ VI.- Refrendar los reglamentos, decretos, acuerdos y órdenes del Gobernador, as
 
 VII.- Dirigir y administrar el Periódico Oficial del Estado y publicar las leyes y decretos del Congreso del Estado, así como los reglamentos que expida el Gobernador y los Ayuntamientos, y los actos, resoluciones, acuerdos y disposiciones que por ley deban publicarse en dicho medio de difusión oficial;
 
-VIII.- Tramitar, por acuerdo del Gobernador, lo relativo al ejercicio de las facultades que otorgan al Titular del Poder Ejecutivo las fracciones VIII, IX, X, XI, XIV, XV, XXIII y XXVII del artículo 58 de la Constitución Política del Estado Libre y Soberano de Colima;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2021)</small>
+
+VIII.- Tramitar, por acuerdo del Gobernador, lo relativo al ejercicio de las facultades que otorgan al Titular del Poder Ejecutivo las fracciones IX, X, XI, XII, XVII, XVIII, XXVII, XXXI y XXXIV del artículo 58 de la Constitución Política del Estado Libre y Soberano de Colima;
 
 IX.- Ejercer, por acuerdo del Gobernador, y en su caso, con la participación que corresponda a otras autoridades competentes, el derecho de expropiación, ocupación temporal y limitación de dominio por causa de utilidad pública conforme a las leyes respectivas, así como refrendar los títulos de propiedad que expida el Poder Ejecutivo;
 
@@ -265,9 +271,27 @@ XVIII.- Coordinar al gabinete de seguridad del Estado y vigilar el cumplimiento 
 
 XIX.- Establecer y operar el sistema de investigación e información y desarrollo sociopolítico, que contribuya a preservar la integridad, estabilidad y permanencia del Estado y sus instituciones;
 
-XX.- Coordinar el Sistema Estatal de Protección Civil y fomentar la colaboración entre los órdenes de gobierno en esta materia, y
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2021)</small>
 
-XXI.- Los demás que le atribuyan las leyes y reglamentos y aquellos que le encomiende el Gobernador.
+XX.- Coordinar, atender, fomentar y vigilar en el ámbito administrativo, en vinculación con las organizaciones de la sociedad civil, la promoción, respeto y defensa de los derechos humanos y dar seguimiento a la atención de las recomendaciones que emitan los organismos competentes en dicha materia a las dependencias y entidades de la Administración Pública Estatal, así como dictar las medidas administrativas que sean necesarias para tal efecto;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2021)</small>
+
+XXI.- Coordinar el Sistema Estatal de Protección Civil y fomentar la colaboración entre los órdenes de gobierno en esta materia;
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2021)</small>
+
+XXII.- Coordinar las funciones de la Comisión de Búsqueda de Personas del Estado de Colima, así como colaborar en la coordinación de las dependencias estatales con el Sistema Nacional de Búsqueda de Personas y con la Comisión Nacional de Búsqueda de Personas;
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2021)</small>
+
+XXIII.- Coordinar las acciones de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Colima;
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2021)</small>
+
+XXIV.- Organizar, dirigir y vigilar el ejercicio de las funciones del Sistema de Protección Integral de los derechos de Niñas, Niños y Adolescentes del Estado de Colima; y
+
+XXV.- Los demás que le atribuyan las leyes y reglamentos y aquellos que le encomiende el Gobernador.
 
 ###### Artículo 23.
 
@@ -311,7 +335,9 @@ XVI.- Realizar una labor permanente de difusión, orientación y asesoría en ma
 
 XVII.- Practicar auditorías e inspecciones a los contribuyentes; ejercer la facultad económico coactiva conforme a las leyes de la materia; intervenir en los juicios de carácter administrativo o fiscal que se ventilen ante cualquier tribunal cuando tenga interés la Hacienda Pública del Estado; y tramitar y resolver los recursos administrativos en la esfera de su competencia;
 
-XVIII.- Tramitar, por acuerdo expreso del Gobernador, lo relativo al ejercicio de las facultades que otorgan al titular del Poder Ejecutivo las fracciones XVI, XVII y XXXVII del Artículo 58 de la Constitución Política del Estado Libre y Soberano de Colima;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2021)</small>
+
+XVIII.- Tramitar, por acuerdo expreso del Gobernador, lo relativo al ejercicio de las facultades que otorgan al Titular del Poder Ejecutivo las fracciones XIX, XX y XL del Artículo 58 de la Constitución Política del Estado Libre y Soberano de Colima;
 
 XIX.- Formular, proponer y aplicar el Sistema Estatal de Política Financiera;
 
@@ -781,19 +807,35 @@ VIII.- Coordinar, promover y apoyar los programas de investigación, desarrollo 
 
 IX.- Crear, fomentar, conservar y promover el establecimiento de parques, zonas industriales, empresas e industrias, así como crear y conservar reservas territoriales para el establecimiento de las mismas;
 
-X.- Coordinar y gestionar con las dependencias y organismos federales y municipales programas de desregulación administrativa y demás aspectos que incidan en la competitividad y productividad de las empresas;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2021)</small>
 
-XI.- Promover la elaboración de proyectos productivos que permitan el aprovechamiento racional de los recursos potenciales, la industrialización y adecuada comercialización de bienes y servicios, así como impulsar las actividades económicas del Estado;
+X.- Implementar en coordinación con organismos públicos federales, estatales y municipales, en el ámbito de la mejora regulatoria, acciones que incidan en la competitividad y productividad del Estado;
 
-XII.- Participar coordinadamente con las dependencias del Gobierno Federal, las instituciones de educación superior y los sectores social y privado, en la promoción, asistencia técnica y capacitación, de los pequeños y medianos empresarios, así como divulgar los programas y actividades que para beneficio de ellos se realicen;
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2021)</small>
 
-XIII.- Elaborar, coordinar y ejecutar programas de apoyo y fomento a las exportaciones;
+XI.- Diseñar, promover, coordinar e implementar programas y acciones tendientes a la disminución de cargas administrativas para los interesados, y a la simplificación de los trámites y servicios gubernamentales;
 
-XIV.- Evaluar el impacto de las inversiones en el desarrollo económico del Estado;
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2021)</small>
 
-XV.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le corresponda, y
+XII.- Emitir acuerdos, lineamientos, disposiciones y demás instrumentos jurídicos que permitan la mejor ejecución de la política pública de mejora regulatoria;
 
-XVI.- Los demás que le atribuyan las leyes y reglamentos y aquellos que le encomiende el Gobernador.
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2021)</small>
+
+XIII.- Vigilar la observancia y aplicación de las disposiciones en materia de mejora regulatoria;
+
+XIV.- Promover la elaboración de proyectos productivos que permitan el aprovechamiento racional de los recursos potenciales, la industrialización y adecuada comercialización de bienes y servicios, así como impulsar las actividades económicas del Estado;
+
+XV.- Participar coordinadamente con las dependencias del Gobierno Federal, las instituciones de educación superior y los sectores social y privado, en la promoción, asistencia técnica y capacitación, de los pequeños y medianos empresarios, así como divulgar los programas y actividades que para beneficio de ellos se realicen;
+
+XVI.- Elaborar, coordinar y ejecutar programas de apoyo y fomento a las exportaciones;
+
+XVII.- Evaluar el impacto de las inversiones en el desarrollo económico del Estado;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2021)</small>
+
+XVIII.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que corresponda; y
+
+XIX.- Los demás que le atribuyan las leyes y reglamentos y aquellos que le encomiende el Gobernador.
 
 ###### Artículo 34.
 
@@ -1023,11 +1065,17 @@ XIV.- Vigilar que las leyes y reglamentos locales no se opongan o contravengan a
 
 XV.- Los demás que le atribuyan las leyes y reglamentos y aquellos que le encomiende el Gobernador.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2021)</small>
+
 ###### Artículo 39.
 
-Las dependencias y entidades de la Administración Pública del Estado enviarán a la Consejería Jurídica del Ejecutivo Estatal los proyectos de iniciativas de leyes o decretos a ser sometidos al Congreso del Estado, por lo menos con un mes de anticipación a la fecha en que se pretendan presentar, salvo en los casos de las iniciativas de ley de ingresos y proyecto de presupuesto de egresos del Estado, y en aquellos otros de notoria urgencia a juicio del Gobernadora. Estos últimos serán sometidos al Titular del Poder Ejecutivo Estatal por conducto de la Consejería Jurídica.
+Las dependencias y entidades de la Administración Pública del Estado enviarán a la Consejería Jurídica del Poder Ejecutivo los proyectos de iniciativas de leyes o decretos a ser sometidos al Congreso del Estado, por lo menos con un mes de anticipación a la fecha en que se pretendan presentar, salvo en los casos de las iniciativas de Ley de Ingresos, el Proyecto de Presupuesto de Egresos del Estado y en aquellos otros de notoria urgencia a juicio del Gobernador. Estos últimos serán sometidos a consideración del Titular del Poder Ejecutivo Estatal por conducto de la Consejería Jurídica.
 
-Las dependencias y entidades de la Administración Pública del Estado proporcionarán oportunamente a la Consejería Jurídica del Ejecutivo Estatal la información y apoyo que requiera para el cumplimiento de sus funciones.
+Además, las dependencias y entidades de la Administración Pública del Estado deberán enviar a la Consejería Jurídica del Poder Ejecutivo, por lo menos con tres días de anticipación al de su celebración, los convenios, contratos, acuerdos, bases de coordinación, colaboración, concertación y demás instrumentos jurídicos, que originen una obligación a cargo del Gobierno del Estado y que deban ser firmados por el Gobernador, para su revisión y validación.
+
+La revisión y validación realizada por la Consejería Jurídica del Poder Ejecutivo no exime a los titulares de las dependencias y entidades de la Administración Pública del Estado de la responsabilidad que pueda resultar de los instrumentos jurídicos señalados en el párrafo anterior.
+
+Las dependencias y entidades de la Administración Pública del Estado proporcionarán oportunamente a la Consejería Jurídica del Poder Ejecutivo la información y apoyo que requiera para el cumplimiento de sus funciones.
 
 ## TITULO TERCERO. De la Administración Pública Paraestatal
 
@@ -1578,3 +1626,9 @@ P.O. 20 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 605 POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 2; 30, FRACCIÓN III; Y 31, FRACCIÓN VIII DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EI Estado de Colima".
+
+P.O. 24 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 443.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Colima".
