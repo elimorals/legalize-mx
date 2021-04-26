@@ -4,7 +4,7 @@ identifier: "LGDFS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2018-06-05"
-last_updated: "2020-04-13"
+last_updated: "2021-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128842&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGDFS"
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ABRIL DE 2021.
 
 Ley publicada en la Edición Vespertina al Número 5 del Diario Oficial de la Federación, el martes 5 de junio de 2018.
 
@@ -738,9 +738,11 @@ d) Los recursos que se obtengan por la comercialización de sus obras literarias
 
 e) Los demás bienes, derechos y aprovechamientos que le fijen las leyes y reglamentos o que provengan de otros fondos o aportaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ABRIL DE 2021)</small>
+
 ###### Artículo 18.
 
-La Comisión tendrá como Órgano de Gobierno a una Junta de Gobierno, que será la máxima autoridad del organismo y estará integrada por los titulares de las secretarías de la Defensa Nacional; Hacienda y Crédito Público; Desarrollo Social; Medio Ambiente y Recursos Naturales; Economía; Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Desarrollo Agrario, Territorial y Urbano; y Turismo; de la Comisión Nacional del Agua, así como de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+La Comisión tendrá como Órgano de Gobierno a una Junta de Gobierno, que será la máxima autoridad del organismo y estará integrada por los titulares de las secretarías de la Defensa Nacional; Hacienda y Crédito Público; Bienestar; Medio Ambiente y Recursos Naturales; Economía; Agricultura y Desarrollo Rural; Desarrollo Agrario, Territorial y Urbano; y Turismo; de la Comisión Nacional del Agua, así como del Instituto Nacional de los Pueblos Indígenas.
 
 Los titulares a los que se refiere el párrafo anterior deberán nombrar un suplente quien deberá tener por lo menos el cargo de Director General o su equivalente. La Junta será presidida por el Titular de la Secretaría o el Suplente.
 
@@ -836,7 +838,9 @@ XXXVI. Promover el Servicio Civil de Carrera;
 
 XXXVII. Impulsar el uso de tecnologías de la información y comunicación en los trámites a su cargo;
 
-XXXVIII. Participar en la delimitación territorial, el ordenamiento y la elaboración de planes territoriales que lleven a cabo la Secretaría de Desarrollo Agrario, Territorial y Urbano, la Secretaría de Turismo, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación u otras dependencias;
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2021)</small>
+
+XXXVIII. Participar en la delimitación territorial, el ordenamiento y la elaboración de planes territoriales que lleven a cabo la Secretaría de Desarrollo Agrario, Territorial y Urbano, la Secretaría de Turismo, la Secretaría de Agricultura y Desarrollo Rural u otras dependencias;
 
 XXXIX. Fomentar la generación de oportunidades de empleo e ingreso para la población que habita en los territorios forestales, sin menoscabo de los derechos de los dueños y legítimos poseedores de los terrenos forestales;
 
@@ -876,9 +880,11 @@ Asimismo, los convenios y acuerdos deberán ajustarse, en lo conducente, a las b
 
 Se preverá que en el seguimiento y evaluación de los resultados que se obtengan por la ejecución de los convenios y acuerdos a que se refiere este capítulo, participe el Consejo Estatal Forestal de la entidad federativa correspondiente, en los términos de esta Ley. La Secretaría y la Comisión, por acuerdo de esta, darán seguimiento y evaluarán el cumplimiento de los compromisos que se asuman en los instrumentos a que se refiere este capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ABRIL DE 2021)</small>
+
 ###### Artículo 24.
 
-De acuerdo con lo previsto en la Ley Orgánica de la Administración Pública Federal, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, se coordinará con la Secretaría y con la participación de la Comisión, en su caso, para el cumplimiento de los objetivos de la Ley y, particularmente, en los siguientes aspectos:
+De acuerdo con lo previsto en la Ley Orgánica de la Administración Pública Federal, la Secretaría de Agricultura y Desarrollo Rural, se coordinará con la Secretaría y con la participación de la Comisión, en su caso, para el cumplimiento de los objetivos de la Ley y, particularmente, en los siguientes aspectos:
 
 I. Fomentar la investigación forestal y el desarrollo de sistemas agrosilvopastoriles en la conservación y restauración de los bosques, el manejo forestal sustentable, así como la captación e infiltración de agua pluvial en terrenos forestales;
 
@@ -898,9 +904,17 @@ VIII. Promover el manejo integral de las cuencas hidrográficas, e
 
 IX. Impulsar el manejo integrado de plagas y enfermedades que afecten tanto a los recursos forestales, como, en su caso, a los cultivos agrícolas.
 
-La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación no otorgará apoyos o incentivos económicos para actividades agropecuarias en zonas deforestadas o para aquellas que propicien el cambio de uso de suelo de terrenos forestales o incrementen la frontera agropecuaria, para tal fin, se entenderán por actividades agropecuarias las definidas como tales en el artículo 3, fracción I de la Ley de Desarrollo Rural Sustentable.
+> <small>(REFORMADO, D.O.F. 26 DE ABRIL DE 2021)</small>
 
-Para los efectos del párrafo anterior, la Secretaría y la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación establecerán el instrumento de información que permita identificar los terrenos forestales o predios agropecuarios.
+La Secretaría de Agricultura y Desarrollo Rural no otorgará apoyos o incentivos económicos para actividades agropecuarias en zonas deforestadas o para aquellas que propicien el cambio de uso de suelo de terrenos forestales o incrementen la frontera agropecuaria, para tal fin, se entenderán por actividades agropecuarias las definidas como tales en el artículo 3, fracción I de la Ley de Desarrollo Rural Sustentable.
+
+> <small>(REFORMADO, D.O.F. 26 DE ABRIL DE 2021)</small>
+
+Para los efectos del párrafo anterior, la Secretaría y la Secretaría de Agricultura y Desarrollo Rural establecerán el instrumento de información que permita identificar los terrenos forestales o predios agropecuarios.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ABRIL DE 2021)</small>
+
+La Secretaría y la Comisión celebrarán convenios con otras instancias del gobierno federal que destinen apoyos para el desarrollo del sector rural a fin de cumplir los objetivos de esta Ley y evitar la defortestación y degradación.
 
 ###### Artículo 25.
 
@@ -1626,6 +1640,8 @@ El aprovechamiento de los recursos forestales, para usos domésticos y colecta p
 
 #### Sección Séptima. Del Cambio de Uso de Suelo en Terrenos Forestales
 
+> <small>(REFORMADO PRIMERO PÁRRAFO, D.O.F. 26 DE ABRIL DE 2021)</small>
+
 ###### Artículo 91.
 
 Quienes realicen el aprovechamiento, transporte, almacenamiento, comercialización, importación, exportación, transformación o posean materias primas y productos forestales, deberán acreditar su legal procedencia en los términos que esta Ley y su Reglamento establezcan.
@@ -1640,11 +1656,15 @@ El Reglamento establecerá las disposiciones para la regulación de los equipos 
 
 ###### Artículo 93.
 
-La Secretaría autorizará el cambio de uso de suelo en terrenos forestales por excepción, previa opinión técnica de los miembros del Consejo Estatal Forestal de que se trate y con base en los estudios técnicos justificativos cuyo contenido se establecerá en el Reglamento, los cuales demuestren que la biodiversidad de los ecosistemas que se verán afectados se mantenga, y que la erosión de los suelos, el deterioro de la calidad del agua o la disminución en su captación se mitiguen en las áreas afectadas por la remoción de la vegetación forestal.
+La Secretaría solo podrá autorizar el cambio de uso de suelo en terrenos forestales por excepción, previa opinión técnica de los miembros del Consejo Estatal Forestal de que se trate y con base en los estudios técnicos justificativos cuyo contenido se establecerá en el Reglamento, los cuales demuestren que la biodiversidad de los ecosistemas que se verán afectados se mantenga, y que la erosión de los suelos, la capacidad de almacenamiento de carbono, el deterioro de la calidad del agua o la disminución en su captación se mitiguen en las áreas afectadas por la remoción de la vegetación forestal.
 
 En las autorizaciones de cambio de uso de suelo en terrenos forestales, la Secretaría deberá dar respuesta debidamente fundada y motivada a las opiniones técnicas emitidas por los miembros del Consejo Estatal Forestal de que se trate.
 
 Las autorizaciones que se emitan deberán integrar un programa de rescate y reubicación de especies de la flora y fauna afectadas y su adaptación al nuevo hábitat conforme se establezca en el Reglamento. Dichas autorizaciones deberán sujetarse a lo que, en su caso, dispongan los programas de ordenamientos ecológicos correspondientes, las Normas Oficiales Mexicanas y demás disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ABRIL DE 2021)</small>
+
+Tratándose de terrenos ubicados en territorios indígenas, la autorización de cambio de uso de suelo además deberá acompañarse de medidas de consulta previa, libre, informada, culturalmente adecuada y de buena fe, en los términos de la legislación aplicable. Para ello, la Secretaría se coordinará con el Instituto Nacional de los Pueblos Indígenas.
 
 ###### Artículo 94.
 
@@ -1658,19 +1678,23 @@ La Secretaría podrá autorizar la modificación de una autorización de cambio 
 
 Los titulares de autorizaciones de cambio de uso de suelo en terrenos forestales deberán presentar los informes periódicos sobre la ejecución y desarrollo del mismo, en los términos que establezca el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, D.O.F. 26 DE ABRIL DE 2021)</small>
+
 ###### Artículo 97.
 
-No se podrá otorgar autorización de cambio de uso del suelo en terreno incendiado sin que hayan pasado 20 años y que se acredite a la Secretaría que la vegetación forestal afectada se ha regenerado, mediante los mecanismos que, para tal efecto, se establezcan en el Reglamento de esta Ley.
+No se podrá otorgar autorización de cambio de uso del suelo en terrenos forestales donde la pérdida de cubierta forestal fue ocasionada por incendio, tala o desmonte sin que hayan pasado 20 años y que se acredite a la Secretaría que la vegetación forestal afectada se ha regenerado, mediante los mecanismos que, para tal efecto, se establezcan en el Reglamento de esta Ley.
 
 ###### Artículo 98.
 
 Los interesados en el cambio de uso de suelo en terrenos forestales, deberán comprobar que realizaron el depósito ante el Fondo Forestal Mexicano, por concepto de compensación ambiental, para que se lleven a cabo acciones de restauración de los ecosistemas que se afecten, preferentemente dentro de la cuenca hidrográfica en donde se ubique la autorización del proyecto, en los términos y condiciones que establezca el Reglamento.
 
+> <small>(REFORMADO, D.O.F. 26 DE ABRIL DE 2021)</small>
+
 ###### Artículo 99.
 
-La Secretaría, con la participación de la Comisión, coordinará con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, la política de uso del suelo para estabilizar su uso agropecuario, incluyendo el sistema de roza, tumba y quema, desarrollando prácticas permanentes y evitando que la producción agropecuaria crezca a costa de los terrenos forestales.
+La Secretaría, con la participación de la Comisión, coordinará con la Secretaría de Agricultura y Desarrollo Rural la política de uso del suelo para estabilizar su uso agropecuario, desarrollando prácticas sustentables, evitando que la producción agropecuaria crezca a costa de los terrenos forestales.
 
-La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación no otorgará apoyos o incentivos económicos para actividades agropecuarias en terrenos cuyo cambio de uso de suelo no haya sido autorizado por la Secretaría para tales actividades.
+Las diversas instancias del gobierno federal, de las entidades federativas y de los municipios no otorgarán apoyos o incentivos económicos para actividades en terrenos forestales cuyo cambio de uso de suelo no haya sido autorizado por la Secretaría.
 
 ###### Artículo 100.
 
@@ -2385,3 +2409,9 @@ D.O.F. 13 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 7 DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE".]
+
+Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
