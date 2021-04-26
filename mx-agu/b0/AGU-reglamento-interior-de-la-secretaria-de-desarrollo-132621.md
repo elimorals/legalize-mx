@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-desarrollo-132621"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-12-28"
-last_updated: "2021-02-01"
+last_updated: "2021-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2021.
 
 Reglamento publicado en el Núm. 33 del Periódico Oficial del Estado de Aguascalientes, el viernes 28 de diciembre de 2018.
 
@@ -33,7 +33,7 @@ C.P. MARTIN OROZCO SANDOVAL, Gobernador Constitucional del Estado de Aguascalien
 
 E X P O S I C I Ó N D E M O T I V O S
 
-[…]
+[...]
 
 Por lo anteriormente fundado y motivado, me permito expedir el siguiente:
 
@@ -81,13 +81,17 @@ I. La Subsecretaría para la Micro, Pequeña y Mediana Empresa:
 
 a) Dirección General de Comercio;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2021)</small>
 
-b) Dirección General de Fortalecimiento de MIPyMES; y
+b) Dirección General de Fortalecimiento de MIPyMES;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2021)</small>
 
-c) Dirección General de Competitividad e Innovación y de la Oficina del Servicio Nacional de Empleo;
+c) Dirección General de Competitividad e Innovación; y
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2021)</small>
+
+d) Dirección General de la Oficina del Servicio Nacional de Empleo;
 
 II. La Subsecretaría de Inversión y Desarrollo:
 
@@ -439,13 +443,13 @@ XII. Coordinar un sistema de información de precios de los productos de la cana
 
 XIII. Fomentar la comercialización de artesanías en el Estado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ABRIL DE 2021)</small>
 
-#### Sección Tercera. Dirección General de Competitividad e Innovación y de la Oficina del Servicio Nacional de Empleo
+#### Sección Tercera. Dirección General de Competitividad e Innovación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2021)</small>
 
-ARTÍCULO 15 BIS.- A la Dirección General de Competitividad e Innovación y de la Oficina del Servicio Nacional de Empleo le corresponde, a través de su Titular y/o por conducto de los Coordinadores o Jefes de Departamento, el ejercicio de las facultades que a continuación se señalan:
+ARTÍCULO 15 BIS.- A la Dirección General de Competitividad e Innovación le corresponde, a través de su Titular y/o por conducto de los Jefes de Departamento, el ejercicio de las facultades que a continuación se señalan:
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -491,27 +495,41 @@ X. Vincular esfuerzos e impulsar la comunicación entre los sectores público, p
 
 XI. Concertar planes y programas de trabajo con instituciones de educación superior públicas y privadas para el fomento y desarrollo de las tecnologías de la información;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2021)</small>
 
-XII. Dar seguimiento a los distintos indicadores de competitividad y promover acciones para avanzar en esta materia en el Estado;
+XII. Dar seguimiento a los distintos indicadores de competitividad y promover acciones para avanzar en esta materia en el Estado; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2021)</small>
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR A LA FRACCIÓN XVI.]</small>
 
-XIII. Fomentar y apoyar la organización para el trabajo y el autoempleo;
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2021)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+XIII. Las demás que le sean asignadas por el Secretario, el Subsecretario de la Micro, Pequeña y Mediana Empresa y por otras disposiciones normativas aplicables al área a su cargo.
 
-XIV. Coordinar y supervisar los trabajos operativos de la Oficina del Servicio Nacional de Empleo en Aguascalientes;
+XIV. (DEROGADA, P.O. 26 DE ABRIL DE 2021)
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2021)</small>
+XV. (DEROGADA, P.O. 26 DE ABRIL DE 2021)
 
-XV. Coordinar la generación de estrategias o planes de impacto regional, a través de la Oficina del Servicio Nacional de Empleo en Aguascalientes; y
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR A LA FRACCIÓN XIII.]</small>
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE FEBRERO DE 2021)</small>
 
 XVI. Las demás que le sean asignadas por el Secretario, el Subsecretario de la Micro, Pequeña y Mediana Empresa y por otras disposiciones normativas aplicables al área a su cargo.
 
-#### Sección Primera. Dirección General de Atracción de Inversiones
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE ABRIL DE 2021)</small>
+
+#### Sección Cuarta. Dirección General de la Oficina del Servicio Nacional de Empleo
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2021)</small>
+
+ARTÍCULO 15 TER.- A la Dirección General de la Oficina del Servicio Nacional de Empleo le corresponde, a través de su Titular y/o por conducto de los Coordinadores o Jefes de Departamento, el ejercicio de las facultades que a continuación se señalan:
+
+I. Fomentar y apoyar la organización para el trabajo y el autoempleo;
+
+II. Coordinar y supervisar los trabajos operativos de la Oficina del Servicio Nacional de Empleo en Aguascalientes;
+
+III. Coordinar la generación de estrategias o planes de impacto regional, a través de la Oficina del Servicio Nacional de Empleo en Aguascalientes; y
+
+IV. Las demás que le sean asignadas por el Secretario, el Subsecretario de la Micro, Pequeña y Mediana Empresa y por otras disposiciones normativas aplicables al área a su cargo.
 
 ### CAPÍTULO II. Subsecretaría de Inversión y Desarrollo
 
@@ -575,7 +593,7 @@ XXVII. Promover la colaboración y el intercambio de conocimientos y experiencia
 
 XXVIII. Las demás que le sean asignadas por el Secretario y las que les correspondan a las áreas a su cargo.
 
-#### Sección Segunda. Dirección General de Desarrollo Industrial
+#### Sección Primera. Dirección General de Atracción de Inversiones
 
 ###### ARTÍCULO 17.
 
@@ -609,7 +627,7 @@ XIII. Promover los programas de incentivos y estímulos a la inversión nacional
 
 XIV. Fomentar el desarrollo de proyectos de la inversión extranjera en los municipios del interior.
 
-#### Sección Primera. Dirección General Jurídica
+#### Sección Segunda. Dirección General de Desarrollo Industrial
 
 ###### ARTÍCULO 18.
 
@@ -635,7 +653,7 @@ VIII. Identificar las oportunidades de mejora en la cadena productiva y promover
 
 Unidades de Apoyo del Secretario.
 
-#### Sección Segunda. Dirección General de Administración y Finanzas
+#### Sección Primera. Dirección General Jurídica
 
 ###### ARTÍCULO 19.
 
@@ -665,7 +683,7 @@ XI. Admitir, tramitar y resolver las solicitudes de información formuladas por 
 
 XII. En materia de transparencia y acceso a la información pública, designar a la persona que fungirá como responsable de la Unidad de Transparencia de la Secretaría; razón por la cual, dicha persona ejercerá las facultades que expresamente señala la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios, siendo la única Unidad Administrativa de la Secretaría en cita con atribuciones concurrentes para la recepción, estudio y en su caso proporcionar información solicitada por parte de los interesados además de lo conducente de conformidad con la Ley de mérito.
 
-#### Sección Tercera. Secretaria Particular
+#### Sección Segunda. Dirección General de Administración y Finanzas
 
 ###### ARTÍCULO 20.
 
@@ -773,23 +791,7 @@ L. Elaborar la estadística de la Secretaría para la integración de la estadí
 
 LI. Apoyar a todas las áreas de la Secretaría en el desarrollo de sus funciones de carácter administrativo.
 
-#### Sección Cuarta. Dirección General de Gestión Empresarial y Mejora Regulatoria
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-ARTÍCULO 21 BIS.- A la Dirección General de Gestión Empresarial y Mejora Regulatoria le corresponde, a través de su Titular y/o por conducto de los Jefes de Departamento, además de las facultades señaladas en la Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes, el ejercicio de las que a continuación se señalan:
-
-I.- Promover la mejora de las regulaciones y la simplificación de trámites y servicios, así como la transparencia en la elaboración y aplicación de los mismos, procurando que generen beneficios superiores a sus costos y el máximo beneficio para la sociedad;
-
-II.- Fortalecer y ampliar los medios de participación de los sectores social y privado que estimulen la competitividad, la inversión y el crecimiento económico en el Estado;
-
-III.- Proponer a los sujetos obligados de conformidad con la Ley (sic) Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes, acciones, medidas o programas que permitan impactar favorablemente en el mejoramiento del marco regulatorio estatal y que incidan en el desarrollo y crecimiento económico del Estado, y coadyuvar en su promoción e implementación;
-
-IV.- Impulsar acuerdos y convenios de colaboración, concertación y coordinación que contribuyan al fortalecimiento de la política de mejora regulatoria y gestión empresarial, en el ámbito de su competencia;
-
-V.- Fungir como Secretario Ejecutivo del Consejo Estatal de Mejora Regulatoria; y
-
-VI.- Las demás que le sean asignadas por el Secretario y otras disposiciones normativas aplicables al área a su cargo.
+#### Sección Tercera. Secretaria Particular
 
 ###### ARTÍCULO 21.
 
@@ -812,6 +814,24 @@ VII. Auxiliar al Secretario en la atención, gestión, seguimiento y solución d
 VIII. Las demás que le sean asignadas por el Secretario y las que le correspondan a las áreas a su cargo.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+#### Sección Cuarta. Dirección General de Gestión Empresarial y Mejora Regulatoria
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 21 BIS.- A la Dirección General de Gestión Empresarial y Mejora Regulatoria le corresponde, a través de su Titular y/o por conducto de los Jefes de Departamento, además de las facultades señaladas en la Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes, el ejercicio de las que a continuación se señalan:
+
+I.- Promover la mejora de las regulaciones y la simplificación de trámites y servicios, así como la transparencia en la elaboración y aplicación de los mismos, procurando que generen beneficios superiores a sus costos y el máximo beneficio para la sociedad;
+
+II.- Fortalecer y ampliar los medios de participación de los sectores social y privado que estimulen la competitividad, la inversión y el crecimiento económico en el Estado;
+
+III.- Proponer a los sujetos obligados de conformidad con la Ley (sic) Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes, acciones, medidas o programas que permitan impactar favorablemente en el mejoramiento del marco regulatorio estatal y que incidan en el desarrollo y crecimiento económico del Estado, y coadyuvar en su promoción e implementación;
+
+IV.- Impulsar acuerdos y convenios de colaboración, concertación y coordinación que contribuyan al fortalecimiento de la política de mejora regulatoria y gestión empresarial, en el ámbito de su competencia;
+
+V.- Fungir como Secretario Ejecutivo del Consejo Estatal de Mejora Regulatoria; y
+
+VI.- Las demás que le sean asignadas por el Secretario y otras disposiciones normativas aplicables al área a su cargo.
 
 ## TÍTULO III. RÉGIMEN DE SUPLENCIAS
 
@@ -892,3 +912,15 @@ Las presentes reformas y adiciones al Reglamento Interior de la Secretaría de D
 ###### ARTÍCULO SEGUNDO.
 
 Con la entrada en vigor de las presentes reformas y adiciones al Reglamento Interior de la Secretaría de Desarrollo Económico, se derogan las disposiciones de menor jerarquía que se opongan a las mismas.
+
+P.O. 26 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS, DEROGACIONES Y ADICIONES AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas, derogaciones y adiciones al Reglamento Interior de la Secretaría de Desarrollo Económico, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor de las presentes reformas, derogaciones y adiciones al Reglamento Interior de la Secretaría de Desarrollo Económico, se derogan las disposiciones de menor jerarquía que se opongan a las mismas.
