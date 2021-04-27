@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2020-12-22"
+last_updated: "2021-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ABRIL DE 2021.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -3896,6 +3896,48 @@ VI. Los lineamientos y directrices que se seguirán para mejorar el desempeño d
 
 4. Este Reglamento no podrá modificarse a través de acuerdos parlamentarios.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE ABRIL DE 2021)</small>
+
+## TITULO DECIMO. De los asuntos que pasan de una legislatura a otra
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE ABRIL DE 2021)</small>
+
+### CAPITULO I. De las iniciativas y minutas
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2021)</small>
+
+###### Artículo 286.
+
+1. Las iniciativas cuyo plazo para ser dictaminadas y/o resueltas haya vencido y que no fueron procesadas durante la legislatura saliente, de conformidad con los artículos 89 y 184, quedarán bajo resguardo de la Secretaría de Servicios Parlamentarios hasta el término del Primer Periodo Ordinario del Segundo Año de Ejercicio de la legislatura entrante.
+
+2. La Secretaria de Servicios Parlamentarios al finalizar la legislatura saliente publicará el listado respectivo en la Gaceta; así como, en un micrositio de la Cámara de Diputados.
+
+3. La diputada o diputado electo para un periodo consecutivo que haya sido iniciante en la legislatura anterior; los Grupos Parlamentarios a través de su coordinador o coordinadora; o la Junta Directiva de las comisiones ordinarias en ejercicio, podrán solicitar a la Presidencia de la Mesa Directiva que se turne una o varias de las iniciativas que se encuentren en el listado antes referido. Estas iniciativas serán turnadas a las comisiones correspondientes y serán procesadas en los términos reglamentarios.
+
+4. Las iniciativas que no fuesen solicitadas para ser turnadas a la o las comisiones correspondientes durante el Primer Periodo Ordinario del Segundo Año de Ejercicio de la legislatura entrante, se tendrán por desechadas y se archivarán como asuntos total y definitivamente concluidos.
+
+5. Las minutas cuyo plazo para ser dictaminadas y/o resueltas haya vencido que no fueron procesadas durante la legislatura de conformidad con los artículos 95 y 184 que tengan una antigüedad mayor a dos legislaturas, se integrarán en un listado elaborado por la Mesa Directiva que será hecho del conocimiento del Pleno de la Cámara y comunicado a la colegisladora para recabar su acuerdo respecto a su desahogo en términos de lo dispuesto por el artículo 72 Constitucional.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2021)</small>
+
+###### Artículo 287.
+
+1. La Secretaría de Servicios Parlamentarios al finalizar la legislatura, elaborará un listado con las iniciativas y minutas que no hayan sido dictaminadas y/o resueltas y cuyo plazo continúe vigente, el cual será remitido a la Mesa Directiva de la legislatura entrante para su publicación en la Gaceta.
+
+2. Las iniciativas y minutas que no hayan sido dictaminadas y/o resueltas y cuyo plazo continúe vigente que sean recibidas por la legislatura entrante, serán turnadas a las comisiones correspondientes una vez que hayan sido instaladas para efecto de que sean procesadas en los términos reglamentarios.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 27 DE ABRIL DE 2021)</small>
+
+### CAPITULO II. De los dictámenes en poder de la Mesa Directiva
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2021)</small>
+
+###### Artículo 288.
+
+1. Los dictámenes de iniciativas, minutas y puntos de acuerdo que se encuentren en poder de la Mesa Directiva serán devueltos a las comisiones correspondientes en calidad de proyectos. Las comisiones deberán elaborar un acuerdo dentro del primer mes de sus trabajos a partir de su instalación donde señalen qué proyectos serán desechados y cuáles serán procesados para su nueva discusión.
+
+En caso de que un proyecto de dictamen corresponda a comisiones unidas, la comisión que encabeza el turno será la encargada de realizar el acuerdo señalado en el numeral anterior.
+
 ## TRANSITORIOS
 
 Primero. El presente Reglamento entrará en vigor a partir del primero de enero de 2011.
@@ -4179,3 +4221,9 @@ D.O.F. 22 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 261 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE DISTINCIONES DE LA CÁMARA”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA UN TÍTULO DÉCIMO AL REGLAMENTO DE LA CÁMARA DE DIPUTADOS".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
