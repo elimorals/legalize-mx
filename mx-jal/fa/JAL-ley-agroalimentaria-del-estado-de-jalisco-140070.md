@@ -4,7 +4,7 @@ identifier: "JAL-ley-agroalimentaria-del-estado-de-jalisco-140070"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-28"
-last_updated: "2019-12-28"
+last_updated: "2021-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY AGROALIMENTARIA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2021.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 2019.
 
@@ -488,6 +488,30 @@ XXVIII. Las demás que sean necesarias para el adecuado ejercicio de las señala
 ###### Artículo 14.
 
 La Junta de Gobierno celebrará sesiones ordinarias por lo menos una vez cada tres meses y extraordinarias cada vez que se requieran.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ABRIL DE 2021)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes de la Junta de Gobierno, se podrá sesionar a distancia empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO CON SUS INCISOS], P.O. 27 DE ABRIL DE 2021)</small>
+
+Las sesiones para su validez deben contar con lo siguiente:
+
+a) La identificación visual plena de sus integrantes;
+
+b) La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos;
+
+c) Las votaciones que se realicen serán de carácter nominal asentando registro de las mismas; y
+
+d) Dejar registro audiovisual de la sesión y sus acuerdos.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2021)</small>
+
+En estos casos, las convocatorias a las sesiones de la junta de gobierno serán realizadas también mediante el uso de herramientas tecnológicas que permitan dejar constancia de su envío.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2021)</small>
+
+La convocatoria de la celebración de sesiones a distancia así como la redacción y protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
 
 Las sesiones deberán ser convocadas con una anticipación de quince días hábiles a la fecha de su celebración, en los términos y condiciones contenidas en su Reglamento Interior, con excepción de las sesiones extraordinarias que serán convocadas con al menos veinticuatro horas de anticipación.
 
@@ -1662,3 +1686,11 @@ MTRO. JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28378/LXII/21 QUE ADICIONA SEGUNDO PÁRRAFO AL ARTÍCULO 14 Y RECORRIENDO EL ACTUAL PÁRRAFO SEGUNDO AL TERCERO EN SU ORDEN DE LA LEY AGROALIMENTARIA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
