@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2021-02-22"
+last_updated: "2021-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -1207,6 +1207,26 @@ Cuando por cualquier causa no haya director nombrado, o habiéndolo se hubiere a
 
 La asamblea general se reunirá en la época fijada en los estatutos o cuando sea convocada por la dirección. Esta deberá citar a asamblea cuando para ello fuere requerida por lo menos por el cinco por ciento de los asociados, o si no lo hiciere, en su lugar lo hará el juez de lo civil a petición de dichos asociados.
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2021)</small>
+
+###### Art. 180 Bis.
+
+Las sesiones de la asamblea general podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, Los temas que podrán ser abordados en este tipo de sesiones deben estar aprobados en los estatutos, o en caso contrario, los acuerdos tomados en la sesión a distancia deberán contar con la aprobación de por lo menos las dos terceras partes de los asociados.
+
+Las sesiones para su validez deben contar con lo siguiente:
+
+I. La identificación visual plena de sus integrantes;
+
+II. La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos;
+
+III. Las votaciones que se realicen serán de carácter nominal asentando registro de las mismas; y
+
+IV. Dejar registro audiovisual de la sesión y sus acuerdos.
+
+En estos casos, las convocatorias a la asamblea general serán realizadas también mediante el uso de herramientas tecnológicas que permitan dejar constancia de su envío.
+
+La convocatoria de la celebración de sesiones a distancia así como la redacción y protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
+
 ###### Art. 181.
 
 La asamblea general resolverá:
@@ -1314,6 +1334,26 @@ Quienes constituyan una fundación podrán emitir las bases constitutivas de la 
 ###### Art. 199.
 
 El patronato de las fundaciones será el órgano de gobierno de las mismas y sus decisiones se tomarán por mayoría de votos de sus integrantes, y en caso de empate el presidente del patronato tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2021)</small>
+
+###### Art. 199 Bis.
+
+Las sesiones del patronato podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, Los temas que podrán ser abordados en este tipo de sesiones deben estar aprobados en los estatutos o en las bases constitutivas, o en caso contrario, los acuerdos tomados en la sesión a distancia deberán contar con la aprobación de por lo menos las dos terceras partes de los asociados.
+
+Las sesiones para su validez deben contar con lo siguiente:
+
+I. La identificación visual plena de sus integrantes;
+
+II. La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos;
+
+III. Las votaciones que se realicen serán de carácter nominal asentando registro de las mismas; y
+
+IV. Dejar registro audiovisual de la sesión y sus acuerdos.
+
+En estos casos, las convocatorias a las sesiones del patronato serán realizadas también mediante el uso de herramientas tecnológicas que permitan dejar constancia de su envío.
+
+La convocatoria de la celebración de sesiones a distancia así como la redacción y protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
 
 ###### Art. 200.
 
@@ -1498,6 +1538,26 @@ III. Para tomar capitales prestados.
 ###### Art. 231.
 
 Las facultades que no se hayan concedido a los administradores, serán ejercitadas por todos los socios, resolviéndose los asuntos por mayoría de votos. La mayoría se computará por cantidades, pero cuando una sola persona represente el mayor interés y se trate de sociedades de más de tres socios, se necesita por lo menos el voto que cubra la tercera parte de los socios.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2021)</small>
+
+###### Art. 231 Bis.
+
+Las sesiones del consejo de administración o de la asamblea de socios podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, Los temas que podrán ser abordados en este tipo de sesiones deben estar aprobados en los estatutos, o en caso contrario, los acuerdos tomados en la sesión a distancia deberán contar con la aprobación de por lo menos las dos terceras partes de los asociados.
+
+Las sesiones para su validez deben contar con lo siguiente:
+
+I. La identificación visual plena de sus integrantes;
+
+II. La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos;
+
+III. Las votaciones que se realicen serán de carácter nominal asentando registro de las mismas; y
+
+IV. Dejar registro audiovisual de la sesión y sus acuerdos.
+
+En estos casos, las convocatorias serán realizadas también mediante el uso de herramientas tecnológicas que permitan dejar constancia de su envío.
+
+La convocatoria de la celebración de sesiones a distancia así como la redacción y protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
 
 ###### Art. 232.
 
@@ -6991,6 +7051,26 @@ De la escritura que contenga la protocolización, se tomará nota en la inscripc
 
 El acta que se levante también deberá asentarse en el libro de actas del propio condominio.
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2021)</small>
+
+###### Art. 1018 Bis.
+
+Las sesiones del consejo de administración podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, Los temas que podrán ser abordados en este tipo de sesiones deben estar aprobados en los estatutos, o en caso contrario, los acuerdos tomados en la sesión a distancia deberán contar con la aprobación de por lo menos las dos terceras partes de los asociados.
+
+Las sesiones para su validez deben contar con lo siguiente:
+
+I. La identificación visual plena de sus integrantes;
+
+II. La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos;
+
+III. Las votaciones que se realicen serán de carácter nominal asentando registro de las mismas; y
+
+IV. Dejar registro audiovisual de la sesión y sus acuerdos.
+
+En estos casos, las convocatorias serán realizadas también mediante el uso de herramientas tecnológicas que permitan dejar constancia de su envío.
+
+La convocatoria de la celebración de sesiones a distancia así como la redacción y protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
+
 ### CAPITULO V. De las cuotas
 
 ###### Art. 1019.
@@ -7080,6 +7160,26 @@ Cuando la convocatoria se formule por la autoridad judicial o la municipal, bast
 La convocatoria deberá señalar el día y la hora para la cual se cita a la asamblea, la clase de asamblea a verificar, el lugar de la reunión y los puntos a considerarse.
 
 Cualquier asunto tratado en la asamblea y que no éste comprendido en el orden del día, no tendrá fuerza legal alguna, salvo el caso de que hayan estado representados el cien por ciento de personas e intereses.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2021)</small>
+
+###### Art. 1025 Bis.
+
+Las sesiones de la asamblea de condóminos podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, Los temas que podrán ser abordados en este tipo de sesiones deben estar aprobados en su reglamento, o en caso contrario, los acuerdos tomados en la sesión a distancia deberán contar con la aprobación de por lo menos las dos terceras partes de los asociados.
+
+Las sesiones para su validez deben contar con lo siguiente:
+
+I. La identificación visual plena de sus integrantes;
+
+II. La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos;
+
+III. Las votaciones que se realicen serán de carácter nominal asentando el registro de las mismas; y
+
+IV. Dejar registro audiovisual de la sesión y sus acuerdos.
+
+Las convocatorias a la asamblea de condóminos serán realizadas también mediante el uso de herramientas tecnológicas que permitan dejar constancia de su envío.
+
+La convocatoria de la celebración de sesiones a distancia así como la redacción y protocolización de las correspondientes actas, estarán sujetas a las mismas normas que rigen las sesiones presenciales, en lo que les sea aplicable.
 
 ### CAPITULO VI. De las controversias
 
@@ -19300,3 +19400,9 @@ Sexto. En el caso de la existencia previa de una declaratoria por presunción de
 Séptimo. Las autoridades competentes deberán otorgar suficiencia presupuestal para el cumplimiento de lo establecido por esta Ley, además el Poder Judicial conserva la obligación de prever el impacto presupuestal para la debida ejecución de la presente Ley.
 
 Octavo. Las autoridades a las que se refiere el artículo 17 numeral 1 de esta Ley, en caso de no tener sus páginas oficiales, deberán habilitarlas para realizar las publicaciones de los edictos, en un plazo de quince días hábiles a partir de la entrada en vigor de esta Ley.
+
+P.O. 27 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28380/LXII/21 QUE REFORMA LOS ARTÍCULOS 2842 Y 2843 (SIC) Y ADICIONA LOS ARTÍCULOS 180 BIS, 199 BIS, 231 BIS, 1018 BIS, 1025 BIS Y 2841 BIS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
