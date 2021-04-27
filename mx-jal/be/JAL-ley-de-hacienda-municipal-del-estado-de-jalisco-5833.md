@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2020-01-25"
+last_updated: "2021-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -3335,7 +3335,9 @@ III. Por razones de interés público, debidamente justificadas.
 
 La revocación deberá sujetarse al siguiente procedimiento:
 
-I. Cuando el Presidente Municipal tenga conocimiento de la existencia de cualquiera de las causas señaladas en el artículo anterior, iniciará mediante acuerdo escrito el procedimiento de revocación;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2021)</small>
+
+I. Cuando el Presidente Municipal o el funcionario municipal que este designe para tal efecto, tenga conocimiento de la existencia de cualquiera de las causas señaladas en el artículo anterior, iniciará mediante acuerdo escrito el procedimiento de revocación;
 
 II. Dicho acuerdo se le notificará al interesado concediéndole un plazo de cinco días, contados a partir de la fecha de la notificación, a fin de que comparezca a hacer valer lo que a sus intereses convenga, y a ofrecer las pruebas que estime necesarias.
 
@@ -3343,7 +3345,9 @@ En caso de no comparecer, se le tendrá por conforme con las causas que se le at
 
 III. Las pruebas que ofrezca el interesado deberán desahogarse, en un término que no exceda de diez días, a partir de su ofrecimiento;
 
-IV. Dentro de los cinco días siguientes de transcurrido el término probatorio, el Presidente Municipal resolverá en definitiva sobre la revocación; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2021)</small>
+
+IV. Dentro de los cinco días siguientes de transcurrido el término probatorio, el Presidente Municipal o el funcionario municipal que este designe para tal efecto, resolverá en definitiva sobre la revocación; y
 
 V. Dicha resolución, invariablemente, deberá ser notificada al interesado y, cuando en ésta se determine la revocación, se le concederá un término de setenta y dos horas para que suspenda sus actividades. De no hacerlo, se procederá a la clausura del Giro.
 
@@ -3353,9 +3357,9 @@ V. Dicha resolución, invariablemente, deberá ser notificada al interesado y, c
 
 La revocación de las licencias o permisos para operar los giros restringidos establecidos en la Ley para Regular la Venta y el Consumo de Bebidas Alcohólicas del Estado de Jalisco, se sujeta a los procedimientos establecidos en los ordenamientos municipales respectivos, y en su defecto al siguiente procedimiento:
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2021)</small>
 
-I. Cuando el Presidente Municipal tenga conocimiento de la existencia de cualquiera de las causas de revocación señaladas en los artículos 315 de la Ley de Hacienda Municipal del Estado de Jalisco y 58 de la Ley para Regular la Venta y Consumo de Bebidas Alcohólicas, o lo señalado por los ordenamientos municipales respectivos, iniciará mediante acuerdo escrito el procedimiento de revocación;
+I. Cuando el Presidente Municipal o el funcionario municipal que este designe para tal efecto, tenga conocimiento de la existencia de cualquiera de las causas de revocación señaladas en los artículos 315 de la Ley de Hacienda Municipal del Estado de Jalisco y 58 de la Ley para Regular la Venta y Consumo de Bebidas Alcohólicas, o lo señalado por los ordenamientos municipales respectivos, iniciará mediante acuerdo escrito el procedimiento de revocación;
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1996)</small>
 
@@ -3369,17 +3373,17 @@ III. En caso de que el interesado no comparezca, se le tendrá por conforme con 
 
 IV. Las pruebas que ofrezca el interesado deberán desahogarse, en un término que no exceda de diez días, a partir de su ofrecimiento;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2021)</small>
 
-V. Dentro de los quince días siguientes de transcurrido el término probatorio, el Presidente Municipal dictaminará sobre la procedencia de la revocación. Dicha resolución será notificada al interesado;
+V. Dentro de los quince días siguientes de transcurrido el término probatorio, el Presidente Municipal o el funcionario municipal que este designe para tal efecto, dictaminará sobre la procedencia de la revocación. Dicha resolución será notificada al interesado;
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1996)</small>
 
 VI. Cuando el interesado sea el responsable de las causales de la revocación, se le concederá un término de setenta y dos horas para que suspenda sus actividades. De no hacerlo, se procederá a la clausura del giro, y
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2021)</small>
 
-VII. Cuando las causales de la revocación no sean imputables al interesado, se le concederá el término que acuerde el Presidente Municipal para que suspenda sus actividades o, en su caso, cambie el domicilio del establecimiento o local donde las realice.
+VII. Cuando las causales de la revocación no sean imputables al interesado, se le concederá el término que acuerde el Presidente Municipal o el funcionario municipal que este designe para tal efecto, para que suspenda sus actividades o, en su caso, cambie el domicilio del establecimiento o local donde las realice.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2014)</small>
 
@@ -3968,3 +3972,9 @@ P.O. 25 DE ENERO DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Los municipios del Estado de Jalisco, deberán adecuar sus Reglamentos y Leyes de Ingresos, para establecer el no cobro de las constancias o certificados de inexistencia para el registro extemporáneo de nacimiento, a partir del ejercicio fiscal 2020.
+
+P.O. 27 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28377/LXII/21 QUE MODIFICA LOS ARTÍCULOS 316 FRACCIONES I Y IX; Y 316 BIS FRACCIONES I, V Y VII DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO”.]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
