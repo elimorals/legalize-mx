@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2020-11-27"
+last_updated: "2021-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 28 DE ABRIL DE 2021.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -1903,11 +1903,13 @@ V. Coordinar los trabajos de la Presidenta o el Presidente Municipal con las dif
 
 VI. Coordinar las actividades administrativas propias del Municipio y aquellas relacionadas con asuntos metropolitanos;
 
-VII. Instruir y coordinar a través de la Dirección de Inspección y Vigilancia, la inspección y vigilancia permanente y organizada del cumplimiento de las leyes, normas y reglamentos de aplicación municipal, adoptando para ello las medidas normativas, administrativas, técnicas y tecnológicas necesarias, que promuevan la legalidad, transparencia y objetividad de los actos de autoridad; y
+VII. (DEROGADA, G.M. 28 DE ABRIL DE 2021)
 
 VIII. Atender, llevar el control y turnar la correspondencia presentada ante oficialía de partes de Presidencia Municipal y Jefatura de Gabinete.
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Gestión de Coordinación Metropolitana; Administración, Evaluación y Seguimiento; e Inspección y Vigilancia.
+> <small>(REFORMADO, G.M. 28 DE ABRIL DE 2021)</small>
+
+Para la atención de los asuntos de su competencia, cuenta con las áreas de Gestión de Coordinación Metropolitana y de Administración, Evaluación y Seguimiento.
 
 El área de Administración, Evaluación y Seguimiento cuenta con las atribuciones contenidas en el artículo 129.
 
@@ -1937,73 +1939,15 @@ VIII. Ser enlace de las y los Consejeros Ciudadanos Metropolitanos con la admini
 
 IX. Impulsar y promover la capacitación de los asuntos y coordinación metropolitana en la administración pública municipal.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 28 DE ABRIL DE 2021)</small>
+
 Subsección II
 
 Dirección de Inspección y Vigilancia
 
 ###### Artículo 134.
 
-Son atribuciones de la Dirección de Inspección y Vigilancia:
-
-I. Supervisar el cumplimiento de la normatividad y adoptar para ello las medidas administrativas, técnicas y tecnológicas necesarias, que promuevan la legalidad, transparencia y objetividad de los actos de autoridad con respeto a los derechos humanos;
-
-II. Aplicar en el ejercicio de sus funciones la norma para inspeccionar y supervisar todo giro, licencia, permiso o concesión;
-
-III. Supervisar que las personas cumplan con las obligaciones establecidas en los contratos de concesión o convenios de gestión en materia de aseo público, celebrados con el Municipio, así como las relativas al manejo de residuos urbanos;
-
-IV. Supervisar que se cumpla la legislación, reglamentación y normatividad ambiental vigente en materia de tratamiento, recolección, traslado, uso y disposición final de los residuos sólidos urbanos, impacto ambiental, arbolado urbano, ruido, descargas de aguas residuales, emisiones a la atmósfera, en la esfera de la competencia municipal;
-
-V. Ordenar y practicar visitas domiciliarias para comprobar el cumplimiento de las obligaciones administrativas a cargo de las personas, de conformidad con lo previsto en la normatividad aplicable;
-
-VI. Ordenar y practicar en coordinación con las dependencias competentes la revisión o visitas de inspecciones para evitar la reventa de boletos en espectáculos públicos, eventos deportivos y exhibición de películas y, en su caso, practicar el aseguramiento en cumplimiento de la normatividad aplicable;
-
-VII. Ordenar y practicar la revisión en las vías públicas y lotes baldíos, para verificar el cumplimiento de la normatividad aplicable;
-
-VIII. Supervisar y verificar en coordinación con las dependencias competentes, los controles de calidad empleados en la edificación y urbanización de cualquier tipo de construcción y su apego a los proyectos autorizados;
-
-IX. Definir y establecer las estrategias y compromisos que permitan la atención y cumplimiento eficiente de la normatividad vigente y de los objetivos previstos en materia de inspección y vigilancia en el Plan y Programa de Gobierno en coordinación con las dependencias competentes;
-
-X. Diseñar, implementar y promover con calidad y eficiencia, los mecanismos que sean necesarios para agilizar los trámites que realice la población y se lleven a cabo en la Dirección;
-
-XI. Coadyuvar con la Sindicatura en el diseño de los formatos de órdenes de visita y actas de inspección que empleen en sus actuaciones los inspectores municipales y utilizar solo aquellos autorizados por la Sindicatura;
-
-XII. Coordinar y supervisar las labores de las personas operativas y administrativas a su cargo;
-
-XIII. Informar y proporcionar los datos y documentos en copias certificadas respecto a las edificaciones o construcciones ejecutadas en contra de la normatividad aplicable, que sean detectadas en la visita de inspección y vigilancia, para que con ello la Sindicatura, a través de su Dirección General Jurídica, inicie el procedimiento de demolición correspondiente de conformidad a las disposiciones de la materia;
-
-XIV. Supervisar el proceso de construcciones, edificaciones y urbanizaciones en ejecución a fin de garantizar el apego a los proyectos que se les hubiere autorizado; en coordinación con las dependencias competentes;
-
-XV. Ordenar y practicar el aseguramiento precautorio de bienes y mercancías a comerciantes ambulantes, a efecto de garantizar el pago de las sanciones que se les impongan por infringir las disposiciones aplicables;
-
-XVI. Ordenar y practicar las inspecciones, aseguramientos y decomisos derivados de convenios de coordinación celebrados por el Ayuntamiento con las autoridades federales y estatales en materia de salud pública e higiene;
-
-XVII. Ordenar y practicar la clausura de giros en los términos previstos en la normatividad aplicable;
-
-XVIII. Ordenar y practicar el aseguramiento de máquinas de videojuegos electrónicos susceptibles de apuestas, máquinas de videojuegos electrónicos de habilidad y destreza, juegos mecánicos y en general aquellos que incumplan con la normatividad municipal;
-
-XIX. Crear en coordinación con la dependencia competente un sistema de registro de giros de particulares que desarrollen actividades reguladas por los ordenamientos municipales, en los que se les determinen obligaciones a su cargo, y mantenerlo actualizado, a fin de que su verificación y control sean más eficientes;
-
-XX. Comunicar los resultados de las inspecciones, según sea el caso, a la Jefatura de Gabinete, a la Sindicatura y a la Tesorería;
-
-XXI. Notificar a las personas físicas y jurídicas el resultado de la visita por actos u omisiones que les sean imputables por infringir las disposiciones aplicables;
-
-XXII. Dar vista a la autoridad competente de los actos que puedan constituir infracciones administrativas o delitos;
-
-XXIII. Solicitar el auxilio de la fuerza pública para el desempeño de sus atribuciones;
-
-XXIV. Verificar el cumplimiento de las disposiciones normativas aplicables al funcionamiento de los rastros municipales;
-
-XXV. Ordenar y practicar el aseguramiento precautorio de animales, atendiendo a lo dispuesto por la normatividad aplicable;
-
-XXVI. Ordenar y en su caso, llevar a cabo el retiro de anuncios espectaculares establecidos que contravengan disposiciones legales;
-
-XXVII. Establecer, implementar y operar una política permanente de verificación ambiental, actuando en colaboración con las dependencias y entidades públicas competentes;
-
-XXVIII. Llevar a cabo el desalojo de locatarios de mercados municipales o centrales de abastos, ordenado por autoridad administrativa o judicial; y en los casos que así proceda, asegurar precautoriamente los bienes y mercancías hasta en tanto se garantice el pago de las sanciones impuestas por infringir las disposiciones aplicables; y
-
-XXIX. Rendir los informes previos y justificados en los términos requeridos por la Sindicatura, cuando se señalen como autoridades responsables a la Dirección de Inspección y Vigilancia o a sus direcciones dependientes.
-
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Inspección a Reglamentos y Espectáculos; de Inspección a Mercados y Comercio en la Vía Pública; y de Inspección Sanitaria, Medio Ambiente y Construcción.
+(DEROGADO, G.M. 28 DE ABRIL DE 2021)
 
 #### Sección Segunda. Gerencia Municipal
 
@@ -2651,7 +2595,15 @@ XI. Reducir hasta en un cincuenta por ciento o condonar, previo acuerdo de la Pr
 
 XII. Calificar las infracciones administrativas que no sean competencia de los jueces cívicos municipales; y
 
-XIII. Llevar a cabo la legalización de firmas de las traductoras y traductores que ejercen sus funciones en el Municipio.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 28 DE ABRIL DE 2021)</small>
+
+XIII. Instruir y coordinar a través de la Dirección de Inspección y Vigilancia, la inspección y vigilancia permanente y organizada del cumplimiento de las leyes, normas y reglamentos de aplicación municipal, adoptando para ello las medidas normativas, administrativas, técnicas y tecnológicas necesarias, que promuevan la legalidad, transparencia y objetividad de los actos de autoridad; y
+
+> <small>(REFORMADA, G.M. 28 DE ABRIL DE 2021)</small>
+
+XIV. Llevar a cabo la legalización de firmas de las traductoras y traductores que ejercen sus funciones en el municipio.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.M. 28 DE ABRIL DE 2021)</small>
 
 Para el cumplimiento de sus atribuciones, la Secretaría General cuenta con las dependencias indicadas en las siguientes secciones:
 
@@ -3345,7 +3297,71 @@ VII. Asignar a las y los oficiales del Registro Civil la oficialía para el dese
 
 La titularidad de las oficialías del Registro Civil del Municipio está a cargo de las servidoras públicas y los servidores públicos denominados oficiales del Registro Civil, quienes tienen fe pública en el desempeño de las labores propias de su cargo.
 
-#### Sección Primera. Dirección de Catastro
+#### Sección Novena. Dirección de Inspección y Vigilancia
+
+> <small>(ADICIONADO, G.M. 28 DE ABRIL DE 2021)</small>
+
+Artículo 196 bis. Son atribuciones de la Dirección de Inspección y Vigilancia:
+
+I. Supervisar el cumplimiento de la normatividad y adoptar para ello las medidas administrativas, técnicas y tecnológicas necesarias, que promuevan la legalidad, transparencia y objetividad de los actos de autoridad con respeto a los derechos humanos;
+
+II. Aplicar en el ejercicio de sus funciones la norma para inspeccionar y supervisar todo giro, licencia, permiso o concesión;
+
+III. Supervisar que las personas cumplan con las obligaciones establecidas en los contratos de concesión o convenios de gestión en materia de aseo público, celebrados con el municipio, así como las relativas al manejo de residuos urbanos;
+
+IV. Supervisar que se cumpla la legislación, reglamentación y normatividad ambiental vigente en materia de tratamiento, recolección, traslado, uso y disposición final de los residuos sólidos urbanos, impacto ambiental, arbolado urbano, ruido, descargas de aguas residuales, emisiones a la atmósfera, en la esfera de la competencia municipal;
+
+V. Ordenar y practicar visitas domiciliarias para comprobar el cumplimiento de las obligaciones administrativas a cargo de las personas, de conformidad con lo previsto en la normatividad aplicable;
+
+VI. Ordenar y practicar en coordinación con las dependencias competentes la revisión o visitas de inspecciones para evitar la reventa de boletos en espectáculos públicos, eventos deportivos y exhibición de películas y, en su caso, practicar el aseguramiento en cumplimiento de la normatividad aplicable;
+
+VII. Ordenar y practicar la revisión en las vías públicas y lotes baldíos, para verificar el cumplimiento de la normatividad aplicable;
+
+VIII. Supervisar y verificar en coordinación con las dependencias competentes, los controles de calidad empleados en la edificación y urbanización de cualquier tipo de construcción y su apego a los proyectos autorizados;
+
+IX. Definir y establecer las estrategias y compromisos que permitan la atención y cumplimiento eficiente de la normatividad vigente y de los objetivos previstos en materia de inspección y vigilancia en el Plan y Programa de Gobierno en coordinación con las dependencias competentes;
+
+X. Diseñar, implementar y promover con calidad y eficiencia, los mecanismos que sean necesarios para agilizar los trámites que realice la población y se lleven a cabo en la dirección;
+
+XI. Coadyuvar con la Sindicatura en el diseño de los formatos de órdenes de visita y actas de inspección que empleen en sus actuaciones los inspectores municipales y utilizar solo aquellos autorizados por la Sindicatura;
+
+XII. Coordinar y supervisar las labores de las personas operativas y administrativas a su cargo;
+
+XIII. Informar y proporcionar los datos y documentos en copias certificadas respecto a las edificaciones o construcciones ejecutadas en contra de la normatividad aplicable, que sean detectadas en la visita de inspección y vigilancia, para que con ello la Sindicatura, a través de su Dirección General Jurídica, inicie el procedimiento de demolición correspondiente, de conformidad a las disposiciones de la materia;
+
+XIV. Supervisar el proceso de construcciones, edificaciones y urbanizaciones en ejecución a fin de garantizar el apego a los proyectos que se les hubiere autorizado; en coordinación con las dependencias competentes;
+
+XV. Ordenar y practicar el aseguramiento precautorio de bienes y mercancías a comerciantes ambulantes, a efecto de garantizar el pago de las sanciones que se les impongan por infringir las disposiciones aplicables;
+
+XVI. Ordenar y practicar las inspecciones, aseguramientos y decomisos derivados de convenios de coordinación celebrados por el Ayuntamiento con las autoridades federales y estatales en materia de salud pública e higiene;
+
+XVII. Ordenar y practicar la clausura de giros en los términos previstos en la normatividad aplicable;
+
+XVIII. Ordenar y practicar el aseguramiento de máquinas de videojuegos electrónicos susceptibles de apuestas, máquinas de videojuegos electrónicos de habilidad y destreza, juegos mecánicos y en general aquellos que incumplan con la normatividad municipal;
+
+XIX. Crear en coordinación con la dependencia competente un sistema de registro de giros de particulares que desarrollen actividades reguladas por los ordenamientos municipales, en los que se les determinen obligaciones a su cargo, y mantenerlo actualizado, a fin de que su verificación y control sean más eficientes;
+
+XX. Comunicar los resultados de las inspecciones, según sea el caso, a la Secretaria General, a la Sindicatura y a la Tesorería;
+
+XXI. Notificar a las personas físicas y jurídicas el resultado de la visita por actos u omisiones que les sean imputables por infringir las disposiciones aplicables;
+
+XXII. Dar vista a la autoridad competente de los actos que puedan constituir infracciones administrativas o delitos;
+
+XXIII. Solicitar el auxilio de la fuerza pública para el desempeño de sus atribuciones;
+
+XXIV. Verificar el cumplimiento de las disposiciones normativas aplicables al funcionamiento de los rastros municipales;
+
+XXV. Ordenar y practicar el aseguramiento precautorio de animales, atendiendo a lo dispuesto por la normatividad aplicable;
+
+XXVI. Ordenar y en su caso, llevar a cabo el retiro de anuncios espectaculares establecidos que contravengan disposiciones legales;
+
+XXVII. Establecer, implementar y operar una política permanente de verificación ambiental, actuando en colaboración con las dependencias y entidades públicas competentes;
+
+XXVIII. Llevar a cabo el desalojo de locatarios de mercados municipales o centrales de abastos, ordenado por autoridad administrativa o judicial; y en los casos que así proceda, asegurar precautoriamente los bienes y mercancías hasta en tanto se garantice el pago de las sanciones impuestas por infringir las disposiciones aplicables; y
+
+XXIX. Rendir los informes previos y justificados en los términos requeridos por la Sindicatura, cuando se señalen como autoridades responsables a la Dirección de Inspección y Vigilancia o a sus direcciones dependientes.
+
+Para la atención de los asuntos de su competencia, cuenta con las áreas de Inspección a Reglamentos y Espectáculos; de Inspección a Mercados y Comercio en la Vía Pública; y de Inspección Sanitaria, Medio Ambiente y Construcción.
 
 ###### Artículo 195.
 
@@ -3359,7 +3375,7 @@ III. Auxiliar a las y los ediles en el ejercicio de sus funciones, conforme lo d
 
 IV. Elaborar la estadística de asistencia de las regidoras y los regidores a las sesiones de las comisiones edilicias y enviarla a las dependencias competentes para su publicación.
 
-#### Sección Segunda. Dirección de Contabilidad
+#### Sección Primera. Dirección de Catastro
 
 ###### Artículo 196.
 
@@ -3369,13 +3385,15 @@ I. Coadyuvar con la Secretaría de la Defensa Nacional en el cumplimiento de las
 
 II. Impartir y promover la educación cívica en el ámbito de su competencia.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 28 DE ABRIL DE 2021)</small>
+
+#### Sección Segunda. Dirección de Contabilidad
+
 #### Sección Tercera. Dirección de Egresos
 
 #### Sección Cuarta. Dirección de Finanzas
 
 #### Sección Quinta. Dirección de Ingresos
-
-#### Sección Sexta. Dirección de Nómina
 
 ### Capítulo VI. Tesorería
 
@@ -3489,7 +3507,7 @@ El área de Administración, Evaluación y Seguimiento cuenta con las atribucion
 
 Para el desarrollo de sus funciones la Dirección de Administración, Evaluación y Seguimiento contará con las áreas de Transparencia, Evaluación y Organización y Métodos y Seguimiento.
 
-#### Sección Séptima. Dirección de Política Fiscal y Mejora Hacendaria
+#### Sección Sexta. Dirección de Nómina
 
 ###### Artículo 198.
 
@@ -3519,7 +3537,7 @@ XI. Someter a consideración de la Tesorera o el Tesorero las directrices, norma
 
 Para el desarrollo de sus funciones, la Dirección de Catastro cuenta con las áreas de Atención al Público, Cartografía y Dictaminación, Certificaciones Catastrales, Coordinación y Apoyo, Trámite y Registro, y de Valuación y Estudios Técnicos.
 
-#### Sección Primera. Dirección de Auditoría
+#### Sección Séptima. Dirección de Política Fiscal y Mejora Hacendaria
 
 ###### Artículo 199.
 
@@ -3543,7 +3561,7 @@ VIII. Solicitar a las áreas auditadas de la Administración pública el estado 
 
 Para el desarrollo de sus funciones, la Dirección de Contabilidad cuenta con las Áreas de Atención a Entes Fiscalizadores y Cuenta Pública.
 
-#### Sección Segunda. Dirección de Responsabilidades
+#### Sección Primera. Dirección de Auditoría
 
 ###### Artículo 200.
 
@@ -3571,7 +3589,7 @@ X. Proveer de fondos revolventes para su gasto directo a las dependencias ejecut
 
 Para el desarrollo de sus funciones, la Dirección de Egresos cuenta con las áreas de Caja General, Soporte de Gasto Operativo, y Soporte de Gasto de Obra Pública.
 
-#### Sección Tercera. Dirección Substanciadora
+#### Sección Segunda. Dirección de Responsabilidades
 
 ###### Artículo 201.
 
@@ -3597,7 +3615,7 @@ IX. Establecer recomendaciones y observaciones de carácter normativo en el dise
 
 Para el desarrollo de sus funciones la Dirección de Finanzas cuenta con las áreas de Control Presupuestal, y Presupuesto y Deuda.
 
-#### Sección Cuarta. Unidad Resolutora
+#### Sección Tercera. Dirección Substanciadora
 
 ###### Artículo 202.
 
@@ -3649,7 +3667,7 @@ XXII. Realizar las aclaraciones pertinentes en los recibos oficiales en caso de 
 
 Para el desarrollo de sus funciones la Dirección de Ingresos cuenta con las áreas de Análisis y Evaluación del Ingreso, Recaudación Central, y Recaudación en Vía Pública.
 
-#### Sección Quinta. Obligaciones de las Entidades que Integran la Administración Paramunicipal y de Particulares que Manejan Fondos o Valores Municipales
+#### Sección Cuarta. Unidad Resolutora
 
 ###### Artículo 203.
 
@@ -3665,7 +3683,7 @@ IV. Efectuar los cálculos totales de impuestos, deducciones y beneficios, y can
 
 Para el desarrollo de sus funciones la Dirección de Nómina cuenta con las áreas de Cálculo Fiscal y Pagos Especiales y Remuneraciones y Pagos a Terceros.
 
-#### Sección Primera. Atribuciones comunes
+#### Sección Quinta. Obligaciones de las Entidades que Integran la Administración Paramunicipal y de Particulares que Manejan Fondos o Valores Municipales
 
 ###### Artículo 204.
 
@@ -3739,7 +3757,7 @@ XVIII. Establecer los mecanismos internos en coordinación con la administració
 
 Para la atención de los asuntos de su competencia, cuenta con las áreas de Auditoría, Responsabilidades, Substanciadora y Resolutora.
 
-#### Sección Segunda. Coordinación General de Administración e Innovación Gubernamental
+#### Sección Primera. Atribuciones comunes
 
 ###### Artículo 206.
 
@@ -3767,7 +3785,7 @@ X. Coordinar y supervisar los trabajos de las y los auditores externos en la Adm
 
 XI. Revisar la contabilidad, así como los estados financieros de la administración pública y fiscalizar los subsidios otorgados a las entidades y a las personas que manejen fondos o valores del Municipio.
 
-#### Sección Tercera. Coordinación General de Comunicación Institucional
+#### Sección Segunda. Coordinación General de Administración e Innovación Gubernamental
 
 ###### Artículo 207.
 
@@ -3799,7 +3817,7 @@ XII. Emitir el acuerdo de conclusión y archivo del expediente, en caso de no en
 
 XIII. Fungir como autoridad investigadora.
 
-#### Sección Cuarta. Coordinación General de Construcción de Comunidad
+#### Sección Tercera. Coordinación General de Comunicación Institucional
 
 ###### Artículo 208.
 
@@ -3813,9 +3831,9 @@ III. Remitir las actuaciones a la Unidad Resolutora una vez transcurrido el peri
 
 IV. Remitir los procedimientos sobre faltas administrativas graves al Tribunal de Justicia Administrativa.
 
-#### Sección Quinta. Coordinación General de Desarrollo Económico y Combate a la Desigualdad
+#### Sección Cuarta. Coordinación General de Construcción de Comunidad
 
-#### Sección Sexta. Coordinación General de Gestión Integral de la Ciudad
+#### Sección Quinta. Coordinación General de Desarrollo Económico y Combate a la Desigualdad
 
 ###### Artículo 209.
 
@@ -3827,7 +3845,7 @@ II. Declarar de oficio cerrada la instrucción, dictar la resolución respectiva
 
 III. Acordar sobre la prevención, admisión o desechamiento del recurso de revocación en caso de que se promueva en contra de la resolución del procedimiento de responsabilidad administrativa, dentro de los términos y plazos establecidos en la normativa aplicable a la materia de responsabilidad administrativa.
 
-#### Sección Séptima. Coordinación General de Servicios Públicos Municipales
+#### Sección Sexta. Coordinación General de Gestión Integral de la Ciudad
 
 ###### Artículo 210.
 
@@ -3843,6 +3861,8 @@ IV. Enviar con cinco días de anticipación cuando menos, a la Contralora o Cont
 
 ### Capítulo VIII. Coordinaciones Generales
 
+#### Sección Séptima. Coordinación General de Servicios Públicos Municipales
+
 #### Sección Primera. Estructura
 
 #### Sección Segunda. Denominación, Objeto y Domicilio Legal
@@ -3855,11 +3875,9 @@ IV. Enviar con cinco días de anticipación cuando menos, a la Contralora o Cont
 
 #### Sección Sexta. Presupuesto
 
-#### Sección Séptima. Servidoras y Servidores Públicos
-
 ### Capítulo IX. Órganos Desconcentrados
 
-#### Sección Octava. Órgano Interno de Control
+#### Sección Séptima. Servidoras y Servidores Públicos
 
 ###### Artículo 211.
 
@@ -3891,7 +3909,7 @@ XII. Diseñar, implementar y promover con calidad y eficiencia los mecanismos de
 
 XIII. Ejercer por sí mismo o a través de las direcciones adscritas a su Coordinación, las atribuciones conferidas a las mismas.
 
-#### Sección Novena. Extinción o Fusión
+#### Sección Octava. Órgano Interno de Control
 
 ###### Artículo 212.
 
@@ -4110,6 +4128,8 @@ XVI. Autorizar el pago correspondiente vía nómina a personal de la Comisaría 
 XVII. Resguardar los contratos, convenios, condiciones generales de trabajo, acuerdos y cualquier otro documento formal y oficial en el que se confieran o establezcan derechos y obligaciones tanto al personal como al Ayuntamiento.
 
 Para la atención de sus asuntos, cuenta con las áreas de Administración de Nóminas, Administración y Control de Personal, y Desempeño y Capacitación.
+
+#### Sección Novena. Extinción o Fusión
 
 ###### Artículo 218.
 
@@ -6276,3 +6296,17 @@ G.M. 27 DE NOVIEMBRE DE 2020.
 Primero. Publíquese la presente reforma en la Gaceta Municipal de Guadalajara.
 
 Segundo. La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+G.M. 28 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Se instruye a la Contraloría Ciudadana para que (sic) el ámbito de sus atribuciones verifique el cumplimiento total del presente ordenamiento.
+
+Cuarto. Instrúyase a la Secretaría General del Ayuntamiento, para que en cuanto entre en vigencia el presente ordenamiento realice la modificación y adecuación de la papelería y documentos oficiales del área de Inspección y Vigilancia a su cargo.
+
+Quinto. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
