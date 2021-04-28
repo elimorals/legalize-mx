@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2021-03-01"
+last_updated: "2021-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -2027,19 +2027,31 @@ El Tribunal de Justicia Administrativa tendrá a su cargo dirimir las controvers
 
 Asimismo, será el órgano competente para imponer, en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales o municipales.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2021)</small>
 
 ###### Art. 104.
 
-El Tribunal de Justicia Administrativa se compondrá por cinco Magistrados Numerarios y funcionará en Pleno o en Salas, Colegiadas y Unitarias. Desarrollará sus funciones en una Sala Colegiada Administrativa integrada por tres Magistrados Numerarios y un Supernumerario; y por dos Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas, integradas por un Magistrado Numerario y un Magistrado Supernumerario para ambas.
+El Tribunal de Justicia Administrativa se compondrá por siete Magistrados Numerarios y funcionará en Pleno, así como en dos Salas Colegiadas Administrativas integradas por tres Magistrados Numerarios cada una y por una Sala Unitaria Especializada en Materia de Responsabilidades Administrativas. El Pleno podrá habilitar magistrados de las Salas Colegiadas para conocer, de forma unitaria, de las responsabilidades administrativas.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2020)</small>
 
 En la designación de los Magistrados Numerarios se observará la paridad de género, durarán en su encargo diez años, pudiendo ser ratificados por una sola vez y por el mismo periodo, previa evaluación en los términos que disponga la ley de la materia. Sólo podrán ser privados de su cargo en los términos del Título Octavo de esta Constitución y las leyes aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2020)</small>
+
 El Pleno del Tribunal será presidido por el Magistrado que resulte electo por mayoría de votos de sus integrantes. El Magistrado Presidente, ejercerá su encargo por tres años y podrá reelegirse.
 
-Los Magistrados Supernumerarios durarán en su cargo diez años, los cuales podrán ser designados de entre las ternas que para Magistrados Numerarios envíe el Gobernador del Estado; y suplirán las faltas de los Magistrados Numerarios en los términos que determine la ley aplicable.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2021)</small>
+
+Se podrán nombrar hasta tres magistrados supernumerarios y durarán en su cargo diez años, los cuales podrán ser designados de entre las ternas que para Magistrados Numerarios envíe el Gobernador del Estado; y suplirán las faltas de los Magistrados Numerarios en los términos que determine la ley aplicable.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2020)</small>
 
 Si la falta fuere definitiva, entrará provisionalmente en funciones el Magistrado Supernumerario que corresponda, situación que se hará del conocimiento del Gobernador y del Congreso o Diputación Permanente para proceder a la designación de un Magistrado Numerario por el periodo restante, de conformidad a lo previsto por el artículo 105 de esta Constitución, sin exceder del término de sesenta días entre la ausencia y la designación.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2021)</small>
+
+No podrá entrar en funciones el magistrado supernumerario que con posterioridad a su nombramiento, haya sido vinculado a proceso por hechos que constituyan delitos cometidos por servidores públicos, ni aquellos que cuenten con una medida cautelar vigente de suspensión provisional en procedimiento de responsabilidad administrativa, o esté inhabilitado para ejercer el servicio público, cualquiera que sea la vía de responsabilidad en que se decrete.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
 
@@ -4239,11 +4251,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Para la designación de los dos nuevos Magistrados Numerarios o Magistradas Numerarias, y un Magistrado Supernumerario o Magistrada Supernumeraria del Tribunal de Justicia Administrativa, el Gobernador del Estado presentará las ternas ante el Congreso del Estado, en los términos del artículo 105 de la Constitución Política del Estado Libre y Soberano de Nayarit, dentro de treinta días naturales siguientes a la entrada en vigor del presente Decreto.
 
-Los nuevos Magistrados Numerarios o Magistradas Numerarias a que se refiere el párrafo anterior, tendrán su adscripción a las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas, al menos durante los primeros cinco años del ejercicio de su encargo. Lo anterior, sin perjuicio de que el Pleno del Tribunal de Justicia Administrativa, modifique sus adscripciones durante su encargo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE ABRIL DE 2021)</small>
 
-TERCERO.- El Magistrado Supernumerario por el Decreto que designa a los Magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit el día 12 de Noviembre del 2016, será el Magistrado Supernumerario o Magistrada Supernumeraria de la Sala Colegiada Administrativa, y durará en su encargo para el periodo que fue designado.
-
-La persona que sea designada como Magistrado Supernumerario en cumplimiento del presente Decreto, será el Magistrado Supernumerario o Magistrada Supernumeraria de las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas.
+TERCERO.- (DEROGADO, P.O. 28 DE ABRIL DE 2021)
 
 CUARTO.- En un plazo que no exceda de ciento ochenta días posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado deberá realizar las adecuaciones legales necesarias para armonizar el marco jurídico local con la presente reforma. Debiendo considerarse la instauración de las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas.
 
@@ -4316,3 +4326,17 @@ CUARTO. La entrada en funciones del Centro de Conciliación Laboral del Estado d
 QUINTO. La Ley Orgánica que regule el Centro de Conciliación Laboral del Estado de Nayarit deberá observar los lineamientos previstos en el artículo 590- F de la Ley Federal del Trabajo, los establecidos en el presente Decreto y lo que señala la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit.
 
 SEXTO. Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+P.O. 28 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE JUSTICIA ADMINISTRATIVA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, debiéndose publicar en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Dentro de los quince días posteriores a la entrada en vigor del presente decreto, el titular del Poder Ejecutivo deberá enviar las ternas al Congreso del Estado, para que éste, designe a los dos Magistrados Numerarios y a los Magistrados Supernumerarios, en los términos del artículo 105 de la Constitución Política del Estado Libre y Soberano de Nayarit.
+
+TERCERO.- Dentro de los noventa días posteriores a la entrada en vigor de este decreto, el Congreso del Estado deberá realizar las adecuaciones legales correspondientes para la debida eficacia de la reforma.
+
+CUARTO.- Dentro de los treinta días posteriores a la entrada en vigor de la presente reforma, los órganos competentes deberán realizar los ajustes presupuestales para su debida ejecución.
+
+QUINTO.- Remítase el presente Decreto a los Ayuntamientos del Estado de Nayarit, para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit.
