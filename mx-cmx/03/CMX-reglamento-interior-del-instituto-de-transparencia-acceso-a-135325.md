@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-transparencia-acceso-a-135
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-04-11"
-last_updated: "2020-11-19"
+last_updated: "2021-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135325&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2019-04-04"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA, PROTECCION DE DATOS PERSONALES Y RENDICION DE CUENTAS DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 18 DE JUNIO DE 2019 EN: http://www.infodf.org.mx/documentospdf/constitucion_cdmx/Reglamento.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 28 DE ABRIL DE 2021 EN: https://documentos.infocdmx.org.mx/acuerdos/2021/A121Fr01_2021-T02_Acdo-2021-14-04-0281.pdf]</small>
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ABRIL DE 2021.
 
 Reglamento publicado en el Número 70 de la Gaceta Oficial de la Ciudad de México, el jueves 11 de abril de 2019.
 
@@ -776,7 +776,11 @@ III. Presentar al Pleno el Programa Anual de Auditorías, durante los primeros c
 
 IV. Acordar con la Comisionada Presidenta o con el Comisionado Presidente los asuntos de su competencia y rendir trimestralmente un informe, por escrito, a las Comisionadas y los Comisionados Ciudadanos del avance de los programas y proyectos del Órgano Interno de Control, así como de las observaciones y las recomendaciones que deriven de las auditorías externas realizadas al Instituto;
 
-V. Proponer al Pleno, por conducto de la Comisionada Presidenta o del Comisionado Presidente, la normatividad aplicable a la competencia del Órgano Interno de Control, así como un sistema de rendición de cuentas claras, transparentes y oportunas;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2021/A121Fr01_2021-T02_Acdo-2021-14-04-0281.pdf]</small>
+
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2021)</small>
+
+V. Emitir la normatividad aplicable de competencia del Órgano Interno de Control, misma que presentará al Pleno;
 
 VI. Programar, ordenar y realizar auditorías y revisiones de control a las unidades administrativas del Instituto;
 
@@ -822,7 +826,23 @@ XXVI. Presentar un informe al Pleno, a solicitud de la Comisionada Presidenta o 
 
 XXVII. Organizar y conservar sus respectivos documentos en el archivo de trámite, así como enviar los correspondientes al archivo, de conformidad con la normatividad que para tal efecto se emita; y
 
-XVIII. Las demás que expresamente le confiera la Ley de Transparencia, el Pleno, el presente Reglamento y aquellas disposiciones legales administrativas que le sean aplicables.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2021/A121Fr01_2021-T02_Acdo-2021-14-04-0281.pdf]</small>
+
+> <small>(ADICIONADA, G.O. 28 DE ABRIL DE 2021)</small>
+
+XXVIII. Expedir copia certificada de aquellos documentos que obren en los archivos del Órgano Interno de Control;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2021/A121Fr01_2021-T02_Acdo-2021-14-04-0281.pdf]</small>
+
+> <small>(ADICIONADA, G.O. 28 DE ABRIL DE 2021)</small>
+
+XXIX. Emitir el Código de Ética del Instituto, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2021/A121Fr01_2021-T02_Acdo-2021-14-04-0281.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 28 DE ABRIL DE 2021)</small>
+
+XXX. Las demás que expresamente le confiera la Ley de Transparencia, el Pleno, el presente Reglamento y aquellas disposiciones legales administrativas que le sean aplicables.
 
 #### SECCIÓN VII. DE LAS DIRECCIONES
 
@@ -1537,6 +1557,28 @@ TERCERO. La Dirección de Asuntos Jurídicos del Instituto, continuará con el t
 AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE PODRÁ SER CONSULTADO EL ACUERDO POR EL QUE SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO.
 
 Se hace del conocimiento de todas las autoridades, entidades, organismos autónomos y público en general, que el Acuerdo por el que se adicionan y modifican diversas disposiciones al Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, puede ser consultado en la siguiente dirección electrónica: https://www.infocdmx.org.mx/LTAIPRC-2016-OT/Art121/Fr01/2020/A121Fr01_2020-T04_Acdo-2020-14-10-1672.pdf.
+
+Para los efectos procedentes, se hace saber que conforme a lo dispuesto en el artículo 8, fracciones XXI y XXII del Reglamento de Sesiones del Pleno del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, el responsable de la funcionalidad, visibilidad y permanencia de la citada dirección electrónica es el Secretario Técnico del mencionado Instituto, para lo cual se dejan a disposición de autoridades y público en general los siguientes datos de contacto: teléfono 5636-2120 extensión 108, correo electrónico hugo.zertuche@infocdmx.org.mx.
+
+## TRANSITORIO
+
+ÚNICO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 28 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, RELATIVAS A LA FACULTAD DEL ÓRGANO INTERNO DE CONTROL”.]
+
+PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Una vez que el Sistema Anticorrupción de la Ciudad de México emita los lineamientos que establece el artículo 16 de la Ley de Responsabilidades Administrativas de la Ciudad de México, el Órgano Interno de Control del Instituto tendrá un plazo de sesenta días hábiles para adecuar dicho Código conforme a los lineamientos que se publiquen en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Publíquese para mayor difusión en la Gaceta Oficial de la Ciudad de México.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRASCRIBE EL AVISO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE PODRÁ SER CONSULTADO EL ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, RELATIVAS A LA FACULTAD DEL ÓRGANO INTERNO DE CONTROL.
+
+Se hace del conocimiento de todas las autoridades, entidades, organismos autónomos y público en general, que el Acuerdo mediante el cual se adicionan y modifican diversas disposiciones al Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, relativas a la facultad del Órgano Interno de Control, puede ser consultado en la siguiente dirección electrónica: https://documentos.infocdmx.org.mx/acuerdos/2021/A121Fr01_2021-T02_Acdo-2021-14-04-0281.pdf.
 
 Para los efectos procedentes, se hace saber que conforme a lo dispuesto en el artículo 8, fracciones XXI y XXII del Reglamento de Sesiones del Pleno del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, el responsable de la funcionalidad, visibilidad y permanencia de la citada dirección electrónica es el Secretario Técnico del mencionado Instituto, para lo cual se dejan a disposición de autoridades y público en general los siguientes datos de contacto: teléfono 5636-2120 extensión 108, correo electrónico hugo.zertuche@infocdmx.org.mx.
 
