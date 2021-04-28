@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-fiscalia-especializada-para-la-atencion-1449
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-11-13"
-last_updated: "2020-11-13"
+last_updated: "2021-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144995&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY ORGANICA DE LA FISCALIA ESPECIALIZADA PARA LA ATENCION DE DELITOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO NO. 225, PUBLICADO EN EL P.O. DE 28 DE ABRIL DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA PARA LA ATENCIÓN DE DELITOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2021 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2020.
 
@@ -528,3 +530,23 @@ GOBERNADOR DEL ESTADO
 AMADOR RODRÍGUEZ LOZANO
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 225 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 9, 28 Y 29, ASÍ COMO LA ADICIÓN DE LOS ARTÍCULOS 24 BIS Y 24 TER A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Fiscal General del Estado, emitirá las disposiciones reglamentarias derivadas del presente Decreto en un tiempo que no excederá de 30 días naturales, contados a partir de la publicación del decreto en el Periódico Oficial del Estado de Baja California.
+
+TERCERO. El Fiscal General del Estado, deberá realizar todas las acciones administrativas y presupuestales necesarias garantizar la correcta operación de la Fiscalía Especializada en Combate a la Corrupción del Estado de Baja California y la Fiscalía Especializada para la Atención de Delitos Electorales del Estado de Baja California.
+
+El presupuesto que el Congreso del Estado haya destinado a la Fiscalía Especializada para la Atención de Delitos Electorales del Estado de Baja California, para el ejercicio Fiscal, deberá ejercerse en los términos autorizados por la Legislatura Estatal.
+
+CUARTO. Se Abroga la Ley Orgánica de la Fiscalía Especializada para la Atención de Delitos Electorales del Estado de Baja California, publicada en el Periódico Oficial No. 71, de fecha 13 de noviembre de 2020, Sección II, Tomo CXXVII.
+
+QUINTO. Se Abroga la Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Baja California, Publicada en el Periódico Oficial No. 61, Tomo CXXVI, Sección I, de fecha 13 de diciembre de 2019.
+
+SEXTO. Los recursos humanos y financieros, tratándose del personal de base sindicalizado, mantendrán su relación laboral en el Gobierno Central del Poder Ejecutivo, realizando los mismos, sus funciones como personal comisionado ante la Fiscalía General del Estado, de acuerdo a su experiencia, salvaguardando en todo momento sus derechos adquiridos y prestaciones establecidas en la Ley del Servicio Civil de los Trabajadores del Estado y Municipios, así como en sus Condiciones Generales de Trabajo vigentes.
