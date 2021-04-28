@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-fiscalia-general-del-estado-de-baja-139005"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2020-11-06"
+last_updated: "2021-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2021.
 
 Ley publicada en el No. 49 del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -71,13 +71,29 @@ IX. Fiscal Especial: El nombrado por acuerdo del Fiscal General para asuntos esp
 
 X. Fiscal Especializado: El Fiscal que ejerce las facultades del Ministerio Público en determinada materia;
 
-XI. Guardia Estatal de seguridad e investigación: El órgano administrativo desconcentrado de la Fiscalía General, pero bajo su mando, con facultades de seguridad pública e investigación;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2021)</small>
 
-XII. Ministerio Público: La Institución del Ministerio Público;
+XI. Fiscal Especializado en Combate a la Corrupción: El Fiscal que ejerce funciones de Ministerio Público en delitos relacionados con hechos de corrupción cometidos por servidores públicos y por particulares;
 
-XIII. Oficialía Mayor: Entidad encargada de la administración de los recursos humanos, financieros y materiales de la Fiscalía General, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2021)</small>
 
-XIV. Servicio de Carrera: El Servicio Profesional de Carrera de la Fiscalía General del Estado.
+XII. Fiscal Especializado para la Atención de Delitos Electorales: El Fiscal que ejerce funciones de Ministerio Público en delitos electorales;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2021)</small>
+
+XIII. Guardia Estatal de Seguridad e Investigación: El órgano administrativo desconcentrado de la Fiscalía General, pero bajo su mando, con facultades de seguridad pública e investigación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE ABRIL DE 2021)</small>
+
+XIV. Ministerio Público: La Institución del Ministerio Público;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2021)</small>
+
+XV. Oficialía Mayor: Entidad encargada de la administración de los recursos humanos, financieros y materiales de la Fiscalía General; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE ABRIL DE 2021)</small>
+
+XVI. Servicio de Carrera: El Servicio Profesional de Carrera de la Fiscalía General del Estado.
 
 ###### Artículo 4.
 
@@ -127,6 +143,8 @@ La presente ley, su reglamento, acuerdos, circulares y demás normatividad fijar
 
 Estructura orgánica. La Fiscalía General del Estado estará integrada para su funcionamiento y despacho de los asuntos que le competen, por los siguientes órganos:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 28 DE ABRIL DE 2021)</small>
+
 I. Fiscalía Central, misma que se integra a su vez por:
 
 a. Fiscalía Regional de Mexicali;
@@ -139,35 +157,49 @@ d. Fiscalía Regional de Tecate;
 
 e. Fiscalía Regional de Playas de Rosarito;
 
-f. Fiscalía Especializada en Delitos Contra Mujeres por Razón de Género;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE ABRIL DE 2021)</small>
 
-g. Fiscalía Especializada en Delitos Contra la Vida;
+f. Fiscalía Regional de San Quintín;
 
-h. Fiscalía Especializada en Narcomenudeo;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
 
-i. Fiscalía Especializada en Derechos Humanos;
+g. Fiscalía Especializada en Delitos Contra Mujeres por Razón de Género;
 
-j. Fiscalía Especializada en Justicia para Adolescentes;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE NOVIEMBRE DE 2020)</small>
+h. Fiscalía Especializada en Delitos Contra la Vida;
 
-k. Fiscalía Especializada en Delitos Ambientales y Contra los Animales;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE NOVIEMBRE DE 2020)</small>
+i. Fiscalía Especializada en Narcomenudeo;
 
-l. Fiscalía de Unidades Especializadas;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE NOVIEMBRE DE 2020)</small>
+j. Fiscalía Especializada en Derechos Humanos;
 
-m. Unidad de Inteligencia Patrimonial y Económica;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE NOVIEMBRE DE 2020)</small>
+k. Fiscalía Especializada en Justicia para Adolescentes;
 
-n. Unidad de Procedimientos de Extinción de Dominio, y
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE NOVIEMBRE DE 2020)</small>
+l. Fiscalía Especializada en Delitos Ambientales y Contra los Animales;
 
-o. Fiscalía Especializada en Delitos Contra la Tortura.
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
+
+m. Fiscalía de Unidades Especializadas;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
+
+n. Unidad de Inteligencia Patrimonial y Económica;
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2021)</small>
+
+o. Unidad de Procedimientos de Extinción de Dominio; y,
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
+
+p. Fiscalía Especializada en Delitos Contra la Tortura.
 
 II. Fiscalía de Contraloría y Visitaduría;
 
@@ -187,9 +219,21 @@ IX. Dirección de Prevención Ciudadana del Delito y la Violencia;
 
 X. Dirección del Instituto Estatal de Investigación y Formación Interdisciplinaria;
 
-XI. Consejería Jurídica, y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2021)</small>
 
-XII. Los demás que establezcan las leyes y reglamentos.
+XI. Consejería Jurídica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2021)</small>
+
+XII. Fiscalía Especializada para la Atención de Delitos Electorales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2021)</small>
+
+XIII. Fiscalía Especializada en Combate a la Corrupción; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE ABRIL DE 2021)</small>
+
+XIV. Los demás que establezcan las leyes y reglamentos.
 
 El Fiscal General podrá establecer con las distintas Fiscalías y Unidades, aquellos criterios necesarios para evitar la fragmentación de las investigaciones y, en su caso, la creación de unidades mixtas de investigación.
 
@@ -527,6 +571,22 @@ La demarcación territorial de las Fiscalías Regionales corresponderá a las mi
 
 Cada Fiscalía Regional, contará a su vez, con las unidades especializadas, coordinaciones y demás estructura que el Reglamento de la presente Ley y el Fiscal General del Estado determinen, conforme a la disponibilidad presupuestal y necesidades prioritarias del servicio.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2021)</small>
+
+Artículo 24 BIS. Fiscalía Especializada para la Atención de Delitos Electorales. La Fiscalía Especializada para la atención de Delitos Electorales es un órgano dependiente de la Fiscalía General del Estado con autonomía técnica y operativa. Estará a cargo de un Fiscal Especializado para la Atención de Delitos Electorales, que será competente para la investigación, prevención y persecución de los delitos electorales.
+
+Los requisitos para ocupar el cargo, la duración en el mismo, así como el nombramiento y remoción de su titular, será de conformidad a lo establecido en la Constitución Política del Estado Libre y Soberano de Baja California.
+
+La estructura orgánica, las atribuciones y facultades específicas estarán determinadas en la presente Ley, las leyes aplicables y el Reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2021)</small>
+
+Artículo 24 TER. Fiscalía Especializada en Combate a la Corrupción. La Fiscalía Especializada en Combate a la Corrupción es un órgano dependiente de la Fiscalía General del Estado con autonomía técnica y operativa. Estará a cargo de un Fiscal Especializado en Combate a la Corrupción, que será competente para la investigación, prevención y persecución de los delitos contenidos en el Título Segundo, Sección Cuarta del Libro Segundo del Código Penal para el Estado de Baja California.
+
+Los requisitos para ocupar el cargo, la duración en el mismo, así como el nombramiento y remoción de su titular, será de conformidad a lo establecido en la Constitución Política del Estado Libre y Soberano de Baja California.
+
+La estructura orgánica, las atribuciones y facultades específicas estarán determinadas en la presente Ley, las leyes aplicables y el Reglamento correspondiente.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2020)</small>
 
 ###### Artículo 25.
@@ -569,9 +629,31 @@ Designación de Fiscales Especializados. Los titulares de las Fiscalías del Min
 
 Guardia Estatal de Seguridad e Investigación. La Fiscalía General del Estado, contará con un órgano administrativo desconcentrado, jerárquicamente subordinado a ella y con facultades específicas para resolver sobre seguridad e investigación, denominado Guardia Estatal de Seguridad e Investigación, la cual estará a cargo de un Comisionado Estatal quien, a su vez, contará con superioridad jerárquica sobre la siguiente estructura orgánica:
 
-I. Coordinación de la Guardia Estatal de Seguridad, y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2021)</small>
 
-II. Coordinación de la Agencia Estatal de Investigación.
+I. Coordinación de la Guardia Estatal de Seguridad;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2021)</small>
+
+II. Coordinación de la Agencia Estatal de Investigación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2021)</small>
+
+III. Dirección de Control, Comando, Comunicación y Cómputo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2021)</small>
+
+IV. Dirección de Servicios de Seguridad Privada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2021)</small>
+
+V. Dirección del Sistema de Información de Seguridad; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2021)</small>
+
+VI. Coordinación del Centro Estatal de Denuncia Anónima.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE ABRIL DE 2021)</small>
 
 Las atribuciones, obligaciones, requisitos y características orgánicas de la Guardia Estatal de Seguridad e Investigación, estarán determinadas por la presente Ley y su reglamentación.
 
@@ -587,13 +669,13 @@ c. Dirección del Grupo Especial de Operaciones;
 
 d. (DEROGADO, P.O. 30 DE ABRIL DE 2020)
 
-e. Dirección de Servicios de Seguridad Privada;
+e. (DEROGADO, P.O. 28 DE ABRIL DE 2021)
 
-f. Dirección del Sistema de Información de Seguridad;
+f. (DEROGADO, P.O. 28 DE ABRIL DE 2021)
 
-g. Dirección de Control, Comando, Comunicación y Cómputo;
+g. (DEROGADO, P.O. 28 DE ABRIL DE 2021)
 
-h. Coordinación del Centro Estatal de Denuncia Anónima;
+h. (DEROGADO, P.O. 28 DE ABRIL DE 2021)
 
 i. Coordinación de Licencia Oficial Colectiva, y
 
@@ -942,3 +1024,23 @@ P.O. 6 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 72 MEDIANTE EL CUAL SE REFORMA A LOS ARTÍCULOS 9 Y 24 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 225 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 9, 28 Y 29, ASÍ COMO LA ADICIÓN DE LOS ARTÍCULOS 24 BIS Y 24 TER A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Fiscal General del Estado, emitirá las disposiciones reglamentarias derivadas del presente Decreto en un tiempo que no excederá de 30 días naturales, contados a partir de la publicación del decreto en el Periódico Oficial del Estado de Baja California.
+
+TERCERO. El Fiscal General del Estado, deberá realizar todas las acciones administrativas y presupuestales necesarias (sic) garantizar la correcta operación de la Fiscalía Especializada en Combate a la Corrupción del Estado de Baja California y la Fiscalía Especializada para la Atención de Delitos Electorales del Estado de Baja California.
+
+El presupuesto que el Congreso del Estado haya destinado a la Fiscalía Especializada para la Atención de Delitos Electorales del Estado de Baja California, para el ejercicio Fiscal, deberá
+
+ejercerse en los términos autorizados por la legislatura Estatal.
+
+CUARTO. Se Abroga la Ley Orgánica de la Fiscalía Especializada para la Atención de Delitos Electorales del Estado de Baja California, publicada en el Periódico Oficial No. 71, de fecha 13 de noviembre de 2020, Sección II, Tomo CXXVII.
+
+QUINTO. Se Abroga la Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Baja California, Publicada en el Periódico Oficial No. 61, Tomo CXXVI, Sección I, de fecha 13 de diciembre de 2019.
+
+SEXTO. Los recursos humanos y financieros, tratándose del personal de base sindicalizado, mantendrán su relación laboral en el Gobierno Central del Poder Ejecutivo, realizando los mismos, sus funciones como personal comisionado ante la Fiscalía General del Estado, de acuerdo a su experiencia, salvaguardando en todo momento sus derechos adquiridos y prestaciones establecidas en la Ley del Servicio Civil de los Trabajadores del Estado y Municipios, así como en sus Condiciones Generales de Trabajo vigentes.
