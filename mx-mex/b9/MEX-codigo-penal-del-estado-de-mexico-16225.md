@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2021-03-05"
+last_updated: "2021-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ABRIL DE 2021.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -4859,6 +4859,10 @@ Si al realizarse el despojo se cometen otros delitos, aún sin la participación
 
 Este delito tendrá la calidad de permanente, mientras subsista la detentación material del inmueble objeto del ilícito por el activo.
 
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2021)</small>
+
+Este delito se actualiza aunque el derecho a la posesión sea dudoso o esté en disputa.
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
@@ -7276,3 +7280,11 @@ G.G. 5 DE MARZO DE 2021.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta de Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 29 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 286.- POR EL QUE SE ADICIONA UN ÚLTIMO PARRAFO AL ARTICULO 308 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
