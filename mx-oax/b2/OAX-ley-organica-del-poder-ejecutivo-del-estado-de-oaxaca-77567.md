@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2020-03-12"
+last_updated: "2021-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2020.
-
-(REPUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2020)
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -1395,9 +1393,7 @@ LII. Coordinar, supervisar y evaluar las actividades y resultados del Monte de P
 
 LIII. Atender los mecanismos de vigilancia y supervisión conjuntamente con las áreas involucradas en la planeación, organización y ejecución de las giras de trabajo y eventos especiales del Gobernador;
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
-
-LIV. Administrar el Hangar Oficial del Gobierno del Estado;
+LIV. (DEROGADA, P.O. 29 DE ABRIL DE 2021)
 
 > <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
 
@@ -1407,9 +1403,7 @@ LV. Administrar la Casa Oficial del Gobierno del Estado.
 
 LVI. Celebrar convenios y demás instrumentos jurídicos con dependencias y entidades federales;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-LVII. Establecer políticas generales y programas estratégicos, para la aplicación de tecnologías de la información, así como reglamentar y coordinar el desarrollo de sistemas de información;
+LVII. (DEROGADA, P.O. 29 DE ABRIL DE 2021)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -1485,6 +1479,10 @@ XIX. Definir previo acuerdo del Gobernador del Estado, criterios y políticas de
 
 XX. Administrar y vigilar los almacenes generales del Gobierno del Estado;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2021)</small>
+
+XX BIS. Administrar el Hangar Oficial del Gobierno del Estado;
+
 XXI. Registrar y controlar los vehículos y maquinaria del Poder Ejecutivo del Estado; supervisar las condiciones de uso y autorizar las reparaciones en general, servicios y mantenimiento de los mismos;
 
 XXII. Proponer a consideración del Gobernador del Estado, la creación, modificación, adscripción, supresión, fusión y extinción de áreas o unidades administrativas de Dependencias y Entidades de la Administración Pública Estatal;
@@ -1520,6 +1518,10 @@ XXXIII. Establecer políticas generales y programas estratégicos para la mejora
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 XXXIV. Administrar los parques y espacios recreativos en su custodia;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2021)</small>
+
+XXXIV BIS. Establecer políticas generales y programas estratégicos, para la aplicación de tecnologías de la información, así como reglamentar y coordinar el desarrollo de sistemas de información.
 
 XXXV. (DEROGADO, P.O. 21 DE ABRIL DE 2017)
 
@@ -3330,3 +3332,25 @@ SÉPTIMO. Los servidores públicos adscritos a la Secretaría de Desarrollo Soci
 OCTAVO. La Secretaría de Desarrollo Social y Humano, que con motivo de este Decreto, cambian (sic) de denominación, podrá continuar utilizando sus logotipos actuales y papelería oficial, hasta en tanto cuenten con la suficiencia presupuestal para actualizarlos a su nueva denominación.
 
 NOVENO. Se derogan las disposiciones de igual o menor jerarquía normativa, que se opongan al presente Decreto.
+
+P.O. 29 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2493.- MEDIANTE EL CUAL, ADICIONAN LAS FRACCIONES XX BIS Y XXXIV BIS AL ARTÍCULO 46 Y SE DEROGAN LAS FRACCIONES LIV Y LVII AL ARTÍCULO 45 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrera (sic) en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Publíquese el presente Decreto el en (sic) Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Los asuntos que con motivo de este Decreto deberán pasar a la Secretaría de Administración, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la Secretaría de Administración, a través de la Entidad o el Órgano que se cree para dicho fin, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+CUARTO. Cuando la Coordinación del Hangar Oficial del Gobierno de Oaxaca se transfiera a la Secretaría de Administración, se hará incluyendo los recursos humanos, financieros y materiales que venían utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental.
+
+QUINTO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación de este Decreto. De igual manera, se faculta para que dichas Secretarías realicen los cambios que se susciten de las estructuras de los Órganos que por este Decreto se crean o extingan. Dichos cambios y adecuaciones deberán concluirse a más tardar 120 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las Unidades Administrativas de la Secretaría de Finanzas que por esta Ley que contempla este Decreto, cambian de denominación y sector transfieren sus recursos humanos, materiales y financieros a otras áreas o unidades, se entenderán subrogadas y contraídas por sus correlativas.
+
+SÉPTIMO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición respecto de las dependencias cuyas funciones se reforman por virtud de esta Ley, se entenderán referidas a las Dependencias o Entidades a quienes, respectivamente correspondan tales funciones.
+
+OCTAVO. El Poder Ejecutivo realizará las reformas a los Reglamentos Interiores de las Secretarías de Finanzas y de Administración, y a la demás normatividad aplicable, para el cumplimiento del presente Decreto, a más tardar 120 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+NOVENO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga al presente Decreto, aún cuando no estén expresamente derogadas.
