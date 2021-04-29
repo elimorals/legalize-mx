@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidades-administrativas-del-estado-y-123999"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-03"
-last_updated: "2020-10-03"
+last_updated: "2021-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2021.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 3 de octubre de 2017.
 
@@ -195,6 +195,10 @@ II. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públ
 
 III. Presentar denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en materia de Combate a la Corrupción a que se refiere la Ley General, así como a las demás instancias estatales y federales competentes.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2021)</small>
+
+Los Órganos internos de control deberán cumplir con las facultades que la presente ley y la Ley General establecen, implementando procedimientos que cumplan los principios de legalidad, certeza jurídica y debido proceso. El incumplimiento de las obligaciones en mención será sancionado conforme a lo dispuesto por la Ley General, la presente Ley y demás disposiciones aplicables.
+
 ###### Artículo 10.
 
 La Auditoría Superior será competente para investigar y substanciar el procedimiento por las faltas administrativas graves.
@@ -317,23 +321,15 @@ La Secretaría, así como los Órganos internos de control de los entes público
 
 #### Sección Segunda. De los sujetos obligados a presentar declaración patrimonial y de intereses
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2021)</small>
 
 ###### Artículo 30.
 
-Estarán obligados a presentar las declaraciones de situación patrimonial y de intereses, bajo protesta de decir verdad y ante la Secretaría o su respectivo Órgano interno de control, todos los Servidores Públicos, en los términos previstos en la presente Ley y la Ley General. Asimismo, deberán presentar su declaración fiscal anual, en los términos que disponga la legislación de la materia. Los servidores públicos pertenecientes a Dependencias y Entidades de la Administración Pública Estatal, las citadas declaraciones se presentarán ante la Secretaría. Los servidores públicos de los Poderes Legislativo y Judicial, de los Organismos Constitucionales Autónomos, las presentarán ante sus respectivos Órganos Internos de Control. Para efectos de lo anterior, dichos Poderes, Organismos, podrán celebrar convenios con la Secretaría para el uso de las plataformas tecnológicas de esta última.
+Estarán obligados a presentar las declaraciones de situación patrimonial y de intereses, bajo protesta de decir verdad y ante la Secretaría o su respectivo Órgano Interno de control, todos los Servidores Públicos, en los términos previstos en la presente Ley y la Ley General. Asimismo, deberán presentar su declaración fiscal anual, en los términos que disponga la legislación de la materia. Los servidores públicos pertenecientes a Dependencias y Entidades de la Administración Pública Estatal, presentarán las citadas declaraciones ante la Secretaría. Los servidores públicos de los Poderes Legislativo y Judicial, de los Organismos Constitucionales Autónomos, las presentarán ante sus respectivos órganos Internos de Control. Para efectos de lo anterior, dichos Poderes, Organismos, podrán celebrar convenios con la Secretaría para el uso de las plataformas tecnológicas de esta última.
 
-(NOTA 1: EL 28 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 182/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx).
+Tratándose de los ayuntamientos, agentes municipales, de Policía y demás servidores públicos municipales, deberán presentar las declaraciones ante la Contraloría Interna Municipal o en su caso ante la Comisión del Ayuntamiento que corresponda de conformidad con lo dispuesto en el artículo 126 TER de la Ley Orgánica Municipal del Estado de Oaxaca.
 
-(NOTA 2: EL 28 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 183/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx).
-
-(NOTA 3: EL 28 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 184/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx).
-
-(NOTA 4: EL 28 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 185/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-TRATÁNDOSE DE LOS AYUNTAMIENTOS, AGENTES MUNICIPALES, DE POLICÍA Y DEMÁS SERVIDORES PÚBLICOS MUNICIPALES DEBERÁN PRESENTAR LAS DECLARACIONES ANTE EL ÓRGANO INTERNO DE CONTROL DEL CONGRESO DEL ESTADO.
+Las declaraciones estarán a disposición de la ciudadanía para su consulta a través de las plataformas tecnológicas, sin que se requiera solicitud de información previa; en su caso, los ayuntamientos podrán celebrar convenios con la Secretaría para el uso de las plataformas tecnológicas que ésta tenga a su disposición.
 
 Asimismo, los Servidores Públicos deberán presentar su declaración fiscal anual, en los términos que disponga la legislación en la materia.
 
@@ -497,9 +493,11 @@ Para el caso de las Faltas administrativas graves y no graves, las facultades de
 
 Sanciones por las Faltas administrativas no graves, las Faltas Administrativas graves y las Faltas de Particulares.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2021)</small>
+
 ###### Artículo 51.
 
-Las Faltas administrativas no graves, las Faltas administrativas graves y las de Particulares, serán sancionadas en los términos previstos en los Capítulos I, II, III y IV del Título Cuarto de la Ley General.
+Las Faltas administrativas no graves, las Faltas administrativas graves y las de Particulares, serán sancionadas en los términos previstos en los Capítulos I, II, III y IV del Título Cuarto del Libro Primero de la Ley General.
 
 ###### Artículo 52.
 
@@ -537,13 +535,17 @@ Los procedimientos de responsabilidad administrativa derivados de la presunta co
 
 Las personas autorizadas en términos del artículo 117 de la Ley General, serán responsables de los daños y perjuicios que causen ante el que los autoriza, de acuerdo a las disposiciones civiles aplicables relativas al mandato y las demás conexas.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2021)</small>
+
 ###### Artículo 57.
 
-En lo que no se oponga a lo dispuesto en el procedimiento de responsabilidad administrativa previsto por la Ley General, será de aplicación supletoria lo dispuesto en la Ley de Justicia Administrativa para el Estado de Oaxaca y en el Código de Procedimientos Civiles para el Estado de Oaxaca.
+En lo que no se oponga a lo dispuesto en el procedimiento de responsabilidad administrativa previsto por la Ley General, será de aplicación supletoria lo dispuesto en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca y en el Código de Procedimientos Civiles para el Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2021)</small>
 
 ###### Artículo 58.
 
-Las autoridades substanciadoras o resolutoras, podrán hacer uso de los medios de apremio a que se refieren las fracciones I y II del artículo 120 de la Ley General, así como las medidas cautelares, bajo el procedimiento establecido en las Secciones Segunda y Tercera, del Capítulo I, Título Segundo, Libro Segundo del mismo ordenamiento. El auxilio de la fuerza pública podrá solicitarse en cualquier momento.
+Las autoridades substanciadoras o resolutoras, podrán hacer uso de los medios de apremio a que se refieren las fracciones I, II y III del artículo 120 de la Ley General, así como las medidas cautelares, bajo el procedimiento establecido en las Secciones Segunda y Tercera, del Capítulo I, Título Segundo, Libro Segundo del mismo ordenamiento. El auxilio de la fuerza pública podrá solicitarse en cualquier momento.
 
 ### Capítulo II. De los Recursos
 
@@ -591,9 +593,11 @@ Las sanciones económicas impuestas por el Tribunal constituirán créditos fisc
 
 Cuando haya causado ejecutoria una sentencia en la que se determine la plena responsabilidad de un Servidor Público por faltas administrativas graves y en la que se haya impuesto una indemnización y/o sanción económica al responsable, el Magistrado, sin que sea necesario que medie petición de parte y sin demora alguna, girará oficio por el que comunicará la sentencia respectiva así como los puntos resolutivos de esta para su cumplimiento en términos de lo dispuesto por la Ley General y dando vista a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Oaxaca o la Dependencia encargada de las finanzas públicas del Municipio, según corresponda, quienes deberán informar al Tribunal dentro del término de diez días, sobre el cumplimiento que den a la sentencia, una vez que se haya cubierto la indemnización y la sanción económica respectiva.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2021)</small>
+
 ###### Artículo 66.
 
-Las Sentencias en las que se determine la Comisión de Faltas Administrativas Graves y Faltas de Particulares, deberán publicarse en el Periódico Oficial del Gobierno del Estado de Oaxaca, de conformidad con lo establecido en la Ley General y los demás ordenamientos legales aplicables.
+Las Sentencias que hayan causado ejecutoria en las que se determine la Comisión de Faltas de Particulares, en los supuestos de personas físicas o morales, deberán publicarse en el Periódico Oficial del Gobierno del Estado de Oaxaca, de conformidad con lo establecido en la Ley General y los demás ordenamientos legales aplicables.
 
 # LIBRO TERCERO. DE LAS QUEJAS POR CONDUCTAS QUE NO CONSTITUYEN FALTAS ADMINISTRATIVAS
 
@@ -653,17 +657,7 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
 
-(NOTA 1: EL 28 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 182/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO NÚMERO 584 INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx).
-
-(NOTA 2: EL 28 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 183/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO NÚMERO 584 INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx).
-
-(NOTA 3: EL 28 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 184/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO NÚMERO 584 INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx).
-
-(NOTA 4: EL 28 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 185/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO NÚMERO 584 INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-CUARTO. LAS DECLARACIONES PRESENTADAS ANTE LOS ÓRGANOS INTERNOS DE CONTROL DE LOS MUNICIPIOS DEBERÁN SER REMITIDAS EN UN PLAZO NO MAYOR DE 30 DÍAS AL ÓRGANO INTERNO DE CONTROL DEL H. CONGRESO DEL ESTADO DE OAXACA.
+CUARTO. (DEROGADO, P.O. 29 DE ABRIL DE 2021)
 
 P.O. 3 DE OCTUBRE DE 2020.
 
@@ -672,3 +666,11 @@ P.O. 3 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2423.- MEDIANTE EL CUAL, REFORMA LOS ARTÍCULOS 30, 51, 57, 58 Y 66; SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 9 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga al presente Decreto.
