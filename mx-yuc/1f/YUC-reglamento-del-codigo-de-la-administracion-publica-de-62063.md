@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2020-03-24"
+last_updated: "2021-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE ABRIL DE 2021.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -5863,9 +5863,17 @@ II. Trabajar coordinadamente con las bases instaladas para salvaguardar la vida 
 
 III. Trabajar coordinadamente, en los casos que así se requiera, con la Dirección de Protección Civil del Gobierno del Estado;
 
-IV. Elaborar programas de seguridad en materia hotelera, industrial, comercial, acuática o de buceo, y
+> <small>(REFORMADA, D.O. 30 DE ABRIL DE 2021)</small>
 
-V. Coadyuvar con las dependencias que correspondan en los programas de quemas que se ejecuten en los diferentes municipios del Estado.
+IV. Elaborar programas de seguridad en materia hotelera, industrial, comercial, acuática o de buceo;
+
+> <small>(REFORMADA, D.O. 30 DE ABRIL DE 2021)</small>
+
+V. Coadyuvar con las dependencias que correspondan en los programas de quemas que se ejecuten en los diferentes municipios del Estado, y
+
+> <small>(ADICIONADA, D.O. 30 DE ABRIL DE 2021)</small>
+
+VI. Elaborar el dictamen de inspección en materia de seguridad humana contra incendios, previo cumplimiento de los requisitos que para tal efecto establezca el Reglamento de la Ley de Protección Civil del Estado de Yucatán.
 
 ###### Artículo 204.
 
@@ -14378,3 +14386,11 @@ D.O. 24 DE MARZO DE 2020.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 30 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 360/2021 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE SEGURIDAD HUMANA CONTRA INCENDIOS”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
