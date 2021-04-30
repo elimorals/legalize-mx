@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-los-financiamientos-y-obligaciones-para-la-12846
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-20"
-last_updated: "2018-04-20"
+last_updated: "2021-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LOS FINANCIAMIENTOS Y OBLIGACIONES PARA LA DISCIPLINA FINANCIERA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2021.
 
 Ley publicada en la Sección VI al Número 20 del Periódico Oficial del Estado de Baja California, el viernes 20 de abril de 2018.
 
@@ -267,7 +267,9 @@ X.- En su caso, el Techo de Financiamiento Neto que le corresponde, de acuerdo a
 
 XI.- La demás información y documentos que se requieran para su análisis y aprobación de conformidad con las Disposiciones de Disciplina Financiera.
 
-Lo anterior, sin detrimento de las facultades del Congreso del Estado, de la Secretaría de Planeación y Finanzas y los Ayuntamientos para solicitar y obtener la información adicional que juzguen necesaria.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
+
+Lo anterior, sin detrimento de las facultades del Congreso del Estado, de la Secretaría de Hacienda y los Ayuntamientos para solicitar y obtener la información adicional que juzguen necesaria.
 
 Las solicitudes de autorización de Financiamientos y Obligaciones serán presentadas al Congreso del Estado por conducto de los Titulares de los Sujetos de esta Ley.
 
@@ -303,7 +305,9 @@ VI.- Inscribirse en el Registro Estatal y en el Registro Público Único;
 
 VII.- Dar cumplimiento a la contratación bajo mejores condiciones de mercado, en los términos de las Disposiciones de Disciplina Financiera; y,
 
-VIII.- Contar, con viabilidad financiera de la Secretaría de Planeación y Finanzas del Estado, en el caso del Ejecutivo del Estado y con la vialidad (sic) financiera del Tesorero Municipal, en el caso de los Municipios.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2021)</small>
+
+VIII.- Contar, con viabilidad financiera de la Secretaría de Hacienda del Estado, en el caso del Ejecutivo del Estado y con la vialidad financiera del Tesorero Municipal, en el caso de los Municipios.
 
 En la suscripción de las Obligaciones a que se refiere el presente Artículo, deberá remitirse al Congreso del Estado aviso acompañado del expediente respectivo, dentro de los 15 días hábiles siguientes a la celebración de las mismas.
 
@@ -325,7 +329,9 @@ III.- Los anticipos que otorgue el Poder Ejecutivo a los Municipios como parte d
 
 Para celebrar las operaciones señaladas en las fracciones I y II anteriores, entre el Poder Ejecutivo y las Entidades Paraestatales o entre los Municipios y sus Entidades Paramunicipales se deberá cumplir con lo dispuesto en la fracción I del artículo 17 de la presente Ley.
 
-Para celebrar las operaciones señaladas en las fracciones I y II anteriores, entre Entidades Paraestatales y Entidades Paramunicipales se requerirá de la autorización de la Secretaría de Planeación y Finanzas o Tesorero Municipal, según corresponda; así como de su Titular, Órgano de Gobierno o equivalente competente; asimismo se considerarán cubiertas dichas operaciones cuando se refleje el momento contable y jurídico que evidencie el pago en efectivo, en especie o cualquier otro medio que dé por extinguida satisfactoriamente la obligación.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
+
+Para celebrar las operaciones señaladas en las fracciones I y II anteriores, entre Entidades Paraestatales y Entidades Paramunicipales se requerirá de la autorización de la Secretaría de Hacienda o Tesorero Municipal, según corresponda; así como de su Titular, Órgano de Gobierno o equivalente competente; asimismo se considerarán cubiertas dichas operaciones cuando se refleje el momento contable y jurídico que evidencie el pago en efectivo, en especie o cualquier otro medio que dé por extinguida satisfactoriamente la obligación.
 
 ###### ARTÍCULO 20.
 
@@ -345,9 +351,11 @@ Tratándose de la contratación de Financiamientos u Obligaciones a través del 
 
 ### CAPÍTULO QUINTO. DE LAS ATRIBUCIONES DE LAS AUTORIDADES EN MATERIA DE FINANCIAMIENTOS Y OBLIGACIONES
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 23.
 
-Son autoridades en materia de Financiamientos y Obligaciones dentro de sus respectivas competencias: el Congreso del Estado; el Ejecutivo del Estado; los Ayuntamientos; los Titulares, Órganos de Gobierno o equivalente de las Entidades Paraestatales y Paramunicipales, según su competencia; el Secretario de Planeación y Finanzas; Tesorero Municipal o su equivalente en los sujetos de esta Ley y los Comités Técnicos de Financiamiento a que se refiere esta Ley.
+Son autoridades en materia de Financiamientos y Obligaciones dentro de sus respectivas competencias: el Congreso del Estado; el Ejecutivo del Estado; los Ayuntamientos; los Titulares, Órganos de Gobierno o equivalente de las Entidades Paraestatales y Paramunicipales, según su competencia; el Secretario de Hacienda; Tesorero Municipal o su equivalente en los sujetos de esta Ley y los Comités Técnicos de Financiamiento a que se refiere esta Ley.
 
 ###### ARTÍCULO 24.
 
@@ -409,19 +417,25 @@ VIII.- Solicitar la autorización del Congreso del Estado para adherirse al meca
 
 IX.- Celebrar los Convenios correspondientes y en su caso, constituirse como aval, obligado solidario o subsidiario del Municipio, para adherirse al mecanismo de contratación de Deuda Estatal Garantizada, de conformidad con lo establecido en las Disposiciones de Disciplina Financiera;
 
-X.- Confirmar a través del Secretario de Planeación y Finanzas que el Financiamiento u Obligación del Poder Ejecutivo, así como el Refinanciamiento o Reestructura, fue celebrado en las mejores condiciones del mercado, conforme a lo previsto en la presente Ley y en las Disposiciones de Disciplina Financiera; y,
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2021)</small>
+
+X.- Confirmar a través del Secretario de Hacienda que el Financiamiento u Obligación del Poder Ejecutivo, así como el Refinanciamiento o Reestructura, fue celebrado en las mejores condiciones del mercado, conforme a lo previsto en la presente Ley y en las Disposiciones de Disciplina Financiera; y,
 
 XI.- Ejercer, las demás atribuciones que en materia de Financiamientos y Obligaciones le corresponda, en los términos de la presente Ley y de las Disposiciones de Disciplina Financiera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 26.
 
-Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas, las siguientes atribuciones:
+Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, las siguientes atribuciones:
 
 I.- Elaborar los Programas Financieros que sustenten las solicitudes de autorización de Financiamientos, Obligaciones, Refinanciamientos o Reestructuras del Poder Ejecutivo, incluyendo los compromisos derivados del otorgamiento de avales o de constituirse como obligado solidario o subsidiario de los Municipios, así como de las Entidades Paraestatales y Paramunicipales;
 
 II.- Contratar en los términos de la presente Ley y de las Disposiciones de Disciplina Financiera, los Financiamientos u Obligaciones a cargo del Poder Ejecutivo, incluyendo la emisión de certificados bursátiles y demás valores mencionados en la Ley del Mercado de Valores, suscribiendo para ello los contratos, convenios, mecanismos y demás instrumentos legales que se requieran;
 
-III.- Emitir a solicitud de los Municipios, el oficio de viabilidad de pago del Poder Ejecutivo, en caso de constituirse como aval, responsable solidario o subsidiario del Municipio. Para lo anterior, el Municipio deberá acreditar y manifestar bajo protesta de decir verdad, que cumple con los requisitos establecidos en la presente Ley, las Disposiciones de Disciplina Financiera, así como los demás que establezca la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2021)</small>
+
+III.- Emitir a solicitud de los Municipios, el oficio de viabilidad de pago del Poder Ejecutivo, en caso de constituirse como aval, responsable solidario o subsidiario del Municipio. Para lo anterior, el Municipio deberá acreditar y manifestar bajo protesta de decir verdad, que cumple con los requisitos establecidos en la presente Ley, las Disposiciones de Disciplina Financiera, así como los demás que establezca la Secretaría de Hacienda;
 
 IV.- Celebrar fideicomisos o cualquier otro mecanismo jurídico que se requiera, para afectar en garantía y/o como fuente de pago de las obligaciones contraídas por el Poder Ejecutivo, directa o indirectamente, las participaciones que en ingresos federales le correspondan, así como cualquier otro ingreso derivado de contribuciones, productos y aprovechamientos;
 
@@ -483,7 +497,9 @@ I.- Elaborar los Programas Financieros que sustenten las solicitudes de autoriza
 
 II.- Contratar en los términos de la presente Ley y de las Disposiciones de Disciplina Financiera, los Financiamientos y Obligaciones a cargo del Municipio, incluyendo la emisión de certificados bursátiles y demás valores mencionados en la Ley del Mercado de Valores; suscribiendo para ello los contratos, convenios, mecanismos y demás instrumentos legales que se requieran;
 
-III.- Solicitar a la Secretaría de Planeación y Finanzas, el oficio de viabilidad de pago del Poder Ejecutivo, en caso de que se le solicite constituirse como aval, responsable solidario o subsidiario del Municipio. Para lo anterior, deberá acreditar y manifestar bajo protesta de decir verdad, que cumple con los requisitos establecidos en la presente Ley, las Disposiciones de Disciplina Financiera, así como los demás que establezca la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2021)</small>
+
+III.- Solicitar a la Secretaría de Hacienda, el oficio de viabilidad de pago del Poder Ejecutivo, en caso de que se le solicite constituirse como aval, responsable solidario o subsidiario del Municipio. Para lo anterior, deberá acreditar y manifestar bajo protesta de decir verdad, que cumple con los requisitos establecidos en la presente Ley, las Disposiciones de Disciplina Financiera, así como los demás que establezca la Secretaría de Hacienda;
 
 IV.- Celebrar fideicomisos o cualquier otro mecanismo jurídico que se requiera, para afectar en garantía y/o como fuente de pago de las obligaciones contraídas por los Municipios, directa o indirectamente, las participaciones que en ingresos federales y estatales le correspondan; cualquier otro ingreso derivado de contribuciones, productos y aprovechamientos, así como los bienes muebles e inmuebles del patrimonio Municipal en los términos de las disposiciones aplicables;
 
@@ -533,7 +549,9 @@ VIII.- Solicitar al Poder Ejecutivo o al Municipio, respectivamente, avalar o as
 
 IX.- Constituirse cuando proceda, en aval, obligado solidario o subsidiario del Poder Ejecutivo o de otras Entidades Paraestatales, en el caso de las Entidades Paraestatales y de los Municipios o de otras Entidades Paramunicipales, en el caso de las Entidades Paramunicipales. Sólo se garantizará (sic) obligaciones a cargo de las Entidades Paraestatales o Entidades Paramunicipales, en los casos en que el Poder Ejecutivo o el Municipio respectivo, en el ámbito de su competencia, garantice también dichas obligaciones;
 
-X.- Solicitar a la Secretaría de Planeación y Finanzas o a la Tesorería Municipal, según corresponda la emisión de los dictámenes, opiniones, autorizaciones y demás que se requiera para la realización de Financiamientos y Obligaciones, así como de Refinanciamiento y Reestructura;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2021)</small>
+
+X.- Solicitar a la Secretaría de Hacienda o a la Tesorería Municipal, según corresponda la emisión de los dictámenes, opiniones, autorizaciones y demás que se requiera para la realización de Financiamientos y Obligaciones, así como de Refinanciamiento y Reestructura;
 
 XI.- Realizar las modificaciones programáticas y presupuestales en los Presupuestos de Ingresos y Egresos de la Entidad en relación a la contratación de Financiamientos y Obligaciones, así como a las respectivas amortizaciones de capital, intereses y demás pagos a que haya lugar, de acuerdo al Programa Financiero autorizado, debiendo dar aviso al Congreso del Estado dentro de los 15 días hábiles siguientes a la fecha en que se celebre el contrato respectivo;
 
@@ -545,7 +563,9 @@ XIV.- Registrar los Financiamientos, Obligaciones, así como sus Refinanciamient
 
 XV. Otorgar al Congreso del Estado, Poder Ejecutivo y al Municipio, según corresponda, la información que les sea solicitada para el cumplimiento de lo establecido en esta Ley y demás Disposiciones de Disciplina Financiera;
 
-XVI.- Confirmar a través del servidor público que tenga a su cargo las funciones equivalentes del Secretario de Planeación y Finanzas o Tesorero Municipal, que el Financiamiento u Obligación, así como el Refinanciamiento o Reestructura, fue celebrado en las mejores condiciones del mercado, conforme a lo previsto en la presente Ley y en las Disposiciones de Disciplina Financiera; y,
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2021)</small>
+
+XVI.- Confirmar a través del servidor público que tenga a su cargo las funciones equivalentes del Secretario de Hacienda o Tesorero Municipal, que el Financiamiento u Obligación, así como el Refinanciamiento o Reestructura, fue celebrado en las mejores condiciones del mercado, conforme a lo previsto en la presente Ley y en las Disposiciones de Disciplina Financiera; y,
 
 XVII.- Ejercer las demás atribuciones que en materia de Financiamientos y Obligaciones le corresponda, en los términos de la presente Ley y en las Disposiciones de Disciplina Financiera.
 
@@ -553,23 +573,33 @@ XVII.- Ejercer las demás atribuciones que en materia de Financiamientos y Oblig
 
 El Comité Técnico de Financiamiento Estatal, ejercerá funciones de Órgano Auxiliar de Consulta del Poder Ejecutivo, en materia de Financiamientos, estará integrado por:
 
-I.- El Secretario de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2021)</small>
+
+I.- El Secretario de Hacienda;
 
 II.- Un representante honorífico de la ciudadanía a través del sector empresarial que será seleccionado por el Ejecutivo del Estado en los términos de los Lineamientos que al efecto emita al respecto, en base a una terna, la cual será integrada por acuerdo de los Consejos Coordinadores Empresariales de los Municipios del Estado de Baja California;
 
-III.- El Secretario de Infraestructura y Desarrollo Urbano; y,
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2021)</small>
 
-IV.- El Secretario de Desarrollo Económico.
+III.- El Secretario de Infraestructura y Desarrollo Urbano y Reordenación Territorial, y
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2021)</small>
+
+IV.- El Secretario de Economía Sustentable y Turismo.
 
 Los integrantes del Comité Técnico de Financiamiento Estatal serán designados por el Ejecutivo Estatal.
 
 Los miembros del Comité podrán designar, mediante oficio, a personas que los representen en las asambleas.
 
-Asimismo, el Secretario de Planeación y Finanzas podrá designar al Subsecretario de Finanzas como Secretario Técnico del Comité, a efecto de que le asista en las asambleas.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
+
+Asimismo, el Secretario de Hacienda podrá designar a un Subordinado como Secretario Técnico del Comité, a efecto de que le asista en las asambleas.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 31.
 
-Las actividades del Comité Técnico de Financiamiento Estatal, serán coordinadas por el Secretario de Planeación y Finanzas, quien tendrá la facultad de convocar a Asamblea a sus integrantes y al interesado en la realización del Financiamiento.
+Las actividades del Comité Técnico de Financiamiento Estatal, serán coordinadas por el Secretario de Hacienda, quien tendrá la facultad de convocar a Asamblea a sus integrantes y al interesado en la realización del Financiamiento.
 
 ###### ARTÍCULO 32.
 
@@ -617,19 +647,25 @@ IV.- Las demás que determine el Ayuntamiento respectivo.
 
 ### CAPÍTULO SEXTO. DEL REGISTRO ESTATAL DE FINANCIAMIENTOS Y OBLIGACIONES DE BAJA CALIFORNIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2021)</small>
+
 ###### ARTÍCULO 35.
 
-El Registro Estatal estará a cargo de la Secretaría de Planeación y Finanzas del Estado y tendrá como objeto inscribir y transparentar la totalidad de los Financiamientos y Obligaciones de los sujetos de esta Ley.
+El Registro Estatal estará a cargo de la Secretaría de Hacienda del Estado y tendrá como objeto inscribir y transparentar la totalidad de los Financiamientos y Obligaciones de los sujetos de esta Ley.
 
 Los efectos del Registro Estatal son únicamente declarativos e informativos, por lo que no prejuzgan ni validan los actos jurídicos por los cuales se celebraron las operaciones relativas.
 
 Los instrumentos que deberán inscribirse en el Registro Estatal a solicitud de los sujetos de esta Ley, de manera enunciativa mas no limitativa, son Financiamientos, Obligaciones, operaciones constitutivas de pasivo, directo o contingente, de corto, mediano o largo plazo, créditos, emisiones bursátiles, empréstitos o préstamos, contratos de arrendamiento financiero, operaciones de factoraje, cadenas productivas, garantías, instrumentos derivados que conlleven una obligación de pago mayor a un año, contratos de Asociación Público Privadas, independientemente de la forma en que se instrumenten, así como las demás que establezcan las Disposiciones de Disciplina Financiera.
 
-La solicitud de registro deberá presentarse por el sujeto obligado ante la Secretaría de Planeación y Finanzas con los instrumentos jurídicos, anexos y demás documentación que se establezcan mediante los lineamientos que para el efecto determine dicha Secretaría.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
+
+La solicitud de registro deberá presentarse por el sujeto obligado ante la Secretaría de Hacienda con los instrumentos jurídicos, anexos y demás documentación que se establezcan mediante los lineamientos que para el efecto determine dicha Secretaría.
 
 Los Municipios deberán llevar su propio Registro de Financiamientos y Obligaciones de acuerdo a su normatividad, sin que ello, sustituya el Registro Estatal que se refiere el presente artículo.
 
-En el supuesto, que la documentación o información presentada a la Secretaría de Planeación y Finanzas, no cumple con los requisitos establecidos en la Ley, en los lineamientos que ésta haya determinado y en las disposiciones jurídicas aplicables, o se detectan inconsistencias u omisiones en dicha documentación o información, será prevenido el solicitante por escrito en una única ocasión. En dicha prevención se le señalarán las observaciones que deberá subsanar respecto de los requisitos que incumpla, de las inconsistencias o, en su caso, de las omisiones detectadas.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
+
+En el supuesto, que la documentación o información presentada a la Secretaría de Hacienda, no cumple con los requisitos establecidos en la Ley, en los lineamientos que ésta haya determinado y en las disposiciones jurídicas aplicables, o se detectan inconsistencias u omisiones en dicha documentación o información, será prevenido el solicitante por escrito en una única ocasión. En dicha prevención se le señalarán las observaciones que deberá subsanar respecto de los requisitos que incumpla, de las inconsistencias o, en su caso, de las omisiones detectadas.
 
 El solicitante contará con un plazo de 10 días hábiles para responder a la prevención citada en el párrafo anterior, el cual se contará a partir del día hábil siguiente a aquel en se realice la notificación respectiva.
 
@@ -722,3 +758,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GOMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 222 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA A DIVERSOS ARTÍCULOS DE LA LEY QUE REGULA LOS FINANCIAMIENTOS Y OBLIGACIONES PARA LA DISCIPLINA FINANCIERA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS".]
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
