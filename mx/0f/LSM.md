@@ -4,7 +4,7 @@ identifier: "LSM"
 country: "mx"
 rank: "ley"
 publication_date: "1940-09-11"
-last_updated: "2017-06-22"
+last_updated: "2021-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2573&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSM"
 
 LEY DEL SERVICIO MILITAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2021.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1940.
 
@@ -352,7 +352,7 @@ Las empresas de transportes terrestres, marítimas y aéreas que expidan boletos
 
 ###### ARTICULO 60.
 
-Las autoridades de Migración están obligadas a exigir a todos los mexicanos que pretendan salir del país presenten la autorización respectiva. La infracción a este precepto sujeta al infractor a la pena de dos a seis meses de suspensión de empleo.
+(DEROGADO, D.O.F. 30 DE ABRIL DE 2021)
 
 ###### ARTICULO 61.
 
@@ -445,3 +445,11 @@ D.O.F. 22 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE DEROGA EL ARTÍCULO 2o. DE LA LEY DEL SERVICIO MILITAR”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGA EL ARTÍCULO 60 DE LA LEY DEL SERVICIO MILITAR”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal tendrá 90 días naturales posteriores a la entrada en vigor del presente Decreto, para realizar las modificaciones necesarias al Reglamento de la Ley del Servicio Militar.
