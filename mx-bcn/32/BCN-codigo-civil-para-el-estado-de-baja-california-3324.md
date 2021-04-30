@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2020-11-27"
+last_updated: "2021-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2021.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -10119,13 +10119,15 @@ Cuando una persona hace uso de mecanismos, instrumentos, aparatos o substancias 
 
 Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el artículo anterior y sin culpa o negligencia de ninguna de las partes se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
+
 ###### ARTICULO 1793.
 
-La reparación del daño debe consistir, a elección del ofendido, en el restablecimiento de la situación anterior a el, y cuando ello sea imposible, en el pago de daños y perjuicios.
+La reparación del daño debe consistir, a elección del ofendido, en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad permanente total o parcial o, temporal total o parcial, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo para riesgos de trabajo.
 
-Cuando el daño se cause a las personas y produzca la muerte, incapacidad permanente total o parcial o, temporal total o parcial, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal de Trabajo para riegos de trabajo. Para calcular la indemnización que corresponda se tomará como base el equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización vigente.
+Para calcular la indemnización que corresponda se tomará como base el valor de la unidad de medida y actualización vigente.
 
 En el caso de daños a las personas la indemnización incluirá todos los gastos médicos que la misma Ley Federal del Trabajo prevé para riesgos de trabajo, que el ofendido hubiere efectuado para recuperarse del daño causado.
 
@@ -16726,3 +16728,9 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 115 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 59 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 203 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 34 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA AL ARTÍCULO 1793 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
