@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2021-04-13"
+last_updated: "2021-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -417,9 +417,9 @@ V. El Estado garantizará el derecho a la información.
 
 Toda persona ejercerá su derecho de acceso a la información que se encuentre en poder de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, mediante los principios y bases siguientes:
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
 
-a) Toda la información en posesión de los sujetos obligados, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional en los términos que fije la ley de la materia. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad; los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;
+a) Toda la información en posesión de los sujetos obligados, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional en los términos que fije la ley de la materia. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad; los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información. De igual forma los sujetos obligados deberán difundir la información no reservada, siempre que no constituya información confidencial y que dicha publicación no contravenga las leyes de la materia, a través de tecnologías de la información y comunicación o cualquier otro medio de difusión y procurarán que su sitio web incluya la normatividad que les sea aplicable;
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -935,13 +935,15 @@ Las oficinas públicas deberán facilitar el cumplimiento de estas obligaciones.
 
 Una de las labores fundamentales del Congreso es la recepción, análisis y glosa de los informes que rindan los poderes Ejecutivo y Judicial bajo los términos siguientes:
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
 
-Dentro de los primeros cinco días del mes de diciembre de cada año, el Gobernador del Estado presentará el informe, sobre la situación que guardan los diversos ramos de la administración pública estatal, para lo cual podrá comparecer ante el Congreso del Estado, o bien enviarlo por escrito. En el último año de gobierno, el informe se presentará en los primeros quince días del mes de agosto.
+La persona titular del Poder del Poder Ejecutivo Estatal deberá rendir ante el Congreso del Estado, por escrito, un informe sobre la situación general que guarde la administración pública, dentro de los primeros cinco días del mes de diciembre de cada año; en el último año de gobierno, el informe de referencia se presentará en los primeros cinco días del mes de agosto.
 
 A más tardar el día quince del mes de enero de cada año, el presidente del Tribunal Superior de Justicia, entregará por escrito al Congreso, un informe anual sobre las actividades del Poder Judicial; para lo cual podrá comparecer ante el Congreso del Estado.
 
-Una vez recibidos los informes a que hacen mención los dos párrafos anteriores, el Congreso procederá a analizarlos y en un término que no excederá de diez días y de creerlo necesario podrá solicitar al Ejecutivo la comparecencia de los secretarios del ramo; así mismo podrá solicitar al Presidente del Tribunal Superior de Justicia la comparecencia de los magistrados para que aclaren lo concerniente a sus respectivos ramos o actividades, en los términos que señale la Ley Orgánica del Poder Legislativo.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
+
+Una vez recibidos los informes a que hacen mención los dos párrafos anteriores, el Congreso procederá a analizarlos, pudiendo requerir información adicional o complementaria por escrito; y en un término que no excederá de diez días, de creerlo necesario, podrá solicitar al Ejecutivo la comparecencia obligatoria de los secretarios del ramo; asimismo, podrá solicitar al Presidente del Tribunal Superior de Justicia la comparecencia de los magistrados para que aclaren lo concerniente a sus respectivos ramos o actividades, en los términos que señale la Ley Orgánica del Poder Legislativo.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -1139,7 +1141,9 @@ XVIII. Aprobar o no los convenios que el Gobernador pretenda celebrar con los Es
 
 XIX. Conceder facultades extraordinarias al Ejecutivo, cuando así lo exijan las circunstancias, en alguno o algunos ramos de la administración pública, por tiempo limitado y con la obligación de dar cuenta del uso que hubiere hecho de ellas;
 
-XX. Solicitar al Gobernador la comparecencia de los titulares de las dependencias y entidades de la administración pública centralizada y descentralizada, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivas ramas o actividades. También podrá solicitar a los órganos autónomos de carácter público del Estado, la comparecencia de sus titulares;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2021)</small>
+
+XX. Solicitar al Gobernador la comparecencia obligatoria de los titulares de las dependencias y entidades de la administración pública centralizada y descentralizada, ante el pleno del Congreso del Estado. La comparecencia se llevará a cabo cuando la solicitud esté avalada por la mayoría simple del Pleno. El Gobernador contará con un plazo de hasta diez días naturales para atender la solicitud. También podrá solicitar a los órganos autónomos de carácter público del Estado, la comparecencia de sus titulares;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2067,7 +2071,7 @@ Las decisiones o resoluciones del Consejo serán impugnadas por la vía administ
 
 ### CAPITULO II. DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2021)</small>
 
 ###### ARTICULO 86.
 
@@ -2463,25 +2467,35 @@ El órgano jurisdiccional local en materia electoral se compondrá de tres magis
 
 ###### ARTICULO 96.
 
-La Comisión Estatal de Derechos Humanos, es un organismos (sic) autónomo, con personalidad jurídica y patrimonio propios; su finalidad es la protección, observancia, promoción, estudio y divulgación de los derechos humanos que ampara el orden jurídico mexicano.
+La Comisión Estatal de Derechos Humanos, es un organismo autónomo, con personalidad jurídica y patrimonio propios; su finalidad es la protección, observancia, promoción, estudio y divulgación de los derechos humanos que ampara el orden jurídico mexicano.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 Conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier servidor público que violen estos derechos; formulará recomendaciones públicas no vinculatorias, así como denuncias y quejas ante las autoridades respectivas. Este organismo no tendrá competencia en asuntos electorales y jurisdiccionales.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
 Todo servidor público está obligado a responder las recomendaciones que le presente la Comisión Estatal de Derechos Humanos. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa. El Congreso del Estado podrá llamar, a solicitud de este Organismo, a las autoridades o servidores públicos responsables, para que comparezcan ante dicho Órgano Legislativo, a efecto de que expliquen el motivo de su negativa.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
 La Comisión podrá investigar hechos que constituyan violaciones graves a los derechos humanos, cuando así lo juzgue conveniente o lo pidiera el titular del Ejecutivo Estatal o el Congreso del Estado.
 
-El titular de la Comisión será electo por el voto de las dos terceras partes del total de los integrantes de la Legislatura del Congreso, asistirá al titular un Consejo Consultivo, de carácter honorífico, integrado por cuatro miembros, designados por mayoría de los diputados presentes.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
+
+El titular de la Comisión será electo por el voto de las dos terceras partes del total de los integrantes de la Legislatura del Congreso, asistirá al titular un Consejo Consultivo, integrado por cuatro miembros, designados por mayoría de los diputados presentes. El Presidente de la Comisión, lo será también del Consejo Consultivo.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
 La elección del titular de la Comisión Estatal de Derechos Humanos, así como de los integrantes del Consejo Consultivo se ajustarán a un procedimiento de consulta pública que deberá ser transparente, en los términos y condiciones que determine la Ley.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+
 Para ser titular de la Comisión se requiere ser preferentemente Licenciado en Derecho y cumplir con los demás requisitos que determine la ley de la materia.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
 
-El titular de la Comisión y los integrantes del Consejo Consultivo durarán en su encargo cuatro años. Solamente el titular podrá ser reelecto una sola vez por otro período igual, para lo cual se seguirá el procedimiento que para tal efecto establezca la Ley de la materia.
+El titular de la Comisión y los integrantes del Consejo Consultivo durarán en su encargo cuatro años y podrán ser reelectos una sola vez por otro período igual, para lo cual se seguirá el procedimiento que para tal efecto establezca la ley de la materia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ABRIL DE 2016)</small>
 
@@ -2501,9 +2515,9 @@ Su funcionamiento se regirá bajo los principios de certeza, independencia, impa
 
 Los poderes públicos estatales, los ayuntamientos, los órganos constitucionales autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal y cualquier otro organismo, dependencia o entidad estatal o municipal, estarán obligados a rendir la información pública que se les solicite.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
 
-Se dotará a la comisión de la estructura administrativa y de los recursos necesarios para el ejercicio de sus funciones.
+Se dotará al Instituto de la estructura administrativa y de los recursos necesarios para el ejercicio de sus funciones.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
 
@@ -2512,6 +2526,10 @@ El Instituto contará con un Pleno integrado por tres comisionados propietarios 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
 
 Los comisionados durarán en su encargo siete años y serán electos de manera escalonada sin posibilidad de reelección y no podrán ser cesados de su cargo durante el periodo para el que fueron nombrados, salvo por causa grave que calificará el Congreso del Estado conforme lo disponga la Ley de la materia. El comisionado presidente será designado por los propios comisionados, mediante voto secreto, por un periodo de tres años. Estará obligado a rendir un informe anual ante el Congreso Local, en la fecha y en los términos que disponga la Ley. Este cargo es incompatible con cualquier otro empleo o actividad, salvo la docencia y la investigación académica.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2021)</small>
+
+El Instituto contará con un Consejo Consultivo, conformado por cinco Consejeros, que durarán en su cargo cuatro años. En la integración del Consejo se preferirá la inclusión de personas con experiencia en materia de transparencia y acceso a la información así como, en general, de derechos humanos. La ley establecerá lo relativo a la instalación del Consejo Consultivo, su estructura y funcionamiento; sus facultades, atribuciones y deberes jurídicos, así como las de sus integrantes; el procedimiento de designación de los consejeros, la forma de suplirlos durante sus ausencias y el espacio físico que el Consejo Consultivo ocupará.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2636,6 +2654,10 @@ Las Leyes Tributarias y Hacendarías del Estado establecerán los impuestos, der
 El año fiscal para la aplicación de la Ley de Ingresos y el ejercicio del presupuesto estatal se contará del primero de enero al treinta y uno de diciembre de cada año.
 
 Si al iniciarse el año fiscal no se hubiere aprobado el presupuesto general correspondiente, continuará vigente el del año inmediato anterior, en tanto se expida aquél.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2021)</small>
+
+En el estado de Tlaxcala quedan prohibidas las condonaciones y las exenciones de impuestos en base a lo dispuesto en el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en los términos y condiciones que fijan las leyes.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -3938,3 +3960,19 @@ Se derogan todas aquellas disposiciones que se contrapongan al presente Decreto.
 Los actuales titulares del Tribunal de Conciliación y Arbitraje del Estado concluirán el periodo para el que fueron designados, sin embargo en el procedimiento para el nombramiento de magistrados, podrán participar y en su caso ser designados con ese carácter quienes hasta ese momento sean titulares del Tribunal de Conciliación y Arbitraje del Estado, quedando exceptuados por única ocasión del cumplimiento de los requisitos previstos en el artículo 83, fracción VI, de la Constitución Política del Estado de Tlaxcala, y del artículo 90 fracción V, de la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios.
 
 La toma de protesta de los magistrados del Tribunal de Conciliación y Arbitraje del Estado, se llevará a cabo el doce de enero del dos mil veintitrés, en sesión pública celebrada a las once horas de la mañana.
+
+P.O. 30 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 318.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado de Tlaxcala, para el debido cumplimiento a lo resuelto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que contravengan al presente Decreto.
