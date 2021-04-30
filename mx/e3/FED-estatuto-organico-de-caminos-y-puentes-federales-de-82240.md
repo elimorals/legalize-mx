@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-caminos-y-puentes-federales-de-82240"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-07-22"
-last_updated: "2011-07-22"
+last_updated: "2021-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82240&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-01-26"
 ---
 # ESTATUTO ORGANICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DEL ESTATUTO ORGÁNICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS, PUBLICADO EN EL D.O.F. DE 30 DE ABRIL DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGANICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2021 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 22 de julio de 2011.
 
@@ -1780,3 +1782,23 @@ SEPTIMO. El presente Estatuto Orgánico, así como las reformas y adiciones al m
 El presente Estatuto fue aprobado por el Consejo de Administración de CAPUFE, con fundamento en el artículo 58 fracción VIII de la Ley Federal de las Entidades Paraestatales, en sesión CCII ordinaria celebrada el 2 de junio de 2010, mediante acuerdo número 202.6.
 
 Dado en la Ciudad de México, Distrito Federal, el día veintiséis de enero de dos mil once.- El Secretario de Comunicaciones y Transportes y Presidente del Consejo de Administración de Caminos y Puentes Federales de Ingresos y Servicios Conexos, Dionisio Arturo Pérez-Jacome Friscione.- Rúbrica.- El Director General de Desarrollo Carretero y Secretario del Consejo de Administración de Caminos y Puentes Federales de Ingresos y Servicios Conexos, José San Martín Romero.- Rúbrica.- El Director General de Caminos y Puentes Federales de Ingresos y Servicios Conexos, José Guadalupe Tarcisio Rodríguez Martínez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS”.]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Cuando en este Estatuto Orgánico se dé una denominación nueva o distinta a alguna unidad administrativa cuyas funciones estén establecidas por una norma anterior, dichas funciones se entenderán concedidas a la unidad administrativa que determine este Estatuto Orgánico.
+
+TERCERO. La estructura orgánica autorizada deberá presentarse para su registro ante las Secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura no contendrá ningún incremento al presupuesto regularizable de servicios personales.
+
+CUARTO. Los asuntos pendientes a la entrada en vigor de este Estatuto Orgánico, que conforme al mismo deben de pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella o aquellas a las que se les haya atribuido en este instrumento, la competencia correspondiente.
+
+QUINTO. Se derogan todas las disposiciones emitidas al interior de CAPUFE que se opongan al presente Estatuto.
+
+SEXTO. Se abroga el Estatuto Orgánico de Caminos y Puentes Federales de Ingresos y Servicios Conexos, publicado en el Diario Oficial de la Federación el 22 de julio de 2011.
+
+SÉPTIMO. El presente Estatuto Orgánico, así como las reformas y adiciones al mismo, deberán inscribirse, en su oportunidad, en el Registro Público de Organismos Descentralizados.
