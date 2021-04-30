@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-coordinacion-fiscal-del-estado-de-baja-california-2763"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2020-04-30"
+last_updated: "2021-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2021.
 
 Ley publicada en la Sección Décimo Primera del Periódico Oficial del Estado de Baja California, el jueves 31 de diciembre de 1987.
 
@@ -95,11 +95,11 @@ II.- El 20%, en proporción a la recaudación del Impuesto Predial que obtenga c
 
 III.- El 10%, en proporción inversa al número de habitantes que tenga cada Municipio, el cual se tomará de la información oficial más reciente al inicio de cada ejercicio fiscal, entre la que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, y el Consejo Estatal de Población.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2021)</small>
 
 ###### ARTICULO 5o.
 
-Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de reducciones salvo lo dispuesto, por el Artículo 9°. de la Ley Federal de Coordinación Fiscal. Se calcularán para cada ejercicio fiscal y serán entregadas por conducto de la Secretaría de Planeación y Finanzas, a más tardar dentro de los cinco días siguientes a aquel en que el Estado las reciba como pagos provisionales o derivadas de los ajustes cuatrimestrales y del ajuste definitivo anual.
+Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de reducciones salvo lo dispuesto, por el Artículo 9o. de la Ley Federal de Coordinación Fiscal. Se calcularán para cada ejercicio fiscal y serán entregadas por conducto de la Secretaría de Hacienda, a más tardar dentro de los cinco días siguientes a aquél en que el Estado las reciba como pagos provisionales o derivadas de los ajustes cuatrimestrales y del ajuste definitivo anual.
 
 El retraso dará lugar al pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones, de conformidad con lo establecido por el Ordenamiento Federal a que se refiere el primer párrafo de este Artículo.
 
@@ -139,11 +139,11 @@ A partir del año 2002, el importe que corresponda a cada Municipio en los térm
 
 El 9% del total recaudado por el Impuesto Sobre Servicios de Hospedaje, será distribuido entre los Municipios en proporción a la recaudación obtenida en cada uno de ellos en el ejercicio fiscal anterior, por el mismo concepto.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
 
 ###### ARTICULO 8o.
 
-Las participaciones estatales, las derivadas del Impuesto Sobre Tenencia o Uso de Vehículos e Impuesto Sobre Automóviles Nuevos, así como de la venta final al público en general en territorio nacional de gasolinas y diesel, prevista en el artículo 2o.-A, fracción II, de la Ley del Impuesto Especial sobre Producción y Servicios, se calcularán mensualmente y serán entregadas por conducto de la Secretaría de Planeación y Finanzas del Estado, a más tardar el decimoquinto día del mes siguiente a aquel en que el Estado las recaude.
+Las participaciones estatales, las derivadas del Impuesto Sobre Tenencia o Uso de Vehículos e Impuesto Sobre Automóviles Nuevos, así como de la venta final al público en general en territorio nacional de gasolinas y diesel, prevista en el artículo 2o.- A, fracción II, de la Ley del Impuesto Especial sobre Producción y Servicios, se calcularán mensualmente y serán entregadas por conducto de la Secretaría de Hacienda del Estado, a más tardar el decimoquinto día del mes siguiente a aquel en que el Estado las recaude.
 
 ###### ARTICULO 9o.
 
@@ -155,25 +155,25 @@ La compensación entre el derecho de los municipios a recibir participaciones y 
 
 Las deudas de los Municipios derivadas de ajustes en participaciones no están sujetas a lo dispuesto en este artículo y serán objeto de compensación.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
 
-Los recursos del Fondo de Aportaciones para el Fortalecimiento de Municipios y de las Demarcaciones Territoriales del Distrito Federal deberán destinarse a lo dispuesto en la Ley de Coordinación Fiscal, y podrán afectarse como garantía del cumplimiento de las obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, a cargo de las Comisiones Estatales de Servicios Públicos, previa autorización de los Ayuntamientos, y posterior aprobación y autorización de la Legislatura del Estado. En caso de incumplimiento en la obligación del pago de derechos y aprovechamientos por concepto de Agua, la Comisión Nacional del Agua podrá solicitar al Ejecutivo del Estado, a través de la Secretaría de Planeación y Finanzas, previa acreditación del incumplimiento, la retención y pago del adeudo con cargo a recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, siempre y cuando el adeudo tenga la antigüedad a que se refiere la Ley de Coordinación Fiscal.
+Los recursos del Fondo de Aportaciones para el Fortalecimiento de Municipios y de las Demarcaciones Territoriales del Distrito Federal deberán destinarse a lo dispuesto en la Ley de Coordinación Fiscal, y podrán afectarse como garantía del cumplimiento de las obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, a cargo de las Comisiones Estatales de Servicios Públicos, previa autorización de los Ayuntamientos, y posterior aprobación y autorización de la Legislatura del Estado. En caso de incumplimiento en la obligación del pago de derechos y aprovechamientos por concepto de Agua, la Comisión Nacional del Agua podrá solicitar al Ejecutivo del Estado, a través de la Secretaría de Hacienda, previa acreditación del incumplimiento, la retención y pago del adeudo con cargo a recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, siempre y cuando el adeudo tenga la antigüedad a que se refiere la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
 
 ###### ARTICULO 10o.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas, publicará anualmente en el Periódico Oficial del Estado y en el periódico de mayor circulación en la Entidad, las participaciones que hubieren correspondido a cada uno de los Municipios, durante el ejercicio fiscal del año inmediato anterior.
+El Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, publicará anualmente en el Periódico Oficial del Estado y en el periódico de mayor circulación en la Entidad, las participaciones que hubieren correspondido a cada uno de los Municipios, durante el ejercicio fiscal del año inmediato anterior.
 
 ### CAPITULO III
 
 DE LA COLABORACION ADMINISTRATIVA ENTRE MUNICIPIO Y ESTADO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2021)</small>
 
 ###### ARTICULO 11.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas y los Ayuntamientos de los Municipios, podrán celebrar convenios de colaboración administrativa respecto de gravámenes Estatales y Municipales, así como en materia de ingresos federales coordinados previa autorización de la Secretaría de Hacienda y Crédito Público, para ejercer las siguientes funciones operativas:
+El Ejecutivo del Estado, por conducto de la Secretaría de Hacienda y los Ayuntamientos de los Municipios, podrán celebrar convenios de colaboración administrativa respecto de gravámenes Estatales y Municipales, así como en materia de ingresos federales coordinados previa autorización de la Secretaría de Hacienda y Crédito Público, para ejercer las siguientes funciones operativas:
 
 I.- Registro Federal de Contribuyentes.
 
@@ -215,11 +215,15 @@ El Consejo de Coordinación Hacendaria, tiene por objeto vigilar el desarrollo y
 
 El Consejo de Coordinación Hacendaria, se integrará por:
 
-I.- El Ejecutivo del Estado, por conducto del Secretario de Planeación y Finanzas, quien lo presidirá, y tendrá a su cargo, la convocatoria para sesionar y la designación de la persona que deberá asumir el cargo de Secretario del Consejo.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2021)</small>
 
-El Secretario de Planeación y Finanzas, podrá ser suplido por el funcionario que de acuerdo con las disposiciones legales, le competa el o los asuntos que se vayan a tratar en las sesiones del Consejo.
+I.- El Ejecutivo del Estado, por conducto del Secretario de Hacienda, quien lo presidirá, y tendrá a su cargo, la convocatoria para sesionar y la designación de la persona que deberá asumir el cargo de Secretario del Consejo.
 
-II.- El Congreso del Estado, por conducto del Presidente de la Comisión de Hacienda y Administración, o por la persona que la propia comisión designe, siempre y ciando (sic) sea integrante de la misma.
+El Secretario de Hacienda, podrá ser suplido por el funcionario que de acuerdo con las disposiciones legales, le competa el o los asuntos que se vayan a tratar en las sesiones del Consejo.
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2021)</small>
+
+II.- El Congreso del Estado, por conducto del Presidente de la Comisión de Hacienda y Presupuesto, o por la persona que la propia comisión designe, siempre y cuando sea integrante de la misma.
 
 III.- Los Municipios del Estado, por conducto de los Tesoreros de cada uno de los Ayuntamientos, los cuales podrán ser suplidos con la autoridad fiscal inmediata inferior, o por el funcionario que aquellos designen.
 
@@ -346,3 +350,9 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día primero de ene
 SEGUNDO.- La Secretaría de Hacienda del Estado deberá llevar a cabo las previsiones necesarias para el cumplimiento del presente decreto.
 
 TERCERO.- Los Municipios procurarán que los recursos que reciban con base en la presente reforma, sean destinados para gestión, planeación, capacitación, promoción, difusión de la actividad turística y apoyo de infraestructura turística, llevadas a cabo y ejecutadas por el organismo paramunicipal respectivo encargado del ramo turístico en el Municipio correspondiente.
+
+P.O. 30 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 221 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA A LOS ARTÍCULOS 5, 8, 9, 10, 11 Y 13 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
