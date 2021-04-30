@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2021-02-26"
+last_updated: "2021-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -463,11 +463,11 @@ VII.- La disculpa pública, la aceptación de responsabilidad, así como la gara
 
 Los medios para rehabilitación deben ser los más completos posible, deberán permitir a la víctima participar de forma plena en la vida pública, privada y social.
 
-> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
 
 ###### Artículo 34.
 
-Reglas para la fijación de la reparación del daño material.- La reparación será fijada por el Juez de Control o el Tribunal de Enjuiciamiento, según el daño que sea preciso reparar, de acuerdo con las pruebas recabadas en el proceso, o en el incidente respectivo; pero la capacidad económica del obligado solo se tomará en cuenta para la reparación del daño moral. En caso de lesiones y homicidio, a falta de pruebas específicas sobre el daño efectivamente causado, el Juez de Control o el Tribunal de Enjuiciamiento tomarán como base el doble de la tabulación prevista en la Ley Federal del Trabajo para estos casos y el salario mínimo legal en la región; esta disposición será aplicable aun cuando el ofendido sea menor de edad, esté incapacitado o no realice trabajo remunerado.
+Reglas para la fijación de la reparación del daño material.- La reparación será fijada por el Juez de Control o el Tribunal de Enjuiciamiento, según el daño que sea preciso reparar, de acuerdo con las pruebas recabadas en el proceso, o en el incidente respectivo; pero la capacidad económica del obligado solo se tomará en cuenta para la reparación del daño moral. En caso de lesiones y homicidio, a falta de pruebas específicas sobre el daño efectivamente causado, el Juez de Control o el Tribunal de Enjuiciamiento tomarán como base la tabulación prevista en la Ley Federal del Trabajo para estos casos y la unidad de medida y actualización; esta disposición será aplicable aun cuando el ofendido sea menor de edad, esté incapacitado o no realice trabajo remunerado.
 
 ###### Artículo 35.
 
@@ -6144,3 +6144,9 @@ P.O. 26 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 175 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL CAPÍTULO IV, DEL TÍTULO TERCERO, CORRESPONDIENTE AL LIBRO SEGUNDO, ASÍ COMO LA REFORMA AL ARTÍCULO 317 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ABRIL DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 203 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 34 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA AL ARTÍCULO 1793 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
