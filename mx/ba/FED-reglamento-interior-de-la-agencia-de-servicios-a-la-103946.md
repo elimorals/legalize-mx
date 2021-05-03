@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-agencia-de-servicios-a-la-103946"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-12-22"
-last_updated: "2014-12-22"
+last_updated: "2021-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103946&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-12-16"
 ---
 # REGLAMENTO INTERIOR DE LA AGENCIA DE SERVICIOS A LA COMERCIALIZACION Y DESARROLLO DE MERCADOS AGROPECUARIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO CUARTO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA Y DESARROLLO RURAL, PUBLICADO EN EL D.O.F. DE 3 DE MAYO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA AGENCIA DE SERVICIOS A LA COMERCIALIZACIÓN Y DESARROLLO DE MERCADOS AGROPECUARIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2021 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 22 de diciembre de 2014.
 
@@ -600,3 +602,41 @@ Décimo.- El Consejo Técnico de la Agencia de Servicios a la Comercialización 
 En tanto se expiden los lineamientos a que se refiere el párrafo anterior, se continuarán aplicando los vigentes en lo que no se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Enrique Martínez y Martínez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 3 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA Y DESARROLLO RURAL".]
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, publicado en el Diario Oficial de la Federación el 25 de abril de 2012 y demás disposiciones administrativas que se opongan al presente ordenamiento.
+
+TERCERO. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento, mismas que pueden seguir utilizando la papelería en la que conste su anterior denominación hasta agotar su existencia, sin que ello afecte la validez de sus actos.
+
+CUARTO. Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo.
+
+QUINTO. La Unidad de Administración y Finanzas de la Secretaría realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades que correspondan, en los términos del presente Reglamento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+SEXTO. Los derechos de los trabajadores serán respetados conforme a la ley y en ningún caso serán afectados por la reorganización que implica el presente Reglamento.
+
+SÉPTIMO. En tanto se expidan los manuales que en el presente Reglamento se determinan, se continuarán aplicando, en lo conducente, los vigentes.
+
+OCTAVO. En tanto se emita el Reglamento Interior de la Comisión Nacional de Acuacultura y Pesca, seguirá vigente lo establecido en el artículo Octavo Transitorio del Reglamento Interior de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, publicado en el Diario Oficial de la Federación el 25 de abril de 2012, el cual hace alusión a las atribuciones de dicha Comisión, previstas en los artículos 37 al 60 del Reglamento Interior de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, publicado en el Diario Oficial de la Federación el 10 de julio de 2001.
+
+NOVENO. Las erogaciones que se generen por la entrada en vigor del presente Reglamento, deberán cubrirse con cargo al presupuesto aprobado a la Secretaría, en el ejercicio fiscal correspondiente; por lo que, aquellas modificaciones que se lleven a cabo a su estructura orgánica, así como a las de los órganos administrativos desconcentrados, se deberán realizar mediante movimientos compensados que no impliquen aumento en el presupuesto regularizable de servicios personales aprobado para el presente ejercicio fiscal y subsecuentes.
+
+DÉCIMO. En tanto se emiten los reglamentos interiores de los órganos administrativos desconcentrados señalados en la fracción II del artículo 2 del presente Reglamento, la persona titular de la Secretaría establecerá la estructura orgánica de apoyo administrativo, previamente aprobada por la Secretaría de la Función Pública, de los órganos administrativos desconcentrados, mediante acuerdos que serán publicados en el Diario Oficial de la Federación.
+
+DÉCIMO PRIMERO. En tanto se emite el Reglamento de la Ley General de Pesca y Acuacultura Sustentables y el Reglamento Interior de la Comisión Nacional de Acuacultura y Pesca, las personas titulares de las direcciones de las Oficinas de Representación en las Entidades Federativas de la Secretaría continuarán otorgando permisos y autorizaciones en materia de acuacultura y pesca, con excepción de aquellos cuya expedición competa exclusivamente a la Comisión Nacional de Acuacultura y Pesca, así como atendiendo a las instrucciones de carácter técnico administrativo, sistemas y procedimientos que establezca el titular de dicha Comisión.
+
+DÉCIMO SEGUNDO. Se abrogan los acuerdos siguientes: Acuerdo por el que se delegan en favor de los titulares de los órganos administrativos desconcentrados de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación las facultades que en favor del titular de la misma otorga la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, publicado en el Diario Oficial de la Federación el 9 de agosto de 2012; Acuerdo por el que se delegan las facultades que se indican a los Coordinadores Generales de Asuntos Internacionales, de Enlace Sectorial y de Ganadería de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, publicado en el Diario Oficial de la Federación el 9 de agosto de 2012; Acuerdo por el que se delega a la Agencia de Servicios a la Comercialización y Desarrollo de Mercados Agropecuarios (ASERCA), Órgano Administrativo Desconcentrado de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, por conducto de su Coordinador General de Promoción Comercial y Fomento a las Exportaciones, la facultad que se indica, publicado en el Diario Oficial de la Federación el 16 de mayo de 2013; Acuerdo por el que se delega a favor del Director General de Administración y Desarrollo de Recursos Humanos, la facultad que se indica, publicado en el Diario Oficial de la Federación el 31 de mayo de 2013; Acuerdo por el que se delega en favor de los directores generales de Programación, Presupuesto y Finanzas; de Administración y Desarrollo de Recursos Humanos; de Recursos Materiales, Inmuebles y Servicios, y de Tecnologías de la Información y Comunicaciones, las facultades que se indican, publicado en el Diario Oficial de la Federación el 26 de noviembre de 2013; Acuerdo por el que se delega en favor de las Direcciones Generales de Planeación y Evaluación, y de Tecnologías de la Información y Comunicaciones de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, las atribuciones que se indican, publicado en el Diario Oficial de la Federación el 3 de mayo de 2016.
+
+DÉCIMO TERCERO. Cuando, en términos del último párrafo del artículo 46 de este Reglamento, el auxilio que proporcione la Secretaría de Agricultura y Desarrollo Rural al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
+
+DÉCIMO CUARTO. Se abroga el Reglamento Interior de la Agencia de Servicios a la Comercialización y Desarrollo de Mercados Agropecuarios, publicado en el Diario Oficial de la Federación el 22 de diciembre de 2014.
+
+La Unidad de Administración y Finanzas de la Secretaría, en un plazo de 180 días contados a partir de la entrada en vigor del presente Reglamento, realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que desaparecen de la Agencia de Servicios a la Comercialización y Desarrollo de Mercados Agropecuarios, sean transferidos a las unidades de la Secretaría que correspondan, en los términos de este Reglamento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+DÉCIMO QUINTO. El personal de la Agencia de Servicios a la Comercialización y Desarrollo de Mercados Agropecuarios, cuyo Reglamento queda sin efectos, en ninguna forma resultará afectado en los derechos que haya adquirido, en virtud de su relación laboral con la Administración Pública Federal.
