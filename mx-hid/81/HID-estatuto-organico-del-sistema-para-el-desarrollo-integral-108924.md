@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-sistema-para-el-desarrollo-integral-10892
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-06-29"
-last_updated: "2015-06-29"
+last_updated: "2021-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 3 DE MAYO DE 2021, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2021 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 29 de junio de 2015.
 
@@ -1392,3 +1394,21 @@ Dado en la ciudad de Pachuca de Soto, Hidalgo, a los veintisiete días del mes d
 POR LA JUNTA DE GOBIERNO, PRESIDENTA, MGP. MAYKA ORTEGA EGUILUZ, SECRETARIA DE DESARROLLO SOCIAL DEL GOBIERNO DEL ESTADO DE HIDALGO.- RÚBRICA; CONSEJEROS, LIC. ALBERTO MELÉNDEZ APODACA, SECRETARIO DE PLANEACIÓN, DESARROLLO REGIONAL Y METROPOLITANO DEL GOBIERNO DEL ESTADO DE HIDALGO.- RÚBRICA; LIC. AUNARD AGUSTÍN DE LA ROCHA WAITE, SECRETARIO DE FINANZAS Y ADMINISTRACIÓN DEL GOBIERNO DEL ESTADO DE HIDALGO.- RÚBRICA; LIC. JOSÉ PABLO MAAUAD PONTÓN, SECRETARIO DE DESARROLLO ECONÓMICO DEL GOBIERNO DEL ESTADO DE HIDALGO.- RÚBRICA; PROFR. JOEL GUERRERO JUÁREZ, SECRETARIO DE EDUCACIÓN PÚBLICA DEL GOBIERNO DEL ESTADO DE HIDALGO.- RÚBRICA; LIC. EDNA GERALDINA GARCÍA GORDILLO, SECRETARIA DE SALUD DEL GOBIERNO DEL ESTADO DE HIDALGO.- RÚBRICA; ÓRGANO DE VIGILANCIA, LIC. L.C. JORGE ANTONIO IBARRA RODRIGUEZ, SECRETARIA DE CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL DEL GOBIERNO DEL ESTADO DE HIDALGO.- RÚBRICA.
 
 La presente foja pertenece al Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, de fecha veintisiete de mayo del año dos mil quince.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los asuntos pendientes a la entrada en vigor de este Acuerdo, que conforme al mismo deban pasar de una Unidad Administrativa a otra, continuarán su trámite y serán resueltos por aquellas a las que se les hayan conferido las funciones correspondientes.
+
+TERCERO. Los aspectos no previstos en este Acuerdo serán resueltos por la Junta de Gobierno del Organismo, conforme a los lineamientos que establezca la Ley, la Ley de Entidades Paraestatales del Estado de Hidalgo y el Decreto de Presupuesto de Egresos del Estado del Ejercicio Fiscal que corresponda.
+
+CUARTO. Se abroga el Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, publicado el día 29 de junio de 2015 en el Periódico Oficial del Estado de Hidalgo, derogándose cualquier otra disposición que se oponga a lo previsto por el presente Estatuto Orgánico.
+
+QUINTO. Los acuerdos, circulares y demás disposiciones emitidas por la Persona Titular del Sistema DIF Hidalgo, antes y durante la autorización de este Estatuto, tendrán plena validez, siempre y cuando no se opongan al mismo.
+
+SEXTO. Se ordena la inscripción del presente Acuerdo en el Registro Público de Organismos Descentralizados, en los términos de lo que establece la Ley de Entidades Paraestatales del Estado de Hidalgo.
