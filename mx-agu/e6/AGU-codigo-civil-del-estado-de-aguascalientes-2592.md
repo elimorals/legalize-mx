@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2019-11-04"
+last_updated: "2021-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2021.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -45,13 +45,17 @@ DISPOSICIONES PRELIMINARES.
 
 Las disposiciones de este Código regirán en todo el territorio del Estado de Aguascalientes en asuntos del orden común.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2021)</small>
+
 ###### Artículo 2o.
 
-La capacidad jurídica es igual para el hombre y la mujer; en consecuencia, la mujer no queda sometida, por razón de su sexo, a restricción alguna en la adquisición y ejercicio de sus derechos civiles.
+La capacidad jurídica es igual para el hombre y la mujer; en consecuencia, queda prohibido todo tipo de discriminación o restricción alguna, por razón de su sexo, en la adquisición y ejercicio de sus derechos civiles.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2021)</small>
 
 ###### Artículo 3o.
 
-Las leyes, reglamentos, circulares o cualesquiera otras disposiciones de observancia general, obligan y surten sus efectos, en el municipio de la Capital, al día siguiente de su publicación en el Periódico Oficial del Estado; y, en los demás municipios, dos días después de verificada aquella. Si la ley, reglamento, circular, o disposición general fija el día en que deba comenzar a regir, obliga desde ese día, siempre que su publicación haya sido anterior a esa fecha.
+Las leyes, reglamentos, circulares o cualesquiera otras disposiciones de observancia general, obligan y surten sus efectos en todo el territorio del Estado, al día siguiente de su publicación en el Periódico Oficial del Estado. Si la ley, reglamento, circular, o disposición general fija el día en que deba comenzar a regir, obliga desde ese día, siempre que su publicación haya sido por lo menos tres días antes.
 
 ###### Artículo 4o.
 
@@ -17282,6 +17286,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 4 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 227.- ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 422 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 538.- SE REFORMAN LOS ARTÍCULOS 2° Y 3° DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
