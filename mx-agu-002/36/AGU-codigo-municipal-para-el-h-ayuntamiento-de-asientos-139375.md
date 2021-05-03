@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-el-h-ayuntamiento-de-asientos-139375"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-14"
-last_updated: "2020-04-06"
+last_updated: "2021-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2021.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de octubre de 2019.
 
@@ -3679,8 +3679,6 @@ IX. Coordinarse con la Coordinación General de Comunicación Social para la def
 
 ### CAPÍTULO I. De la Dirección de Turismo, Cultura y Desarrollo Económico
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
-
 ## TÍTULO CUARTO. TURISMO, CULTURA Y DESARROLLO ECONÓMICO
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
@@ -3689,37 +3687,7 @@ IX. Coordinarse con la Coordinación General de Comunicación Social para la def
 
 ###### ARTÍCULO 259°.
 
-Corresponde a la Dirección de Turismo, Cultura y Desarrollo Económico:
-
-I. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos al fomento e impulso de las actividades económicas como la industria, el comercio, los servicios, el turismo y las actividades agropecuarias;
-
-II. Desarrollar y coordinar acciones para la promoción de Real de Asientos como atractivo turístico, mantener y mejorar la afluencia de visitantes a través de la búsqueda de alianzas con operadores turísticos;
-
-III. Coadyuvar con las actividades del Comité Asientos Pueblo Mágico para dar cumplimiento a los lineamientos del Programa Pueblos Mágicos;
-
-IV. Establecer vínculos de cooperación con las dependencias afines a la Dirección en el ámbito federal y estatal a fin de establecer mecanismos de cooperación y estrategias para cumplir con los objetivos establecidos en el Plan Municipal de Desarrollo;
-
-V. Crear planes estratégicos de desarrollo turístico efectivo que vigilen el cuidado del patrimonio natural, histórico, arquitectónico y sociocultural del municipio;
-
-VI. Atender de manera atenta y ordenada a los turistas que eligen Real de Asientos para su visita;
-
-VII. Aprovechar plenamente los recursos naturales, artísticos, artesanales e históricos en beneficio de la economía del Municipio y de sus habitantes;
-
-VIII. Fomentar e incentivar y desarrollar actividades educativas y de difusión de los valores históricos y de turismo cultural del Municipio;
-
-IX. Promover e incrementar el número de visitantes al Municipio, ofreciendo una mejor y mayor calidad de los servicios de turismo cultural;
-
-X. Aumentar la captación de los recursos provenientes de la actividad cultural, para la conservación, ampliación y mejoramiento de las instalaciones, eventos y fomento de la cultura de Asientos;
-
-XI. Promover regional, nacional e internacionalmente la cultura, el arte y en especial el trabajo de los artesanos de Asientos, a través de los diversos eventos, festivales, exposiciones y demostraciones culturales;
-
-XII. Organizar, supervisar y controlar las ferias tradicionales de Real de Asientos y apoyar a la realización de las fiestas patronales de las diversas comunidades y/o delegaciones del municipio.
-
-XIII. Coadyuvar en la producción ejecutiva de eventos artísticos a nivel estatal, regional, nacional e internacional que impulsen al Municipio, así como llevar a cabo su promoción;
-
-XIV. Fomentar la conservación y el desarrollo de las actividades artesanales del municipio reconociendo esta actividad como un patrimonio municipal; y
-
-XV. Tener bajo su resguardo las instalaciones del Museo Municipal del Minero.
+(DEROGADO, P.O. 3 DE MAYO DE 2021)
 
 ###### ARTÍCULO 259° Bis.
 
@@ -14762,5 +14730,23 @@ SECRETARIO DEL H. AYUNTAMIENTO
 P.O. 6 DE ABRIL DE 2020.
 
 > <small>[N. DE E. LAS "REFORMAS AL CÓDIGO MUNICIPAL PARA ASIENTOS" CON ANTELACIÓN CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE".]</small>
+
+P.O. 3 DE MAYO DE 2021.
+
+> <small>[N. DE E. LAS "REFORMAS AL CÓDIGO MUNICIPAL PARA ASIENTOS" CON ANTELACIÓN CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE".]</small>
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL “ACUERDO POR EL CUAL SE REFORMA EL CÓDIGO MUNICIPAL PARA ASIENTOS, AGUASCALIENTES”, PUBLICADO EN EL P.O. DE 3 DE MAYO DE 2021.]</small>
+
+“De acuerdo con los artículos 3, 4, 16, 36, 38, 89, 91 y 94 de la Ley Municipal para el Estado de Aguascalientes, y en base al contenido del acta de sesión ordinaria del H. Cabildo de fecha 05 de abril del 2021, se expide el Acuerdo por el que se deroga el Artículo 259° Bis del Código Municipal para Asientos.
+
+PRIMERO: Se derogan las disposiciones contenidas en el artículo 259 BIS, quedando de la siguiente manera:
+
+###### Artículo 259° Bis.
+
+Derogado
+
+SEGUNDO: Publíquese el presente acuerdo en el Periódico Oficial del Estado, de acuerdo a lo ordenado en el artículo 94 de la Ley Municipal para el Estado de Aguascalientes.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.”
 
 ### CAPÍTULO III. De la Impugnación de las Notificaciones
