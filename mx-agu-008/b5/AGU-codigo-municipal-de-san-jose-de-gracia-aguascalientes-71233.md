@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2020-04-27"
+last_updated: "2021-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2021.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -771,11 +771,11 @@ VIII. Asuntos generales; y,
 
 IX. Declaratoria de clausura.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2021)</small>
 
 ###### ARTÍCULO 51.
 
-Las Sesiones del Cabildo serán: Ordinarias, Ordinarias Abiertas, Extraordinarias, Solemnes y Secretas; todas tendrán el carácter de públicas excepto las que señale el Cabildo determine como Secretas.
+Las Sesiones del Cabildo serán: Ordinarias, Ordinarias Abiertas, Extraordinarias y Solemnes; por su naturaleza todas tendrán el carácter de públicas.
 
 ###### ARTÍCULO 52.
 
@@ -793,9 +793,73 @@ Si fuere el caso, el Secretario certificará, pasados quince minutos de la hora 
 
 Para que exista quórum legal se requiere la presencia de al menos el cincuenta por ciento más uno de los miembros del H. Ayuntamiento, hecha excepción de las Sesiones Solemnes que se llevarán a cabo con los Regidores y Síndicos que asistan.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 53.
 
-Es Sesión Ordinaria Abierta la que se celebrará en el mes de agosto de cada año, con los requisitos y términos del artículo anterior; además se publicará en los periódicos de mayor circulación la invitación a la ciudadanía a fin de que participe activamente en la Sesión, dado que la misma se constituye como audiencia pública ante el Cabildo.
+Son Sesiones Ordinarias Abiertas las que se celebrarán en los meses de febrero, mayo, agosto y noviembre de cada año, con los requisitos y términos del artículo anterior.
+
+El Secretario del H. Ayuntamiento publicará una convocatoria anual en la que se indicará las fechas de sesión de cabildo abierto. La convocatoria para cada sesión será publicada en la página web del Ayuntamiento y en los estrados de las oficinas del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2021)</small>
+
+Artículo 53 A.- Las Sesiones Ordinarias Abiertas versarán acerca de uno o varios de los siguientes temas:
+
+I. Seguridad Pública;
+
+II. Desarrollo Social;
+
+III. Desarrollo Económico y Turismo;
+
+IV. Planeación Urbana y Rural;
+
+V. Agua Potable, Alcantarillado y Saneamiento;
+
+VI. Obras Públicas;
+
+VII. Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos; y
+
+VIII. Salud.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2021)</small>
+
+Artículo 53 B.- Para participar en la Sesión Ordinaria Abierta, se deberá registrar una solicitud de inscripción que se presentará ante la Secretaría del H. Ayuntamiento, dicha solicitud se deberá presentar dentro de los cinco días hábiles previos a la Sesión Ordinaria Abierta.
+
+La solicitud deberá contener:
+
+I. Nombre, domicilio, firma, clave de elector del solicitante y correo electrónico si lo tiene, si hay varios solicitantes, los datos del representante común;
+
+II. Señalamiento de si la solicitud es para la discusión, presentación de idea, propuesta, iniciativa, demanda, petición o gestión; y
+
+III. Especificar el tema de la solicitud y hacer una narración sucinta de los motivos de la misma.
+
+Podrán participar en cada Sesión Ordinaria Abierta, un máximo de cinco solicitantes.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2021)</small>
+
+Artículo 53 C.- El Secretario del H. Ayuntamiento podrá requerir al solicitante en caso de que sea necesario, aclaraciones de la solicitud durante la Sesión Ordinaria Abierta.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2021)</small>
+
+Artículo 53 D.- El Secretario del H. Ayuntamiento notificará a los solicitantes el día y la hora en la que se llevará la Sesión Ordinaria Abierta, atendiendo al orden de prelación de presentación de la solicitud.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2021)</small>
+
+Artículo 53 E.- El solicitante tiene los siguientes derechos y obligaciones:
+
+I. Asistir a la sesión el día y la hora señalada y apegarse a lo determinado en su solicitud;
+
+II. Dispondrá de cinco minutos para realizar una exposición argumentativa de la propuesta o petición al inicio de la sesión;
+
+III. Durante el desarrollo de la sesión tendrá derecho a voz, pero no a voto, las ocasiones que lo solicite mientras se encuentre en discusión el tema que expuso; y
+
+IV. Tendrá derecho a mantenerse informado en lo relativo al estado de su solicitud.
+
+El solicitante podrá ser retirado de la sesión por cualquier falta de respeto o acto que altere el orden de la sesión.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2021)</small>
+
+Artículo 53 F.- En todo lo relativo al desarrollo de la Sesión Ordinaria Abierta, se estará a lo dispuesto para las sesiones de Cabildo en lo previsto en el presente Código Municipal.
 
 ###### ARTÍCULO 54.
 
@@ -805,9 +869,7 @@ Se consideran Sesiones Extraordinarias, las que se celebren entre los periodos d
 
 Serán Sesiones Solemnes aquellas que el Cabildo les de ese carácter por la importancia que revisten y de acuerdo a la Ley que en materia municipal expida el Poder Legislativo del Estado. Deberán asistir los integrantes del H. Ayuntamiento, conforme a la reglamentación protocolaria y podrá hacer uso de la palabra un representante del H. Ayuntamiento previo acuerdo del Cabildo.
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2020)</small>
-
-ARTÍCULO 55 BIS.- Serán sesiones secretas aquellas a las que el Cabildo les otorgue ese carácter. En las sesiones secretas no se permitirá la asistencia de público, y solamente se permitirá la asistencia del personal necesario para su desahogo. La Sesión deberá videograbarse para los efectos del artículo 49 del presente Código.
+ARTÍCULO 55 BIS.- (DEROGADO, P.O. 3 DE MAYO DE 2021)
 
 ###### ARTÍCULO 56.
 
@@ -843,9 +905,9 @@ IV. Cuando en el auditorio se observe alguna falta de respeto para alguno de los
 
 V. Cuando se pretenda discutir asuntos de interés particular.
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2021)</small>
 
-ARTÍCULO 61 BIS.- Durante el desarrollo de las sesiones de Cabildo, con excepción de las secretas, se autoriza el acceso al público en general siempre y cuando mantengan un adecuado comportamiento y se abstengan de realizar lo siguiente:
+ARTÍCULO 61 BIS.- Durante el desarrollo de las sesiones de Cabildo, se autoriza el acceso al público en general siempre y cuando mantengan un adecuado comportamiento y se abstengan de realizar lo siguiente:
 
 I. Alterar por cualquier medio el desarrollo de la sesión;
 
@@ -13674,3 +13736,11 @@ P.O. 27 DE ABRIL DE 2020.
 PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación el Periódico Oficial.
+
+P.O. 3 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA, AGUASCALIENTES”.]
+
+PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial.
