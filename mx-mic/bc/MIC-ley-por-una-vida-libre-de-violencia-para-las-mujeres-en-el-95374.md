@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2020-12-04"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2021.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -247,7 +247,9 @@ VI. Las conductas que señala el Código Familiar para el Estado de Michoacán d
 
 La violencia laboral y docente, se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión, abuso de poder, que provocan y vulneran la libertad y seguridad de la víctima, impidiendo el libre desarrollo de la personalidad de las mujeres, del proceso de enseñanza-aprendizaje, y en especial su autoestima, y se constituye:
 
-I. Como violencia laboral, la negativa a contratar, respetar su permanencia o condiciones generales de trabajo por la exigencia de pruebas de gravidez, imposición de requisitos sexistas en la forma de vestir, exclusión de género en ciertos cargos por edad de conformidad con la Ley Federal del Trabajo, igualmente lo constituye la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condiciones de género; y,
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
+
+I. Como violencia laboral, la negativa a contratar, respetar su permanencia o condiciones generales de trabajo por la exigencia de pruebas de gravidez, imposición de requisitos sexistas en la forma de vestir, exclusión de género en ciertos cargos por edad de conformidad con la Ley Federal del Trabajo, igualmente lo constituye la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a ejercer el periodo de lactancia materna, previsto en la normativa laboral, y todo tipo de discriminación por condiciones de género; y,
 
 II. Constituyen violencia docente aquellas conductas que causan daño en las alumnas derivados por la discriminación de género, edad, condición social, condición étnica, por algunas limitaciones o características físicas determinadas, que les infligen maestras o maestros.
 
@@ -1152,3 +1154,9 @@ P.O. 4 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
+
+P.O. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 250.- POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 11 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
