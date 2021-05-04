@@ -4,7 +4,7 @@ identifier: "LGCFD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-06-07"
-last_updated: "2020-11-06"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de junio de 2013.
 
@@ -632,7 +632,9 @@ VII. Celebrar, con la participación que le corresponda a la SEP y a la Secretar
 
 VIII. Coordinar acciones con las Dependencias y Entidades de la Administración Pública Federal, las entidades federativas, los Municipios las demarcaciones territoriales de la Ciudad de México y el sector social y privado en lo relativo a investigación en ciencias y técnicas en materia de cultura física y deporte;
 
-IX. Promover el desarrollo de los programas de formación, capacitación, actualización y los métodos de certificación en materia de cultura física y deporte, promoviendo y apoyando, la inducción de la cultura física y el deporte en los planes y programas educativos;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2021)</small>
+
+IX. Promover el desarrollo de los programas de formación, capacitación, actualización y los métodos de certificación en materia de cultura física y deporte, promoviendo, preservando y apoyando, la inducción de la cultura física y el deporte en los planes y programas educativos por medio de la Educación Física;
 
 X. Promover la capacitación y certificación de directivos, deportistas, entrenadores, jueces, árbitros y técnicos;
 
@@ -2065,3 +2067,9 @@ A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales n
 Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
 
 Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
+
+D.O.F. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 30 DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
