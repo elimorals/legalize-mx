@@ -4,7 +4,7 @@ identifier: "LGPSVD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-01-24"
-last_updated: "2012-01-24"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85066&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPSVD"
 
 LEY GENERAL PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de enero de 2012.
 
@@ -128,11 +128,21 @@ I. Programas integrales de desarrollo social, cultural y económico que no produ
 
 II. La promoción de actividades que eliminen la marginación y la exclusión;
 
-III. El fomento de la solución pacífica de conflictos;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2021)</small>
 
-IV. Estrategias de educación y sensibilización de la población para promover la cultura de legalidad y tolerancia respetando al mismo tiempo las diversas identidades culturales. Incluye tanto programas generales como aquéllos enfocados a grupos sociales y comunidades en altas condiciones de vulnerabilidad, y
+III. El fomento de la solución pacífica de conflictos privilegiando la comunicación a través del diálogo, la tolerancia y el principio de no discriminación;
 
-V. Se establecerán programas que modifiquen las condiciones sociales de la comunidad y generen oportunidades de desarrollo especialmente para los grupos en situación de riesgo, vulnerabilidad, o afectación.
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2021)</small>
+
+IV. Estrategias de educación y sensibilización de la población para promover la cultura de legalidad y tolerancia respetando al mismo tiempo las diversas identidades culturales. Incluye tanto programas generales como aquéllos enfocados a grupos sociales y comunidades en altas condiciones de vulnerabilidad;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2021)</small>
+
+V. Se establecerán programas que modifiquen las condiciones sociales de la comunidad y generen oportunidades de desarrollo especialmente para los grupos en situación de riesgo, vulnerabilidad, marginación, o afectación, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2021)</small>
+
+VI. Estrategias y acciones de protección a las familias para evitar su desintegración y cualquier modalidad de violencia que la propicie, a través de la educación y el empoderamiento de todos sus miembros sin ningún tipo de discriminación.
 
 ###### Artículo 8.
 
@@ -158,9 +168,17 @@ II. El uso de nuevas tecnologías;
 
 III. La vigilancia respetando los derechos a la intimidad y a la privacidad;
 
-IV. Medidas administrativas encaminadas a disminuir la disponibilidad de medios comisivos o facilitadores de violencia, y
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2021)</small>
 
-V. La aplicación de estrategias para garantizar la no repetición de casos de victimización.
+IV. Medidas administrativas encaminadas a disminuir la disponibilidad de medios comisivos o facilitadores de violencia;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2021)</small>
+
+V. La aplicación de estrategias para garantizar la no repetición de casos de victimización, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2021)</small>
+
+VI. La recuperación de espacios públicos, con la participación de la comunidad incluyendo todos los grupos que la conforman.
 
 ###### Artículo 10.
 
@@ -168,9 +186,17 @@ La prevención en el ámbito psicosocial tiene como objetivo incidir en las moti
 
 I. Impulsar el diseño y aplicación de programas formativos en habilidades para la vida, dirigidos principalmente a la población en situación de riesgo y vulnerabilidad;
 
-II. La inclusión de la prevención de la violencia, la delincuencia y de las adicciones, en las políticas públicas en materia de educación, y
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2021)</small>
 
-III. El fortalecimiento de las capacidades institucionales que asegure la sostenibilidad de los programas preventivos.
+II. La inclusión de la prevención de la violencia, la delincuencia y de las adicciones, principalmente de alcohol, tabaco y estupefacientes, en las políticas públicas en materia de educación, a través de la difusión de contenidos tendientes a disminuirlas;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2021)</small>
+
+III. El fortalecimiento de las capacidades institucionales que asegure la sostenibilidad de los programas preventivos, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2021)</small>
+
+IV. El fortalecimiento de las medidas de detección, prevención y atención del acoso entre niñas, niños, adolescentes y mujeres, en las escuelas y comunidades, que privilegien la retroalimentación de sus experiencias en la comunidad.
 
 ###### Artículo 11.
 
@@ -443,3 +469,11 @@ Los programas, proyectos y demás acciones que, en cumplimiento a lo dispuesto e
 México, D.F., a 8 de diciembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Dip. Guadalupe Pérez Domínguez, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinte de enero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
