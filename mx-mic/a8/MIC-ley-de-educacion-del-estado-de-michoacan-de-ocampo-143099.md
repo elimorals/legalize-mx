@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-educacion-del-estado-de-michoacan-de-ocampo-143099"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-29"
-last_updated: "2020-05-29"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2021.
 
 Ley publicada en la Sexta Sección en el Número 22 del Periódico Oficial del Estado de Michoacán, el viernes 29 de mayo de 2020.
 
@@ -315,9 +315,17 @@ XII. Promover medidas para facilitar y garantizar la incorporación y permanenci
 
 XIII. Garantizar la distribución a los educandos de los libros de texto gratuitos y materiales educativos tanto en formatos impresos como digitales, garantizando su distribución para la educación básica proporcionados por la autoridad educativa federal;
 
-XIV. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, entre ellos libros de texto gratuitos, en las diversas lenguas del territorio estatal; y,
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
 
-XV. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia.
+XIV. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, entre ellos libros de texto gratuitos, en las diversas lenguas del territorio estatal;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
+
+XV. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia; y,
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2021)</small>
+
+XVI. Desde una perspectiva de género, se fomentará la educación menstrual y se facilitará el acceso gratuito a los productos de gestión menstrual para niñas, mujeres y personas menstruantes que lo requieran, en las escuelas públicas pertenecientes al Sistema Educativo Estatal.
 
 ###### Artículo 30.
 
@@ -561,7 +569,9 @@ VIII. La promoción de estilos de vida saludables, la educación para la salud, 
 
 IX. El fomento de la igualdad de género para la construcción de una sociedad justa e igualitaria;
 
-X. La educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
+
+X. La educación sexual integral y reproductiva que implica la educación menstrual, el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual;
 
 XI. La educación socioemocional;
 
@@ -1119,7 +1129,9 @@ VI. Tener un docente frente a grupo que contribuya al logro de su aprendizaje y 
 
 VII. Participar de los procesos que se deriven en los planteles educativos como centros de aprendizaje comunitario en su lengua;
 
-VIII. Recibir becas, alimentos y demás apoyos económicos priorizando a los educandos que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
+
+VIII. Recibir becas, alimentos, productos adecuados para la gestión menstrual, tales como, toallas sanitarias desechables y de tela, tampones, copas menstruales o cualquier otro bien destinado a la gestión menstrual y demás apoyos económicos priorizando a las y los educandos que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
 
 IX. Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas; y,
 
@@ -1801,7 +1813,7 @@ a) Coadyuvar para que los resultados de las evaluaciones al Sistema Educativo Es
 
 b) Proponer estímulos y reconocimientos de carácter social a alumnos, docentes, directivos y empleados de la escuela, que propicien la vinculación con la comunidad, con independencia de lo establecido en la legislación aplicable con lo relacionado al sistema para la carrera de las maestras y los maestros;
 
-c) Coadyuvar en temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad y derechos humanos de la comunidad educativa;
+c) (DEROGADO, P.O. 4 DE MAYO DE 2021)
 
 d) Contribuir a reducir las condiciones sociales adversas que influyan en la educación, a través de proponer acciones específicas para su atención;
 
@@ -2402,3 +2414,19 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN»- PRESIDENTE DE LA MESA DIREC
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 28 veintiocho días del mes de mayo de 2020 dos mil veinte.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- ING. CARLOS HERRERA TELLO.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 517.- SE DEROGA EL INCISO C) DEL ARTÍCULO 181 DE (SIC) LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 518.- SE MODIFICAN LAS FRACCIONES XIV, XV Y SE ADICIONA LA FRACCIÓN XVI DEL ARTÍCULO 29; SE MODIFICA LA FRACCIÓN X DEL ARTÍCULO 53 Y SE MODIFICA LA FRACCIÓN VIII DEL ARTÍCULO 112 TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+
+SEGUNDO. La obligación que refiere el artículo 29 fracción XVI, será de forma gradual y progresiva de acuerdo con la suficiencia presupuestal, priorizando de manera equitativa en las comunidades indígenas y las comunidades de alta y muy alta marginación, debiendo tener la cobertura total antes del año 2026.
