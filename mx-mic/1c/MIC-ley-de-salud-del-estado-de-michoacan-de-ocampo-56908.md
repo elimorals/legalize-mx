@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2021-01-25"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -665,37 +665,37 @@ La Salud Pública tiene por objeto promover la salud, para prevenir enfermedades
 
 Son acciones de Salud Pública, el saneamiento del medio, la prevención, el control de enfermedades y accidentes, los servicios médicos y auxilio, la promoción de la salud, el control y vigilancia sanitaria, así como la prevención y control de adicciones y demás que señale la Ley General de Salud.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 14 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE MAYO DE 2021)</small>
 
-La Secretaría de Salud, con el fin (sic) combatir las enfermedades graves de la mujer como lo son el, cáncer cérvico uterino y cáncer de mama, implementará programas permanentes tendientes a la prevención, detección, diagnostico, autocuidado, tratamiento, control y vigilancia epidemiológica de estas enfermedades, además de desarrollar, entre otras, las siguientes acciones:
+La Secretaría de Salud, con el fin de combatir el cáncer cérvico uterino, cáncer de mama, cáncer testicular y cáncer de próstata, implementará programas permanentes tendientes a la prevención y tratamiento de estas enfermedades, la rehabilitación deberá incluir la atención psico-oncológica, la reconstrucción mamaria y testicular con prótesis sin erogación económica para los pacientes y sus familias, en los casos que sean atendidos en los hospitales de la secretaría de salud, además de desarrollar, entre otras, las siguientes acciones:
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2009)</small>
 
 I. Dar a conocer la conveniencia del sexo seguro, difundiendo las consecuencias de la promiscuidad sexual, además de advertir de los riesgos que conlleva la práctica de relaciones sexuales tempranas e informar de los riesgos de contagio por relaciones sexuales con personas que hayan tenido diversas parejas sexuales;
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
 
-II. Difundir las conveniencias de realizarse periódicamente las pruebas para la prevención del cáncer cérvico uterino, tales como colposcopía, papanicolaou y cultivo de híbridos, además deberá aplicar como manera de prevención la vacuna del virus del Papiloma Humano en niñas de alto riesgo epidemiológico;
+II. Difundir las conveniencias de realizarse periódicamente las pruebas para la prevención del cáncer cérvico uterino, tales como colposcopía, papanicolaou y cultivo de híbridos, además deberá aplicar como manera de prevención la vacuna del virus del Papiloma Humano en niñas; de igual manera en el caso del cáncer de próstata deberá difundirse periódicamente las conveniencias de realizarse la prueba del antígeno prostático específico (psa) a partir de los 40 años o cuando la persona lo solicite, como medida preventiva para su detección oportuna;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
 
-III. Difundir la conveniencia de realizar periódicamente la autoexploración, el examen clínico y la mastografía como pruebas para la prevención del cáncer de mama;
+III. Difundir las políticas públicas de la práctica de la autoexploración, los exámenes clínicos, como la mastografía, el ultrasonido y del antígeno prostático serán gratuitos;
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2009)</small>
 
 IV. Divulgar los lugares de servicio gratuito para la práctica de exámenes y la aplicación de la vacuna señalados en las fracciones II y III;
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
 
-V. Capacitar a los prestadores de servicios de salud de los sectores público, social y privado en la toma de muestras para la prevención del cáncer cérvico uterino y la interpretación de las mismas a través del Sistema Bethesda, o cualquier otro que autorice el sector salud;
+V. Capacitar a los prestadores de servicios de salud de los sectores público, social y privado en la toma de muestras para la prevención del cáncer cérvico uterino y antígeno prostático; para los casos cérvico uterino, papiloma humano, atendiendo a la interpretación de las mismas a través del Sistema Bethesda, o cualquier otro que autorice el sector salud;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
 
-VI. Capacitar a los prestadores de servicios de salud para la orientación de sus pacientes respecto a la detección temprana de los cánceres cérvico uterino y de mama y el uso de la cartilla nacional de salud de la mujer;
+VI. Capacitar a los prestadores de servicios de salud para la orientación de sus pacientes respecto a la detección temprana de los cánceres cérvico uterino, de mama y de próstata, así como la información del derecho a la obtención de la cartilla nacional de salud de la mujer y del hombre;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
 
-VII. Difundir entre la población escolar las medidas de prevención de los cánceres cérvico uterino y de mama;
+VII. Difundir entre la población escolar las medidas de prevención y detección de los cánceres cérvico uterino, de mama de próstata y testicular;
 
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
@@ -2685,6 +2685,14 @@ TERCERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 
 P.O. 25 DE ENERO DE 2021.
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 379 POR EL QUE “SE REFORMA LA FRACCIÓN XXIII Y SE ADICIONAN LAS FRACCIONES XXIII BIS Y XXIII TER AL ARTÍCULO 6°, ASÍ COMO, SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 23, DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 379 POR EL QUE “SE REFORMA LA FRACCIÓN XXIII Y SE ADICIONAN LAS FRACCIONES XXIII BIS Y XXIII TER AL ARTÍCULO 6º, ASÍ COMO, SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 23, DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán, de Ocampo.
+
+P.O. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 516.- SE REFORMA EL ARTÍCULO 31, EN SU SEGUNDO PÁRRAFO Y SUS FRACCIONES II, III, V, VI Y VII DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría de Finanzas y Administración y la Secretaría de Salud, garantizarán la suficiencia presupuestaria para los fines del presente Decreto.
