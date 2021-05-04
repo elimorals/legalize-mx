@@ -4,7 +4,7 @@ identifier: "LGCFD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-06-07"
-last_updated: "2020-11-06"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,21 +20,25 @@ abbreviation: "LGCFD"
 ---
 # LEY GENERAL DE CULTURA FISICA Y DEPORTE
 
-REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO
+LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO EN EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 26 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MAYO DE 2021.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2016 (SIN EFECTOS).
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de junio de 2013.
 
-Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 8 de junio de 2007.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-PROFR. HUMBERTO MOREIRA VALDÉS, Gobernador Constitucional del Estado de Coahuila de Zaragoza, en ejercicio de las facultades que me confieren los artículos 82 fracción XVIII y 85, párrafo tercero de la Constitución Política del Estado de Coahuila de Zaragoza; y los artículos 4, 9 y 16 apartado "A" fracción IV de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza; y
+ENRIQUE PEÑA NIETO, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
-C O N S I D E R A N D O.
+Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
 
-Que en sesión de la Comisión mencionada, celebrada con fecha 28 de Febrero del año en curso, se aprobó el Reglamento Interior del organismo, mismo que ordeno se imprima, publique y circule:
+DECRETO
 
-REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO
+"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
+
+Artículo Único.- Se expide la Ley General de Cultura Física y Deporte.
+
+LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
 ## Título Primero. Disposiciones Generales
 
@@ -42,151 +46,237 @@ REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN
 
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto regular la organización y el funcionamiento de la Comisión Consultiva de Seguridad e Higiene en el Trabajo en el Estado; según lo establecen los artículos 512-B y 512-C de la Ley Federal del Trabajo; así como en los artículos 120, 121 y 122 del Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo y demás disposiciones legales aplicables.
+La presente Ley es de orden público e interés social y de observancia general en toda la República, reglamenta el derecho a la cultura física y el deporte reconocido en el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, correspondiendo su aplicación en forma concurrente al Ejecutivo Federal, por conducto de la Comisión Nacional de Cultura Física y Deporte, las Autoridades de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, así como los sectores social y privado, en los términos que se prevén.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 2.
 
-La Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo se constituye también con la finalidad fundamental de estudiar y proponer la adopción de todas aquellas medidas preventivas para abatir los riesgos en los centros de trabajo comprendidos en su jurisdicción, y lograr que este se preste en condiciones que aseguren la vida y la salud de los trabajadores.
+Esta Ley y su Reglamento tienen por objeto establecer las bases generales para la distribución de competencias, la coordinación y colaboración entre la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México en materia de cultura física y deporte, bajo el principio de concurrencia previsto en el artículo 73, fracción XXIX-J de la Constitución Política de los Estados Unidos Mexicanos, así como la participación de los sectores social y privado en esta materia, con las siguientes finalidades generales:
+
+I. Fomentar el óptimo, equitativo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II. Elevar, por medio de la activación física, la cultura física y el deporte, el nivel de vida social y cultural de los habitantes en las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México;
+
+III. Fomentar la creación, conservación, mejoramiento, protección, difusión, promoción, investigación y aprovechamiento de los recursos humanos, materiales y financieros destinados a la activación física, cultura física y el deporte;
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+IV. Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la preservación de la salud, prevención de enfermedades, así como la prevención de las adicciones y el consumo de sustancias psicoactivas;
+
+V. Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la prevención del delito;
+
+VI. Incentivar la inversión social y privada para el desarrollo de la cultura física y el deporte, como complemento de la actuación pública;
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+VII. Promover las medidas preventivas necesarias para erradicar la violencia, así como la implementación de sanciones a quienes la ejerzan, lo anterior sin perjuicio de las responsabilidades penales y civiles a que haya lugar, y reducir los riegos de afectación en la práctica de actividades físicas, recreativas o deportivas, así como para prevenir y erradicar el uso de sustancias y métodos no reglamentarios que pudieran derivarse del dopaje;
+
+VIII. Fomentar, ordenar y regular a las Asociaciones y Sociedades Deportivas, Recreativo-Deportivas, del Deporte en la Rehabilitación y de Cultura Física-Deportiva;
+
+IX. Incentivar la actividad deportiva que se desarrolla en forma organizada y programática a través de las Asociaciones Deportivas Nacionales;
+
+X. Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
+
+XI. Garantizar a todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen, y
+
+XII. Los deportistas con algún tipo de discapacidad no serán objeto de discriminación alguna.
 
 ###### Artículo 3.
 
-La Comisión es un órgano consultivo, plural, tripartita, participativo y de apoyo a las autoridades del trabajo a nivel Federal, en lo relativo a Seguridad e Higiene en los centros de trabajos sujetos a jurisdicción local y a los comprendidos en las ramas de industria que se establecen en la Ley Federal del Trabajo, previo acuerdo o convenio con la Comisión Consultiva Nacional de Seguridad e Higiene en el Trabajo.
+El ejercicio y desarrollo del derecho a la cultura física y el deporte tienen como base los siguientes principios:
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2008)</small>
+I. La cultura física y la práctica del deporte son un derecho fundamental para todos;
+
+II. La cultura física y la práctica del deporte constituyen un elemento esencial de la educación;
+
+III. El derecho a la cultura física y al deporte constituye un estímulo para el desarrollo afectivo, físico, intelectual y social de todos, además de ser un factor de equilibrio y autorrealización;
+
+IV. Los programas en materia de cultura física y deporte deben responder a las necesidades individuales y sociales, existiendo una responsabilidad pública en el fomento cualitativo y cuantitativo de la cultura física y el deporte;
+
+V. La enseñanza, capacitación, gestión, administración y desarrollo de la cultura física y el deporte deben confiarse a un personal calificado;
+
+VI. Para el desarrollo de la cultura física y la práctica del deporte es indispensable una infraestructura adecuada y la generación de sistemas de financiamiento y administración eficientes y estables, que permitan desarrollar políticas y programas que contribuyan al objetivo común de hacer de la cultura física y el deporte un derecho de todos;
+
+VII. La investigación, información y documentación son elementos indispensables para el desarrollo de la cultura física y el deporte;
+
+VIII. Las instituciones deportivas públicas y privadas del país deben colaborar y cooperar en forma estrecha y responsable en la promoción, fomento y estímulo del derecho a la cultura física y a la práctica del deporte;
+
+IX. La distinción entre las diversas manifestaciones o modalidades del deporte resulta necesaria para el óptimo, equitativo y ordenado desarrollo de los sistemas deportivos del país;
+
+X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
+
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2017)</small>
+
+XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte;
+
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2017)</small>
+
+XII. La existencia de una adecuada cooperación a nivel internacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE ENERO DE 2017)</small>
+
+XIII. Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones.
 
 ###### Artículo 4.
 
-La Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, estará integrada por las siguientes instancias: Por el sector público: El Gobernador del Estado, quien será el Presidente de la Comisión, el representante de la Secretaría del Trabajo y Previsión Social en la entidad, que será el Delegado Estatal y que fungirá como Secretario; un representante de la Secretaría de Salud y uno del Instituto Mexicano del Seguro Social; Por el Sector Obrero: Un representante de la Confederación de Trabajadores de México (CTM); un representante de la Confederación Revolucionaria de Obreros y Campesinos (CROC); un representante de la Confederación Revolucionaria de Obreros Mexicanos (CROM) y un representante de la Federación Estatal de Sindicatos Independientes (FNSI). Por el sector empresarial: Un representante de la Cámara Nacional de la Industria de la Transformación (CANACINTRA); un representante de la Cámara Nacional de Comercio (CANACO); un representante de la Cámara de la Industria de la Construcción (CMIC) y un representante del Centro Empresarial Coahuila Sureste (COPARMEX). Por cada representante propietario, será designado un suplente y permanecerán en sus cargos por un período de tres años.
+Para efectos de la presente Ley, se entenderá por:
+
+I. Ley: La Ley General de Cultura Física y Deporte;
+
+II. Reglamento: El Reglamento de la Ley General de Cultura Física y Deporte;
+
+III. CONADE: La Comisión Nacional de Cultura Física y Deporte;
+
+IV. COM: El Comité Olímpico Mexicano, Asociación Civil;
+
+V. COPAME: El Comité Paralímpico Mexicano, Asociación Civil;
+
+VI. CAAD: La Comisión de Apelación y Arbitraje del Deporte;
+
+VII. CONDE: Los Consejos Nacionales del Deporte Estudiantil;
+
+VIII. SINADE: El Sistema Nacional de Cultura Física y Deporte;
+
+IX. RENADE: El Registro Nacional de Cultura Física y Deporte;
+
+X. SEP: La Secretaría de Educación Pública;
+
+XI. Comisión Especial: La Comisión Especial Contra la Violencia en el Deporte, y
+
+XII. COVED: Consejo de Vigilancia Electoral Deportiva.
 
 ###### Artículo 5.
 
-Al respecto, el propio artículo 512-B de la Ley Federal del Trabajo dispone que la Secretaría del Trabajo y Previsión Social y el Gobernador del Estado de Coahuila deben expedir, conjuntamente, las bases que regulen la designación de representantes del sector público, de las organizaciones locales de trabajadores y de patrones, ante la Comisión Nacional Consultiva de Seguridad e Higiene en la entidad.
+Para efecto de la aplicación de la presente Ley, se considerarán como definiciones básicas las siguientes:
 
-El sistema de referencia es una de las formas, a través de las cuales las autoridades del Estado auxiliarán a la Federación en la aplicación de las leyes del trabajo en materia de Seguridad e Higiene.
+I. Educación Física: El medio fundamental para adquirir, transmitir y acrecentar la cultura física;
+
+II. Cultura Física: Conjunto de bienes, conocimientos, ideas, valores y elementos materiales que el hombre ha producido con relación al movimiento y uso de su cuerpo;
+
+III. Actividad Física: Actos motores propios del ser humano, realizados como parte de sus actividades cotidianas;
+
+IV. Recreación Física: Actividad física con fines lúdicos que permiten la utilización positiva del tiempo libre;
+
+V. Deporte: Actividad física, organizada y reglamentada, que tiene por finalidad preservar y mejorar la salud física y mental, el desarrollo social, ético e intelectual, con el logro de resultados en competiciones;
+
+VI. Deporte Social: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
+
+VII. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que todas las personas puedan mejorar su nivel de calidad deportiva como aficionados, pudiendo integrarse al deporte de alto rendimiento, o en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte;
+
+VIII. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones nacionales que representan al país en competiciones y pruebas oficiales de carácter internacional;
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+IX. Activación Física: Ejercicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física y mental de las personas;
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+X. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+XI. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+XII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
+
+XIII. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 6.
 
-La Comisión Consultiva podrá invitar a participar en sus sesiones a representantes de los sectores público, social o privado, cuando se traten temas, que por su importancia de su competencia, especialidad o interés, sean necesarios para unificar criterios, recomendaciones o sugerencias. Asimismo, podrá constituir Subcomisiones especiales o grupos de trabajo en función de los temas materia de estudio.
+La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, fomentarán la activación física, la cultura física y el deporte en el ámbito de su competencia, de conformidad con las bases de coordinación previstas en esta Ley, su Reglamento y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 7.
 
-Cuando un miembro de la Comisión Consultiva renuncie, sea removido o no asista a dos sesiones seguidas, entrará en funciones su suplente, para sustituirlo propietario o suplente, sólo permanecerá en el cargo el tiempo necesario para concluir el periodo de tres años, al que se refiere el artículo cuarto de este Reglamento.
+La Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, promoverán el adecuado ejercicio del derecho de todos los mexicanos y las mexicanas a la cultura física y a la práctica del deporte.
 
 ###### Artículo 8.
 
-El Presidente de la Comisión Consultiva, podrá cambiar el calendario de las sesiones de trabajo, tanto las ordinarias, como extraordinarias, y podrán celebrarse en los lugares, regiones o municipios del Estado donde se requiera sesionar, asimismo, definir la temática básica, urgente o necesaria, con tres días de anticipación.
+Las Dependencias y Entidades de la Administración Pública Federal, en el ámbito de sus respectivas competencias, deberán apoyar a la CONADE en el ejercicio de sus atribuciones.
 
 ###### Artículo 9.
 
-La Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo tendrá las atribuciones que se especifican en los artículos 121 y 122 del Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo y se complementan con las siguientes:
+En la Planeación Nacional, se deberá incorporar el desarrollo de la cultura física y el deporte, considerando las disposiciones previstas en la presente Ley y su Reglamento.
 
-I. Presentar a la Comisión Consultiva Nacional de Seguridad e Higiene en el Trabajo, propuestas de anteproyectos de normas, así como de modificación o cancelación de los que estén en vigor;
+El Ejecutivo Federal a través de CONADE procurará establecer en el Plan Nacional a su cargo, los objetivos, alcances y límites del desarrollo del sector; así como, el deber de las Dependencias y Entidades de la Administración Pública Federal en relación con la cultura física y el deporte.
 
-II. Promover estudios en materia de Seguridad, Higiene y Medio Ambiente de Trabajo y someterlos a la consideración de la Comisión Consultiva Nacional;
+La CONADE, en coordinación con la SEP, integrará el Programa Nacional de Cultura Física y Deporte con base en un diagnóstico nacional, estatal y municipal, debiendo contener al menos:
 
-III. Proponer a la Comisión Consultiva Nacional las reformas y adiciones reglamentarias en la materia, para que ésta, en su caso, las presente a la Secretaría;
+I. Una clara definición de objetivos y metas;
 
-IV. Estudiar y proponer medidas preventivas de riesgos de trabajo y contribuir a su difusión;
+II. La formulación de estrategias, tomando en cuenta criterios de coordinación institucional para el aprovechamiento de los recursos públicos y privados;
 
-V. Elaborar su programa anual de actividades;
+III. El diseño de políticas que aseguren la efectiva participación del sector privado en la actividad deportiva nacional, y
 
-VI. Elaborar su reglamento interior, el que establecerá su organización y funcionamiento;
+IV. El plan de inversiones con los presupuestos de los principales programas y proyectos de inversión pública de los distintos entes deportivos y la especificación de los recursos financieros requeridos para su ejecución; así como, su rendición de cuentas.
 
-VII. Opinar y formular dictámenes acerca de los asuntos de Seguridad e Higiene de Trabajo de su jurisdicción, a fin de que sean presentados a las autoridades laborales federales;
-
-VIII. Constituir Subcomisiones, con la finalidad de realizar los estudios técnicos que permitan proponer las medidas que contribuyan a disminuir los riesgos en los centros de trabajo;
-
-IX. Proponer a las autoridades laborales reformas o adiciones al Reglamento Federal de Seguridad e Higiene y Medio Ambiente de Trabajo o a sus instructivos, conforme a la importancia de los cambios sociales, tecnológicos o laborales que acontezcan en los centros de trabajo de su jurisdicción;
-
-X. Elaborar programas y organizar actos para la difusión de las medidas preventivas contenidas en el Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo y de sus instructivos, entre los trabajadores y patrones de los centros de trabajo de su jurisdicción;
-
-XI. Promover estudios sobre las causas, índices de frecuencia y de gravedad de los riesgos laborales en las empresas y centros de trabajo de su jurisdicción;
-
-XII. Contribuir a la difusión entre trabajadores y patrones, así como sus organizaciones, de los datos estadísticos relacionados con los riesgos laborales realizados;
-
-XIII. Firmar las actas, minutas, recomendaciones que surjan, se aprueben o se determinen en el seno de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo y turnarla o remitirla a quien corresponda, para los efectos legales o reglamentarios correspondientes;
-
-XIV. Auxiliar a la Comisión Consultiva Nacional de Seguridad, Higiene y Medio Ambiente de Trabajo, cuando ésta lo solicite, y;
-
-XV. Las demás que le otorguen la Ley Federal del Trabajo, Reglamentos, Normas y disposiciones de las autoridades laborales que así lo determinen.
+Para el cumplimiento de lo dispuesto en este artículo se adoptarán las acciones y estrategias pertinentes, se dictarán los instrumentos normativos a que haya lugar y se formularán los planes operativos anuales que garanticen su ejecución.
 
 ## Título Segundo. Del Sistema Nacional de Cultura Física y Deporte
 
 ###### Artículo 10.
 
-La Comisión Consultiva de Seguridad e Higiene de Trabajo a que se refiere el artículo anterior, informará trimestralmente a la Comisión Consultiva Nacional, respecto de los programas de prevención de accidentes y enfermedades de trabajo y de sus resultados.
+Para la eficaz y eficiente promoción, fomento y estímulo de la cultura física y de la práctica del deporte en todas sus manifestaciones existirá un Sistema Nacional de Cultura Física y Deporte que tendrá como objeto asesorar en la elaboración del Programa Nacional de Cultura Física y Deporte, coordinar, dar seguimiento permanente y evaluar los programas, acciones y procedimientos que formen parte de la ejecución de las políticas públicas para promover, fomentar y estimular la cultura física y la práctica del deporte, tomando en consideración el desarrollo de la estructura e infraestructura deportiva y de los recursos humanos y financieros vinculados a la cultura física y al deporte en el país.
+
+El SINADE es un órgano colegiado que estará integrado por las Dependencias, Organismos e Instituciones públicas y privadas, Sociedades, Asociaciones Nacionales y Consejos Nacionales del Deporte Estudiantil reconocidos por esta Ley, que en sus respectivos ámbitos de actuación tienen como objetivo generar las acciones, financiamientos y programas necesarios para la coordinación, fomento, ejecución, apoyo, promoción, difusión y desarrollo de la activación física, la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales.
 
 ###### Artículo 11.
 
-Serán atribuciones del Presidente de la Comisión:
+Entre los organismos e instituciones públicas y privadas que se consideran integrantes del SINADE, se encuentran entre otros:
 
-I. Presidir las sesiones de ésta y representarla ante las entidades públicas y privadas;
+I. La CONADE;
 
-II. Decidir con Voto de Calidad en caso de empate;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
 
-III. Exhortar a los integrantes de la Comisión a cumplir su función puntualmente, respetar y dar seguimiento a los asuntos y acuerdos tratados y autorizados por la Comisión;
+II. Los Órganos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México de Cultura Física y Deporte;
 
-IV. Rendir ante la Comisión, el informe anual de actividades de la misma, y remitirlo en su momento, a la Comisión Consultiva Nacional de Seguridad e Higiene para su conocimiento y efectos legales;
+III. El COM;
 
-V. Las demás que le encomienda la Comisión, este Reglamento y otras disposiciones legales aplicables.
+IV. El COPAME;
+
+V. Las Asociaciones Deportivas Nacionales;
+
+VI. Los CONDE, y
+
+VII. Las Asociaciones y Sociedades que estén reconocidas en términos de esta Ley y su Reglamento.
+
+A las sesiones del SINADE serán invitados permanentes, previa convocatoria, las Comisiones de Deporte de las Cámaras de Diputados y de Senadores del H. Congreso de la Unión, quienes tendrán voz para opinar sobre los temas que se aborden.
 
 ###### Artículo 12.
 
-El Secretario tendrá las siguientes responsabilidades y funciones:
+El SINADE deberá sesionar en pleno cuando menos dos veces en cada año natural y su Consejo Directivo en las fechas que éste determine, a efecto de fijar la política operativa y de instrumentación en materia de cultura física y deporte y dar cumplimiento al Programa Nacional de Cultura Física y Deporte. La CONADE tendrá la responsabilidad de integrar a dicho Programa los acuerdos del SINADE.
 
-I. Expedir y comunicar en los términos de este Reglamento, las convocatorias ordinarias y extraordinarias para las sesiones de la Comisión;
-
-II. Hacer el recuento de asistencia para verificar si hay quórum legal;
-
-III. Levantar las actas de las sesiones que celebre la Comisión, controlar y llevar el registro de acreditaciones de propietarios y suplentes de los integrantes y mantener bajo su resguardo, el libro de actas de las sesiones, minutas, acuerdos, y todo documento que sea presentado, analizado y autorizado por la comisión; y conjuntamente con el Presidente, autorizarlas;
-
-IV. Coordinar las labores que desarrolle la Comisión y enviar los informes o documentos que le autorice el Presidente, a las instancias, organismos y autoridades que éste determine;
-
-V. Mantener informado al Presidente sobre el funcionamiento y responsabilidades encomendadas a los miembros, así como el funcionamiento y desempeño de las Subcomisiones que se designen;
-
-VI. Proporcionar a los miembros de la Comisión los informes que éstos soliciten sobre asuntos relacionados con la misma, cuidando siempre la discrecionalidad y confidencialidad que deben guardar sus integrantes, cuando éstos así sean declarados;
-
-VII. Convocar, a propuesta de la invitación que haga el Presidente de la Comisión, a él o los académicos, técnicos, expertos, profesionistas, investigadores o todo aquel funcionario público o privado, para que coadyuve, apoye y fundamente los asuntos o problemas para lo que fueron invitados;
-
-VIII. Organizar, convocar y preparar los lugares en donde se celebren las sesiones de la Comisión, sean éstas en la Capital del Estado, o en cualquier otro lugar de la Entidad que para tal efecto haya propuesto el Presidente;
-
-IX. Atender los acuerdos tomados por la Comisión y vigilar su cumplimiento; y
-
-X. Las demás que le encomiende la Comisión, este Reglamento y otras disposiciones legales aplicables.
+El SINADE está dirigido por el pleno, el Consejo Directivo y el Presidente.
 
 ###### Artículo 13.
 
-Serán atribuciones y responsabilidades de los miembros de la Comisión:
+Mediante el SINADE se llevarán a cabo las siguientes acciones:
 
-I. Asistir a las sesiones que ésta celebre;
+I. Ejecutar las políticas para fomentar, promover y estimular el desarrollo y ejercicio del derecho a la cultura física y el deporte en el ámbito nacional;
 
-II. Participar en las propuestas, discusión, análisis de los asuntos de que conozca la Comisión;
+II. Establecer los mecanismos para la planeación, supervisión, ejecución y evaluación de los programas, organismos, procesos, actividades y recursos de los integrantes del SINADE;
 
-III. Votar para la adopción de resoluciones;
+III. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad;
 
-IV. Proponer la constitución de Subcomisiones para el estudio de asuntos específicos;
+IV. Promover mecanismos de integración institucional y sectorial para fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, y
 
-V. Formar parte a través de los representantes que propongan su representación, de las Subcomisiones que la Comisión determine, constituir y formular los casos específicos importantes de los temas que justifiquen su creación y funcionamiento;
-
-VI. Proponer la inclusión de asuntos en el orden del día, de sesiones ulteriores;
-
-VII. Solicitar se convoque a la Comisión para la celebración de sesiones extraordinarias, en los términos de este Reglamento;
-
-VIII. Proponer para el calendario anual de actividades de la Comisión, que se celebren cuando menos cuatro sesiones ordinarias en las regiones: Norte, Centro, Sureste y Laguna de Coahuila, en las ciudades que se determine, pero que se difunda el contenido y objetivo laboral que este órgano colegiado desarrolle en beneficio de la Seguridad, Higiene y medio ambiente laboral en los centros de trabajo;
-
-IX. Informar a las dependencias y organizaciones a las que represente, sobre los acuerdos, compromisos y responsabilidades adoptados por la Comisión;
-
-X. Las demás que les encomiende la comisión, así como las recomendaciones de la Comisión Consultiva Nacional de Seguridad e Higiene en el Trabajo, este Reglamento y otras disposiciones legales aplicables.
+V. Las demás que le otorgue esta Ley u otros ordenamientos legales.
 
 ###### Artículo 14.
 
-Para el desempeño de las funciones a que se refiere el artículo 9 de este Reglamento, dentro de la Comisión, podrán ser constituidas Subcomisiones.
+El funcionamiento y requisitos de integración del SINADE estarán regulados en términos de lo dispuesto en la presente Ley, su Reglamento y demás ordenamientos aplicables.
 
-Estas Subcomisiones podrán ser de: “estudio y dictamen” y las de “operación y resultados”.
-
-Las Subcomisiones de “estudio y dictamen”, estarán integradas por los propios miembros propietarios o suplentes, quienes a su vez, podrán auxiliarse del personal técnico o profesional que estime necesario.
-
-### CAPITULO I. DISPOSICIONES GENERALES
+### Capítulo I. Del Sector Público
 
 #### Sección Primera. De la Comisión Nacional de Cultura Física y Deporte
 
@@ -194,103 +284,281 @@ Las Subcomisiones de “estudio y dictamen”, estarán integradas por los propi
 
 ###### Artículo 15.
 
-Las Subcomisiones de “operación y resultados”, estarán integradas en forma tripartita, por las representaciones que nos marca la Ley y el Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, y se ubicarán en las regiones socio-económicas del Estado que se justifiquen, serán plurales y participativas, se incluirán a los alcaldes de los Municipios que tengan centros de trabajo, que por su giro, actividad e importancia, requieran de la atención permanente en seguridad e higiene laboral, en sus operaciones.
+La actuación de la Administración Pública Federal en el ámbito de la cultura física y del deporte, corresponde y será ejercida directamente, por un organismo público descentralizado de la Administración Pública Federal, que será el conductor de la política nacional en estas materias y que se denominará, Comisión Nacional de Cultura Física y Deporte, quien contará con personalidad jurídica, patrimonio propio y domicilio en la Ciudad de México.
 
 ###### Artículo 16.
 
-En el caso de las Subcomisiones de operación y resultados, que serán regionales, los sectores público, obrero y empresarial, estatal o regional más importantes, acreditarán a sus miembros propietarios y suplentes, ante la Comisión Estatal y en el caso de los Ayuntamientos, serán invitados a ser parte de estas Subcomisiones, por parte del Presidente de la Comisión Estatal, tomando como base la importancia laboral, el impacto y responsabilidad de los centros de trabajo en materia de Seguridad, Higiene y medio ambiente laboral de su Municipio.
+El patrimonio de la CONADE se integrará con:
 
-Los representantes de los Ayuntamientos tendrán derecho a voz, no a voto.
+I. Las aportaciones que realice el Gobierno Federal, a través de los recursos que se le asignen en el Decreto de Presupuesto de Egresos de la Federación, así como los subsidios y demás recursos que reciba;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+II. Las aportaciones que, en su caso, le realicen los Gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, así como las Entidades Paraestatales;
+
+III. Las aportaciones que le realicen las personas físicas y morales nacionales o extranjeras, a través de donaciones, legados, fideicomisos y premios, los cuales de ninguna manera podrán implicar condiciones contrarias a su objetivo conforme lo establece la Ley;
+
+IV. Los bienes muebles e inmuebles que adquiera o se le destinen para su servicio;
+
+V. Los recursos que la propia CONADE genere, y
+
+VI. Los demás recursos, bienes y derechos que se adquieran o reciban por cualquier otro título legal.
 
 ###### Artículo 17.
 
-Los trabajos de las Subcomisiones en sus dos modalidades, serán coordinadas por el servidor público de la Delegación Federal del Trabajo de la Secretaría del Trabajo y Previsión Social o del Gobierno del Estado que designe la Comisión.
+La administración de la CONADE estará a cargo de un órgano de gobierno denominado Junta Directiva y de las estructuras administrativas que se establezcan en el Estatuto Orgánico correspondiente. Asimismo, tendrá un Director General designado por el titular del Ejecutivo Federal.
 
 ###### Artículo 18.
 
-La Comisión funcionará en sesiones ordinarias y extraordinarias, según lo exprese la convocatoria que al efecto se expida.
+La Junta Directiva a que se refiere el artículo anterior, estará integrada por representantes de cada una de las siguientes Dependencias:
 
-Las Subcomisiones de operación y resultados que son regionales, también funcionarán en sesiones ordinarias y extraordinarias, según autorice el Presidente de la Comisión a través del Secretario, que en todo momento será el responsable de su seguimiento, organización, temario y resultados o propuestas para su exacto y normal cumplimiento de sus planteamientos y trabajos.
+a) Secretaría de Educación Pública;
 
-Los alcaldes que formen parte de las Subcomisiones de operación y resultados tendrán sólo derecho a voz, no a voto.
+b) Secretaría de Hacienda y Crédito Público;
+
+c) Secretaría de Relaciones Exteriores;
+
+d) Secretaría de Gobernación;
+
+e) Secretaría de Medio Ambiente y Recursos Naturales;
+
+f) Secretaría de la Defensa Nacional;
+
+g) Secretaría de Marina;
+
+h) Secretaría de Salud;
+
+i) Secretaría de Desarrollo Social, y
+
+j) Procuraduría General de la República.
+
+La Junta Directiva será presidida por el titular de la SEP.
+
+El Presidente de la Junta Directiva, convocará a participar como invitados permanentes al Contralor Interno y al Comisario propietario o suplente, designado por la Secretaría de la Función Pública, quienes participarán con voz pero sin voto.
+
+De la misma manera, podrán ser invitados a participar con voz pero sin voto, personalidades distinguidas de los sectores social y privado que por su relación, nexos, vinculación y aportaciones con la práctica de la activación física, la cultura física y deporte e importancia de los asuntos a tratar en dicha reunión, tengan interés directo en la misma y puedan hacer aportaciones en la materia.
 
 ###### Artículo 19.
 
-Tratándose de sesiones ordinarias, la convocatoria será expedida con cinco días de anticipación y con cuarenta y ocho horas si se trata de sesiones extraordinarias.
+La Junta Directiva tendrá las siguientes facultades:
 
-En el caso de las Subcomisiones de operación y resultados los términos serán semejantes, pero no podrán celebrarse éstas, si no después de una semana que haya sesionado la Comisión.
+I. Establecer en congruencia con el programa sectorial, las políticas generales y definir las prioridades a las que deberá sujetarse la CONADE relativas a la dirección, desarrollo, promoción, fomento, difusión e investigación de la activación física, la cultura física y el deporte;
+
+II. Establecer, conforme al programa sectorial, lo relativo al impulso de políticas específicas en materia de cultura física y deporte destinadas al desarrollo e integración de las personas con discapacidad;
+
+III. Aprobar los programas y presupuesto de la CONADE, así como sus modificaciones, en los términos de las disposiciones aplicables;
+
+IV. Aprobar de acuerdo con los ordenamientos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o acuerdos que deba celebrar la CONADE con terceros en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles. El Director General y en su caso los servidores públicos que deban intervenir, de conformidad con el Estatuto, realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por la Junta Directiva;
+
+V. Aprobar la estructura básica de la organización de la CONADE, y las modificaciones que procedan a la misma, en términos de las disposiciones aplicables;
+
+VI. Autorizar la creación de comités de apoyo;
+
+VII. Establecer, con sujeción a las disposiciones legales relativas, con la intervención que corresponda a las dependencias federales, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la CONADE requiera para la prestación de sus servicios y de acuerdo a los procedimientos establecidos en el Reglamento de esta Ley;
+
+VIII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los comisarios;
+
+IX. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados, conforme a las instrucciones de la Coordinadora de Sector correspondiente;
+
+X. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la CONADE, cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Hacienda y Crédito Público, por conducto de la Coordinadora de Sector;
+
+XI. Conocer oportunamente el cumplimiento de los planes, programas, presupuestos, reglamentos, manuales, sistemas y políticas, a efecto de ponderar las causas que determinen variaciones con respecto a lo autorizado y, en su caso, dictar las medidas correctivas que procedan en materia de planeación, organización o dirección;
+
+XII. Designar comisionados especiales en los cuales la CONADE delegue algunas de sus facultades;
+
+XIII. Realizar los actos que sean necesarios para el cumplimiento de los objetivos de la CONADE y para los que la Junta Directiva tenga facultades en término de la Ley o del Estatuto;
+
+XIV. Formular los lineamientos que se estimen necesarios para racionalizar las estructuras de organización y el uso de los recursos disponibles, así como delinear las políticas específicas de apoyo a prioridades del sector deportivo o bien, respecto de los asuntos que se consideren relevantes;
+
+XV. Aprobar y evaluar el Programa Anual de Trabajo y los programas institucionales de corto, mediano y largo plazos que sean elaborados por el Director General;
+
+XVI. Evaluar los presupuestos de la CONADE en términos de las disposiciones aplicables, sin perjuicio de las atribuciones que en materia de evaluación correspondan a otras Dependencias y Entidades de la Administración Pública Federal;
+
+XVII. Aprobar los anteproyectos y proyecto de presupuesto de la CONADE que habrán de presentarse ante la Secretaría de Hacienda y Crédito Público por conducto de la Coordinadora de Sector;
+
+XVIII. Establecer las directrices y políticas para que la ejecución de los programas y presupuestos se apeguen a la asignación presupuestal autorizada, lo que permitirá el logro oportuno de los objetivos y metas programadas de la CONADE;
+
+XIX. Vigilar que la CONADE conduzca sus actividades en forma programada y con base en las políticas sectoriales, prioridades y restricciones que se deriven del Sistema Nacional de Planeación;
+
+XX. Autorizar la creación de grupos de trabajo que coadyuven en la formulación y evaluación de programas institucionales;
+
+XXI. Autorizar la creación de Comités Técnicos Especializados de apoyo que el Presidente o una tercera parte de los miembros de la propia Junta Directiva propongan para el cumplimiento de los objetivos y para el desarrollo oportuno y eficaz de las actividades que realice la CONADE;
+
+XXII. Aprobar los manuales de organización, de procedimientos y de servicios al público y demás instrumentos normativos transcendentes que regulen el funcionamiento de la CONADE, así como las reformas o adiciones a dichos ordenamientos;
+
+XXIII. Aprobar el contenido de las actas que se levanten de las sesiones que se celebren, ya sean ordinarias o extraordinarias;
+
+XXIV. Aprobar el calendario anual de sesiones;
+
+XXV. Proporcionar al Comisario la información que solicite para el desarrollo de sus funciones;
+
+XXVI. Analizar y considerar el informe que rinda el Comisario para la programación de actividades de la CONADE, en sus aspectos preventivos y correctivos;
+
+XXVII. Aprobar las medidas que proponga el Director General para atender los informes que presente el Contralor Interno, resultantes de las auditorías, exámenes y evaluaciones que haya realizado;
+
+XXVIII. Delegar facultades a favor del Director General o a favor de Delegados Especiales;
+
+XXIX. Autorizar al Director General para que ejerza facultades de dominio, administración, pleitos y cobranzas en nombre de la CONADE, de conformidad con las disposiciones legales o reglamentarias aplicables;
+
+XXX. Autorizar al Director General, con las limitaciones que al efecto se precisen, para que éste pueda emitir, avalar y negociar títulos de crédito a nombre de la CONADE;
+
+XXXI. Autorizar al Director General, con las limitaciones que al efecto se determinen, para que éste pueda comprometer asuntos en arbitrajes y celebrar transacciones en nombre de la CONADE y bajo su responsabilidad;
+
+XXXII. Autorizar al Director General para ejercitar y desistirse de acciones judiciales, inclusive del Juicio de Amparo a nombre de la CONADE;
+
+XXXIII. Ratificar los nombramientos de apoderados que recaigan en personas ajenas a la CONADE, y
+
+XXXIV. Ejercer las facultades que la Ley Federal de las Entidades Paraestatales y su Reglamento asigna a los Órganos de Gobierno de las entidades.
 
 ###### Artículo 20.
 
-Las sesiones ordinarias de la Comisión se llevarán a cabo cada dos meses. Las sesiones extraordinarias serán celebradas cuando así lo soliciten, por lo menos, tres miembros de la Comisión.
+El Director General del organismo será nombrado y removido por el Presidente de la República, debiendo recaer tal nombramiento en persona que reúna los requisitos señalados en el artículo 21 de la Ley Federal de las Entidades Paraestatales.
 
 ###### Artículo 21.
 
-Las sesiones ordinarias de las Subcomisiones de operación y resultados se llevarán a cabo cada cuatro meses. Las sesiones extraordinarias serán celebradas cuando así lo soliciten por lo menos dos sectores, miembros de la Subcomisión. Estas serán presididas por el Presidente y Secretario de la Comisión, o por los suplentes que para tal efecto éstos designen.
+El Director General tendrá las siguientes atribuciones y obligaciones:
+
+I. Administrar y representar legalmente a la CONADE;
+
+II. Formular los programas institucionales de corto, mediano y largo plazos, así como el presupuesto de la CONADE y presentarlos para su aprobación a la Junta Directiva;
+
+III. Formular programas de organización;
+
+IV. Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles de la CONADE;
+
+V. Tomar las medidas pertinentes a fin de que las funciones de la CONADE se realicen de manera articulada, congruente y eficaz;
+
+VI. Establecer los procedimientos para controlar la calidad de los suministros y programas de recepción que aseguren la continuidad en las políticas aprobadas por la Junta Directiva;
+
+VII. Recabar información y elementos estadísticos que reflejen el estado de las funciones de la CONADE para así poder mejorar la gestión del mismo;
+
+VIII. Establecer sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
+
+IX. Presentar periódicamente a la Junta Directiva el informe del desempeño de las actividades de la CONADE, incluido el ejercicio del presupuesto de ingresos, egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Dirección General con las realizaciones alcanzadas;
+
+X. Establecer los mecanismos de evaluación que destaquen la eficiencia y eficacia con que se desempeñe la CONADE y presentarlos a la Junta Directiva por lo menos dos veces al año;
+
+XI. Ejecutar los acuerdos que dicte la Junta Directiva;
+
+XII. Suscribir, en su caso, los contratos que regulen las relaciones laborales de la CONADE con sus trabajadores;
+
+XIII. Coordinar todas las acciones administrativas y operativas de la CONADE, para el eficaz cumplimiento de los acuerdos y disposiciones de la Junta Directiva, de los programas concretos y de las leyes vigentes aplicables;
+
+XIV. Ejercer las facultades específicas que le confiera el Estatuto o las que le otorguen al ser designado, así como las que determine la Junta Directiva, para administrar y representar legalmente a la CONADE como mandatario de la misma;
+
+XV. Ejercer facultades de dominio, administración, pleitos y cobranzas a nombre de la CONADE, previa autorización que para su ejercicio le haya conferido la Junta Directiva;
+
+XVI. Aprobar estrategias, metodologías, programas de investigación, contenidos, materiales, programas y planes institucionales;
+
+XVII. Formular y someter a la autorización de la Junta Directiva el Programa Presupuestal y Financiero Anual de la CONADE, con excepción de aquel que deberá presentarse a la Secretaría de Hacienda y Crédito Público para integrar el Presupuesto de Egresos de la Federación;
+
+XVIII. Una vez aprobado el Programa Presupuestal y Financiero Anual de la CONADE, remitir a la Secretaría de Hacienda y Crédito Público la parte correspondiente a la suscripción de créditos externos para su autorización en términos de la Ley correspondiente;
+
+XIX. Validar los manuales de organización, de procedimientos y de servicios al público y demás instrumentos normativos trascendentes que regulen el funcionamiento de la CONADE, así como las reformas y adiciones a dichos ordenamientos legales y someterlos a la aprobación de la Junta Directiva;
+
+XX. Emitir, avalar y negociar títulos de crédito a nombre de la CONADE, de acuerdo a la autorización que para tal fin le haya otorgado la Junta Directiva;
+
+XXI. Informar, siempre que sea requerido para ello por las Cámaras del H. Congreso de la Unión, cuando se discuta un proyecto de ley o se estudie un asunto del ámbito de competencia de la CONADE;
+
+XXII. Aprobar la contratación del personal de la CONADE;
+
+XXIII. Implementar todo lo necesario a efecto de que se cumpla con cada una de las fases del proceso de ingreso al Servicio Civil de Carrera;
+
+XXIV. Formular las normas y bases para cancelar adeudos a cargo de terceros y a favor de la CONADE, cuando fuere notoria la imposibilidad práctica de su cobro y someterlas a la aprobación de la Junta Directiva;
+
+XXV. Proponer a la Junta Directiva el establecimiento de las unidades técnicas y administrativas de la CONADE conforme al Estatuto;
+
+XXVI. Someter a la aprobación de la Junta Directiva las bases y programas generales que regulen los contratos, convenios o acuerdos que deba celebrar la CONADE en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles, de conformidad con lo dispuesto en la Ley de Obras Públicas y Servicios Relacionados con las Mismas y en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público;
+
+XXVII. Someter a la aprobación de la Junta Directiva las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la CONADE requiera para la prestación de sus servicios, con sujeción a las disposiciones legales relativas, con la intervención que corresponda a las dependencias federales y de acuerdo a los ordenamientos legales aplicables;
+
+XXVIII. Celebrar contratos, convenios o acuerdos con terceros, tratándose de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles, bajo su responsabilidad y con sujeción a lo dispuesto en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y conforme a las directrices que hayan sido fijadas por la Junta Directiva;
+
+XXIX. Proponer a la Junta Directiva las modificaciones que procedan a la estructura básica de la organización de la CONADE;
+
+XXX. Proponer a la Junta Directiva la designación o remoción del Prosecretario de la misma, quien podrá ser o no miembro de la CONADE;
+
+XXXI. Proporcionar al Comisario la información que solicite para el desarrollo de sus funciones;
+
+XXXII. Proponer a la Junta Directiva las medidas conducentes para atender los informes que presente el Contralor Interno, resultantes de las auditorías, exámenes y evaluaciones que hayan realizado;
+
+XXXIII. Establecer las instancias de asesoría, de coordinación y de consulta que estimen necesarias para el adecuado funcionamiento de la CONADE;
+
+XXXIV. Celebrar y suscribir convenios de coordinación, colaboración y concertación inherentes a los objetivos de la CONADE;
+
+XXXV. Recibir en acuerdo a los titulares de las unidades administrativas de la CONADE y resolver los asuntos de su competencia;
+
+XXXVI. Formular querellas y otorgar perdón a nombre de la CONADE;
+
+XXXVII. Ejercitar y desistirse de acciones judiciales inclusive del Juicio de Amparo a nombre de la CONADE, previa autorización que para su ejercicio le haya conferido la Junta Directiva;
+
+XXXVIII. Comprometer asuntos en arbitrajes y celebrar transacciones bajo su responsabilidad y de acuerdo con la autorización que para tal efecto le haya otorgado la Junta Directiva;
+
+XXXIX. Otorgar poderes generales y especiales con las facultades que les competan a los mandatarios, de acuerdo con la autorización que para tal efecto le haya otorgado la Junta Directiva;
+
+XL. Sustituir y revocar poderes generales o especiales, en los términos aprobados por la Junta Directiva, y
+
+XLI. Las que señalen otras Leyes, Reglamentos, Decretos, acuerdos y demás ordenamientos legales aplicables.
 
 ###### Artículo 22.
 
-Para la celebración de las sesiones se requerirá la asistencia de más de la mitad de los miembros que integran la Comisión y las resoluciones se tomarán por mayoría de votos de los miembros presentes. En caso de empate, el Presidente decidirá con Voto de calidad.
+El Director General tendrá además, las facultades que le delegue y confiera la Junta Directiva para administrar y representar legalmente a la CONADE como mandatario del mismo.
 
 ###### Artículo 23.
 
-En ausencia del Presidente de la Comisión, presidirá las sesiones el Secretario de Gobierno del Estado o en su caso el servidor público que el Gobernador del Estado determine para ese efecto, por conducto de éste último.
-
-En ausencia del Secretario de la Comisión, hará las funciones el funcionario que para tal efecto éste haya acreditado.
+El órgano de vigilancia de la CONADE estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública en los términos de la Ley Orgánica de la Administración Pública Federal.
 
 ###### Artículo 24.
 
-En ausencia de los representantes propietarios, concurrirán a las sesiones sus respectivos suplentes. En este caso los primeros harán del conocimiento de éste los términos de la convocatoria correspondiente.
+Los Comisarios Públicos tendrán las siguientes atribuciones:
+
+I. Vigilar el cumplimiento de las disposiciones legales, así como de las reglamentarias, administrativas y de política general y sectorial que emita el Ejecutivo Federal o sus dependencias en relación con las entidades paraestatales;
+
+II. Vigilar el cumplimiento de las disposiciones y lineamientos relativos al sistema de control y evaluación gubernamental;
+
+III. Vigilar la instrumentación y funcionamiento de los sistemas de programación y presupuesto de la CONADE;
+
+IV. Vigilar que la CONADE conduzca sus actividades conforme al Programa Sectorial correspondiente, así como que cumpla con lo previsto en el programa institucional;
+
+V. Promover y vigilar que la CONADE establezca indicadores básicos de gestión en materia de operación, productividad, financieros y de impacto social, que permitan medir y evaluar su desempeño;
+
+VI. Con base en las autoevaluaciones de la CONADE opinar sobre su desempeño general.
+
+La opinión a que se refiere el párrafo anterior deberá abarcar los aspectos que establece el artículo 30, fracción VI del Reglamento de la Ley Federal de las Entidades Paraestatales;
+
+VII. Evaluar aspectos específicos de la CONADE y hacer las recomendaciones procedentes;
+
+VIII. Vigilar y dar seguimiento a los procesos de desincorporación de las entidades paraestatales; fungir como representantes de la Secretaría de la Función Pública ante las dependencias, entidades e instancias que intervengan en estos procesos. Requerir a las instancias involucradas la información necesaria para el cumplimiento de las funciones a su cargo, así como recomendar las medidas que procedan tendientes a promover la conclusión de los procesos con estricto apego a las disposiciones aplicables;
+
+IX. Verificar la debida integración y funcionamiento de la Junta Directiva;
+
+X. Vigilar que la CONADE, con la oportunidad y periodicidad que se señale, (sic) la información que requiera el Sistema Integral de Información de los Ingresos y Gastos Públicos;
+
+XI. Solicitar y verificar que se incluyan en el Orden del Día de las sesiones de la Junta Directiva, los asuntos que consideren necesarios;
+
+XII. Intervenir con voz pero sin voto en las sesiones ordinarias y extraordinarias de la Junta Directiva;
+
+XIII. Proporcionar al Director General la información que le solicite;
+
+XIV. Opinar sobre los informes de evaluación de la gestión que por lo menos dos veces al año rinda el Director General a la Junta Directiva;
+
+XV. Rendir informes a la Junta Directiva sobre las actividades de la CONADE, precisando los aspectos preventivos y correctivos;
+
+XVI. Evaluar el desempeño general y por funciones de la CONADE;
+
+XVII. Realizar estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos;
+
+XVIII. Solicitar a la Junta Directiva o al Director General la información que requiera para el desarrollo de sus funciones;
+
+XIX. Solicitar información y efectuar los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Función Pública le asigne específicamente;
+
+XX. Rendir anualmente a la Junta Directiva un informe sobre los estados financieros, con base en el dictamen de los auditores externos, y
+
+XXI. Las demás inherentes a su función y las que le señale expresamente la Secretaría de la Función Pública, en el ámbito de su competencia.
 
 ###### Artículo 25.
 
-El presente Reglamento obliga a una corresponsabilidad laboral en materia de Seguridad, Higiene y Medio Ambiente de Trabajo tanto al sector público, obrero y patronal, pues son solidarios obligados en:
-
-I. Que la nueva cultura laboral de la Seguridad e Higiene en los centros de trabajo, sea efectiva;
-
-II. Que los planes y proyectos de capacitación a las Comisiones Mixtas de Seguridad e Higiene estén vigentes y con responsabilidad, en cada centro de trabajo;
-
-III. Que coadyuven en los criterios de las políticas públicas del Gobierno, la observancia de la Ley Federal del Trabajo, su reglamentación y los parámetros que nos exige la Organización Internacional del Trabajo;
-
-IV. Todos aquellos programas, acciones, mecanismos, que fortalecen al trabajador en su seguridad y su salud, también en beneficio del centro de trabajo y que la autoridad asegure que el buen desempeño se verá reflejado en un trabajo seguro, un centro de trabajo competitivo y productivo y que el desarrollo que se logre, beneficia a los factores de la producción.
-
-TRANSITORIOS (SIC)
-
-ÚNICO.- El presente Reglamento Interior entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-Lo anterior se fundamenta en el artículo 82, fracción XVIII de la Constitución Política del Estado de Coahuila, 16 fracciones IV y VII de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza.
-
-Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Dado en Saltillo, Coahuila, el día 7 de Junio de 2007.
-
-Sufragio Efectivo. No Reelección
-
-El Gobernador Constitucional del Estado de Coahuila
-
-Profr. Humberto Moreira Valdés
-
-(Rúbrica)
-
-El Secretario de Gobierno
-
-Lic. Homero Ramos Gloria
-
-(Rúbrica)
-
-El Delegado Federal del Trabajo en Coahuila
-
-Lic. Miguel Ángel Mendoza González
-
-(Rúbrica)
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
-
-P.O. 4 DE NOVIEMBRE DE 2008.
-
-ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 26 DE FEBRERO DE 2016.
+La actuación de los Comisarios Públicos se ajustará en todo caso a lo dispuesto por la Ley Federal de las Entidades Paraestatales, por el Reglamento de la Ley Federal de las Entidades Paraestatales, por el Estatuto Orgánico que al efecto se expida y por las demás disposiciones legales aplicables.
 
 ###### Artículo 26.
 
@@ -364,7 +632,9 @@ VII. Celebrar, con la participación que le corresponda a la SEP y a la Secretar
 
 VIII. Coordinar acciones con las Dependencias y Entidades de la Administración Pública Federal, las entidades federativas, los Municipios las demarcaciones territoriales de la Ciudad de México y el sector social y privado en lo relativo a investigación en ciencias y técnicas en materia de cultura física y deporte;
 
-IX. Promover el desarrollo de los programas de formación, capacitación, actualización y los métodos de certificación en materia de cultura física y deporte, promoviendo y apoyando, la inducción de la cultura física y el deporte en los planes y programas educativos;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2021)</small>
+
+IX. Promover el desarrollo de los programas de formación, capacitación, actualización y los métodos de certificación en materia de cultura física y deporte, promoviendo, preservando y apoyando, la inducción de la cultura física y el deporte en los planes y programas educativos por medio de la Educación Física;
 
 X. Promover la capacitación y certificación de directivos, deportistas, entrenadores, jueces, árbitros y técnicos;
 
@@ -404,7 +674,7 @@ XXIV. Recibir apoyos económicos, técnicos y materiales en territorio nacional 
 
 XXV. Diseñar y establecer los criterios para asegurar la uniformidad y congruencia entre los programas de cultura física y deporte del sector público federal y la asignación de los recursos para los mismos fines;
 
-XXVI. Promover e incrementar con las previsiones presupuestales existentes, los fondos y fideicomisos ya sean públicos o privados, que en materia de cultura física y deporte se constituyan con el objeto de organizar la participación de los sectores social y privado, a efecto de contribuir al desarrollo deportivo del país;
+XXVI. (DEROGADA, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 XXVII. Fomentar la cultura física, la recreación, la rehabilitación y el deporte entre la población en general, como medio para la prevención del delito;
 
@@ -632,7 +902,7 @@ XI. Las leyes de Seguridad Pública de las Entidades Federativas, deberán estab
 
 La coordinación a que se refiere el artículo anterior, se realizará conforme a las facultades concurrentes en los distintos órdenes de gobierno, a través de convenios de coordinación, colaboración y concertación que celebren las autoridades competentes de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México entre sí o con instituciones del sector social y privado, de conformidad con los procedimientos y requisitos que estén determinados en el Reglamento de la presente Ley.
 
-### CAPITULO II. ATRIBUCIONES DE LA COMISIÓN CONSULTIVA DE SEGURIDAD E HIGIENE EN EL TRABAJO
+### Capítulo II. De los Sectores Social y Privado
 
 #### Sección Primera. De las Asociaciones y Sociedades Deportivas
 
@@ -1028,7 +1298,7 @@ Para cumplir con esta responsabilidad podrán celebrar acuerdos de colaboración
 
 Asimismo, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con la activación física su entrenamiento y participación en competiciones oficiales.
 
-### CAPÍTULO III. ATRIBUCIONES DEL PRESIDENTE
+### Capítulo I. De la Infraestructura
 
 ###### Artículo 90.
 
@@ -1056,7 +1326,7 @@ La CONADE coordinará con la SEP, las entidades federativas, los Municipios, las
 
 La CONADE formulará las normas y criterios requeridos en materia de instalaciones deportivo-recreativas, deportivas, del deporte en la rehabilitación y activación física deportiva.
 
-Para tal efecto, constituirá los fondos, fideicomisos o cualquier otro instrumento financiero que permita el transparente manejo de los recursos federales que para este objeto se destinen y que del uso de las instalaciones se obtengan.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
@@ -1090,7 +1360,7 @@ Para la celebración de eventos deportivos masivos o con fines de espectáculo, 
 
 Las autoridades municipales, o las correspondientes de la Ciudad de México, serán competentes para verificar el cumplimiento de la presente disposición.
 
-### CAPÍTULO IV. ATRIBUCIONES DEL SECRETARIO
+### Capítulo II. De la Enseñanza, Investigación y Difusión
 
 ###### Artículo 99.
 
@@ -1110,7 +1380,7 @@ La CONADE participará en la elaboración de programas de capacitación en activ
 
 La CONADE promoverá y gestionará conjuntamente con las Asociaciones Deportivas Nacionales la formación, capacitación, actualización y certificación de recursos humanos para la enseñanza y práctica de actividades de cultura física deportiva y deporte. Para tal efecto, emitirá los lineamientos necesarios en los que se determine el procedimiento de acreditación considerando lo dispuesto por la Ley General de Educación.
 
-### CAPÍTULO V. ATRIBUCIONES Y RESPONSABILIDADES DE LOS MIEMBROS DE LA COMISIÓN
+### Capítulo III. De las Ciencias Aplicadas
 
 ###### Artículo 103.
 
@@ -1144,15 +1414,15 @@ La Secretaría de Salud y la CONADE, procurarán la existencia y aplicación de 
 
 Las instancias correspondientes, verificarán y certificarán que los laboratorios y profesionistas dedicados al ejercicio de estas ciencias, cumplan con los requisitos que fijen los Reglamentos y Normas Oficiales Mexicanas que sobre el particular, emita la dependencia con competencia en la materia.
 
-### CAPÍTULO VI. SUBCOMISIONES
+### Capítulo IV. Del Estímulo a la Cultura Física y al Deporte
 
 ###### Artículo 110.
 
 Corresponde a la CONADE y a los organismos de los sectores públicos otorgar y promover en el ámbito de sus respectivas competencias, ayudas, subvenciones y reconocimientos a los deportistas, técnicos y organismos de cultura física y deporte ajustándose a lo dispuesto en la presente Ley, su Reglamento y en su caso, en la convocatoria correspondiente.
 
-La CONADE promoverá y gestionará la constitución de fideicomisos destinados al otorgamiento de un reconocimiento económico vitalicio, a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-La CONADE, regirá los criterios y bases para el otorgamiento y monto de la beca a que se harán acreedores los beneficiados por los fideicomisos creados para reconocimiento a medallistas olímpicos y paralímpicos.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
 La CONADE gestionará y establecerá los mecanismos necesarios para que los deportistas con discapacidad, sin discriminación alguna, gocen de los mismos reconocimientos y estímulos que otorgue el Gobierno Federal a los deportistas convencionales.
 
@@ -1222,19 +1492,23 @@ IV. Facilitar cuanta información le sea requerida por las autoridades de la Adm
 
 Las personas físicas y morales, así como las agrupaciones que hubieren contribuido al desarrollo de la cultura física y el deporte nacional, podrán obtener reconocimiento por parte de la CONADE, así como en su caso, estímulos en dinero o en especie previo cumplimiento de los requisitos que para tal efecto se establezcan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
 ###### Artículo 116.
 
-Para efecto del cumplimiento de lo dispuesto por el presente Capítulo, el Fondo para el Deporte de Alto Rendimiento brindará los apoyos económicos y materiales a los deportistas de alto rendimiento con posibilidades de participar en Juegos Olímpicos y Paralímpicos.
+Para efecto del cumplimiento de lo dispuesto por el presente Capítulo, la CONADE con cargo a su presupuesto autorizado, brindará los apoyos económicos y materiales para la práctica y desarrollo del deporte de alto rendimiento con posibilidad de participar en Juegos Olímpicos y Paralímpicos.
 
-En el Fondo para el Deporte de Alto Rendimiento, concurrirán representantes del Gobierno Federal, del Comité Olímpico Mexicano, y los particulares que aporten recursos a dicho Fondo, mismo que estará conformado por un Comité Técnico, que será la máxima instancia de este Fondo y responsable de autorizar los programas de apoyo y los deportistas beneficiados, quien se auxiliará de una Comisión Deportiva, integrada por un panel de expertos independientes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-La Comisión Deportiva, se apoyará en las opiniones de asesores nombrados por especialidad deportiva, quienes deberán ser expertos en sus respectivas disciplinas y podrán emitir sus opiniones sobre los atletas propuestos y sus programas de preparación.
+> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+
+El procedimiento para el otorgamiento de los apoyos quedará establecido en el Reglamento correspondiente de la presente Ley y deberá considerar, entre otros criterios, la opinión de expertos en las respectivas disciplinas y el rendimiento de deportistas en competencias oficiales.
 
 ###### Artículo 117.
 
 Los deportistas y entrenadores de alto rendimiento que gocen de apoyos económicos y materiales a que se refiere el presente Capítulo, deberán participar en los eventos nacionales e internacionales a que convoque la CONADE.
 
-### CAPÍTULO VII. DE LAS SESIONES
+### Capítulo V. Del Control de Sustancias Prohibidas y Métodos no Reglamentarios en el Deporte
 
 ###### Artículo 118.
 
@@ -1328,7 +1602,9 @@ Cuando se trate de eventos internacionales y la autoridad de gestión de los res
 
 Para efectos del artículo anterior, quedan exentas las muestras biológicas recolectadas en los eventos que se realicen en el territorio nacional y que se encuentren inscritos en los calendarios oficiales de competiciones de las federaciones internacionales o aquellas que se enmarquen en el contexto del movimiento olímpico, mismas, que serán remitidas para su estudio analítico al laboratorio certificado por el Comité Olímpico Internacional o la Agencia Mundial Antidopaje que se haya previamente determinado.
 
-### CAPÍTULO VIII. DE LAS SUPLENCIAS
+### Capítulo VI. De la Prevención de la Violencia en el Deporte
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
 
 ###### Artículo 137.
 
@@ -1460,7 +1736,7 @@ Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades respon
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE MAYO DE 2014)</small>
 
-### CAPÍTULO IX. CORRESPONSABILIDAD LABORAL
+### Capítulo VII. De las Infracciones, Sanciones y Delitos
 
 ###### Artículo 145.
 
@@ -1684,11 +1960,13 @@ CUARTO.- Las comisiones locales a que alude el último párrafo del artículo 13
 
 D.O.F. 1 DE JUNIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 121 Y 135 DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE”.]
 
-Artículo primero.- El presente Reglamento surtirá sus efectos a partir del día siguiente de su publicación.
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-Artículo segundo.- Queda sin efectos el Reglamento Interior de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, aprobado en Junio de 2007 y todas aquellas disposiciones relativas a la integración, organización y funcionamiento de la Comisión que se contrapongan al presente Reglamento.
+Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 25 DE ENERO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE”.]
 
@@ -1709,3 +1987,89 @@ D.O.F. 11 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 2 DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE NOVIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS; DE LA LEY DE COOPERACIÓN INTERNACIONAL PARA EL DESARROLLO; DE LA LEY DE HIDROCARBUROS; DE LA LEY DE LA INDUSTRIA ELÉCTRICA; DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA; DE LA LEY GENERAL DE PROTECCIÓN CIVIL; DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO; DE LA LEY DE CIENCIA Y TECNOLOGÍA; DE LA LEY ADUANERA; DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO; DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE; DE LA LEY FEDERAL DE CINEMATOGRAFÍA; DE LA LEY FEDERAL DE DERECHOS; DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO; DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS; DE LA LEY GENERAL DE CAMBIO CLIMÁTICO; DE LA LEY GENERAL DE VÍCTIMAS Y SE ABROGA LA LEY QUE CREA EL FIDEICOMISO QUE ADMINISTRARÁ EL FONDO DE APOYO SOCIAL PARA EX TRABAJADORES MIGRATORIOS MEXICANOS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
+
+Cuarto. Las dependencias y entidades, por conducto de sus unidades responsables, deberán coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos previstos en las disposiciones que se abrogan, reforman o derogan por virtud de este Decreto, salvo que la Secretaría de Hacienda y Crédito Público determine una fecha distinta para la concentración de los recursos.
+
+A la extinción de los fideicomisos, y terminación de mandatos y análogos públicos las entidades concentrarán en sus respectivas tesorerías los recursos distintos a los fiscales, en el plazo señalado en el primer párrafo del presente Transitorio.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, con prioridad para el fortalecimiento de los programas y acciones en materia de salud, especialmente para los requerimientos derivados de la atención a la Pandemia generada por la enfermedad Covid-19, que ocasiona el Coronavirus SARS-CoV2, incluyendo, en su caso, la obtención de la vacuna en el número de dosis necesarias, así como para procurar la estabilización del balance fiscal federal y el pago de las obligaciones previamente contraídas por los vehículos financieros a que se refiere el presente Decreto con anterioridad a la entrada en vigor del mismo.
+
+Quinto. Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el primer semestre del ejercicio 2021 se suscriban los convenios de extinción o terminación respectivamente, en términos de las disposiciones aplicables.
+
+Los derechos y obligaciones derivados de los instrumentos jurídicos que por virtud del presente Decreto se extinguen o terminan, serán asumidos por los ejecutores de gasto correspondientes con cargo a su presupuesto autorizado, de conformidad con las disposiciones aplicables.
+
+Sexto. Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
+
+Séptimo. El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio de dichos fideicomisos, en términos de las disposiciones aplicables, en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Por lo que a partir de la entrada en vigor del presente Decreto no podrán adquirir compromisos adicionales con cargo al patrimonio de dichos instrumentos.
+
+Asimismo, deberán concentrar en sus tesorerías los recursos distintos a los señalados en el primer párrafo del presente Transitorio en el plazo previsto en el mismo.
+
+El Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos públicos constituidos al amparo de la Ley de Ciencia y Tecnología, con la finalidad de que durante el ejercicio fiscal de 2021 se suscriban los convenios de extinción en términos de las disposiciones aplicables.
+
+Los fideicomisos públicos constituidos por Centros Públicos de Investigación para el cumplimiento exclusivo de obligaciones de carácter laboral o en materia de seguridad social continuarán operando con la finalidad de salvaguardar los derechos laborales de los trabajadores.
+
+En caso de que los Centros Públicos de Investigación cuenten con fideicomisos que integren el cumplimiento de obligaciones de carácter laboral o en materia de seguridad social y otras obligaciones de distinta naturaleza en un solo instrumento, deberán llevar a cabo la modificación a los mismos dentro de un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, a efecto de que dichos fideicomisos públicos conserven únicamente aquellas obligaciones de carácter laboral o en materia de seguridad social, y concentren los recursos no relacionados con dichos fines en términos del primer párrafo del presente Transitorio.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del transitorio Cuarto de este Decreto.
+
+A la entrada en vigor del presente Decreto, los fondos Sectorial CONACYT-Secretaría de Energía-Hidrocarburos; Sectorial CONACYT-Secretaría de Energía-Sustentabilidad Energética, y de Investigación Científica y Desarrollo Tecnológico del Instituto Mexicano del Petróleo, no podrán contraer obligaciones adicionales con cargo a sus respectivos patrimonios.
+
+Los recursos a que se refiere el artículo 88 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que se reforma por virtud del presente Decreto, se podrán destinar a cubrir los pagos derivados de los compromisos adquiridos por los fondos a que se refiere el párrafo anterior, previo a la entrada en vigor de este Decreto.
+
+Octavo. El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio del mismo en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Cumplido lo anterior, el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del Artículo Cuarto Transitorio de este Decreto.
+
+Noveno. Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
+
+Décimo. La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su presupuesto autorizado, para lo cual el Reglamento de la Ley General de Cultura Física y Deporte establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
+
+Décimo Primero. Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente Decreto, en lo que resulte conducente.
+
+Décimo Segundo. La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
+
+Décimo Tercero. Los recursos que integran el patrimonio de los fideicomisos públicos denominados Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
+
+Décimo Cuarto. Los recursos que integran el patrimonio del fideicomiso público denominado Fondo para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional competente y, en caso de resultar procedente se sujetarán a dicho Transitorio.
+
+Una vez realizado lo anterior, la Secretaría de Economía por conducto de la unidad responsable de dicho fideicomiso público en conjunto con la institución fiduciaria procederán en términos de lo señalado en el transitorio Quinto.
+
+Décimo Quinto. A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
+
+Una vez cumplidas la totalidad de las obligaciones y se ejerzan los derechos derivados de los instrumentos a que se refiere el párrafo anterior, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores se extinguirá en términos de las disposiciones aplicables.
+
+A la extinción de dicho vehículo, la Secretaría de Economía por conducto de la unidad responsable, realizará las acciones necesarias para concentrar los recursos federales remanentes en la Tesorería de la Federación.
+
+Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente.
+
+Décimo Sexto. La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho instrumento en términos del transitorio Quinto del presente Decreto. De igual forma, por conducto de la unidad responsable del mandato, deberá coordinar las acciones que correspondan para que concentre los recursos públicos federales en la Tesorería de la Federación, de conformidad con lo dispuesto en el transitorio Cuarto del presente Decreto.
+
+Asimismo, la unidad responsable del Mandato deberá llevar a cabo las acciones conducentes para efectuar la recuperación de los créditos que, en su caso, se hubiesen otorgado con cargo a los recursos del Mandato a que se refiere el presente transitorio, a efecto de que dichos recursos sean concentrados en (sic) Tesorería de la Federación, en los términos previstos en el transitorio Cuarto del presente Decreto.
+
+Décimo Séptimo. A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto y de sus disposiciones transitorias.
+
+Décimo Octavo. Los recursos que integran el patrimonio del Fondo a que se refiere el segundo párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará (sic) parte de su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se reintegre a la Tesorería de la Federación. Asimismo, la Financiera, en conjunto con la institución crediticia del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente Decreto.
+
+Décimo Noveno. Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
+
+A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales no asumirá compromisos adicionales a los adquiridos previamente, salvo los relativos a los gastos de operación, y únicamente podrán llevarse a cabo los actos tendientes a su extinción. Con los recursos a que se refiere el artículo 37 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria se podrán cubrir las obligaciones que se tengan pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
+
+Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
+
+Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
+
+D.O.F. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 30 DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
