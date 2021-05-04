@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2021-01-07"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LMIGRA"
 
 LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -54,9 +54,11 @@ LEY DE MIGRACION
 
 Las disposiciones de esta Ley son de orden público y de observancia general en toda la República y tienen por objeto regular lo relativo al ingreso y salida de mexicanos y extranjeros al territorio de los Estados Unidos Mexicanos y el tránsito y la estancia de los extranjeros en el mismo, en un marco de respeto, protección y salvaguarda de los derechos humanos, de contribución al desarrollo nacional, así como de preservación de la soberanía y de la seguridad nacionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE MAYO DE 2021)</small>
+
 ###### Artículo 2.
 
-La política migratoria del Estado Mexicano es el conjunto de decisiones estratégicas para alcanzar objetivos determinados que con fundamento en los principios generales y demás preceptos contenidos en la presente Ley, se plasman en el Reglamento, normas secundarias, diversos programas y acciones concretas para atender el fenómeno migratorio de México de manera integral, como país de origen, tránsito, destino y retorno de migrantes.
+La política migratoria del Estado Mexicano es el conjunto de decisiones estratégicas para alcanzar objetivos determinados que con fundamento en los principios generales y demás preceptos contenidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados y convenios internacionales en los que el Estado Mexicano sea parte y la presente Ley, se plasman en el Reglamento, normas secundarias, diversos programas y acciones concretas para atender el fenómeno migratorio de México de manera integral, como país de origen, tránsito, destino y retorno de migrantes.
 
 Son principios en los que debe sustentarse la política migratoria del Estado mexicano los siguientes:
 
@@ -83,6 +85,14 @@ Unidad familiar e interés superior de la niña, niño y adolescente, como crite
 Integración social y cultural entre nacionales y extranjeros residentes en el país con base en el multiculturalismo y la libertad de elección y el pleno respeto de las culturas y costumbres de sus comunidades de origen, siempre que no contravengan las leyes del país.
 
 Facilitar el retorno al territorio nacional y la reinserción social de los emigrantes mexicanos y sus familias, a través de programas interinstitucionales y de reforzar los vínculos entre las comunidades de origen y destino de la emigración mexicana, en provecho del bienestar familiar y del desarrollo regional y nacional.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MAYO DE 2021)</small>
+
+Interés superior de la niña, niño o adolescente y la perspectiva de género.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MAYO DE 2021)</small>
+
+Convencionalidad, en términos de lo dispuesto por el párrafo tercero del artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 El Poder Ejecutivo determinará la política migratoria del país en su parte operativa, para lo cual deberá recoger las demandas y posicionamientos de los otros Poderes de la Unión, de los gobiernos de las entidades federativas y de la sociedad civil organizada, tomando en consideración la tradición humanitaria de México y su compromiso indeclinable con los derechos humanos, el desarrollo y la seguridad nacional, pública y fronteriza.
 
@@ -440,7 +450,9 @@ II. Proporcionar a los migrantes orientación y asesoría para su eficaz atenci�
 
 III. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de averiguaciones previas y procesos penales respecto de los delitos de los que son víctimas los migrantes;
 
-IV. Celebrar convenios de cooperación y coordinación para lograr una eficaz investigación y persecución de los delitos de los que son víctimas u ofendidos los migrantes;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2021)</small>
+
+IV. Celebrar convenios de cooperación y coordinación, así como realizar en el ámbito de sus atribuciones, las acciones necesarias para lograr una eficaz investigación y persecución de los delitos de los que son víctimas u ofendidos los migrantes;
 
 V. Conocer respecto de los delitos previstos en los artículos 159 y 161 de esta Ley, y
 
@@ -1885,3 +1897,9 @@ D.O.F. 7 DE ENERO DE 2021.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias contrarias a las disposiciones del presente Decreto.
+
+D.O.F. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 2 Y 28 DE LA LEY DE MIGRACIÓN".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
