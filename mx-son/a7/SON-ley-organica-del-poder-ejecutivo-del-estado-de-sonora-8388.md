@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2021-03-16"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "SON"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE JUNIO DE 2021 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE MAYO DE 2021.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -1499,7 +1497,9 @@ VI. Promover e impulsar relaciones en materia de política laboral con la Federa
 
 VII. Impulsar, respaldar y promover la figura de la conciliación que permita resolver por la vía del acuerdo los conflictos que se presenten entre empresa y trabajadores; Coordinar la integración y establecimiento de las Junta Locales de Conciliación y Arbitraje, así como vigilar su funcionamiento; y
 
-VIII. Proponer a las Juntas Locales de Conciliación y Arbitraje, estrategias para el mejoramiento de la administración e impartición de justicia laboral.
+> <small>(REFORMADA, B.O. 4 DE MAYO DE 2021)</small>
+
+VIII. Proponer al Centro de Conciliación Laboral del Estado de Sonora, estrategias para el mejoramiento de la función conciliatoria en materia laboral.
 
 B. En materia de desarrollo económico-laboral:
 
@@ -2700,3 +2700,11 @@ Para el cumplimiento de las atribuciones de la Secretaría de Turismo del Estado
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado deberá expedir el reglamento interior de la Secretaría de Turismo, dentro de los 90 días siguientes a la conformación y funcionamiento de la nueva dependencia.
+
+B.O. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 191, QUE REFORMA EL ARTÍCULO 33 APARTADO A, FRACCIÓN VIII DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
