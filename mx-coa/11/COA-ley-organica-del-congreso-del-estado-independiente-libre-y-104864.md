@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2021-02-23"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -80,6 +80,10 @@ Se consideran recintos oficiales, todas las instalaciones, inmuebles u oficinas 
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 2020)</small>
 
 El Congreso del Estado sesionará únicamente en los recintos oficiales, salvo caso fortuito o de fuerza mayor, o cuando por causas especiales lo acuerde el Pleno por mayoría calificada, y sólo provisionalmente para desahogar los asuntos concretos acordados. En este último caso también podrá celebrar sesiones virtuales o en línea, y en tiempo real a través de medios electrónicos.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2021)</small>
+
+Las sesiones del Congreso del Estado sean presenciales, virtuales o en línea, contarán con un intérprete de lengua de señas mexicanas a fin de interpretar y comunicar el contenido de los asuntos que desahoguen en el Pleno. Asimismo, en la transmisión de las sesiones, que se haga en los medios de comunicación e información del Congreso del Estado se colocará un recuadro permanente en la pantalla donde se enfoque en todo momento a la o el intérprete.
 
 El decreto que autorice la declaratoria de nuevos recintos oficiales, deberá publicarse en el Periódico Oficial del Gobierno del Estado.
 
@@ -1089,6 +1093,10 @@ XXIV. Instructora de Juicio Político.
 
 XXV. Contra la Trata de Personas.
 
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2021)</small>
+
+XXVI. De los Derechos de las Niñas, Niños y Adolescentes.
+
 ###### ARTÍCULO 89.
 
 La Comisión de Reglamentos y Prácticas Parlamentarias se integrará con los miembros Diputados y Diputadas con mayor experiencia legislativa y todos los Grupos Parlamentarios y fracciones estarán representados en la misma, integrándose por tres de la primera fuerza política, dos de la segunda fuerza política y una o un Diputado de cada uno de los partidos políticos representados en la Legislatura. Le corresponde el estudio y Dictamen de los siguientes asuntos:
@@ -1628,6 +1636,24 @@ I.- La implementación de acciones para la prevención protección, atención y 
 II.- El establecimiento de mecanismos efectivos para tutelar la vida, la dignidad, la libertad, la integridad y la seguridad de las personas, así como el libre desarrollo de niñas, niños y adolescentes, cuando sean amenazados o lesionados por la comisión de los delitos de trata de personas.
 
 III.- La actualización de la Ley para la Prevención, Protección, Atención y Asistencia a las Víctimas y Ofendidos de los Delitos en Materia de Trata de Personas del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2021)</small>
+
+###### ARTÍCULO 112 Ter.
+
+La Comisión de los Derechos de las Niñas, Niños y Adolescentes, conocerá de los asuntos relacionados con:
+
+I. Protección y promoción de los derechos de la niñez y la adolescencia;
+
+II. Mecanismos de participación permanente de la niñez y la adolescencia en el Estado y los municipios;
+
+III. Prevención, erradicación y combate del maltrato, abuso, violencia y explotación infantil en todas sus manifestaciones, así como del acoso escolar;
+
+IV. Prevención de las adicciones de los menores a substancias tóxicas y a bebidas embriagantes, así como el tratamiento para la rehabilitación de aquellos que tengan estas adicciones;
+
+V. Acciones encaminadas al respeto de los derechos humanos de las niñas, niños y adolescentes, a través de la vinculación interinstitucional y la sociedad civil, y
+
+VI. Otros asuntos que sean o se consideren de la competencia de esta Comisión.
 
 ###### ARTÍCULO 113.
 
@@ -3698,3 +3724,25 @@ P.O. 23 DE FEBRERO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 62.- SE ADICIONA UN PÁRRAFO CUARTO Y SE RECORREN LOS SUBSIGUIENTES DEL ARTÍCULO 8º DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación
+
+SEGUNDO.- El Congreso del Estado podrá celebrar los convenios necesarios con la Secretaría de Educación del Estado de Coahuila para que a través de la Dirección de Educación Especial y Sostenimiento Federalizada, se proporcione al personal debidamente capacitado en lengua de señas mexicanas que realice la interpretación de las sesiones que se lleven a cabo en el Pleno del Congreso.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 63.- SE ADICIONA LA FRACCIÓN XXVI AL ARTÍCULO 88 Y EL ARTÍCULO 112 TER A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 60 días siguientes a la aprobación del presente Decreto, el Congreso deberá llevar a cabo la integración de la Comisión de los Derechos de las Niñas, Niños y Adolescentes.
