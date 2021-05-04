@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-de-la-ciudad-de-1225
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-07-18"
-last_updated: "2021-02-26"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122599&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-07-10"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE MAYO DE 2021.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 18 de julio de 2017.
 
@@ -2202,17 +2202,15 @@ La Contraloría expedirá constancias a las personas servidoras públicas que lo
 
 La persona servidora pública afectada por las resoluciones de la Contraloría podrá, a su elección, interponer el recurso de revocación ante la propia Contraloría, en los términos previstos en la ley de la materia; o bien, impugnar dichos actos o resoluciones mediante el juicio de inconformidad administrativa que se contempla en los artículos 175 a 219 de la Ley Procesal Electoral.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2021)</small>
 
 ###### Artículo 92.
 
-La Contraloría administrará el Sistema DeclaraTECDMX y llevará el registro y resguardo de las Declaraciones de Situación Patrimonial de las personas del Tribunal, que se encuentren obligadas a presentarlas.
+La Contraloría administrará el Sistema DeclaraTECDMX y llevará el registro y resguardo de las Declaraciones de Situación Patrimonial y de Intereses de las personas del Tribunal.
 
-Tienen la obligación de presentar Declaración de Situación Patrimonial: las Magistradas y los Magistrados, la o el Secretario General, la o el Secretario Administrativo, la o el Director General Jurídico, la o el Contralor Interno, la o el Defensor Ciudadano, las y los Coordinadores, la o el Director del Instituto de Capacitación, las y los Directores de Unidad, las y los Secretarios de Estudio y Cuenta, las y los Directores de área, las y los Secretarios Auxiliares, las y los Subdirectores, las y los Investigadores, las y los Jefes de Departamento, las y los Coordinadores de Gestión, las y los Asesores y todas aquellas personas servidoras públicas del Tribunal cuyos ingresos sean homólogos o superiores a los anteriores.
+Tienen la obligación de presentar Declaración de Situación Patrimonial y de Intereses: todas las personas servidoras públicas adscritas al Tribunal Electoral.
 
-> <small>(REFORMADO, G.O. 1 DE MARZO DE 2018)</small>
-
-La Declaración de Situación Patrimonial deberá presentarse mediante el Sistema DeclaraTECDMX, atendiendo lo establecido en los Lineamientos para la Presentación y Registro de Declaraciones de Situación Patrimonial de las Personas Obligadas del Tribunal.
+La Declaración de Situación Patrimonial y de Intereses deberá presentarse mediante el Sistema DeclaraTECDMX, atendiendo lo establecido en los Lineamientos para la Presentación y Registro de Declaraciones de Situación Patrimonial y de Intereses del Tribunal.
 
 ## TÍTULO CUARTO. DE LOS MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
@@ -2519,3 +2517,11 @@ G.O. 26 DE FEBRERO DE 2021.
 PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en los estrados del Tribunal Electoral de la Ciudad de México.
 
 SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México y en los estrados, así como en las páginas de Internet e Intranet del Tribunal Electoral de la Ciudad de México.
+
+G.O. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en los estrados del Tribunal Electoral de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en los estrados, así como en las páginas de Internet e Intranet del Tribunal Electoral de la Ciudad de México.
