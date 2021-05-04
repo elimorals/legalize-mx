@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-251-estatal-de-turismo-de-sonora-149532"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-29"
-last_updated: "2021-03-29"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ESTATAL DE TURISMO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE MAYO DE 2021.
 
 Ley publicada en el Número 25 Secc. IV del Boletín Oficial del Estado de Sonora, el lunes 29 de marzo de 2021.
 
@@ -143,7 +143,9 @@ II.- Celebrar convenios en materia turística conforme a lo previsto en la Ley G
 
 III.- Aplicar los instrumentos de política turística previstos en la Ley Estatal de Turismo y demás ordenamientos en la materia, así como la planeación, programación, fomento y desarrollo de la actividad turística que se realice en bienes y áreas de competencia estatal;
 
-IV.- Formular, ejecutar y evaluar el Programa Estatal de Turismo, las directrices previstas en el Plan Estatal de Desarrollo y el Programa Sectorial de Turismo del Estado;
+> <small>(REFORMADA, B.O. 4 DE MAYO DE 2021)</small>
+
+IV.- Formular, ejecutar y evaluar el Programa Estatal de Turismo, las directrices previstas en el Plan Estatal de Desarrollo y el Programa Sectorial de Turismo del Estado; así como, difundir y promover el Catálogo Cultural del Estado de Sonora, cuya elaboración y actualización corresponde al Instituto Sonorense de Cultura;
 
 V.- Establecer el Consejo Consultivo Estatal de Turismo;
 
@@ -429,7 +431,9 @@ III.- Coordinar con las autoridades Federales, Estatales y Municipales, las gest
 
 IV.- Ejecutar obras de infraestructura y urbanización, y realizar edificaciones e instalaciones en centros de desarrollo turístico que permitan la oferta de servicios turísticos; para dicho fin el Fondo deberá tomar en cuenta en la ejecución de dichas obras las necesidades de las personas con discapacidad;
 
-V.- Promover, las actividades turísticas en el Estado y Municipios, con la participación de instituciones y organismos de los sectores público, académico, social y privado, con la finalidad de proteger, mejorar, incrementar y difundir los atractivos y servicios turísticos que ofrece el estado, alentando la afluencia de visitantes;
+> <small>(REFORMADA, B.O. 4 DE MAYO DE 2021)</small>
+
+V.- Promover, las actividades turísticas en el Estado y Municipios, con la participación de instituciones y organismos de los sectores público, académico, social y privado, con la finalidad de proteger, mejorar, incrementar y difundir los atractivos y servicios turísticos que ofrece el estado, alentando la afluencia de visitantes; así como promocionar el patrimonio cultural material e inmaterial contemplado en el Catálogo Cultural del Estado de Sonora;
 
 VI.- Fomentar la creación de nuevos desarrollos turísticos en aquellos lugares que, por sus características naturales y culturales, representan un potencial turístico;
 
@@ -481,7 +485,9 @@ II.- Elaborar un Calendario de Promoción Anual, considerando la participación 
 
 III.- Diseñar e implementar la Estrategia Estatal de Promoción Turística, así como las campañas de publicidad nacional e internacional;
 
-IV.- Diseñar y distribuir material turístico del estado; así como su difusión mediante la administración de las redes sociales para la promoción turística del estado;
+> <small>(REFORMADA, B.O. 4 DE MAYO DE 2021)</small>
+
+IV.- Diseñar y distribuir material turístico del estado, en la que se incluya la promoción del Catálogo Cultural del Estado de Sonora, cuya elaboración y actualización corresponde al Instituto Sonorense de Cultura, y mediante vías de comunicación efectiva, como las redes sociales, dar promoción turística al estado;
 
 V.- Generar mecanismos de promoción para una mejor comercialización de productos y servicios turísticos; propiciando una mayor presencia de información turística en los medios de comunicación locales, nacionales e internacionales;
 
@@ -946,3 +952,19 @@ Comuníquese a la Titular del Poder Ejecutivo para su publicación en el Boletí
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veintinueve días del mes de marzo del años (sic) dos mil veintiuno.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- JUAN ANGEL CASTILLO TARAZÓN.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 192, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA Y DE LA LEY ESTATAL DE TURISMO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Se exceptúa de lo anterior, el artículo segundo del presente Decreto, el cual entrará en vigor al día siguiente de la entrada en vigor de la Ley número 251, Estatal de Turismo de Sonora, aprobada por el Congreso del Estado de Sonora el día 25 de marzo de 2021.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto deberá elaborar el Catálogo Cultural del Estado de Sonora, ponerlo a disposición del público en su sitio oficial de internet y proporcionar la dirección de internet a los ayuntamientos del Estado y a la Comisión de Fomento al Turismo del Estado de Sonora, para los efectos del artículo 70 BIS 2 de la Ley de Fomento de la Cultura y Protección del Patrimonio Cultural del Estado de Sonora, dentro de un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto.
