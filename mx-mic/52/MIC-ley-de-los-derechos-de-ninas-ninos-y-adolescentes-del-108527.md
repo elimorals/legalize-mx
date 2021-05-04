@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2021-04-05"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2021.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -605,9 +605,17 @@ V. Elaborar protocolos de atención en los que se considere su situación famili
 
 VI. Promover campañas de concientización sobre las formas positivas, no violentas y participativas de la crianza de niñas, niños y adolescentes, así como el diseño de políticas públicas de educación para la paz como política de Estado; y,
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
 
-VII. Realizar estudios periódicos que analicen el alcance de la violencia contra niñas, niños y adolescentes en todos los medios de comunicación, determinando las medidas idóneas para prevenir y atender esta expresión de violencia, dirigiéndolas tanto a menores que asistan a la escuela como a los no escolarizados.
+VII. Realizar estudios periódicos que analicen el alcance de la violencia contra niñas, niños y adolescentes en todos los medios de comunicación, determinando las medidas idóneas para prevenir y atender esta expresión de violencia, dirigiéndolas tanto a menores que asistan a la escuela como a los no escolarizados; y,
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2021)</small>
+
+VIII. Realizar estudios periódicos de manera aleatoria, a cargo del Sistema para el Desarrollo Integral de la Familia, en los ámbitos espaciales de competencia que correspondan, por lo menos una vez al año, en todas y cada una de las diversas Instituciones Educativas, cualesquiera que estas sean, públicas o privadas, personas físicas o morales, en que se encuentren niñas, niños o adolescentes bajo su resguardo, con la finalidad de revisar las condiciones en que éstos se encuentran, y prevenir, salvaguardar, atender o proteger a quienes se presuma puedan ser víctimas de violencia, en cualquiera de sus modalidades, o bien, o padezcan de maltrato. El estudio anterior, además analizará el estado tanto físico, como psicológico o emocional de las niñas, niños o adolescentes, para la detección oportuna de cualquier situación que lesione, en alguna medida, su desarrollo, en la idea de que, de encontrarse señales de estas situaciones, se canalice a las instancias correspondientes, para su atención y seguimiento, quienes determinarán las medidas idóneas que deban aplicarse.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VIII, P.O. 4 DE MAYO DE 2021.]</small>
+
+Para el estudio, la autoridad competente, deberá auxiliarse de las Instituciones Educativas en el Estado que cuenten con licenciaturas de psicología, medicina, enfermería, en la salud, trabajo social, o cualquier otra que coadyuve al análisis integral del diagnóstico y evaluación de las personas, niñas, niños o adolescentes o los familiares íntimamente vinculados a la situación que requieran el apoyo, lo anterior, en coordinación con la Dirección que atienda el Servicio Social de Pasantes en el Estado, para que a través de quienes lo realicen, sean canalizados de manera obligatoria y oportuna a las instancias debidas, como se indica en el párrafo anterior.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -2138,3 +2146,9 @@ Considerando que la pandemia es una situación delicada y que por tanto es injus
 CUARTO. Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, deberán concluirse y ejecutarse conforme las disposiciones vigentes antes de la entrada en vigor de éste último.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 525.- SE REFORMA LA FRACCIÓN VII Y SE ADICIONA LA VIII DEL ARTÍCULO 32 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
