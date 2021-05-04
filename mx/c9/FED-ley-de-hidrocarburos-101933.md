@@ -4,7 +4,7 @@ identifier: "FED-ley-de-hidrocarburos-101933"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-11"
-last_updated: "2020-11-06"
+last_updated: "2021-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101933&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-08-11"
 
 LEY DE HIDROCARBUROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MAYO DE 2021.
 
 Ley publicada en la Segunda Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -861,13 +861,23 @@ IV. En su caso, el documento en que se exprese el compromiso de contar con las g
 
 V. La demás información que se establezca en la regulación correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2021)</small>
+
 ###### Artículo 51.
 
 Los permisos a que se refiere el presente Capítulo se otorgarán a Petróleos Mexicanos, a otras empresas productivas del Estado y a Particulares, con base en el Reglamento de esta Ley. El otorgamiento de los permisos estará sujeto a que el interesado demuestre que, en su caso, cuenta con:
 
-I. Un diseño de instalaciones o equipos acordes con la normativa aplicable y las mejores prácticas, y
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2021)</small>
 
-II. Las condiciones apropiadas para garantizar la adecuada continuidad de la actividad objeto del permiso.
+I. Un diseño de instalaciones o equipos acordes con la normativa aplicable y las mejores prácticas;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2021)</small>
+
+II. Las condiciones apropiadas para garantizar la adecuada continuidad de la actividad objeto del permiso, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2021)</small>
+
+III. La capacidad de almacenamiento que determine la Secretaría conforme a las disposiciones jurídicas aplicables.
 
 ###### Artículo 52.
 
@@ -877,7 +887,9 @@ En la evaluación y, en su caso, otorgamiento de un permiso de Transporte por du
 
 La cesión de los permisos o de la realización de las actividades reguladas al amparo del mismo, sólo podrá realizarse previa autorización de la Secretaría de Energía o de la Comisión Reguladora de Energía, según corresponda, siempre que los permisos se encuentren vigentes, que el cedente haya cumplido con todas sus obligaciones, así como que el cesionario reúna los requisitos para ser Permisionario y se comprometa a cumplir en sus términos las obligaciones previstas en dichos permisos.
 
-La Secretaría de Energía o la Comisión Reguladora de Energía, según el permiso de que se trate, deberá resolver la solicitud de cesión dentro de un plazo de noventa días naturales, contados a partir del día siguiente al de la recepción de la solicitud. En caso de no emitirse una resolución por parte de la Secretaría de Energía o de la Comisión Reguladora de Energía, según corresponda, dentro del plazo establecido, ésta se entenderá en sentido favorable.
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2021)</small>
+
+La Secretaría de Energía o la Comisión Reguladora de Energía, según el permiso de que se trate, deberá resolver la solicitud de cesión dentro de un plazo de noventa días naturales, contados a partir del día siguiente al de la recepción de la solicitud. En caso de no emitirse una resolución por parte de la Secretaría de Energía o de la Comisión Reguladora de Energía, según corresponda, dentro del plazo establecido, ésta se entenderá en sentido negativo.
 
 Cualquier cesión que se realice sin apegarse a lo establecido en este artículo será nula de pleno derecho.
 
@@ -945,15 +957,23 @@ IX. No acatar las resoluciones que, en el ámbito de su competencia, expida la C
 
 X. No acatar las resoluciones que, en el ámbito de su competencia, expida la Agencia;
 
-XI. Realizar actividades de Transporte, Almacenamiento, Distribución o Expendio al Público de Hidrocarburos, Petrolíferos o Petroquímicos, que se compruebe hayan sido adquiridos de forma ilícita y que haya sido así determinado por resolución firme de autoridad competente, y
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2021)</small>
 
-XII. Las demás previstas en el permiso respectivo.
+XI. Realizar actividades de Transporte, Almacenamiento, Distribución o Expendio al Público de Hidrocarburos, Petrolíferos o Petroquímicos, que se compruebe hayan sido adquiridos de forma ilícita o por la comisión del delito de contrabando de Hidrocarburos, Petrolíferos y Petroquímicos, y que haya sido así determinado por resolución firme de autoridad competente;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2021)</small>
+
+XII. Reincidir en las conductas señaladas en los incisos a) y h) de la fracción II del artículo 86 del presente ordenamiento, y
+
+XIII. Las demás previstas en el permiso respectivo.
+
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2021)</small>
 
 ###### Artículo 57.
 
-En relación con los permisos a que se refiere esta Ley, la autoridad que lo haya expedido podrá llevar a cabo la ocupación temporal o la intervención, a fin de garantizar los intereses de la Nación, en el entendido de que quedarán salvaguardados los derechos de terceros.
+En relación con los permisos a que se refiere esta Ley, la autoridad que lo haya expedido podrá llevar a cabo la ocupación temporal, la intervención o la suspensión, a fin de garantizar los intereses de la Nación, en el entendido de que quedarán salvaguardados los derechos de terceros.
 
-Para la continuidad en la operación de las actividades que ampare el permiso, la autoridad podrá contratar a empresas productivas del Estado o a terceros, con capacidad técnica para el manejo y control de las instalaciones ocupadas o intervenidas.
+Para la continuidad en la operación de las actividades que ampare el permiso, la autoridad podrá contratar a empresas productivas del Estado para el manejo y control de las instalaciones ocupadas, intervenidas o suspendidas.
 
 ###### Artículo 58.
 
@@ -984,6 +1004,26 @@ La intervención no afectará los derechos adquiridos por terceros de buena fe r
 El Permisionario podrá solicitar la terminación de la intervención, cuando demuestre que las causas que la ocasionaron ya fueron subsanadas o erradicadas.
 
 Si transcurrido el plazo de la intervención, el Permisionario no está en condiciones de continuar con sus obligaciones, la autoridad procederá a la revocación del permiso.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MAYO DE 2021)</small>
+
+###### Artículo 59 Bis.
+
+La Secretaría de Energía y la Comisión Reguladora de Energía podrán, en el ámbito de sus respectivas competencias, suspender los permisos expedidos en los términos establecidos en esta Ley, cuando se prevea un peligro inminente para la seguridad nacional, la seguridad energética o para la economía nacional.
+
+La autoridad que lo haya expedido integrará y tramitará el expediente de suspensión del permiso, a fin de garantizar los intereses de los usuarios finales y consumidores, quedando a salvo los derechos de los terceros y el interés del Estado.
+
+La suspensión requerirá la notificación previa al Permisionario indicando las causas que motivan la suspensión, las razones por las cuales se estima procedente y la afectación que podría darse en caso de que continúen los actos que ampare el permiso. Una vez realizada la notificación, el Permisionario contará con un plazo de quince días naturales, contados a partir de la fecha de la notificación, para exponer lo que a su derecho convenga y aportar, en su caso, las pruebas que estime pertinentes.
+
+Transcurrido el plazo de quince días a que se refiere el párrafo anterior, la autoridad que haya otorgado el permiso contará con un plazo de quince días naturales para resolver, considerando los argumentos y pruebas que, en su caso, hubiere hecho valer el Permisionario. La determinación de suspender o no el permiso deberá ser debidamente fundada, motivada y notificada al Permisionario, sin perjuicio de las infracciones y responsabilidades en las que, en su caso, este último incurra.
+
+La autoridad que haya emitido el permiso se hará cargo de la administración y operación del Permisionario, para la continuidad en la operación de las actividades que ampare el permiso, a fin de garantizar los intereses de los usuarios finales y consumidores, quedando a salvo los derechos de los terceros. Al efecto, podrá utilizar al personal que el Permisionario venía utilizando, contratar a un nuevo operador o una combinación de las anteriores.
+
+La suspensión tendrá la duración que la autoridad determine.
+
+El Permisionario podrá solicitar a la autoridad que haya expedido el permiso la terminación de la suspensión, cuando demuestre que las causas que la ocasionaron ya fueron subsanadas o erradicadas, o han desaparecido, siempre y cuando la causa no tenga origen en un acto ilícito en la comercialización y/o Transporte o alteración de los componentes del combustible.
+
+Si transcurrido el plazo de la suspensión, el Permisionario no está en condiciones de continuar con sus obligaciones, la autoridad procederá a la revocación del permiso.
 
 ### Capítulo II. De los Sistemas Integrados
 
@@ -1424,6 +1464,10 @@ h) La modificación de las condiciones técnicas de sistemas, ductos, instalacio
 i) La realización de actividades en el ámbito de su regulación sin permiso vigente o autorización, con multa de entre ciento cincuenta mil a cuatrocientas cincuenta mil veces el importe del salario mínimo, y
 
 j) Las demás violaciones al Título Tercero de esta Ley y a sus disposiciones reglamentarias, así como a la regulación, lineamientos y disposiciones administrativas competencia de la Comisión Reguladora de Energía, serán sancionadas con multa de entre quince mil a cuatrocientas cincuenta mil veces el importe del salario mínimo;
+
+> <small>(ADICIONADO, D.O.F. 4 DE MAYO DE 2021)</small>
+
+Tratándose de las infracciones previstas en los incisos a) y h) de esta fracción, en caso de reincidencia, además de las sanciones señaladas en la presente Ley, se revocará el permiso respectivo;
 
 III. Las Secretarías de Energía y de Economía o la Comisión Reguladora de Energía sancionarán, en el ámbito de sus competencias:
 
@@ -2304,3 +2348,21 @@ A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales n
 Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
 
 Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
+
+D.O.F. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HIDROCARBUROS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Todos aquellos permisionarios que pudieran ser perjudicados en su esfera jurídica y sus derechos, podrán solicitar en el marco de la normatividad de la materia correspondiente, el pago de las afectaciones correspondientes.
+
+Cuarto. La autoridad competente procederá a la revocación de aquellos permisos que, a la fecha de entrada en vigor del presente Decreto, incumplan con el requisito de almacenamiento determinado por la Secretaría de Energía conforme a las disposiciones jurídicas aplicables.
+
+Quinto. La autoridad competente privará de efectos jurídicos a los permisos que hayan caducado en términos de lo dispuesto en el artículo 55, fracción I, incisos a) y b) de la Ley de Hidrocarburos.
+
+Sexto. A la entrada en vigor del presente Decreto se revocarán los permisos respecto de los cuales se compruebe que sus titulares no cumplen con los requisitos correspondientes o que infrinjan las disposiciones de la Ley de Hidrocarburos.
+
+Séptimo. A la entrada en vigor del presente Decreto, la Comisión Reguladora de Energía y el Servicio de Administración Tributaria, en el ámbito de sus respectivas competencias, llevarán a cabo los actos conducentes para verificar el cumplimiento de las disposiciones aplicables en materia de medición de hidrocarburos, petrolíferos y petroquímicos, de conformidad con lo previsto en las disposiciones jurídicas correspondientes.
