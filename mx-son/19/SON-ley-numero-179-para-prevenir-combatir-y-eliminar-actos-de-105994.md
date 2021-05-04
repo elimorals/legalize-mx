@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-179-para-prevenir-combatir-y-eliminar-actos-de-10599
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-24"
-last_updated: "2015-12-17"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE MAYO DE 2021.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 24 de noviembre de 2014.
 
@@ -371,6 +371,44 @@ IV.- La publicación íntegra de la recomendación por la Comisión a través de
 
 A las instituciones públicas que se distingan por llevar a cabo programas y medidas para prevenir la discriminación, la Comisión otorgará un reconocimiento por sus prácticas. El reconocimiento será otorgado previa solicitud de parte interesada, en su caso, la Comisión llevará a cabo una verificación.
 
+> <small>(ADICIONADO, B.O. 4 DE MAYO DE 2021)</small>
+
+###### Artículo 30.
+
+A efecto de evitar la discriminación laboral por motivos de edad, embarazo y apariencia física dentro del Sector Público y Privado en el Estado de Sonora, la Comisión se coordinará con la Secretaría del Trabajo del Estado para la implementación de campañas de concientización y cualquier tipo de acción que inhiba ese tipo de discriminación.
+
+> <small>(ADICIONADO, B.O. 4 DE MAYO DE 2021)</small>
+
+###### Artículo 31.
+
+La Comisión, en coordinación con la Secretaría del Trabajo del Estado, se reunirá semestralmente con las cámaras empresariales en el Estado, con la finalidad de evaluar las acciones que se han implementado para evitar actos de discriminación por motivos de edad. La Comisión deberá elaborar un informe anual de dichas acciones, mismo que deberá ser entregado ante el Congreso del Estado, a más tardar el 31 de marzo del año de cada año
+
+> <small>(ADICIONADO, B.O. 4 DE MAYO DE 2021)</small>
+
+###### Artículo 32.
+
+Cualquier persona física o moral que vaya a publicar ofertas de trabajo a través de cualquier medio de difusión, sea revista, periódico o cualquier medio electrónico, deberá notificarlo a la Secretaría del Trabajo del Estado, con la finalidad de que la misma constate que la publicación sobre una oferta de trabajo, no restringe el acceso a la oportunidad de trabajo por motivos de edad, aspecto físico y que no se exija a las mujeres un examen de embarazo.
+
+> <small>(ADICIONADO, B.O. 4 DE MAYO DE 2021)</small>
+
+###### Artículo 33.
+
+La Secretaría del Trabajo del Estado, impondrá una multa por el equivalente de 35 a 70 veces la Unidad de Medida y Actualización Vigente, a la persona física o moral que publique por cualquier medio informativo una oferta de trabajo en la cual restrinja el acceso a la oportunidad de trabajo por motivos de edad.
+
+En caso de reincidencia, el infractor deberá ser multado con el monto que como máximo señala el párrafo anterior.
+
+> <small>(ADICIONADO, B.O. 4 DE MAYO DE 2021)</small>
+
+###### Artículo 34.
+
+Los recursos que se recauden con motivo de la imposición de la multa anteriormente aludida, se destinarán a un fondo para la implementación de campañas de concientización y capacitación sobre discriminación laboral.
+
+> <small>(ADICIONADO, B.O. 4 DE MAYO DE 2021)</small>
+
+###### Artículo 35.
+
+Los sindicatos de trabajadores al servicio del Estado y los Municipios deberán designar un trabajador en cada fuente de trabajo para que sea la encargada o encargado de denunciar ante la Secretaría del Trabajo del Estado, cualquier acto de discriminación laboral por motivos de edad, embarazo o aspecto físico.
+
 ## TRANSITORIOS
 
 Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
@@ -392,3 +430,11 @@ B.O. 17 DE DICIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 193, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
