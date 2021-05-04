@@ -4,7 +4,7 @@ identifier: "LGCDC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2017-06-19"
-last_updated: "2017-06-19"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121955&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCDC"
 
 LEY GENERAL DE CULTURA Y DERECHOS CULTURALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MAYO DE 2021.
 
 Ley publicada en la Primera Sección al número 14 del Diario Oficial de la Federación, el lunes 19 de junio de 2017.
 
@@ -346,9 +346,11 @@ Los integrantes de la Reunión Nacional de Cultura actuarán bajo los principios
 
 Las sesiones de la Reunión Nacional de Cultura serán presididas por el titular de la Secretaría de Cultura, quien también coordinará los trabajos y la preparación de los mismos.
 
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2021)</small>
+
 ###### Artículo 35.
 
-En la Reunión Nacional de Cultura podrán participar representantes de agrupaciones dedicadas a la creación, difusión o investigación de expresiones y manifestaciones de la cultura y de las organizaciones de la sociedad civil de conformidad con la agenda de trabajo y a invitación expresa.
+En la Reunión Nacional de Cultura podrán participar representantes de agrupaciones dedicadas a la creación, difusión o investigación de expresiones y manifestaciones de la cultura, de las organizaciones de la sociedad civil y los integrantes de la Comisión de Cultura y Cinematografía de la Cámara de Diputados, de conformidad con la agenda de trabajo y a invitación expresa.
 
 ###### Artículo 36.
 
@@ -403,3 +405,11 @@ SEXTO. Las disposiciones de esta Ley que hagan referencias a las alcaldías de l
 Ciudad de México, a 28 de abril de 2017.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 35 DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
