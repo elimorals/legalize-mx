@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "2021-04-13"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2021.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -239,7 +239,9 @@ VII. Regresar al puesto que desempeñaban, computándose en su antigüedad los p
 
 ARTICULO 22 BIS. Los hombres trabajadores esposos o concubinos tendrán los siguientes derechos:
 
-I. Disfrutar a partir del nacimiento de sus hijos e hijas, de diez días naturales de permiso con goce de sueldo para asistir a su esposa o concubina en el puerperio; y,
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
+
+I. Disfrutar a partir del nacimiento de sus hijos e hijas, de 20 días naturales de permiso con goce de sueldo para asistir a su esposa o concubina en el puerperio, así como para convivir con el recién nacido; este permiso aumentará hasta en 60 días hábiles en caso de que la madre fallezca durante el parto, o derivado de éste se origine un daño grave en su salud; y,
 
 II. Regresar al puesto que desempeñaban, computándose en su antigüedad los períodos de descanso que por razón del nacimiento de su hijo o hija se le hayan otorgado.
 
@@ -1158,3 +1160,9 @@ P.O. 13 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 522 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3° Y 36 FRACCIÓN VI DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
+
+P.O. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 519.- SE REFORMA EL ARTÍCULO 22 BIS, FRACCIÓN I, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
