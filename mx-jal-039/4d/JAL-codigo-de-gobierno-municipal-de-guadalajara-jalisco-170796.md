@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2021-04-28"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 28 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 4 DE MAYO DE 2021.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -1823,6 +1823,8 @@ f) Coadyuvar en la implementación y operación del Presupuesto basado en Result
 
 Presidencia Municipal, Coordinación General de Servicios Públicos Municipales y la Coordinación General de Gestión Integral de la Ciudad cuentan con el área de inspectores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 4 DE MAYO DE 2021)</small>
+
 ###### Artículo 130.
 
 Las y los titulares de la administración pública, respecto de la dependencia a su cargo cuentan con las atribuciones comunes siguientes:
@@ -1849,9 +1851,9 @@ IX. Organizar, conservar, custodiar, depurar y remitir al Archivo Municipal la d
 
 X. Solicitar informes a la administración pública para la atención de los asuntos de su competencia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 17 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, G.M. 4 DE MAYO DE 2021)</small>
 
-XI. Delegar sus atribuciones en las y los servidores públicos de las dependencias y áreas a su cargo; y
+XI. Delegar sus atribuciones a las y los servidores públicos de las dependencias y áreas a su cargo; o en su caso, de los entes públicos Estatales y Federales, previo convenio que autorice el Pleno del Ayuntamiento en las materias que en el mismo se determinen; y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], G.M. 17 DE JUNIO DE 2020)</small>
 
@@ -6310,3 +6312,13 @@ Tercero. Se instruye a la Contraloría Ciudadana para que (sic) el ámbito de su
 Cuarto. Instrúyase a la Secretaría General del Ayuntamiento, para que en cuanto entre en vigencia el presente ordenamiento realice la modificación y adecuación de la papelería y documentos oficiales del área de Inspección y Vigilancia a su cargo.
 
 Quinto. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA".]
+
+Primero. Publíquese la presente reforma en la Gaceta Municipal de Guadalajara.
+
+Segundo. La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicada la presente reforma, remítase mediante oficio un tanto de ella al Congreso del Estado de Jalisco para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
