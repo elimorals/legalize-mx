@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2021-04-30"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TLA"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE ABRIL DE 2022 EN EL P.O. DEL ESTADO DE TLAXCALA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2021.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -1161,15 +1163,9 @@ XXV. Instruir al organismo público local electoral, para que proceda a efectuar
 
 XXVI. Nombrar al Procurador General de Justicia del Estado;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
 
-XXVII. Nombrar, evaluar y, en su caso, ratificar a los magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, sujetándose a los términos que establecen esta Constitución y la Ley Orgánica del Poder Legislativo del Estado, salvaguardando en los procesos, los principios de excelencia, objetividad, imparcialidad, profesionalismo, acceso a la información, publicidad, equidad e independencia del Poder Judicial del Estado.
-
-En el procedimiento referido en el párrafo que antecede se deberán observar las bases siguientes:
-
-a) Una vez cumplido el plazo para el que fueron designados, los Magistrados podrán ser ratificados por un periodo igual. El Congreso con la aprobación de las dos terceras partes del total de los diputados que integren la Legislatura y previa opinión del Consejo de la Judicatura sobre el desempeño del Magistrado correspondiente, resolverá sobre la ratificación o remoción, con anticipación de noventa días naturales a la fecha en que expire el plazo de ejercicio;
-
-b) En caso de que exista la necesidad de designar a un nuevo o nuevos Magistrados, se atenderá lo dispuesto en los artículos 83, 84 y 84 Bis de esta Constitución y en la Ley Orgánica del Poder Legislativo del Estado;
+XXVII. Nombrar, evaluar y, en su caso, ratificar a los magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, sujetándose a los términos que establezca esta Constitución y la Ley Orgánica del Poder Legislativo del Estado, salvaguardando en los procesos, los principios de excelencia, objetividad, imparcialidad, profesionalismo, acceso a la información, publicidad, equidad, paridad de género e independencia del Poder Judicial del Estado.
 
 XXVIII. Elegir a los miembros del Consejo Consultivo de la Comisión Estatal de Derechos Humanos;
 
@@ -1521,9 +1517,9 @@ XI. Ejecutar o mandar ejecutar las sentencias y resoluciones pronunciadas por lo
 
 XII. Auxiliar a los Ayuntamientos en el ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
 
-XIII. Nombrar y remover libremente a los Secretarios del Ejecutivo, Oficial Mayor de Gobierno, y a todos los demás servidores públicos del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las Leyes;
+XIII. Nombrar y remover con apego al principio de paridad de género, a los secretarios del Ejecutivo, Oficial Mayor de Gobierno, y a todos los demás servidores públicos del estado, cuyo nombramiento no estén determinados de otro modo en esta Constitución o en las leyes;
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -1750,6 +1746,10 @@ El Poder Judicial residirá en la Capital del Estado, sin perjuicio de que para 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 El Tribunal Superior de Justicia funcionará en Pleno y en dos Salas para atender los asuntos de su competencia y las necesidades de los justiciables; se integrará por siete magistrados propietarios, incluyendo a su Presidente, quien no integrará Sala.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2021)</small>
+
+En la integración del Tribunal Superior de Justicia se observará el principio de paridad de género, por lo que no habrá más de cuatro magistrados del mismo sexo.
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
@@ -1997,6 +1997,10 @@ ARTICULO 84 BIS.- El Tribunal de Justicia Administrativa del Estado de Tlaxcala 
 
 El Tribunal de Justicia Administrativa del Estado de Tlaxcala estará integrado por tres magistrados, propuestos por el Gobernador del Estado y ratificados por el voto de las dos terceras partes del total de los integrantes de la Legislatura del Congreso del Estado; la propuesta y ratificación se sujetarán al procedimiento establecido para el nombramiento de los Magistrados del Tribunal Superior de Justicia del Estado. Durarán en su cargo seis años y sólo podrán ser removidos de su cargo por las causas graves que señale la ley.
 
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2021)</small>
+
+En las propuestas y designaciones de los Magistrados del Tribunal de Justicia Administrativa y, por ende, en la integración de éste, se respetará el principio de paridad de género.
+
 Para ser Magistrado del Tribunal de Justicia Administrativa del Estado se deberán cumplir los mismos requisitos que para ser nombrado Magistrado del Tribunal Superior de Justicia del Estado.
 
 El Tribunal propondrá su presupuesto al Presidente del Tribunal Superior de Justicia para su inclusión en el proyecto de Presupuesto del Poder Judicial del Estado. Asimismo, el Tribunal deberá expedir su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
@@ -2043,9 +2047,9 @@ Las demás facultades y obligaciones del presidente así como aquellas para el f
 
 Los consejeros, serán designados en términos de la presente Constitución y, a excepción del Presidente, durarán en el cargo tres años, y podrán ser ratificados única y exclusivamente por un período igual al que fueron nombrados, previa evaluación, y entrevista practicadas por quien los designó, de conformidad con los lineamientos que para tal efecto emita. Los consejeros no representarán a quien los designa y ejercerán su función con independencia e imparcialidad, durante su encargo sólo podrán ser removidos en los términos del Título XI de la presente Constitución.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2021)</small>
 
-El Consejo de la Judicatura será responsable de implementar el sistema de carrera judicial, con auxilio del instituto de capacitación de la judicatura, bajo los principios de legalidad, excelencia, objetividad, imparcialidad, profesionalismo e independencia; nombrará y removerá a los servidores públicos del Poder Judicial con excepción de los magistrados, asimismo les concederá licencia y resolverá sobre la renuncia que presenten, en los términos que establezca la ley.
+El Consejo de la Judicatura será responsable de implementar el sistema de carrera judicial, con auxilio del instituto de capacitación de la judicatura, bajo los principios de legalidad, excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género; nombrará y removerá a los servidores públicos del Poder Judicial con excepción de los magistrados, asimismo les concederá licencia y resolverá sobre la renuncia que presenten, en los términos que establezca la Ley.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -2070,6 +2074,8 @@ Las decisiones o resoluciones del Consejo serán impugnadas por la vía administ
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO II. DE LA COMISION ESTATAL DE DERECHOS HUMANOS
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2021)</small>
 
@@ -2212,6 +2218,10 @@ Si a partir de la instalación del ayuntamiento alguno de sus integrantes dejare
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 Las relaciones de trabajo entre los municipios y sus trabajadores se regirán por las leyes que expida el Congreso, con base en lo dispuesto en los artículos 115 y 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2021)</small>
+
+La designación de puestos directivos en los municipios se llevará a cabo en condiciones de equidad, buscando alcanzar el 50% de cada género, a fin de garantizar la paridad de género.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -2519,9 +2529,9 @@ Los poderes públicos estatales, los ayuntamientos, los órganos constitucionale
 
 Se dotará al Instituto de la estructura administrativa y de los recursos necesarios para el ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2021)</small>
 
-El Instituto contará con un Pleno integrado por tres comisionados propietarios y sus respectivos suplentes, mismos que serán electos por el voto de las dos terceras partes de los diputados integrantes de la Legislatura que corresponda, mediante convocatoria pública abierta, expedida por el Congreso del Estado en la forma y términos que la Ley señale. En la conformación del organismo garante se procurará la equidad de género y se privilegiará la experiencia en materia de acceso a la información pública y protección de datos personales.
+El Instituto contará con un Pleno integrado por tres comisionados propietarios y sus respectivos suplentes, mismos que serán electos por el voto de las dos terceras partes de los diputados integrantes de la Legislatura que corresponda, mediante convocatoria pública abierta, expedida por el Congreso del Estado en la forma y términos que la Ley señale. En la conformación del organismo garante se observará el principio de paridad de género y se privilegiará la experiencia en materia de acceso a la información pública y protección de datos personales.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
 
@@ -2555,7 +2565,9 @@ Para el cumplimiento de su objeto, el Sistema Anticorrupción del Estado de Tlax
 
 I. Contará con un Comité Coordinador que estará integrado por los titulares del Órgano de Fiscalización Superior , de la Fiscalía Especializada en Combate a la Corrupción, de la Contraloría del Ejecutivo, del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado; el Magistrado Presidente del Tribunal de Justicia Administrativa; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado y por un representante del Comité de Participación Ciudadana, quien lo presidirá.
 
-II. El Comité de Participación Ciudadana deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
+
+II. El Comité de Participación Ciudadana deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, bajo el principio de paridad de género, en los términos que establezca la Ley.
 
 III. Corresponderá al Comité Coordinador, en los términos que determine la ley:
 
@@ -3972,6 +3984,24 @@ En términos de lo previsto por el artículo 120 de la Constitución Política d
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que contravengan al presente Decreto.
+
+P.O. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 316.- SE REFORMAN LA FRACCIÓN XXVII DEL ARTÍCULO 54, LA FRACCIÓN XIII DEL ARTÍCULO 70, EL PÁRRAFO QUINTO DEL ARTÍCULO 85, EL PÁRRAFO QUINTO DEL ARTÍCULO 97 Y LA FRACCIÓN II DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 112 BIS; Y SE ADICIONAN UN PÁRRAFO CUARTO AL ARTÍCULO 79, RECORRIÉNDOSE EN SU ORDEN EL ACTUAL Y LOS SIGUIENTES, Y UN PÁRRAFO TERCERO AL ARTÍCULO 84 BIS, RECORRIÉNDOSE EN SU ORDEN EL ACTUAL Y EL SIGUIENTE, UN PÁRRAFO NOVENO AL ARTÍCULO 90; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado de Tlaxcala, para el debido cumplimiento a lo resuelto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Sin perjuicio de lo anterior, este Decreto será aplicable en términos de lo establecido en el artículo tercero transitorio del diverso de reformas y adiciones a la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el día seis de junio del año dos mil diecinueve.
 
 ###### ARTÍCULO TERCERO.
 
