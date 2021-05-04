@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-de-la-cultura-y-proteccion-del-patrimonio-86348"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-01"
-last_updated: "2021-03-01"
+last_updated: "2021-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE MAYO DE 2021.
 
 Ley publicada en la Sección VII del Boletín Oficial del Estado de Sonora, el jueves 1 de diciembre de 2011.
 
@@ -181,9 +181,9 @@ XVI.- Editar folletos, revistas y libros, así como producir y divulgar programa
 
 XVII.- Procurar un mayor aprovechamiento del potencial educativo y de la difusión cultural;
 
-> <small>(REFORMADA, B.O. 1 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, B.O. 4 DE MAYO DE 2021)</small>
 
-XVIII.- Elaborar y mantener actualizado un catálogo sobre el Patrimonio Cultural en términos de la presente ley;
+XVIII.- Elaborar, difundir, promover y mantener actualizado el Catálogo Cultural del Estado de Sonora, en términos de la presente ley, mediante las especificaciones que la propia institución indique; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 1 DE MARZO DE 2021)</small>
 
@@ -309,7 +309,7 @@ El Instituto y los municipios, dentro del ámbito de sus respectivas competencia
 
 Para el logro de dicho objetivo, se coordinará con los museos, universidades, archivos, bibliotecas y demás organismos de la sociedad civil y grupos étnicos, en general.
 
-El Ayuntamiento de cada Municipio consultará a críticos y especialistas sobre la calidad de la obra plástica que se proponga integrar al ámbito urbano, en plazas, jardines y edificios públicos, y que estará de manera permanente a la vista de los ciudadanos influyendo en la formación y reafirmación de valores cívicos y estéticos.
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 4 DE MAYO DE 2021)</small>
 
 > <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
 
@@ -381,6 +381,16 @@ El Cronista Municipal dependerá directamente de la Presidencia Municipal, quien
 
 Los Ayuntamientos, deberán de asignar en cada ejercicio fiscal una partida presupuestal suficiente para que los Cronistas Municipales cuenten con los recursos financieros, humanos y materiales suficientes para llevar a cabo las funciones señaladas en el artículo 19 Bis de la presente Ley.
 
+> <small>(ADICIONADO, B.O. 4 DE MAYO DE 2021)</small>
+
+ARTÍCULO 19 BIS 6.- El Instituto deberá fomentar las expresiones artísticas de la sociedad que se realicen en plazas, jardines y edificios públicos, con la finalidad de influir en la formación y reafirmación de valores cívicos, culturales y estéticos en la sociedad.
+
+Las obras plásticas como murales, pinturas, esculturas y grabados, que cuenten con valor cívico, cultural y estético, y que se encuentren integradas de manera permanente al ámbito urbano en espacios públicos, deberán ser incluidas en el Catálogo Cultural del Estado de Sonora. También podrán incluirse todas aquellas obras plásticas que se encuentren en espacios privados a la vista del público de manera permanente, siempre y cuando se cuente con la autorización expresa de su propietario.
+
+Cualquier ciudadano que considere que una obra plástica integrada de manera permanente al ámbito urbano, cuenta (sic) méritos suficientes para ser incluida en el Catálogo Cultural del Estado de Sonora, podrá hacer su propuesta por escrito al Ayuntamiento donde se localice la obra. Este último deberá remitir al Instituto, la solicitud y su opinión al respecto, en un plazo de diez días hábiles siguientes a la recepción de la propuesta.
+
+En un plazo de 60 días naturales contados a partir de la recepción de la solicitud, el Instituto, tomando en cuenta la opinión del Ayuntamiento respectivo, deberá valorar la calidad de la obra plástica que se proponga integrar al Catálogo Cultural del Estado de Sonora y deberá resolver la solicitud de manera fundada y motivada, aceptándola o rechazándola.
+
 ### CAPÍTULO VI. DE LOS PRESTADORES DE SERVICIOS CULTURALES
 
 ###### ARTÍCULO 20.
@@ -431,7 +441,9 @@ El Instituto y los ayuntamientos solo evaluarán y otorgarán validez a los trab
 
 El Gobernador del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, proveerán las disposiciones reglamentarias que sean necesarias para la investigación, preservación, promoción, fortalecimiento y difusión de las culturas y las artes de los pueblos indígenas sonorenses.
 
-La protección del patrimonio étnico también podrá llevarse a cabo a través de su declaración como patrimonio cultural estatal, por lo que se tendrá que incluir en el catálogo del patrimonio cultural mediante la aplicación, en cualquier caso, de las diversas expresiones de organización social de los grupos étnicos, para procurar la preservación de su patrimonio intangible.
+> <small>(REFORMADO, B.O. 4 DE MAYO DE 2021)</small>
+
+La protección del patrimonio étnico también podrá llevarse a cabo a través de su declaración como patrimonio cultural estatal, por lo que se tendrá que incluir en el Catálogo Cultural del Estado de Sonora mediante la aplicación, en cualquier caso, de las diversas expresiones de organización social de los grupos étnicos, para procurar la preservación de su patrimonio intangible.
 
 La protección del patrimonio étnico formará parte de una acción global dirigida a la protección del medio natural y el paisaje, así como de sus actividades tradicionales.
 
@@ -643,9 +655,11 @@ III.- En ningún supuesto se procederá a la demolición total; y
 
 IV.- Con el propósito de garantizar su accesibilidad al público, el Gobernador del Estado procurará celebrar los convenios respectivos con los propietarios de dichos bienes, quienes tendrán derecho a los estímulos que acuerde el Gobernador del Estado y los ayuntamientos de conformidad con las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 56.
 
-El Instituto deberá llevar un catalogo actualizado de los bienes declarados patrimonio cultural y sus propietarios, poseedores o usuarios.
+El Instituto deberá llevar un registro actualizado en el Catálogo Cultural del Estado de Sonora, de los bienes declarados patrimonio cultural y sus propietarios, poseedores o usuarios. Para ello se deberá otorgar, de manera obligatoria, los recursos presupuestarios anuales desde el Presupuesto de Egresos del Estado de Sonora mismos que harán posible el desarrollo anual del programa en mención.
 
 La declaratoria de que un bien inmueble es Patrimonio Cultural del Estado, deberá inscribirse además, en el Registro Público de la Propiedad y del Comercio.
 
@@ -713,9 +727,11 @@ Los programas de fomento y difusión de las fiestas y tradiciones populares que 
 
 El Gobernador del Estado velará porque todos aquellos productos derivados del uso y explotación del patrimonio cultural intangible se respeten y apliquen en beneficio de sus intérpretes, productores o autores, aportando recursos al Fondo Estatal para la Cultura y las Artes de Sonora a partir de la recaudación de los ingresos derivados de los derechos de autor.
 
+> <small>(REFORMADO, B.O. 4 DE MAYO DE 2021)</small>
+
 ###### ARTÍCULO 68.
 
-El Instituto elaborará un Catálogo de Patrimonio Cultural Intangible, el cual podrá indicar las manifestaciones tangibles que por la relación que guardan con aquéllas, sean sujetas de catalogación.
+El Instituto deberá registrar el Patrimonio Cultural Intangible en el Catálogo Cultural del Estado de Sonora, el cual podrá indicar las manifestaciones tangibles que por la relación que guardan con aquéllas, sean sujetas de catalogación. Será la propia institución quien, a partir de su operatividad y objeto, defina los elementos a considerar para que dichas manifestaciones sean catalogadas como patrimonio cultural intangible.
 
 ### CAPÍTULO XII. DEL PATRIMONIO CULTURAL POR DISPOSICIÓN DE LEY
 
@@ -739,11 +755,49 @@ Quedan excluidos del régimen de esta ley, los bienes propiedad de la Nación y 
 
 No obstante lo anterior, el Gobierno del Estado será coadyuvante en la protección de dichos bienes culturales y, en todo caso, deberá concurrir junto con la federación, en la restauración del legado histórico cultural de nuestra entidad, que ya ha sido declarado patrimonio por parte de la autoridad federal.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 4 DE MAYO DE 2021)</small>
+
+### CAPÍTULO XII BIS. DEL CATÁLOGO CULTURAL DEL ESTADO DE SONORA
+
+> <small>(ADICIONADO, B.O. 4 DE MAYO DE 2021)</small>
+
+ARTÍCULO 70 BIS.- El Instituto Sonorense de Cultura elaborará y mantendrá actualizado el Catálogo Cultural del Estado de Sonora, el cual deberá encontrarse permanentemente en línea con acceso público a través de un enlace en la página principal de su sitio oficial de internet, y deberá integrarse con:
+
+I.- El Patrimonio Cultural del Estado, tangible;
+
+II.- El Patrimonio Cultural Intangible;
+
+III.- Los recintos culturales y artísticos tanto estatales como municipales, y privados si se cuenta con el consentimiento de sus propietarios legales.
+
+IV.- Las ferias y festivales regionales, estatales o municipales de carácter cultural y artístico;
+
+V.- Las obras plásticas con valor cívico, estético y cultural, que se encuentren integradas de manera permanente al ámbito urbano, entre ellas murales, esculturas, monumentos, entre otra (sic);
+
+VI.- El inventario de Artes Visuales propiedad del Estado de Sonora y en posesión de cualquier dependencia, instancia u organismo estatal;
+
+VII.- El inventario de recursos físicos artesanales;
+
+VIII.- El padrón de artesanos del Estado;
+
+IX.- El Registro Estatal de Artistas y Creadores Sonorenses (RECREAS);
+
+X.- El padrón de prestadores de servicios culturales;
+
+XI.- El catálogo y directorio de las entidades públicas y direcciones municipales de cultura;
+
+> <small>(ADICIONADO, B.O. 4 DE MAYO DE 2021)</small>
+
+ARTÍCULO 70 BIS 1.- Los elementos del Catálogo Cultural del Estado de Sonora deberán organizarse de una manera sencilla que facilite su consulta por parte del público, clasificándose por apartados atendiendo a lo dispuesto en el artículo 70 BIS.
+
+Cada uno de los elementos del Catálogo Cultural del Estado de Sonora a que se refieren las fracciones de la I a la XII del artículo 70 BIS, deberá contar con una descripción detallada con fotografías ilustrativas y su ubicación georreferenciada en los casos que aplique.
+
+En el caso de los padrones a que se refieren las fracciones del IX al XII del artículo 70 BIS, se incluirá el nombre completo del artesano o del prestador de servicios culturales, su domicilio y datos de contacto, y una descripción detallada de los servicios que ofrece, considerando para ello las diversas disposiciones jurídicas estatales y federales en materia de protección de datos personales.
+
+> <small>(ADICIONADO, B.O. 4 DE MAYO DE 2021)</small>
+
+ARTÍCULO 70 BIS 2.- La Comisión de Fomento al Turismo del Estado de Sonora y los Ayuntamientos del Estado deberán mantener un enlace en la página principal de sus respectivos sitios oficiales de internet, a través de la cual el público pueda accesar directamente al sitio de internet del Catálogo Cultural del Estado de Sonora.
+
 ### CAPÍTULO XIII. DEL FOMENTO A LA LECTURA
-
-### CAPÍTULO XIV. DE LAS SANCIONES
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 71.
 
@@ -765,9 +819,9 @@ V.- Fomentar la promoción de libros, revistas y coediciones de carácter cultur
 
 VI.- Organizar concursos anuales en el estado dirigidos, principalmente, a los alumnos de educación básica y que tengan por objeto estimular la lectura.
 
-### CAPÍTULO XV. DEL RECURSO
+### CAPÍTULO XIV. DE LAS SANCIONES
 
-> <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 73.
 
@@ -853,6 +907,10 @@ II.- Quienes ordenen o hayan ordenado las acciones constitutivas de la violació
 
 (REUBICADO, B.O. 4 DE DICIEMBRE DE 2014)
 
+### CAPÍTULO XV. DEL RECURSO
+
+> <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 84.
 
 Contra las resoluciones dictadas con fundamento en las disposiciones de la presente ley y demás derivadas de ésta, podrá interponerse el recurso de inconformidad que establece la Ley de Procedimiento Administrativo del Estado de Sonora.
@@ -914,3 +972,17 @@ B.O. 1 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 4 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 192 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL EL ESTADO DE SONORA Y DE LA LEY ESTATAL DE TURISMO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Se exceptúa de lo anterior, el artículo segundo del presente Decreto, el cual entrará en vigor al día siguiente de la entrada en vigor de la Ley número 251, Estatal de Turismo de Sonora, aprobada por el Congreso del Estado de Sonora el día 25 de marzo de 2021.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto deberá elaborar el Catálogo Cultural del Estado de Sonora, ponerlo a disposición del público en su sitio oficial de internet y proporcionar la dirección de internet a los ayuntamientos del Estado y a la Comisión de Fomento al Turismo del Estado de Sonora, para los efectos del artículo 70 BIS 2 de la Ley de Fomento de la Cultura y Protección del Patrimonio Cultural del Estado de Sonora, dentro de un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto.
