@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2021-02-27"
+last_updated: "2021-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2021.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1139,29 +1139,37 @@ El día de su instalación, el Ayuntamiento determinará el número de comisione
 
 Las personas titulares de las Regidurías podrán formar parte de una o varias comisiones conforme al reglamento que se expida.
 
-Las Comisiones serán de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE MAYO DE 2021)</small>
 
-I.- Gobernación;
+Las Comisiones serán:
+
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2021)</small>
+
+I.- De Gobernación.
 
 II.- De Hacienda;
 
 III.- De Obras y Servicios Públicos;
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2021)</small>
 
-IV.- De Seguridad Pública;
+IV.- De Seguridad Pública.
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2012)</small>
 
 V.- De Educación y Cultura.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2021)</small>
 
-VI.- De igualdad de género; y
+VI.- De Igualdad de Género.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2021)</small>
 
-VII.- Además, aquellas otras que determine el Ayuntamiento, de acuerdo a las necesidades del municipio.
+VII.- De Desarrollo Rural.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE MAYO DE 2021)</small>
+
+VIII. Además, aquellas otras que determine el Ayuntamiento, de acuerdo a las necesidades del municipio.
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -5584,3 +5592,11 @@ El presente Decreto entrará en vigor el día diez de septiembre del año dos mi
 ###### ARTÍCULO SEGUNDO.
 
 En su caso, háganse las previsiones presupuestales con efectos a partir del ejercicio fiscal 2022.
+
+P.O. 5 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFCOD/1000/2021 II PO., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 31 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
