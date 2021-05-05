@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2021-04-29"
+last_updated: "2021-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2021.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -401,9 +401,7 @@ El Gobernador del Estado, en términos de lo dispuesto por el artículo 79, frac
 
 El Gobernador del Estado, además de las dependencias señaladas en el artículo 27 de esta Ley, contará con los siguientes Órganos Auxiliares que dependerán directamente de él:
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-I. Jefatura de la Gubernatura;
+I. (DEROGADA, P.O. 5 DE MAYO DE 2021)
 
 > <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
 
@@ -2283,47 +2281,9 @@ XXV. Las demás que en el ámbito de su competencia le confiera directamente el 
 
 ### CAPÍTULO V. DE LOS ÓRGANOS AUXILIARES
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
 ###### ARTÍCULO 50.
 
-A la Jefatura de la Gubernatura le corresponde el despacho de los siguientes asuntos:
-
-I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
-
-II. Dar seguimiento a los acuerdos, convenios y programas que suscriba el Gobernador del Estado;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-III. Establecer en coordinación con la Secretaría de Finanzas y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca los indicadores que permitan medir las variaciones del desarrollo del Estado de Oaxaca;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-IV. Fungir como Instancia Técnica de Evaluación; así como normar y establecer el Sistema de Evaluación del Desempeño para la evaluación del Plan Estatal de Desarrollo, los planes y programas que de él se deriven, en coordinación de las Dependencias y Entidades de la Administración Pública Estatal;
-
-V. Establecer los lineamientos generales e integrar el Informe Anual sobre la situación que guarda la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-VI. Remitir los informes de resultados de las evaluaciones realizadas, al Titular del Poder Ejecutivo y proponer las medidas correctivas que procedan; coordinándose para tal efecto, con las instancias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, con base en los lineamientos que emita para la integración del mismo;
-
-VII. Proponer al Gobernador del Estado programas y acciones orientados a la consecución de los objetivos del desarrollo en la entidad;
-
-VIII. Administrar el sistema de atención ciudadana y turnar las solicitudes a las dependencias y entidades de la Administración Pública Estatal, procurando su expedita resolución y llevar a cabo el seguimiento de éstas;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-IX. Efectuar el seguimiento a los aspectos susceptibles de mejora, derivados de las evaluaciones del desempeño de las Dependencias y Entidades;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-X. Fomentar la creación de capacidades para el seguimiento y evaluación del desempeño y los resultados, mediante la asesoría técnica permanente a las Dependencias y Entidades en la formulación de instrumentos de su medición;
-
-XI. (DEROGADA, P.O. 28 DE ENERO DE 2017)
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
+(DEROGADO, P.O. 5 DE MAYO DE 2021)
 
 > <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
 
@@ -3354,3 +3314,19 @@ SÉPTIMO. Las menciones contenidas en otras leyes, reglamentos y en general en c
 OCTAVO. El Poder Ejecutivo realizará las reformas a los Reglamentos Interiores de las Secretarías de Finanzas y de Administración, y a la demás normatividad aplicable, para el cumplimiento del presente Decreto, a más tardar 120 días hábiles a partir de la entrada en vigor del presente Decreto.
 
 NOVENO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga al presente Decreto, aún cuando no estén expresamente derogadas.
+
+P.O. 5 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2494.- MEDIANTE EL CUAL DEROGAN LA FRACCIÓN I DEL ARTÍCULO 33 Y EL ARTÍCULO 50, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese este Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se continuará respetando los derechos laborales adquiridos de los servidores públicos que llevan a cabo funciones dentro de la Jefatura de la Gubernatura.
+
+CUARTO. El despacho de los asuntos que le correspondían a la Jefatura de la Gubernatura, serán realizados por las instancias que se determinen en los instrumentos jurídicos correspondientes.
+
+QUINTO. Cuando en las diversas disposiciones normativas se refieran a la Jefatura de la Gubernatura, se entenderán que se encuentran a cargo de las instancias a que hace referencia el artículo anterior.
+
+SEXTO. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto a este Decreto.
