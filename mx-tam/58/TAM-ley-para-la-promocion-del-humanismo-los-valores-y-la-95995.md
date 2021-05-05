@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-promocion-del-humanismo-los-valores-y-la-95995"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-17"
-last_updated: "2013-09-17"
+last_updated: "2021-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95995&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA PROMOCIÓN DE LOS VALORES Y LA CULTURA DE LA LEGALIDAD DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 17 de septiembre de 2013.
 
@@ -78,6 +78,22 @@ VI. Ley: la Ley para la Promoción de los Valores y la Cultura de la Legalidad d
 VII. Programa: el Programa de la Promoción de los Valores y Cultura de la Legalidad del Estado de Tamaulipas; y,
 
 VIII. Valores: las convicciones del ser humano que determinan su comportamiento individual y social.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2021)</small>
+
+ARTÍCULO 4 BIS.
+
+Son principios rectores en la observancia, interpretación y aplicación de esta Ley:
+
+I.- El interés superior del Estado para fomentar los valores y la cultura de la legalidad;
+
+II.- El respeto irrestricto a los derechos humanos;
+
+III.- El reconocimiento de la familia como el núcleo de la sociedad y la primera célula transmisora de valores;
+
+IV.- La participación conjunta de los sectores público, privado y social en el fomento de los valores y la cultura de la legalidad, a fin de fortalecer nuestro estado de derecho; y
+
+V.- La construcción de ciudadanía a través de la instrumentación de procesos educativos y de formación cívica orientados a los propósitos sociales de paz, armonía, orden público, convivencia democrática, solidaridad y cohesión social de las y los tamaulipecos.
 
 ###### ARTÍCULO 5.
 
@@ -344,3 +360,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiocho días del mes de agosto del año dos mil trece.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DE "DECRETO LXIV-524 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 4 BIS A LA LEY PARA LA PROMOCIÓN DE LOS VALORES Y LA CULTURA DE LA LEGALIDAD DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
