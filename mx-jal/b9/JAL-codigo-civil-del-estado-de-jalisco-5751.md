@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2021-04-27"
+last_updated: "2021-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2021.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2547,11 +2547,11 @@ Si al declararse la ilegitimidad, la mujer está embarazada, se tomarán las pre
 
 El divorcio disuelve el vínculo matrimonial y deja a los que fueron cónyuges en aptitud de contraer otro.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2021)</small>
 
 ###### Art. 404.
 
-Son causas de divorcio:
+Procede el divorcio por:
 
 I. El mutuo consentimiento, o
 
@@ -2636,6 +2636,14 @@ VII. En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régi
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 El Juez resolverá atendiendo a las circunstancias especiales de cada caso.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2021)</small>
+
+Art. 406 bis.- Cuando ambos cónyuges convengan en divorciarse, podrán hacerlo a través de un método alterno de solución de conflictos en los términos de la Ley de Justicia Alternativa del Estado de Jalisco, para lo cual presentarán la solicitud de método alterno referente al divorcio acompañado del certificado médico expedido por la Secretaría de Salud en el que se dé cuenta sobre la gravidez o ingravidez de la cónyuge con un tiempo de expedición no mayor a 30 días naturales a la fecha de presentación de la solicitud, actas de matrimonio y nacimiento de los cónyuges, así como de los hijos si es el caso.
+
+El convenio final de método alterno deberá contener los puntos establecidos en el artículo que antecede.
+
+El Prestador del servicio, deberá atender las circunstancias especiales de cada caso, podrá apoyar a las partes a que logren un acuerdo equitativo, legal y conveniente, velando por el interés superior de la niñez, dando intervención a la Procuraduría de Protección de Niñas, Niños y Adolescentes, en términos del artículo 5 Bis de la Ley de Justicia Alternativa del Estado de Jalisco.
 
 ###### Art. 407.
 
@@ -3254,6 +3262,10 @@ Los padres pueden reconocer a su hijo, conjunta o separadamente.
 ###### Art. 497.
 
 El reconocimiento puede ser contradicho por un tercero interesado.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2021)</small>
+
+Dentro del procedimiento de contradicción de la paternidad, se atenderá el interés superior de la persona menor de edad sobre el derecho biológico de los padres, evaluando el entorno familiar conocido por el menor.
 
 ###### Art. 498.
 
@@ -4169,11 +4181,11 @@ III. Por la mayoría de edad de éste; y
 
 IV. Por la revocación de la adopción simple.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2021)</small>
 
 ###### Art. 598.
 
-La patria potestad se pierde:
+La patria potestad se pierde mediante resolución judicial en los siguientes casos:
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -4181,9 +4193,9 @@ I. Cuando quien la ejerce comete algún delito intencional que afecte a la perso
 
 II. Cuando el que la ejerce es condenado expresamente a su pérdida;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2021)</small>
 
-III. Cuando quien la ejerce, tenga conductas nocivas para la salud físico (sic) o psíquica de la persona menor de edad aunque tales no sean penalmente punibles, o consienta que terceras personas las realicen.
+III. Cuando quien la ejerce, tenga conductas nocivas para la salud física o psíquica, dignidad o la integridad de la persona menor de edad, aunque tales no sean penalmente punibles, o consienta que terceras personas las realicen; para efectos de esta fracción la disciplina correctiva moderada no se considera nociva;
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -5539,9 +5551,9 @@ VI. El lote destinado a la construcción de casa-habitación para la familia.
 
 El patrimonio de familia puede ser constituido por cualesquiera de los miembros de ésta, entendiéndose por familia para los efectos de este capítulo a todo grupo de personas que habitan una misma casa, se encuentren unidos por vínculo de matrimonio o concubinato o lazos de parentesco consanguíneo y que por la ley o voluntariamente, tengan unidad en la administración del hogar.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2021)</small>
 
-Para los efectos de este artículo, se entiende por concubinato el estado por el cual un hombre y una mujer solteros viven como si fueran cónyuges, durante cinco años o más. Se considera también concubinato cuando transcurridos tres años de iniciada esa unión, hubieren procreado entre sí algún hijo.
+Para los efectos de este artículo, se entiende por concubinato el estado por el cual un hombre y una mujer solteros viven como si fueran cónyuges, durante tres años o más. Se considera también concubinato cuando hubieren procreado entre sí algún hijo.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2000)</small>
 
@@ -17077,11 +17089,11 @@ Cuando sea ciego el testador, se dará lectura en voz alta al testamento dos vec
 
 En el caso de que el testador hubiere optado por el sistema de escritura Braille, él mismo realizará la segunda lectura, asentando este hecho en el instrumento público.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2021)</small>
 
 ###### Art. 2846.
 
-Concluido el acto lo deberán firmar el testador y los testigos en los casos a que se refiere este código y el notario, además el testador y los testigos si es el caso escribirán de su puño y letra su nombre debajo de su firma, y finalmente el testador estampará las dos huellas digitales de sus pulgares; en caso de que el interesado no cuente con alguno o ambos pulgares, se estampará cualquier otra de sus huellas digitales, debiéndose razonar esta circunstancia.
+Concluido el acto lo deberán firmar el testador y los testigos en los casos a que se refiere este código y el notario y finalmente el testador estampará sus dos huellas digitales; en caso de que el interesado no pueda estampar o no cuente con huellas digitales, se razonará esta circunstancia.
 
 ###### Art. 2847.
 
@@ -17613,7 +17625,9 @@ III. Presunción de influencia contraria a la libertad del testador o a la verda
 
 IV. Utilidad pública; y
 
-V. Renuncia o remoción de algún cargo conferido en el testamento.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2021)</small>
+
+V. Renuncia o remoción de algún cargo conferido en el testamento, siempre y cuando el desempeño del mismo sea condicionante para heredar.
 
 ###### Art. 2955.
 
@@ -17713,13 +17727,15 @@ La herencia o legado que se deje a un establecimiento público, imponiéndose al
 
 Las disposiciones testamentarias hechas a favor de la beneficencia se regirán por la ley del organismo titular de la asistencia social en el Estado. Las hechas a favor de los pobres en general, o de clases formadas por número ilimitado de beneficiarios, tales como huérfanos, los ancianos o los ciegos, sin especificar a personas determinadas, se entenderán hechas a la asistencia social para los fines de sus funciones y, las hechas a favor de las iglesias, asociaciones religiosas, agrupaciones religiosas o culto público, se sujetarán a lo dispuesto en el artículo 27 y 130 de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2021)</small>
+
 ###### Art. 2972.
 
-Por renuncia o remoción de un cargo, son incapaces de heredar por testamento, los que, nombrados en él tutores, curadores o albaceas, hayan rehusado, sin justa causa, el cargo, o que por mala conducta hayan sido separados judicialmente de su ejercicio.
+Son incapaces de heredar por testamento, los que, nombrados en él tutores, curadores o albaceas, por mala conducta hayan sido separados judicialmente de su ejercicio.
 
 ###### Art. 2973.
 
-Lo dispuesto en la primera parte del artículo anterior, no comprende a los que, desechada por el juez la excusa, hayan servido el cargo, ni cuando la remoción tenga como causa exclusiva la expiración del término para su ejercicio sin haber culpa de los involucrados en el cumplimiento de su deber.
+(DEROGADO, P.O. 6 DE MAYO DE 2021)
 
 ###### Art. 2974.
 
@@ -18013,6 +18029,10 @@ Cuando no exista albacea definitivo, y sea necesario conservar o defender los in
 
 El testador puede nombrar uno o más albaceas.
 
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2021)</small>
+
+En los casos en que el testador nombre como albacea a uno de los designados como herederos, deberá establecerse de forma expresa en el mismo testamento si es condición para heredar la aceptación o no del cargo.
+
 ###### Art. 3024.
 
 Cuando el testador no hubiere designado albacea o el nombrado no desempeñare el cargo, los herederos elegirán albacea por mayoría de votos. Por los herederos menores votarán sus legítimos representantes.
@@ -18079,13 +18099,13 @@ En los casos de suma urgencia, puede uno de los albaceas mancomunados practicar,
 
 El cargo de albacea es voluntario; pero el que lo acepte se constituye en la obligación de desempeñarlo.
 
-###### Art. 3038.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2021)</small>
 
-El albacea que renuncie sin justa causa, perderá lo que le hubiere dejado el testador. Lo mismo sucederá cuando la renuncia sea por justa causa, si lo que se deja al albacea es con el exclusivo objeto de remunerarlo por el desempeño del cargo; y cuando estando presente no desempeñe el cargo mientras se decide la excusa.
+Art.- 3038.- El albacea, tutor o curador que no acepte el cargo, la excusa sea injustificada o renuncie sin justa causa, perderá lo que le hubiere dejado el testador únicamente cuando sea condición en el testamento la aceptación o el ejercicio del cargo para recibir lo que le corresponde. Lo mismo sucederá cuando estando presente no desempeñe el cargo mientras se decide la excusa.
 
-###### Art. 3039.
+En caso de que el testamento no señale la condición prevista en el párrafo anterior, se entenderá que no es condición para recibir lo que le hubiera dejado, salvo que lo que le dejó el testador corresponda única y exclusivamente a la remuneración en contraprestación por el servicio brindado.
 
-El albacea que presentare excusas, deberá hacerlo dentro de los seis días siguientes a aquél en que tuvo noticia de su nombramiento: o si éste le era conocido, dentro de los seis días siguientes a aquél en que tuvo noticia de la muerte del testador. Si presenta sus excusas fuera del término señalado, responderá de los daños y perjuicios que ocasione.
+Art.- 3039. (DEROGADO, P.O. 6 DE MAYO DE 2021)
 
 ###### Art. 3040.
 
@@ -18101,7 +18121,13 @@ IV. Los que por el mal estado habitual de salud o por no saber leer ni escribir,
 
 V. Los que tengan setenta años cumplidos; y
 
-VI. Los que tengan a su cargo otro albaceazgo.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2021)</small>
+
+VI. Los que tengan a su cargo otro albaceazgo; y
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2021)</small>
+
+VII. Los que tengan residencia fuera del Estado de Jalisco.
 
 ###### Art. 3041.
 
@@ -18183,9 +18209,11 @@ Cuando el albacea fuere coheredero y su porción baste para garantizar conforme 
 
 El testador no puede librar al albacea de la obligación de garantizar su manejo; pero los herederos, sean testamentarios o legítimos, tienen derecho de dispensar al albacea del cumplimiento de esa obligación.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 28391/LXII/21, PUBLICADO EN EL P.O. DE 6 DE MAYO DE 2021, PÁGINAS 3 Y 6.]</small>
+
 ###### Art. 3053.
 
-Si el albacea ha sido nombrado en testamento y lo tiene en su poder, debe presentarlo al juzgado dentro de los ocho días siguientes a la muerte del testador.
+[ ... ] (SIC) (DEROGADO, P.O. 6 DE MAYO DE 2021)
 
 ###### Art. 3054.
 
@@ -18392,6 +18420,12 @@ VII. Por remoción.
 ###### Art. 3096.
 
 La revocación puede hacerse por los herederos en cualquier tiempo, pero en el mismo acto debe nombrarse al sustituto.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2021)</small>
+
+###### Art. 3096 Bis.
+
+El albacea que haya sido nombrado por el testador en el testamento sólo podrá ser removido por los herederos cuando se acrediten judicialmente las causas señaladas en la ley.
 
 ### CAPITULO VIII. De la partición
 
@@ -19406,3 +19440,9 @@ P.O. 27 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28380/LXII/21 QUE REFORMA LOS ARTÍCULOS 2842 Y 2843 (SIC) Y ADICIONA LOS ARTÍCULOS 180 BIS, 199 BIS, 231 BIS, 1018 BIS, 1025 BIS Y 2841 BIS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28391/LXII/21 QUE REFORMA LOS ARTÍCULOS 404, 598, 778, 2846, 2954, 2972, 3023, 3038 Y 3040; ADICIONA EL ARTÍCULO 406 BIS; UN PÁRRAFO AL ARTÍCULO 497 Y EL ARTÍCULO 3096 BIS; Y DEROGA LOS ARTÍCULOS 2973, 3039 Y 3053 TODAS LAS ANTERIORES DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
