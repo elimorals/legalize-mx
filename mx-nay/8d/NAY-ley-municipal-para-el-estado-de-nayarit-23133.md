@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2021-04-16"
+last_updated: "2021-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2021.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -1229,15 +1229,25 @@ IX.- De Cultura y Deporte;
 
 X.- De Desarrollo Económico;
 
-XI.- De Asuntos Constitucionales y Reglamentos; y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2018)</small>
+XI.- De Asuntos Constitucionales y Reglamentos;
 
-XII.- De Transparencia Gubernamental y Protección de Datos Personales, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE ABRIL DE 2018)</small>
+XII.- De Transparencia Gubernamental y Protección de Datos Personales;
 
-XIII.- Las demás que determine el Ayuntamiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2021)</small>
+
+XIII.- De Igualdad de Género y Familia;
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2021)</small>
+
+XIV.- De Niñez y Juventud, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE MAYO DE 2021)</small>
+
+XV.- Las demás que determine el Ayuntamiento.
 
 ###### ARTICULO 80.
 
@@ -1817,13 +1827,21 @@ La administración municipal comprenderá esencialmente, de manera declarativa y
 
 10.- Dirección de Protección Civil;
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE MAYO DE 2021)</small>
 
 11.- Dirección de Registro Civil;
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-12.- Dirección de Asuntos Jurídicos.
+12.- Dirección de Asuntos Jurídicos;
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2021)</small>
+
+13.- Instituto Municipal de la Mujer, y
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2021)</small>
+
+14.- Instituto Municipal de la Juventud.
 
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
 
@@ -4470,3 +4488,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los Ayuntamientos del Estado de Nayarit, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán realizar las reformas y adecuaciones a los reglamentos correspondientes, a fin de armonizarlos con lo dispuesto en el presente Decreto.
 
 TERCERO.- Comuníquese el presente Decreto, a los veinte Ayuntamientos del Estado de Nayarit, para los efectos conducentes.
+
+P.O. 7 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE IGUALDAD DE GÉNERO Y FAMILIA Y DE NIÑEZ Y JUVENTUD".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Los Ayuntamientos del Estado de Nayarit, contarán con sesenta días naturales a partir de la entrada en vigor del presente Decreto, para integrar las Comisiones Ordinarias de Igualdad de Género y Familia; y de Niñez y Juventud, así como para realizar las adecuaciones reglamentarias correspondientes.
+
+TERCERO.- Los Ayuntamientos del Estado de Nayarit, contemplarán dentro de sus estructuras orgánicas y presupuestarias a los Institutos Municipales de la Mujer y de la Juventud, a partir del ejercicio fiscal de 2022, en consecuencia, tendrán hasta el 30 de abril de ese año para expedir la reglamentación interna de los Institutos.
+
+CUARTO.- Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado de Nayarit, para los efectos legales conducentes.
