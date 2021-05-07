@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-ganadero-del-estado-de-sinaloa-33344"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-30"
-last_updated: "2016-12-28"
+last_updated: "2021-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DEL DESARROLLO GANADERO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2021.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 30 de julio de 2003.
 
@@ -41,21 +41,33 @@ LEY DE DESARROLLO GANADERO DEL ESTADO DE SINALOA
 
 ### Capítulo I. Del objeto y aplicación de la Ley
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés general y observancia obligatoria en el Estado, establece las bases para la planeación, organización, producción, desarrollo, fomento y protección de la ganadería bovina, ovina, caprina, porcícola, avícola, apícola; y demás actividades de carácter pecuario, el mejoramiento y tecnificación de los sistemas de comercialización de los insumos, productos y subproductos de origen animal.
+La presente Ley es de orden público, interés general y observancia obligatoria en el Estado, establece las bases para la planeación, organización, producción, desarrollo, fomento y protección de la ganadería bovina, ovina, caprina, porcícola, avícola; y demás actividades de carácter pecuario, el mejoramiento y tecnificación de los sistemas de comercialización de los insumos, productos y subproductos de origen animal.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JUNIO DE 2015)</small>
 
 Son objetivos de esta Ley:
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+
 a) Establecer las formas y procedimientos para adquirir, transmitir, acreditar y proteger la propiedad ganadera, su movilización e Introducción al Estado y la de los productos y subproductos;
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
 
 b) Implementar las medidas de sanidad sin perjuicio de lo que prevengan las leyes federales y las Normas Oficiales Mexicanas;
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+
 c) Regular el establecimiento de servicios de certificación de calidad y origen del ganado, sus productos y subproductos;
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+
 d) La protección de las actividades pecuarias, de plagas y enfermedades que puedan afectarlas; y,
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
 
 e) Promover el desarrollo y fomento de financiamiento a organizaciones y agentes económicos.
 
@@ -67,9 +79,11 @@ Se considera de interés público la cría, producción, mejoramiento, protecci�
 
 Quedan comprendidas en las disposiciones de esta Ley las actividades de cría, reproducción, mejoramiento y explotación de animales domésticos, aprovechamiento de sus productos para la engorda, ordeña, trasquila, preparación, conservación o empaque y para todas aquellas otras especies susceptibles de explotación económica, con excepción de las que tengan como hábitat el medio acuático.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### Artículo 4.
 
-Son sujetos de las disposiciones del presente ordenamiento, todas aquellas personas físicas o morales que se dediquen a la ganadería en cualquiera de las modalidades que señale esta Ley y su Reglamento, así como las plantas que se dediquen al sacrificio e industrialización de productos relacionados con la actividad ganadera, laboratorios, comerciantes de ganado, estableros, procesadores y comercializadores de cárnicos, lácteos y mieles, así como quienes en forma habitual o accidental efectúen actos relacionados con el objeto de esta Ley.
+Son sujetos de las disposiciones del presente ordenamiento todas aquellas personas físicas o morales que se dediquen a la ganadería en cualquiera de las modalidades que señale esta Ley y su Reglamento, así como las plantas que se dediquen al sacrificio e industrialización de productos relacionados con la actividad ganadera, laboratorios, comerciantes de ganado, estableros, procesadores y comercializadores de cárnicos y lácteos, así como quienes en forma habitual o accidental efectúen actos relacionados con el objeto de esta Ley.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
 
@@ -125,13 +139,15 @@ La aplicación e interpretación administrativa de las disposiciones contenidas 
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Actividad ganadera: Conjunto de acciones, para la explotación racional de especies animales orientadas a la producción de carne, leche, huevo, miel, piel, lana y todas las otras de interés zootécnico, con la finalidad de satisfacer necesidades vitales o del desarrollo humano, o bien para su comercialización;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
 
-II. Apiarios: Al conjunto de colmenas instaladas en un lugar determinado;
+I. Actividad ganadera: Conjunto de acciones para la explotación racional de especies animales orientadas a la producción de carne, leche, huevo, piel, lana y todas las otras de interés zootécnico, con la finalidad de satisfacer necesidades vitales o del desarrollo humano, o bien para su comercialización;
 
-III. Apicultor: Toda persona física o moral que se dedique a la cría y explotación, producción o mejoramiento de las abejas;
+II. (DEROGADA, P.O. 7 DE MAYO DE 2021)
 
-IV. Apicultura: La actividad relativa a la cría, explotación y mejoramiento genético de las abejas, así como a la industrialización y comercialización de sus productos y subproductos;
+III. (DEROGADA, P.O. 7 DE MAYO DE 2021)
+
+IV. (DEROGADA, P.O. 7 DE MAYO DE 2021)
 
 V. Aves: Comprende las diversas especies animales utilizadas para la cría, reproducción y explotación de la avicultura, tales como gallinas, gallos, pollos, patos, gansos, avestruces, codornices, pavos, entre otras;
 
@@ -155,9 +171,7 @@ X. Certificado zoosanitario: Documento oficial expedido por la Secretaría de Ag
 
 XI. Clasificaciones: La determinación del grado de calidad del ganado, sus productos y subproductos de acuerdo con sus especificaciones;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
-
-XII. Colmena: La caja o cajón que se destina para habitación de las abejas a fin de que ahí finquen sus panales para el almacenamiento de miel;
+XII. (DEROGADA, P.O. 7 DE MAYO DE 2021)
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
@@ -441,7 +455,9 @@ VIII. Llevar un libro de registro de los rastros, empacadoras e instalaciones de
 
 Los productores de ganado mayor y menor, tendrán en todo momento el derecho de asociarse libre y voluntariamente de conformidad con el artículo 9 Constitucional y de acuerdo con la Ley de Organizaciones Ganaderas, su Reglamento y lo estipulado en la presente Ley.
 
-El Estado reconoce las organizaciones actualmente constituidas por los productores de ganado bovino, ovino, caprino, porcino, avícola, apícola y todas las demás especies pecuarias del Estado de Sinaloa, las que deberán regirse conforme a la Ley de Organizaciones Ganaderas y su Reglamento.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+El Estado reconoce las organizaciones actualmente constituidas por los productores de ganado bovino, ovino, caprino, porcino, avícola y todas las demás especies pecuarias del Estado de Sinaloa, las que deberán regirse conforme a la Ley de Organizaciones Ganaderas y su Reglamento.
 
 ###### Artículo 15.
 
@@ -507,13 +523,15 @@ Queda prohibido hacer aparecer como nacido en el Estado de Sinaloa ganado de tod
 
 Los dueños de ganado mayor tienen la obligación de herrarlo para justificar su propiedad, y los de ganado menor poner la señal de sangre o tatuaje. La identificación electrónica podrá utilizarse en cualquier especie animal como método alternativo de identificación de la propiedad del ganado.
 
-Los dueños de apiarios tienen la obligación de marcar las cámaras de cría y partes de la colmena, salvo las excepciones que en la misma ley se establecen.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 7 DE MAYO DE 2021)</small>
 
 ###### Artículo 24.
 
 Los propietarios del ganado una vez que hayan obtenido ante las autoridades federales competentes el registro de los fierros, marcas, señal de sangre, tatuajes, identificación electrónica y demás medios de identificación del ganado, deberán inscribirse en el Padrón Estatal de Medios de Identificación del Ganado de la Secretaría. Sin estos requisitos no podrán recibir ni operar los beneficios que otorguen la presente Ley, su reglamento, programas y demás disposiciones aplicables estatales y municipales.
 
-La Secretaría, deberá llevar permanentemente un expediente por año y por municipio, con los ejemplares de las patentes registradas en el que conste el nombre del propietario del ganado y apiarios registrados, los fierros, marcas, señal de sangre, tatuajes, identificación electrónica y demás medios declarados, la fecha de su inscripción y demás datos que caractericen su inscripción.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+La Secretaría deberá llevar permanentemente un expediente por año y por municipio con los ejemplares de las patentes registradas en el que conste el nombre del propietario del ganado registrados, los fierros, marcas, señal de sangre, tatuajes, identificación electrónica y demás medios declarados, la fecha de su inscripción y demás datos que caractericen su inscripción.
 
 ###### Artículo 25.
 
@@ -543,9 +561,11 @@ Las crías de los animales pertenecen al dueño de la madre y no al del padre, s
 
 Los animales que no estén herrados o señalados y que se encuentren en propiedad privada, se presume que son del dueño de ésta, mientras no se compruebe lo contrario, a no ser que el propietario no tenga cría de la raza a que los animales pertenezcan.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
 ###### Artículo 31.
 
-Los fierros, marcas, señales de sangre, tatuajes, identificación electrónica o colmenas no registrados, carecen de valor legal y cuando algún animal ostente figuras o señales registradas juntamente con otras no registradas, se considerará dueño de él a la persona que exhiba documentos de propiedad del animal o de la colmena y del registro que llene los requisitos legales.
+Los fierros, marcas, señales de sangre, tatuajes o identificación electrónica no registrados, carecen de valor legal y cuando algún animal ostente figuras o señales registradas juntamente con otras no registradas se considerará dueño de él a la persona que exhiba documentos de propiedad del animal y del registro que llene los requisitos legales.
 
 ###### Artículo 32.
 
@@ -1055,139 +1075,129 @@ Para la movilización y transporte de las aves, productos y subproductos, dentro
 
 Para la introducción o salida del Estado de aves, productos y subproductos en estado natural, refrigerados, congelados o industrializados, se observará lo establecido en el capítulo relativo al control de la entrada y salida de ganado, en lo que sea aplicable a las mismas.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2021)</small>
+
 ## Título Sexto. Disposiciones Especiales sobre la Apicultura
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2021)</small>
 
 ### Capítulo I. De la Instalación de Apiarios
 
 ###### Artículo 109.
 
-La Secretaría en coordinación con los Municipios y con las Asociaciones de Apicultores, promoverá la instalación de apiarios, para lo cual otorgará la más amplia asesoría y asistencia técnica que se requiera.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 110.
 
-La Secretaría promoverá el cambio de colmenas rústicas a modernas para incrementar la producción y fomentará el mejoramiento genético mediante la introducción de reinas de raza pura de alta producción o híbridos mejorados.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 111.
 
-Toda instalación de apiarios requerirá la autorización de la Secretaría, la cual deberá sujetarse a las disposiciones de la presente Ley y su Reglamento y tomando en cuenta lo establecido en los planes de desarrollo urbano y rural, así como en los planes ecológicos. Deberá solicitar información al respecto al Municipio donde se vaya a instalar el apiario.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 112.
 
-Todos los apicultores están obligados a inscribirse en el Padrón Estadístico de la Secretaría, aportando los datos que ésta considere pertinentes.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 113.
 
-Todo apicultor, al instalar sus apiarios, deberá observar las siguientes distancias:
-
-I. En los caminos vecinales, a una distancia de 15 metros de los mismos;
-
-II. En los predios, una distancia mínima de un kilómetro de la casa o casas habitaciones de los centros poblados. Se deberá acreditar el derecho al uso del predio para instalar apiarios; y,
-
-III. Los apiarios deberán estar instalados a una distancia mínima de un kilómetro, uno del otro.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 114.
 
-Ninguna persona física o moral podrá objetar o impedir la instalación de apiarios de productores del Estado siempre y cuando ésta se realice en zonas no explotadas, previo permiso del propietario del predio o que estándolo se respeten los espacios límites, derechos de antigüedad de los apicultores de la zona que se trate y las normas fijadas por las autoridades competentes.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 115.
 
-Cuando el apicultor carezca de predios propios o requiera otros sitios para nuevos apiarios o cambio de éstos, deberá contar con el permiso previo y por escrito del propietario del terreno donde pretende establecerse o de la autoridad ejidal o comunal en caso de ser predios sujetos a ese régimen, debiendo especificarse el tiempo y las condiciones, en el entendido de que tendrán prioridad los propietarios o derechohabientes.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 116.
 
-Todo apicultor instalado dentro del territorio estatal que se considere afectado en forma ilícita en su espacio límite de un kilómetro, lo comunicará por escrito en el momento que tenga conocimiento a la Asociación de Apicultores correspondiente; si no es asociado lo informará por el mismo medio al Municipio correspondiente y a la Secretaría.
-
-La Asociación de Apicultores local, tendrá la obligación de levantar un acta circunstanciada en cuanto reciba alguna denuncia y en un término no mayor de cuarenta y ocho horas lo turnará al Municipio correspondiente y a la Secretaría para los trámites conducentes.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 117.
 
-La Secretaría verificará que los apiarios estén instalados conforme a las disposiciones establecidas en esta Ley y sus reglamentos, en el caso de que contravenga dichas disposiciones, levantará acta circunstanciada y en la misma notificará y exhortará a la persona con quien se entienda la diligencia, para que en un término de quince días naturales, contados a partir de la notificación, lo ubique en un nuevo sitio permitido por las disposiciones legales aplicables. Una vez transcurrido el término para que se ubique en un nuevo sitio y ésta no se haya efectuado, el apiario, las colmenas, equipo y material biológico quedarán a disposición de la Secretaría para su venta en subasta pública, aplicándose lo conducente del capítulo relativo a los animales mostrencos. El producto que se obtenga de la venta será entregado al infractor, previo pago de la sanción que se establece en el capítulo respectivo y el importe de los gastos causados.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 118.
 
-Las controversias suscitadas entre apicultores por la instalación de apiarios, de no resolverse por mutuo acuerdo serán resueltas por la Secretaría.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 119.
 
-Se declara de interés público el fomento y la conservación de plantas melíferas.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2021)</small>
 
 ### Capítulo II. De la Propiedad y Marca de las Colmenas
 
 ###### Artículo 120.
 
-La propiedad de los apiarios se acreditará con:
-
-I. La factura o documento legal que acredite la transferencia de dominio;
-
-II. La guía de tránsito y el permiso que ampare el traslado de lugar de origen al de ubicación del o los apiarios; y,
-
-III. La constancia de inscripción en el Padrón Estatal de Medios de Identificación del Ganado expedida por la Secretaría.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 121.
 
-Todo apicultor deberá tener su marca debidamente registrada ante las autoridades Federales competentes e inscrita en el Padrón Estatal de Medios de Identificación del Ganado. La solicitud de inscripción de marca deberá ser formulada en las formas oficiales que proporcione la Secretaría.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 122.
 
-La Secretaría llevará una inscripción en el Padrón Estatal de Medios de Identificación del Ganado, de las marcas registradas ante las autoridades Federales, y notificará a éstas cuando existan marcas semejantes.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 123.
 
-Todo apicultor tiene la obligación de marcar sus colmenas e identificar sus productos y subproductos en la forma establecida en su registro.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 124.
 
-Para la identificación de propiedad de las colmenas, todo apicultor que opere dentro del Estado marcará en el centro de sus cámaras de cría y demás partes que formen la colmena con una figura que por medio de fierro caliente con medidas similares a las usadas por los ganaderos para herrar sus animales, el cual deberá estar inscrito en el Padrón Estatal y Municipal de Medios de Identificación del Ganado.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 125.
 
-Cuando un apicultor venda colmenas o material apícola marcado, el nuevo dueño pondrá su fierro o marca en el ángulo inferior izquierdo; debiendo expedirse las facturas correspondientes, acreditándose con ello la propiedad, notificando lo anterior a la Secretaría y al Municipio correspondiente, para su conocimiento y control respectivamente.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 126.
 
-Las colmenas remarcadas o alteradas en sus marcas de identificación, serán canceladas de no justificar la legitimidad de las mismas y se procederá de acuerdo a las sanciones que establece esta Ley y su Reglamento.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 127.
 
-Se prohíbe el uso de marcas no inscritas y validadas, así como utilizar las marcas de otro apicultor registrado. Toda persona que utilice marcas registradas conforme a la Ley, de las cuales no sea titular, será denunciado a las autoridades competentes, independientemente de que se le sancione conforme a esta Ley y su Reglamento.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2021)</small>
 
 ### Capítulo III. De la Inspección de los Apiarios, Colmenas y sus Productos
 
 ###### Artículo 128.
 
-La inspección de los apiarios, colmenas, productos, subproductos, instalaciones y predios donde se ubiquen, será obligatoria para sus propietarios, poseedores o encargados de los mismos.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 129.
 
-La inspección tendrá efecto:
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
-I. En el lugar de ubicación de los apiarios;
-
-II. En la movilización de las colmenas, sus productos y subproductos; y,
-
-III. En las bodegas, plantas de extracción, sedimentación y envasado.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2021)</small>
 
 ### Capítulo IV. De la Movilización y Transportación de los Apiarios, Colmenas, sus Productos y Subproductos
 
 ###### Artículo 130.
 
-Para el control sanitario de la movilización y transportación de los apiarios dentro de la entidad con el propósito de ubicarlos en un nuevo sitio, deberá solicitar la certificación de la Secretaría de que cumplen con las disposiciones de la presente Ley y su Reglamento, para lo cual acompañará el plano descriptivo de la zona en la que deberán señalarse los apiarios existentes.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 131.
 
-Para la movilización y transportación de colmenas y sus productos derivados dentro del Estado, no será necesaria (sic) certificado zoosanitario y guía de tránsito, salvo disposiciones de campañas específicas o de emergencia sanitaria.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 132.
 
-Toda persona que desee introducir al territorio del Estado colmenas, abejas, sus productos y subproductos, de otra Entidades (sic) Federativa, deberá contar con el certificado zoosanitario correspondiente, la guía de tránsito del lugar de origen, autorización por escrito de la Asociación de Apicultores correspondiente y del propietario del predio donde se pretende ubicar el apiario, notificar al Municipio correspondiente y a la Secretaría, respecto del lugar donde se instalarán dichas colmenas. Para tal efecto anexará el plano del sitio donde pretenda instalar los apiarios, debiendo señalar los colmenares cercanos ya existentes.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 133.
 
-Todo embarque de miel deberá acompañarse del permiso que expida la Secretaría, en la que se defina su calidad y características organolépticas. Sin este requisito no se autorizará su salida.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 134.
 
-Para la movilización y transportación de colmenas, abejas, miel y los productos y subproductos derivados a granel fuera del Estado, deberá contarse con la guía de tránsito que expida la Asociación de Apicultores Local correspondiente y el certificado zoosanitario.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ## Título Séptimo. De la Sanidad Animal
 
@@ -1267,15 +1277,15 @@ Mientras no se levante la declaratoria de infección, no se expedirán guías de
 
 ###### Artículo 153.
 
-Será obligatorio reportar a la Secretaría, a las autoridades federales y municipales competentes, los casos de colmenas que se consideren portadoras de enfermedades o africanizadas para que se establezcan las medidas pertinentes en zonas infestadas o infectadas prohibiendo su traslado.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 154.
 
-Será obligatorio participar en las campañas que efectúen las autoridades, organismos públicos o privados, nacionales o extranjeros, en contra de plagas, enfermedades de las abejas y de la abeja africana, para promover el mejoramiento técnico y genético.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ###### Artículo 155.
 
-Con el objeto de mantener la salud de las colonias de abejas y consecuentemente su productividad y en vista de que las enfermedades pueden ser transmitidas por las abejas de un apiario a otro, cada apicultor tendrá la responsabilidad de poner en práctica todas las medidas que estén a su alcance, a fin de controlar y pugnar por la erradicación de las enfermedades infecto-contagiosas y parasitarias, así como evitar su difusión. Para ello, la Secretaría, proporcionará la asistencia técnica necesaria a todos los apicultores que lo soliciten en coordinación con las organizaciones de apicultores correspondiente.
+(DEROGADO, P.O. 7 DE MAYO DE 2021)
 
 ## Título Octavo. Del Sacrificio de Ganado para Consumo Público o Particular
 
@@ -1972,3 +1982,25 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 7 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 585 DEL H. CONGRESO DEL ESTADO.- QUE EXPIDE LA LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES, Y REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO GANADERO, AMBAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Dentro de los sesenta días siguientes al inicio de vigencia del presente Decreto se deberá constituir el Comité Estatal del Sistema Producto Apícola.
+
+CUARTO. Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto los apicultores deberán solicitar su registro ante la Secretaría de Agricultura y Ganadería del Estado.
+
+QUINTO. El Titular del Ejecutivo del Estado en un término de noventa días a partir de la vigencia del presente Decreto deberá expedir el Reglamento de la presente Ley.
+
+SEXTO. La prohibición del uso de plaguicidas que contengan los ingredientes activos de Clotianidina, Imidacloprid, Tiametoxam y Fipronil en la agricultura a cielo abierto, entrará en vigencia en dos años, contados a partir de la entrada vigor del presente Decreto.
+
+La agricultura protegida en invernaderos plásticos y casasombras cubiertas de mallas antiáfidos que estén completamente cerrados se exceptúa de la prohibición del uso de plaguicidas que contengan los ingredientes activos de Clotianidina, Imidacloprid, Tiametoxam y Fipronil, y su factibilidad será revisada en el año 2025, para efecto de evaluar su utilización y determinar su continuidad o su prohibición, tomando en cuenta las prácticas agroecológicas y el manejo integrado para el control de plagas.
+
+SÉPTIMO. El Titular del Ejecutivo dictará los lineamientos que correspondan en cuanto al uso, adquisición, distribución, promoción e importación de los agroquímicos referidos en el presente Decreto e instruirá a las Secretarías de Agricultura y Ganadería, y de Desarrollo Sustentable a implementar y promover alternativas sostenibles y ambientalmente amigables con productos de baja toxicidad, biológicos u orgánicos y con prácticas agroecológicas que resulten seguras para la salud humana, la diversidad biocultural y el ambiente.
+
+OCTAVO. El Programa de manejo integrado para el control de plagas, deberá ser elaborado y publicado a más tardar el 30 de abril de 2022, para lo cual el Titular del Ejecutivo convocará a las instituciones de educación superior, centros de investigación, productores apícolas, agrícolas, a la industria de agroquímicos, a las asociaciones de usuarios de agroquímicos y a las organizaciones de productores de bioinsumos e insumos agrícolas orgánicos.
