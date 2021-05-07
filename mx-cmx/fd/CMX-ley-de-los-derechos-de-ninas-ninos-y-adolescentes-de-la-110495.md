@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2021-02-10"
+last_updated: "2021-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 10 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE MAYO DE 2021.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -84,17 +84,27 @@ Para garantizar la protección de los derechos humanos de niñas, niños y adole
 
 Para tal efecto, deberán:
 
-I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos, género y niñez, en el diseño y la instrumentación de políticas y programas de gobierno;
+> <small>(ADICIONADA, G.O. 7 DE MAYO DE 2021)</small>
 
-II. Promover la participación de todos los sectores de la sociedad, tomando en cuenta la opinión de niñas, niños y adolescentes considerando los aspectos culturales, éticos, afectivos, educativos y de salud, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, y
+I. Garantizar su derecho a la vida, la paz, a la supervivencia y al desarrollo integral;
 
-III. Implementar los mecanismos para el diseño, ejecución, seguimiento y evaluación de políticas públicas, programas sociales y gubernamentales, legislación y compromisos derivados de las normas constitucionales y de los tratados internacionales celebrados por el Estado mexicano de manera transparente y accesible.
+II. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos, género y niñez, en el diseño y la instrumentación de políticas y programas de gobierno;
+
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2021)</small>
+
+III. Promover la participación de todos los sectores de la sociedad, tomando en cuenta la opinión de niñas, niños y adolescentes considerando los aspectos culturales, éticos, afectivos, educativos y de salud, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez;
+
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2021)</small>
+
+IV. Implementar los mecanismos para el diseño, ejecución, seguimiento y evaluación de políticas públicas, programas sociales y gubernamentales, legislación y compromisos derivados de las normas constitucionales y de los tratados internacionales celebrados por el Estado mexicano de manera transparente y accesible; y
 
 > <small>(ADICIONADA, G.O. 4 DE NOVIEMBRE DE 2016)</small>
 
-IV. Establecer mecanismos para prevenir el abuso y maltrato, o explotación laboral o sexual.
+V. Establecer mecanismos para prevenir el abuso y maltrato, o explotación laboral o sexual.
 
-Las autoridades administrativas de la ciudad de México y de sus órganos político administrativos, así como la Asamblea Legislativa, en el ámbito de sus respectivas competencias, deberán incluir en sus proyectos de presupuesto la asignación de recursos que permita dar cumplimiento a las acciones ordenadas por la presente Ley.
+> <small>(REFORMADO, G.O. 7 DE MAYO DE 2021)</small>
+
+Las autoridades administrativas, así como de los órganos político administrativos y el Congreso, todos de la Ciudad de México, en el ámbito de sus respectivas competencias, deberán incluir en sus proyectos de presupuesto la asignación de recursos que permita dar cumplimiento a las acciones ordenadas por la presente Ley.
 
 ###### Artículo 3.
 
@@ -140,9 +150,9 @@ VI. Acciones de Prevención: Aquéllas que deben realizarse por las autoridades 
 
 VII. Acciones de Protección: Aquéllas que deben realizarse por las autoridades o servidores públicos de la Ciudad de México, familia y sociedad a fin de proporcionar bienes o servicios a las niñas, niños y adolescentes que se encuentran en condiciones de desventaja social, o cuyas condiciones de vida estén deterioradas, a efecto de restituirlas y protegerlas;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2021)</small>
 
-VIII. Acciones de Provisión: Aquéllas que deben realizarse por las autoridades o servidores públicos de la Ciudad de México, familia y sociedad a fin de garantizar la sobrevivencia, bienestar y desarrollo pleno de las niñas, niños y adolescentes para dar satisfacción a sus derechos;
+VIII. Acciones de Provisión: Aquéllas que deben realizarse por las autoridades o servidores públicos de la Ciudad de México, familia y sociedad a fin de garantizar la vida, la paz, la sobrevivencia, bienestar y desarrollo integral de las niñas, niños y adolescentes para dar satisfacción a sus derechos;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], G.O. 10 DE FEBRERO DE 2021)</small>
 
@@ -338,7 +348,9 @@ IV. La no discriminación;
 
 V. La inclusión;
 
-VI. El derecho a la vida, a la supervivencia y al desarrollo;
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2021)</small>
+
+VI. El derecho a la vida, a la paz, a la supervivencia y al desarrollo integral;
 
 VII. La participación;
 
@@ -402,7 +414,9 @@ Asimismo, lo anterior se garantizara conforme a la ley de datos personales para 
 
 Todas las niñas, niños y adolescentes son iguales ante la ley y merecen un trato igual y equitativo. De manera enunciativa más no limitativa, en la Ciudad de México gozarán de los siguientes derechos:
 
-I. Derecho a la vida, a la supervivencia y al desarrollo;
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2021)</small>
+
+I. Derecho a la vida, a la paz, a la supervivencia y al desarrollo;
 
 II. Derecho de prioridad;
 
@@ -462,13 +476,19 @@ En la aplicación de la presente Ley se tomarán en cuenta las condiciones parti
 
 Las autoridades de la Ciudad de México y los órganos político administrativos, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos humanos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad de conformidad con lo previsto en el artículo 115 de la presente ley.
 
-### Capítulo Primero. Del Derecho a la Vida, a la Supervivencia y al Desarrollo
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 7 DE MAYO DE 2021)</small>
+
+### Capítulo Primero. Del Derecho a la Vida, a la Paz, a la Supervivencia y al Desarrollo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE MAYO DE 2021)</small>
 
 ###### Artículo 15.
 
-Niñas, niños y adolescentes tienen derecho a que se les preserve la vida y a disfrutarla en condiciones que aseguren su dignidad y un nivel de vida adecuado para su desarrollo integral óptimo físico, mental, material, espiritual, ético, cultural y social.
+Niñas, niños y adolescentes tienen derecho a la paz, a que se les preserve la vida y a disfrutarla en condiciones que aseguren su dignidad y un nivel de vida adecuado para su desarrollo integral óptimo físico, mental, material, espiritual, ético, cultural y social.
 
-Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos, ni en cualquier tipo de experimento o ensayo que atente contra su dignidad humana.
+> <small>(REFORMADO, G.O. 7 DE MAYO DE 2021)</small>
+
+Niñas, niños y adolescentes tienen derecho a la paz, a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos, ni en cualquier tipo de experimento o ensayo que atente contra su dignidad humana.
 
 > <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 2020)</small>
 
@@ -1632,29 +1652,33 @@ Siempre que se encuentre una niña, niño o adolescente en el contexto de la com
 
 Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, en proporción a su responsabilidad y, cuando sean instituciones públicas, conforme a su ámbito de competencia, las siguientes:
 
-I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
+> <small>(ADICIONADA, G.O. 7 DE MAYO DE 2021)</small>
+
+I. Realizar y tomar todas las medidas necesarias a fin de garantizar que niñas, niños y adolescentes gocen plenamente del derecho a la vida, a la paz, a la supervivencia y al desarrollo integral;
+
+II. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
 
 Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación;
 
-II. Registrarlos dentro de los primeros sesenta días de vida;
+III. Registrarlos dentro de los primeros sesenta días de vida;
 
-III. Asegurar que cursen la educación obligatoria, participar en su proceso educativo y proporcionarles las condiciones para su continuidad y permanencia en el sistema educativo;
+IV. Asegurar que cursen la educación obligatoria, participar en su proceso educativo y proporcionarles las condiciones para su continuidad y permanencia en el sistema educativo;
 
-IV. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad;
+V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad;
 
-V. Fomentarles el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
+VI. Fomentarles el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
-VI. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y cualquier forma de explotación;
+VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y cualquier forma de explotación;
 
-VII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
+VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
 
-VIII. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
+IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
 
-IX. Considerar su opinión y preferencia para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
+X. Considerar su opinión y preferencia para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
-X. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación y;
+XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación y;
 
-XI. Promover y fomentar acciones libres de prejuicios, roles, estereotipos que denigren a las niñas, niños y las adolescentes.
+XII. Promover y fomentar acciones libres de prejuicios, roles, estereotipos que denigren a las niñas, niños y las adolescentes.
 
 En casos de controversia, el órgano jurisdiccional competente determinará el grado de responsabilidad de quien tenga a su cargo y cuidado a niñas, niños o adolescentes, atendiendo a los principios rectores de esta Ley.
 
@@ -1726,7 +1750,9 @@ IV. Adoptar medidas de protección especial de derechos de niñas, niños y adol
 
 V. Proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en relación a las obligaciones que establece esta Ley;
 
-VI. Garantizar el desarrollo y la supervivencia así como investigar, sancionar efectivamente los actos de privación de la vida en perjuicio de niñas, niños y adolescentes y garantizar la reparación del daño que corresponda;
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2021)</small>
+
+VI. Realizar las medidas necesarias a fin de garantizar el derecho a la vida, a la paz, al desarrollo y la supervivencia, así como investigar, sancionar efectivamente los actos de privación de la vida en perjuicio de niñas, niños y adolescentes y garantizar la reparación del daño que corresponda;
 
 VII. Investigar y en su caso sancionar efectivamente los actos constitutivos de delitos en agravio de niñas, niños y adolescentes;
 
@@ -2613,3 +2639,9 @@ Sexto. El DIF CDMX realizará lo conducente para favorecer el interés superior 
 Séptimo. Respecto del Registro del registro de adopción establecido en el artículo 40 de la Ley de Derechos de Niñas, Niños y Adolescentes de la Ciudad de México el DIF CDMX, tomará las medidas necesarias para coordinar los trabajos con el DIF Nacional a fin de que los parámetros y campos de registro local mantengan homogeneidad y compatibilidad de formato con los del registro nacional y que puedan ser incorporados de forma eficaz.
 
 Octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA AL ARTÍCULO 2 UNA FRACCIÓN I RECORRIENDO EN SU ORDEN LAS SUBSECUENTES, AL ARTÍCULO 89 UNA FRACCIÓN I RECORRIENDO EN SU ORDEN LAS SUBSECUENTES; SE REFORMA EL ARTÍCULO 2 EN SU ÚLTIMO PÁRRAFO, ARTÍCULO 4 FRACCIÓN VIII, ARTÍCULO 6 FRACCIÓN VI, ARTÍCULO 13 FRACCIÓN I, ARTÍCULO 15 EN SU PÁRRAFO PRIMERO Y SEGUNDO, ARTÍCULO 99 FRACCIÓN VI, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO PRIMERO DEL TÍTULO SEGUNDO; TODOS ELLOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
