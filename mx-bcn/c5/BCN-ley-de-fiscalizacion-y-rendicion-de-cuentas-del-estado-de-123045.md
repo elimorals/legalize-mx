@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12304
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-11"
-last_updated: "2017-08-11"
+last_updated: "2021-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2021.
 
 Ley publicada en la Sección I al Número 37 del Periódico Oficial del Estado de Baja California, el viernes 11 de agosto de 2017.
 
@@ -201,13 +201,17 @@ II. Se aplicarán las multas previstas en este artículo a los terceros que hubi
 
 III. La reincidencia se sancionará con una multa hasta del doble de la impuesta anteriormente, sin perjuicio de que persista la obligación de atender el requerimiento respectivo;
 
-IV. Las multas establecidas en esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida. La Secretaría de Planeación y Finanzas del Estado se encargará de hacer efectivo su cobro en términos del Código Fiscal del Estado, y de las demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
+
+IV. Las multas establecidas en esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida. La Secretaría de Hacienda del Estado se encargará de hacer efectivo su cobro en términos del Código Fiscal del Estado, y de las demás disposiciones aplicables;
 
 V. Para imponer la multa que corresponda, la Auditoría Superior del Estado, debe oír previamente al presunto infractor y tener en cuenta sus condiciones económicas, así como la gravedad de la infracción cometida y en su caso, elementos atenuantes, su nivel jerárquico y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta Ley; y,
 
 VI. Las multas que se impongan en términos de este artículo son independientes de las sanciones administrativas y penales que, en términos de las leyes en dichas materias, resulten aplicables por la negativa a entregar información o cumplir con los requerimientos de la Auditoría Superior del Estado, así como por los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora o la entrega de información falsa.
 
-La Auditoría Superior del Estado celebrará los convenios y/o mecanismos de colaboración con la Secretaría de Planeación y Finanzas del Estado, para que los ingresos derivados de estas multas se reintegren a la Auditoría Superior del Estado, los cuales serán destinados a propiciar el desarrollo institucional y mejora continua del mismo, conforme a su Plan de Desarrollo Institucional, y en ningún caso podrá destinarse al pago de sueldos, salarios o incentivos económicos.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+La Auditoría Superior del Estado celebrará los convenios y/o mecanismos de colaboración con la Secretaría de Hacienda del Estado, para que los ingresos derivados de estas multas se reintegren a la Auditoría Superior del Estado, los cuales serán destinados a propiciar el desarrollo institucional y mejora continua del mismo, conforme a su Plan de Desarrollo Institucional, y en ningún caso podrá destinarse al pago de sueldos, salarios o incentivos económicos.
 
 ###### Artículo 12.
 
@@ -257,11 +261,17 @@ Para los efectos de lo señalado anteriormente, la Auditoría Superior del Estad
 
 La Cuenta Pública se integrará en términos de lo dispuesto en la Ley General de Contabilidad Gubernamental, Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California, y demás disposiciones aplicables en la materia, y deberá presentarse en los términos establecidos en el artículo 14 de la presente Ley, al Congreso a más tardar el 30 de abril del año siguiente del ejercicio fiscal correspondiente. Sólo se podrá ampliar el plazo de presentación, en un término que no deberá exceder de treinta días naturales, cuando medie solicitud del Gobernador del Estado o de los Presidentes Municipales, según corresponda, suficientemente justificada a juicio del Congreso; una vez concluido el término anterior o la prórroga concedida, si el titular del Ente Público no la remitió, podrá aplicársele alguna de las multas previstas en el artículo 11 de esta Ley, con independencia de las sanciones administrativas y penales que en los términos de las leyes en dichas materias, resulten aplicables.
 
-Adicionalmente, el Titular de la Secretaría de Planeación y Finanzas del Estado y las Tesorerías Municipales, respectivamente, deberán integrar y enviar al Congreso la Cuenta Pública consolidada, correspondiente al ejercicio fiscal anterior, de conformidad con las reglas que emita el Consejo Nacional de Armonización Contable.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
 
-Para efectos de lo dispuesto en el párrafo anterior de este artículo, las Entidades Paraestatales, los Órganos Constitucionales Autónomos y los Poderes del Estado, deberán entregar a la Secretaría de Planeación y Finanzas del Estado, y las Entidades Paramunicipales a las Tesorerías Municipales, a más tardar en el mes de marzo, la información y documentación que deban presentar en su respectiva Cuenta Pública.
+Adicionalmente, el Titular de la Secretaría de Hacienda del Estado y las Tesorerías Municipales, respectivamente, deberán integrar y enviar al Congreso la Cuenta Pública consolidada, correspondiente al ejercicio fiscal anterior, de conformidad con las reglas que emita el Consejo Nacional de Armonización Contable.
 
-La Secretaría de Planeación y Finanzas del Estado y las Tesorerías Municipales, respectivamente, podrán emitir reglas o criterios a las que se sujetarán los Entes Públicos, para cumplir con la consolidación de la Cuenta Pública.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+Para efectos de lo dispuesto en el párrafo anterior de este artículo, las Entidades Paraestatales, los Órganos Constitucionales Autónomos y los Poderes del Estado, deberán entregar a la Secretaría de Hacienda del Estado, y las Entidades Paramunicipales a las Tesorerías Municipales, a más tardar en el mes de marzo, la información y documentación que deban presentar en su respectiva Cuenta Pública.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2021)</small>
+
+La Secretaría de Hacienda del Estado y las Tesorerías Municipales, respectivamente, podrán emitir reglas o criterios a las que se sujetarán los Entes Públicos, para cumplir con la consolidación de la Cuenta Pública.
 
 ###### Artículo 20.
 
@@ -1091,7 +1101,9 @@ XVIII. Concertar y celebrar, en los casos que estime necesario, convenios con la
 
 XIX. Dar cuenta comprobada al Congreso, a través de la Comisión, de la aplicación de su presupuesto aprobado, dentro de los treinta primeros días del mes siguiente al que corresponda su ejercicio;
 
-XX. Solicitar a la Secretaría de Planeación y Finanzas, el cobro de las multas que se impongan en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2021)</small>
+
+XX. Solicitar a la Secretaría de Hacienda, el cobro de las multas que se impongan en los términos de esta Ley;
 
 XXI. Instruir la presentación de las denuncias penales o de juicio político que procedan, como resultado de las irregularidades detectadas con motivo de la fiscalización, con apoyo en los dictámenes técnicos respectivos, de conformidad con las disposiciones legales aplicables;
 
@@ -1332,3 +1344,11 @@ GOBERNADOR DEL ESTADO.
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 224 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA A LOS ARTÍCULOS 11, 19 Y 94 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS”.]
+
+ÚNICO: El presente decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
